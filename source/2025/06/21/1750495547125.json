@@ -1,0 +1,410 @@
+{
+  "runTime": 1750495547125,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1563821,
+        "num": 1563821,
+        "word": "李雪琴美成这样了",
+        "onboard_time": 1750493602,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 898508,
+        "num": 898508,
+        "word": "千万不要买绿色的防晒衣",
+        "onboard_time": 1750480880,
+        "rank": 1,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 11886,
+        "num": 773418,
+        "word": "文化中国行美好如夏至",
+        "onboard_time": 1750439538,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 693840,
+        "num": 693840,
+        "word": "唐国强称在闲鱼收时团小卡认人",
+        "onboard_time": 1750491681,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 473348,
+        "num": 473348,
+        "word": "爱尔兰化粪池现近800幼童遗骨",
+        "onboard_time": 1750474642,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 418498,
+        "num": 418498,
+        "word": "印度少女遭14人强奸两年现怀孕8月",
+        "onboard_time": 1750484301,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 396969,
+        "num": 396969,
+        "word": "有龙则零",
+        "onboard_time": 1750489100,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 373585,
+        "num": 373585,
+        "word": "长期不吃主食1年后身体的变化",
+        "onboard_time": 1750477700,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 308168,
+        "num": 308168,
+        "word": "iPhone检测针孔摄像头方法",
+        "onboard_time": 1750482802,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 262545,
+        "num": 262545,
+        "word": "邓超王祖蓝十年前十年后",
+        "onboard_time": 1750488381,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 748454,
+        "num": 261976,
+        "word": "痞幼 悬崖便利店买水",
+        "onboard_time": 1750491620,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 567798,
+        "num": 260656,
+        "word": "霍震霆曝儿子霍启仁已结婚",
+        "onboard_time": 1750484002,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272216,
+        "num": 260192,
+        "word": "重度抑郁躯体化的真实表现",
+        "onboard_time": 1750477221,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 258792,
+        "num": 258792,
+        "word": "被骗40万女子说骗子会提供情绪价值",
+        "onboard_time": 1750489281,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183825,
+        "num": 248439,
+        "word": "强奸未遂男子杀害堂妹被执行死刑",
+        "onboard_time": 1750494739,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240763,
+        "num": 240763,
+        "word": "李先彬自曝是李光洙追的自己",
+        "onboard_time": 1750485921,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235453,
+        "num": 235453,
+        "word": "小米 性能",
+        "onboard_time": 1750494860,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 224443,
+        "num": 224443,
+        "word": "尚公主明天官宣",
+        "onboard_time": 1750487002,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196318,
+        "num": 196318,
+        "word": "原来小说里富家子弟一个班是真的",
+        "onboard_time": 1750483101,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89141,
+        "num": 181830,
+        "word": "有王骁就稳了",
+        "onboard_time": 1750493001,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113475,
+        "num": 178048,
+        "word": "刚下高铁就感受到常州多想进球",
+        "onboard_time": 1750494322,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175079,
+        "num": 175079,
+        "word": "牺牲62年后他的头颅在工地被发现",
+        "onboard_time": 1750486941,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168425,
+        "num": 168425,
+        "word": "郭晓婷聊斋的本子全部吻上来",
+        "onboard_time": 1750492820,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168029,
+        "num": 168029,
+        "word": "中餐厅收视率第一",
+        "onboard_time": 1750476801,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25203,
+        "num": 165010,
+        "word": "10个表现是抑郁躯体化的症状",
+        "onboard_time": 1750494860,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 164506,
+        "num": 164506,
+        "word": "小米严禁以任何形式诋毁竞品",
+        "onboard_time": 1750488861,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 153903,
+        "num": 153903,
+        "word": "伊朗开出谈判条件",
+        "onboard_time": 1750472240,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153455,
+        "num": 153455,
+        "word": "长剧演员拍短剧是资源降级吗",
+        "onboard_time": 1750492040,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152177,
+        "num": 153152,
+        "word": "赵丽颖章子怡杨幂酱园弄海报",
+        "onboard_time": 1750477282,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140348,
+        "num": 153119,
+        "word": "何炅是沈月阿拉伯语唯一人脉",
+        "onboard_time": 1750493120,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41373,
+        "num": 153118,
+        "word": "常州首发阵容",
+        "onboard_time": 1750495342,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153118,
+        "num": 153117,
+        "word": "为啥1个椰子十几元椰子水9.9",
+        "onboard_time": 1750489160,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76426,
+        "num": 136831,
+        "word": "伊朗大使称伊朗从未离开谈判桌",
+        "onboard_time": 1750493781,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136538,
+        "num": 136538,
+        "word": "张艺兴为演话剧专门去敦煌学习",
+        "onboard_time": 1750488861,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127510,
+        "num": 127510,
+        "word": "伊朗大使形容特朗普是白日做梦",
+        "onboard_time": 1750491081,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120062,
+        "num": 120062,
+        "word": "只有师范生才懂她有多强",
+        "onboard_time": 1750494141,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115007,
+        "num": 115007,
+        "word": "林黛玉哭了37次 唐僧哭了45次",
+        "onboard_time": 1750493602,
+        "rank": 36,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 106713,
+        "num": 113754,
+        "word": "韩国网友要求闵玧其退团",
+        "onboard_time": 1750487120,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112659,
+        "num": 112659,
+        "word": "包浆labubu",
+        "onboard_time": 1750482921,
+        "rank": 38,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 110931,
+        "num": 110931,
+        "word": "以色列热转视频",
+        "onboard_time": 1750488921,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 109457,
+        "num": 109457,
+        "word": "常州连比分都彩排了",
+        "onboard_time": 1750494200,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103599,
+        "num": 103599,
+        "word": "爱犬路边被陌生男射击毒针死亡",
+        "onboard_time": 1750494021,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102679,
+        "num": 102679,
+        "word": "被妈妈下班后的日常累到了",
+        "onboard_time": 1750495220,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101671,
+        "num": 101671,
+        "word": "萧亚轩笑着说我反对",
+        "onboard_time": 1750494080,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100667,
+        "num": 100667,
+        "word": "在恐惧和恐慌之间选择了恐龙",
+        "onboard_time": 1750494620,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99377,
+        "num": 99377,
+        "word": "以色列总理抱怨儿子婚礼推迟",
+        "onboard_time": 1750490061,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97359,
+        "num": 97359,
+        "word": "经期真正不能做的10件事",
+        "onboard_time": 1750487002,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 91189,
+        "num": 91189,
+        "word": "柯淳上一秒angry下一秒sorry",
+        "onboard_time": 1750495461,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89016,
+        "num": 89016,
+        "word": "商家 不辱追可以吗",
+        "onboard_time": 1750495461,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83404,
+        "num": 86080,
+        "word": "万婴墓",
+        "onboard_time": 1750494200,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记强调粮食生产年年要抓紧#"
+    }
+  }
+}

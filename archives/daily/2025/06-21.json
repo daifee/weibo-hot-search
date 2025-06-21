@@ -1,6 +1,6 @@
 {
   "startTime": 1750437141136,
-  "endTime": 1750494669619,
+  "endTime": 1750495547125,
   "band_list": [
     {
       "raw_hot": 1988631,
@@ -25,6 +25,14 @@
       "onboard_time": 1750480880,
       "rank": 30,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 1563821,
+      "num": 1563821,
+      "word": "李雪琴美成这样了",
+      "onboard_time": 1750493602,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1430122,
@@ -139,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 748454,
+      "num": 322837,
+      "word": "痞幼 悬崖便利店买水",
+      "onboard_time": 1750491620,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 740795,
       "num": 740795,
       "word": "中餐厅收视率第一",
@@ -147,12 +163,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 721907,
-      "num": 322837,
-      "word": "痞幼 悬崖便利店买水",
-      "onboard_time": 1750491620,
-      "rank": 10,
-      "category": "网红"
+      "raw_hot": 693840,
+      "num": 693840,
+      "word": "唐国强称在闲鱼收时团小卡认人",
+      "onboard_time": 1750491681,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 672887,
@@ -160,14 +176,6 @@
       "word": "赵丽颖的朋友圈又更新了",
       "onboard_time": 1750461497,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 651151,
-      "num": 651151,
-      "word": "李雪琴美成这样了",
-      "onboard_time": 1750493602,
-      "rank": 1,
       "category": "艺人"
     },
     {
@@ -321,14 +329,6 @@
       "onboard_time": 1750473981,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 424744,
-      "num": 424744,
-      "word": "唐国强称在闲鱼收时团小卡认人",
-      "onboard_time": 1750491681,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 423822,
@@ -619,6 +619,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 235453,
+      "num": 235453,
+      "word": "小米 性能",
+      "onboard_time": 1750494860,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 234809,
       "num": 192929,
       "word": "网红迪士尼健康堪忧",
@@ -817,6 +825,14 @@
       "onboard_time": 1750475301,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 183825,
+      "num": 248439,
+      "word": "强奸未遂男子杀害堂妹被执行死刑",
+      "onboard_time": 1750494739,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 183207,
@@ -1091,6 +1107,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 140348,
+      "num": 153119,
+      "word": "何炅是沈月阿拉伯语唯一人脉",
+      "onboard_time": 1750493120,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139006,
       "num": 139006,
       "word": "男子乳胶床垫用10年内部碎成粉末",
@@ -1243,6 +1267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127510,
+      "num": 168698,
+      "word": "伊朗大使形容特朗普是白日做梦",
+      "onboard_time": 1750491081,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 126878,
       "num": 164605,
       "word": "白鹿是于正心目中最好的双月",
@@ -1276,7 +1308,7 @@
     },
     {
       "raw_hot": 125808,
-      "num": 126479,
+      "num": 773418,
       "word": "文化中国行美好如夏至",
       "onboard_time": 1750439538,
       "rank": 12,
@@ -1313,14 +1345,6 @@
       "onboard_time": 1750488921,
       "rank": 35,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 123906,
-      "num": 168698,
-      "word": "伊朗大使形容特朗普是白日做梦",
-      "onboard_time": 1750491081,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 123872,
@@ -1360,14 +1384,6 @@
       "word": "贺峻霖到底看了几遍甄嬛传",
       "onboard_time": 1750482861,
       "rank": 37,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 120518,
-      "num": 120518,
-      "word": "何炅是沈月阿拉伯语唯一人脉",
-      "onboard_time": 1750493120,
-      "rank": 36,
       "category": "综艺"
     },
     {
@@ -1523,6 +1539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113475,
+      "num": 178048,
+      "word": "刚下高铁就感受到常州多想进球",
+      "onboard_time": 1750494322,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113193,
       "num": 113193,
       "word": "奚梦瑶梦想成真了",
@@ -1659,6 +1683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 109457,
+      "num": 280685,
+      "word": "常州连比分都彩排了",
+      "onboard_time": 1750494200,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108176,
       "num": 108176,
       "word": "26岁女生打三份工的月总收入",
@@ -1731,14 +1763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 103999,
-      "num": 103999,
-      "word": "刚下高铁就感受到常州多想进球",
-      "onboard_time": 1750494322,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 103905,
       "num": 103905,
       "word": "女子动物园制止他人乱喊乱叫遭群殴",
@@ -1761,6 +1785,14 @@
       "onboard_time": 1750494322,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102679,
+      "num": 102679,
+      "word": "被妈妈下班后的日常累到了",
+      "onboard_time": 1750495220,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 102092,
@@ -1803,6 +1835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100667,
+      "num": 100667,
+      "word": "在恐惧和恐慌之间选择了恐龙",
+      "onboard_time": 1750494620,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100269,
       "num": 100269,
       "word": "黄霄雲吐槽出差酒店",
@@ -1820,19 +1860,11 @@
     },
     {
       "raw_hot": 100066,
-      "num": 100066,
+      "num": 136831,
       "word": "伊朗大使称伊朗从未离开谈判桌",
       "onboard_time": 1750493781,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 99830,
-      "num": 99830,
-      "word": "在恐惧和恐慌之间选择了恐龙",
-      "onboard_time": 1750494620,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 99373,
@@ -1939,6 +1971,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 91189,
+      "num": 91189,
+      "word": "柯淳上一秒angry下一秒sorry",
+      "onboard_time": 1750495461,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 90708,
       "num": 90708,
       "word": "被跑男科普到了她的来历",
@@ -1971,6 +2011,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 89141,
+      "num": 282171,
+      "word": "有王骁就稳了",
+      "onboard_time": 1750493001,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 89016,
+      "num": 89016,
+      "word": "商家 不辱追可以吗",
+      "onboard_time": 1750495461,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 88881,
       "num": 165738,
       "word": "周洁琼上次进组还是临江仙",
@@ -1987,20 +2043,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 87598,
-      "num": 282171,
-      "word": "有王骁就稳了",
-      "onboard_time": 1750493001,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 83651,
       "num": 88507,
       "word": "天热出汗会消耗脂肪吗",
       "onboard_time": 1750429108,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 83404,
+      "num": 178469,
+      "word": "万婴墓",
+      "onboard_time": 1750494200,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82258,
@@ -2048,14 +2104,6 @@
       "word": "麦迪说给我个奥尼尔也能夺冠",
       "onboard_time": 1750483761,
       "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 72782,
-      "num": 280685,
-      "word": "常州连比分都彩排了",
-      "onboard_time": 1750494200,
-      "rank": 19,
       "category": "体育"
     },
     {
@@ -2323,6 +2371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41373,
+      "num": 153118,
+      "word": "常州首发阵容",
+      "onboard_time": 1750495342,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 40674,
       "num": 112736,
       "word": "央视记者提问以色列大使",
@@ -2343,14 +2399,6 @@
       "num": 38132,
       "word": "流浪犬暴雨中相拥被好心人收养",
       "onboard_time": 1750439717,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 37171,
-      "num": 178469,
-      "word": "万婴墓",
-      "onboard_time": 1750494200,
       "rank": 29,
       "category": "民生新闻"
     },
@@ -2377,6 +2425,14 @@
       "onboard_time": 1750489340,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 25203,
+      "num": 165010,
+      "word": "10个表现是抑郁躯体化的症状",
+      "onboard_time": 1750494860,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 23176,
