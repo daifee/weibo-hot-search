@@ -1,6 +1,6 @@
 {
   "startTime": 1750437141136,
-  "endTime": 1750488492974,
+  "endTime": 1750490638302,
   "band_list": [
     {
       "raw_hot": 1988631,
@@ -291,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 424403,
+      "num": 295725,
+      "word": "李先彬自曝是李光洙追的自己",
+      "onboard_time": 1750485921,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 423822,
       "num": 423822,
       "word": "6月23日起高考查分",
@@ -371,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 354148,
+      "num": 354148,
+      "word": "牺牲62年后他的头颅在工地被发现",
+      "onboard_time": 1750486941,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 340073,
       "num": 357221,
       "word": "今日10时42分夏至",
@@ -427,14 +443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 278638,
-      "num": 278638,
-      "word": "牺牲62年后他的头颅在工地被发现",
-      "onboard_time": 1750486941,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 277328,
       "num": 221875,
       "word": "水哥王昱珩送labubu",
@@ -467,12 +475,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 268030,
-      "num": 295725,
-      "word": "李先彬自曝是李光洙追的自己",
-      "onboard_time": 1750485921,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 263140,
+      "num": 263140,
+      "word": "张艺兴为演话剧专门去敦煌学习",
+      "onboard_time": 1750488861,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 261785,
@@ -555,6 +563,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 232973,
+      "num": 232973,
+      "word": "唐僧都开始卖房了",
+      "onboard_time": 1750484062,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227487,
       "num": 227487,
       "word": "以色列全境响防空警报",
@@ -585,14 +601,6 @@
       "onboard_time": 1750463539,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 211619,
-      "num": 211619,
-      "word": "唐僧都开始卖房了",
-      "onboard_time": 1750484062,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 210121,
@@ -748,7 +756,7 @@
     },
     {
       "raw_hot": 179595,
-      "num": 144579,
+      "num": 173921,
       "word": "韩国网友要求闵玧其退团",
       "onboard_time": 1750487120,
       "rank": 27,
@@ -779,6 +787,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 174065,
+      "num": 174065,
+      "word": "邓超王祖蓝十年前十年后",
+      "onboard_time": 1750488381,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173802,
       "num": 173802,
       "word": "哈哈哈哈哈",
@@ -800,6 +816,14 @@
       "word": "姜妍美得像一幅油画",
       "onboard_time": 1750480521,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 168591,
+      "num": 168591,
+      "word": "沈腾把范丞丞扔出两米远",
+      "onboard_time": 1750489641,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -875,6 +899,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 155605,
+      "num": 155605,
+      "word": "为啥1个椰子十几元椰子水9.9",
+      "onboard_time": 1750489160,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155198,
+      "num": 155198,
+      "word": "有龙则零",
+      "onboard_time": 1750489100,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154879,
       "num": 328395,
       "word": "食品发放点遭袭11名加沙儿童死亡",
@@ -921,6 +961,14 @@
       "onboard_time": 1750478841,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 148976,
+      "num": 148976,
+      "word": "常州有龙则零",
+      "onboard_time": 1750488980,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 145091,
@@ -1083,6 +1131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127986,
+      "num": 183371,
+      "word": "吒宝红衣造型少年气拉满",
+      "onboard_time": 1750489220,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 127953,
       "num": 127953,
       "word": "经常侧卧的人正在悄悄长皱纹",
@@ -1139,6 +1195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123872,
+      "num": 123872,
+      "word": "郑平安下线",
+      "onboard_time": 1750490300,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122756,
       "num": 200355,
       "word": "陈哲远假发都被泼掉了",
@@ -1187,6 +1251,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119301,
+      "num": 119301,
+      "word": "以色列热转视频",
+      "onboard_time": 1750488921,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 117585,
+      "num": 117585,
+      "word": "小米严禁以任何形式诋毁竞品",
+      "onboard_time": 1750488861,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 116703,
       "num": 116703,
       "word": "饿了么物流主管涉嫌职务犯罪",
@@ -1201,6 +1281,14 @@
       "onboard_time": 1750488201,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 115568,
+      "num": 365568,
+      "word": "伊朗恢复全国网络",
+      "onboard_time": 1750487540,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 115367,
@@ -1241,6 +1329,14 @@
       "onboard_time": 1750482141,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113547,
+      "num": 119344,
+      "word": "易烊千玺宋瞎子贴多层头皮",
+      "onboard_time": 1750490480,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 113514,
@@ -1347,6 +1443,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 110484,
+      "num": 110484,
+      "word": "看黄晓明做饼突发饿疾",
+      "onboard_time": 1750490480,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 110353,
+      "num": 110353,
+      "word": "陈梦说全运会很难打",
+      "onboard_time": 1750490480,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110081,
       "num": 195460,
       "word": "易烊千玺听到演唱会的表情",
@@ -1377,6 +1489,22 @@
       "onboard_time": 1750437200,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109592,
+      "num": 109592,
+      "word": "我的小黑狗被分了 老师一半大伯一半",
+      "onboard_time": 1750490061,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 108755,
+      "num": 108755,
+      "word": "盘点和经纪人结婚的男明星",
+      "onboard_time": 1750487842,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 108390,
@@ -1419,6 +1547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 107017,
+      "num": 107017,
+      "word": "陈哲远有自己的综艺型人格",
+      "onboard_time": 1750490120,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106094,
       "num": 105770,
       "word": "这些不舒服其实是抑郁信号",
@@ -1441,6 +1577,14 @@
       "onboard_time": 1750461316,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104711,
+      "num": 104711,
+      "word": "以色列总理抱怨儿子婚礼推迟",
+      "onboard_time": 1750490061,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 103905,
@@ -1539,14 +1683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 97624,
-      "num": 97624,
-      "word": "邓超王祖蓝十年前十年后",
-      "onboard_time": 1750488381,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 97517,
       "num": 97517,
       "word": "时尚芭莎封面",
@@ -1577,14 +1713,6 @@
       "onboard_time": 1750487601,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 96123,
-      "num": 96123,
-      "word": "盘点和经纪人结婚的男明星",
-      "onboard_time": 1750487842,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 96052,
@@ -1721,6 +1849,14 @@
       "onboard_time": 1750427906,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 78895,
+      "num": 278458,
+      "word": "被骗40万女子说骗子会提供情绪价值",
+      "onboard_time": 1750489281,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78037,
@@ -1971,14 +2107,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 44166,
-      "num": 365568,
-      "word": "伊朗恢复全国网络",
-      "onboard_time": 1750487540,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 42845,
       "num": 64458,
       "word": "易烊千玺演唱会",
@@ -1995,6 +2123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40674,
+      "num": 112736,
+      "word": "央视记者提问以色列大使",
+      "onboard_time": 1750485861,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 40325,
       "num": 40325,
       "word": "这剧开局就上这么大尺度",
@@ -2009,14 +2145,6 @@
       "onboard_time": 1750439717,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 36432,
-      "num": 107902,
-      "word": "央视记者提问以色列大使",
-      "onboard_time": 1750485861,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 35609,
@@ -2041,6 +2169,14 @@
       "onboard_time": 1750443976,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 26102,
+      "num": 212556,
+      "word": "美国约有780万的非法移民被雇用",
+      "onboard_time": 1750489340,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 23176,

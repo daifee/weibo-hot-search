@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750488492974,
+  "endTime": 1750490638302,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -11963,6 +11963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 424403,
+      "num": 295725,
+      "word": "李先彬自曝是李光洙追的自己",
+      "onboard_time": 1750485921,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 424229,
       "num": 424229,
       "word": "黄子韬徐艺洋跨国交换人生",
@@ -14617,6 +14625,14 @@
       "onboard_time": 1749646642,
       "rank": 26,
       "category": "休闲,民生新闻"
+    },
+    {
+      "raw_hot": 354148,
+      "num": 354148,
+      "word": "牺牲62年后他的头颅在工地被发现",
+      "onboard_time": 1750486941,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 354126,
@@ -18667,14 +18683,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 278638,
-      "num": 278638,
-      "word": "牺牲62年后他的头颅在工地被发现",
-      "onboard_time": 1750486941,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 278441,
       "num": 278441,
       "word": "曹骏郑合惠子cp感",
@@ -19443,14 +19451,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 268030,
-      "num": 295725,
-      "word": "李先彬自曝是李光洙追的自己",
-      "onboard_time": 1750485921,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 267971,
       "num": 267971,
       "word": "高明扮演者回应藏海传拍第二部",
@@ -19809,6 +19809,14 @@
       "onboard_time": 1750058720,
       "rank": 46,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 263140,
+      "num": 263140,
+      "word": "张艺兴为演话剧专门去敦煌学习",
+      "onboard_time": 1750488861,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 263041,
@@ -22377,6 +22385,14 @@
       "onboard_time": 1749817403,
       "rank": 36,
       "category": "网红"
+    },
+    {
+      "raw_hot": 232973,
+      "num": 232973,
+      "word": "唐僧都开始卖房了",
+      "onboard_time": 1750484062,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 232910,
@@ -25049,14 +25065,6 @@
       "onboard_time": 1749100162,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 211619,
-      "num": 211619,
-      "word": "唐僧都开始卖房了",
-      "onboard_time": 1750484062,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 211532,
@@ -32452,7 +32460,7 @@
     },
     {
       "raw_hot": 179595,
-      "num": 144579,
+      "num": 173921,
       "word": "韩国网友要求闵玧其退团",
       "onboard_time": 1750487120,
       "rank": 27,
@@ -33561,6 +33569,14 @@
       "onboard_time": 1750132041,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174065,
+      "num": 174065,
+      "word": "邓超王祖蓝十年前十年后",
+      "onboard_time": 1750488381,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 174061,
@@ -35129,6 +35145,14 @@
       "onboard_time": 1748948361,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168591,
+      "num": 168591,
+      "word": "沈腾把范丞丞扔出两米远",
+      "onboard_time": 1750489641,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 168573,
@@ -38643,6 +38667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155605,
+      "num": 155605,
+      "word": "为啥1个椰子十几元椰子水9.9",
+      "onboard_time": 1750489160,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155589,
       "num": 155589,
       "word": "张康乐首次挑战民国题材",
@@ -38785,6 +38817,14 @@
       "onboard_time": 1749303682,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155198,
+      "num": 155198,
+      "word": "有龙则零",
+      "onboard_time": 1750489100,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 155158,
@@ -40505,6 +40545,14 @@
       "onboard_time": 1750116017,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 148976,
+      "num": 148976,
+      "word": "常州有龙则零",
+      "onboard_time": 1750488980,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 148949,
@@ -47603,6 +47651,14 @@
       "category": "体育,动漫"
     },
     {
+      "raw_hot": 127986,
+      "num": 183371,
+      "word": "吒宝红衣造型少年气拉满",
+      "onboard_time": 1750489220,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 127958,
       "num": 315265,
       "word": "夸克发布首个高考志愿大模型",
@@ -48833,6 +48889,14 @@
       "onboard_time": 1749736462,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 123872,
+      "num": 123872,
+      "word": "郑平安下线",
+      "onboard_time": 1750490300,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 123865,
@@ -50387,6 +50451,14 @@
       "category": "健康医疗,教育"
     },
     {
+      "raw_hot": 119301,
+      "num": 119301,
+      "word": "以色列热转视频",
+      "onboard_time": 1750488921,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 119299,
       "num": 119299,
       "word": "单依纯时尚芭莎演唱嘉宾",
@@ -50881,6 +50953,14 @@
       "onboard_time": 1749710661,
       "rank": 42,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 117585,
+      "num": 117585,
+      "word": "小米严禁以任何形式诋毁竞品",
+      "onboard_time": 1750488861,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 117569,
@@ -51537,6 +51617,14 @@
       "onboard_time": 1749090140,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115568,
+      "num": 365568,
+      "word": "伊朗恢复全国网络",
+      "onboard_time": 1750487540,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 115476,
@@ -52233,6 +52321,14 @@
       "onboard_time": 1748744480,
       "rank": 33,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 113547,
+      "num": 119344,
+      "word": "易烊千玺宋瞎子贴多层头皮",
+      "onboard_time": 1750490480,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 113533,
@@ -53195,6 +53291,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 110484,
+      "num": 110484,
+      "word": "看黄晓明做饼突发饿疾",
+      "onboard_time": 1750490480,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110477,
       "num": 142643,
       "word": "两辆迈凯伦相撞",
@@ -53225,6 +53329,14 @@
       "onboard_time": 1750231641,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110353,
+      "num": 110353,
+      "word": "陈梦说全运会很难打",
+      "onboard_time": 1750490480,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 110323,
@@ -53467,6 +53579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109592,
+      "num": 109592,
+      "word": "我的小黑狗被分了 老师一半大伯一半",
+      "onboard_time": 1750490061,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 109575,
       "num": 109575,
       "word": "于正直播说虞书欣很可爱",
@@ -53665,6 +53785,14 @@
       "onboard_time": 1749288264,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 108755,
+      "num": 108755,
+      "word": "盘点和经纪人结婚的男明星",
+      "onboard_time": 1750487842,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 108703,
@@ -54113,6 +54241,14 @@
       "onboard_time": 1750465399,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 107017,
+      "num": 107017,
+      "word": "陈哲远有自己的综艺型人格",
+      "onboard_time": 1750490120,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 106995,
@@ -54665,6 +54801,14 @@
       "onboard_time": 1749108142,
       "rank": 34,
       "category": "动漫,财经"
+    },
+    {
+      "raw_hot": 104711,
+      "num": 104711,
+      "word": "以色列总理抱怨儿子婚礼推迟",
+      "onboard_time": 1750490061,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 104670,
@@ -56259,14 +56403,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 97624,
-      "num": 97624,
-      "word": "邓超王祖蓝十年前十年后",
-      "onboard_time": 1750488381,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 97566,
       "num": 154121,
       "word": "苏超还有单防梅西的人",
@@ -56631,14 +56767,6 @@
       "num": 96127,
       "word": "等等小花给邓超拍封面",
       "onboard_time": 1748759601,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 96123,
-      "num": 96123,
-      "word": "盘点和经纪人结婚的男明星",
-      "onboard_time": 1750487842,
       "rank": 49,
       "category": "艺人"
     },
@@ -60056,6 +60184,14 @@
       "word": "婚检中艾滋感染者配偶与医生如何自保",
       "onboard_time": 1749442223,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78895,
+      "num": 278458,
+      "word": "被骗40万女子说骗子会提供情绪价值",
+      "onboard_time": 1750489281,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -66715,14 +66851,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 44166,
-      "num": 365568,
-      "word": "伊朗恢复全国网络",
-      "onboard_time": 1750487540,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 44162,
       "num": 201393,
       "word": "流浪拉布拉多身上插箭疑遭射伤",
@@ -67657,6 +67785,14 @@
       "onboard_time": 1749481523,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40674,
+      "num": 112736,
+      "word": "央视记者提问以色列大使",
+      "onboard_time": 1750485861,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 40665,
@@ -68824,14 +68960,6 @@
       "word": "沈逸谈多名伊朗高级官员被暗杀",
       "onboard_time": 1749904342,
       "rank": 29,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 36432,
-      "num": 107902,
-      "word": "央视记者提问以色列大使",
-      "onboard_time": 1750485861,
-      "rank": 38,
       "category": "国际时政"
     },
     {
@@ -71833,6 +71961,14 @@
       "onboard_time": 1749597739,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 26102,
+      "num": 212556,
+      "word": "美国约有780万的非法移民被雇用",
+      "onboard_time": 1750489340,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 26067,
