@@ -1,6 +1,6 @@
 {
   "startTime": 1750437141136,
-  "endTime": 1750498017038,
+  "endTime": 1750498843959,
   "band_list": [
     {
       "raw_hot": 1988631,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1042159,
-      "num": 241218,
+      "num": 277561,
       "word": "韩沐伯结婚",
       "onboard_time": 1750496061,
       "rank": 10,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 761262,
-      "num": 248439,
+      "num": 276055,
       "word": "强奸未遂男子杀害堂妹被执行死刑",
       "onboard_time": 1750494739,
       "rank": 14,
@@ -281,6 +281,14 @@
       "onboard_time": 1750489100,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 483103,
+      "num": 483103,
+      "word": "万婴墓",
+      "onboard_time": 1750494200,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 479996,
@@ -499,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 296827,
+      "num": 296827,
+      "word": "何炅是沈月阿拉伯语唯一人脉",
+      "onboard_time": 1750493120,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 295632,
       "num": 295632,
       "word": "经期真正不能做的10件事",
@@ -531,20 +547,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 277744,
-      "num": 226842,
-      "word": "万婴墓",
-      "onboard_time": 1750494200,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 277328,
       "num": 221875,
       "word": "水哥王昱珩送labubu",
       "onboard_time": 1750480100,
       "rank": 20,
       "category": "休闲,动漫"
+    },
+    {
+      "raw_hot": 274494,
+      "num": 274494,
+      "word": "湖南一幼儿园多名儿童遭老师打耳光",
+      "onboard_time": 1750495881,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 274173,
@@ -611,12 +627,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 248277,
-      "num": 248277,
-      "word": "何炅是沈月阿拉伯语唯一人脉",
-      "onboard_time": 1750493120,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 245854,
+      "num": 245854,
+      "word": "美国钻地弹",
+      "onboard_time": 1750497200,
+      "rank": 29,
+      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 243862,
@@ -625,14 +641,6 @@
       "onboard_time": 1750432883,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 241593,
-      "num": 241593,
-      "word": "湖南一幼儿园多名儿童遭老师打耳光",
-      "onboard_time": 1750495881,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 239677,
@@ -763,6 +771,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 203775,
+      "num": 274064,
+      "word": "首尔歌谣大赏",
+      "onboard_time": 1750497981,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 200454,
       "num": 177472,
       "word": "王楚钦奔跑吧骄傲的少年",
@@ -792,6 +808,14 @@
       "word": "关晓彤李昀锐耀眼夏至视频",
       "onboard_time": 1750480880,
       "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 200006,
+      "num": 273573,
+      "word": "断亲是她最绝望的自救",
+      "onboard_time": 1750496600,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -857,14 +881,6 @@
       "onboard_time": 1750472661,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 187908,
-      "num": 187908,
-      "word": "断亲是她最绝望的自救",
-      "onboard_time": 1750496600,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 187185,
@@ -995,14 +1011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 167888,
-      "num": 176527,
-      "word": "美国钻地弹",
-      "onboard_time": 1750497200,
-      "rank": 29,
-      "category": "国际时政,民生新闻"
-    },
-    {
       "raw_hot": 166946,
       "num": 208298,
       "word": "美媒称与伊朗冲突每天耗费以色列数亿美元",
@@ -1091,6 +1099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154963,
+      "num": 154963,
+      "word": "许我耀眼",
+      "onboard_time": 1750498701,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154879,
       "num": 328395,
       "word": "食品发放点遭袭11名加沙儿童死亡",
@@ -1145,6 +1161,14 @@
       "onboard_time": 1750494200,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151235,
+      "num": 272600,
+      "word": "杨幂酱园弄包场",
+      "onboard_time": 1750496662,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 145091,
@@ -1259,6 +1283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134561,
+      "num": 176541,
+      "word": "马嘉祺声乐老师",
+      "onboard_time": 1750495823,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134437,
       "num": 134437,
       "word": "国家千亿级大项目撬动消费动能",
@@ -1283,14 +1315,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 132929,
-      "num": 176541,
-      "word": "马嘉祺声乐老师",
-      "onboard_time": 1750495823,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 131540,
       "num": 273540,
       "word": "突然在支付宝卡包发现大额餐补",
@@ -1313,14 +1337,6 @@
       "onboard_time": 1750485260,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 131114,
-      "num": 177724,
-      "word": "杨幂酱园弄包场",
-      "onboard_time": 1750496662,
-      "rank": 20,
-      "category": "电影"
     },
     {
       "raw_hot": 130693,
@@ -1504,6 +1520,14 @@
       "word": "张韶涵千禧年变装",
       "onboard_time": 1750497261,
       "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 121167,
+      "num": 121167,
+      "word": "谢娜鼓励马嘉祺",
+      "onboard_time": 1750498281,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -1723,14 +1747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 112516,
-      "num": 112516,
-      "word": "首尔歌谣大赏",
-      "onboard_time": 1750497981,
-      "rank": 43,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 112315,
       "num": 115917,
       "word": "拜仁2比1博卡青年",
@@ -1764,7 +1780,7 @@
     },
     {
       "raw_hot": 111174,
-      "num": 111174,
+      "num": 278912,
       "word": "俄罗斯准备支持伊朗发展和平核能",
       "onboard_time": 1750497800,
       "rank": 46,
@@ -1867,6 +1883,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 107843,
+      "num": 232390,
+      "word": "官方回应成都一诊所50元输液3天",
+      "onboard_time": 1750496540,
+      "rank": 14,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 107675,
       "num": 107675,
       "word": "哈佛暂时可以继续接收国际学生",
@@ -1955,6 +1979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 102207,
+      "num": 102207,
+      "word": "0州",
+      "onboard_time": 1750498821,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102092,
       "num": 102092,
       "word": "开车和乘车时别佩戴鲨鱼夹",
@@ -1987,12 +2019,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 101099,
-      "num": 232390,
-      "word": "官方回应成都一诊所50元输液3天",
-      "onboard_time": 1750496540,
-      "rank": 14,
-      "category": "辟谣/通报"
+      "raw_hot": 100769,
+      "num": 288748,
+      "word": "苏超宿迁vs盐城",
+      "onboard_time": 1750482382,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 100674,
@@ -2049,6 +2081,14 @@
       "onboard_time": 1750481541,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 98016,
+      "num": 98016,
+      "word": "首尔歌谣大赏红毯",
+      "onboard_time": 1750498821,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 97517,
@@ -2264,14 +2304,6 @@
       "word": "麦迪说给我个奥尼尔也能夺冠",
       "onboard_time": 1750483761,
       "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 72269,
-      "num": 288748,
-      "word": "苏超宿迁vs盐城",
-      "onboard_time": 1750482382,
-      "rank": 9,
       "category": "体育"
     },
     {
@@ -2531,6 +2563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42591,
+      "num": 104322,
+      "word": "时光代理人新曲MV公开",
+      "onboard_time": 1750498581,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 41373,
       "num": 153118,
       "word": "常州首发阵容",
@@ -2627,8 +2667,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 19974,
-      "num": 176564,
+      "raw_hot": 20651,
+      "num": 271676,
       "word": "三十六计之侏罗纪",
       "onboard_time": 1750497800,
       "rank": 27,

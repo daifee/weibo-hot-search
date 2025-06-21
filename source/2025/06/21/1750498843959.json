@@ -1,0 +1,410 @@
+{
+  "runTime": 1750498843959,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1453099,
+        "num": 1453099,
+        "word": "李雪琴美成这样了",
+        "onboard_time": 1750493602,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 576929,
+        "num": 576929,
+        "word": "千万不要买绿色的防晒衣",
+        "onboard_time": 1750480880,
+        "rank": 1,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 15590,
+        "num": 496364,
+        "word": "文化中国行美好如夏至",
+        "onboard_time": 1750439538,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 483103,
+        "num": 483103,
+        "word": "万婴墓",
+        "onboard_time": 1750494200,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322594,
+        "num": 322594,
+        "word": "长期不吃主食1年后身体的变化",
+        "onboard_time": 1750477700,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 321275,
+        "num": 321275,
+        "word": "唐国强称在闲鱼收时团小卡认人",
+        "onboard_time": 1750491681,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302609,
+        "num": 302609,
+        "word": "印度少女遭14人强奸两年现怀孕8月",
+        "onboard_time": 1750484301,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 296827,
+        "num": 296827,
+        "word": "何炅是沈月阿拉伯语唯一人脉",
+        "onboard_time": 1750493120,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279612,
+        "num": 279612,
+        "word": "小米 性能",
+        "onboard_time": 1750494860,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 110606,
+        "num": 278912,
+        "word": "俄罗斯准备支持伊朗发展和平核能",
+        "onboard_time": 1750497800,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1018419,
+        "num": 277561,
+        "word": "韩沐伯结婚",
+        "onboard_time": 1750496061,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 655538,
+        "num": 276055,
+        "word": "强奸未遂男子杀害堂妹被执行死刑",
+        "onboard_time": 1750494739,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 395807,
+        "num": 275708,
+        "word": "痞幼 悬崖便利店买水",
+        "onboard_time": 1750491620,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 274494,
+        "num": 274494,
+        "word": "湖南一幼儿园多名儿童遭老师打耳光",
+        "onboard_time": 1750495881,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203775,
+        "num": 274064,
+        "word": "首尔歌谣大赏",
+        "onboard_time": 1750497981,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200006,
+        "num": 273573,
+        "word": "断亲是她最绝望的自救",
+        "onboard_time": 1750496600,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353451,
+        "num": 273170,
+        "word": "霍震霆曝儿子霍启仁已结婚",
+        "onboard_time": 1750484002,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151235,
+        "num": 272600,
+        "word": "杨幂酱园弄包场",
+        "onboard_time": 1750496662,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 281108,
+        "num": 272445,
+        "word": "重度抑郁躯体化的真实表现",
+        "onboard_time": 1750477221,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 20651,
+        "num": 271676,
+        "word": "三十六计之侏罗纪",
+        "onboard_time": 1750497800,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271531,
+        "num": 271531,
+        "word": "爱尔兰化粪池现近800幼童遗骨",
+        "onboard_time": 1750474642,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 245854,
+        "num": 245854,
+        "word": "美国钻地弹",
+        "onboard_time": 1750497200,
+        "rank": 21,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 204257,
+        "num": 204257,
+        "word": "iPhone检测针孔摄像头方法",
+        "onboard_time": 1750482802,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 163633,
+        "num": 163633,
+        "word": "王楚钦奔跑吧骄傲的少年",
+        "onboard_time": 1750496961,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159962,
+        "num": 159962,
+        "word": "马龙拍了撕拉片",
+        "onboard_time": 1750495881,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154963,
+        "num": 154963,
+        "word": "许我耀眼",
+        "onboard_time": 1750498701,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154945,
+        "num": 154945,
+        "word": "老人水中摔倒家属投诉民警未搀扶",
+        "onboard_time": 1750496481,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143454,
+        "num": 143454,
+        "word": "常州连比分都彩排了",
+        "onboard_time": 1750494200,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134561,
+        "num": 142642,
+        "word": "马嘉祺声乐老师",
+        "onboard_time": 1750495823,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126372,
+        "num": 142210,
+        "word": "尚公主明天官宣",
+        "onboard_time": 1750487002,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142190,
+        "num": 142190,
+        "word": "牺牲62年后他的头颅在工地被发现",
+        "onboard_time": 1750486941,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138242,
+        "num": 138242,
+        "word": "以色列工地干活的中国人",
+        "onboard_time": 1750497861,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 122956,
+        "num": 122956,
+        "word": "邓超王祖蓝十年前十年后",
+        "onboard_time": 1750488381,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121167,
+        "num": 121167,
+        "word": "谢娜鼓励马嘉祺",
+        "onboard_time": 1750498281,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118778,
+        "num": 118778,
+        "word": "中餐厅收视率第一",
+        "onboard_time": 1750476801,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117749,
+        "num": 117749,
+        "word": "张艺兴为演话剧专门去敦煌学习",
+        "onboard_time": 1750488861,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 111132,
+        "num": 111132,
+        "word": "有龙则零",
+        "onboard_time": 1750489100,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107843,
+        "num": 107843,
+        "word": "官方回应成都一诊所50元输液3天",
+        "onboard_time": 1750496540,
+        "rank": 37,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 106934,
+        "num": 106934,
+        "word": "伊朗开出谈判条件",
+        "onboard_time": 1750472240,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 42591,
+        "num": 104322,
+        "word": "时光代理人新曲MV公开",
+        "onboard_time": 1750498581,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 102207,
+        "num": 102207,
+        "word": "0州",
+        "onboard_time": 1750498821,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65149,
+        "num": 102176,
+        "word": "一诺一个地球明星地球合伙人",
+        "onboard_time": 1750497800,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102164,
+        "num": 102164,
+        "word": "伊朗大使称伊朗从未离开谈判桌",
+        "onboard_time": 1750493781,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 102024,
+        "num": 102024,
+        "word": "崔然竣金发",
+        "onboard_time": 1750496600,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 100769,
+        "num": 100769,
+        "word": "苏超宿迁vs盐城",
+        "onboard_time": 1750482382,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99192,
+        "num": 99192,
+        "word": "李先彬自曝是李光洙追的自己",
+        "onboard_time": 1750485921,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98820,
+        "num": 98820,
+        "word": "刚下高铁就感受到常州多想进球",
+        "onboard_time": 1750494322,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98016,
+        "num": 98016,
+        "word": "首尔歌谣大赏红毯",
+        "onboard_time": 1750498821,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 96639,
+        "num": 96639,
+        "word": "狗狗做完绝育后还为自己拉警报",
+        "onboard_time": 1750497861,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94102,
+        "num": 94102,
+        "word": "被骗40万女子说骗子会提供情绪价值",
+        "onboard_time": 1750489281,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记强调粮食生产年年要抓紧#"
+    }
+  }
+}
