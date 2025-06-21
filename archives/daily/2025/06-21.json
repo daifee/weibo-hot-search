@@ -1,6 +1,6 @@
 {
   "startTime": 1750437141136,
-  "endTime": 1750495547125,
+  "endTime": 1750498017038,
   "band_list": [
     {
       "raw_hot": 1988631,
@@ -19,20 +19,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1713866,
+      "num": 1713866,
+      "word": "李雪琴美成这样了",
+      "onboard_time": 1750493602,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1687931,
       "num": 1687931,
       "word": "千万不要买绿色的防晒衣",
       "onboard_time": 1750480880,
       "rank": 30,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 1563821,
-      "num": 1563821,
-      "word": "李雪琴美成这样了",
-      "onboard_time": 1750493602,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1430122,
@@ -81,6 +81,14 @@
       "onboard_time": 1750435281,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1042159,
+      "num": 241218,
+      "word": "韩沐伯结婚",
+      "onboard_time": 1750496061,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1039904,
@@ -144,6 +152,14 @@
       "word": "女生毕设被螨虫啃食心态崩了",
       "onboard_time": 1750472240,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 761262,
+      "num": 248439,
+      "word": "强奸未遂男子杀害堂妹被执行死刑",
+      "onboard_time": 1750494739,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -459,6 +475,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 311965,
+      "num": 311965,
+      "word": "小米 性能",
+      "onboard_time": 1750494860,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 310883,
       "num": 237408,
       "word": "人生第一个双男主又回来了",
@@ -505,6 +529,14 @@
       "onboard_time": 1750432702,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 277744,
+      "num": 226842,
+      "word": "万婴墓",
+      "onboard_time": 1750494200,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 277328,
@@ -579,12 +611,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248277,
+      "num": 248277,
+      "word": "何炅是沈月阿拉伯语唯一人脉",
+      "onboard_time": 1750493120,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 243862,
       "num": 184821,
       "word": "沈梦辰没读热搜",
       "onboard_time": 1750432883,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 241593,
+      "num": 241593,
+      "word": "湖南一幼儿园多名儿童遭老师打耳光",
+      "onboard_time": 1750495881,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 239677,
@@ -617,14 +665,6 @@
       "onboard_time": 1750452074,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 235453,
-      "num": 235453,
-      "word": "小米 性能",
-      "onboard_time": 1750494860,
-      "rank": 16,
-      "category": "数码"
     },
     {
       "raw_hot": 234809,
@@ -723,6 +763,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 200454,
+      "num": 177472,
+      "word": "王楚钦奔跑吧骄傲的少年",
+      "onboard_time": 1750496961,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200345,
       "num": 200345,
       "word": "再一次对印度人的聪明有了实感",
@@ -811,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187908,
+      "num": 187908,
+      "word": "断亲是她最绝望的自救",
+      "onboard_time": 1750496600,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187185,
       "num": 187185,
       "word": "猫和老鼠新动画电影定档",
@@ -825,14 +881,6 @@
       "onboard_time": 1750475301,
       "rank": 32,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 183825,
-      "num": 248439,
-      "word": "强奸未遂男子杀害堂妹被执行死刑",
-      "onboard_time": 1750494739,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 183207,
@@ -875,12 +923,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 176632,
+      "num": 176632,
+      "word": "起猛了童年男神变童年男猫了",
+      "onboard_time": 1750496961,
+      "rank": 22,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 176505,
+      "num": 176505,
+      "word": "老人水中摔倒家属投诉民警未搀扶",
+      "onboard_time": 1750496481,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174438,
       "num": 202257,
       "word": "余承东给开发者体验Pura80",
       "onboard_time": 1750478722,
       "rank": 27,
       "category": "数码"
+    },
+    {
+      "raw_hot": 174425,
+      "num": 174425,
+      "word": "马龙拍了撕拉片",
+      "onboard_time": 1750495881,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 173802,
@@ -923,12 +995,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167888,
+      "num": 176527,
+      "word": "美国钻地弹",
+      "onboard_time": 1750497200,
+      "rank": 29,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 166946,
       "num": 208298,
       "word": "美媒称与伊朗冲突每天耗费以色列数亿美元",
       "onboard_time": 1750477282,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 165415,
+      "num": 176514,
+      "word": "崔然竣金发",
+      "onboard_time": 1750496600,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 164564,
@@ -1051,6 +1139,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 151328,
+      "num": 280685,
+      "word": "常州连比分都彩排了",
+      "onboard_time": 1750494200,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145091,
       "num": 145091,
       "word": "李连杰 我不是装孙子",
@@ -1091,6 +1187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141232,
+      "num": 141232,
+      "word": "以色列工地干活的中国人",
+      "onboard_time": 1750497861,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 141185,
       "num": 141185,
       "word": "2025世俱杯",
@@ -1105,14 +1209,6 @@
       "onboard_time": 1750476322,
       "rank": 41,
       "category": "网红"
-    },
-    {
-      "raw_hot": 140348,
-      "num": 153119,
-      "word": "何炅是沈月阿拉伯语唯一人脉",
-      "onboard_time": 1750493120,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 139006,
@@ -1155,6 +1251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136398,
+      "num": 176570,
+      "word": "临江仙五重匠心打造中式仙侠",
+      "onboard_time": 1750496481,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134437,
       "num": 134437,
       "word": "国家千亿级大项目撬动消费动能",
@@ -1179,6 +1283,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 132929,
+      "num": 176541,
+      "word": "马嘉祺声乐老师",
+      "onboard_time": 1750495823,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131540,
       "num": 273540,
       "word": "突然在支付宝卡包发现大额餐补",
@@ -1201,6 +1313,14 @@
       "onboard_time": 1750485260,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131114,
+      "num": 177724,
+      "word": "杨幂酱园弄包场",
+      "onboard_time": 1750496662,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 130693,
@@ -1379,6 +1499,14 @@
       "category": "艺人,休闲"
     },
     {
+      "raw_hot": 121770,
+      "num": 121770,
+      "word": "张韶涵千禧年变装",
+      "onboard_time": 1750497261,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121071,
       "num": 121071,
       "word": "贺峻霖到底看了几遍甄嬛传",
@@ -1465,6 +1593,14 @@
       "onboard_time": 1750488201,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 115588,
+      "num": 115588,
+      "word": "狗狗做完绝育后还为自己拉警报",
+      "onboard_time": 1750497861,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 115568,
@@ -1587,6 +1723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112516,
+      "num": 112516,
+      "word": "首尔歌谣大赏",
+      "onboard_time": 1750497981,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 112315,
       "num": 115917,
       "word": "拜仁2比1博卡青年",
@@ -1603,12 +1747,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111740,
+      "num": 111740,
+      "word": "常州队外援已到位",
+      "onboard_time": 1750494322,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111260,
       "num": 111260,
       "word": "凤凰传奇演唱会",
       "onboard_time": 1750491381,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 111174,
+      "num": 111174,
+      "word": "俄罗斯准备支持伊朗发展和平核能",
+      "onboard_time": 1750497800,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 110865,
@@ -1683,20 +1843,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 109457,
-      "num": 280685,
-      "word": "常州连比分都彩排了",
-      "onboard_time": 1750494200,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 108176,
       "num": 108176,
       "word": "26岁女生打三份工的月总收入",
       "onboard_time": 1750464019,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 108135,
+      "num": 136831,
+      "word": "伊朗大使称伊朗从未离开谈判桌",
+      "onboard_time": 1750493781,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 107901,
@@ -1771,20 +1931,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103747,
+      "num": 103747,
+      "word": "邓超的十年",
+      "onboard_time": 1750496781,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103413,
       "num": 103413,
       "word": "阴法唐将军逝世",
       "onboard_time": 1750471100,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 102967,
-      "num": 102967,
-      "word": "常州队外援已到位",
-      "onboard_time": 1750494322,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 102679,
@@ -1827,6 +1987,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 101099,
+      "num": 232390,
+      "word": "官方回应成都一诊所50元输液3天",
+      "onboard_time": 1750496540,
+      "rank": 14,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 100674,
       "num": 100674,
       "word": "十个勤天直播",
@@ -1856,14 +2024,6 @@
       "word": "美国下场打伊朗有三重阻碍",
       "onboard_time": 1750469360,
       "rank": 45,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 100066,
-      "num": 136831,
-      "word": "伊朗大使称伊朗从未离开谈判桌",
-      "onboard_time": 1750493781,
-      "rank": 44,
       "category": "国际时政"
     },
     {
@@ -2051,14 +2211,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 83404,
-      "num": 178469,
-      "word": "万婴墓",
-      "onboard_time": 1750494200,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 82258,
       "num": 82258,
       "word": "现在就出发3",
@@ -2097,6 +2249,14 @@
       "onboard_time": 1750487481,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76417,
+      "num": 176609,
+      "word": "一诺一个地球明星地球合伙人",
+      "onboard_time": 1750497800,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 73461,
@@ -2464,6 +2624,14 @@
       "word": "中国女篮32分再胜日本",
       "onboard_time": 1750456275,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 19974,
+      "num": 176564,
+      "word": "三十六计之侏罗纪",
+      "onboard_time": 1750497800,
+      "rank": 27,
       "category": "体育"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1750498017038,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1713866,
+        "num": 1713866,
+        "word": "李雪琴美成这样了",
+        "onboard_time": 1750493602,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 640485,
+        "num": 640485,
+        "word": "千万不要买绿色的防晒衣",
+        "onboard_time": 1750480880,
+        "rank": 1,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 18183,
+        "num": 459407,
+        "word": "文化中国行美好如夏至",
+        "onboard_time": 1750439538,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 412852,
+        "num": 412852,
+        "word": "唐国强称在闲鱼收时团小卡认人",
+        "onboard_time": 1750491681,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363981,
+        "num": 363981,
+        "word": "长期不吃主食1年后身体的变化",
+        "onboard_time": 1750477700,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 339091,
+        "num": 339091,
+        "word": "印度少女遭14人强奸两年现怀孕8月",
+        "onboard_time": 1750484301,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 331682,
+        "num": 331682,
+        "word": "爱尔兰化粪池现近800幼童遗骨",
+        "onboard_time": 1750474642,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 311965,
+        "num": 311965,
+        "word": "小米 性能",
+        "onboard_time": 1750494860,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 248277,
+        "num": 248277,
+        "word": "何炅是沈月阿拉伯语唯一人脉",
+        "onboard_time": 1750493120,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241593,
+        "num": 241593,
+        "word": "湖南一幼儿园多名儿童遭老师打耳光",
+        "onboard_time": 1750495881,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1042159,
+        "num": 241218,
+        "word": "韩沐伯结婚",
+        "onboard_time": 1750496061,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 761262,
+        "num": 238190,
+        "word": "强奸未遂男子杀害堂妹被执行死刑",
+        "onboard_time": 1750494739,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 488420,
+        "num": 236085,
+        "word": "痞幼 悬崖便利店买水",
+        "onboard_time": 1750491620,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 375117,
+        "num": 235194,
+        "word": "霍震霆曝儿子霍启仁已结婚",
+        "onboard_time": 1750484002,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101099,
+        "num": 232390,
+        "word": "官方回应成都一诊所50元输液3天",
+        "onboard_time": 1750496540,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 340789,
+        "num": 230634,
+        "word": "重度抑郁躯体化的真实表现",
+        "onboard_time": 1750477221,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 277744,
+        "num": 226842,
+        "word": "万婴墓",
+        "onboard_time": 1750494200,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226732,
+        "num": 226732,
+        "word": "iPhone检测针孔摄像头方法",
+        "onboard_time": 1750482802,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 187908,
+        "num": 187908,
+        "word": "断亲是她最绝望的自救",
+        "onboard_time": 1750496600,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158216,
+        "num": 180611,
+        "word": "邓超王祖蓝十年前十年后",
+        "onboard_time": 1750488381,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131114,
+        "num": 177724,
+        "word": "杨幂酱园弄包场",
+        "onboard_time": 1750496662,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200454,
+        "num": 177472,
+        "word": "王楚钦奔跑吧骄傲的少年",
+        "onboard_time": 1750496961,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176632,
+        "num": 176632,
+        "word": "起猛了童年男神变童年男猫了",
+        "onboard_time": 1750496961,
+        "rank": 22,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 164979,
+        "num": 176621,
+        "word": "牺牲62年后他的头颅在工地被发现",
+        "onboard_time": 1750486941,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76417,
+        "num": 176609,
+        "word": "一诺一个地球明星地球合伙人",
+        "onboard_time": 1750497800,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141913,
+        "num": 176595,
+        "word": "尚公主明天官宣",
+        "onboard_time": 1750487002,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136398,
+        "num": 176570,
+        "word": "临江仙五重匠心打造中式仙侠",
+        "onboard_time": 1750496481,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19974,
+        "num": 176564,
+        "word": "三十六计之侏罗纪",
+        "onboard_time": 1750497800,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132929,
+        "num": 176541,
+        "word": "马嘉祺声乐老师",
+        "onboard_time": 1750495823,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167888,
+        "num": 176527,
+        "word": "美国钻地弹",
+        "onboard_time": 1750497200,
+        "rank": 29,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 165415,
+        "num": 176514,
+        "word": "崔然竣金发",
+        "onboard_time": 1750496600,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 176505,
+        "num": 176505,
+        "word": "老人水中摔倒家属投诉民警未搀扶",
+        "onboard_time": 1750496481,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174425,
+        "num": 174425,
+        "word": "马龙拍了撕拉片",
+        "onboard_time": 1750495881,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160003,
+        "num": 160003,
+        "word": "有龙则零",
+        "onboard_time": 1750489100,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151328,
+        "num": 151328,
+        "word": "常州连比分都彩排了",
+        "onboard_time": 1750494200,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141232,
+        "num": 141232,
+        "word": "以色列工地干活的中国人",
+        "onboard_time": 1750497861,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 132501,
+        "num": 132501,
+        "word": "中餐厅收视率第一",
+        "onboard_time": 1750476801,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129530,
+        "num": 129530,
+        "word": "张艺兴为演话剧专门去敦煌学习",
+        "onboard_time": 1750488861,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122282,
+        "num": 122282,
+        "word": "李先彬自曝是李光洙追的自己",
+        "onboard_time": 1750485921,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121770,
+        "num": 121770,
+        "word": "张韶涵千禧年变装",
+        "onboard_time": 1750497261,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119987,
+        "num": 119987,
+        "word": "被骗40万女子说骗子会提供情绪价值",
+        "onboard_time": 1750489281,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115588,
+        "num": 115588,
+        "word": "狗狗做完绝育后还为自己拉警报",
+        "onboard_time": 1750497861,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114004,
+        "num": 114004,
+        "word": "伊朗开出谈判条件",
+        "onboard_time": 1750472240,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112516,
+        "num": 112516,
+        "word": "首尔歌谣大赏",
+        "onboard_time": 1750497981,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 112285,
+        "num": 112285,
+        "word": "刚下高铁就感受到常州多想进球",
+        "onboard_time": 1750494322,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111740,
+        "num": 111740,
+        "word": "常州队外援已到位",
+        "onboard_time": 1750494322,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111174,
+        "num": 111174,
+        "word": "俄罗斯准备支持伊朗发展和平核能",
+        "onboard_time": 1750497800,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108368,
+        "num": 108368,
+        "word": "韩国网友要求闵玧其退团",
+        "onboard_time": 1750487120,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108135,
+        "num": 108135,
+        "word": "伊朗大使称伊朗从未离开谈判桌",
+        "onboard_time": 1750493781,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103747,
+        "num": 103747,
+        "word": "邓超的十年",
+        "onboard_time": 1750496781,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记强调粮食生产年年要抓紧#"
+    }
+  }
+}
