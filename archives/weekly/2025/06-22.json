@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750537601199,
+  "endTime": 1750538430765,
   "band_list": [
     {
       "raw_hot": 6062877,
@@ -587,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 24661,
+      "num": 60565,
+      "word": "中东局势是否要走向失控",
+      "onboard_time": 1750536795,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 24223,
       "num": 24223,
       "word": "种地吧",
@@ -627,12 +635,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 11435,
-      "num": 60565,
-      "word": "中东局势是否要走向失控",
-      "onboard_time": 1750536795,
+      "raw_hot": 11366,
+      "num": 56200,
+      "word": "常州主场36712观众刷新苏超纪录",
+      "onboard_time": 1750536733,
       "rank": 9,
-      "category": "海外新闻"
+      "category": "体育"
     }
   ],
   "hotgov_list": [
