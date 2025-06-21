@@ -1,0 +1,410 @@
+{
+  "runTime": 1750504956771,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1404082,
+        "num": 1404082,
+        "word": "0州",
+        "onboard_time": 1750498821,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 946175,
+        "num": 946175,
+        "word": "徐艺洋刷到李雪琴照片以为是自己",
+        "onboard_time": 1750502542,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12017,
+        "num": 708789,
+        "word": "文化中国行美好如夏至",
+        "onboard_time": 1750439538,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 685305,
+        "num": 685305,
+        "word": "临江仙结局",
+        "onboard_time": 1750502001,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 501919,
+        "num": 501919,
+        "word": "mlxg被执行2500万",
+        "onboard_time": 1750502301,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 480151,
+        "num": 480151,
+        "word": "韦东奕被围堵跟拍已处置740个账号",
+        "onboard_time": 1750503020,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365055,
+        "num": 365055,
+        "word": "老人水中摔倒家属投诉民警未搀扶",
+        "onboard_time": 1750496481,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350138,
+        "num": 350138,
+        "word": "千万不要买绿色的防晒衣",
+        "onboard_time": 1750480880,
+        "rank": 7,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 334091,
+        "num": 334091,
+        "word": "万婴墓",
+        "onboard_time": 1750494200,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81693,
+        "num": 327448,
+        "word": "菲方侵闯黄岩岛被驱离现场视频",
+        "onboard_time": 1750503681,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 697192,
+        "num": 321107,
+        "word": "迪丽热巴发型刘涛",
+        "onboard_time": 1750500862,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 493745,
+        "num": 315213,
+        "word": "韩沐伯结婚",
+        "onboard_time": 1750496061,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348466,
+        "num": 306109,
+        "word": "任重孙骁骁带女儿逛街",
+        "onboard_time": 1750504041,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116908,
+        "num": 294226,
+        "word": "苏超常州vs南京",
+        "onboard_time": 1750504222,
+        "rank": 13,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 33326,
+        "num": 284562,
+        "word": "一个视频看懂苏超出圈的3大原因",
+        "onboard_time": 1750503681,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 283936,
+        "num": 283936,
+        "word": "苏超",
+        "onboard_time": 1750501101,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255348,
+        "num": 255348,
+        "word": "华中科技大学获1.8亿元匿名捐赠",
+        "onboard_time": 1750503920,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239765,
+        "num": 239765,
+        "word": "许我耀眼",
+        "onboard_time": 1750498701,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233780,
+        "num": 233780,
+        "word": "尚公主",
+        "onboard_time": 1750488141,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222229,
+        "num": 222229,
+        "word": "李沐宸因家庭变故至今还在还债",
+        "onboard_time": 1750504341,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243335,
+        "num": 222155,
+        "word": "湖南一幼儿园多名儿童遭老师打耳光",
+        "onboard_time": 1750495881,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 511974,
+        "num": 220779,
+        "word": "重度抑郁躯体化的真实表现",
+        "onboard_time": 1750477221,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 242190,
+        "num": 218813,
+        "word": "昀牵孟绕马上二绕",
+        "onboard_time": 1750503862,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110415,
+        "num": 216898,
+        "word": "亲历撤侨中国人称其他外国人很羡慕",
+        "onboard_time": 1750503743,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 225381,
+        "num": 215248,
+        "word": "霍震霆曝儿子霍启仁已结婚",
+        "onboard_time": 1750484002,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1134312,
+        "num": 214570,
+        "word": "李雪琴美成这样了",
+        "onboard_time": 1750493602,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213590,
+        "num": 213590,
+        "word": "印度少女遭14人强奸两年现怀孕8月",
+        "onboard_time": 1750484301,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 213321,
+        "num": 213321,
+        "word": "长期不吃主食1年后身体的变化",
+        "onboard_time": 1750477700,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 201114,
+        "num": 210099,
+        "word": "电影酱园弄首映口碑",
+        "onboard_time": 1750503501,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189517,
+        "num": 209112,
+        "word": "朱志鑫苏新皓和Prada工作人员交流",
+        "onboard_time": 1750503743,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208337,
+        "num": 208337,
+        "word": "美驻中东空军基地军机大量消失",
+        "onboard_time": 1750503620,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 199049,
+        "num": 199049,
+        "word": "工资5000存了10万块",
+        "onboard_time": 1750504282,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192347,
+        "num": 192347,
+        "word": "苏超应援开始卷奥运冠军了",
+        "onboard_time": 1750501401,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18614,
+        "num": 192221,
+        "word": "刷天国KPI",
+        "onboard_time": 1750503743,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192186,
+        "num": 192186,
+        "word": "白鹿发型方可",
+        "onboard_time": 1750500740,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178763,
+        "num": 178763,
+        "word": "樊振东德甲联赛门票销售火爆",
+        "onboard_time": 1750503561,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171789,
+        "num": 171789,
+        "word": "BW抢票",
+        "onboard_time": 1750503082,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168933,
+        "num": 168933,
+        "word": "强奸未遂男子杀害堂妹被执行死刑",
+        "onboard_time": 1750494739,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187015,
+        "num": 163711,
+        "word": "美国钻地弹",
+        "onboard_time": 1750497200,
+        "rank": 38,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 155089,
+        "num": 155089,
+        "word": "每一代人的钱都被他挣到了",
+        "onboard_time": 1750501220,
+        "rank": 39,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 154993,
+        "num": 154993,
+        "word": "王楚钦奔跑吧骄傲的少年",
+        "onboard_time": 1750496961,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147492,
+        "num": 147492,
+        "word": "李子园 成毅",
+        "onboard_time": 1750499782,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145249,
+        "num": 145249,
+        "word": "秦不仅统一六国 还统一了网约车",
+        "onboard_time": 1750504820,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138148,
+        "num": 138148,
+        "word": "犹太人把自己打扮成二战最大受害者",
+        "onboard_time": 1750501640,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 137519,
+        "num": 137519,
+        "word": "谢娜鼓励马嘉祺",
+        "onboard_time": 1750498281,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130388,
+        "num": 130388,
+        "word": "齐思钧真的为朕花心思了",
+        "onboard_time": 1750503982,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129184,
+        "num": 129184,
+        "word": "何炅是沈月阿拉伯语唯一人脉",
+        "onboard_time": 1750493120,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125622,
+        "num": 125622,
+        "word": "盐城队门神只有17岁",
+        "onboard_time": 1750504522,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125400,
+        "num": 125400,
+        "word": "杨幂主动调整王许梅妆造",
+        "onboard_time": 1750502420,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124302,
+        "num": 124302,
+        "word": "第五人格",
+        "onboard_time": 1750503620,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记强调粮食生产年年要抓紧#"
+    }
+  }
+}

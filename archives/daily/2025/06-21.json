@@ -1,6 +1,6 @@
 {
   "startTime": 1750437141136,
-  "endTime": 1750502647592,
+  "endTime": 1750504956771,
   "band_list": [
     {
       "raw_hot": 1988631,
@@ -41,6 +41,14 @@
       "onboard_time": 1750474642,
       "rank": 1,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1404082,
+      "num": 1404082,
+      "word": "0州",
+      "onboard_time": 1750498821,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 1250701,
@@ -115,14 +123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1022183,
-      "num": 1163549,
-      "word": "0州",
-      "onboard_time": 1750498821,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1020180,
       "num": 1020180,
       "word": "马嘉祺淘汰",
@@ -137,6 +137,14 @@
       "onboard_time": 1750482802,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 946175,
+      "num": 946175,
+      "word": "徐艺洋刷到李雪琴照片以为是自己",
+      "onboard_time": 1750502542,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 881868,
@@ -209,6 +217,14 @@
       "onboard_time": 1750491681,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 685305,
+      "num": 685305,
+      "word": "临江仙结局",
+      "onboard_time": 1750502001,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 672887,
@@ -313,6 +329,14 @@
       "onboard_time": 1750489100,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 480151,
+      "num": 480151,
+      "word": "韦东奕被围堵跟拍已处置740个账号",
+      "onboard_time": 1750503020,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 479996,
@@ -467,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 365055,
+      "num": 365055,
+      "word": "老人水中摔倒家属投诉民警未搀扶",
+      "onboard_time": 1750496481,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 364592,
       "num": 364592,
       "word": "何炅是沈月阿拉伯语唯一人脉",
@@ -499,20 +531,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 348466,
+      "num": 306109,
+      "word": "任重孙骁骁带女儿逛街",
+      "onboard_time": 1750504041,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 345497,
       "num": 308132,
       "word": "迪丽热巴仙女级别",
       "onboard_time": 1750492100,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 344619,
-      "num": 344619,
-      "word": "老人水中摔倒家属投诉民警未搀扶",
-      "onboard_time": 1750496481,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 340073,
@@ -707,12 +739,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 255348,
+      "num": 255348,
+      "word": "华中科技大学获1.8亿元匿名捐赠",
+      "onboard_time": 1750503920,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 243862,
       "num": 184821,
       "word": "沈梦辰没读热搜",
       "onboard_time": 1750432883,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 242190,
+      "num": 218813,
+      "word": "昀牵孟绕马上二绕",
+      "onboard_time": 1750503862,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 239677,
@@ -771,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 233780,
+      "num": 233780,
+      "word": "尚公主",
+      "onboard_time": 1750488141,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 227487,
       "num": 227487,
       "word": "以色列全境响防空警报",
@@ -793,6 +849,14 @@
       "onboard_time": 1750445055,
       "rank": 46,
       "category": "网红"
+    },
+    {
+      "raw_hot": 222229,
+      "num": 222229,
+      "word": "李沐宸因家庭变故至今还在还债",
+      "onboard_time": 1750504341,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 220204,
@@ -835,6 +899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208337,
+      "num": 208337,
+      "word": "美驻中东空军基地军机大量消失",
+      "onboard_time": 1750503620,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 207937,
       "num": 141556,
       "word": "伊朗全国多地举行反以游行",
@@ -865,6 +937,14 @@
       "onboard_time": 1750502001,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201114,
+      "num": 210099,
+      "word": "电影酱园弄首映口碑",
+      "onboard_time": 1750503501,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 200345,
@@ -899,12 +979,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199097,
-      "num": 199097,
-      "word": "临江仙结局",
-      "onboard_time": 1750502001,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 199049,
+      "num": 199049,
+      "word": "工资5000存了10万块",
+      "onboard_time": 1750504282,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 198107,
@@ -976,6 +1056,14 @@
       "word": "谢娜鼓励马嘉祺",
       "onboard_time": 1750498281,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 189517,
+      "num": 209112,
+      "word": "朱志鑫苏新皓和Prada工作人员交流",
+      "onboard_time": 1750503743,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -1051,6 +1139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 178763,
+      "num": 178763,
+      "word": "樊振东德甲联赛门票销售火爆",
+      "onboard_time": 1750503561,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178346,
       "num": 124611,
       "word": "王力宏宇宙在演唱会上合体",
@@ -1097,6 +1193,14 @@
       "onboard_time": 1750483341,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171789,
+      "num": 171789,
+      "word": "BW抢票",
+      "onboard_time": 1750503082,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 171629,
@@ -1192,14 +1296,6 @@
       "word": "五哈",
       "onboard_time": 1750486820,
       "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 159737,
-      "num": 159737,
-      "word": "徐艺洋刷到李雪琴照片以为是自己",
-      "onboard_time": 1750502542,
-      "rank": 32,
       "category": "综艺"
     },
     {
@@ -1331,6 +1427,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 145249,
+      "num": 145249,
+      "word": "秦不仅统一六国 还统一了网约车",
+      "onboard_time": 1750504820,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 145091,
       "num": 145091,
       "word": "李连杰 我不是装孙子",
@@ -1411,12 +1515,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 138994,
-      "num": 138994,
-      "word": "尚公主",
-      "onboard_time": 1750488141,
-      "rank": 36,
-      "category": "剧集"
+      "raw_hot": 138148,
+      "num": 138148,
+      "word": "犹太人把自己打扮成二战最大受害者",
+      "onboard_time": 1750501640,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 137824,
@@ -1539,6 +1643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 130388,
+      "num": 130388,
+      "word": "齐思钧真的为朕花心思了",
+      "onboard_time": 1750503982,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129384,
       "num": 189974,
       "word": "沈腾说范丞丞平时只鼓励娜扎",
@@ -1651,6 +1763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125622,
+      "num": 125622,
+      "word": "盐城队门神只有17岁",
+      "onboard_time": 1750504522,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125583,
       "num": 288748,
       "word": "苏超宿迁vs盐城",
@@ -1683,6 +1803,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 124302,
+      "num": 124302,
+      "word": "第五人格",
+      "onboard_time": 1750503620,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 124089,
       "num": 124089,
       "word": "以色列热转视频",
@@ -1697,14 +1825,6 @@
       "onboard_time": 1750490300,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 122956,
-      "num": 122956,
-      "word": "犹太人把自己打扮成二战最大受害者",
-      "onboard_time": 1750501640,
-      "rank": 48,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 122935,
@@ -1793,6 +1913,14 @@
       "onboard_time": 1750491263,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 116908,
+      "num": 294226,
+      "word": "苏超常州vs南京",
+      "onboard_time": 1750504222,
+      "rank": 13,
+      "category": "体育,民生新闻"
     },
     {
       "raw_hot": 116703,
@@ -2009,6 +2137,14 @@
       "onboard_time": 1750461378,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 110415,
+      "num": 216898,
+      "word": "亲历撤侨中国人称其他外国人很羡慕",
+      "onboard_time": 1750503743,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 110081,
@@ -2459,6 +2595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 81693,
+      "num": 327448,
+      "word": "菲方侵闯黄岩岛被驱离现场视频",
+      "onboard_time": 1750503681,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 81689,
       "num": 135994,
       "word": "男子一周吃3次火锅查出食管癌",
@@ -2827,6 +2971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33326,
+      "num": 284562,
+      "word": "一个视频看懂苏超出圈的3大原因",
+      "onboard_time": 1750503681,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 32446,
       "num": 268695,
       "word": "中国公民讲述撤离伊朗始末",
@@ -2921,6 +3073,14 @@
       "onboard_time": 1750491141,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 18614,
+      "num": 192221,
+      "word": "刷天国KPI",
+      "onboard_time": 1750503743,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17280,
