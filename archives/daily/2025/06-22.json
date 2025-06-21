@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750526521275,
+  "endTime": 1750527617423,
   "band_list": [
     {
       "raw_hot": 6062877,
@@ -67,20 +67,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 467788,
+      "num": 467788,
+      "word": "中国冥币在海外杀疯老外烧个不停",
+      "onboard_time": 1750522222,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 444631,
       "num": 375568,
       "word": "向太给孙子孙女买Labubu",
       "onboard_time": 1750513583,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 430927,
-      "num": 430927,
-      "word": "中国冥币在海外杀疯老外烧个不停",
-      "onboard_time": 1750522222,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 422649,
@@ -131,6 +131,14 @@
       "category": "艺人,辟谣/通报"
     },
     {
+      "raw_hot": 323825,
+      "num": 323825,
+      "word": "男方资助女子近65万留学分手后索回",
+      "onboard_time": 1750522582,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 321071,
       "num": 219665,
       "word": "张杰女儿睡前信息",
@@ -145,14 +153,6 @@
       "onboard_time": 1750498821,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 304725,
-      "num": 304725,
-      "word": "男方资助女子近65万留学分手后索回",
-      "onboard_time": 1750522582,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 294825,
@@ -211,20 +211,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184493,
+      "num": 393258,
+      "word": "以军公布伊斯法罕核设施遇袭后画面",
+      "onboard_time": 1750521682,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 182144,
       "num": 182144,
       "word": "陶喆唱完找自己雨越下越大",
       "onboard_time": 1750522463,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 179198,
-      "num": 393258,
-      "word": "以军公布伊斯法罕核设施遇袭后画面",
-      "onboard_time": 1750521682,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 174259,
@@ -395,6 +395,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 88362,
+      "num": 88362,
+      "word": "丁禹兮刷不到的号",
+      "onboard_time": 1750526779,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86048,
       "num": 86048,
       "word": "柯淳杨肸子车窗吻",
@@ -435,12 +443,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 58192,
+      "num": 58192,
+      "word": "迪丽热巴发型刘涛",
+      "onboard_time": 1750500862,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 52509,
       "num": 229620,
       "word": "记者实测罗马仕充电宝能否携带登机",
       "onboard_time": 1750521682,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50234,
+      "num": 50234,
+      "word": "周笔畅疑似加入小品女歌手赛道",
+      "onboard_time": 1750527497,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 40088,
