@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750504956771,
+  "endTime": 1750505922716,
   "band_list": [
     {
       "raw_hot": 11497825,
@@ -531,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1409647,
+      "num": 1409647,
+      "word": "0州",
+      "onboard_time": 1750498821,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1405555,
       "num": 1405555,
       "word": "教育厅回应那尔那茜定向委培事件",
@@ -545,14 +553,6 @@
       "onboard_time": 1749984921,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1404082,
-      "num": 1404082,
-      "word": "0州",
-      "onboard_time": 1750498821,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 1393998,
@@ -2579,6 +2579,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 625094,
+      "num": 625094,
+      "word": "李沐宸因家庭变故至今还在还债",
+      "onboard_time": 1750504341,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 624785,
       "num": 624785,
       "word": "家长怒斥中学宿舍条件不如二十年前",
@@ -3185,6 +3193,14 @@
       "onboard_time": 1750380742,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 530898,
+      "num": 306109,
+      "word": "任重孙骁骁带女儿逛街",
+      "onboard_time": 1750504041,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 528945,
@@ -3825,6 +3841,14 @@
       "onboard_time": 1750150461,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 453613,
+      "num": 453613,
+      "word": "华中科技大学获1.8亿元匿名捐赠",
+      "onboard_time": 1750503920,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 453612,
@@ -4963,14 +4987,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 348466,
-      "num": 306109,
-      "word": "任重孙骁骁带女儿逛街",
-      "onboard_time": 1750504041,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 348047,
       "num": 348047,
       "word": "30枚导弹射向以色列",
@@ -5657,6 +5673,14 @@
       "onboard_time": 1749995902,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 307138,
+      "num": 307138,
+      "word": "工资5000存了10万块",
+      "onboard_time": 1750504282,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 306946,
@@ -6579,6 +6603,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 267927,
+      "num": 294226,
+      "word": "苏超常州vs南京",
+      "onboard_time": 1750504222,
+      "rank": 13,
+      "category": "体育,民生新闻"
+    },
+    {
       "raw_hot": 267801,
       "num": 323398,
       "word": "魏哲鸣 我年纪大懂得疼人",
@@ -6979,14 +7011,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 255348,
-      "num": 255348,
-      "word": "华中科技大学获1.8亿元匿名捐赠",
-      "onboard_time": 1750503920,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 255310,
       "num": 271269,
       "word": "山科大再回应禁用红米手机考试",
@@ -7268,7 +7292,7 @@
     },
     {
       "raw_hot": 242190,
-      "num": 218813,
+      "num": 220714,
       "word": "昀牵孟绕马上二绕",
       "onboard_time": 1750503862,
       "rank": 22,
@@ -7280,6 +7304,14 @@
       "word": "易烊千玺雷佳音并肩而坐",
       "onboard_time": 1750048162,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 241453,
+      "num": 265711,
+      "word": "尚公主",
+      "onboard_time": 1750488141,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -7313,6 +7345,14 @@
       "onboard_time": 1749961640,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 240495,
+      "num": 306130,
+      "word": "美驻中东空军基地军机大量消失",
+      "onboard_time": 1750503620,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 240409,
@@ -7587,14 +7627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 233780,
-      "num": 233780,
-      "word": "尚公主",
-      "onboard_time": 1750488141,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 233744,
       "num": 233744,
       "word": "黄友政陈熠2比3张本智和张本美和",
@@ -7681,6 +7713,14 @@
       "onboard_time": 1750065921,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 230877,
+      "num": 230877,
+      "word": "给南京队做应援横幅被闲鱼卖家婉拒",
+      "onboard_time": 1750505601,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 230449,
@@ -8001,14 +8041,6 @@
       "onboard_time": 1750412001,
       "rank": 34,
       "category": "休闲,动漫"
-    },
-    {
-      "raw_hot": 222229,
-      "num": 222229,
-      "word": "李沐宸因家庭变故至今还在还债",
-      "onboard_time": 1750504341,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 221965,
@@ -8465,14 +8497,6 @@
       "onboard_time": 1750432824,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 208337,
-      "num": 208337,
-      "word": "美驻中东空军基地军机大量消失",
-      "onboard_time": 1750503620,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 208173,
@@ -9105,14 +9129,6 @@
       "onboard_time": 1749987021,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 199049,
-      "num": 199049,
-      "word": "工资5000存了10万块",
-      "onboard_time": 1750504282,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 198851,
@@ -10027,6 +10043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187073,
+      "num": 187073,
+      "word": "宋慧乔 当谈及她时不再是婚姻",
+      "onboard_time": 1750505901,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187027,
       "num": 187027,
       "word": "TTG对战RW",
@@ -10105,6 +10129,14 @@
       "onboard_time": 1749990082,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185934,
+      "num": 185934,
+      "word": "女明星人手一只labubu",
+      "onboard_time": 1750505001,
+      "rank": 31,
+      "category": "艺人,动漫"
     },
     {
       "raw_hot": 185580,
@@ -10371,6 +10403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 183082,
+      "num": 183082,
+      "word": "秦不仅统一六国 还统一了网约车",
+      "onboard_time": 1750504820,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 182913,
       "num": 182913,
       "word": "伊以战争即将进入第二阶段",
@@ -10587,6 +10627,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 179653,
+      "num": 179653,
+      "word": "刚下高铁就感受到常州多想进球",
+      "onboard_time": 1750494322,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179623,
       "num": 179623,
       "word": "武汉28岁男子爬山失联已身亡",
@@ -10633,6 +10681,14 @@
       "onboard_time": 1750120581,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 178929,
+      "num": 178929,
+      "word": "吴宣仪cha了Red狐狸舞",
+      "onboard_time": 1750505601,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 178763,
@@ -11024,6 +11080,14 @@
       "word": "陈妍希周柯宇整的我不好意思了",
       "onboard_time": 1750411821,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 174253,
+      "num": 179661,
+      "word": "临江仙 he",
+      "onboard_time": 1750505182,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -11939,6 +12003,14 @@
       "category": "民生新闻,动漫"
     },
     {
+      "raw_hot": 164630,
+      "num": 327448,
+      "word": "菲方侵闯黄岩岛被驱离现场视频",
+      "onboard_time": 1750503681,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 164566,
       "num": 157864,
       "word": "北大浙大隐藏升学通道",
@@ -12169,6 +12241,14 @@
       "onboard_time": 1750144521,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 160538,
+      "num": 160538,
+      "word": "女子婚礼后不领证被老公起诉",
+      "onboard_time": 1750505421,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160507,
@@ -13499,14 +13579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 145249,
-      "num": 145249,
-      "word": "秦不仅统一六国 还统一了网约车",
-      "onboard_time": 1750504820,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 145247,
       "num": 145247,
       "word": "娜扎护肤 从哪一步开始是素颜",
@@ -13657,6 +13729,14 @@
       "onboard_time": 1750138582,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 144191,
+      "num": 144191,
+      "word": "香港一店铺14个爱马仕包被抢",
+      "onboard_time": 1750505121,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144129,
@@ -14155,6 +14235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 138529,
+      "num": 138529,
+      "word": "犹太人把自己打扮成二战最大受害者",
+      "onboard_time": 1750501640,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 138400,
       "num": 138400,
       "word": "第五人格",
@@ -14185,14 +14273,6 @@
       "onboard_time": 1749986961,
       "rank": 40,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 138148,
-      "num": 138148,
-      "word": "犹太人把自己打扮成二战最大受害者",
-      "onboard_time": 1750501640,
-      "rank": 48,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 138120,
@@ -14321,6 +14401,14 @@
       "onboard_time": 1749992422,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 136743,
+      "num": 136743,
+      "word": "广东本地狗吃荔枝吐皮又吐核",
+      "onboard_time": 1750505662,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 136732,
@@ -15891,6 +15979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124531,
+      "num": 124531,
+      "word": "10年前的kpop",
+      "onboard_time": 1750505601,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 124490,
       "num": 124490,
       "word": "以色列总理抱怨儿子婚礼推迟",
@@ -16867,14 +16963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 116908,
-      "num": 294226,
-      "word": "苏超常州vs南京",
-      "onboard_time": 1750504222,
-      "rank": 13,
-      "category": "体育,民生新闻"
-    },
-    {
       "raw_hot": 116797,
       "num": 116797,
       "word": "长安的荔枝选角",
@@ -17425,14 +17513,6 @@
       "onboard_time": 1750476501,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 113475,
-      "num": 178048,
-      "word": "刚下高铁就感受到常州多想进球",
-      "onboard_time": 1750494322,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 113361,
@@ -19971,14 +20051,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 81693,
-      "num": 327448,
-      "word": "菲方侵闯黄岩岛被驱离现场视频",
-      "onboard_time": 1750503681,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 81609,
       "num": 156681,
       "word": "饭店称一小时吃完55个牛蹄奖励6666元",
@@ -20433,6 +20505,14 @@
       "onboard_time": 1750288518,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71320,
+      "num": 258718,
+      "word": "常州雨战",
+      "onboard_time": 1750505182,
+      "rank": 18,
+      "category": "体育,民生新闻"
     },
     {
       "raw_hot": 70811,
@@ -21787,6 +21867,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 49451,
+      "num": 260616,
+      "word": "男子6岁被拐惦记妈妈做的玉米糊",
+      "onboard_time": 1750505541,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49422,
       "num": 164365,
       "word": "用人单位连环外包隐蔽劳动关系",
@@ -22993,6 +23081,14 @@
       "onboard_time": 1750182018,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 33579,
+      "num": 189243,
+      "word": "南京队13分钟头球破门",
+      "onboard_time": 1750505182,
+      "rank": 29,
+      "category": "体育,民生新闻"
     },
     {
       "raw_hot": 33433,
@@ -24649,6 +24745,14 @@
       "onboard_time": 1750253482,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 15447,
+      "num": 255589,
+      "word": "报考儿科学有哪些注意点",
+      "onboard_time": 1750504942,
+      "rank": 19,
+      "category": "科学科普"
     },
     {
       "raw_hot": 15442,
