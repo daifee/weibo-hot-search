@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750538430765,
+  "endTime": 1750540994680,
   "band_list": [
     {
       "raw_hot": 6062877,
@@ -641,6 +641,14 @@
       "onboard_time": 1750536733,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 11043,
+      "num": 65510,
+      "word": "冲突已致伊朗430人死亡3500人受伤",
+      "onboard_time": 1750540334,
+      "rank": 9,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [

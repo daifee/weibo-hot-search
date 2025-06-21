@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/22 00:30:38 ~ 2025/06/22 04:40:30
+本榜单时间：2025/06/22 00:30:38 ~ 2025/06/22 05:23:14
 </p>
 </blockquote>
 <p>
@@ -491,6 +491,12 @@ mlxg被执行2500万（热度：71827）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B8%B8%E5%B7%9E%E4%B8%BB%E5%9C%BA36712%E8%A7%82%E4%BC%97%E5%88%B7%E6%96%B0%E8%8B%8F%E8%B6%85%E7%BA%AA%E5%BD%95%23" target="weibo">
 常州主场36712观众刷新苏超纪录（热度：11366）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%B2%E7%AA%81%E5%B7%B2%E8%87%B4%E4%BC%8A%E6%9C%97430%E4%BA%BA%E6%AD%BB%E4%BA%A13500%E4%BA%BA%E5%8F%97%E4%BC%A4%23" target="weibo">
+冲突已致伊朗430人死亡3500人受伤（热度：11043）
 </a>
 </li>
 
