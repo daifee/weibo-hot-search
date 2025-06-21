@@ -1,0 +1,410 @@
+{
+  "runTime": 1750488492974,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1255072,
+        "num": 1255072,
+        "word": "千万不要买绿色的防晒衣",
+        "onboard_time": 1750480880,
+        "rank": 0,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 1012542,
+        "num": 1012542,
+        "word": "iPhone检测针孔摄像头方法",
+        "onboard_time": 1750482802,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 27622,
+        "num": 681967,
+        "word": "文化中国行迎夏至",
+        "onboard_time": 1750478302,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 663662,
+        "num": 663662,
+        "word": "爱尔兰化粪池现近800幼童遗骨",
+        "onboard_time": 1750474642,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 593993,
+        "num": 593993,
+        "word": "印度少女遭14人强奸两年现怀孕8月",
+        "onboard_time": 1750484301,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 484469,
+        "num": 484469,
+        "word": "湖南一医院前院长坠楼身亡",
+        "onboard_time": 1750485561,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 459837,
+        "num": 459837,
+        "word": "尚公主明天官宣",
+        "onboard_time": 1750487002,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 434351,
+        "num": 434351,
+        "word": "赵丽颖章子怡杨幂酱园弄海报",
+        "onboard_time": 1750477282,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 381389,
+        "num": 381389,
+        "word": "包浆labubu",
+        "onboard_time": 1750482921,
+        "rank": 8,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 312292,
+        "num": 375470,
+        "word": "外交部回应留英博士被判终身监禁",
+        "onboard_time": 1750483521,
+        "rank": 9,
+        "category": "海外新闻,国内时政"
+      },
+      {
+        "raw_hot": 1192974,
+        "num": 375271,
+        "word": "霍震霆曝儿子霍启仁已结婚",
+        "onboard_time": 1750484002,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 522599,
+        "num": 375046,
+        "word": "迪丽热巴天津",
+        "onboard_time": 1750481060,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374752,
+        "num": 374752,
+        "word": "长期不吃主食1年后身体的变化",
+        "onboard_time": 1750477700,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 479996,
+        "num": 374710,
+        "word": "原来小说里富家子弟一个班是真的",
+        "onboard_time": 1750483101,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 44166,
+        "num": 365568,
+        "word": "伊朗恢复全国网络",
+        "onboard_time": 1750487540,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 63892,
+        "num": 360509,
+        "word": "乐在旅途第三季收官",
+        "onboard_time": 1750486220,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359417,
+        "num": 359417,
+        "word": "重度抑郁躯体化的真实表现",
+        "onboard_time": 1750477221,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 258374,
+        "num": 296509,
+        "word": "谭晶说马嘉祺云与海完成度很好",
+        "onboard_time": 1750484242,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245420,
+        "num": 295855,
+        "word": "中餐厅收视率第一",
+        "onboard_time": 1750476801,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268030,
+        "num": 295725,
+        "word": "李先彬自曝是李光洙追的自己",
+        "onboard_time": 1750485921,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295632,
+        "num": 295632,
+        "word": "经期真正不能做的10件事",
+        "onboard_time": 1750487002,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 278638,
+        "num": 278638,
+        "word": "牺牲62年后他的头颅在工地被发现",
+        "onboard_time": 1750486941,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228138,
+        "num": 228138,
+        "word": "伊朗开出谈判条件",
+        "onboard_time": 1750472240,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 211619,
+        "num": 211619,
+        "word": "唐僧都开始卖房了",
+        "onboard_time": 1750484062,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207912,
+        "num": 207912,
+        "word": "章子怡雷佳音C位海报",
+        "onboard_time": 1750482321,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182676,
+        "num": 182676,
+        "word": "女生毕设被螨虫啃食心态崩了",
+        "onboard_time": 1750472240,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160434,
+        "num": 160434,
+        "word": "五哈",
+        "onboard_time": 1750486820,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136120,
+        "num": 136120,
+        "word": "李连杰 我不是装孙子",
+        "onboard_time": 1750485141,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131228,
+        "num": 131228,
+        "word": "孟子义刘学义一个敢教一个敢学",
+        "onboard_time": 1750485260,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78037,
+        "num": 126530,
+        "word": "16800元塑身衣穿3个月患上盆腔炎",
+        "onboard_time": 1750487481,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179595,
+        "num": 126155,
+        "word": "韩国网友要求闵玧其退团",
+        "onboard_time": 1750487120,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125310,
+        "num": 125310,
+        "word": "百万粉丝网红女儿被曝骂老师",
+        "onboard_time": 1750484422,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 119742,
+        "num": 119742,
+        "word": "马嘉祺声乐老师发文",
+        "onboard_time": 1750465819,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117790,
+        "num": 117790,
+        "word": "月经3天干净和7天干净其实都好",
+        "onboard_time": 1750467982,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 116229,
+        "num": 116229,
+        "word": "在陌生滴滴上捡到我掉了3个月的戒指",
+        "onboard_time": 1750488201,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113193,
+        "num": 113193,
+        "word": "奚梦瑶梦想成真了",
+        "onboard_time": 1750487901,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108390,
+        "num": 108390,
+        "word": "尚公主",
+        "onboard_time": 1750488141,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108005,
+        "num": 108005,
+        "word": "张远录制新说唱",
+        "onboard_time": 1750487181,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36432,
+        "num": 107902,
+        "word": "央视记者提问以色列大使",
+        "onboard_time": 1750485861,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107901,
+        "num": 107901,
+        "word": "易烊千玺转发酱园弄",
+        "onboard_time": 1750488021,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105850,
+        "num": 105850,
+        "word": "猫妈妈生着生着没墨了",
+        "onboard_time": 1750486941,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106094,
+        "num": 105770,
+        "word": "这些不舒服其实是抑郁信号",
+        "onboard_time": 1750488262,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 105464,
+        "num": 105464,
+        "word": "于正与曾舜晞合作了三部戏",
+        "onboard_time": 1750483700,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102092,
+        "num": 102092,
+        "word": "开车和乘车时别佩戴鲨鱼夹",
+        "onboard_time": 1750487660,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101374,
+        "num": 101374,
+        "word": "食品发放点遭袭11名加沙儿童死亡",
+        "onboard_time": 1750482502,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99725,
+        "num": 99725,
+        "word": "泡泡特玛",
+        "onboard_time": 1750477581,
+        "rank": 45,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 99460,
+        "num": 99460,
+        "word": "寿司郎",
+        "onboard_time": 1750483222,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 97624,
+        "num": 97624,
+        "word": "邓超王祖蓝十年前十年后",
+        "onboard_time": 1750488381,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96444,
+        "num": 96444,
+        "word": "姚冠宇综艺再现一步三摇名场面",
+        "onboard_time": 1750487601,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96123,
+        "num": 96123,
+        "word": "盘点和经纪人结婚的男明星",
+        "onboard_time": 1750487842,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平针对中东局势提出四点主张#"
+    }
+  }
+}

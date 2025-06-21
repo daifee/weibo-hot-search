@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750487683295,
+  "endTime": 1750488492974,
   "band_list": [
     {
       "raw_hot": 11497825,
@@ -644,7 +644,7 @@
     },
     {
       "raw_hot": 1250701,
-      "num": 551667,
+      "num": 593993,
       "word": "印度少女遭14人强奸两年现怀孕8月",
       "onboard_time": 1750484301,
       "rank": 10,
@@ -731,6 +731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1192974,
+      "num": 375271,
+      "word": "霍震霆曝儿子霍启仁已结婚",
+      "onboard_time": 1750484002,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1192309,
       "num": 1192309,
       "word": "赵丽颖章子怡杨幂酱园弄海报",
@@ -769,14 +777,6 @@
       "onboard_time": 1750389981,
       "rank": 22,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1165502,
-      "num": 327959,
-      "word": "霍震霆曝儿子霍启仁已结婚",
-      "onboard_time": 1750484002,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 1158022,
@@ -852,7 +852,7 @@
     },
     {
       "raw_hot": 1127288,
-      "num": 347902,
+      "num": 359417,
       "word": "重度抑郁躯体化的真实表现",
       "onboard_time": 1750477221,
       "rank": 11,
@@ -1107,6 +1107,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1012542,
+      "num": 1012542,
+      "word": "iPhone检测针孔摄像头方法",
+      "onboard_time": 1750482802,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1008692,
       "num": 267268,
       "word": "伊朗铁雨",
@@ -1129,14 +1137,6 @@
       "onboard_time": 1750239560,
       "rank": 3,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 985993,
-      "num": 985993,
-      "word": "iPhone检测针孔摄像头方法",
-      "onboard_time": 1750482802,
-      "rank": 30,
-      "category": "数码"
     },
     {
       "raw_hot": 977565,
@@ -1548,7 +1548,7 @@
     },
     {
       "raw_hot": 837394,
-      "num": 327068,
+      "num": 375046,
       "word": "迪丽热巴天津",
       "onboard_time": 1750481060,
       "rank": 24,
@@ -3467,6 +3467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 479996,
+      "num": 374710,
+      "word": "原来小说里富家子弟一个班是真的",
+      "onboard_time": 1750483101,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 477747,
       "num": 477747,
       "word": "iPhone 直板夹",
@@ -3657,6 +3665,14 @@
       "onboard_time": 1750329620,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 459837,
+      "num": 459837,
+      "word": "尚公主明天官宣",
+      "onboard_time": 1750487002,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 458264,
@@ -4371,14 +4387,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 386211,
-      "num": 326321,
-      "word": "原来小说里富家子弟一个班是真的",
-      "onboard_time": 1750483101,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 385982,
       "num": 340569,
       "word": "耳朵 汪苏泷",
@@ -4425,6 +4433,14 @@
       "onboard_time": 1750330340,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 381389,
+      "num": 381389,
+      "word": "包浆labubu",
+      "onboard_time": 1750482921,
+      "rank": 31,
+      "category": "休闲,动漫"
     },
     {
       "raw_hot": 380569,
@@ -4676,7 +4692,7 @@
     },
     {
       "raw_hot": 358463,
-      "num": 329653,
+      "num": 375470,
       "word": "外交部回应留英博士被判终身监禁",
       "onboard_time": 1750483521,
       "rank": 22,
@@ -5123,14 +5139,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 329759,
-      "num": 329759,
-      "word": "尚公主明天官宣",
-      "onboard_time": 1750487002,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 329446,
       "num": 329446,
       "word": "43岁张亮与10岁女儿合拍杂志",
@@ -5499,14 +5507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 305265,
-      "num": 305265,
-      "word": "包浆labubu",
-      "onboard_time": 1750482921,
-      "rank": 31,
-      "category": "休闲,动漫"
-    },
-    {
       "raw_hot": 304971,
       "num": 365501,
       "word": "妈妈是从电视台得知黄圣依结婚消息",
@@ -5665,6 +5665,14 @@
       "onboard_time": 1750231280,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 295632,
+      "num": 295632,
+      "word": "经期真正不能做的10件事",
+      "onboard_time": 1750487002,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 295563,
@@ -6115,6 +6123,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 278638,
+      "num": 278638,
+      "word": "牺牲62年后他的头颅在工地被发现",
+      "onboard_time": 1750486941,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 277328,
       "num": 221875,
       "word": "水哥王昱珩送labubu",
@@ -6361,6 +6377,14 @@
       "onboard_time": 1750038380,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 268030,
+      "num": 295725,
+      "word": "李先彬自曝是李光洙追的自己",
+      "onboard_time": 1750485921,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 267801,
@@ -6657,6 +6681,14 @@
       "onboard_time": 1750061901,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 258374,
+      "num": 296509,
+      "word": "谭晶说马嘉祺云与海完成度很好",
+      "onboard_time": 1750484242,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 258214,
@@ -8019,6 +8051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211619,
+      "num": 211619,
+      "word": "唐僧都开始卖房了",
+      "onboard_time": 1750484062,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211532,
       "num": 211532,
       "word": "王励勤说王楚钦球拍事件不会发公告",
@@ -8473,14 +8513,6 @@
       "onboard_time": 1750125861,
       "rank": 25,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 203299,
-      "num": 203299,
-      "word": "李先彬自曝是李光洙追的自己",
-      "onboard_time": 1750485921,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 202999,
@@ -9057,14 +9089,6 @@
       "onboard_time": 1749976880,
       "rank": 24,
       "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 194769,
-      "num": 194769,
-      "word": "谭晶说马嘉祺云与海完成度很好",
-      "onboard_time": 1750484242,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 194530,
@@ -10211,6 +10235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 179595,
+      "num": 144579,
+      "word": "韩国网友要求闵玧其退团",
+      "onboard_time": 1750487120,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179368,
       "num": 179368,
       "word": "王者白起联动皮肤免费送",
@@ -10953,14 +10985,6 @@
       "onboard_time": 1750253843,
       "rank": 33,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 170939,
-      "num": 170939,
-      "word": "唐僧都开始卖房了",
-      "onboard_time": 1750484062,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 170846,
@@ -11731,6 +11755,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 160434,
+      "num": 160434,
+      "word": "五哈",
+      "onboard_time": 1750486820,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160368,
       "num": 204902,
       "word": "影帝半夜偷海胆被捕",
@@ -12059,14 +12091,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 156828,
-      "num": 156828,
-      "word": "五哈",
-      "onboard_time": 1750486820,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 156740,
       "num": 156740,
       "word": "波尔正式退役",
@@ -12321,14 +12345,6 @@
       "onboard_time": 1750332320,
       "rank": 35,
       "category": "网红"
-    },
-    {
-      "raw_hot": 152364,
-      "num": 128879,
-      "word": "经期真正不能做的10件事",
-      "onboard_time": 1750487002,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 152175,
@@ -12657,14 +12673,6 @@
       "onboard_time": 1750126701,
       "rank": 42,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 149405,
-      "num": 149405,
-      "word": "牺牲62年后他的头颅在工地被发现",
-      "onboard_time": 1750486941,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 149358,
@@ -13121,14 +13129,6 @@
       "onboard_time": 1750164441,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144579,
-      "num": 144579,
-      "word": "韩国网友要求闵玧其退团",
-      "onboard_time": 1750487120,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 144577,
@@ -13788,7 +13788,7 @@
     },
     {
       "raw_hot": 136732,
-      "num": 236719,
+      "num": 360509,
       "word": "乐在旅途第三季收官",
       "onboard_time": 1750486220,
       "rank": 17,
@@ -14425,6 +14425,14 @@
       "onboard_time": 1750400542,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 131228,
+      "num": 131228,
+      "word": "孟子义刘学义一个敢教一个敢学",
+      "onboard_time": 1750485260,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 131203,
@@ -16275,6 +16283,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 116229,
+      "num": 116229,
+      "word": "在陌生滴滴上捡到我掉了3个月的戒指",
+      "onboard_time": 1750488201,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 116207,
       "num": 116207,
       "word": "焕羽首播口碑",
@@ -16689,6 +16705,14 @@
       "onboard_time": 1750160240,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113193,
+      "num": 113193,
+      "word": "奚梦瑶梦想成真了",
+      "onboard_time": 1750487901,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 113111,
@@ -17299,6 +17323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108390,
+      "num": 108390,
+      "word": "尚公主",
+      "onboard_time": 1750488141,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108330,
       "num": 267870,
       "word": "天猫买全屋万元大家电只要618元",
@@ -17377,6 +17409,14 @@
       "onboard_time": 1749960440,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 107901,
+      "num": 107901,
+      "word": "易烊千玺转发酱园弄",
+      "onboard_time": 1750488021,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 107675,
@@ -17459,6 +17499,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 106094,
+      "num": 105770,
+      "word": "这些不舒服其实是抑郁信号",
+      "onboard_time": 1750488262,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 106001,
       "num": 106001,
       "word": "唐国强 常驻王牌",
@@ -17473,6 +17521,14 @@
       "onboard_time": 1750310722,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105850,
+      "num": 105850,
+      "word": "猫妈妈生着生着没墨了",
+      "onboard_time": 1750486941,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 105829,
@@ -17723,6 +17779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102092,
+      "num": 102092,
+      "word": "开车和乘车时别佩戴鲨鱼夹",
+      "onboard_time": 1750487660,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101995,
       "num": 116604,
       "word": "西瓜切块装盒收纳",
@@ -17865,14 +17929,6 @@
       "onboard_time": 1750153220,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100183,
-      "num": 100183,
-      "word": "孟子义刘学义一个敢教一个敢学",
-      "onboard_time": 1750485260,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 100172,
@@ -18067,6 +18123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97624,
+      "num": 97624,
+      "word": "邓超王祖蓝十年前十年后",
+      "onboard_time": 1750488381,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 97542,
       "num": 97542,
       "word": "以色列孩子被导弹吓到哭着喊妈妈",
@@ -18177,6 +18241,14 @@
       "onboard_time": 1750393043,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 96123,
+      "num": 96123,
+      "word": "盘点和经纪人结婚的男明星",
+      "onboard_time": 1750487842,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 96053,
@@ -18361,14 +18433,6 @@
       "onboard_time": 1750223123,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 94102,
-      "num": 94102,
-      "word": "开车和乘车时别佩戴鲨鱼夹",
-      "onboard_time": 1750487660,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 94075,
@@ -19195,6 +19259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78037,
+      "num": 129109,
+      "word": "16800元塑身衣穿3个月患上盆腔炎",
+      "onboard_time": 1750487481,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78017,
       "num": 78017,
       "word": "伊朗导弹击中特拉维夫多处建筑",
@@ -19337,14 +19409,6 @@
       "onboard_time": 1749992602,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 74131,
-      "num": 129109,
-      "word": "16800元塑身衣穿3个月患上盆腔炎",
-      "onboard_time": 1750487481,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 73967,
@@ -21131,6 +21195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44166,
+      "num": 365568,
+      "word": "伊朗恢复全国网络",
+      "onboard_time": 1750487540,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 43911,
       "num": 164674,
       "word": "层层加码的禁酒禁餐令",
@@ -21769,6 +21841,14 @@
       "onboard_time": 1750137143,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 36432,
+      "num": 107902,
+      "word": "央视记者提问以色列大使",
+      "onboard_time": 1750485861,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 36334,
@@ -22857,14 +22937,6 @@
       "onboard_time": 1750015095,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 23492,
-      "num": 122096,
-      "word": "伊朗恢复全国网络",
-      "onboard_time": 1750487540,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 23482,
