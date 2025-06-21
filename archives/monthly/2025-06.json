@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750512772986,
+  "endTime": 1750513452477,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -1499,6 +1499,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1565769,
+      "num": 1565769,
+      "word": "昀牵孟绕",
+      "onboard_time": 1750510103,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1564408,
       "num": 1564408,
       "word": "刘宇宁 没收到过剧本",
@@ -1689,14 +1697,6 @@
       "onboard_time": 1749379042,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1475004,
-      "num": 1475004,
-      "word": "昀牵孟绕",
-      "onboard_time": 1750510103,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 1472451,
@@ -2812,7 +2812,7 @@
     },
     {
       "raw_hot": 1145410,
-      "num": 394662,
+      "num": 410458,
       "word": "唐梓康康领证",
       "onboard_time": 1750508361,
       "rank": 10,
@@ -4723,6 +4723,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 856098,
+      "num": 856098,
+      "word": "酱园弄",
+      "onboard_time": 1748917521,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 853256,
       "num": 853256,
       "word": "新一卷英语难不难",
@@ -6433,14 +6441,6 @@
       "onboard_time": 1749439401,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 697377,
-      "num": 697377,
-      "word": "酱园弄",
-      "onboard_time": 1748917521,
-      "rank": 13,
-      "category": "电影"
     },
     {
       "raw_hot": 696332,
@@ -9211,6 +9211,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 537839,
+      "num": 537839,
+      "word": "Labubu在二手市场价格暴跌",
+      "onboard_time": 1750510884,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 537699,
       "num": 514095,
       "word": "那英全开麦",
@@ -11715,6 +11723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 439254,
+      "num": 439254,
+      "word": "27岁女子1天3杯奶茶抽出牛奶血",
+      "onboard_time": 1750512143,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 439227,
       "num": 439227,
       "word": "苹果手机 地震预警",
@@ -12235,6 +12251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 422739,
+      "num": 422739,
+      "word": "刚下高铁就感受到常州多想进球",
+      "onboard_time": 1750494322,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 422507,
       "num": 422507,
       "word": "李梦回应与刘亦菲李沁合照",
@@ -12667,6 +12691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 409114,
+      "num": 409114,
+      "word": "万茜金爵奖影后",
+      "onboard_time": 1750511184,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 408718,
       "num": 408718,
       "word": "游客被打副所长拉偏架被免职不冤",
@@ -12923,14 +12955,6 @@
       "category": "体育,民生新闻"
     },
     {
-      "raw_hot": 402447,
-      "num": 373665,
-      "word": "万茜金爵奖影后",
-      "onboard_time": 1750511184,
-      "rank": 11,
-      "category": "电影"
-    },
-    {
       "raw_hot": 402329,
       "num": 402329,
       "word": "沈腾说章若楠像受了潮的家具",
@@ -13033,6 +13057,14 @@
       "onboard_time": 1749537022,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 400310,
+      "num": 400310,
+      "word": "柯淳杨肸子车窗吻",
+      "onboard_time": 1750512623,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 400233,
@@ -13587,14 +13619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 385491,
-      "num": 385491,
-      "word": "Labubu在二手市场价格暴跌",
-      "onboard_time": 1750510884,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 385138,
       "num": 605562,
       "word": "五哈",
@@ -14113,14 +14137,6 @@
       "onboard_time": 1750394304,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 372555,
-      "num": 372555,
-      "word": "刚下高铁就感受到常州多想进球",
-      "onboard_time": 1750494322,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 372469,
@@ -23443,14 +23459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 227012,
-      "num": 227012,
-      "word": "柯淳杨肸子车窗吻",
-      "onboard_time": 1750512623,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 226984,
       "num": 226984,
       "word": "BW2025抢票",
@@ -24731,6 +24739,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 217653,
+      "num": 217653,
+      "word": "有龙则0",
+      "onboard_time": 1750512143,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217593,
       "num": 217593,
       "word": "男子赌博欠债倒卖千年裹尸布被抓",
@@ -25139,6 +25155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214048,
+      "num": 214048,
+      "word": "裴珠泫广州签售",
+      "onboard_time": 1750512804,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214023,
       "num": 214023,
       "word": "这场雨就是为红尘客栈下的",
@@ -25491,6 +25515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211732,
+      "num": 262810,
+      "word": "川队",
+      "onboard_time": 1750512143,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211702,
       "num": 211702,
       "word": "周翊然心里想着娣娣嘴上叫着娜娜",
@@ -25585,6 +25617,14 @@
       "onboard_time": 1749273741,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 211172,
+      "num": 211172,
+      "word": "郝蕾录制现场发飙要求改赛制",
+      "onboard_time": 1750511603,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 211160,
@@ -28171,6 +28211,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 199361,
+      "num": 199361,
+      "word": "马嘉祺说娜姐谢谢你",
+      "onboard_time": 1750510884,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199352,
       "num": 199352,
       "word": "BLACKPINK7月初回归",
@@ -28529,14 +28577,6 @@
       "onboard_time": 1749985520,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 198065,
-      "num": 198065,
-      "word": "郝蕾录制现场发飙要求改赛制",
-      "onboard_time": 1750511603,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 198050,
@@ -29131,6 +29171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195592,
+      "num": 301823,
+      "word": "以媒爆两架B2轰炸机从美国飞往关岛",
+      "onboard_time": 1750512743,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 195560,
       "num": 244752,
       "word": "郑钦文vs阿尼西莫娃",
@@ -29385,14 +29433,6 @@
       "onboard_time": 1749569781,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 194243,
-      "num": 194243,
-      "word": "马嘉祺说娜姐谢谢你",
-      "onboard_time": 1750510884,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 194205,
@@ -30539,6 +30579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189594,
+      "num": 189594,
+      "word": "最支持黄子韬发火的一集",
+      "onboard_time": 1750512804,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189537,
       "num": 189537,
       "word": "苏新皓出国了留我一人在村里放牛",
@@ -31257,6 +31305,14 @@
       "onboard_time": 1750419081,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 187017,
+      "num": 187017,
+      "word": "朱珠顶级社交场的东方美人",
+      "onboard_time": 1750512564,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 186970,
@@ -32203,6 +32259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183445,
+      "num": 183445,
+      "word": "苏超积分榜",
+      "onboard_time": 1750513284,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183326,
       "num": 183326,
       "word": "邓紫棋石家庄演唱会",
@@ -32667,6 +32731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181382,
+      "num": 181382,
+      "word": "美国2架B2轰炸机或打击伊朗核设施",
+      "onboard_time": 1750512804,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 181366,
       "num": 181366,
       "word": "严浩翔万妮达战队海报",
@@ -33011,14 +33083,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 179804,
-      "num": 179804,
-      "word": "27岁女子1天3杯奶茶抽出牛奶血",
-      "onboard_time": 1750512143,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 179799,
       "num": 179799,
       "word": "郑钦文1比1萨姆索诺娃",
@@ -33297,14 +33361,6 @@
       "onboard_time": 1750408821,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 178426,
-      "num": 180920,
-      "word": "有龙则0",
-      "onboard_time": 1750512143,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 178422,
@@ -34601,6 +34657,14 @@
       "onboard_time": 1749996744,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 172803,
+      "num": 410919,
+      "word": "白玉兰奖27日揭晓",
+      "onboard_time": 1750511963,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 172790,
@@ -36883,6 +36947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165038,
+      "num": 165038,
+      "word": "南京队大杀器滕帅曾入选国青队",
+      "onboard_time": 1750512984,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165033,
       "num": 165033,
       "word": "易烊千玺广州站过审",
@@ -37339,6 +37411,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 163559,
+      "num": 163559,
+      "word": "伊朗核科学家与妻子遇袭身亡",
+      "onboard_time": 1750512324,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 163555,
       "num": 163555,
       "word": "时代少年团上海四场",
@@ -37705,14 +37785,6 @@
       "onboard_time": 1748955022,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 161823,
-      "num": 161823,
-      "word": "朱珠顶级社交场的东方美人",
-      "onboard_time": 1750512564,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 161798,
@@ -38465,6 +38537,14 @@
       "onboard_time": 1749968719,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159138,
+      "num": 375778,
+      "word": "苏超常州0比4南京",
+      "onboard_time": 1750512143,
+      "rank": 9,
+      "category": "体育,民生新闻"
     },
     {
       "raw_hot": 159137,
@@ -39555,6 +39635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155159,
+      "num": 155159,
+      "word": "马嘉祺说章子怡是侠女",
+      "onboard_time": 1750513284,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155158,
       "num": 155158,
       "word": "于正坚信临江仙是黑马",
@@ -39785,6 +39873,14 @@
       "onboard_time": 1749339497,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154131,
+      "num": 154131,
+      "word": "网球",
+      "onboard_time": 1750512502,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 154060,
@@ -40721,6 +40817,14 @@
       "onboard_time": 1749829162,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150971,
+      "num": 150971,
+      "word": "毛不易变有钱居然已经八年了",
+      "onboard_time": 1750512923,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 150964,
@@ -41763,14 +41867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 147482,
-      "num": 376953,
-      "word": "白玉兰奖27日揭晓",
-      "onboard_time": 1750511963,
-      "rank": 8,
-      "category": "电影"
-    },
-    {
       "raw_hot": 147478,
       "num": 147478,
       "word": "披荆斩棘的导演让苏醒释怀些",
@@ -41841,14 +41937,6 @@
       "onboard_time": 1749395182,
       "rank": 49,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 147162,
-      "num": 147162,
-      "word": "网球",
-      "onboard_time": 1750512502,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 147116,
@@ -42025,6 +42113,14 @@
       "onboard_time": 1749279621,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146575,
+      "num": 146575,
+      "word": "我在TizzyT演唱会像抢鸡蛋的",
+      "onboard_time": 1750512923,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 146559,
@@ -42465,14 +42561,6 @@
       "onboard_time": 1749914242,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 145387,
-      "num": 145387,
-      "word": "伊朗核科学家与妻子遇袭身亡",
-      "onboard_time": 1750512324,
-      "rank": 43,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 145301,
@@ -43547,6 +43635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142110,
+      "num": 142110,
+      "word": "中国女排2比0日本女排",
+      "onboard_time": 1750513164,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142095,
       "num": 157293,
       "word": "F4演唱会巡演城市尚未确定",
@@ -43801,6 +43897,14 @@
       "onboard_time": 1749358101,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141375,
+      "num": 141375,
+      "word": "金爵奖",
+      "onboard_time": 1750513164,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 141369,
@@ -47875,14 +47979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129812,
-      "num": 149386,
-      "word": "以媒爆两架B2轰炸机从美国飞往关岛",
-      "onboard_time": 1750512743,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 129748,
       "num": 129748,
       "word": "唐汉霄 揭榜",
@@ -49260,7 +49356,7 @@
     },
     {
       "raw_hot": 125808,
-      "num": 784026,
+      "num": 1130715,
       "word": "文化中国行美好如夏至",
       "onboard_time": 1750439538,
       "rank": 12,
@@ -55561,14 +55657,6 @@
       "onboard_time": 1750310722,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 105887,
-      "num": 375778,
-      "word": "苏超常州0比4南京",
-      "onboard_time": 1750512143,
-      "rank": 9,
-      "category": "体育,民生新闻"
     },
     {
       "raw_hot": 105882,
@@ -62051,14 +62139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 74547,
-      "num": 262810,
-      "word": "川队",
-      "onboard_time": 1750512143,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 74521,
       "num": 353280,
       "word": "哪些大学专业和AI有关",
@@ -68233,6 +68313,14 @@
       "onboard_time": 1750056380,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43337,
+      "num": 190305,
+      "word": "以色列和伊朗非要你死我活吗",
+      "onboard_time": 1750513345,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 43324,
