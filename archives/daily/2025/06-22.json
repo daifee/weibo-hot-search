@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750545738134,
+  "endTime": 1750548264535,
   "band_list": [
     {
       "raw_hot": 6062877,
@@ -43,6 +43,14 @@
       "category": "辟谣/通报,艺人"
     },
     {
+      "raw_hot": 541287,
+      "num": 421420,
+      "word": "马景涛直播晕倒",
+      "onboard_time": 1750528336,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 528976,
       "num": 404205,
       "word": "镖人",
@@ -83,12 +91,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 443076,
-      "num": 296307,
-      "word": "马景涛直播晕倒",
-      "onboard_time": 1750528336,
-      "rank": 3,
-      "category": "艺人"
+      "raw_hot": 427745,
+      "num": 427745,
+      "word": "男方资助女子近65万留学分手后索回",
+      "onboard_time": 1750522582,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 422649,
@@ -139,14 +147,6 @@
       "category": "艺人,辟谣/通报"
     },
     {
-      "raw_hot": 338016,
-      "num": 338016,
-      "word": "男方资助女子近65万留学分手后索回",
-      "onboard_time": 1750522582,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 321071,
       "num": 219665,
       "word": "张杰女儿睡前信息",
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 294096,
-      "num": 131133,
+      "num": 148375,
       "word": "林允身材好就是敢穿",
       "onboard_time": 1750528336,
       "rank": 7,
@@ -211,6 +211,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 214962,
+      "num": 393258,
+      "word": "以军公布伊斯法罕核设施遇袭后画面",
+      "onboard_time": 1750521682,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 212556,
+      "num": 148898,
+      "word": "美媒竟将台湾与以伊冲突挂钩",
+      "onboard_time": 1750547897,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 210009,
       "num": 210009,
       "word": "酱园弄",
@@ -227,20 +243,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 184493,
-      "num": 393258,
-      "word": "以军公布伊斯法罕核设施遇袭后画面",
-      "onboard_time": 1750521682,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 182144,
       "num": 182144,
       "word": "陶喆唱完找自己雨越下越大",
       "onboard_time": 1750522463,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 181280,
+      "num": 148212,
+      "word": "那尔那茜事件涉事人员将被严肃追责",
+      "onboard_time": 1750516585,
+      "rank": 43,
+      "category": "艺人,辟谣/通报"
     },
     {
       "raw_hot": 174259,
@@ -281,6 +297,14 @@
       "onboard_time": 1750514603,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147231,
+      "num": 147231,
+      "word": "腾讯云包场滞销",
+      "onboard_time": 1750547358,
+      "rank": 16,
+      "category": "互联网,艺人"
     },
     {
       "raw_hot": 143993,
@@ -347,12 +371,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 122173,
-      "num": 122173,
-      "word": "那尔那茜事件涉事人员将被严肃追责",
-      "onboard_time": 1750516585,
-      "rank": 43,
-      "category": "艺人,辟谣/通报"
+      "raw_hot": 123984,
+      "num": 127542,
+      "word": "常州队全员业余球员硬刚苏超",
+      "onboard_time": 1750521143,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 118534,
@@ -363,12 +387,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 114366,
-      "num": 127542,
-      "word": "常州队全员业余球员硬刚苏超",
-      "onboard_time": 1750521143,
-      "rank": 46,
-      "category": "体育"
+      "raw_hot": 97189,
+      "num": 110138,
+      "word": "普京说俄士兵脚踩之地就属于俄罗斯",
+      "onboard_time": 1750528336,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 96712,
@@ -419,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87958,
+      "num": 62537,
+      "word": "mlxg说自己没钱了",
+      "onboard_time": 1750547297,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 86048,
       "num": 86048,
       "word": "柯淳杨肸子车窗吻",
@@ -427,12 +459,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 83474,
-      "num": 110138,
-      "word": "普京说俄士兵脚踩之地就属于俄罗斯",
-      "onboard_time": 1750528336,
-      "rank": 19,
-      "category": "国际时政"
+      "raw_hot": 80843,
+      "num": 80843,
+      "word": "清华食堂的菜单好像论文",
+      "onboard_time": 1750541234,
+      "rank": 30,
+      "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 79973,
+      "num": 79973,
+      "word": "陈熠3比2张本美和",
+      "onboard_time": 1750547297,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 71827,
@@ -467,11 +507,27 @@
       "category": "网红"
     },
     {
+      "raw_hot": 58321,
+      "num": 58321,
+      "word": "肖战版这世界那么多人好治愈",
+      "onboard_time": 1750548077,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58192,
       "num": 58192,
       "word": "迪丽热巴发型刘涛",
       "onboard_time": 1750500862,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 53820,
+      "num": 53820,
+      "word": "向太说自己和郭碧婷的个性很像",
+      "onboard_time": 1750543215,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -491,6 +547,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 46424,
+      "num": 46424,
+      "word": "小男孩载着小狗遛弯摘荔枝",
+      "onboard_time": 1750543756,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45352,
       "num": 45352,
       "word": "于正看临江仙结局哭的已经不行了",
@@ -499,12 +563,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 43614,
-      "num": 35359,
-      "word": "清华食堂的菜单好像论文",
-      "onboard_time": 1750541234,
-      "rank": 30,
-      "category": "幽默,休闲"
+      "raw_hot": 45306,
+      "num": 45306,
+      "word": "冲泡过程中需要不断摘下小猫",
+      "onboard_time": 1750547838,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 44029,
+      "num": 91851,
+      "word": "伊官员说伊朗准备了很多选项",
+      "onboard_time": 1750532774,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 42960,
+      "num": 42960,
+      "word": "Rihanna三胎孕肚",
+      "onboard_time": 1750546337,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 41525,
+      "num": 41525,
+      "word": "那尔那茜未在呼和浩特八中就读",
+      "onboard_time": 1750517785,
+      "rank": 46,
+      "category": "辟谣/通报,艺人"
     },
     {
       "raw_hot": 40088,
@@ -513,6 +601,14 @@
       "onboard_time": 1750523541,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 38925,
+      "num": 40426,
+      "word": "主食吃太少的7个副作用",
+      "onboard_time": 1750547297,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 36850,
@@ -529,14 +625,6 @@
       "onboard_time": 1750530736,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 33338,
-      "num": 91851,
-      "word": "伊官员说伊朗准备了很多选项",
-      "onboard_time": 1750532774,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 32414,
@@ -561,14 +649,6 @@
       "onboard_time": 1750528336,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 30403,
-      "num": 30403,
-      "word": "向太说自己和郭碧婷的个性很像",
-      "onboard_time": 1750543215,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 28500,
@@ -617,14 +697,6 @@
       "onboard_time": 1750534035,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 23586,
-      "num": 43832,
-      "word": "小男孩载着小狗遛弯摘荔枝",
-      "onboard_time": 1750543756,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23049,
