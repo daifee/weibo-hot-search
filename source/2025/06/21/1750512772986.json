@@ -1,0 +1,410 @@
+{
+  "runTime": 1750512772986,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2146108,
+        "num": 2146108,
+        "word": "0州",
+        "onboard_time": 1750498821,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1475004,
+        "num": 1475004,
+        "word": "昀牵孟绕",
+        "onboard_time": 1750510103,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11407,
+        "num": 768912,
+        "word": "文化中国行美好如夏至",
+        "onboard_time": 1750439538,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 697377,
+        "num": 697377,
+        "word": "酱园弄",
+        "onboard_time": 1750507102,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 510914,
+        "num": 510914,
+        "word": "女子婚礼后不领证被老公起诉",
+        "onboard_time": 1750505421,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 385491,
+        "num": 385491,
+        "word": "Labubu在二手市场价格暴跌",
+        "onboard_time": 1750510884,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 527294,
+        "num": 382290,
+        "word": "李沐宸因家庭变故至今还在还债",
+        "onboard_time": 1750504341,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378323,
+        "num": 378323,
+        "word": "苏超常州vs南京",
+        "onboard_time": 1750504222,
+        "rank": 7,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 147482,
+        "num": 376953,
+        "word": "白玉兰奖27日揭晓",
+        "onboard_time": 1750511963,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105887,
+        "num": 375778,
+        "word": "苏超常州0比4南京",
+        "onboard_time": 1750512143,
+        "rank": 9,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 1145410,
+        "num": 374098,
+        "word": "唐梓康康领证",
+        "onboard_time": 1750508361,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 402447,
+        "num": 373665,
+        "word": "万茜金爵奖影后",
+        "onboard_time": 1750511184,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 372555,
+        "num": 372555,
+        "word": "刚下高铁就感受到常州多想进球",
+        "onboard_time": 1750494322,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 343440,
+        "num": 343440,
+        "word": "临江仙结局",
+        "onboard_time": 1750502001,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320405,
+        "num": 320405,
+        "word": "迪丽热巴发型刘涛",
+        "onboard_time": 1750500862,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316530,
+        "num": 316530,
+        "word": "工资5000存了10万块",
+        "onboard_time": 1750504282,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 290793,
+        "num": 290793,
+        "word": "朴灿烈买labubu",
+        "onboard_time": 1750511004,
+        "rank": 16,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 290187,
+        "num": 290187,
+        "word": "常州雨战",
+        "onboard_time": 1750505182,
+        "rank": 17,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 274609,
+        "num": 274609,
+        "word": "美驻中东空军基地军机大量消失",
+        "onboard_time": 1750503620,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 74547,
+        "num": 262810,
+        "word": "川队",
+        "onboard_time": 1750512143,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254522,
+        "num": 254522,
+        "word": "苏超",
+        "onboard_time": 1750501101,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227012,
+        "num": 227012,
+        "word": "柯淳杨肸子车窗吻",
+        "onboard_time": 1750512623,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225334,
+        "num": 225334,
+        "word": "清华保研生曾因专业自卑退学北大",
+        "onboard_time": 1750507341,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225236,
+        "num": 225236,
+        "word": "幼师体罚幼儿被刑拘",
+        "onboard_time": 1750507883,
+        "rank": 23,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 205531,
+        "num": 205531,
+        "word": "mlxg被执行2500万",
+        "onboard_time": 1750502301,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 198065,
+        "num": 198065,
+        "word": "郝蕾录制现场发飙要求改赛制",
+        "onboard_time": 1750511603,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194243,
+        "num": 194243,
+        "word": "马嘉祺说娜姐谢谢你",
+        "onboard_time": 1750510884,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191531,
+        "num": 191531,
+        "word": "苏超南京4比0领先常州",
+        "onboard_time": 1750511903,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186016,
+        "num": 186016,
+        "word": "韩沐伯结婚",
+        "onboard_time": 1750496061,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178426,
+        "num": 180920,
+        "word": "有龙则0",
+        "onboard_time": 1750512143,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179804,
+        "num": 179804,
+        "word": "27岁女子1天3杯奶茶抽出牛奶血",
+        "onboard_time": 1750512143,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177912,
+        "num": 177912,
+        "word": "常州主场啦啦操队员带恐龙头盔",
+        "onboard_time": 1750509803,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165340,
+        "num": 165340,
+        "word": "你好星期六",
+        "onboard_time": 1750509681,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164847,
+        "num": 164847,
+        "word": "张子枫裸色露背长裙",
+        "onboard_time": 1750509622,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162406,
+        "num": 162406,
+        "word": "苏超赛场播放白鹿推介视频",
+        "onboard_time": 1750507943,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161823,
+        "num": 161823,
+        "word": "朱珠顶级社交场的东方美人",
+        "onboard_time": 1750512564,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161305,
+        "num": 161305,
+        "word": "韦东奕被围堵跟拍已处置740个账号",
+        "onboard_time": 1750503020,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149491,
+        "num": 149491,
+        "word": "沈腾马丽这算工伤了",
+        "onboard_time": 1750512023,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129812,
+        "num": 149386,
+        "word": "以媒爆两架B2轰炸机从美国飞往关岛",
+        "onboard_time": 1750512743,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 35795,
+        "num": 149375,
+        "word": "诚C白衣光影侧颜",
+        "onboard_time": 1750512083,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 32865,
+        "num": 149372,
+        "word": "为什么都喜欢风云A9L的门把手",
+        "onboard_time": 1750507763,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 149372,
+        "num": 149371,
+        "word": "女子被淹车库22小时获救后问几点了",
+        "onboard_time": 1750510884,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147162,
+        "num": 147162,
+        "word": "网球",
+        "onboard_time": 1750512502,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145387,
+        "num": 145387,
+        "word": "伊朗核科学家与妻子遇袭身亡",
+        "onboard_time": 1750512324,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 140252,
+        "num": 140252,
+        "word": "罗马仕充电宝3C认证大面积暂停",
+        "onboard_time": 1750506441,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352014,
+        "num": 140041,
+        "word": "苏超南京3比0常州",
+        "onboard_time": 1750510582,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139776,
+        "num": 139776,
+        "word": "那尔那茜事件真相还要公众等多久",
+        "onboard_time": 1750506562,
+        "rank": 46,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 138982,
+        "num": 138982,
+        "word": "宋慧乔 当谈及她时不再是婚姻",
+        "onboard_time": 1750505901,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136132,
+        "num": 136132,
+        "word": "尚公主",
+        "onboard_time": 1750488141,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136185,
+        "num": 136050,
+        "word": "于适完全是daddy级别的",
+        "onboard_time": 1750510103,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记强调粮食生产年年要抓紧#"
+    }
+  }
+}
