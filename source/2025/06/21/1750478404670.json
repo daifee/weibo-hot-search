@@ -1,0 +1,410 @@
+{
+  "runTime": 1750478404670,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1430122,
+        "num": 1430122,
+        "word": "爱尔兰一机构化粪池发现近800幼童遗骨",
+        "onboard_time": 1750474642,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1192309,
+        "num": 1192309,
+        "word": "赵丽颖章子怡杨幂酱园弄海报",
+        "onboard_time": 1750477282,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 6913,
+        "num": 724754,
+        "word": "文化中国行迎夏至",
+        "onboard_time": 1750478302,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 648151,
+        "num": 648151,
+        "word": "中餐厅收视率第一",
+        "onboard_time": 1750476801,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 460752,
+        "num": 460752,
+        "word": "伊朗开出谈判条件",
+        "onboard_time": 1750472240,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1565857,
+        "num": 448341,
+        "word": "央视取消播出易建联专访",
+        "onboard_time": 1750472480,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 529207,
+        "num": 447921,
+        "word": "聊斋",
+        "onboard_time": 1750473741,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 517554,
+        "num": 445364,
+        "word": "马嘉祺声乐老师发文",
+        "onboard_time": 1750465819,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 426265,
+        "num": 426265,
+        "word": "男子暴雨钓上72斤石斑鱼3000元卖出",
+        "onboard_time": 1750473981,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 423822,
+        "num": 423822,
+        "word": "6月23日起高考查分",
+        "onboard_time": 1750475301,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 34946,
+        "num": 316048,
+        "word": "中国饭碗里的科技范儿",
+        "onboard_time": 1750431744,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 947692,
+        "num": 313330,
+        "word": "重度抑郁躯体化的真实表现",
+        "onboard_time": 1750477221,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 284395,
+        "num": 284395,
+        "word": "泡泡特玛",
+        "onboard_time": 1750477581,
+        "rank": 12,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 279103,
+        "num": 279103,
+        "word": "幼态审美",
+        "onboard_time": 1750463720,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115729,
+        "num": 273540,
+        "word": "突然在支付宝卡包发现大额餐补",
+        "onboard_time": 1750474881,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 270375,
+        "num": 270375,
+        "word": "黑马情侣分手",
+        "onboard_time": 1750435281,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 192630,
+        "num": 250589,
+        "word": "原来这是林志炫准备应对袭榜的歌",
+        "onboard_time": 1750474282,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238256,
+        "num": 238256,
+        "word": "韩国4.5天工作制",
+        "onboard_time": 1750474160,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 190485,
+        "num": 238078,
+        "word": "闵玧其长文",
+        "onboard_time": 1750474582,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22251,
+        "num": 237872,
+        "word": "解读高考招生定向委培是什么",
+        "onboard_time": 1750476741,
+        "rank": 19,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 327818,
+        "num": 237742,
+        "word": "女生毕设被螨虫啃食心态崩了",
+        "onboard_time": 1750472240,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310883,
+        "num": 237408,
+        "word": "人生第一个双男主又回来了",
+        "onboard_time": 1750478361,
+        "rank": 21,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 253670,
+        "num": 237280,
+        "word": "一年电费40万炫富网红被禁言",
+        "onboard_time": 1750463478,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237144,
+        "num": 237144,
+        "word": "月经3天干净和7天干净其实都好",
+        "onboard_time": 1750467982,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 212859,
+        "num": 212859,
+        "word": "今日10时42分夏至",
+        "onboard_time": 1750465760,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203236,
+        "num": 203236,
+        "word": "伊总统警告以色列",
+        "onboard_time": 1750475242,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 172558,
+        "num": 172558,
+        "word": "耳朵 汪苏泷",
+        "onboard_time": 1750467141,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144854,
+        "num": 167497,
+        "word": "赵丽颖想去迪士尼见美美",
+        "onboard_time": 1750473800,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144577,
+        "num": 166195,
+        "word": "王力宏回应撞脸",
+        "onboard_time": 1750477100,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 56062,
+        "num": 165724,
+        "word": "武大78岁老教授脱下雨衣与毕业生合影",
+        "onboard_time": 1750477282,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165300,
+        "num": 165300,
+        "word": "加重体内湿气的不良习惯",
+        "onboard_time": 1750475301,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 279710,
+        "num": 164852,
+        "word": "长期不吃主食1年后身体的变化",
+        "onboard_time": 1750477700,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 162072,
+        "num": 162072,
+        "word": "夫妻俩APP上投200万后无法登录",
+        "onboard_time": 1750474941,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161983,
+        "num": 161983,
+        "word": "普京表示俄中并未构建新世界秩序",
+        "onboard_time": 1750477282,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160105,
+        "num": 160105,
+        "word": "美媒称与伊朗冲突每天耗费以色列数亿美元",
+        "onboard_time": 1750477282,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152845,
+        "num": 152845,
+        "word": "中国小猫被意外运到美国",
+        "onboard_time": 1750464139,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142868,
+        "num": 142868,
+        "word": "夏至",
+        "onboard_time": 1750463539,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141185,
+        "num": 141185,
+        "word": "2025世俱杯",
+        "onboard_time": 1750478302,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140465,
+        "num": 140465,
+        "word": "公主抱 体重不限",
+        "onboard_time": 1750476322,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 130889,
+        "num": 130889,
+        "word": "伊朗革命卫队声明",
+        "onboard_time": 1750467500,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126825,
+        "num": 126825,
+        "word": "聊斋诡画连篇单人海报",
+        "onboard_time": 1750477581,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121686,
+        "num": 121686,
+        "word": "男子彩票守号9年中1800万元",
+        "onboard_time": 1750472661,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119865,
+        "num": 119865,
+        "word": "酱园弄展现弱女子如何完成新生",
+        "onboard_time": 1750474101,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116703,
+        "num": 116703,
+        "word": "饿了么物流主管涉嫌职务犯罪",
+        "onboard_time": 1750477100,
+        "rank": 43,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 112315,
+        "num": 115917,
+        "word": "拜仁2比1博卡青年",
+        "onboard_time": 1750477041,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115861,
+        "num": 115861,
+        "word": "姜妍沈月累到灵魂出窍",
+        "onboard_time": 1750472661,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114519,
+        "num": 114519,
+        "word": "詹姆斯质疑戒指文化合理吗",
+        "onboard_time": 1750478361,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113480,
+        "num": 113480,
+        "word": "跟着古人过一天夏至",
+        "onboard_time": 1750476501,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109852,
+        "num": 109852,
+        "word": "是朋友就来看你好星期六",
+        "onboard_time": 1750478181,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107364,
+        "num": 107364,
+        "word": "被老师打碎头骨女孩母亲称遭死亡威胁",
+        "onboard_time": 1750475782,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席中亚之行高光时刻#"
+    }
+  }
+}

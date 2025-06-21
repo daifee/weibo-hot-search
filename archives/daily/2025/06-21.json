@@ -1,6 +1,6 @@
 {
   "startTime": 1750437141136,
-  "endTime": 1750476767827,
+  "endTime": 1750478404670,
   "band_list": [
     {
       "raw_hot": 1988631,
@@ -19,12 +19,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1188984,
-      "num": 1190237,
+      "raw_hot": 1430122,
+      "num": 1430122,
       "word": "爱尔兰一机构化粪池发现近800幼童遗骨",
       "onboard_time": 1750474642,
       "rank": 1,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1192309,
+      "num": 1192309,
+      "word": "赵丽颖章子怡杨幂酱园弄海报",
+      "onboard_time": 1750477282,
+      "rank": 1,
+      "category": "电影"
     },
     {
       "raw_hot": 1090744,
@@ -51,6 +59,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 947692,
+      "num": 313330,
+      "word": "重度抑郁躯体化的真实表现",
+      "onboard_time": 1750477221,
+      "rank": 11,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 881868,
       "num": 881868,
       "word": "幼态审美",
@@ -73,6 +89,14 @@
       "onboard_time": 1750461497,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 648151,
+      "num": 648151,
+      "word": "中餐厅收视率第一",
+      "onboard_time": 1750476801,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 637426,
@@ -171,6 +195,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 426265,
+      "num": 426265,
+      "word": "男子暴雨钓上72斤石斑鱼3000元卖出",
+      "onboard_time": 1750473981,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 423822,
+      "num": 423822,
+      "word": "6月23日起高考查分",
+      "onboard_time": 1750475301,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 421544,
       "num": 421544,
       "word": "中国小猫被意外运到美国",
@@ -185,14 +225,6 @@
       "onboard_time": 1750432103,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 411776,
-      "num": 411776,
-      "word": "6月23日起高考查分",
-      "onboard_time": 1750475301,
-      "rank": 8,
-      "category": "教育"
     },
     {
       "raw_hot": 388573,
@@ -227,14 +259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 353653,
-      "num": 255395,
-      "word": "男子暴雨钓上72斤石斑鱼3000元卖出",
-      "onboard_time": 1750473981,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 340073,
       "num": 357221,
       "word": "今日10时42分夏至",
@@ -267,12 +291,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 310883,
+      "num": 237408,
+      "word": "人生第一个双男主又回来了",
+      "onboard_time": 1750478361,
+      "rank": 21,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 291488,
       "num": 197798,
       "word": "耳帝",
       "onboard_time": 1750432702,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 284395,
+      "num": 284395,
+      "word": "泡泡特玛",
+      "onboard_time": 1750477581,
+      "rank": 12,
+      "category": "休闲,动漫"
+    },
+    {
+      "raw_hot": 279710,
+      "num": 164852,
+      "word": "长期不吃主食1年后身体的变化",
+      "onboard_time": 1750477700,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 272700,
@@ -332,7 +380,7 @@
     },
     {
       "raw_hot": 238557,
-      "num": 225846,
+      "num": 250589,
       "word": "原来这是林志炫准备应对袭榜的歌",
       "onboard_time": 1750474282,
       "rank": 30,
@@ -403,6 +451,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 203236,
+      "num": 203236,
+      "word": "伊总统警告以色列",
+      "onboard_time": 1750475242,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 200345,
       "num": 200345,
       "word": "再一次对印度人的聪明有了实感",
@@ -451,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190485,
+      "num": 239400,
+      "word": "闵玧其长文",
+      "onboard_time": 1750474582,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188501,
       "num": 239616,
       "word": "姜妍沈月累到灵魂出窍",
@@ -473,14 +537,6 @@
       "onboard_time": 1750475301,
       "rank": 32,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 182649,
-      "num": 239400,
-      "word": "闵玧其长文",
-      "onboard_time": 1750474582,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 179947,
@@ -539,11 +595,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 161256,
-      "num": 161256,
-      "word": "伊总统警告以色列",
-      "onboard_time": 1750475242,
-      "rank": 36,
+      "raw_hot": 161983,
+      "num": 161983,
+      "word": "普京表示俄中并未构建新世界秩序",
+      "onboard_time": 1750477282,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 160105,
+      "num": 160105,
+      "word": "美媒称与伊朗冲突每天耗费以色列数亿美元",
+      "onboard_time": 1750477282,
+      "rank": 34,
       "category": "国际时政"
     },
     {
@@ -579,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144577,
+      "num": 166195,
+      "word": "王力宏回应撞脸",
+      "onboard_time": 1750477100,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 144369,
       "num": 144369,
       "word": "俄罗斯警告美国别军事介入",
@@ -593,6 +665,22 @@
       "onboard_time": 1750436541,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 141185,
+      "num": 141185,
+      "word": "2025世俱杯",
+      "onboard_time": 1750478302,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 140465,
+      "num": 140465,
+      "word": "公主抱 体重不限",
+      "onboard_time": 1750476322,
+      "rank": 41,
+      "category": "网红"
     },
     {
       "raw_hot": 139006,
@@ -620,7 +708,7 @@
     },
     {
       "raw_hot": 131540,
-      "num": 240209,
+      "num": 273540,
       "word": "突然在支付宝卡包发现大额餐补",
       "onboard_time": 1750474881,
       "rank": 14,
@@ -656,6 +744,14 @@
       "word": "白鹿是于正心目中最好的双月",
       "onboard_time": 1750475900,
       "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 126825,
+      "num": 126825,
+      "word": "聊斋诡画连篇单人海报",
+      "onboard_time": 1750477581,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -723,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116703,
+      "num": 116703,
+      "word": "饿了么物流主管涉嫌职务犯罪",
+      "onboard_time": 1750477100,
+      "rank": 43,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 115334,
       "num": 115334,
       "word": "中餐厅9",
@@ -739,12 +843,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 114519,
+      "num": 114519,
+      "word": "詹姆斯质疑戒指文化合理吗",
+      "onboard_time": 1750478361,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113514,
       "num": 140799,
       "word": "檀健次白玉兰官宣",
       "onboard_time": 1750473800,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113480,
+      "num": 113480,
+      "word": "跟着古人过一天夏至",
+      "onboard_time": 1750476501,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113152,
@@ -769,6 +889,14 @@
       "onboard_time": 1750434082,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112315,
+      "num": 115917,
+      "word": "拜仁2比1博卡青年",
+      "onboard_time": 1750477041,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 110865,
@@ -811,12 +939,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 109745,
-      "num": 109745,
-      "word": "公主抱 体重不限",
-      "onboard_time": 1750476322,
-      "rank": 41,
-      "category": "网红"
+      "raw_hot": 109852,
+      "num": 109852,
+      "word": "是朋友就来看你好星期六",
+      "onboard_time": 1750478181,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 109736,
@@ -849,14 +977,6 @@
       "onboard_time": 1750465399,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 104752,
-      "num": 104752,
-      "word": "跟着古人过一天夏至",
-      "onboard_time": 1750476501,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 104743,
@@ -1155,6 +1275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 56062,
+      "num": 165724,
+      "word": "武大78岁老教授脱下雨衣与毕业生合影",
+      "onboard_time": 1750477282,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55160,
       "num": 55160,
       "word": "周翊然新剧暗恋偷偷藏不住",
@@ -1260,7 +1388,7 @@
     },
     {
       "raw_hot": 22753,
-      "num": 103159,
+      "num": 237872,
       "word": "解读高考招生定向委培是什么",
       "onboard_time": 1750476741,
       "rank": 44,
@@ -1289,6 +1417,14 @@
       "onboard_time": 1750452134,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 6913,
+      "num": 724754,
+      "word": "文化中国行迎夏至",
+      "onboard_time": 1750478302,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
