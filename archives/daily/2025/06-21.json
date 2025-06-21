@@ -1,6 +1,6 @@
 {
   "startTime": 1750437141136,
-  "endTime": 1750491523752,
+  "endTime": 1750494669619,
   "band_list": [
     {
       "raw_hot": 1988631,
@@ -147,11 +147,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 721907,
+      "num": 322837,
+      "word": "痞幼 悬崖便利店买水",
+      "onboard_time": 1750491620,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 672887,
       "num": 162001,
       "word": "赵丽颖的朋友圈又更新了",
       "onboard_time": 1750461497,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 651151,
+      "num": 651151,
+      "word": "李雪琴美成这样了",
+      "onboard_time": 1750493602,
+      "rank": 1,
       "category": "艺人"
     },
     {
@@ -235,6 +251,14 @@
       "category": "休闲,动漫"
     },
     {
+      "raw_hot": 488080,
+      "num": 488080,
+      "word": "有龙则零",
+      "onboard_time": 1750489100,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 479996,
       "num": 378268,
       "word": "原来小说里富家子弟一个班是真的",
@@ -297,6 +321,14 @@
       "onboard_time": 1750473981,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 424744,
+      "num": 424744,
+      "word": "唐国强称在闲鱼收时团小卡认人",
+      "onboard_time": 1750491681,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 423822,
@@ -387,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 345497,
+      "num": 308132,
+      "word": "迪丽热巴仙女级别",
+      "onboard_time": 1750492100,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 340073,
       "num": 357221,
       "word": "今日10时42分夏至",
@@ -427,12 +467,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 299202,
+      "num": 381458,
+      "word": "常州有龙则零",
+      "onboard_time": 1750488980,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 295632,
       "num": 295632,
       "word": "经期真正不能做的10件事",
       "onboard_time": 1750487002,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 294636,
+      "num": 371346,
+      "word": "邓超王祖蓝十年前十年后",
+      "onboard_time": 1750488381,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 293675,
@@ -448,14 +504,6 @@
       "word": "耳帝",
       "onboard_time": 1750432702,
       "rank": 14,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 284157,
-      "num": 371346,
-      "word": "邓超王祖蓝十年前十年后",
-      "onboard_time": 1750488381,
-      "rank": 47,
       "category": "综艺"
     },
     {
@@ -531,14 +579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 254967,
-      "num": 254967,
-      "word": "有龙则零",
-      "onboard_time": 1750489100,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 243862,
       "num": 184821,
       "word": "沈梦辰没读热搜",
@@ -577,14 +617,6 @@
       "onboard_time": 1750452074,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 235053,
-      "num": 381458,
-      "word": "常州有龙则零",
-      "onboard_time": 1750488980,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 234809,
@@ -635,11 +667,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 216827,
+      "num": 216827,
+      "word": "小米严禁以任何形式诋毁竞品",
+      "onboard_time": 1750488861,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 210121,
       "num": 210121,
       "word": "还珠格格小时候看不懂的细节",
       "onboard_time": 1750479620,
       "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 208868,
+      "num": 208868,
+      "word": "郭晓婷聊斋的本子全部吻上来",
+      "onboard_time": 1750492820,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -827,6 +875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171629,
+      "num": 206219,
+      "word": "长剧演员拍短剧是资源降级吗",
+      "onboard_time": 1750492040,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170716,
       "num": 170716,
       "word": "伊朗与英法德在日内瓦密谈3小时",
@@ -915,14 +971,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 158606,
-      "num": 158606,
-      "word": "小米严禁以任何形式诋毁竞品",
-      "onboard_time": 1750488861,
-      "rank": 36,
-      "category": "数码"
-    },
-    {
       "raw_hot": 156536,
       "num": 199980,
       "word": "树莓转学",
@@ -932,7 +980,7 @@
     },
     {
       "raw_hot": 155870,
-      "num": 155870,
+      "num": 303985,
       "word": "为啥1个椰子十几元椰子水9.9",
       "onboard_time": 1750489160,
       "rank": 30,
@@ -1147,6 +1195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128895,
+      "num": 128895,
+      "word": "萧亚轩笑着说我反对",
+      "onboard_time": 1750494080,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128381,
       "num": 128381,
       "word": "张远录制新说唱",
@@ -1235,6 +1291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125017,
+      "num": 125017,
+      "word": "林黛玉哭了37次 唐僧哭了45次",
+      "onboard_time": 1750493602,
+      "rank": 33,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 124490,
       "num": 124490,
       "word": "以色列总理抱怨儿子婚礼推迟",
@@ -1249,6 +1313,14 @@
       "onboard_time": 1750488921,
       "rank": 35,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 123906,
+      "num": 168698,
+      "word": "伊朗大使形容特朗普是白日做梦",
+      "onboard_time": 1750491081,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 123872,
@@ -1291,12 +1363,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120518,
+      "num": 120518,
+      "word": "何炅是沈月阿拉伯语唯一人脉",
+      "onboard_time": 1750493120,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120436,
       "num": 120436,
       "word": "单依纯第五",
       "onboard_time": 1750429168,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120063,
+      "num": 120063,
+      "word": "只有师范生才懂她有多强",
+      "onboard_time": 1750494141,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 119933,
@@ -1619,12 +1707,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 105429,
+      "num": 105429,
+      "word": "花了一套首付钱买了个机器人",
+      "onboard_time": 1750494080,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105170,
+      "num": 105170,
+      "word": "爱犬路边被陌生男射击毒针死亡",
+      "onboard_time": 1750494021,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104743,
       "num": 66856,
       "word": "别为难沈梦辰了",
       "onboard_time": 1750461316,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103999,
+      "num": 103999,
+      "word": "刚下高铁就感受到常州多想进球",
+      "onboard_time": 1750494322,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 103905,
@@ -1641,6 +1753,14 @@
       "onboard_time": 1750471100,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102967,
+      "num": 102967,
+      "word": "常州队外援已到位",
+      "onboard_time": 1750494322,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 102092,
@@ -1697,6 +1817,22 @@
       "onboard_time": 1750469360,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 100066,
+      "num": 100066,
+      "word": "伊朗大使称伊朗从未离开谈判桌",
+      "onboard_time": 1750493781,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 99830,
+      "num": 99830,
+      "word": "在恐惧和恐慌之间选择了恐龙",
+      "onboard_time": 1750494620,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 99373,
@@ -1851,6 +1987,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 87598,
+      "num": 282171,
+      "word": "有王骁就稳了",
+      "onboard_time": 1750493001,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 83651,
       "num": 88507,
       "word": "天热出汗会消耗脂肪吗",
@@ -1904,6 +2048,14 @@
       "word": "麦迪说给我个奥尼尔也能夺冠",
       "onboard_time": 1750483761,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 72782,
+      "num": 280685,
+      "word": "常州连比分都彩排了",
+      "onboard_time": 1750494200,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -1979,12 +2131,12 @@
       "category": "游戏,动漫"
     },
     {
-      "raw_hot": 63500,
-      "num": 168698,
-      "word": "伊朗大使形容特朗普是白日做梦",
-      "onboard_time": 1750491081,
-      "rank": 29,
-      "category": "国际时政"
+      "raw_hot": 61020,
+      "num": 326867,
+      "word": "18条河流发生超警以上洪水",
+      "onboard_time": 1750492941,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60859,
@@ -2099,6 +2251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46663,
+      "num": 996230,
+      "word": "文化中国行迎夏至",
+      "onboard_time": 1750478302,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 46022,
       "num": 67988,
       "word": "上百名中国公民从以撤离至埃及境内",
@@ -2187,12 +2347,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 35609,
-      "num": 996230,
-      "word": "文化中国行迎夏至",
-      "onboard_time": 1750478302,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 37171,
+      "num": 178469,
+      "word": "万婴墓",
+      "onboard_time": 1750494200,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29781,
@@ -2267,6 +2427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 16710,
+      "num": 529911,
+      "word": "文物里的夏日美学",
+      "onboard_time": 1750494562,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 9004,
       "num": 24847,
       "word": "一诺KPL连胜王",
@@ -2281,6 +2449,9 @@
     },
     {
       "word": "#习近平针对中东局势提出四点主张#"
+    },
+    {
+      "word": "#总书记强调粮食生产年年要抓紧#"
     }
   ]
 }

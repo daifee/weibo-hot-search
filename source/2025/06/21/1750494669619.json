@@ -1,0 +1,410 @@
+{
+  "runTime": 1750494669619,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 925974,
+        "num": 1148155,
+        "word": "千万不要买绿色的防晒衣",
+        "onboard_time": 1750480880,
+        "rank": 0,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 651151,
+        "num": 651151,
+        "word": "李雪琴美成这样了",
+        "onboard_time": 1750493602,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16710,
+        "num": 529911,
+        "word": "文物里的夏日美学",
+        "onboard_time": 1750494562,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 498501,
+        "num": 498501,
+        "word": "爱尔兰化粪池现近800幼童遗骨",
+        "onboard_time": 1750474642,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 488080,
+        "num": 488080,
+        "word": "有龙则零",
+        "onboard_time": 1750489100,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 469954,
+        "num": 469954,
+        "word": "印度少女遭14人强奸两年现怀孕8月",
+        "onboard_time": 1750484301,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 424744,
+        "num": 424744,
+        "word": "唐国强称在闲鱼收时团小卡认人",
+        "onboard_time": 1750491681,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 343919,
+        "num": 343919,
+        "word": "长期不吃主食1年后身体的变化",
+        "onboard_time": 1750477700,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 329087,
+        "num": 329087,
+        "word": "iPhone检测针孔摄像头方法",
+        "onboard_time": 1750482802,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 61020,
+        "num": 326867,
+        "word": "18条河流发生超警以上洪水",
+        "onboard_time": 1750492941,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 721907,
+        "num": 322837,
+        "word": "痞幼 悬崖便利店买水",
+        "onboard_time": 1750491620,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 601706,
+        "num": 314855,
+        "word": "霍震霆曝儿子霍启仁已结婚",
+        "onboard_time": 1750484002,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46663,
+        "num": 313862,
+        "word": "文化中国行迎夏至",
+        "onboard_time": 1750478302,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 345497,
+        "num": 308132,
+        "word": "迪丽热巴仙女级别",
+        "onboard_time": 1750492100,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154371,
+        "num": 303985,
+        "word": "为啥1个椰子十几元椰子水9.9",
+        "onboard_time": 1750489160,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299563,
+        "num": 299563,
+        "word": "重度抑郁躯体化的真实表现",
+        "onboard_time": 1750477221,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 294636,
+        "num": 294636,
+        "word": "邓超王祖蓝十年前十年后",
+        "onboard_time": 1750488381,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226428,
+        "num": 286899,
+        "word": "尚公主明天官宣",
+        "onboard_time": 1750487002,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87598,
+        "num": 282171,
+        "word": "有王骁就稳了",
+        "onboard_time": 1750493001,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72782,
+        "num": 280685,
+        "word": "常州连比分都彩排了",
+        "onboard_time": 1750494200,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279729,
+        "num": 279729,
+        "word": "被骗40万女子说骗子会提供情绪价值",
+        "onboard_time": 1750489281,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263938,
+        "num": 263938,
+        "word": "李先彬自曝是李光洙追的自己",
+        "onboard_time": 1750485921,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257299,
+        "num": 257299,
+        "word": "原来小说里富家子弟一个班是真的",
+        "onboard_time": 1750483101,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 216827,
+        "num": 216827,
+        "word": "小米严禁以任何形式诋毁竞品",
+        "onboard_time": 1750488861,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 208868,
+        "num": 208868,
+        "word": "郭晓婷聊斋的本子全部吻上来",
+        "onboard_time": 1750492820,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171629,
+        "num": 206219,
+        "word": "长剧演员拍短剧是资源降级吗",
+        "onboard_time": 1750492040,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167913,
+        "num": 197927,
+        "word": "赵丽颖章子怡杨幂酱园弄海报",
+        "onboard_time": 1750477282,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151396,
+        "num": 189427,
+        "word": "张艺兴为演话剧专门去敦煌学习",
+        "onboard_time": 1750488861,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145128,
+        "num": 184314,
+        "word": "中餐厅收视率第一",
+        "onboard_time": 1750476801,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37171,
+        "num": 178469,
+        "word": "万婴墓",
+        "onboard_time": 1750494200,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173312,
+        "num": 173312,
+        "word": "牺牲62年后他的头颅在工地被发现",
+        "onboard_time": 1750486941,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135074,
+        "num": 135074,
+        "word": "伊朗开出谈判条件",
+        "onboard_time": 1750472240,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128895,
+        "num": 128895,
+        "word": "萧亚轩笑着说我反对",
+        "onboard_time": 1750494080,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125017,
+        "num": 125017,
+        "word": "林黛玉哭了37次 唐僧哭了45次",
+        "onboard_time": 1750493602,
+        "rank": 33,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 114664,
+        "num": 124323,
+        "word": "韩国网友要求闵玧其退团",
+        "onboard_time": 1750487120,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123906,
+        "num": 123906,
+        "word": "伊朗大使形容特朗普是白日做梦",
+        "onboard_time": 1750491081,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120518,
+        "num": 120518,
+        "word": "何炅是沈月阿拉伯语唯一人脉",
+        "onboard_time": 1750493120,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120382,
+        "num": 120382,
+        "word": "以色列热转视频",
+        "onboard_time": 1750488921,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 120063,
+        "num": 120063,
+        "word": "只有师范生才懂她有多强",
+        "onboard_time": 1750494141,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105429,
+        "num": 105429,
+        "word": "花了一套首付钱买了个机器人",
+        "onboard_time": 1750494080,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105170,
+        "num": 105170,
+        "word": "爱犬路边被陌生男射击毒针死亡",
+        "onboard_time": 1750494021,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103999,
+        "num": 103999,
+        "word": "刚下高铁就感受到常州多想进球",
+        "onboard_time": 1750494322,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103656,
+        "num": 103656,
+        "word": "包浆labubu",
+        "onboard_time": 1750482921,
+        "rank": 42,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 102967,
+        "num": 102967,
+        "word": "常州队外援已到位",
+        "onboard_time": 1750494322,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100066,
+        "num": 100066,
+        "word": "伊朗大使称伊朗从未离开谈判桌",
+        "onboard_time": 1750493781,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 290112,
+        "num": 99969,
+        "word": "湖南一医院前院长坠楼身亡",
+        "onboard_time": 1750485561,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299202,
+        "num": 99916,
+        "word": "常州有龙则零",
+        "onboard_time": 1750488980,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98541,
+        "num": 99831,
+        "word": "经期真正不能做的10件事",
+        "onboard_time": 1750487002,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 99830,
+        "num": 99830,
+        "word": "在恐惧和恐慌之间选择了恐龙",
+        "onboard_time": 1750494620,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98775,
+        "num": 98775,
+        "word": "易烊千玺宋瞎子贴多层头皮",
+        "onboard_time": 1750490480,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记强调粮食生产年年要抓紧#"
+    }
+  }
+}
