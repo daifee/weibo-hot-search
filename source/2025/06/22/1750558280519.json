@@ -1,0 +1,410 @@
+{
+  "runTime": 1750558280519,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2658356,
+        "num": 2658356,
+        "word": "美国袭击伊朗核设施",
+        "onboard_time": 1750551379,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1727200,
+        "num": 1727200,
+        "word": "汪峰回应与宁静牵手",
+        "onboard_time": 1750549878,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29496,
+        "num": 1188801,
+        "word": "一组数据看懂中国外资吸引力",
+        "onboard_time": 1750514904,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1033931,
+        "num": 1033931,
+        "word": "胡楚靓小袁分手",
+        "onboard_time": 1750550239,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 804316,
+        "num": 804316,
+        "word": "美称预计不会对伊朗发动后续袭击",
+        "onboard_time": 1750556361,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 580536,
+        "num": 785607,
+        "word": "许家印前妻被曝5亿买33套伦敦豪宅",
+        "onboard_time": 1750551379,
+        "rank": 5,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 769583,
+        "num": 769583,
+        "word": "美军B2轰炸机袭击伊朗核设施",
+        "onboard_time": 1750556301,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 675150,
+        "num": 675150,
+        "word": "内蒙古通报那尔那茜有关核查情况",
+        "onboard_time": 1750514603,
+        "rank": 7,
+        "category": "艺人,辟谣/通报"
+      },
+      {
+        "raw_hot": 336505,
+        "num": 669267,
+        "word": "日本黑皮西瓜最高价一只3.4万元",
+        "onboard_time": 1750556361,
+        "rank": 8,
+        "category": "海外新闻,财经"
+      },
+      {
+        "raw_hot": 124498,
+        "num": 666383,
+        "word": "伊朗称已提前对核设施进行疏散",
+        "onboard_time": 1750557202,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 664466,
+        "num": 664466,
+        "word": "特朗普10点发表全国讲话",
+        "onboard_time": 1750553721,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 553014,
+        "num": 553014,
+        "word": "那尔那茜涉嫌高考报名材料造假",
+        "onboard_time": 1750515085,
+        "rank": 11,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 477530,
+        "num": 477530,
+        "word": "特朗普称打击伊朗3处核设施",
+        "onboard_time": 1750551379,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 468760,
+        "num": 468760,
+        "word": "汪峰森林北合照",
+        "onboard_time": 1750551441,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415656,
+        "num": 415656,
+        "word": "腾讯云包场滞销",
+        "onboard_time": 1750547358,
+        "rank": 14,
+        "category": "互联网,艺人"
+      },
+      {
+        "raw_hot": 414712,
+        "num": 414712,
+        "word": "美军向伊朗福尔道核设施投6枚钻地弹",
+        "onboard_time": 1750556301,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 292607,
+        "num": 413267,
+        "word": "中国冥币在海外杀疯老外烧个不停",
+        "onboard_time": 1750522222,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202533,
+        "num": 412621,
+        "word": "男方资助女子近65万留学分手后索回",
+        "onboard_time": 1750522582,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 412476,
+        "num": 412476,
+        "word": "老爸买下整车labubu送女儿",
+        "onboard_time": 1750558162,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176590,
+        "num": 407297,
+        "word": "朱珠夫妇参加皇家赛马会",
+        "onboard_time": 1750557080,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405759,
+        "num": 405759,
+        "word": "以色列人说没法睡觉想过正常生活",
+        "onboard_time": 1750551920,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 307717,
+        "num": 307717,
+        "word": "伊朗称已发射大批自杀式无人机",
+        "onboard_time": 1750550840,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 306792,
+        "num": 306792,
+        "word": "孟子义李昀锐合作的第3部剧",
+        "onboard_time": 1750521864,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265270,
+        "num": 265270,
+        "word": "美国向伊朗核设施发射30枚战斧导弹",
+        "onboard_time": 1750556482,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 255700,
+        "num": 255700,
+        "word": "50架以战机侵犯伊拉克领空",
+        "onboard_time": 1750551020,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 252552,
+        "num": 252552,
+        "word": "韩红痛斥歌手耳机里都是提示音",
+        "onboard_time": 1750515085,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248793,
+        "num": 248793,
+        "word": "马景涛直播晕倒",
+        "onboard_time": 1750528336,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170506,
+        "num": 244459,
+        "word": "27岁女子1天3杯奶茶抽出牛奶血",
+        "onboard_time": 1750512143,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88607,
+        "num": 241707,
+        "word": "特朗普称伊朗福尔多核设施不再存在",
+        "onboard_time": 1750558042,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122144,
+        "num": 241394,
+        "word": "台网红吸大麻被抓甩锅大陆警方",
+        "onboard_time": 1750518144,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241176,
+        "num": 241176,
+        "word": "向太给孙子孙女买Labubu",
+        "onboard_time": 1750513583,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226681,
+        "num": 226681,
+        "word": "以伊冲突第10天",
+        "onboard_time": 1750551799,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 220048,
+        "num": 220048,
+        "word": "尚公主",
+        "onboard_time": 1750488141,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190470,
+        "num": 190470,
+        "word": "以色列",
+        "onboard_time": 1750554442,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 184717,
+        "num": 184717,
+        "word": "胡塞武装称若美碰伊朗就打其军舰",
+        "onboard_time": 1750554321,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 172429,
+        "num": 172429,
+        "word": "大黄",
+        "onboard_time": 1750553242,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 165113,
+        "num": 165113,
+        "word": "气血不足最怕的几个动作",
+        "onboard_time": 1750550058,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164925,
+        "num": 164925,
+        "word": "胡塞武装威胁袭击美国军舰",
+        "onboard_time": 1750551621,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 162994,
+        "num": 162994,
+        "word": "桃花映江山",
+        "onboard_time": 1750557921,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119392,
+        "num": 152864,
+        "word": "惠若琪妹妹结婚",
+        "onboard_time": 1750558162,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151444,
+        "num": 151444,
+        "word": "林允身材好就是敢穿",
+        "onboard_time": 1750528336,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129157,
+        "num": 129157,
+        "word": "跳楼机好不容易升咖又打回原形了",
+        "onboard_time": 1750516047,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128689,
+        "num": 128689,
+        "word": "脑死亡的时候她的身体变成孵化器",
+        "onboard_time": 1750552220,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127894,
+        "num": 127894,
+        "word": "mlxg直播回应被执行2500万",
+        "onboard_time": 1750558101,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127089,
+        "num": 127089,
+        "word": "万茜拿了影后输了钱",
+        "onboard_time": 1750519824,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111272,
+        "num": 126800,
+        "word": "巴西热气球坠落8人死亡",
+        "onboard_time": 1750521682,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 126517,
+        "num": 126517,
+        "word": "这西瓜怎么吃得洋里洋气的",
+        "onboard_time": 1750552280,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125956,
+        "num": 125956,
+        "word": "美媒竟将台湾与以伊冲突挂钩",
+        "onboard_time": 1750547897,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124520,
+        "num": 124520,
+        "word": "胡楚靓",
+        "onboard_time": 1750548858,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 106993,
+        "num": 106993,
+        "word": "苏超赛后球迷自发捡垃圾",
+        "onboard_time": 1750514422,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#3句话讲清习主席中亚之行的深远意义#"
+    }
+  }
+}

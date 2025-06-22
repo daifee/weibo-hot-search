@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750549150016,
+  "endTime": 1750558280519,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -489,6 +489,14 @@
       "onboard_time": 1750515085,
       "rank": 5,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 2658356,
+      "num": 2658356,
+      "word": "美国袭击伊朗核设施",
+      "onboard_time": 1750551379,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 2655355,
@@ -1185,6 +1193,14 @@
       "onboard_time": 1749714861,
       "rank": 3,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1727200,
+      "num": 1727200,
+      "word": "汪峰回应与宁静牵手",
+      "onboard_time": 1750549878,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1726051,
@@ -3443,6 +3459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1033931,
+      "num": 1033931,
+      "word": "胡楚靓小袁分手",
+      "onboard_time": 1750550239,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1032068,
       "num": 1165130,
       "word": "VOGUE红毯",
@@ -5139,6 +5163,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 804316,
+      "num": 804316,
+      "word": "美称预计不会对伊朗发动后续袭击",
+      "onboard_time": 1750556361,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 803991,
       "num": 1128638,
       "word": "网剧双轨",
@@ -5561,6 +5593,14 @@
       "onboard_time": 1748827699,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 769583,
+      "num": 769583,
+      "word": "美军B2轰炸机袭击伊朗核设施",
+      "onboard_time": 1750556301,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 769219,
@@ -6961,6 +7001,14 @@
       "onboard_time": 1750416681,
       "rank": 14,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 664466,
+      "num": 664466,
+      "word": "特朗普10点发表全国讲话",
+      "onboard_time": 1750553721,
+      "rank": 10,
+      "category": "国际时政"
     },
     {
       "raw_hot": 664364,
@@ -8489,6 +8537,14 @@
       "onboard_time": 1748783181,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 580536,
+      "num": 785607,
+      "word": "许家印前妻被曝5亿买33套伦敦豪宅",
+      "onboard_time": 1750551379,
+      "rank": 5,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 580351,
@@ -10843,6 +10899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 477530,
+      "num": 477530,
+      "word": "特朗普称打击伊朗3处核设施",
+      "onboard_time": 1750551379,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 477231,
       "num": 477231,
       "word": "藏海口碑恐怖如斯",
@@ -11113,6 +11177,14 @@
       "onboard_time": 1749390084,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 468760,
+      "num": 468760,
+      "word": "汪峰森林北合照",
+      "onboard_time": 1750551441,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 468408,
@@ -12627,6 +12699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 415656,
+      "num": 415656,
+      "word": "腾讯云包场滞销",
+      "onboard_time": 1750547358,
+      "rank": 16,
+      "category": "互联网,艺人"
+    },
+    {
       "raw_hot": 415456,
       "num": 415456,
       "word": "太原致1死2失联21伤事故非天然气爆炸",
@@ -12665,6 +12745,14 @@
       "onboard_time": 1749044002,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 414712,
+      "num": 414712,
+      "word": "美军向伊朗福尔道核设施投6枚钻地弹",
+      "onboard_time": 1750556301,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 414516,
@@ -12729,6 +12817,14 @@
       "onboard_time": 1749478463,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 412476,
+      "num": 412476,
+      "word": "老爸买下整车labubu送女儿",
+      "onboard_time": 1750558162,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 412187,
@@ -12961,6 +13057,14 @@
       "onboard_time": 1749808402,
       "rank": 20,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 405759,
+      "num": 405759,
+      "word": "以色列人说没法睡觉想过正常生活",
+      "onboard_time": 1750551920,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 405544,
@@ -16003,6 +16107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 336505,
+      "num": 669267,
+      "word": "日本黑皮西瓜最高价一只3.4万元",
+      "onboard_time": 1750556361,
+      "rank": 8,
+      "category": "海外新闻,财经"
+    },
+    {
       "raw_hot": 336337,
       "num": 336337,
       "word": "爱奇艺破万机制",
@@ -17377,6 +17489,14 @@
       "onboard_time": 1749702502,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 307717,
+      "num": 307717,
+      "word": "伊朗称已发射大批自杀式无人机",
+      "onboard_time": 1750550840,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 307644,
@@ -20235,6 +20355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 265270,
+      "num": 265270,
+      "word": "美国向伊朗核设施发射30枚战斧导弹",
+      "onboard_time": 1750556482,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 265121,
       "num": 390179,
       "word": "伊朗首都街头空无一人",
@@ -21113,6 +21241,14 @@
       "onboard_time": 1749367880,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 255700,
+      "num": 255700,
+      "word": "50架以战机侵犯伊拉克领空",
+      "onboard_time": 1750551020,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 255563,
@@ -23819,6 +23955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 226681,
+      "num": 226681,
+      "word": "以伊冲突第10天",
+      "onboard_time": 1750551799,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 226594,
       "num": 245483,
       "word": "伊朗的抵抗之弧还能撑多久",
@@ -24769,14 +24913,6 @@
       "onboard_time": 1749882620,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 219694,
-      "num": 219694,
-      "word": "腾讯云包场滞销",
-      "onboard_time": 1750547358,
-      "rank": 16,
-      "category": "互联网,艺人"
     },
     {
       "raw_hot": 219684,
@@ -32275,6 +32411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184717,
+      "num": 184717,
+      "word": "胡塞武装称若美碰伊朗就打其军舰",
+      "onboard_time": 1750554321,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 184615,
       "num": 184615,
       "word": "肖战背头衬衫",
@@ -34139,6 +34283,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 176590,
+      "num": 407297,
+      "word": "朱珠夫妇参加皇家赛马会",
+      "onboard_time": 1750557080,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176547,
       "num": 176547,
       "word": "谢娜怎么可能有这么会唱又这么帅的出品人",
@@ -35193,6 +35345,14 @@
       "onboard_time": 1748688501,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172429,
+      "num": 172429,
+      "word": "大黄",
+      "onboard_time": 1750553242,
+      "rank": 35,
+      "category": "网红"
     },
     {
       "raw_hot": 172412,
@@ -37379,6 +37539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165113,
+      "num": 165113,
+      "word": "气血不足最怕的几个动作",
+      "onboard_time": 1750550058,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 165038,
       "num": 165038,
       "word": "南京队大杀器滕帅曾入选国青队",
@@ -37433,6 +37601,14 @@
       "onboard_time": 1748782283,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164925,
+      "num": 164925,
+      "word": "胡塞武装威胁袭击美国军舰",
+      "onboard_time": 1750551621,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 164921,
@@ -48947,6 +49123,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 128689,
+      "num": 128689,
+      "word": "脑死亡的时候她的身体变成孵化器",
+      "onboard_time": 1750552220,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128679,
       "num": 128679,
       "word": "拜仁10比0奥克兰城",
@@ -49225,6 +49409,14 @@
       "onboard_time": 1749066914,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 127894,
+      "num": 127894,
+      "word": "mlxg直播回应被执行2500万",
+      "onboard_time": 1750558101,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 127873,
@@ -49625,6 +49817,14 @@
       "onboard_time": 1749564803,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 126517,
+      "num": 126517,
+      "word": "这西瓜怎么吃得洋里洋气的",
+      "onboard_time": 1750552280,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 126494,
@@ -50291,12 +50491,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 124520,
+      "num": 124520,
+      "word": "胡楚靓",
+      "onboard_time": 1750548858,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 124503,
       "num": 124503,
       "word": "时全此刻比鬼还吓人",
       "onboard_time": 1748782701,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124498,
+      "num": 666383,
+      "word": "伊朗称已提前对核设施进行疏散",
+      "onboard_time": 1750557202,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 124490,
@@ -52104,6 +52320,14 @@
       "word": "西班牙晋级欧国联决赛",
       "onboard_time": 1749166278,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 119392,
+      "num": 152864,
+      "word": "惠若琪妹妹结婚",
+      "onboard_time": 1750558162,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -60275,6 +60499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88607,
+      "num": 241707,
+      "word": "特朗普称伊朗福尔多核设施不再存在",
+      "onboard_time": 1750558042,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 88563,
       "num": 88563,
       "word": "新加坡总理将访华",
@@ -62009,14 +62241,6 @@
       "onboard_time": 1749216026,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 79487,
-      "num": 79487,
-      "word": "胡楚靓",
-      "onboard_time": 1750548858,
-      "rank": 26,
-      "category": "网红"
     },
     {
       "raw_hot": 79411,
@@ -68636,7 +68860,7 @@
     },
     {
       "raw_hot": 45286,
-      "num": 980763,
+      "num": 1188801,
       "word": "一组数据看懂中国外资吸引力",
       "onboard_time": 1750514904,
       "rank": 2,
