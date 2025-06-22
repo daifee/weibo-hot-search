@@ -1,0 +1,410 @@
+{
+  "runTime": 1750596454990,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1604167,
+        "num": 1604167,
+        "word": "泡泡玛特回应姚晨晒限量版Labubu",
+        "onboard_time": 1750589063,
+        "rank": 0,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 1591254,
+        "num": 1591254,
+        "word": "Prada大秀",
+        "onboard_time": 1750595302,
+        "rank": 1,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 26971,
+        "num": 1043248,
+        "word": "新一代人才与AI共生共长",
+        "onboard_time": 1750582282,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1038028,
+        "num": 1038028,
+        "word": "高考查分 紧张",
+        "onboard_time": 1750583962,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 752530,
+        "num": 752530,
+        "word": "最难喝的奶茶",
+        "onboard_time": 1750593320,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 740436,
+        "num": 740436,
+        "word": "北大退学上清华男生回应占名额质疑",
+        "onboard_time": 1750591341,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 656204,
+        "num": 656204,
+        "word": "儿子救人去世妈妈看见同龄孩子哭晕",
+        "onboard_time": 1750593742,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 556094,
+        "num": 556094,
+        "word": "庆余年3",
+        "onboard_time": 1750576162,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 488346,
+        "num": 488346,
+        "word": "伊朗向以色列发射其最强导弹",
+        "onboard_time": 1750578263,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 451559,
+        "num": 451559,
+        "word": "外交部回应美国打击伊朗核设施",
+        "onboard_time": 1750591341,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1517043,
+        "num": 430481,
+        "word": "王勉 易梦玲",
+        "onboard_time": 1750585942,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 683130,
+        "num": 400348,
+        "word": "蜜雪冰城房塌了",
+        "onboard_time": 1750575561,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 482282,
+        "num": 387256,
+        "word": "五角大楼附近披萨店又爆单了",
+        "onboard_time": 1750591402,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 348434,
+        "num": 348434,
+        "word": "邓超五哈cue了Angelababy",
+        "onboard_time": 1750591283,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344040,
+        "num": 344040,
+        "word": "男子奸杀7岁女童前欠网贷心生烦躁",
+        "onboard_time": 1750586782,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317673,
+        "num": 317673,
+        "word": "肖战花苞袖",
+        "onboard_time": 1750595841,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302455,
+        "num": 302455,
+        "word": "马景涛报平安请大家放心",
+        "onboard_time": 1750595543,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329750,
+        "num": 302239,
+        "word": "美国袭击伊朗核设施",
+        "onboard_time": 1750551379,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110898,
+        "num": 301344,
+        "word": "迪丽热巴茉莉花公主驾到",
+        "onboard_time": 1750596082,
+        "rank": 18,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 58252,
+        "num": 301193,
+        "word": "老教师跳水救学生几次呛水仍托举",
+        "onboard_time": 1750594942,
+        "rank": 19,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 301129,
+        "num": 301129,
+        "word": "杨幂主演票房破80亿",
+        "onboard_time": 1750595242,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 292655,
+        "num": 292655,
+        "word": "买39件衣服不能试穿回家发现穿不上",
+        "onboard_time": 1750580782,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282239,
+        "num": 282239,
+        "word": "云包场赔罪",
+        "onboard_time": 1750592243,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238572,
+        "num": 238572,
+        "word": "河南未扶摔倒水中老人的民警被免职",
+        "onboard_time": 1750584681,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231399,
+        "num": 231399,
+        "word": "荔枝 便宜",
+        "onboard_time": 1750585881,
+        "rank": 24,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 227428,
+        "num": 227428,
+        "word": "尚公主官宣",
+        "onboard_time": 1750558340,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148919,
+        "num": 226386,
+        "word": "曝长剧老板为金丝雀开短剧公司",
+        "onboard_time": 1750585942,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163385,
+        "num": 225812,
+        "word": "王欣瑜柏林赛亚军",
+        "onboard_time": 1750596322,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225484,
+        "num": 225484,
+        "word": "中国女排vs意大利女排",
+        "onboard_time": 1750595662,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146509,
+        "num": 210915,
+        "word": "登陆少年米兰时装周看秀look",
+        "onboard_time": 1750582402,
+        "rank": 29,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 209491,
+        "num": 209491,
+        "word": "米兰时装周",
+        "onboard_time": 1750595421,
+        "rank": 30,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 199853,
+        "num": 199853,
+        "word": "你见过最冷门的姓是什么",
+        "onboard_time": 1750589302,
+        "rank": 31,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 173953,
+        "num": 173953,
+        "word": "王欣瑜vs万卓索娃",
+        "onboard_time": 1750570582,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172238,
+        "num": 172238,
+        "word": "哥嫂要复婚要求小姑子迁走户口",
+        "onboard_time": 1750596022,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168856,
+        "num": 168856,
+        "word": "广东疾控发文称狂犬病病死率接近100%",
+        "onboard_time": 1750595902,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150256,
+        "num": 150256,
+        "word": "海关每天都在抓Lafufu",
+        "onboard_time": 1750593502,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147579,
+        "num": 147579,
+        "word": "真的建议吃烤肉时配紫苏",
+        "onboard_time": 1750590800,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 141911,
+        "num": 141911,
+        "word": "王欣瑜首盘好遗憾",
+        "onboard_time": 1750595361,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140351,
+        "num": 140351,
+        "word": "苏超抢票",
+        "onboard_time": 1750595961,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140273,
+        "num": 140273,
+        "word": "中方呼吁以色列尽快停火",
+        "onboard_time": 1750593922,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134329,
+        "num": 134329,
+        "word": "蒲熠星 正在商量武汉能不能加一场",
+        "onboard_time": 1750596202,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132834,
+        "num": 132834,
+        "word": "驾车在赛里木湖毁草漂移涉嫌违法",
+        "onboard_time": 1750593802,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132657,
+        "num": 132657,
+        "word": "为什么gap year很难被接受",
+        "onboard_time": 1750594163,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119851,
+        "num": 119851,
+        "word": "wichu",
+        "onboard_time": 1750591162,
+        "rank": 43,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 119464,
+        "num": 119464,
+        "word": "陈赫问王勉和谁逛街",
+        "onboard_time": 1750580122,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119004,
+        "num": 119004,
+        "word": "中方强烈谴责美方袭击伊朗",
+        "onboard_time": 1750591881,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117782,
+        "num": 117782,
+        "word": "孟子义新丽首位95花一番女主",
+        "onboard_time": 1750585761,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117475,
+        "num": 117475,
+        "word": "北京迎今年来最热一天",
+        "onboard_time": 1750596322,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115640,
+        "num": 115640,
+        "word": "王欣瑜0比1万卓索娃",
+        "onboard_time": 1750591521,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114123,
+        "num": 114916,
+        "word": "上海申花晋级足协杯八强",
+        "onboard_time": 1750596082,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温红船精神#"
+    }
+  }
+}
