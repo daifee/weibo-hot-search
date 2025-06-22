@@ -1,6 +1,6 @@
 {
   "startTime": 1750609820904,
-  "endTime": 1750613047184,
+  "endTime": 1750614146439,
   "band_list": [
     {
       "raw_hot": 1027854,
@@ -435,8 +435,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 40553,
-      "num": 40553,
+      "raw_hot": 42609,
+      "num": 42609,
       "word": "鹿晗红帽素颜彩排照",
       "onboard_time": 1750612518,
       "rank": 48,
@@ -457,6 +457,14 @@
       "onboard_time": 1750598122,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 32339,
+      "num": 38317,
+      "word": "AI修图",
+      "onboard_time": 1750613960,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 11839,

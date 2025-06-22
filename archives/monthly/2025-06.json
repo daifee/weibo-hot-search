@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750613047184,
+  "endTime": 1750614146439,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -71939,6 +71939,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 42609,
+      "num": 42609,
+      "word": "鹿晗红帽素颜彩排照",
+      "onboard_time": 1750612518,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 42592,
       "num": 42592,
       "word": "丁禹兮旁白雪豹纪录片",
@@ -72625,14 +72633,6 @@
       "onboard_time": 1750320741,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 40553,
-      "num": 40553,
-      "word": "鹿晗红帽素颜彩排照",
-      "onboard_time": 1750612518,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 40523,
@@ -75009,6 +75009,14 @@
       "onboard_time": 1750322423,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 32339,
+      "num": 38317,
+      "word": "AI修图",
+      "onboard_time": 1750613960,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 32326,

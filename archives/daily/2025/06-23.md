@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/23 00:30:20 ~ 2025/06/23 01:24:07
+本榜单时间：2025/06/23 00:30:20 ~ 2025/06/23 01:42:26
 </p>
 </blockquote>
 <p>
@@ -340,7 +340,7 @@ Prada大秀（热度：90059）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E7%BA%A2%E5%B8%BD%E7%B4%A0%E9%A2%9C%E5%BD%A9%E6%8E%92%E7%85%A7%23" target="weibo">
-鹿晗红帽素颜彩排照（热度：40553）
+鹿晗红帽素颜彩排照（热度：42609）
 </a>
 </li>
 
@@ -353,6 +353,12 @@ Prada大秀（热度：90059）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BDIP%E5%87%BA%E6%B5%B7%E8%B7%91%E5%87%BA%E5%8A%A0%E9%80%9F%E5%BA%A6%23" target="weibo">
 中国IP出海跑出加速度（热度：34918）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23AI%E4%BF%AE%E5%9B%BE%23" target="weibo">
+AI修图（热度：32339）
 </a>
 </li>
 

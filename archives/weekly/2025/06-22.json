@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750613047184,
+  "endTime": 1750614146439,
   "band_list": [
     {
       "raw_hot": 7413013,
@@ -3419,6 +3419,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 42609,
+      "num": 42609,
+      "word": "鹿晗红帽素颜彩排照",
+      "onboard_time": 1750612518,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 42391,
       "num": 42391,
       "word": "主食吃太少的7个副作用",
@@ -3433,14 +3441,6 @@
       "onboard_time": 1750593981,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 40553,
-      "num": 40553,
-      "word": "鹿晗红帽素颜彩排照",
-      "onboard_time": 1750612518,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 40364,
@@ -3529,6 +3529,14 @@
       "onboard_time": 1750548918,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32339,
+      "num": 38317,
+      "word": "AI修图",
+      "onboard_time": 1750613960,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 32326,
