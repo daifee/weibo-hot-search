@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/22 18:43:46
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/22 19:21:01
 </p>
 </blockquote>
 <p>
@@ -821,6 +821,12 @@ iOS26 丑（热度：2160228）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%9A%E6%9C%B5%E9%85%92%E5%BA%97%E8%A2%AB%E6%9B%9D%E5%87%BA%E7%8E%B0%E5%8C%BB%E9%99%A2%E6%9E%95%E5%A5%97%23" target="weibo">
 亚朵酒店被曝出现医院枕套（热度：1844206）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E5%9B%9E%E5%BA%94%E5%A7%9A%E6%99%A8%E6%99%92%E9%99%90%E9%87%8F%E7%89%88Labubu%23" target="weibo">
+泡泡玛特回应姚晨晒限量版Labubu（热度：1839655）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Lafufu和Lababa都属于商标侵权（热度：623180）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%AA%81%E7%84%B6%E6%94%B9%E5%8F%A3%23" target="weibo">
 马斯克突然改口（热度：617871）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%82%A0%E4%BB%81%E4%BA%B2%E7%8E%8B%E8%A2%AB%E6%9B%9D%E6%95%85%E6%84%8F%E8%BF%9C%E7%A6%BB%E6%AF%8D%E4%BA%B2%23" target="weibo">
-日本悠仁亲王被曝故意远离母亲（热度：617442）
 </a>
 </li>
 

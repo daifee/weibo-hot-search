@@ -1,0 +1,410 @@
+{
+  "runTime": 1750591261324,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1839655,
+        "num": 1839655,
+        "word": "泡泡玛特回应姚晨晒限量版Labubu",
+        "onboard_time": 1750589063,
+        "rank": 0,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 1450734,
+        "num": 1450734,
+        "word": "高考查分 紧张",
+        "onboard_time": 1750583962,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 34351,
+        "num": 985749,
+        "word": "夏日青山绿水间清凉感拉满",
+        "onboard_time": 1750582462,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 632796,
+        "num": 632796,
+        "word": "庆余年3",
+        "onboard_time": 1750576162,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 513612,
+        "num": 513612,
+        "word": "荔枝 便宜",
+        "onboard_time": 1750585881,
+        "rank": 4,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 572881,
+        "num": 511664,
+        "word": "伊朗向以色列发射其最强导弹",
+        "onboard_time": 1750578263,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 492807,
+        "num": 492807,
+        "word": "河南未扶摔倒水中老人的民警被免职",
+        "onboard_time": 1750584681,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 437970,
+        "num": 437970,
+        "word": "你见过最冷门的姓是什么",
+        "onboard_time": 1750589302,
+        "rank": 7,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 429105,
+        "num": 429105,
+        "word": "男子称误转30万给老赖款项被冻结",
+        "onboard_time": 1750584261,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 413744,
+        "num": 413744,
+        "word": "尚公主官宣",
+        "onboard_time": 1750558340,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2054912,
+        "num": 407446,
+        "word": "王勉 易梦玲",
+        "onboard_time": 1750585942,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 748704,
+        "num": 396656,
+        "word": "蜜雪冰城房塌了",
+        "onboard_time": 1750575561,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 366493,
+        "num": 366493,
+        "word": "美国袭击伊朗核设施",
+        "onboard_time": 1750551379,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 595200,
+        "num": 357791,
+        "word": "买39件衣服不能试穿回家发现穿不上",
+        "onboard_time": 1750580782,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37580,
+        "num": 344548,
+        "word": "常州在36计之外选择了侏罗纪",
+        "onboard_time": 1750590741,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334962,
+        "num": 334962,
+        "word": "曝长剧老板为金丝雀开短剧公司",
+        "onboard_time": 1750585942,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271719,
+        "num": 271719,
+        "word": "孟子义新丽首位95花一番女主",
+        "onboard_time": 1750585761,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247216,
+        "num": 247216,
+        "word": "常州气晕了一只小恐龙",
+        "onboard_time": 1750586361,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241273,
+        "num": 241273,
+        "word": "美以伊都挺不住了所以美国发动袭击",
+        "onboard_time": 1750581140,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 235378,
+        "num": 235378,
+        "word": "王欣瑜破发万卓索娃",
+        "onboard_time": 1750590201,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232127,
+        "num": 232127,
+        "word": "TFBOYS保密协议",
+        "onboard_time": 1750565603,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203708,
+        "num": 203708,
+        "word": "姚晨称labubu是人生中唯一盈利的投资",
+        "onboard_time": 1750569622,
+        "rank": 21,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 203121,
+        "num": 203121,
+        "word": "腾讯大会赴山海发布节奏",
+        "onboard_time": 1750590864,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197684,
+        "num": 197684,
+        "word": "陈赫问王勉和谁逛街",
+        "onboard_time": 1750580122,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65665,
+        "num": 197355,
+        "word": "弗朗西斯卡发文欢迎樊振东",
+        "onboard_time": 1750588281,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197286,
+        "num": 197286,
+        "word": "四川一男子疑开凿奥特曼石窟",
+        "onboard_time": 1750587323,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174454,
+        "num": 174454,
+        "word": "成毅或将演两京十五日",
+        "onboard_time": 1750589901,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173928,
+        "num": 173928,
+        "word": "王欣瑜vs万卓索娃",
+        "onboard_time": 1750570582,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172960,
+        "num": 172960,
+        "word": "男子奸杀7岁女童前欠网贷心生烦躁",
+        "onboard_time": 1750586782,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156614,
+        "num": 169718,
+        "word": "鹿晗成都演唱会抢票",
+        "onboard_time": 1750589722,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 167608,
+        "num": 167608,
+        "word": "常州 光头免票",
+        "onboard_time": 1750585822,
+        "rank": 30,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 162900,
+        "num": 162900,
+        "word": "虞书欣 哪都有人骂不要在意就好了",
+        "onboard_time": 1750586481,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158889,
+        "num": 158889,
+        "word": "仙逆",
+        "onboard_time": 1750589302,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 158855,
+        "num": 158855,
+        "word": "ABB式名字 容易火",
+        "onboard_time": 1750564224,
+        "rank": 33,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 156574,
+        "num": 156574,
+        "word": "美洲偶遇王一博",
+        "onboard_time": 1750574181,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154745,
+        "num": 154745,
+        "word": "11岁女孩长期积食身高定格145",
+        "onboard_time": 1750571542,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148605,
+        "num": 148605,
+        "word": "娄艺潇晒labubu",
+        "onboard_time": 1750587682,
+        "rank": 36,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 143182,
+        "num": 143182,
+        "word": "胡塞武装宣布恢复袭击美舰船",
+        "onboard_time": 1750583060,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142407,
+        "num": 142407,
+        "word": "确认出席腾讯派对的艺人",
+        "onboard_time": 1750583361,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135889,
+        "num": 135889,
+        "word": "wichu",
+        "onboard_time": 1750591162,
+        "rank": 39,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 134790,
+        "num": 134790,
+        "word": "网友爆料奈雪小盒茶喝出整只青蛙",
+        "onboard_time": 1750587381,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128094,
+        "num": 128094,
+        "word": "网友称上海野生动物园发生象园霸凌",
+        "onboard_time": 1750584742,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125848,
+        "num": 125848,
+        "word": "伊朗外长召开发布会",
+        "onboard_time": 1750588101,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124346,
+        "num": 124346,
+        "word": "中央发布公职人员违规吃喝认定标准",
+        "onboard_time": 1750576162,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123603,
+        "num": 123603,
+        "word": "岭南荔枝",
+        "onboard_time": 1750585220,
+        "rank": 44,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 122205,
+        "num": 122205,
+        "word": "真的建议吃烤肉时配紫苏",
+        "onboard_time": 1750590800,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 111492,
+        "num": 111492,
+        "word": "伊朗采取新战术突破以色列防御系统",
+        "onboard_time": 1750590981,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111491,
+        "num": 111491,
+        "word": "杨紫差点让胡歌提前杀青",
+        "onboard_time": 1750574961,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106773,
+        "num": 106773,
+        "word": "恐龙园回应常州输球小恐龙疑被气晕",
+        "onboard_time": 1750589901,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102045,
+        "num": 102045,
+        "word": "特朗普再次威胁伊朗",
+        "onboard_time": 1750585522,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#丝路友谊偕行致远#"
+    }
+  }
+}

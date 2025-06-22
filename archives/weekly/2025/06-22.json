@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750589026823,
+  "endTime": 1750591261324,
   "band_list": [
     {
       "raw_hot": 7413013,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2401758,
-      "num": 302989,
+      "num": 407446,
       "word": "王勉 易梦玲",
       "onboard_time": 1750585942,
       "rank": 10,
@@ -49,6 +49,14 @@
       "onboard_time": 1750583962,
       "rank": 21,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1839655,
+      "num": 1839655,
+      "word": "泡泡玛特回应姚晨晒限量版Labubu",
+      "onboard_time": 1750589063,
+      "rank": 0,
+      "category": "艺人,休闲"
     },
     {
       "raw_hot": 1747665,
@@ -363,6 +371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 513612,
+      "num": 513612,
+      "word": "荔枝 便宜",
+      "onboard_time": 1750585881,
+      "rank": 31,
+      "category": "美食,民生新闻"
+    },
+    {
       "raw_hot": 511726,
       "num": 511726,
       "word": "隔夜蛋糕 好吃",
@@ -467,12 +483,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 437970,
+      "num": 437970,
+      "word": "你见过最冷门的姓是什么",
+      "onboard_time": 1750589302,
+      "rank": 7,
+      "category": "民生新闻,科学科普"
+    },
+    {
       "raw_hot": 435178,
       "num": 435178,
       "word": "伊朗称福尔多核设施仅地上受损",
       "onboard_time": 1750568722,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 429105,
+      "num": 429105,
+      "word": "男子称误转30万给老赖款项被冻结",
+      "onboard_time": 1750584261,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 421942,
@@ -571,14 +603,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 367729,
-      "num": 367729,
-      "word": "男子称误转30万给老赖款项被冻结",
-      "onboard_time": 1750584261,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 354193,
       "num": 233811,
       "word": "那尔那茜高考文化课总成绩449分",
@@ -633,6 +657,14 @@
       "onboard_time": 1750559301,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 334962,
+      "num": 334962,
+      "word": "曝长剧老板为金丝雀开短剧公司",
+      "onboard_time": 1750585942,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 333042,
@@ -827,14 +859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 256475,
-      "num": 256475,
-      "word": "曝长剧老板为金丝雀开短剧公司",
-      "onboard_time": 1750585942,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 256148,
       "num": 449060,
       "word": "特朗普继续警告伊朗",
@@ -905,6 +929,14 @@
       "onboard_time": 1750573402,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 235378,
+      "num": 235378,
+      "word": "王欣瑜破发万卓索娃",
+      "onboard_time": 1750590201,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 230888,
@@ -1083,6 +1115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203121,
+      "num": 203121,
+      "word": "腾讯大会赴山海发布节奏",
+      "onboard_time": 1750590864,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202397,
       "num": 202397,
       "word": "李一桐新剧一觉醒来变李亿桐",
@@ -1145,6 +1185,14 @@
       "onboard_time": 1750569442,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 197286,
+      "num": 197286,
+      "word": "四川一男子疑开凿奥特曼石窟",
+      "onboard_time": 1750587323,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 197229,
@@ -1291,6 +1339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174454,
+      "num": 174454,
+      "word": "成毅或将演两京十五日",
+      "onboard_time": 1750589901,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174259,
       "num": 361731,
       "word": "女子货车内休息被冲走失联超2天",
@@ -1299,12 +1355,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 173367,
-      "num": 173367,
-      "word": "荔枝 便宜",
-      "onboard_time": 1750585881,
-      "rank": 31,
-      "category": "美食,民生新闻"
+      "raw_hot": 173928,
+      "num": 201945,
+      "word": "王欣瑜vs万卓索娃",
+      "onboard_time": 1750570582,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 172960,
+      "num": 172960,
+      "word": "男子奸杀7岁女童前欠网贷心生烦躁",
+      "onboard_time": 1750586782,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172429,
@@ -1353,6 +1417,14 @@
       "onboard_time": 1750581322,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167608,
+      "num": 167608,
+      "word": "常州 光头免票",
+      "onboard_time": 1750585822,
+      "rank": 35,
+      "category": "体育,民生新闻"
     },
     {
       "raw_hot": 167441,
@@ -1427,20 +1499,20 @@
       "category": "艺人,休闲"
     },
     {
-      "raw_hot": 159047,
-      "num": 159047,
-      "word": "常州 光头免票",
-      "onboard_time": 1750585822,
-      "rank": 35,
-      "category": "体育,民生新闻"
-    },
-    {
       "raw_hot": 158894,
       "num": 158894,
       "word": "临江仙结局",
       "onboard_time": 1750502001,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158889,
+      "num": 158889,
+      "word": "仙逆",
+      "onboard_time": 1750589302,
+      "rank": 32,
+      "category": "动漫"
     },
     {
       "raw_hot": 158629,
@@ -1483,20 +1555,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156614,
+      "num": 169718,
+      "word": "鹿晗成都演唱会抢票",
+      "onboard_time": 1750589722,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 155449,
       "num": 155449,
       "word": "CATTI",
       "onboard_time": 1750564703,
       "rank": 45,
       "category": "教育"
-    },
-    {
-      "raw_hot": 154528,
-      "num": 175051,
-      "word": "四川一男子疑开凿奥特曼石窟",
-      "onboard_time": 1750587323,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 153503,
@@ -1675,6 +1747,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 135889,
+      "num": 135889,
+      "word": "wichu",
+      "onboard_time": 1750591162,
+      "rank": 39,
+      "category": "休闲,动漫"
+    },
+    {
       "raw_hot": 134152,
       "num": 1305512,
       "word": "今年下半年1380亿国补在路上了",
@@ -1739,14 +1819,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130103,
-      "num": 201945,
-      "word": "王欣瑜vs万卓索娃",
-      "onboard_time": 1750570582,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 128859,
       "num": 128859,
       "word": "沈腾问范丞丞怎么吃醋了",
@@ -1771,6 +1843,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 128094,
+      "num": 193439,
+      "word": "网友称上海野生动物园发生象园霸凌",
+      "onboard_time": 1750584742,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127894,
       "num": 127894,
       "word": "mlxg直播回应被执行2500万",
@@ -1793,6 +1873,14 @@
       "onboard_time": 1750552280,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 125848,
+      "num": 125848,
+      "word": "伊朗外长召开发布会",
+      "onboard_time": 1750588101,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 125723,
@@ -1857,6 +1945,22 @@
       "onboard_time": 1750576701,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 123603,
+      "num": 123603,
+      "word": "岭南荔枝",
+      "onboard_time": 1750585220,
+      "rank": 43,
+      "category": "美食,民生新闻"
+    },
+    {
+      "raw_hot": 122205,
+      "num": 122205,
+      "word": "真的建议吃烤肉时配紫苏",
+      "onboard_time": 1750590800,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 122064,
@@ -1947,6 +2051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111492,
+      "num": 111492,
+      "word": "伊朗采取新战术突破以色列防御系统",
+      "onboard_time": 1750590981,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 110226,
       "num": 301938,
       "word": "留英博士性侵被判终身监禁背后",
@@ -1961,6 +2073,14 @@
       "onboard_time": 1750576282,
       "rank": 48,
       "category": "休闲,情感"
+    },
+    {
+      "raw_hot": 106773,
+      "num": 106773,
+      "word": "恐龙园回应常州输球小恐龙疑被气晕",
+      "onboard_time": 1750589901,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 105837,
@@ -2003,28 +2123,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 102897,
-      "num": 102897,
-      "word": "岭南荔枝",
-      "onboard_time": 1750585220,
-      "rank": 43,
-      "category": "美食,民生新闻"
-    },
-    {
       "raw_hot": 100398,
       "num": 100398,
       "word": "狗狗 医生啊孩子能挺过来吗",
       "onboard_time": 1750587562,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 100391,
-      "num": 100391,
-      "word": "伊朗外长召开发布会",
-      "onboard_time": 1750588101,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 100057,
@@ -2113,14 +2217,6 @@
       "onboard_time": 1750574242,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 95316,
-      "num": 95316,
-      "word": "男子奸杀7岁女童前欠网贷心生烦躁",
-      "onboard_time": 1750586782,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 94357,
@@ -2267,12 +2363,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 65022,
-      "num": 193439,
-      "word": "网友称上海野生动物园发生象园霸凌",
-      "onboard_time": 1750584742,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 65665,
+      "num": 197355,
+      "word": "弗朗西斯卡发文欢迎樊振东",
+      "onboard_time": 1750588281,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 63705,
@@ -2412,7 +2508,7 @@
     },
     {
       "raw_hot": 40364,
-      "num": 954075,
+      "num": 985749,
       "word": "夏日青山绿水间清凉感拉满",
       "onboard_time": 1750582462,
       "rank": 2,
@@ -2425,6 +2521,14 @@
       "onboard_time": 1750523541,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 37580,
+      "num": 344548,
+      "word": "常州在36计之外选择了侏罗纪",
+      "onboard_time": 1750590741,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36850,
