@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750602198709,
+  "endTime": 1750603319564,
   "band_list": [
     {
       "raw_hot": 7413013,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2401758,
-      "num": 446770,
+      "num": 448944,
       "word": "王勉 易梦玲",
       "onboard_time": 1750585942,
       "rank": 10,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 1140192,
-      "num": 680551,
+      "num": 702778,
       "word": "韩国霸总王辉被爆塌房",
       "onboard_time": 1750599143,
       "rank": 27,
@@ -235,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 715279,
+      "num": 594414,
+      "word": "张若昀庆余年3官宣",
+      "onboard_time": 1750601603,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 705214,
       "num": 705214,
       "word": "老爸买下整车labubu送女儿",
@@ -249,6 +257,14 @@
       "onboard_time": 1750568181,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 696107,
+      "num": 696107,
+      "word": "伊朗超三分之一导弹没有被以军拦截",
+      "onboard_time": 1750601242,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 664466,
@@ -292,7 +308,7 @@
     },
     {
       "raw_hot": 640698,
-      "num": 360042,
+      "num": 596212,
       "word": "伊朗大使馆发布亮剑视频",
       "onboard_time": 1750599803,
       "rank": 43,
@@ -337,6 +353,22 @@
       "onboard_time": 1750584681,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 591596,
+      "num": 591596,
+      "word": "男生被教官体罚做1000深蹲致换肾",
+      "onboard_time": 1750601004,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 587157,
+      "num": 587157,
+      "word": "表妹万福",
+      "onboard_time": 1750600103,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 580536,
@@ -401,14 +433,6 @@
       "onboard_time": 1750571842,
       "rank": 16,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 530469,
-      "num": 354823,
-      "word": "表妹万福",
-      "onboard_time": 1750600103,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 529897,
@@ -723,14 +747,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 370494,
-      "num": 370494,
-      "word": "男生被教官体罚做1000深蹲致换肾",
-      "onboard_time": 1750601004,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 358967,
       "num": 358967,
       "word": "烧烤店花10万赞助苏超成唯一个体户",
@@ -761,6 +777,14 @@
       "onboard_time": 1750569742,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 349783,
+      "num": 349783,
+      "word": "中国女排0比3意大利女排",
+      "onboard_time": 1750601544,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 348450,
@@ -843,14 +867,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 321577,
-      "num": 321577,
-      "word": "张若昀庆余年3官宣",
-      "onboard_time": 1750601603,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 321071,
       "num": 219665,
       "word": "张杰女儿睡前信息",
@@ -881,6 +897,14 @@
       "onboard_time": 1750498821,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 306952,
+      "num": 306952,
+      "word": "张晚意追的歌手竟被淘汰",
+      "onboard_time": 1750602264,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 305756,
@@ -976,6 +1000,14 @@
       "word": "美媒竟将台湾与以伊冲突挂钩",
       "onboard_time": 1750547897,
       "rank": 12,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 292771,
+      "num": 246769,
+      "word": "伊朗议会认为应关闭霍尔木兹海峡",
+      "onboard_time": 1750601965,
+      "rank": 34,
       "category": "国际时政"
     },
     {
@@ -1075,14 +1107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 262219,
-      "num": 370477,
-      "word": "伊朗超三分之一导弹没有被以军拦截",
-      "onboard_time": 1750601242,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 256148,
       "num": 449060,
       "word": "特朗普继续警告伊朗",
@@ -1129,6 +1153,14 @@
       "onboard_time": 1750568181,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 242012,
+      "num": 355189,
+      "word": "印尼粉红沙滩溺亡女子男友发声",
+      "onboard_time": 1750601483,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 239854,
@@ -1243,6 +1275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219331,
+      "num": 219331,
+      "word": "被老天爷追着喂饭是什么体验",
+      "onboard_time": 1750603223,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 218966,
       "num": 213561,
       "word": "医生提醒长期穿碳板跑鞋或致关节损伤",
@@ -1305,14 +1345,6 @@
       "onboard_time": 1750565723,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 211716,
-      "num": 211716,
-      "word": "中国女排0比3意大利女排",
-      "onboard_time": 1750601544,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 210009,
@@ -1449,6 +1481,14 @@
       "onboard_time": 1750601004,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 200084,
+      "num": 200084,
+      "word": "GAI说歌手拿了第七我挺不爽的",
+      "onboard_time": 1750602743,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 199426,
@@ -1611,14 +1651,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 182593,
-      "num": 182593,
-      "word": "伊朗议会认为应关闭霍尔木兹海峡",
-      "onboard_time": 1750601965,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 182385,
       "num": 182385,
       "word": "以总理称特朗普改变历史",
@@ -1633,6 +1665,14 @@
       "onboard_time": 1750522463,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 181967,
+      "num": 181967,
+      "word": "王凯 交锋",
+      "onboard_time": 1750602563,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 181280,
@@ -1675,6 +1715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176147,
+      "num": 176147,
+      "word": "Ella回应会不会再生",
+      "onboard_time": 1750602743,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174454,
       "num": 174454,
       "word": "成毅或将演两京十五日",
@@ -1697,6 +1745,14 @@
       "onboard_time": 1750570582,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173900,
+      "num": 288062,
+      "word": "央视曝光高端酱香老酒竟是酒精勾兑",
+      "onboard_time": 1750602084,
+      "rank": 45,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 172429,
@@ -1875,6 +1931,14 @@
       "category": "艺人,休闲"
     },
     {
+      "raw_hot": 160579,
+      "num": 160579,
+      "word": "陈赫回复王勉",
+      "onboard_time": 1750600403,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158894,
       "num": 158894,
       "word": "临江仙结局",
@@ -2027,6 +2091,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 148001,
+      "num": 148001,
+      "word": "终于有剧曝光婚姻里吃人陷阱",
+      "onboard_time": 1750603044,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147579,
       "num": 147579,
       "word": "真的建议吃烤肉时配紫苏",
@@ -2057,6 +2129,14 @@
       "onboard_time": 1750573402,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146769,
+      "num": 146769,
+      "word": "登陆少年与设计师合影",
+      "onboard_time": 1750602443,
+      "rank": 47,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 146509,
@@ -2147,14 +2227,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 139585,
-      "num": 139585,
-      "word": "央视曝光高端酱香老酒竟是酒精勾兑",
-      "onboard_time": 1750602084,
-      "rank": 45,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 139126,
       "num": 139126,
       "word": "张本点赞",
@@ -2187,14 +2259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 137052,
-      "num": 137052,
-      "word": "陈赫回复王勉",
-      "onboard_time": 1750600403,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 136910,
       "num": 139196,
       "word": "孙颖莎的凝视",
@@ -2217,6 +2281,14 @@
       "onboard_time": 1750596082,
       "rank": 18,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 134881,
+      "num": 134881,
+      "word": "王心凌有自己的芭比衣橱",
+      "onboard_time": 1750603103,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 134152,
@@ -2587,6 +2659,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 109162,
+      "num": 312009,
+      "word": "以伊冲突或将波及中东多国",
+      "onboard_time": 1750602202,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 107996,
       "num": 107996,
       "word": "260平两房的家",
@@ -2755,6 +2835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93999,
+      "num": 293194,
+      "word": "中国女排3胜1负收官中国香港站",
+      "onboard_time": 1750602743,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93422,
       "num": 93422,
       "word": "3个方法教你学会转念",
@@ -2809,14 +2897,6 @@
       "onboard_time": 1750526779,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 86990,
-      "num": 355189,
-      "word": "印尼粉红沙滩溺亡女子男友发声",
-      "onboard_time": 1750601483,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 86852,
@@ -3073,6 +3153,14 @@
       "onboard_time": 1750547297,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 41031,
+      "num": 314052,
+      "word": "向太回应给郭碧婷在老家买地",
+      "onboard_time": 1750593981,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 40364,
