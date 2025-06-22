@@ -1,0 +1,410 @@
+{
+  "runTime": 1750634680552,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 430249,
+        "num": 791339,
+        "word": "泡泡玛特回应姚晨晒限量版Labubu",
+        "onboard_time": 1750589063,
+        "rank": 0,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 343849,
+        "num": 343849,
+        "word": "30岁的女性根本不能靠少吃瘦下来",
+        "onboard_time": 1750633458,
+        "rank": 1,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 21063,
+        "num": 339302,
+        "word": "神二十航天员进驻空间站即将满两个月",
+        "onboard_time": 1750598062,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 337447,
+        "num": 337447,
+        "word": "杜兰特被交易至火箭",
+        "onboard_time": 1750619415,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 334698,
+        "num": 334698,
+        "word": "住车里程序员被质疑占用公共资源",
+        "onboard_time": 1750632677,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333835,
+        "num": 333835,
+        "word": "韩国霸总王辉被爆塌房",
+        "onboard_time": 1750599143,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 292890,
+        "num": 292890,
+        "word": "伊朗超三分之一导弹没有被以军拦截",
+        "onboard_time": 1750601242,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 244573,
+        "num": 244573,
+        "word": "请记住她叫刘名芳",
+        "onboard_time": 1750607061,
+        "rank": 7,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 163668,
+        "num": 235792,
+        "word": "以军称同时空袭伊朗四地",
+        "onboard_time": 1750632677,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 37719,
+        "num": 227366,
+        "word": "中国强烈谴责美国袭击伊朗",
+        "onboard_time": 1750634059,
+        "rank": 9,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 1009683,
+        "num": 212181,
+        "word": "伊朗给全世界打了个样",
+        "onboard_time": 1750604304,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 527814,
+        "num": 198048,
+        "word": "霍尔木兹海峡",
+        "onboard_time": 1750605085,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 270330,
+        "num": 187454,
+        "word": "王勉 易梦玲",
+        "onboard_time": 1750585942,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174934,
+        "num": 174934,
+        "word": "央视曝光高端酱香老酒竟是酒精勾兑",
+        "onboard_time": 1750602084,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 39756,
+        "num": 169453,
+        "word": "伊朗外长抵达俄罗斯",
+        "onboard_time": 1750634059,
+        "rank": 14,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 168901,
+        "num": 168901,
+        "word": "赖冠霖导演短剧",
+        "onboard_time": 1750633458,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148812,
+        "num": 148812,
+        "word": "男生被教官体罚做1000深蹲致换肾",
+        "onboard_time": 1750601004,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123594,
+        "num": 148036,
+        "word": "品牌撤下那尔那茜物料",
+        "onboard_time": 1750596623,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105917,
+        "num": 144106,
+        "word": "酱园弄悬案王传君一人分饰16角",
+        "onboard_time": 1750606102,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29118,
+        "num": 141005,
+        "word": "轰炸伊朗核设施炸碎了美国信誉",
+        "onboard_time": 1750634059,
+        "rank": 19,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 164198,
+        "num": 136546,
+        "word": "哥嫂要复婚要求小姑子迁走户口",
+        "onboard_time": 1750596022,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153946,
+        "num": 130449,
+        "word": "杜淳妻子回应婆婆不让抹妊娠油",
+        "onboard_time": 1750633519,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130120,
+        "num": 130120,
+        "word": "王一博在旧金山吃火锅",
+        "onboard_time": 1750633578,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125867,
+        "num": 125867,
+        "word": "全红婵打网约车被司机称为国宝",
+        "onboard_time": 1750634599,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121044,
+        "num": 121044,
+        "word": "被狗咬后未就医3个月后发病去世",
+        "onboard_time": 1750616536,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113786,
+        "num": 113786,
+        "word": "男子奸杀7岁女童前欠网贷心生烦躁",
+        "onboard_time": 1750586782,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101069,
+        "num": 101069,
+        "word": "孟子义李昀锐并排官宣",
+        "onboard_time": 1750633458,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100460,
+        "num": 100460,
+        "word": "王欣瑜仍创造中国女网历史",
+        "onboard_time": 1750607543,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87940,
+        "num": 100141,
+        "word": "李晟被泼李佳航坐不住了",
+        "onboard_time": 1750634178,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74360,
+        "num": 100001,
+        "word": "GAI说歌手拿了第七我挺不爽的",
+        "onboard_time": 1750602743,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99947,
+        "num": 99947,
+        "word": "高考查分 紧张",
+        "onboard_time": 1750583962,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 95786,
+        "num": 95786,
+        "word": "肖战美貌受害者加一",
+        "onboard_time": 1750605204,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88631,
+        "num": 88631,
+        "word": "伊朗大使馆发布亮剑视频",
+        "onboard_time": 1750599803,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 88527,
+        "num": 88527,
+        "word": "蜜雪冰城房塌了",
+        "onboard_time": 1750575561,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87763,
+        "num": 87763,
+        "word": "伊朗官员说好戏在后头",
+        "onboard_time": 1750633879,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 80780,
+        "num": 80780,
+        "word": "多伦多大师赛总决赛",
+        "onboard_time": 1750634599,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 75117,
+        "num": 75117,
+        "word": "小伙被3人持械强行查看手机",
+        "onboard_time": 1750633519,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72728,
+        "num": 72728,
+        "word": "以色列和伊朗手里还有多少底牌",
+        "onboard_time": 1750610539,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 72516,
+        "num": 72516,
+        "word": "最近的韩剧男主颜值",
+        "onboard_time": 1750606464,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15145,
+        "num": 72445,
+        "word": "王欣瑜无缘巡回赛单打首冠",
+        "onboard_time": 1750633519,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72438,
+        "num": 72438,
+        "word": "大批伊朗民众集会高呼反美口号",
+        "onboard_time": 1750615099,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 68718,
+        "num": 68718,
+        "word": "伊朗议会认为应关闭霍尔木兹海峡",
+        "onboard_time": 1750601965,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 68547,
+        "num": 68547,
+        "word": "杜兰特",
+        "onboard_time": 1750612518,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59885,
+        "num": 59885,
+        "word": "伊核设施周边民众被告知可正常生活",
+        "onboard_time": 1750623554,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 59415,
+        "num": 59415,
+        "word": "中学领导侵吞学生伙食费240万元",
+        "onboard_time": 1750604485,
+        "rank": 44,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 57199,
+        "num": 57199,
+        "word": "庆余年3",
+        "onboard_time": 1750576162,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52149,
+        "num": 52149,
+        "word": "浙音专业第一淘汰网红",
+        "onboard_time": 1750634540,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50612,
+        "num": 50612,
+        "word": "皇马vs帕丘卡",
+        "onboard_time": 1750632677,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46416,
+        "num": 46416,
+        "word": "白玉兰 提携新人",
+        "onboard_time": 1750596803,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45766,
+        "num": 45766,
+        "word": "中国女排0比3意大利女排",
+        "onboard_time": 1750601544,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国人要把饭碗端在自己手里#"
+    }
+  }
+}

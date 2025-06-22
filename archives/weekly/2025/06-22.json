@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750632189106,
+  "endTime": 1750634680552,
   "band_list": [
     {
       "raw_hot": 7413013,
@@ -883,6 +883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 343849,
+      "num": 343849,
+      "word": "30岁的女性根本不能靠少吃瘦下来",
+      "onboard_time": 1750633458,
+      "rank": 1,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 343093,
       "num": 343093,
       "word": "四季民福 排队",
@@ -899,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 337447,
+      "num": 337447,
+      "word": "杜兰特被交易至火箭",
+      "onboard_time": 1750619415,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 336762,
       "num": 336762,
       "word": "伊朗核设施遇袭现场",
@@ -913,6 +929,14 @@
       "onboard_time": 1750585942,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 334698,
+      "num": 334698,
+      "word": "住车里程序员被质疑占用公共资源",
+      "onboard_time": 1750632677,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 333042,
@@ -1235,6 +1259,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 244573,
+      "num": 244573,
+      "word": "请记住她叫刘名芳",
+      "onboard_time": 1750607061,
+      "rank": 28,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 242012,
       "num": 355189,
       "word": "印尼粉红沙滩溺亡女子男友发声",
@@ -1425,14 +1457,6 @@
       "onboard_time": 1750521682,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 214209,
-      "num": 214209,
-      "word": "请记住她叫刘名芳",
-      "onboard_time": 1750607061,
-      "rank": 28,
-      "category": "正能量"
     },
     {
       "raw_hot": 213749,
@@ -1947,6 +1971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168901,
+      "num": 168901,
+      "word": "赖冠霖导演短剧",
+      "onboard_time": 1750633458,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168700,
       "num": 168700,
       "word": "成毅赴山海明天有新物料",
@@ -1977,14 +2009,6 @@
       "onboard_time": 1750577482,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 165899,
-      "num": 165899,
-      "word": "杜兰特被交易至火箭",
-      "onboard_time": 1750619415,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 165113,
@@ -2040,6 +2064,14 @@
       "word": "内塔尼亚胡和特朗普互相祝贺",
       "onboard_time": 1750569141,
       "rank": 40,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 163668,
+      "num": 235792,
+      "word": "以军称同时空袭伊朗四地",
+      "onboard_time": 1750632677,
+      "rank": 8,
       "category": "国际时政"
     },
     {
@@ -2176,6 +2208,14 @@
       "word": "金莎42岁的状态",
       "onboard_time": 1750605384,
       "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 153946,
+      "num": 130449,
+      "word": "杜淳妻子回应婆婆不让抹妊娠油",
+      "onboard_time": 1750633519,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -2555,6 +2595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130120,
+      "num": 130120,
+      "word": "王一博在旧金山吃火锅",
+      "onboard_time": 1750633578,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128859,
       "num": 128859,
       "word": "沈腾问范丞丞怎么吃醋了",
@@ -2625,6 +2673,14 @@
       "onboard_time": 1750591641,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 125867,
+      "num": 125867,
+      "word": "全红婵打网约车被司机称为国宝",
+      "onboard_time": 1750634599,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 125848,
@@ -2737,6 +2793,14 @@
       "onboard_time": 1750570642,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121044,
+      "num": 121044,
+      "word": "被狗咬后未就医3个月后发病去世",
+      "onboard_time": 1750616536,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120926,
@@ -2955,6 +3019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101069,
+      "num": 101069,
+      "word": "孟子义李昀锐并排官宣",
+      "onboard_time": 1750633458,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100398,
       "num": 100398,
       "word": "狗狗 医生啊孩子能挺过来吗",
@@ -3001,14 +3073,6 @@
       "onboard_time": 1750585881,
       "rank": 46,
       "category": "财经"
-    },
-    {
-      "raw_hot": 97322,
-      "num": 60855,
-      "word": "被狗咬后未就医3个月后发病去世",
-      "onboard_time": 1750616536,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 97287,
@@ -3139,6 +3203,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87940,
+      "num": 100141,
+      "word": "李晟被泼李佳航坐不住了",
+      "onboard_time": 1750634178,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 87763,
+      "num": 87763,
+      "word": "伊朗官员说好戏在后头",
+      "onboard_time": 1750633879,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 87166,
       "num": 109157,
       "word": "胡彦斌郝蕾节目里起争执",
@@ -3195,6 +3275,14 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 80780,
+      "num": 80780,
+      "word": "多伦多大师赛总决赛",
+      "onboard_time": 1750634599,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 79973,
       "num": 79973,
       "word": "陈熠3比2张本美和",
@@ -3219,11 +3307,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75117,
+      "num": 75117,
+      "word": "小伙被3人持械强行查看手机",
+      "onboard_time": 1750633519,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73085,
       "num": 73085,
       "word": "伊核设施周边民众被告知可正常生活",
       "onboard_time": 1750623554,
       "rank": 13,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 72728,
+      "num": 72728,
+      "word": "以色列和伊朗手里还有多少底牌",
+      "onboard_time": 1750610539,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 72438,
+      "num": 72438,
+      "word": "大批伊朗民众集会高呼反美口号",
+      "onboard_time": 1750615099,
+      "rank": 32,
       "category": "国际时政"
     },
     {
@@ -3363,12 +3475,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 52067,
-      "num": 52067,
-      "word": "以色列和伊朗手里还有多少底牌",
-      "onboard_time": 1750610539,
-      "rank": 37,
-      "category": "国际时政"
+      "raw_hot": 52149,
+      "num": 52149,
+      "word": "浙音专业第一淘汰网红",
+      "onboard_time": 1750634540,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 51868,
@@ -3387,12 +3499,12 @@
       "category": "辟谣/通报,艺人"
     },
     {
-      "raw_hot": 50923,
-      "num": 50923,
-      "word": "大批伊朗民众集会高呼反美口号",
-      "onboard_time": 1750615099,
-      "rank": 32,
-      "category": "国际时政"
+      "raw_hot": 50612,
+      "num": 50612,
+      "word": "皇马vs帕丘卡",
+      "onboard_time": 1750632677,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 50234,
@@ -3499,12 +3611,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 39756,
+      "num": 169453,
+      "word": "伊朗外长抵达俄罗斯",
+      "onboard_time": 1750634059,
+      "rank": 14,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 38676,
       "num": 145097,
       "word": "湖北武汉过早",
       "onboard_time": 1750598541,
       "rank": 39,
       "category": "旅游,美食"
+    },
+    {
+      "raw_hot": 37719,
+      "num": 227366,
+      "word": "中国强烈谴责美国袭击伊朗",
+      "onboard_time": 1750634059,
+      "rank": 9,
+      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 37104,
@@ -3619,6 +3747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29118,
+      "num": 141005,
+      "word": "轰炸伊朗核设施炸碎了美国信誉",
+      "onboard_time": 1750634059,
+      "rank": 19,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 29062,
       "num": 1043248,
       "word": "新一代人才与AI共生共长",
@@ -3731,6 +3867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 21063,
+      "num": 339302,
+      "word": "神二十航天员进驻空间站即将满两个月",
+      "onboard_time": 1750598062,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 20961,
       "num": 24051,
       "word": "王力宏演唱会",
@@ -3811,20 +3955,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 15145,
+      "num": 72445,
+      "word": "王欣瑜无缘巡回赛单打首冠",
+      "onboard_time": 1750633519,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 15054,
       "num": 21498,
       "word": "Hero对战WB",
       "onboard_time": 1750615218,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 14970,
-      "num": 300941,
-      "word": "神二十航天员进驻空间站即将满两个月",
-      "onboard_time": 1750598062,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 14421,
