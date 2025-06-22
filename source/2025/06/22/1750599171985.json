@@ -1,0 +1,410 @@
+{
+  "runTime": 1750599171985,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1400172,
+        "num": 1400172,
+        "word": "泡泡玛特回应姚晨晒限量版Labubu",
+        "onboard_time": 1750589063,
+        "rank": 0,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 1302288,
+        "num": 1302288,
+        "word": "Prada大秀",
+        "onboard_time": 1750595302,
+        "rank": 1,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 41737,
+        "num": 986098,
+        "word": "中国IP出海跑出加速度",
+        "onboard_time": 1750598122,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 899097,
+        "num": 899097,
+        "word": "白玉兰 提携新人",
+        "onboard_time": 1750596803,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 879634,
+        "num": 879634,
+        "word": "最难喝的奶茶",
+        "onboard_time": 1750593320,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 820595,
+        "num": 820595,
+        "word": "高考查分 紧张",
+        "onboard_time": 1750583962,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 759073,
+        "num": 759073,
+        "word": "儿子救人去世妈妈看见同龄孩子哭晕",
+        "onboard_time": 1750593742,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 645029,
+        "num": 645029,
+        "word": "徐明浩说不喜欢跳楼机",
+        "onboard_time": 1750596742,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 465254,
+        "num": 465254,
+        "word": "伊朗向以色列发射其最强导弹",
+        "onboard_time": 1750578263,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128328,
+        "num": 459620,
+        "word": "中方呼吁以色列尽快停火",
+        "onboard_time": 1750593922,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1441715,
+        "num": 446770,
+        "word": "王勉 易梦玲",
+        "onboard_time": 1750585942,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 658528,
+        "num": 439013,
+        "word": "蜜雪冰城房塌了",
+        "onboard_time": 1750575561,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 482025,
+        "num": 433887,
+        "word": "庆余年3",
+        "onboard_time": 1750576162,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 426963,
+        "num": 426963,
+        "word": "肖战花苞袖",
+        "onboard_time": 1750595841,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 401292,
+        "num": 401292,
+        "word": "北大退学上清华男生回应占名额质疑",
+        "onboard_time": 1750591341,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329005,
+        "num": 329005,
+        "word": "五角大楼附近披萨店又爆单了",
+        "onboard_time": 1750591402,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 325266,
+        "num": 325266,
+        "word": "G社拍的登陆少年生图",
+        "onboard_time": 1750596922,
+        "rank": 16,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 135473,
+        "num": 307857,
+        "word": "迪丽热巴茉莉花公主驾到",
+        "onboard_time": 1750596082,
+        "rank": 17,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 302086,
+        "num": 302086,
+        "word": "美国袭击伊朗核设施",
+        "onboard_time": 1750551379,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 86526,
+        "num": 299901,
+        "word": "男子称网购4件LV穿了1年鉴定为假",
+        "onboard_time": 1750598604,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 489126,
+        "num": 299398,
+        "word": "哥嫂要复婚要求小姑子迁走户口",
+        "onboard_time": 1750596022,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298542,
+        "num": 298542,
+        "word": "王欣瑜柏林赛亚军",
+        "onboard_time": 1750596322,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281813,
+        "num": 281813,
+        "word": "男子奸杀7岁女童前欠网贷心生烦躁",
+        "onboard_time": 1750586782,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236355,
+        "num": 236355,
+        "word": "宋亚轩刘耀文张真源去王力宏演唱会",
+        "onboard_time": 1750597043,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 224460,
+        "num": 224460,
+        "word": "中国女排vs意大利女排",
+        "onboard_time": 1750595662,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223269,
+        "num": 223269,
+        "word": "邓超五哈cue了Angelababy",
+        "onboard_time": 1750591283,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222738,
+        "num": 222738,
+        "word": "外交部回应美国打击伊朗核设施",
+        "onboard_time": 1750591341,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 213621,
+        "num": 213621,
+        "word": "韩国霸总王辉被爆塌房",
+        "onboard_time": 1750599143,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 200159,
+        "num": 200159,
+        "word": "河南未扶摔倒水中老人的民警被免职",
+        "onboard_time": 1750584681,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196646,
+        "num": 196646,
+        "word": "杨幂主演票房破80亿",
+        "onboard_time": 1750595242,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202828,
+        "num": 195855,
+        "word": "烧烤店花10万赞助苏超成唯一个体户",
+        "onboard_time": 1750597942,
+        "rank": 30,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 184088,
+        "num": 184088,
+        "word": "买39件衣服不能试穿回家发现穿不上",
+        "onboard_time": 1750580782,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182875,
+        "num": 182875,
+        "word": "广东疾控发文称狂犬病病死率接近100%",
+        "onboard_time": 1750595902,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168835,
+        "num": 168835,
+        "word": "特朗普特使喊话马斯克",
+        "onboard_time": 1750598482,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 163135,
+        "num": 163135,
+        "word": "你见过最冷门的姓是什么",
+        "onboard_time": 1750589302,
+        "rank": 34,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 156696,
+        "num": 156696,
+        "word": "卢布尔雅那站国乒五单项均无缘决赛",
+        "onboard_time": 1750598241,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155816,
+        "num": 155816,
+        "word": "周震南 主播怎么穿吊带",
+        "onboard_time": 1750596502,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153300,
+        "num": 153300,
+        "word": "合肥通报女童隔窗向路人求助",
+        "onboard_time": 1750596683,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145922,
+        "num": 145922,
+        "word": "苏超抢票",
+        "onboard_time": 1750595961,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21668,
+        "num": 145097,
+        "word": "湖北武汉过早",
+        "onboard_time": 1750598541,
+        "rank": 39,
+        "category": "旅游,美食"
+      },
+      {
+        "raw_hot": 144963,
+        "num": 144963,
+        "word": "荔枝 便宜",
+        "onboard_time": 1750585881,
+        "rank": 40,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 141589,
+        "num": 141589,
+        "word": "林志颖和10岁儿子演唱会合唱",
+        "onboard_time": 1750596502,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132866,
+        "num": 132866,
+        "word": "品牌撤下那尔那茜物料",
+        "onboard_time": 1750596623,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119322,
+        "num": 119322,
+        "word": "海关每天都在抓Lafufu",
+        "onboard_time": 1750593502,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119173,
+        "num": 119173,
+        "word": "吴宣仪 给粉丝付钱好有魅力",
+        "onboard_time": 1750599082,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119136,
+        "num": 119136,
+        "word": "孟子义腾讯四部剧",
+        "onboard_time": 1750598662,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115912,
+        "num": 115912,
+        "word": "美以伊都挺不住了所以美国发动袭击",
+        "onboard_time": 1750581140,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115399,
+        "num": 115399,
+        "word": "张婧仪复仇掀桌戏看爽了",
+        "onboard_time": 1750599024,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114516,
+        "num": 114516,
+        "word": "云包场赔罪",
+        "onboard_time": 1750592243,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111334,
+        "num": 111334,
+        "word": "北京迎今年来最热一天",
+        "onboard_time": 1750596322,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#丝路友谊偕行致远#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750597381349,
+  "endTime": 1750599171985,
   "band_list": [
     {
       "raw_hot": 7413013,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2401758,
-      "num": 430481,
+      "num": 446770,
       "word": "王勉 易梦玲",
       "onboard_time": 1750585942,
       "rank": 10,
@@ -155,20 +155,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 899097,
+      "num": 899097,
+      "word": "白玉兰 提携新人",
+      "onboard_time": 1750596803,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 879634,
+      "num": 879634,
+      "word": "最难喝的奶茶",
+      "onboard_time": 1750593320,
+      "rank": 4,
+      "category": "美食"
+    },
+    {
       "raw_hot": 861101,
       "num": 861101,
       "word": "儿子救人去世妈妈看见同龄孩子哭晕",
       "onboard_time": 1750593742,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 844659,
-      "num": 844659,
-      "word": "最难喝的奶茶",
-      "onboard_time": 1750593320,
-      "rank": 4,
-      "category": "美食"
     },
     {
       "raw_hot": 838894,
@@ -265,6 +273,14 @@
       "onboard_time": 1750571482,
       "rank": 7,
       "category": "旅游,民生新闻"
+    },
+    {
+      "raw_hot": 645029,
+      "num": 645029,
+      "word": "徐明浩说不喜欢跳楼机",
+      "onboard_time": 1750596742,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 638562,
@@ -427,6 +443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 489126,
+      "num": 299398,
+      "word": "哥嫂要复婚要求小姑子迁走户口",
+      "onboard_time": 1750596022,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 486197,
       "num": 486197,
       "word": "美代表大骂以色列后尴尬改口",
@@ -555,12 +579,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 424712,
-      "num": 424712,
-      "word": "徐明浩说不喜欢跳楼机",
-      "onboard_time": 1750596742,
-      "rank": 9,
-      "category": "综艺"
+      "raw_hot": 426963,
+      "num": 426963,
+      "word": "肖战花苞袖",
+      "onboard_time": 1750595841,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 421942,
@@ -649,14 +673,6 @@
       "onboard_time": 1750586782,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 383075,
-      "num": 383075,
-      "word": "肖战花苞袖",
-      "onboard_time": 1750595841,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 377929,
@@ -769,6 +785,14 @@
       "onboard_time": 1750585761,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 325266,
+      "num": 325266,
+      "word": "G社拍的登陆少年生图",
+      "onboard_time": 1750596922,
+      "rank": 26,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 321071,
@@ -931,14 +955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 278611,
-      "num": 278611,
-      "word": "哥嫂要复婚要求小姑子迁走户口",
-      "onboard_time": 1750596022,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 274313,
       "num": 713338,
       "word": "以色列升级全国戒备状态",
@@ -961,14 +977,6 @@
       "onboard_time": 1750591943,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 270471,
-      "num": 270471,
-      "word": "白玉兰 提携新人",
-      "onboard_time": 1750596803,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 266141,
@@ -1059,6 +1067,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 236355,
+      "num": 236355,
+      "word": "宋亚轩刘耀文张真源去王力宏演唱会",
+      "onboard_time": 1750597043,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 235731,
       "num": 235731,
       "word": "暑期档第一部古装剧来了",
@@ -1131,14 +1147,6 @@
       "category": "教育,民生新闻"
     },
     {
-      "raw_hot": 221972,
-      "num": 221972,
-      "word": "G社拍的登陆少年生图",
-      "onboard_time": 1750596922,
-      "rank": 26,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 220048,
       "num": 220048,
       "word": "尚公主",
@@ -1185,6 +1193,14 @@
       "onboard_time": 1750521682,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 213621,
+      "num": 213621,
+      "word": "韩国霸总王辉被爆塌房",
+      "onboard_time": 1750599143,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 212969,
@@ -1281,6 +1297,14 @@
       "onboard_time": 1750590864,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202828,
+      "num": 195855,
+      "word": "烧烤店花10万赞助苏超成唯一个体户",
+      "onboard_time": 1750597942,
+      "rank": 30,
+      "category": "体育,民生新闻"
     },
     {
       "raw_hot": 202397,
@@ -1603,14 +1627,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 171591,
-      "num": 171591,
-      "word": "宋亚轩刘耀文张真源去王力宏演唱会",
-      "onboard_time": 1750597043,
-      "rank": 36,
-      "category": "演出"
-    },
-    {
       "raw_hot": 171466,
       "num": 171466,
       "word": "杨紫德令哈vlog",
@@ -1641,6 +1657,14 @@
       "onboard_time": 1750581322,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168835,
+      "num": 168835,
+      "word": "特朗普特使喊话马斯克",
+      "onboard_time": 1750598482,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 168700,
@@ -1793,6 +1817,14 @@
       "onboard_time": 1750582043,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156696,
+      "num": 156696,
+      "word": "卢布尔雅那站国乒五单项均无缘决赛",
+      "onboard_time": 1750598241,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 156614,
@@ -1988,7 +2020,7 @@
     },
     {
       "raw_hot": 140273,
-      "num": 140273,
+      "num": 459620,
       "word": "中方呼吁以色列尽快停火",
       "onboard_time": 1750593922,
       "rank": 39,
@@ -2041,6 +2073,14 @@
       "onboard_time": 1750522463,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 135473,
+      "num": 307857,
+      "word": "迪丽热巴茉莉花公主驾到",
+      "onboard_time": 1750596082,
+      "rank": 18,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 134152,
@@ -2121,14 +2161,6 @@
       "onboard_time": 1750580421,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 129442,
-      "num": 301344,
-      "word": "迪丽热巴茉莉花公主驾到",
-      "onboard_time": 1750596082,
-      "rank": 18,
-      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 128859,
@@ -2299,6 +2331,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119173,
+      "num": 119173,
+      "word": "吴宣仪 给粉丝付钱好有魅力",
+      "onboard_time": 1750599082,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 119136,
+      "num": 119136,
+      "word": "孟子义腾讯四部剧",
+      "onboard_time": 1750598662,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118972,
       "num": 118972,
       "word": "哈马斯强烈谴责美国侵犯伊朗",
@@ -2345,6 +2393,14 @@
       "onboard_time": 1750581501,
       "rank": 47,
       "category": "体育,民生新闻"
+    },
+    {
+      "raw_hot": 115399,
+      "num": 115399,
+      "word": "张婧仪复仇掀桌戏看爽了",
+      "onboard_time": 1750599024,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 115109,
@@ -2643,6 +2699,14 @@
       "category": "旅游,民生新闻"
     },
     {
+      "raw_hot": 86526,
+      "num": 299901,
+      "word": "男子称网购4件LV穿了1年鉴定为假",
+      "onboard_time": 1750598604,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86048,
       "num": 86048,
       "word": "柯淳杨肸子车窗吻",
@@ -2875,6 +2939,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 41737,
+      "num": 986098,
+      "word": "中国IP出海跑出加速度",
+      "onboard_time": 1750598122,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 40364,
       "num": 985749,
       "word": "夏日青山绿水间清凉感拉满",
@@ -3033,6 +3105,14 @@
       "onboard_time": 1750534154,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 21668,
+      "num": 145097,
+      "word": "湖北武汉过早",
+      "onboard_time": 1750598541,
+      "rank": 39,
+      "category": "旅游,美食"
     },
     {
       "raw_hot": 20884,
