@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750587984761,
+  "endTime": 1750589026823,
   "band_list": [
     {
       "raw_hot": 7413013,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2401758,
-      "num": 234052,
+      "num": 302989,
       "word": "王勉 易梦玲",
       "onboard_time": 1750585942,
       "rank": 10,
@@ -571,6 +571,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 367729,
+      "num": 367729,
+      "word": "男子称误转30万给老赖款项被冻结",
+      "onboard_time": 1750584261,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 354193,
       "num": 233811,
       "word": "那尔那茜高考文化课总成绩449分",
@@ -635,6 +643,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 329170,
+      "num": 299610,
+      "word": "孟子义新丽首位95花一番女主",
+      "onboard_time": 1750585761,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 321071,
       "num": 219665,
       "word": "张杰女儿睡前信息",
@@ -675,14 +691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 305672,
-      "num": 232753,
-      "word": "孟子义新丽首位95花一番女主",
-      "onboard_time": 1750585761,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 305202,
       "num": 305202,
       "word": "最壮观的荔枝树",
@@ -697,6 +705,14 @@
       "onboard_time": 1750561223,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 303742,
+      "num": 303742,
+      "word": "常州气晕了一只小恐龙",
+      "onboard_time": 1750586361,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 300188,
@@ -787,14 +803,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 267692,
-      "num": 232123,
-      "word": "常州气晕了一只小恐龙",
-      "onboard_time": 1750586361,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 266141,
       "num": 517108,
       "word": "美国参战全球股市或有10个点的回撤",
@@ -817,6 +825,14 @@
       "onboard_time": 1750565663,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 256475,
+      "num": 256475,
+      "word": "曝长剧老板为金丝雀开短剧公司",
+      "onboard_time": 1750585942,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 256148,
@@ -1011,14 +1027,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 210155,
-      "num": 210155,
-      "word": "曝长剧老板为金丝雀开短剧公司",
-      "onboard_time": 1750585942,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 210009,
       "num": 210009,
       "word": "酱园弄",
@@ -1049,14 +1057,6 @@
       "onboard_time": 1750568542,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205255,
-      "num": 205255,
-      "word": "男子称误转30万给老赖款项被冻结",
-      "onboard_time": 1750584261,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 204301,
@@ -1275,6 +1275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 176759,
+      "num": 176759,
+      "word": "网友爆料奈雪小盒茶喝出整只青蛙",
+      "onboard_time": 1750587381,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176433,
       "num": 176433,
       "word": "慕胥辞",
@@ -1289,6 +1297,14 @@
       "onboard_time": 1750521682,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173367,
+      "num": 173367,
+      "word": "荔枝 便宜",
+      "onboard_time": 1750585881,
+      "rank": 31,
+      "category": "美食,民生新闻"
     },
     {
       "raw_hot": 172429,
@@ -1337,14 +1353,6 @@
       "onboard_time": 1750581322,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 168752,
-      "num": 168752,
-      "word": "荔枝 便宜",
-      "onboard_time": 1750585881,
-      "rank": 31,
-      "category": "美食,民生新闻"
     },
     {
       "raw_hot": 167441,
@@ -1411,6 +1419,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 161021,
+      "num": 158200,
+      "word": "娄艺潇晒labubu",
+      "onboard_time": 1750587682,
+      "rank": 34,
+      "category": "艺人,休闲"
+    },
+    {
+      "raw_hot": 159047,
+      "num": 159047,
+      "word": "常州 光头免票",
+      "onboard_time": 1750585822,
+      "rank": 35,
+      "category": "体育,民生新闻"
+    },
+    {
       "raw_hot": 158894,
       "num": 158894,
       "word": "临江仙结局",
@@ -1433,14 +1457,6 @@
       "onboard_time": 1750565543,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 158200,
-      "num": 158200,
-      "word": "娄艺潇晒labubu",
-      "onboard_time": 1750587682,
-      "rank": 34,
-      "category": "艺人,休闲"
     },
     {
       "raw_hot": 157991,
@@ -1475,12 +1491,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 154521,
-      "num": 154521,
-      "word": "常州 光头免票",
-      "onboard_time": 1750585822,
-      "rank": 35,
-      "category": "体育,民生新闻"
+      "raw_hot": 154528,
+      "num": 175051,
+      "word": "四川一男子疑开凿奥特曼石窟",
+      "onboard_time": 1750587323,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153503,
@@ -1505,14 +1521,6 @@
       "onboard_time": 1750572682,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 151831,
-      "num": 151831,
-      "word": "四川一男子疑开凿奥特曼石窟",
-      "onboard_time": 1750587323,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 150577,
@@ -1665,14 +1673,6 @@
       "onboard_time": 1750522463,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 134471,
-      "num": 134471,
-      "word": "网友爆料奈雪小盒茶喝出整只青蛙",
-      "onboard_time": 1750587381,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134152,
@@ -1859,6 +1859,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 122064,
+      "num": 151896,
+      "word": "焕羽",
+      "onboard_time": 1750588340,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121560,
       "num": 152577,
       "word": "李乃文常驻好吗",
@@ -1905,6 +1913,14 @@
       "onboard_time": 1750581501,
       "rank": 47,
       "category": "体育,民生新闻"
+    },
+    {
+      "raw_hot": 115109,
+      "num": 115109,
+      "word": "tzym状态",
+      "onboard_time": 1750588042,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 114081,
@@ -1987,6 +2003,30 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 102897,
+      "num": 102897,
+      "word": "岭南荔枝",
+      "onboard_time": 1750585220,
+      "rank": 43,
+      "category": "美食,民生新闻"
+    },
+    {
+      "raw_hot": 100398,
+      "num": 100398,
+      "word": "狗狗 医生啊孩子能挺过来吗",
+      "onboard_time": 1750587562,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 100391,
+      "num": 100391,
+      "word": "伊朗外长召开发布会",
+      "onboard_time": 1750588101,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 100057,
       "num": 67449,
       "word": "mlxg说自己没钱了",
@@ -2051,6 +2091,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 97047,
+      "num": 97047,
+      "word": "Gr对战ACT",
+      "onboard_time": 1750588940,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 96712,
       "num": 96712,
       "word": "0州变0川了",
@@ -2065,6 +2113,14 @@
       "onboard_time": 1750574242,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95316,
+      "num": 95316,
+      "word": "男子奸杀7岁女童前欠网贷心生烦躁",
+      "onboard_time": 1750586782,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94357,
@@ -2129,6 +2185,14 @@
       "onboard_time": 1750526779,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 86852,
+      "num": 86852,
+      "word": "大地之树",
+      "onboard_time": 1750588940,
+      "rank": 49,
+      "category": "旅游,民生新闻"
     },
     {
       "raw_hot": 86048,
@@ -2204,7 +2268,7 @@
     },
     {
       "raw_hot": 65022,
-      "num": 187203,
+      "num": 193439,
       "word": "网友称上海野生动物园发生象园霸凌",
       "onboard_time": 1750584742,
       "rank": 27,
@@ -2387,6 +2451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34632,
+      "num": 233151,
+      "word": "老人被诱导投资16万坚称自己没上当",
+      "onboard_time": 1750587022,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34399,
       "num": 339438,
       "word": "教育公平不容浑水摸鱼",
@@ -2400,14 +2472,6 @@
       "word": "广东海洋大学虐猫",
       "onboard_time": 1750548918,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33109,
-      "num": 233151,
-      "word": "老人被诱导投资16万坚称自己没上当",
-      "onboard_time": 1750587022,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
