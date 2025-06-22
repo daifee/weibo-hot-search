@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750574951563,
+  "endTime": 1750577100430,
   "band_list": [
     {
       "raw_hot": 7413013,
@@ -27,6 +27,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 2228608,
+      "num": 430131,
+      "word": "蜜雪冰城房塌了",
+      "onboard_time": 1750575561,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1727200,
       "num": 1727200,
       "word": "汪峰回应与宁静牵手",
@@ -41,6 +49,14 @@
       "onboard_time": 1750569622,
       "rank": 17,
       "category": "艺人,休闲"
+    },
+    {
+      "raw_hot": 1389730,
+      "num": 1389730,
+      "word": "庆余年",
+      "onboard_time": 1750574361,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 1299627,
@@ -147,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 651651,
+      "num": 651651,
+      "word": "新疆赛里木湖一SUV景区漂移",
+      "onboard_time": 1750571482,
+      "rank": 7,
+      "category": "旅游,民生新闻"
+    },
+    {
       "raw_hot": 635128,
       "num": 635128,
       "word": "李乃文 我们是PC来的",
@@ -163,12 +187,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 620500,
+      "num": 422282,
+      "word": "美洲偶遇王一博",
+      "onboard_time": 1750574181,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 580536,
       "num": 785607,
       "word": "许家印前妻被曝5亿买33套伦敦豪宅",
       "onboard_time": 1750551379,
       "rank": 5,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 580355,
+      "num": 434206,
+      "word": "庆余年3",
+      "onboard_time": 1750576162,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 565430,
@@ -203,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 540183,
+      "num": 540183,
+      "word": "手机烫手",
+      "onboard_time": 1750571842,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 529897,
       "num": 529897,
       "word": "赘婿",
@@ -235,12 +283,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 514764,
-      "num": 514764,
-      "word": "新疆赛里木湖一SUV景区漂移",
-      "onboard_time": 1750571482,
-      "rank": 7,
-      "category": "旅游,民生新闻"
+      "raw_hot": 513804,
+      "num": 417730,
+      "word": "美国通过秘密渠道向伊朗传达信息",
+      "onboard_time": 1750573882,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 511726,
@@ -323,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 441163,
+      "num": 441163,
+      "word": "4比0后南京对常州做出了补偿",
+      "onboard_time": 1750574961,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 440360,
       "num": 440360,
       "word": "男方资助女子近65万留学分手后索回",
@@ -340,7 +396,7 @@
     },
     {
       "raw_hot": 421942,
-      "num": 239068,
+      "num": 288386,
       "word": "11岁女孩长期积食身高定格145",
       "onboard_time": 1750571542,
       "rank": 20,
@@ -411,6 +467,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 395250,
+      "num": 170995,
+      "word": "中央发布公职人员违规吃喝认定标准",
+      "onboard_time": 1750576162,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 372229,
       "num": 372229,
       "word": "巴西热气球坠落8人死亡",
@@ -419,12 +483,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 367424,
-      "num": 333105,
-      "word": "美洲偶遇王一博",
-      "onboard_time": 1750574181,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 367079,
+      "num": 367079,
+      "word": "杨紫差点让胡歌提前杀青",
+      "onboard_time": 1750574961,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 354193,
@@ -460,7 +524,7 @@
     },
     {
       "raw_hot": 346902,
-      "num": 346902,
+      "num": 424538,
       "word": "教两万人救命的医生自己牺牲了",
       "onboard_time": 1750571902,
       "rank": 13,
@@ -473,14 +537,6 @@
       "onboard_time": 1750566262,
       "rank": 46,
       "category": "美食"
-    },
-    {
-      "raw_hot": 341041,
-      "num": 341041,
-      "word": "手机烫手",
-      "onboard_time": 1750571842,
-      "rank": 16,
-      "category": "幽默"
     },
     {
       "raw_hot": 336762,
@@ -587,14 +643,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 274688,
-      "num": 274688,
-      "word": "美国通过秘密渠道向伊朗传达信息",
-      "onboard_time": 1750573882,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 274313,
       "num": 713338,
       "word": "以色列升级全国戒备状态",
@@ -681,6 +729,14 @@
       "onboard_time": 1750568181,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 235755,
+      "num": 235755,
+      "word": "感觉减肥的人变少了",
+      "onboard_time": 1750564042,
+      "rank": 37,
+      "category": "运动健身"
     },
     {
       "raw_hot": 235731,
@@ -803,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203490,
+      "num": 203490,
+      "word": "鹅剧派对官宣演员阵容",
+      "onboard_time": 1750576762,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202397,
       "num": 202397,
       "word": "李一桐新剧一觉醒来变李亿桐",
@@ -825,14 +889,6 @@
       "onboard_time": 1750523181,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 199616,
-      "num": 247035,
-      "word": "庆余年",
-      "onboard_time": 1750574361,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 199426,
@@ -875,20 +931,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195015,
+      "num": 195015,
+      "word": "北京黑救护车最多一个月挣30万",
+      "onboard_time": 1750571300,
+      "rank": 27,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 192406,
       "num": 192406,
       "word": "吴彤把在场的人都说哭了",
       "onboard_time": 1750566143,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 192204,
-      "num": 192204,
-      "word": "感觉减肥的人变少了",
-      "onboard_time": 1750564042,
-      "rank": 37,
-      "category": "运动健身"
     },
     {
       "raw_hot": 190470,
@@ -1003,6 +1059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171068,
+      "num": 171068,
+      "word": "辽宁舰西太平洋影像公布",
+      "onboard_time": 1750576162,
+      "rank": 28,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 165113,
       "num": 165113,
       "word": "气血不足最怕的几个动作",
@@ -1067,12 +1131,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 157597,
-      "num": 185380,
-      "word": "北京黑救护车最多一个月挣30万",
-      "onboard_time": 1750571300,
-      "rank": 27,
-      "category": "舆论监督"
+      "raw_hot": 156919,
+      "num": 171018,
+      "word": "徐明浩哭了是想起父母了吧",
+      "onboard_time": 1750575922,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 155449,
@@ -1155,6 +1219,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 145564,
+      "num": 145564,
+      "word": "巩俐与老公合照",
+      "onboard_time": 1750575201,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145397,
       "num": 145397,
       "word": "明起高考查分",
@@ -1179,12 +1251,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140242,
+      "num": 140242,
+      "word": "夏雪称网红助理月薪3000嫌贵",
+      "onboard_time": 1750574901,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
       "raw_hot": 139126,
       "num": 139126,
       "word": "张本点赞",
       "onboard_time": 1750519763,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138384,
+      "num": 138384,
+      "word": "小腿后面突然开始收紧",
+      "onboard_time": 1750576882,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 138115,
@@ -1339,12 +1427,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123825,
+      "num": 123825,
+      "word": "人生中做各种事情的黄金年龄",
+      "onboard_time": 1750576701,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121560,
       "num": 152577,
       "word": "李乃文常驻好吗",
       "onboard_time": 1750570642,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120926,
+      "num": 129436,
+      "word": "暑期电视剧一波又一波",
+      "onboard_time": 1750575681,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 118972,
@@ -1363,12 +1467,52 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117690,
+      "num": 117690,
+      "word": "闫安透露王楚钦梁靖崑将配男双",
+      "onboard_time": 1750576882,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 114000,
+      "num": 114000,
+      "word": "萤火虫漫展",
+      "onboard_time": 1750577003,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 112218,
       "num": 178992,
       "word": "王欣瑜用实力证明中国网球一切皆有可能",
       "onboard_time": 1750564101,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112119,
+      "num": 112119,
+      "word": "孟子义存货",
+      "onboard_time": 1750576941,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 107996,
+      "num": 107996,
+      "word": "260平两房的家",
+      "onboard_time": 1750576282,
+      "rank": 48,
+      "category": "休闲,情感"
+    },
+    {
+      "raw_hot": 105837,
+      "num": 105837,
+      "word": "张若昀千里江山明天官宣",
+      "onboard_time": 1750574961,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 105284,
@@ -1409,14 +1553,6 @@
       "onboard_time": 1750558762,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 98879,
-      "num": 98879,
-      "word": "夏雪称网红助理月薪3000嫌贵",
-      "onboard_time": 1750574901,
-      "rank": 46,
-      "category": "网红"
     },
     {
       "raw_hot": 97640,
@@ -1528,6 +1664,14 @@
       "word": "乡村老师自律运动2个月的变化",
       "onboard_time": 1750564522,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82270,
+      "num": 419558,
+      "word": "稻城亚丁景区发生塌方当事游客发声",
+      "onboard_time": 1750575802,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
