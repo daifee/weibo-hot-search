@@ -1,0 +1,410 @@
+{
+  "runTime": 1750577972423,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1258215,
+        "num": 1258215,
+        "word": "庆余年3",
+        "onboard_time": 1750576162,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 517160,
+        "num": 517160,
+        "word": "新疆赛里木湖一SUV景区漂移",
+        "onboard_time": 1750571482,
+        "rank": 1,
+        "category": "旅游,民生新闻"
+      },
+      {
+        "raw_hot": 70838,
+        "num": 489413,
+        "word": "今年下半年1380亿国补在路上了",
+        "onboard_time": 1750561824,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1132086,
+        "num": 478439,
+        "word": "庆余年",
+        "onboard_time": 1750574361,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 462235,
+        "num": 462235,
+        "word": "美国通过秘密渠道向伊朗传达信息",
+        "onboard_time": 1750573882,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 432085,
+        "num": 432085,
+        "word": "手机烫手",
+        "onboard_time": 1750571842,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1111551,
+        "num": 424462,
+        "word": "尚公主官宣",
+        "onboard_time": 1750558340,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1058096,
+        "num": 406205,
+        "word": "姚晨称labubu是人生中唯一盈利的投资",
+        "onboard_time": 1750569622,
+        "rank": 7,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 923379,
+        "num": 388870,
+        "word": "美国袭击伊朗核设施",
+        "onboard_time": 1750551379,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 252693,
+        "num": 372782,
+        "word": "教两万人救命的医生自己牺牲了",
+        "onboard_time": 1750571902,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1770217,
+        "num": 365849,
+        "word": "蜜雪冰城房塌了",
+        "onboard_time": 1750575561,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 351770,
+        "num": 351770,
+        "word": "女子给宠物蛇喂食时蛇窜出罐子逃跑",
+        "onboard_time": 1750568181,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 788221,
+        "num": 351223,
+        "word": "中央发布公职人员违规吃喝认定标准",
+        "onboard_time": 1750576162,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 357846,
+        "num": 350410,
+        "word": "4比0后南京对常州做出了补偿",
+        "onboard_time": 1750574961,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 621029,
+        "num": 350226,
+        "word": "TFBOYS保密协议",
+        "onboard_time": 1750565603,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 498664,
+        "num": 349436,
+        "word": "美洲偶遇王一博",
+        "onboard_time": 1750574181,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377929,
+        "num": 348317,
+        "word": "杨紫差点让胡歌提前杀青",
+        "onboard_time": 1750574961,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 348031,
+        "num": 348031,
+        "word": "ABB式名字 容易火",
+        "onboard_time": 1750564224,
+        "rank": 17,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 244563,
+        "num": 244563,
+        "word": "美甲店充1.3万元退卡竟倒欠1980元",
+        "onboard_time": 1750568242,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 239097,
+        "num": 239097,
+        "word": "感觉减肥的人变少了",
+        "onboard_time": 1750564042,
+        "rank": 19,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 310696,
+        "num": 235809,
+        "word": "11岁女孩长期积食身高定格145",
+        "onboard_time": 1750571542,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231666,
+        "num": 231666,
+        "word": "曾舜晞小号",
+        "onboard_time": 1750567161,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209580,
+        "num": 209580,
+        "word": "我以为迪丽热巴要摆一个撩人的姿势",
+        "onboard_time": 1750577602,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205281,
+        "num": 205281,
+        "word": "伊朗宣布将打击美在中东所有利益",
+        "onboard_time": 1750558942,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 195465,
+        "num": 195465,
+        "word": "李乃文 我们是PC来的",
+        "onboard_time": 1750564882,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194276,
+        "num": 194276,
+        "word": "鹅剧派对官宣演员阵容",
+        "onboard_time": 1750576762,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193460,
+        "num": 193460,
+        "word": "暑期档第一部古装剧来了",
+        "onboard_time": 1750573402,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179445,
+        "num": 179445,
+        "word": "北京黑救护车最多一个月挣30万",
+        "onboard_time": 1750571300,
+        "rank": 27,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 167441,
+        "num": 167441,
+        "word": "莫离",
+        "onboard_time": 1750577482,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165283,
+        "num": 165283,
+        "word": "美代表大骂以色列后尴尬改口",
+        "onboard_time": 1750570523,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 188330,
+        "num": 164942,
+        "word": "小腿后面突然开始收紧",
+        "onboard_time": 1750576882,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157991,
+        "num": 157991,
+        "word": "萤火虫漫展",
+        "onboard_time": 1750577003,
+        "rank": 31,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 157579,
+        "num": 157579,
+        "word": "美军B2轰炸机袭击伊朗核设施",
+        "onboard_time": 1750556301,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 145496,
+        "num": 145496,
+        "word": "巩俐与老公合照",
+        "onboard_time": 1750575201,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144415,
+        "num": 144415,
+        "word": "闫安透露王楚钦梁靖崑将配男双",
+        "onboard_time": 1750576882,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143487,
+        "num": 143487,
+        "word": "医生提醒长期穿碳板跑鞋或致关节损伤",
+        "onboard_time": 1750576282,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 140992,
+        "num": 140992,
+        "word": "鹅剧派对",
+        "onboard_time": 1750577121,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140885,
+        "num": 140885,
+        "word": "辽宁舰西太平洋影像公布",
+        "onboard_time": 1750576162,
+        "rank": 37,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 132138,
+        "num": 132138,
+        "word": "气血好的人眼睛是亮亮的",
+        "onboard_time": 1750568483,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131317,
+        "num": 131317,
+        "word": "尚公主造型 黄薇",
+        "onboard_time": 1750563024,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129116,
+        "num": 129116,
+        "word": "伊朗",
+        "onboard_time": 1750562243,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121885,
+        "num": 121885,
+        "word": "夏雪称网红助理月薪3000嫌贵",
+        "onboard_time": 1750574901,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 114010,
+        "num": 114010,
+        "word": "拆迁14年未安置索1.4万过渡费被捕",
+        "onboard_time": 1750568181,
+        "rank": 42,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 109514,
+        "num": 109514,
+        "word": "孟子义存货",
+        "onboard_time": 1750576941,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108518,
+        "num": 108518,
+        "word": "央视官宣迪丽热巴新剧",
+        "onboard_time": 1750561044,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106484,
+        "num": 106484,
+        "word": "伊朗宣布中东美军为合法目标",
+        "onboard_time": 1750558642,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105331,
+        "num": 105331,
+        "word": "向太给郭碧婷买地",
+        "onboard_time": 1750569322,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98524,
+        "num": 104728,
+        "word": "稻城亚丁景区发生塌方当事游客发声",
+        "onboard_time": 1750575802,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104435,
+        "num": 104435,
+        "word": "人生中做各种事情的黄金年龄",
+        "onboard_time": 1750576701,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 103520,
+        "num": 103520,
+        "word": "DYG对战TTG",
+        "onboard_time": 1750577482,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#3句话讲清习主席中亚之行的深远意义#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750577100430,
+  "endTime": 1750577972423,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -2385,6 +2385,14 @@
       "onboard_time": 1748920401,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1258215,
+      "num": 1258215,
+      "word": "庆余年3",
+      "onboard_time": 1750576162,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 1257514,
@@ -5465,6 +5473,14 @@
       "onboard_time": 1749963260,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 788221,
+      "num": 351223,
+      "word": "中央发布公职人员违规吃喝认定标准",
+      "onboard_time": 1750576162,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 787766,
@@ -8667,14 +8683,6 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 580355,
-      "num": 434206,
-      "word": "庆余年3",
-      "onboard_time": 1750576162,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 580351,
       "num": 580351,
       "word": "洛杉矶奥运会樊振东对国乒不可或缺",
@@ -10108,7 +10116,7 @@
     },
     {
       "raw_hot": 513804,
-      "num": 417730,
+      "num": 462235,
       "word": "美国通过秘密渠道向伊朗传达信息",
       "onboard_time": 1750573882,
       "rank": 34,
@@ -13715,14 +13723,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 395250,
-      "num": 170995,
-      "word": "中央发布公职人员违规吃喝认定标准",
-      "onboard_time": 1750576162,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 395048,
       "num": 357130,
       "word": "重温关晓彤高考采访太逗了",
@@ -14411,6 +14411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 377929,
+      "num": 367079,
+      "word": "杨紫差点让胡歌提前杀青",
+      "onboard_time": 1750574961,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 377480,
       "num": 325067,
       "word": "东极岛致敬不该被忘记的中国人",
@@ -14865,14 +14873,6 @@
       "onboard_time": 1750432883,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 367079,
-      "num": 367079,
-      "word": "杨紫差点让胡歌提前杀青",
-      "onboard_time": 1750574961,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 366730,
@@ -22963,6 +22963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239097,
+      "num": 239097,
+      "word": "感觉减肥的人变少了",
+      "onboard_time": 1750564042,
+      "rank": 37,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 238672,
       "num": 238672,
       "word": "你好星期六",
@@ -23265,14 +23273,6 @@
       "onboard_time": 1749612501,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 235755,
-      "num": 235755,
-      "word": "感觉减肥的人变少了",
-      "onboard_time": 1750564042,
-      "rank": 37,
-      "category": "运动健身"
     },
     {
       "raw_hot": 235737,
@@ -26761,6 +26761,14 @@
       "onboard_time": 1750320922,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209580,
+      "num": 209580,
+      "word": "我以为迪丽热巴要摆一个撩人的姿势",
+      "onboard_time": 1750577602,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 209557,
@@ -32001,6 +32009,14 @@
       "onboard_time": 1749269846,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188330,
+      "num": 164942,
+      "word": "小腿后面突然开始收紧",
+      "onboard_time": 1750576882,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 188302,
@@ -37419,6 +37435,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 167441,
+      "num": 167441,
+      "word": "莫离",
+      "onboard_time": 1750577482,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167429,
       "num": 167429,
       "word": "猫 就让这大雨全都落下",
@@ -40057,6 +40081,14 @@
       "onboard_time": 1749530842,
       "rank": 49,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 157991,
+      "num": 157991,
+      "word": "萤火虫漫展",
+      "onboard_time": 1750577003,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 157986,
@@ -44347,6 +44379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144415,
+      "num": 144415,
+      "word": "闫安透露王楚钦梁靖崑将配男双",
+      "onboard_time": 1750576882,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144407,
       "num": 144407,
       "word": "苏超火爆带动江苏足球装备猛涨八成",
@@ -44649,6 +44689,14 @@
       "onboard_time": 1749626421,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 143487,
+      "num": 143487,
+      "word": "医生提醒长期穿碳板跑鞋或致关节损伤",
+      "onboard_time": 1750576282,
+      "rank": 35,
+      "category": "运动健身"
     },
     {
       "raw_hot": 143457,
@@ -45465,6 +45513,14 @@
       "onboard_time": 1750165522,
       "rank": 38,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 140992,
+      "num": 140992,
+      "word": "鹅剧派对",
+      "onboard_time": 1750577121,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 140987,
@@ -46353,14 +46409,6 @@
       "onboard_time": 1749864379,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 138384,
-      "num": 138384,
-      "word": "小腿后面突然开始收紧",
-      "onboard_time": 1750576882,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 138369,
@@ -53667,14 +53715,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 117690,
-      "num": 117690,
-      "word": "闫安透露王楚钦梁靖崑将配男双",
-      "onboard_time": 1750576882,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 117669,
       "num": 117669,
       "word": "近九成的人不知道自己有青光眼",
@@ -54961,14 +55001,6 @@
       "onboard_time": 1750136543,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 114000,
-      "num": 114000,
-      "word": "萤火虫漫展",
-      "onboard_time": 1750577003,
-      "rank": 46,
-      "category": "动漫"
     },
     {
       "raw_hot": 113971,
@@ -57867,6 +57899,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 103520,
+      "num": 103520,
+      "word": "DYG对战TTG",
+      "onboard_time": 1750577482,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 103479,
       "num": 103479,
       "word": "如何利用维生素B甩掉坏情绪",
@@ -59129,6 +59169,14 @@
       "onboard_time": 1749276622,
       "rank": 47,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 98524,
+      "num": 419558,
+      "word": "稻城亚丁景区发生塌方当事游客发声",
+      "onboard_time": 1750575802,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98503,
@@ -62625,14 +62673,6 @@
       "onboard_time": 1748856500,
       "rank": 44,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 82270,
-      "num": 419558,
-      "word": "稻城亚丁景区发生塌方当事游客发声",
-      "onboard_time": 1750575802,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 82233,
