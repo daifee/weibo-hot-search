@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750618042144,
+  "endTime": 1750620046170,
   "band_list": [
     {
       "raw_hot": 7413013,
@@ -3371,12 +3371,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 48590,
+      "num": 33637,
+      "word": "被狗咬后未就医3个月后发病去世",
+      "onboard_time": 1750616536,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48408,
       "num": 48408,
       "word": "Rihanna三胎孕肚",
       "onboard_time": 1750546337,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 48371,
+      "num": 48371,
+      "word": "杜兰特被交易至火箭",
+      "onboard_time": 1750619415,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 46424,
@@ -3417,14 +3433,6 @@
       "onboard_time": 1750608081,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 44170,
-      "num": 33637,
-      "word": "被狗咬后未就医3个月后发病去世",
-      "onboard_time": 1750616536,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 44029,
@@ -3753,6 +3761,14 @@
       "onboard_time": 1750599563,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 14486,
+      "num": 48191,
+      "word": "当安静的教室突然弹起一个水杯盖",
+      "onboard_time": 1750619296,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14421,
