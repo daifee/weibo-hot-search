@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750617223489,
+  "endTime": 1750618042144,
   "band_list": [
     {
       "raw_hot": 7413013,
@@ -3419,6 +3419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44170,
+      "num": 33637,
+      "word": "被狗咬后未就医3个月后发病去世",
+      "onboard_time": 1750616536,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44029,
       "num": 91851,
       "word": "伊官员说伊朗准备了很多选项",
@@ -3505,14 +3513,6 @@
       "onboard_time": 1750610719,
       "rank": 39,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 36380,
-      "num": 33637,
-      "word": "被狗咬后未就医3个月后发病去世",
-      "onboard_time": 1750616536,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 36339,
@@ -3689,6 +3689,14 @@
       "onboard_time": 1750534154,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 20961,
+      "num": 24051,
+      "word": "王力宏演唱会",
+      "onboard_time": 1750617975,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 20884,

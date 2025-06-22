@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/22 00:30:38 ~ 2025/06/23 02:33:43
+本榜单时间：2025/06/22 00:30:38 ~ 2025/06/23 02:47:22
 </p>
 </blockquote>
 <p>
@@ -2577,6 +2577,12 @@ Rihanna三胎孕肚（热度：48408）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%8B%97%E5%92%AC%E5%90%8E%E6%9C%AA%E5%B0%B1%E5%8C%BB3%E4%B8%AA%E6%9C%88%E5%90%8E%E5%8F%91%E7%97%85%E5%8E%BB%E4%B8%96%23" target="weibo">
+被狗咬后未就医3个月后发病去世（热度：44170）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E5%AE%98%E5%91%98%E8%AF%B4%E4%BC%8A%E6%9C%97%E5%87%86%E5%A4%87%E4%BA%86%E5%BE%88%E5%A4%9A%E9%80%89%E9%A1%B9%23" target="weibo">
 伊官员说伊朗准备了很多选项（热度：44029）
 </a>
@@ -2639,12 +2645,6 @@ Rihanna三胎孕肚（热度：48408）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%91%E6%89%A7%E4%BA%8B%E6%96%B0%E4%BD%9C%E8%91%AC%E4%BB%AA%E5%B1%8B%E7%99%BB%E5%9C%BA%23" target="weibo">
 黑执事新作葬仪屋登场（热度：36443）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%8B%97%E5%92%AC%E5%90%8E%E6%9C%AA%E5%B0%B1%E5%8C%BB3%E4%B8%AA%E6%9C%88%E5%90%8E%E5%8F%91%E7%97%85%E5%8E%BB%E4%B8%96%23" target="weibo">
-被狗咬后未就医3个月后发病去世（热度：36380）
 </a>
 </li>
 
@@ -2777,6 +2777,12 @@ LPL公益特别行动（热度：24394）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%80%E7%9C%BC%23" target="weibo">
 耀眼（热度：23049）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+王力宏演唱会（热度：20961）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1750609820904,
-  "endTime": 1750617223489,
+  "endTime": 1750618042144,
   "band_list": [
     {
       "raw_hot": 1027854,
@@ -443,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44170,
+      "num": 33637,
+      "word": "被狗咬后未就医3个月后发病去世",
+      "onboard_time": 1750616536,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42609,
       "num": 42609,
       "word": "鹿晗红帽素颜彩排照",
@@ -457,14 +465,6 @@
       "onboard_time": 1750610719,
       "rank": 39,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 36380,
-      "num": 33637,
-      "word": "被狗咬后未就医3个月后发病去世",
-      "onboard_time": 1750616536,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 34918,
@@ -513,6 +513,14 @@
       "onboard_time": 1750614504,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 20961,
+      "num": 24051,
+      "word": "王力宏演唱会",
+      "onboard_time": 1750617975,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 11839,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/23 00:30:20 ~ 2025/06/23 02:33:43
+本榜单时间：2025/06/23 00:30:20 ~ 2025/06/23 02:47:22
 </p>
 </blockquote>
 <p>
@@ -345,6 +345,12 @@ AI修图（热度：71126）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%8B%97%E5%92%AC%E5%90%8E%E6%9C%AA%E5%B0%B1%E5%8C%BB3%E4%B8%AA%E6%9C%88%E5%90%8E%E5%8F%91%E7%97%85%E5%8E%BB%E4%B8%96%23" target="weibo">
+被狗咬后未就医3个月后发病去世（热度：44170）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E7%BA%A2%E5%B8%BD%E7%B4%A0%E9%A2%9C%E5%BD%A9%E6%8E%92%E7%85%A7%23" target="weibo">
 鹿晗红帽素颜彩排照（热度：42609）
 </a>
@@ -353,12 +359,6 @@ AI修图（热度：71126）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%91%E6%89%A7%E4%BA%8B%E6%96%B0%E4%BD%9C%E8%91%AC%E4%BB%AA%E5%B1%8B%E7%99%BB%E5%9C%BA%23" target="weibo">
 黑执事新作葬仪屋登场（热度：36443）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%8B%97%E5%92%AC%E5%90%8E%E6%9C%AA%E5%B0%B1%E5%8C%BB3%E4%B8%AA%E6%9C%88%E5%90%8E%E5%8F%91%E7%97%85%E5%8E%BB%E4%B8%96%23" target="weibo">
-被狗咬后未就医3个月后发病去世（热度：36380）
 </a>
 </li>
 
@@ -395,6 +395,12 @@ AI修图（热度：71126）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%9C%9F%E5%8F%91%E9%95%BF%E6%96%87%E5%91%8A%E5%88%AB%E6%97%A0%E9%99%90%E8%B6%85%E8%B6%8A%E7%8F%AD%23" target="weibo">
 丁真发长文告别无限超越班（热度：23132）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+王力宏演唱会（热度：20961）
 </a>
 </li>
 
