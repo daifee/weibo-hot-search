@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750591261324,
+  "endTime": 1750592266118,
   "band_list": [
     {
       "raw_hot": 7413013,
@@ -323,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 541127,
+      "num": 541127,
+      "word": "荔枝 便宜",
+      "onboard_time": 1750585881,
+      "rank": 31,
+      "category": "美食,民生新闻"
+    },
+    {
       "raw_hot": 540183,
       "num": 540183,
       "word": "手机烫手",
@@ -369,14 +377,6 @@
       "onboard_time": 1750573882,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 513612,
-      "num": 513612,
-      "word": "荔枝 便宜",
-      "onboard_time": 1750585881,
-      "rank": 31,
-      "category": "美食,民生新闻"
     },
     {
       "raw_hot": 511726,
@@ -483,8 +483,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 437970,
-      "num": 437970,
+      "raw_hot": 438640,
+      "num": 438640,
       "word": "你见过最冷门的姓是什么",
       "onboard_time": 1750589302,
       "rank": 7,
@@ -587,6 +587,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 384407,
+      "num": 384407,
+      "word": "男子奸杀7岁女童前欠网贷心生烦躁",
+      "onboard_time": 1750586782,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 377929,
       "num": 369652,
       "word": "杨紫差点让胡歌提前杀青",
@@ -660,7 +668,7 @@
     },
     {
       "raw_hot": 334962,
-      "num": 334962,
+      "num": 347421,
       "word": "曝长剧老板为金丝雀开短剧公司",
       "onboard_time": 1750585942,
       "rank": 20,
@@ -819,6 +827,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 282636,
+      "num": 382033,
+      "word": "邓超五哈cue了Angelababy",
+      "onboard_time": 1750591283,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 274313,
       "num": 713338,
       "word": "以色列升级全国戒备状态",
@@ -833,6 +849,14 @@
       "onboard_time": 1750562004,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 272126,
+      "num": 366260,
+      "word": "迪丽热巴直播",
+      "onboard_time": 1750591943,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 266141,
@@ -889,6 +913,14 @@
       "onboard_time": 1750515866,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 249924,
+      "num": 396571,
+      "word": "外交部回应美国打击伊朗核设施",
+      "onboard_time": 1750591341,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 248984,
@@ -1179,6 +1211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198026,
+      "num": 198026,
+      "word": "wichu",
+      "onboard_time": 1750591162,
+      "rank": 39,
+      "category": "休闲,动漫"
+    },
+    {
       "raw_hot": 197343,
       "num": 200033,
       "word": "章子怡从宫二到詹周氏的12年",
@@ -1243,6 +1283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191440,
+      "num": 191440,
+      "word": "白鹿曾舜晞奔跑吧合照",
+      "onboard_time": 1750591641,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190470,
       "num": 190470,
       "word": "以色列",
@@ -1289,6 +1337,14 @@
       "onboard_time": 1750554321,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 184277,
+      "num": 184277,
+      "word": "五角大楼附近披萨店又爆单了",
+      "onboard_time": 1750591402,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 182385,
@@ -1363,14 +1419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 172960,
-      "num": 172960,
-      "word": "男子奸杀7岁女童前欠网贷心生烦躁",
-      "onboard_time": 1750586782,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 172429,
       "num": 172429,
       "word": "大黄",
@@ -1385,6 +1433,14 @@
       "onboard_time": 1750572802,
       "rank": 26,
       "category": "艺人,休闲"
+    },
+    {
+      "raw_hot": 171876,
+      "num": 171876,
+      "word": "中方强烈谴责美方袭击伊朗",
+      "onboard_time": 1750591881,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 171466,
@@ -1691,6 +1747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141203,
+      "num": 141203,
+      "word": "马景涛所在工作室称其无大碍",
+      "onboard_time": 1750592122,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140992,
       "num": 140992,
       "word": "鹅剧派对",
@@ -1745,14 +1809,6 @@
       "onboard_time": 1750522463,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 135889,
-      "num": 135889,
-      "word": "wichu",
-      "onboard_time": 1750591162,
-      "rank": 39,
-      "category": "休闲,动漫"
     },
     {
       "raw_hot": 134152,
@@ -1875,6 +1931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 126099,
+      "num": 126099,
+      "word": "宁波东方理工大学学费每学年9万6",
+      "onboard_time": 1750591641,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 125848,
       "num": 125848,
       "word": "伊朗外长召开发布会",
@@ -1987,6 +2051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120765,
+      "num": 120765,
+      "word": "云包场赔罪",
+      "onboard_time": 1750592243,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118972,
       "num": 118972,
       "word": "哈马斯强烈谴责美国侵犯伊朗",
@@ -2043,6 +2115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112197,
+      "num": 112197,
+      "word": "李昀锐谈及做演员的初心",
+      "onboard_time": 1750592243,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112119,
       "num": 112119,
       "word": "孟子义存货",
@@ -2073,6 +2153,14 @@
       "onboard_time": 1750576282,
       "rank": 48,
       "category": "休闲,情感"
+    },
+    {
+      "raw_hot": 106973,
+      "num": 387151,
+      "word": "王欣瑜0比1万卓索娃",
+      "onboard_time": 1750591521,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 106773,
@@ -2323,6 +2411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79746,
+      "num": 325242,
+      "word": "北大退学上清华男生回应占名额质疑",
+      "onboard_time": 1750591341,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78780,
       "num": 285392,
       "word": "打工人涌入自选炒菜连锁吃20元快餐",
@@ -2435,6 +2531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51868,
+      "num": 385955,
+      "word": "常州在36计之外选择了侏罗纪",
+      "onboard_time": 1750590741,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51367,
       "num": 51367,
       "word": "那尔那茜未在呼和浩特八中就读",
@@ -2521,14 +2625,6 @@
       "onboard_time": 1750523541,
       "rank": 14,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 37580,
-      "num": 344548,
-      "word": "常州在36计之外选择了侏罗纪",
-      "onboard_time": 1750590741,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 36850,
@@ -2641,6 +2737,14 @@
       "onboard_time": 1750536795,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 24394,
+      "num": 126150,
+      "word": "LPL公益特别行动",
+      "onboard_time": 1750591999,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 24223,

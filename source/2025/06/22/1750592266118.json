@@ -1,0 +1,410 @@
+{
+  "runTime": 1750592266118,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1821505,
+        "num": 1821505,
+        "word": "泡泡玛特回应姚晨晒限量版Labubu",
+        "onboard_time": 1750589063,
+        "rank": 0,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 1249813,
+        "num": 1249813,
+        "word": "高考查分 紧张",
+        "onboard_time": 1750583962,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 38954,
+        "num": 764189,
+        "word": "夏日青山绿水间清凉感拉满",
+        "onboard_time": 1750582462,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 546478,
+        "num": 546478,
+        "word": "庆余年3",
+        "onboard_time": 1750576162,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 541127,
+        "num": 541127,
+        "word": "荔枝 便宜",
+        "onboard_time": 1750585881,
+        "rank": 4,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 486494,
+        "num": 486494,
+        "word": "伊朗向以色列发射其最强导弹",
+        "onboard_time": 1750578263,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 438640,
+        "num": 438640,
+        "word": "你见过最冷门的姓是什么",
+        "onboard_time": 1750589302,
+        "rank": 6,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 433393,
+        "num": 433393,
+        "word": "河南未扶摔倒水中老人的民警被免职",
+        "onboard_time": 1750584681,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 397854,
+        "num": 397854,
+        "word": "美国袭击伊朗核设施",
+        "onboard_time": 1750551379,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 249924,
+        "num": 396571,
+        "word": "外交部回应美国打击伊朗核设施",
+        "onboard_time": 1750591341,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1936099,
+        "num": 393523,
+        "word": "王勉 易梦玲",
+        "onboard_time": 1750585942,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 738642,
+        "num": 393115,
+        "word": "蜜雪冰城房塌了",
+        "onboard_time": 1750575561,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 603098,
+        "num": 389663,
+        "word": "买39件衣服不能试穿回家发现穿不上",
+        "onboard_time": 1750580782,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106973,
+        "num": 387151,
+        "word": "王欣瑜0比1万卓索娃",
+        "onboard_time": 1750591521,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51868,
+        "num": 385955,
+        "word": "常州在36计之外选择了侏罗纪",
+        "onboard_time": 1750590741,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 384407,
+        "num": 384407,
+        "word": "男子奸杀7岁女童前欠网贷心生烦躁",
+        "onboard_time": 1750586782,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282636,
+        "num": 382033,
+        "word": "邓超五哈cue了Angelababy",
+        "onboard_time": 1750591283,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272126,
+        "num": 366260,
+        "word": "迪丽热巴直播",
+        "onboard_time": 1750591943,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256491,
+        "num": 347421,
+        "word": "曝长剧老板为金丝雀开短剧公司",
+        "onboard_time": 1750585942,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79746,
+        "num": 325242,
+        "word": "北大退学上清华男生回应占名额质疑",
+        "onboard_time": 1750591341,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318701,
+        "num": 318701,
+        "word": "尚公主官宣",
+        "onboard_time": 1750558340,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285346,
+        "num": 285346,
+        "word": "男子称误转30万给老赖款项被冻结",
+        "onboard_time": 1750584261,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228585,
+        "num": 228585,
+        "word": "常州气晕了一只小恐龙",
+        "onboard_time": 1750586361,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216293,
+        "num": 216293,
+        "word": "美以伊都挺不住了所以美国发动袭击",
+        "onboard_time": 1750581140,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 212905,
+        "num": 212905,
+        "word": "孟子义新丽首位95花一番女主",
+        "onboard_time": 1750585761,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212493,
+        "num": 212493,
+        "word": "TFBOYS保密协议",
+        "onboard_time": 1750565603,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198026,
+        "num": 198026,
+        "word": "wichu",
+        "onboard_time": 1750591162,
+        "rank": 26,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 191440,
+        "num": 191440,
+        "word": "白鹿曾舜晞奔跑吧合照",
+        "onboard_time": 1750591641,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187442,
+        "num": 187442,
+        "word": "王欣瑜破发万卓索娃",
+        "onboard_time": 1750590201,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184277,
+        "num": 184277,
+        "word": "五角大楼附近披萨店又爆单了",
+        "onboard_time": 1750591402,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 177643,
+        "num": 177643,
+        "word": "陈赫问王勉和谁逛街",
+        "onboard_time": 1750580122,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175008,
+        "num": 175008,
+        "word": "四川一男子疑开凿奥特曼石窟",
+        "onboard_time": 1750587323,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171876,
+        "num": 171876,
+        "word": "中方强烈谴责美方袭击伊朗",
+        "onboard_time": 1750591881,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 147557,
+        "num": 147557,
+        "word": "腾讯大会赴山海发布节奏",
+        "onboard_time": 1750590864,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141203,
+        "num": 141203,
+        "word": "马景涛所在工作室称其无大碍",
+        "onboard_time": 1750592122,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132427,
+        "num": 132427,
+        "word": "娄艺潇晒labubu",
+        "onboard_time": 1750587682,
+        "rank": 35,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 131228,
+        "num": 131228,
+        "word": "虞书欣 哪都有人骂不要在意就好了",
+        "onboard_time": 1750586481,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126747,
+        "num": 126747,
+        "word": "网友爆料奈雪小盒茶喝出整只青蛙",
+        "onboard_time": 1750587381,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126399,
+        "num": 126399,
+        "word": "美洲偶遇王一博",
+        "onboard_time": 1750574181,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24394,
+        "num": 126150,
+        "word": "LPL公益特别行动",
+        "onboard_time": 1750591999,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 35678,
+        "num": 126120,
+        "word": "弗朗西斯卡发文欢迎樊振东",
+        "onboard_time": 1750588281,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126099,
+        "num": 126099,
+        "word": "宁波东方理工大学学费每学年9万6",
+        "onboard_time": 1750591641,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 122327,
+        "num": 122327,
+        "word": "常州 光头免票",
+        "onboard_time": 1750585822,
+        "rank": 42,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 120765,
+        "num": 120765,
+        "word": "云包场赔罪",
+        "onboard_time": 1750592243,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120663,
+        "num": 120663,
+        "word": "网友称上海野生动物园发生象园霸凌",
+        "onboard_time": 1750584742,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118653,
+        "num": 118653,
+        "word": "ABB式名字 容易火",
+        "onboard_time": 1750564224,
+        "rank": 45,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 117924,
+        "num": 117924,
+        "word": "鹿晗成都演唱会抢票",
+        "onboard_time": 1750589722,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117401,
+        "num": 117401,
+        "word": "仙逆",
+        "onboard_time": 1750589302,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 116664,
+        "num": 116664,
+        "word": "成毅或将演两京十五日",
+        "onboard_time": 1750589901,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112197,
+        "num": 112197,
+        "word": "李昀锐谈及做演员的初心",
+        "onboard_time": 1750592243,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#丝路友谊偕行致远#"
+    }
+  }
+}
