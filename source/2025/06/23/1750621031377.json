@@ -1,0 +1,410 @@
+{
+  "runTime": 1750621031377,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 107785,
+        "num": 107785,
+        "word": "泡泡玛特回应姚晨晒限量版Labubu",
+        "onboard_time": 1750589063,
+        "rank": 0,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 102043,
+        "num": 102043,
+        "word": "杜兰特",
+        "onboard_time": 1750612518,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9953,
+        "num": 75327,
+        "word": "神二十航天员进驻空间站即将满两个月",
+        "onboard_time": 1750598062,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 61562,
+        "num": 61562,
+        "word": "韩国霸总王辉被爆塌房",
+        "onboard_time": 1750599143,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 48185,
+        "num": 48185,
+        "word": "高考查分 紧张",
+        "onboard_time": 1750583962,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 55834,
+        "num": 47797,
+        "word": "伊朗超三分之一导弹没有被以军拦截",
+        "onboard_time": 1750601242,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 47205,
+        "num": 47205,
+        "word": "徐明浩说不喜欢跳楼机",
+        "onboard_time": 1750596742,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42985,
+        "num": 42985,
+        "word": "杜兰特被交易至火箭",
+        "onboard_time": 1750619415,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36971,
+        "num": 36971,
+        "word": "男生被教官体罚做1000深蹲致换肾",
+        "onboard_time": 1750601004,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34860,
+        "num": 34860,
+        "word": "最难喝的奶茶",
+        "onboard_time": 1750593320,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 161351,
+        "num": 34623,
+        "word": "伊朗给全世界打了个样",
+        "onboard_time": 1750604304,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120631,
+        "num": 34214,
+        "word": "王勉 易梦玲",
+        "onboard_time": 1750585942,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57007,
+        "num": 33711,
+        "word": "霍尔木兹海峡",
+        "onboard_time": 1750605085,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 45853,
+        "num": 33364,
+        "word": "蜜雪冰城房塌了",
+        "onboard_time": 1750575561,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 41301,
+        "num": 32937,
+        "word": "男子奸杀7岁女童前欠网贷心生烦躁",
+        "onboard_time": 1750586782,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32543,
+        "num": 32543,
+        "word": "GAI说歌手拿了第七我挺不爽的",
+        "onboard_time": 1750602743,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32222,
+        "num": 32222,
+        "word": "行止晚",
+        "onboard_time": 1750606402,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31178,
+        "num": 31178,
+        "word": "AI修图",
+        "onboard_time": 1750613960,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 31024,
+        "num": 31024,
+        "word": "请记住她叫刘名芳",
+        "onboard_time": 1750607061,
+        "rank": 18,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 30627,
+        "num": 30627,
+        "word": "最近的韩剧男主颜值",
+        "onboard_time": 1750606464,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37097,
+        "num": 29910,
+        "word": "哥嫂要复婚要求小姑子迁走户口",
+        "onboard_time": 1750596022,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28983,
+        "num": 28983,
+        "word": "品牌撤下那尔那茜物料",
+        "onboard_time": 1750596623,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11110,
+        "num": 28699,
+        "word": "海关查获6960个侵权labubu",
+        "onboard_time": 1750620494,
+        "rank": 22,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 28501,
+        "num": 28501,
+        "word": "Prada大秀",
+        "onboard_time": 1750595302,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 27057,
+        "num": 27057,
+        "word": "庆余年3",
+        "onboard_time": 1750576162,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26851,
+        "num": 26851,
+        "word": "央视曝光高端酱香老酒竟是酒精勾兑",
+        "onboard_time": 1750602084,
+        "rank": 25,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 26287,
+        "num": 26287,
+        "word": "王欣瑜仍创造中国女网历史",
+        "onboard_time": 1750607543,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25289,
+        "num": 25289,
+        "word": "大批伊朗民众集会高呼反美口号",
+        "onboard_time": 1750615099,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 25017,
+        "num": 25017,
+        "word": "伊朗议会认为应关闭霍尔木兹海峡",
+        "onboard_time": 1750601965,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22550,
+        "num": 25013,
+        "word": "迪丽热巴工作室 还不出图",
+        "onboard_time": 1750606523,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43044,
+        "num": 25006,
+        "word": "被狗咬后未就医3个月后发病去世",
+        "onboard_time": 1750616536,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21326,
+        "num": 25002,
+        "word": "伊朗大使馆发布亮剑视频",
+        "onboard_time": 1750599803,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21313,
+        "num": 24996,
+        "word": "张艺兴直播夜游探险",
+        "onboard_time": 1750606402,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21309,
+        "num": 24994,
+        "word": "虞书欣说不会参加浪姐",
+        "onboard_time": 1750606523,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12862,
+        "num": 24990,
+        "word": "神二十乘组忙忙碌碌又一周",
+        "onboard_time": 1750618635,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20923,
+        "num": 24984,
+        "word": "中学领导侵吞学生伙食费240万元",
+        "onboard_time": 1750604485,
+        "rank": 35,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 20683,
+        "num": 24975,
+        "word": "伊朗向以色列发射其最强导弹",
+        "onboard_time": 1750578263,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20117,
+        "num": 24973,
+        "word": "在阿勒泰遇见繁花绿草的湿地美景",
+        "onboard_time": 1750620794,
+        "rank": 37,
+        "category": "旅游,民生新闻"
+      },
+      {
+        "raw_hot": 20036,
+        "num": 24968,
+        "word": "中国网协祝贺王欣瑜晋级决赛",
+        "onboard_time": 1750614444,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20016,
+        "num": 24962,
+        "word": "以色列和伊朗手里还有多少底牌",
+        "onboard_time": 1750610539,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18906,
+        "num": 24958,
+        "word": "保护情绪和保护健康一样重要",
+        "onboard_time": 1750620254,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 18819,
+        "num": 24951,
+        "word": "肖战美貌受害者加一",
+        "onboard_time": 1750605204,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17775,
+        "num": 24946,
+        "word": "白玉兰 提携新人",
+        "onboard_time": 1750596803,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17673,
+        "num": 24937,
+        "word": "当安静的教室突然弹起一个水杯盖",
+        "onboard_time": 1750619296,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17575,
+        "num": 24935,
+        "word": "马嘉祺歌手第一期备选了6首歌",
+        "onboard_time": 1750608321,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17443,
+        "num": 24929,
+        "word": "酱园弄悬案王传君一人分饰16角",
+        "onboard_time": 1750606102,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 17346,
+        "num": 24923,
+        "word": "伊朗外长表态",
+        "onboard_time": 1750614626,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16898,
+        "num": 24919,
+        "word": "广东疾控发文称狂犬病病死率接近100%",
+        "onboard_time": 1750595902,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16421,
+        "num": 24911,
+        "word": "张泽禹 带id自取",
+        "onboard_time": 1750604843,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16247,
+        "num": 24909,
+        "word": "丁真发长文告别无限超越班",
+        "onboard_time": 1750614504,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#丝路友谊偕行致远#"
+    }
+  }
+}
