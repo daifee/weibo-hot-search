@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/22 16:31:47
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/22 16:45:11
 </p>
 </blockquote>
 <p>
@@ -4569,6 +4569,12 @@ F35（热度：742995）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%B039%E4%BB%B6%E8%A1%A3%E6%9C%8D%E4%B8%8D%E8%83%BD%E8%AF%95%E7%A9%BF%E5%9B%9E%E5%AE%B6%E5%8F%91%E7%8E%B0%E7%A9%BF%E4%B8%8D%E4%B8%8A%23" target="weibo">
+买39件衣服不能试穿回家发现穿不上（热度：733648）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B7%B3%E6%A5%BC%E6%9C%BA%E5%A5%BD%E4%B8%8D%E5%AE%B9%E6%98%93%E5%8D%87%E5%92%96%E5%8F%88%E6%89%93%E5%9B%9E%E5%8E%9F%E5%BD%A2%E4%BA%86%23" target="weibo">
 跳楼机好不容易升咖又打回原形了（热度：733542）
 </a>
@@ -6005,12 +6011,6 @@ Lafufu和Lababa都属于商标侵权（热度：623180）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%B0%E6%B5%86%23" target="weibo">
 冰浆（热度：615512）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%B7%E5%80%BC13999%E5%85%83labubu%E7%9B%B2%E7%9B%921%E5%85%83%E8%B5%B7%E6%8B%8D%23" target="weibo">
-价值13999元labubu盲盒1元起拍（热度：615463）
 </a>
 </li>
 

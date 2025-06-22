@@ -1,0 +1,410 @@
+{
+  "runTime": 1750581911925,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1510046,
+        "num": 1510046,
+        "word": "庆余年3",
+        "onboard_time": 1750576162,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 778516,
+        "num": 778516,
+        "word": "中央发布公职人员违规吃喝认定标准",
+        "onboard_time": 1750576162,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61025,
+        "num": 754439,
+        "word": "今年下半年1380亿国补在路上了",
+        "onboard_time": 1750561824,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 746802,
+        "num": 746802,
+        "word": "姚晨称labubu是人生中唯一盈利的投资",
+        "onboard_time": 1750569622,
+        "rank": 3,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 733648,
+        "num": 733648,
+        "word": "买39件衣服不能试穿回家发现穿不上",
+        "onboard_time": 1750580782,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1032742,
+        "num": 731294,
+        "word": "伊朗向以色列发射其最强导弹",
+        "onboard_time": 1750578263,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 635403,
+        "num": 635403,
+        "word": "尚公主官宣",
+        "onboard_time": 1750558340,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 649323,
+        "num": 615940,
+        "word": "美国袭击伊朗核设施",
+        "onboard_time": 1750551379,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 549327,
+        "num": 549327,
+        "word": "ABB式名字 容易火",
+        "onboard_time": 1750564224,
+        "rank": 8,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 158629,
+        "num": 544132,
+        "word": "常州烧烤店老板回应赞助苏超",
+        "onboard_time": 1750579401,
+        "rank": 9,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 1092687,
+        "num": 543480,
+        "word": "蜜雪冰城房塌了",
+        "onboard_time": 1750575561,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 542207,
+        "num": 542207,
+        "word": "TFBOYS保密协议",
+        "onboard_time": 1750565603,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 471934,
+        "num": 471934,
+        "word": "奸杀7岁女童男子被执行死刑",
+        "onboard_time": 1750579581,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 376782,
+        "num": 376782,
+        "word": "陈可辛 改剧本",
+        "onboard_time": 1750578082,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 219766,
+        "num": 299785,
+        "word": "美以伊都挺不住了所以美国发动袭击",
+        "onboard_time": 1750581140,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 297581,
+        "num": 297581,
+        "word": "美洲偶遇王一博",
+        "onboard_time": 1750574181,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285270,
+        "num": 285270,
+        "word": "杨紫差点让胡歌提前杀青",
+        "onboard_time": 1750574961,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32642,
+        "num": 269255,
+        "word": "陈若仪带三子现身",
+        "onboard_time": 1750573402,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100498,
+        "num": 266251,
+        "word": "镜头下23岁博士的真实答案",
+        "onboard_time": 1750578562,
+        "rank": 18,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 44607,
+        "num": 266224,
+        "word": "日本紧急进口大米应对短缺",
+        "onboard_time": 1750580662,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 266222,
+        "num": 266222,
+        "word": "美国通过秘密渠道向伊朗传达信息",
+        "onboard_time": 1750573882,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 263865,
+        "num": 263865,
+        "word": "陈赫问王勉和谁逛街",
+        "onboard_time": 1750580122,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257814,
+        "num": 257814,
+        "word": "女子给宠物蛇喂食时蛇窜出罐子逃跑",
+        "onboard_time": 1750568181,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256754,
+        "num": 256754,
+        "word": "以色列股市创下历史新高",
+        "onboard_time": 1750579282,
+        "rank": 23,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 239579,
+        "num": 239579,
+        "word": "北京黑救护车最多一个月挣30万",
+        "onboard_time": 1750571300,
+        "rank": 24,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 218791,
+        "num": 218791,
+        "word": "逐玉",
+        "onboard_time": 1750580242,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218204,
+        "num": 218204,
+        "word": "11岁女孩长期积食身高定格145",
+        "onboard_time": 1750571542,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183703,
+        "num": 214322,
+        "word": "枭起青壤",
+        "onboard_time": 1750580063,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168730,
+        "num": 213870,
+        "word": "李乃文 我们是PC来的",
+        "onboard_time": 1750564882,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9610,
+        "num": 213593,
+        "word": "官方将调查老人摔倒民警未搀扶事件",
+        "onboard_time": 1750581680,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213561,
+        "num": 213561,
+        "word": "医生提醒长期穿碳板跑鞋或致关节损伤",
+        "onboard_time": 1750576282,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 190353,
+        "num": 190353,
+        "word": "外交部发布双语视频回家",
+        "onboard_time": 1750579341,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 189632,
+        "num": 189632,
+        "word": "新疆赛里木湖一SUV景区漂移",
+        "onboard_time": 1750571482,
+        "rank": 32,
+        "category": "旅游,民生新闻"
+      },
+      {
+        "raw_hot": 187750,
+        "num": 187750,
+        "word": "伊朗要求安理会紧急开会",
+        "onboard_time": 1750581623,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 184773,
+        "num": 184773,
+        "word": "DYG对战TTG",
+        "onboard_time": 1750577482,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 180735,
+        "num": 180735,
+        "word": "小腿后面突然开始收紧",
+        "onboard_time": 1750576882,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174072,
+        "num": 174072,
+        "word": "防性侵儿歌",
+        "onboard_time": 1750579401,
+        "rank": 36,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 169127,
+        "num": 169127,
+        "word": "中国16岁少年击败日本选手夺冠",
+        "onboard_time": 1750581322,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167986,
+        "num": 167986,
+        "word": "4比0后南京对常州做出了补偿",
+        "onboard_time": 1750574961,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167179,
+        "num": 167179,
+        "word": "闫安透露王楚钦梁靖崑将配男双",
+        "onboard_time": 1750576882,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167097,
+        "num": 167097,
+        "word": "感觉减肥的人变少了",
+        "onboard_time": 1750564042,
+        "rank": 40,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 152706,
+        "num": 152706,
+        "word": "我以为迪丽热巴要摆一个撩人的姿势",
+        "onboard_time": 1750577602,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145531,
+        "num": 145531,
+        "word": "也门胡塞武装发声",
+        "onboard_time": 1750577961,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 144841,
+        "num": 144841,
+        "word": "暑期档第一部古装剧来了",
+        "onboard_time": 1750573402,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131855,
+        "num": 131855,
+        "word": "老人水中摔倒民警未搀扶家属发声",
+        "onboard_time": 1750580421,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124123,
+        "num": 124123,
+        "word": "小女孩独自在家饿肚子哭求邻居报警",
+        "onboard_time": 1750581261,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117868,
+        "num": 117868,
+        "word": "常州苏超五连败一景区推出光头免票",
+        "onboard_time": 1750580602,
+        "rank": 46,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 115564,
+        "num": 115564,
+        "word": "常州天目湖景区回应推出光头免票",
+        "onboard_time": 1750581501,
+        "rank": 47,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 110484,
+        "num": 110484,
+        "word": "教两万人救命的医生自己牺牲了",
+        "onboard_time": 1750571902,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110411,
+        "num": 110411,
+        "word": "鹅剧派对官宣演员阵容",
+        "onboard_time": 1750576762,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#3句话讲清习主席中亚之行的深远意义#"
+    }
+  }
+}
