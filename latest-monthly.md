@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/22 11:56:58
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/22 12:06:30
 </p>
 </blockquote>
 <p>
@@ -1667,6 +1667,12 @@ A股（热度：1322395）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%20%E6%8A%BD%E8%B1%A1%23" target="weibo">
 高考作文 抽象（热度：1302071）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%9A%E5%85%AC%E4%B8%BB%E9%80%A0%E5%9E%8B%20%E9%BB%84%E8%96%87%23" target="weibo">
+尚公主造型 黄薇（热度：1299627）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ twice（热度：611330）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%BC%94%E5%94%B1%E4%BC%9A%E8%8E%B7%E5%85%A8%E7%90%83%E8%AE%BE%E8%AE%A1%E5%A4%A7%E5%A5%96%23" target="weibo">
 汪苏泷演唱会获全球设计大奖（热度：609058）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%8D%E7%86%9F%E6%82%89%E6%B0%B4%E6%80%A7%E6%8A%B1%E6%B0%B4%E6%A1%B6%E4%B8%8B%E6%B2%B3%E6%95%91%E4%BA%BA%23" target="weibo">
-男子不熟悉水性抱水桶下河救人（热度：608780）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750564618664,
+  "endTime": 1750565190297,
   "band_list": [
     {
       "raw_hot": 7413013,
@@ -33,6 +33,14 @@
       "onboard_time": 1750549878,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1299627,
+      "num": 1299627,
+      "word": "尚公主造型 黄薇",
+      "onboard_time": 1750563024,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 1033931,
@@ -155,20 +163,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 521885,
-      "num": 521885,
-      "word": "尚公主造型 黄薇",
-      "onboard_time": 1750563024,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 518525,
       "num": 923990,
       "word": "上饶鄱阳县一中考返程大巴发生车祸",
       "onboard_time": 1750561462,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 511726,
+      "num": 511726,
+      "word": "隔夜蛋糕 好吃",
+      "onboard_time": 1750563561,
+      "rank": 15,
+      "category": "美食"
     },
     {
       "raw_hot": 497385,
@@ -291,12 +299,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 377713,
-      "num": 377713,
-      "word": "隔夜蛋糕 好吃",
-      "onboard_time": 1750563561,
-      "rank": 15,
-      "category": "美食"
+      "raw_hot": 396099,
+      "num": 396099,
+      "word": "ABB式名字 容易火",
+      "onboard_time": 1750564224,
+      "rank": 30,
+      "category": "休闲,动漫"
     },
     {
       "raw_hot": 372229,
@@ -355,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 305202,
+      "num": 305202,
+      "word": "最壮观的荔枝树",
+      "onboard_time": 1750563443,
+      "rank": 24,
+      "category": "旅游,民生新闻"
+    },
+    {
       "raw_hot": 305070,
       "num": 305070,
       "word": "伊媒发布福尔多核设施遭袭后画面",
@@ -387,27 +403,19 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 288756,
+      "num": 374385,
+      "word": "西出玉门",
+      "onboard_time": 1750563561,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 285915,
       "num": 285915,
       "word": "桃花映江山",
       "onboard_time": 1750557921,
       "rank": 38,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 280539,
-      "num": 280539,
-      "word": "最壮观的荔枝树",
-      "onboard_time": 1750563443,
-      "rank": 24,
-      "category": "旅游,民生新闻"
-    },
-    {
-      "raw_hot": 277987,
-      "num": 374385,
-      "word": "西出玉门",
-      "onboard_time": 1750563561,
-      "rank": 16,
       "category": "剧集"
     },
     {
@@ -443,14 +451,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 265231,
-      "num": 200048,
-      "word": "ABB式名字 容易火",
-      "onboard_time": 1750564224,
-      "rank": 30,
-      "category": "休闲,动漫"
-    },
-    {
       "raw_hot": 255700,
       "num": 255700,
       "word": "50架以战机侵犯伊拉克领空",
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 252251,
-      "num": 252251,
+      "num": 308936,
       "word": "九重紫",
       "onboard_time": 1750560502,
       "rank": 25,
@@ -484,7 +484,7 @@
     },
     {
       "raw_hot": 243670,
-      "num": 200013,
+      "num": 226186,
       "word": "伊朗",
       "onboard_time": 1750562243,
       "rank": 31,
@@ -540,7 +540,7 @@
     },
     {
       "raw_hot": 212969,
-      "num": 212969,
+      "num": 278848,
       "word": "小伙用上百只Labubu求婚拿下爱情",
       "onboard_time": 1750563863,
       "rank": 26,
@@ -563,6 +563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205715,
+      "num": 283740,
+      "word": "李乃文 我们是PC来的",
+      "onboard_time": 1750564882,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201898,
       "num": 201898,
       "word": "嗑昀牵孟绕 天生好命",
@@ -571,12 +579,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201033,
+      "num": 201033,
+      "word": "白宫公布特朗普在战情室照片",
+      "onboard_time": 1750564162,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 200623,
       "num": 200623,
       "word": "苏超直播连弹幕都是散装的",
       "onboard_time": 1750523181,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199426,
+      "num": 229675,
+      "word": "徐明浩顶级男团出身不畏流量底气",
+      "onboard_time": 1750564703,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 197046,
@@ -659,6 +683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175727,
+      "num": 449060,
+      "word": "特朗普继续警告伊朗",
+      "onboard_time": 1750563924,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 174259,
       "num": 361731,
       "word": "女子货车内休息被冲走失联超2天",
@@ -673,6 +705,14 @@
       "onboard_time": 1750553242,
       "rank": 35,
       "category": "网红"
+    },
+    {
+      "raw_hot": 167847,
+      "num": 167847,
+      "word": "杨紫德令哈vlog",
+      "onboard_time": 1750564822,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 165113,
@@ -707,12 +747,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 158606,
-      "num": 158606,
-      "word": "白宫公布特朗普在战情室照片",
-      "onboard_time": 1750564162,
-      "rank": 41,
-      "category": "国际时政"
+      "raw_hot": 155449,
+      "num": 155449,
+      "word": "CATTI",
+      "onboard_time": 1750564703,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 153503,
@@ -721,6 +761,14 @@
       "onboard_time": 1750515746,
       "rank": 34,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 153390,
+      "num": 153390,
+      "word": "李晟我最好的朋友是我的爱人",
+      "onboard_time": 1750565002,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 150577,
@@ -739,8 +787,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 145475,
-      "num": 145475,
+      "raw_hot": 147493,
+      "num": 147493,
       "word": "百花杀",
       "onboard_time": 1750564462,
       "rank": 43,
@@ -820,7 +868,7 @@
     },
     {
       "raw_hot": 131365,
-      "num": 1090662,
+      "num": 1305512,
       "word": "今年下半年1380亿国补在路上了",
       "onboard_time": 1750561824,
       "rank": 2,
@@ -891,14 +939,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 117562,
-      "num": 449060,
-      "word": "特朗普继续警告伊朗",
-      "onboard_time": 1750563924,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 112218,
       "num": 178992,
       "word": "王欣瑜用实力证明中国网球一切皆有可能",
@@ -913,6 +953,14 @@
       "onboard_time": 1750559422,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 103278,
+      "num": 382815,
+      "word": "伊对以发起新一轮导弹和无人机打击",
+      "onboard_time": 1750563803,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 100057,
@@ -1051,6 +1099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61162,
+      "num": 235253,
+      "word": "王力宏演唱会的嘉宾是李治廷",
+      "onboard_time": 1750563202,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 60721,
       "num": 60721,
       "word": "肖战版这世界那么多人好治愈",
@@ -1152,14 +1208,6 @@
       "word": "伊官员说伊朗准备了很多选项",
       "onboard_time": 1750532774,
       "rank": 9,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 42450,
-      "num": 382815,
-      "word": "伊对以发起新一轮导弹和无人机打击",
-      "onboard_time": 1750563803,
-      "rank": 14,
       "category": "国际时政"
     },
     {
