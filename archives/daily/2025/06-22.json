@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750581911925,
+  "endTime": 1750584372362,
   "band_list": [
     {
       "raw_hot": 7413013,
@@ -49,6 +49,14 @@
       "onboard_time": 1750549878,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1621336,
+      "num": 1621336,
+      "word": "买39件衣服不能试穿回家发现穿不上",
+      "onboard_time": 1750580782,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1532491,
@@ -147,14 +155,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 733648,
-      "num": 733648,
-      "word": "买39件衣服不能试穿回家发现穿不上",
-      "onboard_time": 1750580782,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 717380,
       "num": 481327,
       "word": "曾舜晞小号",
@@ -235,12 +235,28 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 571232,
+      "num": 314498,
+      "word": "美以伊都挺不住了所以美国发动袭击",
+      "onboard_time": 1750581140,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 565430,
       "num": 565430,
       "word": "台网红吸大麻被抓甩锅大陆警方",
       "onboard_time": 1750518144,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 564104,
+      "num": 303948,
+      "word": "陈赫问王勉和谁逛街",
+      "onboard_time": 1750580122,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 560125,
@@ -523,6 +539,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 364500,
+      "num": 364500,
+      "word": "胡塞武装宣布恢复袭击美舰船",
+      "onboard_time": 1750583060,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 354193,
       "num": 233811,
       "word": "那尔那茜高考文化课总成绩449分",
@@ -593,6 +617,14 @@
       "onboard_time": 1750519285,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 315687,
+      "num": 315687,
+      "word": "逐玉",
+      "onboard_time": 1750580242,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 307717,
@@ -707,6 +739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 271472,
+      "num": 271472,
+      "word": "伊朗要求安理会紧急开会",
+      "onboard_time": 1750581623,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 266141,
       "num": 517108,
       "word": "美国参战全球股市或有10个点的回撤",
@@ -721,14 +761,6 @@
       "onboard_time": 1750556482,
       "rank": 23,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 263865,
-      "num": 263865,
-      "word": "陈赫问王勉和谁逛街",
-      "onboard_time": 1750580122,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 262384,
@@ -827,6 +859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 227059,
+      "num": 227059,
+      "word": "确认出席腾讯派对的艺人",
+      "onboard_time": 1750583361,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 226681,
       "num": 226681,
       "word": "以伊冲突第10天",
@@ -859,12 +899,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 219766,
-      "num": 299785,
-      "word": "美以伊都挺不住了所以美国发动袭击",
-      "onboard_time": 1750581140,
-      "rank": 14,
-      "category": "国际时政"
+      "raw_hot": 219837,
+      "num": 219837,
+      "word": "高考查分 紧张",
+      "onboard_time": 1750583962,
+      "rank": 21,
+      "category": "教育"
     },
     {
       "raw_hot": 219662,
@@ -881,14 +921,6 @@
       "onboard_time": 1750576282,
       "rank": 35,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 218791,
-      "num": 218791,
-      "word": "逐玉",
-      "onboard_time": 1750580242,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 217317,
@@ -1003,6 +1035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201042,
+      "num": 201042,
+      "word": "GW对战MRC",
+      "onboard_time": 1750583481,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 200623,
       "num": 200623,
       "word": "苏超直播连弹幕都是散装的",
@@ -1099,14 +1139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 187750,
-      "num": 187750,
-      "word": "伊朗要求安理会紧急开会",
-      "onboard_time": 1750581623,
-      "rank": 33,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 187642,
       "num": 187642,
       "word": "也门胡塞武装发声",
@@ -1177,6 +1209,14 @@
       "onboard_time": 1750521682,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173137,
+      "num": 173137,
+      "word": "常州苏超五连败一景区推出光头免票",
+      "onboard_time": 1750580602,
+      "rank": 46,
+      "category": "体育,民生新闻"
     },
     {
       "raw_hot": 172429,
@@ -1347,6 +1387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152406,
+      "num": 152406,
+      "word": "1岁男娃地铁站快速猩猩爬膝盖不着地",
+      "onboard_time": 1750583662,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150577,
       "num": 150577,
       "word": "常州文旅",
@@ -1435,6 +1483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140803,
+      "num": 171509,
+      "word": "沈月姜妍当丁禹兮面讨论他",
+      "onboard_time": 1750582043,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140242,
       "num": 140242,
       "word": "夏雪称网红助理月薪3000嫌贵",
@@ -1507,6 +1563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132653,
+      "num": 132653,
+      "word": "美军钻地弹可将20层大楼瞬间夷为平地",
+      "onboard_time": 1750582762,
+      "rank": 34,
+      "category": "军事"
+    },
+    {
       "raw_hot": 132648,
       "num": 132648,
       "word": "宋雨琦叶舒华中文加密小抄",
@@ -1553,6 +1617,14 @@
       "onboard_time": 1750552220,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128276,
+      "num": 128276,
+      "word": "4少年高考完结伴出游救了1条命",
+      "onboard_time": 1750583902,
+      "rank": 37,
+      "category": "正能量"
     },
     {
       "raw_hot": 127894,
@@ -1667,20 +1739,36 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 118739,
-      "num": 118739,
-      "word": "常州苏超五连败一景区推出光头免票",
-      "onboard_time": 1750580602,
-      "rank": 46,
-      "category": "体育,民生新闻"
-    },
-    {
       "raw_hot": 118534,
       "num": 118534,
       "word": "Labubu在二手市场价格暴跌",
       "onboard_time": 1750510884,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117385,
+      "num": 117385,
+      "word": "男子称误转30万给老赖款项被冻结",
+      "onboard_time": 1750584261,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117174,
+      "num": 116290,
+      "word": "弗朗西斯卡说会好好照顾樊振东",
+      "onboard_time": 1750583721,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 116253,
+      "num": 116253,
+      "word": "沈腾问范丞丞怎么吃醋了",
+      "onboard_time": 1750584080,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 115564,
@@ -1811,6 +1899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94373,
+      "num": 176062,
+      "word": "医生说微胖的人更能扛病",
+      "onboard_time": 1750583420,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 94357,
       "num": 94357,
       "word": "李沐宸因家庭变故至今还在还债",
@@ -1929,6 +2025,22 @@
       "onboard_time": 1750543215,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 66631,
+      "num": 301938,
+      "word": "留英博士性侵被判终身监禁背后",
+      "onboard_time": 1750583060,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 66069,
+      "num": 116746,
+      "word": "打工人涌入自选炒菜连锁吃20元快餐",
+      "onboard_time": 1750584321,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63705,
@@ -2113,6 +2225,14 @@
       "onboard_time": 1750548918,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33912,
+      "num": 883157,
+      "word": "夏日青山绿水间清凉感拉满",
+      "onboard_time": 1750582462,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 32323,
