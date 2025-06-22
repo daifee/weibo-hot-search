@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/22 13:43:24
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/22 14:35:27
 </p>
 </blockquote>
 <p>
@@ -1211,6 +1211,12 @@ GAI是不是想走了（热度：1689581）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%BE%E5%86%B0%E5%87%8F%E8%82%A5%E6%88%90%E5%8A%9F%E7%98%A6%E5%88%B0%E8%84%B1%E7%9B%B8%23" target="weibo">
 贾冰减肥成功瘦到脱相（热度：1535331）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%99%A8%E7%A7%B0labubu%E6%98%AF%E4%BA%BA%E7%94%9F%E4%B8%AD%E5%94%AF%E4%B8%80%E7%9B%88%E5%88%A9%E7%9A%84%E6%8A%95%E8%B5%84%23" target="weibo">
+姚晨称labubu是人生中唯一盈利的投资（热度：1532491）
 </a>
 </li>
 
@@ -2627,12 +2633,6 @@ VOGUE官博秒删（热度：1045069）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%A5%9A%E9%9D%93%E5%B0%8F%E8%A2%81%E5%88%86%E6%89%8B%23" target="weibo">
 胡楚靓小袁分手（热度：1033931）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%99%A8%E7%A7%B0labubu%E6%98%AF%E4%BA%BA%E7%94%9F%E4%B8%AD%E5%94%AF%E4%B8%80%E7%9B%88%E5%88%A9%E7%9A%84%E6%8A%95%E8%B5%84%23" target="weibo">
-姚晨称labubu是人生中唯一盈利的投资（热度：1032866）
 </a>
 </li>
 
@@ -5817,6 +5817,12 @@ Lafufu和Lababa都属于商标侵权（热度：623180）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%94%B2%E5%BA%97%E5%85%851.3%E4%B8%87%E5%85%83%E9%80%80%E5%8D%A1%E7%AB%9F%E5%80%92%E6%AC%A01980%E5%85%83%23" target="weibo">
+美甲店充1.3万元退卡竟倒欠1980元（热度：623079）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%B8%96%E4%BD%B3%E4%B8%8A%E6%88%8F%E8%80%83%E5%8D%9A%E4%B8%8A%E5%B2%B8%23" target="weibo">
 金世佳上戏考博上岸（热度：623000）
 </a>
@@ -6005,12 +6011,6 @@ Lafufu和Lababa都属于商标侵权（热度：623180）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%88%E6%81%8B%E7%88%B1%E7%9C%9F%E7%9A%84%E5%BE%97%E6%89%BE%E4%B8%AA%E5%A4%A7%E6%96%B9%E7%9A%84%23" target="weibo">
 谈恋爱真的得找个大方的（热度：613480）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E8%A2%AB%E6%91%A9%E8%90%A8%E5%BE%B7%E6%B8%97%E9%80%8F%E6%88%90%E4%BA%86%E7%AD%9B%E5%AD%90%23" target="weibo">
-伊朗被摩萨德渗透成了筛子（热度：613061）
 </a>
 </li>
 

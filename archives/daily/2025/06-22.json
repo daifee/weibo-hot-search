@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750571004810,
+  "endTime": 1750574127180,
   "band_list": [
     {
       "raw_hot": 7413013,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1532491,
+      "num": 1532491,
+      "word": "姚晨称labubu是人生中唯一盈利的投资",
+      "onboard_time": 1750569622,
+      "rank": 17,
+      "category": "艺人,休闲"
+    },
+    {
       "raw_hot": 1299627,
       "num": 1299627,
       "word": "尚公主造型 黄薇",
@@ -57,14 +65,6 @@
       "onboard_time": 1750550239,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1032866,
-      "num": 1032866,
-      "word": "姚晨称labubu是人生中唯一盈利的投资",
-      "onboard_time": 1750569622,
-      "rank": 17,
-      "category": "艺人,休闲"
     },
     {
       "raw_hot": 1017113,
@@ -155,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 623079,
+      "num": 623079,
+      "word": "美甲店充1.3万元退卡竟倒欠1980元",
+      "onboard_time": 1750568242,
+      "rank": 7,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 580536,
       "num": 785607,
       "word": "许家印前妻被曝5亿买33套伦敦豪宅",
@@ -235,12 +243,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 501866,
-      "num": 501866,
-      "word": "美甲店充1.3万元退卡竟倒欠1980元",
-      "onboard_time": 1750568242,
+      "raw_hot": 502169,
+      "num": 502169,
+      "word": "新疆赛里木湖一SUV景区漂移",
+      "onboard_time": 1750571482,
       "rank": 7,
-      "category": "舆论监督"
+      "category": "旅游,民生新闻"
     },
     {
       "raw_hot": 497385,
@@ -249,6 +257,14 @@
       "onboard_time": 1750519824,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 486197,
+      "num": 486197,
+      "word": "美代表大骂以色列后尴尬改口",
+      "onboard_time": 1750570523,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 477530,
@@ -321,6 +337,14 @@
       "onboard_time": 1750568722,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 421942,
+      "num": 231350,
+      "word": "11岁女孩长期积食身高定格145",
+      "onboard_time": 1750571542,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 415656,
@@ -425,6 +449,14 @@
       "onboard_time": 1750564162,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 346902,
+      "num": 346902,
+      "word": "教两万人救命的医生自己牺牲了",
+      "onboard_time": 1750571902,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 343093,
@@ -555,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 268317,
+      "num": 268317,
+      "word": "手机烫手",
+      "onboard_time": 1750571842,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 266141,
       "num": 517108,
       "word": "美国参战全球股市或有10个点的回撤",
@@ -667,6 +707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217317,
+      "num": 217317,
+      "word": "气血好的人眼睛是亮亮的",
+      "onboard_time": 1750568483,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 215995,
       "num": 215995,
       "word": "上戏内蒙古委培班2021年终止招生",
@@ -713,6 +761,14 @@
       "onboard_time": 1750507102,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 206659,
+      "num": 206659,
+      "word": "暑期档第一部古装剧来了",
+      "onboard_time": 1750573402,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 206161,
@@ -771,6 +827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 197229,
+      "num": 231694,
+      "word": "周杰伦济南",
+      "onboard_time": 1750568842,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 197046,
       "num": 407297,
       "word": "朱珠夫妇参加皇家赛马会",
@@ -795,12 +859,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190806,
-      "num": 204511,
-      "word": "周杰伦济南",
-      "onboard_time": 1750568842,
-      "rank": 30,
-      "category": "演出"
+      "raw_hot": 192204,
+      "num": 192204,
+      "word": "感觉减肥的人变少了",
+      "onboard_time": 1750564042,
+      "rank": 37,
+      "category": "运动健身"
     },
     {
       "raw_hot": 190470,
@@ -809,14 +873,6 @@
       "onboard_time": 1750554442,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 190434,
-      "num": 190434,
-      "word": "气血好的人眼睛是亮亮的",
-      "onboard_time": 1750568483,
-      "rank": 41,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 190004,
@@ -833,14 +889,6 @@
       "onboard_time": 1750562424,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 184856,
-      "num": 184856,
-      "word": "感觉减肥的人变少了",
-      "onboard_time": 1750564042,
-      "rank": 37,
-      "category": "运动健身"
     },
     {
       "raw_hot": 184717,
@@ -907,6 +955,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 172342,
+      "num": 189543,
+      "word": "姚晨 labubu嘴大有亲切感",
+      "onboard_time": 1750572802,
+      "rank": 26,
+      "category": "艺人,休闲"
+    },
+    {
       "raw_hot": 171466,
       "num": 171466,
       "word": "杨紫德令哈vlog",
@@ -963,14 +1019,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 159745,
-      "num": 152553,
-      "word": "美代表大骂以色列后尴尬改口",
-      "onboard_time": 1750570523,
-      "rank": 41,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 158894,
       "num": 158894,
       "word": "临江仙结局",
@@ -985,6 +1033,14 @@
       "onboard_time": 1750565543,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 157597,
+      "num": 185380,
+      "word": "北京黑救护车最多一个月挣30万",
+      "onboard_time": 1750571300,
+      "rank": 27,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 155449,
@@ -1008,6 +1064,14 @@
       "word": "李晟我最好的朋友是我的爱人",
       "onboard_time": 1750565002,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 153170,
+      "num": 182004,
+      "word": "我们的宿舍",
+      "onboard_time": 1750572682,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -1043,6 +1107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147048,
+      "num": 147048,
+      "word": "陈若仪带三子现身",
+      "onboard_time": 1750573402,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146460,
       "num": 146460,
       "word": "发型对形象的影响",
@@ -1073,6 +1145,14 @@
       "onboard_time": 1750514422,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139883,
+      "num": 139883,
+      "word": "美国通过秘密渠道向伊朗传达信息",
+      "onboard_time": 1750573882,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 139126,
@@ -1129,6 +1209,14 @@
       "onboard_time": 1750512804,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 132703,
+      "num": 132703,
+      "word": "刘宇宁音乐圈人脉",
+      "onboard_time": 1750571781,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 132648,
@@ -1195,6 +1283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 125384,
+      "num": 125384,
+      "word": "李昀锐存货",
+      "onboard_time": 1750571122,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125203,
       "num": 125203,
       "word": "王力宏张靓颖声带开挂",
@@ -1217,6 +1313,22 @@
       "onboard_time": 1750521143,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121560,
+      "num": 152577,
+      "word": "李乃文常驻好吗",
+      "onboard_time": 1750570642,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 118972,
+      "num": 118972,
+      "word": "哈马斯强烈谴责美国侵犯伊朗",
+      "onboard_time": 1750573043,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 118534,
@@ -1299,14 +1411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 94675,
-      "num": 152577,
-      "word": "李乃文常驻好吗",
-      "onboard_time": 1750570642,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 94357,
       "num": 94357,
       "word": "李沐宸因家庭变故至今还在还债",
@@ -1337,6 +1441,14 @@
       "onboard_time": 1750512743,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 89973,
+      "num": 105908,
+      "word": "投资者纷纷抛售风险资产",
+      "onboard_time": 1750573282,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 88607,
