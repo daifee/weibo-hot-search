@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750577972423,
+  "endTime": 1750581107086,
   "band_list": [
     {
       "raw_hot": 7413013,
@@ -33,6 +33,14 @@
       "onboard_time": 1750575561,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1747665,
+      "num": 1747665,
+      "word": "庆余年3",
+      "onboard_time": 1750576162,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 1727200,
@@ -75,12 +83,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1258215,
-      "num": 1258215,
-      "word": "庆余年3",
-      "onboard_time": 1750576162,
-      "rank": 8,
-      "category": "剧集"
+      "raw_hot": 1069068,
+      "num": 591434,
+      "word": "伊朗向以色列发射其最强导弹",
+      "onboard_time": 1750578263,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1033931,
@@ -107,20 +115,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 838894,
+      "num": 838894,
+      "word": "中央发布公职人员违规吃喝认定标准",
+      "onboard_time": 1750576162,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 804316,
       "num": 804316,
       "word": "美称预计不会对伊朗发动后续袭击",
       "onboard_time": 1750556361,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 788221,
-      "num": 351223,
-      "word": "中央发布公职人员违规吃喝认定标准",
-      "onboard_time": 1750576162,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 781349,
@@ -347,6 +355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 467627,
+      "num": 467627,
+      "word": "奸杀7岁女童男子被执行死刑",
+      "onboard_time": 1750579581,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 464104,
       "num": 464104,
       "word": "那尔那茜22岁户口随父迁出内蒙古",
@@ -409,6 +425,14 @@
       "onboard_time": 1750571542,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 418000,
+      "num": 418000,
+      "word": "陈可辛 改剧本",
+      "onboard_time": 1750578082,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 415656,
@@ -476,7 +500,7 @@
     },
     {
       "raw_hot": 377929,
-      "num": 367079,
+      "num": 369652,
       "word": "杨紫差点让胡歌提前杀青",
       "onboard_time": 1750574961,
       "rank": 17,
@@ -587,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 305417,
+      "num": 305417,
+      "word": "买39件衣服不能试穿回家发现穿不上",
+      "onboard_time": 1750580782,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 305202,
       "num": 305202,
       "word": "最壮观的荔枝树",
@@ -601,6 +633,22 @@
       "onboard_time": 1750561223,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 300188,
+      "num": 300188,
+      "word": "以色列股市创下历史新高",
+      "onboard_time": 1750579282,
+      "rank": 21,
+      "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 298887,
+      "num": 298887,
+      "word": "北京黑救护车最多一个月挣30万",
+      "onboard_time": 1750571300,
+      "rank": 27,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 294825,
@@ -731,6 +779,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 239854,
+      "num": 239854,
+      "word": "DYG对战TTG",
+      "onboard_time": 1750577482,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 239097,
       "num": 239097,
       "word": "感觉减肥的人变少了",
@@ -745,6 +801,14 @@
       "onboard_time": 1750573402,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 230888,
+      "num": 230888,
+      "word": "小腿后面突然开始收紧",
+      "onboard_time": 1750576882,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 230458,
@@ -771,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224117,
+      "num": 224117,
+      "word": "防性侵儿歌",
+      "onboard_time": 1750579401,
+      "rank": 30,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 220048,
       "num": 220048,
       "word": "尚公主",
@@ -785,6 +857,14 @@
       "onboard_time": 1750565784,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 218966,
+      "num": 205416,
+      "word": "医生提醒长期穿碳板跑鞋或致关节损伤",
+      "onboard_time": 1750576282,
+      "rank": 35,
+      "category": "运动健身"
     },
     {
       "raw_hot": 217317,
@@ -851,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208453,
+      "num": 208453,
+      "word": "陈赫问王勉和谁逛街",
+      "onboard_time": 1750580122,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206161,
       "num": 346810,
       "word": "常州队教练大雨中跪地抱头",
@@ -865,6 +953,14 @@
       "onboard_time": 1750568542,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203787,
+      "num": 227065,
+      "word": "枭起青壤",
+      "onboard_time": 1750580063,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 203490,
@@ -896,6 +992,14 @@
       "word": "苏超直播连弹幕都是散装的",
       "onboard_time": 1750523181,
       "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 200427,
+      "num": 200427,
+      "word": "闫安透露王楚钦梁靖崑将配男双",
+      "onboard_time": 1750576882,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -939,12 +1043,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195015,
-      "num": 195015,
-      "word": "北京黑救护车最多一个月挣30万",
-      "onboard_time": 1750571300,
-      "rank": 27,
-      "category": "舆论监督"
+      "raw_hot": 193415,
+      "num": 424941,
+      "word": "外交部发布双语视频回家",
+      "onboard_time": 1750579341,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 192406,
@@ -979,12 +1083,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 188330,
-      "num": 164942,
-      "word": "小腿后面突然开始收紧",
-      "onboard_time": 1750576882,
-      "rank": 38,
-      "category": "情感"
+      "raw_hot": 187642,
+      "num": 187642,
+      "word": "也门胡塞武装发声",
+      "onboard_time": 1750577961,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 185607,
@@ -1033,6 +1137,14 @@
       "onboard_time": 1750566802,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 177580,
+      "num": 177580,
+      "word": "逐玉",
+      "onboard_time": 1750580242,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 176433,
@@ -1267,28 +1379,12 @@
       "category": "教育,民生新闻"
     },
     {
-      "raw_hot": 144415,
-      "num": 144415,
-      "word": "闫安透露王楚钦梁靖崑将配男双",
-      "onboard_time": 1750576882,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 143993,
       "num": 143993,
       "word": "浙江并蒂莲和同心莲同框绽放",
       "onboard_time": 1750518383,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 143487,
-      "num": 143487,
-      "word": "医生提醒长期穿碳板跑鞋或致关节损伤",
-      "onboard_time": 1750576282,
-      "rank": 35,
-      "category": "运动健身"
     },
     {
       "raw_hot": 142767,
@@ -1419,12 +1515,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128461,
+      "num": 128461,
+      "word": "老人水中摔倒民警未搀扶家属发声",
+      "onboard_time": 1750580421,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127894,
       "num": 127894,
       "word": "mlxg直播回应被执行2500万",
       "onboard_time": 1750558101,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 127534,
+      "num": 127534,
+      "word": "常州烧烤店老板回应赞助苏超",
+      "onboard_time": 1750579401,
+      "rank": 41,
+      "category": "民生新闻,体育"
     },
     {
       "raw_hot": 127040,
@@ -1443,6 +1555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 125723,
+      "num": 314047,
+      "word": "镜头下23岁博士的真实答案",
+      "onboard_time": 1750578562,
+      "rank": 18,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 125384,
       "num": 125384,
       "word": "李昀锐存货",
@@ -1457,6 +1577,14 @@
       "onboard_time": 1750521322,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 125079,
+      "num": 125079,
+      "word": "沈梦辰尼格买提12年前VS12年后",
+      "onboard_time": 1750578023,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 124346,
@@ -1505,6 +1633,14 @@
       "onboard_time": 1750573043,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 118739,
+      "num": 118739,
+      "word": "常州苏超五连败一景区推出光头免票",
+      "onboard_time": 1750580602,
+      "rank": 46,
+      "category": "体育,民生新闻"
     },
     {
       "raw_hot": 118534,
@@ -1561,14 +1697,6 @@
       "onboard_time": 1750567042,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 103520,
-      "num": 103520,
-      "word": "DYG对战TTG",
-      "onboard_time": 1750577482,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 103278,
@@ -1921,6 +2049,14 @@
       "onboard_time": 1750514904,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35540,
+      "num": 306308,
+      "word": "日本紧急进口大米应对短缺",
+      "onboard_time": 1750580662,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 34399,
