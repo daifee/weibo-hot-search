@@ -1,0 +1,410 @@
+{
+  "runTime": 1750602198709,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1523442,
+        "num": 1523442,
+        "word": "泡泡玛特回应姚晨晒限量版Labubu",
+        "onboard_time": 1750589063,
+        "rank": 0,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 943704,
+        "num": 943704,
+        "word": "高考查分 紧张",
+        "onboard_time": 1750583962,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 72187,
+        "num": 732507,
+        "word": "中国IP出海跑出加速度",
+        "onboard_time": 1750598122,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1140192,
+        "num": 680551,
+        "word": "韩国霸总王辉被爆塌房",
+        "onboard_time": 1750599143,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 562919,
+        "num": 562919,
+        "word": "最难喝的奶茶",
+        "onboard_time": 1750593320,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 394614,
+        "num": 394614,
+        "word": "艾格努 球品",
+        "onboard_time": 1750599803,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 638467,
+        "num": 394146,
+        "word": "白玉兰 提携新人",
+        "onboard_time": 1750596803,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 548162,
+        "num": 383896,
+        "word": "徐明浩说不喜欢跳楼机",
+        "onboard_time": 1750596742,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370494,
+        "num": 370494,
+        "word": "男生被教官体罚做1000深蹲致换肾",
+        "onboard_time": 1750601004,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262219,
+        "num": 370477,
+        "word": "伊朗超三分之一导弹没有被以军拦截",
+        "onboard_time": 1750601242,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1358757,
+        "num": 366826,
+        "word": "王勉 易梦玲",
+        "onboard_time": 1750585942,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 709216,
+        "num": 362504,
+        "word": "蜜雪冰城房塌了",
+        "onboard_time": 1750575561,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 640698,
+        "num": 360042,
+        "word": "伊朗大使馆发布亮剑视频",
+        "onboard_time": 1750599803,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 358967,
+        "num": 358967,
+        "word": "烧烤店花10万赞助苏超成唯一个体户",
+        "onboard_time": 1750597942,
+        "rank": 13,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 86990,
+        "num": 355189,
+        "word": "印尼粉红沙滩溺亡女子男友发声",
+        "onboard_time": 1750601483,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 530469,
+        "num": 354823,
+        "word": "表妹万福",
+        "onboard_time": 1750600103,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 437812,
+        "num": 354186,
+        "word": "庆余年3",
+        "onboard_time": 1750576162,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 352189,
+        "num": 352189,
+        "word": "伊朗向以色列发射其最强导弹",
+        "onboard_time": 1750578263,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 345569,
+        "num": 345569,
+        "word": "儿子救人去世妈妈看见同龄孩子哭晕",
+        "onboard_time": 1750593742,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328587,
+        "num": 328587,
+        "word": "Prada大秀",
+        "onboard_time": 1750595302,
+        "rank": 19,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 442008,
+        "num": 325469,
+        "word": "哥嫂要复婚要求小姑子迁走户口",
+        "onboard_time": 1750596022,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321577,
+        "num": 321577,
+        "word": "张若昀庆余年3官宣",
+        "onboard_time": 1750601603,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306268,
+        "num": 306268,
+        "word": "G社拍的登陆少年生图",
+        "onboard_time": 1750596922,
+        "rank": 22,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 303834,
+        "num": 303834,
+        "word": "肖战花苞袖",
+        "onboard_time": 1750595841,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267263,
+        "num": 267263,
+        "word": "特朗普特使喊话马斯克",
+        "onboard_time": 1750598482,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 262123,
+        "num": 262123,
+        "word": "美国袭击伊朗核设施",
+        "onboard_time": 1750551379,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 260116,
+        "num": 260116,
+        "word": "男子奸杀7岁女童前欠网贷心生烦躁",
+        "onboard_time": 1750586782,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246522,
+        "num": 246522,
+        "word": "北大退学上清华男生回应占名额质疑",
+        "onboard_time": 1750591341,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215183,
+        "num": 215183,
+        "word": "周震南 主播怎么穿吊带",
+        "onboard_time": 1750596502,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211716,
+        "num": 211716,
+        "word": "中国女排0比3意大利女排",
+        "onboard_time": 1750601544,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205411,
+        "num": 205411,
+        "word": "合肥通报女童隔窗向路人求助",
+        "onboard_time": 1750596683,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200145,
+        "num": 200145,
+        "word": "AG战胜TES",
+        "onboard_time": 1750601004,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 188394,
+        "num": 188394,
+        "word": "吴宣仪 给粉丝付钱好有魅力",
+        "onboard_time": 1750599082,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183078,
+        "num": 183078,
+        "word": "邓超五哈cue了Angelababy",
+        "onboard_time": 1750591283,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182593,
+        "num": 182593,
+        "word": "伊朗议会认为应关闭霍尔木兹海峡",
+        "onboard_time": 1750601965,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 179997,
+        "num": 179997,
+        "word": "中国女排vs意大利女排",
+        "onboard_time": 1750595662,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170373,
+        "num": 170373,
+        "word": "荔枝 便宜",
+        "onboard_time": 1750585881,
+        "rank": 36,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 162807,
+        "num": 162807,
+        "word": "0元见裴珠泫",
+        "onboard_time": 1750601123,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160109,
+        "num": 160109,
+        "word": "买39件衣服不能试穿回家发现穿不上",
+        "onboard_time": 1750580782,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155367,
+        "num": 155367,
+        "word": "we are 伐木累",
+        "onboard_time": 1750600762,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155317,
+        "num": 155317,
+        "word": "男子包上挖洞偷拍15名女性裙底",
+        "onboard_time": 1750601784,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153287,
+        "num": 153287,
+        "word": "广东疾控发文称狂犬病病死率接近100%",
+        "onboard_time": 1750595902,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150263,
+        "num": 150263,
+        "word": "王欣瑜柏林赛亚军",
+        "onboard_time": 1750596322,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145252,
+        "num": 145252,
+        "word": "河南未扶摔倒水中老人的民警被免职",
+        "onboard_time": 1750584681,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144035,
+        "num": 144035,
+        "word": "宋亚轩刘耀文张真源去王力宏演唱会",
+        "onboard_time": 1750597043,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139585,
+        "num": 139585,
+        "word": "央视曝光高端酱香老酒竟是酒精勾兑",
+        "onboard_time": 1750602084,
+        "rank": 45,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 137543,
+        "num": 137543,
+        "word": "你好星期六首次开启321看这边直播",
+        "onboard_time": 1750601004,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137052,
+        "num": 137052,
+        "word": "陈赫回复王勉",
+        "onboard_time": 1750600403,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135630,
+        "num": 135630,
+        "word": "品牌撤下那尔那茜物料",
+        "onboard_time": 1750596623,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135078,
+        "num": 135078,
+        "word": "五角大楼附近披萨店又爆单了",
+        "onboard_time": 1750591402,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#丝路友谊偕行致远#"
+    }
+  }
+}

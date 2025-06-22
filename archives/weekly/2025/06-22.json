@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750599827466,
+  "endTime": 1750602198709,
   "band_list": [
     {
       "raw_hot": 7413013,
@@ -121,6 +121,14 @@
       "onboard_time": 1750565603,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1140192,
+      "num": 680551,
+      "word": "韩国霸总王辉被爆塌房",
+      "onboard_time": 1750599143,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 1069068,
@@ -283,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 640698,
+      "num": 360042,
+      "word": "伊朗大使馆发布亮剑视频",
+      "onboard_time": 1750599803,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 638562,
       "num": 317484,
       "word": "美以伊都挺不住了所以美国发动袭击",
@@ -387,6 +403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 530469,
+      "num": 354823,
+      "word": "表妹万福",
+      "onboard_time": 1750600103,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 529897,
       "num": 529897,
       "word": "赘婿",
@@ -444,7 +468,7 @@
     },
     {
       "raw_hot": 489126,
-      "num": 303395,
+      "num": 325469,
       "word": "哥嫂要复婚要求小姑子迁走户口",
       "onboard_time": 1750596022,
       "rank": 33,
@@ -667,12 +691,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 390213,
-      "num": 390213,
-      "word": "韩国霸总王辉被爆塌房",
-      "onboard_time": 1750599143,
-      "rank": 27,
-      "category": "网红"
+      "raw_hot": 394614,
+      "num": 394614,
+      "word": "艾格努 球品",
+      "onboard_time": 1750599803,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 384407,
@@ -697,6 +721,22 @@
       "onboard_time": 1750521682,
       "rank": 16,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 370494,
+      "num": 370494,
+      "word": "男生被教官体罚做1000深蹲致换肾",
+      "onboard_time": 1750601004,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 358967,
+      "num": 358967,
+      "word": "烧烤店花10万赞助苏超成唯一个体户",
+      "onboard_time": 1750597942,
+      "rank": 30,
+      "category": "体育,民生新闻"
     },
     {
       "raw_hot": 354193,
@@ -763,14 +803,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 343005,
-      "num": 343005,
-      "word": "烧烤店花10万赞助苏超成唯一个体户",
-      "onboard_time": 1750597942,
-      "rank": 30,
-      "category": "体育,民生新闻"
-    },
-    {
       "raw_hot": 336762,
       "num": 336762,
       "word": "伊朗核设施遇袭现场",
@@ -809,6 +841,14 @@
       "onboard_time": 1750596922,
       "rank": 26,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 321577,
+      "num": 321577,
+      "word": "张若昀庆余年3官宣",
+      "onboard_time": 1750601603,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 321071,
@@ -1003,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 267263,
+      "num": 267263,
+      "word": "特朗普特使喊话马斯克",
+      "onboard_time": 1750598482,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 266141,
       "num": 517108,
       "word": "美国参战全球股市或有10个点的回撤",
@@ -1025,6 +1073,14 @@
       "onboard_time": 1750565663,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 262219,
+      "num": 370477,
+      "word": "伊朗超三分之一导弹没有被以军拦截",
+      "onboard_time": 1750601242,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 256148,
@@ -1211,6 +1267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 215183,
+      "num": 215183,
+      "word": "周震南 主播怎么穿吊带",
+      "onboard_time": 1750596502,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214962,
       "num": 393258,
       "word": "以军公布伊斯法罕核设施遇袭后画面",
@@ -1241,6 +1305,14 @@
       "onboard_time": 1750565723,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 211716,
+      "num": 211716,
+      "word": "中国女排0比3意大利女排",
+      "onboard_time": 1750601544,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 210009,
@@ -1281,6 +1353,14 @@
       "onboard_time": 1750568542,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205411,
+      "num": 205411,
+      "word": "合肥通报女童隔窗向路人求助",
+      "onboard_time": 1750596683,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 204301,
@@ -1339,14 +1419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 201613,
-      "num": 184404,
-      "word": "特朗普特使喊话马斯克",
-      "onboard_time": 1750598482,
-      "rank": 33,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 201042,
       "num": 201042,
       "word": "GW对战MRC",
@@ -1369,6 +1441,14 @@
       "onboard_time": 1750576882,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200145,
+      "num": 200145,
+      "word": "AG战胜TES",
+      "onboard_time": 1750601004,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 199426,
@@ -1499,6 +1579,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 188394,
+      "num": 188394,
+      "word": "吴宣仪 给粉丝付钱好有魅力",
+      "onboard_time": 1750599082,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187642,
       "num": 187642,
       "word": "也门胡塞武装发声",
@@ -1519,6 +1607,14 @@
       "num": 184717,
       "word": "胡塞武装称若美碰伊朗就打其军舰",
       "onboard_time": 1750554321,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 182593,
+      "num": 182593,
+      "word": "伊朗议会认为应关闭霍尔木兹海峡",
+      "onboard_time": 1750601965,
       "rank": 34,
       "category": "国际时政"
     },
@@ -1579,14 +1675,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 176246,
-      "num": 176246,
-      "word": "周震南 主播怎么穿吊带",
-      "onboard_time": 1750596502,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 174454,
       "num": 174454,
       "word": "成毅或将演两京十五日",
@@ -1643,14 +1731,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 171666,
-      "num": 171666,
-      "word": "合肥通报女童隔窗向路人求助",
-      "onboard_time": 1750596683,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 171466,
       "num": 171466,
       "word": "杨紫德令哈vlog",
@@ -1681,14 +1761,6 @@
       "onboard_time": 1750581322,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 168751,
-      "num": 168751,
-      "word": "吴宣仪 给粉丝付钱好有魅力",
-      "onboard_time": 1750599082,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 168700,
@@ -1787,6 +1859,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 162807,
+      "num": 162807,
+      "word": "0元见裴珠泫",
+      "onboard_time": 1750601123,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161021,
       "num": 158200,
       "word": "娄艺潇晒labubu",
@@ -1873,6 +1953,22 @@
       "onboard_time": 1750564703,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 155367,
+      "num": 155367,
+      "word": "we are 伐木累",
+      "onboard_time": 1750600762,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 155317,
+      "num": 155317,
+      "word": "男子包上挖洞偷拍15名女性裙底",
+      "onboard_time": 1750601784,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153503,
@@ -2043,20 +2139,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 140531,
-      "num": 140531,
-      "word": "伊朗大使馆发布亮剑视频",
-      "onboard_time": 1750599803,
-      "rank": 43,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 140242,
       "num": 140242,
       "word": "夏雪称网红助理月薪3000嫌贵",
       "onboard_time": 1750574901,
       "rank": 46,
       "category": "网红"
+    },
+    {
+      "raw_hot": 139585,
+      "num": 139585,
+      "word": "央视曝光高端酱香老酒竟是酒精勾兑",
+      "onboard_time": 1750602084,
+      "rank": 45,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 139126,
@@ -2081,6 +2177,22 @@
       "onboard_time": 1750566922,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137543,
+      "num": 137543,
+      "word": "你好星期六首次开启321看这边直播",
+      "onboard_time": 1750601004,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 137052,
+      "num": 137052,
+      "word": "陈赫回复王勉",
+      "onboard_time": 1750600403,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 136910,
@@ -2185,14 +2297,6 @@
       "onboard_time": 1750580421,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 131531,
-      "num": 131531,
-      "word": "艾格努 球品",
-      "onboard_time": 1750599803,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 128859,
@@ -2707,6 +2811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86990,
+      "num": 355189,
+      "word": "印尼粉红沙滩溺亡女子男友发声",
+      "onboard_time": 1750601483,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 86852,
       "num": 86852,
       "word": "大地之树",
@@ -2769,6 +2881,14 @@
       "onboard_time": 1750569382,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72187,
+      "num": 986098,
+      "word": "中国IP出海跑出加速度",
+      "onboard_time": 1750598122,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 71827,
@@ -2865,14 +2985,6 @@
       "onboard_time": 1750548858,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 54953,
-      "num": 986098,
-      "word": "中国IP出海跑出加速度",
-      "onboard_time": 1750598122,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 52509,
