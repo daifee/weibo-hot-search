@@ -1,0 +1,410 @@
+{
+  "runTime": 1750567020509,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6051677,
+        "num": 6051677,
+        "word": "尚公主官宣",
+        "onboard_time": 1750558340,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1279404,
+        "num": 1279404,
+        "word": "美国袭击伊朗核设施",
+        "onboard_time": 1750551379,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134152,
+        "num": 1096302,
+        "word": "今年下半年1380亿国补在路上了",
+        "onboard_time": 1750561824,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1010445,
+        "num": 1010445,
+        "word": "ABB式名字 容易火",
+        "onboard_time": 1750564224,
+        "rank": 3,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 892340,
+        "num": 892340,
+        "word": "尚公主造型 黄薇",
+        "onboard_time": 1750563024,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 376925,
+        "num": 746426,
+        "word": "上饶鄱阳县一中考返程大巴发生车祸",
+        "onboard_time": 1750561462,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 712507,
+        "num": 712507,
+        "word": "伊朗宣布将打击美在中东所有利益",
+        "onboard_time": 1750558942,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 635128,
+        "num": 635128,
+        "word": "李乃文 我们是PC来的",
+        "onboard_time": 1750564882,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208567,
+        "num": 517108,
+        "word": "美国参战全球股市或有10个点的回撤",
+        "onboard_time": 1750561883,
+        "rank": 8,
+        "category": "财经,国际时政"
+      },
+      {
+        "raw_hot": 362768,
+        "num": 484797,
+        "word": "伊朗宣布中东美军为合法目标",
+        "onboard_time": 1750558642,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 795611,
+        "num": 482035,
+        "word": "TFBOYS保密协议",
+        "onboard_time": 1750565603,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 465302,
+        "num": 465302,
+        "word": "隔夜蛋糕 好吃",
+        "onboard_time": 1750563561,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 348450,
+        "num": 348450,
+        "word": "林心如霍建华邱泽许玮甯聚会",
+        "onboard_time": 1750565242,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346982,
+        "num": 346982,
+        "word": "白宫公布特朗普在战情室照片",
+        "onboard_time": 1750564162,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 330922,
+        "num": 330922,
+        "word": "那尔那茜22岁户口随父迁出内蒙古",
+        "onboard_time": 1750565481,
+        "rank": 14,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 305266,
+        "num": 305266,
+        "word": "央视官宣迪丽热巴新剧",
+        "onboard_time": 1750561044,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236073,
+        "num": 300798,
+        "word": "西出玉门",
+        "onboard_time": 1750563561,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182971,
+        "num": 295760,
+        "word": "日本黑皮西瓜最高价一只3.4万元",
+        "onboard_time": 1750556361,
+        "rank": 17,
+        "category": "海外新闻,财经"
+      },
+      {
+        "raw_hot": 165315,
+        "num": 289665,
+        "word": "常州队教练大雨中跪地抱头",
+        "onboard_time": 1750563863,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44335,
+        "num": 283381,
+        "word": "特朗普向媒体介绍空袭细节",
+        "onboard_time": 1750566562,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 14600,
+        "num": 275923,
+        "word": "教育公平不容浑水摸鱼",
+        "onboard_time": 1750566623,
+        "rank": 20,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 256148,
+        "num": 266638,
+        "word": "特朗普继续警告伊朗",
+        "onboard_time": 1750563924,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 262384,
+        "num": 262384,
+        "word": "李晟李佳航一个没必要一个不需要",
+        "onboard_time": 1750565663,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258775,
+        "num": 258775,
+        "word": "伊朗",
+        "onboard_time": 1750562243,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 245934,
+        "num": 245934,
+        "word": "老爸买下整车labubu送女儿",
+        "onboard_time": 1750558162,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211738,
+        "num": 245710,
+        "word": "周杰伦演唱会",
+        "onboard_time": 1750565723,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 219662,
+        "num": 245442,
+        "word": "你好星期六合照回忆杀",
+        "onboard_time": 1750565784,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162283,
+        "num": 245117,
+        "word": "许家印前妻被曝5亿买33套伦敦豪宅",
+        "onboard_time": 1750551379,
+        "rank": 27,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 116698,
+        "num": 244457,
+        "word": "赵一曼和儿子唯一一张合影",
+        "onboard_time": 1750566022,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244428,
+        "num": 244428,
+        "word": "美称预计不会对伊朗发动后续袭击",
+        "onboard_time": 1750556361,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 243420,
+        "num": 243420,
+        "word": "最壮观的荔枝树",
+        "onboard_time": 1750563443,
+        "rank": 30,
+        "category": "旅游,民生新闻"
+      },
+      {
+        "raw_hot": 233797,
+        "num": 233797,
+        "word": "美军B2轰炸机袭击伊朗核设施",
+        "onboard_time": 1750556301,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 233336,
+        "num": 233336,
+        "word": "伊媒发布福尔多核设施遭袭后画面",
+        "onboard_time": 1750561223,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 198916,
+        "num": 198916,
+        "word": "昭昭墨墨",
+        "onboard_time": 1750562004,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194262,
+        "num": 194262,
+        "word": "尚公主",
+        "onboard_time": 1750488141,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192406,
+        "num": 192406,
+        "word": "吴彤把在场的人都说哭了",
+        "onboard_time": 1750566143,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180910,
+        "num": 180910,
+        "word": "孟子义李昀锐合作的第3部剧",
+        "onboard_time": 1750521864,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179061,
+        "num": 179061,
+        "word": "伊朗核设施遇袭现场",
+        "onboard_time": 1750559301,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 171466,
+        "num": 171466,
+        "word": "杨紫德令哈vlog",
+        "onboard_time": 1750564822,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113400,
+        "num": 169360,
+        "word": "小伙用上百只Labubu求婚拿下爱情",
+        "onboard_time": 1750563863,
+        "rank": 39,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 169179,
+        "num": 169179,
+        "word": "房东的猫拍了撕拉片",
+        "onboard_time": 1750566802,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164716,
+        "num": 164716,
+        "word": "于小彤晋江式渣男",
+        "onboard_time": 1750566143,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158207,
+        "num": 158207,
+        "word": "伊朗马汉航空明起恢复到中国航班",
+        "onboard_time": 1750565543,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 157733,
+        "num": 157733,
+        "word": "感觉减肥的人变少了",
+        "onboard_time": 1750564042,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 153404,
+        "num": 153404,
+        "word": "我不在意你了我在意大利了",
+        "onboard_time": 1750566442,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152986,
+        "num": 152986,
+        "word": "特朗普称打击伊朗3处核设施",
+        "onboard_time": 1750551379,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151521,
+        "num": 151521,
+        "word": "四季民福 排队",
+        "onboard_time": 1750566262,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 146460,
+        "num": 146460,
+        "word": "发型对形象的影响",
+        "onboard_time": 1750566082,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 96730,
+        "num": 138837,
+        "word": "孙颖莎的凝视",
+        "onboard_time": 1750560982,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137868,
+        "num": 137868,
+        "word": "Capper19岁就喊话了盛宇",
+        "onboard_time": 1750566922,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#3句话讲清习主席中亚之行的深远意义#"
+    }
+  }
+}

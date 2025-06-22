@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750565190297,
+  "endTime": 1750567020509,
   "band_list": [
     {
       "raw_hot": 7413013,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1010445,
+      "num": 1010445,
+      "word": "ABB式名字 容易火",
+      "onboard_time": 1750564224,
+      "rank": 30,
+      "category": "休闲,动漫"
+    },
+    {
       "raw_hot": 969767,
       "num": 969767,
       "word": "伊朗宣布将打击美在中东所有利益",
@@ -65,6 +73,14 @@
       "onboard_time": 1750556361,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 795611,
+      "num": 482035,
+      "word": "TFBOYS保密协议",
+      "onboard_time": 1750565603,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 781349,
@@ -104,6 +120,14 @@
       "word": "韩红痛斥歌手耳机里都是提示音",
       "onboard_time": 1750515085,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 635128,
+      "num": 635128,
+      "word": "李乃文 我们是PC来的",
+      "onboard_time": 1750564882,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -220,7 +244,7 @@
     },
     {
       "raw_hot": 442309,
-      "num": 442309,
+      "num": 484797,
       "word": "伊朗宣布中东美军为合法目标",
       "onboard_time": 1750558642,
       "rank": 19,
@@ -299,14 +323,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 396099,
-      "num": 396099,
-      "word": "ABB式名字 容易火",
-      "onboard_time": 1750564224,
-      "rank": 30,
-      "category": "休闲,动漫"
-    },
-    {
       "raw_hot": 372229,
       "num": 372229,
       "word": "巴西热气球坠落8人死亡",
@@ -323,6 +339,22 @@
       "category": "艺人,辟谣/通报"
     },
     {
+      "raw_hot": 348450,
+      "num": 348450,
+      "word": "林心如霍建华邱泽许玮甯聚会",
+      "onboard_time": 1750565242,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 346982,
+      "num": 346982,
+      "word": "白宫公布特朗普在战情室照片",
+      "onboard_time": 1750564162,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 336762,
       "num": 336762,
       "word": "伊朗核设施遇袭现场",
@@ -337,6 +369,14 @@
       "onboard_time": 1750557202,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 330922,
+      "num": 330922,
+      "word": "那尔那茜22岁户口随父迁出内蒙古",
+      "onboard_time": 1750565481,
+      "rank": 14,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 321071,
@@ -436,7 +476,7 @@
     },
     {
       "raw_hot": 266141,
-      "num": 456211,
+      "num": 517108,
       "word": "美国参战全球股市或有10个点的回撤",
       "onboard_time": 1750561883,
       "rank": 8,
@@ -448,6 +488,30 @@
       "word": "美国向伊朗核设施发射30枚战斧导弹",
       "onboard_time": 1750556482,
       "rank": 23,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 262384,
+      "num": 262384,
+      "word": "李晟李佳航一个没必要一个不需要",
+      "onboard_time": 1750565663,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 258775,
+      "num": 258775,
+      "word": "伊朗",
+      "onboard_time": 1750562243,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 256148,
+      "num": 449060,
+      "word": "特朗普继续警告伊朗",
+      "onboard_time": 1750563924,
+      "rank": 9,
       "category": "国际时政"
     },
     {
@@ -483,14 +547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 243670,
-      "num": 226186,
-      "word": "伊朗",
-      "onboard_time": 1750562243,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 230458,
       "num": 244459,
       "word": "27岁女子1天3杯奶茶抽出牛奶血",
@@ -523,6 +579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 219662,
+      "num": 245442,
+      "word": "你好星期六合照回忆杀",
+      "onboard_time": 1750565784,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 215995,
       "num": 215995,
       "word": "上戏内蒙古委培班2021年终止招生",
@@ -547,6 +611,14 @@
       "category": "民生新闻,休闲"
     },
     {
+      "raw_hot": 211738,
+      "num": 245710,
+      "word": "周杰伦演唱会",
+      "onboard_time": 1750565723,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 210009,
       "num": 210009,
       "word": "酱园弄",
@@ -563,28 +635,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 205715,
-      "num": 283740,
-      "word": "李乃文 我们是PC来的",
-      "onboard_time": 1750564882,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 201898,
       "num": 201898,
       "word": "嗑昀牵孟绕 天生好命",
       "onboard_time": 1750563924,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 201033,
-      "num": 201033,
-      "word": "白宫公布特朗普在战情室照片",
-      "onboard_time": 1750564162,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 200623,
@@ -616,6 +672,14 @@
       "word": "黄子韬在非洲没时间看diss",
       "onboard_time": 1750563082,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 192406,
+      "num": 192406,
+      "word": "吴彤把在场的人都说哭了",
+      "onboard_time": 1750566143,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -683,14 +747,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 175727,
-      "num": 449060,
-      "word": "特朗普继续警告伊朗",
-      "onboard_time": 1750563924,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 174259,
       "num": 361731,
       "word": "女子货车内休息被冲走失联超2天",
@@ -707,12 +763,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 167847,
-      "num": 167847,
+      "raw_hot": 171466,
+      "num": 171466,
       "word": "杨紫德令哈vlog",
       "onboard_time": 1750564822,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169179,
+      "num": 169179,
+      "word": "房东的猫拍了撕拉片",
+      "onboard_time": 1750566802,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 165113,
@@ -739,12 +803,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164716,
+      "num": 164716,
+      "word": "于小彤晋江式渣男",
+      "onboard_time": 1750566143,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158894,
       "num": 158894,
       "word": "临江仙结局",
       "onboard_time": 1750502001,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158207,
+      "num": 158207,
+      "word": "伊朗马汉航空明起恢复到中国航班",
+      "onboard_time": 1750565543,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 155449,
@@ -763,12 +843,28 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 153404,
+      "num": 153404,
+      "word": "我不在意你了我在意大利了",
+      "onboard_time": 1750566442,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153390,
       "num": 153390,
       "word": "李晟我最好的朋友是我的爱人",
       "onboard_time": 1750565002,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151521,
+      "num": 151521,
+      "word": "四季民福 排队",
+      "onboard_time": 1750566262,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 150577,
@@ -793,6 +889,14 @@
       "onboard_time": 1750564462,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146460,
+      "num": 146460,
+      "word": "发型对形象的影响",
+      "onboard_time": 1750566082,
+      "rank": 47,
+      "category": "美妆"
     },
     {
       "raw_hot": 145397,
@@ -835,8 +939,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137868,
+      "num": 137868,
+      "word": "Capper19岁就喊话了盛宇",
+      "onboard_time": 1750566922,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136910,
-      "num": 136910,
+      "num": 138837,
       "word": "孙颖莎的凝视",
       "onboard_time": 1750560982,
       "rank": 48,
@@ -849,6 +961,14 @@
       "onboard_time": 1750522463,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 134152,
+      "num": 1305512,
+      "word": "今年下半年1380亿国补在路上了",
+      "onboard_time": 1750561824,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133442,
@@ -865,14 +985,6 @@
       "onboard_time": 1750519644,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 131365,
-      "num": 1305512,
-      "word": "今年下半年1380亿国补在路上了",
-      "onboard_time": 1750561824,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128689,
@@ -936,6 +1048,14 @@
       "word": "Labubu在二手市场价格暴跌",
       "onboard_time": 1750510884,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116698,
+      "num": 244457,
+      "word": "赵一曼和儿子唯一一张合影",
+      "onboard_time": 1750566022,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -1203,6 +1323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 44335,
+      "num": 283381,
+      "word": "特朗普向媒体介绍空袭细节",
+      "onboard_time": 1750566562,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 44029,
       "num": 91851,
       "word": "伊官员说伊朗准备了很多选项",
@@ -1377,6 +1505,14 @@
       "onboard_time": 1750536674,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 14600,
+      "num": 275923,
+      "word": "教育公平不容浑水摸鱼",
+      "onboard_time": 1750566623,
+      "rank": 20,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 14421,
