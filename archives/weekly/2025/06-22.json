@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750614146439,
+  "endTime": 1750617223489,
   "band_list": [
     {
       "raw_hot": 7413013,
@@ -3235,6 +3235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 71126,
+      "num": 71126,
+      "word": "AI修图",
+      "onboard_time": 1750613960,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 67699,
       "num": 67699,
       "word": "向太说自己和郭碧婷的个性很像",
@@ -3499,6 +3507,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 36380,
+      "num": 33637,
+      "word": "被狗咬后未就医3个月后发病去世",
+      "onboard_time": 1750616536,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36339,
       "num": 1632659,
       "word": "一组数据看懂中国外资吸引力",
@@ -3531,12 +3547,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 32339,
-      "num": 38317,
-      "word": "AI修图",
-      "onboard_time": 1750613960,
-      "rank": 49,
-      "category": "互联网"
+      "raw_hot": 32644,
+      "num": 32644,
+      "word": "大批伊朗民众集会高呼反美口号",
+      "onboard_time": 1750615099,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 32326,
@@ -3571,12 +3587,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 29488,
+      "num": 29488,
+      "word": "中国网协祝贺王欣瑜晋级决赛",
+      "onboard_time": 1750614444,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29062,
       "num": 1043248,
       "word": "新一代人才与AI共生共长",
       "onboard_time": 1750582282,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 28663,
+      "num": 30937,
+      "word": "伊朗外长表态",
+      "onboard_time": 1750614626,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 28500,
@@ -3632,6 +3664,22 @@
       "word": "种地吧",
       "onboard_time": 1750534035,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 23499,
+      "num": 25262,
+      "word": "何浩楠直播",
+      "onboard_time": 1750616657,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 23132,
+      "num": 25261,
+      "word": "丁真发长文告别无限超越班",
+      "onboard_time": 1750614504,
+      "rank": 49,
       "category": "综艺"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1750617223489,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 293527,
+        "num": 293527,
+        "word": "杜兰特",
+        "onboard_time": 1750612518,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187100,
+        "num": 187100,
+        "word": "泡泡玛特回应姚晨晒限量版Labubu",
+        "onboard_time": 1750589063,
+        "rank": 1,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 9936,
+        "num": 106023,
+        "word": "神二十航天员进驻空间站即将满两个月",
+        "onboard_time": 1750598062,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102740,
+        "num": 102740,
+        "word": "韩国霸总王辉被爆塌房",
+        "onboard_time": 1750599143,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 92936,
+        "num": 92936,
+        "word": "高考查分 紧张",
+        "onboard_time": 1750583962,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 83857,
+        "num": 83857,
+        "word": "伊朗超三分之一导弹没有被以军拦截",
+        "onboard_time": 1750601242,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 71126,
+        "num": 71126,
+        "word": "AI修图",
+        "onboard_time": 1750613960,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 64598,
+        "num": 64598,
+        "word": "徐明浩说不喜欢跳楼机",
+        "onboard_time": 1750596742,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60569,
+        "num": 60569,
+        "word": "最难喝的奶茶",
+        "onboard_time": 1750593320,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 60480,
+        "num": 60480,
+        "word": "男生被教官体罚做1000深蹲致换肾",
+        "onboard_time": 1750601004,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256490,
+        "num": 60094,
+        "word": "伊朗给全世界打了个样",
+        "onboard_time": 1750604304,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 233442,
+        "num": 57698,
+        "word": "王勉 易梦玲",
+        "onboard_time": 1750585942,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92935,
+        "num": 55789,
+        "word": "霍尔木兹海峡",
+        "onboard_time": 1750605085,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 74922,
+        "num": 54758,
+        "word": "蜜雪冰城房塌了",
+        "onboard_time": 1750575561,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 54187,
+        "num": 54187,
+        "word": "最近的韩剧男主颜值",
+        "onboard_time": 1750606464,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53777,
+        "num": 53777,
+        "word": "GAI说歌手拿了第七我挺不爽的",
+        "onboard_time": 1750602743,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50991,
+        "num": 50991,
+        "word": "男子奸杀7岁女童前欠网贷心生烦躁",
+        "onboard_time": 1750586782,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50219,
+        "num": 50219,
+        "word": "庆余年3",
+        "onboard_time": 1750576162,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45978,
+        "num": 45978,
+        "word": "王欣瑜仍创造中国女网历史",
+        "onboard_time": 1750607543,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45672,
+        "num": 45672,
+        "word": "迪丽热巴工作室 还不出图",
+        "onboard_time": 1750606523,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55568,
+        "num": 45611,
+        "word": "哥嫂要复婚要求小姑子迁走户口",
+        "onboard_time": 1750596022,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42339,
+        "num": 42339,
+        "word": "行止晚",
+        "onboard_time": 1750606402,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39697,
+        "num": 39697,
+        "word": "以色列和伊朗手里还有多少底牌",
+        "onboard_time": 1750610539,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 38750,
+        "num": 38750,
+        "word": "张泽禹 带id自取",
+        "onboard_time": 1750604843,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37849,
+        "num": 37849,
+        "word": "请记住她叫刘名芳",
+        "onboard_time": 1750607061,
+        "rank": 24,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 36626,
+        "num": 36626,
+        "word": "虞书欣说不会参加浪姐",
+        "onboard_time": 1750606523,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36542,
+        "num": 36542,
+        "word": "鹿晗红帽素颜彩排照",
+        "onboard_time": 1750612518,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 35833,
+        "num": 35833,
+        "word": "马嘉祺歌手第一期备选了6首歌",
+        "onboard_time": 1750608321,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34742,
+        "num": 34742,
+        "word": "Prada大秀",
+        "onboard_time": 1750595302,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 32208,
+        "num": 33688,
+        "word": "央视曝光高端酱香老酒竟是酒精勾兑",
+        "onboard_time": 1750602084,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 36380,
+        "num": 33637,
+        "word": "被狗咬后未就医3个月后发病去世",
+        "onboard_time": 1750616536,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33372,
+        "num": 33372,
+        "word": "品牌撤下那尔那茜物料",
+        "onboard_time": 1750596623,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32644,
+        "num": 32644,
+        "word": "大批伊朗民众集会高呼反美口号",
+        "onboard_time": 1750615099,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28663,
+        "num": 30937,
+        "word": "伊朗外长表态",
+        "onboard_time": 1750614626,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 30696,
+        "num": 30696,
+        "word": "白玉兰 提携新人",
+        "onboard_time": 1750596803,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30323,
+        "num": 30323,
+        "word": "广东疾控发文称狂犬病病死率接近100%",
+        "onboard_time": 1750595902,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29574,
+        "num": 29574,
+        "word": "肖战美貌受害者加一",
+        "onboard_time": 1750605204,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29488,
+        "num": 29488,
+        "word": "中国网协祝贺王欣瑜晋级决赛",
+        "onboard_time": 1750614444,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29057,
+        "num": 29057,
+        "word": "中学领导侵吞学生伙食费240万元",
+        "onboard_time": 1750604485,
+        "rank": 38,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 28797,
+        "num": 28797,
+        "word": "迪丽热巴东方美人look",
+        "onboard_time": 1750609701,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28687,
+        "num": 28687,
+        "word": "伊朗大使馆发布亮剑视频",
+        "onboard_time": 1750599803,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28009,
+        "num": 28009,
+        "word": "伊朗议会认为应关闭霍尔木兹海峡",
+        "onboard_time": 1750601965,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26447,
+        "num": 26447,
+        "word": "伊朗向以色列发射其最强导弹",
+        "onboard_time": 1750578263,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26030,
+        "num": 26030,
+        "word": "张艺兴直播夜游探险",
+        "onboard_time": 1750606402,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25927,
+        "num": 25927,
+        "word": "张晚意追的歌手竟被淘汰",
+        "onboard_time": 1750602264,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25367,
+        "num": 25367,
+        "word": "邓超五哈cue了Angelababy",
+        "onboard_time": 1750591283,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25271,
+        "num": 25271,
+        "word": "中国女排0比3意大利女排",
+        "onboard_time": 1750601544,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23640,
+        "num": 25267,
+        "word": "酱园弄悬案王传君一人分饰16角",
+        "onboard_time": 1750606102,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23499,
+        "num": 25262,
+        "word": "何浩楠直播",
+        "onboard_time": 1750616657,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23132,
+        "num": 25261,
+        "word": "丁真发长文告别无限超越班",
+        "onboard_time": 1750614504,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国人要把饭碗端在自己手里#"
+    }
+  }
+}
