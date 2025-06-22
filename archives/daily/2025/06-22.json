@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750596454990,
+  "endTime": 1750597381349,
   "band_list": [
     {
       "raw_hot": 7413013,
@@ -59,6 +59,14 @@
       "category": "艺人,休闲"
     },
     {
+      "raw_hot": 1836384,
+      "num": 1836384,
+      "word": "Prada大秀",
+      "onboard_time": 1750595302,
+      "rank": 1,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 1747665,
       "num": 1747665,
       "word": "庆余年3",
@@ -81,14 +89,6 @@
       "onboard_time": 1750580782,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1591254,
-      "num": 1591254,
-      "word": "Prada大秀",
-      "onboard_time": 1750595302,
-      "rank": 1,
-      "category": "时尚"
     },
     {
       "raw_hot": 1532491,
@@ -155,6 +155,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 861101,
+      "num": 861101,
+      "word": "儿子救人去世妈妈看见同龄孩子哭晕",
+      "onboard_time": 1750593742,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 844659,
+      "num": 844659,
+      "word": "最难喝的奶茶",
+      "onboard_time": 1750593320,
+      "rank": 4,
+      "category": "美食"
+    },
+    {
       "raw_hot": 838894,
       "num": 838894,
       "word": "中央发布公职人员违规吃喝认定标准",
@@ -185,14 +201,6 @@
       "onboard_time": 1750556301,
       "rank": 6,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 752530,
-      "num": 752530,
-      "word": "最难喝的奶茶",
-      "onboard_time": 1750593320,
-      "rank": 4,
-      "category": "美食"
     },
     {
       "raw_hot": 740436,
@@ -249,14 +257,6 @@
       "onboard_time": 1750580122,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 656204,
-      "num": 656204,
-      "word": "儿子救人去世妈妈看见同龄孩子哭晕",
-      "onboard_time": 1750593742,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 651651,
@@ -436,7 +436,7 @@
     },
     {
       "raw_hot": 482282,
-      "num": 387256,
+      "num": 399118,
       "word": "五角大楼附近披萨店又爆单了",
       "onboard_time": 1750591402,
       "rank": 29,
@@ -555,6 +555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 424712,
+      "num": 424712,
+      "word": "徐明浩说不喜欢跳楼机",
+      "onboard_time": 1750596742,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 421942,
       "num": 288386,
       "word": "11岁女孩长期积食身高定格145",
@@ -643,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 383075,
+      "num": 383075,
+      "word": "肖战花苞袖",
+      "onboard_time": 1750595841,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 377929,
       "num": 369652,
       "word": "杨紫差点让胡歌提前杀青",
@@ -665,6 +681,14 @@
       "onboard_time": 1750516526,
       "rank": 20,
       "category": "艺人,辟谣/通报"
+    },
+    {
+      "raw_hot": 353474,
+      "num": 353474,
+      "word": "王欣瑜柏林赛亚军",
+      "onboard_time": 1750596322,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 352316,
@@ -753,14 +777,6 @@
       "onboard_time": 1750519285,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 317673,
-      "num": 317673,
-      "word": "肖战花苞袖",
-      "onboard_time": 1750595841,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 315687,
@@ -915,6 +931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 278611,
+      "num": 278611,
+      "word": "哥嫂要复婚要求小姑子迁走户口",
+      "onboard_time": 1750596022,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 274313,
       "num": 713338,
       "word": "以色列升级全国戒备状态",
@@ -937,6 +961,14 @@
       "onboard_time": 1750591943,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270471,
+      "num": 270471,
+      "word": "白玉兰 提携新人",
+      "onboard_time": 1750596803,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 266141,
@@ -1097,6 +1129,14 @@
       "onboard_time": 1750579401,
       "rank": 30,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 221972,
+      "num": 221972,
+      "word": "G社拍的登陆少年生图",
+      "onboard_time": 1750596922,
+      "rank": 26,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 220048,
@@ -1371,6 +1411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191456,
+      "num": 191456,
+      "word": "广东疾控发文称狂犬病病死率接近100%",
+      "onboard_time": 1750595902,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191440,
       "num": 191440,
       "word": "白鹿曾舜晞奔跑吧合照",
@@ -1401,6 +1449,14 @@
       "onboard_time": 1750562424,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189107,
+      "num": 189107,
+      "word": "林志颖和10岁儿子演唱会合唱",
+      "onboard_time": 1750596502,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 187642,
@@ -1475,6 +1531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176246,
+      "num": 176246,
+      "word": "周震南 主播怎么穿吊带",
+      "onboard_time": 1750596502,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174454,
       "num": 174454,
       "word": "成毅或将演两京十五日",
@@ -1515,12 +1579,12 @@
       "category": "艺人,休闲"
     },
     {
-      "raw_hot": 172238,
-      "num": 172238,
-      "word": "哥嫂要复婚要求小姑子迁走户口",
-      "onboard_time": 1750596022,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 172248,
+      "num": 172248,
+      "word": "苏超抢票",
+      "onboard_time": 1750595961,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 171876,
@@ -1529,6 +1593,22 @@
       "onboard_time": 1750591881,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 171666,
+      "num": 171666,
+      "word": "合肥通报女童隔窗向路人求助",
+      "onboard_time": 1750596683,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171591,
+      "num": 171591,
+      "word": "宋亚轩刘耀文张真源去王力宏演唱会",
+      "onboard_time": 1750597043,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 171466,
@@ -1563,12 +1643,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 168856,
-      "num": 168856,
-      "word": "广东疾控发文称狂犬病病死率接近100%",
-      "onboard_time": 1750595902,
-      "rank": 34,
-      "category": "民生新闻"
+      "raw_hot": 168700,
+      "num": 168700,
+      "word": "成毅赴山海明天有新物料",
+      "onboard_time": 1750596922,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 167871,
+      "num": 167871,
+      "word": "蒲熠星 正在商量武汉能不能加一场",
+      "onboard_time": 1750596202,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 167608,
@@ -1641,14 +1729,6 @@
       "onboard_time": 1750569141,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 163385,
-      "num": 225812,
-      "word": "王欣瑜柏林赛亚军",
-      "onboard_time": 1750596322,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 161021,
@@ -1867,6 +1947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142840,
+      "num": 142840,
+      "word": "品牌撤下那尔那茜物料",
+      "onboard_time": 1750596623,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142767,
       "num": 142767,
       "word": "苏超赛后球迷自发捡垃圾",
@@ -1897,14 +1985,6 @@
       "onboard_time": 1750577121,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 140351,
-      "num": 140351,
-      "word": "苏超抢票",
-      "onboard_time": 1750595961,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 140273,
@@ -1960,14 +2040,6 @@
       "word": "张杰未live巡回演唱会",
       "onboard_time": 1750522463,
       "rank": 39,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 134329,
-      "num": 134329,
-      "word": "蒲熠星 正在商量武汉能不能加一场",
-      "onboard_time": 1750596202,
-      "rank": 40,
       "category": "演出"
     },
     {
@@ -2049,6 +2121,14 @@
       "onboard_time": 1750580421,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129442,
+      "num": 301344,
+      "word": "迪丽热巴茉莉花公主驾到",
+      "onboard_time": 1750596082,
+      "rank": 18,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 128859,
@@ -2323,14 +2403,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 110898,
-      "num": 301344,
-      "word": "迪丽热巴茉莉花公主驾到",
-      "onboard_time": 1750596082,
-      "rank": 18,
-      "category": "艺人,作品衍生"
-    },
-    {
       "raw_hot": 110226,
       "num": 301938,
       "word": "留英博士性侵被判终身监禁背后",
@@ -2393,6 +2465,14 @@
       "onboard_time": 1750563803,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 101822,
+      "num": 101822,
+      "word": "陈冠希秦舒培带女儿海边度假",
+      "onboard_time": 1750596202,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 100398,
@@ -2883,6 +2963,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 29062,
+      "num": 1043248,
+      "word": "新一代人才与AI共生共长",
+      "onboard_time": 1750582282,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 28500,
       "num": 28500,
       "word": "陶喆长沙演唱会",
@@ -2897,14 +2985,6 @@
       "onboard_time": 1750530435,
       "rank": 46,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 26971,
-      "num": 1043248,
-      "word": "新一代人才与AI共生共长",
-      "onboard_time": 1750582282,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 26387,

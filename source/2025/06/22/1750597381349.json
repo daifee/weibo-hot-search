@@ -1,0 +1,410 @@
+{
+  "runTime": 1750597381349,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1836384,
+        "num": 1836384,
+        "word": "Prada大秀",
+        "onboard_time": 1750595302,
+        "rank": 0,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 1400126,
+        "num": 1400126,
+        "word": "泡泡玛特回应姚晨晒限量版Labubu",
+        "onboard_time": 1750589063,
+        "rank": 1,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 29062,
+        "num": 948101,
+        "word": "新一代人才与AI共生共长",
+        "onboard_time": 1750582282,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 889433,
+        "num": 889433,
+        "word": "高考查分 紧张",
+        "onboard_time": 1750583962,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 861101,
+        "num": 861101,
+        "word": "儿子救人去世妈妈看见同龄孩子哭晕",
+        "onboard_time": 1750593742,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 844659,
+        "num": 844659,
+        "word": "最难喝的奶茶",
+        "onboard_time": 1750593320,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 564050,
+        "num": 564050,
+        "word": "北大退学上清华男生回应占名额质疑",
+        "onboard_time": 1750591341,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 499058,
+        "num": 499058,
+        "word": "庆余年3",
+        "onboard_time": 1750576162,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 432973,
+        "num": 432973,
+        "word": "伊朗向以色列发射其最强导弹",
+        "onboard_time": 1750578263,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 424712,
+        "num": 424712,
+        "word": "徐明浩说不喜欢跳楼机",
+        "onboard_time": 1750596742,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1480836,
+        "num": 419573,
+        "word": "王勉 易梦玲",
+        "onboard_time": 1750585942,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 665310,
+        "num": 406242,
+        "word": "蜜雪冰城房塌了",
+        "onboard_time": 1750575561,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 473710,
+        "num": 399118,
+        "word": "五角大楼附近披萨店又爆单了",
+        "onboard_time": 1750591402,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 383075,
+        "num": 383075,
+        "word": "肖战花苞袖",
+        "onboard_time": 1750595841,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 368276,
+        "num": 368276,
+        "word": "外交部回应美国打击伊朗核设施",
+        "onboard_time": 1750591341,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 353474,
+        "num": 353474,
+        "word": "王欣瑜柏林赛亚军",
+        "onboard_time": 1750596322,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 310796,
+        "num": 310796,
+        "word": "邓超五哈cue了Angelababy",
+        "onboard_time": 1750591283,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302907,
+        "num": 302907,
+        "word": "美国袭击伊朗核设施",
+        "onboard_time": 1750551379,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 297647,
+        "num": 297647,
+        "word": "杨幂主演票房破80亿",
+        "onboard_time": 1750595242,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129442,
+        "num": 287336,
+        "word": "迪丽热巴茉莉花公主驾到",
+        "onboard_time": 1750596082,
+        "rank": 19,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 302769,
+        "num": 286888,
+        "word": "男子奸杀7岁女童前欠网贷心生烦躁",
+        "onboard_time": 1750586782,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278611,
+        "num": 278611,
+        "word": "哥嫂要复婚要求小姑子迁走户口",
+        "onboard_time": 1750596022,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270471,
+        "num": 270471,
+        "word": "白玉兰 提携新人",
+        "onboard_time": 1750596803,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231353,
+        "num": 231353,
+        "word": "买39件衣服不能试穿回家发现穿不上",
+        "onboard_time": 1750580782,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230082,
+        "num": 230082,
+        "word": "河南未扶摔倒水中老人的民警被免职",
+        "onboard_time": 1750584681,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226014,
+        "num": 226014,
+        "word": "云包场赔罪",
+        "onboard_time": 1750592243,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221972,
+        "num": 221972,
+        "word": "G社拍的登陆少年生图",
+        "onboard_time": 1750596922,
+        "rank": 26,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 204419,
+        "num": 204419,
+        "word": "尚公主官宣",
+        "onboard_time": 1750558340,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195634,
+        "num": 195634,
+        "word": "马景涛报平安请大家放心",
+        "onboard_time": 1750595543,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191456,
+        "num": 191456,
+        "word": "广东疾控发文称狂犬病病死率接近100%",
+        "onboard_time": 1750595902,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189107,
+        "num": 189107,
+        "word": "林志颖和10岁儿子演唱会合唱",
+        "onboard_time": 1750596502,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184024,
+        "num": 184024,
+        "word": "中国女排vs意大利女排",
+        "onboard_time": 1750595662,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180669,
+        "num": 180669,
+        "word": "荔枝 便宜",
+        "onboard_time": 1750585881,
+        "rank": 32,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 176246,
+        "num": 176246,
+        "word": "周震南 主播怎么穿吊带",
+        "onboard_time": 1750596502,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172248,
+        "num": 172248,
+        "word": "苏超抢票",
+        "onboard_time": 1750595961,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171666,
+        "num": 171666,
+        "word": "合肥通报女童隔窗向路人求助",
+        "onboard_time": 1750596683,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171591,
+        "num": 171591,
+        "word": "宋亚轩刘耀文张真源去王力宏演唱会",
+        "onboard_time": 1750597043,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168700,
+        "num": 168700,
+        "word": "成毅赴山海明天有新物料",
+        "onboard_time": 1750596922,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167871,
+        "num": 167871,
+        "word": "蒲熠星 正在商量武汉能不能加一场",
+        "onboard_time": 1750596202,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 164183,
+        "num": 164183,
+        "word": "你见过最冷门的姓是什么",
+        "onboard_time": 1750589302,
+        "rank": 39,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 142840,
+        "num": 142840,
+        "word": "品牌撤下那尔那茜物料",
+        "onboard_time": 1750596623,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138215,
+        "num": 138215,
+        "word": "wichu",
+        "onboard_time": 1750591162,
+        "rank": 41,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 137495,
+        "num": 137495,
+        "word": "海关每天都在抓Lafufu",
+        "onboard_time": 1750593502,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131979,
+        "num": 131979,
+        "word": "中方呼吁以色列尽快停火",
+        "onboard_time": 1750593922,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120520,
+        "num": 120520,
+        "word": "真的建议吃烤肉时配紫苏",
+        "onboard_time": 1750590800,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108494,
+        "num": 108494,
+        "word": "北京迎今年来最热一天",
+        "onboard_time": 1750596322,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107940,
+        "num": 107940,
+        "word": "曝长剧老板为金丝雀开短剧公司",
+        "onboard_time": 1750585942,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105534,
+        "num": 105534,
+        "word": "美以伊都挺不住了所以美国发动袭击",
+        "onboard_time": 1750581140,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101822,
+        "num": 101822,
+        "word": "陈冠希秦舒培带女儿海边度假",
+        "onboard_time": 1750596202,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100745,
+        "num": 100745,
+        "word": "陈赫问王勉和谁逛街",
+        "onboard_time": 1750580122,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温红船精神#"
+    }
+  }
+}
