@@ -1,0 +1,410 @@
+{
+  "runTime": 1750587984761,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1849384,
+        "num": 1849384,
+        "word": "高考查分 紧张",
+        "onboard_time": 1750583962,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 807823,
+        "num": 807823,
+        "word": "买39件衣服不能试穿回家发现穿不上",
+        "onboard_time": 1750580782,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36542,
+        "num": 727152,
+        "word": "夏日青山绿水间清凉感拉满",
+        "onboard_time": 1750582462,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 725120,
+        "num": 725120,
+        "word": "庆余年3",
+        "onboard_time": 1750576162,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 620374,
+        "num": 620374,
+        "word": "河南未扶摔倒水中老人的民警被免职",
+        "onboard_time": 1750584681,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 568167,
+        "num": 568167,
+        "word": "伊朗向以色列发射其最强导弹",
+        "onboard_time": 1750578263,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 547187,
+        "num": 547187,
+        "word": "尚公主官宣",
+        "onboard_time": 1750558340,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 417053,
+        "num": 417053,
+        "word": "姚晨称labubu是人生中唯一盈利的投资",
+        "onboard_time": 1750569622,
+        "rank": 7,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 330858,
+        "num": 330858,
+        "word": "美国袭击伊朗核设施",
+        "onboard_time": 1750551379,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 234241,
+        "num": 234241,
+        "word": "ABB式名字 容易火",
+        "onboard_time": 1750564224,
+        "rank": 9,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 2401758,
+        "num": 234052,
+        "word": "王勉 易梦玲",
+        "onboard_time": 1750585942,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 791477,
+        "num": 233954,
+        "word": "蜜雪冰城房塌了",
+        "onboard_time": 1750575561,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 393804,
+        "num": 233653,
+        "word": "美以伊都挺不住了所以美国发动袭击",
+        "onboard_time": 1750581140,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 310345,
+        "num": 233414,
+        "word": "胡塞武装宣布恢复袭击美舰船",
+        "onboard_time": 1750583060,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 33109,
+        "num": 233151,
+        "word": "老人被诱导投资16万坚称自己没上当",
+        "onboard_time": 1750587022,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305672,
+        "num": 232753,
+        "word": "孟子义新丽首位95花一番女主",
+        "onboard_time": 1750585761,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293808,
+        "num": 232652,
+        "word": "TFBOYS保密协议",
+        "onboard_time": 1750565603,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278011,
+        "num": 232344,
+        "word": "陈赫问王勉和谁逛街",
+        "onboard_time": 1750580122,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267692,
+        "num": 232123,
+        "word": "常州气晕了一只小恐龙",
+        "onboard_time": 1750586361,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231948,
+        "num": 231948,
+        "word": "确认出席腾讯派对的艺人",
+        "onboard_time": 1750583361,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 210155,
+        "num": 210155,
+        "word": "曝长剧老板为金丝雀开短剧公司",
+        "onboard_time": 1750585942,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205255,
+        "num": 205255,
+        "word": "男子称误转30万给老赖款项被冻结",
+        "onboard_time": 1750584261,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114877,
+        "num": 202285,
+        "word": "1岁男娃地铁站快速猩猩爬膝盖不着地",
+        "onboard_time": 1750583662,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102071,
+        "num": 201945,
+        "word": "王欣瑜vs万卓索娃",
+        "onboard_time": 1750570582,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201717,
+        "num": 201717,
+        "word": "深圳街头都已经潮成这样了",
+        "onboard_time": 1750585462,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199391,
+        "num": 199391,
+        "word": "中央发布公职人员违规吃喝认定标准",
+        "onboard_time": 1750576162,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187250,
+        "num": 187250,
+        "word": "美洲偶遇王一博",
+        "onboard_time": 1750574181,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65022,
+        "num": 187203,
+        "word": "网友称上海野生动物园发生象园霸凌",
+        "onboard_time": 1750584742,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120820,
+        "num": 182359,
+        "word": "暑期档第一部古装剧来了",
+        "onboard_time": 1750573402,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120752,
+        "num": 175847,
+        "word": "杨紫差点让胡歌提前杀青",
+        "onboard_time": 1750574961,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136811,
+        "num": 172482,
+        "word": "常州苏超五连败一景区推出光头免票",
+        "onboard_time": 1750580602,
+        "rank": 30,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 168752,
+        "num": 168752,
+        "word": "荔枝 便宜",
+        "onboard_time": 1750585881,
+        "rank": 31,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 164889,
+        "num": 164889,
+        "word": "虞书欣 哪都有人骂不要在意就好了",
+        "onboard_time": 1750586481,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162986,
+        "num": 162986,
+        "word": "11岁女孩长期积食身高定格145",
+        "onboard_time": 1750571542,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158200,
+        "num": 158200,
+        "word": "娄艺潇晒labubu",
+        "onboard_time": 1750587682,
+        "rank": 34,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 154521,
+        "num": 154521,
+        "word": "常州 光头免票",
+        "onboard_time": 1750585822,
+        "rank": 35,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 151831,
+        "num": 151831,
+        "word": "四川一男子疑开凿奥特曼石窟",
+        "onboard_time": 1750587323,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151058,
+        "num": 151058,
+        "word": "伊朗要求安理会紧急开会",
+        "onboard_time": 1750581623,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103903,
+        "num": 146816,
+        "word": "逐玉",
+        "onboard_time": 1750580242,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146168,
+        "num": 146168,
+        "word": "男子奸杀7岁女童前欠网货心生烦躁",
+        "onboard_time": 1750586782,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134471,
+        "num": 134471,
+        "word": "网友爆料奈雪小盒茶喝出整只青蛙",
+        "onboard_time": 1750587381,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122618,
+        "num": 122618,
+        "word": "医生说微胖的人更能扛病",
+        "onboard_time": 1750583420,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 114081,
+        "num": 114081,
+        "word": "特朗普再次威胁伊朗",
+        "onboard_time": 1750585522,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108680,
+        "num": 108680,
+        "word": "留英博士性侵被判终身监禁背后",
+        "onboard_time": 1750583060,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 102396,
+        "num": 102396,
+        "word": "网传那尔那茜从镖人主演名单中消失",
+        "onboard_time": 1750584560,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 101926,
+        "num": 101926,
+        "word": "中国16岁少年击败日本选手夺冠",
+        "onboard_time": 1750581322,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97369,
+        "num": 97369,
+        "word": "中东多国股市高开",
+        "onboard_time": 1750585881,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 97344,
+        "num": 97344,
+        "word": "沈月姜妍当丁禹兮面讨论他",
+        "onboard_time": 1750582043,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97287,
+        "num": 97287,
+        "word": "拍照时眼睛该看哪里",
+        "onboard_time": 1750587922,
+        "rank": 48,
+        "category": "休闲,时尚"
+      },
+      {
+        "raw_hot": 95900,
+        "num": 95900,
+        "word": "以色列股市创下历史新高",
+        "onboard_time": 1750579282,
+        "rank": 49,
+        "category": "国际时政,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#丝路友谊偕行致远#"
+    }
+  }
+}
