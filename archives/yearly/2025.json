@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1750558280519,
+  "endTime": 1750559734245,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1339,6 +1339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 6458800,
+      "num": 6458800,
+      "word": "尚公主官宣",
+      "onboard_time": 1750558340,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 6419842,
       "num": 7669842,
       "word": "台湾台东5.8级地震",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1747210283,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3492105,
-      "num": 3492105,
-      "word": "什么是爆肺",
-      "onboard_time": 1740812372,
-      "rank": 1,
-      "category": "健康医疗,艺人"
     }
   ],
   "hotgov_list": [

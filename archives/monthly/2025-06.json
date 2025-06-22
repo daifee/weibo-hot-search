@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750558280519,
+  "endTime": 1750559734245,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -161,6 +161,14 @@
       "onboard_time": 1749218487,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 6458800,
+      "num": 6458800,
+      "word": "尚公主官宣",
+      "onboard_time": 1750558340,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 6419842,
@@ -5516,7 +5524,7 @@
     },
     {
       "raw_hot": 781349,
-      "num": 410990,
+      "num": 431132,
       "word": "孟子义李昀锐合作的第3部剧",
       "onboard_time": 1750521864,
       "rank": 6,
@@ -5545,6 +5553,14 @@
       "onboard_time": 1749873801,
       "rank": 7,
       "category": "教育,艺人"
+    },
+    {
+      "raw_hot": 776504,
+      "num": 776504,
+      "word": "美军B2轰炸机袭击伊朗核设施",
+      "onboard_time": 1750556301,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 774727,
@@ -5593,14 +5609,6 @@
       "onboard_time": 1748827699,
       "rank": 4,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 769583,
-      "num": 769583,
-      "word": "美军B2轰炸机袭击伊朗核设施",
-      "onboard_time": 1750556301,
-      "rank": 6,
-      "category": "国际时政"
     },
     {
       "raw_hot": 769219,
@@ -6417,6 +6425,14 @@
       "onboard_time": 1749995481,
       "rank": 15,
       "category": "民生新闻,体育"
+    },
+    {
+      "raw_hot": 705214,
+      "num": 705214,
+      "word": "老爸买下整车labubu送女儿",
+      "onboard_time": 1750558162,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 704399,
@@ -10195,6 +10211,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 501645,
+      "num": 501645,
+      "word": "伊朗宣布将打击美在中东所有利益",
+      "onboard_time": 1750558942,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 501246,
       "num": 501246,
       "word": "TES对战BLG",
@@ -12387,6 +12411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 424752,
+      "num": 424752,
+      "word": "伊朗宣布中东美军为合法目标",
+      "onboard_time": 1750558642,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 424531,
       "num": 424531,
       "word": "内娱终于有时髦剧了",
@@ -12817,14 +12849,6 @@
       "onboard_time": 1749478463,
       "rank": 21,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 412476,
-      "num": 412476,
-      "word": "老爸买下整车labubu送女儿",
-      "onboard_time": 1750558162,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 412187,
@@ -13329,6 +13353,14 @@
       "onboard_time": 1750051461,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 399723,
+      "num": 723866,
+      "word": "日本黑皮西瓜最高价一只3.4万元",
+      "onboard_time": 1750556361,
+      "rank": 8,
+      "category": "海外新闻,财经"
     },
     {
       "raw_hot": 399382,
@@ -16107,14 +16139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 336505,
-      "num": 669267,
-      "word": "日本黑皮西瓜最高价一只3.4万元",
-      "onboard_time": 1750556361,
-      "rank": 8,
-      "category": "海外新闻,财经"
-    },
-    {
       "raw_hot": 336337,
       "num": 336337,
       "word": "爱奇艺破万机制",
@@ -16297,6 +16321,14 @@
       "onboard_time": 1748754381,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 333042,
+      "num": 666383,
+      "word": "伊朗称已提前对核设施进行疏散",
+      "onboard_time": 1750557202,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 332921,
@@ -18875,6 +18907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 285915,
+      "num": 285915,
+      "word": "桃花映江山",
+      "onboard_time": 1749526880,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 285764,
       "num": 285764,
       "word": "金泳勋道歉",
@@ -19753,6 +19793,14 @@
       "onboard_time": 1750211600,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 274313,
+      "num": 713338,
+      "word": "以色列升级全国戒备状态",
+      "onboard_time": 1750558762,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 274306,
@@ -21793,6 +21841,14 @@
       "onboard_time": 1749450262,
       "rank": 36,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 248984,
+      "num": 425264,
+      "word": "惠若琪妹妹结婚",
+      "onboard_time": 1750558162,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 248929,
@@ -27779,14 +27835,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 202827,
-      "num": 202827,
-      "word": "桃花映江山",
-      "onboard_time": 1749526880,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 202815,
       "num": 277862,
       "word": "彻查罗帅宇案不能只靠当地自查自纠",
@@ -29281,6 +29329,14 @@
       "onboard_time": 1749303022,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197046,
+      "num": 407297,
+      "word": "朱珠夫妇参加皇家赛马会",
+      "onboard_time": 1750557080,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 197021,
@@ -34283,14 +34339,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 176590,
-      "num": 407297,
-      "word": "朱珠夫妇参加皇家赛马会",
-      "onboard_time": 1750557080,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 176547,
       "num": 176547,
       "word": "谢娜怎么可能有这么会唱又这么帅的出品人",
@@ -38017,6 +38065,14 @@
       "onboard_time": 1749223284,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 163638,
+      "num": 163638,
+      "word": "伊朗核设施遇袭现场",
+      "onboard_time": 1750559301,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 163634,
@@ -49459,6 +49515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127789,
+      "num": 127789,
+      "word": "胡楚靓",
+      "onboard_time": 1750548858,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 127767,
       "num": 127767,
       "word": "美22个民主党州长指责特朗普滥权",
@@ -50491,28 +50555,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 124520,
-      "num": 124520,
-      "word": "胡楚靓",
-      "onboard_time": 1750548858,
-      "rank": 26,
-      "category": "网红"
-    },
-    {
       "raw_hot": 124503,
       "num": 124503,
       "word": "时全此刻比鬼还吓人",
       "onboard_time": 1748782701,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 124498,
-      "num": 666383,
-      "word": "伊朗称已提前对核设施进行疏散",
-      "onboard_time": 1750557202,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 124490,
@@ -52320,14 +52368,6 @@
       "word": "西班牙晋级欧国联决赛",
       "onboard_time": 1749166278,
       "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 119392,
-      "num": 152864,
-      "word": "惠若琪妹妹结婚",
-      "onboard_time": 1750558162,
-      "rank": 39,
       "category": "体育"
     },
     {
@@ -56587,6 +56627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105284,
+      "num": 105284,
+      "word": "大家真的一定要走自己选择的那条路",
+      "onboard_time": 1750559422,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 105256,
       "num": 105256,
       "word": "林更新拆穿3大电诈骗局",
@@ -58049,6 +58097,14 @@
       "onboard_time": 1748860220,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99086,
+      "num": 140404,
+      "word": "江西警方通报客车半挂车刮碰致2死4伤",
+      "onboard_time": 1750558762,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99079,
@@ -68860,7 +68916,7 @@
     },
     {
       "raw_hot": 45286,
-      "num": 1188801,
+      "num": 1632659,
       "word": "一组数据看懂中国外资吸引力",
       "onboard_time": 1750514904,
       "rank": 2,
@@ -72457,6 +72513,14 @@
       "onboard_time": 1750322423,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 32323,
+      "num": 212412,
+      "word": "特朗普称伊朗核设施已被抹去",
+      "onboard_time": 1750559541,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 32254,

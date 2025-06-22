@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/22 10:11:20
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/22 10:35:34
 </p>
 </blockquote>
 <p>
@@ -131,6 +131,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D%23" target="weibo">
 歌手排名（热度：6673464）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%9A%E5%85%AC%E4%B8%BB%E5%AE%98%E5%AE%A3%23" target="weibo">
+尚公主官宣（热度：6458800）
 </a>
 </li>
 
@@ -4173,6 +4179,12 @@ T3司机猥亵大三女生被行拘5日（热度：810171）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9BB2%E8%BD%B0%E7%82%B8%E6%9C%BA%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%E6%A0%B8%E8%AE%BE%E6%96%BD%23" target="weibo">
+美军B2轰炸机袭击伊朗核设施（热度：776504）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BF%B5%E6%B1%9F%E5%8D%97%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23" target="weibo">
 一念江南阵容官宣（热度：774727）
 </a>
@@ -4205,12 +4217,6 @@ T3司机猥亵大三女生被行拘5日（热度：810171）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%89%E4%B8%8E%E5%A4%9C%E4%B9%8B%E6%81%8B%23" target="weibo">
 光与夜之恋（热度：772050）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9BB2%E8%BD%B0%E7%82%B8%E6%9C%BA%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%E6%A0%B8%E8%AE%BE%E6%96%BD%23" target="weibo">
-美军B2轰炸机袭击伊朗核设施（热度：769583）
 </a>
 </li>
 
@@ -4823,6 +4829,12 @@ Labubu 审美（热度：729066）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%A8%E5%B7%9E%E6%9C%AA%E8%83%BD%E4%BF%9D%E4%BD%8F%E6%9C%80%E5%90%8E%E7%9A%84%E7%AC%94%E7%94%BB%23" target="weibo">
 丨州未能保住最后的笔画（热度：705848）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E7%88%B8%E4%B9%B0%E4%B8%8B%E6%95%B4%E8%BD%A6labubu%E9%80%81%E5%A5%B3%E5%84%BF%23" target="weibo">
+老爸买下整车labubu送女儿（热度：705214）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ twice（热度：611330）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E4%B8%80%E6%88%BF%E5%B1%8B%E6%B2%89%E9%99%8D%E5%B7%B2%E5%B0%81%E6%8E%A725%E6%A0%8B%23" target="weibo">
 深圳一房屋沉降已封控25栋（热度：607541）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A9%9A%E7%A4%BC%E6%8A%9Blabubu%23" target="weibo">
-婚礼抛labubu（热度：607393）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%A9%E5%90%B4%E5%AE%A3%E4%BB%AA%E5%BC%80%E5%9C%BA%E7%9A%84%E4%BA%BA%E6%98%AF%E5%A4%A9%E6%89%8D%23" target="weibo">
-让吴宣仪开场的人是天才（热度：607204）
 </a>
 </li>
 

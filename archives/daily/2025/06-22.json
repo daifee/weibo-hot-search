@@ -1,7 +1,15 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750558280519,
+  "endTime": 1750559734245,
   "band_list": [
+    {
+      "raw_hot": 6458800,
+      "num": 6458800,
+      "word": "尚公主官宣",
+      "onboard_time": 1750558340,
+      "rank": 0,
+      "category": "剧集"
+    },
     {
       "raw_hot": 6062877,
       "num": 6062877,
@@ -44,19 +52,27 @@
     },
     {
       "raw_hot": 781349,
-      "num": 410990,
+      "num": 431132,
       "word": "孟子义李昀锐合作的第3部剧",
       "onboard_time": 1750521864,
       "rank": 6,
       "category": "剧集"
     },
     {
-      "raw_hot": 769583,
-      "num": 769583,
+      "raw_hot": 776504,
+      "num": 776504,
       "word": "美军B2轰炸机袭击伊朗核设施",
       "onboard_time": 1750556301,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 705214,
+      "num": 705214,
+      "word": "老爸买下整车labubu送女儿",
+      "onboard_time": 1750558162,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 664466,
@@ -131,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 501645,
+      "num": 501645,
+      "word": "伊朗宣布将打击美在中东所有利益",
+      "onboard_time": 1750558942,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 497385,
       "num": 379458,
       "word": "万茜拿了影后输了钱",
@@ -179,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 424752,
+      "num": 424752,
+      "word": "伊朗宣布中东美军为合法目标",
+      "onboard_time": 1750558642,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 415656,
       "num": 415656,
       "word": "腾讯云包场滞销",
@@ -193,14 +225,6 @@
       "onboard_time": 1750556301,
       "rank": 15,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 412476,
-      "num": 412476,
-      "word": "老爸买下整车labubu送女儿",
-      "onboard_time": 1750558162,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 405759,
@@ -227,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 399723,
+      "num": 723866,
+      "word": "日本黑皮西瓜最高价一只3.4万元",
+      "onboard_time": 1750556361,
+      "rank": 8,
+      "category": "海外新闻,财经"
+    },
+    {
       "raw_hot": 397465,
       "num": 397465,
       "word": "美媒曝哈梅内伊正藏身地堡避险",
@@ -251,12 +283,12 @@
       "category": "艺人,辟谣/通报"
     },
     {
-      "raw_hot": 336505,
-      "num": 669267,
-      "word": "日本黑皮西瓜最高价一只3.4万元",
-      "onboard_time": 1750556361,
-      "rank": 8,
-      "category": "海外新闻,财经"
+      "raw_hot": 333042,
+      "num": 666383,
+      "word": "伊朗称已提前对核设施进行疏散",
+      "onboard_time": 1750557202,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 321071,
@@ -307,6 +339,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 285915,
+      "num": 285915,
+      "word": "桃花映江山",
+      "onboard_time": 1750557921,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 274313,
+      "num": 713338,
+      "word": "以色列升级全国戒备状态",
+      "onboard_time": 1750558762,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 265270,
       "num": 265270,
       "word": "美国向伊朗核设施发射30枚战斧导弹",
@@ -329,6 +377,14 @@
       "onboard_time": 1750515866,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 248984,
+      "num": 425264,
+      "word": "惠若琪妹妹结婚",
+      "onboard_time": 1750558162,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 230458,
@@ -395,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197046,
+      "num": 407297,
+      "word": "朱珠夫妇参加皇家赛马会",
+      "onboard_time": 1750557080,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190470,
       "num": 190470,
       "word": "以色列",
@@ -425,14 +489,6 @@
       "onboard_time": 1750516585,
       "rank": 43,
       "category": "艺人,辟谣/通报"
-    },
-    {
-      "raw_hot": 176590,
-      "num": 407297,
-      "word": "朱珠夫妇参加皇家赛马会",
-      "onboard_time": 1750557080,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 174259,
@@ -475,12 +531,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 162994,
-      "num": 162994,
-      "word": "桃花映江山",
-      "onboard_time": 1750557921,
-      "rank": 38,
-      "category": "剧集"
+      "raw_hot": 163638,
+      "num": 163638,
+      "word": "伊朗核设施遇袭现场",
+      "onboard_time": 1750559301,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 158894,
@@ -571,6 +627,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 127789,
+      "num": 127789,
+      "word": "胡楚靓",
+      "onboard_time": 1750548858,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 127040,
       "num": 224125,
       "word": "鹭卓赵一博卓沅同时直播",
@@ -595,35 +659,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 124520,
-      "num": 124520,
-      "word": "胡楚靓",
-      "onboard_time": 1750548858,
-      "rank": 26,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 124498,
-      "num": 666383,
-      "word": "伊朗称已提前对核设施进行疏散",
-      "onboard_time": 1750557202,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 123984,
       "num": 127542,
       "word": "常州队全员业余球员硬刚苏超",
       "onboard_time": 1750521143,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 119392,
-      "num": 152864,
-      "word": "惠若琪妹妹结婚",
-      "onboard_time": 1750558162,
-      "rank": 39,
       "category": "体育"
     },
     {
@@ -635,12 +675,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105284,
+      "num": 105284,
+      "word": "大家真的一定要走自己选择的那条路",
+      "onboard_time": 1750559422,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 100057,
       "num": 67449,
       "word": "mlxg说自己没钱了",
       "onboard_time": 1750547297,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 99086,
+      "num": 140404,
+      "word": "江西警方通报客车半挂车刮碰致2死4伤",
+      "onboard_time": 1750558762,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97189,
@@ -891,6 +947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36339,
+      "num": 1632659,
+      "word": "一组数据看懂中国外资吸引力",
+      "onboard_time": 1750514904,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34038,
       "num": 54564,
       "word": "广东海洋大学虐猫",
@@ -899,12 +963,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 32414,
-      "num": 1188801,
-      "word": "一组数据看懂中国外资吸引力",
-      "onboard_time": 1750514904,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 32323,
+      "num": 212412,
+      "word": "特朗普称伊朗核设施已被抹去",
+      "onboard_time": 1750559541,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 31063,
