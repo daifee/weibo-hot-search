@@ -1,0 +1,410 @@
+{
+  "runTime": 1750585218791,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1669029,
+        "num": 1669029,
+        "word": "买39件衣服不能试穿回家发现穿不上",
+        "onboard_time": 1750580782,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1090937,
+        "num": 1090937,
+        "word": "庆余年3",
+        "onboard_time": 1750576162,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40364,
+        "num": 954075,
+        "word": "夏日青山绿水间清凉感拉满",
+        "onboard_time": 1750582462,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 873963,
+        "num": 873963,
+        "word": "高考查分 紧张",
+        "onboard_time": 1750583962,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 697723,
+        "num": 697723,
+        "word": "姚晨称labubu是人生中唯一盈利的投资",
+        "onboard_time": 1750569622,
+        "rank": 4,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 770068,
+        "num": 686004,
+        "word": "伊朗向以色列发射其最强导弹",
+        "onboard_time": 1750578263,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 670992,
+        "num": 670992,
+        "word": "尚公主官宣",
+        "onboard_time": 1750558340,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 559062,
+        "num": 559062,
+        "word": "胡塞武装宣布恢复袭击美舰船",
+        "onboard_time": 1750583060,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 386213,
+        "num": 386213,
+        "word": "ABB式名字 容易火",
+        "onboard_time": 1750564224,
+        "rank": 8,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 356604,
+        "num": 356604,
+        "word": "中央发布公职人员违规吃喝认定标准",
+        "onboard_time": 1750576162,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1018717,
+        "num": 355111,
+        "word": "蜜雪冰城房塌了",
+        "onboard_time": 1750575561,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19328,
+        "num": 341810,
+        "word": "景区回应将向飘移SUV索赔最高20万",
+        "onboard_time": 1750584802,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 659159,
+        "num": 331435,
+        "word": "陈赫问王勉和谁逛街",
+        "onboard_time": 1750580122,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 638562,
+        "num": 317484,
+        "word": "美以伊都挺不住了所以美国发动袭击",
+        "onboard_time": 1750581140,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 443197,
+        "num": 310885,
+        "word": "TFBOYS保密协议",
+        "onboard_time": 1750565603,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 442001,
+        "num": 297111,
+        "word": "美国袭击伊朗核设施",
+        "onboard_time": 1750551379,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 296254,
+        "num": 296254,
+        "word": "确认出席腾讯派对的艺人",
+        "onboard_time": 1750583361,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 288623,
+        "num": 288623,
+        "word": "逐玉",
+        "onboard_time": 1750580242,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286939,
+        "num": 286939,
+        "word": "美洲偶遇王一博",
+        "onboard_time": 1750574181,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78780,
+        "num": 285392,
+        "word": "打工人涌入自选炒菜连锁吃20元快餐",
+        "onboard_time": 1750584321,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285329,
+        "num": 285329,
+        "word": "伊朗要求安理会紧急开会",
+        "onboard_time": 1750581623,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 270183,
+        "num": 270183,
+        "word": "奸杀7岁女童男子被执行死刑",
+        "onboard_time": 1750579581,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229825,
+        "num": 229825,
+        "word": "常州苏超五连败一景区推出光头免票",
+        "onboard_time": 1750580602,
+        "rank": 22,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 229200,
+        "num": 229200,
+        "word": "陈可辛 改剧本",
+        "onboard_time": 1750578082,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 204301,
+        "num": 204301,
+        "word": "网传那尔那茜从镖人主演名单中消失",
+        "onboard_time": 1750584560,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193615,
+        "num": 193615,
+        "word": "1岁男娃地铁站快速猩猩爬膝盖不着地",
+        "onboard_time": 1750583662,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188331,
+        "num": 188331,
+        "word": "11岁女孩长期积食身高定格145",
+        "onboard_time": 1750571542,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169808,
+        "num": 188058,
+        "word": "迪丽热巴斩枭暂停派对启动",
+        "onboard_time": 1750584862,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164655,
+        "num": 186706,
+        "word": "枭起青壤",
+        "onboard_time": 1750580063,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89346,
+        "num": 186542,
+        "word": "准大学生背脑梗老人急诊救回一命",
+        "onboard_time": 1750585041,
+        "rank": 29,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 174562,
+        "num": 185419,
+        "word": "河南未扶摔倒水中老人的民警被免职",
+        "onboard_time": 1750584681,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110226,
+        "num": 184714,
+        "word": "留英博士性侵被判终身监禁背后",
+        "onboard_time": 1750583060,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 184261,
+        "num": 184261,
+        "word": "男子称误转30万给老赖款项被冻结",
+        "onboard_time": 1750584261,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174459,
+        "num": 174459,
+        "word": "GW对战MRC",
+        "onboard_time": 1750583481,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164709,
+        "num": 164709,
+        "word": "以色列股市创下历史新高",
+        "onboard_time": 1750579282,
+        "rank": 34,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 156852,
+        "num": 156852,
+        "word": "沈月姜妍当丁禹兮面讨论他",
+        "onboard_time": 1750582043,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154989,
+        "num": 154989,
+        "word": "杨紫差点让胡歌提前杀青",
+        "onboard_time": 1750574961,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147344,
+        "num": 147344,
+        "word": "医生说微胖的人更能扛病",
+        "onboard_time": 1750583420,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 144601,
+        "num": 144601,
+        "word": "女子给宠物蛇喂食时蛇窜出罐子逃跑",
+        "onboard_time": 1750568181,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131592,
+        "num": 131592,
+        "word": "防性侵儿歌",
+        "onboard_time": 1750579401,
+        "rank": 39,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 128859,
+        "num": 128859,
+        "word": "沈腾问范丞丞怎么吃醋了",
+        "onboard_time": 1750584080,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124924,
+        "num": 124924,
+        "word": "中国16岁少年击败日本选手夺冠",
+        "onboard_time": 1750581322,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123354,
+        "num": 123354,
+        "word": "小腿后面突然开始收紧",
+        "onboard_time": 1750576882,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122700,
+        "num": 122700,
+        "word": "美军钻地弹可将20层大楼瞬间夷为平地",
+        "onboard_time": 1750582762,
+        "rank": 43,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 122052,
+        "num": 122052,
+        "word": "4少年高考完结伴出游救了1条命",
+        "onboard_time": 1750583902,
+        "rank": 44,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 121536,
+        "num": 121536,
+        "word": "感觉减肥的人变少了",
+        "onboard_time": 1750564042,
+        "rank": 45,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 117077,
+        "num": 117077,
+        "word": "医生提醒长期穿碳板跑鞋或致关节损伤",
+        "onboard_time": 1750576282,
+        "rank": 46,
+        "category": "运动健身,健康医疗"
+      },
+      {
+        "raw_hot": 115611,
+        "num": 115611,
+        "word": "暑期档第一部古装剧来了",
+        "onboard_time": 1750573402,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115101,
+        "num": 115101,
+        "word": "曾舜晞小号",
+        "onboard_time": 1750567161,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104825,
+        "num": 104825,
+        "word": "迪丽热巴腾讯三部剧",
+        "onboard_time": 1750583842,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温红船精神#"
+    }
+  }
+}
