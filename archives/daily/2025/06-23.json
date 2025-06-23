@@ -1,6 +1,6 @@
 {
   "startTime": 1750609820904,
-  "endTime": 1750684202761,
+  "endTime": 1750686035745,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -219,6 +219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 849418,
+      "num": 672913,
+      "word": "伊朗导弹击中以色列南部",
+      "onboard_time": 1750681342,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 831709,
       "num": 319932,
       "word": "王勉 易梦玲",
@@ -273,14 +281,6 @@
       "onboard_time": 1750660403,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 764659,
-      "num": 672913,
-      "word": "伊朗导弹击中以色列南部",
-      "onboard_time": 1750681342,
-      "rank": 6,
-      "category": "国际时政"
     },
     {
       "raw_hot": 758552,
@@ -393,6 +393,14 @@
       "onboard_time": 1750658721,
       "rank": 3,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 668272,
+      "num": 347679,
+      "word": "孟子义照片顺序",
+      "onboard_time": 1750681104,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 664665,
@@ -731,6 +739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 391200,
+      "num": 311037,
+      "word": "痛经是子宫太想保护你",
+      "onboard_time": 1750681944,
+      "rank": 22,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 378527,
       "num": 378527,
       "word": "迪丽热巴紫瞳",
@@ -761,14 +777,6 @@
       "onboard_time": 1750648581,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 374336,
-      "num": 347679,
-      "word": "孟子义照片顺序",
-      "onboard_time": 1750681104,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 373098,
@@ -939,6 +947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 331727,
+      "num": 331727,
+      "word": "田曦薇校园时期美貌就被认证",
+      "onboard_time": 1750681944,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 329697,
       "num": 329697,
       "word": "花开锦绣官宣丁禹兮邓恩熙",
@@ -993,14 +1009,6 @@
       "onboard_time": 1750637002,
       "rank": 15,
       "category": "教育"
-    },
-    {
-      "raw_hot": 311037,
-      "num": 311037,
-      "word": "痛经是子宫太想保护你",
-      "onboard_time": 1750681944,
-      "rank": 22,
-      "category": "科学科普"
     },
     {
       "raw_hot": 307331,
@@ -1083,6 +1091,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 287322,
+      "num": 287322,
+      "word": "终于等到窦靖童长发了",
+      "onboard_time": 1750684943,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 284980,
       "num": 286131,
       "word": "Cenm0道歉",
@@ -1145,6 +1161,14 @@
       "onboard_time": 1750643061,
       "rank": 20,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 272099,
+      "num": 316361,
+      "word": "周翊然一天换乘三部剧宣",
+      "onboard_time": 1750682783,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 268995,
@@ -1251,6 +1275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 253535,
+      "num": 253535,
+      "word": "金秀贤反诉金赛纶方",
+      "onboard_time": 1750685002,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 251192,
       "num": 251192,
       "word": "雷军回应何时造油车",
@@ -1281,6 +1313,14 @@
       "onboard_time": 1750651342,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 248420,
+      "num": 248420,
+      "word": "关注以伊冲突最新动态",
+      "onboard_time": 1750683983,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 247327,
@@ -1329,14 +1369,6 @@
       "onboard_time": 1750655304,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 242117,
-      "num": 317619,
-      "word": "田曦薇校园时期美貌就被认证",
-      "onboard_time": 1750681944,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 241318,
@@ -1505,6 +1537,14 @@
       "onboard_time": 1750678763,
       "rank": 23,
       "category": "休闲,动漫"
+    },
+    {
+      "raw_hot": 217892,
+      "num": 207202,
+      "word": "肖战撤回一个开箱切掉",
+      "onboard_time": 1750685305,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 216025,
@@ -1683,14 +1723,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 199578,
-      "num": 199578,
-      "word": "关注以伊冲突最新动态",
-      "onboard_time": 1750683983,
-      "rank": 23,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 198337,
       "num": 198337,
       "word": "赴山海剑舞风云版海报",
@@ -1729,14 +1761,6 @@
       "onboard_time": 1750675403,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 196607,
-      "num": 316361,
-      "word": "周翊然一天换乘三部剧宣",
-      "onboard_time": 1750682783,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 196472,
@@ -1793,6 +1817,14 @@
       "onboard_time": 1750656204,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194372,
+      "num": 319424,
+      "word": "家长曝学校发的饮用奶变质酸臭",
+      "onboard_time": 1750683684,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194178,
@@ -2011,6 +2043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178996,
+      "num": 214058,
+      "word": "金靖cos了聂九罗",
+      "onboard_time": 1750684704,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 178852,
       "num": 178852,
       "word": "张艺兴直播夜游探险",
@@ -2139,12 +2179,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165913,
+      "num": 165913,
+      "word": "成都一小区投票表决扑杀流浪狗",
+      "onboard_time": 1750684041,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163417,
       "num": 163417,
       "word": "普京说俄愿为伊朗人民提供协助",
       "onboard_time": 1750682723,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 163118,
+      "num": 163118,
+      "word": "钟丽丽没报上郝蕾的表演培训班",
+      "onboard_time": 1750684583,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 162511,
@@ -2587,6 +2643,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 130798,
+      "num": 130798,
+      "word": "伊朗一关押外国间谍监狱遭以袭击",
+      "onboard_time": 1750685184,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 130579,
       "num": 233357,
       "word": "王欣瑜无缘温网种子",
@@ -2608,6 +2672,14 @@
       "word": "行止晚",
       "onboard_time": 1750606402,
       "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 129942,
+      "num": 129942,
+      "word": "赵今麦张凌赫樱桃琥珀大事很妙",
+      "onboard_time": 1750685484,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -2656,6 +2728,14 @@
       "word": "江西救护车",
       "onboard_time": 1750663283,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126120,
+      "num": 209832,
+      "word": "50.2万用户收到地震预警",
+      "onboard_time": 1750685722,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -2747,6 +2827,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 121016,
+      "num": 121016,
+      "word": "下次砍一刀请找李昀锐",
+      "onboard_time": 1750685722,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119794,
       "num": 119794,
       "word": "考公慎选的五大专业",
@@ -2771,6 +2859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 117855,
+      "num": 117855,
+      "word": "美攻击伊朗后日韩首脑将缺席北约峰会",
+      "onboard_time": 1750684823,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 116554,
       "num": 116554,
       "word": "薛凯琪的亲签是又亲又签",
@@ -2793,6 +2889,14 @@
       "onboard_time": 1750672283,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115869,
+      "num": 115869,
+      "word": "林心如海边比基尼照",
+      "onboard_time": 1750685845,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 115210,
@@ -2907,6 +3011,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 104018,
+      "num": 104018,
+      "word": "蔡依林出场观众大喊Mommy",
+      "onboard_time": 1750685362,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 103342,
       "num": 506414,
       "word": "伊朗曾通过中间人威胁特朗普",
@@ -2947,12 +3059,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 98786,
-      "num": 98786,
-      "word": "成都一小区投票表决扑杀流浪狗",
-      "onboard_time": 1750684041,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 99400,
+      "num": 99400,
+      "word": "看到庞众望负重前行泪目了",
+      "onboard_time": 1750685184,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 98124,
@@ -2977,6 +3089,14 @@
       "onboard_time": 1750660763,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 95087,
+      "num": 95087,
+      "word": "买到正品小猫积木了",
+      "onboard_time": 1750685664,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 94907,
@@ -3065,6 +3185,14 @@
       "onboard_time": 1750595841,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 84814,
+      "num": 89080,
+      "word": "长安汽车控股股东名称变更",
+      "onboard_time": 1750685963,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 84163,
@@ -3507,6 +3635,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 38442,
+      "num": 212589,
+      "word": "男生毕业典礼视频感恩工地父亲",
+      "onboard_time": 1750684883,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38404,
       "num": 133988,
       "word": "美团反内卷优选转型",
@@ -3691,6 +3827,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 21612,
+      "num": 731559,
+      "word": "2025高招一站式服务平台",
+      "onboard_time": 1750668203,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 20961,
       "num": 24051,
       "word": "王力宏演唱会",
@@ -3721,14 +3865,6 @@
       "onboard_time": 1750631297,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 16762,
-      "num": 319424,
-      "word": "家长曝学校发的饮用奶变质酸臭",
-      "onboard_time": 1750683684,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16058,
@@ -3785,14 +3921,6 @@
       "onboard_time": 1750620494,
       "rank": 22,
       "category": "民生新闻,休闲"
-    },
-    {
-      "raw_hot": 13035,
-      "num": 731559,
-      "word": "2025高招一站式服务平台",
-      "onboard_time": 1750668203,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 12862,
