@@ -1,0 +1,410 @@
+{
+  "runTime": 1750674589327,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1728515,
+        "num": 1728515,
+        "word": "微信语音 丑",
+        "onboard_time": 1750673602,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1260465,
+        "num": 1260465,
+        "word": "贩毒女头目年仅17岁",
+        "onboard_time": 1750664243,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16851,
+        "num": 1010452,
+        "word": "中国水上夏收好丰景",
+        "onboard_time": 1750667904,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 879853,
+        "num": 879853,
+        "word": "王弘毅 见人下菜碟",
+        "onboard_time": 1750669404,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 532536,
+        "num": 532536,
+        "word": "千里江山图官宣",
+        "onboard_time": 1750669463,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 741470,
+        "num": 489374,
+        "word": "伊朗称将向世界展示力量",
+        "onboard_time": 1750668744,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 434630,
+        "num": 434630,
+        "word": "男孩中考查分863分数学满分",
+        "onboard_time": 1750658782,
+        "rank": 6,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 388936,
+        "num": 388936,
+        "word": "20岁女生确诊胃癌后的三个月",
+        "onboard_time": 1750667364,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336710,
+        "num": 336710,
+        "word": "现代版农夫与蛇",
+        "onboard_time": 1750665684,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308944,
+        "num": 308944,
+        "word": "伊朗报复美国的三种方式",
+        "onboard_time": 1750669644,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 605124,
+        "num": 306068,
+        "word": "水果姐把labubu打飞了",
+        "onboard_time": 1750669043,
+        "rank": 10,
+        "category": "演出,休闲"
+      },
+      {
+        "raw_hot": 507629,
+        "num": 305646,
+        "word": "原来成龙刚出生就出名了",
+        "onboard_time": 1750671204,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 452557,
+        "num": 304777,
+        "word": "魏大勋接秦岚回家",
+        "onboard_time": 1750665144,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301752,
+        "num": 301752,
+        "word": "肖战直播",
+        "onboard_time": 1750672403,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61334,
+        "num": 282664,
+        "word": "小伙暴雨中一人一艇救出100多人",
+        "onboard_time": 1750672882,
+        "rank": 14,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 279974,
+        "num": 279974,
+        "word": "原来绝经不是突然不来月经了",
+        "onboard_time": 1750667003,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 255741,
+        "num": 255741,
+        "word": "庆余年3再次升级演员阵容",
+        "onboard_time": 1750663404,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55150,
+        "num": 244434,
+        "word": "中南大学为什么能工医并举",
+        "onboard_time": 1750673782,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 242410,
+        "num": 242410,
+        "word": "枭起青壤预告",
+        "onboard_time": 1750670784,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57176,
+        "num": 202367,
+        "word": "家长质疑猪肉发臭老师学生分开吃",
+        "onboard_time": 1750674144,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202080,
+        "num": 202080,
+        "word": "江西救护车涉事医院称收到网友锦旗",
+        "onboard_time": 1750663283,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192408,
+        "num": 192408,
+        "word": "仅次于以色列",
+        "onboard_time": 1750665923,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 188775,
+        "num": 188775,
+        "word": "晋江崩了",
+        "onboard_time": 1750673963,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 183363,
+        "num": 183363,
+        "word": "田曦薇董思成 嫁金钗",
+        "onboard_time": 1750673244,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181155,
+        "num": 181155,
+        "word": "李敏镐从未回春",
+        "onboard_time": 1750667123,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170833,
+        "num": 170833,
+        "word": "小米YU7",
+        "onboard_time": 1750669463,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 161102,
+        "num": 161102,
+        "word": "Famous",
+        "onboard_time": 1750673244,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 159221,
+        "num": 159221,
+        "word": "御赐小仵作2首发预告",
+        "onboard_time": 1750671683,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42203,
+        "num": 156948,
+        "word": "空袭伊朗创美军最大规模B2出战纪录",
+        "onboard_time": 1750674383,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 155328,
+        "num": 155328,
+        "word": "于东来官宣将关闭多家门店",
+        "onboard_time": 1750660403,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149047,
+        "num": 149047,
+        "word": "精装房背景墙虫子密密麻麻",
+        "onboard_time": 1750673963,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141839,
+        "num": 141839,
+        "word": "19岁智力残疾女孩遭性侵产女",
+        "onboard_time": 1750662384,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140493,
+        "num": 140493,
+        "word": "宴遇永安",
+        "onboard_time": 1750674383,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136506,
+        "num": 136506,
+        "word": "宋佳 陈龙",
+        "onboard_time": 1750665144,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132001,
+        "num": 132001,
+        "word": "体重开始下降的8个冷知识",
+        "onboard_time": 1750660824,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 130540,
+        "num": 130540,
+        "word": "国际奥委会首位女性主席正式上任",
+        "onboard_time": 1750673482,
+        "rank": 35,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 128361,
+        "num": 128361,
+        "word": "以色列袭击伊朗6个机场",
+        "onboard_time": 1750661783,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126571,
+        "num": 126571,
+        "word": "中方回应伊朗拟关闭霍尔木兹海峡",
+        "onboard_time": 1750668803,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125662,
+        "num": 125662,
+        "word": "谢娜收到了好多花篮",
+        "onboard_time": 1750674324,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 38404,
+        "num": 124647,
+        "word": "美团反内卷优选转型",
+        "onboard_time": 1750672882,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 124507,
+        "num": 124507,
+        "word": "天津本科线476",
+        "onboard_time": 1750672104,
+        "rank": 40,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 123892,
+        "num": 123892,
+        "word": "朋友圈 评论图片",
+        "onboard_time": 1750658721,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 118799,
+        "num": 118799,
+        "word": "高考第一批查分的人已出现",
+        "onboard_time": 1750668924,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 117357,
+        "num": 117357,
+        "word": "男司仪多次叫错新郎名字还拒退全款",
+        "onboard_time": 1750668144,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116506,
+        "num": 116506,
+        "word": "英国男子与9岁女孩办婚礼被调查",
+        "onboard_time": 1750672584,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 115927,
+        "num": 115927,
+        "word": "刘跃进一审死缓",
+        "onboard_time": 1750672283,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115210,
+        "num": 115210,
+        "word": "男子用征信套现近16万获刑",
+        "onboard_time": 1750673423,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114459,
+        "num": 114459,
+        "word": "激素这么恐怖吗",
+        "onboard_time": 1750673183,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114351,
+        "num": 114351,
+        "word": "雷军回应何时造油车",
+        "onboard_time": 1750667843,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 110319,
+        "num": 110319,
+        "word": "伊朗将放手采取任何行动打击美军",
+        "onboard_time": 1750674503,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同志在闽金融论述与实践启示#"
+    }
+  }
+}

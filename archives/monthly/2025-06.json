@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750671911225,
+  "endTime": 1750674589327,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -1265,6 +1265,14 @@
       "onboard_time": 1749714861,
       "rank": 3,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1728515,
+      "num": 1728515,
+      "word": "微信语音 丑",
+      "onboard_time": 1750673602,
+      "rank": 0,
+      "category": "互联网"
     },
     {
       "raw_hot": 1727200,
@@ -3772,7 +3780,7 @@
     },
     {
       "raw_hot": 1025437,
-      "num": 599319,
+      "num": 879853,
       "word": "王弘毅 见人下菜碟",
       "onboard_time": 1750669404,
       "rank": 3,
@@ -6281,6 +6289,14 @@
       "onboard_time": 1749452062,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 741470,
+      "num": 549148,
+      "word": "伊朗称将向世界展示力量",
+      "onboard_time": 1750668744,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 740795,
@@ -9099,14 +9115,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 583794,
-      "num": 549148,
-      "word": "伊朗称将向世界展示力量",
-      "onboard_time": 1750668744,
-      "rank": 5,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 583445,
       "num": 406043,
       "word": "GAI 大白嗓",
@@ -10203,6 +10211,14 @@
       "category": "休闲,动漫"
     },
     {
+      "raw_hot": 532536,
+      "num": 532536,
+      "word": "千里江山图官宣",
+      "onboard_time": 1750669463,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 532275,
       "num": 413329,
       "word": "易烊千玺第一部男主剧",
@@ -10417,14 +10433,6 @@
       "onboard_time": 1749082400,
       "rank": 6,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 525234,
-      "num": 474109,
-      "word": "千里江山图官宣",
-      "onboard_time": 1750669463,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 524386,
@@ -10873,6 +10881,14 @@
       "onboard_time": 1749560783,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 507629,
+      "num": 305646,
+      "word": "原来成龙刚出生就出名了",
+      "onboard_time": 1750671204,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 507508,
@@ -17419,6 +17435,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 336710,
+      "num": 336710,
+      "word": "现代版农夫与蛇",
+      "onboard_time": 1750665684,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 336564,
       "num": 336564,
       "word": "兰香如故官宣",
@@ -18787,14 +18811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 310031,
-      "num": 310031,
-      "word": "现代版农夫与蛇",
-      "onboard_time": 1750665684,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 309955,
       "num": 226198,
       "word": "远嫁伊朗的华人女子连夜离开",
@@ -18873,6 +18889,14 @@
       "onboard_time": 1749014600,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 308944,
+      "num": 509560,
+      "word": "伊朗报复美国的三种方式",
+      "onboard_time": 1750669644,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 308711,
@@ -19313,6 +19337,14 @@
       "onboard_time": 1749090859,
       "rank": 22,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 301752,
+      "num": 301752,
+      "word": "肖战直播",
+      "onboard_time": 1750672403,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 301613,
@@ -22297,14 +22329,6 @@
       "onboard_time": 1749691520,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 262689,
-      "num": 509560,
-      "word": "伊朗报复美国的三种方式",
-      "onboard_time": 1750669644,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 262596,
@@ -33979,6 +34003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188775,
+      "num": 188775,
+      "word": "晋江崩了",
+      "onboard_time": 1750673963,
+      "rank": 22,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 188765,
       "num": 188765,
       "word": "SMTR25墨西哥旅行照",
@@ -35513,6 +35545,14 @@
       "onboard_time": 1750397722,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183363,
+      "num": 183363,
+      "word": "田曦薇董思成 嫁金钗",
+      "onboard_time": 1750673244,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 183326,
@@ -37241,14 +37281,6 @@
       "onboard_time": 1749893842,
       "rank": 47,
       "category": "国际时政,民生新闻"
-    },
-    {
-      "raw_hot": 175732,
-      "num": 148093,
-      "word": "原来成龙刚出生就出名了",
-      "onboard_time": 1750671204,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 175722,
@@ -41579,6 +41611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161102,
+      "num": 161102,
+      "word": "Famous",
+      "onboard_time": 1750673244,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 161096,
       "num": 161096,
       "word": "折腰回门宴全记录",
@@ -42193,6 +42233,14 @@
       "onboard_time": 1750644022,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159221,
+      "num": 159221,
+      "word": "御赐小仵作2首发预告",
+      "onboard_time": 1750671683,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 159197,
@@ -45273,6 +45321,14 @@
       "onboard_time": 1749638062,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149047,
+      "num": 149047,
+      "word": "精装房背景墙虫子密密麻麻",
+      "onboard_time": 1750673963,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149002,
@@ -48361,6 +48417,14 @@
       "onboard_time": 1749101661,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 140493,
+      "num": 140493,
+      "word": "宴遇永安",
+      "onboard_time": 1750674383,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 140482,
@@ -52123,6 +52187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 130540,
+      "num": 130540,
+      "word": "国际奥委会首位女性主席正式上任",
+      "onboard_time": 1750673482,
+      "rank": 35,
+      "category": "体育,民生新闻"
+    },
+    {
       "raw_hot": 130534,
       "num": 130534,
       "word": "我们与恶的距离2",
@@ -52897,14 +52969,6 @@
       "onboard_time": 1750596322,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 128561,
-      "num": 128561,
-      "word": "御赐小仵作2首发预告",
-      "onboard_time": 1750671683,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 128556,
@@ -53923,6 +53987,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 125662,
+      "num": 125662,
+      "word": "谢娜收到了好多花篮",
+      "onboard_time": 1750674324,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 125638,
       "num": 125638,
       "word": "官方通报中考体育3监考教师助1考生舞弊",
@@ -54305,6 +54377,14 @@
       "onboard_time": 1750505601,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 124507,
+      "num": 124507,
+      "word": "天津本科线476",
+      "onboard_time": 1750672104,
+      "rank": 40,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 124503,
@@ -57187,6 +57267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116506,
+      "num": 116506,
+      "word": "英国男子与9岁女孩办婚礼被调查",
+      "onboard_time": 1750672584,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 116483,
       "num": 116483,
       "word": "新说唱热度破九TT复刻暴走老奶",
@@ -57352,6 +57440,14 @@
       "word": "男子被蝮蛇咬伤一番操作成功保命",
       "onboard_time": 1749658820,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115927,
+      "num": 115927,
+      "word": "刘跃进一审死缓",
+      "onboard_time": 1750672283,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -57593,6 +57689,14 @@
       "onboard_time": 1749043942,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 115210,
+      "num": 115210,
+      "word": "男子用征信套现近16万获刑",
+      "onboard_time": 1750673423,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115166,
@@ -57881,6 +57985,14 @@
       "onboard_time": 1748933181,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 114459,
+      "num": 114459,
+      "word": "激素这么恐怖吗",
+      "onboard_time": 1750673183,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 114454,
@@ -59313,6 +59425,14 @@
       "onboard_time": 1750417281,
       "rank": 19,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 110319,
+      "num": 110319,
+      "word": "伊朗将放手采取任何行动打击美军",
+      "onboard_time": 1750674503,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 110314,
@@ -70027,6 +70147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61334,
+      "num": 282664,
+      "word": "小伙暴雨中一人一艇救出100多人",
+      "onboard_time": 1750672882,
+      "rank": 14,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 61304,
       "num": 81175,
       "word": "黄晓明说尹正特别好特别好特别好",
@@ -70803,6 +70931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57176,
+      "num": 202367,
+      "word": "家长质疑猪肉发臭老师学生分开吃",
+      "onboard_time": 1750674144,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57171,
       "num": 57171,
       "word": "刘宇宁歌声和长城满月适配度拉满",
@@ -71281,6 +71417,14 @@
       "onboard_time": 1748711597,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55150,
+      "num": 244434,
+      "word": "中南大学为什么能工医并举",
+      "onboard_time": 1750673782,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 55147,
@@ -74323,6 +74467,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 42203,
+      "num": 156948,
+      "word": "空袭伊朗创美军最大规模B2出战纪录",
+      "onboard_time": 1750674383,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 42153,
       "num": 123553,
       "word": "好身体计划",
@@ -75345,6 +75497,14 @@
       "onboard_time": 1750237282,
       "rank": 29,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 38404,
+      "num": 124647,
+      "word": "美团反内卷优选转型",
+      "onboard_time": 1750672882,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 38396,
