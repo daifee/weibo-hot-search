@@ -1,0 +1,410 @@
+{
+  "runTime": 1750677855738,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 15869744,
+        "num": 15869744,
+        "word": "广州震感",
+        "onboard_time": 1750676308,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 13667346,
+        "num": 13667346,
+        "word": "清远地震",
+        "onboard_time": 1750676308,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 31185,
+        "num": 4738585,
+        "word": "中国水上夏收好丰景",
+        "onboard_time": 1750667904,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3257352,
+        "num": 3257352,
+        "word": "深圳震感",
+        "onboard_time": 1750676366,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1906429,
+        "num": 1906429,
+        "word": "微信语音 丑",
+        "onboard_time": 1750673602,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1143160,
+        "num": 1143160,
+        "word": "广东清远4.3级地震",
+        "onboard_time": 1750676668,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1022029,
+        "num": 1022029,
+        "word": "贩毒女头目年仅17岁",
+        "onboard_time": 1750664243,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1021083,
+        "num": 1021083,
+        "word": "东莞震感",
+        "onboard_time": 1750676729,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 562158,
+        "num": 993020,
+        "word": "原来成龙刚出生就出名了",
+        "onboard_time": 1750671204,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320425,
+        "num": 979952,
+        "word": "庆余年3再次升级演员阵容",
+        "onboard_time": 1750663404,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 975975,
+        "num": 975975,
+        "word": "佛山震感",
+        "onboard_time": 1750676668,
+        "rank": 10,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 646008,
+        "num": 646008,
+        "word": "美军驻叙利亚军事基地遭袭",
+        "onboard_time": 1750675342,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 486285,
+        "num": 486285,
+        "word": "伊朗称将向世界展示力量",
+        "onboard_time": 1750668744,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 451769,
+        "num": 451769,
+        "word": "珠海震感",
+        "onboard_time": 1750676490,
+        "rank": 13,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 54326,
+        "num": 407481,
+        "word": "特朗普被曝两周内决策是烟雾弹",
+        "onboard_time": 1750676490,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 405824,
+        "num": 405824,
+        "word": "中山震感",
+        "onboard_time": 1750676969,
+        "rank": 15,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 331034,
+        "num": 331034,
+        "word": "现代版农夫与蛇",
+        "onboard_time": 1750665684,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212707,
+        "num": 327163,
+        "word": "千里江山图官宣",
+        "onboard_time": 1750669463,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202920,
+        "num": 327118,
+        "word": "山河枕配音 不贴脸",
+        "onboard_time": 1750674804,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190901,
+        "num": 327109,
+        "word": "风吹半夏导演再出新作",
+        "onboard_time": 1750677028,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 327109,
+        "num": 327108,
+        "word": "男孩中考查分863分数学满分",
+        "onboard_time": 1750658782,
+        "rank": 20,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 319065,
+        "num": 319065,
+        "word": "曝某艺人把奢牌赠包挂二手平台",
+        "onboard_time": 1750676668,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262331,
+        "num": 262331,
+        "word": "孙颖莎王楚钦拟授予国际级运动健将",
+        "onboard_time": 1750674862,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247327,
+        "num": 247327,
+        "word": "秦彻登上苹果商店首页封面",
+        "onboard_time": 1750675702,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 241318,
+        "num": 241318,
+        "word": "惠州震感",
+        "onboard_time": 1750677327,
+        "rank": 24,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 158222,
+        "num": 235281,
+        "word": "谁能拒绝穿Prada的少年",
+        "onboard_time": 1750675702,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 234473,
+        "num": 234473,
+        "word": "终于有剧拍末世大女主了",
+        "onboard_time": 1750676490,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232610,
+        "num": 232610,
+        "word": "原来绝经不是突然不来月经了",
+        "onboard_time": 1750667003,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 185401,
+        "num": 227356,
+        "word": "孟子义运动步数全场第一",
+        "onboard_time": 1750676607,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175086,
+        "num": 226278,
+        "word": "田曦薇董思成 嫁金钗",
+        "onboard_time": 1750673244,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284980,
+        "num": 226153,
+        "word": "Cenm0道歉",
+        "onboard_time": 1750677447,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 225977,
+        "num": 225977,
+        "word": "原神伊涅芙",
+        "onboard_time": 1750675763,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 216449,
+        "num": 216449,
+        "word": "江西救护车涉事医院称收到网友锦旗",
+        "onboard_time": 1750663283,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205343,
+        "num": 205343,
+        "word": "伊朗报复美国的三种方式",
+        "onboard_time": 1750669644,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 171069,
+        "num": 202729,
+        "word": "御赐小仵作2首发预告",
+        "onboard_time": 1750671683,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20461,
+        "num": 201444,
+        "word": "12306否认70岁以上坐高铁打六折",
+        "onboard_time": 1750677745,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44173,
+        "num": 200860,
+        "word": "你为什么非要上那个南大啊",
+        "onboard_time": 1750677745,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 200661,
+        "num": 200661,
+        "word": "20岁女生确诊胃癌后的三个月",
+        "onboard_time": 1750667364,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187924,
+        "num": 187924,
+        "word": "厦门花100w买的52平三室两厅的房",
+        "onboard_time": 1750675885,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27808,
+        "num": 167068,
+        "word": "曹玉磊回应被清华经管学院打假",
+        "onboard_time": 1750677745,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166324,
+        "num": 166324,
+        "word": "不要高估父母不要低估恶意",
+        "onboard_time": 1750674804,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158961,
+        "num": 158961,
+        "word": "精装房背景墙虫子密密麻麻",
+        "onboard_time": 1750673963,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158908,
+        "num": 158908,
+        "word": "国际奥委会首位女性主席正式上任",
+        "onboard_time": 1750673482,
+        "rank": 42,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 141146,
+        "num": 141146,
+        "word": "19岁智力残疾女孩遭性侵产女",
+        "onboard_time": 1750662384,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139535,
+        "num": 139535,
+        "word": "王嘉尔竟然和pharrell联名了",
+        "onboard_time": 1750676848,
+        "rank": 44,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 138145,
+        "num": 138145,
+        "word": "天津本科线476",
+        "onboard_time": 1750672104,
+        "rank": 45,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 132550,
+        "num": 132550,
+        "word": "被奶茶店的果蔬汁背刺了",
+        "onboard_time": 1750677028,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 131678,
+        "num": 131678,
+        "word": "日本此前将30年内大地震概率提至80%",
+        "onboard_time": 1750677805,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 127604,
+        "num": 127604,
+        "word": "9.6万学费高校称教师基本是院士专家",
+        "onboard_time": 1750674742,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125897,
+        "num": 125897,
+        "word": "38万片杜冷丁进毒品市场院长判死缓",
+        "onboard_time": 1750676550,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同志在闽金融论述与实践启示#"
+    }
+  }
+}

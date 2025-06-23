@@ -1,7 +1,31 @@
 {
   "startTime": 1750609820904,
-  "endTime": 1750675630340,
+  "endTime": 1750677855738,
   "band_list": [
+    {
+      "raw_hot": 15869744,
+      "num": 15869744,
+      "word": "广州震感",
+      "onboard_time": 1750676308,
+      "rank": 0,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 13667346,
+      "num": 13667346,
+      "word": "清远地震",
+      "onboard_time": 1750676308,
+      "rank": 1,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 3257352,
+      "num": 3257352,
+      "word": "深圳震感",
+      "onboard_time": 1750676366,
+      "rank": 3,
+      "category": "突发/灾害"
+    },
     {
       "raw_hot": 2589233,
       "num": 2589233,
@@ -91,6 +115,14 @@
       "category": "国际时政,民生新闻"
     },
     {
+      "raw_hot": 1143160,
+      "num": 1143160,
+      "word": "广东清远4.3级地震",
+      "onboard_time": 1750676668,
+      "rank": 5,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 1140670,
       "num": 729000,
       "word": "中南财大副教授遭精神病人杀害",
@@ -137,6 +169,22 @@
       "onboard_time": 1750669404,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1021083,
+      "num": 1021083,
+      "word": "东莞震感",
+      "onboard_time": 1750676729,
+      "rank": 7,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 975975,
+      "num": 975975,
+      "word": "佛山震感",
+      "onboard_time": 1750676668,
+      "rank": 10,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 973845,
@@ -347,6 +395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 646008,
+      "num": 646008,
+      "word": "美军驻叙利亚军事基地遭袭",
+      "onboard_time": 1750675342,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 637738,
       "num": 637738,
       "word": "鹅厂2025大剧片单",
@@ -395,20 +451,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 562158,
+      "num": 993020,
+      "word": "原来成龙刚出生就出名了",
+      "onboard_time": 1750671204,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 561487,
       "num": 561487,
       "word": "仅次于以色列",
       "onboard_time": 1750665923,
       "rank": 12,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 558562,
-      "num": 558562,
-      "word": "原来成龙刚出生就出名了",
-      "onboard_time": 1750671204,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 551214,
@@ -492,7 +548,7 @@
     },
     {
       "raw_hot": 490716,
-      "num": 517922,
+      "num": 979952,
       "word": "庆余年3再次升级演员阵容",
       "onboard_time": 1750663404,
       "rank": 17,
@@ -513,6 +569,14 @@
       "onboard_time": 1750605263,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 451769,
+      "num": 451769,
+      "word": "珠海震感",
+      "onboard_time": 1750676490,
+      "rank": 13,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 451532,
@@ -593,6 +657,14 @@
       "onboard_time": 1750583962,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 405824,
+      "num": 405824,
+      "word": "中山震感",
+      "onboard_time": 1750676969,
+      "rank": 15,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 405327,
@@ -835,6 +907,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 319065,
+      "num": 319065,
+      "word": "曝某艺人把奢牌赠包挂二手平台",
+      "onboard_time": 1750676668,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 318626,
       "num": 193412,
       "word": "蜜雪冰城房塌了",
@@ -931,6 +1011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 284980,
+      "num": 226153,
+      "word": "Cenm0道歉",
+      "onboard_time": 1750677447,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 284363,
       "num": 309665,
       "word": "王勉被网友当面追问恋情",
@@ -1001,6 +1089,14 @@
       "onboard_time": 1750646783,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 262331,
+      "num": 262331,
+      "word": "孙颖莎王楚钦拟授予国际级运动健将",
+      "onboard_time": 1750674862,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 261474,
@@ -1091,6 +1187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 247327,
+      "num": 247327,
+      "word": "秦彻登上苹果商店首页封面",
+      "onboard_time": 1750675702,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 246925,
       "num": 246925,
       "word": "哥嫂要复婚要求小姑子迁走户口",
@@ -1131,6 +1235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 241318,
+      "num": 241318,
+      "word": "惠州震感",
+      "onboard_time": 1750677327,
+      "rank": 24,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 237680,
       "num": 235305,
       "word": "王欣瑜仍创造中国女网历史",
@@ -1145,6 +1257,14 @@
       "onboard_time": 1750634059,
       "rank": 14,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 234473,
+      "num": 234473,
+      "word": "终于有剧拍末世大女主了",
+      "onboard_time": 1750676490,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 233528,
@@ -1185,6 +1305,14 @@
       "onboard_time": 1750650983,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225977,
+      "num": 225977,
+      "word": "原神伊涅芙",
+      "onboard_time": 1750675763,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 225708,
@@ -1403,6 +1531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202920,
+      "num": 327118,
+      "word": "山河枕配音 不贴脸",
+      "onboard_time": 1750674804,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202218,
       "num": 202218,
       "word": "许我耀眼野心伪装版预告",
@@ -1417,14 +1553,6 @@
       "onboard_time": 1750666884,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 198839,
-      "num": 216680,
-      "word": "美军驻叙利亚军事基地遭袭",
-      "onboard_time": 1750675342,
-      "rank": 17,
-      "category": "国际时政"
     },
     {
       "raw_hot": 198337,
@@ -1473,14 +1601,6 @@
       "onboard_time": 1750602084,
       "rank": 9,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 196415,
-      "num": 196415,
-      "word": "孙颖莎王楚钦拟授予国际级运动健将",
-      "onboard_time": 1750674862,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 196057,
@@ -1579,6 +1699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190901,
+      "num": 327109,
+      "word": "风吹半夏导演再出新作",
+      "onboard_time": 1750677028,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189526,
       "num": 189526,
       "word": "上海2025高考分数线",
@@ -1609,6 +1737,14 @@
       "onboard_time": 1750644983,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187924,
+      "num": 187924,
+      "word": "厦门花100w买的52平三室两厅的房",
+      "onboard_time": 1750675885,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 187615,
@@ -1659,8 +1795,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185401,
+      "num": 227356,
+      "word": "孟子义运动步数全场第一",
+      "onboard_time": 1750676607,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183363,
-      "num": 183363,
+      "num": 226278,
       "word": "田曦薇董思成 嫁金钗",
       "onboard_time": 1750673244,
       "rank": 23,
@@ -1763,6 +1907,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 171069,
+      "num": 202729,
+      "word": "御赐小仵作2首发预告",
+      "onboard_time": 1750671683,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170624,
       "num": 170624,
       "word": "雷军祝贺BMW夺冠",
@@ -1793,14 +1945,6 @@
       "onboard_time": 1750640721,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 166115,
-      "num": 166115,
-      "word": "山河枕配音 不贴脸",
-      "onboard_time": 1750674804,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 162511,
@@ -1867,12 +2011,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159221,
-      "num": 159221,
-      "word": "御赐小仵作2首发预告",
-      "onboard_time": 1750671683,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 158961,
+      "num": 158961,
+      "word": "精装房背景墙虫子密密麻麻",
+      "onboard_time": 1750673963,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158222,
+      "num": 235281,
+      "word": "谁能拒绝穿Prada的少年",
+      "onboard_time": 1750675702,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 157914,
@@ -1888,14 +2040,6 @@
       "word": "男子奸杀7岁女童前欠网贷心生烦躁",
       "onboard_time": 1750586782,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 154811,
-      "num": 154811,
-      "word": "精装房背景墙虫子密密麻麻",
-      "onboard_time": 1750673963,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -2099,6 +2243,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 139535,
+      "num": 139535,
+      "word": "王嘉尔竟然和pharrell联名了",
+      "onboard_time": 1750676848,
+      "rank": 44,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 138904,
       "num": 212647,
       "word": "谁懂蜡笔小新看到哭的含金量",
@@ -2113,6 +2265,14 @@
       "onboard_time": 1750596623,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138145,
+      "num": 138145,
+      "word": "天津本科线476",
+      "onboard_time": 1750672104,
+      "rank": 40,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 138029,
@@ -2179,12 +2339,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132550,
+      "num": 132550,
+      "word": "被奶茶店的果蔬汁背刺了",
+      "onboard_time": 1750677028,
+      "rank": 46,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 132438,
       "num": 132438,
       "word": "枭起青壤破局枭劫海报",
       "onboard_time": 1750675282,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131678,
+      "num": 131678,
+      "word": "日本此前将30年内大地震概率提至80%",
+      "onboard_time": 1750677805,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 131674,
@@ -2227,6 +2403,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 127604,
+      "num": 246252,
+      "word": "9.6万学费高校称教师基本是院士专家",
+      "onboard_time": 1750674742,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127417,
       "num": 127417,
       "word": "浙音专业第一淘汰网红",
@@ -2251,6 +2435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125897,
+      "num": 125897,
+      "word": "38万片杜冷丁进毒品市场院长判死缓",
+      "onboard_time": 1750676550,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125596,
       "num": 125596,
       "word": "周杰伦抢票",
@@ -2265,14 +2457,6 @@
       "onboard_time": 1750672882,
       "rank": 14,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 124507,
-      "num": 124507,
-      "word": "天津本科线476",
-      "onboard_time": 1750672104,
-      "rank": 40,
-      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 124058,
@@ -2611,14 +2795,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 80429,
-      "num": 246252,
-      "word": "9.6万学费高校称教师基本是院士专家",
-      "onboard_time": 1750674742,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 79526,
       "num": 169264,
       "word": "多名乒乓少年的偶像是樊振东",
@@ -2851,6 +3027,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 54326,
+      "num": 407481,
+      "word": "特朗普被曝两周内决策是烟雾弹",
+      "onboard_time": 1750676490,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 52566,
       "num": 193695,
       "word": "伊朗军方喊话特朗普",
@@ -2931,6 +3115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44173,
+      "num": 200860,
+      "word": "你为什么非要上那个南大啊",
+      "onboard_time": 1750677745,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 42609,
       "num": 42609,
       "word": "鹿晗红帽素颜彩排照",
@@ -2988,7 +3180,7 @@
     },
     {
       "raw_hot": 36389,
-      "num": 1085704,
+      "num": 4738585,
       "word": "中国水上夏收好丰景",
       "onboard_time": 1750667904,
       "rank": 2,
@@ -3065,6 +3257,14 @@
       "onboard_time": 1750614626,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 27808,
+      "num": 167068,
+      "word": "曹玉磊回应被清华经管学院打假",
+      "onboard_time": 1750677745,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27615,
@@ -3145,6 +3345,14 @@
       "onboard_time": 1750635319,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 20461,
+      "num": 201444,
+      "word": "12306否认70岁以上坐高铁打六折",
+      "onboard_time": 1750677745,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20117,

@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1750675630340,
+  "endTime": 1750677855738,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -275,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 15869744,
+      "num": 15869744,
+      "word": "广州震感",
+      "onboard_time": 1748496804,
+      "rank": 3,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 15762339,
       "num": 15762339,
       "word": "全球股市巨震",
@@ -393,6 +401,14 @@
       "onboard_time": 1741077081,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 13667346,
+      "num": 13667346,
+      "word": "清远地震",
+      "onboard_time": 1750676308,
+      "rank": 1,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 13594592,
@@ -2384,22 +2400,6 @@
       "word": "金秀贤回应交往金赛纶是谣言",
       "onboard_time": 1741835121,
       "rank": 0,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 3497207,
-      "num": 3497207,
-      "word": "一天官宣三部大剧",
-      "onboard_time": 1747106902,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 3496470,
-      "num": 471368,
-      "word": "关晓彤无名指戒指",
-      "onboard_time": 1747210283,
-      "rank": 11,
       "category": "艺人"
     }
   ],
