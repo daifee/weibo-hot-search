@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750697426644,
+  "endTime": 1750699490699,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -555,6 +555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 752825,
+      "num": 752825,
+      "word": "男子公海上刺死同事",
+      "onboard_time": 1750693822,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 741470,
       "num": 549542,
       "word": "伊朗称将向世界展示力量",
@@ -745,14 +753,6 @@
       "onboard_time": 1750571482,
       "rank": 7,
       "category": "旅游,民生新闻"
-    },
-    {
-      "raw_hot": 650631,
-      "num": 727555,
-      "word": "男子公海上刺死同事",
-      "onboard_time": 1750693822,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 646008,
@@ -2409,6 +2409,14 @@
       "onboard_time": 1750565663,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 262361,
+      "num": 120032,
+      "word": "刘学义孟子义回应看起来差辈",
+      "onboard_time": 1750696340,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 262331,
@@ -4747,6 +4755,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 145260,
+      "num": 172478,
+      "word": "你是谁 快从彭昱畅身上下来",
+      "onboard_time": 1750695441,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144725,
       "num": 183161,
       "word": "遭精神病人杀害教授妻子发声",
@@ -5121,6 +5137,14 @@
       "onboard_time": 1750512804,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 133095,
+      "num": 180242,
+      "word": "胖东来员工称曾因停车问题考虑闭店",
+      "onboard_time": 1750695201,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132834,
@@ -5923,14 +5947,6 @@
       "category": "国际时政,民生新闻"
     },
     {
-      "raw_hot": 107327,
-      "num": 172478,
-      "word": "你是谁 快从彭昱畅身上下来",
-      "onboard_time": 1750695441,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 107021,
       "num": 107021,
       "word": "大部分人都没你早上喝的那杯水重要",
@@ -6443,14 +6459,6 @@
       "category": "国际时政,民生新闻"
     },
     {
-      "raw_hot": 82121,
-      "num": 82121,
-      "word": "刘学义孟子义回应看起来差辈",
-      "onboard_time": 1750696340,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 80843,
       "num": 80843,
       "word": "清华食堂的菜单好像论文",
@@ -6529,14 +6537,6 @@
       "onboard_time": 1750695860,
       "rank": 39,
       "category": "数码"
-    },
-    {
-      "raw_hot": 75438,
-      "num": 180242,
-      "word": "胖东来员工称曾因停车问题考虑闭店",
-      "onboard_time": 1750695201,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75251,
@@ -6827,11 +6827,27 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 56403,
+      "num": 69992,
+      "word": "伊朗再次向以色列发射导弹",
+      "onboard_time": 1750697299,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 56401,
       "num": 223091,
       "word": "伊以美发疯死循环",
       "onboard_time": 1750645641,
       "rank": 29,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 56379,
+      "num": 56379,
+      "word": "伊朗大型军事设施所在地遭袭",
+      "onboard_time": 1750698077,
+      "rank": 35,
       "category": "国际时政"
     },
     {
@@ -6963,14 +6979,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 49252,
-      "num": 69992,
-      "word": "伊朗再次向以色列发射导弹",
-      "onboard_time": 1750697299,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 48408,
       "num": 48408,
       "word": "Rihanna三胎孕肚",
@@ -7027,6 +7035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 45179,
+      "num": 45179,
+      "word": "美军基地遭袭击",
+      "onboard_time": 1750699336,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 44607,
       "num": 306308,
       "word": "日本紧急进口大米应对短缺",
@@ -7057,6 +7073,14 @@
       "onboard_time": 1750677745,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43067,
+      "num": 43067,
+      "word": "于正又让你们失望了",
+      "onboard_time": 1750698139,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 42609,
@@ -7441,6 +7465,14 @@
       "onboard_time": 1750591999,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 24332,
+      "num": 70589,
+      "word": "为什么推荐报考河海大学",
+      "onboard_time": 1750698738,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 24223,

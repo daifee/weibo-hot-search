@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/22 00:30:38 ~ 2025/06/24 00:50:26
+本榜单时间：2025/06/22 00:30:38 ~ 2025/06/24 01:24:50
 </p>
 </blockquote>
 <p>
@@ -429,6 +429,12 @@ ABB式名字 容易火（热度：1017113）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%85%AC%E6%B5%B7%E4%B8%8A%E5%88%BA%E6%AD%BB%E5%90%8C%E4%BA%8B%23" target="weibo">
+男子公海上刺死同事（热度：752825）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%B0%86%E5%90%91%E4%B8%96%E7%95%8C%E5%B1%95%E7%A4%BA%E5%8A%9B%E9%87%8F%23" target="weibo">
 伊朗称将向世界展示力量（热度：741470）
 </a>
@@ -569,12 +575,6 @@ EDG申请执行Scout3351万（热度：690406）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E8%B5%9B%E9%87%8C%E6%9C%A8%E6%B9%96%E4%B8%80SUV%E6%99%AF%E5%8C%BA%E6%BC%82%E7%A7%BB%23" target="weibo">
 新疆赛里木湖一SUV景区漂移（热度：651651）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%85%AC%E6%B5%B7%E4%B8%8A%E5%88%BA%E6%AD%BB%E5%90%8C%E4%BA%8B%23" target="weibo">
-男子公海上刺死同事（热度：650631）
 </a>
 </li>
 
@@ -1817,6 +1817,12 @@ Cenm0道歉（热度：284980）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%9F%E6%9D%8E%E4%BD%B3%E8%88%AA%E4%B8%80%E4%B8%AA%E6%B2%A1%E5%BF%85%E8%A6%81%E4%B8%80%E4%B8%AA%E4%B8%8D%E9%9C%80%E8%A6%81%23" target="weibo">
 李晟李佳航一个没必要一个不需要（热度：262384）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AD%A6%E4%B9%89%E5%AD%9F%E5%AD%90%E4%B9%89%E5%9B%9E%E5%BA%94%E7%9C%8B%E8%B5%B7%E6%9D%A5%E5%B7%AE%E8%BE%88%23" target="weibo">
+刘学义孟子义回应看起来差辈（热度：262361）
 </a>
 </li>
 
@@ -3573,6 +3579,12 @@ we are 伐木累（热度：155367）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%98%AF%E8%B0%81%20%E5%BF%AB%E4%BB%8E%E5%BD%AD%E6%98%B1%E7%95%85%E8%BA%AB%E4%B8%8A%E4%B8%8B%E6%9D%A5%23" target="weibo">
+你是谁 快从彭昱畅身上下来（热度：145260）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%81%AD%E7%B2%BE%E7%A5%9E%E7%97%85%E4%BA%BA%E6%9D%80%E5%AE%B3%E6%95%99%E6%8E%88%E5%A6%BB%E5%AD%90%E5%8F%91%E5%A3%B0%23" target="weibo">
 遭精神病人杀害教授妻子发声（热度：144725）
 </a>
@@ -3851,6 +3863,12 @@ NBA（热度：135070）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD2%E6%9E%B6B2%E8%BD%B0%E7%82%B8%E6%9C%BA%E6%88%96%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97%E6%A0%B8%E8%AE%BE%E6%96%BD%23" target="weibo">
 美国2架B2轰炸机或打击伊朗核设施（热度：133442）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E5%91%98%E5%B7%A5%E7%A7%B0%E6%9B%BE%E5%9B%A0%E5%81%9C%E8%BD%A6%E9%97%AE%E9%A2%98%E8%80%83%E8%99%91%E9%97%AD%E5%BA%97%23" target="weibo">
+胖东来员工称曾因停车问题考虑闭店（热度：133095）
 </a>
 </li>
 
@@ -4455,12 +4473,6 @@ tzym状态（热度：115109）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%98%AF%E8%B0%81%20%E5%BF%AB%E4%BB%8E%E5%BD%AD%E6%98%B1%E7%95%85%E8%BA%AB%E4%B8%8A%E4%B8%8B%E6%9D%A5%23" target="weibo">
-你是谁 快从彭昱畅身上下来（热度：107327）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%83%A8%E5%88%86%E4%BA%BA%E9%83%BD%E6%B2%A1%E4%BD%A0%E6%97%A9%E4%B8%8A%E5%96%9D%E7%9A%84%E9%82%A3%E6%9D%AF%E6%B0%B4%E9%87%8D%E8%A6%81%23" target="weibo">
 大部分人都没你早上喝的那杯水重要（热度：107021）
 </a>
@@ -4845,12 +4857,6 @@ Gr对战ACT（热度：97047）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AD%A6%E4%B9%89%E5%AD%9F%E5%AD%90%E4%B9%89%E5%9B%9E%E5%BA%94%E7%9C%8B%E8%B5%B7%E6%9D%A5%E5%B7%AE%E8%BE%88%23" target="weibo">
-刘学义孟子义回应看起来差辈（热度：82121）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E9%A3%9F%E5%A0%82%E7%9A%84%E8%8F%9C%E5%8D%95%E5%A5%BD%E5%83%8F%E8%AE%BA%E6%96%87%23" target="weibo">
 清华食堂的菜单好像论文（热度：80843）
 </a>
@@ -4907,12 +4913,6 @@ Gr对战ACT（热度：97047）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A2025%23" target="weibo">
 华为开发者大会2025（热度：76131）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E5%91%98%E5%B7%A5%E7%A7%B0%E6%9B%BE%E5%9B%A0%E5%81%9C%E8%BD%A6%E9%97%AE%E9%A2%98%E8%80%83%E8%99%91%E9%97%AD%E5%BA%97%23" target="weibo">
-胖东来员工称曾因停车问题考虑闭店（热度：75438）
 </a>
 </li>
 
@@ -5133,8 +5133,20 @@ AI修图（热度：71126）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%86%8D%E6%AC%A1%E5%90%91%E4%BB%A5%E8%89%B2%E5%88%97%E5%8F%91%E5%B0%84%E5%AF%BC%E5%BC%B9%23" target="weibo">
+伊朗再次向以色列发射导弹（热度：56403）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E4%BB%A5%E7%BE%8E%E5%8F%91%E7%96%AF%E6%AD%BB%E5%BE%AA%E7%8E%AF%23" target="weibo">
 伊以美发疯死循环（热度：56401）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%A4%A7%E5%9E%8B%E5%86%9B%E4%BA%8B%E8%AE%BE%E6%96%BD%E6%89%80%E5%9C%A8%E5%9C%B0%E9%81%AD%E8%A2%AD%23" target="weibo">
+伊朗大型军事设施所在地遭袭（热度：56379）
 </a>
 </li>
 
@@ -5235,12 +5247,6 @@ AI修图（热度：71126）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%86%8D%E6%AC%A1%E5%90%91%E4%BB%A5%E8%89%B2%E5%88%97%E5%8F%91%E5%B0%84%E5%AF%BC%E5%BC%B9%23" target="weibo">
-伊朗再次向以色列发射导弹（热度：49252）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23Rihanna%E4%B8%89%E8%83%8E%E5%AD%95%E8%82%9A%23" target="weibo">
 Rihanna三胎孕肚（热度：48408）
 </a>
@@ -5283,6 +5289,12 @@ Rihanna三胎孕肚（热度：48408）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0%E9%81%AD%E8%A2%AD%E5%87%BB%23" target="weibo">
+美军基地遭袭击（热度：45179）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%B4%A7%E6%80%A5%E8%BF%9B%E5%8F%A3%E5%A4%A7%E7%B1%B3%E5%BA%94%E5%AF%B9%E7%9F%AD%E7%BC%BA%23" target="weibo">
 日本紧急进口大米应对短缺（热度：44607）
 </a>
@@ -5303,6 +5315,12 @@ Rihanna三胎孕肚（热度：48408）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2312306%E5%90%A6%E8%AE%A470%E5%B2%81%E4%BB%A5%E4%B8%8A%E5%9D%90%E9%AB%98%E9%93%81%E6%89%93%E5%85%AD%E6%8A%98%23" target="weibo">
 12306否认70岁以上坐高铁打六折（热度：43723）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E5%8F%88%E8%AE%A9%E4%BD%A0%E4%BB%AC%E5%A4%B1%E6%9C%9B%E4%BA%86%23" target="weibo">
+于正又让你们失望了（热度：43067）
 </a>
 </li>
 
@@ -5591,6 +5609,12 @@ Rihanna三胎孕肚（热度：48408）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23LPL%E5%85%AC%E7%9B%8A%E7%89%B9%E5%88%AB%E8%A1%8C%E5%8A%A8%23" target="weibo">
 LPL公益特别行动（热度：24394）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8E%A8%E8%8D%90%E6%8A%A5%E8%80%83%E6%B2%B3%E6%B5%B7%E5%A4%A7%E5%AD%A6%23" target="weibo">
+为什么推荐报考河海大学（热度：24332）
 </a>
 </li>
 

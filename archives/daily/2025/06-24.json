@@ -1,6 +1,6 @@
 {
   "startTime": 1750696476897,
-  "endTime": 1750697426644,
+  "endTime": 1750699490699,
   "band_list": [
     {
       "raw_hot": 1560125,
@@ -19,20 +19,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 752825,
+      "num": 752825,
+      "word": "男子公海上刺死同事",
+      "onboard_time": 1750693822,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 715825,
       "num": 715825,
       "word": "微信语音 丑",
       "onboard_time": 1750673602,
       "rank": 1,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 650631,
-      "num": 727555,
-      "word": "男子公海上刺死同事",
-      "onboard_time": 1750693822,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 597131,
@@ -99,6 +99,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 262361,
+      "num": 120032,
+      "word": "刘学义孟子义回应看起来差辈",
+      "onboard_time": 1750696340,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 257613,
       "num": 257613,
       "word": "伊朗导弹击中以色列南部",
@@ -155,6 +163,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 145260,
+      "num": 172478,
+      "word": "你是谁 快从彭昱畅身上下来",
+      "onboard_time": 1750695441,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143442,
       "num": 143442,
       "word": "丈夫逃避交警查车溺亡妻子索赔被驳回",
@@ -169,6 +185,14 @@
       "onboard_time": 1750690164,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133095,
+      "num": 180242,
+      "word": "胖东来员工称曾因停车问题考虑闭店",
+      "onboard_time": 1750695201,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121481,
@@ -209,14 +233,6 @@
       "onboard_time": 1750675342,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 107327,
-      "num": 172478,
-      "word": "你是谁 快从彭昱畅身上下来",
-      "onboard_time": 1750695441,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 105854,
@@ -291,14 +307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 82121,
-      "num": 82121,
-      "word": "刘学义孟子义回应看起来差辈",
-      "onboard_time": 1750696340,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 82045,
       "num": 82045,
       "word": "韩国人科普中国纸巾",
@@ -328,14 +336,6 @@
       "word": "遇难者遗体带回家办葬礼被缩减赔偿",
       "onboard_time": 1750690886,
       "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 75438,
-      "num": 180242,
-      "word": "胖东来员工称曾因停车问题考虑闭店",
-      "onboard_time": 1750695201,
-      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -395,11 +395,27 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 49252,
+      "raw_hot": 56403,
       "num": 69992,
       "word": "伊朗再次向以色列发射导弹",
       "onboard_time": 1750697299,
       "rank": 48,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 56379,
+      "num": 56379,
+      "word": "伊朗大型军事设施所在地遭袭",
+      "onboard_time": 1750698077,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 47675,
+      "num": 47675,
+      "word": "美攻击伊朗后日韩首脑将缺席北约峰会",
+      "onboard_time": 1750684823,
+      "rank": 40,
       "category": "国际时政"
     },
     {
@@ -409,6 +425,38 @@
       "onboard_time": 1750676366,
       "rank": 49,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 45179,
+      "num": 45179,
+      "word": "美军基地遭袭击",
+      "onboard_time": 1750699336,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 43067,
+      "num": 43067,
+      "word": "于正又让你们失望了",
+      "onboard_time": 1750698139,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 38403,
+      "num": 130408,
+      "word": "南京先锋书店突然拆门牌引网友猜测",
+      "onboard_time": 1750687884,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24332,
+      "num": 70589,
+      "word": "为什么推荐报考河海大学",
+      "onboard_time": 1750698738,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 12112,
