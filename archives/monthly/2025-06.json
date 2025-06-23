@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750646076576,
+  "endTime": 1750651144535,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -1545,6 +1545,14 @@
       "onboard_time": 1748772499,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1602224,
+      "num": 716431,
+      "word": "祝绪丹告别嘉行",
+      "onboard_time": 1750646242,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1601802,
@@ -3339,6 +3347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1078486,
+      "num": 711728,
+      "word": "中南财大副教授遭精神病人杀害",
+      "onboard_time": 1750646304,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1078006,
       "num": 1138183,
       "word": "李在明宣誓就职仪式",
@@ -4683,6 +4699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 884916,
+      "num": 1141586,
+      "word": "豆包p丑 无人生还",
+      "onboard_time": 1750644440,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 882775,
       "num": 882775,
       "word": "aespa回归预告",
@@ -5539,14 +5563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 797689,
-      "num": 797689,
-      "word": "豆包p丑 无人生还",
-      "onboard_time": 1750644440,
-      "rank": 33,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 796029,
       "num": 357274,
       "word": "她一个月赶了我一辈子的通勤",
@@ -5931,6 +5947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 761982,
+      "num": 434638,
+      "word": "张杰不想去歌手的原因",
+      "onboard_time": 1750646063,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 761892,
       "num": 392027,
       "word": "老师被曝让学生一字排开跪地写检讨",
@@ -5952,6 +5976,14 @@
       "word": "王安宇亲空气还要翻面",
       "onboard_time": 1749013222,
       "rank": 20,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 758552,
+      "num": 758552,
+      "word": "庆余年3首发概念海报",
+      "onboard_time": 1750644682,
+      "rank": 13,
       "category": "剧集"
     },
     {
@@ -6683,6 +6715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 704903,
+      "num": 704903,
+      "word": "慕胥辞迪丽热巴陈飞宇领衔主演",
+      "onboard_time": 1750649604,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 704399,
       "num": 856610,
       "word": "潘粤明炮轰国足教练",
@@ -6705,6 +6745,14 @@
       "onboard_time": 1749177739,
       "rank": 4,
       "category": "剧集,教育"
+    },
+    {
+      "raw_hot": 702434,
+      "num": 383838,
+      "word": "林允有阴湿那味儿了",
+      "onboard_time": 1750647083,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 701668,
@@ -8233,6 +8281,14 @@
       "onboard_time": 1749125361,
       "rank": 4,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 614773,
+      "num": 381774,
+      "word": "张若昀发文回应庆余年3",
+      "onboard_time": 1750649963,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 614763,
@@ -10403,6 +10459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 514239,
+      "num": 379764,
+      "word": "以色列媒体开骂",
+      "onboard_time": 1750646123,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 514024,
       "num": 288959,
       "word": "在哈佛演讲中国女生陷入两难",
@@ -10587,6 +10651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 506192,
+      "num": 378454,
+      "word": "终于知道婴儿为啥爱出门遛弯了",
+      "onboard_time": 1750649243,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 505658,
       "num": 284786,
       "word": "土耳其总统公开支持伊朗",
@@ -10753,6 +10825,14 @@
       "onboard_time": 1749523459,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 499175,
+      "num": 380824,
+      "word": "骄阳似我",
+      "onboard_time": 1750645641,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 498919,
@@ -11985,6 +12065,14 @@
       "onboard_time": 1748997262,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 460264,
+      "num": 460264,
+      "word": "小米YU7流金粉",
+      "onboard_time": 1750649843,
+      "rank": 6,
+      "category": "汽车"
     },
     {
       "raw_hot": 459837,
@@ -14459,14 +14547,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 388118,
-      "num": 388118,
-      "word": "庆余年3首发概念海报",
-      "onboard_time": 1750644682,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 388079,
       "num": 466295,
       "word": "谁懂卫兰歌手唱大哥",
@@ -14545,6 +14625,14 @@
       "onboard_time": 1750043300,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 385565,
+      "num": 385565,
+      "word": "奶茶冰块 脏",
+      "onboard_time": 1750643601,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 385537,
@@ -14961,6 +15049,14 @@
       "onboard_time": 1749828624,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 375514,
+      "num": 375514,
+      "word": "亚历山大FMVP",
+      "onboard_time": 1750648581,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 375462,
@@ -16403,6 +16499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 345681,
+      "num": 345681,
+      "word": "雷霆总冠军",
+      "onboard_time": 1750647742,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 345524,
       "num": 345524,
       "word": "济州岛偶遇叶舒华",
@@ -16641,14 +16745,6 @@
       "onboard_time": 1749983840,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 341691,
-      "num": 341691,
-      "word": "奶茶冰块 脏",
-      "onboard_time": 1750643601,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 341505,
@@ -17001,6 +17097,14 @@
       "onboard_time": 1749448942,
       "rank": 47,
       "category": "民生新闻,美食"
+    },
+    {
+      "raw_hot": 335260,
+      "num": 335260,
+      "word": "祝绪丹个人工作室",
+      "onboard_time": 1750649903,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 335195,
@@ -18755,6 +18859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 302452,
+      "num": 385316,
+      "word": "女子网恋20天被骗近600万",
+      "onboard_time": 1750649423,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 302234,
       "num": 302234,
       "word": "曹公公怎么这么难杀",
@@ -19281,6 +19393,14 @@
       "onboard_time": 1750488381,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 294504,
+      "num": 294504,
+      "word": "关晓彤刘涛首个轻喜剧作品",
+      "onboard_time": 1750649662,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 294239,
@@ -20123,12 +20243,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 283243,
+      "num": 283243,
+      "word": "雷军宣布面向下个时代的智能设备",
+      "onboard_time": 1750646063,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 283227,
       "num": 341446,
       "word": "aespa回归新歌",
       "onboard_time": 1750335802,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 283162,
+      "num": 283162,
+      "word": "花开锦绣官宣丁禹兮邓恩熙",
+      "onboard_time": 1750650442,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 283082,
@@ -20665,6 +20801,14 @@
       "onboard_time": 1749825985,
       "rank": 31,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 275740,
+      "num": 275740,
+      "word": "你的名字 韦一敏",
+      "onboard_time": 1750646783,
+      "rank": 32,
+      "category": "幽默,动漫"
     },
     {
       "raw_hot": 275578,
@@ -21683,6 +21827,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 262455,
+      "num": 262455,
+      "word": "终于有剧拍了五代十国",
+      "onboard_time": 1750646783,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 262384,
       "num": 262384,
       "word": "李晟李佳航一个没必要一个不需要",
@@ -21833,6 +21985,14 @@
       "onboard_time": 1749632662,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 260506,
+      "num": 260506,
+      "word": "法国发现新血型全球仅一人",
+      "onboard_time": 1750650864,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 260484,
@@ -22289,6 +22449,14 @@
       "onboard_time": 1750563924,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 256138,
+      "num": 256138,
+      "word": "赴山海",
+      "onboard_time": 1749048144,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 256100,
@@ -23201,14 +23369,6 @@
       "onboard_time": 1749009560,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 245224,
-      "num": 245224,
-      "word": "骄阳似我",
-      "onboard_time": 1750645641,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 245162,
@@ -24715,14 +24875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 230694,
-      "num": 230694,
-      "word": "张杰不想去歌手的原因",
-      "onboard_time": 1750646063,
-      "rank": 28,
-      "category": "演出"
-    },
-    {
       "raw_hot": 230685,
       "num": 230685,
       "word": "王曼昱电光蓝夹克",
@@ -25371,6 +25523,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 225485,
+      "num": 225485,
+      "word": "NBA七年七个总冠军",
+      "onboard_time": 1750649783,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225473,
       "num": 282667,
       "word": "热播剧男主回应接戏难兼职泰山陪爬",
@@ -25905,6 +26065,14 @@
       "onboard_time": 1749299722,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 221848,
+      "num": 221848,
+      "word": "登陆少年与金钟仁同框",
+      "onboard_time": 1750649243,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 221836,
@@ -28867,14 +29035,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 204347,
-      "num": 204347,
-      "word": "赴山海",
-      "onboard_time": 1749048144,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 204329,
       "num": 204329,
       "word": "王俊凯魔性舞蹈零帧起跳",
@@ -29643,6 +29803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201326,
+      "num": 201326,
+      "word": "北京奥运时孙颖莎打球才不到3年",
+      "onboard_time": 1750648223,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201316,
       "num": 201316,
       "word": "肖战不舍往日之景",
@@ -30267,6 +30435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199076,
+      "num": 378607,
+      "word": "杨幂演技",
+      "onboard_time": 1750650323,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 199050,
       "num": 199050,
       "word": "临江仙23集爆哭",
@@ -30707,6 +30883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197525,
+      "num": 197525,
+      "word": "杨紫工作室发通报声明",
+      "onboard_time": 1750650385,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197501,
       "num": 197501,
       "word": "檀健次把音乐节开成个人演唱会",
@@ -30785,6 +30969,14 @@
       "onboard_time": 1749708681,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 197177,
+      "num": 197177,
+      "word": "终于知道为什么说同学都是人脉了",
+      "onboard_time": 1750650562,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 197150,
@@ -31089,6 +31281,14 @@
       "onboard_time": 1749261802,
       "rank": 26,
       "category": "时尚,动漫"
+    },
+    {
+      "raw_hot": 195899,
+      "num": 195899,
+      "word": "赛里木湖景区草地漂移驾驶人致歉",
+      "onboard_time": 1750648943,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195884,
@@ -33049,6 +33249,14 @@
       "onboard_time": 1750472661,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188464,
+      "num": 188464,
+      "word": "被冯绍峰版狄仁杰吓到了",
+      "onboard_time": 1750650983,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 188428,
@@ -35635,6 +35843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 178285,
+      "num": 178285,
+      "word": "一家全是妈妈的公司",
+      "onboard_time": 1750648223,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 178272,
       "num": 178272,
       "word": "金莎孙丞潇综艺里连亲了三下",
@@ -36505,6 +36721,14 @@
       "onboard_time": 1750495881,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174398,
+      "num": 339122,
+      "word": "小米YU7是先进SUV",
+      "onboard_time": 1750649604,
+      "rank": 24,
+      "category": "汽车"
     },
     {
       "raw_hot": 174387,
@@ -37865,14 +38089,6 @@
       "onboard_time": 1748782821,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 169851,
-      "num": 169851,
-      "word": "雷军宣布面向下个时代的智能设备",
-      "onboard_time": 1750646063,
-      "rank": 38,
-      "category": "互联网"
     },
     {
       "raw_hot": 169819,
@@ -45691,6 +45907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144725,
+      "num": 183161,
+      "word": "遭精神病人杀害教授妻子发声",
+      "onboard_time": 1750649423,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144714,
       "num": 282873,
       "word": "大鹏眼里全是对肌肉的渴望",
@@ -46481,6 +46705,14 @@
       "onboard_time": 1748954541,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 142191,
+      "num": 220442,
+      "word": "真是一场酣畅淋漓的雄竞",
+      "onboard_time": 1750650262,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 142158,
@@ -59451,6 +59683,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 104722,
+      "num": 381412,
+      "word": "伊朗民众说会一直反抗到底",
+      "onboard_time": 1750649542,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 104713,
       "num": 230832,
       "word": "泡泡玛特市值首次超越日本三丽鸥",
@@ -59793,6 +60033,14 @@
       "onboard_time": 1749863719,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103080,
+      "num": 377656,
+      "word": "食品科学与工程真正的真香专业",
+      "onboard_time": 1750650385,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 103038,
@@ -65441,6 +65689,14 @@
       "onboard_time": 1749545961,
       "rank": 14,
       "category": "民生新闻,体育"
+    },
+    {
+      "raw_hot": 77197,
+      "num": 285553,
+      "word": "燕窝银耳饮没有燕窝举报却不予立案",
+      "onboard_time": 1750650083,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 77157,
