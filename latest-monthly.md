@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/23 16:50:32
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/23 17:31:20
 </p>
 </blockquote>
 <p>
@@ -3375,6 +3375,12 @@ labubu（热度：930311）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%BC%98%E6%AF%85%20%E8%A7%81%E4%BA%BA%E4%B8%8B%E8%8F%9C%E7%A2%9F%23" target="weibo">
+王弘毅 见人下菜碟（热度：926901）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E8%AE%A4%E7%8E%B0%E8%B1%A1%E7%BA%A7%E5%A4%A7%E7%88%86%E5%89%A7%23" target="weibo">
 公认现象级大爆剧（热度：926192）
 </a>
@@ -4577,6 +4583,12 @@ T3司机猥亵大三女生被行拘5日（热度：810171）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%86%E4%BD%99%E5%B9%B43%E9%A6%96%E5%8F%91%E6%A6%82%E5%BF%B5%E6%B5%B7%E6%8A%A5%23" target="weibo">
 庆余年3首发概念海报（热度：758552）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B0%B4%E6%9E%9C%E5%A7%90%E6%8A%8Alabubu%E6%89%93%E9%A3%9E%E4%BA%86%23" target="weibo">
+水果姐把labubu打飞了（热度：757851）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ Bin 闹剧结束了（热度：638394）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E9%80%81labubu%23" target="weibo">
 鹿晗送labubu（热度：636803）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%9A%E5%9C%B0%E7%88%86%E5%8F%91%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8A%97%E8%AE%AE%E6%B8%B8%E8%A1%8C%23" target="weibo">
-美国多地爆发大规模抗议游行（热度：635668）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9Cvs%E6%9E%97%E9%AB%98%E8%BF%9C%23" target="weibo">
-樊振东vs林高远（热度：635662）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750668632401,
+  "endTime": 1750671080030,
   "band_list": [
     {
       "raw_hot": 7413013,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 1081884,
-      "num": 352933,
+      "num": 499631,
       "word": "魏大勋接秦岚回家",
       "onboard_time": 1750665144,
       "rank": 11,
@@ -289,6 +289,14 @@
       "onboard_time": 1750558942,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 926901,
+      "num": 599319,
+      "word": "王弘毅 见人下菜碟",
+      "onboard_time": 1750669404,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 924354,
@@ -417,6 +425,14 @@
       "onboard_time": 1750644682,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 757851,
+      "num": 757851,
+      "word": "水果姐把labubu打飞了",
+      "onboard_time": 1750669043,
+      "rank": 1,
+      "category": "演出,休闲"
     },
     {
       "raw_hot": 757539,
@@ -731,6 +747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 561487,
+      "num": 561487,
+      "word": "仅次于以色列",
+      "onboard_time": 1750665923,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 560125,
       "num": 560125,
       "word": "那尔那茜委培协议要求毕业回内蒙",
@@ -777,6 +801,14 @@
       "onboard_time": 1750665804,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 549148,
+      "num": 549148,
+      "word": "伊朗称将向世界展示力量",
+      "onboard_time": 1750668744,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 541451,
@@ -827,6 +859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 526093,
+      "num": 491687,
+      "word": "李敏镐从未回春",
+      "onboard_time": 1750667123,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 523430,
       "num": 389756,
       "word": "跳楼机好不容易升咖又打回原形了",
@@ -841,14 +881,6 @@
       "onboard_time": 1750602743,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 518775,
-      "num": 352636,
-      "word": "仅次于以色列",
-      "onboard_time": 1750665923,
-      "rank": 12,
-      "category": "国际时政"
     },
     {
       "raw_hot": 518686,
@@ -908,7 +940,7 @@
     },
     {
       "raw_hot": 491934,
-      "num": 350679,
+      "num": 362047,
       "word": "宋佳 陈龙",
       "onboard_time": 1750665144,
       "rank": 15,
@@ -916,7 +948,7 @@
     },
     {
       "raw_hot": 490716,
-      "num": 490716,
+      "num": 517922,
       "word": "庆余年3再次升级演员阵容",
       "onboard_time": 1750663404,
       "rank": 17,
@@ -928,6 +960,14 @@
       "word": "哥嫂要复婚要求小姑子迁走户口",
       "onboard_time": 1750596022,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 488555,
+      "num": 488555,
+      "word": "20岁女生确诊胃癌后的三个月",
+      "onboard_time": 1750667364,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -1163,6 +1203,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 412281,
+      "num": 412281,
+      "word": "原来绝经不是突然不来月经了",
+      "onboard_time": 1750667003,
+      "rank": 14,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 409228,
       "num": 409228,
       "word": "刘学义孟子义看起来差辈了",
@@ -1339,14 +1387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 371256,
-      "num": 351257,
-      "word": "原来绝经不是突然不来月经了",
-      "onboard_time": 1750667003,
-      "rank": 14,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 369045,
       "num": 451629,
       "word": "清华大学严正声明",
@@ -1377,6 +1417,14 @@
       "onboard_time": 1750597942,
       "rank": 30,
       "category": "体育,民生新闻"
+    },
+    {
+      "raw_hot": 358241,
+      "num": 358241,
+      "word": "千里江山图官宣",
+      "onboard_time": 1750669463,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 354193,
@@ -1505,14 +1553,6 @@
       "onboard_time": 1750655483,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 341842,
-      "num": 341842,
-      "word": "李敏镐从未回春",
-      "onboard_time": 1750667123,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 339221,
@@ -1987,6 +2027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 262481,
+      "num": 262481,
+      "word": "现代版农夫与蛇",
+      "onboard_time": 1750665684,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 262384,
       "num": 262384,
       "word": "李晟李佳航一个没必要一个不需要",
@@ -2411,6 +2459,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 218864,
+      "num": 218864,
+      "word": "严浩翔帮唱舞台邀请王嘉尔改编",
+      "onboard_time": 1750668564,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218506,
       "num": 218506,
       "word": "肖战美貌受害者加一",
@@ -2521,14 +2577,6 @@
       "onboard_time": 1750655243,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 211844,
-      "num": 203207,
-      "word": "20岁女生确诊胃癌后的三个月",
-      "onboard_time": 1750667364,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 211738,
@@ -2657,6 +2705,14 @@
       "onboard_time": 1750657463,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204309,
+      "num": 204309,
+      "word": "中方回应伊朗拟关闭霍尔木兹海峡",
+      "onboard_time": 1750668803,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 204301,
@@ -2867,6 +2923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195379,
+      "num": 195379,
+      "word": "枭起青壤预告",
+      "onboard_time": 1750670784,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194707,
       "num": 231299,
       "word": "湖北2.5天休假遇冷",
@@ -2931,6 +2995,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192338,
+      "num": 180086,
+      "word": "张婧仪好像穿了小雨的衣服",
+      "onboard_time": 1750670244,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 191702,
+      "num": 191702,
+      "word": "许我耀眼野心伪装版预告",
+      "onboard_time": 1750670843,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191640,
       "num": 191640,
       "word": "Labubu 苏大强版",
@@ -2953,14 +3033,6 @@
       "onboard_time": 1750591641,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 190888,
-      "num": 190888,
-      "word": "现代版农夫与蛇",
-      "onboard_time": 1750665684,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 190470,
@@ -3091,6 +3163,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 183662,
+      "num": 183662,
+      "word": "小米YU7",
+      "onboard_time": 1750669463,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 182720,
       "num": 182720,
       "word": "A股",
@@ -3129,6 +3209,14 @@
       "onboard_time": 1750602563,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181398,
+      "num": 509560,
+      "word": "伊朗报复美国的三种方式",
+      "onboard_time": 1750669644,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 181280,
@@ -3496,6 +3584,14 @@
       "word": "醉梦",
       "onboard_time": 1750645341,
       "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 160143,
+      "num": 160143,
+      "word": "刘宇宁高伟光二搭",
+      "onboard_time": 1750670244,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -3867,6 +3963,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 144454,
+      "num": 144454,
+      "word": "国家帮台湾居民在内中国公民撤离伊朗",
+      "onboard_time": 1750669463,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 144343,
       "num": 144343,
       "word": "刘学义等谭松韵 新郎等新娘",
@@ -3907,6 +4011,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142652,
+      "num": 205838,
+      "word": "男司仪多次叫错新郎名字还拒退全款",
+      "onboard_time": 1750668144,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142366,
+      "num": 142366,
+      "word": "普京访华将停留4天",
+      "onboard_time": 1750668984,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 142282,
       "num": 142282,
       "word": "对何炅年龄有了实感",
@@ -3921,6 +4041,14 @@
       "onboard_time": 1750650262,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 141959,
+      "num": 142790,
+      "word": "盛阳和单依纯一种传承的关系",
+      "onboard_time": 1750670002,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 141911,
@@ -4067,14 +4195,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 136396,
-      "num": 136396,
-      "word": "严浩翔帮唱舞台邀请王嘉尔改编",
-      "onboard_time": 1750668564,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 136382,
       "num": 136382,
       "word": "张杰未live巡回演唱会",
@@ -4217,6 +4337,14 @@
       "onboard_time": 1750653263,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129025,
+      "num": 129025,
+      "word": "高考第一批查分的人已出现",
+      "onboard_time": 1750668924,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 128859,
@@ -4419,12 +4547,28 @@
       "category": "美食,民生新闻"
     },
     {
+      "raw_hot": 123449,
+      "num": 123449,
+      "word": "孟子义有多忙",
+      "onboard_time": 1750668504,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 122064,
       "num": 151896,
       "word": "焕羽",
       "onboard_time": 1750588340,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122049,
+      "num": 207837,
+      "word": "Labubu画作140万成交",
+      "onboard_time": 1750668443,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121861,
@@ -4456,6 +4600,14 @@
       "word": "暑期电视剧一波又一波",
       "onboard_time": 1750575681,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 119732,
+      "num": 119732,
+      "word": "刘诗诗李乃文一起走红毯",
+      "onboard_time": 1750669883,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -5099,6 +5251,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 72389,
+      "num": 143246,
+      "word": "33Svan搬家vlog",
+      "onboard_time": 1750670063,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 72187,
       "num": 986098,
       "word": "中国IP出海跑出加速度",
@@ -5227,6 +5387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60500,
+      "num": 279726,
+      "word": "美媒称美在袭击前已秘密通知伊朗",
+      "onboard_time": 1750670545,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 58631,
       "num": 68093,
       "word": "王欣瑜2比0战胜萨姆索诺娃",
@@ -5281,6 +5449,14 @@
       "onboard_time": 1750645641,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 56219,
+      "num": 143420,
+      "word": "馄饨馅加硼砂",
+      "onboard_time": 1750669164,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54843,
@@ -5363,11 +5539,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 49857,
-      "num": 207837,
-      "word": "Labubu画作140万成交",
-      "onboard_time": 1750668443,
-      "rank": 27,
+      "raw_hot": 49751,
+      "num": 367827,
+      "word": "户外团队在大青山高寒草甸挖沟烧烤",
+      "onboard_time": 1750669283,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -5539,6 +5715,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 36389,
+      "num": 1085704,
+      "word": "中国水上夏收好丰景",
+      "onboard_time": 1750667904,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 36339,
       "num": 1632659,
       "word": "一组数据看懂中国外资吸引力",
@@ -5651,14 +5835,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 29598,
-      "num": 205838,
-      "word": "男司仪多次叫错新郎名字还拒退全款",
-      "onboard_time": 1750668144,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 29488,
       "num": 31065,
       "word": "中国网协祝贺王欣瑜晋级决赛",
@@ -5737,14 +5913,6 @@
       "onboard_time": 1750532895,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 26142,
-      "num": 1085704,
-      "word": "中国水上夏收好丰景",
-      "onboard_time": 1750667904,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 26127,
