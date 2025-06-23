@@ -1,6 +1,6 @@
 {
   "startTime": 1750609820904,
-  "endTime": 1750683284277,
+  "endTime": 1750684202761,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -275,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 764659,
+      "num": 672913,
+      "word": "伊朗导弹击中以色列南部",
+      "onboard_time": 1750681342,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 758552,
       "num": 758552,
       "word": "庆余年3首发概念海报",
@@ -475,14 +483,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 552732,
-      "num": 552732,
-      "word": "伊朗导弹击中以色列南部",
-      "onboard_time": 1750681342,
-      "rank": 6,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 551214,
       "num": 551214,
       "word": "腾讯招商大会",
@@ -523,6 +523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 528077,
+      "num": 528077,
+      "word": "清远地震画面曝光",
+      "onboard_time": 1750680623,
+      "rank": 10,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 526093,
       "num": 491687,
       "word": "李敏镐从未回春",
@@ -545,14 +553,6 @@
       "onboard_time": 1750640002,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 499944,
-      "num": 499944,
-      "word": "清远地震画面曝光",
-      "onboard_time": 1750680623,
-      "rank": 10,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 499175,
@@ -763,6 +763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 374336,
+      "num": 347679,
+      "word": "孟子义照片顺序",
+      "onboard_time": 1750681104,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 373098,
       "num": 373098,
       "word": "十日终焉第一季",
@@ -840,14 +848,6 @@
       "word": "枭起青壤",
       "onboard_time": 1750665684,
       "rank": 16,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 347679,
-      "num": 347679,
-      "word": "孟子义照片顺序",
-      "onboard_time": 1750681104,
-      "rank": 15,
       "category": "剧集"
     },
     {
@@ -993,6 +993,14 @@
       "onboard_time": 1750637002,
       "rank": 15,
       "category": "教育"
+    },
+    {
+      "raw_hot": 311037,
+      "num": 311037,
+      "word": "痛经是子宫太想保护你",
+      "onboard_time": 1750681944,
+      "rank": 22,
+      "category": "科学科普"
     },
     {
       "raw_hot": 307331,
@@ -1187,6 +1195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 259947,
+      "num": 508658,
+      "word": "以战机2小时向伊朗投100多枚弹药",
+      "onboard_time": 1750682001,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 257767,
       "num": 347799,
       "word": "韩网评闵玧其捐款50亿",
@@ -1299,14 +1315,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 243694,
-      "num": 243694,
-      "word": "痛经是子宫太想保护你",
-      "onboard_time": 1750681944,
-      "rank": 22,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 242753,
       "num": 189447,
       "word": "张泽禹 带id自取",
@@ -1321,6 +1329,14 @@
       "onboard_time": 1750655304,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 242117,
+      "num": 317619,
+      "word": "田曦薇校园时期美貌就被认证",
+      "onboard_time": 1750681944,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 241318,
@@ -1489,14 +1505,6 @@
       "onboard_time": 1750678763,
       "rank": 23,
       "category": "休闲,动漫"
-    },
-    {
-      "raw_hot": 217336,
-      "num": 217336,
-      "word": "田曦薇校园时期美貌就被认证",
-      "onboard_time": 1750681944,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 216025,
@@ -1675,6 +1683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 199578,
+      "num": 199578,
+      "word": "关注以伊冲突最新动态",
+      "onboard_time": 1750683983,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 198337,
       "num": 198337,
       "word": "赴山海剑舞风云版海报",
@@ -1713,6 +1729,14 @@
       "onboard_time": 1750675403,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 196607,
+      "num": 316361,
+      "word": "周翊然一天换乘三部剧宣",
+      "onboard_time": 1750682783,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 196472,
@@ -2043,14 +2067,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 172790,
-      "num": 172790,
-      "word": "周翊然一天换乘三部剧宣",
-      "onboard_time": 1750682783,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 172524,
       "num": 172524,
       "word": "不要高估父母不要低估恶意",
@@ -2123,11 +2139,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 164724,
-      "num": 508658,
-      "word": "以战机2小时向伊朗投100多枚弹药",
-      "onboard_time": 1750682001,
-      "rank": 8,
+      "raw_hot": 163417,
+      "num": 163417,
+      "word": "普京说俄愿为伊朗人民提供协助",
+      "onboard_time": 1750682723,
+      "rank": 33,
       "category": "国际时政"
     },
     {
@@ -2185,14 +2201,6 @@
       "onboard_time": 1750670244,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 160059,
-      "num": 160059,
-      "word": "普京说俄愿为伊朗人民提供协助",
-      "onboard_time": 1750682723,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 159498,
@@ -2452,7 +2460,7 @@
     },
     {
       "raw_hot": 139964,
-      "num": 139964,
+      "num": 148138,
       "word": "谁让王凯进组谁就是我的恩人",
       "onboard_time": 1750682723,
       "rank": 39,
@@ -2699,6 +2707,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 123370,
+      "num": 123370,
+      "word": "火星电台 歌手补位",
+      "onboard_time": 1750683383,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122176,
       "num": 122176,
       "word": "中学领导侵吞学生伙食费240万元",
@@ -2915,12 +2931,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 101823,
+      "num": 101823,
+      "word": "上海高考成绩一分一段表",
+      "onboard_time": 1750683922,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 101820,
       "num": 101820,
       "word": "内娱短剧赛道已经是nextlevel",
       "onboard_time": 1750682783,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98786,
+      "num": 98786,
+      "word": "成都一小区投票表决扑杀流浪狗",
+      "onboard_time": 1750684041,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98124,
@@ -2945,6 +2977,14 @@
       "onboard_time": 1750660763,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94907,
+      "num": 94907,
+      "word": "31岁男子假扮女大学生与5人交往",
+      "onboard_time": 1750683983,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94324,
@@ -3483,6 +3523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37534,
+      "num": 122536,
+      "word": "跟着懒羊羊反内耗",
+      "onboard_time": 1750683563,
+      "rank": 39,
+      "category": "动漫,情感"
+    },
+    {
       "raw_hot": 36443,
       "num": 109181,
       "word": "黑执事新作葬仪屋登场",
@@ -3675,6 +3723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 16762,
+      "num": 319424,
+      "word": "家长曝学校发的饮用奶变质酸臭",
+      "onboard_time": 1750683684,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16058,
       "num": 163722,
       "word": "宠物犬上培训班中暑死亡机构怎么赔",
@@ -3731,12 +3787,28 @@
       "category": "民生新闻,休闲"
     },
     {
+      "raw_hot": 13035,
+      "num": 731559,
+      "word": "2025高招一站式服务平台",
+      "onboard_time": 1750668203,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 12862,
       "num": 24990,
       "word": "神二十乘组忙忙碌碌又一周",
       "onboard_time": 1750618635,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12576,
+      "num": 145589,
+      "word": "班级里的图书角已经没人看了吗",
+      "onboard_time": 1750683684,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12571,
@@ -3769,6 +3841,14 @@
       "onboard_time": 1750660464,
       "rank": 29,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 8505,
+      "num": 311371,
+      "word": "AI会是今年最热报考方向吗",
+      "onboard_time": 1750683684,
+      "rank": 19,
+      "category": "教育,互联网"
     }
   ],
   "hotgov_list": [
