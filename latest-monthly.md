@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/24 05:40:06
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/24 06:26:09
 </p>
 </blockquote>
 <p>
@@ -3519,6 +3519,12 @@ labubu（热度：930311）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0%E9%81%AD%E8%A2%AD%E5%87%BB%23" target="weibo">
+美军基地遭袭击（热度：911512）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E6%99%9243%E5%B2%81%E7%9A%84%E6%9D%A8%E8%93%89%23" target="weibo">
 朱一龙晒43岁的杨蓉（热度：910786）
 </a>
@@ -6005,12 +6011,6 @@ GAI 该做热玛吉了（热度：660381）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E6%88%91%E8%AE%A4%E8%AF%86%E7%9A%84%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%90%97%23" target="weibo">
 这是我认识的王俊凯吗（热度：642645）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%83%AD%E5%9C%B0%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96%23" target="weibo">
-热地同志逝世（热度：642627）
 </a>
 </li>
 

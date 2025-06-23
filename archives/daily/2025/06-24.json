@@ -1,6 +1,6 @@
 {
   "startTime": 1750696476897,
-  "endTime": 1750714806690,
+  "endTime": 1750717569615,
   "band_list": [
     {
       "raw_hot": 1560125,
@@ -17,6 +17,14 @@
       "onboard_time": 1750688305,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 911512,
+      "num": 310946,
+      "word": "美军基地遭袭击",
+      "onboard_time": 1750699336,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 752825,
@@ -41,14 +49,6 @@
       "onboard_time": 1750691243,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 573689,
-      "num": 186742,
-      "word": "美军基地遭袭击",
-      "onboard_time": 1750699336,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 548399,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 445359,
-      "num": 169281,
+      "num": 299735,
       "word": "卡塔尔首都多哈响起爆炸声",
       "onboard_time": 1750699876,
       "rank": 21,
@@ -99,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 338908,
+      "num": 338908,
+      "word": "伊朗用对等导弹数量回击美军",
+      "onboard_time": 1750704314,
+      "rank": 6,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 301423,
       "num": 301423,
       "word": "美国轰炸伊朗核设施",
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 262361,
-      "num": 120032,
+      "num": 141575,
       "word": "刘学义孟子义回应看起来差辈",
       "onboard_time": 1750696340,
       "rank": 46,
@@ -139,12 +147,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 239421,
-      "num": 239421,
-      "word": "伊朗用对等导弹数量回击美军",
-      "onboard_time": 1750704314,
-      "rank": 6,
-      "category": "海外新闻"
+      "raw_hot": 230012,
+      "num": 80785,
+      "word": "报北大考古的女孩怎么样了",
+      "onboard_time": 1750699819,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 213343,
@@ -153,6 +161,14 @@
       "onboard_time": 1750690164,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 209883,
+      "num": 209883,
+      "word": "特朗普已至白宫战情室",
+      "onboard_time": 1750705274,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 204051,
@@ -211,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135734,
+      "num": 135734,
+      "word": "男子被追打躲进朋友宝马人车遭打砸",
+      "onboard_time": 1750695621,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133095,
       "num": 180242,
       "word": "胖东来员工称曾因停车问题考虑闭店",
@@ -267,22 +291,6 @@
       "category": "艺人,动漫"
     },
     {
-      "raw_hot": 103067,
-      "num": 49857,
-      "word": "报北大考古的女孩怎么样了",
-      "onboard_time": 1750699819,
-      "rank": 31,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 101901,
-      "num": 101901,
-      "word": "特朗普已至白宫战情室",
-      "onboard_time": 1750705274,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 100164,
       "num": 100164,
       "word": "腾讯招商大会剧集预告热度排名",
@@ -305,6 +313,14 @@
       "onboard_time": 1750690644,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95532,
+      "num": 95532,
+      "word": "伊朗手握三张牌能打疼美以吗",
+      "onboard_time": 1750714816,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 93939,
@@ -337,14 +353,6 @@
       "onboard_time": 1750676490,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 83340,
-      "num": 83340,
-      "word": "男子被追打躲进朋友宝马人车遭打砸",
-      "onboard_time": 1750695621,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 82045,
@@ -451,8 +459,16 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 47675,
-      "num": 47675,
+      "raw_hot": 54246,
+      "num": 36914,
+      "word": "福尔多核设施再次遭到袭击",
+      "onboard_time": 1750715595,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 51123,
+      "num": 51123,
       "word": "美攻击伊朗后日韩首脑将缺席北约峰会",
       "onboard_time": 1750684823,
       "rank": 40,
@@ -467,6 +483,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 46935,
+      "num": 36201,
+      "word": "40枚导弹射向以色列",
+      "onboard_time": 1750700177,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 43067,
       "num": 43067,
       "word": "于正又让你们失望了",
@@ -475,20 +499,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 42709,
+      "num": 57649,
+      "word": "黄圣依妈妈一直尽全力托举女儿",
+      "onboard_time": 1750716675,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 42638,
       "num": 42638,
       "word": "祝绪丹22到33岁颜值变化",
       "onboard_time": 1750697958,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 39710,
-      "num": 33590,
-      "word": "40枚导弹射向以色列",
-      "onboard_time": 1750700177,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 39460,
@@ -521,6 +545,22 @@
       "onboard_time": 1750701376,
       "rank": 26,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 29725,
+      "num": 29725,
+      "word": "美军打击伊核设施部署了数周至数月",
+      "onboard_time": 1750712834,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 29079,
+      "num": 29079,
+      "word": "游客模仿画中人自拍撞破百年名画",
+      "onboard_time": 1750709174,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 28758,
@@ -571,14 +611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 22844,
-      "num": 22844,
-      "word": "游客模仿画中人自拍撞破百年名画",
-      "onboard_time": 1750709174,
-      "rank": 42,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 22683,
       "num": 25005,
       "word": "玫瑰丛生",
@@ -587,28 +619,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 21592,
+      "num": 26234,
+      "word": "以军向德黑兰居民发出警告",
+      "onboard_time": 1750713194,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 19719,
       "num": 19719,
       "word": "不间断的熬夜 真的是人生变坏的开始",
       "onboard_time": 1750708334,
       "rank": 33,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 19535,
-      "num": 19535,
-      "word": "美军打击伊核设施部署了数周至数月",
-      "onboard_time": 1750712834,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 19301,
-      "num": 19301,
-      "word": "以军向德黑兰居民发出警告",
-      "onboard_time": 1750713194,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 18860,
