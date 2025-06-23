@@ -1,6 +1,6 @@
 {
   "startTime": 1750609820904,
-  "endTime": 1750661631208,
+  "endTime": 1750663683401,
   "band_list": [
     {
       "raw_hot": 1602224,
@@ -147,6 +147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 764993,
+      "num": 764993,
+      "word": "于东来官宣将关闭多家门店",
+      "onboard_time": 1750660403,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 758552,
       "num": 758552,
       "word": "庆余年3首发概念海报",
@@ -160,14 +168,6 @@
       "word": "阿姨因烧饭把骗子晾一边保住166万元",
       "onboard_time": 1750635260,
       "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 744084,
-      "num": 744084,
-      "word": "于东来官宣将关闭多家门店",
-      "onboard_time": 1750660403,
-      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -331,8 +331,24 @@
       "category": "数码"
     },
     {
+      "raw_hot": 534709,
+      "num": 534709,
+      "word": "以色列袭击伊朗6个机场",
+      "onboard_time": 1750661783,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 529825,
+      "num": 529825,
+      "word": "闵塔鲨",
+      "onboard_time": 1750662803,
+      "rank": 9,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 518686,
-      "num": 518686,
+      "num": 534998,
       "word": "黄杨钿甜主演2部新剧将开播",
       "onboard_time": 1750660284,
       "rank": 13,
@@ -387,6 +403,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 437942,
+      "num": 148767,
+      "word": "宋祖儿第二套高定",
+      "onboard_time": 1750661844,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 422414,
       "num": 422414,
       "word": "美军用超125架战机作诱饵打击伊朗",
@@ -409,6 +433,14 @@
       "onboard_time": 1750660584,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 408465,
+      "num": 408465,
+      "word": "高考成绩",
+      "onboard_time": 1750661724,
+      "rank": 11,
+      "category": "教育"
     },
     {
       "raw_hot": 407489,
@@ -539,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 342255,
+      "num": 342255,
+      "word": "酱园弄口碑 两极分化",
+      "onboard_time": 1750660523,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 342206,
       "num": 342206,
       "word": "你好星期六直播",
@@ -635,6 +675,14 @@
       "category": "幽默,动漫"
     },
     {
+      "raw_hot": 304450,
+      "num": 304450,
+      "word": "体重开始下降的8个冷知识",
+      "onboard_time": 1750660824,
+      "rank": 27,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 299926,
       "num": 299926,
       "word": "关晓彤刘涛首个轻喜剧作品",
@@ -667,12 +715,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 292879,
+      "num": 319450,
+      "word": "庆余年3再次升级演员阵容",
+      "onboard_time": 1750663404,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 287569,
       "num": 287569,
       "word": "恋与深空",
       "onboard_time": 1750653564,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 284363,
+      "num": 309665,
+      "word": "王勉被网友当面追问恋情",
+      "onboard_time": 1750660102,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 284085,
@@ -689,14 +753,6 @@
       "onboard_time": 1750646063,
       "rank": 38,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 279854,
-      "num": 279854,
-      "word": "王勉被网友当面追问恋情",
-      "onboard_time": 1750660102,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 272911,
@@ -795,12 +851,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 252242,
-      "num": 252242,
-      "word": "酱园弄口碑 两极分化",
-      "onboard_time": 1750660523,
-      "rank": 40,
-      "category": "电影"
+      "raw_hot": 250628,
+      "num": 250628,
+      "word": "白鹿丞磊牵手走红毯",
+      "onboard_time": 1750660944,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 249642,
@@ -899,12 +955,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 226436,
-      "num": 226436,
-      "word": "体重开始下降的8个冷知识",
-      "onboard_time": 1750660824,
-      "rank": 27,
-      "category": "运动健身"
+      "raw_hot": 227397,
+      "num": 227397,
+      "word": "地铁 岔腿坐",
+      "onboard_time": 1750662324,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 226318,
@@ -912,6 +968,14 @@
       "word": "被冯绍峰版狄仁杰吓到了",
       "onboard_time": 1750650983,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 225708,
+      "num": 225708,
+      "word": "国产剧终于有了禁欲系古偶",
+      "onboard_time": 1750661783,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -955,14 +1019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 219153,
-      "num": 219153,
-      "word": "白鹿丞磊牵手走红毯",
-      "onboard_time": 1750660944,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 215155,
       "num": 189666,
       "word": "特朗普称正在敦促伊朗领导人同意结束战争",
@@ -985,6 +1041,14 @@
       "onboard_time": 1750654104,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214103,
+      "num": 214103,
+      "word": "19岁智力残疾女孩遭性侵产女",
+      "onboard_time": 1750662384,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 212887,
@@ -1081,6 +1145,14 @@
       "onboard_time": 1750656083,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199101,
+      "num": 199101,
+      "word": "被魏大勋下车视频硬控",
+      "onboard_time": 1750663464,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 198337,
@@ -1211,6 +1283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186705,
+      "num": 186705,
+      "word": "第十代张起灵来了",
+      "onboard_time": 1750661124,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186060,
       "num": 356936,
       "word": "男子奶茶内放精神药品猥亵女子",
@@ -1233,6 +1313,22 @@
       "onboard_time": 1750644921,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 182272,
+      "num": 182272,
+      "word": "我爸因为懒得理人装了二十年耳朵不好",
+      "onboard_time": 1750662263,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 181455,
+      "num": 181455,
+      "word": "王安宇胡先煦不打不相识",
+      "onboard_time": 1750663464,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 180398,
@@ -1299,6 +1395,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 170599,
+      "num": 170599,
+      "word": "清华大学严正声明",
+      "onboard_time": 1750663404,
+      "rank": 34,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 169403,
+      "num": 169403,
+      "word": "女生喝冰咖啡严重腹泻拉到脱水",
+      "onboard_time": 1750661964,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168824,
       "num": 168824,
       "word": "刘诗诗醉梦物料发布节奏",
@@ -1336,14 +1448,6 @@
       "word": "醉梦",
       "onboard_time": 1750645341,
       "rank": 43,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 159708,
-      "num": 159708,
-      "word": "第十代张起灵来了",
-      "onboard_time": 1750661124,
-      "rank": 42,
       "category": "剧集"
     },
     {
@@ -1411,6 +1515,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 146352,
+      "num": 146352,
+      "word": "周深不开口也能送走古偶男主了",
+      "onboard_time": 1750663105,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144725,
       "num": 183161,
       "word": "遭精神病人杀害教授妻子发声",
@@ -1441,6 +1553,14 @@
       "onboard_time": 1750650262,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 141799,
+      "num": 141799,
+      "word": "韦雪儿子送同学labubu",
+      "onboard_time": 1750663404,
+      "rank": 46,
+      "category": "网红"
     },
     {
       "raw_hot": 141475,
@@ -1483,6 +1603,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 137716,
+      "num": 137716,
+      "word": "江西救护车涉事医院称收到网友锦旗",
+      "onboard_time": 1750663283,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137368,
       "num": 408572,
       "word": "美袭伊紧急会议以色列代表一直玩手机",
@@ -1521,6 +1649,14 @@
       "onboard_time": 1750608321,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132127,
+      "num": 132127,
+      "word": "伊朗继续发导弹",
+      "onboard_time": 1750662144,
+      "rank": 49,
+      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 130579,
@@ -1627,6 +1763,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 109460,
+      "num": 197039,
+      "word": "江西救护车",
+      "onboard_time": 1750663283,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107922,
       "num": 329835,
       "word": "中国强烈谴责美国袭击伊朗",
@@ -1684,11 +1828,19 @@
     },
     {
       "raw_hot": 97367,
-      "num": 408766,
+      "num": 412543,
       "word": "张凌赫辣到嘶哈嘶哈",
       "onboard_time": 1750660763,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 95965,
+      "num": 306567,
+      "word": "租户误将水管接燃气管道99户爆表",
+      "onboard_time": 1750663345,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94324,
@@ -1931,6 +2083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62259,
+      "num": 1106062,
+      "word": "我国港口货物吞吐量稳居世界第一",
+      "onboard_time": 1750661485,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 60501,
       "num": 417609,
       "word": "工程师为工作效率买250粒毒品",
@@ -1995,6 +2155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49270,
+      "num": 344755,
+      "word": "绝大部分在伊中国公民已平安撤出",
+      "onboard_time": 1750662144,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 48473,
       "num": 48473,
       "word": "邓超五哈cue了Angelababy",
@@ -2025,6 +2193,14 @@
       "onboard_time": 1750612518,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 38211,
+      "num": 175671,
+      "word": "苏超比赛日精彩集锦",
+      "onboard_time": 1750660342,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 36443,
@@ -2139,14 +2315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23541,
-      "num": 175671,
-      "word": "苏超比赛日精彩集锦",
-      "onboard_time": 1750660342,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 23499,
       "num": 25262,
       "word": "何浩楠直播",
@@ -2201,14 +2369,6 @@
       "onboard_time": 1750631297,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 16448,
-      "num": 1106062,
-      "word": "我国港口货物吞吐量稳居世界第一",
-      "onboard_time": 1750661485,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 15145,
