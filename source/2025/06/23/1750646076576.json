@@ -1,0 +1,410 @@
+{
+  "runTime": 1750646076576,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 868819,
+        "num": 1139011,
+        "word": "张艺谋刘浩存再合作",
+        "onboard_time": 1750643781,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 800867,
+        "num": 800867,
+        "word": "硬座 结膜炎",
+        "onboard_time": 1750643181,
+        "rank": 1,
+        "category": "民生新闻,议题讨论"
+      },
+      {
+        "raw_hot": 67598,
+        "num": 799277,
+        "word": "护网2025网安局提醒警惕银狐病毒来袭",
+        "onboard_time": 1750641081,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 797689,
+        "num": 797689,
+        "word": "豆包p丑 无人生还",
+        "onboard_time": 1750644440,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 786662,
+        "num": 786662,
+        "word": "全世界学历最高的labubu来了",
+        "onboard_time": 1750641980,
+        "rank": 4,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 637738,
+        "num": 637738,
+        "word": "鹅厂2025大剧片单",
+        "onboard_time": 1750643481,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 543401,
+        "num": 543401,
+        "word": "特朗普称让伊朗再次伟大",
+        "onboard_time": 1750638742,
+        "rank": 6,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 488980,
+        "num": 488980,
+        "word": "阿姨因烧饭把骗子晾一边保住166万元",
+        "onboard_time": 1750635260,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 495624,
+        "num": 474990,
+        "word": "李晟被泼李佳航坐不住了",
+        "onboard_time": 1750634178,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221210,
+        "num": 460901,
+        "word": "以色列已掌握伊朗浓缩铀重要情报",
+        "onboard_time": 1750644802,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1521368,
+        "num": 431255,
+        "word": "男子发病身亡压死出生仅3个月儿子",
+        "onboard_time": 1750645161,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 983927,
+        "num": 423398,
+        "word": "伊朗火力全开",
+        "onboard_time": 1750640481,
+        "rank": 11,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 405788,
+        "num": 405788,
+        "word": "伊朗给全世界打了个样",
+        "onboard_time": 1750604304,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 388118,
+        "num": 388118,
+        "word": "庆余年3首发概念海报",
+        "onboard_time": 1750644682,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54843,
+        "num": 378333,
+        "word": "卫星图曝光美空袭留下六个大弹坑",
+        "onboard_time": 1750644921,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 376500,
+        "num": 376500,
+        "word": "朱媛媛造城者预告镜头",
+        "onboard_time": 1750645101,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 359706,
+        "num": 359706,
+        "word": "NBA新王登基",
+        "onboard_time": 1750641801,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 341691,
+        "num": 341691,
+        "word": "奶茶冰块 脏",
+        "onboard_time": 1750643601,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327412,
+        "num": 327412,
+        "word": "王欣瑜退赛",
+        "onboard_time": 1750643359,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27471,
+        "num": 313664,
+        "word": "留学生称无人机在伊朗楼顶上空爆炸",
+        "onboard_time": 1750645401,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302890,
+        "num": 302890,
+        "word": "刚过本科线去民办本科还是大专",
+        "onboard_time": 1750641261,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 291705,
+        "num": 291705,
+        "word": "高考查分",
+        "onboard_time": 1750637002,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 254809,
+        "num": 254809,
+        "word": "Prada晚宴",
+        "onboard_time": 1750638082,
+        "rank": 22,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 245224,
+        "num": 245224,
+        "word": "骄阳似我",
+        "onboard_time": 1750645641,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27060,
+        "num": 242662,
+        "word": "学食品专业为什么推荐南昌大学",
+        "onboard_time": 1750645582,
+        "rank": 24,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 247583,
+        "num": 242591,
+        "word": "轰炸伊朗核设施炸碎了美国信誉",
+        "onboard_time": 1750634059,
+        "rank": 25,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 242214,
+        "num": 242214,
+        "word": "杜淳妻子回应婆婆不让抹妊娠油",
+        "onboard_time": 1750633519,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235451,
+        "num": 235451,
+        "word": "高考成绩陆续公布",
+        "onboard_time": 1750640002,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 230694,
+        "num": 230694,
+        "word": "张杰不想去歌手的原因",
+        "onboard_time": 1750646063,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 56401,
+        "num": 223091,
+        "word": "伊以美发疯死循环",
+        "onboard_time": 1750645641,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 216677,
+        "num": 216677,
+        "word": "黄金",
+        "onboard_time": 1750643120,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 212887,
+        "num": 212887,
+        "word": "叙利亚自杀式袭击死伤85人",
+        "onboard_time": 1750644440,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 211414,
+        "num": 211414,
+        "word": "庆余年3",
+        "onboard_time": 1750576162,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187615,
+        "num": 206944,
+        "word": "人之初",
+        "onboard_time": 1750644862,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204347,
+        "num": 204347,
+        "word": "赴山海",
+        "onboard_time": 1750645522,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195631,
+        "num": 195631,
+        "word": "花开锦绣",
+        "onboard_time": 1750645882,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188613,
+        "num": 188613,
+        "word": "聊斋",
+        "onboard_time": 1750644983,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182720,
+        "num": 182720,
+        "word": "A股",
+        "onboard_time": 1750644921,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 169851,
+        "num": 169851,
+        "word": "雷军宣布面向下个时代的智能设备",
+        "onboard_time": 1750646063,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 79526,
+        "num": 169264,
+        "word": "多名乒乓少年的偶像是樊振东",
+        "onboard_time": 1750646063,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168824,
+        "num": 168824,
+        "word": "刘诗诗醉梦物料发布节奏",
+        "onboard_time": 1750645221,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167077,
+        "num": 167077,
+        "word": "步行者vs雷霆",
+        "onboard_time": 1750640721,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164267,
+        "num": 164267,
+        "word": "伊朗总统说美国必须付出代价",
+        "onboard_time": 1750636941,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160239,
+        "num": 160239,
+        "word": "醉梦",
+        "onboard_time": 1750645341,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65901,
+        "num": 159565,
+        "word": "哈利伯顿退出总决赛G7",
+        "onboard_time": 1750644802,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159237,
+        "num": 159237,
+        "word": "从没见明星被训这么惨",
+        "onboard_time": 1750644022,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155871,
+        "num": 155871,
+        "word": "小米YU7本周正式发布",
+        "onboard_time": 1750643061,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 149446,
+        "num": 149446,
+        "word": "北京高温持续3天",
+        "onboard_time": 1750642460,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154294,
+        "num": 149060,
+        "word": "造城者",
+        "onboard_time": 1750642641,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147881,
+        "num": 147881,
+        "word": "孟子义李昀锐并排官宣",
+        "onboard_time": 1750633458,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#丝路友谊偕行致远#"
+    }
+  }
+}

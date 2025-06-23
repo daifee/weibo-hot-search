@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750644575026,
+  "endTime": 1750646076576,
   "band_list": [
     {
       "raw_hot": 7413013,
@@ -99,6 +99,14 @@
       "category": "艺人,休闲"
     },
     {
+      "raw_hot": 1521368,
+      "num": 431255,
+      "word": "男子发病身亡压死出生仅3个月儿子",
+      "onboard_time": 1750645161,
+      "rank": 10,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1470325,
       "num": 418702,
       "word": "伊朗给全世界打了个样",
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 1199931,
-      "num": 332823,
+      "num": 423398,
       "word": "伊朗火力全开",
       "onboard_time": 1750640481,
       "rank": 10,
@@ -203,6 +211,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 868819,
+      "num": 1139011,
+      "word": "张艺谋刘浩存再合作",
+      "onboard_time": 1750643781,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 861101,
       "num": 861101,
       "word": "儿子救人去世妈妈看见同龄孩子哭晕",
@@ -233,6 +249,22 @@
       "onboard_time": 1750556361,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 800867,
+      "num": 800867,
+      "word": "硬座 结膜炎",
+      "onboard_time": 1750643181,
+      "rank": 14,
+      "category": "民生新闻,议题讨论"
+    },
+    {
+      "raw_hot": 797689,
+      "num": 797689,
+      "word": "豆包p丑 无人生还",
+      "onboard_time": 1750644440,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 781349,
@@ -300,7 +332,7 @@
     },
     {
       "raw_hot": 697393,
-      "num": 490670,
+      "num": 543401,
       "word": "特朗普称让伊朗再次伟大",
       "onboard_time": 1750638742,
       "rank": 5,
@@ -377,6 +409,14 @@
       "onboard_time": 1750581140,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 637738,
+      "num": 637738,
+      "word": "鹅厂2025大剧片单",
+      "onboard_time": 1750643481,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 635128,
@@ -859,6 +899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 388118,
+      "num": 388118,
+      "word": "庆余年3首发概念海报",
+      "onboard_time": 1750644682,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 384407,
       "num": 384407,
       "word": "男子奸杀7岁女童前欠网贷心生烦躁",
@@ -876,11 +924,19 @@
     },
     {
       "raw_hot": 376824,
-      "num": 322626,
+      "num": 327412,
       "word": "王欣瑜退赛",
       "onboard_time": 1750643359,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 376500,
+      "num": 376500,
+      "word": "朱媛媛造城者预告镜头",
+      "onboard_time": 1750645101,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 372229,
@@ -889,6 +945,14 @@
       "onboard_time": 1750521682,
       "rank": 16,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 359706,
+      "num": 359706,
+      "word": "NBA新王登基",
+      "onboard_time": 1750641801,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 358967,
@@ -929,14 +993,6 @@
       "onboard_time": 1750601544,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 349431,
-      "num": 349431,
-      "word": "鹅厂2025大剧片单",
-      "onboard_time": 1750643481,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 348450,
@@ -985,6 +1041,14 @@
       "onboard_time": 1750566262,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 341691,
+      "num": 341691,
+      "word": "奶茶冰块 脏",
+      "onboard_time": 1750643601,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 339221,
@@ -1089,14 +1153,6 @@
       "onboard_time": 1750641261,
       "rank": 13,
       "category": "教育"
-    },
-    {
-      "raw_hot": 314253,
-      "num": 314253,
-      "word": "硬座 结膜炎",
-      "onboard_time": 1750643181,
-      "rank": 14,
-      "category": "民生新闻,议题讨论"
     },
     {
       "raw_hot": 312017,
@@ -1243,14 +1299,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 287852,
-      "num": 287852,
-      "word": "NBA新王登基",
-      "onboard_time": 1750641801,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 287536,
       "num": 287536,
       "word": "中国女排vs意大利女排",
@@ -1363,14 +1411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 262141,
-      "num": 272392,
-      "word": "张艺谋刘浩存再合作",
-      "onboard_time": 1750643781,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 256148,
       "num": 449060,
       "word": "特朗普继续警告伊朗",
@@ -1433,6 +1473,14 @@
       "onboard_time": 1750568181,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 245224,
+      "num": 245224,
+      "word": "骄阳似我",
+      "onboard_time": 1750645641,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 245162,
@@ -1539,6 +1587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 230694,
+      "num": 230694,
+      "word": "张杰不想去歌手的原因",
+      "onboard_time": 1750646063,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 230458,
       "num": 244459,
       "word": "27岁女子1天3杯奶茶抽出牛奶血",
@@ -1577,6 +1633,14 @@
       "onboard_time": 1750579401,
       "rank": 30,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 221210,
+      "num": 460901,
+      "word": "以色列已掌握伊朗浓缩铀重要情报",
+      "onboard_time": 1750644802,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 220048,
@@ -1675,6 +1739,14 @@
       "category": "民生新闻,休闲"
     },
     {
+      "raw_hot": 212887,
+      "num": 212887,
+      "word": "叙利亚自杀式袭击死伤85人",
+      "onboard_time": 1750644440,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 212803,
       "num": 218289,
       "word": "时代少年团同意我们的宿舍开播",
@@ -1747,12 +1819,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 205326,
-      "num": 205326,
-      "word": "奶茶冰块 脏",
-      "onboard_time": 1750643601,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 204347,
+      "num": 204347,
+      "word": "赴山海",
+      "onboard_time": 1750645522,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 204301,
@@ -1899,6 +1971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195631,
+      "num": 195631,
+      "word": "花开锦绣",
+      "onboard_time": 1750645882,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193615,
       "num": 202285,
       "word": "1岁男娃地铁站快速猩猩爬膝盖不着地",
@@ -1979,6 +2059,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 188613,
+      "num": 188613,
+      "word": "聊斋",
+      "onboard_time": 1750644983,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188394,
       "num": 188394,
       "word": "吴宣仪 给粉丝付钱好有魅力",
@@ -1995,6 +2083,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 187615,
+      "num": 206944,
+      "word": "人之初",
+      "onboard_time": 1750644862,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185607,
       "num": 185607,
       "word": "千里江山图",
@@ -2009,6 +2105,14 @@
       "onboard_time": 1750554321,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 182720,
+      "num": 182720,
+      "word": "A股",
+      "onboard_time": 1750644921,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 182385,
@@ -2187,6 +2291,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 169851,
+      "num": 169851,
+      "word": "雷军宣布面向下个时代的智能设备",
+      "onboard_time": 1750646063,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 169808,
       "num": 188058,
       "word": "迪丽热巴斩枭暂停派对启动",
@@ -2201,6 +2313,14 @@
       "onboard_time": 1750581322,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168824,
+      "num": 168824,
+      "word": "刘诗诗醉梦物料发布节奏",
+      "onboard_time": 1750645221,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 168700,
@@ -2233,6 +2353,14 @@
       "onboard_time": 1750577482,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167077,
+      "num": 167077,
+      "word": "步行者vs雷霆",
+      "onboard_time": 1750640721,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 165113,
@@ -2331,12 +2459,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160239,
+      "num": 160239,
+      "word": "醉梦",
+      "onboard_time": 1750645341,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159498,
       "num": 159498,
       "word": "烽火流金",
       "onboard_time": 1750636282,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159237,
+      "num": 159237,
+      "word": "从没见明星被训这么惨",
+      "onboard_time": 1750644022,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 158894,
@@ -2377,14 +2521,6 @@
       "onboard_time": 1750577003,
       "rank": 46,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 157791,
-      "num": 157791,
-      "word": "豆包p丑 无人生还",
-      "onboard_time": 1750644440,
-      "rank": 33,
-      "category": "互联网"
     },
     {
       "raw_hot": 156919,
@@ -2449,14 +2585,6 @@
       "onboard_time": 1750605384,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 154630,
-      "num": 154630,
-      "word": "步行者vs雷霆",
-      "onboard_time": 1750640721,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 154287,
@@ -2731,14 +2859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 137392,
-      "num": 137392,
-      "word": "从没见明星被训这么惨",
-      "onboard_time": 1750644022,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 136910,
       "num": 139196,
       "word": "孙颖莎的凝视",
@@ -2881,14 +3001,6 @@
       "onboard_time": 1750580421,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 131357,
-      "num": 131357,
-      "word": "叙利亚自杀式袭击死伤85人",
-      "onboard_time": 1750644440,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 128859,
@@ -3603,6 +3715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79526,
+      "num": 169264,
+      "word": "多名乒乓少年的偶像是樊振东",
+      "onboard_time": 1750646063,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78780,
       "num": 285392,
       "word": "打工人涌入自选炒菜连锁吃20元快餐",
@@ -3628,7 +3748,7 @@
     },
     {
       "raw_hot": 73835,
-      "num": 603969,
+      "num": 799277,
       "word": "护网2025网安局提醒警惕银狐病毒来袭",
       "onboard_time": 1750641081,
       "rank": 2,
@@ -3715,6 +3835,14 @@
       "category": "国际时政,民生新闻"
     },
     {
+      "raw_hot": 65901,
+      "num": 159565,
+      "word": "哈利伯顿退出总决赛G7",
+      "onboard_time": 1750644802,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 65665,
       "num": 197355,
       "word": "弗朗西斯卡发文欢迎樊振东",
@@ -3785,6 +3913,22 @@
       "onboard_time": 1750548858,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 56401,
+      "num": 223091,
+      "word": "伊以美发疯死循环",
+      "onboard_time": 1750645641,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 54843,
+      "num": 378333,
+      "word": "卫星图曝光美空袭留下六个大弹坑",
+      "onboard_time": 1750644921,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 54830,
@@ -4091,12 +4235,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 27471,
+      "num": 313664,
+      "word": "留学生称无人机在伊朗楼顶上空爆炸",
+      "onboard_time": 1750645401,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27196,
       "num": 34378,
       "word": "微博喜剧现场",
       "onboard_time": 1750530435,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 27060,
+      "num": 242662,
+      "word": "学食品专业为什么推荐南昌大学",
+      "onboard_time": 1750645582,
+      "rank": 24,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 26387,

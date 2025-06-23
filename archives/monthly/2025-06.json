@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750644575026,
+  "endTime": 1750646076576,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -1683,6 +1683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1521368,
+      "num": 431255,
+      "word": "男子发病身亡压死出生仅3个月儿子",
+      "onboard_time": 1750645161,
+      "rank": 10,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1516001,
       "num": 826084,
       "word": "脑死亡孕妇因堕胎禁令4个月后产子",
@@ -2732,7 +2740,7 @@
     },
     {
       "raw_hot": 1199931,
-      "num": 332823,
+      "num": 423398,
       "word": "伊朗火力全开",
       "onboard_time": 1750640481,
       "rank": 10,
@@ -4811,6 +4819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 868819,
+      "num": 1139011,
+      "word": "张艺谋刘浩存再合作",
+      "onboard_time": 1750643781,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 868347,
       "num": 631948,
       "word": "被者来女震撼到",
@@ -5427,6 +5443,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 800867,
+      "num": 800867,
+      "word": "硬座 结膜炎",
+      "onboard_time": 1750643181,
+      "rank": 14,
+      "category": "民生新闻,议题讨论"
+    },
+    {
       "raw_hot": 800645,
       "num": 215271,
       "word": "张雪峰自曝可能告别直播",
@@ -5513,6 +5537,14 @@
       "onboard_time": 1750061720,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 797689,
+      "num": 797689,
+      "word": "豆包p丑 无人生还",
+      "onboard_time": 1750644440,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 796029,
@@ -6788,7 +6820,7 @@
     },
     {
       "raw_hot": 697393,
-      "num": 490670,
+      "num": 543401,
       "word": "特朗普称让伊朗再次伟大",
       "onboard_time": 1750638742,
       "rank": 5,
@@ -7681,6 +7713,14 @@
       "onboard_time": 1749994944,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 637738,
+      "num": 637738,
+      "word": "鹅厂2025大剧片单",
+      "onboard_time": 1750643481,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 637426,
@@ -14419,6 +14459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 388118,
+      "num": 388118,
+      "word": "庆余年3首发概念海报",
+      "onboard_time": 1750644682,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 388079,
       "num": 466295,
       "word": "谁懂卫兰歌手唱大哥",
@@ -14876,11 +14924,19 @@
     },
     {
       "raw_hot": 376824,
-      "num": 322626,
+      "num": 327412,
       "word": "王欣瑜退赛",
       "onboard_time": 1750643359,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 376500,
+      "num": 376500,
+      "word": "朱媛媛造城者预告镜头",
+      "onboard_time": 1750645101,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 376416,
@@ -15555,6 +15611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 359706,
+      "num": 359706,
+      "word": "NBA新王登基",
+      "onboard_time": 1750641801,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 359521,
       "num": 388505,
       "word": "赵丽颖在人间开分6.7",
@@ -16057,14 +16121,6 @@
       "onboard_time": 1749712639,
       "rank": 21,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 349431,
-      "num": 349431,
-      "word": "鹅厂2025大剧片单",
-      "onboard_time": 1750643481,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 349337,
@@ -16585,6 +16641,14 @@
       "onboard_time": 1749983840,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 341691,
+      "num": 341691,
+      "word": "奶茶冰块 脏",
+      "onboard_time": 1750643601,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 341505,
@@ -17921,14 +17985,6 @@
       "onboard_time": 1750308860,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 314253,
-      "num": 314253,
-      "word": "硬座 结膜炎",
-      "onboard_time": 1750643181,
-      "rank": 14,
-      "category": "民生新闻,议题讨论"
     },
     {
       "raw_hot": 313984,
@@ -19681,14 +19737,6 @@
       "onboard_time": 1750129401,
       "rank": 16,
       "category": "军事"
-    },
-    {
-      "raw_hot": 287852,
-      "num": 287852,
-      "word": "NBA新王登基",
-      "onboard_time": 1750641801,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 287648,
@@ -21659,14 +21707,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 262141,
-      "num": 272392,
-      "word": "张艺谋刘浩存再合作",
-      "onboard_time": 1750643781,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 262011,
       "num": 240489,
       "word": "好听",
@@ -23161,6 +23201,14 @@
       "onboard_time": 1749009560,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 245224,
+      "num": 245224,
+      "word": "骄阳似我",
+      "onboard_time": 1750645641,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 245162,
@@ -24667,6 +24715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 230694,
+      "num": 230694,
+      "word": "张杰不想去歌手的原因",
+      "onboard_time": 1750646063,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 230685,
       "num": 230685,
       "word": "王曼昱电光蓝夹克",
@@ -25899,6 +25955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221210,
+      "num": 460901,
+      "word": "以色列已掌握伊朗浓缩铀重要情报",
+      "onboard_time": 1750644802,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 221066,
       "num": 221066,
       "word": "李荣浩连续10年高考发8字祝福",
@@ -27081,6 +27145,14 @@
       "onboard_time": 1749303863,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212887,
+      "num": 212887,
+      "word": "叙利亚自杀式袭击死伤85人",
+      "onboard_time": 1750644440,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 212881,
@@ -28611,14 +28683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 205326,
-      "num": 205326,
-      "word": "奶茶冰块 脏",
-      "onboard_time": 1750643601,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 205298,
       "num": 335122,
       "word": "肖战和黄觉较着劲在演",
@@ -28801,6 +28865,14 @@
       "onboard_time": 1750244901,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 204347,
+      "num": 204347,
+      "word": "赴山海",
+      "onboard_time": 1749048144,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 204329,
@@ -31123,6 +31195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195631,
+      "num": 195631,
+      "word": "花开锦绣",
+      "onboard_time": 1750645882,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195604,
       "num": 195604,
       "word": "奔跑吧收官直播",
@@ -33231,6 +33311,14 @@
       "num": 187627,
       "word": "刘宇宁折腰收官发文",
       "onboard_time": 1749276922,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 187615,
+      "num": 206944,
+      "word": "人之初",
+      "onboard_time": 1750644862,
       "rank": 33,
       "category": "剧集"
     },
@@ -37779,6 +37867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169851,
+      "num": 169851,
+      "word": "雷军宣布面向下个时代的智能设备",
+      "onboard_time": 1750646063,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 169819,
       "num": 169819,
       "word": "把147平米的家装出了别墅感",
@@ -38081,6 +38177,14 @@
       "onboard_time": 1749475103,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168824,
+      "num": 168824,
+      "word": "刘诗诗醉梦物料发布节奏",
+      "onboard_time": 1750645221,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 168799,
@@ -40619,6 +40723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160239,
+      "num": 160239,
+      "word": "醉梦",
+      "onboard_time": 1750645341,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160223,
       "num": 160223,
       "word": "猫 如何呢又能怎",
@@ -40953,6 +41065,14 @@
       "onboard_time": 1749270385,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 159237,
+      "num": 159237,
+      "word": "从没见明星被训这么惨",
+      "onboard_time": 1750644022,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 159197,
@@ -41353,14 +41473,6 @@
       "onboard_time": 1749903802,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 157791,
-      "num": 157791,
-      "word": "豆包p丑 无人生还",
-      "onboard_time": 1750644440,
-      "rank": 33,
-      "category": "互联网"
     },
     {
       "raw_hot": 157772,
@@ -43369,14 +43481,6 @@
       "onboard_time": 1750606102,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 151235,
-      "num": 159915,
-      "word": "赴山海",
-      "onboard_time": 1749048144,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 151235,
@@ -48051,14 +48155,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 137392,
-      "num": 137392,
-      "word": "从没见明星被训这么惨",
-      "onboard_time": 1750644022,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 137371,
       "num": 137371,
       "word": "娜扎labubu拆盲盒",
@@ -50353,14 +50449,6 @@
       "onboard_time": 1749199102,
       "rank": 8,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 131357,
-      "num": 131357,
-      "word": "叙利亚自杀式袭击死伤85人",
-      "onboard_time": 1750644440,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 131320,
@@ -65019,6 +65107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79526,
+      "num": 169264,
+      "word": "多名乒乓少年的偶像是樊振东",
+      "onboard_time": 1750646063,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79411,
       "num": 140260,
       "word": "音熊联萌BW",
@@ -65956,7 +66052,7 @@
     },
     {
       "raw_hot": 73835,
-      "num": 603969,
+      "num": 799277,
       "word": "护网2025网安局提醒警惕银狐病毒来袭",
       "onboard_time": 1750641081,
       "rank": 2,
@@ -67489,6 +67585,14 @@
       "onboard_time": 1749096681,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65901,
+      "num": 159565,
+      "word": "哈利伯顿退出总决赛G7",
+      "onboard_time": 1750644802,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 65800,
@@ -69299,6 +69403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 56401,
+      "num": 223091,
+      "word": "伊以美发疯死循环",
+      "onboard_time": 1750645641,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 56384,
       "num": 559855,
       "word": "3个中国人在太空过端午",
@@ -69689,6 +69801,14 @@
       "onboard_time": 1749568161,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54843,
+      "num": 378333,
+      "word": "卫星图曝光美空袭留下六个大弹坑",
+      "onboard_time": 1750644921,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 54830,
@@ -77019,6 +77139,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 27471,
+      "num": 313664,
+      "word": "留学生称无人机在伊朗楼顶上空爆炸",
+      "onboard_time": 1750645401,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27454,
       "num": 130150,
       "word": "哪些人群易得尿路感染",
@@ -77145,6 +77273,14 @@
       "onboard_time": 1749647061,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27060,
+      "num": 242662,
+      "word": "学食品专业为什么推荐南昌大学",
+      "onboard_time": 1750645582,
+      "rank": 24,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 27057,
