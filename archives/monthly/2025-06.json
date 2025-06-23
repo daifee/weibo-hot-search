@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750686035745,
+  "endTime": 1750686756234,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -5003,6 +5003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 867529,
+      "num": 672913,
+      "word": "伊朗导弹击中以色列南部",
+      "onboard_time": 1750681342,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 866080,
       "num": 866080,
       "word": "四级答案",
@@ -5193,14 +5201,6 @@
       "onboard_time": 1749295521,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 849418,
-      "num": 672913,
-      "word": "伊朗导弹击中以色列南部",
-      "onboard_time": 1750681342,
-      "rank": 6,
-      "category": "国际时政"
     },
     {
       "raw_hot": 848477,
@@ -6843,6 +6843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 710781,
+      "num": 347679,
+      "word": "孟子义照片顺序",
+      "onboard_time": 1750681104,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 710192,
       "num": 710192,
       "word": "柯颖 花少",
@@ -7521,14 +7529,6 @@
       "onboard_time": 1749098183,
       "rank": 14,
       "category": "艺人,动漫"
-    },
-    {
-      "raw_hot": 668272,
-      "num": 347679,
-      "word": "孟子义照片顺序",
-      "onboard_time": 1750681104,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 668153,
@@ -13787,6 +13787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 416802,
+      "num": 416802,
+      "word": "终于等到窦靖童长发了",
+      "onboard_time": 1750684943,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 416753,
       "num": 453802,
       "word": "女子把85万扔在了坟头草丛垃圾桶",
@@ -13873,6 +13881,14 @@
       "onboard_time": 1749044002,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 414715,
+      "num": 311037,
+      "word": "痛经是子宫太想保护你",
+      "onboard_time": 1750681944,
+      "rank": 22,
+      "category": "科学科普"
     },
     {
       "raw_hot": 414712,
@@ -14897,14 +14913,6 @@
       "onboard_time": 1749464480,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 391200,
-      "num": 311037,
-      "word": "痛经是子宫太想保护你",
-      "onboard_time": 1750681944,
-      "rank": 22,
-      "category": "科学科普"
     },
     {
       "raw_hot": 391060,
@@ -16059,6 +16067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 363391,
+      "num": 363391,
+      "word": "田曦薇校园时期美貌就被认证",
+      "onboard_time": 1750681944,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 362760,
       "num": 362760,
       "word": "周深称被大家看见很难留住更难",
@@ -16513,6 +16529,14 @@
       "onboard_time": 1750263740,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 354106,
+      "num": 299598,
+      "word": "金秀贤反诉金赛纶方",
+      "onboard_time": 1750685002,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 354075,
@@ -17872,14 +17896,6 @@
       "word": "虞书欣直播",
       "onboard_time": 1749989601,
       "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 331727,
-      "num": 331727,
-      "word": "田曦薇校园时期美貌就被认证",
-      "onboard_time": 1750681944,
-      "rank": 24,
       "category": "艺人"
     },
     {
@@ -20571,14 +20587,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 287322,
-      "num": 287322,
-      "word": "终于等到窦靖童长发了",
-      "onboard_time": 1750684943,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 287238,
       "num": 287238,
       "word": "王俊凯你的演唱会呢",
@@ -21865,6 +21873,14 @@
       "onboard_time": 1749314302,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 270155,
+      "num": 270155,
+      "word": "关注以伊冲突最新动态",
+      "onboard_time": 1750683983,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 270077,
@@ -23435,14 +23451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 253535,
-      "num": 253535,
-      "word": "金秀贤反诉金赛纶方",
-      "onboard_time": 1750685002,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 253530,
       "num": 253530,
       "word": "许昕3比1徐瑛彬",
@@ -23905,14 +23913,6 @@
       "onboard_time": 1749701301,
       "rank": 40,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 248420,
-      "num": 248420,
-      "word": "关注以伊冲突最新动态",
-      "onboard_time": 1750683983,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 248401,
@@ -24801,6 +24801,14 @@
       "onboard_time": 1748786421,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 237863,
+      "num": 237863,
+      "word": "金靖cos了聂九罗",
+      "onboard_time": 1750684704,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 237708,
@@ -30147,6 +30155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 203914,
+      "num": 196715,
+      "word": "林心如海边比基尼照",
+      "onboard_time": 1750685845,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203842,
       "num": 203842,
       "word": "男子2000元卖掉前女友30只布偶猫",
@@ -31297,6 +31313,14 @@
       "onboard_time": 1748833821,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 199760,
+      "num": 199760,
+      "word": "成都一小区投票表决扑杀流浪狗",
+      "onboard_time": 1750684041,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 199717,
@@ -34395,6 +34419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 188624,
+      "num": 188624,
+      "word": "年轻人讨厌的不是酒是酒局",
+      "onboard_time": 1750686201,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188607,
       "num": 188607,
       "word": "周深的摄像师集体背题上岗",
@@ -36937,14 +36969,6 @@
       "onboard_time": 1750238902,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 178996,
-      "num": 214058,
-      "word": "金靖cos了聂九罗",
-      "onboard_time": 1750684704,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 178968,
@@ -40067,6 +40091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167992,
+      "num": 167992,
+      "word": "钟丽丽没报上郝蕾的表演培训班",
+      "onboard_time": 1750684583,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167901,
       "num": 167901,
       "word": "哪吒汽车董事长回应员工讨薪",
@@ -40713,14 +40745,6 @@
       "onboard_time": 1749785600,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 165913,
-      "num": 165913,
-      "word": "成都一小区投票表决扑杀流浪狗",
-      "onboard_time": 1750684041,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 165884,
@@ -41547,6 +41571,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 163281,
+      "num": 163281,
+      "word": "下次砍一刀请找李昀锐",
+      "onboard_time": 1750685722,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163272,
       "num": 146406,
       "word": "沙特王子也为周杰伦着迷",
@@ -41569,14 +41601,6 @@
       "onboard_time": 1749023061,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 163118,
-      "num": 163118,
-      "word": "钟丽丽没报上郝蕾的表演培训班",
-      "onboard_time": 1750684583,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 163083,
@@ -43545,6 +43569,14 @@
       "onboard_time": 1749432261,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 156607,
+      "num": 141569,
+      "word": "伊朗一关押外国间谍监狱遭以袭击",
+      "onboard_time": 1750685184,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 156536,
@@ -48163,6 +48195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142537,
+      "num": 141541,
+      "word": "韩国人科普中国纸巾",
+      "onboard_time": 1750686382,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142517,
       "num": 142517,
       "word": "黄子韬成Capper迷弟了",
@@ -48545,6 +48585,14 @@
       "onboard_time": 1748781140,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 141437,
+      "num": 148138,
+      "word": "谁让王凯进组谁就是我的恩人",
+      "onboard_time": 1750682723,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 141435,
@@ -49089,14 +49137,6 @@
       "onboard_time": 1749479604,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139964,
-      "num": 148138,
-      "word": "谁让王凯进组谁就是我的恩人",
-      "onboard_time": 1750682723,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 139930,
@@ -52555,14 +52595,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 130798,
-      "num": 130798,
-      "word": "伊朗一关押外国间谍监狱遭以袭击",
-      "onboard_time": 1750685184,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 130795,
       "num": 130795,
       "word": "今年第一批吃菌子中毒的人出现了",
@@ -53507,6 +53539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128561,
+      "num": 314422,
+      "word": "50.2万用户收到地震预警",
+      "onboard_time": 1750685722,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128556,
       "num": 128556,
       "word": "李昀锐方告黑声明",
@@ -54321,14 +54361,6 @@
       "onboard_time": 1749983902,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 126120,
-      "num": 209832,
-      "word": "50.2万用户收到地震预警",
-      "onboard_time": 1750685722,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 126114,
@@ -56347,14 +56379,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 121016,
-      "num": 121016,
-      "word": "下次砍一刀请找李昀锐",
-      "onboard_time": 1750685722,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 121015,
       "num": 121015,
       "word": "饶雪漫给柯淳发青春戏片约",
@@ -58097,14 +58121,6 @@
       "onboard_time": 1749429742,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 115869,
-      "num": 115869,
-      "word": "林心如海边比基尼照",
-      "onboard_time": 1750685845,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 115849,
@@ -61947,6 +61963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103191,
+      "num": 103191,
+      "word": "长安汽车控股股东名称变更",
+      "onboard_time": 1750685963,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 103114,
       "num": 102568,
       "word": "最适合祝福考生的台词出现了",
@@ -63803,6 +63827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96055,
+      "num": 96055,
+      "word": "赵昭仪直播",
+      "onboard_time": 1750686682,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96053,
       "num": 96053,
       "word": "李光洁 人夫赛道遥遥领先",
@@ -64881,6 +64913,14 @@
       "onboard_time": 1748838621,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 91797,
+      "num": 91797,
+      "word": "美国多地爆发反战抗议活动",
+      "onboard_time": 1750686382,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 91756,
@@ -66241,14 +66281,6 @@
       "onboard_time": 1748733497,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 84814,
-      "num": 89080,
-      "word": "长安汽车控股股东名称变更",
-      "onboard_time": 1750685963,
-      "rank": 49,
-      "category": "汽车"
     },
     {
       "raw_hot": 84779,
@@ -81539,6 +81571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21951,
+      "num": 731559,
+      "word": "2025高招一站式服务平台",
+      "onboard_time": 1750668203,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 21933,
       "num": 29325,
       "word": "张真源从清纯小狗变朋克",
@@ -81673,14 +81713,6 @@
       "onboard_time": 1749540621,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 21612,
-      "num": 731559,
-      "word": "2025高招一站式服务平台",
-      "onboard_time": 1750668203,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 21593,

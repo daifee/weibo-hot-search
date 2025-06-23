@@ -1,6 +1,6 @@
 {
   "startTime": 1750609820904,
-  "endTime": 1750686035745,
+  "endTime": 1750686756234,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -219,7 +219,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 849418,
+      "raw_hot": 867529,
       "num": 672913,
       "word": "伊朗导弹击中以色列南部",
       "onboard_time": 1750681342,
@@ -331,6 +331,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 710781,
+      "num": 347679,
+      "word": "孟子义照片顺序",
+      "onboard_time": 1750681104,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 704903,
       "num": 704903,
       "word": "慕胥辞迪丽热巴陈飞宇领衔主演",
@@ -393,14 +401,6 @@
       "onboard_time": 1750658721,
       "rank": 3,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 668272,
-      "num": 347679,
-      "word": "孟子义照片顺序",
-      "onboard_time": 1750681104,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 664665,
@@ -659,6 +659,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 416802,
+      "num": 416802,
+      "word": "终于等到窦靖童长发了",
+      "onboard_time": 1750684943,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 414715,
+      "num": 311037,
+      "word": "痛经是子宫太想保护你",
+      "onboard_time": 1750681944,
+      "rank": 22,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 412281,
       "num": 412281,
       "word": "原来绝经不是突然不来月经了",
@@ -739,14 +755,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 391200,
-      "num": 311037,
-      "word": "痛经是子宫太想保护你",
-      "onboard_time": 1750681944,
-      "rank": 22,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 378527,
       "num": 378527,
       "word": "迪丽热巴紫瞳",
@@ -811,6 +819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 363391,
+      "num": 363391,
+      "word": "田曦薇校园时期美貌就被认证",
+      "onboard_time": 1750681944,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 360220,
       "num": 360220,
       "word": "美团优选",
@@ -833,6 +849,14 @@
       "onboard_time": 1750678105,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 354106,
+      "num": 299598,
+      "word": "金秀贤反诉金赛纶方",
+      "onboard_time": 1750685002,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 354021,
@@ -945,14 +969,6 @@
       "onboard_time": 1750651164,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 331727,
-      "num": 331727,
-      "word": "田曦薇校园时期美貌就被认证",
-      "onboard_time": 1750681944,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 329697,
@@ -1091,14 +1107,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 287322,
-      "num": 287322,
-      "word": "终于等到窦靖童长发了",
-      "onboard_time": 1750684943,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 284980,
       "num": 286131,
       "word": "Cenm0道歉",
@@ -1169,6 +1177,14 @@
       "onboard_time": 1750682783,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 270155,
+      "num": 270155,
+      "word": "关注以伊冲突最新动态",
+      "onboard_time": 1750683983,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 268995,
@@ -1275,14 +1291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 253535,
-      "num": 253535,
-      "word": "金秀贤反诉金赛纶方",
-      "onboard_time": 1750685002,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 251192,
       "num": 251192,
       "word": "雷军回应何时造油车",
@@ -1313,14 +1321,6 @@
       "onboard_time": 1750651342,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 248420,
-      "num": 248420,
-      "word": "关注以伊冲突最新动态",
-      "onboard_time": 1750683983,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 247327,
@@ -1377,6 +1377,14 @@
       "onboard_time": 1750677327,
       "rank": 24,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 237863,
+      "num": 237863,
+      "word": "金靖cos了聂九罗",
+      "onboard_time": 1750684704,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 237680,
@@ -1683,6 +1691,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 203914,
+      "num": 196715,
+      "word": "林心如海边比基尼照",
+      "onboard_time": 1750685845,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203206,
       "num": 203206,
       "word": "最难喝的奶茶",
@@ -1721,6 +1737,14 @@
       "onboard_time": 1750666884,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 199760,
+      "num": 199760,
+      "word": "成都一小区投票表决扑杀流浪狗",
+      "onboard_time": 1750684041,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198337,
@@ -1907,6 +1931,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 188624,
+      "num": 188624,
+      "word": "年轻人讨厌的不是酒是酒局",
+      "onboard_time": 1750686201,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188613,
       "num": 188613,
       "word": "聊斋",
@@ -2043,14 +2075,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 178996,
-      "num": 214058,
-      "word": "金靖cos了聂九罗",
-      "onboard_time": 1750684704,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 178852,
       "num": 178852,
       "word": "张艺兴直播夜游探险",
@@ -2171,20 +2195,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167992,
+      "num": 167992,
+      "word": "钟丽丽没报上郝蕾的表演培训班",
+      "onboard_time": 1750684583,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167077,
       "num": 167077,
       "word": "步行者vs雷霆",
       "onboard_time": 1750640721,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 165913,
-      "num": 165913,
-      "word": "成都一小区投票表决扑杀流浪狗",
-      "onboard_time": 1750684041,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 163417,
@@ -2195,12 +2219,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 163118,
-      "num": 163118,
-      "word": "钟丽丽没报上郝蕾的表演培训班",
-      "onboard_time": 1750684583,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 163281,
+      "num": 163281,
+      "word": "下次砍一刀请找李昀锐",
+      "onboard_time": 1750685722,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 162511,
@@ -2297,6 +2321,14 @@
       "onboard_time": 1750663404,
       "rank": 46,
       "category": "网红"
+    },
+    {
+      "raw_hot": 156607,
+      "num": 141569,
+      "word": "伊朗一关押外国间谍监狱遭以袭击",
+      "onboard_time": 1750685184,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 155543,
@@ -2451,6 +2483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142537,
+      "num": 141541,
+      "word": "韩国人科普中国纸巾",
+      "onboard_time": 1750686382,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142366,
       "num": 142366,
       "word": "普京访华将停留4天",
@@ -2499,6 +2539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141437,
+      "num": 148138,
+      "word": "谁让王凯进组谁就是我的恩人",
+      "onboard_time": 1750682723,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141011,
       "num": 220889,
       "word": "选志愿听张朝阳还是张雪峰",
@@ -2513,14 +2561,6 @@
       "onboard_time": 1750656083,
       "rank": 19,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 139964,
-      "num": 148138,
-      "word": "谁让王凯进组谁就是我的恩人",
-      "onboard_time": 1750682723,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 139535,
@@ -2643,14 +2683,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 130798,
-      "num": 130798,
-      "word": "伊朗一关押外国间谍监狱遭以袭击",
-      "onboard_time": 1750685184,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 130579,
       "num": 233357,
       "word": "王欣瑜无缘温网种子",
@@ -2699,6 +2731,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 128561,
+      "num": 314422,
+      "word": "50.2万用户收到地震预警",
+      "onboard_time": 1750685722,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127604,
       "num": 246252,
       "word": "9.6万学费高校称教师基本是院士专家",
@@ -2728,14 +2768,6 @@
       "word": "江西救护车",
       "onboard_time": 1750663283,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 126120,
-      "num": 209832,
-      "word": "50.2万用户收到地震预警",
-      "onboard_time": 1750685722,
-      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -2827,14 +2859,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 121016,
-      "num": 121016,
-      "word": "下次砍一刀请找李昀锐",
-      "onboard_time": 1750685722,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 119794,
       "num": 119794,
       "word": "考公慎选的五大专业",
@@ -2889,14 +2913,6 @@
       "onboard_time": 1750672283,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 115869,
-      "num": 115869,
-      "word": "林心如海边比基尼照",
-      "onboard_time": 1750685845,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 115210,
@@ -3027,6 +3043,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 103191,
+      "num": 103191,
+      "word": "长安汽车控股股东名称变更",
+      "onboard_time": 1750685963,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 103080,
       "num": 377656,
       "word": "食品科学与工程真正的真香专业",
@@ -3091,6 +3115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96055,
+      "num": 96055,
+      "word": "赵昭仪直播",
+      "onboard_time": 1750686682,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95087,
       "num": 95087,
       "word": "买到正品小猫积木了",
@@ -3113,6 +3145,14 @@
       "onboard_time": 1750643061,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91797,
+      "num": 91797,
+      "word": "美国多地爆发反战抗议活动",
+      "onboard_time": 1750686382,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 90059,
@@ -3185,14 +3225,6 @@
       "onboard_time": 1750595841,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 84814,
-      "num": 89080,
-      "word": "长安汽车控股股东名称变更",
-      "onboard_time": 1750685963,
-      "rank": 49,
-      "category": "汽车"
     },
     {
       "raw_hot": 84163,
@@ -3827,7 +3859,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 21612,
+      "raw_hot": 21951,
       "num": 731559,
       "word": "2025高招一站式服务平台",
       "onboard_time": 1750668203,

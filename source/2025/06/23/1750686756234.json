@@ -1,0 +1,410 @@
+{
+  "runTime": 1750686756234,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1592667,
+        "num": 1592667,
+        "word": "微信语音 丑",
+        "onboard_time": 1750673602,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 648067,
+        "num": 648067,
+        "word": "郑欣宜 歌手补位",
+        "onboard_time": 1750679723,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21951,
+        "num": 548009,
+        "word": "2025高招一站式服务平台",
+        "onboard_time": 1750668203,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 798173,
+        "num": 522068,
+        "word": "广州震感",
+        "onboard_time": 1750676308,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 479182,
+        "num": 479182,
+        "word": "清远地震画面曝光",
+        "onboard_time": 1750680623,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 867529,
+        "num": 468211,
+        "word": "伊朗导弹击中以色列南部",
+        "onboard_time": 1750681342,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 416802,
+        "num": 416802,
+        "word": "终于等到窦靖童长发了",
+        "onboard_time": 1750684943,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 363391,
+        "num": 363391,
+        "word": "田曦薇校园时期美貌就被认证",
+        "onboard_time": 1750681944,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353732,
+        "num": 353732,
+        "word": "美军驻叙利亚军事基地遭袭",
+        "onboard_time": 1750675342,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128561,
+        "num": 314422,
+        "word": "50.2万用户收到地震预警",
+        "onboard_time": 1750685722,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 710781,
+        "num": 304282,
+        "word": "孟子义照片顺序",
+        "onboard_time": 1750681104,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 354106,
+        "num": 299598,
+        "word": "金秀贤反诉金赛纶方",
+        "onboard_time": 1750685002,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283063,
+        "num": 283063,
+        "word": "清远地震",
+        "onboard_time": 1750676308,
+        "rank": 12,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 270155,
+        "num": 270155,
+        "word": "关注以伊冲突最新动态",
+        "onboard_time": 1750683983,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 237863,
+        "num": 237863,
+        "word": "金靖cos了聂九罗",
+        "onboard_time": 1750684704,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 236711,
+        "num": 236711,
+        "word": "以战机2小时向伊朗投100多枚弹药",
+        "onboard_time": 1750682001,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 231278,
+        "num": 231278,
+        "word": "周翊然一天换乘三部剧宣",
+        "onboard_time": 1750682783,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218436,
+        "num": 218436,
+        "word": "深圳震感",
+        "onboard_time": 1750676366,
+        "rank": 17,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 215097,
+        "num": 215097,
+        "word": "广东清远4.3级地震",
+        "onboard_time": 1750676668,
+        "rank": 18,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 199760,
+        "num": 199760,
+        "word": "成都一小区投票表决扑杀流浪狗",
+        "onboard_time": 1750684041,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 414715,
+        "num": 197989,
+        "word": "痛经是子宫太想保护你",
+        "onboard_time": 1750681944,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 203914,
+        "num": 196715,
+        "word": "林心如海边比基尼照",
+        "onboard_time": 1750685845,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188624,
+        "num": 188624,
+        "word": "年轻人讨厌的不是酒是酒局",
+        "onboard_time": 1750686201,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179214,
+        "num": 179214,
+        "word": "肖战撤回一个开箱切掉",
+        "onboard_time": 1750685305,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178351,
+        "num": 178351,
+        "word": "魏晨 要是一个女孩的话也不错",
+        "onboard_time": 1750678105,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167992,
+        "num": 167992,
+        "word": "钟丽丽没报上郝蕾的表演培训班",
+        "onboard_time": 1750684583,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167507,
+        "num": 167507,
+        "word": "家长曝学校发的饮用奶变质酸臭",
+        "onboard_time": 1750683684,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163281,
+        "num": 163281,
+        "word": "下次砍一刀请找李昀锐",
+        "onboard_time": 1750685722,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163099,
+        "num": 163099,
+        "word": "伊朗真的会封闭霍尔木兹海峡吗",
+        "onboard_time": 1750680083,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141620,
+        "num": 141620,
+        "word": "孙颖莎王楚钦拟授予国际级运动健将",
+        "onboard_time": 1750674862,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156607,
+        "num": 141569,
+        "word": "伊朗一关押外国间谍监狱遭以袭击",
+        "onboard_time": 1750685184,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142537,
+        "num": 141541,
+        "word": "韩国人科普中国纸巾",
+        "onboard_time": 1750686382,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141437,
+        "num": 141437,
+        "word": "谁让王凯进组谁就是我的恩人",
+        "onboard_time": 1750682723,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139021,
+        "num": 139021,
+        "word": "普京说俄愿为伊朗人民提供协助",
+        "onboard_time": 1750682723,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138609,
+        "num": 138609,
+        "word": "庆余年3再次升级演员阵容",
+        "onboard_time": 1750663404,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128857,
+        "num": 128857,
+        "word": "文旅局介入男子凿奥特曼石窟",
+        "onboard_time": 1750681223,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124888,
+        "num": 124888,
+        "word": "男孩中考查分863分数学满分",
+        "onboard_time": 1750658782,
+        "rank": 36,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 119167,
+        "num": 119167,
+        "word": "赵今麦张凌赫樱桃琥珀大事很妙",
+        "onboard_time": 1750685484,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117980,
+        "num": 117980,
+        "word": "终于有剧拍末世大女主了",
+        "onboard_time": 1750676490,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117358,
+        "num": 117358,
+        "word": "男子离婚前0元转让千万股权给父亲",
+        "onboard_time": 1750679843,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108341,
+        "num": 108341,
+        "word": "现代版农夫与蛇",
+        "onboard_time": 1750665684,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107391,
+        "num": 107391,
+        "word": "美攻击伊朗后日韩首脑将缺席北约峰会",
+        "onboard_time": 1750684823,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103191,
+        "num": 103191,
+        "word": "长安汽车控股股东名称变更",
+        "onboard_time": 1750685963,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 101768,
+        "num": 101768,
+        "word": "伊朗称将向世界展示力量",
+        "onboard_time": 1750668744,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99511,
+        "num": 99511,
+        "word": "火星电台 歌手补位",
+        "onboard_time": 1750683383,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96055,
+        "num": 96055,
+        "word": "赵昭仪直播",
+        "onboard_time": 1750686682,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94352,
+        "num": 94352,
+        "word": "蔡依林出场观众大喊Mommy",
+        "onboard_time": 1750685362,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 93948,
+        "num": 93948,
+        "word": "九尾 从b组开始打才有意思",
+        "onboard_time": 1750677866,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 93160,
+        "num": 93160,
+        "word": "上海高考成绩一分一段表",
+        "onboard_time": 1750683922,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 91797,
+        "num": 91797,
+        "word": "美国多地爆发反战抗议活动",
+        "onboard_time": 1750686382,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同志在闽金融论述与实践启示#"
+    }
+  }
+}
