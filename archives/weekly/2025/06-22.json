@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750686756234,
+  "endTime": 1750688870268,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -363,6 +363,14 @@
       "category": "休闲,动漫"
     },
     {
+      "raw_hot": 900125,
+      "num": 595123,
+      "word": "海南失联女生尸体疑在万泉河发现",
+      "onboard_time": 1750687463,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 899097,
       "num": 899097,
       "word": "白玉兰 提携新人",
@@ -564,7 +572,7 @@
     },
     {
       "raw_hot": 710781,
-      "num": 347679,
+      "num": 352750,
       "word": "孟子义照片顺序",
       "onboard_time": 1750681104,
       "rank": 15,
@@ -609,6 +617,14 @@
       "onboard_time": 1750638742,
       "rank": 5,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 691929,
+      "num": 352790,
+      "word": "林心如海边比基尼照",
+      "onboard_time": 1750685845,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 690406,
@@ -688,6 +704,14 @@
       "word": "陈赫问王勉和谁逛街",
       "onboard_time": 1750580122,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 657920,
+      "num": 352757,
+      "word": "郑乃馨在拽什么",
+      "onboard_time": 1750688305,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -873,6 +897,14 @@
       "onboard_time": 1750583060,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 556923,
+      "num": 556923,
+      "word": "成都一小区投票表决扑杀流浪狗",
+      "onboard_time": 1750684041,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 553014,
@@ -1259,6 +1291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 437113,
+      "num": 330500,
+      "word": "金秀贤反诉金赛纶方",
+      "onboard_time": 1750685002,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 435178,
       "num": 435178,
       "word": "伊朗称福尔多核设施仅地上受损",
@@ -1289,6 +1329,14 @@
       "onboard_time": 1750658664,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 422102,
+      "num": 422102,
+      "word": "田曦薇校园时期美貌就被认证",
+      "onboard_time": 1750681944,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 421942,
@@ -1393,6 +1441,14 @@
       "onboard_time": 1750519703,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 404063,
+      "num": 404063,
+      "word": "关注以伊冲突最新动态",
+      "onboard_time": 1750683983,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 403894,
@@ -1555,14 +1611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 363391,
-      "num": 363391,
-      "word": "田曦薇校园时期美貌就被认证",
-      "onboard_time": 1750681944,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 360220,
       "num": 360220,
       "word": "美团优选",
@@ -1603,14 +1651,6 @@
       "category": "艺人,辟谣/通报"
     },
     {
-      "raw_hot": 354106,
-      "num": 299598,
-      "word": "金秀贤反诉金赛纶方",
-      "onboard_time": 1750685002,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 354021,
       "num": 354021,
       "word": "江西救护车涉事医院称收到网友锦旗",
@@ -1625,6 +1665,14 @@
       "onboard_time": 1750596322,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 352804,
+      "num": 352804,
+      "word": "年轻人讨厌的不是酒是酒局",
+      "onboard_time": 1750686201,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 352316,
@@ -2235,14 +2283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 270155,
-      "num": 270155,
-      "word": "关注以伊冲突最新动态",
-      "onboard_time": 1750683983,
-      "rank": 23,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 268995,
       "num": 268995,
       "word": "林玉芬 莫离妆造",
@@ -2443,6 +2483,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 247662,
+      "num": 247662,
+      "word": "金靖cos了聂九罗",
+      "onboard_time": 1750684704,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 247327,
       "num": 247327,
       "word": "秦彻登上苹果商店首页封面",
@@ -2505,14 +2553,6 @@
       "onboard_time": 1750564042,
       "rank": 37,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 237863,
-      "num": 237863,
-      "word": "金靖cos了聂九罗",
-      "onboard_time": 1750684704,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 237680,
@@ -3075,14 +3115,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 203914,
-      "num": 196715,
-      "word": "林心如海边比基尼照",
-      "onboard_time": 1750685845,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 203490,
       "num": 203490,
       "word": "鹅剧派对官宣演员阵容",
@@ -3185,14 +3217,6 @@
       "onboard_time": 1750601004,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 199760,
-      "num": 199760,
-      "word": "成都一小区投票表决扑杀流浪狗",
-      "onboard_time": 1750684041,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 199426,
@@ -3451,6 +3475,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 190250,
+      "num": 190250,
+      "word": "偶遇刘诗诗于莎莎逛街",
+      "onboard_time": 1750686804,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190004,
       "num": 190004,
       "word": "我不在意你了我在意大利了",
@@ -3497,14 +3529,6 @@
       "onboard_time": 1750673963,
       "rank": 22,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 188624,
-      "num": 188624,
-      "word": "年轻人讨厌的不是酒是酒局",
-      "onboard_time": 1750686201,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 188613,
@@ -3593,6 +3617,14 @@
       "onboard_time": 1750664122,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185779,
+      "num": 185779,
+      "word": "巴黎合伙人出发直播",
+      "onboard_time": 1750688244,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 185607,
@@ -4331,6 +4363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152664,
+      "num": 152664,
+      "word": "腾讯招商大会剧集预告热度排名",
+      "onboard_time": 1750687223,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152268,
       "num": 152268,
       "word": "北京高温持续3天",
@@ -4363,6 +4403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 150857,
+      "num": 150857,
+      "word": "星星人 曾志伟",
+      "onboard_time": 1750687824,
+      "rank": 28,
+      "category": "艺人,动漫"
+    },
+    {
       "raw_hot": 150577,
       "num": 150577,
       "word": "常州文旅",
@@ -4393,6 +4441,14 @@
       "onboard_time": 1750560623,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 148874,
+      "num": 148874,
+      "word": "考文垂与樊振东张雨霏的缘分",
+      "onboard_time": 1750688244,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 148284,
@@ -4467,6 +4523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 146620,
+      "num": 139897,
+      "word": "星星人因游客挂Labubu生气跺脚萌翻众人",
+      "onboard_time": 1750688244,
+      "rank": 33,
+      "category": "民生新闻,休闲"
+    },
+    {
       "raw_hot": 146509,
       "num": 210915,
       "word": "登陆少年米兰时装周看秀look",
@@ -4529,6 +4593,14 @@
       "onboard_time": 1750562964,
       "rank": 44,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 144983,
+      "num": 144983,
+      "word": "南京先锋书店突然拆门牌引网友猜测",
+      "onboard_time": 1750687884,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144725,
@@ -4995,6 +5067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130242,
+      "num": 130242,
+      "word": "3岁儿子捧鲜花手术室门口等癌症妈妈",
+      "onboard_time": 1750687523,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129942,
       "num": 129942,
       "word": "赵今麦张凌赫樱桃琥珀大事很妙",
@@ -5283,6 +5363,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123150,
+      "num": 123150,
+      "word": "王鹤棣黑纱薄衣造型",
+      "onboard_time": 1750688002,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 122099,
+      "num": 122099,
+      "word": "孙恩盛否认恋爱",
+      "onboard_time": 1750686925,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122064,
       "num": 151896,
       "word": "焕羽",
@@ -5321,6 +5417,14 @@
       "onboard_time": 1750570642,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121536,
+      "num": 121536,
+      "word": "美国多地爆发反战抗议活动",
+      "onboard_time": 1750686382,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 120926,
@@ -5643,6 +5747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104513,
+      "num": 104513,
+      "word": "赵昭仪直播",
+      "onboard_time": 1750686682,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104018,
       "num": 104018,
       "word": "蔡依林出场观众大喊Mommy",
@@ -5737,6 +5849,14 @@
       "onboard_time": 1750685184,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 99130,
+      "num": 149483,
+      "word": "男子嫌1500元机票贵连偷8辆车开回家",
+      "onboard_time": 1750687283,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99086,
@@ -5835,14 +5955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 96055,
-      "num": 96055,
-      "word": "赵昭仪直播",
-      "onboard_time": 1750686682,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 95767,
       "num": 95767,
       "word": "常州小球迷痛哭怎么一次都没进",
@@ -5913,14 +6025,6 @@
       "onboard_time": 1750520844,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 91797,
-      "num": 91797,
-      "word": "美国多地爆发反战抗议活动",
-      "onboard_time": 1750686382,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 91036,
@@ -7097,6 +7201,14 @@
       "onboard_time": 1750584802,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18710,
+      "num": 227678,
+      "word": "年检站人员被投诉勾结维修厂吃回扣",
+      "onboard_time": 1750688483,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 18518,

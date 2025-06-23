@@ -1,0 +1,410 @@
+{
+  "runTime": 1750688870268,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1582484,
+        "num": 1582484,
+        "word": "微信语音 丑",
+        "onboard_time": 1750673602,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 612290,
+        "num": 612290,
+        "word": "郑欣宜 歌手补位",
+        "onboard_time": 1750679723,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18357,
+        "num": 595508,
+        "word": "2025高招一站式服务平台",
+        "onboard_time": 1750668203,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 900125,
+        "num": 595123,
+        "word": "海南失联女生尸体疑在万泉河发现",
+        "onboard_time": 1750687463,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 592755,
+        "num": 592755,
+        "word": "广州震感",
+        "onboard_time": 1750676308,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 585233,
+        "num": 585233,
+        "word": "伊朗导弹击中以色列南部",
+        "onboard_time": 1750681342,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 556923,
+        "num": 556923,
+        "word": "成都一小区投票表决扑杀流浪狗",
+        "onboard_time": 1750684041,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 422102,
+        "num": 422102,
+        "word": "田曦薇校园时期美貌就被认证",
+        "onboard_time": 1750681944,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404063,
+        "num": 404063,
+        "word": "关注以伊冲突最新动态",
+        "onboard_time": 1750683983,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 352804,
+        "num": 352804,
+        "word": "年轻人讨厌的不是酒是酒局",
+        "onboard_time": 1750686201,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 691929,
+        "num": 352790,
+        "word": "林心如海边比基尼照",
+        "onboard_time": 1750685845,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 657920,
+        "num": 352757,
+        "word": "郑乃馨在拽什么",
+        "onboard_time": 1750688305,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 561224,
+        "num": 352750,
+        "word": "孟子义照片顺序",
+        "onboard_time": 1750681104,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 352624,
+        "num": 352624,
+        "word": "清远地震画面曝光",
+        "onboard_time": 1750680623,
+        "rank": 13,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 437113,
+        "num": 330500,
+        "word": "金秀贤反诉金赛纶方",
+        "onboard_time": 1750685002,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289068,
+        "num": 289068,
+        "word": "美军驻叙利亚军事基地遭袭",
+        "onboard_time": 1750675342,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 280750,
+        "num": 280750,
+        "word": "终于等到窦靖童长发了",
+        "onboard_time": 1750684943,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247662,
+        "num": 247662,
+        "word": "金靖cos了聂九罗",
+        "onboard_time": 1750684704,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198582,
+        "num": 235352,
+        "word": "周翊然一天换乘三部剧宣",
+        "onboard_time": 1750682783,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18710,
+        "num": 227678,
+        "word": "年检站人员被投诉勾结维修厂吃回扣",
+        "onboard_time": 1750688483,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 267659,
+        "num": 227593,
+        "word": "痛经是子宫太想保护你",
+        "onboard_time": 1750681944,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 227498,
+        "num": 227498,
+        "word": "广东清远4.3级地震",
+        "onboard_time": 1750676668,
+        "rank": 21,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 220974,
+        "num": 220974,
+        "word": "清远地震",
+        "onboard_time": 1750676308,
+        "rank": 22,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 190250,
+        "num": 190250,
+        "word": "偶遇刘诗诗于莎莎逛街",
+        "onboard_time": 1750686804,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185779,
+        "num": 185779,
+        "word": "巴黎合伙人出发直播",
+        "onboard_time": 1750688244,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162333,
+        "num": 162333,
+        "word": "肖战撤回一个开箱切掉",
+        "onboard_time": 1750685305,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153634,
+        "num": 153634,
+        "word": "以战机2小时向伊朗投100多枚弹药",
+        "onboard_time": 1750682001,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152664,
+        "num": 152664,
+        "word": "腾讯招商大会剧集预告热度排名",
+        "onboard_time": 1750687223,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150857,
+        "num": 150857,
+        "word": "星星人 曾志伟",
+        "onboard_time": 1750687824,
+        "rank": 28,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 99130,
+        "num": 149483,
+        "word": "男子嫌1500元机票贵连偷8辆车开回家",
+        "onboard_time": 1750687283,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148874,
+        "num": 148874,
+        "word": "考文垂与樊振东张雨霏的缘分",
+        "onboard_time": 1750688244,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144983,
+        "num": 144983,
+        "word": "南京先锋书店突然拆门牌引网友猜测",
+        "onboard_time": 1750687884,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140846,
+        "num": 140846,
+        "word": "庆余年3再次升级演员阵容",
+        "onboard_time": 1750663404,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146620,
+        "num": 139897,
+        "word": "星星人因游客挂Labubu生气跺脚萌翻众人",
+        "onboard_time": 1750688244,
+        "rank": 33,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 137713,
+        "num": 137713,
+        "word": "现代版农夫与蛇",
+        "onboard_time": 1750665684,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133476,
+        "num": 133476,
+        "word": "深圳震感",
+        "onboard_time": 1750676366,
+        "rank": 35,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 130242,
+        "num": 130242,
+        "word": "3岁儿子捧鲜花手术室门口等癌症妈妈",
+        "onboard_time": 1750687523,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123462,
+        "num": 123462,
+        "word": "韩国人科普中国纸巾",
+        "onboard_time": 1750686382,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123150,
+        "num": 123150,
+        "word": "王鹤棣黑纱薄衣造型",
+        "onboard_time": 1750688002,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122124,
+        "num": 122124,
+        "word": "谁让王凯进组谁就是我的恩人",
+        "onboard_time": 1750682723,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122099,
+        "num": 122099,
+        "word": "孙恩盛否认恋爱",
+        "onboard_time": 1750686925,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121536,
+        "num": 121536,
+        "word": "美国多地爆发反战抗议活动",
+        "onboard_time": 1750686382,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120929,
+        "num": 120929,
+        "word": "终于有剧拍末世大女主了",
+        "onboard_time": 1750676490,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119827,
+        "num": 119827,
+        "word": "孙颖莎王楚钦拟授予国际级运动健将",
+        "onboard_time": 1750674862,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117570,
+        "num": 117570,
+        "word": "普京说俄愿为伊朗人民提供协助",
+        "onboard_time": 1750682723,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115900,
+        "num": 115900,
+        "word": "伊朗称将向世界展示力量",
+        "onboard_time": 1750668744,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115635,
+        "num": 115635,
+        "word": "美攻击伊朗后日韩首脑将缺席北约峰会",
+        "onboard_time": 1750684823,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114517,
+        "num": 114517,
+        "word": "男孩中考查分863分数学满分",
+        "onboard_time": 1750658782,
+        "rank": 47,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 108324,
+        "num": 108324,
+        "word": "伊朗一关押外国间谍监狱遭以袭击",
+        "onboard_time": 1750685184,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104513,
+        "num": 104513,
+        "word": "赵昭仪直播",
+        "onboard_time": 1750686682,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同志在闽金融论述与实践启示#"
+    }
+  }
+}
