@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750678761010,
+  "endTime": 1750683284277,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -435,6 +435,14 @@
       "category": "民生新闻,议题讨论"
     },
     {
+      "raw_hot": 796235,
+      "num": 796235,
+      "word": "郑欣宜 歌手补位",
+      "onboard_time": 1750679723,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 787545,
       "num": 602244,
       "word": "张杰不想去歌手的原因",
@@ -859,6 +867,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 552732,
+      "num": 552732,
+      "word": "伊朗导弹击中以色列南部",
+      "onboard_time": 1750681342,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 551214,
       "num": 551214,
       "word": "腾讯招商大会",
@@ -1001,6 +1017,14 @@
       "onboard_time": 1750640002,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 499944,
+      "num": 499944,
+      "word": "清远地震画面曝光",
+      "onboard_time": 1750680623,
+      "rank": 10,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 499175,
@@ -1499,6 +1523,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 367001,
+      "num": 521458,
+      "word": "孟子义和她的男主们",
+      "onboard_time": 1750679003,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 360220,
       "num": 360220,
       "word": "美团优选",
@@ -1521,6 +1553,14 @@
       "onboard_time": 1750597942,
       "rank": 30,
       "category": "体育,民生新闻"
+    },
+    {
+      "raw_hot": 356463,
+      "num": 356463,
+      "word": "魏晨 要是一个女孩的话也不错",
+      "onboard_time": 1750678105,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 354193,
@@ -1585,6 +1625,14 @@
       "onboard_time": 1750591283,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 347679,
+      "num": 347679,
+      "word": "孟子义照片顺序",
+      "onboard_time": 1750681104,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 346982,
@@ -1905,6 +1953,14 @@
       "onboard_time": 1750595242,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 300318,
+      "num": 503810,
+      "word": "伊朗真的会封闭霍尔木兹海峡吗",
+      "onboard_time": 1750680083,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 300188,
@@ -2355,6 +2411,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 243694,
+      "num": 243694,
+      "word": "痛经是子宫太想保护你",
+      "onboard_time": 1750681944,
+      "rank": 22,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 242481,
       "num": 242481,
       "word": "王子文刘宇宁我从未见过这样的你们",
@@ -2667,12 +2731,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218682,
+      "num": 218682,
+      "word": "星星人",
+      "onboard_time": 1750678763,
+      "rank": 23,
+      "category": "休闲,动漫"
+    },
+    {
       "raw_hot": 218506,
       "num": 218506,
       "word": "肖战美貌受害者加一",
       "onboard_time": 1750605204,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217336,
+      "num": 217336,
+      "word": "田曦薇校园时期美貌就被认证",
+      "onboard_time": 1750681944,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 217317,
@@ -3027,14 +3107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200604,
-      "num": 293738,
-      "word": "魏晨 要是一个女孩的话也不错",
-      "onboard_time": 1750678105,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 200427,
       "num": 200427,
       "word": "闫安透露王楚钦梁靖崑将配男双",
@@ -3251,6 +3323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191906,
+      "num": 191906,
+      "word": "本周歌手双补位",
+      "onboard_time": 1750679723,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191640,
       "num": 191640,
       "word": "Labubu 苏大强版",
@@ -3441,6 +3521,14 @@
       "onboard_time": 1750554321,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 184183,
+      "num": 184183,
+      "word": "李嘉琦差点带着火罐印走红毯",
+      "onboard_time": 1750681282,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 183363,
@@ -3635,6 +3723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172790,
+      "num": 172790,
+      "word": "周翊然一天换乘三部剧宣",
+      "onboard_time": 1750682783,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172524,
       "num": 172524,
       "word": "不要高估父母不要低估恶意",
@@ -3665,6 +3761,14 @@
       "onboard_time": 1750595961,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172105,
+      "num": 172105,
+      "word": "男子离婚前0元转让千万股权给父亲",
+      "onboard_time": 1750679843,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171876,
@@ -3827,6 +3931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164724,
+      "num": 508658,
+      "word": "以战机2小时向伊朗投100多枚弹药",
+      "onboard_time": 1750682001,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 164716,
       "num": 217231,
       "word": "于小彤晋江式渣男",
@@ -3929,6 +4041,14 @@
       "onboard_time": 1750670244,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160059,
+      "num": 160059,
+      "word": "普京说俄愿为伊朗人民提供协助",
+      "onboard_time": 1750682723,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 159498,
@@ -4081,6 +4201,14 @@
       "onboard_time": 1750643359,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154065,
+      "num": 154065,
+      "word": "文旅局介入男子凿奥特曼石窟",
+      "onboard_time": 1750681223,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153503,
@@ -4467,6 +4595,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 139964,
+      "num": 139964,
+      "word": "谁让王凯进组谁就是我的恩人",
+      "onboard_time": 1750682723,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139535,
       "num": 139535,
       "word": "王嘉尔竟然和pharrell联名了",
@@ -4755,6 +4891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129886,
+      "num": 129886,
+      "word": "郭晓婷新剧请苍天辩忠奸",
+      "onboard_time": 1750681883,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129025,
       "num": 142714,
       "word": "高考第一批查分的人已出现",
@@ -4987,6 +5131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 123747,
+      "num": 123747,
+      "word": "清远地震暂无人员伤亡报告",
+      "onboard_time": 1750680444,
+      "rank": 41,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 123603,
       "num": 123603,
       "word": "岭南荔枝",
@@ -5187,6 +5339,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 113802,
+      "num": 113802,
+      "word": "焕羽11集",
+      "onboard_time": 1750682303,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112921,
       "num": 333075,
       "word": "小伙被3人持械强行查看手机",
@@ -5371,12 +5531,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 102427,
+      "num": 102427,
+      "word": "美团内部公告明确不裁员不降薪",
+      "onboard_time": 1750682422,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 101822,
       "num": 101822,
       "word": "陈冠希秦舒培带女儿海边度假",
       "onboard_time": 1750596202,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101820,
+      "num": 101820,
+      "word": "内娱短剧赛道已经是nextlevel",
+      "onboard_time": 1750682783,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 100398,
@@ -5409,6 +5585,14 @@
       "onboard_time": 1750575802,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98124,
+      "num": 98124,
+      "word": "许宏宇异人之下连宣三部",
+      "onboard_time": 1750680563,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 97862,
@@ -5585,6 +5769,14 @@
       "onboard_time": 1750526779,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 88108,
+      "num": 338265,
+      "word": "雷军回应YU7能否打赢Model Y",
+      "onboard_time": 1750681104,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 87321,
@@ -5891,6 +6083,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 63139,
+      "num": 327651,
+      "word": "送外卖养3弟妹女生回应质疑",
+      "onboard_time": 1750682544,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62259,
       "num": 1106062,
       "word": "我国港口货物吞吐量稳居世界第一",
@@ -5929,6 +6129,14 @@
       "onboard_time": 1750671262,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 59493,
+      "num": 1094559,
+      "word": "净网2025低俗直播斗狠4人被依法处罚",
+      "onboard_time": 1750680505,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 58631,
@@ -6144,6 +6352,14 @@
       "word": "小男孩载着小狗遛弯摘荔枝",
       "onboard_time": 1750543756,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46271,
+      "num": 351353,
+      "word": "清远居民讲述地震瞬间",
+      "onboard_time": 1750681944,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -6417,6 +6633,14 @@
       "onboard_time": 1750529417,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 30970,
+      "num": 328413,
+      "word": "清远震中周边近5年3级以上地震15次",
+      "onboard_time": 1750682544,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30845,
@@ -6769,6 +6993,14 @@
       "onboard_time": 1750664483,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9990,
+      "num": 172154,
+      "word": "70多年前江苏就有苏超了",
+      "onboard_time": 1750683083,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 9614,
