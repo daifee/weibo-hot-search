@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750707468066,
+  "endTime": 1750710581355,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -6371,6 +6371,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 89823,
+      "num": 36171,
+      "word": "特朗普已至白宫战情室",
+      "onboard_time": 1750705274,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89463,
       "num": 363735,
       "word": "官方回应自贡一小学食堂排骨发臭",
@@ -6795,12 +6803,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 59274,
-      "num": 36171,
-      "word": "特朗普已至白宫战情室",
-      "onboard_time": 1750705274,
-      "rank": 30,
-      "category": "剧集"
+      "raw_hot": 59060,
+      "num": 49857,
+      "word": "报北大考古的女孩怎么样了",
+      "onboard_time": 1750699819,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 58631,
@@ -6993,14 +7001,6 @@
       "onboard_time": 1750527497,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 49857,
-      "num": 49857,
-      "word": "报北大考古的女孩怎么样了",
-      "onboard_time": 1750699819,
-      "rank": 31,
-      "category": "教育"
     },
     {
       "raw_hot": 49751,
@@ -7531,6 +7531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 24895,
+      "num": 24894,
+      "word": "中方呼吁国际社会推动冲突降级",
+      "onboard_time": 1750707616,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 24661,
       "num": 60565,
       "word": "中东局势是否要走向失控",
@@ -7724,7 +7732,7 @@
     },
     {
       "raw_hot": 18184,
-      "num": 18067,
+      "num": 19278,
       "word": "赖冠霖官宣以导演身份加入万合天宜",
       "onboard_time": 1750704795,
       "rank": 48,
@@ -7737,6 +7745,14 @@
       "onboard_time": 1750631297,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 17546,
+      "num": 19290,
+      "word": "不间断的熬夜 真的是人生变坏的开始",
+      "onboard_time": 1750708334,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 16764,
@@ -7753,6 +7769,14 @@
       "onboard_time": 1750675342,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15881,
+      "num": 19247,
+      "word": "游客模仿画中人自拍撞破百年名画",
+      "onboard_time": 1750709174,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 15715,
@@ -7864,6 +7888,14 @@
       "word": "解限机公测前瞻直播",
       "onboard_time": 1750702157,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9729,
+      "num": 19235,
+      "word": "左权牺牲前给妻子写信念念念念",
+      "onboard_time": 1750710495,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
