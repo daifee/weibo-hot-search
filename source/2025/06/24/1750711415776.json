@@ -1,0 +1,410 @@
+{
+  "runTime": 1750711415776,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 197490,
+        "num": 197490,
+        "word": "伊朗用对等导弹数量回击美军",
+        "onboard_time": 1750704314,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 135782,
+        "num": 135782,
+        "word": "男子公海上刺死同事",
+        "onboard_time": 1750693822,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5717,
+        "num": 122057,
+        "word": "2025高招一站式服务平台",
+        "onboard_time": 1750668203,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 281979,
+        "num": 118492,
+        "word": "美军基地遭袭击",
+        "onboard_time": 1750699336,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109744,
+        "num": 109744,
+        "word": "卡塔尔首都多哈响起爆炸声",
+        "onboard_time": 1750699876,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 50704,
+        "num": 50704,
+        "word": "男子被追打躲进朋友宝马人车遭打砸",
+        "onboard_time": 1750695621,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37517,
+        "num": 37517,
+        "word": "微信语音 丑",
+        "onboard_time": 1750673602,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 32271,
+        "num": 32271,
+        "word": "刘学义孟子义回应看起来差辈",
+        "onboard_time": 1750696340,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26393,
+        "num": 26393,
+        "word": "终于有剧拍末世大女主了",
+        "onboard_time": 1750676490,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10519,
+        "num": 26280,
+        "word": "左权牺牲前给妻子写信念念念念",
+        "onboard_time": 1750710495,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96443,
+        "num": 26138,
+        "word": "郑乃馨在拽什么",
+        "onboard_time": 1750688305,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81781,
+        "num": 25993,
+        "word": "特朗普已至白宫战情室",
+        "onboard_time": 1750705274,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78653,
+        "num": 25748,
+        "word": "美国轰炸伊朗核设施",
+        "onboard_time": 1750689684,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 64526,
+        "num": 25571,
+        "word": "报北大考古的女孩怎么样了",
+        "onboard_time": 1750699819,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 57378,
+        "num": 25307,
+        "word": "海南失联女生尸体疑在万泉河发现",
+        "onboard_time": 1750687463,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47325,
+        "num": 25119,
+        "word": "两博主直播拉踩樊振东当场被处置",
+        "onboard_time": 1750694004,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37588,
+        "num": 24939,
+        "word": "酱子贝道歉",
+        "onboard_time": 1750691122,
+        "rank": 16,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 24819,
+        "num": 24819,
+        "word": "田曦薇校园时期美貌就被认证",
+        "onboard_time": 1750681944,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19554,
+        "num": 24810,
+        "word": "祝绪丹22到33岁颜值变化",
+        "onboard_time": 1750697958,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 19513,
+        "num": 24678,
+        "word": "你是谁 快从彭昱畅身上下来",
+        "onboard_time": 1750695441,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28544,
+        "num": 24634,
+        "word": "中方呼吁国际社会推动冲突降级",
+        "onboard_time": 1750707616,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 190147,
+        "num": 24522,
+        "word": "特朗普第三次世界大战",
+        "onboard_time": 1750698798,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 34930,
+        "num": 24506,
+        "word": "关注以伊冲突最新动态",
+        "onboard_time": 1750683983,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26160,
+        "num": 24369,
+        "word": "广州震感",
+        "onboard_time": 1750676308,
+        "rank": 23,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 24353,
+        "num": 24353,
+        "word": "当事人回应发现男子在12楼窗外偷窥",
+        "onboard_time": 1750691185,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24349,
+        "num": 24349,
+        "word": "美攻击伊朗后日韩首脑将缺席北约峰会",
+        "onboard_time": 1750684823,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 23806,
+        "num": 23806,
+        "word": "普京说俄愿为伊朗人民提供协助",
+        "onboard_time": 1750682723,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22669,
+        "num": 22669,
+        "word": "胖东来员工称曾因停车问题考虑闭店",
+        "onboard_time": 1750695201,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20374,
+        "num": 20374,
+        "word": "伊朗将对等回应美国",
+        "onboard_time": 1750690164,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17375,
+        "num": 20059,
+        "word": "郭品超和爸爸共用一张脸",
+        "onboard_time": 1750691483,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20028,
+        "num": 20028,
+        "word": "伊朗一关押外国间谍监狱遭以袭击",
+        "onboard_time": 1750685184,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19885,
+        "num": 19885,
+        "word": "伊朗导弹击中以色列南部",
+        "onboard_time": 1750681342,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19812,
+        "num": 19812,
+        "word": "韩国人科普中国纸巾",
+        "onboard_time": 1750686382,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19719,
+        "num": 19719,
+        "word": "不间断的熬夜 真的是人生变坏的开始",
+        "onboard_time": 1750708334,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 19080,
+        "num": 19080,
+        "word": "40枚导弹射向以色列",
+        "onboard_time": 1750700177,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18823,
+        "num": 18823,
+        "word": "金秀贤反诉金赛纶方",
+        "onboard_time": 1750685002,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18542,
+        "num": 18542,
+        "word": "绝不能放任假院长在社会上招摇撞骗",
+        "onboard_time": 1750690644,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18260,
+        "num": 18542,
+        "word": "美军驻叙利亚军事基地遭袭",
+        "onboard_time": 1750675342,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18091,
+        "num": 18542,
+        "word": "林心如海边比基尼照",
+        "onboard_time": 1750685845,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17111,
+        "num": 18542,
+        "word": "郑乃馨面相",
+        "onboard_time": 1750689444,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16707,
+        "num": 18542,
+        "word": "游客模仿画中人自拍撞破百年名画",
+        "onboard_time": 1750709174,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 16502,
+        "num": 18542,
+        "word": "伊朗再次向以色列发射导弹",
+        "onboard_time": 1750697299,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16181,
+        "num": 18542,
+        "word": "赖冠霖官宣以导演身份加入万合天宜",
+        "onboard_time": 1750704795,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14997,
+        "num": 18542,
+        "word": "以伊10天俄乌3年",
+        "onboard_time": 1750690886,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 14886,
+        "num": 18542,
+        "word": "痛经是子宫太想保护你",
+        "onboard_time": 1750681944,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 14879,
+        "num": 18542,
+        "word": "广东清远4.3级地震",
+        "onboard_time": 1750676668,
+        "rank": 45,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 13614,
+        "num": 18541,
+        "word": "张小斐新角色美强狠",
+        "onboard_time": 1750702995,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 12646,
+        "num": 18541,
+        "word": "三体大史",
+        "onboard_time": 1750694841,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12026,
+        "num": 18541,
+        "word": "睡前这样做缓解腰背不适",
+        "onboard_time": 1750701376,
+        "rank": 48,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 11525,
+        "num": 18541,
+        "word": "华为开发者大会2025",
+        "onboard_time": 1750695860,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同志在闽金融论述与实践启示#"
+    }
+  }
+}
