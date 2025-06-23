@@ -1,6 +1,6 @@
 {
   "startTime": 1750609820904,
-  "endTime": 1750651735292,
+  "endTime": 1750653710342,
   "band_list": [
     {
       "raw_hot": 1602224,
@@ -17,6 +17,14 @@
       "onboard_time": 1750645161,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1427274,
+      "num": 1427274,
+      "word": "张若昀发文回应庆余年3",
+      "onboard_time": 1750649963,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 1199931,
@@ -51,12 +59,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 989773,
-      "num": 989773,
-      "word": "张若昀发文回应庆余年3",
-      "onboard_time": 1750649963,
-      "rank": 13,
-      "category": "剧集"
+      "raw_hot": 973845,
+      "num": 973845,
+      "word": "法国发现新血型全球仅一人",
+      "onboard_time": 1750650864,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 924354,
@@ -131,6 +139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 716851,
+      "num": 547559,
+      "word": "以色列媒体开骂",
+      "onboard_time": 1750646123,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 704903,
       "num": 704903,
       "word": "慕胥辞迪丽热巴陈飞宇领衔主演",
@@ -153,6 +169,14 @@
       "onboard_time": 1750638742,
       "rank": 5,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 690406,
+      "num": 690406,
+      "word": "EDG申请执行Scout3351万",
+      "onboard_time": 1750651643,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 689319,
@@ -203,12 +227,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 523073,
-      "num": 523073,
-      "word": "以色列媒体开骂",
-      "onboard_time": 1750646123,
-      "rank": 16,
-      "category": "海外新闻"
+      "raw_hot": 521843,
+      "num": 521843,
+      "word": "又见三平台联播大剧",
+      "onboard_time": 1750652003,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 515356,
+      "num": 515356,
+      "word": "腾讯招商大会",
+      "onboard_time": 1750652185,
+      "rank": 15,
+      "category": "互联网"
     },
     {
       "raw_hot": 502339,
@@ -233,6 +265,14 @@
       "onboard_time": 1750605263,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 445275,
+      "num": 655870,
+      "word": "女子网恋20天被骗近600万",
+      "onboard_time": 1750649423,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 441621,
@@ -283,12 +323,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 379642,
-      "num": 655870,
-      "word": "女子网恋20天被骗近600万",
-      "onboard_time": 1750649423,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 391048,
+      "num": 391048,
+      "word": "梦华录续篇",
+      "onboard_time": 1750652784,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 376824,
@@ -339,14 +379,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 349974,
-      "num": 349974,
-      "word": "法国发现新血型全球仅一人",
-      "onboard_time": 1750650864,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 345681,
       "num": 345681,
       "word": "雷霆总冠军",
@@ -385,6 +417,14 @@
       "onboard_time": 1750638082,
       "rank": 9,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 334667,
+      "num": 442443,
+      "word": "NBA七年七个总冠军",
+      "onboard_time": 1750649783,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 334633,
@@ -427,6 +467,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 315264,
+      "num": 315264,
+      "word": "迪丽热巴紫瞳",
+      "onboard_time": 1750653624,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 312239,
+      "num": 312239,
+      "word": "美团优选",
+      "onboard_time": 1750651524,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 312017,
       "num": 312017,
       "word": "高考查分",
@@ -441,14 +497,6 @@
       "onboard_time": 1750646783,
       "rank": 32,
       "category": "幽默,动漫"
-    },
-    {
-      "raw_hot": 304591,
-      "num": 330608,
-      "word": "NBA七年七个总冠军",
-      "onboard_time": 1750649783,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 299926,
@@ -497,6 +545,14 @@
       "onboard_time": 1750643061,
       "rank": 20,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 266827,
+      "num": 292138,
+      "word": "南柱赫回春",
+      "onboard_time": 1750653263,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 264043,
@@ -563,6 +619,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 248666,
+      "num": 568113,
+      "word": "60岁大爷内衣袜子混洗感染股癣",
+      "onboard_time": 1750651285,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 247363,
+      "num": 247363,
+      "word": "恋与深空",
+      "onboard_time": 1750653564,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 246925,
       "num": 246925,
       "word": "哥嫂要复婚要求小姑子迁走户口",
@@ -611,6 +683,30 @@
       "category": "国际时政,民生新闻"
     },
     {
+      "raw_hot": 233528,
+      "num": 233528,
+      "word": "荔枝 塑料味",
+      "onboard_time": 1750651404,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 229112,
+      "num": 229112,
+      "word": "山河枕",
+      "onboard_time": 1750652844,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 228547,
+      "num": 225280,
+      "word": "林玉芬 莫离妆造",
+      "onboard_time": 1750653387,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 226318,
       "num": 308221,
       "word": "被冯绍峰版狄仁杰吓到了",
@@ -643,19 +739,19 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 217958,
-      "num": 217958,
-      "word": "60岁大爷内衣袜子混洗感染股癣",
-      "onboard_time": 1750651285,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 214923,
       "num": 214923,
       "word": "造城者",
       "onboard_time": 1750642641,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 214911,
+      "num": 251690,
+      "word": "赵丽颖黄晓明新剧一点班味没有",
+      "onboard_time": 1750653624,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -665,6 +761,14 @@
       "onboard_time": 1750644440,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 208428,
+      "num": 208428,
+      "word": "王子文刘宇宁有吻戏",
+      "onboard_time": 1750653145,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 203206,
@@ -713,22 +817,6 @@
       "onboard_time": 1750606464,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 193450,
-      "num": 193450,
-      "word": "EDG申请执行Scout3351万",
-      "onboard_time": 1750651643,
-      "rank": 46,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 192309,
-      "num": 192309,
-      "word": "荔枝 塑料味",
-      "onboard_time": 1750651404,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 188613,
@@ -801,14 +889,6 @@
       "onboard_time": 1750633578,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 175800,
-      "num": 175800,
-      "word": "美团优选",
-      "onboard_time": 1750651524,
-      "rank": 49,
-      "category": "互联网"
     },
     {
       "raw_hot": 175078,
@@ -979,6 +1059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130579,
+      "num": 233357,
+      "word": "王欣瑜无缘温网种子",
+      "onboard_time": 1750653263,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130321,
       "num": 125445,
       "word": "行止晚",
@@ -1107,6 +1195,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 97862,
+      "num": 441119,
+      "word": "白血病百万新药好医保能报了",
+      "onboard_time": 1750651583,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 94324,
       "num": 140604,
       "word": "詹姆斯为哈利伯顿祈祷",
@@ -1219,6 +1315,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 79283,
+      "num": 235938,
+      "word": "霍尔木兹海峡会是伊朗的杀手锏吗",
+      "onboard_time": 1750653684,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 78050,
       "num": 78050,
       "word": "黄轩女友分享日常vlog",
@@ -1244,7 +1348,7 @@
     },
     {
       "raw_hot": 73891,
-      "num": 316693,
+      "num": 441534,
       "word": "王骁卡萨帝质感对味了",
       "onboard_time": 1750651583,
       "rank": 28,
@@ -1252,7 +1356,7 @@
     },
     {
       "raw_hot": 73835,
-      "num": 799277,
+      "num": 802411,
       "word": "护网2025网安局提醒警惕银狐病毒来袭",
       "onboard_time": 1750641081,
       "rank": 2,
@@ -1297,14 +1401,6 @@
       "onboard_time": 1750613960,
       "rank": 49,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 70673,
-      "num": 303652,
-      "word": "白血病百万新药好医保能报了",
-      "onboard_time": 1750651583,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 67671,
