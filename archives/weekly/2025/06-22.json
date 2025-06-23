@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750699490699,
+  "endTime": 1750700618457,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -3707,6 +3707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186742,
+      "num": 186742,
+      "word": "美军基地遭袭击",
+      "onboard_time": 1750699336,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 186226,
       "num": 274371,
       "word": "谁能拒绝穿Prada的少年",
@@ -6331,6 +6339,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 90807,
+      "num": 74070,
+      "word": "卡塔尔首都多哈响起爆炸声",
+      "onboard_time": 1750699876,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 90312,
       "num": 96506,
       "word": "温网2025",
@@ -6963,6 +6979,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 49857,
+      "num": 49857,
+      "word": "报北大考古的女孩怎么样了",
+      "onboard_time": 1750699819,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 49751,
       "num": 367827,
       "word": "户外团队在大青山高寒草甸挖沟烧烤",
@@ -7033,14 +7057,6 @@
       "onboard_time": 1750547838,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 45179,
-      "num": 45179,
-      "word": "美军基地遭袭击",
-      "onboard_time": 1750699336,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 44607,
@@ -7211,6 +7227,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 36749,
+      "num": 36749,
+      "word": "祝绪丹22到33岁颜值变化",
+      "onboard_time": 1750697958,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 36473,
       "num": 50430,
       "word": "曝短剧演员郑锋霸凌工作人员",
@@ -7273,6 +7297,14 @@
       "onboard_time": 1750667603,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 33590,
+      "num": 33590,
+      "word": "40枚导弹射向以色列",
+      "onboard_time": 1750700177,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 33253,
@@ -7593,6 +7625,14 @@
       "onboard_time": 1750584802,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18860,
+      "num": 40458,
+      "word": "甘肃山洪4人失联",
+      "onboard_time": 1750699577,
+      "rank": 36,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 18518,
