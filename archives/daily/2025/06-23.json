@@ -1,6 +1,6 @@
 {
   "startTime": 1750609820904,
-  "endTime": 1750660782514,
+  "endTime": 1750661631208,
   "band_list": [
     {
       "raw_hot": 1602224,
@@ -123,8 +123,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 811178,
-      "num": 345098,
+      "raw_hot": 827531,
+      "num": 417334,
       "word": "美团优选关闭",
       "onboard_time": 1750658003,
       "rank": 10,
@@ -160,6 +160,14 @@
       "word": "阿姨因烧饭把骗子晾一边保住166万元",
       "onboard_time": 1750635260,
       "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 744084,
+      "num": 744084,
+      "word": "于东来官宣将关闭多家门店",
+      "onboard_time": 1750660403,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -235,6 +243,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 673342,
+      "num": 673342,
+      "word": "朋友圈 评论图片",
+      "onboard_time": 1750658721,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 664665,
       "num": 468728,
       "word": "南柱赫回春",
@@ -259,6 +275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 637401,
+      "num": 637401,
+      "word": "珠宝专业就业率100%校领导称很痛苦",
+      "onboard_time": 1750658542,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 610082,
       "num": 610082,
       "word": "杜兰特",
@@ -267,28 +291,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 602904,
-      "num": 602904,
-      "word": "朋友圈 评论图片",
-      "onboard_time": 1750658721,
-      "rank": 3,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 599720,
       "num": 599720,
       "word": "李晟被泼李佳航坐不住了",
       "onboard_time": 1750634178,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 597004,
-      "num": 597004,
-      "word": "珠宝专业就业率100%校领导称很痛苦",
-      "onboard_time": 1750658542,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 583835,
@@ -321,6 +329,14 @@
       "onboard_time": 1750654224,
       "rank": 9,
       "category": "数码"
+    },
+    {
+      "raw_hot": 518686,
+      "num": 518686,
+      "word": "黄杨钿甜主演2部新剧将开播",
+      "onboard_time": 1750660284,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 502339,
@@ -371,12 +387,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 422414,
+      "num": 422414,
+      "word": "美军用超125架战机作诱饵打击伊朗",
+      "onboard_time": 1750658664,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 417883,
       "num": 402329,
       "word": "韩国霸总王辉被爆塌房",
       "onboard_time": 1750599143,
       "rank": 6,
       "category": "网红"
+    },
+    {
+      "raw_hot": 409228,
+      "num": 409228,
+      "word": "刘学义孟子义看起来差辈了",
+      "onboard_time": 1750660584,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 407489,
@@ -457,14 +489,6 @@
       "onboard_time": 1750649903,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 362062,
-      "num": 362062,
-      "word": "美军用超125架战机作诱饵打击伊朗",
-      "onboard_time": 1750658664,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 360220,
@@ -571,14 +595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 330847,
-      "num": 330847,
-      "word": "黄杨钿甜主演2部新剧将开播",
-      "onboard_time": 1750660284,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 329697,
       "num": 329697,
       "word": "花开锦绣官宣丁禹兮邓恩熙",
@@ -675,6 +691,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 279854,
+      "num": 279854,
+      "word": "王勉被网友当面追问恋情",
+      "onboard_time": 1750660102,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 272911,
       "num": 272911,
       "word": "黄金",
@@ -755,14 +779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 254765,
-      "num": 254765,
-      "word": "于东来官宣将关闭多家门店",
-      "onboard_time": 1750660403,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 254441,
       "num": 254441,
       "word": "上海本科分数线402",
@@ -777,6 +793,14 @@
       "onboard_time": 1750648223,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 252242,
+      "num": 252242,
+      "word": "酱园弄口碑 两极分化",
+      "onboard_time": 1750660523,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 249642,
@@ -875,12 +899,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 226977,
-      "num": 189744,
-      "word": "王勉被网友当面追问恋情",
-      "onboard_time": 1750660102,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 226436,
+      "num": 226436,
+      "word": "体重开始下降的8个冷知识",
+      "onboard_time": 1750660824,
+      "rank": 27,
+      "category": "运动健身"
     },
     {
       "raw_hot": 226318,
@@ -923,6 +947,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 219968,
+      "num": 219968,
+      "word": "杨若天再次道歉",
+      "onboard_time": 1750660643,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 219153,
+      "num": 219153,
+      "word": "白鹿丞磊牵手走红毯",
+      "onboard_time": 1750660944,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215155,
       "num": 189666,
       "word": "特朗普称正在敦促伊朗领导人同意结束战争",
@@ -963,6 +1003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210291,
+      "num": 210291,
+      "word": "田作之赫",
+      "onboard_time": 1750660102,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208436,
       "num": 208436,
       "word": "Labubu你还是继续火吧",
@@ -993,6 +1041,14 @@
       "onboard_time": 1750654104,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206256,
+      "num": 206256,
+      "word": "内娱不靠流量撑十年的节目",
+      "onboard_time": 1750660403,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 205652,
@@ -1123,14 +1179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 190079,
-      "num": 190079,
-      "word": "内娱不靠流量撑十年的节目",
-      "onboard_time": 1750660403,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 189526,
       "num": 189526,
       "word": "上海2025高考分数线",
@@ -1219,28 +1267,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 176349,
-      "num": 176349,
-      "word": "刘学义孟子义看起来差辈了",
-      "onboard_time": 1750660584,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 176253,
       "num": 176253,
       "word": "王一博在旧金山吃火锅",
       "onboard_time": 1750633578,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 175453,
-      "num": 175453,
-      "word": "酱园弄口碑 两极分化",
-      "onboard_time": 1750660523,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 175078,
@@ -1265,14 +1297,6 @@
       "onboard_time": 1750649604,
       "rank": 24,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 173641,
-      "num": 173641,
-      "word": "田作之赫",
-      "onboard_time": 1750660102,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 168824,
@@ -1312,6 +1336,14 @@
       "word": "醉梦",
       "onboard_time": 1750645341,
       "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 159708,
+      "num": 159708,
+      "word": "第十代张起灵来了",
+      "onboard_time": 1750661124,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -1355,12 +1387,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152049,
+      "num": 152049,
+      "word": "梦花廷",
+      "onboard_time": 1750661063,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148284,
       "num": 148284,
       "word": "伊朗德黑兰爆发大规模反美反以抗议",
       "onboard_time": 1750640601,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 146741,
+      "num": 146741,
+      "word": "关晓彤拍一部戏成功安利一把头盔伞",
+      "onboard_time": 1750658062,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 144725,
@@ -1371,12 +1419,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 144180,
-      "num": 144180,
-      "word": "杨若天再次道歉",
-      "onboard_time": 1750660643,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 144343,
+      "num": 144343,
+      "word": "刘学义等谭松韵 新郎等新娘",
+      "onboard_time": 1750661424,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 143195,
@@ -1427,20 +1475,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 138395,
-      "num": 138395,
-      "word": "关晓彤拍一部戏成功安利一把头盔伞",
-      "onboard_time": 1750658062,
-      "rank": 47,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 138029,
       "num": 138029,
       "word": "伊朗官员说好戏在后头",
       "onboard_time": 1750633879,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 137368,
+      "num": 408572,
+      "word": "美袭伊紧急会议以色列代表一直玩手机",
+      "onboard_time": 1750659983,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 137087,
+      "num": 137087,
+      "word": "恋与深空4.0于深空见证的",
+      "onboard_time": 1750659383,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 136892,
@@ -1539,22 +1595,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 117110,
-      "num": 136663,
-      "word": "恋与深空4.0于深空见证的",
-      "onboard_time": 1750659383,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 116579,
-      "num": 241646,
-      "word": "美袭伊紧急会议以色列代表一直玩手机",
-      "onboard_time": 1750659983,
-      "rank": 22,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 112921,
       "num": 333075,
       "word": "小伙被3人持械强行查看手机",
@@ -1644,7 +1684,7 @@
     },
     {
       "raw_hot": 97367,
-      "num": 189597,
+      "num": 408766,
       "word": "张凌赫辣到嘶哈嘶哈",
       "onboard_time": 1750660763,
       "rank": 34,
@@ -1891,6 +1931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60501,
+      "num": 417609,
+      "word": "工程师为工作效率买250粒毒品",
+      "onboard_time": 1750660342,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56885,
       "num": 362828,
       "word": "医生说读兽医专业好就业",
@@ -1913,6 +1961,14 @@
       "onboard_time": 1750644921,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 52213,
+      "num": 284854,
+      "word": "2025年高考查分小心这六大骗局",
+      "onboard_time": 1750660884,
+      "rank": 18,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 51466,
@@ -1995,12 +2051,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33055,
-      "num": 331049,
-      "word": "工程师为工作效率买250粒毒品",
-      "onboard_time": 1750660342,
-      "rank": 12,
-      "category": "民生新闻"
+      "raw_hot": 32781,
+      "num": 280383,
+      "word": "特朗普公开鼓吹伊朗政权更迭",
+      "onboard_time": 1750661004,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 31973,
@@ -2065,6 +2121,14 @@
       "onboard_time": 1750645582,
       "rank": 24,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 26840,
+      "num": 219220,
+      "word": "律师解读副教授遭精神病人杀害",
+      "onboard_time": 1750660884,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26127,
@@ -2137,6 +2201,14 @@
       "onboard_time": 1750631297,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 16448,
+      "num": 1106062,
+      "word": "我国港口货物吞吐量稳居世界第一",
+      "onboard_time": 1750661485,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 15145,
