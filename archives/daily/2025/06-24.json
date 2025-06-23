@@ -1,6 +1,6 @@
 {
   "startTime": 1750696476897,
-  "endTime": 1750704669806,
+  "endTime": 1750706497181,
   "band_list": [
     {
       "raw_hot": 1560125,
@@ -161,6 +161,14 @@
       "onboard_time": 1750691483,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196400,
+      "num": 196400,
+      "word": "伊朗用对等导弹数量回击美军",
+      "onboard_time": 1750704314,
+      "rank": 6,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 166547,
@@ -363,14 +371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 74608,
-      "num": 74608,
-      "word": "伊朗用对等导弹数量回击美军",
-      "onboard_time": 1750704314,
-      "rank": 6,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 73408,
       "num": 73408,
       "word": "毕业生花3万体检后展览200多项结果",
@@ -515,6 +515,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 31833,
+      "num": 23932,
+      "word": "特朗普已至白宫战情室",
+      "onboard_time": 1750705274,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 28758,
       "num": 29529,
       "word": "南京先锋书店总店回应门牌突然拆除",
@@ -555,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 20072,
+      "num": 23935,
+      "word": "丁禹兮宋茜cp感",
+      "onboard_time": 1750704675,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18860,
       "num": 40458,
       "word": "甘肃山洪4人失联",
@@ -569,6 +585,14 @@
       "onboard_time": 1750690704,
       "rank": 33,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 17058,
+      "num": 17058,
+      "word": "赖冠霖官宣以导演身份加入万合天宜",
+      "onboard_time": 1750704795,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 12112,
