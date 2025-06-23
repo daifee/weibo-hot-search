@@ -1,6 +1,6 @@
 {
   "startTime": 1750696476897,
-  "endTime": 1750713926834,
+  "endTime": 1750714806690,
   "band_list": [
     {
       "raw_hot": 1560125,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 445359,
-      "num": 147185,
+      "num": 169281,
       "word": "卡塔尔首都多哈响起爆炸声",
       "onboard_time": 1750699876,
       "rank": 21,
@@ -267,6 +267,22 @@
       "category": "艺人,动漫"
     },
     {
+      "raw_hot": 103067,
+      "num": 49857,
+      "word": "报北大考古的女孩怎么样了",
+      "onboard_time": 1750699819,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 101901,
+      "num": 101901,
+      "word": "特朗普已至白宫战情室",
+      "onboard_time": 1750705274,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100164,
       "num": 100164,
       "word": "腾讯招商大会剧集预告热度排名",
@@ -305,22 +321,6 @@
       "onboard_time": 1750692742,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 89823,
-      "num": 86788,
-      "word": "特朗普已至白宫战情室",
-      "onboard_time": 1750705274,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 88276,
-      "num": 49857,
-      "word": "报北大考古的女孩怎么样了",
-      "onboard_time": 1750699819,
-      "rank": 31,
-      "category": "教育"
     },
     {
       "raw_hot": 86554,
@@ -571,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 22844,
+      "num": 22844,
+      "word": "游客模仿画中人自拍撞破百年名画",
+      "onboard_time": 1750709174,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 22683,
       "num": 25005,
       "word": "玫瑰丛生",
@@ -579,20 +587,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 20532,
-      "num": 20532,
-      "word": "游客模仿画中人自拍撞破百年名画",
-      "onboard_time": 1750709174,
-      "rank": 42,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 19719,
       "num": 19719,
       "word": "不间断的熬夜 真的是人生变坏的开始",
       "onboard_time": 1750708334,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 19535,
+      "num": 19535,
+      "word": "美军打击伊核设施部署了数周至数月",
+      "onboard_time": 1750712834,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 19301,
+      "num": 19301,
+      "word": "以军向德黑兰居民发出警告",
+      "onboard_time": 1750713194,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 18860,
@@ -625,14 +641,6 @@
       "onboard_time": 1750690704,
       "rank": 33,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 15604,
-      "num": 17926,
-      "word": "以军向德黑兰居民发出警告",
-      "onboard_time": 1750713194,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 12112,
