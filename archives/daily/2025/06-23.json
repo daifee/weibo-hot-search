@@ -1,6 +1,6 @@
 {
   "startTime": 1750609820904,
-  "endTime": 1750653710342,
+  "endTime": 1750654472720,
   "band_list": [
     {
       "raw_hot": 1602224,
@@ -155,8 +155,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 700960,
-      "num": 700960,
+      "raw_hot": 703979,
+      "num": 703979,
       "word": "终于知道婴儿为啥爱出门遛弯了",
       "onboard_time": 1750649243,
       "rank": 18,
@@ -227,8 +227,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 521843,
-      "num": 521843,
+      "raw_hot": 583835,
+      "num": 535218,
       "word": "又见三平台联播大剧",
       "onboard_time": 1750652003,
       "rank": 13,
@@ -267,6 +267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 451532,
+      "num": 451532,
+      "word": "梦华录续篇",
+      "onboard_time": 1750652784,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 445275,
       "num": 655870,
       "word": "女子网恋20天被骗近600万",
@@ -289,6 +297,14 @@
       "onboard_time": 1750599143,
       "rank": 6,
       "category": "网红"
+    },
+    {
+      "raw_hot": 410305,
+      "num": 468728,
+      "word": "南柱赫回春",
+      "onboard_time": 1750653263,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 407489,
@@ -323,14 +339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 391048,
-      "num": 391048,
-      "word": "梦华录续篇",
-      "onboard_time": 1750652784,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 376824,
       "num": 327412,
       "word": "王欣瑜退赛",
@@ -363,12 +371,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 360220,
+      "num": 360220,
+      "word": "美团优选",
+      "onboard_time": 1750651524,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 359706,
       "num": 359706,
       "word": "NBA新王登基",
       "onboard_time": 1750641801,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 358181,
+      "num": 315264,
+      "word": "迪丽热巴紫瞳",
+      "onboard_time": 1750653624,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 353222,
@@ -393,6 +417,14 @@
       "onboard_time": 1750634059,
       "rank": 19,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 343510,
+      "num": 343510,
+      "word": "赵丽颖黄晓明新剧一点班味没有",
+      "onboard_time": 1750653624,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 339066,
@@ -420,7 +452,7 @@
     },
     {
       "raw_hot": 334667,
-      "num": 442443,
+      "num": 472854,
       "word": "NBA七年七个总冠军",
       "onboard_time": 1750649783,
       "rank": 37,
@@ -467,22 +499,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 315264,
-      "num": 315264,
-      "word": "迪丽热巴紫瞳",
-      "onboard_time": 1750653624,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 312239,
-      "num": 312239,
-      "word": "美团优选",
-      "onboard_time": 1750651524,
-      "rank": 49,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 312017,
       "num": 312017,
       "word": "高考查分",
@@ -513,6 +529,22 @@
       "onboard_time": 1750650323,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 293029,
+      "num": 568113,
+      "word": "60岁大爷内衣袜子混洗感染股癣",
+      "onboard_time": 1750651285,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 287569,
+      "num": 287569,
+      "word": "恋与深空",
+      "onboard_time": 1750653564,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 284085,
@@ -547,12 +579,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 266827,
-      "num": 292138,
-      "word": "南柱赫回春",
-      "onboard_time": 1750653263,
-      "rank": 29,
-      "category": "艺人"
+      "raw_hot": 268995,
+      "num": 268995,
+      "word": "林玉芬 莫离妆造",
+      "onboard_time": 1750653387,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 264043,
@@ -616,22 +648,6 @@
       "word": "第五人格",
       "onboard_time": 1750651342,
       "rank": 40,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 248666,
-      "num": 568113,
-      "word": "60岁大爷内衣袜子混洗感染股癣",
-      "onboard_time": 1750651285,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 247363,
-      "num": 247363,
-      "word": "恋与深空",
-      "onboard_time": 1750653564,
-      "rank": 36,
       "category": "游戏"
     },
     {
@@ -699,14 +715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 228547,
-      "num": 225280,
-      "word": "林玉芬 莫离妆造",
-      "onboard_time": 1750653387,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 226318,
       "num": 308221,
       "word": "被冯绍峰版狄仁杰吓到了",
@@ -747,11 +755,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 214911,
-      "num": 251690,
-      "word": "赵丽颖黄晓明新剧一点班味没有",
-      "onboard_time": 1750653624,
-      "rank": 34,
+      "raw_hot": 214738,
+      "num": 214738,
+      "word": "子夜归",
+      "onboard_time": 1750654104,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -771,12 +779,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207178,
+      "num": 241533,
+      "word": "孙颖莎忆首夺奥运金牌",
+      "onboard_time": 1750654104,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203206,
       "num": 203206,
       "word": "最难喝的奶茶",
       "onboard_time": 1750593320,
       "rank": 8,
       "category": "美食"
+    },
+    {
+      "raw_hot": 198337,
+      "num": 198337,
+      "word": "赴山海剑舞风云版海报",
+      "onboard_time": 1750654344,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 197525,
@@ -808,6 +832,14 @@
       "word": "花开锦绣",
       "onboard_time": 1750645882,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 194178,
+      "num": 194178,
+      "word": "锦月如歌",
+      "onboard_time": 1750654344,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -897,6 +929,14 @@
       "onboard_time": 1750633458,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174969,
+      "num": 466251,
+      "word": "4人直播订书机钉肢体等被处罚",
+      "onboard_time": 1750653744,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 174398,
@@ -1187,6 +1227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 103342,
+      "num": 506414,
+      "word": "伊朗曾通过中间人威胁特朗普",
+      "onboard_time": 1750652665,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 103080,
       "num": 377656,
       "word": "食品科学与工程真正的真香专业",
@@ -1196,7 +1244,7 @@
     },
     {
       "raw_hot": 97862,
-      "num": 441119,
+      "num": 471466,
       "word": "白血病百万新药好医保能报了",
       "onboard_time": 1750651583,
       "rank": 31,
@@ -1225,6 +1273,14 @@
       "onboard_time": 1750596803,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87321,
+      "num": 302434,
+      "word": "霍尔木兹海峡会是伊朗的杀手锏吗",
+      "onboard_time": 1750653684,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 87166,
@@ -1315,14 +1371,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 79283,
-      "num": 235938,
-      "word": "霍尔木兹海峡会是伊朗的杀手锏吗",
-      "onboard_time": 1750653684,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 78050,
       "num": 78050,
       "word": "黄轩女友分享日常vlog",
@@ -1348,7 +1396,7 @@
     },
     {
       "raw_hot": 73891,
-      "num": 441534,
+      "num": 469397,
       "word": "王骁卡萨帝质感对味了",
       "onboard_time": 1750651583,
       "rank": 28,
