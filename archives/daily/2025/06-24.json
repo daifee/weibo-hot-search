@@ -1,6 +1,6 @@
 {
   "startTime": 1750696476897,
-  "endTime": 1750717569615,
+  "endTime": 1750718673537,
   "band_list": [
     {
       "raw_hot": 1560125,
@@ -19,8 +19,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 911512,
-      "num": 310946,
+      "raw_hot": 1173665,
+      "num": 407549,
       "word": "美军基地遭袭击",
       "onboard_time": 1750699336,
       "rank": 41,
@@ -76,11 +76,19 @@
     },
     {
       "raw_hot": 445359,
-      "num": 299735,
+      "num": 398951,
       "word": "卡塔尔首都多哈响起爆炸声",
       "onboard_time": 1750699876,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 442163,
+      "num": 442163,
+      "word": "伊朗用对等导弹数量回击美军",
+      "onboard_time": 1750704314,
+      "rank": 6,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 354899,
@@ -99,12 +107,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 338908,
-      "num": 338908,
-      "word": "伊朗用对等导弹数量回击美军",
-      "onboard_time": 1750704314,
-      "rank": 6,
-      "category": "海外新闻"
+      "raw_hot": 311756,
+      "num": 127957,
+      "word": "报北大考古的女孩怎么样了",
+      "onboard_time": 1750699819,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 301423,
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 262361,
-      "num": 141575,
+      "num": 195932,
       "word": "刘学义孟子义回应看起来差辈",
       "onboard_time": 1750696340,
       "rank": 46,
@@ -139,6 +147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 249355,
+      "num": 249355,
+      "word": "特朗普已至白宫战情室",
+      "onboard_time": 1750705274,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 245014,
       "num": 245014,
       "word": "孟子义照片顺序",
@@ -147,28 +163,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 230012,
-      "num": 80785,
-      "word": "报北大考古的女孩怎么样了",
-      "onboard_time": 1750699819,
-      "rank": 31,
-      "category": "教育"
-    },
-    {
       "raw_hot": 213343,
       "num": 213343,
       "word": "伊朗将对等回应美国",
       "onboard_time": 1750690164,
       "rank": 17,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 209883,
-      "num": 209883,
-      "word": "特朗普已至白宫战情室",
-      "onboard_time": 1750705274,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 204051,
@@ -185,6 +185,14 @@
       "onboard_time": 1750691483,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167041,
+      "num": 167041,
+      "word": "男子被追打躲进朋友宝马人车遭打砸",
+      "onboard_time": 1750695621,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166547,
@@ -227,19 +235,35 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 135734,
-      "num": 135734,
-      "word": "男子被追打躲进朋友宝马人车遭打砸",
-      "onboard_time": 1750695621,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 133095,
       "num": 180242,
       "word": "胖东来员工称曾因停车问题考虑闭店",
       "onboard_time": 1750695201,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131837,
+      "num": 131837,
+      "word": "伊朗手握三张牌能打疼美以吗",
+      "onboard_time": 1750714816,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 128973,
+      "num": 128973,
+      "word": "黄圣依妈妈一直尽全力托举女儿",
+      "onboard_time": 1750716675,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 126250,
+      "num": 126250,
+      "word": "当事人回应发现男子在12楼窗外偷窥",
+      "onboard_time": 1750691185,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -265,14 +289,6 @@
       "onboard_time": 1750681944,
       "rank": 24,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 117864,
-      "num": 117864,
-      "word": "当事人回应发现男子在12楼窗外偷窥",
-      "onboard_time": 1750691185,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 110464,
@@ -315,14 +331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 95532,
-      "num": 95532,
-      "word": "伊朗手握三张牌能打疼美以吗",
-      "onboard_time": 1750714816,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 93939,
       "num": 93939,
       "word": "以伊10天俄乌3年",
@@ -345,6 +353,14 @@
       "onboard_time": 1750692084,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 84983,
+      "num": 43011,
+      "word": "福尔多核设施再次遭到袭击",
+      "onboard_time": 1750715595,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 84140,
@@ -419,6 +435,14 @@
       "category": "综艺,休闲"
     },
     {
+      "raw_hot": 60578,
+      "num": 60578,
+      "word": "美攻击伊朗后日韩首脑将缺席北约峰会",
+      "onboard_time": 1750684823,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 58895,
       "num": 70017,
       "word": "金秀贤反诉金赛纶方",
@@ -459,19 +483,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 54246,
-      "num": 36914,
-      "word": "福尔多核设施再次遭到袭击",
-      "onboard_time": 1750715595,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 51123,
-      "num": 51123,
-      "word": "美攻击伊朗后日韩首脑将缺席北约峰会",
-      "onboard_time": 1750684823,
-      "rank": 40,
+      "raw_hot": 53134,
+      "num": 42973,
+      "word": "40枚导弹射向以色列",
+      "onboard_time": 1750700177,
+      "rank": 46,
       "category": "国际时政"
     },
     {
@@ -483,14 +499,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 46935,
-      "num": 36201,
-      "word": "40枚导弹射向以色列",
-      "onboard_time": 1750700177,
-      "rank": 46,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 43067,
       "num": 43067,
       "word": "于正又让你们失望了",
@@ -499,12 +507,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 42709,
-      "num": 57649,
-      "word": "黄圣依妈妈一直尽全力托举女儿",
-      "onboard_time": 1750716675,
-      "rank": 19,
-      "category": "综艺"
+      "raw_hot": 42879,
+      "num": 42879,
+      "word": "美军打击伊核设施部署了数周至数月",
+      "onboard_time": 1750712834,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 42638,
@@ -513,6 +521,14 @@
       "onboard_time": 1750697958,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 41174,
+      "num": 41174,
+      "word": "游客模仿画中人自拍撞破百年名画",
+      "onboard_time": 1750709174,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 39460,
@@ -547,22 +563,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 29725,
-      "num": 29725,
-      "word": "美军打击伊核设施部署了数周至数月",
-      "onboard_time": 1750712834,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 29079,
-      "num": 29079,
-      "word": "游客模仿画中人自拍撞破百年名画",
-      "onboard_time": 1750709174,
-      "rank": 42,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 28758,
       "num": 29529,
       "word": "南京先锋书店总店回应门牌突然拆除",
@@ -577,6 +577,14 @@
       "onboard_time": 1750707616,
       "rank": 20,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 27588,
+      "num": 34779,
+      "word": "赖冠霖官宣以导演身份加入万合天宜",
+      "onboard_time": 1750704795,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 26488,
@@ -649,14 +657,6 @@
       "onboard_time": 1750706593,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18184,
-      "num": 19278,
-      "word": "赖冠霖官宣以导演身份加入万合天宜",
-      "onboard_time": 1750704795,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 17922,
