@@ -1,0 +1,410 @@
+{
+  "runTime": 1750671911225,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1305299,
+        "num": 1305299,
+        "word": "贩毒女头目年仅17岁",
+        "onboard_time": 1750664243,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 754429,
+        "num": 754429,
+        "word": "水果姐把labubu打飞了",
+        "onboard_time": 1750669043,
+        "rank": 1,
+        "category": "演出,休闲"
+      },
+      {
+        "raw_hot": 15715,
+        "num": 558243,
+        "word": "4人低俗直播斗狠被依法处罚",
+        "onboard_time": 1750671683,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1025437,
+        "num": 544515,
+        "word": "王弘毅 见人下菜碟",
+        "onboard_time": 1750669404,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 483192,
+        "num": 483192,
+        "word": "男孩中考查分863分数学满分",
+        "onboard_time": 1750658782,
+        "rank": 4,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 583794,
+        "num": 476426,
+        "word": "伊朗称将向世界展示力量",
+        "onboard_time": 1750668744,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 525234,
+        "num": 474109,
+        "word": "千里江山图官宣",
+        "onboard_time": 1750669463,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 466849,
+        "num": 466849,
+        "word": "仅次于以色列",
+        "onboard_time": 1750665923,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 426977,
+        "num": 426977,
+        "word": "张凌赫田曦薇 离婚感",
+        "onboard_time": 1750664364,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262689,
+        "num": 399516,
+        "word": "伊朗报复美国的三种方式",
+        "onboard_time": 1750669644,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 577423,
+        "num": 389142,
+        "word": "魏大勋接秦岚回家",
+        "onboard_time": 1750665144,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374067,
+        "num": 374067,
+        "word": "李敏镐从未回春",
+        "onboard_time": 1750667123,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 365227,
+        "num": 365227,
+        "word": "原来绝经不是突然不来月经了",
+        "onboard_time": 1750667003,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 318634,
+        "num": 318634,
+        "word": "庆余年3再次升级演员阵容",
+        "onboard_time": 1750663404,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316685,
+        "num": 316685,
+        "word": "枭起青壤预告",
+        "onboard_time": 1750670784,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310031,
+        "num": 310031,
+        "word": "现代版农夫与蛇",
+        "onboard_time": 1750665684,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303846,
+        "num": 303846,
+        "word": "江西救护车涉事医院称收到网友锦旗",
+        "onboard_time": 1750663283,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291840,
+        "num": 291840,
+        "word": "20岁女生确诊胃癌后的三个月",
+        "onboard_time": 1750667364,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257488,
+        "num": 257488,
+        "word": "宋佳 陈龙",
+        "onboard_time": 1750665144,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245757,
+        "num": 245757,
+        "word": "枭起青壤",
+        "onboard_time": 1750665684,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202218,
+        "num": 202218,
+        "word": "许我耀眼野心伪装版预告",
+        "onboard_time": 1750670843,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197365,
+        "num": 197365,
+        "word": "以色列袭击伊朗6个机场",
+        "onboard_time": 1750661783,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 193930,
+        "num": 193930,
+        "word": "小米YU7",
+        "onboard_time": 1750669463,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 39202,
+        "num": 192113,
+        "word": "低俗直播斗狠4人被依法处罚",
+        "onboard_time": 1750671323,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 191959,
+        "num": 191959,
+        "word": "雷军回应何时造油车",
+        "onboard_time": 1750667843,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 182534,
+        "num": 182534,
+        "word": "于东来官宣将关闭多家门店",
+        "onboard_time": 1750660403,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171357,
+        "num": 171357,
+        "word": "中方回应伊朗拟关闭霍尔木兹海峡",
+        "onboard_time": 1750668803,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 166092,
+        "num": 166092,
+        "word": "张婧仪好像穿了小雨的衣服",
+        "onboard_time": 1750670244,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160896,
+        "num": 160896,
+        "word": "体重开始下降的8个冷知识",
+        "onboard_time": 1750660824,
+        "rank": 28,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 14867,
+        "num": 148975,
+        "word": "小伙自制荷叶面罩防晒网友称像蚊子",
+        "onboard_time": 1750671743,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180078,
+        "num": 148392,
+        "word": "网友称王勉绯闻女友不是易梦玲",
+        "onboard_time": 1750671083,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175732,
+        "num": 148093,
+        "word": "原来成龙刚出生就出名了",
+        "onboard_time": 1750671204,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147524,
+        "num": 147524,
+        "word": "朋友圈 评论图片",
+        "onboard_time": 1750658721,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 146352,
+        "num": 146352,
+        "word": "当我突然有了点小money",
+        "onboard_time": 1750671204,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 68833,
+        "num": 143145,
+        "word": "什么性格的人更适合当老师",
+        "onboard_time": 1750667723,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101556,
+        "num": 142714,
+        "word": "高考第一批查分的人已出现",
+        "onboard_time": 1750668924,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 142707,
+        "num": 142707,
+        "word": "19岁智力残疾女孩遭性侵产女",
+        "onboard_time": 1750662384,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134342,
+        "num": 134342,
+        "word": "男司仪多次叫错新郎名字还拒退全款",
+        "onboard_time": 1750668144,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60117,
+        "num": 133306,
+        "word": "诚C自拍三连",
+        "onboard_time": 1750671262,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 74618,
+        "num": 133231,
+        "word": "美媒称美在袭击前已秘密通知伊朗",
+        "onboard_time": 1750670545,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133226,
+        "num": 133226,
+        "word": "刘诗诗穿得好闪",
+        "onboard_time": 1750667003,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131674,
+        "num": 131674,
+        "word": "天津高考查分",
+        "onboard_time": 1750671083,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 130605,
+        "num": 130605,
+        "word": "严浩翔帮唱舞台邀请王嘉尔改编",
+        "onboard_time": 1750668564,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128561,
+        "num": 128561,
+        "word": "御赐小仵作2首发预告",
+        "onboard_time": 1750671683,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122785,
+        "num": 122785,
+        "word": "存钱和不存钱过的是两种人生",
+        "onboard_time": 1750666884,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119794,
+        "num": 119794,
+        "word": "考公慎选的五大专业",
+        "onboard_time": 1750671863,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 118228,
+        "num": 118228,
+        "word": "清华大学严正声明",
+        "onboard_time": 1750663404,
+        "rank": 46,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 116554,
+        "num": 116554,
+        "word": "薛凯琪的亲签是又亲又签",
+        "onboard_time": 1750671384,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116079,
+        "num": 116079,
+        "word": "普京访华将停留4天",
+        "onboard_time": 1750668984,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 111062,
+        "num": 111062,
+        "word": "国家帮台湾居民在内中国公民撤离伊朗",
+        "onboard_time": 1750669463,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同志在闽金融论述与实践启示#"
+    }
+  }
+}

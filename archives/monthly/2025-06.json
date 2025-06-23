@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750671080030,
+  "endTime": 1750671911225,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -3771,6 +3771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1025437,
+      "num": 599319,
+      "word": "王弘毅 见人下菜碟",
+      "onboard_time": 1750669404,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1024126,
       "num": 331107,
       "word": "章子怡晒女儿儿子",
@@ -4481,14 +4489,6 @@
       "onboard_time": 1749994522,
       "rank": 12,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 926901,
-      "num": 599319,
-      "word": "王弘毅 见人下菜碟",
-      "onboard_time": 1750669404,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 926192,
@@ -9099,6 +9099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 583794,
+      "num": 549148,
+      "word": "伊朗称将向世界展示力量",
+      "onboard_time": 1750668744,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 583445,
       "num": 406043,
       "word": "GAI 大白嗓",
@@ -9795,14 +9803,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 549148,
-      "num": 549148,
-      "word": "伊朗称将向世界展示力量",
-      "onboard_time": 1750668744,
-      "rank": 5,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 548272,
       "num": 548272,
       "word": "同事的工位好有归属感",
@@ -10417,6 +10417,14 @@
       "onboard_time": 1749082400,
       "rank": 6,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 525234,
+      "num": 474109,
+      "word": "千里江山图官宣",
+      "onboard_time": 1750669463,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 524386,
@@ -16155,14 +16163,6 @@
       "category": "海外新闻,国内时政"
     },
     {
-      "raw_hot": 358241,
-      "num": 358241,
-      "word": "千里江山图官宣",
-      "onboard_time": 1750669463,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 358051,
       "num": 358051,
       "word": "完形填空给我道歉",
@@ -18419,6 +18419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 316685,
+      "num": 316685,
+      "word": "枭起青壤预告",
+      "onboard_time": 1750670784,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 316574,
       "num": 316574,
       "word": "空调开一天要多少电钱",
@@ -18777,6 +18785,14 @@
       "onboard_time": 1749274161,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 310031,
+      "num": 310031,
+      "word": "现代版农夫与蛇",
+      "onboard_time": 1750665684,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 309955,
@@ -22283,20 +22299,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 262689,
+      "num": 509560,
+      "word": "伊朗报复美国的三种方式",
+      "onboard_time": 1750669644,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 262596,
       "num": 569036,
       "word": "官方通报张家界天坑溶洞垃圾整治情况",
       "onboard_time": 1749047842,
       "rank": 9,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 262481,
-      "num": 262481,
-      "word": "现代版农夫与蛇",
-      "onboard_time": 1750665684,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 262384,
@@ -30267,6 +30283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202218,
+      "num": 202218,
+      "word": "许我耀眼野心伪装版预告",
+      "onboard_time": 1750670843,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202203,
       "num": 202203,
       "word": "临江仙12集",
@@ -32179,14 +32203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195379,
-      "num": 195379,
-      "word": "枭起青壤预告",
-      "onboard_time": 1750670784,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 195372,
       "num": 195372,
       "word": "PEL",
@@ -32481,6 +32497,14 @@
       "onboard_time": 1750134444,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 193930,
+      "num": 193930,
+      "word": "小米YU7",
+      "onboard_time": 1750669463,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 193925,
@@ -33009,14 +33033,6 @@
       "onboard_time": 1749224065,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 191702,
-      "num": 191702,
-      "word": "许我耀眼野心伪装版预告",
-      "onboard_time": 1750670843,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 191700,
@@ -35443,14 +35459,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 183662,
-      "num": 183662,
-      "word": "小米YU7",
-      "onboard_time": 1750669463,
-      "rank": 28,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 183658,
       "num": 173234,
       "word": "麦可布雷feeling good",
@@ -36003,14 +36011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 181398,
-      "num": 509560,
-      "word": "伊朗报复美国的三种方式",
-      "onboard_time": 1750669644,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 181366,
       "num": 181366,
       "word": "严浩翔万妮达战队海报",
@@ -36305,6 +36305,14 @@
       "onboard_time": 1749012022,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180078,
+      "num": 148392,
+      "word": "网友称王勉绯闻女友不是易梦玲",
+      "onboard_time": 1750671083,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 180057,
@@ -37233,6 +37241,14 @@
       "onboard_time": 1749893842,
       "rank": 47,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 175732,
+      "num": 148093,
+      "word": "原来成龙刚出生就出名了",
+      "onboard_time": 1750671204,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 175722,
@@ -46147,6 +46163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146352,
+      "num": 146352,
+      "word": "当我突然有了点小money",
+      "onboard_time": 1750671204,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 146346,
       "num": 208965,
       "word": "酱园弄影评",
@@ -51595,6 +51619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 131674,
+      "num": 131674,
+      "word": "天津高考查分",
+      "onboard_time": 1750671083,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 131663,
       "num": 131663,
       "word": "美国小伙称来中国才吃到鲜荔枝",
@@ -52660,7 +52692,7 @@
     },
     {
       "raw_hot": 129025,
-      "num": 129025,
+      "num": 142714,
       "word": "高考第一批查分的人已出现",
       "onboard_time": 1750668924,
       "rank": 46,
@@ -52865,6 +52897,14 @@
       "onboard_time": 1750596322,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128561,
+      "num": 128561,
+      "word": "御赐小仵作2首发预告",
+      "onboard_time": 1750671683,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 128556,
@@ -56083,6 +56123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 119794,
+      "num": 119794,
+      "word": "考公慎选的五大专业",
+      "onboard_time": 1750671863,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 119747,
       "num": 119747,
       "word": "吴优黄曦彦特别主演",
@@ -57121,6 +57169,14 @@
       "onboard_time": 1750343664,
       "rank": 48,
       "category": "休闲,动漫"
+    },
+    {
+      "raw_hot": 116554,
+      "num": 116554,
+      "word": "薛凯琪的亲签是又亲又签",
+      "onboard_time": 1750671384,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 116547,
@@ -67299,6 +67355,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 74618,
+      "num": 279726,
+      "word": "美媒称美在袭击前已秘密通知伊朗",
+      "onboard_time": 1750670545,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 74598,
       "num": 115992,
       "word": "中国男乒对决都是世界级的",
@@ -70131,14 +70195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 60500,
-      "num": 279726,
-      "word": "美媒称美在袭击前已秘密通知伊朗",
-      "onboard_time": 1750670545,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 60458,
       "num": 243534,
       "word": "宝马送到4S店维修被偷走",
@@ -70201,6 +70257,14 @@
       "onboard_time": 1749972680,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60117,
+      "num": 133306,
+      "word": "诚C自拍三连",
+      "onboard_time": 1750671262,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 60088,
@@ -75073,6 +75137,14 @@
       "onboard_time": 1750082903,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 39202,
+      "num": 192113,
+      "word": "低俗直播斗狠4人被依法处罚",
+      "onboard_time": 1750671323,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 39199,
@@ -82251,6 +82323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15715,
+      "num": 558243,
+      "word": "4人低俗直播斗狠被依法处罚",
+      "onboard_time": 1750671683,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 15677,
       "num": 265780,
       "word": "夏天不戴太阳镜会对眼睛有伤害吗",
@@ -82521,6 +82601,14 @@
       "onboard_time": 1749235036,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 14867,
+      "num": 148975,
+      "word": "小伙自制荷叶面罩防晒网友称像蚊子",
+      "onboard_time": 1750671743,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14843,
