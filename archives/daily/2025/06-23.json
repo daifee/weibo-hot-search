@@ -1,6 +1,6 @@
 {
   "startTime": 1750609820904,
-  "endTime": 1750688870268,
+  "endTime": 1750690042523,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2303295,
+      "num": 368828,
+      "word": "郑乃馨在拽什么",
+      "onboard_time": 1750688305,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1602224,
       "num": 716431,
       "word": "祝绪丹告别嘉行",
@@ -97,6 +105,14 @@
       "onboard_time": 1750666824,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1274652,
+      "num": 595123,
+      "word": "海南失联女生尸体疑在万泉河发现",
+      "onboard_time": 1750687463,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1226449,
@@ -201,14 +217,6 @@
       "onboard_time": 1750641980,
       "rank": 0,
       "category": "休闲,动漫"
-    },
-    {
-      "raw_hot": 900125,
-      "num": 595123,
-      "word": "海南失联女生尸体疑在万泉河发现",
-      "onboard_time": 1750687463,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 892253,
@@ -340,7 +348,7 @@
     },
     {
       "raw_hot": 710781,
-      "num": 352750,
+      "num": 354756,
       "word": "孟子义照片顺序",
       "onboard_time": 1750681104,
       "rank": 15,
@@ -435,14 +443,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 657920,
-      "num": 352757,
-      "word": "郑乃馨在拽什么",
-      "onboard_time": 1750688305,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 646008,
       "num": 646008,
       "word": "美军驻叙利亚军事基地遭袭",
@@ -464,6 +464,14 @@
       "word": "珠宝专业就业率100%校领导称很痛苦",
       "onboard_time": 1750658542,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 621265,
+      "num": 621265,
+      "word": "成都一小区投票表决扑杀流浪狗",
+      "onboard_time": 1750684041,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -513,14 +521,6 @@
       "onboard_time": 1750665923,
       "rank": 12,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 556923,
-      "num": 556923,
-      "word": "成都一小区投票表决扑杀流浪狗",
-      "onboard_time": 1750684041,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 551214,
@@ -651,6 +651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 451308,
+      "num": 451308,
+      "word": "田曦薇校园时期美貌就被认证",
+      "onboard_time": 1750681944,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 445275,
       "num": 655870,
       "word": "女子网恋20天被骗近600万",
@@ -676,7 +684,7 @@
     },
     {
       "raw_hot": 437113,
-      "num": 330500,
+      "num": 344969,
       "word": "金秀贤反诉金赛纶方",
       "onboard_time": 1750685002,
       "rank": 12,
@@ -689,14 +697,6 @@
       "onboard_time": 1750658664,
       "rank": 8,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 422102,
-      "num": 422102,
-      "word": "田曦薇校园时期美貌就被认证",
-      "onboard_time": 1750681944,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 417883,
@@ -1771,6 +1771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 198396,
+      "num": 198396,
+      "word": "偶遇刘诗诗于莎莎逛街",
+      "onboard_time": 1750686804,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198337,
       "num": 198337,
       "word": "赴山海剑舞风云版海报",
@@ -1931,14 +1939,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 190250,
-      "num": 190250,
-      "word": "偶遇刘诗诗于莎莎逛街",
-      "onboard_time": 1750686804,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 189526,
       "num": 189526,
       "word": "上海2025高考分数线",
@@ -2075,12 +2075,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 182563,
+      "num": 182563,
+      "word": "美国轰炸伊朗核设施",
+      "onboard_time": 1750689684,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 182272,
       "num": 182272,
       "word": "我爸因为懒得理人装了二十年耳朵不好",
       "onboard_time": 1750662263,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 181642,
+      "num": 181642,
+      "word": "郑乃馨面相",
+      "onboard_time": 1750689444,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 180398,
@@ -2235,6 +2251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167821,
+      "num": 167821,
+      "word": "南京先锋书店突然拆门牌引网友猜测",
+      "onboard_time": 1750687884,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167077,
       "num": 167077,
       "word": "步行者vs雷霆",
@@ -2315,6 +2339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159900,
+      "num": 159900,
+      "word": "圣罗兰时装秀",
+      "onboard_time": 1750689864,
+      "rank": 31,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 159498,
       "num": 159498,
       "word": "烽火流金",
@@ -2361,6 +2393,14 @@
       "onboard_time": 1750685184,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 156437,
+      "num": 180456,
+      "word": "星星人 曾志伟",
+      "onboard_time": 1750687824,
+      "rank": 28,
+      "category": "艺人,动漫"
     },
     {
       "raw_hot": 155543,
@@ -2411,20 +2451,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151925,
+      "num": 151925,
+      "word": "这4种东西放冰箱可能会爆",
+      "onboard_time": 1750689325,
+      "rank": 32,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 151868,
       "num": 306567,
       "word": "租户误将水管接燃气管道99户爆表",
       "onboard_time": 1750663345,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 150857,
-      "num": 150857,
-      "word": "星星人 曾志伟",
-      "onboard_time": 1750687824,
-      "rank": 28,
-      "category": "艺人,动漫"
     },
     {
       "raw_hot": 148874,
@@ -2449,6 +2489,14 @@
       "onboard_time": 1750668443,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147826,
+      "num": 175048,
+      "word": "赵昭仪直播",
+      "onboard_time": 1750686682,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 146741,
@@ -2489,14 +2537,6 @@
       "onboard_time": 1750662144,
       "rank": 49,
       "category": "国际时政,民生新闻"
-    },
-    {
-      "raw_hot": 144983,
-      "num": 144983,
-      "word": "南京先锋书店突然拆门牌引网友猜测",
-      "onboard_time": 1750687884,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 144725,
@@ -2672,6 +2712,14 @@
       "word": "伊朗官员说好戏在后头",
       "onboard_time": 1750633879,
       "rank": 34,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 138017,
+      "num": 138017,
+      "word": "美国多地爆发反战抗议活动",
+      "onboard_time": 1750686382,
+      "rank": 49,
       "category": "国际时政"
     },
     {
@@ -2924,7 +2972,7 @@
     },
     {
       "raw_hot": 122099,
-      "num": 122099,
+      "num": 237378,
       "word": "孙恩盛否认恋爱",
       "onboard_time": 1750686925,
       "rank": 40,
@@ -2953,14 +3001,6 @@
       "onboard_time": 1750636400,
       "rank": 48,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 121536,
-      "num": 121536,
-      "word": "美国多地爆发反战抗议活动",
-      "onboard_time": 1750686382,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 119794,
@@ -3009,6 +3049,14 @@
       "onboard_time": 1750672584,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 115969,
+      "num": 115969,
+      "word": "社区回应一小区投票表决扑杀流浪狗",
+      "onboard_time": 1750689684,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115927,
@@ -3129,14 +3177,6 @@
       "onboard_time": 1750649542,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 104513,
-      "num": 104513,
-      "word": "赵昭仪直播",
-      "onboard_time": 1750686682,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 104018,
@@ -3345,6 +3385,14 @@
       "onboard_time": 1750601544,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82714,
+      "num": 337169,
+      "word": "多家跨省转运救护车公司暂不接ECMO单",
+      "onboard_time": 1750689204,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82221,
@@ -3707,6 +3755,14 @@
       "category": "国际时政,民生新闻"
     },
     {
+      "raw_hot": 47557,
+      "num": 377152,
+      "word": "以伊相互发起新一轮大规模攻击",
+      "onboard_time": 1750689383,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 47341,
       "num": 457834,
       "word": "曹玉磊回应被清华经管学院打假",
@@ -3761,6 +3817,14 @@
       "onboard_time": 1750667304,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39816,
+      "num": 227678,
+      "word": "年检站人员被投诉勾结维修厂吃回扣",
+      "onboard_time": 1750688483,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 39202,
@@ -3993,14 +4057,6 @@
       "onboard_time": 1750620794,
       "rank": 37,
       "category": "旅游,民生新闻"
-    },
-    {
-      "raw_hot": 18710,
-      "num": 227678,
-      "word": "年检站人员被投诉勾结维修厂吃回扣",
-      "onboard_time": 1750688483,
-      "rank": 19,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 17839,
