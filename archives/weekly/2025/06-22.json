@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750720941949,
+  "endTime": 1750721946217,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -147,11 +147,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1621700,
+      "raw_hot": 1631512,
       "num": 1621700,
       "word": "美军基地遭袭击",
       "onboard_time": 1750699336,
       "rank": 41,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 1620128,
+      "num": 1620128,
+      "word": "特朗普宣布以伊同意全面停火",
+      "onboard_time": 1750720579,
+      "rank": 13,
       "category": "国际时政"
     },
     {
@@ -457,6 +465,14 @@
       "onboard_time": 1750576162,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 834690,
+      "num": 834690,
+      "word": "卡塔尔",
+      "onboard_time": 1750719857,
+      "rank": 12,
+      "category": "体育,国际时政"
     },
     {
       "raw_hot": 827869,
@@ -859,6 +875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 616537,
+      "num": 616537,
+      "word": "报北大考古的女孩怎么样了",
+      "onboard_time": 1750699819,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 610082,
       "num": 610082,
       "word": "杜兰特",
@@ -921,14 +945,6 @@
       "onboard_time": 1750551379,
       "rank": 5,
       "category": "财经,民生新闻"
-    },
-    {
-      "raw_hot": 570083,
-      "num": 570083,
-      "word": "报北大考古的女孩怎么样了",
-      "onboard_time": 1750699819,
-      "rank": 31,
-      "category": "教育"
     },
     {
       "raw_hot": 568211,
@@ -1691,6 +1707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 369324,
+      "num": 369324,
+      "word": "成都地震",
+      "onboard_time": 1750720460,
+      "rank": 16,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 369045,
       "num": 451629,
       "word": "清华大学严正声明",
@@ -1705,6 +1729,14 @@
       "onboard_time": 1750679003,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 364851,
+      "num": 408137,
+      "word": "黄圣依妈妈一直尽全力托举女儿",
+      "onboard_time": 1750716675,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 360220,
@@ -1787,14 +1819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 351330,
-      "num": 351330,
-      "word": "卡塔尔",
-      "onboard_time": 1750719857,
-      "rank": 12,
-      "category": "体育,国际时政"
-    },
-    {
       "raw_hot": 350104,
       "num": 350104,
       "word": "枭起青壤",
@@ -1825,6 +1849,14 @@
       "onboard_time": 1750591283,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 347043,
+      "num": 347043,
+      "word": "伊朗已接受美停火方案",
+      "onboard_time": 1750721541,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 346982,
@@ -1993,14 +2025,6 @@
       "onboard_time": 1750596922,
       "rank": 26,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 324687,
-      "num": 408137,
-      "word": "黄圣依妈妈一直尽全力托举女儿",
-      "onboard_time": 1750716675,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 323860,
@@ -2267,14 +2291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 288876,
-      "num": 288876,
-      "word": "特朗普宣布以伊同意全面停火",
-      "onboard_time": 1750720579,
-      "rank": 13,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 288756,
       "num": 374385,
       "word": "西出玉门",
@@ -2361,6 +2377,14 @@
       "onboard_time": 1750592243,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 276277,
+      "num": 183118,
+      "word": "停火",
+      "onboard_time": 1750720760,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 274313,
@@ -2729,14 +2753,6 @@
       "onboard_time": 1750597043,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 235897,
-      "num": 235897,
-      "word": "成都地震",
-      "onboard_time": 1750720460,
-      "rank": 16,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 235731,
@@ -4691,14 +4707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148757,
-      "num": 148757,
-      "word": "停火",
-      "onboard_time": 1750720760,
-      "rank": 25,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 148284,
       "num": 148284,
       "word": "伊朗德黑兰爆发大规模反美反以抗议",
@@ -4955,6 +4963,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 142310,
+      "num": 142310,
+      "word": "伊朗尚未就停火发任何声明",
+      "onboard_time": 1750721300,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 142282,
       "num": 142282,
       "word": "对何炅年龄有了实感",
@@ -5105,6 +5121,14 @@
       "onboard_time": 1750686382,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 137910,
+      "num": 137910,
+      "word": "杭州一碗面558元店主回应争议",
+      "onboard_time": 1750721421,
+      "rank": 26,
+      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 137868,
@@ -5353,6 +5377,14 @@
       "onboard_time": 1750653263,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130500,
+      "num": 130500,
+      "word": "伊朗官员称伊朗接受停火方案",
+      "onboard_time": 1750721600,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 130433,
@@ -5635,6 +5667,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 123656,
+      "num": 123656,
+      "word": "第一批买新能源的车主后悔了吗",
+      "onboard_time": 1750720879,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 123603,
       "num": 123603,
       "word": "岭南荔枝",
@@ -5785,6 +5825,14 @@
       "onboard_time": 1750583721,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117145,
+      "num": 204705,
+      "word": "王弘毅疑似回应",
+      "onboard_time": 1750721479,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 116554,
@@ -6017,6 +6065,14 @@
       "onboard_time": 1750602202,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 108655,
+      "num": 108655,
+      "word": "狐妖小红娘动画十周年",
+      "onboard_time": 1750721600,
+      "rank": 34,
+      "category": "动漫"
     },
     {
       "raw_hot": 107996,
@@ -6435,6 +6491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92726,
+      "num": 92726,
+      "word": "以为刮油其实很长肉的奶茶店刺客",
+      "onboard_time": 1750720460,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 91036,
       "num": 91036,
       "word": "以媒爆两架B2轰炸机从美国飞往关岛",
@@ -6473,6 +6537,14 @@
       "onboard_time": 1750585041,
       "rank": 29,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 88994,
+      "num": 88994,
+      "word": "16岁高中生10元成本净赚120",
+      "onboard_time": 1750718597,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88607,
@@ -6539,14 +6611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 85048,
-      "num": 85048,
-      "word": "第一批买新能源的车主后悔了吗",
-      "onboard_time": 1750720879,
-      "rank": 33,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 84163,
       "num": 109249,
       "word": "王源祝小小工生日快乐",
@@ -6587,12 +6651,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 80730,
+      "num": 80730,
+      "word": "以军袭击伊朗红新月会大楼",
+      "onboard_time": 1750719138,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 79973,
       "num": 79973,
       "word": "陈熠3比2张本美和",
       "onboard_time": 1750547297,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79905,
+      "num": 94040,
+      "word": "美军打击伊核设施部署了数周至数月",
+      "onboard_time": 1750712834,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 79526,
@@ -6659,14 +6739,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 75043,
-      "num": 75043,
-      "word": "16岁高中生10元成本净赚120",
-      "onboard_time": 1750718597,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 74805,
       "num": 157937,
       "word": "佩服35岁以后坚持健身的人",
@@ -6705,14 +6777,6 @@
       "onboard_time": 1750623554,
       "rank": 13,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 72778,
-      "num": 72778,
-      "word": "以为刮油其实很长肉的奶茶店刺客",
-      "onboard_time": 1750720460,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 72728,
@@ -6787,14 +6851,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 69707,
-      "num": 69707,
-      "word": "以军袭击伊朗红新月会大楼",
-      "onboard_time": 1750719138,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 69270,
       "num": 204204,
       "word": "40度高温天要来了",
@@ -6817,6 +6873,14 @@
       "onboard_time": 1750635140,
       "rank": 19,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 67208,
+      "num": 67208,
+      "word": "多方回应男子躲进宝马车遭多人打砸群殴",
+      "onboard_time": 1750719558,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66530,
@@ -6843,14 +6907,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 63714,
-      "num": 63714,
-      "word": "多方回应男子躲进宝马车遭多人打砸群殴",
-      "onboard_time": 1750719558,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 63705,
       "num": 331105,
       "word": "特朗普向媒体介绍空袭细节",
@@ -6865,14 +6921,6 @@
       "onboard_time": 1750682544,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 62638,
-      "num": 62638,
-      "word": "美军打击伊核设施部署了数周至数月",
-      "onboard_time": 1750712834,
-      "rank": 36,
-      "category": "国际时政"
     },
     {
       "raw_hot": 62259,
@@ -7123,6 +7171,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 51034,
+      "num": 92813,
+      "word": "祝绪丹22到33岁颜值变化",
+      "onboard_time": 1750697958,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 50612,
       "num": 50612,
       "word": "皇马vs帕丘卡",
@@ -7241,14 +7297,6 @@
       "onboard_time": 1750677745,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43233,
-      "num": 55523,
-      "word": "祝绪丹22到33岁颜值变化",
-      "onboard_time": 1750697958,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 43067,
@@ -7675,6 +7723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 25685,
+      "num": 230539,
+      "word": "卡塔尔证实暂时关闭领空",
+      "onboard_time": 1750721541,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 24661,
       "num": 60565,
       "word": "中东局势是否要走向失控",
@@ -7764,7 +7820,7 @@
     },
     {
       "raw_hot": 21951,
-      "num": 746290,
+      "num": 877283,
       "word": "2025高招一站式服务平台",
       "onboard_time": 1750668203,
       "rank": 2,

@@ -1,13 +1,21 @@
 {
   "startTime": 1750696476897,
-  "endTime": 1750720941949,
+  "endTime": 1750721946217,
   "band_list": [
     {
-      "raw_hot": 1621700,
+      "raw_hot": 1631512,
       "num": 1621700,
       "word": "美军基地遭袭击",
       "onboard_time": 1750699336,
       "rank": 41,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 1620128,
+      "num": 1620128,
+      "word": "特朗普宣布以伊同意全面停火",
+      "onboard_time": 1750720579,
+      "rank": 13,
       "category": "国际时政"
     },
     {
@@ -35,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 834690,
+      "num": 834690,
+      "word": "卡塔尔",
+      "onboard_time": 1750719857,
+      "rank": 12,
+      "category": "体育,国际时政"
+    },
+    {
       "raw_hot": 715825,
       "num": 715825,
       "word": "微信语音 丑",
@@ -51,20 +67,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 616537,
+      "num": 616537,
+      "word": "报北大考古的女孩怎么样了",
+      "onboard_time": 1750699819,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 597131,
       "num": 597131,
       "word": "女儿被打碎头骨母亲遭死亡威胁",
       "onboard_time": 1750691243,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 570083,
-      "num": 570083,
-      "word": "报北大考古的女孩怎么样了",
-      "onboard_time": 1750699819,
-      "rank": 31,
-      "category": "教育"
     },
     {
       "raw_hot": 568211,
@@ -107,6 +123,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 369324,
+      "num": 369324,
+      "word": "成都地震",
+      "onboard_time": 1750720460,
+      "rank": 16,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 364851,
+      "num": 408137,
+      "word": "黄圣依妈妈一直尽全力托举女儿",
+      "onboard_time": 1750716675,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 354899,
       "num": 265037,
       "word": "两博主直播拉踩樊振东当场被处置",
@@ -115,12 +147,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 351330,
-      "num": 351330,
-      "word": "卡塔尔",
-      "onboard_time": 1750719857,
-      "rank": 12,
-      "category": "体育,国际时政"
+      "raw_hot": 347043,
+      "num": 347043,
+      "word": "伊朗已接受美停火方案",
+      "onboard_time": 1750721541,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 346411,
@@ -129,14 +161,6 @@
       "onboard_time": 1750689204,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 324687,
-      "num": 408137,
-      "word": "黄圣依妈妈一直尽全力托举女儿",
-      "onboard_time": 1750716675,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 301423,
@@ -155,20 +179,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 288876,
-      "num": 288876,
-      "word": "特朗普宣布以伊同意全面停火",
-      "onboard_time": 1750720579,
-      "rank": 13,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 278805,
       "num": 245137,
       "word": "广州震感",
       "onboard_time": 1750676308,
       "rank": 15,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 276277,
+      "num": 183118,
+      "word": "停火",
+      "onboard_time": 1750720760,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 262361,
@@ -201,14 +225,6 @@
       "onboard_time": 1750681104,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 235897,
-      "num": 235897,
-      "word": "成都地震",
-      "onboard_time": 1750720460,
-      "rank": 16,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 213343,
@@ -259,20 +275,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 148757,
-      "num": 148757,
-      "word": "停火",
-      "onboard_time": 1750720760,
-      "rank": 25,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 145260,
       "num": 212428,
       "word": "你是谁 快从彭昱畅身上下来",
       "onboard_time": 1750695441,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144157,
+      "num": 224390,
+      "word": "终于有剧拍末世大女主了",
+      "onboard_time": 1750676490,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 143442,
@@ -283,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142310,
+      "num": 142310,
+      "word": "伊朗尚未就停火发任何声明",
+      "onboard_time": 1750721300,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 140870,
       "num": 183969,
       "word": "newjeans代言品牌陆续解约",
@@ -291,12 +315,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137910,
+      "num": 137910,
+      "word": "杭州一碗面558元店主回应争议",
+      "onboard_time": 1750721421,
+      "rank": 26,
+      "category": "民生新闻,美食"
+    },
+    {
+      "raw_hot": 136759,
+      "num": 136759,
+      "word": "伊朗",
+      "onboard_time": 1750721541,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 133095,
       "num": 180242,
       "word": "胖东来员工称曾因停车问题考虑闭店",
       "onboard_time": 1750695201,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130500,
+      "num": 130500,
+      "word": "伊朗官员称伊朗接受停火方案",
+      "onboard_time": 1750721600,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 123656,
+      "num": 123656,
+      "word": "第一批买新能源的车主后悔了吗",
+      "onboard_time": 1750720879,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 121481,
@@ -323,6 +379,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 117145,
+      "num": 204705,
+      "word": "王弘毅疑似回应",
+      "onboard_time": 1750721479,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110464,
       "num": 101664,
       "word": "美军驻叙利亚军事基地遭袭",
@@ -331,12 +395,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 106495,
-      "num": 224390,
-      "word": "终于有剧拍末世大女主了",
-      "onboard_time": 1750676490,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 108655,
+      "num": 108655,
+      "word": "狐妖小红娘动画十周年",
+      "onboard_time": 1750721600,
+      "rank": 34,
+      "category": "动漫"
     },
     {
       "raw_hot": 105854,
@@ -371,6 +435,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 96531,
+      "num": 96531,
+      "word": "韩国人科普中国纸巾",
+      "onboard_time": 1750686382,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95639,
       "num": 95639,
       "word": "绝不能放任假院长在社会上招摇撞骗",
@@ -403,6 +475,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92726,
+      "num": 92726,
+      "word": "以为刮油其实很长肉的奶茶店刺客",
+      "onboard_time": 1750720460,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 88994,
+      "num": 88994,
+      "word": "16岁高中生10元成本净赚120",
+      "onboard_time": 1750718597,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86554,
       "num": 86554,
       "word": "死亡搁浅2",
@@ -411,27 +499,27 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 85048,
-      "num": 85048,
-      "word": "第一批买新能源的车主后悔了吗",
-      "onboard_time": 1750720879,
-      "rank": 33,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 83903,
-      "num": 83903,
-      "word": "韩国人科普中国纸巾",
-      "onboard_time": 1750686382,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 81384,
       "num": 81384,
       "word": "普京说俄愿为伊朗人民提供协助",
       "onboard_time": 1750682723,
       "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 80730,
+      "num": 80730,
+      "word": "以军袭击伊朗红新月会大楼",
+      "onboard_time": 1750719138,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 79905,
+      "num": 94040,
+      "word": "美军打击伊核设施部署了数周至数月",
+      "onboard_time": 1750712834,
+      "rank": 36,
       "category": "国际时政"
     },
     {
@@ -451,14 +539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 75043,
-      "num": 75043,
-      "word": "16岁高中生10元成本净赚120",
-      "onboard_time": 1750718597,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 75008,
       "num": 75008,
       "word": "偶遇刘诗诗于莎莎逛街",
@@ -475,12 +555,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 72778,
-      "num": 72778,
-      "word": "以为刮油其实很长肉的奶茶店刺客",
-      "onboard_time": 1750720460,
-      "rank": 37,
-      "category": "幽默"
+      "raw_hot": 73314,
+      "num": 73314,
+      "word": "美攻击伊朗后日韩首脑将缺席北约峰会",
+      "onboard_time": 1750684823,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 70516,
@@ -491,36 +571,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 69707,
-      "num": 69707,
-      "word": "以军袭击伊朗红新月会大楼",
-      "onboard_time": 1750719138,
-      "rank": 39,
-      "category": "国际时政"
+      "raw_hot": 69783,
+      "num": 70017,
+      "word": "金秀贤反诉金赛纶方",
+      "onboard_time": 1750685002,
+      "rank": 48,
+      "category": "艺人"
     },
     {
-      "raw_hot": 68816,
-      "num": 68816,
-      "word": "美攻击伊朗后日韩首脑将缺席北约峰会",
-      "onboard_time": 1750684823,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 63714,
-      "num": 63714,
+      "raw_hot": 67208,
+      "num": 67208,
       "word": "多方回应男子躲进宝马车遭多人打砸群殴",
       "onboard_time": 1750719558,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 62638,
-      "num": 62638,
-      "word": "美军打击伊核设施部署了数周至数月",
-      "onboard_time": 1750712834,
-      "rank": 36,
-      "category": "国际时政"
     },
     {
       "raw_hot": 61620,
@@ -537,14 +601,6 @@
       "onboard_time": 1750709174,
       "rank": 42,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 58895,
-      "num": 70017,
-      "word": "金秀贤反诉金赛纶方",
-      "onboard_time": 1750685002,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 57778,
@@ -595,20 +651,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 51034,
+      "num": 92813,
+      "word": "祝绪丹22到33岁颜值变化",
+      "onboard_time": 1750697958,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 47485,
       "num": 69982,
       "word": "深圳震感",
       "onboard_time": 1750676366,
       "rank": 49,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 43233,
-      "num": 55523,
-      "word": "祝绪丹22到33岁颜值变化",
-      "onboard_time": 1750697958,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 43067,
@@ -681,6 +737,14 @@
       "onboard_time": 1750702995,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 25685,
+      "num": 230539,
+      "word": "卡塔尔证实暂时关闭领空",
+      "onboard_time": 1750721541,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 24332,
@@ -763,8 +827,8 @@
       "category": "教育,民生新闻"
     },
     {
-      "raw_hot": 12781,
-      "num": 746290,
+      "raw_hot": 14109,
+      "num": 877283,
       "word": "2025高招一站式服务平台",
       "onboard_time": 1750668203,
       "rank": 2,
