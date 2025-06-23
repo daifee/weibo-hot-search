@@ -1,14 +1,30 @@
 {
   "startTime": 1750609820904,
-  "endTime": 1750635576642,
+  "endTime": 1750644575026,
   "band_list": [
     {
+      "raw_hot": 1199931,
+      "num": 332823,
+      "word": "伊朗火力全开",
+      "onboard_time": 1750640481,
+      "rank": 10,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 1106002,
-      "num": 328620,
+      "num": 329256,
       "word": "伊朗给全世界打了个样",
       "onboard_time": 1750604304,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 924354,
+      "num": 1147896,
+      "word": "全世界学历最高的labubu来了",
+      "onboard_time": 1750641980,
+      "rank": 0,
+      "category": "休闲,动漫"
     },
     {
       "raw_hot": 892253,
@@ -25,6 +41,22 @@
       "onboard_time": 1750585942,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 753456,
+      "num": 753456,
+      "word": "阿姨因烧饭把骗子晾一边保住166万元",
+      "onboard_time": 1750635260,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 697393,
+      "num": 490670,
+      "word": "特朗普称让伊朗再次伟大",
+      "onboard_time": 1750638742,
+      "rank": 5,
+      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 689319,
@@ -51,20 +83,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 599720,
+      "num": 599720,
+      "word": "李晟被泼李佳航坐不住了",
+      "onboard_time": 1750634178,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 502339,
+      "num": 502339,
+      "word": "高考成绩陆续公布",
+      "onboard_time": 1750640002,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 477625,
       "num": 251357,
       "word": "长安的荔枝演员表删除那尔那茜",
       "onboard_time": 1750605263,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 450775,
-      "num": 320384,
-      "word": "阿姨因烧饭把骗子晾一边保住166万元",
-      "onboard_time": 1750635260,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 441621,
@@ -107,6 +147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 376824,
+      "num": 322626,
+      "word": "王欣瑜退赛",
+      "onboard_time": 1750643359,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 353222,
       "num": 307418,
       "word": "伊朗超三分之一导弹没有被以军拦截",
@@ -115,12 +163,44 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 349431,
+      "num": 349431,
+      "word": "鹅厂2025大剧片单",
+      "onboard_time": 1750643481,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 345360,
+      "num": 345360,
+      "word": "轰炸伊朗核设施炸碎了美国信誉",
+      "onboard_time": 1750634059,
+      "rank": 19,
+      "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 339066,
+      "num": 339066,
+      "word": "哈利伯顿受伤",
+      "onboard_time": 1750640061,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 338019,
       "num": 338019,
       "word": "全红婵打网约车被司机称为国宝",
       "onboard_time": 1750634599,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 337847,
+      "num": 337847,
+      "word": "Prada晚宴",
+      "onboard_time": 1750638082,
+      "rank": 9,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 334633,
@@ -139,12 +219,60 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 304764,
-      "num": 304764,
-      "word": "轰炸伊朗核设施炸碎了美国信誉",
-      "onboard_time": 1750634059,
-      "rank": 19,
-      "category": "国际时政,民生新闻"
+      "raw_hot": 315540,
+      "num": 315540,
+      "word": "刚过本科线去民办本科还是大专",
+      "onboard_time": 1750641261,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 314253,
+      "num": 314253,
+      "word": "硬座 结膜炎",
+      "onboard_time": 1750643181,
+      "rank": 14,
+      "category": "民生新闻,议题讨论"
+    },
+    {
+      "raw_hot": 312017,
+      "num": 312017,
+      "word": "高考查分",
+      "onboard_time": 1750637002,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 287852,
+      "num": 287852,
+      "word": "NBA新王登基",
+      "onboard_time": 1750641801,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 284085,
+      "num": 284085,
+      "word": "杜淳妻子回应婆婆不让抹妊娠油",
+      "onboard_time": 1750633519,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 272911,
+      "num": 272911,
+      "word": "黄金",
+      "onboard_time": 1750643120,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 272161,
+      "num": 272161,
+      "word": "小米YU7本周正式发布",
+      "onboard_time": 1750643061,
+      "rank": 20,
+      "category": "汽车"
     },
     {
       "raw_hot": 264043,
@@ -153,6 +281,22 @@
       "onboard_time": 1750602743,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 262141,
+      "num": 272392,
+      "word": "张艺谋刘浩存再合作",
+      "onboard_time": 1750643781,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 261474,
+      "num": 261474,
+      "word": "庆余年3",
+      "onboard_time": 1750576162,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 255659,
@@ -177,6 +321,14 @@
       "onboard_time": 1750596022,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 245162,
+      "num": 245162,
+      "word": "伊朗总统说美国必须付出代价",
+      "onboard_time": 1750636941,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 244573,
@@ -211,12 +363,20 @@
       "category": "国际时政,民生新闻"
     },
     {
-      "raw_hot": 231837,
-      "num": 262140,
-      "word": "李晟被泼李佳航坐不住了",
-      "onboard_time": 1750634178,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 214923,
+      "num": 214923,
+      "word": "造城者",
+      "onboard_time": 1750642641,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 205326,
+      "num": 205326,
+      "word": "奶茶冰块 脏",
+      "onboard_time": 1750643601,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 203206,
@@ -235,14 +395,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 194824,
-      "num": 194824,
-      "word": "杜淳妻子回应婆婆不让抹妊娠油",
-      "onboard_time": 1750633519,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 193718,
       "num": 181105,
       "word": "最近的韩剧男主颜值",
@@ -257,6 +409,14 @@
       "onboard_time": 1750602264,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180398,
+      "num": 180398,
+      "word": "美国警示可能发生恐袭",
+      "onboard_time": 1750641021,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 178852,
@@ -291,12 +451,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162511,
+      "num": 162511,
+      "word": "被狗咬后未就医3个月后发病去世",
+      "onboard_time": 1750616536,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161524,
       "num": 161524,
       "word": "肖战美貌受害者加一",
       "onboard_time": 1750605204,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159498,
+      "num": 159498,
+      "word": "烽火流金",
+      "onboard_time": 1750636282,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 157791,
+      "num": 157791,
+      "word": "豆包p丑 无人生还",
+      "onboard_time": 1750644440,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 155543,
@@ -307,12 +491,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 155363,
-      "num": 155363,
-      "word": "庆余年3",
-      "onboard_time": 1750576162,
-      "rank": 24,
+      "raw_hot": 154630,
+      "num": 154630,
+      "word": "步行者vs雷霆",
+      "onboard_time": 1750640721,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 154287,
+      "num": 164178,
+      "word": "主角",
+      "onboard_time": 1750643359,
+      "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152268,
+      "num": 152268,
+      "word": "北京高温持续3天",
+      "onboard_time": 1750642460,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148284,
+      "num": 148284,
+      "word": "伊朗德黑兰爆发大规模反美反以抗议",
+      "onboard_time": 1750640601,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 143195,
@@ -331,14 +539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140384,
-      "num": 138046,
-      "word": "被狗咬后未就医3个月后发病去世",
-      "onboard_time": 1750616536,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 138873,
       "num": 148036,
       "word": "品牌撤下那尔那茜物料",
@@ -355,12 +555,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 137392,
+      "num": 137392,
+      "word": "从没见明星被训这么惨",
+      "onboard_time": 1750644022,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 135070,
+      "num": 135070,
+      "word": "NBA",
+      "onboard_time": 1750637421,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134590,
       "num": 134590,
       "word": "马嘉祺歌手第一期备选了6首歌",
       "onboard_time": 1750608321,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131357,
+      "num": 131357,
+      "word": "叙利亚自杀式袭击死伤85人",
+      "onboard_time": 1750644440,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 130321,
@@ -371,12 +595,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127417,
+      "num": 127417,
+      "word": "浙音专业第一淘汰网红",
+      "onboard_time": 1750634540,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 125596,
+      "num": 125596,
+      "word": "周杰伦抢票",
+      "onboard_time": 1750643841,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 122176,
       "num": 122176,
       "word": "中学领导侵吞学生伙食费240万元",
       "onboard_time": 1750604485,
       "rank": 29,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 121861,
+      "num": 121861,
+      "word": "上海3500一个月的两室一厅",
+      "onboard_time": 1750642401,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 121618,
+      "num": 121618,
+      "word": "以色列人逃往埃及",
+      "onboard_time": 1750636400,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 117958,
@@ -441,6 +697,14 @@
       "onboard_time": 1750606761,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 94324,
+      "num": 140604,
+      "word": "詹姆斯为哈利伯顿祈祷",
+      "onboard_time": 1750643061,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 90059,
@@ -547,19 +811,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 76804,
-      "num": 76804,
-      "word": "浙音专业第一淘汰网红",
-      "onboard_time": 1750634540,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 76642,
       "num": 109103,
       "word": "广东疾控发文称狂犬病病死率接近100%",
       "onboard_time": 1750595902,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73835,
+      "num": 603969,
+      "word": "护网2025网安局提醒警惕银狐病毒来袭",
+      "onboard_time": 1750641081,
+      "rank": 2,
       "category": "民生新闻"
     },
     {

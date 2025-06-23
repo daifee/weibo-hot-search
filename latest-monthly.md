@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/23 07:39:36
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/23 10:09:35
 </p>
 </blockquote>
 <p>
@@ -2061,6 +2061,12 @@ afternoon怎么变形（热度：1248150）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%81%AB%E5%8A%9B%E5%85%A8%E5%BC%80%23" target="weibo">
+伊朗火力全开（热度：1199931）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E5%8C%97%E5%A4%A7%E7%AC%AC%E4%B8%80%E8%8A%82%E4%B8%8A%E8%AF%BE%E5%86%B3%E5%AE%9A%E9%80%80%E5%AD%A6%E5%A4%8D%E8%AF%BB%23" target="weibo">
 男生北大第一节上课决定退学复读（热度：1196926）
 </a>
@@ -3315,6 +3321,12 @@ labubu（热度：930311）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E4%B8%96%E7%95%8C%E5%AD%A6%E5%8E%86%E6%9C%80%E9%AB%98%E7%9A%84labubu%E6%9D%A5%E4%BA%86%23" target="weibo">
+全世界学历最高的labubu来了（热度：924354）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%9C%88%E8%96%AA27000%E4%B8%80%E5%A4%A9%E7%9A%84%E8%8A%B1%E9%94%80%23" target="weibo">
 上海月薪27000一天的花销（热度：922974）
 </a>
@@ -4467,6 +4479,12 @@ T3司机猥亵大三女生被行拘5日（热度：810171）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%A7%A8%E5%9B%A0%E7%83%A7%E9%A5%AD%E6%8A%8A%E9%AA%97%E5%AD%90%E6%99%BE%E4%B8%80%E8%BE%B9%E4%BF%9D%E4%BD%8F166%E4%B8%87%E5%85%83%23" target="weibo">
+阿姨因烧饭把骗子晾一边保住166万元（热度：753456）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%23" target="weibo">
 王俊凯（热度：752940）
 </a>
@@ -5081,6 +5099,12 @@ Labubu 审美（热度：729066）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E9%A4%90%E5%8E%859%E6%94%B6%E5%AE%98%23" target="weibo">
 中餐厅9收官（热度：697621）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%AE%A9%E4%BC%8A%E6%9C%97%E5%86%8D%E6%AC%A1%E4%BC%9F%E5%A4%A7%23" target="weibo">
+特朗普称让伊朗再次伟大（热度：697393）
 </a>
 </li>
 
@@ -5987,30 +6011,6 @@ Lafufu和Lababa都属于商标侵权（热度：623180）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A9%E8%A2%AB%E5%A4%A9%E9%99%8D%E4%B9%8C%E9%BE%9F%E7%A0%B8%E6%AD%BB%E9%A5%B2%E4%B8%BB%E5%88%A4%E8%B5%94128%E4%B8%87%23" target="weibo">
 小孩被天降乌龟砸死饲主判赔128万（热度：622619）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E4%B8%81%E7%A8%8B%E9%91%AB%E5%B7%AE%E7%82%B9%E4%BA%B2%E4%B8%8A%E4%BA%86%23" target="weibo">
-马嘉祺丁程鑫差点亲上了（热度：622345）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%9C%A3%E4%BE%9D%E5%A6%88%E5%A6%88%E6%92%91%E8%B5%B7%E4%BA%86%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8E%9F%E7%94%9F%E5%AE%B6%E5%BA%AD%23" target="weibo">
-黄圣依妈妈撑起了自己的原生家庭（热度：622278）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%95%99%E5%87%A0%E6%89%8B%E5%8F%91%E9%95%BF%E6%96%87%E8%B0%88%E9%9F%A6%E4%B8%9C%E5%A5%95%23" target="weibo">
-留几手发长文谈韦东奕（热度：622083）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86618%E5%BC%80%E5%BF%83%E5%A4%9C%23" target="weibo">
-湖南卫视618开心夜（热度：622082）
 </a>
 </li>
 
