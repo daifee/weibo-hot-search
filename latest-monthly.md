@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/23 13:28:56
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/23 13:45:17
 </p>
 </blockquote>
 <p>
@@ -5607,6 +5607,12 @@ Bin哥 嘴硬（热度：664927）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%85%B1%E5%9B%AD%E5%BC%84%E8%B1%86%E7%93%A3%E5%BC%80%E5%88%865.9%23" target="weibo">
+酱园弄豆瓣开分5.9（热度：661022）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%98%A6%E4%BA%8620%E6%96%A4%E7%9A%84%E9%9D%A2%E9%83%A8%E5%8F%98%E5%8C%96%23" target="weibo">
 瘦了20斤的面部变化（热度：660927）
 </a>
@@ -6005,12 +6011,6 @@ Bin 闹剧结束了（热度：638394）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E6%88%90%E7%AB%8B%E7%BD%97%E5%B8%85%E5%AE%87%E4%BA%8B%E4%BB%B6%E8%81%94%E5%90%88%E8%B0%83%E6%9F%A5%E7%BB%84%23" target="weibo">
 湖南成立罗帅宇事件联合调查组（热度：628578）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E9%87%8C%E7%9A%84%E7%94%B7%E7%94%9F%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%B0%91%E4%BA%86%23" target="weibo">
-大学里的男生为什么越来越少了（热度：627769）
 </a>
 </li>
 

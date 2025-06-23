@@ -1,0 +1,410 @@
+{
+  "runTime": 1750657517656,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 832590,
+        "num": 1133214,
+        "word": "张若昀发文回应庆余年3",
+        "onboard_time": 1750649963,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 582509,
+        "num": 582509,
+        "word": "抗战胜利80周年纪念活动预告",
+        "onboard_time": 1750655003,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 53221,
+        "num": 575608,
+        "word": "护网2025网安局提醒警惕银狐病毒来袭",
+        "onboard_time": 1750641081,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 661022,
+        "num": 573401,
+        "word": "酱园弄豆瓣开分5.9",
+        "onboard_time": 1750655065,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 569491,
+        "num": 569491,
+        "word": "法国发现新血型全球仅一人",
+        "onboard_time": 1750650864,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 550132,
+        "num": 550132,
+        "word": "用了很久苹果手机才发现的功能",
+        "onboard_time": 1750654224,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 636218,
+        "num": 548374,
+        "word": "祝绪丹告别嘉行",
+        "onboard_time": 1750646242,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 544287,
+        "num": 544287,
+        "word": "腾讯招商大会",
+        "onboard_time": 1750652185,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 439670,
+        "num": 439670,
+        "word": "终于知道婴儿为啥爱出门遛弯了",
+        "onboard_time": 1750649243,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 340336,
+        "num": 418969,
+        "word": "中南财大副教授遭精神病人杀害",
+        "onboard_time": 1750646304,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 751083,
+        "num": 418673,
+        "word": "男子发病身亡压死出生仅3个月儿子",
+        "onboard_time": 1750645161,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 520724,
+        "num": 418293,
+        "word": "南柱赫回春",
+        "onboard_time": 1750653263,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417731,
+        "num": 417731,
+        "word": "EDG申请执行Scout3351万",
+        "onboard_time": 1750651643,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 364500,
+        "num": 364500,
+        "word": "迪丽热巴紫瞳",
+        "onboard_time": 1750653624,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181779,
+        "num": 356936,
+        "word": "男子奶茶内放精神药品猥亵女子",
+        "onboard_time": 1750655065,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 355143,
+        "num": 355143,
+        "word": "梦华录续篇",
+        "onboard_time": 1750652784,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218644,
+        "num": 320449,
+        "word": "女子网恋20天被骗近600万",
+        "onboard_time": 1750649423,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257767,
+        "num": 318387,
+        "word": "韩网评闵玧其捐款50亿",
+        "onboard_time": 1750655662,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317394,
+        "num": 317394,
+        "word": "又见三平台联播大剧",
+        "onboard_time": 1750652003,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67270,
+        "num": 312025,
+        "word": "吴彦祖请100w人喝古茗咖啡",
+        "onboard_time": 1750655003,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311729,
+        "num": 311729,
+        "word": "慕胥辞迪丽热巴陈飞宇领衔主演",
+        "onboard_time": 1750649604,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307466,
+        "num": 307466,
+        "word": "你好星期六直播",
+        "onboard_time": 1750655483,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305281,
+        "num": 305281,
+        "word": "以色列媒体开骂",
+        "onboard_time": 1750646123,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 270039,
+        "num": 270039,
+        "word": "美团优选",
+        "onboard_time": 1750651524,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 179462,
+        "num": 265397,
+        "word": "恋与深空",
+        "onboard_time": 1750653564,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 264943,
+        "num": 264943,
+        "word": "十日终焉第一季",
+        "onboard_time": 1750654884,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 262019,
+        "num": 262019,
+        "word": "张杰不想去歌手的原因",
+        "onboard_time": 1750646063,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 51320,
+        "num": 253834,
+        "word": "美国母亲被孩子问会发生三战吗",
+        "onboard_time": 1750648103,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 250909,
+        "num": 250909,
+        "word": "白鹿丞磊新剧先婚后谋",
+        "onboard_time": 1750655962,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244921,
+        "num": 244921,
+        "word": "60岁大爷内衣袜子混洗感染股癣",
+        "onboard_time": 1750651285,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228803,
+        "num": 228803,
+        "word": "网剧吾凰在上",
+        "onboard_time": 1750656923,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223788,
+        "num": 223788,
+        "word": "当你不小心把deepseek叫成豆包",
+        "onboard_time": 1750656383,
+        "rank": 31,
+        "category": "幽默,互联网"
+      },
+      {
+        "raw_hot": 175653,
+        "num": 220819,
+        "word": "NBA七年七个总冠军",
+        "onboard_time": 1750649783,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219963,
+        "num": 219963,
+        "word": "豆包p丑 无人生还",
+        "onboard_time": 1750644440,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 208436,
+        "num": 208436,
+        "word": "Labubu你还是继续火吧",
+        "onboard_time": 1750657222,
+        "rank": 34,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 207933,
+        "num": 207933,
+        "word": "侃爷上海演唱会官宣",
+        "onboard_time": 1750656861,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124058,
+        "num": 206502,
+        "word": "北大退学上清华男生称因护理被嘲笑",
+        "onboard_time": 1750656861,
+        "rank": 36,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 22691,
+        "num": 205220,
+        "word": "胡兵郝允祥又在输出高级东方美学",
+        "onboard_time": 1750657403,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31973,
+        "num": 202632,
+        "word": "曼城6比0艾因",
+        "onboard_time": 1750654884,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164004,
+        "num": 200646,
+        "word": "湖北2.5天休假遇冷",
+        "onboard_time": 1750654464,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140938,
+        "num": 199156,
+        "word": "央视揭开直播间开蚌取珠套路",
+        "onboard_time": 1750656083,
+        "rank": 40,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 198264,
+        "num": 198264,
+        "word": "慕胥辞三折叠细节越扒越有",
+        "onboard_time": 1750656803,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197097,
+        "num": 197097,
+        "word": "谭松韵蓝水晶公主裙",
+        "onboard_time": 1750657043,
+        "rank": 42,
+        "category": "剧集,时尚"
+      },
+      {
+        "raw_hot": 190744,
+        "num": 190744,
+        "word": "林玉芬 莫离妆造",
+        "onboard_time": 1750653387,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132273,
+        "num": 189602,
+        "word": "曾舜晞一嗓子两个女嘉宾灭灯",
+        "onboard_time": 1750654524,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189165,
+        "num": 189165,
+        "word": "李一桐新剧被刘宇宁哐哐砸钱",
+        "onboard_time": 1750656742,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186941,
+        "num": 186941,
+        "word": "鹅厂2025大剧片单",
+        "onboard_time": 1750643481,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183108,
+        "num": 183108,
+        "word": "樱桃琥珀",
+        "onboard_time": 1750657463,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180219,
+        "num": 180219,
+        "word": "95岁离休干部被认定为恶势力主犯",
+        "onboard_time": 1750657342,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176356,
+        "num": 176356,
+        "word": "林允有阴湿那味儿了",
+        "onboard_time": 1750647083,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国人要把饭碗端在自己手里#"
+    }
+  }
+}

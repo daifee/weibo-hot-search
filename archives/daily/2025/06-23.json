@@ -1,6 +1,6 @@
 {
   "startTime": 1750609820904,
-  "endTime": 1750656536305,
+  "endTime": 1750657517656,
   "band_list": [
     {
       "raw_hot": 1602224,
@@ -211,20 +211,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 661022,
+      "num": 573401,
+      "word": "酱园弄豆瓣开分5.9",
+      "onboard_time": 1750655065,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 637738,
       "num": 637738,
       "word": "鹅厂2025大剧片单",
       "onboard_time": 1750643481,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 625366,
-      "num": 487867,
-      "word": "酱园弄豆瓣开分5.9",
-      "onboard_time": 1750655065,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 610082,
@@ -251,6 +251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 582509,
+      "num": 582509,
+      "word": "抗战胜利80周年纪念活动预告",
+      "onboard_time": 1750655003,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 551214,
       "num": 551214,
       "word": "腾讯招商大会",
@@ -259,12 +267,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 507597,
-      "num": 507597,
-      "word": "抗战胜利80周年纪念活动预告",
-      "onboard_time": 1750655003,
-      "rank": 5,
-      "category": "国内时政"
+      "raw_hot": 550132,
+      "num": 550132,
+      "word": "用了很久苹果手机才发现的功能",
+      "onboard_time": 1750654224,
+      "rank": 9,
+      "category": "数码"
     },
     {
       "raw_hot": 502339,
@@ -289,14 +297,6 @@
       "onboard_time": 1750605263,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 469262,
-      "num": 469262,
-      "word": "用了很久苹果手机才发现的功能",
-      "onboard_time": 1750654224,
-      "rank": 9,
-      "category": "数码"
     },
     {
       "raw_hot": 451532,
@@ -659,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257767,
+      "num": 347799,
+      "word": "韩网评闵玧其捐款50亿",
+      "onboard_time": 1750655662,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 256138,
       "num": 256138,
       "word": "赴山海",
@@ -697,14 +705,6 @@
       "onboard_time": 1750651342,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 248947,
-      "num": 347799,
-      "word": "韩网评闵玧其捐款50亿",
-      "onboard_time": 1750655662,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 246925,
@@ -779,6 +779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 228803,
+      "num": 228803,
+      "word": "网剧吾凰在上",
+      "onboard_time": 1750656923,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 226318,
       "num": 308221,
       "word": "被冯绍峰版狄仁杰吓到了",
@@ -793,6 +801,14 @@
       "onboard_time": 1750650562,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 223788,
+      "num": 223788,
+      "word": "当你不小心把deepseek叫成豆包",
+      "onboard_time": 1750656383,
+      "rank": 31,
+      "category": "幽默,互联网"
     },
     {
       "raw_hot": 221848,
@@ -843,12 +859,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208436,
+      "num": 208436,
+      "word": "Labubu你还是继续火吧",
+      "onboard_time": 1750657222,
+      "rank": 34,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 208428,
       "num": 208428,
       "word": "王子文刘宇宁有吻戏",
       "onboard_time": 1750653145,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207933,
+      "num": 207933,
+      "word": "侃爷上海演唱会官宣",
+      "onboard_time": 1750656861,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 207178,
@@ -891,12 +923,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198264,
+      "num": 198264,
+      "word": "慕胥辞三折叠细节越扒越有",
+      "onboard_time": 1750656803,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197525,
       "num": 197525,
       "word": "杨紫工作室发通报声明",
       "onboard_time": 1750650385,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197097,
+      "num": 197097,
+      "word": "谭松韵蓝水晶公主裙",
+      "onboard_time": 1750657043,
+      "rank": 42,
+      "category": "剧集,时尚"
     },
     {
       "raw_hot": 196472,
@@ -955,6 +1003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189165,
+      "num": 189165,
+      "word": "李一桐新剧被刘宇宁哐哐砸钱",
+      "onboard_time": 1750656742,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188613,
       "num": 188613,
       "word": "聊斋",
@@ -972,7 +1028,7 @@
     },
     {
       "raw_hot": 186060,
-      "num": 186060,
+      "num": 356936,
       "word": "男子奶茶内放精神药品猥亵女子",
       "onboard_time": 1750655065,
       "rank": 44,
@@ -985,6 +1041,14 @@
       "onboard_time": 1750602264,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183108,
+      "num": 183108,
+      "word": "樱桃琥珀",
+      "onboard_time": 1750657463,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 182720,
@@ -1001,6 +1065,14 @@
       "onboard_time": 1750641021,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 180219,
+      "num": 180219,
+      "word": "95岁离休干部被认定为恶势力主犯",
+      "onboard_time": 1750657342,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 178852,
@@ -1179,6 +1251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140938,
+      "num": 378801,
+      "word": "央视揭开直播间开蚌取珠套路",
+      "onboard_time": 1750656083,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 138904,
       "num": 212647,
       "word": "谁懂蜡笔小新看到哭的含金量",
@@ -1259,6 +1339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 124058,
+      "num": 206502,
+      "word": "北大退学上清华男生称因护理被嘲笑",
+      "onboard_time": 1750656861,
+      "rank": 36,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 122176,
       "num": 122176,
       "word": "中学领导侵吞学生伙食费240万元",
@@ -1281,14 +1369,6 @@
       "onboard_time": 1750636400,
       "rank": 48,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 118779,
-      "num": 378801,
-      "word": "央视揭开直播间开蚌取珠套路",
-      "onboard_time": 1750656083,
-      "rank": 19,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 117958,
@@ -1651,6 +1731,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 51320,
+      "num": 253834,
+      "word": "美国母亲被孩子问会发生三战吗",
+      "onboard_time": 1750648103,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 50612,
       "num": 50612,
       "word": "皇马vs帕丘卡",
@@ -1715,6 +1803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31973,
+      "num": 202632,
+      "word": "曼城6比0艾因",
+      "onboard_time": 1750654884,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29488,
       "num": 31065,
       "word": "中国网协祝贺王欣瑜晋级决赛",
@@ -1777,6 +1873,14 @@
       "onboard_time": 1750614504,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 22691,
+      "num": 205220,
+      "word": "胡兵郝允祥又在输出高级东方美学",
+      "onboard_time": 1750657403,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 22404,
