@@ -1,6 +1,6 @@
 {
   "startTime": 1750696476897,
-  "endTime": 1750706497181,
+  "endTime": 1750707468066,
   "band_list": [
     {
       "raw_hot": 1560125,
@@ -139,6 +139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 239421,
+      "num": 239421,
+      "word": "伊朗用对等导弹数量回击美军",
+      "onboard_time": 1750704314,
+      "rank": 6,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 213343,
       "num": 213343,
       "word": "伊朗将对等回应美国",
@@ -161,14 +169,6 @@
       "onboard_time": 1750691483,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 196400,
-      "num": 196400,
-      "word": "伊朗用对等导弹数量回击美军",
-      "onboard_time": 1750704314,
-      "rank": 6,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 166547,
@@ -395,6 +395,14 @@
       "category": "综艺,休闲"
     },
     {
+      "raw_hot": 59274,
+      "num": 36171,
+      "word": "特朗普已至白宫战情室",
+      "onboard_time": 1750705274,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 58895,
       "num": 70017,
       "word": "金秀贤反诉金赛纶方",
@@ -515,14 +523,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 31833,
-      "num": 23932,
-      "word": "特朗普已至白宫战情室",
-      "onboard_time": 1750705274,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 28758,
       "num": 29529,
       "word": "南京先锋书店总店回应门牌突然拆除",
@@ -555,19 +555,19 @@
       "category": "演出"
     },
     {
+      "raw_hot": 23200,
+      "num": 23935,
+      "word": "丁禹兮宋茜cp感",
+      "onboard_time": 1750704675,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 22683,
       "num": 25005,
       "word": "玫瑰丛生",
       "onboard_time": 1750704017,
       "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 20072,
-      "num": 23935,
-      "word": "丁禹兮宋茜cp感",
-      "onboard_time": 1750704675,
-      "rank": 29,
       "category": "剧集"
     },
     {
@@ -579,20 +579,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 18600,
+      "num": 18600,
+      "word": "今天的京津冀有多热",
+      "onboard_time": 1750706593,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18184,
+      "num": 18067,
+      "word": "赖冠霖官宣以导演身份加入万合天宜",
+      "onboard_time": 1750704795,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 17922,
       "num": 46570,
       "word": "这是军人优先的原因",
       "onboard_time": 1750690704,
       "rank": 33,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 17058,
-      "num": 17058,
-      "word": "赖冠霖官宣以导演身份加入万合天宜",
-      "onboard_time": 1750704795,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 12112,
