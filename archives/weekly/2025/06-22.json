@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750663683401,
+  "endTime": 1750664573597,
   "band_list": [
     {
       "raw_hot": 7413013,
@@ -353,6 +353,14 @@
       "onboard_time": 1750556301,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 766271,
+      "num": 766271,
+      "word": "闵塔鲨",
+      "onboard_time": 1750662803,
+      "rank": 9,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 764993,
@@ -763,14 +771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 529825,
-      "num": 529825,
-      "word": "闵塔鲨",
-      "onboard_time": 1750662803,
-      "rank": 9,
-      "category": "时尚,艺人"
-    },
-    {
       "raw_hot": 528976,
       "num": 404205,
       "word": "镖人",
@@ -1003,6 +1003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 440589,
+      "num": 440589,
+      "word": "庆余年3再次升级演员阵容",
+      "onboard_time": 1750663404,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 440360,
       "num": 440360,
       "word": "男方资助女子近65万留学分手后索回",
@@ -1131,6 +1139,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 403894,
+      "num": 403894,
+      "word": "体重开始下降的8个冷知识",
+      "onboard_time": 1750660824,
+      "rank": 27,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 403450,
       "num": 403450,
       "word": "杜兰特被交易至火箭",
@@ -1257,6 +1273,14 @@
       "onboard_time": 1750649903,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 369045,
+      "num": 451629,
+      "word": "清华大学严正声明",
+      "onboard_time": 1750663404,
+      "rank": 34,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 360220,
@@ -1587,14 +1611,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 304450,
-      "num": 304450,
-      "word": "体重开始下降的8个冷知识",
-      "onboard_time": 1750660824,
-      "rank": 27,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 304108,
       "num": 304108,
       "word": "伊朗议会认为应关闭霍尔木兹海峡",
@@ -1705,14 +1721,6 @@
       "onboard_time": 1750651285,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 292879,
-      "num": 319450,
-      "word": "庆余年3再次升级演员阵容",
-      "onboard_time": 1750663404,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 288756,
@@ -2051,6 +2059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 236618,
+      "num": 236618,
+      "word": "贩毒女头目年仅17岁",
+      "onboard_time": 1750664243,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 236355,
       "num": 236355,
       "word": "宋亚轩刘耀文张真源去王力宏演唱会",
@@ -2209,6 +2225,22 @@
       "onboard_time": 1750656383,
       "rank": 31,
       "category": "幽默,互联网"
+    },
+    {
+      "raw_hot": 223655,
+      "num": 223655,
+      "word": "被魏大勋下车视频硬控",
+      "onboard_time": 1750663464,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 222690,
+      "num": 222690,
+      "word": "王安宇胡先煦不打不相识",
+      "onboard_time": 1750663464,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 221848,
@@ -2611,14 +2643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199101,
-      "num": 199101,
-      "word": "被魏大勋下车视频硬控",
-      "onboard_time": 1750663464,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 198337,
       "num": 198337,
       "word": "赴山海剑舞风云版海报",
@@ -2875,8 +2899,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 186705,
-      "num": 186705,
+      "raw_hot": 187328,
+      "num": 187328,
+      "word": "鹅剧派对红毯",
+      "onboard_time": 1750663764,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 187307,
+      "num": 187307,
       "word": "第十代张起灵来了",
       "onboard_time": 1750661124,
       "rank": 42,
@@ -2889,6 +2921,14 @@
       "onboard_time": 1750655065,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186020,
+      "num": 186020,
+      "word": "迪丽热巴发型 张振",
+      "onboard_time": 1750664122,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 185607,
@@ -2945,14 +2985,6 @@
       "onboard_time": 1750602563,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 181455,
-      "num": 181455,
-      "word": "王安宇胡先煦不打不相识",
-      "onboard_time": 1750663464,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 181280,
@@ -3131,14 +3163,6 @@
       "category": "国内时政,军事"
     },
     {
-      "raw_hot": 170599,
-      "num": 170599,
-      "word": "清华大学严正声明",
-      "onboard_time": 1750663404,
-      "rank": 34,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 169808,
       "num": 188058,
       "word": "迪丽热巴斩枭暂停派对启动",
@@ -3209,6 +3233,14 @@
       "onboard_time": 1750640721,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166598,
+      "num": 192235,
+      "word": "江西救护车涉事医院称收到网友锦旗",
+      "onboard_time": 1750663283,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165113,
@@ -3363,12 +3395,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 158165,
+      "num": 158165,
+      "word": "张凌赫田曦薇 离婚感",
+      "onboard_time": 1750664364,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157991,
       "num": 157991,
       "word": "萤火虫漫展",
       "onboard_time": 1750577003,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 157914,
+      "num": 157914,
+      "word": "韦雪儿子送同学labubu",
+      "onboard_time": 1750663404,
+      "rank": 46,
+      "category": "网红"
     },
     {
       "raw_hot": 156919,
@@ -3481,6 +3529,14 @@
       "onboard_time": 1750661063,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151868,
+      "num": 306567,
+      "word": "租户误将水管接燃气管道99户爆表",
+      "onboard_time": 1750663345,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151242,
@@ -3619,6 +3675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145963,
+      "num": 145963,
+      "word": "伊朗继续发导弹",
+      "onboard_time": 1750662144,
+      "rank": 49,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 145564,
       "num": 145564,
       "word": "巩俐与老公合照",
@@ -3667,6 +3731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142958,
+      "num": 142958,
+      "word": "猫 不会喂就别喂",
+      "onboard_time": 1750663283,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142767,
       "num": 142767,
       "word": "苏超赛后球迷自发捡垃圾",
@@ -3689,14 +3761,6 @@
       "onboard_time": 1750595361,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 141799,
-      "num": 141799,
-      "word": "韦雪儿子送同学labubu",
-      "onboard_time": 1750663404,
-      "rank": 46,
-      "category": "网红"
     },
     {
       "raw_hot": 141203,
@@ -3769,14 +3833,6 @@
       "onboard_time": 1750566922,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 137716,
-      "num": 137716,
-      "word": "江西救护车涉事医院称收到网友锦旗",
-      "onboard_time": 1750663283,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 137543,
@@ -3939,14 +3995,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 132127,
-      "num": 132127,
-      "word": "伊朗继续发导弹",
-      "onboard_time": 1750662144,
-      "rank": 49,
-      "category": "国际时政,民生新闻"
-    },
-    {
       "raw_hot": 132113,
       "num": 132113,
       "word": "行止晚",
@@ -4041,6 +4089,14 @@
       "onboard_time": 1750552280,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 126398,
+      "num": 197039,
+      "word": "江西救护车",
+      "onboard_time": 1750663283,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126099,
@@ -4339,14 +4395,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 109460,
-      "num": 197039,
-      "word": "江西救护车",
-      "onboard_time": 1750663283,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 109162,
       "num": 312009,
       "word": "以伊冲突或将波及中东多国",
@@ -4516,7 +4564,7 @@
     },
     {
       "raw_hot": 97367,
-      "num": 412543,
+      "num": 440755,
       "word": "张凌赫辣到嘶哈嘶哈",
       "onboard_time": 1750660763,
       "rank": 34,
@@ -4561,14 +4609,6 @@
       "onboard_time": 1750517605,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 95965,
-      "num": 306567,
-      "word": "租户误将水管接燃气管道99户爆表",
-      "onboard_time": 1750663345,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 95767,
@@ -4641,6 +4681,14 @@
       "onboard_time": 1750573282,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 89463,
+      "num": 363735,
+      "word": "官方回应自贡一小学食堂排骨发臭",
+      "onboard_time": 1750663943,
+      "rank": 14,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 89346,
@@ -4801,6 +4849,14 @@
       "onboard_time": 1750569382,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74805,
+      "num": 157937,
+      "word": "佩服35岁以后坚持健身的人",
+      "onboard_time": 1750664243,
+      "rank": 39,
+      "category": "运动健身"
     },
     {
       "raw_hot": 73891,
@@ -5657,6 +5713,14 @@
       "onboard_time": 1750536733,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 10453,
+      "num": 182402,
+      "word": "众人助18岁截肢女孩登顶泰山",
+      "onboard_time": 1750664483,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9614,

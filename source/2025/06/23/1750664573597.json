@@ -1,0 +1,410 @@
+{
+  "runTime": 1750664573597,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 970415,
+        "num": 1155266,
+        "word": "迪丽热巴工作室 造型",
+        "onboard_time": 1750659263,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 890284,
+        "num": 890284,
+        "word": "男孩中考查分863分数学满分",
+        "onboard_time": 1750658782,
+        "rank": 1,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 60499,
+        "num": 827975,
+        "word": "我国港口货物吞吐量稳居世界第一",
+        "onboard_time": 1750661485,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 766271,
+        "num": 766271,
+        "word": "闵塔鲨",
+        "onboard_time": 1750662803,
+        "rank": 3,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 737345,
+        "num": 737345,
+        "word": "于东来官宣将关闭多家门店",
+        "onboard_time": 1750660403,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 613384,
+        "num": 613384,
+        "word": "朋友圈 评论图片",
+        "onboard_time": 1750658721,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 511410,
+        "num": 511410,
+        "word": "以色列袭击伊朗6个机场",
+        "onboard_time": 1750661783,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 453364,
+        "num": 494227,
+        "word": "黄杨钿甜主演2部新剧将开播",
+        "onboard_time": 1750660284,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483940,
+        "num": 483940,
+        "word": "95岁离休干部被认定为恶势力主犯",
+        "onboard_time": 1750657342,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369045,
+        "num": 451629,
+        "word": "清华大学严正声明",
+        "onboard_time": 1750663404,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 445833,
+        "num": 445833,
+        "word": "珠宝专业就业率100%校领导称很痛苦",
+        "onboard_time": 1750658542,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46041,
+        "num": 440755,
+        "word": "张凌赫辣到嘶哈嘶哈",
+        "onboard_time": 1750660763,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 440589,
+        "num": 440589,
+        "word": "庆余年3再次升级演员阵容",
+        "onboard_time": 1750663404,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 403894,
+        "num": 403894,
+        "word": "体重开始下降的8个冷知识",
+        "onboard_time": 1750660824,
+        "rank": 13,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 89463,
+        "num": 363735,
+        "word": "官方回应自贡一小学食堂排骨发臭",
+        "onboard_time": 1750663943,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 347460,
+        "num": 347460,
+        "word": "刘学义孟子义看起来差辈了",
+        "onboard_time": 1750660584,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 318024,
+        "num": 318024,
+        "word": "高考成绩",
+        "onboard_time": 1750661724,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 294901,
+        "num": 294901,
+        "word": "男子发病身亡压死出生仅3个月儿子",
+        "onboard_time": 1750645161,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 290498,
+        "num": 290498,
+        "word": "酱园弄口碑 两极分化",
+        "onboard_time": 1750660523,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 290002,
+        "num": 290002,
+        "word": "美军用超125架战机作诱饵打击伊朗",
+        "onboard_time": 1750658664,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 266677,
+        "num": 266677,
+        "word": "王勉被网友当面追问恋情",
+        "onboard_time": 1750660102,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236618,
+        "num": 236618,
+        "word": "贩毒女头目年仅17岁",
+        "onboard_time": 1750664243,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223655,
+        "num": 223655,
+        "word": "被魏大勋下车视频硬控",
+        "onboard_time": 1750663464,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151868,
+        "num": 223485,
+        "word": "租户误将水管接燃气管道99户爆表",
+        "onboard_time": 1750663345,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223444,
+        "num": 223444,
+        "word": "国产剧终于有了禁欲系古偶",
+        "onboard_time": 1750661783,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222690,
+        "num": 222690,
+        "word": "王安宇胡先煦不打不相识",
+        "onboard_time": 1750663464,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210804,
+        "num": 210804,
+        "word": "白鹿丞磊牵手走红毯",
+        "onboard_time": 1750660944,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206751,
+        "num": 206751,
+        "word": "抗战胜利80周年纪念活动预告",
+        "onboard_time": 1750655003,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 203961,
+        "num": 203961,
+        "word": "地铁 岔腿坐",
+        "onboard_time": 1750662324,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194410,
+        "num": 194410,
+        "word": "19岁智力残疾女孩遭性侵产女",
+        "onboard_time": 1750662384,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166598,
+        "num": 192235,
+        "word": "江西救护车涉事医院称收到网友锦旗",
+        "onboard_time": 1750663283,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190234,
+        "num": 190234,
+        "word": "杨若天再次道歉",
+        "onboard_time": 1750660643,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190033,
+        "num": 190033,
+        "word": "腾讯招商大会",
+        "onboard_time": 1750652185,
+        "rank": 32,
+        "category": "互联网,作品衍生"
+      },
+      {
+        "raw_hot": 187328,
+        "num": 187328,
+        "word": "鹅剧派对红毯",
+        "onboard_time": 1750663764,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187307,
+        "num": 187307,
+        "word": "第十代张起灵来了",
+        "onboard_time": 1750661124,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186020,
+        "num": 186020,
+        "word": "迪丽热巴发型 张振",
+        "onboard_time": 1750664122,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10453,
+        "num": 182402,
+        "word": "众人助18岁截肢女孩登顶泰山",
+        "onboard_time": 1750664483,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180298,
+        "num": 180298,
+        "word": "EDG申请执行Scout3351万",
+        "onboard_time": 1750651643,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 158165,
+        "num": 158165,
+        "word": "张凌赫田曦薇 离婚感",
+        "onboard_time": 1750664364,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74805,
+        "num": 157937,
+        "word": "佩服35岁以后坚持健身的人",
+        "onboard_time": 1750664243,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 157914,
+        "num": 157914,
+        "word": "韦雪儿子送同学labubu",
+        "onboard_time": 1750663404,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 157463,
+        "num": 157463,
+        "word": "女生喝冰咖啡严重腹泻拉到脱水",
+        "onboard_time": 1750661964,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151241,
+        "num": 151241,
+        "word": "张若昀发文回应庆余年3",
+        "onboard_time": 1750649963,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146378,
+        "num": 146378,
+        "word": "用了很久苹果手机才发现的功能",
+        "onboard_time": 1750654224,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 145963,
+        "num": 145963,
+        "word": "伊朗继续发导弹",
+        "onboard_time": 1750662144,
+        "rank": 44,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 126398,
+        "num": 143774,
+        "word": "江西救护车",
+        "onboard_time": 1750663283,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142958,
+        "num": 142958,
+        "word": "猫 不会喂就别喂",
+        "onboard_time": 1750663283,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137479,
+        "num": 137479,
+        "word": "我爸因为懒得理人装了二十年耳朵不好",
+        "onboard_time": 1750662263,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135291,
+        "num": 135291,
+        "word": "特朗普称正在敦促伊朗领导人同意结束战争",
+        "onboard_time": 1750657642,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126946,
+        "num": 126946,
+        "word": "刘学义等谭松韵 新郎等新娘",
+        "onboard_time": 1750661424,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国人要把饭碗端在自己手里#"
+    }
+  }
+}

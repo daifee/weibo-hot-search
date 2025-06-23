@@ -1,6 +1,6 @@
 {
   "startTime": 1750609820904,
-  "endTime": 1750663683401,
+  "endTime": 1750664573597,
   "band_list": [
     {
       "raw_hot": 1602224,
@@ -145,6 +145,14 @@
       "onboard_time": 1750646063,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 766271,
+      "num": 766271,
+      "word": "闵塔鲨",
+      "onboard_time": 1750662803,
+      "rank": 9,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 764993,
@@ -339,14 +347,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 529825,
-      "num": 529825,
-      "word": "闵塔鲨",
-      "onboard_time": 1750662803,
-      "rank": 9,
-      "category": "时尚,艺人"
-    },
-    {
       "raw_hot": 518686,
       "num": 534998,
       "word": "黄杨钿甜主演2部新剧将开播",
@@ -403,6 +403,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 440589,
+      "num": 440589,
+      "word": "庆余年3再次升级演员阵容",
+      "onboard_time": 1750663404,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 437942,
       "num": 148767,
       "word": "宋祖儿第二套高定",
@@ -457,6 +465,14 @@
       "onboard_time": 1750606523,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 403894,
+      "num": 403894,
+      "word": "体重开始下降的8个冷知识",
+      "onboard_time": 1750660824,
+      "rank": 27,
+      "category": "运动健身"
     },
     {
       "raw_hot": 403450,
@@ -521,6 +537,14 @@
       "onboard_time": 1750649903,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 369045,
+      "num": 451629,
+      "word": "清华大学严正声明",
+      "onboard_time": 1750663404,
+      "rank": 34,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 360220,
@@ -675,14 +699,6 @@
       "category": "幽默,动漫"
     },
     {
-      "raw_hot": 304450,
-      "num": 304450,
-      "word": "体重开始下降的8个冷知识",
-      "onboard_time": 1750660824,
-      "rank": 27,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 299926,
       "num": 299926,
       "word": "关晓彤刘涛首个轻喜剧作品",
@@ -713,14 +729,6 @@
       "onboard_time": 1750651285,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 292879,
-      "num": 319450,
-      "word": "庆余年3再次升级演员阵容",
-      "onboard_time": 1750663404,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 287569,
@@ -923,6 +931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 236618,
+      "num": 236618,
+      "word": "贩毒女头目年仅17岁",
+      "onboard_time": 1750664243,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 235077,
       "num": 235077,
       "word": "伊朗外长抵达俄罗斯",
@@ -993,6 +1009,22 @@
       "onboard_time": 1750656383,
       "rank": 31,
       "category": "幽默,互联网"
+    },
+    {
+      "raw_hot": 223655,
+      "num": 223655,
+      "word": "被魏大勋下车视频硬控",
+      "onboard_time": 1750663464,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 222690,
+      "num": 222690,
+      "word": "王安宇胡先煦不打不相识",
+      "onboard_time": 1750663464,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 221848,
@@ -1147,14 +1179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199101,
-      "num": 199101,
-      "word": "被魏大勋下车视频硬控",
-      "onboard_time": 1750663464,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 198337,
       "num": 198337,
       "word": "赴山海剑舞风云版海报",
@@ -1283,8 +1307,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 186705,
-      "num": 186705,
+      "raw_hot": 187328,
+      "num": 187328,
+      "word": "鹅剧派对红毯",
+      "onboard_time": 1750663764,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 187307,
+      "num": 187307,
       "word": "第十代张起灵来了",
       "onboard_time": 1750661124,
       "rank": 42,
@@ -1297,6 +1329,14 @@
       "onboard_time": 1750655065,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186020,
+      "num": 186020,
+      "word": "迪丽热巴发型 张振",
+      "onboard_time": 1750664122,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 185413,
@@ -1321,14 +1361,6 @@
       "onboard_time": 1750662263,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 181455,
-      "num": 181455,
-      "word": "王安宇胡先煦不打不相识",
-      "onboard_time": 1750663464,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 180398,
@@ -1395,14 +1427,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 170599,
-      "num": 170599,
-      "word": "清华大学严正声明",
-      "onboard_time": 1750663404,
-      "rank": 34,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 169403,
       "num": 169403,
       "word": "女生喝冰咖啡严重腹泻拉到脱水",
@@ -1425,6 +1449,14 @@
       "onboard_time": 1750640721,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166598,
+      "num": 192235,
+      "word": "江西救护车涉事医院称收到网友锦旗",
+      "onboard_time": 1750663283,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162511,
@@ -1467,6 +1499,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158165,
+      "num": 158165,
+      "word": "张凌赫田曦薇 离婚感",
+      "onboard_time": 1750664364,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 157914,
+      "num": 157914,
+      "word": "韦雪儿子送同学labubu",
+      "onboard_time": 1750663404,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
       "raw_hot": 155543,
       "num": 179616,
       "word": "男子奸杀7岁女童前欠网贷心生烦躁",
@@ -1499,6 +1547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151868,
+      "num": 306567,
+      "word": "租户误将水管接燃气管道99户爆表",
+      "onboard_time": 1750663345,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148284,
       "num": 148284,
       "word": "伊朗德黑兰爆发大规模反美反以抗议",
@@ -1521,6 +1577,14 @@
       "onboard_time": 1750663105,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145963,
+      "num": 145963,
+      "word": "伊朗继续发导弹",
+      "onboard_time": 1750662144,
+      "rank": 49,
+      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 144725,
@@ -1547,20 +1611,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 142958,
+      "num": 142958,
+      "word": "猫 不会喂就别喂",
+      "onboard_time": 1750663283,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142191,
       "num": 220442,
       "word": "真是一场酣畅淋漓的雄竞",
       "onboard_time": 1750650262,
       "rank": 39,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 141799,
-      "num": 141799,
-      "word": "韦雪儿子送同学labubu",
-      "onboard_time": 1750663404,
-      "rank": 46,
-      "category": "网红"
     },
     {
       "raw_hot": 141475,
@@ -1603,14 +1667,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 137716,
-      "num": 137716,
-      "word": "江西救护车涉事医院称收到网友锦旗",
-      "onboard_time": 1750663283,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 137368,
       "num": 408572,
       "word": "美袭伊紧急会议以色列代表一直玩手机",
@@ -1651,14 +1707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132127,
-      "num": 132127,
-      "word": "伊朗继续发导弹",
-      "onboard_time": 1750662144,
-      "rank": 49,
-      "category": "国际时政,民生新闻"
-    },
-    {
       "raw_hot": 130579,
       "num": 233357,
       "word": "王欣瑜无缘温网种子",
@@ -1681,6 +1729,14 @@
       "onboard_time": 1750634540,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126398,
+      "num": 197039,
+      "word": "江西救护车",
+      "onboard_time": 1750663283,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125596,
@@ -1763,14 +1819,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 109460,
-      "num": 197039,
-      "word": "江西救护车",
-      "onboard_time": 1750663283,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 107922,
       "num": 329835,
       "word": "中国强烈谴责美国袭击伊朗",
@@ -1828,19 +1876,11 @@
     },
     {
       "raw_hot": 97367,
-      "num": 412543,
+      "num": 440755,
       "word": "张凌赫辣到嘶哈嘶哈",
       "onboard_time": 1750660763,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 95965,
-      "num": 306567,
-      "word": "租户误将水管接燃气管道99户爆表",
-      "onboard_time": 1750663345,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 94324,
@@ -1857,6 +1897,14 @@
       "onboard_time": 1750595302,
       "rank": 36,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 89463,
+      "num": 363735,
+      "word": "官方回应自贡一小学食堂排骨发臭",
+      "onboard_time": 1750663943,
+      "rank": 14,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 88460,
@@ -1993,6 +2041,14 @@
       "onboard_time": 1750595902,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74805,
+      "num": 157937,
+      "word": "佩服35岁以后坚持健身的人",
+      "onboard_time": 1750664243,
+      "rank": 39,
+      "category": "运动健身"
     },
     {
       "raw_hot": 73891,
@@ -2409,6 +2465,14 @@
       "onboard_time": 1750624393,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 10453,
+      "num": 182402,
+      "word": "众人助18岁截肢女孩登顶泰山",
+      "onboard_time": 1750664483,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9614,

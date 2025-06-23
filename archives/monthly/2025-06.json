@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750663683401,
+  "endTime": 1750664573597,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -5931,6 +5931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 766271,
+      "num": 766271,
+      "word": "闵塔鲨",
+      "onboard_time": 1750662803,
+      "rank": 9,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 765836,
       "num": 765836,
       "word": "临江仙开播",
@@ -10251,14 +10259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 529825,
-      "num": 529825,
-      "word": "闵塔鲨",
-      "onboard_time": 1750662803,
-      "rank": 9,
-      "category": "时尚,艺人"
-    },
-    {
       "raw_hot": 528945,
       "num": 528945,
       "word": "美航母驶向中东并关闭位置信息",
@@ -12715,6 +12715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 440589,
+      "num": 440589,
+      "word": "庆余年3再次升级演员阵容",
+      "onboard_time": 1750663404,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 440456,
       "num": 440456,
       "word": "iG战胜WBG",
@@ -14105,6 +14113,14 @@
       "onboard_time": 1748747840,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 403894,
+      "num": 403894,
+      "word": "体重开始下降的8个冷知识",
+      "onboard_time": 1750660824,
+      "rank": 27,
+      "category": "运动健身"
     },
     {
       "raw_hot": 403829,
@@ -15537,6 +15553,14 @@
       "onboard_time": 1750262902,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 369045,
+      "num": 451629,
+      "word": "清华大学严正声明",
+      "onboard_time": 1750663404,
+      "rank": 34,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 368895,
@@ -19027,14 +19051,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 304450,
-      "num": 304450,
-      "word": "体重开始下降的8个冷知识",
-      "onboard_time": 1750660824,
-      "rank": 27,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 304402,
       "num": 304402,
       "word": "labubu炸虾",
@@ -19825,14 +19841,6 @@
       "onboard_time": 1750172662,
       "rank": 20,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 292879,
-      "num": 319450,
-      "word": "庆余年3再次升级演员阵容",
-      "onboard_time": 1750663404,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 292767,
@@ -24483,6 +24491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 236618,
+      "num": 236618,
+      "word": "贩毒女头目年仅17岁",
+      "onboard_time": 1750664243,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 236375,
       "num": 236375,
       "word": "跑男",
@@ -26211,6 +26227,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 223655,
+      "num": 223655,
+      "word": "被魏大勋下车视频硬控",
+      "onboard_time": 1750663464,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223625,
       "num": 282869,
       "word": "李晟给姐姐们的情书",
@@ -26321,6 +26345,14 @@
       "onboard_time": 1750412001,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 222690,
+      "num": 222690,
+      "word": "王安宇胡先煦不打不相识",
+      "onboard_time": 1750663464,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 222654,
@@ -30923,14 +30955,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 199101,
-      "num": 199101,
-      "word": "被魏大勋下车视频硬控",
-      "onboard_time": 1750663464,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 199088,
       "num": 337083,
       "word": "姜云升 新说唱",
@@ -34155,6 +34179,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187328,
+      "num": 187328,
+      "word": "鹅剧派对红毯",
+      "onboard_time": 1750663764,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 187307,
+      "num": 187307,
+      "word": "第十代张起灵来了",
+      "onboard_time": 1750661124,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187223,
       "num": 187223,
       "word": "GEN对战HLE",
@@ -34337,14 +34377,6 @@
       "onboard_time": 1749804742,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 186705,
-      "num": 186705,
-      "word": "第十代张起灵来了",
-      "onboard_time": 1750661124,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 186703,
@@ -34561,6 +34593,14 @@
       "onboard_time": 1749629962,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186020,
+      "num": 186020,
+      "word": "迪丽热巴发型 张振",
+      "onboard_time": 1750664122,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 185968,
@@ -35736,14 +35776,6 @@
       "word": "侯佩岑在线找工作",
       "onboard_time": 1749349519,
       "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 181455,
-      "num": 181455,
-      "word": "王安宇胡先煦不打不相识",
-      "onboard_time": 1750663464,
-      "rank": 33,
       "category": "综艺"
     },
     {
@@ -38515,14 +38547,6 @@
       "category": "休闲,民生新闻"
     },
     {
-      "raw_hot": 170599,
-      "num": 170599,
-      "word": "清华大学严正声明",
-      "onboard_time": 1750663404,
-      "rank": 34,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 170568,
       "num": 185018,
       "word": "肖战带病坚持拍摄藏海传",
@@ -39745,6 +39769,14 @@
       "onboard_time": 1750343003,
       "rank": 49,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 166598,
+      "num": 192235,
+      "word": "江西救护车涉事医院称收到网友锦旗",
+      "onboard_time": 1750663283,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166514,
@@ -42179,6 +42211,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 158165,
+      "num": 158165,
+      "word": "张凌赫田曦薇 离婚感",
+      "onboard_time": 1750664364,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158137,
       "num": 187417,
       "word": "我国带癌五年生存率提升至43.7%",
@@ -42257,6 +42297,14 @@
       "onboard_time": 1750044742,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157914,
+      "num": 157914,
+      "word": "韦雪儿子送同学labubu",
+      "onboard_time": 1750663404,
+      "rank": 46,
+      "category": "网红"
     },
     {
       "raw_hot": 157892,
@@ -44049,6 +44097,14 @@
       "onboard_time": 1749989061,
       "rank": 18,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 151868,
+      "num": 306567,
+      "word": "租户误将水管接燃气管道99户爆表",
+      "onboard_time": 1750663345,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151856,
@@ -46043,6 +46099,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 145963,
+      "num": 145963,
+      "word": "伊朗继续发导弹",
+      "onboard_time": 1750662144,
+      "rank": 49,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 145957,
       "num": 145957,
       "word": "李昀锐衣服上的小森林",
@@ -47155,6 +47219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142958,
+      "num": 142958,
+      "word": "猫 不会喂就别喂",
+      "onboard_time": 1750663283,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142938,
       "num": 142938,
       "word": "断眉演唱会",
@@ -47513,14 +47585,6 @@
       "onboard_time": 1748787501,
       "rank": 44,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 141799,
-      "num": 141799,
-      "word": "韦雪儿子送同学labubu",
-      "onboard_time": 1750663404,
-      "rank": 46,
-      "category": "网红"
     },
     {
       "raw_hot": 141778,
@@ -48945,14 +49009,6 @@
       "onboard_time": 1750337962,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 137716,
-      "num": 137716,
-      "word": "江西救护车涉事医院称收到网友锦旗",
-      "onboard_time": 1750663283,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 137696,
@@ -51057,14 +51113,6 @@
       "onboard_time": 1749619341,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 132127,
-      "num": 132127,
-      "word": "伊朗继续发导弹",
-      "onboard_time": 1750662144,
-      "rank": 49,
-      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 132113,
@@ -53209,6 +53257,14 @@
       "onboard_time": 1749695781,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 126398,
+      "num": 197039,
+      "word": "江西救护车",
+      "onboard_time": 1750663283,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126388,
@@ -59131,14 +59187,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 109460,
-      "num": 197039,
-      "word": "江西救护车",
-      "onboard_time": 1750663283,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 109438,
       "num": 109438,
       "word": "Red打歌",
@@ -62252,7 +62300,7 @@
     },
     {
       "raw_hot": 97367,
-      "num": 412543,
+      "num": 440755,
       "word": "张凌赫辣到嘶哈嘶哈",
       "onboard_time": 1750660763,
       "rank": 34,
@@ -62593,14 +62641,6 @@
       "onboard_time": 1749715701,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 95965,
-      "num": 306567,
-      "word": "租户误将水管接燃气管道99户爆表",
-      "onboard_time": 1750663345,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 95964,
@@ -64113,6 +64153,14 @@
       "onboard_time": 1749659959,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 89463,
+      "num": 363735,
+      "word": "官方回应自贡一小学食堂排骨发臭",
+      "onboard_time": 1750663943,
+      "rank": 14,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 89454,
@@ -66865,6 +66913,14 @@
       "onboard_time": 1749971599,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 74805,
+      "num": 157937,
+      "word": "佩服35岁以后坚持健身的人",
+      "onboard_time": 1750664243,
+      "rank": 39,
+      "category": "运动健身"
     },
     {
       "raw_hot": 74738,
@@ -83137,6 +83193,14 @@
       "onboard_time": 1749703641,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 10453,
+      "num": 182402,
+      "word": "众人助18岁截肢女孩登顶泰山",
+      "onboard_time": 1750664483,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10432,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/23 15:28:03
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/23 15:42:53
 </p>
 </blockquote>
 <p>
@@ -4461,6 +4461,12 @@ T3司机猥亵大三女生被行拘5日（热度：810171）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%97%B5%E5%A1%94%E9%B2%A8%23" target="weibo">
+闵塔鲨（热度：766271）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%B4%E6%B1%9F%E4%BB%99%E5%BC%80%E6%92%AD%23" target="weibo">
 临江仙开播（热度：765836）
 </a>
@@ -6005,12 +6011,6 @@ Bin 闹剧结束了（热度：638394）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E8%88%9C%E6%99%9E%E6%96%B0%E5%89%A7%E8%A2%AB%E5%89%8D%E5%A6%BB%E5%81%9A%E5%B1%80%E4%BA%86%23" target="weibo">
 曾舜晞新剧被前妻做局了（热度：633623）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8B%E8%BE%88%E5%AD%90%E7%AC%AC%E4%B8%80%E5%BF%97%E6%84%BF%E4%B8%A5%E8%8E%89%E8%8E%89%23" target="weibo">
-下辈子第一志愿严莉莉（热度：632789）
 </a>
 </li>
 
