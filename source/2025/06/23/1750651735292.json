@@ -1,0 +1,410 @@
+{
+  "runTime": 1750651735292,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1084073,
+        "num": 1173451,
+        "word": "豆包p丑 无人生还",
+        "onboard_time": 1750644440,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 989773,
+        "num": 989773,
+        "word": "张若昀发文回应庆余年3",
+        "onboard_time": 1750649963,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72383,
+        "num": 738099,
+        "word": "护网2025网安局提醒警惕银狐病毒来袭",
+        "onboard_time": 1750641081,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1140670,
+        "num": 729000,
+        "word": "中南财大副教授遭精神病人杀害",
+        "onboard_time": 1750646304,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 700960,
+        "num": 700960,
+        "word": "终于知道婴儿为啥爱出门遛弯了",
+        "onboard_time": 1750649243,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1584377,
+        "num": 699460,
+        "word": "祝绪丹告别嘉行",
+        "onboard_time": 1750646242,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 677010,
+        "num": 677010,
+        "word": "慕胥辞迪丽热巴陈飞宇领衔主演",
+        "onboard_time": 1750649604,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 674704,
+        "num": 674704,
+        "word": "小米YU7流金粉",
+        "onboard_time": 1750649843,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 672601,
+        "num": 672601,
+        "word": "庆余年3首发概念海报",
+        "onboard_time": 1750644682,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 379642,
+        "num": 655870,
+        "word": "女子网恋20天被骗近600万",
+        "onboard_time": 1750649423,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1018562,
+        "num": 631824,
+        "word": "男子发病身亡压死出生仅3个月儿子",
+        "onboard_time": 1750645161,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 787545,
+        "num": 602244,
+        "word": "张杰不想去歌手的原因",
+        "onboard_time": 1750646063,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 723239,
+        "num": 583685,
+        "word": "林允有阴湿那味儿了",
+        "onboard_time": 1750647083,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 703106,
+        "num": 548836,
+        "word": "伊朗火力全开",
+        "onboard_time": 1750640481,
+        "rank": 13,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 395143,
+        "num": 531547,
+        "word": "奶茶冰块 脏",
+        "onboard_time": 1750643601,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 523073,
+        "num": 523073,
+        "word": "以色列媒体开骂",
+        "onboard_time": 1750646123,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 496542,
+        "num": 496542,
+        "word": "骄阳似我",
+        "onboard_time": 1750645641,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 390553,
+        "num": 390553,
+        "word": "张艺谋刘浩存再合作",
+        "onboard_time": 1750643781,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 371808,
+        "num": 371808,
+        "word": "祝绪丹个人工作室",
+        "onboard_time": 1750649903,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56885,
+        "num": 362828,
+        "word": "医生说读兽医专业好就业",
+        "onboard_time": 1750651285,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 360358,
+        "num": 360358,
+        "word": "特朗普称让伊朗再次伟大",
+        "onboard_time": 1750638742,
+        "rank": 20,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 351806,
+        "num": 351806,
+        "word": "鹅厂2025大剧片单",
+        "onboard_time": 1750643481,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 349974,
+        "num": 349974,
+        "word": "法国发现新血型全球仅一人",
+        "onboard_time": 1750650864,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 347727,
+        "num": 347727,
+        "word": "亚历山大FMVP",
+        "onboard_time": 1750648581,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157798,
+        "num": 335678,
+        "word": "小米YU7是先进SUV",
+        "onboard_time": 1750649604,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 332918,
+        "num": 332918,
+        "word": "问心2官宣",
+        "onboard_time": 1750651164,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304591,
+        "num": 330608,
+        "word": "NBA七年七个总冠军",
+        "onboard_time": 1750649783,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 329697,
+        "num": 329697,
+        "word": "花开锦绣官宣丁禹兮邓恩熙",
+        "onboard_time": 1750650442,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73891,
+        "num": 316693,
+        "word": "王骁卡萨帝质感对味了",
+        "onboard_time": 1750651583,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226318,
+        "num": 308221,
+        "word": "被冯绍峰版狄仁杰吓到了",
+        "onboard_time": 1750650983,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307331,
+        "num": 307331,
+        "word": "你的名字 韦一敏",
+        "onboard_time": 1750646783,
+        "rank": 30,
+        "category": "幽默,动漫"
+      },
+      {
+        "raw_hot": 70673,
+        "num": 303652,
+        "word": "白血病百万新药好医保能报了",
+        "onboard_time": 1750651583,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 300775,
+        "num": 300775,
+        "word": "雷霆总冠军",
+        "onboard_time": 1750647742,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 299926,
+        "num": 299926,
+        "word": "关晓彤刘涛首个轻喜剧作品",
+        "onboard_time": 1750649662,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294429,
+        "num": 294429,
+        "word": "杨幂演技",
+        "onboard_time": 1750650323,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 277416,
+        "num": 277416,
+        "word": "雷军宣布面向下个时代的智能设备",
+        "onboard_time": 1750646063,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 263153,
+        "num": 263153,
+        "word": "终于有剧拍了五代十国",
+        "onboard_time": 1750646783,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259011,
+        "num": 259011,
+        "word": "硬座 结膜炎",
+        "onboard_time": 1750643181,
+        "rank": 37,
+        "category": "民生新闻,议题讨论"
+      },
+      {
+        "raw_hot": 254312,
+        "num": 254312,
+        "word": "北京奥运时孙颖莎打球才不到3年",
+        "onboard_time": 1750648223,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66530,
+        "num": 250706,
+        "word": "埃切维里任意球破门",
+        "onboard_time": 1750651583,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249386,
+        "num": 249386,
+        "word": "第五人格",
+        "onboard_time": 1750651342,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 248478,
+        "num": 248478,
+        "word": "高考查分",
+        "onboard_time": 1750637002,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 233842,
+        "num": 233842,
+        "word": "赴山海",
+        "onboard_time": 1750645522,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229632,
+        "num": 229632,
+        "word": "全世界学历最高的labubu来了",
+        "onboard_time": 1750641980,
+        "rank": 43,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 224562,
+        "num": 224562,
+        "word": "终于知道为什么说同学都是人脉了",
+        "onboard_time": 1750650562,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217958,
+        "num": 217958,
+        "word": "60岁大爷内衣袜子混洗感染股癣",
+        "onboard_time": 1750651285,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193450,
+        "num": 193450,
+        "word": "EDG申请执行Scout3351万",
+        "onboard_time": 1750651643,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 192309,
+        "num": 192309,
+        "word": "荔枝 塑料味",
+        "onboard_time": 1750651404,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175838,
+        "num": 175838,
+        "word": "登陆少年与金钟仁同框",
+        "onboard_time": 1750649243,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175800,
+        "num": 175800,
+        "word": "美团优选",
+        "onboard_time": 1750651524,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#丝路友谊偕行致远#"
+    }
+  }
+}
