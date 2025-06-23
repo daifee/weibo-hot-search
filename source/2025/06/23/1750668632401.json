@@ -1,0 +1,410 @@
+{
+  "runTime": 1750668632401,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2335242,
+        "num": 2335242,
+        "word": "贩毒女头目年仅17岁",
+        "onboard_time": 1750664243,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1380556,
+        "num": 1380556,
+        "word": "迪丽热巴 怕大家忘了我的脸",
+        "onboard_time": 1750666824,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26142,
+        "num": 1085704,
+        "word": "中国水上夏收好丰景",
+        "onboard_time": 1750667904,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1031091,
+        "num": 1031091,
+        "word": "张凌赫田曦薇 离婚感",
+        "onboard_time": 1750664364,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 625004,
+        "num": 625004,
+        "word": "男孩中考查分863分数学满分",
+        "onboard_time": 1750658782,
+        "rank": 4,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 448193,
+        "num": 561680,
+        "word": "以色列袭击伊朗6个机场",
+        "onboard_time": 1750661783,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 549882,
+        "num": 549882,
+        "word": "陈奕迅女儿陈康堤出道",
+        "onboard_time": 1750665804,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 490716,
+        "num": 490716,
+        "word": "庆余年3再次升级演员阵容",
+        "onboard_time": 1750663404,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 362182,
+        "num": 362182,
+        "word": "于东来官宣将关闭多家门店",
+        "onboard_time": 1750660403,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 354021,
+        "num": 354021,
+        "word": "江西救护车涉事医院称收到网友锦旗",
+        "onboard_time": 1750663283,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2311309,
+        "num": 353680,
+        "word": "宋佳结婚了",
+        "onboard_time": 1750665144,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1081884,
+        "num": 352933,
+        "word": "魏大勋接秦岚回家",
+        "onboard_time": 1750665144,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 518775,
+        "num": 352636,
+        "word": "仅次于以色列",
+        "onboard_time": 1750665923,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 388950,
+        "num": 351722,
+        "word": "迪丽热巴工作室 造型",
+        "onboard_time": 1750659263,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371256,
+        "num": 351257,
+        "word": "原来绝经不是突然不来月经了",
+        "onboard_time": 1750667003,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 491934,
+        "num": 350679,
+        "word": "宋佳 陈龙",
+        "onboard_time": 1750665144,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350104,
+        "num": 350104,
+        "word": "枭起青壤",
+        "onboard_time": 1750665684,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 341842,
+        "num": 341842,
+        "word": "李敏镐从未回春",
+        "onboard_time": 1750667123,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 295136,
+        "num": 295136,
+        "word": "刘诗诗穿得好闪",
+        "onboard_time": 1750667003,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78379,
+        "num": 281946,
+        "word": "韦雪儿子送同学labubu",
+        "onboard_time": 1750663404,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 272598,
+        "num": 272598,
+        "word": "电视台主持人转行做擦边主播",
+        "onboard_time": 1750666345,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251192,
+        "num": 251192,
+        "word": "雷军回应何时造油车",
+        "onboard_time": 1750667843,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 247495,
+        "num": 247495,
+        "word": "朋友圈 评论图片",
+        "onboard_time": 1750658721,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 223381,
+        "num": 223381,
+        "word": "体重开始下降的8个冷知识",
+        "onboard_time": 1750660824,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 141011,
+        "num": 220889,
+        "word": "选志愿听张朝阳还是张雪峰",
+        "onboard_time": 1750665204,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 196057,
+        "num": 215600,
+        "word": "这竟然是王子文",
+        "onboard_time": 1750664904,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147334,
+        "num": 212043,
+        "word": "刘学义孟子义看起来差辈了",
+        "onboard_time": 1750660584,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49857,
+        "num": 207837,
+        "word": "Labubu画作140万成交",
+        "onboard_time": 1750668443,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206893,
+        "num": 206893,
+        "word": "清华大学严正声明",
+        "onboard_time": 1750663404,
+        "rank": 28,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 29598,
+        "num": 205838,
+        "word": "男司仪多次叫错新郎名字还拒退全款",
+        "onboard_time": 1750668144,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142525,
+        "num": 204829,
+        "word": "杨若天再次道歉",
+        "onboard_time": 1750660643,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69270,
+        "num": 204204,
+        "word": "40度高温天要来了",
+        "onboard_time": 1750668384,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211844,
+        "num": 203207,
+        "word": "20岁女生确诊胃癌后的三个月",
+        "onboard_time": 1750667364,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202038,
+        "num": 202038,
+        "word": "存钱和不存钱过的是两种人生",
+        "onboard_time": 1750666884,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191640,
+        "num": 191640,
+        "word": "Labubu 苏大强版",
+        "onboard_time": 1750665804,
+        "rank": 34,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 190888,
+        "num": 190888,
+        "word": "现代版农夫与蛇",
+        "onboard_time": 1750665684,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173585,
+        "num": 173585,
+        "word": "19岁智力残疾女孩遭性侵产女",
+        "onboard_time": 1750662384,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170624,
+        "num": 170624,
+        "word": "雷军祝贺BMW夺冠",
+        "onboard_time": 1750667484,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 148130,
+        "num": 165640,
+        "word": "今夕赫夕",
+        "onboard_time": 1750668443,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33697,
+        "num": 162404,
+        "word": "绝区零橘福福",
+        "onboard_time": 1750667603,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162040,
+        "num": 162040,
+        "word": "清华经管学院院长曹玉磊是假的",
+        "onboard_time": 1750667003,
+        "rank": 40,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 41479,
+        "num": 160419,
+        "word": "14岁少年的一个月独居实验",
+        "onboard_time": 1750667304,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158893,
+        "num": 158893,
+        "word": "地铁 岔腿坐",
+        "onboard_time": 1750662324,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148823,
+        "num": 148823,
+        "word": "男子发病身亡压死出生仅3个月儿子",
+        "onboard_time": 1750645161,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 143393,
+        "num": 143393,
+        "word": "什么性格的人更适合当老师",
+        "onboard_time": 1750667723,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142282,
+        "num": 142282,
+        "word": "对何炅年龄有了实感",
+        "onboard_time": 1750665264,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137310,
+        "num": 137310,
+        "word": "于正回应行止晚取消官宣",
+        "onboard_time": 1750668504,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136396,
+        "num": 136396,
+        "word": "严浩翔帮唱舞台邀请王嘉尔改编",
+        "onboard_time": 1750668564,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136107,
+        "num": 136107,
+        "word": "小伙爱掏耳耳洞里长出小蘑菇",
+        "onboard_time": 1750667963,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135100,
+        "num": 135100,
+        "word": "美军用超125架战机作诱饵打击伊朗",
+        "onboard_time": 1750658664,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同志在闽金融论述与实践启示#"
+    }
+  }
+}
