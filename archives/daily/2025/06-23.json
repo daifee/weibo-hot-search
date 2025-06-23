@@ -1,6 +1,6 @@
 {
   "startTime": 1750609820904,
-  "endTime": 1750657517656,
+  "endTime": 1750660782514,
   "band_list": [
     {
       "raw_hot": 1602224,
@@ -8,6 +8,14 @@
       "word": "祝绪丹告别嘉行",
       "onboard_time": 1750646242,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1598220,
+      "num": 1598220,
+      "word": "迪丽热巴工作室 造型",
+      "onboard_time": 1750659263,
+      "rank": 0,
       "category": "艺人"
     },
     {
@@ -25,6 +33,22 @@
       "onboard_time": 1750649963,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1388641,
+      "num": 1388641,
+      "word": "95岁离休干部被认定为恶势力主犯",
+      "onboard_time": 1750657342,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1226449,
+      "num": 1226449,
+      "word": "男孩中考查分863分数学满分",
+      "onboard_time": 1750658782,
+      "rank": 2,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 1199931,
@@ -97,6 +121,14 @@
       "onboard_time": 1750585942,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 811178,
+      "num": 345098,
+      "word": "美团优选关闭",
+      "onboard_time": 1750658003,
+      "rank": 10,
+      "category": "互联网"
     },
     {
       "raw_hot": 800867,
@@ -235,12 +267,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 602904,
+      "num": 602904,
+      "word": "朋友圈 评论图片",
+      "onboard_time": 1750658721,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 599720,
       "num": 599720,
       "word": "李晟被泼李佳航坐不住了",
       "onboard_time": 1750634178,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 597004,
+      "num": 597004,
+      "word": "珠宝专业就业率100%校领导称很痛苦",
+      "onboard_time": 1750658542,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 583835,
@@ -411,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 362062,
+      "num": 362062,
+      "word": "美军用超125架战机作诱饵打击伊朗",
+      "onboard_time": 1750658664,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 360220,
       "num": 360220,
       "word": "美团优选",
@@ -513,6 +569,14 @@
       "onboard_time": 1750651164,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 330847,
+      "num": 330847,
+      "word": "黄杨钿甜主演2部新剧将开播",
+      "onboard_time": 1750660284,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 329697,
@@ -683,6 +747,30 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 255262,
+      "num": 255262,
+      "word": "何炅不玩密室是45岁以上不让进",
+      "onboard_time": 1750658124,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 254765,
+      "num": 254765,
+      "word": "于东来官宣将关闭多家门店",
+      "onboard_time": 1750660403,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 254441,
+      "num": 254441,
+      "word": "上海本科分数线402",
+      "onboard_time": 1750658542,
+      "rank": 21,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 254312,
       "num": 254312,
       "word": "北京奥运时孙颖莎打球才不到3年",
@@ -787,6 +875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226977,
+      "num": 189744,
+      "word": "王勉被网友当面追问恋情",
+      "onboard_time": 1750660102,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 226318,
       "num": 308221,
       "word": "被冯绍峰版狄仁杰吓到了",
@@ -824,6 +920,14 @@
       "word": "以色列已掌握伊朗浓缩铀重要情报",
       "onboard_time": 1750644802,
       "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 215155,
+      "num": 189666,
+      "word": "特朗普称正在敦促伊朗领导人同意结束战争",
+      "onboard_time": 1750657642,
+      "rank": 33,
       "category": "国际时政"
     },
     {
@@ -897,6 +1001,14 @@
       "onboard_time": 1750654524,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205022,
+      "num": 205022,
+      "word": "樱桃琥珀",
+      "onboard_time": 1750657463,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 203206,
@@ -979,6 +1091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194414,
+      "num": 189533,
+      "word": "有点东西",
+      "onboard_time": 1750660284,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 194404,
       "num": 194404,
       "word": "吴邪私家笔记",
@@ -1001,6 +1121,22 @@
       "onboard_time": 1750606464,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190079,
+      "num": 190079,
+      "word": "内娱不靠流量撑十年的节目",
+      "onboard_time": 1750660403,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 189526,
+      "num": 189526,
+      "word": "上海2025高考分数线",
+      "onboard_time": 1750660284,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 189165,
@@ -1043,14 +1179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183108,
-      "num": 183108,
-      "word": "樱桃琥珀",
-      "onboard_time": 1750657463,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 182720,
       "num": 182720,
       "word": "A股",
@@ -1065,14 +1193,6 @@
       "onboard_time": 1750641021,
       "rank": 26,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 180219,
-      "num": 180219,
-      "word": "95岁离休干部被认定为恶势力主犯",
-      "onboard_time": 1750657342,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 178852,
@@ -1099,12 +1219,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 176349,
+      "num": 176349,
+      "word": "刘学义孟子义看起来差辈了",
+      "onboard_time": 1750660584,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176253,
       "num": 176253,
       "word": "王一博在旧金山吃火锅",
       "onboard_time": 1750633578,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175453,
+      "num": 175453,
+      "word": "酱园弄口碑 两极分化",
+      "onboard_time": 1750660523,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 175078,
@@ -1129,6 +1265,14 @@
       "onboard_time": 1750649604,
       "rank": 24,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 173641,
+      "num": 173641,
+      "word": "田作之赫",
+      "onboard_time": 1750660102,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 168824,
@@ -1227,6 +1371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144180,
+      "num": 144180,
+      "word": "杨若天再次道歉",
+      "onboard_time": 1750660643,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143195,
       "num": 143195,
       "word": "伊朗大使馆发布亮剑视频",
@@ -1273,6 +1425,14 @@
       "onboard_time": 1750596623,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138395,
+      "num": 138395,
+      "word": "关晓彤拍一部戏成功安利一把头盔伞",
+      "onboard_time": 1750658062,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 138029,
@@ -1379,6 +1539,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 117110,
+      "num": 136663,
+      "word": "恋与深空4.0于深空见证的",
+      "onboard_time": 1750659383,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 116579,
+      "num": 241646,
+      "word": "美袭伊紧急会议以色列代表一直玩手机",
+      "onboard_time": 1750659983,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 112921,
       "num": 333075,
       "word": "小伙被3人持械强行查看手机",
@@ -1465,6 +1641,14 @@
       "onboard_time": 1750651583,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 97367,
+      "num": 189597,
+      "word": "张凌赫辣到嘶哈嘶哈",
+      "onboard_time": 1750660763,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 94324,
@@ -1731,6 +1915,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 51466,
+      "num": 205220,
+      "word": "胡兵郝允祥又在输出高级东方美学",
+      "onboard_time": 1750657403,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51320,
       "num": 253834,
       "word": "美国母亲被孩子问会发生三战吗",
@@ -1803,12 +1995,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33055,
+      "num": 331049,
+      "word": "工程师为工作效率买250粒毒品",
+      "onboard_time": 1750660342,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31973,
       "num": 202632,
       "word": "曼城6比0艾因",
       "onboard_time": 1750654884,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31432,
+      "num": 254852,
+      "word": "精神病人杀害副教授前曾试图袭击两人",
+      "onboard_time": 1750659683,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30758,
+      "num": 302102,
+      "word": "护网2025公安网安提醒警惕银狐病毒来袭",
+      "onboard_time": 1750660523,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29488,
@@ -1859,6 +2075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23541,
+      "num": 175671,
+      "word": "苏超比赛日精彩集锦",
+      "onboard_time": 1750660342,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23499,
       "num": 25262,
       "word": "何浩楠直播",
@@ -1873,14 +2097,6 @@
       "onboard_time": 1750614504,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 22691,
-      "num": 205220,
-      "word": "胡兵郝允祥又在输出高级东方美学",
-      "onboard_time": 1750657403,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 22404,
@@ -1961,6 +2177,14 @@
       "onboard_time": 1750624393,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 9614,
+      "num": 189903,
+      "word": "逆向出埃及",
+      "onboard_time": 1750660464,
+      "rank": 29,
+      "category": "国际时政,民生新闻"
     }
   ],
   "hotgov_list": [
@@ -1969,6 +2193,9 @@
     },
     {
       "word": "#中国人要把饭碗端在自己手里#"
+    },
+    {
+      "word": "#习近平同志在闽金融论述与实践启示#"
     }
   ]
 }
