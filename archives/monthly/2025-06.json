@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750654472720,
+  "endTime": 1750656536305,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -7371,6 +7371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 664665,
+      "num": 468728,
+      "word": "南柱赫回春",
+      "onboard_time": 1750653263,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 664593,
       "num": 345645,
       "word": "曾舜晞跟姐姐共用一张脸",
@@ -8049,6 +8057,14 @@
       "onboard_time": 1749969560,
       "rank": 9,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 625366,
+      "num": 487867,
+      "word": "酱园弄豆瓣开分5.9",
+      "onboard_time": 1750655065,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 625072,
@@ -9587,6 +9603,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 551214,
+      "num": 551214,
+      "word": "腾讯招商大会",
+      "onboard_time": 1750652185,
+      "rank": 15,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 550536,
       "num": 550536,
       "word": "孙颖莎好萌",
@@ -10475,14 +10499,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 515356,
-      "num": 515356,
-      "word": "腾讯招商大会",
-      "onboard_time": 1750652185,
-      "rank": 15,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 515185,
       "num": 515185,
       "word": "伊朗导弹击中以色列能源设施",
@@ -10665,6 +10681,14 @@
       "onboard_time": 1749560783,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 507597,
+      "num": 507597,
+      "word": "抗战胜利80周年纪念活动预告",
+      "onboard_time": 1750655003,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 507508,
@@ -11793,6 +11817,14 @@
       "onboard_time": 1750240941,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 469262,
+      "num": 469262,
+      "word": "用了很久苹果手机才发现的功能",
+      "onboard_time": 1750654224,
+      "rank": 9,
+      "category": "数码"
     },
     {
       "raw_hot": 469014,
@@ -13667,14 +13699,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 410305,
-      "num": 468728,
-      "word": "南柱赫回春",
-      "onboard_time": 1750653263,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 410139,
       "num": 291190,
       "word": "王楚钦说拿了2块金牌依旧被诟病",
@@ -14971,6 +14995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 378527,
+      "num": 378527,
+      "word": "迪丽热巴紫瞳",
+      "onboard_time": 1750653624,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 378173,
       "num": 337562,
       "word": "labubu芭莎盛典表演嘉宾",
@@ -15241,6 +15273,14 @@
       "onboard_time": 1749198321,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 373098,
+      "num": 373098,
+      "word": "十日终焉第一季",
+      "onboard_time": 1750654884,
+      "rank": 21,
+      "category": "动漫"
     },
     {
       "raw_hot": 373023,
@@ -15865,14 +15905,6 @@
       "onboard_time": 1750483521,
       "rank": 22,
       "category": "海外新闻,国内时政"
-    },
-    {
-      "raw_hot": 358181,
-      "num": 315264,
-      "word": "迪丽热巴紫瞳",
-      "onboard_time": 1750653624,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 358051,
@@ -16825,6 +16857,14 @@
       "onboard_time": 1750014854,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 342206,
+      "num": 342206,
+      "word": "你好星期六直播",
+      "onboard_time": 1750655483,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 341741,
@@ -19529,6 +19569,14 @@
       "onboard_time": 1750205000,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 294171,
+      "num": 294171,
+      "word": "白鹿丞磊新剧先婚后谋",
+      "onboard_time": 1750655962,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 294096,
@@ -23195,6 +23243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 248947,
+      "num": 347799,
+      "word": "韩网评闵玧其捐款50亿",
+      "onboard_time": 1750655662,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248929,
       "num": 423337,
       "word": "800元瘦身咖啡成本1元",
@@ -23681,6 +23737,14 @@
       "onboard_time": 1749124581,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 242481,
+      "num": 242481,
+      "word": "王子文刘宇宁我从未见过这样的你们",
+      "onboard_time": 1750655304,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 242190,
@@ -28907,6 +28971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 205652,
+      "num": 228405,
+      "word": "曾舜晞一嗓子两个女嘉宾灭灯",
+      "onboard_time": 1750654524,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205640,
       "num": 205640,
       "word": "再见深海",
@@ -29433,6 +29505,14 @@
       "onboard_time": 1749092900,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203178,
+      "num": 203178,
+      "word": "唐嫣待播剧各有各的带感",
+      "onboard_time": 1750656083,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 203163,
@@ -31691,6 +31771,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 194707,
+      "num": 231299,
+      "word": "湖北2.5天休假遇冷",
+      "onboard_time": 1750654464,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 194703,
       "num": 127069,
       "word": "刘宇宁上海演唱会获批",
@@ -31761,6 +31849,14 @@
       "onboard_time": 1750321881,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194404,
+      "num": 194404,
+      "word": "吴邪私家笔记",
+      "onboard_time": 1750656204,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 194383,
@@ -34129,6 +34225,14 @@
       "onboard_time": 1750475301,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 186060,
+      "num": 186060,
+      "word": "男子奶茶内放精神药品猥亵女子",
+      "onboard_time": 1750655065,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186059,
@@ -47995,6 +48099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138904,
+      "num": 212647,
+      "word": "谁懂蜡笔小新看到哭的含金量",
+      "onboard_time": 1750654824,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 138880,
       "num": 386288,
       "word": "人民海军潜艇部队71岁生日快乐",
@@ -48657,6 +48769,14 @@
       "onboard_time": 1750039340,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136892,
+      "num": 287976,
+      "word": "军工界黑马中北大学",
+      "onboard_time": 1750656263,
+      "rank": 29,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 136862,
@@ -55465,6 +55585,14 @@
       "onboard_time": 1750128681,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118779,
+      "num": 378801,
+      "word": "央视揭开直播间开蚌取珠套路",
+      "onboard_time": 1750656083,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 118766,
@@ -65649,6 +65777,14 @@
       "onboard_time": 1750029678,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 78732,
+      "num": 379801,
+      "word": "吴彦祖请100w人喝古茗咖啡",
+      "onboard_time": 1750655003,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 78590,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1750656536305,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 969066,
+        "num": 1155050,
+        "word": "张若昀发文回应庆余年3",
+        "onboard_time": 1750649963,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 744523,
+        "num": 744523,
+        "word": "法国发现新血型全球仅一人",
+        "onboard_time": 1750650864,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 58285,
+        "num": 587122,
+        "word": "护网2025网安局提醒警惕银狐病毒来袭",
+        "onboard_time": 1750641081,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 573497,
+        "num": 573497,
+        "word": "终于知道婴儿为啥爱出门遛弯了",
+        "onboard_time": 1750649243,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 551214,
+        "num": 551214,
+        "word": "腾讯招商大会",
+        "onboard_time": 1750652185,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 507597,
+        "num": 507597,
+        "word": "抗战胜利80周年纪念活动预告",
+        "onboard_time": 1750655003,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 828048,
+        "num": 489937,
+        "word": "祝绪丹告别嘉行",
+        "onboard_time": 1750646242,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 625366,
+        "num": 487867,
+        "word": "酱园弄豆瓣开分5.9",
+        "onboard_time": 1750655065,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 405148,
+        "num": 471577,
+        "word": "中南财大副教授遭精神病人杀害",
+        "onboard_time": 1750646304,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 469262,
+        "num": 469262,
+        "word": "用了很久苹果手机才发现的功能",
+        "onboard_time": 1750654224,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 912178,
+        "num": 465886,
+        "word": "男子发病身亡压死出生仅3个月儿子",
+        "onboard_time": 1750645161,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 664665,
+        "num": 465661,
+        "word": "南柱赫回春",
+        "onboard_time": 1750653263,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456151,
+        "num": 456151,
+        "word": "EDG申请执行Scout3351万",
+        "onboard_time": 1750651643,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 437407,
+        "num": 437407,
+        "word": "又见三平台联播大剧",
+        "onboard_time": 1750652003,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 420060,
+        "num": 420060,
+        "word": "以色列媒体开骂",
+        "onboard_time": 1750646123,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 416575,
+        "num": 416575,
+        "word": "梦华录续篇",
+        "onboard_time": 1750652784,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271668,
+        "num": 392134,
+        "word": "女子网恋20天被骗近600万",
+        "onboard_time": 1750649423,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 381812,
+        "num": 381812,
+        "word": "张杰不想去歌手的原因",
+        "onboard_time": 1750646063,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 78732,
+        "num": 379801,
+        "word": "吴彦祖请100w人喝古茗咖啡",
+        "onboard_time": 1750655003,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118779,
+        "num": 378801,
+        "word": "央视揭开直播间开蚌取珠套路",
+        "onboard_time": 1750656083,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 378527,
+        "num": 378527,
+        "word": "迪丽热巴紫瞳",
+        "onboard_time": 1750653624,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 373098,
+        "num": 373098,
+        "word": "十日终焉第一季",
+        "onboard_time": 1750654884,
+        "rank": 21,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 248947,
+        "num": 347799,
+        "word": "韩网评闵玧其捐款50亿",
+        "onboard_time": 1750655662,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345726,
+        "num": 345726,
+        "word": "美团优选",
+        "onboard_time": 1750651524,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 342206,
+        "num": 342206,
+        "word": "你好星期六直播",
+        "onboard_time": 1750655483,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298755,
+        "num": 298755,
+        "word": "慕胥辞迪丽热巴陈飞宇领衔主演",
+        "onboard_time": 1750649604,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294171,
+        "num": 294171,
+        "word": "白鹿丞磊新剧先婚后谋",
+        "onboard_time": 1750655962,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218750,
+        "num": 289731,
+        "word": "NBA七年七个总冠军",
+        "onboard_time": 1750649783,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289107,
+        "num": 289107,
+        "word": "豆包p丑 无人生还",
+        "onboard_time": 1750644440,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 136892,
+        "num": 287976,
+        "word": "军工界黑马中北大学",
+        "onboard_time": 1750656263,
+        "rank": 29,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 286925,
+        "num": 286925,
+        "word": "60岁大爷内衣袜子混洗感染股癣",
+        "onboard_time": 1750651285,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262118,
+        "num": 262118,
+        "word": "林玉芬 莫离妆造",
+        "onboard_time": 1750653387,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257846,
+        "num": 257846,
+        "word": "林允有阴湿那味儿了",
+        "onboard_time": 1750647083,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242481,
+        "num": 242481,
+        "word": "王子文刘宇宁我从未见过这样的你们",
+        "onboard_time": 1750655304,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194707,
+        "num": 231299,
+        "word": "湖北2.5天休假遇冷",
+        "onboard_time": 1750654464,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58286,
+        "num": 229093,
+        "word": "王骁卡萨帝质感对味了",
+        "onboard_time": 1750651583,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205652,
+        "num": 228405,
+        "word": "曾舜晞一嗓子两个女嘉宾灭灯",
+        "onboard_time": 1750654524,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228005,
+        "num": 228005,
+        "word": "鹅厂2025大剧片单",
+        "onboard_time": 1750643481,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217309,
+        "num": 217309,
+        "word": "张艺谋刘浩存再合作",
+        "onboard_time": 1750643781,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138904,
+        "num": 212647,
+        "word": "谁懂蜡笔小新看到哭的含金量",
+        "onboard_time": 1750654824,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 211945,
+        "num": 211945,
+        "word": "你好星期六",
+        "onboard_time": 1750655243,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203178,
+        "num": 203178,
+        "word": "唐嫣待播剧各有各的带感",
+        "onboard_time": 1750656083,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194404,
+        "num": 194404,
+        "word": "吴邪私家笔记",
+        "onboard_time": 1750656204,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63278,
+        "num": 188193,
+        "word": "白血病百万新药好医保能报了",
+        "onboard_time": 1750651583,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 186060,
+        "num": 186060,
+        "word": "男子奶茶内放精神药品猥亵女子",
+        "onboard_time": 1750655065,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182049,
+        "num": 182049,
+        "word": "骄阳似我",
+        "onboard_time": 1750645641,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175501,
+        "num": 175501,
+        "word": "特朗普称让伊朗再次伟大",
+        "onboard_time": 1750638742,
+        "rank": 46,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 169447,
+        "num": 169447,
+        "word": "奶茶冰块 脏",
+        "onboard_time": 1750643601,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169234,
+        "num": 169234,
+        "word": "花开锦绣官宣丁禹兮邓恩熙",
+        "onboard_time": 1750650442,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167941,
+        "num": 167941,
+        "word": "高考查分",
+        "onboard_time": 1750637002,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国人要把饭碗端在自己手里#"
+    }
+  }
+}
