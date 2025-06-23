@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/23 18:29:49
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/23 18:47:10
 </p>
 </blockquote>
 <p>
@@ -419,6 +419,12 @@ GAI第一（热度：4228592）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E8%B1%A1%E5%A4%9A%E5%8D%8A%E6%A1%B6%E6%96%B9%E4%BE%BF%E9%9D%A2%E7%9A%84%E5%A4%9A%E5%8D%8A%E6%98%AF%E5%95%86%E6%A0%87%23" target="weibo">
 白象多半桶方便面的多半是商标（热度：2593232）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E8%AF%AD%E9%9F%B3%20%E4%B8%91%23" target="weibo">
+微信语音 丑（热度：2589233）
 </a>
 </li>
 
@@ -959,12 +965,6 @@ LABUBU 价格崩盘（热度：1793949）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8D%94%E6%9E%9D%23" target="weibo">
 荔枝（热度：1729254）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E8%AF%AD%E9%9F%B3%20%E4%B8%91%23" target="weibo">
-微信语音 丑（热度：1728515）
 </a>
 </li>
 
