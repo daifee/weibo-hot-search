@@ -1,0 +1,410 @@
+{
+  "runTime": 1750742870928,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2620413,
+        "num": 2620413,
+        "word": "九三盛大阅兵",
+        "onboard_time": 1750730722,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1960632,
+        "num": 1960632,
+        "word": "学生查出713分老师集体沸腾了",
+        "onboard_time": 1750731742,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15909,
+        "num": 1351265,
+        "word": "夏季达沃斯向新而行",
+        "onboard_time": 1750740623,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1076855,
+        "num": 1076855,
+        "word": "以伊宣布正式停火",
+        "onboard_time": 1750735584,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 752084,
+        "num": 752084,
+        "word": "贵州一高架桥垮塌货车车头腾空",
+        "onboard_time": 1750737683,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 713057,
+        "num": 713057,
+        "word": "贵州一高架大桥垮塌疑多车掉落",
+        "onboard_time": 1750735344,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 515570,
+        "num": 515570,
+        "word": "隐翅虫 风油精",
+        "onboard_time": 1750730601,
+        "rank": 6,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 421630,
+        "num": 421630,
+        "word": "外媒把TOP认成ENHYPEN",
+        "onboard_time": 1750737262,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389271,
+        "num": 389271,
+        "word": "偷偷藏不住之许你",
+        "onboard_time": 1750741343,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 371118,
+        "num": 371118,
+        "word": "伊朗已接受美停火方案",
+        "onboard_time": 1750721541,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1039511,
+        "num": 368510,
+        "word": "29岁存了130万的真实生活",
+        "onboard_time": 1750738823,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 364425,
+        "num": 364425,
+        "word": "桃花映江山定档",
+        "onboard_time": 1750732882,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 362025,
+        "num": 362025,
+        "word": "阅兵不再组织抗战老兵方队",
+        "onboard_time": 1750742662,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 245415,
+        "num": 355491,
+        "word": "范丞丞要减肥三十斤",
+        "onboard_time": 1750734982,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69765,
+        "num": 352229,
+        "word": "母亲称被打碎头骨女孩还没上学",
+        "onboard_time": 1750741283,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231551,
+        "num": 351703,
+        "word": "孙俪第140遍隶书心经",
+        "onboard_time": 1750740323,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351404,
+        "num": 351404,
+        "word": "中国人民抗日战争胜利80周年纪念章将颁发",
+        "onboard_time": 1750731502,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 98664,
+        "num": 349268,
+        "word": "小米15SPro一个月实测分享",
+        "onboard_time": 1750741523,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 250899,
+        "num": 328381,
+        "word": "抗战胜利80周年纪念活动",
+        "onboard_time": 1750742302,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 33940,
+        "num": 323600,
+        "word": "黄渤说TA没什么背景",
+        "onboard_time": 1750738823,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401843,
+        "num": 310298,
+        "word": "买超大西瓜切开后天塌了",
+        "onboard_time": 1750736722,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216915,
+        "num": 296455,
+        "word": "小米MIXFlip2满分小折",
+        "onboard_time": 1750738763,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 288040,
+        "num": 288040,
+        "word": "秦彻输给了喜羊羊",
+        "onboard_time": 1750742062,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 89577,
+        "num": 271397,
+        "word": "偶遇王珞丹就这么水灵灵过去了",
+        "onboard_time": 1750741882,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263708,
+        "num": 263708,
+        "word": "运动后一定要及时擦干净脖子上的汗",
+        "onboard_time": 1750740503,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 258771,
+        "num": 258771,
+        "word": "抗战胜利80周年",
+        "onboard_time": 1750731382,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 211012,
+        "num": 250609,
+        "word": "庆余年3",
+        "onboard_time": 1750736483,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248455,
+        "num": 248455,
+        "word": "特朗普感谢伊朗提前通知空袭",
+        "onboard_time": 1750726402,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 78536,
+        "num": 248128,
+        "word": "第一批学电竞的人怎么样了",
+        "onboard_time": 1750742481,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80890,
+        "num": 245449,
+        "word": "张婧仪野狗骨头片场plog",
+        "onboard_time": 1750740983,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 397830,
+        "num": 245010,
+        "word": "以色列称不会停火",
+        "onboard_time": 1750738403,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 315590,
+        "num": 242654,
+        "word": "王珞丹近五年才发现曝光的重要性",
+        "onboard_time": 1750739723,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49401,
+        "num": 241697,
+        "word": "道家太阳印提升阳气",
+        "onboard_time": 1750741583,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 240661,
+        "num": 240661,
+        "word": "高考分数线",
+        "onboard_time": 1750722622,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 233417,
+        "num": 233417,
+        "word": "维和部队将参阅",
+        "onboard_time": 1750742302,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 204696,
+        "num": 204696,
+        "word": "看似团建 实则裁员",
+        "onboard_time": 1750739244,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203211,
+        "num": 203211,
+        "word": "林一 让易立竞沉默的男人",
+        "onboard_time": 1750739723,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200171,
+        "num": 200171,
+        "word": "曾舜晞白鹿收官文",
+        "onboard_time": 1750742662,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199682,
+        "num": 199682,
+        "word": "七根心简终极之战",
+        "onboard_time": 1750741882,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199362,
+        "num": 199362,
+        "word": "天安门9月3日盛大阅兵",
+        "onboard_time": 1750741103,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188600,
+        "num": 188600,
+        "word": "白玉兰奖27日揭晓",
+        "onboard_time": 1750741583,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 40896,
+        "num": 186443,
+        "word": "好医保可报国内全部CART疗法",
+        "onboard_time": 1750738763,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 186109,
+        "num": 186109,
+        "word": "老头乐已经成了县城年轻人的新鬼火",
+        "onboard_time": 1750742002,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176699,
+        "num": 176699,
+        "word": "如果不玩手机可以干什么",
+        "onboard_time": 1750742182,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176599,
+        "num": 176599,
+        "word": "参阅所有装备均为国产现役主战装备",
+        "onboard_time": 1750732162,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 168838,
+        "num": 168838,
+        "word": "学霸龙凤胎中考一个846分一个842分",
+        "onboard_time": 1750736062,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168831,
+        "num": 168831,
+        "word": "阅兵由徒步方队装备方队空中梯队组成",
+        "onboard_time": 1750731982,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 166929,
+        "num": 166929,
+        "word": "中国boy与摊主和解",
+        "onboard_time": 1750735823,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 163560,
+        "num": 163560,
+        "word": "七根心简",
+        "onboard_time": 1750739845,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159563,
+        "num": 159563,
+        "word": "下雨天躲雨偶遇美女贵人",
+        "onboard_time": 1750734382,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将在阅兵式检阅部队#"
+    }
+  }
+}

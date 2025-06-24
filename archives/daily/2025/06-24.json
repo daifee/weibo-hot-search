@@ -1,6 +1,6 @@
 {
   "startTime": 1750696476897,
-  "endTime": 1750740672380,
+  "endTime": 1750742870928,
   "band_list": [
     {
       "raw_hot": 9141770,
@@ -43,8 +43,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1750292,
-      "num": 1750292,
+      "raw_hot": 1960632,
+      "num": 1960632,
       "word": "学生查出713分老师集体沸腾了",
       "onboard_time": 1750731742,
       "rank": 37,
@@ -123,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1039511,
+      "num": 424889,
+      "word": "29岁存了130万的真实生活",
+      "onboard_time": 1750738823,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 943304,
       "num": 943304,
       "word": "朱丹 内娱顶级语言艺术家",
@@ -147,6 +155,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 752084,
+      "num": 752084,
+      "word": "贵州一高架桥垮塌货车车头腾空",
+      "onboard_time": 1750737683,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 750726,
       "num": 750726,
       "word": "女儿被打碎头骨母亲含泪发声",
@@ -161,14 +177,6 @@
       "onboard_time": 1750673602,
       "rank": 1,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 665040,
-      "num": 424889,
-      "word": "29岁存了130万的真实生活",
-      "onboard_time": 1750738823,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 638158,
@@ -267,14 +275,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 498621,
-      "num": 445753,
-      "word": "贵州一高架桥垮塌货车车头腾空",
-      "onboard_time": 1750737683,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 489758,
       "num": 489758,
       "word": "阅兵由徒步方队装备方队空中梯队组成",
@@ -323,6 +323,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 421630,
+      "num": 496923,
+      "word": "外媒把TOP认成ENHYPEN",
+      "onboard_time": 1750737262,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 409814,
       "num": 409814,
       "word": "特朗普已至白宫战情室",
@@ -339,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 389271,
+      "num": 389271,
+      "word": "偷偷藏不住之许你",
+      "onboard_time": 1750741343,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 372763,
       "num": 312651,
       "word": "中国boy 同人",
@@ -347,20 +363,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 370703,
-      "num": 496923,
-      "word": "外媒把TOP认成ENHYPEN",
-      "onboard_time": 1750737262,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 364851,
       "num": 408137,
       "word": "黄圣依妈妈一直尽全力托举女儿",
       "onboard_time": 1750716675,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 362025,
+      "num": 362025,
+      "word": "阅兵不再组织抗战老兵方队",
+      "onboard_time": 1750742662,
+      "rank": 12,
+      "category": "国内时政"
     },
     {
       "raw_hot": 354899,
@@ -451,6 +467,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 288040,
+      "num": 288040,
+      "word": "秦彻输给了喜羊羊",
+      "onboard_time": 1750742062,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 285758,
       "num": 437338,
       "word": "为什么詹周氏把头丢到外白渡桥",
@@ -497,6 +521,14 @@
       "onboard_time": 1750725261,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 263708,
+      "num": 263708,
+      "word": "运动后一定要及时擦干净脖子上的汗",
+      "onboard_time": 1750740503,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 262661,
@@ -547,6 +579,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 250899,
+      "num": 328381,
+      "word": "抗战胜利80周年纪念活动",
+      "onboard_time": 1750742302,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 248542,
       "num": 248542,
       "word": "男子被追打躲进朋友宝马人车遭打砸",
@@ -585,6 +625,22 @@
       "onboard_time": 1750738462,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 233417,
+      "num": 233417,
+      "word": "维和部队将参阅",
+      "onboard_time": 1750742302,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 231551,
+      "num": 351703,
+      "word": "孙俪第140遍隶书心经",
+      "onboard_time": 1750740323,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 230924,
@@ -635,6 +691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204696,
+      "num": 204696,
+      "word": "看似团建 实则裁员",
+      "onboard_time": 1750739244,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 204051,
       "num": 272253,
       "word": "田曦薇校园时期美貌就被认证",
@@ -667,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203211,
+      "num": 203211,
+      "word": "林一 让易立竞沉默的男人",
+      "onboard_time": 1750739723,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202425,
       "num": 202425,
       "word": "豆包前员工因违规亲密关系被辞退",
@@ -681,6 +753,30 @@
       "onboard_time": 1750740083,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200171,
+      "num": 200171,
+      "word": "曾舜晞白鹿收官文",
+      "onboard_time": 1750742662,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 199682,
+      "num": 199682,
+      "word": "七根心简终极之战",
+      "onboard_time": 1750741882,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 199362,
+      "num": 199362,
+      "word": "天安门9月3日盛大阅兵",
+      "onboard_time": 1750741103,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198501,
@@ -704,6 +800,22 @@
       "word": "当事人回应发现男子在12楼窗外偷窥",
       "onboard_time": 1750691185,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188600,
+      "num": 188600,
+      "word": "白玉兰奖27日揭晓",
+      "onboard_time": 1750741583,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 186109,
+      "num": 186109,
+      "word": "老头乐已经成了县城年轻人的新鬼火",
+      "onboard_time": 1750742002,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -763,20 +875,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176699,
+      "num": 176699,
+      "word": "如果不玩手机可以干什么",
+      "onboard_time": 1750742182,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 175566,
       "num": 175566,
       "word": "90后保安用苟住思维实现财务自由",
       "onboard_time": 1750736004,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 175563,
-      "num": 175563,
-      "word": "看似团建 实则裁员",
-      "onboard_time": 1750739244,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 172977,
@@ -811,14 +923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165530,
-      "num": 165530,
-      "word": "林一 让易立竞沉默的男人",
-      "onboard_time": 1750739723,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 163977,
       "num": 163977,
       "word": "鹅鸭杀手游测试码被炒至599元",
@@ -849,22 +953,6 @@
       "onboard_time": 1750723101,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 154698,
-      "num": 154698,
-      "word": "孙俪第140遍隶书心经",
-      "onboard_time": 1750740323,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 153179,
-      "num": 153179,
-      "word": "运动后一定要及时擦干净脖子上的汗",
-      "onboard_time": 1750740503,
-      "rank": 49,
-      "category": "运动健身"
     },
     {
       "raw_hot": 149704,
@@ -1139,6 +1227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98664,
+      "num": 349268,
+      "word": "小米15SPro一个月实测分享",
+      "onboard_time": 1750741523,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 98302,
       "num": 98302,
       "word": "清远地震画面曝光",
@@ -1219,6 +1315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 89577,
+      "num": 271397,
+      "word": "偶遇王珞丹就这么水灵灵过去了",
+      "onboard_time": 1750741882,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 88994,
       "num": 88994,
       "word": "16岁高中生10元成本净赚120",
@@ -1251,12 +1355,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 80890,
+      "num": 245449,
+      "word": "张婧仪野狗骨头片场plog",
+      "onboard_time": 1750740983,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 80730,
       "num": 80730,
       "word": "以军袭击伊朗红新月会大楼",
       "onboard_time": 1750719138,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 78536,
+      "num": 248128,
+      "word": "第一批学电竞的人怎么样了",
+      "onboard_time": 1750742481,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76131,
@@ -1321,6 +1441,14 @@
       "onboard_time": 1750685002,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 69765,
+      "num": 352229,
+      "word": "母亲称被打碎头骨女孩还没上学",
+      "onboard_time": 1750741283,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67208,
@@ -1433,6 +1561,14 @@
       "onboard_time": 1750738823,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 49401,
+      "num": 241697,
+      "word": "道家太阳印提升阳气",
+      "onboard_time": 1750741583,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 48097,
@@ -1635,6 +1771,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 15909,
+      "num": 1846623,
+      "word": "夏季达沃斯向新而行",
+      "onboard_time": 1750740623,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 10519,
       "num": 26280,
       "word": "左权牺牲前给妻子写信念念念念",
@@ -1648,14 +1792,6 @@
       "word": "解限机公测前瞻直播",
       "onboard_time": 1750702157,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 5854,
-      "num": 1846623,
-      "word": "夏季达沃斯向新而行",
-      "onboard_time": 1750740623,
-      "rank": 2,
       "category": "民生新闻"
     }
   ],

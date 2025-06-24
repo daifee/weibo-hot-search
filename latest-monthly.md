@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/24 12:51:12
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/24 13:27:50
 </p>
 </blockquote>
 <p>
@@ -801,6 +801,12 @@ iOS26 丑（热度：2160228）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E6%9F%A5%E5%87%BA713%E5%88%86%E8%80%81%E5%B8%88%E9%9B%86%E4%BD%93%E6%B2%B8%E8%85%BE%E4%BA%86%23" target="weibo">
+学生查出713分老师集体沸腾了（热度：1960632）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%E7%A7%92%E4%BA%86%23" target="weibo">
 单依纯秒了（热度：1956529）
 </a>
@@ -995,12 +1001,6 @@ LABUBU 价格崩盘（热度：1793949）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8F%91%E7%8E%B013%E5%85%B7%E5%B0%B8%E4%BD%93%E7%96%91%E8%BF%9E%E7%8E%AF%E6%9D%80%E6%89%8B%E4%BD%9C%E6%A1%88%23" target="weibo">
 美国发现13具尸体疑连环杀手作案（热度：1751869）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E6%9F%A5%E5%87%BA713%E5%88%86%E8%80%81%E5%B8%88%E9%9B%86%E4%BD%93%E6%B2%B8%E8%85%BE%E4%BA%86%23" target="weibo">
-学生查出713分老师集体沸腾了（热度：1750292）
 </a>
 </li>
 
@@ -2879,6 +2879,12 @@ VOGUE官博秒删（热度：1045069）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E4%B8%8D%E5%90%83%E4%B8%BB%E9%A3%9F1%E5%B9%B4%E5%90%8E%E8%BA%AB%E4%BD%93%E7%9A%84%E5%8F%98%E5%8C%96%23" target="weibo">
 长期不吃主食1年后身体的变化（热度：1039904）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2329%E5%B2%81%E5%AD%98%E4%BA%86130%E4%B8%87%E7%9A%84%E7%9C%9F%E5%AE%9E%E7%94%9F%E6%B4%BB%23" target="weibo">
+29岁存了130万的真实生活（热度：1039511）
 </a>
 </li>
 
@@ -4815,6 +4821,12 @@ T3司机猥亵大三女生被行拘5日（热度：810171）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E%E4%B8%80%E9%AB%98%E6%9E%B6%E6%A1%A5%E5%9E%AE%E5%A1%8C%E8%B4%A7%E8%BD%A6%E8%BD%A6%E5%A4%B4%E8%85%BE%E7%A9%BA%23" target="weibo">
+贵州一高架桥垮塌货车车头腾空（热度：752084）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%A7%8B%E4%BA%8A%20%E6%B2%A1EXO%E7%89%88%E6%9D%83%23" target="weibo">
 何秋亊 没EXO版权（热度：751995）
 </a>
@@ -5817,12 +5829,6 @@ EDG申请执行Scout3351万（热度：690406）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2329%E5%B2%81%E5%AD%98%E4%BA%86130%E4%B8%87%E7%9A%84%E7%9C%9F%E5%AE%9E%E7%94%9F%E6%B4%BB%23" target="weibo">
-29岁存了130万的真实生活（热度：665040）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23Bin%E5%93%A5%20%E5%98%B4%E7%A1%AC%23" target="weibo">
 Bin哥 嘴硬（热度：664927）
 </a>
@@ -6005,12 +6011,6 @@ GAI 该做热玛吉了（热度：660381）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%A4%B1%E5%AE%9E%E8%AE%AF%E6%81%AF%E5%A3%B0%E6%98%8E%23" target="weibo">
 鹿晗工作室失实讯息声明（热度：650434）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%AD%A6%E5%86%AC%E7%A7%B0%E5%B8%8C%E6%9C%9B%E6%98%AF%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E6%89%8B%E6%9C%AF%E4%BA%86%23" target="weibo">
-陈学冬称希望是最后一次手术了（热度：650389）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750740672380,
+  "endTime": 1750742870928,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -1051,6 +1051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1960632,
+      "num": 1960632,
+      "word": "学生查出713分老师集体沸腾了",
+      "onboard_time": 1750731742,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1956529,
       "num": 615604,
       "word": "单依纯秒了",
@@ -1313,14 +1321,6 @@
       "onboard_time": 1749480802,
       "rank": 0,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1750292,
-      "num": 1750292,
-      "word": "学生查出713分老师集体沸腾了",
-      "onboard_time": 1750731742,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1747665,
@@ -3825,6 +3825,14 @@
       "onboard_time": 1750477700,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1039511,
+      "num": 424889,
+      "word": "29岁存了130万的真实生活",
+      "onboard_time": 1750738823,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 1038123,
@@ -6403,6 +6411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 752084,
+      "num": 752084,
+      "word": "贵州一高架桥垮塌货车车头腾空",
+      "onboard_time": 1750737683,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 751995,
       "num": 751995,
       "word": "何秋亊 没EXO版权",
@@ -7737,14 +7753,6 @@
       "onboard_time": 1748838741,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 665040,
-      "num": 424889,
-      "word": "29岁存了130万的真实生活",
-      "onboard_time": 1750738823,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 664927,
@@ -11499,14 +11507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 498621,
-      "num": 445753,
-      "word": "贵州一高架桥垮塌货车车头腾空",
-      "onboard_time": 1750737683,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 498438,
       "num": 498438,
       "word": "王楚钦晒小朋友们的祝福",
@@ -13979,6 +13979,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 421630,
+      "num": 496923,
+      "word": "外媒把TOP认成ENHYPEN",
+      "onboard_time": 1750737262,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 421600,
       "num": 421600,
       "word": "樊振东回应加盟萨尔布吕肯",
@@ -15347,6 +15355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 389271,
+      "num": 389271,
+      "word": "偷偷藏不住之许你",
+      "onboard_time": 1750741343,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 389182,
       "num": 389182,
       "word": "黄子韬这一刻不反驳已经赢了",
@@ -16139,14 +16155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 370703,
-      "num": 496923,
-      "word": "外媒把TOP认成ENHYPEN",
-      "onboard_time": 1750737262,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 370290,
       "num": 370290,
       "word": "藏海传收视率",
@@ -16513,6 +16521,14 @@
       "onboard_time": 1749281484,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 362025,
+      "num": 362025,
+      "word": "阅兵不再组织抗战老兵方队",
+      "onboard_time": 1750742662,
+      "rank": 12,
+      "category": "国内时政"
     },
     {
       "raw_hot": 362021,
@@ -20979,6 +20995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 288040,
+      "num": 288040,
+      "word": "秦彻输给了喜羊羊",
+      "onboard_time": 1750742062,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 288005,
       "num": 226363,
       "word": "2025对杨幂好点了",
@@ -22923,6 +22947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 263708,
+      "num": 263708,
+      "word": "运动后一定要及时擦干净脖子上的汗",
+      "onboard_time": 1750740503,
+      "rank": 49,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 263588,
       "num": 263588,
       "word": "刘浩存向上抹眼泪的都是狠人",
@@ -24185,6 +24217,14 @@
       "onboard_time": 1750140621,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 250899,
+      "num": 328381,
+      "word": "抗战胜利80周年纪念活动",
+      "onboard_time": 1750742302,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 250890,
@@ -25947,6 +25987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 233417,
+      "num": 233417,
+      "word": "维和部队将参阅",
+      "onboard_time": 1750742302,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 233345,
       "num": 233345,
       "word": "王楚钦乒超第三个3比0",
@@ -26137,6 +26185,14 @@
       "onboard_time": 1750307962,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231551,
+      "num": 351703,
+      "word": "孙俪第140遍隶书心经",
+      "onboard_time": 1750740323,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 231525,
@@ -30635,6 +30691,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 204696,
+      "num": 204696,
+      "word": "看似团建 实则裁员",
+      "onboard_time": 1750739244,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 204664,
       "num": 204664,
       "word": "易烊千玺闪现酱园弄路演现场",
@@ -30953,6 +31017,14 @@
       "onboard_time": 1749305123,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203211,
+      "num": 203211,
+      "word": "林一 让易立竞沉默的男人",
+      "onboard_time": 1750739723,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 203190,
@@ -31891,6 +31963,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 200171,
+      "num": 200171,
+      "word": "曾舜晞白鹿收官文",
+      "onboard_time": 1750742662,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200145,
       "num": 200145,
       "word": "AG战胜TES",
@@ -31995,6 +32075,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 199682,
+      "num": 199682,
+      "word": "七根心简终极之战",
+      "onboard_time": 1750741882,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199661,
       "num": 199661,
       "word": "李昀锐奔跑吧澳门录制",
@@ -32089,6 +32177,14 @@
       "onboard_time": 1749991880,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 199362,
+      "num": 199362,
+      "word": "天安门9月3日盛大阅兵",
+      "onboard_time": 1750741103,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 199361,
@@ -35107,6 +35203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 188600,
+      "num": 410919,
+      "word": "白玉兰奖27日揭晓",
+      "onboard_time": 1750511963,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 188575,
       "num": 197581,
       "word": "景甜龙骨焚箱造型",
@@ -35897,6 +36001,14 @@
       "onboard_time": 1749716300,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186109,
+      "num": 186109,
+      "word": "老头乐已经成了县城年轻人的新鬼火",
+      "onboard_time": 1750742002,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186088,
@@ -38219,6 +38331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176699,
+      "num": 176699,
+      "word": "如果不玩手机可以干什么",
+      "onboard_time": 1750742182,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 176672,
       "num": 244332,
       "word": "王源演唱会抢票",
@@ -38497,14 +38617,6 @@
       "onboard_time": 1749289044,
       "rank": 49,
       "category": "网红"
-    },
-    {
-      "raw_hot": 175563,
-      "num": 175563,
-      "word": "看似团建 实则裁员",
-      "onboard_time": 1750739244,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 175560,
@@ -39281,14 +39393,6 @@
       "onboard_time": 1749996744,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 172803,
-      "num": 410919,
-      "word": "白玉兰奖27日揭晓",
-      "onboard_time": 1750511963,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 172790,
@@ -41616,14 +41720,6 @@
       "word": "新说唱清退不当言论运营人员",
       "onboard_time": 1749989662,
       "rank": 43,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 165530,
-      "num": 165530,
-      "word": "林一 让易立竞沉默的男人",
-      "onboard_time": 1750739723,
-      "rank": 48,
       "category": "综艺"
     },
     {
@@ -44939,14 +45035,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 154698,
-      "num": 154698,
-      "word": "孙俪第140遍隶书心经",
-      "onboard_time": 1750740323,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 154681,
       "num": 159375,
       "word": "网球",
@@ -45433,14 +45521,6 @@
       "onboard_time": 1750118060,
       "rank": 26,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 153179,
-      "num": 153179,
-      "word": "运动后一定要及时擦干净脖子上的汗",
-      "onboard_time": 1750740503,
-      "rank": 49,
-      "category": "运动健身"
     },
     {
       "raw_hot": 153137,
@@ -64387,6 +64467,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 98664,
+      "num": 349268,
+      "word": "小米15SPro一个月实测分享",
+      "onboard_time": 1750741523,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 98640,
       "num": 257321,
       "word": "西伯侯封地西岐被准确定位",
@@ -66659,6 +66747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89577,
+      "num": 271397,
+      "word": "偶遇王珞丹就这么水灵灵过去了",
+      "onboard_time": 1750741882,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89570,
       "num": 195650,
       "word": "刘维直播剧透宋雨琦开场秀",
@@ -68427,6 +68523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 80890,
+      "num": 245449,
+      "word": "张婧仪野狗骨头片场plog",
+      "onboard_time": 1750740983,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 80885,
       "num": 104961,
       "word": "穆勒将在世俱杯迎来拜仁最后一舞",
@@ -68880,6 +68984,14 @@
       "word": "台风蝴蝶或在广东停留30小时",
       "onboard_time": 1749811823,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78536,
+      "num": 248128,
+      "word": "第一批学电竞的人怎么样了",
+      "onboard_time": 1750742481,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -70553,6 +70665,14 @@
       "onboard_time": 1749908364,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 69765,
+      "num": 352229,
+      "word": "母亲称被打碎头骨女孩还没上学",
+      "onboard_time": 1750741283,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69706,
@@ -75009,6 +75129,14 @@
       "onboard_time": 1750147280,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49401,
+      "num": 241697,
+      "word": "道家太阳印提升阳气",
+      "onboard_time": 1750741583,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 49376,
@@ -84859,6 +84987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 15909,
+      "num": 1846623,
+      "word": "夏季达沃斯向新而行",
+      "onboard_time": 1750740623,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15857,
       "num": 782985,
       "word": "用数字丈量丝路新宽度",
@@ -86817,14 +86953,6 @@
       "onboard_time": 1748760439,
       "rank": 34,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 5854,
-      "num": 1846623,
-      "word": "夏季达沃斯向新而行",
-      "onboard_time": 1750740623,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 5785,
