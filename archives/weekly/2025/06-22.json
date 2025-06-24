@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750760975311,
+  "endTime": 1750762044026,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -515,6 +515,14 @@
       "category": "休闲,动漫"
     },
     {
+      "raw_hot": 998573,
+      "num": 998573,
+      "word": "河南分数线 求你低一点",
+      "onboard_time": 1750758983,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 975975,
       "num": 975975,
       "word": "佛山震感",
@@ -651,6 +659,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 819293,
+      "num": 543186,
+      "word": "留学生撞死人",
+      "onboard_time": 1750758143,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 811978,
       "num": 811978,
       "word": "以防长称恢复猛烈空袭德黑兰",
@@ -784,14 +800,6 @@
       "word": "女儿被打碎头骨母亲含泪发声",
       "onboard_time": 1750723283,
       "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 747633,
-      "num": 543186,
-      "word": "留学生撞死人",
-      "onboard_time": 1750758143,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -971,6 +979,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 668218,
+      "num": 668218,
+      "word": "卵巢囊肿",
+      "onboard_time": 1750758862,
+      "rank": 13,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 664665,
       "num": 468728,
       "word": "南柱赫回春",
@@ -1001,14 +1017,6 @@
       "onboard_time": 1750655065,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 659382,
-      "num": 659382,
-      "word": "河南分数线 求你低一点",
-      "onboard_time": 1750758983,
-      "rank": 4,
-      "category": "教育"
     },
     {
       "raw_hot": 659159,
@@ -1377,14 +1385,6 @@
       "onboard_time": 1750571842,
       "rank": 16,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 536750,
-      "num": 536750,
-      "word": "卵巢囊肿",
-      "onboard_time": 1750758862,
-      "rank": 13,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 534709,
@@ -1929,6 +1929,14 @@
       "onboard_time": 1750684943,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 415989,
+      "num": 549550,
+      "word": "浙江男子中1000万40天后才发现",
+      "onboard_time": 1750756762,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 415656,
@@ -3011,14 +3019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 280390,
-      "num": 549550,
-      "word": "浙江男子中1000万40天后才发现",
-      "onboard_time": 1750756762,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 276277,
       "num": 183118,
       "word": "停火",
@@ -3307,12 +3307,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 252056,
+      "num": 498627,
+      "word": "深圳一店招工要求每天上班16小时",
+      "onboard_time": 1750759283,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 251766,
       "num": 214169,
       "word": "逆袭",
       "onboard_time": 1750515866,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 251346,
+      "num": 251346,
+      "word": "男生高考643分姐姐说更多的是心疼",
+      "onboard_time": 1750759402,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 251192,
@@ -3635,14 +3651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 228851,
-      "num": 498627,
-      "word": "深圳一店招工要求每天上班16小时",
-      "onboard_time": 1750759283,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 228803,
       "num": 228803,
       "word": "网剧吾凰在上",
@@ -3873,6 +3881,14 @@
       "onboard_time": 1750673482,
       "rank": 35,
       "category": "体育,民生新闻"
+    },
+    {
+      "raw_hot": 215998,
+      "num": 215998,
+      "word": "KPL夏季赛第二轮赛程公布",
+      "onboard_time": 1750761082,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 215995,
@@ -4203,6 +4219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204063,
+      "num": 440353,
+      "word": "传说中命很苦的男主出现了",
+      "onboard_time": 1750760782,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203937,
       "num": 203937,
       "word": "父母强行安排相亲女儿离家出走19年",
@@ -4377,6 +4401,14 @@
       "onboard_time": 1750576882,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200374,
+      "num": 200374,
+      "word": "魏大勋的腿像开了长腿特效",
+      "onboard_time": 1750758382,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 200171,
@@ -4987,12 +5019,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182909,
+      "num": 433518,
+      "word": "国产剧终于有不择手段的恶人女主",
+      "onboard_time": 1750756163,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182720,
       "num": 182720,
       "word": "A股",
       "onboard_time": 1750644921,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 182399,
+      "num": 432005,
+      "word": "张译新剧找不出1个好人",
+      "onboard_time": 1750760841,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 182385,
@@ -5465,14 +5513,6 @@
       "onboard_time": 1750640721,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 166889,
-      "num": 166889,
-      "word": "魏大勋的腿像开了长腿特效",
-      "onboard_time": 1750758382,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 166562,
@@ -6171,14 +6211,6 @@
       "category": "民生新闻,休闲"
     },
     {
-      "raw_hot": 146594,
-      "num": 183544,
-      "word": "国产剧终于有不择手段的恶人女主",
-      "onboard_time": 1750756163,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 146583,
       "num": 146583,
       "word": "黑龙江本科线历史类405物理类360",
@@ -6337,14 +6369,6 @@
       "onboard_time": 1750747641,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 143555,
-      "num": 162198,
-      "word": "传说中命很苦的男主出现了",
-      "onboard_time": 1750760782,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 143442,
@@ -6569,6 +6593,14 @@
       "onboard_time": 1750654824,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 138869,
+      "num": 138869,
+      "word": "默契的AA让友谊天长地久",
+      "onboard_time": 1750761203,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 138710,
@@ -6915,6 +6947,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 131635,
+      "num": 131635,
+      "word": "高敏感人的7个特征",
+      "onboard_time": 1750760903,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 131476,
       "num": 163647,
       "word": "高速大桥垮塌悬空司机获救全程曝光",
@@ -7131,6 +7171,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 125943,
+      "num": 156558,
+      "word": "丁程鑫到60岁还是时代少年团",
+      "onboard_time": 1750761862,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125897,
       "num": 125897,
       "word": "38万片杜冷丁进毒品市场院长判死缓",
@@ -7185,14 +7233,6 @@
       "onboard_time": 1750521322,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 125157,
-      "num": 125157,
-      "word": "高敏感人的7个特征",
-      "onboard_time": 1750760903,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 125079,
@@ -7417,6 +7457,14 @@
       "onboard_time": 1750669883,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119406,
+      "num": 143098,
+      "word": "以色列警告伊朗不要违反停火协议",
+      "onboard_time": 1750761622,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 119136,
@@ -7731,6 +7779,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 109602,
+      "num": 480377,
+      "word": "男子争当榜一大哥诈骗12名亲友1683万",
+      "onboard_time": 1750760483,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109261,
       "num": 172987,
       "word": "迪丽热巴私下逗狗",
@@ -7835,6 +7891,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 106104,
+      "num": 132871,
+      "word": "死亡搁浅2 不值500",
+      "onboard_time": 1750761024,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 106088,
       "num": 358068,
       "word": "官方通报贵州一高速大桥垮塌",
@@ -7857,6 +7921,14 @@
       "onboard_time": 1750725923,
       "rank": 45,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 105314,
+      "num": 105314,
+      "word": "孟子义又演上聪明人了",
+      "onboard_time": 1750761562,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 105284,
@@ -8987,14 +9059,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 55339,
-      "num": 480377,
-      "word": "男子争当榜一大哥诈骗12名亲友1683万",
-      "onboard_time": 1750760483,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 55150,
       "num": 244434,
       "word": "中南大学为什么能工医并举",
@@ -9211,20 +9275,20 @@
       "category": "国际时政,民生新闻"
     },
     {
+      "raw_hot": 47617,
+      "num": 160054,
+      "word": "河大新增4个特色班要怎么选",
+      "onboard_time": 1750759823,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 47341,
       "num": 457834,
       "word": "曹玉磊回应被清华经管学院打假",
       "onboard_time": 1750677745,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 46958,
-      "num": 160054,
-      "word": "河大新增4个特色班要怎么选",
-      "onboard_time": 1750759823,
-      "rank": 35,
-      "category": "教育"
     },
     {
       "raw_hot": 46424,
@@ -9528,6 +9592,14 @@
       "word": "广东海洋大学虐猫",
       "onboard_time": 1750548918,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33781,
+      "num": 183481,
+      "word": "被200只猫改变的村庄",
+      "onboard_time": 1750761683,
+      "rank": 29,
       "category": "民生新闻"
     },
     {

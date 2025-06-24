@@ -1,6 +1,6 @@
 {
   "startTime": 1750696476897,
-  "endTime": 1750760975311,
+  "endTime": 1750762044026,
   "band_list": [
     {
       "raw_hot": 9141770,
@@ -179,6 +179,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 998573,
+      "num": 998573,
+      "word": "河南分数线 求你低一点",
+      "onboard_time": 1750758983,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 950117,
       "num": 464119,
       "word": "荔枝 催月经",
@@ -209,6 +217,14 @@
       "onboard_time": 1750719857,
       "rank": 12,
       "category": "体育,国际时政"
+    },
+    {
+      "raw_hot": 819293,
+      "num": 543186,
+      "word": "留学生撞死人",
+      "onboard_time": 1750758143,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 811978,
@@ -248,14 +264,6 @@
       "word": "女儿被打碎头骨母亲含泪发声",
       "onboard_time": 1750723283,
       "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 747633,
-      "num": 543186,
-      "word": "留学生撞死人",
-      "onboard_time": 1750758143,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -299,12 +307,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 659382,
-      "num": 659382,
-      "word": "河南分数线 求你低一点",
-      "onboard_time": 1750758983,
-      "rank": 4,
-      "category": "教育"
+      "raw_hot": 668218,
+      "num": 668218,
+      "word": "卵巢囊肿",
+      "onboard_time": 1750758862,
+      "rank": 13,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 638158,
@@ -425,14 +433,6 @@
       "onboard_time": 1750687463,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 536750,
-      "num": 536750,
-      "word": "卵巢囊肿",
-      "onboard_time": 1750758862,
-      "rank": 13,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 520353,
@@ -585,6 +585,14 @@
       "onboard_time": 1750737262,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 415989,
+      "num": 549550,
+      "word": "浙江男子中1000万40天后才发现",
+      "onboard_time": 1750756762,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 409814,
@@ -835,14 +843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 280390,
-      "num": 549550,
-      "word": "浙江男子中1000万40天后才发现",
-      "onboard_time": 1750756762,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 278805,
       "num": 245137,
       "word": "广州震感",
@@ -947,6 +947,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 252056,
+      "num": 498627,
+      "word": "深圳一店招工要求每天上班16小时",
+      "onboard_time": 1750759283,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 251346,
+      "num": 251346,
+      "word": "男生高考643分姐姐说更多的是心疼",
+      "onboard_time": 1750759402,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 248542,
       "num": 248542,
       "word": "男子被追打躲进朋友宝马人车遭打砸",
@@ -1027,14 +1043,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 228851,
-      "num": 498627,
-      "word": "深圳一店招工要求每天上班16小时",
-      "onboard_time": 1750759283,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 226904,
       "num": 256731,
       "word": "十个勤天再成立新公司",
@@ -1065,6 +1073,14 @@
       "onboard_time": 1750739845,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215998,
+      "num": 215998,
+      "word": "KPL夏季赛第二轮赛程公布",
+      "onboard_time": 1750761082,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 213343,
@@ -1145,6 +1161,14 @@
       "onboard_time": 1750749502,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204063,
+      "num": 440353,
+      "word": "传说中命很苦的男主出现了",
+      "onboard_time": 1750760782,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 204051,
@@ -1233,6 +1257,14 @@
       "onboard_time": 1750740083,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200374,
+      "num": 200374,
+      "word": "魏大勋的腿像开了长腿特效",
+      "onboard_time": 1750758382,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 200171,
@@ -1403,6 +1435,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 182909,
+      "num": 433518,
+      "word": "国产剧终于有不择手段的恶人女主",
+      "onboard_time": 1750756163,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 182399,
+      "num": 432005,
+      "word": "张译新剧找不出1个好人",
+      "onboard_time": 1750760841,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180497,
       "num": 180497,
       "word": "北京 热",
@@ -1513,14 +1561,6 @@
       "onboard_time": 1750738704,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 166889,
-      "num": 166889,
-      "word": "魏大勋的腿像开了长腿特效",
-      "onboard_time": 1750758382,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 166562,
@@ -1683,14 +1723,6 @@
       "category": "休闲,民生新闻"
     },
     {
-      "raw_hot": 146594,
-      "num": 183544,
-      "word": "国产剧终于有不择手段的恶人女主",
-      "onboard_time": 1750756163,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 146583,
       "num": 146583,
       "word": "黑龙江本科线历史类405物理类360",
@@ -1753,14 +1785,6 @@
       "onboard_time": 1750747641,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 143555,
-      "num": 162198,
-      "word": "传说中命很苦的男主出现了",
-      "onboard_time": 1750760782,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 143442,
@@ -1833,6 +1857,14 @@
       "onboard_time": 1750720879,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 138869,
+      "num": 138869,
+      "word": "默契的AA让友谊天长地久",
+      "onboard_time": 1750761203,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 138710,
@@ -1923,6 +1955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131635,
+      "num": 131635,
+      "word": "高敏感人的7个特征",
+      "onboard_time": 1750760903,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 131476,
       "num": 163647,
       "word": "高速大桥垮塌悬空司机获救全程曝光",
@@ -1971,20 +2011,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 125943,
+      "num": 156558,
+      "word": "丁程鑫到60岁还是时代少年团",
+      "onboard_time": 1750761862,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125742,
       "num": 938396,
       "word": "抗战胜利80周年纪念活动安排一文速览",
       "onboard_time": 1750750882,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 125157,
-      "num": 125157,
-      "word": "高敏感人的7个特征",
-      "onboard_time": 1750760903,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 123848,
@@ -2041,6 +2081,14 @@
       "onboard_time": 1750685845,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119406,
+      "num": 143098,
+      "word": "以色列警告伊朗不要违反停火协议",
+      "onboard_time": 1750761622,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 118128,
@@ -2107,6 +2155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 109602,
+      "num": 480377,
+      "word": "男子争当榜一大哥诈骗12名亲友1683万",
+      "onboard_time": 1750760483,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109261,
       "num": 172987,
       "word": "迪丽热巴私下逗狗",
@@ -2139,6 +2195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106104,
+      "num": 132871,
+      "word": "死亡搁浅2 不值500",
+      "onboard_time": 1750761024,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 106088,
       "num": 358068,
       "word": "官方通报贵州一高速大桥垮塌",
@@ -2161,6 +2225,14 @@
       "onboard_time": 1750725923,
       "rank": 45,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 105314,
+      "num": 105314,
+      "word": "孟子义又演上聪明人了",
+      "onboard_time": 1750761562,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 105018,
@@ -2595,14 +2667,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 55339,
-      "num": 480377,
-      "word": "男子争当榜一大哥诈骗12名亲友1683万",
-      "onboard_time": 1750760483,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 54932,
       "num": 54932,
       "word": "40枚导弹射向以色列",
@@ -2683,20 +2747,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 47617,
+      "num": 160054,
+      "word": "河大新增4个特色班要怎么选",
+      "onboard_time": 1750759823,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 47485,
       "num": 69982,
       "word": "深圳震感",
       "onboard_time": 1750676366,
       "rank": 49,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 46958,
-      "num": 160054,
-      "word": "河大新增4个特色班要怎么选",
-      "onboard_time": 1750759823,
-      "rank": 35,
-      "category": "教育"
     },
     {
       "raw_hot": 46232,
@@ -2769,6 +2833,14 @@
       "onboard_time": 1750701376,
       "rank": 26,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 33781,
+      "num": 183481,
+      "word": "被200只猫改变的村庄",
+      "onboard_time": 1750761683,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32030,

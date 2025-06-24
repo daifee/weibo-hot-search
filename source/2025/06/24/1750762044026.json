@@ -1,0 +1,410 @@
+{
+  "runTime": 1750762044026,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1352944,
+        "num": 1352944,
+        "word": "小米悠悠去世",
+        "onboard_time": 1750752923,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 998573,
+        "num": 998573,
+        "word": "河南分数线 求你低一点",
+        "onboard_time": 1750758983,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 100293,
+        "num": 834913,
+        "word": "抗战胜利80周年纪念活动安排一文速览",
+        "onboard_time": 1750750882,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 709990,
+        "num": 709990,
+        "word": "竹节虫",
+        "onboard_time": 1750751000,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 668218,
+        "num": 668218,
+        "word": "卵巢囊肿",
+        "onboard_time": 1750758862,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 659244,
+        "num": 659244,
+        "word": "年薪达20万就业率95%老师乐坏了",
+        "onboard_time": 1750756642,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 500409,
+        "num": 500409,
+        "word": "湖南分数线",
+        "onboard_time": 1750757543,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 441535,
+        "num": 441535,
+        "word": "高考713分女生回应生物满分",
+        "onboard_time": 1750755683,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251295,
+        "num": 441227,
+        "word": "一梦如初开播",
+        "onboard_time": 1750756223,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204063,
+        "num": 440353,
+        "word": "传说中命很苦的男主出现了",
+        "onboard_time": 1750760782,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 831325,
+        "num": 439495,
+        "word": "林志颖儿子kimi现在好帅",
+        "onboard_time": 1750755143,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 819293,
+        "num": 438454,
+        "word": "留学生撞死人",
+        "onboard_time": 1750758143,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 661819,
+        "num": 437124,
+        "word": "伊朗被骗得一愣一愣的",
+        "onboard_time": 1750748183,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 482268,
+        "num": 436194,
+        "word": "学生查出713分老师集体沸腾了",
+        "onboard_time": 1750731742,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 436145,
+        "num": 436145,
+        "word": "韩安冉妈妈胜诉",
+        "onboard_time": 1750758562,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 182909,
+        "num": 433518,
+        "word": "国产剧终于有不择手段的恶人女主",
+        "onboard_time": 1750756163,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182399,
+        "num": 432005,
+        "word": "张译新剧找不出1个好人",
+        "onboard_time": 1750760841,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144287,
+        "num": 424061,
+        "word": "你好星期六泼水直播",
+        "onboard_time": 1750751482,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143092,
+        "num": 423973,
+        "word": "王阳47岁的状态",
+        "onboard_time": 1750755383,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92274,
+        "num": 419700,
+        "word": "阿兹海默新药进入好医保报销清单",
+        "onboard_time": 1750759402,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 415989,
+        "num": 415989,
+        "word": "浙江男子中1000万40天后才发现",
+        "onboard_time": 1750756762,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 405218,
+        "num": 405218,
+        "word": "以防长称恢复猛烈空袭德黑兰",
+        "onboard_time": 1750753883,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 278977,
+        "num": 278977,
+        "word": "分数线",
+        "onboard_time": 1750752800,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 276664,
+        "num": 276664,
+        "word": "江苏分数线",
+        "onboard_time": 1750754363,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 252056,
+        "num": 252056,
+        "word": "深圳一店招工要求每天上班16小时",
+        "onboard_time": 1750759283,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251346,
+        "num": 251346,
+        "word": "男生高考643分姐姐说更多的是心疼",
+        "onboard_time": 1750759402,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215998,
+        "num": 215998,
+        "word": "KPL夏季赛第二轮赛程公布",
+        "onboard_time": 1750761082,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 200374,
+        "num": 200374,
+        "word": "魏大勋的腿像开了长腿特效",
+        "onboard_time": 1750758382,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140672,
+        "num": 184792,
+        "word": "半个娱乐圈都在看短剧一梦",
+        "onboard_time": 1750751783,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33781,
+        "num": 183481,
+        "word": "被200只猫改变的村庄",
+        "onboard_time": 1750761683,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182658,
+        "num": 182658,
+        "word": "骗70岁父亲去学校签字才能拿毕业证",
+        "onboard_time": 1750753103,
+        "rank": 30,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 174005,
+        "num": 174005,
+        "word": "2025高考分数线汇总",
+        "onboard_time": 1750757242,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 98504,
+        "num": 163373,
+        "word": "贵州榕江遭遇特大洪水袭击",
+        "onboard_time": 1750749562,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160225,
+        "num": 160225,
+        "word": "内塔尼亚胡确认以色列同意停火",
+        "onboard_time": 1750757242,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125943,
+        "num": 156558,
+        "word": "丁程鑫到60岁还是时代少年团",
+        "onboard_time": 1750761862,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155604,
+        "num": 155604,
+        "word": "北京 热",
+        "onboard_time": 1750760242,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154689,
+        "num": 154689,
+        "word": "以伊宣布正式停火",
+        "onboard_time": 1750735584,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119406,
+        "num": 143098,
+        "word": "以色列警告伊朗不要违反停火协议",
+        "onboard_time": 1750761622,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138869,
+        "num": 138869,
+        "word": "默契的AA让友谊天长地久",
+        "onboard_time": 1750761203,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106104,
+        "num": 132871,
+        "word": "死亡搁浅2 不值500",
+        "onboard_time": 1750761024,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131635,
+        "num": 131635,
+        "word": "高敏感人的7个特征",
+        "onboard_time": 1750760903,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113656,
+        "num": 128649,
+        "word": "李乃文常驻五哈",
+        "onboard_time": 1750746140,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126825,
+        "num": 126825,
+        "word": "小学食堂被指用劣质肉多人被停职",
+        "onboard_time": 1750757483,
+        "rank": 42,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 125779,
+        "num": 125779,
+        "word": "以防长下令有力回应伊朗",
+        "onboard_time": 1750754183,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 47617,
+        "num": 118570,
+        "word": "河大新增4个特色班要怎么选",
+        "onboard_time": 1750759823,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 114076,
+        "num": 114076,
+        "word": "贵州榕江洪水致村超球场10分钟被淹",
+        "onboard_time": 1750757543,
+        "rank": 45,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 110431,
+        "num": 110431,
+        "word": "湖南高考分数线",
+        "onboard_time": 1750759102,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 109602,
+        "num": 109602,
+        "word": "男子争当榜一大哥诈骗12名亲友1683万",
+        "onboard_time": 1750760483,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204048,
+        "num": 109095,
+        "word": "EXO见证了TF家族的发展",
+        "onboard_time": 1750753222,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105314,
+        "num": 105314,
+        "word": "孟子义又演上聪明人了",
+        "onboard_time": 1750761562,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将出席纪念抗战胜利80周年大会#"
+    }
+  }
+}
