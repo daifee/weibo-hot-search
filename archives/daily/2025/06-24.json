@@ -1,6 +1,6 @@
 {
   "startTime": 1750696476897,
-  "endTime": 1750769654838,
+  "endTime": 1750770589904,
   "band_list": [
     {
       "raw_hot": 9141770,
@@ -19,8 +19,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 5197875,
-      "num": 5197875,
+      "raw_hot": 6958294,
+      "num": 6958294,
       "word": "姜涛坠海",
       "onboard_time": 1750767502,
       "rank": 0,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 1179475,
-      "num": 290987,
+      "num": 412501,
       "word": "曝洪金宝儿子儿媳双双出轨",
       "onboard_time": 1750765043,
       "rank": 37,
@@ -419,11 +419,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 579977,
+      "num": 567351,
+      "word": "张桂源中考623分",
+      "onboard_time": 1750769364,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 568211,
       "num": 568211,
       "word": "卡塔尔首都多哈响起爆炸声",
       "onboard_time": 1750699876,
       "rank": 21,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 566783,
+      "num": 566783,
+      "word": "特朗普称以色列和伊朗均违反停火协议",
+      "onboard_time": 1750765460,
+      "rank": 4,
       "category": "国际时政"
     },
     {
@@ -507,6 +523,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 495892,
+      "num": 495892,
+      "word": "男子吸毒28年耗尽千万家产",
+      "onboard_time": 1750769543,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 489758,
       "num": 489758,
       "word": "阅兵由徒步方队装备方队空中梯队组成",
@@ -521,14 +545,6 @@
       "onboard_time": 1750755082,
       "rank": 6,
       "category": "教育"
-    },
-    {
-      "raw_hot": 479827,
-      "num": 479827,
-      "word": "特朗普称以色列和伊朗均违反停火协议",
-      "onboard_time": 1750765460,
-      "rank": 4,
-      "category": "国际时政"
     },
     {
       "raw_hot": 479097,
@@ -627,11 +643,27 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 425611,
+      "num": 425611,
+      "word": "俩好友高考一个626分一个627分",
+      "onboard_time": 1750768644,
+      "rank": 20,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 421630,
       "num": 496923,
       "word": "外媒把TOP认成ENHYPEN",
       "onboard_time": 1750737262,
       "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 413104,
+      "num": 413104,
+      "word": "何老师小时候就是何老师",
+      "onboard_time": 1750766124,
+      "rank": 7,
       "category": "艺人"
     },
     {
@@ -649,14 +681,6 @@
       "onboard_time": 1750765163,
       "rank": 6,
       "category": "教育"
-    },
-    {
-      "raw_hot": 391169,
-      "num": 391169,
-      "word": "何老师小时候就是何老师",
-      "onboard_time": 1750766124,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 374701,
@@ -883,6 +907,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 307464,
+      "num": 412662,
+      "word": "男生玩游戏淡定查分妈妈直呼别打了",
+      "onboard_time": 1750767202,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 302216,
       "num": 594832,
       "word": "一梦如初开播",
@@ -899,20 +931,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 292745,
-      "num": 292745,
-      "word": "男生玩游戏淡定查分妈妈直呼别打了",
-      "onboard_time": 1750767202,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 292203,
       "num": 378341,
       "word": "关注以伊冲突最新动态",
       "onboard_time": 1750683983,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 287362,
+      "num": 250937,
+      "word": "陈楚生得知补位歌手的反应",
+      "onboard_time": 1750769484,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 285758,
@@ -1027,14 +1059,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 262204,
-      "num": 262204,
-      "word": "俩好友高考一个626分一个627分",
-      "onboard_time": 1750768644,
-      "rank": 20,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 261874,
       "num": 261874,
       "word": "30多岁的人突然开始运动的原因",
@@ -1057,6 +1081,14 @@
       "onboard_time": 1750681342,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 256843,
+      "num": 256843,
+      "word": "姜涛报平安",
+      "onboard_time": 1750769723,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 256711,
@@ -1089,6 +1121,14 @@
       "onboard_time": 1750760242,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 249992,
+      "num": 249992,
+      "word": "年轻人真的可以尝试挣快钱",
+      "onboard_time": 1750765163,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 248542,
@@ -1155,14 +1195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 240037,
-      "num": 240037,
-      "word": "年轻人真的可以尝试挣快钱",
-      "onboard_time": 1750765163,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 238472,
       "num": 238472,
       "word": "贵州榕江遭遇特大洪水袭击",
@@ -1185,14 +1217,6 @@
       "onboard_time": 1750734562,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 230439,
-      "num": 230439,
-      "word": "陈楚生得知补位歌手的反应",
-      "onboard_time": 1750769484,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 226904,
@@ -1267,6 +1291,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 208725,
+      "num": 208725,
+      "word": "广东海洋大学虐猫学生被留校察看",
+      "onboard_time": 1750766423,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208492,
       "num": 203077,
       "word": "老爹站",
@@ -1281,6 +1313,14 @@
       "onboard_time": 1750742002,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207720,
+      "num": 230486,
+      "word": "4个浪姐做了个养成系女团",
+      "onboard_time": 1750769543,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 205942,
@@ -1312,14 +1352,6 @@
       "word": "王阳47岁的状态",
       "onboard_time": 1750755383,
       "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 204731,
-      "num": 265674,
-      "word": "张桂源中考623分",
-      "onboard_time": 1750769364,
-      "rank": 18,
       "category": "艺人"
     },
     {
@@ -1595,6 +1627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 186085,
+      "num": 233300,
+      "word": "林俊杰金钟国十年兄弟情",
+      "onboard_time": 1750769903,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 185926,
       "num": 185926,
       "word": "当地回应贵州一高架大桥垮塌",
@@ -1763,6 +1803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170047,
+      "num": 170047,
+      "word": "湖南高考查分",
+      "onboard_time": 1750767202,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 169475,
       "num": 282417,
       "word": "警方通报26岁男子多次在楼道偷窥",
@@ -1809,6 +1857,14 @@
       "onboard_time": 1750737143,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164065,
+      "num": 164065,
+      "word": "小米YU7支持车外小爱语音",
+      "onboard_time": 1750769243,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 163977,
@@ -1947,22 +2003,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 153500,
-      "num": 153500,
-      "word": "广东海洋大学虐猫学生被留校察看",
-      "onboard_time": 1750766423,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 151935,
-      "num": 151935,
-      "word": "小米YU7支持车外小爱语音",
-      "onboard_time": 1750769243,
-      "rank": 37,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 149704,
       "num": 149704,
       "word": "迈阿密国际vs帕尔梅拉斯",
@@ -1971,20 +2011,20 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 149562,
+      "num": 149562,
+      "word": "EDG张峻程",
+      "onboard_time": 1750770325,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 149335,
       "num": 154319,
       "word": "我们的宿舍直播",
       "onboard_time": 1750764262,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 148955,
-      "num": 148955,
-      "word": "男子吸毒28年耗尽千万家产",
-      "onboard_time": 1750769543,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 148374,
@@ -2017,6 +2057,14 @@
       "onboard_time": 1750750882,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 147174,
+      "num": 147174,
+      "word": "白鹿发视频跟花如月说再见",
+      "onboard_time": 1750770265,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 146873,
@@ -2115,6 +2163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142607,
+      "num": 142607,
+      "word": "广东海洋大学回应学生虐猫事件",
+      "onboard_time": 1750770085,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142109,
       "num": 142109,
       "word": "6月共11款进口游戏获批",
@@ -2145,6 +2201,14 @@
       "onboard_time": 1750749802,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 141217,
+      "num": 141217,
+      "word": "男生查分642分称还有5分加分",
+      "onboard_time": 1750768701,
+      "rank": 44,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 140870,
@@ -2267,6 +2331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132890,
+      "num": 132890,
+      "word": "枭起青壤这怕不是喜剧吧",
+      "onboard_time": 1750769663,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132487,
       "num": 132487,
       "word": "藏海传微博收官战报",
@@ -2331,12 +2403,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 127936,
-      "num": 127936,
-      "word": "4个浪姐做了个养成系女团",
-      "onboard_time": 1750769543,
+      "raw_hot": 126882,
+      "num": 126882,
+      "word": "檀健次孟子义又惨又好笑",
+      "onboard_time": 1750770445,
       "rank": 47,
-      "category": "作品衍生"
+      "category": "综艺"
     },
     {
       "raw_hot": 126798,
@@ -2979,6 +3051,14 @@
       "category": "综艺,休闲"
     },
     {
+      "raw_hot": 61507,
+      "num": 252184,
+      "word": "综合院校医学部值得上吗",
+      "onboard_time": 1750770145,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 60373,
       "num": 366029,
       "word": "电视剧长安的荔枝收官",
@@ -3131,6 +3211,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 48346,
+      "num": 150021,
+      "word": "夏尔帅的太权威了",
+      "onboard_time": 1750770085,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 48097,
       "num": 156591,
       "word": "肩胛骨缝疼如何缓解",
@@ -3247,6 +3335,14 @@
       "num": 183481,
       "word": "被200只猫改变的村庄",
       "onboard_time": 1750761683,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32465,
+      "num": 217523,
+      "word": "直击榕江暴雨洪涝救援",
+      "onboard_time": 1750770145,
       "rank": 29,
       "category": "民生新闻"
     },

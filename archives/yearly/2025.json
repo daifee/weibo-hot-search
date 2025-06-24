@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1750769654838,
+  "endTime": 1750770589904,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1315,6 +1315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 6958294,
+      "num": 6958294,
+      "word": "姜涛坠海",
+      "onboard_time": 1750767502,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 6912060,
       "num": 6912060,
       "word": "王楚钦孙颖莎vs吉村真晴大藤沙月",
@@ -1457,14 +1465,6 @@
       "onboard_time": 1738067987,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 5197875,
-      "num": 5197875,
-      "word": "姜涛坠海",
-      "onboard_time": 1750767502,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 5151427,

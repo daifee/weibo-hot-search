@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750769654838,
+  "endTime": 1750770589904,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -43,20 +43,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 6958294,
+      "num": 6958294,
+      "word": "姜涛坠海",
+      "onboard_time": 1750767502,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 6062877,
       "num": 6062877,
       "word": "内蒙古通报那尔那茜有关核查情况",
       "onboard_time": 1750514603,
       "rank": 0,
       "category": "艺人,辟谣/通报"
-    },
-    {
-      "raw_hot": 5197875,
-      "num": 5197875,
-      "word": "姜涛坠海",
-      "onboard_time": 1750767502,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 3257352,
@@ -396,7 +396,7 @@
     },
     {
       "raw_hot": 1179475,
-      "num": 290987,
+      "num": 412501,
       "word": "曝洪金宝儿子儿媳双双出轨",
       "onboard_time": 1750765043,
       "rank": 37,
@@ -1283,11 +1283,27 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 579977,
+      "num": 567351,
+      "word": "张桂源中考623分",
+      "onboard_time": 1750769364,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 568211,
       "num": 568211,
       "word": "卡塔尔首都多哈响起爆炸声",
       "onboard_time": 1750699876,
       "rank": 21,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 566783,
+      "num": 566783,
+      "word": "特朗普称以色列和伊朗均违反停火协议",
+      "onboard_time": 1750765460,
+      "rank": 4,
       "category": "国际时政"
     },
     {
@@ -1587,6 +1603,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 495892,
+      "num": 495892,
+      "word": "男子吸毒28年耗尽千万家产",
+      "onboard_time": 1750769543,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 491934,
       "num": 362047,
       "word": "宋佳 陈龙",
@@ -1649,14 +1673,6 @@
       "onboard_time": 1750591402,
       "rank": 29,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 479827,
-      "num": 479827,
-      "word": "特朗普称以色列和伊朗均违反停火协议",
-      "onboard_time": 1750765460,
-      "rank": 4,
-      "category": "国际时政"
     },
     {
       "raw_hot": 479097,
@@ -1939,6 +1955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 425611,
+      "num": 425611,
+      "word": "俩好友高考一个626分一个627分",
+      "onboard_time": 1750768644,
+      "rank": 20,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 422414,
       "num": 422414,
       "word": "美军用超125架战机作诱饵打击伊朗",
@@ -2001,6 +2025,14 @@
       "onboard_time": 1750556301,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 413104,
+      "num": 413104,
+      "word": "何老师小时候就是何老师",
+      "onboard_time": 1750766124,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 412281,
@@ -2153,14 +2185,6 @@
       "onboard_time": 1750765163,
       "rank": 6,
       "category": "教育"
-    },
-    {
-      "raw_hot": 391169,
-      "num": 391169,
-      "word": "何老师小时候就是何老师",
-      "onboard_time": 1750766124,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 385777,
@@ -2795,6 +2819,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 307464,
+      "num": 412662,
+      "word": "男生玩游戏淡定查分妈妈直呼别打了",
+      "onboard_time": 1750767202,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 307407,
       "num": 307407,
       "word": "张柏芝给周星驰送生日祝福",
@@ -2995,14 +3027,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 292745,
-      "num": 292745,
-      "word": "男生玩游戏淡定查分妈妈直呼别打了",
-      "onboard_time": 1750767202,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 288756,
       "num": 374385,
       "word": "西出玉门",
@@ -3025,6 +3049,14 @@
       "onboard_time": 1750595662,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 287362,
+      "num": 250937,
+      "word": "陈楚生得知补位歌手的反应",
+      "onboard_time": 1750769484,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 285915,
@@ -3315,14 +3347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 262204,
-      "num": 262204,
-      "word": "俩好友高考一个626分一个627分",
-      "onboard_time": 1750768644,
-      "rank": 20,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 261874,
       "num": 261874,
       "word": "30多岁的人突然开始运动的原因",
@@ -3352,6 +3376,14 @@
       "word": "韩网评闵玧其捐款50亿",
       "onboard_time": 1750655662,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 256843,
+      "num": 256843,
+      "word": "姜涛报平安",
+      "onboard_time": 1750769723,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -3473,6 +3505,14 @@
       "onboard_time": 1750760242,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 249992,
+      "num": 249992,
+      "word": "年轻人真的可以尝试挣快钱",
+      "onboard_time": 1750765163,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 249666,
@@ -3619,14 +3659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 240037,
-      "num": 240037,
-      "word": "年轻人真的可以尝试挣快钱",
-      "onboard_time": 1750765163,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 239924,
       "num": 323926,
       "word": "newjeans代言品牌陆续解约",
@@ -3769,14 +3801,6 @@
       "onboard_time": 1750512143,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 230439,
-      "num": 230439,
-      "word": "陈楚生得知补位歌手的反应",
-      "onboard_time": 1750769484,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 229825,
@@ -4219,6 +4243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208725,
+      "num": 208725,
+      "word": "广东海洋大学虐猫学生被留校察看",
+      "onboard_time": 1750766423,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208492,
       "num": 203077,
       "word": "老爹站",
@@ -4265,6 +4297,14 @@
       "onboard_time": 1750656861,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 207720,
+      "num": 230486,
+      "word": "4个浪姐做了个养成系女团",
+      "onboard_time": 1750769543,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 207178,
@@ -4352,14 +4392,6 @@
       "word": "王阳47岁的状态",
       "onboard_time": 1750755383,
       "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 204731,
-      "num": 265674,
-      "word": "张桂源中考623分",
-      "onboard_time": 1750769364,
-      "rank": 18,
       "category": "艺人"
     },
     {
@@ -5123,6 +5155,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 186085,
+      "num": 233300,
+      "word": "林俊杰金钟国十年兄弟情",
+      "onboard_time": 1750769903,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 186060,
       "num": 356936,
       "word": "男子奶茶内放精神药品猥亵女子",
@@ -5627,6 +5667,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 170047,
+      "num": 170047,
+      "word": "湖南高考查分",
+      "onboard_time": 1750767202,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 169808,
       "num": 188058,
       "word": "迪丽热巴斩枭暂停派对启动",
@@ -5817,6 +5865,14 @@
       "onboard_time": 1750569141,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 164065,
+      "num": 164065,
+      "word": "小米YU7支持车外小爱语音",
+      "onboard_time": 1750769243,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 163977,
@@ -6243,14 +6299,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 153500,
-      "num": 153500,
-      "word": "广东海洋大学虐猫学生被留校察看",
-      "onboard_time": 1750766423,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 153390,
       "num": 153390,
       "word": "李晟我最好的朋友是我的爱人",
@@ -6281,14 +6329,6 @@
       "onboard_time": 1750661063,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 151935,
-      "num": 151935,
-      "word": "小米YU7支持车外小爱语音",
-      "onboard_time": 1750769243,
-      "rank": 37,
-      "category": "汽车"
     },
     {
       "raw_hot": 151925,
@@ -6347,6 +6387,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 149562,
+      "num": 149562,
+      "word": "EDG张峻程",
+      "onboard_time": 1750770325,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 149335,
       "num": 154319,
       "word": "我们的宿舍直播",
@@ -6361,14 +6409,6 @@
       "onboard_time": 1750560623,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 148955,
-      "num": 148955,
-      "word": "男子吸毒28年耗尽千万家产",
-      "onboard_time": 1750769543,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 148874,
@@ -6465,6 +6505,14 @@
       "onboard_time": 1750750882,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 147174,
+      "num": 147174,
+      "word": "白鹿发视频跟花如月说再见",
+      "onboard_time": 1750770265,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 147048,
@@ -6723,6 +6771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142607,
+      "num": 142607,
+      "word": "广东海洋大学回应学生虐猫事件",
+      "onboard_time": 1750770085,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142537,
       "num": 141541,
       "word": "韩国人科普中国纸巾",
@@ -6817,6 +6873,14 @@
       "onboard_time": 1750749802,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 141217,
+      "num": 141217,
+      "word": "男生查分642分称还有5分加分",
+      "onboard_time": 1750768701,
+      "rank": 44,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 141203,
@@ -7155,6 +7219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132890,
+      "num": 132890,
+      "word": "枭起青壤这怕不是喜剧吧",
+      "onboard_time": 1750769663,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132834,
       "num": 132834,
       "word": "驾车在赛里木湖毁草漂移涉嫌违法",
@@ -7419,14 +7491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 127936,
-      "num": 127936,
-      "word": "4个浪姐做了个养成系女团",
-      "onboard_time": 1750769543,
-      "rank": 47,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 127894,
       "num": 127894,
       "word": "mlxg直播回应被执行2500万",
@@ -7465,6 +7529,14 @@
       "onboard_time": 1750521322,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126882,
+      "num": 126882,
+      "word": "檀健次孟子义又惨又好笑",
+      "onboard_time": 1750770445,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 126798,
@@ -9267,6 +9339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61507,
+      "num": 252184,
+      "word": "综合院校医学部值得上吗",
+      "onboard_time": 1750770145,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 61162,
       "num": 235253,
       "word": "王力宏演唱会的嘉宾是李治廷",
@@ -9641,6 +9721,14 @@
       "onboard_time": 1750546337,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 48346,
+      "num": 150021,
+      "word": "夏尔帅的太权威了",
+      "onboard_time": 1750770085,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 48097,
@@ -10025,6 +10113,14 @@
       "onboard_time": 1750661004,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 32465,
+      "num": 217523,
+      "word": "直击榕江暴雨洪涝救援",
+      "onboard_time": 1750770145,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32326,
