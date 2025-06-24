@@ -1,6 +1,6 @@
 {
   "startTime": 1750782835563,
-  "endTime": 1750782835563,
+  "endTime": 1750783811725,
   "band_list": [
     {
       "raw_hot": 1287324,
@@ -27,8 +27,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 480420,
-      "num": 480420,
+      "raw_hot": 484958,
+      "num": 710944,
       "word": "男生高考715分北大来电差点挂掉",
       "onboard_time": 1750778483,
       "rank": 1,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 382712,
+      "num": 382712,
+      "word": "偷偷藏不住",
+      "onboard_time": 1750778604,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 361883,
       "num": 361883,
       "word": "张桂源中考623分",
@@ -67,12 +75,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 324925,
-      "num": 298482,
-      "word": "偷偷藏不住",
-      "onboard_time": 1750778604,
-      "rank": 12,
-      "category": "剧集"
+      "raw_hot": 323947,
+      "num": 323947,
+      "word": "河南高考分数线",
+      "onboard_time": 1750775126,
+      "rank": 8,
+      "category": "教育"
     },
     {
       "raw_hot": 319063,
@@ -80,14 +88,6 @@
       "word": "江苏高考最高分",
       "onboard_time": 1750772183,
       "rank": 5,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 304573,
-      "num": 304573,
-      "word": "河南高考分数线",
-      "onboard_time": 1750775126,
-      "rank": 8,
       "category": "教育"
     },
     {
@@ -107,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 274975,
+      "num": 274975,
+      "word": "萧亚轩回复郑钦文",
+      "onboard_time": 1750780523,
+      "rank": 20,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 266990,
       "num": 266990,
       "word": "曝洪金宝儿子儿媳双双出轨",
@@ -121,14 +129,6 @@
       "onboard_time": 1750755143,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 249966,
-      "num": 249966,
-      "word": "萧亚轩回复郑钦文",
-      "onboard_time": 1750780523,
-      "rank": 20,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 244399,
@@ -259,6 +259,14 @@
       "category": "民生新闻,动漫"
     },
     {
+      "raw_hot": 108539,
+      "num": 250381,
+      "word": "救助百名弃婴的道禄被传涉案",
+      "onboard_time": 1750782081,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107558,
       "num": 107558,
       "word": "张若昀蜡像绝了",
@@ -299,20 +307,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 90738,
-      "num": 90738,
-      "word": "美军B2轰炸机袭击伊朗核设施",
-      "onboard_time": 1750778184,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 88158,
-      "num": 88158,
+      "raw_hot": 91210,
+      "num": 91210,
       "word": "贵州榕江众志成城筑牢生命防线",
       "onboard_time": 1750768283,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90738,
+      "num": 271448,
+      "word": "美军B2轰炸机袭击伊朗核设施",
+      "onboard_time": 1750778184,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 87817,
@@ -329,6 +337,14 @@
       "onboard_time": 1750758983,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 85220,
+      "num": 303341,
+      "word": "广东海洋大学虐猫学生被留校察看",
+      "onboard_time": 1750766423,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80126,
@@ -355,12 +371,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 75676,
-      "num": 303341,
-      "word": "广东海洋大学虐猫学生被留校察看",
-      "onboard_time": 1750766423,
-      "rank": 9,
+      "raw_hot": 74127,
+      "num": 74127,
+      "word": "女生高考662分打算学医",
+      "onboard_time": 1750782681,
+      "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73670,
+      "num": 179185,
+      "word": "姜涛获救画面曝光",
+      "onboard_time": 1750783280,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 72889,
@@ -371,14 +395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 69484,
-      "num": 69484,
-      "word": "女生高考662分打算学医",
-      "onboard_time": 1750782681,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 69406,
       "num": 69406,
       "word": "王毅同伊外长通电话",
@@ -387,12 +403,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 64655,
-      "num": 250381,
-      "word": "救助百名弃婴的道禄被传涉案",
-      "onboard_time": 1750782081,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 55495,
+      "num": 55495,
+      "word": "林俊杰金钟国十年兄弟情",
+      "onboard_time": 1750769903,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 52326,
+      "num": 52326,
+      "word": "白鹿资讯站",
+      "onboard_time": 1750783759,
+      "rank": 49,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [

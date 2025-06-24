@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750782835563,
+  "endTime": 1750783811725,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -1763,20 +1763,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 484958,
+      "num": 710944,
+      "word": "男生高考715分北大来电差点挂掉",
+      "onboard_time": 1750778483,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 482282,
       "num": 399118,
       "word": "五角大楼附近披萨店又爆单了",
       "onboard_time": 1750591402,
       "rank": 29,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 480420,
-      "num": 480420,
-      "word": "男生高考715分北大来电差点挂掉",
-      "onboard_time": 1750778483,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 479097,
@@ -2331,6 +2331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 382712,
+      "num": 382712,
+      "word": "偷偷藏不住",
+      "onboard_time": 1750778604,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 378527,
       "num": 378527,
       "word": "迪丽热巴紫瞳",
@@ -2875,14 +2883,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 324925,
-      "num": 298482,
-      "word": "偷偷藏不住",
-      "onboard_time": 1750778604,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 323860,
       "num": 509560,
       "word": "伊朗报复美国的三种方式",
@@ -3371,6 +3371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 274975,
+      "num": 274975,
+      "word": "萧亚轩回复郑钦文",
+      "onboard_time": 1750780523,
+      "rank": 20,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 274951,
       "num": 373478,
       "word": "王弘毅疑似回应",
@@ -3721,14 +3729,6 @@
       "onboard_time": 1750765163,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 249966,
-      "num": 249966,
-      "word": "萧亚轩回复郑钦文",
-      "onboard_time": 1750780523,
-      "rank": 20,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 249666,
@@ -8763,6 +8763,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 108539,
+      "num": 250381,
+      "word": "救助百名弃婴的道禄被传涉案",
+      "onboard_time": 1750782081,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107996,
       "num": 107996,
       "word": "260平两房的家",
@@ -9683,6 +9691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74127,
+      "num": 74127,
+      "word": "女生高考662分打算学医",
+      "onboard_time": 1750782681,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74084,
       "num": 238181,
       "word": "EXO签名海报如何保存",
@@ -9705,6 +9721,14 @@
       "onboard_time": 1750641081,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73670,
+      "num": 179185,
+      "word": "姜涛获救画面曝光",
+      "onboard_time": 1750783280,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 73085,
@@ -9811,14 +9835,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 69484,
-      "num": 69484,
-      "word": "女生高考662分打算学医",
-      "onboard_time": 1750782681,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 69270,
       "num": 204204,
       "word": "40度高温天要来了",
@@ -9897,14 +9913,6 @@
       "onboard_time": 1750752262,
       "rank": 39,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 64655,
-      "num": 250381,
-      "word": "救助百名弃婴的道禄被传涉案",
-      "onboard_time": 1750782081,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 63963,
@@ -10209,6 +10217,14 @@
       "onboard_time": 1750764141,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 52326,
+      "num": 52326,
+      "word": "白鹿资讯站",
+      "onboard_time": 1750783759,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 52213,
