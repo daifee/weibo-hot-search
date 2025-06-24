@@ -1,6 +1,6 @@
 {
   "startTime": 1750782835563,
-  "endTime": 1750800335621,
+  "endTime": 1750801218608,
   "band_list": [
     {
       "raw_hot": 1287324,
@@ -291,6 +291,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 103084,
+      "num": 186649,
+      "word": "地震干饭小孩哥被教育了",
+      "onboard_time": 1750787116,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97694,
       "num": 97694,
       "word": "易烊千玺说来重庆一定吃抄手",
@@ -369,14 +377,6 @@
       "onboard_time": 1750777524,
       "rank": 44,
       "category": "财经,汽车"
-    },
-    {
-      "raw_hot": 79116,
-      "num": 138092,
-      "word": "地震干饭小孩哥被教育了",
-      "onboard_time": 1750787116,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 77962,
@@ -539,12 +539,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22829,
-      "num": 21814,
+      "raw_hot": 26404,
+      "num": 25382,
       "word": "内塔尼亚胡将发表声明",
       "onboard_time": 1750797255,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 19577,
+      "num": 19577,
+      "word": "苗得雨任外交部副部长",
+      "onboard_time": 1750790595,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 19181,
@@ -555,15 +563,15 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 18586,
-      "num": 18586,
-      "word": "苗得雨任外交部副部长",
-      "onboard_time": 1750790595,
-      "rank": 49,
-      "category": "国内时政"
+      "raw_hot": 18489,
+      "num": 18489,
+      "word": "偶遇小沈阳和老婆吃烤肉",
+      "onboard_time": 1750800494,
+      "rank": 48,
+      "category": "艺人"
     },
     {
-      "raw_hot": 16035,
+      "raw_hot": 16922,
       "num": 18138,
       "word": "北漂小伙回应六年存130万",
       "onboard_time": 1750795394,
