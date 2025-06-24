@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/24 17:44:29
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/24 18:29:35
 </p>
 </blockquote>
 <p>
@@ -4923,6 +4923,12 @@ T3司机猥亵大三女生被行拘5日（热度：810171）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%95%99%E5%AD%A6%E7%94%9F%E6%92%9E%E6%AD%BB%E4%BA%BA%23" target="weibo">
+留学生撞死人（热度：747633）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E5%B0%94%E9%82%A3%E8%8C%9C%E5%A6%88%E5%A6%88%23" target="weibo">
 那尔那茜妈妈（热度：747457）
 </a>
@@ -5165,6 +5171,12 @@ Labubu 审美（热度：729066）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%B9%E9%AA%8F%E9%87%91%E5%8F%91%23" target="weibo">
 曹骏金发（热度：727850）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%96%AA%E8%BE%BE20%E4%B8%87%E5%B0%B1%E4%B8%9A%E7%8E%8795%25%E8%80%81%E5%B8%88%E4%B9%90%E5%9D%8F%E4%BA%86%23" target="weibo">
+年薪达20万就业率95%老师乐坏了（热度：727173）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ Bin哥 嘴硬（热度：664927）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23GAI%E9%BB%84%E7%A7%8D%E4%BA%BA%23" target="weibo">
 GAI黄种人（热度：660631）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23GAI%20%E8%AF%A5%E5%81%9A%E7%83%AD%E7%8E%9B%E5%90%89%E4%BA%86%23" target="weibo">
-GAI 该做热玛吉了（热度：660381）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E5%B8%85%E5%AE%87%E4%BB%A5%E4%BC%98%E5%BC%82%E6%88%90%E7%BB%A9%E8%80%83%E5%85%A5%E6%B9%98%E9%9B%85%E4%BA%8C%E9%99%A2%23" target="weibo">
-罗帅宇以优异成绩考入湘雅二院（热度：660073）
 </a>
 </li>
 
