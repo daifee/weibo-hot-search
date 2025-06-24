@@ -1,6 +1,6 @@
 {
   "startTime": 1750696476897,
-  "endTime": 1750778975228,
+  "endTime": 1750779883906,
   "band_list": [
     {
       "raw_hot": 9141770,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 1079208,
-      "num": 591532,
+      "num": 1168688,
       "word": "港媒曝姜涛服食药物跳海",
       "onboard_time": 1750775903,
       "rank": 15,
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 1015661,
-      "num": 472047,
+      "num": 472387,
       "word": "BLACKPINK四人合体了",
       "onboard_time": 1750776444,
       "rank": 6,
@@ -412,7 +412,7 @@
     },
     {
       "raw_hot": 643728,
-      "num": 358754,
+      "num": 420094,
       "word": "敖瑞鹏吴宣仪 不二之臣",
       "onboard_time": 1750775425,
       "rank": 17,
@@ -507,12 +507,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 566923,
+      "num": 428066,
+      "word": "郑乃馨曾哭着说可以等我吗",
+      "onboard_time": 1750778723,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 566783,
       "num": 566783,
       "word": "特朗普称以色列和伊朗均违反停火协议",
       "onboard_time": 1750765460,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 565327,
+      "num": 565327,
+      "word": "个人养老金按领取额3%纳税",
+      "onboard_time": 1750777584,
+      "rank": 16,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 560244,
@@ -708,7 +724,7 @@
     },
     {
       "raw_hot": 448974,
-      "num": 345443,
+      "num": 361117,
       "word": "肖战拍戏会主动提供思路",
       "onboard_time": 1750775903,
       "rank": 26,
@@ -745,14 +761,6 @@
       "onboard_time": 1750737262,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 416878,
-      "num": 326653,
-      "word": "个人养老金按领取额3%纳税",
-      "onboard_time": 1750777584,
-      "rank": 16,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 413899,
@@ -1099,12 +1107,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 291211,
-      "num": 291211,
-      "word": "郑乃馨曾哭着说可以等我吗",
-      "onboard_time": 1750778723,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 290200,
+      "num": 290200,
+      "word": "小婉自曝整容",
+      "onboard_time": 1750779443,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 287362,
@@ -1185,6 +1193,14 @@
       "onboard_time": 1750721479,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 269541,
+      "num": 201447,
+      "word": "男生高考715分北大来电差点挂掉",
+      "onboard_time": 1750778483,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 269078,
@@ -1283,6 +1299,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 253586,
+      "num": 454994,
+      "word": "特朗普说刚一谈好以就打伊",
+      "onboard_time": 1750775725,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 252056,
       "num": 498627,
       "word": "深圳一店招工要求每天上班16小时",
@@ -1305,14 +1329,6 @@
       "onboard_time": 1750765163,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 249061,
-      "num": 249061,
-      "word": "特朗普说刚一谈好以就打伊",
-      "onboard_time": 1750775725,
-      "rank": 32,
-      "category": "国际时政"
     },
     {
       "raw_hot": 248542,
@@ -1507,6 +1523,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 209797,
+      "num": 209797,
+      "word": "长安的荔枝删除那尔那茜名字",
+      "onboard_time": 1750776805,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209762,
       "num": 209762,
       "word": "纪念活动总体安排公布",
@@ -1683,14 +1707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 201447,
-      "num": 201447,
-      "word": "男生高考715分北大来电差点挂掉",
-      "onboard_time": 1750778483,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 201330,
       "num": 279821,
       "word": "谁懂闫妮看向秦海璐的微醺感",
@@ -1713,6 +1729,14 @@
       "onboard_time": 1750758382,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200373,
+      "num": 200373,
+      "word": "偷偷藏不住",
+      "onboard_time": 1750778604,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 200171,
@@ -1793,6 +1817,14 @@
       "onboard_time": 1750750521,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 194550,
+      "num": 194550,
+      "word": "不二之臣",
+      "onboard_time": 1750779262,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 194417,
@@ -1947,14 +1979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 183436,
-      "num": 183436,
-      "word": "偷偷藏不住",
-      "onboard_time": 1750778604,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 183373,
       "num": 183373,
       "word": "湖南高考分数线",
@@ -2057,14 +2081,6 @@
       "onboard_time": 1750736004,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 175552,
-      "num": 175552,
-      "word": "长安的荔枝删除那尔那茜名字",
-      "onboard_time": 1750776805,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 174444,
@@ -2619,6 +2635,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 138994,
+      "num": 138994,
+      "word": "张若昀介绍一下张若的",
+      "onboard_time": 1750779563,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138869,
       "num": 138869,
       "word": "默契的AA让友谊天长地久",
@@ -2705,6 +2729,14 @@
       "onboard_time": 1750731922,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 133622,
+      "num": 133622,
+      "word": "雷军称YU7有9成零件重新开发",
+      "onboard_time": 1750777524,
+      "rank": 39,
+      "category": "财经,汽车"
     },
     {
       "raw_hot": 133141,
@@ -2849,6 +2881,14 @@
       "onboard_time": 1750748721,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 123631,
+      "num": 123631,
+      "word": "美军B2轰炸机袭击伊朗核设施",
+      "onboard_time": 1750778184,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 122747,
@@ -3041,6 +3081,14 @@
       "onboard_time": 1750727241,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 108984,
+      "num": 108984,
+      "word": "王毅同伊外长通电话",
+      "onboard_time": 1750779563,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 108930,
@@ -3843,6 +3891,14 @@
       "category": "休闲,动漫"
     },
     {
+      "raw_hot": 38984,
+      "num": 194988,
+      "word": "官方回应个人养老金纳税问题",
+      "onboard_time": 1750778903,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 37734,
       "num": 50258,
       "word": "金靖cos了聂九罗",
@@ -3979,6 +4035,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 25638,
+      "num": 298525,
+      "word": "以伊停火是假和平吗",
+      "onboard_time": 1750778483,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 24846,
       "num": 465410,
       "word": "那些曾经的高考查分名场面",
@@ -4009,14 +4073,6 @@
       "onboard_time": 1750698738,
       "rank": 24,
       "category": "教育"
-    },
-    {
-      "raw_hot": 24106,
-      "num": 183920,
-      "word": "官方回应个人养老金纳税问题",
-      "onboard_time": 1750778903,
-      "rank": 38,
-      "category": "财经"
     },
     {
       "raw_hot": 23997,
@@ -4067,11 +4123,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20327,
-      "num": 298525,
-      "word": "以伊停火是假和平吗",
-      "onboard_time": 1750778483,
-      "rank": 19,
+      "raw_hot": 21005,
+      "num": 170577,
+      "word": "以伊打了12天特朗普变卦了多少回",
+      "onboard_time": 1750779143,
+      "rank": 29,
       "category": "国际时政"
     },
     {
