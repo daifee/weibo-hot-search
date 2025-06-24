@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/24 21:09:49
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/24 21:39:47
 </p>
 </blockquote>
 <p>
@@ -1881,6 +1881,12 @@ A股（热度：1322395）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A1%82%E6%BA%90%E4%B8%AD%E8%80%83623%E5%88%86%23" target="weibo">
+张桂源中考623分（热度：1306854）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%97%8F%E6%B5%B7%E4%BC%A0%E5%A4%A7%E7%BB%93%E5%B1%80%23" target="weibo">
 藏海传大结局（热度：1305922）
 </a>
@@ -2429,6 +2435,12 @@ afternoon怎么变形（热度：1248150）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E%E4%B8%80%E9%AB%98%E6%9E%B6%E5%A4%A7%E6%A1%A5%E5%9E%AE%E5%A1%8C%E7%96%91%E5%A4%9A%E8%BD%A6%E6%8E%89%E8%90%BD%23" target="weibo">
 贵州一高架大桥垮塌疑多车掉落（热度：1155152）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%90%B8%E6%AF%9228%E5%B9%B4%E8%80%97%E5%B0%BD%E5%8D%83%E4%B8%87%E5%AE%B6%E4%BA%A7%23" target="weibo">
+男子吸毒28年耗尽千万家产（热度：1154966）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ Bin哥 嘴硬（热度：664927）
 <li>
 <a href="https://s.weibo.com/weibo?q=%231%E7%B1%B397%E5%B0%8F%E4%BC%99%E7%94%A8%E8%BA%AB%E4%BD%93%E5%B8%AE%E8%AD%A6%E5%AF%9F%E6%8B%A6%E6%88%AA%E9%80%83%E7%AA%9C%E7%94%B7%E5%AD%90%23" target="weibo">
 1米97小伙用身体帮警察拦截逃窜男子（热度：664236）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%97%B4%E8%B0%8D%E7%94%A8word%E5%A5%97%E5%8F%96%E6%88%91%E5%9B%BD%E6%95%8F%E6%84%9F%E6%95%B0%E6%8D%AE%23" target="weibo">
-间谍用word套取我国敏感数据（热度：662929）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E7%89%A9%E7%90%86%23" target="weibo">
-山东物理（热度：662693）
 </a>
 </li>
 

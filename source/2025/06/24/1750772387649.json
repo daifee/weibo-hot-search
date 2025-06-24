@@ -1,0 +1,410 @@
+{
+  "runTime": 1750772387649,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6928432,
+        "num": 6928432,
+        "word": "姜涛坠海",
+        "onboard_time": 1750767502,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1154966,
+        "num": 1154966,
+        "word": "男子吸毒28年耗尽千万家产",
+        "onboard_time": 1750769543,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1670,
+        "num": 782194,
+        "word": "2025高质量发展看吉林",
+        "onboard_time": 1750770745,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1306854,
+        "num": 689596,
+        "word": "张桂源中考623分",
+        "onboard_time": 1750769364,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 510375,
+        "num": 510375,
+        "word": "特朗普称以色列和伊朗均违反停火协议",
+        "onboard_time": 1750765460,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 450379,
+        "num": 450379,
+        "word": "俩好友高考一个626分一个627分",
+        "onboard_time": 1750768644,
+        "rank": 5,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 381698,
+        "num": 381698,
+        "word": "何老师小时候就是何老师",
+        "onboard_time": 1750766124,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337246,
+        "num": 337246,
+        "word": "姜涛报平安",
+        "onboard_time": 1750769723,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300567,
+        "num": 300567,
+        "word": "男生玩游戏淡定查分妈妈直呼别打了",
+        "onboard_time": 1750767202,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144548,
+        "num": 300486,
+        "word": "男子36年前年入百万如今菜场当保安",
+        "onboard_time": 1750771466,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 820774,
+        "num": 300299,
+        "word": "曝洪金宝儿子儿媳双双出轨",
+        "onboard_time": 1750765043,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 683434,
+        "num": 300042,
+        "word": "林志颖儿子kimi现在好帅",
+        "onboard_time": 1750755143,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355755,
+        "num": 299861,
+        "word": "小米悠悠去世",
+        "onboard_time": 1750752923,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328034,
+        "num": 299737,
+        "word": "卵巢囊肿",
+        "onboard_time": 1750758862,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 47793,
+        "num": 299572,
+        "word": "特朗普对以伊都不满",
+        "onboard_time": 1750771945,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 299467,
+        "num": 299467,
+        "word": "高考713分女生回应生物满分",
+        "onboard_time": 1750755683,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293507,
+        "num": 293507,
+        "word": "河南分数线 求你低一点",
+        "onboard_time": 1750758983,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 273321,
+        "num": 273321,
+        "word": "伊媒称特朗普近乎乞求伊朗停火",
+        "onboard_time": 1750764201,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 266567,
+        "num": 266567,
+        "word": "林俊杰金钟国十年兄弟情",
+        "onboard_time": 1750769903,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 47164,
+        "num": 248454,
+        "word": "中东航空业的混乱一夜",
+        "onboard_time": 1750771285,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 526713,
+        "num": 247981,
+        "word": "留学生撞死人",
+        "onboard_time": 1750758143,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244391,
+        "num": 244391,
+        "word": "晋江文学城严正声明",
+        "onboard_time": 1750772306,
+        "rank": 21,
+        "category": "互联网,读书作家"
+      },
+      {
+        "raw_hot": 238474,
+        "num": 238474,
+        "word": "陈楚生得知补位歌手的反应",
+        "onboard_time": 1750769484,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62805,
+        "num": 238181,
+        "word": "EXO签名海报如何保存",
+        "onboard_time": 1750766602,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237996,
+        "num": 237996,
+        "word": "伊朗被骗得一愣一愣的",
+        "onboard_time": 1750748183,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 221241,
+        "num": 221241,
+        "word": "广东海洋大学虐猫学生被留校察看",
+        "onboard_time": 1750766423,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219524,
+        "num": 219524,
+        "word": "男生查分642分称还有5分加分",
+        "onboard_time": 1750768701,
+        "rank": 26,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 187940,
+        "num": 206487,
+        "word": "4个浪姐做了个养成系女团",
+        "onboard_time": 1750769543,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161499,
+        "num": 205506,
+        "word": "白鹿黑化不靠妆造全凭演技",
+        "onboard_time": 1750771526,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149085,
+        "num": 205086,
+        "word": "以法之名开播",
+        "onboard_time": 1750766602,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205076,
+        "num": 205076,
+        "word": "伊朗宣布取得对以作战胜利",
+        "onboard_time": 1750771706,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 202711,
+        "num": 202711,
+        "word": "年轻人真的可以尝试挣快钱",
+        "onboard_time": 1750765163,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176872,
+        "num": 176872,
+        "word": "贵州榕江众志成城筑牢生命防线",
+        "onboard_time": 1750768283,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173861,
+        "num": 173861,
+        "word": "河北考生切记出分前关掉短信通知",
+        "onboard_time": 1750765163,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 171920,
+        "num": 171920,
+        "word": "江苏状元",
+        "onboard_time": 1750772183,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 148192,
+        "num": 168875,
+        "word": "檀健次孟子义又惨又好笑",
+        "onboard_time": 1750770445,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167091,
+        "num": 167091,
+        "word": "河北高考出分",
+        "onboard_time": 1750767863,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 164037,
+        "num": 164037,
+        "word": "男生复读考出673分一脸淡定",
+        "onboard_time": 1750770926,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160469,
+        "num": 160469,
+        "word": "江苏分数线",
+        "onboard_time": 1750754363,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 147683,
+        "num": 147683,
+        "word": "竹节虫",
+        "onboard_time": 1750751000,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142782,
+        "num": 142782,
+        "word": "孟子义沈月我们的宿舍路透",
+        "onboard_time": 1750771824,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132712,
+        "num": 141498,
+        "word": "文淇疑似哭一半被自己美到",
+        "onboard_time": 1750764081,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140845,
+        "num": 140845,
+        "word": "年薪达20万就业率95%老师乐坏了",
+        "onboard_time": 1750756642,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135921,
+        "num": 135921,
+        "word": "浙江男子中1000万40天后才发现",
+        "onboard_time": 1750756762,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135111,
+        "num": 135111,
+        "word": "男生高考700分清华北大已联系",
+        "onboard_time": 1750772366,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 120970,
+        "num": 120970,
+        "word": "学生查出713分老师集体沸腾了",
+        "onboard_time": 1750731742,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120614,
+        "num": 120614,
+        "word": "白鹿说花如月是最有人性的神",
+        "onboard_time": 1750772306,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120063,
+        "num": 120063,
+        "word": "影视飓风首次公开后台数据",
+        "onboard_time": 1750768701,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 117106,
+        "num": 117106,
+        "word": "祖孙俩一起在摇椅上睡觉",
+        "onboard_time": 1750772125,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99583,
+        "num": 112200,
+        "word": "祁煜拥抱",
+        "onboard_time": 1750768881,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将出席纪念抗战胜利80周年大会#"
+    }
+  }
+}
