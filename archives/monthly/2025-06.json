@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750765175822,
+  "endTime": 1750769654838,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -209,6 +209,14 @@
       "onboard_time": 1749640463,
       "rank": 0,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 5197875,
+      "num": 5197875,
+      "word": "姜涛坠海",
+      "onboard_time": 1750767502,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 5050675,
@@ -3065,6 +3073,14 @@
       "onboard_time": 1749809662,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1179475,
+      "num": 290987,
+      "word": "曝洪金宝儿子儿媳双双出轨",
+      "onboard_time": 1750765043,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 1177781,
@@ -10299,6 +10315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 551287,
+      "num": 551287,
+      "word": "伊媒称特朗普近乎乞求伊朗停火",
+      "onboard_time": 1750764201,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 551277,
       "num": 383106,
       "word": "英国首相认错韩国总统",
@@ -12305,6 +12329,14 @@
       "onboard_time": 1748932761,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 479827,
+      "num": 479827,
+      "word": "特朗普称以色列和伊朗均违反停火协议",
+      "onboard_time": 1750765460,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 479517,
@@ -15475,6 +15507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 392695,
+      "num": 392695,
+      "word": "河北考生切记出分前关掉短信通知",
+      "onboard_time": 1750765163,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
       "raw_hot": 392512,
       "num": 392512,
       "word": "蒯铎十年前是必死之局",
@@ -15561,6 +15601,14 @@
       "onboard_time": 1749464480,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 391169,
+      "num": 391169,
+      "word": "何老师小时候就是何老师",
+      "onboard_time": 1750766124,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 391060,
@@ -16961,6 +17009,14 @@
       "onboard_time": 1748925622,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 359130,
+      "num": 359130,
+      "word": "文淇疑似哭一半被自己美到",
+      "onboard_time": 1750764081,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 358981,
@@ -21059,6 +21115,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 292745,
+      "num": 292745,
+      "word": "男生玩游戏淡定查分妈妈直呼别打了",
+      "onboard_time": 1750767202,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 292155,
       "num": 314373,
       "word": "男宝2",
@@ -22145,6 +22209,14 @@
       "onboard_time": 1749284541,
       "rank": 24,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 278426,
+      "num": 278426,
+      "word": "河北高考出分",
+      "onboard_time": 1750767863,
+      "rank": 16,
+      "category": "教育"
     },
     {
       "raw_hot": 278370,
@@ -23513,6 +23585,14 @@
       "onboard_time": 1750725923,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 262204,
+      "num": 262204,
+      "word": "俩好友高考一个626分一个627分",
+      "onboard_time": 1750768644,
+      "rank": 20,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 262197,
@@ -25643,6 +25723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240037,
+      "num": 240037,
+      "word": "年轻人真的可以尝试挣快钱",
+      "onboard_time": 1750765163,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 239983,
       "num": 239983,
       "word": "印度坠机事故致超290人死亡",
@@ -26809,6 +26897,14 @@
       "onboard_time": 1750057881,
       "rank": 23,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 230439,
+      "num": 230439,
+      "word": "陈楚生得知补位歌手的反应",
+      "onboard_time": 1750769484,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 230409,
@@ -28107,6 +28203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221329,
+      "num": 270242,
+      "word": "以法之名开播",
+      "onboard_time": 1750766602,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221317,
       "num": 221317,
       "word": "者来女揭榜成功",
@@ -28233,14 +28337,6 @@
       "onboard_time": 1749706941,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 220442,
-      "num": 220442,
-      "word": "伊媒称特朗普近乎乞求伊朗停火",
-      "onboard_time": 1750764201,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 220407,
@@ -31203,6 +31299,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 204731,
+      "num": 265674,
+      "word": "张桂源中考623分",
+      "onboard_time": 1750769364,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204696,
       "num": 204696,
       "word": "看似团建 实则裁员",
@@ -32313,6 +32417,14 @@
       "onboard_time": 1749001160,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200781,
+      "num": 263327,
+      "word": "黄俊捷新剧开机",
+      "onboard_time": 1750768824,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 200767,
@@ -33619,6 +33731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196325,
+      "num": 196325,
+      "word": "张康乐巴黎街头路透",
+      "onboard_time": 1750768644,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196314,
       "num": 196314,
       "word": "广东97年小伙用40只Labubu告白",
@@ -34065,6 +34185,14 @@
       "onboard_time": 1749896662,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 194417,
+      "num": 194417,
+      "word": "贵州榕江众志成城筑牢生命防线",
+      "onboard_time": 1750768283,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194414,
@@ -35891,6 +36019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188381,
+      "num": 188381,
+      "word": "卖给上海人",
+      "onboard_time": 1750764863,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 188339,
       "num": 188339,
       "word": "陈昊宇cha了万妮达有香气的晚上",
@@ -37635,14 +37771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 182465,
-      "num": 219123,
-      "word": "文淇疑似哭一半被自己美到",
-      "onboard_time": 1750764081,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 182399,
       "num": 432005,
       "word": "张译新剧找不出1个好人",
@@ -38297,6 +38425,14 @@
       "onboard_time": 1750070421,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 179930,
+      "num": 179930,
+      "word": "影视飓风首次公开后台数据",
+      "onboard_time": 1750768701,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 179842,
@@ -40795,6 +40931,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 170717,
+      "num": 170717,
+      "word": "古人嗦螺蛳把壳堆满9米深坑",
+      "onboard_time": 1750768163,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170716,
       "num": 170716,
       "word": "伊朗与英法德在日内瓦密谈3小时",
@@ -41753,6 +41897,14 @@
       "onboard_time": 1749294322,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 167740,
+      "num": 130727,
+      "word": "小米YU7Max天幕最大遮光率99.85%",
+      "onboard_time": 1750768401,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 167715,
@@ -46171,6 +46323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153500,
+      "num": 153500,
+      "word": "广东海洋大学虐猫学生被留校察看",
+      "onboard_time": 1750766423,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153451,
       "num": 153451,
       "word": "国内油价今晚上涨",
@@ -46499,14 +46659,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 152550,
-      "num": 152550,
-      "word": "曝洪金宝儿子儿媳双双出轨",
-      "onboard_time": 1750765043,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 152531,
       "num": 269795,
       "word": "郑钦文状态",
@@ -46665,6 +46817,14 @@
       "onboard_time": 1750233983,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 151935,
+      "num": 151935,
+      "word": "小米YU7支持车外小爱语音",
+      "onboard_time": 1750769243,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 151929,
@@ -47651,6 +47811,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 148955,
+      "num": 148955,
+      "word": "男子吸毒28年耗尽千万家产",
+      "onboard_time": 1750769543,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148949,
       "num": 430208,
       "word": "中国女排一整个期待了",
@@ -47993,6 +48161,14 @@
       "onboard_time": 1749269727,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 147937,
+      "num": 147937,
+      "word": "高考查分名场面来了",
+      "onboard_time": 1750766482,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 147897,
@@ -54195,14 +54371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 131987,
-      "num": 131987,
-      "word": "卖给上海人",
-      "onboard_time": 1750764863,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 131975,
       "num": 131975,
       "word": "iOS26 立体照片",
@@ -55939,6 +56107,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 127936,
+      "num": 127936,
+      "word": "4个浪姐做了个养成系女团",
+      "onboard_time": 1750769543,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 127910,
       "num": 127910,
       "word": "李在明称将启动紧急经济专班",
@@ -56585,6 +56761,14 @@
       "onboard_time": 1750303221,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126041,
+      "num": 126041,
+      "word": "南京竹节虫相当抽象",
+      "onboard_time": 1750769422,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126015,
@@ -68345,6 +68529,14 @@
       "onboard_time": 1749814102,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 87730,
+      "num": 149201,
+      "word": "祁煜拥抱",
+      "onboard_time": 1750768881,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 87714,
@@ -82683,6 +82875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27921,
+      "num": 148968,
+      "word": "李善德见领导张嘴就是骂",
+      "onboard_time": 1750765641,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 27867,
       "num": 252293,
       "word": "深大王牌专业个个都是就业通行证",
@@ -83977,6 +84177,14 @@
       "onboard_time": 1749240493,
       "rank": 38,
       "category": "动漫,财经"
+    },
+    {
+      "raw_hot": 23997,
+      "num": 188855,
+      "word": "地理老师带毕业生从山西骑行到海南",
+      "onboard_time": 1750768881,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23975,

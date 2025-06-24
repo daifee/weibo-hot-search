@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1750765175822,
+  "endTime": 1750769654838,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1459,6 +1459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 5197875,
+      "num": 5197875,
+      "word": "姜涛坠海",
+      "onboard_time": 1750767502,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 5151427,
       "num": 1693005,
       "word": "吴佩慈医院送大S最后一程",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1743748041,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 3521332,
-      "num": 332117,
-      "word": "大S财产第一继承人",
-      "onboard_time": 1738573647,
-      "rank": 10,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

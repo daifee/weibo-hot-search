@@ -1,6 +1,6 @@
 {
   "startTime": 1750696476897,
-  "endTime": 1750765175822,
+  "endTime": 1750769654838,
   "band_list": [
     {
       "raw_hot": 9141770,
@@ -17,6 +17,14 @@
       "onboard_time": 1750734082,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 5197875,
+      "num": 5197875,
+      "word": "姜涛坠海",
+      "onboard_time": 1750767502,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 2430980,
@@ -136,6 +144,14 @@
       "word": "郑乃馨在拽什么",
       "onboard_time": 1750688305,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1179475,
+      "num": 290987,
+      "word": "曝洪金宝儿子儿媳双双出轨",
+      "onboard_time": 1750765043,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -435,6 +451,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 551287,
+      "num": 551287,
+      "word": "伊媒称特朗普近乎乞求伊朗停火",
+      "onboard_time": 1750764201,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 548399,
       "num": 353824,
       "word": "海南失联女生尸体疑在万泉河发现",
@@ -497,6 +521,14 @@
       "onboard_time": 1750755082,
       "rank": 6,
       "category": "教育"
+    },
+    {
+      "raw_hot": 479827,
+      "num": 479827,
+      "word": "特朗普称以色列和伊朗均违反停火协议",
+      "onboard_time": 1750765460,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 479097,
@@ -611,6 +643,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 392695,
+      "num": 392695,
+      "word": "河北考生切记出分前关掉短信通知",
+      "onboard_time": 1750765163,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 391169,
+      "num": 391169,
+      "word": "何老师小时候就是何老师",
+      "onboard_time": 1750766124,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 374701,
       "num": 458652,
       "word": "那尔那茜22岁户口随父迁出内蒙古",
@@ -665,6 +713,14 @@
       "onboard_time": 1750716675,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 359130,
+      "num": 359130,
+      "word": "文淇疑似哭一半被自己美到",
+      "onboard_time": 1750764081,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 357387,
@@ -843,6 +899,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 292745,
+      "num": 292745,
+      "word": "男生玩游戏淡定查分妈妈直呼别打了",
+      "onboard_time": 1750767202,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 292203,
       "num": 378341,
       "word": "关注以伊冲突最新动态",
@@ -889,6 +953,14 @@
       "onboard_time": 1750676308,
       "rank": 15,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 278426,
+      "num": 278426,
+      "word": "河北高考出分",
+      "onboard_time": 1750767863,
+      "rank": 16,
+      "category": "教育"
     },
     {
       "raw_hot": 276277,
@@ -953,6 +1025,14 @@
       "onboard_time": 1750725923,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 262204,
+      "num": 262204,
+      "word": "俩好友高考一个626分一个627分",
+      "onboard_time": 1750768644,
+      "rank": 20,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 261874,
@@ -1075,6 +1155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 240037,
+      "num": 240037,
+      "word": "年轻人真的可以尝试挣快钱",
+      "onboard_time": 1750765163,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 238472,
       "num": 238472,
       "word": "贵州榕江遭遇特大洪水袭击",
@@ -1099,6 +1187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 230439,
+      "num": 230439,
+      "word": "陈楚生得知补位歌手的反应",
+      "onboard_time": 1750769484,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 226904,
       "num": 256731,
       "word": "十个勤天再成立新公司",
@@ -1115,12 +1211,12 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 220442,
-      "num": 220442,
-      "word": "伊媒称特朗普近乎乞求伊朗停火",
-      "onboard_time": 1750764201,
-      "rank": 23,
-      "category": "国际时政"
+      "raw_hot": 221329,
+      "num": 270242,
+      "word": "以法之名开播",
+      "onboard_time": 1750766602,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 217271,
@@ -1216,6 +1312,14 @@
       "word": "王阳47岁的状态",
       "onboard_time": 1750755383,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 204731,
+      "num": 265674,
+      "word": "张桂源中考623分",
+      "onboard_time": 1750769364,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -1323,6 +1427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200781,
+      "num": 263327,
+      "word": "黄俊捷新剧开机",
+      "onboard_time": 1750768824,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200374,
       "num": 200374,
       "word": "魏大勋的腿像开了长腿特效",
@@ -1379,6 +1491,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 196325,
+      "num": 196325,
+      "word": "张康乐巴黎街头路透",
+      "onboard_time": 1750768644,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195770,
       "num": 361274,
       "word": "檀健次直播",
@@ -1393,6 +1513,14 @@
       "onboard_time": 1750750521,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 194417,
+      "num": 194417,
+      "word": "贵州榕江众志成城筑牢生命防线",
+      "onboard_time": 1750768283,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194132,
@@ -1459,6 +1587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 188381,
+      "num": 188381,
+      "word": "卖给上海人",
+      "onboard_time": 1750764863,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 185926,
       "num": 185926,
       "word": "当地回应贵州一高架大桥垮塌",
@@ -1515,14 +1651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 182465,
-      "num": 219123,
-      "word": "文淇疑似哭一半被自己美到",
-      "onboard_time": 1750764081,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 182399,
       "num": 432005,
       "word": "张译新剧找不出1个好人",
@@ -1537,6 +1665,14 @@
       "onboard_time": 1750731081,
       "rank": 19,
       "category": "艺人,休闲"
+    },
+    {
+      "raw_hot": 179930,
+      "num": 179930,
+      "word": "影视飓风首次公开后台数据",
+      "onboard_time": 1750768701,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 178443,
@@ -1619,12 +1755,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 170717,
+      "num": 170717,
+      "word": "古人嗦螺蛳把壳堆满9米深坑",
+      "onboard_time": 1750768163,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169475,
       "num": 282417,
       "word": "警方通报26岁男子多次在楼道偷窥",
       "onboard_time": 1750746681,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167740,
+      "num": 130727,
+      "word": "小米YU7Max天幕最大遮光率99.85%",
+      "onboard_time": 1750768401,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 167371,
@@ -1795,12 +1947,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 152550,
-      "num": 152550,
-      "word": "曝洪金宝儿子儿媳双双出轨",
-      "onboard_time": 1750765043,
+      "raw_hot": 153500,
+      "num": 153500,
+      "word": "广东海洋大学虐猫学生被留校察看",
+      "onboard_time": 1750766423,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151935,
+      "num": 151935,
+      "word": "小米YU7支持车外小爱语音",
+      "onboard_time": 1750769243,
       "rank": 37,
-      "category": "艺人"
+      "category": "汽车"
     },
     {
       "raw_hot": 149704,
@@ -1819,12 +1979,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148955,
+      "num": 148955,
+      "word": "男子吸毒28年耗尽千万家产",
+      "onboard_time": 1750769543,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148374,
       "num": 148374,
       "word": "费曼长发近照",
       "onboard_time": 1750764500,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147937,
+      "num": 147937,
+      "word": "高考查分名场面来了",
+      "onboard_time": 1750766482,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 147729,
@@ -2099,14 +2275,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131987,
-      "num": 131987,
-      "word": "卖给上海人",
-      "onboard_time": 1750764863,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 131635,
       "num": 131635,
       "word": "高敏感人的7个特征",
@@ -2163,12 +2331,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127936,
+      "num": 127936,
+      "word": "4个浪姐做了个养成系女团",
+      "onboard_time": 1750769543,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 126798,
       "num": 126798,
       "word": "小狗入职第一天走哪都会被同事摸",
       "onboard_time": 1750760242,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 126041,
+      "num": 126041,
+      "word": "南京竹节虫相当抽象",
+      "onboard_time": 1750769422,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125943,
@@ -2553,6 +2737,14 @@
       "onboard_time": 1750752861,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87730,
+      "num": 149201,
+      "word": "祁煜拥抱",
+      "onboard_time": 1750768881,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 87367,
@@ -3107,6 +3299,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 27921,
+      "num": 148968,
+      "word": "李善德见领导张嘴就是骂",
+      "onboard_time": 1750765641,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 27588,
       "num": 34779,
       "word": "赖冠霖官宣以导演身份加入万合天宜",
@@ -3169,6 +3369,14 @@
       "onboard_time": 1750698738,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 23997,
+      "num": 188855,
+      "word": "地理老师带毕业生从山西骑行到海南",
+      "onboard_time": 1750768881,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23975,
