@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/24 22:28:01
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/24 22:45:35
 </p>
 </blockquote>
 <p>
@@ -2127,6 +2127,12 @@ afternoon怎么变形（热度：1248150）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E7%8A%B6%E5%85%83%23" target="weibo">
+江苏状元（热度：1236783）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E9%97%A8%E5%8F%A3%E5%80%92%E9%97%AD%E7%9A%84%E5%BA%97%E5%9B%A0%E7%88%B1%E9%87%8D%E7%94%9F%E4%BA%86%23" target="weibo">
 小学门口倒闭的店因爱重生了（热度：1236397）
 </a>
@@ -2931,6 +2937,12 @@ VOGUE官博秒删（热度：1045069）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AE%B4%E6%89%93%E5%A6%BB%E5%AD%90%E5%90%8E%E5%8F%91%E7%94%9F%E6%80%A7%E5%85%B3%E7%B3%BB%E8%A2%AB%E5%91%8A%E5%BC%BA%E5%A5%B8%23" target="weibo">
+男子殴打妻子后发生性关系被告强奸（热度：1042497）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E6%B2%90%E4%BC%AF%E7%BB%93%E5%A9%9A%23" target="weibo">
 韩沐伯结婚（热度：1042159）
 </a>
@@ -3281,12 +3293,6 @@ aespa（热度：996030）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%AC%A1%E6%8C%81%E5%88%80%E7%A0%8D%E9%82%BB%E5%B1%85%E9%97%A8%E5%A5%B3%E5%AD%90%E8%A2%AB%E9%80%81%E7%B2%BE%E7%A5%9E%E9%89%B4%E5%AE%9A%23" target="weibo">
 多次持刀砍邻居门女子被送精神鉴定（热度：980789）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E7%8A%B6%E5%85%83%23" target="weibo">
-江苏状元（热度：978253）
 </a>
 </li>
 
@@ -5717,12 +5723,6 @@ EDG申请执行Scout3351万（热度：690406）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%8F%E8%BD%A6%E9%87%8C%E7%A8%8B%E5%BA%8F%E5%91%98%E8%A2%AB%E8%B4%A8%E7%96%91%E5%8D%A0%E7%94%A8%E5%85%AC%E5%85%B1%E8%B5%84%E6%BA%90%23" target="weibo">
 住车里程序员被质疑占用公共资源（热度：689319）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AE%B4%E6%89%93%E5%A6%BB%E5%AD%90%E5%90%8E%E5%8F%91%E7%94%9F%E6%80%A7%E5%85%B3%E7%B3%BB%E8%A2%AB%E5%91%8A%E5%BC%BA%E5%A5%B8%23" target="weibo">
-男子殴打妻子后发生性关系被告强奸（热度：688959）
 </a>
 </li>
 

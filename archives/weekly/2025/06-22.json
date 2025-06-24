@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750775281818,
+  "endTime": 1750776335381,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -395,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1236783,
+      "num": 1236783,
+      "word": "江苏状元",
+      "onboard_time": 1750772183,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1226449,
       "num": 1226449,
       "word": "男孩中考查分863分数学满分",
@@ -412,7 +420,7 @@
     },
     {
       "raw_hot": 1179475,
-      "num": 412501,
+      "num": 468396,
       "word": "曝洪金宝儿子儿媳双双出轨",
       "onboard_time": 1750765043,
       "rank": 37,
@@ -515,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1042497,
+      "num": 478818,
+      "word": "男子殴打妻子后发生性关系被告强奸",
+      "onboard_time": 1750773146,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1033931,
       "num": 1033931,
       "word": "胡楚靓小袁分手",
@@ -561,14 +577,6 @@
       "onboard_time": 1750564224,
       "rank": 30,
       "category": "休闲,动漫"
-    },
-    {
-      "raw_hot": 978253,
-      "num": 978253,
-      "word": "江苏状元",
-      "onboard_time": 1750772183,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 975975,
@@ -995,14 +1003,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 688959,
-      "num": 335338,
-      "word": "男子殴打妻子后发生性关系被告强奸",
-      "onboard_time": 1750773146,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 683038,
       "num": 346075,
       "word": "霍尔木兹海峡",
@@ -1081,6 +1081,14 @@
       "onboard_time": 1750580122,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 656029,
+      "num": 656029,
+      "word": "河南本科线历史类471物理类427",
+      "onboard_time": 1750775066,
+      "rank": 15,
+      "category": "教育"
     },
     {
       "raw_hot": 651651,
@@ -1313,6 +1321,14 @@
       "onboard_time": 1750551379,
       "rank": 5,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 570997,
+      "num": 570997,
+      "word": "晋江 哇唧唧哇",
+      "onboard_time": 1750774945,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 568211,
@@ -1625,6 +1641,14 @@
       "onboard_time": 1750519824,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 494466,
+      "num": 494466,
+      "word": "河南高考分数线",
+      "onboard_time": 1750775126,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 491934,
@@ -1987,6 +2011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 423251,
+      "num": 423251,
+      "word": "港媒曝姜涛服食药物跳海",
+      "onboard_time": 1750775903,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 422414,
       "num": 422414,
       "word": "美军用超125架战机作诱饵打击伊朗",
@@ -2048,6 +2080,14 @@
       "word": "美军向伊朗福尔道核设施投6枚钻地弹",
       "onboard_time": 1750556301,
       "rank": 15,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 413899,
+      "num": 413899,
+      "word": "伊朗宣布取得对以作战胜利",
+      "onboard_time": 1750771706,
+      "rank": 30,
       "category": "国际时政"
     },
     {
@@ -2121,14 +2161,6 @@
       "onboard_time": 1750519703,
       "rank": 5,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 404189,
-      "num": 335144,
-      "word": "伊朗宣布取得对以作战胜利",
-      "onboard_time": 1750771706,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 404063,
@@ -2395,6 +2427,14 @@
       "category": "体育,民生新闻"
     },
     {
+      "raw_hot": 358754,
+      "num": 358754,
+      "word": "敖瑞鹏吴宣仪 不二之臣",
+      "onboard_time": 1750775425,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 357387,
       "num": 357387,
       "word": "2005年的王楚钦",
@@ -2443,6 +2483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 352958,
+      "num": 352958,
+      "word": "TF四代中考成绩",
+      "onboard_time": 1750773265,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 352916,
       "num": 456349,
       "word": "伊朗否认停火后向以色列发射导弹",
@@ -2489,14 +2537,6 @@
       "onboard_time": 1750601544,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 348754,
-      "num": 348754,
-      "word": "TF四代中考成绩",
-      "onboard_time": 1750773265,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 348450,
@@ -2683,14 +2723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 334959,
-      "num": 334959,
-      "word": "河南本科线历史类471物理类427",
-      "onboard_time": 1750775066,
-      "rank": 15,
-      "category": "教育"
-    },
-    {
       "raw_hot": 334667,
       "num": 472854,
       "word": "NBA七年七个总冠军",
@@ -2819,6 +2851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 316574,
+      "num": 304835,
+      "word": "199转手卖3000的Labubu长这样",
+      "onboard_time": 1750774826,
+      "rank": 36,
+      "category": "民生新闻,动漫"
+    },
+    {
       "raw_hot": 315687,
       "num": 315687,
       "word": "逐玉",
@@ -2881,6 +2921,14 @@
       "onboard_time": 1750690164,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 311098,
+      "num": 311098,
+      "word": "偷偷藏不住未授权网络微短剧改编权",
+      "onboard_time": 1750775185,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 307717,
@@ -3561,6 +3609,14 @@
       "onboard_time": 1750667843,
       "rank": 21,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 251083,
+      "num": 251083,
+      "word": "肖战拍戏会主动提供思路",
+      "onboard_time": 1750775903,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 250628,
@@ -4411,6 +4467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206810,
+      "num": 315253,
+      "word": "市监局回应杭州面馆558元一碗面",
+      "onboard_time": 1750773805,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 206256,
       "num": 206256,
       "word": "内娱不靠流量撑十年的节目",
@@ -4539,14 +4603,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 203692,
-      "num": 203692,
-      "word": "晋江 哇唧唧哇",
-      "onboard_time": 1750774945,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 203680,
       "num": 459832,
       "word": "男子打死女友儿子被判死刑",
@@ -4625,6 +4681,14 @@
       "onboard_time": 1750570162,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202351,
+      "num": 202351,
+      "word": "河南本科分数线",
+      "onboard_time": 1750775066,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 202301,
@@ -5211,6 +5275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 187792,
+      "num": 187792,
+      "word": "特朗普说刚一谈好以就打伊",
+      "onboard_time": 1750775725,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 187642,
       "num": 187642,
       "word": "也门胡塞武装发声",
@@ -5257,14 +5329,6 @@
       "onboard_time": 1750675702,
       "rank": 25,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 186072,
-      "num": 315253,
-      "word": "市监局回应杭州面馆558元一碗面",
-      "onboard_time": 1750773805,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 186060,
@@ -5379,6 +5443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183135,
+      "num": 183135,
+      "word": "张若昀蜡像绝了",
+      "onboard_time": 1750774045,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182909,
       "num": 433518,
       "word": "国产剧终于有不择手段的恶人女主",
@@ -5433,6 +5505,14 @@
       "onboard_time": 1750522463,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 182139,
+      "num": 182139,
+      "word": "孙子考了681分姥姥激动连说哎呀妈呀",
+      "onboard_time": 1750773325,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 181967,
@@ -5595,28 +5675,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 175850,
-      "num": 175850,
-      "word": "河南高考分数线",
-      "onboard_time": 1750775126,
-      "rank": 32,
-      "category": "教育"
-    },
-    {
       "raw_hot": 175566,
       "num": 175566,
       "word": "90后保安用苟住思维实现财务自由",
       "onboard_time": 1750736004,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 175086,
-      "num": 175086,
-      "word": "张若昀蜡像绝了",
-      "onboard_time": 1750774045,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 175078,
@@ -6155,6 +6219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160142,
+      "num": 182147,
+      "word": "王许梅是杨幂又一人生角色",
+      "onboard_time": 1750775006,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 159900,
       "num": 159900,
       "word": "圣罗兰时装秀",
@@ -6339,14 +6411,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 156070,
-      "num": 156070,
-      "word": "199转手卖3000的Labubu长这样",
-      "onboard_time": 1750774826,
-      "rank": 36,
-      "category": "民生新闻,动漫"
-    },
-    {
       "raw_hot": 155596,
       "num": 393953,
       "word": "王俊凯 抽象鼻祖",
@@ -6473,14 +6537,6 @@
       "onboard_time": 1750565002,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 152894,
-      "num": 152894,
-      "word": "王许梅是杨幂又一人生角色",
-      "onboard_time": 1750775006,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 152664,
@@ -7155,14 +7211,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 138965,
-      "num": 138965,
-      "word": "偷偷藏不住未授权网络微短剧改编权",
-      "onboard_time": 1750775185,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 138904,
       "num": 212647,
       "word": "谁懂蜡笔小新看到哭的含金量",
@@ -7329,6 +7377,14 @@
       "onboard_time": 1750522463,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 136138,
+      "num": 179496,
+      "word": "33Laotutu具像化了",
+      "onboard_time": 1750775425,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 136107,
@@ -8339,6 +8395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112877,
+      "num": 490057,
+      "word": "3天记3年单词骗局曝光",
+      "onboard_time": 1750775486,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 112218,
       "num": 178992,
       "word": "王欣瑜用实力证明中国网球一切皆有可能",
@@ -8577,6 +8641,14 @@
       "onboard_time": 1750574961,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105492,
+      "num": 127407,
+      "word": "真心建议腰不好的人多练臀",
+      "onboard_time": 1750766302,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 105350,
@@ -9171,14 +9243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 83116,
-      "num": 127407,
-      "word": "真心建议腰不好的人多练臀",
-      "onboard_time": 1750766302,
-      "rank": 49,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 82173,
       "num": 82173,
       "word": "伊朗称以色列明显无能",
@@ -9233,6 +9297,14 @@
       "onboard_time": 1750719138,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 80409,
+      "num": 203728,
+      "word": "湖南一饭店招聘员工限制35岁以上",
+      "onboard_time": 1750776084,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79973,
@@ -10043,6 +10115,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 47756,
+      "num": 1183121,
+      "word": "速览抗战胜利80周年纪念活动十项安排",
+      "onboard_time": 1750773865,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 47721,
       "num": 309804,
       "word": "伊朗浓缩铀材料还在",
@@ -10249,14 +10329,6 @@
       "onboard_time": 1750688483,
       "rank": 19,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 39604,
-      "num": 682944,
-      "word": "速览抗战胜利80周年纪念活动十项安排",
-      "onboard_time": 1750773865,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 39202,
@@ -11161,6 +11233,14 @@
       "onboard_time": 1750683684,
       "rank": 19,
       "category": "教育,互联网"
+    },
+    {
+      "raw_hot": 6709,
+      "num": 439175,
+      "word": "榕江最大商场被淹海鲜老板损失百万",
+      "onboard_time": 1750775546,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1670,
