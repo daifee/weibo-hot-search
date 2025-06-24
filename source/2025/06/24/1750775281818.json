@@ -1,0 +1,410 @@
+{
+  "runTime": 1750775281818,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1464744,
+        "num": 1464744,
+        "word": "张桂源中考623分",
+        "onboard_time": 1750769364,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 978253,
+        "num": 978253,
+        "word": "江苏状元",
+        "onboard_time": 1750772183,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 39604,
+        "num": 682944,
+        "word": "速览抗战胜利80周年纪念活动十项安排",
+        "onboard_time": 1750773865,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 5165214,
+        "num": 676278,
+        "word": "姜涛坠海",
+        "onboard_time": 1750767502,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1354262,
+        "num": 675131,
+        "word": "男子吸毒28年耗尽千万家产",
+        "onboard_time": 1750769543,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 665659,
+        "num": 665659,
+        "word": "河南分数线 求你低一点",
+        "onboard_time": 1750758983,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 473091,
+        "num": 473091,
+        "word": "晋江文学城严正声明",
+        "onboard_time": 1750772306,
+        "rank": 6,
+        "category": "互联网,读书作家"
+      },
+      {
+        "raw_hot": 348754,
+        "num": 348754,
+        "word": "TF四代中考成绩",
+        "onboard_time": 1750773265,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335594,
+        "num": 335594,
+        "word": "姜涛发文致歉",
+        "onboard_time": 1750773205,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332980,
+        "num": 335499,
+        "word": "俩好友高考一个626分一个627分",
+        "onboard_time": 1750768644,
+        "rank": 9,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 694789,
+        "num": 335431,
+        "word": "曝洪金宝儿子儿媳双双出轨",
+        "onboard_time": 1750765043,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 688959,
+        "num": 335338,
+        "word": "男子殴打妻子后发生性关系被告强奸",
+        "onboard_time": 1750773146,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 604556,
+        "num": 335212,
+        "word": "林志颖儿子kimi现在好帅",
+        "onboard_time": 1750755143,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404189,
+        "num": 335144,
+        "word": "伊朗宣布取得对以作战胜利",
+        "onboard_time": 1750771706,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111042,
+        "num": 334994,
+        "word": "谷歌华人工程师杀妻案再开庭",
+        "onboard_time": 1750767082,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 334959,
+        "num": 334959,
+        "word": "河南本科线历史类471物理类427",
+        "onboard_time": 1750775066,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 330930,
+        "num": 330930,
+        "word": "特朗普称以色列和伊朗均违反停火协议",
+        "onboard_time": 1750765460,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 271473,
+        "num": 321153,
+        "word": "何老师小时候就是何老师",
+        "onboard_time": 1750766124,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264730,
+        "num": 317049,
+        "word": "鹿晗首个百万想看90后歌手",
+        "onboard_time": 1750772786,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 186072,
+        "num": 315253,
+        "word": "市监局回应杭州面馆558元一碗面",
+        "onboard_time": 1750773805,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315169,
+        "num": 315169,
+        "word": "高考713分女生回应生物满分",
+        "onboard_time": 1750755683,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267763,
+        "num": 267763,
+        "word": "小米悠悠去世",
+        "onboard_time": 1750752923,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245935,
+        "num": 245935,
+        "word": "林俊杰金钟国十年兄弟情",
+        "onboard_time": 1750769903,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 244505,
+        "num": 244505,
+        "word": "男生复读考出673分一脸淡定",
+        "onboard_time": 1750770926,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31947,
+        "num": 224647,
+        "word": "优秀的西电学子毕业都去哪里了",
+        "onboard_time": 1750774106,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 392812,
+        "num": 218754,
+        "word": "留学生撞死人",
+        "onboard_time": 1750758143,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212528,
+        "num": 212528,
+        "word": "男生玩游戏淡定查分妈妈直呼别打了",
+        "onboard_time": 1750767202,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203692,
+        "num": 203692,
+        "word": "晋江 哇唧唧哇",
+        "onboard_time": 1750774945,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193428,
+        "num": 193428,
+        "word": "卵巢囊肿",
+        "onboard_time": 1750758862,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 186000,
+        "num": 186000,
+        "word": "有如此愚孝男进入国产剧",
+        "onboard_time": 1750774706,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185082,
+        "num": 185082,
+        "word": "伊朗被骗得一愣一愣的",
+        "onboard_time": 1750748183,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 182794,
+        "num": 182794,
+        "word": "张函瑞中考成绩",
+        "onboard_time": 1750774706,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175850,
+        "num": 175850,
+        "word": "河南高考分数线",
+        "onboard_time": 1750775126,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 175086,
+        "num": 175086,
+        "word": "张若昀蜡像绝了",
+        "onboard_time": 1750774045,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169317,
+        "num": 169317,
+        "word": "檀健次不知道在直播",
+        "onboard_time": 1750773926,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165888,
+        "num": 165888,
+        "word": "年轻人真的可以尝试挣快钱",
+        "onboard_time": 1750765163,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156070,
+        "num": 156070,
+        "word": "199转手卖3000的Labubu长这样",
+        "onboard_time": 1750774826,
+        "rank": 36,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 153885,
+        "num": 153885,
+        "word": "男生高考700分清华北大已联系",
+        "onboard_time": 1750772366,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 152894,
+        "num": 152894,
+        "word": "王许梅是杨幂又一人生角色",
+        "onboard_time": 1750775006,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150304,
+        "num": 150304,
+        "word": "广东海洋大学虐猫学生被留校察看",
+        "onboard_time": 1750766423,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150044,
+        "num": 150044,
+        "word": "贵州榕江众志成城筑牢生命防线",
+        "onboard_time": 1750768283,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144502,
+        "num": 144502,
+        "word": "4个浪姐做了个养成系女团",
+        "onboard_time": 1750769543,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143873,
+        "num": 143873,
+        "word": "檀健次上午帅死谁下午六口水",
+        "onboard_time": 1750774586,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142549,
+        "num": 142549,
+        "word": "年薪达20万就业率95%老师乐坏了",
+        "onboard_time": 1750756642,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138965,
+        "num": 138965,
+        "word": "偷偷藏不住未授权网络微短剧改编权",
+        "onboard_time": 1750775185,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130607,
+        "num": 130607,
+        "word": "伊媒称特朗普近乎乞求伊朗停火",
+        "onboard_time": 1750764201,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128887,
+        "num": 128887,
+        "word": "竹节虫",
+        "onboard_time": 1750751000,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128480,
+        "num": 128480,
+        "word": "吴磊夜跑",
+        "onboard_time": 1750775066,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109898,
+        "num": 127412,
+        "word": "郑钦文的球拍花木兰的剑",
+        "onboard_time": 1750773386,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83116,
+        "num": 127407,
+        "word": "真心建议腰不好的人多练臀",
+        "onboard_time": 1750766302,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见新加坡总理黄循财#"
+    }
+  }
+}

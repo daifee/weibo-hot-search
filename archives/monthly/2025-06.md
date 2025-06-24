@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/24 21:51:47
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/24 22:28:01
 </p>
 </blockquote>
 <p>
@@ -1515,6 +1515,12 @@ TES对战WE（热度：1476923）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A1%82%E6%BA%90%E4%B8%AD%E8%80%83623%E5%88%86%23" target="weibo">
+张桂源中考623分（热度：1464744）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%84%9F%E8%B0%A2%E4%BC%8A%E6%9C%97%E6%8F%90%E5%89%8D%E9%80%9A%E7%9F%A5%E7%A9%BA%E8%A2%AD%23" target="weibo">
 特朗普感谢伊朗提前通知空袭（热度：1459635）
 </a>
@@ -1767,6 +1773,12 @@ Labubu大补货后黄牛发声（热度：1393998）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%90%B8%E6%AF%9228%E5%B9%B4%E8%80%97%E5%B0%BD%E5%8D%83%E4%B8%87%E5%AE%B6%E4%BA%A7%23" target="weibo">
+男子吸毒28年耗尽千万家产（热度：1354262）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B5%A9%E5%AD%98%E7%BB%88%E4%BA%8E%E6%8D%A2%E6%8E%89%E4%BA%86%E5%BE%AE%E5%95%86%E5%A4%B4%E5%83%8F%23" target="weibo">
 刘浩存终于换掉了微商头像（热度：1348742）
 </a>
@@ -1877,12 +1889,6 @@ A股（热度：1322395）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%97%8F%E6%B5%B7%E4%BC%A0%E7%AC%AC%E4%B8%89%E4%BA%BA%23" target="weibo">
 藏海传第三人（热度：1309842）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A1%82%E6%BA%90%E4%B8%AD%E8%80%83623%E5%88%86%23" target="weibo">
-张桂源中考623分（热度：1306854）
 </a>
 </li>
 
@@ -2315,12 +2321,6 @@ afternoon怎么变形（热度：1248150）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2322%E5%B1%8A%E6%B2%A1%E6%83%B9%23" target="weibo">
 22届没惹（热度：1187798）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%90%B8%E6%AF%9228%E5%B9%B4%E8%80%97%E5%B0%BD%E5%8D%83%E4%B8%87%E5%AE%B6%E4%BA%A7%23" target="weibo">
-男子吸毒28年耗尽千万家产（热度：1185014）
 </a>
 </li>
 
@@ -3281,6 +3281,12 @@ aespa（热度：996030）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%AC%A1%E6%8C%81%E5%88%80%E7%A0%8D%E9%82%BB%E5%B1%85%E9%97%A8%E5%A5%B3%E5%AD%90%E8%A2%AB%E9%80%81%E7%B2%BE%E7%A5%9E%E9%89%B4%E5%AE%9A%23" target="weibo">
 多次持刀砍邻居门女子被送精神鉴定（热度：980789）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E7%8A%B6%E5%85%83%23" target="weibo">
+江苏状元（热度：978253）
 </a>
 </li>
 
@@ -5715,6 +5721,12 @@ EDG申请执行Scout3351万（热度：690406）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AE%B4%E6%89%93%E5%A6%BB%E5%AD%90%E5%90%8E%E5%8F%91%E7%94%9F%E6%80%A7%E5%85%B3%E7%B3%BB%E8%A2%AB%E5%91%8A%E5%BC%BA%E5%A5%B8%23" target="weibo">
+男子殴打妻子后发生性关系被告强奸（热度：688959）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AF%B9%E4%BB%A5%E5%8F%91%E5%8A%A8%E5%A4%A7%E8%A7%84%E6%A8%A1%E8%A2%AD%E5%87%BB%23" target="weibo">
 伊朗对以发动大规模袭击（热度：688841）
 </a>
@@ -5999,18 +6011,6 @@ Bin哥 嘴硬（热度：664927）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE10%E7%82%B9%E5%8F%91%E8%A1%A8%E5%85%A8%E5%9B%BD%E8%AE%B2%E8%AF%9D%23" target="weibo">
 特朗普10点发表全国讲话（热度：664466）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%BB%A5%E4%B8%BA%E8%85%B9%E8%83%80%E5%8E%BB%E5%8C%BB%E9%99%A2%E7%AB%9F%E5%BD%93%E5%9C%BA%E7%94%9F%E4%B8%8B%E7%94%B7%E5%A9%B4%23" target="weibo">
-女子以为腹胀去医院竟当场生下男婴（热度：664364）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%231%E7%B1%B397%E5%B0%8F%E4%BC%99%E7%94%A8%E8%BA%AB%E4%BD%93%E5%B8%AE%E8%AD%A6%E5%AF%9F%E6%8B%A6%E6%88%AA%E9%80%83%E7%AA%9C%E7%94%B7%E5%AD%90%23" target="weibo">
-1米97小伙用身体帮警察拦截逃窜男子（热度：664236）
 </a>
 </li>
 
@@ -6599,6 +6599,12 @@ Bin哥 嘴硬（热度：664927）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E8%AE%A9%E4%B8%AD%E6%96%B0%E5%8F%8B%E8%B0%8A%E4%B9%8B%E6%A0%91%E6%9E%9D%E7%B9%81%E5%8F%B6%E8%8C%82%E7%A1%95%E6%9E%9C%E7%B4%AF%E7%B4%AF%23%23" target="weibo">
 #让中新友谊之树枝繁叶茂硕果累累#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%80%BB%E7%90%86%E9%BB%84%E5%BE%AA%E8%B4%A2%23%23" target="weibo">
+#习近平会见新加坡总理黄循财#
 </a>
 </li>
 

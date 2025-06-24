@@ -1,6 +1,6 @@
 {
   "startTime": 1750696476897,
-  "endTime": 1750773107770,
+  "endTime": 1750775281818,
   "band_list": [
     {
       "raw_hot": 9141770,
@@ -99,6 +99,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1464744,
+      "num": 1464744,
+      "word": "张桂源中考623分",
+      "onboard_time": 1750769364,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1459635,
       "num": 491862,
       "word": "特朗普感谢伊朗提前通知空袭",
@@ -131,12 +139,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1306854,
-      "num": 689596,
-      "word": "张桂源中考623分",
-      "onboard_time": 1750769364,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 1354262,
+      "num": 1185014,
+      "word": "男子吸毒28年耗尽千万家产",
+      "onboard_time": 1750769543,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1259814,
@@ -153,14 +161,6 @@
       "onboard_time": 1750688305,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1185014,
-      "num": 1185014,
-      "word": "男子吸毒28年耗尽千万家产",
-      "onboard_time": 1750769543,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1179475,
@@ -224,6 +224,14 @@
       "word": "河南分数线 求你低一点",
       "onboard_time": 1750758983,
       "rank": 4,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 978253,
+      "num": 978253,
+      "word": "江苏状元",
+      "onboard_time": 1750772183,
+      "rank": 34,
       "category": "教育"
     },
     {
@@ -336,6 +344,14 @@
       "word": "男生查出639分开心得做鬼脸嘚瑟",
       "onboard_time": 1750744642,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 688959,
+      "num": 335338,
+      "word": "男子殴打妻子后发生性关系被告强奸",
+      "onboard_time": 1750773146,
+      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -563,6 +579,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 473091,
+      "num": 473091,
+      "word": "晋江文学城严正声明",
+      "onboard_time": 1750772306,
+      "rank": 21,
+      "category": "互联网,读书作家"
+    },
+    {
       "raw_hot": 469405,
       "num": 469405,
       "word": "秦彻输给了喜羊羊",
@@ -667,20 +691,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 409824,
-      "num": 309372,
-      "word": "晋江文学城严正声明",
-      "onboard_time": 1750772306,
-      "rank": 21,
-      "category": "互联网,读书作家"
-    },
-    {
       "raw_hot": 409814,
       "num": 409814,
       "word": "特朗普已至白宫战情室",
       "onboard_time": 1750705274,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 404189,
+      "num": 335144,
+      "word": "伊朗宣布取得对以作战胜利",
+      "onboard_time": 1750771706,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 392695,
@@ -755,14 +779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 358472,
-      "num": 304517,
-      "word": "江苏状元",
-      "onboard_time": 1750772183,
-      "rank": 34,
-      "category": "教育"
-    },
-    {
       "raw_hot": 357387,
       "num": 357387,
       "word": "2005年的王楚钦",
@@ -793,6 +809,14 @@
       "onboard_time": 1750740503,
       "rank": 49,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 348754,
+      "num": 348754,
+      "word": "TF四代中考成绩",
+      "onboard_time": 1750773265,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 346411,
@@ -843,12 +867,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 335594,
+      "num": 335594,
+      "word": "姜涛发文致歉",
+      "onboard_time": 1750773205,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 335297,
       "num": 335297,
       "word": "9月3日举行纪念抗战胜利80周年大会",
       "onboard_time": 1750731442,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 334959,
+      "num": 334959,
+      "word": "河南本科线历史类471物理类427",
+      "onboard_time": 1750775066,
+      "rank": 15,
+      "category": "教育"
     },
     {
       "raw_hot": 332391,
@@ -952,14 +992,6 @@
       "word": "美国轰炸伊朗核设施",
       "onboard_time": 1750689684,
       "rank": 6,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 292496,
-      "num": 292496,
-      "word": "伊朗宣布取得对以作战胜利",
-      "onboard_time": 1750771706,
-      "rank": 30,
       "category": "国际时政"
     },
     {
@@ -1072,6 +1104,14 @@
       "word": "林俊杰金钟国十年兄弟情",
       "onboard_time": 1750769903,
       "rank": 24,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 264730,
+      "num": 317049,
+      "word": "鹿晗首个百万想看90后歌手",
+      "onboard_time": 1750772786,
+      "rank": 34,
       "category": "演出"
     },
     {
@@ -1193,6 +1233,14 @@
       "onboard_time": 1750681104,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 244505,
+      "num": 244505,
+      "word": "男生复读考出673分一脸淡定",
+      "onboard_time": 1750770926,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 241931,
@@ -1443,6 +1491,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 203692,
+      "num": 203692,
+      "word": "晋江 哇唧唧哇",
+      "onboard_time": 1750774945,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203680,
       "num": 459832,
       "word": "男子打死女友儿子被判死刑",
@@ -1675,6 +1731,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 186072,
+      "num": 315253,
+      "word": "市监局回应杭州面馆558元一碗面",
+      "onboard_time": 1750773805,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186000,
+      "num": 186000,
+      "word": "有如此愚孝男进入国产剧",
+      "onboard_time": 1750774706,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185926,
       "num": 185926,
       "word": "当地回应贵州一高架大桥垮塌",
@@ -1729,6 +1801,14 @@
       "onboard_time": 1750756163,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182794,
+      "num": 182794,
+      "word": "张函瑞中考成绩",
+      "onboard_time": 1750774706,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 182399,
@@ -1795,12 +1875,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 175850,
+      "num": 175850,
+      "word": "河南高考分数线",
+      "onboard_time": 1750775126,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 175566,
       "num": 175566,
       "word": "90后保安用苟住思维实现财务自由",
       "onboard_time": 1750736004,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175086,
+      "num": 175086,
+      "word": "张若昀蜡像绝了",
+      "onboard_time": 1750774045,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 172977,
@@ -1859,6 +1955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169317,
+      "num": 169317,
+      "word": "檀健次不知道在直播",
+      "onboard_time": 1750773926,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167740,
       "num": 130727,
       "word": "小米YU7Max天幕最大遮光率99.85%",
@@ -1872,14 +1976,6 @@
       "word": "女子自称狂炫榴莲后糖化脸",
       "onboard_time": 1750738704,
       "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 167180,
-      "num": 167180,
-      "word": "男生复读考出673分一脸淡定",
-      "onboard_time": 1750770926,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -2011,6 +2107,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 156070,
+      "num": 156070,
+      "word": "199转手卖3000的Labubu长这样",
+      "onboard_time": 1750774826,
+      "rank": 36,
+      "category": "民生新闻,动漫"
+    },
+    {
       "raw_hot": 155596,
       "num": 393953,
       "word": "王俊凯 抽象鼻祖",
@@ -2043,6 +2147,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 153885,
+      "num": 153885,
+      "word": "男生高考700分清华北大已联系",
+      "onboard_time": 1750772366,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 153731,
       "num": 153731,
       "word": "小狗来家三年 一直看不清正脸",
@@ -2051,20 +2163,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 153664,
-      "num": 153664,
-      "word": "男生高考700分清华北大已联系",
-      "onboard_time": 1750772366,
-      "rank": 44,
-      "category": "教育"
-    },
-    {
       "raw_hot": 153571,
       "num": 153571,
       "word": "又有伊朗核科学家遭以色列暗杀",
       "onboard_time": 1750763422,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 152894,
+      "num": 152894,
+      "word": "王许梅是杨幂又一人生角色",
+      "onboard_time": 1750775006,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 149704,
@@ -2203,14 +2315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 144492,
-      "num": 153667,
-      "word": "鹿晗首个百万想看90后歌手",
-      "onboard_time": 1750772786,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 144177,
       "num": 162914,
       "word": "衣服不干裤子不干 我也不干了",
@@ -2232,6 +2336,14 @@
       "word": "虞书欣说出名要趁早",
       "onboard_time": 1750747641,
       "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 143873,
+      "num": 143873,
+      "word": "檀健次上午帅死谁下午六口水",
+      "onboard_time": 1750774586,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -2321,6 +2433,14 @@
       "onboard_time": 1750720879,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 138965,
+      "num": 138965,
+      "word": "偷偷藏不住未授权网络微短剧改编权",
+      "onboard_time": 1750775185,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 138869,
@@ -2481,6 +2601,14 @@
       "onboard_time": 1750748481,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128480,
+      "num": 128480,
+      "word": "吴磊夜跑",
+      "onboard_time": 1750775066,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 128297,
@@ -2675,12 +2803,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 111042,
+      "num": 334994,
+      "word": "谷歌华人工程师杀妻案再开庭",
+      "onboard_time": 1750767082,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 110464,
       "num": 101664,
       "word": "美军驻叙利亚军事基地遭袭",
       "onboard_time": 1750675342,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 109898,
+      "num": 127412,
+      "word": "郑钦文的球拍花木兰的剑",
+      "onboard_time": 1750773386,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 109602,
@@ -2945,6 +3089,14 @@
       "onboard_time": 1750692084,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 83116,
+      "num": 127407,
+      "word": "真心建议腰不好的人多练臀",
+      "onboard_time": 1750766302,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 81750,
@@ -3451,6 +3603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39604,
+      "num": 682944,
+      "word": "速览抗战胜利80周年纪念活动十项安排",
+      "onboard_time": 1750773865,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 39460,
       "num": 130408,
       "word": "南京先锋书店突然拆门牌引网友猜测",
@@ -3513,6 +3673,14 @@
       "onboard_time": 1750736243,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31947,
+      "num": 224647,
+      "word": "优秀的西电学子毕业都去哪里了",
+      "onboard_time": 1750774106,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 31872,
@@ -3791,6 +3959,9 @@
     },
     {
       "word": "#让中新友谊之树枝繁叶茂硕果累累#"
+    },
+    {
+      "word": "#习近平会见新加坡总理黄循财#"
     }
   ]
 }
