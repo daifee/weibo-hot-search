@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/24 15:27:21
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/24 15:41:38
 </p>
 </blockquote>
 <p>
@@ -1522,7 +1522,7 @@ A股跳水（热度：1454990）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E8%A2%AB%E9%AA%97%E5%BE%97%E4%B8%80%E6%84%A3%E4%B8%80%E6%84%A3%E7%9A%84%23" target="weibo">
-伊朗被骗得一愣一愣的（热度：1450391）
+伊朗被骗得一愣一愣的（热度：1452577）
 </a>
 </li>
 
@@ -5409,6 +5409,12 @@ Labubu 审美（热度：729066）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E6%9F%A5%E5%87%BA639%E5%88%86%E5%BC%80%E5%BF%83%E5%BE%97%E5%81%9A%E9%AC%BC%E8%84%B8%E5%98%9A%E7%91%9F%23" target="weibo">
+男生查出639分开心得做鬼脸嘚瑟（热度：702137）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E4%BC%8A%E6%96%AF%E5%85%B0%E9%9D%A9%E5%91%BD%E5%8D%AB%E9%98%9F%E6%80%BB%E5%8F%B8%E4%BB%A4%E9%81%AD%E6%9A%97%E6%9D%80%23" target="weibo">
 伊朗伊斯兰革命卫队总司令遭暗杀（热度：701668）
 </a>
@@ -6005,12 +6011,6 @@ GAI 该做热玛吉了（热度：660381）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E7%BB%99%E6%9B%BE%E6%AF%85%E6%83%B3%E7%9A%84%E5%85%AC%E5%85%B3%23" target="weibo">
 谁给曾毅想的公关（热度：656032）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E4%BC%9A%20%E5%8D%95%E4%BE%9D%E7%BA%AF%23" target="weibo">
-华为发布会 单依纯（热度：655876）
 </a>
 </li>
 

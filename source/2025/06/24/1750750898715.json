@@ -1,0 +1,410 @@
+{
+  "runTime": 1750750898715,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 702137,
+        "num": 1112341,
+        "word": "男生查出639分开心得做鬼脸嘚瑟",
+        "onboard_time": 1750744642,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 659866,
+        "num": 659866,
+        "word": "阅兵不再组织抗战老兵方队",
+        "onboard_time": 1750742662,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 8683,
+        "num": 564109,
+        "word": "抗战胜利80周年纪念活动安排一文速览",
+        "onboard_time": 1750750882,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 474960,
+        "num": 474960,
+        "word": "李乃文常驻五哈",
+        "onboard_time": 1750746140,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 451248,
+        "num": 451248,
+        "word": "陈梦说对象肯定要长得帅",
+        "onboard_time": 1750748422,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 413741,
+        "num": 413741,
+        "word": "以伊宣布正式停火",
+        "onboard_time": 1750735584,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 440279,
+        "num": 413457,
+        "word": "田曦薇cos超体爆裂萌兔",
+        "onboard_time": 1750749322,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 20832,
+        "num": 412763,
+        "word": "夏季达沃斯向新而行",
+        "onboard_time": 1750740623,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 420315,
+        "num": 411673,
+        "word": "黄杨钿甜四大疑问为何还没答案",
+        "onboard_time": 1750747521,
+        "rank": 8,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 1047149,
+        "num": 411228,
+        "word": "学生查出713分老师集体沸腾了",
+        "onboard_time": 1750731742,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 410738,
+        "num": 410738,
+        "word": "九三盛大阅兵",
+        "onboard_time": 1750730722,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1452577,
+        "num": 402086,
+        "word": "伊朗被骗得一愣一愣的",
+        "onboard_time": 1750748183,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 799912,
+        "num": 392576,
+        "word": "荔枝 催月经",
+        "onboard_time": 1750745482,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 379078,
+        "num": 379078,
+        "word": "29岁存了130万的真实生活",
+        "onboard_time": 1750738823,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78550,
+        "num": 310596,
+        "word": "2.8万救护车转运费亲属回应质疑",
+        "onboard_time": 1750750342,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 282816,
+        "num": 282816,
+        "word": "2005年的王楚钦",
+        "onboard_time": 1750746621,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 275541,
+        "num": 275541,
+        "word": "刘浩存亲自解说被活埋全过程",
+        "onboard_time": 1750743502,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265162,
+        "num": 265162,
+        "word": "樊振东亮相洛奥官方视频",
+        "onboard_time": 1750748302,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261874,
+        "num": 261874,
+        "word": "30多岁的人突然开始运动的原因",
+        "onboard_time": 1750746801,
+        "rank": 18,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 44836,
+        "num": 248763,
+        "word": "什么是神鲜奶",
+        "onboard_time": 1750747040,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241444,
+        "num": 241444,
+        "word": "世界反法西斯战争胜利80周年",
+        "onboard_time": 1750747580,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 239915,
+        "num": 239915,
+        "word": "维和部队将参阅",
+        "onboard_time": 1750742302,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 231641,
+        "num": 231641,
+        "word": "过劳肥 皮质醇",
+        "onboard_time": 1750747699,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 196426,
+        "num": 229725,
+        "word": "特朗普警告各方不要违反协议",
+        "onboard_time": 1750747881,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129075,
+        "num": 228692,
+        "word": "福建分数线",
+        "onboard_time": 1750749742,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 169475,
+        "num": 228350,
+        "word": "警方通报26岁男子多次在楼道偷窥",
+        "onboard_time": 1750746681,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228325,
+        "num": 228325,
+        "word": "买超大西瓜切开后天塌了",
+        "onboard_time": 1750736722,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209557,
+        "num": 209557,
+        "word": "李光洁被蒋欣判无妻徒刑",
+        "onboard_time": 1750750161,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205900,
+        "num": 205900,
+        "word": "25岁的易烊千玺实现了17岁的梦想",
+        "onboard_time": 1750749981,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195833,
+        "num": 195833,
+        "word": "十个勤天再成立新公司",
+        "onboard_time": 1750747040,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197192,
+        "num": 195799,
+        "word": "高考查分",
+        "onboard_time": 1750750102,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 166562,
+        "num": 194749,
+        "word": "我们的宿舍开播",
+        "onboard_time": 1750750761,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194667,
+        "num": 194667,
+        "word": "韩国恋综男嘉宾涉嫌强奸女性被捕",
+        "onboard_time": 1750750521,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 188813,
+        "num": 188813,
+        "word": "吴彤回应王牌凑不齐原班人马",
+        "onboard_time": 1750743202,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15762,
+        "num": 186471,
+        "word": "甘肃靖远县山洪灾害致5人失联",
+        "onboard_time": 1750750882,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185373,
+        "num": 185373,
+        "word": "偷偷藏不住之许你",
+        "onboard_time": 1750741343,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123848,
+        "num": 177341,
+        "word": "何小鹏与雷军商量过G7和YU7上市时间",
+        "onboard_time": 1750748721,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 176928,
+        "num": 176928,
+        "word": "朱朱小桃已经在一起4个月了",
+        "onboard_time": 1750750342,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173319,
+        "num": 173319,
+        "word": "敖瑞鹏计划在30岁做出重大决定",
+        "onboard_time": 1750749502,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30788,
+        "num": 167034,
+        "word": "岳云鹏哭了我也哭了",
+        "onboard_time": 1750749502,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164950,
+        "num": 164950,
+        "word": "伊朗已接受美停火方案",
+        "onboard_time": 1750721541,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 158690,
+        "num": 158690,
+        "word": "抗战胜利80周年纪念活动",
+        "onboard_time": 1750742302,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 154638,
+        "num": 154638,
+        "word": "参阅所有装备均为国产现役主战装备",
+        "onboard_time": 1750732162,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 147322,
+        "num": 147322,
+        "word": "大学从一二一开始到三二一结束",
+        "onboard_time": 1750750882,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146873,
+        "num": 146873,
+        "word": "海关已经沉浸在labubu的世界无法自拔",
+        "onboard_time": 1750750761,
+        "rank": 44,
+        "category": "休闲,民生新闻"
+      },
+      {
+        "raw_hot": 186194,
+        "num": 146535,
+        "word": "王珞丹近五年才发现曝光的重要性",
+        "onboard_time": 1750739723,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144592,
+        "num": 144592,
+        "word": "沈奕斐 朱丹不该被讨伐",
+        "onboard_time": 1750747222,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139974,
+        "num": 143735,
+        "word": "运动后一定要及时擦干净脖子上的汗",
+        "onboard_time": 1750740503,
+        "rank": 47,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 143623,
+        "num": 143623,
+        "word": "贵州榕江遭遇特大洪水袭击",
+        "onboard_time": 1750749562,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138077,
+        "num": 142492,
+        "word": "广东你把外卖员热成什么样了",
+        "onboard_time": 1750749802,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将在阅兵式检阅部队#"
+    }
+  }
+}
