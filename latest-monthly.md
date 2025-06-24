@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/24 23:44:43
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/25 00:33:55
 </p>
 </blockquote>
 <p>
@@ -1937,6 +1937,12 @@ A股（热度：1322395）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%B3%A1%E8%8A%99%E5%8F%98%E6%88%90%E4%B8%AD%E6%B3%A1%E8%8A%99%E4%BA%86%23" target="weibo">
 小泡芙变成中泡芙了（热度：1293020）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A9%89%E8%87%AA%E6%9B%9D%E6%95%B4%E5%AE%B9%23" target="weibo">
+小婉自曝整容（热度：1287324）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ EDG申请执行Scout3351万（热度：690406）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Bin%E5%93%A5%20%E5%98%B4%E7%A1%AC%23" target="weibo">
 Bin哥 嘴硬（热度：664927）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%B4%E6%B1%9F%E4%BB%99%23" target="weibo">
-临江仙（热度：664890）
 </a>
 </li>
 
