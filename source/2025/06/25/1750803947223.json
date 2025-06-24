@@ -1,0 +1,402 @@
+{
+  "runTime": 1750803947223,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 232180,
+        "num": 402166,
+        "word": "地震干饭小孩哥被教育了",
+        "onboard_time": 1750787116,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179004,
+        "num": 179004,
+        "word": "特朗普说刚一谈好以就打伊",
+        "onboard_time": 1750775725,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 166990,
+        "num": 166990,
+        "word": "男生高考715分北大来电差点挂掉",
+        "onboard_time": 1750778483,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165413,
+        "num": 165413,
+        "word": "晋江要求哇唧唧哇停止侵权",
+        "onboard_time": 1750780103,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154904,
+        "num": 154904,
+        "word": "救助百名弃婴的道禄被传涉案",
+        "onboard_time": 1750782081,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129961,
+        "num": 129961,
+        "word": "男子吸毒28年耗尽千万家产",
+        "onboard_time": 1750769543,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99252,
+        "num": 99252,
+        "word": "婚内强奸案当事人已离婚",
+        "onboard_time": 1750777524,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94522,
+        "num": 94522,
+        "word": "停火生效前以被曝实施多起暗杀",
+        "onboard_time": 1750791494,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 83700,
+        "num": 83700,
+        "word": "偷偷藏不住",
+        "onboard_time": 1750778604,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226581,
+        "num": 82161,
+        "word": "小婉自曝整容",
+        "onboard_time": 1750779443,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 188720,
+        "num": 80834,
+        "word": "男子殴打妻子后发生性关系被告强奸",
+        "onboard_time": 1750773146,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109113,
+        "num": 80167,
+        "word": "伊朗宣布取得对以作战胜利",
+        "onboard_time": 1750771706,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105187,
+        "num": 77885,
+        "word": "曝洪金宝儿子儿媳双双出轨",
+        "onboard_time": 1750765043,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76669,
+        "num": 76669,
+        "word": "郑乃馨曾哭着说可以等我吗",
+        "onboard_time": 1750778723,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75472,
+        "num": 75472,
+        "word": "林志颖儿子kimi现在好帅",
+        "onboard_time": 1750755143,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72491,
+        "num": 72491,
+        "word": "河南高考分数线",
+        "onboard_time": 1750775126,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 67350,
+        "num": 72357,
+        "word": "萧亚轩回复郑钦文",
+        "onboard_time": 1750780523,
+        "rank": 17,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 67020,
+        "num": 72349,
+        "word": "刘亦菲八岁时得过童模冠军",
+        "onboard_time": 1750780222,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49968,
+        "num": 72348,
+        "word": "肖战拍戏会主动提供思路",
+        "onboard_time": 1750775903,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72348,
+        "num": 72347,
+        "word": "让体脂下降的30个小方法",
+        "onboard_time": 1750780461,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 61041,
+        "num": 61041,
+        "word": "江苏高考最高分",
+        "onboard_time": 1750772183,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 55033,
+        "num": 55033,
+        "word": "每天一杯咖啡是续命还是促癌",
+        "onboard_time": 1750776685,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 50413,
+        "num": 50413,
+        "word": "肖指导说王楚钦休息日还在训练",
+        "onboard_time": 1750787537,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48535,
+        "num": 48535,
+        "word": "姜涛获救画面曝光",
+        "onboard_time": 1750783280,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47503,
+        "num": 47503,
+        "word": "伊媒称特朗普近乎乞求伊朗停火",
+        "onboard_time": 1750764201,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 44154,
+        "num": 44154,
+        "word": "李心艾孕晚期",
+        "onboard_time": 1750783819,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43068,
+        "num": 43068,
+        "word": "不二之臣",
+        "onboard_time": 1750779262,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42759,
+        "num": 42759,
+        "word": "偶遇小沈阳和老婆吃烤肉",
+        "onboard_time": 1750800494,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40527,
+        "num": 40527,
+        "word": "女生高考662分打算学医",
+        "onboard_time": 1750782681,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38754,
+        "num": 38754,
+        "word": "鹿晗首个百万想看90后歌手",
+        "onboard_time": 1750772786,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 36218,
+        "num": 36218,
+        "word": "内塔尼亚胡将发表声明",
+        "onboard_time": 1750797255,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 34357,
+        "num": 34357,
+        "word": "年轻人真的可以尝试挣快钱",
+        "onboard_time": 1750765163,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33970,
+        "num": 33970,
+        "word": "男生高考699分称比预期低",
+        "onboard_time": 1750786456,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33570,
+        "num": 33570,
+        "word": "敖瑞鹏吴宣仪 不二之臣",
+        "onboard_time": 1750775425,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33473,
+        "num": 33473,
+        "word": "美军B2轰炸机袭击伊朗核设施",
+        "onboard_time": 1750778184,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 33350,
+        "num": 33350,
+        "word": "杭州西湖16个收费景点免票",
+        "onboard_time": 1750788675,
+        "rank": 36,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 32723,
+        "num": 32723,
+        "word": "BLACKPINK四人合体了",
+        "onboard_time": 1750776444,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32393,
+        "num": 32393,
+        "word": "张桂源中考623分",
+        "onboard_time": 1750769364,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32280,
+        "num": 32280,
+        "word": "韩安冉9个月小女儿玩滑板",
+        "onboard_time": 1750779923,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 31940,
+        "num": 31940,
+        "word": "陈豪拜托佘诗曼帮陈茵媺找labubu",
+        "onboard_time": 1750784179,
+        "rank": 40,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 31033,
+        "num": 31033,
+        "word": "199转手卖3000的Labubu长这样",
+        "onboard_time": 1750774826,
+        "rank": 41,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 30315,
+        "num": 30315,
+        "word": "苗得雨任外交部副部长",
+        "onboard_time": 1750790595,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 29863,
+        "num": 29863,
+        "word": "再考清华当事人称将公布高考成绩",
+        "onboard_time": 1750785556,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29435,
+        "num": 29435,
+        "word": "小米悠悠去世",
+        "onboard_time": 1750752923,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28785,
+        "num": 28785,
+        "word": "收120瓶茅台的董事长退休后落马",
+        "onboard_time": 1750802295,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28675,
+        "num": 28675,
+        "word": "男子被树枝刺伤无视伤口终要截肢",
+        "onboard_time": 1750801635,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28669,
+        "num": 28669,
+        "word": "特朗普称以色列和伊朗均违反停火协议",
+        "onboard_time": 1750765460,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28331,
+        "num": 28331,
+        "word": "王毅同伊外长通电话",
+        "onboard_time": 1750779563,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 27878,
+        "num": 27878,
+        "word": "花开锦绣",
+        "onboard_time": 1750781542,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#让中新友谊之树枝繁叶茂硕果累累#"
+    }
+  }
+}
