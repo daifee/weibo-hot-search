@@ -1,6 +1,6 @@
 {
   "startTime": 1750696476897,
-  "endTime": 1750776335381,
+  "endTime": 1750778975228,
   "band_list": [
     {
       "raw_hot": 9141770,
@@ -211,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1079208,
+      "num": 591532,
+      "word": "港媒曝姜涛服食药物跳海",
+      "onboard_time": 1750775903,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1069170,
       "num": 540261,
       "word": "琼海警方确认死者系失联学生李某栏",
@@ -241,6 +249,14 @@
       "onboard_time": 1750758983,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1015661,
+      "num": 472047,
+      "word": "BLACKPINK四人合体了",
+      "onboard_time": 1750776444,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 950117,
@@ -281,6 +297,22 @@
       "onboard_time": 1750719857,
       "rank": 12,
       "category": "体育,国际时政"
+    },
+    {
+      "raw_hot": 834455,
+      "num": 570997,
+      "word": "晋江 哇唧唧哇",
+      "onboard_time": 1750774945,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 824636,
+      "num": 535146,
+      "word": "江苏高考最高分",
+      "onboard_time": 1750772183,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 811978,
@@ -355,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 697239,
+      "num": 697239,
+      "word": "河南本科线历史类471物理类427",
+      "onboard_time": 1750775066,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
       "raw_hot": 673797,
       "num": 673797,
       "word": "河北本科线历史477物理459",
@@ -371,12 +411,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 656029,
-      "num": 656029,
-      "word": "河南本科线历史类471物理类427",
-      "onboard_time": 1750775066,
-      "rank": 15,
-      "category": "教育"
+      "raw_hot": 643728,
+      "num": 358754,
+      "word": "敖瑞鹏吴宣仪 不二之臣",
+      "onboard_time": 1750775425,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 638158,
@@ -457,14 +497,6 @@
       "onboard_time": 1750755683,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 570997,
-      "num": 570997,
-      "word": "晋江 哇唧唧哇",
-      "onboard_time": 1750774945,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 568211,
@@ -675,6 +707,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 448974,
+      "num": 345443,
+      "word": "肖战拍戏会主动提供思路",
+      "onboard_time": 1750775903,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 448088,
       "num": 549550,
       "word": "浙江男子中1000万40天后才发现",
@@ -699,20 +739,20 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 423251,
-      "num": 423251,
-      "word": "港媒曝姜涛服食药物跳海",
-      "onboard_time": 1750775903,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 421630,
       "num": 496923,
       "word": "外媒把TOP认成ENHYPEN",
       "onboard_time": 1750737262,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 416878,
+      "num": 326653,
+      "word": "个人养老金按领取额3%纳税",
+      "onboard_time": 1750777584,
+      "rank": 16,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 413899,
@@ -795,6 +835,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 369201,
+      "num": 369201,
+      "word": "每天一杯咖啡是续命还是促癌",
+      "onboard_time": 1750776685,
+      "rank": 8,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 364851,
       "num": 408137,
       "word": "黄圣依妈妈一直尽全力托举女儿",
@@ -809,14 +857,6 @@
       "onboard_time": 1750764081,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 358754,
-      "num": 358754,
-      "word": "敖瑞鹏吴宣仪 不二之臣",
-      "onboard_time": 1750775425,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 357387,
@@ -873,6 +913,14 @@
       "onboard_time": 1750733423,
       "rank": 23,
       "category": "数码"
+    },
+    {
+      "raw_hot": 345426,
+      "num": 304835,
+      "word": "199转手卖3000的Labubu长这样",
+      "onboard_time": 1750774826,
+      "rank": 36,
+      "category": "民生新闻,动漫"
     },
     {
       "raw_hot": 338776,
@@ -971,14 +1019,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 316574,
-      "num": 304835,
-      "word": "199转手卖3000的Labubu长这样",
-      "onboard_time": 1750774826,
-      "rank": 36,
-      "category": "民生新闻,动漫"
-    },
-    {
       "raw_hot": 314652,
       "num": 314652,
       "word": "以防长下令有力回应伊朗",
@@ -1043,12 +1083,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 294842,
+      "num": 294842,
+      "word": "张若昀蜡像绝了",
+      "onboard_time": 1750774045,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 292203,
       "num": 378341,
       "word": "关注以伊冲突最新动态",
       "onboard_time": 1750683983,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 291211,
+      "num": 291211,
+      "word": "郑乃馨曾哭着说可以等我吗",
+      "onboard_time": 1750778723,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 287362,
@@ -1235,14 +1291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 251083,
-      "num": 251083,
-      "word": "肖战拍戏会主动提供思路",
-      "onboard_time": 1750775903,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 250565,
       "num": 250565,
       "word": "北京 热",
@@ -1257,6 +1305,14 @@
       "onboard_time": 1750765163,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 249061,
+      "num": 249061,
+      "word": "特朗普说刚一谈好以就打伊",
+      "onboard_time": 1750775725,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 248542,
@@ -1281,6 +1337,14 @@
       "onboard_time": 1750736062,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 245896,
+      "num": 245896,
+      "word": "张译一部剧嘎一个兄弟",
+      "onboard_time": 1750777944,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 245014,
@@ -1619,6 +1683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 201447,
+      "num": 201447,
+      "word": "男生高考715分北大来电差点挂掉",
+      "onboard_time": 1750778483,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 201330,
       "num": 279821,
       "word": "谁懂闫妮看向秦海璐的微醺感",
@@ -1707,6 +1779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195330,
+      "num": 195330,
+      "word": "易烊千玺说来重庆一定吃抄手",
+      "onboard_time": 1750778424,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 194667,
       "num": 194667,
       "word": "韩国恋综男嘉宾涉嫌强奸女性被捕",
@@ -1729,6 +1809,14 @@
       "onboard_time": 1750757242,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 192035,
+      "num": 192035,
+      "word": "高考700分清华北大已联系男生发声",
+      "onboard_time": 1750777044,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191916,
@@ -1795,12 +1883,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 187792,
-      "num": 187792,
-      "word": "特朗普说刚一谈好以就打伊",
-      "onboard_time": 1750775725,
-      "rank": 32,
-      "category": "国际时政"
+      "raw_hot": 186315,
+      "num": 186315,
+      "word": "婚内强奸案当事人已离婚",
+      "onboard_time": 1750777524,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186000,
@@ -1835,6 +1923,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 184556,
+      "num": 184556,
+      "word": "魏大勋长靴造型路透",
+      "onboard_time": 1750778063,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 184541,
       "num": 445249,
       "word": "健身房偶遇沈腾",
@@ -1851,20 +1947,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183436,
+      "num": 183436,
+      "word": "偷偷藏不住",
+      "onboard_time": 1750778604,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183373,
       "num": 183373,
       "word": "湖南高考分数线",
       "onboard_time": 1750759102,
       "rank": 31,
       "category": "教育"
-    },
-    {
-      "raw_hot": 183135,
-      "num": 183135,
-      "word": "张若昀蜡像绝了",
-      "onboard_time": 1750774045,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 182909,
@@ -1963,12 +2059,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175552,
+      "num": 175552,
+      "word": "长安的荔枝删除那尔那茜名字",
+      "onboard_time": 1750776805,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 174444,
+      "num": 185137,
+      "word": "李嘉森中考626",
+      "onboard_time": 1750776565,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172977,
       "num": 172977,
       "word": "杭州一碗面558元店主回应争议",
       "onboard_time": 1750721421,
       "rank": 26,
       "category": "民生新闻,美食"
+    },
+    {
+      "raw_hot": 172373,
+      "num": 172373,
+      "word": "黄金",
+      "onboard_time": 1750778245,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 172049,
@@ -2289,6 +2409,14 @@
       "onboard_time": 1750763243,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 147693,
+      "num": 147693,
+      "word": "24岁嫁潮汕独立带娃的一天",
+      "onboard_time": 1750777044,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 147322,
@@ -2811,6 +2939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 116906,
+      "num": 368174,
+      "word": "贵州榕江中心大道成了一条河",
+      "onboard_time": 1750777346,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 116317,
       "num": 259435,
       "word": "好医保可报国内全部CART疗法",
@@ -3257,6 +3393,14 @@
       "onboard_time": 1750771526,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 76535,
+      "num": 340237,
+      "word": "央视揭开购物卡新型诈骗套路",
+      "onboard_time": 1750777285,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 76131,
@@ -3867,6 +4011,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 24106,
+      "num": 183920,
+      "word": "官方回应个人养老金纳税问题",
+      "onboard_time": 1750778903,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 23997,
       "num": 188855,
       "word": "地理老师带毕业生从山西骑行到海南",
@@ -3913,6 +4065,14 @@
       "onboard_time": 1750740623,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20327,
+      "num": 298525,
+      "word": "以伊停火是假和平吗",
+      "onboard_time": 1750778483,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 19719,

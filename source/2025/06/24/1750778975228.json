@@ -1,0 +1,402 @@
+{
+  "runTime": 1750778975228,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1089477,
+        "num": 1174316,
+        "word": "张桂源中考623分",
+        "onboard_time": 1750769364,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 697239,
+        "num": 697239,
+        "word": "河南本科线历史类471物理类427",
+        "onboard_time": 1750775066,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1079208,
+        "num": 591532,
+        "word": "港媒曝姜涛服食药物跳海",
+        "onboard_time": 1750775903,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 562450,
+        "num": 562450,
+        "word": "男子吸毒28年耗尽千万家产",
+        "onboard_time": 1750769543,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 824636,
+        "num": 535146,
+        "word": "江苏高考最高分",
+        "onboard_time": 1750772183,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1015661,
+        "num": 472047,
+        "word": "BLACKPINK四人合体了",
+        "onboard_time": 1750776444,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 834455,
+        "num": 433155,
+        "word": "晋江 哇唧唧哇",
+        "onboard_time": 1750774945,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 369201,
+        "num": 369201,
+        "word": "每天一杯咖啡是续命还是促癌",
+        "onboard_time": 1750776685,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 116906,
+        "num": 368174,
+        "word": "贵州榕江中心大道成了一条河",
+        "onboard_time": 1750777346,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 986985,
+        "num": 360518,
+        "word": "男子殴打妻子后发生性关系被告强奸",
+        "onboard_time": 1750773146,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 643728,
+        "num": 356299,
+        "word": "敖瑞鹏吴宣仪 不二之臣",
+        "onboard_time": 1750775425,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 544133,
+        "num": 350776,
+        "word": "曝洪金宝儿子儿媳双双出轨",
+        "onboard_time": 1750765043,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448974,
+        "num": 345443,
+        "word": "肖战拍戏会主动提供思路",
+        "onboard_time": 1750775903,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76535,
+        "num": 340237,
+        "word": "央视揭开购物卡新型诈骗套路",
+        "onboard_time": 1750777285,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 486237,
+        "num": 334790,
+        "word": "林志颖儿子kimi现在好帅",
+        "onboard_time": 1750755143,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416878,
+        "num": 326653,
+        "word": "个人养老金按领取额3%纳税",
+        "onboard_time": 1750777584,
+        "rank": 16,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 409708,
+        "num": 321790,
+        "word": "伊朗宣布取得对以作战胜利",
+        "onboard_time": 1750771706,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 319233,
+        "num": 319233,
+        "word": "河南高考分数线",
+        "onboard_time": 1750775126,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 20327,
+        "num": 298525,
+        "word": "以伊停火是假和平吗",
+        "onboard_time": 1750778483,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 294842,
+        "num": 294842,
+        "word": "张若昀蜡像绝了",
+        "onboard_time": 1750774045,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291211,
+        "num": 291211,
+        "word": "郑乃馨曾哭着说可以等我吗",
+        "onboard_time": 1750778723,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279989,
+        "num": 279989,
+        "word": "姜涛发文致歉",
+        "onboard_time": 1750773205,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44305,
+        "num": 261958,
+        "word": "速览抗战胜利80周年纪念活动十项安排",
+        "onboard_time": 1750773865,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 253127,
+        "num": 253127,
+        "word": "高考713分女生回应生物满分",
+        "onboard_time": 1750755683,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249061,
+        "num": 249061,
+        "word": "特朗普说刚一谈好以就打伊",
+        "onboard_time": 1750775725,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 245896,
+        "num": 245896,
+        "word": "张译一部剧嘎一个兄弟",
+        "onboard_time": 1750777944,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244351,
+        "num": 244351,
+        "word": "小米悠悠去世",
+        "onboard_time": 1750752923,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240685,
+        "num": 240685,
+        "word": "偷偷藏不住未授权网络微短剧改编权",
+        "onboard_time": 1750775185,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225425,
+        "num": 225425,
+        "word": "晋江文学城严正声明",
+        "onboard_time": 1750772306,
+        "rank": 29,
+        "category": "互联网,读书作家"
+      },
+      {
+        "raw_hot": 345426,
+        "num": 216953,
+        "word": "199转手卖3000的Labubu长这样",
+        "onboard_time": 1750774826,
+        "rank": 30,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 201447,
+        "num": 201447,
+        "word": "男生高考715分北大来电差点挂掉",
+        "onboard_time": 1750778483,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199461,
+        "num": 199461,
+        "word": "鹿晗首个百万想看90后歌手",
+        "onboard_time": 1750772786,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195330,
+        "num": 195330,
+        "word": "易烊千玺说来重庆一定吃抄手",
+        "onboard_time": 1750778424,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192035,
+        "num": 192035,
+        "word": "高考700分清华北大已联系男生发声",
+        "onboard_time": 1750777044,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186315,
+        "num": 186315,
+        "word": "婚内强奸案当事人已离婚",
+        "onboard_time": 1750777524,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174444,
+        "num": 185137,
+        "word": "李嘉森中考626",
+        "onboard_time": 1750776565,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184556,
+        "num": 184556,
+        "word": "魏大勋长靴造型路透",
+        "onboard_time": 1750778063,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 24106,
+        "num": 183920,
+        "word": "官方回应个人养老金纳税问题",
+        "onboard_time": 1750778903,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 183436,
+        "num": 183436,
+        "word": "偷偷藏不住",
+        "onboard_time": 1750778604,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175552,
+        "num": 175552,
+        "word": "长安的荔枝删除那尔那茜名字",
+        "onboard_time": 1750776805,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174194,
+        "num": 174194,
+        "word": "河南分数线 求你低一点",
+        "onboard_time": 1750758983,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 173050,
+        "num": 173050,
+        "word": "何老师小时候就是何老师",
+        "onboard_time": 1750766124,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172373,
+        "num": 172373,
+        "word": "黄金",
+        "onboard_time": 1750778245,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 166771,
+        "num": 166771,
+        "word": "檀健次不知道在直播",
+        "onboard_time": 1750773926,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158856,
+        "num": 158856,
+        "word": "TF四代中考成绩",
+        "onboard_time": 1750773265,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158371,
+        "num": 158371,
+        "word": "年轻人真的可以尝试挣快钱",
+        "onboard_time": 1750765163,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147693,
+        "num": 147693,
+        "word": "24岁嫁潮汕独立带娃的一天",
+        "onboard_time": 1750777044,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140525,
+        "num": 140525,
+        "word": "市监局回应杭州面馆558元一碗面",
+        "onboard_time": 1750773805,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136401,
+        "num": 136401,
+        "word": "特朗普称以色列和伊朗均违反停火协议",
+        "onboard_time": 1750765460,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见新加坡总理黄循财#"
+    }
+  }
+}
