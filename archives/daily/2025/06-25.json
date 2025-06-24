@@ -1,6 +1,6 @@
 {
   "startTime": 1750782835563,
-  "endTime": 1750807534297,
+  "endTime": 1750808438019,
   "band_list": [
     {
       "raw_hot": 1287324,
@@ -11,8 +11,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 597125,
-      "num": 825140,
+      "raw_hot": 670122,
+      "num": 947497,
       "word": "地震干饭小孩哥被教育了",
       "onboard_time": 1750787116,
       "rank": 5,
@@ -43,20 +43,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 458996,
+      "num": 458996,
+      "word": "晋江要求哇唧唧哇停止侵权",
+      "onboard_time": 1750780103,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 444060,
       "num": 444060,
       "word": "个人养老金按领取额3%纳税",
       "onboard_time": 1750777584,
       "rank": 3,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 412722,
-      "num": 412722,
-      "word": "晋江要求哇唧唧哇停止侵权",
-      "onboard_time": 1750780103,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 393546,
@@ -115,19 +115,27 @@
       "category": "教育"
     },
     {
-      "raw_hot": 296493,
-      "num": 296493,
+      "raw_hot": 310010,
+      "num": 310010,
+      "word": "男子吸毒28年耗尽千万家产",
+      "onboard_time": 1750769543,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 298169,
+      "num": 298169,
       "word": "特朗普说刚一谈好以就打伊",
       "onboard_time": 1750775725,
       "rank": 28,
       "category": "国际时政"
     },
     {
-      "raw_hot": 296006,
-      "num": 296006,
-      "word": "男子吸毒28年耗尽千万家产",
-      "onboard_time": 1750769543,
-      "rank": 15,
+      "raw_hot": 283093,
+      "num": 283093,
+      "word": "救助百名弃婴的道禄被传涉案",
+      "onboard_time": 1750782081,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -139,20 +147,20 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 272200,
-      "num": 272200,
-      "word": "救助百名弃婴的道禄被传涉案",
-      "onboard_time": 1750782081,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 266990,
+      "raw_hot": 271734,
       "num": 266990,
       "word": "曝洪金宝儿子儿媳双双出轨",
       "onboard_time": 1750765043,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 264014,
+      "num": 264014,
+      "word": "婚内强奸案当事人已离婚",
+      "onboard_time": 1750777524,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 258360,
@@ -163,20 +171,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 244853,
-      "num": 244853,
-      "word": "婚内强奸案当事人已离婚",
-      "onboard_time": 1750777524,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 244399,
       "num": 244399,
       "word": "敖瑞鹏吴宣仪 不二之臣",
       "onboard_time": 1750775425,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 227239,
+      "num": 208687,
+      "word": "伊朗宣布取得对以作战胜利",
+      "onboard_time": 1750771706,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 225657,
@@ -195,20 +203,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 211181,
-      "num": 208687,
-      "word": "伊朗宣布取得对以作战胜利",
-      "onboard_time": 1750771706,
-      "rank": 22,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 207288,
       "num": 207288,
       "word": "肖战拍戏会主动提供思路",
       "onboard_time": 1750775903,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197600,
+      "num": 180935,
+      "word": "停火生效前以被曝实施多起暗杀",
+      "onboard_time": 1750791494,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 190201,
@@ -225,14 +233,6 @@
       "onboard_time": 1750779923,
       "rank": 26,
       "category": "网红"
-    },
-    {
-      "raw_hot": 180935,
-      "num": 180935,
-      "word": "停火生效前以被曝实施多起暗杀",
-      "onboard_time": 1750791494,
-      "rank": 21,
-      "category": "国际时政"
     },
     {
       "raw_hot": 175427,
@@ -267,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135823,
+      "num": 135823,
+      "word": "瘦90斤发现迷恋瘦是少女时代的淤青",
+      "onboard_time": 1750804997,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 131052,
       "num": 130131,
       "word": "李心艾孕晚期",
@@ -275,12 +283,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 128489,
-      "num": 128489,
-      "word": "瘦90斤发现迷恋瘦是少女时代的淤青",
-      "onboard_time": 1750804997,
-      "rank": 49,
-      "category": "情感"
+      "raw_hot": 123490,
+      "num": 148579,
+      "word": "伊朗宣告战争结束重建工作开启",
+      "onboard_time": 1750808121,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 120132,
@@ -289,6 +297,14 @@
       "onboard_time": 1750752923,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119600,
+      "num": 76851,
+      "word": "轻断食五天瘦了11斤",
+      "onboard_time": 1750808061,
+      "rank": 30,
+      "category": "运动健身"
     },
     {
       "raw_hot": 115475,
@@ -307,6 +323,14 @@
       "category": "民生新闻,动漫"
     },
     {
+      "raw_hot": 111103,
+      "num": 111103,
+      "word": "年轻人真的可以尝试挣快钱",
+      "onboard_time": 1750765163,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 107558,
       "num": 107558,
       "word": "张若昀蜡像绝了",
@@ -323,12 +347,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 101827,
-      "num": 101827,
-      "word": "年轻人真的可以尝试挣快钱",
-      "onboard_time": 1750765163,
-      "rank": 42,
-      "category": "情感"
+      "raw_hot": 104756,
+      "num": 75498,
+      "word": "哇唧唧哇硬刚晋江",
+      "onboard_time": 1750808000,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 103204,
+      "num": 103204,
+      "word": "伊媒称特朗普近乎乞求伊朗停火",
+      "onboard_time": 1750764201,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 97694,
@@ -427,12 +459,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 77465,
-      "num": 77465,
-      "word": "伊媒称特朗普近乎乞求伊朗停火",
-      "onboard_time": 1750764201,
-      "rank": 40,
-      "category": "国际时政"
+      "raw_hot": 77500,
+      "num": 75153,
+      "word": "合肥肥东2.9级地震",
+      "onboard_time": 1750807520,
+      "rank": 49,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 76562,
@@ -467,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71799,
+      "num": 71799,
+      "word": "肖指导说王楚钦休息日还在训练",
+      "onboard_time": 1750787537,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69406,
       "num": 69406,
       "word": "王毅同伊外长通电话",
@@ -475,20 +515,36 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 67827,
-      "num": 67827,
-      "word": "肖指导说王楚钦休息日还在训练",
-      "onboard_time": 1750787537,
-      "rank": 22,
-      "category": "体育"
+      "raw_hot": 69268,
+      "num": 69268,
+      "word": "中国金龙指数大涨3.31%",
+      "onboard_time": 1750808180,
+      "rank": 38,
+      "category": "财经"
     },
     {
-      "raw_hot": 65526,
-      "num": 65526,
+      "raw_hot": 68029,
+      "num": 68029,
+      "word": "特朗普称以色列和伊朗均违反停火协议",
+      "onboard_time": 1750765460,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 66061,
+      "num": 66061,
       "word": "中国科学家成功拯救极危大花石蝴蝶",
       "onboard_time": 1750805298,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65135,
+      "num": 65135,
+      "word": "姆巴佩暴瘦10斤",
+      "onboard_time": 1750808240,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 64634,
@@ -499,20 +555,44 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 61104,
-      "num": 61104,
+      "raw_hot": 62586,
+      "num": 76464,
       "word": "苗得雨任外交部副部长",
       "onboard_time": 1750790595,
       "rank": 49,
       "category": "国内时政"
     },
     {
-      "raw_hot": 56589,
-      "num": 56589,
+      "raw_hot": 60242,
+      "num": 60242,
+      "word": "本菲卡1比0拜仁",
+      "onboard_time": 1750808121,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 58836,
+      "num": 58836,
+      "word": "月薪18000大学生住家保姆的一天",
+      "onboard_time": 1750808421,
+      "rank": 47,
+      "category": "民生新闻,幽默"
+    },
+    {
+      "raw_hot": 57886,
+      "num": 57886,
       "word": "一开门大熊猫在房前串门歇脚",
       "onboard_time": 1750802476,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57478,
+      "num": 57478,
+      "word": "马里亚纳海沟究竟有多恐怖",
+      "onboard_time": 1750808421,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 55495,
@@ -561,22 +641,6 @@
       "onboard_time": 1750801635,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 49304,
-      "num": 50087,
-      "word": "合肥肥东2.9级地震",
-      "onboard_time": 1750807520,
-      "rank": 49,
-      "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 45997,
-      "num": 45997,
-      "word": "特朗普称以色列和伊朗均违反停火协议",
-      "onboard_time": 1750765460,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 34497,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/25 07:25:34
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/25 07:40:38
 </p>
 </blockquote>
 <p>
@@ -5967,6 +5967,12 @@ EDG申请执行Scout3351万（热度：690406）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E5%B9%B2%E9%A5%AD%E5%B0%8F%E5%AD%A9%E5%93%A5%E8%A2%AB%E6%95%99%E8%82%B2%E4%BA%86%23" target="weibo">
+地震干饭小孩哥被教育了（热度：670122）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E8%81%8A%E7%94%9F%E7%90%86%E6%9C%9F%E5%A4%A7%E5%A4%A7%E6%96%B9%E6%96%B9%E7%9A%84%23" target="weibo">
 孟子义聊生理期大大方方的（热度：669899）
 </a>
@@ -6005,12 +6011,6 @@ EDG申请执行Scout3351万（热度：690406）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A9%A7%E4%BB%AA%E6%97%A0%E6%B3%95%E5%87%BA%E6%88%8F%23" target="weibo">
 张婧仪无法出戏（热度：665858）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Bin%E5%93%A5%20%E5%98%B4%E7%A1%AC%23" target="weibo">
-Bin哥 嘴硬（热度：664927）
 </a>
 </li>
 
