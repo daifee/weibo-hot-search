@@ -1,6 +1,6 @@
 {
   "startTime": 1750696476897,
-  "endTime": 1750764212130,
+  "endTime": 1750765175822,
   "band_list": [
     {
       "raw_hot": 9141770,
@@ -179,6 +179,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 1043651,
+      "num": 651498,
+      "word": "留学生撞死人",
+      "onboard_time": 1750758143,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1031806,
       "num": 1165089,
       "word": "河南分数线 求你低一点",
@@ -203,11 +211,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 849433,
-      "num": 651498,
-      "word": "留学生撞死人",
-      "onboard_time": 1750758143,
-      "rank": 37,
+      "raw_hot": 859542,
+      "num": 859542,
+      "word": "男生高考643分姐姐说更多的是心疼",
+      "onboard_time": 1750759402,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -225,14 +233,6 @@
       "onboard_time": 1750719857,
       "rank": 12,
       "category": "体育,国际时政"
-    },
-    {
-      "raw_hot": 817074,
-      "num": 817074,
-      "word": "男生高考643分姐姐说更多的是心疼",
-      "onboard_time": 1750759402,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 811978,
@@ -715,6 +715,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 338776,
+      "num": 338776,
+      "word": "以色列警告伊朗不要违反停火协议",
+      "onboard_time": 1750761622,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 337365,
       "num": 337365,
       "word": "高考查分",
@@ -739,12 +747,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 332391,
+      "num": 371644,
+      "word": "我不能赢吗孟子义",
+      "onboard_time": 1750763482,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 330597,
       "num": 429529,
       "word": "庆余年3",
       "onboard_time": 1750736483,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 326622,
+      "num": 378166,
+      "word": "医院禁止职工推荐非正规转运车辆",
+      "onboard_time": 1750762882,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 325430,
@@ -819,14 +843,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 295637,
-      "num": 295637,
-      "word": "以色列警告伊朗不要违反停火协议",
-      "onboard_time": 1750761622,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 292203,
       "num": 378341,
       "word": "关注以伊冲突最新动态",
@@ -883,20 +899,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 275583,
+      "num": 440353,
+      "word": "传说中命很苦的男主出现了",
+      "onboard_time": 1750760782,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 274951,
       "num": 373478,
       "word": "王弘毅疑似回应",
       "onboard_time": 1750721479,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 269463,
-      "num": 440353,
-      "word": "传说中命很苦的男主出现了",
-      "onboard_time": 1750760782,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 269078,
@@ -1099,6 +1115,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 220442,
+      "num": 220442,
+      "word": "伊媒称特朗普近乎乞求伊朗停火",
+      "onboard_time": 1750764201,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 217271,
       "num": 217271,
       "word": "威海男童被打死案生母开赌场",
@@ -1137,14 +1161,6 @@
       "onboard_time": 1750740623,
       "rank": 34,
       "category": "数码"
-    },
-    {
-      "raw_hot": 209967,
-      "num": 371644,
-      "word": "我不能赢吗孟子义",
-      "onboard_time": 1750763482,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 209762,
@@ -1499,6 +1515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182465,
+      "num": 219123,
+      "word": "文淇疑似哭一半被自己美到",
+      "onboard_time": 1750764081,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182399,
       "num": 432005,
       "word": "张译新剧找不出1个好人",
@@ -1715,6 +1739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156208,
+      "num": 156208,
+      "word": "阴阳师",
+      "onboard_time": 1750764621,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 155596,
       "num": 393953,
       "word": "王俊凯 抽象鼻祖",
@@ -1755,6 +1787,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 153571,
+      "num": 153571,
+      "word": "又有伊朗核科学家遭以色列暗杀",
+      "onboard_time": 1750763422,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 152550,
+      "num": 152550,
+      "word": "曝洪金宝儿子儿媳双双出轨",
+      "onboard_time": 1750765043,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149704,
       "num": 149704,
       "word": "迈阿密国际vs帕尔梅拉斯",
@@ -1763,12 +1811,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 148075,
-      "num": 148075,
-      "word": "又有伊朗核科学家遭以色列暗杀",
-      "onboard_time": 1750763422,
-      "rank": 39,
-      "category": "国际时政"
+      "raw_hot": 149335,
+      "num": 154319,
+      "word": "我们的宿舍直播",
+      "onboard_time": 1750764262,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 148374,
+      "num": 148374,
+      "word": "费曼长发近照",
+      "onboard_time": 1750764500,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 147729,
@@ -1881,6 +1937,14 @@
       "onboard_time": 1750749021,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142109,
+      "num": 142109,
+      "word": "6月共11款进口游戏获批",
+      "onboard_time": 1750764322,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 142096,
@@ -2027,6 +2091,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132487,
+      "num": 132487,
+      "word": "藏海传微博收官战报",
+      "onboard_time": 1750764081,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 131987,
+      "num": 131987,
+      "word": "卖给上海人",
+      "onboard_time": 1750764863,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 131635,
       "num": 131635,
       "word": "高敏感人的7个特征",
@@ -2044,7 +2124,7 @@
     },
     {
       "raw_hot": 130693,
-      "num": 130693,
+      "num": 168271,
       "word": "男孩高考实考与估分仅差2分",
       "onboard_time": 1750762341,
       "rank": 45,
@@ -2137,14 +2217,6 @@
       "onboard_time": 1750757064,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 121885,
-      "num": 121885,
-      "word": "文淇疑似哭一半被自己美到",
-      "onboard_time": 1750764081,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 121665,
@@ -2329,14 +2401,6 @@
       "onboard_time": 1750725923,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102602,
-      "num": 378166,
-      "word": "医院禁止职工推荐非正规转运车辆",
-      "onboard_time": 1750762882,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 100281,
@@ -2699,6 +2763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 63445,
+      "num": 386515,
+      "word": "20条河流发生超警以上洪水",
+      "onboard_time": 1750762941,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62000,
       "num": 129068,
       "word": "马竞无缘小组出线",
@@ -2715,7 +2787,7 @@
       "category": "综艺,休闲"
     },
     {
-      "raw_hot": 59784,
+      "raw_hot": 60373,
       "num": 366029,
       "word": "电视剧长安的荔枝收官",
       "onboard_time": 1750763663,
@@ -2779,20 +2851,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 56065,
-      "num": 386515,
-      "word": "20条河流发生超警以上洪水",
-      "onboard_time": 1750762941,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 54932,
       "num": 54932,
       "word": "40枚导弹射向以色列",
       "onboard_time": 1750700177,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 53805,
+      "num": 236828,
+      "word": "沙溢转头就把白鹿卖了",
+      "onboard_time": 1750764141,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 53533,
@@ -2809,6 +2881,14 @@
       "onboard_time": 1750743682,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52475,
+      "num": 142788,
+      "word": "羽生结弦奥运传奇",
+      "onboard_time": 1750764141,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 52093,
@@ -2923,6 +3003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 40922,
+      "num": 285547,
+      "word": "医美伤口溃烂机构寄剪刀让自行护理",
+      "onboard_time": 1750764141,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39460,
       "num": 130408,
       "word": "南京先锋书店突然拆门牌引网友猜测",
@@ -2953,14 +3041,6 @@
       "onboard_time": 1750734203,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 35705,
-      "num": 148899,
-      "word": "沙溢转头就把白鹿卖了",
-      "onboard_time": 1750764141,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 35034,
@@ -2996,7 +3076,7 @@
     },
     {
       "raw_hot": 31102,
-      "num": 119644,
+      "num": 131532,
       "word": "这段可让雷佳音骂爽了",
       "onboard_time": 1750763721,
       "rank": 49,
@@ -3009,14 +3089,6 @@
       "onboard_time": 1750753403,
       "rank": 19,
       "category": "教育,健康医疗"
-    },
-    {
-      "raw_hot": 30587,
-      "num": 130751,
-      "word": "羽生结弦奥运传奇",
-      "onboard_time": 1750764141,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 28758,
@@ -3049,14 +3121,6 @@
       "onboard_time": 1750668203,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 26508,
-      "num": 130702,
-      "word": "医美伤口溃烂机构寄剪刀让自行护理",
-      "onboard_time": 1750764141,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26488,

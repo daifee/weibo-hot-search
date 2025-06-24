@@ -1,0 +1,410 @@
+{
+  "runTime": 1750765175822,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 958128,
+        "num": 1153300,
+        "word": "河南分数线 求你低一点",
+        "onboard_time": 1750758983,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 859542,
+        "num": 859542,
+        "word": "男生高考643分姐姐说更多的是心疼",
+        "onboard_time": 1750759402,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56226,
+        "num": 616866,
+        "word": "抗战胜利80周年纪念活动安排一文速览",
+        "onboard_time": 1750750882,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1043651,
+        "num": 614558,
+        "word": "留学生撞死人",
+        "onboard_time": 1750758143,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 559720,
+        "num": 559720,
+        "word": "卵巢囊肿",
+        "onboard_time": 1750758862,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 409003,
+        "num": 409003,
+        "word": "竹节虫",
+        "onboard_time": 1750751000,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 379470,
+        "num": 379470,
+        "word": "浙江男子中1000万40天后才发现",
+        "onboard_time": 1750756762,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338776,
+        "num": 338776,
+        "word": "以色列警告伊朗不要违反停火协议",
+        "onboard_time": 1750761622,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 332391,
+        "num": 338683,
+        "word": "我不能赢吗孟子义",
+        "onboard_time": 1750763482,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275583,
+        "num": 337960,
+        "word": "传说中命很苦的男主出现了",
+        "onboard_time": 1750760782,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 983777,
+        "num": 337478,
+        "word": "小米悠悠去世",
+        "onboard_time": 1750752923,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 793777,
+        "num": 336555,
+        "word": "林志颖儿子kimi现在好帅",
+        "onboard_time": 1750755143,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 571502,
+        "num": 335905,
+        "word": "伊朗被骗得一愣一愣的",
+        "onboard_time": 1750748183,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 428772,
+        "num": 335401,
+        "word": "学生查出713分老师集体沸腾了",
+        "onboard_time": 1750731742,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53109,
+        "num": 334666,
+        "word": "pdd经常刷着刷着就天降优惠券",
+        "onboard_time": 1750762882,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 334568,
+        "num": 334568,
+        "word": "高考713分女生回应生物满分",
+        "onboard_time": 1750755683,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319815,
+        "num": 327727,
+        "word": "年薪达20万就业率95%老师乐坏了",
+        "onboard_time": 1750756642,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326622,
+        "num": 326622,
+        "word": "医院禁止职工推荐非正规转运车辆",
+        "onboard_time": 1750762882,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58646,
+        "num": 297624,
+        "word": "邓超把发布会开成赛车现场",
+        "onboard_time": 1750763121,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40922,
+        "num": 285547,
+        "word": "医美伤口溃烂机构寄剪刀让自行护理",
+        "onboard_time": 1750764141,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283463,
+        "num": 283463,
+        "word": "韩安冉妈妈胜诉",
+        "onboard_time": 1750758562,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 274399,
+        "num": 274399,
+        "word": "宋亚轩当上王力宏的站哥了",
+        "onboard_time": 1750762462,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 53805,
+        "num": 236828,
+        "word": "沙溢转头就把白鹿卖了",
+        "onboard_time": 1750764141,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220442,
+        "num": 220442,
+        "word": "伊媒称特朗普近乎乞求伊朗停火",
+        "onboard_time": 1750764201,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 182465,
+        "num": 219123,
+        "word": "文淇疑似哭一半被自己美到",
+        "onboard_time": 1750764081,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60373,
+        "num": 218872,
+        "word": "电视剧长安的荔枝收官",
+        "onboard_time": 1750763663,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218778,
+        "num": 218778,
+        "word": "以防长称恢复猛烈空袭德黑兰",
+        "onboard_time": 1750753883,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 189982,
+        "num": 189982,
+        "word": "北京 热",
+        "onboard_time": 1750760242,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163858,
+        "num": 188982,
+        "word": "郑欣宜火星电台双补位官宣",
+        "onboard_time": 1750762821,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134075,
+        "num": 188741,
+        "word": "檀健次直播",
+        "onboard_time": 1750763602,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188697,
+        "num": 188697,
+        "word": "江苏分数线",
+        "onboard_time": 1750754363,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 96756,
+        "num": 168271,
+        "word": "男孩高考实考与估分仅差2分",
+        "onboard_time": 1750762341,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167970,
+        "num": 167970,
+        "word": "猫咪把自己扔上床后秒睡",
+        "onboard_time": 1750762882,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156208,
+        "num": 156208,
+        "word": "阴阳师",
+        "onboard_time": 1750764621,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149335,
+        "num": 154319,
+        "word": "我们的宿舍直播",
+        "onboard_time": 1750764262,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153722,
+        "num": 153722,
+        "word": "湖南分数线",
+        "onboard_time": 1750757543,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 153571,
+        "num": 153571,
+        "word": "又有伊朗核科学家遭以色列暗杀",
+        "onboard_time": 1750763422,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152550,
+        "num": 152550,
+        "word": "曝洪金宝儿子儿媳双双出轨",
+        "onboard_time": 1750765043,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148374,
+        "num": 148374,
+        "word": "费曼长发近照",
+        "onboard_time": 1750764500,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52475,
+        "num": 142788,
+        "word": "羽生结弦奥运传奇",
+        "onboard_time": 1750764141,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142109,
+        "num": 142109,
+        "word": "6月共11款进口游戏获批",
+        "onboard_time": 1750764322,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135177,
+        "num": 135177,
+        "word": "2025高考分数线汇总",
+        "onboard_time": 1750757242,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 133615,
+        "num": 133615,
+        "word": "魏大勋的腿像开了长腿特效",
+        "onboard_time": 1750758382,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132487,
+        "num": 132487,
+        "word": "藏海传微博收官战报",
+        "onboard_time": 1750764081,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132440,
+        "num": 132440,
+        "word": "以伊宣布正式停火",
+        "onboard_time": 1750735584,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 63445,
+        "num": 132134,
+        "word": "20条河流发生超警以上洪水",
+        "onboard_time": 1750762941,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131987,
+        "num": 131987,
+        "word": "卖给上海人",
+        "onboard_time": 1750764863,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 24084,
+        "num": 131532,
+        "word": "这段可让雷佳音骂爽了",
+        "onboard_time": 1750763721,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131096,
+        "num": 131096,
+        "word": "国产剧终于有不择手段的恶人女主",
+        "onboard_time": 1750756163,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127934,
+        "num": 127934,
+        "word": "深圳一店招工要求每天上班16小时",
+        "onboard_time": 1750759283,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将出席纪念抗战胜利80周年大会#"
+    }
+  }
+}
