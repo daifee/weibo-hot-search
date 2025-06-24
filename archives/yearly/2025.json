@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1750732025974,
+  "endTime": 1750736220650,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -963,6 +963,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 9141770,
+      "num": 9707885,
+      "word": "九三盛大阅兵",
+      "onboard_time": 1750730722,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 9123207,
       "num": 5161800,
       "word": "三人行剧组回应",
@@ -1033,14 +1041,6 @@
       "onboard_time": 1745916264,
       "rank": 4,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 8457885,
-      "num": 9707885,
-      "word": "九三盛大阅兵",
-      "onboard_time": 1750730722,
-      "rank": 0,
-      "category": "国内时政"
     },
     {
       "raw_hot": 8423438,
@@ -1177,6 +1177,14 @@
       "onboard_time": 1738997242,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 7490339,
+      "num": 7490339,
+      "word": "今年9月3日会放假吗",
+      "onboard_time": 1750734082,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 7424626,
@@ -2392,14 +2400,6 @@
       "word": "大S财产第一继承人",
       "onboard_time": 1738573647,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 3518848,
-      "num": 3518848,
-      "word": "宋慧乔首谈离婚原因",
-      "onboard_time": 1737033080,
-      "rank": 0,
       "category": "艺人"
     }
   ],
