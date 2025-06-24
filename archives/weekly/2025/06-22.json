@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750743917897,
+  "endTime": 1750747116920,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -195,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1654816,
+      "num": 1654816,
+      "word": "阅兵不再组织抗战老兵方队",
+      "onboard_time": 1750742662,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1631512,
       "num": 1621700,
       "word": "美军基地遭袭击",
@@ -305,14 +313,6 @@
       "onboard_time": 1750666824,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1337271,
-      "num": 1337271,
-      "word": "阅兵不再组织抗战老兵方队",
-      "onboard_time": 1750742662,
-      "rank": 12,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1299627,
@@ -987,6 +987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 628434,
+      "num": 628434,
+      "word": "吴彤回应王牌凑不齐原班人马",
+      "onboard_time": 1750743202,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 627251,
       "num": 358678,
       "word": "买超大西瓜切开后天塌了",
@@ -1227,6 +1235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 537221,
+      "num": 429605,
+      "word": "荔枝 催月经",
+      "onboard_time": 1750745482,
+      "rank": 11,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 534709,
       "num": 561680,
       "word": "以色列袭击伊朗6个机场",
@@ -1313,6 +1329,14 @@
       "onboard_time": 1750561462,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 515361,
+      "num": 515361,
+      "word": "王珞丹近五年才发现曝光的重要性",
+      "onboard_time": 1750739723,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 513804,
@@ -1659,6 +1683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 424044,
+      "num": 424044,
+      "word": "刘浩存亲自解说被活埋全过程",
+      "onboard_time": 1750743502,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 422414,
       "num": 422414,
       "word": "美军用超125架战机作诱饵打击伊朗",
@@ -1867,14 +1899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 393583,
-      "num": 352811,
-      "word": "王珞丹近五年才发现曝光的重要性",
-      "onboard_time": 1750739723,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 385777,
       "num": 385777,
       "word": "美国轰炸伊朗核设施",
@@ -1913,6 +1937,14 @@
       "onboard_time": 1750643359,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 376548,
+      "num": 376548,
+      "word": "李乃文常驻五哈",
+      "onboard_time": 1750746140,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 376500,
@@ -1969,6 +2001,14 @@
       "onboard_time": 1750649903,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 369718,
+      "num": 453705,
+      "word": "维和部队将参阅",
+      "onboard_time": 1750742302,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 369045,
@@ -2081,6 +2121,14 @@
       "onboard_time": 1750580063,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 350051,
+      "num": 350051,
+      "word": "运动后一定要及时擦干净脖子上的汗",
+      "onboard_time": 1750740503,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 349783,
@@ -2225,14 +2273,6 @@
       "onboard_time": 1750734382,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 335614,
-      "num": 453705,
-      "word": "维和部队将参阅",
-      "onboard_time": 1750742302,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 335297,
@@ -2531,14 +2571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 296578,
-      "num": 296578,
-      "word": "运动后一定要及时擦干净脖子上的汗",
-      "onboard_time": 1750740503,
-      "rank": 49,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 296254,
       "num": 296254,
       "word": "确认出席腾讯派对的艺人",
@@ -2651,6 +2683,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 285160,
+      "num": 285160,
+      "word": "金世佳 深圳流浪男",
+      "onboard_time": 1750743622,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284980,
       "num": 286131,
       "word": "Cenm0道歉",
@@ -2689,6 +2729,14 @@
       "onboard_time": 1750646063,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 282559,
+      "num": 282559,
+      "word": "男生查出639分开心得做鬼脸嘚瑟",
+      "onboard_time": 1750744642,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 282239,
@@ -2891,6 +2939,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 258368,
+      "num": 258368,
+      "word": "伊朗外长发表最新声明",
+      "onboard_time": 1750746203,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 257767,
       "num": 347799,
       "word": "韩网评闵玧其捐款50亿",
@@ -2961,14 +3017,6 @@
       "onboard_time": 1750648223,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 252397,
-      "num": 252397,
-      "word": "吴彤回应王牌凑不齐原班人马",
-      "onboard_time": 1750743202,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 252251,
@@ -3091,6 +3139,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 242888,
+      "num": 242888,
+      "word": "贵州一高速大桥发生垮塌无人员伤亡",
+      "onboard_time": 1750746261,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 242481,
       "num": 242481,
       "word": "王子文刘宇宁我从未见过这样的你们",
@@ -3161,6 +3217,14 @@
       "onboard_time": 1750607543,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 236600,
+      "num": 236600,
+      "word": "30多岁的人突然开始运动的原因",
+      "onboard_time": 1750746801,
+      "rank": 27,
+      "category": "运动健身"
     },
     {
       "raw_hot": 236355,
@@ -3633,6 +3697,14 @@
       "onboard_time": 1750606464,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209762,
+      "num": 209762,
+      "word": "纪念活动总体安排公布",
+      "onboard_time": 1750744822,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 209580,
@@ -4531,6 +4603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181842,
+      "num": 181842,
+      "word": "2005年的王楚钦",
+      "onboard_time": 1750746621,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181280,
       "num": 156983,
       "word": "那尔那茜事件涉事人员将被严肃追责",
@@ -4617,6 +4697,14 @@
       "onboard_time": 1750728920,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177201,
+      "num": 177201,
+      "word": "樊振东说英语太逗了",
+      "onboard_time": 1750746022,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 176759,
@@ -4779,6 +4867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171185,
+      "num": 171185,
+      "word": "福建高考查分",
+      "onboard_time": 1750745542,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 171069,
       "num": 202729,
       "word": "御赐小仵作2首发预告",
@@ -4928,14 +5024,6 @@
       "word": "五位妈咪级别的凑一起拍悬疑剧",
       "onboard_time": 1750737143,
       "rank": 49,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 165691,
-      "num": 165691,
-      "word": "刘浩存亲自解说被活埋全过程",
-      "onboard_time": 1750743502,
-      "rank": 38,
       "category": "剧集"
     },
     {
@@ -5219,6 +5307,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 157578,
+      "num": 197055,
+      "word": "孟子义hi6路透",
+      "onboard_time": 1750744521,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156919,
       "num": 171018,
       "word": "徐明浩哭了是想起父母了吧",
@@ -5291,6 +5387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154680,
+      "num": 137296,
+      "word": "薄荷奶绿",
+      "onboard_time": 1750745840,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 154287,
       "num": 164178,
       "word": "主角",
@@ -5305,14 +5409,6 @@
       "onboard_time": 1750681223,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 153904,
-      "num": 153904,
-      "word": "金世佳 深圳流浪男",
-      "onboard_time": 1750743622,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 153643,
@@ -5489,6 +5585,14 @@
       "onboard_time": 1750564462,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147458,
+      "num": 163352,
+      "word": "十个勤天再成立新公司",
+      "onboard_time": 1750747040,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 147344,
@@ -5675,6 +5779,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 143261,
+      "num": 143261,
+      "word": "警方通报26岁男子多次在楼道偷窥",
+      "onboard_time": 1750746681,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142958,
       "num": 142958,
       "word": "猫 不会喂就别喂",
@@ -5729,6 +5841,22 @@
       "onboard_time": 1750650262,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 142112,
+      "num": 142112,
+      "word": "QQ崩了",
+      "onboard_time": 1750745720,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 142096,
+      "num": 142096,
+      "word": "女子控告丈夫婚内强奸案最新进展",
+      "onboard_time": 1750745301,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142024,
@@ -5801,6 +5929,14 @@
       "onboard_time": 1750574901,
       "rank": 46,
       "category": "网红"
+    },
+    {
+      "raw_hot": 139637,
+      "num": 139637,
+      "word": "以色列人看到破防了",
+      "onboard_time": 1750745482,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 139535,
@@ -6009,6 +6145,14 @@
       "onboard_time": 1750603103,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 134856,
+      "num": 134856,
+      "word": "伊朗10天内被美国骗了至少3次",
+      "onboard_time": 1750744222,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 134590,
@@ -6241,6 +6385,14 @@
       "onboard_time": 1750685722,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128297,
+      "num": 128297,
+      "word": "刘宇宁粉丝送10万个vip",
+      "onboard_time": 1750744942,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 128276,
@@ -6521,6 +6673,14 @@
       "onboard_time": 1750642401,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121665,
+      "num": 179069,
+      "word": "给章子怡拍成谁了",
+      "onboard_time": 1750745782,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 121618,
@@ -7331,6 +7491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94085,
+      "num": 331463,
+      "word": "雷佳音变碎嘴只需个岳云鹏",
+      "onboard_time": 1750746565,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 93999,
       "num": 293194,
       "word": "中国女排3胜1负收官中国香港站",
@@ -7603,6 +7771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 77304,
+      "num": 327701,
+      "word": "官方再回应救护车转运收费2万8",
+      "onboard_time": 1750746140,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77197,
       "num": 285553,
       "word": "燕窝银耳饮没有燕窝举报却不予立案",
@@ -7665,6 +7841,14 @@
       "onboard_time": 1750641081,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73377,
+      "num": 337289,
+      "word": "官方通报贵州一高速大桥垮塌",
+      "onboard_time": 1750746742,
+      "rank": 17,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 73085,
@@ -7793,6 +7977,14 @@
       "onboard_time": 1750719558,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67110,
+      "num": 435158,
+      "word": "官方提醒二次滑坡风险",
+      "onboard_time": 1750746083,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 66530,
@@ -8209,6 +8401,14 @@
       "onboard_time": 1750677745,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47318,
+      "num": 177080,
+      "word": "什么是神鲜奶",
+      "onboard_time": 1750747040,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 46424,
@@ -8875,6 +9075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 20296,
+      "num": 1846623,
+      "word": "夏季达沃斯向新而行",
+      "onboard_time": 1750740623,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20117,
       "num": 24973,
       "word": "在阿勒泰遇见繁花绿草的湿地美景",
@@ -8960,14 +9168,6 @@
       "word": "宠物犬上培训班中暑死亡机构怎么赔",
       "onboard_time": 1750675342,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15909,
-      "num": 1846623,
-      "word": "夏季达沃斯向新而行",
-      "onboard_time": 1750740623,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
