@@ -1,6 +1,6 @@
 {
   "startTime": 1750782835563,
-  "endTime": 1750787041924,
+  "endTime": 1750790200000,
   "band_list": [
     {
       "raw_hot": 1287324,
@@ -387,6 +387,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 74290,
+      "num": 74290,
+      "word": "地震干饭小孩哥被教育了",
+      "onboard_time": 1750787116,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74127,
       "num": 74127,
       "word": "女生高考662分打算学医",
@@ -467,6 +475,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39845,
+      "num": 39845,
+      "word": "肖指导说王楚钦休息日还在训练",
+      "onboard_time": 1750787537,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 39151,
+      "num": 39151,
+      "word": "杭州西湖16个收费景点免票",
+      "onboard_time": 1750788675,
+      "rank": 23,
+      "category": "民生新闻,旅游"
+    },
+    {
       "raw_hot": 34497,
       "num": 131047,
       "word": "再考清华当事人称将公布高考成绩",
@@ -475,12 +499,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29171,
+      "num": 29171,
+      "word": "丁禹兮花开锦绣花絮",
+      "onboard_time": 1750789636,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 28349,
       "num": 39719,
       "word": "晋江文学城严正声明",
       "onboard_time": 1750772306,
       "rank": 49,
       "category": "互联网,读书作家"
+    },
+    {
+      "raw_hot": 27058,
+      "num": 27058,
+      "word": "张真源中戏毕业典礼vlog",
+      "onboard_time": 1750789156,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 26954,
+      "num": 26954,
+      "word": "贵州榕江已紧急转移约4万人",
+      "onboard_time": 1750787475,
+      "rank": 46,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
