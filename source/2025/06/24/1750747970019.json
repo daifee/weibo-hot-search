@@ -1,0 +1,410 @@
+{
+  "runTime": 1750747970019,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1535466,
+        "num": 1535466,
+        "word": "阅兵不再组织抗战老兵方队",
+        "onboard_time": 1750742662,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1387749,
+        "num": 1387749,
+        "word": "学生查出713分老师集体沸腾了",
+        "onboard_time": 1750731742,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21260,
+        "num": 809770,
+        "word": "夏季达沃斯向新而行",
+        "onboard_time": 1750740623,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 589042,
+        "num": 589042,
+        "word": "李乃文常驻五哈",
+        "onboard_time": 1750746140,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 578060,
+        "num": 578060,
+        "word": "吴彤回应王牌凑不齐原班人马",
+        "onboard_time": 1750743202,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 546771,
+        "num": 546771,
+        "word": "以伊宣布正式停火",
+        "onboard_time": 1750735584,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 546412,
+        "num": 546412,
+        "word": "九三盛大阅兵",
+        "onboard_time": 1750730722,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 520353,
+        "num": 520353,
+        "word": "刘浩存亲自解说被活埋全过程",
+        "onboard_time": 1750743502,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 494453,
+        "num": 494453,
+        "word": "贵州一高架桥垮塌货车车头腾空",
+        "onboard_time": 1750737683,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 472620,
+        "num": 472620,
+        "word": "王珞丹近五年才发现曝光的重要性",
+        "onboard_time": 1750739723,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 950117,
+        "num": 464119,
+        "word": "荔枝 催月经",
+        "onboard_time": 1750745482,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 654193,
+        "num": 447775,
+        "word": "29岁存了130万的真实生活",
+        "onboard_time": 1750738823,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 403158,
+        "num": 403158,
+        "word": "偷偷藏不住之许你",
+        "onboard_time": 1750741343,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 398045,
+        "num": 398045,
+        "word": "伊朗外长发表最新声明",
+        "onboard_time": 1750746203,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106088,
+        "num": 358068,
+        "word": "官方通报贵州一高速大桥垮塌",
+        "onboard_time": 1750746742,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 357387,
+        "num": 357387,
+        "word": "2005年的王楚钦",
+        "onboard_time": 1750746621,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 342460,
+        "num": 342460,
+        "word": "维和部队将参阅",
+        "onboard_time": 1750742302,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 304273,
+        "num": 304273,
+        "word": "隐翅虫 风油精",
+        "onboard_time": 1750730601,
+        "rank": 17,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 122567,
+        "num": 299220,
+        "word": "沈奕斐 朱丹不该被讨伐",
+        "onboard_time": 1750747222,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81750,
+        "num": 296607,
+        "word": "什么是神鲜奶",
+        "onboard_time": 1750747040,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294749,
+        "num": 294749,
+        "word": "买超大西瓜切开后天塌了",
+        "onboard_time": 1750736722,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114806,
+        "num": 290595,
+        "word": "官方提醒二次滑坡风险",
+        "onboard_time": 1750746083,
+        "rank": 21,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 289080,
+        "num": 289080,
+        "word": "秦彻输给了喜羊羊",
+        "onboard_time": 1750742062,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 284251,
+        "num": 284251,
+        "word": "运动后一定要及时擦干净脖子上的汗",
+        "onboard_time": 1750740503,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 272464,
+        "num": 272464,
+        "word": "男生查出639分开心得做鬼脸嘚瑟",
+        "onboard_time": 1750744642,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243639,
+        "num": 256759,
+        "word": "金世佳 深圳流浪男",
+        "onboard_time": 1750743622,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226904,
+        "num": 256731,
+        "word": "十个勤天再成立新公司",
+        "onboard_time": 1750747040,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256711,
+        "num": 256711,
+        "word": "贵州一高速大桥发生垮塌无人员伤亡",
+        "onboard_time": 1750746261,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157281,
+        "num": 239457,
+        "word": "窦昭看了姜桃花都得哭",
+        "onboard_time": 1750747699,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46232,
+        "num": 239287,
+        "word": "皮洛遗址考古标本多到装不下",
+        "onboard_time": 1750747281,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239203,
+        "num": 239203,
+        "word": "30多岁的人突然开始运动的原因",
+        "onboard_time": 1750746801,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 234230,
+        "num": 234230,
+        "word": "伊朗已接受美停火方案",
+        "onboard_time": 1750721541,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 219106,
+        "num": 219106,
+        "word": "黄杨钿甜四大疑问为何还没答案",
+        "onboard_time": 1750747521,
+        "rank": 32,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 173548,
+        "num": 173548,
+        "word": "世界反法西斯战争胜利80周年",
+        "onboard_time": 1750747580,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 173276,
+        "num": 173276,
+        "word": "老头乐已经成了县城年轻人的新鬼火",
+        "onboard_time": 1750742002,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164519,
+        "num": 164519,
+        "word": "中国人民抗日战争胜利80周年纪念章将颁发",
+        "onboard_time": 1750731502,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 164156,
+        "num": 164156,
+        "word": "纪念活动总体安排公布",
+        "onboard_time": 1750744822,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 66479,
+        "num": 164057,
+        "word": "有没有人来替岳云鹏发声",
+        "onboard_time": 1750747162,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49744,
+        "num": 163782,
+        "word": "印外长称不与印度合作将付代价",
+        "onboard_time": 1750740682,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 36770,
+        "num": 163647,
+        "word": "高速大桥垮塌悬空司机获救全程曝光",
+        "onboard_time": 1750747940,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66006,
+        "num": 163354,
+        "word": "雷佳音变碎嘴只需个岳云鹏",
+        "onboard_time": 1750746565,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144177,
+        "num": 162914,
+        "word": "衣服不干裤子不干 我也不干了",
+        "onboard_time": 1750747821,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162883,
+        "num": 162883,
+        "word": "参阅所有装备均为国产现役主战装备",
+        "onboard_time": 1750732162,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 162720,
+        "num": 162720,
+        "word": "抗战胜利80周年纪念活动",
+        "onboard_time": 1750742302,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 155193,
+        "num": 155193,
+        "word": "QQ崩了",
+        "onboard_time": 1750745720,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 149776,
+        "num": 149776,
+        "word": "福建高考查分",
+        "onboard_time": 1750745542,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 148927,
+        "num": 148927,
+        "word": "高考分数线",
+        "onboard_time": 1750722622,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 145828,
+        "num": 145828,
+        "word": "伊朗10天内被美国骗了至少3次",
+        "onboard_time": 1750744222,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 143892,
+        "num": 143892,
+        "word": "虞书欣说出名要趁早",
+        "onboard_time": 1750747641,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143191,
+        "num": 143191,
+        "word": "孟子义hi6路透",
+        "onboard_time": 1750744521,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将在阅兵式检阅部队#"
+    }
+  }
+}

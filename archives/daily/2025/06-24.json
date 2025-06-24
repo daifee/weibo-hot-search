@@ -1,6 +1,6 @@
 {
   "startTime": 1750696476897,
-  "endTime": 1750747116920,
+  "endTime": 1750747970019,
   "band_list": [
     {
       "raw_hot": 9141770,
@@ -139,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 950117,
+      "num": 464119,
+      "word": "荔枝 催月经",
+      "onboard_time": 1750745482,
+      "rank": 11,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 943304,
       "num": 943304,
       "word": "朱丹 内娱顶级语言艺术家",
@@ -259,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 589042,
+      "num": 589042,
+      "word": "李乃文常驻五哈",
+      "onboard_time": 1750746140,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 568211,
       "num": 568211,
       "word": "卡塔尔首都多哈响起爆炸声",
@@ -283,12 +299,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 537221,
-      "num": 429605,
-      "word": "荔枝 催月经",
-      "onboard_time": 1750745482,
-      "rank": 11,
-      "category": "健康医疗"
+      "raw_hot": 520353,
+      "num": 520353,
+      "word": "刘浩存亲自解说被活埋全过程",
+      "onboard_time": 1750743502,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 519060,
@@ -371,14 +387,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 424044,
-      "num": 424044,
-      "word": "刘浩存亲自解说被活埋全过程",
-      "onboard_time": 1750743502,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 421630,
       "num": 496923,
       "word": "外媒把TOP认成ENHYPEN",
@@ -395,12 +403,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 376548,
-      "num": 376548,
-      "word": "李乃文常驻五哈",
-      "onboard_time": 1750746140,
-      "rank": 13,
-      "category": "综艺"
+      "raw_hot": 398045,
+      "num": 398045,
+      "word": "伊朗外长发表最新声明",
+      "onboard_time": 1750746203,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 374701,
@@ -441,6 +449,14 @@
       "onboard_time": 1750716675,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 357387,
+      "num": 357387,
+      "word": "2005年的王楚钦",
+      "onboard_time": 1750746621,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 354899,
@@ -635,20 +651,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 258368,
-      "num": 258368,
-      "word": "伊朗外长发表最新声明",
-      "onboard_time": 1750746203,
-      "rank": 24,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 257613,
       "num": 257613,
       "word": "伊朗导弹击中以色列南部",
       "onboard_time": 1750681342,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 256711,
+      "num": 256711,
+      "word": "贵州一高速大桥发生垮塌无人员伤亡",
+      "onboard_time": 1750746261,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 255458,
@@ -691,14 +707,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 242888,
-      "num": 242888,
-      "word": "贵州一高速大桥发生垮塌无人员伤亡",
-      "onboard_time": 1750746261,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 241079,
       "num": 188944,
       "word": "上岸无果竟找间谍报复",
@@ -715,8 +723,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 236600,
-      "num": 236600,
+      "raw_hot": 239203,
+      "num": 239203,
       "word": "30多岁的人突然开始运动的原因",
       "onboard_time": 1750746801,
       "rank": 27,
@@ -731,12 +739,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 226904,
+      "num": 256731,
+      "word": "十个勤天再成立新公司",
+      "onboard_time": 1750747040,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 226892,
       "num": 280440,
       "word": "蚊香 中毒",
       "onboard_time": 1750730482,
       "rank": 33,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 219106,
+      "num": 219106,
+      "word": "黄杨钿甜四大疑问为何还没答案",
+      "onboard_time": 1750747521,
+      "rank": 32,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 216487,
@@ -963,14 +987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 181842,
-      "num": 181842,
-      "word": "2005年的王楚钦",
-      "onboard_time": 1750746621,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 180333,
       "num": 273045,
       "word": "李沅禧买到假labubu的反应",
@@ -1017,6 +1033,14 @@
       "onboard_time": 1750736004,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173548,
+      "num": 173548,
+      "word": "世界反法西斯战争胜利80周年",
+      "onboard_time": 1750747580,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 172977,
@@ -1107,6 +1131,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157281,
+      "num": 239457,
+      "word": "窦昭看了姜桃花都得哭",
+      "onboard_time": 1750747699,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 155193,
+      "num": 155193,
+      "word": "QQ崩了",
+      "onboard_time": 1750745720,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 154680,
       "num": 137296,
       "word": "薄荷奶绿",
@@ -1123,12 +1163,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 147458,
-      "num": 163352,
-      "word": "十个勤天再成立新公司",
-      "onboard_time": 1750747040,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 145828,
+      "num": 145828,
+      "word": "伊朗10天内被美国骗了至少3次",
+      "onboard_time": 1750744222,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 145450,
@@ -1147,12 +1187,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144177,
+      "num": 162914,
+      "word": "衣服不干裤子不干 我也不干了",
+      "onboard_time": 1750747821,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 144157,
       "num": 224390,
       "word": "终于有剧拍末世大女主了",
       "onboard_time": 1750676490,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143892,
+      "num": 143892,
+      "word": "虞书欣说出名要趁早",
+      "onboard_time": 1750747641,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 143442,
@@ -1177,14 +1233,6 @@
       "onboard_time": 1750746681,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 142112,
-      "num": 142112,
-      "word": "QQ崩了",
-      "onboard_time": 1750745720,
-      "rank": 42,
-      "category": "互联网"
     },
     {
       "raw_hot": 142096,
@@ -1259,14 +1307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134856,
-      "num": 134856,
-      "word": "伊朗10天内被美国骗了至少3次",
-      "onboard_time": 1750744222,
-      "rank": 46,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 133892,
       "num": 133892,
       "word": "巴基斯坦提名特朗普和平奖反转",
@@ -1297,6 +1337,14 @@
       "onboard_time": 1750744942,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122567,
+      "num": 299220,
+      "word": "沈奕斐 朱丹不该被讨伐",
+      "onboard_time": 1750747222,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 122488,
@@ -1353,6 +1401,14 @@
       "onboard_time": 1750728080,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 114806,
+      "num": 435158,
+      "word": "官方提醒二次滑坡风险",
+      "onboard_time": 1750746083,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 114329,
@@ -1417,6 +1473,14 @@
       "onboard_time": 1750730119,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106088,
+      "num": 358068,
+      "word": "官方通报贵州一高速大桥垮塌",
+      "onboard_time": 1750746742,
+      "rank": 17,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 105854,
@@ -1587,6 +1651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 81750,
+      "num": 296607,
+      "word": "什么是神鲜奶",
+      "onboard_time": 1750747040,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 81384,
       "num": 81384,
       "word": "普京说俄愿为伊朗人民提供协助",
@@ -1651,14 +1723,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 73377,
-      "num": 337289,
-      "word": "官方通报贵州一高速大桥垮塌",
-      "onboard_time": 1750746742,
-      "rank": 17,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 73314,
       "num": 73314,
       "word": "美攻击伊朗后日韩首脑将缺席北约峰会",
@@ -1707,12 +1771,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 67110,
-      "num": 435158,
-      "word": "官方提醒二次滑坡风险",
-      "onboard_time": 1750746083,
-      "rank": 9,
-      "category": "辟谣/通报"
+      "raw_hot": 66479,
+      "num": 164057,
+      "word": "有没有人来替岳云鹏发声",
+      "onboard_time": 1750747162,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 62000,
@@ -1835,6 +1899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49744,
+      "num": 163782,
+      "word": "印外长称不与印度合作将付代价",
+      "onboard_time": 1750740682,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 49401,
       "num": 241697,
       "word": "道家太阳印提升阳气",
@@ -1859,12 +1931,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 47318,
-      "num": 177080,
-      "word": "什么是神鲜奶",
-      "onboard_time": 1750747040,
-      "rank": 35,
-      "category": "剧集"
+      "raw_hot": 46232,
+      "num": 239287,
+      "word": "皮洛遗址考古标本多到装不下",
+      "onboard_time": 1750747281,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43067,
@@ -1897,6 +1969,14 @@
       "onboard_time": 1750684704,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 36770,
+      "num": 163647,
+      "word": "高速大桥垮塌悬空司机获救全程曝光",
+      "onboard_time": 1750747940,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36596,
@@ -2011,7 +2091,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 20296,
+      "raw_hot": 21260,
       "num": 1846623,
       "word": "夏季达沃斯向新而行",
       "onboard_time": 1750740623,
