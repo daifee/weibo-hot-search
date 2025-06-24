@@ -1,6 +1,6 @@
 {
   "startTime": 1750696476897,
-  "endTime": 1750755016072,
+  "endTime": 1750757405999,
   "band_list": [
     {
       "raw_hot": 9141770,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1453427,
-      "num": 432703,
+      "num": 467789,
       "word": "伊朗被骗得一愣一愣的",
       "onboard_time": 1750748183,
       "rank": 10,
@@ -113,6 +113,14 @@
       "onboard_time": 1750721541,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1259814,
+      "num": 472634,
+      "word": "林志颖儿子kimi现在好帅",
+      "onboard_time": 1750755143,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1232216,
@@ -136,6 +144,14 @@
       "word": "贵州一高架大桥垮塌疑多车掉落",
       "onboard_time": 1750735344,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1148349,
+      "num": 1148349,
+      "word": "小米悠悠去世",
+      "onboard_time": 1750752923,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -187,6 +203,14 @@
       "category": "体育,国际时政"
     },
     {
+      "raw_hot": 811978,
+      "num": 811978,
+      "word": "以防长称恢复猛烈空袭德黑兰",
+      "onboard_time": 1750753883,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 783806,
       "num": 783806,
       "word": "成都地震",
@@ -227,12 +251,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 707379,
+      "num": 707379,
+      "word": "江苏分数线",
+      "onboard_time": 1750754363,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
       "raw_hot": 702137,
       "num": 1112341,
       "word": "男生查出639分开心得做鬼脸嘚瑟",
       "onboard_time": 1750744642,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 683504,
+      "num": 683504,
+      "word": "分数线",
+      "onboard_time": 1750752800,
+      "rank": 14,
+      "category": "教育"
     },
     {
       "raw_hot": 673797,
@@ -323,14 +363,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 561654,
-      "num": 420360,
-      "word": "小米悠悠去世",
-      "onboard_time": 1750752923,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 556642,
       "num": 556642,
       "word": "特朗普宣布停火后伊爆炸不断",
@@ -353,14 +385,6 @@
       "onboard_time": 1750687463,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 521563,
-      "num": 521563,
-      "word": "分数线",
-      "onboard_time": 1750752800,
-      "rank": 14,
-      "category": "教育"
     },
     {
       "raw_hot": 520353,
@@ -411,6 +435,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 487622,
+      "num": 487622,
+      "word": "辽宁分数线",
+      "onboard_time": 1750755082,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
       "raw_hot": 479097,
       "num": 479097,
       "word": "抗战胜利80周年",
@@ -425,14 +457,6 @@
       "onboard_time": 1750731682,
       "rank": 21,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 476568,
-      "num": 476568,
-      "word": "以防长称恢复猛烈空袭德黑兰",
-      "onboard_time": 1750753883,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 469405,
@@ -507,14 +531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 411195,
-      "num": 411195,
-      "word": "江苏分数线",
-      "onboard_time": 1750754363,
-      "rank": 13,
-      "category": "教育"
-    },
-    {
       "raw_hot": 409814,
       "num": 409814,
       "word": "特朗普已至白宫战情室",
@@ -532,7 +548,7 @@
     },
     {
       "raw_hot": 374696,
-      "num": 374696,
+      "num": 484919,
       "word": "EXO见证了TF家族的发展",
       "onboard_time": 1750753222,
       "rank": 15,
@@ -556,7 +572,7 @@
     },
     {
       "raw_hot": 371442,
-      "num": 371442,
+      "num": 483106,
       "word": "你好星期六泼水直播",
       "onboard_time": 1750751482,
       "rank": 9,
@@ -595,6 +611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 352916,
+      "num": 456349,
+      "word": "伊朗否认停火后向以色列发射导弹",
+      "onboard_time": 1750755683,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 350051,
       "num": 350051,
       "word": "运动后一定要及时擦干净脖子上的汗",
@@ -617,6 +641,14 @@
       "onboard_time": 1750733423,
       "rank": 23,
       "category": "数码"
+    },
+    {
+      "raw_hot": 338447,
+      "num": 479455,
+      "word": "高考713分女生回应生物满分",
+      "onboard_time": 1750755683,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 337365,
@@ -705,6 +737,14 @@
       "onboard_time": 1750689684,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 292600,
+      "num": 292600,
+      "word": "年薪达20万就业率95%老师乐坏了",
+      "onboard_time": 1750756642,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 292203,
@@ -1019,6 +1059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205009,
+      "num": 454574,
+      "word": "王阳47岁的状态",
+      "onboard_time": 1750755383,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204696,
       "num": 204696,
       "word": "看似团建 实则裁员",
@@ -1041,6 +1089,14 @@
       "onboard_time": 1750681944,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203937,
+      "num": 203937,
+      "word": "父母强行安排相亲女儿离家出走19年",
+      "onboard_time": 1750755683,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 203783,
@@ -1155,6 +1211,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 197797,
+      "num": 197797,
+      "word": "以色列",
+      "onboard_time": 1750753943,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 196518,
+      "num": 447222,
+      "word": "一梦如初开播",
+      "onboard_time": 1750756223,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194667,
       "num": 194667,
       "word": "韩国恋综男嘉宾涉嫌强奸女性被捕",
@@ -1163,12 +1235,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 192560,
-      "num": 192560,
-      "word": "以色列",
-      "onboard_time": 1750753943,
-      "rank": 43,
-      "category": "国际时政"
+      "raw_hot": 193710,
+      "num": 193710,
+      "word": "浙江男子中1000万40天后才发现",
+      "onboard_time": 1750756762,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192612,
+      "num": 192612,
+      "word": "2025高考分数线汇总",
+      "onboard_time": 1750757242,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 191916,
@@ -1403,6 +1483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158343,
+      "num": 207921,
+      "word": "一梦如初",
+      "onboard_time": 1750756044,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158119,
       "num": 158119,
       "word": "6块钱一位 去意大利啊",
@@ -1451,12 +1539,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 154234,
+      "num": 152662,
+      "word": "王俊凯 抽象鼻祖",
+      "onboard_time": 1750756883,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153731,
       "num": 153731,
       "word": "小狗来家三年 一直看不清正脸",
       "onboard_time": 1750754002,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 152204,
+      "num": 152204,
+      "word": "年入50万低物欲的生活",
+      "onboard_time": 1750755022,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 149704,
@@ -1481,6 +1585,14 @@
       "onboard_time": 1750750761,
       "rank": 44,
       "category": "休闲,民生新闻"
+    },
+    {
+      "raw_hot": 146594,
+      "num": 146594,
+      "word": "国产剧终于有不择手段的恶人女主",
+      "onboard_time": 1750756163,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 146583,
@@ -1651,12 +1763,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 136404,
+      "num": 439837,
+      "word": "pdd经常刷着刷着就天降优惠券",
+      "onboard_time": 1750756344,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 135877,
       "num": 258319,
       "word": "许凯邓恩熙新剧约会用跑的",
       "onboard_time": 1750739483,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135532,
+      "num": 135532,
+      "word": "内塔尼亚胡确认以色列同意停火",
+      "onboard_time": 1750757242,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 135131,
@@ -1707,6 +1835,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 130431,
+      "num": 130431,
+      "word": "你不快乐的原因",
+      "onboard_time": 1750756642,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 128724,
       "num": 321159,
       "word": "贵州榕江县城最大商场被洪水淹没",
@@ -1724,7 +1860,7 @@
     },
     {
       "raw_hot": 125742,
-      "num": 564109,
+      "num": 819908,
       "word": "抗战胜利80周年纪念活动安排一文速览",
       "onboard_time": 1750750882,
       "rank": 2,
@@ -1745,6 +1881,14 @@
       "onboard_time": 1750726223,
       "rank": 38,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 122053,
+      "num": 122053,
+      "word": "李雪琴说自己初中成绩全校最好",
+      "onboard_time": 1750757064,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 121665,
@@ -2123,6 +2267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74521,
+      "num": 465519,
+      "word": "张远看苏超连吃带拿的",
+      "onboard_time": 1750755982,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 73408,
       "num": 73408,
       "word": "毕业生花3万体检后展览200多项结果",
@@ -2137,6 +2289,14 @@
       "onboard_time": 1750684823,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 72092,
+      "num": 446124,
+      "word": "刘嘉玲梁朝伟为助理庆生",
+      "onboard_time": 1750756284,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 70567,
@@ -2193,6 +2353,14 @@
       "onboard_time": 1750752262,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 63963,
+      "num": 146858,
+      "word": "只有她尝到了李善德运来的荔枝",
+      "onboard_time": 1750756464,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 62000,
@@ -2265,6 +2433,14 @@
       "onboard_time": 1750698077,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 56110,
+      "num": 437355,
+      "word": "石头喷漆变翡翠骗400多万7人被抓",
+      "onboard_time": 1750756883,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54932,
