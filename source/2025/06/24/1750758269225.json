@@ -1,0 +1,410 @@
+{
+  "runTime": 1750758269225,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1391034,
+        "num": 1391034,
+        "word": "小米悠悠去世",
+        "onboard_time": 1750752923,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1057457,
+        "num": 1057457,
+        "word": "竹节虫",
+        "onboard_time": 1750751000,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92882,
+        "num": 938396,
+        "word": "抗战胜利80周年纪念活动安排一文速览",
+        "onboard_time": 1750750882,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 834936,
+        "num": 834936,
+        "word": "江苏分数线",
+        "onboard_time": 1750754363,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 733773,
+        "num": 733773,
+        "word": "以防长称恢复猛烈空袭德黑兰",
+        "onboard_time": 1750753883,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 732560,
+        "num": 732560,
+        "word": "分数线",
+        "onboard_time": 1750752800,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 611595,
+        "num": 611595,
+        "word": "年薪达20万就业率95%老师乐坏了",
+        "onboard_time": 1750756642,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319917,
+        "num": 608320,
+        "word": "EXO见证了TF家族的发展",
+        "onboard_time": 1750753222,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302216,
+        "num": 594832,
+        "word": "一梦如初开播",
+        "onboard_time": 1750756223,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47618,
+        "num": 578717,
+        "word": "小学食堂被指用劣质肉多人被停职",
+        "onboard_time": 1750757483,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1196599,
+        "num": 569092,
+        "word": "林志颖儿子kimi现在好帅",
+        "onboard_time": 1750755143,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 830251,
+        "num": 555228,
+        "word": "伊朗被骗得一愣一愣的",
+        "onboard_time": 1750748183,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 544975,
+        "num": 544975,
+        "word": "学生查出713分老师集体沸腾了",
+        "onboard_time": 1750731742,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 487565,
+        "num": 487565,
+        "word": "湖南分数线",
+        "onboard_time": 1750757543,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 111185,
+        "num": 486135,
+        "word": "贵州榕江洪水致村超球场10分钟被淹",
+        "onboard_time": 1750757543,
+        "rank": 14,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 72148,
+        "num": 465580,
+        "word": "张远看苏超连吃带拿的",
+        "onboard_time": 1750755982,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183613,
+        "num": 443291,
+        "word": "你好星期六泼水直播",
+        "onboard_time": 1750751482,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172739,
+        "num": 423404,
+        "word": "王阳47岁的状态",
+        "onboard_time": 1750755383,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131727,
+        "num": 403210,
+        "word": "pdd经常刷着刷着就天降优惠券",
+        "onboard_time": 1750756344,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 401078,
+        "num": 401078,
+        "word": "骗70岁父亲去学校签字才能拿毕业证",
+        "onboard_time": 1750753103,
+        "rank": 19,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 155596,
+        "num": 393953,
+        "word": "王俊凯 抽象鼻祖",
+        "onboard_time": 1750756883,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387203,
+        "num": 387203,
+        "word": "高考713分女生回应生物满分",
+        "onboard_time": 1750755683,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341133,
+        "num": 341133,
+        "word": "辽宁分数线",
+        "onboard_time": 1750755082,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 336786,
+        "num": 336786,
+        "word": "伊朗否认停火后向以色列发射导弹",
+        "onboard_time": 1750755683,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 158524,
+        "num": 291008,
+        "word": "李乃文常驻五哈",
+        "onboard_time": 1750746140,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268189,
+        "num": 268189,
+        "word": "琼海警方确认死者系失联学生李某栏",
+        "onboard_time": 1750751601,
+        "rank": 25,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 261785,
+        "num": 261785,
+        "word": "以伊宣布正式停火",
+        "onboard_time": 1750735584,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 179749,
+        "num": 258725,
+        "word": "半个娱乐圈都在看短剧一梦",
+        "onboard_time": 1750751783,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257850,
+        "num": 257850,
+        "word": "浙江男子中1000万40天后才发现",
+        "onboard_time": 1750756762,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88092,
+        "num": 239055,
+        "word": "韩网友指责李敏镐收粉丝礼物",
+        "onboard_time": 1750752861,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230314,
+        "num": 230314,
+        "word": "以防长下令有力回应伊朗",
+        "onboard_time": 1750754183,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 194132,
+        "num": 194132,
+        "word": "2025高考分数线汇总",
+        "onboard_time": 1750757242,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 18245,
+        "num": 192189,
+        "word": "赌不起的留美中国学生有家不敢回",
+        "onboard_time": 1750758083,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191287,
+        "num": 191287,
+        "word": "阿那亚偶遇黄多多孙莉",
+        "onboard_time": 1750757543,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190397,
+        "num": 190397,
+        "word": "河北本科线历史477物理459",
+        "onboard_time": 1750752442,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 77652,
+        "num": 188657,
+        "word": "石头喷漆变翡翠骗400多万7人被抓",
+        "onboard_time": 1750756883,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67816,
+        "num": 188391,
+        "word": "尹航程靖淇回忆二队被樊振东横扫",
+        "onboard_time": 1750757662,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30241,
+        "num": 188226,
+        "word": "留学生撞死人",
+        "onboard_time": 1750758143,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188138,
+        "num": 188138,
+        "word": "贵州榕江遭遇特大洪水袭击",
+        "onboard_time": 1750749562,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57851,
+        "num": 181232,
+        "word": "只有她尝到了李善德运来的荔枝",
+        "onboard_time": 1750756464,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181074,
+        "num": 181074,
+        "word": "父母强行安排相亲女儿离家出走19年",
+        "onboard_time": 1750755683,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130727,
+        "num": 174454,
+        "word": "25岁的易烊千玺实现了17岁的梦想",
+        "onboard_time": 1750749981,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173336,
+        "num": 173336,
+        "word": "九三盛大阅兵",
+        "onboard_time": 1750730722,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 172049,
+        "num": 172049,
+        "word": "年入50万低物欲的生活",
+        "onboard_time": 1750755022,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171937,
+        "num": 171937,
+        "word": "内塔尼亚胡确认以色列同意停火",
+        "onboard_time": 1750757242,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 162228,
+        "num": 162228,
+        "word": "以色列",
+        "onboard_time": 1750753943,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 157222,
+        "num": 157222,
+        "word": "字节跳动乔木被辞退",
+        "onboard_time": 1750752621,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 135909,
+        "num": 135909,
+        "word": "国产剧终于有不择手段的恶人女主",
+        "onboard_time": 1750756163,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132645,
+        "num": 132645,
+        "word": "女子说瞒着丈夫37万投资车位1分没赚",
+        "onboard_time": 1750758202,
+        "rank": 48,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 132032,
+        "num": 132032,
+        "word": "2005年的王楚钦",
+        "onboard_time": 1750746621,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将出席纪念抗战胜利80周年大会#"
+    }
+  }
+}
