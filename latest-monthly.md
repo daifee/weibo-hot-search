@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/24 12:35:50
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/24 12:51:12
 </p>
 </blockquote>
 <p>
@@ -999,6 +999,12 @@ LABUBU 价格崩盘（热度：1793949）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E6%9F%A5%E5%87%BA713%E5%88%86%E8%80%81%E5%B8%88%E9%9B%86%E4%BD%93%E6%B2%B8%E8%85%BE%E4%BA%86%23" target="weibo">
+学生查出713分老师集体沸腾了（热度：1750292）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%86%E4%BD%99%E5%B9%B43%23" target="weibo">
 庆余年3（热度：1747665）
 </a>
@@ -1487,12 +1493,6 @@ TES对战WE（热度：1476923）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%88%A0%E6%8E%89%E8%AF%8B%E6%AF%81%E5%8E%9F%E6%96%87%23" target="weibo">
 雷军删掉诋毁原文（热度：1467750）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E6%9F%A5%E5%87%BA713%E5%88%86%E8%80%81%E5%B8%88%E9%9B%86%E4%BD%93%E6%B2%B8%E8%85%BE%E4%BA%86%23" target="weibo">
-学生查出713分老师集体沸腾了（热度：1463203）
 </a>
 </li>
 
@@ -5817,6 +5817,12 @@ EDG申请执行Scout3351万（热度：690406）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2329%E5%B2%81%E5%AD%98%E4%BA%86130%E4%B8%87%E7%9A%84%E7%9C%9F%E5%AE%9E%E7%94%9F%E6%B4%BB%23" target="weibo">
+29岁存了130万的真实生活（热度：665040）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Bin%E5%93%A5%20%E5%98%B4%E7%A1%AC%23" target="weibo">
 Bin哥 嘴硬（热度：664927）
 </a>
@@ -6005,12 +6011,6 @@ GAI 该做热玛吉了（热度：660381）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%AD%A6%E5%86%AC%E7%A7%B0%E5%B8%8C%E6%9C%9B%E6%98%AF%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E6%89%8B%E6%9C%AF%E4%BA%86%23" target="weibo">
 陈学冬称希望是最后一次手术了（热度：650389）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%A4%A9%E7%9C%9F%E6%99%92%E7%BE%8E%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E6%B4%BB%E7%85%A7%23" target="weibo">
-杨天真晒美国留学生活照（热度：650364）
 </a>
 </li>
 
@@ -6581,6 +6581,12 @@ GAI 该做热玛吉了（热度：660381）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E5%BF%97%E5%9C%A8%E9%97%BD%E9%87%91%E8%9E%8D%E8%AE%BA%E8%BF%B0%E4%B8%8E%E5%AE%9E%E8%B7%B5%E5%90%AF%E7%A4%BA%23%23" target="weibo">
 #习近平同志在闽金融论述与实践启示#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E5%9C%A8%E9%98%85%E5%85%B5%E5%BC%8F%E6%A3%80%E9%98%85%E9%83%A8%E9%98%9F%23%23" target="weibo">
+#习近平将在阅兵式检阅部队#
 </a>
 </li>
 

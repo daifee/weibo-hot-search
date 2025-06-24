@@ -1,0 +1,410 @@
+{
+  "runTime": 1750740672380,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6067338,
+        "num": 6067338,
+        "word": "九三盛大阅兵",
+        "onboard_time": 1750730722,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1982093,
+        "num": 1982093,
+        "word": "以伊宣布正式停火",
+        "onboard_time": 1750735584,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 5854,
+        "num": 1846623,
+        "word": "夏季达沃斯向新而行",
+        "onboard_time": 1750740623,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1750292,
+        "num": 1750292,
+        "word": "学生查出713分老师集体沸腾了",
+        "onboard_time": 1750731742,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 924861,
+        "num": 924861,
+        "word": "贵州一高架大桥垮塌疑多车掉落",
+        "onboard_time": 1750735344,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 670483,
+        "num": 670483,
+        "word": "隐翅虫 风油精",
+        "onboard_time": 1750730601,
+        "rank": 5,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 602164,
+        "num": 602164,
+        "word": "中国人民抗日战争胜利80周年纪念章将颁发",
+        "onboard_time": 1750731502,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 462160,
+        "num": 462160,
+        "word": "桃花映江山定档",
+        "onboard_time": 1750732882,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 341291,
+        "num": 454836,
+        "word": "外媒把TOP认成ENHYPEN",
+        "onboard_time": 1750737262,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 498621,
+        "num": 445753,
+        "word": "贵州一高架桥垮塌货车车头腾空",
+        "onboard_time": 1750737683,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26149,
+        "num": 437670,
+        "word": "2025高招一站式服务平台",
+        "onboard_time": 1750668203,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 665040,
+        "num": 424889,
+        "word": "29岁存了130万的真实生活",
+        "onboard_time": 1750738823,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 574032,
+        "num": 414251,
+        "word": "伊朗已接受美停火方案",
+        "onboard_time": 1750721541,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 407495,
+        "num": 407495,
+        "word": "抗战胜利80周年",
+        "onboard_time": 1750731382,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 449649,
+        "num": 404130,
+        "word": "以色列称不会停火",
+        "onboard_time": 1750738403,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 277738,
+        "num": 395753,
+        "word": "庆余年3",
+        "onboard_time": 1750736483,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260248,
+        "num": 392267,
+        "word": "范丞丞要减肥三十斤",
+        "onboard_time": 1750734982,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216487,
+        "num": 387203,
+        "word": "七根心简",
+        "onboard_time": 1750739845,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 382355,
+        "num": 382355,
+        "word": "特朗普感谢伊朗提前通知空袭",
+        "onboard_time": 1750726402,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 50871,
+        "num": 379602,
+        "word": "黄渤说TA没什么背景",
+        "onboard_time": 1750738823,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206680,
+        "num": 366422,
+        "word": "小米MIXFlip2满分小折",
+        "onboard_time": 1750738763,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 576557,
+        "num": 358678,
+        "word": "买超大西瓜切开后天塌了",
+        "onboard_time": 1750736722,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393583,
+        "num": 352811,
+        "word": "王珞丹近五年才发现曝光的重要性",
+        "onboard_time": 1750739723,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349624,
+        "num": 349624,
+        "word": "高考分数线",
+        "onboard_time": 1750722622,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 76931,
+        "num": 280440,
+        "word": "蚊香 中毒",
+        "onboard_time": 1750730482,
+        "rank": 24,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 201330,
+        "num": 279821,
+        "word": "谁懂闫妮看向秦海璐的微醺感",
+        "onboard_time": 1750740083,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279816,
+        "num": 279816,
+        "word": "参阅所有装备均为国产现役主战装备",
+        "onboard_time": 1750732162,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 78255,
+        "num": 257569,
+        "word": "好医保可报国内全部CART疗法",
+        "onboard_time": 1750738763,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 135877,
+        "num": 250866,
+        "word": "许凯邓恩熙新剧约会用跑的",
+        "onboard_time": 1750739483,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87367,
+        "num": 250267,
+        "word": "宝妈想赚钱0元开网店被骗近17万",
+        "onboard_time": 1750740083,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 249708,
+        "num": 249708,
+        "word": "男子公海上刺死同事",
+        "onboard_time": 1750693822,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188152,
+        "num": 241185,
+        "word": "下雨天躲雨偶遇美女贵人",
+        "onboard_time": 1750734382,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233830,
+        "num": 233830,
+        "word": "学霸龙凤胎中考一个846分一个842分",
+        "onboard_time": 1750736062,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229445,
+        "num": 229445,
+        "word": "阅兵由徒步方队装备方队空中梯队组成",
+        "onboard_time": 1750731982,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 212421,
+        "num": 212421,
+        "word": "iOS26暗示iPhone17Air踪迹",
+        "onboard_time": 1750740623,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 198491,
+        "num": 198491,
+        "word": "她俩好适合去迪士尼上班",
+        "onboard_time": 1750734562,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197983,
+        "num": 197983,
+        "word": "贵州一高速公路大桥桥面断裂",
+        "onboard_time": 1750736364,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195872,
+        "num": 195872,
+        "word": "中国boy与摊主和解",
+        "onboard_time": 1750735823,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 64435,
+        "num": 193685,
+        "word": "特拉维夫像加沙",
+        "onboard_time": 1750738884,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 149231,
+        "num": 191959,
+        "word": "马龙夺冠比心成奥运经典",
+        "onboard_time": 1750739965,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191916,
+        "num": 191916,
+        "word": "朱霍勒迪被交易至开拓者",
+        "onboard_time": 1750740623,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187553,
+        "num": 187553,
+        "word": "抗战胜利80周年纪念活动发布会",
+        "onboard_time": 1750729400,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 175563,
+        "num": 175563,
+        "word": "看似团建 实则裁员",
+        "onboard_time": 1750739244,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174288,
+        "num": 174288,
+        "word": "光遇",
+        "onboard_time": 1750737623,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173263,
+        "num": 173263,
+        "word": "男子打死女友儿子被判死刑",
+        "onboard_time": 1750735644,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164492,
+        "num": 164492,
+        "word": "林一 让易立竞沉默的男人",
+        "onboard_time": 1750739723,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159595,
+        "num": 159595,
+        "word": "成都地震",
+        "onboard_time": 1750720460,
+        "rank": 46,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 154698,
+        "num": 154698,
+        "word": "孙俪第140遍隶书心经",
+        "onboard_time": 1750740323,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153602,
+        "num": 153602,
+        "word": "女子自称狂炫榴莲后糖化脸",
+        "onboard_time": 1750738704,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153179,
+        "num": 153179,
+        "word": "运动后一定要及时擦干净脖子上的汗",
+        "onboard_time": 1750740503,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将在阅兵式检阅部队#"
+    }
+  }
+}

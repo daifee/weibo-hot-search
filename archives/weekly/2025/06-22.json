@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750739750805,
+  "endTime": 1750740672380,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -163,6 +163,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 1750292,
+      "num": 1750292,
+      "word": "学生查出713分老师集体沸腾了",
+      "onboard_time": 1750731742,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1747665,
       "num": 1747665,
       "word": "庆余年3",
@@ -249,14 +257,6 @@
       "onboard_time": 1750604304,
       "rank": 11,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1463203,
-      "num": 1463203,
-      "word": "学生查出713分老师集体沸腾了",
-      "onboard_time": 1750731742,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1459635,
@@ -835,6 +835,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 665040,
+      "num": 424889,
+      "word": "29岁存了130万的真实生活",
+      "onboard_time": 1750738823,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 664665,
       "num": 468728,
       "word": "南柱赫回春",
@@ -956,7 +964,7 @@
     },
     {
       "raw_hot": 627251,
-      "num": 304426,
+      "num": 358678,
       "word": "买超大西瓜切开后天塌了",
       "onboard_time": 1750736722,
       "rank": 31,
@@ -1017,6 +1025,14 @@
       "onboard_time": 1750732882,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 602164,
+      "num": 602164,
+      "word": "中国人民抗日战争胜利80周年纪念章将颁发",
+      "onboard_time": 1750731502,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 599720,
@@ -1227,14 +1243,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 527012,
-      "num": 523410,
-      "word": "中国人民抗日战争胜利80周年纪念章将颁发",
-      "onboard_time": 1750731502,
-      "rank": 31,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 526093,
       "num": 491687,
       "word": "李敏镐从未回春",
@@ -1329,6 +1337,14 @@
       "onboard_time": 1750645641,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 498621,
+      "num": 445753,
+      "word": "贵州一高架桥垮塌货车车头腾空",
+      "onboard_time": 1750737683,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 497385,
@@ -1505,6 +1521,14 @@
       "onboard_time": 1750681944,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 449649,
+      "num": 404130,
+      "word": "以色列称不会停火",
+      "onboard_time": 1750738403,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 445275,
@@ -1811,12 +1835,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 389460,
-      "num": 389460,
-      "word": "贵州一高架桥垮塌货车车头腾空",
-      "onboard_time": 1750737683,
-      "rank": 12,
-      "category": "民生新闻"
+      "raw_hot": 393583,
+      "num": 352811,
+      "word": "王珞丹近五年才发现曝光的重要性",
+      "onboard_time": 1750739723,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 385777,
@@ -2059,14 +2083,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 346958,
-      "num": 251281,
-      "word": "29岁存了130万的真实生活",
-      "onboard_time": 1750738823,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 346902,
       "num": 424538,
       "word": "教两万人救命的医生自己牺牲了",
@@ -2244,7 +2260,7 @@
     },
     {
       "raw_hot": 325430,
-      "num": 325430,
+      "num": 392267,
       "word": "范丞丞要减肥三十斤",
       "onboard_time": 1750734982,
       "rank": 26,
@@ -2400,14 +2416,6 @@
       "word": "伊朗议会认为应关闭霍尔木兹海峡",
       "onboard_time": 1750601965,
       "rank": 34,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 303962,
-      "num": 303962,
-      "word": "以色列称不会停火",
-      "onboard_time": 1750738403,
-      "rank": 22,
       "category": "国际时政"
     },
     {
@@ -2780,7 +2788,7 @@
     },
     {
       "raw_hot": 262661,
-      "num": 304029,
+      "num": 366422,
       "word": "小米MIXFlip2满分小折",
       "onboard_time": 1750738763,
       "rank": 21,
@@ -3228,7 +3236,7 @@
     },
     {
       "raw_hot": 226892,
-      "num": 226892,
+      "num": 280440,
       "word": "蚊香 中毒",
       "onboard_time": 1750730482,
       "rank": 33,
@@ -3411,6 +3419,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 216487,
+      "num": 387203,
+      "word": "七根心简",
+      "onboard_time": 1750739845,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216025,
       "num": 216025,
       "word": "国际奥委会首位女性主席正式上任",
@@ -3505,6 +3521,14 @@
       "onboard_time": 1750567702,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 212421,
+      "num": 212421,
+      "word": "iOS26暗示iPhone17Air踪迹",
+      "onboard_time": 1750740623,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 211945,
@@ -3787,6 +3811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 201330,
+      "num": 279821,
+      "word": "谁懂闫妮看向秦海璐的微醺感",
+      "onboard_time": 1750740083,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201042,
       "num": 201042,
       "word": "GW对战MRC",
@@ -3865,14 +3897,6 @@
       "onboard_time": 1750591162,
       "rank": 39,
       "category": "休闲,动漫"
-    },
-    {
-      "raw_hot": 197591,
-      "num": 197591,
-      "word": "王珞丹近五年才发现曝光的重要性",
-      "onboard_time": 1750739723,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 197525,
@@ -4049,6 +4073,14 @@
       "onboard_time": 1750670244,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191916,
+      "num": 191916,
+      "word": "朱霍勒迪被交易至开拓者",
+      "onboard_time": 1750740623,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 191906,
@@ -4483,6 +4515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175563,
+      "num": 175563,
+      "word": "看似团建 实则裁员",
+      "onboard_time": 1750739244,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 175078,
       "num": 258317,
       "word": "孟子义李昀锐并排官宣",
@@ -4753,14 +4793,6 @@
       "onboard_time": 1750739723,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 165412,
-      "num": 165412,
-      "word": "看似团建 实则裁员",
-      "onboard_time": 1750739244,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 165113,
@@ -5107,6 +5139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154698,
+      "num": 154698,
+      "word": "孙俪第140遍隶书心经",
+      "onboard_time": 1750740323,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154287,
       "num": 164178,
       "word": "主角",
@@ -5145,6 +5185,14 @@
       "onboard_time": 1750565002,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153179,
+      "num": 153179,
+      "word": "运动后一定要及时擦干净脖子上的汗",
+      "onboard_time": 1750740503,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 153170,
@@ -5233,6 +5281,14 @@
       "onboard_time": 1750730361,
       "rank": 39,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 149231,
+      "num": 191959,
+      "word": "马龙夺冠比心成奥运经典",
+      "onboard_time": 1750739965,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 148967,
@@ -5769,6 +5825,14 @@
       "onboard_time": 1750667963,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135877,
+      "num": 258319,
+      "word": "许凯邓恩熙新剧约会用跑的",
+      "onboard_time": 1750739483,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 135473,
@@ -6899,14 +6963,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 101313,
-      "num": 258319,
-      "word": "许凯邓恩熙新剧约会用跑的",
-      "onboard_time": 1750739483,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 100398,
       "num": 100398,
       "word": "狗狗 医生啊孩子能挺过来吗",
@@ -7233,6 +7289,14 @@
       "onboard_time": 1750681104,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 87367,
+      "num": 250267,
+      "word": "宝妈想赚钱0元开网店被骗近17万",
+      "onboard_time": 1750740083,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 87321,
@@ -7867,6 +7931,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 50871,
+      "num": 379602,
+      "word": "黄渤说TA没什么背景",
+      "onboard_time": 1750738823,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 50612,
       "num": 50612,
       "word": "皇马vs帕丘卡",
@@ -7945,14 +8017,6 @@
       "onboard_time": 1750681944,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 46252,
-      "num": 304783,
-      "word": "黄渤说TA没什么背景",
-      "onboard_time": 1750738823,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 45352,
@@ -8841,6 +8905,14 @@
       "onboard_time": 1750683684,
       "rank": 19,
       "category": "教育,互联网"
+    },
+    {
+      "raw_hot": 5854,
+      "num": 1846623,
+      "word": "夏季达沃斯向新而行",
+      "onboard_time": 1750740623,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
@@ -8858,6 +8930,9 @@
     },
     {
       "word": "#习近平同志在闽金融论述与实践启示#"
+    },
+    {
+      "word": "#习近平将在阅兵式检阅部队#"
     }
   ]
 }
