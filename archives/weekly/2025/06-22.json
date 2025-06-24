@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750742870928,
+  "endTime": 1750743917897,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -307,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1337271,
+      "num": 1337271,
+      "word": "阅兵不再组织抗战老兵方队",
+      "onboard_time": 1750742662,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1299627,
       "num": 1299627,
       "word": "尚公主造型 黄薇",
@@ -387,6 +395,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1098872,
+      "num": 453556,
+      "word": "29岁存了130万的真实生活",
+      "onboard_time": 1750738823,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1089145,
       "num": 1089145,
       "word": "男子公海上刺死同事",
@@ -417,14 +433,6 @@
       "onboard_time": 1750578263,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1039511,
-      "num": 424889,
-      "word": "29岁存了130万的真实生活",
-      "onboard_time": 1750738823,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 1033931,
@@ -627,6 +635,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 782255,
+      "num": 782255,
+      "word": "偷偷藏不住之许你",
+      "onboard_time": 1750741343,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 781349,
       "num": 431132,
       "word": "孟子义李昀锐合作的第3部剧",
@@ -641,6 +657,14 @@
       "onboard_time": 1750556301,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 775500,
+      "num": 775500,
+      "word": "贵州一高架桥垮塌货车车头腾空",
+      "onboard_time": 1750737683,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 766271,
@@ -687,14 +711,6 @@
       "num": 753456,
       "word": "阿姨因烧饭把骗子晾一边保住166万元",
       "onboard_time": 1750635260,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 752084,
-      "num": 752084,
-      "word": "贵州一高架桥垮塌货车车头腾空",
-      "onboard_time": 1750737683,
       "rank": 12,
       "category": "民生新闻"
     },
@@ -1451,6 +1467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 469405,
+      "num": 469405,
+      "word": "秦彻输给了喜羊羊",
+      "onboard_time": 1750742062,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 468760,
       "num": 468760,
       "word": "汪峰森林北合照",
@@ -1851,14 +1875,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 389271,
-      "num": 389271,
-      "word": "偷偷藏不住之许你",
-      "onboard_time": 1750741343,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 385777,
       "num": 385777,
       "word": "美国轰炸伊朗核设施",
@@ -1915,6 +1931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 373355,
+      "num": 373355,
+      "word": "抗战胜利80周年纪念活动",
+      "onboard_time": 1750742302,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 373098,
       "num": 373098,
       "word": "十日终焉第一季",
@@ -1969,14 +1993,6 @@
       "onboard_time": 1750716675,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 362025,
-      "num": 362025,
-      "word": "阅兵不再组织抗战老兵方队",
-      "onboard_time": 1750742662,
-      "rank": 12,
-      "category": "国内时政"
     },
     {
       "raw_hot": 360220,
@@ -2209,6 +2225,14 @@
       "onboard_time": 1750734382,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 335614,
+      "num": 453705,
+      "word": "维和部队将参阅",
+      "onboard_time": 1750742302,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 335297,
@@ -2507,6 +2531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 296578,
+      "num": 296578,
+      "word": "运动后一定要及时擦干净脖子上的汗",
+      "onboard_time": 1750740503,
+      "rank": 49,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 296254,
       "num": 296254,
       "word": "确认出席腾讯派对的艺人",
@@ -2577,14 +2609,6 @@
       "onboard_time": 1750563561,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 288040,
-      "num": 288040,
-      "word": "秦彻输给了喜羊羊",
-      "onboard_time": 1750742062,
-      "rank": 22,
-      "category": "游戏"
     },
     {
       "raw_hot": 287569,
@@ -2803,14 +2827,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 263708,
-      "num": 263708,
-      "word": "运动后一定要及时擦干净脖子上的汗",
-      "onboard_time": 1750740503,
-      "rank": 49,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 263153,
       "num": 263153,
       "word": "终于有剧拍了五代十国",
@@ -2947,6 +2963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 252397,
+      "num": 252397,
+      "word": "吴彤回应王牌凑不齐原班人马",
+      "onboard_time": 1750743202,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252251,
       "num": 308936,
       "word": "九重紫",
@@ -2969,14 +2993,6 @@
       "onboard_time": 1750667843,
       "rank": 21,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 250899,
-      "num": 328381,
-      "word": "抗战胜利80周年纪念活动",
-      "onboard_time": 1750742302,
-      "rank": 18,
-      "category": "国内时政"
     },
     {
       "raw_hot": 250628,
@@ -3025,6 +3041,14 @@
       "onboard_time": 1750695621,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 248428,
+      "num": 351703,
+      "word": "孙俪第140遍隶书心经",
+      "onboard_time": 1750740323,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 247662,
@@ -3203,28 +3227,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 233417,
-      "num": 233417,
-      "word": "维和部队将参阅",
-      "onboard_time": 1750742302,
-      "rank": 34,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 231797,
       "num": 314060,
       "word": "张婧仪复仇掀桌戏看爽了",
       "onboard_time": 1750599024,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 231551,
-      "num": 351703,
-      "word": "孙俪第140遍隶书心经",
-      "onboard_time": 1750740323,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 230924,
@@ -3675,6 +3683,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 207934,
+      "num": 207934,
+      "word": "老头乐已经成了县城年轻人的新鬼火",
+      "onboard_time": 1750742002,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 207933,
       "num": 207933,
       "word": "侃爷上海演唱会官宣",
@@ -3803,6 +3819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203229,
+      "num": 203229,
+      "word": "以法之名今日开播",
+      "onboard_time": 1750743083,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203211,
       "num": 203211,
       "word": "林一 让易立竞沉默的男人",
@@ -3865,6 +3889,14 @@
       "onboard_time": 1750666884,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 201950,
+      "num": 248128,
+      "word": "第一批学电竞的人怎么样了",
+      "onboard_time": 1750742481,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 201898,
@@ -4275,6 +4307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 189093,
+      "num": 191959,
+      "word": "马龙夺冠比心成奥运经典",
+      "onboard_time": 1750739965,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188775,
       "num": 188775,
       "word": "晋江崩了",
@@ -4361,14 +4401,6 @@
       "onboard_time": 1750675702,
       "rank": 25,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 186109,
-      "num": 186109,
-      "word": "老头乐已经成了县城年轻人的新鬼火",
-      "onboard_time": 1750742002,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 186060,
@@ -4899,6 +4931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165691,
+      "num": 165691,
+      "word": "刘浩存亲自解说被活埋全过程",
+      "onboard_time": 1750743502,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165113,
       "num": 165113,
       "word": "气血不足最怕的几个动作",
@@ -5155,6 +5195,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 158119,
+      "num": 158119,
+      "word": "6块钱一位 去意大利啊",
+      "onboard_time": 1750743801,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 157991,
       "num": 157991,
       "word": "萤火虫漫展",
@@ -5257,6 +5305,14 @@
       "onboard_time": 1750681223,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153904,
+      "num": 153904,
+      "word": "金世佳 深圳流浪男",
+      "onboard_time": 1750743622,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 153643,
@@ -5369,14 +5425,6 @@
       "onboard_time": 1750730361,
       "rank": 39,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 149231,
-      "num": 191959,
-      "word": "马龙夺冠比心成奥运经典",
-      "onboard_time": 1750739965,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 148967,
@@ -5537,6 +5585,14 @@
       "onboard_time": 1750575201,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145450,
+      "num": 145450,
+      "word": "黑龙江高考分数线",
+      "onboard_time": 1750743622,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 145397,
@@ -5777,6 +5833,14 @@
       "onboard_time": 1750654824,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 138710,
+      "num": 138710,
+      "word": "CBA外援兴奋剂违规",
+      "onboard_time": 1750743801,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 138223,
@@ -7531,14 +7595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 78536,
-      "num": 248128,
-      "word": "第一批学电竞的人怎么样了",
-      "onboard_time": 1750742481,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 78050,
       "num": 78050,
       "word": "黄轩女友分享日常vlog",
@@ -7875,6 +7931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 57641,
+      "num": 163821,
+      "word": "三角洲行动明日方舟联动",
+      "onboard_time": 1750743383,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 57380,
       "num": 75815,
       "word": "自诩成功学大师7年骗了3.8亿",
@@ -7984,6 +8048,14 @@
       "word": "超载货车乱象调查",
       "onboard_time": 1750737683,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52923,
+      "num": 201169,
+      "word": "做教师子女为何总是痛并快乐着",
+      "onboard_time": 1750743682,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
