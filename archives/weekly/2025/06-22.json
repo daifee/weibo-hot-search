@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750783811725,
+  "endTime": 1750785963499,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -9011,6 +9011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100955,
+      "num": 97411,
+      "word": "李心艾孕晚期",
+      "onboard_time": 1750783819,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100398,
       "num": 100398,
       "word": "狗狗 医生啊孩子能挺过来吗",
@@ -9371,6 +9379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88842,
+      "num": 88842,
+      "word": "陈豪拜托佘诗曼帮陈茵媺找labubu",
+      "onboard_time": 1750784179,
+      "rank": 24,
+      "category": "艺人,休闲"
+    },
+    {
       "raw_hot": 88607,
       "num": 241707,
       "word": "特朗普称伊朗福尔多核设施不再存在",
@@ -9707,6 +9723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74020,
+      "num": 179185,
+      "word": "姜涛获救画面曝光",
+      "onboard_time": 1750783280,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 73891,
       "num": 469397,
       "word": "王骁卡萨帝质感对味了",
@@ -9721,14 +9745,6 @@
       "onboard_time": 1750641081,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 73670,
-      "num": 179185,
-      "word": "姜涛获救画面曝光",
-      "onboard_time": 1750783280,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 73085,
@@ -10217,6 +10233,14 @@
       "onboard_time": 1750764141,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 52359,
+      "num": 52359,
+      "word": "肖战是细节控",
+      "onboard_time": 1750783819,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 52326,
@@ -11000,6 +11024,14 @@
       "word": "律师解读副教授遭精神病人杀害",
       "onboard_time": 1750660884,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26656,
+      "num": 48998,
+      "word": "再考清华当事人称将公布高考成绩",
+      "onboard_time": 1750785556,
+      "rank": 43,
       "category": "民生新闻"
     },
     {

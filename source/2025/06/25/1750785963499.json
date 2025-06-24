@@ -1,0 +1,402 @@
+{
+  "runTime": 1750785963499,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 414081,
+        "num": 483353,
+        "word": "男生高考715分北大来电差点挂掉",
+        "onboard_time": 1750778483,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 340592,
+        "num": 340592,
+        "word": "偷偷藏不住",
+        "onboard_time": 1750778604,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282254,
+        "num": 282254,
+        "word": "河南高考分数线",
+        "onboard_time": 1750775126,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 268170,
+        "num": 268170,
+        "word": "港媒曝姜涛服食药物跳海",
+        "onboard_time": 1750775903,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220000,
+        "num": 220000,
+        "word": "个人养老金按领取额3%纳税",
+        "onboard_time": 1750777584,
+        "rank": 5,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 194252,
+        "num": 194252,
+        "word": "男子吸毒28年耗尽千万家产",
+        "onboard_time": 1750769543,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190139,
+        "num": 190139,
+        "word": "BLACKPINK四人合体了",
+        "onboard_time": 1750776444,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166627,
+        "num": 166627,
+        "word": "张桂源中考623分",
+        "onboard_time": 1750769364,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107213,
+        "num": 165465,
+        "word": "特朗普说刚一谈好以就打伊",
+        "onboard_time": 1750775725,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 487769,
+        "num": 163088,
+        "word": "小婉自曝整容",
+        "onboard_time": 1750779443,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 271170,
+        "num": 162285,
+        "word": "郑乃馨曾哭着说可以等我吗",
+        "onboard_time": 1750778723,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204194,
+        "num": 160320,
+        "word": "林志颖儿子kimi现在好帅",
+        "onboard_time": 1750755143,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159539,
+        "num": 159539,
+        "word": "男子殴打妻子后发生性关系被告强奸",
+        "onboard_time": 1750773146,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145311,
+        "num": 145311,
+        "word": "萧亚轩回复郑钦文",
+        "onboard_time": 1750780523,
+        "rank": 14,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 129289,
+        "num": 129289,
+        "word": "曝洪金宝儿子儿媳双双出轨",
+        "onboard_time": 1750765043,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127511,
+        "num": 127511,
+        "word": "刘亦菲八岁时得过童模冠军",
+        "onboard_time": 1750780222,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122557,
+        "num": 122557,
+        "word": "晋江 哇唧唧哇",
+        "onboard_time": 1750774945,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106216,
+        "num": 106216,
+        "word": "伊朗宣布取得对以作战胜利",
+        "onboard_time": 1750771706,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97717,
+        "num": 97717,
+        "word": "让体脂下降的30个小方法",
+        "onboard_time": 1750780461,
+        "rank": 19,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 113526,
+        "num": 97472,
+        "word": "晋江要求哇唧唧哇停止侵权",
+        "onboard_time": 1750780103,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100955,
+        "num": 97411,
+        "word": "李心艾孕晚期",
+        "onboard_time": 1750783819,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95063,
+        "num": 95063,
+        "word": "江苏高考最高分",
+        "onboard_time": 1750772183,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 89485,
+        "num": 89485,
+        "word": "每天一杯咖啡是续命还是促癌",
+        "onboard_time": 1750776685,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 88842,
+        "num": 88842,
+        "word": "陈豪拜托佘诗曼帮陈茵媺找labubu",
+        "onboard_time": 1750784179,
+        "rank": 24,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 77914,
+        "num": 77914,
+        "word": "不二之臣",
+        "onboard_time": 1750779262,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74020,
+        "num": 74020,
+        "word": "姜涛获救画面曝光",
+        "onboard_time": 1750783280,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74418,
+        "num": 73952,
+        "word": "敖瑞鹏吴宣仪 不二之臣",
+        "onboard_time": 1750775425,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73710,
+        "num": 73710,
+        "word": "肖战拍戏会主动提供思路",
+        "onboard_time": 1750775903,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34128,
+        "num": 68712,
+        "word": "王毅同伊外长通电话",
+        "onboard_time": 1750779563,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 68527,
+        "num": 68527,
+        "word": "鹿晗首个百万想看90后歌手",
+        "onboard_time": 1750772786,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 68289,
+        "num": 68289,
+        "word": "韩安冉9个月小女儿玩滑板",
+        "onboard_time": 1750779923,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 68182,
+        "num": 68182,
+        "word": "救助百名弃婴的道禄被传涉案",
+        "onboard_time": 1750782081,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67903,
+        "num": 67903,
+        "word": "婚内强奸案当事人已离婚",
+        "onboard_time": 1750777524,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57695,
+        "num": 57695,
+        "word": "张若昀蜡像绝了",
+        "onboard_time": 1750774045,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53986,
+        "num": 53986,
+        "word": "年轻人真的可以尝试挣快钱",
+        "onboard_time": 1750765163,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 53774,
+        "num": 53774,
+        "word": "花开锦绣",
+        "onboard_time": 1750781542,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53459,
+        "num": 53459,
+        "word": "广东海洋大学虐猫学生被留校察看",
+        "onboard_time": 1750766423,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52359,
+        "num": 52359,
+        "word": "肖战是细节控",
+        "onboard_time": 1750783819,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50487,
+        "num": 50487,
+        "word": "小米悠悠去世",
+        "onboard_time": 1750752923,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50389,
+        "num": 50389,
+        "word": "伊媒称特朗普近乎乞求伊朗停火",
+        "onboard_time": 1750764201,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 49869,
+        "num": 49869,
+        "word": "199转手卖3000的Labubu长这样",
+        "onboard_time": 1750774826,
+        "rank": 41,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 49605,
+        "num": 49605,
+        "word": "女生高考662分打算学医",
+        "onboard_time": 1750782681,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26656,
+        "num": 48998,
+        "word": "再考清华当事人称将公布高考成绩",
+        "onboard_time": 1750785556,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48860,
+        "num": 48860,
+        "word": "贵州榕江众志成城筑牢生命防线",
+        "onboard_time": 1750768283,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48386,
+        "num": 48386,
+        "word": "七根心简拍出了群像高光",
+        "onboard_time": 1750780702,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48169,
+        "num": 48169,
+        "word": "檀健次不知道在直播",
+        "onboard_time": 1750773926,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44002,
+        "num": 44002,
+        "word": "易烊千玺说来重庆一定吃抄手",
+        "onboard_time": 1750778424,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 43447,
+        "num": 43447,
+        "word": "河南分数线 求你低一点",
+        "onboard_time": 1750758983,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 28349,
+        "num": 39719,
+        "word": "晋江文学城严正声明",
+        "onboard_time": 1750772306,
+        "rank": 49,
+        "category": "互联网,读书作家"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见新加坡总理黄循财#"
+    }
+  }
+}
