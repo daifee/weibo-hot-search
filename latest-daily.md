@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/25 00:33:55 ~ 2025/06/25 02:36:40
+本榜单时间：2025/06/25 00:33:55 ~ 2025/06/25 02:50:51
 </p>
 </blockquote>
 <p>
@@ -419,6 +419,12 @@ BLACKPINK四人合体了（热度：393546）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%80%BB%E7%90%86%E9%BB%84%E5%BE%AA%E8%B4%A2%23%23" target="weibo">
 #习近平会见新加坡总理黄循财#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E8%AE%A9%E4%B8%AD%E6%96%B0%E5%8F%8B%E8%B0%8A%E4%B9%8B%E6%A0%91%E6%9E%9D%E7%B9%81%E5%8F%B6%E8%8C%82%E7%A1%95%E6%9E%9C%E7%B4%AF%E7%B4%AF%23%23" target="weibo">
+#让中新友谊之树枝繁叶茂硕果累累#
 </a>
 </li>
 
