@@ -1,0 +1,410 @@
+{
+  "runTime": 1750754158802,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1692127,
+        "num": 1692127,
+        "word": "竹节虫",
+        "onboard_time": 1750751000,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 524609,
+        "num": 524609,
+        "word": "河北本科线历史477物理459",
+        "onboard_time": 1750752442,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 125742,
+        "num": 507383,
+        "word": "抗战胜利80周年纪念活动安排一文速览",
+        "onboard_time": 1750750882,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 856301,
+        "num": 504745,
+        "word": "琼海警方确认死者系失联学生李某栏",
+        "onboard_time": 1750751601,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 500890,
+        "num": 500890,
+        "word": "男生查出639分开心得做鬼脸嘚瑟",
+        "onboard_time": 1750744642,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 512786,
+        "num": 488340,
+        "word": "黄杨钿甜四大疑问为何还没答案",
+        "onboard_time": 1750747521,
+        "rank": 5,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 471433,
+        "num": 471433,
+        "word": "以伊宣布正式停火",
+        "onboard_time": 1750735584,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 457244,
+        "num": 457244,
+        "word": "李光洁被蒋欣判无妻徒刑",
+        "onboard_time": 1750750161,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 396221,
+        "num": 396221,
+        "word": "田曦薇cos超体爆裂萌兔",
+        "onboard_time": 1750749322,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 371442,
+        "num": 371442,
+        "word": "你好星期六泼水直播",
+        "onboard_time": 1750751482,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1453427,
+        "num": 367423,
+        "word": "伊朗被骗得一愣一愣的",
+        "onboard_time": 1750748183,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 964919,
+        "num": 355631,
+        "word": "学生查出713分老师集体沸腾了",
+        "onboard_time": 1750731742,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337365,
+        "num": 337365,
+        "word": "高考查分",
+        "onboard_time": 1750750102,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 328704,
+        "num": 328704,
+        "word": "九三盛大阅兵",
+        "onboard_time": 1750730722,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 321753,
+        "num": 321753,
+        "word": "分数线",
+        "onboard_time": 1750752800,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 309780,
+        "num": 309780,
+        "word": "EXO见证了TF家族的发展",
+        "onboard_time": 1750753222,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308834,
+        "num": 308834,
+        "word": "李乃文常驻五哈",
+        "onboard_time": 1750746140,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94195,
+        "num": 308466,
+        "word": "荣耀高管称折叠机皇不做选择题",
+        "onboard_time": 1750752262,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 84557,
+        "num": 307104,
+        "word": "以防长称恢复猛烈空袭德黑兰",
+        "onboard_time": 1750753883,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 31056,
+        "num": 306833,
+        "word": "交大和复旦学医哪家强",
+        "onboard_time": 1750753403,
+        "rank": 19,
+        "category": "教育,健康医疗"
+      },
+      {
+        "raw_hot": 313221,
+        "num": 305331,
+        "word": "特朗普警告各方不要违反协议",
+        "onboard_time": 1750747881,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 313273,
+        "num": 304663,
+        "word": "半个娱乐圈都在看短剧一梦",
+        "onboard_time": 1750751783,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304292,
+        "num": 304292,
+        "word": "骗70岁父亲去学校签字才能拿毕业证",
+        "onboard_time": 1750753103,
+        "rank": 22,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 282772,
+        "num": 282772,
+        "word": "樊振东凭一己之力让二队罚跑10000米",
+        "onboard_time": 1750753883,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141929,
+        "num": 263368,
+        "word": "大学老师为灵笼创造了新语言",
+        "onboard_time": 1750753163,
+        "rank": 24,
+        "category": "动漫,教育"
+      },
+      {
+        "raw_hot": 262374,
+        "num": 262374,
+        "word": "小米悠悠去世",
+        "onboard_time": 1750752923,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253109,
+        "num": 253109,
+        "word": "30多岁的人突然开始运动的原因",
+        "onboard_time": 1750746801,
+        "rank": 26,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 246206,
+        "num": 246206,
+        "word": "29岁存了130万的真实生活",
+        "onboard_time": 1750738823,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 245070,
+        "num": 245070,
+        "word": "陈梦说对象肯定要长得帅",
+        "onboard_time": 1750748422,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181231,
+        "num": 243410,
+        "word": "25岁的易烊千玺实现了17岁的梦想",
+        "onboard_time": 1750749981,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52093,
+        "num": 242637,
+        "word": "停火美以伊三赢只是假象",
+        "onboard_time": 1750753883,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 242322,
+        "num": 242322,
+        "word": "阅兵不再组织抗战老兵方队",
+        "onboard_time": 1750742662,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 238472,
+        "num": 238472,
+        "word": "贵州榕江遭遇特大洪水袭击",
+        "onboard_time": 1750749562,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223422,
+        "num": 223422,
+        "word": "维和部队将参阅",
+        "onboard_time": 1750742302,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 217271,
+        "num": 217271,
+        "word": "威海男童被打死案生母开赌场",
+        "onboard_time": 1750752082,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210673,
+        "num": 210673,
+        "word": "樊振东亮相洛奥官方视频",
+        "onboard_time": 1750748302,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203044,
+        "num": 203044,
+        "word": "买超大西瓜切开后天塌了",
+        "onboard_time": 1750736722,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197815,
+        "num": 197815,
+        "word": "字节跳动乔木被辞退",
+        "onboard_time": 1750752621,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 192643,
+        "num": 192643,
+        "word": "辽宁高考查分",
+        "onboard_time": 1750753704,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 65258,
+        "num": 190083,
+        "word": "看AI赋能千行百业",
+        "onboard_time": 1750752262,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 69529,
+        "num": 189964,
+        "word": "何小鹏与雷军商量过G7和YU7上市时间",
+        "onboard_time": 1750748721,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 189938,
+        "num": 189938,
+        "word": "2005年的王楚钦",
+        "onboard_time": 1750746621,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185560,
+        "num": 185560,
+        "word": "当不同存款发工资以后",
+        "onboard_time": 1750752800,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183091,
+        "num": 183091,
+        "word": "以色列",
+        "onboard_time": 1750753943,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 171628,
+        "num": 171628,
+        "word": "世界反法西斯战争胜利80周年",
+        "onboard_time": 1750747580,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 162511,
+        "num": 162511,
+        "word": "不饿但馋其实是身体在求救",
+        "onboard_time": 1750751902,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 160011,
+        "num": 160011,
+        "word": "福建分数线",
+        "onboard_time": 1750749742,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 158074,
+        "num": 158074,
+        "word": "伊朗已接受美停火方案",
+        "onboard_time": 1750721541,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153731,
+        "num": 153731,
+        "word": "小狗来家三年 一直看不清正脸",
+        "onboard_time": 1750754002,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146583,
+        "num": 146583,
+        "word": "黑龙江本科线历史类405物理类360",
+        "onboard_time": 1750751362,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将出席纪念抗战胜利80周年大会#"
+    }
+  }
+}
