@@ -1,6 +1,6 @@
 {
   "startTime": 1750696476897,
-  "endTime": 1750737193218,
+  "endTime": 1750739750805,
   "band_list": [
     {
       "raw_hot": 9141770,
@@ -35,8 +35,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 2063071,
-      "num": 2063071,
+      "raw_hot": 2191763,
+      "num": 2191763,
       "word": "以伊宣布正式停火",
       "onboard_time": 1750735584,
       "rank": 1,
@@ -65,6 +65,14 @@
       "onboard_time": 1750695021,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1463203,
+      "num": 1463203,
+      "word": "学生查出713分老师集体沸腾了",
+      "onboard_time": 1750731742,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1459635,
@@ -99,19 +107,19 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 1155152,
+      "num": 1155152,
+      "word": "贵州一高架大桥垮塌疑多车掉落",
+      "onboard_time": 1750735344,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1089145,
       "num": 1089145,
       "word": "男子公海上刺死同事",
       "onboard_time": 1750693822,
       "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1025655,
-      "num": 1025655,
-      "word": "贵州一高架大桥垮塌疑多车掉落",
-      "onboard_time": 1750735344,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -147,14 +155,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 732496,
-      "num": 419507,
-      "word": "学生查出713分老师集体沸腾了",
-      "onboard_time": 1750731742,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 715825,
       "num": 715825,
       "word": "微信语音 丑",
@@ -177,6 +177,14 @@
       "onboard_time": 1750704314,
       "rank": 6,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 627251,
+      "num": 304426,
+      "word": "买超大西瓜切开后天塌了",
+      "onboard_time": 1750736722,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 616537,
@@ -227,7 +235,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 523410,
+      "raw_hot": 527012,
       "num": 523410,
       "word": "中国人民抗日战争胜利80周年纪念章将颁发",
       "onboard_time": 1750731502,
@@ -259,19 +267,19 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 479097,
+      "num": 479097,
+      "word": "抗战胜利80周年",
+      "onboard_time": 1750731382,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 479051,
       "num": 479051,
       "word": "10月25日前后纪念台湾光复80周年大会",
       "onboard_time": 1750731682,
       "rank": 21,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 463532,
-      "num": 463532,
-      "word": "抗战胜利80周年",
-      "onboard_time": 1750731382,
-      "rank": 23,
       "category": "国内时政"
     },
     {
@@ -299,12 +307,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 389460,
+      "num": 389460,
+      "word": "贵州一高架桥垮塌货车车头腾空",
+      "onboard_time": 1750737683,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 372763,
       "num": 312651,
       "word": "中国boy 同人",
       "onboard_time": 1750728741,
       "rank": 14,
       "category": "网红"
+    },
+    {
+      "raw_hot": 370703,
+      "num": 496923,
+      "word": "外媒把TOP认成ENHYPEN",
+      "onboard_time": 1750737262,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 364851,
@@ -315,20 +339,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 364851,
-      "num": 252552,
-      "word": "买超大西瓜切开后天塌了",
-      "onboard_time": 1750736722,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 354899,
       "num": 265037,
       "word": "两博主直播拉踩樊振东当场被处置",
       "onboard_time": 1750694004,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 346958,
+      "num": 251281,
+      "word": "29岁存了130万的真实生活",
+      "onboard_time": 1750738823,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 346411,
@@ -363,6 +387,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 330597,
+      "num": 429529,
+      "word": "庆余年3",
+      "onboard_time": 1750736483,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 325430,
       "num": 325430,
       "word": "范丞丞要减肥三十斤",
@@ -384,6 +416,14 @@
       "word": "特朗普称伊朗的回应非常软弱",
       "onboard_time": 1750727482,
       "rank": 15,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 303962,
+      "num": 303962,
+      "word": "以色列称不会停火",
+      "onboard_time": 1750738403,
+      "rank": 22,
       "category": "国际时政"
     },
     {
@@ -435,12 +475,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 269078,
+      "num": 269078,
+      "word": "光遇",
+      "onboard_time": 1750737623,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 267850,
       "num": 267850,
       "word": "新疆哈密政法委书记杜海涛被查",
       "onboard_time": 1750725261,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 262661,
+      "num": 304029,
+      "word": "小米MIXFlip2满分小折",
+      "onboard_time": 1750738763,
+      "rank": 21,
+      "category": "数码"
     },
     {
       "raw_hot": 262361,
@@ -491,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 247637,
+      "num": 247637,
+      "word": "学霸龙凤胎中考一个846分一个842分",
+      "onboard_time": 1750736062,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 245014,
       "num": 245014,
       "word": "孟子义照片顺序",
@@ -507,12 +571,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 236759,
-      "num": 236759,
-      "word": "学霸龙凤胎中考一个846分一个842分",
-      "onboard_time": 1750736062,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 240182,
+      "num": 240182,
+      "word": "马龙被撤回一个下班",
+      "onboard_time": 1750738462,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 230924,
@@ -563,6 +627,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 203680,
+      "num": 459832,
+      "word": "男子打死女友儿子被判死刑",
+      "onboard_time": 1750735644,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203493,
       "num": 227639,
       "word": "郭品超和爸爸共用一张脸",
@@ -587,28 +659,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 197591,
+      "num": 197591,
+      "word": "王珞丹近五年才发现曝光的重要性",
+      "onboard_time": 1750739723,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190750,
       "num": 190750,
       "word": "当事人回应发现男子在12楼窗外偷窥",
       "onboard_time": 1750691185,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 189888,
-      "num": 459832,
-      "word": "男子打死女友儿子被判死刑",
-      "onboard_time": 1750735644,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 187549,
-      "num": 429529,
-      "word": "庆余年3",
-      "onboard_time": 1750736483,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 185926,
@@ -683,12 +747,44 @@
       "category": "民生新闻,美食"
     },
     {
+      "raw_hot": 167371,
+      "num": 167371,
+      "word": "女子自称狂炫榴莲后糖化脸",
+      "onboard_time": 1750738704,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166547,
       "num": 258945,
       "word": "三体大史",
       "onboard_time": 1750694841,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166492,
+      "num": 248602,
+      "word": "五位妈咪级别的凑一起拍悬疑剧",
+      "onboard_time": 1750737143,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 165530,
+      "num": 165530,
+      "word": "林一 让易立竞沉默的男人",
+      "onboard_time": 1750739723,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 165412,
+      "num": 165412,
+      "word": "看似团建 实则裁员",
+      "onboard_time": 1750739244,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 163977,
@@ -803,14 +899,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 134814,
-      "num": 134814,
-      "word": "五位妈咪级别的凑一起拍悬疑剧",
-      "onboard_time": 1750737143,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 133892,
       "num": 133892,
       "word": "巴基斯坦提名特朗普和平奖反转",
@@ -865,6 +953,14 @@
       "onboard_time": 1750681944,
       "rank": 24,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 116317,
+      "num": 259435,
+      "word": "好医保可报国内全部CART疗法",
+      "onboard_time": 1750738763,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 115147,
@@ -961,6 +1057,14 @@
       "onboard_time": 1750725923,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101313,
+      "num": 258319,
+      "word": "许凯邓恩熙新剧约会用跑的",
+      "onboard_time": 1750739483,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 100281,
@@ -1131,6 +1235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 70567,
+      "num": 208916,
+      "word": "特拉维夫像加沙",
+      "onboard_time": 1750738884,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 70516,
       "num": 70516,
       "word": "彭昱畅万鹏转着祝符走来了",
@@ -1227,12 +1339,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 53533,
+      "num": 204663,
+      "word": "超载货车乱象调查",
+      "onboard_time": 1750737683,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51871,
       "num": 340159,
       "word": "报考法学专业认准哪些大学",
       "onboard_time": 1750735945,
       "rank": 24,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 51366,
+      "num": 225467,
+      "word": "河南多家货场协助货车超载装货",
+      "onboard_time": 1750737683,
+      "rank": 36,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 48097,
@@ -1249,6 +1377,14 @@
       "onboard_time": 1750676366,
       "rank": 49,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 46252,
+      "num": 304783,
+      "word": "黄渤说TA没什么背景",
+      "onboard_time": 1750738823,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 43067,
@@ -1331,6 +1467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27007,
+      "num": 1643440,
+      "word": "2025高招一站式服务平台",
+      "onboard_time": 1750668203,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 26488,
       "num": 26488,
       "word": "张小斐新角色美强狠",
@@ -1385,14 +1529,6 @@
       "onboard_time": 1750713194,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 20049,
-      "num": 1213107,
-      "word": "2025高招一站式服务平台",
-      "onboard_time": 1750668203,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 19719,

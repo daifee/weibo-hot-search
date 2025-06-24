@@ -1,0 +1,410 @@
+{
+  "runTime": 1750739750805,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6991468,
+        "num": 6991468,
+        "word": "九三盛大阅兵",
+        "onboard_time": 1750730722,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2191763,
+        "num": 2191763,
+        "word": "以伊宣布正式停火",
+        "onboard_time": 1750735584,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 27007,
+        "num": 1643440,
+        "word": "2025高招一站式服务平台",
+        "onboard_time": 1750668203,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1463203,
+        "num": 1463203,
+        "word": "学生查出713分老师集体沸腾了",
+        "onboard_time": 1750731742,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1155152,
+        "num": 1155152,
+        "word": "贵州一高架大桥垮塌疑多车掉落",
+        "onboard_time": 1750735344,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 836012,
+        "num": 836012,
+        "word": "隐翅虫 风油精",
+        "onboard_time": 1750730601,
+        "rank": 5,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 740641,
+        "num": 740641,
+        "word": "伊朗已接受美停火方案",
+        "onboard_time": 1750721541,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 515176,
+        "num": 515176,
+        "word": "桃花映江山定档",
+        "onboard_time": 1750732882,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 370703,
+        "num": 496923,
+        "word": "外媒把TOP认成ENHYPEN",
+        "onboard_time": 1750737262,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 527012,
+        "num": 492135,
+        "word": "中国人民抗日战争胜利80周年纪念章将颁发",
+        "onboard_time": 1750731502,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 479097,
+        "num": 479097,
+        "word": "抗战胜利80周年",
+        "onboard_time": 1750731382,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 433063,
+        "num": 433063,
+        "word": "特朗普感谢伊朗提前通知空袭",
+        "onboard_time": 1750726402,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 389460,
+        "num": 389460,
+        "word": "贵州一高架桥垮塌货车车头腾空",
+        "onboard_time": 1750737683,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370102,
+        "num": 370102,
+        "word": "高考分数线",
+        "onboard_time": 1750722622,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 336564,
+        "num": 336564,
+        "word": "抗战胜利80周年纪念活动发布会",
+        "onboard_time": 1750729400,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 330597,
+        "num": 335515,
+        "word": "庆余年3",
+        "onboard_time": 1750736483,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201550,
+        "num": 335093,
+        "word": "下雨天躲雨偶遇美女贵人",
+        "onboard_time": 1750734382,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191389,
+        "num": 335062,
+        "word": "为什么詹周氏把头丢到外白渡桥",
+        "onboard_time": 1750735881,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 335042,
+        "num": 335042,
+        "word": "参阅所有装备均为国产现役主战装备",
+        "onboard_time": 1750732162,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 46252,
+        "num": 304783,
+        "word": "黄渤说TA没什么背景",
+        "onboard_time": 1750738823,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 627251,
+        "num": 304426,
+        "word": "买超大西瓜切开后天塌了",
+        "onboard_time": 1750736722,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262661,
+        "num": 304029,
+        "word": "小米MIXFlip2满分小折",
+        "onboard_time": 1750738763,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 303962,
+        "num": 303962,
+        "word": "以色列称不会停火",
+        "onboard_time": 1750738403,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 281162,
+        "num": 281162,
+        "word": "阅兵由徒步方队装备方队空中梯队组成",
+        "onboard_time": 1750731982,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 269078,
+        "num": 269078,
+        "word": "光遇",
+        "onboard_time": 1750737623,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 263375,
+        "num": 263375,
+        "word": "男子公海上刺死同事",
+        "onboard_time": 1750693822,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242662,
+        "num": 262766,
+        "word": "范丞丞要减肥三十斤",
+        "onboard_time": 1750734982,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116317,
+        "num": 259435,
+        "word": "好医保可报国内全部CART疗法",
+        "onboard_time": 1750738763,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 101313,
+        "num": 258319,
+        "word": "许凯邓恩熙新剧约会用跑的",
+        "onboard_time": 1750739483,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 319745,
+        "num": 256107,
+        "word": "朱丹 内娱顶级语言艺术家",
+        "onboard_time": 1750722262,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 433989,
+        "num": 252882,
+        "word": "郑乃馨在拽什么",
+        "onboard_time": 1750688305,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346958,
+        "num": 251281,
+        "word": "29岁存了130万的真实生活",
+        "onboard_time": 1750738823,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166492,
+        "num": 248602,
+        "word": "五位妈咪级别的凑一起拍悬疑剧",
+        "onboard_time": 1750737143,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247637,
+        "num": 247637,
+        "word": "学霸龙凤胎中考一个846分一个842分",
+        "onboard_time": 1750736062,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246329,
+        "num": 246329,
+        "word": "贵州一高速公路大桥桥面断裂",
+        "onboard_time": 1750736364,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240182,
+        "num": 240182,
+        "word": "马龙被撤回一个下班",
+        "onboard_time": 1750738462,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51366,
+        "num": 225467,
+        "word": "河南多家货场协助货车超载装货",
+        "onboard_time": 1750737683,
+        "rank": 36,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 225411,
+        "num": 225411,
+        "word": "她俩好适合去迪士尼上班",
+        "onboard_time": 1750734562,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 70567,
+        "num": 208916,
+        "word": "特拉维夫像加沙",
+        "onboard_time": 1750738884,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 150852,
+        "num": 206287,
+        "word": "健身房偶遇沈腾",
+        "onboard_time": 1750735523,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53533,
+        "num": 204663,
+        "word": "超载货车乱象调查",
+        "onboard_time": 1750737683,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203680,
+        "num": 203680,
+        "word": "男子打死女友儿子被判死刑",
+        "onboard_time": 1750735644,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198791,
+        "num": 198791,
+        "word": "中国boy与摊主和解",
+        "onboard_time": 1750735823,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 197591,
+        "num": 197591,
+        "word": "王珞丹近五年才发现曝光的重要性",
+        "onboard_time": 1750739723,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188737,
+        "num": 188737,
+        "word": "成都地震",
+        "onboard_time": 1750720460,
+        "rank": 44,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 187722,
+        "num": 187722,
+        "word": "豆包前员工因违规亲密关系被辞退",
+        "onboard_time": 1750734142,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182630,
+        "num": 182630,
+        "word": "苹果直营国补",
+        "onboard_time": 1750733423,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 167371,
+        "num": 167371,
+        "word": "女子自称狂炫榴莲后糖化脸",
+        "onboard_time": 1750738704,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165530,
+        "num": 165530,
+        "word": "林一 让易立竞沉默的男人",
+        "onboard_time": 1750739723,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165412,
+        "num": 165412,
+        "word": "看似团建 实则裁员",
+        "onboard_time": 1750739244,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同志在闽金融论述与实践启示#"
+    }
+  }
+}
