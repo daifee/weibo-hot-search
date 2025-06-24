@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750754158802,
+  "endTime": 1750755016072,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -1347,6 +1347,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1730890,
+      "num": 1730890,
+      "word": "竹节虫",
+      "onboard_time": 1750751000,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1729254,
       "num": 1729254,
       "word": "荔枝",
@@ -1465,14 +1473,6 @@
       "onboard_time": 1749702320,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1692127,
-      "num": 1692127,
-      "word": "竹节虫",
-      "onboard_time": 1750751000,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1690051,
@@ -2020,7 +2020,7 @@
     },
     {
       "raw_hot": 1453427,
-      "num": 402086,
+      "num": 432703,
       "word": "伊朗被骗得一愣一愣的",
       "onboard_time": 1750748183,
       "rank": 10,
@@ -3649,6 +3649,14 @@
       "onboard_time": 1749944538,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1069170,
+      "num": 540261,
+      "word": "琼海警方确认死者系失联学生李某栏",
+      "onboard_time": 1750751601,
+      "rank": 3,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1069068,
@@ -5321,14 +5329,6 @@
       "onboard_time": 1749201381,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 856301,
-      "num": 504745,
-      "word": "琼海警方确认死者系失联学生李某栏",
-      "onboard_time": 1750751601,
-      "rank": 3,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 856173,
@@ -7699,6 +7699,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 673797,
+      "num": 673797,
+      "word": "河北本科线历史477物理459",
+      "onboard_time": 1750752442,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 673435,
       "num": 604955,
       "word": "张檬自曝生孩子后脑雾",
@@ -9955,6 +9963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 561654,
+      "num": 420360,
+      "word": "小米悠悠去世",
+      "onboard_time": 1750752923,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 561574,
       "num": 241416,
       "word": "王珞丹年度队长",
@@ -10891,14 +10907,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 524609,
-      "num": 524609,
-      "word": "河北本科线历史477物理459",
-      "onboard_time": 1750752442,
-      "rank": 1,
-      "category": "教育"
-    },
-    {
       "raw_hot": 524386,
       "num": 317814,
       "word": "如何呢 又能怎",
@@ -10969,6 +10977,14 @@
       "onboard_time": 1748929641,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 521563,
+      "num": 521563,
+      "word": "分数线",
+      "onboard_time": 1750752800,
+      "rank": 14,
+      "category": "教育"
     },
     {
       "raw_hot": 521360,
@@ -12339,6 +12355,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 476568,
+      "num": 476568,
+      "word": "以防长称恢复猛烈空袭德黑兰",
+      "onboard_time": 1750753883,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 476423,
       "num": 340784,
       "word": "文泰一强奸案受害者是中国人",
@@ -13643,6 +13667,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 435315,
+      "num": 435315,
+      "word": "骗70岁父亲去学校签字才能拿毕业证",
+      "onboard_time": 1750753103,
+      "rank": 22,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 435286,
       "num": 319412,
       "word": "终于知道古代为什么流放岭南了",
@@ -14505,6 +14537,14 @@
       "onboard_time": 1750011435,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 411195,
+      "num": 411195,
+      "word": "江苏分数线",
+      "onboard_time": 1750754363,
+      "rank": 13,
+      "category": "教育"
     },
     {
       "raw_hot": 411021,
@@ -16104,6 +16144,14 @@
       "word": "祝绪丹背着工作人员开直播",
       "onboard_time": 1749915682,
       "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 374696,
+      "num": 374696,
+      "word": "EXO见证了TF家族的发展",
+      "onboard_time": 1750753222,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -18987,14 +19035,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 321753,
-      "num": 321753,
-      "word": "分数线",
-      "onboard_time": 1750752800,
-      "rank": 14,
-      "category": "教育"
-    },
-    {
       "raw_hot": 321626,
       "num": 321626,
       "word": "无畏 菜",
@@ -19331,6 +19371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 314652,
+      "num": 314652,
+      "word": "以防长下令有力回应伊朗",
+      "onboard_time": 1750754183,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 314512,
       "num": 242543,
       "word": "父母去世留下6个孩子兄弟争遗产闹翻",
@@ -19649,14 +19697,6 @@
       "onboard_time": 1750250541,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 309780,
-      "num": 309780,
-      "word": "EXO见证了TF家族的发展",
-      "onboard_time": 1750753222,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 309655,
@@ -20057,14 +20097,6 @@
       "onboard_time": 1749629182,
       "rank": 17,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 304292,
-      "num": 304292,
-      "word": "骗70岁父亲去学校签字才能拿毕业证",
-      "onboard_time": 1750753103,
-      "rank": 22,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 304240,
@@ -23305,14 +23337,6 @@
       "onboard_time": 1750565663,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 262374,
-      "num": 262374,
-      "word": "小米悠悠去世",
-      "onboard_time": 1750752923,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 262361,
@@ -31635,6 +31659,14 @@
       "category": "休闲,动漫"
     },
     {
+      "raw_hot": 202301,
+      "num": 239021,
+      "word": "辽宁高考查分",
+      "onboard_time": 1750753704,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 202278,
       "num": 202278,
       "word": "肖战东拼西凑的新鲜",
@@ -34275,14 +34307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 192643,
-      "num": 192643,
-      "word": "辽宁高考查分",
-      "onboard_time": 1750753704,
-      "rank": 38,
-      "category": "教育"
-    },
-    {
       "raw_hot": 192613,
       "num": 192613,
       "word": "中国海警回应菲律宾非法侵权挑衅",
@@ -35113,6 +35137,14 @@
       "onboard_time": 1749029480,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189862,
+      "num": 228692,
+      "word": "福建分数线",
+      "onboard_time": 1750749742,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 189834,
@@ -43769,14 +43801,6 @@
       "onboard_time": 1749023960,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 160011,
-      "num": 228692,
-      "word": "福建分数线",
-      "onboard_time": 1750749742,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 160008,
@@ -52491,6 +52515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135131,
+      "num": 135131,
+      "word": "郑钦文唱遗失的心跳",
+      "onboard_time": 1750754601,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135110,
       "num": 135110,
       "word": "高考 晨跑",
@@ -53225,6 +53257,14 @@
       "onboard_time": 1749903201,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133141,
+      "num": 133141,
+      "word": "AI 中毒",
+      "onboard_time": 1750754902,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 133095,
@@ -66356,7 +66396,7 @@
     },
     {
       "raw_hot": 94195,
-      "num": 308466,
+      "num": 314665,
       "word": "荣耀高管称折叠机皇不做选择题",
       "onboard_time": 1750752262,
       "rank": 17,
@@ -68385,14 +68425,6 @@
       "onboard_time": 1748687480,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 84557,
-      "num": 307104,
-      "word": "以防长称恢复猛烈空袭德黑兰",
-      "onboard_time": 1750753883,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 84538,
@@ -83171,6 +83203,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 24382,
+      "num": 162482,
+      "word": "像我们这样想不开的人哪",
+      "onboard_time": 1750753283,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24332,
       "num": 70589,
       "word": "为什么推荐报考河海大学",
@@ -84955,6 +84995,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 18985,
+      "num": 211050,
+      "word": "贵州榕江居民回应洪水入境情况",
+      "onboard_time": 1750754483,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18941,
       "num": 57407,
       "word": "中方将持续优化入境政策",
@@ -85041,6 +85089,14 @@
       "onboard_time": 1749458242,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 18733,
+      "num": 162894,
+      "word": "大笨狗看起来最弱的一集",
+      "onboard_time": 1750754842,
+      "rank": 37,
+      "category": "动漫"
     },
     {
       "raw_hot": 18728,

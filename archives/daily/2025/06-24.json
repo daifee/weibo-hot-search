@@ -1,6 +1,6 @@
 {
   "startTime": 1750696476897,
-  "endTime": 1750754158802,
+  "endTime": 1750755016072,
   "band_list": [
     {
       "raw_hot": 9141770,
@@ -51,8 +51,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1692127,
-      "num": 1692127,
+      "raw_hot": 1730890,
+      "num": 1730890,
       "word": "竹节虫",
       "onboard_time": 1750751000,
       "rank": 0,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1453427,
-      "num": 402086,
+      "num": 432703,
       "word": "伊朗被骗得一愣一愣的",
       "onboard_time": 1750748183,
       "rank": 10,
@@ -155,6 +155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1069170,
+      "num": 540261,
+      "word": "琼海警方确认死者系失联学生李某栏",
+      "onboard_time": 1750751601,
+      "rank": 3,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 950117,
       "num": 464119,
       "word": "荔枝 催月经",
@@ -169,14 +177,6 @@
       "onboard_time": 1750722262,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 856301,
-      "num": 504745,
-      "word": "琼海警方确认死者系失联学生李某栏",
-      "onboard_time": 1750751601,
-      "rank": 3,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 834690,
@@ -233,6 +233,14 @@
       "onboard_time": 1750744642,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 673797,
+      "num": 673797,
+      "word": "河北本科线历史477物理459",
+      "onboard_time": 1750752442,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 638158,
@@ -315,6 +323,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 561654,
+      "num": 420360,
+      "word": "小米悠悠去世",
+      "onboard_time": 1750752923,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 556642,
       "num": 556642,
       "word": "特朗普宣布停火后伊爆炸不断",
@@ -339,11 +355,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 524609,
-      "num": 524609,
-      "word": "河北本科线历史477物理459",
-      "onboard_time": 1750752442,
-      "rank": 1,
+      "raw_hot": 521563,
+      "num": 521563,
+      "word": "分数线",
+      "onboard_time": 1750752800,
+      "rank": 14,
       "category": "教育"
     },
     {
@@ -411,6 +427,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 476568,
+      "num": 476568,
+      "word": "以防长称恢复猛烈空袭德黑兰",
+      "onboard_time": 1750753883,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 469405,
       "num": 469405,
       "word": "秦彻输给了喜羊羊",
@@ -467,12 +491,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 435315,
+      "num": 435315,
+      "word": "骗70岁父亲去学校签字才能拿毕业证",
+      "onboard_time": 1750753103,
+      "rank": 22,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 421630,
       "num": 496923,
       "word": "外媒把TOP认成ENHYPEN",
       "onboard_time": 1750737262,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 411195,
+      "num": 411195,
+      "word": "江苏分数线",
+      "onboard_time": 1750754363,
+      "rank": 13,
+      "category": "教育"
     },
     {
       "raw_hot": 409814,
@@ -489,6 +529,14 @@
       "onboard_time": 1750743140,
       "rank": 8,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 374696,
+      "num": 374696,
+      "word": "EXO见证了TF家族的发展",
+      "onboard_time": 1750753222,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 373355,
@@ -611,12 +659,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 321753,
-      "num": 321753,
-      "word": "分数线",
-      "onboard_time": 1750752800,
-      "rank": 14,
-      "category": "教育"
+      "raw_hot": 314652,
+      "num": 314652,
+      "word": "以防长下令有力回应伊朗",
+      "onboard_time": 1750754183,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 314422,
@@ -649,22 +697,6 @@
       "onboard_time": 1750747881,
       "rank": 25,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 309780,
-      "num": 309780,
-      "word": "EXO见证了TF家族的发展",
-      "onboard_time": 1750753222,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 304292,
-      "num": 304292,
-      "word": "骗70岁父亲去学校签字才能拿毕业证",
-      "onboard_time": 1750753103,
-      "rank": 22,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 301423,
@@ -761,14 +793,6 @@
       "onboard_time": 1750738763,
       "rank": 21,
       "category": "数码"
-    },
-    {
-      "raw_hot": 262374,
-      "num": 262374,
-      "word": "小米悠悠去世",
-      "onboard_time": 1750752923,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 262361,
@@ -1067,6 +1091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 202301,
+      "num": 239021,
+      "word": "辽宁高考查分",
+      "onboard_time": 1750753704,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 201950,
       "num": 248128,
       "word": "第一批学电竞的人怎么样了",
@@ -1131,12 +1163,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 192643,
-      "num": 192643,
-      "word": "辽宁高考查分",
-      "onboard_time": 1750753704,
-      "rank": 38,
-      "category": "教育"
+      "raw_hot": 192560,
+      "num": 192560,
+      "word": "以色列",
+      "onboard_time": 1750753943,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 191916,
@@ -1153,6 +1185,14 @@
       "onboard_time": 1750691185,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189862,
+      "num": 228692,
+      "word": "福建分数线",
+      "onboard_time": 1750749742,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 189093,
@@ -1209,14 +1249,6 @@
       "onboard_time": 1750730119,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 183091,
-      "num": 183091,
-      "word": "以色列",
-      "onboard_time": 1750753943,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 180333,
@@ -1353,14 +1385,6 @@
       "onboard_time": 1750751902,
       "rank": 45,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 160011,
-      "num": 228692,
-      "word": "福建分数线",
-      "onboard_time": 1750749742,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 159418,
@@ -1635,12 +1659,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135131,
+      "num": 135131,
+      "word": "郑钦文唱遗失的心跳",
+      "onboard_time": 1750754601,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133892,
       "num": 133892,
       "word": "巴基斯坦提名特朗普和平奖反转",
       "onboard_time": 1750731922,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 133141,
+      "num": 133141,
+      "word": "AI 中毒",
+      "onboard_time": 1750754902,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 133095,
@@ -1932,7 +1972,7 @@
     },
     {
       "raw_hot": 94195,
-      "num": 308466,
+      "num": 314665,
       "word": "荣耀高管称折叠机皇不做选择题",
       "onboard_time": 1750752262,
       "rank": 17,
@@ -2009,14 +2049,6 @@
       "onboard_time": 1750692084,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 84557,
-      "num": 307104,
-      "word": "以防长称恢复猛烈空袭德黑兰",
-      "onboard_time": 1750753883,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 81750,
@@ -2451,6 +2483,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 24382,
+      "num": 162482,
+      "word": "像我们这样想不开的人哪",
+      "onboard_time": 1750753283,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24332,
       "num": 70589,
       "word": "为什么推荐报考河海大学",
@@ -2507,12 +2547,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 18985,
+      "num": 211050,
+      "word": "贵州榕江居民回应洪水入境情况",
+      "onboard_time": 1750754483,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18860,
       "num": 40458,
       "word": "甘肃山洪4人失联",
       "onboard_time": 1750699577,
       "rank": 36,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 18733,
+      "num": 162894,
+      "word": "大笨狗看起来最弱的一集",
+      "onboard_time": 1750754842,
+      "rank": 37,
+      "category": "动漫"
     },
     {
       "raw_hot": 18600,
