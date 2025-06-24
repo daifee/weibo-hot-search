@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750747970019,
+  "endTime": 1750750041185,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -271,6 +271,14 @@
       "num": 491862,
       "word": "特朗普感谢伊朗提前通知空袭",
       "onboard_time": 1750726402,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 1450391,
+      "num": 358105,
+      "word": "伊朗被骗得一愣一愣的",
+      "onboard_time": 1750748183,
       "rank": 10,
       "category": "国际时政"
     },
@@ -1091,6 +1099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 594216,
+      "num": 594216,
+      "word": "男生查出639分开心得做鬼脸嘚瑟",
+      "onboard_time": 1750744642,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 591596,
       "num": 591596,
       "word": "男生被教官体罚做1000深蹲致换肾",
@@ -1192,6 +1208,14 @@
       "word": "特朗普宣布停火后伊爆炸不断",
       "onboard_time": 1750726883,
       "rank": 5,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 556290,
+      "num": 398045,
+      "word": "伊朗外长发表最新声明",
+      "onboard_time": 1750746203,
+      "rank": 24,
       "category": "国际时政"
     },
     {
@@ -1875,14 +1899,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 398045,
-      "num": 398045,
-      "word": "伊朗外长发表最新声明",
-      "onboard_time": 1750746203,
-      "rank": 24,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 397546,
       "num": 397546,
       "word": "现代版农夫与蛇",
@@ -2041,6 +2057,22 @@
       "onboard_time": 1750716675,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 364314,
+      "num": 364314,
+      "word": "陈梦说对象肯定要长得帅",
+      "onboard_time": 1750748422,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 363582,
+      "num": 363582,
+      "word": "黄杨钿甜四大疑问为何还没答案",
+      "onboard_time": 1750747521,
+      "rank": 32,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 360220,
@@ -2651,6 +2683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 288966,
+      "num": 288966,
+      "word": "田曦薇cos超体爆裂萌兔",
+      "onboard_time": 1750749322,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 288756,
       "num": 374385,
       "word": "西出玉门",
@@ -2747,20 +2787,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 282559,
-      "num": 282559,
-      "word": "男生查出639分开心得做鬼脸嘚瑟",
-      "onboard_time": 1750744642,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 282239,
       "num": 282239,
       "word": "云包场赔罪",
       "onboard_time": 1750592243,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 282175,
+      "num": 282175,
+      "word": "樊振东亮相洛奥官方视频",
+      "onboard_time": 1750748302,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 276277,
@@ -3171,6 +3211,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 241931,
+      "num": 241931,
+      "word": "过劳肥 皮质醇",
+      "onboard_time": 1750747699,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 241318,
       "num": 241318,
       "word": "惠州震感",
@@ -3515,14 +3563,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 219106,
-      "num": 219106,
-      "word": "黄杨钿甜四大疑问为何还没答案",
-      "onboard_time": 1750747521,
-      "rank": 32,
-      "category": "艺人,民生新闻"
-    },
-    {
       "raw_hot": 218966,
       "num": 213561,
       "word": "医生提醒长期穿碳板跑鞋或致关节损伤",
@@ -3755,6 +3795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208492,
+      "num": 203077,
+      "word": "老爹站",
+      "onboard_time": 1750748602,
+      "rank": 29,
+      "category": "网红"
+    },
+    {
       "raw_hot": 208436,
       "num": 208436,
       "word": "Labubu你还是继续火吧",
@@ -3777,6 +3825,14 @@
       "onboard_time": 1750690404,
       "rank": 21,
       "category": "教育"
+    },
+    {
+      "raw_hot": 208182,
+      "num": 208182,
+      "word": "特朗普警告各方不要违反协议",
+      "onboard_time": 1750747881,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 207934,
@@ -3881,6 +3937,14 @@
       "onboard_time": 1750584560,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 204131,
+      "num": 204131,
+      "word": "敖瑞鹏计划在30岁做出重大决定",
+      "onboard_time": 1750749502,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 203783,
@@ -4820,7 +4884,7 @@
     },
     {
       "raw_hot": 173548,
-      "num": 173548,
+      "num": 361951,
       "word": "世界反法西斯战争胜利80周年",
       "onboard_time": 1750747580,
       "rank": 33,
@@ -5411,6 +5475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155214,
+      "num": 155214,
+      "word": "光与夜之恋四周年寄语",
+      "onboard_time": 1750749622,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 155193,
       "num": 155193,
       "word": "QQ崩了",
@@ -5836,11 +5908,19 @@
     },
     {
       "raw_hot": 143261,
-      "num": 143261,
+      "num": 282417,
       "word": "警方通报26岁男子多次在楼道偷窥",
       "onboard_time": 1750746681,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143148,
+      "num": 143148,
+      "word": "马嘉祺张真源贺峻霖三个男人一台戏",
+      "onboard_time": 1750749021,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 142958,
@@ -5849,6 +5929,14 @@
       "onboard_time": 1750663283,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 142844,
+      "num": 299220,
+      "word": "沈奕斐 朱丹不该被讨伐",
+      "onboard_time": 1750747222,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 142767,
@@ -5937,6 +6025,14 @@
       "onboard_time": 1750682723,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141350,
+      "num": 141350,
+      "word": "广东你把外卖员热成什么样了",
+      "onboard_time": 1750749802,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 141203,
@@ -6065,6 +6161,14 @@
       "onboard_time": 1750686382,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 138013,
+      "num": 138013,
+      "word": "25岁的易烊千玺实现了17岁的梦想",
+      "onboard_time": 1750749981,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 137868,
@@ -6331,6 +6435,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 131476,
+      "num": 163647,
+      "word": "高速大桥垮塌悬空司机获救全程曝光",
+      "onboard_time": 1750747940,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130849,
       "num": 130849,
       "word": "以伊10天俄乌3年",
@@ -6401,6 +6513,14 @@
       "onboard_time": 1750584080,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128724,
+      "num": 321159,
+      "word": "贵州榕江县城最大商场被洪水淹没",
+      "onboard_time": 1750748481,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128689,
@@ -6675,14 +6795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122567,
-      "num": 299220,
-      "word": "沈奕斐 朱丹不该被讨伐",
-      "onboard_time": 1750747222,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 122488,
       "num": 122488,
       "word": "伊朗官员称美国以色列是骗子",
@@ -6819,6 +6931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117089,
+      "num": 208443,
+      "word": "福建分数线",
+      "onboard_time": 1750749742,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 116554,
       "num": 116554,
       "word": "薛凯琪的亲签是又亲又签",
@@ -6833,6 +6953,14 @@
       "onboard_time": 1750672584,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 116453,
+      "num": 151324,
+      "word": "何小鹏与雷军商量过G7和YU7上市时间",
+      "onboard_time": 1750748721,
+      "rank": 36,
+      "category": "汽车"
     },
     {
       "raw_hot": 116317,
@@ -8691,14 +8819,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 36770,
-      "num": 163647,
-      "word": "高速大桥垮塌悬空司机获救全程曝光",
-      "onboard_time": 1750747940,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 36596,
       "num": 164867,
       "word": "杨瀚森出发前往纽约",
@@ -8825,6 +8945,14 @@
       "onboard_time": 1750654884,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31872,
+      "num": 149650,
+      "word": "岳云鹏哭了我也哭了",
+      "onboard_time": 1750749502,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 31432,
@@ -9107,7 +9235,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 21260,
+      "raw_hot": 21506,
       "num": 1846623,
       "word": "夏季达沃斯向新而行",
       "onboard_time": 1750740623,
@@ -9241,6 +9369,14 @@
       "onboard_time": 1750599563,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 16352,
+      "num": 141418,
+      "word": "光遇旅行先祖",
+      "onboard_time": 1750749742,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 16058,

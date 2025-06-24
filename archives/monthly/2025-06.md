@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/24 14:52:50
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/24 15:27:21
 </p>
 </blockquote>
 <p>
@@ -1517,6 +1517,12 @@ A股跳水（热度：1454990）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%B8%80%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E5%BC%80%E4%B8%9A%E5%BD%93%E5%A4%A9%E9%97%AD%E5%BA%97%23" target="weibo">
 杭州一泡泡玛特开业当天闭店（热度：1453949）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E8%A2%AB%E9%AA%97%E5%BE%97%E4%B8%80%E6%84%A3%E4%B8%80%E6%84%A3%E7%9A%84%23" target="weibo">
+伊朗被骗得一愣一愣的（热度：1450391）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ GAI 该做热玛吉了（热度：660381）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E4%BC%9A%20%E5%8D%95%E4%BE%9D%E7%BA%AF%23" target="weibo">
 华为发布会 单依纯（热度：655876）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E8%B5%9B%E9%87%8C%E6%9C%A8%E6%B9%96%E4%B8%80SUV%E6%99%AF%E5%8C%BA%E6%BC%82%E7%A7%BB%23" target="weibo">
-新疆赛里木湖一SUV景区漂移（热度：651651）
 </a>
 </li>
 
