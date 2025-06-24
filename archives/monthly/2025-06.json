@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750796978126,
+  "endTime": 1750797748567,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -87547,6 +87547,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 16035,
+      "num": 18138,
+      "word": "北漂小伙回应六年存130万",
+      "onboard_time": 1750795394,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15954,
       "num": 185553,
       "word": "广东为什么这么热爱赛龙舟",
@@ -87649,6 +87657,14 @@
       "onboard_time": 1749761533,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15614,
+      "num": 15614,
+      "word": "内塔尼亚胡将发表声明",
+      "onboard_time": 1750797255,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 15591,
@@ -87953,14 +87969,6 @@
       "onboard_time": 1749497594,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 14702,
-      "num": 18138,
-      "word": "北漂小伙回应六年存130万",
-      "onboard_time": 1750795394,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14675,
@@ -89216,6 +89224,14 @@
       "word": "官方将调查老人摔倒民警未搀扶事件",
       "onboard_time": 1750581680,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9579,
+      "num": 19139,
+      "word": "央视揭露脑屏骗局",
+      "onboard_time": 1750797614,
+      "rank": 32,
       "category": "民生新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1750782835563,
-  "endTime": 1750796978126,
+  "endTime": 1750797748567,
   "band_list": [
     {
       "raw_hot": 1287324,
@@ -555,6 +555,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 16035,
+      "num": 18138,
+      "word": "北漂小伙回应六年存130万",
+      "onboard_time": 1750795394,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15614,
+      "num": 15614,
+      "word": "内塔尼亚胡将发表声明",
+      "onboard_time": 1750797255,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 15303,
       "num": 15303,
       "word": "南方暴雨抗洪救灾在行动",
@@ -563,11 +579,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14702,
-      "num": 18138,
-      "word": "北漂小伙回应六年存130万",
-      "onboard_time": 1750795394,
-      "rank": 34,
+      "raw_hot": 9579,
+      "num": 19139,
+      "word": "央视揭露脑屏骗局",
+      "onboard_time": 1750797614,
+      "rank": 32,
       "category": "民生新闻"
     }
   ],
