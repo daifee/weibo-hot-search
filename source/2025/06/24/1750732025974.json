@@ -1,0 +1,410 @@
+{
+  "runTime": 1750732025974,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8457885,
+        "num": 9707885,
+        "word": "九三盛大阅兵",
+        "onboard_time": 1750730722,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2402160,
+        "num": 2402160,
+        "word": "抗战胜利80周年纪念活动发布会",
+        "onboard_time": 1750729400,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 9891,
+        "num": 1213107,
+        "word": "2025高招一站式服务平台",
+        "onboard_time": 1750668203,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 969156,
+        "num": 969156,
+        "word": "伊朗已接受美停火方案",
+        "onboard_time": 1750721541,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 642378,
+        "num": 642378,
+        "word": "朱丹 内娱顶级语言艺术家",
+        "onboard_time": 1750722262,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 576191,
+        "num": 576191,
+        "word": "成都地震",
+        "onboard_time": 1750720460,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 452217,
+        "num": 452217,
+        "word": "高考分数线",
+        "onboard_time": 1750722622,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 383591,
+        "num": 383591,
+        "word": "特朗普宣布停火后伊爆炸不断",
+        "onboard_time": 1750726883,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 217010,
+        "num": 358318,
+        "word": "王弘毅疑似回应",
+        "onboard_time": 1750721479,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343471,
+        "num": 343471,
+        "word": "隐翅虫 风油精",
+        "onboard_time": 1750730601,
+        "rank": 9,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 963457,
+        "num": 338104,
+        "word": "特朗普感谢伊朗提前通知空袭",
+        "onboard_time": 1750726402,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 649633,
+        "num": 334219,
+        "word": "女儿被打碎头骨母亲含泪发声",
+        "onboard_time": 1750723283,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 596528,
+        "num": 319782,
+        "word": "郑乃馨在拽什么",
+        "onboard_time": 1750688305,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372763,
+        "num": 312651,
+        "word": "中国boy 同人",
+        "onboard_time": 1750728741,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 310035,
+        "num": 310035,
+        "word": "男子公海上刺死同事",
+        "onboard_time": 1750693822,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283985,
+        "num": 283985,
+        "word": "特朗普宣布以伊同意全面停火",
+        "onboard_time": 1750720579,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 181743,
+        "num": 282648,
+        "word": "丁禹兮古装造型又剧抛了",
+        "onboard_time": 1750730119,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150521,
+        "num": 279646,
+        "word": "肖战说特别喜欢竹子",
+        "onboard_time": 1750728920,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134192,
+        "num": 276328,
+        "word": "祝绪丹22到33岁颜值变化",
+        "onboard_time": 1750697958,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131120,
+        "num": 273045,
+        "word": "李沅禧买到假labubu的反应",
+        "onboard_time": 1750731081,
+        "rank": 19,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 450345,
+        "num": 271668,
+        "word": "字节跳动100元餐标的免费三餐",
+        "onboard_time": 1750723463,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 186078,
+        "num": 269618,
+        "word": "10月25日前后纪念台湾光复80周年大会",
+        "onboard_time": 1750731682,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 325025,
+        "num": 266663,
+        "word": "特朗普第三次世界大战",
+        "onboard_time": 1750698798,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 264696,
+        "num": 264696,
+        "word": "抗战胜利80周年",
+        "onboard_time": 1750731382,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 137547,
+        "num": 262839,
+        "word": "油气股集体大跌",
+        "onboard_time": 1750730601,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 262241,
+        "num": 262241,
+        "word": "月薪多少能过上普通人体面的生活",
+        "onboard_time": 1750725923,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231060,
+        "num": 231060,
+        "word": "伊朗用对等导弹数量回击美军",
+        "onboard_time": 1750704314,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 230427,
+        "num": 230427,
+        "word": "9月3日举行纪念抗战胜利80周年大会",
+        "onboard_time": 1750731442,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 109822,
+        "num": 223754,
+        "word": "小沈阳女儿全开麦打歌舞台",
+        "onboard_time": 1750723101,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101260,
+        "num": 223643,
+        "word": "郭品超和爸爸共用一张脸",
+        "onboard_time": 1750691483,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223622,
+        "num": 223622,
+        "word": "特朗普称伊朗的回应非常软弱",
+        "onboard_time": 1750727482,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 222922,
+        "num": 222922,
+        "word": "中国人民抗日战争胜利80周年纪念章将颁发",
+        "onboard_time": 1750731502,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 188944,
+        "num": 188944,
+        "word": "上岸无果竟找间谍报复",
+        "onboard_time": 1750724902,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167775,
+        "num": 167775,
+        "word": "蚊香 中毒",
+        "onboard_time": 1750730482,
+        "rank": 33,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 163977,
+        "num": 163977,
+        "word": "鹅鸭杀手游测试码被炒至599元",
+        "onboard_time": 1750731321,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155153,
+        "num": 155153,
+        "word": "伊朗尚未就停火发任何声明",
+        "onboard_time": 1750721300,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 149704,
+        "num": 149704,
+        "word": "迈阿密国际vs帕尔梅拉斯",
+        "onboard_time": 1750730361,
+        "rank": 36,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 141108,
+        "num": 141108,
+        "word": "学生查出713分老师集体沸腾了",
+        "onboard_time": 1750731742,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133892,
+        "num": 133892,
+        "word": "巴基斯坦提名特朗普和平奖反转",
+        "onboard_time": 1750731922,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 62000,
+        "num": 129068,
+        "word": "马竞无缘小组出线",
+        "onboard_time": 1750730841,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125626,
+        "num": 125626,
+        "word": "杭州一碗面558元店主回应争议",
+        "onboard_time": 1750721421,
+        "rank": 40,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 124929,
+        "num": 124929,
+        "word": "伊朗外长称尚未与以方达成停火协议",
+        "onboard_time": 1750727660,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119112,
+        "num": 119112,
+        "word": "郑乃馨面相",
+        "onboard_time": 1750689444,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121306,
+        "num": 119077,
+        "word": "特朗普已至白宫战情室",
+        "onboard_time": 1750705274,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 118830,
+        "num": 118830,
+        "word": "新疆哈密政法委书记杜海涛被查",
+        "onboard_time": 1750725261,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 114842,
+        "num": 114842,
+        "word": "报北大考古的女孩怎么样了",
+        "onboard_time": 1750699819,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 110930,
+        "num": 110930,
+        "word": "阅兵由徒步方队装备方队空中梯队组成",
+        "onboard_time": 1750731982,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102596,
+        "num": 102596,
+        "word": "清华北大在河南扩招",
+        "onboard_time": 1750730482,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 102145,
+        "num": 102145,
+        "word": "两博主直播拉踩樊振东当场被处置",
+        "onboard_time": 1750694004,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100281,
+        "num": 100281,
+        "word": "警方通报持械打砸车辆案已抓获23人",
+        "onboard_time": 1750731081,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同志在闽金融论述与实践启示#"
+    }
+  }
+}

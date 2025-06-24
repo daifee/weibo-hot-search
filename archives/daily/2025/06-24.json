@@ -1,7 +1,23 @@
 {
   "startTime": 1750696476897,
-  "endTime": 1750730613209,
+  "endTime": 1750732025974,
   "band_list": [
+    {
+      "raw_hot": 8457885,
+      "num": 9707885,
+      "word": "九三盛大阅兵",
+      "onboard_time": 1750730722,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 2402160,
+      "num": 2402160,
+      "word": "抗战胜利80周年纪念活动发布会",
+      "onboard_time": 1750729400,
+      "rank": 7,
+      "category": "国内时政"
+    },
     {
       "raw_hot": 1631512,
       "num": 1621700,
@@ -100,7 +116,7 @@
     },
     {
       "raw_hot": 638158,
-      "num": 176388,
+      "num": 271668,
       "word": "字节跳动100元餐标的免费三餐",
       "onboard_time": 1750723463,
       "rank": 21,
@@ -163,14 +179,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 493951,
-      "num": 493951,
-      "word": "抗战胜利80周年纪念活动发布会",
-      "onboard_time": 1750729400,
-      "rank": 7,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 461421,
       "num": 252682,
       "word": "酱子贝道歉",
@@ -193,6 +201,14 @@
       "onboard_time": 1750705274,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 372763,
+      "num": 312651,
+      "word": "中国boy 同人",
+      "onboard_time": 1750728741,
+      "rank": 14,
+      "category": "网红"
     },
     {
       "raw_hot": 364851,
@@ -219,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 343471,
+      "num": 343471,
+      "word": "隐翅虫 风油精",
+      "onboard_time": 1750730601,
+      "rank": 9,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 313677,
       "num": 299052,
       "word": "特朗普称伊朗的回应非常软弱",
@@ -233,14 +257,6 @@
       "onboard_time": 1750689684,
       "rank": 6,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 300765,
-      "num": 300765,
-      "word": "中国boy 同人",
-      "onboard_time": 1750728741,
-      "rank": 14,
-      "category": "网红"
     },
     {
       "raw_hot": 292203,
@@ -283,6 +299,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 264696,
+      "num": 264696,
+      "word": "抗战胜利80周年",
+      "onboard_time": 1750731382,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 262361,
       "num": 391925,
       "word": "刘学义孟子义回应看起来差辈",
@@ -291,20 +315,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 262241,
+      "num": 262241,
+      "word": "月薪多少能过上普通人体面的生活",
+      "onboard_time": 1750725923,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 257613,
       "num": 257613,
       "word": "伊朗导弹击中以色列南部",
       "onboard_time": 1750681342,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 257580,
-      "num": 174852,
-      "word": "月薪多少能过上普通人体面的生活",
-      "onboard_time": 1750725923,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 248542,
@@ -324,11 +348,27 @@
     },
     {
       "raw_hot": 241079,
-      "num": 177017,
+      "num": 188944,
       "word": "上岸无果竟找间谍报复",
       "onboard_time": 1750724902,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 230427,
+      "num": 230427,
+      "word": "9月3日举行纪念抗战胜利80周年大会",
+      "onboard_time": 1750731442,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 222922,
+      "num": 222922,
+      "word": "中国人民抗日战争胜利80周年纪念章将颁发",
+      "onboard_time": 1750731502,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 213343,
@@ -364,7 +404,7 @@
     },
     {
       "raw_hot": 198501,
-      "num": 198501,
+      "num": 276328,
       "word": "祝绪丹22到33岁颜值变化",
       "onboard_time": 1750697958,
       "rank": 44,
@@ -379,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 186078,
+      "num": 269618,
+      "word": "10月25日前后纪念台湾光复80周年大会",
+      "onboard_time": 1750731682,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 185276,
       "num": 315990,
       "word": "伊朗外长称尚未与以方达成停火协议",
@@ -387,8 +435,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 181743,
+      "num": 282648,
+      "word": "丁禹兮古装造型又剧抛了",
+      "onboard_time": 1750730119,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177642,
-      "num": 177642,
+      "num": 279646,
       "word": "肖战说特别喜欢竹子",
       "onboard_time": 1750728920,
       "rank": 18,
@@ -403,12 +459,28 @@
       "category": "民生新闻,美食"
     },
     {
+      "raw_hot": 167775,
+      "num": 167775,
+      "word": "蚊香 中毒",
+      "onboard_time": 1750730482,
+      "rank": 33,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 166547,
       "num": 258945,
       "word": "三体大史",
       "onboard_time": 1750694841,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163977,
+      "num": 163977,
+      "word": "鹅鸭杀手游测试码被炒至599元",
+      "onboard_time": 1750731321,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 159418,
@@ -420,19 +492,19 @@
     },
     {
       "raw_hot": 159021,
-      "num": 177500,
+      "num": 223754,
       "word": "小沈阳女儿全开麦打歌舞台",
       "onboard_time": 1750723101,
       "rank": 19,
       "category": "综艺"
     },
     {
-      "raw_hot": 147131,
-      "num": 173209,
-      "word": "丁禹兮古装造型又剧抛了",
-      "onboard_time": 1750730119,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 149704,
+      "num": 149704,
+      "word": "迈阿密国际vs帕尔梅拉斯",
+      "onboard_time": 1750730361,
+      "rank": 39,
+      "category": "运动健身"
     },
     {
       "raw_hot": 145260,
@@ -459,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141108,
+      "num": 141108,
+      "word": "学生查出713分老师集体沸腾了",
+      "onboard_time": 1750731742,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140870,
       "num": 183969,
       "word": "newjeans代言品牌陆续解约",
@@ -475,11 +555,27 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 137547,
+      "num": 262839,
+      "word": "油气股集体大跌",
+      "onboard_time": 1750730601,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 136759,
       "num": 136759,
       "word": "伊朗",
       "onboard_time": 1750721541,
       "rank": 27,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 133892,
+      "num": 133892,
+      "word": "巴基斯坦提名特朗普和平奖反转",
+      "onboard_time": 1750731922,
+      "rank": 38,
       "category": "国际时政"
     },
     {
@@ -489,6 +585,14 @@
       "onboard_time": 1750695201,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131120,
+      "num": 273045,
+      "word": "李沅禧买到假labubu的反应",
+      "onboard_time": 1750731081,
+      "rank": 19,
+      "category": "艺人,休闲"
     },
     {
       "raw_hot": 130500,
@@ -523,14 +627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 119439,
-      "num": 119439,
-      "word": "迈阿密国际vs帕尔梅拉斯",
-      "onboard_time": 1750730361,
-      "rank": 39,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 118128,
       "num": 118128,
       "word": "痛经是子宫太想保护你",
@@ -561,6 +657,14 @@
       "onboard_time": 1750730482,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 110930,
+      "num": 110930,
+      "word": "阅兵由徒步方队装备方队空中梯队组成",
+      "onboard_time": 1750731982,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 110464,
@@ -625,6 +729,14 @@
       "onboard_time": 1750725923,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100281,
+      "num": 100281,
+      "word": "警方通报持械打砸车辆案已抓获23人",
+      "onboard_time": 1750731081,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100164,
@@ -809,6 +921,14 @@
       "onboard_time": 1750719558,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62000,
+      "num": 129068,
+      "word": "马竞无缘小组出线",
+      "onboard_time": 1750730841,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 61620,
@@ -1044,7 +1164,7 @@
     },
     {
       "raw_hot": 14109,
-      "num": 877283,
+      "num": 1213107,
       "word": "2025高招一站式服务平台",
       "onboard_time": 1750668203,
       "rank": 2,
