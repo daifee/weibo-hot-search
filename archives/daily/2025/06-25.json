@@ -1,6 +1,6 @@
 {
   "startTime": 1750782835563,
-  "endTime": 1750848434046,
+  "endTime": 1750850634513,
   "band_list": [
     {
       "raw_hot": 2280074,
@@ -51,6 +51,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1542021,
+      "num": 1542021,
+      "word": "梁实高考454分",
+      "onboard_time": 1750848503,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1526401,
       "num": 1526401,
       "word": "河南女生高考288分全家欢呼",
@@ -73,6 +81,22 @@
       "onboard_time": 1750779443,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1238811,
+      "num": 1238811,
+      "word": "女生高考724分爸爸激动到尖叫",
+      "onboard_time": 1750847722,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1228403,
+      "num": 1228403,
+      "word": "言冰云",
+      "onboard_time": 1750847903,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 1134062,
@@ -121,6 +145,14 @@
       "onboard_time": 1750811842,
       "rank": 1,
       "category": "电影"
+    },
+    {
+      "raw_hot": 904576,
+      "num": 904576,
+      "word": "梅森马吉拉 孙颖莎",
+      "onboard_time": 1750847362,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 893661,
@@ -283,14 +315,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 595533,
-      "num": 595533,
-      "word": "梅森马吉拉 孙颖莎",
-      "onboard_time": 1750847362,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 594108,
       "num": 300114,
       "word": "郑乃馨曾哭着说可以等我吗",
@@ -321,6 +345,14 @@
       "onboard_time": 1750775903,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 558236,
+      "num": 558236,
+      "word": "伊朗防长现身青岛",
+      "onboard_time": 1750847422,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 545889,
@@ -420,7 +452,7 @@
     },
     {
       "raw_hot": 471541,
-      "num": 319247,
+      "num": 455417,
       "word": "女生估分450考了538激动泪崩",
       "onboard_time": 1750846642,
       "rank": 30,
@@ -651,6 +683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 342881,
+      "num": 302600,
+      "word": "李昀锐包场是孟子义生日",
+      "onboard_time": 1750850003,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 338196,
       "num": 410418,
       "word": "终于切身体会到什么是莞莞类卿了",
@@ -745,6 +785,14 @@
       "onboard_time": 1750775725,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 296244,
+      "num": 296244,
+      "word": "叶灵儿 换人",
+      "onboard_time": 1750849882,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 295768,
@@ -899,14 +947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 255347,
-      "num": 255347,
-      "word": "女生高考724分爸爸激动到尖叫",
-      "onboard_time": 1750847722,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 252244,
       "num": 252244,
       "word": "曝陈怡蓉因老公事业危机将复出",
@@ -923,14 +963,6 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 246694,
-      "num": 255350,
-      "word": "伊朗防长现身青岛",
-      "onboard_time": 1750847422,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 244399,
       "num": 244399,
       "word": "敖瑞鹏吴宣仪 不二之臣",
@@ -939,20 +971,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 241761,
+      "num": 493548,
+      "word": "高考724分女生回应数学满分",
+      "onboard_time": 1750849343,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 240837,
       "num": 268230,
       "word": "周翊然的导演处女作",
       "onboard_time": 1750835422,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 236440,
-      "num": 236440,
-      "word": "言冰云",
-      "onboard_time": 1750847903,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 235842,
@@ -1120,6 +1152,14 @@
       "word": "四川高考查分",
       "onboard_time": 1750845203,
       "rank": 31,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 203705,
+      "num": 203705,
+      "word": "2025分数线汇总",
+      "onboard_time": 1750849882,
+      "rank": 25,
       "category": "教育"
     },
     {
@@ -1299,6 +1339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188903,
+      "num": 188903,
+      "word": "江苏暴力拆迁",
+      "onboard_time": 1750849042,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188125,
       "num": 215704,
       "word": "中韩男明星看秀外网生图",
@@ -1403,6 +1451,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 174671,
+      "num": 174671,
+      "word": "首尔地铁纵火案致23伤",
+      "onboard_time": 1750849643,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 174096,
       "num": 174096,
       "word": "不二之臣",
@@ -1433,6 +1489,14 @@
       "onboard_time": 1750842563,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 170162,
+      "num": 170162,
+      "word": "刘耀文贺峻霖父母口中的千手观音",
+      "onboard_time": 1750849462,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 169827,
@@ -1539,12 +1603,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157339,
+      "num": 157339,
+      "word": "倪夏莲谈樊振东加入德甲",
+      "onboard_time": 1750849943,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155049,
       "num": 155049,
       "word": "世界之外",
       "onboard_time": 1750823184,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 154764,
+      "num": 273066,
+      "word": "起猛了vivoXFold5连上了AppleWatch",
+      "onboard_time": 1750849703,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 154688,
@@ -1585,6 +1665,14 @@
       "onboard_time": 1750847903,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 151719,
+      "num": 151719,
+      "word": "男生复读3年高考查分喜极而泣",
+      "onboard_time": 1750849462,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151627,
@@ -1705,6 +1793,14 @@
       "onboard_time": 1750815380,
       "rank": 33,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 143845,
+      "num": 143845,
+      "word": "桃花映江山热度",
+      "onboard_time": 1750850362,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 142997,
@@ -1833,6 +1929,14 @@
       "onboard_time": 1750845923,
       "rank": 36,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 136880,
+      "num": 136880,
+      "word": "宋亚轩第一次当站哥没经验",
+      "onboard_time": 1750850483,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 136856,
@@ -1979,6 +2083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127328,
+      "num": 127328,
+      "word": "鹿晗美甲",
+      "onboard_time": 1750850602,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127161,
       "num": 127161,
       "word": "弟弟受北大哥哥激励考702想上清华",
@@ -2003,6 +2115,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 125970,
+      "num": 125970,
+      "word": "给狗喂槟榔",
+      "onboard_time": 1750848863,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125730,
       "num": 142013,
       "word": "逆水寒手游",
@@ -2017,6 +2137,14 @@
       "onboard_time": 1750847542,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125410,
+      "num": 125410,
+      "word": "一年一影帝 百年周星驰",
+      "onboard_time": 1750849104,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 124311,
@@ -2185,6 +2313,14 @@
       "onboard_time": 1750840522,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 112510,
+      "num": 112510,
+      "word": "7名以军士兵遇袭身亡",
+      "onboard_time": 1750850542,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 112082,
@@ -2491,6 +2627,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 83573,
+      "num": 137006,
+      "word": "今屿比心",
+      "onboard_time": 1750850003,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 81600,
       "num": 320111,
       "word": "卡萨帝AI科技守护千年非遗",
@@ -2635,6 +2779,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 69118,
+      "num": 271633,
+      "word": "千年云锦被洗衣机复活了",
+      "onboard_time": 1750849882,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 68029,
       "num": 68029,
       "word": "特朗普称以色列和伊朗均违反停火协议",
@@ -2657,6 +2809,14 @@
       "onboard_time": 1750805298,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65449,
+      "num": 122609,
+      "word": "伊朗庆祝胜利",
+      "onboard_time": 1750849282,
+      "rank": 45,
+      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 65262,
@@ -2987,8 +3147,16 @@
       "category": "互联网,读书作家"
     },
     {
+      "raw_hot": 28016,
+      "num": 159210,
+      "word": "美军炸的坑已填平",
+      "onboard_time": 1750850542,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 27713,
-      "num": 669139,
+      "num": 1233342,
       "word": "青春华章豫你同行",
       "onboard_time": 1750847120,
       "rank": 2,
@@ -3127,6 +3295,9 @@
     },
     {
       "word": "#总书记谈耕地保护#"
+    },
+    {
+      "word": "#习近平总书记对土地的深情#"
     }
   ]
 }
