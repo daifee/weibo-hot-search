@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750830323202,
+  "endTime": 1750833524315,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -6211,6 +6211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 790038,
+      "num": 1126406,
+      "word": "金价跌至6月以来新低",
+      "onboard_time": 1750827685,
+      "rank": 15,
+      "category": "财经"
+    },
+    {
       "raw_hot": 789230,
       "num": 789230,
       "word": "韦神患有牙周炎已在治疗",
@@ -6673,6 +6681,14 @@
       "onboard_time": 1749916282,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 752877,
+      "num": 285449,
+      "word": "韩安冉晒硕士offer",
+      "onboard_time": 1750832482,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 752538,
@@ -8323,6 +8339,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 653977,
+      "num": 271982,
+      "word": "18岁绝经女生的真实感受",
+      "onboard_time": 1750829001,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 651651,
       "num": 651651,
       "word": "新疆赛里木湖一SUV景区漂移",
@@ -8529,14 +8553,6 @@
       "onboard_time": 1750321641,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 640932,
-      "num": 640932,
-      "word": "金价跌至6月以来新低",
-      "onboard_time": 1750827685,
-      "rank": 15,
-      "category": "财经"
     },
     {
       "raw_hot": 640698,
@@ -10153,6 +10169,14 @@
       "onboard_time": 1749103701,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 569211,
+      "num": 260265,
+      "word": "魏大勋出个国怎么帅成这样",
+      "onboard_time": 1750830262,
+      "rank": 22,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 568694,
@@ -17123,6 +17147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 366586,
+      "num": 366586,
+      "word": "特朗普晒北约秘书长谄媚私信",
+      "onboard_time": 1750830681,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 366091,
       "num": 366091,
       "word": "曹骏谈年少爆红后突然消失",
@@ -18545,6 +18577,14 @@
       "onboard_time": 1750231521,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 342922,
+      "num": 342922,
+      "word": "浙江高考成绩",
+      "onboard_time": 1750825104,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 342654,
@@ -21163,14 +21203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 299577,
-      "num": 216269,
-      "word": "18岁绝经女生的真实感受",
-      "onboard_time": 1750829001,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 299571,
       "num": 299571,
       "word": "明日方舟",
@@ -21673,6 +21705,14 @@
       "onboard_time": 1750172662,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 292844,
+      "num": 292844,
+      "word": "老人失联27小时期间靠吃荔枝充饥",
+      "onboard_time": 1750830203,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 292767,
@@ -24505,14 +24545,6 @@
       "onboard_time": 1750313781,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 259614,
-      "num": 213819,
-      "word": "魏大勋出个国怎么帅成这样",
-      "onboard_time": 1750830262,
-      "rank": 22,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 259466,
@@ -28321,6 +28353,14 @@
       "onboard_time": 1749807922,
       "rank": 36,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 224908,
+      "num": 224908,
+      "word": "GEN教练爆料AL训练赛",
+      "onboard_time": 1750830742,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 224848,
@@ -32667,6 +32707,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 202488,
+      "num": 202488,
+      "word": "赋分",
+      "onboard_time": 1750831403,
+      "rank": 21,
+      "category": "教育"
+    },
+    {
       "raw_hot": 202445,
       "num": 227108,
       "word": "歌手",
@@ -33353,6 +33401,14 @@
       "onboard_time": 1749899421,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 200238,
+      "num": 213022,
+      "word": "电影长安的荔枝客串阵容",
+      "onboard_time": 1750831761,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 200231,
@@ -34921,14 +34977,6 @@
       "onboard_time": 1750750521,
       "rank": 32,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 194657,
-      "num": 194657,
-      "word": "浙江高考成绩",
-      "onboard_time": 1750825104,
-      "rank": 43,
-      "category": "教育"
     },
     {
       "raw_hot": 194650,
@@ -36939,6 +36987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188125,
+      "num": 215704,
+      "word": "中韩男明星看秀外网生图",
+      "onboard_time": 1750829903,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 188122,
       "num": 188122,
       "word": "考上985和中彩票500万选哪个",
@@ -38385,6 +38441,14 @@
       "onboard_time": 1748830339,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183730,
+      "num": 183730,
+      "word": "雷军再透露小米YU7价格",
+      "onboard_time": 1750832782,
+      "rank": 22,
+      "category": "汽车"
     },
     {
       "raw_hot": 183717,
@@ -39931,6 +39995,14 @@
       "category": "民生新闻,动漫"
     },
     {
+      "raw_hot": 177504,
+      "num": 177504,
+      "word": "伊朗首都查获超1万架无人机",
+      "onboard_time": 1750831343,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 177502,
       "num": 166202,
       "word": "郑钦文说被鞋子问题影响注意力",
@@ -40449,6 +40521,14 @@
       "onboard_time": 1750077981,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175212,
+      "num": 175212,
+      "word": "微信 朋友圈编辑功能",
+      "onboard_time": 1750827922,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 175154,
@@ -45352,6 +45432,14 @@
       "word": "周雨彤拍谍报上不封顶有压力",
       "onboard_time": 1750141702,
       "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 159825,
+      "num": 159825,
+      "word": "酱园弄开分5.9什么压垮了口碑",
+      "onboard_time": 1750832422,
+      "rank": 26,
       "category": "电影"
     },
     {
@@ -50763,6 +50851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 144543,
+      "num": 144543,
+      "word": "前国乒教练晒樊振东奥运图",
+      "onboard_time": 1750829903,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144494,
       "num": 144494,
       "word": "急性子瘦手臂的方法",
@@ -51281,14 +51377,6 @@
       "onboard_time": 1749737963,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 143110,
-      "num": 143110,
-      "word": "微信 朋友圈编辑功能",
-      "onboard_time": 1750827922,
-      "rank": 47,
-      "category": "互联网"
     },
     {
       "raw_hot": 143096,
@@ -52113,6 +52201,14 @@
       "onboard_time": 1749749297,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141069,
+      "num": 141069,
+      "word": "央视镜头下的孙艺洲",
+      "onboard_time": 1750830862,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 141065,
@@ -54819,14 +54915,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 134019,
-      "num": 134019,
-      "word": "老人失联27小时期间靠吃荔枝充饥",
-      "onboard_time": 1750830203,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 133969,
       "num": 154553,
       "word": "中方谈中美经贸磋商机制首次会议",
@@ -56339,6 +56427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130564,
+      "num": 130564,
+      "word": "生到了隐藏款女儿",
+      "onboard_time": 1750831942,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130552,
       "num": 130552,
       "word": "轧戏陈星旭卢昱晓吻戏",
@@ -56665,6 +56761,14 @@
       "onboard_time": 1750415961,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129792,
+      "num": 129792,
+      "word": "中国选手12秒96破纪录夺冠",
+      "onboard_time": 1750830321,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 129748,
@@ -58771,6 +58875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124311,
+      "num": 124311,
+      "word": "班主任查出3名屏蔽生鼓掌狂喜",
+      "onboard_time": 1750831824,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124302,
       "num": 124302,
       "word": "碟中谍",
@@ -59539,6 +59651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122635,
+      "num": 122635,
+      "word": "这届外国留学生已经完全汉化了",
+      "onboard_time": 1750832602,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122627,
       "num": 176288,
       "word": "藏海传师徒群像海报",
@@ -59673,14 +59793,6 @@
       "onboard_time": 1750508782,
       "rank": 44,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 122317,
-      "num": 215704,
-      "word": "中韩男明星看秀外网生图",
-      "onboard_time": 1750829903,
-      "rank": 19,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 122297,
@@ -59921,6 +60033,14 @@
       "onboard_time": 1750315101,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 121804,
+      "num": 121804,
+      "word": "女孩服激素增高药身高定格137cm",
+      "onboard_time": 1750832362,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121770,
@@ -61571,6 +61691,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 116801,
+      "num": 116801,
+      "word": "伊朗人说以色列1秒炸毁我42年人生",
+      "onboard_time": 1750833263,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 116797,
       "num": 116797,
       "word": "长安的荔枝选角",
@@ -61825,6 +61953,14 @@
       "onboard_time": 1750488201,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 116225,
+      "num": 116225,
+      "word": "散瓶飞天茅台跌破1800元",
+      "onboard_time": 1750832602,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 116207,
@@ -64827,6 +64963,14 @@
       "category": "休闲,情感"
     },
     {
+      "raw_hot": 107987,
+      "num": 107987,
+      "word": "林则徐 我在所有的公共场合都很想你",
+      "onboard_time": 1750832002,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 107981,
       "num": 130037,
       "word": "兰香如故原著作者维权",
@@ -64905,6 +65049,14 @@
       "onboard_time": 1749031401,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 107677,
+      "num": 107677,
+      "word": "父亲家暴烧死母亲案死刑已执行",
+      "onboard_time": 1750833383,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107675,
@@ -66625,6 +66777,14 @@
       "onboard_time": 1750327282,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 101170,
+      "num": 101170,
+      "word": "中国电池材料技术的再次突破",
+      "onboard_time": 1750833501,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 101169,
@@ -71795,6 +71955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79698,
+      "num": 121056,
+      "word": "孙颖莎林诗栋参加美国大满贯抽签",
+      "onboard_time": 1750832722,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79655,
       "num": 79655,
       "word": "平台客服回应买到假iPhone",
@@ -72369,6 +72537,14 @@
       "onboard_time": 1749484521,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 76636,
+      "num": 120487,
+      "word": "陈奕迅加场吧就当是为了我",
+      "onboard_time": 1750832902,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 76621,
@@ -83075,6 +83251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 33178,
+      "num": 641727,
+      "word": "亲水经济夏日持续升温",
+      "onboard_time": 1750827864,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33145,
       "num": 116956,
       "word": "纳夫罗茨基赢得波兰总统选举",
@@ -86320,14 +86504,6 @@
       "word": "街道办回应她的瞳剧组用激光笔清场",
       "onboard_time": 1750101854,
       "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23644,
-      "num": 641727,
-      "word": "亲水经济夏日持续升温",
-      "onboard_time": 1750827864,
-      "rank": 2,
       "category": "民生新闻"
     },
     {

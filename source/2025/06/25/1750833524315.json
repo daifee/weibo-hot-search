@@ -1,0 +1,410 @@
+{
+  "runTime": 1750833524315,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 790038,
+        "num": 1126406,
+        "word": "金价跌至6月以来新低",
+        "onboard_time": 1750827685,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 447374,
+        "num": 447374,
+        "word": "第一个让孟子义演绿茶的是天才",
+        "onboard_time": 1750828223,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33178,
+        "num": 407740,
+        "word": "亲水经济夏日持续升温",
+        "onboard_time": 1750827864,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1031040,
+        "num": 405604,
+        "word": "河南女生高考288分全家欢呼",
+        "onboard_time": 1750823602,
+        "rank": 3,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 399149,
+        "num": 399149,
+        "word": "睡满8小时和6小时的区别",
+        "onboard_time": 1750822762,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 396719,
+        "num": 396719,
+        "word": "高考成绩",
+        "onboard_time": 1750812863,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 366586,
+        "num": 366586,
+        "word": "特朗普晒北约秘书长谄媚私信",
+        "onboard_time": 1750830681,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 342922,
+        "num": 342922,
+        "word": "浙江高考成绩",
+        "onboard_time": 1750825104,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 300697,
+        "num": 300697,
+        "word": "酱园弄堆砌明星不等于好电影",
+        "onboard_time": 1750825705,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 292844,
+        "num": 292844,
+        "word": "老人失联27小时期间靠吃荔枝充饥",
+        "onboard_time": 1750830203,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 752877,
+        "num": 285449,
+        "word": "韩安冉晒硕士offer",
+        "onboard_time": 1750832482,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 653977,
+        "num": 271982,
+        "word": "18岁绝经女生的真实感受",
+        "onboard_time": 1750829001,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 569211,
+        "num": 260265,
+        "word": "魏大勋出个国怎么帅成这样",
+        "onboard_time": 1750830262,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 394691,
+        "num": 238891,
+        "word": "台北故宫与美国合作不与北京合作",
+        "onboard_time": 1750824863,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 321011,
+        "num": 236741,
+        "word": "怀孕逛街的许玮甯",
+        "onboard_time": 1750829182,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224908,
+        "num": 224908,
+        "word": "GEN教练爆料AL训练赛",
+        "onboard_time": 1750830742,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 197093,
+        "num": 216520,
+        "word": "奇迹官宣王安宇",
+        "onboard_time": 1750828282,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200238,
+        "num": 213022,
+        "word": "电影长安的荔枝客串阵容",
+        "onboard_time": 1750831761,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 211925,
+        "num": 211925,
+        "word": "不胖和好瘦的区别",
+        "onboard_time": 1750821444,
+        "rank": 18,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 188125,
+        "num": 202550,
+        "word": "中韩男明星看秀外网生图",
+        "onboard_time": 1750829903,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 310107,
+        "num": 202525,
+        "word": "男子因老中医指甲长把脉留印索赔2千",
+        "onboard_time": 1750828223,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202488,
+        "num": 202488,
+        "word": "赋分",
+        "onboard_time": 1750831403,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 183730,
+        "num": 183730,
+        "word": "雷军再透露小米YU7价格",
+        "onboard_time": 1750832782,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 177504,
+        "num": 177504,
+        "word": "伊朗首都查获超1万架无人机",
+        "onboard_time": 1750831343,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 175212,
+        "num": 175212,
+        "word": "微信 朋友圈编辑功能",
+        "onboard_time": 1750827922,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 165124,
+        "num": 165124,
+        "word": "张凌赫首部民国男主",
+        "onboard_time": 1750823484,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159825,
+        "num": 159825,
+        "word": "酱园弄开分5.9什么压垮了口碑",
+        "onboard_time": 1750832422,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154944,
+        "num": 154944,
+        "word": "北京高考698分以上113人",
+        "onboard_time": 1750820482,
+        "rank": 27,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 152154,
+        "num": 152154,
+        "word": "双胞胎高考哥哥680分妹妹710分",
+        "onboard_time": 1750819221,
+        "rank": 28,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 151546,
+        "num": 151546,
+        "word": "桃花映江山",
+        "onboard_time": 1750832242,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149601,
+        "num": 149601,
+        "word": "伊朗盛大庆祝战胜以色列",
+        "onboard_time": 1750828223,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 144543,
+        "num": 144543,
+        "word": "前国乒教练晒樊振东奥运图",
+        "onboard_time": 1750829903,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142366,
+        "num": 142366,
+        "word": "轻度抑郁症的真实表现",
+        "onboard_time": 1750823784,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 141069,
+        "num": 141069,
+        "word": "央视镜头下的孙艺洲",
+        "onboard_time": 1750830862,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130564,
+        "num": 130564,
+        "word": "生到了隐藏款女儿",
+        "onboard_time": 1750831942,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129792,
+        "num": 129792,
+        "word": "中国选手12秒96破纪录夺冠",
+        "onboard_time": 1750830321,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124311,
+        "num": 124311,
+        "word": "班主任查出3名屏蔽生鼓掌狂喜",
+        "onboard_time": 1750831824,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122635,
+        "num": 122635,
+        "word": "这届外国留学生已经完全汉化了",
+        "onboard_time": 1750832602,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121804,
+        "num": 121804,
+        "word": "女孩服激素增高药身高定格137cm",
+        "onboard_time": 1750832362,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79698,
+        "num": 121056,
+        "word": "孙颖莎林诗栋参加美国大满贯抽签",
+        "onboard_time": 1750832722,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76636,
+        "num": 120487,
+        "word": "陈奕迅加场吧就当是为了我",
+        "onboard_time": 1750832902,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120486,
+        "num": 120486,
+        "word": "山东分数线",
+        "onboard_time": 1750825766,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 116801,
+        "num": 116801,
+        "word": "伊朗人说以色列1秒炸毁我42年人生",
+        "onboard_time": 1750833263,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116225,
+        "num": 116225,
+        "word": "散瓶飞天茅台跌破1800元",
+        "onboard_time": 1750832602,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 107987,
+        "num": 107987,
+        "word": "林则徐 我在所有的公共场合都很想你",
+        "onboard_time": 1750832002,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107677,
+        "num": 107677,
+        "word": "父亲家暴烧死母亲案死刑已执行",
+        "onboard_time": 1750833383,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107650,
+        "num": 107650,
+        "word": "哈尔滨全城为一家咖啡店操碎了心",
+        "onboard_time": 1750829602,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105018,
+        "num": 105018,
+        "word": "查分查出隐藏款老师瞬间沸腾",
+        "onboard_time": 1750820542,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28180,
+        "num": 101304,
+        "word": "岚图FREE+的含金量谁懂",
+        "onboard_time": 1750829001,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 101170,
+        "num": 101170,
+        "word": "中国电池材料技术的再次突破",
+        "onboard_time": 1750833501,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温10年前阅兵现场依然震撼#"
+    }
+  }
+}
