@@ -1,0 +1,410 @@
+{
+  "runTime": 1750848434046,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1191023,
+        "num": 1191023,
+        "word": "庆余年3刘端端 换角",
+        "onboard_time": 1750839682,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 956546,
+        "num": 956546,
+        "word": "暴雨暴雨注意暴雨暴雨",
+        "onboard_time": 1750841723,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27713,
+        "num": 669139,
+        "word": "青春华章豫你同行",
+        "onboard_time": 1750847120,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1206089,
+        "num": 640383,
+        "word": "黄子韬方否认代孕",
+        "onboard_time": 1750842923,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 595533,
+        "num": 595533,
+        "word": "梅森马吉拉 孙颖莎",
+        "onboard_time": 1750847362,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 556007,
+        "num": 556007,
+        "word": "288分女孩妈妈称不拿短处比别人长处",
+        "onboard_time": 1750842082,
+        "rank": 5,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 759110,
+        "num": 542627,
+        "word": "孟子义发了5万红包",
+        "onboard_time": 1750847301,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 499567,
+        "num": 499567,
+        "word": "健身房 脏",
+        "onboard_time": 1750834104,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 398332,
+        "num": 398332,
+        "word": "百万网红树莓宣布退学",
+        "onboard_time": 1750841661,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 322970,
+        "num": 322970,
+        "word": "浙江高考最高分",
+        "onboard_time": 1750839922,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 568105,
+        "num": 322511,
+        "word": "庆余年3 赵昭仪",
+        "onboard_time": 1750843942,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 471541,
+        "num": 319247,
+        "word": "女生估分450考了538激动泪崩",
+        "onboard_time": 1750846642,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365714,
+        "num": 315534,
+        "word": "张元英转圈又火了",
+        "onboard_time": 1750842321,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 335365,
+        "num": 310224,
+        "word": "侯鸿亮晒肖战杨紫剧照",
+        "onboard_time": 1750837703,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163241,
+        "num": 306482,
+        "word": "中国股市彻底爆发",
+        "onboard_time": 1750846282,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 305238,
+        "num": 305238,
+        "word": "东晓南",
+        "onboard_time": 1750844302,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296529,
+        "num": 296529,
+        "word": "只有结过婚的才知道她有多真实",
+        "onboard_time": 1750838180,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 272923,
+        "num": 272923,
+        "word": "特朗普发视频恶搞轰炸伊朗",
+        "onboard_time": 1750844542,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 259690,
+        "num": 259690,
+        "word": "徐艺洋工作室声明",
+        "onboard_time": 1750844603,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246694,
+        "num": 255350,
+        "word": "伊朗防长现身青岛",
+        "onboard_time": 1750847422,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 275631,
+        "num": 255349,
+        "word": "孕妇1天2杯奶茶致早产孩子仅3斤2两",
+        "onboard_time": 1750840282,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255347,
+        "num": 255347,
+        "word": "女生高考724分爸爸激动到尖叫",
+        "onboard_time": 1750847722,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239206,
+        "num": 239206,
+        "word": "孟子义的男主们包场新剧",
+        "onboard_time": 1750843463,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236440,
+        "num": 236440,
+        "word": "言冰云",
+        "onboard_time": 1750847903,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35486,
+        "num": 216420,
+        "word": "空腹断食16小时的身体变化",
+        "onboard_time": 1750835482,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 214433,
+        "num": 214433,
+        "word": "王者荣耀",
+        "onboard_time": 1750847662,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 79226,
+        "num": 208955,
+        "word": "曝陈怡蓉因老公事业危机将复出",
+        "onboard_time": 1750841543,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205438,
+        "num": 205438,
+        "word": "有房有车存款30w 我决定一辈子不上班",
+        "onboard_time": 1750837042,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203851,
+        "num": 203851,
+        "word": "四川高考查分",
+        "onboard_time": 1750845203,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 20111,
+        "num": 201769,
+        "word": "美国才是伊朗核危机的始作俑者",
+        "onboard_time": 1750848082,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 29130,
+        "num": 201449,
+        "word": "圣罗兰男装秀直击",
+        "onboard_time": 1750842321,
+        "rank": 30,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 201432,
+        "num": 201432,
+        "word": "歌手歌单",
+        "onboard_time": 1750843162,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194014,
+        "num": 194014,
+        "word": "王一博18岁到28岁变化",
+        "onboard_time": 1750848202,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168676,
+        "num": 168676,
+        "word": "特朗普社交平台发布恶搞视频",
+        "onboard_time": 1750846702,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 168251,
+        "num": 168251,
+        "word": "伊朗人说以色列1秒炸毁我42年人生",
+        "onboard_time": 1750833263,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 162940,
+        "num": 162940,
+        "word": "宁静说不喜欢汪峰",
+        "onboard_time": 1750839801,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160883,
+        "num": 160883,
+        "word": "王楚钦乒乓球围棋二选一",
+        "onboard_time": 1750842382,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156348,
+        "num": 156348,
+        "word": "杨紫出席白玉兰颁奖",
+        "onboard_time": 1750843762,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152946,
+        "num": 152946,
+        "word": "光与夜之恋上塔了",
+        "onboard_time": 1750847903,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104973,
+        "num": 142013,
+        "word": "逆水寒手游",
+        "onboard_time": 1750847184,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138620,
+        "num": 138620,
+        "word": "刘宇宁心态",
+        "onboard_time": 1750847062,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137993,
+        "num": 137993,
+        "word": "浙里办可查20年前高考成绩",
+        "onboard_time": 1750838542,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134249,
+        "num": 134249,
+        "word": "港迪 美队",
+        "onboard_time": 1750845923,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 133146,
+        "num": 133146,
+        "word": "当习惯中国生活的韩国人回国",
+        "onboard_time": 1750848143,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125390,
+        "num": 125390,
+        "word": "王者S40新赛季命若星火",
+        "onboard_time": 1750847062,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125482,
+        "num": 125383,
+        "word": "刘宇宁演完这段后sorry全场",
+        "onboard_time": 1750847542,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125358,
+        "num": 125358,
+        "word": "18岁的王一博有多帅",
+        "onboard_time": 1750837523,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125330,
+        "num": 125330,
+        "word": "桃花映江山开播",
+        "onboard_time": 1750846462,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122826,
+        "num": 122826,
+        "word": "美国一女婴在酒店抽屉中窒息而死",
+        "onboard_time": 1750842563,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 120417,
+        "num": 120417,
+        "word": "奚梦瑶被婆婆认可原因",
+        "onboard_time": 1750842863,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈耕地保护#"
+    }
+  }
+}

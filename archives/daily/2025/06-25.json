@@ -1,6 +1,6 @@
 {
   "startTime": 1750782835563,
-  "endTime": 1750847381413,
+  "endTime": 1750848434046,
   "band_list": [
     {
       "raw_hot": 2280074,
@@ -187,6 +187,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 759110,
+      "num": 542627,
+      "word": "孟子义发了5万红包",
+      "onboard_time": 1750847301,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 758328,
       "num": 469173,
       "word": "只有结过婚的才知道她有多真实",
@@ -273,6 +281,14 @@
       "onboard_time": 1750815023,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 595533,
+      "num": 595533,
+      "word": "梅森马吉拉 孙颖莎",
+      "onboard_time": 1750847362,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 594108,
@@ -401,6 +417,14 @@
       "onboard_time": 1750824804,
       "rank": 12,
       "category": "教育"
+    },
+    {
+      "raw_hot": 471541,
+      "num": 319247,
+      "word": "女生估分450考了538激动泪崩",
+      "onboard_time": 1750846642,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 467449,
@@ -715,14 +739,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 302073,
-      "num": 302073,
-      "word": "孟子义发了5万红包",
-      "onboard_time": 1750847301,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 298169,
       "num": 298169,
       "word": "特朗普说刚一谈好以就打伊",
@@ -787,6 +803,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 272923,
+      "num": 272923,
+      "word": "特朗普发视频恶搞轰炸伊朗",
+      "onboard_time": 1750844542,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 271734,
       "num": 266990,
       "word": "曝洪金宝儿子儿媳双双出轨",
@@ -828,7 +852,7 @@
     },
     {
       "raw_hot": 265442,
-      "num": 210078,
+      "num": 239206,
       "word": "孟子义的男主们包场新剧",
       "onboard_time": 1750843463,
       "rank": 31,
@@ -851,6 +875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 259690,
+      "num": 259690,
+      "word": "徐艺洋工作室声明",
+      "onboard_time": 1750844603,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 258363,
       "num": 426938,
       "word": "44岁的张娜拉",
@@ -865,6 +897,14 @@
       "onboard_time": 1750755143,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 255347,
+      "num": 255347,
+      "word": "女生高考724分爸爸激动到尖叫",
+      "onboard_time": 1750847722,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 252244,
@@ -883,11 +923,11 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 245087,
-      "num": 245087,
-      "word": "特朗普发视频恶搞轰炸伊朗",
-      "onboard_time": 1750844542,
-      "rank": 27,
+      "raw_hot": 246694,
+      "num": 255350,
+      "word": "伊朗防长现身青岛",
+      "onboard_time": 1750847422,
+      "rank": 19,
       "category": "国际时政"
     },
     {
@@ -905,6 +945,14 @@
       "onboard_time": 1750835422,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 236440,
+      "num": 236440,
+      "word": "言冰云",
+      "onboard_time": 1750847903,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 235842,
@@ -1011,6 +1059,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 214433,
+      "num": 214433,
+      "word": "王者荣耀",
+      "onboard_time": 1750847662,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 214032,
       "num": 365688,
       "word": "电影小白船定档",
@@ -1057,6 +1113,14 @@
       "onboard_time": 1750828402,
       "rank": 18,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 203851,
+      "num": 203851,
+      "word": "四川高考查分",
+      "onboard_time": 1750845203,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 203287,
@@ -1131,14 +1195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 197516,
-      "num": 197516,
-      "word": "徐艺洋工作室声明",
-      "onboard_time": 1750844603,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 196684,
       "num": 278590,
       "word": "书卷一梦把剧中刘宇宁剧本卖了",
@@ -1177,6 +1233,14 @@
       "onboard_time": 1750823123,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 194014,
+      "num": 194014,
+      "word": "王一博18岁到28岁变化",
+      "onboard_time": 1750848202,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 193888,
@@ -1395,12 +1459,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 167746,
-      "num": 153839,
-      "word": "女生估分450考了538激动泪崩",
-      "onboard_time": 1750846642,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 168676,
+      "num": 357045,
+      "word": "特朗普社交平台发布恶搞视频",
+      "onboard_time": 1750846702,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 164499,
@@ -1409,6 +1473,14 @@
       "onboard_time": 1750827685,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 163241,
+      "num": 306482,
+      "word": "中国股市彻底爆发",
+      "onboard_time": 1750846282,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 162733,
@@ -1491,14 +1563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 153187,
-      "num": 153187,
-      "word": "四川高考查分",
-      "onboard_time": 1750845203,
-      "rank": 31,
-      "category": "教育"
-    },
-    {
       "raw_hot": 153017,
       "num": 153017,
       "word": "建议要有个高质量的学霸搭子",
@@ -1513,6 +1577,14 @@
       "onboard_time": 1750817181,
       "rank": 32,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 152946,
+      "num": 152946,
+      "word": "光与夜之恋上塔了",
+      "onboard_time": 1750847903,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 151627,
@@ -1715,6 +1787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138620,
+      "num": 138620,
+      "word": "刘宇宁心态",
+      "onboard_time": 1750847062,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138295,
       "num": 338574,
       "word": "不吸烟的亚洲女性为什么肺癌高发",
@@ -1729,14 +1809,6 @@
       "onboard_time": 1750836863,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 138077,
-      "num": 138077,
-      "word": "中国股市彻底爆发",
-      "onboard_time": 1750846282,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 137828,
@@ -1803,20 +1875,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 133146,
+      "num": 133146,
+      "word": "当习惯中国生活的韩国人回国",
+      "onboard_time": 1750848143,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 132975,
       "num": 108141,
       "word": "张雪峰鼓励高考发挥失常考生",
       "onboard_time": 1750810522,
       "rank": 45,
       "category": "教育"
-    },
-    {
-      "raw_hot": 132149,
-      "num": 132149,
-      "word": "刘宇宁心态",
-      "onboard_time": 1750847062,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 132056,
@@ -1931,20 +2003,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 125983,
-      "num": 125983,
-      "word": "梅森马吉拉 孙颖莎",
-      "onboard_time": 1750847362,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 125730,
-      "num": 125730,
+      "num": 142013,
       "word": "逆水寒手游",
       "onboard_time": 1750847184,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 125482,
+      "num": 125383,
+      "word": "刘宇宁演完这段后sorry全场",
+      "onboard_time": 1750847542,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 124311,
@@ -2156,7 +2228,7 @@
     },
     {
       "raw_hot": 111094,
-      "num": 111094,
+      "num": 216420,
       "word": "空腹断食16小时的身体变化",
       "onboard_time": 1750835482,
       "rank": 48,
@@ -2248,14 +2320,6 @@
       "word": "以方打电话威胁20多名伊朗高官",
       "onboard_time": 1750824082,
       "rank": 41,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 103698,
-      "num": 357045,
-      "word": "特朗普社交平台发布恶搞视频",
-      "onboard_time": 1750846702,
-      "rank": 9,
       "category": "国际时政"
     },
     {
@@ -2923,6 +2987,14 @@
       "category": "互联网,读书作家"
     },
     {
+      "raw_hot": 27713,
+      "num": 669139,
+      "word": "青春华章豫你同行",
+      "onboard_time": 1750847120,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 27058,
       "num": 27058,
       "word": "张真源中戏毕业典礼vlog",
@@ -2961,6 +3033,14 @@
       "onboard_time": 1750835122,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 20111,
+      "num": 201769,
+      "word": "美国才是伊朗核危机的始作俑者",
+      "onboard_time": 1750848082,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 19181,
@@ -3033,14 +3113,6 @@
       "onboard_time": 1750822883,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 13947,
-      "num": 642144,
-      "word": "青春华章豫你同行",
-      "onboard_time": 1750847120,
-      "rank": 2,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
