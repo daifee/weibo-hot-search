@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750862793380,
+  "endTime": 1750865421606,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -580,7 +580,7 @@
     },
     {
       "raw_hot": 1113161,
-      "num": 467557,
+      "num": 491017,
       "word": "徐艺洋一周前曾回应怀孕传闻",
       "onboard_time": 1750853363,
       "rank": 10,
@@ -745,6 +745,14 @@
       "onboard_time": 1750824863,
       "rank": 10,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 988533,
+      "num": 704010,
+      "word": "杨幂 王小卤",
+      "onboard_time": 1750863263,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 975975,
@@ -1155,6 +1163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 749134,
+      "num": 617559,
+      "word": "剑来 刘浩存",
+      "onboard_time": 1750863862,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 741470,
       "num": 549542,
       "word": "伊朗称将向世界展示力量",
@@ -1369,6 +1385,14 @@
       "onboard_time": 1750849643,
       "rank": 27,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 679573,
+      "num": 679573,
+      "word": "考生花5499元报96个本科志愿全滑档",
+      "onboard_time": 1750860744,
+      "rank": 23,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 677919,
@@ -1972,7 +1996,7 @@
     },
     {
       "raw_hot": 528100,
-      "num": 480774,
+      "num": 484813,
       "word": "领衔主演付辛博",
       "onboard_time": 1750861523,
       "rank": 27,
@@ -2129,6 +2153,14 @@
       "onboard_time": 1750691122,
       "rank": 13,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 502839,
+      "num": 502839,
+      "word": "LV上海大秀阵容",
+      "onboard_time": 1750863983,
+      "rank": 8,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 502339,
@@ -2881,6 +2913,14 @@
       "onboard_time": 1750519703,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 404819,
+      "num": 404819,
+      "word": "歌手第七期歌单",
+      "onboard_time": 1750861464,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 404063,
@@ -3681,14 +3721,6 @@
       "onboard_time": 1750836322,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 323936,
-      "num": 323936,
-      "word": "歌手第七期歌单",
-      "onboard_time": 1750861464,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 323860,
@@ -4827,6 +4859,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 244867,
+      "num": 244867,
+      "word": "男生考692分想上清华为芯片做贡献",
+      "onboard_time": 1750861583,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 244573,
       "num": 244573,
       "word": "请记住她叫刘名芳",
@@ -4955,14 +4995,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 236080,
-      "num": 430675,
-      "word": "考生花5499元报96个本科志愿全滑档",
-      "onboard_time": 1750860744,
-      "rank": 23,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 235854,
       "num": 235854,
       "word": "NBA",
@@ -5025,6 +5057,14 @@
       "onboard_time": 1750604485,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 234152,
+      "num": 234152,
+      "word": "小米Yu7",
+      "onboard_time": 1750861944,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 233751,
@@ -5955,6 +5995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203206,
+      "num": 402128,
+      "word": "女儿见到失联半年的爸爸撒腿就跑",
+      "onboard_time": 1750863683,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203178,
       "num": 203178,
       "word": "唐嫣待播剧各有各的带感",
@@ -6017,14 +6065,6 @@
       "onboard_time": 1750753704,
       "rank": 38,
       "category": "教育"
-    },
-    {
-      "raw_hot": 202261,
-      "num": 202261,
-      "word": "小米Yu7",
-      "onboard_time": 1750861944,
-      "rank": 25,
-      "category": "汽车"
     },
     {
       "raw_hot": 202218,
@@ -6233,6 +6273,14 @@
       "onboard_time": 1750656803,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198229,
+      "num": 198229,
+      "word": "一天中喝咖啡的最佳时间点",
+      "onboard_time": 1750860565,
+      "rank": 38,
+      "category": "美食,健康医疗"
     },
     {
       "raw_hot": 198026,
@@ -7331,14 +7379,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 174700,
-      "num": 174700,
-      "word": "一天中喝咖啡的最佳时间点",
-      "onboard_time": 1750860565,
-      "rank": 38,
-      "category": "美食,健康医疗"
-    },
-    {
       "raw_hot": 174454,
       "num": 174454,
       "word": "成毅或将演两京十五日",
@@ -7465,14 +7505,6 @@
       "onboard_time": 1750564822,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 171342,
-      "num": 171342,
-      "word": "男生考692分想上清华为芯片做贡献",
-      "onboard_time": 1750861583,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 171260,
@@ -7779,6 +7811,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 164899,
+      "num": 204624,
+      "word": "西绿 假律师",
+      "onboard_time": 1750862723,
+      "rank": 49,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 164889,
       "num": 164889,
       "word": "虞书欣 哪都有人骂不要在意就好了",
@@ -8003,6 +8043,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 161100,
+      "num": 161100,
+      "word": "梁实回应高考未过本科线",
+      "onboard_time": 1750864463,
+      "rank": 36,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 161021,
       "num": 158200,
       "word": "娄艺潇晒labubu",
@@ -8137,6 +8185,14 @@
       "onboard_time": 1750589302,
       "rank": 32,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 158740,
+      "num": 237133,
+      "word": "孙颖莎连续154周排名世界第1",
+      "onboard_time": 1750862064,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 158629,
@@ -9083,6 +9139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143461,
+      "num": 143461,
+      "word": "八路军抗日战场上牺牲的最高指挥员",
+      "onboard_time": 1750864823,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 143442,
       "num": 350287,
       "word": "丈夫逃避交警查车溺亡妻子索赔被驳回",
@@ -9355,14 +9419,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 139609,
-      "num": 139609,
-      "word": "孙颖莎连续154周排名世界第1",
-      "onboard_time": 1750862064,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 139535,
       "num": 139535,
       "word": "王嘉尔竟然和pharrell联名了",
@@ -9409,6 +9465,14 @@
       "onboard_time": 1750779563,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138917,
+      "num": 148965,
+      "word": "牛冠凯分享王楚钦日常训练",
+      "onboard_time": 1750864764,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 138904,
@@ -10547,14 +10611,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 123721,
-      "num": 123721,
-      "word": "西绿 假律师",
-      "onboard_time": 1750862723,
-      "rank": 49,
-      "category": "网红,民生新闻"
-    },
-    {
       "raw_hot": 123603,
       "num": 123603,
       "word": "岭南荔枝",
@@ -10625,6 +10681,14 @@
       "onboard_time": 1750841302,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 122256,
+      "num": 122256,
+      "word": "王俊凯 幸运咖见面会",
+      "onboard_time": 1750865302,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 122099,
@@ -11347,6 +11411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108600,
+      "num": 303433,
+      "word": "学动画为什么推荐吉林动画学院",
+      "onboard_time": 1750864343,
+      "rank": 17,
+      "category": "动漫,教育"
+    },
+    {
       "raw_hot": 108467,
       "num": 267700,
       "word": "以法之名群像爆发力",
@@ -12009,6 +12081,14 @@
       "onboard_time": 1750720460,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 92382,
+      "num": 493663,
+      "word": "多方回应江苏一地建船厂拆迁争议",
+      "onboard_time": 1750863743,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92354,
@@ -12923,6 +13003,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 61014,
+      "num": 144254,
+      "word": "撒贝宁吃了7天前的荔枝",
+      "onboard_time": 1750865003,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 60721,
       "num": 60721,
       "word": "肖战版这世界那么多人好治愈",
@@ -13601,6 +13689,14 @@
       "onboard_time": 1750698139,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 42754,
+      "num": 262858,
+      "word": "伊朗将为丧生指挥官和科学家举行国葬",
+      "onboard_time": 1750864942,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 42609,
@@ -14753,6 +14849,14 @@
       "onboard_time": 1750671683,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 15621,
+      "num": 238919,
+      "word": "细扒时装周上英伦风的胡兵",
+      "onboard_time": 1750863804,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 15303,
