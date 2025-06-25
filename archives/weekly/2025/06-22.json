@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750851583371,
+  "endTime": 1750856087351,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -235,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1672878,
+      "num": 1672878,
+      "word": "言冰云",
+      "onboard_time": 1750847903,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1669029,
       "num": 1669029,
       "word": "买39件衣服不能试穿回家发现穿不上",
@@ -337,6 +345,14 @@
       "onboard_time": 1750645161,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1488786,
+      "num": 1488786,
+      "word": "高考724分女生回应数学满分",
+      "onboard_time": 1750849343,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1470325,
@@ -491,14 +507,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1228403,
-      "num": 1228403,
-      "word": "言冰云",
-      "onboard_time": 1750847903,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1226449,
       "num": 1226449,
       "word": "男孩中考查分863分数学满分",
@@ -569,6 +577,14 @@
       "onboard_time": 1750820422,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1113161,
+      "num": 372732,
+      "word": "徐艺洋一周前曾回应怀孕传闻",
+      "onboard_time": 1750853363,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1110220,
@@ -1203,6 +1219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 705360,
+      "num": 369633,
+      "word": "鹿晗美甲",
+      "onboard_time": 1750850602,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 705214,
       "num": 705214,
       "word": "老爸买下整车labubu送女儿",
@@ -1321,6 +1345,14 @@
       "onboard_time": 1750605085,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 682510,
+      "num": 682510,
+      "word": "首尔地铁纵火案致23伤",
+      "onboard_time": 1750849643,
+      "rank": 27,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 677919,
@@ -2907,14 +2939,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 384354,
-      "num": 493548,
-      "word": "高考724分女生回应数学满分",
-      "onboard_time": 1750849343,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 384125,
       "num": 482790,
       "word": "浙里办可查20年前高考成绩",
@@ -2977,6 +3001,14 @@
       "onboard_time": 1750648581,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 374900,
+      "num": 447910,
+      "word": "男生复读3年高考查分喜极而泣",
+      "onboard_time": 1750849462,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 374696,
@@ -3083,6 +3115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 364813,
+      "num": 364813,
+      "word": "枭起青壤 接档焕羽",
+      "onboard_time": 1750852163,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 360220,
       "num": 360220,
       "word": "美团优选",
@@ -3129,6 +3169,14 @@
       "onboard_time": 1750678105,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 355543,
+      "num": 355543,
+      "word": "叶灵儿 范帅琦",
+      "onboard_time": 1750852763,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 354899,
@@ -3489,6 +3537,14 @@
       "onboard_time": 1750821682,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 329737,
+      "num": 329737,
+      "word": "全班600分以上老师嘴角压不住了",
+      "onboard_time": 1750853121,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 329697,
@@ -3915,14 +3971,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 290177,
-      "num": 290177,
-      "word": "鹿晗美甲",
-      "onboard_time": 1750850602,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 288756,
       "num": 374385,
       "word": "西出玉门",
@@ -4075,6 +4123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 279671,
+      "num": 279671,
+      "word": "江苏暴力拆迁",
+      "onboard_time": 1750849042,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 278426,
       "num": 278426,
       "word": "河北高考出分",
@@ -4177,6 +4233,14 @@
       "onboard_time": 1750643061,
       "rank": 20,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 272146,
+      "num": 272146,
+      "word": "中南财大被曝男子穿女装替考",
+      "onboard_time": 1750854501,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 272126,
@@ -4313,6 +4377,14 @@
       "onboard_time": 1750777524,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 263559,
+      "num": 263559,
+      "word": "桃花映江山热度",
+      "onboard_time": 1750850362,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 263153,
@@ -4489,6 +4561,14 @@
       "onboard_time": 1750648223,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 252308,
+      "num": 252308,
+      "word": "关晓彤海边跑步",
+      "onboard_time": 1750855162,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 252251,
@@ -4745,14 +4825,6 @@
       "onboard_time": 1750577482,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 239729,
-      "num": 239729,
-      "word": "首尔地铁纵火案致23伤",
-      "onboard_time": 1750849643,
-      "rank": 27,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 239097,
@@ -6203,6 +6275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 194781,
+      "num": 252422,
+      "word": "虞书欣白玉兰海外传播优秀案例",
+      "onboard_time": 1750855281,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194707,
       "num": 231299,
       "word": "湖北2.5天休假遇冷",
@@ -6531,14 +6611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 188903,
-      "num": 188903,
-      "word": "江苏暴力拆迁",
-      "onboard_time": 1750849042,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 188775,
       "num": 188775,
       "word": "晋江崩了",
@@ -6667,6 +6739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 186703,
+      "num": 186703,
+      "word": "周杰伦晒3岁小女儿萌照",
+      "onboard_time": 1750855762,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186620,
       "num": 186620,
       "word": "山东高考特控线521分",
@@ -6769,14 +6849,6 @@
       "onboard_time": 1750554321,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 184610,
-      "num": 447910,
-      "word": "男生复读3年高考查分喜极而泣",
-      "onboard_time": 1750849462,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 184576,
@@ -7067,14 +7139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 175454,
-      "num": 175454,
-      "word": "桃花映江山热度",
-      "onboard_time": 1750850362,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 175212,
       "num": 175212,
       "word": "微信 朋友圈编辑功能",
@@ -7097,6 +7161,14 @@
       "onboard_time": 1750653744,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174822,
+      "num": 174822,
+      "word": "外国人总结的中国人特征",
+      "onboard_time": 1750854922,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 174454,
@@ -7915,6 +7987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157361,
+      "num": 157361,
+      "word": "林俊杰抢票",
+      "onboard_time": 1750854380,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 157281,
       "num": 239457,
       "word": "窦昭看了姜桃花都得哭",
@@ -7971,6 +8051,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 156149,
+      "num": 156149,
+      "word": "错换人生28年养母起诉姚策亲生父母",
+      "onboard_time": 1750854443,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156047,
+      "num": 156047,
+      "word": "把事情做绝的人走不长远",
+      "onboard_time": 1750855523,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155596,
       "num": 393953,
       "word": "王俊凯 抽象鼻祖",
@@ -8025,6 +8121,14 @@
       "onboard_time": 1750823184,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 154912,
+      "num": 273982,
+      "word": "梁实将冲刺第30次高考",
+      "onboard_time": 1750854802,
+      "rank": 21,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 154880,
@@ -8627,6 +8731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144846,
+      "num": 144846,
+      "word": "桃黑黑 橙光",
+      "onboard_time": 1750855942,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 144725,
       "num": 183161,
       "word": "遭精神病人杀害教授妻子发声",
@@ -8672,6 +8784,14 @@
       "word": "刘学义等谭松韵 新郎等新娘",
       "onboard_time": 1750661424,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 144296,
+      "num": 144296,
+      "word": "一集哇二集喔三集哇喔",
+      "onboard_time": 1750852882,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -9227,6 +9347,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 136889,
+      "num": 355569,
+      "word": "vivoXFold5人称小MacBook",
+      "onboard_time": 1750853542,
+      "rank": 13,
+      "category": "数码"
+    },
+    {
       "raw_hot": 136856,
       "num": 136856,
       "word": "日本合唱团用歌声痛诉731部队罪行",
@@ -9384,6 +9512,14 @@
       "word": "美国2架B2轰炸机或打击伊朗核设施",
       "onboard_time": 1750512804,
       "rank": 40,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 133168,
+      "num": 133168,
+      "word": "韩国首尔地铁纵火案监控曝光",
+      "onboard_time": 1750853244,
+      "rank": 45,
       "category": "海外新闻"
     },
     {
@@ -9691,6 +9827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129339,
+      "num": 129339,
+      "word": "2.8万元救护车转运相似经历患者发声",
+      "onboard_time": 1750850963,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129278,
       "num": 129278,
       "word": "小米手环10",
@@ -9865,6 +10009,14 @@
       "onboard_time": 1750760242,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 126700,
+      "num": 126700,
+      "word": "雷军坦言非常紧张",
+      "onboard_time": 1750854624,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 126517,
@@ -10425,6 +10577,14 @@
       "onboard_time": 1750672584,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 116468,
+      "num": 156151,
+      "word": "这还是我家余承恩吗",
+      "onboard_time": 1750856064,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 116317,
@@ -11715,6 +11875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84031,
+      "num": 252381,
+      "word": "这届必吃榜到底挖到多少神仙小店",
+      "onboard_time": 1750855643,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 83669,
       "num": 359643,
       "word": "小米Pad7Ultra大屏办公体验实测",
@@ -12867,6 +13035,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 49315,
+      "num": 255200,
+      "word": "WTT美国大满贯中国队参赛名单",
+      "onboard_time": 1750849462,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 49270,
       "num": 344755,
       "word": "绝大部分在伊中国公民已平安撤出",
@@ -13027,6 +13203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44582,
+      "num": 156150,
+      "word": "男生高考多近40分给老师送芹菜和肉",
+      "onboard_time": 1750854742,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44468,
       "num": 455908,
       "word": "南京林业大学在林学上有多权威",
@@ -13097,6 +13281,14 @@
       "onboard_time": 1750674383,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 41938,
+      "num": 280750,
+      "word": "花3万5种牙被拔光牙后诊所跑路",
+      "onboard_time": 1750855343,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41479,
@@ -13441,6 +13633,14 @@
       "onboard_time": 1750827203,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 32205,
+      "num": 355547,
+      "word": "景区回应展示牌和和美美胡乱翻译",
+      "onboard_time": 1750854683,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32030,
@@ -14281,6 +14481,14 @@
       "onboard_time": 1750624393,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 12142,
+      "num": 252315,
+      "word": "美政府寻求月底前与哈佛达成协议",
+      "onboard_time": 1750855403,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 11366,

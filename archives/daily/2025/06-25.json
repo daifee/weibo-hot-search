@@ -1,6 +1,6 @@
 {
   "startTime": 1750782835563,
-  "endTime": 1750851583371,
+  "endTime": 1750856087351,
   "band_list": [
     {
       "raw_hot": 2280074,
@@ -35,6 +35,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1672878,
+      "num": 1672878,
+      "word": "言冰云",
+      "onboard_time": 1750847903,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1593885,
       "num": 1593885,
       "word": "韩安冉晒硕士offer",
@@ -67,6 +75,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 1488786,
+      "num": 1488786,
+      "word": "高考724分女生回应数学满分",
+      "onboard_time": 1750849343,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1467994,
       "num": 1467994,
       "word": "女生高考724分爸爸激动到尖叫",
@@ -91,20 +107,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1228403,
-      "num": 1228403,
-      "word": "言冰云",
-      "onboard_time": 1750847903,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1134062,
       "num": 1181449,
       "word": "广东高考分数线",
       "onboard_time": 1750820422,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1113161,
+      "num": 372732,
+      "word": "徐艺洋一周前曾回应怀孕传闻",
+      "onboard_time": 1750853363,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1110220,
@@ -251,6 +267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 705360,
+      "num": 369633,
+      "word": "鹿晗美甲",
+      "onboard_time": 1750850602,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 702408,
       "num": 489967,
       "word": "父亲家暴烧死母亲案死刑已执行",
@@ -273,6 +297,14 @@
       "onboard_time": 1750821444,
       "rank": 11,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 682510,
+      "num": 682510,
+      "word": "首尔地铁纵火案致23伤",
+      "onboard_time": 1750849643,
+      "rank": 27,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 677919,
@@ -635,14 +667,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 384354,
-      "num": 493548,
-      "word": "高考724分女生回应数学满分",
-      "onboard_time": 1750849343,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 384125,
       "num": 482790,
       "word": "浙里办可查20年前高考成绩",
@@ -667,6 +691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 374900,
+      "num": 447910,
+      "word": "男生复读3年高考查分喜极而泣",
+      "onboard_time": 1750849462,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 372442,
       "num": 517508,
       "word": "王嘉尔撕拉片好权威",
@@ -675,12 +707,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 364813,
+      "num": 364813,
+      "word": "枭起青壤 接档焕羽",
+      "onboard_time": 1750852163,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 361883,
       "num": 361883,
       "word": "张桂源中考623分",
       "onboard_time": 1750769364,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 355543,
+      "num": 355543,
+      "word": "叶灵儿 范帅琦",
+      "onboard_time": 1750852763,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 348088,
@@ -737,6 +785,14 @@
       "onboard_time": 1750821682,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 329737,
+      "num": 329737,
+      "word": "全班600分以上老师嘴角压不住了",
+      "onboard_time": 1750853121,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 326081,
@@ -811,14 +867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 290177,
-      "num": 290177,
-      "word": "鹿晗美甲",
-      "onboard_time": 1750850602,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 285916,
       "num": 285916,
       "word": "王楚钦乒乓球围棋二选一",
@@ -841,6 +889,14 @@
       "onboard_time": 1750831343,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 279671,
+      "num": 279671,
+      "word": "江苏暴力拆迁",
+      "onboard_time": 1750849042,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 278022,
@@ -873,6 +929,14 @@
       "onboard_time": 1750844542,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 272146,
+      "num": 272146,
+      "word": "中南财大被曝男子穿女装替考",
+      "onboard_time": 1750854501,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 271734,
@@ -931,6 +995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 263559,
+      "num": 263559,
+      "word": "桃花映江山热度",
+      "onboard_time": 1750850362,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 262747,
       "num": 262747,
       "word": "人民文娱评酱园弄悬案",
@@ -960,6 +1032,14 @@
       "word": "林志颖儿子kimi现在好帅",
       "onboard_time": 1750755143,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 252308,
+      "num": 252308,
+      "word": "关晓彤海边跑步",
+      "onboard_time": 1750855162,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -993,14 +1073,6 @@
       "onboard_time": 1750835422,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 239729,
-      "num": 239729,
-      "word": "首尔地铁纵火案致23伤",
-      "onboard_time": 1750849643,
-      "rank": 27,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 235842,
@@ -1283,6 +1355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194781,
+      "num": 252422,
+      "word": "虞书欣白玉兰海外传播优秀案例",
+      "onboard_time": 1750855281,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194429,
       "num": 236246,
       "word": "张译新剧人设又怂又刚",
@@ -1363,14 +1443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 188903,
-      "num": 188903,
-      "word": "江苏暴力拆迁",
-      "onboard_time": 1750849042,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 188125,
       "num": 215704,
       "word": "中韩男明星看秀外网生图",
@@ -1411,6 +1483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 186703,
+      "num": 186703,
+      "word": "周杰伦晒3岁小女儿萌照",
+      "onboard_time": 1750855762,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186620,
       "num": 186620,
       "word": "山东高考特控线521分",
@@ -1433,14 +1513,6 @@
       "onboard_time": 1750826604,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 184610,
-      "num": 447910,
-      "word": "男生复读3年高考查分喜极而泣",
-      "onboard_time": 1750849462,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 184576,
@@ -1467,14 +1539,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 175454,
-      "num": 175454,
-      "word": "桃花映江山热度",
-      "onboard_time": 1750850362,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 175427,
       "num": 175427,
       "word": "花开锦绣",
@@ -1489,6 +1553,14 @@
       "onboard_time": 1750827922,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 174822,
+      "num": 174822,
+      "word": "外国人总结的中国人特征",
+      "onboard_time": 1750854922,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 174096,
@@ -1651,12 +1723,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157361,
+      "num": 157361,
+      "word": "林俊杰抢票",
+      "onboard_time": 1750854380,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 156149,
+      "num": 156149,
+      "word": "错换人生28年养母起诉姚策亲生父母",
+      "onboard_time": 1750854443,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156047,
+      "num": 156047,
+      "word": "把事情做绝的人走不长远",
+      "onboard_time": 1750855523,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155049,
       "num": 155049,
       "word": "世界之外",
       "onboard_time": 1750823184,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 154912,
+      "num": 273982,
+      "word": "梁实将冲刺第30次高考",
+      "onboard_time": 1750854802,
+      "rank": 21,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 154764,
@@ -1819,6 +1923,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 144846,
+      "num": 144846,
+      "word": "桃黑黑 橙光",
+      "onboard_time": 1750855942,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 144296,
+      "num": 144296,
+      "word": "一集哇二集喔三集哇喔",
+      "onboard_time": 1750852882,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144074,
       "num": 144074,
       "word": "山西分数线",
@@ -1963,6 +2083,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 136889,
+      "num": 355569,
+      "word": "vivoXFold5人称小MacBook",
+      "onboard_time": 1750853542,
+      "rank": 13,
+      "category": "数码"
+    },
+    {
       "raw_hot": 136856,
       "num": 136856,
       "word": "日本合唱团用歌声痛诉731部队罪行",
@@ -2001,6 +2129,14 @@
       "onboard_time": 1750820721,
       "rank": 9,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 133168,
+      "num": 133168,
+      "word": "韩国首尔地铁纵火案监控曝光",
+      "onboard_time": 1750853244,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 133151,
@@ -2091,6 +2227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129339,
+      "num": 129339,
+      "word": "2.8万元救护车转运相似经历患者发声",
+      "onboard_time": 1750850963,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129278,
       "num": 129278,
       "word": "小米手环10",
@@ -2137,6 +2281,14 @@
       "onboard_time": 1750838482,
       "rank": 34,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 126700,
+      "num": 126700,
+      "word": "雷军坦言非常紧张",
+      "onboard_time": 1750854624,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 126223,
@@ -2273,6 +2425,14 @@
       "onboard_time": 1750837762,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 116468,
+      "num": 156151,
+      "word": "这还是我家余承恩吗",
+      "onboard_time": 1750856064,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 116225,
@@ -2651,6 +2811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84031,
+      "num": 252381,
+      "word": "这届必吃榜到底挖到多少神仙小店",
+      "onboard_time": 1750855643,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 83669,
       "num": 359643,
       "word": "小米Pad7Ultra大屏办公体验实测",
@@ -3003,6 +3171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49315,
+      "num": 255200,
+      "word": "WTT美国大满贯中国队参赛名单",
+      "onboard_time": 1750849462,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48949,
       "num": 184230,
       "word": "再看文科无用论",
@@ -3027,6 +3203,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 44582,
+      "num": 156150,
+      "word": "男生高考多近40分给老师送芹菜和肉",
+      "onboard_time": 1750854742,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44152,
       "num": 309596,
       "word": "为什么说学石油首选石大华东",
@@ -3039,6 +3223,14 @@
       "num": 301944,
       "word": "好友借8.5万拒不还款法院上门执行",
       "onboard_time": 1750843344,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41938,
+      "num": 280750,
+      "word": "花3万5种牙被拔光牙后诊所跑路",
+      "onboard_time": 1750855343,
       "rank": 19,
       "category": "民生新闻"
     },
@@ -3113,6 +3305,14 @@
       "onboard_time": 1750827203,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 32205,
+      "num": 355547,
+      "word": "景区回应展示牌和和美美胡乱翻译",
+      "onboard_time": 1750854683,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31641,
@@ -3313,6 +3513,14 @@
       "onboard_time": 1750822883,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 12142,
+      "num": 252315,
+      "word": "美政府寻求月底前与哈佛达成协议",
+      "onboard_time": 1750855403,
+      "rank": 29,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
