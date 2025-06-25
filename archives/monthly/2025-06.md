@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/25 21:10:23
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/25 21:40:11
 </p>
 </blockquote>
 <p>
@@ -915,6 +915,12 @@ iOS26 丑（热度：2160228）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83724%E5%88%86%E5%A5%B3%E7%94%9F%E5%9B%9E%E5%BA%94%E6%95%B0%E5%AD%A6%E6%BB%A1%E5%88%86%23" target="weibo">
+高考724分女生回应数学满分（热度：1861033）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%20%E7%B4%A7%E5%BC%A0%23" target="weibo">
 高考查分 紧张（热度：1849384）
 </a>
@@ -1325,12 +1331,6 @@ GAI是不是想走了（热度：1689581）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E6%99%8B%E7%BA%A7%E6%B3%95%E7%BD%918%E5%BC%BA%23" target="weibo">
 郑钦文晋级法网8强（热度：1600181）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83724%E5%88%86%E5%A5%B3%E7%94%9F%E5%9B%9E%E5%BA%94%E6%95%B0%E5%AD%A6%E6%BB%A1%E5%88%86%23" target="weibo">
-高考724分女生回应数学满分（热度：1599478）
 </a>
 </li>
 
@@ -4209,6 +4209,12 @@ AL战胜BLG（热度：859667）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%8D%97%E8%B4%A2%E5%A4%A7%E8%A2%AB%E6%9B%9D%E7%94%B7%E5%AD%90%E7%A9%BF%E5%A5%B3%E8%A3%85%E6%9B%BF%E8%80%83%23" target="weibo">
+中南财大被曝男子穿女装替考（热度：857899）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8D%B3%E5%B0%86%E6%B6%88%E5%A4%B1%E7%9A%84%E6%B2%99%E6%BC%A0%23" target="weibo">
 全球第一个即将消失的沙漠（热度：857560）
 </a>
@@ -6005,12 +6011,6 @@ EDG申请执行Scout3351万（热度：690406）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%B4%E6%B1%9F%E4%BB%99%E7%BB%93%E5%B1%80%23" target="weibo">
 临江仙结局（热度：685305）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%BB%84%E7%9F%B3%E5%85%AC%E5%9B%AD%E8%BD%A6%E7%A5%B8%E8%87%B4%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%915%E6%AD%BB8%E4%BC%A4%23" target="weibo">
-美国黄石公园车祸致中国公民5死8伤（热度：685203）
 </a>
 </li>
 

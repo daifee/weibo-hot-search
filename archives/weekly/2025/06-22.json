@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750857023215,
+  "endTime": 1750858811224,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -179,6 +179,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 1861033,
+      "num": 1861033,
+      "word": "高考724分女生回应数学满分",
+      "onboard_time": 1750849343,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1849384,
       "num": 1849384,
       "word": "高考查分 紧张",
@@ -281,14 +289,6 @@
       "onboard_time": 1750646242,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1599478,
-      "num": 1599478,
-      "word": "高考724分女生回应数学满分",
-      "onboard_time": 1750849343,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1598220,
@@ -580,7 +580,7 @@
     },
     {
       "raw_hot": 1113161,
-      "num": 372732,
+      "num": 467557,
       "word": "徐艺洋一周前曾回应怀孕传闻",
       "onboard_time": 1750853363,
       "rank": 10,
@@ -872,6 +872,14 @@
       "word": "男生高考643分姐姐说更多的是心疼",
       "onboard_time": 1750759402,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 857899,
+      "num": 857899,
+      "word": "中南财大被曝男子穿女装替考",
+      "onboard_time": 1750854501,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -1220,7 +1228,7 @@
     },
     {
       "raw_hot": 705360,
-      "num": 369633,
+      "num": 467292,
       "word": "鹿晗美甲",
       "onboard_time": 1750850602,
       "rank": 42,
@@ -2139,6 +2147,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 494426,
+      "num": 494426,
+      "word": "叶灵儿 范帅琦",
+      "onboard_time": 1750852763,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 491934,
       "num": 362047,
       "word": "宋佳 陈龙",
@@ -2169,6 +2185,14 @@
       "onboard_time": 1750596022,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 489032,
+      "num": 466913,
+      "word": "周杰伦晒3岁小女儿萌照",
+      "onboard_time": 1750855762,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 488555,
@@ -2323,6 +2347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 468280,
+      "num": 468280,
+      "word": "全班600分以上老师嘴角压不住了",
+      "onboard_time": 1750853121,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 467788,
       "num": 467788,
       "word": "中国冥币在海外杀疯老外烧个不停",
@@ -2337,6 +2369,14 @@
       "onboard_time": 1750808121,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 466865,
+      "num": 466865,
+      "word": "桃黑黑 橙光",
+      "onboard_time": 1750855942,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 465536,
@@ -2923,14 +2963,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 385349,
-      "num": 385349,
-      "word": "全班600分以上老师嘴角压不住了",
-      "onboard_time": 1750853121,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 385106,
       "num": 385106,
       "word": "美CIA发中文视频招间谍",
@@ -3145,14 +3177,6 @@
       "onboard_time": 1750641801,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 359229,
-      "num": 359229,
-      "word": "叶灵儿 范帅琦",
-      "onboard_time": 1750852763,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 359130,
@@ -3707,6 +3731,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 313199,
+      "num": 313199,
+      "word": "关晓彤海边跑步",
+      "onboard_time": 1750855162,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 312052,
       "num": 248405,
       "word": "美国女子地铁轨道如厕被列车夹死",
@@ -4083,14 +4115,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 283154,
-      "num": 283154,
-      "word": "中南财大被曝男子穿女装替考",
-      "onboard_time": 1750854501,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 283093,
       "num": 283093,
       "word": "救助百名弃婴的道禄被传涉案",
@@ -4153,6 +4177,14 @@
       "onboard_time": 1750826065,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 277607,
+      "num": 309949,
+      "word": "桃花映江山热度",
+      "onboard_time": 1750850362,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 276277,
@@ -4257,14 +4289,6 @@
       "onboard_time": 1750682783,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 270902,
-      "num": 270902,
-      "word": "周杰伦晒3岁小女儿萌照",
-      "onboard_time": 1750855762,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 269393,
@@ -4379,28 +4403,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 264130,
-      "num": 264130,
-      "word": "桃黑黑 橙光",
-      "onboard_time": 1750855942,
-      "rank": 43,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 264014,
       "num": 264014,
       "word": "婚内强奸案当事人已离婚",
       "onboard_time": 1750777524,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 263559,
-      "num": 263559,
-      "word": "桃花映江山热度",
-      "onboard_time": 1750850362,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 263153,
@@ -4577,14 +4585,6 @@
       "onboard_time": 1750648223,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 252308,
-      "num": 252308,
-      "word": "关晓彤海边跑步",
-      "onboard_time": 1750855162,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 252251,
@@ -5289,6 +5289,14 @@
       "onboard_time": 1750605204,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 218443,
+      "num": 316983,
+      "word": "四川一高校研究生发表地域歧视言论",
+      "onboard_time": 1750856543,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 217892,
@@ -6995,6 +7003,30 @@
       "category": "艺人,辟谣/通报"
     },
     {
+      "raw_hot": 181214,
+      "num": 286879,
+      "word": "错换人生28年养母起诉姚策亲生父母",
+      "onboard_time": 1750854443,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181017,
+      "num": 181017,
+      "word": "刘美含的宠物蜥蜴去世",
+      "onboard_time": 1750856243,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 180988,
+      "num": 229293,
+      "word": "vivoXFold5打开苹果用户新世界",
+      "onboard_time": 1750858583,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
       "raw_hot": 180398,
       "num": 180398,
       "word": "美国警示可能发生恐袭",
@@ -8075,14 +8107,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 156149,
-      "num": 156149,
-      "word": "错换人生28年养母起诉姚策亲生父母",
-      "onboard_time": 1750854443,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 156047,
       "num": 156047,
       "word": "把事情做绝的人走不长远",
@@ -8377,6 +8401,14 @@
       "onboard_time": 1750822282,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150181,
+      "num": 150181,
+      "word": "刘学义配音 不贴脸",
+      "onboard_time": 1750856904,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 149890,
@@ -8691,14 +8723,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 146242,
-      "num": 146242,
-      "word": "刘美含的宠物蜥蜴去世",
-      "onboard_time": 1750856243,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 146168,
       "num": 146168,
       "word": "男子奸杀7岁女童前欠网货心生烦躁",
@@ -8801,6 +8825,14 @@
       "onboard_time": 1750669463,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 144393,
+      "num": 144393,
+      "word": "刘强东出现在夏季达沃斯会场",
+      "onboard_time": 1750857802,
+      "rank": 42,
+      "category": "互联网,体育"
     },
     {
       "raw_hot": 144343,
@@ -9012,7 +9044,7 @@
     },
     {
       "raw_hot": 142037,
-      "num": 204469,
+      "num": 295910,
       "word": "贾冰天选苹果搭子vivoXFold5",
       "onboard_time": 1750856782,
       "rank": 31,
@@ -9145,6 +9177,14 @@
       "onboard_time": 1750676848,
       "rank": 44,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 139436,
+      "num": 139436,
+      "word": "下药一秒钟做恨三分钟",
+      "onboard_time": 1750858043,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 139262,
@@ -9291,6 +9331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137835,
+      "num": 225705,
+      "word": "vivoXFold5折叠屏影像不打折",
+      "onboard_time": 1750858524,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 137828,
       "num": 137828,
       "word": "张朝阳张雪峰称填志愿要打破信息茧房",
@@ -9401,6 +9449,14 @@
       "onboard_time": 1750756344,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 136397,
+      "num": 467744,
+      "word": "高校回应学生疑被发现男扮女装替考",
+      "onboard_time": 1750858225,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136382,
@@ -9891,6 +9947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128765,
+      "num": 128765,
+      "word": "王钰栋伤退",
+      "onboard_time": 1750858403,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128724,
       "num": 321159,
       "word": "贵州榕江县城最大商场被洪水淹没",
@@ -10107,6 +10171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 125823,
+      "num": 125823,
+      "word": "下班后要看这种好东西",
+      "onboard_time": 1750858583,
+      "rank": 46,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 125742,
       "num": 938396,
       "word": "抗战胜利80周年纪念活动安排一文速览",
@@ -10201,6 +10273,14 @@
       "onboard_time": 1750605744,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124831,
+      "num": 239442,
+      "word": "一等功女站长坚守7年露脸缉毒",
+      "onboard_time": 1750857802,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124346,
@@ -10467,6 +10547,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 119848,
+      "num": 119848,
+      "word": "714分考生妈妈查分前梦到考了714分",
+      "onboard_time": 1750857865,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119794,
       "num": 119794,
       "word": "考公慎选的五大专业",
@@ -10588,7 +10676,7 @@
     },
     {
       "raw_hot": 116772,
-      "num": 116772,
+      "num": 266484,
       "word": "韩安冉回应晒硕士offer",
       "onboard_time": 1750856782,
       "rank": 45,
@@ -10763,6 +10851,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 114192,
+      "num": 232491,
+      "word": "折叠屏手机能兼顾轻薄和影像吗",
+      "onboard_time": 1750856723,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 114123,
       "num": 114916,
       "word": "上海申花晋级足协杯八强",
@@ -10793,14 +10889,6 @@
       "onboard_time": 1750682303,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 113575,
-      "num": 222685,
-      "word": "折叠屏手机能兼顾轻薄和影像吗",
-      "onboard_time": 1750856723,
-      "rank": 26,
-      "category": "数码"
     },
     {
       "raw_hot": 113175,
@@ -11249,14 +11337,6 @@
       "onboard_time": 1750649542,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 104660,
-      "num": 104660,
-      "word": "刘学义配音 不贴脸",
-      "onboard_time": 1750856904,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 104549,
@@ -12393,14 +12473,6 @@
       "onboard_time": 1750694242,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 70130,
-      "num": 316983,
-      "word": "四川一高校研究生发表地域歧视言论",
-      "onboard_time": 1750856543,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 69813,
@@ -14009,6 +14081,14 @@
       "onboard_time": 1750702995,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 26392,
+      "num": 958196,
+      "word": "潮起渤海网聚黄蓝",
+      "onboard_time": 1750857323,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 26387,

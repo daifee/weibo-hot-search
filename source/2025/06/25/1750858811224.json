@@ -1,0 +1,410 @@
+{
+  "runTime": 1750858811224,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1861033,
+        "num": 1861033,
+        "word": "高考724分女生回应数学满分",
+        "onboard_time": 1750849343,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1407806,
+        "num": 1407806,
+        "word": "言冰云",
+        "onboard_time": 1750847903,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26392,
+        "num": 958196,
+        "word": "潮起渤海网聚黄蓝",
+        "onboard_time": 1750857323,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 857899,
+        "num": 857899,
+        "word": "中南财大被曝男子穿女装替考",
+        "onboard_time": 1750854501,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 705100,
+        "num": 705100,
+        "word": "庆余年3刘端端 换角",
+        "onboard_time": 1750839682,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 634611,
+        "num": 634611,
+        "word": "首尔地铁纵火案致23伤",
+        "onboard_time": 1750849643,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 494426,
+        "num": 494426,
+        "word": "叶灵儿 范帅琦",
+        "onboard_time": 1750852763,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 468280,
+        "num": 468280,
+        "word": "全班600分以上老师嘴角压不住了",
+        "onboard_time": 1750853121,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272822,
+        "num": 468119,
+        "word": "伊朗防长现身青岛",
+        "onboard_time": 1750847422,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136397,
+        "num": 467744,
+        "word": "高校回应学生疑被发现男扮女装替考",
+        "onboard_time": 1750858225,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1003335,
+        "num": 467557,
+        "word": "徐艺洋一周前曾回应怀孕传闻",
+        "onboard_time": 1750853363,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 650254,
+        "num": 467292,
+        "word": "鹿晗美甲",
+        "onboard_time": 1750850602,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 489032,
+        "num": 466913,
+        "word": "周杰伦晒3岁小女儿萌照",
+        "onboard_time": 1750855762,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 466865,
+        "num": 466865,
+        "word": "桃黑黑 橙光",
+        "onboard_time": 1750855942,
+        "rank": 13,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 313199,
+        "num": 313199,
+        "word": "关晓彤海边跑步",
+        "onboard_time": 1750855162,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277607,
+        "num": 309949,
+        "word": "桃花映江山热度",
+        "onboard_time": 1750850362,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249360,
+        "num": 309209,
+        "word": "枭起青壤 接档焕羽",
+        "onboard_time": 1750852163,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308922,
+        "num": 308922,
+        "word": "梅森马吉拉 孙颖莎",
+        "onboard_time": 1750847362,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93976,
+        "num": 295910,
+        "word": "贾冰天选苹果搭子vivoXFold5",
+        "onboard_time": 1750856782,
+        "rank": 18,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 181214,
+        "num": 286879,
+        "word": "错换人生28年养母起诉姚策亲生父母",
+        "onboard_time": 1750854443,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102599,
+        "num": 266484,
+        "word": "韩安冉回应晒硕士offer",
+        "onboard_time": 1750856782,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 354001,
+        "num": 259837,
+        "word": "梁实高考454分",
+        "onboard_time": 1750848503,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251426,
+        "num": 251426,
+        "word": "女生高考724分爸爸激动到尖叫",
+        "onboard_time": 1750847722,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240994,
+        "num": 240994,
+        "word": "女生估分450考了538激动泪崩",
+        "onboard_time": 1750846642,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124831,
+        "num": 239442,
+        "word": "一等功女站长坚守7年露脸缉毒",
+        "onboard_time": 1750857802,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93375,
+        "num": 237147,
+        "word": "这届必吃榜到底挖到多少神仙小店",
+        "onboard_time": 1750855643,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 114192,
+        "num": 232491,
+        "word": "折叠屏手机能兼顾轻薄和影像吗",
+        "onboard_time": 1750856723,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 180988,
+        "num": 229293,
+        "word": "vivoXFold5打开苹果用户新世界",
+        "onboard_time": 1750858583,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 137835,
+        "num": 225705,
+        "word": "vivoXFold5折叠屏影像不打折",
+        "onboard_time": 1750858524,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 126709,
+        "num": 224819,
+        "word": "vivoXFold5人称小MacBook",
+        "onboard_time": 1750853542,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 222076,
+        "num": 222076,
+        "word": "张元英转圈又火了",
+        "onboard_time": 1750842321,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 218443,
+        "num": 218443,
+        "word": "四川一高校研究生发表地域歧视言论",
+        "onboard_time": 1750856543,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206182,
+        "num": 206182,
+        "word": "暴雨暴雨注意暴雨暴雨",
+        "onboard_time": 1750841723,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201902,
+        "num": 201902,
+        "word": "孕妇1天2杯奶茶致早产孩子仅3斤2两",
+        "onboard_time": 1750840282,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181017,
+        "num": 181017,
+        "word": "刘美含的宠物蜥蜴去世",
+        "onboard_time": 1750856243,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173366,
+        "num": 173366,
+        "word": "李昀锐包场是孟子义生日",
+        "onboard_time": 1750850003,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167725,
+        "num": 167725,
+        "word": "外国人总结的中国人特征",
+        "onboard_time": 1750854922,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164263,
+        "num": 164263,
+        "word": "男生复读3年高考查分喜极而泣",
+        "onboard_time": 1750849462,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160002,
+        "num": 160002,
+        "word": "这还是我家余承恩吗",
+        "onboard_time": 1750856064,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151935,
+        "num": 151935,
+        "word": "健身房 脏",
+        "onboard_time": 1750834104,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150181,
+        "num": 150181,
+        "word": "刘学义配音 不贴脸",
+        "onboard_time": 1750856904,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149559,
+        "num": 149559,
+        "word": "叶灵儿 换人",
+        "onboard_time": 1750849882,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144393,
+        "num": 144393,
+        "word": "刘强东出现在夏季达沃斯会场",
+        "onboard_time": 1750857802,
+        "rank": 42,
+        "category": "互联网,体育"
+      },
+      {
+        "raw_hot": 143719,
+        "num": 143719,
+        "word": "侯鸿亮晒肖战杨紫剧照",
+        "onboard_time": 1750837703,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139436,
+        "num": 139436,
+        "word": "下药一秒钟做恨三分钟",
+        "onboard_time": 1750858043,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128765,
+        "num": 128765,
+        "word": "王钰栋伤退",
+        "onboard_time": 1750858403,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125823,
+        "num": 125823,
+        "word": "下班后要看这种好东西",
+        "onboard_time": 1750858583,
+        "rank": 46,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 123591,
+        "num": 123591,
+        "word": "江苏暴力拆迁",
+        "onboard_time": 1750849042,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119848,
+        "num": 119848,
+        "word": "714分考生妈妈查分前梦到考了714分",
+        "onboard_time": 1750857865,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53547,
+        "num": 119462,
+        "word": "别让你的脸成了试验田",
+        "onboard_time": 1750856603,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记对土地的深情#"
+    }
+  }
+}
