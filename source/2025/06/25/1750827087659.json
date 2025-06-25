@@ -1,0 +1,402 @@
+{
+  "runTime": 1750827087659,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1526401,
+        "num": 1526401,
+        "word": "河南女生高考288分全家欢呼",
+        "onboard_time": 1750823602,
+        "rank": 0,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 774757,
+        "num": 774757,
+        "word": "高考成绩",
+        "onboard_time": 1750812863,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 619815,
+        "num": 619815,
+        "word": "广东高考分数线",
+        "onboard_time": 1750820422,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 537042,
+        "num": 537042,
+        "word": "酱园弄堆砌明星不等于好电影",
+        "onboard_time": 1750825705,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 476653,
+        "num": 476653,
+        "word": "查分查出隐藏款老师瞬间沸腾",
+        "onboard_time": 1750820542,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 425091,
+        "num": 425091,
+        "word": "陕西高考分数线",
+        "onboard_time": 1750824804,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 338196,
+        "num": 410418,
+        "word": "终于切身体会到什么是莞莞类卿了",
+        "onboard_time": 1750824804,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 400933,
+        "num": 400933,
+        "word": "北京高考698分以上113人",
+        "onboard_time": 1750820482,
+        "rank": 8,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 154673,
+        "num": 389778,
+        "word": "国台办回应台北故宫与美博物馆合作",
+        "onboard_time": 1750826425,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1389999,
+        "num": 375866,
+        "word": "高考611分女生体检不合格恐无法入学",
+        "onboard_time": 1750820182,
+        "rank": 10,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 1005969,
+        "num": 370712,
+        "word": "台北故宫与美国合作不与北京合作",
+        "onboard_time": 1750824863,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 594448,
+        "num": 344476,
+        "word": "不胖和好瘦的区别",
+        "onboard_time": 1750821444,
+        "rank": 12,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 340843,
+        "num": 340843,
+        "word": "双胞胎高考哥哥680分妹妹710分",
+        "onboard_time": 1750819221,
+        "rank": 13,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 90745,
+        "num": 338574,
+        "word": "不吸烟的亚洲女性为什么肺癌高发",
+        "onboard_time": 1750826065,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338494,
+        "num": 338494,
+        "word": "newjeans确定禁止独立活动",
+        "onboard_time": 1750821924,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335918,
+        "num": 335918,
+        "word": "湖北高考首次出现高分屏蔽考生",
+        "onboard_time": 1750819640,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 291514,
+        "num": 291514,
+        "word": "伊朗宣告战争结束重建工作开启",
+        "onboard_time": 1750808121,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 290433,
+        "num": 290433,
+        "word": "张凌赫王楚然 男帅女美",
+        "onboard_time": 1750817241,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212056,
+        "num": 289298,
+        "word": "王嘉尔撕拉片好权威",
+        "onboard_time": 1750818861,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321338,
+        "num": 289266,
+        "word": "金价",
+        "onboard_time": 1750817720,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 289008,
+        "num": 289008,
+        "word": "千年武则天无字碑加盖引争议",
+        "onboard_time": 1750816040,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278022,
+        "num": 278022,
+        "word": "方媛三胎近况",
+        "onboard_time": 1750826065,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295768,
+        "num": 277700,
+        "word": "张凌赫首部民国男主",
+        "onboard_time": 1750823484,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276400,
+        "num": 276400,
+        "word": "睡满8小时和6小时的区别",
+        "onboard_time": 1750822762,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 239518,
+        "num": 239518,
+        "word": "轻度抑郁症的真实表现",
+        "onboard_time": 1750823784,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 194429,
+        "num": 236246,
+        "word": "张译新剧人设又怂又刚",
+        "onboard_time": 1750825945,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235842,
+        "num": 235842,
+        "word": "领导的朋友圈不要随便评论",
+        "onboard_time": 1750824384,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185177,
+        "num": 229113,
+        "word": "古言终于把事业脑还给女主了",
+        "onboard_time": 1750826604,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38131,
+        "num": 227314,
+        "word": "12年骨折7次的玻璃娃娃高考621分",
+        "onboard_time": 1750826485,
+        "rank": 29,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 226741,
+        "num": 226741,
+        "word": "全球第一个即将消失的沙漠",
+        "onboard_time": 1750808481,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 225323,
+        "num": 225323,
+        "word": "男子聚餐后冻死街边家属诉同事被驳",
+        "onboard_time": 1750821203,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195218,
+        "num": 195218,
+        "word": "小婉自曝整容",
+        "onboard_time": 1750779443,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 183882,
+        "num": 183882,
+        "word": "吴敬平说陪你战洛奥",
+        "onboard_time": 1750821682,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183291,
+        "num": 183291,
+        "word": "韦雪说小儿子去秦奋家叫回家",
+        "onboard_time": 1750813163,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 180807,
+        "num": 180807,
+        "word": "浙江高考成绩",
+        "onboard_time": 1750825104,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 179083,
+        "num": 179083,
+        "word": "山东分数线",
+        "onboard_time": 1750825766,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 178505,
+        "num": 178505,
+        "word": "美国女子地铁轨道如厕被列车夹死",
+        "onboard_time": 1750816102,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 174893,
+        "num": 174893,
+        "word": "高考成绩屏蔽",
+        "onboard_time": 1750821142,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 166248,
+        "num": 166248,
+        "word": "蜜雪冰城创始人晋升河南新首富",
+        "onboard_time": 1750818982,
+        "rank": 39,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 164066,
+        "num": 164066,
+        "word": "江西高考分数线",
+        "onboard_time": 1750814662,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 162681,
+        "num": 162681,
+        "word": "电影小白船定档",
+        "onboard_time": 1750822042,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151568,
+        "num": 151568,
+        "word": "养出一个博士一个硕士的真实感受",
+        "onboard_time": 1750825345,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149554,
+        "num": 149554,
+        "word": "哇唧唧哇硬刚晋江",
+        "onboard_time": 1750808000,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148094,
+        "num": 148094,
+        "word": "毛晓彤五部待播剧五个赛道",
+        "onboard_time": 1750824984,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145177,
+        "num": 145177,
+        "word": "特朗普希望中国从美国购买石油",
+        "onboard_time": 1750810461,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 144705,
+        "num": 144705,
+        "word": "前国乒名将创业变网红",
+        "onboard_time": 1750823423,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135007,
+        "num": 135007,
+        "word": "湖北一个班3个学生成绩被屏蔽",
+        "onboard_time": 1750824082,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133656,
+        "num": 133656,
+        "word": "我愿称这为快递员圈颜值天花板",
+        "onboard_time": 1750825465,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119409,
+        "num": 119409,
+        "word": "我选李一桐新剧做我暑假解药",
+        "onboard_time": 1750826903,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温10年前阅兵现场依然震撼#"
+    }
+  }
+}

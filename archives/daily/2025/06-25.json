@@ -1,6 +1,6 @@
 {
   "startTime": 1750782835563,
-  "endTime": 1750826176590,
+  "endTime": 1750827087659,
   "band_list": [
     {
       "raw_hot": 1939482,
@@ -11,8 +11,8 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 1391174,
-      "num": 1391174,
+      "raw_hot": 1526401,
+      "num": 1526401,
       "word": "河南女生高考288分全家欢呼",
       "onboard_time": 1750823602,
       "rank": 11,
@@ -49,6 +49,14 @@
       "onboard_time": 1750813163,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1005969,
+      "num": 490260,
+      "word": "台北故宫与美国合作不与北京合作",
+      "onboard_time": 1750824863,
+      "rank": 10,
+      "category": "国内时政"
     },
     {
       "raw_hot": 934301,
@@ -123,14 +131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 585976,
-      "num": 490260,
-      "word": "台北故宫与美国合作不与北京合作",
-      "onboard_time": 1750824863,
-      "rank": 10,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 559760,
       "num": 833467,
       "word": "港媒曝姜涛服食药物跳海",
@@ -145,6 +145,14 @@
       "onboard_time": 1750810461,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 537042,
+      "num": 537042,
+      "word": "酱园弄堆砌明星不等于好电影",
+      "onboard_time": 1750825705,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 525129,
@@ -315,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 338196,
+      "num": 410418,
+      "word": "终于切身体会到什么是莞莞类卿了",
+      "onboard_time": 1750824804,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 330782,
       "num": 297817,
       "word": "男子殴打妻子后发生性关系被告强奸",
@@ -379,12 +395,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 295768,
+      "num": 277700,
+      "word": "张凌赫首部民国男主",
+      "onboard_time": 1750823484,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 283093,
       "num": 283093,
       "word": "救助百名弃婴的道禄被传涉案",
       "onboard_time": 1750782081,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 278022,
+      "num": 278022,
+      "word": "方媛三胎近况",
+      "onboard_time": 1750826065,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 276400,
+      "num": 276400,
+      "word": "睡满8小时和6小时的区别",
+      "onboard_time": 1750822762,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 275255,
@@ -419,28 +459,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 265134,
-      "num": 265134,
-      "word": "张凌赫首部民国男主",
-      "onboard_time": 1750823484,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 264014,
       "num": 264014,
       "word": "婚内强奸案当事人已离婚",
       "onboard_time": 1750777524,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 263215,
-      "num": 282902,
-      "word": "终于切身体会到什么是莞莞类卿了",
-      "onboard_time": 1750824804,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 262747,
@@ -475,12 +499,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 243573,
-      "num": 243573,
-      "word": "睡满8小时和6小时的区别",
-      "onboard_time": 1750822762,
-      "rank": 37,
-      "category": "健康医疗"
+      "raw_hot": 235842,
+      "num": 235842,
+      "word": "领导的朋友圈不要随便评论",
+      "onboard_time": 1750824384,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 230514,
@@ -505,14 +529,6 @@
       "onboard_time": 1750780222,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 222379,
-      "num": 281386,
-      "word": "酱园弄堆砌明星不等于好电影",
-      "onboard_time": 1750825705,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 219007,
@@ -579,6 +595,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 194429,
+      "num": 236246,
+      "word": "张译新剧人设又怂又刚",
+      "onboard_time": 1750825945,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194114,
       "num": 194114,
       "word": "广东本科线物理436分历史464分",
@@ -643,12 +667,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 185177,
+      "num": 229113,
+      "word": "古言终于把事业脑还给女主了",
+      "onboard_time": 1750826604,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184576,
       "num": 184576,
       "word": "韩安冉9个月小女儿玩滑板",
       "onboard_time": 1750779923,
       "rank": 26,
       "category": "网红"
+    },
+    {
+      "raw_hot": 180807,
+      "num": 180807,
+      "word": "浙江高考成绩",
+      "onboard_time": 1750825104,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 179113,
@@ -659,20 +699,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 179083,
+      "num": 179083,
+      "word": "山东分数线",
+      "onboard_time": 1750825766,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 178012,
       "num": 178012,
       "word": "恋与深空",
       "onboard_time": 1750825825,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 175965,
-      "num": 175965,
-      "word": "领导的朋友圈不要随便评论",
-      "onboard_time": 1750824384,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 175427,
@@ -699,22 +739,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 170854,
-      "num": 170854,
-      "word": "山东分数线",
-      "onboard_time": 1750825766,
-      "rank": 36,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 166511,
-      "num": 176275,
-      "word": "张译新剧人设又怂又刚",
-      "onboard_time": 1750825945,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 162153,
       "num": 162153,
       "word": "让体脂下降的30个小方法",
@@ -723,28 +747,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 161140,
-      "num": 161140,
-      "word": "浙江高考成绩",
-      "onboard_time": 1750825104,
-      "rank": 43,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 155141,
-      "num": 155141,
-      "word": "方媛三胎近况",
-      "onboard_time": 1750826065,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 155049,
       "num": 155049,
       "word": "世界之外",
       "onboard_time": 1750823184,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 154673,
+      "num": 389778,
+      "word": "国台办回应台北故宫与美博物馆合作",
+      "onboard_time": 1750826425,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153005,
@@ -763,6 +779,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 151568,
+      "num": 151568,
+      "word": "养出一个博士一个硕士的真实感受",
+      "onboard_time": 1750825345,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150250,
       "num": 150250,
       "word": "鸿蒙技术人才缺口近百万人",
@@ -777,6 +801,14 @@
       "onboard_time": 1750825465,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 148094,
+      "num": 148094,
+      "word": "毛晓彤五部待播剧五个赛道",
+      "onboard_time": 1750824984,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 147175,
@@ -905,6 +937,14 @@
       "onboard_time": 1750752923,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119409,
+      "num": 119409,
+      "word": "我选李一桐新剧做我暑假解药",
+      "onboard_time": 1750826903,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 115475,
@@ -1072,6 +1112,14 @@
       "word": "贵州榕江众志成城筑牢生命防线",
       "onboard_time": 1750768283,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90745,
+      "num": 338574,
+      "word": "不吸烟的亚洲女性为什么肺癌高发",
+      "onboard_time": 1750826065,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -1387,6 +1435,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 38131,
+      "num": 227314,
+      "word": "12年骨折7次的玻璃娃娃高考621分",
+      "onboard_time": 1750826485,
+      "rank": 29,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 34497,
       "num": 131047,
       "word": "再考清华当事人称将公布高考成绩",
@@ -1440,14 +1496,6 @@
       "word": "贵州榕江已紧急转移约4万人",
       "onboard_time": 1750787475,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21025,
-      "num": 179990,
-      "word": "不吸烟的亚洲女性为什么肺癌高发",
-      "onboard_time": 1750826065,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -1505,6 +1553,9 @@
     },
     {
       "word": "#让中新友谊之树枝繁叶茂硕果累累#"
+    },
+    {
+      "word": "#重温10年前阅兵现场依然震撼#"
     }
   ]
 }
