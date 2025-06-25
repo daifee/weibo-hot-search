@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750836438051,
+  "endTime": 1750837327032,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -187,6 +187,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 1817753,
+      "num": 826209,
+      "word": "健身房 脏",
+      "onboard_time": 1750834104,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1747665,
       "num": 1747665,
       "word": "庆余年3",
@@ -265,6 +273,14 @@
       "onboard_time": 1750832482,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1574042,
+      "num": 1574042,
+      "word": "山东分数线",
+      "onboard_time": 1750825766,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 1560125,
@@ -347,14 +363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1423854,
-      "num": 799082,
-      "word": "健身房 脏",
-      "onboard_time": 1750834104,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 1391034,
       "num": 1391034,
       "word": "小米悠悠去世",
@@ -433,14 +441,6 @@
       "onboard_time": 1750565603,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1261385,
-      "num": 1261385,
-      "word": "山东分数线",
-      "onboard_time": 1750825766,
-      "rank": 36,
-      "category": "教育"
     },
     {
       "raw_hot": 1259814,
@@ -529,6 +529,14 @@
       "onboard_time": 1750820422,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1110220,
+      "num": 1110220,
+      "word": "宜宾地震",
+      "onboard_time": 1750836624,
+      "rank": 1,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 1098872,
@@ -859,6 +867,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 816519,
+      "num": 816519,
+      "word": "山东高考成绩",
+      "onboard_time": 1750835843,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 816328,
+      "num": 816328,
+      "word": "张雪峰看到物理100分的反应",
+      "onboard_time": 1750835363,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
       "raw_hot": 811978,
       "num": 811978,
       "word": "以防长称恢复猛烈空袭德黑兰",
@@ -1105,6 +1129,14 @@
       "onboard_time": 1750649243,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 702408,
+      "num": 489967,
+      "word": "父亲家暴烧死母亲案死刑已执行",
+      "onboard_time": 1750833383,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 702137,
@@ -1467,14 +1499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 598053,
-      "num": 379285,
-      "word": "父亲家暴烧死母亲案死刑已执行",
-      "onboard_time": 1750833383,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 597131,
       "num": 597131,
       "word": "女儿被打碎头骨母亲遭死亡威胁",
@@ -1508,7 +1532,7 @@
     },
     {
       "raw_hot": 587951,
-      "num": 370461,
+      "num": 426753,
       "word": "魏大勋出个国怎么帅成这样",
       "onboard_time": 1750830262,
       "rank": 22,
@@ -1979,6 +2003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 484446,
+      "num": 484446,
+      "word": "车银优耳机被车压扁了",
+      "onboard_time": 1750834461,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 482681,
       "num": 482681,
       "word": "第一个让孟子义演绿茶的是天才",
@@ -2001,14 +2033,6 @@
       "onboard_time": 1750824804,
       "rank": 12,
       "category": "教育"
-    },
-    {
-      "raw_hot": 479993,
-      "num": 374209,
-      "word": "车银优耳机被车压扁了",
-      "onboard_time": 1750834461,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 479097,
@@ -2219,6 +2243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 448328,
+      "num": 670716,
+      "word": "酱园弄开分5.9什么压垮了口碑",
+      "onboard_time": 1750832422,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 448088,
       "num": 549550,
       "word": "浙江男子中1000万40天后才发现",
@@ -2337,6 +2369,14 @@
       "onboard_time": 1750568722,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 432516,
+      "num": 432516,
+      "word": "浙江高考成绩",
+      "onboard_time": 1750825104,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 431323,
@@ -2491,14 +2531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 408176,
-      "num": 408176,
-      "word": "浙江高考成绩",
-      "onboard_time": 1750825104,
-      "rank": 43,
-      "category": "教育"
-    },
-    {
       "raw_hot": 405824,
       "num": 405824,
       "word": "中山震感",
@@ -2627,6 +2659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 394878,
+      "num": 555855,
+      "word": "侯鸿亮朋友圈晒肖战",
+      "onboard_time": 1750836502,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 394614,
       "num": 394614,
       "word": "艾格努 球品",
@@ -2643,28 +2683,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 389600,
-      "num": 389600,
-      "word": "张雪峰看到物理100分的反应",
-      "onboard_time": 1750835363,
-      "rank": 7,
-      "category": "教育"
-    },
-    {
       "raw_hot": 385777,
       "num": 385777,
       "word": "美国轰炸伊朗核设施",
       "onboard_time": 1750689684,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 385615,
-      "num": 385615,
-      "word": "酱园弄开分5.9什么压垮了口碑",
-      "onboard_time": 1750832422,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 385106,
@@ -3131,14 +3155,6 @@
       "category": "时尚,艺人"
     },
     {
-      "raw_hot": 337462,
-      "num": 337462,
-      "word": "山东高考成绩",
-      "onboard_time": 1750835843,
-      "rank": 16,
-      "category": "教育"
-    },
-    {
       "raw_hot": 337365,
       "num": 337365,
       "word": "高考查分",
@@ -3235,6 +3251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 330922,
+      "num": 330922,
+      "word": "雷军再透露小米YU7价格",
+      "onboard_time": 1750832782,
+      "rank": 22,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 330002,
       "num": 330002,
       "word": "吴敬平说陪你战洛奥",
@@ -3291,6 +3315,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 324551,
+      "num": 431784,
+      "word": "谍报上不封顶",
+      "onboard_time": 1750836322,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 323860,
       "num": 509560,
       "word": "伊朗报复美国的三种方式",
@@ -3329,14 +3361,6 @@
       "onboard_time": 1750676668,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 318444,
-      "num": 318444,
-      "word": "雷军再透露小米YU7价格",
-      "onboard_time": 1750832782,
-      "rank": 22,
-      "category": "汽车"
     },
     {
       "raw_hot": 316685,
@@ -3803,6 +3827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 280395,
+      "num": 383405,
+      "word": "伊朗首都查获超1万架无人机",
+      "onboard_time": 1750831343,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 278426,
       "num": 278426,
       "word": "河北高考出分",
@@ -3865,6 +3897,14 @@
       "onboard_time": 1750558762,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 274273,
+      "num": 430323,
+      "word": "庆余年3原班人马回归",
+      "onboard_time": 1750836742,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 272911,
@@ -4081,6 +4121,14 @@
       "onboard_time": 1750682001,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 258363,
+      "num": 426938,
+      "word": "44岁的张娜拉",
+      "onboard_time": 1750834581,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 257767,
@@ -4372,19 +4420,11 @@
     },
     {
       "raw_hot": 240837,
-      "num": 240837,
+      "num": 268230,
       "word": "周翊然的导演处女作",
       "onboard_time": 1750835422,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 240541,
-      "num": 240541,
-      "word": "44岁的张娜拉",
-      "onboard_time": 1750834581,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 240182,
@@ -4569,6 +4609,14 @@
       "onboard_time": 1750580602,
       "rank": 46,
       "category": "体育,民生新闻"
+    },
+    {
+      "raw_hot": 229752,
+      "num": 428184,
+      "word": "高考报志愿选学校还是选城市",
+      "onboard_time": 1750835242,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 229116,
@@ -4859,6 +4907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 217163,
+      "num": 430133,
+      "word": "我见到杨幂就付航这个死出儿",
+      "onboard_time": 1750836562,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 216570,
       "num": 216570,
       "word": "高考成绩屏蔽",
@@ -4961,6 +5017,14 @@
       "onboard_time": 1750822042,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 213810,
+      "num": 213810,
+      "word": "2025年四川高考分数线",
+      "onboard_time": 1750835902,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 213749,
@@ -5355,14 +5419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 202444,
-      "num": 202444,
-      "word": "2025年四川高考分数线",
-      "onboard_time": 1750835902,
-      "rank": 26,
-      "category": "教育"
-    },
-    {
       "raw_hot": 202425,
       "num": 202425,
       "word": "豆包前员工因违规亲密关系被辞退",
@@ -5611,6 +5667,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 197591,
+      "num": 197591,
+      "word": "王楚钦梁靖崑美国大满贯男双",
+      "onboard_time": 1750836923,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197525,
       "num": 197525,
       "word": "杨紫工作室发通报声明",
@@ -5665,6 +5729,14 @@
       "onboard_time": 1750557080,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196684,
+      "num": 278590,
+      "word": "书卷一梦把剧中刘宇宁剧本卖了",
+      "onboard_time": 1750836442,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 196325,
@@ -5841,14 +5913,6 @@
       "onboard_time": 1750605143,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 192647,
-      "num": 383405,
-      "word": "伊朗首都查获超1万架无人机",
-      "onboard_time": 1750831343,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 192406,
@@ -6035,14 +6099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 188816,
-      "num": 318762,
-      "word": "高考报志愿选学校还是选城市",
-      "onboard_time": 1750835242,
-      "rank": 17,
-      "category": "教育"
-    },
-    {
       "raw_hot": 188775,
       "num": 188775,
       "word": "晋江崩了",
@@ -6169,6 +6225,14 @@
       "onboard_time": 1750824082,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186620,
+      "num": 186620,
+      "word": "山东高考特控线521分",
+      "onboard_time": 1750837281,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 186226,
@@ -6996,7 +7060,7 @@
     },
     {
       "raw_hot": 164581,
-      "num": 164581,
+      "num": 491877,
       "word": "伊朗人说以色列1秒炸毁我42年人生",
       "onboard_time": 1750833263,
       "rank": 42,
@@ -7049,6 +7113,14 @@
       "onboard_time": 1750685722,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162937,
+      "num": 162937,
+      "word": "有房有车存款30w 我决定一辈子不上班",
+      "onboard_time": 1750837042,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 162807,
@@ -7323,6 +7395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157079,
+      "num": 260213,
+      "word": "晋江再发声明",
+      "onboard_time": 1750836923,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156919,
       "num": 171018,
       "word": "徐明浩哭了是想起父母了吧",
@@ -7563,6 +7643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151627,
+      "num": 258179,
+      "word": "孟子义端水式宣传",
+      "onboard_time": 1750834881,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151614,
       "num": 151614,
       "word": "朱雀玄武敕令第三次高考246分",
@@ -7585,14 +7673,6 @@
       "onboard_time": 1750606102,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 150886,
-      "num": 150886,
-      "word": "谍报上不封顶",
-      "onboard_time": 1750836322,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 150577,
@@ -8403,6 +8483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138291,
+      "num": 138291,
+      "word": "焕羽删减",
+      "onboard_time": 1750836863,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138223,
       "num": 138223,
       "word": "戴燕妮这漫画腿跑步",
@@ -8779,6 +8867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132056,
+      "num": 132056,
+      "word": "90后夫妻10年存了40万",
+      "onboard_time": 1750837102,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131855,
       "num": 131855,
       "word": "老人水中摔倒民警未搀扶家属发声",
@@ -9049,14 +9145,6 @@
       "onboard_time": 1750832063,
       "rank": 41,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 127137,
-      "num": 186660,
-      "word": "孟子义端水式宣传",
-      "onboard_time": 1750834881,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 127040,
@@ -9427,6 +9515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 120998,
+      "num": 120998,
+      "word": "小米YU7展车正运往全国",
+      "onboard_time": 1750837281,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 120926,
       "num": 129436,
       "word": "暑期电视剧一波又一波",
@@ -9455,6 +9551,14 @@
       "num": 119732,
       "word": "刘诗诗李乃文一起走红毯",
       "onboard_time": 1750669883,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 119427,
+      "num": 119427,
+      "word": "李一桐这不是人生镜头是什么",
+      "onboard_time": 1750836682,
       "rank": 49,
       "category": "剧集"
     },
@@ -11324,7 +11428,7 @@
     },
     {
       "raw_hot": 65262,
-      "num": 220384,
+      "num": 282427,
       "word": "海南本科线480分",
       "onboard_time": 1750834342,
       "rank": 44,
@@ -12273,6 +12377,14 @@
       "onboard_time": 1750701376,
       "rank": 26,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 34751,
+      "num": 146745,
+      "word": "张康乐巴黎老钱风",
+      "onboard_time": 1750837102,
+      "rank": 39,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 34632,
