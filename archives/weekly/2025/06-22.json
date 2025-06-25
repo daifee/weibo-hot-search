@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750818470905,
+  "endTime": 1750822718583,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -153,6 +153,14 @@
       "onboard_time": 1750731742,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1920169,
+      "num": 703676,
+      "word": "高考611分女生体检不合格恐无法入学",
+      "onboard_time": 1750820182,
+      "rank": 3,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 1849384,
@@ -481,6 +489,14 @@
       "onboard_time": 1750599143,
       "rank": 27,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1134062,
+      "num": 1181449,
+      "word": "广东高考分数线",
+      "onboard_time": 1750820422,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 1098872,
@@ -1107,6 +1123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 677919,
+      "num": 677919,
+      "word": "查分查出隐藏款老师瞬间沸腾",
+      "onboard_time": 1750820542,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 674704,
       "num": 674704,
       "word": "小米YU7流金粉",
@@ -1475,6 +1499,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 564519,
+      "num": 402165,
+      "word": "不胖和好瘦的区别",
+      "onboard_time": 1750821444,
+      "rank": 11,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 562158,
       "num": 993020,
       "word": "原来成龙刚出生就出名了",
@@ -1705,6 +1737,14 @@
       "onboard_time": 1750561462,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 518126,
+      "num": 518126,
+      "word": "金价",
+      "onboard_time": 1750817720,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 515361,
@@ -2371,8 +2411,16 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 401983,
+      "num": 401983,
+      "word": "双胞胎高考哥哥680分妹妹710分",
+      "onboard_time": 1750819221,
+      "rank": 12,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 401098,
-      "num": 401098,
+      "num": 437308,
       "word": "张凌赫王楚然 男帅女美",
       "onboard_time": 1750817241,
       "rank": 12,
@@ -2537,6 +2585,14 @@
       "onboard_time": 1750728741,
       "rank": 14,
       "category": "网红"
+    },
+    {
+      "raw_hot": 372442,
+      "num": 372442,
+      "word": "王嘉尔撕拉片好权威",
+      "onboard_time": 1750818861,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 372229,
@@ -3179,6 +3235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 305545,
+      "num": 305545,
+      "word": "吴敬平说陪你战洛奥",
+      "onboard_time": 1750821682,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 305202,
       "num": 305202,
       "word": "最壮观的荔枝树",
@@ -3289,6 +3353,14 @@
       "onboard_time": 1750775725,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 298056,
+      "num": 298056,
+      "word": "湖北高考首次出现高分屏蔽考生",
+      "onboard_time": 1750819640,
+      "rank": 23,
+      "category": "教育"
     },
     {
       "raw_hot": 296959,
@@ -3633,6 +3705,14 @@
       "onboard_time": 1750725261,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 267347,
+      "num": 267347,
+      "word": "安徽高考分数线",
+      "onboard_time": 1750819102,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 267263,
@@ -4491,12 +4571,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 216577,
-      "num": 216577,
-      "word": "金价",
-      "onboard_time": 1750817720,
-      "rank": 23,
-      "category": "财经"
+      "raw_hot": 216570,
+      "num": 216570,
+      "word": "高考成绩屏蔽",
+      "onboard_time": 1750821142,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 216487,
@@ -4579,6 +4659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 214032,
+      "num": 306576,
+      "word": "电影小白船定档",
+      "onboard_time": 1750822042,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 213749,
       "num": 213749,
       "word": "虞书欣说不会参加浪姐",
@@ -4635,6 +4723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 210560,
+      "num": 210560,
+      "word": "北京高考698分以上113人",
+      "onboard_time": 1750820482,
+      "rank": 32,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 210291,
       "num": 210291,
       "word": "田作之赫",
@@ -4689,6 +4785,14 @@
       "onboard_time": 1750595421,
       "rank": 30,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 209353,
+      "num": 299880,
+      "word": "newjeans确定禁止独立活动",
+      "onboard_time": 1750821924,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 208924,
@@ -5467,6 +5571,14 @@
       "category": "休闲,动漫"
     },
     {
+      "raw_hot": 191611,
+      "num": 291910,
+      "word": "蜜雪冰城创始人晋升河南新首富",
+      "onboard_time": 1750818982,
+      "rank": 24,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 191456,
       "num": 350972,
       "word": "广东疾控发文称狂犬病病死率接近100%",
@@ -5673,6 +5785,14 @@
       "onboard_time": 1750661124,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187204,
+      "num": 274374,
+      "word": "中方代表说这次停火不能再有欺骗了",
+      "onboard_time": 1750820964,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 187050,
@@ -6193,6 +6313,14 @@
       "onboard_time": 1750564822,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171260,
+      "num": 171260,
+      "word": "焦虑压力大等负面情绪易引发白癜风",
+      "onboard_time": 1750821503,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 171185,
@@ -7011,6 +7139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150250,
+      "num": 150250,
+      "word": "鸿蒙技术人才缺口近百万人",
+      "onboard_time": 1750822282,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149890,
       "num": 149890,
       "word": "曾舜晞戴上头套人格都变了",
@@ -7241,6 +7377,14 @@
       "onboard_time": 1750566082,
       "rank": 47,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 146381,
+      "num": 268269,
+      "word": "李昀锐出发巴黎",
+      "onboard_time": 1750821262,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 146352,
@@ -8083,6 +8227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131833,
+      "num": 131833,
+      "word": "男子聚餐后冻死街边家属诉同事被驳",
+      "onboard_time": 1750821203,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131674,
       "num": 131674,
       "word": "天津高考查分",
@@ -8651,6 +8803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 120978,
+      "num": 422519,
+      "word": "611分女生体检不合格影响入学家属发声",
+      "onboard_time": 1750820721,
+      "rank": 9,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 120926,
       "num": 129436,
       "word": "暑期电视剧一波又一波",
@@ -8995,6 +9155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111430,
+      "num": 111430,
+      "word": "只要你有一次超过3点睡觉",
+      "onboard_time": 1750822702,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 111379,
       "num": 377152,
       "word": "以伊相互发起新一轮大规模攻击",
@@ -9009,6 +9177,14 @@
       "onboard_time": 1750675223,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111070,
+      "num": 111070,
+      "word": "吉林本科线历史384物理340",
+      "onboard_time": 1750821262,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 111042,
@@ -9121,6 +9297,14 @@
       "onboard_time": 1750692084,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 107927,
+      "num": 267700,
+      "word": "以法之名群像爆发力",
+      "onboard_time": 1750822463,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 107922,
@@ -9321,6 +9505,14 @@
       "onboard_time": 1750682422,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 102345,
+      "num": 109620,
+      "word": "王鹤润一场戏转变14种情绪",
+      "onboard_time": 1750822644,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 101843,
@@ -9859,11 +10051,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 83669,
+      "num": 306044,
+      "word": "小米Pad7Ultra大屏办公体验实测",
+      "onboard_time": 1750820780,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 83446,
       "num": 134821,
       "word": "乡村老师自律运动2个月的变化",
       "onboard_time": 1750564522,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82509,
+      "num": 337347,
+      "word": "北京拟规定骑乘电动自行车应戴头盔",
+      "onboard_time": 1750822344,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -10243,6 +10451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 69813,
+      "num": 305647,
+      "word": "男子聚餐后冻死街头家属起诉4同事",
+      "onboard_time": 1750821682,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69765,
       "num": 352229,
       "word": "母亲称被打碎头骨女孩还没上学",
@@ -10393,6 +10609,14 @@
       "onboard_time": 1750682544,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63113,
+      "num": 160255,
+      "word": "好网络在此刻具象化了",
+      "onboard_time": 1750818861,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 62586,
@@ -10640,6 +10864,14 @@
       "word": "王欣瑜说这是不可思议的一周",
       "onboard_time": 1750604903,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 54450,
+      "num": 153200,
+      "word": "杨毅预测杨瀚森首轮被篮网选中",
+      "onboard_time": 1750821682,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -11952,6 +12184,14 @@
       "word": "南方暴雨抗洪救灾在行动",
       "onboard_time": 1750794613,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15227,
+      "num": 150574,
+      "word": "烟台城市治愈美学启示录",
+      "onboard_time": 1750820482,
+      "rank": 39,
       "category": "民生新闻"
     },
     {

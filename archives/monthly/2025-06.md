@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/25 10:27:50
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/25 11:38:38
 </p>
 </blockquote>
 <p>
@@ -827,6 +827,12 @@ iOS26 丑（热度：2160228）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%BC%80%E5%A7%8B%E6%92%A4%E4%BE%A8%23" target="weibo">
 日本开始撤侨（热度：1920519）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83611%E5%88%86%E5%A5%B3%E7%94%9F%E4%BD%93%E6%A3%80%E4%B8%8D%E5%90%88%E6%A0%BC%E6%81%90%E6%97%A0%E6%B3%95%E5%85%A5%E5%AD%A6%23" target="weibo">
+高考611分女生体检不合格恐无法入学（热度：1920169）
 </a>
 </li>
 
@@ -2555,6 +2561,12 @@ afternoon怎么变形（热度：1248150）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%BB%99%E6%89%80%E6%9C%89%E4%BA%BA%E9%83%BD%E4%B8%8A%E4%BA%86%E4%B8%80%E8%AF%BE%23" target="weibo">
 黄金给所有人都上了一课（热度：1136134）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23" target="weibo">
+广东高考分数线（热度：1134062）
 </a>
 </li>
 
@@ -5889,6 +5901,12 @@ EDG申请执行Scout3351万（热度：690406）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9F%A5%E5%88%86%E6%9F%A5%E5%87%BA%E9%9A%90%E8%97%8F%E6%AC%BE%E8%80%81%E5%B8%88%E7%9E%AC%E9%97%B4%E6%B2%B8%E8%85%BE%23" target="weibo">
+查分查出隐藏款老师瞬间沸腾（热度：677919）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E7%8E%AE%E7%90%AA%E6%B2%A1%E8%AF%B4%E8%BF%87%E9%9A%90%E9%9A%90%E7%BA%A6%E7%BA%A6%E6%9C%89%E5%90%AC%E8%AF%B4%23" target="weibo">
 范玮琪没说过隐隐约约有听说（热度：677427）
 </a>
@@ -5993,24 +6011,6 @@ EDG申请执行Scout3351万（热度：690406）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%94%E9%82%93%E8%B6%85%E8%BF%98%E6%8E%A5%E5%8F%97%E4%B8%8D%E4%BA%86%E4%BB%96%E5%8F%98%E8%80%81%23" target="weibo">
 比邓超还接受不了他变老（热度：671625）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E5%9B%9E%E5%9B%BD%23" target="weibo">
-蔡徐坤回国（热度：671238）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E5%B9%B2%E9%A5%AD%E5%B0%8F%E5%AD%A9%E5%93%A5%E8%A2%AB%E6%95%99%E8%82%B2%E4%BA%86%23" target="weibo">
-地震干饭小孩哥被教育了（热度：670122）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E8%81%8A%E7%94%9F%E7%90%86%E6%9C%9F%E5%A4%A7%E5%A4%A7%E6%96%B9%E6%96%B9%E7%9A%84%23" target="weibo">
-孟子义聊生理期大大方方的（热度：669899）
 </a>
 </li>
 

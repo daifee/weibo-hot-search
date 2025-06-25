@@ -1,7 +1,15 @@
 {
   "startTime": 1750782835563,
-  "endTime": 1750818470905,
+  "endTime": 1750822718583,
   "band_list": [
+    {
+      "raw_hot": 1920169,
+      "num": 703676,
+      "word": "高考611分女生体检不合格恐无法入学",
+      "onboard_time": 1750820182,
+      "rank": 3,
+      "category": "民生新闻,教育"
+    },
     {
       "raw_hot": 1345973,
       "num": 1345973,
@@ -17,6 +25,14 @@
       "onboard_time": 1750779443,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1134062,
+      "num": 1181449,
+      "word": "广东高考分数线",
+      "onboard_time": 1750820422,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 1024296,
@@ -59,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 677919,
+      "num": 677919,
+      "word": "查分查出隐藏款老师瞬间沸腾",
+      "onboard_time": 1750820542,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 670122,
       "num": 947497,
       "word": "地震干饭小孩哥被教育了",
@@ -83,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 564519,
+      "num": 402165,
+      "word": "不胖和好瘦的区别",
+      "onboard_time": 1750821444,
+      "rank": 11,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 559760,
       "num": 833467,
       "word": "港媒曝姜涛服食药物跳海",
@@ -105,6 +137,14 @@
       "onboard_time": 1750813042,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 518126,
+      "num": 518126,
+      "word": "金价",
+      "onboard_time": 1750817720,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 484958,
@@ -163,8 +203,16 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 401983,
+      "num": 401983,
+      "word": "双胞胎高考哥哥680分妹妹710分",
+      "onboard_time": 1750819221,
+      "rank": 12,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 401098,
-      "num": 401098,
+      "num": 437308,
       "word": "张凌赫王楚然 男帅女美",
       "onboard_time": 1750817241,
       "rank": 12,
@@ -193,6 +241,14 @@
       "onboard_time": 1750778604,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 372442,
+      "num": 372442,
+      "word": "王嘉尔撕拉片好权威",
+      "onboard_time": 1750818861,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 361883,
@@ -251,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 305545,
+      "num": 305545,
+      "word": "吴敬平说陪你战洛奥",
+      "onboard_time": 1750821682,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 303680,
       "num": 255897,
       "word": "金价油价跌跌跌",
@@ -265,6 +329,14 @@
       "onboard_time": 1750775725,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 298056,
+      "num": 298056,
+      "word": "湖北高考首次出现高分屏蔽考生",
+      "onboard_time": 1750819640,
+      "rank": 23,
+      "category": "教育"
     },
     {
       "raw_hot": 283093,
@@ -297,6 +369,14 @@
       "onboard_time": 1750765043,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 267347,
+      "num": 267347,
+      "word": "安徽高考分数线",
+      "onboard_time": 1750819102,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 264014,
@@ -347,12 +427,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 216577,
-      "num": 216577,
-      "word": "金价",
-      "onboard_time": 1750817720,
-      "rank": 23,
-      "category": "财经"
+      "raw_hot": 216570,
+      "num": 216570,
+      "word": "高考成绩屏蔽",
+      "onboard_time": 1750821142,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 214032,
+      "num": 306576,
+      "word": "电影小白船定档",
+      "onboard_time": 1750822042,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 212409,
@@ -361,6 +449,22 @@
       "onboard_time": 1750776685,
       "rank": 14,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 210560,
+      "num": 210560,
+      "word": "北京高考698分以上113人",
+      "onboard_time": 1750820482,
+      "rank": 32,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 209353,
+      "num": 299880,
+      "word": "newjeans确定禁止独立活动",
+      "onboard_time": 1750821924,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 207288,
@@ -395,6 +499,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 191611,
+      "num": 291910,
+      "word": "蜜雪冰城创始人晋升河南新首富",
+      "onboard_time": 1750818982,
+      "rank": 24,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 190597,
       "num": 190597,
       "word": "伊朗总统称已准备好重返谈判桌",
@@ -425,6 +537,14 @@
       "onboard_time": 1750818140,
       "rank": 27,
       "category": "数码"
+    },
+    {
+      "raw_hot": 187204,
+      "num": 274374,
+      "word": "中方代表说这次停火不能再有欺骗了",
+      "onboard_time": 1750820964,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 184576,
@@ -459,6 +579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171260,
+      "num": 171260,
+      "word": "焦虑压力大等负面情绪易引发白癜风",
+      "onboard_time": 1750821503,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 162153,
       "num": 162153,
       "word": "让体脂下降的30个小方法",
@@ -481,6 +609,22 @@
       "onboard_time": 1750817602,
       "rank": 34,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 150250,
+      "num": 150250,
+      "word": "鸿蒙技术人才缺口近百万人",
+      "onboard_time": 1750822282,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146381,
+      "num": 268269,
+      "word": "李昀锐出发巴黎",
+      "onboard_time": 1750821262,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 144074,
@@ -555,6 +699,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 131833,
+      "num": 131833,
+      "word": "男子聚餐后冻死街边家属诉同事被驳",
+      "onboard_time": 1750821203,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131052,
       "num": 130131,
       "word": "李心艾孕晚期",
@@ -577,6 +729,14 @@
       "onboard_time": 1750811483,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 120978,
+      "num": 422519,
+      "word": "611分女生体检不合格影响入学家属发声",
+      "onboard_time": 1750820721,
+      "rank": 9,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 120132,
@@ -603,6 +763,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 111430,
+      "num": 111430,
+      "word": "只要你有一次超过3点睡觉",
+      "onboard_time": 1750822702,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 111364,
       "num": 111364,
       "word": "199转手卖3000的Labubu长这样",
@@ -617,6 +785,22 @@
       "onboard_time": 1750765163,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 111070,
+      "num": 111070,
+      "word": "吉林本科线历史384物理340",
+      "onboard_time": 1750821262,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 107927,
+      "num": 267700,
+      "word": "以法之名群像爆发力",
+      "onboard_time": 1750822463,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 107558,
@@ -649,6 +833,14 @@
       "onboard_time": 1750764201,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 102345,
+      "num": 109620,
+      "word": "王鹤润一场戏转变14种情绪",
+      "onboard_time": 1750822644,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 99520,
@@ -763,6 +955,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83669,
+      "num": 306044,
+      "word": "小米Pad7Ultra大屏办公体验实测",
+      "onboard_time": 1750820780,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 82509,
+      "num": 337347,
+      "word": "北京拟规定骑乘电动自行车应戴头盔",
+      "onboard_time": 1750822344,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80126,
       "num": 80126,
       "word": "雷军称YU7有9成零件重新开发",
@@ -827,6 +1035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69813,
+      "num": 305647,
+      "word": "男子聚餐后冻死街头家属起诉4同事",
+      "onboard_time": 1750821682,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69406,
       "num": 69406,
       "word": "王毅同伊外长通电话",
@@ -875,6 +1091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63113,
+      "num": 160255,
+      "word": "好网络在此刻具象化了",
+      "onboard_time": 1750818861,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 62586,
       "num": 76464,
       "word": "苗得雨任外交部副部长",
@@ -913,6 +1137,14 @@
       "onboard_time": 1750769903,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 54450,
+      "num": 153200,
+      "word": "杨毅预测杨瀚森首轮被篮网选中",
+      "onboard_time": 1750821682,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 52359,
@@ -1024,6 +1256,14 @@
       "word": "南方暴雨抗洪救灾在行动",
       "onboard_time": 1750794613,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15227,
+      "num": 150574,
+      "word": "烟台城市治愈美学启示录",
+      "onboard_time": 1750820482,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
