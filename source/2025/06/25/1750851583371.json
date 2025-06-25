@@ -1,0 +1,410 @@
+{
+  "runTime": 1750851583371,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1467994,
+        "num": 1467994,
+        "word": "女生高考724分爸爸激动到尖叫",
+        "onboard_time": 1750847722,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1177081,
+        "num": 1177081,
+        "word": "言冰云",
+        "onboard_time": 1750847903,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19218,
+        "num": 996603,
+        "word": "青春华章豫你同行",
+        "onboard_time": 1750847120,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1493251,
+        "num": 939726,
+        "word": "梁实高考454分",
+        "onboard_time": 1750848503,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 864239,
+        "num": 864239,
+        "word": "庆余年3刘端端 换角",
+        "onboard_time": 1750839682,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 658262,
+        "num": 658262,
+        "word": "梅森马吉拉 孙颖莎",
+        "onboard_time": 1750847362,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 759252,
+        "num": 640464,
+        "word": "黄子韬方否认代孕",
+        "onboard_time": 1750842923,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 523932,
+        "num": 523932,
+        "word": "伊朗防长现身青岛",
+        "onboard_time": 1750847422,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 517927,
+        "num": 517927,
+        "word": "叶灵儿 换人",
+        "onboard_time": 1750849882,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184610,
+        "num": 447910,
+        "word": "男生复读3年高考查分喜极而泣",
+        "onboard_time": 1750849462,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 524587,
+        "num": 428662,
+        "word": "李昀锐包场是孟子义生日",
+        "onboard_time": 1750850003,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394711,
+        "num": 394711,
+        "word": "暴雨暴雨注意暴雨暴雨",
+        "onboard_time": 1750841723,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391708,
+        "num": 391708,
+        "word": "女生估分450考了538激动泪崩",
+        "onboard_time": 1750846642,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 384354,
+        "num": 384354,
+        "word": "高考724分女生回应数学满分",
+        "onboard_time": 1750849343,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 325994,
+        "num": 325994,
+        "word": "健身房 脏",
+        "onboard_time": 1750834104,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 474101,
+        "num": 322980,
+        "word": "孟子义发了5万红包",
+        "onboard_time": 1750847301,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290177,
+        "num": 290177,
+        "word": "鹿晗美甲",
+        "onboard_time": 1750850602,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105528,
+        "num": 253628,
+        "word": "起猛了vivoXFold5连上了AppleWatch",
+        "onboard_time": 1750849703,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 253151,
+        "num": 253151,
+        "word": "侯鸿亮晒肖战杨紫剧照",
+        "onboard_time": 1750837703,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48703,
+        "num": 243429,
+        "word": "千年云锦被洗衣机复活了",
+        "onboard_time": 1750849882,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 240034,
+        "num": 240034,
+        "word": "张元英转圈又火了",
+        "onboard_time": 1750842321,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 239729,
+        "num": 239729,
+        "word": "首尔地铁纵火案致23伤",
+        "onboard_time": 1750849643,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 232156,
+        "num": 232156,
+        "word": "庆余年3 赵昭仪",
+        "onboard_time": 1750843942,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222336,
+        "num": 222336,
+        "word": "孕妇1天2杯奶茶致早产孩子仅3斤2两",
+        "onboard_time": 1750840282,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203163,
+        "num": 203163,
+        "word": "宋亚轩第一次当站哥没经验",
+        "onboard_time": 1750850483,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195644,
+        "num": 195644,
+        "word": "浙江高考最高分",
+        "onboard_time": 1750839922,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 192271,
+        "num": 192271,
+        "word": "只有结过婚的才知道她有多真实",
+        "onboard_time": 1750838180,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188863,
+        "num": 188863,
+        "word": "江苏暴力拆迁",
+        "onboard_time": 1750849042,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175454,
+        "num": 175454,
+        "word": "桃花映江山热度",
+        "onboard_time": 1750850362,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61739,
+        "num": 168029,
+        "word": "美军炸的坑已填平",
+        "onboard_time": 1750850542,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 164852,
+        "num": 164852,
+        "word": "白敬亭金发",
+        "onboard_time": 1750851201,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163963,
+        "num": 163963,
+        "word": "倪夏莲谈樊振东加入德甲",
+        "onboard_time": 1750849943,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160190,
+        "num": 160190,
+        "word": "东晓南",
+        "onboard_time": 1750844302,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147899,
+        "num": 147899,
+        "word": "超级晚霞",
+        "onboard_time": 1750851082,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147553,
+        "num": 147553,
+        "word": "王者荣耀",
+        "onboard_time": 1750847662,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141879,
+        "num": 141879,
+        "word": "288分女孩妈妈称不拿短处比别人长处",
+        "onboard_time": 1750842082,
+        "rank": 35,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 136992,
+        "num": 136992,
+        "word": "2025分数线汇总",
+        "onboard_time": 1750849882,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 135081,
+        "num": 135081,
+        "word": "给狗喂槟榔",
+        "onboard_time": 1750848863,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130541,
+        "num": 130541,
+        "word": "7名以军士兵遇袭身亡",
+        "onboard_time": 1750850542,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128458,
+        "num": 128458,
+        "word": "王者S40新赛季命若星火",
+        "onboard_time": 1750847062,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128387,
+        "num": 128387,
+        "word": "中国股市彻底爆发",
+        "onboard_time": 1750846282,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 114828,
+        "num": 114828,
+        "word": "四川一分一段表",
+        "onboard_time": 1750851201,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 113411,
+        "num": 113411,
+        "word": "当习惯中国生活的韩国人回国",
+        "onboard_time": 1750848143,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107759,
+        "num": 107759,
+        "word": "一年一影帝 百年周星驰",
+        "onboard_time": 1750849104,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 106693,
+        "num": 106693,
+        "word": "刘耀文贺峻霖父母口中的千手观音",
+        "onboard_time": 1750849462,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104829,
+        "num": 104829,
+        "word": "特朗普发视频恶搞轰炸伊朗",
+        "onboard_time": 1750844542,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103651,
+        "num": 103651,
+        "word": "杨紫出席白玉兰颁奖",
+        "onboard_time": 1750843762,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100606,
+        "num": 100606,
+        "word": "猫是坐着猫包来到家里的",
+        "onboard_time": 1750851022,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98454,
+        "num": 98454,
+        "word": "浙里办可查20年前高考成绩",
+        "onboard_time": 1750838542,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98240,
+        "num": 98240,
+        "word": "徐艺洋工作室声明",
+        "onboard_time": 1750844603,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记对土地的深情#"
+    }
+  }
+}

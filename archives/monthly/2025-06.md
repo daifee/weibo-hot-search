@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/25 19:23:54
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/25 19:39:43
 </p>
 </blockquote>
 <p>
@@ -1557,6 +1557,12 @@ TES对战WE（热度：1476923）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83724%E5%88%86%E7%88%B8%E7%88%B8%E6%BF%80%E5%8A%A8%E5%88%B0%E5%B0%96%E5%8F%AB%23" target="weibo">
+女生高考724分爸爸激动到尖叫（热度：1467994）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%88%A0%E6%8E%89%E8%AF%8B%E6%AF%81%E5%8E%9F%E6%96%87%23" target="weibo">
 雷军删掉诋毁原文（热度：1467750）
 </a>
@@ -2171,12 +2177,6 @@ afternoon怎么变形（热度：1248150）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%88%B7%E4%BD%93%E5%86%85%E8%97%8F52%E5%B9%B4%E7%89%99%E5%88%B7%E7%A7%B0%E4%BB%A5%E4%B8%BA%E8%83%BD%E6%BA%B6%E8%A7%A3%E6%8E%89%23" target="weibo">
 大爷体内藏52年牙刷称以为能溶解掉（热度：1239421）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83724%E5%88%86%E7%88%B8%E7%88%B8%E6%BF%80%E5%8A%A8%E5%88%B0%E5%B0%96%E5%8F%AB%23" target="weibo">
-女生高考724分爸爸激动到尖叫（热度：1238811）
 </a>
 </li>
 
