@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/25 21:40:11
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/25 21:52:55
 </p>
 </blockquote>
 <p>
@@ -3921,6 +3921,12 @@ labubu（热度：930311）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%8D%97%E8%B4%A2%E5%A4%A7%E8%A2%AB%E6%9B%9D%E7%94%B7%E5%AD%90%E7%A9%BF%E5%A5%B3%E8%A3%85%E6%9B%BF%E8%80%83%23" target="weibo">
+中南财大被曝男子穿女装替考（热度：897436）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%AD%E6%98%B1%E7%95%85%E6%80%8E%E4%B9%88%E7%98%A6%E6%88%90%E8%BF%99%E6%A0%B7%E4%BA%86%23" target="weibo">
 彭昱畅怎么瘦成这样了（热度：896174）
 </a>
@@ -4205,12 +4211,6 @@ AL战胜BLG（热度：859667）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%9C%E5%A7%90%E5%90%91%E9%99%88%E5%93%B2%E8%BF%9C%E9%81%93%E6%AD%89%23" target="weibo">
 柜姐向陈哲远道歉（热度：858255）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%8D%97%E8%B4%A2%E5%A4%A7%E8%A2%AB%E6%9B%9D%E7%94%B7%E5%AD%90%E7%A9%BF%E5%A5%B3%E8%A3%85%E6%9B%BF%E8%80%83%23" target="weibo">
-中南财大被曝男子穿女装替考（热度：857899）
 </a>
 </li>
 
