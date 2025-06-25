@@ -1,6 +1,6 @@
 {
   "startTime": 1750782835563,
-  "endTime": 1750823698314,
+  "endTime": 1750826176590,
   "band_list": [
     {
       "raw_hot": 1939482,
@@ -8,6 +8,14 @@
       "word": "高考611分女生体检不合格恐无法入学",
       "onboard_time": 1750820182,
       "rank": 3,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 1391174,
+      "num": 1391174,
+      "word": "河南女生高考288分全家欢呼",
+      "onboard_time": 1750823602,
+      "rank": 11,
       "category": "民生新闻,教育"
     },
     {
@@ -115,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 585976,
+      "num": 490260,
+      "word": "台北故宫与美国合作不与北京合作",
+      "onboard_time": 1750824863,
+      "rank": 10,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 559760,
       "num": 833467,
       "word": "港媒曝姜涛服食药物跳海",
@@ -137,14 +153,6 @@
       "onboard_time": 1750813042,
       "rank": 17,
       "category": "教育"
-    },
-    {
-      "raw_hot": 521675,
-      "num": 488787,
-      "word": "河南女生高考288分全家欢呼",
-      "onboard_time": 1750823602,
-      "rank": 11,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 518126,
@@ -171,8 +179,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 480739,
+      "num": 480739,
+      "word": "陕西高考分数线",
+      "onboard_time": 1750824804,
+      "rank": 12,
+      "category": "教育"
+    },
+    {
       "raw_hot": 467449,
-      "num": 503038,
+      "num": 533709,
       "word": "伊朗宣告战争结束重建工作开启",
       "onboard_time": 1750808121,
       "rank": 9,
@@ -211,6 +227,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 431323,
+      "num": 504931,
+      "word": "北京高考698分以上113人",
+      "onboard_time": 1750820482,
+      "rank": 32,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 428518,
       "num": 341641,
       "word": "月薪18000大学生住家保姆的一天",
@@ -228,7 +252,7 @@
     },
     {
       "raw_hot": 401098,
-      "num": 512636,
+      "num": 520330,
       "word": "张凌赫王楚然 男帅女美",
       "onboard_time": 1750817241,
       "rank": 12,
@@ -260,7 +284,7 @@
     },
     {
       "raw_hot": 372442,
-      "num": 507957,
+      "num": 517508,
       "word": "王嘉尔撕拉片好权威",
       "onboard_time": 1750818861,
       "rank": 13,
@@ -272,6 +296,14 @@
       "word": "张桂源中考623分",
       "onboard_time": 1750769364,
       "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 348088,
+      "num": 350410,
+      "word": "newjeans确定禁止独立活动",
+      "onboard_time": 1750821924,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -387,12 +419,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 265134,
+      "num": 265134,
+      "word": "张凌赫首部民国男主",
+      "onboard_time": 1750823484,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 264014,
       "num": 264014,
       "word": "婚内强奸案当事人已离婚",
       "onboard_time": 1750777524,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 263215,
+      "num": 282902,
+      "word": "终于切身体会到什么是莞莞类卿了",
+      "onboard_time": 1750824804,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 262747,
@@ -411,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 251781,
+      "num": 251781,
+      "word": "轻度抑郁症的真实表现",
+      "onboard_time": 1750823784,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 244399,
       "num": 244399,
       "word": "敖瑞鹏吴宣仪 不二之臣",
@@ -419,12 +475,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 243950,
-      "num": 350410,
-      "word": "newjeans确定禁止独立活动",
-      "onboard_time": 1750821924,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 243573,
+      "num": 243573,
+      "word": "睡满8小时和6小时的区别",
+      "onboard_time": 1750822762,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 230514,
+      "num": 230514,
+      "word": "男子聚餐后冻死街边家属诉同事被驳",
+      "onboard_time": 1750821203,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 227239,
@@ -443,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222379,
+      "num": 281386,
+      "word": "酱园弄堆砌明星不等于好电影",
+      "onboard_time": 1750825705,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 219007,
       "num": 207631,
       "word": "前国乒名将创业变网红",
@@ -457,14 +529,6 @@
       "onboard_time": 1750821142,
       "rank": 31,
       "category": "教育"
-    },
-    {
-      "raw_hot": 214855,
-      "num": 498367,
-      "word": "北京高考698分以上113人",
-      "onboard_time": 1750820482,
-      "rank": 32,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 214032,
@@ -488,14 +552,6 @@
       "word": "肖战拍戏会主动提供思路",
       "onboard_time": 1750775903,
       "rank": 23,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 202165,
-      "num": 209609,
-      "word": "张凌赫首部民国男主",
-      "onboard_time": 1750823484,
-      "rank": 25,
       "category": "剧集"
     },
     {
@@ -579,11 +635,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 186393,
-      "num": 186393,
-      "word": "男子聚餐后冻死街边家属诉同事被驳",
-      "onboard_time": 1750821203,
-      "rank": 42,
+      "raw_hot": 186893,
+      "num": 186893,
+      "word": "湖北一个班3个学生成绩被屏蔽",
+      "onboard_time": 1750824082,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -603,6 +659,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 178012,
+      "num": 178012,
+      "word": "恋与深空",
+      "onboard_time": 1750825825,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 175965,
+      "num": 175965,
+      "word": "领导的朋友圈不要随便评论",
+      "onboard_time": 1750824384,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 175427,
       "num": 175427,
       "word": "花开锦绣",
@@ -619,14 +691,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 172984,
-      "num": 172984,
-      "word": "睡满8小时和6小时的区别",
-      "onboard_time": 1750822762,
-      "rank": 37,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 171260,
       "num": 171260,
       "word": "焦虑压力大等负面情绪易引发白癜风",
@@ -635,12 +699,44 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 170854,
+      "num": 170854,
+      "word": "山东分数线",
+      "onboard_time": 1750825766,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 166511,
+      "num": 176275,
+      "word": "张译新剧人设又怂又刚",
+      "onboard_time": 1750825945,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162153,
       "num": 162153,
       "word": "让体脂下降的30个小方法",
       "onboard_time": 1750780461,
       "rank": 31,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 161140,
+      "num": 161140,
+      "word": "浙江高考成绩",
+      "onboard_time": 1750825104,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 155141,
+      "num": 155141,
+      "word": "方媛三胎近况",
+      "onboard_time": 1750826065,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 155049,
@@ -672,6 +768,22 @@
       "word": "鸿蒙技术人才缺口近百万人",
       "onboard_time": 1750822282,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148327,
+      "num": 148327,
+      "word": "我愿称这为快递员圈颜值天花板",
+      "onboard_time": 1750825465,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 147175,
+      "num": 147175,
+      "word": "保洁阿姨给大学女厕标识穿裙子",
+      "onboard_time": 1750824384,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -889,6 +1001,14 @@
       "onboard_time": 1750822644,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103756,
+      "num": 161752,
+      "word": "以方打电话威胁20多名伊朗高官",
+      "onboard_time": 1750824082,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 103204,
@@ -1259,12 +1379,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38878,
+      "num": 276162,
+      "word": "特朗普彻夜未眠关注以伊停火进展",
+      "onboard_time": 1750825284,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 34497,
       "num": 131047,
       "word": "再考清华当事人称将公布高考成绩",
       "onboard_time": 1750785556,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33594,
+      "num": 162677,
+      "word": "从催眠中学来的快速入睡方法",
+      "onboard_time": 1750825046,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 29864,
@@ -1304,6 +1440,14 @@
       "word": "贵州榕江已紧急转移约4万人",
       "onboard_time": 1750787475,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21025,
+      "num": 179990,
+      "word": "不吸烟的亚洲女性为什么肺癌高发",
+      "onboard_time": 1750826065,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
