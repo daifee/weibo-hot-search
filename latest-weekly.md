@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/22 00:30:38 ~ 2025/06/26 01:44:06
+本榜单时间：2025/06/22 00:30:38 ~ 2025/06/26 02:37:25
 </p>
 </blockquote>
 <p>
@@ -5733,6 +5733,12 @@ Ella回应会不会再生（热度：176147）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%84%E9%98%B3%E5%9B%9B%E4%B8%AD6%E4%BA%BA%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E8%A2%AB%E5%B1%8F%E8%94%BD%23" target="weibo">
+襄阳四中6人高考成绩被屏蔽（热度：170458）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%AD%A4%E5%89%8D%E5%B0%8630%E5%B9%B4%E5%86%85%E5%A4%A7%E5%9C%B0%E9%9C%87%E6%A6%82%E7%8E%87%E6%8F%90%E8%87%B380%25%23" target="weibo">
 日本此前将30年内大地震概率提至80%（热度：170243）
 </a>
@@ -7511,12 +7517,6 @@ AI 中毒（热度：133141）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%8F%B6%E8%88%92%E5%8D%8E%E4%B8%AD%E6%96%87%E5%8A%A0%E5%AF%86%E5%B0%8F%E6%8A%84%23" target="weibo">
 宋雨琦叶舒华中文加密小抄（热度：132648）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A5%84%E9%98%B3%E5%9B%9B%E4%B8%AD6%E4%BA%BA%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E8%A2%AB%E5%B1%8F%E8%94%BD%23" target="weibo">
-襄阳四中6人高考成绩被屏蔽（热度：132595）
 </a>
 </li>
 
@@ -9723,6 +9723,12 @@ AI修图（热度：71126）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E9%AB%98%E8%80%83704%E5%88%86%E5%A6%88%E5%A6%88%E8%AF%B4%E5%B9%B3%E6%97%B6%E6%94%BE%E5%85%BB%E6%95%99%E8%82%B2%23" target="weibo">
+儿子高考704分妈妈说平时放养教育（热度：66800）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9F%83%E5%88%87%E7%BB%B4%E9%87%8C%E4%BB%BB%E6%84%8F%E7%90%83%E7%A0%B4%E9%97%A8%23" target="weibo">
 埃切维里任意球破门（热度：66530）
 </a>
@@ -10317,6 +10323,12 @@ Rihanna三胎孕肚（热度：48408）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E5%AE%9E%E7%A7%B0%E5%A6%82%E6%9E%9C%E6%98%8E%E5%B9%B4%E5%86%8D%E8%80%83%E4%BC%9A%E6%98%AF%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%23" target="weibo">
+梁实称如果明年再考会是最后一次（热度：45717）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E7%9C%8B%E4%B8%B4%E6%B1%9F%E4%BB%99%E7%BB%93%E5%B1%80%E5%93%AD%E7%9A%84%E5%B7%B2%E7%BB%8F%E4%B8%8D%E8%A1%8C%E4%BA%86%23" target="weibo">
 于正看临江仙结局哭的已经不行了（热度：45352）
 </a>
@@ -10553,6 +10565,12 @@ Rihanna三胎孕肚（热度：48408）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B7%9F%E7%9D%80%E6%87%92%E7%BE%8A%E7%BE%8A%E5%8F%8D%E5%86%85%E8%80%97%23" target="weibo">
 跟着懒羊羊反内耗（热度：37534）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23labubu%23" target="weibo">
+labubu（热度：37135）
 </a>
 </li>
 
@@ -10809,12 +10827,6 @@ Rihanna三胎孕肚（热度：48408）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E9%AB%98%E8%80%83704%E5%88%86%E5%A6%88%E5%A6%88%E8%AF%B4%E5%B9%B3%E6%97%B6%E6%94%BE%E5%85%BB%E6%95%99%E8%82%B2%23" target="weibo">
-儿子高考704分妈妈说平时放养教育（热度：29560）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%89%93%E6%9A%91%E6%9C%9F%E5%B7%A5%E6%97%B6%E6%9F%A5%E5%88%B0%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%80%83%E8%BF%87600%E5%88%86%23" target="weibo">
 女生打暑期工时查到第一次考过600分（热度：29489）
 </a>
@@ -10965,6 +10977,12 @@ Rihanna三胎孕肚（热度：48408）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85S40%E8%B5%9B%E5%AD%A3%E7%A6%8F%E5%88%A9%E7%AC%AC%E4%B8%80%E5%BC%B9%23" target="weibo">
+王者S40赛季福利第一弹（热度：26056）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%97%AA%E5%85%89%E7%9A%84%E5%A4%8F%E5%A4%A9%23" target="weibo">
 闪光的夏天（热度：26023）
 </a>
@@ -11039,6 +11057,12 @@ LPL公益特别行动（热度：24394）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E5%AE%98%E5%AE%A3%E8%8B%8F%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 华晨宇官宣苏州演唱会（热度：23975）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%BE%8E%E5%A5%BD%E7%9A%84%E6%97%85%E7%A8%8B%23" target="weibo">
+虞书欣美好的旅程（热度：23840）
 </a>
 </li>
 
@@ -11351,6 +11375,12 @@ Hero对战WB（热度：15054）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%85%B3%E6%9F%A5%E8%8E%B76960%E4%B8%AA%E4%BE%B5%E6%9D%83labubu%23" target="weibo">
 海关查获6960个侵权labubu（热度：13493）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A7%9A%E7%AD%96%E5%85%BB%E6%AF%8D%E5%90%A6%E8%AE%A4%E8%B5%B7%E8%AF%89%E6%98%AF%E4%B8%BA%E7%82%92%E4%BD%9C%E5%B8%A6%E8%B4%A7%23" target="weibo">
+姚策养母否认起诉是为炒作带货（热度：12917）
 </a>
 </li>
 
