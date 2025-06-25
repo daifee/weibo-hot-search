@@ -1,6 +1,6 @@
 {
   "startTime": 1750782835563,
-  "endTime": 1750834369224,
+  "endTime": 1750836438051,
   "band_list": [
     {
       "raw_hot": 1939482,
@@ -11,6 +11,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 1593885,
+      "num": 1593885,
+      "word": "韩安冉晒硕士offer",
+      "onboard_time": 1750832482,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1526401,
       "num": 1526401,
       "word": "河南女生高考288分全家欢呼",
@@ -19,12 +27,12 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 1360783,
-      "num": 1360783,
-      "word": "韩安冉晒硕士offer",
-      "onboard_time": 1750832482,
-      "rank": 10,
-      "category": "网红"
+      "raw_hot": 1423854,
+      "num": 799082,
+      "word": "健身房 脏",
+      "onboard_time": 1750834104,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1345973,
@@ -41,6 +49,14 @@
       "onboard_time": 1750779443,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1261385,
+      "num": 1261385,
+      "word": "山东分数线",
+      "onboard_time": 1750825766,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 1134062,
@@ -140,7 +156,7 @@
     },
     {
       "raw_hot": 653977,
-      "num": 347121,
+      "num": 352647,
       "word": "18岁绝经女生的真实感受",
       "onboard_time": 1750829001,
       "rank": 30,
@@ -155,6 +171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 598053,
+      "num": 379285,
+      "word": "父亲家暴烧死母亲案死刑已执行",
+      "onboard_time": 1750833383,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 594108,
       "num": 300114,
       "word": "郑乃馨曾哭着说可以等我吗",
@@ -164,7 +188,7 @@
     },
     {
       "raw_hot": 587951,
-      "num": 349252,
+      "num": 370461,
       "word": "魏大勋出个国怎么帅成这样",
       "onboard_time": 1750830262,
       "rank": 22,
@@ -233,6 +257,14 @@
       "onboard_time": 1750824804,
       "rank": 12,
       "category": "教育"
+    },
+    {
+      "raw_hot": 479993,
+      "num": 374209,
+      "word": "车银优耳机被车压扁了",
+      "onboard_time": 1750834461,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 467449,
@@ -315,6 +347,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 408176,
+      "num": 408176,
+      "word": "浙江高考成绩",
+      "onboard_time": 1750825104,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 402642,
       "num": 402642,
       "word": "轻断食五天瘦了11斤",
@@ -347,20 +387,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 389600,
+      "num": 389600,
+      "word": "张雪峰看到物理100分的反应",
+      "onboard_time": 1750835363,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 385615,
+      "num": 385615,
+      "word": "酱园弄开分5.9什么压垮了口碑",
+      "onboard_time": 1750832422,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 385106,
       "num": 385106,
       "word": "美CIA发中文视频招间谍",
       "onboard_time": 1750809502,
       "rank": 8,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 384776,
-      "num": 384776,
-      "word": "浙江高考成绩",
-      "onboard_time": 1750825104,
-      "rank": 43,
-      "category": "教育"
     },
     {
       "raw_hot": 382712,
@@ -419,6 +467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 337462,
+      "num": 337462,
+      "word": "山东高考成绩",
+      "onboard_time": 1750835843,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 330782,
       "num": 297817,
       "word": "男子殴打妻子后发生性关系被告强奸",
@@ -459,6 +515,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 318444,
+      "num": 318444,
+      "word": "雷军再透露小米YU7价格",
+      "onboard_time": 1750832782,
+      "rank": 22,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 312052,
       "num": 248405,
       "word": "美国女子地铁轨道如厕被列车夹死",
@@ -492,7 +556,7 @@
     },
     {
       "raw_hot": 295768,
-      "num": 277700,
+      "num": 298632,
       "word": "张凌赫首部民国男主",
       "onboard_time": 1750823484,
       "rank": 25,
@@ -563,14 +627,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 262042,
-      "num": 262042,
-      "word": "雷军再透露小米YU7价格",
-      "onboard_time": 1750832782,
-      "rank": 22,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 258360,
       "num": 258360,
       "word": "林志颖儿子kimi现在好帅",
@@ -585,6 +641,22 @@
       "onboard_time": 1750775425,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 240837,
+      "num": 240837,
+      "word": "周翊然的导演处女作",
+      "onboard_time": 1750835422,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 240541,
+      "num": 240541,
+      "word": "44岁的张娜拉",
+      "onboard_time": 1750834581,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 235842,
@@ -691,12 +763,12 @@
       "category": "电影,动漫"
     },
     {
-      "raw_hot": 203035,
-      "num": 266079,
-      "word": "酱园弄开分5.9什么压垮了口碑",
-      "onboard_time": 1750832422,
+      "raw_hot": 202444,
+      "num": 202444,
+      "word": "2025年四川高考分数线",
+      "onboard_time": 1750835902,
       "rank": 26,
-      "category": "电影"
+      "category": "教育"
     },
     {
       "raw_hot": 200395,
@@ -747,6 +819,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 192647,
+      "num": 383405,
+      "word": "伊朗首都查获超1万架无人机",
+      "onboard_time": 1750831343,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 192259,
       "num": 192259,
       "word": "伊朗盛大庆祝战胜以色列",
@@ -785,6 +865,14 @@
       "onboard_time": 1750816040,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188816,
+      "num": 318762,
+      "word": "高考报志愿选学校还是选城市",
+      "onboard_time": 1750835242,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 188125,
@@ -851,27 +939,11 @@
       "category": "网红"
     },
     {
-      "raw_hot": 182893,
-      "num": 182893,
-      "word": "父亲家暴烧死母亲案死刑已执行",
-      "onboard_time": 1750833383,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 179113,
       "num": 179113,
       "word": "湖北高考",
       "onboard_time": 1750815561,
       "rank": 32,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 179083,
-      "num": 179083,
-      "word": "山东分数线",
-      "onboard_time": 1750825766,
-      "rank": 36,
       "category": "教育"
     },
     {
@@ -881,14 +953,6 @@
       "onboard_time": 1750825825,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 177504,
-      "num": 177504,
-      "word": "伊朗首都查获超1万架无人机",
-      "onboard_time": 1750831343,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 175427,
@@ -945,6 +1009,14 @@
       "onboard_time": 1750829182,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 164581,
+      "num": 164581,
+      "word": "伊朗人说以色列1秒炸毁我42年人生",
+      "onboard_time": 1750833263,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 164499,
@@ -1024,6 +1096,14 @@
       "word": "桃花映江山",
       "onboard_time": 1750832242,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 150886,
+      "num": 150886,
+      "word": "谍报上不封顶",
+      "onboard_time": 1750836322,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -1203,14 +1283,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 132431,
-      "num": 132431,
-      "word": "健身房 脏",
-      "onboard_time": 1750834104,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 131052,
       "num": 130131,
       "word": "李心艾孕晚期",
@@ -1235,14 +1307,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 129825,
-      "num": 129825,
-      "word": "伊朗人说以色列1秒炸毁我42年人生",
-      "onboard_time": 1750833263,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 129792,
       "num": 129792,
       "word": "中国选手12秒96破纪录夺冠",
@@ -1259,12 +1323,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 127171,
-      "num": 125423,
+      "raw_hot": 127424,
+      "num": 127424,
       "word": "女孩服激素增高药身高定格137cm",
       "onboard_time": 1750832362,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127161,
+      "num": 127161,
+      "word": "弟弟受北大哥哥激励考702想上清华",
+      "onboard_time": 1750832063,
+      "rank": 41,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 127137,
+      "num": 186660,
+      "word": "孟子义端水式宣传",
+      "onboard_time": 1750834881,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 126223,
@@ -1281,6 +1361,14 @@
       "onboard_time": 1750831824,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123779,
+      "num": 123779,
+      "word": "淡水鱼生 寄生虫",
+      "onboard_time": 1750835782,
+      "rank": 42,
+      "category": "科学科普"
     },
     {
       "raw_hot": 122635,
@@ -1305,6 +1393,22 @@
       "onboard_time": 1750826903,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118287,
+      "num": 118287,
+      "word": "大金融股持续爆发",
+      "onboard_time": 1750835363,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 117861,
+      "num": 117861,
+      "word": "高校回应学生用四川地震歧视当地人",
+      "onboard_time": 1750835062,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116225,
@@ -1347,6 +1451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111453,
+      "num": 111453,
+      "word": "山东2025高考查分",
+      "onboard_time": 1750836322,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 111430,
       "num": 111430,
       "word": "只要你有一次超过3点睡觉",
@@ -1369,6 +1481,14 @@
       "onboard_time": 1750765163,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 111094,
+      "num": 111094,
+      "word": "空腹断食16小时的身体变化",
+      "onboard_time": 1750835482,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 111070,
@@ -1449,6 +1569,14 @@
       "onboard_time": 1750833501,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 99702,
+      "num": 135045,
+      "word": "刘诗诗胡先煦醉梦预告感染力",
+      "onboard_time": 1750834523,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 99520,
@@ -1739,6 +1867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65262,
+      "num": 220384,
+      "word": "海南本科线480分",
+      "onboard_time": 1750834342,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 65135,
       "num": 126153,
       "word": "姆巴佩暴瘦10斤",
@@ -1867,14 +2003,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 41503,
-      "num": 123246,
-      "word": "海南本科线480分",
-      "onboard_time": 1750834342,
-      "rank": 44,
-      "category": "教育"
-    },
-    {
       "raw_hot": 38878,
       "num": 276162,
       "word": "特朗普彻夜未眠关注以伊停火进展",
@@ -1908,11 +2036,19 @@
     },
     {
       "raw_hot": 33178,
-      "num": 641727,
+      "num": 887827,
       "word": "亲水经济夏日持续升温",
       "onboard_time": 1750827864,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32227,
+      "num": 126690,
+      "word": "甘肃本科线物理类374历史类412",
+      "onboard_time": 1750827203,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 31641,
@@ -1971,14 +2107,6 @@
       "category": "互联网,读书作家"
     },
     {
-      "raw_hot": 27661,
-      "num": 126690,
-      "word": "甘肃本科线物理类374历史类412",
-      "onboard_time": 1750827203,
-      "rank": 41,
-      "category": "教育"
-    },
-    {
       "raw_hot": 27058,
       "num": 27058,
       "word": "张真源中戏毕业典礼vlog",
@@ -2001,6 +2129,14 @@
       "onboard_time": 1750833741,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22342,
+      "num": 110797,
+      "word": "摇光录小红书官号疑似被卖",
+      "onboard_time": 1750835122,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 19181,

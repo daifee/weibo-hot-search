@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750834369224,
+  "endTime": 1750836438051,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -259,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1593885,
+      "num": 1593885,
+      "word": "韩安冉晒硕士offer",
+      "onboard_time": 1750832482,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1560125,
       "num": 878115,
       "word": "特朗普第三次世界大战",
@@ -339,6 +347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1423854,
+      "num": 799082,
+      "word": "健身房 脏",
+      "onboard_time": 1750834104,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1391034,
       "num": 1391034,
       "word": "小米悠悠去世",
@@ -369,14 +385,6 @@
       "onboard_time": 1750666824,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1360783,
-      "num": 1360783,
-      "word": "韩安冉晒硕士offer",
-      "onboard_time": 1750832482,
-      "rank": 10,
-      "category": "网红"
     },
     {
       "raw_hot": 1354262,
@@ -425,6 +433,14 @@
       "onboard_time": 1750565603,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1261385,
+      "num": 1261385,
+      "word": "山东分数线",
+      "onboard_time": 1750825766,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 1259814,
@@ -1260,7 +1276,7 @@
     },
     {
       "raw_hot": 653977,
-      "num": 347121,
+      "num": 352647,
       "word": "18岁绝经女生的真实感受",
       "onboard_time": 1750829001,
       "rank": 30,
@@ -1451,6 +1467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 598053,
+      "num": 379285,
+      "word": "父亲家暴烧死母亲案死刑已执行",
+      "onboard_time": 1750833383,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 597131,
       "num": 597131,
       "word": "女儿被打碎头骨母亲遭死亡威胁",
@@ -1484,7 +1508,7 @@
     },
     {
       "raw_hot": 587951,
-      "num": 349252,
+      "num": 370461,
       "word": "魏大勋出个国怎么帅成这样",
       "onboard_time": 1750830262,
       "rank": 22,
@@ -1979,6 +2003,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 479993,
+      "num": 374209,
+      "word": "车银优耳机被车压扁了",
+      "onboard_time": 1750834461,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 479097,
       "num": 479097,
       "word": "抗战胜利80周年",
@@ -2459,6 +2491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 408176,
+      "num": 408176,
+      "word": "浙江高考成绩",
+      "onboard_time": 1750825104,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 405824,
       "num": 405824,
       "word": "中山震感",
@@ -2603,6 +2643,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 389600,
+      "num": 389600,
+      "word": "张雪峰看到物理100分的反应",
+      "onboard_time": 1750835363,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
       "raw_hot": 385777,
       "num": 385777,
       "word": "美国轰炸伊朗核设施",
@@ -2611,20 +2659,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 385615,
+      "num": 385615,
+      "word": "酱园弄开分5.9什么压垮了口碑",
+      "onboard_time": 1750832422,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 385106,
       "num": 385106,
       "word": "美CIA发中文视频招间谍",
       "onboard_time": 1750809502,
       "rank": 8,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 384776,
-      "num": 384776,
-      "word": "浙江高考成绩",
-      "onboard_time": 1750825104,
-      "rank": 43,
-      "category": "教育"
     },
     {
       "raw_hot": 384407,
@@ -3083,6 +3131,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 337462,
+      "num": 337462,
+      "word": "山东高考成绩",
+      "onboard_time": 1750835843,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 337365,
       "num": 337365,
       "word": "高考查分",
@@ -3273,6 +3329,14 @@
       "onboard_time": 1750676668,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 318444,
+      "num": 318444,
+      "word": "雷军再透露小米YU7价格",
+      "onboard_time": 1750832782,
+      "rank": 22,
+      "category": "汽车"
     },
     {
       "raw_hot": 316685,
@@ -3532,7 +3596,7 @@
     },
     {
       "raw_hot": 295768,
-      "num": 277700,
+      "num": 298632,
       "word": "张凌赫首部民国男主",
       "onboard_time": 1750823484,
       "rank": 25,
@@ -3995,14 +4059,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 262042,
-      "num": 262042,
-      "word": "雷军再透露小米YU7价格",
-      "onboard_time": 1750832782,
-      "rank": 22,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 261874,
       "num": 261874,
       "word": "30多岁的人突然开始运动的原因",
@@ -4313,6 +4369,22 @@
       "onboard_time": 1750724902,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 240837,
+      "num": 240837,
+      "word": "周翊然的导演处女作",
+      "onboard_time": 1750835422,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 240541,
+      "num": 240541,
+      "word": "44岁的张娜拉",
+      "onboard_time": 1750834581,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 240182,
@@ -5275,20 +5347,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 203035,
-      "num": 266079,
-      "word": "酱园弄开分5.9什么压垮了口碑",
-      "onboard_time": 1750832422,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 202920,
       "num": 327118,
       "word": "山河枕配音 不贴脸",
       "onboard_time": 1750674804,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202444,
+      "num": 202444,
+      "word": "2025年四川高考分数线",
+      "onboard_time": 1750835902,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 202425,
@@ -5771,6 +5843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192647,
+      "num": 383405,
+      "word": "伊朗首都查获超1万架无人机",
+      "onboard_time": 1750831343,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 192406,
       "num": 192406,
       "word": "吴彤把在场的人都说哭了",
@@ -5953,6 +6033,14 @@
       "onboard_time": 1750739965,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188816,
+      "num": 318762,
+      "word": "高考报志愿选学校还是选城市",
+      "onboard_time": 1750835242,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 188775,
@@ -6243,14 +6331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 182893,
-      "num": 182893,
-      "word": "父亲家暴烧死母亲案死刑已执行",
-      "onboard_time": 1750833383,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 182794,
       "num": 182794,
       "word": "张函瑞中考成绩",
@@ -6363,14 +6443,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 179083,
-      "num": 179083,
-      "word": "山东分数线",
-      "onboard_time": 1750825766,
-      "rank": 36,
-      "category": "教育"
-    },
-    {
       "raw_hot": 179063,
       "num": 179063,
       "word": "房东的猫拍了撕拉片",
@@ -6417,14 +6489,6 @@
       "onboard_time": 1750728920,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 177504,
-      "num": 177504,
-      "word": "伊朗首都查获超1万架无人机",
-      "onboard_time": 1750831343,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 177201,
@@ -6928,6 +6992,14 @@
       "word": "内塔尼亚胡和特朗普互相祝贺",
       "onboard_time": 1750569141,
       "rank": 40,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 164581,
+      "num": 164581,
+      "word": "伊朗人说以色列1秒炸毁我42年人生",
+      "onboard_time": 1750833263,
+      "rank": 42,
       "category": "国际时政"
     },
     {
@@ -7513,6 +7585,14 @@
       "onboard_time": 1750606102,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 150886,
+      "num": 150886,
+      "word": "谍报上不封顶",
+      "onboard_time": 1750836322,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 150577,
@@ -8683,14 +8763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 132431,
-      "num": 132431,
-      "word": "健身房 脏",
-      "onboard_time": 1750834104,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 132249,
       "num": 132249,
       "word": "胡楚靓",
@@ -8835,14 +8907,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129825,
-      "num": 129825,
-      "word": "伊朗人说以色列1秒炸毁我42年人生",
-      "onboard_time": 1750833263,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 129792,
       "num": 129792,
       "word": "中国选手12秒96破纪录夺冠",
@@ -8955,6 +9019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127424,
+      "num": 127424,
+      "word": "女孩服激素增高药身高定格137cm",
+      "onboard_time": 1750832362,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127417,
       "num": 127417,
       "word": "浙音专业第一淘汰网红",
@@ -8971,12 +9043,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 127171,
-      "num": 125423,
-      "word": "女孩服激素增高药身高定格137cm",
-      "onboard_time": 1750832362,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 127161,
+      "num": 127161,
+      "word": "弟弟受北大哥哥激励考702想上清华",
+      "onboard_time": 1750832063,
+      "rank": 41,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 127137,
+      "num": 186660,
+      "word": "孟子义端水式宣传",
+      "onboard_time": 1750834881,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 127040,
@@ -9195,6 +9275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 123779,
+      "num": 123779,
+      "word": "淡水鱼生 寄生虫",
+      "onboard_time": 1750835782,
+      "rank": 42,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 123747,
       "num": 123747,
       "word": "清远地震暂无人员伤亡报告",
@@ -9408,6 +9496,22 @@
       "word": "Labubu在二手市场价格暴跌",
       "onboard_time": 1750510884,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118287,
+      "num": 118287,
+      "word": "大金融股持续爆发",
+      "onboard_time": 1750835363,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 117861,
+      "num": 117861,
+      "word": "高校回应学生用四川地震歧视当地人",
+      "onboard_time": 1750835062,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -9707,6 +9811,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 111453,
+      "num": 111453,
+      "word": "山东2025高考查分",
+      "onboard_time": 1750836322,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 111442,
       "num": 109262,
       "word": "迪丽热巴东方美人look",
@@ -9737,6 +9849,14 @@
       "onboard_time": 1750675223,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111094,
+      "num": 111094,
+      "word": "空腹断食16小时的身体变化",
+      "onboard_time": 1750835482,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 111070,
@@ -10153,6 +10273,14 @@
       "onboard_time": 1750547297,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 99702,
+      "num": 135045,
+      "word": "刘诗诗胡先煦醉梦预告感染力",
+      "onboard_time": 1750834523,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 99583,
@@ -11195,6 +11323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65262,
+      "num": 220384,
+      "word": "海南本科线480分",
+      "onboard_time": 1750834342,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 65258,
       "num": 190083,
       "word": "看AI赋能千行百业",
@@ -11931,14 +12067,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 41503,
-      "num": 123246,
-      "word": "海南本科线480分",
-      "onboard_time": 1750834342,
-      "rank": 44,
-      "category": "教育"
-    },
-    {
       "raw_hot": 41479,
       "num": 160419,
       "word": "14岁少年的一个月独居实验",
@@ -12212,7 +12340,7 @@
     },
     {
       "raw_hot": 33178,
-      "num": 641727,
+      "num": 887827,
       "word": "亲水经济夏日持续升温",
       "onboard_time": 1750827864,
       "rank": 2,
@@ -12249,6 +12377,14 @@
       "onboard_time": 1750559541,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 32227,
+      "num": 126690,
+      "word": "甘肃本科线物理类374历史类412",
+      "onboard_time": 1750827203,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 32030,
@@ -12441,14 +12577,6 @@
       "onboard_time": 1750765641,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 27661,
-      "num": 126690,
-      "word": "甘肃本科线物理类374历史类412",
-      "onboard_time": 1750827203,
-      "rank": 41,
-      "category": "教育"
     },
     {
       "raw_hot": 27615,
@@ -12697,6 +12825,14 @@
       "onboard_time": 1750598062,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 22342,
+      "num": 110797,
+      "word": "摇光录小红书官号疑似被卖",
+      "onboard_time": 1750835122,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 21592,
