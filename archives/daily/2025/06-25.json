@@ -1,6 +1,6 @@
 {
   "startTime": 1750782835563,
-  "endTime": 1750837327032,
+  "endTime": 1750840560946,
   "band_list": [
     {
       "raw_hot": 1939482,
@@ -75,6 +75,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 1090068,
+      "num": 1174410,
+      "word": "庆余年3刘端端 换角",
+      "onboard_time": 1750839682,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1024296,
       "num": 416256,
       "word": "韦雪说小儿子去秦奋家叫回家",
@@ -107,6 +115,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 863043,
+      "num": 383697,
+      "word": "侯鸿亮晒肖战杨紫剧照",
+      "onboard_time": 1750837703,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 857560,
       "num": 857560,
       "word": "全球第一个即将消失的沙漠",
@@ -115,19 +131,19 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 816558,
+      "num": 816328,
+      "word": "张雪峰看到物理100分的反应",
+      "onboard_time": 1750835363,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
       "raw_hot": 816519,
       "num": 816519,
       "word": "山东高考成绩",
       "onboard_time": 1750835843,
       "rank": 16,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 816328,
-      "num": 816328,
-      "word": "张雪峰看到物理100分的反应",
-      "onboard_time": 1750835363,
-      "rank": 7,
       "category": "教育"
     },
     {
@@ -155,12 +171,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 729938,
+      "num": 358074,
+      "word": "有房有车存款30w 我决定一辈子不上班",
+      "onboard_time": 1750837042,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 702408,
       "num": 489967,
       "word": "父亲家暴烧死母亲案死刑已执行",
       "onboard_time": 1750833383,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 697919,
+      "num": 430323,
+      "word": "庆余年3原班人马回归",
+      "onboard_time": 1750836742,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 689641,
@@ -259,6 +291,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 492197,
+      "num": 280098,
+      "word": "只有结过婚的才知道她有多真实",
+      "onboard_time": 1750838180,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 484958,
       "num": 710944,
       "word": "男生高考715分北大来电差点挂掉",
@@ -273,6 +313,14 @@
       "onboard_time": 1750834461,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 483199,
+      "num": 363534,
+      "word": "晋江再发声明",
+      "onboard_time": 1750836923,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 482681,
@@ -451,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 364844,
+      "num": 364844,
+      "word": "王楚钦 麦当劳叔叔之家",
+      "onboard_time": 1750839502,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 361883,
       "num": 361883,
       "word": "张桂源中考623分",
@@ -523,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 325246,
+      "num": 360562,
+      "word": "浙里办可查20年前高考成绩",
+      "onboard_time": 1750838542,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 324551,
       "num": 431784,
       "word": "谍报上不封顶",
@@ -569,6 +633,14 @@
       "onboard_time": 1750813642,
       "rank": 20,
       "category": "财经"
+    },
+    {
+      "raw_hot": 300474,
+      "num": 300474,
+      "word": "宁静说不喜欢汪峰",
+      "onboard_time": 1750839801,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 298169,
@@ -627,19 +699,19 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 274273,
-      "num": 430323,
-      "word": "庆余年3原班人马回归",
-      "onboard_time": 1750836742,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 271734,
       "num": 266990,
       "word": "曝洪金宝儿子儿媳双双出轨",
       "onboard_time": 1750765043,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 267833,
+      "num": 267833,
+      "word": "18岁的王一博有多帅",
+      "onboard_time": 1750837523,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -657,6 +729,14 @@
       "onboard_time": 1750777524,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 263435,
+      "num": 491877,
+      "word": "伊朗人说以色列1秒炸毁我42年人生",
+      "onboard_time": 1750833263,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 262747,
@@ -681,6 +761,14 @@
       "onboard_time": 1750755143,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 248778,
+      "num": 248778,
+      "word": "查分现场一家三口分工明确",
+      "onboard_time": 1750838482,
+      "rank": 25,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 244399,
@@ -763,6 +851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217815,
+      "num": 217815,
+      "word": "NBA或有重磅交易发生",
+      "onboard_time": 1750837762,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217163,
       "num": 430133,
       "word": "我见到杨幂就付航这个死出儿",
@@ -827,6 +923,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 203799,
+      "num": 196247,
+      "word": "浙江高考最高分",
+      "onboard_time": 1750839922,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 200395,
       "num": 258495,
       "word": "这一秒过火",
@@ -841,6 +945,14 @@
       "onboard_time": 1750831761,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 199652,
+      "num": 199652,
+      "word": "女儿眼里只会玩电脑的爸爸缉毒2.6吨",
+      "onboard_time": 1750838002,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198954,
@@ -889,6 +1001,22 @@
       "onboard_time": 1750823123,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 193888,
+      "num": 193888,
+      "word": "湖北分数线 还不出",
+      "onboard_time": 1750839982,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 193820,
+      "num": 193820,
+      "word": "梁靖崑研究生毕业了",
+      "onboard_time": 1750839262,
+      "rank": 33,
+      "category": "体育,教育"
     },
     {
       "raw_hot": 192259,
@@ -987,6 +1115,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 185686,
+      "num": 185686,
+      "word": "孕妇1天2杯奶茶致早产孩子仅3斤2两",
+      "onboard_time": 1750840282,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 185177,
       "num": 229113,
       "word": "古言终于把事业脑还给女主了",
@@ -1043,6 +1179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173442,
+      "num": 173442,
+      "word": "朱丹说娣娣看得出来你很高兴",
+      "onboard_time": 1750839922,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171260,
       "num": 171260,
       "word": "焦虑压力大等负面情绪易引发白癜风",
@@ -1075,12 +1219,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 164581,
-      "num": 491877,
-      "word": "伊朗人说以色列1秒炸毁我42年人生",
-      "onboard_time": 1750833263,
-      "rank": 42,
-      "category": "国际时政"
+      "raw_hot": 165172,
+      "num": 289332,
+      "word": "偶练学员现状多离谱",
+      "onboard_time": 1750837882,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 164499,
@@ -1089,14 +1233,6 @@
       "onboard_time": 1750827685,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 162937,
-      "num": 162937,
-      "word": "有房有车存款30w 我决定一辈子不上班",
-      "onboard_time": 1750837042,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 162153,
@@ -1121,14 +1257,6 @@
       "onboard_time": 1750829903,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 157079,
-      "num": 260213,
-      "word": "晋江再发声明",
-      "onboard_time": 1750836923,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 155049,
@@ -1339,6 +1467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137828,
+      "num": 137828,
+      "word": "张朝阳张雪峰称填志愿要打破信息茧房",
+      "onboard_time": 1750839380,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 136856,
       "num": 136856,
       "word": "日本合唱团用歌声痛诉731部队罪行",
@@ -1361,6 +1497,14 @@
       "onboard_time": 1750820721,
       "rank": 9,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 133212,
+      "num": 133212,
+      "word": "酱园弄 只见群星不见角色",
+      "onboard_time": 1750840282,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 132975,
@@ -1435,6 +1579,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 126845,
+      "num": 190795,
+      "word": "601分脑瘫男孩说平等对待就是尊重",
+      "onboard_time": 1750838482,
+      "rank": 34,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 126223,
       "num": 126223,
       "word": "痛经真正的救星不是红糖姜茶",
@@ -1465,6 +1617,14 @@
       "onboard_time": 1750832602,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121751,
+      "num": 121751,
+      "word": "孔刘像黄渤戴假发",
+      "onboard_time": 1750839682,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 120998,
@@ -1499,6 +1659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118729,
+      "num": 118729,
+      "word": "小米手表S4",
+      "onboard_time": 1750840461,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 118287,
       "num": 118287,
       "word": "大金融股持续爆发",
@@ -1521,6 +1689,14 @@
       "onboard_time": 1750832602,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 115536,
+      "num": 115536,
+      "word": "奔跑吧双人海报",
+      "onboard_time": 1750839262,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 115475,
@@ -1553,6 +1729,14 @@
       "onboard_time": 1750823663,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112518,
+      "num": 112518,
+      "word": "TizzyT指向天空这一瞬",
+      "onboard_time": 1750840522,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 111453,
@@ -1601,6 +1785,14 @@
       "onboard_time": 1750821262,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 109813,
+      "num": 109813,
+      "word": "生命树",
+      "onboard_time": 1750838663,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 108467,
@@ -1883,6 +2075,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 75899,
+      "num": 286522,
+      "word": "北大毕业生转做演员曾需母亲接济",
+      "onboard_time": 1750839742,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75853,
       "num": 75853,
       "word": "偶遇小沈阳和老婆吃烤肉",
@@ -2035,6 +2235,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 57044,
+      "num": 196405,
+      "word": "云南家暴纵火案儿子不想领取父亲骨灰",
+      "onboard_time": 1750839682,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55495,
       "num": 55495,
       "word": "林俊杰金钟国十年兄弟情",
@@ -2075,6 +2283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 51900,
+      "num": 355420,
+      "word": "夸克志愿报告真的太火火火火了",
+      "onboard_time": 1750838482,
+      "rank": 14,
+      "category": "教育,互联网"
+    },
+    {
       "raw_hot": 51820,
       "num": 51820,
       "word": "内塔尼亚胡将发表声明",
@@ -2105,6 +2321,14 @@
       "onboard_time": 1750829722,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 44634,
+      "num": 298725,
+      "word": "学心理学为什么推荐报天师大",
+      "onboard_time": 1750839561,
+      "rank": 17,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 38878,
