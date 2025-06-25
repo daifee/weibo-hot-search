@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/26 06:44:10
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/26 07:25:11
 </p>
 </blockquote>
 <p>
@@ -2229,6 +2229,12 @@ afternoon怎么变形（热度：1248150）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E7%BB%A9%E8%A2%AB%E5%B1%8F%E8%94%BD%E5%A5%B3%E5%AD%A9%E5%9D%9A%E4%BF%A1%E4%B8%8D%E5%AD%98%E5%9C%A8%E6%99%BA%E5%95%86%E5%B7%AE%E8%B7%9D%23" target="weibo">
+成绩被屏蔽女孩坚信不存在智商差距（热度：1229338）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E4%B8%AD%E8%80%83%E6%9F%A5%E5%88%86863%E5%88%86%E6%95%B0%E5%AD%A6%E6%BB%A1%E5%88%86%23" target="weibo">
 男孩中考查分863分数学满分（热度：1226449）
 </a>
@@ -2369,12 +2375,6 @@ afternoon怎么变形（热度：1248150）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%8D%E9%9C%87%E9%9C%86%E6%9B%9D%E5%84%BF%E5%AD%90%E9%9C%8D%E5%90%AF%E4%BB%81%E5%B7%B2%E7%BB%93%E5%A9%9A%23" target="weibo">
 霍震霆曝儿子霍启仁已结婚（热度：1192974）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E7%BB%A9%E8%A2%AB%E5%B1%8F%E8%94%BD%E5%A5%B3%E5%AD%A9%E5%9D%9A%E4%BF%A1%E4%B8%8D%E5%AD%98%E5%9C%A8%E6%99%BA%E5%95%86%E5%B7%AE%E8%B7%9D%23" target="weibo">
-成绩被屏蔽女孩坚信不存在智商差距（热度：1192951）
 </a>
 </li>
 

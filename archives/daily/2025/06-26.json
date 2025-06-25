@@ -1,10 +1,10 @@
 {
   "startTime": 1750869299096,
-  "endTime": 1750891450132,
+  "endTime": 1750893911906,
   "band_list": [
     {
-      "raw_hot": 1192951,
-      "num": 1192951,
+      "raw_hot": 1229338,
+      "num": 1229338,
       "word": "成绩被屏蔽女孩坚信不存在智商差距",
       "onboard_time": 1750865542,
       "rank": 0,
@@ -27,11 +27,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 564498,
+      "num": 564498,
+      "word": "救百名弃婴和尚挥霍大量爱心善款",
+      "onboard_time": 1750867281,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 437846,
       "num": 437846,
       "word": "杨幂 王小卤",
       "onboard_time": 1750863263,
       "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 432104,
+      "num": 306104,
+      "word": "徐艺洋一周前曾回应怀孕传闻",
+      "onboard_time": 1750853363,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -41,22 +57,6 @@
       "onboard_time": 1750863983,
       "rank": 5,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 386604,
-      "num": 306104,
-      "word": "徐艺洋一周前曾回应怀孕传闻",
-      "onboard_time": 1750853363,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 373832,
-      "num": 373832,
-      "word": "救百名弃婴和尚挥霍大量爱心善款",
-      "onboard_time": 1750867281,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 363333,
@@ -75,6 +75,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 348101,
+      "num": 200430,
+      "word": "长期不上班会和社会脱节吗",
+      "onboard_time": 1750881433,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 341804,
       "num": 341804,
       "word": "罗一舟突发意外受伤",
@@ -91,6 +99,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 296369,
+      "num": 200002,
+      "word": "86岁大学学历北京大爷退休收入",
+      "onboard_time": 1750877056,
+      "rank": 48,
+      "category": "民生新闻,幽默"
+    },
+    {
+      "raw_hot": 277481,
+      "num": 277481,
+      "word": "中央气象台暴雨预警多地将受影响",
+      "onboard_time": 1750892177,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 273828,
+      "num": 273828,
+      "word": "襄阳四中6人高考成绩被屏蔽",
+      "onboard_time": 1750870339,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 266411,
       "num": 266411,
       "word": "LV 王楚钦",
@@ -105,6 +137,14 @@
       "onboard_time": 1750863683,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 258849,
+      "num": 258849,
+      "word": "中方回应特朗普要中国买美国石油",
+      "onboard_time": 1750859064,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 257183,
@@ -131,20 +171,20 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 199859,
+      "num": 199859,
+      "word": "暴雨暴雨注意暴雨暴雨",
+      "onboard_time": 1750841723,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 195539,
       "num": 195539,
       "word": "成何体统",
       "onboard_time": 1750867641,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 190751,
-      "num": 190751,
-      "word": "中方回应特朗普要中国买美国石油",
-      "onboard_time": 1750859064,
-      "rank": 17,
-      "category": "国内时政"
     },
     {
       "raw_hot": 174875,
@@ -155,14 +195,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 172699,
-      "num": 172699,
-      "word": "襄阳四中6人高考成绩被屏蔽",
-      "onboard_time": 1750870339,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 168960,
       "num": 168960,
       "word": "歌手第七期歌单",
@@ -171,20 +203,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160700,
-      "num": 109717,
-      "word": "86岁大学学历北京大爷退休收入",
-      "onboard_time": 1750877056,
-      "rank": 48,
-      "category": "民生新闻,幽默"
-    },
-    {
-      "raw_hot": 160232,
-      "num": 108976,
-      "word": "长期不上班会和社会脱节吗",
-      "onboard_time": 1750881433,
-      "rank": 40,
-      "category": "幽默"
+      "raw_hot": 168656,
+      "num": 201262,
+      "word": "我承认之前对张译有些误会",
+      "onboard_time": 1750866382,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 160070,
@@ -227,12 +251,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 116552,
-      "num": 116552,
-      "word": "暴雨暴雨注意暴雨暴雨",
-      "onboard_time": 1750841723,
-      "rank": 24,
-      "category": "民生新闻"
+      "raw_hot": 116140,
+      "num": 116140,
+      "word": "伊朗称核设施在美空袭中严重受损",
+      "onboard_time": 1750861043,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 108741,
@@ -283,12 +307,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 87793,
-      "num": 87793,
-      "word": "我承认之前对张译有些误会",
-      "onboard_time": 1750866382,
-      "rank": 45,
-      "category": "剧集"
+      "raw_hot": 86341,
+      "num": 86341,
+      "word": "孕妇1天2杯奶茶致早产孩子仅3斤2两",
+      "onboard_time": 1750840282,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85299,
@@ -315,6 +339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82997,
+      "num": 82997,
+      "word": "中南财大被曝男子穿女装替考",
+      "onboard_time": 1750854501,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82734,
       "num": 82734,
       "word": "一天中喝咖啡的最佳时间点",
@@ -339,20 +371,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 79039,
-      "num": 79039,
-      "word": "伊朗称核设施在美空袭中严重受损",
-      "onboard_time": 1750861043,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 77731,
       "num": 77731,
       "word": "刘宇宁这首歌力量感满满",
       "onboard_time": 1750868901,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 76168,
+      "num": 88162,
+      "word": "桃花映江山首播观后感",
+      "onboard_time": 1750892537,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 74544,
@@ -363,19 +395,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 73609,
-      "num": 73609,
-      "word": "孕妇1天2杯奶茶致早产孩子仅3斤2两",
-      "onboard_time": 1750840282,
+      "raw_hot": 73324,
+      "num": 73324,
+      "word": "因推销电话骚扰男子将银行告上法庭",
+      "onboard_time": 1750889895,
       "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 72853,
-      "num": 72853,
-      "word": "中南财大被曝男子穿女装替考",
-      "onboard_time": 1750854501,
-      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -385,6 +409,14 @@
       "onboard_time": 1750871239,
       "rank": 48,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 66228,
+      "num": 66228,
+      "word": "女子掉进沥青桶被卡住连桶一起送医",
+      "onboard_time": 1750878974,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 65948,
@@ -419,6 +451,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 58759,
+      "num": 58759,
+      "word": "错换人生28年案姚策养母索赔220万",
+      "onboard_time": 1750882816,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58180,
+      "num": 201110,
+      "word": "女儿查分猛超陪考老爸200多分",
+      "onboard_time": 1750892238,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57867,
       "num": 57867,
       "word": "山河枕 丁禹兮原声",
@@ -427,11 +475,35 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 50080,
-      "num": 50080,
+      "raw_hot": 54981,
+      "num": 54981,
       "word": "特朗普发文说CNN假新闻",
       "onboard_time": 1750880053,
       "rank": 32,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 50939,
+      "num": 50939,
+      "word": "王者S40赛季福利第一弹",
+      "onboard_time": 1750876095,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 49680,
+      "num": 49680,
+      "word": "泽连斯基或将穿正装见特朗普",
+      "onboard_time": 1750866081,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 48970,
+      "num": 48970,
+      "word": "伊朗防长现身青岛",
+      "onboard_time": 1750847422,
+      "rank": 47,
       "category": "国际时政"
     },
     {
@@ -451,28 +523,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43515,
-      "num": 43515,
-      "word": "女子掉进沥青桶被卡住连桶一起送医",
-      "onboard_time": 1750878974,
-      "rank": 44,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 42539,
       "num": 42539,
       "word": "labubu",
       "onboard_time": 1750875496,
       "rank": 24,
       "category": "休闲,动漫"
-    },
-    {
-      "raw_hot": 41832,
-      "num": 41832,
-      "word": "错换人生28年案姚策养母索赔220万",
-      "onboard_time": 1750882816,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 41828,
@@ -483,12 +539,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 41676,
-      "num": 41676,
-      "word": "泽连斯基或将穿正装见特朗普",
-      "onboard_time": 1750866081,
-      "rank": 49,
-      "category": "国际时政"
+      "raw_hot": 40788,
+      "num": 48940,
+      "word": "把自己戴了很久的东西送给别人",
+      "onboard_time": 1750885874,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 40496,
@@ -499,28 +555,12 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 40049,
-      "num": 40049,
-      "word": "把自己戴了很久的东西送给别人",
-      "onboard_time": 1750885874,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 39814,
       "num": 174644,
       "word": "妈妈回应梦到儿子高考714分",
       "onboard_time": 1750871598,
       "rank": 9,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 36663,
-      "num": 36663,
-      "word": "伊朗防长现身青岛",
-      "onboard_time": 1750847422,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 33049,
@@ -545,22 +585,6 @@
       "onboard_time": 1750872796,
       "rank": 14,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 31264,
-      "num": 31264,
-      "word": "王者S40赛季福利第一弹",
-      "onboard_time": 1750876095,
-      "rank": 38,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 30435,
-      "num": 30435,
-      "word": "因推销电话骚扰男子将银行告上法庭",
-      "onboard_time": 1750889895,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29489,
