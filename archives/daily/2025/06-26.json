@@ -1,6 +1,6 @@
 {
   "startTime": 1750869299096,
-  "endTime": 1750870235421,
+  "endTime": 1750872276792,
   "band_list": [
     {
       "raw_hot": 1192951,
@@ -107,6 +107,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 249657,
+      "num": 249657,
+      "word": "救百名弃婴和尚挥霍大量爱心善款",
+      "onboard_time": 1750867281,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 241560,
       "num": 241560,
       "word": "妈妈替复读生儿子查分瞬间泪崩",
@@ -121,6 +129,14 @@
       "onboard_time": 1750860744,
       "rank": 15,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 195539,
+      "num": 195539,
+      "word": "成何体统",
+      "onboard_time": 1750867641,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 190751,
@@ -147,14 +163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 154954,
-      "num": 154954,
-      "word": "救百名弃婴和尚挥霍大量爱心善款",
-      "onboard_time": 1750867281,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 154681,
       "num": 154681,
       "word": "鹿晗美甲",
@@ -179,14 +187,6 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 141573,
-      "num": 151459,
-      "word": "成何体统",
-      "onboard_time": 1750867641,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 124805,
       "num": 124805,
       "word": "周杰伦晒3岁小女儿萌照",
@@ -195,11 +195,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122229,
+      "num": 122229,
+      "word": "真人互动游戏女童出镜引争议",
+      "onboard_time": 1750868661,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116552,
       "num": 116552,
       "word": "暴雨暴雨注意暴雨暴雨",
       "onboard_time": 1750841723,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115710,
+      "num": 115710,
+      "word": "襄阳四中6人高考成绩被屏蔽",
+      "onboard_time": 1750870339,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -273,14 +289,6 @@
       "onboard_time": 1750850362,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 82736,
-      "num": 82736,
-      "word": "真人互动游戏女童出镜引争议",
-      "onboard_time": 1750868661,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 82734,
@@ -409,6 +417,46 @@
       "onboard_time": 1750867341,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40496,
+      "num": 40496,
+      "word": "桃黑黑 橙光",
+      "onboard_time": 1750855942,
+      "rank": 40,
+      "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 33137,
+      "num": 33137,
+      "word": "伊朗防长现身青岛",
+      "onboard_time": 1750847422,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 33049,
+      "num": 33049,
+      "word": "伊朗将为丧生指挥官和科学家举行国葬",
+      "onboard_time": 1750864942,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 32285,
+      "num": 32285,
+      "word": "庆余年3在剧本创作阶段",
+      "onboard_time": 1750872257,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 31207,
+      "num": 174644,
+      "word": "妈妈回应梦到儿子高考714分",
+      "onboard_time": 1750871598,
+      "rank": 9,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 9769,
