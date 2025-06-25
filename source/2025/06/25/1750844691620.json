@@ -1,0 +1,410 @@
+{
+  "runTime": 1750844691620,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2228894,
+        "num": 2228894,
+        "word": "黄子韬方否认代孕",
+        "onboard_time": 1750842923,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 622491,
+        "num": 622491,
+        "word": "浙江高考最高分",
+        "onboard_time": 1750839922,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 26188,
+        "num": 571946,
+        "word": "亲水经济夏日持续升温",
+        "onboard_time": 1750827864,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1527508,
+        "num": 559922,
+        "word": "庆余年3刘端端 换角",
+        "onboard_time": 1750839682,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 546164,
+        "num": 546164,
+        "word": "健身房 脏",
+        "onboard_time": 1750834104,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 501313,
+        "num": 501313,
+        "word": "暴雨暴雨注意暴雨暴雨",
+        "onboard_time": 1750841723,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 516893,
+        "num": 497379,
+        "word": "庆余年3 赵昭仪",
+        "onboard_time": 1750843942,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 506568,
+        "num": 494206,
+        "word": "百万网红树莓宣布退学",
+        "onboard_time": 1750841661,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 209441,
+        "num": 487138,
+        "word": "伊朗人说以色列1秒炸毁我42年人生",
+        "onboard_time": 1750833263,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 286687,
+        "num": 482790,
+        "word": "浙里办可查20年前高考成绩",
+        "onboard_time": 1750838542,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54931,
+        "num": 475682,
+        "word": "圣罗兰男装秀直击",
+        "onboard_time": 1750842321,
+        "rank": 10,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 585902,
+        "num": 469173,
+        "word": "只有结过婚的才知道她有多真实",
+        "onboard_time": 1750838180,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 468419,
+        "num": 468419,
+        "word": "侯鸿亮晒肖战杨紫剧照",
+        "onboard_time": 1750837703,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 465536,
+        "num": 465536,
+        "word": "张元英转圈又火了",
+        "onboard_time": 1750842321,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 371198,
+        "num": 371198,
+        "word": "宁静说不喜欢汪峰",
+        "onboard_time": 1750839801,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339001,
+        "num": 339001,
+        "word": "有房有车存款30w 我决定一辈子不上班",
+        "onboard_time": 1750837042,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 65833,
+        "num": 295290,
+        "word": "卡萨帝AI科技守护千年非遗",
+        "onboard_time": 1750841661,
+        "rank": 16,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 269393,
+        "num": 269393,
+        "word": "歌手歌单",
+        "onboard_time": 1750843162,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217969,
+        "num": 217969,
+        "word": "王楚钦乒乓球围棋二选一",
+        "onboard_time": 1750842382,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211484,
+        "num": 211484,
+        "word": "288分女孩妈妈称不拿短处比别人长处",
+        "onboard_time": 1750842082,
+        "rank": 19,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 376516,
+        "num": 211148,
+        "word": "孕妇1天2杯奶茶致早产孩子仅3斤2两",
+        "onboard_time": 1750840282,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248677,
+        "num": 210078,
+        "word": "孟子义的男主们包场新剧",
+        "onboard_time": 1750843463,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218687,
+        "num": 207147,
+        "word": "曝陈怡蓉因老公事业危机将复出",
+        "onboard_time": 1750841543,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203287,
+        "num": 203287,
+        "word": "杨紫出席白玉兰颁奖",
+        "onboard_time": 1750843762,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92354,
+        "num": 199518,
+        "word": "新疆分数线",
+        "onboard_time": 1750843643,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 196496,
+        "num": 196496,
+        "word": "金价跌至6月以来新低",
+        "onboard_time": 1750827685,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 190582,
+        "num": 190582,
+        "word": "父亲家暴烧死母亲案死刑已执行",
+        "onboard_time": 1750833383,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90296,
+        "num": 172052,
+        "word": "特朗普发视频恶搞轰炸伊朗",
+        "onboard_time": 1750844542,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 166808,
+        "num": 166808,
+        "word": "东晓南",
+        "onboard_time": 1750844302,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104317,
+        "num": 165822,
+        "word": "俄外长称乌克兰正恳求无条件停火",
+        "onboard_time": 1750844482,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 165608,
+        "num": 165608,
+        "word": "18岁的王一博有多帅",
+        "onboard_time": 1750837523,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160189,
+        "num": 160189,
+        "word": "张继科辟谣去日本执教传言",
+        "onboard_time": 1750843042,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159958,
+        "num": 159958,
+        "word": "山东分数线",
+        "onboard_time": 1750825766,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 153017,
+        "num": 153017,
+        "word": "建议要有个高质量的学霸搭子",
+        "onboard_time": 1750843584,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 152942,
+        "num": 152942,
+        "word": "湖北分数线",
+        "onboard_time": 1750842082,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 148296,
+        "num": 148296,
+        "word": "奚梦瑶被婆婆认可原因",
+        "onboard_time": 1750842863,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145692,
+        "num": 145692,
+        "word": "美国一女婴在酒店抽屉中窒息而死",
+        "onboard_time": 1750842563,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 43535,
+        "num": 143841,
+        "word": "好友借8.5万拒不还款法院上门执行",
+        "onboard_time": 1750843344,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143748,
+        "num": 143748,
+        "word": "晋江再发声明",
+        "onboard_time": 1750836923,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27073,
+        "num": 143112,
+        "word": "早田希娜伊藤美诚重组女双",
+        "onboard_time": 1750843643,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142997,
+        "num": 142997,
+        "word": "400多名加沙民众领物资时被以军杀害",
+        "onboard_time": 1750842142,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 140297,
+        "num": 140297,
+        "word": "我不后悔选了文科",
+        "onboard_time": 1750844422,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134515,
+        "num": 134515,
+        "word": "偶练学员现状多离谱",
+        "onboard_time": 1750837882,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134075,
+        "num": 134075,
+        "word": "NBA或有重磅交易发生",
+        "onboard_time": 1750837762,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125995,
+        "num": 125995,
+        "word": "车银优耳机被车压扁了",
+        "onboard_time": 1750834461,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123358,
+        "num": 123358,
+        "word": "山东高考692分以上54人",
+        "onboard_time": 1750841002,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 120024,
+        "num": 120024,
+        "word": "年轻人一定要创造条件一个人住",
+        "onboard_time": 1750843703,
+        "rank": 46,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 29557,
+        "num": 118275,
+        "word": "中国科大计算机为什么这么全面",
+        "onboard_time": 1750843224,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 117924,
+        "num": 117924,
+        "word": "徐艺洋工作室声明",
+        "onboard_time": 1750844603,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110479,
+        "num": 110479,
+        "word": "男子因老中医指甲长把脉留印索赔2千",
+        "onboard_time": 1750828223,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温10年前阅兵现场依然震撼#"
+    }
+  }
+}
