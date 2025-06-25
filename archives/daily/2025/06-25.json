@@ -1,14 +1,46 @@
 {
   "startTime": 1750782835563,
-  "endTime": 1750808438019,
+  "endTime": 1750817016822,
   "band_list": [
     {
+      "raw_hot": 1345973,
+      "num": 1345973,
+      "word": "高考成绩",
+      "onboard_time": 1750812863,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1287324,
-      "num": 302738,
+      "num": 340738,
       "word": "小婉自曝整容",
       "onboard_time": 1750779443,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1024296,
+      "num": 349210,
+      "word": "韦雪说小儿子去秦奋家叫回家",
+      "onboard_time": 1750813163,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 934301,
+      "num": 934301,
+      "word": "陈可辛 陈思诚",
+      "onboard_time": 1750811842,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 857560,
+      "num": 857560,
+      "word": "全球第一个即将消失的沙漠",
+      "onboard_time": 1750808481,
+      "rank": 3,
+      "category": "科学科普"
     },
     {
       "raw_hot": 670122,
@@ -35,6 +67,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 545889,
+      "num": 322171,
+      "word": "特朗普希望中国从美国购买石油",
+      "onboard_time": 1750810461,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 523979,
+      "num": 523979,
+      "word": "江西高考分数线",
+      "onboard_time": 1750814662,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 484958,
       "num": 710944,
       "word": "男生高考715分北大来电差点挂掉",
@@ -43,11 +91,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 467449,
+      "num": 467449,
+      "word": "伊朗宣告战争结束重建工作开启",
+      "onboard_time": 1750808121,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 458996,
       "num": 458996,
       "word": "晋江要求哇唧唧哇停止侵权",
       "onboard_time": 1750780103,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 452997,
+      "num": 452997,
+      "word": "哇唧唧哇硬刚晋江",
+      "onboard_time": 1750808000,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -59,12 +123,36 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 428518,
+      "num": 314858,
+      "word": "月薪18000大学生住家保姆的一天",
+      "onboard_time": 1750808421,
+      "rank": 47,
+      "category": "民生新闻,幽默"
+    },
+    {
+      "raw_hot": 402642,
+      "num": 402642,
+      "word": "轻断食五天瘦了11斤",
+      "onboard_time": 1750808061,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 393546,
       "num": 393546,
       "word": "BLACKPINK四人合体了",
       "onboard_time": 1750776444,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 385106,
+      "num": 385106,
+      "word": "美CIA发中文视频招间谍",
+      "onboard_time": 1750809502,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 382712,
@@ -81,6 +169,14 @@
       "onboard_time": 1750769364,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 351681,
+      "num": 351681,
+      "word": "千年武则天无字碑加盖引争议",
+      "onboard_time": 1750816040,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 346385,
@@ -115,12 +211,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 310903,
+      "num": 310903,
+      "word": "华丽巨蚊",
+      "onboard_time": 1750815023,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 310010,
       "num": 310010,
       "word": "男子吸毒28年耗尽千万家产",
       "onboard_time": 1750769543,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 303680,
+      "num": 255897,
+      "word": "金价油价跌跌跌",
+      "onboard_time": 1750813642,
+      "rank": 20,
+      "category": "财经"
     },
     {
       "raw_hot": 298169,
@@ -137,6 +249,14 @@
       "onboard_time": 1750782081,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 275255,
+      "num": 275255,
+      "word": "冲突致伊朗610死以色列28死",
+      "onboard_time": 1750811122,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 274975,
@@ -163,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 262747,
+      "num": 262747,
+      "word": "人民文娱评酱园弄悬案",
+      "onboard_time": 1750810641,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 258360,
       "num": 258360,
       "word": "林志颖儿子kimi现在好帅",
@@ -171,12 +299,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 255979,
+      "num": 255979,
+      "word": "北京分数线",
+      "onboard_time": 1750813042,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 244399,
       "num": 244399,
       "word": "敖瑞鹏吴宣仪 不二之臣",
       "onboard_time": 1750775425,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 227902,
+      "num": 227902,
+      "word": "美国女子地铁轨道如厕被列车夹死",
+      "onboard_time": 1750816102,
+      "rank": 24,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 227239,
@@ -211,11 +355,35 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200395,
+      "num": 255951,
+      "word": "这一秒过火",
+      "onboard_time": 1750815561,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 198954,
+      "num": 255908,
+      "word": "安陵容唯一赢的一次",
+      "onboard_time": 1750811662,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197600,
       "num": 180935,
       "word": "停火生效前以被曝实施多起暗杀",
       "onboard_time": 1750791494,
       "rank": 21,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 190597,
+      "num": 190597,
+      "word": "伊朗总统称已准备好重返谈判桌",
+      "onboard_time": 1750811783,
+      "rank": 25,
       "category": "国际时政"
     },
     {
@@ -225,6 +393,14 @@
       "onboard_time": 1750775066,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 190043,
+      "num": 190043,
+      "word": "欧文续约独行侠",
+      "onboard_time": 1750816040,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 184576,
@@ -259,12 +435,52 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 155783,
+      "num": 155783,
+      "word": "湖北高考",
+      "onboard_time": 1750815561,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 144016,
+      "num": 144016,
+      "word": "湖北历史类前10屏蔽生襄阳有7人",
+      "onboard_time": 1750815380,
+      "rank": 33,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 142486,
+      "num": 142486,
+      "word": "约基奇不是掘金非卖品",
+      "onboard_time": 1750814599,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 139262,
+      "num": 190475,
+      "word": "甘薇说肖战赵丽颖是演技派",
+      "onboard_time": 1750808542,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138930,
       "num": 138930,
       "word": "长安的荔枝删除那尔那茜名字",
       "onboard_time": 1750776805,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138669,
+      "num": 138669,
+      "word": "今天是邓稼先诞辰101周年",
+      "onboard_time": 1750812082,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135823,
@@ -275,6 +491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 132975,
+      "num": 108141,
+      "word": "张雪峰鼓励高考发挥失常考生",
+      "onboard_time": 1750810522,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 131052,
       "num": 130131,
       "word": "李心艾孕晚期",
@@ -283,12 +507,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 123490,
-      "num": 148579,
-      "word": "伊朗宣告战争结束重建工作开启",
-      "onboard_time": 1750808121,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 129452,
+      "num": 129452,
+      "word": "日本合唱团用歌声痛诉731部队罪行",
+      "onboard_time": 1750815380,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 126223,
+      "num": 126223,
+      "word": "痛经真正的救星不是红糖姜茶",
+      "onboard_time": 1750811483,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 126153,
+      "num": 126152,
+      "word": "山西分数线",
+      "onboard_time": 1750815442,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 120132,
@@ -297,14 +537,6 @@
       "onboard_time": 1750752923,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 119600,
-      "num": 76851,
-      "word": "轻断食五天瘦了11斤",
-      "onboard_time": 1750808061,
-      "rank": 30,
-      "category": "运动健身"
     },
     {
       "raw_hot": 115475,
@@ -331,11 +563,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108675,
+      "num": 108675,
+      "word": "男生因病请假一学期高考逆袭669分",
+      "onboard_time": 1750814599,
+      "rank": 44,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 107558,
       "num": 107558,
       "word": "张若昀蜡像绝了",
       "onboard_time": 1750774045,
       "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 107135,
+      "num": 107135,
+      "word": "麦琳千禧辣妹妆",
+      "onboard_time": 1750813942,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -345,14 +593,6 @@
       "onboard_time": 1750772786,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 104756,
-      "num": 75498,
-      "word": "哇唧唧哇硬刚晋江",
-      "onboard_time": 1750808000,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 103204,
@@ -377,6 +617,14 @@
       "onboard_time": 1750781364,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94888,
+      "num": 94888,
+      "word": "英雄联盟新英雄芸阿娜",
+      "onboard_time": 1750814662,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 92067,
@@ -540,7 +788,7 @@
     },
     {
       "raw_hot": 65135,
-      "num": 65135,
+      "num": 126153,
       "word": "姆巴佩暴瘦10斤",
       "onboard_time": 1750808240,
       "rank": 41,
@@ -569,14 +817,6 @@
       "onboard_time": 1750808121,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 58836,
-      "num": 58836,
-      "word": "月薪18000大学生住家保姆的一天",
-      "onboard_time": 1750808421,
-      "rank": 47,
-      "category": "民生新闻,幽默"
     },
     {
       "raw_hot": 57886,
@@ -713,6 +953,14 @@
       "onboard_time": 1750797614,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14506,
+      "num": 126153,
+      "word": "动漫也是成年人的童话",
+      "onboard_time": 1750816881,
+      "rank": 39,
+      "category": "民生新闻,动漫"
     }
   ],
   "hotgov_list": [
