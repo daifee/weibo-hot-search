@@ -1,0 +1,402 @@
+{
+  "runTime": 1750823698314,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 979221,
+        "num": 1156675,
+        "word": "广东高考分数线",
+        "onboard_time": 1750820422,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 801348,
+        "num": 801348,
+        "word": "高考成绩",
+        "onboard_time": 1750812863,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1939482,
+        "num": 659815,
+        "word": "高考611分女生体检不合格恐无法入学",
+        "onboard_time": 1750820182,
+        "rank": 3,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 557071,
+        "num": 557071,
+        "word": "查分查出隐藏款老师瞬间沸腾",
+        "onboard_time": 1750820542,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 516846,
+        "num": 516846,
+        "word": "湖北高考首次出现高分屏蔽考生",
+        "onboard_time": 1750819640,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 313434,
+        "num": 512636,
+        "word": "张凌赫王楚然 男帅女美",
+        "onboard_time": 1750817241,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295346,
+        "num": 507957,
+        "word": "王嘉尔撕拉片好权威",
+        "onboard_time": 1750818861,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285161,
+        "num": 503038,
+        "word": "伊朗宣告战争结束重建工作开启",
+        "onboard_time": 1750808121,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 214855,
+        "num": 498367,
+        "word": "北京高考698分以上113人",
+        "onboard_time": 1750820482,
+        "rank": 9,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 689641,
+        "num": 491763,
+        "word": "不胖和好瘦的区别",
+        "onboard_time": 1750821444,
+        "rank": 10,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 521675,
+        "num": 488787,
+        "word": "河南女生高考288分全家欢呼",
+        "onboard_time": 1750823602,
+        "rank": 11,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 484195,
+        "num": 484195,
+        "word": "金价",
+        "onboard_time": 1750817720,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 453496,
+        "num": 453496,
+        "word": "双胞胎高考哥哥680分妹妹710分",
+        "onboard_time": 1750819221,
+        "rank": 13,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 90727,
+        "num": 400061,
+        "word": "北京拟规定骑乘电动自行车应戴头盔",
+        "onboard_time": 1750822344,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372333,
+        "num": 372333,
+        "word": "千年武则天无字碑加盖引争议",
+        "onboard_time": 1750816040,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179870,
+        "num": 365688,
+        "word": "电影小白船定档",
+        "onboard_time": 1750822042,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 51577,
+        "num": 359643,
+        "word": "小米Pad7Ultra大屏办公体验实测",
+        "onboard_time": 1750820780,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 243950,
+        "num": 350410,
+        "word": "newjeans确定禁止独立活动",
+        "onboard_time": 1750821924,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53295,
+        "num": 331214,
+        "word": "分数屏蔽男生称靠游戏解压",
+        "onboard_time": 1750822942,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330002,
+        "num": 330002,
+        "word": "吴敬平说陪你战洛奥",
+        "onboard_time": 1750821682,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 277788,
+        "num": 277788,
+        "word": "小婉自曝整容",
+        "onboard_time": 1750779443,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 277030,
+        "num": 277030,
+        "word": "全球第一个即将消失的沙漠",
+        "onboard_time": 1750808481,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 241508,
+        "num": 241508,
+        "word": "韦雪说小儿子去秦奋家叫回家",
+        "onboard_time": 1750813163,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 209672,
+        "num": 209672,
+        "word": "江西高考分数线",
+        "onboard_time": 1750814662,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 202165,
+        "num": 209609,
+        "word": "张凌赫首部民国男主",
+        "onboard_time": 1750823484,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186116,
+        "num": 209093,
+        "word": "中方代表说这次停火不能再有欺骗了",
+        "onboard_time": 1750820964,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 143058,
+        "num": 208808,
+        "word": "哇唧唧哇硬刚晋江",
+        "onboard_time": 1750808000,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125535,
+        "num": 208226,
+        "word": "李昀锐出发巴黎",
+        "onboard_time": 1750821262,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 108467,
+        "num": 208010,
+        "word": "以法之名群像爆发力",
+        "onboard_time": 1750822463,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219007,
+        "num": 207631,
+        "word": "前国乒名将创业变网红",
+        "onboard_time": 1750823423,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207417,
+        "num": 207417,
+        "word": "安徽高考分数线",
+        "onboard_time": 1750819102,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 194114,
+        "num": 194114,
+        "word": "广东本科线物理436分历史464分",
+        "onboard_time": 1750823123,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 192292,
+        "num": 192292,
+        "word": "高考成绩屏蔽",
+        "onboard_time": 1750821142,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 190571,
+        "num": 190571,
+        "word": "蜜雪冰城创始人晋升河南新首富",
+        "onboard_time": 1750818982,
+        "rank": 34,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 186393,
+        "num": 186393,
+        "word": "男子聚餐后冻死街边家属诉同事被驳",
+        "onboard_time": 1750821203,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133640,
+        "num": 173140,
+        "word": "611分女生体检不合格影响入学家属发声",
+        "onboard_time": 1750820721,
+        "rank": 36,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 172984,
+        "num": 172984,
+        "word": "睡满8小时和6小时的区别",
+        "onboard_time": 1750822762,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 13963,
+        "num": 169445,
+        "word": "推按心经学位调节专注力",
+        "onboard_time": 1750822883,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 14831,
+        "num": 168888,
+        "word": "烟台城市治愈美学启示录",
+        "onboard_time": 1750820482,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168875,
+        "num": 168875,
+        "word": "美国女子地铁轨道如厕被列车夹死",
+        "onboard_time": 1750816102,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 155049,
+        "num": 155049,
+        "word": "世界之外",
+        "onboard_time": 1750823184,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150990,
+        "num": 150990,
+        "word": "特朗普希望中国从美国购买石油",
+        "onboard_time": 1750810461,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 147789,
+        "num": 147789,
+        "word": "鸿蒙技术人才缺口近百万人",
+        "onboard_time": 1750822282,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 426418,
+        "num": 146880,
+        "word": "陈可辛 陈思诚",
+        "onboard_time": 1750811842,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124642,
+        "num": 124642,
+        "word": "轻断食五天瘦了11斤",
+        "onboard_time": 1750808061,
+        "rank": 45,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 115771,
+        "num": 115771,
+        "word": "华丽巨蚊",
+        "onboard_time": 1750815023,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112800,
+        "num": 112800,
+        "word": "女子花2万做下巴消融术消出一个洞",
+        "onboard_time": 1750823663,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74851,
+        "num": 111958,
+        "word": "newjeans不再上诉",
+        "onboard_time": 1750823602,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105304,
+        "num": 111930,
+        "word": "王鹤润一场戏转变14种情绪",
+        "onboard_time": 1750822644,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#让中新友谊之树枝繁叶茂硕果累累#"
+    }
+  }
+}
