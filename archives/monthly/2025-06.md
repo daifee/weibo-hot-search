@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/25 20:54:47
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/25 21:10:23
 </p>
 </blockquote>
 <p>
@@ -1329,6 +1329,12 @@ GAI是不是想走了（热度：1689581）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83724%E5%88%86%E5%A5%B3%E7%94%9F%E5%9B%9E%E5%BA%94%E6%95%B0%E5%AD%A6%E6%BB%A1%E5%88%86%23" target="weibo">
+高考724分女生回应数学满分（热度：1599478）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%B7%A5%E4%BD%9C%E5%AE%A4%20%E9%80%A0%E5%9E%8B%23" target="weibo">
 迪丽热巴工作室 造型（热度：1598220）
 </a>
@@ -1505,12 +1511,6 @@ GAI是不是想走了（热度：1689581）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E8%B5%B0%E9%94%99%E8%80%83%E5%9C%BA%E7%9A%84%E5%AD%A6%E7%94%9F%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
 第一批走错考场的学生出现了（热度：1488888）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83724%E5%88%86%E5%A5%B3%E7%94%9F%E5%9B%9E%E5%BA%94%E6%95%B0%E5%AD%A6%E6%BB%A1%E5%88%86%23" target="weibo">
-高考724分女生回应数学满分（热度：1488786）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1750782835563,
-  "endTime": 1750856087351,
+  "endTime": 1750857023215,
   "band_list": [
     {
       "raw_hot": 2280074,
@@ -43,6 +43,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1599478,
+      "num": 1599478,
+      "word": "高考724分女生回应数学满分",
+      "onboard_time": 1750849343,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1593885,
       "num": 1593885,
       "word": "韩安冉晒硕士offer",
@@ -73,14 +81,6 @@
       "onboard_time": 1750823602,
       "rank": 11,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 1488786,
-      "num": 1488786,
-      "word": "高考724分女生回应数学满分",
-      "onboard_time": 1750849343,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1467994,
@@ -659,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 385349,
+      "num": 385349,
+      "word": "全班600分以上老师嘴角压不住了",
+      "onboard_time": 1750853121,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 385106,
       "num": 385106,
       "word": "美CIA发中文视频招间谍",
@@ -723,8 +731,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 355543,
-      "num": 355543,
+      "raw_hot": 359229,
+      "num": 359229,
       "word": "叶灵儿 范帅琦",
       "onboard_time": 1750852763,
       "rank": 15,
@@ -785,14 +793,6 @@
       "onboard_time": 1750821682,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 329737,
-      "num": 329737,
-      "word": "全班600分以上老师嘴角压不住了",
-      "onboard_time": 1750853121,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 326081,
@@ -875,6 +875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 283154,
+      "num": 283154,
+      "word": "中南财大被曝男子穿女装替考",
+      "onboard_time": 1750854501,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 283093,
       "num": 283093,
       "word": "救助百名弃婴的道禄被传涉案",
@@ -931,19 +939,19 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 272146,
-      "num": 272146,
-      "word": "中南财大被曝男子穿女装替考",
-      "onboard_time": 1750854501,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 271734,
       "num": 266990,
       "word": "曝洪金宝儿子儿媳双双出轨",
       "onboard_time": 1750765043,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 270902,
+      "num": 270902,
+      "word": "周杰伦晒3岁小女儿萌照",
+      "onboard_time": 1750855762,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -985,6 +993,14 @@
       "onboard_time": 1750843463,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 264130,
+      "num": 264130,
+      "word": "桃黑黑 橙光",
+      "onboard_time": 1750855942,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 264014,
@@ -1057,6 +1073,14 @@
       "onboard_time": 1750838482,
       "rank": 25,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 246971,
+      "num": 284012,
+      "word": "这还是我家余承恩吗",
+      "onboard_time": 1750856064,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 244399,
@@ -1483,14 +1507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 186703,
-      "num": 186703,
-      "word": "周杰伦晒3岁小女儿萌照",
-      "onboard_time": 1750855762,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 186620,
       "num": 186620,
       "word": "山东高考特控线521分",
@@ -1633,6 +1649,14 @@
       "onboard_time": 1750846702,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 167140,
+      "num": 355569,
+      "word": "vivoXFold5人称小MacBook",
+      "onboard_time": 1750853542,
+      "rank": 13,
+      "category": "数码"
     },
     {
       "raw_hot": 164852,
@@ -1915,20 +1939,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 146242,
+      "num": 146242,
+      "word": "刘美含的宠物蜥蜴去世",
+      "onboard_time": 1750856243,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145312,
       "num": 209964,
       "word": "谢霆锋演唱会届的HR",
       "onboard_time": 1750830141,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 144846,
-      "num": 144846,
-      "word": "桃黑黑 橙光",
-      "onboard_time": 1750855942,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 144296,
@@ -1985,6 +2009,14 @@
       "onboard_time": 1750828762,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 142037,
+      "num": 204469,
+      "word": "贾冰天选苹果搭子vivoXFold5",
+      "onboard_time": 1750856782,
+      "rank": 31,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 141069,
@@ -2081,14 +2113,6 @@
       "onboard_time": 1750845923,
       "rank": 36,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 136889,
-      "num": 355569,
-      "word": "vivoXFold5人称小MacBook",
-      "onboard_time": 1750853542,
-      "rank": 13,
-      "category": "数码"
     },
     {
       "raw_hot": 136856,
@@ -2427,12 +2451,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 116468,
-      "num": 156151,
-      "word": "这还是我家余承恩吗",
-      "onboard_time": 1750856064,
-      "rank": 37,
-      "category": "艺人"
+      "raw_hot": 116772,
+      "num": 116772,
+      "word": "韩安冉回应晒硕士offer",
+      "onboard_time": 1750856782,
+      "rank": 45,
+      "category": "网红"
     },
     {
       "raw_hot": 116225,
@@ -2481,6 +2505,14 @@
       "onboard_time": 1750851201,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 113575,
+      "num": 222685,
+      "word": "折叠屏手机能兼顾轻薄和影像吗",
+      "onboard_time": 1750856723,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 112930,
@@ -2571,6 +2603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108620,
+      "num": 108620,
+      "word": "苏新皓好像在跟铲丝比赛谁更爱谁",
+      "onboard_time": 1750856845,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108467,
       "num": 267700,
       "word": "以法之名群像爆发力",
@@ -2611,10 +2651,26 @@
       "category": "演出"
     },
     {
+      "raw_hot": 106074,
+      "num": 252381,
+      "word": "这届必吃榜到底挖到多少神仙小店",
+      "onboard_time": 1750855643,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 105304,
       "num": 111930,
       "word": "王鹤润一场戏转变14种情绪",
       "onboard_time": 1750822644,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 104660,
+      "num": 104660,
+      "word": "刘学义配音 不贴脸",
+      "onboard_time": 1750856904,
       "rank": 49,
       "category": "剧集"
     },
@@ -2811,14 +2867,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 84031,
-      "num": 252381,
-      "word": "这届必吃榜到底挖到多少神仙小店",
-      "onboard_time": 1750855643,
-      "rank": 28,
-      "category": "美食"
-    },
-    {
       "raw_hot": 83669,
       "num": 359643,
       "word": "小米Pad7Ultra大屏办公体验实测",
@@ -2857,6 +2905,14 @@
       "onboard_time": 1750832722,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78297,
+      "num": 132484,
+      "word": "别让你的脸成了试验田",
+      "onboard_time": 1750856603,
+      "rank": 40,
+      "category": "美妆"
     },
     {
       "raw_hot": 77962,
@@ -2953,6 +3009,14 @@
       "onboard_time": 1750842321,
       "rank": 10,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 70130,
+      "num": 316983,
+      "word": "四川一高校研究生发表地域歧视言论",
+      "onboard_time": 1750856543,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69813,
@@ -3099,6 +3163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56567,
+      "num": 353552,
+      "word": "男生高考多近40分给老师送芹菜和肉",
+      "onboard_time": 1750854742,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56093,
       "num": 355420,
       "word": "夸克志愿报告真的太火火火火了",
@@ -3203,14 +3275,6 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 44582,
-      "num": 156150,
-      "word": "男生高考多近40分给老师送芹菜和肉",
-      "onboard_time": 1750854742,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 44152,
       "num": 309596,
       "word": "为什么说学石油首选石大华东",
@@ -3241,6 +3305,14 @@
       "onboard_time": 1750846402,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 39872,
+      "num": 283356,
+      "word": "新传学科走出两位百亿大佬",
+      "onboard_time": 1750856543,
+      "rank": 19,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 39533,
