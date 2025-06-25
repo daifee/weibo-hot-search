@@ -1,0 +1,402 @@
+{
+  "runTime": 1750861625023,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1809083,
+        "num": 1809083,
+        "word": "高考724分女生回应数学满分",
+        "onboard_time": 1750849343,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1216979,
+        "num": 1216979,
+        "word": "言冰云",
+        "onboard_time": 1750847903,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 635245,
+        "num": 635245,
+        "word": "庆余年3刘端端 换角",
+        "onboard_time": 1750839682,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 614545,
+        "num": 614545,
+        "word": "中南财大被曝男子穿女装替考",
+        "onboard_time": 1750854501,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 528039,
+        "num": 528039,
+        "word": "首尔地铁纵火案致23伤",
+        "onboard_time": 1750849643,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 417403,
+        "num": 417403,
+        "word": "中方回应特朗普要中国买美国石油",
+        "onboard_time": 1750859064,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 411778,
+        "num": 411778,
+        "word": "这一秒过火官宣",
+        "onboard_time": 1750860263,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 401129,
+        "num": 401129,
+        "word": "北大毕业勇闯娱乐圈收入暴跌九成",
+        "onboard_time": 1750859245,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232258,
+        "num": 397281,
+        "word": "伊朗防长现身青岛",
+        "onboard_time": 1750847422,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 778326,
+        "num": 365370,
+        "word": "徐艺洋一周前曾回应怀孕传闻",
+        "onboard_time": 1750853363,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 725878,
+        "num": 331114,
+        "word": "鹿晗美甲",
+        "onboard_time": 1750850602,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 551124,
+        "num": 311193,
+        "word": "周杰伦晒3岁小女儿萌照",
+        "onboard_time": 1750855762,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307266,
+        "num": 307266,
+        "word": "全班600分以上老师嘴角压不住了",
+        "onboard_time": 1750853121,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113378,
+        "num": 303088,
+        "word": "学生被体罚患恐怖症家长索赔百万",
+        "onboard_time": 1750860082,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 419649,
+        "num": 303076,
+        "word": "关晓彤海边跑步",
+        "onboard_time": 1750855162,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314315,
+        "num": 303073,
+        "word": "叶灵儿 范帅琦",
+        "onboard_time": 1750852763,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303044,
+        "num": 303044,
+        "word": "暴雨暴雨注意暴雨暴雨",
+        "onboard_time": 1750841723,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109700,
+        "num": 300723,
+        "word": "vivoXFold5打开苹果用户新世界",
+        "onboard_time": 1750858583,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 152505,
+        "num": 299747,
+        "word": "刘美含的宠物蜥蜴去世",
+        "onboard_time": 1750856243,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13480,
+        "num": 296913,
+        "word": "直播间神霄派大师解忧实为玄学杀猪盘",
+        "onboard_time": 1750861283,
+        "rank": 20,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 781014,
+        "num": 295238,
+        "word": "梁实高考454分",
+        "onboard_time": 1750848503,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141394,
+        "num": 291941,
+        "word": "刘强东出现在夏季达沃斯会场",
+        "onboard_time": 1750857802,
+        "rank": 22,
+        "category": "互联网,体育"
+      },
+      {
+        "raw_hot": 175300,
+        "num": 289593,
+        "word": "考生花5499元报96个本科志愿全滑档",
+        "onboard_time": 1750860744,
+        "rank": 23,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 288032,
+        "num": 288032,
+        "word": "桃黑黑 橙光",
+        "onboard_time": 1750855942,
+        "rank": 24,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 155635,
+        "num": 261220,
+        "word": "这一声声军桥啊听得心碎",
+        "onboard_time": 1750859423,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260886,
+        "num": 260886,
+        "word": "韩庚我现在有点小钱了",
+        "onboard_time": 1750860444,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 197418,
+        "num": 258169,
+        "word": "领衔主演付辛博",
+        "onboard_time": 1750861523,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54594,
+        "num": 255639,
+        "word": "vivoXFold5折叠屏影像不打折",
+        "onboard_time": 1750858524,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 197201,
+        "num": 253118,
+        "word": "孟子义哭戏 双眼布满红血丝",
+        "onboard_time": 1750860203,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279838,
+        "num": 250126,
+        "word": "桃花映江山热度",
+        "onboard_time": 1750850362,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248456,
+        "num": 248456,
+        "word": "714分考生妈妈查分前梦到考了714分",
+        "onboard_time": 1750857865,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230834,
+        "num": 230834,
+        "word": "梅森马吉拉 孙颖莎",
+        "onboard_time": 1750847362,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210563,
+        "num": 210563,
+        "word": "孕妇1天2杯奶茶致早产孩子仅3斤2两",
+        "onboard_time": 1750840282,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209138,
+        "num": 209138,
+        "word": "错换人生28年养母起诉姚策亲生父母",
+        "onboard_time": 1750854443,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195061,
+        "num": 195061,
+        "word": "NBA",
+        "onboard_time": 1750861163,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192442,
+        "num": 192442,
+        "word": "LV 王楚钦",
+        "onboard_time": 1750861403,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177667,
+        "num": 177667,
+        "word": "张元英转圈又火了",
+        "onboard_time": 1750842321,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 174700,
+        "num": 174700,
+        "word": "一天中喝咖啡的最佳时间点",
+        "onboard_time": 1750860565,
+        "rank": 38,
+        "category": "美食,健康医疗"
+      },
+      {
+        "raw_hot": 173663,
+        "num": 173663,
+        "word": "女生高考724分爸爸激动到尖叫",
+        "onboard_time": 1750847722,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171342,
+        "num": 171342,
+        "word": "男生考692分想上清华为芯片做贡献",
+        "onboard_time": 1750861583,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163250,
+        "num": 163250,
+        "word": "李佳琦张予曦赵昭仪凑不出驾照",
+        "onboard_time": 1750861283,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161051,
+        "num": 161051,
+        "word": "歌手第七期歌单",
+        "onboard_time": 1750861464,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156962,
+        "num": 156962,
+        "word": "伊朗称核设施在美空袭中严重受损",
+        "onboard_time": 1750861043,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 145909,
+        "num": 145909,
+        "word": "女生估分450考了538激动泪崩",
+        "onboard_time": 1750846642,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139563,
+        "num": 139563,
+        "word": "枭起青壤 接档焕羽",
+        "onboard_time": 1750852163,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135441,
+        "num": 135441,
+        "word": "女孩得知高考657分后伤心落泪",
+        "onboard_time": 1750861523,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132913,
+        "num": 132913,
+        "word": "外国人总结的中国人特征",
+        "onboard_time": 1750854922,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 42449,
+        "num": 127693,
+        "word": "隐形守护者制作人预告新作",
+        "onboard_time": 1750860324,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 36108,
+        "num": 126975,
+        "word": "折叠屏手机能兼顾轻薄和影像吗",
+        "onboard_time": 1750856723,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记对土地的深情#"
+    }
+  }
+}
