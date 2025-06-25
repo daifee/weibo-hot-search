@@ -1,6 +1,6 @@
 {
   "startTime": 1750869299096,
-  "endTime": 1750879216818,
+  "endTime": 1750880218571,
   "band_list": [
     {
       "raw_hot": 1192951,
@@ -507,7 +507,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 24848,
+      "raw_hot": 28331,
       "num": 24261,
       "word": "86岁大学学历北京大爷退休收入",
       "onboard_time": 1750877056,
@@ -523,12 +523,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 20689,
-      "num": 21492,
+      "raw_hot": 21520,
+      "num": 21520,
       "word": "泽连斯基或将穿正装见特朗普",
       "onboard_time": 1750866081,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 17573,
+      "num": 17573,
+      "word": "女子掉进沥青桶被卡住连桶一起送医",
+      "onboard_time": 1750878974,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 16928,
@@ -547,12 +555,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13265,
-      "num": 21061,
+      "raw_hot": 16622,
+      "num": 22112,
       "word": "男生复读3年查分喜极而泣姐姐发声",
       "onboard_time": 1750877656,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12718,
+      "num": 21528,
+      "word": "特朗普发文说CNN假新闻",
+      "onboard_time": 1750880053,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 9769,
