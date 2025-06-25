@@ -1,0 +1,402 @@
+{
+  "runTime": 1750818470905,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1329117,
+        "num": 1329117,
+        "word": "高考成绩",
+        "onboard_time": 1750812863,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 893661,
+        "num": 893661,
+        "word": "江西高考分数线",
+        "onboard_time": 1750814662,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 735495,
+        "num": 735495,
+        "word": "千年武则天无字碑加盖引争议",
+        "onboard_time": 1750816040,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 578613,
+        "num": 578613,
+        "word": "全球第一个即将消失的沙漠",
+        "onboard_time": 1750808481,
+        "rank": 4,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 713557,
+        "num": 558869,
+        "word": "陈可辛 陈思诚",
+        "onboard_time": 1750811842,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 525129,
+        "num": 525129,
+        "word": "北京分数线",
+        "onboard_time": 1750813042,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 434163,
+        "num": 434163,
+        "word": "哇唧唧哇硬刚晋江",
+        "onboard_time": 1750808000,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 358028,
+        "num": 427847,
+        "word": "伊朗宣告战争结束重建工作开启",
+        "onboard_time": 1750808121,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128624,
+        "num": 423151,
+        "word": "官方回应千年武则天无字碑加盖",
+        "onboard_time": 1750818021,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 758119,
+        "num": 416256,
+        "word": "韦雪说小儿子去秦奋家叫回家",
+        "onboard_time": 1750813163,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 612248,
+        "num": 405543,
+        "word": "华丽巨蚊",
+        "onboard_time": 1750815023,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 401098,
+        "num": 401098,
+        "word": "张凌赫王楚然 男帅女美",
+        "onboard_time": 1750817241,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 503368,
+        "num": 395570,
+        "word": "小婉自曝整容",
+        "onboard_time": 1750779443,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 382640,
+        "num": 382640,
+        "word": "特朗普希望中国从美国购买石油",
+        "onboard_time": 1750810461,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 341641,
+        "num": 341641,
+        "word": "月薪18000大学生住家保姆的一天",
+        "onboard_time": 1750808421,
+        "rank": 15,
+        "category": "民生新闻,幽默"
+      },
+      {
+        "raw_hot": 324058,
+        "num": 324058,
+        "word": "轻断食五天瘦了11斤",
+        "onboard_time": 1750808061,
+        "rank": 16,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 263834,
+        "num": 263834,
+        "word": "美CIA发中文视频招间谍",
+        "onboard_time": 1750809502,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 188593,
+        "num": 258495,
+        "word": "这一秒过火",
+        "onboard_time": 1750815561,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185071,
+        "num": 254267,
+        "word": "人民文娱评酱园弄悬案",
+        "onboard_time": 1750810641,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 312052,
+        "num": 248405,
+        "word": "美国女子地铁轨道如厕被列车夹死",
+        "onboard_time": 1750816102,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 285005,
+        "num": 242735,
+        "word": "金价油价跌跌跌",
+        "onboard_time": 1750813642,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 236385,
+        "num": 236385,
+        "word": "男子殴打妻子后发生性关系被告强奸",
+        "onboard_time": 1750773146,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216577,
+        "num": 216577,
+        "word": "金价",
+        "onboard_time": 1750817720,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 99520,
+        "num": 209745,
+        "word": "中国资产迎来全线爆发",
+        "onboard_time": 1750814841,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 207827,
+        "num": 207827,
+        "word": "冲突致伊朗610死以色列28死",
+        "onboard_time": 1750811122,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 207073,
+        "num": 207073,
+        "word": "郑乃馨曾哭着说可以等我吗",
+        "onboard_time": 1750778723,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188035,
+        "num": 188035,
+        "word": "小米预告AI眼镜",
+        "onboard_time": 1750818140,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 162599,
+        "num": 181020,
+        "word": "安陵容唯一赢的一次",
+        "onboard_time": 1750811662,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101777,
+        "num": 179178,
+        "word": "偷偷藏不住",
+        "onboard_time": 1750778604,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179113,
+        "num": 179113,
+        "word": "湖北高考",
+        "onboard_time": 1750815561,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 171846,
+        "num": 171846,
+        "word": "伊朗总统称已准备好重返谈判桌",
+        "onboard_time": 1750811783,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153005,
+        "num": 153005,
+        "word": "先锋书店",
+        "onboard_time": 1750817181,
+        "rank": 32,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 101445,
+        "num": 151739,
+        "word": "敖瑞鹏吴宣仪 不二之臣",
+        "onboard_time": 1750775425,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151614,
+        "num": 151614,
+        "word": "朱雀玄武敕令第三次高考246分",
+        "onboard_time": 1750817602,
+        "rank": 34,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 147679,
+        "num": 147679,
+        "word": "男子吸毒28年耗尽千万家产",
+        "onboard_time": 1750769543,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144074,
+        "num": 144074,
+        "word": "山西分数线",
+        "onboard_time": 1750815442,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 136856,
+        "num": 136856,
+        "word": "日本合唱团用歌声痛诉731部队罪行",
+        "onboard_time": 1750815380,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 85977,
+        "num": 129178,
+        "word": "小小梦魇3发售日",
+        "onboard_time": 1750817960,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 29864,
+        "num": 127619,
+        "word": "动漫也是成年人的童话",
+        "onboard_time": 1750816881,
+        "rank": 39,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 127493,
+        "num": 127493,
+        "word": "湖北历史类前10屏蔽生襄阳有7人",
+        "onboard_time": 1750815380,
+        "rank": 40,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 120388,
+        "num": 120388,
+        "word": "地震干饭小孩哥被教育了",
+        "onboard_time": 1750787116,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120200,
+        "num": 120200,
+        "word": "河南高考分数线",
+        "onboard_time": 1750775126,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 113587,
+        "num": 113587,
+        "word": "今天是邓稼先诞辰101周年",
+        "onboard_time": 1750812082,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96354,
+        "num": 113252,
+        "word": "甘薇说肖战赵丽颖是演技派",
+        "onboard_time": 1750808542,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112930,
+        "num": 112930,
+        "word": "男生因病请假一学期高考逆袭669分",
+        "onboard_time": 1750814599,
+        "rank": 45,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 106074,
+        "num": 106074,
+        "word": "约基奇不是掘金非卖品",
+        "onboard_time": 1750814599,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105260,
+        "num": 105260,
+        "word": "张桂源中考623分",
+        "onboard_time": 1750769364,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104089,
+        "num": 104089,
+        "word": "欧文续约独行侠",
+        "onboard_time": 1750816040,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94399,
+        "num": 94399,
+        "word": "女子复刻大爷位置拍出绝美荷花",
+        "onboard_time": 1750817720,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让中新友谊之树枝繁叶茂硕果累累#"
+    }
+  }
+}
