@@ -1,6 +1,6 @@
 {
   "startTime": 1750782835563,
-  "endTime": 1750829269008,
+  "endTime": 1750830323202,
   "band_list": [
     {
       "raw_hot": 1939482,
@@ -123,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 640932,
+      "num": 640932,
+      "word": "金价跌至6月以来新低",
+      "onboard_time": 1750827685,
+      "rank": 15,
+      "category": "财经"
+    },
+    {
       "raw_hot": 612248,
       "num": 405543,
       "word": "华丽巨蚊",
@@ -187,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 482681,
+      "num": 482681,
+      "word": "第一个让孟子义演绿茶的是天才",
+      "onboard_time": 1750828223,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 480739,
       "num": 480739,
       "word": "陕西高考分数线",
@@ -243,12 +259,28 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 430473,
+      "num": 241061,
+      "word": "怀孕逛街的许玮甯",
+      "onboard_time": 1750829182,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 428518,
       "num": 341641,
       "word": "月薪18000大学生住家保姆的一天",
       "onboard_time": 1750808421,
       "rank": 47,
       "category": "民生新闻,幽默"
+    },
+    {
+      "raw_hot": 408432,
+      "num": 408432,
+      "word": "睡满8小时和6小时的区别",
+      "onboard_time": 1750822762,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 402642,
@@ -315,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 347594,
+      "num": 347594,
+      "word": "轻度抑郁症的真实表现",
+      "onboard_time": 1750823784,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 346385,
       "num": 346385,
       "word": "晋江 哇唧唧哇",
@@ -345,6 +385,14 @@
       "onboard_time": 1750821682,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 326081,
+      "num": 264555,
+      "word": "男子因老中医指甲长把脉留印索赔2千",
+      "onboard_time": 1750828223,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 323947,
@@ -387,20 +435,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 302326,
-      "num": 264555,
-      "word": "男子因老中医指甲长把脉留印索赔2千",
-      "onboard_time": 1750828223,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 301198,
-      "num": 268371,
-      "word": "金价跌至6月以来新低",
-      "onboard_time": 1750827685,
-      "rank": 15,
-      "category": "财经"
+      "raw_hot": 299577,
+      "num": 216269,
+      "word": "18岁绝经女生的真实感受",
+      "onboard_time": 1750829001,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 298169,
@@ -417,22 +457,6 @@
       "onboard_time": 1750823484,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 285944,
-      "num": 285944,
-      "word": "轻度抑郁症的真实表现",
-      "onboard_time": 1750823784,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 284140,
-      "num": 284140,
-      "word": "睡满8小时和6小时的区别",
-      "onboard_time": 1750822762,
-      "rank": 37,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 283093,
@@ -483,14 +507,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 265632,
-      "num": 177538,
-      "word": "18岁绝经女生的真实感受",
-      "onboard_time": 1750829001,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 264014,
       "num": 264014,
       "word": "婚内强奸案当事人已离婚",
@@ -505,6 +521,14 @@
       "onboard_time": 1750810641,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 259614,
+      "num": 213819,
+      "word": "魏大勋出个国怎么帅成这样",
+      "onboard_time": 1750830262,
+      "rank": 22,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 258360,
@@ -523,14 +547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 240160,
-      "num": 267760,
-      "word": "第一个让孟子义演绿茶的是天才",
-      "onboard_time": 1750828223,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 235842,
       "num": 235842,
       "word": "领导的朋友圈不要随便评论",
@@ -545,14 +561,6 @@
       "onboard_time": 1750821203,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 227901,
-      "num": 177306,
-      "word": "怀孕逛街的许玮甯",
-      "onboard_time": 1750829182,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 227239,
@@ -651,6 +659,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 194657,
+      "num": 194657,
+      "word": "浙江高考成绩",
+      "onboard_time": 1750825104,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 194429,
       "num": 236246,
       "word": "张译新剧人设又怂又刚",
@@ -707,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188113,
+      "num": 211678,
+      "word": "哈尔滨全城为一家咖啡店操碎了心",
+      "onboard_time": 1750829602,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188035,
       "num": 188035,
       "word": "小米预告AI眼镜",
@@ -745,14 +769,6 @@
       "onboard_time": 1750779923,
       "rank": 26,
       "category": "网红"
-    },
-    {
-      "raw_hot": 180807,
-      "num": 180807,
-      "word": "浙江高考成绩",
-      "onboard_time": 1750825104,
-      "rank": 43,
-      "category": "教育"
     },
     {
       "raw_hot": 179113,
@@ -803,12 +819,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 169827,
+      "num": 169827,
+      "word": "厕所门帘被保洁阿姨缝了一个裙子",
+      "onboard_time": 1750828703,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 169380,
+      "num": 194999,
+      "word": "橘祥如意开播",
+      "onboard_time": 1750829362,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169273,
       "num": 177127,
       "word": "关晓彤女总裁look",
       "onboard_time": 1750829182,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 164499,
+      "num": 271330,
+      "word": "伊朗庆祝对以作战胜利",
+      "onboard_time": 1750827685,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 162153,
@@ -907,6 +947,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 145312,
+      "num": 209964,
+      "word": "谢霆锋演唱会届的HR",
+      "onboard_time": 1750830141,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 144074,
       "num": 144074,
       "word": "山西分数线",
@@ -923,6 +971,22 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 143110,
+      "num": 143110,
+      "word": "微信 朋友圈编辑功能",
+      "onboard_time": 1750827922,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 142520,
+      "num": 142520,
+      "word": "德塔文认证白鹿90扛剧TOP",
+      "onboard_time": 1750828941,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142486,
       "num": 142486,
       "word": "约基奇不是掘金非卖品",
@@ -937,6 +1001,14 @@
       "onboard_time": 1750828762,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 139731,
+      "num": 177625,
+      "word": "张学友再被要求说普通话",
+      "onboard_time": 1750827203,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 139262,
@@ -987,20 +1059,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 135348,
-      "num": 135348,
-      "word": "德塔文认证白鹿90扛剧TOP",
-      "onboard_time": 1750828941,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 134322,
-      "num": 134322,
-      "word": "厕所门帘被保洁阿姨缝了一个裙子",
-      "onboard_time": 1750828703,
-      "rank": 45,
-      "category": "幽默"
+      "raw_hot": 134019,
+      "num": 134019,
+      "word": "老人失联27小时期间靠吃荔枝充饥",
+      "onboard_time": 1750830203,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133640,
@@ -1019,28 +1083,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 132628,
-      "num": 177625,
-      "word": "张学友再被要求说普通话",
-      "onboard_time": 1750827203,
-      "rank": 29,
-      "category": "演出"
-    },
-    {
       "raw_hot": 131052,
       "num": 130131,
       "word": "李心艾孕晚期",
       "onboard_time": 1750783819,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 130369,
-      "num": 130369,
-      "word": "微信 朋友圈编辑功能",
-      "onboard_time": 1750827922,
-      "rank": 47,
-      "category": "互联网"
     },
     {
       "raw_hot": 128624,
@@ -1057,6 +1105,14 @@
       "onboard_time": 1750811483,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 122317,
+      "num": 215704,
+      "word": "中韩男明星看秀外网生图",
+      "onboard_time": 1750829903,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 120132,
@@ -1081,14 +1137,6 @@
       "onboard_time": 1750783280,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 113199,
-      "num": 271330,
-      "word": "伊朗庆祝对以作战胜利",
-      "onboard_time": 1750827685,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 112930,
@@ -1348,7 +1396,7 @@
     },
     {
       "raw_hot": 77222,
-      "num": 177384,
+      "num": 215913,
       "word": "岚图FREE+的含金量谁懂",
       "onboard_time": 1750829001,
       "rank": 31,
@@ -1441,6 +1489,14 @@
       "onboard_time": 1750765460,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 67701,
+      "num": 265424,
+      "word": "两地法院判决烂尾楼购房者获退款",
+      "onboard_time": 1750828941,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66061,
@@ -1571,6 +1627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48754,
+      "num": 161175,
+      "word": "穿越火线新IP过审",
+      "onboard_time": 1750829722,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 38878,
       "num": 276162,
       "word": "特朗普彻夜未眠关注以伊停火进展",
@@ -1603,6 +1667,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 31641,
+      "num": 207444,
+      "word": "男生高考702分与妈妈相拥喜极而泣",
+      "onboard_time": 1750830082,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31151,
       "num": 269133,
       "word": "高考结束后感到迷茫空虚怎么办",
@@ -1619,12 +1691,28 @@
       "category": "民生新闻,动漫"
     },
     {
+      "raw_hot": 29615,
+      "num": 258585,
+      "word": "低头族餐厅前摔骨折索赔6万被驳回",
+      "onboard_time": 1750829482,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29171,
       "num": 29171,
       "word": "丁禹兮花开锦绣花絮",
       "onboard_time": 1750789636,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 28917,
+      "num": 233072,
+      "word": "广西柳州回应柳江上游锑浓度异常",
+      "onboard_time": 1750829482,
+      "rank": 13,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 28349,
@@ -1651,16 +1739,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 26683,
-      "num": 265424,
-      "word": "两地法院判决烂尾楼购房者获退款",
-      "onboard_time": 1750828941,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21513,
-      "num": 497527,
+      "raw_hot": 23644,
+      "num": 641727,
       "word": "亲水经济夏日持续升温",
       "onboard_time": 1750827864,
       "rank": 2,
@@ -1680,6 +1760,14 @@
       "word": "北漂小伙回应六年存130万",
       "onboard_time": 1750795394,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16173,
+      "num": 212035,
+      "word": "高速塌方退伍老兵冒死拦停百余辆车",
+      "onboard_time": 1750830082,
+      "rank": 24,
       "category": "民生新闻"
     },
     {

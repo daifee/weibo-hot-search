@@ -1,0 +1,410 @@
+{
+  "runTime": 1750830323202,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 980738,
+        "num": 1156918,
+        "word": "河南女生高考288分全家欢呼",
+        "onboard_time": 1750823602,
+        "rank": 0,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 707697,
+        "num": 707697,
+        "word": "酱园弄堆砌明星不等于好电影",
+        "onboard_time": 1750825705,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23644,
+        "num": 641727,
+        "word": "亲水经济夏日持续升温",
+        "onboard_time": 1750827864,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 640932,
+        "num": 640932,
+        "word": "金价跌至6月以来新低",
+        "onboard_time": 1750827685,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 482681,
+        "num": 482681,
+        "word": "第一个让孟子义演绿茶的是天才",
+        "onboard_time": 1750828223,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 427038,
+        "num": 427038,
+        "word": "高考成绩",
+        "onboard_time": 1750812863,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 408432,
+        "num": 408432,
+        "word": "睡满8小时和6小时的区别",
+        "onboard_time": 1750822762,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 347594,
+        "num": 347594,
+        "word": "轻度抑郁症的真实表现",
+        "onboard_time": 1750823784,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 263214,
+        "num": 263214,
+        "word": "北京高考698分以上113人",
+        "onboard_time": 1750820482,
+        "rank": 8,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 29615,
+        "num": 258585,
+        "word": "低头族餐厅前摔骨折索赔6万被驳回",
+        "onboard_time": 1750829482,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1127828,
+        "num": 250595,
+        "word": "高考611分女生体检不合格恐无法入学",
+        "onboard_time": 1750820182,
+        "rank": 10,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 777643,
+        "num": 243985,
+        "word": "台北故宫与美国合作不与北京合作",
+        "onboard_time": 1750824863,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 430473,
+        "num": 241061,
+        "word": "怀孕逛街的许玮甯",
+        "onboard_time": 1750829182,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28917,
+        "num": 233072,
+        "word": "广西柳州回应柳江上游锑浓度异常",
+        "onboard_time": 1750829482,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 71877,
+        "num": 223247,
+        "word": "张雪峰到底怕不怕夸克",
+        "onboard_time": 1750827685,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 220821,
+        "num": 220821,
+        "word": "奇迹官宣王安宇",
+        "onboard_time": 1750828282,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216409,
+        "num": 216409,
+        "word": "张凌赫首部民国男主",
+        "onboard_time": 1750823484,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299577,
+        "num": 216269,
+        "word": "18岁绝经女生的真实感受",
+        "onboard_time": 1750829001,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 72886,
+        "num": 215913,
+        "word": "岚图FREE+的含金量谁懂",
+        "onboard_time": 1750829001,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 122317,
+        "num": 215704,
+        "word": "中韩男明星看秀外网生图",
+        "onboard_time": 1750829903,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 215653,
+        "num": 215653,
+        "word": "终于切身体会到什么是莞莞类卿了",
+        "onboard_time": 1750824804,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 326081,
+        "num": 215379,
+        "word": "男子因老中医指甲长把脉留印索赔2千",
+        "onboard_time": 1750828223,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259614,
+        "num": 213819,
+        "word": "魏大勋出个国怎么帅成这样",
+        "onboard_time": 1750830262,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 251476,
+        "num": 213393,
+        "word": "不胖和好瘦的区别",
+        "onboard_time": 1750821444,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 16173,
+        "num": 212035,
+        "word": "高速塌方退伍老兵冒死拦停百余辆车",
+        "onboard_time": 1750830082,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188113,
+        "num": 211678,
+        "word": "哈尔滨全城为一家咖啡店操碎了心",
+        "onboard_time": 1750829602,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164499,
+        "num": 210296,
+        "word": "伊朗庆祝对以作战胜利",
+        "onboard_time": 1750827685,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 145312,
+        "num": 209964,
+        "word": "谢霆锋演唱会届的HR",
+        "onboard_time": 1750830141,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 218210,
+        "num": 208799,
+        "word": "双胞胎高考哥哥680分妹妹710分",
+        "onboard_time": 1750819221,
+        "rank": 28,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 31641,
+        "num": 207444,
+        "word": "男生高考702分与妈妈相拥喜极而泣",
+        "onboard_time": 1750830082,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207153,
+        "num": 207153,
+        "word": "查分查出隐藏款老师瞬间沸腾",
+        "onboard_time": 1750820542,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169380,
+        "num": 194999,
+        "word": "橘祥如意开播",
+        "onboard_time": 1750829362,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194657,
+        "num": 194657,
+        "word": "浙江高考成绩",
+        "onboard_time": 1750825104,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 182129,
+        "num": 182129,
+        "word": "伊朗盛大庆祝战胜以色列",
+        "onboard_time": 1750828223,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 176146,
+        "num": 176146,
+        "word": "广东高考分数线",
+        "onboard_time": 1750820422,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 174128,
+        "num": 174128,
+        "word": "方媛三胎近况",
+        "onboard_time": 1750826065,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170314,
+        "num": 170314,
+        "word": "金价",
+        "onboard_time": 1750817720,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 169827,
+        "num": 169827,
+        "word": "厕所门帘被保洁阿姨缝了一个裙子",
+        "onboard_time": 1750828703,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 67701,
+        "num": 161950,
+        "word": "两地法院判决烂尾楼购房者获退款",
+        "onboard_time": 1750828941,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48754,
+        "num": 161175,
+        "word": "穿越火线新IP过审",
+        "onboard_time": 1750829722,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161153,
+        "num": 161153,
+        "word": "newjeans确定禁止独立活动",
+        "onboard_time": 1750821924,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158242,
+        "num": 158242,
+        "word": "关晓彤女总裁look",
+        "onboard_time": 1750829182,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143110,
+        "num": 143110,
+        "word": "微信 朋友圈编辑功能",
+        "onboard_time": 1750827922,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 142617,
+        "num": 142617,
+        "word": "陕西高考分数线",
+        "onboard_time": 1750824804,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 142520,
+        "num": 142520,
+        "word": "德塔文认证白鹿90扛剧TOP",
+        "onboard_time": 1750828941,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142003,
+        "num": 142003,
+        "word": "领导的朋友圈不要随便评论",
+        "onboard_time": 1750824384,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139731,
+        "num": 139731,
+        "word": "张学友再被要求说普通话",
+        "onboard_time": 1750827203,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137485,
+        "num": 137485,
+        "word": "伊朗宣告战争结束重建工作开启",
+        "onboard_time": 1750808121,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134019,
+        "num": 134019,
+        "word": "老人失联27小时期间靠吃荔枝充饥",
+        "onboard_time": 1750830203,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133231,
+        "num": 133231,
+        "word": "千年武则天无字碑加盖引争议",
+        "onboard_time": 1750816040,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温10年前阅兵现场依然震撼#"
+    }
+  }
+}
