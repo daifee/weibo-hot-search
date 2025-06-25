@@ -1,0 +1,410 @@
+{
+  "runTime": 1750829269008,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1006306,
+        "num": 1161009,
+        "word": "河南女生高考288分全家欢呼",
+        "onboard_time": 1750823602,
+        "rank": 0,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 790384,
+        "num": 790384,
+        "word": "酱园弄堆砌明星不等于好电影",
+        "onboard_time": 1750825705,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 21513,
+        "num": 497527,
+        "word": "亲水经济夏日持续升温",
+        "onboard_time": 1750827864,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 467304,
+        "num": 467304,
+        "word": "高考成绩",
+        "onboard_time": 1750812863,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 285944,
+        "num": 285944,
+        "word": "轻度抑郁症的真实表现",
+        "onboard_time": 1750823784,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 284140,
+        "num": 284140,
+        "word": "睡满8小时和6小时的区别",
+        "onboard_time": 1750822762,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 281722,
+        "num": 281722,
+        "word": "北京高考698分以上113人",
+        "onboard_time": 1750820482,
+        "rank": 6,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 260002,
+        "num": 274485,
+        "word": "终于切身体会到什么是莞莞类卿了",
+        "onboard_time": 1750824804,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 271762,
+        "num": 271762,
+        "word": "双胞胎高考哥哥680分妹妹710分",
+        "onboard_time": 1750819221,
+        "rank": 8,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 113199,
+        "num": 271330,
+        "word": "伊朗庆祝对以作战胜利",
+        "onboard_time": 1750827685,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1104266,
+        "num": 270897,
+        "word": "高考611分女生体检不合格恐无法入学",
+        "onboard_time": 1750820182,
+        "rank": 10,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 839300,
+        "num": 270606,
+        "word": "台北故宫与美国合作不与北京合作",
+        "onboard_time": 1750824863,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 347430,
+        "num": 269989,
+        "word": "不胖和好瘦的区别",
+        "onboard_time": 1750821444,
+        "rank": 12,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 31151,
+        "num": 269133,
+        "word": "高考结束后感到迷茫空虚怎么办",
+        "onboard_time": 1750827685,
+        "rank": 13,
+        "category": "民生新闻,议题讨论"
+      },
+      {
+        "raw_hot": 75933,
+        "num": 269014,
+        "word": "张雪峰到底怕不怕夸克",
+        "onboard_time": 1750827685,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 301198,
+        "num": 268371,
+        "word": "金价跌至6月以来新低",
+        "onboard_time": 1750827685,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 240160,
+        "num": 267760,
+        "word": "第一个让孟子义演绿茶的是天才",
+        "onboard_time": 1750828223,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225005,
+        "num": 267381,
+        "word": "奇迹官宣王安宇",
+        "onboard_time": 1750828282,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205828,
+        "num": 266509,
+        "word": "柯南m28好大一场冰花雨",
+        "onboard_time": 1750828402,
+        "rank": 18,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 238917,
+        "num": 266429,
+        "word": "方媛三胎近况",
+        "onboard_time": 1750826065,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26683,
+        "num": 265424,
+        "word": "两地法院判决烂尾楼购房者获退款",
+        "onboard_time": 1750828941,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265377,
+        "num": 265377,
+        "word": "广东高考分数线",
+        "onboard_time": 1750820422,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 302326,
+        "num": 264555,
+        "word": "男子因老中医指甲长把脉留印索赔2千",
+        "onboard_time": 1750828223,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263053,
+        "num": 263053,
+        "word": "查分查出隐藏款老师瞬间沸腾",
+        "onboard_time": 1750820542,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219808,
+        "num": 219808,
+        "word": "陕西高考分数线",
+        "onboard_time": 1750824804,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 197179,
+        "num": 197179,
+        "word": "张凌赫首部民国男主",
+        "onboard_time": 1750823484,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192259,
+        "num": 192259,
+        "word": "伊朗盛大庆祝战胜以色列",
+        "onboard_time": 1750828223,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 179453,
+        "num": 179453,
+        "word": "金价",
+        "onboard_time": 1750817720,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 177661,
+        "num": 177661,
+        "word": "newjeans确定禁止独立活动",
+        "onboard_time": 1750821924,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132628,
+        "num": 177625,
+        "word": "张学友再被要求说普通话",
+        "onboard_time": 1750827203,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 265632,
+        "num": 177538,
+        "word": "18岁绝经女生的真实感受",
+        "onboard_time": 1750829001,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 77222,
+        "num": 177384,
+        "word": "岚图FREE+的含金量谁懂",
+        "onboard_time": 1750829001,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 227901,
+        "num": 177306,
+        "word": "怀孕逛街的许玮甯",
+        "onboard_time": 1750829182,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168746,
+        "num": 177191,
+        "word": "张凌赫王楚然 男帅女美",
+        "onboard_time": 1750817241,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169273,
+        "num": 177127,
+        "word": "关晓彤女总裁look",
+        "onboard_time": 1750829182,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177037,
+        "num": 177037,
+        "word": "伊朗宣告战争结束重建工作开启",
+        "onboard_time": 1750808121,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 176042,
+        "num": 176042,
+        "word": "湖北高考首次出现高分屏蔽考生",
+        "onboard_time": 1750819640,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 164842,
+        "num": 164842,
+        "word": "浙江高考成绩",
+        "onboard_time": 1750825104,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 164135,
+        "num": 164135,
+        "word": "千年武则天无字碑加盖引争议",
+        "onboard_time": 1750816040,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150980,
+        "num": 150980,
+        "word": "山东分数线",
+        "onboard_time": 1750825766,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 147407,
+        "num": 147407,
+        "word": "书卷一梦",
+        "onboard_time": 1750827803,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150250,
+        "num": 145393,
+        "word": "领导的朋友圈不要随便评论",
+        "onboard_time": 1750824384,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142418,
+        "num": 142418,
+        "word": "未定事件簿",
+        "onboard_time": 1750828762,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138295,
+        "num": 138295,
+        "word": "不吸烟的亚洲女性为什么肺癌高发",
+        "onboard_time": 1750826065,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135348,
+        "num": 135348,
+        "word": "德塔文认证白鹿90扛剧TOP",
+        "onboard_time": 1750828941,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134322,
+        "num": 134322,
+        "word": "厕所门帘被保洁阿姨缝了一个裙子",
+        "onboard_time": 1750828703,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133057,
+        "num": 133057,
+        "word": "王嘉尔撕拉片好权威",
+        "onboard_time": 1750818861,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130369,
+        "num": 130369,
+        "word": "微信 朋友圈编辑功能",
+        "onboard_time": 1750827922,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 128334,
+        "num": 128334,
+        "word": "美国女子地铁轨道如厕被列车夹死",
+        "onboard_time": 1750816102,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 127663,
+        "num": 127663,
+        "word": "韦雪说小儿子去秦奋家叫回家",
+        "onboard_time": 1750813163,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温10年前阅兵现场依然震撼#"
+    }
+  }
+}

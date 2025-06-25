@@ -1,6 +1,6 @@
 {
   "startTime": 1750782835563,
-  "endTime": 1750827087659,
+  "endTime": 1750829269008,
   "band_list": [
     {
       "raw_hot": 1939482,
@@ -83,6 +83,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 790384,
+      "num": 790384,
+      "word": "酱园弄堆砌明星不等于好电影",
+      "onboard_time": 1750825705,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 735495,
       "num": 735495,
       "word": "千年武则天无字碑加盖引争议",
@@ -145,14 +153,6 @@
       "onboard_time": 1750810461,
       "rank": 12,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 537042,
-      "num": 537042,
-      "word": "酱园弄堆砌明星不等于好电影",
-      "onboard_time": 1750825705,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 525129,
@@ -387,6 +387,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 302326,
+      "num": 264555,
+      "word": "男子因老中医指甲长把脉留印索赔2千",
+      "onboard_time": 1750828223,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 301198,
+      "num": 268371,
+      "word": "金价跌至6月以来新低",
+      "onboard_time": 1750827685,
+      "rank": 15,
+      "category": "财经"
+    },
+    {
       "raw_hot": 298169,
       "num": 298169,
       "word": "特朗普说刚一谈好以就打伊",
@@ -403,6 +419,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 285944,
+      "num": 285944,
+      "word": "轻度抑郁症的真实表现",
+      "onboard_time": 1750823784,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 284140,
+      "num": 284140,
+      "word": "睡满8小时和6小时的区别",
+      "onboard_time": 1750822762,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 283093,
       "num": 283093,
       "word": "救助百名弃婴的道禄被传涉案",
@@ -417,14 +449,6 @@
       "onboard_time": 1750826065,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 276400,
-      "num": 276400,
-      "word": "睡满8小时和6小时的区别",
-      "onboard_time": 1750822762,
-      "rank": 37,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 275255,
@@ -459,6 +483,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 265632,
+      "num": 177538,
+      "word": "18岁绝经女生的真实感受",
+      "onboard_time": 1750829001,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 264014,
       "num": 264014,
       "word": "婚内强奸案当事人已离婚",
@@ -483,19 +515,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 251781,
-      "num": 251781,
-      "word": "轻度抑郁症的真实表现",
-      "onboard_time": 1750823784,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 244399,
       "num": 244399,
       "word": "敖瑞鹏吴宣仪 不二之臣",
       "onboard_time": 1750775425,
       "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 240160,
+      "num": 267760,
+      "word": "第一个让孟子义演绿茶的是天才",
+      "onboard_time": 1750828223,
+      "rank": 16,
       "category": "剧集"
     },
     {
@@ -515,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 227901,
+      "num": 177306,
+      "word": "怀孕逛街的许玮甯",
+      "onboard_time": 1750829182,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227239,
       "num": 208687,
       "word": "伊朗宣布取得对以作战胜利",
@@ -529,6 +569,14 @@
       "onboard_time": 1750780222,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 225005,
+      "num": 267381,
+      "word": "奇迹官宣王安宇",
+      "onboard_time": 1750828282,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 219007,
@@ -571,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205828,
+      "num": 266509,
+      "word": "柯南m28好大一场冰花雨",
+      "onboard_time": 1750828402,
+      "rank": 18,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 200395,
       "num": 258495,
       "word": "这一秒过火",
@@ -609,6 +665,14 @@
       "onboard_time": 1750823123,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 192259,
+      "num": 192259,
+      "word": "伊朗盛大庆祝战胜以色列",
+      "onboard_time": 1750828223,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 191611,
@@ -739,6 +803,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 169273,
+      "num": 177127,
+      "word": "关晓彤女总裁look",
+      "onboard_time": 1750829182,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 162153,
       "num": 162153,
       "word": "让体脂下降的30个小方法",
@@ -811,6 +883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147407,
+      "num": 147407,
+      "word": "书卷一梦",
+      "onboard_time": 1750827803,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147175,
       "num": 147175,
       "word": "保洁阿姨给大学女厕标识穿裙子",
@@ -851,6 +931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142418,
+      "num": 142418,
+      "word": "未定事件簿",
+      "onboard_time": 1750828762,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 139262,
       "num": 190475,
       "word": "甘薇说肖战赵丽颖是演技派",
@@ -875,6 +963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138295,
+      "num": 338574,
+      "word": "不吸烟的亚洲女性为什么肺癌高发",
+      "onboard_time": 1750826065,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136856,
       "num": 136856,
       "word": "日本合唱团用歌声痛诉731部队罪行",
@@ -889,6 +985,22 @@
       "onboard_time": 1750804997,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 135348,
+      "num": 135348,
+      "word": "德塔文认证白鹿90扛剧TOP",
+      "onboard_time": 1750828941,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 134322,
+      "num": 134322,
+      "word": "厕所门帘被保洁阿姨缝了一个裙子",
+      "onboard_time": 1750828703,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 133640,
@@ -907,12 +1019,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 132628,
+      "num": 177625,
+      "word": "张学友再被要求说普通话",
+      "onboard_time": 1750827203,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 131052,
       "num": 130131,
       "word": "李心艾孕晚期",
       "onboard_time": 1750783819,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130369,
+      "num": 130369,
+      "word": "微信 朋友圈编辑功能",
+      "onboard_time": 1750827922,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 128624,
@@ -953,6 +1081,14 @@
       "onboard_time": 1750783280,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113199,
+      "num": 271330,
+      "word": "伊朗庆祝对以作战胜利",
+      "onboard_time": 1750827685,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 112930,
@@ -1115,14 +1251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 90745,
-      "num": 338574,
-      "word": "不吸烟的亚洲女性为什么肺癌高发",
-      "onboard_time": 1750826065,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 90738,
       "num": 271448,
       "word": "美军B2轰炸机袭击伊朗核设施",
@@ -1219,12 +1347,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 77222,
+      "num": 177384,
+      "word": "岚图FREE+的含金量谁懂",
+      "onboard_time": 1750829001,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 76562,
       "num": 76562,
       "word": "黄金",
       "onboard_time": 1750778245,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 75933,
+      "num": 269014,
+      "word": "张雪峰到底怕不怕夸克",
+      "onboard_time": 1750827685,
+      "rank": 14,
+      "category": "教育"
     },
     {
       "raw_hot": 75853,
@@ -1459,6 +1603,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 31151,
+      "num": 269133,
+      "word": "高考结束后感到迷茫空虚怎么办",
+      "onboard_time": 1750827685,
+      "rank": 13,
+      "category": "民生新闻,议题讨论"
+    },
+    {
       "raw_hot": 29864,
       "num": 127619,
       "word": "动漫也是成年人的童话",
@@ -1496,6 +1648,22 @@
       "word": "贵州榕江已紧急转移约4万人",
       "onboard_time": 1750787475,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26683,
+      "num": 265424,
+      "word": "两地法院判决烂尾楼购房者获退款",
+      "onboard_time": 1750828941,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21513,
+      "num": 497527,
+      "word": "亲水经济夏日持续升温",
+      "onboard_time": 1750827864,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
