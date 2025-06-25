@@ -1,0 +1,402 @@
+{
+  "runTime": 1750894822656,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1280411,
+        "num": 1280411,
+        "word": "成绩被屏蔽女孩坚信不存在智商差距",
+        "onboard_time": 1750865542,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 494902,
+        "num": 494902,
+        "word": "中央气象台暴雨预警多地将受影响",
+        "onboard_time": 1750892177,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 477091,
+        "num": 477091,
+        "word": "救百名弃婴和尚挥霍大量爱心善款",
+        "onboard_time": 1750867281,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259601,
+        "num": 259601,
+        "word": "中方回应特朗普要中国买美国石油",
+        "onboard_time": 1750859064,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 239806,
+        "num": 239806,
+        "word": "襄阳四中6人高考成绩被屏蔽",
+        "onboard_time": 1750870339,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222307,
+        "num": 222307,
+        "word": "庆余年3刘端端 换角",
+        "onboard_time": 1750839682,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210536,
+        "num": 210536,
+        "word": "考生花5499元报96个本科志愿全滑档",
+        "onboard_time": 1750860744,
+        "rank": 7,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 185609,
+        "num": 185609,
+        "word": "LV上海大秀阵容",
+        "onboard_time": 1750863983,
+        "rank": 8,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 138753,
+        "num": 184810,
+        "word": "我承认之前对张译有些误会",
+        "onboard_time": 1750866382,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 498482,
+        "num": 183930,
+        "word": "徐艺洋一周前曾回应怀孕传闻",
+        "onboard_time": 1750853363,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358814,
+        "num": 182740,
+        "word": "长期不上班会和社会脱节吗",
+        "onboard_time": 1750881433,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 290756,
+        "num": 182077,
+        "word": "86岁大学学历北京大爷退休收入",
+        "onboard_time": 1750877056,
+        "rank": 12,
+        "category": "民生新闻,幽默"
+      },
+      {
+        "raw_hot": 110892,
+        "num": 180218,
+        "word": "女儿查分猛超陪考老爸200多分",
+        "onboard_time": 1750892238,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72066,
+        "num": 179622,
+        "word": "美国一航班发动机起火",
+        "onboard_time": 1750894220,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 179078,
+        "num": 179078,
+        "word": "鹿晗美甲",
+        "onboard_time": 1750850602,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173365,
+        "num": 173365,
+        "word": "暴雨暴雨注意暴雨暴雨",
+        "onboard_time": 1750841723,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159767,
+        "num": 159767,
+        "word": "首尔地铁纵火案致23伤",
+        "onboard_time": 1750849643,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 154435,
+        "num": 154435,
+        "word": "NBA交易",
+        "onboard_time": 1750893978,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121684,
+        "num": 151776,
+        "word": "剑来 刘浩存",
+        "onboard_time": 1750863862,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150541,
+        "num": 150541,
+        "word": "高考724分女生回应数学满分",
+        "onboard_time": 1750849343,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135291,
+        "num": 135291,
+        "word": "言冰云",
+        "onboard_time": 1750847903,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130791,
+        "num": 130791,
+        "word": "真人互动游戏女童出镜引争议",
+        "onboard_time": 1750868661,
+        "rank": 22,
+        "category": "民生新闻,游戏"
+      },
+      {
+        "raw_hot": 115808,
+        "num": 115808,
+        "word": "周杰伦晒3岁小女儿萌照",
+        "onboard_time": 1750855762,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81944,
+        "num": 113644,
+        "word": "领衔主演付辛博",
+        "onboard_time": 1750861523,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113434,
+        "num": 113434,
+        "word": "伊朗称核设施在美空袭中严重受损",
+        "onboard_time": 1750861043,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107438,
+        "num": 107438,
+        "word": "妈妈替复读生儿子查分瞬间泪崩",
+        "onboard_time": 1750865542,
+        "rank": 26,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 81501,
+        "num": 93509,
+        "word": "桃花映江山首播观后感",
+        "onboard_time": 1750892537,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64790,
+        "num": 90903,
+        "word": "杨幂 王小卤",
+        "onboard_time": 1750863263,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61862,
+        "num": 88615,
+        "word": "歌手第七期歌单",
+        "onboard_time": 1750861464,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88334,
+        "num": 88334,
+        "word": "NBA",
+        "onboard_time": 1750861163,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85794,
+        "num": 85794,
+        "word": "孕妇1天2杯奶茶致早产孩子仅3斤2两",
+        "onboard_time": 1750840282,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85306,
+        "num": 85306,
+        "word": "中南财大被曝男子穿女装替考",
+        "onboard_time": 1750854501,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85088,
+        "num": 85088,
+        "word": "孙颖莎世1霸榜近3年",
+        "onboard_time": 1750867281,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83501,
+        "num": 83501,
+        "word": "因推销电话骚扰男子将银行告上法庭",
+        "onboard_time": 1750889895,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82287,
+        "num": 82287,
+        "word": "小米Yu7",
+        "onboard_time": 1750861944,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 77184,
+        "num": 77184,
+        "word": "女子掉进沥青桶被卡住连桶一起送医",
+        "onboard_time": 1750878974,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 56609,
+        "num": 71452,
+        "word": "错换人生28年案姚策养母索赔220万",
+        "onboard_time": 1750882816,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70663,
+        "num": 70663,
+        "word": "LV 王楚钦",
+        "onboard_time": 1750861403,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64579,
+        "num": 64579,
+        "word": "男生676分想报哈工大报效国家",
+        "onboard_time": 1750866742,
+        "rank": 39,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 63605,
+        "num": 63605,
+        "word": "月薪15000每月只花1000块",
+        "onboard_time": 1750894038,
+        "rank": 40,
+        "category": "民生新闻,幽默"
+      },
+      {
+        "raw_hot": 62736,
+        "num": 62736,
+        "word": "王宝强参选白玉兰让康洪雷不要为难",
+        "onboard_time": 1750894760,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60471,
+        "num": 60471,
+        "word": "全班600分以上老师嘴角压不住了",
+        "onboard_time": 1750853121,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59149,
+        "num": 59149,
+        "word": "特朗普发文说CNN假新闻",
+        "onboard_time": 1750880053,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 57207,
+        "num": 57207,
+        "word": "肯德基",
+        "onboard_time": 1750894520,
+        "rank": 44,
+        "category": "美食,游戏"
+      },
+      {
+        "raw_hot": 55239,
+        "num": 55239,
+        "word": "刘美含的宠物蜥蜴去世",
+        "onboard_time": 1750856243,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51438,
+        "num": 51438,
+        "word": "北约秘书长否认管特朗普叫爸爸",
+        "onboard_time": 1750894760,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 50672,
+        "num": 50672,
+        "word": "西绿 假律师",
+        "onboard_time": 1750862723,
+        "rank": 47,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 50220,
+        "num": 50220,
+        "word": "姜涛坠海后参加见面会",
+        "onboard_time": 1750867942,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46165,
+        "num": 46165,
+        "word": "王者S40赛季福利第一弹",
+        "onboard_time": 1750876095,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记对土地的深情#"
+    }
+  }
+}

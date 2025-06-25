@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/26 07:25:11
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/26 07:40:22
 </p>
 </blockquote>
 <p>
@@ -2031,6 +2031,12 @@ A股（热度：1322395）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E7%BB%A9%E8%A2%AB%E5%B1%8F%E8%94%BD%E5%A5%B3%E5%AD%A9%E5%9D%9A%E4%BF%A1%E4%B8%8D%E5%AD%98%E5%9C%A8%E6%99%BA%E5%95%86%E5%B7%AE%E8%B7%9D%23" target="weibo">
+成绩被屏蔽女孩坚信不存在智商差距（热度：1280411）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%236%E5%9D%97%E9%92%B1%E4%B8%80%E7%A2%97%E7%9A%84%E9%9D%A2%E8%A2%AB%E9%80%9A%E6%8A%A5%E5%AE%B4%E8%AF%B7%23" target="weibo">
 6块钱一碗的面被通报宴请（热度：1277447）
 </a>
@@ -2225,12 +2231,6 @@ afternoon怎么变形（热度：1248150）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8D%9E%E5%A5%B3%E6%B8%B8%E6%88%8F%23" target="weibo">
 捞女游戏（热度：1229638）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E7%BB%A9%E8%A2%AB%E5%B1%8F%E8%94%BD%E5%A5%B3%E5%AD%A9%E5%9D%9A%E4%BF%A1%E4%B8%8D%E5%AD%98%E5%9C%A8%E6%99%BA%E5%95%86%E5%B7%AE%E8%B7%9D%23" target="weibo">
-成绩被屏蔽女孩坚信不存在智商差距（热度：1229338）
 </a>
 </li>
 
