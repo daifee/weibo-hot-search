@@ -1,0 +1,402 @@
+{
+  "runTime": 1750877506248,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 230345,
+        "num": 230345,
+        "word": "成绩被屏蔽女孩坚信不存在智商差距",
+        "onboard_time": 1750865542,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121729,
+        "num": 121729,
+        "word": "襄阳四中6人高考成绩被屏蔽",
+        "onboard_time": 1750870339,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86567,
+        "num": 86567,
+        "word": "救百名弃婴和尚挥霍大量爱心善款",
+        "onboard_time": 1750867281,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81573,
+        "num": 81573,
+        "word": "剑来 刘浩存",
+        "onboard_time": 1750863862,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74519,
+        "num": 74519,
+        "word": "真人互动游戏女童出镜引争议",
+        "onboard_time": 1750868661,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71939,
+        "num": 71939,
+        "word": "孙颖莎世1霸榜近3年",
+        "onboard_time": 1750867281,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66840,
+        "num": 66840,
+        "word": "庆余年3刘端端 换角",
+        "onboard_time": 1750839682,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64699,
+        "num": 64699,
+        "word": "LV上海大秀阵容",
+        "onboard_time": 1750863983,
+        "rank": 8,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 12743,
+        "num": 64161,
+        "word": "姚策养母否认起诉是为炒作带货",
+        "onboard_time": 1750876455,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89974,
+        "num": 64139,
+        "word": "徐艺洋一周前曾回应怀孕传闻",
+        "onboard_time": 1750853363,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63781,
+        "num": 63781,
+        "word": "鹿晗美甲",
+        "onboard_time": 1750850602,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63346,
+        "num": 63346,
+        "word": "高考724分女生回应数学满分",
+        "onboard_time": 1750849343,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50194,
+        "num": 50194,
+        "word": "首尔地铁纵火案致23伤",
+        "onboard_time": 1750849643,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 47638,
+        "num": 47638,
+        "word": "言冰云",
+        "onboard_time": 1750847903,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46158,
+        "num": 46158,
+        "word": "杨幂 王小卤",
+        "onboard_time": 1750863263,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45356,
+        "num": 45356,
+        "word": "梁实称如果明年再考会是最后一次",
+        "onboard_time": 1750875256,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43949,
+        "num": 43949,
+        "word": "中方回应特朗普要中国买美国石油",
+        "onboard_time": 1750859064,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 43439,
+        "num": 43439,
+        "word": "儿子高考704分妈妈说平时放养教育",
+        "onboard_time": 1750871239,
+        "rank": 18,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 31112,
+        "num": 42718,
+        "word": "成何体统",
+        "onboard_time": 1750867641,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42539,
+        "num": 42539,
+        "word": "labubu",
+        "onboard_time": 1750875496,
+        "rank": 20,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 36637,
+        "num": 36637,
+        "word": "考生花5499元报96个本科志愿全滑档",
+        "onboard_time": 1750860744,
+        "rank": 21,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 32125,
+        "num": 32125,
+        "word": "LV 王楚钦",
+        "onboard_time": 1750861403,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31510,
+        "num": 31510,
+        "word": "张元英转圈又火了",
+        "onboard_time": 1750842321,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 29806,
+        "num": 29806,
+        "word": "小米Yu7",
+        "onboard_time": 1750861944,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 29487,
+        "num": 29487,
+        "word": "桃黑黑 橙光",
+        "onboard_time": 1750855942,
+        "rank": 25,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 29438,
+        "num": 29438,
+        "word": "NBA",
+        "onboard_time": 1750861163,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28960,
+        "num": 28960,
+        "word": "妈妈替复读生儿子查分瞬间泪崩",
+        "onboard_time": 1750865542,
+        "rank": 27,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 28338,
+        "num": 28338,
+        "word": "罗一舟突发意外受伤",
+        "onboard_time": 1750866862,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25732,
+        "num": 28152,
+        "word": "歌手第七期歌单",
+        "onboard_time": 1750861464,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28134,
+        "num": 28134,
+        "word": "王者S40赛季福利第一弹",
+        "onboard_time": 1750876095,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 27071,
+        "num": 27071,
+        "word": "周杰伦晒3岁小女儿萌照",
+        "onboard_time": 1750855762,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26278,
+        "num": 26278,
+        "word": "暴雨暴雨注意暴雨暴雨",
+        "onboard_time": 1750841723,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25236,
+        "num": 25236,
+        "word": "男生676分想报哈工大报效国家",
+        "onboard_time": 1750866742,
+        "rank": 33,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 24448,
+        "num": 24448,
+        "word": "伊朗称核设施在美空袭中严重受损",
+        "onboard_time": 1750861043,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 23927,
+        "num": 23927,
+        "word": "梁实高考454分",
+        "onboard_time": 1750848503,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23624,
+        "num": 23624,
+        "word": "刘美含的宠物蜥蜴去世",
+        "onboard_time": 1750856243,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22957,
+        "num": 22957,
+        "word": "我承认之前对张译有些误会",
+        "onboard_time": 1750866382,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21633,
+        "num": 21633,
+        "word": "伊朗防长现身青岛",
+        "onboard_time": 1750847422,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21583,
+        "num": 21583,
+        "word": "中南财大被曝男子穿女装替考",
+        "onboard_time": 1750854501,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21492,
+        "num": 21492,
+        "word": "全班600分以上老师嘴角压不住了",
+        "onboard_time": 1750853121,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20105,
+        "num": 21492,
+        "word": "孕妇1天2杯奶茶致早产孩子仅3斤2两",
+        "onboard_time": 1750840282,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19991,
+        "num": 21492,
+        "word": "渐冻症考生回应高考400分",
+        "onboard_time": 1750872796,
+        "rank": 42,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 19276,
+        "num": 21492,
+        "word": "姜涛坠海后参加见面会",
+        "onboard_time": 1750867942,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18759,
+        "num": 21492,
+        "word": "八路军抗日战场上牺牲的最高指挥员",
+        "onboard_time": 1750864823,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18712,
+        "num": 21492,
+        "word": "西绿 假律师",
+        "onboard_time": 1750862723,
+        "rank": 45,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 18573,
+        "num": 21492,
+        "word": "桃花映江山热度",
+        "onboard_time": 1750850362,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18393,
+        "num": 21492,
+        "word": "领衔主演付辛博",
+        "onboard_time": 1750861523,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18223,
+        "num": 21492,
+        "word": "86岁大学学历北京大爷退休收入",
+        "onboard_time": 1750877056,
+        "rank": 48,
+        "category": "民生新闻,幽默"
+      },
+      {
+        "raw_hot": 18196,
+        "num": 21492,
+        "word": "泽连斯基或将穿正装见特朗普",
+        "onboard_time": 1750866081,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记对土地的深情#"
+    }
+  }
+}
