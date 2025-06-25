@@ -1,6 +1,6 @@
 {
   "startTime": 1750782835563,
-  "endTime": 1750833524315,
+  "endTime": 1750834369224,
   "band_list": [
     {
       "raw_hot": 1939482,
@@ -17,6 +17,14 @@
       "onboard_time": 1750823602,
       "rank": 11,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 1360783,
+      "num": 1360783,
+      "word": "韩安冉晒硕士offer",
+      "onboard_time": 1750832482,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 1345973,
@@ -99,14 +107,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 752877,
-      "num": 285449,
-      "word": "韩安冉晒硕士offer",
-      "onboard_time": 1750832482,
-      "rank": 10,
-      "category": "网红"
-    },
-    {
       "raw_hot": 735495,
       "num": 735495,
       "word": "千年武则天无字碑加盖引争议",
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 653977,
-      "num": 271982,
+      "num": 347121,
       "word": "18岁绝经女生的真实感受",
       "onboard_time": 1750829001,
       "rank": 30,
@@ -163,8 +163,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 569211,
-      "num": 260265,
+      "raw_hot": 587951,
+      "num": 349252,
       "word": "魏大勋出个国怎么帅成这样",
       "onboard_time": 1750830262,
       "rank": 22,
@@ -275,6 +275,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 439125,
+      "num": 439125,
+      "word": "睡满8小时和6小时的区别",
+      "onboard_time": 1750822762,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 431323,
       "num": 504931,
       "word": "北京高考698分以上113人",
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 430473,
-      "num": 241061,
+      "num": 256992,
       "word": "怀孕逛街的许玮甯",
       "onboard_time": 1750829182,
       "rank": 32,
@@ -299,12 +307,12 @@
       "category": "民生新闻,幽默"
     },
     {
-      "raw_hot": 408432,
-      "num": 408432,
-      "word": "睡满8小时和6小时的区别",
-      "onboard_time": 1750822762,
-      "rank": 37,
-      "category": "健康医疗"
+      "raw_hot": 423756,
+      "num": 423756,
+      "word": "特朗普晒北约秘书长谄媚私信",
+      "onboard_time": 1750830681,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 402642,
@@ -323,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 399708,
+      "num": 399708,
+      "word": "老人失联27小时期间靠吃荔枝充饥",
+      "onboard_time": 1750830203,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 393546,
       "num": 393546,
       "word": "BLACKPINK四人合体了",
@@ -339,6 +355,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 384776,
+      "num": 384776,
+      "word": "浙江高考成绩",
+      "onboard_time": 1750825104,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 382712,
       "num": 382712,
       "word": "偷偷藏不住",
@@ -353,14 +377,6 @@
       "onboard_time": 1750818861,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 366586,
-      "num": 366586,
-      "word": "特朗普晒北约秘书长谄媚私信",
-      "onboard_time": 1750830681,
-      "rank": 6,
-      "category": "国际时政"
     },
     {
       "raw_hot": 361883,
@@ -393,14 +409,6 @@
       "onboard_time": 1750774945,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 342922,
-      "num": 342922,
-      "word": "浙江高考成绩",
-      "onboard_time": 1750825104,
-      "rank": 43,
-      "category": "教育"
     },
     {
       "raw_hot": 338196,
@@ -491,14 +499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 292844,
-      "num": 292844,
-      "word": "老人失联27小时期间靠吃荔枝充饥",
-      "onboard_time": 1750830203,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 283093,
       "num": 283093,
       "word": "救助百名弃婴的道禄被传涉案",
@@ -561,6 +561,14 @@
       "onboard_time": 1750810641,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 262042,
+      "num": 262042,
+      "word": "雷军再透露小米YU7价格",
+      "onboard_time": 1750832782,
+      "rank": 22,
+      "category": "汽车"
     },
     {
       "raw_hot": 258360,
@@ -643,6 +651,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 215545,
+      "num": 215545,
+      "word": "赋分",
+      "onboard_time": 1750831403,
+      "rank": 21,
+      "category": "教育"
+    },
+    {
       "raw_hot": 214032,
       "num": 365688,
       "word": "电影小白船定档",
@@ -675,12 +691,12 @@
       "category": "电影,动漫"
     },
     {
-      "raw_hot": 202488,
-      "num": 202488,
-      "word": "赋分",
-      "onboard_time": 1750831403,
-      "rank": 21,
-      "category": "教育"
+      "raw_hot": 203035,
+      "num": 266079,
+      "word": "酱园弄开分5.9什么压垮了口碑",
+      "onboard_time": 1750832422,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 200395,
@@ -811,6 +827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 185886,
+      "num": 185886,
+      "word": "A股",
+      "onboard_time": 1750833741,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 185177,
       "num": 229113,
       "word": "古言终于把事业脑还给女主了",
@@ -827,12 +851,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 183730,
-      "num": 183730,
-      "word": "雷军再透露小米YU7价格",
-      "onboard_time": 1750832782,
-      "rank": 22,
-      "category": "汽车"
+      "raw_hot": 182893,
+      "num": 182893,
+      "word": "父亲家暴烧死母亲案死刑已执行",
+      "onboard_time": 1750833383,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179113,
@@ -939,12 +963,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 159825,
-      "num": 159825,
-      "word": "酱园弄开分5.9什么压垮了口碑",
-      "onboard_time": 1750832422,
-      "rank": 26,
+      "raw_hot": 158021,
+      "num": 158021,
+      "word": "姜文新片你行你上定档",
+      "onboard_time": 1750831102,
+      "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 157429,
+      "num": 157429,
+      "word": "前国乒教练晒樊振东奥运图",
+      "onboard_time": 1750829903,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 155049,
@@ -1049,14 +1081,6 @@
       "onboard_time": 1750830141,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 144543,
-      "num": 144543,
-      "word": "前国乒教练晒樊振东奥运图",
-      "onboard_time": 1750829903,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 144074,
@@ -1179,6 +1203,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 132431,
+      "num": 132431,
+      "word": "健身房 脏",
+      "onboard_time": 1750834104,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 131052,
       "num": 130131,
       "word": "李心艾孕晚期",
@@ -1187,12 +1219,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130894,
+      "num": 130894,
+      "word": "夏季皮肤奇痒难耐当心是特应性皮炎",
+      "onboard_time": 1750834281,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 130564,
       "num": 130564,
       "word": "生到了隐藏款女儿",
       "onboard_time": 1750831942,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 129825,
+      "num": 129825,
+      "word": "伊朗人说以色列1秒炸毁我42年人生",
+      "onboard_time": 1750833263,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 129792,
@@ -1208,6 +1256,14 @@
       "word": "官方回应千年武则天无字碑加盖",
       "onboard_time": 1750818021,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127171,
+      "num": 125423,
+      "word": "女孩服激素增高药身高定格137cm",
+      "onboard_time": 1750832362,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -1235,14 +1291,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 121804,
-      "num": 121804,
-      "word": "女孩服激素增高药身高定格137cm",
-      "onboard_time": 1750832362,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 120132,
       "num": 120132,
       "word": "小米悠悠去世",
@@ -1259,14 +1307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 116801,
-      "num": 116801,
-      "word": "伊朗人说以色列1秒炸毁我42年人生",
-      "onboard_time": 1750833263,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 116225,
       "num": 116225,
       "word": "散瓶飞天茅台跌破1800元",
@@ -1281,6 +1321,14 @@
       "onboard_time": 1750783280,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115373,
+      "num": 115373,
+      "word": "有车和没车的区别",
+      "onboard_time": 1750834104,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 112930,
@@ -1345,14 +1393,6 @@
       "onboard_time": 1750832002,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 107677,
-      "num": 107677,
-      "word": "父亲家暴烧死母亲案死刑已执行",
-      "onboard_time": 1750833383,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 107558,
@@ -1449,6 +1489,14 @@
       "onboard_time": 1750817720,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93233,
+      "num": 126691,
+      "word": "世界冠军汇聚粤港澳全运会",
+      "onboard_time": 1750833923,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 92067,
@@ -1580,7 +1628,7 @@
     },
     {
       "raw_hot": 76636,
-      "num": 120487,
+      "num": 130900,
       "word": "陈奕迅加场吧就当是为了我",
       "onboard_time": 1750832902,
       "rank": 40,
@@ -1819,6 +1867,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 41503,
+      "num": 123246,
+      "word": "海南本科线480分",
+      "onboard_time": 1750834342,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 38878,
       "num": 276162,
       "word": "特朗普彻夜未眠关注以伊停火进展",
@@ -1915,6 +1971,14 @@
       "category": "互联网,读书作家"
     },
     {
+      "raw_hot": 27661,
+      "num": 126690,
+      "word": "甘肃本科线物理类374历史类412",
+      "onboard_time": 1750827203,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 27058,
       "num": 27058,
       "word": "张真源中戏毕业典礼vlog",
@@ -1931,12 +1995,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25770,
+      "num": 192289,
+      "word": "保姆半年盗走雇主20万黄金首饰",
+      "onboard_time": 1750833741,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19181,
       "num": 19181,
       "word": "我和烧烤就差那一点孜然辣椒了",
       "onboard_time": 1750793534,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 18425,
+      "num": 126690,
+      "word": "胡兵揭秘秀场老钱风妆容",
+      "onboard_time": 1750833682,
+      "rank": 40,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 16922,

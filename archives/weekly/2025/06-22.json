@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750833524315,
+  "endTime": 1750834369224,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -369,6 +369,14 @@
       "onboard_time": 1750666824,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1360783,
+      "num": 1360783,
+      "word": "韩安冉晒硕士offer",
+      "onboard_time": 1750832482,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 1354262,
@@ -979,14 +987,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 752877,
-      "num": 285449,
-      "word": "韩安冉晒硕士offer",
-      "onboard_time": 1750832482,
-      "rank": 10,
-      "category": "网红"
-    },
-    {
       "raw_hot": 750726,
       "num": 750726,
       "word": "女儿被打碎头骨母亲含泪发声",
@@ -1260,7 +1260,7 @@
     },
     {
       "raw_hot": 653977,
-      "num": 271982,
+      "num": 347121,
       "word": "18岁绝经女生的真实感受",
       "onboard_time": 1750829001,
       "rank": 30,
@@ -1483,6 +1483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 587951,
+      "num": 349252,
+      "word": "魏大勋出个国怎么帅成这样",
+      "onboard_time": 1750830262,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 587157,
       "num": 587157,
       "word": "表妹万福",
@@ -1521,14 +1529,6 @@
       "onboard_time": 1750551379,
       "rank": 5,
       "category": "财经,民生新闻"
-    },
-    {
-      "raw_hot": 569211,
-      "num": 260265,
-      "word": "魏大勋出个国怎么帅成这样",
-      "onboard_time": 1750830262,
-      "rank": 22,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 568211,
@@ -2259,6 +2259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 439125,
+      "num": 439125,
+      "word": "睡满8小时和6小时的区别",
+      "onboard_time": 1750822762,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 438640,
       "num": 438640,
       "word": "你见过最冷门的姓是什么",
@@ -2308,7 +2316,7 @@
     },
     {
       "raw_hot": 430473,
-      "num": 241061,
+      "num": 256992,
       "word": "怀孕逛街的许玮甯",
       "onboard_time": 1750829182,
       "rank": 32,
@@ -2337,6 +2345,14 @@
       "onboard_time": 1750595841,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 423756,
+      "num": 423756,
+      "word": "特朗普晒北约秘书长谄媚私信",
+      "onboard_time": 1750830681,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 422414,
@@ -2443,14 +2459,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 408432,
-      "num": 408432,
-      "word": "睡满8小时和6小时的区别",
-      "onboard_time": 1750822762,
-      "rank": 37,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 405824,
       "num": 405824,
       "word": "中山震感",
@@ -2539,6 +2547,14 @@
       "category": "海外新闻,财经"
     },
     {
+      "raw_hot": 399708,
+      "num": 399708,
+      "word": "老人失联27小时期间靠吃荔枝充饥",
+      "onboard_time": 1750830203,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 398450,
       "num": 398450,
       "word": "伊朗",
@@ -2601,6 +2617,14 @@
       "onboard_time": 1750809502,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 384776,
+      "num": 384776,
+      "word": "浙江高考成绩",
+      "onboard_time": 1750825104,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 384407,
@@ -2753,14 +2777,6 @@
       "onboard_time": 1750679003,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 366586,
-      "num": 366586,
-      "word": "特朗普晒北约秘书长谄媚私信",
-      "onboard_time": 1750830681,
-      "rank": 6,
-      "category": "国际时政"
     },
     {
       "raw_hot": 364851,
@@ -3001,14 +3017,6 @@
       "onboard_time": 1750566262,
       "rank": 46,
       "category": "美食"
-    },
-    {
-      "raw_hot": 342922,
-      "num": 342922,
-      "word": "浙江高考成绩",
-      "onboard_time": 1750825104,
-      "rank": 43,
-      "category": "教育"
     },
     {
       "raw_hot": 342255,
@@ -3595,14 +3603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 292844,
-      "num": 292844,
-      "word": "老人失联27小时期间靠吃荔枝充饥",
-      "onboard_time": 1750830203,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 288756,
       "num": 374385,
       "word": "西出玉门",
@@ -3993,6 +3993,14 @@
       "onboard_time": 1750725923,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 262042,
+      "num": 262042,
+      "word": "雷军再透露小米YU7价格",
+      "onboard_time": 1750832782,
+      "rank": 22,
+      "category": "汽车"
     },
     {
       "raw_hot": 261874,
@@ -4819,6 +4827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 215545,
+      "num": 215545,
+      "word": "赋分",
+      "onboard_time": 1750831403,
+      "rank": 21,
+      "category": "教育"
+    },
+    {
       "raw_hot": 215183,
       "num": 215183,
       "word": "周震南 主播怎么穿吊带",
@@ -5259,20 +5275,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203035,
+      "num": 266079,
+      "word": "酱园弄开分5.9什么压垮了口碑",
+      "onboard_time": 1750832422,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 202920,
       "num": 327118,
       "word": "山河枕配音 不贴脸",
       "onboard_time": 1750674804,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 202488,
-      "num": 202488,
-      "word": "赋分",
-      "onboard_time": 1750831403,
-      "rank": 21,
-      "category": "教育"
     },
     {
       "raw_hot": 202425,
@@ -6107,6 +6123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 185886,
+      "num": 185886,
+      "word": "A股",
+      "onboard_time": 1750644921,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 185779,
       "num": 185779,
       "word": "巴黎合伙人出发直播",
@@ -6195,14 +6219,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 183730,
-      "num": 183730,
-      "word": "雷军再透露小米YU7价格",
-      "onboard_time": 1750832782,
-      "rank": 22,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 183373,
       "num": 183373,
       "word": "湖南高考分数线",
@@ -6227,20 +6243,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182893,
+      "num": 182893,
+      "word": "父亲家暴烧死母亲案死刑已执行",
+      "onboard_time": 1750833383,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182794,
       "num": 182794,
       "word": "张函瑞中考成绩",
       "onboard_time": 1750774706,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 182720,
-      "num": 182720,
-      "word": "A股",
-      "onboard_time": 1750644921,
-      "rank": 37,
-      "category": "财经"
     },
     {
       "raw_hot": 182399,
@@ -7091,14 +7107,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 159825,
-      "num": 159825,
-      "word": "酱园弄开分5.9什么压垮了口碑",
-      "onboard_time": 1750832422,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 159498,
       "num": 159498,
       "word": "烽火流金",
@@ -7195,6 +7203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 158021,
+      "num": 158021,
+      "word": "姜文新片你行你上定档",
+      "onboard_time": 1750831102,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 157991,
       "num": 157991,
       "word": "萤火虫漫展",
@@ -7217,6 +7233,14 @@
       "onboard_time": 1750744521,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157429,
+      "num": 157429,
+      "word": "前国乒教练晒樊振东奥运图",
+      "onboard_time": 1750829903,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 157281,
@@ -7889,14 +7913,6 @@
       "onboard_time": 1750771466,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 144543,
-      "num": 144543,
-      "word": "前国乒教练晒樊振东奥运图",
-      "onboard_time": 1750829903,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 144494,
@@ -8667,6 +8683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132431,
+      "num": 132431,
+      "word": "健身房 脏",
+      "onboard_time": 1750834104,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 132249,
       "num": 132249,
       "word": "胡楚靓",
@@ -8721,6 +8745,14 @@
       "onboard_time": 1750783819,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130894,
+      "num": 130894,
+      "word": "夏季皮肤奇痒难耐当心是特应性皮炎",
+      "onboard_time": 1750834281,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 130849,
@@ -8801,6 +8833,14 @@
       "onboard_time": 1750681883,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129825,
+      "num": 129825,
+      "word": "伊朗人说以色列1秒炸毁我42年人生",
+      "onboard_time": 1750833263,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 129792,
@@ -8929,6 +8969,14 @@
       "onboard_time": 1750674503,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 127171,
+      "num": 125423,
+      "word": "女孩服激素增高药身高定格137cm",
+      "onboard_time": 1750832362,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127040,
@@ -9259,14 +9307,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 121804,
-      "num": 121804,
-      "word": "女孩服激素增高药身高定格137cm",
-      "onboard_time": 1750832362,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 121665,
       "num": 179069,
       "word": "给章子怡拍成谁了",
@@ -9403,14 +9443,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 116801,
-      "num": 116801,
-      "word": "伊朗人说以色列1秒炸毁我42年人生",
-      "onboard_time": 1750833263,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 116554,
       "num": 116554,
       "word": "薛凯琪的亲签是又亲又签",
@@ -9489,6 +9521,14 @@
       "onboard_time": 1750783280,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115373,
+      "num": 115373,
+      "word": "有车和没车的区别",
+      "onboard_time": 1750834104,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 115210,
@@ -9841,14 +9881,6 @@
       "onboard_time": 1750634059,
       "rank": 9,
       "category": "国际时政,民生新闻"
-    },
-    {
-      "raw_hot": 107677,
-      "num": 107677,
-      "word": "父亲家暴烧死母亲案死刑已执行",
-      "onboard_time": 1750833383,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 107135,
@@ -10403,6 +10435,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 93233,
+      "num": 126691,
+      "word": "世界冠军汇聚粤港澳全运会",
+      "onboard_time": 1750833923,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93230,
       "num": 153345,
       "word": "女子为理发师给的情绪价值豪充18888",
@@ -10820,7 +10860,7 @@
     },
     {
       "raw_hot": 76636,
-      "num": 120487,
+      "num": 130900,
       "word": "陈奕迅加场吧就当是为了我",
       "onboard_time": 1750832902,
       "rank": 40,
@@ -11891,6 +11931,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 41503,
+      "num": 123246,
+      "word": "海南本科线480分",
+      "onboard_time": 1750834342,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 41479,
       "num": 160419,
       "word": "14岁少年的一个月独居实验",
@@ -12395,6 +12443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 27661,
+      "num": 126690,
+      "word": "甘肃本科线物理类374历史类412",
+      "onboard_time": 1750827203,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 27615,
       "num": 42263,
       "word": "保护情绪和保护健康一样重要",
@@ -12497,6 +12553,14 @@
       "onboard_time": 1750531217,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25770,
+      "num": 192289,
+      "word": "保姆半年盗走雇主20万黄金首饰",
+      "onboard_time": 1750833741,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25685,
@@ -12785,6 +12849,14 @@
       "onboard_time": 1750536674,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 18425,
+      "num": 126690,
+      "word": "胡兵揭秘秀场老钱风妆容",
+      "onboard_time": 1750833682,
+      "rank": 40,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 18245,
