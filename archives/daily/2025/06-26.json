@@ -1,6 +1,6 @@
 {
   "startTime": 1750869299096,
-  "endTime": 1750869299096,
+  "endTime": 1750870235421,
   "band_list": [
     {
       "raw_hot": 1192951,
@@ -107,19 +107,19 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 241560,
+      "num": 241560,
+      "word": "妈妈替复读生儿子查分瞬间泪崩",
+      "onboard_time": 1750865542,
+      "rank": 16,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 216357,
       "num": 216357,
       "word": "考生花5499元报96个本科志愿全滑档",
       "onboard_time": 1750860744,
       "rank": 15,
-      "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 193624,
-      "num": 193624,
-      "word": "妈妈替复读生儿子查分瞬间泪崩",
-      "onboard_time": 1750865542,
-      "rank": 16,
       "category": "民生新闻,教育"
     },
     {
@@ -147,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154954,
+      "num": 154954,
+      "word": "救百名弃婴和尚挥霍大量爱心善款",
+      "onboard_time": 1750867281,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154681,
       "num": 154681,
       "word": "鹿晗美甲",
@@ -163,8 +171,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152580,
+      "num": 306472,
+      "word": "男生676分想报哈工大报效国家",
+      "onboard_time": 1750866742,
+      "rank": 9,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 141573,
-      "num": 141573,
+      "num": 151459,
       "word": "成何体统",
       "onboard_time": 1750867641,
       "rank": 22,
@@ -184,14 +200,6 @@
       "word": "暴雨暴雨注意暴雨暴雨",
       "onboard_time": 1750841723,
       "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 112938,
-      "num": 112938,
-      "word": "救百名弃婴和尚挥霍大量爱心善款",
-      "onboard_time": 1750867281,
-      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -259,20 +267,20 @@
       "category": "网红,民生新闻"
     },
     {
-      "raw_hot": 84348,
-      "num": 306472,
-      "word": "男生676分想报哈工大报效国家",
-      "onboard_time": 1750866742,
-      "rank": 9,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 83139,
       "num": 83139,
       "word": "桃花映江山热度",
       "onboard_time": 1750850362,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 82736,
+      "num": 82736,
+      "word": "真人互动游戏女童出镜引争议",
+      "onboard_time": 1750868661,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82734,
@@ -307,12 +315,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 75313,
-      "num": 75313,
-      "word": "真人互动游戏女童出镜引争议",
-      "onboard_time": 1750868661,
-      "rank": 41,
-      "category": "民生新闻"
+      "raw_hot": 77731,
+      "num": 77731,
+      "word": "刘宇宁这首歌力量感满满",
+      "onboard_time": 1750868901,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 74544,
@@ -347,20 +355,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 69797,
-      "num": 69797,
-      "word": "刘宇宁这首歌力量感满满",
-      "onboard_time": 1750868901,
-      "rank": 46,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 65948,
-      "num": 65948,
+      "num": 257776,
       "word": "八路军抗日战场上牺牲的最高指挥员",
       "onboard_time": 1750864823,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 64388,
+      "num": 64388,
+      "word": "文韬晒撕拉片",
+      "onboard_time": 1750869921,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 61617,
@@ -377,6 +385,22 @@
       "onboard_time": 1750867161,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 57867,
+      "num": 57867,
+      "word": "山河枕 丁禹兮原声",
+      "onboard_time": 1750869679,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 48736,
+      "num": 48736,
+      "word": "关晓彤海边跑步",
+      "onboard_time": 1750855162,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 41828,
