@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1750920757092,
+  "endTime": 1750922805841,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1939,6 +1939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3963357,
+      "num": 3963357,
+      "word": "都美竹骗我20万",
+      "onboard_time": 1750921640,
+      "rank": 0,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 3957531,
       "num": 4915063,
       "word": "马龙乒协副主席",
@@ -2392,14 +2400,6 @@
       "word": "马嘉祺咬字",
       "onboard_time": 1749216386,
       "rank": 10,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 3529783,
-      "num": 3018562,
-      "word": "叶童怼房琪",
-      "onboard_time": 1743748041,
-      "rank": 12,
       "category": "综艺"
     }
   ],

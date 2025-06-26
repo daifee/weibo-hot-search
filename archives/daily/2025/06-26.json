@@ -1,7 +1,15 @@
 {
   "startTime": 1750869299096,
-  "endTime": 1750920757092,
+  "endTime": 1750922805841,
   "band_list": [
+    {
+      "raw_hot": 3963357,
+      "num": 3963357,
+      "word": "都美竹骗我20万",
+      "onboard_time": 1750921640,
+      "rank": 0,
+      "category": "民生新闻,网红"
+    },
     {
       "raw_hot": 2245941,
       "num": 2245941,
@@ -43,6 +51,22 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 878545,
+      "num": 365727,
+      "word": "刘轩丞录音",
+      "onboard_time": 1750921521,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 852885,
+      "num": 852885,
+      "word": "那尔那茜 长安的荔枝",
+      "onboard_time": 1750917862,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 829738,
       "num": 786062,
       "word": "江苏卫视长安的荔枝撤档",
@@ -57,14 +81,6 @@
       "onboard_time": 1750904180,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 784421,
-      "num": 784421,
-      "word": "那尔那茜 长安的荔枝",
-      "onboard_time": 1750917862,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 780409,
@@ -131,6 +147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 644404,
+      "num": 644404,
+      "word": "二师兄 泄露",
+      "onboard_time": 1750917624,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 631959,
       "num": 374302,
       "word": "月薪15000每月只花1000块",
@@ -179,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 558338,
+      "num": 539238,
+      "word": "禁止带无3C被召回充电宝坐境内航班",
+      "onboard_time": 1750917923,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 555834,
       "num": 555834,
       "word": "杨瀚森第九位被选中的中国球员",
@@ -193,14 +225,6 @@
       "onboard_time": 1750903822,
       "rank": 20,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 539238,
-      "num": 539238,
-      "word": "禁止带无3C被召回充电宝坐境内航班",
-      "onboard_time": 1750917923,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 508836,
@@ -331,14 +355,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 389442,
-      "num": 389442,
-      "word": "二师兄 泄露",
-      "onboard_time": 1750917624,
-      "rank": 23,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 374769,
       "num": 374769,
       "word": "BLACKPINK世巡概念预告",
@@ -435,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 308928,
+      "num": 561763,
+      "word": "班主任回应扁担女孩高考成绩",
+      "onboard_time": 1750918941,
+      "rank": 29,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 305606,
       "num": 305606,
       "word": "庆余年3刘端端 换角",
@@ -473,6 +497,14 @@
       "onboard_time": 1750912885,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 281194,
+      "num": 237733,
+      "word": "伊朗",
+      "onboard_time": 1750919661,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 279044,
@@ -595,6 +627,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 248415,
+      "num": 248415,
+      "word": "举报前公婆近亿资产涉贪女子最新发声",
+      "onboard_time": 1750921521,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 242598,
       "num": 242598,
       "word": "海关大战labubu",
@@ -609,14 +649,6 @@
       "onboard_time": 1750913185,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 230416,
-      "num": 561763,
-      "word": "班主任回应扁担女孩高考成绩",
-      "onboard_time": 1750918941,
-      "rank": 29,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 226291,
@@ -675,14 +707,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 211688,
-      "num": 211688,
-      "word": "伊朗",
-      "onboard_time": 1750919661,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 207530,
       "num": 266768,
       "word": "王珞丹包场祝绪丹新剧",
@@ -713,6 +737,14 @@
       "onboard_time": 1750904180,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199978,
+      "num": 199978,
+      "word": "3C充电宝",
+      "onboard_time": 1750919061,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 199859,
@@ -747,6 +779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197055,
+      "num": 197055,
+      "word": "孟子义剧粉底盘有多大",
+      "onboard_time": 1750922000,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196308,
       "num": 196308,
       "word": "藏海传的广告价格",
@@ -755,20 +795,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196287,
+      "num": 371019,
+      "word": "充电宝成了烫手山芋",
+      "onboard_time": 1750921461,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 195539,
       "num": 195539,
       "word": "成何体统",
       "onboard_time": 1750867641,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 193059,
-      "num": 193059,
-      "word": "3C充电宝",
-      "onboard_time": 1750919061,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 192657,
@@ -905,6 +945,14 @@
       "onboard_time": 1750866382,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168426,
+      "num": 272134,
+      "word": "杨瀚森一切皆有可能",
+      "onboard_time": 1750918163,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 165948,
@@ -1075,6 +1123,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 146360,
+      "num": 140822,
+      "word": "友情最可怕的不是绝交",
+      "onboard_time": 1750921581,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145645,
       "num": 145645,
       "word": "抖音崩了",
@@ -1089,14 +1145,6 @@
       "onboard_time": 1750914325,
       "rank": 37,
       "category": "时尚,艺人"
-    },
-    {
-      "raw_hot": 144712,
-      "num": 272134,
-      "word": "杨瀚森一切皆有可能",
-      "onboard_time": 1750918163,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 144447,
@@ -1196,7 +1244,7 @@
     },
     {
       "raw_hot": 132454,
-      "num": 244146,
+      "num": 249470,
       "word": "荣耀刀片电池薄到能切豆腐",
       "onboard_time": 1750919960,
       "rank": 19,
@@ -1251,12 +1299,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128552,
+      "num": 139232,
+      "word": "花傲天为LGD香港邀请赛助威",
+      "onboard_time": 1750922721,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 127842,
       "num": 127842,
       "word": "淘宝崩了",
       "onboard_time": 1750915464,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 125338,
+      "num": 125338,
+      "word": "女子举报公婆涉贪腐为何一年没结果",
+      "onboard_time": 1750922061,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125006,
+      "num": 125006,
+      "word": "按照deepseek的建议新买了个鱼缸",
+      "onboard_time": 1750921640,
+      "rank": 38,
+      "category": "幽默,互联网"
     },
     {
       "raw_hot": 124805,
@@ -1379,6 +1451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102930,
+      "num": 102930,
+      "word": "真正会上班的人都是带薪养生",
+      "onboard_time": 1750921941,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 102755,
       "num": 102755,
       "word": "NBA",
@@ -1420,7 +1500,7 @@
     },
     {
       "raw_hot": 99137,
-      "num": 99137,
+      "num": 140380,
       "word": "普通人还能买黄金吗",
       "onboard_time": 1750918462,
       "rank": 47,
@@ -1433,6 +1513,30 @@
       "onboard_time": 1750867942,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98062,
+      "num": 98062,
+      "word": "罗马仕",
+      "onboard_time": 1750922780,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97905,
+      "num": 97905,
+      "word": "看似日常物品可能是伪装新型毒品",
+      "onboard_time": 1750922780,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96985,
+      "num": 97657,
+      "word": "马嘉祺又唱快乐星球了",
+      "onboard_time": 1750921341,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 96974,
@@ -1473,6 +1577,14 @@
       "onboard_time": 1750915524,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 86504,
+      "num": 310101,
+      "word": "顺丰等快递拒收召回充电宝",
+      "onboard_time": 1750921581,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86341,
@@ -1667,6 +1779,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 60469,
+      "num": 112835,
+      "word": "杨瀚森被迷弟包围",
+      "onboard_time": 1750922481,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59321,
       "num": 59321,
       "word": "不要给宠物起奇怪的名字",
@@ -1737,6 +1857,14 @@
       "onboard_time": 1750876095,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 50767,
+      "num": 141205,
+      "word": "黄誉博紧急纠正登陆少年组合名",
+      "onboard_time": 1750920441,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 49680,
@@ -1873,6 +2001,14 @@
       "onboard_time": 1750907360,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27248,
+      "num": 953577,
+      "word": "国际禁毒日",
+      "onboard_time": 1750921281,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26490,
