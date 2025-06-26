@@ -1,0 +1,410 @@
+{
+  "runTime": 1750977832785,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 555309,
+        "num": 555309,
+        "word": "中方坚决反对北约借口中国东进亚太",
+        "onboard_time": 1750954702,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 391090,
+        "num": 391090,
+        "word": "小米汽车",
+        "onboard_time": 1750934422,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 8625,
+        "num": 351834,
+        "word": "活力中国调研行",
+        "onboard_time": 1750933102,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 319107,
+        "num": 319107,
+        "word": "刘亦菲美的不知天地为何物了",
+        "onboard_time": 1750956319,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238915,
+        "num": 238915,
+        "word": "以为会变胖其实很减肥的习惯",
+        "onboard_time": 1750954702,
+        "rank": 4,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 234769,
+        "num": 234769,
+        "word": "医院回应女孩怕跨省转运被堵死",
+        "onboard_time": 1750955299,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220326,
+        "num": 220326,
+        "word": "蔡依林",
+        "onboard_time": 1750955959,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 215505,
+        "num": 215505,
+        "word": "288分女生接到高校电话",
+        "onboard_time": 1750941623,
+        "rank": 7,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 148394,
+        "num": 148394,
+        "word": "母亲被骗30多万高中女儿辍学追退款",
+        "onboard_time": 1750950925,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145847,
+        "num": 145847,
+        "word": "白玉兰提名的压迫感",
+        "onboard_time": 1750953322,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 381784,
+        "num": 145838,
+        "word": "6岁女孩被西贝服务员拍照当背景图",
+        "onboard_time": 1750954702,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212459,
+        "num": 145816,
+        "word": "井柏然刘雯被当面追问婚讯",
+        "onboard_time": 1750951163,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184480,
+        "num": 145512,
+        "word": "男子花90.8万彩礼娶的老婆不见了",
+        "onboard_time": 1750945586,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144634,
+        "num": 144634,
+        "word": "哈梅内伊称狠狠扇了美国一个耳光",
+        "onboard_time": 1750950324,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 135805,
+        "num": 135805,
+        "word": "癌细胞最喜欢的5类食物",
+        "onboard_time": 1750946424,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126854,
+        "num": 126854,
+        "word": "小米YU7价格",
+        "onboard_time": 1750940903,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 108629,
+        "num": 108629,
+        "word": "王嘉尔说再休假事业都要没了",
+        "onboard_time": 1750952423,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 92477,
+        "num": 92477,
+        "word": "京东回应外卖员帮扔垃圾每单0.5元",
+        "onboard_time": 1750956499,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87441,
+        "num": 87441,
+        "word": "书卷一梦编剧回应",
+        "onboard_time": 1750957577,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49500,
+        "num": 85796,
+        "word": "王鹤棣一下子把王嘉尔抱起来了",
+        "onboard_time": 1750948286,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 84958,
+        "num": 84958,
+        "word": "十年前没人敢选的专业翻红了",
+        "onboard_time": 1750938622,
+        "rank": 20,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 79090,
+        "num": 79090,
+        "word": "张勇等9人退出阿里合伙人",
+        "onboard_time": 1750953561,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 65738,
+        "num": 65738,
+        "word": "初会",
+        "onboard_time": 1750955239,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 62233,
+        "num": 62233,
+        "word": "日本回应特朗普将伊朗和广岛并论",
+        "onboard_time": 1750948464,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 61830,
+        "num": 61830,
+        "word": "这种矿泉水3秒让人丧失意识",
+        "onboard_time": 1750951944,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58078,
+        "num": 58078,
+        "word": "跪谢爷爷的双胞胎兄弟高考成绩出炉",
+        "onboard_time": 1750963816,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54522,
+        "num": 54522,
+        "word": "以色列承认曾企图刺杀哈梅内伊",
+        "onboard_time": 1750954280,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 54490,
+        "num": 54490,
+        "word": "小米发布会",
+        "onboard_time": 1750934361,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 52849,
+        "num": 52849,
+        "word": "小米YU7",
+        "onboard_time": 1750941983,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 51931,
+        "num": 51931,
+        "word": "煤气泄露14岁男生救了整栋楼",
+        "onboard_time": 1750962915,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73154,
+        "num": 51531,
+        "word": "以色列被曝拥有90枚核弹头",
+        "onboard_time": 1750977737,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 49277,
+        "num": 49277,
+        "word": "新规出台后有充电宝品牌打印3C认证书",
+        "onboard_time": 1750953742,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47748,
+        "num": 47748,
+        "word": "虞书欣的腰",
+        "onboard_time": 1750947324,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46015,
+        "num": 46015,
+        "word": "陈情令开播六周年",
+        "onboard_time": 1750949666,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44527,
+        "num": 44527,
+        "word": "教育局回应学生体育课玩手机被处分",
+        "onboard_time": 1750967174,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42700,
+        "num": 42700,
+        "word": "LV大秀",
+        "onboard_time": 1750936041,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 40395,
+        "num": 40395,
+        "word": "陆景和 酱子贝",
+        "onboard_time": 1750942283,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 38691,
+        "num": 38691,
+        "word": "刘亦菲裙子",
+        "onboard_time": 1750936341,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 38129,
+        "num": 38129,
+        "word": "感染了艾滋病如何告诉另一半",
+        "onboard_time": 1750951102,
+        "rank": 38,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 34350,
+        "num": 38127,
+        "word": "充电宝",
+        "onboard_time": 1750940841,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32472,
+        "num": 38127,
+        "word": "余承恩赵美延同框",
+        "onboard_time": 1750952542,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32421,
+        "num": 38125,
+        "word": "书卷一梦",
+        "onboard_time": 1750933641,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32324,
+        "num": 38125,
+        "word": "人民日报铁粉",
+        "onboard_time": 1750958418,
+        "rank": 42,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 28861,
+        "num": 38123,
+        "word": "27岁真的还很年轻很年轻",
+        "onboard_time": 1750934902,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27441,
+        "num": 38123,
+        "word": "田栩宁方将取证",
+        "onboard_time": 1750947444,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27264,
+        "num": 38122,
+        "word": "浙江一职高全班36人34个上了本科线",
+        "onboard_time": 1750977678,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 27064,
+        "num": 38120,
+        "word": "道禄还涉嫌其他违法犯罪行为",
+        "onboard_time": 1750968374,
+        "rank": 46,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 26983,
+        "num": 38120,
+        "word": "列车车次首字母原来是这个意思",
+        "onboard_time": 1750968675,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24740,
+        "num": 38119,
+        "word": "林更新留胡子",
+        "onboard_time": 1750977018,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24632,
+        "num": 38117,
+        "word": "不需要去辨别说话的人是否善意",
+        "onboard_time": 1750974675,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈耕地保护#"
+    }
+  }
+}
