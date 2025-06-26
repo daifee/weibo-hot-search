@@ -1,6 +1,6 @@
 {
   "startTime": 1750955581651,
-  "endTime": 1750963012407,
+  "endTime": 1750963853732,
   "band_list": [
     {
       "raw_hot": 3091316,
@@ -497,6 +497,22 @@
       "onboard_time": 1750962136,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 20080,
+      "num": 23756,
+      "word": "煤气泄露14岁男生救了整栋楼",
+      "onboard_time": 1750962915,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18675,
+      "num": 23726,
+      "word": "跪谢爷爷的双胞胎兄弟高考成绩出炉",
+      "onboard_time": 1750963816,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15703,
