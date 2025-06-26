@@ -1,0 +1,402 @@
+{
+  "runTime": 1750908286351,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 986493,
+        "num": 1157839,
+        "word": "原来可乐是最公平的饮料",
+        "onboard_time": 1750905621,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 800997,
+        "num": 800997,
+        "word": "杨瀚森第16顺位被选中",
+        "onboard_time": 1750904180,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 786062,
+        "num": 786062,
+        "word": "江苏卫视长安的荔枝撤档",
+        "onboard_time": 1750903521,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 673939,
+        "num": 673939,
+        "word": "小沈阳女儿cha大展鸿图",
+        "onboard_time": 1750902321,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 527613,
+        "num": 527613,
+        "word": "杨瀚森第九位被选中的中国球员",
+        "onboard_time": 1750904482,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 518392,
+        "num": 518392,
+        "word": "这位一等功臣至今没有露脸公开影像",
+        "onboard_time": 1750904001,
+        "rank": 6,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 476534,
+        "num": 476534,
+        "word": "美国B2幽灵轰炸机飞行员emo了",
+        "onboard_time": 1750901601,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 388231,
+        "num": 388231,
+        "word": "吉赛尔 妈妈级别",
+        "onboard_time": 1750904722,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63312,
+        "num": 385030,
+        "word": "脑瘫老师接报喜电话让人破防",
+        "onboard_time": 1750906881,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 946975,
+        "num": 384444,
+        "word": "成绩被屏蔽女孩坚信不存在智商差距",
+        "onboard_time": 1750865542,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393046,
+        "num": 383715,
+        "word": "刘轩丞榜一大姐",
+        "onboard_time": 1750905922,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 382977,
+        "num": 382977,
+        "word": "杨瀚森薪资",
+        "onboard_time": 1750907061,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 342195,
+        "num": 342195,
+        "word": "月薪15000每月只花1000块",
+        "onboard_time": 1750894038,
+        "rank": 13,
+        "category": "民生新闻,幽默"
+      },
+      {
+        "raw_hot": 295840,
+        "num": 295840,
+        "word": "闪婚不到一年丈夫起诉离婚讨百万彩礼",
+        "onboard_time": 1750906041,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277697,
+        "num": 277697,
+        "word": "陈楚生 大梦",
+        "onboard_time": 1750903401,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266140,
+        "num": 266140,
+        "word": "徐艺洋一周前曾回应怀孕传闻",
+        "onboard_time": 1750853363,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253719,
+        "num": 253719,
+        "word": "陈震 小米",
+        "onboard_time": 1750907121,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 235532,
+        "num": 235532,
+        "word": "樱桃琥珀",
+        "onboard_time": 1750907121,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158002,
+        "num": 226695,
+        "word": "黄奕低谷时曾被孙俪鼓舞",
+        "onboard_time": 1750907961,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 547551,
+        "num": 226638,
+        "word": "老师高考差3分输赌约全班坐等开饭",
+        "onboard_time": 1750903822,
+        "rank": 20,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 226291,
+        "num": 226291,
+        "word": "杨毅预测",
+        "onboard_time": 1750905922,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41432,
+        "num": 219303,
+        "word": "调查显示工学专业就业薪资最高",
+        "onboard_time": 1750908080,
+        "rank": 22,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 218962,
+        "num": 218962,
+        "word": "李一桐大蜈蚣爬身上那部剧终于要播了",
+        "onboard_time": 1750907421,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197786,
+        "num": 197786,
+        "word": "副教授被害前还在给学生改论文",
+        "onboard_time": 1750907301,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193943,
+        "num": 193943,
+        "word": "刘宇宁下点毒全炫自己嘴里了",
+        "onboard_time": 1750906400,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52847,
+        "num": 191257,
+        "word": "山西一公司涉嫌利用智障人员劳动",
+        "onboard_time": 1750908080,
+        "rank": 26,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 189449,
+        "num": 189449,
+        "word": "妈妈替复读生儿子查分瞬间泪崩",
+        "onboard_time": 1750865542,
+        "rank": 27,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 184415,
+        "num": 184415,
+        "word": "91岁游本昌露面大笑说活过来了",
+        "onboard_time": 1750904180,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147431,
+        "num": 184107,
+        "word": "杨瀚森回应第16顺位被选中",
+        "onboard_time": 1750907901,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183887,
+        "num": 183887,
+        "word": "男生淡定回应查分发现全是星号",
+        "onboard_time": 1750905741,
+        "rank": 30,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 176710,
+        "num": 176710,
+        "word": "梅西年薪2044万美元",
+        "onboard_time": 1750905381,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174611,
+        "num": 174611,
+        "word": "于正的Labubu",
+        "onboard_time": 1750901960,
+        "rank": 32,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 162760,
+        "num": 162760,
+        "word": "易烊千玺上海演唱会审批已通过",
+        "onboard_time": 1750904840,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156000,
+        "num": 156000,
+        "word": "这届年轻人靠认知差赚了多少钱",
+        "onboard_time": 1750901541,
+        "rank": 34,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 155223,
+        "num": 155223,
+        "word": "BLACKPINK世巡概念预告",
+        "onboard_time": 1750901301,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141952,
+        "num": 141952,
+        "word": "郑成灿红发",
+        "onboard_time": 1750907541,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139297,
+        "num": 139297,
+        "word": "中央气象台暴雨预警多地将受影响",
+        "onboard_time": 1750892177,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137498,
+        "num": 137498,
+        "word": "女推团庆祝李一桐新剧开播",
+        "onboard_time": 1750907841,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57710,
+        "num": 131656,
+        "word": "仙女虾",
+        "onboard_time": 1750906999,
+        "rank": 39,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 129580,
+        "num": 129580,
+        "word": "先锋书店禁商拍后现状",
+        "onboard_time": 1750896440,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124969,
+        "num": 124969,
+        "word": "一人一句对毒品说不",
+        "onboard_time": 1750902441,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45409,
+        "num": 122745,
+        "word": "调查显示建筑医疗行业加班普遍",
+        "onboard_time": 1750906521,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121990,
+        "num": 121990,
+        "word": "孙子开公司请80岁奶奶当技术总监",
+        "onboard_time": 1750902441,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121724,
+        "num": 121724,
+        "word": "宋亚轩回应王力宏",
+        "onboard_time": 1750898301,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109591,
+        "num": 109591,
+        "word": "一人一句致敬缉毒警",
+        "onboard_time": 1750902262,
+        "rank": 45,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 101288,
+        "num": 101288,
+        "word": "长期不上班会和社会脱节吗",
+        "onboard_time": 1750881433,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100097,
+        "num": 100097,
+        "word": "李到晛出演男版德鲁纳酒店",
+        "onboard_time": 1750906222,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99958,
+        "num": 99958,
+        "word": "考生花5499元报96个本科志愿全滑档",
+        "onboard_time": 1750860744,
+        "rank": 48,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 97664,
+        "num": 97664,
+        "word": "詹姆斯谈弗拉格发展前景",
+        "onboard_time": 1750903701,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记对土地的深情#"
+    }
+  }
+}
