@@ -1,0 +1,410 @@
+{
+  "runTime": 1750949117041,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10796481,
+        "num": 10796481,
+        "word": "小米汽车",
+        "onboard_time": 1750934422,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 2845624,
+        "num": 2845624,
+        "word": "小米YU7价格",
+        "onboard_time": 1750940903,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 18850,
+        "num": 1721632,
+        "word": "活力中国调研行",
+        "onboard_time": 1750933102,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1457915,
+        "num": 1457915,
+        "word": "小米YU7",
+        "onboard_time": 1750941983,
+        "rank": 3,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1317098,
+        "num": 1317098,
+        "word": "小米YU7大定破20万台",
+        "onboard_time": 1750947563,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1066431,
+        "num": 1203278,
+        "word": "288分女生接到高校电话",
+        "onboard_time": 1750941623,
+        "rank": 5,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 1162356,
+        "num": 1162356,
+        "word": "小米发布会",
+        "onboard_time": 1750934361,
+        "rank": 6,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 941094,
+        "num": 941094,
+        "word": "LV大秀直播",
+        "onboard_time": 1750945044,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 620155,
+        "num": 861742,
+        "word": "田栩宁方将取证",
+        "onboard_time": 1750947444,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310483,
+        "num": 821955,
+        "word": "十年前没人敢选的专业翻红了",
+        "onboard_time": 1750938622,
+        "rank": 9,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 801329,
+        "num": 801329,
+        "word": "癌细胞最喜欢的5类食物",
+        "onboard_time": 1750946424,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 739620,
+        "num": 739620,
+        "word": "虞书欣的腰",
+        "onboard_time": 1750947324,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 717556,
+        "num": 717556,
+        "word": "刘亦菲裙子",
+        "onboard_time": 1750936341,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 118827,
+        "num": 652708,
+        "word": "LV上海活动",
+        "onboard_time": 1750943484,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 45023,
+        "num": 608488,
+        "word": "成筐的充电宝在机场被拦下",
+        "onboard_time": 1750948286,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 594551,
+        "num": 594551,
+        "word": "特斯拉",
+        "onboard_time": 1750946304,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 527145,
+        "num": 527145,
+        "word": "小米YU7销量",
+        "onboard_time": 1750947684,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 308418,
+        "num": 526895,
+        "word": "王鹤棣一下子把王嘉尔抱起来了",
+        "onboard_time": 1750948286,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 280849,
+        "num": 526720,
+        "word": "原来刘亦菲吃饭也是手机先吃",
+        "onboard_time": 1750942583,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243446,
+        "num": 526718,
+        "word": "缉毒民警被戴上手铐时才敢松口气",
+        "onboard_time": 1750930102,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 526717,
+        "num": 526717,
+        "word": "岚图高管称小米像网红奶茶",
+        "onboard_time": 1750947145,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 500529,
+        "num": 500529,
+        "word": "男子花90.8万彩礼娶的老婆不见了",
+        "onboard_time": 1750945586,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 423988,
+        "num": 423988,
+        "word": "好了没 好尴尬",
+        "onboard_time": 1750937781,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 264473,
+        "num": 391849,
+        "word": "宋茜LV大秀红毯造型",
+        "onboard_time": 1750944804,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 391008,
+        "num": 391008,
+        "word": "小米YU7锁单",
+        "onboard_time": 1750947804,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 269272,
+        "num": 339275,
+        "word": "谷爱凌训练BTS",
+        "onboard_time": 1750945524,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 337243,
+        "num": 337243,
+        "word": "小米YU7内饰",
+        "onboard_time": 1750946783,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 243444,
+        "num": 329230,
+        "word": "童瑶好权威的一张脸",
+        "onboard_time": 1750947865,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 328672,
+        "num": 328672,
+        "word": "LV大秀",
+        "onboard_time": 1750936041,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 34649,
+        "num": 286558,
+        "word": "消费者退回充电宝遭遇邮寄难",
+        "onboard_time": 1750948885,
+        "rank": 29,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 154572,
+        "num": 277049,
+        "word": "小米首款AI眼镜发布",
+        "onboard_time": 1750943724,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 275431,
+        "num": 275431,
+        "word": "陆景和 酱子贝",
+        "onboard_time": 1750942283,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 247677,
+        "num": 247677,
+        "word": "翔霖",
+        "onboard_time": 1750942404,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211107,
+        "num": 242208,
+        "word": "周冬雨把笑憋回去了",
+        "onboard_time": 1750947865,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 237478,
+        "num": 237478,
+        "word": "小米YU7颜色",
+        "onboard_time": 1750942944,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 214657,
+        "num": 214657,
+        "word": "小米AI眼镜",
+        "onboard_time": 1750941922,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 204680,
+        "num": 204680,
+        "word": "张译是不是真上过班",
+        "onboard_time": 1750948586,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200975,
+        "num": 200975,
+        "word": "白玉兰提名晚宴",
+        "onboard_time": 1750936823,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199453,
+        "num": 199453,
+        "word": "27岁真的还很年轻很年轻",
+        "onboard_time": 1750934902,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173626,
+        "num": 191906,
+        "word": "充电宝",
+        "onboard_time": 1750940841,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18192,
+        "num": 191407,
+        "word": "甘肃靖远山洪仍有5人失联",
+        "onboard_time": 1750947684,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191348,
+        "num": 191348,
+        "word": "雷军黑衬衫",
+        "onboard_time": 1750937542,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 190813,
+        "num": 190813,
+        "word": "书卷一梦",
+        "onboard_time": 1750933641,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184358,
+        "num": 184358,
+        "word": "宋茜这一身太老公姐了",
+        "onboard_time": 1750948704,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 179535,
+        "num": 179535,
+        "word": "贺峻霖采访",
+        "onboard_time": 1750948946,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 167726,
+        "num": 167726,
+        "word": "日本回应特朗普将伊朗和广岛并论",
+        "onboard_time": 1750948464,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 167097,
+        "num": 167097,
+        "word": "丁禹兮切蛋糕",
+        "onboard_time": 1750948946,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160178,
+        "num": 160178,
+        "word": "李一桐刘宇宁新剧重新定义强制爱",
+        "onboard_time": 1750948225,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155730,
+        "num": 155730,
+        "word": "童瑶穿紫色好有韵味",
+        "onboard_time": 1750946063,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152714,
+        "num": 152714,
+        "word": "广东地震干饭小孩哥火到了西班牙",
+        "onboard_time": 1750944204,
+        "rank": 49,
+        "category": "突发/灾害"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈耕地保护#"
+    }
+  }
+}

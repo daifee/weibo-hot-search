@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750947980917,
+  "endTime": 1750949117041,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -17,6 +17,14 @@
       "onboard_time": 1750676308,
       "rank": 1,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 10796481,
+      "num": 10796481,
+      "word": "小米汽车",
+      "onboard_time": 1750934422,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 9141770,
@@ -65,14 +73,6 @@
       "onboard_time": 1750514603,
       "rank": 0,
       "category": "艺人,辟谣/通报"
-    },
-    {
-      "raw_hot": 4536549,
-      "num": 4536549,
-      "word": "小米汽车",
-      "onboard_time": 1750934422,
-      "rank": 18,
-      "category": "汽车"
     },
     {
       "raw_hot": 3811890,
@@ -547,6 +547,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1317098,
+      "num": 1317098,
+      "word": "小米YU7大定破20万台",
+      "onboard_time": 1750947563,
+      "rank": 13,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1299627,
       "num": 1299627,
       "word": "尚公主造型 黄薇",
@@ -643,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1162356,
+      "num": 1162356,
+      "word": "小米发布会",
+      "onboard_time": 1750934361,
+      "rank": 6,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1155499,
       "num": 1155499,
       "word": "隐翅虫 风油精",
@@ -660,7 +676,7 @@
     },
     {
       "raw_hot": 1151552,
-      "num": 557624,
+      "num": 717556,
       "word": "刘亦菲裙子",
       "onboard_time": 1750936341,
       "rank": 15,
@@ -833,14 +849,6 @@
       "onboard_time": 1750664364,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1026426,
-      "num": 1026426,
-      "word": "小米发布会",
-      "onboard_time": 1750934361,
-      "rank": 6,
-      "category": "汽车"
     },
     {
       "raw_hot": 1025437,
@@ -1211,6 +1219,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 801329,
+      "num": 801329,
+      "word": "癌细胞最喜欢的5类食物",
+      "onboard_time": 1750946424,
+      "rank": 7,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 800997,
       "num": 800997,
       "word": "杨瀚森第16顺位被选中",
@@ -1403,6 +1419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 739620,
+      "num": 739620,
+      "word": "虞书欣的腰",
+      "onboard_time": 1750947324,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 735801,
       "num": 735801,
       "word": "小米AI眼镜",
@@ -1497,14 +1521,6 @@
       "onboard_time": 1750898183,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 705292,
-      "num": 705292,
-      "word": "癌细胞最喜欢的5类食物",
-      "onboard_time": 1750946424,
-      "rank": 7,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 705214,
@@ -1971,6 +1987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 620155,
+      "num": 861742,
+      "word": "田栩宁方将取证",
+      "onboard_time": 1750947444,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 616537,
       "num": 616537,
       "word": "报北大考古的女孩怎么样了",
@@ -2049,6 +2073,14 @@
       "onboard_time": 1750691243,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 594551,
+      "num": 594551,
+      "word": "特斯拉",
+      "onboard_time": 1750946304,
+      "rank": 12,
+      "category": "汽车"
     },
     {
       "raw_hot": 594108,
@@ -2132,7 +2164,7 @@
     },
     {
       "raw_hot": 572031,
-      "num": 400468,
+      "num": 526717,
       "word": "岚图高管称小米像网红奶茶",
       "onboard_time": 1750947145,
       "rank": 21,
@@ -2339,14 +2371,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 544071,
-      "num": 544071,
-      "word": "特斯拉",
-      "onboard_time": 1750946304,
-      "rank": 12,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 542140,
       "num": 459886,
       "word": "宁静说不喜欢汪峰",
@@ -2449,6 +2473,14 @@
       "onboard_time": 1750680623,
       "rank": 10,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 527145,
+      "num": 527145,
+      "word": "小米YU7销量",
+      "onboard_time": 1750947684,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 526093,
@@ -2571,14 +2603,6 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 514104,
-      "num": 514104,
-      "word": "小米YU7大定破20万台",
-      "onboard_time": 1750947563,
-      "rank": 13,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 513804,
       "num": 462235,
       "word": "美国通过秘密渠道向伊朗传达信息",
@@ -2649,6 +2673,14 @@
       "onboard_time": 1750640002,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 500529,
+      "num": 500529,
+      "word": "男子花90.8万彩礼娶的老婆不见了",
+      "onboard_time": 1750945586,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 499701,
@@ -3012,7 +3044,7 @@
     },
     {
       "raw_hot": 454176,
-      "num": 645729,
+      "num": 821955,
       "word": "十年前没人敢选的专业翻红了",
       "onboard_time": 1750938622,
       "rank": 19,
@@ -3235,14 +3267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 436862,
-      "num": 672333,
-      "word": "田栩宁方将取证",
-      "onboard_time": 1750947444,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 435315,
       "num": 435315,
       "word": "骗70岁父亲去学校签字才能拿毕业证",
@@ -3371,14 +3395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 419318,
-      "num": 396915,
-      "word": "虞书欣的腰",
-      "onboard_time": 1750947324,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 418047,
       "num": 418047,
       "word": "妈妈替复读生儿子查分瞬间泪崩",
@@ -3420,7 +3436,7 @@
     },
     {
       "raw_hot": 414846,
-      "num": 462126,
+      "num": 526720,
       "word": "原来刘亦菲吃饭也是手机先吃",
       "onboard_time": 1750942583,
       "rank": 15,
@@ -3715,6 +3731,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 391008,
+      "num": 391008,
+      "word": "小米YU7锁单",
+      "onboard_time": 1750947804,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 390021,
       "num": 390021,
       "word": "山西蒲县疾控一职工1岁工作22岁退休",
@@ -3761,14 +3785,6 @@
       "onboard_time": 1750778604,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 380964,
-      "num": 380964,
-      "word": "男子花90.8万彩礼娶的老婆不见了",
-      "onboard_time": 1750945586,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 378527,
@@ -4371,6 +4387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 337243,
+      "num": 337243,
+      "word": "小米YU7内饰",
+      "onboard_time": 1750946783,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 336762,
       "num": 336762,
       "word": "伊朗核设施遇袭现场",
@@ -4699,6 +4723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 308418,
+      "num": 526895,
+      "word": "王鹤棣一下子把王嘉尔抱起来了",
+      "onboard_time": 1750948286,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 307717,
       "num": 307717,
       "word": "伊朗称已发射大批自杀式无人机",
@@ -4889,14 +4921,6 @@
       "onboard_time": 1750583361,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 296122,
-      "num": 296122,
-      "word": "小米YU7内饰",
-      "onboard_time": 1750946783,
-      "rank": 35,
-      "category": "汽车"
     },
     {
       "raw_hot": 295939,
@@ -5156,7 +5180,7 @@
     },
     {
       "raw_hot": 279876,
-      "num": 390176,
+      "num": 391849,
       "word": "宋茜LV大秀红毯造型",
       "onboard_time": 1750944804,
       "rank": 35,
@@ -5937,6 +5961,14 @@
       "onboard_time": 1750770926,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 243444,
+      "num": 329230,
+      "word": "童瑶好权威的一张脸",
+      "onboard_time": 1750947865,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 242598,
@@ -6843,20 +6875,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 211107,
+      "num": 242208,
+      "word": "周冬雨把笑憋回去了",
+      "onboard_time": 1750947865,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 210291,
       "num": 210291,
       "word": "田作之赫",
       "onboard_time": 1750660102,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 210139,
-      "num": 210139,
-      "word": "小米YU7销量",
-      "onboard_time": 1750947684,
-      "rank": 38,
-      "category": "汽车"
     },
     {
       "raw_hot": 210009,
@@ -7089,6 +7121,14 @@
       "onboard_time": 1750739244,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 204680,
+      "num": 204680,
+      "word": "张译是不是真上过班",
+      "onboard_time": 1750948586,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 204604,
@@ -7801,14 +7841,6 @@
       "onboard_time": 1750778424,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 195174,
-      "num": 298436,
-      "word": "童瑶好权威的一张脸",
-      "onboard_time": 1750947865,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 194781,
@@ -8563,20 +8595,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184358,
+      "num": 184358,
+      "word": "宋茜这一身太老公姐了",
+      "onboard_time": 1750948704,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 184183,
       "num": 184183,
       "word": "李嘉琦差点带着火罐印走红毯",
       "onboard_time": 1750681282,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 183988,
-      "num": 183988,
-      "word": "小米YU7锁单",
-      "onboard_time": 1750947804,
-      "rank": 43,
-      "category": "汽车"
     },
     {
       "raw_hot": 183373,
@@ -8737,6 +8769,14 @@
       "onboard_time": 1750768701,
       "rank": 31,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 179535,
+      "num": 179535,
+      "word": "贺峻霖采访",
+      "onboard_time": 1750948946,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 179260,
@@ -9403,6 +9443,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 167726,
+      "num": 167726,
+      "word": "日本回应特朗普将伊朗和广岛并论",
+      "onboard_time": 1750948464,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 167608,
       "num": 167608,
       "word": "常州 光头免票",
@@ -9433,6 +9481,14 @@
       "onboard_time": 1750853542,
       "rank": 13,
       "category": "数码"
+    },
+    {
+      "raw_hot": 167097,
+      "num": 167097,
+      "word": "丁禹兮切蛋糕",
+      "onboard_time": 1750948946,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 167077,
@@ -9489,14 +9545,6 @@
       "onboard_time": 1750737143,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 166203,
-      "num": 166203,
-      "word": "周冬雨把笑憋回去了",
-      "onboard_time": 1750947865,
-      "rank": 47,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 165948,
@@ -9841,6 +9889,14 @@
       "onboard_time": 1750843042,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160178,
+      "num": 160178,
+      "word": "李一桐刘宇宁新剧重新定义强制爱",
+      "onboard_time": 1750948225,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 160143,
@@ -13211,6 +13267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118827,
+      "num": 652708,
+      "word": "LV上海活动",
+      "onboard_time": 1750943484,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 118534,
       "num": 118534,
       "word": "Labubu在二手市场价格暴跌",
@@ -14649,14 +14713,6 @@
       "onboard_time": 1750574242,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 95667,
-      "num": 489187,
-      "word": "LV上海活动",
-      "onboard_time": 1750943484,
-      "rank": 10,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 95514,
@@ -16731,6 +16787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 45023,
+      "num": 608488,
+      "word": "成筐的充电宝在机场被拦下",
+      "onboard_time": 1750948286,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44703,
       "num": 456425,
       "word": "网友称充电宝不在召回范围仍被扣留",
@@ -17153,6 +17217,14 @@
       "onboard_time": 1750837102,
       "rank": 39,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 34649,
+      "num": 286558,
+      "word": "消费者退回充电宝遭遇邮寄难",
+      "onboard_time": 1750948885,
+      "rank": 29,
+      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 34632,
@@ -18131,6 +18203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18192,
+      "num": 395611,
+      "word": "甘肃靖远山洪仍有5人失联",
+      "onboard_time": 1750947684,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17999,
       "num": 111083,
       "word": "奈雪轻养鲜果茶定义茶饮5.0时代",
@@ -18337,14 +18417,6 @@
       "onboard_time": 1750822883,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 13666,
-      "num": 395611,
-      "word": "甘肃靖远山洪仍有5人失联",
-      "onboard_time": 1750947684,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13493,

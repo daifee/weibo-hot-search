@@ -1,7 +1,15 @@
 {
   "startTime": 1750869299096,
-  "endTime": 1750947980917,
+  "endTime": 1750949117041,
   "band_list": [
+    {
+      "raw_hot": 10796481,
+      "num": 10796481,
+      "word": "小米汽车",
+      "onboard_time": 1750934422,
+      "rank": 18,
+      "category": "汽车"
+    },
     {
       "raw_hot": 8095208,
       "num": 8095208,
@@ -9,14 +17,6 @@
       "onboard_time": 1750921640,
       "rank": 0,
       "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 4536549,
-      "num": 4536549,
-      "word": "小米汽车",
-      "onboard_time": 1750934422,
-      "rank": 18,
-      "category": "汽车"
     },
     {
       "raw_hot": 3811890,
@@ -91,6 +91,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1317098,
+      "num": 1317098,
+      "word": "小米YU7大定破20万台",
+      "onboard_time": 1750947563,
+      "rank": 13,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1280792,
       "num": 388285,
       "word": "韩雪 文物前打强光",
@@ -115,8 +123,16 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 1162356,
+      "num": 1162356,
+      "word": "小米发布会",
+      "onboard_time": 1750934361,
+      "rank": 6,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1151552,
-      "num": 557624,
+      "num": 717556,
       "word": "刘亦菲裙子",
       "onboard_time": 1750936341,
       "rank": 15,
@@ -137,14 +153,6 @@
       "onboard_time": 1750928062,
       "rank": 0,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 1026426,
-      "num": 1026426,
-      "word": "小米发布会",
-      "onboard_time": 1750934361,
-      "rank": 6,
-      "category": "汽车"
     },
     {
       "raw_hot": 1022535,
@@ -203,6 +211,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 801329,
+      "num": 801329,
+      "word": "癌细胞最喜欢的5类食物",
+      "onboard_time": 1750946424,
+      "rank": 7,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 800997,
       "num": 800997,
       "word": "杨瀚森第16顺位被选中",
@@ -227,6 +243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 739620,
+      "num": 739620,
+      "word": "虞书欣的腰",
+      "onboard_time": 1750947324,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 735801,
       "num": 735801,
       "word": "小米AI眼镜",
@@ -249,14 +273,6 @@
       "onboard_time": 1750898183,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 705292,
-      "num": 705292,
-      "word": "癌细胞最喜欢的5类食物",
-      "onboard_time": 1750946424,
-      "rank": 7,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 702867,
@@ -355,6 +371,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 620155,
+      "num": 861742,
+      "word": "田栩宁方将取证",
+      "onboard_time": 1750947444,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 611160,
       "num": 611160,
       "word": "特朗普将袭击伊朗类比对日本投原子弹",
@@ -379,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 594551,
+      "num": 594551,
+      "word": "特斯拉",
+      "onboard_time": 1750946304,
+      "rank": 12,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 589078,
       "num": 589078,
       "word": "官方回应韩雪文物前打强光",
@@ -388,7 +420,7 @@
     },
     {
       "raw_hot": 572031,
-      "num": 400468,
+      "num": 526717,
       "word": "岚图高管称小米像网红奶茶",
       "onboard_time": 1750947145,
       "rank": 21,
@@ -435,14 +467,6 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 544071,
-      "num": 544071,
-      "word": "特斯拉",
-      "onboard_time": 1750946304,
-      "rank": 12,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 534825,
       "num": 357016,
       "word": "985博士后被举报在妻子孕期出轨",
@@ -459,20 +483,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 527145,
+      "num": 527145,
+      "word": "小米YU7销量",
+      "onboard_time": 1750947684,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 516658,
       "num": 516658,
       "word": "我国自主研发新一代CPU发布",
       "onboard_time": 1750926440,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 514104,
-      "num": 514104,
-      "word": "小米YU7大定破20万台",
-      "onboard_time": 1750947563,
-      "rank": 13,
-      "category": "汽车"
     },
     {
       "raw_hot": 508836,
@@ -496,6 +520,14 @@
       "word": "曾救助百名弃婴的道禄被警方控制",
       "onboard_time": 1750912285,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 500529,
+      "num": 500529,
+      "word": "男子花90.8万彩礼娶的老婆不见了",
+      "onboard_time": 1750945586,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -556,7 +588,7 @@
     },
     {
       "raw_hot": 454176,
-      "num": 645729,
+      "num": 821955,
       "word": "十年前没人敢选的专业翻红了",
       "onboard_time": 1750938622,
       "rank": 19,
@@ -576,14 +608,6 @@
       "word": "杨幂 王小卤",
       "onboard_time": 1750863263,
       "rank": 4,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 436862,
-      "num": 672333,
-      "word": "田栩宁方将取证",
-      "onboard_time": 1750947444,
-      "rank": 8,
       "category": "艺人"
     },
     {
@@ -611,14 +635,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 419318,
-      "num": 396915,
-      "word": "虞书欣的腰",
-      "onboard_time": 1750947324,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 418047,
       "num": 418047,
       "word": "妈妈替复读生儿子查分瞬间泪崩",
@@ -636,7 +652,7 @@
     },
     {
       "raw_hot": 414846,
-      "num": 462126,
+      "num": 526720,
       "word": "原来刘亦菲吃饭也是手机先吃",
       "onboard_time": 1750942583,
       "rank": 15,
@@ -699,19 +715,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 391008,
+      "num": 391008,
+      "word": "小米YU7锁单",
+      "onboard_time": 1750947804,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 390021,
       "num": 390021,
       "word": "山西蒲县疾控一职工1岁工作22岁退休",
       "onboard_time": 1750935681,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 380964,
-      "num": 380964,
-      "word": "男子花90.8万彩礼娶的老婆不见了",
-      "onboard_time": 1750945586,
-      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -843,6 +859,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 337243,
+      "num": 337243,
+      "word": "小米YU7内饰",
+      "onboard_time": 1750946783,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 331565,
       "num": 331565,
       "word": "白玉兰荣耀之夜红毯",
@@ -883,6 +907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 308418,
+      "num": 526895,
+      "word": "王鹤棣一下子把王嘉尔抱起来了",
+      "onboard_time": 1750948286,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 305606,
       "num": 305606,
       "word": "庆余年3刘端端 换角",
@@ -913,14 +945,6 @@
       "onboard_time": 1750877056,
       "rank": 48,
       "category": "民生新闻,幽默"
-    },
-    {
-      "raw_hot": 296122,
-      "num": 296122,
-      "word": "小米YU7内饰",
-      "onboard_time": 1750946783,
-      "rank": 35,
-      "category": "汽车"
     },
     {
       "raw_hot": 295939,
@@ -964,7 +988,7 @@
     },
     {
       "raw_hot": 279876,
-      "num": 390176,
+      "num": 391849,
       "word": "宋茜LV大秀红毯造型",
       "onboard_time": 1750944804,
       "rank": 35,
@@ -1147,6 +1171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 243444,
+      "num": 329230,
+      "word": "童瑶好权威的一张脸",
+      "onboard_time": 1750947865,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 242598,
       "num": 242598,
       "word": "海关大战labubu",
@@ -1283,12 +1315,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 210139,
-      "num": 210139,
-      "word": "小米YU7销量",
-      "onboard_time": 1750947684,
-      "rank": 38,
-      "category": "汽车"
+      "raw_hot": 211107,
+      "num": 242208,
+      "word": "周冬雨把笑憋回去了",
+      "onboard_time": 1750947865,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 208304,
@@ -1304,6 +1336,14 @@
       "word": "王珞丹包场祝绪丹新剧",
       "onboard_time": 1750915944,
       "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 204680,
+      "num": 204680,
+      "word": "张译是不是真上过班",
+      "onboard_time": 1750948586,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -1459,14 +1499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195174,
-      "num": 298436,
-      "word": "童瑶好权威的一张脸",
-      "onboard_time": 1750947865,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 194720,
       "num": 194720,
       "word": "女子举报公婆涉贪腐为何一年没结果",
@@ -1611,12 +1643,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 183988,
-      "num": 183988,
-      "word": "小米YU7锁单",
-      "onboard_time": 1750947804,
+      "raw_hot": 184358,
+      "num": 184358,
+      "word": "宋茜这一身太老公姐了",
+      "onboard_time": 1750948704,
       "rank": 43,
-      "category": "汽车"
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 182879,
@@ -1632,6 +1664,14 @@
       "word": "贺峻霖贵公子具象化",
       "onboard_time": 1750945224,
       "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 179535,
+      "num": 179535,
+      "word": "贺峻霖采访",
+      "onboard_time": 1750948946,
+      "rank": 44,
       "category": "作品衍生,时尚"
     },
     {
@@ -1835,20 +1875,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167726,
+      "num": 167726,
+      "word": "日本回应特朗普将伊朗和广岛并论",
+      "onboard_time": 1750948464,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 167097,
+      "num": 167097,
+      "word": "丁禹兮切蛋糕",
+      "onboard_time": 1750948946,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166922,
       "num": 166922,
       "word": "小沈阳晒亲吻照庆结婚纪念日",
       "onboard_time": 1750934303,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 166203,
-      "num": 166203,
-      "word": "周冬雨把笑憋回去了",
-      "onboard_time": 1750947865,
-      "rank": 47,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 165948,
@@ -1895,6 +1943,14 @@
       "num": 160261,
       "word": "小时候没带走的亲女儿死后为她迁坟",
       "onboard_time": 1750926862,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 160178,
+      "num": 160178,
+      "word": "李一桐刘宇宁新剧重新定义强制爱",
+      "onboard_time": 1750948225,
       "rank": 47,
       "category": "剧集"
     },
@@ -2531,6 +2587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118827,
+      "num": 652708,
+      "word": "LV上海活动",
+      "onboard_time": 1750943484,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 116435,
       "num": 116435,
       "word": "小白不要去健身房瞎玩",
@@ -2929,14 +2993,6 @@
       "onboard_time": 1750910723,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 95667,
-      "num": 489187,
-      "word": "LV上海活动",
-      "onboard_time": 1750943484,
-      "rank": 10,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 95162,
@@ -3443,6 +3499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45023,
+      "num": 608488,
+      "word": "成筐的充电宝在机场被拦下",
+      "onboard_time": 1750948286,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44703,
       "num": 456425,
       "word": "网友称充电宝不在召回范围仍被扣留",
@@ -3513,6 +3577,14 @@
       "onboard_time": 1750932621,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 34649,
+      "num": 286558,
+      "word": "消费者退回充电宝遭遇邮寄难",
+      "onboard_time": 1750948885,
+      "rank": 29,
+      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 34161,
@@ -3707,6 +3779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 18192,
+      "num": 395611,
+      "word": "甘肃靖远山洪仍有5人失联",
+      "onboard_time": 1750947684,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17999,
       "num": 111083,
       "word": "奈雪轻养鲜果茶定义茶饮5.0时代",
@@ -3761,14 +3841,6 @@
       "onboard_time": 1750936041,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 13666,
-      "num": 395611,
-      "word": "甘肃靖远山洪仍有5人失联",
-      "onboard_time": 1750947684,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13049,
