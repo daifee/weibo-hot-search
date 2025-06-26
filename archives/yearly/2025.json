@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1750945837628,
+  "endTime": 1750947980917,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1651,6 +1651,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 4536549,
+      "num": 4536549,
+      "word": "小米汽车",
+      "onboard_time": 1744860141,
+      "rank": 0,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 4523747,
       "num": 655127,
       "word": "何凯文承认成绩造假",
@@ -2131,6 +2139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 3737321,
+      "num": 3737321,
+      "word": "小米YU7价格",
+      "onboard_time": 1750940903,
+      "rank": 1,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 3735413,
       "num": 3390379,
       "word": "南师大",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1743409705,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3533705,
-      "num": 3533705,
-      "word": "国足vs澳大利亚",
-      "onboard_time": 1742898741,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 3533201,
-      "num": 3533201,
-      "word": "哪吒2票房破80亿",
-      "onboard_time": 1739099001,
-      "rank": 0,
-      "category": "电影"
     }
   ],
   "hotgov_list": [

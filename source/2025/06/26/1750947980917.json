@@ -1,0 +1,410 @@
+{
+  "runTime": 1750947980917,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4536549,
+        "num": 4536549,
+        "word": "小米汽车",
+        "onboard_time": 1750934422,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 3737321,
+        "num": 3737321,
+        "word": "小米YU7价格",
+        "onboard_time": 1750940903,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 22793,
+        "num": 2001477,
+        "word": "活力中国调研行",
+        "onboard_time": 1750933102,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2000737,
+        "num": 2000737,
+        "word": "小米YU7",
+        "onboard_time": 1750941983,
+        "rank": 3,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1419435,
+        "num": 1419435,
+        "word": "288分女生接到高校电话",
+        "onboard_time": 1750941623,
+        "rank": 4,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 1026426,
+        "num": 1026426,
+        "word": "小米发布会",
+        "onboard_time": 1750934361,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1022535,
+        "num": 1022535,
+        "word": "LV大秀直播",
+        "onboard_time": 1750945044,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 705292,
+        "num": 705292,
+        "word": "癌细胞最喜欢的5类食物",
+        "onboard_time": 1750946424,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 436862,
+        "num": 672333,
+        "word": "田栩宁方将取证",
+        "onboard_time": 1750947444,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427205,
+        "num": 645729,
+        "word": "十年前没人敢选的专业翻红了",
+        "onboard_time": 1750938622,
+        "rank": 9,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 68699,
+        "num": 610115,
+        "word": "神二十航天员第2次出舱",
+        "onboard_time": 1750947205,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 737165,
+        "num": 557624,
+        "word": "刘亦菲裙子",
+        "onboard_time": 1750936341,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 544071,
+        "num": 544071,
+        "word": "特斯拉",
+        "onboard_time": 1750946304,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 514104,
+        "num": 514104,
+        "word": "小米YU7大定破20万台",
+        "onboard_time": 1750947563,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 499867,
+        "num": 499867,
+        "word": "LV大秀",
+        "onboard_time": 1750936041,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 63406,
+        "num": 489187,
+        "word": "LV上海活动",
+        "onboard_time": 1750943484,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 485124,
+        "num": 485124,
+        "word": "好了没 好尴尬",
+        "onboard_time": 1750937781,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 408294,
+        "num": 408294,
+        "word": "王楚钦亮相LV大秀",
+        "onboard_time": 1750937662,
+        "rank": 17,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 343404,
+        "num": 406253,
+        "word": "原来刘亦菲吃饭也是手机先吃",
+        "onboard_time": 1750942583,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248296,
+        "num": 404416,
+        "word": "缉毒民警被戴上手铐时才敢松口气",
+        "onboard_time": 1750930102,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167013,
+        "num": 403343,
+        "word": "小米首款AI眼镜发布",
+        "onboard_time": 1750943724,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 572031,
+        "num": 400468,
+        "word": "岚图高管称小米像网红奶茶",
+        "onboard_time": 1750947145,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 419318,
+        "num": 396915,
+        "word": "虞书欣的腰",
+        "onboard_time": 1750947324,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13666,
+        "num": 395611,
+        "word": "甘肃靖远山洪仍有5人失联",
+        "onboard_time": 1750947684,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282128,
+        "num": 394475,
+        "word": "谷爱凌训练BTS",
+        "onboard_time": 1750945524,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 270389,
+        "num": 390176,
+        "word": "宋茜LV大秀红毯造型",
+        "onboard_time": 1750944804,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 208304,
+        "num": 389425,
+        "word": "童瑶穿紫色好有韵味",
+        "onboard_time": 1750946063,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205793,
+        "num": 387749,
+        "word": "白玉兰提名晚宴",
+        "onboard_time": 1750936823,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204675,
+        "num": 385176,
+        "word": "充电宝",
+        "onboard_time": 1750940841,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190608,
+        "num": 381082,
+        "word": "刘学义其实两边脸都能见人",
+        "onboard_time": 1750947024,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 380964,
+        "num": 380964,
+        "word": "男子花90.8万彩礼娶的老婆不见了",
+        "onboard_time": 1750945586,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370692,
+        "num": 370692,
+        "word": "小米YU7颜色",
+        "onboard_time": 1750942944,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 339620,
+        "num": 339620,
+        "word": "翔霖",
+        "onboard_time": 1750942404,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318741,
+        "num": 318741,
+        "word": "陆景和 酱子贝",
+        "onboard_time": 1750942283,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 195174,
+        "num": 298436,
+        "word": "童瑶好权威的一张脸",
+        "onboard_time": 1750947865,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296122,
+        "num": 296122,
+        "word": "小米YU7内饰",
+        "onboard_time": 1750946783,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 286735,
+        "num": 286735,
+        "word": "小米AI眼镜",
+        "onboard_time": 1750941922,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 217869,
+        "num": 217869,
+        "word": "27岁真的还很年轻很年轻",
+        "onboard_time": 1750934902,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210139,
+        "num": 210139,
+        "word": "小米YU7销量",
+        "onboard_time": 1750947684,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 180445,
+        "num": 200377,
+        "word": "广东地震干饭小孩哥火到了西班牙",
+        "onboard_time": 1750944204,
+        "rank": 39,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 199629,
+        "num": 199629,
+        "word": "KPad",
+        "onboard_time": 1750947504,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 184724,
+        "num": 184724,
+        "word": "小米YU7配置",
+        "onboard_time": 1750946723,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 187852,
+        "num": 184518,
+        "word": "书卷一梦",
+        "onboard_time": 1750933641,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183988,
+        "num": 183988,
+        "word": "小米YU7锁单",
+        "onboard_time": 1750947804,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 182474,
+        "num": 182474,
+        "word": "小米手环",
+        "onboard_time": 1750941021,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 168271,
+        "num": 168271,
+        "word": "华策经纪严正声明",
+        "onboard_time": 1750944983,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167232,
+        "num": 167232,
+        "word": "雷军黑衬衫",
+        "onboard_time": 1750937542,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 166203,
+        "num": 166203,
+        "word": "周冬雨把笑憋回去了",
+        "onboard_time": 1750947865,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 159819,
+        "num": 159819,
+        "word": "豆包2025高考达清北录取线",
+        "onboard_time": 1750947264,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 159189,
+        "num": 159189,
+        "word": "李昀锐巴黎时装周DIOR秀",
+        "onboard_time": 1750946544,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈耕地保护#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750945837628,
+  "endTime": 1750947980917,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -67,6 +67,14 @@
       "category": "艺人,辟谣/通报"
     },
     {
+      "raw_hot": 4536549,
+      "num": 4536549,
+      "word": "小米汽车",
+      "onboard_time": 1750934422,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 3811890,
       "num": 3811890,
       "word": "高考288分女生已接到高校联系电话",
@@ -75,8 +83,8 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 3472627,
-      "num": 3472627,
+      "raw_hot": 3737321,
+      "num": 3737321,
       "word": "小米YU7价格",
       "onboard_time": 1750940903,
       "rank": 1,
@@ -227,6 +235,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 2000737,
+      "num": 2000737,
+      "word": "小米YU7",
+      "onboard_time": 1750669463,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1960632,
       "num": 1960632,
       "word": "学生查出713分老师集体沸腾了",
@@ -369,14 +385,6 @@
       "onboard_time": 1750832482,
       "rank": 10,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1585739,
-      "num": 1585739,
-      "word": "小米YU7",
-      "onboard_time": 1750669463,
-      "rank": 28,
-      "category": "汽车"
     },
     {
       "raw_hot": 1574042,
@@ -652,7 +660,7 @@
     },
     {
       "raw_hot": 1151552,
-      "num": 465286,
+      "num": 557624,
       "word": "刘亦菲裙子",
       "onboard_time": 1750936341,
       "rank": 15,
@@ -827,6 +835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1026426,
+      "num": 1026426,
+      "word": "小米发布会",
+      "onboard_time": 1750934361,
+      "rank": 6,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1025437,
       "num": 879853,
       "word": "王弘毅 见人下菜碟",
@@ -841,6 +857,14 @@
       "onboard_time": 1750813163,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1022535,
+      "num": 1022535,
+      "word": "LV大秀直播",
+      "onboard_time": 1750945044,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1021083,
@@ -996,7 +1020,7 @@
     },
     {
       "raw_hot": 872532,
-      "num": 464314,
+      "num": 485124,
       "word": "好了没 好尴尬",
       "onboard_time": 1750937781,
       "rank": 46,
@@ -1065,14 +1089,6 @@
       "onboard_time": 1750917862,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 849293,
-      "num": 849293,
-      "word": "小米发布会",
-      "onboard_time": 1750934361,
-      "rank": 6,
-      "category": "汽车"
     },
     {
       "raw_hot": 847041,
@@ -1483,6 +1499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 705292,
+      "num": 705292,
+      "word": "癌细胞最喜欢的5类食物",
+      "onboard_time": 1750946424,
+      "rank": 7,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 705214,
       "num": 705214,
       "word": "老爸买下整车labubu送女儿",
@@ -1579,14 +1603,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 690866,
-      "num": 690866,
-      "word": "小米汽车",
-      "onboard_time": 1750934422,
-      "rank": 18,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 690406,
       "num": 690406,
       "word": "EDG申请执行Scout3351万",
@@ -1657,14 +1673,6 @@
       "onboard_time": 1750820542,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 677883,
-      "num": 677883,
-      "word": "LV大秀直播",
-      "onboard_time": 1750945044,
-      "rank": 40,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 674704,
@@ -2123,6 +2131,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 572031,
+      "num": 400468,
+      "word": "岚图高管称小米像网红奶茶",
+      "onboard_time": 1750947145,
+      "rank": 21,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 570534,
       "num": 570534,
       "word": "288分女孩妈妈称不拿短处比别人长处",
@@ -2321,6 +2337,14 @@
       "onboard_time": 1750810461,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 544071,
+      "num": 544071,
+      "word": "特斯拉",
+      "onboard_time": 1750946304,
+      "rank": 12,
+      "category": "汽车"
     },
     {
       "raw_hot": 542140,
@@ -2545,6 +2569,14 @@
       "onboard_time": 1750863983,
       "rank": 8,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 514104,
+      "num": 514104,
+      "word": "小米YU7大定破20万台",
+      "onboard_time": 1750947563,
+      "rank": 13,
+      "category": "汽车"
     },
     {
       "raw_hot": 513804,
@@ -2980,7 +3012,7 @@
     },
     {
       "raw_hot": 454176,
-      "num": 454176,
+      "num": 645729,
       "word": "十年前没人敢选的专业翻红了",
       "onboard_time": 1750938622,
       "rank": 19,
@@ -3203,6 +3235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 436862,
+      "num": 672333,
+      "word": "田栩宁方将取证",
+      "onboard_time": 1750947444,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 435315,
       "num": 435315,
       "word": "骗70岁父亲去学校签字才能拿毕业证",
@@ -3328,6 +3368,14 @@
       "word": "关晓彤海边跑步",
       "onboard_time": 1750855162,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 419318,
+      "num": 396915,
+      "word": "虞书欣的腰",
+      "onboard_time": 1750947324,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -3715,6 +3763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 380964,
+      "num": 380964,
+      "word": "男子花90.8万彩礼娶的老婆不见了",
+      "onboard_time": 1750945586,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 378527,
       "num": 378527,
       "word": "迪丽热巴紫瞳",
@@ -3849,6 +3905,14 @@
       "onboard_time": 1750751482,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 370692,
+      "num": 370692,
+      "word": "小米YU7颜色",
+      "onboard_time": 1750942944,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 369949,
@@ -4073,14 +4137,6 @@
       "onboard_time": 1750944983,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 350147,
-      "num": 350147,
-      "word": "小米YU7颜色",
-      "onboard_time": 1750942944,
-      "rank": 41,
-      "category": "汽车"
     },
     {
       "raw_hot": 350104,
@@ -4835,6 +4891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 296122,
+      "num": 296122,
+      "word": "小米YU7内饰",
+      "onboard_time": 1750946783,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 295939,
       "num": 295939,
       "word": "酷似林依晨的曼联女孩高考出分",
@@ -4980,7 +5044,7 @@
     },
     {
       "raw_hot": 285724,
-      "num": 342675,
+      "num": 385176,
       "word": "充电宝",
       "onboard_time": 1750940841,
       "rank": 26,
@@ -5075,6 +5139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 282128,
+      "num": 394475,
+      "word": "谷爱凌训练BTS",
+      "onboard_time": 1750945524,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 280395,
       "num": 383405,
       "word": "伊朗首都查获超1万架无人机",
@@ -5084,7 +5156,7 @@
     },
     {
       "raw_hot": 279876,
-      "num": 350577,
+      "num": 390176,
       "word": "宋茜LV大秀红毯造型",
       "onboard_time": 1750944804,
       "rank": 35,
@@ -6779,6 +6851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210139,
+      "num": 210139,
+      "word": "小米YU7销量",
+      "onboard_time": 1750947684,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 210009,
       "num": 210009,
       "word": "酱园弄",
@@ -6856,6 +6936,14 @@
       "word": "王子文刘宇宁有吻戏",
       "onboard_time": 1750653145,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 208304,
+      "num": 389425,
+      "word": "童瑶穿紫色好有韵味",
+      "onboard_time": 1750946063,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -7355,6 +7443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 199629,
+      "num": 199629,
+      "word": "KPad",
+      "onboard_time": 1750947504,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 199584,
       "num": 274174,
       "word": "女生分手后狂吃8斤食物险丧命",
@@ -7707,6 +7803,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 195174,
+      "num": 298436,
+      "word": "童瑶好权威的一张脸",
+      "onboard_time": 1750947865,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194781,
       "num": 252422,
       "word": "虞书欣白玉兰海外传播优秀案例",
@@ -7860,7 +7964,7 @@
     },
     {
       "raw_hot": 193623,
-      "num": 193623,
+      "num": 200377,
       "word": "广东地震干饭小孩哥火到了西班牙",
       "onboard_time": 1750944204,
       "rank": 44,
@@ -8049,6 +8153,14 @@
       "onboard_time": 1750691185,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190608,
+      "num": 381082,
+      "word": "刘学义其实两边脸都能见人",
+      "onboard_time": 1750947024,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 190597,
@@ -8403,6 +8515,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 184724,
+      "num": 184724,
+      "word": "小米YU7配置",
+      "onboard_time": 1750946723,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 184717,
       "num": 184717,
       "word": "胡塞武装称若美碰伊朗就打其军舰",
@@ -8449,6 +8569,14 @@
       "onboard_time": 1750681282,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 183988,
+      "num": 183988,
+      "word": "小米YU7锁单",
+      "onboard_time": 1750947804,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 183373,
@@ -9363,6 +9491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166203,
+      "num": 166203,
+      "word": "周冬雨把笑憋回去了",
+      "onboard_time": 1750947865,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 165948,
       "num": 204154,
       "word": "一人一句对毒品说不",
@@ -9683,14 +9819,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 160300,
-      "num": 161588,
-      "word": "谷爱凌训练BTS",
-      "onboard_time": 1750945524,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 160261,
       "num": 160261,
       "word": "小时候没带走的亲女儿死后为她迁坟",
@@ -9755,6 +9883,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 159819,
+      "num": 159819,
+      "word": "豆包2025高考达清北录取线",
+      "onboard_time": 1750947264,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 159498,
       "num": 159498,
       "word": "烽火流金",
@@ -9777,6 +9913,14 @@
       "onboard_time": 1750644022,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159189,
+      "num": 159189,
+      "word": "李昀锐巴黎时装周DIOR秀",
+      "onboard_time": 1750946544,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 159047,
@@ -10193,14 +10337,6 @@
       "onboard_time": 1750754002,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 153720,
-      "num": 153720,
-      "word": "男子花90.8万彩礼娶的老婆不见了",
-      "onboard_time": 1750945586,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 153643,
@@ -14516,7 +14652,7 @@
     },
     {
       "raw_hot": 95667,
-      "num": 466422,
+      "num": 489187,
       "word": "LV上海活动",
       "onboard_time": 1750943484,
       "rank": 10,
@@ -15521,6 +15657,14 @@
       "onboard_time": 1750849882,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 68699,
+      "num": 610115,
+      "word": "神二十航天员第2次出舱",
+      "onboard_time": 1750947205,
+      "rank": 10,
+      "category": "国内时政"
     },
     {
       "raw_hot": 68338,
@@ -17036,7 +17180,7 @@
     },
     {
       "raw_hot": 34161,
-      "num": 1751181,
+      "num": 2001477,
       "word": "活力中国调研行",
       "onboard_time": 1750933102,
       "rank": 2,
@@ -18193,6 +18337,14 @@
       "onboard_time": 1750822883,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 13666,
+      "num": 395611,
+      "word": "甘肃靖远山洪仍有5人失联",
+      "onboard_time": 1750947684,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13493,
