@@ -1,6 +1,6 @@
 {
   "startTime": 1750869299096,
-  "endTime": 1750894822656,
+  "endTime": 1750903358027,
   "band_list": [
     {
       "raw_hot": 1280411,
@@ -19,12 +19,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 684960,
+      "num": 684960,
+      "word": "先锋书店禁商拍后现状",
+      "onboard_time": 1750896440,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 684427,
       "num": 684427,
       "word": "剑来 刘浩存",
       "onboard_time": 1750863862,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 631959,
+      "num": 244876,
+      "word": "月薪15000每月只花1000块",
+      "onboard_time": 1750894038,
+      "rank": 40,
+      "category": "民生新闻,幽默"
     },
     {
       "raw_hot": 564498,
@@ -51,12 +67,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 443397,
+      "num": 244571,
+      "word": "美国B2幽灵轰炸机飞行员emo了",
+      "onboard_time": 1750901601,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 437846,
       "num": 437846,
       "word": "杨幂 王小卤",
       "onboard_time": 1750863263,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 418047,
+      "num": 418047,
+      "word": "妈妈替复读生儿子查分瞬间泪崩",
+      "onboard_time": 1750865542,
+      "rank": 16,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 412224,
+      "num": 244212,
+      "word": "长期不上班会和社会脱节吗",
+      "onboard_time": 1750881433,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 408975,
@@ -67,6 +107,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 374769,
+      "num": 374769,
+      "word": "BLACKPINK世巡概念预告",
+      "onboard_time": 1750901301,
+      "rank": 4,
+      "category": "演出"
+    },
+    {
       "raw_hot": 363333,
       "num": 363333,
       "word": "言冰云",
@@ -75,12 +123,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 358814,
-      "num": 200430,
-      "word": "长期不上班会和社会脱节吗",
-      "onboard_time": 1750881433,
-      "rank": 40,
-      "category": "幽默"
+      "raw_hot": 358048,
+      "num": 358048,
+      "word": "宋亚轩回应王力宏",
+      "onboard_time": 1750898301,
+      "rank": 5,
+      "category": "演出"
     },
     {
       "raw_hot": 356629,
@@ -99,6 +147,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 331284,
+      "num": 331284,
+      "word": "NBA选秀",
+      "onboard_time": 1750898183,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 316206,
+      "num": 243516,
+      "word": "于正的Labubu",
+      "onboard_time": 1750901960,
+      "rank": 13,
+      "category": "艺人,休闲"
+    },
+    {
       "raw_hot": 305606,
       "num": 305606,
       "word": "庆余年3刘端端 换角",
@@ -107,8 +171,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 301325,
+      "num": 301325,
+      "word": "北约秘书长否认管特朗普叫爸爸",
+      "onboard_time": 1750894760,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 296369,
-      "num": 200002,
+      "num": 217586,
       "word": "86岁大学学历北京大爷退休收入",
       "onboard_time": 1750877056,
       "rank": 48,
@@ -155,16 +227,16 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 241560,
-      "num": 241560,
-      "word": "妈妈替复读生儿子查分瞬间泪崩",
-      "onboard_time": 1750865542,
-      "rank": 16,
-      "category": "民生新闻,教育"
+      "raw_hot": 251958,
+      "num": 217781,
+      "word": "这届年轻人靠认知差赚了多少钱",
+      "onboard_time": 1750901541,
+      "rank": 20,
+      "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 216357,
-      "num": 216357,
+      "raw_hot": 226073,
+      "num": 226073,
       "word": "考生花5499元报96个本科志愿全滑档",
       "onboard_time": 1750860744,
       "rank": 15,
@@ -187,6 +259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188877,
+      "num": 224835,
+      "word": "小沈阳女儿cha大展鸿图",
+      "onboard_time": 1750902321,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 179078,
       "num": 179078,
       "word": "鹿晗美甲",
@@ -195,12 +275,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175069,
+      "num": 175069,
+      "word": "中国为加沙孩子们发声",
+      "onboard_time": 1750899862,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 174875,
       "num": 174875,
       "word": "小米Yu7",
       "onboard_time": 1750861944,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 173343,
+      "num": 223227,
+      "word": "孟子义给边程发好人卡",
+      "onboard_time": 1750899922,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 168960,
@@ -219,6 +315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161310,
+      "num": 161310,
+      "word": "NBA交易",
+      "onboard_time": 1750893978,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160070,
       "num": 160070,
       "word": "真人互动游戏女童出镜引争议",
@@ -227,12 +331,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 154435,
-      "num": 154435,
-      "word": "NBA交易",
-      "onboard_time": 1750893978,
-      "rank": 18,
-      "category": "体育"
+      "raw_hot": 154424,
+      "num": 245040,
+      "word": "一人一句致敬缉毒警",
+      "onboard_time": 1750902262,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 154046,
@@ -243,12 +347,76 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153608,
+      "num": 153608,
+      "word": "女生高考752直呼太可怕再也不查分了",
+      "onboard_time": 1750895121,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153513,
+      "num": 153513,
+      "word": "弗拉格历史第二年轻状元",
+      "onboard_time": 1750901960,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152580,
       "num": 306472,
       "word": "男生676分想报哈工大报效国家",
       "onboard_time": 1750866742,
       "rank": 9,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 150882,
+      "num": 220271,
+      "word": "王宝强参选白玉兰让康洪雷不要为难",
+      "onboard_time": 1750894760,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 148767,
+      "num": 148767,
+      "word": "美袭击伊朗情报遭泄露",
+      "onboard_time": 1750898603,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 146377,
+      "num": 146377,
+      "word": "医院各科医生都不吃的六种食物",
+      "onboard_time": 1750895121,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 142577,
+      "num": 142577,
+      "word": "杨瀚森一身白西装参加选秀",
+      "onboard_time": 1750899623,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 131306,
+      "num": 131306,
+      "word": "第五人格",
+      "onboard_time": 1750902321,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 129524,
+      "num": 129524,
+      "word": "原来真的有人能热爱生活成这样",
+      "onboard_time": 1750895780,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 124805,
@@ -259,12 +427,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119107,
+      "num": 113177,
+      "word": "上拉如回应与小英不离婚",
+      "onboard_time": 1750897221,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
       "raw_hot": 116140,
       "num": 116140,
       "word": "伊朗称核设施在美空袭中严重受损",
       "onboard_time": 1750861043,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 115303,
+      "num": 114019,
+      "word": "晋江硬刚哇唧唧哇",
+      "onboard_time": 1750900881,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 110892,
@@ -291,6 +475,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105879,
+      "num": 105879,
+      "word": "孙子开公司请80岁奶奶当技术总监",
+      "onboard_time": 1750902441,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103793,
+      "num": 103793,
+      "word": "全员加速中",
+      "onboard_time": 1750895660,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102755,
       "num": 102755,
       "word": "NBA",
@@ -307,12 +507,52 @@
       "category": "演出"
     },
     {
+      "raw_hot": 99668,
+      "num": 99668,
+      "word": "英伟达市值一夜大增1.2万亿",
+      "onboard_time": 1750902921,
+      "rank": 43,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 98884,
       "num": 98884,
       "word": "姜涛坠海后参加见面会",
       "onboard_time": 1750867942,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97804,
+      "num": 97804,
+      "word": "NBA选秀直播",
+      "onboard_time": 1750903222,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 93276,
+      "num": 93276,
+      "word": "宇树科技年度营收已超10亿",
+      "onboard_time": 1750902741,
+      "rank": 46,
+      "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 93258,
+      "num": 93258,
+      "word": "花在毒品上的钱是打向缉毒警的子弹",
+      "onboard_time": 1750898603,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89286,
+      "num": 89286,
+      "word": "重庆火车站今日停运3趟始发列车",
+      "onboard_time": 1750888274,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89044,
@@ -459,22 +699,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 63605,
-      "num": 63605,
-      "word": "月薪15000每月只花1000块",
-      "onboard_time": 1750894038,
-      "rank": 40,
-      "category": "民生新闻,幽默"
-    },
-    {
-      "raw_hot": 62736,
-      "num": 62736,
-      "word": "王宝强参选白玉兰让康洪雷不要为难",
-      "onboard_time": 1750894760,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 61617,
       "num": 61617,
       "word": "牛冠凯分享王楚钦日常训练",
@@ -521,14 +745,6 @@
       "onboard_time": 1750894520,
       "rank": 44,
       "category": "美食,游戏"
-    },
-    {
-      "raw_hot": 51438,
-      "num": 51438,
-      "word": "北约秘书长否认管特朗普叫爸爸",
-      "onboard_time": 1750894760,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 50939,
@@ -643,14 +859,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 25327,
-      "num": 30432,
-      "word": "重庆火车站今日停运3趟始发列车",
-      "onboard_time": 1750888274,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23840,
       "num": 23840,
       "word": "虞书欣美好的旅程",
@@ -713,6 +921,14 @@
       "onboard_time": 1750863804,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 5735,
+      "num": 103874,
+      "word": "好博会上演机器人总动员",
+      "onboard_time": 1750903280,
+      "rank": 39,
+      "category": "民生新闻,互联网"
     }
   ],
   "hotgov_list": [
