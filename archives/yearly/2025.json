@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1750922805841,
+  "endTime": 1750923685899,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1475,6 +1475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 5104784,
+      "num": 5104784,
+      "word": "都美竹骗我20万",
+      "onboard_time": 1750921640,
+      "rank": 0,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 5050675,
       "num": 6300675,
       "word": "成都震感",
@@ -1937,14 +1945,6 @@
       "onboard_time": 1736237304,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3963357,
-      "num": 3963357,
-      "word": "都美竹骗我20万",
-      "onboard_time": 1750921640,
-      "rank": 0,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 3957531,

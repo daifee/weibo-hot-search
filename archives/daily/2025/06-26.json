@@ -1,10 +1,10 @@
 {
   "startTime": 1750869299096,
-  "endTime": 1750922805841,
+  "endTime": 1750923685899,
   "band_list": [
     {
-      "raw_hot": 3963357,
-      "num": 3963357,
+      "raw_hot": 5104784,
+      "num": 5104784,
       "word": "都美竹骗我20万",
       "onboard_time": 1750921640,
       "rank": 0,
@@ -51,8 +51,8 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 878545,
-      "num": 365727,
+      "raw_hot": 945078,
+      "num": 376319,
       "word": "刘轩丞录音",
       "onboard_time": 1750921521,
       "rank": 10,
@@ -187,6 +187,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 601649,
+      "num": 547039,
+      "word": "都美竹",
+      "onboard_time": 1750922961,
+      "rank": 5,
+      "category": "网红"
+    },
+    {
       "raw_hot": 568960,
       "num": 568960,
       "word": "这位一等功臣至今没有露脸公开影像",
@@ -203,7 +211,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 558338,
+      "raw_hot": 563007,
       "num": 539238,
       "word": "禁止带无3C被召回充电宝坐境内航班",
       "onboard_time": 1750917923,
@@ -355,6 +363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 394612,
+      "num": 394612,
+      "word": "举报前公婆近亿资产涉贪女子最新发声",
+      "onboard_time": 1750921521,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 374769,
       "num": 374769,
       "word": "BLACKPINK世巡概念预告",
@@ -419,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 347894,
+      "num": 561763,
+      "word": "班主任回应扁担女孩高考成绩",
+      "onboard_time": 1750918941,
+      "rank": 29,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 341804,
       "num": 341804,
       "word": "罗一舟突发意外受伤",
@@ -449,14 +473,6 @@
       "onboard_time": 1750916424,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 308928,
-      "num": 561763,
-      "word": "班主任回应扁担女孩高考成绩",
-      "onboard_time": 1750918941,
-      "rank": 29,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 305606,
@@ -540,7 +556,7 @@
     },
     {
       "raw_hot": 273341,
-      "num": 268668,
+      "num": 309324,
       "word": "迪丽热巴金靖胶片",
       "onboard_time": 1750916665,
       "rank": 49,
@@ -627,14 +643,6 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 248415,
-      "num": 248415,
-      "word": "举报前公婆近亿资产涉贪女子最新发声",
-      "onboard_time": 1750921521,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 242598,
       "num": 242598,
       "word": "海关大战labubu",
@@ -665,6 +673,14 @@
       "onboard_time": 1750860744,
       "rank": 15,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 225168,
+      "num": 225168,
+      "word": "孟子义剧粉底盘有多大",
+      "onboard_time": 1750922000,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 218960,
@@ -779,14 +795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197055,
-      "num": 197055,
-      "word": "孟子义剧粉底盘有多大",
-      "onboard_time": 1750922000,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 196308,
       "num": 196308,
       "word": "藏海传的广告价格",
@@ -843,6 +851,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186007,
+      "num": 186007,
+      "word": "罗马仕",
+      "onboard_time": 1750922780,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 185355,
+      "num": 185355,
+      "word": "花傲天为LGD香港邀请赛助威",
+      "onboard_time": 1750922721,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 179260,
       "num": 179260,
       "word": "易烊千玺上海演唱会审批已通过",
@@ -875,6 +899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 177440,
+      "num": 310101,
+      "word": "顺丰等快递拒收召回充电宝",
+      "onboard_time": 1750921581,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176817,
       "num": 176817,
       "word": "中国短剧成美国影视失业者救命稻草",
@@ -889,6 +921,14 @@
       "onboard_time": 1750905381,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175863,
+      "num": 175863,
+      "word": "上海月薪19000一天的花销",
+      "onboard_time": 1750919720,
+      "rank": 43,
+      "category": "休闲"
     },
     {
       "raw_hot": 175069,
@@ -953,6 +993,14 @@
       "onboard_time": 1750918163,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166585,
+      "num": 166585,
+      "word": "女子举报公婆涉贪腐为何一年没结果",
+      "onboard_time": 1750922061,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165948,
@@ -1107,14 +1155,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 146554,
-      "num": 146554,
-      "word": "上海月薪19000一天的花销",
-      "onboard_time": 1750919720,
-      "rank": 43,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 146377,
       "num": 146377,
       "word": "医院各科医生都不吃的六种食物",
@@ -1124,7 +1164,7 @@
     },
     {
       "raw_hot": 146360,
-      "num": 140822,
+      "num": 146179,
       "word": "友情最可怕的不是绝交",
       "onboard_time": 1750921581,
       "rank": 31,
@@ -1203,6 +1243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137541,
+      "num": 137541,
+      "word": "被爱填满的一平方米",
+      "onboard_time": 1750923261,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 135798,
       "num": 135798,
       "word": "中南财大通报学生找人替考拟被开除",
@@ -1244,7 +1292,7 @@
     },
     {
       "raw_hot": 132454,
-      "num": 249470,
+      "num": 286835,
       "word": "荣耀刀片电池薄到能切豆腐",
       "onboard_time": 1750919960,
       "rank": 19,
@@ -1299,28 +1347,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 128552,
-      "num": 139232,
-      "word": "花傲天为LGD香港邀请赛助威",
-      "onboard_time": 1750922721,
-      "rank": 34,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 127842,
       "num": 127842,
       "word": "淘宝崩了",
       "onboard_time": 1750915464,
       "rank": 46,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 125338,
-      "num": 125338,
-      "word": "女子举报公婆涉贪腐为何一年没结果",
-      "onboard_time": 1750922061,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 125006,
@@ -1353,6 +1385,14 @@
       "onboard_time": 1750915464,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121437,
+      "num": 121437,
+      "word": "开拓者列队欢迎杨瀚森",
+      "onboard_time": 1750923320,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 119780,
@@ -1403,6 +1443,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115080,
+      "num": 115080,
+      "word": "A股微跌缩量196亿",
+      "onboard_time": 1750923382,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 112625,
+      "num": 98415,
+      "word": "书卷一梦首播口碑",
+      "onboard_time": 1750923621,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112215,
       "num": 112215,
       "word": "人和猫沟通救出了它的幼崽",
@@ -1435,12 +1491,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107459,
+      "num": 107459,
+      "word": "女生分手后狂吃8斤食物险丧命",
+      "onboard_time": 1750923442,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106379,
       "num": 79766,
       "word": "王俊凯 幸运咖见面会",
       "onboard_time": 1750865302,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105695,
+      "num": 105695,
+      "word": "孟子义长了张乱世美人脸",
+      "onboard_time": 1750923561,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 104326,
+      "num": 104326,
+      "word": "丁禹兮新剧开机线下人气",
+      "onboard_time": 1750923621,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 104154,
+      "num": 104154,
+      "word": "博主二师兄泄露视频已删除",
+      "onboard_time": 1750923442,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 103793,
@@ -1515,12 +1603,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 98062,
-      "num": 98062,
-      "word": "罗马仕",
-      "onboard_time": 1750922780,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 98758,
+      "num": 98758,
+      "word": "小猫离开口说话就差一点了",
+      "onboard_time": 1750923141,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 97905,
@@ -1577,14 +1665,6 @@
       "onboard_time": 1750915524,
       "rank": 34,
       "category": "数码"
-    },
-    {
-      "raw_hot": 86504,
-      "num": 310101,
-      "word": "顺丰等快递拒收召回充电宝",
-      "onboard_time": 1750921581,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 86341,
@@ -2001,6 +2081,14 @@
       "onboard_time": 1750907360,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27500,
+      "num": 376607,
+      "word": "被外婆带大的女孩高考649分",
+      "onboard_time": 1750923081,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 27248,
