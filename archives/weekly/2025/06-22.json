@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750913469244,
+  "endTime": 1750915651200,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -531,6 +531,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1230248,
+      "num": 1230248,
+      "word": "延迟发朋友圈的好处",
+      "onboard_time": 1750909281,
+      "rank": 3,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 1226449,
       "num": 1226449,
       "word": "男孩中考查分863分数学满分",
@@ -881,14 +889,6 @@
       "onboard_time": 1750593320,
       "rank": 4,
       "category": "美食"
-    },
-    {
-      "raw_hot": 871707,
-      "num": 871707,
-      "word": "延迟发朋友圈的好处",
-      "onboard_time": 1750909281,
-      "rank": 3,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 868819,
@@ -2307,6 +2307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 504949,
+      "num": 504949,
+      "word": "曾救助百名弃婴的道禄被警方控制",
+      "onboard_time": 1750912285,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 502339,
       "num": 502339,
       "word": "高考成绩陆续公布",
@@ -2779,6 +2787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 444967,
+      "num": 444967,
+      "word": "王安宇 我只是半夜的林黛玉",
+      "onboard_time": 1750910904,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 444631,
       "num": 375568,
       "word": "向太给孙子孙女买Labubu",
@@ -2969,6 +2985,14 @@
       "onboard_time": 1750737262,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 420675,
+      "num": 420675,
+      "word": "警方通报道禄涉案被查",
+      "onboard_time": 1750914145,
+      "rank": 8,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 419649,
@@ -3849,14 +3873,6 @@
       "onboard_time": 1750559301,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 336306,
-      "num": 401770,
-      "word": "王安宇 我只是半夜的林黛玉",
-      "onboard_time": 1750910904,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 336232,
@@ -5483,6 +5499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 232244,
+      "num": 232244,
+      "word": "沈腾要不给丁禹兮打个电话吧",
+      "onboard_time": 1750912405,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231797,
       "num": 314060,
       "word": "张婧仪复仇掀桌戏看爽了",
@@ -5505,6 +5529,14 @@
       "onboard_time": 1750576882,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 230719,
+      "num": 248776,
+      "word": "充电宝安检新规",
+      "onboard_time": 1750912165,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 230514,
@@ -5883,14 +5915,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 216689,
-      "num": 216689,
-      "word": "沈腾要不给丁禹兮打个电话吧",
-      "onboard_time": 1750912405,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 216570,
       "num": 216570,
       "word": "高考成绩屏蔽",
@@ -5985,6 +6009,14 @@
       "onboard_time": 1750847662,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 214163,
+      "num": 269096,
+      "word": "道禄和尚前妻女儿现女友也涉案",
+      "onboard_time": 1750914085,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 214103,
@@ -7395,6 +7427,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 187061,
+      "num": 230756,
+      "word": "刘宇宁书卷一梦赶上两班倒了",
+      "onboard_time": 1750914684,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187050,
       "num": 187050,
       "word": "何与下班了胸肌没下班",
@@ -8089,6 +8129,14 @@
       "onboard_time": 1750667484,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 170600,
+      "num": 170600,
+      "word": "伊朗巴基斯坦等国防长参观中国军舰",
+      "onboard_time": 1750913905,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170243,
@@ -9443,14 +9491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 147891,
-      "num": 400467,
-      "word": "曾救助百名弃婴的道禄被警方控制",
-      "onboard_time": 1750912285,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 147826,
       "num": 175048,
       "word": "赵昭仪直播",
@@ -9683,6 +9723,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 145593,
+      "num": 145593,
+      "word": "港媒锐评今年港姐选手",
+      "onboard_time": 1750914325,
+      "rank": 37,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 145564,
       "num": 145564,
       "word": "巩俐与老公合照",
@@ -9793,6 +9841,14 @@
       "onboard_time": 1750852882,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144227,
+      "num": 144227,
+      "word": "抖音崩了",
+      "onboard_time": 1750914027,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 144177,
@@ -9969,6 +10025,14 @@
       "onboard_time": 1750668984,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 142294,
+      "num": 142294,
+      "word": "苏群预测杨瀚森分毫不差",
+      "onboard_time": 1750913784,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 142282,
@@ -10169,6 +10233,14 @@
       "onboard_time": 1750858043,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139435,
+      "num": 230725,
+      "word": "美国演员争演中国短剧有人工资翻7倍",
+      "onboard_time": 1750914986,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139262,
@@ -10481,6 +10553,14 @@
       "onboard_time": 1750804997,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 135798,
+      "num": 135798,
+      "word": "中南财大通报学生找人替考拟被开除",
+      "onboard_time": 1750914027,
+      "rank": 42,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 135473,
@@ -11427,12 +11507,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 122552,
+      "num": 122552,
+      "word": "开始推理吧",
+      "onboard_time": 1750915464,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122488,
       "num": 122488,
       "word": "伊朗官员称美国以色列是骗子",
       "onboard_time": 1750726223,
       "rank": 38,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 122407,
+      "num": 122407,
+      "word": "淘宝崩了",
+      "onboard_time": 1750915464,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 122276,
@@ -11595,6 +11691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119168,
+      "num": 172948,
+      "word": "刘令姿演的孟蓁蓁虽坏但实在美丽",
+      "onboard_time": 1750913606,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119136,
       "num": 119136,
       "word": "孟子义腾讯四部剧",
@@ -11713,6 +11817,14 @@
       "onboard_time": 1750672584,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 116435,
+      "num": 116435,
+      "word": "小白不要去健身房瞎玩",
+      "onboard_time": 1750915224,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 116317,
@@ -12779,6 +12891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95911,
+      "num": 402335,
+      "word": "白鹿我的必吃榜饭搭子",
+      "onboard_time": 1750910723,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95767,
       "num": 95767,
       "word": "常州小球迷痛哭怎么一次都没进",
@@ -13089,14 +13209,6 @@
       "onboard_time": 1750588940,
       "rank": 49,
       "category": "旅游,民生新闻"
-    },
-    {
-      "raw_hot": 86566,
-      "num": 402335,
-      "word": "白鹿我的必吃榜饭搭子",
-      "onboard_time": 1750910723,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 86526,
@@ -13715,6 +13827,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 68338,
+      "num": 180180,
+      "word": "尊界车主既有老钱也有新钱",
+      "onboard_time": 1750914625,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 67816,
       "num": 188391,
       "word": "尹航程靖淇回忆二队被樊振东横扫",
@@ -14147,14 +14267,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 56863,
-      "num": 248776,
-      "word": "充电宝安检新规",
-      "onboard_time": 1750912165,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 56567,
       "num": 353552,
       "word": "男生高考多近40分给老师送芹菜和肉",
@@ -14449,6 +14561,14 @@
       "onboard_time": 1750738823,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 50865,
+      "num": 160395,
+      "word": "Pura80Ultra开售全面售罄",
+      "onboard_time": 1750915524,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 50612,
@@ -15507,6 +15627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26490,
+      "num": 175434,
+      "word": "杨瀚森说追梦的故事迎来大结局",
+      "onboard_time": 1750914145,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26488,
       "num": 26488,
       "word": "张小斐新角色美强狠",
@@ -16001,6 +16129,14 @@
       "onboard_time": 1750675342,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15921,
+      "num": 142757,
+      "word": "小米yu7将亮相好博会",
+      "onboard_time": 1750914085,
+      "rank": 39,
+      "category": "汽车"
     },
     {
       "raw_hot": 15762,

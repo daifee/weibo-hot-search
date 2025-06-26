@@ -1,0 +1,410 @@
+{
+  "runTime": 1750915651200,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1822489,
+        "num": 1822489,
+        "word": "央视曝光有学生吸食火机气体成瘾",
+        "onboard_time": 1750908321,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1230248,
+        "num": 1230248,
+        "word": "延迟发朋友圈的好处",
+        "onboard_time": 1750909281,
+        "rank": 1,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 37212,
+        "num": 791099,
+        "word": "高考放榜网警守护",
+        "onboard_time": 1750898842,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 548239,
+        "num": 548239,
+        "word": "原来可乐是最公平的饮料",
+        "onboard_time": 1750905621,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 544349,
+        "num": 544349,
+        "word": "特朗普将袭击伊朗类比对日本投原子弹",
+        "onboard_time": 1750910541,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 504949,
+        "num": 504949,
+        "word": "曾救助百名弃婴的道禄被警方控制",
+        "onboard_time": 1750912285,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 492562,
+        "num": 492562,
+        "word": "李一桐大蜈蚣爬身上那部剧终于要播了",
+        "onboard_time": 1750907421,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 444967,
+        "num": 444967,
+        "word": "王安宇 我只是半夜的林黛玉",
+        "onboard_time": 1750910904,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 420675,
+        "num": 420675,
+        "word": "警方通报道禄涉案被查",
+        "onboard_time": 1750914145,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 353608,
+        "num": 353608,
+        "word": "陈震 小米",
+        "onboard_time": 1750907121,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 741247,
+        "num": 323933,
+        "word": "江苏卫视长安的荔枝撤档",
+        "onboard_time": 1750903521,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 436129,
+        "num": 315105,
+        "word": "成绩被屏蔽女孩坚信不存在智商差距",
+        "onboard_time": 1750865542,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274824,
+        "num": 274824,
+        "word": "闪婚不到一年丈夫起诉离婚讨百万彩礼",
+        "onboard_time": 1750906041,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273294,
+        "num": 273294,
+        "word": "杨瀚森第九位被选中的中国球员",
+        "onboard_time": 1750904482,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214163,
+        "num": 269096,
+        "word": "道禄和尚前妻女儿现女友也涉案",
+        "onboard_time": 1750914085,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 267077,
+        "num": 267077,
+        "word": "刘轩丞榜一大姐",
+        "onboard_time": 1750905922,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 232244,
+        "num": 232244,
+        "word": "沈腾要不给丁禹兮打个电话吧",
+        "onboard_time": 1750912405,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212668,
+        "num": 231252,
+        "word": "内娱唯二的姐",
+        "onboard_time": 1750913185,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187061,
+        "num": 230756,
+        "word": "刘宇宁书卷一梦赶上两班倒了",
+        "onboard_time": 1750914684,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139435,
+        "num": 230725,
+        "word": "美国演员争演中国短剧有人工资翻7倍",
+        "onboard_time": 1750914986,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230719,
+        "num": 230719,
+        "word": "充电宝安检新规",
+        "onboard_time": 1750912165,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95911,
+        "num": 223684,
+        "word": "白鹿我的必吃榜饭搭子",
+        "onboard_time": 1750910723,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222070,
+        "num": 222070,
+        "word": "李一桐王佑硕婚了么外卖已送达",
+        "onboard_time": 1750912465,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208319,
+        "num": 208319,
+        "word": "十个5年内月薪仍低于3千的专业",
+        "onboard_time": 1750912044,
+        "rank": 23,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 200479,
+        "num": 200479,
+        "word": "美国B2幽灵轰炸机飞行员emo了",
+        "onboard_time": 1750901601,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 197488,
+        "num": 197488,
+        "word": "老师高考差3分输赌约全班坐等开饭",
+        "onboard_time": 1750903822,
+        "rank": 25,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 68338,
+        "num": 180180,
+        "word": "尊界车主既有老钱也有新钱",
+        "onboard_time": 1750914625,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 177628,
+        "num": 177628,
+        "word": "樱桃琥珀",
+        "onboard_time": 1750907121,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143631,
+        "num": 176469,
+        "word": "书卷一梦云包场",
+        "onboard_time": 1750912524,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26490,
+        "num": 175434,
+        "word": "杨瀚森说追梦的故事迎来大结局",
+        "onboard_time": 1750914145,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119168,
+        "num": 172948,
+        "word": "刘令姿演的孟蓁蓁虽坏但实在美丽",
+        "onboard_time": 1750913606,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182711,
+        "num": 170951,
+        "word": "张朝阳张雪峰讨论选700分还是700万",
+        "onboard_time": 1750910844,
+        "rank": 31,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 170600,
+        "num": 170600,
+        "word": "伊朗巴基斯坦等国防长参观中国军舰",
+        "onboard_time": 1750913905,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165218,
+        "num": 165218,
+        "word": "这位一等功臣至今没有露脸公开影像",
+        "onboard_time": 1750904001,
+        "rank": 33,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 50865,
+        "num": 160395,
+        "word": "Pura80Ultra开售全面售罄",
+        "onboard_time": 1750915524,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 158394,
+        "num": 158394,
+        "word": "荔枝价格",
+        "onboard_time": 1750909702,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 150583,
+        "num": 150583,
+        "word": "上海野生动物园回应大象群体霸凌",
+        "onboard_time": 1750910541,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145593,
+        "num": 145593,
+        "word": "港媒锐评今年港姐选手",
+        "onboard_time": 1750914325,
+        "rank": 37,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 144227,
+        "num": 144227,
+        "word": "抖音崩了",
+        "onboard_time": 1750914027,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 15921,
+        "num": 142757,
+        "word": "小米yu7将亮相好博会",
+        "onboard_time": 1750914085,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 142294,
+        "num": 142294,
+        "word": "苏群预测杨瀚森分毫不差",
+        "onboard_time": 1750913784,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140683,
+        "num": 140683,
+        "word": "酷似林依晨的曼联女孩高考出分",
+        "onboard_time": 1750912885,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135798,
+        "num": 135798,
+        "word": "中南财大通报学生找人替考拟被开除",
+        "onboard_time": 1750914027,
+        "rank": 42,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 132008,
+        "num": 132008,
+        "word": "副教授被害前还在给学生改论文",
+        "onboard_time": 1750907301,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129826,
+        "num": 129826,
+        "word": "篮网选秀大爆冷",
+        "onboard_time": 1750912165,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122552,
+        "num": 122552,
+        "word": "开始推理吧",
+        "onboard_time": 1750915464,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122407,
+        "num": 122407,
+        "word": "淘宝崩了",
+        "onboard_time": 1750915464,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 117502,
+        "num": 117502,
+        "word": "男子吸食火机气体再抽烟引发爆炸",
+        "onboard_time": 1750908981,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116641,
+        "num": 116641,
+        "word": "开拓者阵容",
+        "onboard_time": 1750913365,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116435,
+        "num": 116435,
+        "word": "小白不要去健身房瞎玩",
+        "onboard_time": 1750915224,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记对土地的深情#"
+    }
+  }
+}

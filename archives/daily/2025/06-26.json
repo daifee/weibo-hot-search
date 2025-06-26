@@ -1,6 +1,6 @@
 {
   "startTime": 1750869299096,
-  "endTime": 1750913469244,
+  "endTime": 1750915651200,
   "band_list": [
     {
       "raw_hot": 2245941,
@@ -27,8 +27,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 871707,
-      "num": 871707,
+      "raw_hot": 1230248,
+      "num": 1230248,
       "word": "延迟发朋友圈的好处",
       "onboard_time": 1750909281,
       "rank": 3,
@@ -163,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 504949,
+      "num": 504949,
+      "word": "曾救助百名弃婴的道禄被警方控制",
+      "onboard_time": 1750912285,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 498482,
       "num": 371091,
       "word": "徐艺洋一周前曾回应怀孕传闻",
@@ -203,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 444967,
+      "num": 444967,
+      "word": "王安宇 我只是半夜的林黛玉",
+      "onboard_time": 1750910904,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 437846,
       "num": 437846,
       "word": "杨幂 王小卤",
@@ -217,6 +233,14 @@
       "onboard_time": 1750905922,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 420675,
+      "num": 420675,
+      "word": "警方通报道禄涉案被查",
+      "onboard_time": 1750914145,
+      "rank": 8,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 418047,
@@ -312,14 +336,6 @@
       "word": "罗一舟突发意外受伤",
       "onboard_time": 1750866862,
       "rank": 8,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 336306,
-      "num": 401770,
-      "word": "王安宇 我只是半夜的林黛玉",
-      "onboard_time": 1750910904,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -467,6 +483,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 232244,
+      "num": 232244,
+      "word": "沈腾要不给丁禹兮打个电话吧",
+      "onboard_time": 1750912405,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 230719,
+      "num": 248776,
+      "word": "充电宝安检新规",
+      "onboard_time": 1750912165,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 226291,
       "num": 226291,
       "word": "杨毅预测",
@@ -499,12 +531,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 216689,
-      "num": 216689,
-      "word": "沈腾要不给丁禹兮打个电话吧",
-      "onboard_time": 1750912405,
-      "rank": 34,
-      "category": "综艺"
+      "raw_hot": 214163,
+      "num": 269096,
+      "word": "道禄和尚前妻女儿现女友也涉案",
+      "onboard_time": 1750914085,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 213227,
@@ -579,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187061,
+      "num": 230756,
+      "word": "刘宇宁书卷一梦赶上两班倒了",
+      "onboard_time": 1750914684,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179260,
       "num": 179260,
       "word": "易烊千玺上海演唱会审批已通过",
@@ -641,6 +681,14 @@
       "onboard_time": 1750899922,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170600,
+      "num": 170600,
+      "word": "伊朗巴基斯坦等国防长参观中国军舰",
+      "onboard_time": 1750913905,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168960,
@@ -803,14 +851,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 147891,
-      "num": 400467,
-      "word": "曾救助百名弃婴的道禄被警方控制",
-      "onboard_time": 1750912285,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 147540,
       "num": 147540,
       "word": "六公主认证灵笼2爆火",
@@ -827,6 +867,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 145593,
+      "num": 145593,
+      "word": "港媒锐评今年港姐选手",
+      "onboard_time": 1750914325,
+      "rank": 37,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 144447,
       "num": 144447,
       "word": "朕从未见过如此权威的民偶",
@@ -835,12 +883,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144227,
+      "num": 144227,
+      "word": "抖音崩了",
+      "onboard_time": 1750914027,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 144092,
       "num": 144092,
       "word": "适合一个人住的50平老破小",
       "onboard_time": 1750912885,
       "rank": 45,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 142294,
+      "num": 142294,
+      "word": "苏群预测杨瀚森分毫不差",
+      "onboard_time": 1750913784,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 141952,
@@ -865,6 +929,22 @@
       "onboard_time": 1750913365,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139435,
+      "num": 230725,
+      "word": "美国演员争演中国短剧有人工资翻7倍",
+      "onboard_time": 1750914986,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135798,
+      "num": 135798,
+      "word": "中南财大通报学生找人替考拟被开除",
+      "onboard_time": 1750914027,
+      "rank": 42,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 134499,
@@ -915,12 +995,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122552,
+      "num": 122552,
+      "word": "开始推理吧",
+      "onboard_time": 1750915464,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 122407,
+      "num": 122407,
+      "word": "淘宝崩了",
+      "onboard_time": 1750915464,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 119168,
+      "num": 172948,
+      "word": "刘令姿演的孟蓁蓁虽坏但实在美丽",
+      "onboard_time": 1750913606,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119107,
       "num": 113177,
       "word": "上拉如回应与小英不离婚",
       "onboard_time": 1750897221,
       "rank": 35,
       "category": "网红"
+    },
+    {
+      "raw_hot": 116435,
+      "num": 116435,
+      "word": "小白不要去健身房瞎玩",
+      "onboard_time": 1750915224,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 116140,
@@ -1035,6 +1147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95911,
+      "num": 402335,
+      "word": "白鹿我的必吃榜饭搭子",
+      "onboard_time": 1750910723,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89286,
       "num": 89286,
       "word": "重庆火车站今日停运3趟始发列车",
@@ -1049,14 +1169,6 @@
       "onboard_time": 1750847362,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 86566,
-      "num": 402335,
-      "word": "白鹿我的必吃榜饭搭子",
-      "onboard_time": 1750910723,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 86341,
@@ -1187,6 +1299,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 68338,
+      "num": 180180,
+      "word": "尊界车主既有老钱也有新钱",
+      "onboard_time": 1750914625,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 66800,
       "num": 66800,
       "word": "儿子高考704分妈妈说平时放养教育",
@@ -1275,14 +1395,6 @@
       "category": "美食,游戏"
     },
     {
-      "raw_hot": 56863,
-      "num": 248776,
-      "word": "充电宝安检新规",
-      "onboard_time": 1750912165,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 52617,
       "num": 399610,
       "word": "大学生兼职后被当老板名下公司难撤销",
@@ -1305,6 +1417,14 @@
       "onboard_time": 1750876095,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 50865,
+      "num": 160395,
+      "word": "Pura80Ultra开售全面售罄",
+      "onboard_time": 1750915524,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 49680,
@@ -1435,6 +1555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26490,
+      "num": 175434,
+      "word": "杨瀚森说追梦的故事迎来大结局",
+      "onboard_time": 1750914145,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23840,
       "num": 23840,
       "word": "虞书欣美好的旅程",
@@ -1489,6 +1617,14 @@
       "onboard_time": 1750877955,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15921,
+      "num": 142757,
+      "word": "小米yu7将亮相好博会",
+      "onboard_time": 1750914085,
+      "rank": 39,
+      "category": "汽车"
     },
     {
       "raw_hot": 12624,
