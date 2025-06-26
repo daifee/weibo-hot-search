@@ -1,0 +1,410 @@
+{
+  "runTime": 1750945096006,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2030035,
+        "num": 2030035,
+        "word": "288分女生接到高校电话",
+        "onboard_time": 1750941623,
+        "rank": 0,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 1796543,
+        "num": 1796543,
+        "word": "小米YU7价格",
+        "onboard_time": 1750940903,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 21733,
+        "num": 1517317,
+        "word": "活力中国调研行",
+        "onboard_time": 1750933102,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1512281,
+        "num": 1512281,
+        "word": "LV大秀",
+        "onboard_time": 1750936041,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 822448,
+        "num": 822448,
+        "word": "小米YU7",
+        "onboard_time": 1750941983,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 586874,
+        "num": 586874,
+        "word": "小米发布会",
+        "onboard_time": 1750934361,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 551054,
+        "num": 551054,
+        "word": "王楚钦亮相LV大秀",
+        "onboard_time": 1750937662,
+        "rank": 6,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 497876,
+        "num": 497876,
+        "word": "小米AI眼镜",
+        "onboard_time": 1750941922,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 467763,
+        "num": 467763,
+        "word": "小米汽车",
+        "onboard_time": 1750934422,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 64428,
+        "num": 467534,
+        "word": "台湾女孩回浙探亲被白衣天使救下一命",
+        "onboard_time": 1750937542,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56741,
+        "num": 466422,
+        "word": "LV上海活动",
+        "onboard_time": 1750943484,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 947277,
+        "num": 465286,
+        "word": "刘亦菲裙子",
+        "onboard_time": 1750936341,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 771059,
+        "num": 464314,
+        "word": "好了没 好尴尬",
+        "onboard_time": 1750937781,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 453045,
+        "num": 462822,
+        "word": "1岁工作22岁退休",
+        "onboard_time": 1750935681,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 414846,
+        "num": 462126,
+        "word": "原来刘亦菲吃饭也是手机先吃",
+        "onboard_time": 1750942583,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323649,
+        "num": 461424,
+        "word": "明星LV大秀红毯生图",
+        "onboard_time": 1750940245,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 285087,
+        "num": 459954,
+        "word": "白玉兰提名晚宴",
+        "onboard_time": 1750936823,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72361,
+        "num": 458635,
+        "word": "小米MIXFlip2上线AI定制萌宠功能",
+        "onboard_time": 1750941983,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 84405,
+        "num": 457354,
+        "word": "小米发布全新随身拍套装",
+        "onboard_time": 1750943184,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 44703,
+        "num": 456425,
+        "word": "网友称充电宝不在召回范围仍被扣留",
+        "onboard_time": 1750944085,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 487872,
+        "num": 455480,
+        "word": "翔霖",
+        "onboard_time": 1750942404,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217477,
+        "num": 454732,
+        "word": "小米首款AI眼镜发布",
+        "onboard_time": 1750943724,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 454176,
+        "num": 454176,
+        "word": "十年前没人敢选的专业翻红了",
+        "onboard_time": 1750938622,
+        "rank": 22,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 364773,
+        "num": 364773,
+        "word": "27岁真的还很年轻很年轻",
+        "onboard_time": 1750934902,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 245776,
+        "num": 360196,
+        "word": "蒋欣演技",
+        "onboard_time": 1750944023,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232186,
+        "num": 348302,
+        "word": "哈梅内伊发文祝贺伊朗战胜以色列",
+        "onboard_time": 1750940482,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 226260,
+        "num": 342675,
+        "word": "充电宝",
+        "onboard_time": 1750940841,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215975,
+        "num": 334700,
+        "word": "缉毒民警被戴上手铐时才敢松口气",
+        "onboard_time": 1750930102,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264392,
+        "num": 325634,
+        "word": "华策经纪严正声明",
+        "onboard_time": 1750944983,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211415,
+        "num": 320157,
+        "word": "童瑶给王宝强张若昀颁奖",
+        "onboard_time": 1750944744,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 314802,
+        "num": 314802,
+        "word": "陆景和 酱子贝",
+        "onboard_time": 1750942283,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 288140,
+        "num": 288140,
+        "word": "女生高考涨了167分被吓到模糊",
+        "onboard_time": 1750916183,
+        "rank": 31,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 260506,
+        "num": 260506,
+        "word": "LV大秀主持人是贺峻霖",
+        "onboard_time": 1750928062,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 241856,
+        "num": 241856,
+        "word": "小米YU7颜色",
+        "onboard_time": 1750942944,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 216116,
+        "num": 216116,
+        "word": "金晨裸肩红黑格子裙",
+        "onboard_time": 1750944864,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 199984,
+        "num": 199984,
+        "word": "宋茜LV大秀红毯造型",
+        "onboard_time": 1750944804,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 198322,
+        "num": 198322,
+        "word": "王嘉尔LV活动生图",
+        "onboard_time": 1750944264,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 192519,
+        "num": 192519,
+        "word": "做无痛胃镜差点把麻醉医生投诉了",
+        "onboard_time": 1750940783,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190818,
+        "num": 190818,
+        "word": "小米手环",
+        "onboard_time": 1750941021,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 186812,
+        "num": 186812,
+        "word": "高中生体育课玩手机被留校察看半年",
+        "onboard_time": 1750942884,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180571,
+        "num": 180571,
+        "word": "LV大秀直播",
+        "onboard_time": 1750945044,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 20989,
+        "num": 172969,
+        "word": "做医美不是开盲盒要擦亮眼",
+        "onboard_time": 1750942884,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170960,
+        "num": 170960,
+        "word": "别伤害我推了",
+        "onboard_time": 1750942703,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 165951,
+        "num": 165951,
+        "word": "书卷一梦",
+        "onboard_time": 1750933641,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163314,
+        "num": 163314,
+        "word": "广东地震干饭小孩哥火到了西班牙",
+        "onboard_time": 1750944204,
+        "rank": 44,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 163050,
+        "num": 163050,
+        "word": "雷军黑衬衫",
+        "onboard_time": 1750937542,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 158652,
+        "num": 158652,
+        "word": "特朗普自曝批准伊朗空袭美军基地",
+        "onboard_time": 1750934962,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 155204,
+        "num": 155204,
+        "word": "都说了钓鱼佬情比金坚",
+        "onboard_time": 1750944983,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149139,
+        "num": 149139,
+        "word": "充电宝3C标识长这样",
+        "onboard_time": 1750939342,
+        "rank": 48,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 148921,
+        "num": 148921,
+        "word": "你不发火不是因为大度是因为窝囊",
+        "onboard_time": 1750944562,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈耕地保护#"
+    }
+  }
+}

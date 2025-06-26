@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750943369379,
+  "endTime": 1750945096006,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -211,8 +211,8 @@
       "category": "网红,民生新闻"
     },
     {
-      "raw_hot": 1964516,
-      "num": 1964516,
+      "raw_hot": 2030035,
+      "num": 2030035,
       "word": "288分女生接到高校电话",
       "onboard_time": 1750941623,
       "rank": 0,
@@ -275,6 +275,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1796543,
+      "num": 1796543,
+      "word": "小米YU7价格",
+      "onboard_time": 1750940903,
+      "rank": 1,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1747665,
       "num": 1747665,
       "word": "庆余年3",
@@ -297,14 +305,6 @@
       "onboard_time": 1750549878,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1699502,
-      "num": 1699502,
-      "word": "小米YU7价格",
-      "onboard_time": 1750940903,
-      "rank": 1,
-      "category": "汽车"
     },
     {
       "raw_hot": 1672878,
@@ -644,7 +644,7 @@
     },
     {
       "raw_hot": 1151552,
-      "num": 426940,
+      "num": 465286,
       "word": "刘亦菲裙子",
       "onboard_time": 1750936341,
       "rank": 15,
@@ -988,7 +988,7 @@
     },
     {
       "raw_hot": 872532,
-      "num": 426237,
+      "num": 464314,
       "word": "好了没 好尴尬",
       "onboard_time": 1750937781,
       "rank": 46,
@@ -1145,6 +1145,14 @@
       "onboard_time": 1750772183,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 822448,
+      "num": 822448,
+      "word": "小米YU7",
+      "onboard_time": 1750669463,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 816558,
@@ -2699,6 +2707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 487872,
+      "num": 455480,
+      "word": "翔霖",
+      "onboard_time": 1750942404,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 487622,
       "num": 487622,
       "word": "辽宁分数线",
@@ -2955,6 +2971,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 454176,
+      "num": 454176,
+      "word": "十年前没人敢选的专业翻红了",
+      "onboard_time": 1750938622,
+      "rank": 19,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 453496,
       "num": 453496,
       "word": "双胞胎高考哥哥680分妹妹710分",
@@ -3187,14 +3211,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 433401,
-      "num": 433401,
-      "word": "小米YU7",
-      "onboard_time": 1750669463,
-      "rank": 28,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 432516,
       "num": 432516,
       "word": "浙江高考成绩",
@@ -3216,14 +3232,6 @@
       "word": "怀孕逛街的许玮甯",
       "onboard_time": 1750829182,
       "rank": 32,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 429791,
-      "num": 338716,
-      "word": "翔霖",
-      "onboard_time": 1750942404,
-      "rank": 42,
       "category": "艺人"
     },
     {
@@ -3340,7 +3348,7 @@
     },
     {
       "raw_hot": 416104,
-      "num": 416104,
+      "num": 461424,
       "word": "明星LV大秀红毯生图",
       "onboard_time": 1750940245,
       "rank": 14,
@@ -3353,6 +3361,14 @@
       "onboard_time": 1750547358,
       "rank": 16,
       "category": "互联网,艺人"
+    },
+    {
+      "raw_hot": 414846,
+      "num": 462126,
+      "word": "原来刘亦菲吃饭也是手机先吃",
+      "onboard_time": 1750942583,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 414715,
@@ -3828,7 +3844,7 @@
     },
     {
       "raw_hot": 369949,
-      "num": 389369,
+      "num": 459954,
       "word": "白玉兰提名晚宴",
       "onboard_time": 1750936823,
       "rank": 36,
@@ -4523,6 +4539,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 314802,
+      "num": 314802,
+      "word": "陆景和 酱子贝",
+      "onboard_time": 1750942283,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 314652,
       "num": 314652,
       "word": "以防长下令有力回应伊朗",
@@ -4723,14 +4747,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 300525,
-      "num": 354442,
-      "word": "十年前没人敢选的专业翻红了",
-      "onboard_time": 1750938622,
-      "rank": 19,
-      "category": "教育,民生新闻"
-    },
-    {
       "raw_hot": 300318,
       "num": 503810,
       "word": "伊朗真的会封闭霍尔木兹海峡吗",
@@ -4753,14 +4769,6 @@
       "onboard_time": 1750649662,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 299007,
-      "num": 299007,
-      "word": "陆景和 酱子贝",
-      "onboard_time": 1750942283,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 298887,
@@ -4948,7 +4956,7 @@
     },
     {
       "raw_hot": 285724,
-      "num": 285724,
+      "num": 342675,
       "word": "充电宝",
       "onboard_time": 1750940841,
       "rank": 26,
@@ -5363,6 +5371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 264392,
+      "num": 325634,
+      "word": "华策经纪严正声明",
+      "onboard_time": 1750944983,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 264014,
       "num": 264014,
       "word": "婚内强奸案当事人已离婚",
@@ -5561,14 +5577,6 @@
       "onboard_time": 1750658124,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 255056,
-      "num": 345064,
-      "word": "原来刘亦菲吃饭也是手机先吃",
-      "onboard_time": 1750942583,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 254441,
@@ -5779,6 +5787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 245776,
+      "num": 360196,
+      "word": "蒋欣演技",
+      "onboard_time": 1750944023,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 245162,
       "num": 245162,
       "word": "伊朗总统说美国必须付出代价",
@@ -5841,6 +5857,14 @@
       "onboard_time": 1750747699,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 241856,
+      "num": 241856,
+      "word": "小米YU7颜色",
+      "onboard_time": 1750942944,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 241444,
@@ -6459,6 +6483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217477,
+      "num": 454732,
+      "word": "小米首款AI眼镜发布",
+      "onboard_time": 1750943724,
+      "rank": 21,
+      "category": "数码"
+    },
+    {
       "raw_hot": 217391,
       "num": 260401,
       "word": "刘宇宁下点毒全炫自己嘴里了",
@@ -6505,6 +6537,14 @@
       "onboard_time": 1750739845,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 216116,
+      "num": 216116,
+      "word": "金晨裸肩红黑格子裙",
+      "onboard_time": 1750944864,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 216025,
@@ -6697,6 +6737,14 @@
       "onboard_time": 1750565723,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 211415,
+      "num": 320157,
+      "word": "童瑶给王宝强张若昀颁奖",
+      "onboard_time": 1750944744,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 210291,
@@ -7251,6 +7299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 199984,
+      "num": 199984,
+      "word": "宋茜LV大秀红毯造型",
+      "onboard_time": 1750944804,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 199978,
       "num": 199978,
       "word": "3C充电宝",
@@ -7369,6 +7425,14 @@
       "onboard_time": 1750654344,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198322,
+      "num": 198322,
+      "word": "王嘉尔LV活动生图",
+      "onboard_time": 1750944264,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 198287,
@@ -7843,12 +7907,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 192500,
-      "num": 192500,
-      "word": "小米YU7颜色",
-      "onboard_time": 1750942944,
-      "rank": 41,
-      "category": "汽车"
+      "raw_hot": 192519,
+      "num": 192519,
+      "word": "做无痛胃镜差点把麻醉医生投诉了",
+      "onboard_time": 1750940783,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 192406,
@@ -8187,6 +8251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 186812,
+      "num": 341231,
+      "word": "高中生体育课玩手机被留校察看半年",
+      "onboard_time": 1750942884,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186808,
       "num": 237072,
       "word": "于适在巴黎暴雨中做英文报道",
@@ -8465,6 +8537,14 @@
       "onboard_time": 1750858583,
       "rank": 27,
       "category": "数码"
+    },
+    {
+      "raw_hot": 180571,
+      "num": 180571,
+      "word": "LV大秀直播",
+      "onboard_time": 1750945044,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 180398,
@@ -8923,6 +9003,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 170960,
+      "num": 170960,
+      "word": "别伤害我推了",
+      "onboard_time": 1750942703,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 170836,
       "num": 170836,
       "word": "刘宇宁新剧连失初吻二吻三吻",
@@ -9017,14 +9105,6 @@
       "onboard_time": 1750584862,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 169788,
-      "num": 169788,
-      "word": "做无痛胃镜差点把麻醉医生投诉了",
-      "onboard_time": 1750940783,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 169731,
@@ -9401,6 +9481,14 @@
       "onboard_time": 1750930401,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163314,
+      "num": 163314,
+      "word": "广东地震干饭小孩哥火到了西班牙",
+      "onboard_time": 1750944204,
+      "rank": 44,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 163281,
@@ -9955,6 +10043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 155204,
+      "num": 155204,
+      "word": "都说了钓鱼佬情比金坚",
+      "onboard_time": 1750944983,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155193,
       "num": 155193,
       "word": "QQ崩了",
@@ -10379,6 +10475,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 148921,
+      "num": 148921,
+      "word": "你不发火不是因为大度是因为窝囊",
+      "onboard_time": 1750944562,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 148874,
       "num": 148874,
       "word": "考文垂与樊振东张雨霏的缘分",
@@ -10417,14 +10521,6 @@
       "onboard_time": 1750825465,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 148319,
-      "num": 148319,
-      "word": "别伤害我推了",
-      "onboard_time": 1750942703,
-      "rank": 49,
-      "category": "动漫"
     },
     {
       "raw_hot": 148284,
@@ -14412,7 +14508,7 @@
     },
     {
       "raw_hot": 95084,
-      "num": 361971,
+      "num": 458635,
       "word": "小米MIXFlip2上线AI定制萌宠功能",
       "onboard_time": 1750941983,
       "rank": 18,
@@ -14777,6 +14873,14 @@
       "onboard_time": 1750933282,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 84405,
+      "num": 457354,
+      "word": "小米发布全新随身拍套装",
+      "onboard_time": 1750943184,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 84163,
@@ -15499,14 +15603,6 @@
       "category": "国际时政,民生新闻"
     },
     {
-      "raw_hot": 65362,
-      "num": 264591,
-      "word": "小米发布全新随身拍套装",
-      "onboard_time": 1750943184,
-      "rank": 31,
-      "category": "数码"
-    },
-    {
       "raw_hot": 65262,
       "num": 282427,
       "word": "海南本科线480分",
@@ -15536,6 +15632,14 @@
       "word": "男生高考699分称比预期低",
       "onboard_time": 1750786456,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64428,
+      "num": 467534,
+      "word": "台湾女孩回浙探亲被白衣天使救下一命",
+      "onboard_time": 1750937542,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -15873,6 +15977,14 @@
       "onboard_time": 1750651285,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 56741,
+      "num": 466422,
+      "word": "LV上海活动",
+      "onboard_time": 1750943484,
+      "rank": 10,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 56567,
@@ -16227,14 +16339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 49983,
-      "num": 341231,
-      "word": "高中生体育课玩手机被留校察看半年",
-      "onboard_time": 1750942884,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 49751,
       "num": 367827,
       "word": "户外团队在大青山高寒草甸挖沟烧烤",
@@ -16441,6 +16545,14 @@
       "onboard_time": 1750547838,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 44703,
+      "num": 456425,
+      "word": "网友称充电宝不在召回范围仍被扣留",
+      "onboard_time": 1750944085,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44634,
