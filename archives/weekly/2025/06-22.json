@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750937008264,
+  "endTime": 1750937971937,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -185,6 +185,14 @@
       "onboard_time": 1750916183,
       "rank": 22,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 2082962,
+      "num": 2082962,
+      "word": "LV大秀",
+      "onboard_time": 1750936041,
+      "rank": 0,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 2056623,
@@ -516,7 +524,7 @@
     },
     {
       "raw_hot": 1280792,
-      "num": 366972,
+      "num": 388285,
       "word": "韩雪 文物前打强光",
       "onboard_time": 1750926142,
       "rank": 10,
@@ -579,14 +587,6 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 1209255,
-      "num": 1209255,
-      "word": "LV大秀",
-      "onboard_time": 1750936041,
-      "rank": 0,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 1199931,
       "num": 548836,
       "word": "伊朗火力全开",
@@ -617,6 +617,14 @@
       "onboard_time": 1750735344,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1151552,
+      "num": 388734,
+      "word": "刘亦菲裙子",
+      "onboard_time": 1750936341,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1143160,
@@ -1019,6 +1027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 847041,
+      "num": 388655,
+      "word": "27岁真的还很年轻很年轻",
+      "onboard_time": 1750934902,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 843538,
       "num": 594414,
       "word": "张若昀庆余年3官宣",
@@ -1209,14 +1225,6 @@
       "onboard_time": 1750907421,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 777893,
-      "num": 370194,
-      "word": "27岁真的还很年轻很年轻",
-      "onboard_time": 1750934902,
-      "rank": 10,
-      "category": "情感"
     },
     {
       "raw_hot": 776504,
@@ -2531,6 +2539,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 499893,
+      "num": 499893,
+      "word": "小米汽车",
+      "onboard_time": 1750934422,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 499701,
       "num": 290918,
       "word": "孕妇1天2杯奶茶致早产孩子仅3斤2两",
@@ -3179,6 +3195,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 423565,
+      "num": 423565,
+      "word": "特朗普自曝批准伊朗空袭美军基地",
+      "onboard_time": 1750934962,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 422414,
       "num": 422414,
       "word": "美军用超125架战机作诱饵打击伊朗",
@@ -3539,6 +3563,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 390021,
+      "num": 390021,
+      "word": "山西蒲县疾控一职工1岁工作22岁退休",
+      "onboard_time": 1750935681,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 385777,
       "num": 385777,
       "word": "美国轰炸伊朗核设施",
@@ -3745,14 +3777,6 @@
       "onboard_time": 1750679003,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 366684,
-      "num": 366684,
-      "word": "小米汽车",
-      "onboard_time": 1750934422,
-      "rank": 18,
-      "category": "汽车"
     },
     {
       "raw_hot": 364851,
@@ -4227,6 +4251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 331565,
+      "num": 331565,
+      "word": "白玉兰荣耀之夜红毯",
+      "onboard_time": 1750936162,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 330922,
       "num": 330922,
       "word": "雷军再透露小米YU7价格",
@@ -4281,14 +4313,6 @@
       "onboard_time": 1750762882,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 326470,
-      "num": 326470,
-      "word": "刘亦菲裙子",
-      "onboard_time": 1750936341,
-      "rank": 15,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 326081,
@@ -5051,14 +5075,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 272355,
-      "num": 371917,
-      "word": "特朗普自曝批准伊朗空袭美军基地",
-      "onboard_time": 1750934962,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 272161,
       "num": 272161,
       "word": "小米YU7本周正式发布",
@@ -5419,6 +5435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 252366,
+      "num": 252366,
+      "word": "白玉兰提名晚宴",
+      "onboard_time": 1750936823,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 252251,
       "num": 308936,
       "word": "九重紫",
@@ -5609,14 +5633,6 @@
       "onboard_time": 1750636941,
       "rank": 23,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 244873,
-      "num": 244873,
-      "word": "山西蒲县疾控一职工1岁工作22岁退休",
-      "onboard_time": 1750935681,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 244867,
@@ -5891,19 +5907,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 232097,
+      "num": 232097,
+      "word": "王鹤棣LV活动嘉宾",
+      "onboard_time": 1750935382,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 231797,
       "num": 314060,
       "word": "张婧仪复仇掀桌戏看爽了",
       "onboard_time": 1750599024,
       "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 231397,
-      "num": 231397,
-      "word": "白玉兰荣耀之夜红毯",
-      "onboard_time": 1750936162,
-      "rank": 21,
       "category": "剧集"
     },
     {
@@ -5953,6 +5969,14 @@
       "onboard_time": 1750835242,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 229455,
+      "num": 229455,
+      "word": "林诗栋说樊振东一直是偶像",
+      "onboard_time": 1750936461,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 229116,
@@ -6369,14 +6393,6 @@
       "onboard_time": 1750657642,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 215119,
-      "num": 215119,
-      "word": "王鹤棣LV活动嘉宾",
-      "onboard_time": 1750935382,
-      "rank": 24,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 214962,
@@ -6827,6 +6843,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 203682,
+      "num": 203682,
+      "word": "王楚钦亮相LV大秀",
+      "onboard_time": 1750937662,
+      "rank": 24,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 203680,
       "num": 459832,
       "word": "男子打死女友儿子被判死刑",
@@ -6985,6 +7009,14 @@
       "onboard_time": 1750585462,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201479,
+      "num": 201479,
+      "word": "时代少年团合体亮相上海",
+      "onboard_time": 1750937542,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 201330,
@@ -8131,14 +8163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 183247,
-      "num": 183247,
-      "word": "林诗栋说樊振东一直是偶像",
-      "onboard_time": 1750936461,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 182909,
       "num": 433518,
       "word": "国产剧终于有不择手段的恶人女主",
@@ -8649,6 +8673,14 @@
       "onboard_time": 1750564822,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171387,
+      "num": 161735,
+      "word": "99平的家住出了200平的感觉",
+      "onboard_time": 1750935801,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 171260,
@@ -9307,6 +9339,14 @@
       "category": "艺人,休闲"
     },
     {
+      "raw_hot": 160770,
+      "num": 160770,
+      "word": "徐明浩LV活动造型",
+      "onboard_time": 1750937781,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 160579,
       "num": 160579,
       "word": "陈赫回复王勉",
@@ -9361,14 +9401,6 @@
       "onboard_time": 1750775006,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 160073,
-      "num": 160073,
-      "word": "99平的家住出了200平的感觉",
-      "onboard_time": 1750935801,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 160070,
@@ -9699,6 +9731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155224,
+      "num": 155224,
+      "word": "雷军黑衬衫",
+      "onboard_time": 1750937542,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 155214,
       "num": 155214,
       "word": "光与夜之恋四周年寄语",
@@ -9993,14 +10033,6 @@
       "onboard_time": 1750606102,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 151220,
-      "num": 151220,
-      "word": "白玉兰提名晚宴",
-      "onboard_time": 1750936823,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 151203,
@@ -11484,7 +11516,7 @@
     },
     {
       "raw_hot": 133000,
-      "num": 343039,
+      "num": 388292,
       "word": "从杭州到墨脱才知道拼多多有多香",
       "onboard_time": 1750928902,
       "rank": 19,
@@ -11785,6 +11817,14 @@
       "onboard_time": 1750830321,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129753,
+      "num": 129753,
+      "word": "邓超去上海看鹿晗演唱会",
+      "onboard_time": 1750937242,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 129524,
@@ -12779,6 +12819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116184,
+      "num": 116184,
+      "word": "不要相信女生发的任何文案",
+      "onboard_time": 1750937841,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 115969,
       "num": 115969,
       "word": "社区回应一小区投票表决扑杀流浪狗",
@@ -12977,6 +13025,14 @@
       "onboard_time": 1750928302,
       "rank": 40,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 113497,
+      "num": 113497,
+      "word": "好了没 好尴尬",
+      "onboard_time": 1750937781,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 113417,
@@ -14315,6 +14371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89118,
+      "num": 117370,
+      "word": "现在的烤箱都进化成这样了吗",
+      "onboard_time": 1750937182,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88994,
       "num": 88994,
       "word": "16岁高中生10元成本净赚120",
@@ -15147,6 +15211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66031,
+      "num": 388909,
+      "word": "魏大勋张康乐同场看秀",
+      "onboard_time": 1750933822,
+      "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 65901,
       "num": 159565,
       "word": "哈利伯顿退出总决赛G7",
@@ -15881,14 +15953,6 @@
       "onboard_time": 1750801635,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 50036,
-      "num": 369316,
-      "word": "魏大勋张康乐同场看秀",
-      "onboard_time": 1750933822,
-      "rank": 13,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 49751,

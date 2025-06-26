@@ -1,6 +1,6 @@
 {
   "startTime": 1750869299096,
-  "endTime": 1750937008264,
+  "endTime": 1750937971937,
   "band_list": [
     {
       "raw_hot": 8095208,
@@ -27,6 +27,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 2082962,
+      "num": 2082962,
+      "word": "LV大秀",
+      "onboard_time": 1750936041,
+      "rank": 0,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 2056623,
       "num": 320434,
       "word": "都美竹回应骗钱",
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 1280792,
-      "num": 366972,
+      "num": 388285,
       "word": "韩雪 文物前打强光",
       "onboard_time": 1750926142,
       "rank": 10,
@@ -67,11 +75,11 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 1209255,
-      "num": 1209255,
-      "word": "LV大秀",
-      "onboard_time": 1750936041,
-      "rank": 0,
+      "raw_hot": 1151552,
+      "num": 388734,
+      "word": "刘亦菲裙子",
+      "onboard_time": 1750936341,
+      "rank": 15,
       "category": "作品衍生,时尚"
     },
     {
@@ -107,6 +115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 847041,
+      "num": 388655,
+      "word": "27岁真的还很年轻很年轻",
+      "onboard_time": 1750934902,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 843071,
       "num": 843071,
       "word": "小米发布会",
@@ -137,14 +153,6 @@
       "onboard_time": 1750907421,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 777893,
-      "num": 370194,
-      "word": "27岁真的还很年轻很年轻",
-      "onboard_time": 1750934902,
-      "rank": 10,
-      "category": "情感"
     },
     {
       "raw_hot": 773130,
@@ -379,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 499893,
+      "num": 499893,
+      "word": "小米汽车",
+      "onboard_time": 1750934422,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 498482,
       "num": 371091,
       "word": "徐艺洋一周前曾回应怀孕传闻",
@@ -449,6 +465,14 @@
       "onboard_time": 1750924342,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 423565,
+      "num": 423565,
+      "word": "特朗普自曝批准伊朗空袭美军基地",
+      "onboard_time": 1750934962,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 421855,
@@ -523,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 390021,
+      "num": 390021,
+      "word": "山西蒲县疾控一职工1岁工作22岁退休",
+      "onboard_time": 1750935681,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 374769,
       "num": 374769,
       "word": "BLACKPINK世巡概念预告",
@@ -537,14 +569,6 @@
       "onboard_time": 1750929683,
       "rank": 17,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 366684,
-      "num": 366684,
-      "word": "小米汽车",
-      "onboard_time": 1750934422,
-      "rank": 18,
-      "category": "汽车"
     },
     {
       "raw_hot": 364588,
@@ -619,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 331565,
+      "num": 331565,
+      "word": "白玉兰荣耀之夜红毯",
+      "onboard_time": 1750936162,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 327524,
       "num": 359577,
       "word": "刘轩丞方回应",
@@ -633,14 +665,6 @@
       "onboard_time": 1750929863,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 326470,
-      "num": 326470,
-      "word": "刘亦菲裙子",
-      "onboard_time": 1750936341,
-      "rank": 15,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 321627,
@@ -755,14 +779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 272355,
-      "num": 371917,
-      "word": "特朗普自曝批准伊朗空袭美军基地",
-      "onboard_time": 1750934962,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 266454,
       "num": 266454,
       "word": "鹅鸭杀开测",
@@ -827,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252366,
+      "num": 252366,
+      "word": "白玉兰提名晚宴",
+      "onboard_time": 1750936823,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 251958,
       "num": 217781,
       "word": "这届年轻人靠认知差赚了多少钱",
@@ -841,14 +865,6 @@
       "onboard_time": 1750910844,
       "rank": 15,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 244873,
-      "num": 244873,
-      "word": "山西蒲县疾控一职工1岁工作22岁退休",
-      "onboard_time": 1750935681,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 242598,
@@ -883,12 +899,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 231397,
-      "num": 231397,
-      "word": "白玉兰荣耀之夜红毯",
-      "onboard_time": 1750936162,
-      "rank": 21,
-      "category": "剧集"
+      "raw_hot": 232097,
+      "num": 232097,
+      "word": "王鹤棣LV活动嘉宾",
+      "onboard_time": 1750935382,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 229455,
+      "num": 229455,
+      "word": "林诗栋说樊振东一直是偶像",
+      "onboard_time": 1750936461,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 226291,
@@ -929,14 +953,6 @@
       "onboard_time": 1750906400,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 215119,
-      "num": 215119,
-      "word": "王鹤棣LV活动嘉宾",
-      "onboard_time": 1750935382,
-      "rank": 24,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 213227,
@@ -987,12 +1003,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 203682,
+      "num": 203682,
+      "word": "王楚钦亮相LV大秀",
+      "onboard_time": 1750937662,
+      "rank": 24,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 202406,
       "num": 202406,
       "word": "91岁游本昌露面大笑说活过来了",
       "onboard_time": 1750904180,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201479,
+      "num": 201479,
+      "word": "时代少年团合体亮相上海",
+      "onboard_time": 1750937542,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 199978,
@@ -1147,14 +1179,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 183247,
-      "num": 183247,
-      "word": "林诗栋说樊振东一直是偶像",
-      "onboard_time": 1750936461,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 182879,
       "num": 182879,
       "word": "普吉岛炸弹",
@@ -1275,6 +1299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171387,
+      "num": 161735,
+      "word": "99平的家住出了200平的感觉",
+      "onboard_time": 1750935801,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 170836,
       "num": 170836,
       "word": "刘宇宁新剧连失初吻二吻三吻",
@@ -1387,20 +1419,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160770,
+      "num": 160770,
+      "word": "徐明浩LV活动造型",
+      "onboard_time": 1750937781,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 160261,
       "num": 160261,
       "word": "小时候没带走的亲女儿死后为她迁坟",
       "onboard_time": 1750926862,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 160073,
-      "num": 160073,
-      "word": "99平的家住出了200平的感觉",
-      "onboard_time": 1750935801,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 160070,
@@ -1449,6 +1481,14 @@
       "onboard_time": 1750925841,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155224,
+      "num": 155224,
+      "word": "雷军黑衬衫",
+      "onboard_time": 1750937542,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 154673,
@@ -1521,14 +1561,6 @@
       "onboard_time": 1750935022,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 151220,
-      "num": 151220,
-      "word": "白玉兰提名晚宴",
-      "onboard_time": 1750936823,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 151203,
@@ -1764,7 +1796,7 @@
     },
     {
       "raw_hot": 133000,
-      "num": 343039,
+      "num": 388292,
       "word": "从杭州到墨脱才知道拼多多有多香",
       "onboard_time": 1750928902,
       "rank": 19,
@@ -1801,6 +1833,14 @@
       "onboard_time": 1750919481,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 129753,
+      "num": 129753,
+      "word": "邓超去上海看鹿晗演唱会",
+      "onboard_time": 1750937242,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 129524,
@@ -1979,6 +2019,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 116184,
+      "num": 116184,
+      "word": "不要相信女生发的任何文案",
+      "onboard_time": 1750937841,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 116140,
       "num": 116140,
       "word": "伊朗称核设施在美空袭中严重受损",
@@ -2017,6 +2065,14 @@
       "onboard_time": 1750928302,
       "rank": 40,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 113497,
+      "num": 113497,
+      "word": "好了没 好尴尬",
+      "onboard_time": 1750937781,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 113417,
@@ -2379,6 +2435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89118,
+      "num": 117370,
+      "word": "现在的烤箱都进化成这样了吗",
+      "onboard_time": 1750937182,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89044,
       "num": 89044,
       "word": "梅森马吉拉 孙颖莎",
@@ -2579,6 +2643,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 66031,
+      "num": 388909,
+      "word": "魏大勋张康乐同场看秀",
+      "onboard_time": 1750933822,
+      "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 65948,
       "num": 257776,
       "word": "八路军抗日战场上牺牲的最高指挥员",
@@ -2737,14 +2809,6 @@
       "onboard_time": 1750920441,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 50036,
-      "num": 369316,
-      "word": "魏大勋张康乐同场看秀",
-      "onboard_time": 1750933822,
-      "rank": 13,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 49680,
