@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750958658957,
+  "endTime": 1750959767550,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -2147,8 +2147,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 584318,
-      "num": 584318,
+      "raw_hot": 584329,
+      "num": 584329,
       "word": "蔡依林",
       "onboard_time": 1750955959,
       "rank": 16,
@@ -8459,6 +8459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 187840,
+      "num": 187840,
+      "word": "刘亦菲美的不知天地为何物了",
+      "onboard_time": 1750956319,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187642,
       "num": 187642,
       "word": "也门胡塞武装发声",
@@ -12201,14 +12209,6 @@
       "onboard_time": 1750908741,
       "rank": 38,
       "category": "数码"
-    },
-    {
-      "raw_hot": 134430,
-      "num": 134430,
-      "word": "刘亦菲美的不知天地为何物了",
-      "onboard_time": 1750956319,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 134152,
@@ -18233,6 +18233,14 @@
       "onboard_time": 1750875376,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23726,
+      "num": 152523,
+      "word": "外卖骑手帮扔垃圾每单0.5元引热议",
+      "onboard_time": 1750959137,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23653,
