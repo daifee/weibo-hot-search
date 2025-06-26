@@ -1,7 +1,15 @@
 {
   "startTime": 1750869299096,
-  "endTime": 1750909038233,
+  "endTime": 1750912575498,
   "band_list": [
+    {
+      "raw_hot": 2154979,
+      "num": 2154979,
+      "word": "央视曝光有学生吸食火机气体成瘾",
+      "onboard_time": 1750908321,
+      "rank": 29,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1566423,
       "num": 1566423,
@@ -27,11 +35,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 798817,
+      "num": 798817,
+      "word": "延迟发朋友圈的好处",
+      "onboard_time": 1750909281,
+      "rank": 3,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 786062,
       "num": 786062,
       "word": "江苏卫视长安的荔枝撤档",
       "onboard_time": 1750903521,
       "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 780409,
+      "num": 780409,
+      "word": "李一桐大蜈蚣爬身上那部剧终于要播了",
+      "onboard_time": 1750907421,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -51,6 +75,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 702867,
+      "num": 673939,
+      "word": "小沈阳女儿cha大展鸿图",
+      "onboard_time": 1750902321,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 684960,
       "num": 684960,
       "word": "先锋书店禁商拍后现状",
@@ -67,20 +99,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 673939,
-      "num": 673939,
-      "word": "小沈阳女儿cha大展鸿图",
-      "onboard_time": 1750902321,
-      "rank": 17,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 631959,
       "num": 374302,
       "word": "月薪15000每月只花1000块",
       "onboard_time": 1750894038,
       "rank": 40,
       "category": "民生新闻,幽默"
+    },
+    {
+      "raw_hot": 631032,
+      "num": 631032,
+      "word": "陈震 小米",
+      "onboard_time": 1750907121,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 611160,
+      "num": 611160,
+      "word": "特朗普将袭击伊朗类比对日本投原子弹",
+      "onboard_time": 1750910541,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 568960,
@@ -105,14 +145,6 @@
       "onboard_time": 1750904482,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 550474,
-      "num": 550474,
-      "word": "陈震 小米",
-      "onboard_time": 1750907121,
-      "rank": 17,
-      "category": "汽车"
     },
     {
       "raw_hot": 547551,
@@ -179,14 +211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 435916,
-      "num": 435916,
-      "word": "李一桐大蜈蚣爬身上那部剧终于要播了",
-      "onboard_time": 1750907421,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 421855,
       "num": 421855,
       "word": "刘轩丞榜一大姐",
@@ -227,7 +251,7 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 398271,
+      "raw_hot": 399017,
       "num": 415665,
       "word": "樱桃琥珀",
       "onboard_time": 1750907121,
@@ -275,6 +299,14 @@
       "category": "艺人,休闲"
     },
     {
+      "raw_hot": 348209,
+      "num": 243633,
+      "word": "篮网选秀大爆冷",
+      "onboard_time": 1750912165,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 341804,
       "num": 341804,
       "word": "罗一舟突发意外受伤",
@@ -307,6 +339,14 @@
       "category": "民生新闻,幽默"
     },
     {
+      "raw_hot": 279044,
+      "num": 279044,
+      "word": "上海野生动物园回应大象群体霸凌",
+      "onboard_time": 1750910541,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 277697,
       "num": 277697,
       "word": "陈楚生 大梦",
@@ -323,6 +363,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 269550,
+      "num": 401770,
+      "word": "王安宇 我只是半夜的林黛玉",
+      "onboard_time": 1750910904,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 266454,
+      "num": 266454,
+      "word": "鹅鸭杀开测",
+      "onboard_time": 1750911324,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 266411,
       "num": 266411,
       "word": "LV 王楚钦",
@@ -336,6 +392,14 @@
       "word": "女儿见到失联半年的爸爸撒腿就跑",
       "onboard_time": 1750863683,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 264818,
+      "num": 370655,
+      "word": "错换人生28年姚策养父母诉生父母",
+      "onboard_time": 1750908440,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -371,6 +435,22 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 249998,
+      "num": 400732,
+      "word": "张朝阳张雪峰讨论选700分还是700万",
+      "onboard_time": 1750910844,
+      "rank": 15,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 242598,
+      "num": 242598,
+      "word": "海关大战labubu",
+      "onboard_time": 1750909462,
+      "rank": 31,
+      "category": "休闲,动漫"
+    },
+    {
       "raw_hot": 226291,
       "num": 226291,
       "word": "杨毅预测",
@@ -387,8 +467,16 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 221813,
+      "num": 262746,
+      "word": "李一桐王佑硕婚了么外卖已送达",
+      "onboard_time": 1750912465,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217391,
-      "num": 217391,
+      "num": 260401,
       "word": "刘宇宁下点毒全炫自己嘴里了",
       "onboard_time": 1750906400,
       "rank": 25,
@@ -401,6 +489,14 @@
       "onboard_time": 1750903222,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209782,
+      "num": 209782,
+      "word": "书卷一梦云包场",
+      "onboard_time": 1750912524,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 204604,
@@ -443,14 +539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 196215,
-      "num": 196215,
-      "word": "央视曝光有学生吸食火机气体成瘾",
-      "onboard_time": 1750908321,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 195539,
       "num": 195539,
       "word": "成何体统",
@@ -465,6 +553,14 @@
       "onboard_time": 1750907961,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179577,
+      "num": 211883,
+      "word": "沈腾要不给丁禹兮打个电话吧",
+      "onboard_time": 1750912405,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 179260,
@@ -515,12 +611,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 173743,
+      "num": 173743,
+      "word": "开拓者说没想到吧",
+      "onboard_time": 1750911864,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173343,
       "num": 223227,
       "word": "孟子义给边程发好人卡",
       "onboard_time": 1750899922,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169415,
+      "num": 169415,
+      "word": "十个5年内月薪仍低于3千的专业",
+      "onboard_time": 1750912044,
+      "rank": 42,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 168960,
@@ -555,12 +667,52 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160857,
+      "num": 160857,
+      "word": "荔枝价格",
+      "onboard_time": 1750909702,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 160070,
       "num": 160070,
       "word": "真人互动游戏女童出镜引争议",
       "onboard_time": 1750868661,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158539,
+      "num": 163857,
+      "word": "林一空降奢牌挚友title",
+      "onboard_time": 1750912405,
+      "rank": 43,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 158463,
+      "num": 158463,
+      "word": "贵州榕江洪灾致6人遇难",
+      "onboard_time": 1750910002,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156685,
+      "num": 156685,
+      "word": "男子吸食火机气体再抽烟引发爆炸",
+      "onboard_time": 1750908981,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156506,
+      "num": 156506,
+      "word": "诡秘之主终极预告115秒连刀",
+      "onboard_time": 1750911384,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 154424,
@@ -644,7 +796,7 @@
     },
     {
       "raw_hot": 134499,
-      "num": 134499,
+      "num": 254961,
       "word": "nova14系列有亿点点魔力",
       "onboard_time": 1750908741,
       "rank": 38,
@@ -707,14 +859,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 115632,
-      "num": 370655,
-      "word": "错换人生28年姚策养父母诉生父母",
-      "onboard_time": 1750908440,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 115303,
       "num": 114019,
       "word": "晋江硬刚哇唧唧哇",
@@ -744,14 +888,6 @@
       "word": "全班600分以上老师嘴角压不住了",
       "onboard_time": 1750853121,
       "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 107992,
-      "num": 107992,
-      "word": "男子吸食火机气体再抽烟引发爆炸",
-      "onboard_time": 1750908981,
-      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -827,6 +963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93422,
+      "num": 401079,
+      "word": "中国篮球协会发贺信祝贺杨瀚森",
+      "onboard_time": 1750911805,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89286,
       "num": 89286,
       "word": "重庆火车站今日停运3趟始发列车",
@@ -841,6 +985,14 @@
       "onboard_time": 1750847362,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86566,
+      "num": 402335,
+      "word": "白鹿我的必吃榜饭搭子",
+      "onboard_time": 1750910723,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 86341,
@@ -955,6 +1107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74405,
+      "num": 197995,
+      "word": "学会外耗",
+      "onboard_time": 1750912165,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 72066,
       "num": 179622,
       "word": "美国一航班发动机起火",
@@ -1051,6 +1211,22 @@
       "category": "美食,游戏"
     },
     {
+      "raw_hot": 56863,
+      "num": 248776,
+      "word": "充电宝安检新规",
+      "onboard_time": 1750912165,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52617,
+      "num": 399610,
+      "word": "大学生兼职后被当老板名下公司难撤销",
+      "onboard_time": 1750911684,
+      "rank": 18,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 50939,
       "num": 50939,
       "word": "王者S40赛季福利第一弹",
@@ -1088,6 +1264,14 @@
       "word": "梁实称如果明年再考会是最后一次",
       "onboard_time": 1750875256,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45438,
+      "num": 799829,
+      "word": "高考放榜网警守护",
+      "onboard_time": 1750898842,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -1163,6 +1347,22 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 30597,
+      "num": 400083,
+      "word": "榕江一地下商铺几乎被洪水淹没",
+      "onboard_time": 1750912285,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29808,
+      "num": 400467,
+      "word": "曾救助百名弃婴的道禄被警方控制",
+      "onboard_time": 1750912285,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29489,
       "num": 33166,
       "word": "女生打暑期工时查到第一次考过600分",
@@ -1185,6 +1385,14 @@
       "onboard_time": 1750875376,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23653,
+      "num": 192943,
+      "word": "知名coser全场巡游等你来集邮",
+      "onboard_time": 1750910482,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 22225,
@@ -1216,14 +1424,6 @@
       "word": "梁实第29次高考差本科线13分",
       "onboard_time": 1750877955,
       "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15412,
-      "num": 711522,
-      "word": "高考放榜网警守护",
-      "onboard_time": 1750898842,
-      "rank": 2,
       "category": "民生新闻"
     },
     {

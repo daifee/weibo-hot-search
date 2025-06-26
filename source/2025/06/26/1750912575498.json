@@ -1,0 +1,410 @@
+{
+  "runTime": 1750912575498,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2154979,
+        "num": 2154979,
+        "word": "央视曝光有学生吸食火机气体成瘾",
+        "onboard_time": 1750908321,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1204432,
+        "num": 1204432,
+        "word": "原来可乐是最公平的饮料",
+        "onboard_time": 1750905621,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 45438,
+        "num": 799829,
+        "word": "高考放榜网警守护",
+        "onboard_time": 1750898842,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 798817,
+        "num": 798817,
+        "word": "延迟发朋友圈的好处",
+        "onboard_time": 1750909281,
+        "rank": 3,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 780409,
+        "num": 780409,
+        "word": "李一桐大蜈蚣爬身上那部剧终于要播了",
+        "onboard_time": 1750907421,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 631032,
+        "num": 631032,
+        "word": "陈震 小米",
+        "onboard_time": 1750907121,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 611160,
+        "num": 611160,
+        "word": "特朗普将袭击伊朗类比对日本投原子弹",
+        "onboard_time": 1750910541,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 584230,
+        "num": 584230,
+        "word": "江苏卫视长安的荔枝撤档",
+        "onboard_time": 1750903521,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 441413,
+        "num": 441413,
+        "word": "杨瀚森第九位被选中的中国球员",
+        "onboard_time": 1750904482,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 402927,
+        "num": 402927,
+        "word": "美国B2幽灵轰炸机飞行员emo了",
+        "onboard_time": 1750901601,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 702867,
+        "num": 402653,
+        "word": "小沈阳女儿cha大展鸿图",
+        "onboard_time": 1750902321,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 86566,
+        "num": 402335,
+        "word": "白鹿我的必吃榜饭搭子",
+        "onboard_time": 1750910723,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269550,
+        "num": 401770,
+        "word": "王安宇 我只是半夜的林黛玉",
+        "onboard_time": 1750910904,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 565433,
+        "num": 401698,
+        "word": "成绩被屏蔽女孩坚信不存在智商差距",
+        "onboard_time": 1750865542,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93422,
+        "num": 401079,
+        "word": "中国篮球协会发贺信祝贺杨瀚森",
+        "onboard_time": 1750911805,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249998,
+        "num": 400732,
+        "word": "张朝阳张雪峰讨论选700分还是700万",
+        "onboard_time": 1750910844,
+        "rank": 15,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 29808,
+        "num": 400467,
+        "word": "曾救助百名弃婴的道禄被警方控制",
+        "onboard_time": 1750912285,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30597,
+        "num": 400083,
+        "word": "榕江一地下商铺几乎被洪水淹没",
+        "onboard_time": 1750912285,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52617,
+        "num": 399610,
+        "word": "大学生兼职后被当老板名下公司难撤销",
+        "onboard_time": 1750911684,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 495313,
+        "num": 399183,
+        "word": "闪婚不到一年丈夫起诉离婚讨百万彩礼",
+        "onboard_time": 1750906041,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 399017,
+        "num": 399017,
+        "word": "樱桃琥珀",
+        "onboard_time": 1750907121,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 362668,
+        "num": 362668,
+        "word": "刘轩丞榜一大姐",
+        "onboard_time": 1750905922,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 302551,
+        "num": 302551,
+        "word": "老师高考差3分输赌约全班坐等开饭",
+        "onboard_time": 1750903822,
+        "rank": 22,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 298157,
+        "num": 298157,
+        "word": "这位一等功臣至今没有露脸公开影像",
+        "onboard_time": 1750904001,
+        "rank": 23,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 279044,
+        "num": 279044,
+        "word": "上海野生动物园回应大象群体霸凌",
+        "onboard_time": 1750910541,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266454,
+        "num": 266454,
+        "word": "鹅鸭杀开测",
+        "onboard_time": 1750911324,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 221813,
+        "num": 262746,
+        "word": "李一桐王佑硕婚了么外卖已送达",
+        "onboard_time": 1750912465,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161593,
+        "num": 260401,
+        "word": "刘宇宁下点毒全炫自己嘴里了",
+        "onboard_time": 1750906400,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58416,
+        "num": 254961,
+        "word": "nova14系列有亿点点魔力",
+        "onboard_time": 1750908741,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 56863,
+        "num": 248776,
+        "word": "充电宝安检新规",
+        "onboard_time": 1750912165,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 348209,
+        "num": 243633,
+        "word": "篮网选秀大爆冷",
+        "onboard_time": 1750912165,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242598,
+        "num": 242598,
+        "word": "海关大战labubu",
+        "onboard_time": 1750909462,
+        "rank": 31,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 231951,
+        "num": 231951,
+        "word": "月薪15000每月只花1000块",
+        "onboard_time": 1750894038,
+        "rank": 32,
+        "category": "民生新闻,幽默"
+      },
+      {
+        "raw_hot": 219917,
+        "num": 219917,
+        "word": "杨瀚森薪资",
+        "onboard_time": 1750907061,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179577,
+        "num": 211883,
+        "word": "沈腾要不给丁禹兮打个电话吧",
+        "onboard_time": 1750912405,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209782,
+        "num": 209782,
+        "word": "书卷一梦云包场",
+        "onboard_time": 1750912524,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264818,
+        "num": 208377,
+        "word": "错换人生28年姚策养父母诉生父母",
+        "onboard_time": 1750908440,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159018,
+        "num": 202673,
+        "word": "黄奕低谷时曾被孙俪鼓舞",
+        "onboard_time": 1750907961,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74405,
+        "num": 197995,
+        "word": "学会外耗",
+        "onboard_time": 1750912165,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23653,
+        "num": 192943,
+        "word": "知名coser全场巡游等你来集邮",
+        "onboard_time": 1750910482,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 187832,
+        "num": 187832,
+        "word": "副教授被害前还在给学生改论文",
+        "onboard_time": 1750907301,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173743,
+        "num": 173743,
+        "word": "开拓者说没想到吧",
+        "onboard_time": 1750911864,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169415,
+        "num": 169415,
+        "word": "十个5年内月薪仍低于3千的专业",
+        "onboard_time": 1750912044,
+        "rank": 42,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 158539,
+        "num": 163857,
+        "word": "林一空降奢牌挚友title",
+        "onboard_time": 1750912405,
+        "rank": 43,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 160857,
+        "num": 160857,
+        "word": "荔枝价格",
+        "onboard_time": 1750909702,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 158463,
+        "num": 158463,
+        "word": "贵州榕江洪灾致6人遇难",
+        "onboard_time": 1750910002,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156685,
+        "num": 156685,
+        "word": "男子吸食火机气体再抽烟引发爆炸",
+        "onboard_time": 1750908981,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153452,
+        "num": 156595,
+        "word": "BLACKPINK世巡概念预告",
+        "onboard_time": 1750901301,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156506,
+        "num": 156506,
+        "word": "诡秘之主终极预告115秒连刀",
+        "onboard_time": 1750911384,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 154637,
+        "num": 154637,
+        "word": "杨瀚森第16顺位被选中",
+        "onboard_time": 1750904180,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记对土地的深情#"
+    }
+  }
+}
