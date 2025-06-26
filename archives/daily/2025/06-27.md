@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/27 00:33:01 ~ 2025/06/27 04:43:26
+本榜单时间：2025/06/27 00:33:01 ~ 2025/06/27 05:25:20
 </p>
 </blockquote>
 <p>
@@ -405,6 +405,24 @@ hamin机场（热度：24603）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%81%93%E7%A6%84%E8%A2%AB%E9%87%87%E5%8F%96%E5%88%91%E4%BA%8B%E5%BC%BA%E5%88%B6%E6%8E%AA%E6%96%BD%23" target="weibo">
+道禄被采取刑事强制措施（热度：20728）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E4%BD%93%E8%82%B2%E8%AF%BE%E7%8E%A9%E6%89%8B%E6%9C%BA%E8%A2%AB%E5%A4%84%E5%88%86%23" target="weibo">
+教育局回应学生体育课玩手机被处分（热度：20622）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%A4%E6%96%87%E5%9B%BE%E6%96%AFvs%E6%9B%BC%E5%9F%8E%23" target="weibo">
+尤文图斯vs曼城（热度：20209）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%85%A4%E6%B0%94%E6%B3%84%E9%9C%B214%E5%B2%81%E7%94%B7%E7%94%9F%E6%95%91%E4%BA%86%E6%95%B4%E6%A0%8B%E6%A5%BC%23" target="weibo">
 煤气泄露14岁男生救了整栋楼（热度：20080）
 </a>
@@ -417,14 +435,8 @@ hamin机场（热度：24603）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%A4%E6%96%87%E5%9B%BE%E6%96%AFvs%E6%9B%BC%E5%9F%8E%23" target="weibo">
-尤文图斯vs曼城（热度：18705）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E4%BD%93%E8%82%B2%E8%AF%BE%E7%8E%A9%E6%89%8B%E6%9C%BA%E8%A2%AB%E5%A4%84%E5%88%86%23" target="weibo">
-教育局回应学生体育课玩手机被处分（热度：17284）
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%97%E8%BD%A6%E8%BD%A6%E6%AC%A1%E9%A6%96%E5%AD%97%E6%AF%8D%E5%8E%9F%E6%9D%A5%E6%98%AF%E8%BF%99%E4%B8%AA%E6%84%8F%E6%80%9D%23" target="weibo">
+列车车次首字母原来是这个意思（热度：15798）
 </a>
 </li>
 
@@ -443,12 +455,6 @@ hamin机场（热度：24603）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B4%BB%E5%8A%9B%E4%B8%AD%E5%9B%BD%E8%B0%83%E7%A0%94%E8%A1%8C%23" target="weibo">
 活力中国调研行（热度：13423）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%97%E8%BD%A6%E8%BD%A6%E6%AC%A1%E9%A6%96%E5%AD%97%E6%AF%8D%E5%8E%9F%E6%9D%A5%E6%98%AF%E8%BF%99%E4%B8%AA%E6%84%8F%E6%80%9D%23" target="weibo">
-列车车次首字母原来是这个意思（热度：12277）
 </a>
 </li>
 

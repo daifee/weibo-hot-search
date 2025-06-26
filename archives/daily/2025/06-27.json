@@ -1,6 +1,6 @@
 {
   "startTime": 1750955581651,
-  "endTime": 1750970606733,
+  "endTime": 1750973120318,
   "band_list": [
     {
       "raw_hot": 3091316,
@@ -523,6 +523,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 20728,
+      "num": 20728,
+      "word": "道禄被采取刑事强制措施",
+      "onboard_time": 1750970773,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20622,
+      "num": 20622,
+      "word": "教育局回应学生体育课玩手机被处分",
+      "onboard_time": 1750967174,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20209,
+      "num": 20209,
+      "word": "尤文图斯vs曼城",
+      "onboard_time": 1750966514,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 20080,
       "num": 23756,
       "word": "煤气泄露14岁男生救了整栋楼",
@@ -539,19 +563,11 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 18705,
-      "num": 18705,
-      "word": "尤文图斯vs曼城",
-      "onboard_time": 1750966514,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 17284,
-      "num": 17284,
-      "word": "教育局回应学生体育课玩手机被处分",
-      "onboard_time": 1750967174,
-      "rank": 43,
+      "raw_hot": 15798,
+      "num": 35675,
+      "word": "列车车次首字母原来是这个意思",
+      "onboard_time": 1750968675,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -564,7 +580,7 @@
     },
     {
       "raw_hot": 15146,
-      "num": 17277,
+      "num": 17278,
       "word": "娄滋博团播",
       "onboard_time": 1750966874,
       "rank": 45,
@@ -577,14 +593,6 @@
       "onboard_time": 1750933102,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 12277,
-      "num": 35675,
-      "word": "列车车次首字母原来是这个意思",
-      "onboard_time": 1750968675,
-      "rank": 14,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
