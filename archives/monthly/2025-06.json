@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750942452087,
+  "endTime": 1750943369379,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -1123,6 +1123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1964516,
+      "num": 1964516,
+      "word": "288分女生接到高校电话",
+      "onboard_time": 1750941623,
+      "rank": 0,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 1960632,
       "num": 1960632,
       "word": "学生查出713分老师集体沸腾了",
@@ -1561,6 +1569,14 @@
       "onboard_time": 1749100402,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1699502,
+      "num": 1699502,
+      "word": "小米YU7价格",
+      "onboard_time": 1750940903,
+      "rank": 1,
+      "category": "汽车"
     },
     {
       "raw_hot": 1695675,
@@ -2465,14 +2481,6 @@
       "onboard_time": 1748834779,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1359100,
-      "num": 1359100,
-      "word": "小米YU7价格",
-      "onboard_time": 1750940903,
-      "rank": 1,
-      "category": "汽车"
     },
     {
       "raw_hot": 1359068,
@@ -3452,7 +3460,7 @@
     },
     {
       "raw_hot": 1151552,
-      "num": 415982,
+      "num": 426940,
       "word": "刘亦菲裙子",
       "onboard_time": 1750936341,
       "rank": 15,
@@ -5515,6 +5523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 872532,
+      "num": 426237,
+      "word": "好了没 好尴尬",
+      "onboard_time": 1750937781,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 871858,
       "num": 531929,
       "word": "砍死祖孙三代凶手称吃5年精神病药",
@@ -6257,6 +6273,14 @@
       "onboard_time": 1749473001,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 805723,
+      "num": 805723,
+      "word": "王楚钦亮相LV大秀",
+      "onboard_time": 1750937662,
+      "rank": 24,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 805710,
@@ -7171,14 +7195,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 741690,
-      "num": 741690,
-      "word": "王楚钦亮相LV大秀",
-      "onboard_time": 1750937662,
-      "rank": 24,
-      "category": "体育,时尚"
-    },
-    {
       "raw_hot": 741470,
       "num": 549542,
       "word": "伊朗称将向世界展示力量",
@@ -7273,6 +7289,14 @@
       "onboard_time": 1750046542,
       "rank": 3,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 735801,
+      "num": 735801,
+      "word": "小米AI眼镜",
+      "onboard_time": 1750941922,
+      "rank": 7,
+      "category": "数码"
     },
     {
       "raw_hot": 735495,
@@ -8875,14 +8899,6 @@
       "category": "民生新闻,时尚"
     },
     {
-      "raw_hot": 648130,
-      "num": 410613,
-      "word": "好了没 好尴尬",
-      "onboard_time": 1750937781,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 647115,
       "num": 647115,
       "word": "九门尹新月扮演者",
@@ -8969,6 +8985,14 @@
       "onboard_time": 1750839922,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 643742,
+      "num": 643742,
+      "word": "1岁工作22岁退休",
+      "onboard_time": 1750935681,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 643728,
@@ -14107,14 +14131,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 462789,
-      "num": 462789,
-      "word": "小米AI眼镜",
-      "onboard_time": 1750941922,
-      "rank": 7,
-      "category": "数码"
-    },
-    {
       "raw_hot": 462772,
       "num": 551365,
       "word": "被咬身亡女子家属称已有死亡诊断",
@@ -15115,6 +15131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 433401,
+      "num": 433401,
+      "word": "小米YU7",
+      "onboard_time": 1750669463,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 433210,
       "num": 433210,
       "word": "湘雅二医院罗帅宇事件仍在调查",
@@ -15265,6 +15289,14 @@
       "onboard_time": 1749036380,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 429791,
+      "num": 338716,
+      "word": "翔霖",
+      "onboard_time": 1750942404,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 429772,
@@ -15497,14 +15529,6 @@
       "onboard_time": 1750042040,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 423257,
-      "num": 423257,
-      "word": "1岁工作22岁退休",
-      "onboard_time": 1750935681,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 422956,
@@ -15817,6 +15841,14 @@
       "onboard_time": 1749449960,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 416104,
+      "num": 416104,
+      "word": "明星LV大秀红毯生图",
+      "onboard_time": 1750940245,
+      "rank": 14,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 415992,
@@ -17507,14 +17539,6 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 380089,
-      "num": 395889,
-      "word": "明星LV大秀红毯生图",
-      "onboard_time": 1750940245,
-      "rank": 14,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 379808,
       "num": 480714,
       "word": "乘客曝印度坠机前序航班异常",
@@ -18041,6 +18065,14 @@
       "onboard_time": 1749040700,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 369949,
+      "num": 389369,
+      "word": "白玉兰提名晚宴",
+      "onboard_time": 1750936823,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 369763,
@@ -19963,6 +19995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 338262,
+      "num": 420129,
+      "word": "哈梅内伊发文祝贺伊朗战胜以色列",
+      "onboard_time": 1750940482,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 338196,
       "num": 410418,
       "word": "终于切身体会到什么是莞莞类卿了",
@@ -20129,14 +20169,6 @@
       "onboard_time": 1750773205,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 335456,
-      "num": 389369,
-      "word": "白玉兰提名晚宴",
-      "onboard_time": 1750936823,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 335422,
@@ -22331,6 +22363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 300525,
+      "num": 354442,
+      "word": "十年前没人敢选的专业翻红了",
+      "onboard_time": 1750938622,
+      "rank": 19,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 300318,
       "num": 503810,
       "word": "伊朗真的会封闭霍尔木兹海峡吗",
@@ -22457,6 +22497,14 @@
       "onboard_time": 1750118779,
       "rank": 15,
       "category": "互联网,幽默"
+    },
+    {
+      "raw_hot": 299007,
+      "num": 299007,
+      "word": "陆景和 酱子贝",
+      "onboard_time": 1750942283,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 298887,
@@ -23441,6 +23489,14 @@
       "onboard_time": 1750735881,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 285724,
+      "num": 285724,
+      "word": "充电宝",
+      "onboard_time": 1750940841,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 285695,
@@ -24956,7 +25012,7 @@
     },
     {
       "raw_hot": 268346,
-      "num": 269461,
+      "num": 286640,
       "word": "白敬亭龚俊王鹤棣徐明浩红毯live图",
       "onboard_time": 1750940841,
       "rank": 23,
@@ -26403,6 +26459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 255056,
+      "num": 345064,
+      "word": "原来刘亦菲吃饭也是手机先吃",
+      "onboard_time": 1750942583,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 255010,
       "num": 255010,
       "word": "国足包下整座酒店备战末轮世预赛",
@@ -27217,14 +27281,6 @@
       "onboard_time": 1749313702,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 247402,
-      "num": 247402,
-      "word": "充电宝",
-      "onboard_time": 1750940841,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 247393,
@@ -32331,14 +32387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 210888,
-      "num": 420129,
-      "word": "哈梅内伊发文祝贺伊朗战胜以色列",
-      "onboard_time": 1750940482,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 210817,
       "num": 452686,
       "word": "日落以后一起chagee",
@@ -32697,14 +32745,6 @@
       "onboard_time": 1749110182,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 208572,
-      "num": 208572,
-      "word": "小米YU7",
-      "onboard_time": 1750669463,
-      "rank": 28,
-      "category": "汽车"
     },
     {
       "raw_hot": 208526,
@@ -35619,6 +35659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198883,
+      "num": 198883,
+      "word": "红米K80至尊版",
+      "onboard_time": 1750942283,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 198873,
       "num": 198873,
       "word": "打印店用微信传输要留意个人隐私",
@@ -36387,6 +36435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196418,
+      "num": 286161,
+      "word": "孟子义 妾厅风云",
+      "onboard_time": 1750941864,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196410,
       "num": 267598,
       "word": "眷思量",
@@ -37075,6 +37131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194240,
+      "num": 194240,
+      "word": "雷军黑衬衫",
+      "onboard_time": 1750937542,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 194205,
       "num": 194205,
       "word": "孟佳高开叉黑裙",
@@ -37561,6 +37625,14 @@
       "onboard_time": 1749376402,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 192500,
+      "num": 192500,
+      "word": "小米YU7颜色",
+      "onboard_time": 1750942944,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 192406,
@@ -39515,6 +39587,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 186808,
+      "num": 237072,
+      "word": "于适在巴黎暴雨中做英文报道",
+      "onboard_time": 1750942703,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186771,
       "num": 304745,
       "word": "火锅店偷用顾客手机给同行刷差评",
@@ -40265,14 +40345,6 @@
       "onboard_time": 1749473121,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 184376,
-      "num": 184376,
-      "word": "雷军黑衬衫",
-      "onboard_time": 1750937542,
-      "rank": 32,
-      "category": "互联网"
     },
     {
       "raw_hot": 184357,
@@ -41643,14 +41715,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 179098,
-      "num": 179098,
-      "word": "孟子义 妾厅风云",
-      "onboard_time": 1750941864,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 179065,
       "num": 272109,
       "word": "整顿内娱种树事件传遍圈内",
@@ -42665,14 +42729,6 @@
       "onboard_time": 1750173982,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 175152,
-      "num": 175152,
-      "word": "陆景和 酱子贝",
-      "onboard_time": 1750942283,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 175101,
@@ -43691,14 +43747,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 172033,
-      "num": 172033,
-      "word": "红米K80至尊版",
-      "onboard_time": 1750942283,
-      "rank": 41,
-      "category": "数码"
-    },
-    {
       "raw_hot": 171956,
       "num": 171956,
       "word": "肖战请彭昱畅剧组喝饮料",
@@ -44489,6 +44537,14 @@
       "onboard_time": 1749554061,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169788,
+      "num": 169788,
+      "word": "做无痛胃镜差点把麻醉医生投诉了",
+      "onboard_time": 1750940783,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 169776,
@@ -45491,14 +45547,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 167136,
-      "num": 167136,
-      "word": "翔霖",
-      "onboard_time": 1750942404,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 167089,
       "num": 167089,
       "word": "尾鱼女郎肤白貌美还能打",
@@ -45977,14 +46025,6 @@
       "onboard_time": 1749799882,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 165638,
-      "num": 165638,
-      "word": "做无痛胃镜差点把麻醉医生投诉了",
-      "onboard_time": 1750940783,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 165632,
@@ -51987,6 +52027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148319,
+      "num": 148319,
+      "word": "别伤害我推了",
+      "onboard_time": 1750942703,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 148302,
       "num": 148302,
       "word": "iPhone17标准版或缩小灵动岛",
@@ -56185,14 +56233,6 @@
       "onboard_time": 1749453081,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 138415,
-      "num": 354442,
-      "word": "十年前没人敢选的专业翻红了",
-      "onboard_time": 1750938622,
-      "rank": 19,
-      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 138405,
@@ -62033,6 +62073,14 @@
       "onboard_time": 1750605744,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124886,
+      "num": 202739,
+      "word": "以伊停火后哈梅内伊首次发表讲话",
+      "onboard_time": 1750943184,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 124858,
@@ -72507,6 +72555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 95084,
+      "num": 361971,
+      "word": "小米MIXFlip2上线AI定制萌宠功能",
+      "onboard_time": 1750941983,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 95076,
       "num": 95076,
       "word": "张真源断句把周深吓跪了",
@@ -73121,14 +73177,6 @@
       "onboard_time": 1748846781,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 92742,
-      "num": 361971,
-      "word": "小米MIXFlip2上线AI定制萌宠功能",
-      "onboard_time": 1750941983,
-      "rank": 18,
-      "category": "数码"
     },
     {
       "raw_hot": 92734,
@@ -74600,6 +74648,14 @@
       "word": "乐山等地震感明显",
       "onboard_time": 1748774601,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86193,
+      "num": 341828,
+      "word": "大车司机为高考失利儿子打气",
+      "onboard_time": 1750942944,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -79139,6 +79195,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 65362,
+      "num": 264591,
+      "word": "小米发布全新随身拍套装",
+      "onboard_time": 1750943184,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 65308,
       "num": 65308,
       "word": "苏州越位了吗",
@@ -81891,6 +81955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 53757,
+      "num": 179123,
+      "word": "做医美不是开盲盒要擦亮眼",
+      "onboard_time": 1750942884,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53752,
       "num": 109569,
       "word": "郑钦文1比2阿尼西莫娃",
@@ -82889,6 +82961,14 @@
       "onboard_time": 1749366261,
       "rank": 13,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 49983,
+      "num": 341231,
+      "word": "高中生体育课玩手机被留校察看半年",
+      "onboard_time": 1750942884,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49938,
@@ -87548,7 +87628,7 @@
     },
     {
       "raw_hot": 34161,
-      "num": 1252169,
+      "num": 1599642,
       "word": "活力中国调研行",
       "onboard_time": 1750933102,
       "rank": 2,

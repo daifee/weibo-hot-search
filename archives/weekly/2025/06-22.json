@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750942452087,
+  "endTime": 1750943369379,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -211,6 +211,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 1964516,
+      "num": 1964516,
+      "word": "288分女生接到高校电话",
+      "onboard_time": 1750941623,
+      "rank": 0,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 1960632,
       "num": 1960632,
       "word": "学生查出713分老师集体沸腾了",
@@ -289,6 +297,14 @@
       "onboard_time": 1750549878,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1699502,
+      "num": 1699502,
+      "word": "小米YU7价格",
+      "onboard_time": 1750940903,
+      "rank": 1,
+      "category": "汽车"
     },
     {
       "raw_hot": 1672878,
@@ -499,14 +515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1359100,
-      "num": 1359100,
-      "word": "小米YU7价格",
-      "onboard_time": 1750940903,
-      "rank": 1,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 1354262,
       "num": 1185014,
       "word": "男子吸毒28年耗尽千万家产",
@@ -636,7 +644,7 @@
     },
     {
       "raw_hot": 1151552,
-      "num": 415982,
+      "num": 426940,
       "word": "刘亦菲裙子",
       "onboard_time": 1750936341,
       "rank": 15,
@@ -979,6 +987,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 872532,
+      "num": 426237,
+      "word": "好了没 好尴尬",
+      "onboard_time": 1750937781,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 868819,
       "num": 1139011,
       "word": "张艺谋刘浩存再合作",
@@ -1153,6 +1169,14 @@
       "onboard_time": 1750753883,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 805723,
+      "num": 805723,
+      "word": "王楚钦亮相LV大秀",
+      "onboard_time": 1750937662,
+      "rank": 24,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 804316,
@@ -1339,14 +1363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 741690,
-      "num": 741690,
-      "word": "王楚钦亮相LV大秀",
-      "onboard_time": 1750937662,
-      "rank": 24,
-      "category": "体育,时尚"
-    },
-    {
       "raw_hot": 741470,
       "num": 549542,
       "word": "伊朗称将向世界展示力量",
@@ -1361,6 +1377,14 @@
       "onboard_time": 1750591341,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 735801,
+      "num": 735801,
+      "word": "小米AI眼镜",
+      "onboard_time": 1750941922,
+      "rank": 7,
+      "category": "数码"
     },
     {
       "raw_hot": 735495,
@@ -1731,14 +1755,6 @@
       "category": "旅游,民生新闻"
     },
     {
-      "raw_hot": 648130,
-      "num": 410613,
-      "word": "好了没 好尴尬",
-      "onboard_time": 1750937781,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 646008,
       "num": 646008,
       "word": "美军驻叙利亚军事基地遭袭",
@@ -1769,6 +1785,14 @@
       "onboard_time": 1750839922,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 643742,
+      "num": 643742,
+      "word": "1岁工作22岁退休",
+      "onboard_time": 1750935681,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 643728,
@@ -2891,14 +2915,6 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 462789,
-      "num": 462789,
-      "word": "小米AI眼镜",
-      "onboard_time": 1750941922,
-      "rank": 7,
-      "category": "数码"
-    },
-    {
       "raw_hot": 461682,
       "num": 461682,
       "word": "杨瀚森一身白西装参加选秀",
@@ -3171,6 +3187,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 433401,
+      "num": 433401,
+      "word": "小米YU7",
+      "onboard_time": 1750669463,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 432516,
       "num": 432516,
       "word": "浙江高考成绩",
@@ -3192,6 +3216,14 @@
       "word": "怀孕逛街的许玮甯",
       "onboard_time": 1750829182,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 429791,
+      "num": 338716,
+      "word": "翔霖",
+      "onboard_time": 1750942404,
+      "rank": 42,
       "category": "艺人"
     },
     {
@@ -3241,14 +3273,6 @@
       "onboard_time": 1750934962,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 423257,
-      "num": 423257,
-      "word": "1岁工作22岁退休",
-      "onboard_time": 1750935681,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 422414,
@@ -3313,6 +3337,14 @@
       "onboard_time": 1750684943,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 416104,
+      "num": 416104,
+      "word": "明星LV大秀红毯生图",
+      "onboard_time": 1750940245,
+      "rank": 14,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 415656,
@@ -3659,14 +3691,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 380089,
-      "num": 395889,
-      "word": "明星LV大秀红毯生图",
-      "onboard_time": 1750940245,
-      "rank": 14,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 378527,
       "num": 378527,
       "word": "迪丽热巴紫瞳",
@@ -3801,6 +3825,14 @@
       "onboard_time": 1750751482,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 369949,
+      "num": 389369,
+      "word": "白玉兰提名晚宴",
+      "onboard_time": 1750936823,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 369718,
@@ -4187,6 +4219,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 338262,
+      "num": 420129,
+      "word": "哈梅内伊发文祝贺伊朗战胜以色列",
+      "onboard_time": 1750940482,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 338196,
       "num": 410418,
       "word": "终于切身体会到什么是莞莞类卿了",
@@ -4249,14 +4289,6 @@
       "onboard_time": 1750773205,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 335456,
-      "num": 389369,
-      "word": "白玉兰提名晚宴",
-      "onboard_time": 1750936823,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 335297,
@@ -4691,6 +4723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 300525,
+      "num": 354442,
+      "word": "十年前没人敢选的专业翻红了",
+      "onboard_time": 1750938622,
+      "rank": 19,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 300318,
       "num": 503810,
       "word": "伊朗真的会封闭霍尔木兹海峡吗",
@@ -4713,6 +4753,14 @@
       "onboard_time": 1750649662,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 299007,
+      "num": 299007,
+      "word": "陆景和 酱子贝",
+      "onboard_time": 1750942283,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 298887,
@@ -4897,6 +4945,14 @@
       "onboard_time": 1750735881,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 285724,
+      "num": 285724,
+      "word": "充电宝",
+      "onboard_time": 1750940841,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 285329,
@@ -5204,7 +5260,7 @@
     },
     {
       "raw_hot": 268346,
-      "num": 269461,
+      "num": 286640,
       "word": "白敬亭龚俊王鹤棣徐明浩红毯live图",
       "onboard_time": 1750940841,
       "rank": 23,
@@ -5507,6 +5563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 255056,
+      "num": 345064,
+      "word": "原来刘亦菲吃饭也是手机先吃",
+      "onboard_time": 1750942583,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 254441,
       "num": 254441,
       "word": "上海本科分数线402",
@@ -5680,14 +5744,6 @@
       "word": "学霸龙凤胎中考一个846分一个842分",
       "onboard_time": 1750736062,
       "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 247402,
-      "num": 247402,
-      "word": "充电宝",
-      "onboard_time": 1750940841,
-      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -6643,14 +6699,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 210888,
-      "num": 420129,
-      "word": "哈梅内伊发文祝贺伊朗战胜以色列",
-      "onboard_time": 1750940482,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 210291,
       "num": 210291,
       "word": "田作之赫",
@@ -6713,14 +6761,6 @@
       "onboard_time": 1750678105,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 208572,
-      "num": 208572,
-      "word": "小米YU7",
-      "onboard_time": 1750669463,
-      "rank": 28,
-      "category": "汽车"
     },
     {
       "raw_hot": 208492,
@@ -7299,6 +7339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198883,
+      "num": 198883,
+      "word": "红米K80至尊版",
+      "onboard_time": 1750942283,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 198501,
       "num": 276328,
       "word": "祝绪丹22到33岁颜值变化",
@@ -7483,6 +7531,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 196418,
+      "num": 286161,
+      "word": "孟子义 妾厅风云",
+      "onboard_time": 1750941864,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196331,
       "num": 289332,
       "word": "偶练学员现状多离谱",
@@ -7659,6 +7715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194240,
+      "num": 194240,
+      "word": "雷军黑衬衫",
+      "onboard_time": 1750937542,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 194178,
       "num": 194178,
       "word": "锦月如歌",
@@ -7777,6 +7841,14 @@
       "onboard_time": 1750861704,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 192500,
+      "num": 192500,
+      "word": "小米YU7颜色",
+      "onboard_time": 1750942944,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 192406,
@@ -8115,6 +8187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 186808,
+      "num": 237072,
+      "word": "于适在巴黎暴雨中做英文报道",
+      "onboard_time": 1750942703,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186620,
       "num": 186620,
       "word": "山东高考特控线521分",
@@ -8265,14 +8345,6 @@
       "onboard_time": 1750730119,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 184376,
-      "num": 184376,
-      "word": "雷军黑衬衫",
-      "onboard_time": 1750937542,
-      "rank": 32,
-      "category": "互联网"
     },
     {
       "raw_hot": 184183,
@@ -8449,14 +8521,6 @@
       "onboard_time": 1750815561,
       "rank": 32,
       "category": "教育"
-    },
-    {
-      "raw_hot": 179098,
-      "num": 179098,
-      "word": "孟子义 妾厅风云",
-      "onboard_time": 1750941864,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 179063,
@@ -8643,14 +8707,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 175152,
-      "num": 175152,
-      "word": "陆景和 酱子贝",
-      "onboard_time": 1750942283,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 175078,
       "num": 258317,
       "word": "孟子义李昀锐并排官宣",
@@ -8801,14 +8857,6 @@
       "onboard_time": 1750755022,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 172033,
-      "num": 172033,
-      "word": "红米K80至尊版",
-      "onboard_time": 1750942283,
-      "rank": 41,
-      "category": "数码"
     },
     {
       "raw_hot": 171937,
@@ -8969,6 +9017,14 @@
       "onboard_time": 1750584862,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169788,
+      "num": 169788,
+      "word": "做无痛胃镜差点把麻醉医生投诉了",
+      "onboard_time": 1750940783,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 169731,
@@ -9147,14 +9203,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 167136,
-      "num": 167136,
-      "word": "翔霖",
-      "onboard_time": 1750942404,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 167077,
       "num": 167077,
       "word": "步行者vs雷霆",
@@ -9225,14 +9273,6 @@
       "onboard_time": 1750909702,
       "rank": 44,
       "category": "财经"
-    },
-    {
-      "raw_hot": 165638,
-      "num": 165638,
-      "word": "做无痛胃镜差点把麻醉医生投诉了",
-      "onboard_time": 1750940783,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 165113,
@@ -10379,6 +10419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 148319,
+      "num": 148319,
+      "word": "别伤害我推了",
+      "onboard_time": 1750942703,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 148284,
       "num": 148284,
       "word": "伊朗德黑兰爆发大规模反美反以抗议",
@@ -11289,14 +11337,6 @@
       "onboard_time": 1750847062,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 138415,
-      "num": 354442,
-      "word": "十年前没人敢选的专业翻红了",
-      "onboard_time": 1750938622,
-      "rank": 19,
-      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 138405,
@@ -12457,6 +12497,14 @@
       "onboard_time": 1750605744,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124886,
+      "num": 202739,
+      "word": "以伊停火后哈梅内伊首次发表讲话",
+      "onboard_time": 1750943184,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 124346,
@@ -14363,6 +14411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 95084,
+      "num": 361971,
+      "word": "小米MIXFlip2上线AI定制萌宠功能",
+      "onboard_time": 1750941983,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 94907,
       "num": 94907,
       "word": "31岁男子假扮女大学生与5人交往",
@@ -14473,14 +14529,6 @@
       "onboard_time": 1750520844,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 92742,
-      "num": 361971,
-      "word": "小米MIXFlip2上线AI定制萌宠功能",
-      "onboard_time": 1750941983,
-      "rank": 18,
-      "category": "数码"
     },
     {
       "raw_hot": 92726,
@@ -14679,6 +14727,14 @@
       "num": 307306,
       "word": "男子称网购4件LV穿了1年鉴定为假",
       "onboard_time": 1750598604,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86193,
+      "num": 341828,
+      "word": "大车司机为高考失利儿子打气",
+      "onboard_time": 1750942944,
       "rank": 19,
       "category": "民生新闻"
     },
@@ -15443,6 +15499,14 @@
       "category": "国际时政,民生新闻"
     },
     {
+      "raw_hot": 65362,
+      "num": 264591,
+      "word": "小米发布全新随身拍套装",
+      "onboard_time": 1750943184,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 65262,
       "num": 282427,
       "word": "海南本科线480分",
@@ -15931,6 +15995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 53757,
+      "num": 179123,
+      "word": "做医美不是开盲盒要擦亮眼",
+      "onboard_time": 1750942884,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53533,
       "num": 204663,
       "word": "超载货车乱象调查",
@@ -16152,6 +16224,14 @@
       "word": "男子被树枝刺伤无视伤口终要截肢",
       "onboard_time": 1750801635,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49983,
+      "num": 341231,
+      "word": "高中生体育课玩手机被留校察看半年",
+      "onboard_time": 1750942884,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -16804,7 +16884,7 @@
     },
     {
       "raw_hot": 34161,
-      "num": 1252169,
+      "num": 1599642,
       "word": "活力中国调研行",
       "onboard_time": 1750933102,
       "rank": 2,
