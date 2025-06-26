@@ -1,6 +1,6 @@
 {
   "startTime": 1750869299096,
-  "endTime": 1750949117041,
+  "endTime": 1750951721703,
   "band_list": [
     {
       "raw_hot": 10796481,
@@ -163,6 +163,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 969039,
+      "num": 739620,
+      "word": "虞书欣的腰",
+      "onboard_time": 1750947324,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 945078,
       "num": 376319,
       "word": "刘轩丞录音",
@@ -243,14 +251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 739620,
-      "num": 739620,
-      "word": "虞书欣的腰",
-      "onboard_time": 1750947324,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 735801,
       "num": 735801,
       "word": "小米AI眼镜",
@@ -329,6 +329,14 @@
       "onboard_time": 1750917624,
       "rank": 23,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 643945,
+      "num": 643945,
+      "word": "68岁大爷全身重彩刺青肠子都悔青了",
+      "onboard_time": 1750949605,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 643742,
@@ -497,6 +505,14 @@
       "onboard_time": 1750926440,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 509081,
+      "num": 509081,
+      "word": "王腾 比我们手机卖的还多",
+      "onboard_time": 1750949726,
+      "rank": 11,
+      "category": "汽车"
     },
     {
       "raw_hot": 508836,
@@ -939,6 +955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 299375,
+      "num": 299375,
+      "word": "井柏然刘雯被当面追问婚讯",
+      "onboard_time": 1750951163,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 296369,
       "num": 217586,
       "word": "86岁大学学历北京大爷退休收入",
@@ -1219,6 +1243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235141,
+      "num": 361158,
+      "word": "张译是不是真上过班",
+      "onboard_time": 1750948586,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 232097,
       "num": 232097,
       "word": "王鹤棣LV活动嘉宾",
@@ -1339,12 +1371,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 204680,
-      "num": 204680,
-      "word": "张译是不是真上过班",
-      "onboard_time": 1750948586,
-      "rank": 36,
-      "category": "剧集"
+      "raw_hot": 206434,
+      "num": 477336,
+      "word": "小米YU7大定3分钟破20万台",
+      "onboard_time": 1750950504,
+      "rank": 12,
+      "category": "汽车"
     },
     {
       "raw_hot": 204604,
@@ -1377,6 +1409,14 @@
       "onboard_time": 1750937542,
       "rank": 26,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 200225,
+      "num": 147324,
+      "word": "小米王化辟谣YU7五分钟大定35万台",
+      "onboard_time": 1750951044,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 199978,
@@ -1707,6 +1747,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 177879,
+      "num": 177879,
+      "word": "小米公司",
+      "onboard_time": 1750949425,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 177766,
       "num": 184107,
       "word": "杨瀚森回应第16顺位被选中",
@@ -1915,6 +1963,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 165365,
+      "num": 180176,
+      "word": "孟子义接桃花映江山的原因找到了",
+      "onboard_time": 1750949006,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163375,
       "num": 140138,
       "word": "张凌赫包场刘宇宁李一桐新剧",
@@ -2033,6 +2089,14 @@
       "onboard_time": 1750934060,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154587,
+      "num": 154587,
+      "word": "母亲被骗30多万高中女儿辍学追退款",
+      "onboard_time": 1750950925,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154424,
@@ -2179,6 +2243,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148314,
+      "num": 148314,
+      "word": "孙少军发博",
+      "onboard_time": 1750950204,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 147714,
+      "num": 147714,
+      "word": "书卷一梦看似死三个其实死四个",
+      "onboard_time": 1750951224,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147540,
       "num": 147540,
       "word": "六公主认证灵笼2爆火",
@@ -2257,6 +2337,14 @@
       "onboard_time": 1750932261,
       "rank": 34,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 142898,
+      "num": 142898,
+      "word": "鞠婧祎",
+      "onboard_time": 1750951404,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 142472,
@@ -2515,6 +2603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122369,
+      "num": 122369,
+      "word": "卢昱晓LV大秀造型",
+      "onboard_time": 1750951044,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 121437,
       "num": 121437,
       "word": "开拓者列队欢迎杨瀚森",
@@ -2571,6 +2667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119120,
+      "num": 119120,
+      "word": "感染了艾滋病如何告诉另一半",
+      "onboard_time": 1750951102,
+      "rank": 47,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 119107,
       "num": 113177,
       "word": "上拉如回应与小英不离婚",
@@ -2601,6 +2705,14 @@
       "onboard_time": 1750915224,
       "rank": 49,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 116237,
+      "num": 116237,
+      "word": "十个勤天演唱会",
+      "onboard_time": 1750951703,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 116184,
@@ -2953,6 +3065,14 @@
       "onboard_time": 1750922780,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97578,
+      "num": 464925,
+      "word": "哈梅内伊称狠狠扇了美国一个耳光",
+      "onboard_time": 1750950324,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 97564,
@@ -3331,6 +3451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59570,
+      "num": 461567,
+      "word": "网上找人训犬没想到爱犬离奇死亡",
+      "onboard_time": 1750950085,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59321,
       "num": 59321,
       "word": "不要给宠物起奇怪的名字",
@@ -3385,6 +3513,14 @@
       "onboard_time": 1750894520,
       "rank": 44,
       "category": "美食,游戏"
+    },
+    {
+      "raw_hot": 55055,
+      "num": 349813,
+      "word": "1名阿尔茨海默病老人术后找回记忆",
+      "onboard_time": 1750951344,
+      "rank": 19,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 54323,
