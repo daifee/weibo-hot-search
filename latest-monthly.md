@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/26 23:43:29
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/27 00:33:01
 </p>
 </blockquote>
 <p>
@@ -5739,6 +5739,12 @@ Labubu 审美（热度：729066）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2368%E5%B2%81%E5%A4%A7%E7%88%B7%E5%85%A8%E8%BA%AB%E9%87%8D%E5%BD%A9%E5%88%BA%E9%9D%92%E8%82%A0%E5%AD%90%E9%83%BD%E6%82%94%E9%9D%92%E4%BA%86%23" target="weibo">
+68岁大爷全身重彩刺青肠子都悔青了（热度：720126）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%9C%82%E9%B8%9F%E9%9F%B3%E4%B9%90%E8%A6%81%E6%B1%82%E4%B8%8B%E6%9E%B6%E9%82%93%E7%B4%AB%E6%A3%8B%E9%87%8D%E5%BD%95%E6%AD%8C%E6%9B%B2%23" target="weibo">
 蜂鸟音乐要求下架邓紫棋重录歌曲（热度：719269）
 </a>
@@ -6005,12 +6011,6 @@ NBA选秀（热度：709888）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%9B%9E%E5%BA%94%E5%8D%AB%E7%94%9F%E5%B7%BE%E9%97%AE%E9%A2%98%23" target="weibo">
 黄子韬回应卫生巾问题（热度：700637）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%20%E5%8D%93%E9%87%8C%E5%8D%93%E6%B0%94%23" target="weibo">
-苹果 卓里卓气（热度：700451）
 </a>
 </li>
 
