@@ -1,6 +1,6 @@
 {
   "startTime": 1750869299096,
-  "endTime": 1750933743109,
+  "endTime": 1750934801477,
   "band_list": [
     {
       "raw_hot": 8095208,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 652957,
-      "num": 306020,
+      "num": 345925,
       "word": "审美降级",
       "onboard_time": 1750927582,
       "rank": 40,
@@ -243,6 +243,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 597505,
+      "num": 351731,
+      "word": "刘晓庆想亲脸 人家把嘴递上了",
+      "onboard_time": 1750932321,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 568960,
       "num": 568960,
       "word": "这位一等功臣至今没有露脸公开影像",
@@ -273,6 +281,14 @@
       "onboard_time": 1750904482,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 553887,
+      "num": 553887,
+      "word": "缉毒民警被戴上手铐时才敢松口气",
+      "onboard_time": 1750930102,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 547551,
@@ -331,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 503338,
+      "num": 503338,
+      "word": "官方回应韩雪文物前打强光",
+      "onboard_time": 1750931181,
+      "rank": 6,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 498482,
       "num": 371091,
       "word": "徐艺洋一周前曾回应怀孕传闻",
@@ -361,6 +385,14 @@
       "onboard_time": 1750926323,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 464492,
+      "num": 464492,
+      "word": "小米发布会",
+      "onboard_time": 1750934361,
+      "rank": 6,
+      "category": "汽车"
     },
     {
       "raw_hot": 461682,
@@ -467,14 +499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 380211,
-      "num": 297644,
-      "word": "刘晓庆想亲脸 人家把嘴递上了",
-      "onboard_time": 1750932321,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 374769,
       "num": 374769,
       "word": "BLACKPINK世巡概念预告",
@@ -483,12 +507,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 367546,
-      "num": 318713,
-      "word": "官方回应韩雪文物前打强光",
-      "onboard_time": 1750931181,
-      "rank": 6,
-      "category": "艺人,民生新闻"
+      "raw_hot": 372152,
+      "num": 372152,
+      "word": "LV上海活动机场路透",
+      "onboard_time": 1750929683,
+      "rank": 17,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 364588,
@@ -571,20 +595,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 327488,
+      "num": 327488,
+      "word": "田栩宁沈月新剧男三",
+      "onboard_time": 1750929863,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 321627,
       "num": 321627,
       "word": "道禄和尚前妻女儿现女友也涉案",
       "onboard_time": 1750914085,
       "rank": 14,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 319431,
-      "num": 297550,
-      "word": "田栩宁沈月新剧男三",
-      "onboard_time": 1750929863,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 309547,
@@ -619,22 +643,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 299415,
-      "num": 299415,
-      "word": "缉毒民警被戴上手铐时才敢松口气",
-      "onboard_time": 1750930102,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 297368,
-      "num": 297368,
-      "word": "LV上海活动机场路透",
-      "onboard_time": 1750929683,
-      "rank": 17,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 296369,
       "num": 217586,
       "word": "86岁大学学历北京大爷退休收入",
@@ -649,6 +657,14 @@
       "onboard_time": 1750912885,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 295939,
+      "num": 295939,
+      "word": "小米汽车",
+      "onboard_time": 1750934422,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 287258,
@@ -737,6 +753,14 @@
       "onboard_time": 1750908440,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 262614,
+      "num": 262614,
+      "word": "杨紫的白玉兰提名公式照",
+      "onboard_time": 1750934303,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 259601,
@@ -847,6 +871,14 @@
       "num": 260401,
       "word": "刘宇宁下点毒全炫自己嘴里了",
       "onboard_time": 1750906400,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 216295,
+      "num": 216295,
+      "word": "书卷一梦",
+      "onboard_time": 1750933641,
       "rank": 25,
       "category": "剧集"
     },
@@ -1099,6 +1131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 177701,
+      "num": 177701,
+      "word": "叶童评论区cpf",
+      "onboard_time": 1750933042,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177440,
       "num": 310101,
       "word": "顺丰等快递拒收召回充电宝",
@@ -1163,6 +1203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170836,
+      "num": 170836,
+      "word": "刘宇宁新剧连失初吻二吻三吻",
+      "onboard_time": 1750933342,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170600,
       "num": 170600,
       "word": "伊朗巴基斯坦等国防长参观中国军舰",
@@ -1219,6 +1267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166481,
+      "num": 166481,
+      "word": "感冒发烧之后千万别这样做",
+      "onboard_time": 1750931723,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 165948,
       "num": 204154,
       "word": "一人一句对毒品说不",
@@ -1267,14 +1323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 159688,
-      "num": 159688,
-      "word": "刘宇宁新剧连失初吻二吻三吻",
-      "onboard_time": 1750933342,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 158539,
       "num": 163857,
       "word": "林一空降奢牌挚友title",
@@ -1312,6 +1360,14 @@
       "word": "同学曝刘轩丞人品很差",
       "onboard_time": 1750925841,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 154673,
+      "num": 175274,
+      "word": "细数霍汶希带火的52位艺人",
+      "onboard_time": 1750934060,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -1475,6 +1531,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 143215,
+      "num": 143215,
+      "word": "双胞胎高考开分惊现分数巧合",
+      "onboard_time": 1750932261,
+      "rank": 34,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 142294,
       "num": 142294,
       "word": "苏群预测杨瀚森分毫不差",
@@ -1523,14 +1587,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 136199,
-      "num": 136199,
-      "word": "叶童评论区cpf",
-      "onboard_time": 1750933042,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 135798,
       "num": 135798,
       "word": "中南财大通报学生找人替考拟被开除",
@@ -1547,12 +1603,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 134825,
-      "num": 134825,
-      "word": "感冒发烧之后千万别这样做",
-      "onboard_time": 1750931723,
-      "rank": 31,
-      "category": "健康医疗"
+      "raw_hot": 134990,
+      "num": 134990,
+      "word": "歌手",
+      "onboard_time": 1750934361,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 134499,
@@ -1667,14 +1723,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 126110,
-      "num": 126110,
-      "word": "双胞胎高考开分惊现分数巧合",
-      "onboard_time": 1750932261,
-      "rank": 34,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 125006,
       "num": 125006,
       "word": "按照deepseek的建议新买了个鱼缸",
@@ -1688,6 +1736,22 @@
       "word": "周杰伦晒3岁小女儿萌照",
       "onboard_time": 1750855762,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 124025,
+      "num": 124025,
+      "word": "孙颖莎王楚钦全红婵等出战十五运会",
+      "onboard_time": 1750931482,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 123359,
+      "num": 142258,
+      "word": "小沈阳晒亲吻照庆结婚纪念日",
+      "onboard_time": 1750934303,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -1737,6 +1801,14 @@
       "onboard_time": 1750925662,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 120848,
+      "num": 120848,
+      "word": "日本红色精灵",
+      "onboard_time": 1750934001,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 119780,
@@ -1835,6 +1907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112998,
+      "num": 112998,
+      "word": "巨婴老板",
+      "onboard_time": 1750931603,
+      "rank": 37,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 112808,
       "num": 112808,
       "word": "王者甄姬S40赛季皮肤",
@@ -1867,28 +1947,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 111075,
-      "num": 111075,
-      "word": "孙颖莎王楚钦全红婵等出战十五运会",
-      "onboard_time": 1750931482,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 110892,
       "num": 201110,
       "word": "女儿查分猛超陪考老爸200多分",
       "onboard_time": 1750892238,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 110805,
-      "num": 110805,
-      "word": "巨婴老板",
-      "onboard_time": 1750931603,
-      "rank": 37,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 110789,
@@ -2227,6 +2291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84479,
+      "num": 201300,
+      "word": "回不去的美国制造",
+      "onboard_time": 1750933282,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 84460,
       "num": 84460,
       "word": "西绿 假律师",
@@ -2339,12 +2411,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 70907,
+      "num": 142190,
+      "word": "王欣瑜的幽默感来自团队氛围",
+      "onboard_time": 1750933222,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68338,
       "num": 236874,
       "word": "尊界车主既有老钱也有新钱",
       "onboard_time": 1750914625,
       "rank": 26,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 67823,
+      "num": 363467,
+      "word": "特朗普新财年将削减F35数量",
+      "onboard_time": 1750931181,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 66800,
@@ -2372,7 +2460,7 @@
     },
     {
       "raw_hot": 62765,
-      "num": 110313,
+      "num": 120869,
       "word": "柯南每逢下雨都是顶级浪漫",
       "onboard_time": 1750933282,
       "rank": 38,
@@ -2465,6 +2553,14 @@
       "onboard_time": 1750894520,
       "rank": 44,
       "category": "美食,游戏"
+    },
+    {
+      "raw_hot": 54323,
+      "num": 336624,
+      "word": "611分残疾女生的难题并非无学可上",
+      "onboard_time": 1750933881,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53232,
@@ -2603,6 +2699,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 39772,
+      "num": 340709,
+      "word": "魏大勋张康乐同场看秀",
+      "onboard_time": 1750933822,
+      "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 39560,
       "num": 203282,
       "word": "为什么说江财是被低估的财经大学",
@@ -2620,7 +2724,7 @@
     },
     {
       "raw_hot": 34161,
-      "num": 520978,
+      "num": 563703,
       "word": "活力中国调研行",
       "onboard_time": 1750933102,
       "rank": 2,
@@ -2667,6 +2771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29560,
+      "num": 171176,
+      "word": "交警实测吃荔枝后能否测出酒驾",
+      "onboard_time": 1750934483,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29489,
       "num": 33166,
       "word": "女生打暑期工时查到第一次考过600分",
@@ -2676,7 +2788,7 @@
     },
     {
       "raw_hot": 28808,
-      "num": 110049,
+      "num": 142169,
       "word": "乡村大集搬到了二环",
       "onboard_time": 1750933222,
       "rank": 39,
@@ -2713,6 +2825,14 @@
       "onboard_time": 1750914145,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23972,
+      "num": 236266,
+      "word": "国际航班暂无充电宝新规限制",
+      "onboard_time": 1750934542,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23840,
@@ -2753,14 +2873,6 @@
       "onboard_time": 1750882333,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 20665,
-      "num": 201300,
-      "word": "回不去的美国制造",
-      "onboard_time": 1750933282,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 20172,
