@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750965704576,
+  "endTime": 1750966666957,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -18187,6 +18187,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 24603,
+      "num": 24603,
+      "word": "hamin机场",
+      "onboard_time": 1750965495,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 24553,
       "num": 201118,
       "word": "复旦是如何连续多年霸榜医学赛道",
@@ -18299,20 +18307,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 22971,
+      "num": 23726,
+      "word": "跪谢爷爷的双胞胎兄弟高考成绩出炉",
+      "onboard_time": 1750963816,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22683,
       "num": 25005,
       "word": "玫瑰丛生",
       "onboard_time": 1750704017,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 22514,
-      "num": 23726,
-      "word": "跪谢爷爷的双胞胎兄弟高考成绩出炉",
-      "onboard_time": 1750963816,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22479,
@@ -18531,14 +18539,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 19172,
-      "num": 19172,
-      "word": "hamin机场",
-      "onboard_time": 1750965495,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 18985,
       "num": 211050,
       "word": "贵州榕江居民回应洪水入境情况",
@@ -18569,6 +18569,14 @@
       "onboard_time": 1750754842,
       "rank": 37,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 18705,
+      "num": 18705,
+      "word": "尤文图斯vs曼城",
+      "onboard_time": 1750966514,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 18600,

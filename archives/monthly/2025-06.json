@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750965704576,
+  "endTime": 1750966666957,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -91747,6 +91747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24603,
+      "num": 24603,
+      "word": "hamin机场",
+      "onboard_time": 1750965495,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 24590,
       "num": 166411,
       "word": "如何快速找回遗落高铁的行李",
@@ -92339,6 +92347,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 22971,
+      "num": 23726,
+      "word": "跪谢爷爷的双胞胎兄弟高考成绩出炉",
+      "onboard_time": 1750963816,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22969,
       "num": 208470,
       "word": "茶厂家回应阴阳标签是二次利用包装",
@@ -92481,14 +92497,6 @@
       "onboard_time": 1749842955,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 22514,
-      "num": 23726,
-      "word": "跪谢爷爷的双胞胎兄弟高考成绩出炉",
-      "onboard_time": 1750963816,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22482,
@@ -93731,14 +93739,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 19172,
-      "num": 19172,
-      "word": "hamin机场",
-      "onboard_time": 1750965495,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 19114,
       "num": 35326,
       "word": "刘冲回应VOGUE争议",
@@ -93913,6 +93913,14 @@
       "onboard_time": 1750401141,
       "rank": 23,
       "category": "教育"
+    },
+    {
+      "raw_hot": 18705,
+      "num": 18705,
+      "word": "尤文图斯vs曼城",
+      "onboard_time": 1750966514,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 18675,
