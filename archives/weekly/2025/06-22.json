@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750915651200,
+  "endTime": 1750916716234,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -531,8 +531,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1230248,
-      "num": 1230248,
+      "raw_hot": 1232401,
+      "num": 1232401,
       "word": "延迟发朋友圈的好处",
       "onboard_time": 1750909281,
       "rank": 3,
@@ -987,6 +987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 829738,
+      "num": 786062,
+      "word": "江苏卫视长安的荔枝撤档",
+      "onboard_time": 1750903521,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 827869,
       "num": 377619,
       "word": "郑乃馨面相",
@@ -1089,14 +1097,6 @@
       "onboard_time": 1750646063,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 786062,
-      "num": 786062,
-      "word": "江苏卫视长安的荔枝撤档",
-      "onboard_time": 1750903521,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 783806,
@@ -2291,6 +2291,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 508836,
+      "num": 508836,
+      "word": "王安宇 我只是半夜的林黛玉",
+      "onboard_time": 1750910904,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 508147,
       "num": 374062,
       "word": "酱子贝道歉",
@@ -2723,6 +2731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 451303,
+      "num": 451303,
+      "word": "警方通报道禄涉案被查",
+      "onboard_time": 1750914145,
+      "rank": 8,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 451248,
       "num": 451248,
       "word": "陈梦说对象肯定要长得帅",
@@ -2785,14 +2801,6 @@
       "onboard_time": 1750649423,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 444967,
-      "num": 444967,
-      "word": "王安宇 我只是半夜的林黛玉",
-      "onboard_time": 1750910904,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 444631,
@@ -2985,14 +2993,6 @@
       "onboard_time": 1750737262,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 420675,
-      "num": 420675,
-      "word": "警方通报道禄涉案被查",
-      "onboard_time": 1750914145,
-      "rank": 8,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 419649,
@@ -3513,6 +3513,22 @@
       "onboard_time": 1750852163,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 364588,
+      "num": 364588,
+      "word": "刘轩丞 骗钱出轨",
+      "onboard_time": 1750916064,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 363503,
+      "num": 363503,
+      "word": "充电宝安检新规",
+      "onboard_time": 1750912165,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 360220,
@@ -4043,6 +4059,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 321627,
+      "num": 321627,
+      "word": "道禄和尚前妻女儿现女友也涉案",
+      "onboard_time": 1750914085,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 321071,
       "num": 219665,
       "word": "张杰女儿睡前信息",
@@ -4347,6 +4371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 295939,
+      "num": 295939,
+      "word": "酷似林依晨的曼联女孩高考出分",
+      "onboard_time": 1750912885,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 295768,
       "num": 298632,
       "word": "张凌赫首部民国男主",
@@ -4585,6 +4617,14 @@
       "onboard_time": 1750910541,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 278660,
+      "num": 278660,
+      "word": "沈腾要不给丁禹兮打个电话吧",
+      "onboard_time": 1750912405,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 278426,
@@ -4937,6 +4977,14 @@
       "onboard_time": 1750735823,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 260145,
+      "num": 260145,
+      "word": "女生高考涨了167分被吓到模糊",
+      "onboard_time": 1750916183,
+      "rank": 22,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 259947,
@@ -5380,7 +5428,7 @@
     },
     {
       "raw_hot": 236568,
-      "num": 236568,
+      "num": 264809,
       "word": "内娱唯二的姐",
       "onboard_time": 1750913185,
       "rank": 22,
@@ -5499,14 +5547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 232244,
-      "num": 232244,
-      "word": "沈腾要不给丁禹兮打个电话吧",
-      "onboard_time": 1750912405,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 231797,
       "num": 314060,
       "word": "张婧仪复仇掀桌戏看爽了",
@@ -5529,14 +5569,6 @@
       "onboard_time": 1750576882,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 230719,
-      "num": 248776,
-      "word": "充电宝安检新规",
-      "onboard_time": 1750912165,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 230514,
@@ -5827,6 +5859,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 218960,
+      "num": 218960,
+      "word": "十个5年内月薪仍低于3千的专业",
+      "onboard_time": 1750912044,
+      "rank": 42,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 218864,
       "num": 218864,
       "word": "严浩翔帮唱舞台邀请王嘉尔改编",
@@ -5857,14 +5897,6 @@
       "onboard_time": 1750856543,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 218116,
-      "num": 218116,
-      "word": "十个5年内月薪仍低于3千的专业",
-      "onboard_time": 1750912044,
-      "rank": 42,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 217892,
@@ -6009,14 +6041,6 @@
       "onboard_time": 1750847662,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 214163,
-      "num": 269096,
-      "word": "道禄和尚前妻女儿现女友也涉案",
-      "onboard_time": 1750914085,
-      "rank": 14,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 214103,
@@ -6243,6 +6267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 207530,
+      "num": 266768,
+      "word": "王珞丹包场祝绪丹新剧",
+      "onboard_time": 1750915944,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207178,
       "num": 241533,
       "word": "孙颖莎忆首夺奥运金牌",
@@ -6384,6 +6416,14 @@
       "word": "父母强行安排相亲女儿离家出走19年",
       "onboard_time": 1750755683,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203917,
+      "num": 230725,
+      "word": "美国演员争演中国短剧有人工资翻7倍",
+      "onboard_time": 1750914986,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -7115,6 +7155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192657,
+      "num": 250573,
+      "word": "迪丽热巴暗红长袍新中式",
+      "onboard_time": 1750916183,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192623,
       "num": 192623,
       "word": "李秀满女团A2OMAY国内首秀在央视",
@@ -7345,6 +7393,14 @@
       "onboard_time": 1750764863,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 188275,
+      "num": 227798,
+      "word": "上海偶遇皮筋猴排队",
+      "onboard_time": 1750916424,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 188125,
@@ -7777,6 +7833,14 @@
       "onboard_time": 1750596623,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178534,
+      "num": 178534,
+      "word": "苍兰诀2动画定档",
+      "onboard_time": 1750915826,
+      "rank": 36,
+      "category": "动漫"
     },
     {
       "raw_hot": 178443,
@@ -9195,14 +9259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 153383,
-      "num": 153383,
-      "word": "酷似林依晨的曼联女孩高考出分",
-      "onboard_time": 1750912885,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 153017,
       "num": 153017,
       "word": "建议要有个高质量的学霸搭子",
@@ -9393,6 +9449,14 @@
       "onboard_time": 1750764262,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149056,
+      "num": 149056,
+      "word": "伊朗指挥官沙德马尼殉职",
+      "onboard_time": 1750915643,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 148967,
@@ -9723,8 +9787,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 145645,
+      "num": 145645,
+      "word": "抖音崩了",
+      "onboard_time": 1750914027,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 145593,
-      "num": 145593,
+      "num": 264408,
       "word": "港媒锐评今年港姐选手",
       "onboard_time": 1750914325,
       "rank": 37,
@@ -9841,14 +9913,6 @@
       "onboard_time": 1750852882,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 144227,
-      "num": 144227,
-      "word": "抖音崩了",
-      "onboard_time": 1750914027,
-      "rank": 38,
-      "category": "互联网"
     },
     {
       "raw_hot": 144177,
@@ -10187,6 +10251,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 140327,
+      "num": 140327,
+      "word": "阳江地震",
+      "onboard_time": 1750913724,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140297,
       "num": 140297,
       "word": "我不后悔选了文科",
@@ -10233,14 +10305,6 @@
       "onboard_time": 1750858043,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 139435,
-      "num": 230725,
-      "word": "美国演员争演中国短剧有人工资翻7倍",
-      "onboard_time": 1750914986,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 139262,
@@ -10561,6 +10625,14 @@
       "onboard_time": 1750914027,
       "rank": 42,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 135642,
+      "num": 150175,
+      "word": "原神雷电将军",
+      "onboard_time": 1750916244,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 135473,
@@ -11123,6 +11195,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 127842,
+      "num": 127842,
+      "word": "淘宝崩了",
+      "onboard_time": 1750915464,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 127604,
       "num": 246252,
       "word": "9.6万学费高校称教师基本是院士专家",
@@ -11521,14 +11601,6 @@
       "onboard_time": 1750726223,
       "rank": 38,
       "category": "国际时政,民生新闻"
-    },
-    {
-      "raw_hot": 122407,
-      "num": 122407,
-      "word": "淘宝崩了",
-      "onboard_time": 1750915464,
-      "rank": 46,
-      "category": "互联网"
     },
     {
       "raw_hot": 122276,
@@ -11963,6 +12035,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 114654,
+      "num": 114654,
+      "word": "迪丽热巴金靖胶片",
+      "onboard_time": 1750916665,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114607,
       "num": 153424,
       "word": "丁程鑫选了星星人的杯子",
@@ -12113,6 +12193,14 @@
       "onboard_time": 1750592243,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112194,
+      "num": 402485,
+      "word": "男子起诉银行骚扰电话获赔5000元",
+      "onboard_time": 1750915224,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112119,
@@ -13267,6 +13355,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 83512,
+      "num": 236024,
+      "word": "Pura80Ultra开售全面售罄",
+      "onboard_time": 1750915524,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 83501,
       "num": 83501,
       "word": "因推销电话骚扰男子将银行告上法庭",
@@ -13828,7 +13924,7 @@
     },
     {
       "raw_hot": 68338,
-      "num": 180180,
+      "num": 236874,
       "word": "尊界车主既有老钱也有新钱",
       "onboard_time": 1750914625,
       "rank": 26,
@@ -14561,14 +14657,6 @@
       "onboard_time": 1750738823,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 50865,
-      "num": 160395,
-      "word": "Pura80Ultra开售全面售罄",
-      "onboard_time": 1750915524,
-      "rank": 34,
-      "category": "数码"
     },
     {
       "raw_hot": 50612,
@@ -16059,6 +16147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17968,
+      "num": 149389,
+      "word": "小米yu7将亮相好博会",
+      "onboard_time": 1750914085,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 17839,
       "num": 42199,
       "word": "搞垮身体的五种动作",
@@ -16129,14 +16225,6 @@
       "onboard_time": 1750675342,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15921,
-      "num": 142757,
-      "word": "小米yu7将亮相好博会",
-      "onboard_time": 1750914085,
-      "rank": 39,
-      "category": "汽车"
     },
     {
       "raw_hot": 15762,

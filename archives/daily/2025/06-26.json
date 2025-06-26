@@ -1,6 +1,6 @@
 {
   "startTime": 1750869299096,
-  "endTime": 1750915651200,
+  "endTime": 1750916716234,
   "band_list": [
     {
       "raw_hot": 2245941,
@@ -27,12 +27,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1230248,
-      "num": 1230248,
+      "raw_hot": 1232401,
+      "num": 1232401,
       "word": "延迟发朋友圈的好处",
       "onboard_time": 1750909281,
       "rank": 3,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 829738,
+      "num": 786062,
+      "word": "江苏卫视长安的荔枝撤档",
+      "onboard_time": 1750903521,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 800997,
@@ -41,14 +49,6 @@
       "onboard_time": 1750904180,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 786062,
-      "num": 786062,
-      "word": "江苏卫视长安的荔枝撤档",
-      "onboard_time": 1750903521,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 780409,
@@ -155,6 +155,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 508836,
+      "num": 508836,
+      "word": "王安宇 我只是半夜的林黛玉",
+      "onboard_time": 1750910904,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 507774,
       "num": 448813,
       "word": "闪婚不到一年丈夫起诉离婚讨百万彩礼",
@@ -211,12 +219,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 444967,
-      "num": 444967,
-      "word": "王安宇 我只是半夜的林黛玉",
-      "onboard_time": 1750910904,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 451303,
+      "num": 451303,
+      "word": "警方通报道禄涉案被查",
+      "onboard_time": 1750914145,
+      "rank": 8,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 437846,
@@ -233,14 +241,6 @@
       "onboard_time": 1750905922,
       "rank": 11,
       "category": "网红"
-    },
-    {
-      "raw_hot": 420675,
-      "num": 420675,
-      "word": "警方通报道禄涉案被查",
-      "onboard_time": 1750914145,
-      "rank": 8,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 418047,
@@ -291,6 +291,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 364588,
+      "num": 364588,
+      "word": "刘轩丞 骗钱出轨",
+      "onboard_time": 1750916064,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 363503,
+      "num": 363503,
+      "word": "充电宝安检新规",
+      "onboard_time": 1750912165,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 363333,
       "num": 363333,
       "word": "言冰云",
@@ -339,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 321627,
+      "num": 321627,
+      "word": "道禄和尚前妻女儿现女友也涉案",
+      "onboard_time": 1750914085,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 305606,
       "num": 305606,
       "word": "庆余年3刘端端 换角",
@@ -371,12 +395,28 @@
       "category": "民生新闻,幽默"
     },
     {
+      "raw_hot": 295939,
+      "num": 295939,
+      "word": "酷似林依晨的曼联女孩高考出分",
+      "onboard_time": 1750912885,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 279044,
       "num": 279044,
       "word": "上海野生动物园回应大象群体霸凌",
       "onboard_time": 1750910541,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 278660,
+      "num": 278660,
+      "word": "沈腾要不给丁禹兮打个电话吧",
+      "onboard_time": 1750912405,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 277697,
@@ -425,6 +465,14 @@
       "onboard_time": 1750908440,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 260145,
+      "num": 260145,
+      "word": "女生高考涨了167分被吓到模糊",
+      "onboard_time": 1750916183,
+      "rank": 22,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 259601,
@@ -476,27 +524,11 @@
     },
     {
       "raw_hot": 236568,
-      "num": 236568,
+      "num": 264809,
       "word": "内娱唯二的姐",
       "onboard_time": 1750913185,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 232244,
-      "num": 232244,
-      "word": "沈腾要不给丁禹兮打个电话吧",
-      "onboard_time": 1750912405,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 230719,
-      "num": 248776,
-      "word": "充电宝安检新规",
-      "onboard_time": 1750912165,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 226291,
@@ -515,8 +547,8 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 218116,
-      "num": 218116,
+      "raw_hot": 218960,
+      "num": 218960,
       "word": "十个5年内月薪仍低于3千的专业",
       "onboard_time": 1750912044,
       "rank": 42,
@@ -529,14 +561,6 @@
       "onboard_time": 1750906400,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 214163,
-      "num": 269096,
-      "word": "道禄和尚前妻女儿现女友也涉案",
-      "onboard_time": 1750914085,
-      "rank": 14,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 213227,
@@ -555,12 +579,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207530,
+      "num": 266768,
+      "word": "王珞丹包场祝绪丹新剧",
+      "onboard_time": 1750915944,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204604,
       "num": 204604,
       "word": "男生淡定回应查分发现全是星号",
       "onboard_time": 1750905741,
       "rank": 30,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 203917,
+      "num": 230725,
+      "word": "美国演员争演中国短剧有人工资翻7倍",
+      "onboard_time": 1750914986,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 202406,
@@ -603,6 +643,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192657,
+      "num": 250573,
+      "word": "迪丽热巴暗红长袍新中式",
+      "onboard_time": 1750916183,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 188275,
+      "num": 227798,
+      "word": "上海偶遇皮筋猴排队",
+      "onboard_time": 1750916424,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187499,
       "num": 409228,
       "word": "黄奕低谷时曾被孙俪鼓舞",
@@ -633,6 +689,14 @@
       "onboard_time": 1750850602,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178534,
+      "num": 178534,
+      "word": "苍兰诀2动画定档",
+      "onboard_time": 1750915826,
+      "rank": 36,
+      "category": "动漫"
     },
     {
       "raw_hot": 177766,
@@ -811,14 +875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 153383,
-      "num": 153383,
-      "word": "酷似林依晨的曼联女孩高考出分",
-      "onboard_time": 1750912885,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 152580,
       "num": 306472,
       "word": "男生676分想报哈工大报效国家",
@@ -841,6 +897,14 @@
       "onboard_time": 1750913365,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 149056,
+      "num": 149056,
+      "word": "伊朗指挥官沙德马尼殉职",
+      "onboard_time": 1750915643,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 148767,
@@ -867,8 +931,16 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 145645,
+      "num": 145645,
+      "word": "抖音崩了",
+      "onboard_time": 1750914027,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 145593,
-      "num": 145593,
+      "num": 264408,
       "word": "港媒锐评今年港姐选手",
       "onboard_time": 1750914325,
       "rank": 37,
@@ -881,14 +953,6 @@
       "onboard_time": 1750912645,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 144227,
-      "num": 144227,
-      "word": "抖音崩了",
-      "onboard_time": 1750914027,
-      "rank": 38,
-      "category": "互联网"
     },
     {
       "raw_hot": 144092,
@@ -931,11 +995,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 139435,
-      "num": 230725,
-      "word": "美国演员争演中国短剧有人工资翻7倍",
-      "onboard_time": 1750914986,
-      "rank": 19,
+      "raw_hot": 140327,
+      "num": 140327,
+      "word": "阳江地震",
+      "onboard_time": 1750913724,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -945,6 +1009,14 @@
       "onboard_time": 1750914027,
       "rank": 42,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 135642,
+      "num": 150175,
+      "word": "原神雷电将军",
+      "onboard_time": 1750916244,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 134499,
@@ -987,6 +1059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127842,
+      "num": 127842,
+      "word": "淘宝崩了",
+      "onboard_time": 1750915464,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 124805,
       "num": 124805,
       "word": "周杰伦晒3岁小女儿萌照",
@@ -1001,14 +1081,6 @@
       "onboard_time": 1750915464,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 122407,
-      "num": 122407,
-      "word": "淘宝崩了",
-      "onboard_time": 1750915464,
-      "rank": 46,
-      "category": "互联网"
     },
     {
       "raw_hot": 119168,
@@ -1051,12 +1123,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114654,
+      "num": 114654,
+      "word": "迪丽热巴金靖胶片",
+      "onboard_time": 1750916665,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112215,
       "num": 112215,
       "word": "人和猫沟通救出了它的幼崽",
       "onboard_time": 1750908801,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 112194,
+      "num": 402485,
+      "word": "男子起诉银行骚扰电话获赔5000元",
+      "onboard_time": 1750915224,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110892,
@@ -1203,6 +1291,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 83512,
+      "num": 236024,
+      "word": "Pura80Ultra开售全面售罄",
+      "onboard_time": 1750915524,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 83501,
       "num": 83501,
       "word": "因推销电话骚扰男子将银行告上法庭",
@@ -1300,7 +1396,7 @@
     },
     {
       "raw_hot": 68338,
-      "num": 180180,
+      "num": 236874,
       "word": "尊界车主既有老钱也有新钱",
       "onboard_time": 1750914625,
       "rank": 26,
@@ -1417,14 +1513,6 @@
       "onboard_time": 1750876095,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 50865,
-      "num": 160395,
-      "word": "Pura80Ultra开售全面售罄",
-      "onboard_time": 1750915524,
-      "rank": 34,
-      "category": "数码"
     },
     {
       "raw_hot": 49680,
@@ -1603,6 +1691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 17968,
+      "num": 149389,
+      "word": "小米yu7将亮相好博会",
+      "onboard_time": 1750914085,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 16928,
       "num": 64161,
       "word": "姚策养母否认起诉是为炒作带货",
@@ -1617,14 +1713,6 @@
       "onboard_time": 1750877955,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15921,
-      "num": 142757,
-      "word": "小米yu7将亮相好博会",
-      "onboard_time": 1750914085,
-      "rank": 39,
-      "category": "汽车"
     },
     {
       "raw_hot": 12624,
