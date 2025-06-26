@@ -1,0 +1,410 @@
+{
+  "runTime": 1750952609174,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7771413,
+        "num": 7771413,
+        "word": "小米汽车",
+        "onboard_time": 1750934422,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 931274,
+        "num": 931274,
+        "word": "小米YU7价格",
+        "onboard_time": 1750940903,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 18597,
+        "num": 752392,
+        "word": "活力中国调研行",
+        "onboard_time": 1750933102,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 650825,
+        "num": 650825,
+        "word": "68岁大爷全身重彩刺青肠子都悔青了",
+        "onboard_time": 1750949605,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 607356,
+        "num": 607356,
+        "word": "288分女生接到高校电话",
+        "onboard_time": 1750941623,
+        "rank": 4,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 501802,
+        "num": 501802,
+        "word": "特斯拉",
+        "onboard_time": 1750946304,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 484799,
+        "num": 484799,
+        "word": "田栩宁方将取证",
+        "onboard_time": 1750947444,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 473689,
+        "num": 473689,
+        "word": "小米发布会",
+        "onboard_time": 1750934361,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 437494,
+        "num": 437494,
+        "word": "癌细胞最喜欢的5类食物",
+        "onboard_time": 1750946424,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 365372,
+        "num": 400866,
+        "word": "LV大秀直播",
+        "onboard_time": 1750945044,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 900476,
+        "num": 400789,
+        "word": "虞书欣的腰",
+        "onboard_time": 1750947324,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 485967,
+        "num": 396114,
+        "word": "刘亦菲裙子",
+        "onboard_time": 1750936341,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 389184,
+        "num": 389184,
+        "word": "王腾 比我们手机卖的还多",
+        "onboard_time": 1750949726,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 205441,
+        "num": 368453,
+        "word": "小米YU7大定3分钟破20万台",
+        "onboard_time": 1750950504,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 360503,
+        "num": 360503,
+        "word": "井柏然刘雯被当面追问婚讯",
+        "onboard_time": 1750951163,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321313,
+        "num": 321313,
+        "word": "好了没 好尴尬",
+        "onboard_time": 1750937781,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 285642,
+        "num": 285642,
+        "word": "王鹤棣一下子把王嘉尔抱起来了",
+        "onboard_time": 1750948286,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 218694,
+        "num": 218694,
+        "word": "缉毒民警被戴上手铐时才敢松口气",
+        "onboard_time": 1750930102,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185210,
+        "num": 201360,
+        "word": "张译是不是真上过班",
+        "onboard_time": 1750948586,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165052,
+        "num": 197667,
+        "word": "书卷一梦看似死三个其实死四个",
+        "onboard_time": 1750951224,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247219,
+        "num": 197653,
+        "word": "男子花90.8万彩礼娶的老婆不见了",
+        "onboard_time": 1750945586,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196773,
+        "num": 196773,
+        "word": "陆景和 酱子贝",
+        "onboard_time": 1750942283,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188322,
+        "num": 188322,
+        "word": "LV大秀",
+        "onboard_time": 1750936041,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 159559,
+        "num": 185698,
+        "word": "原来刘亦菲吃饭也是手机先吃",
+        "onboard_time": 1750942583,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185304,
+        "num": 185304,
+        "word": "十年前没人敢选的专业翻红了",
+        "onboard_time": 1750938622,
+        "rank": 24,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 158172,
+        "num": 183249,
+        "word": "母亲被骗30多万高中女儿辍学追退款",
+        "onboard_time": 1750950925,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157144,
+        "num": 182515,
+        "word": "书卷一梦",
+        "onboard_time": 1750933641,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187430,
+        "num": 180650,
+        "word": "小米YU7",
+        "onboard_time": 1750941983,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 135672,
+        "num": 178866,
+        "word": "这种矿泉水3秒让人丧失意识",
+        "onboard_time": 1750951944,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133721,
+        "num": 175454,
+        "word": "宋茜这一身太老公姐了",
+        "onboard_time": 1750948704,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 167307,
+        "num": 174978,
+        "word": "岚图高管称小米像网红奶茶",
+        "onboard_time": 1750947145,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 69751,
+        "num": 172010,
+        "word": "1名阿尔茨海默病老人术后找回记忆",
+        "onboard_time": 1750951344,
+        "rank": 31,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 170892,
+        "num": 170892,
+        "word": "哈梅内伊称狠狠扇了美国一个耳光",
+        "onboard_time": 1750950324,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151511,
+        "num": 151511,
+        "word": "谷爱凌训练BTS",
+        "onboard_time": 1750945524,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138887,
+        "num": 144954,
+        "word": "卢昱晓LV大秀造型",
+        "onboard_time": 1750951044,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 142880,
+        "num": 142880,
+        "word": "小米公司",
+        "onboard_time": 1750949425,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 122153,
+        "num": 122153,
+        "word": "孟子义接桃花映江山的原因找到了",
+        "onboard_time": 1750949006,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119615,
+        "num": 119615,
+        "word": "官方回应韩雪文物前打强光",
+        "onboard_time": 1750931181,
+        "rank": 37,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 55418,
+        "num": 118679,
+        "word": "美国打造鳄鱼恶魔岛关押移民",
+        "onboard_time": 1750952542,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 56264,
+        "num": 118493,
+        "word": "爱读书的工地大哥找到了",
+        "onboard_time": 1750952542,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136979,
+        "num": 118492,
+        "word": "韩路试小米YU7",
+        "onboard_time": 1750951764,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 118458,
+        "num": 118458,
+        "word": "贺峻霖采访",
+        "onboard_time": 1750948946,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 114022,
+        "num": 118140,
+        "word": "十个勤天演唱会",
+        "onboard_time": 1750951703,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117973,
+        "num": 117973,
+        "word": "27岁真的还很年轻很年轻",
+        "onboard_time": 1750934902,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117634,
+        "num": 117634,
+        "word": "日本回应特朗普将伊朗和广岛并论",
+        "onboard_time": 1750948464,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113509,
+        "num": 113509,
+        "word": "王嘉尔说再休假事业都要没了",
+        "onboard_time": 1750952423,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 111793,
+        "num": 111793,
+        "word": "充电宝",
+        "onboard_time": 1750940841,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110218,
+        "num": 110218,
+        "word": "白玉兰提名晚宴",
+        "onboard_time": 1750936823,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110042,
+        "num": 110042,
+        "word": "余承恩赵美延同框",
+        "onboard_time": 1750952542,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107800,
+        "num": 107800,
+        "word": "王楚然美拉德风热舞",
+        "onboard_time": 1750952363,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈耕地保护#"
+    }
+  }
+}
