@@ -1,0 +1,410 @@
+{
+  "runTime": 1750913469244,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2245941,
+        "num": 2245941,
+        "word": "央视曝光有学生吸食火机气体成瘾",
+        "onboard_time": 1750908321,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 988742,
+        "num": 988742,
+        "word": "原来可乐是最公平的饮料",
+        "onboard_time": 1750905621,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 42944,
+        "num": 893240,
+        "word": "高考放榜网警守护",
+        "onboard_time": 1750898842,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 871707,
+        "num": 871707,
+        "word": "延迟发朋友圈的好处",
+        "onboard_time": 1750909281,
+        "rank": 3,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 606739,
+        "num": 606739,
+        "word": "李一桐大蜈蚣爬身上那部剧终于要播了",
+        "onboard_time": 1750907421,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 691771,
+        "num": 597707,
+        "word": "江苏卫视长安的荔枝撤档",
+        "onboard_time": 1750903521,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 570940,
+        "num": 570940,
+        "word": "特朗普将袭击伊朗类比对日本投原子弹",
+        "onboard_time": 1750910541,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 485231,
+        "num": 485231,
+        "word": "陈震 小米",
+        "onboard_time": 1750907121,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 380265,
+        "num": 380265,
+        "word": "杨瀚森第九位被选中的中国球员",
+        "onboard_time": 1750904482,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147891,
+        "num": 380080,
+        "word": "曾救助百名弃婴的道禄被警方控制",
+        "onboard_time": 1750912285,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236238,
+        "num": 374406,
+        "word": "张朝阳张雪峰讨论选700分还是700万",
+        "onboard_time": 1750910844,
+        "rank": 10,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 576205,
+        "num": 368539,
+        "word": "小沈阳女儿cha大展鸿图",
+        "onboard_time": 1750902321,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 487203,
+        "num": 364429,
+        "word": "成绩被屏蔽女孩坚信不存在智商差距",
+        "onboard_time": 1750865542,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78453,
+        "num": 361965,
+        "word": "白鹿我的必吃榜饭搭子",
+        "onboard_time": 1750910723,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52102,
+        "num": 356509,
+        "word": "榕江一地下商铺几乎被洪水淹没",
+        "onboard_time": 1750912285,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356003,
+        "num": 356003,
+        "word": "闪婚不到一年丈夫起诉离婚讨百万彩礼",
+        "onboard_time": 1750906041,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336306,
+        "num": 336306,
+        "word": "王安宇 我只是半夜的林黛玉",
+        "onboard_time": 1750910904,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316938,
+        "num": 316938,
+        "word": "刘轩丞榜一大姐",
+        "onboard_time": 1750905922,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 312341,
+        "num": 312341,
+        "word": "美国B2幽灵轰炸机飞行员emo了",
+        "onboard_time": 1750901601,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 302080,
+        "num": 302080,
+        "word": "樱桃琥珀",
+        "onboard_time": 1750907121,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301276,
+        "num": 301276,
+        "word": "李一桐王佑硕婚了么外卖已送达",
+        "onboard_time": 1750912465,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262257,
+        "num": 262257,
+        "word": "老师高考差3分输赌约全班坐等开饭",
+        "onboard_time": 1750903822,
+        "rank": 21,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 236568,
+        "num": 236568,
+        "word": "内娱唯二的姐",
+        "onboard_time": 1750913185,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218116,
+        "num": 218116,
+        "word": "十个5年内月薪仍低于3千的专业",
+        "onboard_time": 1750912044,
+        "rank": 23,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 217211,
+        "num": 217211,
+        "word": "鹅鸭杀开测",
+        "onboard_time": 1750911324,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 216689,
+        "num": 216689,
+        "word": "沈腾要不给丁禹兮打个电话吧",
+        "onboard_time": 1750912405,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214003,
+        "num": 214003,
+        "word": "这位一等功臣至今没有露脸公开影像",
+        "onboard_time": 1750904001,
+        "rank": 26,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 212275,
+        "num": 212275,
+        "word": "书卷一梦云包场",
+        "onboard_time": 1750912524,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194341,
+        "num": 194341,
+        "word": "上海野生动物园回应大象群体霸凌",
+        "onboard_time": 1750910541,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182587,
+        "num": 182587,
+        "word": "月薪15000每月只花1000块",
+        "onboard_time": 1750894038,
+        "rank": 29,
+        "category": "民生新闻,幽默"
+      },
+      {
+        "raw_hot": 239302,
+        "num": 181958,
+        "word": "篮网选秀大爆冷",
+        "onboard_time": 1750912165,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181249,
+        "num": 181249,
+        "word": "海关大战labubu",
+        "onboard_time": 1750909462,
+        "rank": 31,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 180604,
+        "num": 180604,
+        "word": "副教授被害前还在给学生改论文",
+        "onboard_time": 1750907301,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165858,
+        "num": 165858,
+        "word": "荔枝价格",
+        "onboard_time": 1750909702,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 153560,
+        "num": 153560,
+        "word": "中国篮球协会发贺信祝贺杨瀚森",
+        "onboard_time": 1750911805,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153383,
+        "num": 153383,
+        "word": "酷似林依晨的曼联女孩高考出分",
+        "onboard_time": 1750912885,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150263,
+        "num": 150263,
+        "word": "刘宇宁下点毒全炫自己嘴里了",
+        "onboard_time": 1750906400,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149975,
+        "num": 149975,
+        "word": "00后鸿蒙开发者两周赚一部三折叠",
+        "onboard_time": 1750913365,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 18972,
+        "num": 148746,
+        "word": "中国男排1比1美国男排",
+        "onboard_time": 1750905741,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20843,
+        "num": 148093,
+        "word": "知名coser全场巡游等你来集邮",
+        "onboard_time": 1750910482,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 147540,
+        "num": 147540,
+        "word": "六公主认证灵笼2爆火",
+        "onboard_time": 1750910063,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 146732,
+        "num": 146732,
+        "word": "黄奕低谷时曾被孙俪鼓舞",
+        "onboard_time": 1750907961,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144777,
+        "num": 144777,
+        "word": "杨瀚森薪资",
+        "onboard_time": 1750907061,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144447,
+        "num": 144447,
+        "word": "朕从未见过如此权威的民偶",
+        "onboard_time": 1750912645,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60768,
+        "num": 144130,
+        "word": "学会外耗",
+        "onboard_time": 1750912165,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144092,
+        "num": 144092,
+        "word": "适合一个人住的50平老破小",
+        "onboard_time": 1750912885,
+        "rank": 45,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 141194,
+        "num": 141194,
+        "word": "开拓者阵容",
+        "onboard_time": 1750913365,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137923,
+        "num": 137923,
+        "word": "BLACKPINK世巡概念预告",
+        "onboard_time": 1750901301,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133860,
+        "num": 133860,
+        "word": "开拓者说没想到吧",
+        "onboard_time": 1750911864,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126691,
+        "num": 126691,
+        "word": "贵州榕江洪灾致6人遇难",
+        "onboard_time": 1750910002,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记对土地的深情#"
+    }
+  }
+}

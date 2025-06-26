@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/26 12:36:15
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/26 12:51:09
 </p>
 </blockquote>
 <p>
@@ -585,6 +585,12 @@ GAI第一（热度：4228592）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%9C%89%E5%AD%A6%E7%94%9F%E5%90%B8%E9%A3%9F%E7%81%AB%E6%9C%BA%E6%B0%94%E4%BD%93%E6%88%90%E7%98%BE%23" target="weibo">
+央视曝光有学生吸食火机气体成瘾（热度：2245941）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%A0%E9%81%93%E6%98%AF%E5%A5%BD%E7%9A%84%20%E9%92%B1%E4%B8%8D%E5%88%B0%E4%BD%8D%E5%B0%B1%E5%88%87%E6%8E%89%23" target="weibo">
 肠道是好的 钱不到位就切掉（热度：2241075）
 </a>
@@ -671,12 +677,6 @@ GAI第一（热度：4228592）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23iOS26%20%E4%B8%91%23" target="weibo">
 iOS26 丑（热度：2160228）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%9C%89%E5%AD%A6%E7%94%9F%E5%90%B8%E9%A3%9F%E7%81%AB%E6%9C%BA%E6%B0%94%E4%BD%93%E6%88%90%E7%98%BE%23" target="weibo">
-央视曝光有学生吸食火机气体成瘾（热度：2154979）
 </a>
 </li>
 
@@ -4083,6 +4083,12 @@ aespa回归预告（热度：882775）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BB%B6%E8%BF%9F%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%9A%84%E5%A5%BD%E5%A4%84%23" target="weibo">
+延迟发朋友圈的好处（热度：871707）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AA%92%E4%BD%93%E7%A7%B0%E5%B0%86%E5%8F%91%E7%94%9F%E4%B8%96%E7%95%8C%E9%93%AD%E8%AE%B0%E7%9A%84%E5%A4%A7%E4%BA%8B%23" target="weibo">
 伊朗媒体称将发生世界铭记的大事（热度：871250）
 </a>
@@ -4721,12 +4727,6 @@ T3司机猥亵大三女生被行拘5日（热度：810171）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BA%BA%E8%B7%AA%E5%9C%B0%E5%93%80%E6%B1%82%E4%B8%BB%E7%AE%A1%E5%88%AB%E5%BC%80%E9%99%A4%23" target="weibo">
 工人跪地哀求主管别开除（热度：799705）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BB%B6%E8%BF%9F%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%9A%84%E5%A5%BD%E5%A4%84%23" target="weibo">
-延迟发朋友圈的好处（热度：798817）
 </a>
 </li>
 
