@@ -1,6 +1,6 @@
 {
   "startTime": 1750869299096,
-  "endTime": 1750916716234,
+  "endTime": 1750919925327,
   "band_list": [
     {
       "raw_hot": 2245941,
@@ -9,6 +9,14 @@
       "onboard_time": 1750908321,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2102609,
+      "num": 2102609,
+      "word": "女生高考涨了167分被吓到模糊",
+      "onboard_time": 1750916183,
+      "rank": 22,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 1566423,
@@ -83,6 +91,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 690019,
+      "num": 690019,
+      "word": "充电宝安检新规",
+      "onboard_time": 1750912165,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 684960,
       "num": 684960,
       "word": "先锋书店禁商拍后现状",
@@ -153,6 +169,14 @@
       "onboard_time": 1750903822,
       "rank": 20,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 537171,
+      "num": 537171,
+      "word": "民航局对充电宝发紧急通知",
+      "onboard_time": 1750917982,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 508836,
@@ -235,6 +259,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 427235,
+      "num": 427235,
+      "word": "禁止带无3C被召回充电宝坐境内航班",
+      "onboard_time": 1750917923,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 425563,
+      "num": 425563,
+      "word": "我把对家嘴亲肿了",
+      "onboard_time": 1750918404,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 421855,
       "num": 421855,
       "word": "刘轩丞榜一大姐",
@@ -299,14 +339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 363503,
-      "num": 363503,
-      "word": "充电宝安检新规",
-      "onboard_time": 1750912165,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 363333,
       "num": 363333,
       "word": "言冰云",
@@ -355,12 +387,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 329084,
+      "num": 329084,
+      "word": "书卷一梦热度",
+      "onboard_time": 1750916364,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 321627,
       "num": 321627,
       "word": "道禄和尚前妻女儿现女友也涉案",
       "onboard_time": 1750914085,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 315451,
+      "num": 359577,
+      "word": "刘轩丞方回应",
+      "onboard_time": 1750918103,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 309547,
+      "num": 309547,
+      "word": "上海偶遇皮筋猴排队",
+      "onboard_time": 1750916424,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 305606,
@@ -384,6 +440,14 @@
       "word": "李一桐王佑硕婚了么外卖已送达",
       "onboard_time": 1750912465,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 296517,
+      "num": 261817,
+      "word": "那尔那茜 长安的荔枝",
+      "onboard_time": 1750917862,
+      "rank": 19,
       "category": "剧集"
     },
     {
@@ -435,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 273341,
+      "num": 259426,
+      "word": "迪丽热巴金靖胶片",
+      "onboard_time": 1750916665,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 266454,
       "num": 266454,
       "word": "鹅鸭杀开测",
@@ -467,14 +539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 260145,
-      "num": 260145,
-      "word": "女生高考涨了167分被吓到模糊",
-      "onboard_time": 1750916183,
-      "rank": 22,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 259601,
       "num": 259601,
       "word": "中方回应特朗普要中国买美国石油",
@@ -499,6 +563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 255749,
+      "num": 255749,
+      "word": "经纪公司最新回应姜涛坠海原因",
+      "onboard_time": 1750919300,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 251958,
       "num": 217781,
       "word": "这届年轻人靠认知差赚了多少钱",
@@ -513,6 +585,14 @@
       "onboard_time": 1750910844,
       "rank": 15,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 249952,
+      "num": 249952,
+      "word": "二师兄 泄露",
+      "onboard_time": 1750917624,
+      "rank": 23,
+      "category": "汽车"
     },
     {
       "raw_hot": 242598,
@@ -576,6 +656,14 @@
       "word": "书卷一梦云包场",
       "onboard_time": 1750912524,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 212167,
+      "num": 212167,
+      "word": "生病的妈啃老的哥一心赚钱的她",
+      "onboard_time": 1750919121,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -643,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193059,
+      "num": 193059,
+      "word": "3C充电宝",
+      "onboard_time": 1750919061,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192657,
       "num": 250573,
       "word": "迪丽热巴暗红长袍新中式",
@@ -651,12 +747,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 188275,
-      "num": 227798,
-      "word": "上海偶遇皮筋猴排队",
-      "onboard_time": 1750916424,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 188670,
+      "num": 402485,
+      "word": "男子起诉银行骚扰电话获赔5000元",
+      "onboard_time": 1750915224,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187499,
@@ -673,6 +769,14 @@
       "onboard_time": 1750914684,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183054,
+      "num": 183054,
+      "word": "班主任回应扁担女孩高考成绩",
+      "onboard_time": 1750918941,
+      "rank": 29,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 179260,
@@ -705,6 +809,14 @@
       "onboard_time": 1750907901,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176817,
+      "num": 176817,
+      "word": "中国短剧成美国影视失业者救命稻草",
+      "onboard_time": 1750916843,
+      "rank": 30,
+      "category": "剧集,民生新闻"
     },
     {
       "raw_hot": 176710,
@@ -820,7 +932,7 @@
     },
     {
       "raw_hot": 156685,
-      "num": 156685,
+      "num": 309778,
       "word": "男子吸食火机气体再抽烟引发爆炸",
       "onboard_time": 1750908981,
       "rank": 48,
@@ -1027,6 +1139,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 134135,
+      "num": 134135,
+      "word": "世界上少了一只唯物主义的猫",
+      "onboard_time": 1750918462,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 133867,
       "num": 133867,
       "word": "西瓜酱",
@@ -1051,12 +1171,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 130763,
+      "num": 130763,
+      "word": "果然没有人上班是开心的",
+      "onboard_time": 1750919481,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129524,
       "num": 129524,
       "word": "原来真的有人能热爱生活成这样",
       "onboard_time": 1750895780,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 129209,
+      "num": 129209,
+      "word": "崔永熙让杨瀚森保护好自己别受伤",
+      "onboard_time": 1750917802,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 127842,
@@ -1067,6 +1203,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 127141,
+      "num": 127141,
+      "word": "伊朗",
+      "onboard_time": 1750919661,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 124805,
       "num": 124805,
       "word": "周杰伦晒3岁小女儿萌照",
@@ -1075,12 +1219,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122566,
+      "num": 122566,
+      "word": "李一桐大婚刘宇宁王佑硕又争又抢",
+      "onboard_time": 1750919421,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122552,
       "num": 122552,
       "word": "开始推理吧",
       "onboard_time": 1750915464,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119780,
+      "num": 119780,
+      "word": "桃花映江山开播热度",
+      "onboard_time": 1750919421,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 119168,
@@ -1097,6 +1257,14 @@
       "onboard_time": 1750897221,
       "rank": 35,
       "category": "网红"
+    },
+    {
+      "raw_hot": 117510,
+      "num": 117510,
+      "word": "上海月薪19000一天的花销",
+      "onboard_time": 1750919720,
+      "rank": 43,
+      "category": "休闲"
     },
     {
       "raw_hot": 116435,
@@ -1123,12 +1291,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 114654,
-      "num": 114654,
-      "word": "迪丽热巴金靖胶片",
-      "onboard_time": 1750916665,
-      "rank": 49,
-      "category": "艺人"
+      "raw_hot": 113064,
+      "num": 266188,
+      "word": "杨瀚森一切皆有可能",
+      "onboard_time": 1750918163,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 112215,
@@ -1139,20 +1307,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 112194,
-      "num": 402485,
-      "word": "男子起诉银行骚扰电话获赔5000元",
-      "onboard_time": 1750915224,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 110892,
       "num": 201110,
       "word": "女儿查分猛超陪考老爸200多分",
       "onboard_time": 1750892238,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110006,
+      "num": 110006,
+      "word": "迪丽热巴金靖合照有阴湿女鬼味了",
+      "onboard_time": 1750916903,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 108741,
@@ -1227,6 +1395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97264,
+      "num": 265566,
+      "word": "刘学义你别来添乱了",
+      "onboard_time": 1750919181,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 96974,
       "num": 96974,
       "word": "花在毒品上的钱是打向缉毒警的子弹",
@@ -1259,6 +1435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87828,
+      "num": 236024,
+      "word": "Pura80Ultra开售全面售罄",
+      "onboard_time": 1750915524,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 86341,
       "num": 86341,
       "word": "孕妇1天2杯奶茶致早产孩子仅3斤2两",
@@ -1289,14 +1473,6 @@
       "onboard_time": 1750862723,
       "rank": 33,
       "category": "网红,民生新闻"
-    },
-    {
-      "raw_hot": 83512,
-      "num": 236024,
-      "word": "Pura80Ultra开售全面售罄",
-      "onboard_time": 1750915524,
-      "rank": 34,
-      "category": "数码"
     },
     {
       "raw_hot": 83501,
@@ -1425,6 +1601,14 @@
       "onboard_time": 1750869921,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 62468,
+      "num": 124216,
+      "word": "杨瀚森四年薪资预计2139万美元",
+      "onboard_time": 1750916004,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 61617,
@@ -1758,6 +1942,9 @@
   "hotgov_list": [
     {
       "word": "#习近平总书记对土地的深情#"
+    },
+    {
+      "word": "#总书记谈耕地保护#"
     }
   ]
 }

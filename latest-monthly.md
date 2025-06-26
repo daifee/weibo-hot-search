@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/26 13:45:16
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/26 14:38:45
 </p>
 </blockquote>
 <p>
@@ -719,6 +719,12 @@ iOS26 丑（热度：2160228）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E4%B8%8D%E9%98%B2%E6%99%92%E7%9A%84%E9%98%B2%E6%99%92%E8%A1%A3%23" target="weibo">
 央视曝光不防晒的防晒衣（热度：2102829）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83%E6%B6%A8%E4%BA%86167%E5%88%86%E8%A2%AB%E5%90%93%E5%88%B0%E6%A8%A1%E7%B3%8A%23" target="weibo">
+女生高考涨了167分被吓到模糊（热度：2102609）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ labubu牙套（热度：696332）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%9C%A8%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2%E8%A2%AB%E6%8C%96%E5%8F%8C%E7%9C%BC%E6%B6%89%E4%BA%8B%E7%A7%91%E5%AE%A4%E5%8F%97%E5%A4%84%E5%88%86%23" target="weibo">
 老人在精神病院被挖双眼涉事科室受处分（热度：692184）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%B8%82%E4%B8%AD%E5%BF%83%E5%BD%BB%E5%BA%95%E7%96%AF%E4%BA%86%23" target="weibo">
-洛杉矶市中心彻底疯了（热度：692104）
 </a>
 </li>
 
