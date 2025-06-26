@@ -1,6 +1,6 @@
 {
   "startTime": 1750955581651,
-  "endTime": 1750959767550,
+  "endTime": 1750963012407,
   "band_list": [
     {
       "raw_hot": 3091316,
@@ -403,8 +403,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 73060,
-      "num": 73060,
+      "raw_hot": 75385,
+      "num": 75385,
       "word": "书卷一梦编剧回应",
       "onboard_time": 1750957577,
       "rank": 29,
@@ -451,6 +451,22 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 39584,
+      "num": 39584,
+      "word": "日本回应特朗普将伊朗和广岛并论",
+      "onboard_time": 1750948464,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 29331,
+      "num": 29331,
+      "word": "KPL",
+      "onboard_time": 1750962196,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 28331,
       "num": 94966,
       "word": "你是说在地大用天地当课堂吗",
@@ -465,6 +481,22 @@
       "onboard_time": 1750959137,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22479,
+      "num": 26845,
+      "word": "苏新皓给外国友人推荐微博",
+      "onboard_time": 1750962854,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 21163,
+      "num": 26843,
+      "word": "第30届上海电视节",
+      "onboard_time": 1750962136,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 15703,
