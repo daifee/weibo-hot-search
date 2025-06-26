@@ -1,0 +1,410 @@
+{
+  "runTime": 1750927787955,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7324769,
+        "num": 7324769,
+        "word": "都美竹骗我20万",
+        "onboard_time": 1750921640,
+        "rank": 0,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 872399,
+        "num": 872399,
+        "word": "女生高考涨了167分被吓到模糊",
+        "onboard_time": 1750916183,
+        "rank": 1,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 20039,
+        "num": 590855,
+        "word": "高考放榜网警守护",
+        "onboard_time": 1750898842,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 541888,
+        "num": 541888,
+        "word": "刘轩丞 没骗钱没出轨",
+        "onboard_time": 1750925183,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 492391,
+        "num": 492391,
+        "word": "央视曝光有学生吸食火机气体成瘾",
+        "onboard_time": 1750908321,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 475032,
+        "num": 475032,
+        "word": "民航局对充电宝发紧急通知",
+        "onboard_time": 1750917982,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 465966,
+        "num": 465966,
+        "word": "都美竹",
+        "onboard_time": 1750922961,
+        "rank": 6,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 403362,
+        "num": 403362,
+        "word": "罗马仕",
+        "onboard_time": 1750922780,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 367779,
+        "num": 367779,
+        "word": "韩国现在最火的男演员",
+        "onboard_time": 1750924342,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320856,
+        "num": 365966,
+        "word": "我国自主研发新一代CPU发布",
+        "onboard_time": 1750926440,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1234150,
+        "num": 360311,
+        "word": "韩雪 文物前打强光",
+        "onboard_time": 1750926142,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 534825,
+        "num": 357016,
+        "word": "985博士后被举报在妻子孕期出轨",
+        "onboard_time": 1750924162,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 431578,
+        "num": 349311,
+        "word": "广州花都50多人凌晨白衣列队行走",
+        "onboard_time": 1750924822,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 347778,
+        "num": 347778,
+        "word": "那尔那茜 长安的荔枝",
+        "onboard_time": 1750917862,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108677,
+        "num": 328615,
+        "word": "跪着高考的00后折叠男孩打开了",
+        "onboard_time": 1750926682,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323552,
+        "num": 323552,
+        "word": "美方想把战火引向台湾",
+        "onboard_time": 1750926502,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 273029,
+        "num": 273029,
+        "word": "半岁宝宝反复咳体内取出17厘米巨瘤",
+        "onboard_time": 1750926323,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198287,
+        "num": 263759,
+        "word": "谁给车银优撕拉片做的发型",
+        "onboard_time": 1750925422,
+        "rank": 17,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 170595,
+        "num": 260225,
+        "word": "迪丽热巴金靖合照有阴湿女鬼味了",
+        "onboard_time": 1750916903,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256931,
+        "num": 256931,
+        "word": "刘轩丞录音",
+        "onboard_time": 1750921521,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248283,
+        "num": 248283,
+        "word": "举报前公婆近亿资产涉贪女子最新发声",
+        "onboard_time": 1750921521,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232101,
+        "num": 232101,
+        "word": "禁止带无3C被召回充电宝坐境内航班",
+        "onboard_time": 1750917923,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287258,
+        "num": 231786,
+        "word": "985博士后在妻子孕期出轨被退站",
+        "onboard_time": 1750926142,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230245,
+        "num": 230245,
+        "word": "延迟发朋友圈的好处",
+        "onboard_time": 1750909281,
+        "rank": 23,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 39560,
+        "num": 203282,
+        "word": "为什么说江财是被低估的财经大学",
+        "onboard_time": 1750927341,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 199584,
+        "num": 199584,
+        "word": "女生分手后狂吃8斤食物险丧命",
+        "onboard_time": 1750923442,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160261,
+        "num": 160261,
+        "word": "小时候没带走的亲女儿死后为她迁坟",
+        "onboard_time": 1750926862,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154218,
+        "num": 154218,
+        "word": "李一桐好美",
+        "onboard_time": 1750927041,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145396,
+        "num": 152786,
+        "word": "龚俊lv大秀路透",
+        "onboard_time": 1750926381,
+        "rank": 28,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 20172,
+        "num": 151999,
+        "word": "吸食火机气体为什么会成瘾",
+        "onboard_time": 1750927341,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165025,
+        "num": 149874,
+        "word": "黄雅琼硕士毕业",
+        "onboard_time": 1750925962,
+        "rank": 30,
+        "category": "体育,教育"
+      },
+      {
+        "raw_hot": 162061,
+        "num": 148545,
+        "word": "八颗喜糖事件",
+        "onboard_time": 1750927702,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148199,
+        "num": 148199,
+        "word": "女子举报公婆涉贪腐为何一年没结果",
+        "onboard_time": 1750922061,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141713,
+        "num": 141713,
+        "word": "同学曝刘轩丞人品很差",
+        "onboard_time": 1750925841,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135488,
+        "num": 135488,
+        "word": "书卷一梦热度",
+        "onboard_time": 1750916364,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133896,
+        "num": 133896,
+        "word": "周翊然经纪人说不准谈",
+        "onboard_time": 1750927102,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128261,
+        "num": 128261,
+        "word": "充电宝成了烫手山芋",
+        "onboard_time": 1750921461,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125459,
+        "num": 125459,
+        "word": "二师兄 泄露",
+        "onboard_time": 1750917624,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 123536,
+        "num": 123536,
+        "word": "班主任回应扁担女孩高考成绩",
+        "onboard_time": 1750918941,
+        "rank": 38,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 73578,
+        "num": 121424,
+        "word": "真正会上班的人都是带薪养生",
+        "onboard_time": 1750921941,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 120150,
+        "num": 120150,
+        "word": "审美降级",
+        "onboard_time": 1750927582,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119651,
+        "num": 119651,
+        "word": "美方意在毁台害台用心险恶",
+        "onboard_time": 1750927643,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 119605,
+        "num": 119605,
+        "word": "当财务自由后才明白的道理",
+        "onboard_time": 1750925662,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114476,
+        "num": 114476,
+        "word": "李一桐 演技灵动",
+        "onboard_time": 1750927282,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112320,
+        "num": 112320,
+        "word": "3C充电宝",
+        "onboard_time": 1750919061,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110789,
+        "num": 110789,
+        "word": "YU7发布前特斯拉股价大跌",
+        "onboard_time": 1750924462,
+        "rank": 45,
+        "category": "汽车,财经"
+      },
+      {
+        "raw_hot": 110504,
+        "num": 110504,
+        "word": "顺丰等快递拒收召回充电宝",
+        "onboard_time": 1750921581,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110424,
+        "num": 110424,
+        "word": "陈震 小米",
+        "onboard_time": 1750907121,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 109513,
+        "num": 109513,
+        "word": "多方回应50多人凌晨白衣列队行走",
+        "onboard_time": 1750926923,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104619,
+        "num": 104619,
+        "word": "高考704分女孩说脑袋晕晕的",
+        "onboard_time": 1750925062,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈耕地保护#"
+    }
+  }
+}
