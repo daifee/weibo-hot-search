@@ -1,6 +1,6 @@
 {
   "startTime": 1750955581651,
-  "endTime": 1750973120318,
+  "endTime": 1750974026052,
   "band_list": [
     {
       "raw_hot": 3091316,
@@ -499,7 +499,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22971,
+      "raw_hot": 23491,
       "num": 23726,
       "word": "跪谢爷爷的双胞胎兄弟高考成绩出炉",
       "onboard_time": 1750963816,
@@ -513,6 +513,22 @@
       "onboard_time": 1750962854,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 22295,
+      "num": 22295,
+      "word": "教育局回应学生体育课玩手机被处分",
+      "onboard_time": 1750967174,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21638,
+      "num": 21638,
+      "word": "尤文图斯vs曼城",
+      "onboard_time": 1750966514,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 21163,
@@ -531,22 +547,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20622,
-      "num": 20622,
-      "word": "教育局回应学生体育课玩手机被处分",
-      "onboard_time": 1750967174,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20209,
-      "num": 20209,
-      "word": "尤文图斯vs曼城",
-      "onboard_time": 1750966514,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 20080,
       "num": 23756,
       "word": "煤气泄露14岁男生救了整栋楼",
@@ -563,7 +563,7 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 15798,
+      "raw_hot": 18025,
       "num": 35675,
       "word": "列车车次首字母原来是这个意思",
       "onboard_time": 1750968675,

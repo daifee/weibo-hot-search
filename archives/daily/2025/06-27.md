@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/27 00:33:01 ~ 2025/06/27 05:25:20
+本榜单时间：2025/06/27 00:33:01 ~ 2025/06/27 05:40:26
 </p>
 </blockquote>
 <p>
@@ -388,13 +388,25 @@ hamin机场（热度：24603）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B7%AA%E8%B0%A2%E7%88%B7%E7%88%B7%E7%9A%84%E5%8F%8C%E8%83%9E%E8%83%8E%E5%85%84%E5%BC%9F%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E5%87%BA%E7%82%89%23" target="weibo">
-跪谢爷爷的双胞胎兄弟高考成绩出炉（热度：22971）
+跪谢爷爷的双胞胎兄弟高考成绩出炉（热度：23491）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%96%B0%E7%9A%93%E7%BB%99%E5%A4%96%E5%9B%BD%E5%8F%8B%E4%BA%BA%E6%8E%A8%E8%8D%90%E5%BE%AE%E5%8D%9A%23" target="weibo">
 苏新皓给外国友人推荐微博（热度：22479）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E4%BD%93%E8%82%B2%E8%AF%BE%E7%8E%A9%E6%89%8B%E6%9C%BA%E8%A2%AB%E5%A4%84%E5%88%86%23" target="weibo">
+教育局回应学生体育课玩手机被处分（热度：22295）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%A4%E6%96%87%E5%9B%BE%E6%96%AFvs%E6%9B%BC%E5%9F%8E%23" target="weibo">
+尤文图斯vs曼城（热度：21638）
 </a>
 </li>
 
@@ -407,18 +419,6 @@ hamin机场（热度：24603）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%81%93%E7%A6%84%E8%A2%AB%E9%87%87%E5%8F%96%E5%88%91%E4%BA%8B%E5%BC%BA%E5%88%B6%E6%8E%AA%E6%96%BD%23" target="weibo">
 道禄被采取刑事强制措施（热度：20728）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E4%BD%93%E8%82%B2%E8%AF%BE%E7%8E%A9%E6%89%8B%E6%9C%BA%E8%A2%AB%E5%A4%84%E5%88%86%23" target="weibo">
-教育局回应学生体育课玩手机被处分（热度：20622）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%A4%E6%96%87%E5%9B%BE%E6%96%AFvs%E6%9B%BC%E5%9F%8E%23" target="weibo">
-尤文图斯vs曼城（热度：20209）
 </a>
 </li>
 
@@ -436,7 +436,7 @@ hamin机场（热度：24603）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%97%E8%BD%A6%E8%BD%A6%E6%AC%A1%E9%A6%96%E5%AD%97%E6%AF%8D%E5%8E%9F%E6%9D%A5%E6%98%AF%E8%BF%99%E4%B8%AA%E6%84%8F%E6%80%9D%23" target="weibo">
-列车车次首字母原来是这个意思（热度：15798）
+列车车次首字母原来是这个意思（热度：18025）
 </a>
 </li>
 
