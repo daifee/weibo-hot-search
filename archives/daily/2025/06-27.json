@@ -1,6 +1,6 @@
 {
   "startTime": 1750955581651,
-  "endTime": 1750969764594,
+  "endTime": 1750970606733,
   "band_list": [
     {
       "raw_hot": 3091316,
@@ -531,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20001,
+      "num": 40905,
+      "word": "道禄还涉嫌其他违法犯罪行为",
+      "onboard_time": 1750968374,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 18705,
       "num": 18705,
       "word": "尤文图斯vs曼城",
@@ -571,12 +579,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 12922,
-      "num": 40905,
-      "word": "道禄还涉嫌其他违法犯罪行为",
-      "onboard_time": 1750968374,
-      "rank": 9,
-      "category": "舆论监督"
+      "raw_hot": 12277,
+      "num": 35675,
+      "word": "列车车次首字母原来是这个意思",
+      "onboard_time": 1750968675,
+      "rank": 14,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
