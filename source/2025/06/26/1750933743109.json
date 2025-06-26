@@ -1,0 +1,410 @@
+{
+  "runTime": 1750933743109,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 845361,
+        "num": 1135257,
+        "word": "LV大秀主持人是贺峻霖",
+        "onboard_time": 1750928062,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 683823,
+        "num": 683823,
+        "word": "女生高考涨了167分被吓到模糊",
+        "onboard_time": 1750916183,
+        "rank": 1,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 34161,
+        "num": 520978,
+        "word": "活力中国调研行",
+        "onboard_time": 1750933102,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 494751,
+        "num": 494751,
+        "word": "美方想把战火引向台湾",
+        "onboard_time": 1750926502,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 325731,
+        "num": 325731,
+        "word": "我国自主研发新一代CPU发布",
+        "onboard_time": 1750926440,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2056623,
+        "num": 320434,
+        "word": "都美竹回应骗钱",
+        "onboard_time": 1750931122,
+        "rank": 5,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 367546,
+        "num": 318713,
+        "word": "官方回应韩雪文物前打强光",
+        "onboard_time": 1750931181,
+        "rank": 6,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 314218,
+        "num": 314218,
+        "word": "民航局对充电宝发紧急通知",
+        "onboard_time": 1750917982,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299415,
+        "num": 299415,
+        "word": "缉毒民警被戴上手铐时才敢松口气",
+        "onboard_time": 1750930102,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298704,
+        "num": 298704,
+        "word": "央视曝光有学生吸食火机气体成瘾",
+        "onboard_time": 1750908321,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 637337,
+        "num": 298536,
+        "word": "审美降级",
+        "onboard_time": 1750927582,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 762547,
+        "num": 298239,
+        "word": "韩雪 文物前打强光",
+        "onboard_time": 1750926142,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416747,
+        "num": 298096,
+        "word": "禁止带无3C被召回充电宝坐境内航班",
+        "onboard_time": 1750917923,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380211,
+        "num": 297644,
+        "word": "刘晓庆想亲脸 人家把嘴递上了",
+        "onboard_time": 1750932321,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319431,
+        "num": 297550,
+        "word": "田栩宁沈月新剧男三",
+        "onboard_time": 1750929863,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297368,
+        "num": 297368,
+        "word": "LV上海活动机场路透",
+        "onboard_time": 1750929683,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 263589,
+        "num": 263589,
+        "word": "韩国现在最火的男演员",
+        "onboard_time": 1750924342,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39322,
+        "num": 247095,
+        "word": "山东大学有哪些隐藏的王牌专业",
+        "onboard_time": 1750932621,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 239389,
+        "num": 239389,
+        "word": "迪丽热巴金靖合照有阴湿女鬼味了",
+        "onboard_time": 1750916903,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20665,
+        "num": 201300,
+        "word": "回不去的美国制造",
+        "onboard_time": 1750933282,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 375331,
+        "num": 200231,
+        "word": "半岁宝宝反复咳体内取出17厘米巨瘤",
+        "onboard_time": 1750926323,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351925,
+        "num": 197740,
+        "word": "广州花都50多人凌晨白衣列队行走",
+        "onboard_time": 1750924822,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193392,
+        "num": 193392,
+        "word": "八颗喜糖事件",
+        "onboard_time": 1750927702,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185752,
+        "num": 185752,
+        "word": "刘轩丞 没骗钱没出轨",
+        "onboard_time": 1750925183,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179033,
+        "num": 179033,
+        "word": "九尾尝试新风格",
+        "onboard_time": 1750932202,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 169317,
+        "num": 169317,
+        "word": "徐艺洋舍不得非洲家人",
+        "onboard_time": 1750931059,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168941,
+        "num": 168941,
+        "word": "确认被爱后面相都变了",
+        "onboard_time": 1750931482,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159688,
+        "num": 159688,
+        "word": "刘宇宁新剧连失初吻二吻三吻",
+        "onboard_time": 1750933342,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148568,
+        "num": 148568,
+        "word": "举报前公婆近亿资产涉贪女子最新发声",
+        "onboard_time": 1750921521,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141481,
+        "num": 141481,
+        "word": "罗马仕",
+        "onboard_time": 1750922780,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136199,
+        "num": 136199,
+        "word": "叶童评论区cpf",
+        "onboard_time": 1750933042,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134825,
+        "num": 134825,
+        "word": "感冒发烧之后千万别这样做",
+        "onboard_time": 1750931723,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 138247,
+        "num": 134735,
+        "word": "刘宇宁的小狗能认出剧里的他",
+        "onboard_time": 1750930401,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134286,
+        "num": 134286,
+        "word": "985博士后被举报在妻子孕期出轨",
+        "onboard_time": 1750924162,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126110,
+        "num": 126110,
+        "word": "双胞胎高考开分惊现分数巧合",
+        "onboard_time": 1750932261,
+        "rank": 34,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 119621,
+        "num": 119621,
+        "word": "3C充电宝",
+        "onboard_time": 1750919061,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111075,
+        "num": 111075,
+        "word": "孙颖莎王楚钦全红婵等出战十五运会",
+        "onboard_time": 1750931482,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110805,
+        "num": 110805,
+        "word": "巨婴老板",
+        "onboard_time": 1750931603,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 62765,
+        "num": 110313,
+        "word": "柯南每逢下雨都是顶级浪漫",
+        "onboard_time": 1750933282,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 28808,
+        "num": 110049,
+        "word": "乡村大集搬到了二环",
+        "onboard_time": 1750933222,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109942,
+        "num": 109942,
+        "word": "刘轩丞录音",
+        "onboard_time": 1750921521,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108480,
+        "num": 108480,
+        "word": "许嵩济南",
+        "onboard_time": 1750932202,
+        "rank": 41,
+        "category": "演出,艺人"
+      },
+      {
+        "raw_hot": 108435,
+        "num": 108435,
+        "word": "彩礼制度成女性空头支票引争议",
+        "onboard_time": 1750928302,
+        "rank": 42,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 106332,
+        "num": 106332,
+        "word": "延迟发朋友圈的好处",
+        "onboard_time": 1750909281,
+        "rank": 43,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 104497,
+        "num": 104497,
+        "word": "连续4场跑第一考生考了606分",
+        "onboard_time": 1750931362,
+        "rank": 44,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 104188,
+        "num": 104188,
+        "word": "中国工厂用机器人76秒下线一台新车",
+        "onboard_time": 1750931302,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100978,
+        "num": 101737,
+        "word": "赖清德是典型的崽卖爷田心不疼",
+        "onboard_time": 1750931542,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 101568,
+        "num": 101568,
+        "word": "女子举报公婆涉贪腐为何一年没结果",
+        "onboard_time": 1750922061,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101247,
+        "num": 101247,
+        "word": "谁懂魏大勋这个单手拿信",
+        "onboard_time": 1750932503,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97564,
+        "num": 97564,
+        "word": "认真拒绝就是最大的礼貌",
+        "onboard_time": 1750933702,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈耕地保护#"
+    }
+  }
+}

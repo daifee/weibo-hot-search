@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750931037843,
+  "endTime": 1750933743109,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -185,6 +185,14 @@
       "onboard_time": 1750916183,
       "rank": 22,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 2056623,
+      "num": 320434,
+      "word": "都美竹回应骗钱",
+      "onboard_time": 1750931122,
+      "rank": 5,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 1960632,
@@ -3515,6 +3523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 380211,
+      "num": 297644,
+      "word": "刘晓庆想亲脸 人家把嘴递上了",
+      "onboard_time": 1750932321,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 378527,
       "num": 378527,
       "word": "迪丽热巴紫瞳",
@@ -3665,6 +3681,14 @@
       "onboard_time": 1750663404,
       "rank": 34,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 367546,
+      "num": 318713,
+      "word": "官方回应韩雪文物前打强光",
+      "onboard_time": 1750931181,
+      "rank": 6,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 367001,
@@ -4267,6 +4291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 319431,
+      "num": 297550,
+      "word": "田栩宁沈月新剧男三",
+      "onboard_time": 1750929863,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 319065,
       "num": 319065,
       "word": "曝某艺人把奢牌赠包挂二手平台",
@@ -4531,6 +4563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 299415,
+      "num": 299415,
+      "word": "缉毒民警被戴上手铐时才敢松口气",
+      "onboard_time": 1750930102,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 298887,
       "num": 298887,
       "word": "北京黑救护车最多一个月挣30万",
@@ -4545,6 +4585,14 @@
       "onboard_time": 1750775725,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 297368,
+      "num": 297368,
+      "word": "LV上海活动机场路透",
+      "onboard_time": 1750929683,
+      "rank": 17,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 296959,
@@ -4673,14 +4721,6 @@
       "onboard_time": 1750595662,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 287444,
-      "num": 219286,
-      "word": "田栩宁沈月新剧男三",
-      "onboard_time": 1750929863,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 287362,
@@ -5507,14 +5547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 245754,
-      "num": 245754,
-      "word": "LV上海活动机场路透",
-      "onboard_time": 1750929683,
-      "rank": 17,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 245162,
       "num": 245162,
       "word": "伊朗总统说美国必须付出代价",
@@ -5635,6 +5667,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 239389,
+      "num": 260225,
+      "word": "迪丽热巴金靖合照有阴湿女鬼味了",
+      "onboard_time": 1750916903,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239097,
       "num": 239097,
       "word": "感觉减肥的人变少了",
@@ -5729,14 +5769,6 @@
       "onboard_time": 1750762882,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 234474,
-      "num": 260225,
-      "word": "迪丽热巴金靖合照有阴湿女鬼味了",
-      "onboard_time": 1750916903,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 234363,
@@ -7475,6 +7507,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 193392,
+      "num": 193392,
+      "word": "八颗喜糖事件",
+      "onboard_time": 1750927702,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 192798,
       "num": 192798,
       "word": "虞书欣悄悄买单",
@@ -8155,6 +8195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 179033,
+      "num": 179033,
+      "word": "九尾尝试新风格",
+      "onboard_time": 1750932202,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 178852,
       "num": 178852,
       "word": "张艺兴直播夜游探险",
@@ -8297,14 +8345,6 @@
       "onboard_time": 1750919720,
       "rank": 43,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 175570,
-      "num": 175570,
-      "word": "八颗喜糖事件",
-      "onboard_time": 1750927702,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 175566,
@@ -8651,6 +8691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169317,
+      "num": 169317,
+      "word": "徐艺洋舍不得非洲家人",
+      "onboard_time": 1750931059,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169273,
       "num": 177127,
       "word": "关晓彤女总裁look",
@@ -8665,6 +8713,14 @@
       "onboard_time": 1750581322,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168941,
+      "num": 168941,
+      "word": "确认被爱后面相都变了",
+      "onboard_time": 1750931482,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 168824,
@@ -9193,6 +9249,14 @@
       "onboard_time": 1750689864,
       "rank": 31,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 159688,
+      "num": 159688,
+      "word": "刘宇宁新剧连失初吻二吻三吻",
+      "onboard_time": 1750933342,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 159498,
@@ -11027,6 +11091,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 136199,
+      "num": 136199,
+      "word": "叶童评论区cpf",
+      "onboard_time": 1750933042,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136138,
       "num": 179496,
       "word": "33Laotutu具像化了",
@@ -11107,20 +11179,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 134972,
-      "num": 134972,
-      "word": "缉毒民警被戴上手铐时才敢松口气",
-      "onboard_time": 1750930102,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 134881,
       "num": 134881,
       "word": "王心凌有自己的芭比衣橱",
       "onboard_time": 1750603103,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 134825,
+      "num": 134825,
+      "word": "感冒发烧之后千万别这样做",
+      "onboard_time": 1750931723,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 134590,
@@ -11825,6 +11897,14 @@
       "onboard_time": 1750811483,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 126110,
+      "num": 126110,
+      "word": "双胞胎高考开分惊现分数巧合",
+      "onboard_time": 1750932261,
+      "rank": 34,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 126099,
@@ -12907,6 +12987,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 111075,
+      "num": 111075,
+      "word": "孙颖莎王楚钦全红婵等出战十五运会",
+      "onboard_time": 1750931482,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111070,
       "num": 111070,
       "word": "吉林本科线历史384物理340",
@@ -12929,6 +13017,14 @@
       "onboard_time": 1750892238,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110805,
+      "num": 110805,
+      "word": "巨婴老板",
+      "onboard_time": 1750931603,
+      "rank": 37,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 110789,
@@ -13065,6 +13161,14 @@
       "onboard_time": 1750864343,
       "rank": 17,
       "category": "动漫,教育"
+    },
+    {
+      "raw_hot": 108480,
+      "num": 108480,
+      "word": "许嵩济南",
+      "onboard_time": 1750932202,
+      "rank": 41,
+      "category": "演出,艺人"
     },
     {
       "raw_hot": 108467,
@@ -13267,6 +13371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104497,
+      "num": 104497,
+      "word": "连续4场跑第一考生考了606分",
+      "onboard_time": 1750931362,
+      "rank": 44,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 104326,
       "num": 104326,
       "word": "丁禹兮新剧开机线下人气",
@@ -13281,6 +13393,14 @@
       "onboard_time": 1750844482,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 104188,
+      "num": 104188,
+      "word": "中国工厂用机器人76秒下线一台新车",
+      "onboard_time": 1750931302,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104154,
@@ -13427,12 +13547,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101247,
+      "num": 101247,
+      "word": "谁懂魏大勋这个单手拿信",
+      "onboard_time": 1750932503,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101170,
       "num": 101170,
       "word": "中国电池材料技术的再次突破",
       "onboard_time": 1750833501,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 100978,
+      "num": 101737,
+      "word": "赖清德是典型的崽卖爷田心不疼",
+      "onboard_time": 1750931542,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 100606,
@@ -13649,6 +13785,14 @@
       "onboard_time": 1750759402,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 97564,
+      "num": 97564,
+      "word": "认真拒绝就是最大的礼貌",
+      "onboard_time": 1750933702,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 97369,
@@ -14891,6 +15035,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 62765,
+      "num": 110313,
+      "word": "柯南每逢下雨都是顶级浪漫",
+      "onboard_time": 1750933282,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 62586,
       "num": 76464,
       "word": "苗得雨任外交部副部长",
@@ -15963,6 +16115,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 39322,
+      "num": 247095,
+      "word": "山东大学有哪些隐藏的王牌专业",
+      "onboard_time": 1750932621,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 39202,
       "num": 192113,
       "word": "低俗直播斗狠4人被依法处罚",
@@ -16137,6 +16297,14 @@
       "onboard_time": 1750566623,
       "rank": 20,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 34161,
+      "num": 520978,
+      "word": "活力中国调研行",
+      "onboard_time": 1750933102,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 34155,
@@ -16441,6 +16609,14 @@
       "onboard_time": 1750829482,
       "rank": 13,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 28808,
+      "num": 110049,
+      "word": "乡村大集搬到了二环",
+      "onboard_time": 1750933222,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28758,
@@ -16873,6 +17049,14 @@
       "onboard_time": 1750541534,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 20665,
+      "num": 201300,
+      "word": "回不去的美国制造",
+      "onboard_time": 1750933282,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 20620,
