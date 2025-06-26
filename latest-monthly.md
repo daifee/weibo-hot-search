@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/26 19:39:31
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/26 20:54:12
 </p>
 </blockquote>
 <p>
@@ -239,6 +239,12 @@ GAI第一（热度：4228592）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%AA%92%E4%BD%93%E7%A7%B0%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%BD%93%E9%80%89%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%23" target="weibo">
 韩国媒体称李在明当选韩国总统（热度：3829018）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83288%E5%88%86%E5%A5%B3%E7%94%9F%E5%B7%B2%E6%8E%A5%E5%88%B0%E9%AB%98%E6%A0%A1%E8%81%94%E7%B3%BB%E7%94%B5%E8%AF%9D%23" target="weibo">
+高考288分女生已接到高校联系电话（热度：3811890）
 </a>
 </li>
 
@@ -1853,6 +1859,12 @@ Labubu大补货后黄牛发声（热度：1393998）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%97%8F%E6%B5%B7%E4%BC%A0%E9%9D%A2%E5%85%B7%E4%BA%BA%E8%BA%AB%E4%BB%BD%E7%BB%88%E4%BA%8E%E6%8F%AD%E7%A7%98%23" target="weibo">
 藏海传面具人身份终于揭秘（热度：1362008）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3YU7%E4%BB%B7%E6%A0%BC%23" target="weibo">
+小米YU7价格（热度：1359100）
 </a>
 </li>
 
@@ -4383,6 +4395,12 @@ AL战胜BLG（热度：859667）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
+小米发布会（热度：849293）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E9%80%80%E5%AD%A6%E7%94%B7%E5%AD%90%E4%B8%80%E6%88%98669%E5%88%86%E4%BA%8C%E6%88%98716%E5%88%86%23" target="weibo">
 北大退学男子一战669分二战716分（热度：848477）
 </a>
@@ -4439,12 +4457,6 @@ AL战胜BLG（热度：859667）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E5%98%89%E5%AE%BE%E5%AE%8B%E9%9B%A8%E7%90%A6%23" target="weibo">
 林俊杰演唱会嘉宾宋雨琦（热度：843129）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
-小米发布会（热度：843071）
 </a>
 </li>
 
@@ -5379,6 +5391,12 @@ F35（热度：742995）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%BA%AE%E7%9B%B8LV%E5%A4%A7%E7%A7%80%23" target="weibo">
+王楚钦亮相LV大秀（热度：741690）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%B0%86%E5%90%91%E4%B8%96%E7%95%8C%E5%B1%95%E7%A4%BA%E5%8A%9B%E9%87%8F%23" target="weibo">
 伊朗称将向世界展示力量（热度：741470）
 </a>
@@ -5993,24 +6011,6 @@ NBA选秀（热度：709888）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E9%A4%90%E5%8E%859%E6%94%B6%E5%AE%98%23" target="weibo">
 中餐厅9收官（热度：697621）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%AE%A9%E4%BC%8A%E6%9C%97%E5%86%8D%E6%AC%A1%E4%BC%9F%E5%A4%A7%23" target="weibo">
-特朗普称让伊朗再次伟大（热度：697393）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E6%9C%AC%E7%A7%91%E7%BA%BF%E5%8E%86%E5%8F%B2%E7%B1%BB471%E7%89%A9%E7%90%86%E7%B1%BB427%23" target="weibo">
-河南本科线历史类471物理类427（热度：697239）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23labubu%E7%89%99%E5%A5%97%23" target="weibo">
-labubu牙套（热度：696332）
 </a>
 </li>
 

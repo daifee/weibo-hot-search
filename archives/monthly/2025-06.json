@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750937971937,
+  "endTime": 1750942452087,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -305,6 +305,14 @@
       "onboard_time": 1748962645,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 3811890,
+      "num": 3811890,
+      "word": "高考288分女生已接到高校联系电话",
+      "onboard_time": 1750941623,
+      "rank": 0,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 3710133,
@@ -2459,6 +2467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1359100,
+      "num": 1359100,
+      "word": "小米YU7价格",
+      "onboard_time": 1750940903,
+      "rank": 1,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1359068,
       "num": 1359068,
       "word": "尾号0000000手机号拍出61.2万",
@@ -3436,7 +3452,7 @@
     },
     {
       "raw_hot": 1151552,
-      "num": 388734,
+      "num": 415982,
       "word": "刘亦菲裙子",
       "onboard_time": 1750936341,
       "rank": 15,
@@ -5827,6 +5843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 849293,
+      "num": 849293,
+      "word": "小米发布会",
+      "onboard_time": 1750934361,
+      "rank": 6,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 848477,
       "num": 848477,
       "word": "北大退学男子一战669分二战716分",
@@ -5852,7 +5876,7 @@
     },
     {
       "raw_hot": 847041,
-      "num": 388655,
+      "num": 406330,
       "word": "27岁真的还很年轻很年轻",
       "onboard_time": 1750934902,
       "rank": 10,
@@ -5905,14 +5929,6 @@
       "onboard_time": 1749988340,
       "rank": 5,
       "category": "演出"
-    },
-    {
-      "raw_hot": 843071,
-      "num": 843071,
-      "word": "小米发布会",
-      "onboard_time": 1750934361,
-      "rank": 6,
-      "category": "汽车"
     },
     {
       "raw_hot": 840827,
@@ -7153,6 +7169,14 @@
       "onboard_time": 1749452062,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 741690,
+      "num": 741690,
+      "word": "王楚钦亮相LV大秀",
+      "onboard_time": 1750937662,
+      "rank": 24,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 741470,
@@ -8851,6 +8875,14 @@
       "category": "民生新闻,时尚"
     },
     {
+      "raw_hot": 648130,
+      "num": 410613,
+      "word": "好了没 好尴尬",
+      "onboard_time": 1750937781,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 647115,
       "num": 647115,
       "word": "九门尹新月扮演者",
@@ -9177,6 +9209,14 @@
       "onboard_time": 1749818784,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 635379,
+      "num": 635379,
+      "word": "小米汽车",
+      "onboard_time": 1750934422,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 635128,
@@ -12667,14 +12707,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 499893,
-      "num": 499893,
-      "word": "小米汽车",
-      "onboard_time": 1750934422,
-      "rank": 18,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 499701,
       "num": 290918,
       "word": "孕妇1天2杯奶茶致早产孩子仅3斤2两",
@@ -14075,6 +14107,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 462789,
+      "num": 462789,
+      "word": "小米AI眼镜",
+      "onboard_time": 1750941922,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
       "raw_hot": 462772,
       "num": 551365,
       "word": "被咬身亡女子家属称已有死亡诊断",
@@ -15457,6 +15497,14 @@
       "onboard_time": 1750042040,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 423257,
+      "num": 423257,
+      "word": "1岁工作22岁退休",
+      "onboard_time": 1750935681,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 422956,
@@ -17457,6 +17505,14 @@
       "onboard_time": 1749479182,
       "rank": 44,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 380089,
+      "num": 395889,
+      "word": "明星LV大秀红毯生图",
+      "onboard_time": 1750940245,
+      "rank": 14,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 379808,
@@ -20073,6 +20129,14 @@
       "onboard_time": 1750773205,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 335456,
+      "num": 389369,
+      "word": "白玉兰提名晚宴",
+      "onboard_time": 1750936823,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 335422,
@@ -24715,6 +24779,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 271243,
+      "num": 271243,
+      "word": "无3C认证充电宝带去机场了怎么办",
+      "onboard_time": 1750939283,
+      "rank": 22,
+      "category": "民生新闻,数码"
+    },
+    {
       "raw_hot": 271003,
       "num": 271003,
       "word": "韩国4.5天工作制",
@@ -24881,6 +24953,14 @@
       "onboard_time": 1749389123,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 268346,
+      "num": 269461,
+      "word": "白敬亭龚俊王鹤棣徐明浩红毯live图",
+      "onboard_time": 1750940841,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 268229,
@@ -26171,6 +26251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 256501,
+      "num": 256501,
+      "word": "蒲县疾控回应职工1岁工作22岁退休",
+      "onboard_time": 1750938982,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 256330,
       "num": 256330,
       "word": "物化地 高考极速版",
@@ -26521,14 +26609,6 @@
       "onboard_time": 1749041062,
       "rank": 26,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 252366,
-      "num": 252366,
-      "word": "白玉兰提名晚宴",
-      "onboard_time": 1750936823,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 252350,
@@ -27139,6 +27219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247402,
+      "num": 247402,
+      "word": "充电宝",
+      "onboard_time": 1750940841,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 247393,
       "num": 247393,
       "word": "上过班的人才懂的精神状态",
@@ -27177,6 +27265,14 @@
       "onboard_time": 1749873502,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 247068,
+      "num": 247068,
+      "word": "小米手环",
+      "onboard_time": 1750941021,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 247054,
@@ -27905,6 +28001,14 @@
       "onboard_time": 1750259603,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 239288,
+      "num": 239288,
+      "word": "充电宝3C标识长这样",
+      "onboard_time": 1750939342,
+      "rank": 30,
+      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 239183,
@@ -32227,6 +32331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210888,
+      "num": 420129,
+      "word": "哈梅内伊发文祝贺伊朗战胜以色列",
+      "onboard_time": 1750940482,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 210817,
       "num": 452686,
       "word": "日落以后一起chagee",
@@ -32585,6 +32697,14 @@
       "onboard_time": 1749110182,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208572,
+      "num": 208572,
+      "word": "小米YU7",
+      "onboard_time": 1750669463,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 208526,
@@ -33929,14 +34049,6 @@
       "onboard_time": 1750417821,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 203682,
-      "num": 203682,
-      "word": "王楚钦亮相LV大秀",
-      "onboard_time": 1750937662,
-      "rank": 24,
-      "category": "体育,时尚"
     },
     {
       "raw_hot": 203680,
@@ -36827,6 +36939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194466,
+      "num": 242586,
+      "word": "以法之名",
+      "onboard_time": 1750941262,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194464,
       "num": 194464,
       "word": "35岁抗癌网红肉肉离世",
@@ -37033,14 +37153,6 @@
       "onboard_time": 1750134444,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 193930,
-      "num": 193930,
-      "word": "小米YU7",
-      "onboard_time": 1750669463,
-      "rank": 28,
-      "category": "汽车"
     },
     {
       "raw_hot": 193925,
@@ -37393,6 +37505,14 @@
       "onboard_time": 1750916183,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192645,
+      "num": 192645,
+      "word": "韩娱杜海涛",
+      "onboard_time": 1750938742,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 192623,
@@ -39891,6 +40011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185080,
+      "num": 185080,
+      "word": "小米AI眼镜售价1999元起",
+      "onboard_time": 1750942162,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 185074,
       "num": 185074,
       "word": "第一批上岗的AI主播已经翻车了",
@@ -40137,6 +40265,14 @@
       "onboard_time": 1749473121,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184376,
+      "num": 184376,
+      "word": "雷军黑衬衫",
+      "onboard_time": 1750937542,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 184357,
@@ -41507,6 +41643,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 179098,
+      "num": 179098,
+      "word": "孟子义 妾厅风云",
+      "onboard_time": 1750941864,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179065,
       "num": 272109,
       "word": "整顿内娱种树事件传遍圈内",
@@ -42523,6 +42667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175152,
+      "num": 175152,
+      "word": "陆景和 酱子贝",
+      "onboard_time": 1750942283,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 175101,
       "num": 175101,
       "word": "饶雪漫人生第一次陷入选角漩涡",
@@ -43537,6 +43689,14 @@
       "onboard_time": 1750755022,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 172033,
+      "num": 172033,
+      "word": "红米K80至尊版",
+      "onboard_time": 1750942283,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 171956,
@@ -45331,6 +45491,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 167136,
+      "num": 167136,
+      "word": "翔霖",
+      "onboard_time": 1750942404,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167089,
       "num": 167089,
       "word": "尾鱼女郎肤白貌美还能打",
@@ -45809,6 +45977,14 @@
       "onboard_time": 1749799882,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165638,
+      "num": 165638,
+      "word": "做无痛胃镜差点把麻醉医生投诉了",
+      "onboard_time": 1750940783,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 165632,
@@ -49339,14 +49515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 155224,
-      "num": 155224,
-      "word": "雷军黑衬衫",
-      "onboard_time": 1750937542,
-      "rank": 32,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 155214,
       "num": 155214,
       "word": "光与夜之恋四周年寄语",
@@ -50195,6 +50363,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 152893,
+      "num": 152893,
+      "word": "金靖说迪丽热巴从内美到外",
+      "onboard_time": 1750941501,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152846,
       "num": 152846,
       "word": "刘美含哭戏哭出了又爱又恨",
@@ -50323,6 +50499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152348,
+      "num": 152348,
+      "word": "白敬亭LV活动卷毛造型",
+      "onboard_time": 1750940363,
+      "rank": 47,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 152322,
       "num": 152322,
       "word": "蔡徐坤金发直拍",
@@ -50401,6 +50585,14 @@
       "onboard_time": 1749343520,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152087,
+      "num": 152087,
+      "word": "邓超去上海看鹿晗演唱会",
+      "onboard_time": 1750937242,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 152069,
@@ -51729,6 +51921,14 @@
       "onboard_time": 1749617124,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 148499,
+      "num": 148499,
+      "word": "刘亦菲白玉兰晚宴出图",
+      "onboard_time": 1750941382,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 148474,
@@ -55987,6 +56187,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 138415,
+      "num": 354442,
+      "word": "十年前没人敢选的专业翻红了",
+      "onboard_time": 1750938622,
+      "rank": 19,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 138405,
       "num": 138405,
       "word": "女子说瞒着丈夫37万投资车位1分没赚",
@@ -59729,14 +59937,6 @@
       "onboard_time": 1750830321,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 129753,
-      "num": 129753,
-      "word": "邓超去上海看鹿晗演唱会",
-      "onboard_time": 1750937242,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 129748,
@@ -66419,14 +66619,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 113497,
-      "num": 113497,
-      "word": "好了没 好尴尬",
-      "onboard_time": 1750937781,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 113480,
       "num": 113480,
       "word": "跟着古人过一天夏至",
@@ -72929,6 +73121,14 @@
       "onboard_time": 1748846781,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92742,
+      "num": 361971,
+      "word": "小米MIXFlip2上线AI定制萌宠功能",
+      "onboard_time": 1750941983,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 92734,
@@ -87348,7 +87548,7 @@
     },
     {
       "raw_hot": 34161,
-      "num": 851346,
+      "num": 1252169,
       "word": "活力中国调研行",
       "onboard_time": 1750933102,
       "rank": 2,
@@ -92579,6 +92779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19546,
+      "num": 240597,
+      "word": "解救被困砖厂残障者全过程曝光",
+      "onboard_time": 1750941682,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 19535,
       "num": 277728,
       "word": "充电宝型号相同非召回批次还能用吗",
@@ -94513,6 +94721,14 @@
       "onboard_time": 1749388342,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 13049,
+      "num": 175087,
+      "word": "好博会薅羊毛爽翻了",
+      "onboard_time": 1750939283,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13043,

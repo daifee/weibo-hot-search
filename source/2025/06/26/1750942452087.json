@@ -1,0 +1,410 @@
+{
+  "runTime": 1750942452087,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3811890,
+        "num": 3811890,
+        "word": "高考288分女生已接到高校联系电话",
+        "onboard_time": 1750941623,
+        "rank": 0,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 1359100,
+        "num": 1359100,
+        "word": "小米YU7价格",
+        "onboard_time": 1750940903,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 22510,
+        "num": 1252169,
+        "word": "活力中国调研行",
+        "onboard_time": 1750933102,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1156525,
+        "num": 1156525,
+        "word": "LV大秀",
+        "onboard_time": 1750936041,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 849293,
+        "num": 849293,
+        "word": "小米发布会",
+        "onboard_time": 1750934361,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 741690,
+        "num": 741690,
+        "word": "王楚钦亮相LV大秀",
+        "onboard_time": 1750937662,
+        "rank": 5,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 635379,
+        "num": 635379,
+        "word": "小米汽车",
+        "onboard_time": 1750934422,
+        "rank": 6,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 462789,
+        "num": 462789,
+        "word": "小米AI眼镜",
+        "onboard_time": 1750941922,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 423257,
+        "num": 423257,
+        "word": "1岁工作22岁退休",
+        "onboard_time": 1750935681,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210888,
+        "num": 420129,
+        "word": "哈梅内伊发文祝贺伊朗战胜以色列",
+        "onboard_time": 1750940482,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 969382,
+        "num": 415982,
+        "word": "刘亦菲裙子",
+        "onboard_time": 1750936341,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 648130,
+        "num": 410613,
+        "word": "好了没 好尴尬",
+        "onboard_time": 1750937781,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 638660,
+        "num": 406330,
+        "word": "27岁真的还很年轻很年轻",
+        "onboard_time": 1750934902,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 446460,
+        "num": 399902,
+        "word": "LV大秀主持人是贺峻霖",
+        "onboard_time": 1750928062,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 380089,
+        "num": 395889,
+        "word": "明星LV大秀红毯生图",
+        "onboard_time": 1750940245,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 335456,
+        "num": 389369,
+        "word": "白玉兰提名晚宴",
+        "onboard_time": 1750936823,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278911,
+        "num": 386103,
+        "word": "官方回应韩雪文物前打强光",
+        "onboard_time": 1750931181,
+        "rank": 16,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 384477,
+        "num": 384477,
+        "word": "缉毒民警被戴上手铐时才敢松口气",
+        "onboard_time": 1750930102,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92742,
+        "num": 361971,
+        "word": "小米MIXFlip2上线AI定制萌宠功能",
+        "onboard_time": 1750941983,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 138415,
+        "num": 354442,
+        "word": "十年前没人敢选的专业翻红了",
+        "onboard_time": 1750938622,
+        "rank": 19,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 536157,
+        "num": 353812,
+        "word": "女生高考涨了167分被吓到模糊",
+        "onboard_time": 1750916183,
+        "rank": 20,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 352921,
+        "num": 352921,
+        "word": "特朗普自曝批准伊朗空袭美军基地",
+        "onboard_time": 1750934962,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 271243,
+        "num": 271243,
+        "word": "无3C认证充电宝带去机场了怎么办",
+        "onboard_time": 1750939283,
+        "rank": 22,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 268346,
+        "num": 269461,
+        "word": "白敬亭龚俊王鹤棣徐明浩红毯live图",
+        "onboard_time": 1750940841,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 268356,
+        "num": 268356,
+        "word": "民航局对充电宝发紧急通知",
+        "onboard_time": 1750917982,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256501,
+        "num": 256501,
+        "word": "蒲县疾控回应职工1岁工作22岁退休",
+        "onboard_time": 1750938982,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247402,
+        "num": 247402,
+        "word": "充电宝",
+        "onboard_time": 1750940841,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247068,
+        "num": 247068,
+        "word": "小米手环",
+        "onboard_time": 1750941021,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 194466,
+        "num": 242586,
+        "word": "以法之名",
+        "onboard_time": 1750941262,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19546,
+        "num": 240597,
+        "word": "解救被困砖厂残障者全过程曝光",
+        "onboard_time": 1750941682,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 239288,
+        "num": 239288,
+        "word": "充电宝3C标识长这样",
+        "onboard_time": 1750939342,
+        "rank": 30,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 208572,
+        "num": 208572,
+        "word": "小米YU7",
+        "onboard_time": 1750941983,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 192645,
+        "num": 192645,
+        "word": "韩娱杜海涛",
+        "onboard_time": 1750938742,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186856,
+        "num": 186856,
+        "word": "韩雪 文物前打强光",
+        "onboard_time": 1750926142,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185080,
+        "num": 185080,
+        "word": "小米AI眼镜售价1999元起",
+        "onboard_time": 1750942162,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 184376,
+        "num": 184376,
+        "word": "雷军黑衬衫",
+        "onboard_time": 1750937542,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 184156,
+        "num": 184156,
+        "word": "书卷一梦",
+        "onboard_time": 1750933641,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179098,
+        "num": 179098,
+        "word": "孟子义 妾厅风云",
+        "onboard_time": 1750941864,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175152,
+        "num": 175152,
+        "word": "陆景和 酱子贝",
+        "onboard_time": 1750942283,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 13049,
+        "num": 175087,
+        "word": "好博会薅羊毛爽翻了",
+        "onboard_time": 1750939283,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175052,
+        "num": 175052,
+        "word": "杨紫的白玉兰提名公式照",
+        "onboard_time": 1750934303,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172033,
+        "num": 172033,
+        "word": "红米K80至尊版",
+        "onboard_time": 1750942283,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 167136,
+        "num": 167136,
+        "word": "翔霖",
+        "onboard_time": 1750942404,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166302,
+        "num": 166302,
+        "word": "审美降级",
+        "onboard_time": 1750927582,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165772,
+        "num": 165772,
+        "word": "美方想把战火引向台湾",
+        "onboard_time": 1750926502,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 165638,
+        "num": 165638,
+        "word": "做无痛胃镜差点把麻醉医生投诉了",
+        "onboard_time": 1750940783,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152893,
+        "num": 152893,
+        "word": "金靖说迪丽热巴从内美到外",
+        "onboard_time": 1750941501,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152348,
+        "num": 152348,
+        "word": "白敬亭LV活动卷毛造型",
+        "onboard_time": 1750940363,
+        "rank": 47,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 152087,
+        "num": 152087,
+        "word": "邓超去上海看鹿晗演唱会",
+        "onboard_time": 1750937242,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148499,
+        "num": 148499,
+        "word": "刘亦菲白玉兰晚宴出图",
+        "onboard_time": 1750941382,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈耕地保护#"
+    }
+  }
+}

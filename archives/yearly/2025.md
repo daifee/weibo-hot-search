@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/06/26 19:39:31
+本榜单时间：2025/01/01 00:26:38 ~ 2025/06/26 20:54:12
 </p>
 </blockquote>
 <p>
@@ -1557,6 +1557,12 @@ GAI第一（热度：4228592）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83288%E5%88%86%E5%A5%B3%E7%94%9F%E5%B7%B2%E6%8E%A5%E5%88%B0%E9%AB%98%E6%A0%A1%E8%81%94%E7%B3%BB%E7%94%B5%E8%AF%9D%23" target="weibo">
+高考288分女生已接到高校联系电话（热度：3811890）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E5%87%AF%E7%90%AA%E5%8F%91%E9%95%BF%E6%96%87%23" target="weibo">
 薛凯琪发长文（热度：3811869）
 </a>
@@ -1805,12 +1811,6 @@ GAI第一（热度：4228592）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E7%A5%A8%E6%88%BF%E7%A0%B480%E4%BA%BF%23" target="weibo">
 哪吒2票房破80亿（热度：3533201）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E5%92%AC%E5%AD%97%23" target="weibo">
-马嘉祺咬字（热度：3531514）
 </a>
 </li>
 
