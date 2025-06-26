@@ -1,0 +1,410 @@
+{
+  "runTime": 1750920757092,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2019643,
+        "num": 2019643,
+        "word": "女生高考涨了167分被吓到模糊",
+        "onboard_time": 1750916183,
+        "rank": 0,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 784421,
+        "num": 784421,
+        "word": "那尔那茜 长安的荔枝",
+        "onboard_time": 1750917862,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11919,
+        "num": 754465,
+        "word": "中国空间站太空实验成果丰富",
+        "onboard_time": 1750920740,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 739359,
+        "num": 739359,
+        "word": "央视曝光有学生吸食火机气体成瘾",
+        "onboard_time": 1750908321,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 727819,
+        "num": 727819,
+        "word": "民航局对充电宝发紧急通知",
+        "onboard_time": 1750917982,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 631218,
+        "num": 631218,
+        "word": "我把对家嘴亲肿了",
+        "onboard_time": 1750918404,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 595403,
+        "num": 595403,
+        "word": "延迟发朋友圈的好处",
+        "onboard_time": 1750909281,
+        "rank": 6,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 34155,
+        "num": 589409,
+        "word": "今天国际禁毒日",
+        "onboard_time": 1750920260,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 589243,
+        "num": 589243,
+        "word": "充电宝安检新规",
+        "onboard_time": 1750912165,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230416,
+        "num": 561763,
+        "word": "班主任回应扁担女孩高考成绩",
+        "onboard_time": 1750918941,
+        "rank": 9,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 539238,
+        "num": 539238,
+        "word": "禁止带无3C被召回充电宝坐境内航班",
+        "onboard_time": 1750917923,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389442,
+        "num": 389442,
+        "word": "二师兄 泄露",
+        "onboard_time": 1750917624,
+        "rank": 11,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 363722,
+        "num": 363722,
+        "word": "书卷一梦热度",
+        "onboard_time": 1750916364,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 341370,
+        "num": 341370,
+        "word": "陈震 小米",
+        "onboard_time": 1750907121,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 327524,
+        "num": 327524,
+        "word": "刘轩丞方回应",
+        "onboard_time": 1750918103,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281289,
+        "num": 281289,
+        "word": "成绩被屏蔽女孩坚信不存在智商差距",
+        "onboard_time": 1750865542,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278621,
+        "num": 278621,
+        "word": "李一桐大蜈蚣爬身上那部剧终于要播了",
+        "onboard_time": 1750907421,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144712,
+        "num": 272134,
+        "word": "杨瀚森一切皆有可能",
+        "onboard_time": 1750918163,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268668,
+        "num": 268668,
+        "word": "迪丽热巴金靖胶片",
+        "onboard_time": 1750916665,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132454,
+        "num": 244146,
+        "word": "荣耀刀片电池薄到能切豆腐",
+        "onboard_time": 1750919960,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 287294,
+        "num": 243264,
+        "word": "道禄和尚前妻女儿现女友也涉案",
+        "onboard_time": 1750914085,
+        "rank": 20,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 242024,
+        "num": 242024,
+        "word": "上海偶遇皮筋猴排队",
+        "onboard_time": 1750916424,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231617,
+        "num": 231617,
+        "word": "原来可乐是最公平的饮料",
+        "onboard_time": 1750905621,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 223025,
+        "num": 223025,
+        "word": "江苏卫视长安的荔枝撤档",
+        "onboard_time": 1750903521,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211688,
+        "num": 211688,
+        "word": "伊朗",
+        "onboard_time": 1750919661,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 197173,
+        "num": 197173,
+        "word": "小婉管乐演了5集发现全是内鬼",
+        "onboard_time": 1750920322,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196308,
+        "num": 196308,
+        "word": "藏海传的广告价格",
+        "onboard_time": 1750920620,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171248,
+        "num": 171248,
+        "word": "经纪公司最新回应姜涛坠海原因",
+        "onboard_time": 1750919300,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170239,
+        "num": 170239,
+        "word": "生病的妈啃老的哥一心赚钱的她",
+        "onboard_time": 1750919121,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168646,
+        "num": 168646,
+        "word": "特朗普将袭击伊朗类比对日本投原子弹",
+        "onboard_time": 1750910541,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 158779,
+        "num": 158779,
+        "word": "男子起诉银行骚扰电话获赔5000元",
+        "onboard_time": 1750915224,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158718,
+        "num": 158718,
+        "word": "中国短剧成美国影视失业者救命稻草",
+        "onboard_time": 1750916843,
+        "rank": 31,
+        "category": "剧集,民生新闻"
+      },
+      {
+        "raw_hot": 152990,
+        "num": 152990,
+        "word": "警方通报道禄涉案被查",
+        "onboard_time": 1750914145,
+        "rank": 32,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 151355,
+        "num": 151355,
+        "word": "男子吸食火机气体再抽烟引发爆炸",
+        "onboard_time": 1750908981,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149938,
+        "num": 149938,
+        "word": "3C充电宝",
+        "onboard_time": 1750919061,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146554,
+        "num": 146554,
+        "word": "上海月薪19000一天的花销",
+        "onboard_time": 1750919720,
+        "rank": 35,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 135866,
+        "num": 135866,
+        "word": "十个5年内月薪仍低于3千的专业",
+        "onboard_time": 1750912044,
+        "rank": 36,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 130366,
+        "num": 130366,
+        "word": "果然没有人上班是开心的",
+        "onboard_time": 1750919481,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129444,
+        "num": 129444,
+        "word": "刘学义你别来添乱了",
+        "onboard_time": 1750919181,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73873,
+        "num": 127360,
+        "word": "樊振东喊话青少年拒绝毒品",
+        "onboard_time": 1750920260,
+        "rank": 39,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 126230,
+        "num": 126230,
+        "word": "世界上少了一只唯物主义的猫",
+        "onboard_time": 1750918462,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112756,
+        "num": 112756,
+        "word": "美国演员争演中国短剧有人工资翻7倍",
+        "onboard_time": 1750914986,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110179,
+        "num": 110179,
+        "word": "曾救助百名弃婴的道禄被警方控制",
+        "onboard_time": 1750912285,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110782,
+        "num": 109600,
+        "word": "桃花映江山开播热度",
+        "onboard_time": 1750919421,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102635,
+        "num": 102635,
+        "word": "迪丽热巴金靖合照有阴湿女鬼味了",
+        "onboard_time": 1750916903,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101927,
+        "num": 101927,
+        "word": "崔永熙让杨瀚森保护好自己别受伤",
+        "onboard_time": 1750917802,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18870,
+        "num": 99730,
+        "word": "高考放榜网警守护",
+        "onboard_time": 1750898842,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99137,
+        "num": 99137,
+        "word": "普通人还能买黄金吗",
+        "onboard_time": 1750918462,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 98607,
+        "num": 98607,
+        "word": "沈腾要不给丁禹兮打个电话吧",
+        "onboard_time": 1750912405,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97710,
+        "num": 97710,
+        "word": "一人一句致敬缉毒警",
+        "onboard_time": 1750902262,
+        "rank": 49,
+        "category": "正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈耕地保护#"
+    }
+  }
+}
