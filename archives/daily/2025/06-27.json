@@ -1,6 +1,6 @@
 {
   "startTime": 1750955581651,
-  "endTime": 1750974026052,
+  "endTime": 1750976745687,
   "band_list": [
     {
       "raw_hot": 3091316,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 396561,
+      "num": 428467,
+      "word": "中方坚决反对北约借口中国东进亚太",
+      "onboard_time": 1750954702,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 387711,
       "num": 387711,
       "word": "小米YU7价格",
@@ -89,14 +97,6 @@
       "onboard_time": 1750941623,
       "rank": 3,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 309784,
-      "num": 309784,
-      "word": "中方坚决反对北约借口中国东进亚太",
-      "onboard_time": 1750954702,
-      "rank": 25,
-      "category": "国内时政"
     },
     {
       "raw_hot": 279829,
@@ -139,6 +139,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 219771,
+      "num": 219771,
+      "word": "刘亦菲美的不知天地为何物了",
+      "onboard_time": 1750956319,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205935,
       "num": 279705,
       "word": "母亲被骗30多万高中女儿辍学追退款",
@@ -163,14 +171,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 187840,
-      "num": 187840,
-      "word": "刘亦菲美的不知天地为何物了",
-      "onboard_time": 1750956319,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 186655,
       "num": 186655,
       "word": "好了没 好尴尬",
@@ -193,6 +193,14 @@
       "onboard_time": 1750949726,
       "rank": 23,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 165798,
+      "num": 102055,
+      "word": "男子花90.8万彩礼娶的老婆不见了",
+      "onboard_time": 1750945586,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164328,
@@ -288,14 +296,6 @@
       "word": "这种矿泉水3秒让人丧失意识",
       "onboard_time": 1750951944,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 102055,
-      "num": 102055,
-      "word": "男子花90.8万彩礼娶的老婆不见了",
-      "onboard_time": 1750945586,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -443,6 +443,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 47507,
+      "num": 47507,
+      "word": "日本回应特朗普将伊朗和广岛并论",
+      "onboard_time": 1750948464,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 46471,
       "num": 49332,
       "word": "人民日报铁粉",
@@ -451,20 +459,36 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 39584,
-      "num": 39584,
-      "word": "日本回应特朗普将伊朗和广岛并论",
-      "onboard_time": 1750948464,
-      "rank": 23,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 37189,
       "num": 37189,
       "word": "国防部回应网友盼战机助阵苏超",
       "onboard_time": 1750964114,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35515,
+      "num": 35515,
+      "word": "煤气泄露14岁男生救了整栋楼",
+      "onboard_time": 1750962915,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34111,
+      "num": 34111,
+      "word": "跪谢爷爷的双胞胎兄弟高考成绩出炉",
+      "onboard_time": 1750963816,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31838,
+      "num": 31838,
+      "word": "教育局回应学生体育课玩手机被处分",
+      "onboard_time": 1750967174,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29331,
@@ -499,11 +523,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23491,
-      "num": 23726,
-      "word": "跪谢爷爷的双胞胎兄弟高考成绩出炉",
-      "onboard_time": 1750963816,
-      "rank": 49,
+      "raw_hot": 23637,
+      "num": 40905,
+      "word": "道禄还涉嫌其他违法犯罪行为",
+      "onboard_time": 1750968374,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 22537,
+      "num": 35675,
+      "word": "列车车次首字母原来是这个意思",
+      "onboard_time": 1750968675,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -515,20 +547,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 22295,
-      "num": 22295,
-      "word": "教育局回应学生体育课玩手机被处分",
-      "onboard_time": 1750967174,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21638,
-      "num": 21638,
+      "raw_hot": 22125,
+      "num": 29060,
       "word": "尤文图斯vs曼城",
       "onboard_time": 1750966514,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 21207,
+      "num": 29039,
+      "word": "道禄被采取刑事强制措施",
+      "onboard_time": 1750970773,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21163,
@@ -537,38 +569,6 @@
       "onboard_time": 1750962136,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 20728,
-      "num": 20728,
-      "word": "道禄被采取刑事强制措施",
-      "onboard_time": 1750970773,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20080,
-      "num": 23756,
-      "word": "煤气泄露14岁男生救了整栋楼",
-      "onboard_time": 1750962915,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20001,
-      "num": 40905,
-      "word": "道禄还涉嫌其他违法犯罪行为",
-      "onboard_time": 1750968374,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 18025,
-      "num": 35675,
-      "word": "列车车次首字母原来是这个意思",
-      "onboard_time": 1750968675,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15703,
