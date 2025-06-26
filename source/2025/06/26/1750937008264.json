@@ -1,0 +1,410 @@
+{
+  "runTime": 1750937008264,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1209255,
+        "num": 1209255,
+        "word": "LV大秀",
+        "onboard_time": 1750936041,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1113404,
+        "num": 1113404,
+        "word": "缉毒民警被戴上手铐时才敢松口气",
+        "onboard_time": 1750930102,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26031,
+        "num": 851346,
+        "word": "活力中国调研行",
+        "onboard_time": 1750933102,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 843071,
+        "num": 843071,
+        "word": "小米发布会",
+        "onboard_time": 1750934361,
+        "rank": 3,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 589078,
+        "num": 589078,
+        "word": "官方回应韩雪文物前打强光",
+        "onboard_time": 1750931181,
+        "rank": 4,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 468806,
+        "num": 468806,
+        "word": "女生高考涨了167分被吓到模糊",
+        "onboard_time": 1750916183,
+        "rank": 5,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 584549,
+        "num": 451903,
+        "word": "LV大秀主持人是贺峻霖",
+        "onboard_time": 1750928062,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 409567,
+        "num": 409567,
+        "word": "杨紫的白玉兰提名公式照",
+        "onboard_time": 1750934303,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 372521,
+        "num": 372521,
+        "word": "美方想把战火引向台湾",
+        "onboard_time": 1750926502,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 272355,
+        "num": 371917,
+        "word": "特朗普自曝批准伊朗空袭美军基地",
+        "onboard_time": 1750934962,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 777893,
+        "num": 370194,
+        "word": "27岁真的还很年轻很年轻",
+        "onboard_time": 1750934902,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 50036,
+        "num": 369316,
+        "word": "魏大勋张康乐同场看秀",
+        "onboard_time": 1750933822,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 508622,
+        "num": 366972,
+        "word": "韩雪 文物前打强光",
+        "onboard_time": 1750926142,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366684,
+        "num": 366684,
+        "word": "小米汽车",
+        "onboard_time": 1750934422,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 57369,
+        "num": 343039,
+        "word": "从杭州到墨脱才知道拼多多有多香",
+        "onboard_time": 1750935681,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 326470,
+        "num": 326470,
+        "word": "刘亦菲裙子",
+        "onboard_time": 1750936341,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 311905,
+        "num": 311905,
+        "word": "刘晓庆想亲脸 人家把嘴递上了",
+        "onboard_time": 1750932321,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300396,
+        "num": 300396,
+        "word": "民航局对充电宝发紧急通知",
+        "onboard_time": 1750917982,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262981,
+        "num": 262981,
+        "word": "禁止带无3C被召回充电宝坐境内航班",
+        "onboard_time": 1750917923,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244873,
+        "num": 244873,
+        "word": "山西蒲县疾控一职工1岁工作22岁退休",
+        "onboard_time": 1750935681,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239605,
+        "num": 239605,
+        "word": "书卷一梦",
+        "onboard_time": 1750933641,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231397,
+        "num": 231397,
+        "word": "白玉兰荣耀之夜红毯",
+        "onboard_time": 1750936162,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221907,
+        "num": 221907,
+        "word": "审美降级",
+        "onboard_time": 1750927582,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219228,
+        "num": 219228,
+        "word": "广州花都50多人凌晨白衣列队行走",
+        "onboard_time": 1750924822,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215119,
+        "num": 215119,
+        "word": "王鹤棣LV活动嘉宾",
+        "onboard_time": 1750935382,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 183247,
+        "num": 183247,
+        "word": "林诗栋说樊振东一直是偶像",
+        "onboard_time": 1750936461,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182879,
+        "num": 182879,
+        "word": "普吉岛炸弹",
+        "onboard_time": 1750935861,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181883,
+        "num": 181883,
+        "word": "我国自主研发新一代CPU发布",
+        "onboard_time": 1750926440,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174528,
+        "num": 174528,
+        "word": "LV上海活动机场路透",
+        "onboard_time": 1750929683,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 32507,
+        "num": 171004,
+        "word": "李静喊话AQ给我做个AI智能体",
+        "onboard_time": 1750935142,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169731,
+        "num": 169731,
+        "word": "感冒发烧之后千万别这样做",
+        "onboard_time": 1750931723,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 166922,
+        "num": 166922,
+        "word": "小沈阳晒亲吻照庆结婚纪念日",
+        "onboard_time": 1750934303,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161005,
+        "num": 161005,
+        "word": "田栩宁沈月新剧男三",
+        "onboard_time": 1750929863,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160073,
+        "num": 160073,
+        "word": "99平的家住出了200平的感觉",
+        "onboard_time": 1750935801,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151384,
+        "num": 151384,
+        "word": "无畏又猫奴了",
+        "onboard_time": 1750935022,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 82746,
+        "num": 151270,
+        "word": "细数霍汶希带火的52位艺人",
+        "onboard_time": 1750934060,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151220,
+        "num": 151220,
+        "word": "白玉兰提名晚宴",
+        "onboard_time": 1750936823,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144322,
+        "num": 144322,
+        "word": "白玉兰奖公式照",
+        "onboard_time": 1750935622,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47751,
+        "num": 142866,
+        "word": "报考中国人民大学你将拥有",
+        "onboard_time": 1750935501,
+        "rank": 38,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 16184,
+        "num": 142577,
+        "word": "2025世界男排联赛",
+        "onboard_time": 1750936041,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142472,
+        "num": 142472,
+        "word": "27岁过上了普通人里最好的生活",
+        "onboard_time": 1750935564,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129642,
+        "num": 129642,
+        "word": "刘轩丞 没骗钱没出轨",
+        "onboard_time": 1750925183,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128999,
+        "num": 128999,
+        "word": "韩国现在最火的男演员",
+        "onboard_time": 1750924342,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123647,
+        "num": 123647,
+        "word": "刘宇宁新剧连失初吻二吻三吻",
+        "onboard_time": 1750933342,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119537,
+        "num": 119537,
+        "word": "海昏侯墓确认出土医用毫针",
+        "onboard_time": 1750934122,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116698,
+        "num": 116698,
+        "word": "半岁宝宝反复咳体内取出17厘米巨瘤",
+        "onboard_time": 1750926323,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116439,
+        "num": 116439,
+        "word": "歌手",
+        "onboard_time": 1750934361,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109032,
+        "num": 109032,
+        "word": "叶童评论区cpf",
+        "onboard_time": 1750933042,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108637,
+        "num": 108637,
+        "word": "陕西外婆给满月宝宝送华丽猫馍",
+        "onboard_time": 1750935142,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104647,
+        "num": 104647,
+        "word": "小米YU7发布会预计3小时",
+        "onboard_time": 1750935441,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈耕地保护#"
+    }
+  }
+}
