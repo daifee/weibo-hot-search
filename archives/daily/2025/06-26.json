@@ -1,6 +1,6 @@
 {
   "startTime": 1750869299096,
-  "endTime": 1750903358027,
+  "endTime": 1750904808440,
   "band_list": [
     {
       "raw_hot": 1280411,
@@ -17,6 +17,14 @@
       "onboard_time": 1750849343,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 709888,
+      "num": 709888,
+      "word": "NBA选秀",
+      "onboard_time": 1750898183,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 684960,
@@ -36,11 +44,19 @@
     },
     {
       "raw_hot": 631959,
-      "num": 244876,
+      "num": 374302,
       "word": "月薪15000每月只花1000块",
       "onboard_time": 1750894038,
       "rank": 40,
       "category": "民生新闻,幽默"
+    },
+    {
+      "raw_hot": 620107,
+      "num": 620107,
+      "word": "小沈阳女儿cha大展鸿图",
+      "onboard_time": 1750902321,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 564498,
@@ -52,7 +68,7 @@
     },
     {
       "raw_hot": 498482,
-      "num": 306104,
+      "num": 371091,
       "word": "徐艺洋一周前曾回应怀孕传闻",
       "onboard_time": 1750853363,
       "rank": 10,
@@ -67,12 +83,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 443397,
-      "num": 244571,
+      "raw_hot": 493788,
+      "num": 373619,
       "word": "美国B2幽灵轰炸机飞行员emo了",
       "onboard_time": 1750901601,
       "rank": 11,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 461682,
+      "num": 461682,
+      "word": "杨瀚森一身白西装参加选秀",
+      "onboard_time": 1750899623,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 437846,
@@ -81,6 +105,14 @@
       "onboard_time": 1750863263,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 424129,
+      "num": 424129,
+      "word": "杨瀚森第16顺位被选中",
+      "onboard_time": 1750904180,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 418047,
@@ -92,7 +124,7 @@
     },
     {
       "raw_hot": 412224,
-      "num": 244212,
+      "num": 305837,
       "word": "长期不上班会和社会脱节吗",
       "onboard_time": 1750881433,
       "rank": 40,
@@ -139,6 +171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 353311,
+      "num": 383009,
+      "word": "于正的Labubu",
+      "onboard_time": 1750901960,
+      "rank": 13,
+      "category": "艺人,休闲"
+    },
+    {
       "raw_hot": 341804,
       "num": 341804,
       "word": "罗一舟突发意外受伤",
@@ -147,20 +187,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 331284,
-      "num": 331284,
-      "word": "NBA选秀",
-      "onboard_time": 1750898183,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 316206,
-      "num": 243516,
-      "word": "于正的Labubu",
-      "onboard_time": 1750901960,
-      "rank": 13,
-      "category": "艺人,休闲"
+      "raw_hot": 307887,
+      "num": 307887,
+      "word": "江苏卫视长安的荔枝撤档",
+      "onboard_time": 1750903521,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 305606,
@@ -185,6 +217,14 @@
       "onboard_time": 1750877056,
       "rank": 48,
       "category": "民生新闻,幽默"
+    },
+    {
+      "raw_hot": 285381,
+      "num": 213475,
+      "word": "老师高考差3分输赌约全班坐等开饭",
+      "onboard_time": 1750903822,
+      "rank": 20,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 273828,
@@ -236,11 +276,35 @@
     },
     {
       "raw_hot": 226073,
-      "num": 226073,
+      "num": 377420,
       "word": "考生花5499元报96个本科志愿全滑档",
       "onboard_time": 1750860744,
       "rank": 15,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 213227,
+      "num": 213227,
+      "word": "NBA选秀直播",
+      "onboard_time": 1750903222,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 210565,
+      "num": 213665,
+      "word": "陈楚生 大梦",
+      "onboard_time": 1750903401,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 202406,
+      "num": 202406,
+      "word": "91岁游本昌露面大笑说活过来了",
+      "onboard_time": 1750904180,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 199859,
@@ -251,20 +315,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 198903,
+      "num": 198903,
+      "word": "詹姆斯谈弗拉格发展前景",
+      "onboard_time": 1750903701,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195539,
       "num": 195539,
       "word": "成何体统",
       "onboard_time": 1750867641,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 188877,
-      "num": 224835,
-      "word": "小沈阳女儿cha大展鸿图",
-      "onboard_time": 1750902321,
-      "rank": 17,
-      "category": "音乐"
     },
     {
       "raw_hot": 179078,
@@ -291,6 +355,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 174834,
+      "num": 214559,
+      "word": "杨瀚森第九位被选中的中国球员",
+      "onboard_time": 1750904482,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173343,
       "num": 223227,
       "word": "孟子义给边程发好人卡",
@@ -313,6 +385,22 @@
       "onboard_time": 1750866382,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165948,
+      "num": 204154,
+      "word": "一人一句对毒品说不",
+      "onboard_time": 1750902441,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162535,
+      "num": 162535,
+      "word": "这位一等功臣至今没有露脸公开影像",
+      "onboard_time": 1750904001,
+      "rank": 27,
+      "category": "正能量"
     },
     {
       "raw_hot": 161310,
@@ -395,12 +483,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 142577,
-      "num": 142577,
-      "word": "杨瀚森一身白西装参加选秀",
-      "onboard_time": 1750899623,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 141753,
+      "num": 141753,
+      "word": "孙子开公司请80岁奶奶当技术总监",
+      "onboard_time": 1750902441,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131306,
@@ -475,14 +563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 105879,
-      "num": 105879,
-      "word": "孙子开公司请80岁奶奶当技术总监",
-      "onboard_time": 1750902441,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 103793,
       "num": 103793,
       "word": "全员加速中",
@@ -497,6 +577,14 @@
       "onboard_time": 1750861163,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102285,
+      "num": 102285,
+      "word": "宇树科技年度营收已超10亿",
+      "onboard_time": 1750902741,
+      "rank": 46,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 101657,
@@ -523,28 +611,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 97804,
-      "num": 97804,
-      "word": "NBA选秀直播",
-      "onboard_time": 1750903222,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 93276,
-      "num": 93276,
-      "word": "宇树科技年度营收已超10亿",
-      "onboard_time": 1750902741,
-      "rank": 46,
-      "category": "互联网,财经"
-    },
-    {
-      "raw_hot": 93258,
-      "num": 93258,
+      "raw_hot": 96974,
+      "num": 96974,
       "word": "花在毒品上的钱是打向缉毒警的子弹",
       "onboard_time": 1750898603,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90123,
+      "num": 90123,
+      "word": "吉赛尔 妈妈级别",
+      "onboard_time": 1750904722,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 89286,
@@ -899,6 +979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12624,
+      "num": 115476,
+      "word": "好博会上演机器人总动员",
+      "onboard_time": 1750903280,
+      "rank": 39,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 10578,
       "num": 38985,
       "word": "面对防汛大考要始终绷紧弦擦亮眼",
@@ -921,14 +1009,6 @@
       "onboard_time": 1750863804,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 5735,
-      "num": 103874,
-      "word": "好博会上演机器人总动员",
-      "onboard_time": 1750903280,
-      "rank": 39,
-      "category": "民生新闻,互联网"
     }
   ],
   "hotgov_list": [

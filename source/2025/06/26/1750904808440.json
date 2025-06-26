@@ -1,0 +1,402 @@
+{
+  "runTime": 1750904808440,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 977786,
+        "num": 1156445,
+        "word": "成绩被屏蔽女孩坚信不存在智商差距",
+        "onboard_time": 1750865542,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 709888,
+        "num": 709888,
+        "word": "NBA选秀",
+        "onboard_time": 1750898183,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 620107,
+        "num": 620107,
+        "word": "小沈阳女儿cha大展鸿图",
+        "onboard_time": 1750902321,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 461682,
+        "num": 461682,
+        "word": "杨瀚森一身白西装参加选秀",
+        "onboard_time": 1750899623,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 424129,
+        "num": 424129,
+        "word": "杨瀚森第16顺位被选中",
+        "onboard_time": 1750904180,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 394429,
+        "num": 394429,
+        "word": "先锋书店禁商拍后现状",
+        "onboard_time": 1750896440,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353311,
+        "num": 383009,
+        "word": "于正的Labubu",
+        "onboard_time": 1750901960,
+        "rank": 7,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 185901,
+        "num": 377420,
+        "word": "考生花5499元报96个本科志愿全滑档",
+        "onboard_time": 1750860744,
+        "rank": 8,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 375966,
+        "num": 375966,
+        "word": "妈妈替复读生儿子查分瞬间泪崩",
+        "onboard_time": 1750865542,
+        "rank": 9,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 521278,
+        "num": 374302,
+        "word": "月薪15000每月只花1000块",
+        "onboard_time": 1750894038,
+        "rank": 10,
+        "category": "民生新闻,幽默"
+      },
+      {
+        "raw_hot": 493788,
+        "num": 373619,
+        "word": "美国B2幽灵轰炸机飞行员emo了",
+        "onboard_time": 1750901601,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 371091,
+        "num": 371091,
+        "word": "徐艺洋一周前曾回应怀孕传闻",
+        "onboard_time": 1750853363,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344108,
+        "num": 344108,
+        "word": "宋亚轩回应王力宏",
+        "onboard_time": 1750898301,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 307887,
+        "num": 307887,
+        "word": "江苏卫视长安的荔枝撤档",
+        "onboard_time": 1750903521,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305837,
+        "num": 305837,
+        "word": "长期不上班会和社会脱节吗",
+        "onboard_time": 1750881433,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 289827,
+        "num": 289827,
+        "word": "BLACKPINK世巡概念预告",
+        "onboard_time": 1750901301,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 253511,
+        "num": 253511,
+        "word": "北约秘书长否认管特朗普叫爸爸",
+        "onboard_time": 1750894760,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 174834,
+        "num": 214559,
+        "word": "杨瀚森第九位被选中的中国球员",
+        "onboard_time": 1750904482,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210565,
+        "num": 213665,
+        "word": "陈楚生 大梦",
+        "onboard_time": 1750903401,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285381,
+        "num": 213475,
+        "word": "老师高考差3分输赌约全班坐等开饭",
+        "onboard_time": 1750903822,
+        "rank": 20,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 213227,
+        "num": 213227,
+        "word": "NBA选秀直播",
+        "onboard_time": 1750903222,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165948,
+        "num": 204154,
+        "word": "一人一句对毒品说不",
+        "onboard_time": 1750902441,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204070,
+        "num": 204070,
+        "word": "中央气象台暴雨预警多地将受影响",
+        "onboard_time": 1750892177,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202406,
+        "num": 202406,
+        "word": "91岁游本昌露面大笑说活过来了",
+        "onboard_time": 1750904180,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198903,
+        "num": 198903,
+        "word": "詹姆斯谈弗拉格发展前景",
+        "onboard_time": 1750903701,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195796,
+        "num": 195796,
+        "word": "LV上海大秀阵容",
+        "onboard_time": 1750863983,
+        "rank": 26,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 162535,
+        "num": 162535,
+        "word": "这位一等功臣至今没有露脸公开影像",
+        "onboard_time": 1750904001,
+        "rank": 27,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 131420,
+        "num": 157790,
+        "word": "孟子义给边程发好人卡",
+        "onboard_time": 1750899922,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100112,
+        "num": 157448,
+        "word": "王宝强参选白玉兰让康洪雷不要为难",
+        "onboard_time": 1750894760,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157445,
+        "num": 157445,
+        "word": "这届年轻人靠认知差赚了多少钱",
+        "onboard_time": 1750901541,
+        "rank": 30,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 143147,
+        "num": 143147,
+        "word": "86岁大学学历北京大爷退休收入",
+        "onboard_time": 1750877056,
+        "rank": 31,
+        "category": "民生新闻,幽默"
+      },
+      {
+        "raw_hot": 141753,
+        "num": 141753,
+        "word": "孙子开公司请80岁奶奶当技术总监",
+        "onboard_time": 1750902441,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135784,
+        "num": 135784,
+        "word": "中国为加沙孩子们发声",
+        "onboard_time": 1750899862,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134866,
+        "num": 134866,
+        "word": "救百名弃婴和尚挥霍大量爱心善款",
+        "onboard_time": 1750867281,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130313,
+        "num": 130313,
+        "word": "NBA交易",
+        "onboard_time": 1750893978,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126678,
+        "num": 126678,
+        "word": "女生高考752直呼太可怕再也不查分了",
+        "onboard_time": 1750895121,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121909,
+        "num": 121909,
+        "word": "美袭击伊朗情报遭泄露",
+        "onboard_time": 1750898603,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116520,
+        "num": 116520,
+        "word": "一人一句致敬缉毒警",
+        "onboard_time": 1750902262,
+        "rank": 38,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 12624,
+        "num": 115476,
+        "word": "好博会上演机器人总动员",
+        "onboard_time": 1750903280,
+        "rank": 39,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 114440,
+        "num": 114440,
+        "word": "医院各科医生都不吃的六种食物",
+        "onboard_time": 1750895121,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 105342,
+        "num": 105342,
+        "word": "弗拉格历史第二年轻状元",
+        "onboard_time": 1750901960,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102285,
+        "num": 102285,
+        "word": "宇树科技年度营收已超10亿",
+        "onboard_time": 1750902741,
+        "rank": 42,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 100169,
+        "num": 100169,
+        "word": "孙颖莎世1霸榜近3年",
+        "onboard_time": 1750867281,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98709,
+        "num": 98709,
+        "word": "原来真的有人能热爱生活成这样",
+        "onboard_time": 1750895780,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97105,
+        "num": 97105,
+        "word": "杨幂 王小卤",
+        "onboard_time": 1750863263,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96974,
+        "num": 96974,
+        "word": "花在毒品上的钱是打向缉毒警的子弹",
+        "onboard_time": 1750898603,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94098,
+        "num": 94098,
+        "word": "LV 王楚钦",
+        "onboard_time": 1750861403,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90123,
+        "num": 90123,
+        "word": "吉赛尔 妈妈级别",
+        "onboard_time": 1750904722,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87687,
+        "num": 87687,
+        "word": "高考724分女生回应数学满分",
+        "onboard_time": 1750849343,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记对土地的深情#"
+    }
+  }
+}
