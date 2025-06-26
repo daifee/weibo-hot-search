@@ -1,0 +1,410 @@
+{
+  "runTime": 1750981221745,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 962155,
+        "num": 986601,
+        "word": "小米汽车",
+        "onboard_time": 1750934422,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 673150,
+        "num": 673150,
+        "word": "以为会变胖其实很减肥的习惯",
+        "onboard_time": 1750954702,
+        "rank": 1,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 8259,
+        "num": 569633,
+        "word": "活力中国调研行",
+        "onboard_time": 1750933102,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 478250,
+        "num": 478250,
+        "word": "288分女生接到高校电话",
+        "onboard_time": 1750941623,
+        "rank": 3,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 465379,
+        "num": 465379,
+        "word": "中方坚决反对北约借口中国东进亚太",
+        "onboard_time": 1750954702,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 463430,
+        "num": 463430,
+        "word": "哈尔滨高温高校学生回应在楼道睡觉",
+        "onboard_time": 1750980439,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403306,
+        "num": 403306,
+        "word": "刘亦菲美的不知天地为何物了",
+        "onboard_time": 1750956319,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290998,
+        "num": 290998,
+        "word": "医院回应女孩怕跨省转运被堵死",
+        "onboard_time": 1750955299,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99444,
+        "num": 288753,
+        "word": "跪谢爷爷的双胞胎兄弟高考成绩出炉",
+        "onboard_time": 1750963816,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29566,
+        "num": 288564,
+        "word": "伊外长称目前没有重启核谈判计划",
+        "onboard_time": 1750980380,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 570205,
+        "num": 288563,
+        "word": "6岁女孩被西贝服务员拍照当背景图",
+        "onboard_time": 1750954702,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288558,
+        "num": 288558,
+        "word": "蔡依林",
+        "onboard_time": 1750955959,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 543739,
+        "num": 281880,
+        "word": "以色列被曝拥有90枚核弹头",
+        "onboard_time": 1750977737,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 507963,
+        "num": 273073,
+        "word": "图书馆三十秒",
+        "onboard_time": 1750981161,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25098,
+        "num": 264243,
+        "word": "中国记者遭乌无人机袭击受伤",
+        "onboard_time": 1750980739,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 297315,
+        "num": 255345,
+        "word": "井柏然刘雯被当面追问婚讯",
+        "onboard_time": 1750951163,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251558,
+        "num": 251558,
+        "word": "男子花90.8万彩礼娶的老婆不见了",
+        "onboard_time": 1750945586,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248970,
+        "num": 248970,
+        "word": "白玉兰提名的压迫感",
+        "onboard_time": 1750953322,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131862,
+        "num": 237850,
+        "word": "王嘉尔说再休假事业都要没了",
+        "onboard_time": 1750952423,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 22550,
+        "num": 234053,
+        "word": "法国遭遇极端天气议会建筑漏雨",
+        "onboard_time": 1750980380,
+        "rank": 19,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 231990,
+        "num": 231990,
+        "word": "小米YU7价格",
+        "onboard_time": 1750940903,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 222721,
+        "num": 222721,
+        "word": "癌细胞最喜欢的5类食物",
+        "onboard_time": 1750946424,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 217560,
+        "num": 217560,
+        "word": "母亲被骗30多万高中女儿辍学追退款",
+        "onboard_time": 1750950925,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209376,
+        "num": 209376,
+        "word": "哈梅内伊称狠狠扇了美国一个耳光",
+        "onboard_time": 1750950324,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 164344,
+        "num": 164344,
+        "word": "十年前没人敢选的专业翻红了",
+        "onboard_time": 1750938622,
+        "rank": 24,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 144105,
+        "num": 144105,
+        "word": "虞书欣的腰",
+        "onboard_time": 1750947324,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113709,
+        "num": 113709,
+        "word": "京东回应外卖员帮扔垃圾每单0.5元",
+        "onboard_time": 1750956499,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111080,
+        "num": 111080,
+        "word": "书卷一梦编剧回应",
+        "onboard_time": 1750957577,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110969,
+        "num": 110969,
+        "word": "里夫斯拒绝湖人",
+        "onboard_time": 1750979299,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84812,
+        "num": 100450,
+        "word": "王鹤棣一下子把王嘉尔抱起来了",
+        "onboard_time": 1750948286,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 94046,
+        "num": 94046,
+        "word": "日本回应特朗普将伊朗和广岛并论",
+        "onboard_time": 1750948464,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87626,
+        "num": 87626,
+        "word": "煤气泄露14岁男生救了整栋楼",
+        "onboard_time": 1750962915,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85725,
+        "num": 85725,
+        "word": "张勇等9人退出阿里合伙人",
+        "onboard_time": 1750953561,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 85185,
+        "num": 85185,
+        "word": "小米发布会",
+        "onboard_time": 1750934361,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 82693,
+        "num": 82693,
+        "word": "陆景和 酱子贝",
+        "onboard_time": 1750942283,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 82380,
+        "num": 82380,
+        "word": "这种矿泉水3秒让人丧失意识",
+        "onboard_time": 1750951944,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79405,
+        "num": 79405,
+        "word": "浙江一职高全班36人34个上了本科线",
+        "onboard_time": 1750977678,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 77162,
+        "num": 77162,
+        "word": "小米YU7",
+        "onboard_time": 1750941983,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 75606,
+        "num": 75606,
+        "word": "小猫42码大脚丫",
+        "onboard_time": 1750981161,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 73207,
+        "num": 73207,
+        "word": "LV大秀",
+        "onboard_time": 1750936041,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 73101,
+        "num": 73101,
+        "word": "哈佛首个应急计划",
+        "onboard_time": 1750980800,
+        "rank": 40,
+        "category": "海外新闻,教育"
+      },
+      {
+        "raw_hot": 72774,
+        "num": 72774,
+        "word": "小米汽车yu7颜色",
+        "onboard_time": 1750980320,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 72577,
+        "num": 72577,
+        "word": "尤文图斯2比5曼城",
+        "onboard_time": 1750981040,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69519,
+        "num": 69519,
+        "word": "初会",
+        "onboard_time": 1750955239,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 67204,
+        "num": 67204,
+        "word": "刘晓庆想亲脸 人家把嘴递上了",
+        "onboard_time": 1750932321,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67012,
+        "num": 67012,
+        "word": "27岁真的还很年轻很年轻",
+        "onboard_time": 1750934902,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 64849,
+        "num": 64849,
+        "word": "北约秘书长不在意特朗普晒私聊截图",
+        "onboard_time": 1750978518,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 62456,
+        "num": 62456,
+        "word": "陈情令开播六周年",
+        "onboard_time": 1750949666,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57924,
+        "num": 57924,
+        "word": "杭州妈妈做3年早餐儿子高考685分",
+        "onboard_time": 1750981040,
+        "rank": 48,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 56051,
+        "num": 56051,
+        "word": "感染了艾滋病如何告诉另一半",
+        "onboard_time": 1750951102,
+        "rank": 49,
+        "category": "民生新闻,健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈耕地保护#"
+    }
+  }
+}

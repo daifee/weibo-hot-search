@@ -1,6 +1,6 @@
 {
   "startTime": 1750955581651,
-  "endTime": 1750980328655,
+  "endTime": 1750981221745,
   "band_list": [
     {
       "raw_hot": 3091316,
@@ -20,11 +20,19 @@
     },
     {
       "raw_hot": 687974,
-      "num": 270654,
+      "num": 288563,
       "word": "6岁女孩被西贝服务员拍照当背景图",
       "onboard_time": 1750954702,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 673150,
+      "num": 673150,
+      "word": "以为会变胖其实很减肥的习惯",
+      "onboard_time": 1750954702,
+      "rank": 33,
+      "category": "运动健身"
     },
     {
       "raw_hot": 647444,
@@ -43,6 +51,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 543739,
+      "num": 281880,
+      "word": "以色列被曝拥有90枚核弹头",
+      "onboard_time": 1750977737,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 541796,
       "num": 328594,
       "word": "特斯拉",
@@ -59,12 +75,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 511826,
-      "num": 511826,
-      "word": "以为会变胖其实很减肥的习惯",
-      "onboard_time": 1750954702,
-      "rank": 33,
-      "category": "运动健身"
+      "raw_hot": 507963,
+      "num": 273073,
+      "word": "图书馆三十秒",
+      "onboard_time": 1750981161,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 505865,
@@ -75,32 +91,32 @@
       "category": "教育"
     },
     {
-      "raw_hot": 464205,
-      "num": 464205,
+      "raw_hot": 478250,
+      "num": 478250,
       "word": "288分女生接到高校电话",
       "onboard_time": 1750941623,
       "rank": 3,
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 463411,
-      "num": 230358,
-      "word": "以色列被曝拥有90枚核弹头",
-      "onboard_time": 1750977737,
-      "rank": 30,
-      "category": "国际时政"
+      "raw_hot": 463430,
+      "num": 463430,
+      "word": "哈尔滨高温高校学生回应在楼道睡觉",
+      "onboard_time": 1750980439,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 427620,
-      "num": 240329,
+      "num": 255345,
       "word": "井柏然刘雯被当面追问婚讯",
       "onboard_time": 1750951163,
       "rank": 13,
       "category": "艺人"
     },
     {
-      "raw_hot": 389320,
-      "num": 389320,
+      "raw_hot": 403306,
+      "num": 403306,
       "word": "刘亦菲美的不知天地为何物了",
       "onboard_time": 1750956319,
       "rank": 36,
@@ -139,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 251558,
+      "num": 251558,
+      "word": "男子花90.8万彩礼娶的老婆不见了",
+      "onboard_time": 1750945586,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 243683,
       "num": 239895,
       "word": "刘亦菲裙子",
@@ -163,14 +187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 235141,
-      "num": 230049,
-      "word": "男子花90.8万彩礼娶的老婆不见了",
-      "onboard_time": 1750945586,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 230619,
       "num": 279705,
       "word": "母亲被骗30多万高中女儿辍学追退款",
@@ -187,8 +203,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 209157,
-      "num": 209157,
+      "raw_hot": 209376,
+      "num": 209376,
       "word": "哈梅内伊称狠狠扇了美国一个耳光",
       "onboard_time": 1750950324,
       "rank": 35,
@@ -235,6 +251,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 164344,
+      "num": 164344,
+      "word": "十年前没人敢选的专业翻红了",
+      "onboard_time": 1750938622,
+      "rank": 39,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 162529,
       "num": 162529,
       "word": "陆景和 酱子贝",
@@ -249,14 +273,6 @@
       "onboard_time": 1750954880,
       "rank": 31,
       "category": "数码"
-    },
-    {
-      "raw_hot": 153317,
-      "num": 153317,
-      "word": "十年前没人敢选的专业翻红了",
-      "onboard_time": 1750938622,
-      "rank": 39,
-      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 149689,
@@ -307,6 +323,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 113709,
+      "num": 113709,
+      "word": "京东回应外卖员帮扔垃圾每单0.5元",
+      "onboard_time": 1750956499,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112605,
       "num": 112605,
       "word": "这种矿泉水3秒让人丧失意识",
@@ -323,24 +347,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 108500,
-      "num": 108500,
-      "word": "京东回应外卖员帮扔垃圾每单0.5元",
-      "onboard_time": 1750956499,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 101320,
-      "num": 82474,
+      "raw_hot": 110969,
+      "num": 110969,
       "word": "里夫斯拒绝湖人",
       "onboard_time": 1750979299,
       "rank": 30,
       "category": "体育"
     },
     {
-      "raw_hot": 96764,
-      "num": 96764,
+      "raw_hot": 99444,
+      "num": 288753,
       "word": "跪谢爷爷的双胞胎兄弟高考成绩出炉",
       "onboard_time": 1750963816,
       "rank": 49,
@@ -377,6 +393,14 @@
       "onboard_time": 1750951224,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87626,
+      "num": 87626,
+      "word": "煤气泄露14岁男生救了整栋楼",
+      "onboard_time": 1750962915,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86546,
@@ -435,14 +459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 80964,
-      "num": 80964,
-      "word": "煤气泄露14岁男生救了整栋楼",
-      "onboard_time": 1750962915,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 80616,
       "num": 80616,
       "word": "陈情令开播六周年",
@@ -467,12 +483,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75606,
+      "num": 75606,
+      "word": "小猫42码大脚丫",
+      "onboard_time": 1750981161,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 73101,
+      "num": 73101,
+      "word": "哈佛首个应急计划",
+      "onboard_time": 1750980800,
+      "rank": 40,
+      "category": "海外新闻,教育"
+    },
+    {
       "raw_hot": 72889,
       "num": 72889,
       "word": "张译是不是真上过班",
       "onboard_time": 1750948586,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 72774,
+      "num": 72774,
+      "word": "小米汽车yu7颜色",
+      "onboard_time": 1750980320,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 72577,
+      "num": 72577,
+      "word": "尤文图斯2比5曼城",
+      "onboard_time": 1750981040,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 68950,
@@ -491,6 +539,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 67204,
+      "num": 67204,
+      "word": "刘晓庆想亲脸 人家把嘴递上了",
+      "onboard_time": 1750932321,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 65032,
       "num": 65032,
       "word": "北约秘书长不在意特朗普晒私聊截图",
@@ -499,12 +555,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 60497,
-      "num": 60497,
-      "word": "刘晓庆想亲脸 人家把嘴递上了",
-      "onboard_time": 1750932321,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 57924,
+      "num": 57924,
+      "word": "杭州妈妈做3年早餐儿子高考685分",
+      "onboard_time": 1750981040,
+      "rank": 48,
+      "category": "正能量"
     },
     {
       "raw_hot": 52812,
@@ -555,6 +611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29566,
+      "num": 288564,
+      "word": "伊外长称目前没有重启核谈判计划",
+      "onboard_time": 1750980380,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 29331,
       "num": 29331,
       "word": "KPL",
@@ -587,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25098,
+      "num": 264243,
+      "word": "中国记者遭乌无人机袭击受伤",
+      "onboard_time": 1750980739,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 24632,
       "num": 38117,
       "word": "不需要去辨别说话的人是否善意",
@@ -609,6 +681,14 @@
       "onboard_time": 1750959137,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22550,
+      "num": 234053,
+      "word": "法国遭遇极端天气议会建筑漏雨",
+      "onboard_time": 1750980380,
+      "rank": 19,
+      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 22479,
@@ -660,7 +740,7 @@
     },
     {
       "raw_hot": 13423,
-      "num": 539379,
+      "num": 569633,
       "word": "活力中国调研行",
       "onboard_time": 1750933102,
       "rank": 2,
