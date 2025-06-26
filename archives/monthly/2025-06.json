@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750945096006,
+  "endTime": 1750945837628,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -361,6 +361,14 @@
       "onboard_time": 1749216386,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 3472627,
+      "num": 3472627,
+      "word": "小米YU7价格",
+      "onboard_time": 1750940903,
+      "rank": 1,
+      "category": "汽车"
     },
     {
       "raw_hot": 3468724,
@@ -1347,14 +1355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1796543,
-      "num": 1796543,
-      "word": "小米YU7价格",
-      "onboard_time": 1750940903,
-      "rank": 1,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 1795605,
       "num": 1795605,
       "word": "罗帅宇158段录音为工作吃饭闲聊等",
@@ -1857,6 +1857,14 @@
       "onboard_time": 1750235002,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1585739,
+      "num": 1585739,
+      "word": "小米YU7",
+      "onboard_time": 1750669463,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 1580264,
@@ -6115,14 +6123,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 822448,
-      "num": 822448,
-      "word": "小米YU7",
-      "onboard_time": 1750669463,
-      "rank": 28,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 821281,
       "num": 804324,
       "word": "失踪3月被发现遗体老人女儿发声",
@@ -8179,6 +8179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 690866,
+      "num": 690866,
+      "word": "小米汽车",
+      "onboard_time": 1750934422,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 690862,
       "num": 690862,
       "word": "脱掉衣服的labubu样子",
@@ -8377,6 +8385,14 @@
       "onboard_time": 1750820542,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 677883,
+      "num": 677883,
+      "word": "LV大秀直播",
+      "onboard_time": 1750945044,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 677427,
@@ -9241,14 +9257,6 @@
       "onboard_time": 1749818784,
       "rank": 23,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 635379,
-      "num": 635379,
-      "word": "小米汽车",
-      "onboard_time": 1750934422,
-      "rank": 18,
-      "category": "汽车"
     },
     {
       "raw_hot": 635128,
@@ -12803,6 +12811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 498036,
+      "num": 455480,
+      "word": "翔霖",
+      "onboard_time": 1750942404,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 497475,
       "num": 497475,
       "word": "柯颖 花少7",
@@ -13153,14 +13169,6 @@
       "onboard_time": 1750489100,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 487872,
-      "num": 455480,
-      "word": "翔霖",
-      "onboard_time": 1750942404,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 487622,
@@ -18851,6 +18859,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 356106,
+      "num": 350376,
+      "word": "陆景和 酱子贝",
+      "onboard_time": 1750942283,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 356081,
       "num": 356081,
       "word": "江苏唯一真南哥之争已白热化",
@@ -19099,6 +19115,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 351064,
+      "num": 351064,
+      "word": "华策经纪严正声明",
+      "onboard_time": 1750944983,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 350988,
       "num": 350988,
       "word": "抖音回应涉扁担女孩账号处置过程",
@@ -19153,6 +19177,14 @@
       "onboard_time": 1749286702,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 350147,
+      "num": 350147,
+      "word": "小米YU7颜色",
+      "onboard_time": 1750942944,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 350051,
@@ -21345,14 +21377,6 @@
       "onboard_time": 1749037882,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 314802,
-      "num": 314802,
-      "word": "陆景和 酱子贝",
-      "onboard_time": 1750942283,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 314652,
@@ -24083,6 +24107,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 279876,
+      "num": 350577,
+      "word": "宋茜LV大秀红毯造型",
+      "onboard_time": 1750944804,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 279819,
       "num": 273617,
       "word": "9人组织20余名未成年人有偿陪侍获刑",
@@ -24561,6 +24593,14 @@
       "onboard_time": 1750211600,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 274585,
+      "num": 350463,
+      "word": "童瑶给王宝强张若昀颁奖",
+      "onboard_time": 1750944744,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 274313,
@@ -25440,14 +25480,6 @@
       "word": "尹子维居然是中德混血",
       "onboard_time": 1748949742,
       "rank": 46,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 264392,
-      "num": 325634,
-      "word": "华策经纪严正声明",
-      "onboard_time": 1750944983,
-      "rank": 28,
       "category": "艺人"
     },
     {
@@ -27435,6 +27467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 246086,
+      "num": 454732,
+      "word": "小米首款AI眼镜发布",
+      "onboard_time": 1750943724,
+      "rank": 21,
+      "category": "数码"
+    },
+    {
       "raw_hot": 245896,
       "num": 245896,
       "word": "张译一部剧嘎一个兄弟",
@@ -27745,14 +27785,6 @@
       "onboard_time": 1750048162,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 241856,
-      "num": 241856,
-      "word": "小米YU7颜色",
-      "onboard_time": 1750942944,
-      "rank": 41,
-      "category": "汽车"
     },
     {
       "raw_hot": 241805,
@@ -29441,6 +29473,14 @@
       "onboard_time": 1749372740,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 228937,
+      "num": 228937,
+      "word": "候车护士一套连招急救昏厥乘客",
+      "onboard_time": 1750945343,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 228803,
@@ -31283,14 +31323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 217477,
-      "num": 454732,
-      "word": "小米首款AI眼镜发布",
-      "onboard_time": 1750943724,
-      "rank": 21,
-      "category": "数码"
-    },
-    {
       "raw_hot": 217470,
       "num": 217470,
       "word": "四级段落匹配",
@@ -31476,7 +31508,7 @@
     },
     {
       "raw_hot": 216116,
-      "num": 216116,
+      "num": 350386,
       "word": "金晨裸肩红黑格子裙",
       "onboard_time": 1750944864,
       "rank": 34,
@@ -32313,14 +32345,6 @@
       "onboard_time": 1750509803,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 211415,
-      "num": 320157,
-      "word": "童瑶给王宝强张若昀颁奖",
-      "onboard_time": 1750944744,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 211414,
@@ -35331,14 +35355,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199984,
-      "num": 199984,
-      "word": "宋茜LV大秀红毯造型",
-      "onboard_time": 1750944804,
-      "rank": 35,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 199978,
       "num": 199978,
       "word": "3C充电宝",
@@ -37369,6 +37385,14 @@
       "onboard_time": 1750245801,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193623,
+      "num": 193623,
+      "word": "广东地震干饭小孩哥火到了西班牙",
+      "onboard_time": 1750944204,
+      "rank": 44,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 193615,
@@ -41339,6 +41363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181080,
+      "num": 181080,
+      "word": "贺峻霖贵公子具象化",
+      "onboard_time": 1750945224,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 181047,
       "num": 535865,
       "word": "高考生在爆燃事故中遇难是谣言",
@@ -41449,14 +41481,6 @@
       "onboard_time": 1748921001,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 180571,
-      "num": 180571,
-      "word": "LV大秀直播",
-      "onboard_time": 1750945044,
-      "rank": 40,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 180560,
@@ -46931,14 +46955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 163314,
-      "num": 163314,
-      "word": "广东地震干饭小孩哥火到了西班牙",
-      "onboard_time": 1750944204,
-      "rank": 44,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 163285,
       "num": 163285,
       "word": "中国在伊朗记者备足了罐头",
@@ -47825,6 +47841,14 @@
       "onboard_time": 1749116180,
       "rank": 10,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 160300,
+      "num": 161588,
+      "word": "谷爱凌训练BTS",
+      "onboard_time": 1750945524,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 160265,
@@ -50145,6 +50169,14 @@
       "onboard_time": 1750754002,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 153720,
+      "num": 153720,
+      "word": "男子花90.8万彩礼娶的老婆不见了",
+      "onboard_time": 1750945586,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153697,
@@ -71331,6 +71363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99371,
+      "num": 457354,
+      "word": "小米发布全新随身拍套装",
+      "onboard_time": 1750943184,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 99263,
       "num": 99263,
       "word": "朱茵53岁状态",
@@ -72465,6 +72505,14 @@
       "onboard_time": 1748774540,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 95667,
+      "num": 466422,
+      "word": "LV上海活动",
+      "onboard_time": 1750943484,
+      "rank": 10,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 95620,
@@ -75089,14 +75137,6 @@
       "onboard_time": 1750933282,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 84405,
-      "num": 457354,
-      "word": "小米发布全新随身拍套装",
-      "onboard_time": 1750943184,
-      "rank": 31,
-      "category": "数码"
     },
     {
       "raw_hot": 84387,
@@ -78619,6 +78659,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 68267,
+      "num": 350245,
+      "word": "小伙花3000元定制汉服拍身份证",
+      "onboard_time": 1750945285,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68253,
       "num": 274223,
       "word": "哥伦比亚右翼总统候选人遭枪击",
@@ -81217,14 +81265,6 @@
       "onboard_time": 1749216207,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 56741,
-      "num": 466422,
-      "word": "LV上海活动",
-      "onboard_time": 1750943484,
-      "rank": 10,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 56681,
@@ -87740,7 +87780,7 @@
     },
     {
       "raw_hot": 34161,
-      "num": 1599642,
+      "num": 1751181,
       "word": "活力中国调研行",
       "onboard_time": 1750933102,
       "rank": 2,

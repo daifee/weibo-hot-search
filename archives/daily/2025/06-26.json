@@ -1,6 +1,6 @@
 {
   "startTime": 1750869299096,
-  "endTime": 1750945096006,
+  "endTime": 1750945837628,
   "band_list": [
     {
       "raw_hot": 8095208,
@@ -17,6 +17,14 @@
       "onboard_time": 1750941623,
       "rank": 0,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 3472627,
+      "num": 3472627,
+      "word": "小米YU7价格",
+      "onboard_time": 1750940903,
+      "rank": 1,
+      "category": "汽车"
     },
     {
       "raw_hot": 2245941,
@@ -59,11 +67,11 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 1796543,
-      "num": 1796543,
-      "word": "小米YU7价格",
-      "onboard_time": 1750940903,
-      "rank": 1,
+      "raw_hot": 1585739,
+      "num": 1585739,
+      "word": "小米YU7",
+      "onboard_time": 1750941983,
+      "rank": 31,
       "category": "汽车"
     },
     {
@@ -171,14 +179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 822448,
-      "num": 822448,
-      "word": "小米YU7",
-      "onboard_time": 1750941983,
-      "rank": 31,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 805723,
       "num": 805723,
       "word": "王楚钦亮相LV大秀",
@@ -243,6 +243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 690866,
+      "num": 690866,
+      "word": "小米汽车",
+      "onboard_time": 1750934422,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 690019,
       "num": 690019,
       "word": "充电宝安检新规",
@@ -265,6 +273,14 @@
       "onboard_time": 1750863862,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 677883,
+      "num": 677883,
+      "word": "LV大秀直播",
+      "onboard_time": 1750945044,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 664762,
@@ -305,14 +321,6 @@
       "onboard_time": 1750926502,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 635379,
-      "num": 635379,
-      "word": "小米汽车",
-      "onboard_time": 1750934422,
-      "rank": 18,
-      "category": "汽车"
     },
     {
       "raw_hot": 631959,
@@ -467,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 498036,
+      "num": 455480,
+      "word": "翔霖",
+      "onboard_time": 1750942404,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 494902,
       "num": 494902,
       "word": "中央气象台暴雨预警多地将受影响",
@@ -481,14 +497,6 @@
       "onboard_time": 1750901601,
       "rank": 11,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 487872,
-      "num": 455480,
-      "word": "翔霖",
-      "onboard_time": 1750942404,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 469663,
@@ -715,12 +723,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 356106,
+      "num": 350376,
+      "word": "陆景和 酱子贝",
+      "onboard_time": 1750942283,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 353311,
       "num": 383009,
       "word": "于正的Labubu",
       "onboard_time": 1750901960,
       "rank": 13,
       "category": "艺人,休闲"
+    },
+    {
+      "raw_hot": 351064,
+      "num": 351064,
+      "word": "华策经纪严正声明",
+      "onboard_time": 1750944983,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 350147,
+      "num": 350147,
+      "word": "小米YU7颜色",
+      "onboard_time": 1750942944,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 348209,
@@ -785,14 +817,6 @@
       "onboard_time": 1750914085,
       "rank": 14,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 314802,
-      "num": 314802,
-      "word": "陆景和 酱子贝",
-      "onboard_time": 1750942283,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 309547,
@@ -867,6 +891,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 279876,
+      "num": 350577,
+      "word": "宋茜LV大秀红毯造型",
+      "onboard_time": 1750944804,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 279044,
       "num": 279044,
       "word": "上海野生动物园回应大象群体霸凌",
@@ -889,6 +921,14 @@
       "onboard_time": 1750903401,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 274585,
+      "num": 350463,
+      "word": "童瑶给王宝强张若昀颁奖",
+      "onboard_time": 1750944744,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 273828,
@@ -955,14 +995,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 264392,
-      "num": 325634,
-      "word": "华策经纪严正声明",
-      "onboard_time": 1750944983,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 259601,
       "num": 259601,
       "word": "中方回应特朗普要中国买美国石油",
@@ -1027,6 +1059,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 246086,
+      "num": 454732,
+      "word": "小米首款AI眼镜发布",
+      "onboard_time": 1750943724,
+      "rank": 21,
+      "category": "数码"
+    },
+    {
       "raw_hot": 245776,
       "num": 360196,
       "word": "蒋欣演技",
@@ -1041,14 +1081,6 @@
       "onboard_time": 1750909462,
       "rank": 31,
       "category": "休闲,动漫"
-    },
-    {
-      "raw_hot": 241856,
-      "num": 241856,
-      "word": "小米YU7颜色",
-      "onboard_time": 1750942944,
-      "rank": 41,
-      "category": "汽车"
     },
     {
       "raw_hot": 239605,
@@ -1099,6 +1131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 228937,
+      "num": 228937,
+      "word": "候车护士一套连招急救昏厥乘客",
+      "onboard_time": 1750945343,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 226291,
       "num": 226291,
       "word": "杨毅预测",
@@ -1131,14 +1171,6 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 217477,
-      "num": 454732,
-      "word": "小米首款AI眼镜发布",
-      "onboard_time": 1750943724,
-      "rank": 21,
-      "category": "数码"
-    },
-    {
       "raw_hot": 217391,
       "num": 260401,
       "word": "刘宇宁下点毒全炫自己嘴里了",
@@ -1148,7 +1180,7 @@
     },
     {
       "raw_hot": 216116,
-      "num": 216116,
+      "num": 350386,
       "word": "金晨裸肩红黑格子裙",
       "onboard_time": 1750944864,
       "rank": 34,
@@ -1176,14 +1208,6 @@
       "word": "生病的妈啃老的哥一心赚钱的她",
       "onboard_time": 1750919121,
       "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 211415,
-      "num": 320157,
-      "word": "童瑶给王宝强张若昀颁奖",
-      "onboard_time": 1750944744,
-      "rank": 29,
       "category": "剧集"
     },
     {
@@ -1224,14 +1248,6 @@
       "word": "时代少年团合体亮相上海",
       "onboard_time": 1750937542,
       "rank": 26,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 199984,
-      "num": 199984,
-      "word": "宋茜LV大秀红毯造型",
-      "onboard_time": 1750944804,
-      "rank": 35,
       "category": "作品衍生,时尚"
     },
     {
@@ -1379,6 +1395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193623,
+      "num": 193623,
+      "word": "广东地震干饭小孩哥火到了西班牙",
+      "onboard_time": 1750944204,
+      "rank": 44,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 193392,
       "num": 193392,
       "word": "八颗喜糖事件",
@@ -1475,11 +1499,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 180571,
-      "num": 180571,
-      "word": "LV大秀直播",
-      "onboard_time": 1750945044,
-      "rank": 40,
+      "raw_hot": 181080,
+      "num": 181080,
+      "word": "贺峻霖贵公子具象化",
+      "onboard_time": 1750945224,
+      "rank": 39,
       "category": "作品衍生,时尚"
     },
     {
@@ -1715,14 +1739,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 163314,
-      "num": 163314,
-      "word": "广东地震干饭小孩哥火到了西班牙",
-      "onboard_time": 1750944204,
-      "rank": 44,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 161310,
       "num": 161310,
       "word": "NBA交易",
@@ -1737,6 +1753,14 @@
       "onboard_time": 1750937781,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 160300,
+      "num": 161588,
+      "word": "谷爱凌训练BTS",
+      "onboard_time": 1750945524,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 160261,
@@ -1833,6 +1857,14 @@
       "onboard_time": 1750861523,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153720,
+      "num": 153720,
+      "word": "男子花90.8万彩礼娶的老婆不见了",
+      "onboard_time": 1750945586,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153608,
@@ -2675,6 +2707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 99371,
+      "num": 457354,
+      "word": "小米发布全新随身拍套装",
+      "onboard_time": 1750943184,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 99137,
       "num": 140380,
       "word": "普通人还能买黄金吗",
@@ -2753,6 +2793,14 @@
       "onboard_time": 1750910723,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 95667,
+      "num": 466422,
+      "word": "LV上海活动",
+      "onboard_time": 1750943484,
+      "rank": 10,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 95162,
@@ -2865,14 +2913,6 @@
       "onboard_time": 1750862723,
       "rank": 33,
       "category": "网红,民生新闻"
-    },
-    {
-      "raw_hot": 84405,
-      "num": 457354,
-      "word": "小米发布全新随身拍套装",
-      "onboard_time": 1750943184,
-      "rank": 31,
-      "category": "数码"
     },
     {
       "raw_hot": 83501,
@@ -2993,6 +3033,14 @@
       "onboard_time": 1750914625,
       "rank": 26,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 68267,
+      "num": 350245,
+      "word": "小伙花3000元定制汉服拍身份证",
+      "onboard_time": 1750945285,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67823,
@@ -3137,14 +3185,6 @@
       "onboard_time": 1750894520,
       "rank": 44,
       "category": "美食,游戏"
-    },
-    {
-      "raw_hot": 56741,
-      "num": 466422,
-      "word": "LV上海活动",
-      "onboard_time": 1750943484,
-      "rank": 10,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 54323,
@@ -3332,7 +3372,7 @@
     },
     {
       "raw_hot": 34161,
-      "num": 1599642,
+      "num": 1751181,
       "word": "活力中国调研行",
       "onboard_time": 1750933102,
       "rank": 2,
