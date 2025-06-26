@@ -1,6 +1,6 @@
 {
   "startTime": 1750955581651,
-  "endTime": 1750966666957,
+  "endTime": 1750969764594,
   "band_list": [
     {
       "raw_hot": 3091316,
@@ -539,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 17284,
+      "num": 17284,
+      "word": "教育局回应学生体育课玩手机被处分",
+      "onboard_time": 1750967174,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15703,
       "num": 166058,
       "word": "林诗栋梦想站在奥运会最高领奖台",
@@ -547,12 +555,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 15146,
+      "num": 17277,
+      "word": "娄滋博团播",
+      "onboard_time": 1750966874,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
       "raw_hot": 13423,
       "num": 507545,
       "word": "活力中国调研行",
       "onboard_time": 1750933102,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12922,
+      "num": 40905,
+      "word": "道禄还涉嫌其他违法犯罪行为",
+      "onboard_time": 1750968374,
+      "rank": 9,
+      "category": "舆论监督"
     }
   ],
   "hotgov_list": [
