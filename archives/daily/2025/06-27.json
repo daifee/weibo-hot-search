@@ -1,6 +1,6 @@
 {
   "startTime": 1750955581651,
-  "endTime": 1750977832785,
+  "endTime": 1750980328655,
   "band_list": [
     {
       "raw_hot": 3091316,
@@ -27,20 +27,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 647444,
+      "num": 647444,
+      "word": "中方坚决反对北约借口中国东进亚太",
+      "onboard_time": 1750954702,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 584329,
       "num": 584329,
       "word": "蔡依林",
       "onboard_time": 1750955959,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 555309,
-      "num": 555309,
-      "word": "中方坚决反对北约借口中国东进亚太",
-      "onboard_time": 1750954702,
-      "rank": 25,
-      "category": "国内时政"
     },
     {
       "raw_hot": 541796,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 511826,
+      "num": 511826,
+      "word": "以为会变胖其实很减肥的习惯",
+      "onboard_time": 1750954702,
+      "rank": 33,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 505865,
       "num": 505865,
       "word": "初会",
@@ -67,12 +75,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 464205,
+      "num": 464205,
+      "word": "288分女生接到高校电话",
+      "onboard_time": 1750941623,
+      "rank": 3,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 463411,
+      "num": 230358,
+      "word": "以色列被曝拥有90枚核弹头",
+      "onboard_time": 1750977737,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 427620,
       "num": 240329,
       "word": "井柏然刘雯被当面追问婚讯",
       "onboard_time": 1750951163,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 389320,
+      "num": 389320,
+      "word": "刘亦菲美的不知天地为何物了",
+      "onboard_time": 1750956319,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 387711,
@@ -91,20 +123,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 356881,
-      "num": 356881,
-      "word": "288分女生接到高校电话",
-      "onboard_time": 1750941623,
-      "rank": 3,
-      "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 319107,
-      "num": 319107,
-      "word": "刘亦菲美的不知天地为何物了",
-      "onboard_time": 1750956319,
-      "rank": 36,
-      "category": "剧集"
+      "raw_hot": 338974,
+      "num": 338974,
+      "word": "医院回应女孩怕跨省转运被堵死",
+      "onboard_time": 1750955299,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 279829,
@@ -131,14 +155,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 238915,
-      "num": 238915,
-      "word": "以为会变胖其实很减肥的习惯",
-      "onboard_time": 1750954702,
-      "rank": 33,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 236279,
       "num": 236279,
       "word": "余承恩赵美延同框",
@@ -147,11 +163,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 234769,
-      "num": 234769,
-      "word": "医院回应女孩怕跨省转运被堵死",
-      "onboard_time": 1750955299,
-      "rank": 34,
+      "raw_hot": 235141,
+      "num": 230049,
+      "word": "男子花90.8万彩礼娶的老婆不见了",
+      "onboard_time": 1750945586,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 230619,
+      "num": 279705,
+      "word": "母亲被骗30多万高中女儿辍学追退款",
+      "onboard_time": 1750950925,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -163,12 +187,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 205935,
-      "num": 279705,
-      "word": "母亲被骗30多万高中女儿辍学追退款",
-      "onboard_time": 1750950925,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 209157,
+      "num": 209157,
+      "word": "哈梅内伊称狠狠扇了美国一个耳光",
+      "onboard_time": 1750950324,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 198088,
@@ -193,14 +217,6 @@
       "onboard_time": 1750937781,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 184480,
-      "num": 145512,
-      "word": "男子花90.8万彩礼娶的老婆不见了",
-      "onboard_time": 1750945586,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 173321,
@@ -235,6 +251,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 153317,
+      "num": 153317,
+      "word": "十年前没人敢选的专业翻红了",
+      "onboard_time": 1750938622,
+      "rank": 39,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 149689,
       "num": 149689,
       "word": "张勇等9人退出阿里合伙人",
@@ -249,14 +273,6 @@
       "onboard_time": 1750950504,
       "rank": 30,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 144634,
-      "num": 144634,
-      "word": "哈梅内伊称狠狠扇了美国一个耳光",
-      "onboard_time": 1750950324,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 144201,
@@ -299,6 +315,38 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111940,
+      "num": 111940,
+      "word": "书卷一梦编剧回应",
+      "onboard_time": 1750957577,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 108500,
+      "num": 108500,
+      "word": "京东回应外卖员帮扔垃圾每单0.5元",
+      "onboard_time": 1750956499,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101320,
+      "num": 82474,
+      "word": "里夫斯拒绝湖人",
+      "onboard_time": 1750979299,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 96764,
+      "num": 96764,
+      "word": "跪谢爷爷的双胞胎兄弟高考成绩出炉",
+      "onboard_time": 1750963816,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96177,
       "num": 159190,
       "word": "卢昱晓LV大秀造型",
@@ -307,20 +355,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 94792,
-      "num": 94792,
-      "word": "京东回应外卖员帮扔垃圾每单0.5元",
-      "onboard_time": 1750956499,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93574,
-      "num": 93574,
-      "word": "十年前没人敢选的专业翻红了",
-      "onboard_time": 1750938622,
-      "rank": 39,
-      "category": "教育,民生新闻"
+      "raw_hot": 94341,
+      "num": 94341,
+      "word": "日本回应特朗普将伊朗和广岛并论",
+      "onboard_time": 1750948464,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 89828,
@@ -339,14 +379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 87441,
-      "num": 87441,
-      "word": "书卷一梦编剧回应",
-      "onboard_time": 1750957577,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 86546,
       "num": 163488,
       "word": "感染了艾滋病如何告诉另一半",
@@ -355,12 +387,28 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 85936,
+      "num": 85936,
+      "word": "小米YU7",
+      "onboard_time": 1750941983,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 85885,
       "num": 242286,
       "word": "以色列承认曾企图刺杀哈梅内伊",
       "onboard_time": 1750954280,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 85706,
+      "num": 85706,
+      "word": "浙江一职高全班36人34个上了本科线",
+      "onboard_time": 1750977678,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 85108,
@@ -384,6 +432,14 @@
       "word": "缉毒民警被戴上手铐时才敢松口气",
       "onboard_time": 1750930102,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80964,
+      "num": 80964,
+      "word": "煤气泄露14岁男生救了整栋楼",
+      "onboard_time": 1750962915,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -411,14 +467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 73154,
-      "num": 51531,
-      "word": "以色列被曝拥有90枚核弹头",
-      "onboard_time": 1750977737,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 72889,
       "num": 72889,
       "word": "张译是不是真上过班",
@@ -443,36 +491,52 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 66208,
-      "num": 66208,
-      "word": "小米YU7",
-      "onboard_time": 1750941983,
-      "rank": 47,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 62233,
-      "num": 62233,
-      "word": "日本回应特朗普将伊朗和广岛并论",
-      "onboard_time": 1750948464,
-      "rank": 23,
+      "raw_hot": 65032,
+      "num": 65032,
+      "word": "北约秘书长不在意特朗普晒私聊截图",
+      "onboard_time": 1750978518,
+      "rank": 35,
       "category": "国际时政"
     },
     {
-      "raw_hot": 58078,
-      "num": 58078,
-      "word": "跪谢爷爷的双胞胎兄弟高考成绩出炉",
-      "onboard_time": 1750963816,
-      "rank": 49,
+      "raw_hot": 60497,
+      "num": 60497,
+      "word": "刘晓庆想亲脸 人家把嘴递上了",
+      "onboard_time": 1750932321,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 52812,
+      "num": 52812,
+      "word": "教育局回应学生体育课玩手机被处分",
+      "onboard_time": 1750967174,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 51931,
-      "num": 51931,
-      "word": "煤气泄露14岁男生救了整栋楼",
-      "onboard_time": 1750962915,
+      "raw_hot": 49549,
+      "num": 49549,
+      "word": "小米回应已修复bug",
+      "onboard_time": 1750979417,
       "rank": 43,
-      "category": "民生新闻"
+      "category": "数码"
+    },
+    {
+      "raw_hot": 49318,
+      "num": 49318,
+      "word": "初级会计成绩",
+      "onboard_time": 1750980021,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 48003,
+      "num": 48003,
+      "word": "林更新留胡子",
+      "onboard_time": 1750977018,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 46471,
@@ -481,14 +545,6 @@
       "onboard_time": 1750958418,
       "rank": 49,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 44527,
-      "num": 44527,
-      "word": "教育局回应学生体育课玩手机被处分",
-      "onboard_time": 1750967174,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37189,
@@ -515,14 +571,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 27264,
-      "num": 38122,
-      "word": "浙江一职高全班36人34个上了本科线",
-      "onboard_time": 1750977678,
-      "rank": 45,
-      "category": "教育"
-    },
-    {
       "raw_hot": 27064,
       "num": 40905,
       "word": "道禄还涉嫌其他违法犯罪行为",
@@ -537,14 +585,6 @@
       "onboard_time": 1750968675,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24740,
-      "num": 38119,
-      "word": "林更新留胡子",
-      "onboard_time": 1750977018,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 24632,
@@ -620,7 +660,7 @@
     },
     {
       "raw_hot": 13423,
-      "num": 507545,
+      "num": 539379,
       "word": "活力中国调研行",
       "onboard_time": 1750933102,
       "rank": 2,
