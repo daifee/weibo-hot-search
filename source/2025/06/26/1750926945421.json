@@ -1,0 +1,410 @@
+{
+  "runTime": 1750926945421,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8095208,
+        "num": 8095208,
+        "word": "都美竹骗我20万",
+        "onboard_time": 1750921640,
+        "rank": 0,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 832909,
+        "num": 832909,
+        "word": "女生高考涨了167分被吓到模糊",
+        "onboard_time": 1750916183,
+        "rank": 1,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 21418,
+        "num": 670628,
+        "word": "高考放榜网警守护",
+        "onboard_time": 1750898842,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 664762,
+        "num": 664762,
+        "word": "刘轩丞 没骗钱没出轨",
+        "onboard_time": 1750925183,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 425870,
+        "num": 425870,
+        "word": "央视曝光有学生吸食火机气体成瘾",
+        "onboard_time": 1750908321,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 579865,
+        "num": 420238,
+        "word": "都美竹",
+        "onboard_time": 1750922961,
+        "rank": 5,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 395808,
+        "num": 395808,
+        "word": "民航局对充电宝发紧急通知",
+        "onboard_time": 1750917982,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326736,
+        "num": 326736,
+        "word": "罗马仕",
+        "onboard_time": 1750922780,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317120,
+        "num": 317120,
+        "word": "韩国现在最火的男演员",
+        "onboard_time": 1750924342,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315894,
+        "num": 315894,
+        "word": "举报前公婆近亿资产涉贪女子最新发声",
+        "onboard_time": 1750921521,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 485128,
+        "num": 311143,
+        "word": "韩雪 文物前打强光",
+        "onboard_time": 1750926142,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428147,
+        "num": 307254,
+        "word": "广州花都50多人凌晨白衣列队行走",
+        "onboard_time": 1750924822,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 419573,
+        "num": 303769,
+        "word": "985博士后被举报在妻子孕期出轨",
+        "onboard_time": 1750924162,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 399598,
+        "num": 296553,
+        "word": "刘轩丞录音",
+        "onboard_time": 1750921521,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348782,
+        "num": 292582,
+        "word": "那尔那茜 长安的荔枝",
+        "onboard_time": 1750917862,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288322,
+        "num": 288322,
+        "word": "禁止带无3C被召回充电宝坐境内航班",
+        "onboard_time": 1750917923,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196512,
+        "num": 286549,
+        "word": "龚俊lv大秀路透",
+        "onboard_time": 1750926381,
+        "rank": 16,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 168400,
+        "num": 282281,
+        "word": "谁给车银优撕拉片做的发型",
+        "onboard_time": 1750925422,
+        "rank": 17,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 212793,
+        "num": 278697,
+        "word": "我国自主研发新一代CPU发布",
+        "onboard_time": 1750926440,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19535,
+        "num": 277728,
+        "word": "充电宝型号相同非召回批次还能用吗",
+        "onboard_time": 1750926082,
+        "rank": 19,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 185774,
+        "num": 274174,
+        "word": "女生分手后狂吃8斤食物险丧命",
+        "onboard_time": 1750923442,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271713,
+        "num": 271713,
+        "word": "延迟发朋友圈的好处",
+        "onboard_time": 1750909281,
+        "rank": 21,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 221278,
+        "num": 221278,
+        "word": "半岁宝宝反复咳体内取出17厘米巨瘤",
+        "onboard_time": 1750926323,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207519,
+        "num": 207519,
+        "word": "985博士后在妻子孕期出轨被退站",
+        "onboard_time": 1750926142,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53232,
+        "num": 196008,
+        "word": "武纺特色面料研发有多前沿",
+        "onboard_time": 1750926502,
+        "rank": 24,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 194720,
+        "num": 194720,
+        "word": "女子举报公婆涉贪腐为何一年没结果",
+        "onboard_time": 1750922061,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170533,
+        "num": 170533,
+        "word": "黄雅琼硕士毕业",
+        "onboard_time": 1750925962,
+        "rank": 26,
+        "category": "体育,教育"
+      },
+      {
+        "raw_hot": 124338,
+        "num": 168417,
+        "word": "迪丽热巴金靖合照有阴湿女鬼味了",
+        "onboard_time": 1750916903,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70418,
+        "num": 166875,
+        "word": "跪着高考的00后折叠男孩打开了",
+        "onboard_time": 1750926682,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124216,
+        "num": 166838,
+        "word": "书卷一梦热度",
+        "onboard_time": 1750916364,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166813,
+        "num": 166813,
+        "word": "美方想把战火引向台湾",
+        "onboard_time": 1750926502,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 160690,
+        "num": 160690,
+        "word": "班主任回应扁担女孩高考成绩",
+        "onboard_time": 1750918941,
+        "rank": 31,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 155419,
+        "num": 155419,
+        "word": "同学曝刘轩丞人品很差",
+        "onboard_time": 1750925841,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131311,
+        "num": 131311,
+        "word": "充电宝成了烫手山芋",
+        "onboard_time": 1750921461,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118933,
+        "num": 128977,
+        "word": "白宇鬼王造型亦正亦邪",
+        "onboard_time": 1750926682,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128100,
+        "num": 128100,
+        "word": "二师兄 泄露",
+        "onboard_time": 1750917624,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 126487,
+        "num": 126487,
+        "word": "原来可乐是最公平的饮料",
+        "onboard_time": 1750905621,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107156,
+        "num": 123487,
+        "word": "小婉管乐演了5集发现全是内鬼",
+        "onboard_time": 1750920322,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120966,
+        "num": 120966,
+        "word": "当财务自由后才明白的道理",
+        "onboard_time": 1750925662,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 62598,
+        "num": 117289,
+        "word": "真正会上班的人都是带薪养生",
+        "onboard_time": 1750921941,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 57325,
+        "num": 115111,
+        "word": "不被专业限制出路的Top20专业",
+        "onboard_time": 1750924883,
+        "rank": 40,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 114946,
+        "num": 114946,
+        "word": "陈震 小米",
+        "onboard_time": 1750907121,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 114328,
+        "num": 114328,
+        "word": "顺丰等快递拒收召回充电宝",
+        "onboard_time": 1750921581,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112808,
+        "num": 112808,
+        "word": "王者甄姬S40赛季皮肤",
+        "onboard_time": 1750925841,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111189,
+        "num": 111189,
+        "word": "伊朗",
+        "onboard_time": 1750919661,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110120,
+        "num": 110120,
+        "word": "3C充电宝",
+        "onboard_time": 1750919061,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109705,
+        "num": 109705,
+        "word": "高考704分女孩说脑袋晕晕的",
+        "onboard_time": 1750925062,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109600,
+        "num": 109600,
+        "word": "小时候没带走的亲女儿死后为她迁坟",
+        "onboard_time": 1750926862,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104231,
+        "num": 104231,
+        "word": "多方回应50多人凌晨白衣列队行走",
+        "onboard_time": 1750926923,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103286,
+        "num": 103286,
+        "word": "孟子义剧粉底盘有多大",
+        "onboard_time": 1750922000,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈耕地保护#"
+    }
+  }
+}
