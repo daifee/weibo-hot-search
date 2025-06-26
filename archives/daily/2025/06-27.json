@@ -1,6 +1,6 @@
 {
   "startTime": 1750955581651,
-  "endTime": 1750955581651,
+  "endTime": 1750956566799,
   "band_list": [
     {
       "raw_hot": 3091316,
@@ -12,35 +12,43 @@
     },
     {
       "raw_hot": 720126,
-      "num": 330767,
+      "num": 334352,
       "word": "68岁大爷全身重彩刺青肠子都悔青了",
       "onboard_time": 1750949605,
       "rank": 5,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 522818,
-      "num": 241584,
-      "word": "虞书欣的腰",
-      "onboard_time": 1750947324,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 507480,
-      "num": 241313,
+      "raw_hot": 687974,
+      "num": 270654,
       "word": "6岁女孩被西贝服务员拍照当背景图",
       "onboard_time": 1750954702,
       "rank": 11,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 432272,
-      "num": 316260,
+      "raw_hot": 541796,
+      "num": 328594,
       "word": "特斯拉",
       "onboard_time": 1750946304,
       "rank": 6,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 522818,
+      "num": 251892,
+      "word": "虞书欣的腰",
+      "onboard_time": 1750947324,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 505865,
+      "num": 505865,
+      "word": "初会",
+      "onboard_time": 1750955239,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 427620,
@@ -59,6 +67,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 379078,
+      "num": 379078,
+      "word": "白玉兰提名的压迫感",
+      "onboard_time": 1750953322,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 356881,
       "num": 356881,
       "word": "288分女生接到高校电话",
@@ -67,16 +83,8 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 347491,
-      "num": 347491,
-      "word": "白玉兰提名的压迫感",
-      "onboard_time": 1750953322,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 279829,
-      "num": 279829,
+      "num": 298683,
       "word": "田栩宁方将取证",
       "onboard_time": 1750947444,
       "rank": 7,
@@ -99,12 +107,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 238316,
-      "num": 238315,
-      "word": "初会",
-      "onboard_time": 1750955239,
-      "rank": 18,
-      "category": "教育"
+      "raw_hot": 236279,
+      "num": 236279,
+      "word": "余承恩赵美延同框",
+      "onboard_time": 1750952542,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 226516,
@@ -115,12 +123,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 223817,
-      "num": 223817,
-      "word": "余承恩赵美延同框",
-      "onboard_time": 1750952542,
-      "rank": 20,
-      "category": "艺人"
+      "raw_hot": 213508,
+      "num": 213508,
+      "word": "蔡依林",
+      "onboard_time": 1750955959,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 205935,
+      "num": 279705,
+      "word": "母亲被骗30多万高中女儿辍学追退款",
+      "onboard_time": 1750950925,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198088,
@@ -131,12 +147,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 186823,
-      "num": 229268,
-      "word": "母亲被骗30多万高中女儿辍学追退款",
-      "onboard_time": 1750950925,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 192253,
+      "num": 238316,
+      "word": "王嘉尔说再休假事业都要没了",
+      "onboard_time": 1750952423,
+      "rank": 17,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 186655,
@@ -145,6 +161,14 @@
       "onboard_time": 1750937781,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 183121,
+      "num": 183121,
+      "word": "中方坚决反对北约借口中国东进亚太",
+      "onboard_time": 1750954702,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 173321,
@@ -161,14 +185,6 @@
       "onboard_time": 1750949726,
       "rank": 23,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 165708,
-      "num": 165708,
-      "word": "中方坚决反对北约借口中国东进亚太",
-      "onboard_time": 1750954702,
-      "rank": 25,
-      "category": "国内时政"
     },
     {
       "raw_hot": 162529,
@@ -211,14 +227,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 144315,
-      "num": 238316,
-      "word": "王嘉尔说再休假事业都要没了",
-      "onboard_time": 1750952423,
-      "rank": 17,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 144201,
       "num": 239010,
       "word": "LV大秀直播",
@@ -251,6 +259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 125638,
+      "num": 231144,
+      "word": "医院回应女孩怕跨省转运被堵死",
+      "onboard_time": 1750955299,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115517,
       "num": 115517,
       "word": "LV大秀",
@@ -275,12 +291,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 95877,
+      "raw_hot": 96177,
       "num": 159190,
       "word": "卢昱晓LV大秀造型",
       "onboard_time": 1750951044,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 93584,
+      "num": 93584,
+      "word": "刘亦菲美的不知天地为何物了",
+      "onboard_time": 1750956319,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 93574,
@@ -307,6 +331,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89105,
+      "num": 89105,
+      "word": "京东回应外卖员帮扔垃圾每单0.5元",
+      "onboard_time": 1750956499,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86546,
+      "num": 86546,
+      "word": "感染了艾滋病如何告诉另一半",
+      "onboard_time": 1750951102,
+      "rank": 43,
+      "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 85885,
+      "num": 242286,
+      "word": "以色列承认曾企图刺杀哈梅内伊",
+      "onboard_time": 1750954280,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 85108,
       "num": 85108,
       "word": "原来刘亦菲吃饭也是手机先吃",
@@ -315,28 +363,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 84034,
-      "num": 84034,
-      "word": "感染了艾滋病如何告诉另一半",
-      "onboard_time": 1750951102,
-      "rank": 43,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 83525,
       "num": 83525,
       "word": "27岁真的还很年轻很年轻",
       "onboard_time": 1750934902,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 83294,
-      "num": 134902,
-      "word": "医院回应女孩怕跨省转运被堵死",
-      "onboard_time": 1750955299,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 81787,
@@ -379,12 +411,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 50645,
-      "num": 242286,
-      "word": "以色列承认曾企图刺杀哈梅内伊",
-      "onboard_time": 1750954280,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 68950,
+      "num": 68950,
+      "word": "翔霖",
+      "onboard_time": 1750942404,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 68593,
+      "num": 68593,
+      "word": "lorde新专",
+      "onboard_time": 1750956499,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 66208,
+      "num": 66208,
+      "word": "小米YU7",
+      "onboard_time": 1750941983,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 15703,
@@ -396,7 +444,7 @@
     },
     {
       "raw_hot": 13423,
-      "num": 370829,
+      "num": 432889,
       "word": "活力中国调研行",
       "onboard_time": 1750933102,
       "rank": 2,
