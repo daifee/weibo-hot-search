@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750995471249,
+  "endTime": 1750996415255,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -1268,7 +1268,7 @@
     },
     {
       "raw_hot": 1873212,
-      "num": 290084,
+      "num": 419938,
       "word": "生父协助继母喂食1600片泻药虐女",
       "onboard_time": 1750992081,
       "rank": 10,
@@ -3004,7 +3004,7 @@
     },
     {
       "raw_hot": 1245185,
-      "num": 388014,
+      "num": 407997,
       "word": "梓渝 丁禹兮",
       "onboard_time": 1750987882,
       "rank": 10,
@@ -3073,6 +3073,14 @@
       "onboard_time": 1749711799,
       "rank": 1,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1232415,
+      "num": 1232415,
+      "word": "充电宝 退不了",
+      "onboard_time": 1750993701,
+      "rank": 1,
+      "category": "数码"
     },
     {
       "raw_hot": 1232401,
@@ -3580,7 +3588,7 @@
     },
     {
       "raw_hot": 1141835,
-      "num": 280392,
+      "num": 384219,
       "word": "女装流行无袖的原因",
       "onboard_time": 1750992921,
       "rank": 11,
@@ -6452,7 +6460,7 @@
     },
     {
       "raw_hot": 801498,
-      "num": 354121,
+      "num": 365270,
       "word": "图书馆三十秒",
       "onboard_time": 1750981161,
       "rank": 13,
@@ -6865,14 +6873,6 @@
       "onboard_time": 1749873801,
       "rank": 7,
       "category": "教育,艺人"
-    },
-    {
-      "raw_hot": 778222,
-      "num": 778222,
-      "word": "充电宝 退不了",
-      "onboard_time": 1750993701,
-      "rank": 1,
-      "category": "数码"
     },
     {
       "raw_hot": 776504,
@@ -8243,6 +8243,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 693577,
+      "num": 693577,
+      "word": "相机电池不能上飞机",
+      "onboard_time": 1750995262,
+      "rank": 21,
+      "category": "数码"
+    },
+    {
       "raw_hot": 693303,
       "num": 420154,
       "word": "前男友与韦雪官宣后涨粉25万",
@@ -9425,6 +9433,14 @@
       "onboard_time": 1748833159,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 632809,
+      "num": 632809,
+      "word": "西贝致歉",
+      "onboard_time": 1750994662,
+      "rank": 17,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 632789,
@@ -13579,6 +13595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 483664,
+      "num": 483664,
+      "word": "密室大逃脱",
+      "onboard_time": 1750995022,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 483392,
       "num": 483392,
       "word": "一架波音客机长沙起飞半小时后返航",
@@ -13876,7 +13900,7 @@
     },
     {
       "raw_hot": 475642,
-      "num": 294142,
+      "num": 306482,
       "word": "原来没散光是这样的",
       "onboard_time": 1750981640,
       "rank": 21,
@@ -19201,14 +19225,6 @@
       "onboard_time": 1749343879,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 355819,
-      "num": 231185,
-      "word": "相机电池不能上飞机",
-      "onboard_time": 1750995262,
-      "rank": 21,
-      "category": "数码"
     },
     {
       "raw_hot": 355296,
@@ -26075,6 +26091,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 262487,
+      "num": 436415,
+      "word": "白玉兰奖电视剧单项奖入围名单",
+      "onboard_time": 1750994963,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 262384,
       "num": 262384,
       "word": "李晟李佳航一个没必要一个不需要",
@@ -27203,6 +27227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 251781,
+      "num": 251781,
+      "word": "这个吻让双方都感到荒谬",
+      "onboard_time": 1750994602,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 251773,
       "num": 251773,
       "word": "藏海传上国务院新闻见面会了",
@@ -27473,6 +27505,14 @@
       "onboard_time": 1750223782,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 249547,
+      "num": 249547,
+      "word": "南航人打开朋友圈全是陈都灵",
+      "onboard_time": 1750995202,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 249386,
@@ -30411,14 +30451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 225691,
-      "num": 225691,
-      "word": "密室大逃脱",
-      "onboard_time": 1750995022,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 225675,
       "num": 249281,
       "word": "敖瑞鹏私闯周奇民宅",
@@ -31353,6 +31385,14 @@
       "onboard_time": 1749022642,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 219905,
+      "num": 235523,
+      "word": "高考失利女生被弟弟暖心举动治愈",
+      "onboard_time": 1750994483,
+      "rank": 19,
+      "category": "正能量"
     },
     {
       "raw_hot": 219783,
@@ -32345,14 +32385,6 @@
       "onboard_time": 1749000681,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 214004,
-      "num": 214004,
-      "word": "这个吻让双方都感到荒谬",
-      "onboard_time": 1750994602,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 213918,
@@ -42339,14 +42371,6 @@
       "category": "情感,教育"
     },
     {
-      "raw_hot": 179488,
-      "num": 238964,
-      "word": "西贝致歉",
-      "onboard_time": 1750994662,
-      "rank": 17,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 179415,
       "num": 179415,
       "word": "谢娜回应丁程鑫乘风创始人你也敢惹",
@@ -42417,6 +42441,14 @@
       "onboard_time": 1750815561,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 179093,
+      "num": 179093,
+      "word": "aespa新歌DirtyWorkMV",
+      "onboard_time": 1750995083,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 179065,
@@ -43155,14 +43187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 176343,
-      "num": 176343,
-      "word": "aespa新歌DirtyWorkMV",
-      "onboard_time": 1750995083,
-      "rank": 34,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 176266,
       "num": 176266,
       "word": "华晨宇大屏特效把观众集体变熊猫",
@@ -43392,14 +43416,6 @@
       "word": "赵樱子自曝患抑郁症",
       "onboard_time": 1748828959,
       "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 175462,
-      "num": 175462,
-      "word": "南航人打开朋友圈全是陈都灵",
-      "onboard_time": 1750995202,
-      "rank": 37,
       "category": "艺人"
     },
     {
@@ -52731,14 +52747,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 148711,
-      "num": 148711,
-      "word": "白玉兰奖电视剧单项奖入围名单",
-      "onboard_time": 1750994963,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 148696,
       "num": 148696,
       "word": "朱丹观念",
@@ -53305,6 +53313,14 @@
       "onboard_time": 1749165499,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 147403,
+      "num": 147403,
+      "word": "雷军称坚决反对价格战",
+      "onboard_time": 1750995861,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 147392,
@@ -54177,6 +54193,14 @@
       "onboard_time": 1749914242,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 145357,
+      "num": 145357,
+      "word": "蝴蝶大爆发",
+      "onboard_time": 1750993162,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145312,
@@ -55553,6 +55577,14 @@
       "onboard_time": 1750650262,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 142173,
+      "num": 142173,
+      "word": "LV创飞星巴克",
+      "onboard_time": 1750995202,
+      "rank": 48,
+      "category": "时尚"
     },
     {
       "raw_hot": 142158,
@@ -61795,6 +61827,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 127887,
+      "num": 127887,
+      "word": "杜嘉班纳 ELLE",
+      "onboard_time": 1750996223,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 127873,
       "num": 127873,
       "word": "全红婵夸陈梦好漂亮",
@@ -64419,6 +64459,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 121787,
+      "num": 121787,
+      "word": "张真源别耽误哥哥们找搭档",
+      "onboard_time": 1750996404,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121770,
       "num": 121770,
       "word": "张韶涵千禧年变装",
@@ -66169,14 +66217,6 @@
       "onboard_time": 1750075941,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 116950,
-      "num": 116950,
-      "word": "LV创飞星巴克",
-      "onboard_time": 1750995202,
-      "rank": 48,
-      "category": "时尚"
     },
     {
       "raw_hot": 116947,
@@ -70961,6 +71001,14 @@
       "onboard_time": 1750923442,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 104139,
+      "num": 161870,
+      "word": "小米集团开涨8%",
+      "onboard_time": 1750996283,
+      "rank": 34,
+      "category": "汽车,财经"
     },
     {
       "raw_hot": 104101,
@@ -81123,14 +81171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 62394,
-      "num": 235523,
-      "word": "高考失利女生被弟弟暖心举动治愈",
-      "onboard_time": 1750994483,
-      "rank": 19,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 62373,
       "num": 62373,
       "word": "特朗普为何难逃与伊朗的冲突",
@@ -87443,6 +87483,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 38758,
+      "num": 146248,
+      "word": "开拓者球迷必读指南",
+      "onboard_time": 1750995803,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 38724,
       "num": 347839,
       "word": "退学北大上清华男生回应百万奖金",
@@ -88009,6 +88057,14 @@
       "onboard_time": 1750134804,
       "rank": 34,
       "category": "民生新闻,剧集"
+    },
+    {
+      "raw_hot": 37028,
+      "num": 251966,
+      "word": "伊能静秦昊夫妻代言",
+      "onboard_time": 1750995382,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 37012,
@@ -90457,6 +90513,14 @@
       "onboard_time": 1750049003,
       "rank": 13,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 29895,
+      "num": 193006,
+      "word": "山西吕梁煤矸石倾倒乱象调查",
+      "onboard_time": 1750995684,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 29885,
@@ -94097,14 +94161,6 @@
       "onboard_time": 1750848082,
       "rank": 29,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 20067,
-      "num": 175541,
-      "word": "伊能静秦昊夫妻代言",
-      "onboard_time": 1750995382,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 20066,

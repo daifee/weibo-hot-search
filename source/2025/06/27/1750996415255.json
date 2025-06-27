@@ -1,0 +1,410 @@
+{
+  "runTime": 1750996415255,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1232415,
+        "num": 1232415,
+        "word": "充电宝 退不了",
+        "onboard_time": 1750993701,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 693577,
+        "num": 693577,
+        "word": "相机电池不能上飞机",
+        "onboard_time": 1750995262,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 5122,
+        "num": 639738,
+        "word": "活力中国调研行",
+        "onboard_time": 1750933102,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 637645,
+        "num": 637645,
+        "word": "警方证实网红小四爷被带走",
+        "onboard_time": 1750983082,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 632809,
+        "num": 632809,
+        "word": "西贝致歉",
+        "onboard_time": 1750994662,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 675620,
+        "num": 628634,
+        "word": "小米汽车",
+        "onboard_time": 1750934422,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 552823,
+        "num": 552823,
+        "word": "小米股票",
+        "onboard_time": 1750989083,
+        "rank": 6,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 483664,
+        "num": 483664,
+        "word": "密室大逃脱",
+        "onboard_time": 1750995022,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 451301,
+        "num": 451301,
+        "word": "东方明珠电视塔玻璃疑因高温爆裂",
+        "onboard_time": 1750991601,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262487,
+        "num": 436415,
+        "word": "白玉兰奖电视剧单项奖入围名单",
+        "onboard_time": 1750994963,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1823913,
+        "num": 419938,
+        "word": "生父协助继母喂食1600片泻药虐女",
+        "onboard_time": 1750992081,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1090428,
+        "num": 407997,
+        "word": "梓渝 丁禹兮",
+        "onboard_time": 1750987882,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1070003,
+        "num": 384219,
+        "word": "女装流行无袖的原因",
+        "onboard_time": 1750992921,
+        "rank": 12,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 369619,
+        "num": 369619,
+        "word": "于正删除书卷一梦宣传博",
+        "onboard_time": 1750988722,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 528111,
+        "num": 365580,
+        "word": "卢昱晓好直观的瘦",
+        "onboard_time": 1750986442,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 478635,
+        "num": 365270,
+        "word": "图书馆三十秒",
+        "onboard_time": 1750981161,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 359110,
+        "num": 359110,
+        "word": "李惠利提名视后",
+        "onboard_time": 1750993582,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 310286,
+        "num": 310286,
+        "word": "刘亦菲宋佳杨紫等入围白玉兰最佳女主",
+        "onboard_time": 1750983380,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 410533,
+        "num": 306482,
+        "word": "原来没散光是这样的",
+        "onboard_time": 1750981640,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 37028,
+        "num": 251966,
+        "word": "伊能静秦昊夫妻代言",
+        "onboard_time": 1750995382,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370095,
+        "num": 251918,
+        "word": "女生发现KTV不适标语勇敢举报",
+        "onboard_time": 1750984762,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251781,
+        "num": 251781,
+        "word": "这个吻让双方都感到荒谬",
+        "onboard_time": 1750994602,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249547,
+        "num": 249547,
+        "word": "南航人打开朋友圈全是陈都灵",
+        "onboard_time": 1750995202,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246693,
+        "num": 246693,
+        "word": "加沙15岁少年饿到只剩18公斤",
+        "onboard_time": 1750988722,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 232666,
+        "num": 232666,
+        "word": "退58.9万捐款妈妈回应儿子高考647分",
+        "onboard_time": 1750981822,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219905,
+        "num": 219905,
+        "word": "高考失利女生被弟弟暖心举动治愈",
+        "onboard_time": 1750994483,
+        "rank": 25,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 219132,
+        "num": 219132,
+        "word": "尹锡悦每天去医院照顾金建希",
+        "onboard_time": 1750984942,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 216957,
+        "num": 216957,
+        "word": "青龙奖提名",
+        "onboard_time": 1750994060,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 194632,
+        "num": 194632,
+        "word": "女孩哭诉从一年级被父亲藏匿7年",
+        "onboard_time": 1750986681,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29895,
+        "num": 193006,
+        "word": "山西吕梁煤矸石倾倒乱象调查",
+        "onboard_time": 1750995684,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 192703,
+        "num": 192703,
+        "word": "鱿鱼游戏第三季",
+        "onboard_time": 1750983021,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182506,
+        "num": 182506,
+        "word": "鹿晗首个百万想看90后歌手",
+        "onboard_time": 1750986623,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 179093,
+        "num": 179093,
+        "word": "aespa新歌DirtyWorkMV",
+        "onboard_time": 1750995083,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 161911,
+        "num": 161911,
+        "word": "黄子韬徐艺洋 巧克力水蜜桃",
+        "onboard_time": 1750982240,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104139,
+        "num": 161870,
+        "word": "小米集团开涨8%",
+        "onboard_time": 1750996283,
+        "rank": 34,
+        "category": "汽车,财经"
+      },
+      {
+        "raw_hot": 161834,
+        "num": 161834,
+        "word": "哈尔滨高温高校学生回应在楼道睡觉",
+        "onboard_time": 1750980439,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153743,
+        "num": 153743,
+        "word": "表决通过新修订的治安管理处罚法",
+        "onboard_time": 1750989142,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 153538,
+        "num": 153538,
+        "word": "肥娟小吃店长满小孩哥小孩姐",
+        "onboard_time": 1750992862,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147403,
+        "num": 147403,
+        "word": "雷军称坚决反对价格战",
+        "onboard_time": 1750995861,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 38758,
+        "num": 146248,
+        "word": "开拓者球迷必读指南",
+        "onboard_time": 1750995803,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145357,
+        "num": 145357,
+        "word": "蝴蝶大爆发",
+        "onboard_time": 1750993162,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142173,
+        "num": 142173,
+        "word": "LV创飞星巴克",
+        "onboard_time": 1750995202,
+        "rank": 41,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 141084,
+        "num": 141084,
+        "word": "李一桐穿越史上第一个滚筒式穿越",
+        "onboard_time": 1750985843,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135290,
+        "num": 135290,
+        "word": "广东696分考生笑称北大晚了一点",
+        "onboard_time": 1750991781,
+        "rank": 43,
+        "category": "正能量,教育"
+      },
+      {
+        "raw_hot": 131383,
+        "num": 131383,
+        "word": "伊朗浓缩铀到底去哪了",
+        "onboard_time": 1750991481,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127887,
+        "num": 127887,
+        "word": "杜嘉班纳 ELLE",
+        "onboard_time": 1750996223,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 127788,
+        "num": 127788,
+        "word": "QQ音乐上线泡泡",
+        "onboard_time": 1750985301,
+        "rank": 46,
+        "category": "音乐,数码"
+      },
+      {
+        "raw_hot": 123970,
+        "num": 123970,
+        "word": "以色列被曝拥有90枚核弹头",
+        "onboard_time": 1750977737,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121787,
+        "num": 121787,
+        "word": "张真源别耽误哥哥们找搭档",
+        "onboard_time": 1750996404,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121656,
+        "num": 121656,
+        "word": "男生高中3年没手机考698称很感恩",
+        "onboard_time": 1750987763,
+        "rank": 49,
+        "category": "正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈耕地保护#"
+    }
+  }
+}

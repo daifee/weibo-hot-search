@@ -1,6 +1,6 @@
 {
   "startTime": 1750955581651,
-  "endTime": 1750995471249,
+  "endTime": 1750996415255,
   "band_list": [
     {
       "raw_hot": 3091316,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1873212,
-      "num": 290084,
+      "num": 419938,
       "word": "生父协助继母喂食1600片泻药虐女",
       "onboard_time": 1750992081,
       "rank": 10,
@@ -20,15 +20,23 @@
     },
     {
       "raw_hot": 1245185,
-      "num": 388014,
+      "num": 407997,
       "word": "梓渝 丁禹兮",
       "onboard_time": 1750987882,
       "rank": 10,
       "category": "艺人"
     },
     {
+      "raw_hot": 1232415,
+      "num": 1232415,
+      "word": "充电宝 退不了",
+      "onboard_time": 1750993701,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1141835,
-      "num": 280392,
+      "num": 384219,
       "word": "女装流行无袖的原因",
       "onboard_time": 1750992921,
       "rank": 11,
@@ -60,19 +68,11 @@
     },
     {
       "raw_hot": 801498,
-      "num": 354121,
+      "num": 365270,
       "word": "图书馆三十秒",
       "onboard_time": 1750981161,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 778222,
-      "num": 778222,
-      "word": "充电宝 退不了",
-      "onboard_time": 1750993701,
-      "rank": 1,
-      "category": "数码"
     },
     {
       "raw_hot": 740515,
@@ -89,6 +89,14 @@
       "onboard_time": 1750949605,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 693577,
+      "num": 693577,
+      "word": "相机电池不能上飞机",
+      "onboard_time": 1750995262,
+      "rank": 21,
+      "category": "数码"
     },
     {
       "raw_hot": 687974,
@@ -121,6 +129,14 @@
       "onboard_time": 1750984942,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 632809,
+      "num": 632809,
+      "word": "西贝致歉",
+      "onboard_time": 1750994662,
+      "rank": 17,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 621726,
@@ -187,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 483664,
+      "num": 483664,
+      "word": "密室大逃脱",
+      "onboard_time": 1750995022,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 478250,
       "num": 478250,
       "word": "288分女生接到高校电话",
@@ -196,7 +220,7 @@
     },
     {
       "raw_hot": 475642,
-      "num": 294142,
+      "num": 306482,
       "word": "原来没散光是这样的",
       "onboard_time": 1750981640,
       "rank": 21,
@@ -267,14 +291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 355819,
-      "num": 231185,
-      "word": "相机电池不能上飞机",
-      "onboard_time": 1750995262,
-      "rank": 21,
-      "category": "数码"
-    },
-    {
       "raw_hot": 354766,
       "num": 354766,
       "word": "QQ音乐上线泡泡",
@@ -339,12 +355,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 262487,
+      "num": 436415,
+      "word": "白玉兰奖电视剧单项奖入围名单",
+      "onboard_time": 1750994963,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 251781,
+      "num": 251781,
+      "word": "这个吻让双方都感到荒谬",
+      "onboard_time": 1750994602,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 251558,
       "num": 251558,
       "word": "男子花90.8万彩礼娶的老婆不见了",
       "onboard_time": 1750945586,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 249547,
+      "num": 249547,
+      "word": "南航人打开朋友圈全是陈都灵",
+      "onboard_time": 1750995202,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 247429,
@@ -411,14 +451,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 225691,
-      "num": 225691,
-      "word": "密室大逃脱",
-      "onboard_time": 1750995022,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 220593,
       "num": 220593,
       "word": "鹿晗首个百万想看90后歌手",
@@ -427,20 +459,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 219905,
+      "num": 235523,
+      "word": "高考失利女生被弟弟暖心举动治愈",
+      "onboard_time": 1750994483,
+      "rank": 19,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 214433,
       "num": 264243,
       "word": "中国记者遭乌无人机袭击受伤",
       "onboard_time": 1750980739,
       "rank": 14,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 214004,
-      "num": 214004,
-      "word": "这个吻让双方都感到荒谬",
-      "onboard_time": 1750994602,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 209376,
@@ -499,16 +531,8 @@
       "category": "正能量,教育"
     },
     {
-      "raw_hot": 179488,
-      "num": 238964,
-      "word": "西贝致歉",
-      "onboard_time": 1750994662,
-      "rank": 17,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 176343,
-      "num": 176343,
+      "raw_hot": 179093,
+      "num": 179093,
       "word": "aespa新歌DirtyWorkMV",
       "onboard_time": 1750995083,
       "rank": 34,
@@ -521,14 +545,6 @@
       "onboard_time": 1750991481,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 175462,
-      "num": 175462,
-      "word": "南航人打开朋友圈全是陈都灵",
-      "onboard_time": 1750995202,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 173321,
@@ -619,12 +635,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 148711,
-      "num": 148711,
-      "word": "白玉兰奖电视剧单项奖入围名单",
-      "onboard_time": 1750994963,
-      "rank": 42,
-      "category": "剧集"
+      "raw_hot": 147403,
+      "num": 147403,
+      "word": "雷军称坚决反对价格战",
+      "onboard_time": 1750995861,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 147402,
@@ -641,6 +657,14 @@
       "onboard_time": 1750987763,
       "rank": 40,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 145357,
+      "num": 145357,
+      "word": "蝴蝶大爆发",
+      "onboard_time": 1750993162,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144512,
@@ -665,6 +689,14 @@
       "onboard_time": 1750990580,
       "rank": 29,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 142173,
+      "num": 142173,
+      "word": "LV创飞星巴克",
+      "onboard_time": 1750995202,
+      "rank": 48,
+      "category": "时尚"
     },
     {
       "raw_hot": 140728,
@@ -699,6 +731,14 @@
       "category": "汽车,财经"
     },
     {
+      "raw_hot": 127887,
+      "num": 127887,
+      "word": "杜嘉班纳 ELLE",
+      "onboard_time": 1750996223,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 125456,
       "num": 158374,
       "word": "抢票失败的人有多疯",
@@ -715,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121787,
+      "num": 121787,
+      "word": "张真源别耽误哥哥们找搭档",
+      "onboard_time": 1750996404,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121759,
       "num": 121759,
       "word": "萨尔茨堡红牛0比3皇马",
@@ -729,14 +777,6 @@
       "onboard_time": 1750989322,
       "rank": 42,
       "category": "数码"
-    },
-    {
-      "raw_hot": 116950,
-      "num": 116950,
-      "word": "LV创飞星巴克",
-      "onboard_time": 1750995202,
-      "rank": 48,
-      "category": "时尚"
     },
     {
       "raw_hot": 115517,
@@ -841,6 +881,14 @@
       "onboard_time": 1750989561,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 104139,
+      "num": 161870,
+      "word": "小米集团开涨8%",
+      "onboard_time": 1750996283,
+      "rank": 34,
+      "category": "汽车,财经"
     },
     {
       "raw_hot": 103882,
@@ -1075,14 +1123,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 62394,
-      "num": 235523,
-      "word": "高考失利女生被弟弟暖心举动治愈",
-      "onboard_time": 1750994483,
-      "rank": 19,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 57924,
       "num": 57924,
       "word": "杭州妈妈做3年早餐儿子高考685分",
@@ -1131,12 +1171,36 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 38758,
+      "num": 146248,
+      "word": "开拓者球迷必读指南",
+      "onboard_time": 1750995803,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37189,
       "num": 37189,
       "word": "国防部回应网友盼战机助阵苏超",
       "onboard_time": 1750964114,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 37028,
+      "num": 251966,
+      "word": "伊能静秦昊夫妻代言",
+      "onboard_time": 1750995382,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 29895,
+      "num": 193006,
+      "word": "山西吕梁煤矸石倾倒乱象调查",
+      "onboard_time": 1750995684,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 29566,
@@ -1241,14 +1305,6 @@
       "onboard_time": 1750962136,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 20067,
-      "num": 175541,
-      "word": "伊能静秦昊夫妻代言",
-      "onboard_time": 1750995382,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 15703,
