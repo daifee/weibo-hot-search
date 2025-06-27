@@ -1,0 +1,410 @@
+{
+  "runTime": 1751024327992,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3267879,
+        "num": 3267879,
+        "word": "刘亦菲 白玉兰",
+        "onboard_time": 1751022622,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 863512,
+        "num": 863512,
+        "word": "香港四大才子均已逝世",
+        "onboard_time": 1751011827,
+        "rank": 1,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 69969,
+        "num": 697742,
+        "word": "2025高考招生录取新变化新趋势",
+        "onboard_time": 1751013087,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1767657,
+        "num": 695050,
+        "word": "白玉兰红毯",
+        "onboard_time": 1751019502,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 660390,
+        "num": 660390,
+        "word": "洞洞鞋 真菌感染",
+        "onboard_time": 1751011707,
+        "rank": 4,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 407930,
+        "num": 407930,
+        "word": "李在明下馆子喝鱼汤被记者追问",
+        "onboard_time": 1751016862,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1656702,
+        "num": 402255,
+        "word": "蔡澜去世",
+        "onboard_time": 1751010686,
+        "rank": 6,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 1206478,
+        "num": 401747,
+        "word": "杨紫顶级高定内娱首秀",
+        "onboard_time": 1751021841,
+        "rank": 7,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 395113,
+        "num": 395113,
+        "word": "小象丹尼 长期被霸凌",
+        "onboard_time": 1751018003,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220197,
+        "num": 220197,
+        "word": "罗马仕回应召回充电宝遭遇快递难",
+        "onboard_time": 1751016323,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 843237,
+        "num": 219947,
+        "word": "鹿晗消瘦模样大变",
+        "onboard_time": 1751012547,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407125,
+        "num": 219528,
+        "word": "蔡澜曾谈怎样面对亲友离世",
+        "onboard_time": 1751019322,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 713475,
+        "num": 219475,
+        "word": "者来女 谢娜",
+        "onboard_time": 1751020220,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 675150,
+        "num": 218920,
+        "word": "蔡徐坤篮球梗自己cue自己",
+        "onboard_time": 1751022202,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88644,
+        "num": 218637,
+        "word": "AQ让检查报告说人话",
+        "onboard_time": 1751022682,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 616163,
+        "num": 218474,
+        "word": "桃黑黑中彩票",
+        "onboard_time": 1751018244,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 616146,
+        "num": 218088,
+        "word": "白玉兰预测",
+        "onboard_time": 1751012907,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 502552,
+        "num": 217563,
+        "word": "花少7 张雅琪",
+        "onboard_time": 1751021422,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209693,
+        "num": 217141,
+        "word": "举报前公婆近亿资产涉贪已有调查结果",
+        "onboard_time": 1751007501,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 21474,
+        "num": 216779,
+        "word": "北大副教授称炒作热门专业是制造焦虑",
+        "onboard_time": 1751023282,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258824,
+        "num": 216566,
+        "word": "歌手海报质感",
+        "onboard_time": 1751019142,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93758,
+        "num": 216284,
+        "word": "傅首尔儿子都这么大了",
+        "onboard_time": 1751019622,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1270766,
+        "num": 215795,
+        "word": "男子强奸女儿致其产女又性侵外孙女",
+        "onboard_time": 1751007382,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 392281,
+        "num": 215458,
+        "word": "关晓彤妆造正确",
+        "onboard_time": 1751023342,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 384126,
+        "num": 215130,
+        "word": "邓超送鹿晗签名照",
+        "onboard_time": 1751022802,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353556,
+        "num": 214767,
+        "word": "上海白玉兰颁奖典礼红毯嘉宾阵容",
+        "onboard_time": 1751014705,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347900,
+        "num": 214362,
+        "word": "刘亦菲没走红毯",
+        "onboard_time": 1751024063,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283556,
+        "num": 214269,
+        "word": "小巷人家",
+        "onboard_time": 1751022981,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213994,
+        "num": 213994,
+        "word": "上海女硕士被大专男骗财骗色骗卵",
+        "onboard_time": 1751006961,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36412,
+        "num": 213955,
+        "word": "西贝服务员偷拍事件或涉及多种侵权",
+        "onboard_time": 1751023282,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264989,
+        "num": 213461,
+        "word": "金靖私下和周雨彤道歉",
+        "onboard_time": 1751012667,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180306,
+        "num": 213120,
+        "word": "鄂AD07088你藏收款码的样子真帅",
+        "onboard_time": 1751019022,
+        "rank": 31,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 154829,
+        "num": 213013,
+        "word": "免去苗华中央军事委员会委员职务",
+        "onboard_time": 1751011888,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 259027,
+        "num": 212465,
+        "word": "章子怡 尽力了",
+        "onboard_time": 1751023822,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 212382,
+        "num": 212382,
+        "word": "锦绣芳华定档",
+        "onboard_time": 1751011827,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200911,
+        "num": 200911,
+        "word": "华晨宇直播",
+        "onboard_time": 1751023523,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193985,
+        "num": 193985,
+        "word": "马思纯花少7路透卷发好美",
+        "onboard_time": 1751023582,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47300,
+        "num": 187412,
+        "word": "消防员硬核护航苏超",
+        "onboard_time": 1751024302,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138065,
+        "num": 185250,
+        "word": "退学北大男生被说是最差年级第一",
+        "onboard_time": 1751022143,
+        "rank": 38,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 15536,
+        "num": 185061,
+        "word": "李善德是荔枝使我们是被指使",
+        "onboard_time": 1751023282,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184963,
+        "num": 184963,
+        "word": "优酷暑期档全员演技派战绩可查",
+        "onboard_time": 1751023523,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132976,
+        "num": 179619,
+        "word": "女子三餐水煮菜半年脂肪肝反而加重",
+        "onboard_time": 1751020101,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14506,
+        "num": 175057,
+        "word": "白厄CHRYSOS封面",
+        "onboard_time": 1751023883,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174725,
+        "num": 174725,
+        "word": "蒋欣喊王安宇儿子",
+        "onboard_time": 1751024242,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172329,
+        "num": 172329,
+        "word": "关晓彤第八套ES顶级高定",
+        "onboard_time": 1751011106,
+        "rank": 44,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 125721,
+        "num": 125721,
+        "word": "日本中小学教师有组织偷拍猥亵女童",
+        "onboard_time": 1751019681,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 119313,
+        "num": 119313,
+        "word": "只有做家务的才知道她有多厉害",
+        "onboard_time": 1751021783,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99509,
+        "num": 119308,
+        "word": "坚持7件小事的人不易得癌",
+        "onboard_time": 1751023582,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 92280,
+        "num": 119044,
+        "word": "义乌你在卖什么",
+        "onboard_time": 1751024242,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92194,
+        "num": 118963,
+        "word": "异形舞台大合照",
+        "onboard_time": 1751024063,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见厄瓜多尔总统#"
+    }
+  }
+}

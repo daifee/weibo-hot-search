@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1751023382890,
+  "endTime": 1751024327992,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -97,6 +97,14 @@
       "onboard_time": 1750940903,
       "rank": 1,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 3267879,
+      "num": 3267879,
+      "word": "刘亦菲 白玉兰",
+      "onboard_time": 1751022622,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 3257352,
@@ -241,14 +249,6 @@
       "onboard_time": 1750735584,
       "rank": 1,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 2159224,
-      "num": 2159224,
-      "word": "刘亦菲 白玉兰",
-      "onboard_time": 1751022622,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 2102609,
@@ -516,7 +516,7 @@
     },
     {
       "raw_hot": 1472095,
-      "num": 256389,
+      "num": 401747,
       "word": "杨紫顶级高定内娱首秀",
       "onboard_time": 1751021841,
       "rank": 10,
@@ -1963,6 +1963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 675150,
+      "num": 218920,
+      "word": "蔡徐坤篮球梗自己cue自己",
+      "onboard_time": 1751022202,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 674704,
       "num": 674704,
       "word": "小米YU7流金粉",
@@ -2329,6 +2337,14 @@
       "onboard_time": 1750699819,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 616146,
+      "num": 323332,
+      "word": "白玉兰预测",
+      "onboard_time": 1751012907,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 612248,
@@ -3555,14 +3571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 455939,
-      "num": 323332,
-      "word": "白玉兰预测",
-      "onboard_time": 1751012907,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 454995,
       "num": 454995,
       "word": "韩安冉妈妈胜诉",
@@ -4323,6 +4331,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 392281,
+      "num": 215458,
+      "word": "关晓彤妆造正确",
+      "onboard_time": 1751023342,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 391008,
       "num": 391008,
       "word": "小米YU7锁单",
@@ -4377,6 +4393,14 @@
       "onboard_time": 1750586782,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 384126,
+      "num": 215130,
+      "word": "邓超送鹿晗签名照",
+      "onboard_time": 1751022802,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 384125,
@@ -4851,6 +4875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 347900,
+      "num": 214362,
+      "word": "刘亦菲没走红毯",
+      "onboard_time": 1751024063,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 347894,
       "num": 561763,
       "word": "班主任回应扁担女孩高考成绩",
@@ -5057,14 +5089,6 @@
       "onboard_time": 1750946783,
       "rank": 35,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 337073,
-      "num": 176186,
-      "word": "蔡徐坤篮球梗自己cue自己",
-      "onboard_time": 1751022202,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 336905,
@@ -5875,6 +5899,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 283556,
+      "num": 214269,
+      "word": "小巷人家",
+      "onboard_time": 1751022981,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 283243,
       "num": 283243,
       "word": "雷军宣布面向下个时代的智能设备",
@@ -6401,6 +6433,22 @@
       "onboard_time": 1750844603,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 259027,
+      "num": 212465,
+      "word": "章子怡 尽力了",
+      "onboard_time": 1751023822,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 258824,
+      "num": 216566,
+      "word": "歌手海报质感",
+      "onboard_time": 1751019142,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 258363,
@@ -6969,14 +7017,6 @@
       "onboard_time": 1750607543,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 237285,
-      "num": 176157,
-      "word": "邓超送鹿晗签名照",
-      "onboard_time": 1751022802,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 236568,
@@ -8451,6 +8491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 200911,
+      "num": 200911,
+      "word": "华晨宇直播",
+      "onboard_time": 1751023523,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 200781,
       "num": 263327,
       "word": "黄俊捷新剧开机",
@@ -9115,6 +9163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193985,
+      "num": 193985,
+      "word": "马思纯花少7路透卷发好美",
+      "onboard_time": 1751023582,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193888,
       "num": 193888,
       "word": "湖北分数线 还不出",
@@ -9523,14 +9579,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 188290,
-      "num": 188290,
-      "word": "歌手海报质感",
-      "onboard_time": 1751019142,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 188125,
       "num": 215704,
       "word": "中韩男明星看秀外网生图",
@@ -9777,6 +9825,14 @@
       "onboard_time": 1750942162,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 184963,
+      "num": 184963,
+      "word": "优酷暑期档全员演技派战绩可查",
+      "onboard_time": 1751023523,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 184724,
@@ -10035,6 +10091,14 @@
       "category": "艺人,休闲"
     },
     {
+      "raw_hot": 180306,
+      "num": 260819,
+      "word": "鄂AD07088你藏收款码的样子真帅",
+      "onboard_time": 1751019022,
+      "rank": 43,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 180079,
       "num": 180079,
       "word": "cos李兰迪参加毕业典礼",
@@ -10049,14 +10113,6 @@
       "onboard_time": 1750671083,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 180035,
-      "num": 260819,
-      "word": "鄂AD07088你藏收款码的样子真帅",
-      "onboard_time": 1751019022,
-      "rank": 43,
-      "category": "正能量"
     },
     {
       "raw_hot": 179930,
@@ -10345,6 +10401,14 @@
       "onboard_time": 1750854922,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 174725,
+      "num": 174725,
+      "word": "蒋欣喊王安宇儿子",
+      "onboard_time": 1751024242,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 174454,
@@ -11188,7 +11252,7 @@
     },
     {
       "raw_hot": 162558,
-      "num": 162558,
+      "num": 179619,
       "word": "女子三餐水煮菜半年脂肪肝反而加重",
       "onboard_time": 1751020101,
       "rank": 49,
@@ -11595,14 +11659,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 157728,
-      "num": 157728,
-      "word": "小巷人家",
-      "onboard_time": 1751022981,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 157691,
       "num": 157691,
       "word": "下雨导致小猫发霉",
@@ -11724,7 +11780,7 @@
     },
     {
       "raw_hot": 156329,
-      "num": 156329,
+      "num": 216284,
       "word": "傅首尔儿子都这么大了",
       "onboard_time": 1751019622,
       "rank": 41,
@@ -12108,7 +12164,7 @@
     },
     {
       "raw_hot": 151951,
-      "num": 151951,
+      "num": 185250,
       "word": "退学北大男生被说是最差年级第一",
       "onboard_time": 1751022143,
       "rank": 37,
@@ -14683,6 +14739,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 125721,
+      "num": 125721,
+      "word": "日本中小学教师有组织偷拍猥亵女童",
+      "onboard_time": 1751019681,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 125596,
       "num": 125596,
       "word": "周杰伦抢票",
@@ -15115,14 +15179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121377,
-      "num": 121377,
-      "word": "日本中小学教师有组织偷拍猥亵女童",
-      "onboard_time": 1751019681,
-      "rank": 45,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 121152,
       "num": 121152,
       "word": "老师没课时在干嘛",
@@ -15321,14 +15377,6 @@
       "onboard_time": 1750989322,
       "rank": 42,
       "category": "数码"
-    },
-    {
-      "raw_hot": 118547,
-      "num": 118547,
-      "word": "关晓彤妆造正确",
-      "onboard_time": 1751023342,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 118534,
@@ -16771,6 +16819,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 99509,
+      "num": 119308,
+      "word": "坚持7件小事的人不易得癌",
+      "onboard_time": 1751023582,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 99444,
       "num": 288753,
       "word": "跪谢爷爷的双胞胎兄弟高考成绩出炉",
@@ -17219,12 +17275,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 92280,
+      "num": 119044,
+      "word": "义乌你在卖什么",
+      "onboard_time": 1751024242,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 92224,
       "num": 161524,
       "word": "别人体制内你俩机制内",
       "onboard_time": 1751000424,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92194,
+      "num": 118963,
+      "word": "异形舞台大合照",
+      "onboard_time": 1751024063,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 91762,
@@ -17329,6 +17401,14 @@
       "onboard_time": 1750784179,
       "rank": 24,
       "category": "艺人,休闲"
+    },
+    {
+      "raw_hot": 88644,
+      "num": 248516,
+      "word": "AQ让检查报告说人话",
+      "onboard_time": 1751022682,
+      "rank": 14,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 88641,
@@ -19395,6 +19475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47300,
+      "num": 187412,
+      "word": "消防员硬核护航苏超",
+      "onboard_time": 1751024302,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 47164,
       "num": 248454,
       "word": "中东航空业的混乱一夜",
@@ -19481,14 +19569,6 @@
       "onboard_time": 1750547838,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 45255,
-      "num": 248516,
-      "word": "AQ让检查报告说人话",
-      "onboard_time": 1751022682,
-      "rank": 14,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 45023,
@@ -19961,6 +20041,14 @@
       "onboard_time": 1750610719,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 36412,
+      "num": 213955,
+      "word": "西贝服务员偷拍事件或涉及多种侵权",
+      "onboard_time": 1751023282,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36389,
@@ -20563,14 +20651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 26625,
-      "num": 176041,
-      "word": "西贝服务员偷拍事件或涉及多种侵权",
-      "onboard_time": 1751023282,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 26490,
       "num": 175434,
       "word": "杨瀚森说追梦的故事迎来大结局",
@@ -20915,6 +20995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21474,
+      "num": 216779,
+      "word": "北大副教授称炒作热门专业是制造焦虑",
+      "onboard_time": 1751023282,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21273,
       "num": 34557,
       "word": "中方驳斥英政府报告称中国间谍活动增加",
@@ -21065,14 +21153,6 @@
       "onboard_time": 1750926082,
       "rank": 19,
       "category": "民生新闻,数码"
-    },
-    {
-      "raw_hot": 19469,
-      "num": 176024,
-      "word": "北大副教授称炒作热门专业是制造焦虑",
-      "onboard_time": 1751023282,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19371,
@@ -21339,6 +21419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 15536,
+      "num": 185061,
+      "word": "李善德是荔枝使我们是被指使",
+      "onboard_time": 1751023282,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 15403,
       "num": 138090,
       "word": "西贝已注册值得信赖相关商标",
@@ -21409,6 +21497,14 @@
       "onboard_time": 1750797614,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14506,
+      "num": 175057,
+      "word": "白厄CHRYSOS封面",
+      "onboard_time": 1751023883,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 14421,
@@ -21609,14 +21705,6 @@
       "onboard_time": 1750683684,
       "rank": 19,
       "category": "教育,互联网"
-    },
-    {
-      "raw_hot": 8435,
-      "num": 142852,
-      "word": "李善德是荔枝使我们是被指使",
-      "onboard_time": 1751023282,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 6709,
