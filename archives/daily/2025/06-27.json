@@ -1,6 +1,6 @@
 {
   "startTime": 1750955581651,
-  "endTime": 1750981221745,
+  "endTime": 1750989820209,
   "band_list": [
     {
       "raw_hot": 3091316,
@@ -9,6 +9,46 @@
       "onboard_time": 1750934422,
       "rank": 0,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 1234827,
+      "num": 388014,
+      "word": "梓渝 丁禹兮",
+      "onboard_time": 1750987882,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1062993,
+      "num": 1170079,
+      "word": "警方证实网红小四爷被带走",
+      "onboard_time": 1750983082,
+      "rank": 0,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 959847,
+      "num": 380041,
+      "word": "卢昱晓好直观的瘦",
+      "onboard_time": 1750986442,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 810852,
+      "num": 354829,
+      "word": "女生发现KTV不适标语勇敢举报",
+      "onboard_time": 1750984762,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 801498,
+      "num": 354121,
+      "word": "图书馆三十秒",
+      "onboard_time": 1750981161,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 720126,
@@ -43,6 +83,30 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 634055,
+      "num": 634055,
+      "word": "尹锡悦每天去医院照顾金建希",
+      "onboard_time": 1750984942,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 621726,
+      "num": 350383,
+      "word": "女孩哭诉从一年级被父亲藏匿7年",
+      "onboard_time": 1750986681,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 588167,
+      "num": 588167,
+      "word": "于正删除书卷一梦宣传博",
+      "onboard_time": 1750988722,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 584329,
       "num": 584329,
       "word": "蔡依林",
@@ -52,7 +116,7 @@
     },
     {
       "raw_hot": 543739,
-      "num": 281880,
+      "num": 414193,
       "word": "以色列被曝拥有90枚核弹头",
       "onboard_time": 1750977737,
       "rank": 30,
@@ -73,14 +137,6 @@
       "onboard_time": 1750947324,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 507963,
-      "num": 273073,
-      "word": "图书馆三十秒",
-      "onboard_time": 1750981161,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 505865,
@@ -115,6 +171,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 415863,
+      "num": 415863,
+      "word": "刘亦菲宋佳杨紫等入围白玉兰最佳女主",
+      "onboard_time": 1750983380,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 406477,
+      "num": 406477,
+      "word": "加沙民众成批死去只为一块面包",
+      "onboard_time": 1750985663,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 403306,
       "num": 403306,
       "word": "刘亦菲美的不知天地为何物了",
@@ -139,11 +211,43 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 354766,
+      "num": 354766,
+      "word": "QQ音乐上线泡泡",
+      "onboard_time": 1750985301,
+      "rank": 13,
+      "category": "音乐,数码"
+    },
+    {
+      "raw_hot": 341201,
+      "num": 341201,
+      "word": "黄子韬徐艺洋 巧克力水蜜桃",
+      "onboard_time": 1750982240,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 338974,
       "num": 338974,
       "word": "医院回应女孩怕跨省转运被堵死",
       "onboard_time": 1750955299,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 329598,
+      "num": 329598,
+      "word": "中国人团结再一次具象化了",
+      "onboard_time": 1750984584,
+      "rank": 17,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 311898,
+      "num": 264702,
+      "word": "退58.9万捐款妈妈回应儿子高考647分",
+      "onboard_time": 1750981822,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -153,6 +257,14 @@
       "onboard_time": 1750947444,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 261852,
+      "num": 261852,
+      "word": "原来没散光是这样的",
+      "onboard_time": 1750981640,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 251558,
@@ -179,12 +291,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 241942,
+      "num": 394567,
+      "word": "加沙15岁少年饿到只剩18公斤",
+      "onboard_time": 1750988722,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 236279,
       "num": 236279,
       "word": "余承恩赵美延同框",
       "onboard_time": 1750952542,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 230683,
+      "num": 230683,
+      "word": "11岁男童160斤睡觉时反复呼吸暂停",
+      "onboard_time": 1750986442,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 230619,
@@ -203,6 +331,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 225127,
+      "num": 267224,
+      "word": "小米股票",
+      "onboard_time": 1750989083,
+      "rank": 19,
+      "category": "财经,汽车"
+    },
+    {
+      "raw_hot": 214433,
+      "num": 264243,
+      "word": "中国记者遭乌无人机袭击受伤",
+      "onboard_time": 1750980739,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 209376,
       "num": 209376,
       "word": "哈梅内伊称狠狠扇了美国一个耳光",
@@ -217,6 +361,14 @@
       "onboard_time": 1750934361,
       "rank": 21,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 197386,
+      "num": 197386,
+      "word": "表决通过新修订的治安管理处罚法",
+      "onboard_time": 1750989142,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 192253,
@@ -267,6 +419,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 162455,
+      "num": 162455,
+      "word": "鱿鱼游戏第三季",
+      "onboard_time": 1750983021,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 157950,
+      "num": 157950,
+      "word": "张译是不是真上过班",
+      "onboard_time": 1750948586,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156669,
       "num": 156669,
       "word": "余承东称正紧急增产Pura80Ultra",
@@ -283,12 +451,44 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 149653,
+      "num": 149653,
+      "word": "哈尔滨一高校学生楼道乘凉睡觉",
+      "onboard_time": 1750984942,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147402,
       "num": 158117,
       "word": "小米YU7大定3分钟破20万台",
       "onboard_time": 1750950504,
       "rank": 30,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 147024,
+      "num": 147024,
+      "word": "鹿晗首个百万想看90后歌手",
+      "onboard_time": 1750986623,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 146390,
+      "num": 146390,
+      "word": "李一桐穿越史上第一个滚筒式穿越",
+      "onboard_time": 1750985843,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 144512,
+      "num": 149668,
+      "word": "加强反不正当竞争执法司法",
+      "onboard_time": 1750988902,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 144201,
@@ -315,6 +515,30 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 123008,
+      "num": 123008,
+      "word": "男生高中3年没手机考698称很感恩",
+      "onboard_time": 1750987763,
+      "rank": 40,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 120005,
+      "num": 120005,
+      "word": "这不是特效这是漫天飞舞的蝴蝶",
+      "onboard_time": 1750988902,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118807,
+      "num": 118807,
+      "word": "充电宝 机场安检",
+      "onboard_time": 1750989322,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 115517,
       "num": 115517,
       "word": "LV大秀",
@@ -329,6 +553,22 @@
       "onboard_time": 1750956499,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113511,
+      "num": 113511,
+      "word": "35岁离职人生的下半场在哪",
+      "onboard_time": 1750986623,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 112793,
+      "num": 112793,
+      "word": "榕江村民为救援队炒上千份盒饭",
+      "onboard_time": 1750982000,
+      "rank": 44,
+      "category": "正能量"
     },
     {
       "raw_hot": 112605,
@@ -353,6 +593,46 @@
       "onboard_time": 1750979299,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107598,
+      "num": 107598,
+      "word": "油价 震荡",
+      "onboard_time": 1750989561,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 105061,
+      "num": 105061,
+      "word": "书卷一梦首播冲顶热度总榜",
+      "onboard_time": 1750988362,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 103882,
+      "num": 123612,
+      "word": "湖人心仪中锋被截胡",
+      "onboard_time": 1750988001,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100989,
+      "num": 100989,
+      "word": "校方回应保安乱棒打死校内流浪狗",
+      "onboard_time": 1750989380,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100624,
+      "num": 100624,
+      "word": "贾樟柯 屏摄",
+      "onboard_time": 1750984462,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 99444,
@@ -393,6 +673,14 @@
       "onboard_time": 1750951224,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 88641,
+      "num": 146460,
+      "word": "高校宿舍是隐藏招生办",
+      "onboard_time": 1750988542,
+      "rank": 35,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 87626,
@@ -497,14 +785,6 @@
       "onboard_time": 1750980800,
       "rank": 40,
       "category": "海外新闻,教育"
-    },
-    {
-      "raw_hot": 72889,
-      "num": 72889,
-      "word": "张译是不是真上过班",
-      "onboard_time": 1750948586,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 72774,
@@ -651,14 +931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 25098,
-      "num": 264243,
-      "word": "中国记者遭乌无人机袭击受伤",
-      "onboard_time": 1750980739,
-      "rank": 14,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 24632,
       "num": 38117,
       "word": "不需要去辨别说话的人是否善意",
@@ -740,7 +1012,7 @@
     },
     {
       "raw_hot": 13423,
-      "num": 569633,
+      "num": 609952,
       "word": "活力中国调研行",
       "onboard_time": 1750933102,
       "rank": 2,
