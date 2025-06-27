@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1751003135089,
+  "endTime": 1751006293566,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -105,6 +105,14 @@
       "onboard_time": 1750551379,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 2652656,
+      "num": 1967880,
+      "word": "13岁女孩怀孕接诊医生强制报告",
+      "onboard_time": 1751002522,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2589233,
@@ -241,14 +249,6 @@
       "onboard_time": 1750669463,
       "rank": 28,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 1967880,
-      "num": 1967880,
-      "word": "13岁女孩怀孕接诊医生强制报告",
-      "onboard_time": 1751002522,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1960632,
@@ -873,6 +873,14 @@
       "onboard_time": 1750983082,
       "rank": 0,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1057797,
+      "num": 316862,
+      "word": "郑乃馨发文回应争议",
+      "onboard_time": 1751004383,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1043651,
@@ -1515,6 +1523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 743679,
+      "num": 1118988,
+      "word": "相机电池不能上飞机",
+      "onboard_time": 1750995262,
+      "rank": 21,
+      "category": "数码"
+    },
+    {
       "raw_hot": 741470,
       "num": 549542,
       "word": "伊朗称将向世界展示力量",
@@ -1697,14 +1713,6 @@
       "onboard_time": 1750744642,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 699967,
-      "num": 699967,
-      "word": "相机电池不能上飞机",
-      "onboard_time": 1750995262,
-      "rank": 21,
-      "category": "数码"
     },
     {
       "raw_hot": 697919,
@@ -1921,6 +1929,14 @@
       "onboard_time": 1750655065,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 660986,
+      "num": 660986,
+      "word": "锦绣芳华",
+      "onboard_time": 1751002282,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 659159,
@@ -2833,6 +2849,14 @@
       "onboard_time": 1750863983,
       "rank": 8,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 514094,
+      "num": 313448,
+      "word": "李宇春 裙子不是第二性征",
+      "onboard_time": 1751003541,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 513804,
@@ -4059,14 +4083,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 392753,
-      "num": 392753,
-      "word": "锦绣芳华",
-      "onboard_time": 1751002282,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 392695,
       "num": 392695,
       "word": "河北考生切记出分前关掉短信通知",
@@ -4835,6 +4851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 334458,
+      "num": 334458,
+      "word": "陈梦感谢黄晓明支招",
+      "onboard_time": 1751002582,
+      "rank": 25,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 333042,
       "num": 666383,
       "word": "伊朗称已提前对核设施进行疏散",
@@ -5009,6 +5033,14 @@
       "onboard_time": 1750519285,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 320692,
+      "num": 320692,
+      "word": "美军巨型钻地弹测试画面曝光",
+      "onboard_time": 1751001143,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 319065,
@@ -5401,6 +5433,14 @@
       "onboard_time": 1750528336,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 293801,
+      "num": 293801,
+      "word": "林栋哲你爸妈背着你考公了",
+      "onboard_time": 1751005221,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 293659,
@@ -6035,6 +6075,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 259731,
+      "num": 259731,
+      "word": "专家称癌症发病不仅是概率问题",
+      "onboard_time": 1751002522,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 259690,
       "num": 259690,
       "word": "徐艺洋工作室声明",
@@ -6481,14 +6529,6 @@
       "onboard_time": 1750953742,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 242308,
-      "num": 242308,
-      "word": "陈梦感谢黄晓明支招",
-      "onboard_time": 1751002582,
-      "rank": 25,
-      "category": "综艺,体育"
     },
     {
       "raw_hot": 242012,
@@ -7099,6 +7139,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 219678,
+      "num": 219678,
+      "word": "dirty work",
+      "onboard_time": 1751002642,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 219662,
       "num": 245442,
       "word": "你好星期六合照回忆杀",
@@ -7449,14 +7497,6 @@
       "onboard_time": 1750919121,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 212026,
-      "num": 197736,
-      "word": "专家称癌症发病不仅是概率问题",
-      "onboard_time": 1751002522,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 211945,
@@ -7857,6 +7897,14 @@
       "onboard_time": 1750576762,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203396,
+      "num": 203396,
+      "word": "王源告五人如果我们不曾相遇",
+      "onboard_time": 1751004981,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 203287,
@@ -8747,14 +8795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192783,
-      "num": 192783,
-      "word": "dirty work",
-      "onboard_time": 1751002642,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 192657,
       "num": 250573,
       "word": "迪丽热巴暗红长袍新中式",
@@ -9363,14 +9403,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 184138,
-      "num": 198229,
-      "word": "美军巨型钻地弹测试画面曝光",
-      "onboard_time": 1751001143,
-      "rank": 42,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 183373,
       "num": 183373,
       "word": "湖南高考分数线",
@@ -9488,6 +9520,14 @@
       "word": "刘美含的宠物蜥蜴去世",
       "onboard_time": 1750856243,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 181017,
+      "num": 181017,
+      "word": "于正曝艺人没工作去摆摊送外卖",
+      "onboard_time": 1751005161,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -10065,6 +10105,14 @@
       "onboard_time": 1750767202,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 169915,
+      "num": 169915,
+      "word": "杨紫7岁到32岁变化",
+      "onboard_time": 1751004802,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 169855,
@@ -10953,6 +11001,14 @@
       "onboard_time": 1750663404,
       "rank": 46,
       "category": "网红"
+    },
+    {
+      "raw_hot": 157913,
+      "num": 157913,
+      "word": "第一个给沈佳润小八塑的是天才",
+      "onboard_time": 1751004141,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 157691,
@@ -12843,6 +12899,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 136512,
+      "num": 136512,
+      "word": "好消息男主动心了坏消息是杀心",
+      "onboard_time": 1751005102,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136411,
       "num": 136411,
       "word": "卓沅 今天是一起淋过雨的幸福",
@@ -13003,6 +13067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 133977,
+      "num": 133977,
+      "word": "奔跑吧",
+      "onboard_time": 1751005883,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133896,
       "num": 133896,
       "word": "周翊然经纪人说不准谈",
@@ -13049,6 +13121,14 @@
       "onboard_time": 1750512804,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 133436,
+      "num": 205232,
+      "word": "解放军亮相马达加斯加阅兵",
+      "onboard_time": 1751004622,
+      "rank": 27,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 133168,
@@ -13611,6 +13691,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 127317,
+      "num": 127317,
+      "word": "严浩翔给耀文小贺拿两条链子",
+      "onboard_time": 1751004622,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127161,
       "num": 127161,
       "word": "弟弟受北大哥哥激励考702想上清华",
@@ -13977,6 +14065,14 @@
       "onboard_time": 1750668504,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 123432,
+      "num": 225827,
+      "word": "密室大逃脱7定档",
+      "onboard_time": 1751005342,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 123370,
@@ -15755,6 +15851,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 99337,
+      "num": 186461,
+      "word": "终于等到有短剧爽感的长剧了",
+      "onboard_time": 1751005342,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99137,
       "num": 140380,
       "word": "普通人还能买黄金吗",
@@ -16499,6 +16603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80983,
+      "num": 136469,
+      "word": "长安的荔枝意犹未尽",
+      "onboard_time": 1751003482,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 80890,
       "num": 245449,
       "word": "张婧仪野狗骨头片场plog",
@@ -17161,6 +17273,14 @@
       "onboard_time": 1750719558,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67084,
+      "num": 216418,
+      "word": "苏州大学为什么被称为六边形大学",
+      "onboard_time": 1751005161,
+      "rank": 24,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 66800,
@@ -18179,6 +18299,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 47489,
+      "num": 136466,
+      "word": "黑执事少爷美得不得了",
+      "onboard_time": 1751005640,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 47341,
       "num": 457834,
       "word": "曹玉磊回应被清华经管学院打假",
@@ -18225,6 +18353,14 @@
       "onboard_time": 1750747281,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45801,
+      "num": 136466,
+      "word": "全球唯一八缸摩托车亮相好博会",
+      "onboard_time": 1751006001,
+      "rank": 39,
+      "category": "汽车"
     },
     {
       "raw_hot": 45717,
@@ -18673,6 +18809,14 @@
       "onboard_time": 1750995382,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 36881,
+      "num": 312068,
+      "word": "超8成网友填志愿看大学有无空调",
+      "onboard_time": 1751005640,
+      "rank": 14,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 36850,
@@ -19873,6 +20017,14 @@
       "onboard_time": 1750914085,
       "rank": 39,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 17930,
+      "num": 220197,
+      "word": "蒲县疾控回应有职工1岁工作22岁退休",
+      "onboard_time": 1751005941,
+      "rank": 22,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 17839,
