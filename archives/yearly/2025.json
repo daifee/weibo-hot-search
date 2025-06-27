@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1751010046321,
+  "endTime": 1751013296941,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -529,6 +529,14 @@
       "onboard_time": 1745372301,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 12136998,
+      "num": 12136998,
+      "word": "蔡澜去世",
+      "onboard_time": 1751010686,
+      "rank": 0,
+      "category": "艺人,艺人"
     },
     {
       "raw_hot": 12026031,
@@ -2392,14 +2400,6 @@
       "word": "文泰一承认强奸",
       "onboard_time": 1750217420,
       "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 3541216,
-      "num": 306479,
-      "word": "金秀贤仍否认与金赛纶未成年时交往",
-      "onboard_time": 1743409705,
-      "rank": 10,
       "category": "艺人"
     }
   ],

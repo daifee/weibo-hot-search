@@ -1,0 +1,410 @@
+{
+  "runTime": 1751013296941,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 12136998,
+        "num": 12136998,
+        "word": "蔡澜去世",
+        "onboard_time": 1751010686,
+        "rank": 0,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 2009906,
+        "num": 2009906,
+        "word": "洞洞鞋 真菌感染",
+        "onboard_time": 1751011707,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 22787,
+        "num": 1290358,
+        "word": "2025高考招生录取新变化新趋势",
+        "onboard_time": 1751013087,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1159311,
+        "num": 1159311,
+        "word": "鹿晗消瘦模样大变",
+        "onboard_time": 1751012547,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1100433,
+        "num": 1100433,
+        "word": "香港四大才子均已逝世",
+        "onboard_time": 1751011827,
+        "rank": 4,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 868686,
+        "num": 868686,
+        "word": "举报前公婆近亿资产涉贪已有调查结果",
+        "onboard_time": 1751007501,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 742027,
+        "num": 742027,
+        "word": "蔡澜遗体已火化",
+        "onboard_time": 1751010563,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 639970,
+        "num": 639970,
+        "word": "花少7",
+        "onboard_time": 1751010686,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 468473,
+        "num": 468473,
+        "word": "人民网评大学生走廊打地铺避暑",
+        "onboard_time": 1751006902,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 421662,
+        "num": 421662,
+        "word": "充电宝 退不了",
+        "onboard_time": 1750993701,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 717940,
+        "num": 421221,
+        "word": "金靖私下和周雨彤道歉",
+        "onboard_time": 1751012667,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 564002,
+        "num": 421023,
+        "word": "锦绣芳华",
+        "onboard_time": 1751002282,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 472756,
+        "num": 420984,
+        "word": "锦绣芳华定档",
+        "onboard_time": 1751011827,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 420500,
+        "num": 420500,
+        "word": "郑乃馨发文回应争议",
+        "onboard_time": 1751004383,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383639,
+        "num": 383639,
+        "word": "免去苗华中央军事委员会委员职务",
+        "onboard_time": 1751011888,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 282208,
+        "num": 282208,
+        "word": "相机电池不能上飞机",
+        "onboard_time": 1750995262,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 240000,
+        "num": 240000,
+        "word": "中学生 早恋",
+        "onboard_time": 1751008402,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112487,
+        "num": 239469,
+        "word": "解限机成steam国产游戏榜一大哥",
+        "onboard_time": 1751012547,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 64793,
+        "num": 238981,
+        "word": "于正曝艺人没工作去摆摊送外卖",
+        "onboard_time": 1751005161,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42858,
+        "num": 238579,
+        "word": "东北高校该不该有空调",
+        "onboard_time": 1751012487,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44472,
+        "num": 237805,
+        "word": "2025新增本科专业怎么选",
+        "onboard_time": 1750986922,
+        "rank": 20,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 2576482,
+        "num": 236829,
+        "word": "男子强奸女儿致其产女又性侵外孙女",
+        "onboard_time": 1751007382,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 499294,
+        "num": 236598,
+        "word": "上海女硕士被大专男骗财骗色骗卵",
+        "onboard_time": 1751006961,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 387486,
+        "num": 235933,
+        "word": "花少7开始录制",
+        "onboard_time": 1751011528,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92652,
+        "num": 234744,
+        "word": "33让小猫咪打和平精英",
+        "onboard_time": 1751013087,
+        "rank": 24,
+        "category": "电竞,幽默"
+      },
+      {
+        "raw_hot": 23474,
+        "num": 234652,
+        "word": "退休后领取基本养老金无需缴个税",
+        "onboard_time": 1751013087,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322320,
+        "num": 233858,
+        "word": "宋茜和以前不一样了",
+        "onboard_time": 1751007921,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303101,
+        "num": 232808,
+        "word": "关晓彤第八套ES顶级高定",
+        "onboard_time": 1751011106,
+        "rank": 27,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 292456,
+        "num": 232702,
+        "word": "田栩宁壁纸",
+        "onboard_time": 1751012307,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181100,
+        "num": 231996,
+        "word": "福州烟台山公园已有多棵天价树死亡",
+        "onboard_time": 1751009483,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 231442,
+        "num": 231442,
+        "word": "白玉兰预测",
+        "onboard_time": 1751012907,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211029,
+        "num": 211029,
+        "word": "难听",
+        "onboard_time": 1750999403,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201648,
+        "num": 201648,
+        "word": "李沁花少路透",
+        "onboard_time": 1751012787,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200491,
+        "num": 200491,
+        "word": "鹿晗演唱会五哈团建",
+        "onboard_time": 1751012907,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 198409,
+        "num": 198409,
+        "word": "林栋哲你爸妈背着你考公了",
+        "onboard_time": 1751005221,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192359,
+        "num": 192359,
+        "word": "鱿鱼游戏3",
+        "onboard_time": 1751013087,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191765,
+        "num": 191765,
+        "word": "比伯ins改名",
+        "onboard_time": 1751009122,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184190,
+        "num": 184190,
+        "word": "李宇春 裙子不是第二性征",
+        "onboard_time": 1751003541,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74437,
+        "num": 180921,
+        "word": "禁带相机电池系安检员错误理解条规",
+        "onboard_time": 1751009362,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20678,
+        "num": 180874,
+        "word": "仿生手让残疾人士实现手随心动",
+        "onboard_time": 1751011285,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180832,
+        "num": 180832,
+        "word": "晚晚助理命很苦的感觉",
+        "onboard_time": 1751008642,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180644,
+        "num": 180644,
+        "word": "那英陈数花少7录制路透",
+        "onboard_time": 1751011467,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118829,
+        "num": 170612,
+        "word": "女子为养胃天天喝烫水查出食管癌",
+        "onboard_time": 1751010261,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166233,
+        "num": 166233,
+        "word": "一公园被举报采购天价树每棵近80万",
+        "onboard_time": 1750998084,
+        "rank": 43,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1056626,
+        "num": 163289,
+        "word": "13岁女孩怀孕接诊医生强制报告",
+        "onboard_time": 1751002522,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159101,
+        "num": 159101,
+        "word": "体检出现这些指标要当心癌变了",
+        "onboard_time": 1751009600,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 144733,
+        "num": 144733,
+        "word": "蔡澜点心",
+        "onboard_time": 1751013148,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140727,
+        "num": 140727,
+        "word": "蒲县疾控回应有职工1岁工作22岁退休",
+        "onboard_time": 1751005941,
+        "rank": 47,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 137286,
+        "num": 137286,
+        "word": "两年前跑路的签售姐突然还钱了",
+        "onboard_time": 1751010686,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135448,
+        "num": 135448,
+        "word": "花儿与少年",
+        "onboard_time": 1751011166,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见厄瓜多尔总统诺沃亚#"
+    }
+  }
+}

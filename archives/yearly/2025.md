@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/06/27 15:40:46
+本榜单时间：2025/01/01 00:26:38 ~ 2025/06/27 16:34:56
 </p>
 </blockquote>
 <p>
@@ -407,6 +407,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%9B%BD%E6%A2%81%E8%BE%9E%E8%81%8C%23" target="weibo">
 刘国梁辞职（热度：12205626）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E6%BE%9C%E5%8E%BB%E4%B8%96%23" target="weibo">
+蔡澜去世（热度：12136998）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ GAI第一（热度：4228592）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E6%B3%B0%E4%B8%80%E6%89%BF%E8%AE%A4%E5%BC%BA%E5%A5%B8%23" target="weibo">
 文泰一承认强奸（热度：3545942）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E7%A7%80%E8%B4%A4%E4%BB%8D%E5%90%A6%E8%AE%A4%E4%B8%8E%E9%87%91%E8%B5%9B%E7%BA%B6%E6%9C%AA%E6%88%90%E5%B9%B4%E6%97%B6%E4%BA%A4%E5%BE%80%23" target="weibo">
-金秀贤仍否认与金赛纶未成年时交往（热度：3541216）
 </a>
 </li>
 

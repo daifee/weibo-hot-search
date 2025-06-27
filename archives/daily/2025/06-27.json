@@ -1,7 +1,15 @@
 {
   "startTime": 1750955581651,
-  "endTime": 1751010046321,
+  "endTime": 1751013296941,
   "band_list": [
+    {
+      "raw_hot": 12136998,
+      "num": 12136998,
+      "word": "蔡澜去世",
+      "onboard_time": 1751010686,
+      "rank": 0,
+      "category": "艺人,艺人"
+    },
     {
       "raw_hot": 3091316,
       "num": 3091316,
@@ -12,7 +20,7 @@
     },
     {
       "raw_hot": 2847026,
-      "num": 212620,
+      "num": 236829,
       "word": "男子强奸女儿致其产女又性侵外孙女",
       "onboard_time": 1751007382,
       "rank": 20,
@@ -25,6 +33,14 @@
       "onboard_time": 1751002522,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2009906,
+      "num": 2009906,
+      "word": "洞洞鞋 真菌感染",
+      "onboard_time": 1751011707,
+      "rank": 1,
+      "category": "科学科普"
     },
     {
       "raw_hot": 1873212,
@@ -75,12 +91,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1159311,
+      "num": 1159311,
+      "word": "鹿晗消瘦模样大变",
+      "onboard_time": 1751012547,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1141835,
       "num": 495509,
       "word": "女装流行无袖的原因",
       "onboard_time": 1750992921,
       "rank": 11,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 1100433,
+      "num": 1100433,
+      "word": "香港四大才子均已逝世",
+      "onboard_time": 1751011827,
+      "rank": 4,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 1062993,
@@ -92,7 +124,7 @@
     },
     {
       "raw_hot": 1057797,
-      "num": 361954,
+      "num": 420500,
       "word": "郑乃馨发文回应争议",
       "onboard_time": 1751004383,
       "rank": 11,
@@ -155,6 +187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 742027,
+      "num": 742027,
+      "word": "蔡澜遗体已火化",
+      "onboard_time": 1751010563,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 740515,
       "num": 740515,
       "word": "小米股票",
@@ -179,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 717940,
+      "num": 421221,
+      "word": "金靖私下和周雨彤道歉",
+      "onboard_time": 1751012667,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 687974,
       "num": 288563,
       "word": "6岁女孩被西贝服务员拍照当背景图",
@@ -201,6 +249,14 @@
       "onboard_time": 1750954702,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 639970,
+      "num": 639970,
+      "word": "花少7",
+      "onboard_time": 1751010686,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 634055,
@@ -387,6 +443,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 472756,
+      "num": 420984,
+      "word": "锦绣芳华定档",
+      "onboard_time": 1751011827,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 463430,
       "num": 463430,
       "word": "哈尔滨高温高校学生回应在楼道睡觉",
@@ -457,6 +521,22 @@
       "onboard_time": 1750940903,
       "rank": 1,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 387486,
+      "num": 235933,
+      "word": "花少7开始录制",
+      "onboard_time": 1751011528,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 383639,
+      "num": 383639,
+      "word": "免去苗华中央军事委员会委员职务",
+      "onboard_time": 1751011888,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 382449,
@@ -539,12 +619,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 303101,
+      "num": 232808,
+      "word": "关晓彤第八套ES顶级高定",
+      "onboard_time": 1751011106,
+      "rank": 27,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 296454,
       "num": 394567,
       "word": "加沙15岁少年饿到只剩18公斤",
       "onboard_time": 1750988722,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 292456,
+      "num": 232702,
+      "word": "田栩宁壁纸",
+      "onboard_time": 1751012307,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 279829,
@@ -659,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 240000,
+      "num": 240000,
+      "word": "中学生 早恋",
+      "onboard_time": 1751008402,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239732,
       "num": 239732,
       "word": "鱿鱼游戏第三季",
@@ -689,6 +793,14 @@
       "onboard_time": 1751002103,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 231442,
+      "num": 231442,
+      "word": "白玉兰预测",
+      "onboard_time": 1751012907,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 230683,
@@ -795,14 +907,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 203924,
-      "num": 203924,
-      "word": "中学生 早恋",
-      "onboard_time": 1751008402,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 203654,
       "num": 203654,
       "word": "LV创飞星巴克",
@@ -825,6 +929,22 @@
       "onboard_time": 1750999403,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201648,
+      "num": 201648,
+      "word": "李沁花少路透",
+      "onboard_time": 1751012787,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 200491,
+      "num": 200491,
+      "word": "鹿晗演唱会五哈团建",
+      "onboard_time": 1751012907,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 199439,
@@ -891,6 +1011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192359,
+      "num": 192359,
+      "word": "鱿鱼游戏3",
+      "onboard_time": 1751013087,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192253,
       "num": 238316,
       "word": "王嘉尔说再休假事业都要没了",
@@ -955,6 +1083,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 181100,
+      "num": 318635,
+      "word": "福州烟台山公园已有多棵天价树死亡",
+      "onboard_time": 1751009483,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 181087,
       "num": 181087,
       "word": "相机电池",
@@ -964,11 +1100,19 @@
     },
     {
       "raw_hot": 181017,
-      "num": 181017,
+      "num": 238981,
       "word": "于正曝艺人没工作去摆摊送外卖",
       "onboard_time": 1751005161,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 180644,
+      "num": 180644,
+      "word": "那英陈数花少7录制路透",
+      "onboard_time": 1751011467,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 176222,
@@ -1219,6 +1363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144733,
+      "num": 144733,
+      "word": "蔡澜点心",
+      "onboard_time": 1751013148,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144512,
       "num": 149668,
       "word": "加强反不正当竞争执法司法",
@@ -1299,6 +1451,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 137286,
+      "num": 137286,
+      "word": "两年前跑路的签售姐突然还钱了",
+      "onboard_time": 1751010686,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 137210,
       "num": 162533,
       "word": "于正回应和刘宇宁合作",
@@ -1313,6 +1473,14 @@
       "onboard_time": 1751005102,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135448,
+      "num": 135448,
+      "word": "花儿与少年",
+      "onboard_time": 1751011166,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 133977,
@@ -1475,6 +1643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 118829,
+      "num": 170612,
+      "word": "女子为养胃天天喝烫水查出食管癌",
+      "onboard_time": 1751010261,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118807,
       "num": 118807,
       "word": "充电宝 机场安检",
@@ -1555,6 +1731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112487,
+      "num": 239469,
+      "word": "解限机成steam国产游戏榜一大哥",
+      "onboard_time": 1751012547,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 112020,
       "num": 112020,
       "word": "花开锦绣开机vlog",
@@ -1601,14 +1785,6 @@
       "onboard_time": 1750999703,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 109314,
-      "num": 318635,
-      "word": "福州烟台山公园已有多棵天价树死亡",
-      "onboard_time": 1751009483,
-      "rank": 14,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 108871,
@@ -1721,6 +1897,14 @@
       "onboard_time": 1750948464,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 92652,
+      "num": 234744,
+      "word": "33让小猫咪打和平精英",
+      "onboard_time": 1751013087,
+      "rank": 24,
+      "category": "电竞,幽默"
     },
     {
       "raw_hot": 92224,
@@ -1865,6 +2049,14 @@
       "onboard_time": 1750981161,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 74437,
+      "num": 180921,
+      "word": "禁带相机电池系安检员错误理解条规",
+      "onboard_time": 1751009362,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74298,
@@ -2059,6 +2251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42858,
+      "num": 238579,
+      "word": "东北高校该不该有空调",
+      "onboard_time": 1751012487,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41697,
       "num": 298586,
       "word": "中国车跑纽北有什么意义",
@@ -2179,11 +2379,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 23474,
+      "num": 234652,
+      "word": "退休后领取基本养老金无需缴个税",
+      "onboard_time": 1751013087,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23242,
       "num": 245373,
       "word": "花费上万元修复信用靠谱吗",
       "onboard_time": 1750999284,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22787,
+      "num": 1290358,
+      "word": "2025高考招生录取新变化新趋势",
+      "onboard_time": 1751013087,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -2233,6 +2449,14 @@
       "onboard_time": 1751006961,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 20678,
+      "num": 180874,
+      "word": "仿生手让残疾人士实现手随心动",
+      "onboard_time": 1751011285,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15759,
