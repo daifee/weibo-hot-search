@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/28 00:33:04 ~ 2025/06/28 04:28:56
+本榜单时间：2025/06/28 00:33:04 ~ 2025/06/28 04:41:15
 </p>
 </blockquote>
 <p>
@@ -441,6 +441,12 @@ BLG冲击2025Msi首胜（热度：33654）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%E7%A1%AE%E8%AE%A4%E5%94%B1%E6%80%9D%E5%BF%B5%E6%98%AF%E4%B8%80%E7%A7%8D%E7%97%85%23" target="weibo">
+单依纯确认唱思念是一种病（热度：22214）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B716%E5%8F%B7%E5%B0%8F%E6%80%AA%E7%89%A9%E5%8F%AB%E5%8A%A8%E7%A3%81%E5%93%92%E7%A3%81%23" target="weibo">
 汪苏泷16号小怪物叫动磁哒磁（热度：22174）
 </a>
@@ -453,14 +459,32 @@ BLG冲击2025Msi首胜（热度：33654）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%9B%9B%E9%83%A8%E5%8F%A4%E8%A3%85%E7%94%B7%E4%B8%BB%E5%89%A7%E5%9D%87%E7%A0%B4%E9%A6%96%E6%97%A5%E8%AE%B0%E5%BD%95%23" target="weibo">
+刘宇宁四部古装男主剧均破首日记录（热度：21502）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%BC%A0%E7%9C%9F%E6%BA%90%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E8%83%BD%E6%94%BE%E8%BF%87%E5%BD%BC%E6%AD%A4%23" target="weibo">
 周深张真源什么时候能放过彼此（热度：20133）
 </a>
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%82%85%E9%A6%96%E5%B0%94%E7%98%A6%E8%BA%AB%E6%88%90%E5%8A%9F%E7%BE%8E%E5%87%BA%E6%96%B0%E9%AB%98%E5%BA%A6%23" target="weibo">
+傅首尔瘦身成功美出新高度（热度：18654）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2324%E5%B2%81%E5%B0%8F%E4%BC%99%E4%B9%85%E5%9D%90%E4%B8%8D%E5%8A%A8%E8%87%B4%E5%A4%9A%E5%A4%84%E8%A1%80%E6%A0%93%E9%99%A9%E4%B8%A7%E5%91%BD%23" target="weibo">
 24岁小伙久坐不动致多处血栓险丧命（热度：18240）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%84%B1%E5%8F%A3%E7%A7%80%23" target="weibo">
+脱口秀（热度：16500）
 </a>
 </li>
 
