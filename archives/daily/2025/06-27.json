@@ -1,6 +1,6 @@
 {
   "startTime": 1750955581651,
-  "endTime": 1751016521386,
+  "endTime": 1751017402405,
   "band_list": [
     {
       "raw_hot": 12136998,
@@ -459,6 +459,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 474784,
+      "num": 318686,
+      "word": "蔡澜墓志铭想刻三个字",
+      "onboard_time": 1751015723,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 472756,
       "num": 420984,
       "word": "锦绣芳华定档",
@@ -491,15 +499,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 408030,
-      "num": 195802,
-      "word": "蔡澜墓志铭想刻三个字",
-      "onboard_time": 1751015723,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 407720,
+      "raw_hot": 408122,
       "num": 323332,
       "word": "白玉兰预测",
       "onboard_time": 1751012907,
@@ -580,7 +580,7 @@
     },
     {
       "raw_hot": 372694,
-      "num": 194739,
+      "num": 312080,
       "word": "蔡澜的离别信",
       "onboard_time": 1751014765,
       "rank": 12,
@@ -923,6 +923,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 212912,
+      "num": 154214,
+      "word": "上海白玉兰颁奖典礼红毯嘉宾阵容",
+      "onboard_time": 1751014705,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209376,
       "num": 209376,
       "word": "哈梅内伊称狠狠扇了美国一个耳光",
@@ -1067,14 +1075,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 196099,
-      "num": 154214,
-      "word": "上海白玉兰颁奖典礼红毯嘉宾阵容",
-      "onboard_time": 1751014705,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 194874,
       "num": 194874,
       "word": "早晨喝咖啡 长寿",
@@ -1211,12 +1211,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179849,
+      "num": 138621,
+      "word": "半个内娱都在看以法之名",
+      "onboard_time": 1751017282,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176222,
       "num": 176222,
       "word": "伊朗浓缩铀到底去哪了",
       "onboard_time": 1750991481,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 175403,
+      "num": 175403,
+      "word": "波妞喜欢中介",
+      "onboard_time": 1751014585,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 173927,
@@ -1331,6 +1347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 159564,
+      "num": 159564,
+      "word": "李在明下馆子喝鱼汤被记者追问",
+      "onboard_time": 1751016862,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 159476,
       "num": 159476,
       "word": "第一次见在游泳池里的工位",
@@ -1409,6 +1433,14 @@
       "onboard_time": 1750954880,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 156444,
+      "num": 137264,
+      "word": "蔡澜曾说香港是一只不死鸟",
+      "onboard_time": 1751017102,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 155876,
@@ -1537,6 +1569,14 @@
       "onboard_time": 1751006961,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142507,
+      "num": 161205,
+      "word": "Dior新季期待值拉满",
+      "onboard_time": 1751015364,
+      "rank": 27,
+      "category": "时尚"
     },
     {
       "raw_hot": 141654,
@@ -1683,6 +1723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127148,
+      "num": 127148,
+      "word": "寻美辽宁 华晨宇",
+      "onboard_time": 1751016922,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 127089,
       "num": 312068,
       "word": "超8成网友填志愿看大学有无空调",
@@ -1777,14 +1825,6 @@
       "onboard_time": 1750994422,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 121624,
-      "num": 161205,
-      "word": "Dior新季期待值拉满",
-      "onboard_time": 1751015364,
-      "rank": 27,
-      "category": "时尚"
     },
     {
       "raw_hot": 120698,
@@ -2371,6 +2411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 56083,
+      "num": 189205,
+      "word": "工地螺纹钢徒手能掰断三大疑问待解",
+      "onboard_time": 1751016084,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53801,
       "num": 176844,
       "word": "突然成了岳云鹏的生命粉",
@@ -2475,6 +2523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42133,
+      "num": 146879,
+      "word": "为什么说学计算机首推同济",
+      "onboard_time": 1751017161,
+      "rank": 24,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 41697,
       "num": 298586,
       "word": "中国车跑纽北有什么意义",
@@ -2491,11 +2547,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 37740,
-      "num": 189205,
-      "word": "工地螺纹钢徒手能掰断三大疑问待解",
-      "onboard_time": 1751016084,
-      "rank": 19,
+      "raw_hot": 37701,
+      "num": 319882,
+      "word": "学生欺凌事件处理方式明确了",
+      "onboard_time": 1751016683,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -2513,6 +2569,14 @@
       "onboard_time": 1750995382,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 32737,
+      "num": 138281,
+      "word": "诡秘之主片尾曲诡起来了",
+      "onboard_time": 1751016622,
+      "rank": 37,
+      "category": "动漫"
     },
     {
       "raw_hot": 29895,
@@ -2537,6 +2601,14 @@
       "onboard_time": 1750962196,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 29021,
+      "num": 209617,
+      "word": "男子境外遥控父亲境内贩毒",
+      "onboard_time": 1751016683,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28331,
@@ -2691,6 +2763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 15403,
+      "num": 138090,
+      "word": "西贝已注册值得信赖相关商标",
+      "onboard_time": 1751017282,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15146,
       "num": 17278,
       "word": "娄滋博团播",
@@ -2721,6 +2801,14 @@
       "onboard_time": 1751013325,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 8825,
+      "num": 139183,
+      "word": "东北异常高温不能只靠学生自己扛",
+      "onboard_time": 1751017282,
+      "rank": 33,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

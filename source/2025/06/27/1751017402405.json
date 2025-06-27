@@ -1,0 +1,410 @@
+{
+  "runTime": 1751017402405,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6476956,
+        "num": 6476956,
+        "word": "蔡澜去世",
+        "onboard_time": 1751010686,
+        "rank": 0,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 1185532,
+        "num": 1185532,
+        "word": "洞洞鞋 真菌感染",
+        "onboard_time": 1751011707,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 83171,
+        "num": 682890,
+        "word": "2025高考招生录取新变化新趋势",
+        "onboard_time": 1751013087,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2089541,
+        "num": 658123,
+        "word": "鹿晗消瘦模样大变",
+        "onboard_time": 1751012547,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 631482,
+        "num": 631482,
+        "word": "香港四大才子均已逝世",
+        "onboard_time": 1751011827,
+        "rank": 4,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 365851,
+        "num": 365851,
+        "word": "免去苗华中央军事委员会委员职务",
+        "onboard_time": 1751011888,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 923681,
+        "num": 358824,
+        "word": "金靖私下和周雨彤道歉",
+        "onboard_time": 1751012667,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 671117,
+        "num": 345122,
+        "word": "鱿鱼游戏3开播",
+        "onboard_time": 1751013746,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321429,
+        "num": 321429,
+        "word": "举报前公婆近亿资产涉贪已有调查结果",
+        "onboard_time": 1751007501,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 37701,
+        "num": 319882,
+        "word": "学生欺凌事件处理方式明确了",
+        "onboard_time": 1751016683,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 474784,
+        "num": 318686,
+        "word": "蔡澜墓志铭想刻三个字",
+        "onboard_time": 1751015723,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408122,
+        "num": 316029,
+        "word": "白玉兰预测",
+        "onboard_time": 1751012907,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330651,
+        "num": 313949,
+        "word": "锦绣芳华定档",
+        "onboard_time": 1751011827,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 312080,
+        "num": 312080,
+        "word": "蔡澜的离别信",
+        "onboard_time": 1751014765,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29021,
+        "num": 209617,
+        "word": "男子境外遥控父亲境内贩毒",
+        "onboard_time": 1751016683,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203630,
+        "num": 203630,
+        "word": "充电宝 退不了",
+        "onboard_time": 1750993701,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 175535,
+        "num": 175535,
+        "word": "中学生 早恋",
+        "onboard_time": 1751008402,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175403,
+        "num": 175403,
+        "word": "波妞喜欢中介",
+        "onboard_time": 1751014585,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159564,
+        "num": 159564,
+        "word": "李在明下馆子喝鱼汤被记者追问",
+        "onboard_time": 1751016862,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 43018,
+        "num": 159442,
+        "word": "在河南遇见宋画里的山河人间",
+        "onboard_time": 1751015302,
+        "rank": 19,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 232856,
+        "num": 156840,
+        "word": "蔡澜的微博神回复",
+        "onboard_time": 1751015183,
+        "rank": 20,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 1836588,
+        "num": 154108,
+        "word": "男子强奸女儿致其产女又性侵外孙女",
+        "onboard_time": 1751007382,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 296095,
+        "num": 151930,
+        "word": "上海女硕士被大专男骗财骗色骗卵",
+        "onboard_time": 1751006961,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281543,
+        "num": 147422,
+        "word": "田栩宁壁纸",
+        "onboard_time": 1751012307,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42133,
+        "num": 146879,
+        "word": "为什么说学计算机首推同济",
+        "onboard_time": 1751017161,
+        "rank": 24,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 256172,
+        "num": 144628,
+        "word": "李沁花少路透",
+        "onboard_time": 1751012787,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142507,
+        "num": 142507,
+        "word": "Dior新季期待值拉满",
+        "onboard_time": 1751015364,
+        "rank": 26,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 155927,
+        "num": 142034,
+        "word": "苏超",
+        "onboard_time": 1751015963,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245044,
+        "num": 141534,
+        "word": "花少7",
+        "onboard_time": 1751010686,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56083,
+        "num": 141044,
+        "word": "工地螺纹钢徒手能掰断三大疑问待解",
+        "onboard_time": 1751016084,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212912,
+        "num": 140131,
+        "word": "上海白玉兰颁奖典礼红毯嘉宾阵容",
+        "onboard_time": 1751014705,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195472,
+        "num": 139818,
+        "word": "李现杨紫时隔多年再次合作",
+        "onboard_time": 1751016263,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139225,
+        "num": 139225,
+        "word": "蔡澜曾谈无儿无女",
+        "onboard_time": 1751015603,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 8825,
+        "num": 139183,
+        "word": "东北异常高温不能只靠学生自己扛",
+        "onboard_time": 1751017282,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182064,
+        "num": 138802,
+        "word": "鹿晗演唱会五哈团建",
+        "onboard_time": 1751012907,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 179849,
+        "num": 138621,
+        "word": "半个内娱都在看以法之名",
+        "onboard_time": 1751017282,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173936,
+        "num": 138527,
+        "word": "蔡澜遗体已火化",
+        "onboard_time": 1751010563,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32737,
+        "num": 138281,
+        "word": "诡秘之主片尾曲诡起来了",
+        "onboard_time": 1751016622,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 15403,
+        "num": 138090,
+        "word": "西贝已注册值得信赖相关商标",
+        "onboard_time": 1751017282,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124179,
+        "num": 137838,
+        "word": "温网抽签仪式",
+        "onboard_time": 1751015785,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160142,
+        "num": 137550,
+        "word": "杨紫李现锦绣芳华首发预告",
+        "onboard_time": 1751013385,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156444,
+        "num": 137264,
+        "word": "蔡澜曾说香港是一只不死鸟",
+        "onboard_time": 1751017102,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147592,
+        "num": 137171,
+        "word": "花少7开始录制",
+        "onboard_time": 1751011528,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137037,
+        "num": 137037,
+        "word": "关晓彤第八套ES顶级高定",
+        "onboard_time": 1751011106,
+        "rank": 43,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 130011,
+        "num": 130011,
+        "word": "杭州602分上职业本科女生说不后悔",
+        "onboard_time": 1751015364,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129704,
+        "num": 129704,
+        "word": "郑乃馨发文回应争议",
+        "onboard_time": 1751004383,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128952,
+        "num": 128952,
+        "word": "孟子义这段妲己来了都避让三分",
+        "onboard_time": 1751014344,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127148,
+        "num": 127148,
+        "word": "寻美辽宁 华晨宇",
+        "onboard_time": 1751016922,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110328,
+        "num": 110328,
+        "word": "一公园被举报采购天价树每棵近80万",
+        "onboard_time": 1750998084,
+        "rank": 48,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 109494,
+        "num": 109494,
+        "word": "人民网评大学生走廊打地铺避暑",
+        "onboard_time": 1751006902,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见塞内加尔总理#"
+    }
+  }
+}
