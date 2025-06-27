@@ -1,6 +1,6 @@
 {
   "startTime": 1750955581651,
-  "endTime": 1751013296941,
+  "endTime": 1751014152587,
   "band_list": [
     {
       "raw_hot": 12136998,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2847026,
-      "num": 236829,
+      "num": 298480,
       "word": "男子强奸女儿致其产女又性侵外孙女",
       "onboard_time": 1751007382,
       "rank": 20,
@@ -33,6 +33,14 @@
       "onboard_time": 1751002522,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2408890,
+      "num": 1159311,
+      "word": "鹿晗消瘦模样大变",
+      "onboard_time": 1751012547,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 2009906,
@@ -91,14 +99,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1159311,
-      "num": 1159311,
-      "word": "鹿晗消瘦模样大变",
-      "onboard_time": 1751012547,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1141835,
       "num": 495509,
       "word": "女装流行无袖的原因",
@@ -137,6 +137,14 @@
       "onboard_time": 1751002282,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1036936,
+      "num": 596512,
+      "word": "金靖私下和周雨彤道歉",
+      "onboard_time": 1751012667,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 959847,
@@ -217,14 +225,6 @@
       "onboard_time": 1750949605,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 717940,
-      "num": 421221,
-      "word": "金靖私下和周雨彤道歉",
-      "onboard_time": 1751012667,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 687974,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 560237,
-      "num": 248998,
+      "num": 298101,
       "word": "上海女硕士被大专男骗财骗色骗卵",
       "onboard_time": 1751006961,
       "rank": 20,
@@ -393,6 +393,14 @@
       "onboard_time": 1750991601,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 504756,
+      "num": 504756,
+      "word": "免去苗华中央军事委员会委员职务",
+      "onboard_time": 1751011888,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 498953,
@@ -499,6 +507,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 396685,
+      "num": 323332,
+      "word": "白玉兰预测",
+      "onboard_time": 1751012907,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 393278,
       "num": 393278,
       "word": "李惠利提名视后",
@@ -524,19 +540,11 @@
     },
     {
       "raw_hot": 387486,
-      "num": 235933,
+      "num": 295923,
       "word": "花少7开始录制",
       "onboard_time": 1751011528,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 383639,
-      "num": 383639,
-      "word": "免去苗华中央军事委员会委员职务",
-      "onboard_time": 1751011888,
-      "rank": 14,
-      "category": "国内时政"
     },
     {
       "raw_hot": 382449,
@@ -552,6 +560,14 @@
       "word": "白玉兰提名的压迫感",
       "onboard_time": 1750953322,
       "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 376204,
+      "num": 297686,
+      "word": "鱿鱼游戏3开播",
+      "onboard_time": 1751013746,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -585,6 +601,14 @@
       "onboard_time": 1750995083,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 336905,
+      "num": 297415,
+      "word": "田栩宁壁纸",
+      "onboard_time": 1751012307,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 329598,
@@ -627,6 +651,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 299329,
+      "num": 299329,
+      "word": "中学生 早恋",
+      "onboard_time": 1751008402,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 296454,
       "num": 394567,
       "word": "加沙15岁少年饿到只剩18公斤",
@@ -635,12 +667,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 292456,
-      "num": 232702,
-      "word": "田栩宁壁纸",
-      "onboard_time": 1751012307,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 295580,
+      "num": 295580,
+      "word": "鹿晗演唱会五哈团建",
+      "onboard_time": 1751012907,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 279829,
@@ -755,14 +787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 240000,
-      "num": 240000,
-      "word": "中学生 早恋",
-      "onboard_time": 1751008402,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 239732,
       "num": 239732,
       "word": "鱿鱼游戏第三季",
@@ -793,14 +817,6 @@
       "onboard_time": 1751002103,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 231442,
-      "num": 231442,
-      "word": "白玉兰预测",
-      "onboard_time": 1751012907,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 230683,
@@ -883,12 +899,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 209138,
+      "num": 209138,
+      "word": "李沁花少路透",
+      "onboard_time": 1751012787,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207772,
       "num": 207772,
       "word": "比伯ins改名",
       "onboard_time": 1751009122,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207471,
+      "num": 207471,
+      "word": "华为入选全球100大最具影响力企业",
+      "onboard_time": 1751013325,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 207234,
@@ -907,6 +939,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 204563,
+      "num": 204563,
+      "word": "蔡澜点心",
+      "onboard_time": 1751013148,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203654,
       "num": 203654,
       "word": "LV创飞星巴克",
@@ -923,28 +963,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201938,
+      "num": 296002,
+      "word": "WTT横滨冠军赛首批参赛名单",
+      "onboard_time": 1751013687,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201930,
       "num": 201930,
       "word": "中餐厅合伙人7小时逛超市班味好浓",
       "onboard_time": 1750999403,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 201648,
-      "num": 201648,
-      "word": "李沁花少路透",
-      "onboard_time": 1751012787,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 200491,
-      "num": 200491,
-      "word": "鹿晗演唱会五哈团建",
-      "onboard_time": 1751012907,
-      "rank": 33,
-      "category": "演出"
     },
     {
       "raw_hot": 199439,
@@ -961,6 +993,14 @@
       "onboard_time": 1750994182,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199016,
+      "num": 199016,
+      "word": "鱿鱼游戏3",
+      "onboard_time": 1751013087,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 198663,
@@ -1003,20 +1043,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 192976,
+      "num": 192976,
+      "word": "杨紫李现锦绣芳华首发预告",
+      "onboard_time": 1751013385,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192967,
       "num": 214463,
       "word": "皇马世俱杯将战尤文",
       "onboard_time": 1750998444,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 192359,
-      "num": 192359,
-      "word": "鱿鱼游戏3",
-      "onboard_time": 1751013087,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 192253,
@@ -1243,6 +1283,14 @@
       "category": "民生新闻,数码"
     },
     {
+      "raw_hot": 158252,
+      "num": 158252,
+      "word": "香港四大才子",
+      "onboard_time": 1751013806,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157950,
       "num": 157950,
       "word": "张译是不是真上过班",
@@ -1363,14 +1411,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 144733,
-      "num": 144733,
-      "word": "蔡澜点心",
-      "onboard_time": 1751013148,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 144512,
       "num": 149668,
       "word": "加强反不正当竞争执法司法",
@@ -1409,6 +1449,14 @@
       "onboard_time": 1751006961,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141654,
+      "num": 141654,
+      "word": "关晓彤玉兰盛放",
+      "onboard_time": 1751014045,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 140728,
@@ -1644,7 +1692,7 @@
     },
     {
       "raw_hot": 118829,
-      "num": 170612,
+      "num": 321722,
       "word": "女子为养胃天天喝烫水查出食管癌",
       "onboard_time": 1751010261,
       "rank": 42,
@@ -1732,7 +1780,7 @@
     },
     {
       "raw_hot": 112487,
-      "num": 239469,
+      "num": 299184,
       "word": "解限机成steam国产游戏榜一大哥",
       "onboard_time": 1751012547,
       "rank": 17,
@@ -1900,7 +1948,7 @@
     },
     {
       "raw_hot": 92652,
-      "num": 234744,
+      "num": 296877,
       "word": "33让小猫咪打和平精英",
       "onboard_time": 1751013087,
       "rank": 24,
@@ -2107,6 +2155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 69071,
+      "num": 1290358,
+      "word": "2025高考招生录取新变化新趋势",
+      "onboard_time": 1751013087,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68950,
       "num": 68950,
       "word": "翔霖",
@@ -2251,6 +2307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42902,
+      "num": 319168,
+      "word": "退休后领取基本养老金无需缴个税",
+      "onboard_time": 1751013087,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42858,
       "num": 238579,
       "word": "东北高校该不该有空调",
@@ -2379,27 +2443,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 23474,
-      "num": 234652,
-      "word": "退休后领取基本养老金无需缴个税",
-      "onboard_time": 1751013087,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23242,
       "num": 245373,
       "word": "花费上万元修复信用靠谱吗",
       "onboard_time": 1750999284,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22787,
-      "num": 1290358,
-      "word": "2025高考招生录取新变化新趋势",
-      "onboard_time": 1751013087,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -2425,6 +2473,14 @@
       "onboard_time": 1750966514,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 21232,
+      "num": 298861,
+      "word": "2025年计算机专业还值得读吗",
+      "onboard_time": 1751013687,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 21207,
@@ -2489,6 +2545,14 @@
       "onboard_time": 1750933102,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12865,
+      "num": 234186,
+      "word": "一个好老师对人生影响有多大",
+      "onboard_time": 1751013325,
+      "rank": 29,
+      "category": "健康医疗"
     }
   ],
   "hotgov_list": [
@@ -2497,6 +2561,9 @@
     },
     {
       "word": "#习近平会见厄瓜多尔总统诺沃亚#"
+    },
+    {
+      "word": "#习近平会见塞内加尔总理#"
     }
   ]
 }
