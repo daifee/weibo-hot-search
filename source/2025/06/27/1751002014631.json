@@ -1,0 +1,410 @@
+{
+  "runTime": 1751002014631,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1385618,
+        "num": 1385618,
+        "word": "难听",
+        "onboard_time": 1750999403,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1096967,
+        "num": 1096967,
+        "word": "西贝致歉",
+        "onboard_time": 1750994662,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 5370,
+        "num": 897232,
+        "word": "活力中国调研行",
+        "onboard_time": 1750933102,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 867191,
+        "num": 867191,
+        "word": "女子收到失联10年女儿死亡通知书",
+        "onboard_time": 1750999463,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 804617,
+        "num": 804617,
+        "word": "充电宝 退不了",
+        "onboard_time": 1750993701,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 564669,
+        "num": 564669,
+        "word": "一公园被举报采购天价树每棵近80万",
+        "onboard_time": 1750998084,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 730517,
+        "num": 561630,
+        "word": "杜嘉班纳 ELLE",
+        "onboard_time": 1750996223,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 492422,
+        "num": 492422,
+        "word": "相机电池不能上飞机",
+        "onboard_time": 1750995262,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 389777,
+        "num": 389777,
+        "word": "藏海传剧组白玉兰特邀出席",
+        "onboard_time": 1750998742,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 364935,
+        "num": 364935,
+        "word": "南航人打开朋友圈全是陈都灵",
+        "onboard_time": 1750995202,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1045047,
+        "num": 363054,
+        "word": "生父协助继母喂食1600片泻药虐女",
+        "onboard_time": 1750992081,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 703872,
+        "num": 362596,
+        "word": "女装流行无袖的原因",
+        "onboard_time": 1750992921,
+        "rank": 11,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 693877,
+        "num": 361115,
+        "word": "梓渝 丁禹兮",
+        "onboard_time": 1750987882,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55523,
+        "num": 358178,
+        "word": "烧伤男孩双拳紧握笔杆考出664分",
+        "onboard_time": 1751001562,
+        "rank": 13,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 174037,
+        "num": 356733,
+        "word": "31年前命案嫌疑人竟变身智库专家",
+        "onboard_time": 1751000483,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 390458,
+        "num": 354793,
+        "word": "卢昱晓好直观的瘦",
+        "onboard_time": 1750986442,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 353625,
+        "num": 353625,
+        "word": "张凌赫 红衣鬼王",
+        "onboard_time": 1750996464,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56926,
+        "num": 349568,
+        "word": "肯德基原神联动好火",
+        "onboard_time": 1751000843,
+        "rank": 17,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 168099,
+        "num": 348058,
+        "word": "华策艺人墙上的田栩宁",
+        "onboard_time": 1750999522,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53767,
+        "num": 347900,
+        "word": "无效努力让你比别人多吃很多苦",
+        "onboard_time": 1751001683,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 347763,
+        "num": 347763,
+        "word": "图书馆三十秒",
+        "onboard_time": 1750981161,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 331664,
+        "num": 331664,
+        "word": "aespa回归",
+        "onboard_time": 1750997661,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 322687,
+        "num": 322687,
+        "word": "小米汽车",
+        "onboard_time": 1750934422,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 307528,
+        "num": 307528,
+        "word": "小米股票",
+        "onboard_time": 1750989083,
+        "rank": 23,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 266509,
+        "num": 307521,
+        "word": "密室大逃脱",
+        "onboard_time": 1750995022,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205131,
+        "num": 303986,
+        "word": "aespa空降",
+        "onboard_time": 1751001202,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188885,
+        "num": 299486,
+        "word": "庆余年 大爆剧实感",
+        "onboard_time": 1750996584,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37284,
+        "num": 298586,
+        "word": "中国车跑纽北有什么意义",
+        "onboard_time": 1750998862,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 152801,
+        "num": 296396,
+        "word": "时代少年团收官文",
+        "onboard_time": 1751000903,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293877,
+        "num": 293877,
+        "word": "白玉兰奖电视剧单项奖入围名单",
+        "onboard_time": 1750994963,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281041,
+        "num": 281041,
+        "word": "70斤蟒蛇生吞30斤羊被活捉",
+        "onboard_time": 1751001143,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255655,
+        "num": 255655,
+        "word": "星巴克 老子是海妖",
+        "onboard_time": 1751000062,
+        "rank": 31,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 190641,
+        "num": 190641,
+        "word": "专家称抗皱化妆品不能直接宣传抗老",
+        "onboard_time": 1751001443,
+        "rank": 32,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 185965,
+        "num": 185965,
+        "word": "王楚然喊白鹿宝贝",
+        "onboard_time": 1750996763,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177741,
+        "num": 177741,
+        "word": "女生发现KTV不适标语勇敢举报",
+        "onboard_time": 1750984762,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177413,
+        "num": 177413,
+        "word": "李昀锐跑男公认身体好",
+        "onboard_time": 1750999223,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126252,
+        "num": 177404,
+        "word": "LV路易号",
+        "onboard_time": 1750997123,
+        "rank": 36,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 53801,
+        "num": 176844,
+        "word": "突然成了岳云鹏的生命粉",
+        "onboard_time": 1751000242,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120698,
+        "num": 176730,
+        "word": "刘亦菲LV巨轮转场",
+        "onboard_time": 1751001622,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 43553,
+        "num": 176299,
+        "word": "唐山陶瓷大妈哽咽了",
+        "onboard_time": 1751000483,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176127,
+        "num": 176127,
+        "word": "华策秒删",
+        "onboard_time": 1751000003,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176563,
+        "num": 175902,
+        "word": "湿气越吃越少的10种食物",
+        "onboard_time": 1750998683,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 174999,
+        "num": 174999,
+        "word": "美军巨型钻地弹测试画面曝光",
+        "onboard_time": 1751001143,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 157544,
+        "num": 157544,
+        "word": "退58.9万捐款妈妈回应儿子高考647分",
+        "onboard_time": 1750981822,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154500,
+        "num": 154500,
+        "word": "郭晓婷新剧嫁衣变战袍",
+        "onboard_time": 1751001022,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138134,
+        "num": 138134,
+        "word": "警方证实网红小四爷被带走",
+        "onboard_time": 1750983082,
+        "rank": 45,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 135268,
+        "num": 135268,
+        "word": "脂肪慢慢消失的6个信号",
+        "onboard_time": 1751001863,
+        "rank": 46,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 132980,
+        "num": 132980,
+        "word": "孟子义钓系纯欲姐感",
+        "onboard_time": 1751000604,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131619,
+        "num": 131619,
+        "word": "考上北大十年后只想当个普通人",
+        "onboard_time": 1750998382,
+        "rank": 48,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 128329,
+        "num": 128329,
+        "word": "于正删除书卷一梦宣传博",
+        "onboard_time": 1750988722,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈耕地保护#"
+    }
+  }
+}

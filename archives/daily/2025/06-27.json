@@ -1,6 +1,6 @@
 {
   "startTime": 1750955581651,
-  "endTime": 1750999845527,
+  "endTime": 1751002014631,
   "band_list": [
     {
       "raw_hot": 3091316,
@@ -33,6 +33,14 @@
       "onboard_time": 1750993701,
       "rank": 1,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1385618,
+      "num": 1385618,
+      "word": "难听",
+      "onboard_time": 1750999403,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 1245185,
@@ -75,6 +83,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 867191,
+      "num": 867191,
+      "word": "女子收到失联10年女儿死亡通知书",
+      "onboard_time": 1750999463,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 810852,
       "num": 363532,
       "word": "女生发现KTV不适标语勇敢举报",
@@ -99,7 +115,7 @@
       "category": "财经,汽车"
     },
     {
-      "raw_hot": 725957,
+      "raw_hot": 730517,
       "num": 725957,
       "word": "杜嘉班纳 ELLE",
       "onboard_time": 1750996223,
@@ -179,6 +195,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 564669,
+      "num": 564669,
+      "word": "一公园被举报采购天价树每棵近80万",
+      "onboard_time": 1750998084,
+      "rank": 17,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 543739,
       "num": 414193,
       "word": "以色列被曝拥有90枚核弹头",
@@ -249,14 +273,6 @@
       "onboard_time": 1750995202,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 490661,
-      "num": 490661,
-      "word": "一公园被举报采购天价树每棵近80万",
-      "onboard_time": 1750998084,
-      "rank": 17,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 483664,
@@ -387,14 +403,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 324761,
-      "num": 324761,
-      "word": "难听",
-      "onboard_time": 1750999403,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 322720,
       "num": 308941,
       "word": "表决通过新修订的治安管理处罚法",
@@ -419,6 +427,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 281041,
+      "num": 281041,
+      "word": "70斤蟒蛇生吞30斤羊被活捉",
+      "onboard_time": 1751001143,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 279829,
       "num": 298683,
       "word": "田栩宁方将取证",
@@ -428,19 +444,11 @@
     },
     {
       "raw_hot": 274865,
-      "num": 274865,
+      "num": 299486,
       "word": "庆余年 大爆剧实感",
       "onboard_time": 1750996584,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 272481,
-      "num": 272481,
-      "word": "女子收到失联10年女儿死亡通知书",
-      "onboard_time": 1750999463,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 269985,
@@ -449,6 +457,14 @@
       "onboard_time": 1750996763,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 255655,
+      "num": 255655,
+      "word": "星巴克 老子是海妖",
+      "onboard_time": 1751000062,
+      "rank": 31,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 253508,
@@ -619,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205131,
+      "num": 303986,
+      "word": "aespa空降",
+      "onboard_time": 1751001202,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 203654,
       "num": 203654,
       "word": "LV创飞星巴克",
@@ -668,7 +692,7 @@
     },
     {
       "raw_hot": 196472,
-      "num": 196472,
+      "num": 348058,
       "word": "华策艺人墙上的田栩宁",
       "onboard_time": 1750999522,
       "rank": 40,
@@ -697,6 +721,14 @@
       "onboard_time": 1750952423,
       "rank": 17,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 190641,
+      "num": 190641,
+      "word": "专家称抗皱化妆品不能直接宣传抗老",
+      "onboard_time": 1751001443,
+      "rank": 32,
+      "category": "美妆"
     },
     {
       "raw_hot": 189985,
@@ -729,6 +761,30 @@
       "onboard_time": 1750991481,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 176127,
+      "num": 176127,
+      "word": "华策秒删",
+      "onboard_time": 1751000003,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 174999,
+      "num": 174999,
+      "word": "美军巨型钻地弹测试画面曝光",
+      "onboard_time": 1751001143,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 174037,
+      "num": 356733,
+      "word": "31年前命案嫌疑人竟变身智库专家",
+      "onboard_time": 1751000483,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173321,
@@ -827,6 +883,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 154500,
+      "num": 154500,
+      "word": "郭晓婷新剧嫁衣变战袍",
+      "onboard_time": 1751001022,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 152801,
+      "num": 296396,
+      "word": "时代少年团收官文",
+      "onboard_time": 1751000903,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149689,
       "num": 149689,
       "word": "张勇等9人退出阿里合伙人",
@@ -915,12 +987,36 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 135268,
+      "num": 135268,
+      "word": "脂肪慢慢消失的6个信号",
+      "onboard_time": 1751001863,
+      "rank": 46,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 132980,
+      "num": 132980,
+      "word": "孟子义钓系纯欲姐感",
+      "onboard_time": 1751000604,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128489,
       "num": 128489,
       "word": "小米汽车板块大爆发",
       "onboard_time": 1750990762,
       "rank": 34,
       "category": "汽车,财经"
+    },
+    {
+      "raw_hot": 126252,
+      "num": 499896,
+      "word": "LV路易号",
+      "onboard_time": 1750997123,
+      "rank": 13,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 125456,
@@ -953,6 +1049,14 @@
       "onboard_time": 1750994422,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120698,
+      "num": 176730,
+      "word": "刘亦菲LV巨轮转场",
+      "onboard_time": 1751001622,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 118807,
@@ -1081,14 +1185,6 @@
       "onboard_time": 1750996283,
       "rank": 34,
       "category": "汽车,财经"
-    },
-    {
-      "raw_hot": 104000,
-      "num": 499896,
-      "word": "LV路易号",
-      "onboard_time": 1750997123,
-      "rank": 13,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 103882,
@@ -1355,6 +1451,38 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 56926,
+      "num": 349568,
+      "word": "肯德基原神联动好火",
+      "onboard_time": 1751000843,
+      "rank": 17,
+      "category": "游戏,美食"
+    },
+    {
+      "raw_hot": 55523,
+      "num": 358178,
+      "word": "烧伤男孩双拳紧握笔杆考出664分",
+      "onboard_time": 1751001562,
+      "rank": 13,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 53801,
+      "num": 176844,
+      "word": "突然成了岳云鹏的生命粉",
+      "onboard_time": 1751000242,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 53767,
+      "num": 347900,
+      "word": "无效努力让你比别人多吃很多苦",
+      "onboard_time": 1751001683,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 52812,
       "num": 52812,
       "word": "教育局回应学生体育课玩手机被处分",
@@ -1395,8 +1523,16 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 43553,
+      "num": 176299,
+      "word": "唐山陶瓷大妈哽咽了",
+      "onboard_time": 1751000483,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41697,
-      "num": 250010,
+      "num": 298586,
       "word": "中国车跑纽北有什么意义",
       "onboard_time": 1750998862,
       "rank": 42,
