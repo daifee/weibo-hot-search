@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1751028767448,
+  "endTime": 1751029670094,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -1579,6 +1579,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1724585,
+      "num": 1724585,
+      "word": "鹿晗演唱会",
+      "onboard_time": 1751017522,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1724117,
       "num": 488723,
       "word": "朱丹让女儿留级",
@@ -2204,7 +2212,7 @@
     },
     {
       "raw_hot": 1480543,
-      "num": 349184,
+      "num": 370645,
       "word": "郑欣宜受伤退出本期歌手",
       "onboard_time": 1751024724,
       "rank": 10,
@@ -2529,6 +2537,14 @@
       "onboard_time": 1748916019,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1389929,
+      "num": 545470,
+      "word": "白玉兰直播",
+      "onboard_time": 1751027604,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 1389730,
@@ -3803,14 +3819,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 1125353,
-      "num": 348281,
-      "word": "白玉兰直播",
-      "onboard_time": 1751027604,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1122764,
       "num": 347233,
       "word": "杨紫公主级别",
@@ -4377,14 +4385,6 @@
       "onboard_time": 1750758143,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1043455,
-      "num": 346885,
-      "word": "鹿晗演唱会",
-      "onboard_time": 1751017522,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 1042497,
@@ -6441,6 +6441,14 @@
       "onboard_time": 1750402342,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 819230,
+      "num": 264368,
+      "word": "单依纯编曲 难听",
+      "onboard_time": 1751029346,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 819122,
@@ -9291,6 +9299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 649048,
+      "num": 342450,
+      "word": "白玉兰预测",
+      "onboard_time": 1751012907,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 648864,
       "num": 648864,
       "word": "巴黎世家线上已下架4500元半身裙",
@@ -9593,6 +9609,14 @@
       "onboard_time": 1749256039,
       "rank": 5,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 636920,
+      "num": 256150,
+      "word": "单依纯顶个飞碟就上来了",
+      "onboard_time": 1751029165,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 636890,
@@ -10161,14 +10185,6 @@
       "onboard_time": 1748948542,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 616146,
-      "num": 342450,
-      "word": "白玉兰预测",
-      "onboard_time": 1751012907,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 615512,
@@ -14515,6 +14531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 469028,
+      "num": 469028,
+      "word": "美方相应取消对华有关限制措施",
+      "onboard_time": 1751025504,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 469014,
       "num": 915320,
       "word": "女子在电梯厅被头盔男抱起压倒在地",
@@ -17033,6 +17057,14 @@
       "onboard_time": 1750551920,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 405555,
+      "num": 405555,
+      "word": "第四十九号主席令",
+      "onboard_time": 1751028144,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 405544,
@@ -20009,14 +20041,6 @@
       "onboard_time": 1749712639,
       "rank": 21,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 349668,
-      "num": 349668,
-      "word": "美方相应取消对华有关限制措施",
-      "onboard_time": 1751025504,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 349337,
@@ -25393,6 +25417,14 @@
       "onboard_time": 1749825985,
       "rank": 31,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 275693,
+      "num": 346156,
+      "word": "多方回应湖南母子相继坠河身亡",
+      "onboard_time": 1751027003,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 275583,
@@ -33931,6 +33963,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 208941,
+      "num": 343689,
+      "word": "晚霞",
+      "onboard_time": 1751027365,
+      "rank": 24,
+      "category": "旅游,民生新闻"
+    },
+    {
       "raw_hot": 208924,
       "num": 267684,
       "word": "谭松韵原声台词听着太舒服了",
@@ -36737,6 +36777,14 @@
       "onboard_time": 1748833821,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 199725,
+      "num": 199725,
+      "word": "于适李昀锐Dior看秀造型",
+      "onboard_time": 1751029286,
+      "rank": 43,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 199717,
@@ -40955,6 +41003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187343,
+      "num": 187343,
+      "word": "林俊杰嘉宾颜人中",
+      "onboard_time": 1751028687,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 187328,
       "num": 187328,
       "word": "鹅剧派对红毯",
@@ -43009,14 +43065,6 @@
       "onboard_time": 1750085002,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 180850,
-      "num": 346156,
-      "word": "多方回应湖南母子相继坠河身亡",
-      "onboard_time": 1751027003,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 180807,
@@ -48964,7 +49012,7 @@
     },
     {
       "raw_hot": 162558,
-      "num": 179619,
+      "num": 223732,
       "word": "女子三餐水煮菜半年脂肪肝反而加重",
       "onboard_time": 1751020101,
       "rank": 49,
@@ -49049,14 +49097,6 @@
       "onboard_time": 1750044981,
       "rank": 42,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 162272,
-      "num": 343689,
-      "word": "晚霞",
-      "onboard_time": 1751027365,
-      "rank": 24,
-      "category": "旅游,民生新闻"
     },
     {
       "raw_hot": 162260,
@@ -60747,14 +60787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 132923,
-      "num": 317532,
-      "word": "第四十九号主席令",
-      "onboard_time": 1751028144,
-      "rank": 36,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 132909,
       "num": 132909,
       "word": "博士很有用的",
@@ -63363,6 +63395,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 127534,
+      "num": 171243,
+      "word": "雷军回应湖北仙桃贺电",
+      "onboard_time": 1751029465,
+      "rank": 48,
+      "category": "汽车,互联网"
+    },
+    {
       "raw_hot": 127514,
       "num": 127514,
       "word": "鞠婧祎生日单曲落日未眠",
@@ -64305,6 +64345,14 @@
       "onboard_time": 1751028503,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125419,
+      "num": 267903,
+      "word": "宠物猫放生宠物蛇吓坏邻居",
+      "onboard_time": 1751028444,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125410,
@@ -70409,6 +70457,14 @@
       "onboard_time": 1750463598,
       "rank": 37,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 110780,
+      "num": 341812,
+      "word": "吉林农大有学生躺卫生间水池降温",
+      "onboard_time": 1751027544,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110776,
@@ -79835,6 +79891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76174,
+      "num": 274150,
+      "word": "妻女患癌丈夫深夜直播跳舞挣钱",
+      "onboard_time": 1751029286,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76150,
       "num": 128777,
       "word": "现实版太乙飞猪",
@@ -79953,14 +80017,6 @@
       "onboard_time": 1750981161,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 75562,
-      "num": 341812,
-      "word": "吉林农大有学生躺卫生间水池降温",
-      "onboard_time": 1751027544,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75412,
@@ -92387,6 +92443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 30077,
+      "num": 246304,
+      "word": "羽生结弦双封面杂志反差感",
+      "onboard_time": 1751028384,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30056,
       "num": 163304,
       "word": "以方称伊朗袭击医院已越红线",
@@ -94345,14 +94409,6 @@
       "onboard_time": 1750996883,
       "rank": 39,
       "category": "民生新闻,数码"
-    },
-    {
-      "raw_hot": 24715,
-      "num": 246304,
-      "word": "羽生结弦双封面杂志反差感",
-      "onboard_time": 1751028384,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 24701,
@@ -98347,6 +98403,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 13545,
+      "num": 217451,
+      "word": "中国机甲的前世今生",
+      "onboard_time": 1751029644,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 13512,
       "num": 168810,
       "word": "裸辞空窗期如何保持自律",
@@ -98905,6 +98969,14 @@
       "onboard_time": 1749476303,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 11322,
+      "num": 250274,
+      "word": "解限机是什么",
+      "onboard_time": 1751029644,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 11303,

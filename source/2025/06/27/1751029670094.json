@@ -1,0 +1,410 @@
+{
+  "runTime": 1751029670094,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2483346,
+        "num": 2483346,
+        "word": "刘亦菲没走红毯",
+        "onboard_time": 1751024063,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1724585,
+        "num": 1724585,
+        "word": "鹿晗演唱会",
+        "onboard_time": 1751017522,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 76231,
+        "num": 1217292,
+        "word": "2025高考招生录取新变化新趋势",
+        "onboard_time": 1751013087,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 786009,
+        "num": 786009,
+        "word": "洞洞鞋 真菌感染",
+        "onboard_time": 1751011707,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 558736,
+        "num": 558736,
+        "word": "上海暴雨",
+        "onboard_time": 1751024782,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 729671,
+        "num": 552760,
+        "word": "香港四大才子均已逝世",
+        "onboard_time": 1751011827,
+        "rank": 5,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 1389929,
+        "num": 545470,
+        "word": "白玉兰直播",
+        "onboard_time": 1751027604,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1152879,
+        "num": 529094,
+        "word": "蔡澜去世",
+        "onboard_time": 1751010686,
+        "rank": 7,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 469028,
+        "num": 469028,
+        "word": "美方相应取消对华有关限制措施",
+        "onboard_time": 1751025504,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 405555,
+        "num": 405555,
+        "word": "第四十九号主席令",
+        "onboard_time": 1751028144,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1190551,
+        "num": 370645,
+        "word": "郑欣宜受伤退出本期歌手",
+        "onboard_time": 1751024724,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1039602,
+        "num": 339587,
+        "word": "关晓彤妆造正确",
+        "onboard_time": 1751023342,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 952089,
+        "num": 334662,
+        "word": "杨紫公主级别",
+        "onboard_time": 1751027304,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275693,
+        "num": 275693,
+        "word": "多方回应湖南母子相继坠河身亡",
+        "onboard_time": 1751027003,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37259,
+        "num": 275125,
+        "word": "陈楚生说从vivo影像里看自己",
+        "onboard_time": 1751026164,
+        "rank": 14,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 76174,
+        "num": 274150,
+        "word": "妻女患癌丈夫深夜直播跳舞挣钱",
+        "onboard_time": 1751029286,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 863456,
+        "num": 271987,
+        "word": "歌手直播",
+        "onboard_time": 1751025744,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208941,
+        "num": 271273,
+        "word": "晚霞",
+        "onboard_time": 1751027365,
+        "rank": 17,
+        "category": "旅游,民生新闻"
+      },
+      {
+        "raw_hot": 184094,
+        "num": 269862,
+        "word": "伊万不再担任国足主教练",
+        "onboard_time": 1751024602,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125419,
+        "num": 267903,
+        "word": "宠物猫放生宠物蛇吓坏邻居",
+        "onboard_time": 1751028444,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1151593,
+        "num": 267009,
+        "word": "男子强奸女儿致其产女又性侵外孙女",
+        "onboard_time": 1751007382,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 819955,
+        "num": 266088,
+        "word": "小巷人家",
+        "onboard_time": 1751022981,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 819230,
+        "num": 264368,
+        "word": "单依纯编曲 难听",
+        "onboard_time": 1751029346,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 795108,
+        "num": 262489,
+        "word": "陈楚生唱哭我了",
+        "onboard_time": 1751027544,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115174,
+        "num": 261154,
+        "word": "久尔杰维奇执教国足",
+        "onboard_time": 1751028503,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 755759,
+        "num": 260046,
+        "word": "白玉兰红毯",
+        "onboard_time": 1751019502,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 704458,
+        "num": 258979,
+        "word": "鹿晗消瘦模样大变",
+        "onboard_time": 1751012547,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 649048,
+        "num": 257622,
+        "word": "白玉兰预测",
+        "onboard_time": 1751012907,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 636920,
+        "num": 256150,
+        "word": "单依纯顶个飞碟就上来了",
+        "onboard_time": 1751029165,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151917,
+        "num": 255534,
+        "word": "上海女硕士被大专男骗财骗色骗卵",
+        "onboard_time": 1751006961,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 576283,
+        "num": 253036,
+        "word": "蔡澜曾谈怎样面对亲友离世",
+        "onboard_time": 1751019322,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 569548,
+        "num": 252172,
+        "word": "杨紫顶级高定内娱首秀",
+        "onboard_time": 1751021841,
+        "rank": 31,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 485721,
+        "num": 251240,
+        "word": "蔡徐坤篮球梗自己cue自己",
+        "onboard_time": 1751022202,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250348,
+        "num": 250348,
+        "word": "恋与深空婚卡",
+        "onboard_time": 1751026583,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115101,
+        "num": 250290,
+        "word": "恋与深空",
+        "onboard_time": 1750996525,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 11322,
+        "num": 250274,
+        "word": "解限机是什么",
+        "onboard_time": 1751029644,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 291236,
+        "num": 250273,
+        "word": "歌手海报质感",
+        "onboard_time": 1751019142,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250266,
+        "num": 250266,
+        "word": "恋与深空兑换码",
+        "onboard_time": 1751026284,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 249737,
+        "num": 249737,
+        "word": "上海白玉兰颁奖典礼红毯嘉宾阵容",
+        "onboard_time": 1751014705,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47916,
+        "num": 223732,
+        "word": "女子三餐水煮菜半年脂肪肝反而加重",
+        "onboard_time": 1751020101,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222701,
+        "num": 222701,
+        "word": "藏海传剧组白玉兰重聚",
+        "onboard_time": 1751024483,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13545,
+        "num": 217451,
+        "word": "中国机甲的前世今生",
+        "onboard_time": 1751029644,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 217081,
+        "num": 217081,
+        "word": "歌手顺序",
+        "onboard_time": 1751027244,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199725,
+        "num": 199725,
+        "word": "于适李昀锐Dior看秀造型",
+        "onboard_time": 1751029286,
+        "rank": 43,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 30077,
+        "num": 199711,
+        "word": "羽生结弦双封面杂志反差感",
+        "onboard_time": 1751028384,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199707,
+        "num": 199707,
+        "word": "大梦",
+        "onboard_time": 1751028624,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187343,
+        "num": 187343,
+        "word": "林俊杰嘉宾颜人中",
+        "onboard_time": 1751028687,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187521,
+        "num": 178955,
+        "word": "章子怡 尽力了",
+        "onboard_time": 1751023822,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127534,
+        "num": 171243,
+        "word": "雷军回应湖北仙桃贺电",
+        "onboard_time": 1751029465,
+        "rank": 48,
+        "category": "汽车,互联网"
+      },
+      {
+        "raw_hot": 110780,
+        "num": 170485,
+        "word": "吉林农大有学生躺卫生间水池降温",
+        "onboard_time": 1751027544,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见塞内加尔总理#"
+    }
+  }
+}
