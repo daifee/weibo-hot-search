@@ -1,0 +1,410 @@
+{
+  "runTime": 1751042827335,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3556186,
+        "num": 3556186,
+        "word": "宋佳白玉兰视后",
+        "onboard_time": 1751036790,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1804153,
+        "num": 1804153,
+        "word": "白玉兰获奖名单",
+        "onboard_time": 1751032048,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45517,
+        "num": 1056889,
+        "word": "7月这些新规影响你我",
+        "onboard_time": 1751031627,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 667398,
+        "num": 667398,
+        "word": "男子杀害女友藏尸酒店床底被执死刑",
+        "onboard_time": 1751038763,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 614512,
+        "num": 614512,
+        "word": "小猫误入洗衣机转了55分钟3000转",
+        "onboard_time": 1751037694,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 461898,
+        "num": 461898,
+        "word": "被打还手即互殴成为历史",
+        "onboard_time": 1751037269,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1128278,
+        "num": 432892,
+        "word": "蒋欣获奖关晓彤哭了",
+        "onboard_time": 1751037031,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 969400,
+        "num": 430049,
+        "word": "鹿晗这个退场",
+        "onboard_time": 1751038705,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 316186,
+        "num": 316186,
+        "word": "家属回应女儿高考288分爆火被指炒作",
+        "onboard_time": 1751039905,
+        "rank": 8,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 288989,
+        "num": 288989,
+        "word": "洞洞鞋 真菌感染",
+        "onboard_time": 1751011707,
+        "rank": 9,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 815283,
+        "num": 288601,
+        "word": "单依纯哭了",
+        "onboard_time": 1751035950,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 679602,
+        "num": 284878,
+        "word": "杨紫台下那一声尖叫",
+        "onboard_time": 1751038526,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 600611,
+        "num": 284295,
+        "word": "刘亦菲没去白玉兰",
+        "onboard_time": 1751030665,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 526717,
+        "num": 280312,
+        "word": "蒋欣回应早该拿奖了",
+        "onboard_time": 1751040804,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115648,
+        "num": 279544,
+        "word": "当地回应一干部三次犯罪仍被提拔",
+        "onboard_time": 1751041165,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 367099,
+        "num": 276731,
+        "word": "陈星旭因病住院",
+        "onboard_time": 1751040745,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275003,
+        "num": 275003,
+        "word": "美一飞船失控150人骨灰全扬了",
+        "onboard_time": 1751030364,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 213063,
+        "num": 213063,
+        "word": "美国多州报告火球从天而降",
+        "onboard_time": 1751037694,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 173470,
+        "num": 212976,
+        "word": "张家界人造古城营业4年亏了10多亿",
+        "onboard_time": 1751039005,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 136590,
+        "num": 212798,
+        "word": "美军打击伊朗核设施筹备了15年",
+        "onboard_time": 1751040086,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 486193,
+        "num": 212630,
+        "word": "蔡澜去世",
+        "onboard_time": 1751010686,
+        "rank": 20,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 471958,
+        "num": 212552,
+        "word": "居然不是闫妮",
+        "onboard_time": 1751037389,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 444649,
+        "num": 212358,
+        "word": "靳东白玉兰视帝",
+        "onboard_time": 1751036009,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122372,
+        "num": 212195,
+        "word": "吉林大学 支帐篷过夜",
+        "onboard_time": 1751029825,
+        "rank": 23,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 76356,
+        "num": 212050,
+        "word": "黄金",
+        "onboard_time": 1751034088,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 299251,
+        "num": 211845,
+        "word": "边水往事",
+        "onboard_time": 1751039965,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263834,
+        "num": 211709,
+        "word": "鹿晗演唱会",
+        "onboard_time": 1751017522,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 258443,
+        "num": 211483,
+        "word": "歌手排名",
+        "onboard_time": 1751032589,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74908,
+        "num": 211323,
+        "word": "退学北大男生被说是最差年级第一",
+        "onboard_time": 1751022143,
+        "rank": 28,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 69929,
+        "num": 211247,
+        "word": "社区回应四川一名儿童不慎坠亡",
+        "onboard_time": 1751041583,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249893,
+        "num": 211022,
+        "word": "王安全的弟弟王安宇",
+        "onboard_time": 1751040864,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232253,
+        "num": 210979,
+        "word": "马嘉祺回来吧",
+        "onboard_time": 1751032048,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228523,
+        "num": 210811,
+        "word": "王宝强奖运",
+        "onboard_time": 1751041945,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215135,
+        "num": 210637,
+        "word": "我是刑警",
+        "onboard_time": 1751039185,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67052,
+        "num": 210364,
+        "word": "香港四大才子均已逝世",
+        "onboard_time": 1751011827,
+        "rank": 34,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 210364,
+        "num": 210363,
+        "word": "章若楠王楚然 跑男",
+        "onboard_time": 1751041525,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65943,
+        "num": 210025,
+        "word": "多方回应湖南母子相继坠河身亡",
+        "onboard_time": 1751027003,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65207,
+        "num": 209817,
+        "word": "上海暴雨",
+        "onboard_time": 1751024782,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63206,
+        "num": 208891,
+        "word": "恋与深空婚卡",
+        "onboard_time": 1751026583,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 59663,
+        "num": 208505,
+        "word": "中国为啥不愿买美国石油",
+        "onboard_time": 1751038705,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 208356,
+        "num": 208356,
+        "word": "白玉兰直播",
+        "onboard_time": 1751027604,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201647,
+        "num": 201647,
+        "word": "单依纯 下一季不来了",
+        "onboard_time": 1751032949,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196288,
+        "num": 196288,
+        "word": "郑欣宜谢谢歌手",
+        "onboard_time": 1751041224,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184659,
+        "num": 184659,
+        "word": "付航段子 没人笑",
+        "onboard_time": 1751036429,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169165,
+        "num": 169165,
+        "word": "于和伟陪跑",
+        "onboard_time": 1751036971,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165673,
+        "num": 165673,
+        "word": "宋佳实至名归",
+        "onboard_time": 1751037508,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57431,
+        "num": 162484,
+        "word": "上海女硕士被大专男骗财骗色骗卵",
+        "onboard_time": 1751006961,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41977,
+        "num": 159952,
+        "word": "女子举报前公婆涉贪事件谁在说谎",
+        "onboard_time": 1751040864,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49331,
+        "num": 153007,
+        "word": "美方相应取消对华有关限制措施",
+        "onboard_time": 1751025504,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 47026,
+        "num": 150960,
+        "word": "豆瓣崩了",
+        "onboard_time": 1751034929,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见厄瓜多尔总统#"
+    }
+  }
+}
