@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1751031407142,
+  "endTime": 1751032120070,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -49,6 +49,14 @@
       "onboard_time": 1749261200,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 13735630,
+      "num": 13735630,
+      "word": "白玉兰内场",
+      "onboard_time": 1751030304,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 13667346,
@@ -121,14 +129,6 @@
       "onboard_time": 1749369980,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 10164984,
-      "num": 10164984,
-      "word": "白玉兰内场",
-      "onboard_time": 1751030304,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 9737897,
@@ -779,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2411054,
+      "num": 2411054,
+      "word": "鹿晗演唱会",
+      "onboard_time": 1751017522,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 2405502,
       "num": 469748,
       "word": "李艺彤没成团",
@@ -1411,14 +1419,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 1823007,
-      "num": 1724585,
-      "word": "鹿晗演唱会",
-      "onboard_time": 1751017522,
-      "rank": 42,
-      "category": "演出"
-    },
-    {
       "raw_hot": 1817753,
       "num": 826209,
       "word": "健身房 脏",
@@ -1601,6 +1601,14 @@
       "onboard_time": 1748917521,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1724176,
+      "num": 682708,
+      "word": "刘亦菲没去白玉兰",
+      "onboard_time": 1751030665,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 1724117,
@@ -2825,14 +2833,6 @@
       "onboard_time": 1749090859,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1310372,
-      "num": 682708,
-      "word": "刘亦菲没去白玉兰",
-      "onboard_time": 1751030665,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 1309842,
@@ -5227,6 +5227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 947806,
+      "num": 255075,
+      "word": "白玉兰获奖名单",
+      "onboard_time": 1751032048,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 946928,
       "num": 1151508,
       "word": "王彦霖回朱丹我女儿不能这样",
@@ -6369,6 +6377,14 @@
       "onboard_time": 1750774945,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 831277,
+      "num": 831277,
+      "word": "美一飞船失控150人骨灰全扬了",
+      "onboard_time": 1751030364,
+      "rank": 5,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 831124,
@@ -8699,14 +8715,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 683722,
-      "num": 683722,
-      "word": "美一飞船失控150人骨灰全扬了",
-      "onboard_time": 1751030364,
-      "rank": 5,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 683331,
       "num": 683331,
       "word": "女子称跟猥亵司机住同小区怕被报复",
@@ -9753,6 +9761,14 @@
       "onboard_time": 1749963679,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 632621,
+      "num": 501214,
+      "word": "GAI唱兰花草拿什么输",
+      "onboard_time": 1751030906,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 632042,
@@ -12451,6 +12467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 529007,
+      "num": 462915,
+      "word": "陈楚生唱了9分钟",
+      "onboard_time": 1751031025,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 528945,
       "num": 528945,
       "word": "美航母驶向中东并关闭位置信息",
@@ -13313,14 +13337,6 @@
       "onboard_time": 1748859080,
       "rank": 8,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 501214,
-      "num": 501214,
-      "word": "GAI唱兰花草拿什么输",
-      "onboard_time": 1751030906,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 501166,
@@ -14865,14 +14881,6 @@
       "onboard_time": 1749392544,
       "rank": 14,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 462915,
-      "num": 462915,
-      "word": "陈楚生唱了9分钟",
-      "onboard_time": 1751031025,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 462772,
@@ -17163,6 +17171,14 @@
       "category": "国际时政,民生新闻"
     },
     {
+      "raw_hot": 404894,
+      "num": 341312,
+      "word": "歌手海报质感",
+      "onboard_time": 1751019142,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 404886,
       "num": 404886,
       "word": "印尼考虑购买歼10",
@@ -17569,6 +17585,14 @@
       "onboard_time": 1750201577,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 396953,
+      "num": 377521,
+      "word": "杨紫关晓彤互动",
+      "onboard_time": 1751031087,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 396550,
@@ -18059,14 +18083,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 386470,
-      "num": 341312,
-      "word": "歌手海报质感",
-      "onboard_time": 1751019142,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 386358,
       "num": 386358,
       "word": "以为没事可能是糖尿病的早期症状",
@@ -18496,14 +18512,6 @@
       "word": "杨紫差点让胡歌提前杀青",
       "onboard_time": 1750574961,
       "rank": 17,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 377521,
-      "num": 377521,
-      "word": "杨紫关晓彤互动",
-      "onboard_time": 1751031087,
-      "rank": 35,
       "category": "剧集"
     },
     {
@@ -25633,6 +25641,14 @@
       "onboard_time": 1750944744,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 274334,
+      "num": 191721,
+      "word": "马嘉祺回来吧",
+      "onboard_time": 1751032048,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 274313,
@@ -32803,6 +32819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215687,
+      "num": 191247,
+      "word": "童瑶腰身比",
+      "onboard_time": 1751030966,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215628,
       "num": 215628,
       "word": "Switch2发售",
@@ -33729,6 +33753,14 @@
       "onboard_time": 1749798802,
       "rank": 18,
       "category": "美食"
+    },
+    {
+      "raw_hot": 210699,
+      "num": 681830,
+      "word": "吉林大学 支帐篷过夜",
+      "onboard_time": 1751029825,
+      "rank": 18,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 210643,
@@ -37307,6 +37339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198582,
+      "num": 681748,
+      "word": "宠物猫放生宠物蛇吓坏邻居",
+      "onboard_time": 1751028444,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198536,
       "num": 262126,
       "word": "方大同原本工作排到了2027年",
@@ -39043,14 +39083,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 193166,
-      "num": 681830,
-      "word": "吉林大学 支帐篷过夜",
-      "onboard_time": 1751029825,
-      "rank": 18,
-      "category": "教育,民生新闻"
-    },
-    {
       "raw_hot": 193155,
       "num": 291865,
       "word": "A股光线传媒涨停",
@@ -39776,6 +39808,14 @@
       "word": "魅影神捕开机",
       "onboard_time": 1749779361,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 190849,
+      "num": 190849,
+      "word": "高海宁把玫瑰穿在了身上",
+      "onboard_time": 1751031627,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -41467,14 +41507,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 186264,
-      "num": 186264,
-      "word": "童瑶腰身比",
-      "onboard_time": 1751030966,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 186251,
       "num": 371563,
       "word": "社区书记开车追撞电瓶车被拘",
@@ -43065,14 +43097,6 @@
       "onboard_time": 1750945224,
       "rank": 39,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 181078,
-      "num": 681748,
-      "word": "宠物猫放生宠物蛇吓坏邻居",
-      "onboard_time": 1751028444,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 181047,
@@ -51996,7 +52020,7 @@
     },
     {
       "raw_hot": 154288,
-      "num": 171243,
+      "num": 190834,
       "word": "雷军回应湖北仙桃贺电",
       "onboard_time": 1751029465,
       "rank": 48,
@@ -67779,6 +67803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117202,
+      "num": 190776,
+      "word": "台湾彩民花800元独揽17亿头奖",
+      "onboard_time": 1751032048,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117196,
       "num": 117196,
       "word": "西双版纳3.6级地震",
@@ -72931,6 +72963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103357,
+      "num": 520858,
+      "word": "百万元新房被陌生人装修入住",
+      "onboard_time": 1751030004,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103342,
       "num": 506414,
       "word": "伊朗曾通过中间人威胁特朗普",
@@ -77235,6 +77275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88260,
+      "num": 288201,
+      "word": "秦彻那就留下更多记忆吧",
+      "onboard_time": 1751031025,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 88224,
       "num": 199442,
       "word": "老舍在武汉抗战事迹进入高考语文",
@@ -78057,14 +78105,6 @@
       "onboard_time": 1750933282,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 84467,
-      "num": 520858,
-      "word": "百万元新房被陌生人装修入住",
-      "onboard_time": 1751030004,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 84387,
@@ -81400,6 +81440,14 @@
       "word": "男子聚餐后冻死街头家属起诉4同事",
       "onboard_time": 1750821682,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69788,
+      "num": 294997,
+      "word": "荔枝跌至1斤1块钱已近成本线",
+      "onboard_time": 1751023704,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -87417,14 +87465,6 @@
       "onboard_time": 1750875256,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45711,
-      "num": 288201,
-      "word": "秦彻那就留下更多记忆吧",
-      "onboard_time": 1751031025,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 45644,
@@ -96331,6 +96371,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 20106,
+      "num": 303885,
+      "word": "跟长安的荔枝学申论",
+      "onboard_time": 1751030304,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 20066,
       "num": 299676,
       "word": "家属质疑首家医院未交接检查延误治疗",
@@ -96377,6 +96425,14 @@
       "onboard_time": 1748787141,
       "rank": 7,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 19927,
+      "num": 297929,
+      "word": "中国机甲的前世今生",
+      "onboard_time": 1751029644,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 19925,
@@ -96587,6 +96643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19410,
+      "num": 891458,
+      "word": "7月这些新规影响你我",
+      "onboard_time": 1751031627,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19385,
       "num": 142325,
       "word": "大V聊车",
@@ -96665,14 +96729,6 @@
       "onboard_time": 1750793534,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 19173,
-      "num": 297929,
-      "word": "中国机甲的前世今生",
-      "onboard_time": 1751029644,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 19114,
@@ -96953,14 +97009,6 @@
       "onboard_time": 1750536674,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 18455,
-      "num": 303885,
-      "word": "跟长安的荔枝学申论",
-      "onboard_time": 1751030304,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 18425,

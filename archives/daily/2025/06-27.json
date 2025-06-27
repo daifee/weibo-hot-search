@@ -1,7 +1,15 @@
 {
   "startTime": 1750955581651,
-  "endTime": 1751031407142,
+  "endTime": 1751032120070,
   "band_list": [
+    {
+      "raw_hot": 13735630,
+      "num": 13735630,
+      "word": "白玉兰内场",
+      "onboard_time": 1751030304,
+      "rank": 0,
+      "category": "剧集"
+    },
     {
       "raw_hot": 12136998,
       "num": 12136998,
@@ -9,14 +17,6 @@
       "onboard_time": 1751010686,
       "rank": 0,
       "category": "艺人,艺人"
-    },
-    {
-      "raw_hot": 10164984,
-      "num": 10164984,
-      "word": "白玉兰内场",
-      "onboard_time": 1751030304,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 3267879,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2411054,
+      "num": 2411054,
+      "word": "鹿晗演唱会",
+      "onboard_time": 1751017522,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 2213808,
       "num": 2213808,
       "word": "白玉兰红毯",
@@ -99,12 +107,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1823007,
-      "num": 1724585,
-      "word": "鹿晗演唱会",
-      "onboard_time": 1751017522,
-      "rank": 42,
-      "category": "演出"
+      "raw_hot": 1724176,
+      "num": 682708,
+      "word": "刘亦菲没去白玉兰",
+      "onboard_time": 1751030665,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 1611274,
@@ -153,14 +161,6 @@
       "onboard_time": 1750999403,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1310372,
-      "num": 682708,
-      "word": "刘亦菲没去白玉兰",
-      "onboard_time": 1751030665,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 1262762,
@@ -275,6 +275,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 947806,
+      "num": 255075,
+      "word": "白玉兰获奖名单",
+      "onboard_time": 1751032048,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 937063,
       "num": 666393,
       "word": "桃黑黑中彩票",
@@ -321,6 +329,14 @@
       "onboard_time": 1751028144,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 831277,
+      "num": 831277,
+      "word": "美一飞船失控150人骨灰全扬了",
+      "onboard_time": 1751030364,
+      "rank": 5,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 810852,
@@ -403,14 +419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 683722,
-      "num": 683722,
-      "word": "美一飞船失控150人骨灰全扬了",
-      "onboard_time": 1751030364,
-      "rank": 5,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 675150,
       "num": 343202,
       "word": "蔡徐坤篮球梗自己cue自己",
@@ -465,6 +473,14 @@
       "onboard_time": 1750984942,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 632621,
+      "num": 501214,
+      "word": "GAI唱兰花草拿什么输",
+      "onboard_time": 1751030906,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 626975,
@@ -571,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 529007,
+      "num": 462915,
+      "word": "陈楚生唱了9分钟",
+      "onboard_time": 1751031025,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 525265,
       "num": 525265,
       "word": "藏海传剧组白玉兰特邀出席",
@@ -617,14 +641,6 @@
       "onboard_time": 1751011888,
       "rank": 14,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 501214,
-      "num": 501214,
-      "word": "GAI唱兰花草拿什么输",
-      "onboard_time": 1751030906,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 498953,
@@ -707,14 +723,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 462915,
-      "num": 462915,
-      "word": "陈楚生唱了9分钟",
-      "onboard_time": 1751031025,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 447253,
       "num": 341668,
       "word": "者来女 难听",
@@ -763,6 +771,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 404894,
+      "num": 341312,
+      "word": "歌手海报质感",
+      "onboard_time": 1751019142,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 403306,
       "num": 403306,
       "word": "刘亦菲美的不知天地为何物了",
@@ -777,6 +793,14 @@
       "onboard_time": 1751002642,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 396953,
+      "num": 377521,
+      "word": "杨紫关晓彤互动",
+      "onboard_time": 1751031087,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 393278,
@@ -811,14 +835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 386470,
-      "num": 341312,
-      "word": "歌手海报质感",
-      "onboard_time": 1751019142,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 384126,
       "num": 215130,
       "word": "邓超送鹿晗签名照",
@@ -840,14 +856,6 @@
       "word": "白玉兰提名的压迫感",
       "onboard_time": 1750953322,
       "rank": 4,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 377521,
-      "num": 377521,
-      "word": "杨紫关晓彤互动",
-      "onboard_time": 1751031087,
-      "rank": 35,
       "category": "剧集"
     },
     {
@@ -1025,6 +1033,14 @@
       "onboard_time": 1750996584,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 274334,
+      "num": 191721,
+      "word": "马嘉祺回来吧",
+      "onboard_time": 1751032048,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 270508,
@@ -1243,6 +1259,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 215687,
+      "num": 191247,
+      "word": "童瑶腰身比",
+      "onboard_time": 1751030966,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215331,
       "num": 261483,
       "word": "酱园弄八十年前的上桌吃饭",
@@ -1265,6 +1289,14 @@
       "onboard_time": 1750998683,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 210699,
+      "num": 681830,
+      "word": "吉林大学 支帐篷过夜",
+      "onboard_time": 1751029825,
+      "rank": 18,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 210281,
@@ -1443,6 +1475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 198582,
+      "num": 681748,
+      "word": "宠物猫放生宠物蛇吓坏邻居",
+      "onboard_time": 1751028444,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198088,
       "num": 198088,
       "word": "小米发布会",
@@ -1507,14 +1547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 193166,
-      "num": 681830,
-      "word": "吉林大学 支帐篷过夜",
-      "onboard_time": 1751029825,
-      "rank": 18,
-      "category": "教育,民生新闻"
-    },
-    {
       "raw_hot": 193058,
       "num": 193058,
       "word": "桃花映江山的妾室第二人居然是莲房",
@@ -1537,6 +1569,14 @@
       "onboard_time": 1750952423,
       "rank": 17,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 190849,
+      "num": 190849,
+      "word": "高海宁把玫瑰穿在了身上",
+      "onboard_time": 1751031627,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 190654,
@@ -1603,14 +1643,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 186264,
-      "num": 186264,
-      "word": "童瑶腰身比",
-      "onboard_time": 1751030966,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 185985,
       "num": 185985,
       "word": "广东696分考生笑称北大晚了一点",
@@ -1665,14 +1697,6 @@
       "onboard_time": 1751002942,
       "rank": 41,
       "category": "数码"
-    },
-    {
-      "raw_hot": 181078,
-      "num": 681748,
-      "word": "宠物猫放生宠物蛇吓坏邻居",
-      "onboard_time": 1751028444,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 181017,
@@ -1980,7 +2004,7 @@
     },
     {
       "raw_hot": 154288,
-      "num": 171243,
+      "num": 190834,
       "word": "雷军回应湖北仙桃贺电",
       "onboard_time": 1751029465,
       "rank": 48,
@@ -2499,6 +2523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117202,
+      "num": 190776,
+      "word": "台湾彩民花800元独揽17亿头奖",
+      "onboard_time": 1751032048,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116802,
       "num": 116802,
       "word": "多只带马字个股涨停",
@@ -2691,6 +2723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103357,
+      "num": 520858,
+      "word": "百万元新房被陌生人装修入住",
+      "onboard_time": 1751030004,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102721,
       "num": 505904,
       "word": "明确公安学校协同治理校园欺凌",
@@ -2867,6 +2907,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 88260,
+      "num": 288201,
+      "word": "秦彻那就留下更多记忆吧",
+      "onboard_time": 1751031025,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 87962,
       "num": 209617,
       "word": "男子境外遥控父亲境内贩毒",
@@ -2936,14 +2984,6 @@
       "word": "2025高考招生录取新变化新趋势",
       "onboard_time": 1751013087,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 84467,
-      "num": 520858,
-      "word": "百万元新房被陌生人装修入住",
-      "onboard_time": 1751030004,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -3096,6 +3136,14 @@
       "word": "预计今年高考志愿付费规模超10亿元",
       "onboard_time": 1751019681,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69788,
+      "num": 294997,
+      "word": "荔枝跌至1斤1块钱已近成本线",
+      "onboard_time": 1751023704,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -3257,14 +3305,6 @@
       "onboard_time": 1751006001,
       "rank": 39,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 45711,
-      "num": 288201,
-      "word": "秦彻那就留下更多记忆吧",
-      "onboard_time": 1751031025,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 45096,
@@ -3555,7 +3595,15 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19173,
+      "raw_hot": 20106,
+      "num": 303885,
+      "word": "跟长安的荔枝学申论",
+      "onboard_time": 1751030304,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 19927,
       "num": 297929,
       "word": "中国机甲的前世今生",
       "onboard_time": 1751029644,
@@ -3563,12 +3611,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 18455,
-      "num": 303885,
-      "word": "跟长安的荔枝学申论",
-      "onboard_time": 1751030304,
-      "rank": 38,
-      "category": "剧集"
+      "raw_hot": 19410,
+      "num": 891458,
+      "word": "7月这些新规影响你我",
+      "onboard_time": 1751031627,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17763,
