@@ -1,6 +1,6 @@
 {
   "startTime": 1750955581651,
-  "endTime": 1751020130661,
+  "endTime": 1751021191298,
   "band_list": [
     {
       "raw_hot": 12136998,
@@ -41,6 +41,14 @@
       "onboard_time": 1751012547,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2213808,
+      "num": 2213808,
+      "word": "白玉兰红毯",
+      "onboard_time": 1751019502,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 2009906,
@@ -155,12 +163,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 936541,
-      "num": 936541,
-      "word": "白玉兰红毯",
-      "onboard_time": 1751019502,
-      "rank": 3,
-      "category": "综艺"
+      "raw_hot": 937063,
+      "num": 666393,
+      "word": "桃黑黑中彩票",
+      "onboard_time": 1751018244,
+      "rank": 6,
+      "category": "网红"
     },
     {
       "raw_hot": 915565,
@@ -243,20 +251,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 708094,
-      "num": 513133,
-      "word": "桃黑黑中彩票",
-      "onboard_time": 1751018244,
-      "rank": 6,
-      "category": "网红"
-    },
-    {
       "raw_hot": 687974,
       "num": 288563,
       "word": "6岁女孩被西贝服务员拍照当背景图",
       "onboard_time": 1750954702,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 673807,
+      "num": 673807,
+      "word": "李在明下馆子喝鱼汤被记者追问",
+      "onboard_time": 1751016862,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 673150,
@@ -315,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 594492,
+      "num": 259156,
+      "word": "者来女 谢娜",
+      "onboard_time": 1751020220,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 584329,
       "num": 584329,
       "word": "蔡依林",
@@ -369,14 +385,6 @@
       "onboard_time": 1750996464,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 530523,
-      "num": 530523,
-      "word": "李在明下馆子喝鱼汤被记者追问",
-      "onboard_time": 1751016862,
-      "rank": 18,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 529636,
@@ -497,6 +505,14 @@
       "onboard_time": 1751011827,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 468857,
+      "num": 368585,
+      "word": "蔡澜曾谈怎样面对亲友离世",
+      "onboard_time": 1751019322,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 463430,
@@ -624,14 +640,6 @@
       "word": "蔡澜的离别信",
       "onboard_time": 1751014765,
       "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 368585,
-      "num": 368585,
-      "word": "蔡澜曾谈怎样面对亲友离世",
-      "onboard_time": 1751019322,
-      "rank": 8,
       "category": "艺人"
     },
     {
@@ -763,6 +771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 270508,
+      "num": 270508,
+      "word": "罗马仕回应召回充电宝遭遇快递难",
+      "onboard_time": 1751016323,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 269985,
       "num": 269985,
       "word": "王楚然喊白鹿宝贝",
@@ -825,14 +841,6 @@
       "onboard_time": 1750997483,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 249533,
-      "num": 249533,
-      "word": "罗马仕回应召回充电宝遭遇快递难",
-      "onboard_time": 1751016323,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 247568,
@@ -1371,6 +1379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168934,
+      "num": 253142,
+      "word": "杨迪痛悼蔡澜",
+      "onboard_time": 1751019802,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167284,
       "num": 167284,
       "word": "王腾 比我们手机卖的还多",
@@ -1531,6 +1547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156329,
+      "num": 156329,
+      "word": "傅首尔儿子都这么大了",
+      "onboard_time": 1751019622,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155876,
       "num": 155876,
       "word": "青岛韩餐 名不虚传",
@@ -1563,14 +1587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 150521,
-      "num": 150521,
-      "word": "傅首尔儿子都这么大了",
-      "onboard_time": 1751019622,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 149689,
       "num": 149689,
       "word": "张勇等9人退出阿里合伙人",
@@ -1595,6 +1611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148328,
+      "num": 148328,
+      "word": "蔡徐坤deadman后首次专访",
+      "onboard_time": 1751021001,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147540,
       "num": 147540,
       "word": "鹿晗演唱会",
@@ -1611,12 +1635,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 146325,
+      "num": 260819,
+      "word": "鄂AD07088你藏收款码的样子真帅",
+      "onboard_time": 1751019022,
+      "rank": 43,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 146041,
       "num": 175274,
       "word": "洞洞鞋热变形",
       "onboard_time": 1751006361,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145822,
+      "num": 145822,
+      "word": "尚公主三搭早就告诉过我们答案了",
+      "onboard_time": 1751019502,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 145618,
@@ -1795,14 +1835,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 131418,
-      "num": 245956,
-      "word": "杨迪痛悼蔡澜",
-      "onboard_time": 1751019802,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 131332,
       "num": 131332,
       "word": "刘学义用脸骂人赛道",
@@ -1825,6 +1857,14 @@
       "onboard_time": 1751009122,
       "rank": 48,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 127989,
+      "num": 250547,
+      "word": "在中国20万能买到多豪华的车",
+      "onboard_time": 1751019322,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 127317,
@@ -1915,14 +1955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122235,
-      "num": 122235,
-      "word": "鄂AD07088你藏收款码的样子真帅",
-      "onboard_time": 1751019022,
-      "rank": 43,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 121912,
       "num": 121912,
       "word": "这不是特效这是漫天飞舞的蝴蝶",
@@ -1953,6 +1985,14 @@
       "onboard_time": 1751019681,
       "rank": 45,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 120966,
+      "num": 120966,
+      "word": "女子三餐水煮菜半年脂肪肝反而加重",
+      "onboard_time": 1751020101,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120698,
@@ -2017,6 +2057,14 @@
       "onboard_time": 1750956499,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113548,
+      "num": 113548,
+      "word": "杨紫李现并肩海报",
+      "onboard_time": 1751020943,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 113511,
@@ -2267,6 +2315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91762,
+      "num": 109086,
+      "word": "杨梅和荔枝是什么绝配啊",
+      "onboard_time": 1751018722,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 89828,
       "num": 89828,
       "word": "谷爱凌训练BTS",
@@ -2299,14 +2355,6 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 88496,
-      "num": 247921,
-      "word": "在中国20万能买到多豪华的车",
-      "onboard_time": 1751019322,
-      "rank": 17,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 87962,
       "num": 209617,
       "word": "男子境外遥控父亲境内贩毒",
@@ -2320,14 +2368,6 @@
       "word": "煤气泄露14岁男生救了整栋楼",
       "onboard_time": 1750962915,
       "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 87542,
-      "num": 87542,
-      "word": "女子三餐水煮菜半年脂肪肝反而加重",
-      "onboard_time": 1751020101,
-      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -2379,20 +2419,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84519,
+      "num": 1290358,
+      "word": "2025高考招生录取新变化新趋势",
+      "onboard_time": 1751013087,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83525,
       "num": 83525,
       "word": "27岁真的还很年轻很年轻",
       "onboard_time": 1750934902,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 83308,
-      "num": 1290358,
-      "word": "2025高考招生录取新变化新趋势",
-      "onboard_time": 1751013087,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 81787,
@@ -2417,6 +2457,14 @@
       "onboard_time": 1750949666,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 80610,
+      "num": 223257,
+      "word": "河大和郑大谁是河南最好的大学",
+      "onboard_time": 1751020882,
+      "rank": 25,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 80286,
@@ -2505,6 +2553,14 @@
       "onboard_time": 1750997123,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 70842,
+      "num": 244447,
+      "word": "预计今年高考志愿付费规模超10亿元",
+      "onboard_time": 1751019681,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68950,
@@ -2907,6 +2963,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20059,
+      "num": 264173,
+      "word": "起诉银行推销电话当事人称想减少骚扰",
+      "onboard_time": 1751020283,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17448,
+      "num": 158682,
+      "word": "郑平安这条线好完整",
+      "onboard_time": 1751019322,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 15759,
       "num": 257352,
       "word": "充电宝风波背后原因",
@@ -2923,14 +2995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 15620,
-      "num": 158682,
-      "word": "郑平安这条线好完整",
-      "onboard_time": 1751019322,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 15403,
       "num": 138090,
       "word": "西贝已注册值得信赖相关商标",
@@ -2945,14 +3009,6 @@
       "onboard_time": 1750966874,
       "rank": 45,
       "category": "网红"
-    },
-    {
-      "raw_hot": 14489,
-      "num": 244447,
-      "word": "预计今年高考志愿付费规模超10亿元",
-      "onboard_time": 1751019681,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13890,
@@ -2992,6 +3048,14 @@
       "word": "东北异常高温不能只靠学生自己扛",
       "onboard_time": 1751017282,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 4073,
+      "num": 158997,
+      "word": "高校再不装空调就影响大学招生了",
+      "onboard_time": 1751020882,
+      "rank": 29,
       "category": "民生新闻"
     }
   ],
