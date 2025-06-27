@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750996415255,
+  "endTime": 1750998929909,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -1268,7 +1268,7 @@
     },
     {
       "raw_hot": 1873212,
-      "num": 419938,
+      "num": 432894,
       "word": "生父协助继母喂食1600片泻药虐女",
       "onboard_time": 1750992081,
       "rank": 10,
@@ -2131,6 +2131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1479756,
+      "num": 1479756,
+      "word": "西贝致歉",
+      "onboard_time": 1750994662,
+      "rank": 17,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1477629,
       "num": 1477629,
       "word": "韦神",
@@ -2201,6 +2209,14 @@
       "onboard_time": 1750726402,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1458268,
+      "num": 1458268,
+      "word": "充电宝 退不了",
+      "onboard_time": 1750993701,
+      "rank": 1,
+      "category": "数码"
     },
     {
       "raw_hot": 1454990,
@@ -3004,7 +3020,7 @@
     },
     {
       "raw_hot": 1245185,
-      "num": 407997,
+      "num": 431066,
       "word": "梓渝 丁禹兮",
       "onboard_time": 1750987882,
       "rank": 10,
@@ -3073,14 +3089,6 @@
       "onboard_time": 1749711799,
       "rank": 1,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1232415,
-      "num": 1232415,
-      "word": "充电宝 退不了",
-      "onboard_time": 1750993701,
-      "rank": 1,
-      "category": "数码"
     },
     {
       "raw_hot": 1232401,
@@ -3588,7 +3596,7 @@
     },
     {
       "raw_hot": 1141835,
-      "num": 384219,
+      "num": 430353,
       "word": "女装流行无袖的原因",
       "onboard_time": 1750992921,
       "rank": 11,
@@ -4948,7 +4956,7 @@
     },
     {
       "raw_hot": 959847,
-      "num": 380041,
+      "num": 418543,
       "word": "卢昱晓好直观的瘦",
       "onboard_time": 1750986442,
       "rank": 11,
@@ -5457,6 +5465,14 @@
       "onboard_time": 1750854501,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 896207,
+      "num": 896207,
+      "word": "aespa回归",
+      "onboard_time": 1750997661,
+      "rank": 3,
+      "category": "音乐"
     },
     {
       "raw_hot": 896174,
@@ -6308,7 +6324,7 @@
     },
     {
       "raw_hot": 810852,
-      "num": 354829,
+      "num": 363532,
       "word": "女生发现KTV不适标语勇敢举报",
       "onboard_time": 1750984762,
       "rank": 12,
@@ -6460,7 +6476,7 @@
     },
     {
       "raw_hot": 801498,
-      "num": 365270,
+      "num": 419036,
       "word": "图书馆三十秒",
       "onboard_time": 1750981161,
       "rank": 13,
@@ -9435,14 +9451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 632809,
-      "num": 632809,
-      "word": "西贝致歉",
-      "onboard_time": 1750994662,
-      "rank": 17,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 632789,
       "num": 632789,
       "word": "下辈子第一志愿严莉莉",
@@ -9625,6 +9633,14 @@
       "onboard_time": 1750126340,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 624168,
+      "num": 624168,
+      "word": "杜嘉班纳 ELLE",
+      "onboard_time": 1750996223,
+      "rank": 45,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 623771,
@@ -12787,6 +12803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 507449,
+      "num": 423441,
+      "word": "张凌赫 红衣鬼王",
+      "onboard_time": 1750996464,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 507361,
       "num": 429413,
       "word": "瘦了140斤",
@@ -12969,6 +12993,14 @@
       "onboard_time": 1750387342,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 500230,
+      "num": 500230,
+      "word": "白玉兰奖电视剧单项奖入围名单",
+      "onboard_time": 1750994963,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 500195,
@@ -15409,6 +15441,14 @@
       "onboard_time": 1749372860,
       "rank": 9,
       "category": "体育,教育"
+    },
+    {
+      "raw_hot": 434316,
+      "num": 427344,
+      "word": "南航人打开朋友圈全是陈都灵",
+      "onboard_time": 1750995202,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 434203,
@@ -20395,6 +20435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 338435,
+      "num": 338435,
+      "word": "aespa新歌DirtyWorkMV",
+      "onboard_time": 1750995083,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 338262,
       "num": 420129,
       "word": "哈梅内伊发文祝贺伊朗战胜以色列",
@@ -21969,6 +22017,14 @@
       "onboard_time": 1749250996,
       "rank": 8,
       "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 311774,
+      "num": 311774,
+      "word": "藏海传剧组白玉兰特邀出席",
+      "onboard_time": 1750998742,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 311728,
@@ -24971,6 +25027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 274865,
+      "num": 274865,
+      "word": "庆余年 大爆剧实感",
+      "onboard_time": 1750996584,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 274759,
       "num": 274759,
       "word": "患者服临床试验抗癌药致重症肺炎",
@@ -25312,6 +25376,14 @@
       "word": "浪姐到底谁在投票",
       "onboard_time": 1749314302,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 269985,
+      "num": 269985,
+      "word": "王楚然喊白鹿宝贝",
+      "onboard_time": 1750996763,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -26089,14 +26161,6 @@
       "onboard_time": 1749047842,
       "rank": 9,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 262487,
-      "num": 436415,
-      "word": "白玉兰奖电视剧单项奖入围名单",
-      "onboard_time": 1750994963,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 262384,
@@ -27099,6 +27163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 253508,
+      "num": 253508,
+      "word": "肥娟小吃店长满小孩哥小孩姐",
+      "onboard_time": 1750992862,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 253267,
       "num": 253267,
       "word": "曹骏回应翻红后机会变多",
@@ -27411,6 +27483,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 250297,
+      "num": 250297,
+      "word": "让钟楚曦这样穿搭的人是天才",
+      "onboard_time": 1750997483,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250130,
       "num": 250130,
       "word": "范玮琪ins回应上歌手",
@@ -27505,14 +27585,6 @@
       "onboard_time": 1750223782,
       "rank": 31,
       "category": "美食"
-    },
-    {
-      "raw_hot": 249547,
-      "num": 249547,
-      "word": "南航人打开朋友圈全是陈都灵",
-      "onboard_time": 1750995202,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 249386,
@@ -27737,6 +27809,14 @@
       "onboard_time": 1750736062,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 247568,
+      "num": 247568,
+      "word": "雷军欠两屁股车了",
+      "onboard_time": 1750997723,
+      "rank": 32,
+      "category": "汽车,互联网"
     },
     {
       "raw_hot": 247517,
@@ -32323,6 +32403,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 214116,
+      "num": 214116,
+      "word": "湿气越吃越少的10种食物",
+      "onboard_time": 1750998683,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 214103,
       "num": 214103,
       "word": "19岁智力残疾女孩遭性侵产女",
@@ -34731,6 +34819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203654,
+      "num": 203654,
+      "word": "LV创飞星巴克",
+      "onboard_time": 1750995202,
+      "rank": 48,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 203653,
       "num": 203653,
       "word": "双胞胎姐妹拿错准考证",
@@ -36107,6 +36203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199439,
+      "num": 199439,
+      "word": "雷军称坚决反对价格战",
+      "onboard_time": 1750995861,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 199426,
       "num": 229675,
       "word": "徐明浩顶级男团出身不畏流量底气",
@@ -36939,6 +37043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197014,
+      "num": 216077,
+      "word": "急救员回应救护车带ECMO不用也收费",
+      "onboard_time": 1750996883,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 197007,
       "num": 197007,
       "word": "韦东奕",
@@ -37521,6 +37633,14 @@
       "onboard_time": 1750396702,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194874,
+      "num": 194874,
+      "word": "早晨喝咖啡 长寿",
+      "onboard_time": 1750997062,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 194872,
@@ -38112,6 +38232,14 @@
       "word": "萨巴伦卡为郑钦文鼓掌",
       "onboard_time": 1748949021,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 192967,
+      "num": 214463,
+      "word": "皇马世俱杯将战尤文",
+      "onboard_time": 1750998444,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -39105,6 +39233,14 @@
       "onboard_time": 1749899243,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189985,
+      "num": 189985,
+      "word": "考上北大十年后只想当个普通人",
+      "onboard_time": 1750998382,
+      "rank": 48,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 189984,
@@ -42443,14 +42579,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 179093,
-      "num": 179093,
-      "word": "aespa新歌DirtyWorkMV",
-      "onboard_time": 1750995083,
-      "rank": 34,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 179065,
       "num": 272109,
       "word": "整顿内娱种树事件传遍圈内",
@@ -45249,6 +45377,14 @@
       "onboard_time": 1749569000,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169894,
+      "num": 261483,
+      "word": "酱园弄八十年前的上桌吃饭",
+      "onboard_time": 1750998742,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 169880,
@@ -49001,14 +49137,6 @@
       "onboard_time": 1749968719,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 159139,
-      "num": 159139,
-      "word": "肥娟小吃店长满小孩哥小孩姐",
-      "onboard_time": 1750992862,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 159138,
@@ -53315,14 +53443,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 147403,
-      "num": 147403,
-      "word": "雷军称坚决反对价格战",
-      "onboard_time": 1750995861,
-      "rank": 38,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 147392,
       "num": 147392,
       "word": "黑鹰直升机突降洛杉矶卸下弹药",
@@ -55577,14 +55697,6 @@
       "onboard_time": 1750650262,
       "rank": 39,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 142173,
-      "num": 142173,
-      "word": "LV创飞星巴克",
-      "onboard_time": 1750995202,
-      "rank": 48,
-      "category": "时尚"
     },
     {
       "raw_hot": 142158,
@@ -61827,14 +61939,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 127887,
-      "num": 127887,
-      "word": "杜嘉班纳 ELLE",
-      "onboard_time": 1750996223,
-      "rank": 45,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 127873,
       "num": 127873,
       "word": "全红婵夸陈梦好漂亮",
@@ -63009,6 +63113,14 @@
       "onboard_time": 1749969380,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125032,
+      "num": 422136,
+      "word": "一公园被举报采购天价树每棵近80万",
+      "onboard_time": 1750998084,
+      "rank": 17,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 125017,
@@ -73523,6 +73635,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 95768,
+      "num": 270240,
+      "word": "明确公安学校协同治理校园欺凌",
+      "onboard_time": 1750998683,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95767,
       "num": 95767,
       "word": "常州小球迷痛哭怎么一次都没进",
@@ -74337,6 +74457,14 @@
       "onboard_time": 1749683897,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92980,
+      "num": 428533,
+      "word": "LV路易号",
+      "onboard_time": 1750997123,
+      "rank": 13,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 92933,
@@ -78427,6 +78555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 74298,
+      "num": 214216,
+      "word": "川大华西口腔医学到底有多厉害",
+      "onboard_time": 1750997543,
+      "rank": 40,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 74276,
       "num": 146767,
       "word": "男子动漫城充值14.8万举报后遭恐吓",
@@ -79209,6 +79345,14 @@
       "onboard_time": 1749206061,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 70969,
+      "num": 214559,
+      "word": "荔枝使和花鸟使的区别",
+      "onboard_time": 1750997123,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 70907,
@@ -88060,7 +88204,7 @@
     },
     {
       "raw_hot": 37028,
-      "num": 251966,
+      "num": 420484,
       "word": "伊能静秦昊夫妻代言",
       "onboard_time": 1750995382,
       "rank": 36,
@@ -93019,6 +93163,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 23296,
+      "num": 214282,
+      "word": "机器人在演我上班",
+      "onboard_time": 1750996883,
+      "rank": 39,
+      "category": "民生新闻,数码"
+    },
+    {
       "raw_hot": 23280,
       "num": 157666,
       "word": "拍出108万Labubu首任藏家发声",
@@ -95523,6 +95675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15759,
+      "num": 257352,
+      "word": "充电宝风波背后原因",
+      "onboard_time": 1750998202,
+      "rank": 29,
+      "category": "民生新闻,数码"
+    },
+    {
       "raw_hot": 15715,
       "num": 558243,
       "word": "4人低俗直播斗狠被依法处罚",
@@ -96297,6 +96457,14 @@
       "onboard_time": 1750235482,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 13451,
+      "num": 205186,
+      "word": "中国车跑纽北有什么意义",
+      "onboard_time": 1750998862,
+      "rank": 42,
+      "category": "汽车"
     },
     {
       "raw_hot": 13434,
