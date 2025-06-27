@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/28 00:47:07
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/28 01:23:31
 </p>
 </blockquote>
 <p>
@@ -6641,6 +6641,12 @@ Labubu 审美（热度：729066）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E5%8E%84%E7%93%9C%E5%A4%9A%E5%B0%94%E6%80%BB%E7%BB%9F%23%23" target="weibo">
 #习近平会见厄瓜多尔总统#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E7%AC%AC%E5%9B%9B%E5%8D%81%E4%B9%9D%E5%8F%B7%E4%B8%BB%E5%B8%AD%E4%BB%A4%23%23" target="weibo">
+#第四十九号主席令#
 </a>
 </li>
 
