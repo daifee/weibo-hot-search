@@ -1,6 +1,6 @@
 {
   "startTime": 1750955581651,
-  "endTime": 1751021191298,
+  "endTime": 1751023382890,
   "band_list": [
     {
       "raw_hot": 12136998,
@@ -51,6 +51,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2159224,
+      "num": 2159224,
+      "word": "刘亦菲 白玉兰",
+      "onboard_time": 1751022622,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2009906,
       "num": 2009906,
       "word": "洞洞鞋 真菌感染",
@@ -73,6 +81,14 @@
       "onboard_time": 1750994662,
       "rank": 17,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 1472095,
+      "num": 256389,
+      "word": "杨紫顶级高定内娱首秀",
+      "onboard_time": 1751021841,
+      "rank": 10,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 1458268,
@@ -123,8 +139,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1100433,
-      "num": 1100433,
+      "raw_hot": 1113727,
+      "num": 1113727,
       "word": "香港四大才子均已逝世",
       "onboard_time": 1751011827,
       "rank": 4,
@@ -153,6 +169,14 @@
       "onboard_time": 1751002282,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1014581,
+      "num": 259156,
+      "word": "者来女 谢娜",
+      "onboard_time": 1751020220,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 959847,
@@ -323,14 +347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 594492,
-      "num": 259156,
-      "word": "者来女 谢娜",
-      "onboard_time": 1751020220,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 584329,
       "num": 584329,
       "word": "蔡依林",
@@ -369,6 +385,14 @@
       "onboard_time": 1750977737,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 543385,
+      "num": 246551,
+      "word": "花少7 张雅琪",
+      "onboard_time": 1751021422,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 541796,
@@ -508,7 +532,7 @@
     },
     {
       "raw_hot": 468857,
-      "num": 368585,
+      "num": 433771,
       "word": "蔡澜曾谈怎样面对亲友离世",
       "onboard_time": 1751019322,
       "rank": 8,
@@ -673,6 +697,14 @@
       "onboard_time": 1750995083,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 337073,
+      "num": 176186,
+      "word": "蔡徐坤篮球梗自己cue自己",
+      "onboard_time": 1751022202,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 336905,
@@ -889,6 +921,14 @@
       "onboard_time": 1750983021,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 237285,
+      "num": 176157,
+      "word": "邓超送鹿晗签名照",
+      "onboard_time": 1751022802,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 236398,
@@ -1155,6 +1195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195659,
+      "num": 176016,
+      "word": "于和伟白玉兰红毯造型",
+      "onboard_time": 1751022502,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194874,
       "num": 194874,
       "word": "早晨喝咖啡 长寿",
@@ -1267,6 +1315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181878,
+      "num": 176086,
+      "word": "希望张若昀这枚胸针是报喜鸟",
+      "onboard_time": 1751022261,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181436,
       "num": 181436,
       "word": "体检出现这些指标要当心癌变了",
@@ -1305,6 +1361,14 @@
       "onboard_time": 1751011467,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180035,
+      "num": 260819,
+      "word": "鄂AD07088你藏收款码的样子真帅",
+      "onboard_time": 1751019022,
+      "rank": 43,
+      "category": "正能量"
     },
     {
       "raw_hot": 179849,
@@ -1451,6 +1515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162558,
+      "num": 162558,
+      "word": "女子三餐水煮菜半年脂肪肝反而加重",
+      "onboard_time": 1751020101,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162529,
       "num": 162529,
       "word": "陆景和 酱子贝",
@@ -1515,6 +1587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157728,
+      "num": 157728,
+      "word": "小巷人家",
+      "onboard_time": 1751022981,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157691,
       "num": 157691,
       "word": "下雨导致小猫发霉",
@@ -1571,12 +1651,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153645,
+      "num": 153645,
+      "word": "宋亚轩刘耀文一个敢教一个敢写",
+      "onboard_time": 1751022261,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152801,
       "num": 296396,
       "word": "时代少年团收官文",
       "onboard_time": 1751000903,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151951,
+      "num": 151951,
+      "word": "退学北大男生被说是最差年级第一",
+      "onboard_time": 1751022143,
+      "rank": 37,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 151661,
@@ -1635,14 +1731,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 146325,
-      "num": 260819,
-      "word": "鄂AD07088你藏收款码的样子真帅",
-      "onboard_time": 1751019022,
-      "rank": 43,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 146041,
       "num": 175274,
       "word": "洞洞鞋热变形",
@@ -1697,6 +1785,14 @@
       "onboard_time": 1750990580,
       "rank": 29,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 143119,
+      "num": 143119,
+      "word": "两次翻供是她最绝望的自救",
+      "onboard_time": 1751022862,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 143008,
@@ -1809,6 +1905,14 @@
       "onboard_time": 1751005883,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133854,
+      "num": 133854,
+      "word": "只有做家务的才知道她有多厉害",
+      "onboard_time": 1751021783,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 133436,
@@ -1987,14 +2091,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 120966,
-      "num": 120966,
-      "word": "女子三餐水煮菜半年脂肪肝反而加重",
-      "onboard_time": 1751020101,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 120698,
       "num": 176730,
       "word": "刘亦菲LV巨轮转场",
@@ -2017,6 +2113,14 @@
       "onboard_time": 1750989322,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 118547,
+      "num": 118547,
+      "word": "关晓彤妆造正确",
+      "onboard_time": 1751023342,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 118043,
@@ -2483,6 +2587,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 77338,
+      "num": 264173,
+      "word": "起诉银行推销电话当事人称想减少骚扰",
+      "onboard_time": 1751020283,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77035,
+      "num": 86468,
+      "word": "上海今夏首个高温橙色预警",
+      "onboard_time": 1751021662,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75959,
       "num": 75959,
       "word": "充电宝",
@@ -2715,6 +2835,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 45255,
+      "num": 248516,
+      "word": "AQ让检查报告说人话",
+      "onboard_time": 1751022682,
+      "rank": 14,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 43553,
       "num": 181168,
       "word": "唐山陶瓷大妈哽咽了",
@@ -2843,6 +2971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26625,
+      "num": 176041,
+      "word": "西贝服务员偷拍事件或涉及多种侵权",
+      "onboard_time": 1751023282,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24739,
       "num": 214282,
       "word": "机器人在演我上班",
@@ -2963,11 +3099,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20059,
-      "num": 264173,
-      "word": "起诉银行推销电话当事人称想减少骚扰",
-      "onboard_time": 1751020283,
-      "rank": 13,
+      "raw_hot": 19469,
+      "num": 176024,
+      "word": "北大副教授称炒作热门专业是制造焦虑",
+      "onboard_time": 1751023282,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -3049,6 +3185,14 @@
       "onboard_time": 1751017282,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8435,
+      "num": 142852,
+      "word": "李善德是荔枝使我们是被指使",
+      "onboard_time": 1751023282,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 4073,
