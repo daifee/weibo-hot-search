@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1751034348679,
+  "endTime": 1751035479806,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -43,6 +43,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 10757854,
+      "num": 10757854,
+      "word": "白玉兰获奖名单",
+      "onboard_time": 1751032048,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 9141770,
       "num": 9707885,
       "word": "九三盛大阅兵",
@@ -57,14 +65,6 @@
       "onboard_time": 1750921640,
       "rank": 0,
       "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 7973426,
-      "num": 7973426,
-      "word": "白玉兰获奖名单",
-      "onboard_time": 1751032048,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 7490339,
@@ -137,6 +137,14 @@
       "onboard_time": 1751007382,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 2832425,
+      "num": 604616,
+      "word": "蒋欣最佳女配角",
+      "onboard_time": 1751033967,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 2658356,
@@ -377,14 +385,6 @@
       "onboard_time": 1750849343,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1854297,
-      "num": 604616,
-      "word": "蒋欣最佳女配角",
-      "onboard_time": 1751033967,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 1849384,
@@ -1307,6 +1307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 908359,
+      "num": 543471,
+      "word": "蒋奇明最佳男配角",
+      "onboard_time": 1751034149,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 904576,
       "num": 904576,
       "word": "梅森马吉拉 孙颖莎",
@@ -1401,6 +1409,14 @@
       "onboard_time": 1751028144,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 863469,
+      "num": 497336,
+      "word": "杨紫白玉兰感言",
+      "onboard_time": 1751034691,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 863043,
@@ -2955,14 +2971,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 543471,
-      "num": 543471,
-      "word": "蒋奇明最佳男配角",
-      "onboard_time": 1751034149,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 543385,
       "num": 246551,
       "word": "花少7 张雅琪",
@@ -3624,6 +3632,14 @@
       "word": "锦绣芳华定档",
       "onboard_time": 1751011827,
       "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 472389,
+      "num": 472389,
+      "word": "王安宇和刘亦菲搭上戏了",
+      "onboard_time": 1751033788,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -4852,7 +4868,7 @@
     },
     {
       "raw_hot": 364944,
-      "num": 409455,
+      "num": 419771,
       "word": "恋与深空婚卡",
       "onboard_time": 1751026583,
       "rank": 32,
@@ -4985,6 +5001,14 @@
       "onboard_time": 1750985301,
       "rank": 13,
       "category": "音乐,数码"
+    },
+    {
+      "raw_hot": 354375,
+      "num": 354375,
+      "word": "鹿晗演唱会全开麦唱跳",
+      "onboard_time": 1751035288,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 354193,
@@ -5779,6 +5803,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 305064,
+      "num": 581084,
+      "word": "黄金",
+      "onboard_time": 1750643120,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 304108,
       "num": 304108,
       "word": "伊朗议会认为应关闭霍尔木兹海峡",
@@ -5905,6 +5937,14 @@
       "onboard_time": 1750775725,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 297028,
+      "num": 514639,
+      "word": "文俊辉直播",
+      "onboard_time": 1751034268,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 296959,
@@ -6369,14 +6409,6 @@
       "onboard_time": 1750844542,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 272911,
-      "num": 581084,
-      "word": "黄金",
-      "onboard_time": 1750643120,
-      "rank": 18,
-      "category": "财经"
     },
     {
       "raw_hot": 272741,
@@ -7073,6 +7105,14 @@
       "onboard_time": 1750944023,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 245174,
+      "num": 574053,
+      "word": "高考288分事件被质疑炒作引流",
+      "onboard_time": 1751034028,
+      "rank": 24,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 245162,
@@ -10827,6 +10867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173427,
+      "num": 509996,
+      "word": "豆瓣崩了",
+      "onboard_time": 1751034929,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 173343,
       "num": 223227,
       "word": "孟子义给边程发好人卡",
@@ -11291,6 +11339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166990,
+      "num": 507486,
+      "word": "BLG冲击2025Msi首胜",
+      "onboard_time": 1751035288,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 166922,
       "num": 166922,
       "word": "小沈阳晒亲吻照庆结婚纪念日",
@@ -11369,14 +11425,6 @@
       "onboard_time": 1750949006,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 165275,
-      "num": 492068,
-      "word": "文俊辉直播",
-      "onboard_time": 1751034268,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 165113,
@@ -14563,6 +14611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130900,
+      "num": 566951,
+      "word": "台湾彩民花800元独揽17亿头奖",
+      "onboard_time": 1751032048,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130894,
       "num": 130894,
       "word": "夏季皮肤奇痒难耐当心是特应性皮炎",
@@ -15139,14 +15195,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 125657,
-      "num": 574053,
-      "word": "高考288分事件被质疑炒作引流",
-      "onboard_time": 1751034028,
-      "rank": 24,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 125596,
       "num": 125596,
       "word": "周杰伦抢票",
@@ -15516,7 +15564,7 @@
     },
     {
       "raw_hot": 121879,
-      "num": 405006,
+      "num": 487417,
       "word": "24岁小伙久坐不动致多处血栓险丧命",
       "onboard_time": 1751030605,
       "rank": 49,
@@ -15841,14 +15889,6 @@
       "onboard_time": 1750837762,
       "rank": 45,
       "category": "教育"
-    },
-    {
-      "raw_hot": 117202,
-      "num": 566951,
-      "word": "台湾彩民花800元独揽17亿头奖",
-      "onboard_time": 1751032048,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 117174,
@@ -17995,6 +18035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86060,
+      "num": 2894598,
+      "word": "7月这些新规影响你我",
+      "onboard_time": 1751031627,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86048,
       "num": 86048,
       "word": "柯淳杨肸子车窗吻",
@@ -18603,6 +18651,14 @@
       "category": "海外新闻,教育"
     },
     {
+      "raw_hot": 73093,
+      "num": 337533,
+      "word": "冯骥关于高考结束的几点建议",
+      "onboard_time": 1751035107,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 73085,
       "num": 73085,
       "word": "伊核设施周边民众被告知可正常生活",
@@ -18619,14 +18675,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 72738,
-      "num": 2814079,
-      "word": "7月这些新规影响你我",
-      "onboard_time": 1751031627,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 72728,
       "num": 72728,
       "word": "以色列和伊朗手里还有多少底牌",
@@ -18641,6 +18689,14 @@
       "onboard_time": 1750981040,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72536,
+      "num": 586889,
+      "word": "Dior大秀直播代入感好强",
+      "onboard_time": 1751033788,
+      "rank": 17,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 72438,
@@ -18865,14 +18921,6 @@
       "onboard_time": 1750945285,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 67892,
-      "num": 586889,
-      "word": "Dior大秀直播代入感好强",
-      "onboard_time": 1751033788,
-      "rank": 17,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 67823,
@@ -20153,6 +20201,14 @@
       "onboard_time": 1750532774,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 43977,
+      "num": 381327,
+      "word": "原神此等萌物一口吞了",
+      "onboard_time": 1751035228,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 43723,

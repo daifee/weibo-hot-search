@@ -1,6 +1,6 @@
 {
   "startTime": 1750955581651,
-  "endTime": 1751034348679,
+  "endTime": 1751035479806,
   "band_list": [
     {
       "raw_hot": 13735630,
@@ -19,8 +19,8 @@
       "category": "艺人,艺人"
     },
     {
-      "raw_hot": 7973426,
-      "num": 7973426,
+      "raw_hot": 10757854,
+      "num": 10757854,
       "word": "白玉兰获奖名单",
       "onboard_time": 1751032048,
       "rank": 13,
@@ -49,6 +49,14 @@
       "onboard_time": 1751007382,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 2832425,
+      "num": 604616,
+      "word": "蒋欣最佳女配角",
+      "onboard_time": 1751033967,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 2652656,
@@ -121,14 +129,6 @@
       "onboard_time": 1750992081,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1854297,
-      "num": 604616,
-      "word": "蒋欣最佳女配角",
-      "onboard_time": 1751033967,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 1724176,
@@ -323,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 908359,
+      "num": 543471,
+      "word": "蒋奇明最佳男配角",
+      "onboard_time": 1751034149,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 896207,
       "num": 896207,
       "word": "aespa回归",
@@ -353,6 +361,14 @@
       "onboard_time": 1751028144,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 863469,
+      "num": 497336,
+      "word": "杨紫白玉兰感言",
+      "onboard_time": 1751034691,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 848599,
@@ -595,14 +611,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 543471,
-      "num": 543471,
-      "word": "蒋奇明最佳男配角",
-      "onboard_time": 1751034149,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 543385,
       "num": 246551,
       "word": "花少7 张雅琪",
@@ -752,6 +760,14 @@
       "word": "锦绣芳华定档",
       "onboard_time": 1751011827,
       "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 472389,
+      "num": 472389,
+      "word": "王安宇和刘亦菲搭上戏了",
+      "onboard_time": 1751033788,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -916,7 +932,7 @@
     },
     {
       "raw_hot": 364944,
-      "num": 409455,
+      "num": 419771,
       "word": "恋与深空婚卡",
       "onboard_time": 1751026583,
       "rank": 32,
@@ -937,6 +953,14 @@
       "onboard_time": 1750985301,
       "rank": 13,
       "category": "音乐,数码"
+    },
+    {
+      "raw_hot": 354375,
+      "num": 354375,
+      "word": "鹿晗演唱会全开麦唱跳",
+      "onboard_time": 1751035288,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 341201,
@@ -1027,6 +1051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 305064,
+      "num": 581084,
+      "word": "黄金",
+      "onboard_time": 1751034088,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
       "raw_hot": 303101,
       "num": 232808,
       "word": "关晓彤第八套ES顶级高定",
@@ -1041,6 +1073,14 @@
       "onboard_time": 1751008402,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 297028,
+      "num": 514639,
+      "word": "文俊辉直播",
+      "onboard_time": 1751034268,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 296454,
@@ -1193,6 +1233,14 @@
       "onboard_time": 1750994060,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 245174,
+      "num": 574053,
+      "word": "高考288分事件被质疑炒作引流",
+      "onboard_time": 1751034028,
+      "rank": 24,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 245089,
@@ -1827,6 +1875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173427,
+      "num": 509996,
+      "word": "豆瓣崩了",
+      "onboard_time": 1751034929,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 173321,
       "num": 239630,
       "word": "王鹤棣一下子把王嘉尔抱起来了",
@@ -1875,19 +1931,19 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 166990,
+      "num": 507486,
+      "word": "BLG冲击2025Msi首胜",
+      "onboard_time": 1751035288,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 166114,
       "num": 166114,
       "word": "于正刘宇宁偷偷合作过",
       "onboard_time": 1750999284,
       "rank": 45,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 165275,
-      "num": 492068,
-      "word": "文俊辉直播",
-      "onboard_time": 1751034268,
-      "rank": 35,
       "category": "艺人"
     },
     {
@@ -1953,14 +2009,6 @@
       "onboard_time": 1750942283,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 161704,
-      "num": 581084,
-      "word": "黄金",
-      "onboard_time": 1751034088,
-      "rank": 20,
-      "category": "财经"
     },
     {
       "raw_hot": 159476,
@@ -2395,6 +2443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 130900,
+      "num": 566951,
+      "word": "台湾彩民花800元独揽17亿头奖",
+      "onboard_time": 1751032048,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130148,
       "num": 130148,
       "word": "小象丹尼",
@@ -2491,14 +2547,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 125657,
-      "num": 574053,
-      "word": "高考288分事件被质疑炒作引流",
-      "onboard_time": 1751034028,
-      "rank": 24,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 125456,
       "num": 158374,
       "word": "抢票失败的人有多疯",
@@ -2556,7 +2604,7 @@
     },
     {
       "raw_hot": 121879,
-      "num": 405006,
+      "num": 487417,
       "word": "24岁小伙久坐不动致多处血栓险丧命",
       "onboard_time": 1751030605,
       "rank": 49,
@@ -2609,14 +2657,6 @@
       "onboard_time": 1751007082,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 117202,
-      "num": 566951,
-      "word": "台湾彩民花800元独揽17亿头奖",
-      "onboard_time": 1751032048,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 116802,
@@ -3043,6 +3083,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 86060,
+      "num": 2894598,
+      "word": "7月这些新规影响你我",
+      "onboard_time": 1751031627,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85936,
       "num": 85936,
       "word": "小米YU7",
@@ -3227,6 +3275,14 @@
       "category": "海外新闻,教育"
     },
     {
+      "raw_hot": 73093,
+      "num": 337533,
+      "word": "冯骥关于高考结束的几点建议",
+      "onboard_time": 1751035107,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 72774,
       "num": 72774,
       "word": "小米汽车yu7颜色",
@@ -3235,20 +3291,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 72738,
-      "num": 2814079,
-      "word": "7月这些新规影响你我",
-      "onboard_time": 1751031627,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 72577,
       "num": 72577,
       "word": "尤文图斯2比5曼城",
       "onboard_time": 1750981040,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72536,
+      "num": 586889,
+      "word": "Dior大秀直播代入感好强",
+      "onboard_time": 1751033788,
+      "rank": 17,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 71261,
@@ -3297,14 +3353,6 @@
       "onboard_time": 1750956499,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 67892,
-      "num": 586889,
-      "word": "Dior大秀直播代入感好强",
-      "onboard_time": 1751033788,
-      "rank": 17,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 67204,
@@ -3457,6 +3505,14 @@
       "onboard_time": 1751026164,
       "rank": 13,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 43977,
+      "num": 381327,
+      "word": "原神此等萌物一口吞了",
+      "onboard_time": 1751035228,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 43553,

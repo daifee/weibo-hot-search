@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1751034348679,
+  "endTime": 1751035479806,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -755,6 +755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 10757854,
+      "num": 10757854,
+      "word": "白玉兰获奖名单",
+      "onboard_time": 1751032048,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 10705430,
       "num": 10705430,
       "word": "哪吒打人 敖丙劝架",
@@ -1145,14 +1153,6 @@
       "onboard_time": 1748094746,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 7973426,
-      "num": 7973426,
-      "word": "白玉兰获奖名单",
-      "onboard_time": 1751032048,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 7936216,
