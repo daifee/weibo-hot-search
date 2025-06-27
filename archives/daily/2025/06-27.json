@@ -1,6 +1,6 @@
 {
   "startTime": 1750955581651,
-  "endTime": 1751024327992,
+  "endTime": 1751028767448,
   "band_list": [
     {
       "raw_hot": 12136998,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2847026,
-      "num": 298480,
+      "num": 345484,
       "word": "男子强奸女儿致其产女又性侵外孙女",
       "onboard_time": 1751007382,
       "rank": 20,
@@ -41,6 +41,14 @@
       "onboard_time": 1751002522,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2584509,
+      "num": 2584509,
+      "word": "刘亦菲没走红毯",
+      "onboard_time": 1751024063,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 2411149,
@@ -83,6 +91,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1480543,
+      "num": 349184,
+      "word": "郑欣宜受伤退出本期歌手",
+      "onboard_time": 1751024724,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1472095,
       "num": 401747,
       "word": "杨紫顶级高定内娱首秀",
@@ -123,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1220488,
+      "num": 643225,
+      "word": "歌手直播",
+      "onboard_time": 1751025744,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1141835,
       "num": 495509,
       "word": "女装流行无袖的原因",
@@ -137,6 +161,30 @@
       "onboard_time": 1751012667,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1128130,
+      "num": 348767,
+      "word": "关晓彤妆造正确",
+      "onboard_time": 1751023342,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1125353,
+      "num": 348281,
+      "word": "白玉兰直播",
+      "onboard_time": 1751027604,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1122764,
+      "num": 347233,
+      "word": "杨紫公主级别",
+      "onboard_time": 1751027304,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 1113727,
@@ -163,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1043455,
+      "num": 346885,
+      "word": "鹿晗演唱会",
+      "onboard_time": 1751017522,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1041949,
       "num": 1041949,
       "word": "锦绣芳华",
@@ -176,6 +232,14 @@
       "word": "者来女 谢娜",
       "onboard_time": 1751020220,
       "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 986732,
+      "num": 344988,
+      "word": "陈楚生唱哭我了",
+      "onboard_time": 1751027544,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -217,6 +281,14 @@
       "onboard_time": 1750995262,
       "rank": 21,
       "category": "数码"
+    },
+    {
+      "raw_hot": 878758,
+      "num": 344732,
+      "word": "小巷人家",
+      "onboard_time": 1751022981,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 810852,
@@ -284,7 +356,7 @@
     },
     {
       "raw_hot": 675150,
-      "num": 218920,
+      "num": 343202,
       "word": "蔡徐坤篮球梗自己cue自己",
       "onboard_time": 1751022202,
       "rank": 22,
@@ -305,6 +377,14 @@
       "onboard_time": 1750954702,
       "rank": 33,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 667646,
+      "num": 667646,
+      "word": "上海暴雨",
+      "onboard_time": 1751024782,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 647444,
@@ -348,11 +428,19 @@
     },
     {
       "raw_hot": 616146,
-      "num": 323332,
+      "num": 342450,
       "word": "白玉兰预测",
       "onboard_time": 1751012907,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 599564,
+      "num": 433771,
+      "word": "蔡澜曾谈怎样面对亲友离世",
+      "onboard_time": 1751019322,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 598378,
@@ -547,20 +635,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 468857,
-      "num": 433771,
-      "word": "蔡澜曾谈怎样面对亲友离世",
-      "onboard_time": 1751019322,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 463430,
       "num": 463430,
       "word": "哈尔滨高温高校学生回应在楼道睡觉",
       "onboard_time": 1750980439,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 447253,
+      "num": 341668,
+      "word": "者来女 难听",
+      "onboard_time": 1751028203,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 435378,
@@ -588,7 +676,7 @@
     },
     {
       "raw_hot": 414744,
-      "num": 252988,
+      "num": 298412,
       "word": "上海白玉兰颁奖典礼红毯嘉宾阵容",
       "onboard_time": 1751014705,
       "rank": 32,
@@ -627,14 +715,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 392281,
-      "num": 215458,
-      "word": "关晓彤妆造正确",
-      "onboard_time": 1751023342,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 390791,
       "num": 390791,
       "word": "陈梦感谢黄晓明支招",
@@ -656,6 +736,14 @@
       "word": "花少7开始录制",
       "onboard_time": 1751011528,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 386470,
+      "num": 341312,
+      "word": "歌手海报质感",
+      "onboard_time": 1751019142,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -691,6 +779,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 364944,
+      "num": 340733,
+      "word": "恋与深空婚卡",
+      "onboard_time": 1751026583,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 362669,
+      "num": 340174,
+      "word": "歌手顺序",
+      "onboard_time": 1751027244,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 354766,
       "num": 354766,
       "word": "QQ音乐上线泡泡",
@@ -699,12 +803,12 @@
       "category": "音乐,数码"
     },
     {
-      "raw_hot": 347900,
-      "num": 214362,
-      "word": "刘亦菲没走红毯",
-      "onboard_time": 1751024063,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 349668,
+      "num": 349668,
+      "word": "美方相应取消对华有关限制措施",
+      "onboard_time": 1751025504,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 341201,
@@ -713,6 +817,14 @@
       "onboard_time": 1750982240,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 339880,
+      "num": 339880,
+      "word": "恋与深空兑换码",
+      "onboard_time": 1751026284,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 338974,
@@ -811,20 +923,20 @@
       "category": "艺人,互联网"
     },
     {
-      "raw_hot": 283556,
-      "num": 214269,
-      "word": "小巷人家",
-      "onboard_time": 1751022981,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 279829,
       "num": 298683,
       "word": "田栩宁方将取证",
       "onboard_time": 1750947444,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 276969,
+      "num": 276969,
+      "word": "藏海传剧组白玉兰重聚",
+      "onboard_time": 1751024483,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 274865,
@@ -868,19 +980,11 @@
     },
     {
       "raw_hot": 259027,
-      "num": 212465,
+      "num": 218009,
       "word": "章子怡 尽力了",
       "onboard_time": 1751023822,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 258824,
-      "num": 216566,
-      "word": "歌手海报质感",
-      "onboard_time": 1751019142,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 255655,
@@ -1075,12 +1179,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 210281,
+      "num": 210281,
+      "word": "凡希亚pk迷悠奈输了",
+      "onboard_time": 1751027964,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209376,
       "num": 209376,
       "word": "哈梅内伊称狠狠扇了美国一个耳光",
       "onboard_time": 1750950324,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 208380,
+      "num": 349494,
+      "word": "伊万不再担任国足主教练",
+      "onboard_time": 1751024602,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 208027,
+      "num": 208027,
+      "word": "大梦",
+      "onboard_time": 1751028624,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 207772,
@@ -1331,6 +1459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187605,
+      "num": 346391,
+      "word": "彩虹",
+      "onboard_time": 1751027782,
+      "rank": 17,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 187009,
       "num": 187009,
       "word": "苏超",
@@ -1409,6 +1545,14 @@
       "onboard_time": 1751005161,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 180850,
+      "num": 346156,
+      "word": "多方回应湖南母子相继坠河身亡",
+      "onboard_time": 1751027003,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 180644,
@@ -1595,6 +1739,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 162272,
+      "num": 343689,
+      "word": "晚霞",
+      "onboard_time": 1751027365,
+      "rank": 24,
+      "category": "旅游,民生新闻"
+    },
+    {
       "raw_hot": 159476,
       "num": 159476,
       "word": "第一次见在游泳池里的工位",
@@ -1771,14 +1923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 147540,
-      "num": 147540,
-      "word": "鹿晗演唱会",
-      "onboard_time": 1751017522,
-      "rank": 42,
-      "category": "演出"
-    },
-    {
       "raw_hot": 147402,
       "num": 158117,
       "word": "小米YU7大定3分钟破20万台",
@@ -1833,6 +1977,14 @@
       "onboard_time": 1750945044,
       "rank": 16,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 143853,
+      "num": 143853,
+      "word": "恋与深空",
+      "onboard_time": 1750996525,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 143531,
@@ -1987,6 +2139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132923,
+      "num": 317532,
+      "word": "第四十九号主席令",
+      "onboard_time": 1751028144,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 131619,
       "num": 131619,
       "word": "杭州602分上职业本科女生说不后悔",
@@ -2001,6 +2161,22 @@
       "onboard_time": 1751016022,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130148,
+      "num": 130148,
+      "word": "小象丹尼",
+      "onboard_time": 1751018003,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128818,
+      "num": 128818,
+      "word": "徐孝元成为韩国国家队教练",
+      "onboard_time": 1751028144,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 128489,
@@ -2089,6 +2265,14 @@
       "onboard_time": 1750994060,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 125424,
+      "num": 340470,
+      "word": "久尔杰维奇执教国足",
+      "onboard_time": 1751028503,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 125311,
@@ -2699,6 +2883,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 75562,
+      "num": 341812,
+      "word": "吉林农大有学生躺卫生间水池降温",
+      "onboard_time": 1751027544,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74437,
       "num": 180921,
       "word": "禁带相机电池系安检员错误理解条规",
@@ -2923,6 +3115,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 45096,
+      "num": 348046,
+      "word": "陈楚生说从vivo影像里看自己",
+      "onboard_time": 1751026164,
+      "rank": 13,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 43553,
       "num": 181168,
       "word": "唐山陶瓷大妈哽咽了",
@@ -3067,6 +3267,14 @@
       "category": "民生新闻,数码"
     },
     {
+      "raw_hot": 24715,
+      "num": 246304,
+      "word": "羽生结弦双封面杂志反差感",
+      "onboard_time": 1751028384,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 24632,
       "num": 38117,
       "word": "不需要去辨别说话的人是否善意",
@@ -3187,11 +3395,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17763,
+      "num": 347641,
+      "word": "商家称符合3C充电宝可补发贴纸",
+      "onboard_time": 1751027544,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17622,
+      "num": 345575,
+      "word": "街道办回应商场外给枯树绑绿叶",
+      "onboard_time": 1751028144,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17448,
       "num": 158682,
       "word": "郑平安这条线好完整",
       "onboard_time": 1751019322,
       "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 15988,
+      "num": 128637,
+      "word": "岳云鹏驰名双标只需一个表情",
+      "onboard_time": 1751026883,
+      "rank": 49,
       "category": "剧集"
     },
     {
