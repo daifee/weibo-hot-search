@@ -1,6 +1,6 @@
 {
   "startTime": 1750955581651,
-  "endTime": 1751017402405,
+  "endTime": 1751020130661,
   "band_list": [
     {
       "raw_hot": 12136998,
@@ -155,6 +155,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 936541,
+      "num": 936541,
+      "word": "白玉兰红毯",
+      "onboard_time": 1751019502,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 915565,
       "num": 867191,
       "word": "女子收到失联10年女儿死亡通知书",
@@ -233,6 +241,14 @@
       "onboard_time": 1750949605,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 708094,
+      "num": 513133,
+      "word": "桃黑黑中彩票",
+      "onboard_time": 1751018244,
+      "rank": 6,
+      "category": "网红"
     },
     {
       "raw_hot": 687974,
@@ -353,6 +369,14 @@
       "onboard_time": 1750996464,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 530523,
+      "num": 530523,
+      "word": "李在明下馆子喝鱼汤被记者追问",
+      "onboard_time": 1751016862,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 529636,
@@ -483,6 +507,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 455939,
+      "num": 323332,
+      "word": "白玉兰预测",
+      "onboard_time": 1751012907,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 435378,
+      "num": 435378,
+      "word": "小象丹尼 长期被霸凌",
+      "onboard_time": 1751018003,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 427620,
       "num": 255345,
       "word": "井柏然刘雯被当面追问婚讯",
@@ -499,11 +539,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 408122,
-      "num": 323332,
-      "word": "白玉兰预测",
-      "onboard_time": 1751012907,
-      "rank": 30,
+      "raw_hot": 414744,
+      "num": 252988,
+      "word": "上海白玉兰颁奖典礼红毯嘉宾阵容",
+      "onboard_time": 1751014705,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -584,6 +624,14 @@
       "word": "蔡澜的离别信",
       "onboard_time": 1751014765,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 368585,
+      "num": 368585,
+      "word": "蔡澜曾谈怎样面对亲友离世",
+      "onboard_time": 1751019322,
+      "rank": 8,
       "category": "艺人"
     },
     {
@@ -724,7 +772,7 @@
     },
     {
       "raw_hot": 264124,
-      "num": 209138,
+      "num": 211975,
       "word": "李沁花少路透",
       "onboard_time": 1751012787,
       "rank": 32,
@@ -777,6 +825,14 @@
       "onboard_time": 1750997483,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 249533,
+      "num": 249533,
+      "word": "罗马仕回应召回充电宝遭遇快递难",
+      "onboard_time": 1751016323,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 247568,
@@ -875,6 +931,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 224747,
+      "num": 224747,
+      "word": "杨紫李现锦绣芳华首发预告",
+      "onboard_time": 1751013385,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 223521,
       "num": 374831,
       "word": "未成年人行拘执行条件最新调整",
@@ -923,14 +987,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 212912,
-      "num": 154214,
-      "word": "上海白玉兰颁奖典礼红毯嘉宾阵容",
-      "onboard_time": 1751014705,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 209376,
       "num": 209376,
       "word": "哈梅内伊称狠狠扇了美国一个耳光",
@@ -968,6 +1024,14 @@
       "word": "李一桐穿越史上第一个滚筒式穿越",
       "onboard_time": 1750985843,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 206137,
+      "num": 206137,
+      "word": "李一桐不想结婚的原因找到了",
+      "onboard_time": 1751018782,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -1059,6 +1123,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 197911,
+      "num": 192408,
+      "word": "第一次见把自己累死的男主",
+      "onboard_time": 1751019563,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197014,
       "num": 216077,
       "word": "急救员回应救护车带ECMO不用也收费",
@@ -1091,11 +1163,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 192976,
-      "num": 192976,
-      "word": "杨紫李现锦绣芳华首发预告",
-      "onboard_time": 1751013385,
-      "rank": 37,
+      "raw_hot": 193058,
+      "num": 193058,
+      "word": "桃花映江山的妾室第二人居然是莲房",
+      "onboard_time": 1751019742,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -1113,6 +1185,14 @@
       "onboard_time": 1750952423,
       "rank": 17,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 190654,
+      "num": 190654,
+      "word": "我订婚老板送了一套房",
+      "onboard_time": 1751017701,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 190641,
@@ -1137,6 +1217,14 @@
       "onboard_time": 1751003122,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188290,
+      "num": 188290,
+      "word": "歌手海报质感",
+      "onboard_time": 1751019142,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 187009,
@@ -1217,6 +1305,14 @@
       "onboard_time": 1751017282,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177652,
+      "num": 177652,
+      "word": "范丞丞章若楠小学生吵架",
+      "onboard_time": 1751019322,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 176222,
@@ -1347,14 +1443,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 159564,
-      "num": 159564,
-      "word": "李在明下馆子喝鱼汤被记者追问",
-      "onboard_time": 1751016862,
-      "rank": 18,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 159476,
       "num": 159476,
       "word": "第一次见在游泳池里的工位",
@@ -1475,6 +1563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150521,
+      "num": 150521,
+      "word": "傅首尔儿子都这么大了",
+      "onboard_time": 1751019622,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149689,
       "num": 149689,
       "word": "张勇等9人退出阿里合伙人",
@@ -1497,6 +1593,14 @@
       "onboard_time": 1751009600,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147540,
+      "num": 147540,
+      "word": "鹿晗演唱会",
+      "onboard_time": 1751017522,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 147402,
@@ -1691,6 +1795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131418,
+      "num": 245956,
+      "word": "杨迪痛悼蔡澜",
+      "onboard_time": 1751019802,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131332,
       "num": 131332,
       "word": "刘学义用脸骂人赛道",
@@ -1803,6 +1915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122235,
+      "num": 122235,
+      "word": "鄂AD07088你藏收款码的样子真帅",
+      "onboard_time": 1751019022,
+      "rank": 43,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 121912,
       "num": 121912,
       "word": "这不是特效这是漫天飞舞的蝴蝶",
@@ -1825,6 +1945,14 @@
       "onboard_time": 1750994422,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121377,
+      "num": 121377,
+      "word": "日本中小学教师有组织偷拍猥亵女童",
+      "onboard_time": 1751019681,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 120698,
@@ -1995,6 +2123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108468,
+      "num": 108468,
+      "word": "荔枝该怎么保存",
+      "onboard_time": 1751019083,
+      "rank": 47,
+      "category": "美食,科学科普"
+    },
+    {
       "raw_hot": 107799,
       "num": 107799,
       "word": "萨尔茨堡红牛vs皇马",
@@ -2163,11 +2299,35 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 88496,
+      "num": 247921,
+      "word": "在中国20万能买到多豪华的车",
+      "onboard_time": 1751019322,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 87962,
+      "num": 209617,
+      "word": "男子境外遥控父亲境内贩毒",
+      "onboard_time": 1751016683,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87626,
       "num": 87626,
       "word": "煤气泄露14岁男生救了整栋楼",
       "onboard_time": 1750962915,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87542,
+      "num": 87542,
+      "word": "女子三餐水煮菜半年脂肪肝反而加重",
+      "onboard_time": 1751020101,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -2603,14 +2763,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 29021,
-      "num": 209617,
-      "word": "男子境外遥控父亲境内贩毒",
-      "onboard_time": 1751016683,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 28331,
       "num": 94966,
       "word": "你是说在地大用天地当课堂吗",
@@ -2681,6 +2833,14 @@
       "onboard_time": 1750999284,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22923,
+      "num": 259805,
+      "word": "充电宝塌房不能让消费者扛下所有",
+      "onboard_time": 1751018483,
+      "rank": 14,
+      "category": "互联网,数码"
     },
     {
       "raw_hot": 22550,
@@ -2763,6 +2923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 15620,
+      "num": 158682,
+      "word": "郑平安这条线好完整",
+      "onboard_time": 1751019322,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 15403,
       "num": 138090,
       "word": "西贝已注册值得信赖相关商标",
@@ -2777,6 +2945,14 @@
       "onboard_time": 1750966874,
       "rank": 45,
       "category": "网红"
+    },
+    {
+      "raw_hot": 14489,
+      "num": 244447,
+      "word": "预计今年高考志愿付费规模超10亿元",
+      "onboard_time": 1751019681,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13890,
@@ -2801,6 +2977,14 @@
       "onboard_time": 1751013325,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 10379,
+      "num": 158636,
+      "word": "好博会能嗨玩一整天",
+      "onboard_time": 1751018782,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 8825,
