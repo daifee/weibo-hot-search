@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1751035479806,
+  "endTime": 1751038082379,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -27,6 +27,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 12901932,
+      "num": 12901932,
+      "word": "白玉兰获奖名单",
+      "onboard_time": 1751032048,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 12136998,
       "num": 12136998,
       "word": "蔡澜去世",
@@ -43,11 +51,11 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 10757854,
-      "num": 10757854,
-      "word": "白玉兰获奖名单",
-      "onboard_time": 1751032048,
-      "rank": 13,
+      "raw_hot": 9612507,
+      "num": 9612507,
+      "word": "宋佳白玉兰视后",
+      "onboard_time": 1751036790,
+      "rank": 1,
       "category": "剧集"
     },
     {
@@ -137,6 +145,14 @@
       "onboard_time": 1751007382,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 2840296,
+      "num": 443608,
+      "word": "靳东白玉兰视帝",
+      "onboard_time": 1751036009,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 2832425,
@@ -555,6 +571,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1552030,
+      "num": 430328,
+      "word": "蒋欣获奖关晓彤哭了",
+      "onboard_time": 1751037031,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1542021,
       "num": 1542021,
       "word": "梁实高考454分",
@@ -881,6 +905,14 @@
       "onboard_time": 1750936341,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1150062,
+      "num": 428169,
+      "word": "单依纯哭了",
+      "onboard_time": 1751035950,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1143160,
@@ -1305,6 +1337,14 @@
       "onboard_time": 1750999463,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 909830,
+      "num": 402099,
+      "word": "宋佳实至名归",
+      "onboard_time": 1751037508,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 908359,
@@ -1969,6 +2009,14 @@
       "onboard_time": 1750898183,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 709079,
+      "num": 385619,
+      "word": "居然不是闫妮",
+      "onboard_time": 1751037389,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 705214,
@@ -2673,6 +2721,14 @@
       "onboard_time": 1750746140,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 588036,
+      "num": 371978,
+      "word": "于和伟陪跑",
+      "onboard_time": 1751036971,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 587951,
@@ -3651,6 +3707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 471819,
+      "num": 363993,
+      "word": "黄子韬徐艺洋看鹿晗演唱会",
+      "onboard_time": 1751037031,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 471541,
       "num": 455417,
       "word": "女生估分450考了538激动泪崩",
@@ -3945,6 +4009,14 @@
       "onboard_time": 1750649423,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 444708,
+      "num": 574053,
+      "word": "高考288分事件被质疑炒作引流",
+      "onboard_time": 1751034028,
+      "rank": 24,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 444631,
@@ -5083,6 +5155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 350185,
+      "num": 350185,
+      "word": "西北岁月",
+      "onboard_time": 1751037747,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 350104,
       "num": 350104,
       "word": "枭起青壤",
@@ -5715,6 +5795,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 311515,
+      "num": 311515,
+      "word": "付航段子 没人笑",
+      "onboard_time": 1751036429,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 311281,
       "num": 431014,
       "word": "陈楚生第二",
@@ -5729,6 +5817,14 @@
       "onboard_time": 1750775185,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 309944,
+      "num": 581084,
+      "word": "黄金",
+      "onboard_time": 1750643120,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 309547,
@@ -5801,14 +5897,6 @@
       "onboard_time": 1750561223,
       "rank": 22,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 305064,
-      "num": 581084,
-      "word": "黄金",
-      "onboard_time": 1750643120,
-      "rank": 18,
-      "category": "财经"
     },
     {
       "raw_hot": 304108,
@@ -6025,6 +6113,14 @@
       "onboard_time": 1750510103,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 294731,
+      "num": 294731,
+      "word": "张若昀朝杨紫挑眉这一下",
+      "onboard_time": 1751036550,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 294429,
@@ -7105,14 +7201,6 @@
       "onboard_time": 1750944023,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 245174,
-      "num": 574053,
-      "word": "高考288分事件被质疑炒作引流",
-      "onboard_time": 1751034028,
-      "rank": 24,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 245162,
@@ -9347,6 +9435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 195844,
+      "num": 509996,
+      "word": "豆瓣崩了",
+      "onboard_time": 1751034929,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 195770,
       "num": 361274,
       "word": "檀健次直播",
@@ -10865,14 +10961,6 @@
       "onboard_time": 1750839922,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 173427,
-      "num": 509996,
-      "word": "豆瓣崩了",
-      "onboard_time": 1751034929,
-      "rank": 21,
-      "category": "互联网"
     },
     {
       "raw_hot": 173343,
@@ -12580,7 +12668,7 @@
     },
     {
       "raw_hot": 151951,
-      "num": 185250,
+      "num": 286193,
       "word": "退学北大男生被说是最差年级第一",
       "onboard_time": 1751022143,
       "rank": 37,
@@ -18067,6 +18155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 85974,
+      "num": 279374,
+      "word": "在杭州遇到了世纪晚霞",
+      "onboard_time": 1751035467,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 85885,
       "num": 242286,
       "word": "以色列承认曾企图刺杀哈梅内伊",
@@ -18161,6 +18257,14 @@
       "onboard_time": 1750564522,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83053,
+      "num": 264677,
+      "word": "F1",
+      "onboard_time": 1751036129,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 82762,
@@ -18347,6 +18451,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 78103,
+      "num": 433841,
+      "word": "被打还手即互殴成为历史",
+      "onboard_time": 1751037269,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78050,
       "num": 78050,
       "word": "黄轩女友分享日常vlog",
@@ -18489,6 +18601,14 @@
       "onboard_time": 1751033668,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 76220,
+      "num": 407958,
+      "word": "Jonathan的Dior首秀",
+      "onboard_time": 1751036971,
+      "rank": 18,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 76210,
@@ -20131,6 +20251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 45224,
+      "num": 404910,
+      "word": "美国多州报告火球从天而降",
+      "onboard_time": 1751037694,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 45096,
       "num": 348046,
       "word": "陈楚生说从vivo影像里看自己",
@@ -20603,12 +20731,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 36665,
+      "num": 376176,
+      "word": "小猫误入洗衣机转了55分钟3000转",
+      "onboard_time": 1751037694,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36596,
       "num": 164867,
       "word": "杨瀚森出发前往纽约",
       "onboard_time": 1750734203,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 36522,
+      "num": 350187,
+      "word": "三角洲明日方舟联动皮肤公开",
+      "onboard_time": 1751037329,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 36473,

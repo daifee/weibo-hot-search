@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1751035479806,
+  "endTime": 1751038082379,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -67,6 +67,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 12901932,
+      "num": 12901932,
+      "word": "白玉兰获奖名单",
+      "onboard_time": 1751032048,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 12136998,
       "num": 12136998,
       "word": "蔡澜去世",
@@ -115,14 +123,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 10757854,
-      "num": 10757854,
-      "word": "白玉兰获奖名单",
-      "onboard_time": 1751032048,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 10666191,
       "num": 10666191,
       "word": "王者荣耀给单依纯打钱",
@@ -145,6 +145,14 @@
       "onboard_time": 1748956522,
       "rank": 0,
       "category": "网红"
+    },
+    {
+      "raw_hot": 9612507,
+      "num": 9612507,
+      "word": "宋佳白玉兰视后",
+      "onboard_time": 1751036790,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 9141770,
@@ -537,6 +545,14 @@
       "onboard_time": 1751007382,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 2840296,
+      "num": 443608,
+      "word": "靳东白玉兰视帝",
+      "onboard_time": 1751036009,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 2832425,
@@ -2089,6 +2105,14 @@
       "onboard_time": 1748707819,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1552030,
+      "num": 430328,
+      "word": "蒋欣获奖关晓彤哭了",
+      "onboard_time": 1751037031,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 1545050,
@@ -3681,6 +3705,14 @@
       "onboard_time": 1748840960,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1150062,
+      "num": 428169,
+      "word": "单依纯哭了",
+      "onboard_time": 1751035950,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1147442,
@@ -5577,6 +5609,14 @@
       "onboard_time": 1749033200,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 909830,
+      "num": 402099,
+      "word": "宋佳实至名归",
+      "onboard_time": 1751037508,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 908359,
@@ -8267,6 +8307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 709079,
+      "num": 385619,
+      "word": "居然不是闫妮",
+      "onboard_time": 1751037389,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 708801,
       "num": 708801,
       "word": "新说唱导演道歉",
@@ -10865,6 +10913,14 @@
       "onboard_time": 1749009741,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 588036,
+      "num": 371978,
+      "word": "于和伟陪跑",
+      "onboard_time": 1751036971,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 587951,
@@ -14539,6 +14595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 471819,
+      "num": 363993,
+      "word": "黄子韬徐艺洋看鹿晗演唱会",
+      "onboard_time": 1751037031,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 471749,
       "num": 471749,
       "word": "饶雪漫选角求助",
@@ -15561,6 +15625,14 @@
       "onboard_time": 1749202821,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 444708,
+      "num": 574053,
+      "word": "高考288分事件被质疑炒作引流",
+      "onboard_time": 1751034028,
+      "rank": 24,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 443943,
@@ -20131,6 +20203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 350185,
+      "num": 350185,
+      "word": "西北岁月",
+      "onboard_time": 1751037747,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 350051,
       "num": 350051,
       "word": "运动后一定要及时擦干净脖子上的汗",
@@ -22651,6 +22731,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 311515,
+      "num": 311515,
+      "word": "付航段子 没人笑",
+      "onboard_time": 1751036429,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 311291,
       "num": 459887,
       "word": "多地国补暂停或因618活动本身存在折扣",
@@ -23945,6 +24033,14 @@
       "onboard_time": 1748917041,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 294731,
+      "num": 294731,
+      "word": "张若昀朝杨紫挑眉这一下",
+      "onboard_time": 1751036550,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 294636,
@@ -28737,14 +28833,6 @@
       "onboard_time": 1749009560,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 245174,
-      "num": 574053,
-      "word": "高考288分事件被质疑炒作引流",
-      "onboard_time": 1751034028,
-      "rank": 24,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 245162,
@@ -43620,7 +43708,7 @@
     },
     {
       "raw_hot": 179290,
-      "num": 179290,
+      "num": 264677,
       "word": "F1",
       "onboard_time": 1748783901,
       "rank": 22,
@@ -52964,7 +53052,7 @@
     },
     {
       "raw_hot": 151951,
-      "num": 185250,
+      "num": 286193,
       "word": "退学北大男生被说是最差年级第一",
       "onboard_time": 1751022143,
       "rank": 37,
@@ -77931,6 +78019,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 85974,
+      "num": 279374,
+      "word": "在杭州遇到了世纪晚霞",
+      "onboard_time": 1751035467,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 85972,
       "num": 244749,
       "word": "印度客机坠毁现场黑烟滚滚",
@@ -79627,6 +79723,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 78103,
+      "num": 433841,
+      "word": "被打还手即互殴成为历史",
+      "onboard_time": 1751037269,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78058,
       "num": 78058,
       "word": "宁静潮牌定价",
@@ -80129,6 +80233,14 @@
       "onboard_time": 1749615983,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76220,
+      "num": 407958,
+      "word": "Jonathan的Dior首秀",
+      "onboard_time": 1751036971,
+      "rank": 18,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 76213,
@@ -87755,6 +87867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45224,
+      "num": 404910,
+      "word": "美国多州报告火球从天而降",
+      "onboard_time": 1751037694,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 45209,
       "num": 451923,
       "word": "苏超出圈是散装江苏真正的阳谋",
@@ -90531,6 +90651,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 36665,
+      "num": 376176,
+      "word": "小猫误入洗衣机转了55分钟3000转",
+      "onboard_time": 1751037694,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36656,
       "num": 200665,
       "word": "商家回应快递盒印小狗快递员配送",
@@ -90593,6 +90721,14 @@
       "onboard_time": 1750137143,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 36522,
+      "num": 350187,
+      "word": "三角洲明日方舟联动皮肤公开",
+      "onboard_time": 1751037329,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 36473,

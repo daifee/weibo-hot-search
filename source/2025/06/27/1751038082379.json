@@ -1,0 +1,410 @@
+{
+  "runTime": 1751038082379,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 12901932,
+        "num": 12901932,
+        "word": "白玉兰获奖名单",
+        "onboard_time": 1751032048,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9612507,
+        "num": 9612507,
+        "word": "宋佳白玉兰视后",
+        "onboard_time": 1751036790,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64223,
+        "num": 711831,
+        "word": "7月这些新规影响你我",
+        "onboard_time": 1751031627,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 574777,
+        "num": 574777,
+        "word": "洞洞鞋 真菌感染",
+        "onboard_time": 1751011707,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 475500,
+        "num": 475500,
+        "word": "美一飞船失控150人骨灰全扬了",
+        "onboard_time": 1751030364,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 444708,
+        "num": 444708,
+        "word": "高考288分事件被质疑炒作引流",
+        "onboard_time": 1751034028,
+        "rank": 5,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 2840296,
+        "num": 443608,
+        "word": "靳东白玉兰视帝",
+        "onboard_time": 1751036009,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2465020,
+        "num": 440127,
+        "word": "白玉兰内场",
+        "onboard_time": 1751030304,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309944,
+        "num": 436324,
+        "word": "黄金",
+        "onboard_time": 1751034088,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 78103,
+        "num": 433841,
+        "word": "被打还手即互殴成为历史",
+        "onboard_time": 1751037269,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1552030,
+        "num": 430328,
+        "word": "蒋欣获奖关晓彤哭了",
+        "onboard_time": 1751037031,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1150062,
+        "num": 428169,
+        "word": "单依纯哭了",
+        "onboard_time": 1751035950,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 994577,
+        "num": 425792,
+        "word": "白玉兰直播",
+        "onboard_time": 1751027604,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252991,
+        "num": 421596,
+        "word": "吉林大学 支帐篷过夜",
+        "onboard_time": 1751029825,
+        "rank": 13,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 195844,
+        "num": 421031,
+        "word": "豆瓣崩了",
+        "onboard_time": 1751034929,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1175138,
+        "num": 416912,
+        "word": "蒋欣最佳女配角",
+        "onboard_time": 1751033967,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171565,
+        "num": 415072,
+        "word": "香港四大才子均已逝世",
+        "onboard_time": 1751011827,
+        "rank": 16,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 155683,
+        "num": 411750,
+        "word": "多方回应湖南母子相继坠河身亡",
+        "onboard_time": 1751027003,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76220,
+        "num": 407958,
+        "word": "Jonathan的Dior首秀",
+        "onboard_time": 1751036971,
+        "rank": 18,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 45224,
+        "num": 404910,
+        "word": "美国多州报告火球从天而降",
+        "onboard_time": 1751037694,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 909830,
+        "num": 402099,
+        "word": "宋佳实至名归",
+        "onboard_time": 1751037508,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 827892,
+        "num": 399643,
+        "word": "蔡澜去世",
+        "onboard_time": 1751010686,
+        "rank": 21,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 781109,
+        "num": 396057,
+        "word": "刘亦菲没去白玉兰",
+        "onboard_time": 1751030665,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125219,
+        "num": 394069,
+        "word": "台湾彩民花800元独揽17亿头奖",
+        "onboard_time": 1751032048,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39084,
+        "num": 389040,
+        "word": "Dior大秀直播代入感好强",
+        "onboard_time": 1751033788,
+        "rank": 24,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 709079,
+        "num": 385619,
+        "word": "居然不是闫妮",
+        "onboard_time": 1751037389,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 695239,
+        "num": 383866,
+        "word": "杨紫白玉兰感言",
+        "onboard_time": 1751034691,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 604757,
+        "num": 382299,
+        "word": "鹿晗演唱会",
+        "onboard_time": 1751017522,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121007,
+        "num": 377629,
+        "word": "上海暴雨",
+        "onboard_time": 1751024782,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36665,
+        "num": 376176,
+        "word": "小猫误入洗衣机转了55分钟3000转",
+        "onboard_time": 1751037694,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 588036,
+        "num": 371978,
+        "word": "于和伟陪跑",
+        "onboard_time": 1751036971,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115774,
+        "num": 369914,
+        "word": "24岁小伙久坐不动致多处血栓险丧命",
+        "onboard_time": 1751030605,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 518359,
+        "num": 365209,
+        "word": "蒋奇明最佳男配角",
+        "onboard_time": 1751034149,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 471819,
+        "num": 363993,
+        "word": "黄子韬徐艺洋看鹿晗演唱会",
+        "onboard_time": 1751037031,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102953,
+        "num": 359758,
+        "word": "上海女硕士被大专男骗财骗色骗卵",
+        "onboard_time": 1751006961,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 470437,
+        "num": 358610,
+        "word": "马嘉祺回来吧",
+        "onboard_time": 1751032048,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356053,
+        "num": 356053,
+        "word": "白玉兰预测",
+        "onboard_time": 1751012907,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102310,
+        "num": 350786,
+        "word": "恋与深空婚卡",
+        "onboard_time": 1751026583,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 96356,
+        "num": 350241,
+        "word": "美方相应取消对华有关限制措施",
+        "onboard_time": 1751025504,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 36522,
+        "num": 350187,
+        "word": "三角洲明日方舟联动皮肤公开",
+        "onboard_time": 1751037329,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 350185,
+        "num": 350185,
+        "word": "西北岁月",
+        "onboard_time": 1751037747,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 313282,
+        "num": 313282,
+        "word": "单依纯 下一季不来了",
+        "onboard_time": 1751032949,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311515,
+        "num": 311515,
+        "word": "付航段子 没人笑",
+        "onboard_time": 1751036429,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294731,
+        "num": 294731,
+        "word": "张若昀朝杨紫挑眉这一下",
+        "onboard_time": 1751036550,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88906,
+        "num": 293635,
+        "word": "荔枝跌至1斤1块钱已近成本线",
+        "onboard_time": 1751023704,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87128,
+        "num": 286193,
+        "word": "退学北大男生被说是最差年级第一",
+        "onboard_time": 1751022143,
+        "rank": 45,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 85974,
+        "num": 279374,
+        "word": "在杭州遇到了世纪晚霞",
+        "onboard_time": 1751035467,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 83890,
+        "num": 274174,
+        "word": "宠物猫放生宠物蛇吓坏邻居",
+        "onboard_time": 1751028444,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83053,
+        "num": 264677,
+        "word": "F1",
+        "onboard_time": 1751036129,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80796,
+        "num": 262174,
+        "word": "妻女患癌丈夫深夜直播跳舞挣钱",
+        "onboard_time": 1751029286,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见塞内加尔总理#"
+    }
+  }
+}
