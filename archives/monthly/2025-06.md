@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/28 07:26:14
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/28 07:40:32
 </p>
 </blockquote>
 <p>
@@ -5745,6 +5745,12 @@ LV 王楚钦（热度：752490）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%89%93%E8%BF%98%E6%89%8B%E5%8D%B3%E4%BA%92%E6%AE%B4%E6%88%90%E4%B8%BA%E5%8E%86%E5%8F%B2%23" target="weibo">
+被打还手即互殴成为历史（热度：743979）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23F35%23" target="weibo">
 F35（热度：742995）
 </a>
@@ -6005,12 +6011,6 @@ Labubu 审美（热度：729066）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%88%AA%E5%B1%80%E5%AF%B9%E5%85%85%E7%94%B5%E5%AE%9D%E5%8F%91%E7%B4%A7%E6%80%A5%E9%80%9A%E7%9F%A5%23" target="weibo">
 民航局对充电宝发紧急通知（热度：727819）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%96%AA%E8%BE%BE20%E4%B8%87%E5%B0%B1%E4%B8%9A%E7%8E%8795%25%E8%80%81%E5%B8%88%E4%B9%90%E5%9D%8F%E4%BA%86%23" target="weibo">
-年薪达20万就业率95%老师乐坏了（热度：727173）
 </a>
 </li>
 

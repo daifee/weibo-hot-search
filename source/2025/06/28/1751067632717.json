@@ -1,0 +1,410 @@
+{
+  "runTime": 1751067632717,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1458791,
+        "num": 1458791,
+        "word": "宋佳白玉兰视后",
+        "onboard_time": 1751036790,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 874484,
+        "num": 874484,
+        "word": "蒋欣获奖关晓彤哭了",
+        "onboard_time": 1751037031,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51004,
+        "num": 757765,
+        "word": "7月这些新规影响你我",
+        "onboard_time": 1751031627,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 743979,
+        "num": 743979,
+        "word": "被打还手即互殴成为历史",
+        "onboard_time": 1751037269,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 411123,
+        "num": 411123,
+        "word": "小猫误入洗衣机转了55分钟3000转",
+        "onboard_time": 1751037694,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329593,
+        "num": 329593,
+        "word": "男子杀害女友藏尸酒店床底被执死刑",
+        "onboard_time": 1751038763,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 459934,
+        "num": 329036,
+        "word": "白玉兰获奖名单",
+        "onboard_time": 1751032048,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 327291,
+        "num": 327291,
+        "word": "居然不是闫妮",
+        "onboard_time": 1751037389,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310896,
+        "num": 310896,
+        "word": "美一飞船失控150人骨灰全扬了",
+        "onboard_time": 1751030364,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 281467,
+        "num": 281467,
+        "word": "多方回应美国多州报告火球从天而降",
+        "onboard_time": 1751065278,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 351129,
+        "num": 278562,
+        "word": "家属回应女儿高考288分爆火被指炒作",
+        "onboard_time": 1751039905,
+        "rank": 10,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 290407,
+        "num": 273623,
+        "word": "杨紫台下那一声尖叫",
+        "onboard_time": 1751038526,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266329,
+        "num": 266329,
+        "word": "美国多州报告火球从天而降",
+        "onboard_time": 1751037694,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 264208,
+        "num": 264208,
+        "word": "靳东白玉兰视帝",
+        "onboard_time": 1751036009,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242752,
+        "num": 242752,
+        "word": "刘亦菲没去白玉兰",
+        "onboard_time": 1751030665,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241433,
+        "num": 241433,
+        "word": "单依纯哭了",
+        "onboard_time": 1751035950,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178174,
+        "num": 178174,
+        "word": "张家界人造古城营业4年亏了10多亿",
+        "onboard_time": 1751039005,
+        "rank": 16,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 177182,
+        "num": 177182,
+        "word": "糖尿病 年轻化",
+        "onboard_time": 1751066719,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 153253,
+        "num": 153253,
+        "word": "当地回应一干部三次犯罪仍被提拔",
+        "onboard_time": 1751041165,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128969,
+        "num": 128969,
+        "word": "美军打击伊朗核设施筹备了15年",
+        "onboard_time": 1751040086,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 221350,
+        "num": 128350,
+        "word": "王安宇给蒋欣送蛇瓜",
+        "onboard_time": 1751043741,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89264,
+        "num": 127482,
+        "word": "美国将立即终止与加拿大所有贸易谈判",
+        "onboard_time": 1751067200,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 195481,
+        "num": 127192,
+        "word": "蔡澜去世",
+        "onboard_time": 1751010686,
+        "rank": 22,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 161740,
+        "num": 125771,
+        "word": "鹿晗这个退场",
+        "onboard_time": 1751038705,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160019,
+        "num": 125300,
+        "word": "边水往事",
+        "onboard_time": 1751039965,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124865,
+        "num": 124865,
+        "word": "洞洞鞋 真菌感染",
+        "onboard_time": 1751011707,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 124711,
+        "num": 124711,
+        "word": "退学北大男生被说是最差年级第一",
+        "onboard_time": 1751022143,
+        "rank": 26,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 124442,
+        "num": 124442,
+        "word": "歌手",
+        "onboard_time": 1751066838,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120401,
+        "num": 120401,
+        "word": "鹿晗 真诚",
+        "onboard_time": 1751067558,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 99231,
+        "num": 99231,
+        "word": "歌手排名",
+        "onboard_time": 1751032589,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112405,
+        "num": 98608,
+        "word": "美飞行员飞37小时像猫一样解决排泄",
+        "onboard_time": 1751066419,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 93889,
+        "num": 93889,
+        "word": "马嘉祺回来吧",
+        "onboard_time": 1751032048,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88269,
+        "num": 88269,
+        "word": "宋佳实至名归",
+        "onboard_time": 1751037508,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87633,
+        "num": 87633,
+        "word": "陈星旭因病住院",
+        "onboard_time": 1751040745,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80925,
+        "num": 80925,
+        "word": "特朗普称考虑再轰炸伊朗",
+        "onboard_time": 1751067079,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 78871,
+        "num": 78871,
+        "word": "傅首尔瘦身成功美出新高度",
+        "onboard_time": 1751056456,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77595,
+        "num": 77595,
+        "word": "杨紫也有被拍照难到的一天",
+        "onboard_time": 1751060835,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74787,
+        "num": 74787,
+        "word": "上海女硕士被大专男骗财骗色骗卵",
+        "onboard_time": 1751006961,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70673,
+        "num": 70673,
+        "word": "MSI",
+        "onboard_time": 1751066118,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 70558,
+        "num": 70558,
+        "word": "多方回应湖南母子相继坠河身亡",
+        "onboard_time": 1751027003,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70306,
+        "num": 70306,
+        "word": "任嘉伦 大背头",
+        "onboard_time": 1751063116,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66249,
+        "num": 66249,
+        "word": "白玉兰直播",
+        "onboard_time": 1751027604,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60769,
+        "num": 60769,
+        "word": "蔡澜曾谈怎样面对亲友离世",
+        "onboard_time": 1751019322,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59087,
+        "num": 59087,
+        "word": "吉林大学 支帐篷过夜",
+        "onboard_time": 1751029825,
+        "rank": 43,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 58160,
+        "num": 58160,
+        "word": "我是刑警",
+        "onboard_time": 1751039185,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53604,
+        "num": 53604,
+        "word": "又看到了风情万种的佟湘玉",
+        "onboard_time": 1751065397,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51662,
+        "num": 51662,
+        "word": "美方相应取消对华有关限制措施",
+        "onboard_time": 1751025504,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 49134,
+        "num": 51661,
+        "word": "社区回应四川一名儿童不慎坠亡",
+        "onboard_time": 1751041583,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48081,
+        "num": 51660,
+        "word": "王宝强奖运",
+        "onboard_time": 1751041945,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43524,
+        "num": 51657,
+        "word": "耐克大涨12%",
+        "onboard_time": 1751067079,
+        "rank": 49,
+        "category": "财经,体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见厄瓜多尔总统#"
+    }
+  }
+}
