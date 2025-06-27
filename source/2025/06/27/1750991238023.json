@@ -1,0 +1,410 @@
+{
+  "runTime": 1750991238023,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 865780,
+        "num": 1138524,
+        "word": "警方证实网红小四爷被带走",
+        "onboard_time": 1750983082,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 740515,
+        "num": 740515,
+        "word": "小米股票",
+        "onboard_time": 1750989083,
+        "rank": 1,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 7117,
+        "num": 634168,
+        "word": "活力中国调研行",
+        "onboard_time": 1750933102,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 598378,
+        "num": 598378,
+        "word": "于正删除书卷一梦宣传博",
+        "onboard_time": 1750988722,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 524407,
+        "num": 524407,
+        "word": "尹锡悦每天去医院照顾金建希",
+        "onboard_time": 1750984942,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 628729,
+        "num": 464367,
+        "word": "小米汽车",
+        "onboard_time": 1750934422,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 369237,
+        "num": 369237,
+        "word": "加沙民众成批死去只为一块面包",
+        "onboard_time": 1750985663,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 324553,
+        "num": 324553,
+        "word": "哈尔滨高温高校学生回应在楼道睡觉",
+        "onboard_time": 1750980439,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310752,
+        "num": 310752,
+        "word": "刘亦菲宋佳杨紫等入围白玉兰最佳女主",
+        "onboard_time": 1750983380,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322720,
+        "num": 308941,
+        "word": "表决通过新修订的治安管理处罚法",
+        "onboard_time": 1750989142,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1245185,
+        "num": 306126,
+        "word": "梓渝 丁禹兮",
+        "onboard_time": 1750987882,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 825158,
+        "num": 305079,
+        "word": "卢昱晓好直观的瘦",
+        "onboard_time": 1750986442,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 627499,
+        "num": 302071,
+        "word": "图书馆三十秒",
+        "onboard_time": 1750981161,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 583193,
+        "num": 300082,
+        "word": "女孩哭诉从一年级被父亲藏匿7年",
+        "onboard_time": 1750986681,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 582939,
+        "num": 296324,
+        "word": "女生发现KTV不适标语勇敢举报",
+        "onboard_time": 1750984762,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 438778,
+        "num": 294142,
+        "word": "原来没散光是这样的",
+        "onboard_time": 1750981640,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 292600,
+        "num": 292600,
+        "word": "以色列被曝拥有90枚核弹头",
+        "onboard_time": 1750977737,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 285031,
+        "num": 285031,
+        "word": "QQ音乐上线泡泡",
+        "onboard_time": 1750985301,
+        "rank": 17,
+        "category": "音乐,数码"
+      },
+      {
+        "raw_hot": 283944,
+        "num": 283944,
+        "word": "黄子韬徐艺洋 巧克力水蜜桃",
+        "onboard_time": 1750982240,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207234,
+        "num": 281732,
+        "word": "李一桐穿越史上第一个滚筒式穿越",
+        "onboard_time": 1750985843,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281595,
+        "num": 281595,
+        "word": "加沙15岁少年饿到只剩18公斤",
+        "onboard_time": 1750988722,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 246905,
+        "num": 246905,
+        "word": "退58.9万捐款妈妈回应儿子高考647分",
+        "onboard_time": 1750981822,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245590,
+        "num": 245590,
+        "word": "中国人团结再一次具象化了",
+        "onboard_time": 1750984584,
+        "rank": 22,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 221620,
+        "num": 221620,
+        "word": "以为会变胖其实很减肥的习惯",
+        "onboard_time": 1750954702,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 184542,
+        "num": 184542,
+        "word": "11岁男童160斤睡觉时反复呼吸暂停",
+        "onboard_time": 1750986442,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155599,
+        "num": 155599,
+        "word": "井柏然刘雯被当面追问婚讯",
+        "onboard_time": 1750951163,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151819,
+        "num": 151819,
+        "word": "鹿晗首个百万想看90后歌手",
+        "onboard_time": 1750986623,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 134126,
+        "num": 146338,
+        "word": "鱿鱼游戏第三季",
+        "onboard_time": 1750983021,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132069,
+        "num": 144337,
+        "word": "白玉兰提名的压迫感",
+        "onboard_time": 1750953322,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143531,
+        "num": 143531,
+        "word": "超模胡兵的高能24小时",
+        "onboard_time": 1750990580,
+        "rank": 29,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 140728,
+        "num": 140728,
+        "word": "小米发布会后股价飙涨",
+        "onboard_time": 1750990941,
+        "rank": 30,
+        "category": "汽车,财经"
+      },
+      {
+        "raw_hot": 138139,
+        "num": 138139,
+        "word": "虞书欣的腰",
+        "onboard_time": 1750947324,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138046,
+        "num": 138046,
+        "word": "中国记者遭乌无人机袭击受伤",
+        "onboard_time": 1750980739,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 130761,
+        "num": 130761,
+        "word": "6岁女孩被西贝服务员拍照当背景图",
+        "onboard_time": 1750954702,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128489,
+        "num": 128489,
+        "word": "小米汽车板块大爆发",
+        "onboard_time": 1750990762,
+        "rank": 34,
+        "category": "汽车,财经"
+      },
+      {
+        "raw_hot": 121912,
+        "num": 121912,
+        "word": "这不是特效这是漫天飞舞的蝴蝶",
+        "onboard_time": 1750988902,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121299,
+        "num": 121299,
+        "word": "张译是不是真上过班",
+        "onboard_time": 1750948586,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120065,
+        "num": 120065,
+        "word": "刘亦菲美的不知天地为何物了",
+        "onboard_time": 1750956319,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112570,
+        "num": 112570,
+        "word": "书卷一梦首播冲顶热度总榜",
+        "onboard_time": 1750988362,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101267,
+        "num": 112171,
+        "word": "萨尔茨堡红牛vs皇马首发",
+        "onboard_time": 1750988362,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111883,
+        "num": 111883,
+        "word": "男生高中3年没手机考698称很感恩",
+        "onboard_time": 1750987763,
+        "rank": 40,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 110524,
+        "num": 110524,
+        "word": "哈尔滨一高校学生楼道乘凉睡觉",
+        "onboard_time": 1750984942,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110489,
+        "num": 110489,
+        "word": "男子花90.8万彩礼娶的老婆不见了",
+        "onboard_time": 1750945586,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110478,
+        "num": 110478,
+        "word": "世俱杯惊现逆天乌龙球",
+        "onboard_time": 1750987341,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108871,
+        "num": 108871,
+        "word": "湖人有了自己的阿杜",
+        "onboard_time": 1750990401,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107875,
+        "num": 107875,
+        "word": "榕江村民为救援队炒上千份盒饭",
+        "onboard_time": 1750982000,
+        "rank": 45,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 107799,
+        "num": 107799,
+        "word": "萨尔茨堡红牛vs皇马",
+        "onboard_time": 1750990282,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104345,
+        "num": 104345,
+        "word": "王嘉尔说再休假事业都要没了",
+        "onboard_time": 1750952423,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 102011,
+        "num": 102011,
+        "word": "加强反不正当竞争执法司法",
+        "onboard_time": 1750988902,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 101419,
+        "num": 101419,
+        "word": "充电宝 机场安检",
+        "onboard_time": 1750989322,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈耕地保护#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750989820209,
+  "endTime": 1750991238023,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -611,20 +611,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1245185,
+      "num": 388014,
+      "word": "梓渝 丁禹兮",
+      "onboard_time": 1750987882,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1236783,
       "num": 1236783,
       "word": "江苏状元",
       "onboard_time": 1750772183,
       "rank": 34,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1234827,
-      "num": 388014,
-      "word": "梓渝 丁禹兮",
-      "onboard_time": 1750987882,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1232401,
@@ -1459,6 +1459,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 740515,
+      "num": 740515,
+      "word": "小米股票",
+      "onboard_time": 1750989083,
+      "rank": 19,
+      "category": "财经,汽车"
+    },
+    {
       "raw_hot": 740436,
       "num": 740436,
       "word": "北大退学上清华男生回应占名额质疑",
@@ -2147,6 +2155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 598378,
+      "num": 598378,
+      "word": "于正删除书卷一梦宣传博",
+      "onboard_time": 1750988722,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 597505,
       "num": 351731,
       "word": "刘晓庆想亲脸 人家把嘴递上了",
@@ -2201,14 +2217,6 @@
       "onboard_time": 1750746140,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 588167,
-      "num": 588167,
-      "word": "于正删除书卷一梦宣传博",
-      "onboard_time": 1750988722,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 587951,
@@ -3376,6 +3384,14 @@
       "word": "睡满8小时和6小时的区别",
       "onboard_time": 1750822762,
       "rank": 37,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 438778,
+      "num": 294142,
+      "word": "原来没散光是这样的",
+      "onboard_time": 1750981640,
+      "rank": 21,
       "category": "健康医疗"
     },
     {
@@ -4803,6 +4819,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 322720,
+      "num": 308941,
+      "word": "表决通过新修订的治安管理处罚法",
+      "onboard_time": 1750989142,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 321627,
       "num": 321627,
       "word": "道禄和尚前妻女儿现女友也涉案",
@@ -5387,6 +5411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 281595,
+      "num": 394567,
+      "word": "加沙15岁少年饿到只剩18公斤",
+      "onboard_time": 1750988722,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 280395,
       "num": 383405,
       "word": "伊朗首都查获超1万架无人机",
@@ -5793,14 +5825,6 @@
       "onboard_time": 1750746801,
       "rank": 27,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 261852,
-      "num": 261852,
-      "word": "原来没散光是这样的",
-      "onboard_time": 1750981640,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 260886,
@@ -6225,14 +6249,6 @@
       "onboard_time": 1750601483,
       "rank": 14,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 241942,
-      "num": 394567,
-      "word": "加沙15岁少年饿到只剩18公斤",
-      "onboard_time": 1750988722,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 241931,
@@ -6689,14 +6705,6 @@
       "onboard_time": 1750922000,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 225127,
-      "num": 267224,
-      "word": "小米股票",
-      "onboard_time": 1750989083,
-      "rank": 19,
-      "category": "财经,汽车"
     },
     {
       "raw_hot": 225005,
@@ -7312,6 +7320,14 @@
       "word": "王珞丹包场祝绪丹新剧",
       "onboard_time": 1750915944,
       "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 207234,
+      "num": 281732,
+      "word": "李一桐穿越史上第一个滚筒式穿越",
+      "onboard_time": 1750985843,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -7961,14 +7977,6 @@
       "onboard_time": 1750650385,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 197386,
-      "num": 197386,
-      "word": "表决通过新修订的治安管理处罚法",
-      "onboard_time": 1750989142,
-      "rank": 26,
-      "category": "国内时政"
     },
     {
       "raw_hot": 197343,
@@ -11355,14 +11363,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 146390,
-      "num": 146390,
-      "word": "李一桐穿越史上第一个滚筒式穿越",
-      "onboard_time": 1750985843,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 146381,
       "num": 268269,
       "word": "李昀锐出发巴黎",
@@ -11633,6 +11633,14 @@
       "onboard_time": 1750774586,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143531,
+      "num": 143531,
+      "word": "超模胡兵的高能24小时",
+      "onboard_time": 1750990580,
+      "rank": 29,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 143461,
@@ -11937,6 +11945,14 @@
       "onboard_time": 1750656083,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 140728,
+      "num": 140728,
+      "word": "小米发布会后股价飙涨",
+      "onboard_time": 1750990941,
+      "rank": 30,
+      "category": "汽车,财经"
     },
     {
       "raw_hot": 140327,
@@ -12947,6 +12963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128489,
+      "num": 128489,
+      "word": "小米汽车板块大爆发",
+      "onboard_time": 1750990762,
+      "rank": 34,
+      "category": "汽车,财经"
+    },
+    {
       "raw_hot": 128480,
       "num": 128480,
       "word": "吴磊夜跑",
@@ -13499,6 +13523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121912,
+      "num": 121912,
+      "word": "这不是特效这是漫天飞舞的蝴蝶",
+      "onboard_time": 1750988902,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121861,
       "num": 121861,
       "word": "上海3500一个月的两室一厅",
@@ -13609,14 +13641,6 @@
       "onboard_time": 1750840763,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 120005,
-      "num": 120005,
-      "word": "这不是特效这是漫天飞舞的蝴蝶",
-      "onboard_time": 1750988902,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119794,
@@ -14187,6 +14211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112570,
+      "num": 112570,
+      "word": "书卷一梦首播冲顶热度总榜",
+      "onboard_time": 1750988362,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112518,
       "num": 112518,
       "word": "TizzyT指向天空这一瞬",
@@ -14371,6 +14403,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 110478,
+      "num": 110478,
+      "word": "世俱杯惊现逆天乌龙球",
+      "onboard_time": 1750987341,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110226,
       "num": 301938,
       "word": "留英博士性侵被判终身监禁背后",
@@ -14449,6 +14489,14 @@
       "onboard_time": 1750712834,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 108871,
+      "num": 108871,
+      "word": "湖人有了自己的阿杜",
+      "onboard_time": 1750990401,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 108677,
@@ -14545,6 +14593,14 @@
       "onboard_time": 1750952363,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107799,
+      "num": 107799,
+      "word": "萨尔茨堡红牛vs皇马",
+      "onboard_time": 1750990282,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 107598,
@@ -14681,14 +14737,6 @@
       "onboard_time": 1750559422,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 105061,
-      "num": 105061,
-      "word": "书卷一梦首播冲顶热度总榜",
-      "onboard_time": 1750988362,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 105018,
@@ -14913,6 +14961,14 @@
       "onboard_time": 1750682783,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101267,
+      "num": 112171,
+      "word": "萨尔茨堡红牛vs皇马首发",
+      "onboard_time": 1750988362,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 101247,
