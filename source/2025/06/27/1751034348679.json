@@ -1,0 +1,410 @@
+{
+  "runTime": 1751034348679,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 12277822,
+        "num": 12277822,
+        "word": "白玉兰内场",
+        "onboard_time": 1751030304,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 7973426,
+        "num": 7973426,
+        "word": "白玉兰获奖名单",
+        "onboard_time": 1751032048,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72738,
+        "num": 2814079,
+        "word": "7月这些新规影响你我",
+        "onboard_time": 1751031627,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 624526,
+        "num": 624526,
+        "word": "美一飞船失控150人骨灰全扬了",
+        "onboard_time": 1751030364,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 610007,
+        "num": 610007,
+        "word": "洞洞鞋 真菌感染",
+        "onboard_time": 1751011707,
+        "rank": 4,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 317335,
+        "num": 608837,
+        "word": "吉林大学 支帐篷过夜",
+        "onboard_time": 1751029825,
+        "rank": 5,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 1929888,
+        "num": 606321,
+        "word": "歌手排名",
+        "onboard_time": 1751032589,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1854297,
+        "num": 604616,
+        "word": "蒋欣最佳女配角",
+        "onboard_time": 1751033967,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226408,
+        "num": 603931,
+        "word": "多方回应湖南母子相继坠河身亡",
+        "onboard_time": 1751027003,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168606,
+        "num": 600999,
+        "word": "妻女患癌丈夫深夜直播跳舞挣钱",
+        "onboard_time": 1751029286,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142482,
+        "num": 600468,
+        "word": "李昀锐与Dior的适配度",
+        "onboard_time": 1751032407,
+        "rank": 10,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 1631514,
+        "num": 598639,
+        "word": "白玉兰直播",
+        "onboard_time": 1751027604,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1277892,
+        "num": 595429,
+        "word": "刘亦菲没去白玉兰",
+        "onboard_time": 1751030665,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1229141,
+        "num": 594318,
+        "word": "鹿晗演唱会",
+        "onboard_time": 1751017522,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1072879,
+        "num": 593081,
+        "word": "马嘉祺回来吧",
+        "onboard_time": 1751032048,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 982878,
+        "num": 590460,
+        "word": "蔡澜去世",
+        "onboard_time": 1751010686,
+        "rank": 15,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 245089,
+        "num": 587999,
+        "word": "于适接管Dior官微",
+        "onboard_time": 1751032468,
+        "rank": 16,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 67892,
+        "num": 586889,
+        "word": "Dior大秀直播代入感好强",
+        "onboard_time": 1751033788,
+        "rank": 17,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 502180,
+        "num": 584782,
+        "word": "GAI唱兰花草拿什么输",
+        "onboard_time": 1751030906,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270921,
+        "num": 582604,
+        "word": "香港四大才子均已逝世",
+        "onboard_time": 1751011827,
+        "rank": 19,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 161704,
+        "num": 581084,
+        "word": "黄金",
+        "onboard_time": 1751034088,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 144851,
+        "num": 580091,
+        "word": "上海暴雨",
+        "onboard_time": 1751024782,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133796,
+        "num": 577084,
+        "word": "宠物猫放生宠物蛇吓坏邻居",
+        "onboard_time": 1751028444,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137974,
+        "num": 576302,
+        "word": "上海女硕士被大专男骗财骗色骗卵",
+        "onboard_time": 1751006961,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125657,
+        "num": 574053,
+        "word": "高考288分事件被质疑炒作引流",
+        "onboard_time": 1751034028,
+        "rank": 24,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 848599,
+        "num": 570800,
+        "word": "蒋欣 好完美的一颗头",
+        "onboard_time": 1751033187,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 694609,
+        "num": 569203,
+        "word": "单依纯 下一季不来了",
+        "onboard_time": 1751032949,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111416,
+        "num": 567822,
+        "word": "荔枝跌至1斤1块钱已近成本线",
+        "onboard_time": 1751023704,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111073,
+        "num": 566951,
+        "word": "台湾彩民花800元独揽17亿头奖",
+        "onboard_time": 1751032048,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38034,
+        "num": 564761,
+        "word": "老人护孙砍伤醉汉服刑8月申请国赔",
+        "onboard_time": 1751032889,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 563293,
+        "num": 563293,
+        "word": "关晓彤妆造正确",
+        "onboard_time": 1751023342,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 547868,
+        "num": 547868,
+        "word": "小巷人家",
+        "onboard_time": 1751022981,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109520,
+        "num": 544602,
+        "word": "雷军回应湖北仙桃贺电",
+        "onboard_time": 1751029465,
+        "rank": 32,
+        "category": "汽车,互联网"
+      },
+      {
+        "raw_hot": 543471,
+        "num": 543471,
+        "word": "蒋奇明最佳男配角",
+        "onboard_time": 1751034149,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109689,
+        "num": 510447,
+        "word": "原神一切只关乎你我",
+        "onboard_time": 1751034088,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 165275,
+        "num": 492068,
+        "word": "文俊辉直播",
+        "onboard_time": 1751034268,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 491528,
+        "num": 491528,
+        "word": "郑欣宜受伤退出本期歌手",
+        "onboard_time": 1751024724,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 483621,
+        "num": 483621,
+        "word": "白玉兰预测",
+        "onboard_time": 1751012907,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28869,
+        "num": 469790,
+        "word": "雷佳音因为淋过雨所以撕了伞",
+        "onboard_time": 1751032889,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74091,
+        "num": 461606,
+        "word": "三角洲行动",
+        "onboard_time": 1751030726,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 311281,
+        "num": 431014,
+        "word": "陈楚生第二",
+        "onboard_time": 1751033727,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109491,
+        "num": 409455,
+        "word": "恋与深空婚卡",
+        "onboard_time": 1751026583,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 407332,
+        "num": 407332,
+        "word": "歌手直播",
+        "onboard_time": 1751025744,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106643,
+        "num": 405655,
+        "word": "美方相应取消对华有关限制措施",
+        "onboard_time": 1751025504,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87915,
+        "num": 405006,
+        "word": "24岁小伙久坐不动致多处血栓险丧命",
+        "onboard_time": 1751030605,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87838,
+        "num": 401777,
+        "word": "百万元新房被陌生人装修入住",
+        "onboard_time": 1751030004,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85168,
+        "num": 400401,
+        "word": "美企回应上太空的150人骨灰全被扬了",
+        "onboard_time": 1751032347,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 84720,
+        "num": 399619,
+        "word": "恋与深空兑换码",
+        "onboard_time": 1751026284,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 76404,
+        "num": 397135,
+        "word": "WB对战eStar",
+        "onboard_time": 1751033668,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 69421,
+        "num": 395655,
+        "word": "湖北仙桃为雷军送上贺电",
+        "onboard_time": 1751033847,
+        "rank": 49,
+        "category": "汽车,互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见厄瓜多尔总统#"
+    }
+  }
+}

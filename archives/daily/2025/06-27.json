@@ -1,6 +1,6 @@
 {
   "startTime": 1750955581651,
-  "endTime": 1751032120070,
+  "endTime": 1751034348679,
   "band_list": [
     {
       "raw_hot": 13735630,
@@ -17,6 +17,14 @@
       "onboard_time": 1751010686,
       "rank": 0,
       "category": "艺人,艺人"
+    },
+    {
+      "raw_hot": 7973426,
+      "num": 7973426,
+      "word": "白玉兰获奖名单",
+      "onboard_time": 1751032048,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 3267879,
@@ -91,6 +99,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 1929888,
+      "num": 606321,
+      "word": "歌手排名",
+      "onboard_time": 1751032589,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1924638,
       "num": 683574,
       "word": "单依纯编曲 难听",
@@ -107,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1854297,
+      "num": 604616,
+      "word": "蒋欣最佳女配角",
+      "onboard_time": 1751033967,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1724176,
       "num": 682708,
       "word": "刘亦菲没去白玉兰",
@@ -115,7 +139,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1611274,
+      "raw_hot": 1631514,
       "num": 682941,
       "word": "白玉兰直播",
       "onboard_time": 1751027604,
@@ -227,6 +251,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 1072879,
+      "num": 593081,
+      "word": "马嘉祺回来吧",
+      "onboard_time": 1751032048,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1062993,
       "num": 1170079,
       "word": "警方证实网红小四爷被带走",
@@ -275,14 +307,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 947806,
-      "num": 255075,
-      "word": "白玉兰获奖名单",
-      "onboard_time": 1751032048,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 937063,
       "num": 666393,
       "word": "桃黑黑中彩票",
@@ -329,6 +353,14 @@
       "onboard_time": 1751028144,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 848599,
+      "num": 570800,
+      "word": "蒋欣 好完美的一颗头",
+      "onboard_time": 1751033187,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 831277,
@@ -411,6 +443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 694609,
+      "num": 569203,
+      "word": "单依纯 下一季不来了",
+      "onboard_time": 1751032949,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 687974,
       "num": 288563,
       "word": "6岁女孩被西贝服务员拍照当背景图",
@@ -476,7 +516,7 @@
     },
     {
       "raw_hot": 632621,
-      "num": 501214,
+      "num": 584782,
       "word": "GAI唱兰花草拿什么输",
       "onboard_time": 1751030906,
       "rank": 32,
@@ -532,7 +572,7 @@
     },
     {
       "raw_hot": 560237,
-      "num": 509709,
+      "num": 576302,
       "word": "上海女硕士被大专男骗财骗色骗卵",
       "onboard_time": 1751006961,
       "rank": 20,
@@ -553,6 +593,14 @@
       "onboard_time": 1750977737,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 543471,
+      "num": 543471,
+      "word": "蒋奇明最佳男配角",
+      "onboard_time": 1751034149,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 543385,
@@ -868,7 +916,7 @@
     },
     {
       "raw_hot": 364944,
-      "num": 340733,
+      "num": 409455,
       "word": "恋与深空婚卡",
       "onboard_time": 1751026583,
       "rank": 32,
@@ -900,7 +948,7 @@
     },
     {
       "raw_hot": 339880,
-      "num": 339880,
+      "num": 399619,
       "word": "恋与深空兑换码",
       "onboard_time": 1751026284,
       "rank": 35,
@@ -955,12 +1003,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 317335,
+      "num": 681830,
+      "word": "吉林大学 支帐篷过夜",
+      "onboard_time": 1751029825,
+      "rank": 18,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 311898,
       "num": 264702,
       "word": "退58.9万捐款妈妈回应儿子高考647分",
       "onboard_time": 1750981822,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 311281,
+      "num": 431014,
+      "word": "陈楚生第二",
+      "onboard_time": 1751033727,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 303101,
@@ -1033,14 +1097,6 @@
       "onboard_time": 1750996584,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 274334,
-      "num": 191721,
-      "word": "马嘉祺回来吧",
-      "onboard_time": 1751032048,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 270508,
@@ -1137,6 +1193,14 @@
       "onboard_time": 1750994060,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 245089,
+      "num": 587999,
+      "word": "于适接管Dior官微",
+      "onboard_time": 1751032468,
+      "rank": 16,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 244990,
@@ -1289,14 +1353,6 @@
       "onboard_time": 1750998683,
       "rank": 41,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 210699,
-      "num": 681830,
-      "word": "吉林大学 支帐篷过夜",
-      "onboard_time": 1751029825,
-      "rank": 18,
-      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 210281,
@@ -1827,6 +1883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165275,
+      "num": 492068,
+      "word": "文俊辉直播",
+      "onboard_time": 1751034268,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164344,
       "num": 164344,
       "word": "十年前没人敢选的专业翻红了",
@@ -1889,6 +1953,14 @@
       "onboard_time": 1750942283,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 161704,
+      "num": 581084,
+      "word": "黄金",
+      "onboard_time": 1751034088,
+      "rank": 20,
+      "category": "财经"
     },
     {
       "raw_hot": 159476,
@@ -2004,7 +2076,7 @@
     },
     {
       "raw_hot": 154288,
-      "num": 190834,
+      "num": 544602,
       "word": "雷军回应湖北仙桃贺电",
       "onboard_time": 1751029465,
       "rank": 48,
@@ -2177,6 +2249,14 @@
       "onboard_time": 1751015364,
       "rank": 27,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 142482,
+      "num": 600468,
+      "word": "李昀锐与Dior的适配度",
+      "onboard_time": 1751032407,
+      "rank": 10,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 141654,
@@ -2411,6 +2491,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 125657,
+      "num": 574053,
+      "word": "高考288分事件被质疑炒作引流",
+      "onboard_time": 1751034028,
+      "rank": 24,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 125456,
       "num": 158374,
       "word": "抢票失败的人有多疯",
@@ -2468,7 +2556,7 @@
     },
     {
       "raw_hot": 121879,
-      "num": 130737,
+      "num": 405006,
       "word": "24岁小伙久坐不动致多处血栓险丧命",
       "onboard_time": 1751030605,
       "rank": 49,
@@ -2524,7 +2612,7 @@
     },
     {
       "raw_hot": 117202,
-      "num": 190776,
+      "num": 566951,
       "word": "台湾彩民花800元独揽17亿头奖",
       "onboard_time": 1751032048,
       "rank": 48,
@@ -2635,6 +2723,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 111416,
+      "num": 567822,
+      "word": "荔枝跌至1斤1块钱已近成本线",
+      "onboard_time": 1751023704,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110969,
       "num": 110969,
       "word": "里夫斯拒绝湖人",
@@ -2673,6 +2769,14 @@
       "onboard_time": 1750999703,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109689,
+      "num": 510447,
+      "word": "原神一切只关乎你我",
+      "onboard_time": 1751034088,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 108871,
@@ -2971,6 +3075,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 85168,
+      "num": 400401,
+      "word": "美企回应上太空的150人骨灰全被扬了",
+      "onboard_time": 1751032347,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 85108,
       "num": 85108,
       "word": "原来刘亦菲吃饭也是手机先吃",
@@ -3059,6 +3171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76404,
+      "num": 397135,
+      "word": "WB对战eStar",
+      "onboard_time": 1751033668,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 75959,
       "num": 75959,
       "word": "充电宝",
@@ -3091,6 +3211,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 74091,
+      "num": 461606,
+      "word": "三角洲行动",
+      "onboard_time": 1751030726,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 73101,
       "num": 73101,
       "word": "哈佛首个应急计划",
@@ -3105,6 +3233,14 @@
       "onboard_time": 1750980320,
       "rank": 41,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 72738,
+      "num": 2814079,
+      "word": "7月这些新规影响你我",
+      "onboard_time": 1751031627,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72577,
@@ -3139,12 +3275,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 69788,
-      "num": 294997,
-      "word": "荔枝跌至1斤1块钱已近成本线",
-      "onboard_time": 1751023704,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 69421,
+      "num": 395655,
+      "word": "湖北仙桃为雷军送上贺电",
+      "onboard_time": 1751033847,
+      "rank": 49,
+      "category": "汽车,互联网"
     },
     {
       "raw_hot": 68950,
@@ -3161,6 +3297,14 @@
       "onboard_time": 1750956499,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 67892,
+      "num": 586889,
+      "word": "Dior大秀直播代入感好强",
+      "onboard_time": 1751033788,
+      "rank": 17,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 67204,
@@ -3363,6 +3507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38034,
+      "num": 564761,
+      "word": "老人护孙砍伤醉汉服刑8月申请国赔",
+      "onboard_time": 1751032889,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37701,
       "num": 319882,
       "word": "学生欺凌事件处理方式明确了",
@@ -3433,6 +3585,14 @@
       "onboard_time": 1750962196,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 28869,
+      "num": 469790,
+      "word": "雷佳音因为淋过雨所以撕了伞",
+      "onboard_time": 1751032889,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 28331,
@@ -3609,14 +3769,6 @@
       "onboard_time": 1751029644,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 19410,
-      "num": 891458,
-      "word": "7月这些新规影响你我",
-      "onboard_time": 1751031627,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17763,
