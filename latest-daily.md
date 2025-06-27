@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/28 00:33:04 ~ 2025/06/28 03:19:48
+本榜单时间：2025/06/28 00:33:04 ~ 2025/06/28 03:37:29
 </p>
 </blockquote>
 <p>
@@ -357,6 +357,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%94%B6%E8%A7%86%E7%8E%87%23" target="weibo">
+歌手收视率（热度：42479）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%BE%E6%8A%A5%E5%89%8D%E5%85%AC%E5%A9%86%E6%B6%89%E8%B4%AA%E4%BA%8B%E4%BB%B6%E8%B0%81%E5%9C%A8%E8%AF%B4%E8%B0%8E%23" target="weibo">
 女子举报前公婆涉贪事件谁在说谎（热度：41977）
 </a>
@@ -377,12 +383,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E7%99%BD%E7%8E%89%E5%85%B0%E8%8E%B7%E5%A5%96%23" target="weibo">
 歌手白玉兰获奖（热度：35963）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%94%B6%E8%A7%86%E7%8E%87%23" target="weibo">
-歌手收视率（热度：35556）
 </a>
 </li>
 
@@ -417,14 +417,32 @@ BLG冲击2025Msi首胜（热度：33654）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B4%B9%E6%8C%AF%E7%BF%94%E6%9C%80%E4%BD%B3%E5%AF%BC%E6%BC%94%23" target="weibo">
+费振翔最佳导演（热度：29293）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%AB%E7%91%B0%E7%9A%84%E6%95%85%E4%BA%8B%E8%8E%B7%E7%99%BD%E7%8E%89%E5%85%B0%E6%9C%80%E4%BD%B3%E6%94%B9%E7%BC%96%E7%BC%96%E5%89%A7%23" target="weibo">
+玫瑰的故事获白玉兰最佳改编编剧（热度：28644）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%BD%A9%E6%B0%91%E8%8A%B1800%E5%85%83%E7%8B%AC%E6%8F%BD17%E4%BA%BF%E5%A4%B4%E5%A5%96%23" target="weibo">
 台湾彩民花800元独揽17亿头奖（热度：27682）
 </a>
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E9%98%BF%E5%8B%92%E6%B3%B0%E6%9C%80%E4%BD%B3%E7%94%B5%E8%A7%86%E5%89%A7%23" target="weibo">
+我的阿勒泰最佳电视剧（热度：27583）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2324%E5%B2%81%E5%B0%8F%E4%BC%99%E4%B9%85%E5%9D%90%E4%B8%8D%E5%8A%A8%E8%87%B4%E5%A4%9A%E5%A4%84%E8%A1%80%E6%A0%93%E9%99%A9%E4%B8%A7%E5%91%BD%23" target="weibo">
-24岁小伙久坐不动致多处血栓险丧命（热度：17988）
+24岁小伙久坐不动致多处血栓险丧命（热度：18240）
 </a>
 </li>
 

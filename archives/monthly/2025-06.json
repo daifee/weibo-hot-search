@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1751051988320,
+  "endTime": 1751053049688,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -88851,6 +88851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42479,
+      "num": 35556,
+      "word": "歌手收视率",
+      "onboard_time": 1751047697,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 42477,
       "num": 168122,
       "word": "律师庭审被打后还手被拘",
@@ -91267,14 +91275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 35556,
-      "num": 35556,
-      "word": "歌手收视率",
-      "onboard_time": 1751047697,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 35526,
       "num": 328497,
       "word": "主持人帮打维权电话遭嬉笑挂掉",
@@ -93395,6 +93395,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 29293,
+      "num": 29293,
+      "word": "费振翔最佳导演",
+      "onboard_time": 1751052436,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 29270,
       "num": 194180,
       "word": "石家庄一护士用无人机运送血样",
@@ -93681,6 +93689,14 @@
       "onboard_time": 1750614626,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 28644,
+      "num": 28644,
+      "word": "玫瑰的故事获白玉兰最佳改编编剧",
+      "onboard_time": 1751052317,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 28641,
@@ -94121,6 +94137,14 @@
       "onboard_time": 1750704795,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 27583,
+      "num": 27583,
+      "word": "我的阿勒泰最佳电视剧",
+      "onboard_time": 1751053035,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 27540,

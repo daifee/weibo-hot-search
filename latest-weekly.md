@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/22 00:30:38 ~ 2025/06/28 03:19:48
+本榜单时间：2025/06/22 00:30:38 ~ 2025/06/28 03:37:29
 </p>
 </blockquote>
 <p>
@@ -15465,6 +15465,12 @@ labubu（热度：42539）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%94%B6%E8%A7%86%E7%8E%87%23" target="weibo">
+歌手收视率（热度：42479）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9A%90%E5%BD%A2%E5%AE%88%E6%8A%A4%E8%80%85%E5%88%B6%E4%BD%9C%E4%BA%BA%E9%A2%84%E5%91%8A%E6%96%B0%E4%BD%9C%23" target="weibo">
 隐形守护者制作人预告新作（热度：42449）
 </a>
@@ -15771,12 +15777,6 @@ labubu（热度：42539）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%94%B6%E8%A7%86%E7%8E%87%23" target="weibo">
-歌手收视率（热度：35556）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9D%A1%E5%89%8D%E8%BF%99%E6%A0%B7%E5%81%9A%E7%BC%93%E8%A7%A3%E8%85%B0%E8%83%8C%E4%B8%8D%E9%80%82%23" target="weibo">
 睡前这样做缓解腰背不适（热度：35034）
 </a>
@@ -16077,6 +16077,12 @@ KPL（热度：29331）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B4%B9%E6%8C%AF%E7%BF%94%E6%9C%80%E4%BD%B3%E5%AF%BC%E6%BC%94%23" target="weibo">
+费振翔最佳导演（热度：29293）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E5%8E%A6%E5%A4%A7%E6%98%AF%E6%88%90%E9%95%BF%E5%9C%A8%E6%B5%B7%E8%BE%B9%E7%9A%84%E5%A4%A7%E5%AD%A6%23" target="weibo">
 为什么说厦大是成长在海边的大学（热度：29248）
 </a>
@@ -16131,6 +16137,12 @@ KPL（热度：29331）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%AB%E7%91%B0%E7%9A%84%E6%95%85%E4%BA%8B%E8%8E%B7%E7%99%BD%E7%8E%89%E5%85%B0%E6%9C%80%E4%BD%B3%E6%94%B9%E7%BC%96%E7%BC%96%E5%89%A7%23" target="weibo">
+玫瑰的故事获白玉兰最佳改编编剧（热度：28644）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%91%BC%E5%90%81%E5%9B%BD%E9%99%85%E7%A4%BE%E4%BC%9A%E6%8E%A8%E5%8A%A8%E5%86%B2%E7%AA%81%E9%99%8D%E7%BA%A7%23" target="weibo">
 中方呼吁国际社会推动冲突降级（热度：28544）
 </a>
@@ -16169,6 +16181,12 @@ KPL（热度：29331）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%96%E5%86%A0%E9%9C%96%E5%AE%98%E5%AE%A3%E4%BB%A5%E5%AF%BC%E6%BC%94%E8%BA%AB%E4%BB%BD%E5%8A%A0%E5%85%A5%E4%B8%87%E5%90%88%E5%A4%A9%E5%AE%9C%23" target="weibo">
 赖冠霖官宣以导演身份加入万合天宜（热度：27588）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E9%98%BF%E5%8B%92%E6%B3%B0%E6%9C%80%E4%BD%B3%E7%94%B5%E8%A7%86%E5%89%A7%23" target="weibo">
+我的阿勒泰最佳电视剧（热度：27583）
 </a>
 </li>
 
