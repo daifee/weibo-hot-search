@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1751050184676,
+  "endTime": 1751051988320,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -91099,6 +91099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35963,
+      "num": 35963,
+      "word": "歌手白玉兰获奖",
+      "onboard_time": 1751050997,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 35958,
       "num": 148148,
       "word": "原来不是考上了才有礼物",
@@ -91257,6 +91265,14 @@
       "onboard_time": 1749265584,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35556,
+      "num": 35556,
+      "word": "歌手收视率",
+      "onboard_time": 1751047697,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 35526,
