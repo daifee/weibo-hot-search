@@ -1,6 +1,6 @@
 {
   "startTime": 1750955581651,
-  "endTime": 1751002014631,
+  "endTime": 1751003135089,
   "band_list": [
     {
       "raw_hot": 3091316,
@@ -9,6 +9,14 @@
       "onboard_time": 1750934422,
       "rank": 0,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 1967880,
+      "num": 1967880,
+      "word": "13岁女孩怀孕接诊医生强制报告",
+      "onboard_time": 1751002522,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1873212,
@@ -35,8 +43,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 1385618,
-      "num": 1385618,
+      "raw_hot": 1435796,
+      "num": 1435796,
       "word": "难听",
       "onboard_time": 1750999403,
       "rank": 22,
@@ -75,20 +83,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 915565,
+      "num": 867191,
+      "word": "女子收到失联10年女儿死亡通知书",
+      "onboard_time": 1750999463,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 896207,
       "num": 896207,
       "word": "aespa回归",
       "onboard_time": 1750997661,
       "rank": 3,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 867191,
-      "num": 867191,
-      "word": "女子收到失联10年女儿死亡通知书",
-      "onboard_time": 1750999463,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 810852,
@@ -227,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 529636,
+      "num": 281041,
+      "word": "70斤蟒蛇生吞30斤羊被活捉",
+      "onboard_time": 1751001143,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 525265,
       "num": 525265,
       "word": "藏海传剧组白玉兰特邀出席",
@@ -347,6 +363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 392753,
+      "num": 392753,
+      "word": "锦绣芳华",
+      "onboard_time": 1751002282,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 387711,
       "num": 387711,
       "word": "小米YU7价格",
@@ -425,14 +449,6 @@
       "onboard_time": 1750988722,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 281041,
-      "num": 281041,
-      "word": "70斤蟒蛇生吞30斤羊被活捉",
-      "onboard_time": 1751001143,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 279829,
@@ -515,6 +531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 244990,
+      "num": 348058,
+      "word": "华策艺人墙上的田栩宁",
+      "onboard_time": 1750999522,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 243683,
       "num": 239895,
       "word": "刘亦菲裙子",
@@ -529,6 +553,14 @@
       "onboard_time": 1750953742,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 242308,
+      "num": 242308,
+      "word": "陈梦感谢黄晓明支招",
+      "onboard_time": 1751002582,
+      "rank": 25,
+      "category": "综艺,体育"
     },
     {
       "raw_hot": 239732,
@@ -553,6 +585,14 @@
       "onboard_time": 1750952542,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 235758,
+      "num": 243799,
+      "word": "看书卷一梦笑了一夜没睡",
+      "onboard_time": 1751002103,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 230683,
@@ -619,6 +659,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 212026,
+      "num": 197736,
+      "word": "专家称癌症发病不仅是概率问题",
+      "onboard_time": 1751002522,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 209376,
       "num": 209376,
       "word": "哈梅内伊称狠狠扇了美国一个耳光",
@@ -675,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198663,
+      "num": 356733,
+      "word": "31年前命案嫌疑人竟变身智库专家",
+      "onboard_time": 1751000483,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198088,
       "num": 198088,
       "word": "小米发布会",
@@ -691,10 +747,10 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 196472,
-      "num": 348058,
-      "word": "华策艺人墙上的田栩宁",
-      "onboard_time": 1750999522,
+      "raw_hot": 196136,
+      "num": 196136,
+      "word": "华策秒删",
+      "onboard_time": 1751000003,
       "rank": 40,
       "category": "艺人"
     },
@@ -713,6 +769,14 @@
       "onboard_time": 1750998444,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192783,
+      "num": 192783,
+      "word": "dirty work",
+      "onboard_time": 1751002642,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 192253,
@@ -739,6 +803,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 188457,
+      "num": 188457,
+      "word": "杨紫锦绣芳华物料发布节奏",
+      "onboard_time": 1751003122,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186655,
       "num": 186655,
       "word": "好了没 好尴尬",
@@ -755,6 +827,22 @@
       "category": "正能量,教育"
     },
     {
+      "raw_hot": 184138,
+      "num": 198229,
+      "word": "美军巨型钻地弹测试画面曝光",
+      "onboard_time": 1751001143,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 181087,
+      "num": 181087,
+      "word": "相机电池",
+      "onboard_time": 1751002942,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 176222,
       "num": 176222,
       "word": "伊朗浓缩铀到底去哪了",
@@ -763,36 +851,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 176127,
-      "num": 176127,
-      "word": "华策秒删",
-      "onboard_time": 1751000003,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 174999,
-      "num": 174999,
-      "word": "美军巨型钻地弹测试画面曝光",
-      "onboard_time": 1751001143,
-      "rank": 42,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 174037,
-      "num": 356733,
-      "word": "31年前命案嫌疑人竟变身智库专家",
-      "onboard_time": 1751000483,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 173321,
       "num": 239630,
       "word": "王鹤棣一下子把王嘉尔抱起来了",
       "onboard_time": 1750948286,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 169855,
+      "num": 169855,
+      "word": "谢娜说马嘉祺马上变脸了",
+      "onboard_time": 1751003122,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 167284,
@@ -851,6 +923,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 160086,
+      "num": 181329,
+      "word": "脂肪慢慢消失的6个信号",
+      "onboard_time": 1751001863,
+      "rank": 46,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 158643,
+      "num": 158643,
+      "word": "上海机场回应禁带相机电池",
+      "onboard_time": 1751000723,
+      "rank": 47,
+      "category": "民生新闻,数码"
+    },
+    {
       "raw_hot": 157950,
       "num": 157950,
       "word": "张译是不是真上过班",
@@ -865,6 +953,14 @@
       "onboard_time": 1750991302,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 157517,
+      "num": 157517,
+      "word": "灵笼2高级货",
+      "onboard_time": 1751002222,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 156669,
@@ -987,14 +1083,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 135268,
-      "num": 135268,
-      "word": "脂肪慢慢消失的6个信号",
-      "onboard_time": 1751001863,
-      "rank": 46,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 132980,
       "num": 132980,
       "word": "孟子义钓系纯欲姐感",
@@ -1025,6 +1113,14 @@
       "onboard_time": 1750994060,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 124510,
+      "num": 358178,
+      "word": "烧伤男孩双拳紧握笔杆考出664分",
+      "onboard_time": 1751001562,
+      "rank": 13,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 121912,
@@ -1251,6 +1347,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 92224,
+      "num": 161524,
+      "word": "别人体制内你俩机制内",
+      "onboard_time": 1751000424,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89828,
       "num": 89828,
       "word": "谷爱凌训练BTS",
@@ -1443,6 +1547,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 60729,
+      "num": 349568,
+      "word": "肯德基原神联动好火",
+      "onboard_time": 1751000843,
+      "rank": 17,
+      "category": "游戏,美食"
+    },
+    {
       "raw_hot": 57924,
       "num": 57924,
       "word": "杭州妈妈做3年早餐儿子高考685分",
@@ -1451,20 +1563,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 56926,
-      "num": 349568,
-      "word": "肯德基原神联动好火",
-      "onboard_time": 1751000843,
-      "rank": 17,
-      "category": "游戏,美食"
-    },
-    {
-      "raw_hot": 55523,
-      "num": 358178,
-      "word": "烧伤男孩双拳紧握笔杆考出664分",
-      "onboard_time": 1751001562,
-      "rank": 13,
-      "category": "民生新闻,教育"
+      "raw_hot": 57489,
+      "num": 347900,
+      "word": "无效努力让你比别人多吃很多苦",
+      "onboard_time": 1751001683,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 53801,
@@ -1473,14 +1577,6 @@
       "onboard_time": 1751000242,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 53767,
-      "num": 347900,
-      "word": "无效努力让你比别人多吃很多苦",
-      "onboard_time": 1751001683,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 52812,
@@ -1524,7 +1620,7 @@
     },
     {
       "raw_hot": 43553,
-      "num": 176299,
+      "num": 181168,
       "word": "唐山陶瓷大妈哽咽了",
       "onboard_time": 1751000483,
       "rank": 39,
@@ -1716,7 +1812,7 @@
     },
     {
       "raw_hot": 13423,
-      "num": 1063271,
+      "num": 1254801,
       "word": "活力中国调研行",
       "onboard_time": 1750933102,
       "rank": 2,
