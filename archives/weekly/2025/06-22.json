@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1751045011978,
+  "endTime": 1751046134939,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -18185,6 +18185,14 @@
       "onboard_time": 1750526779,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 88308,
+      "num": 88308,
+      "word": "钟楚曦说宋佳值得",
+      "onboard_time": 1751046021,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 88260,

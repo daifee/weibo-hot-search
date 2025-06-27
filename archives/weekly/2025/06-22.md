@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/22 00:30:38 ~ 2025/06/28 01:23:31
+本榜单时间：2025/06/22 00:30:38 ~ 2025/06/28 01:42:14
 </p>
 </blockquote>
 <p>
@@ -13649,6 +13649,12 @@ AQ让检查报告说人话（热度：88644）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E5%88%B7%E4%B8%8D%E5%88%B0%E7%9A%84%E5%8F%B7%23" target="weibo">
 丁禹兮刷不到的号（热度：88362）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%92%9F%E6%A5%9A%E6%9B%A6%E8%AF%B4%E5%AE%8B%E4%BD%B3%E5%80%BC%E5%BE%97%23" target="weibo">
+钟楚曦说宋佳值得（热度：88308）
 </a>
 </li>
 
