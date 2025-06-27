@@ -1,6 +1,6 @@
 {
   "startTime": 1750955581651,
-  "endTime": 1751006293566,
+  "endTime": 1751007127920,
   "band_list": [
     {
       "raw_hot": 3091316,
@@ -107,6 +107,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 893640,
+      "num": 1142982,
+      "word": "相机电池不能上飞机",
+      "onboard_time": 1750995262,
+      "rank": 21,
+      "category": "数码"
+    },
+    {
       "raw_hot": 810852,
       "num": 363532,
       "word": "女生发现KTV不适标语勇敢举报",
@@ -121,14 +129,6 @@
       "onboard_time": 1750981161,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 743679,
-      "num": 1118988,
-      "word": "相机电池不能上飞机",
-      "onboard_time": 1750995262,
-      "rank": 21,
-      "category": "数码"
     },
     {
       "raw_hot": 740515,
@@ -227,6 +227,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 546955,
+      "num": 313448,
+      "word": "李宇春 裙子不是第二性征",
+      "onboard_time": 1751003541,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 543739,
       "num": 414193,
       "word": "以色列被曝拥有90枚核弹头",
@@ -273,14 +281,6 @@
       "onboard_time": 1750947324,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 514094,
-      "num": 313448,
-      "word": "李宇春 裙子不是第二性征",
-      "onboard_time": 1751003541,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 506028,
@@ -363,6 +363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 407315,
+      "num": 293801,
+      "word": "林栋哲你爸妈背着你考公了",
+      "onboard_time": 1751005221,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 406477,
       "num": 406477,
       "word": "加沙民众成批死去只为一块面包",
@@ -385,6 +393,14 @@
       "onboard_time": 1750993582,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 390791,
+      "num": 390791,
+      "word": "陈梦感谢黄晓明支招",
+      "onboard_time": 1751002582,
+      "rank": 25,
+      "category": "综艺,体育"
     },
     {
       "raw_hot": 387711,
@@ -435,14 +451,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 334458,
-      "num": 334458,
-      "word": "陈梦感谢黄晓明支招",
-      "onboard_time": 1751002582,
-      "rank": 25,
-      "category": "综艺,体育"
-    },
-    {
       "raw_hot": 329598,
       "num": 329598,
       "word": "中国人团结再一次具象化了",
@@ -451,20 +459,20 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 324522,
+      "num": 324522,
+      "word": "美军巨型钻地弹测试画面曝光",
+      "onboard_time": 1751001143,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 322720,
       "num": 308941,
       "word": "表决通过新修订的治安管理处罚法",
       "onboard_time": 1750989142,
       "rank": 26,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 320692,
-      "num": 320692,
-      "word": "美军巨型钻地弹测试画面曝光",
-      "onboard_time": 1751001143,
-      "rank": 42,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 311898,
@@ -483,12 +491,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 293801,
-      "num": 293801,
-      "word": "林栋哲你爸妈背着你考公了",
-      "onboard_time": 1751005221,
-      "rank": 17,
-      "category": "剧集"
+      "raw_hot": 290297,
+      "num": 290297,
+      "word": "dirty work",
+      "onboard_time": 1751002642,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 279829,
@@ -497,6 +505,14 @@
       "onboard_time": 1750947444,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 279267,
+      "num": 248998,
+      "word": "上海女硕士被大专男骗财骗色骗卵",
+      "onboard_time": 1751006961,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 274865,
@@ -673,14 +689,6 @@
       "onboard_time": 1750994483,
       "rank": 19,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 219678,
-      "num": 219678,
-      "word": "dirty work",
-      "onboard_time": 1751002642,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 215331,
@@ -899,6 +907,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 172615,
+      "num": 181329,
+      "word": "脂肪慢慢消失的6个信号",
+      "onboard_time": 1751001863,
+      "rank": 46,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 169915,
       "num": 169915,
       "word": "杨紫7岁到32岁变化",
@@ -971,12 +987,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 160086,
-      "num": 181329,
-      "word": "脂肪慢慢消失的6个信号",
-      "onboard_time": 1751001863,
-      "rank": 46,
-      "category": "运动健身"
+      "raw_hot": 159476,
+      "num": 159476,
+      "word": "第一次见在游泳池里的工位",
+      "onboard_time": 1751006421,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 158643,
@@ -1075,6 +1091,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 146041,
+      "num": 146041,
+      "word": "洞洞鞋热变形",
+      "onboard_time": 1751006361,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145618,
       "num": 145618,
       "word": "男生高中3年没手机考698称很感恩",
@@ -1139,6 +1163,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 137210,
+      "num": 162533,
+      "word": "于正回应和刘宇宁合作",
+      "onboard_time": 1751006722,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136512,
       "num": 136512,
       "word": "好消息男主动心了坏消息是杀心",
@@ -1187,6 +1219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127089,
+      "num": 312068,
+      "word": "超8成网友填志愿看大学有无空调",
+      "onboard_time": 1751005640,
+      "rank": 14,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 126252,
       "num": 499896,
       "word": "LV路易号",
@@ -1212,7 +1252,7 @@
     },
     {
       "raw_hot": 123432,
-      "num": 225827,
+      "num": 258107,
       "word": "密室大逃脱7定档",
       "onboard_time": 1751005342,
       "rank": 21,
@@ -1257,6 +1297,22 @@
       "onboard_time": 1750989322,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 118592,
+      "num": 118592,
+      "word": "人民网评大学生走廊打地铺避暑",
+      "onboard_time": 1751006902,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118043,
+      "num": 118043,
+      "word": "你烧我园子我烧你爹院子",
+      "onboard_time": 1751007082,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 115517,
@@ -1339,6 +1395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109845,
+      "num": 109845,
+      "word": "小米官宣未来五年研发投入2000亿",
+      "onboard_time": 1751007082,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 109704,
       "num": 196607,
       "word": "勇士选秀球员颜值挺高",
@@ -1417,6 +1481,14 @@
       "onboard_time": 1750984462,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99645,
+      "num": 289930,
+      "word": "蒲县疾控回应有职工1岁工作22岁退休",
+      "onboard_time": 1751005941,
+      "rank": 22,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 99444,
@@ -1795,14 +1867,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 36881,
-      "num": 312068,
-      "word": "超8成网友填志愿看大学有无空调",
-      "onboard_time": 1751005640,
-      "rank": 14,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 29895,
       "num": 193006,
       "word": "山西吕梁煤矸石倾倒乱象调查",
@@ -1883,6 +1947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23485,
+      "num": 109073,
+      "word": "这剧每句话都在捅打工人心窝",
+      "onboard_time": 1751006301,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 23242,
       "num": 245373,
       "word": "花费上万元修复信用靠谱吗",
@@ -1931,12 +2003,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 17930,
-      "num": 220197,
-      "word": "蒲县疾控回应有职工1岁工作22岁退休",
-      "onboard_time": 1751005941,
-      "rank": 22,
-      "category": "辟谣/通报"
+      "raw_hot": 21156,
+      "num": 131860,
+      "word": "沉浸式吃楚菜",
+      "onboard_time": 1751006961,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 15759,

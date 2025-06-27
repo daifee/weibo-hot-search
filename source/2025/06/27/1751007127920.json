@@ -1,0 +1,410 @@
+{
+  "runTime": 1751007127920,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 893640,
+        "num": 1142982,
+        "word": "相机电池不能上飞机",
+        "onboard_time": 1750995262,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 702319,
+        "num": 702319,
+        "word": "难听",
+        "onboard_time": 1750999403,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4763,
+        "num": 670910,
+        "word": "活力中国调研行",
+        "onboard_time": 1750933102,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 645757,
+        "num": 645757,
+        "word": "锦绣芳华",
+        "onboard_time": 1751002282,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 425840,
+        "num": 425840,
+        "word": "一公园被举报采购天价树每棵近80万",
+        "onboard_time": 1750998084,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 395487,
+        "num": 395487,
+        "word": "充电宝 退不了",
+        "onboard_time": 1750993701,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 390791,
+        "num": 390791,
+        "word": "陈梦感谢黄晓明支招",
+        "onboard_time": 1751002582,
+        "rank": 6,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 324522,
+        "num": 324522,
+        "word": "美军巨型钻地弹测试画面曝光",
+        "onboard_time": 1751001143,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 290297,
+        "num": 290297,
+        "word": "dirty work",
+        "onboard_time": 1751002642,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 99645,
+        "num": 289930,
+        "word": "蒲县疾控回应有职工1岁工作22岁退休",
+        "onboard_time": 1751005941,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 2380891,
+        "num": 289059,
+        "word": "13岁女孩怀孕接诊医生强制报告",
+        "onboard_time": 1751002522,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1035372,
+        "num": 287183,
+        "word": "郑乃馨发文回应争议",
+        "onboard_time": 1751004383,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 546955,
+        "num": 285745,
+        "word": "李宇春 裙子不是第二性征",
+        "onboard_time": 1751003541,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 496308,
+        "num": 285181,
+        "word": "女子收到失联10年女儿死亡通知书",
+        "onboard_time": 1750999463,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127089,
+        "num": 283358,
+        "word": "超8成网友填志愿看大学有无空调",
+        "onboard_time": 1751005640,
+        "rank": 14,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 437767,
+        "num": 281812,
+        "word": "女装流行无袖的原因",
+        "onboard_time": 1750992921,
+        "rank": 15,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 407315,
+        "num": 281028,
+        "word": "林栋哲你爸妈背着你考公了",
+        "onboard_time": 1751005221,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280499,
+        "num": 280499,
+        "word": "梓渝 丁禹兮",
+        "onboard_time": 1750987882,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111485,
+        "num": 258107,
+        "word": "密室大逃脱7定档",
+        "onboard_time": 1751005342,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249433,
+        "num": 249433,
+        "word": "西贝致歉",
+        "onboard_time": 1750994662,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 279267,
+        "num": 248998,
+        "word": "上海女硕士被大专男骗财骗色骗卵",
+        "onboard_time": 1751006961,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246461,
+        "num": 246461,
+        "word": "南航人打开朋友圈全是陈都灵",
+        "onboard_time": 1750995202,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242404,
+        "num": 242404,
+        "word": "图书馆三十秒",
+        "onboard_time": 1750981161,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 232446,
+        "num": 232446,
+        "word": "专家称癌症发病不仅是概率问题",
+        "onboard_time": 1751002522,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 208680,
+        "num": 208680,
+        "word": "卢昱晓好直观的瘦",
+        "onboard_time": 1750986442,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 177914,
+        "num": 177914,
+        "word": "张凌赫 红衣鬼王",
+        "onboard_time": 1750996464,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171854,
+        "num": 171854,
+        "word": "小米股票",
+        "onboard_time": 1750989083,
+        "rank": 26,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 136920,
+        "num": 163541,
+        "word": "白玉兰奖电视剧单项奖入围名单",
+        "onboard_time": 1750994963,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137210,
+        "num": 162533,
+        "word": "于正回应和刘宇宁合作",
+        "onboard_time": 1751006722,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172615,
+        "num": 162036,
+        "word": "脂肪慢慢消失的6个信号",
+        "onboard_time": 1751001863,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 161538,
+        "num": 161538,
+        "word": "于正曝艺人没工作去摆摊送外卖",
+        "onboard_time": 1751005161,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159476,
+        "num": 159476,
+        "word": "第一次见在游泳池里的工位",
+        "onboard_time": 1751006421,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150371,
+        "num": 150371,
+        "word": "杨紫7岁到32岁变化",
+        "onboard_time": 1751004802,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146041,
+        "num": 146041,
+        "word": "洞洞鞋热变形",
+        "onboard_time": 1751006361,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145790,
+        "num": 145790,
+        "word": "藏海传剧组白玉兰特邀出席",
+        "onboard_time": 1750998742,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143242,
+        "num": 143242,
+        "word": "第一个给沈佳润小八塑的是天才",
+        "onboard_time": 1751004141,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142834,
+        "num": 142834,
+        "word": "上海机场回应禁带相机电池",
+        "onboard_time": 1751000723,
+        "rank": 36,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 62643,
+        "num": 133369,
+        "word": "长安的荔枝意犹未尽",
+        "onboard_time": 1751003482,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21156,
+        "num": 131860,
+        "word": "沉浸式吃楚菜",
+        "onboard_time": 1751006961,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 35810,
+        "num": 131480,
+        "word": "全球唯一八缸摩托车亮相好博会",
+        "onboard_time": 1751006001,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 131263,
+        "num": 131263,
+        "word": "表决通过新修订的治安管理处罚法",
+        "onboard_time": 1750989142,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 125313,
+        "num": 125313,
+        "word": "解放军亮相马达加斯加阅兵",
+        "onboard_time": 1751004622,
+        "rank": 41,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 121865,
+        "num": 121865,
+        "word": "严浩翔给耀文小贺拿两条链子",
+        "onboard_time": 1751004622,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118592,
+        "num": 118592,
+        "word": "人民网评大学生走廊打地铺避暑",
+        "onboard_time": 1751006902,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118043,
+        "num": 118043,
+        "word": "你烧我园子我烧你爹院子",
+        "onboard_time": 1751007082,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116230,
+        "num": 116230,
+        "word": "湿气越吃越少的10种食物",
+        "onboard_time": 1750998683,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 115736,
+        "num": 115736,
+        "word": "王源告五人如果我们不曾相遇",
+        "onboard_time": 1751004981,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113470,
+        "num": 113470,
+        "word": "密室大逃脱",
+        "onboard_time": 1750995022,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109845,
+        "num": 109845,
+        "word": "小米官宣未来五年研发投入2000亿",
+        "onboard_time": 1751007082,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 23485,
+        "num": 109073,
+        "word": "这剧每句话都在捅打工人心窝",
+        "onboard_time": 1751006301,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈耕地保护#"
+    }
+  }
+}
