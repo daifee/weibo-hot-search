@@ -1,6 +1,6 @@
 {
   "startTime": 1750955581651,
-  "endTime": 1751009170122,
+  "endTime": 1751010046321,
   "band_list": [
     {
       "raw_hot": 3091316,
@@ -11,20 +11,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 2847026,
+      "num": 212620,
+      "word": "男子强奸女儿致其产女又性侵外孙女",
+      "onboard_time": 1751007382,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 2652656,
       "num": 1967880,
       "word": "13岁女孩怀孕接诊医生强制报告",
       "onboard_time": 1751002522,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2625273,
-      "num": 212620,
-      "word": "男子强奸女儿致其产女又性侵外孙女",
-      "onboard_time": 1751007382,
-      "rank": 20,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1873212,
@@ -59,6 +59,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1262762,
+      "num": 1262762,
+      "word": "举报前公婆近亿资产涉贪已有调查结果",
+      "onboard_time": 1751007501,
+      "rank": 0,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1245185,
       "num": 496340,
       "word": "梓渝 丁禹兮",
@@ -75,14 +83,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 1064175,
-      "num": 1170268,
-      "word": "举报前公婆近亿资产涉贪已有调查结果",
-      "onboard_time": 1751007501,
-      "rank": 0,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 1062993,
       "num": 1170079,
       "word": "警方证实网红小四爷被带走",
@@ -97,6 +97,14 @@
       "onboard_time": 1751004383,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1041949,
+      "num": 1041949,
+      "word": "锦绣芳华",
+      "onboard_time": 1751002282,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 959847,
@@ -145,14 +153,6 @@
       "onboard_time": 1750981161,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 789522,
-      "num": 789522,
-      "word": "锦绣芳华",
-      "onboard_time": 1751002282,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 740515,
@@ -209,6 +209,14 @@
       "onboard_time": 1750984942,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 626975,
+      "num": 626975,
+      "word": "人民网评大学生走廊打地铺避暑",
+      "onboard_time": 1751006902,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 621726,
@@ -329,6 +337,14 @@
       "onboard_time": 1750991601,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 498953,
+      "num": 498953,
+      "word": "宋茜和以前不一样了",
+      "onboard_time": 1751007921,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 491303,
@@ -523,28 +539,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 299747,
-      "num": 299747,
-      "word": "人民网评大学生走廊打地铺避暑",
-      "onboard_time": 1751006902,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 296454,
       "num": 394567,
       "word": "加沙15岁少年饿到只剩18公斤",
       "onboard_time": 1750988722,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 286352,
-      "num": 286352,
-      "word": "宋茜和以前不一样了",
-      "onboard_time": 1751007921,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 279829,
@@ -771,6 +771,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 207772,
+      "num": 207772,
+      "word": "比伯ins改名",
+      "onboard_time": 1751009122,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207234,
       "num": 281732,
       "word": "李一桐穿越史上第一个滚筒式穿越",
@@ -785,6 +793,14 @@
       "onboard_time": 1751001202,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 203924,
+      "num": 203924,
+      "word": "中学生 早恋",
+      "onboard_time": 1751008402,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 203654,
@@ -923,6 +939,22 @@
       "category": "正能量,教育"
     },
     {
+      "raw_hot": 183485,
+      "num": 183485,
+      "word": "晚晚助理命很苦的感觉",
+      "onboard_time": 1751008642,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 181436,
+      "num": 181436,
+      "word": "体检出现这些指标要当心癌变了",
+      "onboard_time": 1751009600,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 181087,
       "num": 181087,
       "word": "相机电池",
@@ -945,6 +977,14 @@
       "onboard_time": 1750991481,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 173927,
+      "num": 173927,
+      "word": "办了十年还是穷穿地心的综艺",
+      "onboard_time": 1751009302,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 173321,
@@ -1043,6 +1083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 159156,
+      "num": 159156,
+      "word": "东风日产高管回应涉YU7不当言论",
+      "onboard_time": 1751009423,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 158643,
       "num": 158643,
       "word": "上海机场回应禁带相机电池",
@@ -1131,6 +1179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148630,
+      "num": 148630,
+      "word": "国产剧终于不是英雄救美了",
+      "onboard_time": 1751009600,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147402,
       "num": 158117,
       "word": "小米YU7大定3分钟破20万台",
@@ -1140,7 +1196,7 @@
     },
     {
       "raw_hot": 146041,
-      "num": 146041,
+      "num": 175274,
       "word": "洞洞鞋热变形",
       "onboard_time": 1751006361,
       "rank": 33,
@@ -1211,6 +1267,14 @@
       "category": "汽车,财经"
     },
     {
+      "raw_hot": 139975,
+      "num": 165710,
+      "word": "孟子义回应自己的狗塌房上热搜",
+      "onboard_time": 1751009600,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 139186,
       "num": 139186,
       "word": "肥娟夫妇回应带货说不嘴硬了",
@@ -1235,14 +1299,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 138181,
-      "num": 138181,
-      "word": "中学生 早恋",
-      "onboard_time": 1751008402,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 137210,
       "num": 162533,
       "word": "于正回应和刘宇宁合作",
@@ -1257,14 +1313,6 @@
       "onboard_time": 1751005102,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134788,
-      "num": 134788,
-      "word": "晚晚助理命很苦的感觉",
-      "onboard_time": 1751008642,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 133977,
@@ -1297,6 +1345,14 @@
       "onboard_time": 1750990762,
       "rank": 34,
       "category": "汽车,财经"
+    },
+    {
+      "raw_hot": 128123,
+      "num": 128123,
+      "word": "越老越吃香的行业",
+      "onboard_time": 1751009122,
+      "rank": 48,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 127317,
@@ -1347,6 +1403,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 125311,
+      "num": 212865,
+      "word": "女孩妈妈不认可西贝道歉",
+      "onboard_time": 1751008883,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124510,
       "num": 358178,
       "word": "烧伤男孩双拳紧握笔杆考出664分",
@@ -1395,20 +1459,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121368,
-      "num": 121368,
-      "word": "比伯ins改名",
-      "onboard_time": 1751009122,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 120698,
       "num": 176730,
       "word": "刘亦菲LV巨轮转场",
       "onboard_time": 1751001622,
       "rank": 38,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 120434,
+      "num": 120434,
+      "word": "疑似我被领导发到网上",
+      "onboard_time": 1751009302,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 118807,
@@ -1425,6 +1489,14 @@
       "onboard_time": 1751007082,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116802,
+      "num": 116802,
+      "word": "多只带马字个股涨停",
+      "onboard_time": 1751009843,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 115517,
@@ -1483,6 +1555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112020,
+      "num": 112020,
+      "word": "花开锦绣开机vlog",
+      "onboard_time": 1751009843,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111940,
       "num": 111940,
       "word": "书卷一梦编剧回应",
@@ -1497,14 +1577,6 @@
       "onboard_time": 1750991781,
       "rank": 49,
       "category": "数码"
-    },
-    {
-      "raw_hot": 111519,
-      "num": 111519,
-      "word": "越老越吃香的行业",
-      "onboard_time": 1751009122,
-      "rank": 48,
-      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 110969,
@@ -1529,6 +1601,14 @@
       "onboard_time": 1750999703,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109314,
+      "num": 318635,
+      "word": "福州烟台山公园已有多棵天价树死亡",
+      "onboard_time": 1751009483,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 108871,
@@ -1715,6 +1795,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 85181,
+      "num": 120473,
+      "word": "LPL出征倒计时",
+      "onboard_time": 1751010024,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 85108,
       "num": 85108,
       "word": "原来刘亦菲吃饭也是手机先吃",
@@ -1761,14 +1849,6 @@
       "onboard_time": 1750951703,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 78023,
-      "num": 212865,
-      "word": "女孩妈妈不认可西贝道歉",
-      "onboard_time": 1751008883,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75959,
@@ -1931,6 +2011,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 48614,
+      "num": 805662,
+      "word": "2025新增本科专业怎么选",
+      "onboard_time": 1750986922,
+      "rank": 2,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 48003,
       "num": 48003,
       "word": "林更新留胡子",
@@ -1969,14 +2057,6 @@
       "onboard_time": 1751000483,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 42754,
-      "num": 788593,
-      "word": "2025新增本科专业怎么选",
-      "onboard_time": 1750986922,
-      "rank": 2,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 41697,
