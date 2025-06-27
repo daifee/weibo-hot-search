@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1751038082379,
+  "endTime": 1751038977411,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -1443,6 +1443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 867160,
+      "num": 385619,
+      "word": "居然不是闫妮",
+      "onboard_time": 1751037389,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 864437,
       "num": 864437,
       "word": "第四十九号主席令",
@@ -2009,14 +2017,6 @@
       "onboard_time": 1750898183,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 709079,
-      "num": 385619,
-      "word": "居然不是闫妮",
-      "onboard_time": 1751037389,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 705214,
@@ -3105,6 +3105,14 @@
       "onboard_time": 1750996464,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 529975,
+      "num": 343763,
+      "word": "鹿晗这个退场",
+      "onboard_time": 1751038705,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 529897,
@@ -5539,6 +5547,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 330730,
+      "num": 330730,
+      "word": "杨紫台下那一声尖叫",
+      "onboard_time": 1751038526,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 330002,
       "num": 330002,
       "word": "吴敬平说陪你战洛奥",
@@ -6315,6 +6331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 282501,
+      "num": 376176,
+      "word": "小猫误入洗衣机转了55分钟3000转",
+      "onboard_time": 1751037694,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 282239,
       "num": 282239,
       "word": "云包场赔罪",
@@ -6641,6 +6665,14 @@
       "onboard_time": 1750598482,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 266821,
+      "num": 433841,
+      "word": "被打还手即互殴成为历史",
+      "onboard_time": 1751037269,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 266574,
@@ -15499,6 +15531,14 @@
       "category": "美食,民生新闻"
     },
     {
+      "raw_hot": 123534,
+      "num": 404910,
+      "word": "美国多州报告火球从天而降",
+      "onboard_time": 1751037694,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 123449,
       "num": 123449,
       "word": "孟子义有多忙",
@@ -17939,6 +17979,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 89366,
+      "num": 275514,
+      "word": "WB战胜eStar",
+      "onboard_time": 1751038166,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 89346,
       "num": 186542,
       "word": "准大学生背脑梗老人急诊救回一命",
@@ -18451,14 +18499,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 78103,
-      "num": 433841,
-      "word": "被打还手即互殴成为历史",
-      "onboard_time": 1751037269,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 78050,
       "num": 78050,
       "word": "黄轩女友分享日常vlog",
@@ -18649,6 +18689,14 @@
       "onboard_time": 1750981161,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 75542,
+      "num": 337131,
+      "word": "男子杀害女友藏尸酒店床底被执死刑",
+      "onboard_time": 1751038763,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75251,
@@ -20251,14 +20299,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 45224,
-      "num": 404910,
-      "word": "美国多州报告火球从天而降",
-      "onboard_time": 1751037694,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 45096,
       "num": 348046,
       "word": "陈楚生说从vivo影像里看自己",
@@ -20729,14 +20769,6 @@
       "onboard_time": 1750521682,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 36665,
-      "num": 376176,
-      "word": "小猫误入洗衣机转了55分钟3000转",
-      "onboard_time": 1751037694,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 36596,
@@ -21753,6 +21785,14 @@
       "onboard_time": 1751023282,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21294,
+      "num": 347812,
+      "word": "中国为啥不愿买美国石油",
+      "onboard_time": 1751038705,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 21273,
