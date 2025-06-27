@@ -1,6 +1,6 @@
 {
   "startTime": 1750955581651,
-  "endTime": 1751014152587,
+  "endTime": 1751016521386,
   "band_list": [
     {
       "raw_hot": 12136998,
@@ -35,7 +35,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 2408890,
+      "raw_hot": 2411149,
       "num": 1159311,
       "word": "鹿晗消瘦模样大变",
       "onboard_time": 1751012547,
@@ -107,6 +107,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 1128678,
+      "num": 596512,
+      "word": "金靖私下和周雨彤道歉",
+      "onboard_time": 1751012667,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1100433,
       "num": 1100433,
       "word": "香港四大才子均已逝世",
@@ -137,14 +145,6 @@
       "onboard_time": 1751002282,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1036936,
-      "num": 596512,
-      "word": "金靖私下和周雨彤道歉",
-      "onboard_time": 1751012667,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 959847,
@@ -217,6 +217,14 @@
       "onboard_time": 1750996223,
       "rank": 45,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 722895,
+      "num": 396474,
+      "word": "鱿鱼游戏3开播",
+      "onboard_time": 1751013746,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 720126,
@@ -483,6 +491,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 408030,
+      "num": 195802,
+      "word": "蔡澜墓志铭想刻三个字",
+      "onboard_time": 1751015723,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 407720,
+      "num": 323332,
+      "word": "白玉兰预测",
+      "onboard_time": 1751012907,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 406477,
       "num": 406477,
       "word": "加沙民众成批死去只为一块面包",
@@ -505,14 +529,6 @@
       "onboard_time": 1751002642,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 396685,
-      "num": 323332,
-      "word": "白玉兰预测",
-      "onboard_time": 1751012907,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 393278,
@@ -563,12 +579,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 376204,
-      "num": 297686,
-      "word": "鱿鱼游戏3开播",
-      "onboard_time": 1751013746,
-      "rank": 22,
-      "category": "剧集"
+      "raw_hot": 372694,
+      "num": 194739,
+      "word": "蔡澜的离别信",
+      "onboard_time": 1751014765,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 354766,
@@ -675,6 +691,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 284232,
+      "num": 172985,
+      "word": "蔡澜的微博神回复",
+      "onboard_time": 1751015183,
+      "rank": 23,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 279829,
       "num": 298683,
       "word": "田栩宁方将取证",
@@ -696,6 +720,14 @@
       "word": "王楚然喊白鹿宝贝",
       "onboard_time": 1750996763,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 264124,
+      "num": 209138,
+      "word": "李沁花少路透",
+      "onboard_time": 1751012787,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -899,20 +931,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 209138,
-      "num": 209138,
-      "word": "李沁花少路透",
-      "onboard_time": 1751012787,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 207772,
       "num": 207772,
       "word": "比伯ins改名",
       "onboard_time": 1751009122,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207719,
+      "num": 156411,
+      "word": "李现杨紫时隔多年再次合作",
+      "onboard_time": 1751016263,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 207471,
@@ -1035,12 +1067,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196099,
+      "num": 154214,
+      "word": "上海白玉兰颁奖典礼红毯嘉宾阵容",
+      "onboard_time": 1751014705,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194874,
       "num": 194874,
       "word": "早晨喝咖啡 长寿",
       "onboard_time": 1750997062,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 193541,
+      "num": 193541,
+      "word": "温网抽签仪式",
+      "onboard_time": 1751015785,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 192976,
@@ -1089,6 +1137,14 @@
       "onboard_time": 1751003122,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187009,
+      "num": 187009,
+      "word": "苏超",
+      "onboard_time": 1751015963,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 186655,
@@ -1251,6 +1307,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 163678,
+      "num": 163678,
+      "word": "古人在90度垂直崖壁上盖了5层楼",
+      "onboard_time": 1751014765,
+      "rank": 25,
+      "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 162725,
+      "num": 146603,
+      "word": "蔡澜曾谈无儿无女",
+      "onboard_time": 1751015603,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162529,
       "num": 162529,
       "word": "陆景和 酱子贝",
@@ -1289,6 +1361,14 @@
       "onboard_time": 1751013806,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158119,
+      "num": 131349,
+      "word": "孟子义这段妲己来了都避让三分",
+      "onboard_time": 1751014344,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 157950,
@@ -1353,6 +1433,14 @@
       "onboard_time": 1751000903,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151661,
+      "num": 321722,
+      "word": "女子为养胃天天喝烫水查出食管癌",
+      "onboard_time": 1751010261,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149689,
@@ -1555,6 +1643,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131619,
+      "num": 131619,
+      "word": "杭州602分上职业本科女生说不后悔",
+      "onboard_time": 1751015364,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131332,
+      "num": 131332,
+      "word": "刘学义用脸骂人赛道",
+      "onboard_time": 1751016022,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128489,
       "num": 128489,
       "word": "小米汽车板块大爆发",
@@ -1675,6 +1779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121624,
+      "num": 161205,
+      "word": "Dior新季期待值拉满",
+      "onboard_time": 1751015364,
+      "rank": 27,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 120698,
       "num": 176730,
       "word": "刘亦菲LV巨轮转场",
@@ -1689,14 +1801,6 @@
       "onboard_time": 1751009302,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 118829,
-      "num": 321722,
-      "word": "女子为养胃天天喝烫水查出食管癌",
-      "onboard_time": 1751010261,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 118807,
@@ -1827,6 +1931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110364,
+      "num": 110364,
+      "word": "宁艺卓 泥巴里下腰",
+      "onboard_time": 1751015423,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 109704,
       "num": 196607,
       "word": "勇士选秀球员颜值挺高",
@@ -1907,6 +2019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100756,
+      "num": 100756,
+      "word": "生母每晚都梦到女儿喊妈妈救我",
+      "onboard_time": 1751014585,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100624,
       "num": 100624,
       "word": "贾樟柯 屏摄",
@@ -1929,6 +2049,14 @@
       "onboard_time": 1751005342,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96765,
+      "num": 193975,
+      "word": "机场回应旅客自弃的充电宝如何处置",
+      "onboard_time": 1751014886,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96177,
@@ -1977,6 +2105,14 @@
       "onboard_time": 1750951224,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 88967,
+      "num": 98951,
+      "word": "和不熟的人吃饭是加班",
+      "onboard_time": 1751015364,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 88641,
@@ -2051,6 +2187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 83308,
+      "num": 1290358,
+      "word": "2025高考招生录取新变化新趋势",
+      "onboard_time": 1751013087,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81787,
       "num": 81787,
       "word": "缉毒民警被戴上手铐时才敢松口气",
@@ -2073,6 +2217,14 @@
       "onboard_time": 1750949666,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 80286,
+      "num": 131361,
+      "word": "严惩违法出售饲养烈性犬行为",
+      "onboard_time": 1751015064,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78204,
@@ -2155,14 +2307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 69071,
-      "num": 1290358,
-      "word": "2025高考招生录取新变化新趋势",
-      "onboard_time": 1751013087,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 68950,
       "num": 68950,
       "word": "翔霖",
@@ -2241,6 +2385,14 @@
       "onboard_time": 1750967174,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51026,
+      "num": 189637,
+      "word": "在河南遇见宋画里的山河人间",
+      "onboard_time": 1751015302,
+      "rank": 18,
+      "category": "民生新闻,旅游"
     },
     {
       "raw_hot": 49549,
@@ -2337,6 +2489,14 @@
       "onboard_time": 1750995803,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 37740,
+      "num": 189205,
+      "word": "工地螺纹钢徒手能掰断三大疑问待解",
+      "onboard_time": 1751016084,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37189,
@@ -2539,6 +2699,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 13890,
+      "num": 98344,
+      "word": "只有三天保鲜期的职场KPI",
+      "onboard_time": 1751014524,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 13423,
       "num": 1254801,
       "word": "活力中国调研行",
@@ -2564,6 +2732,9 @@
     },
     {
       "word": "#习近平会见塞内加尔总理#"
+    },
+    {
+      "word": "#习近平会见厄瓜多尔总统#"
     }
   ]
 }
