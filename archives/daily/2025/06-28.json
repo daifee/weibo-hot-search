@@ -1,6 +1,6 @@
 {
   "startTime": 1751041984881,
-  "endTime": 1751064277363,
+  "endTime": 1751066774662,
   "band_list": [
     {
       "raw_hot": 4618253,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1179099,
-      "num": 444851,
+      "num": 692147,
       "word": "蒋欣获奖关晓彤哭了",
       "onboard_time": 1751037031,
       "rank": 6,
@@ -75,6 +75,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 602162,
+      "num": 602162,
+      "word": "被打还手即互殴成为历史",
+      "onboard_time": 1751037269,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 566524,
       "num": 235176,
       "word": "居然不是闫妮",
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 505079,
-      "num": 180129,
+      "num": 203398,
       "word": "王安宇给蒋欣送蛇瓜",
       "onboard_time": 1751043741,
       "rank": 11,
@@ -113,14 +121,6 @@
       "onboard_time": 1751010686,
       "rank": 22,
       "category": "艺人,艺人"
-    },
-    {
-      "raw_hot": 461898,
-      "num": 461898,
-      "word": "被打还手即互殴成为历史",
-      "onboard_time": 1751037269,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 367099,
@@ -275,7 +275,15 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 173470,
+      "raw_hot": 183562,
+      "num": 183562,
+      "word": "多方回应美国多州报告火球从天而降",
+      "onboard_time": 1751065278,
+      "rank": 15,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 179115,
       "num": 212976,
       "word": "张家界人造古城营业4年亏了10多亿",
       "onboard_time": 1751039005,
@@ -299,6 +307,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 149213,
+      "num": 279544,
+      "word": "当地回应一干部三次犯罪仍被提拔",
+      "onboard_time": 1751041165,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144420,
       "num": 210087,
       "word": "高考288分事件被质疑炒作引流",
@@ -315,19 +331,19 @@
       "category": "演出"
     },
     {
-      "raw_hot": 131979,
-      "num": 279544,
-      "word": "当地回应一干部三次犯罪仍被提拔",
-      "onboard_time": 1751041165,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 122372,
       "num": 212195,
       "word": "吉林大学 支帐篷过夜",
       "onboard_time": 1751029825,
       "rank": 24,
+      "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 109085,
+      "num": 211323,
+      "word": "退学北大男生被说是最差年级第一",
+      "onboard_time": 1751022143,
+      "rank": 34,
       "category": "教育,民生新闻"
     },
     {
@@ -339,6 +355,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 89534,
+      "num": 89534,
+      "word": "MSI",
+      "onboard_time": 1751066118,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 88308,
       "num": 88308,
       "word": "钟楚曦说宋佳值得",
@@ -347,20 +371,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 79037,
-      "num": 211323,
-      "word": "退学北大男生被说是最差年级第一",
-      "onboard_time": 1751022143,
-      "rank": 34,
-      "category": "教育,民生新闻"
-    },
-    {
       "raw_hot": 79032,
       "num": 210025,
       "word": "多方回应湖南母子相继坠河身亡",
       "onboard_time": 1751027003,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76710,
+      "num": 75259,
+      "word": "美飞行员飞37小时像猫一样解决排泄",
+      "onboard_time": 1751066419,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 73034,
@@ -379,12 +403,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71771,
+      "num": 71771,
+      "word": "杨紫也有被拍照难到的一天",
+      "onboard_time": 1751060835,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 71167,
+      "num": 162484,
+      "word": "上海女硕士被大专男骗财骗色骗卵",
+      "onboard_time": 1751006961,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69929,
       "num": 211247,
       "word": "社区回应四川一名儿童不慎坠亡",
       "onboard_time": 1751041583,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66751,
+      "num": 66751,
+      "word": "蔡澜曾谈怎样面对亲友离世",
+      "onboard_time": 1751019322,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 64647,
+      "num": 64647,
+      "word": "傅首尔瘦身成功美出新高度",
+      "onboard_time": 1751056456,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 63206,
@@ -411,23 +467,15 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 57431,
-      "num": 162484,
-      "word": "上海女硕士被大专男骗财骗色骗卵",
-      "onboard_time": 1751006961,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 53129,
+      "num": 53129,
+      "word": "糖尿病 年轻化",
+      "onboard_time": 1751066719,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
-      "raw_hot": 54263,
-      "num": 54263,
-      "word": "傅首尔瘦身成功美出新高度",
-      "onboard_time": 1751056456,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 49331,
+      "raw_hot": 51269,
       "num": 153007,
       "word": "美方相应取消对华有关限制措施",
       "onboard_time": 1751025504,
@@ -451,12 +499,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 47153,
-      "num": 47153,
-      "word": "杨紫也有被拍照难到的一天",
-      "onboard_time": 1751060835,
-      "rank": 40,
+      "raw_hot": 47436,
+      "num": 47436,
+      "word": "又看到了风情万种的佟湘玉",
+      "onboard_time": 1751065397,
+      "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 47246,
+      "num": 47246,
+      "word": "任嘉伦 大背头",
+      "onboard_time": 1751063116,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 43388,
@@ -475,12 +531,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 42574,
-      "num": 44810,
-      "word": "蔡澜曾谈怎样面对亲友离世",
-      "onboard_time": 1751019322,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 42994,
+      "num": 77217,
+      "word": "BLG冲击2025Msi首胜",
+      "onboard_time": 1751035288,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 42479,
@@ -539,28 +595,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 34047,
-      "num": 44760,
-      "word": "任嘉伦 大背头",
-      "onboard_time": 1751063116,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 33781,
       "num": 229156,
       "word": "被打假后清大经管公众号改名",
       "onboard_time": 1751040446,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33654,
-      "num": 77217,
-      "word": "BLG冲击2025Msi首胜",
-      "onboard_time": 1751035288,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 30837,
