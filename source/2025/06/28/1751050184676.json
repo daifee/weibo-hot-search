@@ -1,0 +1,410 @@
+{
+  "runTime": 1751050184676,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 358374,
+        "num": 358374,
+        "word": "宋佳白玉兰视后",
+        "onboard_time": 1751036790,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287051,
+        "num": 287051,
+        "word": "白玉兰获奖名单",
+        "onboard_time": 1751032048,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21886,
+        "num": 247615,
+        "word": "7月这些新规影响你我",
+        "onboard_time": 1751031627,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239144,
+        "num": 239144,
+        "word": "小猫误入洗衣机转了55分钟3000转",
+        "onboard_time": 1751037694,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152315,
+        "num": 152315,
+        "word": "男子杀害女友藏尸酒店床底被执死刑",
+        "onboard_time": 1751038763,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140504,
+        "num": 140504,
+        "word": "被打还手即互殴成为历史",
+        "onboard_time": 1751037269,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277282,
+        "num": 120538,
+        "word": "蒋欣获奖关晓彤哭了",
+        "onboard_time": 1751037031,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239117,
+        "num": 116782,
+        "word": "鹿晗这个退场",
+        "onboard_time": 1751038705,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195226,
+        "num": 109749,
+        "word": "单依纯哭了",
+        "onboard_time": 1751035950,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99119,
+        "num": 99119,
+        "word": "家属回应女儿高考288分爆火被指炒作",
+        "onboard_time": 1751039905,
+        "rank": 9,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 182261,
+        "num": 97323,
+        "word": "刘亦菲没去白玉兰",
+        "onboard_time": 1751030665,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116745,
+        "num": 95011,
+        "word": "杨紫台下那一声尖叫",
+        "onboard_time": 1751038526,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114851,
+        "num": 91193,
+        "word": "蔡澜去世",
+        "onboard_time": 1751010686,
+        "rank": 12,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 85263,
+        "num": 85263,
+        "word": "美一飞船失控150人骨灰全扬了",
+        "onboard_time": 1751030364,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 78341,
+        "num": 78341,
+        "word": "洞洞鞋 真菌感染",
+        "onboard_time": 1751011707,
+        "rank": 14,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 62606,
+        "num": 62606,
+        "word": "陈星旭因病住院",
+        "onboard_time": 1751040745,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57139,
+        "num": 57139,
+        "word": "美国多州报告火球从天而降",
+        "onboard_time": 1751037694,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 56723,
+        "num": 56723,
+        "word": "美军打击伊朗核设施筹备了15年",
+        "onboard_time": 1751040086,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 54363,
+        "num": 54363,
+        "word": "张家界人造古城营业4年亏了10多亿",
+        "onboard_time": 1751039005,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 49157,
+        "num": 49157,
+        "word": "当地回应一干部三次犯罪仍被提拔",
+        "onboard_time": 1751041165,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104884,
+        "num": 49118,
+        "word": "王安宇给蒋欣送蛇瓜",
+        "onboard_time": 1751043741,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97573,
+        "num": 49004,
+        "word": "鹿晗演唱会",
+        "onboard_time": 1751017522,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 94638,
+        "num": 48950,
+        "word": "边水往事",
+        "onboard_time": 1751039965,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40649,
+        "num": 48878,
+        "word": "吉林大学 支帐篷过夜",
+        "onboard_time": 1751029825,
+        "rank": 23,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 30598,
+        "num": 48802,
+        "word": "退学北大男生被说是最差年级第一",
+        "onboard_time": 1751022143,
+        "rank": 24,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 73173,
+        "num": 48739,
+        "word": "靳东白玉兰视帝",
+        "onboard_time": 1751036009,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64148,
+        "num": 48682,
+        "word": "歌手排名",
+        "onboard_time": 1751032589,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60604,
+        "num": 48558,
+        "word": "马嘉祺回来吧",
+        "onboard_time": 1751032048,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58315,
+        "num": 48513,
+        "word": "居然不是闫妮",
+        "onboard_time": 1751037389,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26091,
+        "num": 48448,
+        "word": "美方相应取消对华有关限制措施",
+        "onboard_time": 1751025504,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 57518,
+        "num": 48361,
+        "word": "白玉兰直播",
+        "onboard_time": 1751027604,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55154,
+        "num": 48272,
+        "word": "关晓彤妆造正确",
+        "onboard_time": 1751023342,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26006,
+        "num": 48204,
+        "word": "社区回应四川一名儿童不慎坠亡",
+        "onboard_time": 1751041583,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27455,
+        "num": 48085,
+        "word": "恋与深空婚卡",
+        "onboard_time": 1751026583,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 25064,
+        "num": 48044,
+        "word": "中国为啥不愿买美国石油",
+        "onboard_time": 1751038705,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 51096,
+        "num": 47920,
+        "word": "宋佳实至名归",
+        "onboard_time": 1751037508,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47914,
+        "num": 47914,
+        "word": "王宝强奖运",
+        "onboard_time": 1751041945,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24899,
+        "num": 47546,
+        "word": "多方回应湖南母子相继坠河身亡",
+        "onboard_time": 1751027003,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24594,
+        "num": 47538,
+        "word": "香港四大才子均已逝世",
+        "onboard_time": 1751011827,
+        "rank": 38,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 23648,
+        "num": 47537,
+        "word": "上海女硕士被大专男骗财骗色骗卵",
+        "onboard_time": 1751006961,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47537,
+        "num": 47536,
+        "word": "奔跑吧13",
+        "onboard_time": 1751046618,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43019,
+        "num": 47523,
+        "word": "周深贴脸开大单依纯",
+        "onboard_time": 1751049018,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40555,
+        "num": 47488,
+        "word": "汪苏泷说来太原跟回家一样",
+        "onboard_time": 1751049616,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 38834,
+        "num": 47469,
+        "word": "郑欣宜谢谢歌手",
+        "onboard_time": 1751041224,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37169,
+        "num": 47448,
+        "word": "王安全的弟弟王安宇",
+        "onboard_time": 1751040864,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23634,
+        "num": 47410,
+        "word": "黄金",
+        "onboard_time": 1751034088,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 22125,
+        "num": 47395,
+        "word": "上海暴雨",
+        "onboard_time": 1751024782,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20291,
+        "num": 47378,
+        "word": "台湾彩民花800元独揽17亿头奖",
+        "onboard_time": 1751032048,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18981,
+        "num": 47347,
+        "word": "BLG冲击2025Msi首胜",
+        "onboard_time": 1751035288,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 15884,
+        "num": 47319,
+        "word": "豆瓣崩了",
+        "onboard_time": 1751034929,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见塞内加尔总理#"
+    }
+  }
+}

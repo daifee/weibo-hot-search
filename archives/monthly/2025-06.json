@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1751049366975,
+  "endTime": 1751050184676,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -88659,6 +88659,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 43019,
+      "num": 47523,
+      "word": "周深贴脸开大单依纯",
+      "onboard_time": 1751049018,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 42969,
       "num": 297263,
       "word": "中文系到底学什么",
@@ -89577,6 +89585,14 @@
       "onboard_time": 1750320741,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40555,
+      "num": 47488,
+      "word": "汪苏泷说来太原跟回家一样",
+      "onboard_time": 1751049616,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 40523,

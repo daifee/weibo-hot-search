@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1751049366975,
+  "endTime": 1751050184676,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -20563,6 +20563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 43019,
+      "num": 47523,
+      "word": "周深贴脸开大单依纯",
+      "onboard_time": 1751049018,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 42902,
       "num": 319168,
       "word": "退休后领取基本养老金无需缴个税",
@@ -20721,6 +20729,14 @@
       "onboard_time": 1750885874,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 40555,
+      "num": 47488,
+      "word": "汪苏泷说来太原跟回家一样",
+      "onboard_time": 1751049616,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 40364,
