@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/22 00:30:38 ~ 2025/06/28 04:41:15
+本榜单时间：2025/06/22 00:30:38 ~ 2025/06/28 05:22:35
 </p>
 </blockquote>
 <p>
@@ -16155,6 +16155,12 @@ KPL（热度：29331）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%82%85%E9%A6%96%E5%B0%94%E7%98%A6%E8%BA%AB%E6%88%90%E5%8A%9F%E7%BE%8E%E5%87%BA%E6%96%B0%E9%AB%98%E5%BA%A6%23" target="weibo">
+傅首尔瘦身成功美出新高度（热度：28469）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%98%AF%E8%AF%B4%E5%9C%A8%E5%9C%B0%E5%A4%A7%E7%94%A8%E5%A4%A9%E5%9C%B0%E5%BD%93%E8%AF%BE%E5%A0%82%E5%90%97%23" target="weibo">
 你是说在地大用天地当课堂吗（热度：28331）
 </a>
@@ -16721,12 +16727,6 @@ LPL公益特别行动（热度：24394）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%AC%A8%E7%8B%97%E7%9C%8B%E8%B5%B7%E6%9D%A5%E6%9C%80%E5%BC%B1%E7%9A%84%E4%B8%80%E9%9B%86%23" target="weibo">
 大笨狗看起来最弱的一集（热度：18733）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%82%85%E9%A6%96%E5%B0%94%E7%98%A6%E8%BA%AB%E6%88%90%E5%8A%9F%E7%BE%8E%E5%87%BA%E6%96%B0%E9%AB%98%E5%BA%A6%23" target="weibo">
-傅首尔瘦身成功美出新高度（热度：18654）
 </a>
 </li>
 
