@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/27 23:42:57
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/28 00:33:04
 </p>
 </blockquote>
 <p>
@@ -3189,6 +3189,12 @@ B站崩了（热度：1103539）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E8%BF%99%E4%B8%AA%E9%80%80%E5%9C%BA%23" target="weibo">
+鹿晗这个退场（热度：1073174）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E5%9B%9E%E6%9D%A5%E5%90%A7%23" target="weibo">
 马嘉祺回来吧（热度：1072879）
 </a>
@@ -5055,6 +5061,12 @@ T3司机猥亵大三女生被行拘5日（热度：810171）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%8F%B0%E4%B8%8B%E9%82%A3%E4%B8%80%E5%A3%B0%E5%B0%96%E5%8F%AB%23" target="weibo">
+杨紫台下那一声尖叫（热度：805997）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%BA%AE%E7%9B%B8LV%E5%A4%A7%E7%A7%80%23" target="weibo">
 王楚钦亮相LV大秀（热度：805723）
 </a>
@@ -5999,18 +6011,6 @@ Labubu 审美（热度：729066）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%96%AA%E8%BE%BE20%E4%B8%87%E5%B0%B1%E4%B8%9A%E7%8E%8795%25%E8%80%81%E5%B8%88%E4%B9%90%E5%9D%8F%E4%BA%86%23" target="weibo">
 年薪达20万就业率95%老师乐坏了（热度：727173）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E8%97%8F%E6%B5%B7%E4%BC%A0%E5%8F%B0%E6%B9%BE%E7%83%AD%E6%92%AD%23" target="weibo">
-国台办回应藏海传台湾热播（热度：726894）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E8%AE%B2%E8%AF%9D%E5%90%8E%E4%BB%A5%E5%86%8D%E6%AC%A1%E7%A9%BA%E8%A2%AD%E5%BE%B7%E9%BB%91%E5%85%B0%23" target="weibo">
-哈梅内伊讲话后以再次空袭德黑兰（热度：726668）
 </a>
 </li>
 
