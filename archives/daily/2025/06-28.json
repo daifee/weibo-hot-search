@@ -1,6 +1,6 @@
 {
   "startTime": 1751041984881,
-  "endTime": 1751092499441,
+  "endTime": 1751093310016,
   "band_list": [
     {
       "raw_hot": 4618253,
@@ -67,12 +67,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1115073,
+      "num": 1178411,
+      "word": "贵州榕江拉响全城警报",
+      "onboard_time": 1751091143,
+      "rank": 1,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 1073174,
       "num": 430049,
       "word": "鹿晗这个退场",
       "onboard_time": 1751038705,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1053191,
+      "num": 1053191,
+      "word": "邓超哭成悲伤蛙",
+      "onboard_time": 1751092040,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 900764,
@@ -84,7 +100,7 @@
     },
     {
       "raw_hot": 881633,
-      "num": 624130,
+      "num": 668309,
       "word": "蔡徐坤仅自己可见朋友圈",
       "onboard_time": 1751088622,
       "rank": 6,
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 752383,
-      "num": 323102,
+      "num": 433907,
       "word": "尼坤怎么长这样了",
       "onboard_time": 1751088862,
       "rank": 23,
@@ -145,6 +161,14 @@
       "onboard_time": 1751074103,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 691978,
+      "num": 434447,
+      "word": "沙溢儿子安吉14岁近照",
+      "onboard_time": 1751089401,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 667398,
@@ -179,28 +203,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 643567,
-      "num": 643567,
-      "word": "贵州榕江拉响全城警报",
-      "onboard_time": 1751091143,
-      "rank": 1,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 642778,
       "num": 445329,
       "word": "运动瘦和饿瘦的区别",
       "onboard_time": 1751082382,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 616270,
-      "num": 319229,
-      "word": "沙溢儿子安吉14岁近照",
-      "onboard_time": 1751089401,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 607473,
@@ -235,14 +243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 547881,
-      "num": 547881,
-      "word": "邓超哭成悲伤蛙",
-      "onboard_time": 1751092040,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 541589,
       "num": 541589,
       "word": "卢昱晓礼服下面是拖鞋",
@@ -260,7 +260,7 @@
     },
     {
       "raw_hot": 535349,
-      "num": 319684,
+      "num": 432858,
       "word": "杨采钰挺孕肚出街",
       "onboard_time": 1751088862,
       "rank": 20,
@@ -499,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 272526,
+      "num": 272526,
+      "word": "邓超回应唱哭了",
+      "onboard_time": 1751093062,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 266329,
       "num": 266329,
       "word": "美国多州报告火球从天而降",
@@ -595,20 +603,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229620,
+      "num": 438849,
+      "word": "雷军说特斯拉确实了不起",
+      "onboard_time": 1751089042,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 228523,
       "num": 210811,
       "word": "王宝强奖运",
       "onboard_time": 1751041945,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 222437,
-      "num": 329428,
-      "word": "雷军说特斯拉确实了不起",
-      "onboard_time": 1751089042,
-      "rank": 26,
-      "category": "汽车"
     },
     {
       "raw_hot": 220896,
@@ -891,6 +899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166231,
+      "num": 166231,
+      "word": "颖儿做胆囊切除手术",
+      "onboard_time": 1751092462,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165018,
       "num": 165018,
       "word": "皮肤变厚 脚气",
@@ -905,6 +921,14 @@
       "onboard_time": 1751089282,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162071,
+      "num": 143041,
+      "word": "从出生就住在出租房的孩子视角",
+      "onboard_time": 1751091743,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 162052,
@@ -987,14 +1011,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 150408,
-      "num": 141134,
-      "word": "从出生就住在出租房的孩子视角",
-      "onboard_time": 1751091743,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 150291,
       "num": 212798,
       "word": "美军打击伊朗核设施筹备了15年",
@@ -1051,6 +1067,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 142795,
+      "num": 142795,
+      "word": "田嘉瑞时装周穿了粉丝严选",
+      "onboard_time": 1751092401,
+      "rank": 47,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 141700,
       "num": 300812,
       "word": "酱园弄悬案十八相送正片片段",
@@ -1065,14 +1089,6 @@
       "onboard_time": 1751087721,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 141105,
-      "num": 141105,
-      "word": "颖儿做胆囊切除手术",
-      "onboard_time": 1751092462,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 140609,
@@ -1131,12 +1147,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134108,
+      "num": 134108,
+      "word": "五台山和尚扔米",
+      "onboard_time": 1751091501,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133520,
       "num": 133520,
       "word": "看看汪苏泷吧哪怕就一秒",
       "onboard_time": 1751043802,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 132341,
+      "num": 132341,
+      "word": "预计贵州榕江县17时左右出现洪峰",
+      "onboard_time": 1751090482,
+      "rank": 38,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 131877,
@@ -1259,14 +1291,6 @@
       "category": "教育,民生新闻"
     },
     {
-      "raw_hot": 121596,
-      "num": 121596,
-      "word": "预计贵州榕江县17时左右出现洪峰",
-      "onboard_time": 1751090482,
-      "rank": 38,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 121154,
       "num": 121154,
       "word": "爷爷的高铁哄娃神器火了",
@@ -1307,14 +1331,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 119016,
-      "num": 119016,
-      "word": "五台山和尚扔米",
-      "onboard_time": 1751091501,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 117502,
       "num": 117502,
       "word": "鹿晗这是一套的",
@@ -1337,6 +1353,14 @@
       "onboard_time": 1751084902,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 115344,
+      "num": 115344,
+      "word": "芭莎之夜出图",
+      "onboard_time": 1751090841,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 113878,
@@ -1371,20 +1395,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 109394,
-      "num": 109394,
-      "word": "芭莎之夜出图",
-      "onboard_time": 1751090841,
-      "rank": 43,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 108829,
       "num": 121043,
       "word": "刘丁硕称王楚钦为卷王",
       "onboard_time": 1751080104,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107751,
+      "num": 143134,
+      "word": "王安宇主持功底",
+      "onboard_time": 1751092762,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 106660,
@@ -1400,6 +1424,14 @@
       "word": "米奇夺冠希然泪崩",
       "onboard_time": 1751083162,
       "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 103776,
+      "num": 103776,
+      "word": "陈赫在五哈有负伤KPI",
+      "onboard_time": 1751093062,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -1443,12 +1475,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 99308,
-      "num": 99308,
-      "word": "田嘉瑞时装周穿了粉丝严选",
-      "onboard_time": 1751092401,
-      "rank": 47,
-      "category": "时尚,作品衍生"
+      "raw_hot": 98952,
+      "num": 98952,
+      "word": "榕江提醒七大洪区人员全部撤离",
+      "onboard_time": 1751089943,
+      "rank": 49,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 98157,
@@ -1457,14 +1489,6 @@
       "onboard_time": 1751071103,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 95191,
-      "num": 95191,
-      "word": "榕江提醒七大洪区人员全部撤离",
-      "onboard_time": 1751089943,
-      "rank": 49,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 94263,
@@ -1588,7 +1612,7 @@
     },
     {
       "raw_hot": 69401,
-      "num": 847750,
+      "num": 898127,
       "word": "这些热点国家发改委回应了",
       "onboard_time": 1751084063,
       "rank": 2,
@@ -1803,6 +1827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 35623,
+      "num": 213613,
+      "word": "榕江再遭洪水突袭亲历者发声",
+      "onboard_time": 1751091802,
+      "rank": 19,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 34750,
       "num": 205715,
       "word": "Jonathan的Dior首秀",
@@ -1833,14 +1865,6 @@
       "onboard_time": 1751051177,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 29458,
-      "num": 213613,
-      "word": "榕江再遭洪水突袭亲历者发声",
-      "onboard_time": 1751091802,
-      "rank": 19,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 29421,
