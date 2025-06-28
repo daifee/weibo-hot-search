@@ -1,0 +1,410 @@
+{
+  "runTime": 1751109677049,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 863704,
+        "num": 1138192,
+        "word": "鹿晗回春",
+        "onboard_time": 1751102421,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 566560,
+        "num": 566560,
+        "word": "三兄弟一死一退一存疑",
+        "onboard_time": 1751106982,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29764,
+        "num": 565292,
+        "word": "6组数据看我国中小企业发展成就",
+        "onboard_time": 1751102002,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1022133,
+        "num": 562239,
+        "word": "低精力人群 炎症",
+        "onboard_time": 1751093541,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 633057,
+        "num": 559058,
+        "word": "Labubu发夹",
+        "onboard_time": 1751099602,
+        "rank": 4,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 348190,
+        "num": 557293,
+        "word": "贵州榕江拉响全城警报",
+        "onboard_time": 1751091143,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 554489,
+        "num": 554489,
+        "word": "果然是第一次接吻还不会翻面",
+        "onboard_time": 1751106801,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 511277,
+        "num": 511277,
+        "word": "迪丽热巴90花唯一的视后",
+        "onboard_time": 1751094260,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 574826,
+        "num": 497779,
+        "word": "周翊然发了和张婧仪合照",
+        "onboard_time": 1751105182,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62081,
+        "num": 479101,
+        "word": "村民自发做2000份饭支援抗洪前线",
+        "onboard_time": 1751108481,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 662904,
+        "num": 478855,
+        "word": "生理性喜欢是很恐怖的一件事",
+        "onboard_time": 1751107701,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 477288,
+        "num": 477288,
+        "word": "刘亦菲",
+        "onboard_time": 1751102182,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410311,
+        "num": 410311,
+        "word": "芭莎红毯",
+        "onboard_time": 1751093721,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 322829,
+        "num": 322829,
+        "word": "贵州榕江已撤离转移41574人",
+        "onboard_time": 1751107402,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31075,
+        "num": 297030,
+        "word": "120秒还原悬空货车司机救援全程",
+        "onboard_time": 1751102481,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291542,
+        "num": 291542,
+        "word": "关晓彤确实是藏不住事的年纪",
+        "onboard_time": 1751080463,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283178,
+        "num": 283178,
+        "word": "被传身亡伊朗高官现身国葬",
+        "onboard_time": 1751108481,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 283058,
+        "num": 283058,
+        "word": "迪丽热巴直播",
+        "onboard_time": 1751104701,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243248,
+        "num": 243248,
+        "word": "世界顶级数学家张益唐加盟中山大学",
+        "onboard_time": 1751103261,
+        "rank": 18,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 189665,
+        "num": 189665,
+        "word": "Hero发育路轮换",
+        "onboard_time": 1751109202,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 686181,
+        "num": 188212,
+        "word": "叫了只炸鸡门店后厨成卧室蟑螂多",
+        "onboard_time": 1751104880,
+        "rank": 20,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 277452,
+        "num": 187241,
+        "word": "王俊凯送王源演唱会花篮",
+        "onboard_time": 1751099782,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 272698,
+        "num": 185286,
+        "word": "关晓彤白玉兰大屏用了鹿晗发的照片",
+        "onboard_time": 1751083282,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249388,
+        "num": 184763,
+        "word": "金曲奖",
+        "onboard_time": 1751107461,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 224788,
+        "num": 183255,
+        "word": "蔡澜 陈宝莲",
+        "onboard_time": 1751094621,
+        "rank": 24,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 217506,
+        "num": 181754,
+        "word": "去过河南的人嘴真严啊",
+        "onboard_time": 1751108782,
+        "rank": 25,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 213382,
+        "num": 180166,
+        "word": "欧阳娜娜坐扭扭车走红毯",
+        "onboard_time": 1751108121,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 179130,
+        "num": 179130,
+        "word": "警方已介入殡仪馆深夜点外卖事件",
+        "onboard_time": 1751106743,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202206,
+        "num": 179087,
+        "word": "王嘉尔压轴",
+        "onboard_time": 1751108962,
+        "rank": 28,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 23177,
+        "num": 178771,
+        "word": "榕江养殖户被冲走的百余猪已找回61头",
+        "onboard_time": 1751108481,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198572,
+        "num": 178597,
+        "word": "男孩1岁丧父3岁丧母707分考北大",
+        "onboard_time": 1751106561,
+        "rank": 30,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 195650,
+        "num": 178448,
+        "word": "韩安冉每月给父亲开6000工资",
+        "onboard_time": 1751100741,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 191082,
+        "num": 178237,
+        "word": "檀健次芭莎芭莎红毯",
+        "onboard_time": 1751109022,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 178071,
+        "num": 178071,
+        "word": "金智秀怎么美成这样",
+        "onboard_time": 1751100082,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168931,
+        "num": 168931,
+        "word": "30岁6年存了60万",
+        "onboard_time": 1751107641,
+        "rank": 34,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 157093,
+        "num": 157093,
+        "word": "女子欲卖50米手绘上河图救昏迷老公",
+        "onboard_time": 1751104822,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155115,
+        "num": 155115,
+        "word": "印度已婚男与远房亲戚恋爱双双跳崖",
+        "onboard_time": 1751101461,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 144246,
+        "num": 144246,
+        "word": "吴彤在朋友圈给王牌摇剧组",
+        "onboard_time": 1751107283,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143125,
+        "num": 143125,
+        "word": "从猫咖帮一只布偶赎身之后",
+        "onboard_time": 1751107822,
+        "rank": 38,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 139610,
+        "num": 139610,
+        "word": "章昊撕拉片",
+        "onboard_time": 1751109560,
+        "rank": 39,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 138592,
+        "num": 138592,
+        "word": "辽宁舰遭外军双航母夹击歼15挂弹起飞",
+        "onboard_time": 1751094440,
+        "rank": 40,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 136577,
+        "num": 136577,
+        "word": "李一桐书卷一梦主舞门面",
+        "onboard_time": 1751108602,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134749,
+        "num": 134749,
+        "word": "宋茜和Labubu击掌",
+        "onboard_time": 1751109081,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 131706,
+        "num": 131706,
+        "word": "时代少年团芭莎之夜路透",
+        "onboard_time": 1751104341,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 130262,
+        "num": 130262,
+        "word": "1000多名武警紧急驰援贵州榕江",
+        "onboard_time": 1751106202,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126986,
+        "num": 126986,
+        "word": "日本连环杀人犯家中藏9个人头",
+        "onboard_time": 1751074403,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 123775,
+        "num": 123775,
+        "word": "伊朗发布导弹齐射摧毁以色列视频",
+        "onboard_time": 1751108842,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 118632,
+        "num": 118632,
+        "word": "他chua她哇我啊啊啊",
+        "onboard_time": 1751108661,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101698,
+        "num": 115172,
+        "word": "孙颖莎说大满贯见",
+        "onboard_time": 1751103742,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78080,
+        "num": 114670,
+        "word": "清补凉",
+        "onboard_time": 1751109322,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记讲述的这个故事意蕴深长#"
+    }
+  }
+}

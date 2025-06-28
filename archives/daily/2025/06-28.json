@@ -1,6 +1,6 @@
 {
   "startTime": 1751041984881,
-  "endTime": 1751107420948,
+  "endTime": 1751109677049,
   "band_list": [
     {
       "raw_hot": 4618253,
@@ -147,8 +147,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 862169,
-      "num": 862169,
+      "raw_hot": 863704,
+      "num": 1138192,
       "word": "鹿晗回春",
       "onboard_time": 1751102421,
       "rank": 21,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 699044,
-      "num": 359519,
+      "num": 477288,
       "word": "刘亦菲",
       "onboard_time": 1751102182,
       "rank": 22,
@@ -257,6 +257,14 @@
       "onboard_time": 1751038763,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 662904,
+      "num": 478855,
+      "word": "生理性喜欢是很恐怖的一件事",
+      "onboard_time": 1751107701,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 662692,
@@ -307,6 +315,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 574826,
+      "num": 497779,
+      "word": "周翊然发了和张婧仪合照",
+      "onboard_time": 1751105182,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 566560,
+      "num": 566560,
+      "word": "三兄弟一死一退一存疑",
+      "onboard_time": 1751106982,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 566524,
       "num": 327291,
       "word": "居然不是闫妮",
@@ -328,6 +352,14 @@
       "word": "靳东白玉兰视帝",
       "onboard_time": 1751036009,
       "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 554489,
+      "num": 554489,
+      "word": "果然是第一次接吻还不会翻面",
+      "onboard_time": 1751106801,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -571,6 +603,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 322829,
+      "num": 322829,
+      "word": "贵州榕江已撤离转移41574人",
+      "onboard_time": 1751107402,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 320957,
       "num": 320957,
       "word": "特朗普称考虑再轰炸伊朗",
@@ -651,20 +691,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 283178,
+      "num": 283178,
+      "word": "被传身亡伊朗高官现身国葬",
+      "onboard_time": 1751108481,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 281467,
       "num": 281467,
       "word": "多方回应美国多州报告火球从天而降",
       "onboard_time": 1751065278,
       "rank": 15,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 274103,
-      "num": 274103,
-      "word": "周翊然发了和张婧仪合照",
-      "onboard_time": 1751105182,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 273030,
@@ -737,6 +777,14 @@
       "onboard_time": 1751067558,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 249388,
+      "num": 184763,
+      "word": "金曲奖",
+      "onboard_time": 1751107461,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 249382,
@@ -867,6 +915,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 217506,
+      "num": 181754,
+      "word": "去过河南的人嘴真严啊",
+      "onboard_time": 1751108782,
+      "rank": 25,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 216623,
       "num": 216623,
       "word": "诡秘之主伦纳德出场颜值秒了",
@@ -905,6 +961,14 @@
       "onboard_time": 1751068218,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213382,
+      "num": 180166,
+      "word": "欧阳娜娜坐扭扭车走红毯",
+      "onboard_time": 1751108121,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 212853,
@@ -968,6 +1032,14 @@
       "word": "宋雨琦好美",
       "onboard_time": 1751095821,
       "rank": 25,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 202206,
+      "num": 179087,
+      "word": "王嘉尔压轴",
+      "onboard_time": 1751108962,
+      "rank": 28,
       "category": "艺人,时尚"
     },
     {
@@ -1091,20 +1163,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 193531,
-      "num": 193531,
-      "word": "果然是第一次接吻还不会翻面",
-      "onboard_time": 1751106801,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 191118,
       "num": 191118,
       "word": "我以为天亮了结果天塌了",
       "onboard_time": 1751102602,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191082,
+      "num": 178237,
+      "word": "檀健次芭莎芭莎红毯",
+      "onboard_time": 1751109022,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 190675,
@@ -1121,6 +1193,14 @@
       "onboard_time": 1751095942,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189665,
+      "num": 189665,
+      "word": "Hero发育路轮换",
+      "onboard_time": 1751109202,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 188155,
@@ -1201,6 +1281,14 @@
       "onboard_time": 1751068461,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179130,
+      "num": 342821,
+      "word": "警方已介入殡仪馆深夜点外卖事件",
+      "onboard_time": 1751106743,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179115,
@@ -1313,6 +1401,14 @@
       "onboard_time": 1751023342,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168931,
+      "num": 168931,
+      "word": "30岁6年存了60万",
+      "onboard_time": 1751107641,
+      "rank": 34,
+      "category": "幽默,休闲"
     },
     {
       "raw_hot": 168923,
@@ -1499,14 +1595,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 153850,
-      "num": 153850,
-      "word": "三兄弟一死一退一存疑",
-      "onboard_time": 1751106982,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 153761,
       "num": 153761,
       "word": "张雪峰说大多文科不考公就是销售",
@@ -1643,12 +1731,28 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 144246,
+      "num": 144246,
+      "word": "吴彤在朋友圈给王牌摇剧组",
+      "onboard_time": 1751107283,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143581,
       "num": 149432,
       "word": "关注贵州榕江强降雨",
       "onboard_time": 1751088441,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143125,
+      "num": 143125,
+      "word": "从猫咖帮一只布偶赎身之后",
+      "onboard_time": 1751107822,
+      "rank": 38,
+      "category": "幽默,休闲"
     },
     {
       "raw_hot": 142795,
@@ -1715,12 +1819,28 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 139610,
+      "num": 139610,
+      "word": "章昊撕拉片",
+      "onboard_time": 1751109560,
+      "rank": 39,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 136707,
       "num": 136707,
       "word": "榕江",
       "onboard_time": 1751104822,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136577,
+      "num": 136577,
+      "word": "李一桐书卷一梦主舞门面",
+      "onboard_time": 1751108602,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 136422,
@@ -1763,12 +1883,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 135043,
-      "num": 135043,
-      "word": "吴彤在朋友圈给王牌摇剧组",
-      "onboard_time": 1751107283,
-      "rank": 47,
-      "category": "综艺"
+      "raw_hot": 134749,
+      "num": 134749,
+      "word": "宋茜和Labubu击掌",
+      "onboard_time": 1751109081,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 134248,
@@ -1955,6 +2075,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 123775,
+      "num": 123775,
+      "word": "伊朗发布导弹齐射摧毁以色列视频",
+      "onboard_time": 1751108842,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 123221,
       "num": 123221,
       "word": "一个继承大统一个继承饭桶",
@@ -2041,6 +2169,14 @@
       "onboard_time": 1751099301,
       "rank": 45,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 118632,
+      "num": 118632,
+      "word": "他chua她哇我啊啊啊",
+      "onboard_time": 1751108661,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 118522,
@@ -2180,7 +2316,7 @@
     },
     {
       "raw_hot": 109999,
-      "num": 109999,
+      "num": 115172,
       "word": "孙颖莎说大满贯见",
       "onboard_time": 1751103742,
       "rank": 48,
@@ -2339,14 +2475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 91330,
-      "num": 342821,
-      "word": "警方已介入殡仪馆深夜点外卖事件",
-      "onboard_time": 1751106743,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 89534,
       "num": 89534,
       "word": "MSI",
@@ -2409,6 +2537,14 @@
       "onboard_time": 1751086222,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 78080,
+      "num": 114670,
+      "word": "清补凉",
+      "onboard_time": 1751109322,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 77595,
@@ -2507,12 +2643,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 62652,
-      "num": 155333,
-      "word": "贵州榕江已撤离转移41574人",
-      "onboard_time": 1751107402,
-      "rank": 34,
-      "category": "民生新闻"
+      "raw_hot": 62081,
+      "num": 479101,
+      "word": "村民自发做2000份饭支援抗洪前线",
+      "onboard_time": 1751108481,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 60514,
@@ -2919,6 +3055,14 @@
       "num": 200762,
       "word": "一斤巴奴毛肚可买一斤帝王蟹",
       "onboard_time": 1751095882,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23177,
+      "num": 178771,
+      "word": "榕江养殖户被冲走的百余猪已找回61头",
+      "onboard_time": 1751108481,
       "rank": 29,
       "category": "民生新闻"
     },

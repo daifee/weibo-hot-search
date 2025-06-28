@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1751107420948,
+  "endTime": 1751109677049,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -1571,6 +1571,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 863704,
+      "num": 1138192,
+      "word": "鹿晗回春",
+      "onboard_time": 1751102421,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 863469,
       "num": 497336,
       "word": "杨紫白玉兰感言",
@@ -1585,14 +1593,6 @@
       "onboard_time": 1750837703,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 862169,
-      "num": 862169,
-      "word": "鹿晗回春",
-      "onboard_time": 1751102421,
-      "rank": 21,
-      "category": "演出"
     },
     {
       "raw_hot": 861101,
@@ -2268,7 +2268,7 @@
     },
     {
       "raw_hot": 699044,
-      "num": 359519,
+      "num": 477288,
       "word": "刘亦菲",
       "onboard_time": 1751102182,
       "rank": 22,
@@ -2529,6 +2529,14 @@
       "onboard_time": 1750515085,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 662904,
+      "num": 478855,
+      "word": "生理性喜欢是很恐怖的一件事",
+      "onboard_time": 1751107701,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 662692,
@@ -3051,6 +3059,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 574826,
+      "num": 497779,
+      "word": "周翊然发了和张婧仪合照",
+      "onboard_time": 1751105182,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 572031,
       "num": 526717,
       "word": "岚图高管称小米像网红奶茶",
@@ -3089,6 +3105,14 @@
       "onboard_time": 1750765460,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 566560,
+      "num": 566560,
+      "word": "三兄弟一死一退一存疑",
+      "onboard_time": 1751106982,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 565867,
@@ -3217,6 +3241,14 @@
       "onboard_time": 1750904482,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 554489,
+      "num": 554489,
+      "word": "果然是第一次接吻还不会翻面",
+      "onboard_time": 1751106801,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 553014,
@@ -6155,6 +6187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 322829,
+      "num": 322829,
+      "word": "贵州榕江已撤离转移41574人",
+      "onboard_time": 1751107402,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 322720,
       "num": 308941,
       "word": "表决通过新修订的治安管理处罚法",
@@ -6867,6 +6907,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 283178,
+      "num": 283178,
+      "word": "被传身亡伊朗高官现身国葬",
+      "onboard_time": 1751108481,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 283093,
       "num": 283093,
       "word": "救助百名弃婴的道禄被传涉案",
@@ -7057,14 +7105,6 @@
       "onboard_time": 1750558762,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 274103,
-      "num": 274103,
-      "word": "周翊然发了和张婧仪合照",
-      "onboard_time": 1751105182,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 273828,
@@ -7689,6 +7729,14 @@
       "onboard_time": 1750605263,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 249388,
+      "num": 184763,
+      "word": "金曲奖",
+      "onboard_time": 1751107461,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 249386,
@@ -8739,6 +8787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217506,
+      "num": 181754,
+      "word": "去过河南的人嘴真严啊",
+      "onboard_time": 1751108782,
+      "rank": 25,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 217391,
       "num": 260401,
       "word": "刘宇宁下点毒全炫自己嘴里了",
@@ -8977,6 +9033,14 @@
       "onboard_time": 1751068218,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213382,
+      "num": 180166,
+      "word": "欧阳娜娜坐扭扭车走红毯",
+      "onboard_time": 1751108121,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 213227,
@@ -9681,6 +9745,14 @@
       "onboard_time": 1750670843,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202206,
+      "num": 179087,
+      "word": "王嘉尔压轴",
+      "onboard_time": 1751108962,
+      "rank": 28,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 202038,
@@ -10619,14 +10691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 193531,
-      "num": 193531,
-      "word": "果然是第一次接吻还不会翻面",
-      "onboard_time": 1751106801,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 193493,
       "num": 193493,
       "word": "王俊凯 幸运咖见面会",
@@ -10827,6 +10891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191082,
+      "num": 178237,
+      "word": "檀健次芭莎芭莎红毯",
+      "onboard_time": 1751109022,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 190849,
       "num": 190849,
       "word": "高海宁把玫瑰穿在了身上",
@@ -10921,6 +10993,14 @@
       "onboard_time": 1751095942,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189665,
+      "num": 189665,
+      "word": "Hero发育路轮换",
+      "onboard_time": 1751109202,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 189526,
@@ -11681,6 +11761,14 @@
       "onboard_time": 1750904840,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 179130,
+      "num": 342821,
+      "word": "警方已介入殡仪馆深夜点外卖事件",
+      "onboard_time": 1751106743,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179115,
@@ -12449,6 +12537,14 @@
       "onboard_time": 1751019802,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168931,
+      "num": 168931,
+      "word": "30岁6年存了60万",
+      "onboard_time": 1751107641,
+      "rank": 34,
+      "category": "幽默,休闲"
     },
     {
       "raw_hot": 168923,
@@ -13827,14 +13923,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 153850,
-      "num": 153850,
-      "word": "三兄弟一死一退一存疑",
-      "onboard_time": 1751106982,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 153761,
       "num": 153761,
       "word": "张雪峰说大多文科不考公就是销售",
@@ -14867,6 +14955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144246,
+      "num": 144246,
+      "word": "吴彤在朋友圈给王牌摇剧组",
+      "onboard_time": 1751107283,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144177,
       "num": 162914,
       "word": "衣服不干裤子不干 我也不干了",
@@ -14985,6 +15081,14 @@
       "onboard_time": 1750749021,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143125,
+      "num": 143125,
+      "word": "从猫咖帮一只布偶赎身之后",
+      "onboard_time": 1751107822,
+      "rank": 38,
+      "category": "幽默,休闲"
     },
     {
       "raw_hot": 143119,
@@ -15411,6 +15515,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 139610,
+      "num": 139610,
+      "word": "章昊撕拉片",
+      "onboard_time": 1751109560,
+      "rank": 39,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 139535,
       "num": 139535,
       "word": "王嘉尔竟然和pharrell联名了",
@@ -15739,6 +15851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136577,
+      "num": 136577,
+      "word": "李一桐书卷一梦主舞门面",
+      "onboard_time": 1751108602,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136512,
       "num": 136512,
       "word": "好消息男主动心了坏消息是杀心",
@@ -15907,14 +16027,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 135043,
-      "num": 135043,
-      "word": "吴彤在朋友圈给王牌摇剧组",
-      "onboard_time": 1751107283,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 134990,
       "num": 134990,
       "word": "歌手",
@@ -15929,6 +16041,14 @@
       "onboard_time": 1750603103,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 134749,
+      "num": 134749,
+      "word": "宋茜和Labubu击掌",
+      "onboard_time": 1751109081,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 134590,
@@ -17235,6 +17355,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 123775,
+      "num": 123775,
+      "word": "伊朗发布导弹齐射摧毁以色列视频",
+      "onboard_time": 1751108842,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 123747,
       "num": 123747,
       "word": "清远地震暂无人员伤亡报告",
@@ -17753,6 +17881,14 @@
       "onboard_time": 1751099301,
       "rank": 45,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 118632,
+      "num": 118632,
+      "word": "他chua她哇我啊啊啊",
+      "onboard_time": 1751108661,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 118534,
@@ -18620,7 +18756,7 @@
     },
     {
       "raw_hot": 109999,
-      "num": 109999,
+      "num": 115172,
       "word": "孙颖莎说大满贯见",
       "onboard_time": 1751103742,
       "rank": 48,
@@ -20003,14 +20139,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 91330,
-      "num": 342821,
-      "word": "警方已介入殡仪馆深夜点外卖事件",
-      "onboard_time": 1751106743,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 91036,
       "num": 91036,
       "word": "以媒爆两架B2轰炸机从美国飞往关岛",
@@ -20633,6 +20761,14 @@
       "onboard_time": 1750856603,
       "rank": 40,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 78080,
+      "num": 114670,
+      "word": "清补凉",
+      "onboard_time": 1751109322,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 78050,
@@ -21499,14 +21635,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 62652,
-      "num": 155333,
-      "word": "贵州榕江已撤离转移41574人",
-      "onboard_time": 1751107402,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 62586,
       "num": 76464,
       "word": "苗得雨任外交部副部长",
@@ -21529,6 +21657,14 @@
       "onboard_time": 1750661485,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 62081,
+      "num": 479101,
+      "word": "村民自发做2000份饭支援抗洪前线",
+      "onboard_time": 1751108481,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 62000,
@@ -24201,6 +24337,14 @@
       "onboard_time": 1750704675,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23177,
+      "num": 178771,
+      "word": "榕江养殖户被冲走的百余猪已找回61头",
+      "onboard_time": 1751108481,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23132,
