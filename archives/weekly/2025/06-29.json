@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751142438364,
+  "endTime": 1751143277739,
   "band_list": [
     {
       "raw_hot": 1477036,
@@ -547,8 +547,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 20661,
-      "num": 20661,
+      "raw_hot": 22643,
+      "num": 22643,
       "word": "找回丢了26天的手机",
       "onboard_time": 1751140394,
       "rank": 26,
@@ -564,7 +564,7 @@
     },
     {
       "raw_hot": 15559,
-      "num": 18907,
+      "num": 20464,
       "word": "张晚意综艺感",
       "onboard_time": 1751140994,
       "rank": 39,
@@ -572,7 +572,7 @@
     },
     {
       "raw_hot": 15426,
-      "num": 18901,
+      "num": 20461,
       "word": "李由音怪物新人",
       "onboard_time": 1751139554,
       "rank": 41,
@@ -588,11 +588,27 @@
     },
     {
       "raw_hot": 14204,
-      "num": 18887,
+      "num": 20457,
       "word": "苏超给村超加油",
       "onboard_time": 1751136076,
       "rank": 46,
       "category": "民生新闻,体育"
+    },
+    {
+      "raw_hot": 13442,
+      "num": 20457,
+      "word": "王楚然路透",
+      "onboard_time": 1751142854,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 13321,
+      "num": 20455,
+      "word": "金建希出院",
+      "onboard_time": 1751143215,
+      "rank": 48,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
