@@ -1,6 +1,6 @@
 {
   "startTime": 1751041984881,
-  "endTime": 1751100327482,
+  "endTime": 1751102904334,
   "band_list": [
     {
       "raw_hot": 4618253,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1438016,
-      "num": 577894,
+      "num": 762989,
       "word": "迪丽热巴90花唯一的视后",
       "onboard_time": 1751094260,
       "rank": 3,
@@ -49,6 +49,14 @@
       "onboard_time": 1751069782,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1296929,
+      "num": 1296929,
+      "word": "低精力人群 炎症",
+      "onboard_time": 1751093541,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 1255256,
@@ -65,14 +73,6 @@
       "onboard_time": 1751037269,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1184025,
-      "num": 387402,
-      "word": "低精力人群 炎症",
-      "onboard_time": 1751093541,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 1183885,
@@ -177,6 +177,22 @@
       "onboard_time": 1751038526,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 783954,
+      "num": 783954,
+      "word": "Labubu发夹",
+      "onboard_time": 1751099602,
+      "rank": 46,
+      "category": "休闲,动漫"
+    },
+    {
+      "raw_hot": 761351,
+      "num": 761351,
+      "word": "王俊凯送王源演唱会花篮",
+      "onboard_time": 1751099782,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 752383,
@@ -339,6 +355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 500212,
+      "num": 349845,
+      "word": "韩安冉每月给父亲开6000工资",
+      "onboard_time": 1751100741,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 491447,
       "num": 322459,
       "word": "蔡澜去世",
@@ -353,6 +377,14 @@
       "onboard_time": 1751094621,
       "rank": 21,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 460750,
+      "num": 460750,
+      "word": "金智秀怎么美成这样",
+      "onboard_time": 1751100082,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 455137,
@@ -571,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 285980,
+      "num": 285980,
+      "word": "印度已婚男与远房亲戚恋爱双双跳崖",
+      "onboard_time": 1751101461,
+      "rank": 17,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 281467,
       "num": 281467,
       "word": "多方回应美国多州报告火球从天而降",
@@ -667,6 +707,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 240332,
+      "num": 240332,
+      "word": "刘亦菲",
+      "onboard_time": 1751102182,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240220,
       "num": 230578,
       "word": "双胞胎高考638分630分父亲要戒酒",
@@ -715,14 +763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 223353,
-      "num": 223353,
-      "word": "王俊凯送王源演唱会花篮",
-      "onboard_time": 1751099782,
-      "rank": 20,
-      "category": "演出"
-    },
-    {
       "raw_hot": 222231,
       "num": 222231,
       "word": "李一桐内娱第一个举报型女主",
@@ -737,6 +777,14 @@
       "onboard_time": 1751036429,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 219229,
+      "num": 219229,
+      "word": "田曦薇云朵伞",
+      "onboard_time": 1751100802,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 216466,
@@ -769,6 +817,14 @@
       "onboard_time": 1751068218,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 212853,
+      "num": 212853,
+      "word": "喻言 机械姬",
+      "onboard_time": 1751101461,
+      "rank": 24,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 210865,
@@ -883,6 +939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197795,
+      "num": 255887,
+      "word": "老人与儿子吵架后刺伤儿媳获刑3年",
+      "onboard_time": 1751101280,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 196133,
       "num": 189534,
       "word": "昔日中国好声音冠军因忘词被质疑",
@@ -929,6 +993,14 @@
       "onboard_time": 1751095942,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188155,
+      "num": 188155,
+      "word": "白玉兰最佳cp",
+      "onboard_time": 1751100501,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 187640,
@@ -1027,6 +1099,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 176315,
+      "num": 176315,
+      "word": "芭莎之夜出图",
+      "onboard_time": 1751090841,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 175860,
       "num": 175860,
       "word": "李昀锐撕名牌三个摄像接力追",
@@ -1059,20 +1139,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 173453,
+      "num": 173453,
+      "word": "孟子义兔子面具戴出狐狸感",
+      "onboard_time": 1751102481,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173001,
       "num": 173001,
       "word": "刘绍勇被查",
       "onboard_time": 1751083642,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 170767,
-      "num": 170767,
-      "word": "芭莎之夜出图",
-      "onboard_time": 1751090841,
-      "rank": 43,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 169701,
@@ -1145,6 +1225,14 @@
       "onboard_time": 1751085682,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 163912,
+      "num": 163912,
+      "word": "这就是拒绝过JYP和SM的实力吗",
+      "onboard_time": 1751101221,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 163757,
@@ -1291,6 +1379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152791,
+      "num": 152791,
+      "word": "我以为天亮了结果天塌了",
+      "onboard_time": 1751102602,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152769,
       "num": 152769,
       "word": "小米YU7订单被黄牛高价倒卖",
@@ -1403,6 +1499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141832,
+      "num": 141832,
+      "word": "王玉雯眼下痣蛊到我了",
+      "onboard_time": 1751101581,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 141700,
       "num": 300812,
       "word": "酱园弄悬案十八相送正片片段",
@@ -1489,14 +1593,6 @@
       "onboard_time": 1751091501,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 133615,
-      "num": 133615,
-      "word": "金智秀怎么美成这样",
-      "onboard_time": 1751100082,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 133520,
@@ -1603,6 +1699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127334,
+      "num": 127334,
+      "word": "宋亚轩芭莎之夜造型",
+      "onboard_time": 1751102781,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 127018,
       "num": 127018,
       "word": "TVB实力演员来白玉兰团建了",
@@ -1625,6 +1729,14 @@
       "onboard_time": 1751066838,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124369,
+      "num": 124369,
+      "word": "一天三份工15个月赚20万",
+      "onboard_time": 1751100322,
+      "rank": 43,
+      "category": "休闲"
     },
     {
       "raw_hot": 124226,
@@ -1675,14 +1787,6 @@
       "category": "母婴育儿,民生新闻"
     },
     {
-      "raw_hot": 120745,
-      "num": 120745,
-      "word": "Labubu发夹",
-      "onboard_time": 1751099602,
-      "rank": 46,
-      "category": "休闲,动漫"
-    },
-    {
       "raw_hot": 120173,
       "num": 244668,
       "word": "地铁乘车是否执行充电宝新规",
@@ -1715,6 +1819,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 119080,
+      "num": 119080,
+      "word": "鸟巢回应禁带标语并非针对河北",
+      "onboard_time": 1751102361,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118687,
       "num": 118687,
       "word": "柯南",
@@ -1729,6 +1841,14 @@
       "onboard_time": 1751097801,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117662,
+      "num": 117662,
+      "word": "微笑合影的王楚钦",
+      "onboard_time": 1751101402,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 117502,
@@ -1763,12 +1883,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 114196,
+      "num": 114196,
+      "word": "贵州榕江挨家挨户喊话撤离",
+      "onboard_time": 1751101280,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113878,
       "num": 113878,
       "word": "飞天奖",
       "onboard_time": 1751068760,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113856,
+      "num": 113856,
+      "word": "9岁女童火车站被人带走抚养37年",
+      "onboard_time": 1751102841,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113252,
@@ -1785,6 +1921,22 @@
       "onboard_time": 1751097682,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 112416,
+      "num": 112416,
+      "word": "王一博传统攀岩",
+      "onboard_time": 1751101581,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 112271,
+      "num": 112271,
+      "word": "喜综拿白玉兰的含金量",
+      "onboard_time": 1751102841,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 111411,
@@ -2227,6 +2379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42312,
+      "num": 183418,
+      "word": "游客称到东北避暑差点中暑",
+      "onboard_time": 1751101280,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42037,
       "num": 139475,
       "word": "原来土豆还有这种技能",
@@ -2240,6 +2400,14 @@
       "word": "女子举报前公婆涉贪事件谁在说谎",
       "onboard_time": 1751040864,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40657,
+      "num": 349086,
+      "word": "120秒还原悬空货车司机救援全程",
+      "onboard_time": 1751102481,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -2273,6 +2441,14 @@
       "onboard_time": 1751083342,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38973,
+      "num": 260833,
+      "word": "盘点Dior男装秀精彩瞬间",
+      "onboard_time": 1751101943,
+      "rank": 18,
+      "category": "时尚"
     },
     {
       "raw_hot": 37571,
@@ -2435,6 +2611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24641,
+      "num": 768106,
+      "word": "6组数据看我国中小企业发展成就",
+      "onboard_time": 1751102002,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22214,
       "num": 26960,
       "word": "单依纯确认唱思念是一种病",
@@ -2567,6 +2751,9 @@
     },
     {
       "word": "#习近平签署国家主席令#"
+    },
+    {
+      "word": "#总书记讲述的这个故事意蕴深长#"
     }
   ]
 }
