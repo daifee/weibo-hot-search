@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751145824631,
+  "endTime": 1751146787916,
   "band_list": [
     {
       "raw_hot": 1477036,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 115038,
-      "num": 72074,
+      "num": 72333,
       "word": "李兰迪刮彩票以为中了7万",
       "onboard_time": 1751135475,
       "rank": 28,
@@ -539,20 +539,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 25329,
+      "num": 25329,
+      "word": "张晚意综艺感",
+      "onboard_time": 1751140994,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 24151,
+      "num": 24151,
+      "word": "找回丢了26天的手机",
+      "onboard_time": 1751140394,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23754,
       "num": 28476,
       "word": "在汪苏泷的罗曼城淋过雨都发财",
       "onboard_time": 1751137395,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 23502,
-      "num": 23502,
-      "word": "找回丢了26天的手机",
-      "onboard_time": 1751140394,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20238,
@@ -563,12 +571,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 16370,
-      "num": 20464,
-      "word": "张晚意综艺感",
-      "onboard_time": 1751140994,
-      "rank": 39,
-      "category": "综艺"
+      "raw_hot": 15790,
+      "num": 21495,
+      "word": "金建希出院",
+      "onboard_time": 1751143215,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 15426,
@@ -588,7 +596,7 @@
     },
     {
       "raw_hot": 14489,
-      "num": 18481,
+      "num": 21473,
       "word": "工人回应抽化粪池发现3把砍刀",
       "onboard_time": 1751145614,
       "rank": 40,
@@ -612,19 +620,19 @@
     },
     {
       "raw_hot": 13903,
-      "num": 20457,
+      "num": 21451,
       "word": "王楚然路透",
       "onboard_time": 1751142854,
       "rank": 46,
       "category": "剧集"
     },
     {
-      "raw_hot": 13335,
-      "num": 20455,
-      "word": "金建希出院",
-      "onboard_time": 1751143215,
-      "rank": 48,
-      "category": "国际时政"
+      "raw_hot": 12818,
+      "num": 21446,
+      "word": "小苏超决赛雨中演出太惊艳了",
+      "onboard_time": 1751146575,
+      "rank": 49,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
