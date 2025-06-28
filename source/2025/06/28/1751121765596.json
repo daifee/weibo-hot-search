@@ -1,0 +1,410 @@
+{
+  "runTime": 1751121765596,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1613132,
+        "num": 1613132,
+        "word": "方大同 金曲奖",
+        "onboard_time": 1751118563,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 623364,
+        "num": 623364,
+        "word": "清华硕士靠文眉月入3万被母亲反对",
+        "onboard_time": 1751112621,
+        "rank": 1,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 63859,
+        "num": 424118,
+        "word": "紧急追加1亿元支持贵州灾后恢复",
+        "onboard_time": 1751119885,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1718511,
+        "num": 402116,
+        "word": "王源送车",
+        "onboard_time": 1751114362,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 343192,
+        "num": 343192,
+        "word": "孙颖莎发文大满贯见",
+        "onboard_time": 1751111662,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 408764,
+        "num": 330844,
+        "word": "低精力人群 炎症",
+        "onboard_time": 1751093541,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 769908,
+        "num": 323152,
+        "word": "杨紫已经三次陪跑白玉兰",
+        "onboard_time": 1751117902,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 555587,
+        "num": 318393,
+        "word": "王玉雯田曦薇合照",
+        "onboard_time": 1751119344,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 288298,
+        "num": 288298,
+        "word": "贵州榕江拉响全城警报",
+        "onboard_time": 1751091143,
+        "rank": 8,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 255549,
+        "num": 255549,
+        "word": "废旧手机的含金量有多高",
+        "onboard_time": 1751120664,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3374281,
+        "num": 254995,
+        "word": "关晓彤 鹿晗",
+        "onboard_time": 1751119105,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 785768,
+        "num": 252971,
+        "word": "月入一万已经能生活得非常好了",
+        "onboard_time": 1751109861,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 570513,
+        "num": 249541,
+        "word": "生理性喜欢是很恐怖的一件事",
+        "onboard_time": 1751107701,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 532955,
+        "num": 247565,
+        "word": "邓紫棋现身孙颖莎评论区",
+        "onboard_time": 1751119164,
+        "rank": 13,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 425543,
+        "num": 244788,
+        "word": "金曲奖",
+        "onboard_time": 1751107461,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1652174,
+        "num": 244083,
+        "word": "关晓彤回应粉丝",
+        "onboard_time": 1751120184,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402026,
+        "num": 242117,
+        "word": "宋佳恭喜1米73大美女",
+        "onboard_time": 1751111902,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260188,
+        "num": 239652,
+        "word": "成何体统",
+        "onboard_time": 1751114182,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237711,
+        "num": 237711,
+        "word": "国产大模型企业1年研发投入超百亿",
+        "onboard_time": 1751120964,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205128,
+        "num": 205128,
+        "word": "女子与网红男主播非婚生女称要送养",
+        "onboard_time": 1751117782,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 662295,
+        "num": 202998,
+        "word": "鹿晗回春",
+        "onboard_time": 1751102421,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 294923,
+        "num": 200316,
+        "word": "谁给李一桐做的造型",
+        "onboard_time": 1751118563,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 226003,
+        "num": 200213,
+        "word": "书卷一梦太癫了",
+        "onboard_time": 1751113703,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195961,
+        "num": 195961,
+        "word": "张本智和跪地庆祝胜利",
+        "onboard_time": 1751112922,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40541,
+        "num": 192475,
+        "word": "苏超连云港1比0先发制人",
+        "onboard_time": 1751120724,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206288,
+        "num": 192288,
+        "word": "时代少年团国民男团",
+        "onboard_time": 1751120365,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 197723,
+        "num": 192175,
+        "word": "王栎鑫演唱会",
+        "onboard_time": 1751120904,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192058,
+        "num": 192058,
+        "word": "檀健次王嘉尔芭莎之夜热聊",
+        "onboard_time": 1751120844,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187098,
+        "num": 187098,
+        "word": "鹭卓演唱会突然肚子痛",
+        "onboard_time": 1751119404,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 186952,
+        "num": 186952,
+        "word": "被传身亡伊朗高官现身国葬",
+        "onboard_time": 1751108481,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 185668,
+        "num": 185668,
+        "word": "许嵩腰封造型有点野",
+        "onboard_time": 1751121385,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 180548,
+        "num": 185456,
+        "word": "以法之名破10000",
+        "onboard_time": 1751120485,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185392,
+        "num": 185392,
+        "word": "周深都乱成一锅粥了不如喝点吧",
+        "onboard_time": 1751121085,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 185174,
+        "num": 185174,
+        "word": "冰红茶也是升咖了",
+        "onboard_time": 1751111002,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177208,
+        "num": 177208,
+        "word": "吴宣仪演唱会",
+        "onboard_time": 1751113943,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163763,
+        "num": 163763,
+        "word": "华晨宇 你瞅啥",
+        "onboard_time": 1751121505,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 162005,
+        "num": 162005,
+        "word": "金曲奖直播",
+        "onboard_time": 1751115802,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 9421,
+        "num": 149464,
+        "word": "安检台成充电宝收容所",
+        "onboard_time": 1751121684,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140056,
+        "num": 140056,
+        "word": "2015年九三阅兵再看依旧震撼",
+        "onboard_time": 1751117003,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 137444,
+        "num": 137444,
+        "word": "月入4000一家四口的真实生活",
+        "onboard_time": 1751111543,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160725,
+        "num": 137310,
+        "word": "你好星期六下期是乘风姐姐团建",
+        "onboard_time": 1751117902,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156442,
+        "num": 136790,
+        "word": "陈小春一直在超越陈小春",
+        "onboard_time": 1751121085,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138610,
+        "num": 135994,
+        "word": "宋茜Amber同框",
+        "onboard_time": 1751121684,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123670,
+        "num": 135562,
+        "word": "苏超盐哥登顶榜首",
+        "onboard_time": 1751120485,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135409,
+        "num": 135409,
+        "word": "伯克利热巴分巴质疑浙音第一",
+        "onboard_time": 1751114603,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131045,
+        "num": 131045,
+        "word": "房东的猫白金刺绣高定",
+        "onboard_time": 1751120485,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131036,
+        "num": 131036,
+        "word": "萧亚轩痛哭讲述母亲生前不易",
+        "onboard_time": 1751117422,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130802,
+        "num": 130802,
+        "word": "贵州榕江恳请暂缓自行前往救灾现场",
+        "onboard_time": 1751118083,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125373,
+        "num": 125373,
+        "word": "TES不打第四局",
+        "onboard_time": 1751121025,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122610,
+        "num": 122610,
+        "word": "Labubu发夹",
+        "onboard_time": 1751099602,
+        "rank": 49,
+        "category": "休闲,动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记讲述的这个故事意蕴深长#"
+    }
+  }
+}

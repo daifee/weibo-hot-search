@@ -1,6 +1,6 @@
 {
   "startTime": 1751041984881,
-  "endTime": 1751120560153,
+  "endTime": 1751121765596,
   "band_list": [
     {
       "raw_hot": 4618253,
@@ -11,7 +11,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 3080198,
+      "raw_hot": 3374281,
       "num": 285506,
       "word": "关晓彤 鹿晗",
       "onboard_time": 1751119105,
@@ -49,6 +49,22 @@
       "onboard_time": 1751074403,
       "rank": 3,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1652174,
+      "num": 257745,
+      "word": "关晓彤回应粉丝",
+      "onboard_time": 1751120184,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1613132,
+      "num": 1613132,
+      "word": "方大同 金曲奖",
+      "onboard_time": 1751118563,
+      "rank": 0,
+      "category": "音乐"
     },
     {
       "raw_hot": 1438016,
@@ -129,14 +145,6 @@
       "onboard_time": 1751037031,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1151190,
-      "num": 1184190,
-      "word": "方大同 金曲奖",
-      "onboard_time": 1751118563,
-      "rank": 0,
-      "category": "音乐"
     },
     {
       "raw_hot": 1073174,
@@ -435,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 555587,
+      "num": 318393,
+      "word": "王玉雯田曦薇合照",
+      "onboard_time": 1751119344,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 541589,
       "num": 541589,
       "word": "卢昱晓礼服下面是拖鞋",
@@ -475,20 +491,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 532955,
+      "num": 259684,
+      "word": "邓紫棋现身孙颖莎评论区",
+      "onboard_time": 1751119164,
+      "rank": 15,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 526717,
       "num": 280312,
       "word": "蒋欣回应早该拿奖了",
       "onboard_time": 1751040804,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 509734,
-      "num": 265505,
-      "word": "王玉雯田曦薇合照",
-      "onboard_time": 1751119344,
-      "rank": 14,
-      "category": "演出"
     },
     {
       "raw_hot": 505079,
@@ -569,14 +585,6 @@
       "onboard_time": 1751081182,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 438440,
-      "num": 259684,
-      "word": "邓紫棋现身孙颖莎评论区",
-      "onboard_time": 1751119164,
-      "rank": 15,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 437928,
@@ -827,12 +835,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 294813,
-      "num": 257745,
-      "word": "关晓彤回应粉丝",
-      "onboard_time": 1751120184,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 294923,
+      "num": 236967,
+      "word": "谁给李一桐做的造型",
+      "onboard_time": 1751118563,
+      "rank": 22,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 294756,
@@ -841,14 +849,6 @@
       "onboard_time": 1751079143,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 292421,
-      "num": 236967,
-      "word": "谁给李一桐做的造型",
-      "onboard_time": 1751118563,
-      "rank": 22,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 291604,
@@ -931,6 +931,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 255549,
+      "num": 255549,
+      "word": "废旧手机的含金量有多高",
+      "onboard_time": 1751120664,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 252523,
       "num": 211022,
       "word": "王安全的弟弟王安宇",
@@ -1001,6 +1009,14 @@
       "onboard_time": 1751082802,
       "rank": 15,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 237711,
+      "num": 237711,
+      "word": "国产大模型企业1年研发投入超百亿",
+      "onboard_time": 1751120964,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 237537,
@@ -1235,6 +1251,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206288,
+      "num": 192288,
+      "word": "时代少年团国民男团",
+      "onboard_time": 1751120365,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 205128,
+      "num": 205128,
+      "word": "女子与网红男主播非婚生女称要送养",
+      "onboard_time": 1751117782,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 204924,
       "num": 204924,
       "word": "宋雨琦好美",
@@ -1331,6 +1363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 197723,
+      "num": 192175,
+      "word": "王栎鑫演唱会",
+      "onboard_time": 1751120904,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 197647,
       "num": 197647,
       "word": "鸟巢回应禁带标语并非针对河北",
@@ -1401,6 +1441,14 @@
       "onboard_time": 1751120485,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192058,
+      "num": 192058,
+      "word": "檀健次王嘉尔芭莎之夜热聊",
+      "onboard_time": 1751120844,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 191118,
@@ -1475,6 +1523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187098,
+      "num": 187098,
+      "word": "鹭卓演唱会突然肚子痛",
+      "onboard_time": 1751119404,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 185922,
       "num": 174959,
       "word": "鹿晗有一种经济上行的美",
@@ -1497,6 +1553,22 @@
       "onboard_time": 1751109560,
       "rank": 39,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 185668,
+      "num": 185668,
+      "word": "许嵩腰封造型有点野",
+      "onboard_time": 1751121385,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 185392,
+      "num": 185392,
+      "word": "周深都乱成一锅粥了不如喝点吧",
+      "onboard_time": 1751121085,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 185104,
@@ -1651,14 +1723,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 172876,
-      "num": 172876,
-      "word": "鹭卓演唱会突然肚子痛",
-      "onboard_time": 1751119404,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
       "raw_hot": 170261,
       "num": 345666,
       "word": "1000多名武警紧急驰援贵州榕江",
@@ -1763,20 +1827,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 165376,
-      "num": 165376,
-      "word": "时代少年团国民男团",
-      "onboard_time": 1751120365,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 165018,
       "num": 165018,
       "word": "皮肤变厚 脚气",
       "onboard_time": 1751085682,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 163763,
+      "num": 163763,
+      "word": "华晨宇 你瞅啥",
+      "onboard_time": 1751121505,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 163757,
@@ -1825,6 +1889,14 @@
       "onboard_time": 1751077522,
       "rank": 33,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 162005,
+      "num": 162005,
+      "word": "金曲奖直播",
+      "onboard_time": 1751115802,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 160178,
@@ -1905,6 +1977,14 @@
       "onboard_time": 1751118083,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156442,
+      "num": 136790,
+      "word": "陈小春一直在超越陈小春",
+      "onboard_time": 1751121085,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 155947,
@@ -2235,6 +2315,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 138610,
+      "num": 135994,
+      "word": "宋茜Amber同框",
+      "onboard_time": 1751121684,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 138393,
       "num": 133569,
       "word": "王源跳双人舞笑场了",
@@ -2273,14 +2361,6 @@
       "onboard_time": 1751104161,
       "rank": 36,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 135653,
-      "num": 135653,
-      "word": "女子与网红男主播非婚生女称要送养",
-      "onboard_time": 1751117782,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 135434,
@@ -2364,7 +2444,7 @@
     },
     {
       "raw_hot": 132407,
-      "num": 132407,
+      "num": 135562,
       "word": "苏超盐哥登顶榜首",
       "onboard_time": 1751120485,
       "rank": 45,
@@ -2411,20 +2491,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131045,
+      "num": 131045,
+      "word": "房东的猫白金刺绣高定",
+      "onboard_time": 1751120485,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 130902,
       "num": 130902,
       "word": "蝉尿",
       "onboard_time": 1751085562,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 130800,
-      "num": 130800,
-      "word": "金曲奖直播",
-      "onboard_time": 1751115802,
-      "rank": 46,
-      "category": "音乐"
     },
     {
       "raw_hot": 130321,
@@ -2531,6 +2611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125373,
+      "num": 125373,
+      "word": "TES不打第四局",
+      "onboard_time": 1751121025,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 125330,
       "num": 125330,
       "word": "房东的猫解锁郭培高定",
@@ -2561,14 +2649,6 @@
       "onboard_time": 1751079684,
       "rank": 37,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 124117,
-      "num": 124117,
-      "word": "房东的猫白金刺绣高定",
-      "onboard_time": 1751120485,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 123775,
@@ -3219,6 +3299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63859,
+      "num": 437878,
+      "word": "紧急追加1亿元支持贵州灾后恢复",
+      "onboard_time": 1751119885,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63206,
       "num": 208891,
       "word": "恋与深空婚卡",
@@ -3459,6 +3547,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 40541,
+      "num": 192475,
+      "word": "苏超连云港1比0先发制人",
+      "onboard_time": 1751120724,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 40497,
       "num": 100890,
       "word": "恋与深空兑换码",
@@ -3488,14 +3584,6 @@
       "word": "多地回应无3C标识充电宝能否上轨交",
       "onboard_time": 1751083342,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 37753,
-      "num": 437878,
-      "word": "紧急追加1亿元支持贵州灾后恢复",
-      "onboard_time": 1751119885,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -3856,6 +3944,14 @@
       "word": "胡锡进对考砸学生的建议",
       "onboard_time": 1751095102,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9421,
+      "num": 149464,
+      "word": "安检台成充电宝收容所",
+      "onboard_time": 1751121684,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
