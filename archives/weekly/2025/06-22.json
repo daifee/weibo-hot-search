@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1751075941127,
+  "endTime": 1751077389082,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -627,6 +627,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 1470557,
+      "num": 1470557,
+      "word": "日本连环杀人犯家中藏9个人头",
+      "onboard_time": 1751074403,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1470325,
       "num": 418702,
       "word": "伊朗给全世界打了个样",
@@ -873,6 +881,14 @@
       "onboard_time": 1750640481,
       "rank": 10,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 1183885,
+      "num": 325160,
+      "word": "关晓彤的头脸已经很小了",
+      "onboard_time": 1751076622,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 1179475,
@@ -1793,14 +1809,6 @@
       "onboard_time": 1750907421,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 777442,
-      "num": 777442,
-      "word": "日本连环杀人犯家中藏9个人头",
-      "onboard_time": 1751074403,
-      "rank": 3,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 776504,
@@ -2892,7 +2900,7 @@
     },
     {
       "raw_hot": 565867,
-      "num": 518944,
+      "num": 523512,
       "word": "关晓彤回忆19岁摘白玉兰瞬间",
       "onboard_time": 1751073564,
       "rank": 6,
@@ -3923,6 +3931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 462370,
+      "num": 462370,
+      "word": "鹿晗就我一个人慢慢变老了吗",
+      "onboard_time": 1751076323,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 461682,
       "num": 461682,
       "word": "杨瀚森一身白西装参加选秀",
@@ -4715,6 +4731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 394933,
+      "num": 394933,
+      "word": "白玉兰神图",
+      "onboard_time": 1751069061,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 394878,
       "num": 555855,
       "word": "侯鸿亮朋友圈晒肖战",
@@ -5033,14 +5057,6 @@
       "onboard_time": 1750663404,
       "rank": 34,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 368414,
-      "num": 311446,
-      "word": "白玉兰神图",
-      "onboard_time": 1751069061,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 367099,
@@ -5979,6 +5995,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 308044,
+      "num": 308044,
+      "word": "大婶上山锄地捡到傻狍子2只变一群",
+      "onboard_time": 1751074463,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 307717,
       "num": 307717,
       "word": "伊朗称已发射大批自杀式无人机",
@@ -6116,7 +6140,7 @@
     },
     {
       "raw_hot": 300922,
-      "num": 176669,
+      "num": 196892,
       "word": "男子连吹3天空调肺白了一半",
       "onboard_time": 1751069421,
       "rank": 21,
@@ -6352,14 +6376,6 @@
       "word": "985博士后在妻子孕期出轨被退站",
       "onboard_time": 1750926142,
       "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 286077,
-      "num": 286077,
-      "word": "大婶上山锄地捡到傻狍子2只变一群",
-      "onboard_time": 1751074463,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -7161,6 +7177,14 @@
       "onboard_time": 1750841543,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 252063,
+      "num": 252063,
+      "word": "鹿晗 真诚",
+      "onboard_time": 1751067558,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 252056,
@@ -8859,6 +8883,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 204590,
+      "num": 204590,
+      "word": "荔枝壳 农药",
+      "onboard_time": 1751075303,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 204563,
       "num": 204563,
       "word": "蔡澜点心",
@@ -9321,14 +9353,6 @@
       "onboard_time": 1750741103,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 199327,
-      "num": 176378,
-      "word": "鹿晗 真诚",
-      "onboard_time": 1751067558,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 199070,
@@ -10283,6 +10307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 188240,
+      "num": 188240,
+      "word": "白玉兰",
+      "onboard_time": 1751068218,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188125,
       "num": 215704,
       "word": "中韩男明星看秀外网生图",
@@ -10849,6 +10881,14 @@
       "onboard_time": 1751019022,
       "rank": 43,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 180286,
+      "num": 180286,
+      "word": "韩路 陈震",
+      "onboard_time": 1751075784,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 180079,
@@ -12089,14 +12129,6 @@
       "onboard_time": 1750667003,
       "rank": 40,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 161884,
-      "num": 161884,
-      "word": "白玉兰",
-      "onboard_time": 1751068218,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 161579,
@@ -13443,6 +13475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 146661,
+      "num": 146661,
+      "word": "诡秘之主今日全球开播",
+      "onboard_time": 1751076564,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 146620,
       "num": 139897,
       "word": "星星人因游客挂Labubu生气跺脚萌翻众人",
@@ -13633,6 +13673,14 @@
       "onboard_time": 1750929802,
       "rank": 41,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 144842,
+      "num": 144842,
+      "word": "小米YU7续航实测结果",
+      "onboard_time": 1751076323,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 144725,
@@ -14169,6 +14217,14 @@
       "onboard_time": 1750574901,
       "rank": 46,
       "category": "网红"
+    },
+    {
+      "raw_hot": 139988,
+      "num": 139988,
+      "word": "一个人进步最快的方式",
+      "onboard_time": 1751072603,
+      "rank": 35,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 139975,
@@ -16051,14 +16107,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 121564,
-      "num": 121564,
-      "word": "一个人进步最快的方式",
-      "onboard_time": 1751072603,
-      "rank": 35,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 121560,
       "num": 152577,
       "word": "李乃文常驻好吗",
@@ -16227,6 +16275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119308,
+      "num": 176784,
+      "word": "官方通报苏超宿迁队售楼部开见面会",
+      "onboard_time": 1751070802,
+      "rank": 20,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 119168,
       "num": 172948,
       "word": "刘令姿演的孟蓁蓁虽坏但实在美丽",
@@ -16345,6 +16401,14 @@
       "onboard_time": 1750837762,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 117403,
+      "num": 117403,
+      "word": "BLG翻盘GAM",
+      "onboard_time": 1751075962,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 117174,
@@ -17035,6 +17099,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 110132,
+      "num": 110132,
+      "word": "金饰克价跌到984元",
+      "onboard_time": 1751075242,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 109898,
       "num": 127412,
       "word": "郑钦文的球拍花木兰的剑",
@@ -17169,6 +17241,14 @@
       "onboard_time": 1750864343,
       "rank": 17,
       "category": "动漫,教育"
+    },
+    {
+      "raw_hot": 108525,
+      "num": 108525,
+      "word": "西贝暑假工 偷拍",
+      "onboard_time": 1751077044,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108480,
@@ -17315,6 +17395,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 106081,
+      "num": 106081,
+      "word": "路温吐槽赵丽颖酱园弄演技",
+      "onboard_time": 1751076863,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 106074,
       "num": 252381,
       "word": "这届必吃榜到底挖到多少神仙小店",
@@ -17337,14 +17425,6 @@
       "onboard_time": 1750923561,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 105649,
-      "num": 105649,
-      "word": "金饰克价跌到984元",
-      "onboard_time": 1751075242,
-      "rank": 42,
-      "category": "财经"
     },
     {
       "raw_hot": 105492,
@@ -17416,14 +17496,6 @@
       "word": "小米YU7发布会预计3小时",
       "onboard_time": 1750935441,
       "rank": 49,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 104560,
-      "num": 104560,
-      "word": "韩路 陈震",
-      "onboard_time": 1751075784,
-      "rank": 43,
       "category": "汽车"
     },
     {
@@ -17617,6 +17689,14 @@
       "onboard_time": 1750928242,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 102125,
+      "num": 102125,
+      "word": "特朗普称放弃解除对伊朗制裁",
+      "onboard_time": 1751074823,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 101981,
@@ -18035,14 +18115,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 97161,
-      "num": 97161,
-      "word": "特朗普称放弃解除对伊朗制裁",
-      "onboard_time": 1751074823,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 97047,
       "num": 97047,
       "word": "Gr对战ACT",
@@ -18331,14 +18403,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 90807,
-      "num": 90807,
-      "word": "荔枝壳 农药",
-      "onboard_time": 1751075303,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 90727,
       "num": 400061,
       "word": "北京拟规定骑乘电动自行车应戴头盔",
@@ -18561,14 +18625,6 @@
       "onboard_time": 1750606822,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 87040,
-      "num": 176784,
-      "word": "官方通报苏超宿迁队售楼部开见面会",
-      "onboard_time": 1751070802,
-      "rank": 20,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 86852,
@@ -18849,6 +18905,14 @@
       "onboard_time": 1750776084,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80356,
+      "num": 137777,
+      "word": "宿迁队售楼部开见面会助教被解聘",
+      "onboard_time": 1751076622,
+      "rank": 33,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 80286,
@@ -21753,6 +21817,14 @@
       "onboard_time": 1750614444,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 29421,
+      "num": 117422,
+      "word": "用100寸电视玩switch2是什么体验",
+      "onboard_time": 1751076083,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 29331,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/28 09:59:01
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/28 10:23:09
 </p>
 </blockquote>
 <p>
@@ -1761,6 +1761,12 @@ TES对战WE（热度：1476923）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%BF%9E%E7%8E%AF%E6%9D%80%E4%BA%BA%E7%8A%AF%E5%AE%B6%E4%B8%AD%E8%97%8F9%E4%B8%AA%E4%BA%BA%E5%A4%B4%23" target="weibo">
+日本连环杀人犯家中藏9个人头（热度：1470557）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%BB%99%E5%85%A8%E4%B8%96%E7%95%8C%E6%89%93%E4%BA%86%E4%B8%AA%E6%A0%B7%23" target="weibo">
 伊朗给全世界打了个样（热度：1470325）
 </a>
@@ -2651,6 +2657,12 @@ afternoon怎么变形（热度：1248150）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2322%E5%B1%8A%E6%B2%A1%E6%83%B9%23" target="weibo">
 22届没惹（热度：1187798）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E7%9A%84%E5%A4%B4%E8%84%B8%E5%B7%B2%E7%BB%8F%E5%BE%88%E5%B0%8F%E4%BA%86%23" target="weibo">
+关晓彤的头脸已经很小了（热度：1183885）
 </a>
 </li>
 
@@ -5457,12 +5469,6 @@ T3司机猥亵大三女生被行拘5日（热度：810171）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%BF%9E%E7%8E%AF%E6%9D%80%E4%BA%BA%E7%8A%AF%E5%AE%B6%E4%B8%AD%E8%97%8F9%E4%B8%AA%E4%BA%BA%E5%A4%B4%23" target="weibo">
-日本连环杀人犯家中藏9个人头（热度：777442）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9BB2%E8%BD%B0%E7%82%B8%E6%9C%BA%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%E6%A0%B8%E8%AE%BE%E6%96%BD%23" target="weibo">
 美军B2轰炸机袭击伊朗核设施（热度：776504）
 </a>
@@ -6005,12 +6011,6 @@ Labubu 审美（热度：729066）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E5%B8%85%E5%AE%87%E5%BD%95%E9%9F%B3%23" target="weibo">
 罗帅宇录音（热度：728635）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BF%B5%E6%B1%9F%E5%8D%97%E5%AE%98%E5%AE%A3%E9%A2%84%E5%91%8A%23" target="weibo">
-一念江南官宣预告（热度：728197）
 </a>
 </li>
 

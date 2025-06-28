@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1751075941127,
+  "endTime": 1751077389082,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -2331,6 +2331,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 1470557,
+      "num": 1470557,
+      "word": "日本连环杀人犯家中藏9个人头",
+      "onboard_time": 1751074403,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1470325,
       "num": 418702,
       "word": "伊朗给全世界打了个样",
@@ -3521,6 +3529,14 @@
       "onboard_time": 1749273202,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1183885,
+      "num": 325160,
+      "word": "关晓彤的头脸已经很小了",
+      "onboard_time": 1751076622,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 1180232,
@@ -7257,14 +7273,6 @@
       "onboard_time": 1749873801,
       "rank": 7,
       "category": "教育,艺人"
-    },
-    {
-      "raw_hot": 777442,
-      "num": 777442,
-      "word": "日本连环杀人犯家中藏9个人头",
-      "onboard_time": 1751074403,
-      "rank": 3,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 776504,
@@ -11588,7 +11596,7 @@
     },
     {
       "raw_hot": 565867,
-      "num": 518944,
+      "num": 523512,
       "word": "关晓彤回忆19岁摘白玉兰瞬间",
       "onboard_time": 1751073564,
       "rank": 6,
@@ -15107,6 +15115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 462370,
+      "num": 462370,
+      "word": "鹿晗就我一个人慢慢变老了吗",
+      "onboard_time": 1751076323,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 461993,
       "num": 333355,
       "word": "原告EXO被告朴成训",
@@ -17915,6 +17931,14 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 394933,
+      "num": 394933,
+      "word": "白玉兰神图",
+      "onboard_time": 1751069061,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 394878,
       "num": 555855,
       "word": "侯鸿亮朋友圈晒肖战",
@@ -19273,14 +19297,6 @@
       "onboard_time": 1749770058,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 368414,
-      "num": 311446,
-      "word": "白玉兰神图",
-      "onboard_time": 1751069061,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 368294,
@@ -23099,6 +23115,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 308044,
+      "num": 308044,
+      "word": "大婶上山锄地捡到傻狍子2只变一群",
+      "onboard_time": 1751074463,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 308015,
       "num": 308015,
       "word": "萨巴伦卡vs斯瓦泰克",
@@ -23660,7 +23684,7 @@
     },
     {
       "raw_hot": 300922,
-      "num": 176669,
+      "num": 196892,
       "word": "男子连吹3天空调肺白了一半",
       "onboard_time": 1751069421,
       "rank": 21,
@@ -24824,14 +24848,6 @@
       "word": "女子坐月子吹空调发烧39度进急诊",
       "onboard_time": 1749267688,
       "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 286077,
-      "num": 286077,
-      "word": "大婶上山锄地捡到傻狍子2只变一群",
-      "onboard_time": 1751074463,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -28241,6 +28257,14 @@
       "onboard_time": 1748748979,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 252063,
+      "num": 252063,
+      "word": "鹿晗 真诚",
+      "onboard_time": 1751067558,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 252056,
@@ -35723,6 +35747,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 204590,
+      "num": 204590,
+      "word": "荔枝壳 农药",
+      "onboard_time": 1751075303,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 204568,
       "num": 204568,
       "word": "王家卫北京故事 杨幂",
@@ -37481,14 +37513,6 @@
       "onboard_time": 1749636803,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 199327,
-      "num": 176378,
-      "word": "鹿晗 真诚",
-      "onboard_time": 1751067558,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 199317,
@@ -41155,6 +41179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188240,
+      "num": 188240,
+      "word": "白玉兰",
+      "onboard_time": 1751068218,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188229,
       "num": 188229,
       "word": "TF家族运动会官宣",
@@ -43761,6 +43793,14 @@
       "onboard_time": 1751019022,
       "rank": 43,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 180286,
+      "num": 180286,
+      "word": "韩路 陈震",
+      "onboard_time": 1751075784,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 180209,
@@ -49779,14 +49819,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 161884,
-      "num": 161884,
-      "word": "白玉兰",
-      "onboard_time": 1751068218,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 161869,
       "num": 397577,
       "word": "顺风车乘客成猎物被卖猪仔",
@@ -55443,6 +55475,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 146661,
+      "num": 146661,
+      "word": "诡秘之主今日全球开播",
+      "onboard_time": 1751076564,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 146637,
       "num": 192444,
       "word": "预计明后天华南沿海风雨最强",
@@ -56313,6 +56353,14 @@
       "onboard_time": 1749186442,
       "rank": 32,
       "category": "音乐,演出"
+    },
+    {
+      "raw_hot": 144842,
+      "num": 144842,
+      "word": "小米YU7续航实测结果",
+      "onboard_time": 1751076323,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 144816,
@@ -58433,6 +58481,14 @@
       "onboard_time": 1749479604,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139988,
+      "num": 139988,
+      "word": "一个人进步最快的方式",
+      "onboard_time": 1751072603,
+      "rank": 35,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 139975,
@@ -66723,14 +66779,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 121564,
-      "num": 121564,
-      "word": "一个人进步最快的方式",
-      "onboard_time": 1751072603,
-      "rank": 35,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 121563,
       "num": 121563,
       "word": "美国一架飞机坠毁多人受伤",
@@ -67635,6 +67683,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 119308,
+      "num": 176784,
+      "word": "官方通报苏超宿迁队售楼部开见面会",
+      "onboard_time": 1751070802,
+      "rank": 20,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 119299,
       "num": 119299,
       "word": "单依纯时尚芭莎演唱嘉宾",
@@ -68305,6 +68361,14 @@
       "onboard_time": 1750243281,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 117403,
+      "num": 117403,
+      "word": "BLG翻盘GAM",
+      "onboard_time": 1751075962,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 117387,
@@ -71379,6 +71443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 110132,
+      "num": 110132,
+      "word": "金饰克价跌到984元",
+      "onboard_time": 1751075242,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 110117,
       "num": 110117,
       "word": "上证指数",
@@ -71969,6 +72041,14 @@
       "onboard_time": 1750088299,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108525,
+      "num": 108525,
+      "word": "西贝暑假工 偷拍",
+      "onboard_time": 1751077044,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108495,
@@ -72715,6 +72795,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 106081,
+      "num": 106081,
+      "word": "路温吐槽赵丽颖酱园弄演技",
+      "onboard_time": 1751076863,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 106074,
       "num": 252381,
       "word": "这届必吃榜到底挖到多少神仙小店",
@@ -72809,14 +72897,6 @@
       "onboard_time": 1749804322,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 105649,
-      "num": 105649,
-      "word": "金饰克价跌到984元",
-      "onboard_time": 1751075242,
-      "rank": 42,
-      "category": "财经"
     },
     {
       "raw_hot": 105617,
@@ -73209,14 +73289,6 @@
       "onboard_time": 1749355521,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 104560,
-      "num": 104560,
-      "word": "韩路 陈震",
-      "onboard_time": 1751075784,
-      "rank": 43,
-      "category": "汽车"
     },
     {
       "raw_hot": 104549,
@@ -73929,6 +74001,14 @@
       "onboard_time": 1748775742,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102125,
+      "num": 102125,
+      "word": "特朗普称放弃解除对伊朗制裁",
+      "onboard_time": 1751074823,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 102121,
@@ -75577,14 +75657,6 @@
       "onboard_time": 1750476381,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 97161,
-      "num": 97161,
-      "word": "特朗普称放弃解除对伊朗制裁",
-      "onboard_time": 1751074823,
-      "rank": 48,
-      "category": "国际时政"
     },
     {
       "raw_hot": 97148,
@@ -77291,14 +77363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 90807,
-      "num": 90807,
-      "word": "荔枝壳 农药",
-      "onboard_time": 1751075303,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 90767,
       "num": 132173,
       "word": "燃气公司回应招北大毕业生当抄表工",
@@ -78209,14 +78273,6 @@
       "onboard_time": 1748755639,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 87040,
-      "num": 176784,
-      "word": "官方通报苏超宿迁队售楼部开见面会",
-      "onboard_time": 1751070802,
-      "rank": 20,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 86975,
@@ -79793,6 +79849,14 @@
       "onboard_time": 1750776084,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80356,
+      "num": 137777,
+      "word": "宿迁队售楼部开见面会助教被解聘",
+      "onboard_time": 1751076622,
+      "rank": 33,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 80286,
@@ -93697,6 +93761,14 @@
       "onboard_time": 1750018033,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 29421,
+      "num": 117422,
+      "word": "用100寸电视玩switch2是什么体验",
+      "onboard_time": 1751076083,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 29414,
