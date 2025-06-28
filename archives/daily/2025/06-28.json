@@ -1,6 +1,6 @@
 {
   "startTime": 1751041984881,
-  "endTime": 1751077389082,
+  "endTime": 1751080796832,
   "band_list": [
     {
       "raw_hot": 4618253,
@@ -19,7 +19,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1470557,
+      "raw_hot": 1659961,
       "num": 1470557,
       "word": "日本连环杀人犯家中藏9个人头",
       "onboard_time": 1751074403,
@@ -51,6 +51,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1130991,
+      "num": 1180958,
+      "word": "张桂梅",
+      "onboard_time": 1751069782,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1073174,
       "num": 430049,
       "word": "鹿晗这个退场",
@@ -59,12 +67,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 907940,
-      "num": 907940,
-      "word": "张桂梅",
-      "onboard_time": 1751069782,
-      "rank": 1,
-      "category": "民生新闻"
+      "raw_hot": 960207,
+      "num": 321908,
+      "word": "关晓彤确实是藏不住事的年纪",
+      "onboard_time": 1751080463,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 900764,
@@ -73,6 +81,14 @@
       "onboard_time": 1751035950,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 875974,
+      "num": 875974,
+      "word": "鹿晗就我一个人慢慢变老了吗",
+      "onboard_time": 1751076323,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 805997,
@@ -171,14 +187,6 @@
       "category": "艺人,艺人"
     },
     {
-      "raw_hot": 462370,
-      "num": 462370,
-      "word": "鹿晗就我一个人慢慢变老了吗",
-      "onboard_time": 1751076323,
-      "rank": 6,
-      "category": "演出"
-    },
-    {
       "raw_hot": 455137,
       "num": 455137,
       "word": "女子频繁买卖海南离岛免税商品获刑",
@@ -187,12 +195,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 403786,
+      "num": 403786,
+      "word": "荔枝壳 农药",
+      "onboard_time": 1751075303,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 394933,
       "num": 394933,
       "word": "白玉兰神图",
       "onboard_time": 1751069061,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 386899,
+      "num": 386899,
+      "word": "南昌舰以一对二逼退外舰",
+      "onboard_time": 1751079384,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 367099,
@@ -217,6 +241,14 @@
       "onboard_time": 1751011707,
       "rank": 8,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 326364,
+      "num": 326364,
+      "word": "特朗普称放弃解除对伊朗制裁",
+      "onboard_time": 1751074823,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 320957,
@@ -307,6 +339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 252079,
+      "num": 202903,
+      "word": "大爷4块买西瓜觉得不对返回提醒",
+      "onboard_time": 1751079502,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 252063,
       "num": 252063,
       "word": "鹿晗 真诚",
@@ -315,12 +355,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 250905,
+      "num": 250905,
+      "word": "蒋奇明 我干了谢谢大家",
+      "onboard_time": 1751079143,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 249382,
       "num": 249382,
       "word": "赞比亚中国同胞遇害案8歹徒被击毙",
       "onboard_time": 1751071344,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 248195,
+      "num": 202092,
+      "word": "鱿鱼游戏 烂尾",
+      "onboard_time": 1751077822,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 235409,
@@ -355,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218278,
+      "num": 218278,
+      "word": "外卖员吐槽殡仪馆深夜有人点外卖",
+      "onboard_time": 1751080761,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 216466,
       "num": 205509,
       "word": "于和伟陪跑",
@@ -379,12 +443,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 204590,
-      "num": 204590,
-      "word": "荔枝壳 农药",
-      "onboard_time": 1751075303,
-      "rank": 49,
-      "category": "健康医疗"
+      "raw_hot": 209413,
+      "num": 209413,
+      "word": "刘学义演古偶 大炮轰蚊子",
+      "onboard_time": 1751079802,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 203787,
+      "num": 203787,
+      "word": "白玉兰",
+      "onboard_time": 1751068218,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 200319,
@@ -403,12 +475,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 188240,
-      "num": 188240,
-      "word": "白玉兰",
-      "onboard_time": 1751068218,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 197712,
+      "num": 197712,
+      "word": "男子多次获刑摇身成为县财政局长",
+      "onboard_time": 1751079864,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185922,
@@ -475,6 +547,30 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 175415,
+      "num": 175415,
+      "word": "西贝暑假工 偷拍",
+      "onboard_time": 1751077044,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174003,
+      "num": 174003,
+      "word": "BLG战胜GAM",
+      "onboard_time": 1751078664,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 170162,
+      "num": 170162,
+      "word": "cpf要的莫名其妙亲个嘴真拍了",
+      "onboard_time": 1751080404,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169138,
       "num": 139568,
       "word": "关晓彤妆造正确",
@@ -488,6 +584,22 @@
       "word": "蒋欣 好完美的一颗头",
       "onboard_time": 1751033187,
       "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 162052,
+      "num": 162052,
+      "word": "诡秘之主",
+      "onboard_time": 1751077522,
+      "rank": 33,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 158108,
+      "num": 158108,
+      "word": "以法之名",
+      "onboard_time": 1751079923,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -507,12 +619,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 149242,
+      "num": 149242,
+      "word": "王宝强回应白玉兰提名",
+      "onboard_time": 1751078782,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146661,
       "num": 146661,
       "word": "诡秘之主今日全球开播",
       "onboard_time": 1751076564,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 144976,
+      "num": 144976,
+      "word": "特朗普曾要求以色列制造大战",
+      "onboard_time": 1751078244,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 144842,
@@ -523,12 +651,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 144705,
+      "num": 144705,
+      "word": "路温吐槽赵丽颖酱园弄演技",
+      "onboard_time": 1751076863,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 144420,
       "num": 210087,
       "word": "高考288分事件被质疑炒作引流",
       "onboard_time": 1751034028,
       "rank": 19,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 140609,
+      "num": 120447,
+      "word": "充电宝 泡盐水",
+      "onboard_time": 1751078483,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139988,
@@ -563,6 +707,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 130297,
+      "num": 121643,
+      "word": "Knight亮TES队标",
+      "onboard_time": 1751080343,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 124711,
       "num": 211323,
       "word": "退学北大男生被说是最差年级第一",
@@ -577,6 +729,14 @@
       "onboard_time": 1751066838,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123221,
+      "num": 123221,
+      "word": "一个继承大统一个继承饭桶",
+      "onboard_time": 1751079502,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 122372,
@@ -643,20 +803,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 108525,
-      "num": 108525,
-      "word": "西贝暑假工 偷拍",
-      "onboard_time": 1751077044,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 109699,
+      "num": 109699,
+      "word": "和我封好的档案袋说去吧",
+      "onboard_time": 1751080163,
+      "rank": 48,
+      "category": "情感"
     },
     {
-      "raw_hot": 106081,
-      "num": 106081,
-      "word": "路温吐槽赵丽颖酱园弄演技",
-      "onboard_time": 1751076863,
-      "rank": 45,
-      "category": "电影"
+      "raw_hot": 106660,
+      "num": 106660,
+      "word": "电车一天狂奔3944公里是啥体验",
+      "onboard_time": 1751077943,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 102367,
@@ -665,14 +825,6 @@
       "onboard_time": 1751070622,
       "rank": 44,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 102125,
-      "num": 102125,
-      "word": "特朗普称放弃解除对伊朗制裁",
-      "onboard_time": 1751074823,
-      "rank": 48,
-      "category": "国际时政"
     },
     {
       "raw_hot": 100594,
@@ -803,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 66520,
+      "num": 152415,
+      "word": "中国新能源车冲击耐力极限",
+      "onboard_time": 1751080761,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 63206,
       "num": 208891,
       "word": "恋与深空婚卡",
@@ -859,12 +1019,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 45743,
+      "num": 197902,
+      "word": "孩子患早衰症父母均有遗传基因",
+      "onboard_time": 1751073383,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 43524,
       "num": 51657,
       "word": "耐克大涨12%",
       "onboard_time": 1751067079,
       "rank": 49,
       "category": "财经,体育"
+    },
+    {
+      "raw_hot": 43482,
+      "num": 204703,
+      "word": "大学校长毕业寄语硬核又走心",
+      "onboard_time": 1751079802,
+      "rank": 18,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 43388,
@@ -971,6 +1147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 29974,
+      "num": 146323,
+      "word": "有3C标识充电宝也不都能登机",
+      "onboard_time": 1751080761,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29421,
       "num": 117422,
       "word": "用100寸电视玩switch2是什么体验",
@@ -1043,6 +1227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 21012,
+      "num": 145521,
+      "word": "比卢普斯称赞杨瀚森球商极高",
+      "onboard_time": 1751078843,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 20133,
       "num": 27668,
       "word": "周深张真源什么时候能放过彼此",
@@ -1064,6 +1256,14 @@
       "word": "卢伟冰称团队十分有血性",
       "onboard_time": 1751046378,
       "rank": 49,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 10165,
+      "num": 145063,
+      "word": "小米Pad7Ultra全能生活搭子",
+      "onboard_time": 1751079143,
+      "rank": 40,
       "category": "数码"
     }
   ],

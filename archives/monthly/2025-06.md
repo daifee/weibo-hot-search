@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/28 10:23:09
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/28 11:19:56
 </p>
 </blockquote>
 <p>
@@ -1377,6 +1377,12 @@ GAI是不是想走了（热度：1689581）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%BF%9E%E7%8E%AF%E6%9D%80%E4%BA%BA%E7%8A%AF%E5%AE%B6%E4%B8%AD%E8%97%8F9%E4%B8%AA%E4%BA%BA%E5%A4%B4%23" target="weibo">
+日本连环杀人犯家中藏9个人头（热度：1659961）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%B4%E6%B1%9F%E4%BB%99%E7%A0%B4%E4%B8%87%23" target="weibo">
 临江仙破万（热度：1655833）
 </a>
@@ -1757,12 +1763,6 @@ TES对战WE（热度：1476923）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E9%A1%B6%E7%BA%A7%E9%AB%98%E5%AE%9A%E5%86%85%E5%A8%B1%E9%A6%96%E7%A7%80%23" target="weibo">
 杨紫顶级高定内娱首秀（热度：1472095）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%BF%9E%E7%8E%AF%E6%9D%80%E4%BA%BA%E7%8A%AF%E5%AE%B6%E4%B8%AD%E8%97%8F9%E4%B8%AA%E4%BA%BA%E5%A4%B4%23" target="weibo">
-日本连环杀人犯家中藏9个人头（热度：1470557）
 </a>
 </li>
 
@@ -2925,6 +2925,12 @@ Labubu爆火离不开这四大因素（热度：1131522）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A1%82%E6%A2%85%23" target="weibo">
+张桂梅（热度：1130991）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%A0%B8%E8%AE%BE%E6%96%BD%E8%A2%AB%E7%82%B8%23" target="weibo">
 伊朗核设施被炸（热度：1129904）
 </a>
@@ -3927,6 +3933,12 @@ K总回应何秋亊争议（热度：967332）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E7%A1%AE%E5%AE%9E%E6%98%AF%E8%97%8F%E4%B8%8D%E4%BD%8F%E4%BA%8B%E7%9A%84%E5%B9%B4%E7%BA%AA%23" target="weibo">
+关晓彤确实是藏不住事的年纪（热度：960207）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E8%89%BA%E4%BA%BA%E5%8F%82%E5%8A%A0%E7%BB%BC%E8%89%BA%E5%BD%95%E5%88%B6%E8%BF%9F%E5%88%B012%E5%B0%8F%E6%97%B6%23" target="weibo">
 曝艺人参加综艺录制迟到12小时（热度：960200）
 </a>
@@ -4257,12 +4269,6 @@ labubu（热度：930311）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A1%82%E6%A2%85%23" target="weibo">
-张桂梅（热度：907940）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%98%AF%E5%90%A6%E5%B7%B2%E5%AE%8C%E5%85%A8%E4%B8%A7%E5%A4%B1%E5%88%B6%E7%A9%BA%E6%9D%83%23" target="weibo">
 伊朗是否已完全丧失制空权（热度：907175）
 </a>
@@ -4475,6 +4481,12 @@ aespa回归预告（热度：882775）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E6%9C%BA%E5%9C%BA%E8%88%AA%E7%AB%99%E6%A5%BC%E8%BD%A6%E7%A5%B8%23" target="weibo">
 天津机场航站楼车祸（热度：877463）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%B0%B1%E6%88%91%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%85%A2%E6%85%A2%E5%8F%98%E8%80%81%E4%BA%86%E5%90%97%23" target="weibo">
+鹿晗就我一个人慢慢变老了吗（热度：875974）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ F35（热度：742995）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23T1%E6%88%98%E8%83%9CHLE%23" target="weibo">
 T1战胜HLE（热度：729129）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Labubu%20%E5%AE%A1%E7%BE%8E%23" target="weibo">
-Labubu 审美（热度：729066）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E5%B8%85%E5%AE%87%E5%BD%95%E9%9F%B3%23" target="weibo">
-罗帅宇录音（热度：728635）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1751077389082,
+  "endTime": 1751080796832,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -1819,6 +1819,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1659961,
+      "num": 1470557,
+      "word": "日本连环杀人犯家中藏9个人头",
+      "onboard_time": 1751074403,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1655833,
       "num": 1655833,
       "word": "临江仙破万",
@@ -2329,14 +2337,6 @@
       "onboard_time": 1751021841,
       "rank": 10,
       "category": "综艺,时尚"
-    },
-    {
-      "raw_hot": 1470557,
-      "num": 1470557,
-      "word": "日本连环杀人犯家中藏9个人头",
-      "onboard_time": 1751074403,
-      "rank": 3,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1470325,
@@ -3883,6 +3883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1130991,
+      "num": 1180958,
+      "word": "张桂梅",
+      "onboard_time": 1751069782,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1129904,
       "num": 1129904,
       "word": "伊朗核设施被炸",
@@ -5219,6 +5227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 960207,
+      "num": 321908,
+      "word": "关晓彤确实是藏不住事的年纪",
+      "onboard_time": 1751080463,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 960200,
       "num": 477856,
       "word": "曝艺人参加综艺录制迟到12小时",
@@ -5659,14 +5675,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 907940,
-      "num": 907940,
-      "word": "张桂梅",
-      "onboard_time": 1751069782,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 907175,
       "num": 907175,
       "word": "伊朗是否已完全丧失制空权",
@@ -5953,6 +5961,14 @@
       "onboard_time": 1750226121,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 875974,
+      "num": 875974,
+      "word": "鹿晗就我一个人慢慢变老了吗",
+      "onboard_time": 1751076323,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 874205,
@@ -15115,14 +15131,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 462370,
-      "num": 462370,
-      "word": "鹿晗就我一个人慢慢变老了吗",
-      "onboard_time": 1751076323,
-      "rank": 6,
-      "category": "演出"
-    },
-    {
       "raw_hot": 461993,
       "num": 333355,
       "word": "原告EXO被告朴成训",
@@ -17539,6 +17547,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 403786,
+      "num": 403786,
+      "word": "荔枝壳 农药",
+      "onboard_time": 1751075303,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 403450,
       "num": 403450,
       "word": "杜兰特被交易至火箭",
@@ -18337,6 +18353,14 @@
       "onboard_time": 1749036921,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 386899,
+      "num": 386899,
+      "word": "南昌舰以一对二逼退外舰",
+      "onboard_time": 1751079384,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 386358,
@@ -22009,6 +22033,14 @@
       "onboard_time": 1750762882,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 326364,
+      "num": 326364,
+      "word": "特朗普称放弃解除对伊朗制裁",
+      "onboard_time": 1751074823,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 326081,
@@ -28259,6 +28291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 252079,
+      "num": 202903,
+      "word": "大爷4块买西瓜觉得不对返回提醒",
+      "onboard_time": 1751079502,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 252063,
       "num": 252063,
       "word": "鹿晗 真诚",
@@ -28392,6 +28432,14 @@
       "word": "文淇中戏毕业",
       "onboard_time": 1750140621,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 250905,
+      "num": 250905,
+      "word": "蒋奇明 我干了谢谢大家",
+      "onboard_time": 1751079143,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -28745,6 +28793,14 @@
       "onboard_time": 1749948320,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 248195,
+      "num": 202092,
+      "word": "鱿鱼游戏 烂尾",
+      "onboard_time": 1751077822,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 248142,
@@ -32843,6 +32899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 218278,
+      "num": 218278,
+      "word": "外卖员吐槽殡仪馆深夜有人点外卖",
+      "onboard_time": 1751080761,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 218248,
       "num": 278951,
       "word": "邓紫棋小说价格",
@@ -34387,6 +34451,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 209413,
+      "num": 209413,
+      "word": "刘学义演古偶 大炮轰蚊子",
+      "onboard_time": 1751079802,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209376,
       "num": 464925,
       "word": "哈梅内伊称狠狠扇了美国一个耳光",
@@ -35747,14 +35819,6 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 204590,
-      "num": 204590,
-      "word": "荔枝壳 农药",
-      "onboard_time": 1751075303,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 204568,
       "num": 204568,
       "word": "王家卫北京故事 杨幂",
@@ -35937,6 +36001,14 @@
       "onboard_time": 1749136281,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 203787,
+      "num": 203787,
+      "word": "白玉兰",
+      "onboard_time": 1751068218,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 203783,
@@ -38089,6 +38161,14 @@
       "onboard_time": 1749611601,
       "rank": 26,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 197712,
+      "num": 197712,
+      "word": "男子多次获刑摇身成为县财政局长",
+      "onboard_time": 1751079864,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 197655,
@@ -41177,14 +41257,6 @@
       "onboard_time": 1748742501,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 188240,
-      "num": 188240,
-      "word": "白玉兰",
-      "onboard_time": 1751068218,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 188229,
@@ -45059,6 +45131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175415,
+      "num": 175415,
+      "word": "西贝暑假工 偷拍",
+      "onboard_time": 1751077044,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175403,
       "num": 175403,
       "word": "波妞喜欢中介",
@@ -45481,6 +45561,14 @@
       "onboard_time": 1750230741,
       "rank": 25,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 174003,
+      "num": 174003,
+      "word": "BLG战胜GAM",
+      "onboard_time": 1751078664,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 173983,
@@ -46881,6 +46969,14 @@
       "onboard_time": 1750849462,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170162,
+      "num": 170162,
+      "word": "cpf要的莫名其妙亲个嘴真拍了",
+      "onboard_time": 1751080404,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 170116,
@@ -49785,6 +49881,14 @@
       "onboard_time": 1749894264,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 162052,
+      "num": 162052,
+      "word": "诡秘之主",
+      "onboard_time": 1751077522,
+      "rank": 33,
+      "category": "动漫"
     },
     {
       "raw_hot": 162040,
@@ -54443,6 +54547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149242,
+      "num": 149242,
+      "word": "王宝强回应白玉兰提名",
+      "onboard_time": 1751078782,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149227,
       "num": 241976,
       "word": "赵丽颖西林对时代宣言式呐喊",
@@ -56299,6 +56411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 144976,
+      "num": 144976,
+      "word": "特朗普曾要求以色列制造大战",
+      "onboard_time": 1751078244,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 144966,
       "num": 144966,
       "word": "三亚",
@@ -56440,6 +56560,14 @@
       "word": "大鹏眼里全是对肌肉的渴望",
       "onboard_time": 1749874942,
       "rank": 29,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 144705,
+      "num": 144705,
+      "word": "路温吐槽赵丽颖酱园弄演技",
+      "onboard_time": 1751076863,
+      "rank": 45,
       "category": "电影"
     },
     {
@@ -58241,6 +58369,14 @@
       "onboard_time": 1749964400,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140609,
+      "num": 120447,
+      "word": "充电宝 泡盐水",
+      "onboard_time": 1751078483,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140564,
@@ -62859,6 +62995,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 130297,
+      "num": 121643,
+      "word": "Knight亮TES队标",
+      "onboard_time": 1751080343,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 130282,
       "num": 397047,
       "word": "张柏芝生图比白瓷还白",
@@ -65993,6 +66137,14 @@
       "onboard_time": 1748878700,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123221,
+      "num": 123221,
+      "word": "一个继承大统一个继承饭桶",
+      "onboard_time": 1751079502,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 123196,
@@ -71627,6 +71779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109699,
+      "num": 109699,
+      "word": "和我封好的档案袋说去吧",
+      "onboard_time": 1751080163,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 109693,
       "num": 149467,
       "word": "范丞丞王安宇贾冰热聊",
@@ -72041,14 +72201,6 @@
       "onboard_time": 1750088299,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 108525,
-      "num": 108525,
-      "word": "西贝暑假工 偷拍",
-      "onboard_time": 1751077044,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 108495,
@@ -72659,6 +72811,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 106660,
+      "num": 106660,
+      "word": "电车一天狂奔3944公里是啥体验",
+      "onboard_time": 1751077943,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 106610,
       "num": 106610,
       "word": "年轻人为何不再为爱情而结婚",
@@ -72793,14 +72953,6 @@
       "onboard_time": 1750746742,
       "rank": 17,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 106081,
-      "num": 106081,
-      "word": "路温吐槽赵丽颖酱园弄演技",
-      "onboard_time": 1751076863,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 106074,
@@ -74001,14 +74153,6 @@
       "onboard_time": 1748775742,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 102125,
-      "num": 102125,
-      "word": "特朗普称放弃解除对伊朗制裁",
-      "onboard_time": 1751074823,
-      "rank": 48,
-      "category": "国际时政"
     },
     {
       "raw_hot": 102121,
@@ -83059,6 +83203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66520,
+      "num": 152415,
+      "word": "中国新能源车冲击耐力极限",
+      "onboard_time": 1751080761,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 66512,
       "num": 66512,
       "word": "许嵩说把手伸五指合影叫端午",
@@ -88299,6 +88451,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 45743,
+      "num": 197902,
+      "word": "孩子患早衰症父母均有遗传基因",
+      "onboard_time": 1751073383,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 45736,
       "num": 212323,
       "word": "不吃碳水对身体健康有影响吗",
@@ -88913,6 +89073,14 @@
       "onboard_time": 1751067079,
       "rank": 49,
       "category": "财经,体育"
+    },
+    {
+      "raw_hot": 43482,
+      "num": 204703,
+      "word": "大学校长毕业寄语硬核又走心",
+      "onboard_time": 1751079802,
+      "rank": 18,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 43473,
@@ -93571,6 +93739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29974,
+      "num": 146323,
+      "word": "有3C标识充电宝也不都能登机",
+      "onboard_time": 1751080761,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29938,
       "num": 268857,
       "word": "欧洲最高的活火山喷发",
@@ -97059,6 +97235,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 21012,
+      "num": 145521,
+      "word": "比卢普斯称赞杨瀚森球商极高",
+      "onboard_time": 1751078843,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 21005,
       "num": 170577,
       "word": "以伊打了12天特朗普变卦了多少回",
@@ -100449,6 +100633,14 @@
       "onboard_time": 1748756359,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10165,
+      "num": 145063,
+      "word": "小米Pad7Ultra全能生活搭子",
+      "onboard_time": 1751079143,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 10092,
