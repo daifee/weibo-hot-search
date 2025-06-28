@@ -1,6 +1,6 @@
 {
   "startTime": 1751041984881,
-  "endTime": 1751118251954,
+  "endTime": 1751120560153,
   "band_list": [
     {
       "raw_hot": 4618253,
@@ -11,6 +11,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 3080198,
+      "num": 285506,
+      "word": "关晓彤 鹿晗",
+      "onboard_time": 1751119105,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2325095,
       "num": 2325095,
       "word": "白玉兰获奖名单",
@@ -19,20 +27,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1923438,
+      "num": 613558,
+      "word": "王源送车",
+      "onboard_time": 1751114362,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1808331,
       "num": 1808331,
       "word": "关晓彤确实是藏不住事的年纪",
       "onboard_time": 1751080463,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1708964,
-      "num": 613558,
-      "word": "王源送车",
-      "onboard_time": 1751114362,
-      "rank": 11,
-      "category": "演出"
     },
     {
       "raw_hot": 1659961,
@@ -123,6 +131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1151190,
+      "num": 1184190,
+      "word": "方大同 金曲奖",
+      "onboard_time": 1751118563,
+      "rank": 0,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1073174,
       "num": 430049,
       "word": "鹿晗这个退场",
@@ -153,6 +169,14 @@
       "onboard_time": 1751102421,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 912370,
+      "num": 381833,
+      "word": "杨紫已经三次陪跑白玉兰",
+      "onboard_time": 1751117902,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 900764,
@@ -459,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 509734,
+      "num": 265505,
+      "word": "王玉雯田曦薇合照",
+      "onboard_time": 1751119344,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 505079,
       "num": 203398,
       "word": "王安宇给蒋欣送蛇瓜",
@@ -537,6 +569,14 @@
       "onboard_time": 1751081182,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 438440,
+      "num": 259684,
+      "word": "邓紫棋现身孙颖莎评论区",
+      "onboard_time": 1751119164,
+      "rank": 15,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 437928,
@@ -787,12 +827,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 294813,
+      "num": 257745,
+      "word": "关晓彤回应粉丝",
+      "onboard_time": 1751120184,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 294756,
       "num": 294756,
       "word": "蒋奇明 我干了谢谢大家",
       "onboard_time": 1751079143,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 292421,
+      "num": 236967,
+      "word": "谁给李一桐做的造型",
+      "onboard_time": 1751118563,
+      "rank": 22,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 291604,
@@ -809,14 +865,6 @@
       "onboard_time": 1751093062,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 284420,
-      "num": 284420,
-      "word": "杨紫已经三次陪跑白玉兰",
-      "onboard_time": 1751117902,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 281467,
@@ -976,6 +1024,14 @@
       "word": "单依纯 下一季不来了",
       "onboard_time": 1751032949,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 230925,
+      "num": 230925,
+      "word": "你好星期六下期是乘风姐姐团建",
+      "onboard_time": 1751117902,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -1339,6 +1395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 193458,
+      "num": 193458,
+      "word": "以法之名破10000",
+      "onboard_time": 1751120485,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191118,
       "num": 191118,
       "word": "我以为天亮了结果天塌了",
@@ -1377,6 +1441,14 @@
       "onboard_time": 1751109202,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 189165,
+      "num": 189165,
+      "word": "方大同金曲奖最佳作曲人",
+      "onboard_time": 1751119042,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 188155,
@@ -1579,6 +1651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172876,
+      "num": 172876,
+      "word": "鹭卓演唱会突然肚子痛",
+      "onboard_time": 1751119404,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 170261,
       "num": 345666,
       "word": "1000多名武警紧急驰援贵州榕江",
@@ -1619,12 +1699,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 167922,
+      "num": 167922,
+      "word": "盐城2比0战胜镇江",
+      "onboard_time": 1751119705,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167562,
       "num": 167562,
       "word": "书卷一梦九重紫历史总惊人的相似",
       "onboard_time": 1751097382,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167294,
+      "num": 281223,
+      "word": "2015年九三阅兵再看依旧震撼",
+      "onboard_time": 1751117003,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 167174,
@@ -1667,12 +1763,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 165362,
-      "num": 165362,
-      "word": "你好星期六下期是乘风姐姐团建",
-      "onboard_time": 1751117902,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 165376,
+      "num": 165376,
+      "word": "时代少年团国民男团",
+      "onboard_time": 1751120365,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 165018,
@@ -1793,6 +1889,22 @@
       "onboard_time": 1751082862,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 157662,
+      "num": 157662,
+      "word": "喻言芭莎之夜舞台",
+      "onboard_time": 1751119461,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 157238,
+      "num": 177914,
+      "word": "贵州榕江恳请暂缓自行前往救灾现场",
+      "onboard_time": 1751118083,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155947,
@@ -1937,6 +2049,14 @@
       "onboard_time": 1751113102,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148325,
+      "num": 148325,
+      "word": "潘玮柏斤斤计较",
+      "onboard_time": 1751120066,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 147885,
@@ -2091,6 +2211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140544,
+      "num": 135050,
+      "word": "卢昱晓手臂线条",
+      "onboard_time": 1751118684,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 139988,
       "num": 139988,
       "word": "一个人进步最快的方式",
@@ -2105,6 +2233,14 @@
       "onboard_time": 1751084721,
       "rank": 38,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 138393,
+      "num": 133569,
+      "word": "王源跳双人舞笑场了",
+      "onboard_time": 1751120004,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 136707,
@@ -2137,6 +2273,14 @@
       "onboard_time": 1751104161,
       "rank": 36,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 135653,
+      "num": 135653,
+      "word": "女子与网红男主播非婚生女称要送养",
+      "onboard_time": 1751117782,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135434,
@@ -2219,6 +2363,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 132407,
+      "num": 132407,
+      "word": "苏超盐哥登顶榜首",
+      "onboard_time": 1751120485,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132341,
       "num": 132341,
       "word": "预计贵州榕江县17时左右出现洪峰",
@@ -2265,6 +2417,14 @@
       "onboard_time": 1751085562,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 130800,
+      "num": 130800,
+      "word": "金曲奖直播",
+      "onboard_time": 1751115802,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 130321,
@@ -2355,14 +2515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 126290,
-      "num": 171663,
-      "word": "2015年九三阅兵再看依旧震撼",
-      "onboard_time": 1751117003,
-      "rank": 46,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 125774,
       "num": 189968,
       "word": "华晨宇直播被投屏在商场大屏",
@@ -2377,6 +2529,14 @@
       "onboard_time": 1751102903,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125330,
+      "num": 125330,
+      "word": "房东的猫解锁郭培高定",
+      "onboard_time": 1751120244,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 124711,
@@ -2401,6 +2561,14 @@
       "onboard_time": 1751079684,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 124117,
+      "num": 124117,
+      "word": "房东的猫白金刺绣高定",
+      "onboard_time": 1751120485,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 123775,
@@ -2649,6 +2817,14 @@
       "onboard_time": 1751068760,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113454,
+      "num": 148336,
+      "word": "商务部回应美与有关国家关税谈判情况",
+      "onboard_time": 1751118622,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 113252,
@@ -2929,14 +3105,6 @@
       "onboard_time": 1751076622,
       "rank": 33,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 79560,
-      "num": 177914,
-      "word": "贵州榕江恳请暂缓自行前往救灾现场",
-      "onboard_time": 1751118083,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 79032,
@@ -3323,6 +3491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37753,
+      "num": 437878,
+      "word": "紧急追加1亿元支持贵州灾后恢复",
+      "onboard_time": 1751119885,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37571,
       "num": 185488,
       "word": "品牌金饰价跌至千元以下",
@@ -3409,6 +3585,14 @@
       "onboard_time": 1751059815,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 30413,
+      "num": 179816,
+      "word": "养女虐待90岁老人还骂律师",
+      "onboard_time": 1751119645,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30040,
@@ -3513,6 +3697,14 @@
       "onboard_time": 1751108481,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23060,
+      "num": 132949,
+      "word": "40岁是最好的年纪",
+      "onboard_time": 1751118443,
+      "rank": 43,
+      "category": "时尚"
     },
     {
       "raw_hot": 22214,

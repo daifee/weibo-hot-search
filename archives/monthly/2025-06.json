@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1751118251954,
+  "endTime": 1751120560153,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -489,6 +489,14 @@
       "onboard_time": 1749299722,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 3080198,
+      "num": 285506,
+      "word": "关晓彤 鹿晗",
+      "onboard_time": 1751119105,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 3021960,
@@ -1307,6 +1315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1923438,
+      "num": 613558,
+      "word": "王源送车",
+      "onboard_time": 1751114362,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1920519,
       "num": 325700,
       "word": "日本开始撤侨",
@@ -1705,14 +1721,6 @@
       "onboard_time": 1749039139,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1708964,
-      "num": 613558,
-      "word": "王源送车",
-      "onboard_time": 1751114362,
-      "rank": 11,
-      "category": "演出"
     },
     {
       "raw_hot": 1707096,
@@ -3795,6 +3803,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1151190,
+      "num": 1184190,
+      "word": "方大同 金曲奖",
+      "onboard_time": 1751118563,
+      "rank": 0,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1150707,
       "num": 614325,
       "word": "蔡徐坤洛杉矶音乐节舞台",
@@ -5713,6 +5729,14 @@
       "onboard_time": 1749106160,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 912370,
+      "num": 381833,
+      "word": "杨紫已经三次陪跑白玉兰",
+      "onboard_time": 1751117902,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 911926,
@@ -13587,6 +13611,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 509734,
+      "num": 265505,
+      "word": "王玉雯田曦薇合照",
+      "onboard_time": 1751119344,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 509433,
       "num": 509433,
       "word": "宋威龙鼻子 女娲捏了两次",
@@ -16289,6 +16321,14 @@
       "onboard_time": 1750589302,
       "rank": 7,
       "category": "民生新闻,科学科普"
+    },
+    {
+      "raw_hot": 438440,
+      "num": 259684,
+      "word": "邓紫棋现身孙颖莎评论区",
+      "onboard_time": 1751119164,
+      "rank": 15,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 438363,
@@ -24707,6 +24747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 294813,
+      "num": 257745,
+      "word": "关晓彤回应粉丝",
+      "onboard_time": 1751120184,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 294811,
       "num": 294811,
       "word": "中国女排3比1胜日本队",
@@ -24905,6 +24953,14 @@
       "onboard_time": 1749166100,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 292421,
+      "num": 236967,
+      "word": "谁给李一桐做的造型",
+      "onboard_time": 1751118563,
+      "rank": 22,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 292155,
@@ -25569,14 +25625,6 @@
       "onboard_time": 1748945241,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 284420,
-      "num": 284420,
-      "word": "杨紫已经三次陪跑白玉兰",
-      "onboard_time": 1751117902,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 284363,
@@ -31393,6 +31441,14 @@
       "onboard_time": 1750065921,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 230925,
+      "num": 230925,
+      "word": "你好星期六下期是乘风姐姐团建",
+      "onboard_time": 1751117902,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 230924,
@@ -40347,6 +40403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193458,
+      "num": 193458,
+      "word": "以法之名破10000",
+      "onboard_time": 1751120485,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193415,
       "num": 424941,
       "word": "外交部发布双语视频回家",
@@ -41833,6 +41897,14 @@
       "onboard_time": 1750656742,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189165,
+      "num": 189165,
+      "word": "方大同金曲奖最佳作曲人",
+      "onboard_time": 1751119042,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 189157,
@@ -46931,6 +47003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 172876,
+      "num": 172876,
+      "word": "鹭卓演唱会突然肚子痛",
+      "onboard_time": 1751119404,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 172855,
       "num": 188128,
       "word": "妹夫一家殴打姨姐欲开挖机推其房子",
@@ -48795,6 +48875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167922,
+      "num": 167922,
+      "word": "盐城2比0战胜镇江",
+      "onboard_time": 1751119705,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167901,
       "num": 167901,
       "word": "哪吒汽车董事长回应员工讨薪",
@@ -49081,6 +49169,14 @@
       "onboard_time": 1749432081,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167294,
+      "num": 281223,
+      "word": "2015年九三阅兵再看依旧震撼",
+      "onboard_time": 1751117003,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 167278,
@@ -49763,20 +49859,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165376,
+      "num": 165376,
+      "word": "时代少年团国民男团",
+      "onboard_time": 1751120365,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 165365,
       "num": 180176,
       "word": "孟子义接桃花映江山的原因找到了",
       "onboard_time": 1750949006,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 165362,
-      "num": 165362,
-      "word": "你好星期六下期是乘风姐姐团建",
-      "onboard_time": 1751117902,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 165358,
@@ -52571,6 +52667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 157662,
+      "num": 157662,
+      "word": "喻言芭莎之夜舞台",
+      "onboard_time": 1751119461,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 157657,
       "num": 157657,
       "word": "BLACKPINK香港",
@@ -52777,6 +52881,14 @@
       "onboard_time": 1750747699,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157238,
+      "num": 177914,
+      "word": "贵州榕江恳请暂缓自行前往救灾现场",
+      "onboard_time": 1751118083,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157211,
@@ -56193,6 +56305,14 @@
       "onboard_time": 1750825465,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 148325,
+      "num": 148325,
+      "word": "潘玮柏斤斤计较",
+      "onboard_time": 1751120066,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 148319,
@@ -59779,6 +59899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140544,
+      "num": 135050,
+      "word": "卢昱晓手臂线条",
+      "onboard_time": 1751118684,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 140499,
       "num": 140499,
       "word": "第五人格前瞻直播",
@@ -60729,6 +60857,14 @@
       "onboard_time": 1749864379,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 138393,
+      "num": 133569,
+      "word": "王源跳双人舞笑场了",
+      "onboard_time": 1751120004,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 138369,
@@ -61888,6 +62024,14 @@
       "word": "这种矿泉水3秒让人丧失意识",
       "onboard_time": 1750951944,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135653,
+      "num": 135653,
+      "word": "女子与网红男主播非婚生女称要送养",
+      "onboard_time": 1751117782,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -63427,6 +63571,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 132407,
+      "num": 132407,
+      "word": "苏超盐哥登顶榜首",
+      "onboard_time": 1751120485,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132390,
       "num": 132390,
       "word": "刘强东回应京东进军餐饮酒旅",
@@ -64209,6 +64361,14 @@
       "onboard_time": 1750690886,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 130800,
+      "num": 130800,
+      "word": "金曲奖直播",
+      "onboard_time": 1751115802,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 130799,
@@ -66307,14 +66467,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 126290,
-      "num": 171663,
-      "word": "2015年九三阅兵再看依旧震撼",
-      "onboard_time": 1751117003,
-      "rank": 46,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 126255,
       "num": 126255,
       "word": "高考结束的那一刻是什么感觉",
@@ -66851,6 +67003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 125330,
+      "num": 125330,
+      "word": "房东的猫解锁郭培高定",
+      "onboard_time": 1751120244,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 125328,
       "num": 125328,
       "word": "花瓣网崩了",
@@ -67337,6 +67497,14 @@
       "onboard_time": 1750581261,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124117,
+      "num": 124117,
+      "word": "房东的猫白金刺绣高定",
+      "onboard_time": 1751120485,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 124089,
@@ -72033,6 +72201,14 @@
       "onboard_time": 1749266725,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113454,
+      "num": 148336,
+      "word": "商务部回应美与有关国家关税谈判情况",
+      "onboard_time": 1751118622,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 113443,
@@ -82176,14 +82352,6 @@
       "word": "端午经济成为消费活力新引擎",
       "onboard_time": 1748872104,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 79560,
-      "num": 177914,
-      "word": "贵州榕江恳请暂缓自行前往救灾现场",
-      "onboard_time": 1751118083,
-      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -93163,6 +93331,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 37753,
+      "num": 437878,
+      "word": "紧急追加1亿元支持贵州灾后恢复",
+      "onboard_time": 1751119885,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37744,
       "num": 429836,
       "word": "清明上河园回应被质疑虐待猴子",
@@ -95833,6 +96009,14 @@
       "onboard_time": 1749601281,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30413,
+      "num": 179816,
+      "word": "养女虐待90岁老人还骂律师",
+      "onboard_time": 1751119645,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30409,
@@ -98673,6 +98857,14 @@
       "onboard_time": 1750329080,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 23060,
+      "num": 132949,
+      "word": "40岁是最好的年纪",
+      "onboard_time": 1751118443,
+      "rank": 43,
+      "category": "时尚"
     },
     {
       "raw_hot": 23059,
