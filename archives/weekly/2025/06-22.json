@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1751088357992,
+  "endTime": 1751089403831,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -763,6 +763,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1320528,
+      "num": 1320528,
+      "word": "张桂梅",
+      "onboard_time": 1751069782,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1317098,
       "num": 1317098,
       "word": "小米YU7大定破20万台",
@@ -985,14 +993,6 @@
       "onboard_time": 1750820422,
       "rank": 0,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1130991,
-      "num": 1180958,
-      "word": "张桂梅",
-      "onboard_time": 1751069782,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1128678,
@@ -1563,6 +1563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 854413,
+      "num": 854413,
+      "word": "毒驾男撞死人保释期间被女友烧死",
+      "onboard_time": 1751083342,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 852885,
       "num": 852885,
       "word": "那尔那茜 长安的荔枝",
@@ -2105,14 +2113,6 @@
       "onboard_time": 1750898183,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 707076,
-      "num": 707076,
-      "word": "毒驾男撞死人保释期间被女友烧死",
-      "onboard_time": 1751083342,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 705214,
@@ -4339,6 +4339,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 434460,
+      "num": 434460,
+      "word": "蔡徐坤仅自己可见朋友圈",
+      "onboard_time": 1751088622,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 432888,
+      "num": 432888,
+      "word": "王楚钦 LV",
+      "onboard_time": 1751087242,
+      "rank": 20,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 432516,
       "num": 432516,
       "word": "浙江高考成绩",
@@ -5579,6 +5595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 339254,
+      "num": 339254,
+      "word": "酱园弄是怎么被搞砸的",
+      "onboard_time": 1751086342,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 339221,
       "num": 339221,
       "word": "张泽禹 带id自取",
@@ -5963,6 +5987,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 319684,
+      "num": 319684,
+      "word": "杨采钰挺孕肚出街",
+      "onboard_time": 1751088862,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 319065,
       "num": 319065,
       "word": "曝某艺人把奢牌赠包挂二手平台",
@@ -6049,14 +6081,6 @@
       "onboard_time": 1750747881,
       "rank": 25,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 312606,
-      "num": 288387,
-      "word": "王楚钦 LV",
-      "onboard_time": 1751087242,
-      "rank": 20,
-      "category": "体育,时尚"
     },
     {
       "raw_hot": 312052,
@@ -6459,6 +6483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 294495,
+      "num": 294495,
+      "word": "五哈",
+      "onboard_time": 1751088322,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 294429,
       "num": 378607,
       "word": "杨幂演技",
@@ -6497,6 +6529,14 @@
       "onboard_time": 1750651285,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 292602,
+      "num": 292602,
+      "word": "尼坤怎么长这样了",
+      "onboard_time": 1751088862,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 288756,
@@ -6969,14 +7009,6 @@
       "onboard_time": 1750837523,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 267406,
-      "num": 267406,
-      "word": "酱园弄是怎么被搞砸的",
-      "onboard_time": 1751086342,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 267347,
@@ -8283,6 +8315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222437,
+      "num": 222437,
+      "word": "雷军说特斯拉确实了不起",
+      "onboard_time": 1751089042,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 221848,
       "num": 221848,
       "word": "登陆少年与金钟仁同框",
@@ -8825,6 +8865,14 @@
       "onboard_time": 1750950324,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 208993,
+      "num": 208993,
+      "word": "8元一晚的旅馆挤满了找活路的人",
+      "onboard_time": 1751085682,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 208941,
@@ -9465,6 +9513,14 @@
       "onboard_time": 1751041224,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200270,
+      "num": 324502,
+      "word": "快递员称不敢收充电宝怕被罚款",
+      "onboard_time": 1751086881,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200238,
@@ -10209,14 +10265,6 @@
       "onboard_time": 1750927702,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 193279,
-      "num": 193279,
-      "word": "8元一晚的旅馆挤满了找活路的人",
-      "onboard_time": 1751085682,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 193058,
@@ -11259,14 +11307,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 178912,
-      "num": 324502,
-      "word": "快递员称不敢收充电宝怕被罚款",
-      "onboard_time": 1751086881,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 178852,
       "num": 178852,
       "word": "张艺兴直播夜游探险",
@@ -11451,6 +11491,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 175860,
+      "num": 175860,
+      "word": "李昀锐撕名牌三个摄像接力追",
+      "onboard_time": 1751088441,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175566,
       "num": 175566,
       "word": "90后保安用苟住思维实现财务自由",
@@ -11481,14 +11529,6 @@
       "onboard_time": 1751014585,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 175275,
-      "num": 175275,
-      "word": "五哈",
-      "onboard_time": 1751088322,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 175212,
@@ -12193,6 +12233,14 @@
       "onboard_time": 1750951224,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165018,
+      "num": 165018,
+      "word": "皮肤变厚 脚气",
+      "onboard_time": 1751085682,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 164925,
@@ -13075,6 +13123,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 155156,
+      "num": 155156,
+      "word": "微剧成何体统开播",
+      "onboard_time": 1751088743,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155049,
       "num": 155049,
       "word": "世界之外",
@@ -13625,6 +13681,14 @@
       "onboard_time": 1750898603,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 148742,
+      "num": 148742,
+      "word": "贺峻霖 密室大逃脱",
+      "onboard_time": 1751089282,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 148630,
@@ -14273,14 +14337,6 @@
       "onboard_time": 1750667723,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 143330,
-      "num": 143330,
-      "word": "皮肤变厚 脚气",
-      "onboard_time": 1751085682,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 143215,
@@ -15019,6 +15075,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 136855,
+      "num": 136855,
+      "word": "关注贵州榕江强降雨",
+      "onboard_time": 1751088441,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136512,
       "num": 136512,
       "word": "好消息男主动心了坏消息是杀心",
@@ -15483,6 +15547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131877,
+      "num": 170061,
+      "word": "中年女演员 真正的好东西",
+      "onboard_time": 1751087721,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131855,
       "num": 131855,
       "word": "老人水中摔倒民警未搀扶家属发声",
@@ -15796,7 +15868,7 @@
     },
     {
       "raw_hot": 128831,
-      "num": 128831,
+      "num": 319822,
       "word": "进戒毒所后才知道爱喝的饮料里竟藏毒",
       "onboard_time": 1751084121,
       "rank": 45,
@@ -18163,14 +18235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 103829,
-      "num": 170061,
-      "word": "中年女演员 真正的好东西",
-      "onboard_time": 1751087721,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 103793,
       "num": 103793,
       "word": "全员加速中",
@@ -19588,7 +19652,7 @@
     },
     {
       "raw_hot": 78673,
-      "num": 141681,
+      "num": 144705,
       "word": "颜人中谢谢林俊杰成为林俊杰",
       "onboard_time": 1751086222,
       "rank": 42,
@@ -20441,6 +20505,14 @@
       "onboard_time": 1750818861,
       "rank": 37,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 63055,
+      "num": 347019,
+      "word": "榕江预计出现253米洪峰水位",
+      "onboard_time": 1751088743,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62765,
@@ -22539,6 +22611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 29089,
+      "num": 153367,
+      "word": "chiikawa头像",
+      "onboard_time": 1751088322,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 29062,
       "num": 1043248,
       "word": "新一代人才与AI共生共长",
@@ -23323,14 +23403,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 19643,
-      "num": 147020,
-      "word": "chiikawa头像",
-      "onboard_time": 1751088322,
-      "rank": 39,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 19546,
       "num": 240597,
       "word": "解救被困砖厂残障者全过程曝光",
@@ -23852,7 +23924,7 @@
     },
     {
       "raw_hot": 11474,
-      "num": 322634,
+      "num": 336855,
       "word": "好博会逛着逛着就饱了",
       "onboard_time": 1751087001,
       "rank": 14,

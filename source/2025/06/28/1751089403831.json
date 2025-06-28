@@ -1,0 +1,410 @@
+{
+  "runTime": 1751089403831,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1320528,
+        "num": 1320528,
+        "word": "张桂梅",
+        "onboard_time": 1751069782,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 854413,
+        "num": 854413,
+        "word": "毒驾男撞死人保释期间被女友烧死",
+        "onboard_time": 1751083342,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56202,
+        "num": 638984,
+        "word": "这些热点国家发改委回应了",
+        "onboard_time": 1751084063,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1496847,
+        "num": 628778,
+        "word": "关晓彤确实是藏不住事的年纪",
+        "onboard_time": 1751080463,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 615385,
+        "num": 615385,
+        "word": "有3C标识充电宝也不都能登机",
+        "onboard_time": 1751080761,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 780572,
+        "num": 606544,
+        "word": "日本连环杀人犯家中藏9个人头",
+        "onboard_time": 1751074403,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 434460,
+        "num": 434460,
+        "word": "蔡徐坤仅自己可见朋友圈",
+        "onboard_time": 1751088622,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432888,
+        "num": 432888,
+        "word": "王楚钦 LV",
+        "onboard_time": 1751087242,
+        "rank": 7,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 378056,
+        "num": 378056,
+        "word": "南昌舰以一对二逼退外舰",
+        "onboard_time": 1751079384,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 63055,
+        "num": 347019,
+        "word": "榕江预计出现253米洪峰水位",
+        "onboard_time": 1751088743,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 715575,
+        "num": 343362,
+        "word": "关晓彤白玉兰大屏用了鹿晗发的照片",
+        "onboard_time": 1751083282,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 570567,
+        "num": 341562,
+        "word": "运动瘦和饿瘦的区别",
+        "onboard_time": 1751082382,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 339254,
+        "num": 339254,
+        "word": "酱园弄是怎么被搞砸的",
+        "onboard_time": 1751086342,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 337226,
+        "num": 337226,
+        "word": "卢昱晓礼服下面是拖鞋",
+        "onboard_time": 1751082562,
+        "rank": 13,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 10466,
+        "num": 336855,
+        "word": "好博会逛着逛着就饱了",
+        "onboard_time": 1751087001,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336711,
+        "num": 336711,
+        "word": "一定要申请一个工作微信号",
+        "onboard_time": 1751081182,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 332979,
+        "num": 332979,
+        "word": "鹿晗就我一个人慢慢变老了吗",
+        "onboard_time": 1751076323,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 320668,
+        "num": 320668,
+        "word": "流浪地球3官宣马丽",
+        "onboard_time": 1751081722,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 320073,
+        "num": 320073,
+        "word": "高考生696分带火家中店铺",
+        "onboard_time": 1751081963,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54716,
+        "num": 319822,
+        "word": "进戒毒所后才知道爱喝的饮料里竟藏毒",
+        "onboard_time": 1751084121,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319684,
+        "num": 319684,
+        "word": "杨采钰挺孕肚出街",
+        "onboard_time": 1751088862,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305185,
+        "num": 305185,
+        "word": "白玉兰视后颁奖这段太好看了",
+        "onboard_time": 1751082441,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294495,
+        "num": 294495,
+        "word": "五哈",
+        "onboard_time": 1751088322,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292602,
+        "num": 292602,
+        "word": "尼坤怎么长这样了",
+        "onboard_time": 1751088862,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260636,
+        "num": 260636,
+        "word": "外卖员吐槽殡仪馆深夜有人点外卖",
+        "onboard_time": 1751080761,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253635,
+        "num": 253635,
+        "word": "宋佳白玉兰视后",
+        "onboard_time": 1751036790,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222437,
+        "num": 222437,
+        "word": "雷军说特斯拉确实了不起",
+        "onboard_time": 1751089042,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 208993,
+        "num": 208993,
+        "word": "8元一晚的旅馆挤满了找活路的人",
+        "onboard_time": 1751085682,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200270,
+        "num": 200270,
+        "word": "快递员称不敢收充电宝怕被罚款",
+        "onboard_time": 1751086881,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182805,
+        "num": 182805,
+        "word": "白玉兰神图",
+        "onboard_time": 1751069061,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175860,
+        "num": 175860,
+        "word": "李昀锐撕名牌三个摄像接力追",
+        "onboard_time": 1751088441,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172794,
+        "num": 172794,
+        "word": "大爷4块买西瓜觉得不对返回提醒",
+        "onboard_time": 1751079502,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171090,
+        "num": 171090,
+        "word": "一个45岁未婚未育的女性是什么样的",
+        "onboard_time": 1751084242,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167597,
+        "num": 167597,
+        "word": "从怀孕到生娃10个月的花销",
+        "onboard_time": 1751083223,
+        "rank": 33,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 165018,
+        "num": 165018,
+        "word": "皮肤变厚 脚气",
+        "onboard_time": 1751085682,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131877,
+        "num": 161922,
+        "word": "中年女演员 真正的好东西",
+        "onboard_time": 1751087721,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159770,
+        "num": 159770,
+        "word": "白玉兰",
+        "onboard_time": 1751068218,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157382,
+        "num": 157382,
+        "word": "亲爱的你定档",
+        "onboard_time": 1751082501,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155156,
+        "num": 155156,
+        "word": "微剧成何体统开播",
+        "onboard_time": 1751088743,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29089,
+        "num": 153367,
+        "word": "chiikawa头像",
+        "onboard_time": 1751088322,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 152860,
+        "num": 152860,
+        "word": "以色列密谋在美实施爆炸栽赃伊朗",
+        "onboard_time": 1751081541,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 148742,
+        "num": 148742,
+        "word": "贺峻霖 密室大逃脱",
+        "onboard_time": 1751089282,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77311,
+        "num": 144705,
+        "word": "颜人中谢谢林俊杰成为林俊杰",
+        "onboard_time": 1751086222,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143316,
+        "num": 143316,
+        "word": "刘绍勇被查",
+        "onboard_time": 1751083642,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142322,
+        "num": 142322,
+        "word": "小米YU7订单被黄牛高价倒卖",
+        "onboard_time": 1751086042,
+        "rank": 44,
+        "category": "汽车,民生新闻"
+      },
+      {
+        "raw_hot": 140143,
+        "num": 140143,
+        "word": "宋佳获奖闫妮送了她一朵棉花",
+        "onboard_time": 1751074103,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136946,
+        "num": 136946,
+        "word": "中女时代",
+        "onboard_time": 1751084721,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136855,
+        "num": 136855,
+        "word": "关注贵州榕江强降雨",
+        "onboard_time": 1751088441,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126269,
+        "num": 133539,
+        "word": "小米YU7不公布24小时销量",
+        "onboard_time": 1751084182,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 131366,
+        "num": 131366,
+        "word": "这下侃爷真成沪Ye了",
+        "onboard_time": 1751082862,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平签署国家主席令#"
+    }
+  }
+}
