@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751128220992,
+  "endTime": 1751129197662,
   "band_list": [
     {
       "raw_hot": 1477036,
@@ -139,12 +139,28 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 224529,
+      "num": 204731,
+      "word": "严浩翔追着王嘉尔打伞",
+      "onboard_time": 1751128461,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 221598,
       "num": 214225,
       "word": "生理性喜欢的4个肢体信号",
       "onboard_time": 1751122584,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 218536,
+      "num": 283083,
+      "word": "猫妈妈洪水中叼着小猫绝处求生",
+      "onboard_time": 1751127742,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 215900,
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 188651,
-      "num": 149323,
+      "num": 149586,
       "word": "王玉雯不知道你喜欢哪个就都拍了",
       "onboard_time": 1751126362,
       "rank": 28,
@@ -200,6 +216,14 @@
       "word": "鹭卓演唱会突然肚子痛",
       "onboard_time": 1751119404,
       "rank": 25,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 151192,
+      "num": 151192,
+      "word": "王嘉尔给时代少年团颁奖",
+      "onboard_time": 1751128161,
+      "rank": 48,
       "category": "演出"
     },
     {
@@ -227,12 +251,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146247,
+      "num": 146247,
+      "word": "刘诗诗感谢大家的支持与鼓励",
+      "onboard_time": 1751127801,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140381,
       "num": 140381,
       "word": "低精力人群 炎症",
       "onboard_time": 1751093541,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 137605,
+      "num": 137605,
+      "word": "华晨宇宫廷玉液酒",
+      "onboard_time": 1751127921,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 137117,
@@ -259,20 +299,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128598,
+      "num": 128598,
+      "word": "桐心薇泯",
+      "onboard_time": 1751127861,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 115755,
+      "num": 194391,
+      "word": "公共场所故意裸露身体隐私部位将被罚",
+      "onboard_time": 1751124384,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112945,
       "num": 112945,
       "word": "周杰伦演唱会",
       "onboard_time": 1751127263,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 111189,
-      "num": 111189,
-      "word": "公共场所故意裸露身体隐私部位将被罚",
-      "onboard_time": 1751124384,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 107611,
@@ -291,19 +339,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 105825,
-      "num": 105825,
-      "word": "刘诗诗感谢大家的支持与鼓励",
-      "onboard_time": 1751127801,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 105412,
       "num": 105412,
       "word": "时代少年团舞台",
       "onboard_time": 1751124443,
       "rank": 39,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 102462,
+      "num": 102462,
+      "word": "谁懂小鬼雨中唱别叫我达芬奇的杀伤力",
+      "onboard_time": 1751128701,
+      "rank": 38,
       "category": "演出"
     },
     {
@@ -315,28 +363,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 97219,
-      "num": 97219,
-      "word": "桐心薇泯",
-      "onboard_time": 1751127861,
-      "rank": 41,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 95659,
       "num": 95659,
       "word": "吴宣仪新歌难道说",
       "onboard_time": 1751127201,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 94838,
-      "num": 94838,
-      "word": "华晨宇宫廷玉液酒",
-      "onboard_time": 1751127921,
-      "rank": 43,
-      "category": "演出"
     },
     {
       "raw_hot": 94784,
@@ -369,22 +401,6 @@
       "onboard_time": 1751111662,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 84930,
-      "num": 283083,
-      "word": "猫妈妈洪水中叼着小猫绝处求生",
-      "onboard_time": 1751127742,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 81051,
-      "num": 81051,
-      "word": "王嘉尔给时代少年团颁奖",
-      "onboard_time": 1751128161,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 73254,
