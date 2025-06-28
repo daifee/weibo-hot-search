@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1751089403831,
+  "endTime": 1751092499441,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -1451,6 +1451,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 881633,
+      "num": 624130,
+      "word": "蔡徐坤仅自己可见朋友圈",
+      "onboard_time": 1751088622,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 879634,
       "num": 879634,
       "word": "最难喝的奶茶",
@@ -1600,6 +1608,14 @@
       "word": "张若昀庆余年3官宣",
       "onboard_time": 1750601603,
       "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 841771,
+      "num": 446991,
+      "word": "关晓彤白玉兰大屏用了鹿晗发的照片",
+      "onboard_time": 1751083282,
+      "rank": 10,
       "category": "剧集"
     },
     {
@@ -1811,14 +1827,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 783960,
-      "num": 446991,
-      "word": "关晓彤白玉兰大屏用了鹿晗发的照片",
-      "onboard_time": 1751083282,
-      "rank": 10,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 783806,
       "num": 783806,
       "word": "成都地震",
@@ -1945,6 +1953,14 @@
       "onboard_time": 1750861403,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 752383,
+      "num": 323102,
+      "word": "尼坤怎么长这样了",
+      "onboard_time": 1751088862,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 750726,
@@ -2531,6 +2547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 643567,
+      "num": 643567,
+      "word": "贵州榕江拉响全城警报",
+      "onboard_time": 1751091143,
+      "rank": 1,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 642778,
       "num": 445329,
       "word": "运动瘦和饿瘦的区别",
@@ -2729,6 +2753,14 @@
       "onboard_time": 1750699819,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 616270,
+      "num": 319229,
+      "word": "沙溢儿子安吉14岁近照",
+      "onboard_time": 1751089401,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 612248,
@@ -3139,6 +3171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 547881,
+      "num": 547881,
+      "word": "邓超哭成悲伤蛙",
+      "onboard_time": 1751092040,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 547551,
       "num": 326468,
       "word": "老师高考差3分输赌约全班坐等开饭",
@@ -3233,6 +3273,14 @@
       "onboard_time": 1750571842,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 535349,
+      "num": 319684,
+      "word": "杨采钰挺孕肚出街",
+      "onboard_time": 1751088862,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 534825,
@@ -4337,14 +4385,6 @@
       "onboard_time": 1750568722,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 434460,
-      "num": 434460,
-      "word": "蔡徐坤仅自己可见朋友圈",
-      "onboard_time": 1751088622,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 432888,
@@ -5987,14 +6027,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 319684,
-      "num": 319684,
-      "word": "杨采钰挺孕肚出街",
-      "onboard_time": 1751088862,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 319065,
       "num": 319065,
       "word": "曝某艺人把奢牌赠包挂二手平台",
@@ -6145,6 +6177,14 @@
       "onboard_time": 1750916424,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 308737,
+      "num": 308737,
+      "word": "五哈",
+      "onboard_time": 1751088322,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 308418,
@@ -6483,14 +6523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 294495,
-      "num": 294495,
-      "word": "五哈",
-      "onboard_time": 1751088322,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 294429,
       "num": 378607,
       "word": "杨幂演技",
@@ -6529,14 +6561,6 @@
       "onboard_time": 1750651285,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 292602,
-      "num": 292602,
-      "word": "尼坤怎么长这样了",
-      "onboard_time": 1751088862,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 288756,
@@ -8316,7 +8340,7 @@
     },
     {
       "raw_hot": 222437,
-      "num": 222437,
+      "num": 329428,
       "word": "雷军说特斯拉确实了不起",
       "onboard_time": 1751089042,
       "rank": 26,
@@ -12363,6 +12387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 163757,
+      "num": 163757,
+      "word": "贺峻霖 密室大逃脱",
+      "onboard_time": 1751089282,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163678,
       "num": 163678,
       "word": "古人在90度垂直崖壁上盖了5层楼",
@@ -13411,6 +13443,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 152471,
+      "num": 152471,
+      "word": "东航",
+      "onboard_time": 1751089761,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152348,
       "num": 152348,
       "word": "白敬亭LV活动卷毛造型",
@@ -13537,6 +13577,14 @@
       "onboard_time": 1750514603,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150408,
+      "num": 141134,
+      "word": "从出生就住在出租房的孩子视角",
+      "onboard_time": 1751091743,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 150291,
@@ -13681,14 +13729,6 @@
       "onboard_time": 1750898603,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 148742,
-      "num": 148742,
-      "word": "贺峻霖 密室大逃脱",
-      "onboard_time": 1751089282,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 148630,
@@ -14641,6 +14681,14 @@
       "onboard_time": 1750913365,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141105,
+      "num": 141105,
+      "word": "颖儿做胆囊切除手术",
+      "onboard_time": 1751092462,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 141069,
@@ -15907,6 +15955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128654,
+      "num": 128654,
+      "word": "贝索斯婚礼",
+      "onboard_time": 1751091021,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 128624,
       "num": 423151,
       "word": "官方回应千年武则天无字碑加盖",
@@ -16715,6 +16771,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 121596,
+      "num": 121596,
+      "word": "预计贵州榕江县17时左右出现洪峰",
+      "onboard_time": 1751090482,
+      "rank": 38,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 121560,
       "num": 152577,
       "word": "李乃文常驻好吗",
@@ -16929,6 +16993,14 @@
       "onboard_time": 1750897221,
       "rank": 35,
       "category": "网红"
+    },
+    {
+      "raw_hot": 119016,
+      "num": 119016,
+      "word": "五台山和尚扔米",
+      "onboard_time": 1751091501,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118972,
@@ -17803,6 +17875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109394,
+      "num": 109394,
+      "word": "芭莎之夜出图",
+      "onboard_time": 1751090841,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 109261,
       "num": 172987,
       "word": "迪丽热巴私下逗狗",
@@ -18459,6 +18539,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 100409,
+      "num": 100409,
+      "word": "贵州小丹江苗寨多间民房被洪水冲走",
+      "onboard_time": 1751090542,
+      "rank": 46,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 100398,
       "num": 100398,
       "word": "狗狗 医生啊孩子能挺过来吗",
@@ -18593,6 +18681,14 @@
       "onboard_time": 1751005342,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 99308,
+      "num": 99308,
+      "word": "田嘉瑞时装周穿了粉丝严选",
+      "onboard_time": 1751092401,
+      "rank": 47,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 99137,
@@ -18849,6 +18945,14 @@
       "onboard_time": 1750725742,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 95191,
+      "num": 95191,
+      "word": "榕江提醒七大洪区人员全部撤离",
+      "onboard_time": 1751089943,
+      "rank": 49,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 95162,
@@ -22569,6 +22673,14 @@
       "onboard_time": 1750614444,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 29458,
+      "num": 213613,
+      "word": "榕江再遭洪水突袭亲历者发声",
+      "onboard_time": 1751091802,
+      "rank": 19,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 29421,
