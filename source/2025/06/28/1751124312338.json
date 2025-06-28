@@ -1,0 +1,410 @@
+{
+  "runTime": 1751124312338,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1700350,
+        "num": 1700350,
+        "word": "鹿晗工作室 从没回过因为一直都在",
+        "onboard_time": 1751122584,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 457229,
+        "num": 457229,
+        "word": "清华硕士靠文眉月入3万被母亲反对",
+        "onboard_time": 1751112621,
+        "rank": 1,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 87593,
+        "num": 384281,
+        "word": "紧急追加1亿元支持贵州灾后恢复",
+        "onboard_time": 1751119885,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1179207,
+        "num": 377496,
+        "word": "王源送车",
+        "onboard_time": 1751114362,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 360295,
+        "num": 360295,
+        "word": "废旧手机的含金量有多高",
+        "onboard_time": 1751120664,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345012,
+        "num": 345012,
+        "word": "男子称看劳斯莱斯后女友与销售互骂",
+        "onboard_time": 1751122044,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1086220,
+        "num": 341494,
+        "word": "方大同 金曲奖",
+        "onboard_time": 1751118563,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 802227,
+        "num": 340688,
+        "word": "宋茜Amber同框",
+        "onboard_time": 1751121684,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 329549,
+        "num": 329549,
+        "word": "低精力人群 炎症",
+        "onboard_time": 1751093541,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 62636,
+        "num": 328033,
+        "word": "到底什么是3C认证",
+        "onboard_time": 1751122945,
+        "rank": 9,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 2387627,
+        "num": 326655,
+        "word": "关晓彤 鹿晗",
+        "onboard_time": 1751119105,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 609390,
+        "num": 324380,
+        "word": "月入一万已经能生活得非常好了",
+        "onboard_time": 1751109861,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 491894,
+        "num": 322880,
+        "word": "杨紫已经三次陪跑白玉兰",
+        "onboard_time": 1751117902,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 479526,
+        "num": 318974,
+        "word": "森林北回怼网友",
+        "onboard_time": 1751122044,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 478168,
+        "num": 316740,
+        "word": "生理性喜欢是很恐怖的一件事",
+        "onboard_time": 1751107701,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1180148,
+        "num": 315321,
+        "word": "关晓彤回应粉丝",
+        "onboard_time": 1751120184,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456321,
+        "num": 314399,
+        "word": "邓紫棋现身孙颖莎评论区",
+        "onboard_time": 1751119164,
+        "rank": 16,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 434169,
+        "num": 310390,
+        "word": "金曲奖",
+        "onboard_time": 1751107461,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 350604,
+        "num": 309524,
+        "word": "王玉雯田曦薇合照",
+        "onboard_time": 1751119344,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 297325,
+        "num": 307319,
+        "word": "南京可口可乐博物馆60岁以上禁入",
+        "onboard_time": 1751122945,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305913,
+        "num": 305913,
+        "word": "特朗普说早知当总统这么危险就不选了",
+        "onboard_time": 1751122284,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 288522,
+        "num": 288522,
+        "word": "生理性喜欢的4个肢体信号",
+        "onboard_time": 1751122584,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 263698,
+        "num": 263698,
+        "word": "鬼灭之刃",
+        "onboard_time": 1751123603,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 232424,
+        "num": 232424,
+        "word": "贵州榕江拉响全城警报",
+        "onboard_time": 1751091143,
+        "rank": 23,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 80752,
+        "num": 228626,
+        "word": "斯瓦泰克无缘草地首冠",
+        "onboard_time": 1751121924,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227191,
+        "num": 227191,
+        "word": "孙颖莎发文大满贯见",
+        "onboard_time": 1751111662,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226260,
+        "num": 226260,
+        "word": "鹭卓演唱会突然肚子痛",
+        "onboard_time": 1751119404,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 224256,
+        "num": 224256,
+        "word": "宋佳恭喜1米73大美女",
+        "onboard_time": 1751111902,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210806,
+        "num": 210806,
+        "word": "BABYMONSTER演唱会的升降台塌了",
+        "onboard_time": 1751122645,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 206640,
+        "num": 206640,
+        "word": "国产大模型企业1年研发投入超百亿",
+        "onboard_time": 1751120964,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191247,
+        "num": 191247,
+        "word": "周传雄终于对楼顶票下手了",
+        "onboard_time": 1751123125,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 188549,
+        "num": 188549,
+        "word": "朱志鑫苏新皓是竹马也是天选",
+        "onboard_time": 1751123964,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185858,
+        "num": 185858,
+        "word": "金曲奖年度歌曲 星期五晚上",
+        "onboard_time": 1751123784,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 183626,
+        "num": 183626,
+        "word": "被王楚钦萌到了",
+        "onboard_time": 1751122645,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181146,
+        "num": 181146,
+        "word": "KPL",
+        "onboard_time": 1751123664,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 179331,
+        "num": 179331,
+        "word": "0713去看了王栎鑫演唱会",
+        "onboard_time": 1751123903,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 176353,
+        "num": 176353,
+        "word": "贺峻霖 贝雷帽",
+        "onboard_time": 1751123004,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 178685,
+        "num": 174435,
+        "word": "中韩泰男明星看秀外网生图",
+        "onboard_time": 1751122945,
+        "rank": 37,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 169401,
+        "num": 169401,
+        "word": "金曲奖直播",
+        "onboard_time": 1751115802,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 168989,
+        "num": 168989,
+        "word": "谁给李一桐做的造型",
+        "onboard_time": 1751118563,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 162725,
+        "num": 162725,
+        "word": "汪苏泷演唱会",
+        "onboard_time": 1751123544,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154606,
+        "num": 154606,
+        "word": "书卷一梦太癫了",
+        "onboard_time": 1751113703,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79651,
+        "num": 152272,
+        "word": "连云港2比0胜淮安",
+        "onboard_time": 1751123365,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151526,
+        "num": 151526,
+        "word": "一小区抽化粪池惊现3把砍刀",
+        "onboard_time": 1751124023,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148593,
+        "num": 148593,
+        "word": "黄圣依爸爸给了妈妈百分情绪价值",
+        "onboard_time": 1751122945,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145054,
+        "num": 145054,
+        "word": "被华晨宇这30秒rap点燃了",
+        "onboard_time": 1751123485,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137585,
+        "num": 137585,
+        "word": "李荣浩演唱会",
+        "onboard_time": 1751123303,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136416,
+        "num": 136416,
+        "word": "鬼灭之刃无限城篇正式预告",
+        "onboard_time": 1751122225,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 130999,
+        "num": 130999,
+        "word": "时代少年团国民男团",
+        "onboard_time": 1751120365,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120243,
+        "num": 120243,
+        "word": "女子与网红男主播非婚生女称要送养",
+        "onboard_time": 1751117782,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记讲述的这个故事意蕴深长#"
+    }
+  }
+}

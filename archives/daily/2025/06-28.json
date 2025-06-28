@@ -1,6 +1,6 @@
 {
   "startTime": 1751041984881,
-  "endTime": 1751121765596,
+  "endTime": 1751124312338,
   "band_list": [
     {
       "raw_hot": 4618253,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3374281,
-      "num": 285506,
+      "num": 326655,
       "word": "关晓彤 鹿晗",
       "onboard_time": 1751119105,
       "rank": 10,
@@ -43,6 +43,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1700350,
+      "num": 1700350,
+      "word": "鹿晗工作室 从没回过因为一直都在",
+      "onboard_time": 1751122584,
+      "rank": 0,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1659961,
       "num": 1470557,
       "word": "日本连环杀人犯家中藏9个人头",
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 1652174,
-      "num": 257745,
+      "num": 315321,
       "word": "关晓彤回应粉丝",
       "onboard_time": 1751120184,
       "rank": 16,
@@ -265,6 +273,14 @@
       "onboard_time": 1751106982,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 802227,
+      "num": 340688,
+      "word": "宋茜Amber同框",
+      "onboard_time": 1751121684,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 772596,
@@ -492,7 +508,7 @@
     },
     {
       "raw_hot": 532955,
-      "num": 259684,
+      "num": 314399,
       "word": "邓紫棋现身孙颖莎评论区",
       "onboard_time": 1751119164,
       "rank": 15,
@@ -529,6 +545,14 @@
       "onboard_time": 1751010686,
       "rank": 22,
       "category": "艺人,艺人"
+    },
+    {
+      "raw_hot": 479526,
+      "num": 318974,
+      "word": "森林北回怼网友",
+      "onboard_time": 1751122044,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 469852,
@@ -699,6 +723,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 360295,
+      "num": 360295,
+      "word": "废旧手机的含金量有多高",
+      "onboard_time": 1751120664,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 358482,
       "num": 358482,
       "word": "吴宣仪演唱会",
@@ -721,6 +753,14 @@
       "onboard_time": 1751039905,
       "rank": 16,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 345012,
+      "num": 345012,
+      "word": "男子称看劳斯莱斯后女友与销售互骂",
+      "onboard_time": 1751122044,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 339254,
@@ -811,6 +851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 305913,
+      "num": 305913,
+      "word": "特朗普说早知当总统这么危险就不选了",
+      "onboard_time": 1751122284,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 300922,
       "num": 196892,
       "word": "男子连吹3天空调肺白了一半",
@@ -832,6 +880,14 @@
       "word": "男子多次获刑摇身成为县财政局长",
       "onboard_time": 1751079864,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 297325,
+      "num": 307319,
+      "word": "南京可口可乐博物馆60岁以上禁入",
+      "onboard_time": 1751122945,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -857,6 +913,14 @@
       "onboard_time": 1751114603,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 288522,
+      "num": 288522,
+      "word": "生理性喜欢的4个肢体信号",
+      "onboard_time": 1751122584,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 286750,
@@ -907,6 +971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 263698,
+      "num": 263698,
+      "word": "鬼灭之刃",
+      "onboard_time": 1751123603,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 258443,
       "num": 211483,
       "word": "歌手排名",
@@ -929,14 +1001,6 @@
       "onboard_time": 1751108962,
       "rank": 28,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 255549,
-      "num": 255549,
-      "word": "废旧手机的含金量有多高",
-      "onboard_time": 1751120664,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 252523,
@@ -1065,6 +1129,14 @@
       "onboard_time": 1751041945,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 226260,
+      "num": 226260,
+      "word": "鹭卓演唱会突然肚子痛",
+      "onboard_time": 1751119404,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 225748,
@@ -1201,6 +1273,14 @@
       "onboard_time": 1751098342,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 210806,
+      "num": 210806,
+      "word": "BABYMONSTER演唱会的升降台塌了",
+      "onboard_time": 1751122645,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 210364,
@@ -1451,6 +1531,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 191247,
+      "num": 191247,
+      "word": "周传雄终于对楼顶票下手了",
+      "onboard_time": 1751123125,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 191118,
       "num": 191118,
       "word": "我以为天亮了结果天塌了",
@@ -1499,6 +1587,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 188549,
+      "num": 188549,
+      "word": "朱志鑫苏新皓是竹马也是天选",
+      "onboard_time": 1751123964,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188155,
       "num": 188155,
       "word": "白玉兰最佳cp",
@@ -1523,14 +1619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 187098,
-      "num": 187098,
-      "word": "鹭卓演唱会突然肚子痛",
-      "onboard_time": 1751119404,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
       "raw_hot": 185922,
       "num": 174959,
       "word": "鹿晗有一种经济上行的美",
@@ -1545,6 +1633,14 @@
       "onboard_time": 1751070021,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 185858,
+      "num": 185858,
+      "word": "金曲奖年度歌曲 星期五晚上",
+      "onboard_time": 1751123784,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 185755,
@@ -1587,6 +1683,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 183626,
+      "num": 183626,
+      "word": "被王楚钦萌到了",
+      "onboard_time": 1751122645,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183593,
       "num": 183593,
       "word": "苏轼真正的e人天花板",
@@ -1611,6 +1715,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 181146,
+      "num": 181146,
+      "word": "KPL",
+      "onboard_time": 1751123664,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 180286,
       "num": 180286,
       "word": "韩路 陈震",
@@ -1627,12 +1739,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179331,
+      "num": 179331,
+      "word": "0713去看了王栎鑫演唱会",
+      "onboard_time": 1751123903,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 179115,
       "num": 212976,
       "word": "张家界人造古城营业4年亏了10多亿",
       "onboard_time": 1751039005,
       "rank": 18,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 178685,
+      "num": 174435,
+      "word": "中韩泰男明星看秀外网生图",
+      "onboard_time": 1751122945,
+      "rank": 37,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 177687,
@@ -1665,6 +1793,14 @@
       "onboard_time": 1751066719,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 176353,
+      "num": 176353,
+      "word": "贺峻霖 贝雷帽",
+      "onboard_time": 1751123004,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 176315,
@@ -1737,6 +1873,14 @@
       "onboard_time": 1751093301,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169401,
+      "num": 169401,
+      "word": "金曲奖直播",
+      "onboard_time": 1751115802,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 169138,
@@ -1859,6 +2003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162725,
+      "num": 162725,
+      "word": "汪苏泷演唱会",
+      "onboard_time": 1751123544,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 162178,
       "num": 162178,
       "word": "我被王安宇笑毁了",
@@ -1889,14 +2041,6 @@
       "onboard_time": 1751077522,
       "rank": 33,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 162005,
-      "num": 162005,
-      "word": "金曲奖直播",
-      "onboard_time": 1751115802,
-      "rank": 46,
-      "category": "音乐"
     },
     {
       "raw_hot": 160178,
@@ -2083,6 +2227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151526,
+      "num": 151526,
+      "word": "一小区抽化粪池惊现3把砍刀",
+      "onboard_time": 1751124023,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150291,
       "num": 212798,
       "word": "美军打击伊朗核设施筹备了15年",
@@ -2131,6 +2283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148593,
+      "num": 148593,
+      "word": "黄圣依爸爸给了妈妈百分情绪价值",
+      "onboard_time": 1751122945,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148325,
       "num": 148325,
       "word": "潘玮柏斤斤计较",
@@ -2169,6 +2329,14 @@
       "onboard_time": 1751076564,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 145054,
+      "num": 145054,
+      "word": "被华晨宇这30秒rap点燃了",
+      "onboard_time": 1751123485,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 144976,
@@ -2315,19 +2483,19 @@
       "category": "教育,民生新闻"
     },
     {
-      "raw_hot": 138610,
-      "num": 135994,
-      "word": "宋茜Amber同框",
-      "onboard_time": 1751121684,
-      "rank": 42,
-      "category": "演出"
-    },
-    {
       "raw_hot": 138393,
       "num": 133569,
       "word": "王源跳双人舞笑场了",
       "onboard_time": 1751120004,
       "rank": 42,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 137585,
+      "num": 137585,
+      "word": "李荣浩演唱会",
+      "onboard_time": 1751123303,
+      "rank": 46,
       "category": "演出"
     },
     {
@@ -2353,6 +2521,14 @@
       "onboard_time": 1751097862,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 136416,
+      "num": 136416,
+      "word": "鬼灭之刃无限城篇正式预告",
+      "onboard_time": 1751122225,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 135888,
@@ -3163,12 +3339,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87593,
+      "num": 437878,
+      "word": "紧急追加1亿元支持贵州灾后恢复",
+      "onboard_time": 1751119885,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87176,
       "num": 241649,
       "word": "电商平台已禁止搜索3C贴纸",
       "onboard_time": 1751085142,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80752,
+      "num": 228626,
+      "word": "斯瓦泰克无缘草地首冠",
+      "onboard_time": 1751121924,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 80426,
@@ -3185,6 +3377,14 @@
       "onboard_time": 1751076622,
       "rank": 33,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 79651,
+      "num": 152272,
+      "word": "连云港2比0胜淮安",
+      "onboard_time": 1751123365,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 79032,
@@ -3299,14 +3499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 63859,
-      "num": 437878,
-      "word": "紧急追加1亿元支持贵州灾后恢复",
-      "onboard_time": 1751119885,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 63206,
       "num": 208891,
       "word": "恋与深空婚卡",
@@ -3329,6 +3521,14 @@
       "onboard_time": 1751088743,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62636,
+      "num": 328033,
+      "word": "到底什么是3C认证",
+      "onboard_time": 1751122945,
+      "rank": 9,
+      "category": "民生新闻,科学科普"
     },
     {
       "raw_hot": 62081,
