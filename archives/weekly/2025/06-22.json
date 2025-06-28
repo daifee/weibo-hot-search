@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1751103724055,
+  "endTime": 1751106368587,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -1139,6 +1139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1071875,
+      "num": 1071875,
+      "word": "Labubu发夹",
+      "onboard_time": 1751099602,
+      "rank": 46,
+      "category": "休闲,动漫"
+    },
+    {
       "raw_hot": 1069170,
       "num": 540261,
       "word": "琼海警方确认死者系失联学生李某栏",
@@ -1667,14 +1675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 838878,
-      "num": 838878,
-      "word": "Labubu发夹",
-      "onboard_time": 1751099602,
-      "rank": 46,
-      "category": "休闲,动漫"
-    },
-    {
       "raw_hot": 834936,
       "num": 834936,
       "word": "江苏分数线",
@@ -1945,6 +1945,14 @@
       "onboard_time": 1750660403,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 764244,
+      "num": 475279,
+      "word": "印度已婚男与远房亲戚恋爱双双跳崖",
+      "onboard_time": 1751101461,
+      "rank": 17,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 761351,
@@ -2779,6 +2787,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 622912,
+      "num": 329982,
+      "word": "刘亦菲",
+      "onboard_time": 1751102182,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 621726,
       "num": 350383,
       "word": "女孩哭诉从一年级被父亲藏匿7年",
@@ -3081,6 +3097,14 @@
       "onboard_time": 1750777584,
       "rank": 16,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 564710,
+      "num": 564710,
+      "word": "鹿晗回春",
+      "onboard_time": 1751102421,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 564669,
@@ -3971,14 +3995,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 475279,
-      "num": 475279,
-      "word": "印度已婚男与远房亲戚恋爱双双跳崖",
-      "onboard_time": 1751101461,
-      "rank": 17,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 474784,
       "num": 318686,
       "word": "蔡澜墓志铭想刻三个字",
@@ -4793,6 +4809,14 @@
       "onboard_time": 1750985663,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 405913,
+      "num": 468003,
+      "word": "叫了只炸鸡门店后厨成卧室蟑螂多",
+      "onboard_time": 1751104880,
+      "rank": 5,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 405824,
@@ -5923,6 +5947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 333105,
+      "num": 413216,
+      "word": "世界顶级数学家张益唐加盟中山大学",
+      "onboard_time": 1751103261,
+      "rank": 9,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 333042,
       "num": 666383,
       "word": "伊朗称已提前对核设施进行疏散",
@@ -6123,14 +6155,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 322224,
-      "num": 322224,
-      "word": "刘亦菲",
-      "onboard_time": 1751102182,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 321627,
       "num": 321627,
       "word": "道禄和尚前妻女儿现女友也涉案",
@@ -6225,6 +6249,14 @@
       "onboard_time": 1750727482,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 313356,
+      "num": 366260,
+      "word": "迪丽热巴直播",
+      "onboard_time": 1750591943,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 313273,
@@ -7073,14 +7105,6 @@
       "onboard_time": 1750643061,
       "rank": 20,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 272126,
-      "num": 366260,
-      "word": "迪丽热巴直播",
-      "onboard_time": 1750591943,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 272099,
@@ -8011,6 +8035,14 @@
       "category": "民生新闻,数码"
     },
     {
+      "raw_hot": 239281,
+      "num": 236235,
+      "word": "周翊然发了和张婧仪合照",
+      "onboard_time": 1751105182,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239097,
       "num": 239097,
       "word": "感觉减肥的人变少了",
@@ -8201,6 +8233,14 @@
       "onboard_time": 1750599024,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 231073,
+      "num": 231073,
+      "word": "女子欲卖50米手绘上河图救昏迷老公",
+      "onboard_time": 1751104822,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 230924,
@@ -8491,20 +8531,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 223145,
-      "num": 223145,
-      "word": "鹿晗回春",
-      "onboard_time": 1751102421,
-      "rank": 21,
-      "category": "演出"
-    },
-    {
       "raw_hot": 222690,
       "num": 222690,
       "word": "王安宇胡先煦不打不相识",
       "onboard_time": 1750663464,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 222651,
+      "num": 222651,
+      "word": "本科生和研究生毕业的区别belike",
+      "onboard_time": 1751103202,
+      "rank": 43,
+      "category": "幽默,休闲"
     },
     {
       "raw_hot": 222231,
@@ -8545,6 +8585,14 @@
       "onboard_time": 1750644802,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 220495,
+      "num": 220495,
+      "word": "王勉真没白健身",
+      "onboard_time": 1751104761,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 220048,
@@ -9265,6 +9313,14 @@
       "onboard_time": 1750773805,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206678,
+      "num": 206678,
+      "word": "时代少年团芭莎之夜路透",
+      "onboard_time": 1751104341,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 206434,
@@ -10056,6 +10112,14 @@
       "word": "老人与儿子吵架后刺伤儿媳获刑3年",
       "onboard_time": 1751101280,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197647,
+      "num": 197647,
+      "word": "鸟巢回应禁带标语并非针对河北",
+      "onboard_time": 1751102361,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -11699,6 +11763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177610,
+      "num": 177610,
+      "word": "华晨宇又促成了一对恋人",
+      "onboard_time": 1751105482,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 177440,
       "num": 310101,
       "word": "顺丰等快递拒收召回充电宝",
@@ -12377,14 +12449,6 @@
       "onboard_time": 1750866382,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 168648,
-      "num": 168648,
-      "word": "鸟巢回应禁带标语并非针对河北",
-      "onboard_time": 1751102361,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 168617,
@@ -15667,6 +15731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135888,
+      "num": 135888,
+      "word": "杨瀚森想和JonyJ互动",
+      "onboard_time": 1751104161,
+      "rank": 36,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 135877,
       "num": 258319,
       "word": "许凯邓恩熙新剧约会用跑的",
@@ -16115,6 +16187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132010,
+      "num": 132010,
+      "word": "李现说看杨紫看了十四年了",
+      "onboard_time": 1751103802,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131877,
       "num": 170061,
       "word": "中年女演员 真正的好东西",
@@ -16385,6 +16465,14 @@
       "onboard_time": 1750919181,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129443,
+      "num": 132065,
+      "word": "榕江",
+      "onboard_time": 1751104822,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129339,
@@ -16777,14 +16865,6 @@
       "onboard_time": 1750591641,
       "rank": 41,
       "category": "教育"
-    },
-    {
-      "raw_hot": 126092,
-      "num": 126092,
-      "word": "本科生和研究生毕业的区别belike",
-      "onboard_time": 1751103202,
-      "rank": 43,
-      "category": "幽默,休闲"
     },
     {
       "raw_hot": 126041,
@@ -17369,6 +17449,14 @@
       "onboard_time": 1750762582,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121043,
+      "num": 121043,
+      "word": "三进宫还当局长谁提拔的必须彻查",
+      "onboard_time": 1751105601,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120998,
@@ -18411,6 +18499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110678,
+      "num": 109738,
+      "word": "苏新皓你知道的我经常求人",
+      "onboard_time": 1751106321,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110655,
       "num": 110655,
       "word": "这是军人优先的原因",
@@ -18457,6 +18553,14 @@
       "onboard_time": 1751075242,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 109999,
+      "num": 109999,
+      "word": "孙颖莎说大满贯见",
+      "onboard_time": 1751103742,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 109898,
@@ -20147,6 +20251,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 85368,
+      "num": 132012,
+      "word": "于适分享Dior秀后感受",
+      "onboard_time": 1751105061,
+      "rank": 41,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 85181,
       "num": 120473,
       "word": "LPL出征倒计时",
@@ -20369,14 +20481,6 @@
       "onboard_time": 1750547297,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 79842,
-      "num": 413216,
-      "word": "世界顶级数学家张益唐加盟中山大学",
-      "onboard_time": 1751103261,
-      "rank": 9,
-      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 79698,
@@ -22067,6 +22171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 49592,
+      "num": 155418,
+      "word": "这就是中国人的团结",
+      "onboard_time": 1751104880,
+      "rank": 30,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 49549,
       "num": 49549,
       "word": "小米回应已修复bug",
@@ -23107,6 +23219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33757,
+      "num": 147302,
+      "word": "1000多名武警紧急驰援贵州榕江",
+      "onboard_time": 1751106202,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33697,
       "num": 162404,
       "word": "绝区零橘福福",
@@ -23116,7 +23236,7 @@
     },
     {
       "raw_hot": 33648,
-      "num": 775421,
+      "num": 790758,
       "word": "6组数据看我国中小企业发展成就",
       "onboard_time": 1751102002,
       "rank": 2,
@@ -23395,6 +23515,14 @@
       "category": "民生新闻,动漫"
     },
     {
+      "raw_hot": 29688,
+      "num": 316901,
+      "word": "严重校园欺凌不上报将被责令改正",
+      "onboard_time": 1751104880,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29655,
       "num": 133315,
       "word": "有的怪味千万不能多闻",
@@ -23601,6 +23729,14 @@
       "onboard_time": 1750847120,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 27625,
+      "num": 134768,
+      "word": "洪水带着车涌入地库",
+      "onboard_time": 1751104341,
+      "rank": 37,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 27615,
@@ -24579,6 +24715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16083,
+      "num": 162336,
+      "word": "将考试作弊纳入扰乱公共秩序行为",
+      "onboard_time": 1751104880,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16058,
       "num": 163722,
       "word": "宠物犬上培训班中暑死亡机构怎么赔",
@@ -24841,6 +24985,14 @@
       "onboard_time": 1750536733,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 10971,
+      "num": 132444,
+      "word": "跟知名coser一起嗨跳随舞",
+      "onboard_time": 1751105061,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 10578,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/28 17:42:04
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/28 18:26:08
 </p>
 </blockquote>
 <p>
@@ -3255,6 +3255,12 @@ B站崩了（热度：1103539）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Labubu%E5%8F%91%E5%A4%B9%23" target="weibo">
+Labubu发夹（热度：1071875）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%90%BC%E6%B5%B7%E8%AD%A6%E6%96%B9%E7%A1%AE%E8%AE%A4%E6%AD%BB%E8%80%85%E7%B3%BB%E5%A4%B1%E8%81%94%E5%AD%A6%E7%94%9F%E6%9D%8E%E6%9F%90%E6%A0%8F%23" target="weibo">
 琼海警方确认死者系失联学生李某栏（热度：1069170）
 </a>
@@ -4905,12 +4911,6 @@ AL战胜BLG（热度：859667）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23Labubu%E5%8F%91%E5%A4%B9%23" target="weibo">
-Labubu发夹（热度：838878）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%A4%A9%E6%B4%A5%23" target="weibo">
 迪丽热巴天津（热度：837394）
 </a>
@@ -5661,6 +5661,12 @@ T3司机猥亵大三女生被行拘5日（热度：810171）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%B7%B2%E5%A9%9A%E7%94%B7%E4%B8%8E%E8%BF%9C%E6%88%BF%E4%BA%B2%E6%88%9A%E6%81%8B%E7%88%B1%E5%8F%8C%E5%8F%8C%E8%B7%B3%E5%B4%96%23" target="weibo">
+印度已婚男与远房亲戚恋爱双双跳崖（热度：764244）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%8A%B6%E6%80%81%23" target="weibo">
 樊振东状态（热度：763908）
 </a>
@@ -6005,12 +6011,6 @@ F35（热度：742995）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%9E%9C%E5%B4%A9%E4%BA%86%23" target="weibo">
 红果崩了（热度：733273）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E6%AC%A2%E8%BF%8E%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E6%9D%A5%E7%BE%8E%E5%AD%A6%E4%B9%A0%23" target="weibo">
-特朗普说欢迎中国留学生来美学习（热度：733164）
 </a>
 </li>
 
