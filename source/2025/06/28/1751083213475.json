@@ -1,0 +1,410 @@
+{
+  "runTime": 1751083213475,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1758070,
+        "num": 1758070,
+        "word": "关晓彤确实是藏不住事的年纪",
+        "onboard_time": 1751080463,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 927960,
+        "num": 927960,
+        "word": "张桂梅",
+        "onboard_time": 1751069782,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17925,
+        "num": 759964,
+        "word": "数说中国物流亮眼成绩单",
+        "onboard_time": 1751082802,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1278055,
+        "num": 718168,
+        "word": "日本连环杀人犯家中藏9个人头",
+        "onboard_time": 1751074403,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 674890,
+        "num": 674890,
+        "word": "有3C标识充电宝也不都能登机",
+        "onboard_time": 1751080761,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 647976,
+        "num": 647976,
+        "word": "流浪地球3官宣马丽",
+        "onboard_time": 1751081722,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 540383,
+        "num": 540383,
+        "word": "南昌舰以一对二逼退外舰",
+        "onboard_time": 1751079384,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 442715,
+        "num": 442715,
+        "word": "鹿晗就我一个人慢慢变老了吗",
+        "onboard_time": 1751076323,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 325020,
+        "num": 325020,
+        "word": "亲爱的你定档",
+        "onboard_time": 1751082501,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297794,
+        "num": 297794,
+        "word": "男子多次获刑摇身成为县财政局长",
+        "onboard_time": 1751079864,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370142,
+        "num": 297370,
+        "word": "宋佳白玉兰视后",
+        "onboard_time": 1751036790,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 365400,
+        "num": 292057,
+        "word": "外卖员吐槽殡仪馆深夜有人点外卖",
+        "onboard_time": 1751080761,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286051,
+        "num": 286051,
+        "word": "卢昱晓礼服下面是拖鞋",
+        "onboard_time": 1751082562,
+        "rank": 12,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 276421,
+        "num": 276421,
+        "word": "以色列密谋在美实施爆炸栽赃伊朗",
+        "onboard_time": 1751081541,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 265527,
+        "num": 265527,
+        "word": "一定要申请一个工作微信号",
+        "onboard_time": 1751081182,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 67590,
+        "num": 260778,
+        "word": "官方通报湖南澧县母子溺水身亡",
+        "onboard_time": 1751082802,
+        "rank": 15,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 303286,
+        "num": 260539,
+        "word": "宋佳获奖闫妮送了她一朵棉花",
+        "onboard_time": 1751074103,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259610,
+        "num": 259610,
+        "word": "蒋奇明 我干了谢谢大家",
+        "onboard_time": 1751079143,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194790,
+        "num": 249804,
+        "word": "中国新能源车冲击耐力极限",
+        "onboard_time": 1751080761,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 28330,
+        "num": 248279,
+        "word": "秦华天然气回应更换软管灶具也得换",
+        "onboard_time": 1751081602,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248180,
+        "num": 248180,
+        "word": "运动瘦和饿瘦的区别",
+        "onboard_time": 1751082382,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 437928,
+        "num": 247889,
+        "word": "女孩被生父继母罐1600片泻药",
+        "onboard_time": 1751082382,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246781,
+        "num": 246781,
+        "word": "被打还手即互殴成为历史",
+        "onboard_time": 1751037269,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238256,
+        "num": 238256,
+        "word": "白玉兰神图",
+        "onboard_time": 1751069061,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221009,
+        "num": 221009,
+        "word": "荔枝壳 农药",
+        "onboard_time": 1751075303,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 209378,
+        "num": 209378,
+        "word": "高考生696分带火家中店铺",
+        "onboard_time": 1751081963,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207081,
+        "num": 207081,
+        "word": "你好星期六有点浪漫有点甜",
+        "onboard_time": 1751082742,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193292,
+        "num": 193292,
+        "word": "大爷4块买西瓜觉得不对返回提醒",
+        "onboard_time": 1751079502,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182751,
+        "num": 186278,
+        "word": "白玉兰",
+        "onboard_time": 1751068218,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37571,
+        "num": 185488,
+        "word": "品牌金饰价跌至千元以下",
+        "onboard_time": 1751082022,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184762,
+        "num": 184762,
+        "word": "女子电梯口被毒蛇咬老公教科书式操作",
+        "onboard_time": 1751070382,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173531,
+        "num": 173531,
+        "word": "鱿鱼游戏 烂尾",
+        "onboard_time": 1751077822,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159287,
+        "num": 159287,
+        "word": "白玉兰视后颁奖这段太好看了",
+        "onboard_time": 1751082441,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159061,
+        "num": 159061,
+        "word": "白玉兰获奖名单",
+        "onboard_time": 1751032048,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144807,
+        "num": 144807,
+        "word": "这下侃爷真成沪Ye了",
+        "onboard_time": 1751082862,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141956,
+        "num": 141956,
+        "word": "特朗普称放弃解除对伊朗制裁",
+        "onboard_time": 1751074823,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 41281,
+        "num": 141673,
+        "word": "7月这些新规影响你我",
+        "onboard_time": 1751031627,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141413,
+        "num": 141413,
+        "word": "小猫误入洗衣机转了55分钟3000转",
+        "onboard_time": 1751037694,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130030,
+        "num": 130030,
+        "word": "殡仪馆回应被骑手吐槽深夜叫外卖",
+        "onboard_time": 1751082501,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128651,
+        "num": 128651,
+        "word": "男子连吹3天空调肺白了一半",
+        "onboard_time": 1751069421,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128600,
+        "num": 128600,
+        "word": "江西三支一扶",
+        "onboard_time": 1751082142,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 127707,
+        "num": 127707,
+        "word": "刘亦菲没去白玉兰",
+        "onboard_time": 1751030665,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123965,
+        "num": 123965,
+        "word": "王宝强回应白玉兰提名",
+        "onboard_time": 1751078782,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 343100,
+        "num": 123624,
+        "word": "关晓彤的头脸已经很小了",
+        "onboard_time": 1751076622,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122572,
+        "num": 122572,
+        "word": "在日本捡到Labubu之后",
+        "onboard_time": 1751081482,
+        "rank": 44,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 119889,
+        "num": 119889,
+        "word": "登陆少年搪胶娃娃",
+        "onboard_time": 1751080822,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112713,
+        "num": 112713,
+        "word": "小米YU7爆单影响SU7交付吗",
+        "onboard_time": 1751079684,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 112406,
+        "num": 112406,
+        "word": "西贝暑假工 偷拍",
+        "onboard_time": 1751077044,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108449,
+        "num": 108449,
+        "word": "cpf要的莫名其妙亲个嘴真拍了",
+        "onboard_time": 1751080404,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104285,
+        "num": 104285,
+        "word": "米奇夺冠希然泪崩",
+        "onboard_time": 1751083162,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平签署国家主席令#"
+    }
+  }
+}

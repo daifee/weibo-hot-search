@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/28 11:32:40
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/28 12:00:13
 </p>
 </blockquote>
 <p>
@@ -6647,6 +6647,12 @@ T1战胜HLE（热度：729129）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E7%AC%AC%E5%9B%9B%E5%8D%81%E4%B9%9D%E5%8F%B7%E4%B8%BB%E5%B8%AD%E4%BB%A4%23%23" target="weibo">
 #第四十九号主席令#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%AD%BE%E7%BD%B2%E5%9B%BD%E5%AE%B6%E4%B8%BB%E5%B8%AD%E4%BB%A4%23%23" target="weibo">
+#习近平签署国家主席令#
 </a>
 </li>
 
