@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/29 00:30:20 ~ 2025/06/29 02:33:33
+本榜单时间：2025/06/29 00:30:20 ~ 2025/06/29 02:48:20
 </p>
 </blockquote>
 <p>
@@ -340,7 +340,7 @@ BABYMONSTER演唱会的升降台塌了（热度：130123）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%9C%AA%E6%8B%B4%E7%BB%B3%E7%8B%BC%E7%8A%AC%E5%92%AC%E4%BC%A4%E4%B8%BB%E4%BA%BA%E8%B5%94%E5%81%BF500%E5%85%83%23" target="weibo">
-女子被未拴绳狼犬咬伤主人赔偿500元（热度：78210）
+女子被未拴绳狼犬咬伤主人赔偿500元（热度：78912）
 </a>
 </li>
 
@@ -381,14 +381,14 @@ BABYMONSTER演唱会的升降台塌了（热度：130123）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E8%AF%B4%E5%A4%AA%E5%8E%9F%E4%B8%8D%E6%84%A7%E6%98%AF%E6%AD%8C%E8%BF%B7%E4%B9%8B%E9%83%BD%23" target="weibo">
-汪苏泷说太原不愧是歌迷之都（热度：50533）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%B0%E8%BF%AA%E5%88%AE%E5%BD%A9%E7%A5%A8%E4%BB%A5%E4%B8%BA%E4%B8%AD%E4%BA%867%E4%B8%87%23" target="weibo">
+李兰迪刮彩票以为中了7万（热度：54528）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%B0%E8%BF%AA%E5%88%AE%E5%BD%A9%E7%A5%A8%E4%BB%A5%E4%B8%BA%E4%B8%AD%E4%BA%867%E4%B8%87%23" target="weibo">
-李兰迪刮彩票以为中了7万（热度：48715）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E8%AF%B4%E5%A4%AA%E5%8E%9F%E4%B8%8D%E6%84%A7%E6%98%AF%E6%AD%8C%E8%BF%B7%E4%B9%8B%E9%83%BD%23" target="weibo">
+汪苏泷说太原不愧是歌迷之都（热度：50533）
 </a>
 </li>
 
@@ -413,6 +413,12 @@ BABYMONSTER演唱会的升降台塌了（热度：130123）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%BC%A0%E8%BA%AB%E4%BA%A1%E4%BC%8A%E6%9C%97%E9%AB%98%E5%AE%98%E7%8E%B0%E8%BA%AB%E5%9B%BD%E8%91%AC%23" target="weibo">
 被传身亡伊朗高官现身国葬（热度：30401）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E%E6%9D%91%E8%B6%85%E7%90%83%E5%9C%BA%E5%86%8D%E6%AC%A1%E8%A2%AB%E6%B7%B9%23" target="weibo">
+贵州村超球场再次被淹（热度：15252）
 </a>
 </li>
 
