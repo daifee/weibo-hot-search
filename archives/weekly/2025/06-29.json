@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751150568656,
+  "endTime": 1751153085914,
   "band_list": [
     {
       "raw_hot": 1477036,
@@ -163,6 +163,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 231132,
+      "num": 231132,
+      "word": "李兰迪刮彩票以为中了7万",
+      "onboard_time": 1751135475,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221598,
       "num": 214225,
       "word": "生理性喜欢的4个肢体信号",
@@ -267,6 +275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142457,
+      "num": 69512,
+      "word": "加拿大命令中企海康威视停止运营",
+      "onboard_time": 1751150114,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 140381,
       "num": 140381,
       "word": "低精力人群 炎症",
@@ -313,14 +329,6 @@
       "onboard_time": 1751127861,
       "rank": 41,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 127220,
-      "num": 127220,
-      "word": "李兰迪刮彩票以为中了7万",
-      "onboard_time": 1751135475,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 116122,
@@ -387,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96938,
+      "num": 96938,
+      "word": "直击贵州榕江洪水最新情况",
+      "onboard_time": 1751150356,
+      "rank": 41,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 95659,
       "num": 95659,
       "word": "吴宣仪新歌难道说",
@@ -417,6 +433,14 @@
       "onboard_time": 1751126002,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87711,
+      "num": 122805,
+      "word": "特朗普T1手机被曝由中国公司生产",
+      "onboard_time": 1751152696,
+      "rank": 9,
+      "category": "数码,国际时政"
     },
     {
       "raw_hot": 85622,
@@ -483,20 +507,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 68480,
-      "num": 33481,
-      "word": "加拿大命令中企海康威视停止运营",
-      "onboard_time": 1751150114,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 63139,
       "num": 63139,
       "word": "长期睡不够有哪些危害",
       "onboard_time": 1751130019,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 61141,
+      "num": 61141,
+      "word": "被传身亡伊朗高官现身国葬",
+      "onboard_time": 1751108481,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 60758,
+      "num": 60758,
+      "word": "接天莲叶无穷碧在这里具象化了",
+      "onboard_time": 1751149036,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59863,
@@ -523,12 +555,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 45875,
-      "num": 45875,
-      "word": "被传身亡伊朗高官现身国葬",
-      "onboard_time": 1751108481,
+      "raw_hot": 46810,
+      "num": 46810,
+      "word": "种甘蓝硬如铅球农户傻眼",
+      "onboard_time": 1751148016,
       "rank": 42,
-      "category": "国际时政"
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43194,
+      "num": 43194,
+      "word": "张晚意综艺感",
+      "onboard_time": 1751140994,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 34665,
@@ -547,27 +587,19 @@
       "category": "演出"
     },
     {
-      "raw_hot": 29492,
-      "num": 29492,
-      "word": "张晚意综艺感",
-      "onboard_time": 1751140994,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 28644,
-      "num": 28644,
-      "word": "种甘蓝硬如铅球农户傻眼",
-      "onboard_time": 1751148016,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24151,
-      "num": 27977,
+      "raw_hot": 27632,
+      "num": 43159,
       "word": "找回丢了26天的手机",
       "onboard_time": 1751140394,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26578,
+      "num": 43147,
+      "word": "工人回应抽化粪池发现3把砍刀",
+      "onboard_time": 1751145614,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -579,28 +611,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 23176,
-      "num": 27977,
-      "word": "直击贵州榕江洪水最新情况",
-      "onboard_time": 1751150356,
-      "rank": 41,
-      "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 22992,
-      "num": 27977,
-      "word": "接天莲叶无穷碧在这里具象化了",
-      "onboard_time": 1751149036,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21490,
-      "num": 27977,
-      "word": "工人回应抽化粪池发现3把砍刀",
-      "onboard_time": 1751145614,
-      "rank": 40,
-      "category": "民生新闻"
+      "raw_hot": 22053,
+      "num": 43139,
+      "word": "45岁不结婚的女人怎样了",
+      "onboard_time": 1751153057,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 20238,
