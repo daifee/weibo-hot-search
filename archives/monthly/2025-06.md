@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/29 00:46:37
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/29 01:22:24
 </p>
 </blockquote>
 <p>
@@ -5937,6 +5937,12 @@ LV 王楚钦（热度：752490）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8E%86%E7%94%B08%E5%B2%81%E5%A4%B1%E8%81%94%E7%94%B7%E7%AB%A5%E5%B0%B8%E4%BD%93%E8%A2%AB%E5%8F%91%E7%8E%B0%23" target="weibo">
+莆田8岁失联男童尸体被发现（热度：747130）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E8%AE%A9%E4%BD%A0%E7%A9%BF%E9%9B%A8%E8%A1%A3%E6%B2%A1%E8%AE%A9%E4%BD%A0%E7%A9%BF%E8%BF%99%E6%AC%BE%23" target="weibo">
 周深让你穿雨衣没让你穿这款（热度：745777）
 </a>
@@ -6005,12 +6011,6 @@ F35（热度：742995）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E8%82%A1%E7%A5%A8%23" target="weibo">
 小米股票（热度：740515）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E9%80%80%E5%AD%A6%E4%B8%8A%E6%B8%85%E5%8D%8E%E7%94%B7%E7%94%9F%E5%9B%9E%E5%BA%94%E5%8D%A0%E5%90%8D%E9%A2%9D%E8%B4%A8%E7%96%91%23" target="weibo">
-北大退学上清华男生回应占名额质疑（热度：740436）
 </a>
 </li>
 
