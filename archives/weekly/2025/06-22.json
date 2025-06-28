@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1751099504287,
+  "endTime": 1751100327482,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -916,7 +916,7 @@
     },
     {
       "raw_hot": 1184025,
-      "num": 353623,
+      "num": 387402,
       "word": "低精力人群 炎症",
       "onboard_time": 1751093541,
       "rank": 12,
@@ -1481,6 +1481,14 @@
       "onboard_time": 1750995262,
       "rank": 21,
       "category": "数码"
+    },
+    {
+      "raw_hot": 889314,
+      "num": 1142290,
+      "word": "高考637分物理老师称不占录取名额",
+      "onboard_time": 1751096122,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 881633,
@@ -3067,14 +3075,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 564595,
-      "num": 564595,
-      "word": "高考637分物理老师称不占录取名额",
-      "onboard_time": 1751096122,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 564498,
       "num": 564498,
       "word": "救百名弃婴和尚挥霍大量爱心善款",
@@ -4003,6 +4003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 469852,
+      "num": 450341,
+      "word": "蔡澜 陈宝莲",
+      "onboard_time": 1751094621,
+      "rank": 21,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 469663,
       "num": 469663,
       "word": "半岁宝宝反复咳体内取出17厘米巨瘤",
@@ -4137,14 +4145,6 @@
       "onboard_time": 1750750161,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 455271,
-      "num": 377689,
-      "word": "蔡澜 陈宝莲",
-      "onboard_time": 1751094621,
-      "rank": 21,
-      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 455137,
@@ -4443,6 +4443,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 435219,
+      "num": 435219,
+      "word": "以军被爆射杀难民如同鱿鱼游戏",
+      "onboard_time": 1751096001,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 435178,
       "num": 435178,
       "word": "伊朗称福尔多核设施仅地上受损",
@@ -4521,14 +4529,6 @@
       "onboard_time": 1750595841,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 426942,
-      "num": 426942,
-      "word": "以军被爆射杀难民如同鱿鱼游戏",
-      "onboard_time": 1751096001,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 423756,
@@ -8435,6 +8435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 223353,
+      "num": 223353,
+      "word": "王俊凯送王源演唱会花篮",
+      "onboard_time": 1751099782,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 223250,
       "num": 682033,
       "word": "妻女患癌丈夫深夜直播跳舞挣钱",
@@ -8923,6 +8931,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 210865,
+      "num": 210865,
+      "word": "40岁C罗签下体育史上最贵合约",
+      "onboard_time": 1751098342,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210364,
       "num": 210363,
       "word": "章若楠王楚然 跑男",
@@ -9089,14 +9105,6 @@
       "onboard_time": 1750690404,
       "rank": 21,
       "category": "教育"
-    },
-    {
-      "raw_hot": 208043,
-      "num": 208043,
-      "word": "40岁C罗签下体育史上最贵合约",
-      "onboard_time": 1751098342,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 208027,
@@ -10409,6 +10417,14 @@
       "onboard_time": 1750930401,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193803,
+      "num": 300216,
+      "word": "赛里木湖漂移事件破坏草原约13亩",
+      "onboard_time": 1751097743,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193623,
@@ -12027,6 +12043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 170767,
+      "num": 170767,
+      "word": "芭莎之夜出图",
+      "onboard_time": 1751090841,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 170717,
       "num": 170717,
       "word": "古人嗦螺蛳把壳堆满9米深坑",
@@ -12331,6 +12355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167174,
+      "num": 167174,
+      "word": "芭莎 高温补贴",
+      "onboard_time": 1751098222,
+      "rank": 26,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 167140,
       "num": 355569,
       "word": "vivoXFold5人称小MacBook",
@@ -12353,14 +12385,6 @@
       "onboard_time": 1750640721,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 167063,
-      "num": 167063,
-      "word": "芭莎之夜出图",
-      "onboard_time": 1751090841,
-      "rank": 43,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 166990,
@@ -12489,14 +12513,6 @@
       "onboard_time": 1751085682,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 164933,
-      "num": 164933,
-      "word": "芭莎 高温补贴",
-      "onboard_time": 1751098222,
-      "rank": 26,
-      "category": "时尚"
     },
     {
       "raw_hot": 164925,
@@ -12641,6 +12657,14 @@
       "onboard_time": 1750593922,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 163469,
+      "num": 163469,
+      "word": "赵今麦 黑长直高智学姐",
+      "onboard_time": 1751099662,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 163417,
@@ -15723,6 +15747,14 @@
       "category": "财经,汽车"
     },
     {
+      "raw_hot": 133615,
+      "num": 133615,
+      "word": "金智秀怎么美成这样",
+      "onboard_time": 1751100082,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133520,
       "num": 133520,
       "word": "看看汪苏泷吧哪怕就一秒",
@@ -16401,6 +16433,14 @@
       "onboard_time": 1750584742,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128055,
+      "num": 128055,
+      "word": "杨紫李现歌手2025VCR",
+      "onboard_time": 1751099961,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 127989,
@@ -17203,6 +17243,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 120745,
+      "num": 120745,
+      "word": "Labubu发夹",
+      "onboard_time": 1751099602,
+      "rank": 46,
+      "category": "休闲,动漫"
+    },
+    {
       "raw_hot": 120698,
       "num": 176730,
       "word": "刘亦菲LV巨轮转场",
@@ -17313,14 +17361,6 @@
       "onboard_time": 1750826903,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 119312,
-      "num": 300216,
-      "word": "赛里木湖漂移事件破坏草原约13亩",
-      "onboard_time": 1751097743,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119308,
@@ -17851,6 +17891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113252,
+      "num": 113252,
+      "word": "突然get到了河南话的魅力",
+      "onboard_time": 1751098881,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 113186,
       "num": 310583,
       "word": "美防长让记者带个铲子去伊朗",
@@ -18233,6 +18281,14 @@
       "onboard_time": 1750925062,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109705,
+      "num": 109705,
+      "word": "张若昀紧张成大张伟了",
+      "onboard_time": 1751100261,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 109704,
@@ -20073,6 +20129,14 @@
       "onboard_time": 1751020882,
       "rank": 25,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 80426,
+      "num": 306301,
+      "word": "贵州雷山暴雨山洪冲入居民楼",
+      "onboard_time": 1751099542,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80409,
@@ -22083,6 +22147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44927,
+      "num": 162251,
+      "word": "女子吃冷饮后脑子抽筋了",
+      "onboard_time": 1751099482,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44703,
       "num": 456425,
       "word": "网友称充电宝不在召回范围仍被扣留",
@@ -22281,6 +22353,14 @@
       "onboard_time": 1751017161,
       "rank": 24,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 42037,
+      "num": 139475,
+      "word": "原来土豆还有这种技能",
+      "onboard_time": 1751099061,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 42018,
@@ -22859,6 +22939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32414,
+      "num": 407992,
+      "word": "航拍贵州榕江撤离现场",
+      "onboard_time": 1751099602,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32326,
       "num": 307836,
       "word": "民营医院开救护车取快递引质疑",
@@ -23305,14 +23393,6 @@
       "onboard_time": 1750923081,
       "rank": 9,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 27477,
-      "num": 134743,
-      "word": "女子吃冷饮后脑子抽筋了",
-      "onboard_time": 1751099482,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27471,
@@ -24100,7 +24180,7 @@
     },
     {
       "raw_hot": 17978,
-      "num": 136691,
+      "num": 137996,
       "word": "rapper的肺活量有多大",
       "onboard_time": 1751098581,
       "rank": 39,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/28 16:31:44
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/28 16:45:27
 </p>
 </blockquote>
 <p>
@@ -4437,6 +4437,12 @@ COSMO盛典（热度：895852）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83637%E5%88%86%E7%89%A9%E7%90%86%E8%80%81%E5%B8%88%E7%A7%B0%E4%B8%8D%E5%8D%A0%E5%BD%95%E5%8F%96%E5%90%8D%E9%A2%9D%23" target="weibo">
+高考637分物理老师称不占录取名额（热度：889314）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E6%91%87%E6%BB%9A%23" target="weibo">
 陈楚生摇滚（热度：888545）
 </a>
@@ -6005,12 +6011,6 @@ F35（热度：742995）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%86%E6%95%B0%E7%BA%BF%23" target="weibo">
 分数线（热度：732560）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%AF%8C%E4%BA%BA%E7%9A%84%E5%AE%B6%E5%BA%AD%E6%99%9A%E9%A4%90%23" target="weibo">
-印度富人的家庭晚餐（热度：732189）
 </a>
 </li>
 
