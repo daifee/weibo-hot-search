@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1751085151695,
+  "endTime": 1751086152117,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -1675,6 +1675,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 816523,
+      "num": 816523,
+      "word": "有3C标识充电宝也不都能登机",
+      "onboard_time": 1751080761,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 816519,
       "num": 816519,
       "word": "山东高考成绩",
@@ -1796,7 +1804,7 @@
     },
     {
       "raw_hot": 783960,
-      "num": 322006,
+      "num": 446991,
       "word": "关晓彤白玉兰大屏用了鹿晗发的照片",
       "onboard_time": 1751083282,
       "rank": 10,
@@ -2001,14 +2009,6 @@
       "onboard_time": 1750996223,
       "rank": 45,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 730012,
-      "num": 730012,
-      "word": "有3C标识充电宝也不都能登机",
-      "onboard_time": 1751080761,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 729938,
@@ -2468,7 +2468,7 @@
     },
     {
       "raw_hot": 646455,
-      "num": 321189,
+      "num": 444885,
       "word": "外卖员吐槽殡仪馆深夜有人点外卖",
       "onboard_time": 1751080761,
       "rank": 16,
@@ -2777,6 +2777,14 @@
       "onboard_time": 1751019322,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 598763,
+      "num": 445329,
+      "word": "运动瘦和饿瘦的区别",
+      "onboard_time": 1751082382,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 598378,
@@ -3179,6 +3187,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 541589,
+      "num": 541589,
+      "word": "卢昱晓礼服下面是拖鞋",
+      "onboard_time": 1751082562,
+      "rank": 12,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 541451,
       "num": 421420,
       "word": "马景涛直播晕倒",
@@ -3209,14 +3225,6 @@
       "onboard_time": 1750571842,
       "rank": 16,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 536091,
-      "num": 536091,
-      "word": "卢昱晓礼服下面是拖鞋",
-      "onboard_time": 1751082562,
-      "rank": 12,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 534825,
@@ -3313,6 +3321,14 @@
       "onboard_time": 1750680623,
       "rank": 10,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 527616,
+      "num": 527616,
+      "word": "毒驾男撞死人保释期间被女友烧死",
+      "onboard_time": 1751083342,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 527145,
@@ -4019,14 +4035,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 458964,
-      "num": 320247,
-      "word": "运动瘦和饿瘦的区别",
-      "onboard_time": 1751082382,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 457244,
       "num": 457244,
       "word": "李光洁被蒋欣判无妻徒刑",
@@ -4209,6 +4217,14 @@
       "onboard_time": 1750513583,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 444110,
+      "num": 444110,
+      "word": "一定要申请一个工作微信号",
+      "onboard_time": 1751081182,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 442309,
@@ -5739,14 +5755,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 332742,
-      "num": 318087,
-      "word": "一定要申请一个工作微信号",
-      "onboard_time": 1751081182,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 332391,
       "num": 371644,
       "word": "我不能赢吗孟子义",
@@ -5860,7 +5868,7 @@
     },
     {
       "raw_hot": 325020,
-      "num": 325020,
+      "num": 447399,
       "word": "亲爱的你定档",
       "onboard_time": 1751082501,
       "rank": 8,
@@ -6201,14 +6209,6 @@
       "onboard_time": 1751011106,
       "rank": 27,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 302938,
-      "num": 302938,
-      "word": "毒驾男撞死人保释期间被女友烧死",
-      "onboard_time": 1751083342,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 302455,
@@ -7627,6 +7627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242786,
+      "num": 322658,
+      "word": "石破茂政府就职来首次执行死刑",
+      "onboard_time": 1751084182,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 242598,
       "num": 242598,
       "word": "海关大战labubu",
@@ -7673,6 +7681,14 @@
       "onboard_time": 1750747580,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 241345,
+      "num": 241345,
+      "word": "高考生696分带火家中店铺",
+      "onboard_time": 1751081963,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 241318,
@@ -8251,14 +8267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 221449,
-      "num": 322658,
-      "word": "石破茂政府就职来首次执行死刑",
-      "onboard_time": 1751084182,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 221329,
       "num": 270242,
       "word": "以法之名开播",
@@ -8707,14 +8715,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 210593,
-      "num": 210593,
-      "word": "高考生696分带火家中店铺",
-      "onboard_time": 1751081963,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 210364,
       "num": 210363,
       "word": "章若楠王楚然 跑男",
@@ -8817,6 +8817,14 @@
       "onboard_time": 1750678105,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208772,
+      "num": 208772,
+      "word": "3C贴纸",
+      "onboard_time": 1751084602,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 208492,
@@ -10483,6 +10491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189002,
+      "num": 180301,
+      "word": "8元一晚的旅馆挤满了找活路的人",
+      "onboard_time": 1751085682,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188775,
       "num": 188775,
       "word": "晋江崩了",
@@ -10579,6 +10595,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 187640,
+      "num": 187640,
+      "word": "严浩翔导师秀快嘴rap",
+      "onboard_time": 1751085801,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187615,
       "num": 206944,
       "word": "人之初",
@@ -10657,14 +10681,6 @@
       "onboard_time": 1751015963,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 186930,
-      "num": 186930,
-      "word": "3C贴纸",
-      "onboard_time": 1751084602,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 186893,
@@ -11009,6 +11025,14 @@
       "onboard_time": 1750773325,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 182098,
+      "num": 182098,
+      "word": "从怀孕到生娃10个月的花销",
+      "onboard_time": 1751083223,
+      "rank": 36,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 181967,
@@ -12115,14 +12139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165172,
-      "num": 165172,
-      "word": "从怀孕到生娃10个月的花销",
-      "onboard_time": 1751083223,
-      "rank": 36,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 165113,
       "num": 165113,
       "word": "气血不足最怕的几个动作",
@@ -12601,6 +12617,14 @@
       "onboard_time": 1750644022,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159234,
+      "num": 159234,
+      "word": "祁煜头纱吻",
+      "onboard_time": 1751085443,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 159189,
@@ -13256,6 +13280,14 @@
       "word": "腾讯招商大会剧集预告热度排名",
       "onboard_time": 1750687223,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 152650,
+      "num": 152650,
+      "word": "中女时代",
+      "onboard_time": 1751084721,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -14035,14 +14067,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 144543,
-      "num": 144543,
-      "word": "中女时代",
-      "onboard_time": 1751084721,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 144512,
       "num": 149668,
       "word": "加强反不正当竞争执法司法",
@@ -14201,6 +14225,14 @@
       "onboard_time": 1750667723,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 143330,
+      "num": 143330,
+      "word": "皮肤变厚 脚气",
+      "onboard_time": 1751085682,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 143215,
@@ -15099,6 +15131,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 134217,
+      "num": 134217,
+      "word": "殡仪馆回应被骑手吐槽深夜叫外卖",
+      "onboard_time": 1751082501,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134152,
       "num": 1305512,
       "word": "今年下半年1380亿国补在路上了",
@@ -15545,14 +15585,6 @@
       "onboard_time": 1750756642,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 130335,
-      "num": 130335,
-      "word": "殡仪馆回应被骑手吐槽深夜叫外卖",
-      "onboard_time": 1751082501,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 130297,
@@ -16619,12 +16651,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 120173,
+      "num": 244668,
+      "word": "地铁乘车是否执行充电宝新规",
+      "onboard_time": 1751083342,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120074,
       "num": 120074,
       "word": "酱园弄陈可辛背全锅",
       "onboard_time": 1750840763,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 120001,
+      "num": 120001,
+      "word": "蝉尿",
+      "onboard_time": 1751085562,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 119794,
@@ -16865,14 +16913,6 @@
       "onboard_time": 1750777346,
       "rank": 9,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 116895,
-      "num": 244668,
-      "word": "地铁乘车是否执行充电宝新规",
-      "onboard_time": 1751083342,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 116802,
@@ -17425,6 +17465,14 @@
       "onboard_time": 1751023704,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111402,
+      "num": 111402,
+      "word": "周深点亮青岛53栋楼海岸线",
+      "onboard_time": 1751086102,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 111379,
@@ -18299,6 +18347,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 99768,
+      "num": 180514,
+      "word": "鹦鹉今日开播",
+      "onboard_time": 1751085982,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99702,
       "num": 135045,
       "word": "刘诗诗胡先煦醉梦预告感染力",
@@ -19065,6 +19121,14 @@
       "onboard_time": 1750653684,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 87176,
+      "num": 241649,
+      "word": "电商平台已禁止搜索3C贴纸",
+      "onboard_time": 1751085142,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87166,
@@ -19995,6 +20059,14 @@
       "category": "汽车,互联网"
     },
     {
+      "raw_hot": 69401,
+      "num": 847750,
+      "word": "这些热点国家发改委回应了",
+      "onboard_time": 1751084063,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 69270,
       "num": 204204,
       "word": "40度高温天要来了",
@@ -20489,14 +20561,6 @@
       "onboard_time": 1750500862,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 57989,
-      "num": 819231,
-      "word": "这些热点国家发改委回应了",
-      "onboard_time": 1751084063,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 57924,
@@ -21873,6 +21937,14 @@
       "onboard_time": 1750610719,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 36430,
+      "num": 241997,
+      "word": "学运动康复当健身房最靓的仔",
+      "onboard_time": 1751085202,
+      "rank": 18,
+      "category": "教育,健康医疗"
     },
     {
       "raw_hot": 36412,
@@ -23324,7 +23396,7 @@
     },
     {
       "raw_hot": 17310,
-      "num": 136531,
+      "num": 142775,
       "word": "你是酒神还是一杯倒",
       "onboard_time": 1751083282,
       "rank": 39,

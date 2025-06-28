@@ -1,6 +1,6 @@
 {
   "startTime": 1751041984881,
-  "endTime": 1751085151695,
+  "endTime": 1751086152117,
   "band_list": [
     {
       "raw_hot": 4618253,
@@ -91,6 +91,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 816523,
+      "num": 816523,
+      "word": "有3C标识充电宝也不都能登机",
+      "onboard_time": 1751080761,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 805997,
       "num": 284878,
       "word": "杨紫台下那一声尖叫",
@@ -100,19 +108,11 @@
     },
     {
       "raw_hot": 783960,
-      "num": 322006,
+      "num": 446991,
       "word": "关晓彤白玉兰大屏用了鹿晗发的照片",
       "onboard_time": 1751083282,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 730012,
-      "num": 730012,
-      "word": "有3C标识充电宝也不都能登机",
-      "onboard_time": 1751080761,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 717346,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 646455,
-      "num": 321189,
+      "num": 444885,
       "word": "外卖员吐槽殡仪馆深夜有人点外卖",
       "onboard_time": 1751080761,
       "rank": 16,
@@ -161,6 +161,14 @@
       "onboard_time": 1751030665,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 598763,
+      "num": 445329,
+      "word": "运动瘦和饿瘦的区别",
+      "onboard_time": 1751082382,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 566524,
@@ -187,6 +195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 541589,
+      "num": 541589,
+      "word": "卢昱晓礼服下面是拖鞋",
+      "onboard_time": 1751082562,
+      "rank": 12,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 540383,
       "num": 540383,
       "word": "南昌舰以一对二逼退外舰",
@@ -195,19 +211,19 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 536091,
-      "num": 536091,
-      "word": "卢昱晓礼服下面是拖鞋",
-      "onboard_time": 1751082562,
-      "rank": 12,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 533569,
       "num": 533569,
       "word": "女子电梯口被毒蛇咬老公教科书式操作",
       "onboard_time": 1751070382,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 527616,
+      "num": 527616,
+      "word": "毒驾男撞死人保释期间被女友烧死",
+      "onboard_time": 1751083342,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -235,20 +251,20 @@
       "category": "艺人,艺人"
     },
     {
-      "raw_hot": 458964,
-      "num": 320247,
-      "word": "运动瘦和饿瘦的区别",
-      "onboard_time": 1751082382,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 455137,
       "num": 455137,
       "word": "女子频繁买卖海南离岛免税商品获刑",
       "onboard_time": 1751070141,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 444110,
+      "num": 444110,
+      "word": "一定要申请一个工作微信号",
+      "onboard_time": 1751081182,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 437928,
@@ -299,14 +315,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 332742,
-      "num": 318087,
-      "word": "一定要申请一个工作微信号",
-      "onboard_time": 1751081182,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 326364,
       "num": 326364,
       "word": "特朗普称放弃解除对伊朗制裁",
@@ -316,7 +324,7 @@
     },
     {
       "raw_hot": 325020,
-      "num": 325020,
+      "num": 447399,
       "word": "亲爱的你定档",
       "onboard_time": 1751082501,
       "rank": 8,
@@ -352,14 +360,6 @@
       "word": "大婶上山锄地捡到傻狍子2只变一群",
       "onboard_time": 1751074463,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 302938,
-      "num": 302938,
-      "word": "毒驾男撞死人保释期间被女友烧死",
-      "onboard_time": 1751083342,
-      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -475,6 +475,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242786,
+      "num": 322658,
+      "word": "石破茂政府就职来首次执行死刑",
+      "onboard_time": 1751084182,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 241345,
+      "num": 241345,
+      "word": "高考生696分带火家中店铺",
+      "onboard_time": 1751081963,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239463,
       "num": 260778,
       "word": "官方通报湖南澧县母子溺水身亡",
@@ -505,14 +521,6 @@
       "onboard_time": 1751041945,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 221449,
-      "num": 322658,
-      "word": "石破茂政府就职来首次执行死刑",
-      "onboard_time": 1751084182,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 220896,
@@ -547,14 +555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 210593,
-      "num": 210593,
-      "word": "高考生696分带火家中店铺",
-      "onboard_time": 1751081963,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 210364,
       "num": 210363,
       "word": "章若楠王楚然 跑男",
@@ -569,6 +569,14 @@
       "onboard_time": 1751079802,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208772,
+      "num": 208772,
+      "word": "3C贴纸",
+      "onboard_time": 1751084602,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 207081,
@@ -635,12 +643,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 186930,
-      "num": 186930,
-      "word": "3C贴纸",
-      "onboard_time": 1751084602,
+      "raw_hot": 189002,
+      "num": 180301,
+      "word": "8元一晚的旅馆挤满了找活路的人",
+      "onboard_time": 1751085682,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187640,
+      "num": 187640,
+      "word": "严浩翔导师秀快嘴rap",
+      "onboard_time": 1751085801,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 185922,
@@ -681,6 +697,14 @@
       "onboard_time": 1751070321,
       "rank": 25,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 182098,
+      "num": 182098,
+      "word": "从怀孕到生娃10个月的花销",
+      "onboard_time": 1751083223,
+      "rank": 36,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 180286,
@@ -763,20 +787,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165172,
-      "num": 165172,
-      "word": "从怀孕到生娃10个月的花销",
-      "onboard_time": 1751083223,
-      "rank": 36,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 162052,
       "num": 162052,
       "word": "诡秘之主",
       "onboard_time": 1751077522,
       "rank": 33,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 159234,
+      "num": 159234,
+      "word": "祁煜头纱吻",
+      "onboard_time": 1751085443,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 158108,
@@ -801,6 +825,14 @@
       "onboard_time": 1751041165,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152650,
+      "num": 152650,
+      "word": "中女时代",
+      "onboard_time": 1751084721,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 150291,
@@ -859,20 +891,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 144543,
-      "num": 144543,
-      "word": "中女时代",
-      "onboard_time": 1751084721,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 144420,
       "num": 210087,
       "word": "高考288分事件被质疑炒作引流",
       "onboard_time": 1751034028,
       "rank": 19,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 143330,
+      "num": 143330,
+      "word": "皮肤变厚 脚气",
+      "onboard_time": 1751085682,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 140609,
@@ -915,6 +947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134217,
+      "num": 134217,
+      "word": "殡仪馆回应被骑手吐槽深夜叫外卖",
+      "onboard_time": 1751082501,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133520,
       "num": 133520,
       "word": "看看汪苏泷吧哪怕就一秒",
@@ -929,14 +969,6 @@
       "onboard_time": 1751069242,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 130335,
-      "num": 130335,
-      "word": "殡仪馆回应被骑手吐槽深夜叫外卖",
-      "onboard_time": 1751082501,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 130297,
@@ -1027,6 +1059,22 @@
       "category": "母婴育儿,民生新闻"
     },
     {
+      "raw_hot": 120173,
+      "num": 244668,
+      "word": "地铁乘车是否执行充电宝新规",
+      "onboard_time": 1751083342,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120001,
+      "num": 120001,
+      "word": "蝉尿",
+      "onboard_time": 1751085562,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 119626,
       "num": 119626,
       "word": "四川内江一名儿童不慎坠楼身亡",
@@ -1067,20 +1115,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 116895,
-      "num": 244668,
-      "word": "地铁乘车是否执行充电宝新规",
-      "onboard_time": 1751083342,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 113878,
       "num": 113878,
       "word": "飞天奖",
       "onboard_time": 1751068760,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111402,
+      "num": 111402,
+      "word": "周深点亮青岛53栋楼海岸线",
+      "onboard_time": 1751086102,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 110132,
@@ -1147,6 +1195,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 99768,
+      "num": 180514,
+      "word": "鹦鹉今日开播",
+      "onboard_time": 1751085982,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 98157,
       "num": 98157,
       "word": "黄晓明 不是因为我解散的对不对",
@@ -1177,6 +1233,14 @@
       "onboard_time": 1751046021,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87176,
+      "num": 241649,
+      "word": "电商平台已禁止搜索3C贴纸",
+      "onboard_time": 1751085142,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80356,
@@ -1251,6 +1315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69401,
+      "num": 847750,
+      "word": "这些热点国家发改委回应了",
+      "onboard_time": 1751084063,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 66751,
       "num": 66751,
       "word": "蔡澜曾谈怎样面对亲友离世",
@@ -1289,14 +1361,6 @@
       "onboard_time": 1751031627,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 57989,
-      "num": 819231,
-      "word": "这些热点国家发改委回应了",
-      "onboard_time": 1751084063,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 53604,
@@ -1425,6 +1489,14 @@
       "onboard_time": 1751082022,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36430,
+      "num": 241997,
+      "word": "学运动康复当健身房最靓的仔",
+      "onboard_time": 1751085202,
+      "rank": 18,
+      "category": "教育,健康医疗"
     },
     {
       "raw_hot": 35963,
@@ -1572,7 +1644,7 @@
     },
     {
       "raw_hot": 17310,
-      "num": 136531,
+      "num": 142775,
       "word": "你是酒神还是一杯倒",
       "onboard_time": 1751083282,
       "rank": 39,
