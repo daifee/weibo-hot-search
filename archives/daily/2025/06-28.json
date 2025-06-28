@@ -1,6 +1,6 @@
 {
   "startTime": 1751041984881,
-  "endTime": 1751095441170,
+  "endTime": 1751096298173,
   "band_list": [
     {
       "raw_hot": 4618253,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1438016,
-      "num": 397063,
+      "num": 530380,
       "word": "迪丽热巴90花唯一的视后",
       "onboard_time": 1751094260,
       "rank": 3,
@@ -99,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 925751,
+      "num": 344844,
+      "word": "低精力人群 炎症",
+      "onboard_time": 1751093541,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 900764,
       "num": 288601,
       "word": "单依纯哭了",
@@ -139,6 +147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 822827,
+      "num": 822827,
+      "word": "芭莎红毯",
+      "onboard_time": 1751093721,
+      "rank": 1,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 816523,
       "num": 816523,
       "word": "有3C标识充电宝也不都能登机",
@@ -169,14 +185,6 @@
       "onboard_time": 1751074103,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 710227,
-      "num": 710227,
-      "word": "芭莎红毯",
-      "onboard_time": 1751093721,
-      "rank": 1,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 691978,
@@ -307,14 +315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 510887,
-      "num": 344844,
-      "word": "低精力人群 炎症",
-      "onboard_time": 1751093541,
-      "rank": 12,
-      "category": "情感"
-    },
-    {
       "raw_hot": 505079,
       "num": 203398,
       "word": "王安宇给蒋欣送蛇瓜",
@@ -329,6 +329,14 @@
       "onboard_time": 1751010686,
       "rank": 22,
       "category": "艺人,艺人"
+    },
+    {
+      "raw_hot": 455271,
+      "num": 297630,
+      "word": "蔡澜 陈宝莲",
+      "onboard_time": 1751094621,
+      "rank": 21,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 455137,
@@ -387,7 +395,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 381887,
+      "raw_hot": 386010,
       "num": 344737,
       "word": "刘亦菲黑长直怼脸",
       "onboard_time": 1751094321,
@@ -563,12 +571,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 265292,
-      "num": 265292,
-      "word": "蔡澜 陈宝莲",
-      "onboard_time": 1751094621,
-      "rank": 21,
-      "category": "艺人,民生新闻"
+      "raw_hot": 264506,
+      "num": 256333,
+      "word": "31岁独居女生靠存款生活的一天",
+      "onboard_time": 1751094800,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 263834,
@@ -587,12 +595,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 256333,
-      "num": 256333,
-      "word": "31岁独居女生靠存款生活的一天",
-      "onboard_time": 1751094800,
-      "rank": 22,
-      "category": "情感"
+      "raw_hot": 256702,
+      "num": 345117,
+      "word": "明年起宠物伤人可直接治安处罚",
+      "onboard_time": 1751094440,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 252523,
@@ -643,6 +651,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 240220,
+      "num": 230578,
+      "word": "双胞胎高考638分630分父亲要戒酒",
+      "onboard_time": 1751094800,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239463,
       "num": 260778,
       "word": "官方通报湖南澧县母子溺水身亡",
@@ -683,19 +699,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222231,
+      "num": 222231,
+      "word": "李一桐内娱第一个举报型女主",
+      "onboard_time": 1751094380,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220896,
       "num": 206718,
       "word": "付航段子 没人笑",
       "onboard_time": 1751036429,
       "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 217362,
-      "num": 217362,
-      "word": "李一桐内娱第一个举报型女主",
-      "onboard_time": 1751094380,
-      "rank": 25,
       "category": "剧集"
     },
     {
@@ -771,6 +787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204924,
+      "num": 204924,
+      "word": "宋雨琦好美",
+      "onboard_time": 1751095821,
+      "rank": 25,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 201452,
       "num": 201452,
       "word": "登陆少年搪胶娃娃",
@@ -795,12 +819,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200256,
+      "num": 199363,
+      "word": "女子被前男友砍20多刀几乎断指",
+      "onboard_time": 1751094021,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199541,
+      "num": 199541,
+      "word": "孟子义的兵好像有点不一样",
+      "onboard_time": 1751095641,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199406,
       "num": 201244,
       "word": "宋佳实至名归",
       "onboard_time": 1751037508,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196133,
+      "num": 189534,
+      "word": "昔日中国好声音冠军因忘词被质疑",
+      "onboard_time": 1751094321,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 195561,
@@ -827,11 +875,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 188585,
-      "num": 188585,
-      "word": "昔日中国好声音冠军因忘词被质疑",
-      "onboard_time": 1751094321,
-      "rank": 27,
+      "raw_hot": 189685,
+      "num": 189685,
+      "word": "杨超越把马丽老公怼红温了",
+      "onboard_time": 1751095942,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -841,14 +889,6 @@
       "onboard_time": 1751085801,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 186635,
-      "num": 186635,
-      "word": "女子被前男友砍20多刀几乎断指",
-      "onboard_time": 1751094021,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 185922,
@@ -1003,6 +1043,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 167063,
+      "num": 167063,
+      "word": "芭莎之夜出图",
+      "onboard_time": 1751090841,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 166851,
       "num": 166851,
       "word": "蒋欣 好完美的一颗头",
@@ -1019,6 +1067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166034,
+      "num": 166034,
+      "word": "高考637分物理老师称不占录取名额",
+      "onboard_time": 1751096122,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165489,
       "num": 165489,
       "word": "金价大跌的4个原因",
@@ -1033,14 +1089,6 @@
       "onboard_time": 1751085682,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 164867,
-      "num": 164867,
-      "word": "双胞胎高考638分630分父亲要戒酒",
-      "onboard_time": 1751094800,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 163757,
@@ -1123,6 +1171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155109,
+      "num": 155109,
+      "word": "土豆是胰岛功能的试金石",
+      "onboard_time": 1751094501,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 153485,
       "num": 153485,
       "word": "鱿鱼游戏",
@@ -1171,6 +1227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 149323,
+      "num": 149323,
+      "word": "食贫道自费200万半年穿越三大洲",
+      "onboard_time": 1751095462,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149242,
       "num": 149242,
       "word": "王宝强回应白玉兰提名",
@@ -1179,20 +1243,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148735,
+      "num": 148735,
+      "word": "张雪峰说大多文科不考公就是销售",
+      "onboard_time": 1751095462,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147384,
       "num": 147384,
       "word": "原来周末最好的休息不是睡觉",
       "onboard_time": 1751094742,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 147356,
-      "num": 147356,
-      "word": "芭莎之夜出图",
-      "onboard_time": 1751090841,
-      "rank": 43,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 146661,
@@ -1297,6 +1361,14 @@
       "onboard_time": 1751084721,
       "rank": 38,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 135434,
+      "num": 135434,
+      "word": "普京说俄被西方骗了",
+      "onboard_time": 1751096242,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 135303,
@@ -1771,14 +1843,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 73920,
-      "num": 345117,
-      "word": "明年起宠物伤人可直接治安处罚",
-      "onboard_time": 1751094440,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 73034,
       "num": 210364,
       "word": "香港四大才子均已逝世",
@@ -1809,6 +1873,14 @@
       "onboard_time": 1751041583,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69738,
+      "num": 188397,
+      "word": "以军被爆射杀难民如同鱿鱼游戏",
+      "onboard_time": 1751096001,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 69401,
@@ -2043,6 +2115,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 35244,
+      "num": 202095,
+      "word": "14岁至18岁违法可拘留",
+      "onboard_time": 1751096001,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34750,
       "num": 205715,
       "word": "Jonathan的Dior首秀",
@@ -2057,6 +2137,14 @@
       "onboard_time": 1751040446,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31863,
+      "num": 161295,
+      "word": "秦彻灵羽相契",
+      "onboard_time": 1751095401,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 30837,
@@ -2132,19 +2220,19 @@
     },
     {
       "raw_hot": 26009,
-      "num": 183293,
+      "num": 203836,
       "word": "Jonathan是如何诠释Dior的",
       "onboard_time": 1751093422,
       "rank": 29,
       "category": "时尚"
     },
     {
-      "raw_hot": 23862,
-      "num": 139049,
-      "word": "秦彻灵羽相契",
-      "onboard_time": 1751095401,
-      "rank": 44,
-      "category": "游戏"
+      "raw_hot": 25619,
+      "num": 200762,
+      "word": "一斤巴奴毛肚可买一斤帝王蟹",
+      "onboard_time": 1751095882,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22214,
@@ -2201,6 +2289,14 @@
       "onboard_time": 1751082802,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 17603,
+      "num": 202807,
+      "word": "深圳机场被扣充电宝可暂存7天",
+      "onboard_time": 1751095942,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17310,

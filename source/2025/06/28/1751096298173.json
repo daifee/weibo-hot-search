@@ -1,0 +1,410 @@
+{
+  "runTime": 1751096298173,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1049114,
+        "num": 1167858,
+        "word": "贵州榕江拉响全城警报",
+        "onboard_time": 1751091143,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 822827,
+        "num": 822827,
+        "word": "芭莎红毯",
+        "onboard_time": 1751093721,
+        "rank": 1,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 58493,
+        "num": 592821,
+        "word": "这些热点国家发改委回应了",
+        "onboard_time": 1751084063,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1338359,
+        "num": 530380,
+        "word": "迪丽热巴90花唯一的视后",
+        "onboard_time": 1751094260,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365373,
+        "num": 365373,
+        "word": "有3C标识充电宝也不都能登机",
+        "onboard_time": 1751080761,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 530212,
+        "num": 336898,
+        "word": "日本连环杀人犯家中藏9个人头",
+        "onboard_time": 1751074403,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 608826,
+        "num": 324205,
+        "word": "邓超哭成悲伤蛙",
+        "onboard_time": 1751092040,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 455271,
+        "num": 297630,
+        "word": "蔡澜 陈宝莲",
+        "onboard_time": 1751094621,
+        "rank": 7,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 256702,
+        "num": 256702,
+        "word": "明年起宠物伤人可直接治安处罚",
+        "onboard_time": 1751094440,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237023,
+        "num": 237023,
+        "word": "张桂梅",
+        "onboard_time": 1751069782,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 925751,
+        "num": 236953,
+        "word": "低精力人群 炎症",
+        "onboard_time": 1751093541,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 824731,
+        "num": 236871,
+        "word": "关晓彤确实是藏不住事的年纪",
+        "onboard_time": 1751080463,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 634075,
+        "num": 236808,
+        "word": "辽宁舰遭外军双航母夹击歼15挂弹起飞",
+        "onboard_time": 1751094440,
+        "rank": 12,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 440904,
+        "num": 236739,
+        "word": "小鬼质疑芒种原唱",
+        "onboard_time": 1751094141,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 433398,
+        "num": 236644,
+        "word": "尼坤怎么长这样了",
+        "onboard_time": 1751088862,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402101,
+        "num": 236509,
+        "word": "沙溢儿子安吉14岁近照",
+        "onboard_time": 1751089401,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 473972,
+        "num": 236436,
+        "word": "关晓彤白玉兰大屏用了鹿晗发的照片",
+        "onboard_time": 1751083282,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 386010,
+        "num": 236385,
+        "word": "刘亦菲黑长直怼脸",
+        "onboard_time": 1751094321,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 264506,
+        "num": 236247,
+        "word": "31岁独居女生靠存款生活的一天",
+        "onboard_time": 1751094800,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 236216,
+        "num": 236216,
+        "word": "毒驾男撞死人保释期间被女友烧死",
+        "onboard_time": 1751083342,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297221,
+        "num": 231765,
+        "word": "蔡徐坤仅自己可见朋友圈",
+        "onboard_time": 1751088622,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257014,
+        "num": 230895,
+        "word": "邓超回应唱哭了",
+        "onboard_time": 1751093062,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240220,
+        "num": 230578,
+        "word": "双胞胎高考638分630分父亲要戒酒",
+        "onboard_time": 1751094800,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222231,
+        "num": 222231,
+        "word": "李一桐内娱第一个举报型女主",
+        "onboard_time": 1751094380,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205968,
+        "num": 205968,
+        "word": "杨采钰挺孕肚出街",
+        "onboard_time": 1751088862,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204924,
+        "num": 204924,
+        "word": "宋雨琦好美",
+        "onboard_time": 1751095821,
+        "rank": 25,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 18467,
+        "num": 203836,
+        "word": "Jonathan是如何诠释Dior的",
+        "onboard_time": 1751093422,
+        "rank": 26,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 17603,
+        "num": 202807,
+        "word": "深圳机场被扣充电宝可暂存7天",
+        "onboard_time": 1751095942,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35244,
+        "num": 202095,
+        "word": "14岁至18岁违法可拘留",
+        "onboard_time": 1751096001,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25619,
+        "num": 200762,
+        "word": "一斤巴奴毛肚可买一斤帝王蟹",
+        "onboard_time": 1751095882,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199541,
+        "num": 199541,
+        "word": "孟子义的兵好像有点不一样",
+        "onboard_time": 1751095641,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200256,
+        "num": 199363,
+        "word": "女子被前男友砍20多刀几乎断指",
+        "onboard_time": 1751094021,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189685,
+        "num": 189685,
+        "word": "杨超越把马丽老公怼红温了",
+        "onboard_time": 1751095942,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196133,
+        "num": 189534,
+        "word": "昔日中国好声音冠军因忘词被质疑",
+        "onboard_time": 1751094321,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69738,
+        "num": 188397,
+        "word": "以军被爆射杀难民如同鱿鱼游戏",
+        "onboard_time": 1751096001,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 188263,
+        "num": 188263,
+        "word": "张凌赫把迪丽热巴逼急这段",
+        "onboard_time": 1751094682,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179085,
+        "num": 179085,
+        "word": "运动瘦和饿瘦的区别",
+        "onboard_time": 1751082382,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167063,
+        "num": 167063,
+        "word": "芭莎之夜出图",
+        "onboard_time": 1751090841,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 166034,
+        "num": 166034,
+        "word": "高考637分物理老师称不占录取名额",
+        "onboard_time": 1751096122,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31863,
+        "num": 161295,
+        "word": "秦彻灵羽相契",
+        "onboard_time": 1751095401,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160081,
+        "num": 160081,
+        "word": "罗志祥直播",
+        "onboard_time": 1751093301,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158937,
+        "num": 158937,
+        "word": "金价大跌的4个原因",
+        "onboard_time": 1751094742,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 156635,
+        "num": 156635,
+        "word": "雷军说特斯拉确实了不起",
+        "onboard_time": 1751089042,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 155977,
+        "num": 155977,
+        "word": "ModelY全球首次完成全自动驾驶交付",
+        "onboard_time": 1751094440,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 155109,
+        "num": 155109,
+        "word": "土豆是胰岛功能的试金石",
+        "onboard_time": 1751094501,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 149323,
+        "num": 149323,
+        "word": "食贫道自费200万半年穿越三大洲",
+        "onboard_time": 1751095462,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148735,
+        "num": 148735,
+        "word": "张雪峰说大多文科不考公就是销售",
+        "onboard_time": 1751095462,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144987,
+        "num": 144987,
+        "word": "外卖员吐槽殡仪馆深夜有人点外卖",
+        "onboard_time": 1751080761,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140902,
+        "num": 140902,
+        "word": "大张伟一来韩红没法录节目了",
+        "onboard_time": 1751094141,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135434,
+        "num": 135434,
+        "word": "普京说俄被西方骗了",
+        "onboard_time": 1751096242,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平签署国家主席令#"
+    }
+  }
+}
