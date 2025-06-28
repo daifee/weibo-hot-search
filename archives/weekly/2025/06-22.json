@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1751114881715,
+  "endTime": 1751115814028,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -579,6 +579,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1562957,
+      "num": 613558,
+      "word": "王源送车",
+      "onboard_time": 1751114362,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1560125,
       "num": 878115,
       "word": "特朗普第三次世界大战",
@@ -875,6 +883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1245527,
+      "num": 1245527,
+      "word": "宋佳恭喜1米73大美女",
+      "onboard_time": 1751111902,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1245185,
       "num": 496340,
       "word": "梓渝 丁禹兮",
@@ -913,14 +929,6 @@
       "onboard_time": 1751025744,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1209651,
-      "num": 1209651,
-      "word": "宋佳恭喜1米73大美女",
-      "onboard_time": 1751111902,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 1199931,
@@ -1531,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 881479,
+      "num": 881479,
+      "word": "清华硕士靠文眉月入3万被母亲反对",
+      "onboard_time": 1751112621,
+      "rank": 1,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 879634,
       "num": 879634,
       "word": "最难喝的奶茶",
@@ -1697,14 +1713,6 @@
       "onboard_time": 1750576162,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 838769,
-      "num": 838769,
-      "word": "清华硕士靠文眉月入3万被母亲反对",
-      "onboard_time": 1751112621,
-      "rank": 1,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 834936,
@@ -3857,14 +3865,6 @@
       "onboard_time": 1750519824,
       "rank": 11,
       "category": "电影"
-    },
-    {
-      "raw_hot": 495898,
-      "num": 368991,
-      "word": "王源送车",
-      "onboard_time": 1751114362,
-      "rank": 11,
-      "category": "演出"
     },
     {
       "raw_hot": 494902,
@@ -6835,6 +6835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 291604,
+      "num": 222449,
+      "word": "伯克利热巴分巴质疑浙音第一",
+      "onboard_time": 1751114603,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 288756,
       "num": 374385,
       "word": "西出玉门",
@@ -7035,6 +7043,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 280029,
+      "num": 241593,
+      "word": "书卷一梦太癫了",
+      "onboard_time": 1751113703,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 279876,
       "num": 391849,
       "word": "宋茜LV大秀红毯造型",
@@ -7091,11 +7107,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 277051,
+      "num": 234464,
+      "word": "吴宣仪演唱会",
+      "onboard_time": 1751113943,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 276969,
       "num": 276969,
       "word": "藏海传剧组白玉兰重聚",
       "onboard_time": 1751024483,
       "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 276461,
+      "num": 217958,
+      "word": "成何体统",
+      "onboard_time": 1750867641,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -7241,6 +7273,14 @@
       "onboard_time": 1751104822,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 271005,
+      "num": 369701,
+      "word": "孙颖莎发文大满贯见",
+      "onboard_time": 1751111662,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 270508,
@@ -8339,6 +8379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 233252,
+      "num": 233252,
+      "word": "张本智和跪地庆祝胜利",
+      "onboard_time": 1751112922,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 232279,
       "num": 287602,
       "word": "杨涵博中考620分",
@@ -9379,6 +9427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208240,
+      "num": 208240,
+      "word": "月入4000一家四口的真实生活",
+      "onboard_time": 1751111543,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 208220,
       "num": 208220,
       "word": "延边大学食堂阿姨",
@@ -9587,14 +9643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 204943,
-      "num": 204943,
-      "word": "书卷一梦太癫了",
-      "onboard_time": 1751113703,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 204924,
       "num": 204924,
       "word": "宋雨琦好美",
@@ -9707,14 +9755,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 203650,
-      "num": 203650,
-      "word": "吴宣仪演唱会",
-      "onboard_time": 1751113943,
-      "rank": 23,
-      "category": "演出"
-    },
-    {
       "raw_hot": 203493,
       "num": 318953,
       "word": "郭品超和爸爸共用一张脸",
@@ -9785,14 +9825,6 @@
       "onboard_time": 1750590864,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 203028,
-      "num": 203028,
-      "word": "张本智和跪地庆祝胜利",
-      "onboard_time": 1751112922,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 202920,
@@ -10060,7 +10092,7 @@
     },
     {
       "raw_hot": 199712,
-      "num": 172732,
+      "num": 178564,
       "word": "曾舜晞走红毯把戒指甩飞了",
       "onboard_time": 1751110582,
       "rank": 25,
@@ -10569,14 +10601,6 @@
       "onboard_time": 1751084242,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 195539,
-      "num": 195539,
-      "word": "成何体统",
-      "onboard_time": 1750867641,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 195330,
@@ -11243,6 +11267,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 188014,
+      "num": 188014,
+      "word": "章若楠拿游泳圈走红毯",
+      "onboard_time": 1751113401,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 187924,
       "num": 187924,
       "word": "厦门花100w买的52平三室两厅的房",
@@ -11667,14 +11699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 182389,
-      "num": 182389,
-      "word": "章若楠拿游泳圈走红毯",
-      "onboard_time": 1751113401,
-      "rank": 26,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 182385,
       "num": 182385,
       "word": "以总理称特朗普改变历史",
@@ -11995,6 +12019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177687,
+      "num": 168177,
+      "word": "爸爸结六次婚是什么感受",
+      "onboard_time": 1751114241,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177652,
       "num": 177652,
       "word": "范丞丞章若楠小学生吵架",
@@ -12049,14 +12081,6 @@
       "onboard_time": 1751066719,
       "rank": 39,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 176944,
-      "num": 176944,
-      "word": "伯克利热巴分巴质疑浙音第一",
-      "onboard_time": 1751114603,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 176928,
@@ -12731,14 +12755,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 168177,
-      "num": 168177,
-      "word": "爸爸结六次婚是什么感受",
-      "onboard_time": 1751114241,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 167992,
       "num": 167992,
       "word": "钟丽丽没报上郝蕾的表演培训班",
@@ -13043,14 +13059,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 164258,
-      "num": 369701,
-      "word": "孙颖莎发文大满贯见",
-      "onboard_time": 1751111662,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 164126,
       "num": 164126,
       "word": "IU李惠利朴宝剑齐获提名",
@@ -13347,14 +13355,6 @@
       "category": "艺人,休闲"
     },
     {
-      "raw_hot": 160948,
-      "num": 160948,
-      "word": "月入4000一家四口的真实生活",
-      "onboard_time": 1751111543,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 160770,
       "num": 160770,
       "word": "徐明浩LV活动造型",
@@ -13585,6 +13585,14 @@
       "onboard_time": 1750862064,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158682,
+      "num": 158682,
+      "word": "娜扎拿云朵走红毯",
+      "onboard_time": 1751111961,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 158643,
@@ -14955,14 +14963,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 145762,
-      "num": 145762,
-      "word": "娜扎拿云朵走红毯",
-      "onboard_time": 1751111961,
-      "rank": 41,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 145645,
       "num": 145645,
       "word": "抖音崩了",
@@ -15820,7 +15820,7 @@
     },
     {
       "raw_hot": 138526,
-      "num": 138526,
+      "num": 226000,
       "word": "林诗栋说输樊振东不是坏事",
       "onboard_time": 1751114482,
       "rank": 42,
@@ -17603,6 +17603,14 @@
       "category": "美食,民生新闻"
     },
     {
+      "raw_hot": 123515,
+      "num": 123515,
+      "word": "盐城队vs镇江队",
+      "onboard_time": 1751114962,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123449,
       "num": 123449,
       "word": "孟子义有多忙",
@@ -18131,6 +18139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118522,
+      "num": 118522,
+      "word": "林诗栋说看樊振东打球很舒服",
+      "onboard_time": 1751111722,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118287,
       "num": 118287,
       "word": "大金融股持续爆发",
@@ -18281,6 +18297,14 @@
       "onboard_time": 1750671384,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 116540,
+      "num": 116540,
+      "word": "优化宇宙女巫",
+      "onboard_time": 1751114482,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 116506,
@@ -18723,6 +18747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112541,
+      "num": 112541,
+      "word": "休宁凯内娱红毯首秀",
+      "onboard_time": 1751115442,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 112518,
       "num": 112518,
       "word": "TizzyT指向天空这一瞬",
@@ -18801,14 +18833,6 @@
       "onboard_time": 1751009843,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 111971,
-      "num": 111971,
-      "word": "优化宇宙女巫",
-      "onboard_time": 1751114482,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 111940,
@@ -18897,14 +18921,6 @@
       "onboard_time": 1750675223,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 111144,
-      "num": 111144,
-      "word": "林诗栋说看樊振东打球很舒服",
-      "onboard_time": 1751111722,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 111094,
@@ -19187,6 +19203,14 @@
       "category": "动漫,教育"
     },
     {
+      "raw_hot": 108519,
+      "num": 108519,
+      "word": "副驾方向盘",
+      "onboard_time": 1751113703,
+      "rank": 46,
+      "category": "幽默,休闲"
+    },
+    {
       "raw_hot": 108480,
       "num": 108480,
       "word": "许嵩济南",
@@ -19427,6 +19451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104949,
+      "num": 104949,
+      "word": "这真的不是太乙真人本人吗",
+      "onboard_time": 1751115321,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 104825,
       "num": 104825,
       "word": "迪丽热巴腾讯三部剧",
@@ -19601,6 +19633,14 @@
       "onboard_time": 1750685963,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 103159,
+      "num": 174624,
+      "word": "连云港vs淮安",
+      "onboard_time": 1751111601,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 103080,
@@ -20377,6 +20417,14 @@
       "onboard_time": 1751024242,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 92236,
+      "num": 121515,
+      "word": "重庆狼队",
+      "onboard_time": 1751115683,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 92224,
@@ -21345,14 +21393,6 @@
       "onboard_time": 1750641081,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 73787,
-      "num": 174624,
-      "word": "连云港vs淮安",
-      "onboard_time": 1751111601,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 73101,
@@ -24755,6 +24795,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 21524,
+      "num": 173482,
+      "word": "小米Civi5Pro镜头下的生命力",
+      "onboard_time": 1751114001,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 21506,
       "num": 1846623,
       "word": "夏季达沃斯向新而行",
@@ -24777,14 +24825,6 @@
       "onboard_time": 1751023282,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21426,
-      "num": 173482,
-      "word": "小米Civi5Pro镜头下的生命力",
-      "onboard_time": 1751114001,
-      "rank": 31,
-      "category": "数码"
     },
     {
       "raw_hot": 21273,
