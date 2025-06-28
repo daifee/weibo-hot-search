@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/28 17:28:24
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/28 17:42:04
 </p>
 </blockquote>
 <p>
@@ -4905,6 +4905,12 @@ AL战胜BLG（热度：859667）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Labubu%E5%8F%91%E5%A4%B9%23" target="weibo">
+Labubu发夹（热度：838878）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%A4%A9%E6%B4%A5%23" target="weibo">
 迪丽热巴天津（热度：837394）
 </a>
@@ -5459,12 +5465,6 @@ T3司机猥亵大三女生被行拘5日（热度：810171）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A9%E9%AB%98%E9%93%81%E5%93%AD%E9%97%B9%E4%B8%8D%E6%AD%A2%E5%A5%B3%E7%94%9F%E5%91%B5%E6%96%A5%E5%90%8E%E7%9E%AC%E9%97%B4%E9%9D%99%E9%9F%B3%23" target="weibo">
 小孩高铁哭闹不止女生呵斥后瞬间静音（热度：784783）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Labubu%E5%8F%91%E5%A4%B9%23" target="weibo">
-Labubu发夹（热度：783954）
 </a>
 </li>
 

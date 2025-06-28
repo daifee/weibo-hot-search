@@ -1,0 +1,410 @@
+{
+  "runTime": 1751103724055,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1224831,
+        "num": 1224831,
+        "word": "低精力人群 炎症",
+        "onboard_time": 1751093541,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 838878,
+        "num": 838878,
+        "word": "Labubu发夹",
+        "onboard_time": 1751099602,
+        "rank": 1,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 33648,
+        "num": 775421,
+        "word": "6组数据看我国中小企业发展成就",
+        "onboard_time": 1751102002,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 745958,
+        "num": 745958,
+        "word": "芭莎红毯",
+        "onboard_time": 1751093721,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 681954,
+        "num": 681954,
+        "word": "迪丽热巴90花唯一的视后",
+        "onboard_time": 1751094260,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475279,
+        "num": 475279,
+        "word": "印度已婚男与远房亲戚恋爱双双跳崖",
+        "onboard_time": 1751101461,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 675125,
+        "num": 467433,
+        "word": "王俊凯送王源演唱会花篮",
+        "onboard_time": 1751099782,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 458013,
+        "num": 458013,
+        "word": "贵州榕江拉响全城警报",
+        "onboard_time": 1751091143,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 422375,
+        "num": 422375,
+        "word": "金智秀怎么美成这样",
+        "onboard_time": 1751100082,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79842,
+        "num": 413216,
+        "word": "世界顶级数学家张益唐加盟中山大学",
+        "onboard_time": 1751103261,
+        "rank": 9,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 538332,
+        "num": 413013,
+        "word": "韩安冉每月给父亲开6000工资",
+        "onboard_time": 1751100741,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 411943,
+        "num": 411943,
+        "word": "关晓彤确实是藏不住事的年纪",
+        "onboard_time": 1751080463,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 355432,
+        "num": 355432,
+        "word": "蔡澜 陈宝莲",
+        "onboard_time": 1751094621,
+        "rank": 12,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 325723,
+        "num": 325723,
+        "word": "辽宁舰遭外军双航母夹击歼15挂弹起飞",
+        "onboard_time": 1751094440,
+        "rank": 13,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 322224,
+        "num": 322224,
+        "word": "刘亦菲",
+        "onboard_time": 1751102182,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280157,
+        "num": 280157,
+        "word": "日本连环杀人犯家中藏9个人头",
+        "onboard_time": 1751074403,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 259279,
+        "num": 259279,
+        "word": "关晓彤白玉兰大屏用了鹿晗发的照片",
+        "onboard_time": 1751083282,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253840,
+        "num": 253840,
+        "word": "以军被爆射杀难民如同鱿鱼游戏",
+        "onboard_time": 1751096001,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114642,
+        "num": 224821,
+        "word": "王一博传统攀岩",
+        "onboard_time": 1751101581,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49313,
+        "num": 223580,
+        "word": "盘点Dior男装秀精彩瞬间",
+        "onboard_time": 1751101943,
+        "rank": 19,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 562572,
+        "num": 223407,
+        "word": "高考637分物理老师称不占录取名额",
+        "onboard_time": 1751096122,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223145,
+        "num": 223145,
+        "word": "鹿晗回春",
+        "onboard_time": 1751102421,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 197298,
+        "num": 197298,
+        "word": "宋亚轩芭莎之夜造型",
+        "onboard_time": 1751102781,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 195854,
+        "num": 195854,
+        "word": "尼坤怎么长这样了",
+        "onboard_time": 1751088862,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191118,
+        "num": 191118,
+        "word": "我以为天亮了结果天塌了",
+        "onboard_time": 1751102602,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177921,
+        "num": 177921,
+        "word": "有3C标识充电宝也不都能登机",
+        "onboard_time": 1751080761,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175414,
+        "num": 175414,
+        "word": "田曦薇云朵伞",
+        "onboard_time": 1751100802,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 168923,
+        "num": 168923,
+        "word": "这就是拒绝过JYP和SM的实力吗",
+        "onboard_time": 1751101221,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168648,
+        "num": 168648,
+        "word": "鸟巢回应禁带标语并非针对河北",
+        "onboard_time": 1751102361,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167532,
+        "num": 167532,
+        "word": "31岁独居女生靠存款生活的一天",
+        "onboard_time": 1751094800,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166366,
+        "num": 166366,
+        "word": "白玉兰最佳cp",
+        "onboard_time": 1751100501,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165790,
+        "num": 165790,
+        "word": "芭莎之夜出图",
+        "onboard_time": 1751090841,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 164695,
+        "num": 164695,
+        "word": "喻言 机械姬",
+        "onboard_time": 1751101461,
+        "rank": 32,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 157525,
+        "num": 157525,
+        "word": "邓超哭成悲伤蛙",
+        "onboard_time": 1751092040,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155595,
+        "num": 155595,
+        "word": "两小无猜主演分手",
+        "onboard_time": 1751103023,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148511,
+        "num": 148511,
+        "word": "沙溢儿子安吉14岁近照",
+        "onboard_time": 1751089401,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141733,
+        "num": 141733,
+        "word": "孟子义兔子面具戴出狐狸感",
+        "onboard_time": 1751102481,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136571,
+        "num": 136571,
+        "word": "老人与儿子吵架后刺伤儿媳获刑3年",
+        "onboard_time": 1751101280,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134248,
+        "num": 134248,
+        "word": "荔枝鲜榨米酿榨汁",
+        "onboard_time": 1751103143,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 132703,
+        "num": 132703,
+        "word": "一天三份工15个月赚20万",
+        "onboard_time": 1751100322,
+        "rank": 39,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 131306,
+        "num": 131306,
+        "word": "40岁C罗签下体育史上最贵合约",
+        "onboard_time": 1751098342,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128466,
+        "num": 128466,
+        "word": "杨采钰挺孕肚出街",
+        "onboard_time": 1751088862,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127573,
+        "num": 127573,
+        "word": "赛里木湖漂移事件破坏草原约13亩",
+        "onboard_time": 1751097743,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126092,
+        "num": 126092,
+        "word": "本科生和研究生毕业的区别belike",
+        "onboard_time": 1751103202,
+        "rank": 43,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 125666,
+        "num": 125666,
+        "word": "王楚钦孙颖莎三冠荣耀",
+        "onboard_time": 1751102903,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124258,
+        "num": 124258,
+        "word": "刘亦菲黑长直怼脸",
+        "onboard_time": 1751094321,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 122018,
+        "num": 122018,
+        "word": "宋雨琦好美",
+        "onboard_time": 1751095821,
+        "rank": 46,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 118075,
+        "num": 118075,
+        "word": "喜综拿白玉兰的含金量",
+        "onboard_time": 1751102841,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116923,
+        "num": 116923,
+        "word": "9岁女童火车站被人带走抚养37年",
+        "onboard_time": 1751102841,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107280,
+        "num": 107280,
+        "word": "日子和周深过真的不一样",
+        "onboard_time": 1751103682,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记讲述的这个故事意蕴深长#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1751102904334,
+  "endTime": 1751103724055,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -6523,6 +6523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 838878,
+      "num": 838878,
+      "word": "Labubu发夹",
+      "onboard_time": 1751099602,
+      "rank": 46,
+      "category": "休闲,动漫"
+    },
+    {
       "raw_hot": 837394,
       "num": 376182,
       "word": "迪丽热巴天津",
@@ -7265,14 +7273,6 @@
       "onboard_time": 1750401981,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 783954,
-      "num": 783954,
-      "word": "Labubu发夹",
-      "onboard_time": 1751099602,
-      "rank": 46,
-      "category": "休闲,动漫"
     },
     {
       "raw_hot": 783806,
@@ -12523,6 +12523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 538332,
+      "num": 413013,
+      "word": "韩安冉每月给父亲开6000工资",
+      "onboard_time": 1751100741,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 538215,
       "num": 538215,
       "word": "以色列民众问战争到底是为了什么",
@@ -13779,14 +13787,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 500212,
-      "num": 349845,
-      "word": "韩安冉每月给父亲开6000工资",
-      "onboard_time": 1751100741,
-      "rank": 11,
-      "category": "网红"
-    },
-    {
       "raw_hot": 500195,
       "num": 500195,
       "word": "女孩荡秋千坠河去世秋千安装者被判担责",
@@ -14745,6 +14745,14 @@
       "onboard_time": 1750981640,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 475279,
+      "num": 475279,
+      "word": "印度已婚男与远房亲戚恋爱双双跳崖",
+      "onboard_time": 1751101461,
+      "rank": 17,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 475208,
@@ -22547,6 +22555,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 322224,
+      "num": 322224,
+      "word": "刘亦菲",
+      "onboard_time": 1751102182,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 322153,
       "num": 322153,
       "word": "伊朗首都局势紧张数百万民众开始疏散",
@@ -25185,14 +25201,6 @@
       "onboard_time": 1749267688,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 285980,
-      "num": 285980,
-      "word": "印度已婚男与远房亲戚恋爱双双跳崖",
-      "onboard_time": 1751101461,
-      "rank": 17,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 285916,
@@ -29923,14 +29931,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 240332,
-      "num": 240332,
-      "word": "刘亦菲",
-      "onboard_time": 1751102182,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 240255,
       "num": 240255,
       "word": "川菜是抗炎作用最强的菜系",
@@ -32401,6 +32401,14 @@
       "onboard_time": 1751029286,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 223145,
+      "num": 223145,
+      "word": "鹿晗回春",
+      "onboard_time": 1751102421,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 223103,
@@ -38747,6 +38755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 197298,
+      "num": 197298,
+      "word": "宋亚轩芭莎之夜造型",
+      "onboard_time": 1751102781,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 197286,
       "num": 197286,
       "word": "四川一男子疑开凿奥特曼石窟",
@@ -40729,6 +40745,14 @@
       "onboard_time": 1750436182,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191118,
+      "num": 191118,
+      "word": "我以为天亮了结果天塌了",
+      "onboard_time": 1751102602,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 191071,
@@ -47979,6 +48003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168923,
+      "num": 168923,
+      "word": "这就是拒绝过JYP和SM的实力吗",
+      "onboard_time": 1751101221,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 168896,
       "num": 225199,
       "word": "蒯曼平野美宇vs刘炜珊何卓佳",
@@ -48105,6 +48137,14 @@
       "onboard_time": 1750866382,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168648,
+      "num": 168648,
+      "word": "鸟巢回应禁带标语并非针对河北",
+      "onboard_time": 1751102361,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168645,
@@ -49953,14 +49993,6 @@
       "onboard_time": 1749646162,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 163912,
-      "num": 163912,
-      "word": "这就是拒绝过JYP和SM的实力吗",
-      "onboard_time": 1751101221,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 163893,
@@ -52859,6 +52891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155595,
+      "num": 155595,
+      "word": "两小无猜主演分手",
+      "onboard_time": 1751103023,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155589,
       "num": 155589,
       "word": "张康乐首次挑战民国题材",
@@ -54009,14 +54049,6 @@
       "onboard_time": 1751000903,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 152791,
-      "num": 152791,
-      "word": "我以为天亮了结果天塌了",
-      "onboard_time": 1751102602,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 152771,
@@ -61963,6 +61995,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 134248,
+      "num": 134248,
+      "word": "荔枝鲜榨米酿榨汁",
+      "onboard_time": 1751103143,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 134231,
       "num": 1296096,
       "word": "有一种震撼叫祖国山河如画",
@@ -62657,6 +62697,14 @@
       "onboard_time": 1750571781,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132703,
+      "num": 132703,
+      "word": "一天三份工15个月赚20万",
+      "onboard_time": 1751100322,
+      "rank": 43,
+      "category": "休闲"
     },
     {
       "raw_hot": 132697,
@@ -65299,14 +65347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 127334,
-      "num": 127334,
-      "word": "宋亚轩芭莎之夜造型",
-      "onboard_time": 1751102781,
-      "rank": 42,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 127332,
       "num": 127332,
       "word": "洛杉矶宵禁预计持续数天",
@@ -65795,6 +65835,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 126092,
+      "num": 126092,
+      "word": "本科生和研究生毕业的区别belike",
+      "onboard_time": 1751103202,
+      "rank": 43,
+      "category": "幽默,休闲"
+    },
+    {
       "raw_hot": 126080,
       "num": 498718,
       "word": "张桂梅一句话让我秒回学生时代",
@@ -66041,6 +66089,14 @@
       "onboard_time": 1749542601,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 125666,
+      "num": 125666,
+      "word": "王楚钦孙颖莎三冠荣耀",
+      "onboard_time": 1751102903,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 125638,
@@ -66569,14 +66625,6 @@
       "onboard_time": 1750422440,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124369,
-      "num": 124369,
-      "word": "一天三份工15个月赚20万",
-      "onboard_time": 1751100322,
-      "rank": 43,
-      "category": "休闲"
     },
     {
       "raw_hot": 124346,
@@ -68979,14 +69027,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 119080,
-      "num": 119080,
-      "word": "鸟巢回应禁带标语并非针对河北",
-      "onboard_time": 1751102361,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 119069,
       "num": 183598,
       "word": "BIGHIT新男团将8月出道",
@@ -69353,6 +69393,14 @@
       "onboard_time": 1749608179,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 118075,
+      "num": 118075,
+      "word": "喜综拿白玉兰的含金量",
+      "onboard_time": 1751102841,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 118073,
@@ -69753,6 +69801,14 @@
       "onboard_time": 1750001302,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116923,
+      "num": 116923,
+      "word": "9岁女童火车站被人带走抚养37年",
+      "onboard_time": 1751102841,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116917,
@@ -70731,6 +70787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114642,
+      "num": 224821,
+      "word": "王一博传统攀岩",
+      "onboard_time": 1751101581,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114634,
       "num": 114634,
       "word": "李荣书开通ins",
@@ -71129,14 +71193,6 @@
       "onboard_time": 1751068760,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 113856,
-      "num": 113856,
-      "word": "9岁女童火车站被人带走抚养37年",
-      "onboard_time": 1751102841,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113836,
@@ -71779,14 +71835,6 @@
       "category": "游戏,电竞"
     },
     {
-      "raw_hot": 112416,
-      "num": 112416,
-      "word": "王一博传统攀岩",
-      "onboard_time": 1751101581,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 112415,
       "num": 112415,
       "word": "时代少年团精准描述刘耀文特点",
@@ -71833,14 +71881,6 @@
       "onboard_time": 1749942256,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 112271,
-      "num": 112271,
-      "word": "喜综拿白玉兰的含金量",
-      "onboard_time": 1751102841,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 112258,
@@ -73785,6 +73825,14 @@
       "onboard_time": 1749486739,
       "rank": 35,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 107280,
+      "num": 107280,
+      "word": "日子和周深过真的不一样",
+      "onboard_time": 1751103682,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 107274,
@@ -81331,6 +81379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79842,
+      "num": 413216,
+      "word": "世界顶级数学家张益唐加盟中山大学",
+      "onboard_time": 1751103261,
+      "rank": 9,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 79835,
       "num": 603306,
       "word": "白鹿开口即破音",
@@ -88875,6 +88931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49313,
+      "num": 260833,
+      "word": "盘点Dior男装秀精彩瞬间",
+      "onboard_time": 1751101943,
+      "rank": 18,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 49303,
       "num": 49303,
       "word": "雷军送高考祝福",
@@ -91939,14 +92003,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 38973,
-      "num": 260833,
-      "word": "盘点Dior男装秀精彩瞬间",
-      "onboard_time": 1751101943,
-      "rank": 18,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 38918,
       "num": 127123,
       "word": "入门级别的八个瑜伽动作",
@@ -93776,6 +93832,14 @@
       "word": "香会现场中国少将强硬回应",
       "onboard_time": 1748770101,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33648,
+      "num": 775421,
+      "word": "6组数据看我国中小企业发展成就",
+      "onboard_time": 1751102002,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -97161,14 +97225,6 @@
       "onboard_time": 1749666617,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 24641,
-      "num": 768106,
-      "word": "6组数据看我国中小企业发展成就",
-      "onboard_time": 1751102002,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 24636,
