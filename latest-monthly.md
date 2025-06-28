@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/28 18:26:08
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/28 18:43:40
 </p>
 </blockquote>
 <p>
@@ -4683,6 +4683,12 @@ aespa回归预告（热度：882775）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%9B%9E%E6%98%A5%23" target="weibo">
+鹿晗回春（热度：862169）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E7%A7%B0%E6%9C%9F%E5%BE%85G7%E5%8F%98G8%23" target="weibo">
 特朗普宣称期待G7变G8（热度：861801）
 </a>
@@ -5583,6 +5589,12 @@ T3司机猥亵大三女生被行拘5日（热度：810171）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%AB%E4%BA%86%E5%8F%AA%E7%82%B8%E9%B8%A1%E9%97%A8%E5%BA%97%E5%90%8E%E5%8E%A8%E6%88%90%E5%8D%A7%E5%AE%A4%E8%9F%91%E8%9E%82%E5%A4%9A%23" target="weibo">
+叫了只炸鸡门店后厨成卧室蟑螂多（热度：772596）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E4%B8%87%E8%A2%AB%E8%A7%A3%E9%9B%87%E5%90%8E%E5%87%8C%E6%99%A8%E4%B9%98%E6%9C%BA%E7%A6%BB%E5%BC%80%E4%B8%AD%E5%9B%BD%23" target="weibo">
 伊万被解雇后凌晨乘机离开中国（热度：772175）
 </a>
@@ -5999,18 +6011,6 @@ F35（热度：742995）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E8%8A%B115%E4%B8%87%E7%BB%99%E7%B2%89%E4%B8%9D%E4%B9%B0%E9%A1%B9%E9%93%BE%23" target="weibo">
 丁禹兮花15万给粉丝买项链（热度：733966）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B7%B3%E6%A5%BC%E6%9C%BA%E5%A5%BD%E4%B8%8D%E5%AE%B9%E6%98%93%E5%8D%87%E5%92%96%E5%8F%88%E6%89%93%E5%9B%9E%E5%8E%9F%E5%BD%A2%E4%BA%86%23" target="weibo">
-跳楼机好不容易升咖又打回原形了（热度：733542）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%9E%9C%E5%B4%A9%E4%BA%86%23" target="weibo">
-红果崩了（热度：733273）
 </a>
 </li>
 
