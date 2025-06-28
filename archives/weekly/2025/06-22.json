@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1751080796832,
+  "endTime": 1751081560221,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -433,6 +433,14 @@
       "onboard_time": 1750834104,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1808331,
+      "num": 1808331,
+      "word": "关晓彤确实是藏不住事的年纪",
+      "onboard_time": 1751080463,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 1747665,
@@ -884,7 +892,7 @@
     },
     {
       "raw_hot": 1183885,
-      "num": 325160,
+      "num": 329201,
       "word": "关晓彤的头脸已经很小了",
       "onboard_time": 1751076622,
       "rank": 10,
@@ -1305,14 +1313,6 @@
       "onboard_time": 1750947324,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 960207,
-      "num": 321908,
-      "word": "关晓彤确实是藏不住事的年纪",
-      "onboard_time": 1751080463,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 959847,
@@ -3227,6 +3227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 529545,
+      "num": 529545,
+      "word": "南昌舰以一对二逼退外舰",
+      "onboard_time": 1751079384,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 529007,
       "num": 462915,
       "word": "陈楚生唱了9分钟",
@@ -4827,14 +4835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 386899,
-      "num": 386899,
-      "word": "南昌舰以一对二逼退外舰",
-      "onboard_time": 1751079384,
-      "rank": 7,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 385777,
       "num": 385777,
       "word": "美国轰炸伊朗核设施",
@@ -5489,6 +5489,14 @@
       "onboard_time": 1750866862,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 341521,
+      "num": 316867,
+      "word": "外卖员吐槽殡仪馆深夜有人点外卖",
+      "onboard_time": 1751080761,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 341201,
@@ -6321,6 +6329,14 @@
       "onboard_time": 1750510103,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 294756,
+      "num": 294756,
+      "word": "蒋奇明 我干了谢谢大家",
+      "onboard_time": 1751079143,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 294731,
@@ -7212,7 +7228,7 @@
     },
     {
       "raw_hot": 252079,
-      "num": 202903,
+      "num": 211944,
       "word": "大爷4块买西瓜觉得不对返回提醒",
       "onboard_time": 1751079502,
       "rank": 20,
@@ -7259,20 +7275,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 251760,
+      "num": 251760,
+      "word": "男子多次获刑摇身成为县财政局长",
+      "onboard_time": 1751079864,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 251192,
       "num": 251192,
       "word": "雷军回应何时造油车",
       "onboard_time": 1750667843,
       "rank": 21,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 250905,
-      "num": 250905,
-      "word": "蒋奇明 我干了谢谢大家",
-      "onboard_time": 1751079143,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 250628,
@@ -8275,14 +8291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 218278,
-      "num": 218278,
-      "word": "外卖员吐槽殡仪馆深夜有人点外卖",
-      "onboard_time": 1751080761,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 217892,
       "num": 207202,
       "word": "肖战撤回一个开箱切掉",
@@ -8513,6 +8521,14 @@
       "onboard_time": 1750606523,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 213486,
+      "num": 213486,
+      "word": "白玉兰",
+      "onboard_time": 1751068218,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 213227,
@@ -9011,14 +9027,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 203787,
-      "num": 203787,
-      "word": "白玉兰",
-      "onboard_time": 1751068218,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 203783,
       "num": 174267,
       "word": "伊朗尚未就停火发任何声明",
@@ -9233,6 +9241,14 @@
       "onboard_time": 1750937542,
       "rank": 26,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 201452,
+      "num": 201452,
+      "word": "登陆少年搪胶娃娃",
+      "onboard_time": 1751080822,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 201330,
@@ -9577,14 +9593,6 @@
       "onboard_time": 1750554442,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 197712,
-      "num": 197712,
-      "word": "男子多次获刑摇身成为县财政局长",
-      "onboard_time": 1751079864,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 197600,
@@ -10225,6 +10233,14 @@
       "onboard_time": 1750691185,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190675,
+      "num": 190675,
+      "word": "cpf要的莫名其妙亲个嘴真拍了",
+      "onboard_time": 1751080404,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 190654,
@@ -11593,14 +11609,6 @@
       "onboard_time": 1750849462,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 170162,
-      "num": 170162,
-      "word": "cpf要的莫名其妙亲个嘴真拍了",
-      "onboard_time": 1751080404,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 170047,
@@ -13003,6 +13011,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 153485,
+      "num": 153485,
+      "word": "鱿鱼游戏",
+      "onboard_time": 1751081062,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153390,
       "num": 153390,
       "word": "李晟我最好的朋友是我的爱人",
@@ -14324,7 +14340,7 @@
     },
     {
       "raw_hot": 140609,
-      "num": 120447,
+      "num": 129498,
       "word": "充电宝 泡盐水",
       "onboard_time": 1751078483,
       "rank": 46,
@@ -14752,6 +14768,14 @@
       "word": "小伙爱掏耳耳洞里长出小蘑菇",
       "onboard_time": 1750667963,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136012,
+      "num": 332383,
+      "word": "有3C标识充电宝也不都能登机",
+      "onboard_time": 1751080761,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -15345,6 +15369,14 @@
       "onboard_time": 1751018003,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130069,
+      "num": 130069,
+      "word": "一定要申请一个工作微信号",
+      "onboard_time": 1751081182,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 129942,
@@ -15955,6 +15987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124226,
+      "num": 124226,
+      "word": "小米YU7爆单影响SU7交付吗",
+      "onboard_time": 1751079684,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 124163,
       "num": 124163,
       "word": "一年看两次柯南雨太爽了",
@@ -16097,6 +16137,14 @@
       "onboard_time": 1750688002,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122890,
+      "num": 257683,
+      "word": "中国新能源车冲击耐力极限",
+      "onboard_time": 1751080761,
+      "rank": 36,
+      "category": "汽车"
     },
     {
       "raw_hot": 122747,
@@ -16553,6 +16601,14 @@
       "onboard_time": 1750837762,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 117502,
+      "num": 117502,
+      "word": "鹿晗这是一套的",
+      "onboard_time": 1751081422,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 117403,
@@ -17363,6 +17419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108829,
+      "num": 121043,
+      "word": "刘丁硕称王楚钦为卷王",
+      "onboard_time": 1751080104,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108677,
       "num": 328615,
       "word": "跪着高考的00后折叠男孩打开了",
@@ -17481,6 +17545,14 @@
       "onboard_time": 1750989561,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 107466,
+      "num": 107466,
+      "word": "在日本捡到Labubu之后",
+      "onboard_time": 1751081482,
+      "rank": 49,
+      "category": "休闲,动漫"
     },
     {
       "raw_hot": 107135,
@@ -19819,14 +19891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 66520,
-      "num": 152415,
-      "word": "中国新能源车冲击耐力极限",
-      "onboard_time": 1751080761,
-      "rank": 36,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 66479,
       "num": 164057,
       "word": "有没有人来替岳云鹏发声",
@@ -21923,14 +21987,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 29974,
-      "num": 146323,
-      "word": "有3C标识充电宝也不都能登机",
-      "onboard_time": 1751080761,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 29895,
       "num": 193006,
       "word": "山西吕梁煤矸石倾倒乱象调查",
@@ -23211,6 +23267,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 14439,
+      "num": 121003,
+      "word": "以色列密谋在美实施爆炸栽赃伊朗",
+      "onboard_time": 1751081541,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 14421,
       "num": 65510,
       "word": "冲突已致伊朗430人死亡3500人受伤",
@@ -23355,7 +23419,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 10165,
+      "raw_hot": 10282,
       "num": 145063,
       "word": "小米Pad7Ultra全能生活搭子",
       "onboard_time": 1751079143,

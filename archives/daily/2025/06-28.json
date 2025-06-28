@@ -1,6 +1,6 @@
 {
   "startTime": 1751041984881,
-  "endTime": 1751080796832,
+  "endTime": 1751081560221,
   "band_list": [
     {
       "raw_hot": 4618253,
@@ -16,6 +16,14 @@
       "word": "白玉兰获奖名单",
       "onboard_time": 1751032048,
       "rank": 1,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1808331,
+      "num": 1808331,
+      "word": "关晓彤确实是藏不住事的年纪",
+      "onboard_time": 1751080463,
+      "rank": 10,
       "category": "剧集"
     },
     {
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 1183885,
-      "num": 325160,
+      "num": 329201,
       "word": "关晓彤的头脸已经很小了",
       "onboard_time": 1751076622,
       "rank": 10,
@@ -65,14 +73,6 @@
       "onboard_time": 1751038705,
       "rank": 7,
       "category": "演出"
-    },
-    {
-      "raw_hot": 960207,
-      "num": 321908,
-      "word": "关晓彤确实是藏不住事的年纪",
-      "onboard_time": 1751080463,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 900764,
@@ -163,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 529545,
+      "num": 529545,
+      "word": "南昌舰以一对二逼退外舰",
+      "onboard_time": 1751079384,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 526717,
       "num": 280312,
       "word": "蒋欣回应早该拿奖了",
@@ -211,14 +219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 386899,
-      "num": 386899,
-      "word": "南昌舰以一对二逼退外舰",
-      "onboard_time": 1751079384,
-      "rank": 7,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 367099,
       "num": 276731,
       "word": "陈星旭因病住院",
@@ -233,6 +233,14 @@
       "onboard_time": 1751039905,
       "rank": 16,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 341521,
+      "num": 316867,
+      "word": "外卖员吐槽殡仪馆深夜有人点外卖",
+      "onboard_time": 1751080761,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 336749,
@@ -291,6 +299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 294756,
+      "num": 294756,
+      "word": "蒋奇明 我干了谢谢大家",
+      "onboard_time": 1751079143,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 281467,
       "num": 281467,
       "word": "多方回应美国多州报告火球从天而降",
@@ -340,7 +356,7 @@
     },
     {
       "raw_hot": 252079,
-      "num": 202903,
+      "num": 211944,
       "word": "大爷4块买西瓜觉得不对返回提醒",
       "onboard_time": 1751079502,
       "rank": 20,
@@ -355,12 +371,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 250905,
-      "num": 250905,
-      "word": "蒋奇明 我干了谢谢大家",
-      "onboard_time": 1751079143,
-      "rank": 13,
-      "category": "艺人"
+      "raw_hot": 251760,
+      "num": 251760,
+      "word": "男子多次获刑摇身成为县财政局长",
+      "onboard_time": 1751079864,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 249382,
@@ -411,14 +427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 218278,
-      "num": 218278,
-      "word": "外卖员吐槽殡仪馆深夜有人点外卖",
-      "onboard_time": 1751080761,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 216466,
       "num": 205509,
       "word": "于和伟陪跑",
@@ -432,6 +440,14 @@
       "word": "我是刑警",
       "onboard_time": 1751039185,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 213486,
+      "num": 213486,
+      "word": "白玉兰",
+      "onboard_time": 1751068218,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -451,12 +467,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 203787,
-      "num": 203787,
-      "word": "白玉兰",
-      "onboard_time": 1751068218,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 201452,
+      "num": 201452,
+      "word": "登陆少年搪胶娃娃",
+      "onboard_time": 1751080822,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 200319,
@@ -475,12 +491,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197712,
-      "num": 197712,
-      "word": "男子多次获刑摇身成为县财政局长",
-      "onboard_time": 1751079864,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 190675,
+      "num": 190675,
+      "word": "cpf要的莫名其妙亲个嘴真拍了",
+      "onboard_time": 1751080404,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 185922,
@@ -563,14 +579,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 170162,
-      "num": 170162,
-      "word": "cpf要的莫名其妙亲个嘴真拍了",
-      "onboard_time": 1751080404,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 169138,
       "num": 139568,
       "word": "关晓彤妆造正确",
@@ -600,6 +608,14 @@
       "word": "以法之名",
       "onboard_time": 1751079923,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 153485,
+      "num": 153485,
+      "word": "鱿鱼游戏",
+      "onboard_time": 1751081062,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -668,7 +684,7 @@
     },
     {
       "raw_hot": 140609,
-      "num": 120447,
+      "num": 129498,
       "word": "充电宝 泡盐水",
       "onboard_time": 1751078483,
       "rank": 46,
@@ -681,6 +697,14 @@
       "onboard_time": 1751072603,
       "rank": 35,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 136012,
+      "num": 332383,
+      "word": "有3C标识充电宝也不都能登机",
+      "onboard_time": 1751080761,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135066,
@@ -715,6 +739,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 130069,
+      "num": 130069,
+      "word": "一定要申请一个工作微信号",
+      "onboard_time": 1751081182,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 124711,
       "num": 211323,
       "word": "退学北大男生被说是最差年级第一",
@@ -731,12 +763,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124226,
+      "num": 124226,
+      "word": "小米YU7爆单影响SU7交付吗",
+      "onboard_time": 1751079684,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 123221,
       "num": 123221,
       "word": "一个继承大统一个继承饭桶",
       "onboard_time": 1751079502,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122890,
+      "num": 257683,
+      "word": "中国新能源车冲击耐力极限",
+      "onboard_time": 1751080761,
+      "rank": 36,
+      "category": "汽车"
     },
     {
       "raw_hot": 122372,
@@ -779,6 +827,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 117502,
+      "num": 117502,
+      "word": "鹿晗这是一套的",
+      "onboard_time": 1751081422,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 117403,
       "num": 117403,
       "word": "BLG翻盘GAM",
@@ -809,6 +865,22 @@
       "onboard_time": 1751080163,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 108829,
+      "num": 121043,
+      "word": "刘丁硕称王楚钦为卷王",
+      "onboard_time": 1751080104,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 107466,
+      "num": 107466,
+      "word": "在日本捡到Labubu之后",
+      "onboard_time": 1751081482,
+      "rank": 49,
+      "category": "休闲,动漫"
     },
     {
       "raw_hot": 106660,
@@ -953,14 +1025,6 @@
       "onboard_time": 1751019322,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 66520,
-      "num": 152415,
-      "word": "中国新能源车冲击耐力极限",
-      "onboard_time": 1751080761,
-      "rank": 36,
-      "category": "汽车"
     },
     {
       "raw_hot": 63206,
@@ -1147,14 +1211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 29974,
-      "num": 146323,
-      "word": "有3C标识充电宝也不都能登机",
-      "onboard_time": 1751080761,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 29421,
       "num": 117422,
       "word": "用100寸电视玩switch2是什么体验",
@@ -1251,6 +1307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 14439,
+      "num": 121003,
+      "word": "以色列密谋在美实施爆炸栽赃伊朗",
+      "onboard_time": 1751081541,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 12021,
       "num": 44657,
       "word": "卢伟冰称团队十分有血性",
@@ -1259,7 +1323,7 @@
       "category": "数码"
     },
     {
-      "raw_hot": 10165,
+      "raw_hot": 10282,
       "num": 145063,
       "word": "小米Pad7Ultra全能生活搭子",
       "onboard_time": 1751079143,

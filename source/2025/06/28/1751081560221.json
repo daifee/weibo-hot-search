@@ -1,0 +1,410 @@
+{
+  "runTime": 1751081560221,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1808331,
+        "num": 1808331,
+        "word": "关晓彤确实是藏不住事的年纪",
+        "onboard_time": 1751080463,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1001933,
+        "num": 1001933,
+        "word": "张桂梅",
+        "onboard_time": 1751069782,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44367,
+        "num": 771559,
+        "word": "7月这些新规影响你我",
+        "onboard_time": 1751031627,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1439457,
+        "num": 734409,
+        "word": "日本连环杀人犯家中藏9个人头",
+        "onboard_time": 1751074403,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 628219,
+        "num": 628219,
+        "word": "鹿晗就我一个人慢慢变老了吗",
+        "onboard_time": 1751076323,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 529545,
+        "num": 529545,
+        "word": "南昌舰以一对二逼退外舰",
+        "onboard_time": 1751079384,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 351585,
+        "num": 351585,
+        "word": "被打还手即互殴成为历史",
+        "onboard_time": 1751037269,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 343067,
+        "num": 343067,
+        "word": "宋佳获奖闫妮送了她一朵棉花",
+        "onboard_time": 1751074103,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 339852,
+        "num": 339852,
+        "word": "荔枝壳 农药",
+        "onboard_time": 1751075303,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136012,
+        "num": 332383,
+        "word": "有3C标识充电宝也不都能登机",
+        "onboard_time": 1751080761,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 534983,
+        "num": 329201,
+        "word": "关晓彤的头脸已经很小了",
+        "onboard_time": 1751076622,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 341521,
+        "num": 316867,
+        "word": "外卖员吐槽殡仪馆深夜有人点外卖",
+        "onboard_time": 1751080761,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 454948,
+        "num": 309728,
+        "word": "宋佳白玉兰视后",
+        "onboard_time": 1751036790,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306244,
+        "num": 306244,
+        "word": "女子电梯口被毒蛇咬老公教科书式操作",
+        "onboard_time": 1751070382,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294756,
+        "num": 294756,
+        "word": "蒋奇明 我干了谢谢大家",
+        "onboard_time": 1751079143,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275075,
+        "num": 275075,
+        "word": "白玉兰神图",
+        "onboard_time": 1751069061,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272675,
+        "num": 272675,
+        "word": "特朗普称放弃解除对伊朗制裁",
+        "onboard_time": 1751074823,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122890,
+        "num": 257683,
+        "word": "中国新能源车冲击耐力极限",
+        "onboard_time": 1751080761,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 251760,
+        "num": 251760,
+        "word": "男子多次获刑摇身成为县财政局长",
+        "onboard_time": 1751079864,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213486,
+        "num": 213486,
+        "word": "白玉兰",
+        "onboard_time": 1751068218,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225406,
+        "num": 211944,
+        "word": "大爷4块买西瓜觉得不对返回提醒",
+        "onboard_time": 1751079502,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201452,
+        "num": 201452,
+        "word": "登陆少年搪胶娃娃",
+        "onboard_time": 1751080822,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190675,
+        "num": 190675,
+        "word": "cpf要的莫名其妙亲个嘴真拍了",
+        "onboard_time": 1751080404,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188471,
+        "num": 188471,
+        "word": "大婶上山锄地捡到傻狍子2只变一群",
+        "onboard_time": 1751074463,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184682,
+        "num": 184682,
+        "word": "鱿鱼游戏 烂尾",
+        "onboard_time": 1751077822,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180427,
+        "num": 180427,
+        "word": "小猫误入洗衣机转了55分钟3000转",
+        "onboard_time": 1751037694,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172337,
+        "num": 172337,
+        "word": "西贝暑假工 偷拍",
+        "onboard_time": 1751077044,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171027,
+        "num": 171027,
+        "word": "刘学义演古偶 大炮轰蚊子",
+        "onboard_time": 1751079802,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171013,
+        "num": 171013,
+        "word": "白玉兰获奖名单",
+        "onboard_time": 1751032048,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156605,
+        "num": 156605,
+        "word": "刘亦菲没去白玉兰",
+        "onboard_time": 1751030665,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153485,
+        "num": 153485,
+        "word": "鱿鱼游戏",
+        "onboard_time": 1751081062,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146951,
+        "num": 146951,
+        "word": "王宝强回应白玉兰提名",
+        "onboard_time": 1751078782,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146510,
+        "num": 146510,
+        "word": "男子连吹3天空调肺白了一半",
+        "onboard_time": 1751069421,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142569,
+        "num": 142569,
+        "word": "韩路 陈震",
+        "onboard_time": 1751075784,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 130069,
+        "num": 130069,
+        "word": "一定要申请一个工作微信号",
+        "onboard_time": 1751081182,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129498,
+        "num": 129498,
+        "word": "充电宝 泡盐水",
+        "onboard_time": 1751078483,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125501,
+        "num": 125501,
+        "word": "BLG战胜GAM",
+        "onboard_time": 1751078664,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124226,
+        "num": 124226,
+        "word": "小米YU7爆单影响SU7交付吗",
+        "onboard_time": 1751079684,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 121124,
+        "num": 121124,
+        "word": "路温吐槽赵丽颖酱园弄演技",
+        "onboard_time": 1751076863,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108829,
+        "num": 121043,
+        "word": "刘丁硕称王楚钦为卷王",
+        "onboard_time": 1751080104,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10282,
+        "num": 121013,
+        "word": "小米Pad7Ultra全能生活搭子",
+        "onboard_time": 1751079143,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 14439,
+        "num": 121003,
+        "word": "以色列密谋在美实施爆炸栽赃伊朗",
+        "onboard_time": 1751081541,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120995,
+        "num": 120995,
+        "word": "特朗普曾要求以色列制造大战",
+        "onboard_time": 1751078244,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110562,
+        "num": 119124,
+        "word": "蔡澜去世",
+        "onboard_time": 1751010686,
+        "rank": 43,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 117502,
+        "num": 117502,
+        "word": "鹿晗这是一套的",
+        "onboard_time": 1751081422,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116228,
+        "num": 116228,
+        "word": "单依纯哭了",
+        "onboard_time": 1751035950,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113900,
+        "num": 113900,
+        "word": "女子频繁买卖海南离岛免税商品获刑",
+        "onboard_time": 1751070141,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112284,
+        "num": 112284,
+        "word": "Knight亮TES队标",
+        "onboard_time": 1751080343,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111087,
+        "num": 111087,
+        "word": "杨紫台下那一声尖叫",
+        "onboard_time": 1751038526,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107466,
+        "num": 107466,
+        "word": "在日本捡到Labubu之后",
+        "onboard_time": 1751081482,
+        "rank": 49,
+        "category": "休闲,动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#第四十九号主席令#"
+    }
+  }
+}
