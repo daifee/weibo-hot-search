@@ -1,6 +1,6 @@
 {
   "startTime": 1751041984881,
-  "endTime": 1751093310016,
+  "endTime": 1751095441170,
   "band_list": [
     {
       "raw_hot": 4618253,
@@ -35,12 +35,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1438016,
+      "num": 397063,
+      "word": "迪丽热巴90花唯一的视后",
+      "onboard_time": 1751094260,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1320528,
       "num": 1320528,
       "word": "张桂梅",
       "onboard_time": 1751069782,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1255256,
+      "num": 1255256,
+      "word": "贵州榕江拉响全城警报",
+      "onboard_time": 1751091143,
+      "rank": 1,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 1247720,
@@ -65,14 +81,6 @@
       "onboard_time": 1751037031,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1115073,
-      "num": 1178411,
-      "word": "贵州榕江拉响全城警报",
-      "onboard_time": 1751091143,
-      "rank": 1,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 1073174,
@@ -163,6 +171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 710227,
+      "num": 710227,
+      "word": "芭莎红毯",
+      "onboard_time": 1751093721,
+      "rank": 1,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 691978,
       "num": 434447,
       "word": "沙溢儿子安吉14岁近照",
@@ -209,6 +225,14 @@
       "onboard_time": 1751082382,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 638106,
+      "num": 344919,
+      "word": "辽宁舰遭外军双航母夹击歼15挂弹起飞",
+      "onboard_time": 1751094440,
+      "rank": 11,
+      "category": "军事"
     },
     {
       "raw_hot": 607473,
@@ -283,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 510887,
+      "num": 344844,
+      "word": "低精力人群 炎症",
+      "onboard_time": 1751093541,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 505079,
       "num": 203398,
       "word": "王安宇给蒋欣送蛇瓜",
@@ -305,6 +337,14 @@
       "onboard_time": 1751070141,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 448304,
+      "num": 346068,
+      "word": "小鬼质疑芒种原唱",
+      "onboard_time": 1751094141,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 444110,
@@ -345,6 +385,14 @@
       "onboard_time": 1751069061,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 381887,
+      "num": 344737,
+      "word": "刘亦菲黑长直怼脸",
+      "onboard_time": 1751094321,
+      "rank": 13,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 367099,
@@ -483,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286750,
+      "num": 286750,
+      "word": "邓超回应唱哭了",
+      "onboard_time": 1751093062,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 281467,
       "num": 281467,
       "word": "多方回应美国多州报告火球从天而降",
@@ -499,20 +555,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 272526,
-      "num": 272526,
-      "word": "邓超回应唱哭了",
-      "onboard_time": 1751093062,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 266329,
       "num": 266329,
       "word": "美国多州报告火球从天而降",
       "onboard_time": 1751037694,
       "rank": 17,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 265292,
+      "num": 265292,
+      "word": "蔡澜 陈宝莲",
+      "onboard_time": 1751094621,
+      "rank": 21,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 263834,
@@ -529,6 +585,14 @@
       "onboard_time": 1751032589,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 256333,
+      "num": 256333,
+      "word": "31岁独居女生靠存款生活的一天",
+      "onboard_time": 1751094800,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 252523,
@@ -627,6 +691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 217362,
+      "num": 217362,
+      "word": "李一桐内娱第一个举报型女主",
+      "onboard_time": 1751094380,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216466,
       "num": 205509,
       "word": "于和伟陪跑",
@@ -641,6 +713,14 @@
       "onboard_time": 1751039185,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213890,
+      "num": 213890,
+      "word": "张凌赫把迪丽热巴逼急这段",
+      "onboard_time": 1751094682,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 213486,
@@ -747,12 +827,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188585,
+      "num": 188585,
+      "word": "昔日中国好声音冠军因忘词被质疑",
+      "onboard_time": 1751094321,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187640,
       "num": 187640,
       "word": "严浩翔导师秀快嘴rap",
       "onboard_time": 1751085801,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186635,
+      "num": 186635,
+      "word": "女子被前男友砍20多刀几乎断指",
+      "onboard_time": 1751094021,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185922,
@@ -827,6 +923,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 177268,
+      "num": 177268,
+      "word": "ModelY全球首次完成全自动驾驶交付",
+      "onboard_time": 1751094440,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 177182,
       "num": 177182,
       "word": "糖尿病 年轻化",
@@ -875,6 +979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169701,
+      "num": 169701,
+      "word": "罗志祥直播",
+      "onboard_time": 1751093301,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169138,
       "num": 139568,
       "word": "关晓彤妆造正确",
@@ -907,6 +1019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165489,
+      "num": 165489,
+      "word": "金价大跌的4个原因",
+      "onboard_time": 1751094742,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 165018,
       "num": 165018,
       "word": "皮肤变厚 脚气",
@@ -915,12 +1035,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 164867,
+      "num": 164867,
+      "word": "双胞胎高考638分630分父亲要戒酒",
+      "onboard_time": 1751094800,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163757,
       "num": 163757,
       "word": "贺峻霖 密室大逃脱",
       "onboard_time": 1751089282,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162124,
+      "num": 162124,
+      "word": "郑钦文看看你带出来的兵",
+      "onboard_time": 1751094082,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 162071,
@@ -961,6 +1097,22 @@
       "onboard_time": 1751082862,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 155947,
+      "num": 155947,
+      "word": "大张伟一来韩红没法录节目了",
+      "onboard_time": 1751094141,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 155324,
+      "num": 155324,
+      "word": "这段哭戏是一个女孩的21年",
+      "onboard_time": 1751094742,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 155156,
@@ -1027,6 +1179,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147384,
+      "num": 147384,
+      "word": "原来周末最好的休息不是睡觉",
+      "onboard_time": 1751094742,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 147356,
+      "num": 147356,
+      "word": "芭莎之夜出图",
+      "onboard_time": 1751090841,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 146661,
       "num": 146661,
       "word": "诡秘之主今日全球开播",
@@ -1067,12 +1235,28 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 143581,
+      "num": 143581,
+      "word": "关注贵州榕江强降雨",
+      "onboard_time": 1751088441,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142795,
       "num": 142795,
       "word": "田嘉瑞时装周穿了粉丝严选",
       "onboard_time": 1751092401,
       "rank": 47,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 142018,
+      "num": 142018,
+      "word": "宋妍霏跑男三分钟被撕了两次",
+      "onboard_time": 1751094260,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 141700,
@@ -1113,14 +1297,6 @@
       "onboard_time": 1751084721,
       "rank": 38,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 136855,
-      "num": 136855,
-      "word": "关注贵州榕江强降雨",
-      "onboard_time": 1751088441,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 135303,
@@ -1187,6 +1363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 131343,
+      "num": 131343,
+      "word": "刘宇宁这一幕像国漫走出的真人",
+      "onboard_time": 1751094983,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130902,
       "num": 130902,
       "word": "蝉尿",
@@ -1200,6 +1384,14 @@
       "word": "Knight亮TES队标",
       "onboard_time": 1751080343,
       "rank": 44,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 129593,
+      "num": 129593,
+      "word": "MRC对战Gr",
+      "onboard_time": 1751095281,
+      "rank": 48,
       "category": "电竞"
     },
     {
@@ -1233,6 +1425,14 @@
       "onboard_time": 1751082142,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 127018,
+      "num": 127018,
+      "word": "TVB实力演员来白玉兰团建了",
+      "onboard_time": 1751093841,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 124711,
@@ -1353,14 +1553,6 @@
       "onboard_time": 1751084902,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 115344,
-      "num": 115344,
-      "word": "芭莎之夜出图",
-      "onboard_time": 1751090841,
-      "rank": 43,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 113878,
@@ -1576,6 +1768,14 @@
       "word": "上海女硕士被大专男骗财骗色骗卵",
       "onboard_time": 1751006961,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73920,
+      "num": 345117,
+      "word": "明年起宠物伤人可直接治安处罚",
+      "onboard_time": 1751094440,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1795,6 +1995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 40211,
+      "num": 138811,
+      "word": "恋与深空婚礼神曲",
+      "onboard_time": 1751094201,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 39822,
       "num": 249452,
       "word": "多地回应无3C标识充电宝能否上轨交",
@@ -1923,6 +2131,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 26009,
+      "num": 183293,
+      "word": "Jonathan是如何诠释Dior的",
+      "onboard_time": 1751093422,
+      "rank": 29,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 23862,
+      "num": 139049,
+      "word": "秦彻灵羽相契",
+      "onboard_time": 1751095401,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 22214,
       "num": 26960,
       "word": "单依纯确认唱思念是一种病",
@@ -2017,6 +2241,14 @@
       "onboard_time": 1751079143,
       "rank": 40,
       "category": "数码"
+    },
+    {
+      "raw_hot": 9682,
+      "num": 271852,
+      "word": "胡锡进对考砸学生的建议",
+      "onboard_time": 1751095102,
+      "rank": 19,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

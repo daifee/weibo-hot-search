@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1751093310016,
+  "endTime": 1751095441170,
   "band_list": [
     {
       "raw_hot": 15869744,
@@ -699,6 +699,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1438016,
+      "num": 397063,
+      "word": "迪丽热巴90花唯一的视后",
+      "onboard_time": 1751094260,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1435796,
       "num": 1435796,
       "word": "难听",
@@ -841,6 +849,14 @@
       "onboard_time": 1750755143,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1255256,
+      "num": 1255256,
+      "word": "贵州榕江拉响全城警报",
+      "onboard_time": 1751091143,
+      "rank": 1,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 1247720,
@@ -1017,14 +1033,6 @@
       "onboard_time": 1751027304,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1115073,
-      "num": 1178411,
-      "word": "贵州榕江拉响全城警报",
-      "onboard_time": 1751091143,
-      "rank": 1,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 1113727,
@@ -2139,6 +2147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 710227,
+      "num": 710227,
+      "word": "芭莎红毯",
+      "onboard_time": 1751093721,
+      "rank": 1,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 709888,
       "num": 709888,
       "word": "NBA选秀",
@@ -2617,6 +2633,14 @@
       "onboard_time": 1750723463,
       "rank": 21,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 638106,
+      "num": 344919,
+      "word": "辽宁舰遭外军双航母夹击歼15挂弹起飞",
+      "onboard_time": 1751094440,
+      "rank": 11,
+      "category": "军事"
     },
     {
       "raw_hot": 637738,
@@ -3547,6 +3571,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 510887,
+      "num": 344844,
+      "word": "低精力人群 炎症",
+      "onboard_time": 1751093541,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 510004,
       "num": 510004,
       "word": "高考分数线",
@@ -4217,6 +4249,14 @@
       "onboard_time": 1750832422,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 448304,
+      "num": 346068,
+      "word": "小鬼质疑芒种原唱",
+      "onboard_time": 1751094141,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 448088,
@@ -5017,6 +5057,14 @@
       "onboard_time": 1751005941,
       "rank": 22,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 381887,
+      "num": 344737,
+      "word": "刘亦菲黑长直怼脸",
+      "onboard_time": 1751094321,
+      "rank": 13,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 379078,
@@ -6603,6 +6651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 286750,
+      "num": 286750,
+      "word": "邓超回应唱哭了",
+      "onboard_time": 1751093062,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 285916,
       "num": 285916,
       "word": "王楚钦乒乓球围棋二选一",
@@ -6931,14 +6987,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 272526,
-      "num": 272526,
-      "word": "邓超回应唱哭了",
-      "onboard_time": 1751093062,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 272161,
       "num": 272161,
       "word": "小米YU7本周正式发布",
@@ -7105,6 +7153,14 @@
       "onboard_time": 1750843463,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 265292,
+      "num": 265292,
+      "word": "蔡澜 陈宝莲",
+      "onboard_time": 1751094621,
+      "rank": 21,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 265270,
@@ -7297,6 +7353,14 @@
       "onboard_time": 1750938982,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 256333,
+      "num": 256333,
+      "word": "31岁独居女生靠存款生活的一天",
+      "onboard_time": 1751094800,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 256148,
@@ -8515,6 +8579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 217362,
+      "num": 217362,
+      "word": "李一桐内娱第一个举报型女主",
+      "onboard_time": 1751094380,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217317,
       "num": 217317,
       "word": "气血好的人眼睛是亮亮的",
@@ -8697,6 +8769,14 @@
       "onboard_time": 1750822042,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 213890,
+      "num": 213890,
+      "word": "张凌赫把迪丽热巴逼急这段",
+      "onboard_time": 1751094682,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 213867,
@@ -10627,6 +10707,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 188585,
+      "num": 188585,
+      "word": "昔日中国好声音冠军因忘词被质疑",
+      "onboard_time": 1751094321,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188457,
       "num": 188457,
       "word": "杨紫锦绣芳华物料发布节奏",
@@ -10801,6 +10889,14 @@
       "onboard_time": 1750942703,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186635,
+      "num": 186635,
+      "word": "女子被前男友砍20多刀几乎断指",
+      "onboard_time": 1751094021,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186620,
@@ -11427,6 +11523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 177268,
+      "num": 177268,
+      "word": "ModelY全球首次完成全自动驾驶交付",
+      "onboard_time": 1751094440,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 177201,
       "num": 177201,
       "word": "樊振东说英语太逗了",
@@ -11955,6 +12059,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 169701,
+      "num": 169701,
+      "word": "罗志祥直播",
+      "onboard_time": 1751093301,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169475,
       "num": 282417,
       "word": "警方通报26岁男子多次在楼道偷窥",
@@ -12251,6 +12363,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 165489,
+      "num": 165489,
+      "word": "金价大跌的4个原因",
+      "onboard_time": 1751094742,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 165365,
       "num": 180176,
       "word": "孟子义接桃花映江山的原因找到了",
@@ -12305,6 +12425,14 @@
       "onboard_time": 1750586481,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164867,
+      "num": 164867,
+      "word": "双胞胎高考638分630分父亲要戒酒",
+      "onboard_time": 1751094800,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164852,
@@ -12553,6 +12681,14 @@
       "onboard_time": 1750780461,
       "rank": 31,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 162124,
+      "num": 162124,
+      "word": "郑钦文看看你带出来的兵",
+      "onboard_time": 1751094082,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 162071,
@@ -13091,6 +13227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155947,
+      "num": 155947,
+      "word": "大张伟一来韩红没法录节目了",
+      "onboard_time": 1751094141,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155876,
       "num": 155876,
       "word": "青岛韩餐 名不虚传",
@@ -13145,6 +13289,14 @@
       "onboard_time": 1750600762,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155324,
+      "num": 155324,
+      "word": "这段哭戏是一个女孩的21年",
+      "onboard_time": 1751094742,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 155317,
@@ -13907,6 +14059,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147384,
+      "num": 147384,
+      "word": "原来周末最好的休息不是睡觉",
+      "onboard_time": 1751094742,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 147356,
+      "num": 147356,
+      "word": "芭莎之夜出图",
+      "onboard_time": 1751090841,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 147344,
       "num": 176062,
       "word": "医生说微胖的人更能扛病",
@@ -14355,6 +14523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143581,
+      "num": 143581,
+      "word": "关注贵州榕江强降雨",
+      "onboard_time": 1751088441,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143531,
       "num": 143531,
       "word": "超模胡兵的高能24小时",
@@ -14609,6 +14785,14 @@
       "onboard_time": 1750674324,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 142018,
+      "num": 142018,
+      "word": "宋妍霏跑男三分钟被撕了两次",
+      "onboard_time": 1751094260,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 141959,
@@ -15137,14 +15321,6 @@
       "onboard_time": 1750815380,
       "rank": 36,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 136855,
-      "num": 136855,
-      "word": "关注贵州榕江强降雨",
-      "onboard_time": 1751088441,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 136512,
@@ -15683,6 +15859,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 131343,
+      "num": 131343,
+      "word": "刘宇宁这一幕像国漫走出的真人",
+      "onboard_time": 1751094983,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131332,
       "num": 131332,
       "word": "刘学义用脸骂人赛道",
@@ -15865,6 +16049,14 @@
       "onboard_time": 1750830321,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129593,
+      "num": 129593,
+      "word": "MRC对战Gr",
+      "onboard_time": 1751095281,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 129524,
@@ -16177,6 +16369,14 @@
       "onboard_time": 1750521322,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127018,
+      "num": 127018,
+      "word": "TVB实力演员来白玉兰团建了",
+      "onboard_time": 1751093841,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 126934,
@@ -17297,14 +17497,6 @@
       "onboard_time": 1750834104,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 115344,
-      "num": 115344,
-      "word": "芭莎之夜出图",
-      "onboard_time": 1751090841,
-      "rank": 43,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 115303,
@@ -20091,6 +20283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 73920,
+      "num": 345117,
+      "word": "明年起宠物伤人可直接治安处罚",
+      "onboard_time": 1751094440,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73891,
       "num": 469397,
       "word": "王骁卡萨帝质感对味了",
@@ -22011,6 +22211,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 40211,
+      "num": 138811,
+      "word": "恋与深空婚礼神曲",
+      "onboard_time": 1751094201,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 40088,
       "num": 365119,
       "word": "加沙1个洋葱100元",
@@ -23027,6 +23235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 26009,
+      "num": 183293,
+      "word": "Jonathan是如何诠释Dior的",
+      "onboard_time": 1751093422,
+      "rank": 29,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 25805,
       "num": 525192,
       "word": "解限机是什么",
@@ -23161,6 +23377,14 @@
       "onboard_time": 1750934542,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23862,
+      "num": 139049,
+      "word": "秦彻灵羽相契",
+      "onboard_time": 1751095401,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 23840,
@@ -24136,6 +24360,14 @@
       "word": "解限机公测前瞻直播",
       "onboard_time": 1750702157,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9682,
+      "num": 271852,
+      "word": "胡锡进对考砸学生的建议",
+      "onboard_time": 1751095102,
+      "rank": 19,
       "category": "民生新闻"
     },
     {

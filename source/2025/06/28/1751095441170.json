@@ -1,0 +1,410 @@
+{
+  "runTime": 1751095441170,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1255256,
+        "num": 1255256,
+        "word": "贵州榕江拉响全城警报",
+        "onboard_time": 1751091143,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 710227,
+        "num": 710227,
+        "word": "芭莎红毯",
+        "onboard_time": 1751093721,
+        "rank": 1,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 48158,
+        "num": 421003,
+        "word": "这些热点国家发改委回应了",
+        "onboard_time": 1751084063,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1438016,
+        "num": 397063,
+        "word": "迪丽热巴90花唯一的视后",
+        "onboard_time": 1751094260,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348440,
+        "num": 348440,
+        "word": "张桂梅",
+        "onboard_time": 1751069782,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 512042,
+        "num": 347271,
+        "word": "日本连环杀人犯家中藏9个人头",
+        "onboard_time": 1751074403,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 679040,
+        "num": 346760,
+        "word": "邓超哭成悲伤蛙",
+        "onboard_time": 1751092040,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 448304,
+        "num": 346068,
+        "word": "小鬼质疑芒种原唱",
+        "onboard_time": 1751094141,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 345211,
+        "num": 345211,
+        "word": "有3C标识充电宝也不都能登机",
+        "onboard_time": 1751080761,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73920,
+        "num": 345117,
+        "word": "明年起宠物伤人可直接治安处罚",
+        "onboard_time": 1751094440,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 827228,
+        "num": 345054,
+        "word": "关晓彤确实是藏不住事的年纪",
+        "onboard_time": 1751080463,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 638106,
+        "num": 344919,
+        "word": "辽宁舰遭外军双航母夹击歼15挂弹起飞",
+        "onboard_time": 1751094440,
+        "rank": 11,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 510887,
+        "num": 344844,
+        "word": "低精力人群 炎症",
+        "onboard_time": 1751093541,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 381887,
+        "num": 344737,
+        "word": "刘亦菲黑长直怼脸",
+        "onboard_time": 1751094321,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 455794,
+        "num": 344614,
+        "word": "尼坤怎么长这样了",
+        "onboard_time": 1751088862,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 516263,
+        "num": 344580,
+        "word": "关晓彤白玉兰大屏用了鹿晗发的照片",
+        "onboard_time": 1751083282,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 423441,
+        "num": 344490,
+        "word": "沙溢儿子安吉14岁近照",
+        "onboard_time": 1751089401,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344404,
+        "num": 344404,
+        "word": "蔡徐坤仅自己可见朋友圈",
+        "onboard_time": 1751088622,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286750,
+        "num": 286750,
+        "word": "邓超回应唱哭了",
+        "onboard_time": 1751093062,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9682,
+        "num": 271852,
+        "word": "胡锡进对考砸学生的建议",
+        "onboard_time": 1751095102,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270893,
+        "num": 270893,
+        "word": "毒驾男撞死人保释期间被女友烧死",
+        "onboard_time": 1751083342,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265292,
+        "num": 265292,
+        "word": "蔡澜 陈宝莲",
+        "onboard_time": 1751094621,
+        "rank": 21,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 256333,
+        "num": 256333,
+        "word": "31岁独居女生靠存款生活的一天",
+        "onboard_time": 1751094800,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220259,
+        "num": 220259,
+        "word": "杨采钰挺孕肚出街",
+        "onboard_time": 1751088862,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219470,
+        "num": 219470,
+        "word": "雷军说特斯拉确实了不起",
+        "onboard_time": 1751089042,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 217362,
+        "num": 217362,
+        "word": "李一桐内娱第一个举报型女主",
+        "onboard_time": 1751094380,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213890,
+        "num": 213890,
+        "word": "张凌赫把迪丽热巴逼急这段",
+        "onboard_time": 1751094682,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188585,
+        "num": 188585,
+        "word": "昔日中国好声音冠军因忘词被质疑",
+        "onboard_time": 1751094321,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186635,
+        "num": 186635,
+        "word": "女子被前男友砍20多刀几乎断指",
+        "onboard_time": 1751094021,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26009,
+        "num": 183293,
+        "word": "Jonathan是如何诠释Dior的",
+        "onboard_time": 1751093422,
+        "rank": 29,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 181717,
+        "num": 181717,
+        "word": "运动瘦和饿瘦的区别",
+        "onboard_time": 1751082382,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177268,
+        "num": 177268,
+        "word": "ModelY全球首次完成全自动驾驶交付",
+        "onboard_time": 1751094440,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 169701,
+        "num": 169701,
+        "word": "罗志祥直播",
+        "onboard_time": 1751093301,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165489,
+        "num": 165489,
+        "word": "金价大跌的4个原因",
+        "onboard_time": 1751094742,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 164867,
+        "num": 164867,
+        "word": "双胞胎高考638分630分父亲要戒酒",
+        "onboard_time": 1751094800,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162124,
+        "num": 162124,
+        "word": "郑钦文看看你带出来的兵",
+        "onboard_time": 1751094082,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155947,
+        "num": 155947,
+        "word": "大张伟一来韩红没法录节目了",
+        "onboard_time": 1751094141,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155324,
+        "num": 155324,
+        "word": "这段哭戏是一个女孩的21年",
+        "onboard_time": 1751094742,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147384,
+        "num": 147384,
+        "word": "原来周末最好的休息不是睡觉",
+        "onboard_time": 1751094742,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147356,
+        "num": 147356,
+        "word": "芭莎之夜出图",
+        "onboard_time": 1751090841,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 145821,
+        "num": 145821,
+        "word": "宋佳白玉兰视后",
+        "onboard_time": 1751036790,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143581,
+        "num": 143581,
+        "word": "关注贵州榕江强降雨",
+        "onboard_time": 1751088441,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143319,
+        "num": 143319,
+        "word": "外卖员吐槽殡仪馆深夜有人点外卖",
+        "onboard_time": 1751080761,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142018,
+        "num": 142018,
+        "word": "宋妍霏跑男三分钟被撕了两次",
+        "onboard_time": 1751094260,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23862,
+        "num": 139049,
+        "word": "秦彻灵羽相契",
+        "onboard_time": 1751095401,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 40211,
+        "num": 138811,
+        "word": "恋与深空婚礼神曲",
+        "onboard_time": 1751094201,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138796,
+        "num": 138796,
+        "word": "南昌舰以一对二逼退外舰",
+        "onboard_time": 1751079384,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 131343,
+        "num": 131343,
+        "word": "刘宇宁这一幕像国漫走出的真人",
+        "onboard_time": 1751094983,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129593,
+        "num": 129593,
+        "word": "MRC对战Gr",
+        "onboard_time": 1751095281,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127018,
+        "num": 127018,
+        "word": "TVB实力演员来白玉兰团建了",
+        "onboard_time": 1751093841,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平签署国家主席令#"
+    }
+  }
+}
