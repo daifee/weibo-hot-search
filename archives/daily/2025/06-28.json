@@ -1,6 +1,6 @@
 {
   "startTime": 1751041984881,
-  "endTime": 1751086152117,
+  "endTime": 1751088357992,
   "band_list": [
     {
       "raw_hot": 4618253,
@@ -123,6 +123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 707076,
+      "num": 707076,
+      "word": "毒驾男撞死人保释期间被女友烧死",
+      "onboard_time": 1751083342,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 667398,
       "num": 667398,
       "word": "男子杀害女友藏尸酒店床底被执死刑",
@@ -155,20 +163,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 642778,
+      "num": 445329,
+      "word": "运动瘦和饿瘦的区别",
+      "onboard_time": 1751082382,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 607473,
       "num": 284295,
       "word": "刘亦菲没去白玉兰",
       "onboard_time": 1751030665,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 598763,
-      "num": 445329,
-      "word": "运动瘦和饿瘦的区别",
-      "onboard_time": 1751082382,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 566524,
@@ -216,14 +224,6 @@
       "word": "女子电梯口被毒蛇咬老公教科书式操作",
       "onboard_time": 1751070382,
       "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 527616,
-      "num": 527616,
-      "word": "毒驾男撞死人保释期间被女友烧死",
-      "onboard_time": 1751083342,
-      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -315,6 +315,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 331809,
+      "num": 331809,
+      "word": "高考生696分带火家中店铺",
+      "onboard_time": 1751081963,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 326364,
       "num": 326364,
       "word": "特朗普称放弃解除对伊朗制裁",
@@ -347,6 +355,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 312606,
+      "num": 288387,
+      "word": "王楚钦 LV",
+      "onboard_time": 1751087242,
+      "rank": 20,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 310896,
       "num": 310896,
       "word": "美一飞船失控150人骨灰全扬了",
@@ -361,6 +377,14 @@
       "onboard_time": 1751074463,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 307128,
+      "num": 307128,
+      "word": "白玉兰视后颁奖这段太好看了",
+      "onboard_time": 1751082441,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 300922,
@@ -409,6 +433,14 @@
       "onboard_time": 1751032048,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 267406,
+      "num": 267406,
+      "word": "酱园弄是怎么被搞砸的",
+      "onboard_time": 1751086342,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 266329,
@@ -481,14 +513,6 @@
       "onboard_time": 1751084182,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 241345,
-      "num": 241345,
-      "word": "高考生696分带火家中店铺",
-      "onboard_time": 1751081963,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 239463,
@@ -627,12 +651,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 194621,
-      "num": 194621,
-      "word": "白玉兰视后颁奖这段太好看了",
-      "onboard_time": 1751082441,
-      "rank": 32,
-      "category": "剧集"
+      "raw_hot": 193279,
+      "num": 193279,
+      "word": "8元一晚的旅馆挤满了找活路的人",
+      "onboard_time": 1751085682,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190675,
@@ -641,14 +665,6 @@
       "onboard_time": 1751080404,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 189002,
-      "num": 180301,
-      "word": "8元一晚的旅馆挤满了找活路的人",
-      "onboard_time": 1751085682,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 187640,
@@ -731,6 +747,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 178912,
+      "num": 324502,
+      "word": "快递员称不敢收充电宝怕被罚款",
+      "onboard_time": 1751086881,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177182,
       "num": 177182,
       "word": "糖尿病 年轻化",
@@ -755,6 +779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175275,
+      "num": 175275,
+      "word": "五哈",
+      "onboard_time": 1751088322,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174003,
       "num": 174003,
       "word": "BLG战胜GAM",
@@ -777,6 +809,14 @@
       "onboard_time": 1751023342,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168617,
+      "num": 168617,
+      "word": "电影名侦探柯南独眼的残像",
+      "onboard_time": 1751087122,
+      "rank": 31,
+      "category": "动漫"
     },
     {
       "raw_hot": 166851,
@@ -811,6 +851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157930,
+      "num": 157930,
+      "word": "这下侃爷真成沪Ye了",
+      "onboard_time": 1751082862,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 153485,
       "num": 153485,
       "word": "鱿鱼游戏",
@@ -827,12 +875,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 152650,
-      "num": 152650,
+      "raw_hot": 152901,
+      "num": 152901,
       "word": "中女时代",
       "onboard_time": 1751084721,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152769,
+      "num": 152769,
+      "word": "小米YU7订单被黄牛高价倒卖",
+      "onboard_time": 1751086042,
+      "rank": 38,
+      "category": "汽车,民生新闻"
     },
     {
       "raw_hot": 150291,
@@ -875,14 +931,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 144807,
-      "num": 144807,
-      "word": "这下侃爷真成沪Ye了",
-      "onboard_time": 1751082862,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 144705,
       "num": 144705,
       "word": "路温吐槽赵丽颖酱园弄演技",
@@ -905,6 +953,22 @@
       "onboard_time": 1751085682,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 141700,
+      "num": 300812,
+      "word": "酱园弄悬案十八相送正片片段",
+      "onboard_time": 1751087420,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 141509,
+      "num": 141509,
+      "word": "林更新婉拒再现玫瑰经典台词",
+      "onboard_time": 1751087721,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 140609,
@@ -971,6 +1035,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 130902,
+      "num": 130902,
+      "word": "蝉尿",
+      "onboard_time": 1751085562,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130297,
       "num": 121643,
       "word": "Knight亮TES队标",
@@ -1035,6 +1107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122791,
+      "num": 122791,
+      "word": "BW抢票",
+      "onboard_time": 1751088202,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 122572,
       "num": 122572,
       "word": "在日本捡到Labubu之后",
@@ -1065,14 +1145,6 @@
       "onboard_time": 1751083342,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 120001,
-      "num": 120001,
-      "word": "蝉尿",
-      "onboard_time": 1751085562,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 119626,
@@ -1113,6 +1185,14 @@
       "onboard_time": 1751075962,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 116636,
+      "num": 120884,
+      "word": "喝水后的5个异常有1个就要警惕",
+      "onboard_time": 1751084902,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 113878,
@@ -1171,6 +1251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103829,
+      "num": 170061,
+      "word": "中年女演员 真正的好东西",
+      "onboard_time": 1751087721,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102367,
       "num": 102367,
       "word": "赖清德妄称台湾少数民族与大陆无关",
@@ -1219,6 +1307,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 92924,
+      "num": 169071,
+      "word": "米饭免费店家回应老伯吃酱油拌饭",
+      "onboard_time": 1751086881,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89534,
       "num": 89534,
       "word": "MSI",
@@ -1265,6 +1361,14 @@
       "onboard_time": 1751056456,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 78673,
+      "num": 141681,
+      "word": "颜人中谢谢林俊杰成为林俊杰",
+      "onboard_time": 1751086222,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 77595,
@@ -1371,6 +1475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 53141,
+      "num": 142865,
+      "word": "高考志愿填报人工智能专业被热捧",
+      "onboard_time": 1751087420,
+      "rank": 41,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 51662,
       "num": 153007,
       "word": "美方相应取消对华有关限制措施",
@@ -1385,6 +1497,14 @@
       "onboard_time": 1751046618,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 46693,
+      "num": 295681,
+      "word": "人造古城如何走出同质化困局",
+      "onboard_time": 1751086881,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45743,
@@ -1635,6 +1755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 19643,
+      "num": 147020,
+      "word": "chiikawa头像",
+      "onboard_time": 1751088322,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 17925,
       "num": 759964,
       "word": "数说中国物流亮眼成绩单",
@@ -1665,6 +1793,14 @@
       "onboard_time": 1751046378,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 11474,
+      "num": 322634,
+      "word": "好博会逛着逛着就饱了",
+      "onboard_time": 1751087001,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10282,
