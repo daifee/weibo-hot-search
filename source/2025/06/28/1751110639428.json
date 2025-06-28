@@ -1,0 +1,410 @@
+{
+  "runTime": 1751110639428,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 913105,
+        "num": 1146096,
+        "word": "鹿晗回春",
+        "onboard_time": 1751102421,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 804607,
+        "num": 804607,
+        "word": "三兄弟一死一退一存疑",
+        "onboard_time": 1751106982,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33101,
+        "num": 572638,
+        "word": "6组数据看我国中小企业发展成就",
+        "onboard_time": 1751102002,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 889089,
+        "num": 564842,
+        "word": "低精力人群 炎症",
+        "onboard_time": 1751093541,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 492616,
+        "num": 492616,
+        "word": "Labubu发夹",
+        "onboard_time": 1751099602,
+        "rank": 4,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 367215,
+        "num": 474486,
+        "word": "贵州榕江拉响全城警报",
+        "onboard_time": 1751091143,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 583038,
+        "num": 473599,
+        "word": "果然是第一次接吻还不会翻面",
+        "onboard_time": 1751106801,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 462195,
+        "num": 462195,
+        "word": "迪丽热巴90花唯一的视后",
+        "onboard_time": 1751094260,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419411,
+        "num": 419411,
+        "word": "被传身亡伊朗高官现身国葬",
+        "onboard_time": 1751108481,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 353992,
+        "num": 413244,
+        "word": "贵州榕江已撤离转移41574人",
+        "onboard_time": 1751107402,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 759302,
+        "num": 412971,
+        "word": "生理性喜欢是很恐怖的一件事",
+        "onboard_time": 1751107701,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 451559,
+        "num": 412881,
+        "word": "周翊然发了和张婧仪合照",
+        "onboard_time": 1751105182,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 411940,
+        "num": 411940,
+        "word": "芭莎红毯",
+        "onboard_time": 1751093721,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 64801,
+        "num": 379377,
+        "word": "千余名武警官兵紧急驰援榕江",
+        "onboard_time": 1751108061,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 358329,
+        "num": 358329,
+        "word": "金曲奖",
+        "onboard_time": 1751107461,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 288899,
+        "num": 288899,
+        "word": "刘亦菲",
+        "onboard_time": 1751102182,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190954,
+        "num": 190954,
+        "word": "月入一万已经能生活得非常好了",
+        "onboard_time": 1751109861,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185104,
+        "num": 185104,
+        "word": "警方已介入殡仪馆深夜点外卖事件",
+        "onboard_time": 1751106743,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179211,
+        "num": 179211,
+        "word": "30岁6年存了60万",
+        "onboard_time": 1751107641,
+        "rank": 18,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 154539,
+        "num": 154539,
+        "word": "世界顶级数学家张益唐加盟中山大学",
+        "onboard_time": 1751103261,
+        "rank": 19,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 436375,
+        "num": 154273,
+        "word": "叫了只炸鸡门店后厨成卧室蟑螂多",
+        "onboard_time": 1751104880,
+        "rank": 20,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 285212,
+        "num": 153817,
+        "word": "迪丽热巴直播",
+        "onboard_time": 1751104701,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269795,
+        "num": 153556,
+        "word": "王俊凯送王源演唱会花篮",
+        "onboard_time": 1751099782,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 264057,
+        "num": 153109,
+        "word": "关晓彤确实是藏不住事的年纪",
+        "onboard_time": 1751080463,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255865,
+        "num": 152789,
+        "word": "王嘉尔压轴",
+        "onboard_time": 1751108962,
+        "rank": 24,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 199712,
+        "num": 152437,
+        "word": "曾舜晞走红毯把戒指甩飞了",
+        "onboard_time": 1751110582,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 191178,
+        "num": 152116,
+        "word": "男孩1岁丧父3岁丧母707分考北大",
+        "onboard_time": 1751106561,
+        "rank": 26,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 187413,
+        "num": 151832,
+        "word": "去过河南的人嘴真严啊",
+        "onboard_time": 1751108782,
+        "rank": 27,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 232925,
+        "num": 151450,
+        "word": "关晓彤白玉兰大屏用了鹿晗发的照片",
+        "onboard_time": 1751083282,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185755,
+        "num": 151208,
+        "word": "章昊撕拉片",
+        "onboard_time": 1751109560,
+        "rank": 29,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 184549,
+        "num": 150715,
+        "word": "蔡澜 陈宝莲",
+        "onboard_time": 1751094621,
+        "rank": 30,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 163946,
+        "num": 150184,
+        "word": "太好了是黑长直宋茜我们有救了",
+        "onboard_time": 1751110342,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 160178,
+        "num": 150170,
+        "word": "时代少年团是要开汽修店吗",
+        "onboard_time": 1751110462,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 158721,
+        "num": 149708,
+        "word": "欧阳娜娜坐扭扭车走红毯",
+        "onboard_time": 1751108121,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 130102,
+        "num": 149104,
+        "word": "Hero发育路轮换",
+        "onboard_time": 1751109202,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149095,
+        "num": 149095,
+        "word": "印度已婚男与远房亲戚恋爱双双跳崖",
+        "onboard_time": 1751101461,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 148633,
+        "num": 148633,
+        "word": "金智秀怎么美成这样",
+        "onboard_time": 1751100082,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146961,
+        "num": 146961,
+        "word": "吴彤在朋友圈给王牌摇剧组",
+        "onboard_time": 1751107283,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142951,
+        "num": 142951,
+        "word": "囤剧的人有难了",
+        "onboard_time": 1751109682,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128030,
+        "num": 128030,
+        "word": "从猫咖帮一只布偶赎身之后",
+        "onboard_time": 1751107822,
+        "rank": 39,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 127661,
+        "num": 127661,
+        "word": "女子欲卖50米手绘上河图救昏迷老公",
+        "onboard_time": 1751104822,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122425,
+        "num": 122425,
+        "word": "韩安冉每月给父亲开6000工资",
+        "onboard_time": 1751100741,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 48946,
+        "num": 120784,
+        "word": "120秒还原悬空货车司机救援全程",
+        "onboard_time": 1751102481,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120178,
+        "num": 120178,
+        "word": "时代少年团芭莎之夜路透",
+        "onboard_time": 1751104341,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 117975,
+        "num": 117975,
+        "word": "原来摆摊才是一切专业的归属",
+        "onboard_time": 1751110462,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117968,
+        "num": 117968,
+        "word": "最能吃苦的那一代又回来了",
+        "onboard_time": 1751110222,
+        "rank": 45,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 115298,
+        "num": 115298,
+        "word": "宋妍霏差点摔了",
+        "onboard_time": 1751110582,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 113141,
+        "num": 113141,
+        "word": "1000多名武警紧急驰援贵州榕江",
+        "onboard_time": 1751106202,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113104,
+        "num": 113104,
+        "word": "辽宁舰遭外军双航母夹击歼15挂弹起飞",
+        "onboard_time": 1751094440,
+        "rank": 48,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 93616,
+        "num": 110994,
+        "word": "孙颖莎说大满贯见",
+        "onboard_time": 1751103742,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记讲述的这个故事意蕴深长#"
+    }
+  }
+}

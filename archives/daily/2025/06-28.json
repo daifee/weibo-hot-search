@@ -1,6 +1,6 @@
 {
   "startTime": 1751041984881,
-  "endTime": 1751109677049,
+  "endTime": 1751110639428,
   "band_list": [
     {
       "raw_hot": 4618253,
@@ -115,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 913105,
+      "num": 1146096,
+      "word": "鹿晗回春",
+      "onboard_time": 1751102421,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 900764,
       "num": 288601,
       "word": "单依纯哭了",
@@ -144,14 +152,6 @@
       "word": "鹿晗就我一个人慢慢变老了吗",
       "onboard_time": 1751076323,
       "rank": 6,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 863704,
-      "num": 1138192,
-      "word": "鹿晗回春",
-      "onboard_time": 1751102421,
-      "rank": 21,
       "category": "演出"
     },
     {
@@ -195,6 +195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 804607,
+      "num": 804607,
+      "word": "三兄弟一死一退一存疑",
+      "onboard_time": 1751106982,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 772596,
       "num": 772596,
       "word": "叫了只炸鸡门店后厨成卧室蟑螂多",
@@ -217,6 +225,14 @@
       "onboard_time": 1751099782,
       "rank": 20,
       "category": "演出"
+    },
+    {
+      "raw_hot": 759302,
+      "num": 478855,
+      "word": "生理性喜欢是很恐怖的一件事",
+      "onboard_time": 1751107701,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 752383,
@@ -257,14 +273,6 @@
       "onboard_time": 1751038763,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 662904,
-      "num": 478855,
-      "word": "生理性喜欢是很恐怖的一件事",
-      "onboard_time": 1751107701,
-      "rank": 10,
-      "category": "情感"
     },
     {
       "raw_hot": 662692,
@@ -315,19 +323,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 583038,
+      "num": 554489,
+      "word": "果然是第一次接吻还不会翻面",
+      "onboard_time": 1751106801,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 574826,
       "num": 497779,
       "word": "周翊然发了和张婧仪合照",
       "onboard_time": 1751105182,
       "rank": 21,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 566560,
-      "num": 566560,
-      "word": "三兄弟一死一退一存疑",
-      "onboard_time": 1751106982,
-      "rank": 37,
       "category": "剧集"
     },
     {
@@ -352,14 +360,6 @@
       "word": "靳东白玉兰视帝",
       "onboard_time": 1751036009,
       "rank": 15,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 554489,
-      "num": 554489,
-      "word": "果然是第一次接吻还不会翻面",
-      "onboard_time": 1751106801,
-      "rank": 31,
       "category": "剧集"
     },
     {
@@ -499,6 +499,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 419411,
+      "num": 419411,
+      "word": "被传身亡伊朗高官现身国葬",
+      "onboard_time": 1751108481,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 404088,
       "num": 358495,
       "word": "迪丽热巴直播",
@@ -545,6 +553,22 @@
       "onboard_time": 1751103261,
       "rank": 9,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 358329,
+      "num": 358329,
+      "word": "金曲奖",
+      "onboard_time": 1751107461,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 353992,
+      "num": 413244,
+      "word": "贵州榕江已撤离转移41574人",
+      "onboard_time": 1751107402,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 351129,
@@ -601,14 +625,6 @@
       "onboard_time": 1751081541,
       "rank": 41,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 322829,
-      "num": 322829,
-      "word": "贵州榕江已撤离转移41574人",
-      "onboard_time": 1751107402,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 320957,
@@ -691,14 +707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 283178,
-      "num": 283178,
-      "word": "被传身亡伊朗高官现身国葬",
-      "onboard_time": 1751108481,
-      "rank": 16,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 281467,
       "num": 281467,
       "word": "多方回应美国多州报告火球从天而降",
@@ -755,6 +763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 255865,
+      "num": 179087,
+      "word": "王嘉尔压轴",
+      "onboard_time": 1751108962,
+      "rank": 28,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 252523,
       "num": 211022,
       "word": "王安全的弟弟王安宇",
@@ -777,14 +793,6 @@
       "onboard_time": 1751067558,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 249388,
-      "num": 184763,
-      "word": "金曲奖",
-      "onboard_time": 1751107461,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 249382,
@@ -1035,14 +1043,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 202206,
-      "num": 179087,
-      "word": "王嘉尔压轴",
-      "onboard_time": 1751108962,
-      "rank": 28,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 201452,
       "num": 201452,
       "word": "登陆少年搪胶娃娃",
@@ -1081,6 +1081,14 @@
       "onboard_time": 1751094021,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199712,
+      "num": 152437,
+      "word": "曾舜晞走红毯把戒指甩飞了",
+      "onboard_time": 1751110582,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 199541,
@@ -1179,6 +1187,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 190954,
+      "num": 190954,
+      "word": "月入一万已经能生活得非常好了",
+      "onboard_time": 1751109861,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190675,
       "num": 190675,
       "word": "cpf要的莫名其妙亲个嘴真拍了",
@@ -1235,6 +1251,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 185755,
+      "num": 151208,
+      "word": "章昊撕拉片",
+      "onboard_time": 1751109560,
+      "rank": 39,
+      "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 185104,
+      "num": 342821,
+      "word": "警方已介入殡仪馆深夜点外卖事件",
+      "onboard_time": 1751106743,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184413,
       "num": 184413,
       "word": "美国将立即终止与加拿大所有贸易谈判",
@@ -1283,12 +1315,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 179130,
-      "num": 342821,
-      "word": "警方已介入殡仪馆深夜点外卖事件",
-      "onboard_time": 1751106743,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 179211,
+      "num": 179211,
+      "word": "30岁6年存了60万",
+      "onboard_time": 1751107641,
+      "rank": 34,
+      "category": "幽默,休闲"
     },
     {
       "raw_hot": 179115,
@@ -1403,14 +1435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 168931,
-      "num": 168931,
-      "word": "30岁6年存了60万",
-      "onboard_time": 1751107641,
-      "rank": 34,
-      "category": "幽默,休闲"
-    },
-    {
       "raw_hot": 168923,
       "num": 168923,
       "word": "这就是拒绝过JYP和SM的实力吗",
@@ -1475,6 +1499,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 163946,
+      "num": 150184,
+      "word": "太好了是黑长直宋茜我们有救了",
+      "onboard_time": 1751110342,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 163757,
       "num": 163757,
       "word": "贺峻霖 密室大逃脱",
@@ -1521,6 +1553,14 @@
       "onboard_time": 1751077522,
       "rank": 33,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 160178,
+      "num": 150170,
+      "word": "时代少年团是要开汽修店吗",
+      "onboard_time": 1751110462,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 159791,
@@ -1691,6 +1731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 146961,
+      "num": 146961,
+      "word": "吴彤在朋友圈给王牌摇剧组",
+      "onboard_time": 1751107283,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146661,
       "num": 146661,
       "word": "诡秘之主今日全球开播",
@@ -1731,14 +1779,6 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 144246,
-      "num": 144246,
-      "word": "吴彤在朋友圈给王牌摇剧组",
-      "onboard_time": 1751107283,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 143581,
       "num": 149432,
       "word": "关注贵州榕江强降雨",
@@ -1753,6 +1793,14 @@
       "onboard_time": 1751107822,
       "rank": 38,
       "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 142951,
+      "num": 142951,
+      "word": "囤剧的人有难了",
+      "onboard_time": 1751109682,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 142795,
@@ -1817,14 +1865,6 @@
       "onboard_time": 1751084721,
       "rank": 38,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 139610,
-      "num": 139610,
-      "word": "章昊撕拉片",
-      "onboard_time": 1751109560,
-      "rank": 39,
-      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 136707,
@@ -2195,6 +2235,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117975,
+      "num": 117975,
+      "word": "原来摆摊才是一切专业的归属",
+      "onboard_time": 1751110462,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 117968,
+      "num": 117968,
+      "word": "最能吃苦的那一代又回来了",
+      "onboard_time": 1751110222,
+      "rank": 45,
+      "category": "幽默,休闲"
+    },
+    {
       "raw_hot": 117662,
       "num": 117662,
       "word": "微笑合影的王楚钦",
@@ -2241,6 +2297,14 @@
       "onboard_time": 1751098821,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 115298,
+      "num": 115298,
+      "word": "宋妍霏差点摔了",
+      "onboard_time": 1751110582,
+      "rank": 46,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 114642,
@@ -2619,6 +2683,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 64801,
+      "num": 379377,
+      "word": "千余名武警官兵紧急驰援榕江",
+      "onboard_time": 1751108061,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63206,
       "num": 208891,
       "word": "恋与深空婚卡",
@@ -2723,6 +2795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 48946,
+      "num": 349086,
+      "word": "120秒还原悬空货车司机救援全程",
+      "onboard_time": 1751102481,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46693,
       "num": 295681,
       "word": "人造古城如何走出同质化困局",
@@ -2824,14 +2904,6 @@
       "word": "女子举报前公婆涉贪事件谁在说谎",
       "onboard_time": 1751040864,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 40657,
-      "num": 349086,
-      "word": "120秒还原悬空货车司机救援全程",
-      "onboard_time": 1751102481,
-      "rank": 12,
       "category": "民生新闻"
     },
     {
