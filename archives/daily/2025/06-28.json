@@ -1,6 +1,6 @@
 {
   "startTime": 1751041984881,
-  "endTime": 1751117586100,
+  "endTime": 1751118251954,
   "band_list": [
     {
       "raw_hot": 4618253,
@@ -27,20 +27,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1708964,
+      "num": 613558,
+      "word": "王源送车",
+      "onboard_time": 1751114362,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1659961,
       "num": 1470557,
       "word": "日本连环杀人犯家中藏9个人头",
       "onboard_time": 1751074403,
       "rank": 3,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1629174,
-      "num": 613558,
-      "word": "王源送车",
-      "onboard_time": 1751114362,
-      "rank": 11,
-      "category": "演出"
     },
     {
       "raw_hot": 1438016,
@@ -91,12 +91,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1205058,
-      "num": 1205058,
+      "raw_hot": 1241008,
+      "num": 1241008,
       "word": "清华硕士靠文眉月入3万被母亲反对",
       "onboard_time": 1751112621,
       "rank": 1,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 1218654,
+      "num": 369464,
+      "word": "月入一万已经能生活得非常好了",
+      "onboard_time": 1751109861,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1183885,
@@ -113,14 +121,6 @@
       "onboard_time": 1751037031,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1098895,
-      "num": 369464,
-      "word": "月入一万已经能生活得非常好了",
-      "onboard_time": 1751109861,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1073174,
@@ -251,20 +251,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 761748,
+      "num": 478855,
+      "word": "生理性喜欢是很恐怖的一件事",
+      "onboard_time": 1751107701,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 761351,
       "num": 761351,
       "word": "王俊凯送王源演唱会花篮",
       "onboard_time": 1751099782,
       "rank": 20,
       "category": "演出"
-    },
-    {
-      "raw_hot": 759302,
-      "num": 478855,
-      "word": "生理性喜欢是很恐怖的一件事",
-      "onboard_time": 1751107701,
-      "rank": 10,
-      "category": "情感"
     },
     {
       "raw_hot": 752383,
@@ -361,6 +361,14 @@
       "onboard_time": 1751110823,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 595724,
+      "num": 424502,
+      "word": "成何体统",
+      "onboard_time": 1751114182,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 583038,
@@ -515,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 445035,
+      "num": 424428,
+      "word": "金曲奖",
+      "onboard_time": 1751107461,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 444110,
       "num": 444110,
       "word": "一定要申请一个工作微信号",
@@ -531,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 437493,
+      "num": 395533,
+      "word": "书卷一梦太癫了",
+      "onboard_time": 1751113703,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 435219,
       "num": 435219,
       "word": "以军被爆射杀难民如同鱿鱼游戏",
@@ -545,6 +569,14 @@
       "onboard_time": 1751087242,
       "rank": 20,
       "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 425016,
+      "num": 425016,
+      "word": "张本智和跪地庆祝胜利",
+      "onboard_time": 1751112922,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 419411,
@@ -579,27 +611,11 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 395533,
-      "num": 395533,
-      "word": "书卷一梦太癫了",
-      "onboard_time": 1751113703,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 394933,
       "num": 394933,
       "word": "白玉兰神图",
       "onboard_time": 1751069061,
       "rank": 10,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 390829,
-      "num": 390829,
-      "word": "成何体统",
-      "onboard_time": 1751114182,
-      "rank": 27,
       "category": "剧集"
     },
     {
@@ -609,14 +625,6 @@
       "onboard_time": 1751094321,
       "rank": 13,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 380132,
-      "num": 367413,
-      "word": "金曲奖",
-      "onboard_time": 1751107461,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 367377,
@@ -643,6 +651,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 358482,
+      "num": 358482,
+      "word": "吴宣仪演唱会",
+      "onboard_time": 1751113943,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 353992,
       "num": 413244,
       "word": "贵州榕江已撤离转移41574人",
@@ -657,14 +673,6 @@
       "onboard_time": 1751039905,
       "rank": 16,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 340023,
-      "num": 340023,
-      "word": "张本智和跪地庆祝胜利",
-      "onboard_time": 1751112922,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 339254,
@@ -721,14 +729,6 @@
       "onboard_time": 1751067079,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 319255,
-      "num": 319255,
-      "word": "吴宣仪演唱会",
-      "onboard_time": 1751113943,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 310896,
@@ -809,6 +809,14 @@
       "onboard_time": 1751093062,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 284420,
+      "num": 284420,
+      "word": "杨紫已经三次陪跑白玉兰",
+      "onboard_time": 1751117902,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 281467,
@@ -897,6 +905,14 @@
       "onboard_time": 1751067558,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 250480,
+      "num": 250480,
+      "word": "萧亚轩痛哭讲述母亲生前不易",
+      "onboard_time": 1751117422,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 249382,
@@ -1011,6 +1027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221200,
+      "num": 251268,
+      "word": "月入4000一家四口的真实生活",
+      "onboard_time": 1751111543,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 220896,
       "num": 206718,
       "word": "付航段子 没人笑",
@@ -1025,14 +1049,6 @@
       "onboard_time": 1751104761,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 219345,
-      "num": 219345,
-      "word": "月入4000一家四口的真实生活",
-      "onboard_time": 1751111543,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 219229,
@@ -1171,6 +1187,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 204742,
+      "num": 204742,
+      "word": "盐城队vs镇江队",
+      "onboard_time": 1751114962,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201452,
       "num": 201452,
       "word": "登陆少年搪胶娃娃",
@@ -1292,7 +1316,7 @@
     },
     {
       "raw_hot": 194931,
-      "num": 174513,
+      "num": 191149,
       "word": "林俊杰演唱会嘉宾苏慧伦",
       "onboard_time": 1751113462,
       "rank": 30,
@@ -1643,6 +1667,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 165362,
+      "num": 165362,
+      "word": "你好星期六下期是乘风姐姐团建",
+      "onboard_time": 1751117902,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165018,
       "num": 165018,
       "word": "皮肤变厚 脚气",
@@ -1716,7 +1748,7 @@
     },
     {
       "raw_hot": 159713,
-      "num": 159713,
+      "num": 165761,
       "word": "爷爷给孙子用蔬菜做了个labubu",
       "onboard_time": 1751117062,
       "rank": 29,
@@ -2011,14 +2043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 142567,
-      "num": 142567,
-      "word": "萧亚轩痛哭讲述母亲生前不易",
-      "onboard_time": 1751117422,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 142018,
       "num": 142018,
       "word": "宋妍霏跑男三分钟被撕了两次",
@@ -2243,6 +2267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 130321,
+      "num": 130321,
+      "word": "重庆狼队",
+      "onboard_time": 1751115683,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 130297,
       "num": 121643,
       "word": "Knight亮TES队标",
@@ -2267,20 +2299,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129214,
-      "num": 129214,
-      "word": "盐城队vs镇江队",
-      "onboard_time": 1751114962,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 129074,
       "num": 135449,
       "word": "你已经是很棒的大人了",
       "onboard_time": 1751085020,
       "rank": 40,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 128958,
+      "num": 174624,
+      "word": "连云港vs淮安",
+      "onboard_time": 1751111601,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 128831,
@@ -2321,6 +2353,14 @@
       "onboard_time": 1751093841,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126290,
+      "num": 171663,
+      "word": "2015年九三阅兵再看依旧震撼",
+      "onboard_time": 1751117003,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 125774,
@@ -2385,6 +2425,14 @@
       "onboard_time": 1751088202,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 122768,
+      "num": 122768,
+      "word": "苏超淮安主帅把正装穿成战队皮肤",
+      "onboard_time": 1751117846,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 122572,
@@ -2545,14 +2593,6 @@
       "onboard_time": 1751102841,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 116764,
-      "num": 174624,
-      "word": "连云港vs淮安",
-      "onboard_time": 1751111601,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 116636,
@@ -2763,6 +2803,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 101304,
+      "num": 250539,
+      "word": "直播一起看苏超",
+      "onboard_time": 1751117301,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100594,
       "num": 100594,
       "word": "小米汽车回应YU7交付规则",
@@ -2843,30 +2891,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 92236,
-      "num": 121515,
-      "word": "重庆狼队",
-      "onboard_time": 1751115683,
-      "rank": 39,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 91344,
-      "num": 222101,
-      "word": "直播一起看苏超",
-      "onboard_time": 1751117301,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 90402,
-      "num": 120055,
-      "word": "2015年九三阅兵再看依旧震撼",
-      "onboard_time": 1751117003,
-      "rank": 46,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 89534,
       "num": 89534,
       "word": "MSI",
@@ -2905,6 +2929,14 @@
       "onboard_time": 1751076622,
       "rank": 33,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 79560,
+      "num": 177914,
+      "word": "贵州榕江恳请暂缓自行前往救灾现场",
+      "onboard_time": 1751118083,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79032,
@@ -3076,7 +3108,7 @@
     },
     {
       "raw_hot": 57672,
-      "num": 166221,
+      "num": 186649,
       "word": "张本智和晋级男单四强",
       "onboard_time": 1751117363,
       "rank": 27,
@@ -3115,6 +3147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 50330,
+      "num": 135025,
+      "word": "一诺小孩子才做选择",
+      "onboard_time": 1751116882,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 49592,
       "num": 155418,
       "word": "这就是中国人的团结",
@@ -3137,14 +3177,6 @@
       "onboard_time": 1751102481,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 47211,
-      "num": 122908,
-      "word": "一诺小孩子才做选择",
-      "onboard_time": 1751116882,
-      "rank": 43,
-      "category": "电竞"
     },
     {
       "raw_hot": 46693,
@@ -3508,7 +3540,7 @@
     },
     {
       "raw_hot": 21524,
-      "num": 173482,
+      "num": 179612,
       "word": "小米Civi5Pro镜头下的生命力",
       "onboard_time": 1751114001,
       "rank": 31,
