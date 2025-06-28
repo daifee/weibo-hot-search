@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/28 23:40:17
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/29 00:30:20
 </p>
 </blockquote>
 <p>
@@ -5439,6 +5439,12 @@ T3司机猥亵大三女生被行拘5日（热度：810171）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B0%8F%E5%8C%BA%E6%8A%BD%E5%8C%96%E7%B2%AA%E6%B1%A0%E6%83%8A%E7%8E%B03%E6%8A%8A%E7%A0%8D%E5%88%80%23" target="weibo">
+一小区抽化粪池惊现3把砍刀（热度：792789）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%9C%A3%E4%BE%9D%E7%A7%B0%E4%B8%8D%E6%8E%A5%E5%8F%97%E5%A9%9A%E5%89%8D%E5%90%8C%E5%B1%85%23" target="weibo">
 黄圣依称不接受婚前同居（热度：792543）
 </a>
@@ -6005,12 +6011,6 @@ F35（热度：742995）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E9%80%80%E5%AD%A6%E4%B8%8A%E6%B8%85%E5%8D%8E%E7%94%B7%E7%94%9F%E5%9B%9E%E5%BA%94%E5%8D%A0%E5%90%8D%E9%A2%9D%E8%B4%A8%E7%96%91%23" target="weibo">
 北大退学上清华男生回应占名额质疑（热度：740436）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%98%E8%BE%9B%E5%8D%9A%E7%88%86%E6%96%99%E5%88%98%E7%AB%AF%E7%AB%AF%E5%BA%86%E4%BD%99%E5%B9%B4%E4%B8%8D%E7%A9%BF%E8%A3%A4%E5%AD%90%23" target="weibo">
-付辛博爆料刘端端庆余年不穿裤子（热度：740238）
 </a>
 </li>
 
