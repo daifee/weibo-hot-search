@@ -1,0 +1,410 @@
+{
+  "runTime": 1751149463026,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 174111,
+        "num": 382875,
+        "word": "鹿晗工作室 从没回过因为一直都在",
+        "onboard_time": 1751122584,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134165,
+        "num": 134165,
+        "word": "一小区抽化粪池惊现3把砍刀",
+        "onboard_time": 1751124023,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22807,
+        "num": 129786,
+        "word": "紧急追加1亿元支持贵州灾后恢复",
+        "onboard_time": 1751119885,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129610,
+        "num": 129610,
+        "word": "特朗普说早知当总统这么危险就不选了",
+        "onboard_time": 1751122284,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103449,
+        "num": 103449,
+        "word": "李兰迪刮彩票以为中了7万",
+        "onboard_time": 1751135475,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91627,
+        "num": 91627,
+        "word": "南京可口可乐博物馆60岁以上禁入",
+        "onboard_time": 1751122945,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70412,
+        "num": 70412,
+        "word": "猫妈妈洪水中叼着小猫绝处求生",
+        "onboard_time": 1751127742,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69925,
+        "num": 69925,
+        "word": "3岁女娃双眼近视1000度摸着走路",
+        "onboard_time": 1751124744,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56308,
+        "num": 56308,
+        "word": "杨紫已经三次陪跑白玉兰",
+        "onboard_time": 1751117902,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56268,
+        "num": 56268,
+        "word": "清华硕士靠文眉月入3万被母亲反对",
+        "onboard_time": 1751112621,
+        "rank": 9,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 332839,
+        "num": 55119,
+        "word": "莆田8岁失联男童尸体被发现",
+        "onboard_time": 1751129959,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224815,
+        "num": 54356,
+        "word": "关晓彤 鹿晗",
+        "onboard_time": 1751119105,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124958,
+        "num": 53317,
+        "word": "男子称看劳斯莱斯后女友与销售互骂",
+        "onboard_time": 1751122044,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102090,
+        "num": 51161,
+        "word": "生理性喜欢是很恐怖的一件事",
+        "onboard_time": 1751107701,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 50697,
+        "num": 50697,
+        "word": "月入一万已经能生活得非常好了",
+        "onboard_time": 1751109861,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47469,
+        "num": 47469,
+        "word": "北京女大学生千里求助转移在榕江父母",
+        "onboard_time": 1751125823,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86393,
+        "num": 46655,
+        "word": "关晓彤回应粉丝",
+        "onboard_time": 1751120184,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41431,
+        "num": 41431,
+        "word": "宋茜Amber同框",
+        "onboard_time": 1751121684,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 38113,
+        "num": 38113,
+        "word": "严浩翔追着王嘉尔打伞",
+        "onboard_time": 1751128461,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 35711,
+        "num": 35711,
+        "word": "书卷一梦太癫了",
+        "onboard_time": 1751113703,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54141,
+        "num": 35608,
+        "word": "生理性喜欢的4个肢体信号",
+        "onboard_time": 1751122584,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 39361,
+        "num": 35587,
+        "word": "被传身亡伊朗高官现身国葬",
+        "onboard_time": 1751108481,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 35445,
+        "num": 35445,
+        "word": "长期睡不够有哪些危害",
+        "onboard_time": 1751130019,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 35286,
+        "num": 35286,
+        "word": "森林北回怼网友",
+        "onboard_time": 1751122044,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 30621,
+        "num": 30621,
+        "word": "贵州榕江拉响全城警报",
+        "onboard_time": 1751091143,
+        "rank": 24,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 29210,
+        "num": 29210,
+        "word": "公共场所故意裸露身体隐私部位将被罚",
+        "onboard_time": 1751124384,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28837,
+        "num": 28837,
+        "word": "揭秘洞洞鞋潜在风险",
+        "onboard_time": 1751126482,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27743,
+        "num": 28127,
+        "word": "方大同 金曲奖",
+        "onboard_time": 1751118563,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 27350,
+        "num": 28003,
+        "word": "张晚意综艺感",
+        "onboard_time": 1751140994,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25141,
+        "num": 27939,
+        "word": "邓紫棋现身孙颖莎评论区",
+        "onboard_time": 1751119164,
+        "rank": 29,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 27902,
+        "num": 27902,
+        "word": "废旧手机的含金量有多高",
+        "onboard_time": 1751120664,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27312,
+        "num": 27312,
+        "word": "在机场买的充电宝带不上飞机",
+        "onboard_time": 1751131339,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22846,
+        "num": 27312,
+        "word": "低精力人群 炎症",
+        "onboard_time": 1751093541,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22742,
+        "num": 27311,
+        "word": "宋佳恭喜1米73大美女",
+        "onboard_time": 1751111902,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22645,
+        "num": 27309,
+        "word": "金曲奖",
+        "onboard_time": 1751107461,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 22384,
+        "num": 27306,
+        "word": "虹桥机场严查充电宝3C认证",
+        "onboard_time": 1751127504,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20950,
+        "num": 27305,
+        "word": "女子被未拴绳狼犬咬伤主人赔偿500元",
+        "onboard_time": 1751133019,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20333,
+        "num": 27305,
+        "word": "鬼灭之刃",
+        "onboard_time": 1751123603,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 19868,
+        "num": 27302,
+        "word": "陈一豪",
+        "onboard_time": 1751129420,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19741,
+        "num": 27302,
+        "word": "中韩泰男明星看秀外网生图",
+        "onboard_time": 1751122945,
+        "rank": 39,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 19596,
+        "num": 27301,
+        "word": "谁懂小鬼雨中唱别叫我达芬奇的杀伤力",
+        "onboard_time": 1751128701,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19488,
+        "num": 27298,
+        "word": "找回丢了26天的手机",
+        "onboard_time": 1751140394,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19460,
+        "num": 27297,
+        "word": "种甘蓝硬如铅球农户傻眼",
+        "onboard_time": 1751148016,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19191,
+        "num": 27295,
+        "word": "工人回应抽化粪池发现3把砍刀",
+        "onboard_time": 1751145614,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18527,
+        "num": 27294,
+        "word": "华晨宇宫廷玉液酒",
+        "onboard_time": 1751127921,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17085,
+        "num": 27292,
+        "word": "刘诗诗感谢大家的支持与鼓励",
+        "onboard_time": 1751127801,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16762,
+        "num": 27290,
+        "word": "接天莲叶无穷碧在这里具象化了",
+        "onboard_time": 1751149036,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16600,
+        "num": 27290,
+        "word": "孙颖莎发文大满贯见",
+        "onboard_time": 1751111662,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16582,
+        "num": 27287,
+        "word": "金建希出院",
+        "onboard_time": 1751143215,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15646,
+        "num": 27286,
+        "word": "王楚然路透",
+        "onboard_time": 1751142854,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记讲述的这个故事意蕴深长#"
+    }
+  }
+}

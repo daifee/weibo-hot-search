@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751146787916,
+  "endTime": 1751149463026,
   "band_list": [
     {
       "raw_hot": 1477036,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 115038,
-      "num": 72333,
+      "num": 103449,
       "word": "李兰迪刮彩票以为中了7万",
       "onboard_time": 1751135475,
       "rank": 28,
@@ -515,6 +515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 39361,
+      "num": 35587,
+      "word": "被传身亡伊朗高官现身国葬",
+      "onboard_time": 1751108481,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 34665,
       "num": 34828,
       "word": "田曦薇王玉雯后台合照",
@@ -531,16 +539,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 30401,
-      "num": 34828,
-      "word": "被传身亡伊朗高官现身国葬",
-      "onboard_time": 1751108481,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 25329,
-      "num": 25329,
+      "raw_hot": 27350,
+      "num": 28003,
       "word": "张晚意综艺感",
       "onboard_time": 1751140994,
       "rank": 39,
@@ -548,7 +548,7 @@
     },
     {
       "raw_hot": 24151,
-      "num": 24151,
+      "num": 27298,
       "word": "找回丢了26天的手机",
       "onboard_time": 1751140394,
       "rank": 26,
@@ -571,12 +571,44 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 15790,
-      "num": 21495,
+      "raw_hot": 19460,
+      "num": 27297,
+      "word": "种甘蓝硬如铅球农户傻眼",
+      "onboard_time": 1751148016,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19191,
+      "num": 27295,
+      "word": "工人回应抽化粪池发现3把砍刀",
+      "onboard_time": 1751145614,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16762,
+      "num": 27290,
+      "word": "接天莲叶无穷碧在这里具象化了",
+      "onboard_time": 1751149036,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16582,
+      "num": 27287,
       "word": "金建希出院",
       "onboard_time": 1751143215,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 15646,
+      "num": 27286,
+      "word": "王楚然路透",
+      "onboard_time": 1751142854,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 15426,
@@ -595,14 +627,6 @@
       "category": "民生新闻,体育"
     },
     {
-      "raw_hot": 14489,
-      "num": 21473,
-      "word": "工人回应抽化粪池发现3把砍刀",
-      "onboard_time": 1751145614,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 14204,
       "num": 20457,
       "word": "苏超给村超加油",
@@ -617,14 +641,6 @@
       "onboard_time": 1751145675,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 13903,
-      "num": 21451,
-      "word": "王楚然路透",
-      "onboard_time": 1751142854,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 12818,
