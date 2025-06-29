@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1751153975704,
+  "endTime": 1751163223223,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -3819,6 +3819,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1152194,
+      "num": 1184351,
+      "word": "多名中国游客称冰岛租车遭天价索赔",
+      "onboard_time": 1751160319,
+      "rank": 0,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1151552,
       "num": 717556,
       "word": "刘亦菲裙子",
@@ -3993,6 +4001,14 @@
       "onboard_time": 1749782481,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1129107,
+      "num": 1129107,
+      "word": "伊朗国葬",
+      "onboard_time": 1751156659,
+      "rank": 1,
+      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 1128678,
@@ -7443,6 +7459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 781861,
+      "num": 781861,
+      "word": "红色榴莲",
+      "onboard_time": 1751157201,
+      "rank": 3,
+      "category": "美食"
+    },
+    {
       "raw_hot": 781349,
       "num": 431132,
       "word": "孟子义李昀锐合作的第3部剧",
@@ -7900,7 +7924,7 @@
     },
     {
       "raw_hot": 747130,
-      "num": 144648,
+      "num": 325321,
       "word": "莆田8岁失联男童尸体被发现",
       "onboard_time": 1751129959,
       "rank": 11,
@@ -14123,6 +14147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 496818,
+      "num": 496818,
+      "word": "鹿晗cpu烧了半天把鞋子脱了",
+      "onboard_time": 1751156359,
+      "rank": 4,
+      "category": "演出"
+    },
+    {
       "raw_hot": 496616,
       "num": 496616,
       "word": "多所高校明确2025年不招复读生",
@@ -16107,6 +16139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 446864,
+      "num": 446864,
+      "word": "验资",
+      "onboard_time": 1751155639,
+      "rank": 5,
+      "category": "网红"
+    },
+    {
       "raw_hot": 446085,
       "num": 446085,
       "word": "伊朗准备好领导人遇刺情况下的计划",
@@ -16960,6 +17000,14 @@
       "word": "吴谨言王星越墨雨云间开播一周年发文",
       "onboard_time": 1748832919,
       "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 424558,
+      "num": 424558,
+      "word": "肖战参加藏海传庆功宴",
+      "onboard_time": 1751155578,
+      "rank": 6,
       "category": "剧集"
     },
     {
@@ -20723,6 +20771,14 @@
       "category": "演出,音乐"
     },
     {
+      "raw_hot": 353558,
+      "num": 353558,
+      "word": "成都暴雨",
+      "onboard_time": 1751155578,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 353474,
       "num": 353474,
       "word": "王欣瑜柏林赛亚军",
@@ -21867,6 +21923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 337927,
+      "num": 337927,
+      "word": "大学生健完身摸黑救了一条命",
+      "onboard_time": 1751155699,
+      "rank": 8,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 337847,
       "num": 337847,
       "word": "Prada晚宴",
@@ -22563,6 +22627,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 327778,
+      "num": 327778,
+      "word": "田栩宁 萌物",
+      "onboard_time": 1751156659,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 327574,
       "num": 327574,
       "word": "麦可布雷袭榜",
@@ -23113,6 +23185,14 @@
       "onboard_time": 1751029825,
       "rank": 18,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 317286,
+      "num": 317286,
+      "word": "李兰迪刮彩票以为中了7万",
+      "onboard_time": 1751135475,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 317267,
@@ -24729,6 +24809,14 @@
       "onboard_time": 1750231280,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 295667,
+      "num": 295667,
+      "word": "合肥地震",
+      "onboard_time": 1751155578,
+      "rank": 13,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 295658,
@@ -26425,14 +26513,6 @@
       "onboard_time": 1749129562,
       "rank": 25,
       "category": "体育,教育"
-    },
-    {
-      "raw_hot": 277126,
-      "num": 277126,
-      "word": "李兰迪刮彩票以为中了7万",
-      "onboard_time": 1751135475,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 277104,
@@ -28291,6 +28371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 258755,
+      "num": 203412,
+      "word": "踩死蟑螂真的可能生出很多小蟑螂",
+      "onboard_time": 1751156239,
+      "rank": 20,
+      "category": "科学科普,民生新闻"
+    },
+    {
       "raw_hot": 258738,
       "num": 229941,
       "word": "折腰 戒断反应",
@@ -28905,6 +28993,14 @@
       "onboard_time": 1750249581,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 253066,
+      "num": 253066,
+      "word": "肖战在郑晓龙头上比耶",
+      "onboard_time": 1751161341,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 252850,
@@ -30289,6 +30385,14 @@
       "onboard_time": 1749109400,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 240785,
+      "num": 240785,
+      "word": "杭州到北京只需半小时",
+      "onboard_time": 1751160621,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 240767,
@@ -31841,6 +31945,14 @@
       "onboard_time": 1750835242,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 229664,
+      "num": 229664,
+      "word": "来战",
+      "onboard_time": 1751161280,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 229620,
@@ -41099,6 +41211,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 192003,
+      "num": 192003,
+      "word": "中方敦促加方停止经贸问题政治化",
+      "onboard_time": 1751150114,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 191993,
       "num": 191993,
       "word": "海螺AI",
@@ -41281,6 +41401,14 @@
       "onboard_time": 1750591641,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191417,
+      "num": 191417,
+      "word": "小米汽车回应YU7刹车片起火",
+      "onboard_time": 1751158820,
+      "rank": 22,
+      "category": "汽车"
     },
     {
       "raw_hot": 191391,
@@ -47723,6 +47851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171825,
+      "num": 171825,
+      "word": "突然发现还没到三伏天",
+      "onboard_time": 1751160621,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171822,
       "num": 171822,
       "word": "唐禹哲晒儿子侧脸照",
@@ -50249,6 +50385,14 @@
       "onboard_time": 1749635362,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165168,
+      "num": 165168,
+      "word": "王嘉尔跳labubu大首领舞了",
+      "onboard_time": 1751160079,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 165164,
@@ -53355,6 +53499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156901,
+      "num": 156901,
+      "word": "男孩高三辍学被老师劝回高考630分",
+      "onboard_time": 1751162481,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156855,
       "num": 156855,
       "word": "伊朗旅游团是我带过最伤心的团",
@@ -53369,6 +53521,14 @@
       "onboard_time": 1750582043,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156832,
+      "num": 156832,
+      "word": "孙恩盛pk",
+      "onboard_time": 1751159421,
+      "rank": 28,
+      "category": "网红"
     },
     {
       "raw_hot": 156828,
@@ -53937,6 +54097,14 @@
       "onboard_time": 1749189021,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155328,
+      "num": 144534,
+      "word": "贵州榕江闪闪发光的7号",
+      "onboard_time": 1751158881,
+      "rank": 30,
+      "category": "正能量"
     },
     {
       "raw_hot": 155324,
@@ -65547,6 +65715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129201,
+      "num": 129201,
+      "word": "中医说夏天适合吃带香气的食物",
+      "onboard_time": 1751158759,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 129199,
       "num": 153564,
       "word": "国产9价HPV疫苗获批上市",
@@ -68185,6 +68361,14 @@
       "onboard_time": 1749037161,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 123557,
+      "num": 123557,
+      "word": "明天是2025上半年最后1天",
+      "onboard_time": 1751156359,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123547,
@@ -71339,6 +71523,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 116260,
+      "num": 116260,
+      "word": "人人都怀疑我偏偏我是真坏",
+      "onboard_time": 1751155699,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116229,
       "num": 116229,
       "word": "在陌生滴滴上捡到我掉了3个月的戒指",
@@ -71537,6 +71729,14 @@
       "onboard_time": 1749992542,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 115828,
+      "num": 115828,
+      "word": "读书真的会影响潜意识",
+      "onboard_time": 1751159121,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 115799,
@@ -73105,6 +73305,14 @@
       "onboard_time": 1748836700,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112363,
+      "num": 112363,
+      "word": "不爱吃香菜又一理由找到了",
+      "onboard_time": 1751160501,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 112331,
@@ -74803,6 +75011,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 108220,
+      "num": 108220,
+      "word": "花少马达加斯加路透",
+      "onboard_time": 1751161761,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108203,
       "num": 108203,
       "word": "王自如二次创业",
@@ -75075,6 +75291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107492,
+      "num": 107492,
+      "word": "白鹿曾舜晞hi6收视率",
+      "onboard_time": 1751162359,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107459,
       "num": 107459,
       "word": "树莓 勇敢小女孩",
@@ -75284,7 +75508,7 @@
     },
     {
       "raw_hot": 106773,
-      "num": 612656,
+      "num": 818974,
       "word": "紧急追加1亿元支持贵州灾后恢复",
       "onboard_time": 1751119885,
       "rank": 2,
@@ -75563,6 +75787,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 105616,
+      "num": 105616,
+      "word": "全国多地将有大到暴雨",
+      "onboard_time": 1751162419,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105606,
       "num": 296797,
       "word": "Lee你小子真会挑代言人",
@@ -75823,6 +76055,14 @@
       "num": 104908,
       "word": "沈月狠起来连自己都不放过",
       "onboard_time": 1748837720,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 104898,
+      "num": 104898,
+      "word": "45岁不结婚的女人怎样了",
+      "onboard_time": 1751153057,
       "rank": 49,
       "category": "综艺"
     },
@@ -77233,6 +77473,14 @@
       "onboard_time": 1750587562,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 100387,
+      "num": 100387,
+      "word": "鞠婧祎来战开机",
+      "onboard_time": 1751163200,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 100281,
@@ -83841,14 +84089,6 @@
       "onboard_time": 1748962524,
       "rank": 49,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 74925,
-      "num": 74925,
-      "word": "45岁不结婚的女人怎样了",
-      "onboard_time": 1751153057,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 74903,
@@ -95723,6 +95963,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 32661,
+      "num": 119858,
+      "word": "本菲卡0比1切尔西",
+      "onboard_time": 1751162001,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 32658,
       "num": 187295,
       "word": "FBI称有证据表明爱泼斯坦确系自杀",
@@ -97025,6 +97273,14 @@
       "onboard_time": 1749099742,
       "rank": 49,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 29197,
+      "num": 264195,
+      "word": "跟着苏超游昆山",
+      "onboard_time": 1751162481,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 29183,
@@ -98401,6 +98657,14 @@
       "onboard_time": 1750188495,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25896,
+      "num": 105732,
+      "word": "帕尔梅拉斯1比0博塔弗戈",
+      "onboard_time": 1751162659,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 25875,
@@ -102979,6 +103243,14 @@
       "category": "民生新闻,游戏"
     },
     {
+      "raw_hot": 13591,
+      "num": 158455,
+      "word": "榕江遇三江汇流洪峰流量超日常75倍",
+      "onboard_time": 1751163080,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13563,
       "num": 230109,
       "word": "AI会是iPhone的短板吗",
@@ -103793,6 +104065,14 @@
       "onboard_time": 1750149502,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 10401,
+      "num": 116470,
+      "word": "好博会人从众",
+      "onboard_time": 1751162481,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10397,
