@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751211685481,
+  "endTime": 1751214634143,
   "band_list": [
     {
       "raw_hot": 3569605,
@@ -81,6 +81,14 @@
       "onboard_time": 1751170942,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1267047,
+      "num": 305977,
+      "word": "邓超反正就是在一起",
+      "onboard_time": 1751212702,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1262756,
@@ -475,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 493342,
+      "num": 493342,
+      "word": "锦绣芳华",
+      "onboard_time": 1751210123,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 488001,
       "num": 466834,
       "word": "周深向贵州榕江灾区捐赠物资",
@@ -731,6 +747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 340628,
+      "num": 304737,
+      "word": "大麦就鹿晗演唱会售票问题道歉",
+      "onboard_time": 1751213960,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 339605,
       "num": 363720,
       "word": "以色列再爆发大规模抗议",
@@ -753,6 +777,14 @@
       "onboard_time": 1751155699,
       "rank": 8,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 335725,
+      "num": 302090,
+      "word": "陈垣宇0比4张本智和",
+      "onboard_time": 1751213420,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 335504,
@@ -795,20 +827,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 328452,
-      "num": 328452,
-      "word": "锦绣芳华",
-      "onboard_time": 1751210123,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 325179,
       "num": 330828,
       "word": "助理回应蔡澜遗产分配",
       "onboard_time": 1751170882,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 321401,
+      "num": 525709,
+      "word": "10月龄婴儿在展馆内喝奶瓶被赶出",
+      "onboard_time": 1751214200,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 321108,
@@ -923,6 +955,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 297467,
+      "num": 365848,
+      "word": "今年15个充电宝飞机上起火冒烟",
+      "onboard_time": 1751208743,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 296590,
       "num": 296590,
       "word": "泰州vs徐州",
@@ -980,7 +1020,7 @@
     },
     {
       "raw_hot": 285821,
-      "num": 187917,
+      "num": 191006,
       "word": "白桃星座一周运势",
       "onboard_time": 1751209763,
       "rank": 30,
@@ -1137,14 +1177,6 @@
       "onboard_time": 1751171603,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 242636,
-      "num": 365848,
-      "word": "今年15个充电宝飞机上起火冒烟",
-      "onboard_time": 1751208743,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 241343,
@@ -1577,6 +1609,14 @@
       "onboard_time": 1751166561,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 188750,
+      "num": 184832,
+      "word": "赵小童纯吃播",
+      "onboard_time": 1751212102,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 188651,
@@ -2313,6 +2353,14 @@
       "onboard_time": 1751195061,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140103,
+      "num": 140103,
+      "word": "赵一博连续直播3天",
+      "onboard_time": 1751213780,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 138978,
@@ -3203,6 +3251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99067,
+      "num": 99067,
+      "word": "利剑玫瑰 上星央8",
+      "onboard_time": 1751213541,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 98829,
       "num": 866693,
       "word": "紧急追加1亿元支持贵州灾后恢复",
@@ -3363,6 +3419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 79236,
+      "num": 79236,
+      "word": "假舞蹈培训机构打擦边球规避监管",
+      "onboard_time": 1751212460,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78912,
       "num": 78912,
       "word": "女子被未拴绳狼犬咬伤主人赔偿500元",
@@ -3401,6 +3465,14 @@
       "onboard_time": 1751131339,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75479,
+      "num": 75479,
+      "word": "那我二十块钱买的膜算什么",
+      "onboard_time": 1751212342,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 74040,
@@ -3897,6 +3969,14 @@
       "onboard_time": 1751135835,
       "rank": 46,
       "category": "民生新闻,体育"
+    },
+    {
+      "raw_hot": 14773,
+      "num": 90030,
+      "word": "郭炜炜赴约金灿荣",
+      "onboard_time": 1751213601,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 14204,
