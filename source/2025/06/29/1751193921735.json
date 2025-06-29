@@ -1,0 +1,410 @@
+{
+  "runTime": 1751193921735,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1329400,
+        "num": 1329400,
+        "word": "汪顺贾玲打网球",
+        "onboard_time": 1751190981,
+        "rank": 0,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 674544,
+        "num": 674544,
+        "word": "罗马仕 你都用回本了",
+        "onboard_time": 1751178141,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43349,
+        "num": 651225,
+        "word": "夜间经济点燃夏日文旅新引擎",
+        "onboard_time": 1751191220,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 645551,
+        "num": 645551,
+        "word": "马龙去看林俊杰演唱会了",
+        "onboard_time": 1751192600,
+        "rank": 3,
+        "category": "体育,演出"
+      },
+      {
+        "raw_hot": 528895,
+        "num": 528895,
+        "word": "鹿晗抢票",
+        "onboard_time": 1751193201,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 2096306,
+        "num": 528308,
+        "word": "单身税",
+        "onboard_time": 1751183842,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 525990,
+        "num": 525990,
+        "word": "微信最不能出现的功能 消息已读",
+        "onboard_time": 1751177843,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 523666,
+        "num": 523666,
+        "word": "日本人到老挝嫖宿幼女",
+        "onboard_time": 1751189481,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 503103,
+        "num": 503103,
+        "word": "无畏太乙",
+        "onboard_time": 1751192300,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 47352,
+        "num": 479694,
+        "word": "男子开黑医美培训将自己奉若神明",
+        "onboard_time": 1751193080,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 456574,
+        "num": 456574,
+        "word": "沈月连续两年AYA排名第一",
+        "onboard_time": 1751186121,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 435690,
+        "num": 435690,
+        "word": "六公主没选公主选了达拉崩吧",
+        "onboard_time": 1751186121,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 404551,
+        "num": 404551,
+        "word": "有3C标识充电宝也不可在飞机上使用",
+        "onboard_time": 1751187742,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 364838,
+        "num": 364838,
+        "word": "张新成宋祖儿新剧强制吻",
+        "onboard_time": 1751190381,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143452,
+        "num": 345058,
+        "word": "考二本分想上一本家长被骗80多万",
+        "onboard_time": 1751193140,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335203,
+        "num": 335203,
+        "word": "严浩翔香水",
+        "onboard_time": 1751192541,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322046,
+        "num": 322046,
+        "word": "邓超 鹿晗",
+        "onboard_time": 1751169980,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250417,
+        "num": 250417,
+        "word": "陈都灵请鞠婧祎剧组喝饮料",
+        "onboard_time": 1751187981,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216545,
+        "num": 216545,
+        "word": "官方回应朱雀玄武敕令改名被拒",
+        "onboard_time": 1751189600,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205464,
+        "num": 205464,
+        "word": "蟑螂入耳",
+        "onboard_time": 1751185522,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195597,
+        "num": 195597,
+        "word": "刘亦菲松弛感",
+        "onboard_time": 1751192360,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195487,
+        "num": 195487,
+        "word": "婚宴订多了想退被告知没先例",
+        "onboard_time": 1751190500,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194597,
+        "num": 194597,
+        "word": "TOP 接长沙",
+        "onboard_time": 1751192841,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 174211,
+        "num": 174211,
+        "word": "爱上画画的刘亦菲就像呼吸一样简单",
+        "onboard_time": 1751191641,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169198,
+        "num": 169198,
+        "word": "21名小学生凑钱聚餐老板自贴300元",
+        "onboard_time": 1751191341,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168793,
+        "num": 168793,
+        "word": "樊振东参加波尔退役仪式",
+        "onboard_time": 1751187022,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168724,
+        "num": 168724,
+        "word": "机场拦截充电宝疑似流入二手平台",
+        "onboard_time": 1751183361,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165743,
+        "num": 165743,
+        "word": "李昀锐助理看起来命很苦",
+        "onboard_time": 1751180359,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162977,
+        "num": 162977,
+        "word": "严浩翔回应王嘉尔",
+        "onboard_time": 1751185942,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68471,
+        "num": 159451,
+        "word": "榕江洪水无人机空投2000份盒饭",
+        "onboard_time": 1751193680,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172080,
+        "num": 159375,
+        "word": "土耳其一网红离世时体重仅剩23公斤",
+        "onboard_time": 1751193021,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 158182,
+        "num": 158182,
+        "word": "JDG对战EDGM",
+        "onboard_time": 1751189901,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152785,
+        "num": 155584,
+        "word": "第五人格赛事",
+        "onboard_time": 1751192300,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 155337,
+        "num": 155337,
+        "word": "五旬女子在小超市割眼袋后几近失明",
+        "onboard_time": 1751193440,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73205,
+        "num": 154488,
+        "word": "四川暴雨直接包场全国降雨前十",
+        "onboard_time": 1751193741,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154404,
+        "num": 154404,
+        "word": "姜云升怼新说唱",
+        "onboard_time": 1751191881,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152293,
+        "num": 152293,
+        "word": "林俊杰演唱会",
+        "onboard_time": 1751193440,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 147440,
+        "num": 147440,
+        "word": "女孩做黑医美一针晕厥全身发黑",
+        "onboard_time": 1751175202,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131950,
+        "num": 146372,
+        "word": "朱雀玄武敕令13个月申请改名11次",
+        "onboard_time": 1751190442,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146342,
+        "num": 146342,
+        "word": "离婚夜做真夫妻",
+        "onboard_time": 1751170942,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137864,
+        "num": 137864,
+        "word": "多平台紧急下架3C贴纸售卖帖",
+        "onboard_time": 1751188883,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133308,
+        "num": 133308,
+        "word": "华晨宇一把推开粉丝聚餐的门",
+        "onboard_time": 1751174782,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131312,
+        "num": 131312,
+        "word": "乌称俄一夜间对其发动最大规模空袭",
+        "onboard_time": 1751188701,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131049,
+        "num": 131049,
+        "word": "仙逆",
+        "onboard_time": 1751193801,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 122663,
+        "num": 122663,
+        "word": "汪顺回复贾玲",
+        "onboard_time": 1751193320,
+        "rank": 44,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 121336,
+        "num": 121336,
+        "word": "重庆2岁幼童20楼坠落奇迹生还",
+        "onboard_time": 1751185942,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119561,
+        "num": 119561,
+        "word": "孟子义晋江式跑步",
+        "onboard_time": 1751189661,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113189,
+        "num": 113189,
+        "word": "书卷一梦",
+        "onboard_time": 1751191820,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107566,
+        "num": 107566,
+        "word": "黄子韬画的饼做到了",
+        "onboard_time": 1751182880,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104293,
+        "num": 104293,
+        "word": "来韩国最大的问题出现了",
+        "onboard_time": 1751193140,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平回信勉励嘎拉村全体村民#"
+    }
+  }
+}
