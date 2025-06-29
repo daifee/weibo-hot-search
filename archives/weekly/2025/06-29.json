@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751206981523,
+  "endTime": 1751208114554,
   "band_list": [
     {
       "raw_hot": 3569605,
@@ -83,6 +83,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1245746,
+      "num": 1245746,
+      "word": "让小腿越来越粗的3种鞋",
+      "onboard_time": 1751203223,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 1239092,
       "num": 1239092,
       "word": "微信最不能出现的功能 消息已读",
@@ -97,14 +105,6 @@
       "onboard_time": 1751166080,
       "rank": 0,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1151124,
-      "num": 1151124,
-      "word": "让小腿越来越粗的3种鞋",
-      "onboard_time": 1751203223,
-      "rank": 30,
-      "category": "运动健身"
     },
     {
       "raw_hot": 1140350,
@@ -251,6 +251,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 730731,
+      "num": 730731,
+      "word": "一年瘦了30斤的面部变化",
+      "onboard_time": 1751203284,
+      "rank": 29,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 715642,
       "num": 715642,
       "word": "马龙去看林俊杰演唱会了",
@@ -323,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 643490,
+      "num": 643490,
+      "word": "杨幂挂了labubu",
+      "onboard_time": 1751207182,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 630953,
       "num": 586456,
       "word": "TF四代舞台投票",
@@ -371,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 571231,
+      "num": 571231,
+      "word": "有条件恢复日本部分地区水产品进口",
+      "onboard_time": 1751205383,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 570463,
       "num": 429015,
       "word": "沈腾喷了马丽老公一脸",
@@ -385,14 +409,6 @@
       "onboard_time": 1751175322,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 542670,
-      "num": 542670,
-      "word": "有条件恢复日本部分地区水产品进口",
-      "onboard_time": 1751205383,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 537869,
@@ -456,6 +472,22 @@
       "word": "男子称看劳斯莱斯后女友与销售互骂",
       "onboard_time": 1751122044,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 466834,
+      "num": 466834,
+      "word": "周深向贵州榕江灾区捐赠物资",
+      "onboard_time": 1751206524,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 453352,
+      "num": 529426,
+      "word": "充电宝怎么了",
+      "onboard_time": 1751203823,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -585,14 +617,6 @@
       "onboard_time": 1751201962,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 390407,
-      "num": 390407,
-      "word": "一年瘦了30斤的面部变化",
-      "onboard_time": 1751203284,
-      "rank": 29,
-      "category": "运动健身"
     },
     {
       "raw_hot": 386035,
@@ -851,14 +875,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 300204,
-      "num": 317538,
-      "word": "周深向贵州榕江灾区捐赠物资",
-      "onboard_time": 1751206524,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 299979,
       "num": 299979,
       "word": "卢昱晓 红毯公主",
@@ -881,14 +897,6 @@
       "onboard_time": 1751199802,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 296140,
-      "num": 529426,
-      "word": "充电宝怎么了",
-      "onboard_time": 1751203823,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 295667,
@@ -921,6 +929,14 @@
       "onboard_time": 1751161280,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 286757,
+      "num": 258321,
+      "word": "鹿晗演唱会微指",
+      "onboard_time": 1751207783,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 284692,
@@ -1353,6 +1369,14 @@
       "onboard_time": 1751195000,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 196969,
+      "num": 196969,
+      "word": "老婆只喜欢我小号怎么办",
+      "onboard_time": 1751206883,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 195597,
@@ -2147,6 +2171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 142605,
+      "num": 142605,
+      "word": "请把黄雅莉焊在舞台上",
+      "onboard_time": 1751207481,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142449,
       "num": 161864,
       "word": "果然还得是张新成",
@@ -2177,14 +2209,6 @@
       "onboard_time": 1751188521,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 141453,
-      "num": 141453,
-      "word": "老婆只喜欢我小号怎么办",
-      "onboard_time": 1751206883,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 141132,
@@ -2249,6 +2273,14 @@
       "onboard_time": 1751127921,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 137348,
+      "num": 137348,
+      "word": "央视曝光舞蹈培训市场乱象",
+      "onboard_time": 1751207962,
+      "rank": 45,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 137240,
@@ -2497,6 +2529,14 @@
       "onboard_time": 1751202681,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 128291,
+      "num": 128291,
+      "word": "郝蕾拒绝当备胎",
+      "onboard_time": 1751206764,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 128243,
@@ -3283,6 +3323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 66716,
+      "num": 437740,
+      "word": "特朗普称内塔尼亚胡被政治迫害",
+      "onboard_time": 1751206944,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 66700,
       "num": 448988,
       "word": "榕江终止一级应急响应转入常态化防汛",
@@ -3313,6 +3361,14 @@
       "onboard_time": 1751196080,
       "rank": 19,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 60372,
+      "num": 138695,
+      "word": "男子花六万八读海硕学历认证成难题",
+      "onboard_time": 1751208085,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59863,
@@ -3555,6 +3611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 26138,
+      "num": 858272,
+      "word": "数读我国物流运行亮眼成绩单",
+      "onboard_time": 1751190860,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 25896,
       "num": 105732,
       "word": "帕尔梅拉斯1比0博塔弗戈",
@@ -3587,22 +3651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 24005,
-      "num": 851291,
-      "word": "数读我国物流运行亮眼成绩单",
-      "onboard_time": 1751190860,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 23756,
-      "num": 153238,
-      "word": "特朗普称内塔尼亚胡被政治迫害",
-      "onboard_time": 1751206944,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 23754,
       "num": 28476,
       "word": "在汪苏泷的罗曼城淋过雨都发财",
@@ -3627,20 +3675,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 19898,
+      "num": 255709,
+      "word": "鲁比奥为何能获得特朗普信任",
+      "onboard_time": 1751206883,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 19188,
       "num": 160758,
       "word": "解限机为什么叫解限机",
       "onboard_time": 1751179702,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 18953,
-      "num": 187974,
-      "word": "鲁比奥为何能获得特朗普信任",
-      "onboard_time": 1751206883,
-      "rank": 36,
-      "category": "国际时政"
     },
     {
       "raw_hot": 18765,
@@ -3724,7 +3772,7 @@
     },
     {
       "raw_hot": 12183,
-      "num": 197695,
+      "num": 204563,
       "word": "Dior秀场背后的故事",
       "onboard_time": 1751204424,
       "rank": 33,
