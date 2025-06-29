@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751204781447,
+  "endTime": 1751206981523,
   "band_list": [
     {
       "raw_hot": 3569605,
@@ -27,20 +27,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1788140,
+      "num": 1788140,
+      "word": "TFBOYS十年保密协议到期",
+      "onboard_time": 1751201722,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1750532,
       "num": 1750532,
       "word": "鹿晗抢票",
       "onboard_time": 1751193201,
       "rank": 4,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1516999,
-      "num": 1516999,
-      "word": "TFBOYS十年保密协议到期",
-      "onboard_time": 1751201722,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 1477036,
@@ -97,6 +97,14 @@
       "onboard_time": 1751166080,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1151124,
+      "num": 1151124,
+      "word": "让小腿越来越粗的3种鞋",
+      "onboard_time": 1751203223,
+      "rank": 30,
+      "category": "运动健身"
     },
     {
       "raw_hot": 1140350,
@@ -235,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 736015,
+      "num": 524056,
+      "word": "印度三男子强奸法学院女生被拘4天",
+      "onboard_time": 1751202384,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 715642,
       "num": 715642,
       "word": "马龙去看林俊杰演唱会了",
@@ -371,6 +387,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 542670,
+      "num": 542670,
+      "word": "有条件恢复日本部分地区水产品进口",
+      "onboard_time": 1751205383,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 537869,
       "num": 537869,
       "word": "宋茜Amber同框",
@@ -385,14 +409,6 @@
       "onboard_time": 1751155639,
       "rank": 5,
       "category": "网红"
-    },
-    {
-      "raw_hot": 524056,
-      "num": 524056,
-      "word": "印度三男子强奸法学院女生被拘4天",
-      "onboard_time": 1751202384,
-      "rank": 21,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 503103,
@@ -571,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 390407,
+      "num": 390407,
+      "word": "一年瘦了30斤的面部变化",
+      "onboard_time": 1751203284,
+      "rank": 29,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 386035,
       "num": 386035,
       "word": "书卷一梦1集41分55秒",
@@ -625,14 +649,6 @@
       "onboard_time": 1751165482,
       "rank": 7,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 364972,
-      "num": 350051,
-      "word": "让小腿越来越粗的3种鞋",
-      "onboard_time": 1751203223,
-      "rank": 30,
-      "category": "运动健身"
     },
     {
       "raw_hot": 364617,
@@ -779,6 +795,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 314109,
+      "num": 314109,
+      "word": "姐姐骑车送16岁妹妹考试被撞进ICU",
+      "onboard_time": 1751205683,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 313522,
+      "num": 313522,
+      "word": "苏超排名",
+      "onboard_time": 1751205084,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 307083,
       "num": 307083,
       "word": "人均办公面积393.7平米被通报",
@@ -803,14 +835,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 305376,
-      "num": 305376,
-      "word": "一年瘦了30斤的面部变化",
-      "onboard_time": 1751203284,
-      "rank": 29,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 303989,
       "num": 303989,
       "word": "黄旭华院士今天安葬",
@@ -825,6 +849,14 @@
       "onboard_time": 1751172203,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 300204,
+      "num": 317538,
+      "word": "周深向贵州榕江灾区捐赠物资",
+      "onboard_time": 1751206524,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 299979,
@@ -849,6 +881,14 @@
       "onboard_time": 1751199802,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 296140,
+      "num": 529426,
+      "word": "充电宝怎么了",
+      "onboard_time": 1751203823,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 295667,
@@ -904,6 +944,14 @@
       "word": "王源演唱会都不白来",
       "onboard_time": 1751200700,
       "rank": 17,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 278568,
+      "num": 278568,
+      "word": "寡姐穿了中国红",
+      "onboard_time": 1751205263,
+      "rank": 25,
       "category": "演出"
     },
     {
@@ -1009,6 +1057,14 @@
       "onboard_time": 1751194459,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 244071,
+      "num": 244071,
+      "word": "太湖三傻就地解散",
+      "onboard_time": 1751206463,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 243615,
@@ -1147,6 +1203,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 213941,
+      "num": 263100,
+      "word": "仅测额就被贷款10万还不让提前还",
+      "onboard_time": 1751205084,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 212192,
       "num": 212192,
       "word": "王源 小小孩",
@@ -1209,6 +1273,14 @@
       "onboard_time": 1751171842,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 207368,
+      "num": 207368,
+      "word": "AG大场二十连胜",
+      "onboard_time": 1751206463,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 206518,
@@ -1427,6 +1499,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 187849,
+      "num": 187849,
+      "word": "桃花映江山",
+      "onboard_time": 1751205084,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186613,
       "num": 186613,
       "word": "罗马仕",
@@ -1481,6 +1561,14 @@
       "onboard_time": 1751185402,
       "rank": 31,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 181844,
+      "num": 181844,
+      "word": "未知的首尔",
+      "onboard_time": 1751205504,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 181259,
@@ -1715,6 +1803,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 161195,
+      "num": 161195,
+      "word": "林俊杰张艺兴callback翅膀",
+      "onboard_time": 1751206764,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 161158,
       "num": 161158,
       "word": "华晨宇 我一场不去就出大事了",
@@ -1860,7 +1956,7 @@
     },
     {
       "raw_hot": 152935,
-      "num": 152935,
+      "num": 168085,
       "word": "诡秘国产动画IMDb开分第一",
       "onboard_time": 1751203044,
       "rank": 42,
@@ -2035,8 +2131,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 143069,
-      "num": 143069,
+      "raw_hot": 144719,
+      "num": 144719,
       "word": "孟子义谈退休后的转行计划",
       "onboard_time": 1751204663,
       "rank": 48,
@@ -2081,6 +2177,14 @@
       "onboard_time": 1751188521,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141453,
+      "num": 141453,
+      "word": "老婆只喜欢我小号怎么办",
+      "onboard_time": 1751206883,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 141132,
@@ -2616,14 +2720,6 @@
       "word": "公共场所故意裸露身体隐私部位将被罚",
       "onboard_time": 1751124384,
       "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 115579,
-      "num": 529426,
-      "word": "充电宝怎么了",
-      "onboard_time": 1751203823,
-      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -3491,6 +3587,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24005,
+      "num": 851291,
+      "word": "数读我国物流运行亮眼成绩单",
+      "onboard_time": 1751190860,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 23756,
+      "num": 153238,
+      "word": "特朗普称内塔尼亚胡被政治迫害",
+      "onboard_time": 1751206944,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 23754,
       "num": 28476,
       "word": "在汪苏泷的罗曼城淋过雨都发财",
@@ -3521,6 +3633,14 @@
       "onboard_time": 1751179702,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 18953,
+      "num": 187974,
+      "word": "鲁比奥为何能获得特朗普信任",
+      "onboard_time": 1751206883,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 18765,
@@ -3603,20 +3723,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 12183,
+      "num": 197695,
+      "word": "Dior秀场背后的故事",
+      "onboard_time": 1751204424,
+      "rank": 33,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 10401,
       "num": 117397,
       "word": "好博会人从众",
       "onboard_time": 1751162481,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 9344,
-      "num": 197695,
-      "word": "Dior秀场背后的故事",
-      "onboard_time": 1751204424,
-      "rank": 33,
-      "category": "时尚"
     }
   ],
   "hotgov_list": [
@@ -3628,6 +3748,9 @@
     },
     {
       "word": "#习近平回信勉励嘎拉村全体村民#"
+    },
+    {
+      "word": "#习近平称这个英雄事迹震撼人心#"
     }
   ]
 }
