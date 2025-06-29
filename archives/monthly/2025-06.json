@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1751225793298,
+  "endTime": 1751228867488,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -97291,6 +97291,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 36896,
+      "num": 36896,
+      "word": "胡雷取出全部打赏驰援榕江",
+      "onboard_time": 1751223435,
+      "rank": 18,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 36894,
       "num": 188713,
       "word": "洛杉矶警察局发表声明",
@@ -99307,6 +99315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 31451,
+      "num": 31451,
+      "word": "湖南一高校保安将大量外卖扔垃圾桶",
+      "onboard_time": 1751226253,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31448,
       "num": 132710,
       "word": "2025年过去一半了",
@@ -99833,14 +99849,6 @@
       "onboard_time": 1750390160,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 30045,
-      "num": 31261,
-      "word": "胡雷取出全部打赏驰援榕江",
-      "onboard_time": 1751223435,
-      "rank": 18,
-      "category": "正能量"
     },
     {
       "raw_hot": 30028,
@@ -106059,6 +106067,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 14180,
+      "num": 15684,
+      "word": "川渝部分地区发生山洪可能性很大",
+      "onboard_time": 1751227514,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14136,
       "num": 28356,
       "word": "灵山大佛有球必应",
@@ -106249,6 +106265,22 @@
       "onboard_time": 1749753314,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 13761,
+      "num": 15682,
+      "word": "汪苏泷说我比手机还厉害",
+      "onboard_time": 1751227215,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 13660,
+      "num": 15675,
+      "word": "谁懂汪苏泷扔帽子这一下",
+      "onboard_time": 1751227215,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 13624,
@@ -106641,6 +106673,14 @@
       "onboard_time": 1749116539,
       "rank": 37,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 12045,
+      "num": 15665,
+      "word": "狼队奔狼战斗爽",
+      "onboard_time": 1751218936,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 12024,

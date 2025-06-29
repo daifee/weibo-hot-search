@@ -1,0 +1,410 @@
+{
+  "runTime": 1751228867488,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 92324,
+        "num": 92324,
+        "word": "白玉兰组委会疑似回应刘亦菲没去",
+        "onboard_time": 1751208143,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51799,
+        "num": 51799,
+        "word": "让小腿越来越粗的3种鞋",
+        "onboard_time": 1751203223,
+        "rank": 1,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 9992,
+        "num": 37064,
+        "word": "解锁首发经济花样消费场景",
+        "onboard_time": 1751210123,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 118251,
+        "num": 37050,
+        "word": "10月龄婴儿在展馆内喝奶瓶被赶出",
+        "onboard_time": 1751214200,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66480,
+        "num": 36978,
+        "word": "TFBOYS十年保密协议到期",
+        "onboard_time": 1751201722,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36896,
+        "num": 36896,
+        "word": "胡雷取出全部打赏驰援榕江",
+        "onboard_time": 1751223435,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 63179,
+        "num": 35810,
+        "word": "惠英红抑郁破产后如何重生",
+        "onboard_time": 1751208922,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50766,
+        "num": 35068,
+        "word": "邓超反正就是在一起",
+        "onboard_time": 1751212702,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33456,
+        "num": 33456,
+        "word": "挪威王储继子性侵案受害人达两位数",
+        "onboard_time": 1751200401,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 31551,
+        "num": 31551,
+        "word": "央视曝光舞蹈培训市场乱象",
+        "onboard_time": 1751207962,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 37059,
+        "num": 31545,
+        "word": "印度三男子强奸法学院女生被拘4天",
+        "onboard_time": 1751202384,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 32626,
+        "num": 31540,
+        "word": "鹿晗抢票",
+        "onboard_time": 1751193201,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 31451,
+        "num": 31451,
+        "word": "湖南一高校保安将大量外卖扔垃圾桶",
+        "onboard_time": 1751226253,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30562,
+        "num": 30562,
+        "word": "单身税",
+        "onboard_time": 1751183842,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 29829,
+        "num": 29829,
+        "word": "以色列袭击德黑兰监狱致71死",
+        "onboard_time": 1751209583,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 27809,
+        "num": 27809,
+        "word": "16岁学生和父亲争吵后手变鸡爪",
+        "onboard_time": 1751199561,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29362,
+        "num": 27662,
+        "word": "大麦就鹿晗演唱会售票问题道歉",
+        "onboard_time": 1751213960,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 25258,
+        "num": 25258,
+        "word": "陈垣宇0比4张本智和",
+        "onboard_time": 1751213420,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24140,
+        "num": 24140,
+        "word": "柳俊烈丑谈我真的笑不行了",
+        "onboard_time": 1751200641,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23607,
+        "num": 23607,
+        "word": "杨幂挂了labubu",
+        "onboard_time": 1751207182,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 32629,
+        "num": 23564,
+        "word": "女子车上发现人脸蜘蛛",
+        "onboard_time": 1751196739,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23512,
+        "num": 23512,
+        "word": "锦绣芳华",
+        "onboard_time": 1751210123,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20423,
+        "num": 20423,
+        "word": "姐姐骑车送16岁妹妹考试被撞进ICU",
+        "onboard_time": 1751205683,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19691,
+        "num": 19691,
+        "word": "一年瘦了30斤的面部变化",
+        "onboard_time": 1751203284,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 17547,
+        "num": 17547,
+        "word": "林俊杰嘉宾张艺兴",
+        "onboard_time": 1751201001,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17514,
+        "num": 17514,
+        "word": "以色列再爆发大规模抗议",
+        "onboard_time": 1751203163,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17224,
+        "num": 17224,
+        "word": "TF四代舞台投票",
+        "onboard_time": 1751198902,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16993,
+        "num": 16993,
+        "word": "充电宝怎么了",
+        "onboard_time": 1751203823,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15943,
+        "num": 15943,
+        "word": "周深好运来祝你下半年接好运",
+        "onboard_time": 1751212821,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 15799,
+        "num": 15799,
+        "word": "特朗普支持率跌至新低",
+        "onboard_time": 1751210663,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15748,
+        "num": 15748,
+        "word": "蔡澜晚年酒店套房生活",
+        "onboard_time": 1751195841,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15739,
+        "num": 15739,
+        "word": "今年15个充电宝飞机上起火冒烟",
+        "onboard_time": 1751208743,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15536,
+        "num": 15702,
+        "word": "以法之名 好看",
+        "onboard_time": 1751201962,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15687,
+        "num": 15687,
+        "word": "周深向贵州榕江灾区捐赠物资",
+        "onboard_time": 1751206524,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15204,
+        "num": 15686,
+        "word": "卜凡 出道是为了入道",
+        "onboard_time": 1751195721,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14180,
+        "num": 15684,
+        "word": "川渝部分地区发生山洪可能性很大",
+        "onboard_time": 1751227514,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13991,
+        "num": 15683,
+        "word": "微信最不能出现的功能 消息已读",
+        "onboard_time": 1751177843,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 13761,
+        "num": 15682,
+        "word": "汪苏泷说我比手机还厉害",
+        "onboard_time": 1751227215,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13391,
+        "num": 15681,
+        "word": "吴磊妈妈气场",
+        "onboard_time": 1751198602,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13208,
+        "num": 15679,
+        "word": "杨紫白玉兰感言",
+        "onboard_time": 1751218936,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13179,
+        "num": 15678,
+        "word": "老婆只喜欢我小号怎么办",
+        "onboard_time": 1751206883,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13056,
+        "num": 15677,
+        "word": "卢昱晓 红毯公主",
+        "onboard_time": 1751202802,
+        "rank": 41,
+        "category": "演出,时尚"
+      },
+      {
+        "raw_hot": 13660,
+        "num": 15675,
+        "word": "谁懂汪苏泷扔帽子这一下",
+        "onboard_time": 1751227215,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 12885,
+        "num": 15675,
+        "word": "2025F1奥地利大奖赛",
+        "onboard_time": 1751218457,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12866,
+        "num": 15672,
+        "word": "马龙看林俊杰演唱会嗓子哑了",
+        "onboard_time": 1751208322,
+        "rank": 44,
+        "category": "体育,演出"
+      },
+      {
+        "raw_hot": 12741,
+        "num": 15670,
+        "word": "TWICE更新",
+        "onboard_time": 1751210063,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12545,
+        "num": 15670,
+        "word": "孟子义的狗巧克力又塌房了",
+        "onboard_time": 1751195841,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12498,
+        "num": 15669,
+        "word": "太湖三傻就地解散",
+        "onboard_time": 1751206463,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12203,
+        "num": 15667,
+        "word": "致敬抗洪抢险一线的守护力量",
+        "onboard_time": 1751210243,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 12045,
+        "num": 15665,
+        "word": "狼队奔狼战斗爽",
+        "onboard_time": 1751218936,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平称这个英雄事迹震撼人心#"
+    }
+  }
+}

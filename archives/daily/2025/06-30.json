@@ -1,6 +1,6 @@
 {
   "startTime": 1751214634143,
-  "endTime": 1751225793298,
+  "endTime": 1751228867488,
   "band_list": [
     {
       "raw_hot": 1586314,
@@ -459,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36896,
+      "num": 36896,
+      "word": "胡雷取出全部打赏驰援榕江",
+      "onboard_time": 1751223435,
+      "rank": 18,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 35289,
       "num": 56178,
       "word": "2025F1奥地利大奖赛",
@@ -467,20 +475,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31451,
+      "num": 31451,
+      "word": "湖南一高校保安将大量外卖扔垃圾桶",
+      "onboard_time": 1751226253,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30154,
       "num": 30154,
       "word": "汪苏泷唱了我没有更多时间",
       "onboard_time": 1751221635,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 30045,
-      "num": 31261,
-      "word": "胡雷取出全部打赏驰援榕江",
-      "onboard_time": 1751223435,
-      "rank": 18,
-      "category": "正能量"
     },
     {
       "raw_hot": 26135,
@@ -545,6 +553,38 @@
       "onboard_time": 1751213601,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 14180,
+      "num": 15684,
+      "word": "川渝部分地区发生山洪可能性很大",
+      "onboard_time": 1751227514,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13761,
+      "num": 15682,
+      "word": "汪苏泷说我比手机还厉害",
+      "onboard_time": 1751227215,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 13660,
+      "num": 15675,
+      "word": "谁懂汪苏泷扔帽子这一下",
+      "onboard_time": 1751227215,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 12045,
+      "num": 15665,
+      "word": "狼队奔狼战斗爽",
+      "onboard_time": 1751218936,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 10568,
