@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751169641735,
+  "endTime": 1751170208837,
   "band_list": [
     {
       "raw_hot": 1477036,
@@ -19,20 +19,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1225583,
+      "num": 1225583,
+      "word": "张小斐抽烟镜头女王级别",
+      "onboard_time": 1751166080,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1129107,
       "num": 1129107,
       "word": "伊朗国葬",
       "onboard_time": 1751156659,
       "rank": 1,
       "category": "国际时政,民生新闻"
-    },
-    {
-      "raw_hot": 1126766,
-      "num": 1180282,
-      "word": "张小斐抽烟镜头女王级别",
-      "onboard_time": 1751166080,
-      "rank": 0,
-      "category": "电影"
     },
     {
       "raw_hot": 1102606,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 983335,
-      "num": 479733,
+      "num": 555825,
       "word": "时代少年团加冠礼演唱会",
       "onboard_time": 1751168361,
       "rank": 3,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 768693,
-      "num": 477380,
+      "num": 549067,
       "word": "她一天做了我一辈子的工作",
       "onboard_time": 1751164340,
       "rank": 30,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 712052,
-      "num": 362345,
+      "num": 371437,
       "word": "时代少年团大连站",
       "onboard_time": 1751168361,
       "rank": 8,
@@ -105,6 +105,14 @@
       "onboard_time": 1751160621,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 602769,
+      "num": 602769,
+      "word": "坚持跑步一个月面部的变化",
+      "onboard_time": 1751167460,
+      "rank": 10,
+      "category": "运动健身"
     },
     {
       "raw_hot": 537869,
@@ -155,14 +163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 413967,
-      "num": 358115,
-      "word": "坚持跑步一个月面部的变化",
-      "onboard_time": 1751167460,
-      "rank": 10,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 405853,
       "num": 330635,
       "word": "方大同 金曲奖",
@@ -211,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 374293,
+      "num": 374293,
+      "word": "朝雪录",
+      "onboard_time": 1751166260,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 366427,
       "num": 366427,
       "word": "俄罗斯一海岸出现4吨鲱鱼",
@@ -225,6 +233,14 @@
       "onboard_time": 1751155578,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 343419,
+      "num": 343419,
+      "word": "邓超 鹿晗",
+      "onboard_time": 1751169980,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 337927,
@@ -289,14 +305,6 @@
       "onboard_time": 1751155578,
       "rank": 13,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 294042,
-      "num": 294042,
-      "word": "朝雪录",
-      "onboard_time": 1751166260,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 290825,
@@ -395,20 +403,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218378,
+      "num": 218378,
+      "word": "小猫被主人亲完后装死",
+      "onboard_time": 1751169080,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 215900,
       "num": 215900,
       "word": "贵州榕江拉响全城警报",
       "onboard_time": 1751091143,
       "rank": 19,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 209854,
-      "num": 148918,
-      "word": "小猫被主人亲完后装死",
-      "onboard_time": 1751169080,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 209222,
@@ -451,6 +459,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 194195,
+      "num": 366102,
+      "word": "歼16霸气驱离外机现场画面",
+      "onboard_time": 1751165900,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 192385,
       "num": 192385,
       "word": "小米汽车回应YU7刹车片起火",
@@ -481,14 +497,6 @@
       "onboard_time": 1751126362,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 176368,
-      "num": 358162,
-      "word": "歼16霸气驱离外机现场画面",
-      "onboard_time": 1751165900,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 175317,
@@ -544,6 +552,14 @@
       "word": "男孩高三辍学被老师劝回高考630分",
       "onboard_time": 1751162481,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156235,
+      "num": 156235,
+      "word": "男子前台借伞不满50押金砸人被拘",
+      "onboard_time": 1751168781,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -627,20 +643,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 143584,
-      "num": 143584,
-      "word": "男子前台借伞不满50押金砸人被拘",
-      "onboard_time": 1751168781,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 140381,
       "num": 140381,
       "word": "低精力人群 炎症",
       "onboard_time": 1751093541,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 138978,
+      "num": 138978,
+      "word": "我是怎么发现得糖尿病的",
+      "onboard_time": 1751169681,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 137746,
@@ -665,6 +681,22 @@
       "onboard_time": 1751123784,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 132371,
+      "num": 132371,
+      "word": "陈梦有多自律",
+      "onboard_time": 1751169681,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 131473,
+      "num": 131473,
+      "word": "BLG晋级MSI淘汰赛",
+      "onboard_time": 1751166201,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 130501,
@@ -707,6 +739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128852,
+      "num": 154917,
+      "word": "明天是2025上半年最后1天",
+      "onboard_time": 1751156359,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128598,
       "num": 128598,
       "word": "桐心薇泯",
@@ -731,20 +771,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 127098,
-      "num": 127098,
-      "word": "BLG晋级MSI淘汰赛",
-      "onboard_time": 1751166201,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 125292,
-      "num": 125292,
-      "word": "明天是2025上半年最后1天",
-      "onboard_time": 1751156359,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 124083,
+      "num": 124083,
+      "word": "今年的荔枝怎么烂大街了",
+      "onboard_time": 1751169802,
+      "rank": 38,
+      "category": "议题讨论,财经"
     },
     {
       "raw_hot": 121369,
@@ -843,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108241,
+      "num": 108241,
+      "word": "苹果账户被盗刷162笔总金额超8万",
+      "onboard_time": 1751167280,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107611,
       "num": 107611,
       "word": "娜扎的芭莎第二套造型",
@@ -859,12 +899,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107168,
+      "num": 186401,
+      "word": "榕江洪灾清淤现场到处是足球",
+      "onboard_time": 1751168481,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106962,
       "num": 106962,
       "word": "90后已婚无娃夫妻一个月的生活开销",
       "onboard_time": 1751169502,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 106734,
+      "num": 106734,
+      "word": "谁家请吃饭借钱只借20块",
+      "onboard_time": 1751169920,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 106245,
@@ -899,12 +955,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 105278,
+      "num": 105278,
+      "word": "警惕暗示性的白嫖",
+      "onboard_time": 1751169859,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 104898,
       "num": 104898,
       "word": "45岁不结婚的女人怎样了",
       "onboard_time": 1751153057,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104412,
+      "num": 104412,
+      "word": "汗从哪儿出病从哪儿来",
+      "onboard_time": 1751169802,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 104008,
+      "num": 104008,
+      "word": "王楚钦孙颖莎中国健儿超燃时刻",
+      "onboard_time": 1751165600,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 102462,
@@ -931,27 +1011,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 98936,
-      "num": 98936,
-      "word": "王楚钦孙颖莎中国健儿超燃时刻",
-      "onboard_time": 1751165600,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 98829,
       "num": 866693,
       "word": "紧急追加1亿元支持贵州灾后恢复",
       "onboard_time": 1751119885,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 98371,
-      "num": 186401,
-      "word": "榕江洪灾清淤现场到处是足球",
-      "onboard_time": 1751168481,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1033,6 +1097,14 @@
       "onboard_time": 1751133019,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76742,
+      "num": 154851,
+      "word": "藏海传最初有好几版结局",
+      "onboard_time": 1751169859,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 76377,
@@ -1131,6 +1203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 34885,
+      "num": 343553,
+      "word": "海康威视回应被加政府命令停止运营",
+      "onboard_time": 1751169740,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 34665,
       "num": 34828,
       "word": "田曦薇王玉雯后台合照",
@@ -1140,7 +1220,7 @@
     },
     {
       "raw_hot": 33614,
-      "num": 484996,
+      "num": 559329,
       "word": "遇洪水必知的9个健康知识点",
       "onboard_time": 1751168120,
       "rank": 2,
@@ -1289,6 +1369,14 @@
       "onboard_time": 1751146575,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 10717,
+      "num": 121999,
+      "word": "机器人能精准识别情绪",
+      "onboard_time": 1751169681,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 10401,

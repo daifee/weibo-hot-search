@@ -1,0 +1,410 @@
+{
+  "runTime": 1751170208837,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1225583,
+        "num": 1225583,
+        "word": "张小斐抽烟镜头女王级别",
+        "onboard_time": 1751166080,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 602769,
+        "num": 602769,
+        "word": "坚持跑步一个月面部的变化",
+        "onboard_time": 1751167460,
+        "rank": 1,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 31256,
+        "num": 559329,
+        "word": "遇洪水必知的9个健康知识点",
+        "onboard_time": 1751168120,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 801212,
+        "num": 555825,
+        "word": "时代少年团加冠礼演唱会",
+        "onboard_time": 1751168361,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 757541,
+        "num": 549067,
+        "word": "她一天做了我一辈子的工作",
+        "onboard_time": 1751164340,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 523777,
+        "num": 523777,
+        "word": "多名中国游客称冰岛租车遭天价索赔",
+        "onboard_time": 1751160319,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 385025,
+        "num": 385025,
+        "word": "杭州到北京只需半小时",
+        "onboard_time": 1751160621,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 374293,
+        "num": 374293,
+        "word": "朝雪录",
+        "onboard_time": 1751166260,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 563111,
+        "num": 371437,
+        "word": "时代少年团大连站",
+        "onboard_time": 1751168361,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 194195,
+        "num": 366102,
+        "word": "歼16霸气驱离外机现场画面",
+        "onboard_time": 1751165900,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 361274,
+        "num": 361274,
+        "word": "书卷一梦1集41分55秒",
+        "onboard_time": 1751165419,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 356115,
+        "num": 356115,
+        "word": "伊朗国葬",
+        "onboard_time": 1751156659,
+        "rank": 11,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 348665,
+        "num": 348665,
+        "word": "俄罗斯一海岸出现4吨鲱鱼",
+        "onboard_time": 1751165482,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 344617,
+        "num": 344617,
+        "word": "田栩宁 萌物",
+        "onboard_time": 1751156659,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34885,
+        "num": 343553,
+        "word": "海康威视回应被加政府命令停止运营",
+        "onboard_time": 1751169740,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 343419,
+        "num": 343419,
+        "word": "邓超 鹿晗",
+        "onboard_time": 1751169980,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296667,
+        "num": 296667,
+        "word": "伊朗2022年几乎成功刺杀蓬佩奥",
+        "onboard_time": 1751163681,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 289188,
+        "num": 289188,
+        "word": "红色榴莲",
+        "onboard_time": 1751157201,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 218378,
+        "num": 218378,
+        "word": "小猫被主人亲完后装死",
+        "onboard_time": 1751169080,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168413,
+        "num": 168413,
+        "word": "特朗普称加拿大非常恶劣",
+        "onboard_time": 1751166561,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 302242,
+        "num": 166695,
+        "word": "关晓彤 鹿晗",
+        "onboard_time": 1751119105,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250222,
+        "num": 164848,
+        "word": "鞠婧祎来战开机",
+        "onboard_time": 1751163200,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231497,
+        "num": 162460,
+        "word": "杨蒙恩刘培钰婚礼",
+        "onboard_time": 1751165721,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204563,
+        "num": 161339,
+        "word": "李宇春当年拒绝代言锤子原因",
+        "onboard_time": 1751167400,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194303,
+        "num": 158489,
+        "word": "踩死蟑螂真的可能生出很多小蟑螂",
+        "onboard_time": 1751156239,
+        "rank": 24,
+        "category": "科学科普,民生新闻"
+      },
+      {
+        "raw_hot": 177191,
+        "num": 157014,
+        "word": "关晓彤回应粉丝",
+        "onboard_time": 1751120184,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156235,
+        "num": 156235,
+        "word": "男子前台借伞不满50押金砸人被拘",
+        "onboard_time": 1751168781,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129997,
+        "num": 155126,
+        "word": "合肥地震",
+        "onboard_time": 1751155578,
+        "rank": 27,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 128852,
+        "num": 154917,
+        "word": "明天是2025上半年最后1天",
+        "onboard_time": 1751156359,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76742,
+        "num": 154851,
+        "word": "藏海传最初有好几版结局",
+        "onboard_time": 1751169859,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154823,
+        "num": 154823,
+        "word": "肖战在郑晓龙头上比耶",
+        "onboard_time": 1751161341,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142412,
+        "num": 142412,
+        "word": "警方通报摩旅被民警驾私家车逼停",
+        "onboard_time": 1751164161,
+        "rank": 31,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 138978,
+        "num": 138978,
+        "word": "我是怎么发现得糖尿病的",
+        "onboard_time": 1751169681,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136850,
+        "num": 136850,
+        "word": "杨紫李现新剧逢场作戏情愫悄生",
+        "onboard_time": 1751168661,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132371,
+        "num": 132371,
+        "word": "陈梦有多自律",
+        "onboard_time": 1751169681,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131473,
+        "num": 131473,
+        "word": "BLG晋级MSI淘汰赛",
+        "onboard_time": 1751166201,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129621,
+        "num": 129621,
+        "word": "鞠婧祎张云龙开机路透",
+        "onboard_time": 1751165001,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128876,
+        "num": 128876,
+        "word": "美国敦促在伊朗美国公民立即撤离",
+        "onboard_time": 1751165482,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124083,
+        "num": 124083,
+        "word": "今年的荔枝怎么烂大街了",
+        "onboard_time": 1751169802,
+        "rank": 38,
+        "category": "议题讨论,财经"
+      },
+      {
+        "raw_hot": 10717,
+        "num": 121999,
+        "word": "机器人能精准识别情绪",
+        "onboard_time": 1751169681,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 120057,
+        "num": 120057,
+        "word": "小米汽车回应YU7刹车片起火",
+        "onboard_time": 1751158820,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 118167,
+        "num": 118167,
+        "word": "商场洪水倒灌商户5000多件衣服被淹",
+        "onboard_time": 1751164880,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114841,
+        "num": 114841,
+        "word": "成都暴雨",
+        "onboard_time": 1751155578,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108241,
+        "num": 108241,
+        "word": "苹果账户被盗刷162笔总金额超8万",
+        "onboard_time": 1751167280,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108077,
+        "num": 108077,
+        "word": "男练",
+        "onboard_time": 1751168721,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 107168,
+        "num": 107168,
+        "word": "榕江洪灾清淤现场到处是足球",
+        "onboard_time": 1751168481,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106734,
+        "num": 106734,
+        "word": "谁家请吃饭借钱只借20块",
+        "onboard_time": 1751169920,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105278,
+        "num": 105278,
+        "word": "警惕暗示性的白嫖",
+        "onboard_time": 1751169859,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104412,
+        "num": 104412,
+        "word": "汗从哪儿出病从哪儿来",
+        "onboard_time": 1751169802,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 104008,
+        "num": 104008,
+        "word": "王楚钦孙颖莎中国健儿超燃时刻",
+        "onboard_time": 1751165600,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心中的好干部标准#"
+    }
+  }
+}
