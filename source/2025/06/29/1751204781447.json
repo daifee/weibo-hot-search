@@ -1,0 +1,410 @@
+{
+  "runTime": 1751204781447,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1516999,
+        "num": 1516999,
+        "word": "TFBOYS十年保密协议到期",
+        "onboard_time": 1751201722,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 854943,
+        "num": 854943,
+        "word": "挪威王储继子性侵案受害人达两位数",
+        "onboard_time": 1751200401,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 38983,
+        "num": 810798,
+        "word": "夜间经济点燃夏日文旅新引擎",
+        "onboard_time": 1751191220,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 770673,
+        "num": 770673,
+        "word": "准新娘花1万2注射丰唇变歪嘴",
+        "onboard_time": 1751197100,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 674830,
+        "num": 674830,
+        "word": "大麦bug",
+        "onboard_time": 1751195961,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 956663,
+        "num": 669577,
+        "word": "单身税",
+        "onboard_time": 1751183842,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 651107,
+        "num": 651107,
+        "word": "林俊杰嘉宾张艺兴",
+        "onboard_time": 1751201001,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 611173,
+        "num": 611173,
+        "word": "特朗普开会时突然夸奖非洲记者漂亮",
+        "onboard_time": 1751200941,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 535446,
+        "num": 535446,
+        "word": "日本人到老挝嫖宿幼女",
+        "onboard_time": 1751189481,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 115579,
+        "num": 529426,
+        "word": "充电宝怎么了",
+        "onboard_time": 1751203823,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 782723,
+        "num": 529394,
+        "word": "吴磊妈妈气场",
+        "onboard_time": 1751198602,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 711819,
+        "num": 528406,
+        "word": "柳俊烈丑谈我真的笑不行了",
+        "onboard_time": 1751200641,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 524056,
+        "num": 524056,
+        "word": "印度三男子强奸法学院女生被拘4天",
+        "onboard_time": 1751202384,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 448360,
+        "num": 448360,
+        "word": "南通vs宿迁",
+        "onboard_time": 1751199561,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 434051,
+        "num": 434051,
+        "word": "苏超",
+        "onboard_time": 1751200222,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 425094,
+        "num": 425094,
+        "word": "微信最不能出现的功能 消息已读",
+        "onboard_time": 1751177843,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 396645,
+        "num": 396645,
+        "word": "以法之名 好看",
+        "onboard_time": 1751201962,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99827,
+        "num": 390359,
+        "word": "零跑B01超长长长650km长续航",
+        "onboard_time": 1751200941,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 387341,
+        "num": 387341,
+        "word": "TF四代舞台投票",
+        "onboard_time": 1751198902,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 355690,
+        "num": 355690,
+        "word": "鹿晗抢票",
+        "onboard_time": 1751193201,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 364972,
+        "num": 350051,
+        "word": "让小腿越来越粗的3种鞋",
+        "onboard_time": 1751203223,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 343228,
+        "num": 343228,
+        "word": "苏超苏州vs扬州",
+        "onboard_time": 1751195901,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 339605,
+        "num": 339605,
+        "word": "以色列再爆发大规模抗议",
+        "onboard_time": 1751203163,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 336446,
+        "num": 336446,
+        "word": "蔡澜晚年酒店套房生活",
+        "onboard_time": 1751195841,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305376,
+        "num": 305376,
+        "word": "一年瘦了30斤的面部变化",
+        "onboard_time": 1751203284,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 299979,
+        "num": 299979,
+        "word": "卢昱晓 红毯公主",
+        "onboard_time": 1751202802,
+        "rank": 25,
+        "category": "演出,时尚"
+      },
+      {
+        "raw_hot": 296590,
+        "num": 296590,
+        "word": "泰州vs徐州",
+        "onboard_time": 1751199802,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257984,
+        "num": 257984,
+        "word": "卜凡 出道是为了入道",
+        "onboard_time": 1751195721,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201530,
+        "num": 237586,
+        "word": "考二本分想上一本家长被骗80多万",
+        "onboard_time": 1751193140,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118620,
+        "num": 234723,
+        "word": "黑救护车转院途中32岁女患者死亡",
+        "onboard_time": 1751200102,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267017,
+        "num": 234205,
+        "word": "女子车上发现人脸蜘蛛",
+        "onboard_time": 1751196739,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232880,
+        "num": 232880,
+        "word": "孟子义的狗巧克力又塌房了",
+        "onboard_time": 1751195841,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203781,
+        "num": 203781,
+        "word": "16岁学生和父亲争吵后手变鸡爪",
+        "onboard_time": 1751199561,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9344,
+        "num": 197695,
+        "word": "Dior秀场背后的故事",
+        "onboard_time": 1751204424,
+        "rank": 33,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 193982,
+        "num": 193982,
+        "word": "南哥",
+        "onboard_time": 1751204243,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192176,
+        "num": 192176,
+        "word": "苏超惊现世界级倒钩进球",
+        "onboard_time": 1751203044,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183418,
+        "num": 183418,
+        "word": "PEL",
+        "onboard_time": 1751203223,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 172513,
+        "num": 172513,
+        "word": "苏州主场上空飞机一架接一架",
+        "onboard_time": 1751204064,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128493,
+        "num": 172504,
+        "word": "巴黎警车在被淹街道播放我心永恒",
+        "onboard_time": 1751202681,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 172500,
+        "num": 172500,
+        "word": "爱豆有人下海有人上山",
+        "onboard_time": 1751203584,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165843,
+        "num": 165843,
+        "word": "迪丽热巴甜品是另一个胃装的",
+        "onboard_time": 1751204604,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157722,
+        "num": 157722,
+        "word": "男主小三的身份正宫的做派",
+        "onboard_time": 1751203762,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156751,
+        "num": 156751,
+        "word": "多方回应女子举报前公婆资产近亿",
+        "onboard_time": 1751200342,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151869,
+        "num": 151869,
+        "word": "昆山奥体观众43617人刷新苏超纪录",
+        "onboard_time": 1751204004,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151027,
+        "num": 151027,
+        "word": "南通队4比0宿迁队",
+        "onboard_time": 1751204663,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150480,
+        "num": 150480,
+        "word": "刘宇宁一冲冲出个人生镜头",
+        "onboard_time": 1751203284,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148584,
+        "num": 148584,
+        "word": "AG对战DRG",
+        "onboard_time": 1751201603,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144757,
+        "num": 144757,
+        "word": "流量男星侧脸",
+        "onboard_time": 1751196143,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143069,
+        "num": 143069,
+        "word": "孟子义谈退休后的转行计划",
+        "onboard_time": 1751204663,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138293,
+        "num": 138293,
+        "word": "罗马仕 你都用回本了",
+        "onboard_time": 1751178141,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平回信勉励嘎拉村全体村民#"
+    }
+  }
+}
