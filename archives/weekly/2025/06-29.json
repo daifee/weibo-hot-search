@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751190022163,
+  "endTime": 1751192924896,
   "band_list": [
     {
       "raw_hot": 3569605,
@@ -107,6 +107,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1015058,
+      "num": 1162409,
+      "word": "汪顺贾玲打网球",
+      "onboard_time": 1751190981,
+      "rank": 0,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 983335,
       "num": 555825,
       "word": "时代少年团加冠礼演唱会",
@@ -153,6 +161,14 @@
       "onboard_time": 1751182880,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 752008,
+      "num": 342381,
+      "word": "日本人到老挝嫖宿幼女",
+      "onboard_time": 1751189481,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 747130,
@@ -315,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 411401,
+      "num": 411401,
+      "word": "六公主没选公主选了达拉崩吧",
+      "onboard_time": 1751186121,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 405853,
       "num": 330635,
       "word": "方大同 金曲奖",
@@ -361,6 +385,14 @@
       "onboard_time": 1751182880,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 378422,
+      "num": 378422,
+      "word": "张新成宋祖儿新剧强制吻",
+      "onboard_time": 1751190381,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 378025,
@@ -416,6 +448,14 @@
       "word": "成都暴雨",
       "onboard_time": 1751155578,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 346958,
+      "num": 346958,
+      "word": "有3C标识充电宝也不可在飞机上使用",
+      "onboard_time": 1751187742,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -569,14 +609,6 @@
       "onboard_time": 1751183424,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 295857,
-      "num": 295857,
-      "word": "有3C标识充电宝也不可在飞机上使用",
-      "onboard_time": 1751187742,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 295667,
@@ -771,6 +803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 219498,
+      "num": 219498,
+      "word": "官方回应朱雀玄武敕令改名被拒",
+      "onboard_time": 1751189600,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 219410,
       "num": 181992,
       "word": "李宇春当年拒绝代言锤子原因",
@@ -843,14 +883,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 204435,
-      "num": 204435,
-      "word": "六公主没选公主选了达拉崩吧",
-      "onboard_time": 1751186121,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 203707,
       "num": 203707,
       "word": "北京酒吧偶遇苏晓彤打架子鼓",
@@ -875,6 +907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200157,
+      "num": 200157,
+      "word": "马龙去看林俊杰演唱会了",
+      "onboard_time": 1751192600,
+      "rank": 17,
+      "category": "体育,演出"
+    },
+    {
       "raw_hot": 198491,
       "num": 178637,
       "word": "杨紫李现新剧逢场作戏情愫悄生",
@@ -883,20 +923,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195466,
+      "num": 195466,
+      "word": "无畏太乙",
+      "onboard_time": 1751192300,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 195426,
       "num": 195426,
       "word": "警惕暗示性的白嫖",
       "onboard_time": 1751169859,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 195286,
-      "num": 195286,
-      "word": "官方回应朱雀玄武敕令改名被拒",
-      "onboard_time": 1751189600,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 194916,
@@ -963,6 +1003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190419,
+      "num": 190419,
+      "word": "书卷一梦",
+      "onboard_time": 1751191820,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188790,
       "num": 188790,
       "word": "特朗普称加拿大非常恶劣",
@@ -1019,6 +1067,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 181807,
+      "num": 181807,
+      "word": "婚宴订多了想退被告知没先例",
+      "onboard_time": 1751190500,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181259,
       "num": 181259,
       "word": "姜云升 王翊衡",
@@ -1067,6 +1123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172738,
+      "num": 172738,
+      "word": "姜云升怼新说唱",
+      "onboard_time": 1751191881,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172561,
       "num": 172561,
       "word": "清华硕士文眉撕掉职业偏见标签",
@@ -1083,12 +1147,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169978,
+      "num": 169978,
+      "word": "刘亦菲松弛感",
+      "onboard_time": 1751192360,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169887,
       "num": 169887,
       "word": "严浩翔王嘉尔合照",
       "onboard_time": 1751180602,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167663,
+      "num": 167663,
+      "word": "鞠婧祎阿黛首套造型路透",
+      "onboard_time": 1751192000,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 167317,
@@ -1113,14 +1193,6 @@
       "onboard_time": 1751107461,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 165829,
-      "num": 268782,
-      "word": "日本人到老挝嫖宿幼女",
-      "onboard_time": 1751189481,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 165168,
@@ -1171,6 +1243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159671,
+      "num": 159671,
+      "word": "21名小学生凑钱聚餐老板自贴300元",
+      "onboard_time": 1751191341,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159413,
       "num": 159413,
       "word": "3岁女娃双眼近视1000度摸着走路",
@@ -1185,6 +1265,14 @@
       "onboard_time": 1751189661,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157672,
+      "num": 157672,
+      "word": "乌称俄一夜间对其发动最大规模空袭",
+      "onboard_time": 1751188701,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 156901,
@@ -1257,6 +1345,14 @@
       "onboard_time": 1751175802,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151988,
+      "num": 151988,
+      "word": "严浩翔香水",
+      "onboard_time": 1751192541,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 151297,
@@ -1403,6 +1499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141842,
+      "num": 141842,
+      "word": "第五人格赛事",
+      "onboard_time": 1751192300,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 141647,
       "num": 141647,
       "word": "卓沅说百香果终于结果了",
@@ -1425,6 +1529,14 @@
       "onboard_time": 1751169681,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 138888,
+      "num": 138888,
+      "word": "TOP 接长沙",
+      "onboard_time": 1751192841,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 137746,
@@ -1483,12 +1595,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 135134,
-      "num": 135134,
-      "word": "乌称俄一夜间对其发动最大规模空袭",
-      "onboard_time": 1751188701,
-      "rank": 49,
-      "category": "国际时政"
+      "raw_hot": 135464,
+      "num": 197969,
+      "word": "爱上画画的刘亦菲就像呼吸一样简单",
+      "onboard_time": 1751191641,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 134660,
@@ -1547,12 +1659,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132016,
+      "num": 218858,
+      "word": "多平台紧急下架3C贴纸售卖帖",
+      "onboard_time": 1751188883,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131473,
       "num": 131473,
       "word": "BLG晋级MSI淘汰赛",
       "onboard_time": 1751166201,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 130569,
+      "num": 130569,
+      "word": "姜妍中餐厅复刻锦绣芳华同款胡饼",
+      "onboard_time": 1751189661,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 130501,
@@ -1617,6 +1745,14 @@
       "onboard_time": 1751159121,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 129294,
+      "num": 197958,
+      "word": "朱雀玄武敕令13个月申请改名11次",
+      "onboard_time": 1751190442,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128852,
@@ -1699,20 +1835,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 124626,
-      "num": 124626,
-      "word": "姜妍中餐厅复刻锦绣芳华同款胡饼",
-      "onboard_time": 1751189661,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 121369,
       "num": 121369,
       "word": "商场洪水倒灌商户5000多件衣服被淹",
       "onboard_time": 1751164880,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121102,
+      "num": 121102,
+      "word": "汪顺的最佳穿着",
+      "onboard_time": 1751191341,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 120747,
@@ -1801,6 +1937,14 @@
       "onboard_time": 1751127504,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115924,
+      "num": 115924,
+      "word": "陈赫被表白这一块",
+      "onboard_time": 1751191400,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 115755,
@@ -1897,6 +2041,14 @@
       "onboard_time": 1751188941,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 110844,
+      "num": 110844,
+      "word": "武汉出现雨幡奇观",
+      "onboard_time": 1751190621,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110814,
@@ -2171,12 +2323,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86308,
+      "num": 342741,
+      "word": "医美培训师专门讲怎么多收钱",
+      "onboard_time": 1751191280,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 85622,
       "num": 85622,
       "word": "孙颖莎发文大满贯见",
       "onboard_time": 1751111662,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85622,
+      "num": 220318,
+      "word": "安克称充电宝泡盐水处理后可获赔",
+      "onboard_time": 1751191341,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82984,
@@ -2395,12 +2563,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40148,
-      "num": 218858,
-      "word": "多平台紧急下架3C贴纸售卖帖",
-      "onboard_time": 1751188883,
-      "rank": 21,
-      "category": "民生新闻"
+      "raw_hot": 41155,
+      "num": 557648,
+      "word": "夜间经济点燃夏日文旅新引擎",
+      "onboard_time": 1751191220,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 38393,
@@ -2489,6 +2657,14 @@
       "onboard_time": 1751178801,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28382,
+      "num": 130815,
+      "word": "三丽鸥狗狗党的胜利",
+      "onboard_time": 1751192181,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 26887,

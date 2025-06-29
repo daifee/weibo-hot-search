@@ -1,0 +1,410 @@
+{
+  "runTime": 1751192924896,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1015058,
+        "num": 1162409,
+        "word": "汪顺贾玲打网球",
+        "onboard_time": 1751190981,
+        "rank": 0,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 605031,
+        "num": 605031,
+        "word": "罗马仕 你都用回本了",
+        "onboard_time": 1751178141,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41155,
+        "num": 557648,
+        "word": "夜间经济点燃夏日文旅新引擎",
+        "onboard_time": 1751191220,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 534487,
+        "num": 534487,
+        "word": "沈月连续两年AYA排名第一",
+        "onboard_time": 1751186121,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2079393,
+        "num": 533133,
+        "word": "单身税",
+        "onboard_time": 1751183842,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 529011,
+        "num": 529011,
+        "word": "微信最不能出现的功能 消息已读",
+        "onboard_time": 1751177843,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 411401,
+        "num": 411401,
+        "word": "六公主没选公主选了达拉崩吧",
+        "onboard_time": 1751186121,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 378422,
+        "num": 378422,
+        "word": "张新成宋祖儿新剧强制吻",
+        "onboard_time": 1751190381,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 346958,
+        "num": 346958,
+        "word": "有3C标识充电宝也不可在飞机上使用",
+        "onboard_time": 1751187742,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86308,
+        "num": 342741,
+        "word": "医美培训师专门讲怎么多收钱",
+        "onboard_time": 1751191280,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 752008,
+        "num": 342381,
+        "word": "日本人到老挝嫖宿幼女",
+        "onboard_time": 1751189481,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 340997,
+        "num": 340997,
+        "word": "邓超 鹿晗",
+        "onboard_time": 1751169980,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282185,
+        "num": 282185,
+        "word": "陈都灵请鞠婧祎剧组喝饮料",
+        "onboard_time": 1751187981,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254279,
+        "num": 254279,
+        "word": "蟑螂入耳",
+        "onboard_time": 1751185522,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 85622,
+        "num": 220318,
+        "word": "安克称充电宝泡盐水处理后可获赔",
+        "onboard_time": 1751191341,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219498,
+        "num": 219498,
+        "word": "官方回应朱雀玄武敕令改名被拒",
+        "onboard_time": 1751189600,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218161,
+        "num": 218161,
+        "word": "樊振东参加波尔退役仪式",
+        "onboard_time": 1751187022,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200157,
+        "num": 200157,
+        "word": "马龙去看林俊杰演唱会了",
+        "onboard_time": 1751192600,
+        "rank": 17,
+        "category": "体育,演出"
+      },
+      {
+        "raw_hot": 135464,
+        "num": 197969,
+        "word": "爱上画画的刘亦菲就像呼吸一样简单",
+        "onboard_time": 1751191641,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129294,
+        "num": 197958,
+        "word": "朱雀玄武敕令13个月申请改名11次",
+        "onboard_time": 1751190442,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197947,
+        "num": 197947,
+        "word": "严浩翔回应王嘉尔",
+        "onboard_time": 1751185942,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195697,
+        "num": 195697,
+        "word": "李昀锐助理看起来命很苦",
+        "onboard_time": 1751180359,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195466,
+        "num": 195466,
+        "word": "无畏太乙",
+        "onboard_time": 1751192300,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 190982,
+        "num": 190982,
+        "word": "机场拦截充电宝疑似流入二手平台",
+        "onboard_time": 1751183361,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190419,
+        "num": 190419,
+        "word": "书卷一梦",
+        "onboard_time": 1751191820,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181807,
+        "num": 181807,
+        "word": "婚宴订多了想退被告知没先例",
+        "onboard_time": 1751190500,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172738,
+        "num": 172738,
+        "word": "姜云升怼新说唱",
+        "onboard_time": 1751191881,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169978,
+        "num": 169978,
+        "word": "刘亦菲松弛感",
+        "onboard_time": 1751192360,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167929,
+        "num": 167929,
+        "word": "离婚夜做真夫妻",
+        "onboard_time": 1751170942,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167663,
+        "num": 167663,
+        "word": "鞠婧祎阿黛首套造型路透",
+        "onboard_time": 1751192000,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161895,
+        "num": 161895,
+        "word": "鹿晗演唱会",
+        "onboard_time": 1751175322,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 159671,
+        "num": 159671,
+        "word": "21名小学生凑钱聚餐老板自贴300元",
+        "onboard_time": 1751191341,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157672,
+        "num": 157672,
+        "word": "乌称俄一夜间对其发动最大规模空袭",
+        "onboard_time": 1751188701,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151988,
+        "num": 151988,
+        "word": "严浩翔香水",
+        "onboard_time": 1751192541,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147698,
+        "num": 147698,
+        "word": "孟子义晋江式跑步",
+        "onboard_time": 1751189661,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141842,
+        "num": 141842,
+        "word": "第五人格赛事",
+        "onboard_time": 1751192300,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138888,
+        "num": 138888,
+        "word": "TOP 接长沙",
+        "onboard_time": 1751192841,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138538,
+        "num": 138538,
+        "word": "女孩做黑医美一针晕厥全身发黑",
+        "onboard_time": 1751175202,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132016,
+        "num": 132016,
+        "word": "多平台紧急下架3C贴纸售卖帖",
+        "onboard_time": 1751188883,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28382,
+        "num": 130815,
+        "word": "三丽鸥狗狗党的胜利",
+        "onboard_time": 1751192181,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 130569,
+        "num": 130569,
+        "word": "姜妍中餐厅复刻锦绣芳华同款胡饼",
+        "onboard_time": 1751189661,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127864,
+        "num": 127864,
+        "word": "华晨宇一把推开粉丝聚餐的门",
+        "onboard_time": 1751174782,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121102,
+        "num": 121102,
+        "word": "汪顺的最佳穿着",
+        "onboard_time": 1751191341,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123203,
+        "num": 119260,
+        "word": "黄子韬画的饼做到了",
+        "onboard_time": 1751182880,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115924,
+        "num": 115924,
+        "word": "陈赫被表白这一块",
+        "onboard_time": 1751191400,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110844,
+        "num": 110844,
+        "word": "武汉出现雨幡奇观",
+        "onboard_time": 1751190621,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110521,
+        "num": 110521,
+        "word": "打电话真的要小心苹果手机的语音信箱",
+        "onboard_time": 1751187502,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 107437,
+        "num": 107437,
+        "word": "当你不停运动2个月后",
+        "onboard_time": 1751185402,
+        "rank": 47,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 106317,
+        "num": 106317,
+        "word": "重庆2岁幼童20楼坠落奇迹生还",
+        "onboard_time": 1751185942,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106132,
+        "num": 106132,
+        "word": "巴勒斯坦体育界615人已遇袭身亡",
+        "onboard_time": 1751178741,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心中的好干部标准#"
+    }
+  }
+}
