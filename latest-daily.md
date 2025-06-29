@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/30 00:30:34 ~ 2025/06/30 01:22:18
+本榜单时间：2025/06/30 00:30:34 ~ 2025/06/30 01:41:42
 </p>
 </blockquote>
 <p>
@@ -327,6 +327,12 @@ TWICE更新（热度：74339）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+十个勤天演唱会（热度：47117）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A1%82%E6%81%92%23" target="weibo">
 桂恒（热度：45473）
 </a>
@@ -347,6 +353,12 @@ TWICE更新（热度：74339）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BBAPP%E5%B4%A9%E4%BA%86%23" target="weibo">
 时代峰峻APP崩了（热度：39788）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232025F1%E5%A5%A5%E5%9C%B0%E5%88%A9%E5%A4%A7%E5%A5%96%E8%B5%9B%23" target="weibo">
+2025F1奥地利大奖赛（热度：35289）
 </a>
 </li>
 

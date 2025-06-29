@@ -1,0 +1,410 @@
+{
+  "runTime": 1751218902124,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 757979,
+        "num": 757979,
+        "word": "邓超反正就是在一起",
+        "onboard_time": 1751212702,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264681,
+        "num": 264681,
+        "word": "让小腿越来越粗的3种鞋",
+        "onboard_time": 1751203223,
+        "rank": 1,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 23126,
+        "num": 169078,
+        "word": "致敬抗洪抢险一线的守护力量",
+        "onboard_time": 1751210243,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 506787,
+        "num": 166110,
+        "word": "白玉兰组委会疑似回应刘亦菲没去",
+        "onboard_time": 1751208143,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 439025,
+        "num": 165709,
+        "word": "10月龄婴儿在展馆内喝奶瓶被赶出",
+        "onboard_time": 1751214200,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147532,
+        "num": 147532,
+        "word": "陈垣宇0比4张本智和",
+        "onboard_time": 1751213420,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 316688,
+        "num": 142626,
+        "word": "TFBOYS十年保密协议到期",
+        "onboard_time": 1751201722,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263386,
+        "num": 130156,
+        "word": "大麦就鹿晗演唱会售票问题道歉",
+        "onboard_time": 1751213960,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117543,
+        "num": 117543,
+        "word": "单身税",
+        "onboard_time": 1751183842,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 97169,
+        "num": 97169,
+        "word": "央视曝光舞蹈培训市场乱象",
+        "onboard_time": 1751207962,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 205634,
+        "num": 95870,
+        "word": "惠英红抑郁破产后如何重生",
+        "onboard_time": 1751208922,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135904,
+        "num": 93681,
+        "word": "印度三男子强奸法学院女生被拘4天",
+        "onboard_time": 1751202384,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 151391,
+        "num": 93505,
+        "word": "鹿晗抢票",
+        "onboard_time": 1751193201,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122428,
+        "num": 91429,
+        "word": "杨幂挂了labubu",
+        "onboard_time": 1751207182,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 90018,
+        "num": 90018,
+        "word": "周深向贵州榕江灾区捐赠物资",
+        "onboard_time": 1751206524,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85130,
+        "num": 85130,
+        "word": "16岁学生和父亲争吵后手变鸡爪",
+        "onboard_time": 1751199561,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82327,
+        "num": 82327,
+        "word": "马龙看林俊杰演唱会嗓子哑了",
+        "onboard_time": 1751208322,
+        "rank": 16,
+        "category": "体育,演出"
+      },
+      {
+        "raw_hot": 68339,
+        "num": 68339,
+        "word": "微信最不能出现的功能 消息已读",
+        "onboard_time": 1751177843,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66873,
+        "num": 66873,
+        "word": "白桃星座一周运势",
+        "onboard_time": 1751209763,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 65213,
+        "num": 65213,
+        "word": "今年15个充电宝飞机上起火冒烟",
+        "onboard_time": 1751208743,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91124,
+        "num": 65202,
+        "word": "女子车上发现人脸蜘蛛",
+        "onboard_time": 1751196739,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89219,
+        "num": 65164,
+        "word": "锦绣芳华",
+        "onboard_time": 1751210123,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71108,
+        "num": 65149,
+        "word": "以法之名 好看",
+        "onboard_time": 1751201962,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69261,
+        "num": 65120,
+        "word": "汪苏泷秀了个假腹肌",
+        "onboard_time": 1751217378,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 65116,
+        "num": 65116,
+        "word": "柳俊烈丑谈我真的笑不行了",
+        "onboard_time": 1751200641,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63273,
+        "num": 63273,
+        "word": "林俊杰嘉宾张艺兴",
+        "onboard_time": 1751201001,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 59887,
+        "num": 59887,
+        "word": "以色列袭击德黑兰监狱致71死",
+        "onboard_time": 1751209583,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 57367,
+        "num": 57367,
+        "word": "挪威王储继子性侵案受害人达两位数",
+        "onboard_time": 1751200401,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 56532,
+        "num": 56532,
+        "word": "一年瘦了30斤的面部变化",
+        "onboard_time": 1751203284,
+        "rank": 28,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 56408,
+        "num": 56408,
+        "word": "卜凡 出道是为了入道",
+        "onboard_time": 1751195721,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53021,
+        "num": 56395,
+        "word": "寡姐说来中国办首映是她提的",
+        "onboard_time": 1751214859,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 52091,
+        "num": 56387,
+        "word": "TF四代舞台投票",
+        "onboard_time": 1751198902,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 51700,
+        "num": 56371,
+        "word": "利剑玫瑰 上星央8",
+        "onboard_time": 1751213541,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51413,
+        "num": 56363,
+        "word": "吴磊妈妈气场",
+        "onboard_time": 1751198602,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49283,
+        "num": 56350,
+        "word": "蔡澜晚年酒店套房生活",
+        "onboard_time": 1751195841,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47542,
+        "num": 56340,
+        "word": "姐姐骑车送16岁妹妹考试被撞进ICU",
+        "onboard_time": 1751205683,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47117,
+        "num": 56327,
+        "word": "十个勤天演唱会",
+        "onboard_time": 1751217798,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 41642,
+        "num": 56304,
+        "word": "充电宝怎么了",
+        "onboard_time": 1751203823,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40209,
+        "num": 56289,
+        "word": "舒淇恭喜宋佳",
+        "onboard_time": 1751210603,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39286,
+        "num": 56277,
+        "word": "以色列再爆发大规模抗议",
+        "onboard_time": 1751203163,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 38202,
+        "num": 56271,
+        "word": "特朗普支持率跌至新低",
+        "onboard_time": 1751210663,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 37419,
+        "num": 56259,
+        "word": "太湖三傻就地解散",
+        "onboard_time": 1751206463,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36957,
+        "num": 56246,
+        "word": "TWICE更新",
+        "onboard_time": 1751210063,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35942,
+        "num": 56221,
+        "word": "孟子义的狗巧克力又塌房了",
+        "onboard_time": 1751195841,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35822,
+        "num": 56215,
+        "word": "时代峰峻APP崩了",
+        "onboard_time": 1751214978,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35744,
+        "num": 56198,
+        "word": "老婆只喜欢我小号怎么办",
+        "onboard_time": 1751206883,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11852,
+        "num": 56179,
+        "word": "郭炜炜赴约金灿荣",
+        "onboard_time": 1751213601,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 35289,
+        "num": 56178,
+        "word": "2025F1奥地利大奖赛",
+        "onboard_time": 1751218457,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31244,
+        "num": 56161,
+        "word": "卢昱晓 红毯公主",
+        "onboard_time": 1751202802,
+        "rank": 48,
+        "category": "演出,时尚"
+      },
+      {
+        "raw_hot": 30595,
+        "num": 56150,
+        "word": "赵小童纯吃播",
+        "onboard_time": 1751212102,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平称这个英雄事迹震撼人心#"
+    }
+  }
+}
