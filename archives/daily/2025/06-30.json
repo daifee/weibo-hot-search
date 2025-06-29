@@ -1,7 +1,15 @@
 {
   "startTime": 1751214634143,
-  "endTime": 1751214634143,
+  "endTime": 1751215621407,
   "band_list": [
+    {
+      "raw_hot": 1586314,
+      "num": 1586314,
+      "word": "邓超反正就是在一起",
+      "onboard_time": 1751212702,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1359441,
       "num": 1359441,
@@ -11,20 +19,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1267047,
-      "num": 305977,
-      "word": "邓超反正就是在一起",
-      "onboard_time": 1751212702,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 632665,
       "num": 528439,
       "word": "TFBOYS十年保密协议到期",
       "onboard_time": 1751201722,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 586352,
+      "num": 525709,
+      "word": "10月龄婴儿在展馆内喝奶瓶被赶出",
+      "onboard_time": 1751214200,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 563150,
@@ -59,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 427949,
+      "num": 323494,
+      "word": "大麦就鹿晗演唱会售票问题道歉",
+      "onboard_time": 1751213960,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 425611,
       "num": 504406,
       "word": "单身税",
@@ -67,16 +83,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 340628,
-      "num": 304737,
-      "word": "大麦就鹿晗演唱会售票问题道歉",
-      "onboard_time": 1751213960,
-      "rank": 11,
-      "category": "演出"
-    },
-    {
       "raw_hot": 335725,
-      "num": 302090,
+      "num": 325337,
       "word": "陈垣宇0比4张本智和",
       "onboard_time": 1751213420,
       "rank": 12,
@@ -89,14 +97,6 @@
       "onboard_time": 1751207182,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 321401,
-      "num": 525709,
-      "word": "10月龄婴儿在展馆内喝奶瓶被赶出",
-      "onboard_time": 1751214200,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 311398,
@@ -347,6 +347,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 77242,
+      "num": 77242,
+      "word": "寡姐说来中国办首映是她提的",
+      "onboard_time": 1751214859,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 76831,
       "num": 76831,
       "word": "以色列再爆发大规模抗议",
@@ -387,12 +395,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 59649,
+      "num": 72621,
+      "word": "汪苏泷午睡喝醋吃面一个没落下",
+      "onboard_time": 1751215519,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 44950,
       "num": 557029,
       "word": "致敬抗洪抢险一线的守护力量",
       "onboard_time": 1751210243,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 23325,
+      "num": 140834,
+      "word": "1分钟就为苏州队进球的球员是高中生",
+      "onboard_time": 1751211381,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 14773,
