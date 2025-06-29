@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751175992877,
+  "endTime": 1751178978610,
   "band_list": [
     {
       "raw_hot": 1477036,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1050036,
-      "num": 192189,
+      "num": 410527,
       "word": "伊朗绞死内奸",
       "onboard_time": 1751172683,
       "rank": 30,
@@ -147,6 +147,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 698498,
+      "num": 698498,
+      "word": "女孩做黑医美一针晕厥全身发黑",
+      "onboard_time": 1751175202,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 663269,
+      "num": 386862,
+      "word": "华晨宇一把推开粉丝聚餐的门",
+      "onboard_time": 1751174782,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 623372,
       "num": 623372,
       "word": "杭州到北京只需半小时",
@@ -192,14 +208,6 @@
       "word": "男子称看劳斯莱斯后女友与销售互骂",
       "onboard_time": 1751122044,
       "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 436941,
-      "num": 436941,
-      "word": "女孩做黑医美一针晕厥全身发黑",
-      "onboard_time": 1751175202,
-      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -307,6 +315,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 360629,
+      "num": 360629,
+      "word": "我妈说咖啡是穷人的饮料",
+      "onboard_time": 1751176161,
+      "rank": 8,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 359385,
+      "num": 284587,
+      "word": "印军老将威胁中国",
+      "onboard_time": 1751175621,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 353558,
       "num": 353558,
       "word": "成都暴雨",
@@ -363,6 +387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 317672,
+      "num": 281020,
+      "word": "王勉说这季五哈人最多也最少",
+      "onboard_time": 1751176103,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 317286,
       "num": 317286,
       "word": "李兰迪刮彩票以为中了7万",
@@ -379,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 310745,
+      "num": 271016,
+      "word": "聚是豆瓣5.8散是满天星",
+      "onboard_time": 1751177843,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 306619,
       "num": 371973,
       "word": "为了一个事业编花45万买答案",
@@ -392,6 +432,14 @@
       "word": "揭秘洞洞鞋潜在风险",
       "onboard_time": 1751126482,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 303989,
+      "num": 303989,
+      "word": "黄旭华院士今天安葬",
+      "onboard_time": 1751177182,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -451,6 +499,22 @@
       "category": "科学科普,民生新闻"
     },
     {
+      "raw_hot": 255190,
+      "num": 255190,
+      "word": "微信最不能出现的功能 消息已读",
+      "onboard_time": 1751177843,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 255170,
+      "num": 370051,
+      "word": "医美培训老师宣称我们都没证",
+      "onboard_time": 1751175261,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 251397,
       "num": 185332,
       "word": "杨蒙恩刘培钰婚礼",
@@ -467,12 +531,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 247356,
-      "num": 163544,
-      "word": "华晨宇一把推开粉丝聚餐的门",
-      "onboard_time": 1751174782,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 246907,
+      "num": 246907,
+      "word": "罗马仕 你都用回本了",
+      "onboard_time": 1751178141,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 243615,
@@ -489,6 +553,14 @@
       "onboard_time": 1751126422,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 240176,
+      "num": 240176,
+      "word": "中国稀土集团声明",
+      "onboard_time": 1751174122,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 239899,
@@ -529,14 +601,6 @@
       "onboard_time": 1751174362,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 223146,
-      "num": 206716,
-      "word": "中国稀土集团声明",
-      "onboard_time": 1751174122,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 221598,
@@ -641,6 +705,14 @@
       "onboard_time": 1751168661,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195484,
+      "num": 195484,
+      "word": "巴勒斯坦体育界615人已遇袭身亡",
+      "onboard_time": 1751178741,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 195426,
@@ -779,6 +851,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 167053,
+      "num": 167053,
+      "word": "刘宇宁你的陪嫁有点眼熟啊",
+      "onboard_time": 1751177421,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166174,
       "num": 166174,
       "word": "金曲奖",
@@ -803,20 +883,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 163943,
+      "num": 163943,
+      "word": "短剧已经进化到包屏寻人了",
+      "onboard_time": 1751178741,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161158,
       "num": 161158,
       "word": "华晨宇 我一场不去就出大事了",
       "onboard_time": 1751172862,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 161108,
-      "num": 370051,
-      "word": "医美培训老师宣称我们都没证",
-      "onboard_time": 1751175261,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 159413,
@@ -905,6 +985,14 @@
       "onboard_time": 1751165482,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 150842,
+      "num": 150842,
+      "word": "你们只是谈恋爱而已 又不是发财了",
+      "onboard_time": 1751176760,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 150582,
@@ -1051,6 +1139,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133097,
+      "num": 133097,
+      "word": "关晓彤近期妆造",
+      "onboard_time": 1751175922,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 133083,
+      "num": 133083,
+      "word": "人均办公面积393.7平米被通报",
+      "onboard_time": 1751178201,
+      "rank": 34,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 132952,
+      "num": 161752,
+      "word": "榕江女子被洪水冲进车库游泳自救",
+      "onboard_time": 1751175021,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132867,
       "num": 132867,
       "word": "许嵩宽肩窄腰",
@@ -1065,6 +1177,14 @@
       "onboard_time": 1751169681,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132314,
+      "num": 165484,
+      "word": "黄圣依回应被芒果承包的一生",
+      "onboard_time": 1751176522,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 131473,
@@ -1163,12 +1283,12 @@
       "category": "体育,演出"
     },
     {
-      "raw_hot": 127605,
-      "num": 127605,
-      "word": "印军老将威胁中国",
-      "onboard_time": 1751175621,
-      "rank": 45,
-      "category": "国际时政"
+      "raw_hot": 127861,
+      "num": 127861,
+      "word": "今日再送黄旭华院士一程",
+      "onboard_time": 1751171363,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127520,
@@ -1187,16 +1307,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 127130,
-      "num": 127130,
-      "word": "今日再送黄旭华院士一程",
-      "onboard_time": 1751171363,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 126410,
+      "num": 129147,
+      "word": "布丁狗第一",
+      "onboard_time": 1751177361,
+      "rank": 40,
+      "category": "动漫"
     },
     {
       "raw_hot": 125333,
-      "num": 125333,
+      "num": 181158,
       "word": "汗从哪儿出病从哪儿来",
       "onboard_time": 1751169802,
       "rank": 48,
@@ -1209,14 +1329,6 @@
       "onboard_time": 1751164880,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 120094,
-      "num": 120094,
-      "word": "关晓彤近期妆造",
-      "onboard_time": 1751175922,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 119415,
@@ -1297,6 +1409,14 @@
       "onboard_time": 1751160501,
       "rank": 42,
       "category": "美食"
+    },
+    {
+      "raw_hot": 110888,
+      "num": 110888,
+      "word": "刘亦菲林心如早期合照",
+      "onboard_time": 1751177301,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 109230,
@@ -1425,14 +1545,6 @@
       "onboard_time": 1751113703,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 99787,
-      "num": 161752,
-      "word": "榕江女子被洪水冲进车库游泳自救",
-      "onboard_time": 1751175021,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 98829,
@@ -1579,6 +1691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 66700,
+      "num": 200132,
+      "word": "榕江终止一级应急响应转入常态化防汛",
+      "onboard_time": 1751178681,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64368,
       "num": 64368,
       "word": "被传身亡伊朗高官现身国葬",
@@ -1601,6 +1721,14 @@
       "onboard_time": 1751131096,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57669,
+      "num": 129614,
+      "word": "C罗称沙特联是世界前五联赛",
+      "onboard_time": 1751178441,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 54390,
@@ -1779,6 +1907,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 16305,
+      "num": 129310,
+      "word": "当二次元遇上乡村大集",
+      "onboard_time": 1751176884,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 15822,
       "num": 153759,
       "word": "机器人能精准识别情绪",
@@ -1833,6 +1969,14 @@
       "onboard_time": 1751146575,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 10860,
+      "num": 171399,
+      "word": "全家紧急召回混入金属碎片茶饮",
+      "onboard_time": 1751178801,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10401,
