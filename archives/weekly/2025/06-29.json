@@ -1,7 +1,15 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751182715670,
+  "endTime": 1751185912535,
   "band_list": [
+    {
+      "raw_hot": 2422176,
+      "num": 2422176,
+      "word": "单身税",
+      "onboard_time": 1751183842,
+      "rank": 0,
+      "category": "海外新闻"
+    },
     {
       "raw_hot": 1863496,
       "num": 1863496,
@@ -161,6 +169,14 @@
       "onboard_time": 1751168361,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 702374,
+      "num": 702374,
+      "word": "哈工程 空调",
+      "onboard_time": 1751182880,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 698498,
@@ -355,6 +371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 360355,
+      "num": 360355,
+      "word": "黄子韬画的饼做到了",
+      "onboard_time": 1751182880,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 353558,
       "num": 353558,
       "word": "成都暴雨",
@@ -459,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 307083,
+      "num": 307083,
+      "word": "人均办公面积393.7平米被通报",
+      "onboard_time": 1751178201,
+      "rank": 34,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 306619,
       "num": 371973,
       "word": "为了一个事业编花45万买答案",
@@ -489,6 +521,14 @@
       "onboard_time": 1751172203,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 297707,
+      "num": 342385,
+      "word": "美国一直升机从上空抛撒大量美元",
+      "onboard_time": 1751183424,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 295667,
@@ -571,14 +611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 242085,
-      "num": 242085,
-      "word": "人均办公面积393.7平米被通报",
-      "onboard_time": 1751178201,
-      "rank": 34,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 241343,
       "num": 241343,
       "word": "朱志鑫把加速王的奖牌带回家",
@@ -627,6 +659,14 @@
       "category": "数码,国际时政"
     },
     {
+      "raw_hot": 227084,
+      "num": 227084,
+      "word": "王一栩你给张云龙喂了什么",
+      "onboard_time": 1751182100,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 224383,
       "num": 185128,
       "word": "黄子韬真把call me写成歌了",
@@ -657,6 +697,14 @@
       "onboard_time": 1751167400,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 219034,
+      "num": 219034,
+      "word": "普京会见车臣领导人17岁的儿子",
+      "onboard_time": 1751182282,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 216601,
@@ -731,6 +779,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 202551,
+      "num": 202551,
+      "word": "鞠婧祎包下了所有应援费",
+      "onboard_time": 1751185281,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201341,
       "num": 195557,
       "word": "陈赫说五哈forever",
@@ -744,14 +800,6 @@
       "word": "杨紫李现新剧逢场作戏情愫悄生",
       "onboard_time": 1751168661,
       "rank": 23,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 196638,
-      "num": 196638,
-      "word": "王一栩你给张云龙喂了什么",
-      "onboard_time": 1751182100,
-      "rank": 22,
       "category": "剧集"
     },
     {
@@ -793,6 +841,14 @@
       "onboard_time": 1751150114,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 190681,
+      "num": 190681,
+      "word": "张译在优酷三部破万剧的含金量",
+      "onboard_time": 1751185281,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 188790,
@@ -883,11 +939,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 174613,
+      "num": 174613,
+      "word": "机场拦截充电宝疑似流入二手平台",
+      "onboard_time": 1751183361,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174202,
       "num": 174202,
       "word": "突然发现还没到三伏天",
       "onboard_time": 1751160621,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173733,
+      "num": 204991,
+      "word": "贵州榕江街道7分钟被洪水完全淹没",
+      "onboard_time": 1751184141,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -1027,20 +1099,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 153348,
-      "num": 153348,
-      "word": "普京会见车臣领导人17岁的儿子",
-      "onboard_time": 1751182282,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 153000,
       "num": 153000,
       "word": "王一珩模仿韩国霸总吃饭",
       "onboard_time": 1751175802,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151464,
+      "num": 147201,
+      "word": "当你不停运动2个月后",
+      "onboard_time": 1751185402,
+      "rank": 31,
+      "category": "运动健身"
     },
     {
       "raw_hot": 151297,
@@ -1139,6 +1211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147124,
+      "num": 147124,
+      "word": "黄晓明背尚雯婕",
+      "onboard_time": 1751185641,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146247,
       "num": 146247,
       "word": "刘诗诗感谢大家的支持与鼓励",
@@ -1227,6 +1307,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 137036,
+      "num": 137036,
+      "word": "万茜晒与宋佳合照",
+      "onboard_time": 1751182821,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136017,
       "num": 136017,
       "word": "程潇让妹妹和妈妈分居的原因",
@@ -1241,6 +1329,14 @@
       "onboard_time": 1751181681,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135300,
+      "num": 135300,
+      "word": "2岁男童一人趴在水边落水",
+      "onboard_time": 1751185221,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134660,
@@ -1443,12 +1539,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121132,
+      "num": 121132,
+      "word": "蟑螂入耳",
+      "onboard_time": 1751185522,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 120747,
       "num": 119826,
       "word": "三丽鸥角色大赏最终结果",
       "onboard_time": 1751181740,
       "rank": 30,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 120056,
+      "num": 120055,
+      "word": "多方驰援榕江致敬每一位平凡天使",
+      "onboard_time": 1751184141,
+      "rank": 40,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 119675,
+      "num": 119675,
+      "word": "丁禹兮太有梗了",
+      "onboard_time": 1751184982,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 119415,
@@ -1465,6 +1585,14 @@
       "onboard_time": 1751175922,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119032,
+      "num": 119032,
+      "word": "王铮亮年轻时候也太会谈了",
+      "onboard_time": 1751184622,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 119022,
@@ -1561,6 +1689,14 @@
       "onboard_time": 1751180000,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111958,
+      "num": 203513,
+      "word": "成都暴雨小区电梯变水帘洞",
+      "onboard_time": 1751185341,
+      "rank": 19,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 111126,
@@ -1675,6 +1811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105479,
+      "num": 105479,
+      "word": "4岁孩子爱吃糖20颗乳牙坏18颗",
+      "onboard_time": 1751185221,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 105412,
       "num": 105412,
       "word": "时代少年团舞台",
@@ -1713,6 +1857,14 @@
       "onboard_time": 1751181981,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102669,
+      "num": 102669,
+      "word": "Bin说有九成把握夺冠",
+      "onboard_time": 1751183001,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 102462,
@@ -1841,6 +1993,14 @@
       "onboard_time": 1751133019,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77025,
+      "num": 120108,
+      "word": "柱灭之刃第一章",
+      "onboard_time": 1751183661,
+      "rank": 38,
+      "category": "动漫"
     },
     {
       "raw_hot": 76742,
@@ -1979,6 +2139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 48792,
+      "num": 120056,
+      "word": "一张照片就能测出老年痴呆风险",
+      "onboard_time": 1751184080,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 47340,
       "num": 47340,
       "word": "胡先煦芭莎红毯上演副驾文学",
@@ -2089,6 +2257,14 @@
       "onboard_time": 1751162659,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 25375,
+      "num": 147262,
+      "word": "北航把造大国重器从课本变成现实",
+      "onboard_time": 1751185161,
+      "rank": 30,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 24877,
