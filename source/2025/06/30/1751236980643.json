@@ -1,0 +1,410 @@
+{
+  "runTime": 1751236980643,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 383188,
+        "num": 516935,
+        "word": "白玉兰组委会疑似回应刘亦菲没去",
+        "onboard_time": 1751208143,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203806,
+        "num": 203806,
+        "word": "让小腿越来越粗的3种鞋",
+        "onboard_time": 1751203223,
+        "rank": 1,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 14988,
+        "num": 176321,
+        "word": "解锁首发经济花样消费场景",
+        "onboard_time": 1751210123,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 678721,
+        "num": 174155,
+        "word": "10月龄婴儿在展馆内喝奶瓶被赶出",
+        "onboard_time": 1751214200,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241187,
+        "num": 173209,
+        "word": "惠英红抑郁破产后如何重生",
+        "onboard_time": 1751208922,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171873,
+        "num": 171873,
+        "word": "以色列袭击德黑兰监狱致71死",
+        "onboard_time": 1751209583,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 164448,
+        "num": 164448,
+        "word": "TFBOYS十年保密协议到期",
+        "onboard_time": 1751201722,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146231,
+        "num": 146231,
+        "word": "央视曝光舞蹈培训市场乱象",
+        "onboard_time": 1751207962,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 137810,
+        "num": 137810,
+        "word": "邓超反正就是在一起",
+        "onboard_time": 1751212702,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108051,
+        "num": 117212,
+        "word": "台湾自古属于中国的铁证",
+        "onboard_time": 1751235735,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 160063,
+        "num": 115142,
+        "word": "印度三男子强奸法学院女生被拘4天",
+        "onboard_time": 1751202384,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 108679,
+        "num": 108679,
+        "word": "挪威王储继子性侵案受害人达两位数",
+        "onboard_time": 1751200401,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 100767,
+        "num": 100767,
+        "word": "陈垣宇0比4张本智和",
+        "onboard_time": 1751213420,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95173,
+        "num": 95173,
+        "word": "16岁学生和父亲争吵后手变鸡爪",
+        "onboard_time": 1751199561,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92004,
+        "num": 92004,
+        "word": "锦绣芳华",
+        "onboard_time": 1751210123,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86621,
+        "num": 86621,
+        "word": "大麦就鹿晗演唱会售票问题道歉",
+        "onboard_time": 1751213960,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 84391,
+        "num": 84391,
+        "word": "姐姐骑车送16岁妹妹考试被撞进ICU",
+        "onboard_time": 1751205683,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79776,
+        "num": 79776,
+        "word": "巴黎圣日耳曼4比0迈阿密国际",
+        "onboard_time": 1751233814,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70900,
+        "num": 70900,
+        "word": "以色列再爆发大规模抗议",
+        "onboard_time": 1751203163,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 67629,
+        "num": 67629,
+        "word": "老婆只喜欢我小号怎么办",
+        "onboard_time": 1751206883,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80939,
+        "num": 66396,
+        "word": "女子车上发现人脸蜘蛛",
+        "onboard_time": 1751196739,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61513,
+        "num": 61513,
+        "word": "蔡澜晚年酒店套房生活",
+        "onboard_time": 1751195841,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58543,
+        "num": 58543,
+        "word": "一年瘦了30斤的面部变化",
+        "onboard_time": 1751203284,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 54211,
+        "num": 54211,
+        "word": "特朗普支持率跌至新低",
+        "onboard_time": 1751210663,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 52072,
+        "num": 52072,
+        "word": "柳俊烈丑谈我真的笑不行了",
+        "onboard_time": 1751200641,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48986,
+        "num": 48986,
+        "word": "太湖三傻就地解散",
+        "onboard_time": 1751206463,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45137,
+        "num": 45137,
+        "word": "湖南一高校保安将大量外卖扔垃圾桶",
+        "onboard_time": 1751226253,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44672,
+        "num": 44672,
+        "word": "今年15个充电宝飞机上起火冒烟",
+        "onboard_time": 1751208743,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44542,
+        "num": 44542,
+        "word": "单身税",
+        "onboard_time": 1751183842,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 42109,
+        "num": 42109,
+        "word": "杨幂挂了labubu",
+        "onboard_time": 1751207182,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 40912,
+        "num": 40912,
+        "word": "停火后以色列多地爆发大规模抗议",
+        "onboard_time": 1751220017,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 39294,
+        "num": 39294,
+        "word": "鹿晗抢票",
+        "onboard_time": 1751193201,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 38759,
+        "num": 38759,
+        "word": "杨紫白玉兰感言",
+        "onboard_time": 1751218936,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38463,
+        "num": 38463,
+        "word": "林俊杰嘉宾张艺兴",
+        "onboard_time": 1751201001,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 33371,
+        "num": 38444,
+        "word": "舒淇恭喜宋佳",
+        "onboard_time": 1751210603,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32413,
+        "num": 38431,
+        "word": "吴磊妈妈气场",
+        "onboard_time": 1751198602,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31626,
+        "num": 38415,
+        "word": "卜凡 出道是为了入道",
+        "onboard_time": 1751195721,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31311,
+        "num": 38395,
+        "word": "周深向贵州榕江灾区捐赠物资",
+        "onboard_time": 1751206524,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30040,
+        "num": 38371,
+        "word": "孟子义的狗巧克力又塌房了",
+        "onboard_time": 1751195841,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29254,
+        "num": 38343,
+        "word": "白桃星座一周运势",
+        "onboard_time": 1751209763,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29207,
+        "num": 38338,
+        "word": "微信最不能出现的功能 消息已读",
+        "onboard_time": 1751177843,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 29147,
+        "num": 38300,
+        "word": "充电宝怎么了",
+        "onboard_time": 1751203823,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26145,
+        "num": 38278,
+        "word": "马龙看林俊杰演唱会嗓子哑了",
+        "onboard_time": 1751208322,
+        "rank": 42,
+        "category": "体育,演出"
+      },
+      {
+        "raw_hot": 26020,
+        "num": 38270,
+        "word": "寡姐说来中国办首映是她提的",
+        "onboard_time": 1751214859,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 25600,
+        "num": 38234,
+        "word": "川渝部分地区发生山洪可能性很大",
+        "onboard_time": 1751227514,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25407,
+        "num": 38217,
+        "word": "卢昱晓 红毯公主",
+        "onboard_time": 1751202802,
+        "rank": 45,
+        "category": "演出,时尚"
+      },
+      {
+        "raw_hot": 24436,
+        "num": 38203,
+        "word": "以法之名 好看",
+        "onboard_time": 1751201962,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24417,
+        "num": 38186,
+        "word": "周深好运来祝你下半年接好运",
+        "onboard_time": 1751212821,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 23950,
+        "num": 38157,
+        "word": "TF四代舞台投票",
+        "onboard_time": 1751198902,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 22636,
+        "num": 38128,
+        "word": "你南哥还是你南哥",
+        "onboard_time": 1751233575,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平称这个英雄事迹震撼人心#"
+    }
+  }
+}
