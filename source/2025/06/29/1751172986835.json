@@ -1,0 +1,410 @@
+{
+  "runTime": 1751172986835,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1320144,
+        "num": 1320144,
+        "word": "继母捂住亲妈眼睛不看脑瘤男孩剃光头",
+        "onboard_time": 1751170821,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1206289,
+        "num": 1206289,
+        "word": "离婚夜做真夫妻",
+        "onboard_time": 1751170942,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45825,
+        "num": 1144102,
+        "word": "遇洪水必知的9个健康知识点",
+        "onboard_time": 1751168120,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1090632,
+        "num": 1090632,
+        "word": "邓超 鹿晗",
+        "onboard_time": 1751169980,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 610009,
+        "num": 610009,
+        "word": "坚持跑步一个月面部的变化",
+        "onboard_time": 1751167460,
+        "rank": 4,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 380844,
+        "num": 380844,
+        "word": "她一天做了我一辈子的工作",
+        "onboard_time": 1751164340,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 792054,
+        "num": 373986,
+        "word": "张小斐抽烟镜头女王级别",
+        "onboard_time": 1751166080,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 365388,
+        "num": 365388,
+        "word": "今年的荔枝怎么烂大街了",
+        "onboard_time": 1751169802,
+        "rank": 7,
+        "category": "议题讨论,财经"
+      },
+      {
+        "raw_hot": 335504,
+        "num": 335504,
+        "word": "清华硕士文眉是学历浪费还是偏见",
+        "onboard_time": 1751171061,
+        "rank": 8,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 250025,
+        "num": 330828,
+        "word": "助理回应蔡澜遗产分配",
+        "onboard_time": 1751170882,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1140350,
+        "num": 327841,
+        "word": "鞠婧祎小号",
+        "onboard_time": 1751170462,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 394144,
+        "num": 320904,
+        "word": "时代少年团加冠礼演唱会",
+        "onboard_time": 1751168361,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 354703,
+        "num": 308882,
+        "word": "田栩宁 萌物",
+        "onboard_time": 1751156659,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306823,
+        "num": 306823,
+        "word": "从未见哪个男艺人这么疯狂找兜",
+        "onboard_time": 1751170221,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294684,
+        "num": 294684,
+        "word": "多名中国游客称冰岛租车遭天价索赔",
+        "onboard_time": 1751160319,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 287111,
+        "num": 287111,
+        "word": "宋祖儿聊斋美得以为夹子是头饰",
+        "onboard_time": 1751172203,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271446,
+        "num": 271446,
+        "word": "小猫被主人亲完后装死",
+        "onboard_time": 1751169080,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 235998,
+        "num": 235998,
+        "word": "杭州到北京只需半小时",
+        "onboard_time": 1751160621,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223402,
+        "num": 223402,
+        "word": "俄罗斯一海岸出现4吨鲱鱼",
+        "onboard_time": 1751165482,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 23294,
+        "num": 223254,
+        "word": "代办称杂牌充电宝花钱可挂靠拿3C标",
+        "onboard_time": 1751172142,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 361121,
+        "num": 221986,
+        "word": "伊朗国葬",
+        "onboard_time": 1751156659,
+        "rank": 20,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 252264,
+        "num": 220930,
+        "word": "关晓彤 鹿晗",
+        "onboard_time": 1751119105,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254775,
+        "num": 219509,
+        "word": "朝雪录",
+        "onboard_time": 1751166260,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242241,
+        "num": 218588,
+        "word": "时代少年团大连站",
+        "onboard_time": 1751168361,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 217433,
+        "num": 217433,
+        "word": "书卷一梦1集41分55秒",
+        "onboard_time": 1751165419,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206518,
+        "num": 206518,
+        "word": "第一次见把退票喊成了应援词",
+        "onboard_time": 1751172322,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 203707,
+        "num": 203707,
+        "word": "北京酒吧偶遇苏晓彤打架子鼓",
+        "onboard_time": 1751171902,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195426,
+        "num": 195426,
+        "word": "警惕暗示性的白嫖",
+        "onboard_time": 1751169859,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183873,
+        "num": 192410,
+        "word": "孟子义5G网速批作业",
+        "onboard_time": 1751172562,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37166,
+        "num": 192202,
+        "word": "洪森指责他信家族背信弃义",
+        "onboard_time": 1751172082,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 320462,
+        "num": 192189,
+        "word": "伊朗绞死内奸",
+        "onboard_time": 1751172683,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 192093,
+        "num": 192093,
+        "word": "第五人格",
+        "onboard_time": 1751171603,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190291,
+        "num": 190291,
+        "word": "伊朗2022年几乎成功刺杀蓬佩奥",
+        "onboard_time": 1751163681,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 176563,
+        "num": 176563,
+        "word": "沈月刘亦菲美女果然爱看美女",
+        "onboard_time": 1751172683,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176030,
+        "num": 176030,
+        "word": "以法之名1席6吃全是小九九",
+        "onboard_time": 1751172203,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174434,
+        "num": 174434,
+        "word": "孙颖莎巅峰之上",
+        "onboard_time": 1751171603,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163864,
+        "num": 163864,
+        "word": "踩死蟑螂真的可能生出很多小蟑螂",
+        "onboard_time": 1751156239,
+        "rank": 36,
+        "category": "科学科普,民生新闻"
+      },
+      {
+        "raw_hot": 161222,
+        "num": 161222,
+        "word": "歼16霸气驱离外机现场画面",
+        "onboard_time": 1751165900,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 160080,
+        "num": 160080,
+        "word": "无锡闪爆事故致5死11伤调查报告",
+        "onboard_time": 1751170221,
+        "rank": 38,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 15822,
+        "num": 153759,
+        "word": "机器人能精准识别情绪",
+        "onboard_time": 1751169681,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 153166,
+        "num": 153166,
+        "word": "杨蒙恩刘培钰婚礼",
+        "onboard_time": 1751165721,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152705,
+        "num": 152705,
+        "word": "斜方肌 讨好型肌肉",
+        "onboard_time": 1751171842,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151104,
+        "num": 151104,
+        "word": "鞠婧祎来战开机",
+        "onboard_time": 1751163200,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150221,
+        "num": 150221,
+        "word": "宋轶新剧一款多面性的女将军",
+        "onboard_time": 1751172804,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127393,
+        "num": 145767,
+        "word": "老炸当爱豆的样子好顺眼",
+        "onboard_time": 1751171122,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143779,
+        "num": 143779,
+        "word": "李宇春当年拒绝代言锤子原因",
+        "onboard_time": 1751167400,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142056,
+        "num": 142056,
+        "word": "哥读万卷书弟吃半扇猪",
+        "onboard_time": 1751172683,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137318,
+        "num": 137318,
+        "word": "谁家夫妻同床共枕盯一宿天花板",
+        "onboard_time": 1751171722,
+        "rank": 47,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 133669,
+        "num": 133669,
+        "word": "华晨宇 我一场不去就出大事了",
+        "onboard_time": 1751172862,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131987,
+        "num": 131987,
+        "word": "男子前台借伞不满50押金砸人被拘",
+        "onboard_time": 1751168781,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心中的好干部标准#"
+    }
+  }
+}

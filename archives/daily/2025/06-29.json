@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751172272037,
+  "endTime": 1751172986835,
   "band_list": [
     {
       "raw_hot": 1477036,
@@ -9,6 +9,14 @@
       "onboard_time": 1751119105,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1320144,
+      "num": 1320144,
+      "word": "继母捂住亲妈眼睛不看脑瘤男孩剃光头",
+      "onboard_time": 1751170821,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1262756,
@@ -27,6 +35,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1206289,
+      "num": 1206289,
+      "word": "离婚夜做真夫妻",
+      "onboard_time": 1751170942,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1140350,
+      "num": 327841,
+      "word": "鞠婧祎小号",
+      "onboard_time": 1751170462,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1129107,
       "num": 1129107,
       "word": "伊朗国葬",
@@ -43,28 +67,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 1095104,
-      "num": 302338,
-      "word": "鞠婧祎小号",
-      "onboard_time": 1751170462,
-      "rank": 10,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 1078103,
+      "raw_hot": 1090632,
       "num": 1172496,
       "word": "邓超 鹿晗",
       "onboard_time": 1751169980,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1054730,
-      "num": 1054730,
-      "word": "继母捂住亲妈眼睛不看脑瘤男孩剃光头",
-      "onboard_time": 1751170821,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 983335,
@@ -129,14 +137,6 @@
       "onboard_time": 1751168361,
       "rank": 8,
       "category": "演出"
-    },
-    {
-      "raw_hot": 655778,
-      "num": 469209,
-      "word": "离婚夜做真夫妻",
-      "onboard_time": 1751170942,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 623372,
@@ -259,6 +259,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 365388,
+      "num": 365388,
+      "word": "今年的荔枝怎么烂大街了",
+      "onboard_time": 1751169802,
+      "rank": 38,
+      "category": "议题讨论,财经"
+    },
+    {
       "raw_hot": 353558,
       "num": 353558,
       "word": "成都暴雨",
@@ -275,6 +283,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 335504,
+      "num": 335504,
+      "word": "清华硕士文眉是学历浪费还是偏见",
+      "onboard_time": 1751171061,
+      "rank": 14,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 333839,
       "num": 333839,
       "word": "南京可口可乐博物馆60岁以上禁入",
@@ -289,6 +305,14 @@
       "onboard_time": 1751163200,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 320462,
+      "num": 192189,
+      "word": "伊朗绞死内奸",
+      "onboard_time": 1751172683,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 318356,
@@ -315,6 +339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 306823,
+      "num": 306823,
+      "word": "从未见哪个男艺人这么疯狂找兜",
+      "onboard_time": 1751170221,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 305968,
       "num": 305968,
       "word": "揭秘洞洞鞋潜在风险",
@@ -331,19 +363,19 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 295349,
-      "num": 302412,
-      "word": "今年的荔枝怎么烂大街了",
-      "onboard_time": 1751169802,
-      "rank": 38,
-      "category": "议题讨论,财经"
-    },
-    {
       "raw_hot": 290825,
       "num": 290825,
       "word": "来战",
       "onboard_time": 1751161280,
       "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 287111,
+      "num": 287111,
+      "word": "宋祖儿聊斋美得以为夹子是头饰",
+      "onboard_time": 1751172203,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -355,20 +387,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 271446,
+      "num": 271446,
+      "word": "小猫被主人亲完后装死",
+      "onboard_time": 1751169080,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 267583,
       "num": 267583,
       "word": "北京女大学生千里求助转移在榕江父母",
       "onboard_time": 1751125823,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 262950,
-      "num": 262950,
-      "word": "小猫被主人亲完后装死",
-      "onboard_time": 1751169080,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 258755,
@@ -393,6 +425,14 @@
       "onboard_time": 1751127742,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 250025,
+      "num": 330828,
+      "word": "助理回应蔡澜遗产分配",
+      "onboard_time": 1751170882,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 243615,
@@ -443,14 +483,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 220396,
-      "num": 220396,
-      "word": "从未见哪个男艺人这么疯狂找兜",
-      "onboard_time": 1751170221,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 219522,
       "num": 219522,
       "word": "第五人格",
@@ -483,12 +515,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 206518,
+      "num": 206518,
+      "word": "第一次见把退票喊成了应援词",
+      "onboard_time": 1751172322,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 205284,
       "num": 205284,
       "word": "森林北回怼网友",
       "onboard_time": 1751122044,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 203707,
+      "num": 203707,
+      "word": "北京酒吧偶遇苏晓彤打架子鼓",
+      "onboard_time": 1751171902,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 203107,
@@ -505,6 +553,14 @@
       "onboard_time": 1751168661,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195426,
+      "num": 195426,
+      "word": "警惕暗示性的白嫖",
+      "onboard_time": 1751169859,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 194399,
@@ -531,14 +587,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 192272,
-      "num": 192272,
-      "word": "助理回应蔡澜遗产分配",
-      "onboard_time": 1751170882,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 192003,
       "num": 192003,
       "word": "中方敦促加方停止经贸问题政治化",
@@ -563,11 +611,27 @@
       "category": "演出"
     },
     {
-      "raw_hot": 182508,
-      "num": 173216,
-      "word": "宋祖儿聊斋美得以为夹子是头饰",
+      "raw_hot": 183873,
+      "num": 192410,
+      "word": "孟子义5G网速批作业",
+      "onboard_time": 1751172562,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 176563,
+      "num": 176563,
+      "word": "沈月刘亦菲美女果然爱看美女",
+      "onboard_time": 1751172683,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 176030,
+      "num": 176030,
+      "word": "以法之名1席6吃全是小九九",
       "onboard_time": 1751172203,
-      "rank": 30,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -593,14 +657,6 @@
       "onboard_time": 1751160621,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 173174,
-      "num": 173174,
-      "word": "警惕暗示性的白嫖",
-      "onboard_time": 1751169859,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 167317,
@@ -651,14 +707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 156343,
-      "num": 156343,
-      "word": "北京酒吧偶遇苏晓彤打架子鼓",
-      "onboard_time": 1751171902,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 156235,
       "num": 156235,
       "word": "男子前台借伞不满50押金砸人被拘",
@@ -689,6 +737,14 @@
       "onboard_time": 1751158881,
       "rank": 30,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 152705,
+      "num": 152705,
+      "word": "斜方肌 讨好型肌肉",
+      "onboard_time": 1751171842,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 151297,
@@ -723,12 +779,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 149897,
-      "num": 285044,
-      "word": "清华硕士文眉是学历浪费还是偏见",
-      "onboard_time": 1751171061,
-      "rank": 14,
-      "category": "议题讨论"
+      "raw_hot": 150221,
+      "num": 150221,
+      "word": "宋轶新剧一款多面性的女将军",
+      "onboard_time": 1751172804,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 149081,
@@ -768,6 +824,14 @@
       "word": "刘诗诗感谢大家的支持与鼓励",
       "onboard_time": 1751127801,
       "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 142056,
+      "num": 142056,
+      "word": "哥读万卷书弟吃半扇猪",
+      "onboard_time": 1751172683,
+      "rank": 46,
       "category": "剧集"
     },
     {
@@ -817,6 +881,14 @@
       "onboard_time": 1751123784,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 133669,
+      "num": 133669,
+      "word": "华晨宇 我一场不去就出大事了",
+      "onboard_time": 1751172862,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 132371,
@@ -929,14 +1001,6 @@
       "onboard_time": 1751169802,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 121685,
-      "num": 121685,
-      "word": "以法之名1席6吃全是小九九",
-      "onboard_time": 1751172203,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 121369,
@@ -1347,16 +1411,16 @@
       "category": "演出"
     },
     {
-      "raw_hot": 41324,
-      "num": 925694,
+      "raw_hot": 45825,
+      "num": 1144102,
       "word": "遇洪水必知的9个健康知识点",
       "onboard_time": 1751168120,
       "rank": 2,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 35522,
-      "num": 173228,
+      "raw_hot": 37166,
+      "num": 192202,
       "word": "洪森指责他信家族背信弃义",
       "onboard_time": 1751172082,
       "rank": 29,
@@ -1451,6 +1515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 23294,
+      "num": 223254,
+      "word": "代办称杂牌充电宝花钱可挂靠拿3C标",
+      "onboard_time": 1751172142,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20238,
       "num": 31052,
       "word": "特朗普说早知这么危险就不参选总统",
@@ -1467,20 +1539,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 18762,
-      "num": 151292,
-      "word": "代办称杂牌充电宝花钱可挂靠拿3C标",
-      "onboard_time": 1751172142,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 16582,
       "num": 27287,
       "word": "金建希出院",
       "onboard_time": 1751143215,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 15822,
+      "num": 153759,
+      "word": "机器人能精准识别情绪",
+      "onboard_time": 1751169681,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 15646,
@@ -1521,14 +1593,6 @@
       "onboard_time": 1751145675,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 12898,
-      "num": 151703,
-      "word": "机器人能精准识别情绪",
-      "onboard_time": 1751169681,
-      "rank": 39,
-      "category": "互联网"
     },
     {
       "raw_hot": 12818,
