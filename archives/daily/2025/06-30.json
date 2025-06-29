@@ -1,6 +1,6 @@
 {
   "startTime": 1751214634143,
-  "endTime": 1751239492379,
+  "endTime": 1751240398295,
   "band_list": [
     {
       "raw_hot": 1586314,
@@ -27,19 +27,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 793383,
+      "num": 959597,
+      "word": "邓超回应和鹿晗吃饭",
+      "onboard_time": 1751238857,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 632665,
       "num": 528439,
       "word": "TFBOYS十年保密协议到期",
       "onboard_time": 1751201722,
       "rank": 3,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 631331,
-      "num": 823513,
-      "word": "邓超回应和鹿晗吃饭",
-      "onboard_time": 1751238857,
-      "rank": 0,
       "category": "艺人"
     },
     {
@@ -91,7 +91,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 417121,
+      "raw_hot": 422291,
       "num": 341300,
       "word": "孟子义曾因为太漂亮失去角色",
       "onboard_time": 1751238679,
@@ -113,6 +113,22 @@
       "onboard_time": 1751213420,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 329790,
+      "num": 261045,
+      "word": "印度三男子强奸法学院女生被拘4天",
+      "onboard_time": 1751202384,
+      "rank": 15,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 329237,
+      "num": 222104,
+      "word": "歼20紧急升空处置逼退外军机",
+      "onboard_time": 1751238679,
+      "rank": 13,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 322523,
@@ -153,14 +169,6 @@
       "onboard_time": 1751208743,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 289530,
-      "num": 261045,
-      "word": "印度三男子强奸法学院女生被拘4天",
-      "onboard_time": 1751202384,
-      "rank": 15,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 276372,
@@ -227,6 +235,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 183770,
+      "num": 183770,
+      "word": "挪威王储继子性侵案受害人达两位数",
+      "onboard_time": 1751200401,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 183182,
+      "num": 183182,
+      "word": "姐姐骑车送16岁妹妹考试被撞进ICU",
+      "onboard_time": 1751205683,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169427,
       "num": 169427,
       "word": "16岁学生和父亲争吵后手变鸡爪",
@@ -235,28 +259,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 166087,
-      "num": 166087,
-      "word": "歼20紧急升空处置逼退外军机",
-      "onboard_time": 1751238679,
-      "rank": 13,
-      "category": "国内时政,军事"
+      "raw_hot": 153240,
+      "num": 153240,
+      "word": "老婆只喜欢我小号怎么办",
+      "onboard_time": 1751206883,
+      "rank": 47,
+      "category": "剧集"
     },
     {
-      "raw_hot": 160855,
-      "num": 160855,
-      "word": "挪威王储继子性侵案受害人达两位数",
-      "onboard_time": 1751200401,
-      "rank": 41,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 157254,
-      "num": 157254,
-      "word": "姐姐骑车送16岁妹妹考试被撞进ICU",
-      "onboard_time": 1751205683,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 144833,
+      "num": 144833,
+      "word": "巴黎圣日耳曼4比0迈阿密国际",
+      "onboard_time": 1751233814,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 140103,
@@ -283,28 +299,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 127215,
-      "num": 127215,
-      "word": "巴黎圣日耳曼4比0迈阿密国际",
-      "onboard_time": 1751233814,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 126008,
       "num": 126008,
       "word": "林俊杰嘉宾张艺兴",
       "onboard_time": 1751201001,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 118051,
-      "num": 118051,
-      "word": "老婆只喜欢我小号怎么办",
-      "onboard_time": 1751206883,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 116969,
@@ -363,20 +363,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94883,
+      "num": 94883,
+      "word": "特朗普支持率跌至新低",
+      "onboard_time": 1751210663,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 94035,
       "num": 86310,
       "word": "汪苏泷秀了个假腹肌",
       "onboard_time": 1751217378,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 91006,
-      "num": 91006,
-      "word": "特朗普支持率跌至新低",
-      "onboard_time": 1751210663,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 90642,
@@ -403,12 +403,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 81673,
+      "num": 81673,
+      "word": "李莎旻子一语道出李嘉格的委屈",
+      "onboard_time": 1751238679,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 79236,
       "num": 79236,
       "word": "假舞蹈培训机构打擦边球规避监管",
       "onboard_time": 1751212460,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78228,
+      "num": 78228,
+      "word": "雷军说小米就是坚定对标保时捷",
+      "onboard_time": 1751238679,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 77242,
@@ -451,12 +467,12 @@
       "category": "体育,休闲"
     },
     {
-      "raw_hot": 72179,
-      "num": 72179,
-      "word": "李莎旻子一语道出李嘉格的委屈",
-      "onboard_time": 1751238679,
-      "rank": 33,
-      "category": "综艺"
+      "raw_hot": 69701,
+      "num": 69701,
+      "word": "停火后以色列多地爆发大规模抗议",
+      "onboard_time": 1751220017,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 68353,
@@ -475,22 +491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 62531,
-      "num": 62531,
-      "word": "停火后以色列多地爆发大规模抗议",
-      "onboard_time": 1751220017,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 62399,
-      "num": 62399,
-      "word": "雷军说小米就是坚定对标保时捷",
-      "onboard_time": 1751238679,
-      "rank": 37,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 59649,
       "num": 72621,
       "word": "汪苏泷午睡喝醋吃面一个没落下",
@@ -499,12 +499,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 52699,
-      "num": 52699,
+      "raw_hot": 58206,
+      "num": 58206,
+      "word": "虞书欣丁禹兮请客来战剧组",
+      "onboard_time": 1751239399,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 55154,
+      "num": 55154,
       "word": "以法之名",
       "onboard_time": 1751238738,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 52596,
+      "num": 52596,
+      "word": "王源到底花了多少经费在舞美上",
+      "onboard_time": 1751238618,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 49000,
@@ -516,11 +532,19 @@
     },
     {
       "raw_hot": 48171,
-      "num": 48171,
+      "num": 52581,
       "word": "杨紫白玉兰感言",
       "onboard_time": 1751218936,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 47925,
+      "num": 52589,
+      "word": "流量男星侧脸",
+      "onboard_time": 1751196143,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 47117,
@@ -539,14 +563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 45003,
-      "num": 45003,
-      "word": "王源到底花了多少经费在舞美上",
-      "onboard_time": 1751238618,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 44950,
       "num": 557029,
       "word": "致敬抗洪抢险一线的守护力量",
@@ -555,20 +571,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 44254,
-      "num": 44254,
-      "word": "流量男星侧脸",
-      "onboard_time": 1751196143,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 41963,
-      "num": 44253,
-      "word": "虞书欣丁禹兮请客来战剧组",
-      "onboard_time": 1751239399,
+      "raw_hot": 43512,
+      "num": 52580,
+      "word": "五哈",
+      "onboard_time": 1751239939,
       "rank": 49,
-      "category": "剧集"
+      "category": "综艺"
     },
     {
       "raw_hot": 41419,
@@ -635,6 +643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23452,
+      "num": 361400,
+      "word": "解锁首发经济花样消费场景",
+      "onboard_time": 1751210123,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 23432,
       "num": 23310,
       "word": "汪苏泷坠入首唱",
@@ -665,14 +681,6 @@
       "onboard_time": 1751222535,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 19508,
-      "num": 361400,
-      "word": "解锁首发经济花样消费场景",
-      "onboard_time": 1751210123,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 17032,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1751240398295,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 793383,
+        "num": 959597,
+        "word": "邓超回应和鹿晗吃饭",
+        "onboard_time": 1751238857,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435175,
+        "num": 435175,
+        "word": "让小腿越来越粗的3种鞋",
+        "onboard_time": 1751203223,
+        "rank": 1,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 23452,
+        "num": 358488,
+        "word": "解锁首发经济花样消费场景",
+        "onboard_time": 1751210123,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 854378,
+        "num": 345070,
+        "word": "10月龄婴儿在展馆内喝奶瓶被赶出",
+        "onboard_time": 1751214200,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 569670,
+        "num": 331762,
+        "word": "白玉兰组委会疑似回应刘亦菲没去",
+        "onboard_time": 1751208143,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311802,
+        "num": 311802,
+        "word": "台湾自古属于中国的铁证",
+        "onboard_time": 1751235735,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 422291,
+        "num": 311079,
+        "word": "孟子义曾因为太漂亮失去角色",
+        "onboard_time": 1751238679,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326716,
+        "num": 302774,
+        "word": "惠英红抑郁破产后如何重生",
+        "onboard_time": 1751208922,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281786,
+        "num": 281786,
+        "word": "以色列袭击德黑兰监狱致71死",
+        "onboard_time": 1751209583,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 256739,
+        "num": 256739,
+        "word": "央视曝光舞蹈培训市场乱象",
+        "onboard_time": 1751207962,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 329790,
+        "num": 233947,
+        "word": "印度三男子强奸法学院女生被拘4天",
+        "onboard_time": 1751202384,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 329237,
+        "num": 222104,
+        "word": "歼20紧急升空处置逼退外军机",
+        "onboard_time": 1751238679,
+        "rank": 11,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 277479,
+        "num": 220802,
+        "word": "TFBOYS十年保密协议到期",
+        "onboard_time": 1751201722,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183770,
+        "num": 183770,
+        "word": "挪威王储继子性侵案受害人达两位数",
+        "onboard_time": 1751200401,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 183182,
+        "num": 183182,
+        "word": "姐姐骑车送16岁妹妹考试被撞进ICU",
+        "onboard_time": 1751205683,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162930,
+        "num": 162930,
+        "word": "16岁学生和父亲争吵后手变鸡爪",
+        "onboard_time": 1751199561,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153240,
+        "num": 153240,
+        "word": "老婆只喜欢我小号怎么办",
+        "onboard_time": 1751206883,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144833,
+        "num": 144833,
+        "word": "巴黎圣日耳曼4比0迈阿密国际",
+        "onboard_time": 1751233814,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116761,
+        "num": 116761,
+        "word": "大麦就鹿晗演唱会售票问题道歉",
+        "onboard_time": 1751213960,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 111426,
+        "num": 111426,
+        "word": "陈垣宇0比4张本智和",
+        "onboard_time": 1751213420,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147007,
+        "num": 110177,
+        "word": "女子车上发现人脸蜘蛛",
+        "onboard_time": 1751196739,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108698,
+        "num": 108698,
+        "word": "锦绣芳华",
+        "onboard_time": 1751210123,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108634,
+        "num": 108634,
+        "word": "一年瘦了30斤的面部变化",
+        "onboard_time": 1751203284,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 103295,
+        "num": 103295,
+        "word": "蔡澜晚年酒店套房生活",
+        "onboard_time": 1751195841,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98842,
+        "num": 98842,
+        "word": "太湖三傻就地解散",
+        "onboard_time": 1751206463,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94883,
+        "num": 94883,
+        "word": "特朗普支持率跌至新低",
+        "onboard_time": 1751210663,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 88096,
+        "num": 88096,
+        "word": "邓超反正就是在一起",
+        "onboard_time": 1751212702,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88088,
+        "num": 88088,
+        "word": "柳俊烈丑谈我真的笑不行了",
+        "onboard_time": 1751200641,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87034,
+        "num": 87034,
+        "word": "以色列再爆发大规模抗议",
+        "onboard_time": 1751203163,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 86932,
+        "num": 86932,
+        "word": "单身税",
+        "onboard_time": 1751183842,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 84231,
+        "num": 84231,
+        "word": "今年15个充电宝飞机上起火冒烟",
+        "onboard_time": 1751208743,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81673,
+        "num": 81673,
+        "word": "李莎旻子一语道出李嘉格的委屈",
+        "onboard_time": 1751238679,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78228,
+        "num": 78228,
+        "word": "雷军说小米就是坚定对标保时捷",
+        "onboard_time": 1751238679,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 70111,
+        "num": 70111,
+        "word": "郑钦文给阿卡送labubu",
+        "onboard_time": 1751238077,
+        "rank": 33,
+        "category": "体育,休闲"
+      },
+      {
+        "raw_hot": 69701,
+        "num": 69701,
+        "word": "停火后以色列多地爆发大规模抗议",
+        "onboard_time": 1751220017,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 62120,
+        "num": 62120,
+        "word": "湖南一高校保安将大量外卖扔垃圾桶",
+        "onboard_time": 1751226253,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58206,
+        "num": 58206,
+        "word": "虞书欣丁禹兮请客来战剧组",
+        "onboard_time": 1751239399,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57678,
+        "num": 57678,
+        "word": "马龙看林俊杰演唱会嗓子哑了",
+        "onboard_time": 1751208322,
+        "rank": 37,
+        "category": "体育,演出"
+      },
+      {
+        "raw_hot": 55394,
+        "num": 55394,
+        "word": "微信最不能出现的功能 消息已读",
+        "onboard_time": 1751177843,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 55154,
+        "num": 55154,
+        "word": "以法之名",
+        "onboard_time": 1751238738,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52697,
+        "num": 52697,
+        "word": "世俱杯",
+        "onboard_time": 1751238978,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52596,
+        "num": 52596,
+        "word": "王源到底花了多少经费在舞美上",
+        "onboard_time": 1751238618,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 51650,
+        "num": 52596,
+        "word": "杨幂挂了labubu",
+        "onboard_time": 1751207182,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 49343,
+        "num": 52592,
+        "word": "林俊杰嘉宾张艺兴",
+        "onboard_time": 1751201001,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 47925,
+        "num": 52589,
+        "word": "流量男星侧脸",
+        "onboard_time": 1751196143,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47436,
+        "num": 52588,
+        "word": "卢昱晓 红毯公主",
+        "onboard_time": 1751202802,
+        "rank": 45,
+        "category": "演出,时尚"
+      },
+      {
+        "raw_hot": 47019,
+        "num": 52586,
+        "word": "充电宝怎么了",
+        "onboard_time": 1751203823,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46820,
+        "num": 52583,
+        "word": "白桃星座一周运势",
+        "onboard_time": 1751209763,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 44709,
+        "num": 52581,
+        "word": "杨紫白玉兰感言",
+        "onboard_time": 1751218936,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43512,
+        "num": 52580,
+        "word": "五哈",
+        "onboard_time": 1751239939,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平称这个英雄事迹震撼人心#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751239492379,
+  "endTime": 1751240398295,
   "band_list": [
     {
       "raw_hot": 3569605,
@@ -203,6 +203,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 793383,
+      "num": 959597,
+      "word": "邓超回应和鹿晗吃饭",
+      "onboard_time": 1751238857,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 793157,
       "num": 793157,
       "word": "准新娘花1万2注射丰唇变歪嘴",
@@ -369,14 +377,6 @@
       "onboard_time": 1751207182,
       "rank": 4,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 631331,
-      "num": 823513,
-      "word": "邓超回应和鹿晗吃饭",
-      "onboard_time": 1751238857,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 630953,
@@ -619,19 +619,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 422291,
+      "num": 341300,
+      "word": "孟子义曾因为太漂亮失去角色",
+      "onboard_time": 1751238679,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 418541,
       "num": 418541,
       "word": "流量男星侧脸",
       "onboard_time": 1751196143,
       "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 417121,
-      "num": 341300,
-      "word": "孟子义曾因为太漂亮失去角色",
-      "onboard_time": 1751238679,
-      "rank": 6,
       "category": "艺人"
     },
     {
@@ -857,6 +857,14 @@
       "onboard_time": 1751180300,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 329237,
+      "num": 222104,
+      "word": "歼20紧急升空处置逼退外军机",
+      "onboard_time": 1751238679,
+      "rank": 13,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 325179,
@@ -1915,14 +1923,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 166087,
-      "num": 166087,
-      "word": "歼20紧急升空处置逼退外军机",
-      "onboard_time": 1751238679,
-      "rank": 13,
-      "category": "国内时政,军事"
-    },
-    {
       "raw_hot": 165992,
       "num": 165992,
       "word": "舒淇恭喜宋佳",
@@ -2305,6 +2305,14 @@
       "onboard_time": 1751174782,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 144833,
+      "num": 144833,
+      "word": "巴黎圣日耳曼4比0迈阿密国际",
+      "onboard_time": 1751233814,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 144719,
@@ -2753,14 +2761,6 @@
       "onboard_time": 1751173403,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 127215,
-      "num": 127215,
-      "word": "巴黎圣日耳曼4比0迈阿密国际",
-      "onboard_time": 1751233814,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 126646,
@@ -3459,6 +3459,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 81673,
+      "num": 81673,
+      "word": "李莎旻子一语道出李嘉格的委屈",
+      "onboard_time": 1751238679,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 80138,
       "num": 241900,
       "word": "张杰和谢娜一起下班回家",
@@ -3481,6 +3489,14 @@
       "onboard_time": 1751133019,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78228,
+      "num": 78228,
+      "word": "雷军说小米就是坚定对标保时捷",
+      "onboard_time": 1751238679,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 77334,
@@ -3579,20 +3595,20 @@
       "category": "体育,休闲"
     },
     {
-      "raw_hot": 72179,
-      "num": 72179,
-      "word": "李莎旻子一语道出李嘉格的委屈",
-      "onboard_time": 1751238679,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 72168,
       "num": 72168,
       "word": "河北文旅摇人摇到李荣浩",
       "onboard_time": 1751130559,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 69701,
+      "num": 69701,
+      "word": "停火后以色列多地爆发大规模抗议",
+      "onboard_time": 1751220017,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 69189,
@@ -3659,22 +3675,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 62531,
-      "num": 62531,
-      "word": "停火后以色列多地爆发大规模抗议",
-      "onboard_time": 1751220017,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 62399,
-      "num": 62399,
-      "word": "雷军说小米就是坚定对标保时捷",
-      "onboard_time": 1751238679,
-      "rank": 37,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 60395,
       "num": 236928,
       "word": "跪行巨人胡雷驰援榕江后账户只剩5毛",
@@ -3697,6 +3697,14 @@
       "onboard_time": 1751215519,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 58206,
+      "num": 58206,
+      "word": "虞书欣丁禹兮请客来战剧组",
+      "onboard_time": 1751239399,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 57669,
@@ -3723,6 +3731,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 55154,
+      "num": 55154,
+      "word": "以法之名",
+      "onboard_time": 1751238738,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 54390,
       "num": 54390,
       "word": "种甘蓝硬如铅球农户傻眼",
@@ -3739,12 +3755,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 52699,
-      "num": 52699,
-      "word": "以法之名",
-      "onboard_time": 1751238738,
-      "rank": 41,
-      "category": "剧集"
+      "raw_hot": 52596,
+      "num": 52596,
+      "word": "王源到底花了多少经费在舞美上",
+      "onboard_time": 1751238618,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 52524,
@@ -3780,7 +3796,7 @@
     },
     {
       "raw_hot": 48171,
-      "num": 48171,
+      "num": 52581,
       "word": "杨紫白玉兰感言",
       "onboard_time": 1751218936,
       "rank": 38,
@@ -3835,14 +3851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 45003,
-      "num": 45003,
-      "word": "王源到底花了多少经费在舞美上",
-      "onboard_time": 1751238618,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 44811,
       "num": 181930,
       "word": "小车疑遭雷击车内男子听到电流声",
@@ -3851,12 +3859,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 41963,
-      "num": 44253,
-      "word": "虞书欣丁禹兮请客来战剧组",
-      "onboard_time": 1751239399,
+      "raw_hot": 43512,
+      "num": 52580,
+      "word": "五哈",
+      "onboard_time": 1751239939,
       "rank": 49,
-      "category": "剧集"
+      "category": "综艺"
     },
     {
       "raw_hot": 41419,
@@ -4099,6 +4107,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 23452,
+      "num": 361400,
+      "word": "解锁首发经济花样消费场景",
+      "onboard_time": 1751210123,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 23432,
       "num": 23310,
       "word": "汪苏泷坠入首唱",
@@ -4145,14 +4161,6 @@
       "onboard_time": 1751206883,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 19508,
-      "num": 361400,
-      "word": "解锁首发经济花样消费场景",
-      "onboard_time": 1751210123,
-      "rank": 46,
-      "category": "国内时政"
     },
     {
       "raw_hot": 19188,
