@@ -1,10 +1,10 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751181888463,
+  "endTime": 1751182715670,
   "band_list": [
     {
-      "raw_hot": 1642881,
-      "num": 1642881,
+      "raw_hot": 1863496,
+      "num": 1863496,
       "word": "罗马仕 你都用回本了",
       "onboard_time": 1751178141,
       "rank": 18,
@@ -41,6 +41,14 @@
       "onboard_time": 1751160319,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1239092,
+      "num": 1239092,
+      "word": "微信最不能出现的功能 消息已读",
+      "onboard_time": 1751177843,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 1225583,
@@ -89,14 +97,6 @@
       "onboard_time": 1751172683,
       "rank": 30,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 996049,
-      "num": 996049,
-      "word": "微信最不能出现的功能 消息已读",
-      "onboard_time": 1751177843,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 983335,
@@ -187,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 574747,
+      "num": 574747,
+      "word": "李昀锐助理看起来命很苦",
+      "onboard_time": 1751180359,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 570463,
       "num": 429015,
       "word": "沈腾喷了马丽老公一脸",
@@ -265,14 +273,6 @@
       "onboard_time": 1751155578,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 419012,
-      "num": 419012,
-      "word": "李昀锐助理看起来命很苦",
-      "onboard_time": 1751180359,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 405853,
@@ -403,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 332490,
+      "num": 332490,
+      "word": "TOP 徐州",
+      "onboard_time": 1751180300,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 325179,
       "num": 330828,
       "word": "助理回应蔡澜遗产分配",
@@ -419,19 +427,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 318699,
-      "num": 318699,
-      "word": "TOP 徐州",
-      "onboard_time": 1751180300,
-      "rank": 12,
-      "category": "演出"
-    },
-    {
       "raw_hot": 318356,
       "num": 318356,
       "word": "伊朗2022年几乎成功刺杀蓬佩奥",
       "onboard_time": 1751163681,
       "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 317727,
+      "num": 349938,
+      "word": "巴勒斯坦体育界615人已遇袭身亡",
+      "onboard_time": 1751178741,
+      "rank": 22,
       "category": "国际时政"
     },
     {
@@ -465,14 +473,6 @@
       "onboard_time": 1751126482,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 304524,
-      "num": 349938,
-      "word": "巴勒斯坦体育界615人已遇袭身亡",
-      "onboard_time": 1751178741,
-      "rank": 22,
-      "category": "国际时政"
     },
     {
       "raw_hot": 303989,
@@ -571,6 +571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 242085,
+      "num": 242085,
+      "word": "人均办公面积393.7平米被通报",
+      "onboard_time": 1751178201,
+      "rank": 34,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 241343,
       "num": 241343,
       "word": "朱志鑫把加速王的奖牌带回家",
@@ -667,14 +675,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 211268,
-      "num": 211268,
-      "word": "人均办公面积393.7平米被通报",
-      "onboard_time": 1751178201,
-      "rank": 34,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 209222,
       "num": 129013,
       "word": "加拿大命令中企海康威视停止运营",
@@ -747,6 +747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196638,
+      "num": 196638,
+      "word": "王一栩你给张云龙喂了什么",
+      "onboard_time": 1751182100,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195426,
       "num": 195426,
       "word": "警惕暗示性的白嫖",
@@ -803,6 +811,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 186613,
+      "num": 186613,
+      "word": "罗马仕",
+      "onboard_time": 1751181801,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184370,
       "num": 184370,
       "word": "宋轶新剧一款多面性的女将军",
@@ -825,6 +841,14 @@
       "onboard_time": 1751172562,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181259,
+      "num": 181259,
+      "word": "姜云升 王翊衡",
+      "onboard_time": 1751181320,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 176030,
@@ -923,12 +947,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 162153,
+      "num": 162153,
+      "word": "布丁狗第一",
+      "onboard_time": 1751177361,
+      "rank": 40,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 161158,
       "num": 161158,
       "word": "华晨宇 我一场不去就出大事了",
       "onboard_time": 1751172862,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 161110,
+      "num": 161110,
+      "word": "鞠婧祎阿黛官宣海报",
+      "onboard_time": 1751182701,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 159413,
@@ -985,6 +1025,14 @@
       "onboard_time": 1751174422,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 153348,
+      "num": 153348,
+      "word": "普京会见车臣领导人17岁的儿子",
+      "onboard_time": 1751182282,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 153000,
@@ -1179,6 +1227,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 136017,
+      "num": 136017,
+      "word": "程潇让妹妹和妈妈分居的原因",
+      "onboard_time": 1751180359,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 135733,
+      "num": 135733,
+      "word": "三里屯偶遇井柏然刘雯",
+      "onboard_time": 1751181681,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134660,
       "num": 190594,
       "word": "几十块的万能遥控器什么闸都能开",
@@ -1332,7 +1396,7 @@
     },
     {
       "raw_hot": 127861,
-      "num": 127861,
+      "num": 232091,
       "word": "今日再送黄旭华院士一程",
       "onboard_time": 1751171363,
       "rank": 47,
@@ -1355,20 +1419,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 127256,
-      "num": 127256,
-      "word": "姜云升 王翊衡",
-      "onboard_time": 1751181320,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 126410,
-      "num": 129147,
-      "word": "布丁狗第一",
-      "onboard_time": 1751177361,
-      "rank": 40,
-      "category": "动漫"
+      "raw_hot": 126241,
+      "num": 126241,
+      "word": "10名员工租用3937平米办公用房",
+      "onboard_time": 1751179100,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125333,
@@ -1459,6 +1515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114962,
+      "num": 114962,
+      "word": "苏轼北宋时期真正的苏坡爱豆",
+      "onboard_time": 1751182461,
+      "rank": 38,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 114441,
       "num": 114441,
       "word": "韩国花27元人民币吃的午餐",
@@ -1499,20 +1563,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111126,
+      "num": 111126,
+      "word": "邓紫棋严选被质疑",
+      "onboard_time": 1751182521,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110888,
       "num": 131074,
       "word": "刘亦菲林心如早期合照",
       "onboard_time": 1751177301,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 110395,
-      "num": 110395,
-      "word": "程潇让妹妹和妈妈分居的原因",
-      "onboard_time": 1751180359,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 109262,
@@ -1544,14 +1608,6 @@
       "word": "苹果账户被盗刷162笔总金额超8万",
       "onboard_time": 1751167280,
       "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 107688,
-      "num": 107687,
-      "word": "10名员工租用3937平米办公用房",
-      "onboard_time": 1751179100,
-      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -1627,6 +1683,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 105144,
+      "num": 106628,
+      "word": "黄霄雲怎么私下还搞抽象",
+      "onboard_time": 1751181801,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 104898,
       "num": 104898,
       "word": "45岁不结婚的女人怎样了",
@@ -1643,6 +1707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102836,
+      "num": 102836,
+      "word": "伊万发文谈执教国足",
+      "onboard_time": 1751181981,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102462,
       "num": 102462,
       "word": "谁懂小鬼雨中唱别叫我达芬奇的杀伤力",
@@ -1651,20 +1723,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 102341,
-      "num": 102341,
-      "word": "罗马仕",
-      "onboard_time": 1751181801,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 100711,
       "num": 100711,
       "word": "油条灌鸡蛋",
       "onboard_time": 1751163020,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 100485,
+      "num": 100485,
+      "word": "詹周氏旗袍缝缝补补变战袍",
+      "onboard_time": 1751182402,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 100060,
@@ -1689,14 +1761,6 @@
       "onboard_time": 1751168541,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 97422,
-      "num": 97422,
-      "word": "黄霄雲怎么私下还搞抽象",
-      "onboard_time": 1751181801,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 96846,
@@ -1729,14 +1793,6 @@
       "onboard_time": 1751168481,
       "rank": 49,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 92677,
-      "num": 92677,
-      "word": "三里屯偶遇井柏然刘雯",
-      "onboard_time": 1751181681,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 89752,
@@ -1804,7 +1860,7 @@
     },
     {
       "raw_hot": 73457,
-      "num": 209228,
+      "num": 229031,
       "word": "AQ劝爸妈不信谣居然比我有用",
       "onboard_time": 1751180720,
       "rank": 19,
@@ -1891,6 +1947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57314,
+      "num": 228344,
+      "word": "美参议院程序性投票通过大而美法案",
+      "onboard_time": 1751181740,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 54390,
       "num": 54390,
       "word": "种甘蓝硬如铅球农户傻眼",
@@ -1921,14 +1985,6 @@
       "onboard_time": 1751129540,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 47007,
-      "num": 110743,
-      "word": "美参议院程序性投票通过大而美法案",
-      "onboard_time": 1751181740,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 45825,
@@ -2043,6 +2099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24864,
+      "num": 245829,
+      "word": "深航回应飞机备降南京后换飞机",
+      "onboard_time": 1751182282,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23754,
       "num": 28476,
       "word": "在汪苏泷的罗曼城淋过雨都发财",
@@ -2068,7 +2132,7 @@
     },
     {
       "raw_hot": 19188,
-      "num": 125644,
+      "num": 160758,
       "word": "解限机为什么叫解限机",
       "onboard_time": 1751179702,
       "rank": 36,

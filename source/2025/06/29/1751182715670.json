@@ -1,0 +1,410 @@
+{
+  "runTime": 1751182715670,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1863496,
+        "num": 1863496,
+        "word": "罗马仕 你都用回本了",
+        "onboard_time": 1751178141,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1239092,
+        "num": 1239092,
+        "word": "微信最不能出现的功能 消息已读",
+        "onboard_time": 1751177843,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 29988,
+        "num": 746024,
+        "word": "遇洪水必知的9个健康知识点",
+        "onboard_time": 1751168120,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 575488,
+        "num": 575488,
+        "word": "邓超 鹿晗",
+        "onboard_time": 1751169980,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 574747,
+        "num": 574747,
+        "word": "李昀锐助理看起来命很苦",
+        "onboard_time": 1751180359,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 487486,
+        "num": 487486,
+        "word": "继母捂住亲妈眼睛不看脑瘤男孩剃光头",
+        "onboard_time": 1751170821,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 551556,
+        "num": 474591,
+        "word": "离婚夜做真夫妻",
+        "onboard_time": 1751170942,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 368679,
+        "num": 368679,
+        "word": "女孩做黑医美一针晕厥全身发黑",
+        "onboard_time": 1751175202,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332490,
+        "num": 332490,
+        "word": "TOP 徐州",
+        "onboard_time": 1751180300,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 317727,
+        "num": 317727,
+        "word": "巴勒斯坦体育界615人已遇袭身亡",
+        "onboard_time": 1751178741,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 309266,
+        "num": 309266,
+        "word": "我妈说咖啡是穷人的饮料",
+        "onboard_time": 1751176161,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 296049,
+        "num": 296049,
+        "word": "伊朗绞死内奸",
+        "onboard_time": 1751172683,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 263458,
+        "num": 263458,
+        "word": "华晨宇一把推开粉丝聚餐的门",
+        "onboard_time": 1751174782,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254525,
+        "num": 254525,
+        "word": "聚是豆瓣5.8散是满天星",
+        "onboard_time": 1751177843,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24864,
+        "num": 245829,
+        "word": "深航回应飞机备降南京后换飞机",
+        "onboard_time": 1751182282,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242085,
+        "num": 242085,
+        "word": "人均办公面积393.7平米被通报",
+        "onboard_time": 1751178201,
+        "rank": 15,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 238825,
+        "num": 238825,
+        "word": "鞠婧祎小号",
+        "onboard_time": 1751170462,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93297,
+        "num": 232091,
+        "word": "今日再送黄旭华院士一程",
+        "onboard_time": 1751171363,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53877,
+        "num": 229031,
+        "word": "AQ劝爸妈不信谣居然比我有用",
+        "onboard_time": 1751180720,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57314,
+        "num": 228344,
+        "word": "美参议院程序性投票通过大而美法案",
+        "onboard_time": 1751181740,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 228273,
+        "num": 228273,
+        "word": "黄旭华院士今天安葬",
+        "onboard_time": 1751177182,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213049,
+        "num": 213049,
+        "word": "王勉说这季五哈人最多也最少",
+        "onboard_time": 1751176103,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196638,
+        "num": 196638,
+        "word": "王一栩你给张云龙喂了什么",
+        "onboard_time": 1751182100,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196257,
+        "num": 196257,
+        "word": "印军老将威胁中国",
+        "onboard_time": 1751175621,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 186613,
+        "num": 186613,
+        "word": "罗马仕",
+        "onboard_time": 1751181801,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181259,
+        "num": 181259,
+        "word": "姜云升 王翊衡",
+        "onboard_time": 1751181320,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 167539,
+        "num": 167539,
+        "word": "沈腾喷了马丽老公一脸",
+        "onboard_time": 1751173463,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162153,
+        "num": 162153,
+        "word": "布丁狗第一",
+        "onboard_time": 1751177361,
+        "rank": 27,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 161110,
+        "num": 161110,
+        "word": "鞠婧祎阿黛官宣海报",
+        "onboard_time": 1751182701,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16030,
+        "num": 160758,
+        "word": "解限机为什么叫解限机",
+        "onboard_time": 1751179702,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160633,
+        "num": 160633,
+        "word": "今年的荔枝怎么烂大街了",
+        "onboard_time": 1751169802,
+        "rank": 30,
+        "category": "议题讨论,财经"
+      },
+      {
+        "raw_hot": 153348,
+        "num": 153348,
+        "word": "普京会见车臣领导人17岁的儿子",
+        "onboard_time": 1751182282,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136017,
+        "num": 136017,
+        "word": "程潇让妹妹和妈妈分居的原因",
+        "onboard_time": 1751180359,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135733,
+        "num": 135733,
+        "word": "三里屯偶遇井柏然刘雯",
+        "onboard_time": 1751181681,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130255,
+        "num": 130255,
+        "word": "张小斐抽烟镜头女王级别",
+        "onboard_time": 1751166080,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128431,
+        "num": 128431,
+        "word": "田栩宁 萌物",
+        "onboard_time": 1751156659,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126407,
+        "num": 126407,
+        "word": "短剧已经进化到包屏寻人了",
+        "onboard_time": 1751178741,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126241,
+        "num": 126241,
+        "word": "10名员工租用3937平米办公用房",
+        "onboard_time": 1751179100,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114962,
+        "num": 114962,
+        "word": "苏轼北宋时期真正的苏坡爱豆",
+        "onboard_time": 1751182461,
+        "rank": 38,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 111126,
+        "num": 111126,
+        "word": "邓紫棋严选被质疑",
+        "onboard_time": 1751182521,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109358,
+        "num": 109358,
+        "word": "为了一个事业编花45万买答案",
+        "onboard_time": 1751173041,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108322,
+        "num": 108322,
+        "word": "医美培训老师宣称我们都没证",
+        "onboard_time": 1751175261,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108065,
+        "num": 108065,
+        "word": "关晓彤 鹿晗",
+        "onboard_time": 1751119105,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105144,
+        "num": 106628,
+        "word": "黄霄雲怎么私下还搞抽象",
+        "onboard_time": 1751181801,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 105810,
+        "num": 105810,
+        "word": "严浩翔王嘉尔合照",
+        "onboard_time": 1751180602,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105489,
+        "num": 105489,
+        "word": "三丽鸥角色大赏最终结果",
+        "onboard_time": 1751181740,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 103777,
+        "num": 103777,
+        "word": "女rapper坐在导师席的意义",
+        "onboard_time": 1751181020,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102836,
+        "num": 102836,
+        "word": "伊万发文谈执教国足",
+        "onboard_time": 1751181981,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102479,
+        "num": 102479,
+        "word": "关晓彤近期妆造",
+        "onboard_time": 1751175922,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100485,
+        "num": 100485,
+        "word": "詹周氏旗袍缝缝补补变战袍",
+        "onboard_time": 1751182402,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心中的好干部标准#"
+    }
+  }
+}
