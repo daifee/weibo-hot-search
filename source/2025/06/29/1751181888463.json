@@ -1,0 +1,410 @@
+{
+  "runTime": 1751181888463,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1642881,
+        "num": 1642881,
+        "word": "罗马仕 你都用回本了",
+        "onboard_time": 1751178141,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 996049,
+        "num": 996049,
+        "word": "微信最不能出现的功能 消息已读",
+        "onboard_time": 1751177843,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 26480,
+        "num": 682597,
+        "word": "遇洪水必知的9个健康知识点",
+        "onboard_time": 1751168120,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 588188,
+        "num": 588188,
+        "word": "离婚夜做真夫妻",
+        "onboard_time": 1751170942,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 579097,
+        "num": 579097,
+        "word": "邓超 鹿晗",
+        "onboard_time": 1751169980,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 493270,
+        "num": 493270,
+        "word": "继母捂住亲妈眼睛不看脑瘤男孩剃光头",
+        "onboard_time": 1751170821,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 419012,
+        "num": 419012,
+        "word": "李昀锐助理看起来命很苦",
+        "onboard_time": 1751180359,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409937,
+        "num": 409937,
+        "word": "女孩做黑医美一针晕厥全身发黑",
+        "onboard_time": 1751175202,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 368459,
+        "num": 368459,
+        "word": "我妈说咖啡是穷人的饮料",
+        "onboard_time": 1751176161,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 304524,
+        "num": 349938,
+        "word": "巴勒斯坦体育界615人已遇袭身亡",
+        "onboard_time": 1751178741,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 343046,
+        "num": 343046,
+        "word": "伊朗绞死内奸",
+        "onboard_time": 1751172683,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 327126,
+        "num": 327126,
+        "word": "华晨宇一把推开粉丝聚餐的门",
+        "onboard_time": 1751174782,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318699,
+        "num": 318699,
+        "word": "TOP 徐州",
+        "onboard_time": 1751180300,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 265429,
+        "num": 265429,
+        "word": "鞠婧祎小号",
+        "onboard_time": 1751170462,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250257,
+        "num": 250257,
+        "word": "聚是豆瓣5.8散是满天星",
+        "onboard_time": 1751177843,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249179,
+        "num": 249179,
+        "word": "王勉说这季五哈人最多也最少",
+        "onboard_time": 1751176103,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218058,
+        "num": 218058,
+        "word": "印军老将威胁中国",
+        "onboard_time": 1751175621,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 217270,
+        "num": 217270,
+        "word": "黄旭华院士今天安葬",
+        "onboard_time": 1751177182,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211268,
+        "num": 211268,
+        "word": "人均办公面积393.7平米被通报",
+        "onboard_time": 1751178201,
+        "rank": 18,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 73457,
+        "num": 209228,
+        "word": "AQ劝爸妈不信谣居然比我有用",
+        "onboard_time": 1751180720,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208342,
+        "num": 208342,
+        "word": "沈腾喷了马丽老公一脸",
+        "onboard_time": 1751173463,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169887,
+        "num": 169887,
+        "word": "严浩翔王嘉尔合照",
+        "onboard_time": 1751180602,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167964,
+        "num": 167964,
+        "word": "今年的荔枝怎么烂大街了",
+        "onboard_time": 1751169802,
+        "rank": 22,
+        "category": "议题讨论,财经"
+      },
+      {
+        "raw_hot": 163877,
+        "num": 163877,
+        "word": "关晓彤 鹿晗",
+        "onboard_time": 1751119105,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158898,
+        "num": 158898,
+        "word": "短剧已经进化到包屏寻人了",
+        "onboard_time": 1751178741,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136295,
+        "num": 136295,
+        "word": "张小斐抽烟镜头女王级别",
+        "onboard_time": 1751166080,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135057,
+        "num": 135057,
+        "word": "田栩宁 萌物",
+        "onboard_time": 1751156659,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127256,
+        "num": 127256,
+        "word": "姜云升 王翊衡",
+        "onboard_time": 1751181320,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 120319,
+        "num": 120319,
+        "word": "医美培训老师宣称我们都没证",
+        "onboard_time": 1751175261,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18037,
+        "num": 119918,
+        "word": "解限机为什么叫解限机",
+        "onboard_time": 1751179702,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120747,
+        "num": 119826,
+        "word": "三丽鸥角色大赏最终结果",
+        "onboard_time": 1751181740,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 119604,
+        "num": 119604,
+        "word": "为了一个事业编花45万买答案",
+        "onboard_time": 1751173041,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112153,
+        "num": 112153,
+        "word": "内娱00后淡颜系小生上新",
+        "onboard_time": 1751180000,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47007,
+        "num": 110743,
+        "word": "美参议院程序性投票通过大而美法案",
+        "onboard_time": 1751181740,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110395,
+        "num": 110395,
+        "word": "程潇让妹妹和妈妈分居的原因",
+        "onboard_time": 1751180359,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109624,
+        "num": 109624,
+        "word": "布丁狗第一",
+        "onboard_time": 1751177361,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 107482,
+        "num": 107482,
+        "word": "女rapper坐在导师席的意义",
+        "onboard_time": 1751181020,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103461,
+        "num": 103461,
+        "word": "中国稀土集团声明",
+        "onboard_time": 1751174122,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102341,
+        "num": 102341,
+        "word": "罗马仕",
+        "onboard_time": 1751181801,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101043,
+        "num": 101043,
+        "word": "坚持跑步一个月面部的变化",
+        "onboard_time": 1751167460,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 97422,
+        "num": 97422,
+        "word": "黄霄雲怎么私下还搞抽象",
+        "onboard_time": 1751181801,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 97039,
+        "num": 97039,
+        "word": "今日再送黄旭华院士一程",
+        "onboard_time": 1751171363,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96846,
+        "num": 96846,
+        "word": "我是一个没敢碰啊",
+        "onboard_time": 1751181200,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93988,
+        "num": 93988,
+        "word": "关晓彤近期妆造",
+        "onboard_time": 1751175922,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93298,
+        "num": 93298,
+        "word": "你们只是谈恋爱而已 又不是发财了",
+        "onboard_time": 1751176760,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92677,
+        "num": 92677,
+        "word": "三里屯偶遇井柏然刘雯",
+        "onboard_time": 1751181681,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91798,
+        "num": 91798,
+        "word": "时代少年团加冠礼演唱会",
+        "onboard_time": 1751168361,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 86808,
+        "num": 91345,
+        "word": "时代少年团大连站",
+        "onboard_time": 1751168361,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 91251,
+        "num": 91251,
+        "word": "雷霆奇才交易",
+        "onboard_time": 1751179041,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89745,
+        "num": 89745,
+        "word": "来战",
+        "onboard_time": 1751161280,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心中的好干部标准#"
+    }
+  }
+}
