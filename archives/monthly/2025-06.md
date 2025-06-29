@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/29 16:31:52
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/29 16:45:35
 </p>
 </blockquote>
 <p>
@@ -597,14 +597,14 @@ GAI第一（热度：4228592）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%94%BE%E5%81%87%E5%90%97%23" target="weibo">
-放假吗（热度：2430980）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%95%E8%BA%AB%E7%A8%8E%23" target="weibo">
+单身税（热度：2472178）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%95%E8%BA%AB%E7%A8%8E%23" target="weibo">
-单身税（热度：2422176）
+<a href="https://s.weibo.com/weibo?q=%23%E6%94%BE%E5%81%87%E5%90%97%23" target="weibo">
+放假吗（热度：2430980）
 </a>
 </li>
 
@@ -5925,6 +5925,12 @@ T3司机猥亵大三女生被行拘5日（热度：810171）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B7%A5%E7%A8%8B%20%E7%A9%BA%E8%B0%83%23" target="weibo">
+哈工程 空调（热度：757002）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E4%BD%B3%E8%8E%B9%E7%B2%89%E4%B8%9D%E5%9B%A0%E4%B8%BA%E5%98%89%E5%AE%BE%E9%80%80%E7%A5%A8%23" target="weibo">
 徐佳莹粉丝因为嘉宾退票（热度：756622）
 </a>
@@ -6005,12 +6011,6 @@ LV 王楚钦（热度：752490）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%AB%A5%E5%9B%9E%E5%AE%B6%E8%A2%AB%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E6%8B%96%E8%BF%9B%E5%B0%8F%E5%B7%B7%23" target="weibo">
 女童回家被陌生男子拖进小巷（热度：749200）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%97%9E%E5%B9%BC%20%E6%82%AC%E5%B4%96%E4%BE%BF%E5%88%A9%E5%BA%97%E4%B9%B0%E6%B0%B4%23" target="weibo">
-痞幼 悬崖便利店买水（热度：748454）
 </a>
 </li>
 

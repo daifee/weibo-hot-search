@@ -1,10 +1,10 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751185912535,
+  "endTime": 1751186735870,
   "band_list": [
     {
-      "raw_hot": 2422176,
-      "num": 2422176,
+      "raw_hot": 2472178,
+      "num": 2472178,
       "word": "单身税",
       "onboard_time": 1751183842,
       "rank": 0,
@@ -147,6 +147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 757002,
+      "num": 757002,
+      "word": "哈工程 空调",
+      "onboard_time": 1751182880,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 747130,
       "num": 325321,
       "word": "莆田8岁失联男童尸体被发现",
@@ -169,14 +177,6 @@
       "onboard_time": 1751168361,
       "rank": 8,
       "category": "演出"
-    },
-    {
-      "raw_hot": 702374,
-      "num": 702374,
-      "word": "哈工程 空调",
-      "onboard_time": 1751182880,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 698498,
@@ -331,6 +331,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 380365,
+      "num": 380365,
+      "word": "黄子韬画的饼做到了",
+      "onboard_time": 1751182880,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 378025,
       "num": 378025,
       "word": "田栩宁 萌物",
@@ -363,20 +371,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 364617,
+      "num": 364617,
+      "word": "成都暴雨小区电梯变水帘洞",
+      "onboard_time": 1751185341,
+      "rank": 19,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 364348,
       "num": 364348,
       "word": "印军老将威胁中国",
       "onboard_time": 1751175621,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 360355,
-      "num": 360355,
-      "word": "黄子韬画的饼做到了",
-      "onboard_time": 1751182880,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 353558,
@@ -523,7 +531,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 297707,
+      "raw_hot": 299551,
       "num": 342385,
       "word": "美国一直升机从上空抛撒大量美元",
       "onboard_time": 1751183424,
@@ -555,12 +563,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 282129,
+      "num": 282129,
+      "word": "严浩翔回应王嘉尔",
+      "onboard_time": 1751185942,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 271446,
       "num": 271446,
       "word": "小猫被主人亲完后装死",
       "onboard_time": 1751169080,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 270904,
+      "num": 270904,
+      "word": "贵州榕江街道7分钟被洪水完全淹没",
+      "onboard_time": 1751184141,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 267583,
@@ -700,7 +724,7 @@
     },
     {
       "raw_hot": 219034,
-      "num": 219034,
+      "num": 356093,
       "word": "普京会见车臣领导人17岁的儿子",
       "onboard_time": 1751182282,
       "rank": 31,
@@ -755,6 +779,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 205696,
+      "num": 205696,
+      "word": "蟑螂入耳",
+      "onboard_time": 1751185522,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 205284,
       "num": 205284,
       "word": "森林北回怼网友",
@@ -777,6 +809,14 @@
       "onboard_time": 1751123603,
       "rank": 22,
       "category": "美食"
+    },
+    {
+      "raw_hot": 202711,
+      "num": 202711,
+      "word": "沈月连续两年AYA排名第一",
+      "onboard_time": 1751186121,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 202551,
@@ -811,6 +851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 194916,
+      "num": 194916,
+      "word": "樊振东祝福波尔",
+      "onboard_time": 1751186002,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194399,
       "num": 194399,
       "word": "王玉雯田曦薇合照",
@@ -833,6 +881,22 @@
       "onboard_time": 1751158820,
       "rank": 22,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 192232,
+      "num": 192232,
+      "word": "黄晓明背尚雯婕",
+      "onboard_time": 1751185641,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 192143,
+      "num": 192143,
+      "word": "2岁男童一人趴在水边落水",
+      "onboard_time": 1751185221,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 192003,
@@ -899,12 +963,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183287,
+      "num": 183287,
+      "word": "当你不停运动2个月后",
+      "onboard_time": 1751185402,
+      "rank": 31,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 181259,
       "num": 181259,
       "word": "姜云升 王翊衡",
       "onboard_time": 1751181320,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 178697,
+      "num": 268561,
+      "word": "机场拦截充电宝疑似流入二手平台",
+      "onboard_time": 1751183361,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176030,
@@ -939,14 +1019,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 174613,
-      "num": 174613,
-      "word": "机场拦截充电宝疑似流入二手平台",
-      "onboard_time": 1751183361,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 174202,
       "num": 174202,
       "word": "突然发现还没到三伏天",
@@ -955,18 +1027,18 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 173733,
-      "num": 204991,
-      "word": "贵州榕江街道7分钟被洪水完全淹没",
-      "onboard_time": 1751184141,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 172561,
       "num": 172561,
       "word": "清华硕士文眉撕掉职业偏见标签",
       "onboard_time": 1751170522,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171962,
+      "num": 171962,
+      "word": "重庆2岁幼童20楼坠落奇迹生还",
+      "onboard_time": 1751185942,
       "rank": 32,
       "category": "民生新闻"
     },
@@ -1043,6 +1115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160955,
+      "num": 160955,
+      "word": "六公主没选公主选了达拉崩吧",
+      "onboard_time": 1751186121,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 159413,
       "num": 159413,
       "word": "3岁女娃双眼近视1000度摸着走路",
@@ -1105,14 +1185,6 @@
       "onboard_time": 1751175802,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 151464,
-      "num": 147201,
-      "word": "当你不停运动2个月后",
-      "onboard_time": 1751185402,
-      "rank": 31,
-      "category": "运动健身"
     },
     {
       "raw_hot": 151297,
@@ -1209,14 +1281,6 @@
       "onboard_time": 1751179221,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 147124,
-      "num": 147124,
-      "word": "黄晓明背尚雯婕",
-      "onboard_time": 1751185641,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 146247,
@@ -1329,14 +1393,6 @@
       "onboard_time": 1751181681,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 135300,
-      "num": 135300,
-      "word": "2岁男童一人趴在水边落水",
-      "onboard_time": 1751185221,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134660,
@@ -1539,14 +1595,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 121132,
-      "num": 121132,
-      "word": "蟑螂入耳",
-      "onboard_time": 1751185522,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 120747,
       "num": 119826,
       "word": "三丽鸥角色大赏最终结果",
@@ -1675,6 +1723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 112513,
+      "num": 112513,
+      "word": "韩国大学食堂自助午餐",
+      "onboard_time": 1751185041,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 112363,
       "num": 112363,
       "word": "不爱吃香菜又一理由找到了",
@@ -1691,12 +1747,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 111958,
-      "num": 203513,
-      "word": "成都暴雨小区电梯变水帘洞",
-      "onboard_time": 1751185341,
-      "rank": 19,
-      "category": "突发/灾害"
+      "raw_hot": 111486,
+      "num": 111486,
+      "word": "泡泡玛特发货延迟",
+      "onboard_time": 1751186241,
+      "rank": 47,
+      "category": "休闲,动漫"
     },
     {
       "raw_hot": 111126,
@@ -1745,6 +1801,14 @@
       "onboard_time": 1751167280,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107886,
+      "num": 107886,
+      "word": "1个动作改善脖子前倾",
+      "onboard_time": 1751186301,
+      "rank": 48,
+      "category": "运动健身"
     },
     {
       "raw_hot": 107611,
@@ -1996,7 +2060,7 @@
     },
     {
       "raw_hot": 77025,
-      "num": 120108,
+      "num": 128774,
       "word": "柱灭之刃第一章",
       "onboard_time": 1751183661,
       "rank": 38,
@@ -2140,7 +2204,7 @@
     },
     {
       "raw_hot": 48792,
-      "num": 120056,
+      "num": 127261,
       "word": "一张照片就能测出老年痴呆风险",
       "onboard_time": 1751184080,
       "rank": 39,
@@ -2160,6 +2224,14 @@
       "word": "遇洪水必知的9个健康知识点",
       "onboard_time": 1751168120,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44811,
+      "num": 181930,
+      "word": "小车疑遭雷击车内男子听到电流声",
+      "onboard_time": 1751186480,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
