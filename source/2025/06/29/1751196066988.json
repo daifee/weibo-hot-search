@@ -1,0 +1,410 @@
+{
+  "runTime": 1751196066988,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1750532,
+        "num": 1750532,
+        "word": "鹿晗抢票",
+        "onboard_time": 1751193201,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 715642,
+        "num": 715642,
+        "word": "马龙去看林俊杰演唱会了",
+        "onboard_time": 1751192600,
+        "rank": 1,
+        "category": "体育,演出"
+      },
+      {
+        "raw_hot": 37216,
+        "num": 549780,
+        "word": "夜间经济点燃夏日文旅新引擎",
+        "onboard_time": 1751191220,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1033924,
+        "num": 549441,
+        "word": "汪顺贾玲打网球",
+        "onboard_time": 1751190981,
+        "rank": 3,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 546516,
+        "num": 546516,
+        "word": "罗马仕 你都用回本了",
+        "onboard_time": 1751178141,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1668783,
+        "num": 542515,
+        "word": "单身税",
+        "onboard_time": 1751183842,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 688768,
+        "num": 538233,
+        "word": "卜凡还在做道士",
+        "onboard_time": 1751194221,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 576703,
+        "num": 532369,
+        "word": "大麦bug",
+        "onboard_time": 1751195961,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 502198,
+        "num": 502198,
+        "word": "微信最不能出现的功能 消息已读",
+        "onboard_time": 1751177843,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 356715,
+        "num": 488344,
+        "word": "考二本分想上一本家长被骗80多万",
+        "onboard_time": 1751193140,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 569839,
+        "num": 488168,
+        "word": "鹿晗演唱会",
+        "onboard_time": 1751175322,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 567904,
+        "num": 488024,
+        "word": "吴沛官宣怀孕",
+        "onboard_time": 1751194340,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 485218,
+        "num": 485218,
+        "word": "日本人到老挝嫖宿幼女",
+        "onboard_time": 1751189481,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 435400,
+        "num": 435400,
+        "word": "无畏太乙",
+        "onboard_time": 1751192300,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 319207,
+        "num": 319207,
+        "word": "严浩翔香水",
+        "onboard_time": 1751192541,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275320,
+        "num": 275320,
+        "word": "EDGM战胜JDG",
+        "onboard_time": 1751195901,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 271757,
+        "num": 271757,
+        "word": "六公主没选公主选了达拉崩吧",
+        "onboard_time": 1751186121,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 269065,
+        "num": 269065,
+        "word": "土耳其一网红离世时体重仅剩23公斤",
+        "onboard_time": 1751193021,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 257567,
+        "num": 257567,
+        "word": "有3C标识充电宝也不可在飞机上使用",
+        "onboard_time": 1751187742,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253841,
+        "num": 253841,
+        "word": "官方回应朱雀玄武敕令改名被拒",
+        "onboard_time": 1751189600,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250679,
+        "num": 250679,
+        "word": "张新成宋祖儿新剧强制吻",
+        "onboard_time": 1751190381,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249838,
+        "num": 249838,
+        "word": "密室大逃脱7一开场就这么刺激",
+        "onboard_time": 1751194459,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226275,
+        "num": 226275,
+        "word": "孟子义的狗巧克力又塌房了",
+        "onboard_time": 1751195841,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225427,
+        "num": 225427,
+        "word": "沈月连续两年AYA排名第一",
+        "onboard_time": 1751186121,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220413,
+        "num": 220413,
+        "word": "四川暴雨直接包场全国降雨前十",
+        "onboard_time": 1751193741,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208717,
+        "num": 208717,
+        "word": "陈哲远在泰国当上小猫咪了",
+        "onboard_time": 1751195061,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208238,
+        "num": 208238,
+        "word": "仙逆",
+        "onboard_time": 1751193801,
+        "rank": 26,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 208180,
+        "num": 208180,
+        "word": "Sakuya宁艺卓cha",
+        "onboard_time": 1751195181,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199667,
+        "num": 199667,
+        "word": "21名小学生凑钱聚餐老板自贴300元",
+        "onboard_time": 1751191341,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197542,
+        "num": 197542,
+        "word": "ivl",
+        "onboard_time": 1751195000,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 191470,
+        "num": 191470,
+        "word": "婚宴订多了想退被告知没先例",
+        "onboard_time": 1751190500,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189885,
+        "num": 189885,
+        "word": "卜凡 出道是为了入道",
+        "onboard_time": 1751195721,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181823,
+        "num": 181823,
+        "word": "苏超苏州vs扬州",
+        "onboard_time": 1751195901,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176853,
+        "num": 176853,
+        "word": "JDG对战EDGM",
+        "onboard_time": 1751189901,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 175134,
+        "num": 175134,
+        "word": "TF家族空降",
+        "onboard_time": 1751194581,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174188,
+        "num": 174188,
+        "word": "第五人格赛事",
+        "onboard_time": 1751192300,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164490,
+        "num": 164490,
+        "word": "王小利是女性不结婚不会怎样的证据",
+        "onboard_time": 1751195121,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153309,
+        "num": 153309,
+        "word": "刘亦菲松弛感",
+        "onboard_time": 1751192360,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148924,
+        "num": 148924,
+        "word": "陈都灵请鞠婧祎剧组喝饮料",
+        "onboard_time": 1751187981,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147341,
+        "num": 147341,
+        "word": "心疼清融",
+        "onboard_time": 1751195841,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 146271,
+        "num": 146271,
+        "word": "TOP 接长沙",
+        "onboard_time": 1751192841,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144044,
+        "num": 144044,
+        "word": "蔡澜晚年酒店套房生活",
+        "onboard_time": 1751195841,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141719,
+        "num": 141719,
+        "word": "朱雀玄武敕令13个月申请改名11次",
+        "onboard_time": 1751190442,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140283,
+        "num": 140283,
+        "word": "朕从未见过这样的张云龙",
+        "onboard_time": 1751195061,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131143,
+        "num": 131143,
+        "word": "混血男孩英语考试不及格全村人帮补习",
+        "onboard_time": 1751194160,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131139,
+        "num": 131139,
+        "word": "苏超南通叫南哥的原因找到了",
+        "onboard_time": 1751195241,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129102,
+        "num": 129102,
+        "word": "小狗化疗26天找动物沟通师对话",
+        "onboard_time": 1751195360,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126646,
+        "num": 126646,
+        "word": "汪顺回复贾玲",
+        "onboard_time": 1751193320,
+        "rank": 47,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 126365,
+        "num": 126365,
+        "word": "机场拦截充电宝疑似流入二手平台",
+        "onboard_time": 1751183361,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126067,
+        "num": 126067,
+        "word": "来韩国最大的问题出现了",
+        "onboard_time": 1751193140,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平回信勉励嘎拉村全体村民#"
+    }
+  }
+}

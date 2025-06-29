@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1751193921735,
+  "endTime": 1751196066988,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -1619,6 +1619,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1750532,
+      "num": 1750532,
+      "word": "鹿晗抢票",
+      "onboard_time": 1749553820,
+      "rank": 0,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1747665,
       "num": 1747665,
       "word": "庆余年3",
@@ -2745,14 +2753,6 @@
       "onboard_time": 1749801862,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1362574,
-      "num": 1362574,
-      "word": "鹿晗抢票",
-      "onboard_time": 1749553820,
-      "rank": 0,
-      "category": "演出"
     },
     {
       "raw_hot": 1362008,
@@ -8643,6 +8643,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 715642,
+      "num": 715642,
+      "word": "马龙去看林俊杰演唱会了",
+      "onboard_time": 1751192600,
+      "rank": 17,
+      "category": "体育,演出"
+    },
+    {
       "raw_hot": 715058,
       "num": 715058,
       "word": "4岁男童喝零添加鲜羊奶后腿疼1年",
@@ -9241,6 +9249,14 @@
       "onboard_time": 1750323922,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 688768,
+      "num": 538233,
+      "word": "卜凡还在做道士",
+      "onboard_time": 1751194221,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 687974,
@@ -10025,14 +10041,6 @@
       "onboard_time": 1750675342,
       "rank": 17,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 645551,
-      "num": 645551,
-      "word": "马龙去看林俊杰演唱会了",
-      "onboard_time": 1751192600,
-      "rank": 17,
-      "category": "体育,演出"
     },
     {
       "raw_hot": 645437,
@@ -11883,6 +11891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 576703,
+      "num": 532369,
+      "word": "大麦bug",
+      "onboard_time": 1751195961,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 576038,
       "num": 432663,
       "word": "路人抓拍Angelababy",
@@ -12065,6 +12081,14 @@
       "onboard_time": 1750699876,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 567904,
+      "num": 488024,
+      "word": "吴沛官宣怀孕",
+      "onboard_time": 1751194340,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 567672,
@@ -20883,6 +20907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 356715,
+      "num": 488344,
+      "word": "考二本分想上一本家长被骗80多万",
+      "onboard_time": 1751193140,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 356677,
       "num": 378159,
       "word": "撕掉小沈阳女儿标签要靠实力",
@@ -27131,6 +27163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 275320,
+      "num": 275320,
+      "word": "EDGM战胜JDG",
+      "onboard_time": 1751195901,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 275277,
       "num": 337082,
       "word": "原神",
@@ -27681,6 +27721,14 @@
       "onboard_time": 1749464122,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 269065,
+      "num": 269065,
+      "word": "土耳其一网红离世时体重仅剩23公斤",
+      "onboard_time": 1751193021,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 269050,
@@ -29459,6 +29507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253841,
+      "num": 253841,
+      "word": "官方回应朱雀玄武敕令改名被拒",
+      "onboard_time": 1751189600,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 253530,
       "num": 253530,
       "word": "许昕3比1徐瑛彬",
@@ -29921,6 +29977,14 @@
       "onboard_time": 1749686240,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 249838,
+      "num": 249838,
+      "word": "密室大逃脱7一开场就这么刺激",
+      "onboard_time": 1751194459,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 249666,
@@ -32971,6 +33035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 226275,
+      "num": 226275,
+      "word": "孟子义的狗巧克力又塌房了",
+      "onboard_time": 1751195841,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 226263,
       "num": 359040,
       "word": "临江仙追剧团",
@@ -33971,6 +34043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220413,
+      "num": 220413,
+      "word": "四川暴雨直接包场全国降雨前十",
+      "onboard_time": 1751193741,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 220404,
       "num": 404093,
       "word": "檀健次微博瞩目影人",
@@ -34153,14 +34233,6 @@
       "onboard_time": 1749981860,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 219498,
-      "num": 219498,
-      "word": "官方回应朱雀玄武敕令改名被拒",
-      "onboard_time": 1751189600,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 219413,
@@ -36195,6 +36267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208717,
+      "num": 208717,
+      "word": "陈哲远在泰国当上小猫咪了",
+      "onboard_time": 1751195061,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208679,
       "num": 423034,
       "word": "沈小婷男宝星球2导师",
@@ -36339,12 +36419,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 208238,
+      "num": 208238,
+      "word": "仙逆",
+      "onboard_time": 1748775200,
+      "rank": 19,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 208220,
       "num": 208220,
       "word": "延边大学食堂阿姨",
       "onboard_time": 1750690404,
       "rank": 21,
       "category": "教育"
+    },
+    {
+      "raw_hot": 208180,
+      "num": 208180,
+      "word": "Sakuya宁艺卓cha",
+      "onboard_time": 1751195181,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 208173,
@@ -39147,6 +39243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199667,
+      "num": 199667,
+      "word": "21名小学生凑钱聚餐老板自贴300元",
+      "onboard_time": 1751191341,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199661,
       "num": 199661,
       "word": "李昀锐奔跑吧澳门录制",
@@ -39851,14 +39955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 197885,
-      "num": 197885,
-      "word": "仙逆",
-      "onboard_time": 1748775200,
-      "rank": 19,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 197844,
       "num": 378337,
       "word": "西藏丁青县山体滑坡3死7失联",
@@ -39993,6 +40089,14 @@
       "onboard_time": 1749543261,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197542,
+      "num": 197542,
+      "word": "ivl",
+      "onboard_time": 1751195000,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 197525,
@@ -42656,6 +42760,14 @@
       "word": "何秋亊方称没有侵犯章昊的权益",
       "onboard_time": 1749029480,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 189885,
+      "num": 189885,
+      "word": "卜凡 出道是为了入道",
+      "onboard_time": 1751195721,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -45523,6 +45635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181823,
+      "num": 181823,
+      "word": "苏超苏州vs扬州",
+      "onboard_time": 1751195901,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181760,
       "num": 222581,
       "word": "焕羽开播",
@@ -46891,6 +47011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 176853,
+      "num": 176853,
+      "word": "JDG对战EDGM",
+      "onboard_time": 1751189901,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 176817,
       "num": 176817,
       "word": "中国短剧成美国影视失业者救命稻草",
@@ -47425,6 +47553,14 @@
       "onboard_time": 1750173982,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175134,
+      "num": 175134,
+      "word": "TF家族空降",
+      "onboard_time": 1751194581,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 175101,
@@ -48523,14 +48659,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 172080,
-      "num": 159375,
-      "word": "土耳其一网红离世时体重仅剩23公斤",
-      "onboard_time": 1751193021,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 172049,
       "num": 172049,
       "word": "年入50万低物欲的生活",
@@ -49593,14 +49721,6 @@
       "onboard_time": 1750302979,
       "rank": 45,
       "category": "网红"
-    },
-    {
-      "raw_hot": 169198,
-      "num": 169198,
-      "word": "21名小学生凑钱聚餐老板自贴300元",
-      "onboard_time": 1751191341,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 169140,
@@ -51537,6 +51657,14 @@
       "onboard_time": 1749473001,
       "rank": 9,
       "category": "国内时政,国际时政"
+    },
+    {
+      "raw_hot": 164490,
+      "num": 164490,
+      "word": "王小利是女性不结婚不会怎样的证据",
+      "onboard_time": 1751195121,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 164439,
@@ -53785,14 +53913,6 @@
       "onboard_time": 1750565543,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 158182,
-      "num": 158182,
-      "word": "JDG对战EDGM",
-      "onboard_time": 1751189901,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 158137,
@@ -59931,6 +60051,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 144044,
+      "num": 144044,
+      "word": "蔡澜晚年酒店套房生活",
+      "onboard_time": 1751195841,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144022,
       "num": 144022,
       "word": "男生熬夜打游戏突发心梗血管全堵",
@@ -60153,14 +60281,6 @@
       "onboard_time": 1750400421,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 143452,
-      "num": 345058,
-      "word": "考二本分想上一本家长被骗80多万",
-      "onboard_time": 1751193140,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 143442,
@@ -61019,6 +61139,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 141719,
+      "num": 197958,
+      "word": "朱雀玄武敕令13个月申请改名11次",
+      "onboard_time": 1751190442,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141700,
       "num": 300812,
       "word": "酱园弄悬案十八相送正片片段",
@@ -61665,6 +61793,14 @@
       "onboard_time": 1750844422,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 140283,
+      "num": 140283,
+      "word": "朕从未见过这样的张云龙",
+      "onboard_time": 1751195061,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 140259,
@@ -65539,14 +65675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 131950,
-      "num": 197958,
-      "word": "朱雀玄武敕令13个月申请改名11次",
-      "onboard_time": 1751190442,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 131948,
       "num": 221505,
       "word": "田柾国听到要减肥的反应",
@@ -65977,6 +66105,22 @@
       "onboard_time": 1750051641,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 131143,
+      "num": 131143,
+      "word": "混血男孩英语考试不及格全村人帮补习",
+      "onboard_time": 1751194160,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131139,
+      "num": 131139,
+      "word": "苏超南通叫南哥的原因找到了",
+      "onboard_time": 1751195241,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 131128,
@@ -67001,6 +67145,14 @@
       "onboard_time": 1749744262,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 129102,
+      "num": 129102,
+      "word": "小狗化疗26天找动物沟通师对话",
+      "onboard_time": 1751195360,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 129099,
@@ -68227,6 +68379,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 126646,
+      "num": 126646,
+      "word": "汪顺回复贾玲",
+      "onboard_time": 1751193320,
+      "rank": 44,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 126617,
       "num": 416265,
       "word": "中美经贸磋商在午餐后继续进行",
@@ -68425,6 +68585,14 @@
       "onboard_time": 1749291443,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126067,
+      "num": 126067,
+      "word": "来韩国最大的问题出现了",
+      "onboard_time": 1751193140,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 126065,
@@ -70097,14 +70265,6 @@
       "onboard_time": 1749737365,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 122663,
-      "num": 122663,
-      "word": "汪顺回复贾玲",
-      "onboard_time": 1751193320,
-      "rank": 44,
-      "category": "综艺,体育"
     },
     {
       "raw_hot": 122659,
@@ -77833,14 +77993,6 @@
       "onboard_time": 1749543381,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 104293,
-      "num": 104293,
-      "word": "来韩国最大的问题出现了",
-      "onboard_time": 1751193140,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 104285,
@@ -86193,14 +86345,6 @@
       "onboard_time": 1750203200,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 73205,
-      "num": 154488,
-      "word": "四川暴雨直接包场全国降雨前十",
-      "onboard_time": 1751193741,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 73203,

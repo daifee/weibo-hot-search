@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751193921735,
+  "endTime": 1751196066988,
   "band_list": [
     {
       "raw_hot": 3569605,
@@ -17,6 +17,14 @@
       "onboard_time": 1751178141,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1750532,
+      "num": 1750532,
+      "word": "鹿晗抢票",
+      "onboard_time": 1751193201,
+      "rank": 4,
+      "category": "演出"
     },
     {
       "raw_hot": 1477036,
@@ -187,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 715642,
+      "num": 715642,
+      "word": "马龙去看林俊杰演唱会了",
+      "onboard_time": 1751192600,
+      "rank": 17,
+      "category": "体育,演出"
+    },
+    {
       "raw_hot": 712760,
       "num": 712760,
       "word": "坚持跑步一个月面部的变化",
@@ -211,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 688768,
+      "num": 538233,
+      "word": "卜凡还在做道士",
+      "onboard_time": 1751194221,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 663269,
       "num": 553632,
       "word": "华晨宇一把推开粉丝聚餐的门",
@@ -219,20 +243,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 645551,
-      "num": 645551,
-      "word": "马龙去看林俊杰演唱会了",
-      "onboard_time": 1751192600,
-      "rank": 17,
-      "category": "体育,演出"
-    },
-    {
       "raw_hot": 623372,
       "num": 623372,
       "word": "杭州到北京只需半小时",
       "onboard_time": 1751160621,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 576703,
+      "num": 532369,
+      "word": "大麦bug",
+      "onboard_time": 1751195961,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 574747,
@@ -251,6 +275,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 569839,
+      "num": 488168,
+      "word": "鹿晗演唱会",
+      "onboard_time": 1751175322,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 567904,
+      "num": 488024,
+      "word": "吴沛官宣怀孕",
+      "onboard_time": 1751194340,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 537869,
       "num": 537869,
       "word": "宋茜Amber同框",
@@ -265,14 +305,6 @@
       "onboard_time": 1751155639,
       "rank": 5,
       "category": "网红"
-    },
-    {
-      "raw_hot": 528895,
-      "num": 528895,
-      "word": "鹿晗抢票",
-      "onboard_time": 1751193201,
-      "rank": 4,
-      "category": "演出"
     },
     {
       "raw_hot": 503103,
@@ -443,14 +475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 369089,
-      "num": 369089,
-      "word": "鹿晗演唱会",
-      "onboard_time": 1751175322,
-      "rank": 11,
-      "category": "演出"
-    },
-    {
       "raw_hot": 366427,
       "num": 366427,
       "word": "俄罗斯一海岸出现4吨鲱鱼",
@@ -473,6 +497,14 @@
       "onboard_time": 1751175621,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 356715,
+      "num": 488344,
+      "word": "考二本分想上一本家长被骗80多万",
+      "onboard_time": 1751193140,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 353558,
@@ -675,6 +707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 275320,
+      "num": 275320,
+      "word": "EDGM战胜JDG",
+      "onboard_time": 1751195901,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 271446,
       "num": 271446,
       "word": "小猫被主人亲完后装死",
@@ -689,6 +729,14 @@
       "onboard_time": 1751184141,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 269065,
+      "num": 269065,
+      "word": "土耳其一网红离世时体重仅剩23公斤",
+      "onboard_time": 1751193021,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 267583,
@@ -731,6 +779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 253841,
+      "num": 253841,
+      "word": "官方回应朱雀玄武敕令改名被拒",
+      "onboard_time": 1751189600,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 251397,
       "num": 185332,
       "word": "杨蒙恩刘培钰婚礼",
@@ -745,6 +801,14 @@
       "onboard_time": 1751127742,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 249838,
+      "num": 249838,
+      "word": "密室大逃脱7一开场就这么刺激",
+      "onboard_time": 1751194459,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 243615,
@@ -811,6 +875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226275,
+      "num": 226275,
+      "word": "孟子义的狗巧克力又塌房了",
+      "onboard_time": 1751195841,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224383,
       "num": 185128,
       "word": "黄子韬真把call me写成歌了",
@@ -827,20 +899,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 220413,
+      "num": 220413,
+      "word": "四川暴雨直接包场全国降雨前十",
+      "onboard_time": 1751193741,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 219522,
       "num": 219522,
       "word": "第五人格",
       "onboard_time": 1751171603,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 219498,
-      "num": 219498,
-      "word": "官方回应朱雀玄武敕令改名被拒",
-      "onboard_time": 1751189600,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 219410,
@@ -883,12 +955,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 208717,
+      "num": 208717,
+      "word": "陈哲远在泰国当上小猫咪了",
+      "onboard_time": 1751195061,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208711,
       "num": 175726,
       "word": "黄子韬徐艺洋看鹿晗演唱会",
       "onboard_time": 1751173642,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 208238,
+      "num": 208238,
+      "word": "仙逆",
+      "onboard_time": 1751193801,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 208180,
+      "num": 208180,
+      "word": "Sakuya宁艺卓cha",
+      "onboard_time": 1751195181,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 207522,
@@ -939,12 +1035,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199667,
+      "num": 199667,
+      "word": "21名小学生凑钱聚餐老板自贴300元",
+      "onboard_time": 1751191341,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198491,
       "num": 178637,
       "word": "杨紫李现新剧逢场作戏情愫悄生",
       "onboard_time": 1751168661,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197542,
+      "num": 197542,
+      "word": "ivl",
+      "onboard_time": 1751195000,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 195597,
@@ -1051,6 +1163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189885,
+      "num": 189885,
+      "word": "卜凡 出道是为了入道",
+      "onboard_time": 1751195721,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188790,
       "num": 188790,
       "word": "特朗普称加拿大非常恶劣",
@@ -1107,12 +1227,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 181823,
+      "num": 181823,
+      "word": "苏超苏州vs扬州",
+      "onboard_time": 1751195901,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181259,
       "num": 181259,
       "word": "姜云升 王翊衡",
       "onboard_time": 1751181320,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 176853,
+      "num": 176853,
+      "word": "JDG对战EDGM",
+      "onboard_time": 1751189901,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 176030,
@@ -1139,6 +1275,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 175134,
+      "num": 175134,
+      "word": "TF家族空降",
+      "onboard_time": 1751194581,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 174825,
       "num": 174825,
       "word": "老炸当爱豆的样子好顺眼",
@@ -1163,6 +1307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174188,
+      "num": 174188,
+      "word": "第五人格赛事",
+      "onboard_time": 1751192300,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 172738,
       "num": 172738,
       "word": "姜云升怼新说唱",
@@ -1179,14 +1331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 172080,
-      "num": 159375,
-      "word": "土耳其一网红离世时体重仅剩23公斤",
-      "onboard_time": 1751193021,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 171962,
       "num": 171962,
       "word": "重庆2岁幼童20楼坠落奇迹生还",
@@ -1201,14 +1345,6 @@
       "onboard_time": 1751180602,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 169198,
-      "num": 169198,
-      "word": "21名小学生凑钱聚餐老板自贴300元",
-      "onboard_time": 1751191341,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 167663,
@@ -1249,6 +1385,14 @@
       "onboard_time": 1751160079,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 164490,
+      "num": 164490,
+      "word": "王小利是女性不结婚不会怎样的证据",
+      "onboard_time": 1751195121,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 164305,
@@ -1297,14 +1441,6 @@
       "onboard_time": 1751124744,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 158182,
-      "num": 158182,
-      "word": "JDG对战EDGM",
-      "onboard_time": 1751189901,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 157835,
@@ -1401,14 +1537,6 @@
       "onboard_time": 1751175802,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 152785,
-      "num": 155584,
-      "word": "第五人格赛事",
-      "onboard_time": 1751192300,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 152293,
@@ -1523,6 +1651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147341,
+      "num": 147341,
+      "word": "心疼清融",
+      "onboard_time": 1751195841,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 146247,
       "num": 146247,
       "word": "刘诗诗感谢大家的支持与鼓励",
@@ -1539,12 +1675,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 143452,
-      "num": 345058,
-      "word": "考二本分想上一本家长被骗80多万",
-      "onboard_time": 1751193140,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 144044,
+      "num": 144044,
+      "word": "蔡澜晚年酒店套房生活",
+      "onboard_time": 1751195841,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 142893,
@@ -1571,6 +1707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141719,
+      "num": 197958,
+      "word": "朱雀玄武敕令13个月申请改名11次",
+      "onboard_time": 1751190442,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141647,
       "num": 141647,
       "word": "卓沅说百香果终于结果了",
@@ -1585,6 +1729,14 @@
       "onboard_time": 1751093541,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 140283,
+      "num": 140283,
+      "word": "朕从未见过这样的张云龙",
+      "onboard_time": 1751195061,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 138978,
@@ -1715,14 +1867,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 131950,
-      "num": 197958,
-      "word": "朱雀玄武敕令13个月申请改名11次",
-      "onboard_time": 1751190442,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 131473,
       "num": 131473,
       "word": "BLG晋级MSI淘汰赛",
@@ -1731,12 +1875,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 131049,
-      "num": 131049,
-      "word": "仙逆",
-      "onboard_time": 1751193801,
-      "rank": 43,
-      "category": "动漫"
+      "raw_hot": 131143,
+      "num": 131143,
+      "word": "混血男孩英语考试不及格全村人帮补习",
+      "onboard_time": 1751194160,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131139,
+      "num": 131139,
+      "word": "苏超南通叫南哥的原因找到了",
+      "onboard_time": 1751195241,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 130569,
@@ -1811,6 +1963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 129102,
+      "num": 129102,
+      "word": "小狗化疗26天找动物沟通师对话",
+      "onboard_time": 1751195360,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 128852,
       "num": 154917,
       "word": "明天是2025上半年最后1天",
@@ -1867,12 +2027,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126646,
+      "num": 126646,
+      "word": "汪顺回复贾玲",
+      "onboard_time": 1751193320,
+      "rank": 44,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 126241,
       "num": 126241,
       "word": "10名员工租用3937平米办公用房",
       "onboard_time": 1751179100,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126067,
+      "num": 126067,
+      "word": "来韩国最大的问题出现了",
+      "onboard_time": 1751193140,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 125881,
@@ -1889,14 +2065,6 @@
       "onboard_time": 1751169802,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 122663,
-      "num": 122663,
-      "word": "汪顺回复贾玲",
-      "onboard_time": 1751193320,
-      "rank": 44,
-      "category": "综艺,体育"
     },
     {
       "raw_hot": 121369,
@@ -2251,14 +2419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 104293,
-      "num": 104293,
-      "word": "来韩国最大的问题出现了",
-      "onboard_time": 1751193140,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 104008,
       "num": 104008,
       "word": "王楚钦孙颖莎中国健儿超燃时刻",
@@ -2481,14 +2641,6 @@
       "onboard_time": 1751122645,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 73205,
-      "num": 154488,
-      "word": "四川暴雨直接包场全国降雨前十",
-      "onboard_time": 1751193741,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 73046,
