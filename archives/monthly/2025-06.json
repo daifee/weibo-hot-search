@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1751201360807,
+  "endTime": 1751202246671,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -6235,6 +6235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 874708,
+      "num": 430362,
+      "word": "吴磊妈妈气场",
+      "onboard_time": 1751198602,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 874205,
       "num": 874205,
       "word": "苏超无锡vs常州",
@@ -6927,14 +6935,6 @@
       "num": 318124,
       "word": "前男友删除与韦雪有关视频",
       "onboard_time": 1750050083,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 818784,
-      "num": 430362,
-      "word": "吴磊妈妈气场",
-      "onboard_time": 1751198602,
       "rank": 10,
       "category": "艺人"
     },
@@ -7988,7 +7988,7 @@
     },
     {
       "raw_hot": 752008,
-      "num": 553172,
+      "num": 644454,
       "word": "日本人到老挝嫖宿幼女",
       "onboard_time": 1751189481,
       "rank": 14,
@@ -9075,6 +9075,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 696006,
+      "num": 423439,
+      "word": "林俊杰嘉宾张艺兴",
+      "onboard_time": 1751201001,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 695123,
       "num": 302525,
       "word": "网红问黄子韬离婚是有意还是无心",
@@ -9169,6 +9177,14 @@
       "onboard_time": 1750304121,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 692274,
+      "num": 599442,
+      "word": "准新娘花1万2注射丰唇变歪嘴",
+      "onboard_time": 1751197100,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 692184,
@@ -10500,7 +10516,7 @@
     },
     {
       "raw_hot": 630953,
-      "num": 451613,
+      "num": 586456,
       "word": "TF四代舞台投票",
       "onboard_time": 1751198902,
       "rank": 6,
@@ -10652,7 +10668,7 @@
     },
     {
       "raw_hot": 623924,
-      "num": 451350,
+      "num": 551020,
       "word": "蔡澜晚年酒店套房生活",
       "onboard_time": 1751195841,
       "rank": 41,
@@ -13345,6 +13361,14 @@
       "onboard_time": 1749800002,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 528227,
+      "num": 414808,
+      "word": "柳俊烈丑谈我真的笑不行了",
+      "onboard_time": 1751200641,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 528100,
@@ -16323,20 +16347,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 449950,
-      "num": 449950,
-      "word": "准新娘花1万2注射丰唇变歪嘴",
-      "onboard_time": 1751197100,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 449909,
       "num": 449909,
       "word": "以色列女子哭着说新房子被炸了",
       "onboard_time": 1749868340,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 449777,
+      "num": 449777,
+      "word": "苏超苏州vs扬州",
+      "onboard_time": 1751195901,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 449674,
@@ -18835,6 +18859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 395423,
+      "num": 395423,
+      "word": "特朗普开会时突然夸奖非洲记者漂亮",
+      "onboard_time": 1751200941,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 395143,
       "num": 531547,
       "word": "奶茶冰块 脏",
@@ -18921,6 +18953,14 @@
       "onboard_time": 1748698102,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 393999,
+      "num": 393999,
+      "word": "挪威王储继子性侵案受害人达两位数",
+      "onboard_time": 1751200401,
+      "rank": 25,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 393897,
@@ -19361,6 +19401,14 @@
       "onboard_time": 1750809502,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 384971,
+      "num": 384971,
+      "word": "苏超",
+      "onboard_time": 1748829022,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 384963,
@@ -21081,14 +21129,6 @@
       "onboard_time": 1748877861,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 354950,
-      "num": 354950,
-      "word": "苏超苏州vs扬州",
-      "onboard_time": 1751195901,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 354899,
@@ -24891,14 +24931,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 301150,
-      "num": 301150,
-      "word": "苏超",
-      "onboard_time": 1748829022,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 301129,
       "num": 301129,
       "word": "杨幂主演票房破80亿",
@@ -25299,6 +25331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 296103,
+      "num": 296103,
+      "word": "南通vs宿迁",
+      "onboard_time": 1751199561,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 295966,
       "num": 295966,
       "word": "许嵩玫瑰花的葬礼全损音质",
@@ -25401,14 +25441,6 @@
       "onboard_time": 1749312084,
       "rank": 25,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 295184,
-      "num": 295184,
-      "word": "林俊杰嘉宾张艺兴",
-      "onboard_time": 1751201001,
-      "rank": 22,
-      "category": "演出"
     },
     {
       "raw_hot": 295141,
@@ -25576,6 +25608,14 @@
       "word": "北大退学考清华男生否认拿高考赚钱",
       "onboard_time": 1750413741,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 293692,
+      "num": 293692,
+      "word": "女子车上发现人脸蜘蛛",
+      "onboard_time": 1751196739,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -26259,14 +26299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 285476,
-      "num": 285476,
-      "word": "女子车上发现人脸蜘蛛",
-      "onboard_time": 1751196739,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 285474,
       "num": 387092,
       "word": "醉驾撞死3人案家属称死者最大才20岁",
@@ -26579,6 +26611,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 282873,
+      "num": 282873,
+      "word": "TFBOYS十年保密协议到期",
+      "onboard_time": 1751201722,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 282772,
       "num": 282772,
       "word": "樊振东凭一己之力让二队罚跑10000米",
@@ -26779,14 +26819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 280637,
-      "num": 280637,
-      "word": "挪威王储继子性侵案受害人达两位数",
-      "onboard_time": 1751200401,
-      "rank": 25,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 280535,
       "num": 280535,
       "word": "敖瑞鹏嚼嚼嚼嚼嚼嚼嚼嚼嚼",
@@ -26859,14 +26891,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 279880,
-      "num": 279880,
-      "word": "柳俊烈丑谈我真的笑不行了",
-      "onboard_time": 1751200641,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 279876,
       "num": 391849,
       "word": "宋茜LV大秀红毯造型",
@@ -26924,7 +26948,7 @@
     },
     {
       "raw_hot": 279137,
-      "num": 363265,
+      "num": 387272,
       "word": "王源演唱会都不白来",
       "onboard_time": 1751200700,
       "rank": 17,
@@ -31747,14 +31771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 235431,
-      "num": 235431,
-      "word": "南通vs宿迁",
-      "onboard_time": 1751199561,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 235378,
       "num": 235378,
       "word": "王欣瑜破发万卓索娃",
@@ -32041,6 +32057,14 @@
       "onboard_time": 1749903263,
       "rank": 26,
       "category": "幽默,作品衍生"
+    },
+    {
+      "raw_hot": 233694,
+      "num": 233694,
+      "word": "泰州vs徐州",
+      "onboard_time": 1751199802,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 233638,
@@ -32633,14 +32657,6 @@
       "onboard_time": 1750835242,
       "rank": 17,
       "category": "教育"
-    },
-    {
-      "raw_hot": 229691,
-      "num": 229691,
-      "word": "泰州vs徐州",
-      "onboard_time": 1751199802,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 229620,
@@ -33361,6 +33377,14 @@
       "onboard_time": 1749801322,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 225075,
+      "num": 225075,
+      "word": "AG对战DRG",
+      "onboard_time": 1751201603,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 225005,
@@ -38177,6 +38201,14 @@
       "onboard_time": 1751124323,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 202985,
+      "num": 378210,
+      "word": "多方回应女子举报前公婆资产近亿",
+      "onboard_time": 1751200342,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 202977,
@@ -46459,6 +46491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 179313,
+      "num": 179313,
+      "word": "以法之名 好看",
+      "onboard_time": 1751201962,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179290,
       "num": 264677,
       "word": "F1",
@@ -46841,6 +46881,14 @@
       "onboard_time": 1749189861,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178012,
+      "num": 178012,
+      "word": "黑救护车转院途中32岁女患者死亡",
+      "onboard_time": 1751200102,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177985,
@@ -47801,14 +47849,6 @@
       "onboard_time": 1749094101,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 174782,
-      "num": 174782,
-      "word": "黑救护车转院途中32岁女患者死亡",
-      "onboard_time": 1751200102,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 174746,
@@ -49721,6 +49761,14 @@
       "onboard_time": 1749825746,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 169518,
+      "num": 385766,
+      "word": "零跑B01超长长长650km长续航",
+      "onboard_time": 1751200941,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 169510,
@@ -54883,14 +54931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 156225,
-      "num": 365953,
-      "word": "零跑B01超长长长650km长续航",
-      "onboard_time": 1751200941,
-      "rank": 16,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 156208,
       "num": 156208,
       "word": "阴阳师",
@@ -55296,6 +55336,14 @@
       "word": "藏海传研讨会repo",
       "onboard_time": 1749735623,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 155235,
+      "num": 155235,
+      "word": "洪亮李人骏要打回家打",
+      "onboard_time": 1751201121,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -57876,7 +57924,7 @@
     },
     {
       "raw_hot": 148869,
-      "num": 148869,
+      "num": 227960,
       "word": "央视曝光手机盗刷信用卡新套路",
       "onboard_time": 1751197521,
       "rank": 36,
@@ -61561,6 +61609,14 @@
       "onboard_time": 1748933481,
       "rank": 32,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 141132,
+      "num": 141132,
+      "word": "Gr对战FPX.ZQ",
+      "onboard_time": 1751201121,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 141113,
@@ -67115,14 +67171,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 129474,
-      "num": 129474,
-      "word": "洪亮李人骏要打回家打",
-      "onboard_time": 1751201121,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 129462,
       "num": 129462,
       "word": "钟欣潼周扬青吴艳妮聚餐",
@@ -70603,14 +70651,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 122335,
-      "num": 122335,
-      "word": "Gr对战FPX.ZQ",
-      "onboard_time": 1751201121,
-      "rank": 44,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 122320,
       "num": 122320,
       "word": "甘薇称将赴美国看贾跃亭",
@@ -71251,6 +71291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120932,
+      "num": 120932,
+      "word": "大麦 优先购",
+      "onboard_time": 1751199622,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 120926,
       "num": 129436,
       "word": "暑期电视剧一波又一波",
@@ -71793,14 +71841,6 @@
       "onboard_time": 1751184982,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 119673,
-      "num": 356533,
-      "word": "特朗普开会时突然夸奖非洲记者漂亮",
-      "onboard_time": 1751200941,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 119651,
@@ -75353,6 +75393,14 @@
       "onboard_time": 1750078641,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111809,
+      "num": 430429,
+      "word": "刚退伍的00后军人榕江一线清淤",
+      "onboard_time": 1751200884,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111799,
@@ -80243,6 +80291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98109,
+      "num": 207658,
+      "word": "经常久坐的人多拍拍屁股",
+      "onboard_time": 1751196080,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 98095,
       "num": 98095,
       "word": "在满屏高分中那些遗憾也需要被看见",
@@ -82435,14 +82491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 90408,
-      "num": 378210,
-      "word": "多方回应女子举报前公婆资产近亿",
-      "onboard_time": 1751200342,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 90386,
       "num": 184585,
       "word": "内娱三大顶流姐夫小舅子",
@@ -83417,6 +83465,14 @@
       "onboard_time": 1749641423,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 86417,
+      "num": 184442,
+      "word": "校方回应保安将大量外卖扔入垃圾桶",
+      "onboard_time": 1751202142,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86383,
@@ -86313,14 +86369,6 @@
       "onboard_time": 1748941041,
       "rank": 16,
       "category": "网红"
-    },
-    {
-      "raw_hot": 74248,
-      "num": 430429,
-      "word": "刚退伍的00后军人榕江一线清淤",
-      "onboard_time": 1751200884,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 74237,
@@ -96019,6 +96067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38657,
+      "num": 360306,
+      "word": "陌生人小跑推轮椅女孩冲刺看升旗",
+      "onboard_time": 1751200941,
+      "rank": 18,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 38654,
       "num": 284726,
       "word": "五角大楼或在疯狂加班中",
@@ -98721,6 +98777,14 @@
       "onboard_time": 1749587414,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 31385,
+      "num": 225628,
+      "word": "河南男子带6000份烩面连夜驰援榕江",
+      "onboard_time": 1751202142,
+      "rank": 30,
+      "category": "正能量"
     },
     {
       "raw_hot": 31338,
@@ -104409,14 +104473,6 @@
       "onboard_time": 1750494562,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16648,
-      "num": 360306,
-      "word": "陌生人小跑推轮椅女孩冲刺看升旗",
-      "onboard_time": 1751200941,
-      "rank": 18,
-      "category": "正能量"
     },
     {
       "raw_hot": 16608,

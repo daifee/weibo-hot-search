@@ -1,0 +1,410 @@
+{
+  "runTime": 1751202246671,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 797305,
+        "num": 1127568,
+        "word": "大麦bug",
+        "onboard_time": 1751195961,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 644454,
+        "num": 644454,
+        "word": "日本人到老挝嫖宿幼女",
+        "onboard_time": 1751189481,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 46804,
+        "num": 600277,
+        "word": "夜间经济点燃夏日文旅新引擎",
+        "onboard_time": 1751191220,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 692274,
+        "num": 599442,
+        "word": "准新娘花1万2注射丰唇变歪嘴",
+        "onboard_time": 1751197100,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 586456,
+        "num": 586456,
+        "word": "TF四代舞台投票",
+        "onboard_time": 1751198902,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 964326,
+        "num": 571924,
+        "word": "单身税",
+        "onboard_time": 1751183842,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 551020,
+        "num": 551020,
+        "word": "蔡澜晚年酒店套房生活",
+        "onboard_time": 1751195841,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 449777,
+        "num": 449777,
+        "word": "苏超苏州vs扬州",
+        "onboard_time": 1751195901,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 438156,
+        "num": 438156,
+        "word": "微信最不能出现的功能 消息已读",
+        "onboard_time": 1751177843,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 298788,
+        "num": 436285,
+        "word": "考二本分想上一本家长被骗80多万",
+        "onboard_time": 1751193140,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 874708,
+        "num": 427971,
+        "word": "吴磊妈妈气场",
+        "onboard_time": 1751198602,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 696006,
+        "num": 423439,
+        "word": "林俊杰嘉宾张艺兴",
+        "onboard_time": 1751201001,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 530102,
+        "num": 417520,
+        "word": "卜凡 出道是为了入道",
+        "onboard_time": 1751195721,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 528227,
+        "num": 414808,
+        "word": "柳俊烈丑谈我真的笑不行了",
+        "onboard_time": 1751200641,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409245,
+        "num": 409245,
+        "word": "孟子义的狗巧克力又塌房了",
+        "onboard_time": 1751195841,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397121,
+        "num": 397121,
+        "word": "鹿晗抢票",
+        "onboard_time": 1751193201,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 395423,
+        "num": 395423,
+        "word": "特朗普开会时突然夸奖非洲记者漂亮",
+        "onboard_time": 1751200941,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 393999,
+        "num": 393999,
+        "word": "挪威王储继子性侵案受害人达两位数",
+        "onboard_time": 1751200401,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 214054,
+        "num": 387272,
+        "word": "王源演唱会都不白来",
+        "onboard_time": 1751200700,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 169518,
+        "num": 385766,
+        "word": "零跑B01超长长长650km长续航",
+        "onboard_time": 1751200941,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 384971,
+        "num": 384971,
+        "word": "苏超",
+        "onboard_time": 1751200222,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 378774,
+        "num": 378774,
+        "word": "流量男星侧脸",
+        "onboard_time": 1751196143,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296103,
+        "num": 296103,
+        "word": "南通vs宿迁",
+        "onboard_time": 1751199561,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 293692,
+        "num": 293692,
+        "word": "女子车上发现人脸蜘蛛",
+        "onboard_time": 1751196739,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282873,
+        "num": 282873,
+        "word": "TFBOYS十年保密协议到期",
+        "onboard_time": 1751201722,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240151,
+        "num": 240151,
+        "word": "16岁学生和父亲争吵后手变鸡爪",
+        "onboard_time": 1751199561,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202985,
+        "num": 235029,
+        "word": "多方回应女子举报前公婆资产近亿",
+        "onboard_time": 1751200342,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111809,
+        "num": 234168,
+        "word": "刚退伍的00后军人榕江一线清淤",
+        "onboard_time": 1751200884,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233694,
+        "num": 233694,
+        "word": "泰州vs徐州",
+        "onboard_time": 1751199802,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129208,
+        "num": 227960,
+        "word": "央视曝光手机盗刷信用卡新套路",
+        "onboard_time": 1751197521,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31385,
+        "num": 225628,
+        "word": "河南男子带6000份烩面连夜驰援榕江",
+        "onboard_time": 1751202142,
+        "rank": 30,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 225075,
+        "num": 225075,
+        "word": "AG对战DRG",
+        "onboard_time": 1751201603,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 216542,
+        "num": 216542,
+        "word": "罗马仕 你都用回本了",
+        "onboard_time": 1751178141,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98109,
+        "num": 207658,
+        "word": "经常久坐的人多拍拍屁股",
+        "onboard_time": 1751196080,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 38657,
+        "num": 205293,
+        "word": "陌生人小跑推轮椅女孩冲刺看升旗",
+        "onboard_time": 1751200941,
+        "rank": 34,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 204552,
+        "num": 204552,
+        "word": "王源 小小孩",
+        "onboard_time": 1751201302,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 86417,
+        "num": 184442,
+        "word": "校方回应保安将大量外卖扔入垃圾桶",
+        "onboard_time": 1751202142,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179313,
+        "num": 179313,
+        "word": "以法之名 好看",
+        "onboard_time": 1751201962,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178012,
+        "num": 178012,
+        "word": "黑救护车转院途中32岁女患者死亡",
+        "onboard_time": 1751200102,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158180,
+        "num": 158180,
+        "word": "邓超 鹿晗",
+        "onboard_time": 1751169980,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155235,
+        "num": 155235,
+        "word": "洪亮李人骏要打回家打",
+        "onboard_time": 1751201121,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141132,
+        "num": 141132,
+        "word": "Gr对战FPX.ZQ",
+        "onboard_time": 1751201121,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 145517,
+        "num": 140228,
+        "word": "人是真的坏钱是真的给",
+        "onboard_time": 1751200819,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135002,
+        "num": 135002,
+        "word": "密室大逃脱7一开场就这么刺激",
+        "onboard_time": 1751194459,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133418,
+        "num": 133418,
+        "word": "男星为健康从220斤暴瘦到有腹肌",
+        "onboard_time": 1751200761,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133352,
+        "num": 133352,
+        "word": "卜凡还在做道士",
+        "onboard_time": 1751194221,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126124,
+        "num": 126124,
+        "word": "杨紫淡妆浓抹总相宜",
+        "onboard_time": 1751198181,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120932,
+        "num": 120932,
+        "word": "大麦 优先购",
+        "onboard_time": 1751199622,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120299,
+        "num": 120299,
+        "word": "曾经上铺的兄弟现在对立的仇敌",
+        "onboard_time": 1751201001,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119311,
+        "num": 119311,
+        "word": "无畏太乙",
+        "onboard_time": 1751192300,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平回信勉励嘎拉村全体村民#"
+    }
+  }
+}
