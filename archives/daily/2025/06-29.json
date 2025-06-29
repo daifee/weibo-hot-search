@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751202246671,
+  "endTime": 1751204006846,
   "band_list": [
     {
       "raw_hot": 3569605,
@@ -91,6 +91,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1197329,
+      "num": 1197329,
+      "word": "TFBOYS十年保密协议到期",
+      "onboard_time": 1751201722,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1140350,
       "num": 405020,
       "word": "鞠婧祎小号",
@@ -139,6 +147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 904673,
+      "num": 462228,
+      "word": "吴磊妈妈气场",
+      "onboard_time": 1751198602,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 880345,
       "num": 880345,
       "word": "红色榴莲",
@@ -147,12 +163,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 874708,
-      "num": 430362,
-      "word": "吴磊妈妈气场",
-      "onboard_time": 1751198602,
-      "rank": 10,
-      "category": "艺人"
+      "raw_hot": 806611,
+      "num": 806611,
+      "word": "挪威王储继子性侵案受害人达两位数",
+      "onboard_time": 1751200401,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 793157,
+      "num": 793157,
+      "word": "准新娘花1万2注射丰唇变歪嘴",
+      "onboard_time": 1751197100,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 792789,
@@ -235,27 +259,19 @@
       "category": "演出"
     },
     {
-      "raw_hot": 698498,
-      "num": 698498,
-      "word": "女孩做黑医美一针晕厥全身发黑",
-      "onboard_time": 1751175202,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 696006,
-      "num": 423439,
+      "raw_hot": 701127,
+      "num": 701127,
       "word": "林俊杰嘉宾张艺兴",
       "onboard_time": 1751201001,
       "rank": 22,
       "category": "演出"
     },
     {
-      "raw_hot": 692274,
-      "num": 599442,
-      "word": "准新娘花1万2注射丰唇变歪嘴",
-      "onboard_time": 1751197100,
-      "rank": 8,
+      "raw_hot": 698498,
+      "num": 698498,
+      "word": "女孩做黑医美一针晕厥全身发黑",
+      "onboard_time": 1751175202,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -272,6 +288,14 @@
       "word": "华晨宇一把推开粉丝聚餐的门",
       "onboard_time": 1751174782,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 661836,
+      "num": 458183,
+      "word": "柳俊烈丑谈我真的笑不行了",
+      "onboard_time": 1751200641,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -315,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 597792,
+      "num": 597792,
+      "word": "特朗普开会时突然夸奖非洲记者漂亮",
+      "onboard_time": 1751200941,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 574747,
       "num": 574747,
       "word": "李昀锐助理看起来命很苦",
@@ -353,14 +385,6 @@
       "onboard_time": 1751155639,
       "rank": 5,
       "category": "网红"
-    },
-    {
-      "raw_hot": 528227,
-      "num": 414808,
-      "word": "柳俊烈丑谈我真的笑不行了",
-      "onboard_time": 1751200641,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 503103,
@@ -416,6 +440,14 @@
       "word": "苏超苏州vs扬州",
       "onboard_time": 1751195901,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 447502,
+      "num": 447502,
+      "word": "苏超",
+      "onboard_time": 1751200222,
+      "rank": 21,
       "category": "体育"
     },
     {
@@ -515,22 +547,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 395423,
-      "num": 395423,
-      "word": "特朗普开会时突然夸奖非洲记者漂亮",
-      "onboard_time": 1751200941,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 393999,
-      "num": 393999,
-      "word": "挪威王储继子性侵案受害人达两位数",
-      "onboard_time": 1751200401,
-      "rank": 25,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 386035,
       "num": 386035,
       "word": "书卷一梦1集41分55秒",
@@ -545,14 +561,6 @@
       "onboard_time": 1751122284,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 384971,
-      "num": 384971,
-      "word": "苏超",
-      "onboard_time": 1751200222,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 380365,
@@ -611,12 +619,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 363108,
+      "num": 363108,
+      "word": "印度三男子强奸法学院女生被拘4天",
+      "onboard_time": 1751202384,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 360465,
+      "num": 360465,
+      "word": "以法之名 好看",
+      "onboard_time": 1751201962,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 353558,
       "num": 353558,
       "word": "成都暴雨",
       "onboard_time": 1751155578,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 344457,
+      "num": 344457,
+      "word": "南通vs宿迁",
+      "onboard_time": 1751199561,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 343270,
@@ -779,14 +811,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 296103,
-      "num": 296103,
-      "word": "南通vs宿迁",
-      "onboard_time": 1751199561,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 295667,
       "num": 295667,
       "word": "合肥地震",
@@ -835,14 +859,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 282873,
-      "num": 282873,
-      "word": "TFBOYS十年保密协议到期",
-      "onboard_time": 1751201722,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 279137,
       "num": 387272,
       "word": "王源演唱会都不白来",
@@ -875,6 +891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 269321,
+      "num": 269321,
+      "word": "卢昱晓 红毯公主",
+      "onboard_time": 1751202802,
+      "rank": 26,
+      "category": "演出,时尚"
+    },
+    {
       "raw_hot": 269065,
       "num": 269065,
       "word": "土耳其一网红离世时体重仅剩23公斤",
@@ -899,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259907,
+      "num": 220111,
+      "word": "让小腿越来越粗的3种鞋",
+      "onboard_time": 1751203223,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 258755,
       "num": 254167,
       "word": "踩死蟑螂真的可能生出很多小蟑螂",
@@ -912,6 +944,14 @@
       "word": "樊振东参加波尔退役仪式",
       "onboard_time": 1751187022,
       "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 256554,
+      "num": 256554,
+      "word": "泰州vs徐州",
+      "onboard_time": 1751199802,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -995,14 +1035,6 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 233694,
-      "num": 233694,
-      "word": "泰州vs徐州",
-      "onboard_time": 1751199802,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 231903,
       "num": 186045,
       "word": "沈月刘亦菲美女果然爱看美女",
@@ -1049,6 +1081,14 @@
       "onboard_time": 1751122584,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 220415,
+      "num": 220415,
+      "word": "一年瘦了30斤的面部变化",
+      "onboard_time": 1751203284,
+      "rank": 29,
+      "category": "运动健身"
     },
     {
       "raw_hot": 220413,
@@ -1259,6 +1299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 195010,
+      "num": 195010,
+      "word": "苏超苏州3比0扬州",
+      "onboard_time": 1751202563,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194916,
       "num": 194916,
       "word": "樊振东祝福波尔",
@@ -1355,12 +1403,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 188641,
+      "num": 363720,
+      "word": "以色列再爆发大规模抗议",
+      "onboard_time": 1751203163,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 186613,
       "num": 186613,
       "word": "罗马仕",
       "onboard_time": 1751181801,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 185367,
+      "num": 185367,
+      "word": "刘宇宁一冲冲出个人生镜头",
+      "onboard_time": 1751203284,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 184370,
@@ -1401,14 +1465,6 @@
       "onboard_time": 1751181320,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 179313,
-      "num": 179313,
-      "word": "以法之名 好看",
-      "onboard_time": 1751201962,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 178012,
@@ -1555,6 +1611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166886,
+      "num": 166886,
+      "word": "苏超惊现世界级倒钩进球",
+      "onboard_time": 1751203044,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166174,
       "num": 166174,
       "word": "金曲奖",
@@ -1641,6 +1705,14 @@
       "onboard_time": 1751189661,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157694,
+      "num": 157694,
+      "word": "爱豆有人下海有人上山",
+      "onboard_time": 1751203584,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 157672,
@@ -1747,12 +1819,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152935,
+      "num": 152935,
+      "word": "诡秘国产动画IMDb开分第一",
+      "onboard_time": 1751203044,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 152293,
       "num": 152293,
       "word": "林俊杰演唱会",
       "onboard_time": 1751193440,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 151788,
+      "num": 182130,
+      "word": "波尔回应樊振东祝福",
+      "onboard_time": 1751203823,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 151297,
@@ -1825,6 +1913,14 @@
       "onboard_time": 1751169740,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 148954,
+      "num": 148954,
+      "word": "一诺敖隐龙王级别",
+      "onboard_time": 1751202623,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 148869,
@@ -1955,6 +2051,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 138325,
+      "num": 138325,
+      "word": "WBG香港邀请赛夺冠",
+      "onboard_time": 1751203223,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 137864,
       "num": 218858,
       "word": "多平台紧急下架3C贴纸售卖帖",
@@ -1987,6 +2091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 137176,
+      "num": 137176,
+      "word": "男主小三的身份正宫的做派",
+      "onboard_time": 1751203762,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137117,
       "num": 137117,
       "word": "金曲奖年度歌曲 星期五晚上",
@@ -2000,6 +2112,14 @@
       "word": "万茜晒与宋佳合照",
       "onboard_time": 1751182821,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 136201,
+      "num": 136201,
+      "word": "铭恒",
+      "onboard_time": 1751202623,
+      "rank": 47,
       "category": "艺人"
     },
     {
@@ -2297,6 +2417,14 @@
       "onboard_time": 1751169802,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 124313,
+      "num": 134976,
+      "word": "PEL",
+      "onboard_time": 1751203223,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 121369,
@@ -2931,6 +3059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75598,
+      "num": 154444,
+      "word": "充电宝怎么了",
+      "onboard_time": 1751203823,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74040,
       "num": 139886,
       "word": "2025香港邀请赛终局之战",
@@ -3051,6 +3187,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 56916,
+      "num": 153451,
+      "word": "挪威王储继子否认性侵和暴力行为",
+      "onboard_time": 1751203463,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 54390,
       "num": 54390,
       "word": "种甘蓝硬如铅球农户傻眼",
@@ -3068,7 +3212,7 @@
     },
     {
       "raw_hot": 52524,
-      "num": 651225,
+      "num": 797998,
       "word": "夜间经济点燃夏日文旅新引擎",
       "onboard_time": 1751191220,
       "rank": 2,
@@ -3113,6 +3257,14 @@
       "onboard_time": 1751129540,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 46802,
+      "num": 447018,
+      "word": "巴黎警车在被淹街道播放我心永恒",
+      "onboard_time": 1751202681,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 45825,

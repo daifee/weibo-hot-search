@@ -1,0 +1,410 @@
+{
+  "runTime": 1751204006846,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1197329,
+        "num": 1197329,
+        "word": "TFBOYS十年保密协议到期",
+        "onboard_time": 1751201722,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 806611,
+        "num": 806611,
+        "word": "挪威王储继子性侵案受害人达两位数",
+        "onboard_time": 1751200401,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 41086,
+        "num": 797998,
+        "word": "夜间经济点燃夏日文旅新引擎",
+        "onboard_time": 1751191220,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 793157,
+        "num": 793157,
+        "word": "准新娘花1万2注射丰唇变歪嘴",
+        "onboard_time": 1751197100,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 701127,
+        "num": 701127,
+        "word": "林俊杰嘉宾张艺兴",
+        "onboard_time": 1751201001,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1074136,
+        "num": 660591,
+        "word": "单身税",
+        "onboard_time": 1751183842,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 597792,
+        "num": 597792,
+        "word": "特朗普开会时突然夸奖非洲记者漂亮",
+        "onboard_time": 1751200941,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 557272,
+        "num": 557272,
+        "word": "大麦bug",
+        "onboard_time": 1751195961,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 504513,
+        "num": 504513,
+        "word": "日本人到老挝嫖宿幼女",
+        "onboard_time": 1751189481,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 184297,
+        "num": 463551,
+        "word": "考二本分想上一本家长被骗80多万",
+        "onboard_time": 1751193140,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 904673,
+        "num": 462228,
+        "word": "吴磊妈妈气场",
+        "onboard_time": 1751198602,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 661836,
+        "num": 458183,
+        "word": "柳俊烈丑谈我真的笑不行了",
+        "onboard_time": 1751200641,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448361,
+        "num": 448361,
+        "word": "TF四代舞台投票",
+        "onboard_time": 1751198902,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 447502,
+        "num": 447502,
+        "word": "苏超",
+        "onboard_time": 1751200222,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46802,
+        "num": 447018,
+        "word": "巴黎警车在被淹街道播放我心永恒",
+        "onboard_time": 1751202681,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 446837,
+        "num": 446837,
+        "word": "苏超苏州vs扬州",
+        "onboard_time": 1751195901,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 379740,
+        "num": 379740,
+        "word": "鹿晗抢票",
+        "onboard_time": 1751193201,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 374944,
+        "num": 374944,
+        "word": "蔡澜晚年酒店套房生活",
+        "onboard_time": 1751195841,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101609,
+        "num": 366405,
+        "word": "零跑B01超长长长650km长续航",
+        "onboard_time": 1751200941,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 188641,
+        "num": 363720,
+        "word": "以色列再爆发大规模抗议",
+        "onboard_time": 1751203163,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 446651,
+        "num": 363699,
+        "word": "微信最不能出现的功能 消息已读",
+        "onboard_time": 1751177843,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 363108,
+        "num": 363108,
+        "word": "印度三男子强奸法学院女生被拘4天",
+        "onboard_time": 1751202384,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 360465,
+        "num": 360465,
+        "word": "以法之名 好看",
+        "onboard_time": 1751201962,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 344457,
+        "num": 344457,
+        "word": "南通vs宿迁",
+        "onboard_time": 1751199561,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 311005,
+        "num": 311005,
+        "word": "卜凡 出道是为了入道",
+        "onboard_time": 1751195721,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274461,
+        "num": 274461,
+        "word": "孟子义的狗巧克力又塌房了",
+        "onboard_time": 1751195841,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269321,
+        "num": 269321,
+        "word": "卢昱晓 红毯公主",
+        "onboard_time": 1751202802,
+        "rank": 26,
+        "category": "演出,时尚"
+      },
+      {
+        "raw_hot": 256554,
+        "num": 256554,
+        "word": "泰州vs徐州",
+        "onboard_time": 1751199802,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253335,
+        "num": 253335,
+        "word": "女子车上发现人脸蜘蛛",
+        "onboard_time": 1751196739,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220415,
+        "num": 220415,
+        "word": "一年瘦了30斤的面部变化",
+        "onboard_time": 1751203284,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 259907,
+        "num": 220111,
+        "word": "让小腿越来越粗的3种鞋",
+        "onboard_time": 1751203223,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 218954,
+        "num": 218954,
+        "word": "16岁学生和父亲争吵后手变鸡爪",
+        "onboard_time": 1751199561,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195010,
+        "num": 195010,
+        "word": "苏超苏州3比0扬州",
+        "onboard_time": 1751202563,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185367,
+        "num": 185367,
+        "word": "刘宇宁一冲冲出个人生镜头",
+        "onboard_time": 1751203284,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151788,
+        "num": 182130,
+        "word": "波尔回应樊振东祝福",
+        "onboard_time": 1751203823,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180672,
+        "num": 180672,
+        "word": "流量男星侧脸",
+        "onboard_time": 1751196143,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166886,
+        "num": 166886,
+        "word": "苏超惊现世界级倒钩进球",
+        "onboard_time": 1751203044,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158579,
+        "num": 158579,
+        "word": "罗马仕 你都用回本了",
+        "onboard_time": 1751178141,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157694,
+        "num": 157694,
+        "word": "爱豆有人下海有人上山",
+        "onboard_time": 1751203584,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156565,
+        "num": 156565,
+        "word": "王源 小小孩",
+        "onboard_time": 1751201302,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 75598,
+        "num": 154444,
+        "word": "充电宝怎么了",
+        "onboard_time": 1751203823,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56916,
+        "num": 153451,
+        "word": "挪威王储继子否认性侵和暴力行为",
+        "onboard_time": 1751203463,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152935,
+        "num": 152935,
+        "word": "诡秘国产动画IMDb开分第一",
+        "onboard_time": 1751203044,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 150920,
+        "num": 150920,
+        "word": "多方回应女子举报前公婆资产近亿",
+        "onboard_time": 1751200342,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148954,
+        "num": 148954,
+        "word": "一诺敖隐龙王级别",
+        "onboard_time": 1751202623,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138325,
+        "num": 138325,
+        "word": "WBG香港邀请赛夺冠",
+        "onboard_time": 1751203223,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137176,
+        "num": 137176,
+        "word": "男主小三的身份正宫的做派",
+        "onboard_time": 1751203762,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136201,
+        "num": 136201,
+        "word": "铭恒",
+        "onboard_time": 1751202623,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124313,
+        "num": 134976,
+        "word": "PEL",
+        "onboard_time": 1751203223,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134656,
+        "num": 134656,
+        "word": "黑救护车转院途中32岁女患者死亡",
+        "onboard_time": 1751200102,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平回信勉励嘎拉村全体村民#"
+    }
+  }
+}
