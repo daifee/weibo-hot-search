@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1751186735870,
+  "endTime": 1751189169139,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -2371,6 +2371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3569605,
+      "num": 3569605,
+      "word": "单身税",
+      "onboard_time": 1751183842,
+      "rank": 0,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 3566178,
       "num": 3566178,
       "word": "苹果紧急往美国运iPhone",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1750246883,
       "rank": 20,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 3560113,
-      "num": 3560113,
-      "word": "刘泳希李嘉铭官宣离婚",
-      "onboard_time": 1740026782,
-      "rank": 0,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

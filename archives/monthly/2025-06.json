@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1751186735870,
+  "endTime": 1751189169139,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -377,6 +377,14 @@
       "onboard_time": 1749288745,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 3569605,
+      "num": 3569605,
+      "word": "单身税",
+      "onboard_time": 1751183842,
+      "rank": 0,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 3564801,
@@ -777,14 +785,6 @@
       "onboard_time": 1750422861,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2472178,
-      "num": 2472178,
-      "word": "单身税",
-      "onboard_time": 1751183842,
-      "rank": 0,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 2430980,
@@ -8155,6 +8155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 739673,
+      "num": 739673,
+      "word": "沈月连续两年AYA排名第一",
+      "onboard_time": 1751186121,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 739611,
       "num": 739611,
       "word": "歌手本周双补位",
@@ -14411,6 +14419,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 493802,
+      "num": 493802,
+      "word": "机场拦截充电宝疑似流入二手平台",
+      "onboard_time": 1751183361,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 493788,
       "num": 476534,
       "word": "美国B2幽灵轰炸机飞行员emo了",
@@ -19931,6 +19947,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 371931,
+      "num": 337763,
+      "word": "蟑螂入耳",
+      "onboard_time": 1751185522,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 371808,
       "num": 371808,
       "word": "祝绪丹个人工作室",
@@ -22432,6 +22456,14 @@
       "word": "赖冠霖导演短剧",
       "onboard_time": 1750633458,
       "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 334517,
+      "num": 334517,
+      "word": "陈都灵请鞠婧祎剧组喝饮料",
+      "onboard_time": 1751187981,
+      "rank": 11,
       "category": "剧集"
     },
     {
@@ -25131,6 +25163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 295857,
+      "num": 295857,
+      "word": "有3C标识充电宝也不可在飞机上使用",
+      "onboard_time": 1751187742,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 295768,
       "num": 298632,
       "word": "张凌赫首部民国男主",
@@ -25209,6 +25249,14 @@
       "onboard_time": 1749312084,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 295141,
+      "num": 295141,
+      "word": "严浩翔回应王嘉尔",
+      "onboard_time": 1751185942,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 295136,
@@ -26401,14 +26449,6 @@
       "onboard_time": 1750748302,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 282129,
-      "num": 282129,
-      "word": "严浩翔回应王嘉尔",
-      "onboard_time": 1751185942,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 282128,
@@ -28073,6 +28113,14 @@
       "onboard_time": 1750772786,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 264575,
+      "num": 264575,
+      "word": "鞠婧祎包下了所有应援费",
+      "onboard_time": 1751185281,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 264538,
@@ -31545,6 +31593,14 @@
       "onboard_time": 1749623302,
       "rank": 38,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 234953,
+      "num": 234953,
+      "word": "樊振东参加波尔退役仪式",
+      "onboard_time": 1751187022,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 234842,
@@ -37027,14 +37083,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 205696,
-      "num": 205696,
-      "word": "蟑螂入耳",
-      "onboard_time": 1751185522,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 205676,
       "num": 205676,
       "word": "宋慧乔顶级美貌",
@@ -37955,14 +38003,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 202711,
-      "num": 202711,
-      "word": "沈月连续两年AYA排名第一",
-      "onboard_time": 1751186121,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 202693,
       "num": 202693,
       "word": "早睡一个小时的好处这么多",
@@ -38033,14 +38073,6 @@
       "onboard_time": 1749079217,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 202551,
-      "num": 202551,
-      "word": "鞠婧祎包下了所有应援费",
-      "onboard_time": 1751185281,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 202506,
@@ -40048,6 +40080,14 @@
       "word": "Wendy重庆见面会",
       "onboard_time": 1750675403,
       "rank": 19,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 197055,
+      "num": 197055,
+      "word": "六公主没选公主选了达拉崩吧",
+      "onboard_time": 1751186121,
+      "rank": 34,
       "category": "演出"
     },
     {
@@ -46291,14 +46331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 178697,
-      "num": 268561,
-      "word": "机场拦截充电宝疑似流入二手平台",
-      "onboard_time": 1751183361,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 178656,
       "num": 178656,
       "word": "颜人中不是只有你喜欢林俊杰",
@@ -52403,6 +52435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161306,
+      "num": 151563,
+      "word": "打电话真的要小心苹果手机的语音信箱",
+      "onboard_time": 1751187502,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 161294,
       "num": 166921,
       "word": "揭秘绿发会与蒋雨融父亲关联",
@@ -52553,14 +52593,6 @@
       "onboard_time": 1749905842,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 160955,
-      "num": 160955,
-      "word": "六公主没选公主选了达拉崩吧",
-      "onboard_time": 1751186121,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 160860,
@@ -54307,6 +54339,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 156621,
+      "num": 156621,
+      "word": "猫 妈咪啊他才不是什么穷小子",
+      "onboard_time": 1751186842,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 156614,
       "num": 169718,
       "word": "鹿晗成都演唱会抢票",
@@ -54985,6 +55025,14 @@
       "onboard_time": 1750605384,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154880,
+      "num": 154880,
+      "word": "刘宇宁宠妹第一名",
+      "onboard_time": 1751188883,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 154879,
@@ -56761,6 +56809,14 @@
       "onboard_time": 1751040086,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 150274,
+      "num": 148404,
+      "word": "刘宇宁回应从国漫里走出来",
+      "onboard_time": 1751188341,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 150256,
@@ -60816,6 +60872,14 @@
       "word": "关晓彤玉兰盛放",
       "onboard_time": 1751014045,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 141647,
+      "num": 141647,
+      "word": "卓沅说百香果终于结果了",
+      "onboard_time": 1751188521,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -68291,6 +68355,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 125881,
+      "num": 125881,
+      "word": "MRC对战ACT",
+      "onboard_time": 1751188341,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 125877,
       "num": 125877,
       "word": "刘耀文晒自拍",
@@ -72891,6 +72963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115608,
+      "num": 115608,
+      "word": "王源巡演",
+      "onboard_time": 1751048117,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 115592,
       "num": 115592,
       "word": "芒种不慌不芒努力播种",
@@ -75105,6 +75185,14 @@
       "onboard_time": 1751177301,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110876,
+      "num": 110876,
+      "word": "只要保持一个月十点之前睡觉",
+      "onboard_time": 1751188941,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 110865,
@@ -78091,6 +78179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102400,
+      "num": 102400,
+      "word": "对一个人失去兴趣的表现",
+      "onboard_time": 1751189121,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 102367,
       "num": 102367,
       "word": "赖清德妄称台湾少数民族与大陆无关",
@@ -79609,6 +79705,14 @@
       "onboard_time": 1749724823,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97927,
+      "num": 97927,
+      "word": "乌称俄一夜间对其发动最大规模空袭",
+      "onboard_time": 1751188701,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 97905,
@@ -90571,6 +90675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 54131,
+      "num": 263538,
+      "word": "摩旅被民警非工作时间逼停无违规",
+      "onboard_time": 1751188883,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54111,
       "num": 87750,
       "word": "网球也有削球手",
@@ -93603,14 +93715,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 43388,
-      "num": 53913,
-      "word": "王源巡演",
-      "onboard_time": 1751048117,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
       "raw_hot": 43364,
       "num": 186743,
       "word": "美以合谋袭击伊朗后果或超出预料",
@@ -96555,6 +96659,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 35199,
+      "num": 213163,
+      "word": "多平台紧急下架3C贴纸售卖帖",
+      "onboard_time": 1751188883,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35160,
       "num": 35160,
       "word": "易梦玲格纹比基尼",
@@ -96577,6 +96689,14 @@
       "onboard_time": 1749027501,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35130,
+      "num": 111299,
+      "word": "国际问题专家谈游戏产业",
+      "onboard_time": 1751187443,
+      "rank": 43,
+      "category": "游戏,民生新闻"
     },
     {
       "raw_hot": 35069,

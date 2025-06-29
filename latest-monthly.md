@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/29 16:45:35
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/29 17:26:09
 </p>
 </blockquote>
 <p>
@@ -293,6 +293,12 @@ GAI第一（热度：4228592）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B8%80%E5%8D%B7%E6%95%B0%E5%AD%A6%E5%A4%A7%E9%A2%98%20%E9%9A%BE%23" target="weibo">
 新一卷数学大题 难（热度：3615870）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%95%E8%BA%AB%E7%A8%8E%23" target="weibo">
+单身税（热度：3569605）
 </a>
 </li>
 
@@ -593,12 +599,6 @@ GAI第一（热度：4228592）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%E7%A6%BB%E5%B8%B8%E7%9F%B3%E7%A3%8A%E8%BF%9C%E4%B8%80%E7%82%B9%23" target="weibo">
 单依纯离常石磊远一点（热度：2506923）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%95%E8%BA%AB%E7%A8%8E%23" target="weibo">
-单身税（热度：2472178）
 </a>
 </li>
 

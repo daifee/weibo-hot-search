@@ -1,10 +1,10 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751186735870,
+  "endTime": 1751189169139,
   "band_list": [
     {
-      "raw_hot": 2472178,
-      "num": 2472178,
+      "raw_hot": 3569605,
+      "num": 3569605,
       "word": "单身税",
       "onboard_time": 1751183842,
       "rank": 0,
@@ -163,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 739673,
+      "num": 739673,
+      "word": "沈月连续两年AYA排名第一",
+      "onboard_time": 1751186121,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 712760,
       "num": 712760,
       "word": "坚持跑步一个月面部的变化",
@@ -241,6 +249,14 @@
       "onboard_time": 1751156359,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 493802,
+      "num": 493802,
+      "word": "机场拦截充电宝疑似流入二手平台",
+      "onboard_time": 1751183361,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 487052,
@@ -355,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 371931,
+      "num": 337763,
+      "word": "蟑螂入耳",
+      "onboard_time": 1751185522,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 369089,
       "num": 369089,
       "word": "鹿晗演唱会",
@@ -425,6 +449,14 @@
       "onboard_time": 1751171061,
       "rank": 14,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 334517,
+      "num": 334517,
+      "word": "陈都灵请鞠婧祎剧组喝饮料",
+      "onboard_time": 1751187981,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 333839,
@@ -539,12 +571,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 295857,
+      "num": 295857,
+      "word": "有3C标识充电宝也不可在飞机上使用",
+      "onboard_time": 1751187742,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 295667,
       "num": 295667,
       "word": "合肥地震",
       "onboard_time": 1751155578,
       "rank": 13,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 295141,
+      "num": 295141,
+      "word": "严浩翔回应王嘉尔",
+      "onboard_time": 1751185942,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 290825,
@@ -561,14 +609,6 @@
       "onboard_time": 1751117902,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 282129,
-      "num": 282129,
-      "word": "严浩翔回应王嘉尔",
-      "onboard_time": 1751185942,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 271446,
@@ -593,6 +633,14 @@
       "onboard_time": 1751125823,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 264575,
+      "num": 264575,
+      "word": "鞠婧祎包下了所有应援费",
+      "onboard_time": 1751185281,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 258755,
@@ -657,6 +705,14 @@
       "onboard_time": 1751119164,
       "rank": 17,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 234953,
+      "num": 234953,
+      "word": "樊振东参加波尔退役仪式",
+      "onboard_time": 1751187022,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 234103,
@@ -779,14 +835,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 205696,
-      "num": 205696,
-      "word": "蟑螂入耳",
-      "onboard_time": 1751185522,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 205284,
       "num": 205284,
       "word": "森林北回怼网友",
@@ -811,22 +859,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 202711,
-      "num": 202711,
-      "word": "沈月连续两年AYA排名第一",
-      "onboard_time": 1751186121,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 202551,
-      "num": 202551,
-      "word": "鞠婧祎包下了所有应援费",
-      "onboard_time": 1751185281,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 201341,
       "num": 195557,
       "word": "陈赫说五哈forever",
@@ -841,6 +873,14 @@
       "onboard_time": 1751168661,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197055,
+      "num": 197055,
+      "word": "六公主没选公主选了达拉崩吧",
+      "onboard_time": 1751186121,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 195426,
@@ -979,14 +1019,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 178697,
-      "num": 268561,
-      "word": "机场拦截充电宝疑似流入二手平台",
-      "onboard_time": 1751183361,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 176030,
       "num": 176030,
       "word": "以法之名1席6吃全是小九九",
@@ -1099,6 +1131,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 161306,
+      "num": 151563,
+      "word": "打电话真的要小心苹果手机的语音信箱",
+      "onboard_time": 1751187502,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 161158,
       "num": 161158,
       "word": "华晨宇 我一场不去就出大事了",
@@ -1115,14 +1155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 160955,
-      "num": 160955,
-      "word": "六公主没选公主选了达拉崩吧",
-      "onboard_time": 1751186121,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 159413,
       "num": 159413,
       "word": "3岁女娃双眼近视1000度摸着走路",
@@ -1137,6 +1169,14 @@
       "onboard_time": 1751162481,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156621,
+      "num": 156621,
+      "word": "猫 妈咪啊他才不是什么穷小子",
+      "onboard_time": 1751186842,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 156235,
@@ -1169,6 +1209,14 @@
       "onboard_time": 1751158881,
       "rank": 30,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 154880,
+      "num": 154880,
+      "word": "刘宇宁宠妹第一名",
+      "onboard_time": 1751188883,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 154698,
@@ -1225,6 +1273,14 @@
       "onboard_time": 1751122945,
       "rank": 26,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 150274,
+      "num": 148404,
+      "word": "刘宇宁回应从国漫里走出来",
+      "onboard_time": 1751188341,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 149734,
@@ -1321,6 +1377,14 @@
       "onboard_time": 1751172683,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141647,
+      "num": 141647,
+      "word": "卓沅说百香果终于结果了",
+      "onboard_time": 1751188521,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 140381,
@@ -1579,6 +1643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125881,
+      "num": 125881,
+      "word": "MRC对战ACT",
+      "onboard_time": 1751188341,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 125333,
       "num": 181158,
       "word": "汗从哪儿出病从哪儿来",
@@ -1691,6 +1763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115608,
+      "num": 115608,
+      "word": "王源巡演",
+      "onboard_time": 1751188761,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 114962,
       "num": 114962,
       "word": "苏轼北宋时期真正的苏坡爱豆",
@@ -1769,6 +1849,14 @@
       "onboard_time": 1751177301,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110876,
+      "num": 110876,
+      "word": "只要保持一个月十点之前睡觉",
+      "onboard_time": 1751188941,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 109262,
@@ -1939,6 +2027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 102400,
+      "num": 102400,
+      "word": "对一个人失去兴趣的表现",
+      "onboard_time": 1751189121,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 100711,
       "num": 100711,
       "word": "油条灌鸡蛋",
@@ -1969,6 +2065,14 @@
       "onboard_time": 1751119885,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97927,
+      "num": 97927,
+      "word": "乌称俄一夜间对其发动最大规模空袭",
+      "onboard_time": 1751188701,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 97443,
@@ -2195,6 +2299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 54131,
+      "num": 263538,
+      "word": "摩旅被民警非工作时间逼停无违规",
+      "onboard_time": 1751188883,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50533,
       "num": 50533,
       "word": "汪苏泷说太原不愧是歌迷之都",
@@ -2249,6 +2361,22 @@
       "onboard_time": 1751172082,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 35199,
+      "num": 213163,
+      "word": "多平台紧急下架3C贴纸售卖帖",
+      "onboard_time": 1751188883,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35130,
+      "num": 111299,
+      "word": "国际问题专家谈游戏产业",
+      "onboard_time": 1751187443,
+      "rank": 43,
+      "category": "游戏,民生新闻"
     },
     {
       "raw_hot": 34665,
