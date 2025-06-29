@@ -1,0 +1,410 @@
+{
+  "runTime": 1751169641735,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1126766,
+        "num": 1180282,
+        "word": "张小斐抽烟镜头女王级别",
+        "onboard_time": 1751166080,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 551606,
+        "num": 551606,
+        "word": "多名中国游客称冰岛租车遭天价索赔",
+        "onboard_time": 1751160319,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 33614,
+        "num": 484996,
+        "word": "遇洪水必知的9个健康知识点",
+        "onboard_time": 1751168120,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 983335,
+        "num": 479733,
+        "word": "时代少年团加冠礼演唱会",
+        "onboard_time": 1751168361,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 768693,
+        "num": 477380,
+        "word": "她一天做了我一辈子的工作",
+        "onboard_time": 1751164340,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 422793,
+        "num": 422793,
+        "word": "杭州到北京只需半小时",
+        "onboard_time": 1751160621,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 386035,
+        "num": 386035,
+        "word": "书卷一梦1集41分55秒",
+        "onboard_time": 1751165419,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 366427,
+        "num": 366427,
+        "word": "俄罗斯一海岸出现4吨鲱鱼",
+        "onboard_time": 1751165482,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 712052,
+        "num": 362345,
+        "word": "时代少年团大连站",
+        "onboard_time": 1751168361,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 176368,
+        "num": 358162,
+        "word": "歼16霸气驱离外机现场画面",
+        "onboard_time": 1751165900,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 413967,
+        "num": 358115,
+        "word": "坚持跑步一个月面部的变化",
+        "onboard_time": 1751167460,
+        "rank": 10,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 357947,
+        "num": 357947,
+        "word": "伊朗国葬",
+        "onboard_time": 1751156659,
+        "rank": 11,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 355546,
+        "num": 355546,
+        "word": "田栩宁 萌物",
+        "onboard_time": 1751156659,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348868,
+        "num": 348868,
+        "word": "红色榴莲",
+        "onboard_time": 1751157201,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 318356,
+        "num": 318356,
+        "word": "伊朗2022年几乎成功刺杀蓬佩奥",
+        "onboard_time": 1751163681,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 317209,
+        "num": 317209,
+        "word": "关晓彤 鹿晗",
+        "onboard_time": 1751119105,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294042,
+        "num": 294042,
+        "word": "朝雪录",
+        "onboard_time": 1751166260,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264771,
+        "num": 264771,
+        "word": "鞠婧祎来战开机",
+        "onboard_time": 1751163200,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188790,
+        "num": 188790,
+        "word": "特朗普称加拿大非常恶劣",
+        "onboard_time": 1751166561,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 98371,
+        "num": 186401,
+        "word": "榕江洪灾清淤现场到处是足球",
+        "onboard_time": 1751168481,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251397,
+        "num": 185332,
+        "word": "杨蒙恩刘培钰婚礼",
+        "onboard_time": 1751165721,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219410,
+        "num": 181992,
+        "word": "李宇春当年拒绝代言锤子原因",
+        "onboard_time": 1751167400,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209113,
+        "num": 179229,
+        "word": "踩死蟑螂真的可能生出很多小蟑螂",
+        "onboard_time": 1751156239,
+        "rank": 22,
+        "category": "科学科普,民生新闻"
+      },
+      {
+        "raw_hot": 198491,
+        "num": 178637,
+        "word": "杨紫李现新剧逢场作戏情愫悄生",
+        "onboard_time": 1751168661,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192810,
+        "num": 176491,
+        "word": "关晓彤回应粉丝",
+        "onboard_time": 1751120184,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174427,
+        "num": 174427,
+        "word": "鹿晗cpu烧了半天把鞋子脱了",
+        "onboard_time": 1751156359,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163612,
+        "num": 163612,
+        "word": "肖战在郑晓龙头上比耶",
+        "onboard_time": 1751161341,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151297,
+        "num": 151297,
+        "word": "男练",
+        "onboard_time": 1751168721,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150946,
+        "num": 150946,
+        "word": "美国敦促在伊朗美国公民立即撤离",
+        "onboard_time": 1751165482,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136122,
+        "num": 149226,
+        "word": "合肥地震",
+        "onboard_time": 1751155578,
+        "rank": 29,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 209854,
+        "num": 148918,
+        "word": "小猫被主人亲完后装死",
+        "onboard_time": 1751169080,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148522,
+        "num": 148522,
+        "word": "警方通报摩旅被民警驾私家车逼停",
+        "onboard_time": 1751164161,
+        "rank": 31,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 143584,
+        "num": 143584,
+        "word": "男子前台借伞不满50押金砸人被拘",
+        "onboard_time": 1751168781,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137746,
+        "num": 137746,
+        "word": "鞠婧祎张云龙开机路透",
+        "onboard_time": 1751165001,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127226,
+        "num": 127226,
+        "word": "成都暴雨",
+        "onboard_time": 1751155578,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127098,
+        "num": 127098,
+        "word": "BLG晋级MSI淘汰赛",
+        "onboard_time": 1751166201,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125292,
+        "num": 125292,
+        "word": "明天是2025上半年最后1天",
+        "onboard_time": 1751156359,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121369,
+        "num": 121369,
+        "word": "商场洪水倒灌商户5000多件衣服被淹",
+        "onboard_time": 1751164880,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119415,
+        "num": 119415,
+        "word": "苏群感叹易建联早生了十几年",
+        "onboard_time": 1751168841,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29988,
+        "num": 116553,
+        "word": "买榴莲不用担心踩雷了",
+        "onboard_time": 1751166080,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113787,
+        "num": 113787,
+        "word": "小米汽车回应YU7刹车片起火",
+        "onboard_time": 1751158820,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 106962,
+        "num": 106962,
+        "word": "90后已婚无娃夫妻一个月的生活开销",
+        "onboard_time": 1751169502,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106245,
+        "num": 106245,
+        "word": "陈垣宇张本智和男单争冠",
+        "onboard_time": 1751168180,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105547,
+        "num": 105547,
+        "word": "马丽被老公夸到心率飙升",
+        "onboard_time": 1751167280,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103950,
+        "num": 103950,
+        "word": "李兰迪刮彩票以为中了7万",
+        "onboard_time": 1751135475,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103806,
+        "num": 103806,
+        "word": "孙恩盛pk",
+        "onboard_time": 1751159421,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 98936,
+        "num": 98936,
+        "word": "王楚钦孙颖莎中国健儿超燃时刻",
+        "onboard_time": 1751165600,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97443,
+        "num": 97443,
+        "word": "有一个癫公男友是什么体验",
+        "onboard_time": 1751168541,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95771,
+        "num": 95771,
+        "word": "大学生健完身摸黑救了一条命",
+        "onboard_time": 1751155699,
+        "rank": 48,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 94195,
+        "num": 94195,
+        "word": "鬼灭之刃正式预告",
+        "onboard_time": 1751168481,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心中的好干部标准#"
+    }
+  }
+}

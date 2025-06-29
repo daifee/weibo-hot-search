@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751164703433,
+  "endTime": 1751169641735,
   "band_list": [
     {
       "raw_hot": 1477036,
@@ -27,11 +27,27 @@
       "category": "国际时政,民生新闻"
     },
     {
+      "raw_hot": 1126766,
+      "num": 1180282,
+      "word": "张小斐抽烟镜头女王级别",
+      "onboard_time": 1751166080,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1102606,
       "num": 1102606,
       "word": "鹿晗工作室 从没回过因为一直都在",
       "onboard_time": 1751122584,
       "rank": 0,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 983335,
+      "num": 479733,
+      "word": "时代少年团加冠礼演唱会",
+      "onboard_time": 1751168361,
+      "rank": 3,
       "category": "演出"
     },
     {
@@ -59,12 +75,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 768693,
+      "num": 477380,
+      "word": "她一天做了我一辈子的工作",
+      "onboard_time": 1751164340,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 747130,
       "num": 325321,
       "word": "莆田8岁失联男童尸体被发现",
       "onboard_time": 1751129959,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 712052,
+      "num": 362345,
+      "word": "时代少年团大连站",
+      "onboard_time": 1751168361,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 623372,
@@ -123,6 +155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 413967,
+      "num": 358115,
+      "word": "坚持跑步一个月面部的变化",
+      "onboard_time": 1751167460,
+      "rank": 10,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 405853,
       "num": 330635,
       "word": "方大同 金曲奖",
@@ -147,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 386035,
+      "num": 386035,
+      "word": "书卷一梦1集41分55秒",
+      "onboard_time": 1751165419,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 385416,
       "num": 385416,
       "word": "特朗普说早知当总统这么危险就不选了",
@@ -161,6 +209,14 @@
       "onboard_time": 1751156659,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 366427,
+      "num": 366427,
+      "word": "俄罗斯一海岸出现4吨鲱鱼",
+      "onboard_time": 1751165482,
+      "rank": 7,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 353558,
@@ -195,6 +251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 318356,
+      "num": 318356,
+      "word": "伊朗2022年几乎成功刺杀蓬佩奥",
+      "onboard_time": 1751163681,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 317286,
       "num": 317286,
       "word": "李兰迪刮彩票以为中了7万",
@@ -227,6 +291,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 294042,
+      "num": 294042,
+      "word": "朝雪录",
+      "onboard_time": 1751166260,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 290825,
       "num": 290825,
       "word": "来战",
@@ -243,14 +315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 278071,
-      "num": 138651,
-      "word": "她一天做了我一辈子的工作",
-      "onboard_time": 1751164340,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 267583,
       "num": 267583,
       "word": "北京女大学生千里求助转移在榕江父母",
@@ -265,6 +329,14 @@
       "onboard_time": 1751156239,
       "rank": 20,
       "category": "科学科普,民生新闻"
+    },
+    {
+      "raw_hot": 251397,
+      "num": 185332,
+      "word": "杨蒙恩刘培钰婚礼",
+      "onboard_time": 1751165721,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 250982,
@@ -315,12 +387,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 219410,
+      "num": 181992,
+      "word": "李宇春当年拒绝代言锤子原因",
+      "onboard_time": 1751167400,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 215900,
       "num": 215900,
       "word": "贵州榕江拉响全城警报",
       "onboard_time": 1751091143,
       "rank": 19,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 209854,
+      "num": 148918,
+      "word": "小猫被主人亲完后装死",
+      "onboard_time": 1751169080,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 209222,
@@ -347,6 +435,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 198491,
+      "num": 178637,
+      "word": "杨紫李现新剧逢场作戏情愫悄生",
+      "onboard_time": 1751168661,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194399,
       "num": 194399,
       "word": "王玉雯田曦薇合照",
@@ -371,12 +467,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 188790,
+      "num": 188790,
+      "word": "特朗普称加拿大非常恶劣",
+      "onboard_time": 1751166561,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 188651,
       "num": 149586,
       "word": "王玉雯不知道你喜欢哪个就都拍了",
       "onboard_time": 1751126362,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 176368,
+      "num": 358162,
+      "word": "歼16霸气驱离外机现场画面",
+      "onboard_time": 1751165900,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 175317,
@@ -451,12 +563,28 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 151297,
+      "num": 151297,
+      "word": "男练",
+      "onboard_time": 1751168721,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 151192,
       "num": 151192,
       "word": "王嘉尔给时代少年团颁奖",
       "onboard_time": 1751128161,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 150946,
+      "num": 150946,
+      "word": "美国敦促在伊朗美国公民立即撤离",
+      "onboard_time": 1751165482,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 150582,
@@ -483,6 +611,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 148522,
+      "num": 148522,
+      "word": "警方通报摩旅被民警驾私家车逼停",
+      "onboard_time": 1751164161,
+      "rank": 33,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 146247,
       "num": 146247,
       "word": "刘诗诗感谢大家的支持与鼓励",
@@ -491,12 +627,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143584,
+      "num": 143584,
+      "word": "男子前台借伞不满50押金砸人被拘",
+      "onboard_time": 1751168781,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140381,
       "num": 140381,
       "word": "低精力人群 炎症",
       "onboard_time": 1751093541,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 137746,
+      "num": 137746,
+      "word": "鞠婧祎张云龙开机路透",
+      "onboard_time": 1751165001,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 137605,
@@ -513,14 +665,6 @@
       "onboard_time": 1751123784,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 135869,
-      "num": 135869,
-      "word": "警方通报摩旅被民警驾私家车逼停",
-      "onboard_time": 1751164161,
-      "rank": 33,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 130501,
@@ -545,14 +689,6 @@
       "onboard_time": 1751122645,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 129993,
-      "num": 263806,
-      "word": "伊朗2022年几乎成功刺杀蓬佩奥",
-      "onboard_time": 1751163681,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 129678,
@@ -595,12 +731,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 124472,
-      "num": 124472,
+      "raw_hot": 127098,
+      "num": 127098,
+      "word": "BLG晋级MSI淘汰赛",
+      "onboard_time": 1751166201,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 125292,
+      "num": 125292,
       "word": "明天是2025上半年最后1天",
       "onboard_time": 1751156359,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121369,
+      "num": 121369,
+      "word": "商场洪水倒灌商户5000多件衣服被淹",
+      "onboard_time": 1751164880,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119415,
+      "num": 119415,
+      "word": "苏群感叹易建联早生了十几年",
+      "onboard_time": 1751168841,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 116496,
@@ -699,12 +859,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106962,
+      "num": 106962,
+      "word": "90后已婚无娃夫妻一个月的生活开销",
+      "onboard_time": 1751169502,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 106245,
+      "num": 106245,
+      "word": "陈垣宇张本智和男单争冠",
+      "onboard_time": 1751168180,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105616,
       "num": 105616,
       "word": "全国多地将有大到暴雨",
       "onboard_time": 1751162419,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105547,
+      "num": 105547,
+      "word": "马丽被老公夸到心率飙升",
+      "onboard_time": 1751167280,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 105412,
@@ -747,12 +931,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98936,
+      "num": 98936,
+      "word": "王楚钦孙颖莎中国健儿超燃时刻",
+      "onboard_time": 1751165600,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98829,
       "num": 866693,
       "word": "紧急追加1亿元支持贵州灾后恢复",
       "onboard_time": 1751119885,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98371,
+      "num": 186401,
+      "word": "榕江洪灾清淤现场到处是足球",
+      "onboard_time": 1751168481,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97443,
+      "num": 97443,
+      "word": "有一个癫公男友是什么体验",
+      "onboard_time": 1751168541,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 95659,
@@ -769,6 +977,14 @@
       "onboard_time": 1751124683,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94195,
+      "num": 94195,
+      "word": "鬼灭之刃正式预告",
+      "onboard_time": 1751168481,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 89752,
@@ -923,6 +1139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 33614,
+      "num": 484996,
+      "word": "遇洪水必知的9个健康知识点",
+      "onboard_time": 1751168120,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33304,
       "num": 34829,
       "word": "10年后王源真的送了我们最酷的汽车",
@@ -961,6 +1185,14 @@
       "onboard_time": 1751162481,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 29988,
+      "num": 116553,
+      "word": "买榴莲不用担心踩雷了",
+      "onboard_time": 1751166080,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26887,
@@ -1070,6 +1302,9 @@
   "hotgov_list": [
     {
       "word": "#总书记讲述的这个故事意蕴深长#"
+    },
+    {
+      "word": "#总书记心中的好干部标准#"
     }
   ]
 }
