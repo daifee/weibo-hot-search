@@ -1,0 +1,410 @@
+{
+  "runTime": 1751190022163,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3252509,
+        "num": 3252509,
+        "word": "单身税",
+        "onboard_time": 1751183842,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 799503,
+        "num": 799503,
+        "word": "罗马仕 你都用回本了",
+        "onboard_time": 1751178141,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26007,
+        "num": 763893,
+        "word": "遇洪水必知的9个健康知识点",
+        "onboard_time": 1751168120,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 731223,
+        "num": 731223,
+        "word": "沈月连续两年AYA排名第一",
+        "onboard_time": 1751186121,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 602744,
+        "num": 602744,
+        "word": "微信最不能出现的功能 消息已读",
+        "onboard_time": 1751177843,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 409286,
+        "num": 409286,
+        "word": "哈工程 空调",
+        "onboard_time": 1751182880,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 384153,
+        "num": 384153,
+        "word": "机场拦截充电宝疑似流入二手平台",
+        "onboard_time": 1751183361,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350977,
+        "num": 350977,
+        "word": "邓超 鹿晗",
+        "onboard_time": 1751169980,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329460,
+        "num": 329460,
+        "word": "李昀锐助理看起来命很苦",
+        "onboard_time": 1751180359,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77334,
+        "num": 294011,
+        "word": "摩旅被民警非工作时间逼停无违规",
+        "onboard_time": 1751188883,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 428697,
+        "num": 293346,
+        "word": "蟑螂入耳",
+        "onboard_time": 1751185522,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 290128,
+        "num": 290128,
+        "word": "陈都灵请鞠婧祎剧组喝饮料",
+        "onboard_time": 1751187981,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286409,
+        "num": 286409,
+        "word": "严浩翔回应王嘉尔",
+        "onboard_time": 1751185942,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284428,
+        "num": 284428,
+        "word": "有3C标识充电宝也不可在飞机上使用",
+        "onboard_time": 1751187742,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165829,
+        "num": 268782,
+        "word": "日本人到老挝嫖宿幼女",
+        "onboard_time": 1751189481,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 259094,
+        "num": 259094,
+        "word": "黄子韬画的饼做到了",
+        "onboard_time": 1751182880,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257829,
+        "num": 257829,
+        "word": "樊振东参加波尔退役仪式",
+        "onboard_time": 1751187022,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254648,
+        "num": 254648,
+        "word": "离婚夜做真夫妻",
+        "onboard_time": 1751170942,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225355,
+        "num": 225355,
+        "word": "美国一直升机从上空抛撒大量美元",
+        "onboard_time": 1751183424,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 40148,
+        "num": 218858,
+        "word": "多平台紧急下架3C贴纸售卖帖",
+        "onboard_time": 1751188883,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217765,
+        "num": 217765,
+        "word": "鞠婧祎包下了所有应援费",
+        "onboard_time": 1751185281,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204435,
+        "num": 204435,
+        "word": "六公主没选公主选了达拉崩吧",
+        "onboard_time": 1751186121,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195286,
+        "num": 195286,
+        "word": "官方回应朱雀玄武敕令改名被拒",
+        "onboard_time": 1751189600,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191138,
+        "num": 191138,
+        "word": "鹿晗演唱会",
+        "onboard_time": 1751175322,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 179257,
+        "num": 179257,
+        "word": "成都暴雨小区电梯变水帘洞",
+        "onboard_time": 1751185341,
+        "rank": 24,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 160460,
+        "num": 160460,
+        "word": "女孩做黑医美一针晕厥全身发黑",
+        "onboard_time": 1751175202,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159418,
+        "num": 159418,
+        "word": "2岁男童一人趴在水边落水",
+        "onboard_time": 1751185221,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157835,
+        "num": 157835,
+        "word": "孟子义晋江式跑步",
+        "onboard_time": 1751189661,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146651,
+        "num": 146651,
+        "word": "猫 妈咪啊他才不是什么穷小子",
+        "onboard_time": 1751186842,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135134,
+        "num": 135134,
+        "word": "乌称俄一夜间对其发动最大规模空袭",
+        "onboard_time": 1751188701,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133888,
+        "num": 133888,
+        "word": "贵州榕江街道7分钟被洪水完全淹没",
+        "onboard_time": 1751184141,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133800,
+        "num": 133800,
+        "word": "王源巡演",
+        "onboard_time": 1751188761,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132686,
+        "num": 132686,
+        "word": "重庆2岁幼童20楼坠落奇迹生还",
+        "onboard_time": 1751185942,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124626,
+        "num": 124626,
+        "word": "姜妍中餐厅复刻锦绣芳华同款胡饼",
+        "onboard_time": 1751189661,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124534,
+        "num": 124534,
+        "word": "当你不停运动2个月后",
+        "onboard_time": 1751185402,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 123558,
+        "num": 123558,
+        "word": "巴勒斯坦体育界615人已遇袭身亡",
+        "onboard_time": 1751178741,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122656,
+        "num": 122656,
+        "word": "刘宇宁回应从国漫里走出来",
+        "onboard_time": 1751188341,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121721,
+        "num": 121721,
+        "word": "华晨宇一把推开粉丝聚餐的门",
+        "onboard_time": 1751174782,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118927,
+        "num": 118927,
+        "word": "继母捂住亲妈眼睛不看脑瘤男孩剃光头",
+        "onboard_time": 1751170821,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51985,
+        "num": 118134,
+        "word": "第五人格庄园纳凉夜",
+        "onboard_time": 1751189421,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118124,
+        "num": 118124,
+        "word": "打电话真的要小心苹果手机的语音信箱",
+        "onboard_time": 1751187502,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 110814,
+        "num": 110814,
+        "word": "JDG对战EDGM",
+        "onboard_time": 1751189901,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106209,
+        "num": 106209,
+        "word": "刘宇宁宠妹第一名",
+        "onboard_time": 1751188883,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106011,
+        "num": 106011,
+        "word": "只要保持一个月十点之前睡觉",
+        "onboard_time": 1751188941,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105866,
+        "num": 105866,
+        "word": "黄旭华院士今天安葬",
+        "onboard_time": 1751177182,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105648,
+        "num": 105648,
+        "word": "普京会见车臣领导人17岁的儿子",
+        "onboard_time": 1751182282,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103005,
+        "num": 103005,
+        "word": "卓沅说百香果终于结果了",
+        "onboard_time": 1751188521,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103792,
+        "num": 102928,
+        "word": "对一个人失去兴趣的表现",
+        "onboard_time": 1751189121,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102847,
+        "num": 102847,
+        "word": "人均办公面积393.7平米被通报",
+        "onboard_time": 1751178201,
+        "rank": 48,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 21707,
+        "num": 101114,
+        "word": "国际问题专家谈游戏产业",
+        "onboard_time": 1751187443,
+        "rank": 49,
+        "category": "游戏,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心中的好干部标准#"
+    }
+  }
+}

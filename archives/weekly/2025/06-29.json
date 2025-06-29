@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751189169139,
+  "endTime": 1751190022163,
   "band_list": [
     {
       "raw_hot": 3569605,
@@ -291,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 428697,
+      "num": 337763,
+      "word": "蟑螂入耳",
+      "onboard_time": 1751185522,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 428444,
       "num": 428444,
       "word": "今年的荔枝怎么烂大街了",
@@ -369,14 +377,6 @@
       "onboard_time": 1751166260,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 371931,
-      "num": 337763,
-      "word": "蟑螂入耳",
-      "onboard_time": 1751185522,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 369089,
@@ -651,6 +651,14 @@
       "category": "科学科普,民生新闻"
     },
     {
+      "raw_hot": 257829,
+      "num": 257829,
+      "word": "樊振东参加波尔退役仪式",
+      "onboard_time": 1751187022,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 255170,
       "num": 370051,
       "word": "医美培训老师宣称我们都没证",
@@ -705,14 +713,6 @@
       "onboard_time": 1751119164,
       "rank": 17,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 234953,
-      "num": 234953,
-      "word": "樊振东参加波尔退役仪式",
-      "onboard_time": 1751187022,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 234103,
@@ -843,6 +843,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 204435,
+      "num": 204435,
+      "word": "六公主没选公主选了达拉崩吧",
+      "onboard_time": 1751186121,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 203707,
       "num": 203707,
       "word": "北京酒吧偶遇苏晓彤打架子鼓",
@@ -875,20 +883,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197055,
-      "num": 197055,
-      "word": "六公主没选公主选了达拉崩吧",
-      "onboard_time": 1751186121,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 195426,
       "num": 195426,
       "word": "警惕暗示性的白嫖",
       "onboard_time": 1751169859,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 195286,
+      "num": 195286,
+      "word": "官方回应朱雀玄武敕令改名被拒",
+      "onboard_time": 1751189600,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194916,
@@ -1107,6 +1115,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 165829,
+      "num": 268782,
+      "word": "日本人到老挝嫖宿幼女",
+      "onboard_time": 1751189481,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 165168,
       "num": 165168,
       "word": "王嘉尔跳labubu大首领舞了",
@@ -1161,6 +1177,14 @@
       "onboard_time": 1751124744,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157835,
+      "num": 157835,
+      "word": "孟子义晋江式跑步",
+      "onboard_time": 1751189661,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 156901,
@@ -1459,12 +1483,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135134,
+      "num": 135134,
+      "word": "乌称俄一夜间对其发动最大规模空袭",
+      "onboard_time": 1751188701,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 134660,
       "num": 190594,
       "word": "几十块的万能遥控器什么闸都能开",
       "onboard_time": 1751174542,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133800,
+      "num": 133800,
+      "word": "王源巡演",
+      "onboard_time": 1751188761,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 133097,
@@ -1659,6 +1699,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 124626,
+      "num": 124626,
+      "word": "姜妍中餐厅复刻锦绣芳华同款胡饼",
+      "onboard_time": 1751189661,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121369,
       "num": 121369,
       "word": "商场洪水倒灌商户5000多件衣服被淹",
@@ -1763,14 +1811,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 115608,
-      "num": 115608,
-      "word": "王源巡演",
-      "onboard_time": 1751188761,
-      "rank": 40,
-      "category": "演出"
-    },
-    {
       "raw_hot": 114962,
       "num": 114962,
       "word": "苏轼北宋时期真正的苏坡爱豆",
@@ -1857,6 +1897,14 @@
       "onboard_time": 1751188941,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 110814,
+      "num": 110814,
+      "word": "JDG对战EDGM",
+      "onboard_time": 1751189901,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 109262,
@@ -2003,6 +2051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103792,
+      "num": 102928,
+      "word": "对一个人失去兴趣的表现",
+      "onboard_time": 1751189121,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 102836,
       "num": 102836,
       "word": "伊万发文谈执教国足",
@@ -2025,14 +2081,6 @@
       "onboard_time": 1751128701,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 102400,
-      "num": 102400,
-      "word": "对一个人失去兴趣的表现",
-      "onboard_time": 1751189121,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 100711,
@@ -2065,14 +2113,6 @@
       "onboard_time": 1751119885,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 97927,
-      "num": 97927,
-      "word": "乌称俄一夜间对其发动最大规模空袭",
-      "onboard_time": 1751188701,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 97443,
@@ -2160,6 +2200,14 @@
       "word": "女子被未拴绳狼犬咬伤主人赔偿500元",
       "onboard_time": 1751133019,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77334,
+      "num": 294011,
+      "word": "摩旅被民警非工作时间逼停无违规",
+      "onboard_time": 1751188883,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -2299,12 +2347,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 54131,
-      "num": 263538,
-      "word": "摩旅被民警非工作时间逼停无违规",
-      "onboard_time": 1751188883,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 51985,
+      "num": 118134,
+      "word": "第五人格庄园纳凉夜",
+      "onboard_time": 1751189421,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 50533,
@@ -2347,6 +2395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40148,
+      "num": 218858,
+      "word": "多平台紧急下架3C贴纸售卖帖",
+      "onboard_time": 1751188883,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38393,
       "num": 131026,
       "word": "切尔西晋级世俱杯8强",
@@ -2361,14 +2417,6 @@
       "onboard_time": 1751172082,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 35199,
-      "num": 213163,
-      "word": "多平台紧急下架3C贴纸售卖帖",
-      "onboard_time": 1751188883,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 35130,
