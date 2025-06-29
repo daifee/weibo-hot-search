@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1751196066988,
+  "endTime": 1751197044723,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -817,6 +817,14 @@
       "onboard_time": 1749541822,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 2415753,
+      "num": 2415753,
+      "word": "大麦bug",
+      "onboard_time": 1751195961,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 2411149,
@@ -10995,6 +11003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 612062,
+      "num": 488024,
+      "word": "吴沛官宣怀孕",
+      "onboard_time": 1751194340,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 611820,
       "num": 611820,
       "word": "台湾网红馆长承认曾受影响骂过大陆",
@@ -11891,14 +11907,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 576703,
-      "num": 532369,
-      "word": "大麦bug",
-      "onboard_time": 1751195961,
-      "rank": 7,
-      "category": "演出"
-    },
-    {
       "raw_hot": 576038,
       "num": 432663,
       "word": "路人抓拍Angelababy",
@@ -12081,14 +12089,6 @@
       "onboard_time": 1750699876,
       "rank": 21,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 567904,
-      "num": 488024,
-      "word": "吴沛官宣怀孕",
-      "onboard_time": 1751194340,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 567672,
@@ -14177,6 +14177,14 @@
       "onboard_time": 1749093980,
       "rank": 24,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 501581,
+      "num": 425931,
+      "word": "孟子义的狗巧克力又塌房了",
+      "onboard_time": 1751195841,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 501246,
@@ -18419,6 +18427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 403278,
+      "num": 488344,
+      "word": "考二本分想上一本家长被骗80多万",
+      "onboard_time": 1751193140,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 402957,
       "num": 358888,
       "word": "李晟李佳航真夫妻就是好嗑",
@@ -20904,14 +20920,6 @@
       "word": "43岁上海男子失业后逆袭",
       "onboard_time": 1749046763,
       "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 356715,
-      "num": 488344,
-      "word": "考二本分想上一本家长被骗80多万",
-      "onboard_time": 1751193140,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -25899,6 +25907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 288488,
+      "num": 175599,
+      "word": "蔡澜晚年酒店套房生活",
+      "onboard_time": 1751195841,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 288469,
       "num": 231211,
       "word": "李白",
@@ -27505,6 +27521,14 @@
       "onboard_time": 1749529221,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 272434,
+      "num": 272434,
+      "word": "卜凡 出道是为了入道",
+      "onboard_time": 1751195721,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 272352,
@@ -29153,6 +29177,14 @@
       "onboard_time": 1750247001,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 256620,
+      "num": 256620,
+      "word": "苏超苏州vs扬州",
+      "onboard_time": 1751195901,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 256577,
@@ -33033,14 +33065,6 @@
       "onboard_time": 1750905922,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 226275,
-      "num": 226275,
-      "word": "孟子义的狗巧克力又塌房了",
-      "onboard_time": 1751195841,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 226263,
@@ -40323,6 +40347,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 196693,
+      "num": 196693,
+      "word": "流量男星侧脸",
+      "onboard_time": 1751196143,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196684,
       "num": 278590,
       "word": "书卷一梦把剧中刘宇宁剧本卖了",
@@ -42760,14 +42792,6 @@
       "word": "何秋亊方称没有侵犯章昊的权益",
       "onboard_time": 1749029480,
       "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 189885,
-      "num": 189885,
-      "word": "卜凡 出道是为了入道",
-      "onboard_time": 1751195721,
-      "rank": 31,
       "category": "艺人"
     },
     {
@@ -45633,14 +45657,6 @@
       "onboard_time": 1749474142,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 181823,
-      "num": 181823,
-      "word": "苏超苏州vs扬州",
-      "onboard_time": 1751195901,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 181760,
@@ -58003,6 +58019,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 148245,
+      "num": 148245,
+      "word": "女子车上发现人脸蜘蛛",
+      "onboard_time": 1751196739,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148240,
       "num": 187718,
       "word": "高考后挑扁担回家女孩婉拒资助",
@@ -60049,14 +60073,6 @@
       "onboard_time": 1749866060,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 144044,
-      "num": 144044,
-      "word": "蔡澜晚年酒店套房生活",
-      "onboard_time": 1751195841,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 144022,
@@ -64603,6 +64619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134056,
+      "num": 134056,
+      "word": "小狗化疗26天找动物沟通师对话",
+      "onboard_time": 1751195360,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 133969,
       "num": 154553,
       "word": "中方谈中美经贸磋商机制首次会议",
@@ -67145,14 +67169,6 @@
       "onboard_time": 1749744262,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 129102,
-      "num": 129102,
-      "word": "小狗化疗26天找动物沟通师对话",
-      "onboard_time": 1751195360,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 129099,
@@ -79443,6 +79459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99710,
+      "num": 236843,
+      "word": "苏超苏州vs扬州门当户对",
+      "onboard_time": 1751196080,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99702,
       "num": 135045,
       "word": "刘诗诗胡先煦醉梦预告感染力",
@@ -84723,6 +84747,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 80138,
+      "num": 241900,
+      "word": "张杰和谢娜一起下班回家",
+      "onboard_time": 1751196321,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80113,
       "num": 80113,
       "word": "刘宇王栎鑫梁洁王楚然合唱赠你",
@@ -86161,6 +86193,14 @@
       "onboard_time": 1749817764,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74040,
+      "num": 139886,
+      "word": "2025香港邀请赛终局之战",
+      "onboard_time": 1751196080,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 74036,
@@ -89435,6 +89475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60395,
+      "num": 236928,
+      "word": "跪行巨人胡雷驰援榕江后账户只剩5毛",
+      "onboard_time": 1751196080,
+      "rank": 19,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 60373,
       "num": 366029,
       "word": "电视剧长安的荔枝收官",
@@ -91489,6 +91537,14 @@
       "onboard_time": 1750507763,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 52524,
+      "num": 651225,
+      "word": "夜间经济点燃夏日文旅新引擎",
+      "onboard_time": 1751191220,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 52509,
@@ -94137,14 +94193,6 @@
       "onboard_time": 1749876801,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 43349,
-      "num": 651225,
-      "word": "夜间经济点燃夏日文旅新引擎",
-      "onboard_time": 1751191220,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 43338,
@@ -97849,6 +97897,14 @@
       "onboard_time": 1750000222,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32877,
+      "num": 202583,
+      "word": "苏州队开场一分钟就进球了",
+      "onboard_time": 1751196804,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 32781,
