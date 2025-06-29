@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751208114554,
+  "endTime": 1751210725138,
   "band_list": [
     {
       "raw_hot": 3569605,
@@ -17,6 +17,14 @@
       "onboard_time": 1751195961,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1864977,
+      "num": 1864977,
+      "word": "白玉兰组委会疑似回应刘亦菲没去",
+      "onboard_time": 1751208143,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 1863496,
@@ -411,6 +419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 553133,
+      "num": 489882,
+      "word": "惠英红抑郁破产后如何重生",
+      "onboard_time": 1751208922,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 537869,
       "num": 537869,
       "word": "宋茜Amber同框",
@@ -459,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 488001,
+      "num": 466834,
+      "word": "周深向贵州榕江灾区捐赠物资",
+      "onboard_time": 1751206524,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 487052,
       "num": 487052,
       "word": "我妈说咖啡是穷人的饮料",
@@ -473,14 +497,6 @@
       "onboard_time": 1751122044,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 466834,
-      "num": 466834,
-      "word": "周深向贵州榕江灾区捐赠物资",
-      "onboard_time": 1751206524,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 453352,
@@ -689,6 +705,14 @@
       "onboard_time": 1751175621,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 358650,
+      "num": 391574,
+      "word": "央视曝光舞蹈培训市场乱象",
+      "onboard_time": 1751207962,
+      "rank": 45,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 353558,
@@ -923,6 +947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 292087,
+      "num": 292087,
+      "word": "马龙看林俊杰演唱会嗓子哑了",
+      "onboard_time": 1751208322,
+      "rank": 16,
+      "category": "体育,演出"
+    },
+    {
       "raw_hot": 290825,
       "num": 290825,
       "word": "来战",
@@ -932,11 +964,19 @@
     },
     {
       "raw_hot": 286757,
-      "num": 258321,
+      "num": 280066,
       "word": "鹿晗演唱会微指",
       "onboard_time": 1751207783,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 285821,
+      "num": 187917,
+      "word": "白桃星座一周运势",
+      "onboard_time": 1751209763,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 284692,
@@ -1203,6 +1243,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 217624,
+      "num": 217624,
+      "word": "锦绣芳华",
+      "onboard_time": 1751210123,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216601,
       "num": 216601,
       "word": "短剧已经进化到包屏寻人了",
@@ -1233,6 +1281,14 @@
       "onboard_time": 1751201302,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 209563,
+      "num": 209563,
+      "word": "以色列袭击德黑兰监狱致71死",
+      "onboard_time": 1751209583,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 209222,
@@ -1313,6 +1369,14 @@
       "onboard_time": 1751122044,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 205167,
+      "num": 233651,
+      "word": "今年15个充电宝飞机上起火冒烟",
+      "onboard_time": 1751208743,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 203707,
@@ -1521,6 +1585,14 @@
       "onboard_time": 1751126362,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 188018,
+      "num": 188018,
+      "word": "TWICE更新",
+      "onboard_time": 1751210063,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 187849,
@@ -2275,14 +2347,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 137348,
-      "num": 137348,
-      "word": "央视曝光舞蹈培训市场乱象",
-      "onboard_time": 1751207962,
-      "rank": 45,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 137240,
       "num": 137240,
       "word": "90后已婚无娃夫妻一个月的生活开销",
@@ -2337,6 +2401,14 @@
       "onboard_time": 1751199922,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135406,
+      "num": 135406,
+      "word": "第一次用荤素搭配形容一部剧",
+      "onboard_time": 1751210243,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 134660,
@@ -2627,6 +2699,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 123113,
+      "num": 138695,
+      "word": "男子花六万八读海硕学历认证成难题",
+      "onboard_time": 1751208085,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121369,
       "num": 121369,
       "word": "商场洪水倒灌商户5000多件衣服被淹",
@@ -2843,6 +2923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110904,
+      "num": 288719,
+      "word": "以法之名蛀虫式影帝",
+      "onboard_time": 1751209583,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110888,
       "num": 131074,
       "word": "刘亦菲林心如早期合照",
@@ -2897,6 +2985,14 @@
       "onboard_time": 1751163321,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 108519,
+      "num": 108519,
+      "word": "舒淇恭喜宋佳",
+      "onboard_time": 1751210603,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 108241,
@@ -3083,6 +3179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99259,
+      "num": 99259,
+      "word": "杨桂",
+      "onboard_time": 1751210422,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98829,
       "num": 866693,
       "word": "紧急追加1亿元支持贵州灾后恢复",
@@ -3209,6 +3313,14 @@
       "onboard_time": 1751130198,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 82052,
+      "num": 187918,
+      "word": "舞蹈考级承办单位公开造假给钱就办",
+      "onboard_time": 1751208743,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 80138,
@@ -3355,20 +3467,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 61076,
+      "num": 135414,
+      "word": "特朗普支持率跌至新低",
+      "onboard_time": 1751210663,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 60395,
       "num": 236928,
       "word": "跪行巨人胡雷驰援榕江后账户只剩5毛",
       "onboard_time": 1751196080,
       "rank": 19,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 60372,
-      "num": 138695,
-      "word": "男子花六万八读海硕学历认证成难题",
-      "onboard_time": 1751208085,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 59863,
@@ -3691,6 +3803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 19126,
+      "num": 108970,
+      "word": "解锁首发经济花样消费场景",
+      "onboard_time": 1751210123,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 18765,
       "num": 27977,
       "word": "U19中国男篮vs加拿大男篮",
@@ -3747,12 +3867,28 @@
       "category": "民生新闻,体育"
     },
     {
+      "raw_hot": 14949,
+      "num": 640778,
+      "word": "致敬抗洪抢险一线的守护力量",
+      "onboard_time": 1751210243,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 14204,
       "num": 20457,
       "word": "苏超给村超加油",
       "onboard_time": 1751136076,
       "rank": 46,
       "category": "民生新闻,体育"
+    },
+    {
+      "raw_hot": 14037,
+      "num": 103088,
+      "word": "派大兴10淘汰MVP",
+      "onboard_time": 1751209103,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 13976,
