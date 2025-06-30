@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751325912243,
+  "endTime": 1751326825057,
   "band_list": [
     {
       "raw_hot": 1110085,
@@ -59,8 +59,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 422574,
-      "num": 422574,
+      "raw_hot": 456760,
+      "num": 456760,
       "word": "猝死前1个月身体的信号",
       "onboard_time": 1751280561,
       "rank": 6,
@@ -83,20 +83,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 375081,
+      "num": 375081,
+      "word": "上海动物园通报婴儿喝奶被赶",
+      "onboard_time": 1751298142,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 364539,
       "num": 176924,
       "word": "孙恩盛 PK验资",
       "onboard_time": 1751294604,
       "rank": 20,
       "category": "网红"
-    },
-    {
-      "raw_hot": 361951,
-      "num": 361951,
-      "word": "上海动物园通报婴儿喝奶被赶",
-      "onboard_time": 1751298142,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 304444,
@@ -131,6 +131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215219,
+      "num": 215219,
+      "word": "父母花50万带5岁儿子骑游41国",
+      "onboard_time": 1751325438,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 211894,
       "num": 211894,
       "word": "父亲回应带儿子游41国英语零进步",
@@ -163,6 +171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 175707,
+      "num": 175707,
+      "word": "NBA",
+      "onboard_time": 1751325438,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173276,
       "num": 173276,
       "word": "一人一句祝福伟大的党伟大的祖国",
@@ -187,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145921,
+      "num": 112072,
+      "word": "张本智和喊爸爸递衣服中文日语混用",
+      "onboard_time": 1751325618,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144790,
       "num": 193741,
       "word": "男子租冥币厂印假美金能过印钞机",
@@ -203,6 +227,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 131073,
+      "num": 131073,
+      "word": "女儿烫伤脸母亲维权未果致流产",
+      "onboard_time": 1751295565,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127417,
+      "num": 127417,
+      "word": "女子回家认出已故同学父亲摆摊卖瓜",
+      "onboard_time": 1751325499,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127236,
       "num": 127236,
       "word": "韩安冉曝小猪妹被饿一整天",
@@ -211,8 +251,24 @@
       "category": "网红"
     },
     {
+      "raw_hot": 126120,
+      "num": 112060,
+      "word": "拉拉维亚加盟湖人",
+      "onboard_time": 1751326039,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 120851,
+      "num": 157989,
+      "word": "南珩不行他不能捐",
+      "onboard_time": 1751323696,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120311,
-      "num": 202123,
+      "num": 239635,
       "word": "晚晚直播卖卷发棒翻车",
       "onboard_time": 1751304617,
       "rank": 37,
@@ -233,14 +289,6 @@
       "onboard_time": 1751294425,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 118817,
-      "num": 118817,
-      "word": "女儿烫伤脸母亲维权未果致流产",
-      "onboard_time": 1751295565,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115428,
@@ -275,15 +323,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 108946,
-      "num": 93387,
-      "word": "张本智和喊爸爸递衣服中文日语混用",
-      "onboard_time": 1751325618,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 101433,
+      "raw_hot": 109517,
       "num": 200921,
       "word": "刘畅不语只是一味骚扰何惟芳",
       "onboard_time": 1751316854,
@@ -291,8 +331,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 95330,
-      "num": 95330,
+      "raw_hot": 97194,
+      "num": 97194,
       "word": "原银行董事长400万迈凯伦89万被拍下",
       "onboard_time": 1751282602,
       "rank": 35,
@@ -339,12 +379,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 88210,
+      "num": 88210,
+      "word": "抑郁症躯体化的真实记录",
+      "onboard_time": 1751322796,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 88165,
-      "num": 88165,
+      "num": 112120,
       "word": "大麦 退票",
       "onboard_time": 1751284821,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 87898,
+      "num": 87898,
+      "word": "她瘦三斤比我瘦30斤都明显",
+      "onboard_time": 1751277264,
+      "rank": 35,
+      "category": "幽默,运动健身"
     },
     {
       "raw_hot": 87119,
@@ -387,28 +443,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 83109,
-      "num": 83109,
-      "word": "她瘦三斤比我瘦30斤都明显",
-      "onboard_time": 1751277264,
-      "rank": 35,
-      "category": "幽默,运动健身"
-    },
-    {
       "raw_hot": 81056,
       "num": 81056,
       "word": "管乐 王皓",
       "onboard_time": 1751269280,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 80583,
-      "num": 80583,
-      "word": "NBA",
-      "onboard_time": 1751325438,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 77068,
@@ -427,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 75821,
+      "num": 75821,
+      "word": "当你睡醒发现吞咽嗓子会痛",
+      "onboard_time": 1751280502,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 74577,
       "num": 74577,
       "word": "易烊千玺划进七月的绮梦",
@@ -441,14 +489,6 @@
       "onboard_time": 1751322856,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 73627,
-      "num": 157989,
-      "word": "南珩不行他不能捐",
-      "onboard_time": 1751323696,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 72040,
@@ -507,24 +547,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 59766,
-      "num": 59766,
-      "word": "女子回家认出已故同学父亲摆摊卖瓜",
-      "onboard_time": 1751325499,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 58185,
-      "num": 58185,
-      "word": "抑郁症躯体化的真实记录",
-      "onboard_time": 1751322796,
-      "rank": 37,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 56776,
-      "num": 56776,
+      "raw_hot": 57804,
+      "num": 57804,
       "word": "多地解禁中华田园犬",
       "onboard_time": 1751287702,
       "rank": 47,
@@ -547,6 +571,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 49542,
+      "num": 49542,
+      "word": "春秋航空辟谣飞机极速下落3000米",
+      "onboard_time": 1751326758,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48735,
       "num": 48735,
       "word": "断崖式分手后的真实状态",
@@ -555,7 +587,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 45254,
+      "raw_hot": 46281,
       "num": 60934,
       "word": "杨紫回应刘诗诗",
       "onboard_time": 1751284281,
@@ -585,14 +617,6 @@
       "onboard_time": 1751303478,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 36959,
-      "num": 212303,
-      "word": "父母花50万带5岁儿子骑游41国",
-      "onboard_time": 1751325438,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 36491,
@@ -699,7 +723,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 21574,
+      "raw_hot": 22517,
       "num": 506811,
       "word": "中国科技创新主打一个脑洞大开",
       "onboard_time": 1751294844,
