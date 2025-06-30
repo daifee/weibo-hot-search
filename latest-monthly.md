@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/30 21:38:52
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/30 21:51:16
 </p>
 </blockquote>
 <p>
@@ -5025,6 +5025,12 @@ aespa回归预告（热度：882775）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%94%A6%E7%BB%A3%E8%8A%B3%E5%8D%8E%E6%89%93%E7%A0%B4%E4%BA%86%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%E7%BA%AA%E5%BD%95%23" target="weibo">
+锦绣芳华打破了国色芳华纪录（热度：862371）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E7%A7%B0%E6%9C%9F%E5%BE%85G7%E5%8F%98G8%23" target="weibo">
 特朗普宣称期待G7变G8（热度：861801）
 </a>
@@ -6005,12 +6011,6 @@ T3司机猥亵大三女生被行拘5日（热度：810171）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%80%95%E5%85%84%E5%BC%9F%E8%80%BD%E8%AF%AF%E5%A9%9A%E7%A4%BC%E6%8A%A5%E8%AD%A6%E8%B0%8E%E7%A7%B0%E5%AB%96%E5%A8%BC%23" target="weibo">
 男子怕兄弟耽误婚礼报警谎称嫖娼（热度：766737）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%85%E6%B8%B8%E5%8D%9A%E4%B8%BB%E6%B1%9F%E5%B0%8F%E9%9A%90%E5%9C%A8%E6%99%AF%E5%8C%BA%E6%BA%BA%E4%BA%A1%23" target="weibo">
-旅游博主江小隐在景区溺亡（热度：766627）
 </a>
 </li>
 
