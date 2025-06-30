@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751301220076,
+  "endTime": 1751302185851,
   "band_list": [
     {
       "raw_hot": 1110085,
@@ -67,20 +67,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 364539,
-      "num": 168885,
-      "word": "孙恩盛 PK验资",
-      "onboard_time": 1751294604,
-      "rank": 20,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 328655,
+      "raw_hot": 386910,
       "num": 211225,
       "word": "徐艺洋晒鹿晗演唱会现场照",
       "onboard_time": 1751300301,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 364539,
+      "num": 176924,
+      "word": "孙恩盛 PK验资",
+      "onboard_time": 1751294604,
+      "rank": 20,
+      "category": "网红"
     },
     {
       "raw_hot": 323175,
@@ -131,6 +131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204968,
+      "num": 204968,
+      "word": "女子网购拉布布盲盒拆开仅剩6个裸娃",
+      "onboard_time": 1751298262,
+      "rank": 18,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 194476,
       "num": 194476,
       "word": "张艺兴13岁就认识林俊杰了",
@@ -139,12 +147,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 190142,
-      "num": 190142,
-      "word": "女子网购拉布布盲盒拆开仅剩6个裸娃",
-      "onboard_time": 1751298262,
-      "rank": 18,
-      "category": "舆论监督"
+      "raw_hot": 176902,
+      "num": 176902,
+      "word": "上海动物园通报婴儿喝奶被赶",
+      "onboard_time": 1751298142,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172551,
@@ -155,12 +163,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 160768,
-      "num": 160768,
-      "word": "上海动物园通报婴儿喝奶被赶",
-      "onboard_time": 1751298142,
-      "rank": 21,
-      "category": "民生新闻"
+      "raw_hot": 162372,
+      "num": 177070,
+      "word": "鞠婧祎工作室 会剪",
+      "onboard_time": 1751301380,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 139740,
@@ -187,6 +195,22 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 115428,
+      "num": 115428,
+      "word": "Angelababy的追星运是天花板级别",
+      "onboard_time": 1751300301,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 115365,
+      "num": 115365,
+      "word": "父亲回应带儿子游41国英语零进步",
+      "onboard_time": 1751298982,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115035,
       "num": 115035,
       "word": "00后利用办公室午休赚70元的一天",
@@ -208,22 +232,6 @@
       "word": "TFBOYS前缀",
       "onboard_time": 1751275222,
       "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 109607,
-      "num": 109607,
-      "word": "父亲回应带儿子游41国英语零进步",
-      "onboard_time": 1751298982,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 107121,
-      "num": 107121,
-      "word": "Angelababy的追星运是天花板级别",
-      "onboard_time": 1751300301,
-      "rank": 31,
       "category": "艺人"
     },
     {
@@ -251,6 +259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92103,
+      "num": 193741,
+      "word": "男子租冥币厂印假美金能过印钞机",
+      "onboard_time": 1751300062,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90739,
       "num": 109798,
       "word": "锦绣芳华热度",
@@ -275,20 +291,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 86178,
-      "num": 86178,
-      "word": "男子租冥币厂印假美金能过印钞机",
-      "onboard_time": 1751300062,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 86135,
       "num": 86135,
       "word": "血泪是张小斐设计的",
       "onboard_time": 1751295864,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 85543,
+      "num": 85543,
+      "word": "附中一年级的刘浩存",
+      "onboard_time": 1751284102,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 84561,
@@ -315,6 +331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 75965,
+      "num": 75965,
+      "word": "李光洁问李人骏是傻白甜吗",
+      "onboard_time": 1751301140,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 75959,
       "num": 75959,
       "word": "郑钦文vs西尼亚科娃",
@@ -323,19 +347,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75402,
+      "num": 75402,
+      "word": "原银行董事长400万迈凯伦89万被拍下",
+      "onboard_time": 1751282602,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74577,
       "num": 74577,
       "word": "易烊千玺划进七月的绮梦",
       "onboard_time": 1751296584,
       "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 74144,
-      "num": 74144,
-      "word": "附中一年级的刘浩存",
-      "onboard_time": 1751284102,
-      "rank": 42,
       "category": "艺人"
     },
     {
@@ -379,20 +403,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 66122,
-      "num": 66122,
-      "word": "李光洁问李人骏是傻白甜吗",
-      "onboard_time": 1751301140,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 66041,
       "num": 66041,
       "word": "特朗普承认美国对中国做过很多事",
       "onboard_time": 1751274081,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 60855,
+      "num": 60855,
+      "word": "好的人生一半一半",
+      "onboard_time": 1751299221,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 25007,
