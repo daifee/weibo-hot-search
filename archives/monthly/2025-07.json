@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751318689964,
+  "endTime": 1751319616686,
   "band_list": [
     {
       "raw_hot": 1110085,
@@ -635,6 +635,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 16472,
+      "num": 20140,
+      "word": "刘畅不语只是一味骚扰何惟芳",
+      "onboard_time": 1751316854,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 16016,
       "num": 19416,
       "word": "李现蒋长扬盔甲新皮肤",
@@ -659,12 +667,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 14174,
-      "num": 17504,
-      "word": "刘畅不语只是一味骚扰何惟芳",
-      "onboard_time": 1751316854,
-      "rank": 46,
-      "category": "剧集"
+      "raw_hot": 14994,
+      "num": 16561,
+      "word": "榕江有珠宝店三成金银饰品被冲走",
+      "onboard_time": 1751314994,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14101,
@@ -673,14 +681,6 @@
       "onboard_time": 1751312114,
       "rank": 49,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 13973,
-      "num": 16561,
-      "word": "榕江有珠宝店三成金银饰品被冲走",
-      "onboard_time": 1751314994,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13851,
@@ -699,7 +699,7 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 10238,
+      "raw_hot": 10367,
       "num": 116714,
       "word": "中国科技创新主打一个脑洞大开",
       "onboard_time": 1751294844,
