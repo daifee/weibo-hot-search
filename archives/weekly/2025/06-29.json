@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751280439273,
+  "endTime": 1751282593801,
   "band_list": [
     {
       "raw_hot": 3569605,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3137017,
-      "num": 340939,
+      "num": 418599,
       "word": "鹿晗屏保",
       "onboard_time": 1751273602,
       "rank": 10,
@@ -41,6 +41,14 @@
       "onboard_time": 1751195961,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 2100791,
+      "num": 2100791,
+      "word": "明天你的公积金账户将多一笔钱",
+      "onboard_time": 1751279121,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2005351,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 1763974,
-      "num": 352057,
+      "num": 407909,
       "word": "管乐 王皓",
       "onboard_time": 1751269280,
       "rank": 19,
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 1470010,
-      "num": 326680,
+      "num": 411213,
       "word": "TFBOYS前缀",
       "onboard_time": 1751275222,
       "rank": 11,
@@ -321,14 +329,6 @@
       "onboard_time": 1751168361,
       "rank": 3,
       "category": "演出"
-    },
-    {
-      "raw_hot": 954537,
-      "num": 954537,
-      "word": "明天你的公积金账户将多一笔钱",
-      "onboard_time": 1751279121,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 944356,
@@ -563,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 706053,
+      "num": 706053,
+      "word": "猝死前1个月身体的信号",
+      "onboard_time": 1751280561,
+      "rank": 3,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 701127,
       "num": 701127,
       "word": "林俊杰嘉宾张艺兴",
@@ -724,7 +732,7 @@
     },
     {
       "raw_hot": 533585,
-      "num": 255759,
+      "num": 372854,
       "word": "医生拿我痔疮参赛得奖了",
       "onboard_time": 1751276844,
       "rank": 20,
@@ -931,6 +939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 446262,
+      "num": 446262,
+      "word": "烟草造成经济损失约9000亿",
+      "onboard_time": 1751279360,
+      "rank": 30,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 435965,
       "num": 435965,
       "word": "男子疑逼泰国女模吸毒致死",
@@ -1049,6 +1065,14 @@
       "onboard_time": 1751128461,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 403578,
+      "num": 403578,
+      "word": "多家车企愿为YU7退订用户补定金",
+      "onboard_time": 1751279783,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 403278,
@@ -1356,7 +1380,7 @@
     },
     {
       "raw_hot": 317669,
-      "num": 255172,
+      "num": 421616,
       "word": "中方回应是否会邀特朗普参加阅兵",
       "onboard_time": 1751273542,
       "rank": 21,
@@ -1433,14 +1457,6 @@
       "onboard_time": 1751126482,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 305497,
-      "num": 305497,
-      "word": "烟草造成经济损失约9000亿",
-      "onboard_time": 1751279360,
-      "rank": 30,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 303989,
@@ -1635,6 +1651,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 276012,
+      "num": 276012,
+      "word": "网购内裤 退换",
+      "onboard_time": 1751279063,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 275320,
       "num": 275320,
       "word": "EDGM战胜JDG",
@@ -1705,6 +1729,14 @@
       "onboard_time": 1751125823,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 266197,
+      "num": 416092,
+      "word": "邓恩熙 林黛玉",
+      "onboard_time": 1751281282,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 264575,
@@ -2027,14 +2059,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 219715,
-      "num": 219715,
-      "word": "网购内裤 退换",
-      "onboard_time": 1751279063,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 219522,
       "num": 219522,
       "word": "第五人格",
@@ -2107,12 +2131,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 213214,
+      "num": 213214,
+      "word": "韩安冉曝小猪妹被饿一整天",
+      "onboard_time": 1751282242,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
       "raw_hot": 213201,
       "num": 257116,
       "word": "李胜利近照",
       "onboard_time": 1751271442,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212589,
+      "num": 212589,
+      "word": "朝雪录定档",
+      "onboard_time": 1751281523,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 212192,
@@ -2233,6 +2273,14 @@
       "onboard_time": 1751274800,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204297,
+      "num": 408684,
+      "word": "RIIZE接力空降",
+      "onboard_time": 1751280742,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 203707,
@@ -2419,6 +2467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194933,
+      "num": 194933,
+      "word": "枭起青壤",
+      "onboard_time": 1751282002,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194916,
       "num": 194916,
       "word": "樊振东祝福波尔",
@@ -2539,6 +2595,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 188940,
+      "num": 403926,
+      "word": "金灿荣对谈郭炜炜",
+      "onboard_time": 1751282122,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188790,
       "num": 188790,
       "word": "特朗普称加拿大非常恶劣",
@@ -2587,14 +2651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 186713,
-      "num": 186713,
-      "word": "多家车企愿为YU7退订用户补定金",
-      "onboard_time": 1751279783,
-      "rank": 28,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 186613,
       "num": 186613,
       "word": "罗马仕",
@@ -2633,6 +2689,14 @@
       "onboard_time": 1751268321,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184422,
+      "num": 179046,
+      "word": "35天饿瘦35斤的全身变化",
+      "onboard_time": 1751281822,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 184370,
@@ -2737,6 +2801,14 @@
       "onboard_time": 1751260941,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180165,
+      "num": 180165,
+      "word": "抢不到锦绣芳华云包场",
+      "onboard_time": 1751281704,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 179916,
@@ -2883,6 +2955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172814,
+      "num": 172814,
+      "word": "刘诗诗牡丹终于再次盛开",
+      "onboard_time": 1751281582,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172738,
       "num": 172738,
       "word": "姜云升怼新说唱",
@@ -2947,6 +3027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170409,
+      "num": 170409,
+      "word": "50岁小李子携27岁女友参加婚礼",
+      "onboard_time": 1751281103,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169887,
       "num": 169887,
       "word": "严浩翔王嘉尔合照",
@@ -2969,6 +3057,14 @@
       "onboard_time": 1751270962,
       "rank": 29,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 168265,
+      "num": 168265,
+      "word": "爷爷女友带走2岁孙子抛弃只为泄愤",
+      "onboard_time": 1751281523,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 167663,
@@ -3259,6 +3355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 156409,
+      "num": 156409,
+      "word": "哪吒2终票房154.4亿",
+      "onboard_time": 1751279904,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 156235,
       "num": 156235,
       "word": "男子前台借伞不满50押金砸人被拘",
@@ -3329,6 +3433,14 @@
       "onboard_time": 1751188883,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154760,
+      "num": 154760,
+      "word": "认不出这是李准基",
+      "onboard_time": 1751282421,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 154698,
@@ -3409,6 +3521,14 @@
       "onboard_time": 1751203823,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151721,
+      "num": 151721,
+      "word": "马嘉祺三号休息间第一游戏王",
+      "onboard_time": 1751281582,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 151297,
@@ -3593,6 +3713,14 @@
       "onboard_time": 1751174782,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145608,
+      "num": 145608,
+      "word": "杨紫 扛招商",
+      "onboard_time": 1751282482,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 145003,
@@ -3801,14 +3929,6 @@
       "onboard_time": 1751165001,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 137727,
-      "num": 137727,
-      "word": "哪吒2终票房154.4亿",
-      "onboard_time": 1751279904,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 137698,
@@ -4099,6 +4219,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 130353,
+      "num": 130353,
+      "word": "当你睡醒发现吞咽嗓子会痛",
+      "onboard_time": 1751280502,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130335,
       "num": 130335,
       "word": "直击贵州榕江洪水最新情况",
@@ -4347,6 +4475,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 123775,
+      "num": 123775,
+      "word": "孙恩盛停播",
+      "onboard_time": 1751282541,
+      "rank": 47,
+      "category": "网红"
+    },
+    {
       "raw_hot": 123709,
       "num": 438597,
       "word": "虐猫考生考察若不合格将不予录取",
@@ -4481,6 +4617,14 @@
       "onboard_time": 1751273122,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119712,
+      "num": 131170,
+      "word": "新加坡环球影城偶遇Angelababy小海绵",
+      "onboard_time": 1751281103,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 119675,
@@ -5715,6 +5859,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 56239,
+      "num": 179134,
+      "word": "水利行业的黄埔军校",
+      "onboard_time": 1751281822,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 55539,
       "num": 152657,
       "word": "MSI淘汰赛首轮没有中韩大战",
@@ -5867,6 +6019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44981,
+      "num": 406604,
+      "word": "胡兵官宣首个百张时尚面孔马瑞",
+      "onboard_time": 1751281883,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 44811,
       "num": 181930,
       "word": "小车疑遭雷击车内男子听到电流声",
@@ -5889,6 +6049,14 @@
       "onboard_time": 1751239939,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 43505,
+      "num": 412472,
+      "word": "苏超连赞助商都是散装的",
+      "onboard_time": 1751281282,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 42573,
@@ -5980,7 +6148,7 @@
     },
     {
       "raw_hot": 35237,
-      "num": 957229,
+      "num": 1357558,
       "word": "数读国货如何征服全球味蕾",
       "onboard_time": 1751277803,
       "rank": 2,
@@ -6049,6 +6217,14 @@
       "onboard_time": 1751162001,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 32191,
+      "num": 151917,
+      "word": "久酷街头艺术大片",
+      "onboard_time": 1751282182,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 31835,
@@ -6120,6 +6296,22 @@
       "word": "暴雨台风应对参考手册",
       "onboard_time": 1751258183,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29536,
+      "num": 125638,
+      "word": "汪顺体坛零距离预告",
+      "onboard_time": 1751281163,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 29351,
+      "num": 414417,
+      "word": "律师被指私收委托人150万疏通关系",
+      "onboard_time": 1751281282,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -6457,6 +6649,14 @@
       "onboard_time": 1751213601,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 14567,
+      "num": 145677,
+      "word": "查户籍档案发现母亲被登记成婶婶",
+      "onboard_time": 1751282541,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14204,
