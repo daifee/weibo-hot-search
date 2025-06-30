@@ -1,0 +1,410 @@
+{
+  "runTime": 1751288961867,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1570141,
+        "num": 1570141,
+        "word": "明天你的公积金账户将多一笔钱",
+        "onboard_time": 1751279121,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1155087,
+        "num": 1155087,
+        "word": "人人视频崩了",
+        "onboard_time": 1751285722,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 33810,
+        "num": 808357,
+        "word": "数读国货如何征服全球味蕾",
+        "onboard_time": 1751277803,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 751665,
+        "num": 751665,
+        "word": "大麦 退票",
+        "onboard_time": 1751284821,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 594543,
+        "num": 594543,
+        "word": "爷爷女友带走2岁孙子抛弃只为泄愤",
+        "onboard_time": 1751281523,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2156933,
+        "num": 590511,
+        "word": "中华田园犬 禁养",
+        "onboard_time": 1751276424,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 516362,
+        "num": 516362,
+        "word": "猝死前1个月身体的信号",
+        "onboard_time": 1751280561,
+        "rank": 6,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 515681,
+        "num": 515681,
+        "word": "原银行董事长400万迈凯伦89万被拍下",
+        "onboard_time": 1751282602,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 504171,
+        "num": 504171,
+        "word": "杨紫回应刘诗诗",
+        "onboard_time": 1751284281,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173599,
+        "num": 492906,
+        "word": "多地解禁中华田园犬",
+        "onboard_time": 1751287702,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1272955,
+        "num": 474636,
+        "word": "鹿晗屏保",
+        "onboard_time": 1751273602,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 600410,
+        "num": 462266,
+        "word": "韩安冉曝小猪妹被饿一整天",
+        "onboard_time": 1751282242,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 540344,
+        "num": 445708,
+        "word": "认不出这是李准基",
+        "onboard_time": 1751282421,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435278,
+        "num": 435278,
+        "word": "管乐 王皓",
+        "onboard_time": 1751269280,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11519,
+        "num": 431423,
+        "word": "执法人员勾结黄牛处理超限车敛财",
+        "onboard_time": 1751288484,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 429144,
+        "num": 429144,
+        "word": "陈芋汐撕拉片",
+        "onboard_time": 1751286564,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 348471,
+        "num": 348471,
+        "word": "烟草造成经济损失约9000亿",
+        "onboard_time": 1751279360,
+        "rank": 16,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 340655,
+        "num": 340655,
+        "word": "孙恩盛停播",
+        "onboard_time": 1751282541,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 284336,
+        "num": 332566,
+        "word": "鹿晗西安抢票",
+        "onboard_time": 1751283921,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 26669,
+        "num": 327341,
+        "word": "跟了华夏几千年地地道道中国犬",
+        "onboard_time": 1751288484,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 346942,
+        "num": 319575,
+        "word": "TFBOYS前缀",
+        "onboard_time": 1751275222,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174901,
+        "num": 305232,
+        "word": "短剧男主角累到恶心呕吐",
+        "onboard_time": 1751284642,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 302469,
+        "num": 302469,
+        "word": "多家车企愿为YU7退订用户补定金",
+        "onboard_time": 1751279783,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 216301,
+        "num": 262878,
+        "word": "王安宇 音乐节",
+        "onboard_time": 1751287823,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 43698,
+        "num": 252297,
+        "word": "袁悦vs利斯",
+        "onboard_time": 1751287945,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250591,
+        "num": 250591,
+        "word": "幼儿园招老师工资分级最高不超3千",
+        "onboard_time": 1751287283,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215286,
+        "num": 215286,
+        "word": "锦绣芳华打破了国色芳华纪录",
+        "onboard_time": 1751288303,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186424,
+        "num": 213077,
+        "word": "附中一年级的刘浩存",
+        "onboard_time": 1751284102,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167128,
+        "num": 212609,
+        "word": "锦绣芳华",
+        "onboard_time": 1751278282,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162809,
+        "num": 212270,
+        "word": "李准基 无毛猫",
+        "onboard_time": 1751285964,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212260,
+        "num": 212260,
+        "word": "网购内裤 退换",
+        "onboard_time": 1751279063,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188080,
+        "num": 188080,
+        "word": "医生拿我痔疮参赛得奖了",
+        "onboard_time": 1751276844,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182013,
+        "num": 182013,
+        "word": "解限机外网好评如潮",
+        "onboard_time": 1751287403,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168517,
+        "num": 168517,
+        "word": "新房挖出男性尸骨当事女子发声",
+        "onboard_time": 1751268982,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164078,
+        "num": 164078,
+        "word": "不发朋友圈的人是什么性格",
+        "onboard_time": 1751282482,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154233,
+        "num": 154233,
+        "word": "特朗普承认美国对中国做过很多事",
+        "onboard_time": 1751274081,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153159,
+        "num": 153159,
+        "word": "她瘦三斤比我瘦30斤都明显",
+        "onboard_time": 1751277264,
+        "rank": 36,
+        "category": "幽默,运动健身"
+      },
+      {
+        "raw_hot": 142811,
+        "num": 142811,
+        "word": "黄绮珊回应蔡徐坤",
+        "onboard_time": 1751283142,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88614,
+        "num": 142262,
+        "word": "巴西游客坠入印尼火山",
+        "onboard_time": 1751287103,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 141825,
+        "num": 141825,
+        "word": "纸嫁衣动画化",
+        "onboard_time": 1751285964,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 140044,
+        "num": 140044,
+        "word": "西安彩虹",
+        "onboard_time": 1751285242,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137443,
+        "num": 137443,
+        "word": "尊界S800",
+        "onboard_time": 1751287283,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 133557,
+        "num": 133557,
+        "word": "西安天空现绝美双彩虹",
+        "onboard_time": 1751288785,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126672,
+        "num": 126672,
+        "word": "锦绣芳华开局14广",
+        "onboard_time": 1751279184,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125997,
+        "num": 125997,
+        "word": "公积金结息能领几千元",
+        "onboard_time": 1751274681,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125569,
+        "num": 125569,
+        "word": "徐艺洋也有labubu",
+        "onboard_time": 1751288183,
+        "rank": 45,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 124511,
+        "num": 124511,
+        "word": "李宇春回应当年拒绝代言锤子手机",
+        "onboard_time": 1751286685,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121378,
+        "num": 121378,
+        "word": "沈梦辰新剧头饰比头都大",
+        "onboard_time": 1751287881,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119831,
+        "num": 119831,
+        "word": "以法之名",
+        "onboard_time": 1751284223,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115066,
+        "num": 115066,
+        "word": "儿媳每月给婆婆6000元感谢帮带娃",
+        "onboard_time": 1751288065,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局6月30日召开会议#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751288052850,
+  "endTime": 1751288961867,
   "band_list": [
     {
       "raw_hot": 3569605,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3137017,
-      "num": 426311,
+      "num": 474636,
       "word": "鹿晗屏保",
       "onboard_time": 1751273602,
       "rank": 10,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1763974,
-      "num": 407909,
+      "num": 435278,
       "word": "管乐 王皓",
       "onboard_time": 1751269280,
       "rank": 19,
@@ -243,8 +243,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1142145,
-      "num": 1142145,
+      "raw_hot": 1155087,
+      "num": 1155087,
       "word": "人人视频崩了",
       "onboard_time": 1751285722,
       "rank": 1,
@@ -483,6 +483,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 751665,
+      "num": 751665,
+      "word": "大麦 退票",
+      "onboard_time": 1751284821,
+      "rank": 4,
+      "category": "演出"
+    },
+    {
       "raw_hot": 750148,
       "num": 750148,
       "word": "胡锡进建议给虐猫者重开机会",
@@ -513,14 +521,6 @@
       "onboard_time": 1751202384,
       "rank": 21,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 733444,
-      "num": 733444,
-      "word": "大麦 退票",
-      "onboard_time": 1751284821,
-      "rank": 4,
-      "category": "演出"
     },
     {
       "raw_hot": 733026,
@@ -628,7 +628,7 @@
     },
     {
       "raw_hot": 650592,
-      "num": 384648,
+      "num": 462266,
       "word": "韩安冉曝小猪妹被饿一整天",
       "onboard_time": 1751282242,
       "rank": 24,
@@ -692,7 +692,7 @@
     },
     {
       "raw_hot": 602884,
-      "num": 407213,
+      "num": 445708,
       "word": "认不出这是李准基",
       "onboard_time": 1751282421,
       "rank": 37,
@@ -707,8 +707,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 581758,
-      "num": 581758,
+      "raw_hot": 594543,
+      "num": 594543,
       "word": "爷爷女友带走2岁孙子抛弃只为泄愤",
       "onboard_time": 1751281523,
       "rank": 34,
@@ -827,6 +827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 504171,
+      "num": 504171,
+      "word": "杨紫回应刘诗诗",
+      "onboard_time": 1751284281,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 503225,
       "num": 503225,
       "word": "哪吒2告别",
@@ -905,14 +913,6 @@
       "onboard_time": 1751257522,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 479482,
-      "num": 479482,
-      "word": "杨紫回应刘诗诗",
-      "onboard_time": 1751284281,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 478208,
@@ -1033,6 +1033,14 @@
       "onboard_time": 1751170221,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 429144,
+      "num": 429144,
+      "word": "陈芋汐撕拉片",
+      "onboard_time": 1751286564,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 428697,
@@ -1699,6 +1707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 284336,
+      "num": 332566,
+      "word": "鹿晗西安抢票",
+      "onboard_time": 1751283921,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 283516,
       "num": 283516,
       "word": "16岁学生和父亲争吵后手变鸡爪",
@@ -1779,14 +1795,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 268854,
-      "num": 280630,
-      "word": "鹿晗西安抢票",
-      "onboard_time": 1751283921,
-      "rank": 18,
-      "category": "演出"
-    },
-    {
       "raw_hot": 267715,
       "num": 267715,
       "word": "崔胜铉生图状态",
@@ -1849,14 +1857,6 @@
       "onboard_time": 1751156239,
       "rank": 20,
       "category": "科学科普,民生新闻"
-    },
-    {
-      "raw_hot": 258613,
-      "num": 258613,
-      "word": "陈芋汐撕拉片",
-      "onboard_time": 1751286564,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 258030,
@@ -1944,6 +1944,14 @@
       "word": "猫妈妈洪水中叼着小猫绝处求生",
       "onboard_time": 1751127742,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 250591,
+      "num": 250591,
+      "word": "幼儿园招老师工资分级最高不超3千",
+      "onboard_time": 1751287283,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -2203,6 +2211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216301,
+      "num": 262878,
+      "word": "王安宇 音乐节",
+      "onboard_time": 1751287823,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 215945,
       "num": 215945,
       "word": "飞天茅台再度全线下跌",
@@ -2217,6 +2233,14 @@
       "onboard_time": 1751091143,
       "rank": 19,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 215286,
+      "num": 215286,
+      "word": "锦绣芳华打破了国色芳华纪录",
+      "onboard_time": 1751288303,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 213941,
@@ -2763,6 +2787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 186424,
+      "num": 213077,
+      "word": "附中一年级的刘浩存",
+      "onboard_time": 1751284102,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186365,
       "num": 186365,
       "word": "印度两万留学生来华学技术",
@@ -2772,7 +2804,7 @@
     },
     {
       "raw_hot": 185753,
-      "num": 185753,
+      "num": 305232,
       "word": "短剧男主角累到恶心呕吐",
       "onboard_time": 1751284642,
       "rank": 24,
@@ -2819,14 +2851,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 184043,
-      "num": 184043,
-      "word": "王安宇 音乐节",
-      "onboard_time": 1751287823,
-      "rank": 25,
-      "category": "演出"
-    },
-    {
       "raw_hot": 184022,
       "num": 162347,
       "word": "陈哲远被泰粉叫红温了",
@@ -2867,14 +2891,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 183085,
-      "num": 183085,
-      "word": "附中一年级的刘浩存",
-      "onboard_time": 1751284102,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 182956,
       "num": 183439,
       "word": "歌手揭榜海龟汤",
@@ -2897,6 +2913,14 @@
       "onboard_time": 1751259862,
       "rank": 33,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 182013,
+      "num": 182013,
+      "word": "解限机外网好评如潮",
+      "onboard_time": 1751287403,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 181844,
@@ -3081,6 +3105,14 @@
       "onboard_time": 1751192300,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 173599,
+      "num": 492906,
+      "word": "多地解禁中华田园犬",
+      "onboard_time": 1751287702,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172847,
@@ -3339,6 +3371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 162809,
+      "num": 212270,
+      "word": "李准基 无毛猫",
+      "onboard_time": 1751285964,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162403,
       "num": 282727,
       "word": "杨幂秦海璐 都市情人",
@@ -3353,14 +3393,6 @@
       "onboard_time": 1751177361,
       "rank": 40,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 162046,
-      "num": 162046,
-      "word": "幼儿园招老师工资分级最高不超3千",
-      "onboard_time": 1751287283,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 161992,
@@ -3947,6 +3979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141825,
+      "num": 141825,
+      "word": "纸嫁衣动画化",
+      "onboard_time": 1751285964,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 141756,
       "num": 257343,
       "word": "我和angelababy唯一的共同点",
@@ -4027,19 +4067,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140044,
+      "num": 140044,
+      "word": "西安彩虹",
+      "onboard_time": 1751285242,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139524,
       "num": 139524,
       "word": "鹿晗邓超一起吃饭",
       "onboard_time": 1751241019,
       "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 139218,
-      "num": 139218,
-      "word": "李准基 无毛猫",
-      "onboard_time": 1751285964,
-      "rank": 37,
       "category": "艺人"
     },
     {
@@ -4243,6 +4283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 133557,
+      "num": 133557,
+      "word": "西安天空现绝美双彩虹",
+      "onboard_time": 1751288785,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133097,
       "num": 133097,
       "word": "关晓彤近期妆造",
@@ -4345,14 +4393,6 @@
       "onboard_time": 1751166201,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 131178,
-      "num": 131178,
-      "word": "西安彩虹",
-      "onboard_time": 1751285242,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131143,
@@ -4617,6 +4657,14 @@
       "onboard_time": 1751188341,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 125569,
+      "num": 125569,
+      "word": "徐艺洋也有labubu",
+      "onboard_time": 1751288183,
+      "rank": 45,
+      "category": "艺人,休闲"
     },
     {
       "raw_hot": 125333,
@@ -4993,6 +5041,14 @@
       "onboard_time": 1751254581,
       "rank": 14,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 115066,
+      "num": 115066,
+      "word": "儿媳每月给婆婆6000元感谢帮带娃",
+      "onboard_time": 1751288065,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 114962,
@@ -5539,14 +5595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95170,
-      "num": 135520,
-      "word": "解限机外网好评如潮",
-      "onboard_time": 1751287403,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 94784,
       "num": 94784,
       "word": "男子私凿的奥特曼石窟即将被拆除",
@@ -5625,6 +5673,14 @@
       "onboard_time": 1751126002,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88614,
+      "num": 142262,
+      "word": "巴西游客坠入印尼火山",
+      "onboard_time": 1751287103,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 87220,
@@ -6236,7 +6292,7 @@
     },
     {
       "raw_hot": 46732,
-      "num": 132517,
+      "num": 252297,
       "word": "袁悦vs利斯",
       "onboard_time": 1751287945,
       "rank": 41,
@@ -6313,14 +6369,6 @@
       "onboard_time": 1751214978,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 38913,
-      "num": 136602,
-      "word": "巴西游客坠入印尼火山",
-      "onboard_time": 1751287103,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 38657,
@@ -6643,6 +6691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 26669,
+      "num": 327341,
+      "word": "跟了华夏几千年地地道道中国犬",
+      "onboard_time": 1751288484,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26138,
       "num": 858272,
       "word": "数读我国物流运行亮眼成绩单",
@@ -6736,14 +6792,6 @@
       "word": "查户籍档案发现母亲被登记成婶婶",
       "onboard_time": 1751282541,
       "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24126,
-      "num": 399874,
-      "word": "多地解禁中华田园犬",
-      "onboard_time": 1751287702,
-      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -6993,6 +7041,14 @@
       "onboard_time": 1751204424,
       "rank": 33,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 11519,
+      "num": 431423,
+      "word": "执法人员勾结黄牛处理超限车敛财",
+      "onboard_time": 1751288484,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 10997,
