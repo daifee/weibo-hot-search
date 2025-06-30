@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751304206367,
+  "endTime": 1751305345879,
   "band_list": [
     {
       "raw_hot": 1110085,
@@ -315,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84589,
+      "num": 134480,
+      "word": "男子遭冒名顶替25年涉案者仍未道歉",
+      "onboard_time": 1751302878,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84561,
       "num": 84561,
       "word": "公积金结息能领几千元",
@@ -427,8 +435,16 @@
       "category": "情感"
     },
     {
-      "raw_hot": 47692,
-      "num": 47692,
+      "raw_hot": 52321,
+      "num": 53852,
+      "word": "哪吒",
+      "onboard_time": 1751304377,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 48735,
+      "num": 48735,
       "word": "断崖式分手后的真实状态",
       "onboard_time": 1751303778,
       "rank": 37,
@@ -451,6 +467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39531,
+      "num": 39531,
+      "word": "晚晚直播卖卷发棒翻车",
+      "onboard_time": 1751304617,
+      "rank": 37,
+      "category": "网红"
+    },
+    {
       "raw_hot": 38299,
       "num": 43751,
       "word": "多地解禁中华田园犬",
@@ -467,11 +491,27 @@
       "category": "演出"
     },
     {
-      "raw_hot": 26990,
-      "num": 134480,
-      "word": "男子遭冒名顶替25年涉案者仍未道歉",
-      "onboard_time": 1751302878,
-      "rank": 14,
+      "raw_hot": 36491,
+      "num": 36491,
+      "word": "汪苏泷罗曼城魔法回到24小时前",
+      "onboard_time": 1751304737,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 35478,
+      "num": 35478,
+      "word": "杨紫回应刘诗诗",
+      "onboard_time": 1751284281,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 31983,
+      "num": 35231,
+      "word": "2025上半年纪念短片",
+      "onboard_time": 1751305037,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
