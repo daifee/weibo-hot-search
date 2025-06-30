@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751302185851,
+  "endTime": 1751304206367,
   "band_list": [
     {
       "raw_hot": 1110085,
@@ -67,8 +67,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 408666,
+      "num": 408666,
+      "word": "猝死前1个月身体的信号",
+      "onboard_time": 1751280561,
+      "rank": 6,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 386910,
-      "num": 211225,
+      "num": 334214,
       "word": "徐艺洋晒鹿晗演唱会现场照",
       "onboard_time": 1751300301,
       "rank": 15,
@@ -81,14 +89,6 @@
       "onboard_time": 1751294604,
       "rank": 20,
       "category": "网红"
-    },
-    {
-      "raw_hot": 323175,
-      "num": 323175,
-      "word": "猝死前1个月身体的信号",
-      "onboard_time": 1751280561,
-      "rank": 6,
-      "category": "科学科普"
     },
     {
       "raw_hot": 304444,
@@ -105,6 +105,14 @@
       "onboard_time": 1751293704,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 242580,
+      "num": 242580,
+      "word": "上海动物园通报婴儿喝奶被赶",
+      "onboard_time": 1751298142,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 242103,
@@ -147,12 +155,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 176902,
-      "num": 176902,
-      "word": "上海动物园通报婴儿喝奶被赶",
-      "onboard_time": 1751298142,
-      "rank": 21,
-      "category": "民生新闻"
+      "raw_hot": 172670,
+      "num": 172670,
+      "word": "一人一句祝福伟大的党伟大的祖国",
+      "onboard_time": 1751303178,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 172551,
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 162372,
-      "num": 177070,
+      "num": 202699,
       "word": "鞠婧祎工作室 会剪",
       "onboard_time": 1751301380,
       "rank": 18,
@@ -193,6 +201,14 @@
       "onboard_time": 1751279360,
       "rank": 24,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 116530,
+      "num": 193741,
+      "word": "男子租冥币厂印假美金能过印钞机",
+      "onboard_time": 1751300062,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115428,
@@ -257,14 +273,6 @@
       "onboard_time": 1751296404,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 92103,
-      "num": 193741,
-      "word": "男子租冥币厂印假美金能过印钞机",
-      "onboard_time": 1751300062,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 90739,
@@ -419,6 +427,54 @@
       "category": "情感"
     },
     {
+      "raw_hot": 47692,
+      "num": 47692,
+      "word": "断崖式分手后的真实状态",
+      "onboard_time": 1751303778,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 44025,
+      "num": 44025,
+      "word": "阿尔卡拉斯vs弗格尼尼",
+      "onboard_time": 1751302639,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 41937,
+      "num": 43768,
+      "word": "上海动物园称文博展厅禁止饮食",
+      "onboard_time": 1751303896,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38299,
+      "num": 43751,
+      "word": "多地解禁中华田园犬",
+      "onboard_time": 1751287702,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37532,
+      "num": 43738,
+      "word": "张艺兴音乐人之间的默契合唱",
+      "onboard_time": 1751303478,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 26990,
+      "num": 134480,
+      "word": "男子遭冒名顶替25年涉案者仍未道歉",
+      "onboard_time": 1751302878,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25007,
       "num": 503427,
       "word": "万千气象看山西",
@@ -430,6 +486,9 @@
   "hotgov_list": [
     {
       "word": "#总书记向全国广大共产党员致以节日问候#"
+    },
+    {
+      "word": "#中共中央政治局第二十一次集体学习#"
     }
   ]
 }
