@@ -1,0 +1,410 @@
+{
+  "runTime": 1751269371666,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1520809,
+        "num": 1520809,
+        "word": "管乐正面回应和王皓分手",
+        "onboard_time": 1751267422,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 810431,
+        "num": 810431,
+        "word": "二手烟 霸凌",
+        "onboard_time": 1751265081,
+        "rank": 1,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 19606,
+        "num": 767697,
+        "word": "暴雨台风应对参考手册",
+        "onboard_time": 1751258183,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1118598,
+        "num": 766306,
+        "word": "充电宝被禁了我用什么",
+        "onboard_time": 1751262620,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 888352,
+        "num": 763922,
+        "word": "92岁游本昌宣誓入党",
+        "onboard_time": 1751264902,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 750148,
+        "num": 750148,
+        "word": "胡锡进建议给虐猫者重开机会",
+        "onboard_time": 1751266583,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 692182,
+        "num": 692182,
+        "word": "韩国首尔爱情虫爆发",
+        "onboard_time": 1751258302,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 686194,
+        "num": 686194,
+        "word": "邓超微博 作品孙俪孩子鹿晗",
+        "onboard_time": 1751264543,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 451098,
+        "num": 451098,
+        "word": "禁养犬",
+        "onboard_time": 1751264661,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 498328,
+        "num": 451041,
+        "word": "印度向巴基斯坦泄洪",
+        "onboard_time": 1751265382,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111363,
+        "num": 448126,
+        "word": "白象说到做到面饼120克上市",
+        "onboard_time": 1751268863,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 485284,
+        "num": 446000,
+        "word": "本升专",
+        "onboard_time": 1751260941,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 457871,
+        "num": 443865,
+        "word": "柴六斤",
+        "onboard_time": 1751267602,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78761,
+        "num": 440874,
+        "word": "新房挖出男性尸骨当事女子发声",
+        "onboard_time": 1751268982,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87705,
+        "num": 438597,
+        "word": "虐猫考生考察若不合格将不予录取",
+        "onboard_time": 1751268743,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 438590,
+        "num": 438590,
+        "word": "李嘉格妈妈是上嫁的牺牲者",
+        "onboard_time": 1751260821,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 392108,
+        "num": 392108,
+        "word": "刘诗诗为杨紫包场",
+        "onboard_time": 1751266943,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 358095,
+        "num": 358095,
+        "word": "邓超晒与鹿晗陈赫合照",
+        "onboard_time": 1751253801,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357984,
+        "num": 357984,
+        "word": "原来新鲜的荔枝是这样的",
+        "onboard_time": 1751255361,
+        "rank": 18,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 352057,
+        "num": 352057,
+        "word": "管乐 王皓",
+        "onboard_time": 1751269280,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 534334,
+        "num": 340043,
+        "word": "女子买新房挖出尸骨腿都软了",
+        "onboard_time": 1751266462,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323425,
+        "num": 323425,
+        "word": "杨幂又cue迪丽热巴了",
+        "onboard_time": 1751268382,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307144,
+        "num": 307144,
+        "word": "董卿眼睛出现状况",
+        "onboard_time": 1751269042,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269475,
+        "num": 269475,
+        "word": "招聘单位回应考生确系虐猫当事人",
+        "onboard_time": 1751254701,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247117,
+        "num": 247117,
+        "word": "哪吒2下映",
+        "onboard_time": 1751250081,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 228843,
+        "num": 228843,
+        "word": "日本在台湾周边建避难所",
+        "onboard_time": 1751265802,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 215521,
+        "num": 215521,
+        "word": "中国共产党党员总数为10027.1万名",
+        "onboard_time": 1751252182,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 213016,
+        "num": 213016,
+        "word": "崔胜铉生图状态",
+        "onboard_time": 1751264961,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105880,
+        "num": 209918,
+        "word": "小鹏G7公开实测AEB刷新行业纪录",
+        "onboard_time": 1751268502,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 145003,
+        "num": 209342,
+        "word": "女子带患病儿子跑车有人偷留1万元",
+        "onboard_time": 1751268081,
+        "rank": 29,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 209088,
+        "num": 209088,
+        "word": "马嘉祺郑州",
+        "onboard_time": 1751264543,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31835,
+        "num": 198924,
+        "word": "开了7天中药花了8000多",
+        "onboard_time": 1751269280,
+        "rank": 31,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 195232,
+        "num": 195232,
+        "word": "收到不雅照转过去15万才想起没拍过",
+        "onboard_time": 1751259682,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186365,
+        "num": 186365,
+        "word": "印度两万留学生来华学技术",
+        "onboard_time": 1751267422,
+        "rank": 33,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 184859,
+        "num": 184859,
+        "word": "刘宇宁事业运",
+        "onboard_time": 1751268321,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179312,
+        "num": 179312,
+        "word": "锦绣芳华开播口碑",
+        "onboard_time": 1751267663,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178712,
+        "num": 178712,
+        "word": "设立党中央决策议事协调机构",
+        "onboard_time": 1751263461,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 164276,
+        "num": 164276,
+        "word": "刘亦菲和朋友聚餐",
+        "onboard_time": 1751268922,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163171,
+        "num": 163171,
+        "word": "重庆荣昌区委书记下馆子老板发声",
+        "onboard_time": 1751263461,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62301,
+        "num": 162107,
+        "word": "秦彻睡不着",
+        "onboard_time": 1751268382,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161992,
+        "num": 161992,
+        "word": "榕江最大超市损失千万店长发声",
+        "onboard_time": 1751261482,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160457,
+        "num": 160457,
+        "word": "周一告白周二结婚周三生孩子",
+        "onboard_time": 1751267242,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142922,
+        "num": 142922,
+        "word": "杨幂质问周笔畅没点赞朋友圈",
+        "onboard_time": 1751266222,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137913,
+        "num": 137913,
+        "word": "疑毒杀女模中国籍嫌犯返泰自首",
+        "onboard_time": 1751261721,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136569,
+        "num": 136569,
+        "word": "黄圣依你也找不到比我更好的了",
+        "onboard_time": 1751262741,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133737,
+        "num": 133737,
+        "word": "iPhone 检查虫子",
+        "onboard_time": 1751253501,
+        "rank": 45,
+        "category": "数码,民生新闻"
+      },
+      {
+        "raw_hot": 131676,
+        "num": 131676,
+        "word": "双休和单休真的是两种人生",
+        "onboard_time": 1751259143,
+        "rank": 46,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 130573,
+        "num": 130573,
+        "word": "韩安冉女儿虫卵过敏",
+        "onboard_time": 1751266163,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 125137,
+        "num": 125137,
+        "word": "金饰克价半月大跌超50元",
+        "onboard_time": 1751266522,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 118461,
+        "num": 118461,
+        "word": "MSI八强确定",
+        "onboard_time": 1751263942,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记足迹瞰老区新貌#"
+    }
+  }
+}
