@@ -1,0 +1,410 @@
+{
+  "runTime": 1751308601927,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 326664,
+        "num": 326664,
+        "word": "猝死前1个月身体的信号",
+        "onboard_time": 1751280561,
+        "rank": 0,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 220204,
+        "num": 220204,
+        "word": "女子拍到野牛跌入温泉被活活煮死",
+        "onboard_time": 1751297064,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 11961,
+        "num": 171924,
+        "word": "万千气象看山西",
+        "onboard_time": 1751294963,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 140325,
+        "num": 140325,
+        "word": "徐艺洋晒鹿晗演唱会现场照",
+        "onboard_time": 1751300301,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102402,
+        "num": 102402,
+        "word": "上海动物园通报婴儿喝奶被赶",
+        "onboard_time": 1751298142,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155360,
+        "num": 98639,
+        "word": "中华田园犬 禁养",
+        "onboard_time": 1751276424,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90616,
+        "num": 90616,
+        "word": "一人一句祝福伟大的党伟大的祖国",
+        "onboard_time": 1751303178,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 83102,
+        "num": 83102,
+        "word": "金价大跌商家称不如上涨时卖得好",
+        "onboard_time": 1751297963,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77991,
+        "num": 77991,
+        "word": "女子网购拉布布盲盒拆开仅剩6个裸娃",
+        "onboard_time": 1751298262,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 58428,
+        "num": 77793,
+        "word": "鞠婧祎工作室 会剪",
+        "onboard_time": 1751301380,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208503,
+        "num": 77305,
+        "word": "鹿晗屏保",
+        "onboard_time": 1751273602,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169372,
+        "num": 76984,
+        "word": "胡一天673天没进组了",
+        "onboard_time": 1751293404,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15070,
+        "num": 76401,
+        "word": "五个着力点进一步推进党的自我革命",
+        "onboard_time": 1751308155,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 76012,
+        "num": 76012,
+        "word": "明天你的公积金账户将多一笔钱",
+        "onboard_time": 1751279121,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113350,
+        "num": 73779,
+        "word": "恋丑癖越来越多的原因好像找到了",
+        "onboard_time": 1751295622,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95917,
+        "num": 72521,
+        "word": "晚晚直播卖卷发棒翻车",
+        "onboard_time": 1751304617,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 71145,
+        "num": 71145,
+        "word": "中通快递回应拉布布盲盒仅剩6个裸娃",
+        "onboard_time": 1751306955,
+        "rank": 16,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 55084,
+        "num": 55084,
+        "word": "警方回应网传男子带12岁女孩开房",
+        "onboard_time": 1751289384,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53537,
+        "num": 53537,
+        "word": "郑钦文vs西尼亚科娃",
+        "onboard_time": 1751297424,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36126,
+        "num": 50402,
+        "word": "张艺兴13岁就认识林俊杰了",
+        "onboard_time": 1751295983,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 183227,
+        "num": 50231,
+        "word": "孙恩盛 PK验资",
+        "onboard_time": 1751294604,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 49556,
+        "num": 49556,
+        "word": "香港回归祖国28年",
+        "onboard_time": 1751290763,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 48785,
+        "num": 48785,
+        "word": "锦绣芳华打破了国色芳华纪录",
+        "onboard_time": 1751288303,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47285,
+        "num": 47285,
+        "word": "Angelababy的追星运是天花板级别",
+        "onboard_time": 1751300301,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46744,
+        "num": 46744,
+        "word": "男子租冥币厂印假美金能过印钞机",
+        "onboard_time": 1751300062,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45971,
+        "num": 45971,
+        "word": "1997年7月1日0时0分0秒",
+        "onboard_time": 1751293042,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 37960,
+        "num": 37960,
+        "word": "因微信办公违规多人被处理",
+        "onboard_time": 1751293704,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37508,
+        "num": 37508,
+        "word": "烟草造成经济损失约9000亿",
+        "onboard_time": 1751279360,
+        "rank": 27,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 33533,
+        "num": 36969,
+        "word": "附中一年级的刘浩存",
+        "onboard_time": 1751284102,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26752,
+        "num": 36718,
+        "word": "湖南卫视开飞机喊你看锦绣芳华",
+        "onboard_time": 1751307016,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36600,
+        "num": 36600,
+        "word": "原银行董事长400万迈凯伦89万被拍下",
+        "onboard_time": 1751282602,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36417,
+        "num": 36417,
+        "word": "韩安冉曝小猪妹被饿一整天",
+        "onboard_time": 1751282242,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 35585,
+        "num": 35585,
+        "word": "聪明人说话有7个特点",
+        "onboard_time": 1751308155,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33128,
+        "num": 33128,
+        "word": "父亲回应带儿子游41国英语零进步",
+        "onboard_time": 1751298982,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27319,
+        "num": 32683,
+        "word": "哪吒",
+        "onboard_time": 1751304377,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 32268,
+        "num": 32268,
+        "word": "TFBOYS前缀",
+        "onboard_time": 1751275222,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18279,
+        "num": 31805,
+        "word": "蔡澜助理辟谣胁迫陈宝莲",
+        "onboard_time": 1751307196,
+        "rank": 36,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 31414,
+        "num": 31414,
+        "word": "断崖式分手后的真实状态",
+        "onboard_time": 1751303778,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30667,
+        "num": 30667,
+        "word": "女儿烫伤脸母亲维权未果致流产",
+        "onboard_time": 1751295565,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30635,
+        "num": 30635,
+        "word": "医生回应酒店光脚洗澡或感染HPV",
+        "onboard_time": 1751297003,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29436,
+        "num": 29436,
+        "word": "男子遭冒名顶替25年涉案者仍未道歉",
+        "onboard_time": 1751302878,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28096,
+        "num": 28096,
+        "word": "特朗普承认美国对中国做过很多事",
+        "onboard_time": 1751274081,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28037,
+        "num": 28037,
+        "word": "上海动物园称文博展厅禁止饮食",
+        "onboard_time": 1751303896,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27929,
+        "num": 27929,
+        "word": "多地解禁中华田园犬",
+        "onboard_time": 1751287702,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26633,
+        "num": 26633,
+        "word": "杨紫回应刘诗诗",
+        "onboard_time": 1751284281,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26343,
+        "num": 26343,
+        "word": "阿尔卡拉斯vs弗格尼尼",
+        "onboard_time": 1751302639,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25939,
+        "num": 25939,
+        "word": "周深再一次感受到了温暖的歌迷专列",
+        "onboard_time": 1751307735,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 25897,
+        "num": 25897,
+        "word": "00后利用办公室午休赚70元的一天",
+        "onboard_time": 1751290943,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25626,
+        "num": 25626,
+        "word": "大麦 退票",
+        "onboard_time": 1751284821,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 25123,
+        "num": 25123,
+        "word": "管乐 王皓",
+        "onboard_time": 1751269280,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局第二十一次集体学习#"
+    }
+  }
+}
