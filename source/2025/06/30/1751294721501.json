@@ -1,0 +1,410 @@
+{
+  "runTime": 1751294721501,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1600551,
+        "num": 1600551,
+        "word": "明天你的公积金账户将多一笔钱",
+        "onboard_time": 1751279121,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 756757,
+        "num": 756757,
+        "word": "锦绣芳华打破了国色芳华纪录",
+        "onboard_time": 1751288303,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11361,
+        "num": 694086,
+        "word": "这是红色宝藏里的时光答卷",
+        "onboard_time": 1751294425,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 665024,
+        "num": 665024,
+        "word": "食脑虫",
+        "onboard_time": 1751288963,
+        "rank": 3,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 608994,
+        "num": 608994,
+        "word": "fx合体",
+        "onboard_time": 1751293704,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1390630,
+        "num": 608183,
+        "word": "中华田园犬 禁养",
+        "onboard_time": 1751276424,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 545813,
+        "num": 545813,
+        "word": "胡彦斌 可3C规则是什么呢",
+        "onboard_time": 1751291783,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 513371,
+        "num": 513371,
+        "word": "猝死前1个月身体的信号",
+        "onboard_time": 1751280561,
+        "rank": 7,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 491286,
+        "num": 491286,
+        "word": "宋茜Amber王嘉尔段宜恩合照",
+        "onboard_time": 1751291904,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 453776,
+        "num": 453776,
+        "word": "幼儿园招老师工资分级最高不超3千",
+        "onboard_time": 1751287283,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1375441,
+        "num": 453488,
+        "word": "鹿晗屏保",
+        "onboard_time": 1751273602,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1067192,
+        "num": 434646,
+        "word": "胡一天673天没进组了",
+        "onboard_time": 1751293404,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 507877,
+        "num": 405220,
+        "word": "警方回应网传男子带12岁女孩开房",
+        "onboard_time": 1751289384,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37234,
+        "num": 386871,
+        "word": "解限机的亮剑时刻",
+        "onboard_time": 1751290703,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 32329,
+        "num": 372780,
+        "word": "新规后买到无3C标识充电宝可退货",
+        "onboard_time": 1751293884,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369830,
+        "num": 369830,
+        "word": "韩安冉曝小猪妹被饿一整天",
+        "onboard_time": 1751282242,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 343042,
+        "num": 343042,
+        "word": "锦绣芳华热度",
+        "onboard_time": 1751291663,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114565,
+        "num": 342636,
+        "word": "抗战胜利80周年",
+        "onboard_time": 1751293343,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 279181,
+        "num": 342575,
+        "word": "李现演爽了我也看爽了",
+        "onboard_time": 1751293464,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43771,
+        "num": 342575,
+        "word": "一个国际关系学者眼中的解限机",
+        "onboard_time": 1751292502,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 342575,
+        "num": 342574,
+        "word": "香港回归祖国28年",
+        "onboard_time": 1751290763,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 159330,
+        "num": 307721,
+        "word": "SHE又合体为Ella庆生了",
+        "onboard_time": 1751293644,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288307,
+        "num": 288307,
+        "word": "大麦 退票",
+        "onboard_time": 1751284821,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 293289,
+        "num": 287409,
+        "word": "因微信办公违规多人被处理",
+        "onboard_time": 1751293704,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286143,
+        "num": 286143,
+        "word": "多地解禁中华田园犬",
+        "onboard_time": 1751287702,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33108,
+        "num": 279570,
+        "word": "大国重器再交亮眼成绩单",
+        "onboard_time": 1751277023,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 277873,
+        "num": 277873,
+        "word": "烟草造成经济损失约9000亿",
+        "onboard_time": 1751279360,
+        "rank": 26,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 276912,
+        "num": 276912,
+        "word": "短剧男主角累到恶心呕吐",
+        "onboard_time": 1751284642,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 264047,
+        "num": 264047,
+        "word": "00后利用办公室午休赚70元的一天",
+        "onboard_time": 1751290943,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 262801,
+        "num": 262801,
+        "word": "1997年7月1日0时0分0秒",
+        "onboard_time": 1751293042,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 256841,
+        "num": 256841,
+        "word": "TFBOYS前缀",
+        "onboard_time": 1751275222,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234834,
+        "num": 234834,
+        "word": "杨紫回应刘诗诗",
+        "onboard_time": 1751284281,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28717,
+        "num": 231539,
+        "word": "中国游戏出海的使命感",
+        "onboard_time": 1751290703,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 230489,
+        "num": 230489,
+        "word": "人人视频崩了",
+        "onboard_time": 1751285722,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 21840,
+        "num": 222592,
+        "word": "小学生救助鸟被AI识别国保连忙报警",
+        "onboard_time": 1751294484,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12395,
+        "num": 213947,
+        "word": "解限机的世界观有什么",
+        "onboard_time": 1751292443,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 185397,
+        "num": 208298,
+        "word": "鹿晗西安抢票",
+        "onboard_time": 1751283921,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 47617,
+        "num": 197912,
+        "word": "游戏CEO每天800个会在开什么",
+        "onboard_time": 1751290703,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190901,
+        "num": 190901,
+        "word": "陈芋汐撕拉片",
+        "onboard_time": 1751286564,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187635,
+        "num": 187635,
+        "word": "管乐 王皓",
+        "onboard_time": 1751269280,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57046,
+        "num": 172523,
+        "word": "规则制度要为婴儿留出一点弹性空间",
+        "onboard_time": 1751293283,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164454,
+        "num": 164454,
+        "word": "贾永婕5千买下小S二女儿画作",
+        "onboard_time": 1751294425,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162420,
+        "num": 162420,
+        "word": "孙恩盛 PK验资",
+        "onboard_time": 1751294604,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 158500,
+        "num": 158500,
+        "word": "7月份十二星座注意事项",
+        "onboard_time": 1751294484,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152625,
+        "num": 152625,
+        "word": "难哄上半年第一",
+        "onboard_time": 1751292204,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150828,
+        "num": 150828,
+        "word": "公积金结息能领几千元",
+        "onboard_time": 1751274681,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145582,
+        "num": 145582,
+        "word": "时尚芭莎",
+        "onboard_time": 1751294184,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141431,
+        "num": 141431,
+        "word": "认不出这是李准基",
+        "onboard_time": 1751282421,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139954,
+        "num": 139954,
+        "word": "网购内裤 退换",
+        "onboard_time": 1751279063,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139798,
+        "num": 139798,
+        "word": "这张桌子坐了五个视后视帝",
+        "onboard_time": 1751292743,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局第二十一次集体学习#"
+    }
+  }
+}
