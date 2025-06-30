@@ -1,0 +1,410 @@
+{
+  "runTime": 1751318689964,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 139573,
+        "num": 144831,
+        "word": "猝死前1个月身体的信号",
+        "onboard_time": 1751280561,
+        "rank": 0,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 104472,
+        "num": 104472,
+        "word": "女子拍到野牛跌入温泉被活活煮死",
+        "onboard_time": 1751297064,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 10238,
+        "num": 85956,
+        "word": "中国科技创新主打一个脑洞大开",
+        "onboard_time": 1751294844,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 83562,
+        "num": 83562,
+        "word": "金价大跌商家称不如上涨时卖得好",
+        "onboard_time": 1751297963,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81491,
+        "num": 81491,
+        "word": "上海动物园通报婴儿喝奶被赶",
+        "onboard_time": 1751298142,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72988,
+        "num": 72988,
+        "word": "一人一句祝福伟大的党伟大的祖国",
+        "onboard_time": 1751303178,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 52975,
+        "num": 52975,
+        "word": "晚晚直播卖卷发棒翻车",
+        "onboard_time": 1751304617,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 50854,
+        "num": 50854,
+        "word": "女子网购拉布布盲盒拆开仅剩6个裸娃",
+        "onboard_time": 1751298262,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 46769,
+        "num": 46769,
+        "word": "徐艺洋晒鹿晗演唱会现场照",
+        "onboard_time": 1751300301,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 41621,
+        "num": 41621,
+        "word": "父亲回应带儿子游41国英语零进步",
+        "onboard_time": 1751298982,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70344,
+        "num": 41492,
+        "word": "胡一天673天没进组了",
+        "onboard_time": 1751293404,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50451,
+        "num": 40515,
+        "word": "恋丑癖越来越多的原因好像找到了",
+        "onboard_time": 1751295622,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 46601,
+        "num": 38589,
+        "word": "中华田园犬 禁养",
+        "onboard_time": 1751276424,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75717,
+        "num": 38522,
+        "word": "鹿晗屏保",
+        "onboard_time": 1751273602,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37554,
+        "num": 37554,
+        "word": "警方回应网传男子带12岁女孩开房",
+        "onboard_time": 1751289384,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37418,
+        "num": 37418,
+        "word": "男子租冥币厂印假美金能过印钞机",
+        "onboard_time": 1751300062,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37390,
+        "num": 37390,
+        "word": "明天你的公积金账户将多一笔钱",
+        "onboard_time": 1751279121,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29629,
+        "num": 29629,
+        "word": "郑钦文vs西尼亚科娃",
+        "onboard_time": 1751297424,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18974,
+        "num": 29052,
+        "word": "张艺兴13岁就认识林俊杰了",
+        "onboard_time": 1751295983,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18322,
+        "num": 28832,
+        "word": "附中一年级的刘浩存",
+        "onboard_time": 1751284102,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35456,
+        "num": 28816,
+        "word": "孙恩盛 PK验资",
+        "onboard_time": 1751294604,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 28745,
+        "num": 28745,
+        "word": "锦绣芳华打破了国色芳华纪录",
+        "onboard_time": 1751288303,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28704,
+        "num": 28704,
+        "word": "医生回应酒店光脚洗澡或感染HPV",
+        "onboard_time": 1751297003,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25739,
+        "num": 25739,
+        "word": "香港回归祖国28年",
+        "onboard_time": 1751290763,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 25704,
+        "num": 25704,
+        "word": "因微信办公违规多人被处理",
+        "onboard_time": 1751293704,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25113,
+        "num": 25113,
+        "word": "女儿烫伤脸母亲维权未果致流产",
+        "onboard_time": 1751295565,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24245,
+        "num": 24245,
+        "word": "特朗普承认美国对中国做过很多事",
+        "onboard_time": 1751274081,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20098,
+        "num": 20098,
+        "word": "韩安冉曝小猪妹被饿一整天",
+        "onboard_time": 1751282242,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 20067,
+        "num": 20067,
+        "word": "男子遭冒名顶替25年涉案者仍未道歉",
+        "onboard_time": 1751302878,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15619,
+        "num": 19962,
+        "word": "大麦 退票",
+        "onboard_time": 1751284821,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19941,
+        "num": 19941,
+        "word": "原银行董事长400万迈凯伦89万被拍下",
+        "onboard_time": 1751282602,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19364,
+        "num": 19364,
+        "word": "1997年7月1日0时0分0秒",
+        "onboard_time": 1751293042,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18992,
+        "num": 18992,
+        "word": "贾永婕5千买下小S二女儿画作",
+        "onboard_time": 1751294425,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18581,
+        "num": 18581,
+        "word": "聪明人说话有7个特点",
+        "onboard_time": 1751308155,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18011,
+        "num": 18011,
+        "word": "烟草造成经济损失约9000亿",
+        "onboard_time": 1751279360,
+        "rank": 34,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 17543,
+        "num": 17543,
+        "word": "多地解禁中华田园犬",
+        "onboard_time": 1751287702,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17528,
+        "num": 17528,
+        "word": "00后利用办公室午休赚70元的一天",
+        "onboard_time": 1751290943,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 17507,
+        "num": 17507,
+        "word": "Angelababy的追星运是天花板级别",
+        "onboard_time": 1751300301,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14436,
+        "num": 17507,
+        "word": "易烊千玺划进七月的绮梦",
+        "onboard_time": 1751296584,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15063,
+        "num": 17507,
+        "word": "鞠婧祎工作室 会剪",
+        "onboard_time": 1751301380,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16539,
+        "num": 17507,
+        "word": "官方通报贵州乌江段出现浮油",
+        "onboard_time": 1751311934,
+        "rank": 40,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 15592,
+        "num": 17506,
+        "word": "2025上半年纪念短片",
+        "onboard_time": 1751305037,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15454,
+        "num": 17506,
+        "word": "食脑虫",
+        "onboard_time": 1751288963,
+        "rank": 42,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 15040,
+        "num": 17505,
+        "word": "中通快递回应拉布布盲盒仅剩6个裸娃",
+        "onboard_time": 1751306955,
+        "rank": 43,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 14906,
+        "num": 17505,
+        "word": "上海动物园称文博展厅禁止饮食",
+        "onboard_time": 1751303896,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14468,
+        "num": 17505,
+        "word": "五个着力点进一步推进党的自我革命",
+        "onboard_time": 1751308155,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14174,
+        "num": 17504,
+        "word": "刘畅不语只是一味骚扰何惟芳",
+        "onboard_time": 1751316854,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13853,
+        "num": 17504,
+        "word": "杨紫回应刘诗诗",
+        "onboard_time": 1751284281,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13563,
+        "num": 17503,
+        "word": "锦绣芳华热度",
+        "onboard_time": 1751291663,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12855,
+        "num": 17503,
+        "word": "阿尔卡拉斯vs弗格尼尼",
+        "onboard_time": 1751302639,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记向全国广大共产党员致以节日问候#"
+    }
+  }
+}
