@@ -1,6 +1,6 @@
 {
   "startTime": 1751214634143,
-  "endTime": 1751262349768,
+  "endTime": 1751265569913,
   "band_list": [
     {
       "raw_hot": 2461024,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1135383,
-      "num": 361932,
+      "num": 470731,
       "word": "本升专",
       "onboard_time": 1751260941,
       "rank": 10,
@@ -105,6 +105,14 @@
       "onboard_time": 1751214200,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 936908,
+      "num": 936908,
+      "word": "李嘉格妈妈是上嫁的牺牲者",
+      "onboard_time": 1751260821,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 904192,
@@ -147,14 +155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 619028,
-      "num": 619028,
-      "word": "李嘉格妈妈是上嫁的牺牲者",
-      "onboard_time": 1751260821,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 596698,
       "num": 596698,
       "word": "金价",
@@ -195,11 +195,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 515966,
+      "num": 471329,
+      "word": "邓超微博 作品孙俪孩子鹿晗",
+      "onboard_time": 1751264543,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 514957,
       "num": 514957,
       "word": "国外生产的充电宝不检查3C标志",
       "onboard_time": 1751246000,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 513146,
+      "num": 513146,
+      "word": "充电宝被禁了我用什么",
+      "onboard_time": 1751262620,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -219,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 482567,
+      "num": 482567,
+      "word": "92岁游本昌宣誓入党",
+      "onboard_time": 1751264902,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 477275,
       "num": 301076,
       "word": "师洋",
@@ -227,12 +251,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 473876,
+      "num": 473876,
+      "word": "疑毒杀女模中国籍嫌犯返泰自首",
+      "onboard_time": 1751261721,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 471010,
       "num": 471010,
       "word": "惠英红抑郁破产后如何重生",
       "onboard_time": 1751208922,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 468499,
+      "num": 468499,
+      "word": "双休和单休真的是两种人生",
+      "onboard_time": 1751259143,
+      "rank": 43,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 427949,
@@ -467,12 +507,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 269566,
-      "num": 269566,
-      "word": "双休和单休真的是两种人生",
-      "onboard_time": 1751259143,
-      "rank": 43,
-      "category": "情感,幽默"
+      "raw_hot": 267667,
+      "num": 267667,
+      "word": "黄圣依你也找不到比我更好的了",
+      "onboard_time": 1751262741,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 261167,
@@ -531,20 +571,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242029,
+      "num": 242029,
+      "word": "寄件向上取整成常态2.1公斤算3公斤",
+      "onboard_time": 1751263461,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 240880,
       "num": 240880,
       "word": "密室大逃脱",
       "onboard_time": 1751252901,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 237332,
-      "num": 237332,
-      "word": "疑毒杀女模中国籍嫌犯返泰自首",
-      "onboard_time": 1751261721,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 234084,
@@ -563,12 +603,28 @@
       "category": "母婴育儿,民生新闻"
     },
     {
+      "raw_hot": 228509,
+      "num": 228509,
+      "word": "崔胜铉生图状态",
+      "onboard_time": 1751264961,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227713,
       "num": 227713,
       "word": "证监会logo更新",
       "onboard_time": 1751256261,
       "rank": 21,
       "category": "财经"
+    },
+    {
+      "raw_hot": 225577,
+      "num": 225577,
+      "word": "马嘉祺郑州",
+      "onboard_time": 1751264543,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 218750,
@@ -627,6 +683,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202194,
+      "num": 202194,
+      "word": "禁养犬",
+      "onboard_time": 1751264661,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199103,
+      "num": 199103,
+      "word": "万茜秦俊杰给短剧上强度了",
+      "onboard_time": 1751264361,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 199022,
+      "num": 199022,
+      "word": "上海动物园",
+      "onboard_time": 1751259383,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 196512,
       "num": 196512,
       "word": "王楚钦领衔美国大满贯宣传片",
@@ -665,14 +745,6 @@
       "onboard_time": 1751209763,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 190593,
-      "num": 190593,
-      "word": "上海动物园",
-      "onboard_time": 1751259383,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 189860,
@@ -745,6 +817,14 @@
       "onboard_time": 1751259862,
       "rank": 33,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 181326,
+      "num": 181326,
+      "word": "杨幂给许凯吃风油精软糖",
+      "onboard_time": 1751265503,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 180402,
@@ -835,12 +915,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165054,
+      "num": 165054,
+      "word": "泰国为吸引中国游客再出新策",
+      "onboard_time": 1751262620,
+      "rank": 31,
+      "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 163852,
+      "num": 163852,
+      "word": "设立党中央决策议事协调机构",
+      "onboard_time": 1751263461,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 162943,
+      "num": 162943,
+      "word": "切除子宫326天的生活变化",
+      "onboard_time": 1751261181,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 160520,
       "num": 335948,
       "word": "四川暴雨2.9万人提前转移",
       "onboard_time": 1751250740,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159552,
+      "num": 159552,
+      "word": "张棪琰最近有点惨",
+      "onboard_time": 1751263822,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 155081,
@@ -851,6 +963,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154030,
+      "num": 216849,
+      "word": "重庆荣昌区委书记下馆子老板发声",
+      "onboard_time": 1751263461,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153972,
+      "num": 153972,
+      "word": "MSI八强确定",
+      "onboard_time": 1751263942,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 153354,
+      "num": 183439,
+      "word": "歌手揭榜海龟汤",
+      "onboard_time": 1751265081,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153240,
       "num": 153240,
       "word": "老婆只喜欢我小号怎么办",
@@ -859,12 +995,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152576,
+      "num": 152576,
+      "word": "雷军回应何小鹏下单小米YU7",
+      "onboard_time": 1751264181,
+      "rank": 40,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 148838,
       "num": 148838,
       "word": "怎么看出来一个人是否善良",
       "onboard_time": 1751258002,
       "rank": 43,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 147593,
+      "num": 228694,
+      "word": "中餐厅9古装群像",
+      "onboard_time": 1751263999,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 146748,
@@ -897,6 +1049,14 @@
       "onboard_time": 1751258481,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141916,
+      "num": 141916,
+      "word": "多邻国猫头鹰官宣结婚",
+      "onboard_time": 1751265322,
+      "rank": 42,
+      "category": "教育,互联网"
     },
     {
       "raw_hot": 141396,
@@ -979,20 +1139,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133077,
+      "num": 133077,
+      "word": "印度向巴基斯坦泄洪",
+      "onboard_time": 1751265382,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 132836,
       "num": 132836,
       "word": "张小斐灰色系大女主",
       "onboard_time": 1751260042,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 132381,
-      "num": 132381,
-      "word": "切除子宫326天的生活变化",
-      "onboard_time": 1751261181,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 132313,
@@ -1051,6 +1211,14 @@
       "category": "情感,民生新闻"
     },
     {
+      "raw_hot": 123745,
+      "num": 203808,
+      "word": "二手烟 霸凌",
+      "onboard_time": 1751265081,
+      "rank": 24,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 122624,
       "num": 122624,
       "word": "老铺黄金股价",
@@ -1067,6 +1235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 122013,
+      "num": 122013,
+      "word": "张新成帅成了我妈的老挂历",
+      "onboard_time": 1751265262,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121426,
       "num": 121426,
       "word": "李嘉格说自己没有办法再去哄妈妈了",
@@ -1081,6 +1257,14 @@
       "onboard_time": 1751261300,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120596,
+      "num": 120596,
+      "word": "长沙坡子街又现数百枚两汉简牍",
+      "onboard_time": 1751265442,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119996,
@@ -1499,6 +1683,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 55539,
+      "num": 152657,
+      "word": "MSI淘汰赛首轮没有中韩大战",
+      "onboard_time": 1751264902,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 55229,
       "num": 142133,
       "word": "盐城队员世界波致敬莫德里奇",
@@ -1675,6 +1867,14 @@
       "category": "幽默,科学科普"
     },
     {
+      "raw_hot": 28866,
+      "num": 228532,
+      "word": "拍儿童贴纸发货3C标识",
+      "onboard_time": 1751264543,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28503,
       "num": 54337,
       "word": "泰州队巴特上演倒挂金钩",
@@ -1760,6 +1960,14 @@
       "word": "小偷事前写笔记作案后复盘",
       "onboard_time": 1751262082,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18530,
+      "num": 152580,
+      "word": "是否有必要追究虐猫考生",
+      "onboard_time": 1751265081,
+      "rank": 39,
       "category": "民生新闻"
     },
     {

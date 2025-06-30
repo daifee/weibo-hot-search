@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/30 13:45:49
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/30 14:39:29
 </p>
 </blockquote>
 <p>
@@ -4347,6 +4347,12 @@ Labubu设计师曾失意30年（热度：959623）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%98%89%E6%A0%BC%E5%A6%88%E5%A6%88%E6%98%AF%E4%B8%8A%E5%AB%81%E7%9A%84%E7%89%BA%E7%89%B2%E8%80%85%23" target="weibo">
+李嘉格妈妈是上嫁的牺牲者（热度：936908）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%8F%AF%E8%BE%9B%20%E9%99%88%E6%80%9D%E8%AF%9A%23" target="weibo">
 陈可辛 陈思诚（热度：934301）
 </a>
@@ -6005,12 +6011,6 @@ T3司机猥亵大三女生被行拘5日（热度：810171）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E9%80%81%E7%8E%8B%E6%BA%90%E6%BC%94%E5%94%B1%E4%BC%9A%E8%8A%B1%E7%AF%AE%23" target="weibo">
 王俊凯送王源演唱会花篮（热度：761351）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%BA%E5%A5%B8%E6%9C%AA%E9%81%82%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B3%E5%A0%82%E5%A6%B9%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23" target="weibo">
-强奸未遂男子杀害堂妹被执行死刑（热度：761262）
 </a>
 </li>
 
