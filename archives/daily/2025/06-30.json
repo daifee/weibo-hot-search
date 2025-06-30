@@ -1,6 +1,6 @@
 {
   "startTime": 1751214634143,
-  "endTime": 1751240398295,
+  "endTime": 1751249319622,
   "band_list": [
     {
       "raw_hot": 1586314,
@@ -11,12 +11,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1435893,
+      "num": 554909,
+      "word": "外卖员遇关门杀物业被判赔21万",
+      "onboard_time": 1751243901,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1359441,
       "num": 1359441,
       "word": "白玉兰组委会疑似回应刘亦菲没去",
       "onboard_time": 1751208143,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1011110,
+      "num": 1161777,
+      "word": "重庆一区委书记带头下馆子",
+      "onboard_time": 1751247800,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 944356,
@@ -59,12 +75,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 514957,
+      "num": 514957,
+      "word": "国外生产的充电宝不检查3C标志",
+      "onboard_time": 1751246000,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 493342,
       "num": 493342,
       "word": "锦绣芳华",
       "onboard_time": 1751210123,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 477275,
+      "num": 285906,
+      "word": "师洋",
+      "onboard_time": 1751243602,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 471010,
@@ -92,11 +124,27 @@
     },
     {
       "raw_hot": 422291,
-      "num": 341300,
+      "num": 342101,
       "word": "孟子义曾因为太漂亮失去角色",
       "onboard_time": 1751238679,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 380171,
+      "num": 279335,
+      "word": "阿娇说减肥真的不容易",
+      "onboard_time": 1751247560,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 367292,
+      "num": 367292,
+      "word": "虐猫犯上岸事业编",
+      "onboard_time": 1751248581,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 350069,
@@ -124,7 +172,7 @@
     },
     {
       "raw_hot": 329237,
-      "num": 222104,
+      "num": 229835,
       "word": "歼20紧急升空处置逼退外军机",
       "onboard_time": 1751238679,
       "rank": 13,
@@ -145,6 +193,14 @@
       "onboard_time": 1751207962,
       "rank": 8,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 309448,
+      "num": 309448,
+      "word": "六月初六遇上上半年最后一天",
+      "onboard_time": 1751244320,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 307583,
@@ -171,12 +227,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 292084,
+      "num": 292084,
+      "word": "局地超40摄氏度高温天要来了",
+      "onboard_time": 1751246000,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 276372,
       "num": 246564,
       "word": "鹿晗抢票",
       "onboard_time": 1751193201,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 256045,
+      "num": 256045,
+      "word": "爷爷跑遍3条街给我买了8块钱的labubu",
+      "onboard_time": 1751242461,
+      "rank": 12,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 246474,
@@ -195,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216824,
+      "num": 216824,
+      "word": "剖腹产第一次下床的真实状态",
+      "onboard_time": 1751242281,
+      "rank": 14,
+      "category": "母婴育儿,民生新闻"
+    },
+    {
       "raw_hot": 210633,
       "num": 210633,
       "word": "马龙看林俊杰演唱会嗓子哑了",
@@ -203,12 +283,28 @@
       "category": "体育,演出"
     },
     {
+      "raw_hot": 195265,
+      "num": 180922,
+      "word": "炫肉TOP5竟然都在南方",
+      "onboard_time": 1751249000,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 191006,
       "num": 191006,
       "word": "白桃星座一周运势",
       "onboard_time": 1751209763,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 188950,
+      "num": 188950,
+      "word": "上半年有温度的小作文",
+      "onboard_time": 1751244920,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 188750,
@@ -251,6 +347,38 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 179418,
+      "num": 179418,
+      "word": "MSI淘汰赛抽签",
+      "onboard_time": 1751246361,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 172194,
+      "num": 187722,
+      "word": "舒淇说好喜欢宋佳的得奖感言",
+      "onboard_time": 1751242281,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 172142,
+      "num": 172142,
+      "word": "5岁女童泡温泉后被确诊感染食脑虫",
+      "onboard_time": 1751249180,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171821,
+      "num": 171821,
+      "word": "建议大家不要放弃记录自己",
+      "onboard_time": 1751249180,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 169427,
       "num": 169427,
       "word": "16岁学生和父亲争吵后手变鸡爪",
@@ -265,6 +393,14 @@
       "onboard_time": 1751206883,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151157,
+      "num": 151157,
+      "word": "金价",
+      "onboard_time": 1751248641,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 144833,
@@ -283,12 +419,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139524,
+      "num": 139524,
+      "word": "鹿晗邓超一起吃饭",
+      "onboard_time": 1751241019,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131658,
       "num": 131658,
       "word": "以法之名 好看",
       "onboard_time": 1751201962,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129301,
+      "num": 129301,
+      "word": "医美速成第1天捡起针就干",
+      "onboard_time": 1751249180,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127283,
@@ -307,6 +459,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 124852,
+      "num": 124852,
+      "word": "再见了2025上半年",
+      "onboard_time": 1751241200,
+      "rank": 31,
+      "category": "情感,民生新闻"
+    },
+    {
       "raw_hot": 116969,
       "num": 116969,
       "word": "TF四代舞台投票",
@@ -321,6 +481,22 @@
       "onboard_time": 1751198602,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115586,
+      "num": 115586,
+      "word": "绿豆汤别再冰着喝了",
+      "onboard_time": 1751244442,
+      "rank": 33,
+      "category": "美食,健康医疗"
+    },
+    {
+      "raw_hot": 115400,
+      "num": 115400,
+      "word": "男子漂流捡到条大鱼紧紧抱住",
+      "onboard_time": 1751248700,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111839,
@@ -347,6 +523,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105285,
+      "num": 105285,
+      "word": "休斯顿火箭",
+      "onboard_time": 1751245580,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 104614,
+      "num": 104614,
+      "word": "伊朗要求认定以美为侵略方",
+      "onboard_time": 1751247140,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 102080,
       "num": 102080,
       "word": "太湖三傻就地解散",
@@ -371,6 +563,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 94554,
+      "num": 94554,
+      "word": "展馆驱赶喝奶婴儿拒道歉",
+      "onboard_time": 1751241200,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94035,
       "num": 86310,
       "word": "汪苏泷秀了个假腹肌",
@@ -385,6 +585,14 @@
       "onboard_time": 1751195841,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89510,
+      "num": 89510,
+      "word": "育儿嫂使劲摇晃6个月婴儿疑泄愤",
+      "onboard_time": 1751248401,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89427,
@@ -403,12 +611,44 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 87220,
+      "num": 87220,
+      "word": "虞书欣丁禹兮请客来战剧组",
+      "onboard_time": 1751239399,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 85095,
+      "num": 85095,
+      "word": "詹嫂希望詹姆斯明年退役",
+      "onboard_time": 1751247140,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 84824,
+      "num": 84824,
+      "word": "中考查分",
+      "onboard_time": 1751248880,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 81673,
       "num": 81673,
       "word": "李莎旻子一语道出李嘉格的委屈",
       "onboard_time": 1751238679,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 81488,
+      "num": 84787,
+      "word": "油价",
+      "onboard_time": 1751245702,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 79236,
@@ -499,14 +739,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 58206,
-      "num": 58206,
-      "word": "虞书欣丁禹兮请客来战剧组",
-      "onboard_time": 1751239399,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 55154,
       "num": 55154,
       "word": "以法之名",
@@ -595,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36906,
+      "num": 562230,
+      "word": "解锁首发经济花样消费场景",
+      "onboard_time": 1751210123,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 36896,
       "num": 36896,
       "word": "胡雷取出全部打赏驰援榕江",
@@ -641,14 +881,6 @@
       "onboard_time": 1751227514,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23452,
-      "num": 361400,
-      "word": "解锁首发经济花样消费场景",
-      "onboard_time": 1751210123,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 23432,

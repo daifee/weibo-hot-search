@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751240398295,
+  "endTime": 1751249319622,
   "band_list": [
     {
       "raw_hot": 3569605,
@@ -65,6 +65,14 @@
       "onboard_time": 1751119105,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1435893,
+      "num": 554909,
+      "word": "外卖员遇关门杀物业被判赔21万",
+      "onboard_time": 1751243901,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1329400,
@@ -161,6 +169,14 @@
       "onboard_time": 1751172683,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1011110,
+      "num": 1161777,
+      "word": "重庆一区委书记带头下馆子",
+      "onboard_time": 1751247800,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 983335,
@@ -467,6 +483,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 514957,
+      "num": 514957,
+      "word": "国外生产的充电宝不检查3C标志",
+      "onboard_time": 1751246000,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 503103,
       "num": 503103,
       "word": "无畏太乙",
@@ -521,6 +545,14 @@
       "onboard_time": 1751176161,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 477275,
+      "num": 285906,
+      "word": "师洋",
+      "onboard_time": 1751243602,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 474606,
@@ -620,7 +652,7 @@
     },
     {
       "raw_hot": 422291,
-      "num": 341300,
+      "num": 342101,
       "word": "孟子义曾因为太漂亮失去角色",
       "onboard_time": 1751238679,
       "rank": 6,
@@ -707,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 380171,
+      "num": 279335,
+      "word": "阿娇说减肥真的不容易",
+      "onboard_time": 1751247560,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 378422,
       "num": 378422,
       "word": "张新成宋祖儿新剧强制吻",
@@ -729,6 +769,14 @@
       "onboard_time": 1751166260,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 367292,
+      "num": 367292,
+      "word": "虐猫犯上岸事业编",
+      "onboard_time": 1751248581,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 366427,
@@ -860,7 +908,7 @@
     },
     {
       "raw_hot": 329237,
-      "num": 222104,
+      "num": 229835,
       "word": "歼20紧急升空处置逼退外军机",
       "onboard_time": 1751238679,
       "rank": 13,
@@ -929,6 +977,14 @@
       "onboard_time": 1751205084,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 309448,
+      "num": 309448,
+      "word": "六月初六遇上上半年最后一天",
+      "onboard_time": 1751244320,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 307275,
@@ -1041,6 +1097,14 @@
       "onboard_time": 1751208322,
       "rank": 16,
       "category": "体育,演出"
+    },
+    {
+      "raw_hot": 292084,
+      "num": 292084,
+      "word": "局地超40摄氏度高温天要来了",
+      "onboard_time": 1751246000,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 290825,
@@ -1161,6 +1225,14 @@
       "onboard_time": 1751187022,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 256045,
+      "num": 256045,
+      "word": "爷爷跑遍3条街给我买了8块钱的labubu",
+      "onboard_time": 1751242461,
+      "rank": 12,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 255170,
@@ -1329,6 +1401,14 @@
       "onboard_time": 1751182282,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 216824,
+      "num": 216824,
+      "word": "剖腹产第一次下床的真实状态",
+      "onboard_time": 1751242281,
+      "rank": 14,
+      "category": "母婴育儿,民生新闻"
     },
     {
       "raw_hot": 216601,
@@ -1531,6 +1611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 195265,
+      "num": 180922,
+      "word": "炫肉TOP5竟然都在南方",
+      "onboard_time": 1751249000,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 195010,
       "num": 195010,
       "word": "苏超苏州3比0扬州",
@@ -1633,6 +1721,14 @@
       "onboard_time": 1751191820,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188950,
+      "num": 188950,
+      "word": "上半年有温度的小作文",
+      "onboard_time": 1751244920,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 188790,
@@ -1747,6 +1843,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 179418,
+      "num": 179418,
+      "word": "MSI淘汰赛抽签",
+      "onboard_time": 1751246361,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 178012,
       "num": 234723,
       "word": "黑救护车转院途中32岁女患者死亡",
@@ -1859,12 +1963,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172194,
+      "num": 187722,
+      "word": "舒淇说好喜欢宋佳的得奖感言",
+      "onboard_time": 1751242281,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 172142,
+      "num": 172142,
+      "word": "5岁女童泡温泉后被确诊感染食脑虫",
+      "onboard_time": 1751249180,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171962,
       "num": 171962,
       "word": "重庆2岁幼童20楼坠落奇迹生还",
       "onboard_time": 1751185942,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171821,
+      "num": 171821,
+      "word": "建议大家不要放弃记录自己",
+      "onboard_time": 1751249180,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 169887,
@@ -2179,6 +2307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 151157,
+      "num": 151157,
+      "word": "金价",
+      "onboard_time": 1751248641,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 151027,
       "num": 151027,
       "word": "南通队4比0宿迁队",
@@ -2400,6 +2536,14 @@
       "word": "赵一博连续直播3天",
       "onboard_time": 1751213780,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 139524,
+      "num": 139524,
+      "word": "鹿晗邓超一起吃饭",
+      "onboard_time": 1751241019,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -2683,6 +2827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 129301,
+      "num": 129301,
+      "word": "医美速成第1天捡起针就干",
+      "onboard_time": 1751249180,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128852,
       "num": 154917,
       "word": "明天是2025上半年最后1天",
@@ -2809,6 +2961,14 @@
       "onboard_time": 1751169802,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 124852,
+      "num": 124852,
+      "word": "再见了2025上半年",
+      "onboard_time": 1751241200,
+      "rank": 31,
+      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 123113,
@@ -2960,6 +3120,22 @@
       "word": "公共场所故意裸露身体隐私部位将被罚",
       "onboard_time": 1751124384,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115586,
+      "num": 115586,
+      "word": "绿豆汤别再冰着喝了",
+      "onboard_time": 1751244442,
+      "rank": 33,
+      "category": "美食,健康医疗"
+    },
+    {
+      "raw_hot": 115400,
+      "num": 115400,
+      "word": "男子漂流捡到条大鱼紧紧抱住",
+      "onboard_time": 1751248700,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -3203,6 +3379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 105285,
+      "num": 105285,
+      "word": "休斯顿火箭",
+      "onboard_time": 1751245580,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105144,
       "num": 106628,
       "word": "黄霄雲怎么私下还搞抽象",
@@ -3225,6 +3409,14 @@
       "onboard_time": 1751201302,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 104614,
+      "num": 104614,
+      "word": "伊朗要求认定以美为侵略方",
+      "onboard_time": 1751247140,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 104008,
@@ -3363,6 +3555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94554,
+      "num": 94554,
+      "word": "展馆驱赶喝奶婴儿拒道歉",
+      "onboard_time": 1751241200,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94195,
       "num": 94195,
       "word": "鬼灭之刃正式预告",
@@ -3395,12 +3595,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 89510,
+      "num": 89510,
+      "word": "育儿嫂使劲摇晃6个月婴儿疑泄愤",
+      "onboard_time": 1751248401,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89478,
       "num": 89478,
       "word": "南京可口可乐博物馆回应60岁以上禁入",
       "onboard_time": 1751126002,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87220,
+      "num": 87220,
+      "word": "虞书欣丁禹兮请客来战剧组",
+      "onboard_time": 1751239399,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 86417,
@@ -3435,6 +3651,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85095,
+      "num": 85095,
+      "word": "詹嫂希望詹姆斯明年退役",
+      "onboard_time": 1751247140,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 84824,
+      "num": 84824,
+      "word": "中考查分",
+      "onboard_time": 1751248880,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 82984,
       "num": 82510,
       "word": "陈一豪",
@@ -3465,6 +3697,14 @@
       "onboard_time": 1751238679,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 81488,
+      "num": 84787,
+      "word": "油价",
+      "onboard_time": 1751245702,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 80138,
@@ -3699,14 +3939,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 58206,
-      "num": 58206,
-      "word": "虞书欣丁禹兮请客来战剧组",
-      "onboard_time": 1751239399,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 57669,
       "num": 129614,
       "word": "C罗称沙特联是世界前五联赛",
@@ -3907,6 +4139,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 36906,
+      "num": 562230,
+      "word": "解锁首发经济花样消费场景",
+      "onboard_time": 1751210123,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 36896,
       "num": 36896,
       "word": "胡雷取出全部打赏驰援榕江",
@@ -4105,14 +4345,6 @@
       "onboard_time": 1751137395,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 23452,
-      "num": 361400,
-      "word": "解锁首发经济花样消费场景",
-      "onboard_time": 1751210123,
-      "rank": 46,
-      "category": "国内时政"
     },
     {
       "raw_hot": 23432,
