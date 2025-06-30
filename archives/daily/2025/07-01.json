@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751319616686,
+  "endTime": 1751322360580,
   "band_list": [
     {
       "raw_hot": 1110085,
@@ -211,6 +211,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 116695,
+      "num": 116695,
+      "word": "父亲回应带儿子游41国英语零进步",
+      "onboard_time": 1751298982,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116530,
       "num": 193741,
       "word": "男子租冥币厂印假美金能过印钞机",
@@ -225,14 +233,6 @@
       "onboard_time": 1751300301,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 115365,
-      "num": 115365,
-      "word": "父亲回应带儿子游41国英语零进步",
-      "onboard_time": 1751298982,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115035,
@@ -483,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39306,
+      "num": 65158,
+      "word": "刘畅不语只是一味骚扰何惟芳",
+      "onboard_time": 1751316854,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 38299,
       "num": 43751,
       "word": "多地解禁中华田园犬",
@@ -537,6 +545,14 @@
       "onboard_time": 1751307016,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 26704,
+      "num": 41886,
+      "word": "肖战粉丝为榕江送物资",
+      "onboard_time": 1751321355,
+      "rank": 29,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 25939,
@@ -595,12 +611,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 22700,
+      "num": 28748,
+      "word": "官方通报贵州乌江段出现浮油",
+      "onboard_time": 1751311934,
+      "rank": 44,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 21567,
       "num": 26869,
       "word": "电影恶意",
       "onboard_time": 1751310254,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 20908,
+      "num": 28729,
+      "word": "榕江有珠宝店三成金银饰品被冲走",
+      "onboard_time": 1751314994,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20772,
+      "num": 76401,
+      "word": "五个着力点进一步推进党的自我革命",
+      "onboard_time": 1751308155,
+      "rank": 12,
+      "category": "国内时政"
     },
     {
       "raw_hot": 19279,
@@ -627,22 +667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 17817,
-      "num": 17817,
-      "word": "官方通报贵州乌江段出现浮油",
-      "onboard_time": 1751311934,
-      "rank": 44,
-      "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 16472,
-      "num": 20140,
-      "word": "刘畅不语只是一味骚扰何惟芳",
-      "onboard_time": 1751316854,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 16016,
       "num": 19416,
       "word": "李现蒋长扬盔甲新皮肤",
@@ -657,22 +681,6 @@
       "onboard_time": 1751309715,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 15070,
-      "num": 76401,
-      "word": "五个着力点进一步推进党的自我革命",
-      "onboard_time": 1751308155,
-      "rank": 12,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 14994,
-      "num": 16561,
-      "word": "榕江有珠宝店三成金银饰品被冲走",
-      "onboard_time": 1751314994,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14101,
@@ -699,8 +707,8 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 10367,
-      "num": 116714,
+      "raw_hot": 11462,
+      "num": 258340,
       "word": "中国科技创新主打一个脑洞大开",
       "onboard_time": 1751294844,
       "rank": 2,
