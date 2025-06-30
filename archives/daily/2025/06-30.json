@@ -1,6 +1,6 @@
 {
   "startTime": 1751214634143,
-  "endTime": 1751269371666,
+  "endTime": 1751272570945,
   "band_list": [
     {
       "raw_hot": 2461024,
@@ -11,12 +11,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1936257,
+      "num": 1936257,
+      "word": "新房挖出男性尸骨当事女子发声",
+      "onboard_time": 1751268982,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1814246,
       "num": 1814246,
       "word": "韩国首尔爱情虫爆发",
       "onboard_time": 1751258302,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1763974,
+      "num": 352057,
+      "word": "管乐 王皓",
+      "onboard_time": 1751269280,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 1630265,
@@ -195,6 +211,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 724702,
+      "num": 315331,
+      "word": "董卿眼睛出现状况",
+      "onboard_time": 1751269042,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 632665,
       "num": 528439,
       "word": "TFBOYS十年保密协议到期",
@@ -291,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 478208,
+      "num": 443865,
+      "word": "柴六斤",
+      "onboard_time": 1751267602,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 477275,
       "num": 301076,
       "word": "师洋",
@@ -321,14 +353,6 @@
       "onboard_time": 1751259143,
       "rank": 43,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 457871,
-      "num": 443865,
-      "word": "柴六斤",
-      "onboard_time": 1751267602,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 427949,
@@ -363,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 414127,
+      "num": 414127,
+      "word": "杨幂又cue迪丽热巴了",
+      "onboard_time": 1751268382,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 397662,
       "num": 397662,
       "word": "刘诗诗为杨紫包场",
@@ -393,14 +425,6 @@
       "onboard_time": 1751249422,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 352057,
-      "num": 352057,
-      "word": "管乐 王皓",
-      "onboard_time": 1751269280,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 350069,
@@ -451,14 +475,6 @@
       "category": "国内时政,军事"
     },
     {
-      "raw_hot": 323425,
-      "num": 323425,
-      "word": "杨幂又cue迪丽热巴了",
-      "onboard_time": 1751268382,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 322523,
       "num": 299762,
       "word": "杨幂挂了labubu",
@@ -473,6 +489,14 @@
       "onboard_time": 1751259682,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 317530,
+      "num": 317530,
+      "word": "哪家企业毁掉的充电宝",
+      "onboard_time": 1751270481,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 311398,
@@ -497,14 +521,6 @@
       "onboard_time": 1751209583,
       "rank": 25,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 307144,
-      "num": 307144,
-      "word": "董卿眼睛出现状况",
-      "onboard_time": 1751269042,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 301056,
@@ -569,6 +585,14 @@
       "onboard_time": 1751249422,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 285191,
+      "num": 285191,
+      "word": "已婚和未婚看演唱会的区别",
+      "onboard_time": 1751270783,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 276372,
@@ -665,6 +689,14 @@
       "onboard_time": 1751259082,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 250446,
+      "num": 250446,
+      "word": "陈哲远高跟鞋",
+      "onboard_time": 1751270842,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 246474,
@@ -769,6 +801,14 @@
       "onboard_time": 1751208322,
       "rank": 17,
       "category": "体育,演出"
+    },
+    {
+      "raw_hot": 206915,
+      "num": 206915,
+      "word": "李胜利近照",
+      "onboard_time": 1751271442,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 204815,
@@ -939,6 +979,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 183446,
+      "num": 167948,
+      "word": "怪不得长辈都喜欢大方的孩子",
+      "onboard_time": 1751270662,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 183182,
       "num": 183182,
       "word": "姐姐骑车送16岁妹妹考试被撞进ICU",
@@ -1067,6 +1115,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169249,
+      "num": 169249,
+      "word": "69岁奶奶学开车跑全城当和事佬",
+      "onboard_time": 1751270962,
+      "rank": 29,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 167444,
+      "num": 448126,
+      "word": "白象说到做到面饼120克上市",
+      "onboard_time": 1751268863,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165054,
       "num": 165054,
       "word": "泰国为吸引中国游客再出新策",
@@ -1139,6 +1203,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 153781,
+      "num": 282727,
+      "word": "杨幂秦海璐 都市情人",
+      "onboard_time": 1751271682,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 153240,
       "num": 153240,
       "word": "老婆只喜欢我小号怎么办",
@@ -1177,6 +1249,14 @@
       "onboard_time": 1751253801,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146251,
+      "num": 146251,
+      "word": "李兰迪和闺蜜13年的友情",
+      "onboard_time": 1751271922,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 145003,
@@ -1235,6 +1315,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 140216,
+      "num": 140216,
+      "word": "我和angelababy唯一的共同点",
+      "onboard_time": 1751272163,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140103,
       "num": 140103,
       "word": "赵一博连续直播3天",
@@ -1291,6 +1379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134612,
+      "num": 134612,
+      "word": "马嘉祺猜歌",
+      "onboard_time": 1751272282,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 134133,
       "num": 134133,
       "word": "A股",
@@ -1313,6 +1409,14 @@
       "onboard_time": 1751260042,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132805,
+      "num": 132805,
+      "word": "首胎孕晚期的真实感受",
+      "onboard_time": 1751271562,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 132313,
@@ -1387,6 +1491,22 @@
       "category": "情感,民生新闻"
     },
     {
+      "raw_hot": 124034,
+      "num": 124034,
+      "word": "何小鹏晒单YU7雷军期待G7",
+      "onboard_time": 1751272402,
+      "rank": 40,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 123709,
+      "num": 438597,
+      "word": "虐猫考生考察若不合格将不予录取",
+      "onboard_time": 1751268743,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122624,
       "num": 122624,
       "word": "老铺黄金股价",
@@ -1395,12 +1515,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 122322,
+      "num": 122322,
+      "word": "李一桐 魔桐降世",
+      "onboard_time": 1751269942,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122136,
       "num": 122136,
       "word": "找到和汪苏泷同框跳舞的方法了",
       "onboard_time": 1751261901,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 121719,
+      "num": 121719,
+      "word": "上海动物园建议带娃游客喂完奶再进",
+      "onboard_time": 1751270544,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121426,
@@ -1427,6 +1563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120341,
+      "num": 120341,
+      "word": "锦绣芳华云包场",
+      "onboard_time": 1751272402,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119996,
       "num": 119996,
       "word": "姜云升小作文",
@@ -1449,6 +1593,14 @@
       "onboard_time": 1751254041,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117809,
+      "num": 117809,
+      "word": "这猫应该是撞过玻璃不止一次",
+      "onboard_time": 1751272402,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 116969,
@@ -1515,14 +1667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 111363,
-      "num": 448126,
-      "word": "白象说到做到面饼120克上市",
-      "onboard_time": 1751268863,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 110702,
       "num": 110702,
       "word": "刘宇宁总能给人焕新感",
@@ -1564,7 +1708,7 @@
     },
     {
       "raw_hot": 105880,
-      "num": 209918,
+      "num": 223829,
       "word": "小鹏G7公开实测AEB刷新行业纪录",
       "onboard_time": 1751268502,
       "rank": 28,
@@ -1667,6 +1811,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 92844,
+      "num": 125345,
+      "word": "PEL夏季赛倒计时3天",
+      "onboard_time": 1751272102,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 90642,
       "num": 90642,
       "word": "孟子义的狗巧克力又塌房了",
@@ -1689,14 +1841,6 @@
       "onboard_time": 1751195721,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 87705,
-      "num": 438597,
-      "word": "虐猫考生考察若不合格将不予录取",
-      "onboard_time": 1751268743,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87687,
@@ -1755,14 +1899,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 78761,
-      "num": 440874,
-      "word": "新房挖出男性尸骨当事女子发声",
-      "onboard_time": 1751268982,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 78228,
       "num": 78228,
       "word": "雷军说小米就是坚定对标保时捷",
@@ -1809,6 +1945,14 @@
       "onboard_time": 1751238077,
       "rank": 32,
       "category": "体育,休闲"
+    },
+    {
+      "raw_hot": 70196,
+      "num": 241072,
+      "word": "带头下馆子的区委书记做对了什么",
+      "onboard_time": 1751270243,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69701,
@@ -2091,6 +2235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 29302,
+      "num": 121881,
+      "word": "飞手伪造10枚公章9次飞行禁飞区",
+      "onboard_time": 1751270481,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29141,
       "num": 171247,
       "word": "公共厕所你选蹲还是坐",
@@ -2105,6 +2257,14 @@
       "onboard_time": 1751264543,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28820,
+      "num": 142158,
+      "word": "婴儿喝奶被赶本不该升级为公共事件",
+      "onboard_time": 1751272282,
+      "rank": 34,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 28503,
@@ -2139,7 +2299,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 26620,
+      "raw_hot": 27324,
       "num": 1231230,
       "word": "暴雨台风应对参考手册",
       "onboard_time": 1751258183,
@@ -2168,6 +2328,14 @@
       "word": "川渝部分地区发生山洪可能性很大",
       "onboard_time": 1751227514,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25130,
+      "num": 281900,
+      "word": "12粒右美沙芬片让她差点瘫痪",
+      "onboard_time": 1751271743,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
