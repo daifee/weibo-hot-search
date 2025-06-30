@@ -1,0 +1,410 @@
+{
+  "runTime": 1751290732674,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1655485,
+        "num": 1655485,
+        "word": "明天你的公积金账户将多一笔钱",
+        "onboard_time": 1751279121,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 840509,
+        "num": 840509,
+        "word": "人人视频崩了",
+        "onboard_time": 1751285722,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 26861,
+        "num": 753901,
+        "word": "数读国货如何征服全球味蕾",
+        "onboard_time": 1751277803,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 711967,
+        "num": 711967,
+        "word": "锦绣芳华打破了国色芳华纪录",
+        "onboard_time": 1751288303,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 592604,
+        "num": 592604,
+        "word": "大麦 退票",
+        "onboard_time": 1751284821,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 2116413,
+        "num": 589461,
+        "word": "中华田园犬 禁养",
+        "onboard_time": 1751276424,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 507286,
+        "num": 507286,
+        "word": "幼儿园招老师工资分级最高不超3千",
+        "onboard_time": 1751287283,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 497228,
+        "num": 497228,
+        "word": "陈芋汐撕拉片",
+        "onboard_time": 1751286564,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 476471,
+        "num": 476471,
+        "word": "猝死前1个月身体的信号",
+        "onboard_time": 1751280561,
+        "rank": 8,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 370132,
+        "num": 370132,
+        "word": "杨紫回应刘诗诗",
+        "onboard_time": 1751284281,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57025,
+        "num": 369933,
+        "word": "别让消费者因充电宝安全事件受伤",
+        "onboard_time": 1751290283,
+        "rank": 10,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1219854,
+        "num": 369267,
+        "word": "鹿晗屏保",
+        "onboard_time": 1751273602,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 517065,
+        "num": 368529,
+        "word": "韩安冉曝小猪妹被饿一整天",
+        "onboard_time": 1751282242,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 393963,
+        "num": 368394,
+        "word": "短剧男主角累到恶心呕吐",
+        "onboard_time": 1751284642,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 367961,
+        "num": 367961,
+        "word": "认不出这是李准基",
+        "onboard_time": 1751282421,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359466,
+        "num": 359466,
+        "word": "爷爷女友带走2岁孙子抛弃只为泄愤",
+        "onboard_time": 1751281523,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 354006,
+        "num": 354006,
+        "word": "原银行董事长400万迈凯伦89万被拍下",
+        "onboard_time": 1751282602,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353513,
+        "num": 353513,
+        "word": "烟草造成经济损失约9000亿",
+        "onboard_time": 1751279360,
+        "rank": 17,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 281341,
+        "num": 349531,
+        "word": "孙恩盛停播",
+        "onboard_time": 1751282541,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 69875,
+        "num": 349250,
+        "word": "女孩晕厥假医师打120求救真医生",
+        "onboard_time": 1751289563,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349131,
+        "num": 349131,
+        "word": "警方回应网传男子带12岁女孩开房",
+        "onboard_time": 1751289384,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321778,
+        "num": 321778,
+        "word": "管乐 王皓",
+        "onboard_time": 1751269280,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298126,
+        "num": 298126,
+        "word": "TFBOYS前缀",
+        "onboard_time": 1751275222,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285766,
+        "num": 285766,
+        "word": "多地解禁中华田园犬",
+        "onboard_time": 1751287702,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273846,
+        "num": 273846,
+        "word": "鹿晗西安抢票",
+        "onboard_time": 1751283921,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 218443,
+        "num": 218443,
+        "word": "食脑虫",
+        "onboard_time": 1751288963,
+        "rank": 25,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 192550,
+        "num": 192550,
+        "word": "张艺兴晒与林俊杰背影照",
+        "onboard_time": 1751289443,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 169655,
+        "num": 169655,
+        "word": "王安宇 音乐节",
+        "onboard_time": 1751287823,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143836,
+        "num": 169254,
+        "word": "王佑硕人生镜头",
+        "onboard_time": 1751290163,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139157,
+        "num": 169248,
+        "word": "附中一年级的刘浩存",
+        "onboard_time": 1751284102,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210054,
+        "num": 169248,
+        "word": "多家车企愿为YU7退订用户补定金",
+        "onboard_time": 1751279783,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 169246,
+        "num": 169246,
+        "word": "网购内裤 退换",
+        "onboard_time": 1751279063,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158640,
+        "num": 158640,
+        "word": "医生拿我痔疮参赛得奖了",
+        "onboard_time": 1751276844,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137490,
+        "num": 156838,
+        "word": "解限机外网好评如潮",
+        "onboard_time": 1751287403,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 94668,
+        "num": 155540,
+        "word": "中国游戏出海的使命感",
+        "onboard_time": 1751290703,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 77510,
+        "num": 153834,
+        "word": "胡彦斌回应充电宝被传没收",
+        "onboard_time": 1751290703,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101404,
+        "num": 152847,
+        "word": "刘少昂为数不多喊哥的时刻",
+        "onboard_time": 1751290642,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119297,
+        "num": 149613,
+        "word": "游戏CEO每天800个会在开什么",
+        "onboard_time": 1751290703,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 99108,
+        "num": 148463,
+        "word": "解限机的亮剑时刻",
+        "onboard_time": 1751290703,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147379,
+        "num": 147379,
+        "word": "巴西游客坠入印尼火山",
+        "onboard_time": 1751287103,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 141141,
+        "num": 141141,
+        "word": "公积金结息能领几千元",
+        "onboard_time": 1751274681,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142487,
+        "num": 140950,
+        "word": "新房挖出男性尸骨当事女子发声",
+        "onboard_time": 1751268982,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133914,
+        "num": 133914,
+        "word": "特朗普承认美国对中国做过很多事",
+        "onboard_time": 1751274081,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132486,
+        "num": 132486,
+        "word": "李准基 无毛猫",
+        "onboard_time": 1751285964,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131586,
+        "num": 131586,
+        "word": "不发朋友圈的人是什么性格",
+        "onboard_time": 1751282482,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126134,
+        "num": 131554,
+        "word": "以法之名尺度",
+        "onboard_time": 1751290223,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122138,
+        "num": 131412,
+        "word": "儿媳每月给婆婆6000元感谢帮带娃",
+        "onboard_time": 1751288065,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76248,
+        "num": 131224,
+        "word": "解限机的文化逆袭战",
+        "onboard_time": 1751290104,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115087,
+        "num": 131042,
+        "word": "执法人员勾结黄牛处理超限车敛财",
+        "onboard_time": 1751288484,
+        "rank": 48,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 108774,
+        "num": 130940,
+        "word": "锦绣芳华",
+        "onboard_time": 1751278282,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局6月30日召开会议#"
+    }
+  }
+}

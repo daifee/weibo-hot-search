@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751288961867,
+  "endTime": 1751290732674,
   "band_list": [
     {
       "raw_hot": 3569605,
@@ -579,6 +579,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 711967,
+      "num": 711967,
+      "word": "锦绣芳华打破了国色芳华纪录",
+      "onboard_time": 1751288303,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 711819,
       "num": 528406,
       "word": "柳俊烈丑谈我真的笑不行了",
@@ -827,6 +835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 507286,
+      "num": 507286,
+      "word": "幼儿园招老师工资分级最高不超3千",
+      "onboard_time": 1751287283,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 504171,
       "num": 504171,
       "word": "杨紫回应刘诗诗",
@@ -865,6 +881,14 @@
       "onboard_time": 1751265382,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 497228,
+      "num": 497228,
+      "word": "陈芋汐撕拉片",
+      "onboard_time": 1751286564,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 496818,
@@ -1035,14 +1059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 429144,
-      "num": 429144,
-      "word": "陈芋汐撕拉片",
-      "onboard_time": 1751286564,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 428697,
       "num": 337763,
       "word": "蟑螂入耳",
@@ -1179,6 +1195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 393963,
+      "num": 368394,
+      "word": "短剧男主角累到恶心呕吐",
+      "onboard_time": 1751284642,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 386035,
       "num": 386035,
       "word": "书卷一梦1集41分55秒",
@@ -1313,6 +1337,14 @@
       "onboard_time": 1751235735,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 349131,
+      "num": 349131,
+      "word": "警方回应网传男子带12岁女孩开房",
+      "onboard_time": 1751289384,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 343270,
@@ -1699,6 +1731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 285766,
+      "num": 492906,
+      "word": "多地解禁中华田园犬",
+      "onboard_time": 1751287702,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 284692,
       "num": 284692,
       "word": "杨紫已经三次陪跑白玉兰",
@@ -1947,14 +1987,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 250591,
-      "num": 250591,
-      "word": "幼儿园招老师工资分级最高不超3千",
-      "onboard_time": 1751287283,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 250446,
       "num": 250446,
       "word": "陈哲远高跟鞋",
@@ -2187,6 +2219,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 218443,
+      "num": 218443,
+      "word": "食脑虫",
+      "onboard_time": 1751288963,
+      "rank": 25,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 217708,
       "num": 217708,
       "word": "锦绣芳华开播口碑",
@@ -2233,14 +2273,6 @@
       "onboard_time": 1751091143,
       "rank": 19,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 215286,
-      "num": 215286,
-      "word": "锦绣芳华打破了国色芳华纪录",
-      "onboard_time": 1751288303,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 213941,
@@ -2643,6 +2675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192550,
+      "num": 192550,
+      "word": "张艺兴晒与林俊杰背影照",
+      "onboard_time": 1751289443,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 192385,
       "num": 192385,
       "word": "小米汽车回应YU7刹车片起火",
@@ -2801,14 +2841,6 @@
       "onboard_time": 1751267422,
       "rank": 35,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 185753,
-      "num": 305232,
-      "word": "短剧男主角累到恶心呕吐",
-      "onboard_time": 1751284642,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 185592,
@@ -3105,14 +3137,6 @@
       "onboard_time": 1751192300,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 173599,
-      "num": 492906,
-      "word": "多地解禁中华田园犬",
-      "onboard_time": 1751287702,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 172847,
@@ -3851,6 +3875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147379,
+      "num": 147379,
+      "word": "巴西游客坠入印尼火山",
+      "onboard_time": 1751287103,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 147365,
       "num": 147365,
       "word": "谷歌杀妻案曝光更多毛骨悚然细节",
@@ -3937,6 +3969,14 @@
       "onboard_time": 1751204663,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 143836,
+      "num": 169254,
+      "word": "王佑硕人生镜头",
+      "onboard_time": 1751290163,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 142893,
@@ -4643,6 +4683,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 126134,
+      "num": 131554,
+      "word": "以法之名尺度",
+      "onboard_time": 1751290223,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126067,
       "num": 126067,
       "word": "来韩国最大的问题出现了",
@@ -4753,6 +4801,14 @@
       "onboard_time": 1751255722,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 122138,
+      "num": 131412,
+      "word": "儿媳每月给婆婆6000元感谢帮带娃",
+      "onboard_time": 1751288065,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 122136,
@@ -4873,6 +4929,14 @@
       "onboard_time": 1751168841,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119297,
+      "num": 149613,
+      "word": "游戏CEO每天800个会在开什么",
+      "onboard_time": 1751290703,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 119121,
@@ -5035,20 +5099,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115087,
+      "num": 431423,
+      "word": "执法人员勾结黄牛处理超限车敛财",
+      "onboard_time": 1751288484,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 115070,
       "num": 315663,
       "word": "婴儿喝奶瓶被赶馆方该不该道歉",
       "onboard_time": 1751254581,
       "rank": 14,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 115066,
-      "num": 115066,
-      "word": "儿媳每月给婆婆6000元感谢帮带娃",
-      "onboard_time": 1751288065,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 114962,
@@ -5467,6 +5531,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 101404,
+      "num": 152847,
+      "word": "刘少昂为数不多喊哥的时刻",
+      "onboard_time": 1751290642,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100908,
       "num": 287495,
       "word": "无名之辈章宇身陷恐怖直播",
@@ -5513,6 +5585,14 @@
       "onboard_time": 1751113703,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 99108,
+      "num": 148463,
+      "word": "解限机的亮剑时刻",
+      "onboard_time": 1751290703,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 99067,
@@ -5603,6 +5683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94668,
+      "num": 155540,
+      "word": "中国游戏出海的使命感",
+      "onboard_time": 1751290703,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 94554,
       "num": 94554,
       "word": "展馆驱赶喝奶婴儿拒道歉",
@@ -5673,14 +5761,6 @@
       "onboard_time": 1751126002,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 88614,
-      "num": 142262,
-      "word": "巴西游客坠入印尼火山",
-      "onboard_time": 1751287103,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 87220,
@@ -5819,6 +5899,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 77510,
+      "num": 153834,
+      "word": "胡彦斌回应充电宝被传没收",
+      "onboard_time": 1751290703,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 77334,
       "num": 294011,
       "word": "摩旅被民警非工作时间逼停无违规",
@@ -5873,6 +5961,14 @@
       "onboard_time": 1751238978,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 76248,
+      "num": 131224,
+      "word": "解限机的文化逆袭战",
+      "onboard_time": 1751290104,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 75745,
@@ -5961,6 +6057,14 @@
       "onboard_time": 1751281282,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69875,
+      "num": 349250,
+      "word": "女孩晕厥假医师打120求救真医生",
+      "onboard_time": 1751289563,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69701,
@@ -6145,6 +6249,14 @@
       "onboard_time": 1751181740,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 57025,
+      "num": 369933,
+      "word": "别让消费者因充电宝安全事件受伤",
+      "onboard_time": 1751290283,
+      "rank": 10,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 56916,
@@ -7041,14 +7153,6 @@
       "onboard_time": 1751204424,
       "rank": 33,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 11519,
-      "num": 431423,
-      "word": "执法人员勾结黄牛处理超限车敛财",
-      "onboard_time": 1751288484,
-      "rank": 14,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 10997,
