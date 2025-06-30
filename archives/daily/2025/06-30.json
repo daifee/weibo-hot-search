@@ -1,6 +1,6 @@
 {
   "startTime": 1751214634143,
-  "endTime": 1751261364131,
+  "endTime": 1751262349768,
   "band_list": [
     {
       "raw_hot": 2461024,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1729503,
-      "num": 1729503,
+      "raw_hot": 1814246,
+      "num": 1814246,
       "word": "韩国首尔爱情虫爆发",
       "onboard_time": 1751258302,
       "rank": 34,
@@ -67,11 +67,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1135383,
+      "num": 361932,
+      "word": "本升专",
+      "onboard_time": 1751260941,
+      "rank": 10,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1134181,
       "num": 1134181,
       "word": "人社局回应虐猫考生进入考察公示",
       "onboard_time": 1751250441,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1081377,
+      "num": 1081377,
+      "word": "收到不雅照转过去15万才想起没拍过",
+      "onboard_time": 1751259682,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -115,14 +131,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 747624,
-      "num": 747624,
-      "word": "收到不雅照转过去15万才想起没拍过",
-      "onboard_time": 1751259682,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 733026,
       "num": 733026,
       "word": "中国共产党党员总数为10027.1万名",
@@ -139,12 +147,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 611753,
-      "num": 361932,
-      "word": "本升专",
-      "onboard_time": 1751260941,
-      "rank": 10,
-      "category": "教育"
+      "raw_hot": 619028,
+      "num": 619028,
+      "word": "李嘉格妈妈是上嫁的牺牲者",
+      "onboard_time": 1751260821,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 596698,
@@ -339,6 +347,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 321532,
+      "num": 321532,
+      "word": "哪吒敖丙挥手告别",
+      "onboard_time": 1751259682,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 311398,
       "num": 311398,
       "word": "央视曝光舞蹈培训市场乱象",
@@ -403,14 +419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 292722,
-      "num": 292722,
-      "word": "哪吒敖丙挥手告别",
-      "onboard_time": 1751259682,
-      "rank": 14,
-      "category": "电影"
-    },
-    {
       "raw_hot": 292084,
       "num": 292084,
       "word": "局地超40摄氏度高温天要来了",
@@ -443,12 +451,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 271986,
+      "num": 271986,
+      "word": "王源巡演应到三万实到千万",
+      "onboard_time": 1751260581,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 269843,
       "num": 306690,
       "word": "行程图",
       "onboard_time": 1751249841,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 269566,
+      "num": 269566,
+      "word": "双休和单休真的是两种人生",
+      "onboard_time": 1751259143,
+      "rank": 43,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 261167,
@@ -507,20 +531,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 243455,
-      "num": 243455,
-      "word": "李嘉格妈妈是上嫁的牺牲者",
-      "onboard_time": 1751260821,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 240880,
       "num": 240880,
       "word": "密室大逃脱",
       "onboard_time": 1751252901,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 237332,
+      "num": 237332,
+      "word": "疑毒杀女模中国籍嫌犯返泰自首",
+      "onboard_time": 1751261721,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 234084,
+      "num": 234084,
+      "word": "恋与制作人喜羊羊",
+      "onboard_time": 1751260762,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 233683,
@@ -547,14 +579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 218079,
-      "num": 218079,
-      "word": "双休和单休真的是两种人生",
-      "onboard_time": 1751259143,
-      "rank": 43,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 215945,
       "num": 215945,
       "word": "飞天茅台再度全线下跌",
@@ -577,14 +601,6 @@
       "onboard_time": 1751254161,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 203848,
-      "num": 203848,
-      "word": "恋与制作人喜羊羊",
-      "onboard_time": 1751260762,
-      "rank": 25,
-      "category": "游戏"
     },
     {
       "raw_hot": 203480,
@@ -611,8 +627,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 195615,
-      "num": 195615,
+      "raw_hot": 196512,
+      "num": 196512,
       "word": "王楚钦领衔美国大满贯宣传片",
       "onboard_time": 1751260821,
       "rank": 31,
@@ -643,20 +659,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 192616,
-      "num": 195919,
-      "word": "王源巡演应到三万实到千万",
-      "onboard_time": 1751260581,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
       "raw_hot": 191006,
       "num": 191006,
       "word": "白桃星座一周运势",
       "onboard_time": 1751209763,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 190593,
+      "num": 190593,
+      "word": "上海动物园",
+      "onboard_time": 1751259383,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189860,
@@ -731,6 +747,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 180402,
+      "num": 198719,
+      "word": "丁禹兮让本牛马无比叹服",
+      "onboard_time": 1751260941,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179916,
       "num": 179916,
       "word": "MSI",
@@ -787,6 +811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172114,
+      "num": 172114,
+      "word": "G2晋级2025MSI淘汰赛",
+      "onboard_time": 1751261422,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 170901,
       "num": 170901,
       "word": "朱雀堂定档",
@@ -808,6 +840,14 @@
       "word": "四川暴雨2.9万人提前转移",
       "onboard_time": 1751250740,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155081,
+      "num": 155081,
+      "word": "榕江最大超市损失千万店长发声",
+      "onboard_time": 1751261482,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -907,12 +947,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 136402,
-      "num": 198719,
-      "word": "丁禹兮让本牛马无比叹服",
-      "onboard_time": 1751260941,
-      "rank": 29,
-      "category": "综艺"
+      "raw_hot": 136046,
+      "num": 136046,
+      "word": "李一桐刘宇宁好像小手办大手办",
+      "onboard_time": 1751262141,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 135498,
@@ -971,6 +1011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130658,
+      "num": 130658,
+      "word": "三个外地人不如一个本地人",
+      "onboard_time": 1751261422,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129301,
       "num": 129301,
       "word": "医美速成第1天捡起针就干",
@@ -1011,6 +1059,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 122136,
+      "num": 122136,
+      "word": "找到和汪苏泷同框跳舞的方法了",
+      "onboard_time": 1751261901,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 121426,
       "num": 121426,
       "word": "李嘉格说自己没有办法再去哄妈妈了",
@@ -1019,12 +1075,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121424,
+      "num": 121424,
+      "word": "桃花映江山土狗天菜",
+      "onboard_time": 1751261300,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119996,
       "num": 119996,
       "word": "姜云升小作文",
       "onboard_time": 1751255122,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118619,
+      "num": 118619,
+      "word": "Vansdaddy开口严浩翔变如脸",
+      "onboard_time": 1751261782,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 118352,
@@ -1089,14 +1161,6 @@
       "onboard_time": 1751254581,
       "rank": 14,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 114172,
-      "num": 114172,
-      "word": "桃花映江山土狗天菜",
-      "onboard_time": 1751261300,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 111839,
@@ -1379,6 +1443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 67366,
+      "num": 247178,
+      "word": "马斯克再发文批评大而美法案",
+      "onboard_time": 1751260941,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 66713,
       "num": 66713,
       "word": "湖南一高校保安将大量外卖扔垃圾桶",
@@ -1395,12 +1467,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63371,
+      "num": 174560,
+      "word": "宋佳导协年度女演员提名",
+      "onboard_time": 1751260941,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 62029,
       "num": 188651,
       "word": "男性气质为何让男孩陷入友谊危机",
       "onboard_time": 1751254882,
       "rank": 29,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 59675,
+      "num": 165011,
+      "word": "苏超水平这么高了",
+      "onboard_time": 1751261181,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 59649,
@@ -1425,6 +1513,14 @@
       "onboard_time": 1751238738,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 54911,
+      "num": 129740,
+      "word": "为何郑工商的宝玉石专业成香饽饽",
+      "onboard_time": 1751262321,
+      "rank": 44,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 54222,
@@ -1505,14 +1601,6 @@
       "onboard_time": 1751212821,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 40323,
-      "num": 165011,
-      "word": "苏超水平这么高了",
-      "onboard_time": 1751261181,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 39788,
@@ -1635,14 +1723,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 24155,
-      "num": 247178,
-      "word": "马斯克再发文批评大而美法案",
-      "onboard_time": 1751260941,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 23432,
       "num": 23310,
       "word": "汪苏泷坠入首唱",
@@ -1673,6 +1753,14 @@
       "onboard_time": 1751222535,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 19624,
+      "num": 175750,
+      "word": "小偷事前写笔记作案后复盘",
+      "onboard_time": 1751262082,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17032,

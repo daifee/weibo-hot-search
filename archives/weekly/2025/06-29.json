@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751261364131,
+  "endTime": 1751262349768,
   "band_list": [
     {
       "raw_hot": 3569605,
@@ -43,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1814246,
+      "num": 1814246,
+      "word": "韩国首尔爱情虫爆发",
+      "onboard_time": 1751258302,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1788140,
       "num": 1788140,
       "word": "TFBOYS十年保密协议到期",
@@ -57,14 +65,6 @@
       "onboard_time": 1751193201,
       "rank": 4,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1729503,
-      "num": 1729503,
-      "word": "韩国首尔爱情虫爆发",
-      "onboard_time": 1751258302,
-      "rank": 34,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1630265,
@@ -179,6 +179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1135383,
+      "num": 361932,
+      "word": "本升专",
+      "onboard_time": 1751260941,
+      "rank": 10,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1134181,
       "num": 1134181,
       "word": "人社局回应虐猫考生进入考察公示",
@@ -209,6 +217,14 @@
       "onboard_time": 1751169980,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1081377,
+      "num": 1081377,
+      "word": "收到不雅照转过去15万才想起没拍过",
+      "onboard_time": 1751259682,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1050036,
@@ -337,14 +353,6 @@
       "onboard_time": 1751189481,
       "rank": 14,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 747624,
-      "num": 747624,
-      "word": "收到不雅照转过去15万才想起没拍过",
-      "onboard_time": 1751259682,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 747130,
@@ -499,20 +507,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 619028,
+      "num": 619028,
+      "word": "李嘉格妈妈是上嫁的牺牲者",
+      "onboard_time": 1751260821,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 612062,
       "num": 488024,
       "word": "吴沛官宣怀孕",
       "onboard_time": 1751194340,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 611753,
-      "num": 361932,
-      "word": "本升专",
-      "onboard_time": 1751260941,
-      "rank": 10,
-      "category": "教育"
     },
     {
       "raw_hot": 611173,
@@ -1075,6 +1083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 321532,
+      "num": 321532,
+      "word": "哪吒敖丙挥手告别",
+      "onboard_time": 1751259682,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 321108,
       "num": 321108,
       "word": "鞠婧祎来战开机",
@@ -1267,14 +1283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 292722,
-      "num": 292722,
-      "word": "哪吒敖丙挥手告别",
-      "onboard_time": 1751259682,
-      "rank": 14,
-      "category": "电影"
-    },
-    {
       "raw_hot": 292087,
       "num": 292087,
       "word": "马龙看林俊杰演唱会嗓子哑了",
@@ -1371,6 +1379,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 271986,
+      "num": 271986,
+      "word": "王源巡演应到三万实到千万",
+      "onboard_time": 1751260581,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 271446,
       "num": 271446,
       "word": "小猫被主人亲完后装死",
@@ -1393,6 +1409,14 @@
       "onboard_time": 1751249841,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 269566,
+      "num": 269566,
+      "word": "双休和单休真的是两种人生",
+      "onboard_time": 1751259143,
+      "rank": 43,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 269065,
@@ -1539,14 +1563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 243455,
-      "num": 243455,
-      "word": "李嘉格妈妈是上嫁的牺牲者",
-      "onboard_time": 1751260821,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 241343,
       "num": 241343,
       "word": "朱志鑫把加速王的奖牌带回家",
@@ -1579,12 +1595,28 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 237332,
+      "num": 237332,
+      "word": "疑毒杀女模中国籍嫌犯返泰自首",
+      "onboard_time": 1751261721,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 234103,
       "num": 234103,
       "word": "清华硕士靠文眉月入3万被母亲反对",
       "onboard_time": 1751112621,
       "rank": 18,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 234084,
+      "num": 234084,
+      "word": "恋与制作人喜羊羊",
+      "onboard_time": 1751260762,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 233683,
@@ -1681,14 +1713,6 @@
       "onboard_time": 1751182282,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 218079,
-      "num": 218079,
-      "word": "双休和单休真的是两种人生",
-      "onboard_time": 1751259143,
-      "rank": 43,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 216601,
@@ -1819,14 +1843,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 203848,
-      "num": 203848,
-      "word": "恋与制作人喜羊羊",
-      "onboard_time": 1751260762,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 203707,
       "num": 203707,
       "word": "北京酒吧偶遇苏晓彤打架子鼓",
@@ -1915,8 +1931,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195615,
-      "num": 195615,
+      "raw_hot": 196512,
+      "num": 196512,
       "word": "王楚钦领衔美国大满贯宣传片",
       "onboard_time": 1751260821,
       "rank": 31,
@@ -2019,14 +2035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 192616,
-      "num": 195919,
-      "word": "王源巡演应到三万实到千万",
-      "onboard_time": 1751260581,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
       "raw_hot": 192385,
       "num": 192385,
       "word": "小米汽车回应YU7刹车片起火",
@@ -2073,6 +2081,14 @@
       "onboard_time": 1751185281,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190593,
+      "num": 190593,
+      "word": "上海动物园",
+      "onboard_time": 1751259383,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190419,
@@ -2225,6 +2241,14 @@
       "onboard_time": 1751181320,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 180402,
+      "num": 198719,
+      "word": "丁禹兮让本牛马无比叹服",
+      "onboard_time": 1751260941,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 179916,
@@ -2393,6 +2417,14 @@
       "onboard_time": 1751242281,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172114,
+      "num": 172114,
+      "word": "G2晋级2025MSI淘汰赛",
+      "onboard_time": 1751261422,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 171962,
@@ -2649,6 +2681,14 @@
       "onboard_time": 1751201121,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155081,
+      "num": 155081,
+      "word": "榕江最大超市损失千万店长发声",
+      "onboard_time": 1751261482,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154880,
@@ -3099,20 +3139,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 136402,
-      "num": 198719,
-      "word": "丁禹兮让本牛马无比叹服",
-      "onboard_time": 1751260941,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 136201,
       "num": 136201,
       "word": "铭恒",
       "onboard_time": 1751202623,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136046,
+      "num": 136046,
+      "word": "李一桐刘宇宁好像小手办大手办",
+      "onboard_time": 1751262141,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 136017,
@@ -3289,6 +3329,14 @@
       "onboard_time": 1751195241,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130658,
+      "num": 130658,
+      "word": "三个外地人不如一个本地人",
+      "onboard_time": 1751261422,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 130569,
@@ -3523,12 +3571,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 122136,
+      "num": 122136,
+      "word": "找到和汪苏泷同框跳舞的方法了",
+      "onboard_time": 1751261901,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 121426,
       "num": 121426,
       "word": "李嘉格说自己没有办法再去哄妈妈了",
       "onboard_time": 1751256023,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121424,
+      "num": 121424,
+      "word": "桃花映江山土狗天菜",
+      "onboard_time": 1751261300,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 121369,
@@ -3617,6 +3681,14 @@
       "onboard_time": 1751179580,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 118619,
+      "num": 118619,
+      "word": "Vansdaddy开口严浩翔变如脸",
+      "onboard_time": 1751261782,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 118404,
@@ -3745,14 +3817,6 @@
       "onboard_time": 1751179521,
       "rank": 44,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 114172,
-      "num": 114172,
-      "word": "桃花映江山土狗天菜",
-      "onboard_time": 1751261300,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 114043,
@@ -4523,6 +4587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67366,
+      "num": 247178,
+      "word": "马斯克再发文批评大而美法案",
+      "onboard_time": 1751260941,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 66747,
       "num": 242971,
       "word": "王一珩直播",
@@ -4571,6 +4643,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 63371,
+      "num": 174560,
+      "word": "宋佳导协年度女演员提名",
+      "onboard_time": 1751260941,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 63139,
       "num": 63139,
       "word": "长期睡不够有哪些危害",
@@ -4601,6 +4681,14 @@
       "onboard_time": 1751131096,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59675,
+      "num": 165011,
+      "word": "苏超水平这么高了",
+      "onboard_time": 1751261181,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 59649,
@@ -4649,6 +4737,14 @@
       "onboard_time": 1751238738,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 54911,
+      "num": 129740,
+      "word": "为何郑工商的宝玉石专业成香饽饽",
+      "onboard_time": 1751262321,
+      "rank": 44,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 54390,
@@ -4793,14 +4889,6 @@
       "onboard_time": 1751212821,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 40323,
-      "num": 165011,
-      "word": "苏超水平这么高了",
-      "onboard_time": 1751261181,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 39788,
@@ -5091,14 +5179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 24155,
-      "num": 247178,
-      "word": "马斯克再发文批评大而美法案",
-      "onboard_time": 1751260941,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 23754,
       "num": 28476,
       "word": "在汪苏泷的罗曼城淋过雨都发财",
@@ -5153,6 +5233,14 @@
       "onboard_time": 1751206883,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 19624,
+      "num": 175750,
+      "word": "小偷事前写笔记作案后复盘",
+      "onboard_time": 1751262082,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19188,
