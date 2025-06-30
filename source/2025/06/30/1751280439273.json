@@ -1,0 +1,410 @@
+{
+  "runTime": 1751280439273,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3032296,
+        "num": 3032296,
+        "word": "中华田园犬 禁养",
+        "onboard_time": 1751276424,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1073038,
+        "num": 1073038,
+        "word": "陈都灵回应",
+        "onboard_time": 1751276183,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35237,
+        "num": 957229,
+        "word": "数读国货如何征服全球味蕾",
+        "onboard_time": 1751277803,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 954537,
+        "num": 954537,
+        "word": "明天你的公积金账户将多一笔钱",
+        "onboard_time": 1751279121,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 642206,
+        "num": 642206,
+        "word": "特朗普承认美国对中国做过很多事",
+        "onboard_time": 1751274081,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 543477,
+        "num": 543477,
+        "word": "锦绣芳华开局14广",
+        "onboard_time": 1751279184,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 470192,
+        "num": 470192,
+        "word": "她瘦三斤比我瘦30斤都明显",
+        "onboard_time": 1751277264,
+        "rank": 6,
+        "category": "幽默,运动健身"
+      },
+      {
+        "raw_hot": 385671,
+        "num": 385671,
+        "word": "公积金结息能领几千元",
+        "onboard_time": 1751274681,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383608,
+        "num": 383608,
+        "word": "锦绣芳华",
+        "onboard_time": 1751278282,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 345613,
+        "num": 345613,
+        "word": "男子疑逼泰国女模吸毒致死",
+        "onboard_time": 1751273362,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1822297,
+        "num": 340939,
+        "word": "鹿晗屏保",
+        "onboard_time": 1751273602,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 747567,
+        "num": 338899,
+        "word": "新房挖出男性尸骨当事女子发声",
+        "onboard_time": 1751268982,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 668884,
+        "num": 326680,
+        "word": "TFBOYS前缀",
+        "onboard_time": 1751275222,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34088,
+        "num": 324773,
+        "word": "充电宝机场存7天过期不取会怎样",
+        "onboard_time": 1751279482,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126581,
+        "num": 313481,
+        "word": "阿里散装赞助了3支苏超球队",
+        "onboard_time": 1751277682,
+        "rank": 14,
+        "category": "体育,互联网"
+      },
+      {
+        "raw_hot": 556590,
+        "num": 310974,
+        "word": "管乐 王皓",
+        "onboard_time": 1751269280,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305497,
+        "num": 305497,
+        "word": "烟草造成经济损失约9000亿",
+        "onboard_time": 1751279360,
+        "rank": 16,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 294289,
+        "num": 294289,
+        "word": "韩国首尔爱情虫爆发",
+        "onboard_time": 1751258302,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 72150,
+        "num": 237428,
+        "word": "李一桐诶我不是化学天才吗",
+        "onboard_time": 1751279842,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51861,
+        "num": 231044,
+        "word": "陈哲远高跟鞋",
+        "onboard_time": 1751270842,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 525208,
+        "num": 230485,
+        "word": "医生拿我痔疮参赛得奖了",
+        "onboard_time": 1751276844,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226517,
+        "num": 226517,
+        "word": "时代少年团大连不选座",
+        "onboard_time": 1751274322,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 220885,
+        "num": 220885,
+        "word": "已婚和未婚看演唱会的区别",
+        "onboard_time": 1751270783,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 220708,
+        "num": 220708,
+        "word": "暑假第一部高颜值古装剧来了",
+        "onboard_time": 1751279602,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219715,
+        "num": 219715,
+        "word": "网购内裤 退换",
+        "onboard_time": 1751279063,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209791,
+        "num": 209791,
+        "word": "哪吒2告别",
+        "onboard_time": 1751274800,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 204916,
+        "num": 204916,
+        "word": "董卿眼睛出现状况",
+        "onboard_time": 1751269042,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197905,
+        "num": 197905,
+        "word": "五月天鸟巢演唱会因高温改期",
+        "onboard_time": 1751279602,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 186713,
+        "num": 186713,
+        "word": "多家车企愿为YU7退订用户补定金",
+        "onboard_time": 1751279783,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 22604,
+        "num": 186606,
+        "word": "榕江3天下了553个大明湖",
+        "onboard_time": 1751280142,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186515,
+        "num": 186515,
+        "word": "锦绣芳华云包场",
+        "onboard_time": 1751272402,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186327,
+        "num": 186327,
+        "word": "中方回应是否会邀特朗普参加阅兵",
+        "onboard_time": 1751273542,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 173121,
+        "num": 173121,
+        "word": "外军多次跟踪监视我双航母训练",
+        "onboard_time": 1751276783,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 155547,
+        "num": 155547,
+        "word": "头一次见鸡长得这么优雅",
+        "onboard_time": 1751277981,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152435,
+        "num": 152435,
+        "word": "设立党中央决策议事协调机构",
+        "onboard_time": 1751263461,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 151734,
+        "num": 151734,
+        "word": "田曦薇 天才女友",
+        "onboard_time": 1751274622,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147365,
+        "num": 147365,
+        "word": "谷歌杀妻案曝光更多毛骨悚然细节",
+        "onboard_time": 1751279482,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 145042,
+        "num": 145042,
+        "word": "书卷一梦",
+        "onboard_time": 1751279360,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35919,
+        "num": 141530,
+        "word": "远看是柏油路近看是爱情虫",
+        "onboard_time": 1751279184,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139317,
+        "num": 139317,
+        "word": "92岁游本昌宣誓入党",
+        "onboard_time": 1751264902,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139119,
+        "num": 139119,
+        "word": "禁养犬",
+        "onboard_time": 1751264661,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137727,
+        "num": 137727,
+        "word": "哪吒2终票房154.4亿",
+        "onboard_time": 1751279904,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133484,
+        "num": 133484,
+        "word": "相亲女嘉宾大于35岁男方要退费",
+        "onboard_time": 1751275883,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131712,
+        "num": 131712,
+        "word": "华策影视",
+        "onboard_time": 1751277623,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127963,
+        "num": 127963,
+        "word": "上海动物园建议带娃游客喂完奶再进",
+        "onboard_time": 1751270544,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123160,
+        "num": 123160,
+        "word": "一诺缺席红狼大战",
+        "onboard_time": 1751278581,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113123,
+        "num": 113123,
+        "word": "等待大学录取结果时belike",
+        "onboard_time": 1751279783,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112114,
+        "num": 112114,
+        "word": "原来我理想的生活只需要4721元",
+        "onboard_time": 1751275823,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108502,
+        "num": 108502,
+        "word": "荔枝排名",
+        "onboard_time": 1751277921,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 96131,
+        "num": 96131,
+        "word": "作家文章被选为考试题本人却做错",
+        "onboard_time": 1751278882,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局6月30日召开会议#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751279395127,
+  "endTime": 1751280439273,
   "band_list": [
     {
       "raw_hot": 3569605,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 3137017,
-      "num": 287031,
+      "num": 340939,
       "word": "鹿晗屏保",
       "onboard_time": 1751273602,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3032296,
+      "num": 3032296,
+      "word": "中华田园犬 禁养",
+      "onboard_time": 1751276424,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2461024,
@@ -33,14 +41,6 @@
       "onboard_time": 1751195961,
       "rank": 7,
       "category": "演出"
-    },
-    {
-      "raw_hot": 2068658,
-      "num": 2068658,
-      "word": "中华田园犬 禁养",
-      "onboard_time": 1751276424,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 2005351,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 1470010,
-      "num": 285528,
+      "num": 326680,
       "word": "TFBOYS前缀",
       "onboard_time": 1751275222,
       "rank": 11,
@@ -321,6 +321,14 @@
       "onboard_time": 1751168361,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 954537,
+      "num": 954537,
+      "word": "明天你的公积金账户将多一笔钱",
+      "onboard_time": 1751279121,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 944356,
@@ -699,6 +707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 543477,
+      "num": 543477,
+      "word": "锦绣芳华开局14广",
+      "onboard_time": 1751279184,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 537869,
       "num": 537869,
       "word": "宋茜Amber同框",
@@ -865,6 +881,14 @@
       "onboard_time": 1751122044,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 470192,
+      "num": 470192,
+      "word": "她瘦三斤比我瘦30斤都明显",
+      "onboard_time": 1751277264,
+      "rank": 21,
+      "category": "幽默,运动健身"
     },
     {
       "raw_hot": 468499,
@@ -1067,6 +1091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 385671,
+      "num": 385671,
+      "word": "公积金结息能领几千元",
+      "onboard_time": 1751274681,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 385416,
       "num": 385416,
       "word": "特朗普说早知当总统这么危险就不选了",
@@ -1209,14 +1241,6 @@
       "onboard_time": 1751155699,
       "rank": 8,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 337158,
-      "num": 309125,
-      "word": "公积金结息能领几千元",
-      "onboard_time": 1751274681,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 335725,
@@ -1409,6 +1433,14 @@
       "onboard_time": 1751126482,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 305497,
+      "num": 305497,
+      "word": "烟草造成经济损失约9000亿",
+      "onboard_time": 1751279360,
+      "rank": 30,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 303989,
@@ -1723,14 +1755,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 257638,
-      "num": 257638,
-      "word": "锦绣芳华开局14广",
-      "onboard_time": 1751279184,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 257162,
       "num": 257162,
       "word": "5岁女童泡温泉后被确诊感染食脑虫",
@@ -1745,14 +1769,6 @@
       "onboard_time": 1751242461,
       "rank": 12,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 255511,
-      "num": 255511,
-      "word": "她瘦三斤比我瘦30斤都明显",
-      "onboard_time": 1751277264,
-      "rank": 21,
-      "category": "幽默,运动健身"
     },
     {
       "raw_hot": 255323,
@@ -1955,7 +1971,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 225188,
+      "raw_hot": 226517,
       "num": 256866,
       "word": "时代少年团大连不选座",
       "onboard_time": 1751274322,
@@ -1995,11 +2011,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 220708,
+      "num": 220708,
+      "word": "暑假第一部高颜值古装剧来了",
+      "onboard_time": 1751279602,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220413,
       "num": 220413,
       "word": "四川暴雨直接包场全国降雨前十",
       "onboard_time": 1751193741,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219715,
+      "num": 219715,
+      "word": "网购内裤 退换",
+      "onboard_time": 1751279063,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -2299,6 +2331,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 197905,
+      "num": 197905,
+      "word": "五月天鸟巢演唱会因高温改期",
+      "onboard_time": 1751279602,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 197542,
       "num": 197542,
       "word": "ivl",
@@ -2483,14 +2523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 190125,
-      "num": 178850,
-      "word": "烟草造成经济损失约9000亿",
-      "onboard_time": 1751279360,
-      "rank": 30,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 189860,
       "num": 395600,
       "word": "美消防员扑山火时遭袭",
@@ -2553,6 +2585,14 @@
       "onboard_time": 1751205084,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186713,
+      "num": 186713,
+      "word": "多家车企愿为YU7退订用户补定金",
+      "onboard_time": 1751279783,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 186613,
@@ -2729,14 +2769,6 @@
       "onboard_time": 1751272641,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 178307,
-      "num": 178307,
-      "word": "明天你的公积金账户将多一笔钱",
-      "onboard_time": 1751279121,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 178012,
@@ -3068,7 +3100,7 @@
     },
     {
       "raw_hot": 162998,
-      "num": 260960,
+      "num": 313481,
       "word": "阿里散装赞助了3支苏超球队",
       "onboard_time": 1751277682,
       "rank": 14,
@@ -3523,6 +3555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147365,
+      "num": 147365,
+      "word": "谷歌杀妻案曝光更多毛骨悚然细节",
+      "onboard_time": 1751279482,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 146748,
       "num": 146748,
       "word": "WTT晒孙颖莎为美国大满贯预热",
@@ -3761,6 +3801,14 @@
       "onboard_time": 1751165001,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137727,
+      "num": 137727,
+      "word": "哪吒2终票房154.4亿",
+      "onboard_time": 1751279904,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 137698,
@@ -4307,6 +4355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123160,
+      "num": 123160,
+      "word": "一诺缺席红狼大战",
+      "onboard_time": 1751278581,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 123113,
       "num": 138695,
       "word": "男子花六万八读海硕学历认证成难题",
@@ -4329,14 +4385,6 @@
       "onboard_time": 1751261901,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 121492,
-      "num": 121492,
-      "word": "网购内裤 退换",
-      "onboard_time": 1751279063,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 121466,
@@ -4473,14 +4521,6 @@
       "onboard_time": 1751179580,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 118894,
-      "num": 118894,
-      "word": "一诺缺席红狼大战",
-      "onboard_time": 1751278581,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 118619,
@@ -4657,6 +4697,14 @@
       "onboard_time": 1751276602,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 113123,
+      "num": 113123,
+      "word": "等待大学录取结果时belike",
+      "onboard_time": 1751279783,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 112945,
@@ -5131,6 +5179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96131,
+      "num": 256158,
+      "word": "作家文章被选为考试题本人却做错",
+      "onboard_time": 1751278882,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95659,
       "num": 95659,
       "word": "吴宣仪新歌难道说",
@@ -5457,6 +5513,14 @@
       "onboard_time": 1751130559,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 72150,
+      "num": 237428,
+      "word": "李一桐诶我不是化学天才吗",
+      "onboard_time": 1751279842,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 69701,
@@ -5891,6 +5955,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 35919,
+      "num": 141530,
+      "word": "远看是柏油路近看是爱情虫",
+      "onboard_time": 1751279184,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35717,
       "num": 98802,
       "word": "黄雅琼毕业九宫格",
@@ -5899,20 +5971,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 35520,
-      "num": 122346,
-      "word": "远看是柏油路近看是爱情虫",
-      "onboard_time": 1751279184,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 35289,
       "num": 56178,
       "word": "2025F1奥地利大奖赛",
       "onboard_time": 1751218457,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35237,
+      "num": 957229,
+      "word": "数读国货如何征服全球味蕾",
+      "onboard_time": 1751277803,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 35130,
@@ -5937,6 +6009,14 @@
       "onboard_time": 1751250681,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 34088,
+      "num": 324773,
+      "word": "充电宝机场存7天过期不取会怎样",
+      "onboard_time": 1751279482,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33304,
@@ -6065,14 +6145,6 @@
       "onboard_time": 1751264543,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28791,
-      "num": 659898,
-      "word": "数读国货如何征服全球味蕾",
-      "onboard_time": 1751277803,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 28503,
@@ -6211,14 +6283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 24205,
-      "num": 256158,
-      "word": "作家文章被选为考试题本人却做错",
-      "onboard_time": 1751278882,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23754,
       "num": 28476,
       "word": "在汪苏泷的罗曼城淋过雨都发财",
@@ -6249,6 +6313,14 @@
       "onboard_time": 1751233575,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22604,
+      "num": 186606,
+      "word": "榕江3天下了553个大明湖",
+      "onboard_time": 1751280142,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21806,
