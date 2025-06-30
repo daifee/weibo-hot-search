@@ -1,0 +1,410 @@
+{
+  "runTime": 1751261364131,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1729503,
+        "num": 1729503,
+        "word": "韩国首尔爱情虫爆发",
+        "onboard_time": 1751258302,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1151489,
+        "num": 1151489,
+        "word": "邓超晒与鹿晗陈赫合照",
+        "onboard_time": 1751253801,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26620,
+        "num": 1052478,
+        "word": "暴雨台风应对参考手册",
+        "onboard_time": 1751258183,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 991872,
+        "num": 991872,
+        "word": "原来新鲜的荔枝是这样的",
+        "onboard_time": 1751255361,
+        "rank": 3,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 852405,
+        "num": 852405,
+        "word": "哪吒2下映",
+        "onboard_time": 1751250081,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 747624,
+        "num": 747624,
+        "word": "收到不雅照转过去15万才想起没拍过",
+        "onboard_time": 1751259682,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 614750,
+        "num": 614750,
+        "word": "招聘单位回应考生确系虐猫当事人",
+        "onboard_time": 1751254701,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 456175,
+        "num": 456175,
+        "word": "iPhone 检查虫子",
+        "onboard_time": 1751253501,
+        "rank": 7,
+        "category": "数码,民生新闻"
+      },
+      {
+        "raw_hot": 407138,
+        "num": 407138,
+        "word": "于正回应和肖战合作",
+        "onboard_time": 1751257522,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370329,
+        "num": 370329,
+        "word": "中国共产党党员总数为10027.1万名",
+        "onboard_time": 1751252182,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 611753,
+        "num": 361932,
+        "word": "本升专",
+        "onboard_time": 1751260941,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 351833,
+        "num": 351833,
+        "word": "酒店光脚洗澡 跖疣病毒",
+        "onboard_time": 1751255841,
+        "rank": 11,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 327354,
+        "num": 327354,
+        "word": "客服回应婴儿展馆内喝奶被赶出",
+        "onboard_time": 1751256141,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301056,
+        "num": 301056,
+        "word": "杨幂秦海璐VOGUEfilm短片",
+        "onboard_time": 1751258783,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 292722,
+        "num": 292722,
+        "word": "哪吒敖丙挥手告别",
+        "onboard_time": 1751259682,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 288156,
+        "num": 288156,
+        "word": "黄子韬分享陪徐艺洋试婚纱",
+        "onboard_time": 1751252540,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264376,
+        "num": 264376,
+        "word": "真的建议床单被套一周换洗一次",
+        "onboard_time": 1751248821,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 255281,
+        "num": 255281,
+        "word": "周洁琼表白颜安",
+        "onboard_time": 1751257944,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251479,
+        "num": 251479,
+        "word": "易烊千玺中国电影导演协会提名",
+        "onboard_time": 1751259082,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 24155,
+        "num": 247178,
+        "word": "马斯克再发文批评大而美法案",
+        "onboard_time": 1751260941,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 268126,
+        "num": 246749,
+        "word": "重庆一区委书记带头下馆子",
+        "onboard_time": 1751247800,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243455,
+        "num": 243455,
+        "word": "李嘉格妈妈是上嫁的牺牲者",
+        "onboard_time": 1751260821,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219319,
+        "num": 219319,
+        "word": "金价",
+        "onboard_time": 1751248641,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 218079,
+        "num": 218079,
+        "word": "双休和单休真的是两种人生",
+        "onboard_time": 1751259143,
+        "rank": 23,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 213058,
+        "num": 213058,
+        "word": "六月初六遇上上半年最后一天",
+        "onboard_time": 1751244320,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203848,
+        "num": 203848,
+        "word": "恋与制作人喜羊羊",
+        "onboard_time": 1751260762,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 202597,
+        "num": 202597,
+        "word": "张一山李沁新剧开播",
+        "onboard_time": 1751254761,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135498,
+        "num": 202536,
+        "word": "8090后手里的大风车从未停止转动",
+        "onboard_time": 1751255601,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202512,
+        "num": 202512,
+        "word": "高会",
+        "onboard_time": 1751260641,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136402,
+        "num": 198719,
+        "word": "丁禹兮让本牛马无比叹服",
+        "onboard_time": 1751260941,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192616,
+        "num": 195919,
+        "word": "王源巡演应到三万实到千万",
+        "onboard_time": 1751260581,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195615,
+        "num": 195615,
+        "word": "王楚钦领衔美国大满贯宣传片",
+        "onboard_time": 1751260821,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194966,
+        "num": 194966,
+        "word": "5岁女童泡温泉后被确诊感染食脑虫",
+        "onboard_time": 1751249180,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182093,
+        "num": 182093,
+        "word": "不运动2个月瘦30斤的方法",
+        "onboard_time": 1751259862,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 74338,
+        "num": 177698,
+        "word": "看似普通其实致癌的习惯",
+        "onboard_time": 1751255543,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 174581,
+        "num": 174581,
+        "word": "恋与制作人",
+        "onboard_time": 1751260882,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 94985,
+        "num": 174153,
+        "word": "金价再度下跌",
+        "onboard_time": 1751257463,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 173800,
+        "num": 173800,
+        "word": "林俊杰回复马龙",
+        "onboard_time": 1751249422,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 40323,
+        "num": 165011,
+        "word": "苏超水平这么高了",
+        "onboard_time": 1751261181,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66141,
+        "num": 162378,
+        "word": "伊朗要求认定以美为侵略方",
+        "onboard_time": 1751247140,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 162252,
+        "num": 162252,
+        "word": "权志龙香港",
+        "onboard_time": 1751258243,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144901,
+        "num": 144901,
+        "word": "汪苏泷深圳",
+        "onboard_time": 1751260282,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140702,
+        "num": 140702,
+        "word": "10月龄婴儿在展馆内喝奶瓶被赶出",
+        "onboard_time": 1751214200,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137893,
+        "num": 137893,
+        "word": "鹿晗演唱会后台合照",
+        "onboard_time": 1751260762,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132836,
+        "num": 132836,
+        "word": "张小斐灰色系大女主",
+        "onboard_time": 1751260042,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132381,
+        "num": 132381,
+        "word": "切除子宫326天的生活变化",
+        "onboard_time": 1751261181,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118059,
+        "num": 118059,
+        "word": "刘国梁女儿斩获重要冠军",
+        "onboard_time": 1751249422,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116996,
+        "num": 116996,
+        "word": "刘晓庆晒照辟谣",
+        "onboard_time": 1751257222,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115443,
+        "num": 115443,
+        "word": "二旬老人躺床上看八旬小美女玩双杠",
+        "onboard_time": 1751256801,
+        "rank": 48,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 114172,
+        "num": 114172,
+        "word": "桃花映江山土狗天菜",
+        "onboard_time": 1751261300,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记足迹瞰老区新貌#"
+    }
+  }
+}

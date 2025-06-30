@@ -1,6 +1,6 @@
 {
   "startTime": 1751214634143,
-  "endTime": 1751259244458,
+  "endTime": 1751261364131,
   "band_list": [
     {
       "raw_hot": 2461024,
@@ -9,6 +9,14 @@
       "onboard_time": 1751253801,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1729503,
+      "num": 1729503,
+      "word": "韩国首尔爱情虫爆发",
+      "onboard_time": 1751258302,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1630265,
@@ -107,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 747624,
+      "num": 747624,
+      "word": "收到不雅照转过去15万才想起没拍过",
+      "onboard_time": 1751259682,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 733026,
       "num": 733026,
       "word": "中国共产党党员总数为10027.1万名",
@@ -115,20 +131,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 687300,
-      "num": 418877,
-      "word": "韩国首尔爱情虫爆发",
-      "onboard_time": 1751258302,
-      "rank": 34,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 632665,
       "num": 528439,
       "word": "TFBOYS十年保密协议到期",
       "onboard_time": 1751201722,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 611753,
+      "num": 361932,
+      "word": "本升专",
+      "onboard_time": 1751260941,
+      "rank": 10,
+      "category": "教育"
     },
     {
       "raw_hot": 596698,
@@ -347,6 +363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 301056,
+      "num": 302389,
+      "word": "杨幂秦海璐VOGUEfilm短片",
+      "onboard_time": 1751258783,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 297743,
       "num": 297743,
       "word": "120万充电宝召回卡在快递环节",
@@ -377,6 +401,14 @@
       "onboard_time": 1751257944,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 292722,
+      "num": 292722,
+      "word": "哪吒敖丙挥手告别",
+      "onboard_time": 1751259682,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 292084,
@@ -459,12 +491,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 251479,
+      "num": 251479,
+      "word": "易烊千玺中国电影导演协会提名",
+      "onboard_time": 1751259082,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 246474,
       "num": 184731,
       "word": "周深向贵州榕江灾区捐赠物资",
       "onboard_time": 1751206524,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 243455,
+      "num": 243455,
+      "word": "李嘉格妈妈是上嫁的牺牲者",
+      "onboard_time": 1751260821,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 240880,
@@ -499,20 +547,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218079,
+      "num": 218079,
+      "word": "双休和单休真的是两种人生",
+      "onboard_time": 1751259143,
+      "rank": 43,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 215945,
       "num": 215945,
       "word": "飞天茅台再度全线下跌",
       "onboard_time": 1751253501,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 212051,
-      "num": 302389,
-      "word": "杨幂秦海璐VOGUEfilm短片",
-      "onboard_time": 1751258783,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 210633,
@@ -531,6 +579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203848,
+      "num": 203848,
+      "word": "恋与制作人喜羊羊",
+      "onboard_time": 1751260762,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 203480,
       "num": 223658,
       "word": "刘晓庆晒照辟谣",
@@ -539,12 +595,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202512,
+      "num": 202512,
+      "word": "高会",
+      "onboard_time": 1751260641,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 202197,
       "num": 202197,
       "word": "权志龙香港",
       "onboard_time": 1751258243,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195615,
+      "num": 195615,
+      "word": "王楚钦领衔美国大满贯宣传片",
+      "onboard_time": 1751260821,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 195593,
@@ -569,6 +641,14 @@
       "onboard_time": 1751254642,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192616,
+      "num": 195919,
+      "word": "王源巡演应到三万实到千万",
+      "onboard_time": 1751260581,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 191006,
@@ -643,6 +723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182093,
+      "num": 182093,
+      "word": "不运动2个月瘦30斤的方法",
+      "onboard_time": 1751259862,
+      "rank": 33,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 179916,
       "num": 179916,
       "word": "MSI",
@@ -673,6 +761,14 @@
       "onboard_time": 1751249180,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 174581,
+      "num": 174581,
+      "word": "恋与制作人",
+      "onboard_time": 1751260882,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 172847,
@@ -739,6 +835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144901,
+      "num": 144901,
+      "word": "汪苏泷深圳",
+      "onboard_time": 1751260282,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 144833,
       "num": 144833,
       "word": "巴黎圣日耳曼4比0迈阿密国际",
@@ -764,7 +868,7 @@
     },
     {
       "raw_hot": 141187,
-      "num": 141187,
+      "num": 177698,
       "word": "看似普通其实致癌的习惯",
       "onboard_time": 1751255543,
       "rank": 46,
@@ -787,12 +891,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137608,
-      "num": 137608,
-      "word": "易烊千玺中国电影导演协会提名",
-      "onboard_time": 1751259082,
-      "rank": 42,
-      "category": "电影"
+      "raw_hot": 137893,
+      "num": 137893,
+      "word": "鹿晗演唱会后台合照",
+      "onboard_time": 1751260762,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 136794,
@@ -801,6 +905,22 @@
       "onboard_time": 1751255421,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136402,
+      "num": 198719,
+      "word": "丁禹兮让本牛马无比叹服",
+      "onboard_time": 1751260941,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 135498,
+      "num": 394407,
+      "word": "8090后手里的大风车从未停止转动",
+      "onboard_time": 1751255601,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134133,
@@ -819,12 +939,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 132634,
-      "num": 394407,
-      "word": "8090后手里的大风车从未停止转动",
-      "onboard_time": 1751255601,
-      "rank": 23,
-      "category": "民生新闻"
+      "raw_hot": 132836,
+      "num": 132836,
+      "word": "张小斐灰色系大女主",
+      "onboard_time": 1751260042,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 132381,
+      "num": 132381,
+      "word": "切除子宫326天的生活变化",
+      "onboard_time": 1751261181,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 132313,
@@ -849,14 +977,6 @@
       "onboard_time": 1751249180,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 127891,
-      "num": 127891,
-      "word": "双休和单休真的是两种人生",
-      "onboard_time": 1751259143,
-      "rank": 43,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 127283,
@@ -971,6 +1091,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 114172,
+      "num": 114172,
+      "word": "桃花映江山土狗天菜",
+      "onboard_time": 1751261300,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111839,
       "num": 111839,
       "word": "蔡澜晚年酒店套房生活",
@@ -1036,7 +1164,7 @@
     },
     {
       "raw_hot": 104614,
-      "num": 126053,
+      "num": 162378,
       "word": "伊朗要求认定以美为侵略方",
       "onboard_time": 1751247140,
       "rank": 38,
@@ -1379,6 +1507,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 40323,
+      "num": 165011,
+      "word": "苏超水平这么高了",
+      "onboard_time": 1751261181,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 39788,
       "num": 60345,
       "word": "时代峰峻APP崩了",
@@ -1467,6 +1603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26620,
+      "num": 1231230,
+      "word": "暴雨台风应对参考手册",
+      "onboard_time": 1751258183,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26049,
       "num": 26049,
       "word": "疑似学疯了的医学生的学医建议",
@@ -1489,6 +1633,14 @@
       "onboard_time": 1751227514,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24155,
+      "num": 247178,
+      "word": "马斯克再发文批评大而美法案",
+      "onboard_time": 1751260941,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 23432,
@@ -1521,14 +1673,6 @@
       "onboard_time": 1751222535,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 20101,
-      "num": 1231230,
-      "word": "暴雨台风应对参考手册",
-      "onboard_time": 1751258183,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17032,

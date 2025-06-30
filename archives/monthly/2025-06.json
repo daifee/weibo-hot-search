@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1751259244458,
+  "endTime": 1751261364131,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -1689,6 +1689,14 @@
       "onboard_time": 1750751000,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1729503,
+      "num": 1729503,
+      "word": "韩国首尔爱情虫爆发",
+      "onboard_time": 1751258302,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1729254,
@@ -8179,6 +8187,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 747624,
+      "num": 747624,
+      "word": "收到不雅照转过去15万才想起没拍过",
+      "onboard_time": 1751259682,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 747457,
       "num": 391222,
       "word": "那尔那茜妈妈",
@@ -9480,14 +9496,6 @@
       "word": "日本稻田里的小龙虾被烫熟了",
       "onboard_time": 1750385482,
       "rank": 30,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 687300,
-      "num": 418877,
-      "word": "韩国首尔爱情虫爆发",
-      "onboard_time": 1751258302,
-      "rank": 34,
       "category": "海外新闻"
     },
     {
@@ -11249,6 +11257,14 @@
       "onboard_time": 1749627201,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 611753,
+      "num": 361932,
+      "word": "本升专",
+      "onboard_time": 1751260941,
+      "rank": 10,
+      "category": "教育"
     },
     {
       "raw_hot": 611633,
@@ -25315,6 +25331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 301056,
+      "num": 302389,
+      "word": "杨幂秦海璐VOGUEfilm短片",
+      "onboard_time": 1751258783,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 301030,
       "num": 301030,
       "word": "吴宣仪包上恩双A跳LikeJennie",
@@ -26137,6 +26161,14 @@
       "onboard_time": 1749166100,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 292722,
+      "num": 292722,
+      "word": "哪吒敖丙挥手告别",
+      "onboard_time": 1751259682,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 292155,
@@ -30395,6 +30427,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 251479,
+      "num": 251479,
+      "word": "易烊千玺中国电影导演协会提名",
+      "onboard_time": 1751259082,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 251397,
       "num": 185332,
       "word": "杨蒙恩刘培钰婚礼",
@@ -31249,6 +31289,14 @@
       "onboard_time": 1751171603,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 243455,
+      "num": 243455,
+      "word": "李嘉格妈妈是上嫁的牺牲者",
+      "onboard_time": 1751260821,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 243447,
@@ -35195,6 +35243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 218079,
+      "num": 218079,
+      "word": "双休和单休真的是两种人生",
+      "onboard_time": 1751259143,
+      "rank": 43,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 217898,
       "num": 217898,
       "word": "妈妈岗",
@@ -36329,14 +36385,6 @@
       "onboard_time": 1749188062,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 212051,
-      "num": 302389,
-      "word": "杨幂秦海璐VOGUEfilm短片",
-      "onboard_time": 1751258783,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 211998,
@@ -38459,6 +38507,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 203848,
+      "num": 203848,
+      "word": "恋与制作人喜羊羊",
+      "onboard_time": 1751260762,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 203842,
       "num": 203842,
       "word": "男子2000元卖掉前女友30只布偶猫",
@@ -38961,6 +39017,14 @@
       "onboard_time": 1749079217,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 202512,
+      "num": 202512,
+      "word": "高会",
+      "onboard_time": 1751260641,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 202506,
@@ -41523,6 +41587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195615,
+      "num": 195615,
+      "word": "王楚钦领衔美国大满贯宣传片",
+      "onboard_time": 1751260821,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195604,
       "num": 195604,
       "word": "奔跑吧收官直播",
@@ -42520,6 +42592,14 @@
       "word": "李秀满女团A2OMAY国内首秀在央视",
       "onboard_time": 1750861704,
       "rank": 26,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 192616,
+      "num": 195919,
+      "word": "王源巡演应到三万实到千万",
+      "onboard_time": 1751260581,
+      "rank": 30,
       "category": "演出"
     },
     {
@@ -46393,6 +46473,14 @@
       "onboard_time": 1751083223,
       "rank": 36,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 182093,
+      "num": 182093,
+      "word": "不运动2个月瘦30斤的方法",
+      "onboard_time": 1751259862,
+      "rank": 33,
+      "category": "运动健身"
     },
     {
       "raw_hot": 181991,
@@ -60611,6 +60699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144901,
+      "num": 144901,
+      "word": "汪苏泷深圳",
+      "onboard_time": 1751260282,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 144869,
       "num": 144869,
       "word": "绝意马可波罗showtime",
@@ -62468,7 +62564,7 @@
     },
     {
       "raw_hot": 141187,
-      "num": 141187,
+      "num": 177698,
       "word": "看似普通其实致癌的习惯",
       "onboard_time": 1751255543,
       "rank": 46,
@@ -63915,6 +64011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137893,
+      "num": 137893,
+      "word": "鹿晗演唱会后台合照",
+      "onboard_time": 1751260762,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 137868,
       "num": 137868,
       "word": "Capper19岁就喊话了盛宇",
@@ -64033,14 +64137,6 @@
       "onboard_time": 1750736843,
       "rank": 47,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 137608,
-      "num": 137608,
-      "word": "易烊千玺中国电影导演协会提名",
-      "onboard_time": 1751259082,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 137605,
@@ -64611,6 +64707,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 136402,
+      "num": 198719,
+      "word": "丁禹兮让本牛马无比叹服",
+      "onboard_time": 1751260941,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136382,
       "num": 136382,
       "word": "张杰未live巡回演唱会",
@@ -65049,6 +65153,14 @@
       "onboard_time": 1749453741,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135498,
+      "num": 394407,
+      "word": "8090后手里的大风车从未停止转动",
+      "onboard_time": 1751255601,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135493,
@@ -66291,6 +66403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 132836,
+      "num": 132836,
+      "word": "张小斐灰色系大女主",
+      "onboard_time": 1751260042,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132834,
       "num": 132834,
       "word": "驾车在赛里木湖毁草漂移涉嫌违法",
@@ -66483,14 +66603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 132634,
-      "num": 394407,
-      "word": "8090后手里的大风车从未停止转动",
-      "onboard_time": 1751255601,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 132593,
       "num": 132593,
       "word": "蔡徐坤新歌",
@@ -66617,6 +66729,14 @@
       "onboard_time": 1750202178,
       "rank": 24,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 132381,
+      "num": 132381,
+      "word": "切除子宫326天的生活变化",
+      "onboard_time": 1751261181,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 132371,
@@ -69049,14 +69169,6 @@
       "onboard_time": 1750558101,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 127891,
-      "num": 127891,
-      "word": "双休和单休真的是两种人生",
-      "onboard_time": 1751259143,
-      "rank": 43,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 127873,
@@ -75363,6 +75475,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 114172,
+      "num": 114172,
+      "word": "桃花映江山土狗天菜",
+      "onboard_time": 1751261300,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114170,
       "num": 114170,
       "word": "高芙晋级法网八强",
@@ -79324,7 +79444,7 @@
     },
     {
       "raw_hot": 104614,
-      "num": 126053,
+      "num": 162378,
       "word": "伊朗要求认定以美为侵略方",
       "onboard_time": 1751247140,
       "rank": 38,
@@ -97003,6 +97123,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 40323,
+      "num": 165011,
+      "word": "苏超水平这么高了",
+      "onboard_time": 1751261181,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 40320,
       "num": 416978,
       "word": "天津机场航站楼车祸1名司机受伤",
@@ -102179,6 +102307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26620,
+      "num": 1231230,
+      "word": "暴雨台风应对参考手册",
+      "onboard_time": 1751258183,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26560,
       "num": 295690,
       "word": "长期压力大会增加过敏反应吗",
@@ -103121,6 +103257,14 @@
       "onboard_time": 1749706281,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 24155,
+      "num": 247178,
+      "word": "马斯克再发文批评大而美法案",
+      "onboard_time": 1751260941,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 24125,
@@ -104825,14 +104969,6 @@
       "onboard_time": 1751030304,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 20101,
-      "num": 1231230,
-      "word": "暴雨台风应对参考手册",
-      "onboard_time": 1751258183,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20066,
