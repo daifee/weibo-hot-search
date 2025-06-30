@@ -1,7 +1,15 @@
 {
   "startTime": 1751214634143,
-  "endTime": 1751273424651,
+  "endTime": 1751275855111,
   "band_list": [
+    {
+      "raw_hot": 3137017,
+      "num": 287031,
+      "word": "鹿晗屏保",
+      "onboard_time": 1751273602,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2461024,
       "num": 2461024,
@@ -65,6 +73,14 @@
       "onboard_time": 1751267422,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1470010,
+      "num": 280313,
+      "word": "TFBOYS前缀",
+      "onboard_time": 1751275222,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1435893,
@@ -171,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 820551,
+      "num": 647255,
+      "word": "特朗普承认美国对中国做过很多事",
+      "onboard_time": 1751274081,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 810431,
       "num": 810431,
       "word": "二手烟 霸凌",
@@ -217,6 +241,14 @@
       "onboard_time": 1751269042,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 639692,
+      "num": 639692,
+      "word": "已婚和未婚看演唱会的区别",
+      "onboard_time": 1751270783,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 632665,
@@ -315,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 483809,
+      "num": 483809,
+      "word": "哪吒2告别",
+      "onboard_time": 1751274800,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 478208,
       "num": 443865,
       "word": "柴六斤",
@@ -353,14 +393,6 @@
       "onboard_time": 1751259143,
       "rank": 43,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 456525,
-      "num": 456525,
-      "word": "已婚和未婚看演唱会的区别",
-      "onboard_time": 1751270783,
-      "rank": 17,
-      "category": "幽默"
     },
     {
       "raw_hot": 427949,
@@ -531,6 +563,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 306655,
+      "num": 255172,
+      "word": "中方回应是否会邀特朗普参加阅兵",
+      "onboard_time": 1751273542,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 301056,
       "num": 302389,
       "word": "杨幂秦海璐VOGUEfilm短片",
@@ -593,6 +633,14 @@
       "onboard_time": 1751249422,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 276735,
+      "num": 254526,
+      "word": "公积金结息能领几千元",
+      "onboard_time": 1751274681,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 276372,
@@ -667,6 +715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 256858,
+      "num": 291358,
+      "word": "男子疑逼泰国女模吸毒致死",
+      "onboard_time": 1751273362,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 256045,
       "num": 256045,
       "word": "爷爷跑遍3条街给我买了8块钱的labubu",
@@ -681,6 +737,14 @@
       "onboard_time": 1751244920,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 254498,
+      "num": 254498,
+      "word": "田曦薇 天才女友",
+      "onboard_time": 1751274622,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 251479,
@@ -763,6 +827,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 225188,
+      "num": 225188,
+      "word": "时代少年团大连不选座",
+      "onboard_time": 1751274322,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 221802,
       "num": 221802,
       "word": "周一告白周二结婚周三生孩子",
@@ -787,6 +859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216654,
+      "num": 216654,
+      "word": "张杰喜欢演员谢娜",
+      "onboard_time": 1751274022,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 215945,
       "num": 215945,
       "word": "飞天茅台再度全线下跌",
@@ -796,7 +876,7 @@
     },
     {
       "raw_hot": 213201,
-      "num": 213201,
+      "num": 257116,
       "word": "李胜利近照",
       "onboard_time": 1751271442,
       "rank": 28,
@@ -816,6 +896,14 @@
       "word": "环球时报专访藏海传总导演郑晓龙",
       "onboard_time": 1751254161,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 204450,
+      "num": 204450,
+      "word": "锦绣芳华今日开播",
+      "onboard_time": 1751274800,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -1059,6 +1147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178771,
+      "num": 178771,
+      "word": "内娱F4",
+      "onboard_time": 1751272641,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177785,
       "num": 177785,
       "word": "建议大家不要放弃记录自己",
@@ -1073,6 +1169,14 @@
       "onboard_time": 1751260882,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 174095,
+      "num": 174095,
+      "word": "爱情虫",
+      "onboard_time": 1751275582,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 172847,
@@ -1131,20 +1235,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 165173,
-      "num": 165173,
-      "word": "内娱F4",
-      "onboard_time": 1751272641,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 165054,
       "num": 165054,
       "word": "泰国为吸引中国游客再出新策",
       "onboard_time": 1751262620,
       "rank": 31,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 164691,
+      "num": 164691,
+      "word": "特朗普说这是个肮脏的世界",
+      "onboard_time": 1751275341,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 164276,
@@ -1203,12 +1307,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159513,
+      "num": 159513,
+      "word": "何惟芳二次开局更爽了",
+      "onboard_time": 1751274742,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157177,
       "num": 157177,
       "word": "韩安冉女儿虫卵过敏",
       "onboard_time": 1751266163,
       "rank": 42,
       "category": "网红"
+    },
+    {
+      "raw_hot": 155847,
+      "num": 155847,
+      "word": "女骑手摔倒瞬间锁死马背起身冲刺",
+      "onboard_time": 1751274800,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155670,
+      "num": 155670,
+      "word": "上海动物园建议带娃游客喂完奶再进",
+      "onboard_time": 1751270544,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153972,
@@ -1531,6 +1659,14 @@
       "category": "情感,民生新闻"
     },
     {
+      "raw_hot": 124245,
+      "num": 124245,
+      "word": "第一次见把自己搓成labubu的",
+      "onboard_time": 1751275222,
+      "rank": 42,
+      "category": "休闲,动漫"
+    },
+    {
       "raw_hot": 124034,
       "num": 130110,
       "word": "何小鹏晒单YU7雷军期待G7",
@@ -1563,14 +1699,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 121719,
-      "num": 121719,
-      "word": "上海动物园建议带娃游客喂完奶再进",
-      "onboard_time": 1751270544,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 121426,
       "num": 121426,
       "word": "李嘉格说自己没有办法再去哄妈妈了",
@@ -1601,6 +1729,14 @@
       "onboard_time": 1751255122,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119777,
+      "num": 276478,
+      "word": "江西老表心系灾区千里支援贵州榕江",
+      "onboard_time": 1751273122,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118619,
@@ -1641,6 +1777,14 @@
       "onboard_time": 1751198602,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116805,
+      "num": 116805,
+      "word": "原来我理想的生活只需要4721元",
+      "onboard_time": 1751275823,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 116747,
@@ -1691,20 +1835,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111734,
+      "num": 116689,
+      "word": "5000多年前山东大汉身高1米9",
+      "onboard_time": 1751275644,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110702,
       "num": 110702,
       "word": "刘宇宁总能给人焕新感",
       "onboard_time": 1751254343,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 110375,
-      "num": 110375,
-      "word": "男子疑逼泰国女模吸毒致死",
-      "onboard_time": 1751273362,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 109525,
@@ -1819,14 +1963,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 99446,
-      "num": 276478,
-      "word": "江西老表心系灾区千里支援贵州榕江",
-      "onboard_time": 1751273122,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 99067,
       "num": 99067,
       "word": "利剑玫瑰 上星央8",
@@ -1873,6 +2009,14 @@
       "onboard_time": 1751272102,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 92405,
+      "num": 256715,
+      "word": "学生食宿没解决却花1亿充门面",
+      "onboard_time": 1751275281,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90642,
@@ -1985,6 +2129,14 @@
       "onboard_time": 1751212342,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 75195,
+      "num": 266443,
+      "word": "新房挖出尸骨物业称房子无质量问题",
+      "onboard_time": 1751274141,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74339,
@@ -2363,6 +2515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 25875,
+      "num": 257418,
+      "word": "藏在Dior工艺里的秘密",
+      "onboard_time": 1751274262,
+      "rank": 17,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 25731,
       "num": 96484,
       "word": "泰国推出安全旅行印章",
@@ -2433,6 +2593,14 @@
       "onboard_time": 1751262082,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18065,
+      "num": 116656,
+      "word": "恋与深空陪伴模式更新",
+      "onboard_time": 1751274562,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 17032,
