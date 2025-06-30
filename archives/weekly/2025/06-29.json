@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751309453667,
+  "endTime": 1751311273055,
   "band_list": [
     {
       "raw_hot": 3569605,
@@ -5220,7 +5220,7 @@
     },
     {
       "raw_hot": 120311,
-      "num": 72521,
+      "num": 112473,
       "word": "晚晚直播卖卷发棒翻车",
       "onboard_time": 1751304617,
       "rank": 37,
@@ -7483,6 +7483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24686,
+      "num": 26946,
+      "word": "钟青导演投喂鞠婧祎剧组",
+      "onboard_time": 1751310075,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 24253,
       "num": 254086,
       "word": "查户籍档案发现母亲被登记成婶婶",
@@ -7579,6 +7587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 21567,
+      "num": 26869,
+      "word": "电影恶意",
+      "onboard_time": 1751310254,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 20238,
       "num": 31052,
       "word": "特朗普说早知这么危险就不参选总统",
@@ -7601,6 +7617,14 @@
       "onboard_time": 1751262082,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19279,
+      "num": 24811,
+      "word": "枭起青壤预约量破200万",
+      "onboard_time": 1751310674,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 19188,
@@ -7633,6 +7657,14 @@
       "onboard_time": 1751307196,
       "rank": 36,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 18097,
+      "num": 19705,
+      "word": "黄子弘凡这条plog含金量好高",
+      "onboard_time": 1751310314,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 18065,
@@ -7689,6 +7721,14 @@
       "onboard_time": 1751176884,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 16014,
+      "num": 19703,
+      "word": "汪苏泷欢迎罗曼城公主回家",
+      "onboard_time": 1751309715,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 15961,
@@ -7851,8 +7891,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 8605,
-      "num": 112591,
+      "raw_hot": 9283,
+      "num": 116714,
       "word": "中国科技创新主打一个脑洞大开",
       "onboard_time": 1751294844,
       "rank": 2,
