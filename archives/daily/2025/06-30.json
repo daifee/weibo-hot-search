@@ -1,6 +1,6 @@
 {
   "startTime": 1751214634143,
-  "endTime": 1751291476034,
+  "endTime": 1751293616051,
   "band_list": [
     {
       "raw_hot": 3137017,
@@ -187,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 997299,
+      "num": 997299,
+      "word": "锦绣芳华打破了国色芳华纪录",
+      "onboard_time": 1751288303,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 944356,
       "num": 525709,
       "word": "10月龄婴儿在展馆内喝奶瓶被赶出",
@@ -225,14 +233,6 @@
       "onboard_time": 1751264543,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 862371,
-      "num": 862371,
-      "word": "锦绣芳华打破了国色芳华纪录",
-      "onboard_time": 1751288303,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 820551,
@@ -299,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 711863,
+      "num": 711863,
+      "word": "幼儿园招老师工资分级最高不超3千",
+      "onboard_time": 1751287283,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 650592,
       "num": 507585,
       "word": "韩安冉曝小猪妹被饿一整天",
@@ -320,6 +328,14 @@
       "word": "TFBOYS十年保密协议到期",
       "onboard_time": 1751201722,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 604176,
+      "num": 604176,
+      "word": "胡彦斌 可3C规则是什么呢",
+      "onboard_time": 1751291783,
+      "rank": 4,
       "category": "艺人"
     },
     {
@@ -347,20 +363,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 592608,
+      "num": 534120,
+      "word": "警方回应网传男子带12岁女孩开房",
+      "onboard_time": 1751289384,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 563150,
       "num": 563150,
       "word": "让小腿越来越粗的3种鞋",
       "onboard_time": 1751203223,
       "rank": 1,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 562032,
-      "num": 562032,
-      "word": "幼儿园招老师工资分级最高不超3千",
-      "onboard_time": 1751287283,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 549320,
@@ -371,20 +387,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 548003,
+      "num": 548003,
+      "word": "宋茜Amber王嘉尔段宜恩合照",
+      "onboard_time": 1751291904,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 543477,
       "num": 543477,
       "word": "锦绣芳华开局14广",
       "onboard_time": 1751279184,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 542588,
-      "num": 534120,
-      "word": "警方回应网传男子带12岁女孩开房",
-      "onboard_time": 1751289384,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 540929,
@@ -603,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 411056,
+      "num": 492906,
+      "word": "多地解禁中华田园犬",
+      "onboard_time": 1751287702,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 403578,
       "num": 403578,
       "word": "多家车企愿为YU7退订用户补定金",
@@ -625,6 +649,14 @@
       "onboard_time": 1751284642,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 389246,
+      "num": 389246,
+      "word": "锦绣芳华热度",
+      "onboard_time": 1751291663,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 385671,
@@ -657,6 +689,14 @@
       "onboard_time": 1751244320,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 359627,
+      "num": 359627,
+      "word": "食脑虫",
+      "onboard_time": 1751288963,
+      "rank": 25,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 354451,
@@ -715,6 +755,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 324771,
+      "num": 324771,
+      "word": "香港回归祖国28年",
+      "onboard_time": 1751290763,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 322523,
       "num": 299762,
       "word": "杨幂挂了labubu",
@@ -771,20 +819,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 306540,
-      "num": 492906,
-      "word": "多地解禁中华田园犬",
-      "onboard_time": 1751287702,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 301056,
       "num": 302389,
       "word": "杨幂秦海璐VOGUEfilm短片",
       "onboard_time": 1751258783,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 297886,
+      "num": 297886,
+      "word": "胡一天673天没进组了",
+      "onboard_time": 1751293404,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 297743,
@@ -971,6 +1019,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 251200,
+      "num": 251200,
+      "word": "00后利用办公室午休赚70元的一天",
+      "onboard_time": 1751290943,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 250446,
       "num": 250446,
       "word": "陈哲远高跟鞋",
@@ -993,14 +1049,6 @@
       "onboard_time": 1751206524,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 244517,
-      "num": 244517,
-      "word": "食脑虫",
-      "onboard_time": 1751288963,
-      "rank": 25,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 242623,
@@ -1121,14 +1169,6 @@
       "onboard_time": 1751253501,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 214543,
-      "num": 214543,
-      "word": "00后利用办公室午休赚70元的一天",
-      "onboard_time": 1751290943,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 213731,
@@ -1339,6 +1379,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 189377,
+      "num": 189377,
+      "word": "1997年7月1日0时0分0秒",
+      "onboard_time": 1751293042,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 188940,
       "num": 403926,
       "word": "金灿荣对谈郭炜炜",
@@ -1484,7 +1532,7 @@
     },
     {
       "raw_hot": 182013,
-      "num": 188634,
+      "num": 216473,
       "word": "解限机外网好评如潮",
       "onboard_time": 1751287403,
       "rank": 39,
@@ -1771,6 +1819,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 156641,
+      "num": 156641,
+      "word": "李现演爽了我也看爽了",
+      "onboard_time": 1751293464,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156409,
       "num": 156409,
       "word": "哪吒2终票房154.4亿",
@@ -1801,6 +1857,14 @@
       "onboard_time": 1751287283,
       "rank": 31,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 154574,
+      "num": 155988,
+      "word": "吞噬星空域外战场篇开播",
+      "onboard_time": 1751291723,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 153972,
@@ -1851,6 +1915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148995,
+      "num": 148995,
+      "word": "迪丽热巴陈星旭双人花絮",
+      "onboard_time": 1751293524,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148838,
       "num": 148838,
       "word": "怎么看出来一个人是否善良",
@@ -1859,12 +1931,12 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 148043,
-      "num": 148043,
-      "word": "香港回归祖国28年",
-      "onboard_time": 1751290763,
-      "rank": 44,
-      "category": "国内时政"
+      "raw_hot": 148825,
+      "num": 148825,
+      "word": "以法之名尺度",
+      "onboard_time": 1751290223,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 147593,
@@ -1995,14 +2067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 141468,
-      "num": 141468,
-      "word": "以法之名尺度",
-      "onboard_time": 1751290223,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 141396,
       "num": 141396,
       "word": "何小鹏也下单了YU7",
@@ -2027,6 +2091,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 140236,
+      "num": 140236,
+      "word": "难哄上半年第一",
+      "onboard_time": 1751292204,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140103,
       "num": 140103,
       "word": "赵一博连续直播3天",
@@ -2041,6 +2113,14 @@
       "onboard_time": 1751285242,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139830,
+      "num": 139830,
+      "word": "这张桌子坐了五个视后视帝",
+      "onboard_time": 1751292743,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 139524,
@@ -2827,6 +2907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86417,
+      "num": 295398,
+      "word": "抗战胜利80周年",
+      "onboard_time": 1751293343,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 85095,
       "num": 85095,
       "word": "詹嫂希望詹姆斯明年退役",
@@ -2908,7 +2996,7 @@
     },
     {
       "raw_hot": 76248,
-      "num": 190441,
+      "num": 325737,
       "word": "解限机的文化逆袭战",
       "onboard_time": 1751290104,
       "rank": 47,
@@ -3001,6 +3089,14 @@
       "onboard_time": 1751260941,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 66867,
+      "num": 321315,
+      "word": "一个国际关系学者眼中的解限机",
+      "onboard_time": 1751292502,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 66739,
@@ -3105,6 +3201,14 @@
       "onboard_time": 1751262321,
       "rank": 44,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 54678,
+      "num": 363649,
+      "word": "近百张日本关东军罪行照片首次公开",
+      "onboard_time": 1751292082,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54222,
@@ -3323,6 +3427,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 30698,
+      "num": 811548,
+      "word": "大国重器再交亮眼成绩单",
+      "onboard_time": 1751277023,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 30154,
       "num": 30154,
       "word": "汪苏泷唱了我没有更多时间",
@@ -3423,6 +3535,14 @@
       "num": 327341,
       "word": "跟了华夏几千年地地道道中国犬",
       "onboard_time": 1751288484,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26456,
+      "num": 325171,
+      "word": "规则制度要为婴儿留出一点弹性空间",
+      "onboard_time": 1751293283,
       "rank": 19,
       "category": "民生新闻"
     },
@@ -3547,6 +3667,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 17233,
+      "num": 222114,
+      "word": "解限机的世界观有什么",
+      "onboard_time": 1751292443,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 17032,
       "num": 17032,
       "word": "偶遇黄霄雲去林俊杰演唱会",
@@ -3625,14 +3753,6 @@
       "onboard_time": 1751231653,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10209,
-      "num": 811548,
-      "word": "大国重器再交亮眼成绩单",
-      "onboard_time": 1751277023,
-      "rank": 2,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
@@ -3644,6 +3764,9 @@
     },
     {
       "word": "#中共中央政治局6月30日召开会议#"
+    },
+    {
+      "word": "#总书记向全国广大共产党员致以节日问候#"
     }
   ]
 }
