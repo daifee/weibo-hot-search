@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751308601927,
+  "endTime": 1751309453667,
   "band_list": [
     {
       "raw_hot": 1110085,
@@ -195,6 +195,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 120311,
+      "num": 72521,
+      "word": "晚晚直播卖卷发棒翻车",
+      "onboard_time": 1751304617,
+      "rank": 37,
+      "category": "网红"
+    },
+    {
       "raw_hot": 120155,
       "num": 120155,
       "word": "烟草造成经济损失约9000亿",
@@ -249,14 +257,6 @@
       "onboard_time": 1751275222,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 95917,
-      "num": 72521,
-      "word": "晚晚直播卖卷发棒翻车",
-      "onboard_time": 1751304617,
-      "rank": 37,
-      "category": "网红"
     },
     {
       "raw_hot": 93593,
@@ -555,6 +555,38 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 23835,
+      "num": 28703,
+      "word": "鞠婧祎阿黛开机vlog",
+      "onboard_time": 1751309236,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 23410,
+      "num": 32322,
+      "word": "王源第一站顺利狂欢",
+      "onboard_time": 1751308934,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 23347,
+      "num": 32273,
+      "word": "周深谢谢每一个给我投来善意的你",
+      "onboard_time": 1751308934,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 22899,
+      "num": 22899,
+      "word": "张小斐被导演表扬害羞了",
+      "onboard_time": 1751309294,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 18279,
       "num": 31805,
       "word": "蔡澜助理辟谣胁迫陈宝莲",
@@ -568,6 +600,14 @@
       "word": "五个着力点进一步推进党的自我革命",
       "onboard_time": 1751308155,
       "rank": 12,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 8605,
+      "num": 112591,
+      "word": "中国科技创新主打一个脑洞大开",
+      "onboard_time": 1751294844,
+      "rank": 2,
       "category": "国内时政"
     }
   ],
