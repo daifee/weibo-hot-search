@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/30 23:29:25
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/30 23:43:51
 </p>
 </blockquote>
 <p>
@@ -5367,6 +5367,12 @@ AL战胜BLG（热度：859667）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8B%8D%E5%88%B0%E9%87%8E%E7%89%9B%E8%B7%8C%E5%85%A5%E6%B8%A9%E6%B3%89%E8%A2%AB%E6%B4%BB%E6%B4%BB%E7%85%AE%E6%AD%BB%23" target="weibo">
+女子拍到野牛跌入温泉被活活煮死（热度：825551）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%AF%95%E8%AE%BE%E8%A2%AB%E8%9E%A8%E8%99%AB%E5%95%83%E9%A3%9F%E5%BF%83%E6%80%81%E5%B4%A9%E4%BA%86%23" target="weibo">
 女生毕设被螨虫啃食心态崩了（热度：825042）
 </a>
@@ -6005,12 +6011,6 @@ T3司机猥亵大三女生被行拘5日（热度：810171）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E8%A7%A3%E9%87%8A%E9%97%AE%E9%BB%84%E5%AD%90%E9%9F%AC%E7%A6%BB%E5%A9%9A%23" target="weibo">
 网红解释问黄子韬离婚（热度：769219）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B9%E4%B8%80%E5%A4%A9%E5%81%9A%E4%BA%86%E6%88%91%E4%B8%80%E8%BE%88%E5%AD%90%E7%9A%84%E5%B7%A5%E4%BD%9C%23" target="weibo">
-她一天做了我一辈子的工作（热度：768693）
 </a>
 </li>
 

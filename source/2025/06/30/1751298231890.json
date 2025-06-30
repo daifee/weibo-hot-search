@@ -1,0 +1,410 @@
+{
+  "runTime": 1751298231890,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1159985,
+        "num": 1185597,
+        "word": "明天你的公积金账户将多一笔钱",
+        "onboard_time": 1751279121,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1019401,
+        "num": 1019401,
+        "word": "因微信办公违规多人被处理",
+        "onboard_time": 1751293704,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37150,
+        "num": 860518,
+        "word": "万千气象看山西",
+        "onboard_time": 1751294963,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 825551,
+        "num": 825551,
+        "word": "女子拍到野牛跌入温泉被活活煮死",
+        "onboard_time": 1751297064,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 554010,
+        "num": 554010,
+        "word": "fx合体",
+        "onboard_time": 1751293704,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1168456,
+        "num": 548231,
+        "word": "中华田园犬 禁养",
+        "onboard_time": 1751276424,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 489520,
+        "num": 489520,
+        "word": "锦绣芳华打破了国色芳华纪录",
+        "onboard_time": 1751288303,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 406182,
+        "num": 406182,
+        "word": "猝死前1个月身体的信号",
+        "onboard_time": 1751280561,
+        "rank": 7,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 329874,
+        "num": 329874,
+        "word": "食脑虫",
+        "onboard_time": 1751288963,
+        "rank": 8,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 276494,
+        "num": 276494,
+        "word": "胡彦斌 可3C规则是什么呢",
+        "onboard_time": 1751291783,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1224401,
+        "num": 276422,
+        "word": "胡一天673天没进组了",
+        "onboard_time": 1751293404,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1043407,
+        "num": 276125,
+        "word": "鹿晗屏保",
+        "onboard_time": 1751273602,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 487069,
+        "num": 275947,
+        "word": "1997年7月1日0时0分0秒",
+        "onboard_time": 1751293042,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 375169,
+        "num": 275807,
+        "word": "00后利用办公室午休赚70元的一天",
+        "onboard_time": 1751290943,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 17086,
+        "num": 275587,
+        "word": "浙江一诊所宣传广告称输液每位68元",
+        "onboard_time": 1751297483,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291272,
+        "num": 275515,
+        "word": "警方回应网传男子带12岁女孩开房",
+        "onboard_time": 1751289384,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275337,
+        "num": 275337,
+        "word": "韩安冉曝小猪妹被饿一整天",
+        "onboard_time": 1751282242,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 211570,
+        "num": 211570,
+        "word": "宋茜Amber王嘉尔段宜恩合照",
+        "onboard_time": 1751291904,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122653,
+        "num": 211376,
+        "word": "贾永婕5千买下小S二女儿画作",
+        "onboard_time": 1751294425,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164598,
+        "num": 211239,
+        "word": "医生回应酒店光脚洗澡或感染HPV",
+        "onboard_time": 1751297003,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289476,
+        "num": 211021,
+        "word": "谁看了李庚希新角色都得愣两秒",
+        "onboard_time": 1751295983,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 65683,
+        "num": 210627,
+        "word": "中国海警依法依规拦阻驱离",
+        "onboard_time": 1751295685,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 512677,
+        "num": 210573,
+        "word": "孙恩盛 PK验资",
+        "onboard_time": 1751294604,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 273342,
+        "num": 210295,
+        "word": "恋丑癖越来越多的原因好像找到了",
+        "onboard_time": 1751295622,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 40886,
+        "num": 209903,
+        "word": "北京国安2比1云南玉昆",
+        "onboard_time": 1751297302,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209881,
+        "num": 209881,
+        "word": "敖瑞鹏晒与李兰迪合照",
+        "onboard_time": 1751296942,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200631,
+        "num": 200631,
+        "word": "锦绣芳华热度",
+        "onboard_time": 1751291663,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187908,
+        "num": 187908,
+        "word": "幼儿园招老师工资分级最高不超3千",
+        "onboard_time": 1751287283,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184832,
+        "num": 184832,
+        "word": "血泪是张小斐设计的",
+        "onboard_time": 1751295864,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180229,
+        "num": 180229,
+        "word": "香港回归祖国28年",
+        "onboard_time": 1751290763,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 156817,
+        "num": 156817,
+        "word": "TFBOYS前缀",
+        "onboard_time": 1751275222,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39441,
+        "num": 149969,
+        "word": "大连一公园内有管道向海洋排污水",
+        "onboard_time": 1751296883,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148309,
+        "num": 148309,
+        "word": "杨紫回应刘诗诗",
+        "onboard_time": 1751284281,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18203,
+        "num": 148175,
+        "word": "上海动物园通报婴儿喝奶被赶",
+        "onboard_time": 1751298142,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148103,
+        "num": 148103,
+        "word": "鹿晗西安抢票",
+        "onboard_time": 1751283921,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 147358,
+        "num": 147358,
+        "word": "驱赶喝奶婴儿展厅贴禁饮食临时警示",
+        "onboard_time": 1751295924,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46575,
+        "num": 146505,
+        "word": "郭炜炜说剑网3还能再活30年",
+        "onboard_time": 1751296103,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146316,
+        "num": 146316,
+        "word": "大麦 退票",
+        "onboard_time": 1751284821,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144529,
+        "num": 144529,
+        "word": "女儿烫伤脸母亲维权未果致流产",
+        "onboard_time": 1751295565,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114116,
+        "num": 143882,
+        "word": "郑钦文vs西尼亚科娃",
+        "onboard_time": 1751297424,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143806,
+        "num": 143806,
+        "word": "烟草造成经济损失约9000亿",
+        "onboard_time": 1751279360,
+        "rank": 40,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 136628,
+        "num": 136628,
+        "word": "7月份十二星座注意事项",
+        "onboard_time": 1751294484,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132860,
+        "num": 132860,
+        "word": "张康乐黑皮白皮",
+        "onboard_time": 1751297663,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131209,
+        "num": 131209,
+        "word": "金价大跌商家称不如上涨时卖得好",
+        "onboard_time": 1751297963,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127679,
+        "num": 127679,
+        "word": "管乐 王皓",
+        "onboard_time": 1751269280,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125183,
+        "num": 125183,
+        "word": "刘国梁想将女儿培养成大满贯运动员",
+        "onboard_time": 1751296404,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122546,
+        "num": 122546,
+        "word": "张艺兴13岁就认识林俊杰了",
+        "onboard_time": 1751295983,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119286,
+        "num": 119286,
+        "word": "刘诗雯拟被浙大录取为博士",
+        "onboard_time": 1751296703,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114610,
+        "num": 114610,
+        "word": "网购内裤 退换",
+        "onboard_time": 1751279063,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113700,
+        "num": 113700,
+        "word": "公积金结息能领几千元",
+        "onboard_time": 1751274681,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记向全国广大共产党员致以节日问候#"
+    }
+  }
+}
