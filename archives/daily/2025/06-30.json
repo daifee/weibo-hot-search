@@ -1,6 +1,6 @@
 {
   "startTime": 1751214634143,
-  "endTime": 1751265569913,
+  "endTime": 1751266401924,
   "band_list": [
     {
       "raw_hot": 2461024,
@@ -65,6 +65,14 @@
       "onboard_time": 1751208143,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1213283,
+      "num": 1213283,
+      "word": "92岁游本昌宣誓入党",
+      "onboard_time": 1751264902,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 1135383,
@@ -147,6 +155,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 716428,
+      "num": 530468,
+      "word": "邓超微博 作品孙俪孩子鹿晗",
+      "onboard_time": 1751264543,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 654463,
+      "num": 654463,
+      "word": "充电宝被禁了我用什么",
+      "onboard_time": 1751262620,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 632665,
       "num": 528439,
       "word": "TFBOYS十年保密协议到期",
@@ -195,27 +219,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 515966,
-      "num": 471329,
-      "word": "邓超微博 作品孙俪孩子鹿晗",
-      "onboard_time": 1751264543,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 514957,
       "num": 514957,
       "word": "国外生产的充电宝不检查3C标志",
       "onboard_time": 1751246000,
       "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 513146,
-      "num": 513146,
-      "word": "充电宝被禁了我用什么",
-      "onboard_time": 1751262620,
-      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -235,14 +243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 482567,
-      "num": 482567,
-      "word": "92岁游本昌宣誓入党",
-      "onboard_time": 1751264902,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 477275,
       "num": 301076,
       "word": "师洋",
@@ -251,8 +251,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 473876,
-      "num": 473876,
+      "raw_hot": 477150,
+      "num": 477150,
       "word": "疑毒杀女模中国籍嫌犯返泰自首",
       "onboard_time": 1751261721,
       "rank": 18,
@@ -320,6 +320,14 @@
       "word": "六月初六遇上上半年最后一天",
       "onboard_time": 1751244320,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 364158,
+      "num": 364158,
+      "word": "禁养犬",
+      "onboard_time": 1751264661,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -491,6 +499,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 274148,
+      "num": 274148,
+      "word": "印度向巴基斯坦泄洪",
+      "onboard_time": 1751265382,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 271986,
       "num": 271986,
       "word": "王源巡演应到三万实到千万",
@@ -513,6 +529,14 @@
       "onboard_time": 1751262741,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 266246,
+      "num": 266246,
+      "word": "崔胜铉生图状态",
+      "onboard_time": 1751264961,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 261167,
@@ -603,14 +627,6 @@
       "category": "母婴育儿,民生新闻"
     },
     {
-      "raw_hot": 228509,
-      "num": 228509,
-      "word": "崔胜铉生图状态",
-      "onboard_time": 1751264961,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 227713,
       "num": 227713,
       "word": "证监会logo更新",
@@ -619,8 +635,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 225577,
-      "num": 225577,
+      "raw_hot": 226354,
+      "num": 226354,
       "word": "马嘉祺郑州",
       "onboard_time": 1751264543,
       "rank": 21,
@@ -659,6 +675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204066,
+      "num": 204066,
+      "word": "日本在台湾周边建避难所",
+      "onboard_time": 1751265802,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 203480,
       "num": 223658,
       "word": "刘晓庆晒照辟谣",
@@ -681,14 +705,6 @@
       "onboard_time": 1751258243,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 202194,
-      "num": 202194,
-      "word": "禁养犬",
-      "onboard_time": 1751264661,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 199103,
@@ -739,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 191281,
+      "num": 203808,
+      "word": "二手烟 霸凌",
+      "onboard_time": 1751265081,
+      "rank": 24,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 191006,
       "num": 191006,
       "word": "白桃星座一周运势",
@@ -769,6 +793,22 @@
       "onboard_time": 1751212102,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188386,
+      "num": 188386,
+      "word": "杨幂给许凯吃风油精软糖",
+      "onboard_time": 1751265503,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 185592,
+      "num": 185592,
+      "word": "多邻国猫头鹰官宣结婚",
+      "onboard_time": 1751265322,
+      "rank": 42,
+      "category": "教育,互联网"
     },
     {
       "raw_hot": 185020,
@@ -803,6 +843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182956,
+      "num": 183439,
+      "word": "歌手揭榜海龟汤",
+      "onboard_time": 1751265081,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182240,
       "num": 182240,
       "word": "桃花映江山夜抛型男主",
@@ -817,14 +865,6 @@
       "onboard_time": 1751259862,
       "rank": 33,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 181326,
-      "num": 181326,
-      "word": "杨幂给许凯吃风油精软糖",
-      "onboard_time": 1751265503,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 180402,
@@ -849,6 +889,14 @@
       "onboard_time": 1751246361,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 179082,
+      "num": 179082,
+      "word": "设立党中央决策议事协调机构",
+      "onboard_time": 1751263461,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 179062,
@@ -923,14 +971,6 @@
       "category": "民生新闻,旅游"
     },
     {
-      "raw_hot": 163852,
-      "num": 163852,
-      "word": "设立党中央决策议事协调机构",
-      "onboard_time": 1751263461,
-      "rank": 32,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 162943,
       "num": 162943,
       "word": "切除子宫326天的生活变化",
@@ -977,14 +1017,6 @@
       "onboard_time": 1751263942,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 153354,
-      "num": 183439,
-      "word": "歌手揭榜海龟汤",
-      "onboard_time": 1751265081,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 153240,
@@ -1051,20 +1083,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 141916,
-      "num": 141916,
-      "word": "多邻国猫头鹰官宣结婚",
-      "onboard_time": 1751265322,
-      "rank": 42,
-      "category": "教育,互联网"
-    },
-    {
       "raw_hot": 141396,
       "num": 141396,
       "word": "何小鹏也下单了YU7",
       "onboard_time": 1751255122,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 141302,
+      "num": 141302,
+      "word": "长沙坡子街又现数百枚两汉简牍",
+      "onboard_time": 1751265442,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141187,
@@ -1097,6 +1129,14 @@
       "onboard_time": 1751260762,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 137698,
+      "num": 137698,
+      "word": "张新成帅成了我妈的老挂历",
+      "onboard_time": 1751265262,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 136794,
@@ -1139,14 +1179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 133077,
-      "num": 133077,
-      "word": "印度向巴基斯坦泄洪",
-      "onboard_time": 1751265382,
-      "rank": 43,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 132836,
       "num": 132836,
       "word": "张小斐灰色系大女主",
@@ -1161,6 +1193,14 @@
       "onboard_time": 1751254642,
       "rank": 40,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 131887,
+      "num": 131887,
+      "word": "全芒果都簪上了锦绣芳华",
+      "onboard_time": 1751266222,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 131658,
@@ -1187,6 +1227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127383,
+      "num": 127383,
+      "word": "韩安冉女儿虫卵过敏",
+      "onboard_time": 1751266163,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
       "raw_hot": 127283,
       "num": 127283,
       "word": "有条件恢复日本部分地区水产品进口",
@@ -1211,14 +1259,6 @@
       "category": "情感,民生新闻"
     },
     {
-      "raw_hot": 123745,
-      "num": 203808,
-      "word": "二手烟 霸凌",
-      "onboard_time": 1751265081,
-      "rank": 24,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 122624,
       "num": 122624,
       "word": "老铺黄金股价",
@@ -1233,14 +1273,6 @@
       "onboard_time": 1751261901,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 122013,
-      "num": 122013,
-      "word": "张新成帅成了我妈的老挂历",
-      "onboard_time": 1751265262,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 121426,
@@ -1259,12 +1291,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 120596,
-      "num": 120596,
-      "word": "长沙坡子街又现数百枚两汉简牍",
-      "onboard_time": 1751265442,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 121207,
+      "num": 131975,
+      "word": "男足东亚杯大名单",
+      "onboard_time": 1751265922,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 119996,
@@ -1289,6 +1321,14 @@
       "onboard_time": 1751254041,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117722,
+      "num": 117722,
+      "word": "杨幂质问周笔畅没点赞朋友圈",
+      "onboard_time": 1751266222,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 116969,
@@ -1417,6 +1457,14 @@
       "onboard_time": 1751247140,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 104062,
+      "num": 105706,
+      "word": "Labubu肉松披萨",
+      "onboard_time": 1751265562,
+      "rank": 49,
+      "category": "美食,休闲"
     },
     {
       "raw_hot": 102080,
@@ -1891,6 +1939,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28018,
+      "num": 152580,
+      "word": "是否有必要追究虐猫考生",
+      "onboard_time": 1751265081,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27460,
+      "num": 166776,
+      "word": "退学北大上清华男生回应开直播",
+      "onboard_time": 1751265682,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26620,
       "num": 1231230,
       "word": "暴雨台风应对参考手册",
@@ -1960,14 +2024,6 @@
       "word": "小偷事前写笔记作案后复盘",
       "onboard_time": 1751262082,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18530,
-      "num": 152580,
-      "word": "是否有必要追究虐猫考生",
-      "onboard_time": 1751265081,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
