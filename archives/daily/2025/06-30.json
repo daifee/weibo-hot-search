@@ -1,6 +1,6 @@
 {
   "startTime": 1751214634143,
-  "endTime": 1751266401924,
+  "endTime": 1751268505910,
   "band_list": [
     {
       "raw_hot": 2461024,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1135383,
-      "num": 470731,
+      "num": 485982,
       "word": "本升专",
       "onboard_time": 1751260941,
       "rank": 10,
@@ -88,6 +88,14 @@
       "word": "人社局回应虐猫考生进入考察公示",
       "onboard_time": 1751250441,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1127856,
+      "num": 880614,
+      "word": "充电宝被禁了我用什么",
+      "onboard_time": 1751262620,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -131,12 +139,28 @@
       "category": "数码,民生新闻"
     },
     {
+      "raw_hot": 877590,
+      "num": 877590,
+      "word": "邓超微博 作品孙俪孩子鹿晗",
+      "onboard_time": 1751264543,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 793383,
       "num": 959597,
       "word": "邓超回应和鹿晗吃饭",
       "onboard_time": 1751238857,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 766700,
+      "num": 618818,
+      "word": "管乐正面回应和王皓分手",
+      "onboard_time": 1751267422,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 758813,
@@ -155,28 +179,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 716428,
-      "num": 530468,
-      "word": "邓超微博 作品孙俪孩子鹿晗",
-      "onboard_time": 1751264543,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 654463,
-      "num": 654463,
-      "word": "充电宝被禁了我用什么",
-      "onboard_time": 1751262620,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 632665,
       "num": 528439,
       "word": "TFBOYS十年保密协议到期",
       "onboard_time": 1751201722,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 624266,
+      "num": 624266,
+      "word": "胡锡进建议给虐猫者重开机会",
+      "onboard_time": 1751266583,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 596698,
@@ -193,6 +209,14 @@
       "onboard_time": 1751203223,
       "rank": 1,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 549320,
+      "num": 278436,
+      "word": "女子买新房挖出尸骨腿都软了",
+      "onboard_time": 1751266462,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 525891,
@@ -227,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 510263,
+      "num": 510263,
+      "word": "禁养犬",
+      "onboard_time": 1751264661,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 493342,
       "num": 493342,
       "word": "锦绣芳华",
@@ -241,6 +273,14 @@
       "onboard_time": 1751257522,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 481472,
+      "num": 481472,
+      "word": "印度向巴基斯坦泄洪",
+      "onboard_time": 1751265382,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 477275,
@@ -275,6 +315,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 455686,
+      "num": 455686,
+      "word": "二手烟 霸凌",
+      "onboard_time": 1751265081,
+      "rank": 24,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 427949,
       "num": 323494,
       "word": "大麦就鹿晗演唱会售票问题道歉",
@@ -307,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 397662,
+      "num": 397662,
+      "word": "刘诗诗为杨紫包场",
+      "onboard_time": 1751266943,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 380171,
       "num": 326140,
       "word": "阿娇说减肥真的不容易",
@@ -320,14 +376,6 @@
       "word": "六月初六遇上上半年最后一天",
       "onboard_time": 1751244320,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 364158,
-      "num": 364158,
-      "word": "禁养犬",
-      "onboard_time": 1751264661,
-      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -491,20 +539,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 278397,
+      "num": 278397,
+      "word": "柴六斤",
+      "onboard_time": 1751267602,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276372,
       "num": 246564,
       "word": "鹿晗抢票",
       "onboard_time": 1751193201,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 274148,
-      "num": 274148,
-      "word": "印度向巴基斯坦泄洪",
-      "onboard_time": 1751265382,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 271986,
@@ -523,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 267715,
+      "num": 267715,
+      "word": "崔胜铉生图状态",
+      "onboard_time": 1751264961,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 267667,
       "num": 267667,
       "word": "黄圣依你也找不到比我更好的了",
@@ -531,20 +587,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 266246,
-      "num": 266246,
-      "word": "崔胜铉生图状态",
-      "onboard_time": 1751264961,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 261167,
       "num": 300778,
       "word": "王俊凯任上合组织国家电影节青年大使",
       "onboard_time": 1751253741,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 260240,
+      "num": 260240,
+      "word": "日本在台湾周边建避难所",
+      "onboard_time": 1751265802,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 258030,
@@ -611,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237717,
+      "num": 237717,
+      "word": "马嘉祺郑州",
+      "onboard_time": 1751264543,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234084,
       "num": 234084,
       "word": "恋与制作人喜羊羊",
@@ -627,6 +691,14 @@
       "category": "母婴育儿,民生新闻"
     },
     {
+      "raw_hot": 232460,
+      "num": 232460,
+      "word": "设立党中央决策议事协调机构",
+      "onboard_time": 1751263461,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 227713,
       "num": 227713,
       "word": "证监会logo更新",
@@ -635,12 +707,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 226354,
-      "num": 226354,
-      "word": "马嘉祺郑州",
-      "onboard_time": 1751264543,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 221802,
+      "num": 221802,
+      "word": "周一告白周二结婚周三生孩子",
+      "onboard_time": 1751267242,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 218750,
@@ -649,6 +721,14 @@
       "onboard_time": 1751200641,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 217708,
+      "num": 217708,
+      "word": "锦绣芳华开播口碑",
+      "onboard_time": 1751267663,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 215945,
@@ -667,20 +747,20 @@
       "category": "体育,演出"
     },
     {
+      "raw_hot": 205218,
+      "num": 205218,
+      "word": "杨幂又cue迪丽热巴了",
+      "onboard_time": 1751268382,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204815,
       "num": 204815,
       "word": "环球时报专访藏海传总导演郑晓龙",
       "onboard_time": 1751254161,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 204066,
-      "num": 204066,
-      "word": "日本在台湾周边建避难所",
-      "onboard_time": 1751265802,
-      "rank": 21,
-      "category": "国际时政"
     },
     {
       "raw_hot": 203480,
@@ -753,14 +833,6 @@
       "onboard_time": 1751254642,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 191281,
-      "num": 203808,
-      "word": "二手烟 霸凌",
-      "onboard_time": 1751265081,
-      "rank": 24,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 191006,
@@ -867,6 +939,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 181656,
+      "num": 216849,
+      "word": "重庆荣昌区委书记下馆子老板发声",
+      "onboard_time": 1751263461,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 180402,
       "num": 198719,
       "word": "丁禹兮让本牛马无比叹服",
@@ -891,14 +971,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 179082,
-      "num": 179082,
-      "word": "设立党中央决策议事协调机构",
-      "onboard_time": 1751263461,
-      "rank": 32,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 179062,
       "num": 179062,
       "word": "程潇讲脱口秀听着听着就哭了",
@@ -921,6 +993,14 @@
       "onboard_time": 1751260882,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 174580,
+      "num": 174580,
+      "word": "印度两万留学生来华学技术",
+      "onboard_time": 1751267422,
+      "rank": 35,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 172847,
@@ -971,6 +1051,14 @@
       "category": "民生新闻,旅游"
     },
     {
+      "raw_hot": 163636,
+      "num": 163636,
+      "word": "杨幂质问周笔畅没点赞朋友圈",
+      "onboard_time": 1751266222,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162943,
       "num": 162943,
       "word": "切除子宫326天的生活变化",
@@ -995,19 +1083,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157177,
+      "num": 157177,
+      "word": "韩安冉女儿虫卵过敏",
+      "onboard_time": 1751266163,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
       "raw_hot": 155081,
-      "num": 155081,
+      "num": 427068,
       "word": "榕江最大超市损失千万店长发声",
       "onboard_time": 1751261482,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 154030,
-      "num": 216849,
-      "word": "重庆荣昌区委书记下馆子老板发声",
-      "onboard_time": 1751263461,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -1203,6 +1291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131669,
+      "num": 131669,
+      "word": "金饰克价半月大跌超50元",
+      "onboard_time": 1751266522,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 131658,
       "num": 131658,
       "word": "以法之名 好看",
@@ -1227,14 +1323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 127383,
-      "num": 127383,
-      "word": "韩安冉女儿虫卵过敏",
-      "onboard_time": 1751266163,
-      "rank": 42,
-      "category": "网红"
-    },
-    {
       "raw_hot": 127283,
       "num": 127283,
       "word": "有条件恢复日本部分地区水产品进口",
@@ -1257,6 +1345,14 @@
       "onboard_time": 1751241200,
       "rank": 31,
       "category": "情感,民生新闻"
+    },
+    {
+      "raw_hot": 123484,
+      "num": 123484,
+      "word": "刘宇宁事业运",
+      "onboard_time": 1751268321,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 122624,
@@ -1321,14 +1417,6 @@
       "onboard_time": 1751254041,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 117722,
-      "num": 117722,
-      "word": "杨幂质问周笔畅没点赞朋友圈",
-      "onboard_time": 1751266222,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 116969,
@@ -1539,6 +1627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89673,
+      "num": 278436,
+      "word": "女子带患病儿子跑车有人偷留1万元",
+      "onboard_time": 1751268081,
+      "rank": 19,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 89510,
       "num": 89510,
       "word": "育儿嫂使劲摇晃6个月婴儿疑泄愤",
@@ -1667,6 +1763,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 68618,
+      "num": 133353,
+      "word": "秦彻睡不着",
+      "onboard_time": 1751268382,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 68353,
       "num": 68353,
       "word": "桃花映江山",
@@ -1681,6 +1785,14 @@
       "onboard_time": 1751260941,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 66739,
+      "num": 117578,
+      "word": "白厄动画短片预告",
+      "onboard_time": 1751267242,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 66713,
@@ -1825,6 +1937,14 @@
       "onboard_time": 1751210243,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 43801,
+      "num": 488903,
+      "word": "市监调查安普瑞斯电芯问题",
+      "onboard_time": 1751266882,
+      "rank": 9,
+      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 43512,

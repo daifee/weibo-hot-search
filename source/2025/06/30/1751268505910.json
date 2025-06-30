@@ -1,0 +1,410 @@
+{
+  "runTime": 1751268505910,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1165508,
+        "num": 1186481,
+        "word": "92岁游本昌宣誓入党",
+        "onboard_time": 1751264902,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 907170,
+        "num": 907170,
+        "word": "韩国首尔爱情虫爆发",
+        "onboard_time": 1751258302,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 22064,
+        "num": 881673,
+        "word": "暴雨台风应对参考手册",
+        "onboard_time": 1751258183,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1127856,
+        "num": 880614,
+        "word": "充电宝被禁了我用什么",
+        "onboard_time": 1751262620,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 877590,
+        "num": 877590,
+        "word": "邓超微博 作品孙俪孩子鹿晗",
+        "onboard_time": 1751264543,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 624266,
+        "num": 624266,
+        "word": "胡锡进建议给虐猫者重开机会",
+        "onboard_time": 1751266583,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 766700,
+        "num": 618818,
+        "word": "管乐正面回应和王皓分手",
+        "onboard_time": 1751267422,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 570513,
+        "num": 570513,
+        "word": "李嘉格妈妈是上嫁的牺牲者",
+        "onboard_time": 1751260821,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 510263,
+        "num": 510263,
+        "word": "禁养犬",
+        "onboard_time": 1751264661,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43801,
+        "num": 488903,
+        "word": "市监调查安普瑞斯电芯问题",
+        "onboard_time": 1751266882,
+        "rank": 9,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 616706,
+        "num": 485982,
+        "word": "本升专",
+        "onboard_time": 1751260941,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 481472,
+        "num": 481472,
+        "word": "印度向巴基斯坦泄洪",
+        "onboard_time": 1751265382,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 455686,
+        "num": 455686,
+        "word": "二手烟 霸凌",
+        "onboard_time": 1751265081,
+        "rank": 12,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 439908,
+        "num": 439908,
+        "word": "原来新鲜的荔枝是这样的",
+        "onboard_time": 1751255361,
+        "rank": 13,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 132979,
+        "num": 427068,
+        "word": "榕江最大超市损失千万店长发声",
+        "onboard_time": 1751261482,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 416680,
+        "num": 416680,
+        "word": "邓超晒与鹿晗陈赫合照",
+        "onboard_time": 1751253801,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397662,
+        "num": 397662,
+        "word": "刘诗诗为杨紫包场",
+        "onboard_time": 1751266943,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283860,
+        "num": 283860,
+        "word": "哪吒2下映",
+        "onboard_time": 1751250081,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 278992,
+        "num": 278992,
+        "word": "收到不雅照转过去15万才想起没拍过",
+        "onboard_time": 1751259682,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89673,
+        "num": 278436,
+        "word": "女子带患病儿子跑车有人偷留1万元",
+        "onboard_time": 1751268081,
+        "rank": 19,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 549320,
+        "num": 278436,
+        "word": "女子买新房挖出尸骨腿都软了",
+        "onboard_time": 1751266462,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278397,
+        "num": 278397,
+        "word": "柴六斤",
+        "onboard_time": 1751267602,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278393,
+        "num": 278393,
+        "word": "中国共产党党员总数为10027.1万名",
+        "onboard_time": 1751252182,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 267715,
+        "num": 267715,
+        "word": "崔胜铉生图状态",
+        "onboard_time": 1751264961,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260240,
+        "num": 260240,
+        "word": "日本在台湾周边建避难所",
+        "onboard_time": 1751265802,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 248573,
+        "num": 248573,
+        "word": "招聘单位回应考生确系虐猫当事人",
+        "onboard_time": 1751254701,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237717,
+        "num": 237717,
+        "word": "马嘉祺郑州",
+        "onboard_time": 1751264543,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232460,
+        "num": 232460,
+        "word": "设立党中央决策议事协调机构",
+        "onboard_time": 1751263461,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 227889,
+        "num": 227889,
+        "word": "疑毒杀女模中国籍嫌犯返泰自首",
+        "onboard_time": 1751261721,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221802,
+        "num": 221802,
+        "word": "周一告白周二结婚周三生孩子",
+        "onboard_time": 1751267242,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217708,
+        "num": 217708,
+        "word": "锦绣芳华开播口碑",
+        "onboard_time": 1751267663,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205218,
+        "num": 205218,
+        "word": "杨幂又cue迪丽热巴了",
+        "onboard_time": 1751268382,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183358,
+        "num": 183358,
+        "word": "双休和单休真的是两种人生",
+        "onboard_time": 1751259143,
+        "rank": 32,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 181656,
+        "num": 181656,
+        "word": "重庆荣昌区委书记下馆子老板发声",
+        "onboard_time": 1751263461,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177092,
+        "num": 177092,
+        "word": "黄圣依你也找不到比我更好的了",
+        "onboard_time": 1751262741,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174580,
+        "num": 174580,
+        "word": "印度两万留学生来华学技术",
+        "onboard_time": 1751267422,
+        "rank": 35,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 163636,
+        "num": 163636,
+        "word": "杨幂质问周笔畅没点赞朋友圈",
+        "onboard_time": 1751266222,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157177,
+        "num": 157177,
+        "word": "韩安冉女儿虫卵过敏",
+        "onboard_time": 1751266163,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 143460,
+        "num": 143460,
+        "word": "iPhone 检查虫子",
+        "onboard_time": 1751253501,
+        "rank": 38,
+        "category": "数码,民生新闻"
+      },
+      {
+        "raw_hot": 68618,
+        "num": 133353,
+        "word": "秦彻睡不着",
+        "onboard_time": 1751268382,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132139,
+        "num": 132139,
+        "word": "于正回应和肖战合作",
+        "onboard_time": 1751257522,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131669,
+        "num": 131669,
+        "word": "金饰克价半月大跌超50元",
+        "onboard_time": 1751266522,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 131321,
+        "num": 131321,
+        "word": "切除子宫326天的生活变化",
+        "onboard_time": 1751261181,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128790,
+        "num": 128790,
+        "word": "MSI八强确定",
+        "onboard_time": 1751263942,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127398,
+        "num": 127398,
+        "word": "歌手揭榜海龟汤",
+        "onboard_time": 1751265081,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123484,
+        "num": 123484,
+        "word": "刘宇宁事业运",
+        "onboard_time": 1751268321,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119834,
+        "num": 119834,
+        "word": "多邻国猫头鹰官宣结婚",
+        "onboard_time": 1751265322,
+        "rank": 46,
+        "category": "教育,互联网"
+      },
+      {
+        "raw_hot": 66739,
+        "num": 117578,
+        "word": "白厄动画短片预告",
+        "onboard_time": 1751267242,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115863,
+        "num": 115863,
+        "word": "万茜秦俊杰给短剧上强度了",
+        "onboard_time": 1751264361,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114134,
+        "num": 114134,
+        "word": "王源巡演应到三万实到千万",
+        "onboard_time": 1751260581,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记足迹瞰老区新貌#"
+    }
+  }
+}
