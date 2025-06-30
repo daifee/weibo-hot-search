@@ -1,0 +1,410 @@
+{
+  "runTime": 1751301220076,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1110085,
+        "num": 1110085,
+        "word": "女子拍到野牛跌入温泉被活活煮死",
+        "onboard_time": 1751297064,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 650295,
+        "num": 650295,
+        "word": "明天你的公积金账户将多一笔钱",
+        "onboard_time": 1751279121,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25007,
+        "num": 503427,
+        "word": "万千气象看山西",
+        "onboard_time": 1751294963,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 449476,
+        "num": 449476,
+        "word": "金价大跌商家称不如上涨时卖得好",
+        "onboard_time": 1751297963,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 417389,
+        "num": 417389,
+        "word": "因微信办公违规多人被处理",
+        "onboard_time": 1751293704,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 720147,
+        "num": 376956,
+        "word": "中华田园犬 禁养",
+        "onboard_time": 1751276424,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323175,
+        "num": 323175,
+        "word": "猝死前1个月身体的信号",
+        "onboard_time": 1751280561,
+        "rank": 6,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 283131,
+        "num": 320792,
+        "word": "fx合体",
+        "onboard_time": 1751293704,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 242103,
+        "num": 319945,
+        "word": "锦绣芳华打破了国色芳华纪录",
+        "onboard_time": 1751288303,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92614,
+        "num": 313909,
+        "word": "刘国梁想将女儿培养成大满贯运动员",
+        "onboard_time": 1751296404,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 838506,
+        "num": 312281,
+        "word": "鹿晗屏保",
+        "onboard_time": 1751273602,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 719017,
+        "num": 308937,
+        "word": "胡一天673天没进组了",
+        "onboard_time": 1751293404,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 508410,
+        "num": 304650,
+        "word": "恋丑癖越来越多的原因好像找到了",
+        "onboard_time": 1751295622,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 304444,
+        "num": 304444,
+        "word": "1997年7月1日0时0分0秒",
+        "onboard_time": 1751293042,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 211472,
+        "num": 211472,
+        "word": "警方回应网传男子带12岁女孩开房",
+        "onboard_time": 1751289384,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328655,
+        "num": 211225,
+        "word": "徐艺洋晒鹿晗演唱会现场照",
+        "onboard_time": 1751300301,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 210676,
+        "num": 210676,
+        "word": "敖瑞鹏晒与李兰迪合照",
+        "onboard_time": 1751296942,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194476,
+        "num": 194476,
+        "word": "张艺兴13岁就认识林俊杰了",
+        "onboard_time": 1751295983,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 190142,
+        "num": 190142,
+        "word": "女子网购拉布布盲盒拆开仅剩6个裸娃",
+        "onboard_time": 1751298262,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 172551,
+        "num": 172551,
+        "word": "医生回应酒店光脚洗澡或感染HPV",
+        "onboard_time": 1751297003,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 364539,
+        "num": 168885,
+        "word": "孙恩盛 PK验资",
+        "onboard_time": 1751294604,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 160768,
+        "num": 160768,
+        "word": "上海动物园通报婴儿喝奶被赶",
+        "onboard_time": 1751298142,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139740,
+        "num": 139740,
+        "word": "香港回归祖国28年",
+        "onboard_time": 1751290763,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 127236,
+        "num": 127236,
+        "word": "韩安冉曝小猪妹被饿一整天",
+        "onboard_time": 1751282242,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 120155,
+        "num": 120155,
+        "word": "烟草造成经济损失约9000亿",
+        "onboard_time": 1751279360,
+        "rank": 24,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 115035,
+        "num": 115035,
+        "word": "00后利用办公室午休赚70元的一天",
+        "onboard_time": 1751290943,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114159,
+        "num": 114159,
+        "word": "食脑虫",
+        "onboard_time": 1751288963,
+        "rank": 26,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 111005,
+        "num": 111005,
+        "word": "TFBOYS前缀",
+        "onboard_time": 1751275222,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93593,
+        "num": 110196,
+        "word": "张雅钦说杨紫吃火锅都在对台词",
+        "onboard_time": 1751298442,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90739,
+        "num": 109798,
+        "word": "锦绣芳华热度",
+        "onboard_time": 1751291663,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109607,
+        "num": 109607,
+        "word": "父亲回应带儿子游41国英语零进步",
+        "onboard_time": 1751298982,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107121,
+        "num": 107121,
+        "word": "Angelababy的追星运是天花板级别",
+        "onboard_time": 1751300301,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92809,
+        "num": 92809,
+        "word": "女儿烫伤脸母亲维权未果致流产",
+        "onboard_time": 1751295565,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88226,
+        "num": 88226,
+        "word": "7月份十二星座注意事项",
+        "onboard_time": 1751294484,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88165,
+        "num": 88165,
+        "word": "大麦 退票",
+        "onboard_time": 1751284821,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 86178,
+        "num": 86178,
+        "word": "男子租冥币厂印假美金能过印钞机",
+        "onboard_time": 1751300062,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86135,
+        "num": 86135,
+        "word": "血泪是张小斐设计的",
+        "onboard_time": 1751295864,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 84561,
+        "num": 84561,
+        "word": "公积金结息能领几千元",
+        "onboard_time": 1751274681,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81056,
+        "num": 81056,
+        "word": "管乐 王皓",
+        "onboard_time": 1751269280,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77068,
+        "num": 77068,
+        "word": "王安宇 音乐节",
+        "onboard_time": 1751287823,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 75959,
+        "num": 75959,
+        "word": "郑钦文vs西尼亚科娃",
+        "onboard_time": 1751297424,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74577,
+        "num": 74577,
+        "word": "易烊千玺划进七月的绮梦",
+        "onboard_time": 1751296584,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74144,
+        "num": 74144,
+        "word": "附中一年级的刘浩存",
+        "onboard_time": 1751284102,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73904,
+        "num": 73904,
+        "word": "贾永婕5千买下小S二女儿画作",
+        "onboard_time": 1751294425,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72040,
+        "num": 72040,
+        "word": "李现带着蒋长扬BGM回来了",
+        "onboard_time": 1751298861,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71194,
+        "num": 71194,
+        "word": "腰部最喜欢的3个放松动作",
+        "onboard_time": 1751294963,
+        "rank": 45,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 70842,
+        "num": 70842,
+        "word": "以法之名16集",
+        "onboard_time": 1751300840,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68202,
+        "num": 68202,
+        "word": "幼儿园招老师工资分级最高不超3千",
+        "onboard_time": 1751287283,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66122,
+        "num": 66122,
+        "word": "李光洁问李人骏是傻白甜吗",
+        "onboard_time": 1751301140,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66041,
+        "num": 66041,
+        "word": "特朗普承认美国对中国做过很多事",
+        "onboard_time": 1751274081,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记向全国广大共产党员致以节日问候#"
+    }
+  }
+}
