@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751323457088,
+  "endTime": 1751325912243,
   "band_list": [
     {
       "raw_hot": 1110085,
@@ -43,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 629771,
+      "num": 629771,
+      "word": "金价大跌商家称不如上涨时卖得好",
+      "onboard_time": 1751297963,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 508410,
       "num": 304650,
       "word": "恋丑癖越来越多的原因好像找到了",
@@ -51,12 +59,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 449476,
-      "num": 449476,
-      "word": "金价大跌商家称不如上涨时卖得好",
-      "onboard_time": 1751297963,
-      "rank": 3,
-      "category": "民生新闻"
+      "raw_hot": 422574,
+      "num": 422574,
+      "word": "猝死前1个月身体的信号",
+      "onboard_time": 1751280561,
+      "rank": 6,
+      "category": "科学科普"
     },
     {
       "raw_hot": 417389,
@@ -65,14 +73,6 @@
       "onboard_time": 1751293704,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 408666,
-      "num": 408666,
-      "word": "猝死前1个月身体的信号",
-      "onboard_time": 1751280561,
-      "rank": 6,
-      "category": "科学科普"
     },
     {
       "raw_hot": 386910,
@@ -91,6 +91,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 361951,
+      "num": 361951,
+      "word": "上海动物园通报婴儿喝奶被赶",
+      "onboard_time": 1751298142,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 304444,
       "num": 304444,
       "word": "1997年7月1日0时0分0秒",
@@ -107,12 +115,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 266489,
-      "num": 266489,
-      "word": "上海动物园通报婴儿喝奶被赶",
-      "onboard_time": 1751298142,
-      "rank": 21,
-      "category": "民生新闻"
+      "raw_hot": 245403,
+      "num": 245403,
+      "word": "女子网购拉布布盲盒拆开仅剩6个裸娃",
+      "onboard_time": 1751298262,
+      "rank": 18,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 242103,
@@ -121,6 +129,14 @@
       "onboard_time": 1751288303,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211894,
+      "num": 211894,
+      "word": "父亲回应带儿子游41国英语零进步",
+      "onboard_time": 1751298982,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 211472,
@@ -139,14 +155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 204968,
-      "num": 204968,
-      "word": "女子网购拉布布盲盒拆开仅剩6个裸娃",
-      "onboard_time": 1751298262,
-      "rank": 18,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 194476,
       "num": 194476,
       "word": "张艺兴13岁就认识林俊杰了",
@@ -155,8 +163,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 172670,
-      "num": 172670,
+      "raw_hot": 173276,
+      "num": 173276,
       "word": "一人一句祝福伟大的党伟大的祖国",
       "onboard_time": 1751303178,
       "rank": 9,
@@ -179,11 +187,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 152746,
-      "num": 152746,
-      "word": "父亲回应带儿子游41国英语零进步",
-      "onboard_time": 1751298982,
-      "rank": 30,
+      "raw_hot": 144790,
+      "num": 193741,
+      "word": "男子租冥币厂印假美金能过印钞机",
+      "onboard_time": 1751300062,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 120311,
-      "num": 130042,
+      "num": 202123,
       "word": "晚晚直播卖卷发棒翻车",
       "onboard_time": 1751304617,
       "rank": 37,
@@ -219,11 +227,19 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 116530,
-      "num": 193741,
-      "word": "男子租冥币厂印假美金能过印钞机",
-      "onboard_time": 1751300062,
-      "rank": 35,
+      "raw_hot": 119303,
+      "num": 119303,
+      "word": "贾永婕5千买下小S二女儿画作",
+      "onboard_time": 1751294425,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 118817,
+      "num": 118817,
+      "word": "女儿烫伤脸母亲维权未果致流产",
+      "onboard_time": 1751295565,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -259,6 +275,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108946,
+      "num": 93387,
+      "word": "张本智和喊爸爸递衣服中文日语混用",
+      "onboard_time": 1751325618,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 101433,
+      "num": 200921,
+      "word": "刘畅不语只是一味骚扰何惟芳",
+      "onboard_time": 1751316854,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 95330,
+      "num": 95330,
+      "word": "原银行董事长400万迈凯伦89万被拍下",
+      "onboard_time": 1751282602,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93593,
       "num": 110196,
       "word": "张雅钦说杨紫吃火锅都在对台词",
@@ -267,20 +307,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 92809,
-      "num": 92809,
-      "word": "女儿烫伤脸母亲维权未果致流产",
-      "onboard_time": 1751295565,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 92614,
       "num": 313909,
       "word": "刘国梁想将女儿培养成大满贯运动员",
       "onboard_time": 1751296404,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90855,
+      "num": 90855,
+      "word": "特朗普承认美国对中国做过很多事",
+      "onboard_time": 1751274081,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 90739,
@@ -305,6 +345,14 @@
       "onboard_time": 1751284821,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 87119,
+      "num": 87119,
+      "word": "郑钦文vs西尼亚科娃",
+      "onboard_time": 1751297424,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 86135,
@@ -339,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83109,
+      "num": 83109,
+      "word": "她瘦三斤比我瘦30斤都明显",
+      "onboard_time": 1751277264,
+      "rank": 35,
+      "category": "幽默,运动健身"
+    },
+    {
       "raw_hot": 81056,
       "num": 81056,
       "word": "管乐 王皓",
@@ -347,11 +403,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 77122,
-      "num": 77122,
-      "word": "郑钦文vs西尼亚科娃",
-      "onboard_time": 1751297424,
-      "rank": 40,
+      "raw_hot": 80583,
+      "num": 80583,
+      "word": "NBA",
+      "onboard_time": 1751325438,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -371,14 +427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 75402,
-      "num": 75402,
-      "word": "原银行董事长400万迈凯伦89万被拍下",
-      "onboard_time": 1751282602,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 74577,
       "num": 74577,
       "word": "易烊千玺划进七月的绮梦",
@@ -387,12 +435,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 73904,
-      "num": 73904,
-      "word": "贾永婕5千买下小S二女儿画作",
-      "onboard_time": 1751294425,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 73973,
+      "num": 73973,
+      "word": "在台湾生活的混血儿最大的困扰",
+      "onboard_time": 1751322856,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 73627,
+      "num": 157989,
+      "word": "南珩不行他不能捐",
+      "onboard_time": 1751323696,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 72040,
@@ -435,12 +491,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 66041,
-      "num": 66041,
-      "word": "特朗普承认美国对中国做过很多事",
-      "onboard_time": 1751274081,
-      "rank": 49,
-      "category": "国际时政"
+      "raw_hot": 60932,
+      "num": 60932,
+      "word": "郑钦文温网首日比赛推迟至次日",
+      "onboard_time": 1751325318,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 60855,
@@ -451,6 +507,38 @@
       "category": "情感"
     },
     {
+      "raw_hot": 59766,
+      "num": 59766,
+      "word": "女子回家认出已故同学父亲摆摊卖瓜",
+      "onboard_time": 1751325499,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58185,
+      "num": 58185,
+      "word": "抑郁症躯体化的真实记录",
+      "onboard_time": 1751322796,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 56776,
+      "num": 56776,
+      "word": "多地解禁中华田园犬",
+      "onboard_time": 1751287702,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55205,
+      "num": 55205,
+      "word": "国际米兰0比2弗鲁米嫩塞",
+      "onboard_time": 1751325199,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 52321,
       "num": 53852,
       "word": "哪吒",
@@ -459,20 +547,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 51211,
-      "num": 98491,
-      "word": "刘畅不语只是一味骚扰何惟芳",
-      "onboard_time": 1751316854,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 48735,
       "num": 48735,
       "word": "断崖式分手后的真实状态",
       "onboard_time": 1751303778,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 45254,
+      "num": 60934,
+      "word": "杨紫回应刘诗诗",
+      "onboard_time": 1751284281,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 44025,
@@ -491,20 +579,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 38299,
-      "num": 43751,
-      "word": "多地解禁中华田园犬",
-      "onboard_time": 1751287702,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 37532,
       "num": 43738,
       "word": "张艺兴音乐人之间的默契合唱",
       "onboard_time": 1751303478,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 36959,
+      "num": 212303,
+      "word": "父母花50万带5岁儿子骑游41国",
+      "onboard_time": 1751325438,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36491,
@@ -523,28 +611,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 35478,
-      "num": 35478,
-      "word": "杨紫回应刘诗诗",
-      "onboard_time": 1751284281,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 31983,
       "num": 35231,
       "word": "2025上半年纪念短片",
       "onboard_time": 1751305037,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 31545,
-      "num": 32907,
-      "word": "抑郁症躯体化的真实记录",
-      "onboard_time": 1751322796,
-      "rank": 37,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 26752,
@@ -587,14 +659,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 24825,
-      "num": 32903,
-      "word": "在台湾生活的混血儿最大的困扰",
-      "onboard_time": 1751322856,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 24686,
       "num": 26946,
       "word": "钟青导演投喂鞠婧祎剧组",
@@ -633,6 +697,14 @@
       "onboard_time": 1751309294,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 21574,
+      "num": 506811,
+      "word": "中国科技创新主打一个脑洞大开",
+      "onboard_time": 1751294844,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 21567,
@@ -699,14 +771,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 15056,
-      "num": 336979,
-      "word": "中国科技创新主打一个脑洞大开",
-      "onboard_time": 1751294844,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 14101,
       "num": 16560,
       "word": "我不是天才吗",
@@ -721,6 +785,14 @@
       "onboard_time": 1751306895,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 13803,
+      "num": 121941,
+      "word": "萨巴伦卡温网首战告捷",
+      "onboard_time": 1751324958,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 13299,
