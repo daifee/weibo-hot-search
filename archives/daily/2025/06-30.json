@@ -1,6 +1,6 @@
 {
   "startTime": 1751214634143,
-  "endTime": 1751282593801,
+  "endTime": 1751283592381,
   "band_list": [
     {
       "raw_hot": 3137017,
@@ -203,6 +203,14 @@
       "category": "数码,民生新闻"
     },
     {
+      "raw_hot": 891487,
+      "num": 891487,
+      "word": "猝死前1个月身体的信号",
+      "onboard_time": 1751280561,
+      "rank": 3,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 877590,
       "num": 877590,
       "word": "邓超微博 作品孙俪孩子鹿晗",
@@ -267,12 +275,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 706053,
-      "num": 706053,
-      "word": "猝死前1个月身体的信号",
-      "onboard_time": 1751280561,
-      "rank": 3,
-      "category": "科学科普"
+      "raw_hot": 650592,
+      "num": 298207,
+      "word": "韩安冉曝小猪妹被饿一整天",
+      "onboard_time": 1751282242,
+      "rank": 24,
+      "category": "网红"
     },
     {
       "raw_hot": 639692,
@@ -427,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 474067,
+      "num": 474067,
+      "word": "烟草造成经济损失约9000亿",
+      "onboard_time": 1751279360,
+      "rank": 30,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 471010,
       "num": 471010,
       "word": "惠英红抑郁破产后如何重生",
@@ -449,14 +465,6 @@
       "onboard_time": 1751259143,
       "rank": 43,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 446262,
-      "num": 446262,
-      "word": "烟草造成经济损失约9000亿",
-      "onboard_time": 1751279360,
-      "rank": 30,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 435965,
@@ -539,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 371336,
+      "num": 371336,
+      "word": "网购内裤 退换",
+      "onboard_time": 1751279063,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 371056,
       "num": 371056,
       "word": "六月初六遇上上半年最后一天",
@@ -561,6 +577,14 @@
       "onboard_time": 1751235735,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 341854,
+      "num": 244704,
+      "word": "认不出这是李准基",
+      "onboard_time": 1751282421,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 335725,
@@ -731,12 +755,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 276012,
-      "num": 276012,
-      "word": "网购内裤 退换",
-      "onboard_time": 1751279063,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 272732,
+      "num": 272732,
+      "word": "孙恩盛停播",
+      "onboard_time": 1751282541,
+      "rank": 47,
+      "category": "网红"
     },
     {
       "raw_hot": 271986,
@@ -769,6 +793,14 @@
       "onboard_time": 1751262741,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 267353,
+      "num": 267353,
+      "word": "杨紫 扛招商",
+      "onboard_time": 1751282482,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 266197,
@@ -865,6 +897,14 @@
       "onboard_time": 1751206524,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 242623,
+      "num": 242623,
+      "word": "朝雪录定档",
+      "onboard_time": 1751281523,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 242029,
@@ -971,12 +1011,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 213214,
-      "num": 213214,
-      "word": "韩安冉曝小猪妹被饿一整天",
-      "onboard_time": 1751282242,
-      "rank": 24,
-      "category": "网红"
+      "raw_hot": 213731,
+      "num": 213731,
+      "word": "黄绮珊回应蔡徐坤",
+      "onboard_time": 1751283142,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 213201,
@@ -985,14 +1025,6 @@
       "onboard_time": 1751271442,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 212589,
-      "num": 212589,
-      "word": "朝雪录定档",
-      "onboard_time": 1751281523,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 210633,
@@ -1107,6 +1139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196062,
+      "num": 196062,
+      "word": "原银行董事长400万迈凯伦89万被拍下",
+      "onboard_time": 1751282602,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 195593,
       "num": 195593,
       "word": "二旬老人躺床上看八旬小美女玩双杠",
@@ -1193,6 +1233,14 @@
       "onboard_time": 1751265503,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187707,
+      "num": 187707,
+      "word": "我的阿勒泰清库存了",
+      "onboard_time": 1751282663,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 186365,
@@ -1363,12 +1411,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175289,
+      "num": 175289,
+      "word": "50岁小李子携27岁女友参加婚礼",
+      "onboard_time": 1751281103,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174581,
       "num": 174581,
       "word": "恋与制作人",
       "onboard_time": 1751260882,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 174466,
+      "num": 174466,
+      "word": "爷爷女友带走2岁孙子抛弃只为泄愤",
+      "onboard_time": 1751281523,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172847,
@@ -1411,14 +1475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 170409,
-      "num": 170409,
-      "word": "50岁小李子携27岁女友参加婚礼",
-      "onboard_time": 1751281103,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 169427,
       "num": 169427,
       "word": "16岁学生和父亲争吵后手变鸡爪",
@@ -1433,14 +1489,6 @@
       "onboard_time": 1751270962,
       "rank": 29,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 168265,
-      "num": 168265,
-      "word": "爷爷女友带走2岁孙子抛弃只为泄愤",
-      "onboard_time": 1751281523,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 167444,
@@ -1587,14 +1635,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 154760,
-      "num": 154760,
-      "word": "认不出这是李准基",
-      "onboard_time": 1751282421,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 153972,
       "num": 153972,
       "word": "MSI八强确定",
@@ -1675,12 +1715,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 145608,
-      "num": 145608,
-      "word": "杨紫 扛招商",
+      "raw_hot": 145331,
+      "num": 145331,
+      "word": "不发朋友圈的人是什么性格",
       "onboard_time": 1751282482,
-      "rank": 42,
-      "category": "剧集"
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 145042,
@@ -1713,6 +1753,14 @@
       "onboard_time": 1751233814,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144763,
+      "num": 144763,
+      "word": "荔枝排名",
+      "onboard_time": 1751277921,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 142064,
@@ -1979,14 +2027,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 123775,
-      "num": 123775,
-      "word": "孙恩盛停播",
-      "onboard_time": 1751282541,
-      "rank": 47,
-      "category": "网红"
-    },
-    {
       "raw_hot": 123709,
       "num": 438597,
       "word": "虐猫考生考察若不合格将不予录取",
@@ -2051,14 +2091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 120457,
-      "num": 120457,
-      "word": "荔枝排名",
-      "onboard_time": 1751277921,
-      "rank": 40,
-      "category": "美食"
-    },
-    {
       "raw_hot": 119996,
       "num": 119996,
       "word": "姜云升小作文",
@@ -2081,6 +2113,14 @@
       "onboard_time": 1751281103,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118953,
+      "num": 118953,
+      "word": "魏哲鸣别掐刘畅掐我",
+      "onboard_time": 1751283562,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 118619,
@@ -2204,7 +2244,7 @@
     },
     {
       "raw_hot": 111734,
-      "num": 116689,
+      "num": 118525,
       "word": "5000多年前山东大汉身高1米9",
       "onboard_time": 1751275644,
       "rank": 46,
@@ -2403,6 +2443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89653,
+      "num": 242676,
+      "word": "苏超有可能替代中超",
+      "onboard_time": 1751283201,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89510,
       "num": 89510,
       "word": "育儿嫂使劲摇晃6个月婴儿疑泄愤",
@@ -2451,6 +2499,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 83045,
+      "num": 144785,
+      "word": "用小米平板画出玄戒O1芯片",
+      "onboard_time": 1751283501,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 81673,
       "num": 81673,
       "word": "李莎旻子一语道出李嘉格的委屈",
@@ -2465,6 +2521,14 @@
       "onboard_time": 1751245702,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 80135,
+      "num": 196903,
+      "word": "内娱初代群像",
+      "onboard_time": 1751283382,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 79236,
@@ -2489,6 +2553,14 @@
       "onboard_time": 1751214859,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 76760,
+      "num": 263981,
+      "word": "2025广州中考今日开考",
+      "onboard_time": 1751283262,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76355,
@@ -2537,6 +2609,14 @@
       "onboard_time": 1751279842,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 71676,
+      "num": 412472,
+      "word": "苏超连赞助商都是散装的",
+      "onboard_time": 1751281282,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 69701,
@@ -2769,14 +2849,6 @@
       "onboard_time": 1751239939,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 43505,
-      "num": 412472,
-      "word": "苏超连赞助商都是散装的",
-      "onboard_time": 1751281282,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 42573,
@@ -3027,6 +3099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24253,
+      "num": 254086,
+      "word": "查户籍档案发现母亲被登记成婶婶",
+      "onboard_time": 1751282541,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23432,
       "num": 23310,
       "word": "汪苏泷坠入首唱",
@@ -3113,14 +3193,6 @@
       "onboard_time": 1751213601,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 14567,
-      "num": 145677,
-      "word": "查户籍档案发现母亲被登记成婶婶",
-      "onboard_time": 1751282541,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13815,

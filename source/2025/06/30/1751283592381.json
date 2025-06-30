@@ -1,0 +1,410 @@
+{
+  "runTime": 1751283592381,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2150646,
+        "num": 2150646,
+        "word": "中华田园犬 禁养",
+        "onboard_time": 1751276424,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1906729,
+        "num": 1906729,
+        "word": "明天你的公积金账户将多一笔钱",
+        "onboard_time": 1751279121,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35056,
+        "num": 1202764,
+        "word": "数读国货如何征服全球味蕾",
+        "onboard_time": 1751277803,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 891487,
+        "num": 891487,
+        "word": "猝死前1个月身体的信号",
+        "onboard_time": 1751280561,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 474067,
+        "num": 474067,
+        "word": "烟草造成经济损失约9000亿",
+        "onboard_time": 1751279360,
+        "rank": 4,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 371336,
+        "num": 371336,
+        "word": "网购内裤 退换",
+        "onboard_time": 1751279063,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362121,
+        "num": 362121,
+        "word": "多家车企愿为YU7退订用户补定金",
+        "onboard_time": 1751279783,
+        "rank": 6,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 339247,
+        "num": 339247,
+        "word": "锦绣芳华开局14广",
+        "onboard_time": 1751279184,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 337989,
+        "num": 337989,
+        "word": "特朗普承认美国对中国做过很多事",
+        "onboard_time": 1751274081,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 424031,
+        "num": 316785,
+        "word": "陈都灵回应",
+        "onboard_time": 1751276183,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1416028,
+        "num": 307687,
+        "word": "鹿晗屏保",
+        "onboard_time": 1751273602,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 650592,
+        "num": 298207,
+        "word": "韩安冉曝小猪妹被饿一整天",
+        "onboard_time": 1751282242,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 272732,
+        "num": 272732,
+        "word": "孙恩盛停播",
+        "onboard_time": 1751282541,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 267353,
+        "num": 267353,
+        "word": "杨紫 扛招商",
+        "onboard_time": 1751282482,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71676,
+        "num": 265125,
+        "word": "苏超连赞助商都是散装的",
+        "onboard_time": 1751281282,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76760,
+        "num": 263981,
+        "word": "2025广州中考今日开考",
+        "onboard_time": 1751283262,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 448697,
+        "num": 260699,
+        "word": "新房挖出男性尸骨当事女子发声",
+        "onboard_time": 1751268982,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38056,
+        "num": 257391,
+        "word": "胡兵官宣首个百张时尚面孔马瑞",
+        "onboard_time": 1751281883,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 113787,
+        "num": 254791,
+        "word": "金灿荣对谈郭炜炜",
+        "onboard_time": 1751282122,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 24253,
+        "num": 254086,
+        "word": "查户籍档案发现母亲被登记成婶婶",
+        "onboard_time": 1751282541,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 458391,
+        "num": 249106,
+        "word": "管乐 王皓",
+        "onboard_time": 1751269280,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412575,
+        "num": 248885,
+        "word": "TFBOYS前缀",
+        "onboard_time": 1751275222,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341854,
+        "num": 244704,
+        "word": "认不出这是李准基",
+        "onboard_time": 1751282421,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243714,
+        "num": 243714,
+        "word": "邓恩熙 林黛玉",
+        "onboard_time": 1751281282,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89653,
+        "num": 242676,
+        "word": "苏超有可能替代中超",
+        "onboard_time": 1751283201,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242623,
+        "num": 242623,
+        "word": "朝雪录定档",
+        "onboard_time": 1751281523,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213731,
+        "num": 213731,
+        "word": "黄绮珊回应蔡徐坤",
+        "onboard_time": 1751283142,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199983,
+        "num": 199983,
+        "word": "锦绣芳华",
+        "onboard_time": 1751278282,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308564,
+        "num": 198286,
+        "word": "她瘦三斤比我瘦30斤都明显",
+        "onboard_time": 1751277264,
+        "rank": 28,
+        "category": "幽默,运动健身"
+      },
+      {
+        "raw_hot": 80135,
+        "num": 196903,
+        "word": "内娱初代群像",
+        "onboard_time": 1751283382,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286491,
+        "num": 196499,
+        "word": "医生拿我痔疮参赛得奖了",
+        "onboard_time": 1751276844,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196062,
+        "num": 196062,
+        "word": "原银行董事长400万迈凯伦89万被拍下",
+        "onboard_time": 1751282602,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187707,
+        "num": 187707,
+        "word": "我的阿勒泰清库存了",
+        "onboard_time": 1751282663,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175289,
+        "num": 175289,
+        "word": "50岁小李子携27岁女友参加婚礼",
+        "onboard_time": 1751281103,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174466,
+        "num": 174466,
+        "word": "爷爷女友带走2岁孙子抛弃只为泄愤",
+        "onboard_time": 1751281523,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174261,
+        "num": 174261,
+        "word": "中方回应是否会邀特朗普参加阅兵",
+        "onboard_time": 1751273542,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 173115,
+        "num": 173115,
+        "word": "枭起青壤",
+        "onboard_time": 1751282002,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158010,
+        "num": 158010,
+        "word": "公积金结息能领几千元",
+        "onboard_time": 1751274681,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145331,
+        "num": 145331,
+        "word": "不发朋友圈的人是什么性格",
+        "onboard_time": 1751282482,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22699,
+        "num": 144838,
+        "word": "久酷街头艺术大片",
+        "onboard_time": 1751282182,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 83045,
+        "num": 144785,
+        "word": "用小米平板画出玄戒O1芯片",
+        "onboard_time": 1751283501,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 144763,
+        "num": 144763,
+        "word": "荔枝排名",
+        "onboard_time": 1751277921,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 143847,
+        "num": 143847,
+        "word": "35天饿瘦35斤的全身变化",
+        "onboard_time": 1751281822,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140386,
+        "num": 140386,
+        "word": "韩国首尔爱情虫爆发",
+        "onboard_time": 1751258302,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 123425,
+        "num": 123425,
+        "word": "哪吒2终票房154.4亿",
+        "onboard_time": 1751279904,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118953,
+        "num": 118953,
+        "word": "魏哲鸣别掐刘畅掐我",
+        "onboard_time": 1751283562,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88236,
+        "num": 118525,
+        "word": "5000多年前山东大汉身高1米9",
+        "onboard_time": 1751275644,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118514,
+        "num": 118514,
+        "word": "董卿眼睛出现状况",
+        "onboard_time": 1751269042,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118363,
+        "num": 118363,
+        "word": "时代少年团大连不选座",
+        "onboard_time": 1751274322,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115498,
+        "num": 115498,
+        "word": "暑假第一部高颜值古装剧来了",
+        "onboard_time": 1751279602,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局6月30日召开会议#"
+    }
+  }
+}
