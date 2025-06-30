@@ -1,10 +1,10 @@
 {
   "startTime": 1751214634143,
-  "endTime": 1751283592381,
+  "endTime": 1751288052850,
   "band_list": [
     {
       "raw_hot": 3137017,
-      "num": 418599,
+      "num": 426311,
       "word": "鹿晗屏保",
       "onboard_time": 1751273602,
       "rank": 10,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1142145,
+      "num": 1142145,
+      "word": "人人视频崩了",
+      "onboard_time": 1751285722,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1135383,
       "num": 485982,
       "word": "本升专",
@@ -259,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 733444,
+      "num": 733444,
+      "word": "大麦 退票",
+      "onboard_time": 1751284821,
+      "rank": 4,
+      "category": "演出"
+    },
+    {
       "raw_hot": 733026,
       "num": 733026,
       "word": "中国共产党党员总数为10027.1万名",
@@ -276,7 +292,7 @@
     },
     {
       "raw_hot": 650592,
-      "num": 298207,
+      "num": 384648,
       "word": "韩安冉曝小猪妹被饿一整天",
       "onboard_time": 1751282242,
       "rank": 24,
@@ -299,12 +315,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 602884,
+      "num": 407213,
+      "word": "认不出这是李准基",
+      "onboard_time": 1751282421,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 596698,
       "num": 596698,
       "word": "金价",
       "onboard_time": 1751248641,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 581758,
+      "num": 581758,
+      "word": "爷爷女友带走2岁孙子抛弃只为泄愤",
+      "onboard_time": 1751281523,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 563150,
@@ -329,6 +361,14 @@
       "onboard_time": 1751279184,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 540929,
+      "num": 540929,
+      "word": "原银行董事长400万迈凯伦89万被拍下",
+      "onboard_time": 1751282602,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 533585,
@@ -411,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 479482,
+      "num": 479482,
+      "word": "杨紫回应刘诗诗",
+      "onboard_time": 1751284281,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 478208,
       "num": 443865,
       "word": "柴六斤",
@@ -489,6 +537,14 @@
       "onboard_time": 1751255841,
       "rank": 47,
       "category": "科学科普,健康医疗"
+    },
+    {
+      "raw_hot": 426693,
+      "num": 426693,
+      "word": "孙恩盛停播",
+      "onboard_time": 1751282541,
+      "rank": 47,
+      "category": "网红"
     },
     {
       "raw_hot": 425611,
@@ -577,14 +633,6 @@
       "onboard_time": 1751235735,
       "rank": 13,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 341854,
-      "num": 244704,
-      "word": "认不出这是李准基",
-      "onboard_time": 1751282421,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 335725,
@@ -747,20 +795,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 276436,
+      "num": 282303,
+      "word": "杨紫 扛招商",
+      "onboard_time": 1751282482,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 276372,
       "num": 246564,
       "word": "鹿晗抢票",
       "onboard_time": 1751193201,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 272732,
-      "num": 272732,
-      "word": "孙恩盛停播",
-      "onboard_time": 1751282541,
-      "rank": 47,
-      "category": "网红"
     },
     {
       "raw_hot": 271986,
@@ -779,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 268854,
+      "num": 280630,
+      "word": "鹿晗西安抢票",
+      "onboard_time": 1751283921,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 267715,
       "num": 267715,
       "word": "崔胜铉生图状态",
@@ -793,14 +849,6 @@
       "onboard_time": 1751262741,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 267353,
-      "num": 267353,
-      "word": "杨紫 扛招商",
-      "onboard_time": 1751282482,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 266197,
@@ -825,6 +873,14 @@
       "onboard_time": 1751265802,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 258613,
+      "num": 258613,
+      "word": "陈芋汐撕拉片",
+      "onboard_time": 1751286564,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 258030,
@@ -1099,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201407,
+      "num": 201407,
+      "word": "不发朋友圈的人是什么性格",
+      "onboard_time": 1751282482,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 199103,
       "num": 199103,
       "word": "万茜秦俊杰给短剧上强度了",
@@ -1137,14 +1201,6 @@
       "onboard_time": 1751260821,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 196062,
-      "num": 196062,
-      "word": "原银行董事长400万迈凯伦89万被拍下",
-      "onboard_time": 1751282602,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 195593,
@@ -1251,6 +1307,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 185753,
+      "num": 185753,
+      "word": "短剧男主角累到恶心呕吐",
+      "onboard_time": 1751284642,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 185592,
       "num": 185592,
       "word": "多邻国猫头鹰官宣结婚",
@@ -1291,6 +1355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 184043,
+      "num": 184043,
+      "word": "王安宇 音乐节",
+      "onboard_time": 1751287823,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 183770,
       "num": 183770,
       "word": "挪威王储继子性侵案受害人达两位数",
@@ -1313,6 +1385,14 @@
       "onboard_time": 1751205683,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183085,
+      "num": 183085,
+      "word": "附中一年级的刘浩存",
+      "onboard_time": 1751284102,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 182956,
@@ -1427,14 +1507,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 174466,
-      "num": 174466,
-      "word": "爷爷女友带走2岁孙子抛弃只为泄愤",
-      "onboard_time": 1751281523,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 172847,
       "num": 172847,
       "word": "李艾录综艺拼上46年的老命",
@@ -1515,6 +1587,14 @@
       "category": "民生新闻,旅游"
     },
     {
+      "raw_hot": 164832,
+      "num": 164832,
+      "word": "李宇春回应当年拒绝代言锤子手机",
+      "onboard_time": 1751286685,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164691,
       "num": 164691,
       "word": "特朗普说这是个肮脏的世界",
@@ -1561,6 +1641,14 @@
       "onboard_time": 1751271682,
       "rank": 18,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 162046,
+      "num": 162046,
+      "word": "幼儿园招老师工资分级最高不超3千",
+      "onboard_time": 1751287283,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161992,
@@ -1635,6 +1723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 154820,
+      "num": 154820,
+      "word": "尊界S800",
+      "onboard_time": 1751287283,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 153972,
       "num": 153972,
       "word": "MSI八强确定",
@@ -1673,6 +1769,14 @@
       "onboard_time": 1751281582,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151228,
+      "num": 151228,
+      "word": "副教授被精神病杀害未能认定为工亡",
+      "onboard_time": 1751286083,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148838,
@@ -1715,14 +1819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 145331,
-      "num": 145331,
-      "word": "不发朋友圈的人是什么性格",
-      "onboard_time": 1751282482,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 145042,
       "num": 145042,
       "word": "书卷一梦",
@@ -1737,6 +1833,14 @@
       "onboard_time": 1751268081,
       "rank": 19,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 144960,
+      "num": 144960,
+      "word": "理工男的死嘴不会说但会亲啊",
+      "onboard_time": 1751286923,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 144901,
@@ -1816,6 +1920,14 @@
       "word": "鹿晗邓超一起吃饭",
       "onboard_time": 1751241019,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 139218,
+      "num": 139218,
+      "word": "李准基 无毛猫",
+      "onboard_time": 1751285964,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -1915,6 +2027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131824,
+      "num": 131824,
+      "word": "沈梦辰新剧头饰比头都大",
+      "onboard_time": 1751287881,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131669,
       "num": 131669,
       "word": "金饰克价半月大跌超50元",
@@ -1929,6 +2049,14 @@
       "onboard_time": 1751201962,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131178,
+      "num": 131178,
+      "word": "西安彩虹",
+      "onboard_time": 1751285242,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130658,
@@ -1963,12 +2091,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127673,
+      "num": 127673,
+      "word": "以法之名",
+      "onboard_time": 1751238738,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127283,
       "num": 127283,
       "word": "有条件恢复日本部分地区水产品进口",
       "onboard_time": 1751205383,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126539,
+      "num": 196903,
+      "word": "内娱初代群像",
+      "onboard_time": 1751283382,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 126355,
@@ -2041,6 +2185,14 @@
       "onboard_time": 1751278581,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 123032,
+      "num": 123032,
+      "word": "谢霆锋是给蝴蝶催眠了吗",
+      "onboard_time": 1751288002,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 122624,
@@ -2403,6 +2555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95170,
+      "num": 135520,
+      "word": "解限机外网好评如潮",
+      "onboard_time": 1751287403,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 94883,
       "num": 94883,
       "word": "特朗普支持率跌至新低",
@@ -2523,14 +2683,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 80135,
-      "num": 196903,
-      "word": "内娱初代群像",
-      "onboard_time": 1751283382,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 79236,
       "num": 79236,
       "word": "假舞蹈培训机构打擦边球规避监管",
@@ -2569,6 +2721,14 @@
       "onboard_time": 1751238978,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75745,
+      "num": 123671,
+      "word": "辽宁舰山东舰航母编队训练现场",
+      "onboard_time": 1751276965,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 75479,
@@ -2747,14 +2907,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 55154,
-      "num": 55154,
-      "word": "以法之名",
-      "onboard_time": 1751238738,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 54911,
       "num": 129740,
       "word": "为何郑工商的宝玉石专业成香饽饽",
@@ -2809,6 +2961,14 @@
       "onboard_time": 1751217798,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 46732,
+      "num": 132517,
+      "word": "袁悦vs利斯",
+      "onboard_time": 1751287945,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 45473,
@@ -2873,6 +3033,14 @@
       "onboard_time": 1751214978,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 38913,
+      "num": 136602,
+      "word": "巴西游客坠入印尼火山",
+      "onboard_time": 1751287103,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 36906,
@@ -2953,6 +3121,14 @@
       "onboard_time": 1751269280,
       "rank": 31,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 31261,
+      "num": 123231,
+      "word": "陈梦分享录制综艺趣事",
+      "onboard_time": 1751286623,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 30710,
@@ -3043,6 +3219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27750,
+      "num": 280222,
+      "word": "日市长因教师偷拍女童被质询时晕倒",
+      "onboard_time": 1751287342,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 27460,
       "num": 166776,
       "word": "退学北大上清华男生回应开直播",
@@ -3104,6 +3288,14 @@
       "word": "查户籍档案发现母亲被登记成婶婶",
       "onboard_time": 1751282541,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24126,
+      "num": 399874,
+      "word": "多地解禁中华田园犬",
+      "onboard_time": 1751287702,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
