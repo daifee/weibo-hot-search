@@ -1,0 +1,410 @@
+{
+  "runTime": 1751250773065,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1551877,
+        "num": 1551877,
+        "word": "虐猫犯上岸事业编",
+        "onboard_time": 1751248581,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 799105,
+        "num": 799105,
+        "word": "重庆一区委书记带头下馆子",
+        "onboard_time": 1751247800,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28029,
+        "num": 661881,
+        "word": "解锁首发经济花样消费场景",
+        "onboard_time": 1751210123,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1003606,
+        "num": 657720,
+        "word": "外卖员遇关门杀物业被判赔21万",
+        "onboard_time": 1751243901,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 643451,
+        "num": 643451,
+        "word": "哪吒2下映",
+        "onboard_time": 1751250081,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 547322,
+        "num": 547322,
+        "word": "金价",
+        "onboard_time": 1751248641,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 532572,
+        "num": 532572,
+        "word": "邓超回应和鹿晗吃饭",
+        "onboard_time": 1751238857,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391581,
+        "num": 391581,
+        "word": "国外生产的充电宝不检查3C标志",
+        "onboard_time": 1751246000,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336976,
+        "num": 336976,
+        "word": "六月初六遇上上半年最后一天",
+        "onboard_time": 1751244320,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326140,
+        "num": 326140,
+        "word": "阿娇说减肥真的不容易",
+        "onboard_time": 1751247560,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301076,
+        "num": 301076,
+        "word": "师洋",
+        "onboard_time": 1751243602,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293000,
+        "num": 293000,
+        "word": "10月龄婴儿在展馆内喝奶瓶被赶出",
+        "onboard_time": 1751214200,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275060,
+        "num": 275060,
+        "word": "林俊杰回复马龙",
+        "onboard_time": 1751249422,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 271745,
+        "num": 271745,
+        "word": "孟子义曾因为太漂亮失去角色",
+        "onboard_time": 1751238679,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269843,
+        "num": 269843,
+        "word": "行程图",
+        "onboard_time": 1751249841,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255323,
+        "num": 255323,
+        "word": "上半年有温度的小作文",
+        "onboard_time": 1751244920,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239801,
+        "num": 239801,
+        "word": "局地超40摄氏度高温天要来了",
+        "onboard_time": 1751246000,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233683,
+        "num": 233683,
+        "word": "剖腹产第一次下床的真实状态",
+        "onboard_time": 1751242281,
+        "rank": 17,
+        "category": "母婴育儿,民生新闻"
+      },
+      {
+        "raw_hot": 182071,
+        "num": 182071,
+        "word": "人社局回应虐猫考生进入考察公示",
+        "onboard_time": 1751250441,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179916,
+        "num": 179916,
+        "word": "MSI",
+        "onboard_time": 1751249599,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 354451,
+        "num": 179410,
+        "word": "刘国梁女儿斩获重要冠军",
+        "onboard_time": 1751249422,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254262,
+        "num": 179137,
+        "word": "5岁女童泡温泉后被确诊感染食脑虫",
+        "onboard_time": 1751249180,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247418,
+        "num": 178777,
+        "word": "白玉兰组委会疑似回应刘亦菲没去",
+        "onboard_time": 1751208143,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177785,
+        "num": 177785,
+        "word": "建议大家不要放弃记录自己",
+        "onboard_time": 1751249180,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105937,
+        "num": 172521,
+        "word": "绿豆汤别再冰着喝了",
+        "onboard_time": 1751244442,
+        "rank": 24,
+        "category": "美食,健康医疗"
+      },
+      {
+        "raw_hot": 172405,
+        "num": 172405,
+        "word": "TFBOYS十年保密协议到期",
+        "onboard_time": 1751201722,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169822,
+        "num": 169822,
+        "word": "爷爷跑遍3条街给我买了8块钱的labubu",
+        "onboard_time": 1751242461,
+        "rank": 26,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 154597,
+        "num": 154597,
+        "word": "歼20紧急升空处置逼退外军机",
+        "onboard_time": 1751238679,
+        "rank": 27,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 142194,
+        "num": 142194,
+        "word": "让小腿越来越粗的3种鞋",
+        "onboard_time": 1751203223,
+        "rank": 28,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 117683,
+        "num": 135229,
+        "word": "舒淇说好喜欢宋佳的得奖感言",
+        "onboard_time": 1751242281,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134365,
+        "num": 134365,
+        "word": "真的建议床单被套一周换洗一次",
+        "onboard_time": 1751248821,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 34496,
+        "num": 128861,
+        "word": "美参议院花16小时宣读大而美法案",
+        "onboard_time": 1751250681,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126679,
+        "num": 126679,
+        "word": "MSI淘汰赛抽签",
+        "onboard_time": 1751246361,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118448,
+        "num": 118448,
+        "word": "鹿晗邓超一起吃饭",
+        "onboard_time": 1751241019,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115175,
+        "num": 115175,
+        "word": "老婆只喜欢我小号怎么办",
+        "onboard_time": 1751206883,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114640,
+        "num": 114640,
+        "word": "男子漂流捡到条大鱼紧紧抱住",
+        "onboard_time": 1751248700,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104310,
+        "num": 104310,
+        "word": "杨幂挂了labubu",
+        "onboard_time": 1751207182,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 101467,
+        "num": 101467,
+        "word": "惠英红抑郁破产后如何重生",
+        "onboard_time": 1751208922,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100449,
+        "num": 100449,
+        "word": "7月起这些新规将影响你我",
+        "onboard_time": 1751249422,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35717,
+        "num": 98802,
+        "word": "黄雅琼毕业九宫格",
+        "onboard_time": 1751250260,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16625,
+        "num": 98555,
+        "word": "佩通坦向泰王提交新内阁名单",
+        "onboard_time": 1751250740,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 98479,
+        "num": 98479,
+        "word": "特朗普最新民调支持率公布",
+        "onboard_time": 1751246901,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97389,
+        "num": 97389,
+        "word": "医美速成第1天捡起针就干",
+        "onboard_time": 1751249180,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25731,
+        "num": 96484,
+        "word": "泰国推出安全旅行印章",
+        "onboard_time": 1751250740,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 95866,
+        "num": 95866,
+        "word": "再见了2025上半年",
+        "onboard_time": 1751241200,
+        "rank": 44,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 95056,
+        "num": 95056,
+        "word": "美消防员扑山火时遭袭",
+        "onboard_time": 1751245161,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 93087,
+        "num": 93087,
+        "word": "伊朗要求认定以美为侵略方",
+        "onboard_time": 1751247140,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 86553,
+        "num": 86553,
+        "word": "印度三男子强奸法学院女生被拘4天",
+        "onboard_time": 1751202384,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 85085,
+        "num": 85085,
+        "word": "单身税",
+        "onboard_time": 1751183842,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 83821,
+        "num": 83821,
+        "word": "四川暴雨2.9万人提前转移",
+        "onboard_time": 1751250740,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平称这个英雄事迹震撼人心#"
+    }
+  }
+}

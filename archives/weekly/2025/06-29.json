@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751249319622,
+  "endTime": 1751250773065,
   "band_list": [
     {
       "raw_hot": 3569605,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1551877,
+      "num": 1551877,
+      "word": "虐猫犯上岸事业编",
+      "onboard_time": 1751248581,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1477036,
       "num": 326146,
       "word": "关晓彤 鹿晗",
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 1435893,
-      "num": 554909,
+      "num": 657720,
       "word": "外卖员遇关门杀物业被判赔21万",
       "onboard_time": 1751243901,
       "rank": 3,
@@ -395,6 +403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 643451,
+      "num": 643451,
+      "word": "哪吒2下映",
+      "onboard_time": 1751250081,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 630953,
       "num": 586456,
       "word": "TF四代舞台投票",
@@ -465,6 +481,14 @@
       "onboard_time": 1751175322,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 547322,
+      "num": 547322,
+      "word": "金价",
+      "onboard_time": 1751248641,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 537869,
@@ -548,7 +572,7 @@
     },
     {
       "raw_hot": 477275,
-      "num": 285906,
+      "num": 301076,
       "word": "师洋",
       "onboard_time": 1751243602,
       "rank": 10,
@@ -740,7 +764,7 @@
     },
     {
       "raw_hot": 380171,
-      "num": 279335,
+      "num": 326140,
       "word": "阿娇说减肥真的不容易",
       "onboard_time": 1751247560,
       "rank": 11,
@@ -769,14 +793,6 @@
       "onboard_time": 1751166260,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 367292,
-      "num": 367292,
-      "word": "虐猫犯上岸事业编",
-      "onboard_time": 1751248581,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 366427,
@@ -809,6 +825,14 @@
       "onboard_time": 1751207962,
       "rank": 45,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 354451,
+      "num": 179410,
+      "word": "刘国梁女儿斩获重要冠军",
+      "onboard_time": 1751249422,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 353558,
@@ -857,6 +881,14 @@
       "onboard_time": 1751155699,
       "rank": 8,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 336976,
+      "num": 336976,
+      "word": "六月初六遇上上半年最后一天",
+      "onboard_time": 1751244320,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 335725,
@@ -977,14 +1009,6 @@
       "onboard_time": 1751205084,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 309448,
-      "num": 309448,
-      "word": "六月初六遇上上半年最后一天",
-      "onboard_time": 1751244320,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 307275,
@@ -1171,6 +1195,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 275060,
+      "num": 275060,
+      "word": "林俊杰回复马龙",
+      "onboard_time": 1751249422,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 271446,
       "num": 271446,
       "word": "小猫被主人亲完后装死",
@@ -1185,6 +1217,14 @@
       "onboard_time": 1751184141,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 269843,
+      "num": 269843,
+      "word": "行程图",
+      "onboard_time": 1751249841,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 269065,
@@ -1235,11 +1275,27 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 255323,
+      "num": 255323,
+      "word": "上半年有温度的小作文",
+      "onboard_time": 1751244920,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 255170,
       "num": 370051,
       "word": "医美培训老师宣称我们都没证",
       "onboard_time": 1751175261,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 254262,
+      "num": 179137,
+      "word": "5岁女童泡温泉后被确诊感染食脑虫",
+      "onboard_time": 1751249180,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -1323,6 +1379,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 233683,
+      "num": 233683,
+      "word": "剖腹产第一次下床的真实状态",
+      "onboard_time": 1751242281,
+      "rank": 14,
+      "category": "母婴育儿,民生新闻"
+    },
+    {
       "raw_hot": 231903,
       "num": 186045,
       "word": "沈月刘亦菲美女果然爱看美女",
@@ -1401,14 +1465,6 @@
       "onboard_time": 1751182282,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 216824,
-      "num": 216824,
-      "word": "剖腹产第一次下床的真实状态",
-      "onboard_time": 1751242281,
-      "rank": 14,
-      "category": "母婴育儿,民生新闻"
     },
     {
       "raw_hot": 216601,
@@ -1723,14 +1779,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 188950,
-      "num": 188950,
-      "word": "上半年有温度的小作文",
-      "onboard_time": 1751244920,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 188790,
       "num": 188790,
       "word": "特朗普称加拿大非常恶劣",
@@ -1827,6 +1875,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 182071,
+      "num": 182071,
+      "word": "人社局回应虐猫考生进入考察公示",
+      "onboard_time": 1751250441,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181844,
       "num": 181844,
       "word": "未知的首尔",
@@ -1843,6 +1899,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 179916,
+      "num": 179916,
+      "word": "MSI",
+      "onboard_time": 1751249599,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 179418,
       "num": 179418,
       "word": "MSI淘汰赛抽签",
@@ -1857,6 +1921,14 @@
       "onboard_time": 1751200102,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177785,
+      "num": 177785,
+      "word": "建议大家不要放弃记录自己",
+      "onboard_time": 1751249180,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 176853,
@@ -1971,28 +2043,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 172142,
-      "num": 172142,
-      "word": "5岁女童泡温泉后被确诊感染食脑虫",
-      "onboard_time": 1751249180,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 171962,
       "num": 171962,
       "word": "重庆2岁幼童20楼坠落奇迹生还",
       "onboard_time": 1751185942,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 171821,
-      "num": 171821,
-      "word": "建议大家不要放弃记录自己",
-      "onboard_time": 1751249180,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 169887,
@@ -2305,14 +2361,6 @@
       "onboard_time": 1751128161,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 151157,
-      "num": 151157,
-      "word": "金价",
-      "onboard_time": 1751248641,
-      "rank": 25,
-      "category": "财经"
     },
     {
       "raw_hot": 151027,
@@ -2665,6 +2713,14 @@
       "onboard_time": 1751174542,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134365,
+      "num": 134365,
+      "word": "真的建议床单被套一周换洗一次",
+      "onboard_time": 1751248821,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 134056,
@@ -3124,7 +3180,7 @@
     },
     {
       "raw_hot": 115586,
-      "num": 115586,
+      "num": 172521,
       "word": "绿豆汤别再冰着喝了",
       "onboard_time": 1751244442,
       "rank": 33,
@@ -3475,6 +3531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 100449,
+      "num": 100449,
+      "word": "7月起这些新规将影响你我",
+      "onboard_time": 1751249422,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100060,
       "num": 100060,
       "word": "书卷一梦太癫了",
@@ -3497,6 +3561,14 @@
       "onboard_time": 1751119885,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98479,
+      "num": 98479,
+      "word": "特朗普最新民调支持率公布",
+      "onboard_time": 1751246901,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 98109,
@@ -3545,6 +3617,14 @@
       "onboard_time": 1751211381,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95056,
+      "num": 95056,
+      "word": "美消防员扑山火时遭袭",
+      "onboard_time": 1751245161,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 94784,
@@ -3665,6 +3745,14 @@
       "onboard_time": 1751248880,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 83821,
+      "num": 83821,
+      "word": "四川暴雨2.9万人提前转移",
+      "onboard_time": 1751250740,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82984,
@@ -4140,7 +4228,7 @@
     },
     {
       "raw_hot": 36906,
-      "num": 562230,
+      "num": 661881,
       "word": "解锁首发经济花样消费场景",
       "onboard_time": 1751210123,
       "rank": 46,
@@ -4153,6 +4241,14 @@
       "onboard_time": 1751223435,
       "rank": 18,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 35717,
+      "num": 98802,
+      "word": "黄雅琼毕业九宫格",
+      "onboard_time": 1751250260,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 35289,
@@ -4177,6 +4273,14 @@
       "onboard_time": 1751134696,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 34496,
+      "num": 128861,
+      "word": "美参议院花16小时宣读大而美法案",
+      "onboard_time": 1751250681,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 33304,
@@ -4307,6 +4411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25731,
+      "num": 96484,
+      "word": "泰国推出安全旅行印章",
+      "onboard_time": 1751250740,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 25600,
       "num": 61454,
       "word": "川渝部分地区发生山洪可能性很大",
@@ -4417,6 +4529,14 @@
       "onboard_time": 1751225175,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 16625,
+      "num": 98555,
+      "word": "佩通坦向泰王提交新内阁名单",
+      "onboard_time": 1751250740,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 16582,
