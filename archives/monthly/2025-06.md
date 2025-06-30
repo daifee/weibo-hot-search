@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/30 16:36:10
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/30 16:50:24
 </p>
 </blockquote>
 <p>
@@ -975,6 +975,12 @@ LV大秀（热度：2082962）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%88%BF%E6%8C%96%E5%87%BA%E7%94%B7%E6%80%A7%E5%B0%B8%E9%AA%A8%E5%BD%93%E4%BA%8B%E5%A5%B3%E5%AD%90%E5%8F%91%E5%A3%B0%23" target="weibo">
+新房挖出男性尸骨当事女子发声（热度：1969207）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A6%E4%B8%9C%E5%A5%95%E4%B8%A5%E9%80%89%E8%B4%A6%E5%8F%B7%E5%B7%B2%E6%94%B9%E5%90%8D%23" target="weibo">
 韦东奕严选账号已改名（热度：1969145）
 </a>
@@ -1013,12 +1019,6 @@ LV大秀（热度：2082962）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83611%E5%88%86%E5%A5%B3%E7%94%9F%E4%BD%93%E6%A3%80%E4%B8%8D%E5%90%88%E6%A0%BC%E6%81%90%E6%97%A0%E6%B3%95%E5%85%A5%E5%AD%A6%23" target="weibo">
 高考611分女生体检不合格恐无法入学（热度：1939482）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%88%BF%E6%8C%96%E5%87%BA%E7%94%B7%E6%80%A7%E5%B0%B8%E9%AA%A8%E5%BD%93%E4%BA%8B%E5%A5%B3%E5%AD%90%E5%8F%91%E5%A3%B0%23" target="weibo">
-新房挖出男性尸骨当事女子发声（热度：1936257）
 </a>
 </li>
 
