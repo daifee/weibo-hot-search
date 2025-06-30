@@ -1,0 +1,410 @@
+{
+  "runTime": 1751259244458,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1652966,
+        "num": 1652966,
+        "word": "邓超晒与鹿晗陈赫合照",
+        "onboard_time": 1751253801,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1403476,
+        "num": 1403476,
+        "word": "原来新鲜的荔枝是这样的",
+        "onboard_time": 1751255361,
+        "rank": 1,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 20101,
+        "num": 1231230,
+        "word": "暴雨台风应对参考手册",
+        "onboard_time": 1751258183,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1106532,
+        "num": 1106532,
+        "word": "哪吒2下映",
+        "onboard_time": 1751250081,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 758813,
+        "num": 758813,
+        "word": "招聘单位回应考生确系虐猫当事人",
+        "onboard_time": 1751254701,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 714472,
+        "num": 714472,
+        "word": "iPhone 检查虫子",
+        "onboard_time": 1751253501,
+        "rank": 5,
+        "category": "数码,民生新闻"
+      },
+      {
+        "raw_hot": 518394,
+        "num": 518394,
+        "word": "中国共产党党员总数为10027.1万名",
+        "onboard_time": 1751252182,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 485239,
+        "num": 485239,
+        "word": "于正回应和肖战合作",
+        "onboard_time": 1751257522,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 473918,
+        "num": 473918,
+        "word": "真的建议床单被套一周换洗一次",
+        "onboard_time": 1751248821,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 427924,
+        "num": 427924,
+        "word": "酒店光脚洗澡 跖疣病毒",
+        "onboard_time": 1751255841,
+        "rank": 9,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 687300,
+        "num": 418877,
+        "word": "韩国首尔爱情虫爆发",
+        "onboard_time": 1751258302,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 89396,
+        "num": 394407,
+        "word": "8090后手里的大风车从未停止转动",
+        "onboard_time": 1751255601,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393686,
+        "num": 393686,
+        "word": "黄子韬分享陪徐艺洋试婚纱",
+        "onboard_time": 1751252540,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335053,
+        "num": 335053,
+        "word": "客服回应婴儿展馆内喝奶被赶出",
+        "onboard_time": 1751256141,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323607,
+        "num": 323607,
+        "word": "金价",
+        "onboard_time": 1751248641,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 296134,
+        "num": 321606,
+        "word": "周洁琼表白颜安",
+        "onboard_time": 1751257944,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320112,
+        "num": 320112,
+        "word": "六月初六遇上上半年最后一天",
+        "onboard_time": 1751244320,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212051,
+        "num": 302389,
+        "word": "杨幂秦海璐VOGUEfilm短片",
+        "onboard_time": 1751258783,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 82136,
+        "num": 287495,
+        "word": "无名之辈章宇身陷恐怖直播",
+        "onboard_time": 1751258121,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 287220,
+        "num": 287220,
+        "word": "张一山李沁新剧开播",
+        "onboard_time": 1751254761,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 519579,
+        "num": 286698,
+        "word": "重庆一区委书记带头下馆子",
+        "onboard_time": 1751247800,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254694,
+        "num": 254694,
+        "word": "5岁女童泡温泉后被确诊感染食脑虫",
+        "onboard_time": 1751249180,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226649,
+        "num": 226649,
+        "word": "10月龄婴儿在展馆内喝奶瓶被赶出",
+        "onboard_time": 1751214200,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202197,
+        "num": 202197,
+        "word": "权志龙香港",
+        "onboard_time": 1751258243,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189093,
+        "num": 189093,
+        "word": "邓超回应和鹿晗吃饭",
+        "onboard_time": 1751238857,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186568,
+        "num": 186568,
+        "word": "刘晓庆晒照辟谣",
+        "onboard_time": 1751257222,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181322,
+        "num": 181322,
+        "word": "林俊杰回复马龙",
+        "onboard_time": 1751249422,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 179371,
+        "num": 179371,
+        "word": "二旬老人躺床上看八旬小美女玩双杠",
+        "onboard_time": 1751256801,
+        "rank": 27,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 172847,
+        "num": 172847,
+        "word": "李艾录综艺拼上46年的老命",
+        "onboard_time": 1751258243,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29141,
+        "num": 171247,
+        "word": "公共厕所你选蹲还是坐",
+        "onboard_time": 1751258783,
+        "rank": 29,
+        "category": "幽默,科学科普"
+      },
+      {
+        "raw_hot": 176925,
+        "num": 171236,
+        "word": "程潇讲脱口秀听着听着就哭了",
+        "onboard_time": 1751255361,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171220,
+        "num": 171220,
+        "word": "充电宝被要求有3C标识不足两年",
+        "onboard_time": 1751252540,
+        "rank": 31,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 159787,
+        "num": 159787,
+        "word": "金价再度下跌",
+        "onboard_time": 1751257463,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 159757,
+        "num": 159757,
+        "word": "刘国梁女儿斩获重要冠军",
+        "onboard_time": 1751249422,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148838,
+        "num": 148838,
+        "word": "怎么看出来一个人是否善良",
+        "onboard_time": 1751258002,
+        "rank": 34,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 49644,
+        "num": 146130,
+        "word": "3个月未用凉席藏超千万只螨虫",
+        "onboard_time": 1751251102,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 724324,
+        "num": 145530,
+        "word": "人社局回应虐猫考生进入考察公示",
+        "onboard_time": 1751250441,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144839,
+        "num": 144839,
+        "word": "密室大逃脱",
+        "onboard_time": 1751252901,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142589,
+        "num": 142589,
+        "word": "环球时报专访藏海传总导演郑晓龙",
+        "onboard_time": 1751254161,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55229,
+        "num": 142133,
+        "word": "盐城队员世界波致敬莫德里奇",
+        "onboard_time": 1751258062,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142064,
+        "num": 142064,
+        "word": "敖瑞鹏七月行程送至",
+        "onboard_time": 1751258481,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141187,
+        "num": 141187,
+        "word": "看似普通其实致癌的习惯",
+        "onboard_time": 1751255543,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137608,
+        "num": 137608,
+        "word": "易烊千玺中国电影导演协会提名",
+        "onboard_time": 1751259082,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127891,
+        "num": 127891,
+        "word": "双休和单休真的是两种人生",
+        "onboard_time": 1751259143,
+        "rank": 43,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 126596,
+        "num": 126596,
+        "word": "男孩被吸入桥洞大哥死死抓住",
+        "onboard_time": 1751254642,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126217,
+        "num": 126217,
+        "word": "四川暴雨2.9万人提前转移",
+        "onboard_time": 1751250740,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126184,
+        "num": 126184,
+        "word": "开拓者买断艾顿",
+        "onboard_time": 1751252300,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43589,
+        "num": 126053,
+        "word": "伊朗要求认定以美为侵略方",
+        "onboard_time": 1751247140,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126042,
+        "num": 126042,
+        "word": "飞天茅台再度全线下跌",
+        "onboard_time": 1751253501,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 117627,
+        "num": 117627,
+        "word": "证监会logo更新",
+        "onboard_time": 1751256261,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记足迹瞰老区新貌#"
+    }
+  }
+}

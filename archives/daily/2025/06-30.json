@@ -1,6 +1,6 @@
 {
   "startTime": 1751214634143,
-  "endTime": 1751258444962,
+  "endTime": 1751259244458,
   "band_list": [
     {
       "raw_hot": 2461024,
@@ -43,20 +43,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1403476,
+      "num": 1403476,
+      "word": "原来新鲜的荔枝是这样的",
+      "onboard_time": 1751255361,
+      "rank": 30,
+      "category": "幽默,美食"
+    },
+    {
       "raw_hot": 1359441,
       "num": 1359441,
       "word": "白玉兰组委会疑似回应刘亦菲没去",
       "onboard_time": 1751208143,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1292699,
-      "num": 1292699,
-      "word": "原来新鲜的荔枝是这样的",
-      "onboard_time": 1751255361,
-      "rank": 30,
-      "category": "幽默,美食"
     },
     {
       "raw_hot": 1134181,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 758813,
+      "num": 758813,
+      "word": "招聘单位回应考生确系虐猫当事人",
+      "onboard_time": 1751254701,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 733026,
       "num": 733026,
       "word": "中国共产党党员总数为10027.1万名",
@@ -107,12 +115,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 656015,
-      "num": 656015,
-      "word": "招聘单位回应考生确系虐猫当事人",
-      "onboard_time": 1751254701,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 687300,
+      "num": 418877,
+      "word": "韩国首尔爱情虫爆发",
+      "onboard_time": 1751258302,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 632665,
@@ -179,6 +187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 485239,
+      "num": 485239,
+      "word": "于正回应和肖战合作",
+      "onboard_time": 1751257522,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 477275,
       "num": 301076,
       "word": "师洋",
@@ -201,6 +217,14 @@
       "onboard_time": 1751213960,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 427924,
+      "num": 427924,
+      "word": "酒店光脚洗澡 跖疣病毒",
+      "onboard_time": 1751255841,
+      "rank": 47,
+      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 425611,
@@ -251,14 +275,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 339223,
-      "num": 339223,
-      "word": "于正回应和肖战合作",
-      "onboard_time": 1751257522,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 335725,
       "num": 325337,
       "word": "陈垣宇0比4张本智和",
@@ -275,6 +291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 335053,
+      "num": 335053,
+      "word": "客服回应婴儿展馆内喝奶被赶出",
+      "onboard_time": 1751256141,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 329790,
       "num": 261045,
       "word": "印度三男子强奸法学院女生被拘4天",
@@ -289,14 +313,6 @@
       "onboard_time": 1751238679,
       "rank": 13,
       "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 327147,
-      "num": 327147,
-      "word": "客服回应婴儿展馆内喝奶被赶出",
-      "onboard_time": 1751256141,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 322523,
@@ -331,14 +347,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 303373,
-      "num": 303373,
-      "word": "酒店光脚洗澡 跖疣病毒",
-      "onboard_time": 1751255841,
-      "rank": 47,
-      "category": "科学科普,健康医疗"
-    },
-    {
       "raw_hot": 297743,
       "num": 297743,
       "word": "120万充电宝召回卡在快递环节",
@@ -363,12 +371,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 296134,
+      "num": 321606,
+      "word": "周洁琼表白颜安",
+      "onboard_time": 1751257944,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 292084,
       "num": 292084,
       "word": "局地超40摄氏度高温天要来了",
       "onboard_time": 1751246000,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 287220,
+      "num": 299841,
+      "word": "张一山李沁新剧开播",
+      "onboard_time": 1751254761,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 286373,
@@ -393,14 +417,6 @@
       "onboard_time": 1751249841,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 269561,
-      "num": 299841,
-      "word": "张一山李沁新剧开播",
-      "onboard_time": 1751254761,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 261167,
@@ -491,6 +507,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 212051,
+      "num": 302389,
+      "word": "杨幂秦海璐VOGUEfilm短片",
+      "onboard_time": 1751258783,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 210633,
       "num": 210633,
       "word": "马龙看林俊杰演唱会嗓子哑了",
@@ -515,12 +539,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 202667,
-      "num": 202667,
-      "word": "周洁琼表白颜安",
-      "onboard_time": 1751257944,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 202197,
+      "num": 202197,
+      "word": "权志龙香港",
+      "onboard_time": 1751258243,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 195593,
@@ -651,12 +675,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 173183,
-      "num": 173183,
-      "word": "韩国首尔爱情虫爆发",
-      "onboard_time": 1751258302,
-      "rank": 34,
-      "category": "海外新闻"
+      "raw_hot": 172847,
+      "num": 172847,
+      "word": "李艾录综艺拼上46年的老命",
+      "onboard_time": 1751258243,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 172194,
@@ -699,20 +723,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148838,
+      "num": 148838,
+      "word": "怎么看出来一个人是否善良",
+      "onboard_time": 1751258002,
+      "rank": 43,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 146748,
       "num": 146748,
       "word": "WTT晒孙颖莎为美国大满贯预热",
       "onboard_time": 1751253801,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144946,
-      "num": 144946,
-      "word": "李艾录综艺拼上46年的老命",
-      "onboard_time": 1751258243,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 144833,
@@ -723,12 +747,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142064,
+      "num": 142064,
+      "word": "敖瑞鹏七月行程送至",
+      "onboard_time": 1751258481,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141396,
       "num": 141396,
       "word": "何小鹏也下单了YU7",
       "onboard_time": 1751255122,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 141187,
+      "num": 141187,
+      "word": "看似普通其实致癌的习惯",
+      "onboard_time": 1751255543,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 140103,
@@ -747,12 +787,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 138798,
-      "num": 138798,
-      "word": "权志龙香港",
-      "onboard_time": 1751258243,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 137608,
+      "num": 137608,
+      "word": "易烊千玺中国电影导演协会提名",
+      "onboard_time": 1751259082,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 136794,
@@ -780,7 +820,7 @@
     },
     {
       "raw_hot": 132634,
-      "num": 329890,
+      "num": 394407,
       "word": "8090后手里的大风车从未停止转动",
       "onboard_time": 1751255601,
       "rank": 23,
@@ -811,12 +851,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 128617,
-      "num": 128617,
-      "word": "怎么看出来一个人是否善良",
-      "onboard_time": 1751258002,
+      "raw_hot": 127891,
+      "num": 127891,
+      "word": "双休和单休真的是两种人生",
+      "onboard_time": 1751259143,
       "rank": 43,
-      "category": "情感,休闲"
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 127283,
@@ -841,14 +881,6 @@
       "onboard_time": 1751241200,
       "rank": 31,
       "category": "情感,民生新闻"
-    },
-    {
-      "raw_hot": 122847,
-      "num": 122847,
-      "word": "看似普通其实致癌的习惯",
-      "onboard_time": 1751255543,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 122624,
@@ -916,7 +948,7 @@
     },
     {
       "raw_hot": 115586,
-      "num": 115586,
+      "num": 146130,
       "word": "3个月未用凉席藏超千万只螨虫",
       "onboard_time": 1751251102,
       "rank": 44,
@@ -1004,7 +1036,7 @@
     },
     {
       "raw_hot": 104614,
-      "num": 104614,
+      "num": 126053,
       "word": "伊朗要求认定以美为侵略方",
       "onboard_time": 1751247140,
       "rank": 38,
@@ -1020,7 +1052,7 @@
     },
     {
       "raw_hot": 100908,
-      "num": 231609,
+      "num": 287495,
       "word": "无名之辈章宇身陷恐怖直播",
       "onboard_time": 1751258121,
       "rank": 18,
@@ -1251,6 +1283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 55229,
+      "num": 142133,
+      "word": "盐城队员世界波致敬莫德里奇",
+      "onboard_time": 1751258062,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 55154,
       "num": 55154,
       "word": "以法之名",
@@ -1273,14 +1313,6 @@
       "onboard_time": 1751238618,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 49328,
-      "num": 137453,
-      "word": "盐城队员世界波致敬莫德里奇",
-      "onboard_time": 1751258062,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 49000,
@@ -1411,6 +1443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 29141,
+      "num": 171247,
+      "word": "公共厕所你选蹲还是坐",
+      "onboard_time": 1751258783,
+      "rank": 29,
+      "category": "幽默,科学科普"
+    },
+    {
       "raw_hot": 28503,
       "num": 54337,
       "word": "泰州队巴特上演倒挂金钩",
@@ -1483,6 +1523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 20101,
+      "num": 1231230,
+      "word": "暴雨台风应对参考手册",
+      "onboard_time": 1751258183,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17032,
       "num": 17032,
       "word": "偶遇黄霄雲去林俊杰演唱会",
@@ -1529,14 +1577,6 @@
       "onboard_time": 1751227215,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 12776,
-      "num": 1130038,
-      "word": "暴雨台风应对参考手册",
-      "onboard_time": 1751258183,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 10997,
