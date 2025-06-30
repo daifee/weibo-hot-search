@@ -1,0 +1,410 @@
+{
+  "runTime": 1751255901342,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2461024,
+        "num": 2461024,
+        "word": "邓超晒与鹿晗陈赫合照",
+        "onboard_time": 1751253801,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1110571,
+        "num": 1110571,
+        "word": "人社局回应虐猫考生进入考察公示",
+        "onboard_time": 1751250441,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19256,
+        "num": 903848,
+        "word": "解锁首发经济花样消费场景",
+        "onboard_time": 1751210123,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1453585,
+        "num": 896487,
+        "word": "哪吒2下映",
+        "onboard_time": 1751250081,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 879723,
+        "num": 879723,
+        "word": "iPhone 检查虫子",
+        "onboard_time": 1751253501,
+        "rank": 4,
+        "category": "数码,民生新闻"
+      },
+      {
+        "raw_hot": 733026,
+        "num": 733026,
+        "word": "中国共产党党员总数为10027.1万名",
+        "onboard_time": 1751252182,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 525125,
+        "num": 525125,
+        "word": "真的建议床单被套一周换洗一次",
+        "onboard_time": 1751248821,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 465459,
+        "num": 465459,
+        "word": "金价",
+        "onboard_time": 1751248641,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 451537,
+        "num": 451537,
+        "word": "邓超回应和鹿晗吃饭",
+        "onboard_time": 1751238857,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371056,
+        "num": 371056,
+        "word": "六月初六遇上上半年最后一天",
+        "onboard_time": 1751244320,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 525891,
+        "num": 354793,
+        "word": "黄子韬分享陪徐艺洋试婚纱",
+        "onboard_time": 1751252540,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335672,
+        "num": 335672,
+        "word": "开拓者买断艾顿",
+        "onboard_time": 1751252300,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 325322,
+        "num": 325322,
+        "word": "招聘单位回应考生确系虐猫当事人",
+        "onboard_time": 1751254701,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153738,
+        "num": 321853,
+        "word": "四川暴雨2.9万人提前转移",
+        "onboard_time": 1751250740,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115070,
+        "num": 314494,
+        "word": "婴儿喝奶瓶被赶馆方该不该道歉",
+        "onboard_time": 1751254581,
+        "rank": 14,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 259694,
+        "num": 299841,
+        "word": "张一山李沁新剧开播",
+        "onboard_time": 1751254761,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233727,
+        "num": 292168,
+        "word": "行程图",
+        "onboard_time": 1751249841,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258260,
+        "num": 284035,
+        "word": "王俊凯任上合组织国家电影节青年大使",
+        "onboard_time": 1751253741,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 347875,
+        "num": 273165,
+        "word": "重庆一区委书记带头下馆子",
+        "onboard_time": 1751247800,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271590,
+        "num": 271590,
+        "word": "120万充电宝召回卡在快递环节",
+        "onboard_time": 1751252540,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234691,
+        "num": 234691,
+        "word": "充电宝被要求有3C标识不足两年",
+        "onboard_time": 1751252540,
+        "rank": 20,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 233233,
+        "num": 233233,
+        "word": "5岁女童泡温泉后被确诊感染食脑虫",
+        "onboard_time": 1751249180,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221060,
+        "num": 221060,
+        "word": "林俊杰回复马龙",
+        "onboard_time": 1751249422,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132634,
+        "num": 217337,
+        "word": "8090后手里的大风车从未停止转动",
+        "onboard_time": 1751255601,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30710,
+        "num": 215932,
+        "word": "如何正确喝三豆饮",
+        "onboard_time": 1751255482,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 215547,
+        "num": 215547,
+        "word": "密室大逃脱",
+        "onboard_time": 1751252901,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192283,
+        "num": 192283,
+        "word": "刘国梁女儿斩获重要冠军",
+        "onboard_time": 1751249422,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189860,
+        "num": 189860,
+        "word": "美消防员扑山火时遭袭",
+        "onboard_time": 1751245161,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 160246,
+        "num": 188878,
+        "word": "环球时报专访藏海传总导演郑晓龙",
+        "onboard_time": 1751254161,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62029,
+        "num": 188651,
+        "word": "男性气质为何让男孩陷入友谊危机",
+        "onboard_time": 1751254882,
+        "rank": 29,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 225810,
+        "num": 188616,
+        "word": "原来新鲜的荔枝是这样的",
+        "onboard_time": 1751255361,
+        "rank": 30,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 188563,
+        "num": 188563,
+        "word": "飞天茅台再度全线下跌",
+        "onboard_time": 1751253501,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 183261,
+        "num": 183261,
+        "word": "10月龄婴儿在展馆内喝奶瓶被赶出",
+        "onboard_time": 1751214200,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180553,
+        "num": 180553,
+        "word": "男孩被吸入桥洞大哥死死抓住",
+        "onboard_time": 1751254642,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146157,
+        "num": 146157,
+        "word": "建议大家不要放弃记录自己",
+        "onboard_time": 1751249180,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145633,
+        "num": 145633,
+        "word": "朱雀堂定档",
+        "onboard_time": 1751253020,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141396,
+        "num": 141396,
+        "word": "何小鹏也下单了YU7",
+        "onboard_time": 1751255122,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 136794,
+        "num": 136794,
+        "word": "只有黄誉博1人参加全员嘲笑中",
+        "onboard_time": 1751255421,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136446,
+        "num": 136446,
+        "word": "阿娇说减肥真的不容易",
+        "onboard_time": 1751247560,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54222,
+        "num": 135030,
+        "word": "突然面对镜头的孙颖莎",
+        "onboard_time": 1751255241,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134133,
+        "num": 134133,
+        "word": "A股",
+        "onboard_time": 1751252121,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 130777,
+        "num": 130777,
+        "word": "致敬柯南M28传奇打工人",
+        "onboard_time": 1751254642,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 125182,
+        "num": 125182,
+        "word": "上半年有温度的小作文",
+        "onboard_time": 1751244920,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122624,
+        "num": 122624,
+        "word": "老铺黄金股价",
+        "onboard_time": 1751255722,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 119996,
+        "num": 119996,
+        "word": "姜云升小作文",
+        "onboard_time": 1751255122,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118230,
+        "num": 118230,
+        "word": "师洋妈妈辟谣儿子去世",
+        "onboard_time": 1751250861,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112017,
+        "num": 112017,
+        "word": "看似普通其实致癌的习惯",
+        "onboard_time": 1751255543,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 111752,
+        "num": 111752,
+        "word": "酒店光脚洗澡 跖疣病毒",
+        "onboard_time": 1751255841,
+        "rank": 47,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 109793,
+        "num": 109793,
+        "word": "桃花映江山夜抛型男主",
+        "onboard_time": 1751253922,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107205,
+        "num": 107205,
+        "word": "程潇讲脱口秀听着听着就哭了",
+        "onboard_time": 1751255361,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平称这个英雄事迹震撼人心#"
+    }
+  }
+}

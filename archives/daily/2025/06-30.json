@@ -1,7 +1,15 @@
 {
   "startTime": 1751214634143,
-  "endTime": 1751255093225,
+  "endTime": 1751255901342,
   "band_list": [
+    {
+      "raw_hot": 2461024,
+      "num": 2461024,
+      "word": "邓超晒与鹿晗陈赫合照",
+      "onboard_time": 1751253801,
+      "rank": 3,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1630265,
       "num": 1630265,
@@ -9,14 +17,6 @@
       "onboard_time": 1751250081,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1617672,
-      "num": 971261,
-      "word": "邓超晒与鹿晗陈赫合照",
-      "onboard_time": 1751253801,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1586314,
@@ -91,8 +91,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 726117,
-      "num": 726117,
+      "raw_hot": 733026,
+      "num": 733026,
       "word": "中国共产党党员总数为10027.1万名",
       "onboard_time": 1751252182,
       "rank": 5,
@@ -123,6 +123,22 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 525891,
+      "num": 395076,
+      "word": "黄子韬分享陪徐艺洋试婚纱",
+      "onboard_time": 1751252540,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 525125,
+      "num": 525125,
+      "word": "真的建议床单被套一周换洗一次",
+      "onboard_time": 1751248821,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 517549,
       "num": 184975,
       "word": "大麦bug",
@@ -137,14 +153,6 @@
       "onboard_time": 1751246000,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 504031,
-      "num": 395076,
-      "word": "黄子韬分享陪徐艺洋试婚纱",
-      "onboard_time": 1751252540,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 493342,
@@ -169,14 +177,6 @@
       "onboard_time": 1751208922,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 458861,
-      "num": 458861,
-      "word": "真的建议床单被套一周换洗一次",
-      "onboard_time": 1751248821,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 427949,
@@ -211,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 371056,
+      "num": 371056,
+      "word": "六月初六遇上上半年最后一天",
+      "onboard_time": 1751244320,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 354451,
       "num": 238589,
       "word": "刘国梁女儿斩获重要冠军",
@@ -227,19 +235,19 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 336976,
-      "num": 336976,
-      "word": "六月初六遇上上半年最后一天",
-      "onboard_time": 1751244320,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 335725,
       "num": 325337,
       "word": "陈垣宇0比4张本智和",
       "onboard_time": 1751213420,
       "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 335672,
+      "num": 335672,
+      "word": "开拓者买断艾顿",
+      "onboard_time": 1751252300,
+      "rank": 13,
       "category": "体育"
     },
     {
@@ -259,20 +267,20 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 325322,
+      "num": 325322,
+      "word": "招聘单位回应考生确系虐猫当事人",
+      "onboard_time": 1751254701,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 322523,
       "num": 299762,
       "word": "杨幂挂了labubu",
       "onboard_time": 1751207182,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 317606,
-      "num": 317606,
-      "word": "开拓者买断艾顿",
-      "onboard_time": 1751252300,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 311398,
@@ -355,6 +363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 259694,
+      "num": 299841,
+      "word": "张一山李沁新剧开播",
+      "onboard_time": 1751254761,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 258030,
       "num": 258030,
       "word": "充电宝被要求有3C标识不足两年",
@@ -411,6 +427,14 @@
       "category": "母婴育儿,民生新闻"
     },
     {
+      "raw_hot": 225810,
+      "num": 188616,
+      "word": "原来新鲜的荔枝是这样的",
+      "onboard_time": 1751255361,
+      "rank": 30,
+      "category": "幽默,美食"
+    },
+    {
       "raw_hot": 218750,
       "num": 184598,
       "word": "柳俊烈丑谈我真的笑不行了",
@@ -465,6 +489,14 @@
       "onboard_time": 1751209763,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 189860,
+      "num": 395600,
+      "word": "美消防员扑山火时遭袭",
+      "onboard_time": 1751245161,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 188750,
@@ -563,28 +595,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 169342,
-      "num": 267255,
-      "word": "招聘单位回应考生确系虐猫当事人",
-      "onboard_time": 1751254701,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 160520,
-      "num": 160520,
+      "num": 321853,
       "word": "四川暴雨2.9万人提前转移",
       "onboard_time": 1751250740,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 155432,
-      "num": 155432,
-      "word": "张一山李沁新剧开播",
-      "onboard_time": 1751254761,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 153240,
@@ -593,14 +609,6 @@
       "onboard_time": 1751206883,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 149307,
-      "num": 395600,
-      "word": "美消防员扑山火时遭袭",
-      "onboard_time": 1751245161,
-      "rank": 45,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 146748,
@@ -619,6 +627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141396,
+      "num": 141396,
+      "word": "何小鹏也下单了YU7",
+      "onboard_time": 1751255122,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 140103,
       "num": 140103,
       "word": "赵一博连续直播3天",
@@ -635,12 +651,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136794,
+      "num": 136794,
+      "word": "只有黄誉博1人参加全员嘲笑中",
+      "onboard_time": 1751255421,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 134133,
+      "num": 134133,
+      "word": "A股",
+      "onboard_time": 1751252121,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 134096,
       "num": 134096,
       "word": "师洋妈妈辟谣儿子去世",
       "onboard_time": 1751250861,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132634,
+      "num": 217337,
+      "word": "8090后手里的大风车从未停止转动",
+      "onboard_time": 1751255601,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132313,
@@ -689,6 +729,22 @@
       "onboard_time": 1751241200,
       "rank": 31,
       "category": "情感,民生新闻"
+    },
+    {
+      "raw_hot": 122624,
+      "num": 122624,
+      "word": "老铺黄金股价",
+      "onboard_time": 1751255722,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 119996,
+      "num": 119996,
+      "word": "姜云升小作文",
+      "onboard_time": 1751255122,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 118352,
@@ -747,12 +803,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115070,
+      "num": 315663,
+      "word": "婴儿喝奶瓶被赶馆方该不该道歉",
+      "onboard_time": 1751254581,
+      "rank": 14,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 112017,
+      "num": 112017,
+      "word": "看似普通其实致癌的习惯",
+      "onboard_time": 1751255543,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 111839,
       "num": 111839,
       "word": "蔡澜晚年酒店套房生活",
       "onboard_time": 1751195841,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111752,
+      "num": 111752,
+      "word": "酒店光脚洗澡 跖疣病毒",
+      "onboard_time": 1751255841,
+      "rank": 47,
+      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 110702,
@@ -793,6 +873,14 @@
       "onboard_time": 1751203823,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107205,
+      "num": 107205,
+      "word": "程潇讲脱口秀听着听着就哭了",
+      "onboard_time": 1751255361,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 105361,
@@ -1035,8 +1123,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 61989,
-      "num": 173919,
+      "raw_hot": 62029,
+      "num": 188651,
       "word": "男性气质为何让男孩陷入友谊危机",
       "onboard_time": 1751254882,
       "rank": 29,
@@ -1057,6 +1145,14 @@
       "onboard_time": 1751238738,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 54222,
+      "num": 135030,
+      "word": "突然面对镜头的孙颖莎",
+      "onboard_time": 1751255241,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 52596,
@@ -1179,12 +1275,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 32315,
-      "num": 315663,
-      "word": "婴儿喝奶瓶被赶馆方该不该道歉",
-      "onboard_time": 1751254581,
-      "rank": 14,
-      "category": "议题讨论"
+      "raw_hot": 30710,
+      "num": 215932,
+      "word": "如何正确喝三豆饮",
+      "onboard_time": 1751255482,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 30154,
