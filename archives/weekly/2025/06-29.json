@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751250773065,
+  "endTime": 1751255093225,
   "band_list": [
     {
       "raw_hot": 3569605,
@@ -49,6 +49,22 @@
       "onboard_time": 1751193201,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1630265,
+      "num": 1630265,
+      "word": "哪吒2下映",
+      "onboard_time": 1751250081,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1617672,
+      "num": 971261,
+      "word": "邓超晒与鹿晗陈赫合照",
+      "onboard_time": 1751253801,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1586314,
@@ -147,6 +163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1134181,
+      "num": 1134181,
+      "word": "人社局回应虐猫考生进入考察公示",
+      "onboard_time": 1751250441,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1129107,
       "num": 1129107,
       "word": "伊朗国葬",
@@ -209,6 +233,14 @@
       "onboard_time": 1751198602,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 904192,
+      "num": 904192,
+      "word": "iPhone 检查虫子",
+      "onboard_time": 1751253501,
+      "rank": 4,
+      "category": "数码,民生新闻"
     },
     {
       "raw_hot": 880345,
@@ -323,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 726117,
+      "num": 726117,
+      "word": "中国共产党党员总数为10027.1万名",
+      "onboard_time": 1751252182,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 715642,
       "num": 715642,
       "word": "马龙去看林俊杰演唱会了",
@@ -403,14 +443,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 643451,
-      "num": 643451,
-      "word": "哪吒2下映",
-      "onboard_time": 1751250081,
-      "rank": 4,
-      "category": "电影"
-    },
-    {
       "raw_hot": 630953,
       "num": 586456,
       "word": "TF四代舞台投票",
@@ -451,6 +483,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 596698,
+      "num": 596698,
+      "word": "金价",
+      "onboard_time": 1751248641,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 574747,
       "num": 574747,
       "word": "李昀锐助理看起来命很苦",
@@ -483,14 +523,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 547322,
-      "num": 547322,
-      "word": "金价",
-      "onboard_time": 1751248641,
-      "rank": 25,
-      "category": "财经"
-    },
-    {
       "raw_hot": 537869,
       "num": 537869,
       "word": "宋茜Amber同框",
@@ -513,6 +545,14 @@
       "onboard_time": 1751246000,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 504031,
+      "num": 395076,
+      "word": "黄子韬分享陪徐艺洋试婚纱",
+      "onboard_time": 1751252540,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 503103,
@@ -585,6 +625,14 @@
       "onboard_time": 1751122044,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 458861,
+      "num": 458861,
+      "word": "真的建议床单被套一周换洗一次",
+      "onboard_time": 1751248821,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 453352,
@@ -828,7 +876,7 @@
     },
     {
       "raw_hot": 354451,
-      "num": 179410,
+      "num": 238589,
       "word": "刘国梁女儿斩获重要冠军",
       "onboard_time": 1751249422,
       "rank": 20,
@@ -979,6 +1027,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 317606,
+      "num": 317606,
+      "word": "开拓者买断艾顿",
+      "onboard_time": 1751252300,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 317286,
       "num": 317286,
       "word": "李兰迪刮彩票以为中了7万",
@@ -1075,6 +1131,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 297743,
+      "num": 297743,
+      "word": "120万充电宝召回卡在快递环节",
+      "onboard_time": 1751252540,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 297467,
       "num": 365848,
       "word": "今年15个充电宝飞机上起火冒烟",
@@ -1147,6 +1211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 286373,
+      "num": 312502,
+      "word": "林俊杰回复马龙",
+      "onboard_time": 1751249422,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 285821,
       "num": 191006,
       "word": "白桃星座一周运势",
@@ -1195,14 +1267,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 275060,
-      "num": 275060,
-      "word": "林俊杰回复马龙",
-      "onboard_time": 1751249422,
-      "rank": 12,
-      "category": "演出"
-    },
-    {
       "raw_hot": 271446,
       "num": 271446,
       "word": "小猫被主人亲完后装死",
@@ -1220,7 +1284,7 @@
     },
     {
       "raw_hot": 269843,
-      "num": 269843,
+      "num": 306690,
       "word": "行程图",
       "onboard_time": 1751249841,
       "rank": 14,
@@ -1251,6 +1315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 261167,
+      "num": 300778,
+      "word": "王俊凯任上合组织国家电影节青年大使",
+      "onboard_time": 1751253741,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 258755,
       "num": 254167,
       "word": "踩死蟑螂真的可能生出很多小蟑螂",
@@ -1259,12 +1331,28 @@
       "category": "科学科普,民生新闻"
     },
     {
+      "raw_hot": 258030,
+      "num": 258030,
+      "word": "充电宝被要求有3C标识不足两年",
+      "onboard_time": 1751252540,
+      "rank": 20,
+      "category": "民生新闻,数码"
+    },
+    {
       "raw_hot": 257829,
       "num": 257829,
       "word": "樊振东参加波尔退役仪式",
       "onboard_time": 1751187022,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 257162,
+      "num": 257162,
+      "word": "5岁女童泡温泉后被确诊感染食脑虫",
+      "onboard_time": 1751249180,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 256045,
@@ -1288,14 +1376,6 @@
       "word": "医美培训老师宣称我们都没证",
       "onboard_time": 1751175261,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 254262,
-      "num": 179137,
-      "word": "5岁女童泡温泉后被确诊感染食脑虫",
-      "onboard_time": 1751249180,
-      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -1352,6 +1432,14 @@
       "word": "朱志鑫把加速王的奖牌带回家",
       "onboard_time": 1751126422,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 240880,
+      "num": 240880,
+      "word": "密室大逃脱",
+      "onboard_time": 1751252901,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -1475,6 +1563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215945,
+      "num": 215945,
+      "word": "飞天茅台再度全线下跌",
+      "onboard_time": 1751253501,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 215900,
       "num": 215900,
       "word": "贵州榕江拉响全城警报",
@@ -1579,6 +1675,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 204815,
+      "num": 204815,
+      "word": "环球时报专访藏海传总导演郑晓龙",
+      "onboard_time": 1751254161,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203707,
       "num": 203707,
       "word": "北京酒吧偶遇苏晓彤打架子鼓",
@@ -1673,6 +1777,14 @@
       "onboard_time": 1751249000,
       "rank": 21,
       "category": "美食"
+    },
+    {
+      "raw_hot": 195137,
+      "num": 195137,
+      "word": "男孩被吸入桥洞大哥死死抓住",
+      "onboard_time": 1751254642,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195010,
@@ -1875,12 +1987,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 182071,
-      "num": 182071,
-      "word": "人社局回应虐猫考生进入考察公示",
-      "onboard_time": 1751250441,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 182240,
+      "num": 182240,
+      "word": "桃花映江山夜抛型男主",
+      "onboard_time": 1751253922,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 181844,
@@ -2051,6 +2163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170901,
+      "num": 170901,
+      "word": "朱雀堂定档",
+      "onboard_time": 1751253020,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169887,
       "num": 169887,
       "word": "严浩翔王嘉尔合照",
@@ -2065,6 +2185,14 @@
       "onboard_time": 1751200941,
       "rank": 16,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 169342,
+      "num": 267255,
+      "word": "招聘单位回应考生确系虐猫当事人",
+      "onboard_time": 1751254701,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 167663,
@@ -2187,6 +2315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160520,
+      "num": 160520,
+      "word": "四川暴雨2.9万人提前转移",
+      "onboard_time": 1751250740,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159413,
       "num": 159413,
       "word": "3岁女娃双眼近视1000度摸着走路",
@@ -2257,6 +2393,14 @@
       "onboard_time": 1751171722,
       "rank": 37,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 155432,
+      "num": 155432,
+      "word": "张一山李沁新剧开播",
+      "onboard_time": 1751254761,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 155337,
@@ -2411,6 +2555,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 149307,
+      "num": 395600,
+      "word": "美消防员扑山火时遭袭",
+      "onboard_time": 1751245161,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 149137,
       "num": 284921,
       "word": "柯南m28杀出来的苦命cp",
@@ -2473,6 +2625,14 @@
       "onboard_time": 1751179221,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146748,
+      "num": 146748,
+      "word": "WTT晒孙颖莎为美国大满贯预热",
+      "onboard_time": 1751253801,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 146247,
@@ -2715,12 +2875,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 134365,
-      "num": 134365,
-      "word": "真的建议床单被套一周换洗一次",
-      "onboard_time": 1751248821,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 134096,
+      "num": 134096,
+      "word": "师洋妈妈辟谣儿子去世",
+      "onboard_time": 1751250861,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 134056,
@@ -2777,6 +2937,14 @@
       "onboard_time": 1751176522,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132313,
+      "num": 132313,
+      "word": "致敬柯南M28传奇打工人",
+      "onboard_time": 1751254642,
+      "rank": 40,
+      "category": "动漫"
     },
     {
       "raw_hot": 132228,
@@ -3123,12 +3291,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118352,
+      "num": 118352,
+      "word": "杨紫高精力店主的一天",
+      "onboard_time": 1751254041,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117258,
       "num": 236843,
       "word": "苏超苏州vs扬州门当户对",
       "onboard_time": 1751196080,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116747,
+      "num": 116747,
+      "word": "以法之名14集好解气",
+      "onboard_time": 1751251461,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 116496,
@@ -3185,6 +3369,14 @@
       "onboard_time": 1751244442,
       "rank": 33,
       "category": "美食,健康医疗"
+    },
+    {
+      "raw_hot": 115586,
+      "num": 115586,
+      "word": "3个月未用凉席藏超千万只螨虫",
+      "onboard_time": 1751251102,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115400,
@@ -3307,12 +3499,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110702,
+      "num": 110702,
+      "word": "刘宇宁总能给人焕新感",
+      "onboard_time": 1751254343,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109989,
       "num": 109989,
       "word": "桂文",
       "onboard_time": 1751200401,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109525,
+      "num": 109525,
+      "word": "你会因为感动爱上一个人吗",
+      "onboard_time": 1751254400,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 109262,
@@ -3329,6 +3537,14 @@
       "onboard_time": 1751164521,
       "rank": 45,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 109146,
+      "num": 109146,
+      "word": "神奇4侠定档",
+      "onboard_time": 1751254462,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 108788,
@@ -3433,6 +3649,14 @@
       "onboard_time": 1751124443,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 105361,
+      "num": 105361,
+      "word": "周子瑜粉发",
+      "onboard_time": 1751251940,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 105285,
@@ -3619,14 +3843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95056,
-      "num": 95056,
-      "word": "美消防员扑山火时遭袭",
-      "onboard_time": 1751245161,
-      "rank": 45,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 94784,
       "num": 94784,
       "word": "男子私凿的奥特曼石窟即将被拆除",
@@ -3745,14 +3961,6 @@
       "onboard_time": 1751248880,
       "rank": 46,
       "category": "教育"
-    },
-    {
-      "raw_hot": 83821,
-      "num": 83821,
-      "word": "四川暴雨2.9万人提前转移",
-      "onboard_time": 1751250740,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 82984,
@@ -3987,6 +4195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66533,
+      "num": 132916,
+      "word": "孙颖莎的背部力量",
+      "onboard_time": 1751253922,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64368,
       "num": 64368,
       "word": "被传身亡伊朗高官现身国葬",
@@ -4001,6 +4217,14 @@
       "onboard_time": 1751130019,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 61989,
+      "num": 173919,
+      "word": "男性气质为何让男孩陷入友谊危机",
+      "onboard_time": 1751254882,
+      "rank": 29,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 60395,
@@ -4228,7 +4452,7 @@
     },
     {
       "raw_hot": 36906,
-      "num": 661881,
+      "num": 997254,
       "word": "解锁首发经济花样消费场景",
       "onboard_time": 1751210123,
       "rank": 46,
@@ -4313,6 +4537,14 @@
       "onboard_time": 1751162001,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 32315,
+      "num": 315663,
+      "word": "婴儿喝奶瓶被赶馆方该不该道歉",
+      "onboard_time": 1751254581,
+      "rank": 14,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 31385,
