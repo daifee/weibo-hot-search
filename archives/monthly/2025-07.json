@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751412331446,
+  "endTime": 1751413332181,
   "band_list": [
     {
       "raw_hot": 2472851,
@@ -203,6 +203,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 860056,
+      "num": 985543,
+      "word": "保时捷女销冠称今年有望打破纪录",
+      "onboard_time": 1751384542,
+      "rank": 46,
+      "category": "民生新闻,汽车"
+    },
+    {
       "raw_hot": 852456,
       "num": 852456,
       "word": "多名主播验资pk引争议",
@@ -297,14 +305,6 @@
       "onboard_time": 1751340740,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 760981,
-      "num": 844256,
-      "word": "保时捷女销冠称今年有望打破纪录",
-      "onboard_time": 1751384542,
-      "rank": 46,
-      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 727425,
@@ -875,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 331318,
+      "num": 213959,
+      "word": "男子杀害前妻12岁儿子后自杀身亡",
+      "onboard_time": 1751376685,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 326526,
       "num": 450312,
       "word": "穿普拉达的女王2开拍",
@@ -891,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 322892,
+      "num": 224635,
+      "word": "质疑虐猫考生漠视生命并非追杀",
+      "onboard_time": 1751385801,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 320213,
       "num": 349575,
       "word": "女儿拿遗产儿子可以不管母亲吗",
@@ -904,14 +920,6 @@
       "word": "上海飞东京航班疑从万米高空急降",
       "onboard_time": 1751327239,
       "rank": 15,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 315496,
-      "num": 213959,
-      "word": "男子杀害前妻12岁儿子后自杀身亡",
-      "onboard_time": 1751376685,
-      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -960,14 +968,6 @@
       "word": "日本官方通报8696航班降落关西机场",
       "onboard_time": 1751335339,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 302062,
-      "num": 224635,
-      "word": "质疑虐猫考生漠视生命并非追杀",
-      "onboard_time": 1751385801,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -1675,6 +1675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176196,
+      "num": 176196,
+      "word": "00后女子上海衣食住行两月全白嫖",
+      "onboard_time": 1751379623,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175707,
       "num": 175707,
       "word": "NBA",
@@ -1705,6 +1713,14 @@
       "onboard_time": 1751368463,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173790,
+      "num": 139584,
+      "word": "胡塞武装高超音速导弹袭击以色列",
+      "onboard_time": 1751412018,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 173276,
@@ -1915,14 +1931,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 157878,
-      "num": 157878,
-      "word": "00后女子上海衣食住行两月全白嫖",
-      "onboard_time": 1751379623,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 157769,
       "num": 311682,
       "word": "严浩翔维权获胜",
@@ -2115,6 +2123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142357,
+      "num": 142357,
+      "word": "TVB金牌绿叶在周杰伦演唱会当保安",
+      "onboard_time": 1751383224,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 142066,
       "num": 236161,
       "word": "起猛了看见刘宇宁古装戏里抽烟",
@@ -2209,14 +2225,6 @@
       "onboard_time": 1751337320,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 136477,
-      "num": 136477,
-      "word": "TVB金牌绿叶在周杰伦演唱会当保安",
-      "onboard_time": 1751383224,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 136327,
@@ -2763,6 +2771,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 112354,
+      "num": 112354,
+      "word": "雄鹿裁掉利拉德",
+      "onboard_time": 1751411359,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112133,
       "num": 112133,
       "word": "陈思诚说张小斐有灰度感",
@@ -2811,6 +2827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 110469,
+      "num": 110469,
+      "word": "金饰克价涨到1000元",
+      "onboard_time": 1751388619,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 109936,
       "num": 109936,
       "word": "好小众的起号方法",
@@ -2857,14 +2881,6 @@
       "onboard_time": 1751362702,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 107845,
-      "num": 107845,
-      "word": "金饰克价涨到1000元",
-      "onboard_time": 1751388619,
-      "rank": 29,
-      "category": "财经"
     },
     {
       "raw_hot": 107827,
@@ -2979,14 +2995,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 97281,
-      "num": 97281,
-      "word": "雄鹿裁掉利拉德",
-      "onboard_time": 1751411359,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 97210,
       "num": 226734,
       "word": "张艺兴回复林俊杰",
@@ -3033,6 +3041,14 @@
       "onboard_time": 1751336060,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 94847,
+      "num": 94847,
+      "word": "女儿曾一年没叫焦恩俊爸爸",
+      "onboard_time": 1751411178,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 93593,
@@ -3179,6 +3195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84434,
+      "num": 88225,
+      "word": "书卷一梦热度",
+      "onboard_time": 1751413038,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 84072,
       "num": 90813,
       "word": "俄罗斯全面控制卢甘斯克",
@@ -3187,12 +3211,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 82282,
+      "num": 82047,
+      "word": "校方否认要求摆摊毕业生删除视频",
+      "onboard_time": 1751412199,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82222,
       "num": 251053,
       "word": "欧阳娜娜向何小鹏咨询G7价格",
       "onboard_time": 1751343022,
       "rank": 27,
       "category": "艺人,汽车"
+    },
+    {
+      "raw_hot": 82051,
+      "num": 82051,
+      "word": "姚明父女同框",
+      "onboard_time": 1751412438,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 81056,
@@ -3259,6 +3299,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 75031,
+      "num": 154643,
+      "word": "胡塞武装导弹再袭以色列",
+      "onboard_time": 1751412258,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 74960,
       "num": 156869,
       "word": "艾顿是湖人唯一救命稻草",
@@ -3307,6 +3355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73294,
+      "num": 73294,
+      "word": "种地吧",
+      "onboard_time": 1751413100,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 72040,
       "num": 72040,
       "word": "李现带着蒋长扬BGM回来了",
@@ -3331,20 +3387,20 @@
       "category": "民生新闻,休闲"
     },
     {
+      "raw_hot": 70886,
+      "num": 70886,
+      "word": "小米YU7续航实测结果",
+      "onboard_time": 1751413100,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 70842,
       "num": 70842,
       "word": "以法之名16集",
       "onboard_time": 1751300840,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 70020,
-      "num": 70020,
-      "word": "女儿曾一年没叫焦恩俊爸爸",
-      "onboard_time": 1751411178,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 68458,
@@ -3435,12 +3491,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 60849,
-      "num": 60849,
-      "word": "胡塞武装高超音速导弹袭击以色列",
-      "onboard_time": 1751412018,
-      "rank": 41,
-      "category": "海外新闻"
+      "raw_hot": 60679,
+      "num": 60679,
+      "word": "月嫂在雇主家工作时心梗无人担责",
+      "onboard_time": 1751397074,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59487,
@@ -3464,14 +3520,6 @@
       "word": "多地解禁中华田园犬",
       "onboard_time": 1751287702,
       "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 57138,
-      "num": 57138,
-      "word": "月嫂在雇主家工作时心梗无人担责",
-      "onboard_time": 1751397074,
-      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -3747,6 +3795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35712,
+      "num": 123378,
+      "word": "洪水退去村超球场重新亮灯",
+      "onboard_time": 1751412258,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35585,
       "num": 35585,
       "word": "聪明人说话有7个特点",
@@ -3817,6 +3873,14 @@
       "onboard_time": 1751391496,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 28164,
+      "num": 147846,
+      "word": "俄法总统通话",
+      "onboard_time": 1751412258,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 26977,
@@ -4123,20 +4187,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 13780,
+      "num": 105822,
+      "word": "印度无人机洗火车",
+      "onboard_time": 1751412860,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 13299,
       "num": 17056,
       "word": "3个动作瘦小腿",
       "onboard_time": 1751312173,
       "rank": 49,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 11970,
-      "num": 57329,
-      "word": "俄法总统通话",
-      "onboard_time": 1751412258,
-      "rank": 42,
-      "category": "国际时政"
     },
     {
       "raw_hot": 11622,
@@ -4171,28 +4235,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 7451,
-      "num": 55532,
-      "word": "胡塞武装导弹再袭以色列",
-      "onboard_time": 1751412258,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 6974,
       "num": 640594,
       "word": "天问二号拍到地月影像图",
       "onboard_time": 1751379864,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 6786,
-      "num": 68512,
-      "word": "洪水退去村超球场重新亮灯",
-      "onboard_time": 1751412258,
-      "rank": 37,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

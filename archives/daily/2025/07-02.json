@@ -1,6 +1,6 @@
 {
   "startTime": 1751387623546,
-  "endTime": 1751412331446,
+  "endTime": 1751413332181,
   "band_list": [
     {
       "raw_hot": 981774,
@@ -11,20 +11,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 860056,
+      "num": 985543,
+      "word": "保时捷女销冠称今年有望打破纪录",
+      "onboard_time": 1751384542,
+      "rank": 12,
+      "category": "民生新闻,汽车"
+    },
+    {
       "raw_hot": 772111,
       "num": 867444,
       "word": "猫眼 偷偷放票",
       "onboard_time": 1751381965,
       "rank": 0,
       "category": "演出"
-    },
-    {
-      "raw_hot": 760981,
-      "num": 844256,
-      "word": "保时捷女销冠称今年有望打破纪录",
-      "onboard_time": 1751384542,
-      "rank": 12,
-      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 682898,
@@ -75,15 +75,15 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 315496,
-      "num": 139551,
+      "raw_hot": 331318,
+      "num": 149355,
       "word": "男子杀害前妻12岁儿子后自杀身亡",
       "onboard_time": 1751376685,
       "rank": 33,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 302062,
+      "raw_hot": 322892,
       "num": 224635,
       "word": "质疑虐猫考生漠视生命并非追杀",
       "onboard_time": 1751385801,
@@ -139,8 +139,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 210103,
-      "num": 210103,
+      "raw_hot": 222474,
+      "num": 222474,
       "word": "台北前副市长妻子跳楼身亡",
       "onboard_time": 1751379383,
       "rank": 8,
@@ -153,6 +153,22 @@
       "onboard_time": 1751351602,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176196,
+      "num": 176196,
+      "word": "00后女子上海衣食住行两月全白嫖",
+      "onboard_time": 1751379623,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173790,
+      "num": 139584,
+      "word": "胡塞武装高超音速导弹袭击以色列",
+      "onboard_time": 1751412018,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 166141,
@@ -203,16 +219,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 142770,
-      "num": 142770,
-      "word": "00后女子上海衣食住行两月全白嫖",
-      "onboard_time": 1751379623,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 142357,
+      "num": 142357,
+      "word": "TVB金牌绿叶在周杰伦演唱会当保安",
+      "onboard_time": 1751383224,
+      "rank": 28,
+      "category": "演出"
     },
     {
-      "raw_hot": 133972,
-      "num": 133972,
+      "raw_hot": 138923,
+      "num": 138923,
       "word": "30岁女子半年多次服紧急避孕药致脑梗",
       "onboard_time": 1751371042,
       "rank": 34,
@@ -267,20 +283,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 113512,
-      "num": 113548,
-      "word": "TVB金牌绿叶在周杰伦演唱会当保安",
-      "onboard_time": 1751383224,
-      "rank": 28,
-      "category": "演出"
-    },
-    {
       "raw_hot": 112808,
       "num": 113637,
       "word": "王源疑似被恶剪做局",
       "onboard_time": 1751375183,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112354,
+      "num": 112354,
+      "word": "雄鹿裁掉利拉德",
+      "onboard_time": 1751411359,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 111670,
@@ -291,44 +307,44 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 107845,
-      "num": 107845,
+      "raw_hot": 111552,
+      "num": 111552,
+      "word": "重庆一猫咪睡在公园被路人轮流扇风",
+      "onboard_time": 1751382204,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110469,
+      "num": 110469,
       "word": "金饰克价涨到1000元",
       "onboard_time": 1751388619,
       "rank": 29,
       "category": "财经"
     },
     {
-      "raw_hot": 98873,
-      "num": 98873,
+      "raw_hot": 103855,
+      "num": 103855,
       "word": "印度网友被嘲讽",
       "onboard_time": 1751378545,
       "rank": 46,
       "category": "海外新闻"
     },
     {
-      "raw_hot": 98179,
-      "num": 98179,
+      "raw_hot": 100901,
+      "num": 100901,
       "word": "医生建议女性10点半前睡觉",
       "onboard_time": 1751366001,
       "rank": 32,
       "category": "健康医疗"
     },
     {
-      "raw_hot": 97281,
-      "num": 97281,
-      "word": "雄鹿裁掉利拉德",
-      "onboard_time": 1751411359,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 96432,
-      "num": 96432,
-      "word": "重庆一猫咪睡在公园被路人轮流扇风",
-      "onboard_time": 1751382204,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 94847,
+      "num": 94847,
+      "word": "女儿曾一年没叫焦恩俊爸爸",
+      "onboard_time": 1751411178,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 90822,
@@ -371,6 +387,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 84434,
+      "num": 88225,
+      "word": "书卷一梦热度",
+      "onboard_time": 1751413038,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 84072,
       "num": 90813,
       "word": "俄罗斯全面控制卢甘斯克",
@@ -387,12 +411,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82282,
+      "num": 82047,
+      "word": "校方否认要求摆摊毕业生删除视频",
+      "onboard_time": 1751412199,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82051,
+      "num": 82051,
+      "word": "姚明父女同框",
+      "onboard_time": 1751412438,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76434,
       "num": 76434,
       "word": "云南25岁刮腻子女网红去世",
       "onboard_time": 1751363421,
       "rank": 44,
       "category": "网红"
+    },
+    {
+      "raw_hot": 75031,
+      "num": 154643,
+      "word": "胡塞武装导弹再袭以色列",
+      "onboard_time": 1751412258,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 74045,
@@ -411,12 +459,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 70020,
-      "num": 70020,
-      "word": "女儿曾一年没叫焦恩俊爸爸",
-      "onboard_time": 1751411178,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 73294,
+      "num": 73294,
+      "word": "种地吧",
+      "onboard_time": 1751413100,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 70886,
+      "num": 70886,
+      "word": "小米YU7续航实测结果",
+      "onboard_time": 1751413100,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 65621,
@@ -451,12 +507,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 60849,
-      "num": 60849,
-      "word": "胡塞武装高超音速导弹袭击以色列",
-      "onboard_time": 1751412018,
-      "rank": 41,
-      "category": "海外新闻"
+      "raw_hot": 60679,
+      "num": 60679,
+      "word": "月嫂在雇主家工作时心梗无人担责",
+      "onboard_time": 1751397074,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59487,
@@ -465,14 +521,6 @@
       "onboard_time": 1751389697,
       "rank": 30,
       "category": "幽默,休闲"
-    },
-    {
-      "raw_hot": 57138,
-      "num": 57138,
-      "word": "月嫂在雇主家工作时心梗无人担责",
-      "onboard_time": 1751397074,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 55190,
@@ -515,6 +563,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 35712,
+      "num": 123378,
+      "word": "洪水退去村超球场重新亮灯",
+      "onboard_time": 1751412258,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30712,
       "num": 34560,
       "word": "郑钦文今年大满贯战绩",
@@ -529,6 +585,14 @@
       "onboard_time": 1751391496,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 28164,
+      "num": 147846,
+      "word": "俄法总统通话",
+      "onboard_time": 1751412258,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 27278,
@@ -563,12 +627,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 11970,
-      "num": 57329,
-      "word": "俄法总统通话",
-      "onboard_time": 1751412258,
-      "rank": 42,
-      "category": "国际时政"
+      "raw_hot": 13780,
+      "num": 105822,
+      "word": "印度无人机洗火车",
+      "onboard_time": 1751412860,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 9378,
@@ -577,22 +641,6 @@
       "onboard_time": 1751401874,
       "rank": 20,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 7451,
-      "num": 55532,
-      "word": "胡塞武装导弹再袭以色列",
-      "onboard_time": 1751412258,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 6786,
-      "num": 68512,
-      "word": "洪水退去村超球场重新亮灯",
-      "onboard_time": 1751412258,
-      "rank": 37,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
