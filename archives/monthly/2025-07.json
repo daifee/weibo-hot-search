@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751369961678,
+  "endTime": 1751374445136,
   "band_list": [
     {
       "raw_hot": 2472851,
@@ -16,6 +16,14 @@
       "word": "这是杨幂还是小糯米",
       "onboard_time": 1751351602,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2074237,
+      "num": 339973,
+      "word": "胡一天 退休了",
+      "onboard_time": 1751369842,
+      "rank": 42,
       "category": "艺人"
     },
     {
@@ -307,6 +315,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 657468,
+      "num": 495072,
+      "word": "四姑娘山滑坠16岁男子确认遇难",
+      "onboard_time": 1751369482,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 656176,
       "num": 656176,
       "word": "4个月大婴儿遭月嫂整晚暴力喂奶",
@@ -387,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 562958,
+      "num": 334218,
+      "word": "韩娱三线爱豆收入",
+      "onboard_time": 1751368403,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 554643,
       "num": 442509,
       "word": "孙恩盛 粉丝群圈钱",
@@ -425,6 +449,14 @@
       "onboard_time": 1751331680,
       "rank": 5,
       "category": "舆论监督,科学科普"
+    },
+    {
+      "raw_hot": 514161,
+      "num": 331586,
+      "word": "被黄晓明直接塞了100欧",
+      "onboard_time": 1751369662,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 508807,
@@ -547,6 +579,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 403504,
+      "num": 403504,
+      "word": "骗子频繁拨打家中电话只为收集声音",
+      "onboard_time": 1751371342,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 395256,
+      "num": 395256,
+      "word": "中纪委紧盯逃逸式辞职",
+      "onboard_time": 1751371101,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 386910,
       "num": 334214,
       "word": "徐艺洋晒鹿晗演唱会现场照",
@@ -571,6 +619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 373371,
+      "num": 319500,
+      "word": "张凌赫 水牛就是能吃苦",
+      "onboard_time": 1751372543,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 370930,
       "num": 505569,
       "word": "杨幂李现 最适合穿白色的两个人",
@@ -593,6 +649,14 @@
       "onboard_time": 1751331320,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 364974,
+      "num": 364974,
+      "word": "周杰伦观战郑钦文",
+      "onboard_time": 1751373503,
+      "rank": 4,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 364539,
@@ -635,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 350733,
+      "num": 338595,
+      "word": "肖战 力量之光",
+      "onboard_time": 1751371821,
+      "rank": 12,
+      "category": "艺人,音乐"
+    },
+    {
       "raw_hot": 346810,
       "num": 310105,
       "word": "李惠利前男友和现男友",
@@ -648,14 +720,6 @@
       "word": "Angelababy带小海绵蹦极",
       "onboard_time": 1751355501,
       "rank": 33,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 334218,
-      "num": 334218,
-      "word": "韩娱三线爱豆收入",
-      "onboard_time": 1751368403,
-      "rank": 28,
       "category": "艺人"
     },
     {
@@ -704,6 +768,14 @@
       "word": "美国演员争演中国短剧日薪涨7倍",
       "onboard_time": 1751333719,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 309276,
+      "num": 309276,
+      "word": "30岁女子半年多次服紧急避孕药致脑梗",
+      "onboard_time": 1751371042,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -1035,6 +1107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201828,
+      "num": 201828,
+      "word": "河北男孩骑行身亡案司机将起诉高德",
+      "onboard_time": 1751370621,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 201454,
       "num": 258950,
       "word": "国产C909身披五星红旗飞出国门",
@@ -1060,7 +1140,7 @@
     },
     {
       "raw_hot": 198799,
-      "num": 198799,
+      "num": 329086,
       "word": "李佳薇揭榜",
       "onboard_time": 1751369063,
       "rank": 25,
@@ -1171,6 +1251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182177,
+      "num": 315075,
+      "word": "虞书欣一拉一拉手势舞",
+      "onboard_time": 1751373262,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181446,
       "num": 343477,
       "word": "儿女不和两年后老人赡养费成问题",
@@ -1193,6 +1281,14 @@
       "onboard_time": 1751343382,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 177448,
+      "num": 312642,
+      "word": "时代少年团 团体工作室",
+      "onboard_time": 1751372362,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 176833,
@@ -1315,14 +1411,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 168566,
-      "num": 168566,
-      "word": "被黄晓明直接塞了100欧",
-      "onboard_time": 1751369662,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 168271,
       "num": 197551,
       "word": "何炅内娱白月光",
@@ -1345,6 +1433,14 @@
       "onboard_time": 1751359102,
       "rank": 32,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 163904,
+      "num": 163904,
+      "word": "迪丽热巴 连登金九",
+      "onboard_time": 1751374344,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 163190,
@@ -1411,11 +1507,11 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 157437,
-      "num": 157437,
-      "word": "胡一天 退休了",
-      "onboard_time": 1751369842,
-      "rank": 42,
+      "raw_hot": 157769,
+      "num": 311682,
+      "word": "严浩翔维权获胜",
+      "onboard_time": 1751373803,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -1425,6 +1521,14 @@
       "onboard_time": 1751347281,
       "rank": 40,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 155089,
+      "num": 343985,
+      "word": "郑钦文vs西尼亚科娃",
+      "onboard_time": 1751297424,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 154214,
@@ -1465,6 +1569,14 @@
       "onboard_time": 1751354481,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150561,
+      "num": 150561,
+      "word": "无名之辈 荒诞",
+      "onboard_time": 1751370863,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 150184,
@@ -1539,6 +1651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143399,
+      "num": 143399,
+      "word": "三只羊现身大桥通车仪式",
+      "onboard_time": 1751371283,
+      "rank": 43,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 143363,
       "num": 171116,
       "word": "锦绣芳华有自己的nimomo",
@@ -1561,6 +1681,14 @@
       "onboard_time": 1751329282,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142264,
+      "num": 341155,
+      "word": "慢动作看孙颖莎备战训练",
+      "onboard_time": 1751372061,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 142066,
@@ -1779,6 +1907,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 131169,
+      "num": 131169,
+      "word": "警方回应男子杀害前妻儿子不予立案",
+      "onboard_time": 1751372902,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131073,
       "num": 131073,
       "word": "女儿烫伤脸母亲维权未果致流产",
@@ -1841,6 +1977,14 @@
       "onboard_time": 1751282242,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 127232,
+      "num": 127232,
+      "word": "白玉兰奖金",
+      "onboard_time": 1751373562,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 126913,
@@ -2387,14 +2531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 88396,
-      "num": 495072,
-      "word": "四姑娘山滑坠16岁男子确认遇难",
-      "onboard_time": 1751369482,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 88226,
       "num": 88226,
       "word": "7月份十二星座注意事项",
@@ -2435,14 +2571,6 @@
       "category": "幽默,运动健身"
     },
     {
-      "raw_hot": 87119,
-      "num": 87119,
-      "word": "郑钦文vs西尼亚科娃",
-      "onboard_time": 1751297424,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 86171,
       "num": 290709,
       "word": "MG总经理刚上任就背刺",
@@ -2480,6 +2608,14 @@
       "word": "公积金结息能领几千元",
       "onboard_time": 1751274681,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82286,
+      "num": 330520,
+      "word": "鸿星尔克启动熊猫家园守护计划",
+      "onboard_time": 1751373743,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -2611,12 +2747,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 68458,
+      "num": 318750,
+      "word": "温网3号种子爆冷出局",
+      "onboard_time": 1751373383,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68202,
       "num": 68202,
       "word": "幼儿园招老师工资分级最高不超3千",
       "onboard_time": 1751287283,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66800,
+      "num": 150564,
+      "word": "海猫好卡兔好",
+      "onboard_time": 1751373441,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 66393,
@@ -2787,6 +2939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44400,
+      "num": 310788,
+      "word": "网红书店的生意今年不好做了",
+      "onboard_time": 1751373681,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44102,
       "num": 300238,
       "word": "警方称并非所有中华田园犬都禁养",
@@ -2899,6 +3059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33106,
+      "num": 344478,
+      "word": "解限机直播高光时刻",
+      "onboard_time": 1751371522,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 31983,
       "num": 35231,
       "word": "2025上半年纪念短片",
@@ -3001,6 +3169,14 @@
       "onboard_time": 1751344882,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23580,
+      "num": 151445,
+      "word": "这才是马斯克面临的最大威胁",
+      "onboard_time": 1751369543,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 23410,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1751374445136,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 684826,
+        "num": 1109572,
+        "word": "微信可以不接收共同好友点赞提醒了",
+        "onboard_time": 1751353402,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 403504,
+        "num": 403504,
+        "word": "骗子频繁拨打家中电话只为收集声音",
+        "onboard_time": 1751371342,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53219,
+        "num": 397555,
+        "word": "用28秒打开香港回归祖国28周年",
+        "onboard_time": 1751368342,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 395256,
+        "num": 395256,
+        "word": "中纪委紧盯逃逸式辞职",
+        "onboard_time": 1751371101,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 364974,
+        "num": 364974,
+        "word": "周杰伦观战郑钦文",
+        "onboard_time": 1751373503,
+        "rank": 4,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 657468,
+        "num": 364264,
+        "word": "四姑娘山滑坠16岁男子确认遇难",
+        "onboard_time": 1751369482,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 355960,
+        "num": 355960,
+        "word": "印度人嘲讽中国火车",
+        "onboard_time": 1751359882,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 346085,
+        "num": 346085,
+        "word": "美国瑞幸价格",
+        "onboard_time": 1751364201,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 33106,
+        "num": 344478,
+        "word": "解限机直播高光时刻",
+        "onboard_time": 1751371522,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155089,
+        "num": 343985,
+        "word": "郑钦文vs西尼亚科娃",
+        "onboard_time": 1751371462,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142264,
+        "num": 341155,
+        "word": "慢动作看孙颖莎备战训练",
+        "onboard_time": 1751372061,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2074237,
+        "num": 339973,
+        "word": "胡一天 退休了",
+        "onboard_time": 1751369842,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350733,
+        "num": 338595,
+        "word": "肖战 力量之光",
+        "onboard_time": 1751371821,
+        "rank": 12,
+        "category": "艺人,音乐"
+      },
+      {
+        "raw_hot": 695565,
+        "num": 337509,
+        "word": "14岁邹明轩身高",
+        "onboard_time": 1751368223,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351665,
+        "num": 334580,
+        "word": "云南25岁刮腻子女网红去世",
+        "onboard_time": 1751363421,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 562958,
+        "num": 333188,
+        "word": "韩娱三线爱豆收入",
+        "onboard_time": 1751368403,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 514161,
+        "num": 331586,
+        "word": "被黄晓明直接塞了100欧",
+        "onboard_time": 1751369662,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82286,
+        "num": 330520,
+        "word": "鸿星尔克启动熊猫家园守护计划",
+        "onboard_time": 1751373743,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106076,
+        "num": 329086,
+        "word": "李佳薇揭榜",
+        "onboard_time": 1751369063,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 437998,
+        "num": 327346,
+        "word": "这是杨幂还是小糯米",
+        "onboard_time": 1751351602,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 445566,
+        "num": 324337,
+        "word": "首创集团原董事长李爱庆一审死缓",
+        "onboard_time": 1751355141,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 431606,
+        "num": 322720,
+        "word": "孙恩盛 无证驾驶",
+        "onboard_time": 1751360303,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 375367,
+        "num": 321095,
+        "word": "女子腿痒了2个月查出肝癌",
+        "onboard_time": 1751356281,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 373371,
+        "num": 319500,
+        "word": "张凌赫 水牛就是能吃苦",
+        "onboard_time": 1751372543,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68458,
+        "num": 318750,
+        "word": "温网3号种子爆冷出局",
+        "onboard_time": 1751373383,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186950,
+        "num": 316965,
+        "word": "时代少年团大连演唱会酒店涨价88倍",
+        "onboard_time": 1751358924,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 182177,
+        "num": 315075,
+        "word": "虞书欣一拉一拉手势舞",
+        "onboard_time": 1751373262,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177448,
+        "num": 312642,
+        "word": "时代少年团 团体工作室",
+        "onboard_time": 1751372362,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157769,
+        "num": 311682,
+        "word": "严浩翔维权获胜",
+        "onboard_time": 1751373803,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44400,
+        "num": 310788,
+        "word": "网红书店的生意今年不好做了",
+        "onboard_time": 1751373681,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309276,
+        "num": 309276,
+        "word": "30岁女子半年多次服紧急避孕药致脑梗",
+        "onboard_time": 1751371042,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211146,
+        "num": 211146,
+        "word": "胡一天回应没进组",
+        "onboard_time": 1751368521,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206457,
+        "num": 206457,
+        "word": "女儿黑救护车上死亡父母发声",
+        "onboard_time": 1751361862,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201828,
+        "num": 201828,
+        "word": "河北男孩骑行身亡案司机将起诉高德",
+        "onboard_time": 1751370621,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177139,
+        "num": 177139,
+        "word": "日本19岁女子全裸身亡男友逃逸被捕",
+        "onboard_time": 1751356581,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 163904,
+        "num": 163904,
+        "word": "迪丽热巴 连登金九",
+        "onboard_time": 1751374344,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155225,
+        "num": 155225,
+        "word": "孙恩盛 粉丝群圈钱",
+        "onboard_time": 1751364681,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 266356,
+        "num": 153004,
+        "word": "那英说龚俊经纪人够差劲的",
+        "onboard_time": 1751357840,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23580,
+        "num": 151445,
+        "word": "这才是马斯克面临的最大威胁",
+        "onboard_time": 1751369543,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 66800,
+        "num": 150564,
+        "word": "海猫好卡兔好",
+        "onboard_time": 1751373441,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150561,
+        "num": 150561,
+        "word": "无名之辈 荒诞",
+        "onboard_time": 1751370863,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148047,
+        "num": 148047,
+        "word": "医生建议女性10点半前睡觉",
+        "onboard_time": 1751366001,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 146166,
+        "num": 146166,
+        "word": "虐猫考生被取消招聘资格",
+        "onboard_time": 1751349923,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143399,
+        "num": 143399,
+        "word": "三只羊现身大桥通车仪式",
+        "onboard_time": 1751371283,
+        "rank": 43,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 137141,
+        "num": 137141,
+        "word": "虐猫考生上岸失败系道德品行等问题",
+        "onboard_time": 1751355742,
+        "rank": 44,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 133136,
+        "num": 133136,
+        "word": "Oasis",
+        "onboard_time": 1751364561,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131169,
+        "num": 131169,
+        "word": "警方回应男子杀害前妻儿子不予立案",
+        "onboard_time": 1751372902,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128352,
+        "num": 128352,
+        "word": "37岁男子糖尿病7年不重视致截肢失明",
+        "onboard_time": 1751363301,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127517,
+        "num": 127517,
+        "word": "中国共产党104岁生日",
+        "onboard_time": 1751368582,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 127232,
+        "num": 127232,
+        "word": "白玉兰奖金",
+        "onboard_time": 1751373562,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}
