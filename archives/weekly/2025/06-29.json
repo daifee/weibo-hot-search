@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751377866754,
+  "endTime": 1751379956334,
   "band_list": [
     {
       "raw_hot": 3569605,
@@ -803,6 +803,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 734062,
+      "num": 276125,
+      "word": "小沈阳女儿专辑售卖遇冷",
+      "onboard_time": 1751377224,
+      "rank": 27,
+      "category": "音乐,艺人"
+    },
+    {
       "raw_hot": 733026,
       "num": 733026,
       "word": "中国共产党党员总数为10027.1万名",
@@ -995,12 +1003,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 649115,
+      "num": 649115,
+      "word": "王源疑似被恶剪做局",
+      "onboard_time": 1751375183,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 643490,
       "num": 643490,
       "word": "杨幂挂了labubu",
       "onboard_time": 1751207182,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 639713,
+      "num": 639713,
+      "word": "迪丽热巴 连登金九",
+      "onboard_time": 1751374344,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 639692,
@@ -1017,14 +1041,6 @@
       "onboard_time": 1751340862,
       "rank": 13,
       "category": "财经,民生新闻"
-    },
-    {
-      "raw_hot": 636591,
-      "num": 494103,
-      "word": "迪丽热巴 连登金九",
-      "onboard_time": 1751374344,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 633772,
@@ -1161,6 +1177,14 @@
       "onboard_time": 1751180359,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 572968,
+      "num": 572968,
+      "word": "特朗普回应驱逐马斯克",
+      "onboard_time": 1751377103,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 571240,
@@ -1459,14 +1483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 493285,
-      "num": 493285,
-      "word": "王源疑似被恶剪做局",
-      "onboard_time": 1751375183,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 488001,
       "num": 466834,
       "word": "周深向贵州榕江灾区捐赠物资",
@@ -1707,6 +1723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 427194,
+      "num": 427194,
+      "word": "南京地铁车厢内可以喝奶茶了",
+      "onboard_time": 1751376744,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 426693,
       "num": 426693,
       "word": "孙恩盛停播",
@@ -1737,6 +1761,14 @@
       "onboard_time": 1751196143,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 417805,
+      "num": 417805,
+      "word": "郑钦文vs西尼亚科娃",
+      "onboard_time": 1751297424,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 416084,
@@ -2323,12 +2355,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 316500,
-      "num": 232068,
-      "word": "小沈阳女儿专辑售卖遇冷",
-      "onboard_time": 1751377224,
-      "rank": 27,
-      "category": "音乐,艺人"
+      "raw_hot": 317075,
+      "num": 271185,
+      "word": "掏粪工5天工资8100",
+      "onboard_time": 1751379023,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 315848,
@@ -2441,6 +2473,14 @@
       "onboard_time": 1751172203,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 302865,
+      "num": 266965,
+      "word": "曾经的李钟硕回来了",
+      "onboard_time": 1751377885,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 302703,
@@ -2667,6 +2707,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 286199,
+      "num": 287714,
+      "word": "宋雨琦晒白鹿买的T恤",
+      "onboard_time": 1751376383,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 285821,
       "num": 191006,
       "word": "白桃星座一周运势",
@@ -2707,14 +2755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 279569,
-      "num": 287714,
-      "word": "宋雨琦晒白鹿买的T恤",
-      "onboard_time": 1751376383,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 279181,
       "num": 342575,
       "word": "李现演爽了我也看爽了",
@@ -2737,6 +2777,14 @@
       "onboard_time": 1751205263,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 277337,
+      "num": 277337,
+      "word": "台北前副市长妻子跳楼身亡",
+      "onboard_time": 1751379383,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 276436,
@@ -2987,6 +3035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 253461,
+      "num": 253461,
+      "word": "南京地铁车厢内喝水不再罚款",
+      "onboard_time": 1751378425,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 251479,
       "num": 251479,
       "word": "易烊千玺中国电影导演协会提名",
@@ -3041,14 +3097,6 @@
       "onboard_time": 1751298262,
       "rank": 18,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 244541,
-      "num": 236723,
-      "word": "特朗普回应驱逐马斯克",
-      "onboard_time": 1751377103,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 244071,
@@ -3188,7 +3236,7 @@
     },
     {
       "raw_hot": 230075,
-      "num": 230075,
+      "num": 262683,
       "word": "刘宇宁的坐姿",
       "onboard_time": 1751376143,
       "rank": 33,
@@ -3289,14 +3337,6 @@
       "onboard_time": 1751342482,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 223444,
-      "num": 343985,
-      "word": "郑钦文vs西尼亚科娃",
-      "onboard_time": 1751297424,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 222354,
@@ -3475,6 +3515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212939,
+      "num": 212939,
+      "word": "印度一男子医院割喉女友无人干预",
+      "onboard_time": 1751378244,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 212924,
       "num": 212924,
       "word": "白玉兰奖金",
@@ -3569,6 +3617,14 @@
       "onboard_time": 1751195181,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207773,
+      "num": 207773,
+      "word": "迪丽热巴7月进组新戏",
+      "onboard_time": 1751379923,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 207522,
@@ -3715,6 +3771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 201629,
+      "num": 201629,
+      "word": "田曦薇迪士尼太好玩了",
+      "onboard_time": 1751379084,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201454,
       "num": 258950,
       "word": "国产C909身披五星红旗飞出国门",
@@ -3843,6 +3907,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 197441,
+      "num": 197441,
+      "word": "一银行原纪委书记被小三举报",
+      "onboard_time": 1751377885,
+      "rank": 39,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 197196,
       "num": 197196,
       "word": "卢伟冰回应小米青年公寓定价1999元",
@@ -3923,14 +3995,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 195067,
-      "num": 289177,
-      "word": "南京地铁车厢内可以喝奶茶了",
-      "onboard_time": 1751376744,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 195010,
       "num": 195010,
       "word": "苏超苏州3比0扬州",
@@ -3961,6 +4025,14 @@
       "onboard_time": 1751192841,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 194589,
+      "num": 270102,
+      "word": "陈冠希观战王欣瑜",
+      "onboard_time": 1751378663,
+      "rank": 24,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 194534,
@@ -4121,6 +4193,14 @@
       "onboard_time": 1751245161,
       "rank": 45,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 189682,
+      "num": 189682,
+      "word": "王青上线了",
+      "onboard_time": 1751379803,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 189626,
@@ -5065,6 +5145,14 @@
       "onboard_time": 1751177361,
       "rank": 40,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 162033,
+      "num": 162033,
+      "word": "王欣瑜vs穆霍娃",
+      "onboard_time": 1751371342,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 161992,
@@ -8747,6 +8835,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 77128,
+      "num": 276140,
+      "word": "特朗普称没补贴马斯克就得回老家",
+      "onboard_time": 1751378545,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 77025,
       "num": 128774,
       "word": "柱灭之刃第一章",
@@ -9723,6 +9819,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 36577,
+      "num": 275222,
+      "word": "新疆那拉提景区一游客驾车驶入草场",
+      "onboard_time": 1751379683,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36491,
       "num": 36491,
       "word": "汪苏泷罗曼城魔法回到24小时前",
@@ -9875,6 +9979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32855,
+      "num": 276105,
+      "word": "佩通坦通话泄密始末",
+      "onboard_time": 1751379144,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 32661,
       "num": 119858,
       "word": "本菲卡0比1切尔西",
@@ -9937,6 +10049,14 @@
       "onboard_time": 1751286623,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31046,
+      "num": 260385,
+      "word": "上海动物园事件余波",
+      "onboard_time": 1751379683,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30835,
@@ -10801,6 +10921,14 @@
       "onboard_time": 1751351780,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6974,
+      "num": 640594,
+      "word": "天问二号拍到地月影像图",
+      "onboard_time": 1751379864,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
