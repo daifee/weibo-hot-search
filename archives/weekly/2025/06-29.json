@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751398665957,
+  "endTime": 1751401751499,
   "band_list": [
     {
       "raw_hot": 3569605,
@@ -10891,6 +10891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21370,
+      "num": 21370,
+      "word": "月嫂在雇主家工作时心梗无人担责",
+      "onboard_time": 1751397074,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20908,
       "num": 28729,
       "word": "榕江有珠宝店三成金银饰品被冲走",
@@ -10961,14 +10969,6 @@
       "onboard_time": 1751179702,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 18949,
-      "num": 18949,
-      "word": "月嫂在雇主家工作时心梗无人担责",
-      "onboard_time": 1751397074,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18765,
@@ -11145,6 +11145,14 @@
       "onboard_time": 1751213601,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 14586,
+      "num": 14586,
+      "word": "特朗普将给新移民监狱剪彩",
+      "onboard_time": 1751399173,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 14204,

@@ -1,6 +1,6 @@
 {
   "startTime": 1751387623546,
-  "endTime": 1751398665957,
+  "endTime": 1751401751499,
   "band_list": [
     {
       "raw_hot": 981774,
@@ -499,12 +499,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 18949,
-      "num": 18949,
+      "raw_hot": 21370,
+      "num": 21370,
       "word": "月嫂在雇主家工作时心梗无人担责",
       "onboard_time": 1751397074,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14586,
+      "num": 14586,
+      "word": "特朗普将给新移民监狱剪彩",
+      "onboard_time": 1751399173,
+      "rank": 46,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
