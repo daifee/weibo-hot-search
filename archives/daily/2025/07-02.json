@@ -1,6 +1,6 @@
 {
   "startTime": 1751387623546,
-  "endTime": 1751409847574,
+  "endTime": 1751412331446,
   "band_list": [
     {
       "raw_hot": 981774,
@@ -19,20 +19,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 760981,
+      "num": 844256,
+      "word": "保时捷女销冠称今年有望打破纪录",
+      "onboard_time": 1751384542,
+      "rank": 12,
+      "category": "民生新闻,汽车"
+    },
+    {
       "raw_hot": 682898,
       "num": 205851,
       "word": "胡一天 退休了",
       "onboard_time": 1751369842,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 611455,
-      "num": 534360,
-      "word": "保时捷女销冠称今年有望打破纪录",
-      "onboard_time": 1751384542,
-      "rank": 12,
-      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 522513,
@@ -72,6 +72,22 @@
       "word": "掏粪工5天工资8100",
       "onboard_time": 1751379023,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 315496,
+      "num": 139551,
+      "word": "男子杀害前妻12岁儿子后自杀身亡",
+      "onboard_time": 1751376685,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 302062,
+      "num": 224635,
+      "word": "质疑虐猫考生漠视生命并非追杀",
+      "onboard_time": 1751385801,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -115,11 +131,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 224635,
-      "num": 224635,
-      "word": "质疑虐猫考生漠视生命并非追杀",
-      "onboard_time": 1751385801,
-      "rank": 31,
+      "raw_hot": 230887,
+      "num": 230887,
+      "word": "女子高铁站扶梯逆行致多人拥堵",
+      "onboard_time": 1751385203,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -139,12 +155,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 184618,
-      "num": 96801,
-      "word": "男子杀害前妻12岁儿子后自杀身亡",
-      "onboard_time": 1751376685,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 166141,
+      "num": 166141,
+      "word": "甘薇送孩子去美国看贾跃亭",
+      "onboard_time": 1751385982,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 157442,
@@ -163,14 +179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 154568,
-      "num": 209986,
-      "word": "女子高铁站扶梯逆行致多人拥堵",
-      "onboard_time": 1751385203,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 149774,
       "num": 149774,
       "word": "女子腿痒了2个月查出肝癌",
@@ -179,12 +187,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149334,
+      "num": 134379,
+      "word": "一银行原纪委书记被小三举报",
+      "onboard_time": 1751377885,
+      "rank": 37,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 145807,
       "num": 145807,
       "word": "14岁邹明轩身高",
       "onboard_time": 1751368223,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142770,
+      "num": 142770,
+      "word": "00后女子上海衣食住行两月全白嫖",
+      "onboard_time": 1751379623,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133972,
+      "num": 133972,
+      "word": "30岁女子半年多次服紧急避孕药致脑梗",
+      "onboard_time": 1751371042,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129737,
@@ -235,6 +267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 113512,
+      "num": 113548,
+      "word": "TVB金牌绿叶在周杰伦演唱会当保安",
+      "onboard_time": 1751383224,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 112808,
       "num": 113637,
       "word": "王源疑似被恶剪做局",
@@ -243,20 +283,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 109331,
-      "num": 109331,
-      "word": "甘薇送孩子去美国看贾跃亭",
-      "onboard_time": 1751385982,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 111670,
+      "num": 142215,
+      "word": "看杨紫眼神戏心里皱巴巴的",
+      "onboard_time": 1751390177,
+      "rank": 45,
+      "category": "剧集"
     },
     {
-      "raw_hot": 101169,
-      "num": 101091,
+      "raw_hot": 107845,
+      "num": 107845,
       "word": "金饰克价涨到1000元",
       "onboard_time": 1751388619,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 98873,
+      "num": 98873,
+      "word": "印度网友被嘲讽",
+      "onboard_time": 1751378545,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 98179,
@@ -267,19 +315,19 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 94826,
-      "num": 113548,
-      "word": "TVB金牌绿叶在周杰伦演唱会当保安",
-      "onboard_time": 1751383224,
-      "rank": 28,
-      "category": "演出"
+      "raw_hot": 97281,
+      "num": 97281,
+      "word": "雄鹿裁掉利拉德",
+      "onboard_time": 1751411359,
+      "rank": 25,
+      "category": "体育"
     },
     {
-      "raw_hot": 92282,
-      "num": 92282,
-      "word": "30岁女子半年多次服紧急避孕药致脑梗",
-      "onboard_time": 1751371042,
-      "rank": 34,
+      "raw_hot": 96432,
+      "num": 96432,
+      "word": "重庆一猫咪睡在公园被路人轮流扇风",
+      "onboard_time": 1751382204,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -291,20 +339,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 87558,
-      "num": 87558,
-      "word": "一银行原纪委书记被小三举报",
-      "onboard_time": 1751377885,
-      "rank": 37,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 85815,
-      "num": 85815,
-      "word": "00后女子上海衣食住行两月全白嫖",
-      "onboard_time": 1751379623,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 86003,
+      "num": 86003,
+      "word": "皇马1比0尤文图斯",
+      "onboard_time": 1751411838,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 85738,
@@ -332,7 +372,7 @@
     },
     {
       "raw_hot": 84072,
-      "num": 84072,
+      "num": 90813,
       "word": "俄罗斯全面控制卢甘斯克",
       "onboard_time": 1751385023,
       "rank": 41,
@@ -344,22 +384,6 @@
       "word": "七根心简",
       "onboard_time": 1751383464,
       "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 83249,
-      "num": 83249,
-      "word": "重庆一猫咪睡在公园被路人轮流扇风",
-      "onboard_time": 1751382204,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 77669,
-      "num": 77669,
-      "word": "看杨紫眼神戏心里皱巴巴的",
-      "onboard_time": 1751390177,
-      "rank": 45,
       "category": "剧集"
     },
     {
@@ -387,12 +411,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 70157,
-      "num": 74030,
-      "word": "印度网友被嘲讽",
-      "onboard_time": 1751378545,
-      "rank": 46,
-      "category": "海外新闻"
+      "raw_hot": 70020,
+      "num": 70020,
+      "word": "女儿曾一年没叫焦恩俊爸爸",
+      "onboard_time": 1751411178,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 65621,
@@ -401,6 +425,14 @@
       "onboard_time": 1751378425,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65146,
+      "num": 65146,
+      "word": "日本一男子被前同事刺伤喉咙身亡",
+      "onboard_time": 1751407334,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 64317,
@@ -419,12 +451,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 60849,
+      "num": 60849,
+      "word": "胡塞武装高超音速导弹袭击以色列",
+      "onboard_time": 1751412018,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 59487,
       "num": 59487,
       "word": "关闭朋友圈半年后的真实变化",
       "onboard_time": 1751389697,
       "rank": 30,
       "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 57138,
+      "num": 57138,
+      "word": "月嫂在雇主家工作时心梗无人担责",
+      "onboard_time": 1751397074,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55190,
+      "num": 55190,
+      "word": "女子抱猫睡觉半年后确诊体癣",
+      "onboard_time": 1751383944,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53263,
@@ -457,30 +513,6 @@
       "onboard_time": 1751390417,
       "rank": 44,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 38013,
-      "num": 38013,
-      "word": "女子抱猫睡觉半年后确诊体癣",
-      "onboard_time": 1751383944,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 37540,
-      "num": 37540,
-      "word": "月嫂在雇主家工作时心梗无人担责",
-      "onboard_time": 1751397074,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35794,
-      "num": 35794,
-      "word": "日本一男子被前同事刺伤喉咙身亡",
-      "onboard_time": 1751407334,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 30712,
@@ -531,12 +563,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 11970,
+      "num": 57329,
+      "word": "俄法总统通话",
+      "onboard_time": 1751412258,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 9378,
       "num": 27296,
       "word": "他率500多名战士阻击7倍于己的日伪军",
       "onboard_time": 1751401874,
       "rank": 20,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 7451,
+      "num": 55532,
+      "word": "胡塞武装导弹再袭以色列",
+      "onboard_time": 1751412258,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 6786,
+      "num": 68512,
+      "word": "洪水退去村超球场重新亮灯",
+      "onboard_time": 1751412258,
+      "rank": 37,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
