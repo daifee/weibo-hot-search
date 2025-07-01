@@ -1,10 +1,10 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751336437502,
+  "endTime": 1751337592521,
   "band_list": [
     {
-      "raw_hot": 1387857,
-      "num": 1387857,
+      "raw_hot": 1867072,
+      "num": 1867072,
       "word": "公积金",
       "onboard_time": 1751333600,
       "rank": 0,
@@ -75,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 620661,
+      "num": 620661,
+      "word": "王楚然付辛博挽手路透",
+      "onboard_time": 1751334201,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 528239,
       "num": 528239,
       "word": "央视揭秘无菌蛋真相",
@@ -91,20 +99,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 495340,
+      "num": 495340,
+      "word": "男子8公斤黄金卖了612万赚312万",
+      "onboard_time": 1751336540,
+      "rank": 6,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 481210,
       "num": 481210,
       "word": "动物园被举报用个人码收门票上千万",
       "onboard_time": 1751331442,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 471503,
-      "num": 471503,
-      "word": "王楚然付辛博挽手路透",
-      "onboard_time": 1751334201,
-      "rank": 7,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 456760,
@@ -123,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 432181,
+      "num": 432181,
+      "word": "深圳卫健委发文怼二手烟",
+      "onboard_time": 1751331081,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 417389,
       "num": 417389,
       "word": "因微信办公违规多人被处理",
@@ -131,12 +147,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 403979,
-      "num": 403979,
-      "word": "深圳卫健委发文怼二手烟",
-      "onboard_time": 1751331081,
-      "rank": 11,
-      "category": "民生新闻"
+      "raw_hot": 412215,
+      "num": 412215,
+      "word": "特斯拉涨价",
+      "onboard_time": 1751335101,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 407921,
+      "num": 433872,
+      "word": "邓超头像含鹿量超高",
+      "onboard_time": 1751334860,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 386910,
@@ -156,7 +180,7 @@
     },
     {
       "raw_hot": 365121,
-      "num": 365121,
+      "num": 432339,
       "word": "党的生日",
       "onboard_time": 1751331320,
       "rank": 13,
@@ -169,6 +193,14 @@
       "onboard_time": 1751294604,
       "rank": 20,
       "category": "网红"
+    },
+    {
+      "raw_hot": 326526,
+      "num": 450312,
+      "word": "穿普拉达的女王2开拍",
+      "onboard_time": 1751332881,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 315848,
@@ -187,20 +219,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 302703,
+      "num": 448626,
+      "word": "日本官方通报8696航班降落关西机场",
+      "onboard_time": 1751335339,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 299295,
       "num": 266198,
       "word": "夏天女装 不日常",
       "onboard_time": 1751328981,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 294851,
-      "num": 450312,
-      "word": "穿普拉达的女王2开拍",
-      "onboard_time": 1751332881,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 283131,
@@ -211,36 +243,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 277993,
-      "num": 277993,
-      "word": "邓超头像含鹿量超高",
-      "onboard_time": 1751334860,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 256330,
-      "num": 256330,
+      "raw_hot": 262987,
+      "num": 262987,
       "word": "美国演员争演中国短剧日薪涨7倍",
       "onboard_time": 1751333719,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 249390,
-      "num": 448626,
-      "word": "日本官方通报8696航班降落关西机场",
-      "onboard_time": 1751335339,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 247754,
-      "num": 247754,
-      "word": "特斯拉涨价",
-      "onboard_time": 1751335101,
-      "rank": 23,
-      "category": "汽车"
     },
     {
       "raw_hot": 245403,
@@ -249,6 +257,14 @@
       "onboard_time": 1751298262,
       "rank": 18,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 243369,
+      "num": 269736,
+      "word": "解禁中华田园犬是治理的进步",
+      "onboard_time": 1751335339,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 242103,
@@ -260,7 +276,7 @@
     },
     {
       "raw_hot": 229313,
-      "num": 277923,
+      "num": 281482,
       "word": "杨幂很轻易想到迪丽热巴",
       "onboard_time": 1751329041,
       "rank": 17,
@@ -339,6 +355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168602,
+      "num": 168602,
+      "word": "广州地铁限制充电宝容量及数量",
+      "onboard_time": 1751335701,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162372,
       "num": 202699,
       "word": "鞠婧祎工作室 会剪",
@@ -347,12 +371,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161929,
+      "num": 161929,
+      "word": "中国代表强烈要求加沙立即持久停火",
+      "onboard_time": 1751336240,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 161842,
       "num": 161842,
       "word": "天问二号59万公里外旅行照片",
       "onboard_time": 1751331320,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 150184,
+      "num": 150184,
+      "word": "中方制裁菲律宾前参议员托伦蒂诺",
+      "onboard_time": 1751337081,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 145921,
@@ -403,6 +443,14 @@
       "category": "美食,民生新闻"
     },
     {
+      "raw_hot": 132050,
+      "num": 132050,
+      "word": "无菌蛋 少菌",
+      "onboard_time": 1751337320,
+      "rank": 40,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 131073,
       "num": 131073,
       "word": "女儿烫伤脸母亲维权未果致流产",
@@ -427,14 +475,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 127040,
-      "num": 127040,
-      "word": "广州地铁限制充电宝容量及数量",
-      "onboard_time": 1751335701,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 126120,
       "num": 112060,
       "word": "拉拉维亚加盟湖人",
@@ -443,12 +483,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122208,
-      "num": 122208,
-      "word": "中国代表强烈要求加沙立即持久停火",
-      "onboard_time": 1751336240,
-      "rank": 41,
-      "category": "国际时政"
+      "raw_hot": 125726,
+      "num": 125726,
+      "word": "国乒WTT美国大满贯参赛名单",
+      "onboard_time": 1751336660,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 120851,
@@ -457,6 +497,14 @@
       "onboard_time": 1751323696,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120822,
+      "num": 120822,
+      "word": "特朗普批评日本不接受美国大米",
+      "onboard_time": 1751337320,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 120311,
@@ -515,12 +563,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110809,
+      "num": 110809,
+      "word": "高中时追星真的超有意思",
+      "onboard_time": 1751336720,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 109517,
       "num": 200921,
       "word": "刘畅不语只是一味骚扰何惟芳",
       "onboard_time": 1751316854,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108330,
+      "num": 108330,
+      "word": "上海地铁",
+      "onboard_time": 1751334559,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106576,
@@ -569,6 +633,14 @@
       "onboard_time": 1751282602,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96526,
+      "num": 132336,
+      "word": "樊振东解说自己打球",
+      "onboard_time": 1751336479,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 95846,
@@ -739,14 +811,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 72995,
-      "num": 269736,
-      "word": "解禁中华田园犬是治理的进步",
-      "onboard_time": 1751335339,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 72040,
       "num": 72040,
       "word": "李现带着蒋长扬BGM回来了",
@@ -817,6 +881,14 @@
       "onboard_time": 1751325199,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 53520,
+      "num": 313852,
+      "word": "湘潭大学宿舍投毒案被告提起上诉",
+      "onboard_time": 1751337140,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52321,
@@ -1033,6 +1105,14 @@
       "onboard_time": 1751308155,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 19283,
+      "num": 132126,
+      "word": "上海飞东京急降航班乘客获赔750元",
+      "onboard_time": 1751336902,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19279,
