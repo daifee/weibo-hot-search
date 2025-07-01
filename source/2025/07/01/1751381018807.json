@@ -1,0 +1,410 @@
+{
+  "runTime": 1751381018807,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 720586,
+        "num": 1115293,
+        "word": "微信可以不接收共同好友点赞提醒了",
+        "onboard_time": 1751353402,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 692020,
+        "num": 692020,
+        "word": "郑钦文vs西尼亚科娃",
+        "onboard_time": 1751371462,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38981,
+        "num": 563568,
+        "word": "中国共产党104岁生日",
+        "onboard_time": 1751368582,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 544417,
+        "num": 544417,
+        "word": "台北前副市长妻子跳楼身亡",
+        "onboard_time": 1751379383,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 537802,
+        "num": 537802,
+        "word": "特朗普回应驱逐马斯克",
+        "onboard_time": 1751377103,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 510132,
+        "num": 510132,
+        "word": "迪丽热巴 连登金九",
+        "onboard_time": 1751374344,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 463634,
+        "num": 463634,
+        "word": "王源疑似被恶剪做局",
+        "onboard_time": 1751375183,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 463504,
+        "num": 463504,
+        "word": "王青上线了",
+        "onboard_time": 1751379803,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399176,
+        "num": 399176,
+        "word": "南京地铁车厢内可以喝奶茶了",
+        "onboard_time": 1751376744,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245168,
+        "num": 399033,
+        "word": "南京地铁车厢内喝水不再罚款",
+        "onboard_time": 1751378425,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1649674,
+        "num": 398343,
+        "word": "胡一天 退休了",
+        "onboard_time": 1751369842,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 828371,
+        "num": 396898,
+        "word": "掏粪工5天工资8100",
+        "onboard_time": 1751379023,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 808795,
+        "num": 396177,
+        "word": "小沈阳女儿专辑售卖遇冷",
+        "onboard_time": 1751377224,
+        "rank": 12,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 648931,
+        "num": 395393,
+        "word": "陈赫回应鹿晗暴瘦",
+        "onboard_time": 1751380342,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448191,
+        "num": 395156,
+        "word": "曾经的李钟硕回来了",
+        "onboard_time": 1751377885,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 425481,
+        "num": 393967,
+        "word": "14岁邹明轩身高",
+        "onboard_time": 1751368223,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393741,
+        "num": 393741,
+        "word": "这是杨幂还是小糯米",
+        "onboard_time": 1751351602,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330061,
+        "num": 330061,
+        "word": "韩娱三线爱豆收入",
+        "onboard_time": 1751368403,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301819,
+        "num": 301819,
+        "word": "女子腿痒了2个月查出肝癌",
+        "onboard_time": 1751356281,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298693,
+        "num": 298693,
+        "word": "云南25岁刮腻子女网红去世",
+        "onboard_time": 1751363421,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 563528,
+        "num": 293835,
+        "word": "首创集团原董事长李爱庆一审死缓",
+        "onboard_time": 1751355141,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286669,
+        "num": 286669,
+        "word": "陈冠希观战王欣瑜",
+        "onboard_time": 1751378663,
+        "rank": 21,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 261515,
+        "num": 261515,
+        "word": "印度人嘲讽中国火车",
+        "onboard_time": 1751359882,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 259835,
+        "num": 259835,
+        "word": "被黄晓明直接塞了100欧",
+        "onboard_time": 1751369662,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241359,
+        "num": 241359,
+        "word": "四姑娘山滑坠16岁男子确认遇难",
+        "onboard_time": 1751369482,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233454,
+        "num": 233454,
+        "word": "孙恩盛 无证驾驶",
+        "onboard_time": 1751360303,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 218501,
+        "num": 218501,
+        "word": "佩通坦通话泄密始末",
+        "onboard_time": 1751379144,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 219549,
+        "num": 218496,
+        "word": "迪丽热巴7月进组新戏",
+        "onboard_time": 1751379923,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193841,
+        "num": 217429,
+        "word": "周杰伦观战郑钦文",
+        "onboard_time": 1751373503,
+        "rank": 28,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 168373,
+        "num": 216919,
+        "word": "刘宇宁的坐姿",
+        "onboard_time": 1751376143,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222575,
+        "num": 216421,
+        "word": "宋雨琦晒白鹿买的T恤",
+        "onboard_time": 1751376383,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216314,
+        "num": 216314,
+        "word": "田曦薇迪士尼太好玩了",
+        "onboard_time": 1751379084,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197296,
+        "num": 197296,
+        "word": "印度一男子医院割喉女友无人干预",
+        "onboard_time": 1751378244,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 190682,
+        "num": 190682,
+        "word": "王欣瑜2比0穆霍娃",
+        "onboard_time": 1751380464,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79351,
+        "num": 182956,
+        "word": "郑钦文1比2西尼亚科娃",
+        "onboard_time": 1751380885,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181587,
+        "num": 181587,
+        "word": "医生建议女性10点半前睡觉",
+        "onboard_time": 1751366001,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 176500,
+        "num": 176500,
+        "word": "一银行原纪委书记被小三举报",
+        "onboard_time": 1751377885,
+        "rank": 36,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 96614,
+        "num": 173723,
+        "word": "新疆那拉提景区一游客驾车驶入草场",
+        "onboard_time": 1751379683,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172684,
+        "num": 172684,
+        "word": "男子杀害前妻12岁儿子后自杀身亡",
+        "onboard_time": 1751376685,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163670,
+        "num": 163670,
+        "word": "骗子频繁拨打家中电话只为收集声音",
+        "onboard_time": 1751371342,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163441,
+        "num": 163441,
+        "word": "印度网友被嘲讽",
+        "onboard_time": 1751378545,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 157878,
+        "num": 157878,
+        "word": "00后女子上海衣食住行两月全白嫖",
+        "onboard_time": 1751379623,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156399,
+        "num": 156399,
+        "word": "广东中考数学",
+        "onboard_time": 1751377044,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 155362,
+        "num": 155362,
+        "word": "肖战 力量之光",
+        "onboard_time": 1751371821,
+        "rank": 43,
+        "category": "艺人,音乐"
+      },
+      {
+        "raw_hot": 78930,
+        "num": 153693,
+        "word": "特朗普称没补贴马斯克就得回老家",
+        "onboard_time": 1751378545,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152797,
+        "num": 152797,
+        "word": "花儿与少年",
+        "onboard_time": 1751376024,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147017,
+        "num": 147017,
+        "word": "30岁女子半年多次服紧急避孕药致脑梗",
+        "onboard_time": 1751371042,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36010,
+        "num": 138068,
+        "word": "上海动物园事件余波",
+        "onboard_time": 1751379683,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137363,
+        "num": 137363,
+        "word": "白玉兰奖金",
+        "onboard_time": 1751373562,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132799,
+        "num": 132799,
+        "word": "亚历山大超级顶薪续约雷霆",
+        "onboard_time": 1751381005,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#走出具有中国特色的向海图强之路#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751379956334,
+  "endTime": 1751381018807,
   "band_list": [
     {
       "raw_hot": 2472851,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2074237,
-      "num": 339973,
+      "num": 398343,
       "word": "胡一天 退休了",
       "onboard_time": 1751369842,
       "rank": 42,
@@ -219,12 +219,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 828371,
+      "num": 396898,
+      "word": "掏粪工5天工资8100",
+      "onboard_time": 1751379023,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 823798,
       "num": 823798,
       "word": "水果放冰箱不要套袋子",
       "onboard_time": 1751340261,
       "rank": 23,
       "category": "科学科普,美食"
+    },
+    {
+      "raw_hot": 808795,
+      "num": 396177,
+      "word": "小沈阳女儿专辑售卖遇冷",
+      "onboard_time": 1751377224,
+      "rank": 27,
+      "category": "音乐,艺人"
     },
     {
       "raw_hot": 808743,
@@ -267,14 +283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 734062,
-      "num": 276125,
-      "word": "小沈阳女儿专辑售卖遇冷",
-      "onboard_time": 1751377224,
-      "rank": 27,
-      "category": "音乐,艺人"
-    },
-    {
       "raw_hot": 723104,
       "num": 429955,
       "word": "51岁阿姨月薪1700元的独居生活",
@@ -297,6 +305,14 @@
       "onboard_time": 1751293404,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 692020,
+      "num": 692020,
+      "word": "郑钦文vs西尼亚科娃",
+      "onboard_time": 1751297424,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 689909,
@@ -360,6 +376,14 @@
       "word": "王源疑似被恶剪做局",
       "onboard_time": 1751375183,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 648931,
+      "num": 395393,
+      "word": "陈赫回应鹿晗暴瘦",
+      "onboard_time": 1751380342,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -459,6 +483,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 544417,
+      "num": 544417,
+      "word": "台北前副市长妻子跳楼身亡",
+      "onboard_time": 1751379383,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 538232,
       "num": 441759,
       "word": "26岁女子每天熬夜致卵巢早衰绝经",
@@ -555,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 463504,
+      "num": 463504,
+      "word": "王青上线了",
+      "onboard_time": 1751379803,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 456760,
       "num": 456760,
       "word": "猝死前1个月身体的信号",
@@ -577,6 +617,14 @@
       "onboard_time": 1751333480,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 448191,
+      "num": 395156,
+      "word": "曾经的李钟硕回来了",
+      "onboard_time": 1751377885,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 445844,
@@ -609,14 +657,6 @@
       "onboard_time": 1751376744,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 417805,
-      "num": 417805,
-      "word": "郑钦文vs西尼亚科娃",
-      "onboard_time": 1751297424,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 417389,
@@ -803,14 +843,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 317075,
-      "num": 271185,
-      "word": "掏粪工5天工资8100",
-      "onboard_time": 1751379023,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 315848,
       "num": 315848,
       "word": "上海飞东京航班疑从万米高空急降",
@@ -857,14 +889,6 @@
       "onboard_time": 1751293042,
       "rank": 13,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 302865,
-      "num": 266965,
-      "word": "曾经的李钟硕回来了",
-      "onboard_time": 1751377885,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 302703,
@@ -939,6 +963,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 286669,
+      "num": 286669,
+      "word": "陈冠希观战王欣瑜",
+      "onboard_time": 1751378663,
+      "rank": 24,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 286524,
       "num": 347923,
       "word": "泰国总理回应被停职",
@@ -969,14 +1001,6 @@
       "onboard_time": 1751351540,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 277337,
-      "num": 277337,
-      "word": "台北前副市长妻子跳楼身亡",
-      "onboard_time": 1751379383,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 272269,
@@ -1044,7 +1068,7 @@
     },
     {
       "raw_hot": 253461,
-      "num": 253461,
+      "num": 399033,
       "word": "南京地铁车厢内喝水不再罚款",
       "onboard_time": 1751378425,
       "rank": 33,
@@ -1163,12 +1187,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 219549,
+      "num": 218496,
+      "word": "迪丽热巴7月进组新戏",
+      "onboard_time": 1751379923,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 218501,
+      "num": 276105,
+      "word": "佩通坦通话泄密始末",
+      "onboard_time": 1751379144,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 217616,
       "num": 122189,
       "word": "河南极端强降雨致8人失联",
       "onboard_time": 1751349082,
       "rank": 47,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 216314,
+      "num": 216314,
+      "word": "田曦薇迪士尼太好玩了",
+      "onboard_time": 1751379084,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 215219,
@@ -1243,14 +1291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 207773,
-      "num": 207773,
-      "word": "迪丽热巴7月进组新戏",
-      "onboard_time": 1751379923,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 207245,
       "num": 207245,
       "word": "小S二女儿画作卖超百万",
@@ -1281,14 +1321,6 @@
       "onboard_time": 1751370621,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 201629,
-      "num": 201629,
-      "word": "田曦薇迪士尼太好玩了",
-      "onboard_time": 1751379084,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 201454,
@@ -1371,14 +1403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194589,
-      "num": 270102,
-      "word": "陈冠希观战王欣瑜",
-      "onboard_time": 1751378663,
-      "rank": 24,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 194476,
       "num": 273701,
       "word": "张艺兴13岁就认识林俊杰了",
@@ -1427,12 +1451,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189682,
-      "num": 189682,
-      "word": "王青上线了",
-      "onboard_time": 1751379803,
-      "rank": 42,
-      "category": "艺人"
+      "raw_hot": 190682,
+      "num": 190682,
+      "word": "王欣瑜2比0穆霍娃",
+      "onboard_time": 1751380464,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 189626,
@@ -1473,6 +1497,14 @@
       "onboard_time": 1751373262,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181587,
+      "num": 181587,
+      "word": "医生建议女性10点半前睡觉",
+      "onboard_time": 1751366001,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 181446,
@@ -1603,14 +1635,6 @@
       "category": "幽默,休闲"
     },
     {
-      "raw_hot": 171651,
-      "num": 171651,
-      "word": "医生建议女性10点半前睡觉",
-      "onboard_time": 1751366001,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 169215,
       "num": 169215,
       "word": "李惠利和伴舞恋爱",
@@ -1665,6 +1689,14 @@
       "onboard_time": 1751372061,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163441,
+      "num": 163441,
+      "word": "印度网友被嘲讽",
+      "onboard_time": 1751378545,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 163190,
@@ -1737,6 +1769,14 @@
       "onboard_time": 1751352442,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 157878,
+      "num": 157878,
+      "word": "00后女子上海衣食住行两月全白嫖",
+      "onboard_time": 1751379623,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157769,
@@ -1964,7 +2004,7 @@
     },
     {
       "raw_hot": 139910,
-      "num": 388399,
+      "num": 563568,
       "word": "中国共产党104岁生日",
       "onboard_time": 1751368582,
       "rank": 7,
@@ -2121,6 +2161,14 @@
       "onboard_time": 1751354361,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 132799,
+      "num": 132799,
+      "word": "亚历山大超级顶薪续约雷霆",
+      "onboard_time": 1751381005,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 132779,
@@ -2747,6 +2795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96614,
+      "num": 275222,
+      "word": "新疆那拉提景区一游客驾车驶入草场",
+      "onboard_time": 1751379683,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96526,
       "num": 132336,
       "word": "樊振东解说自己打球",
@@ -2907,20 +2963,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 79351,
+      "num": 182956,
+      "word": "郑钦文1比2西尼亚科娃",
+      "onboard_time": 1751380885,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 78930,
+      "num": 276140,
+      "word": "特朗普称没补贴马斯克就得回老家",
+      "onboard_time": 1751378545,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 77496,
       "num": 706925,
       "word": "庆祝建党104周年",
       "onboard_time": 1751346921,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 77128,
-      "num": 276140,
-      "word": "特朗普称没补贴马斯克就得回老家",
-      "onboard_time": 1751378545,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 77068,
@@ -3307,14 +3371,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 36577,
-      "num": 275222,
-      "word": "新疆那拉提景区一游客驾车驶入草场",
-      "onboard_time": 1751379683,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 36491,
       "num": 36491,
       "word": "汪苏泷罗曼城魔法回到24小时前",
@@ -3329,6 +3385,14 @@
       "onboard_time": 1751346263,
       "rank": 18,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 36010,
+      "num": 260385,
+      "word": "上海动物园事件余波",
+      "onboard_time": 1751379683,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35585,
@@ -3371,14 +3435,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 32855,
-      "num": 276105,
-      "word": "佩通坦通话泄密始末",
-      "onboard_time": 1751379144,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 31983,
       "num": 35231,
       "word": "2025上半年纪念短片",
@@ -3392,14 +3448,6 @@
       "word": "充电宝上火车尚不需检查3C标识",
       "onboard_time": 1751377343,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 31046,
-      "num": 260385,
-      "word": "上海动物园事件余波",
-      "onboard_time": 1751379683,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -3727,6 +3775,9 @@
     },
     {
       "word": "#中央财经委员会第六次会议#"
+    },
+    {
+      "word": "#走出具有中国特色的向海图强之路#"
     }
   ]
 }
