@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751362252352,
+  "endTime": 1751363082952,
   "band_list": [
     {
       "raw_hot": 2472851,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1652375,
-      "num": 290785,
+      "num": 309322,
       "word": "孙恩盛 无证驾驶",
       "onboard_time": 1751360303,
       "rank": 10,
@@ -67,20 +67,20 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 1178158,
+      "num": 1178158,
+      "word": "印度人嘲讽中国火车",
+      "onboard_time": 1751359882,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1124936,
       "num": 344863,
       "word": "那英说龚俊经纪人够差劲的",
       "onboard_time": 1751357840,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1118332,
-      "num": 1118332,
-      "word": "印度人嘲讽中国火车",
-      "onboard_time": 1751359882,
-      "rank": 1,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1110085,
@@ -331,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 543299,
+      "num": 543299,
+      "word": "遗产几乎女儿全拿儿子可不管母亲吗",
+      "onboard_time": 1751360603,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 538232,
       "num": 441759,
       "word": "26岁女子每天熬夜致卵巢早衰绝经",
@@ -345,6 +353,14 @@
       "onboard_time": 1751339541,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 534927,
+      "num": 534927,
+      "word": "时代少年团大连演唱会酒店涨价88倍",
+      "onboard_time": 1751358924,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 528239,
@@ -379,11 +395,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 483978,
-      "num": 483978,
-      "word": "遗产几乎女儿全拿儿子可不管母亲吗",
-      "onboard_time": 1751360603,
-      "rank": 4,
+      "raw_hot": 488374,
+      "num": 488374,
+      "word": "首创集团原董事长李爱庆一审死缓",
+      "onboard_time": 1751355141,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -401,14 +417,6 @@
       "onboard_time": 1751280561,
       "rank": 6,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 455861,
-      "num": 455861,
-      "word": "首创集团原董事长李爱庆一审死缓",
-      "onboard_time": 1751355141,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 452772,
@@ -449,14 +457,6 @@
       "onboard_time": 1751342122,
       "rank": 41,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 413586,
-      "num": 413586,
-      "word": "时代少年团大连演唱会酒店涨价88倍",
-      "onboard_time": 1751358924,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 412215,
@@ -531,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 357591,
+      "num": 357591,
+      "word": "宋佳是杨天真带的第1个艺人",
+      "onboard_time": 1751358863,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 352508,
       "num": 344271,
       "word": "突然发现85花好多和同事结婚的",
@@ -603,6 +611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 304774,
+      "num": 304774,
+      "word": "中国霸总短剧爆火美国市场",
+      "onboard_time": 1751361681,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 304444,
       "num": 304444,
       "word": "1997年7月1日0时0分0秒",
@@ -633,14 +649,6 @@
       "onboard_time": 1751342723,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 296784,
-      "num": 296784,
-      "word": "宋佳是杨天真带的第1个艺人",
-      "onboard_time": 1751358863,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 294612,
@@ -737,6 +745,14 @@
       "onboard_time": 1751359582,
       "rank": 37,
       "category": "艺人,休闲"
+    },
+    {
+      "raw_hot": 249735,
+      "num": 249735,
+      "word": "丁程鑫张真源晒毕业拍立得",
+      "onboard_time": 1751362164,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 245403,
@@ -867,6 +883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 211321,
+      "num": 211321,
+      "word": "上海动物园道歉",
+      "onboard_time": 1751361743,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 210676,
       "num": 210676,
       "word": "敖瑞鹏晒与李兰迪合照",
@@ -889,6 +913,14 @@
       "onboard_time": 1751341521,
       "rank": 30,
       "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 204588,
+      "num": 204588,
+      "word": "女儿黑救护车上死亡父母发声",
+      "onboard_time": 1751361862,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 201454,
@@ -1043,6 +1075,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 172748,
+      "num": 310025,
+      "word": "高铁不查充电宝3C标识",
+      "onboard_time": 1751355501,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172551,
       "num": 172551,
       "word": "医生回应酒店光脚洗澡或感染HPV",
@@ -1169,14 +1209,6 @@
       "onboard_time": 1751352382,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 153983,
-      "num": 273907,
-      "word": "高铁不查充电宝3C标识",
-      "onboard_time": 1751355501,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 153473,
@@ -1339,14 +1371,6 @@
       "category": "美食,民生新闻"
     },
     {
-      "raw_hot": 137105,
-      "num": 137105,
-      "word": "女儿黑救护车上死亡父母发声",
-      "onboard_time": 1751361862,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136960,
       "num": 136960,
       "word": "特朗普批评日本不接受美国大米",
@@ -1401,6 +1425,14 @@
       "onboard_time": 1751359582,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 133937,
+      "num": 133937,
+      "word": "原来淘宝单号后6位永久固定",
+      "onboard_time": 1751362343,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 133700,
@@ -1548,11 +1580,19 @@
     },
     {
       "raw_hot": 121670,
-      "num": 121670,
+      "num": 251106,
       "word": "李一桐刘宇宁看屋顶吻的反应",
       "onboard_time": 1751361083,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121343,
+      "num": 121343,
+      "word": "一直玩手机是很恐怖的一件事",
+      "onboard_time": 1751362944,
+      "rank": 41,
+      "category": "科学科普"
     },
     {
       "raw_hot": 121137,
@@ -1675,6 +1715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 114672,
+      "num": 157834,
+      "word": "杨紫李现戏里戏外callback",
+      "onboard_time": 1751362944,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114159,
       "num": 114159,
       "word": "食脑虫",
@@ -1705,14 +1753,6 @@
       "onboard_time": 1751358442,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 111362,
-      "num": 111362,
-      "word": "丁程鑫张真源晒毕业拍立得",
-      "onboard_time": 1751362164,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 111286,
@@ -1763,12 +1803,44 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 108616,
+      "num": 108616,
+      "word": "广东中考数学",
+      "onboard_time": 1751363002,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 108330,
       "num": 108330,
       "word": "上海地铁",
       "onboard_time": 1751334559,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108114,
+      "num": 108114,
+      "word": "伊朗400公斤浓缩铀去哪了",
+      "onboard_time": 1751362702,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 107827,
+      "num": 107827,
+      "word": "国产榴莲是吃海鲜长大的",
+      "onboard_time": 1751362702,
+      "rank": 45,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 106842,
+      "num": 106842,
+      "word": "马斯克放弃殖民火星计划",
+      "onboard_time": 1751363062,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 106576,
@@ -1801,6 +1873,14 @@
       "onboard_time": 1751347342,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 102491,
+      "num": 175092,
+      "word": "丁程鑫出战演唱会猜歌挑战",
+      "onboard_time": 1751362283,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 100586,
@@ -2019,14 +2099,6 @@
       "category": "艺人,汽车"
     },
     {
-      "raw_hot": 81366,
-      "num": 174848,
-      "word": "上海动物园道歉",
-      "onboard_time": 1751361743,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 81056,
       "num": 81056,
       "word": "管乐 王皓",
@@ -2163,6 +2235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 65596,
+      "num": 129408,
+      "word": "外包公司就恋与深空素材偷跑道歉",
+      "onboard_time": 1751362103,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 64049,
       "num": 213153,
       "word": "书卷一梦有自己的labubu",
@@ -2185,14 +2265,6 @@
       "onboard_time": 1751299221,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 59773,
-      "num": 120632,
-      "word": "外包公司就恋与深空素材偷跑道歉",
-      "onboard_time": 1751362103,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 58425,
@@ -2281,14 +2353,6 @@
       "onboard_time": 1751303778,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 48540,
-      "num": 278256,
-      "word": "中国霸总短剧爆火美国市场",
-      "onboard_time": 1751361681,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 48347,
@@ -2593,6 +2657,14 @@
       "onboard_time": 1751308155,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 19762,
+      "num": 171391,
+      "word": "新旧国标交替近期不建议囤卫生巾",
+      "onboard_time": 1751362883,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19283,
