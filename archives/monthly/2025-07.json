@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751347784517,
+  "endTime": 1751348792494,
   "band_list": [
     {
       "raw_hot": 1867072,
@@ -57,6 +57,14 @@
       "onboard_time": 1751328081,
       "rank": 1,
       "category": "美食,民生新闻"
+    },
+    {
+      "raw_hot": 839857,
+      "num": 1134377,
+      "word": "金正恩疑似悼念在俄阵亡军人画面曝光",
+      "onboard_time": 1751345602,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 838506,
@@ -131,14 +139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 649362,
-      "num": 672386,
-      "word": "金正恩疑似悼念在俄阵亡军人画面曝光",
-      "onboard_time": 1751345602,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 637935,
       "num": 637935,
       "word": "公积金结息",
@@ -171,7 +171,15 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 573608,
+      "raw_hot": 608765,
+      "num": 608765,
+      "word": "闲置太久的鞋子就不要再穿了",
+      "onboard_time": 1751345301,
+      "rank": 31,
+      "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 586999,
       "num": 446945,
       "word": "黄子韬开跑车下班",
       "onboard_time": 1751345963,
@@ -179,12 +187,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 538690,
-      "num": 538690,
-      "word": "闲置太久的鞋子就不要再穿了",
-      "onboard_time": 1751345301,
-      "rank": 31,
-      "category": "幽默,休闲"
+      "raw_hot": 538232,
+      "num": 441759,
+      "word": "26岁女子每天熬夜致卵巢早衰绝经",
+      "onboard_time": 1751345184,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 537421,
@@ -227,15 +235,7 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 448284,
-      "num": 448284,
-      "word": "上海飞东京航班疑客舱释压备降大阪",
-      "onboard_time": 1751333480,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 444722,
+      "raw_hot": 452772,
       "num": 444722,
       "word": "陈思诚说李庚希京圈公主传闻是扯淡",
       "onboard_time": 1751339902,
@@ -243,11 +243,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 441759,
-      "num": 441759,
-      "word": "26岁女子每天熬夜致卵巢早衰绝经",
-      "onboard_time": 1751345184,
-      "rank": 35,
+      "raw_hot": 448284,
+      "num": 448284,
+      "word": "上海飞东京航班疑客舱释压备降大阪",
+      "onboard_time": 1751333480,
+      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -299,11 +299,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 376369,
+      "num": 280851,
+      "word": "男子带12岁女孩开房受害者不止1人",
+      "onboard_time": 1751345122,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 375081,
       "num": 375081,
       "word": "上海动物园通报婴儿喝奶被赶",
       "onboard_time": 1751298142,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 366569,
+      "num": 285176,
+      "word": "32周孕妇吃冰箱凉菜感染险胎死腹中",
+      "onboard_time": 1751345423,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -337,6 +353,14 @@
       "onboard_time": 1751332881,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 323342,
+      "num": 213039,
+      "word": "孙俪化妆还在压脚背",
+      "onboard_time": 1751346802,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 315848,
@@ -395,28 +419,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 285176,
-      "num": 285176,
-      "word": "32周孕妇吃冰箱凉菜感染险胎死腹中",
-      "onboard_time": 1751345423,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 283131,
       "num": 320792,
       "word": "fx合体",
       "onboard_time": 1751293704,
       "rank": 7,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 280851,
-      "num": 280851,
-      "word": "男子带12岁女孩开房受害者不止1人",
-      "onboard_time": 1751345122,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 269528,
@@ -473,14 +481,6 @@
       "onboard_time": 1751340681,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 231845,
-      "num": 213039,
-      "word": "孙俪化妆还在压脚背",
-      "onboard_time": 1751346802,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 229922,
@@ -595,12 +595,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 201243,
+      "num": 201243,
+      "word": "三专开箱",
+      "onboard_time": 1751347761,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 198444,
       "num": 289646,
       "word": "杨紫何惟芳首日V榜破9",
       "onboard_time": 1751340021,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196059,
+      "num": 196059,
+      "word": "51岁阿姨月薪1700元的独居生活",
+      "onboard_time": 1751347402,
+      "rank": 45,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 194479,
+      "num": 194479,
+      "word": "周杰伦曾给Angelababy写歌",
+      "onboard_time": 1751347642,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 194476,
@@ -636,7 +660,7 @@
     },
     {
       "raw_hot": 180774,
-      "num": 180774,
+      "num": 185739,
       "word": "中国共产党成立104周年",
       "onboard_time": 1751343382,
       "rank": 37,
@@ -835,14 +859,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 139070,
-      "num": 169866,
-      "word": "周杰伦曾给Angelababy写歌",
-      "onboard_time": 1751347642,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 137324,
       "num": 137324,
       "word": "可生食鸡蛋线上线下价差好大",
@@ -867,12 +883,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133894,
-      "num": 133894,
-      "word": "51岁阿姨月薪1700元的独居生活",
-      "onboard_time": 1751347402,
-      "rank": 45,
-      "category": "情感,幽默"
+      "raw_hot": 135337,
+      "num": 150110,
+      "word": "这届白玉兰奖是女演员们的友情局",
+      "onboard_time": 1751348063,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 134883,
+      "num": 134883,
+      "word": "女生每个月必有的四个阶段",
+      "onboard_time": 1751348781,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 132779,
@@ -987,12 +1011,12 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 119828,
-      "num": 119828,
-      "word": "三专开箱",
-      "onboard_time": 1751347761,
-      "rank": 49,
-      "category": "音乐"
+      "raw_hot": 120073,
+      "num": 120073,
+      "word": "有人在北京公园摘了20斤观赏杏",
+      "onboard_time": 1751347821,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119303,
@@ -1025,6 +1049,14 @@
       "onboard_time": 1751343143,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117402,
+      "num": 117402,
+      "word": "男子被亲弟冒充吸毒留10年案底",
+      "onboard_time": 1751348482,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117246,
@@ -1219,6 +1251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88860,
+      "num": 117478,
+      "word": "五十公里桃花坞",
+      "onboard_time": 1751346263,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 88226,
       "num": 88226,
       "word": "7月份十二星座注意事项",
@@ -1353,6 +1393,14 @@
       "onboard_time": 1751280502,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 75319,
+      "num": 137666,
+      "word": "零跑汽车6月全系交付48006台",
+      "onboard_time": 1751348002,
+      "rank": 39,
+      "category": "汽车"
     },
     {
       "raw_hot": 74960,
