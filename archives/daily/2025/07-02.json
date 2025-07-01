@@ -1,6 +1,6 @@
 {
   "startTime": 1751387623546,
-  "endTime": 1751402616142,
+  "endTime": 1751405114397,
   "band_list": [
     {
       "raw_hot": 981774,
@@ -507,12 +507,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14586,
-      "num": 14586,
+      "raw_hot": 16697,
+      "num": 16697,
       "word": "特朗普将给新移民监狱剪彩",
       "onboard_time": 1751399173,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 15682,
+      "num": 35392,
+      "word": "大哥吃完夜宵顺手灭火救了一栋楼",
+      "onboard_time": 1751403913,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9378,
