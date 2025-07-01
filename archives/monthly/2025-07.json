@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751374445136,
+  "endTime": 1751375365002,
   "band_list": [
     {
       "raw_hot": 2472851,
@@ -371,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 624986,
+      "num": 334218,
+      "word": "韩娱三线爱豆收入",
+      "onboard_time": 1751368403,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 620661,
       "num": 620661,
       "word": "王楚然付辛博挽手路透",
@@ -403,14 +411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 562958,
-      "num": 334218,
-      "word": "韩娱三线爱豆收入",
-      "onboard_time": 1751368403,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 554643,
       "num": 442509,
       "word": "孙恩盛 粉丝群圈钱",
@@ -433,6 +433,14 @@
       "onboard_time": 1751339541,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 536092,
+      "num": 536092,
+      "word": "骗子频繁拨打家中电话只为收集声音",
+      "onboard_time": 1751371342,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 534927,
@@ -539,12 +547,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 445844,
+      "num": 445844,
+      "word": "中纪委紧盯逃逸式辞职",
+      "onboard_time": 1751371101,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 432181,
       "num": 432181,
       "word": "深圳卫健委发文怼二手烟",
       "onboard_time": 1751331081,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 427327,
+      "num": 319500,
+      "word": "张凌赫 水牛就是能吃苦",
+      "onboard_time": 1751372543,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 417389,
@@ -571,28 +595,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 409518,
+      "num": 409518,
+      "word": "周杰伦观战郑钦文",
+      "onboard_time": 1751373503,
+      "rank": 4,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 407921,
       "num": 433872,
       "word": "邓超头像含鹿量超高",
       "onboard_time": 1751334860,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 403504,
-      "num": 403504,
-      "word": "骗子频繁拨打家中电话只为收集声音",
-      "onboard_time": 1751371342,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 395256,
-      "num": 395256,
-      "word": "中纪委紧盯逃逸式辞职",
-      "onboard_time": 1751371101,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 386910,
@@ -619,14 +635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 373371,
-      "num": 319500,
-      "word": "张凌赫 水牛就是能吃苦",
-      "onboard_time": 1751372543,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 370930,
       "num": 505569,
       "word": "杨幂李现 最适合穿白色的两个人",
@@ -649,14 +657,6 @@
       "onboard_time": 1751331320,
       "rank": 13,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 364974,
-      "num": 364974,
-      "word": "周杰伦观战郑钦文",
-      "onboard_time": 1751373503,
-      "rank": 4,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 364539,
@@ -700,11 +700,19 @@
     },
     {
       "raw_hot": 350733,
-      "num": 338595,
+      "num": 340291,
       "word": "肖战 力量之光",
       "onboard_time": 1751371821,
       "rank": 12,
       "category": "艺人,音乐"
+    },
+    {
+      "raw_hot": 349359,
+      "num": 349359,
+      "word": "迪丽热巴 连登金九",
+      "onboard_time": 1751374344,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 346810,
@@ -1019,6 +1027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 223444,
+      "num": 343985,
+      "word": "郑钦文vs西尼亚科娃",
+      "onboard_time": 1751297424,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222354,
       "num": 222354,
       "word": "5岁女孩坠海父亲托举其近20分钟",
@@ -1105,6 +1121,22 @@
       "onboard_time": 1751365702,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203007,
+      "num": 203007,
+      "word": "白玉兰奖金",
+      "onboard_time": 1751373562,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 202000,
+      "num": 202000,
+      "word": "BTS全员直播",
+      "onboard_time": 1751374884,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 201828,
@@ -1435,12 +1467,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 163904,
-      "num": 163904,
-      "word": "迪丽热巴 连登金九",
-      "onboard_time": 1751374344,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 165155,
+      "num": 341155,
+      "word": "慢动作看孙颖莎备战训练",
+      "onboard_time": 1751372061,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 163190,
@@ -1523,14 +1555,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 155089,
-      "num": 343985,
-      "word": "郑钦文vs西尼亚科娃",
-      "onboard_time": 1751297424,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 154214,
       "num": 154214,
       "word": "资深机长分析飞机为何直降8700米",
@@ -1561,6 +1585,14 @@
       "onboard_time": 1751347041,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 152511,
+      "num": 152511,
+      "word": "绿洲乐队主唱疑似发表辱华言论",
+      "onboard_time": 1751374824,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 152335,
@@ -1651,6 +1683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143420,
+      "num": 152757,
+      "word": "王源疑似被恶剪做局",
+      "onboard_time": 1751375183,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143399,
       "num": 143399,
       "word": "三只羊现身大桥通车仪式",
@@ -1681,14 +1721,6 @@
       "onboard_time": 1751329282,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 142264,
-      "num": 341155,
-      "word": "慢动作看孙颖莎备战训练",
-      "onboard_time": 1751372061,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 142066,
@@ -1777,6 +1809,14 @@
       "onboard_time": 1751342482,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135758,
+      "num": 135758,
+      "word": "高瀚宇连录三期好6哭了",
+      "onboard_time": 1751375005,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 135337,
@@ -1908,7 +1948,7 @@
     },
     {
       "raw_hot": 131169,
-      "num": 131169,
+      "num": 246128,
       "word": "警方回应男子杀害前妻儿子不予立案",
       "onboard_time": 1751372902,
       "rank": 46,
@@ -1977,14 +2017,6 @@
       "onboard_time": 1751282242,
       "rank": 23,
       "category": "网红"
-    },
-    {
-      "raw_hot": 127232,
-      "num": 127232,
-      "word": "白玉兰奖金",
-      "onboard_time": 1751373562,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 126913,
@@ -2057,6 +2089,14 @@
       "onboard_time": 1751361083,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121477,
+      "num": 121477,
+      "word": "陈飞宇和哥哥机场聊天",
+      "onboard_time": 1751375064,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 121137,
@@ -2153,6 +2193,14 @@
       "onboard_time": 1751340562,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 118672,
+      "num": 118672,
+      "word": "我跟他玩暧昧他跟我当姐妹",
+      "onboard_time": 1751375244,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 118172,
@@ -2387,6 +2435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 102493,
+      "num": 330520,
+      "word": "鸿星尔克启动熊猫家园守护计划",
+      "onboard_time": 1751373743,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102491,
       "num": 175092,
       "word": "丁程鑫出战演唱会猜歌挑战",
@@ -2481,6 +2537,14 @@
       "onboard_time": 1751336060,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 95221,
+      "num": 202223,
+      "word": "歼20飞行员英文喊话霸气驱离外机",
+      "onboard_time": 1751374583,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 93593,
@@ -2608,14 +2672,6 @@
       "word": "公积金结息能领几千元",
       "onboard_time": 1751274681,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 82286,
-      "num": 330520,
-      "word": "鸿星尔克启动熊猫家园守护计划",
-      "onboard_time": 1751373743,
-      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -2907,6 +2963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 48443,
+      "num": 151445,
+      "word": "这才是马斯克面临的最大威胁",
+      "onboard_time": 1751369543,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 48347,
       "num": 135286,
       "word": "阿条姐发博告别六月",
@@ -3169,14 +3233,6 @@
       "onboard_time": 1751344882,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23580,
-      "num": 151445,
-      "word": "这才是马斯克面临的最大威胁",
-      "onboard_time": 1751369543,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 23410,
