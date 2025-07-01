@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751359836087,
+  "endTime": 1751362252352,
   "band_list": [
     {
       "raw_hot": 2472851,
@@ -27,6 +27,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 1652375,
+      "num": 290785,
+      "word": "孙恩盛 无证驾驶",
+      "onboard_time": 1751360303,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1429448,
       "num": 1429448,
       "word": "耳朵黄色分泌物",
@@ -51,12 +59,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1307765,
+      "num": 1307765,
+      "word": "虐猫考生上岸失败系道德品行等问题",
+      "onboard_time": 1751355742,
+      "rank": 40,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 1124936,
       "num": 344863,
       "word": "那英说龚俊经纪人够差劲的",
       "onboard_time": 1751357840,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1118332,
+      "num": 1118332,
+      "word": "印度人嘲讽中国火车",
+      "onboard_time": 1751359882,
+      "rank": 1,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1110085,
@@ -193,14 +217,6 @@
       "onboard_time": 1751340740,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 725232,
-      "num": 725232,
-      "word": "虐猫考生上岸失败系道德品行等问题",
-      "onboard_time": 1751355742,
-      "rank": 40,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 723104,
@@ -363,6 +379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 483978,
+      "num": 483978,
+      "word": "遗产几乎女儿全拿儿子可不管母亲吗",
+      "onboard_time": 1751360603,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 481210,
       "num": 481210,
       "word": "动物园被举报用个人码收门票上千万",
@@ -379,20 +403,20 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 455861,
+      "num": 455861,
+      "word": "首创集团原董事长李爱庆一审死缓",
+      "onboard_time": 1751355141,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 452772,
       "num": 444722,
       "word": "陈思诚说李庚希京圈公主传闻是扯淡",
       "onboard_time": 1751339902,
       "rank": 21,
       "category": "电影"
-    },
-    {
-      "raw_hot": 451414,
-      "num": 451414,
-      "word": "首创集团原董事长李爱庆一审死缓",
-      "onboard_time": 1751355141,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 448284,
@@ -425,6 +449,14 @@
       "onboard_time": 1751342122,
       "rank": 41,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 413586,
+      "num": 413586,
+      "word": "时代少年团大连演唱会酒店涨价88倍",
+      "onboard_time": 1751358924,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 412215,
@@ -603,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 296784,
+      "num": 296784,
+      "word": "宋佳是杨天真带的第1个艺人",
+      "onboard_time": 1751358863,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 294612,
       "num": 350808,
       "word": "书卷一梦微博追剧团",
@@ -691,6 +731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 253142,
+      "num": 253142,
+      "word": "林心如排队为女儿买labubu",
+      "onboard_time": 1751359582,
+      "rank": 37,
+      "category": "艺人,休闲"
+    },
+    {
       "raw_hot": 245403,
       "num": 245403,
       "word": "女子网购拉布布盲盒拆开仅剩6个裸娃",
@@ -715,16 +763,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 238055,
-      "num": 255260,
-      "word": "宋佳是杨天真带的第1个艺人",
-      "onboard_time": 1751358863,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 237582,
-      "num": 237582,
+      "num": 237745,
       "word": "中央财经委员会第六次会议",
       "onboard_time": 1751356222,
       "rank": 30,
@@ -776,6 +816,14 @@
       "word": "客机高空急降10余分钟乘客写遗书",
       "onboard_time": 1751342482,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 222354,
+      "num": 222354,
+      "word": "5岁女孩坠海父亲托举其近20分钟",
+      "onboard_time": 1751358563,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -867,14 +915,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 200585,
-      "num": 250614,
-      "word": "时代少年团大连演唱会酒店涨价88倍",
-      "onboard_time": 1751358924,
-      "rank": 48,
-      "category": "演出"
-    },
-    {
       "raw_hot": 198444,
       "num": 289646,
       "word": "杨紫何惟芳首日V榜破9",
@@ -923,6 +963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189626,
+      "num": 174724,
+      "word": "李天泽近照",
+      "onboard_time": 1751360003,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189475,
       "num": 323935,
       "word": "密室大逃脱7存在逃脱失败的可能",
@@ -937,14 +985,6 @@
       "onboard_time": 1751351422,
       "rank": 31,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 184985,
-      "num": 184985,
-      "word": "5岁女孩坠海父亲托举其近20分钟",
-      "onboard_time": 1751358563,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 181125,
@@ -969,6 +1009,22 @@
       "onboard_time": 1751325438,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175240,
+      "num": 192646,
+      "word": "锦绣芳华云合",
+      "onboard_time": 1751359522,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 174569,
+      "num": 174569,
+      "word": "26岁女生三年半存下21万",
+      "onboard_time": 1751360062,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173276,
@@ -1116,7 +1172,7 @@
     },
     {
       "raw_hot": 153983,
-      "num": 153983,
+      "num": 273907,
       "word": "高铁不查充电宝3C标识",
       "onboard_time": 1751355501,
       "rank": 36,
@@ -1129,14 +1185,6 @@
       "onboard_time": 1751346383,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 153080,
-      "num": 192646,
-      "word": "锦绣芳华云合",
-      "onboard_time": 1751359522,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 152676,
@@ -1227,20 +1275,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143272,
+      "num": 143272,
+      "word": "中国充电宝市场规模占全球30%以上",
+      "onboard_time": 1751360362,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142954,
       "num": 213585,
       "word": "杨紫魏哲鸣对手戏好带感",
       "onboard_time": 1751329282,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 142030,
-      "num": 142030,
-      "word": "林心如排队为女儿买labubu",
-      "onboard_time": 1751359582,
-      "rank": 37,
-      "category": "艺人,休闲"
     },
     {
       "raw_hot": 141534,
@@ -1289,6 +1337,14 @@
       "onboard_time": 1751335041,
       "rank": 35,
       "category": "美食,民生新闻"
+    },
+    {
+      "raw_hot": 137105,
+      "num": 137105,
+      "word": "女儿黑救护车上死亡父母发声",
+      "onboard_time": 1751361862,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136960,
@@ -1491,6 +1547,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 121670,
+      "num": 121670,
+      "word": "李一桐刘宇宁看屋顶吻的反应",
+      "onboard_time": 1751361083,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121137,
       "num": 246674,
       "word": "睡眠真的超级重要",
@@ -1505,6 +1569,14 @@
       "onboard_time": 1751323696,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120404,
+      "num": 120404,
+      "word": "麦当劳 大头狗",
+      "onboard_time": 1751360422,
+      "rank": 41,
+      "category": "休闲,美食"
     },
     {
       "raw_hot": 120311,
@@ -1563,6 +1635,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 117275,
+      "num": 117275,
+      "word": "空军官兵和幼儿园小朋友合唱炎黄",
+      "onboard_time": 1751361802,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117246,
       "num": 333994,
       "word": "男子手部外伤住院被要求检查前列腺",
@@ -1603,6 +1683,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 112748,
+      "num": 112748,
+      "word": "夏目友人帐",
+      "onboard_time": 1751361981,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 112513,
       "num": 112513,
       "word": "公积金4大隐藏功能",
@@ -1617,6 +1705,14 @@
       "onboard_time": 1751358442,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 111362,
+      "num": 111362,
+      "word": "丁程鑫张真源晒毕业拍立得",
+      "onboard_time": 1751362164,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 111286,
@@ -1657,6 +1753,14 @@
       "onboard_time": 1751316854,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109014,
+      "num": 109014,
+      "word": "日本一地10天地震660次还在持续",
+      "onboard_time": 1751362224,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 108330,
@@ -1915,6 +2019,14 @@
       "category": "艺人,汽车"
     },
     {
+      "raw_hot": 81366,
+      "num": 174848,
+      "word": "上海动物园道歉",
+      "onboard_time": 1751361743,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81056,
       "num": 81056,
       "word": "管乐 王皓",
@@ -2075,6 +2187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 59773,
+      "num": 120632,
+      "word": "外包公司就恋与深空素材偷跑道歉",
+      "onboard_time": 1751362103,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 58425,
       "num": 125014,
       "word": "生孩子是自信心摧毁和重建过程",
@@ -2163,12 +2283,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 48540,
+      "num": 278256,
+      "word": "中国霸总短剧爆火美国市场",
+      "onboard_time": 1751361681,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 48347,
       "num": 135286,
       "word": "阿条姐发博告别六月",
       "onboard_time": 1751359644,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 47542,
+      "num": 284950,
+      "word": "上海乐高乐园回应乐高大飞车卡住",
+      "onboard_time": 1751360482,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46281,
