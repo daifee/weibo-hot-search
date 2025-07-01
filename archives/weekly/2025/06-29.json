@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751397684803,
+  "endTime": 1751398665957,
   "band_list": [
     {
       "raw_hot": 3569605,
@@ -10963,6 +10963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 18949,
+      "num": 18949,
+      "word": "月嫂在雇主家工作时心梗无人担责",
+      "onboard_time": 1751397074,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18765,
       "num": 27977,
       "word": "U19中国男篮vs加拿大男篮",
@@ -11009,14 +11017,6 @@
       "onboard_time": 1751292443,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 17116,
-      "num": 17116,
-      "word": "月嫂在雇主家工作时心梗无人担责",
-      "onboard_time": 1751397074,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17086,
