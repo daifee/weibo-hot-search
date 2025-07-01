@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751377145522,
+  "endTime": 1751377866754,
   "band_list": [
     {
       "raw_hot": 2472851,
@@ -315,7 +315,7 @@
       "category": "财经"
     },
     {
-      "raw_hot": 657468,
+      "raw_hot": 668536,
       "num": 495072,
       "word": "四姑娘山滑坠16岁男子确认遇难",
       "onboard_time": 1751369482,
@@ -355,6 +355,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 636591,
+      "num": 494103,
+      "word": "迪丽热巴 连登金九",
+      "onboard_time": 1751374344,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 633772,
       "num": 633772,
       "word": "春秋航空",
@@ -376,14 +384,6 @@
       "word": "韩娱三线爱豆收入",
       "onboard_time": 1751368403,
       "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 621430,
-      "num": 422598,
-      "word": "迪丽热巴 连登金九",
-      "onboard_time": 1751374344,
-      "rank": 35,
       "category": "艺人"
     },
     {
@@ -515,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 493285,
+      "num": 493285,
+      "word": "王源疑似被恶剪做局",
+      "onboard_time": 1751375183,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 486341,
       "num": 551379,
       "word": "日本航空道歉",
@@ -625,14 +633,6 @@
       "onboard_time": 1751300301,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 380960,
-      "num": 380960,
-      "word": "王源疑似被恶剪做局",
-      "onboard_time": 1751375183,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 376369,
@@ -771,6 +771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 316500,
+      "num": 232068,
+      "word": "小沈阳女儿专辑售卖遇冷",
+      "onboard_time": 1751377224,
+      "rank": 27,
+      "category": "音乐,艺人"
+    },
+    {
       "raw_hot": 315848,
       "num": 315848,
       "word": "上海飞东京航班疑从万米高空急降",
@@ -785,6 +793,14 @@
       "onboard_time": 1751333719,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 310669,
+      "num": 288102,
+      "word": "BTS全员直播",
+      "onboard_time": 1751374884,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 309276,
@@ -833,14 +849,6 @@
       "onboard_time": 1751342723,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 296404,
-      "num": 288102,
-      "word": "BTS全员直播",
-      "onboard_time": 1751374884,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 294612,
@@ -915,6 +923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279569,
+      "num": 287714,
+      "word": "宋雨琦晒白鹿买的T恤",
+      "onboard_time": 1751376383,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 272269,
       "num": 272269,
       "word": "37岁男子糖尿病7年不重视致截肢失明",
@@ -987,6 +1003,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 244541,
+      "num": 236723,
+      "word": "特朗普回应驱逐马斯克",
+      "onboard_time": 1751377103,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 243369,
       "num": 269736,
       "word": "解禁中华田园犬是治理的进步",
@@ -1011,11 +1035,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 236762,
+      "num": 289255,
+      "word": "高瀚宇连录三期好6哭了",
+      "onboard_time": 1751375005,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 233144,
       "num": 446896,
       "word": "鞠婧祎这是王一栩说的百变小樱吗",
       "onboard_time": 1751340681,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 230075,
+      "num": 230075,
+      "word": "刘宇宁的坐姿",
+      "onboard_time": 1751376143,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -1049,6 +1089,14 @@
       "onboard_time": 1751346863,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 224437,
+      "num": 224437,
+      "word": "广东中考数学",
+      "onboard_time": 1751363002,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 224327,
@@ -1096,6 +1144,14 @@
       "word": "卫健委回应男子手掌受伤让查前列腺",
       "onboard_time": 1751344404,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213959,
+      "num": 213959,
+      "word": "男子杀害前妻12岁儿子后自杀身亡",
+      "onboard_time": 1751376685,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -1195,6 +1251,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 199964,
+      "num": 199964,
+      "word": "杨紫跟莲舟说饺子管够",
+      "onboard_time": 1751376864,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198799,
       "num": 329086,
       "word": "李佳薇揭榜",
@@ -1233,6 +1297,14 @@
       "onboard_time": 1751376024,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195067,
+      "num": 289177,
+      "word": "南京地铁车厢内可以喝奶茶了",
+      "onboard_time": 1751376744,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194476,
@@ -1299,14 +1371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 186944,
-      "num": 287714,
-      "word": "宋雨琦晒白鹿买的T恤",
-      "onboard_time": 1751376383,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 186307,
       "num": 186307,
       "word": "中山一路",
@@ -1329,14 +1393,6 @@
       "onboard_time": 1751373262,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 181655,
-      "num": 181655,
-      "word": "刘宇宁的坐姿",
-      "onboard_time": 1751376143,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 181446,
@@ -1363,12 +1419,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 177591,
-      "num": 177591,
-      "word": "杨紫跟莲舟说饺子管够",
-      "onboard_time": 1751376864,
-      "rank": 34,
-      "category": "剧集"
+      "raw_hot": 179764,
+      "num": 179764,
+      "word": "水均益带2个孩子领身份证",
+      "onboard_time": 1751376505,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177448,
@@ -1385,22 +1441,6 @@
       "onboard_time": 1751364741,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 176656,
-      "num": 289255,
-      "word": "高瀚宇连录三期好6哭了",
-      "onboard_time": 1751375005,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 176168,
-      "num": 176168,
-      "word": "广东中考数学",
-      "onboard_time": 1751363002,
-      "rank": 43,
-      "category": "教育"
     },
     {
       "raw_hot": 175707,
@@ -1795,14 +1835,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142125,
-      "num": 142125,
-      "word": "水均益带2个孩子领身份证",
-      "onboard_time": 1751376505,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 142066,
       "num": 236161,
       "word": "起猛了看见刘宇宁古装戏里抽烟",
@@ -1857,6 +1889,22 @@
       "onboard_time": 1751290763,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 139674,
+      "num": 139674,
+      "word": "女装店主回应夏装为什么越来越露",
+      "onboard_time": 1751377703,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139134,
+      "num": 139134,
+      "word": "以法之名对比镜头",
+      "onboard_time": 1751377645,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 138724,
@@ -1963,14 +2011,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 133348,
-      "num": 133348,
-      "word": "特朗普回应驱逐马斯克",
-      "onboard_time": 1751377103,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 133347,
       "num": 133347,
       "word": "荔枝绿豆糯米汤",
@@ -2027,6 +2067,14 @@
       "category": "民生新闻,美食"
     },
     {
+      "raw_hot": 131759,
+      "num": 131759,
+      "word": "郑钦文0比1西尼亚科娃",
+      "onboard_time": 1751375484,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131670,
       "num": 131670,
       "word": "恒大财富官微喊话许家印",
@@ -2041,14 +2089,6 @@
       "onboard_time": 1751375422,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 131436,
-      "num": 131436,
-      "word": "男子杀害前妻12岁儿子后自杀身亡",
-      "onboard_time": 1751376685,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131073,
@@ -2073,6 +2113,14 @@
       "onboard_time": 1751334321,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 129645,
+      "num": 290114,
+      "word": "河南南阳强降雨已致5人遇难",
+      "onboard_time": 1751375904,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129146,
@@ -2771,14 +2819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 80417,
-      "num": 289177,
-      "word": "南京地铁车厢内可以喝奶茶了",
-      "onboard_time": 1751376744,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77496,
       "num": 706925,
       "word": "庆祝建党104周年",
@@ -2856,14 +2896,6 @@
       "word": "航班高空急降亲历者称氧气面罩掉落",
       "onboard_time": 1751335281,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 73512,
-      "num": 290114,
-      "word": "河南南阳强降雨已致5人遇难",
-      "onboard_time": 1751375904,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -3139,6 +3171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40338,
+      "num": 230723,
+      "word": "特朗普抱怨日本米荒却不买美国米",
+      "onboard_time": 1751377283,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 38684,
       "num": 141149,
       "word": "我的精神状态凉好",
@@ -3232,6 +3272,14 @@
       "word": "2025上半年纪念短片",
       "onboard_time": 1751305037,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31905,
+      "num": 235905,
+      "word": "充电宝上火车尚不需检查3C标识",
+      "onboard_time": 1751377343,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
