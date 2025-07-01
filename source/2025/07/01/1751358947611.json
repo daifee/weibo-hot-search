@@ -1,0 +1,410 @@
+{
+  "runTime": 1751358947611,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1358959,
+        "num": 1358959,
+        "word": "微信可以不接收共同好友点赞提醒了",
+        "onboard_time": 1751353402,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 518276,
+        "num": 518276,
+        "word": "虐猫考生上岸失败系道德品行等问题",
+        "onboard_time": 1751355742,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 10990,
+        "num": 501316,
+        "word": "党的旗帜所指即是网警铁翼所向",
+        "onboard_time": 1751329282,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 486704,
+        "num": 486704,
+        "word": "韦东奕晋升北大长聘副教授",
+        "onboard_time": 1751351842,
+        "rank": 3,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 451414,
+        "num": 451414,
+        "word": "首创集团原董事长李爱庆一审死缓",
+        "onboard_time": 1751355141,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 428842,
+        "num": 428842,
+        "word": "宋佳面相变化",
+        "onboard_time": 1751351301,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386929,
+        "num": 386929,
+        "word": "被同事家的荔枝树震惊到了",
+        "onboard_time": 1751353402,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 373550,
+        "num": 373550,
+        "word": "孙俪女儿化妆还在压脚背",
+        "onboard_time": 1751346802,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348042,
+        "num": 348042,
+        "word": "多名主播验资pk引争议",
+        "onboard_time": 1751349322,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185102,
+        "num": 347923,
+        "word": "泰国总理回应被停职",
+        "onboard_time": 1751357542,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1130724,
+        "num": 347417,
+        "word": "这是杨幂还是小糯米",
+        "onboard_time": 1751351602,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 915885,
+        "num": 346763,
+        "word": "虐猫考生被取消招聘资格",
+        "onboard_time": 1751349923,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 800084,
+        "num": 346244,
+        "word": "日本19岁女子全裸身亡男友逃逸被捕",
+        "onboard_time": 1751356581,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 777324,
+        "num": 345925,
+        "word": "女子腿痒了2个月查出肝癌",
+        "onboard_time": 1751356281,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 764940,
+        "num": 345223,
+        "word": "串串房",
+        "onboard_time": 1751353582,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 647421,
+        "num": 344863,
+        "word": "那英说龚俊经纪人够差劲的",
+        "onboard_time": 1751357840,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352508,
+        "num": 344271,
+        "word": "突然发现85花好多和同事结婚的",
+        "onboard_time": 1751357422,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343998,
+        "num": 343998,
+        "word": "Angelababy带小海绵蹦极",
+        "onboard_time": 1751355501,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93076,
+        "num": 300701,
+        "word": "花少你是懂变形记的",
+        "onboard_time": 1751356701,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15597,
+        "num": 289826,
+        "word": "洪水中挪车被困自救女子发声",
+        "onboard_time": 1751358142,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287141,
+        "num": 287141,
+        "word": "警方辟谣多名女孩被男子哄骗外出受害",
+        "onboard_time": 1751356881,
+        "rank": 20,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 278770,
+        "num": 278770,
+        "word": "泰国总理停职",
+        "onboard_time": 1751351962,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 264936,
+        "num": 264936,
+        "word": "桂林回应虐猫考生事件",
+        "onboard_time": 1751350822,
+        "rank": 22,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 254334,
+        "num": 254334,
+        "word": "公积金",
+        "onboard_time": 1751333600,
+        "rank": 23,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 49184,
+        "num": 252285,
+        "word": "苏超十佳球",
+        "onboard_time": 1751358502,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189649,
+        "num": 250381,
+        "word": "肖战藏海上半年最热角色",
+        "onboard_time": 1751358682,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183109,
+        "num": 247822,
+        "word": "秦岚辛芷蕾你俩过吧",
+        "onboard_time": 1751352742,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127424,
+        "num": 243792,
+        "word": "美雪上班久了也这样",
+        "onboard_time": 1751355982,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126667,
+        "num": 242878,
+        "word": "密室大逃脱7存在逃脱失败的可能",
+        "onboard_time": 1751353822,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10950,
+        "num": 239135,
+        "word": "深圳卫健委活人感",
+        "onboard_time": 1751358563,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 237582,
+        "num": 237582,
+        "word": "中央财经委员会第六次会议",
+        "onboard_time": 1751356222,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 194401,
+        "num": 194401,
+        "word": "男子被亲弟冒充吸毒留10年案底",
+        "onboard_time": 1751348482,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156909,
+        "num": 156909,
+        "word": "5岁女孩坠海父亲托举其近20分钟",
+        "onboard_time": 1751358563,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156692,
+        "num": 156692,
+        "word": "4个月大婴儿遭月嫂整晚暴力喂奶",
+        "onboard_time": 1751345184,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153983,
+        "num": 153983,
+        "word": "高铁不查充电宝3C标识",
+        "onboard_time": 1751355501,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143509,
+        "num": 143509,
+        "word": "26岁女子每天熬夜致卵巢早衰绝经",
+        "onboard_time": 1751345184,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137099,
+        "num": 137099,
+        "word": "北京月薪1万房租7000的真实生活",
+        "onboard_time": 1751354062,
+        "rank": 36,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 135026,
+        "num": 135026,
+        "word": "哈萨克斯坦公共场所禁止蒙面",
+        "onboard_time": 1751354481,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 116838,
+        "num": 127037,
+        "word": "宋佳是杨天真带的第1个艺人",
+        "onboard_time": 1751358863,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58425,
+        "num": 125014,
+        "word": "生孩子是自信心摧毁和重建过程",
+        "onboard_time": 1751358262,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124772,
+        "num": 124772,
+        "word": "小伙彩票守号1年就中奖1030万元",
+        "onboard_time": 1751358563,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123021,
+        "num": 123021,
+        "word": "卢伟冰回应小米青年公寓定价1999元",
+        "onboard_time": 1751353220,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 122139,
+        "num": 122139,
+        "word": "佩通坦被停职后发声",
+        "onboard_time": 1751358081,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119819,
+        "num": 119819,
+        "word": "李惠利历任公开男友",
+        "onboard_time": 1751354481,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117466,
+        "num": 117466,
+        "word": "高校招聘第二名举报第一名不符合条件",
+        "onboard_time": 1751351540,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116202,
+        "num": 116202,
+        "word": "王京回应",
+        "onboard_time": 1751357001,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112133,
+        "num": 112133,
+        "word": "陈思诚说张小斐有灰度感",
+        "onboard_time": 1751358442,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107563,
+        "num": 107563,
+        "word": "32周孕妇吃冰箱凉菜感染险胎死腹中",
+        "onboard_time": 1751345423,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106294,
+        "num": 106294,
+        "word": "时代少年团大连演唱会酒店涨价88倍",
+        "onboard_time": 1751358924,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105450,
+        "num": 105450,
+        "word": "耳朵黄色分泌物",
+        "onboard_time": 1751339361,
+        "rank": 49,
+        "category": "科学科普,健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}

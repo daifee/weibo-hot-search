@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751355773368,
+  "endTime": 1751358947611,
   "band_list": [
     {
       "raw_hot": 3569605,
@@ -217,6 +217,14 @@
       "onboard_time": 1751293404,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1358959,
+      "num": 1358959,
+      "word": "微信可以不接收共同好友点赞提醒了",
+      "onboard_time": 1751353402,
+      "rank": 12,
+      "category": "互联网"
     },
     {
       "raw_hot": 1329400,
@@ -579,6 +587,14 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 800084,
+      "num": 346244,
+      "word": "日本19岁女子全裸身亡男友逃逸被捕",
+      "onboard_time": 1751356581,
+      "rank": 12,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 793383,
       "num": 959597,
       "word": "邓超回应和鹿晗吃饭",
@@ -611,12 +627,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 777324,
+      "num": 345925,
+      "word": "女子腿痒了2个月查出肝癌",
+      "onboard_time": 1751356281,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 768693,
       "num": 549067,
       "word": "她一天做了我一辈子的工作",
       "onboard_time": 1751164340,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 764940,
+      "num": 345223,
+      "word": "串串房",
+      "onboard_time": 1751353582,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 763520,
@@ -857,6 +889,14 @@
       "onboard_time": 1751282242,
       "rank": 24,
       "category": "网红"
+    },
+    {
+      "raw_hot": 647421,
+      "num": 344863,
+      "word": "那英说龚俊经纪人够差劲的",
+      "onboard_time": 1751357840,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 643490,
@@ -1147,12 +1187,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 516926,
-      "num": 516926,
-      "word": "微信可以不接收共同好友点赞提醒了",
-      "onboard_time": 1751353402,
-      "rank": 12,
-      "category": "互联网"
+      "raw_hot": 518276,
+      "num": 518276,
+      "word": "虐猫考生上岸失败系道德品行等问题",
+      "onboard_time": 1751355742,
+      "rank": 40,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 514957,
@@ -1377,6 +1417,14 @@
       "onboard_time": 1751339902,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 451414,
+      "num": 451414,
+      "word": "首创集团原董事长李爱庆一审死缓",
+      "onboard_time": 1751355141,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 449777,
@@ -1819,6 +1867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 352508,
+      "num": 344271,
+      "word": "突然发现85花好多和同事结婚的",
+      "onboard_time": 1751357422,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 351630,
       "num": 452998,
       "word": "周杰伦曾给Angelababy写歌",
@@ -1840,6 +1896,14 @@
       "word": "李惠利前男友和现男友",
       "onboard_time": 1751344284,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 343998,
+      "num": 343998,
+      "word": "Angelababy带小海绵蹦极",
+      "onboard_time": 1751355501,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -2307,6 +2371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 287141,
+      "num": 287141,
+      "word": "警方辟谣多名女孩被男子哄骗外出受害",
+      "onboard_time": 1751356881,
+      "rank": 20,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 286757,
       "num": 280066,
       "word": "鹿晗演唱会微指",
@@ -2739,6 +2811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 237582,
+      "num": 237582,
+      "word": "中央财经委员会第六次会议",
+      "onboard_time": 1751356222,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 234103,
       "num": 234103,
       "word": "清华硕士靠文眉月入3万被母亲反对",
@@ -2779,14 +2859,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 230174,
-      "num": 230174,
-      "word": "串串房",
-      "onboard_time": 1751353582,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 229922,
       "num": 229922,
       "word": "从必死到必胜",
@@ -2801,14 +2873,6 @@
       "onboard_time": 1751329041,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 228992,
-      "num": 228992,
-      "word": "首创集团原董事长李爱庆一审死缓",
-      "onboard_time": 1751355141,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 227713,
@@ -3603,6 +3667,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 189649,
+      "num": 250381,
+      "word": "肖战藏海上半年最热角色",
+      "onboard_time": 1751358682,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189529,
       "num": 189168,
       "word": "金价再度下跌",
@@ -3729,6 +3801,14 @@
       "onboard_time": 1751203284,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185102,
+      "num": 347923,
+      "word": "泰国总理回应被停职",
+      "onboard_time": 1751357542,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 184859,
@@ -4155,14 +4235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 170780,
-      "num": 163896,
-      "word": "Angelababy带小海绵蹦极",
-      "onboard_time": 1751355501,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 169887,
       "num": 169887,
       "word": "严浩翔王嘉尔合照",
@@ -4587,6 +4659,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 156909,
+      "num": 156909,
+      "word": "5岁女孩坠海父亲托举其近20分钟",
+      "onboard_time": 1751358563,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156901,
       "num": 156901,
       "word": "男孩高三辍学被老师劝回高考630分",
@@ -4739,6 +4819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153983,
+      "num": 153983,
+      "word": "高铁不查充电宝3C标识",
+      "onboard_time": 1751355501,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153972,
       "num": 153972,
       "word": "MSI八强确定",
@@ -4801,14 +4889,6 @@
       "onboard_time": 1751354481,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 152299,
-      "num": 152299,
-      "word": "高铁不查充电宝3C标识",
-      "onboard_time": 1751355501,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 152293,
@@ -5595,6 +5675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135026,
+      "num": 195057,
+      "word": "哈萨克斯坦公共场所禁止蒙面",
+      "onboard_time": 1751354481,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 134883,
       "num": 134883,
       "word": "女生每个月必有的四个阶段",
@@ -6059,6 +6147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127424,
+      "num": 243792,
+      "word": "美雪上班久了也这样",
+      "onboard_time": 1751355982,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127376,
       "num": 127376,
       "word": "杨紫淡妆浓抹总相宜",
@@ -6187,6 +6283,14 @@
       "category": "情感,民生新闻"
     },
     {
+      "raw_hot": 124772,
+      "num": 124772,
+      "word": "小伙彩票守号1年就中奖1030万元",
+      "onboard_time": 1751358563,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124245,
       "num": 124245,
       "word": "第一次见把自己搓成labubu的",
@@ -6257,6 +6361,14 @@
       "onboard_time": 1751255722,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 122139,
+      "num": 122139,
+      "word": "佩通坦被停职后发声",
+      "onboard_time": 1751358081,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 122138,
@@ -6531,6 +6643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116838,
+      "num": 127037,
+      "word": "宋佳是杨天真带的第1个艺人",
+      "onboard_time": 1751358863,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116747,
       "num": 116747,
       "word": "以法之名14集好解气",
@@ -6553,6 +6673,14 @@
       "onboard_time": 1751155699,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116202,
+      "num": 116202,
+      "word": "王京回应",
+      "onboard_time": 1751357001,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 116190,
@@ -6729,6 +6857,14 @@
       "onboard_time": 1751180000,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112133,
+      "num": 112133,
+      "word": "陈思诚说张小斐有灰度感",
+      "onboard_time": 1751358442,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 111826,
@@ -6977,6 +7113,14 @@
       "onboard_time": 1751331263,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 106294,
+      "num": 106294,
+      "word": "时代少年团大连演唱会酒店涨价88倍",
+      "onboard_time": 1751358924,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 106245,
@@ -7403,6 +7547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93076,
+      "num": 300701,
+      "word": "花少你是懂变形记的",
+      "onboard_time": 1751356701,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 92844,
       "num": 125345,
       "word": "PEL夏季赛倒计时3天",
@@ -7513,14 +7665,6 @@
       "onboard_time": 1751339240,
       "rank": 18,
       "category": "民生新闻,汽车"
-    },
-    {
-      "raw_hot": 86012,
-      "num": 195057,
-      "word": "哈萨克斯坦公共场所禁止蒙面",
-      "onboard_time": 1751354481,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 85622,
@@ -8099,6 +8243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 58425,
+      "num": 125014,
+      "word": "生孩子是自信心摧毁和重建过程",
+      "onboard_time": 1751358262,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 57669,
       "num": 129614,
       "word": "C罗称沙特联是世界前五联赛",
@@ -8289,6 +8441,14 @@
       "onboard_time": 1751326758,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49184,
+      "num": 252285,
+      "word": "苏超十佳球",
+      "onboard_time": 1751358502,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 48792,
@@ -8859,14 +9019,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 28195,
-      "num": 139684,
-      "word": "虐猫考生上岸失败系道德品行等问题",
-      "onboard_time": 1751355742,
-      "rank": 40,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 28018,
       "num": 152580,
       "word": "是否有必要追究虐猫考生",
@@ -9395,6 +9547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 15597,
+      "num": 289826,
+      "word": "洪水中挪车被困自救女子发声",
+      "onboard_time": 1751358142,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15426,
       "num": 20461,
       "word": "李由音怪物新人",
@@ -9545,6 +9705,14 @@
       "onboard_time": 1751230874,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10950,
+      "num": 239135,
+      "word": "深圳卫健委活人感",
+      "onboard_time": 1751358563,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 10401,

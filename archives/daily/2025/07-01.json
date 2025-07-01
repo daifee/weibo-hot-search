@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751355773368,
+  "endTime": 1751358947611,
   "band_list": [
     {
       "raw_hot": 2472851,
@@ -41,6 +41,14 @@
       "onboard_time": 1751338821,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1358959,
+      "num": 1358959,
+      "word": "微信可以不接收共同好友点赞提醒了",
+      "onboard_time": 1751353402,
+      "rank": 12,
+      "category": "互联网"
     },
     {
       "raw_hot": 1110085,
@@ -147,6 +155,30 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 800084,
+      "num": 346244,
+      "word": "日本19岁女子全裸身亡男友逃逸被捕",
+      "onboard_time": 1751356581,
+      "rank": 12,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 777324,
+      "num": 345925,
+      "word": "女子腿痒了2个月查出肝癌",
+      "onboard_time": 1751356281,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 764940,
+      "num": 345223,
+      "word": "串串房",
+      "onboard_time": 1751353582,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 763520,
       "num": 763520,
       "word": "12306回应充电宝上高铁规定",
@@ -209,6 +241,14 @@
       "onboard_time": 1751279121,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 647421,
+      "num": 344863,
+      "word": "那英说龚俊经纪人够差劲的",
+      "onboard_time": 1751357840,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 637935,
@@ -291,12 +331,12 @@
       "category": "舆论监督,科学科普"
     },
     {
-      "raw_hot": 516926,
-      "num": 516926,
-      "word": "微信可以不接收共同好友点赞提醒了",
-      "onboard_time": 1751353402,
-      "rank": 12,
-      "category": "互联网"
+      "raw_hot": 518276,
+      "num": 518276,
+      "word": "虐猫考生上岸失败系道德品行等问题",
+      "onboard_time": 1751355742,
+      "rank": 40,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 508410,
@@ -345,6 +385,14 @@
       "onboard_time": 1751339902,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 451414,
+      "num": 451414,
+      "word": "首创集团原董事长李爱庆一审死缓",
+      "onboard_time": 1751355141,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 448284,
@@ -451,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 352508,
+      "num": 344271,
+      "word": "突然发现85花好多和同事结婚的",
+      "onboard_time": 1751357422,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 351630,
       "num": 452998,
       "word": "周杰伦曾给Angelababy写歌",
@@ -464,6 +520,14 @@
       "word": "李惠利前男友和现男友",
       "onboard_time": 1751344284,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 343998,
+      "num": 343998,
+      "word": "Angelababy带小海绵蹦极",
+      "onboard_time": 1751355501,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -563,6 +627,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 287141,
+      "num": 287141,
+      "word": "警方辟谣多名女孩被男子哄骗外出受害",
+      "onboard_time": 1751356881,
+      "rank": 20,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 283131,
       "num": 320792,
       "word": "fx合体",
@@ -635,20 +707,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237582,
+      "num": 237582,
+      "word": "中央财经委员会第六次会议",
+      "onboard_time": 1751356222,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 233144,
       "num": 446896,
       "word": "鞠婧祎这是王一栩说的百变小樱吗",
       "onboard_time": 1751340681,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 230174,
-      "num": 230174,
-      "word": "串串房",
-      "onboard_time": 1751353582,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 229922,
@@ -665,14 +737,6 @@
       "onboard_time": 1751329041,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 228992,
-      "num": 228992,
-      "word": "首创集团原董事长李爱庆一审死缓",
-      "onboard_time": 1751355141,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 225737,
@@ -827,6 +891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189649,
+      "num": 250381,
+      "word": "肖战藏海上半年最热角色",
+      "onboard_time": 1751358682,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189475,
       "num": 323935,
       "word": "密室大逃脱7存在逃脱失败的可能",
@@ -841,6 +913,14 @@
       "onboard_time": 1751351422,
       "rank": 31,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 185102,
+      "num": 347923,
+      "word": "泰国总理回应被停职",
+      "onboard_time": 1751357542,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 181125,
@@ -897,14 +977,6 @@
       "onboard_time": 1751354062,
       "rank": 41,
       "category": "幽默,休闲"
-    },
-    {
-      "raw_hot": 170780,
-      "num": 163896,
-      "word": "Angelababy带小海绵蹦极",
-      "onboard_time": 1751355501,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 169215,
@@ -987,6 +1059,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 156909,
+      "num": 156909,
+      "word": "5岁女孩坠海父亲托举其近20分钟",
+      "onboard_time": 1751358563,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156810,
       "num": 156810,
       "word": "藿香正气水泡脚",
@@ -1011,6 +1091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153983,
+      "num": 153983,
+      "word": "高铁不查充电宝3C标识",
+      "onboard_time": 1751355501,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153473,
       "num": 153473,
       "word": "男子登四姑娘山腿软滑坠下山",
@@ -1033,14 +1121,6 @@
       "onboard_time": 1751354481,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 152299,
-      "num": 152299,
-      "word": "高铁不查充电宝3C标识",
-      "onboard_time": 1751355501,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 150184,
@@ -1187,6 +1267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135026,
+      "num": 195057,
+      "word": "哈萨克斯坦公共场所禁止蒙面",
+      "onboard_time": 1751354481,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 134883,
       "num": 134883,
       "word": "女生每个月必有的四个阶段",
@@ -1283,6 +1371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127424,
+      "num": 243792,
+      "word": "美雪上班久了也这样",
+      "onboard_time": 1751355982,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127236,
       "num": 127236,
       "word": "韩安冉曝小猪妹被饿一整天",
@@ -1315,12 +1411,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124772,
+      "num": 124772,
+      "word": "小伙彩票守号1年就中奖1030万元",
+      "onboard_time": 1751358563,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124010,
       "num": 124010,
       "word": "沈佳润音色",
       "onboard_time": 1751351842,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122139,
+      "num": 122139,
+      "word": "佩通坦被停职后发声",
+      "onboard_time": 1751358081,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 121137,
@@ -1403,6 +1515,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116838,
+      "num": 127037,
+      "word": "宋佳是杨天真带的第1个艺人",
+      "onboard_time": 1751358863,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 116202,
+      "num": 116202,
+      "word": "王京回应",
+      "onboard_time": 1751357001,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115428,
       "num": 115428,
       "word": "Angelababy的追星运是天花板级别",
@@ -1425,6 +1553,14 @@
       "onboard_time": 1751288963,
       "rank": 26,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 112133,
+      "num": 112133,
+      "word": "陈思诚说张小斐有灰度感",
+      "onboard_time": 1751358442,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 111286,
@@ -1481,6 +1617,14 @@
       "onboard_time": 1751331263,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 106294,
+      "num": 106294,
+      "word": "时代少年团大连演唱会酒店涨价88倍",
+      "onboard_time": 1751358924,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 104240,
@@ -1587,6 +1731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93076,
+      "num": 300701,
+      "word": "花少你是懂变形记的",
+      "onboard_time": 1751356701,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 92614,
       "num": 313909,
       "word": "刘国梁想将女儿培养成大满贯运动员",
@@ -1681,14 +1833,6 @@
       "onboard_time": 1751295864,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 86012,
-      "num": 195057,
-      "word": "哈萨克斯坦公共场所禁止蒙面",
-      "onboard_time": 1751354481,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 85543,
@@ -1883,6 +2027,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 58425,
+      "num": 125014,
+      "word": "生孩子是自信心摧毁和重建过程",
+      "onboard_time": 1751358262,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 57804,
       "num": 57804,
       "word": "多地解禁中华田园犬",
@@ -1945,6 +2097,14 @@
       "onboard_time": 1751326758,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49184,
+      "num": 252285,
+      "word": "苏超十佳球",
+      "onboard_time": 1751358502,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 48735,
@@ -2065,14 +2225,6 @@
       "onboard_time": 1751305037,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28195,
-      "num": 139684,
-      "word": "虐猫考生上岸失败系道德品行等问题",
-      "onboard_time": 1751355742,
-      "rank": 40,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 26977,
@@ -2291,6 +2443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 15597,
+      "num": 289826,
+      "word": "洪水中挪车被困自救女子发声",
+      "onboard_time": 1751358142,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14101,
       "num": 16560,
       "word": "我不是天才吗",
@@ -2329,6 +2489,14 @@
       "onboard_time": 1751355742,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10950,
+      "num": 239135,
+      "word": "深圳卫健委活人感",
+      "onboard_time": 1751358563,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 9512,
