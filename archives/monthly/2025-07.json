@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751343205418,
+  "endTime": 1751345773522,
   "band_list": [
     {
       "raw_hot": 1867072,
@@ -36,11 +36,19 @@
     },
     {
       "raw_hot": 998662,
-      "num": 395913,
+      "num": 488577,
       "word": "离职半年了前领导还在使唤我",
       "onboard_time": 1751341581,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 905126,
+      "num": 477064,
+      "word": "夏天杀死了labubu",
+      "onboard_time": 1751341162,
+      "rank": 12,
+      "category": "幽默,休闲"
     },
     {
       "raw_hot": 873271,
@@ -67,20 +75,20 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 729837,
-      "num": 729837,
+      "raw_hot": 763520,
+      "num": 763520,
       "word": "12306回应充电宝上高铁规定",
       "onboard_time": 1751340740,
       "rank": 5,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 727712,
-      "num": 382109,
-      "word": "夏天杀死了labubu",
-      "onboard_time": 1751341162,
-      "rank": 12,
-      "category": "幽默,休闲"
+      "raw_hot": 744447,
+      "num": 744447,
+      "word": "水果放冰箱不要套袋子",
+      "onboard_time": 1751340261,
+      "rank": 23,
+      "category": "科学科普,美食"
     },
     {
       "raw_hot": 720147,
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 682130,
-      "num": 377555,
+      "num": 475200,
       "word": "李惠利与伴舞交往超一年",
       "onboard_time": 1751339601,
       "rank": 11,
@@ -113,6 +121,14 @@
       "onboard_time": 1751279121,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 637935,
+      "num": 637935,
+      "word": "公积金结息",
+      "onboard_time": 1751340862,
+      "rank": 13,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 633772,
@@ -203,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 416084,
+      "num": 416084,
+      "word": "当我穿洞洞鞋去了趟海边",
+      "onboard_time": 1751342122,
+      "rank": 41,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 412215,
       "num": 412215,
       "word": "特斯拉涨价",
@@ -251,12 +275,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 352211,
-      "num": 352211,
-      "word": "公积金结息",
-      "onboard_time": 1751340862,
-      "rank": 13,
-      "category": "财经,民生新闻"
+      "raw_hot": 336041,
+      "num": 336041,
+      "word": "陈思诚说李庚希京圈公主传闻是扯淡",
+      "onboard_time": 1751339902,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 326526,
@@ -283,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 310105,
+      "num": 310105,
+      "word": "李惠利前男友和现男友",
+      "onboard_time": 1751344284,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 304444,
       "num": 304444,
       "word": "1997年7月1日0时0分0秒",
@@ -307,12 +339,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 294916,
-      "num": 288641,
-      "word": "陈思诚说李庚希京圈公主传闻是扯淡",
-      "onboard_time": 1751339902,
-      "rank": 21,
-      "category": "电影"
+      "raw_hot": 298102,
+      "num": 298102,
+      "word": "女子卖100g黄金称老公买的不心疼",
+      "onboard_time": 1751342723,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 289077,
@@ -323,12 +355,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 287043,
+      "num": 234965,
+      "word": "闲置太久的鞋子就不要再穿了",
+      "onboard_time": 1751345301,
+      "rank": 31,
+      "category": "幽默,休闲"
+    },
+    {
       "raw_hot": 283131,
       "num": 320792,
       "word": "fx合体",
       "onboard_time": 1751293704,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 259288,
+      "num": 259288,
+      "word": "杨紫说怕被捧杀",
+      "onboard_time": 1751342843,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 253850,
@@ -339,12 +387,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 249425,
-      "num": 249425,
-      "word": "水果放冰箱不要套袋子",
-      "onboard_time": 1751340261,
-      "rank": 23,
-      "category": "科学科普,美食"
+      "raw_hot": 253609,
+      "num": 253609,
+      "word": "4个月大婴儿遭月嫂整晚暴力喂奶",
+      "onboard_time": 1751345184,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 245403,
@@ -403,10 +451,26 @@
       "category": "汽车,财经"
     },
     {
+      "raw_hot": 224327,
+      "num": 420890,
+      "word": "客机高空急降10余分钟乘客写遗书",
+      "onboard_time": 1751342482,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 215219,
       "num": 215219,
       "word": "父母花50万带5岁儿子骑游41国",
       "onboard_time": 1751325438,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 215145,
+      "num": 494057,
+      "word": "卫健委回应男子手掌受伤让查前列腺",
+      "onboard_time": 1751344404,
       "rank": 9,
       "category": "民生新闻"
     },
@@ -435,12 +499,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208666,
+      "num": 208666,
+      "word": "王楚钦运动小记",
+      "onboard_time": 1751345722,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206092,
       "num": 206092,
       "word": "空心菜 最懂打工人的蔬菜",
       "onboard_time": 1751341521,
       "rank": 30,
       "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 202370,
+      "num": 202370,
+      "word": "26岁女子每天熬夜致卵巢早衰绝经",
+      "onboard_time": 1751345184,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201454,
+      "num": 258950,
+      "word": "国产C909身披五星红旗飞出国门",
+      "onboard_time": 1751344342,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 201423,
@@ -475,6 +563,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185004,
+      "num": 185004,
+      "word": "金正恩疑似悼念在俄阵亡军人画面曝光",
+      "onboard_time": 1751345602,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 181125,
+      "num": 257775,
+      "word": "三折叠的风吹到了国产剧",
+      "onboard_time": 1751345001,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 180774,
+      "num": 180774,
+      "word": "中国共产党成立104周年",
+      "onboard_time": 1751343382,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 175707,
       "num": 175707,
       "word": "NBA",
@@ -507,6 +619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170146,
+      "num": 170146,
+      "word": "32周孕妇吃冰箱凉菜感染险胎死腹中",
+      "onboard_time": 1751345423,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169215,
       "num": 169215,
       "word": "李惠利和伴舞恋爱",
@@ -529,6 +649,22 @@
       "onboard_time": 1751335701,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166806,
+      "num": 166806,
+      "word": "男子带12岁女孩开房受害者不止1人",
+      "onboard_time": 1751345122,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163648,
+      "num": 433531,
+      "word": "李人骏以为是饭局结果被做局",
+      "onboard_time": 1751345362,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 162372,
@@ -555,6 +691,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 154214,
+      "num": 154214,
+      "word": "资深机长分析飞机为何直降8700米",
+      "onboard_time": 1751343683,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150184,
       "num": 150184,
       "word": "中方制裁菲律宾前参议员托伦蒂诺",
@@ -563,12 +707,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 148360,
-      "num": 148360,
-      "word": "杨紫说怕被捧杀",
-      "onboard_time": 1751342843,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 147885,
+      "num": 147885,
+      "word": "80后夫妻月入8K养三个小孩的真实生活",
+      "onboard_time": 1751343502,
+      "rank": 45,
+      "category": "民生新闻,幽默"
+    },
+    {
+      "raw_hot": 146319,
+      "num": 146319,
+      "word": "弟弟朝小猴子竖中指被一群猴打了",
+      "onboard_time": 1751345423,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 145921,
@@ -593,14 +745,6 @@
       "onboard_time": 1751329282,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 142885,
-      "num": 142885,
-      "word": "女子卖100g黄金称老公买的不心疼",
-      "onboard_time": 1751342723,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 140818,
@@ -649,14 +793,6 @@
       "onboard_time": 1751342482,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 133557,
-      "num": 133557,
-      "word": "当我穿洞洞鞋去了趟海边",
-      "onboard_time": 1751342122,
-      "rank": 41,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 132083,
@@ -867,6 +1003,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 104240,
+      "num": 256429,
+      "word": "刘宇宁献唱爱上海军蓝OST",
+      "onboard_time": 1751344163,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104195,
       "num": 104195,
       "word": "世界上最大的政党是如何炼成的",
@@ -883,6 +1027,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 100553,
+      "num": 254247,
+      "word": "20年了柯以敏你还是你",
+      "onboard_time": 1751343742,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 99096,
+      "num": 236047,
+      "word": "何惟芳开芳园六郎可以开茶园",
+      "onboard_time": 1751344642,
+      "rank": 30,
+      "category": "剧集,作品衍生"
+    },
+    {
       "raw_hot": 97314,
       "num": 97314,
       "word": "7月锦鲤附体星座",
@@ -892,7 +1052,7 @@
     },
     {
       "raw_hot": 97210,
-      "num": 206038,
+      "num": 226734,
       "word": "张艺兴回复林俊杰",
       "onboard_time": 1751335880,
       "rank": 28,
@@ -1044,7 +1204,7 @@
     },
     {
       "raw_hot": 82222,
-      "num": 194530,
+      "num": 251053,
       "word": "欧阳娜娜向何小鹏咨询G7价格",
       "onboard_time": 1751343022,
       "rank": 27,
@@ -1163,14 +1323,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 64167,
-      "num": 420890,
-      "word": "客机高空急降10余分钟乘客写遗书",
-      "onboard_time": 1751342482,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 60932,
       "num": 60932,
       "word": "郑钦文温网首日比赛推迟至次日",
@@ -1192,6 +1344,14 @@
       "word": "多地解禁中华田园犬",
       "onboard_time": 1751287702,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56394,
+      "num": 419647,
+      "word": "急降航班乘客补贴先垫付再申领",
+      "onboard_time": 1751344342,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -1251,6 +1411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44102,
+      "num": 300238,
+      "word": "警方称并非所有中华田园犬都禁养",
+      "onboard_time": 1751345542,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44025,
       "num": 44025,
       "word": "阿尔卡拉斯vs弗格尼尼",
@@ -1292,7 +1460,7 @@
     },
     {
       "raw_hot": 34086,
-      "num": 135845,
+      "num": 172488,
       "word": "祁煜歌岛的落日见证誓言",
       "onboard_time": 1751342243,
       "rank": 39,
@@ -1369,6 +1537,14 @@
       "onboard_time": 1751309236,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23620,
+      "num": 245835,
+      "word": "成年后最煎熬的事等父母的体检报告",
+      "onboard_time": 1751344882,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23410,
