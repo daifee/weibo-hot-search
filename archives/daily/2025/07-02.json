@@ -1,6 +1,6 @@
 {
   "startTime": 1751387623546,
-  "endTime": 1751388649331,
+  "endTime": 1751390694378,
   "band_list": [
     {
       "raw_hot": 981774,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 611455,
-      "num": 203618,
+      "num": 483198,
       "word": "保时捷女销冠称今年有望打破纪录",
       "onboard_time": 1751384542,
       "rank": 12,
@@ -171,11 +171,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132392,
+      "num": 132392,
+      "word": "质疑虐猫考生漠视生命并非追杀",
+      "onboard_time": 1751385801,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129737,
       "num": 129737,
       "word": "迪丽热巴 连登金九",
       "onboard_time": 1751374344,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 124272,
+      "num": 124272,
+      "word": "胡一天有在工作",
+      "onboard_time": 1751383343,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -203,28 +219,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 116158,
-      "num": 116158,
-      "word": "胡一天有在工作",
-      "onboard_time": 1751383343,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 113796,
       "num": 113796,
       "word": "李昊生日会",
       "onboard_time": 1751385801,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 113051,
-      "num": 113051,
-      "word": "质疑虐猫考生漠视生命并非追杀",
-      "onboard_time": 1751385801,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 112808,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 101169,
-      "num": 98733,
+      "num": 101091,
       "word": "金饰克价涨到1000元",
       "onboard_time": 1751388619,
       "rank": 29,
@@ -403,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 59487,
+      "num": 59487,
+      "word": "关闭朋友圈半年后的真实变化",
+      "onboard_time": 1751389697,
+      "rank": 30,
+      "category": "幽默,休闲"
+    },
+    {
       "raw_hot": 53263,
       "num": 58430,
       "word": "刘浩存发视频告别七根心简",
@@ -416,6 +424,30 @@
       "word": "你的样子",
       "onboard_time": 1751388499,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38620,
+      "num": 38620,
+      "word": "小米汽车辟谣提前交付",
+      "onboard_time": 1751390417,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 38372,
+      "num": 38372,
+      "word": "看杨紫眼神戏心里皱巴巴的",
+      "onboard_time": 1751390177,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 38013,
+      "num": 38013,
+      "word": "女子抱猫睡觉半年后确诊体癣",
+      "onboard_time": 1751383944,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
