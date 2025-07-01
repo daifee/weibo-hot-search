@@ -1,0 +1,410 @@
+{
+  "runTime": 1751336437502,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1387857,
+        "num": 1387857,
+        "word": "公积金",
+        "onboard_time": 1751333600,
+        "rank": 0,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 873271,
+        "num": 873271,
+        "word": "吃完山竹记得要漱口",
+        "onboard_time": 1751328081,
+        "rank": 1,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 26515,
+        "num": 729768,
+        "word": "党的旗帜所指即是网警铁翼所向",
+        "onboard_time": 1751329282,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 716000,
+        "num": 716000,
+        "word": "女子拍到野牛跌入温泉被活活煮死",
+        "onboard_time": 1751297064,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 633772,
+        "num": 633772,
+        "word": "春秋航空",
+        "onboard_time": 1751332040,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 528239,
+        "num": 528239,
+        "word": "央视揭秘无菌蛋真相",
+        "onboard_time": 1751331680,
+        "rank": 5,
+        "category": "舆论监督,科学科普"
+      },
+      {
+        "raw_hot": 481210,
+        "num": 481210,
+        "word": "动物园被举报用个人码收门票上千万",
+        "onboard_time": 1751331442,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 471503,
+        "num": 471503,
+        "word": "王楚然付辛博挽手路透",
+        "onboard_time": 1751334201,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 294851,
+        "num": 450312,
+        "word": "穿普拉达的女王2开拍",
+        "onboard_time": 1751332881,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 249390,
+        "num": 448626,
+        "word": "日本官方通报8696航班降落关西机场",
+        "onboard_time": 1751335339,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 448284,
+        "num": 448284,
+        "word": "上海飞东京航班疑客舱释压备降大阪",
+        "onboard_time": 1751333480,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403979,
+        "num": 403979,
+        "word": "深圳卫健委发文怼二手烟",
+        "onboard_time": 1751331081,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 395399,
+        "num": 395399,
+        "word": "鹿晗屏保",
+        "onboard_time": 1751273602,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365121,
+        "num": 365121,
+        "word": "党的生日",
+        "onboard_time": 1751331320,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 73663,
+        "num": 327592,
+        "word": "航班高空急降亲历者称氧气面罩掉落",
+        "onboard_time": 1751335281,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315848,
+        "num": 315848,
+        "word": "上海飞东京航班疑从万米高空急降",
+        "onboard_time": 1751327239,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277993,
+        "num": 277993,
+        "word": "邓超头像含鹿量超高",
+        "onboard_time": 1751334860,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229313,
+        "num": 277923,
+        "word": "杨幂很轻易想到迪丽热巴",
+        "onboard_time": 1751329041,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151489,
+        "num": 273701,
+        "word": "张艺兴13岁就认识林俊杰了",
+        "onboard_time": 1751295983,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 72995,
+        "num": 269736,
+        "word": "解禁中华田园犬是治理的进步",
+        "onboard_time": 1751335339,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299295,
+        "num": 266198,
+        "word": "夏天女装 不日常",
+        "onboard_time": 1751328981,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265024,
+        "num": 265024,
+        "word": "胡一天673天没进组了",
+        "onboard_time": 1751293404,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256330,
+        "num": 256330,
+        "word": "美国演员争演中国短剧日薪涨7倍",
+        "onboard_time": 1751333719,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247754,
+        "num": 247754,
+        "word": "特斯拉涨价",
+        "onboard_time": 1751335101,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 225737,
+        "num": 225737,
+        "word": "特斯拉Model3长续航版涨价至28.55万",
+        "onboard_time": 1751333901,
+        "rank": 24,
+        "category": "汽车,财经"
+      },
+      {
+        "raw_hot": 214110,
+        "num": 214110,
+        "word": "中华田园犬 禁养",
+        "onboard_time": 1751276424,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142954,
+        "num": 213585,
+        "word": "杨紫魏哲鸣对手戏好带感",
+        "onboard_time": 1751329282,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101864,
+        "num": 208198,
+        "word": "晚晚直播卖卷发棒翻车",
+        "onboard_time": 1751304617,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 97210,
+        "num": 206038,
+        "word": "张艺兴回复林俊杰",
+        "onboard_time": 1751335880,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 45309,
+        "num": 201448,
+        "word": "带头下馆子的区委书记表态",
+        "onboard_time": 1751334920,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200867,
+        "num": 200867,
+        "word": "金价大跌商家称不如上涨时卖得好",
+        "onboard_time": 1751297963,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161842,
+        "num": 161842,
+        "word": "天问二号59万公里外旅行照片",
+        "onboard_time": 1751331320,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 151191,
+        "num": 151191,
+        "word": "上海动物园通报婴儿喝奶被赶",
+        "onboard_time": 1751298142,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140818,
+        "num": 140818,
+        "word": "女子回家认出已故同学父亲摆摊卖瓜",
+        "onboard_time": 1751325499,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137996,
+        "num": 137996,
+        "word": "恋丑癖越来越多的原因好像找到了",
+        "onboard_time": 1751295622,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137324,
+        "num": 137324,
+        "word": "可生食鸡蛋线上线下价差好大",
+        "onboard_time": 1751335041,
+        "rank": 35,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 131610,
+        "num": 131610,
+        "word": "孙恩盛 PK验资",
+        "onboard_time": 1751294604,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 130615,
+        "num": 130615,
+        "word": "香港回归祖国28年",
+        "onboard_time": 1751290763,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 130542,
+        "num": 130542,
+        "word": "直升机悬挂五星红旗飞过香港上空",
+        "onboard_time": 1751334321,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22507,
+        "num": 127079,
+        "word": "张雨霏运动风plog",
+        "onboard_time": 1751335399,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127040,
+        "num": 127040,
+        "word": "广州地铁限制充电宝容量及数量",
+        "onboard_time": 1751335701,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122208,
+        "num": 122208,
+        "word": "中国代表强烈要求加沙立即持久停火",
+        "onboard_time": 1751336240,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121463,
+        "num": 121463,
+        "word": "一人一句祝福伟大的党伟大的祖国",
+        "onboard_time": 1751303178,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 107586,
+        "num": 107586,
+        "word": "女儿烫伤脸母亲维权未果致流产",
+        "onboard_time": 1751295565,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106576,
+        "num": 106576,
+        "word": "建党节",
+        "onboard_time": 1751331263,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 104195,
+        "num": 104195,
+        "word": "世界上最大的政党是如何炼成的",
+        "onboard_time": 1751336361,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100586,
+        "num": 100586,
+        "word": "特朗普政府又威胁哈佛大学",
+        "onboard_time": 1751332281,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 98327,
+        "num": 98327,
+        "word": "猝死前1个月身体的信号",
+        "onboard_time": 1751280561,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 97314,
+        "num": 97314,
+        "word": "7月锦鲤附体星座",
+        "onboard_time": 1751333600,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95846,
+        "num": 95846,
+        "word": "明恋和暗恋哪个更痛苦",
+        "onboard_time": 1751336060,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局第二十一次集体学习#"
+    }
+  }
+}

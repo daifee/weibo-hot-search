@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751326825057,
+  "endTime": 1751336437502,
   "band_list": [
     {
       "raw_hot": 3569605,
@@ -177,6 +177,14 @@
       "onboard_time": 1751293404,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1387857,
+      "num": 1387857,
+      "word": "公积金",
+      "onboard_time": 1751333600,
+      "rank": 0,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 1329400,
@@ -425,6 +433,14 @@
       "onboard_time": 1751264543,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 873271,
+      "num": 873271,
+      "word": "吃完山竹记得要漱口",
+      "onboard_time": 1751328081,
+      "rank": 1,
+      "category": "美食,民生新闻"
     },
     {
       "raw_hot": 854943,
@@ -707,6 +723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 633772,
+      "num": 633772,
+      "word": "春秋航空",
+      "onboard_time": 1751332040,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 630953,
       "num": 586456,
       "word": "TF四代舞台投票",
@@ -891,6 +915,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 528239,
+      "num": 528239,
+      "word": "央视揭秘无菌蛋真相",
+      "onboard_time": 1751331680,
+      "rank": 5,
+      "category": "舆论监督,科学科普"
+    },
+    {
       "raw_hot": 525891,
       "num": 395076,
       "word": "黄子韬分享陪徐艺洋试婚纱",
@@ -1035,6 +1067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 481210,
+      "num": 481210,
+      "word": "动物园被举报用个人码收门票上千万",
+      "onboard_time": 1751331442,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 478208,
       "num": 443865,
       "word": "柴六斤",
@@ -1075,6 +1115,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 471503,
+      "num": 471503,
+      "word": "王楚然付辛博挽手路透",
+      "onboard_time": 1751334201,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 470192,
       "num": 470192,
       "word": "她瘦三斤比我瘦30斤都明显",
@@ -1113,6 +1161,14 @@
       "onboard_time": 1751199561,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 448284,
+      "num": 448284,
+      "word": "上海飞东京航班疑客舱释压备降大阪",
+      "onboard_time": 1751333480,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 447502,
@@ -1265,6 +1321,14 @@
       "onboard_time": 1751128461,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 403979,
+      "num": 403979,
+      "word": "深圳卫健委发文怼二手烟",
+      "onboard_time": 1751331081,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 403578,
@@ -1425,6 +1489,14 @@
       "onboard_time": 1751165482,
       "rank": 7,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 365121,
+      "num": 365121,
+      "word": "党的生日",
+      "onboard_time": 1751331320,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 364617,
@@ -1651,6 +1723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 315848,
+      "num": 315848,
+      "word": "上海飞东京航班疑从万米高空急降",
+      "onboard_time": 1751327239,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 314385,
       "num": 314385,
       "word": "肖战在郑晓龙头上比耶",
@@ -1747,6 +1827,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 299295,
+      "num": 266198,
+      "word": "夏天女装 不日常",
+      "onboard_time": 1751328981,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 297743,
       "num": 297743,
       "word": "120万充电宝召回卡在快递环节",
@@ -1801,6 +1889,14 @@
       "onboard_time": 1751185942,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 294851,
+      "num": 450312,
+      "word": "穿普拉达的女王2开拍",
+      "onboard_time": 1751332881,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 293692,
@@ -1921,6 +2017,14 @@
       "onboard_time": 1751205263,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 277993,
+      "num": 277993,
+      "word": "邓超头像含鹿量超高",
+      "onboard_time": 1751334860,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 276436,
@@ -2067,6 +2171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 256330,
+      "num": 256330,
+      "word": "美国演员争演中国短剧日薪涨7倍",
+      "onboard_time": 1751333719,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 256045,
       "num": 256045,
       "word": "爷爷跑遍3条街给我买了8块钱的labubu",
@@ -2145,6 +2257,22 @@
       "onboard_time": 1751194459,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 249390,
+      "num": 448626,
+      "word": "日本官方通报8696航班降落关西机场",
+      "onboard_time": 1751335339,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 247754,
+      "num": 247754,
+      "word": "特斯拉涨价",
+      "onboard_time": 1751335101,
+      "rank": 23,
+      "category": "汽车"
     },
     {
       "raw_hot": 246905,
@@ -2267,6 +2395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 229313,
+      "num": 277923,
+      "word": "杨幂很轻易想到迪丽热巴",
+      "onboard_time": 1751329041,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227713,
       "num": 227713,
       "word": "证监会logo更新",
@@ -2297,6 +2433,14 @@
       "onboard_time": 1751274322,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 225737,
+      "num": 225737,
+      "word": "特斯拉Model3长续航版涨价至28.55万",
+      "onboard_time": 1751333901,
+      "rank": 24,
+      "category": "汽车,财经"
     },
     {
       "raw_hot": 225075,
@@ -2836,7 +2980,7 @@
     },
     {
       "raw_hot": 194476,
-      "num": 194476,
+      "num": 273701,
       "word": "张艺兴13岁就认识林俊杰了",
       "onboard_time": 1751295983,
       "rank": 31,
@@ -3675,6 +3819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161842,
+      "num": 161842,
+      "word": "天问二号59万公里外旅行照片",
+      "onboard_time": 1751331320,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 161583,
       "num": 178911,
       "word": "敖瑞鹏朝雪录上班路透",
@@ -4323,6 +4475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142954,
+      "num": 213585,
+      "word": "杨紫魏哲鸣对手戏好带感",
+      "onboard_time": 1751329282,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142893,
       "num": 142893,
       "word": "丁程鑫加冠礼演唱会海报",
@@ -4425,6 +4585,14 @@
       "onboard_time": 1751201121,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 140818,
+      "num": 140818,
+      "word": "女子回家认出已故同学父亲摆摊卖瓜",
+      "onboard_time": 1751325499,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140381,
@@ -4537,6 +4705,14 @@
       "onboard_time": 1751127921,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 137324,
+      "num": 137324,
+      "word": "可生食鸡蛋线上线下价差好大",
+      "onboard_time": 1751335041,
+      "rank": 35,
+      "category": "美食,民生新闻"
     },
     {
       "raw_hot": 137240,
@@ -4843,6 +5019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130542,
+      "num": 130542,
+      "word": "直升机悬挂五星红旗飞过香港上空",
+      "onboard_time": 1751334321,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 130501,
       "num": 130501,
       "word": "中医说夏天适合吃带香气的食物",
@@ -5011,14 +5195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 127417,
-      "num": 127417,
-      "word": "女子回家认出已故同学父亲摆摊卖瓜",
-      "onboard_time": 1751325499,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 127376,
       "num": 127376,
       "word": "杨紫淡妆浓抹总相宜",
@@ -5033,6 +5209,14 @@
       "onboard_time": 1751173403,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127040,
+      "num": 127040,
+      "word": "广州地铁限制充电宝容量及数量",
+      "onboard_time": 1751335701,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126646,
@@ -5193,6 +5377,14 @@
       "onboard_time": 1751255722,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 122208,
+      "num": 122208,
+      "word": "中国代表强烈要求加沙立即持久停火",
+      "onboard_time": 1751336240,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 122138,
@@ -5827,6 +6019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106576,
+      "num": 106576,
+      "word": "建党节",
+      "onboard_time": 1751331263,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 106245,
       "num": 106245,
       "word": "陈垣宇张本智和男单争冠",
@@ -5931,6 +6131,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 104195,
+      "num": 104195,
+      "word": "世界上最大的政党是如何炼成的",
+      "onboard_time": 1751336361,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 104062,
       "num": 105706,
       "word": "Labubu肉松披萨",
@@ -6001,6 +6209,14 @@
       "onboard_time": 1751163020,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 100586,
+      "num": 100586,
+      "word": "特朗普政府又威胁哈佛大学",
+      "onboard_time": 1751332281,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 100485,
@@ -6091,6 +6307,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97314,
+      "num": 97314,
+      "word": "7月锦鲤附体星座",
+      "onboard_time": 1751333600,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 97210,
+      "num": 206038,
+      "word": "张艺兴回复林俊杰",
+      "onboard_time": 1751335880,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 96846,
       "num": 96846,
       "word": "我是一个没敢碰啊",
@@ -6105,6 +6337,14 @@
       "onboard_time": 1751278882,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95846,
+      "num": 95846,
+      "word": "明恋和暗恋哪个更痛苦",
+      "onboard_time": 1751336060,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 95659,
@@ -6483,6 +6723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 73663,
+      "num": 327592,
+      "word": "航班高空急降亲历者称氧气面罩掉落",
+      "onboard_time": 1751335281,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73457,
       "num": 229031,
       "word": "AQ劝爸妈不信谣居然比我有用",
@@ -6505,6 +6753,14 @@
       "onboard_time": 1751163681,
       "rank": 13,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 72995,
+      "num": 269736,
+      "word": "解禁中华田园犬是治理的进步",
+      "onboard_time": 1751335339,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72292,
@@ -7011,6 +7267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 45309,
+      "num": 201448,
+      "word": "带头下馆子的区委书记表态",
+      "onboard_time": 1751334920,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44981,
       "num": 406604,
       "word": "胡兵官宣首个百张时尚面孔马瑞",
@@ -7491,6 +7755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26515,
+      "num": 729768,
+      "word": "党的旗帜所指即是网警铁翼所向",
+      "onboard_time": 1751329282,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26138,
       "num": 858272,
       "word": "数读我国物流运行亮眼成绩单",
@@ -7689,6 +7961,14 @@
       "onboard_time": 1751294844,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 22507,
+      "num": 127079,
+      "word": "张雨霏运动风plog",
+      "onboard_time": 1751335399,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 21840,
