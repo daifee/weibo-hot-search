@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751354891212,
+  "endTime": 1751355773368,
   "band_list": [
     {
       "raw_hot": 2472851,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2108929,
-      "num": 489203,
+      "num": 509509,
       "word": "这是杨幂还是小糯米",
       "onboard_time": 1751351602,
       "rank": 12,
@@ -91,6 +91,14 @@
       "category": "美食,民生新闻"
     },
     {
+      "raw_hot": 866891,
+      "num": 866891,
+      "word": "韦东奕晋升北大长聘副教授",
+      "onboard_time": 1751351842,
+      "rank": 42,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 852456,
       "num": 852456,
       "word": "多名主播验资pk引争议",
@@ -137,14 +145,6 @@
       "onboard_time": 1751345301,
       "rank": 31,
       "category": "幽默,休闲"
-    },
-    {
-      "raw_hot": 797343,
-      "num": 797343,
-      "word": "韦东奕晋升北大长聘副教授",
-      "onboard_time": 1751351842,
-      "rank": 42,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 763520,
@@ -291,6 +291,14 @@
       "category": "舆论监督,科学科普"
     },
     {
+      "raw_hot": 516926,
+      "num": 516926,
+      "word": "微信可以不接收共同好友点赞提醒了",
+      "onboard_time": 1751353402,
+      "rank": 12,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 508410,
       "num": 304650,
       "word": "恋丑癖越来越多的原因好像找到了",
@@ -299,12 +307,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 499108,
-      "num": 499108,
+      "raw_hot": 505929,
+      "num": 505929,
       "word": "桂林回应虐猫考生事件",
       "onboard_time": 1751350822,
       "rank": 20,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 500863,
+      "num": 500863,
+      "word": "被同事家的荔枝树震惊到了",
+      "onboard_time": 1751353402,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 481210,
@@ -313,14 +329,6 @@
       "onboard_time": 1751331442,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 469384,
-      "num": 469384,
-      "word": "被同事家的荔枝树震惊到了",
-      "onboard_time": 1751353402,
-      "rank": 11,
-      "category": "幽默"
     },
     {
       "raw_hot": 456760,
@@ -435,20 +443,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 363097,
+      "num": 363097,
+      "word": "男子被亲弟冒充吸毒留10年案底",
+      "onboard_time": 1751348482,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 351630,
       "num": 452998,
       "word": "周杰伦曾给Angelababy写歌",
       "onboard_time": 1751347642,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 351592,
-      "num": 351592,
-      "word": "微信可以不接收共同好友点赞提醒了",
-      "onboard_time": 1751353402,
-      "rank": 12,
-      "category": "互联网"
     },
     {
       "raw_hot": 346810,
@@ -603,14 +611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 253082,
-      "num": 351289,
-      "word": "男子被亲弟冒充吸毒留10年案底",
-      "onboard_time": 1751348482,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 245403,
       "num": 245403,
       "word": "女子网购拉布布盲盒拆开仅剩6个裸娃",
@@ -643,6 +643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 230174,
+      "num": 230174,
+      "word": "串串房",
+      "onboard_time": 1751353582,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 229922,
       "num": 229922,
       "word": "从必死到必胜",
@@ -657,6 +665,14 @@
       "onboard_time": 1751329041,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 228992,
+      "num": 228992,
+      "word": "首创集团原董事长李爱庆一审死缓",
+      "onboard_time": 1751355141,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 225737,
@@ -787,14 +803,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 194593,
-      "num": 194593,
-      "word": "串串房",
-      "onboard_time": 1751353582,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 194476,
       "num": 273701,
       "word": "张艺兴13岁就认识林俊杰了",
@@ -819,6 +827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189475,
+      "num": 323935,
+      "word": "密室大逃脱7存在逃脱失败的可能",
+      "onboard_time": 1751353822,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186307,
       "num": 186307,
       "word": "中山一路",
@@ -833,14 +849,6 @@
       "onboard_time": 1751345001,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 180957,
-      "num": 196676,
-      "word": "密室大逃脱7存在逃脱失败的可能",
-      "onboard_time": 1751353822,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 180774,
@@ -881,6 +889,22 @@
       "onboard_time": 1751297003,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171666,
+      "num": 171666,
+      "word": "北京月薪1万房租7000的真实生活",
+      "onboard_time": 1751354062,
+      "rank": 41,
+      "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 170780,
+      "num": 163896,
+      "word": "Angelababy带小海绵蹦极",
+      "onboard_time": 1751355501,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 169215,
@@ -1003,6 +1027,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 152335,
+      "num": 350488,
+      "word": "李惠利历任公开男友",
+      "onboard_time": 1751354481,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 152299,
+      "num": 152299,
+      "word": "高铁不查充电宝3C标识",
+      "onboard_time": 1751355501,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150184,
       "num": 150184,
       "word": "中方制裁菲律宾前参议员托伦蒂诺",
@@ -1057,6 +1097,14 @@
       "onboard_time": 1751300062,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143363,
+      "num": 171116,
+      "word": "锦绣芳华有自己的nimomo",
+      "onboard_time": 1751355320,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 142954,
@@ -1152,6 +1200,14 @@
       "word": "建议不要和美甲师太熟",
       "onboard_time": 1751354000,
       "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 133059,
+      "num": 133059,
+      "word": "学生对赌协议",
+      "onboard_time": 1751354361,
+      "rank": 45,
       "category": "幽默"
     },
     {
@@ -1267,14 +1323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 123134,
-      "num": 123134,
-      "word": "北京月薪1万房租7000的真实生活",
-      "onboard_time": 1751354062,
-      "rank": 41,
-      "category": "幽默,休闲"
-    },
-    {
       "raw_hot": 121137,
       "num": 246674,
       "word": "睡眠真的超级重要",
@@ -1315,6 +1363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119451,
+      "num": 119451,
+      "word": "环保人士举报污染被山东东营警方行拘",
+      "onboard_time": 1751354782,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119303,
       "num": 119303,
       "word": "贾永婕5千买下小S二女儿画作",
@@ -1345,14 +1401,6 @@
       "onboard_time": 1751340200,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 116007,
-      "num": 116007,
-      "word": "学生对赌协议",
-      "onboard_time": 1751354361,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 115428,
@@ -1401,14 +1449,6 @@
       "onboard_time": 1751336720,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 110049,
-      "num": 110049,
-      "word": "环保人士举报污染被山东东营警方行拘",
-      "onboard_time": 1751354782,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 109936,
@@ -1497,14 +1537,6 @@
       "onboard_time": 1751344642,
       "rank": 30,
       "category": "剧集,作品衍生"
-    },
-    {
-      "raw_hot": 97848,
-      "num": 350488,
-      "word": "李惠利历任公开男友",
-      "onboard_time": 1751354481,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 97314,
@@ -1649,6 +1681,14 @@
       "onboard_time": 1751295864,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 86012,
+      "num": 195057,
+      "word": "哈萨克斯坦公共场所禁止蒙面",
+      "onboard_time": 1751354481,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 85543,
@@ -1899,14 +1939,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 50101,
-      "num": 195057,
-      "word": "哈萨克斯坦公共场所禁止蒙面",
-      "onboard_time": 1751354481,
-      "rank": 29,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 49542,
       "num": 49542,
       "word": "春秋航空辟谣飞机极速下落3000米",
@@ -1971,6 +2003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38684,
+      "num": 141149,
+      "word": "我的精神状态凉好",
+      "onboard_time": 1751355442,
+      "rank": 39,
+      "category": "幽默,互联网"
+    },
+    {
       "raw_hot": 37532,
       "num": 43738,
       "word": "张艺兴音乐人之间的默契合唱",
@@ -2011,12 +2051,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 33195,
+      "num": 325711,
+      "word": "家长反对报殡葬专业网友支持其女儿",
+      "onboard_time": 1751354481,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31983,
       "num": 35231,
       "word": "2025上半年纪念短片",
       "onboard_time": 1751305037,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28195,
+      "num": 139684,
+      "word": "虐猫考生上岸失败系道德品行等问题",
+      "onboard_time": 1751355742,
+      "rank": 40,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 26977,
@@ -2081,6 +2137,14 @@
       "onboard_time": 1751310075,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 24657,
+      "num": 334037,
+      "word": "动物园被举报个人码收门票重新立案",
+      "onboard_time": 1751355141,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23976,
@@ -2203,6 +2267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 16119,
+      "num": 137945,
+      "word": "官方回应咸丰县内涝多车被冲入河道",
+      "onboard_time": 1751355742,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16016,
       "num": 19416,
       "word": "李现蒋长扬盔甲新皮肤",
@@ -2217,14 +2289,6 @@
       "onboard_time": 1751309715,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 14597,
-      "num": 325711,
-      "word": "家长反对报殡葬专业网友支持其女儿",
-      "onboard_time": 1751354481,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14101,
@@ -2257,6 +2321,14 @@
       "onboard_time": 1751312173,
       "rank": 49,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 11622,
+      "num": 152571,
+      "word": "开空调和电扇之间商场选开玩笑",
+      "onboard_time": 1751355742,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9512,
