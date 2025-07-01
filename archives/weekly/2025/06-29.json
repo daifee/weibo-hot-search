@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751395805064,
+  "endTime": 1751397684803,
   "band_list": [
     {
       "raw_hot": 3569605,
@@ -11009,6 +11009,14 @@
       "onboard_time": 1751292443,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 17116,
+      "num": 17116,
+      "word": "月嫂在雇主家工作时心梗无人担责",
+      "onboard_time": 1751397074,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17086,
