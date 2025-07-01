@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751366842509,
+  "endTime": 1751369008737,
   "band_list": [
     {
       "raw_hot": 3569605,
@@ -539,6 +539,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 888333,
+      "num": 888333,
+      "word": "女儿黑救护车上死亡父母发声",
+      "onboard_time": 1751361862,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 880345,
       "num": 880345,
       "word": "红色榴莲",
@@ -569,14 +577,6 @@
       "onboard_time": 1751351842,
       "rank": 42,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 863759,
-      "num": 863759,
-      "word": "女儿黑救护车上死亡父母发声",
-      "onboard_time": 1751361862,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 854943,
@@ -945,6 +945,14 @@
       "onboard_time": 1751282242,
       "rank": 24,
       "category": "网红"
+    },
+    {
+      "raw_hot": 648345,
+      "num": 648345,
+      "word": "美国瑞幸价格",
+      "onboard_time": 1751364201,
+      "rank": 21,
+      "category": "财经"
     },
     {
       "raw_hot": 643490,
@@ -1347,6 +1355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 499497,
+      "num": 380354,
+      "word": "Oasis",
+      "onboard_time": 1751364561,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 498328,
       "num": 481472,
       "word": "印度向巴基斯坦泄洪",
@@ -1377,6 +1393,14 @@
       "onboard_time": 1751210123,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 490088,
+      "num": 355719,
+      "word": "14岁邹明轩身高",
+      "onboard_time": 1751368223,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 488001,
@@ -1803,14 +1827,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 380354,
-      "num": 380354,
-      "word": "Oasis",
-      "onboard_time": 1751364561,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 380171,
       "num": 326140,
       "word": "阿娇说减肥真的不容易",
@@ -1873,6 +1889,14 @@
       "onboard_time": 1751244320,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 370930,
+      "num": 370930,
+      "word": "杨幂李现 最适合穿白色的两个人",
+      "onboard_time": 1751366300,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 366569,
@@ -2155,6 +2179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 320213,
+      "num": 349575,
+      "word": "女儿拿遗产儿子可以不管母亲吗",
+      "onboard_time": 1751360603,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 318356,
       "num": 318356,
       "word": "伊朗2022年几乎成功刺杀蓬佩奥",
@@ -2233,14 +2265,6 @@
       "onboard_time": 1751205084,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 310749,
-      "num": 310749,
-      "word": "美国瑞幸价格",
-      "onboard_time": 1751364201,
-      "rank": 21,
-      "category": "财经"
     },
     {
       "raw_hot": 307275,
@@ -2835,6 +2859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 251207,
+      "num": 251207,
+      "word": "胡一天回应没进组",
+      "onboard_time": 1751368521,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250982,
       "num": 283083,
       "word": "猫妈妈洪水中叼着小猫绝处求生",
@@ -3235,14 +3267,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 214060,
-      "num": 214060,
-      "word": "杨幂李现 最适合穿白色的两个人",
-      "onboard_time": 1751366300,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 213941,
       "num": 263100,
       "word": "仅测额就被贷款10万还不让提前还",
@@ -3376,6 +3400,14 @@
       "word": "小S二女儿画作卖超百万",
       "onboard_time": 1751363601,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 206535,
+      "num": 206535,
+      "word": "韩娱三线爱豆收入",
+      "onboard_time": 1751368403,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -4435,6 +4467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171866,
+      "num": 171866,
+      "word": "黄晓明最早统一我家审美的人",
+      "onboard_time": 1751367982,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171666,
       "num": 171666,
       "word": "北京月薪1万房租7000的真实生活",
@@ -4659,6 +4699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163190,
+      "num": 163190,
+      "word": "以军空袭一咖啡馆致至少39人死亡",
+      "onboard_time": 1751367143,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 162998,
       "num": 313481,
       "word": "阿里散装赞助了3支苏超球队",
@@ -4792,6 +4840,14 @@
       "word": "四川暴雨2.9万人提前转移",
       "onboard_time": 1751250740,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160470,
+      "num": 343477,
+      "word": "儿女不和两年后老人赡养费成问题",
+      "onboard_time": 1751368643,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -5163,6 +5219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 151054,
+      "num": 342913,
+      "word": "应采儿分享Jasper庆生照",
+      "onboard_time": 1751368463,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151027,
       "num": 151027,
       "word": "南通队4比0宿迁队",
@@ -5491,6 +5555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144516,
+      "num": 155695,
+      "word": "金智秀alo线下活动",
+      "onboard_time": 1751368822,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143836,
       "num": 301497,
       "word": "王佑硕人生镜头",
@@ -5673,6 +5745,14 @@
       "onboard_time": 1751195061,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140163,
+      "num": 140163,
+      "word": "深圳地铁",
+      "onboard_time": 1751368042,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140111,
@@ -5891,6 +5971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135452,
+      "num": 151367,
+      "word": "何炅内娱白月光",
+      "onboard_time": 1751367982,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135406,
       "num": 135406,
       "word": "第一次用荤素搭配形容一部剧",
@@ -5905,6 +5993,14 @@
       "onboard_time": 1751348063,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135239,
+      "num": 135239,
+      "word": "球迷在王楚钦评论区晒成绩单",
+      "onboard_time": 1751368521,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 135026,
@@ -6361,6 +6457,14 @@
       "onboard_time": 1751156359,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128644,
+      "num": 128644,
+      "word": "医生建议女性10点半前睡觉",
+      "onboard_time": 1751366001,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 128598,
@@ -6867,6 +6971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119351,
+      "num": 119351,
+      "word": "Bin分享和Faker合照",
+      "onboard_time": 1751368883,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 119121,
       "num": 119121,
       "word": "陈梦脱口秀初体验",
@@ -6948,7 +7060,7 @@
     },
     {
       "raw_hot": 118172,
-      "num": 118172,
+      "num": 130552,
       "word": "王诗玥柳鑫宇正式回归",
       "onboard_time": 1751366781,
       "rank": 45,
@@ -6985,14 +7097,6 @@
       "onboard_time": 1751340200,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 117214,
-      "num": 117214,
-      "word": "医生建议女性10点半前睡觉",
-      "onboard_time": 1751366001,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 116747,
@@ -7691,6 +7795,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 102889,
+      "num": 143704,
+      "word": "解限机明日上线",
+      "onboard_time": 1751367802,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 102836,
       "num": 102836,
       "word": "伊万发文谈执教国足",
@@ -7729,6 +7841,14 @@
       "onboard_time": 1751128701,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 102267,
+      "num": 128677,
+      "word": "紧急调拨物资支持河南湖北救灾",
+      "onboard_time": 1751368101,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100908,
@@ -7889,6 +8009,14 @@
       "onboard_time": 1751181200,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96714,
+      "num": 352574,
+      "word": "苏超阿里赞助商凑齐一桌掼蛋",
+      "onboard_time": 1751367683,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 96526,
@@ -8859,6 +8987,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 51769,
+      "num": 388399,
+      "word": "中国共产党104岁生日",
+      "onboard_time": 1751368582,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 50533,
       "num": 50533,
       "word": "汪苏泷说太原不愧是歌迷之都",
@@ -9139,6 +9275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 37220,
+      "num": 128967,
+      "word": "美国六代机到底如何呢",
+      "onboard_time": 1751368941,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 37166,
       "num": 192202,
       "word": "洪森指责他信家族背信弃义",
@@ -9353,6 +9497,14 @@
       "onboard_time": 1751286623,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31011,
+      "num": 859582,
+      "word": "用28秒打开香港回归祖国28周年",
+      "onboard_time": 1751368342,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 30835,
@@ -10246,6 +10398,9 @@
     },
     {
       "word": "#追光的你#"
+    },
+    {
+      "word": "#中央财经委员会第六次会议#"
     }
   ]
 }
