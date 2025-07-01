@@ -1,0 +1,410 @@
+{
+  "runTime": 1751365785113,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1373403,
+        "num": 1373403,
+        "word": "印度人嘲讽中国火车",
+        "onboard_time": 1751359882,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1145557,
+        "num": 1145557,
+        "word": "云南25岁刮腻子女网红去世",
+        "onboard_time": 1751363421,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4851,
+        "num": 999417,
+        "word": "党的旗帜所指即是网警铁翼所向",
+        "onboard_time": 1751329282,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 882489,
+        "num": 882489,
+        "word": "遗产几乎女儿全拿儿子可不管母亲吗",
+        "onboard_time": 1751360603,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 632759,
+        "num": 632759,
+        "word": "女儿黑救护车上死亡父母发声",
+        "onboard_time": 1751361862,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 588445,
+        "num": 588445,
+        "word": "微信可以不接收共同好友点赞提醒了",
+        "onboard_time": 1751353402,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 377501,
+        "num": 585419,
+        "word": "时代少年团大连演唱会酒店涨价88倍",
+        "onboard_time": 1751358924,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 283205,
+        "num": 577308,
+        "word": "宋佳是杨天真带的第1个艺人",
+        "onboard_time": 1751358863,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253388,
+        "num": 567785,
+        "word": "马斯克放弃殖民火星计划",
+        "onboard_time": 1751363062,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 195628,
+        "num": 551379,
+        "word": "日本航空道歉",
+        "onboard_time": 1751364623,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1052434,
+        "num": 539081,
+        "word": "这是杨幂还是小糯米",
+        "onboard_time": 1751351602,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1016157,
+        "num": 534036,
+        "word": "孙恩盛 无证驾驶",
+        "onboard_time": 1751360303,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 858551,
+        "num": 524590,
+        "word": "虐猫考生上岸失败系道德品行等问题",
+        "onboard_time": 1751355742,
+        "rank": 12,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 629649,
+        "num": 517933,
+        "word": "那英说龚俊经纪人够差劲的",
+        "onboard_time": 1751357840,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 508807,
+        "num": 508807,
+        "word": "上海动物园道歉",
+        "onboard_time": 1751361743,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 501640,
+        "num": 501640,
+        "word": "女子腿痒了2个月查出肝癌",
+        "onboard_time": 1751356281,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 435784,
+        "num": 435784,
+        "word": "虐猫考生被取消招聘资格",
+        "onboard_time": 1751349923,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 355780,
+        "num": 355780,
+        "word": "孙恩盛 粉丝群圈钱",
+        "onboard_time": 1751364681,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 290798,
+        "num": 290798,
+        "word": "日本19岁女子全裸身亡男友逃逸被捕",
+        "onboard_time": 1751356581,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 263145,
+        "num": 263145,
+        "word": "丁程鑫张真源晒毕业拍立得",
+        "onboard_time": 1751362164,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 624469,
+        "num": 262754,
+        "word": "首创集团原董事长李爱庆一审死缓",
+        "onboard_time": 1751355141,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260884,
+        "num": 260884,
+        "word": "美国瑞幸价格",
+        "onboard_time": 1751364201,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 257269,
+        "num": 257269,
+        "word": "林心如排队为女儿买labubu",
+        "onboard_time": 1751359582,
+        "rank": 22,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 253912,
+        "num": 253912,
+        "word": "37岁男子糖尿病7年不重视致截肢失明",
+        "onboard_time": 1751363301,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242660,
+        "num": 242660,
+        "word": "Oasis",
+        "onboard_time": 1751364561,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164939,
+        "num": 240115,
+        "word": "中国霸总短剧爆火美国市场",
+        "onboard_time": 1751361681,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 142066,
+        "num": 236161,
+        "word": "起猛了看见刘宇宁古装戏里抽烟",
+        "onboard_time": 1751364265,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141617,
+        "num": 232694,
+        "word": "锦绣芳华云合",
+        "onboard_time": 1751359522,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139325,
+        "num": 228520,
+        "word": "宋佳面相变化",
+        "onboard_time": 1751351301,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122770,
+        "num": 225753,
+        "word": "BABYMONSTER主打曲上线",
+        "onboard_time": 1751363361,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 223741,
+        "num": 223741,
+        "word": "被同事家的荔枝树震惊到了",
+        "onboard_time": 1751353402,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 207245,
+        "num": 207245,
+        "word": "小S二女儿画作卖超百万",
+        "onboard_time": 1751363601,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197269,
+        "num": 197269,
+        "word": "公积金",
+        "onboard_time": 1751333600,
+        "rank": 32,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 177423,
+        "num": 177423,
+        "word": "一直玩手机是很恐怖的一件事",
+        "onboard_time": 1751362944,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 176833,
+        "num": 176833,
+        "word": "北京大雨",
+        "onboard_time": 1751364741,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143446,
+        "num": 143446,
+        "word": "串串房",
+        "onboard_time": 1751353582,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136735,
+        "num": 136735,
+        "word": "5岁女孩坠海父亲托举其近20分钟",
+        "onboard_time": 1751358563,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136515,
+        "num": 136515,
+        "word": "锦绣芳华",
+        "onboard_time": 1751365702,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134887,
+        "num": 134887,
+        "word": "AL发布Kael采访声明",
+        "onboard_time": 1751365042,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128967,
+        "num": 133330,
+        "word": "原来淘宝单号后6位永久固定",
+        "onboard_time": 1751362343,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 131986,
+        "num": 131986,
+        "word": "韦东奕晋升北大长聘副教授",
+        "onboard_time": 1751351842,
+        "rank": 40,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 130573,
+        "num": 130573,
+        "word": "恒大财富官微喊话许家印",
+        "onboard_time": 1751363962,
+        "rank": 41,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 121882,
+        "num": 121882,
+        "word": "越南户籍法",
+        "onboard_time": 1751363482,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 120118,
+        "num": 120118,
+        "word": "泰国总理停职",
+        "onboard_time": 1751351962,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 118803,
+        "num": 118803,
+        "word": "李天泽近照",
+        "onboard_time": 1751360003,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114446,
+        "num": 114446,
+        "word": "突然发现85花好多和同事结婚的",
+        "onboard_time": 1751357422,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113977,
+        "num": 113977,
+        "word": "鞠婧祎抡大锤",
+        "onboard_time": 1751365523,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112079,
+        "num": 112079,
+        "word": "liam发言",
+        "onboard_time": 1751365401,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110920,
+        "num": 110920,
+        "word": "广东中考数学",
+        "onboard_time": 1751363002,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 109283,
+        "num": 109283,
+        "word": "26岁女生三年半存下21万",
+        "onboard_time": 1751360062,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}

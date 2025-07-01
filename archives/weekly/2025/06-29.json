@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751363082952,
+  "endTime": 1751365785113,
   "band_list": [
     {
       "raw_hot": 3569605,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 2108929,
-      "num": 509509,
+      "num": 539081,
       "word": "这是杨幂还是小糯米",
       "onboard_time": 1751351602,
       "rank": 12,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 1652375,
-      "num": 309322,
+      "num": 534036,
       "word": "孙恩盛 无证驾驶",
       "onboard_time": 1751360303,
       "rank": 10,
@@ -227,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1373403,
+      "num": 1373403,
+      "word": "印度人嘲讽中国火车",
+      "onboard_time": 1751359882,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1358959,
       "num": 1358959,
       "word": "微信可以不接收共同好友点赞提醒了",
@@ -315,20 +323,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1178158,
-      "num": 1178158,
-      "word": "印度人嘲讽中国火车",
-      "onboard_time": 1751359882,
-      "rank": 1,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 1155087,
       "num": 1155087,
       "word": "人人视频崩了",
       "onboard_time": 1751285722,
       "rank": 1,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1145557,
+      "num": 1145557,
+      "word": "云南25岁刮腻子女网红去世",
+      "onboard_time": 1751363421,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1140350,
@@ -372,7 +380,7 @@
     },
     {
       "raw_hot": 1124936,
-      "num": 344863,
+      "num": 517933,
       "word": "那英说龚俊经纪人够差劲的",
       "onboard_time": 1751357840,
       "rank": 15,
@@ -523,6 +531,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 882489,
+      "num": 882489,
+      "word": "遗产几乎女儿全拿儿子可不管母亲吗",
+      "onboard_time": 1751360603,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 880345,
       "num": 880345,
       "word": "红色榴莲",
@@ -660,7 +676,7 @@
     },
     {
       "raw_hot": 777324,
-      "num": 345925,
+      "num": 501640,
       "word": "女子腿痒了2个月查出肝癌",
       "onboard_time": 1751356281,
       "rank": 13,
@@ -955,6 +971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 632759,
+      "num": 632759,
+      "word": "女儿黑救护车上死亡父母发声",
+      "onboard_time": 1751361862,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 630953,
       "num": 586456,
       "word": "TF四代舞台投票",
@@ -968,6 +992,14 @@
       "word": "金价大跌商家称不如上涨时卖得好",
       "onboard_time": 1751297963,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 624469,
+      "num": 488374,
+      "word": "首创集团原董事长李爱庆一审死缓",
+      "onboard_time": 1751355141,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -1131,14 +1163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 543299,
-      "num": 543299,
-      "word": "遗产几乎女儿全拿儿子可不管母亲吗",
-      "onboard_time": 1751360603,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 540929,
       "num": 540929,
       "word": "原银行董事长400万迈凯伦89万被拍下",
@@ -1180,7 +1204,7 @@
     },
     {
       "raw_hot": 534927,
-      "num": 534927,
+      "num": 585419,
       "word": "时代少年团大连演唱会酒店涨价88倍",
       "onboard_time": 1751358924,
       "rank": 48,
@@ -1248,6 +1272,14 @@
       "word": "禁养犬",
       "onboard_time": 1751264661,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 508807,
+      "num": 508807,
+      "word": "上海动物园道歉",
+      "onboard_time": 1751361743,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -1337,14 +1369,6 @@
       "onboard_time": 1751210123,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 488374,
-      "num": 488374,
-      "word": "首创集团原董事长李爱庆一审死缓",
-      "onboard_time": 1751355141,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 488001,
@@ -1884,11 +1908,19 @@
     },
     {
       "raw_hot": 357591,
-      "num": 357591,
+      "num": 577308,
       "word": "宋佳是杨天真带的第1个艺人",
       "onboard_time": 1751358863,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 355780,
+      "num": 355780,
+      "word": "孙恩盛 粉丝群圈钱",
+      "onboard_time": 1751364681,
+      "rank": 17,
+      "category": "网红"
     },
     {
       "raw_hot": 354451,
@@ -2619,12 +2651,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263145,
+      "num": 263145,
+      "word": "丁程鑫张真源晒毕业拍立得",
+      "onboard_time": 1751362164,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261167,
       "num": 300778,
       "word": "王俊凯任上合组织国家电影节青年大使",
       "onboard_time": 1751253741,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 260884,
+      "num": 260884,
+      "word": "美国瑞幸价格",
+      "onboard_time": 1751364201,
+      "rank": 21,
+      "category": "财经"
     },
     {
       "raw_hot": 260240,
@@ -2675,6 +2723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 257269,
+      "num": 257269,
+      "word": "林心如排队为女儿买labubu",
+      "onboard_time": 1751359582,
+      "rank": 37,
+      "category": "艺人,休闲"
+    },
+    {
       "raw_hot": 257162,
       "num": 257162,
       "word": "5岁女童泡温泉后被确诊感染食脑虫",
@@ -2715,6 +2771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 253912,
+      "num": 253912,
+      "word": "37岁男子糖尿病7年不重视致截肢失明",
+      "onboard_time": 1751363301,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 253850,
       "num": 253850,
       "word": "下半年正式开启",
@@ -2731,12 +2795,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 253142,
-      "num": 253142,
-      "word": "林心如排队为女儿买labubu",
-      "onboard_time": 1751359582,
-      "rank": 37,
-      "category": "艺人,休闲"
+      "raw_hot": 253388,
+      "num": 567785,
+      "word": "马斯克放弃殖民火星计划",
+      "onboard_time": 1751363062,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 251479,
@@ -2779,14 +2843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 249735,
-      "num": 249735,
-      "word": "丁程鑫张真源晒毕业拍立得",
-      "onboard_time": 1751362164,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 246905,
       "num": 285604,
       "word": "设立党中央决策议事协调机构",
@@ -2825,6 +2881,14 @@
       "onboard_time": 1751335339,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 242660,
+      "num": 242660,
+      "word": "Oasis",
+      "onboard_time": 1751364561,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 242623,
@@ -3203,14 +3267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 211321,
-      "num": 211321,
-      "word": "上海动物园道歉",
-      "onboard_time": 1751361743,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 210676,
       "num": 210676,
       "word": "敖瑞鹏晒与李兰迪合照",
@@ -3299,6 +3355,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 207245,
+      "num": 207245,
+      "word": "小S二女儿画作卖超百万",
+      "onboard_time": 1751363601,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206529,
       "num": 206529,
       "word": "外军多次跟踪监视我双航母训练",
@@ -3345,14 +3409,6 @@
       "onboard_time": 1751254161,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 204588,
-      "num": 204588,
-      "word": "女儿黑救护车上死亡父母发声",
-      "onboard_time": 1751361862,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 204450,
@@ -3545,6 +3601,14 @@
       "onboard_time": 1751260821,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195628,
+      "num": 551379,
+      "word": "日本航空道歉",
+      "onboard_time": 1751364623,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 195597,
@@ -4115,12 +4179,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 177423,
+      "num": 177423,
+      "word": "一直玩手机是很恐怖的一件事",
+      "onboard_time": 1751362944,
+      "rank": 41,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 176853,
       "num": 176853,
       "word": "JDG对战EDGM",
       "onboard_time": 1751189901,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 176833,
+      "num": 176833,
+      "word": "北京大雨",
+      "onboard_time": 1751364741,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176799,
@@ -4172,7 +4252,7 @@
     },
     {
       "raw_hot": 175240,
-      "num": 192646,
+      "num": 232694,
       "word": "锦绣芳华云合",
       "onboard_time": 1751359522,
       "rank": 26,
@@ -5451,6 +5531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142066,
+      "num": 236161,
+      "word": "起猛了看见刘宇宁古装戏里抽烟",
+      "onboard_time": 1751364265,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142064,
       "num": 142064,
       "word": "敖瑞鹏七月行程送至",
@@ -5811,6 +5899,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 134887,
+      "num": 134887,
+      "word": "AL发布Kael采访声明",
+      "onboard_time": 1751365042,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 134883,
       "num": 134883,
       "word": "女生每个月必有的四个阶段",
@@ -6097,6 +6193,14 @@
       "onboard_time": 1751341761,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 130573,
+      "num": 130573,
+      "word": "恒大财富官微喊话许家印",
+      "onboard_time": 1751363962,
+      "rank": 41,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 130569,
@@ -6499,6 +6603,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 122770,
+      "num": 225753,
+      "word": "BABYMONSTER主打曲上线",
+      "onboard_time": 1751363361,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 122624,
       "num": 122624,
       "word": "老铺黄金股价",
@@ -6529,6 +6641,14 @@
       "onboard_time": 1751261901,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 121882,
+      "num": 121882,
+      "word": "越南户籍法",
+      "onboard_time": 1751363482,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 121670,
@@ -6569,14 +6689,6 @@
       "onboard_time": 1751164880,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 121343,
-      "num": 121343,
-      "word": "一直玩手机是很恐怖的一件事",
-      "onboard_time": 1751362944,
-      "rank": 41,
-      "category": "科学科普"
     },
     {
       "raw_hot": 121207,
@@ -6987,6 +7099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113977,
+      "num": 113977,
+      "word": "鞠婧祎抡大锤",
+      "onboard_time": 1751365523,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113382,
       "num": 113382,
       "word": "双航母编队再次联合演练",
@@ -7059,6 +7179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 112079,
+      "num": 112079,
+      "word": "liam发言",
+      "onboard_time": 1751365401,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111826,
       "num": 187775,
       "word": "胡彦斌回应充电宝被传没收",
@@ -7105,6 +7233,14 @@
       "onboard_time": 1751182521,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110920,
+      "num": 110920,
+      "word": "广东中考数学",
+      "onboard_time": 1751363002,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 110904,
@@ -7243,14 +7379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 108616,
-      "num": 108616,
-      "word": "广东中考数学",
-      "onboard_time": 1751363002,
-      "rank": 43,
-      "category": "教育"
-    },
-    {
       "raw_hot": 108330,
       "num": 108330,
       "word": "上海地铁",
@@ -7321,14 +7449,6 @@
       "onboard_time": 1751168481,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 106842,
-      "num": 106842,
-      "word": "马斯克放弃殖民火星计划",
-      "onboard_time": 1751363062,
-      "rank": 46,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 106734,
@@ -9340,7 +9460,7 @@
     },
     {
       "raw_hot": 26515,
-      "num": 963938,
+      "num": 999417,
       "word": "党的旗帜所指即是网警铁翼所向",
       "onboard_time": 1751329282,
       "rank": 2,
