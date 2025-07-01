@@ -1,0 +1,410 @@
+{
+  "runTime": 1751351948119,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2472851,
+        "num": 2472851,
+        "word": "虐猫考生被取消招聘资格",
+        "onboard_time": 1751349923,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 880462,
+        "num": 880462,
+        "word": "广州交警通报3死3伤交通事故",
+        "onboard_time": 1751350462,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9736,
+        "num": 834375,
+        "word": "党的旗帜所指即是网警铁翼所向",
+        "onboard_time": 1751329282,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 800239,
+        "num": 800239,
+        "word": "闲置太久的鞋子就不要再穿了",
+        "onboard_time": 1751345301,
+        "rank": 3,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 689909,
+        "num": 689909,
+        "word": "特斯拉反击小米YU7",
+        "onboard_time": 1751350282,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 508424,
+        "num": 508424,
+        "word": "孙俪女儿化妆还在压脚背",
+        "onboard_time": 1751346802,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 489155,
+        "num": 489155,
+        "word": "多名主播验资pk引争议",
+        "onboard_time": 1751349322,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 466714,
+        "num": 466714,
+        "word": "公积金",
+        "onboard_time": 1751333600,
+        "rank": 7,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 351630,
+        "num": 452998,
+        "word": "周杰伦曾给Angelababy写歌",
+        "onboard_time": 1751347642,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 441383,
+        "num": 441383,
+        "word": "金正恩疑似悼念在俄阵亡军人画面曝光",
+        "onboard_time": 1751345602,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 759705,
+        "num": 421346,
+        "word": "夏天杀死了labubu",
+        "onboard_time": 1751341162,
+        "rank": 10,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 723104,
+        "num": 405732,
+        "word": "51岁阿姨月薪1700元的独居生活",
+        "onboard_time": 1751347402,
+        "rank": 11,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 385376,
+        "num": 385376,
+        "word": "这是杨幂还是小糯米",
+        "onboard_time": 1751351602,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365417,
+        "num": 365417,
+        "word": "离职半年了前领导还在使唤我",
+        "onboard_time": 1751341581,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 338467,
+        "num": 338467,
+        "word": "宋佳面相变化",
+        "onboard_time": 1751351301,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332207,
+        "num": 332207,
+        "word": "黄子韬开跑车下班",
+        "onboard_time": 1751345963,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91639,
+        "num": 319993,
+        "word": "钟镇涛女儿考上北电",
+        "onboard_time": 1751351540,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144689,
+        "num": 316750,
+        "word": "王鹤棣跳九万字好会扭",
+        "onboard_time": 1751351540,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94240,
+        "num": 298197,
+        "word": "高校招聘第二名举报第一名不符合条件",
+        "onboard_time": 1751351540,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31724,
+        "num": 289076,
+        "word": "上万销量的18元充电宝自称可上飞机",
+        "onboard_time": 1751350942,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280382,
+        "num": 280382,
+        "word": "桂林回应虐猫考生事件",
+        "onboard_time": 1751350822,
+        "rank": 20,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 262564,
+        "num": 262564,
+        "word": "12306回应充电宝上高铁规定",
+        "onboard_time": 1751340740,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252591,
+        "num": 252591,
+        "word": "男子开车看手机致车辆失控3死3伤",
+        "onboard_time": 1751350642,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247405,
+        "num": 247405,
+        "word": "4个月大婴儿遭月嫂整晚暴力喂奶",
+        "onboard_time": 1751345184,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240631,
+        "num": 240631,
+        "word": "26岁女子每天熬夜致卵巢早衰绝经",
+        "onboard_time": 1751345184,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237089,
+        "num": 237089,
+        "word": "水果放冰箱不要套袋子",
+        "onboard_time": 1751340261,
+        "rank": 25,
+        "category": "科学科普,美食"
+      },
+      {
+        "raw_hot": 218442,
+        "num": 218442,
+        "word": "耳朵黄色分泌物",
+        "onboard_time": 1751339361,
+        "rank": 26,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 167024,
+        "num": 208179,
+        "word": "刘宇宁今天孤要跟离十六干大事",
+        "onboard_time": 1751351001,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151395,
+        "num": 200837,
+        "word": "素人模仿李一桐演戏",
+        "onboard_time": 1751339541,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90272,
+        "num": 199076,
+        "word": "陈思诚 没有被资本控制",
+        "onboard_time": 1751351362,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 198942,
+        "num": 198942,
+        "word": "32周孕妇吃冰箱凉菜感染险胎死腹中",
+        "onboard_time": 1751345423,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186307,
+        "num": 186307,
+        "word": "中山一路",
+        "onboard_time": 1751351422,
+        "rank": 31,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 162934,
+        "num": 162934,
+        "word": "李惠利前男友和现男友",
+        "onboard_time": 1751344284,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161880,
+        "num": 161880,
+        "word": "男子被亲弟冒充吸毒留10年案底",
+        "onboard_time": 1751348482,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214135,
+        "num": 161880,
+        "word": "陈思诚说李庚希京圈公主传闻是扯淡",
+        "onboard_time": 1751339902,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161705,
+        "num": 161705,
+        "word": "小米两地员工公寓月租金1999元",
+        "onboard_time": 1751350222,
+        "rank": 35,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 161376,
+        "num": 161376,
+        "word": "高校引进高层次人才第2名举报第1名",
+        "onboard_time": 1751350581,
+        "rank": 36,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 157248,
+        "num": 157248,
+        "word": "女子卖100g黄金称老公买的不心疼",
+        "onboard_time": 1751342723,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8129,
+        "num": 147035,
+        "word": "石子灿快来认领你的足球",
+        "onboard_time": 1751351780,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58571,
+        "num": 143830,
+        "word": "新网球王子完结",
+        "onboard_time": 1751351901,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 141083,
+        "num": 141083,
+        "word": "藿香正气水泡脚",
+        "onboard_time": 1751347281,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 136587,
+        "num": 136587,
+        "word": "国产C909身披五星红旗飞出国门",
+        "onboard_time": 1751344342,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 132440,
+        "num": 132440,
+        "word": "韦东奕晋升北大长聘副教授",
+        "onboard_time": 1751351842,
+        "rank": 42,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 126913,
+        "num": 126913,
+        "word": "刘丁硕说王楚钦没弱点",
+        "onboard_time": 1751350161,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52928,
+        "num": 125407,
+        "word": "家里没人教 出门被猿辅导教育了",
+        "onboard_time": 1751350701,
+        "rank": 44,
+        "category": "幽默,互联网"
+      },
+      {
+        "raw_hot": 124285,
+        "num": 124285,
+        "word": "冬去春来开机",
+        "onboard_time": 1751347041,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124381,
+        "num": 122281,
+        "word": "李惠利与伴舞交往超一年",
+        "onboard_time": 1751339601,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217616,
+        "num": 122189,
+        "word": "河南极端强降雨致8人失联",
+        "onboard_time": 1751349082,
+        "rank": 47,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 119639,
+        "num": 119639,
+        "word": "李一桐回复素人",
+        "onboard_time": 1751346863,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119061,
+        "num": 119061,
+        "word": "孟子义 巧克力你让我很没有面子",
+        "onboard_time": 1751351181,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}

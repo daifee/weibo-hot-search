@@ -1,7 +1,15 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751348792494,
+  "endTime": 1751351948119,
   "band_list": [
+    {
+      "raw_hot": 2472851,
+      "num": 2472851,
+      "word": "虐猫考生被取消招聘资格",
+      "onboard_time": 1751349923,
+      "rank": 0,
+      "category": "舆论监督"
+    },
     {
       "raw_hot": 1867072,
       "num": 1867072,
@@ -51,6 +59,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 880462,
+      "num": 880462,
+      "word": "广州交警通报3死3伤交通事故",
+      "onboard_time": 1751350462,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 873271,
       "num": 873271,
       "word": "吃完山竹记得要漱口",
@@ -91,12 +107,28 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 800239,
+      "num": 800239,
+      "word": "闲置太久的鞋子就不要再穿了",
+      "onboard_time": 1751345301,
+      "rank": 31,
+      "category": "幽默,休闲"
+    },
+    {
       "raw_hot": 763520,
       "num": 763520,
       "word": "12306回应充电宝上高铁规定",
       "onboard_time": 1751340740,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 723104,
+      "num": 405732,
+      "word": "51岁阿姨月薪1700元的独居生活",
+      "onboard_time": 1751347402,
+      "rank": 45,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 720147,
@@ -113,6 +145,14 @@
       "onboard_time": 1751293404,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 689909,
+      "num": 689909,
+      "word": "特斯拉反击小米YU7",
+      "onboard_time": 1751350282,
+      "rank": 4,
+      "category": "汽车"
     },
     {
       "raw_hot": 682130,
@@ -171,14 +211,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 608765,
-      "num": 608765,
-      "word": "闲置太久的鞋子就不要再穿了",
-      "onboard_time": 1751345301,
-      "rank": 31,
-      "category": "幽默,休闲"
-    },
-    {
       "raw_hot": 586999,
       "num": 446945,
       "word": "黄子韬开跑车下班",
@@ -211,12 +243,28 @@
       "category": "舆论监督,科学科普"
     },
     {
+      "raw_hot": 508424,
+      "num": 508424,
+      "word": "孙俪女儿化妆还在压脚背",
+      "onboard_time": 1751346802,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 508410,
       "num": 304650,
       "word": "恋丑癖越来越多的原因好像找到了",
       "onboard_time": 1751295622,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 489155,
+      "num": 489155,
+      "word": "多名主播验资pk引争议",
+      "onboard_time": 1751349322,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 481210,
@@ -299,6 +347,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 385376,
+      "num": 385376,
+      "word": "这是杨幂还是小糯米",
+      "onboard_time": 1751351602,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 376369,
       "num": 280851,
       "word": "男子带12岁女孩开房受害者不止1人",
@@ -339,11 +395,27 @@
       "category": "网红"
     },
     {
+      "raw_hot": 351630,
+      "num": 452998,
+      "word": "周杰伦曾给Angelababy写歌",
+      "onboard_time": 1751347642,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 346810,
       "num": 310105,
       "word": "李惠利前男友和现男友",
       "onboard_time": 1751344284,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 338467,
+      "num": 338467,
+      "word": "宋佳面相变化",
+      "onboard_time": 1751351301,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -427,6 +499,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 280382,
+      "num": 280382,
+      "word": "桂林回应虐猫考生事件",
+      "onboard_time": 1751350822,
+      "rank": 20,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 269528,
       "num": 458931,
       "word": "李人骏以为是饭局结果被做局",
@@ -447,6 +527,14 @@
       "num": 253850,
       "word": "下半年正式开启",
       "onboard_time": 1751341279,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 252591,
+      "num": 252591,
+      "word": "男子开车看手机致车辆失控3死3伤",
+      "onboard_time": 1751350642,
       "rank": 22,
       "category": "民生新闻"
     },
@@ -521,6 +609,14 @@
       "onboard_time": 1751342482,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 217616,
+      "num": 122189,
+      "word": "河南极端强降雨致8人失联",
+      "onboard_time": 1751349082,
+      "rank": 47,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 215219,
@@ -611,22 +707,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196059,
-      "num": 196059,
-      "word": "51岁阿姨月薪1700元的独居生活",
-      "onboard_time": 1751347402,
-      "rank": 45,
-      "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 194479,
-      "num": 194479,
-      "word": "周杰伦曾给Angelababy写歌",
-      "onboard_time": 1751347642,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 194476,
       "num": 273701,
       "word": "张艺兴13岁就认识林俊杰了",
@@ -649,6 +729,14 @@
       "onboard_time": 1751347041,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186307,
+      "num": 186307,
+      "word": "中山一路",
+      "onboard_time": 1751351422,
+      "rank": 31,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 181125,
@@ -723,6 +811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167024,
+      "num": 208179,
+      "word": "刘宇宁今天孤要跟离十六干大事",
+      "onboard_time": 1751351001,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162372,
       "num": 202699,
       "word": "鞠婧祎工作室 会剪",
@@ -739,12 +835,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 161880,
+      "num": 161880,
+      "word": "男子被亲弟冒充吸毒留10年案底",
+      "onboard_time": 1751348482,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161842,
       "num": 161842,
       "word": "天问二号59万公里外旅行照片",
       "onboard_time": 1751331320,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 161705,
+      "num": 161705,
+      "word": "小米两地员工公寓月租金1999元",
+      "onboard_time": 1751350222,
+      "rank": 35,
+      "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 161376,
+      "num": 161376,
+      "word": "高校引进高层次人才第2名举报第1名",
+      "onboard_time": 1751350581,
+      "rank": 36,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 156810,
@@ -827,6 +947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144689,
+      "num": 316750,
+      "word": "王鹤棣跳九万字好会扭",
+      "onboard_time": 1751351540,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142954,
       "num": 213585,
       "word": "杨紫魏哲鸣对手戏好带感",
@@ -907,6 +1035,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 132440,
+      "num": 132440,
+      "word": "韦东奕晋升北大长聘副教授",
+      "onboard_time": 1751351842,
+      "rank": 42,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 132083,
       "num": 132083,
       "word": "朋友圈令人非常不爽的现象",
@@ -961,6 +1097,14 @@
       "onboard_time": 1751282242,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 126913,
+      "num": 126913,
+      "word": "刘丁硕说王楚钦没弱点",
+      "onboard_time": 1751350161,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 126120,
@@ -1027,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119061,
+      "num": 119061,
+      "word": "孟子义 巧克力你让我很没有面子",
+      "onboard_time": 1751351181,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119029,
       "num": 119029,
       "word": "难怪大学那时候找不到对象呢",
@@ -1049,14 +1201,6 @@
       "onboard_time": 1751343143,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 117402,
-      "num": 117402,
-      "word": "男子被亲弟冒充吸毒留10年案底",
-      "onboard_time": 1751348482,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 117246,
@@ -1219,6 +1363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 94240,
+      "num": 298197,
+      "word": "高校招聘第二名举报第一名不符合条件",
+      "onboard_time": 1751351540,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93593,
       "num": 110196,
       "word": "张雅钦说杨紫吃火锅都在对台词",
@@ -1235,6 +1387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91639,
+      "num": 319993,
+      "word": "钟镇涛女儿考上北电",
+      "onboard_time": 1751351540,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 90855,
       "num": 90855,
       "word": "特朗普承认美国对中国做过很多事",
@@ -1249,6 +1409,14 @@
       "onboard_time": 1751291663,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90272,
+      "num": 199076,
+      "word": "陈思诚 没有被资本控制",
+      "onboard_time": 1751351362,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 88860,
@@ -1515,6 +1683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 58571,
+      "num": 143830,
+      "word": "新网球王子完结",
+      "onboard_time": 1751351901,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 57804,
       "num": 57804,
       "word": "多地解禁中华田园犬",
@@ -1545,6 +1721,14 @@
       "onboard_time": 1751337140,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52928,
+      "num": 125407,
+      "word": "家里没人教 出门被猿辅导教育了",
+      "onboard_time": 1751350701,
+      "rank": 44,
+      "category": "幽默,互联网"
     },
     {
       "raw_hot": 52321,
@@ -1656,6 +1840,14 @@
       "word": "2025上半年纪念短片",
       "onboard_time": 1751305037,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31724,
+      "num": 289076,
+      "word": "上万销量的18元充电宝自称可上飞机",
+      "onboard_time": 1751350942,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1889,6 +2081,14 @@
       "onboard_time": 1751312173,
       "rank": 49,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 8129,
+      "num": 147035,
+      "word": "石子灿快来认领你的足球",
+      "onboard_time": 1751351780,
+      "rank": 38,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

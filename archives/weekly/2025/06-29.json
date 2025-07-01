@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751348792494,
+  "endTime": 1751351948119,
   "band_list": [
     {
       "raw_hot": 3569605,
@@ -25,6 +25,14 @@
       "onboard_time": 1751276424,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2472851,
+      "num": 2472851,
+      "word": "虐猫考生被取消招聘资格",
+      "onboard_time": 1751349923,
+      "rank": 0,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 2461024,
@@ -451,6 +459,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 880462,
+      "num": 880462,
+      "word": "广州交警通报3死3伤交通事故",
+      "onboard_time": 1751350462,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 880345,
       "num": 880345,
       "word": "红色榴莲",
@@ -521,6 +537,14 @@
       "onboard_time": 1751336540,
       "rank": 6,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 800239,
+      "num": 800239,
+      "word": "闲置太久的鞋子就不要再穿了",
+      "onboard_time": 1751345301,
+      "rank": 31,
+      "category": "幽默,休闲"
     },
     {
       "raw_hot": 793383,
@@ -667,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 723104,
+      "num": 405732,
+      "word": "51岁阿姨月薪1700元的独居生活",
+      "onboard_time": 1751347402,
+      "rank": 45,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 715642,
       "num": 715642,
       "word": "马龙去看林俊杰演唱会了",
@@ -729,6 +761,14 @@
       "onboard_time": 1751175202,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 689909,
+      "num": 689909,
+      "word": "特斯拉反击小米YU7",
+      "onboard_time": 1751350282,
+      "rank": 4,
+      "category": "汽车"
     },
     {
       "raw_hot": 688768,
@@ -873,14 +913,6 @@
       "onboard_time": 1751200941,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 608765,
-      "num": 608765,
-      "word": "闲置太久的鞋子就不要再穿了",
-      "onboard_time": 1751345301,
-      "rank": 31,
-      "category": "幽默,休闲"
     },
     {
       "raw_hot": 604176,
@@ -1091,6 +1123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 508424,
+      "num": 508424,
+      "word": "孙俪女儿化妆还在压脚背",
+      "onboard_time": 1751346802,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 508410,
       "num": 304650,
       "word": "恋丑癖越来越多的原因好像找到了",
@@ -1161,6 +1201,14 @@
       "onboard_time": 1751210123,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 489155,
+      "num": 489155,
+      "word": "多名主播验资pk引争议",
+      "onboard_time": 1751349322,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 488001,
@@ -1571,6 +1619,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 385376,
+      "num": 385376,
+      "word": "这是杨幂还是小糯米",
+      "onboard_time": 1751351602,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 380365,
       "num": 380365,
       "word": "黄子韬画的饼做到了",
@@ -1707,6 +1763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 351630,
+      "num": 452998,
+      "word": "周杰伦曾给Angelababy写歌",
+      "onboard_time": 1751347642,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 350069,
       "num": 350069,
       "word": "台湾自古属于中国的铁证",
@@ -1753,6 +1817,14 @@
       "onboard_time": 1751177843,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 338467,
+      "num": 338467,
+      "word": "宋佳面相变化",
+      "onboard_time": 1751351301,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 337927,
@@ -2211,6 +2283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 280382,
+      "num": 280382,
+      "word": "桂林回应虐猫考生事件",
+      "onboard_time": 1751350822,
+      "rank": 20,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 279181,
       "num": 342575,
       "word": "李现演爽了我也看爽了",
@@ -2439,6 +2519,14 @@
       "num": 253841,
       "word": "官方回应朱雀玄武敕令改名被拒",
       "onboard_time": 1751189600,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 252591,
+      "num": 252591,
+      "word": "男子开车看手机致车辆失控3死3伤",
+      "onboard_time": 1751350642,
       "rank": 22,
       "category": "民生新闻"
     },
@@ -2769,6 +2857,14 @@
       "onboard_time": 1751267663,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217616,
+      "num": 122189,
+      "word": "河南极端强降雨致8人失联",
+      "onboard_time": 1751349082,
+      "rank": 47,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 216654,
@@ -3195,14 +3291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 196059,
-      "num": 196059,
-      "word": "51岁阿姨月薪1700元的独居生活",
-      "onboard_time": 1751347402,
-      "rank": 45,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 195597,
       "num": 195597,
       "word": "刘亦菲松弛感",
@@ -3289,14 +3377,6 @@
       "onboard_time": 1751275823,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 194479,
-      "num": 194479,
-      "word": "周杰伦曾给Angelababy写歌",
-      "onboard_time": 1751347642,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 194476,
@@ -3521,6 +3601,14 @@
       "onboard_time": 1751267422,
       "rank": 35,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 186307,
+      "num": 186307,
+      "word": "中山一路",
+      "onboard_time": 1751351422,
+      "rank": 31,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 185592,
@@ -4043,6 +4131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167024,
+      "num": 208179,
+      "word": "刘宇宁今天孤要跟离十六干大事",
+      "onboard_time": 1751351001,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166174,
       "num": 166174,
       "word": "金曲奖",
@@ -4211,6 +4307,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 161880,
+      "num": 161880,
+      "word": "男子被亲弟冒充吸毒留10年案底",
+      "onboard_time": 1751348482,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161842,
       "num": 161842,
       "word": "天问二号59万公里外旅行照片",
@@ -4219,12 +4323,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 161705,
+      "num": 161705,
+      "word": "小米两地员工公寓月租金1999元",
+      "onboard_time": 1751350222,
+      "rank": 35,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 161583,
       "num": 178911,
       "word": "敖瑞鹏朝雪录上班路透",
       "onboard_time": 1751278462,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161376,
+      "num": 161376,
+      "word": "高校引进高层次人才第2名举报第1名",
+      "onboard_time": 1751350581,
+      "rank": 36,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 161306,
@@ -4923,6 +5043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144689,
+      "num": 316750,
+      "word": "王鹤棣跳九万字好会扭",
+      "onboard_time": 1751351540,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143836,
       "num": 301497,
       "word": "王佑硕人生镜头",
@@ -5419,6 +5547,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 132440,
+      "num": 132440,
+      "word": "韦东奕晋升北大长聘副教授",
+      "onboard_time": 1751351842,
+      "rank": 42,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 132371,
       "num": 132371,
       "word": "陈梦有多自律",
@@ -5745,6 +5881,14 @@
       "onboard_time": 1751173403,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126913,
+      "num": 126913,
+      "word": "刘丁硕说王楚钦没弱点",
+      "onboard_time": 1751350161,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 126646,
@@ -6083,6 +6227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119061,
+      "num": 119061,
+      "word": "孟子义 巧克力你让我很没有面子",
+      "onboard_time": 1751351181,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119032,
       "num": 119032,
       "word": "王铮亮年轻时候也太会谈了",
@@ -6169,14 +6321,6 @@
       "onboard_time": 1751272402,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 117402,
-      "num": 117402,
-      "word": "男子被亲弟冒充吸毒留10年案底",
-      "onboard_time": 1751348482,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 117258,
@@ -7019,6 +7163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94240,
+      "num": 298197,
+      "word": "高校招聘第二名举报第一名不符合条件",
+      "onboard_time": 1751351540,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94195,
       "num": 94195,
       "word": "鬼灭之刃正式预告",
@@ -7051,6 +7203,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 91639,
+      "num": 319993,
+      "word": "钟镇涛女儿考上北电",
+      "onboard_time": 1751351540,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 91407,
       "num": 104107,
       "word": "黄誉博亲自辟谣和黄子韬解约",
@@ -7065,6 +7225,14 @@
       "onboard_time": 1751290283,
       "rank": 10,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 90272,
+      "num": 199076,
+      "word": "陈思诚 没有被资本控制",
+      "onboard_time": 1751351362,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 89752,
@@ -7731,6 +7899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 58571,
+      "num": 143830,
+      "word": "新网球王子完结",
+      "onboard_time": 1751351901,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 57669,
       "num": 129614,
       "word": "C罗称沙特联是世界前五联赛",
@@ -7857,6 +8033,14 @@
       "onboard_time": 1751337140,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52928,
+      "num": 125407,
+      "word": "家里没人教 出门被猿辅导教育了",
+      "onboard_time": 1751350701,
+      "rank": 44,
+      "category": "幽默,互联网"
     },
     {
       "raw_hot": 52596,
@@ -8313,6 +8497,14 @@
       "onboard_time": 1751269280,
       "rank": 31,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 31724,
+      "num": 289076,
+      "word": "上万销量的18元充电宝自称可上飞机",
+      "onboard_time": 1751350942,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31385,
@@ -9120,6 +9312,14 @@
       "word": "新华社记者探访贵州榕江洪峰过境后受灾安置点",
       "onboard_time": 1751231653,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8129,
+      "num": 147035,
+      "word": "石子灿快来认领你的足球",
+      "onboard_time": 1751351780,
+      "rank": 38,
       "category": "民生新闻"
     }
   ],
