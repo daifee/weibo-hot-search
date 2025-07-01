@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751352792067,
+  "endTime": 1751354891212,
   "band_list": [
     {
       "raw_hot": 3569605,
@@ -49,6 +49,14 @@
       "onboard_time": 1751195961,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 2108929,
+      "num": 489203,
+      "word": "这是杨幂还是小糯米",
+      "onboard_time": 1751351602,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 2100791,
@@ -153,14 +161,6 @@
       "onboard_time": 1751267422,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1515383,
-      "num": 458272,
-      "word": "这是杨幂还是小糯米",
-      "onboard_time": 1751351602,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 1477036,
@@ -435,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 941558,
+      "num": 941558,
+      "word": "泰国总理停职",
+      "onboard_time": 1751351962,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 936908,
       "num": 936908,
       "word": "李嘉格妈妈是上嫁的牺牲者",
@@ -507,6 +515,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 852456,
+      "num": 852456,
+      "word": "多名主播验资pk引争议",
+      "onboard_time": 1751349322,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 839857,
       "num": 1134377,
       "word": "金正恩疑似悼念在俄阵亡军人画面曝光",
@@ -553,6 +569,14 @@
       "onboard_time": 1751345301,
       "rank": 31,
       "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 797343,
+      "num": 797343,
+      "word": "韦东奕晋升北大长聘副教授",
+      "onboard_time": 1751351842,
+      "rank": 42,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 793383,
@@ -713,14 +737,6 @@
       "onboard_time": 1751192600,
       "rank": 17,
       "category": "体育,演出"
-    },
-    {
-      "raw_hot": 715587,
-      "num": 715587,
-      "word": "泰国总理停职",
-      "onboard_time": 1751351962,
-      "rank": 3,
-      "category": "国际时政"
     },
     {
       "raw_hot": 712760,
@@ -923,14 +939,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 613792,
-      "num": 613792,
-      "word": "多名主播验资pk引争议",
-      "onboard_time": 1751349322,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 612062,
       "num": 488024,
       "word": "吴沛官宣怀孕",
@@ -1000,6 +1008,14 @@
       "word": "李昀锐助理看起来命很苦",
       "onboard_time": 1751180359,
       "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 571240,
+      "num": 571240,
+      "word": "宋佳面相变化",
+      "onboard_time": 1751351301,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -1099,14 +1115,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 530806,
-      "num": 530806,
-      "word": "宋佳面相变化",
-      "onboard_time": 1751351301,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 529187,
       "num": 529187,
       "word": "验资",
@@ -1201,6 +1209,14 @@
       "onboard_time": 1751195841,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 499108,
+      "num": 499108,
+      "word": "桂林回应虐猫考生事件",
+      "onboard_time": 1751350822,
+      "rank": 20,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 498328,
@@ -1323,20 +1339,20 @@
       "category": "幽默,运动健身"
     },
     {
+      "raw_hot": 469384,
+      "num": 469384,
+      "word": "被同事家的荔枝树震惊到了",
+      "onboard_time": 1751353402,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 468499,
       "num": 468499,
       "word": "双休和单休真的是两种人生",
       "onboard_time": 1751259143,
       "rank": 43,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 467919,
-      "num": 467919,
-      "word": "桂林回应虐猫考生事件",
-      "onboard_time": 1751350822,
-      "rank": 20,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 453352,
@@ -1795,6 +1811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 351592,
+      "num": 351592,
+      "word": "微信可以不接收共同好友点赞提醒了",
+      "onboard_time": 1751353402,
+      "rank": 12,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 350069,
       "num": 350069,
       "word": "台湾自古属于中国的铁证",
@@ -1905,6 +1929,14 @@
       "onboard_time": 1751122945,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 333760,
+      "num": 351476,
+      "word": "秦岚辛芷蕾你俩过吧",
+      "onboard_time": 1751352742,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 332490,
@@ -2075,14 +2107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 304227,
-      "num": 304227,
-      "word": "韦东奕晋升北大长聘副教授",
-      "onboard_time": 1751351842,
-      "rank": 42,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 303989,
       "num": 303989,
       "word": "黄旭华院士今天安葬",
@@ -2203,6 +2227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 294612,
+      "num": 350808,
+      "word": "书卷一梦微博追剧团",
+      "onboard_time": 1751352742,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 293692,
       "num": 293692,
       "word": "女子车上发现人脸蜘蛛",
@@ -2241,6 +2273,14 @@
       "onboard_time": 1751295983,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 289168,
+      "num": 400234,
+      "word": "高校招聘第二名举报第一名不符合条件",
+      "onboard_time": 1751351540,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 289077,
@@ -2552,6 +2592,14 @@
       "word": "官方回应朱雀玄武敕令改名被拒",
       "onboard_time": 1751189600,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 253082,
+      "num": 351289,
+      "word": "男子被亲弟冒充吸毒留10年案底",
+      "onboard_time": 1751348482,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -2873,14 +2921,6 @@
       "onboard_time": 1751182282,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 217766,
-      "num": 400234,
-      "word": "高校招聘第二名举报第一名不符合条件",
-      "onboard_time": 1751351540,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 217708,
@@ -3307,6 +3347,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 197196,
+      "num": 197196,
+      "word": "卢伟冰回应小米青年公寓定价1999元",
+      "onboard_time": 1751353220,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 196969,
       "num": 196969,
       "word": "老婆只喜欢我小号怎么办",
@@ -3401,6 +3449,14 @@
       "onboard_time": 1751192841,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 194593,
+      "num": 194593,
+      "word": "串串房",
+      "onboard_time": 1751353582,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194534,
@@ -3793,6 +3849,14 @@
       "onboard_time": 1751345001,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180957,
+      "num": 196676,
+      "word": "密室大逃脱7存在逃脱失败的可能",
+      "onboard_time": 1751353822,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 180774,
@@ -4337,14 +4401,6 @@
       "onboard_time": 1751336240,
       "rank": 41,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 161880,
-      "num": 161880,
-      "word": "男子被亲弟冒充吸毒留10年案底",
-      "onboard_time": 1751348482,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 161842,
@@ -5235,6 +5291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140676,
+      "num": 195326,
+      "word": "书卷一梦直播",
+      "onboard_time": 1751343143,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140381,
       "num": 140381,
       "word": "低精力人群 炎症",
@@ -5537,6 +5601,14 @@
       "onboard_time": 1751188761,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 133700,
+      "num": 133700,
+      "word": "建议不要和美甲师太熟",
+      "onboard_time": 1751354000,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 133557,
@@ -6059,14 +6131,6 @@
       "category": "情感,民生新闻"
     },
     {
-      "raw_hot": 124710,
-      "num": 153438,
-      "word": "书卷一梦微博追剧团",
-      "onboard_time": 1751352742,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 124245,
       "num": 124245,
       "word": "第一次见把自己搓成labubu的",
@@ -6113,6 +6177,14 @@
       "onboard_time": 1751278581,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 123134,
+      "num": 123134,
+      "word": "北京月薪1万房租7000的真实生活",
+      "onboard_time": 1751354062,
+      "rank": 41,
+      "category": "幽默,休闲"
     },
     {
       "raw_hot": 123113,
@@ -6177,14 +6249,6 @@
       "onboard_time": 1751261300,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121381,
-      "num": 121381,
-      "word": "秦岚辛芷蕾你俩过吧",
-      "onboard_time": 1751352742,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 121369,
@@ -6355,14 +6419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 118801,
-      "num": 118801,
-      "word": "书卷一梦直播",
-      "onboard_time": 1751343143,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 118619,
       "num": 118619,
       "word": "Vansdaddy开口严浩翔变如脸",
@@ -6457,6 +6513,14 @@
       "onboard_time": 1751127504,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116007,
+      "num": 116007,
+      "word": "学生对赌协议",
+      "onboard_time": 1751354361,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 115924,
@@ -6651,6 +6715,14 @@
       "category": "休闲,动漫"
     },
     {
+      "raw_hot": 111286,
+      "num": 143830,
+      "word": "新网球王子完结",
+      "onboard_time": 1751351901,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 111126,
       "num": 111126,
       "word": "邓紫棋严选被质疑",
@@ -6715,12 +6787,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110049,
+      "num": 110049,
+      "word": "环保人士举报污染被山东东营警方行拘",
+      "onboard_time": 1751354782,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109989,
       "num": 109989,
       "word": "桂文",
       "onboard_time": 1751200401,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109936,
+      "num": 109936,
+      "word": "好小众的起号方法",
+      "onboard_time": 1751353642,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 109525,
@@ -7155,6 +7243,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 97848,
+      "num": 350488,
+      "word": "李惠利历任公开男友",
+      "onboard_time": 1751354481,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97644,
       "num": 329013,
       "word": "特朗普支持率跌至新低",
@@ -7465,14 +7561,6 @@
       "onboard_time": 1751208743,
       "rank": 29,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 81769,
-      "num": 143830,
-      "word": "新网球王子完结",
-      "onboard_time": 1751351901,
-      "rank": 39,
-      "category": "动漫"
     },
     {
       "raw_hot": 81673,
@@ -8019,6 +8107,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 56057,
+      "num": 126538,
+      "word": "厄敌这不会是永远的别离",
+      "onboard_time": 1751354242,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 55539,
       "num": 152657,
       "word": "MSI淘汰赛首轮没有中韩大战",
@@ -8145,6 +8241,14 @@
       "onboard_time": 1751131697,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 50101,
+      "num": 195057,
+      "word": "哈萨克斯坦公共场所禁止蒙面",
+      "onboard_time": 1751354481,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 49542,
@@ -9241,6 +9345,14 @@
       "onboard_time": 1751213601,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 14597,
+      "num": 325711,
+      "word": "家长反对报殡葬专业网友支持其女儿",
+      "onboard_time": 1751354481,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14204,
