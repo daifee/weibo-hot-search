@@ -1,0 +1,410 @@
+{
+  "runTime": 1751402616142,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 66656,
+        "num": 66656,
+        "word": "保时捷女销冠称今年有望打破纪录",
+        "onboard_time": 1751384542,
+        "rank": 0,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 59129,
+        "num": 59129,
+        "word": "质疑虐猫考生漠视生命并非追杀",
+        "onboard_time": 1751385801,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8765,
+        "num": 51204,
+        "word": "中国共产党104岁生日",
+        "onboard_time": 1751368582,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 50697,
+        "num": 50697,
+        "word": "上海交大学生疑被校外人士殴打",
+        "onboard_time": 1751382145,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44639,
+        "num": 44639,
+        "word": "台北前副市长妻子跳楼身亡",
+        "onboard_time": 1751379383,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42539,
+        "num": 42539,
+        "word": "女子高铁站扶梯逆行致多人拥堵",
+        "onboard_time": 1751385203,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33752,
+        "num": 33752,
+        "word": "成都的哥接单到北京收10600元",
+        "onboard_time": 1751383702,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32360,
+        "num": 32360,
+        "word": "利拉德",
+        "onboard_time": 1751384841,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31851,
+        "num": 31851,
+        "word": "微信可以不接收共同好友点赞提醒了",
+        "onboard_time": 1751353402,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 31301,
+        "num": 31301,
+        "word": "猫眼 偷偷放票",
+        "onboard_time": 1751381965,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 92156,
+        "num": 31026,
+        "word": "陈赫回应鹿晗暴瘦",
+        "onboard_time": 1751380342,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64793,
+        "num": 30877,
+        "word": "胡一天 退休了",
+        "onboard_time": 1751369842,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63894,
+        "num": 30558,
+        "word": "李福贵自曝19岁结婚一年后分开",
+        "onboard_time": 1751385023,
+        "rank": 12,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 43963,
+        "num": 30211,
+        "word": "孙恩盛 无证驾驶",
+        "onboard_time": 1751360303,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 40898,
+        "num": 29855,
+        "word": "小沈阳女儿专辑售卖遇冷",
+        "onboard_time": 1751377224,
+        "rank": 14,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 35711,
+        "num": 29806,
+        "word": "掏粪工5天工资8100",
+        "onboard_time": 1751379023,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32531,
+        "num": 29336,
+        "word": "男子杀害前妻12岁儿子后自杀身亡",
+        "onboard_time": 1751376685,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29263,
+        "num": 29263,
+        "word": "曾经的李钟硕回来了",
+        "onboard_time": 1751377885,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27837,
+        "num": 27837,
+        "word": "14岁邹明轩身高",
+        "onboard_time": 1751368223,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22666,
+        "num": 27344,
+        "word": "看杨紫眼神戏心里皱巴巴的",
+        "onboard_time": 1751390177,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9378,
+        "num": 27296,
+        "word": "他率500多名战士阻击7倍于己的日伪军",
+        "onboard_time": 1751401874,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 27291,
+        "num": 27291,
+        "word": "这是杨幂还是小糯米",
+        "onboard_time": 1751351602,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24571,
+        "num": 24571,
+        "word": "金饰克价涨到1000元",
+        "onboard_time": 1751388619,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 24569,
+        "num": 24569,
+        "word": "30岁女子半年多次服紧急避孕药致脑梗",
+        "onboard_time": 1751371042,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21678,
+        "num": 24528,
+        "word": "俄罗斯全面控制卢甘斯克",
+        "onboard_time": 1751385023,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19516,
+        "num": 24477,
+        "word": "王青上线了",
+        "onboard_time": 1751379803,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18132,
+        "num": 24385,
+        "word": "甘薇送孩子去美国看贾跃亭",
+        "onboard_time": 1751385982,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17464,
+        "num": 24231,
+        "word": "TVB金牌绿叶在周杰伦演唱会当保安",
+        "onboard_time": 1751383224,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17293,
+        "num": 24159,
+        "word": "迪丽热巴 连登金九",
+        "onboard_time": 1751374344,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14028,
+        "num": 24072,
+        "word": "迪丽热巴回头一看全是自己的兵",
+        "onboard_time": 1751382325,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24054,
+        "num": 24054,
+        "word": "印度一男子医院割喉女友无人干预",
+        "onboard_time": 1751378244,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 22101,
+        "num": 22101,
+        "word": "一银行原纪委书记被小三举报",
+        "onboard_time": 1751377885,
+        "rank": 31,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 20315,
+        "num": 20315,
+        "word": "星穹铁道白厄",
+        "onboard_time": 1751394315,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 20270,
+        "num": 20270,
+        "word": "郑钦文温网止步首轮",
+        "onboard_time": 1751381065,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19968,
+        "num": 19968,
+        "word": "胡一天有在工作",
+        "onboard_time": 1751383343,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19825,
+        "num": 19825,
+        "word": "郑钦文回应温网出局",
+        "onboard_time": 1751390777,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19680,
+        "num": 19680,
+        "word": "月嫂在雇主家工作时心梗无人担责",
+        "onboard_time": 1751397074,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19539,
+        "num": 19539,
+        "word": "00后女子上海衣食住行两月全白嫖",
+        "onboard_time": 1751379623,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19229,
+        "num": 19229,
+        "word": "虐猫考生遭拒录考编须过品德审查关",
+        "onboard_time": 1751383883,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18778,
+        "num": 18778,
+        "word": "被黄晓明直接塞了100欧",
+        "onboard_time": 1751369662,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18435,
+        "num": 18435,
+        "word": "女子腿痒了2个月查出肝癌",
+        "onboard_time": 1751356281,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18204,
+        "num": 18204,
+        "word": "印度网友被嘲讽",
+        "onboard_time": 1751378545,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 17219,
+        "num": 17219,
+        "word": "印度人嘲讽中国火车",
+        "onboard_time": 1751359882,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 16175,
+        "num": 16175,
+        "word": "女子抱猫睡觉半年后确诊体癣",
+        "onboard_time": 1751383944,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15987,
+        "num": 15987,
+        "word": "重庆一猫咪睡在公园被路人轮流扇风",
+        "onboard_time": 1751382204,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15201,
+        "num": 15201,
+        "word": "医生建议女性10点半前睡觉",
+        "onboard_time": 1751366001,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 14962,
+        "num": 14962,
+        "word": "关闭朋友圈半年后的真实变化",
+        "onboard_time": 1751389697,
+        "rank": 46,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 14498,
+        "num": 14498,
+        "word": "特朗普将给新移民监狱剪彩",
+        "onboard_time": 1751399173,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 11256,
+        "num": 13988,
+        "word": "肖战 力量之光",
+        "onboard_time": 1751371821,
+        "rank": 48,
+        "category": "艺人,音乐"
+      },
+      {
+        "raw_hot": 13765,
+        "num": 13765,
+        "word": "郑钦文今年大满贯战绩",
+        "onboard_time": 1751391737,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#走出具有中国特色的向海图强之路#"
+    }
+  }
+}
