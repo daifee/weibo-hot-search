@@ -1,0 +1,410 @@
+{
+  "runTime": 1751388649331,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 597526,
+        "num": 722340,
+        "word": "猫眼 偷偷放票",
+        "onboard_time": 1751381965,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 371984,
+        "num": 371984,
+        "word": "上海交大学生疑被校外人士殴打",
+        "onboard_time": 1751382145,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20651,
+        "num": 347260,
+        "word": "中国共产党104岁生日",
+        "onboard_time": 1751368582,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 323414,
+        "num": 323414,
+        "word": "虐猫考生遭拒录考编须过品德审查关",
+        "onboard_time": 1751383883,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301527,
+        "num": 301527,
+        "word": "利拉德",
+        "onboard_time": 1751384841,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261733,
+        "num": 261733,
+        "word": "成都的哥接单到北京收10600元",
+        "onboard_time": 1751383702,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204875,
+        "num": 204875,
+        "word": "微信可以不接收共同好友点赞提醒了",
+        "onboard_time": 1751353402,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 198942,
+        "num": 198942,
+        "word": "王青上线了",
+        "onboard_time": 1751379803,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179438,
+        "num": 179438,
+        "word": "台北前副市长妻子跳楼身亡",
+        "onboard_time": 1751379383,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154568,
+        "num": 154568,
+        "word": "女子高铁站扶梯逆行致多人拥堵",
+        "onboard_time": 1751385203,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 800903,
+        "num": 153409,
+        "word": "陈赫回应鹿晗暴瘦",
+        "onboard_time": 1751380342,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 580076,
+        "num": 148788,
+        "word": "保时捷女销冠称今年有望打破纪录",
+        "onboard_time": 1751384542,
+        "rank": 11,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 570059,
+        "num": 144858,
+        "word": "胡一天 退休了",
+        "onboard_time": 1751369842,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378517,
+        "num": 142720,
+        "word": "李福贵自曝19岁结婚一年后分开",
+        "onboard_time": 1751385023,
+        "rank": 13,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 265702,
+        "num": 138820,
+        "word": "掏粪工5天工资8100",
+        "onboard_time": 1751379023,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257073,
+        "num": 134807,
+        "word": "小沈阳女儿专辑售卖遇冷",
+        "onboard_time": 1751377224,
+        "rank": 15,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 217606,
+        "num": 129268,
+        "word": "曾经的李钟硕回来了",
+        "onboard_time": 1751377885,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174086,
+        "num": 124393,
+        "word": "这是杨幂还是小糯米",
+        "onboard_time": 1751351602,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123283,
+        "num": 123283,
+        "word": "女子腿痒了2个月查出肝癌",
+        "onboard_time": 1751356281,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115296,
+        "num": 115296,
+        "word": "14岁邹明轩身高",
+        "onboard_time": 1751368223,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113277,
+        "num": 113277,
+        "word": "胡一天有在工作",
+        "onboard_time": 1751383343,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106278,
+        "num": 106278,
+        "word": "郑钦文温网止步首轮",
+        "onboard_time": 1751381065,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105833,
+        "num": 105833,
+        "word": "印度一男子医院割喉女友无人干预",
+        "onboard_time": 1751378244,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 103227,
+        "num": 103227,
+        "word": "质疑虐猫考生漠视生命并非追杀",
+        "onboard_time": 1751385801,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101640,
+        "num": 101640,
+        "word": "迪丽热巴 连登金九",
+        "onboard_time": 1751374344,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100012,
+        "num": 100012,
+        "word": "迪丽热巴回头一看全是自己的兵",
+        "onboard_time": 1751382325,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88120,
+        "num": 99775,
+        "word": "王源疑似被恶剪做局",
+        "onboard_time": 1751375183,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86639,
+        "num": 99589,
+        "word": "甘薇送孩子去美国看贾跃亭",
+        "onboard_time": 1751385982,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44840,
+        "num": 99115,
+        "word": "你的样子",
+        "onboard_time": 1751388499,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101169,
+        "num": 98733,
+        "word": "金饰克价涨到1000元",
+        "onboard_time": 1751388619,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 98688,
+        "num": 98688,
+        "word": "孙恩盛 无证驾驶",
+        "onboard_time": 1751360303,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 92722,
+        "num": 92722,
+        "word": "李昊生日会",
+        "onboard_time": 1751385801,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 90708,
+        "num": 90708,
+        "word": "田曦薇迪士尼太好玩了",
+        "onboard_time": 1751379084,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87053,
+        "num": 87053,
+        "word": "男子杀害前妻12岁儿子后自杀身亡",
+        "onboard_time": 1751376685,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81918,
+        "num": 81918,
+        "word": "医生建议女性10点半前睡觉",
+        "onboard_time": 1751366001,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 79546,
+        "num": 79546,
+        "word": "俄罗斯全面控制卢甘斯克",
+        "onboard_time": 1751385023,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 70961,
+        "num": 76352,
+        "word": "00后女子上海衣食住行两月全白嫖",
+        "onboard_time": 1751379623,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75733,
+        "num": 75733,
+        "word": "七根心简",
+        "onboard_time": 1751383464,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75535,
+        "num": 75535,
+        "word": "30岁女子半年多次服紧急避孕药致脑梗",
+        "onboard_time": 1751371042,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75087,
+        "num": 75087,
+        "word": "TVB金牌绿叶在周杰伦演唱会当保安",
+        "onboard_time": 1751383224,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 70891,
+        "num": 70891,
+        "word": "首个宠物本科专业来了",
+        "onboard_time": 1751380885,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70451,
+        "num": 70451,
+        "word": "印度人嘲讽中国火车",
+        "onboard_time": 1751359882,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 69597,
+        "num": 69597,
+        "word": "重庆一猫咪睡在公园被路人轮流扇风",
+        "onboard_time": 1751382204,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67660,
+        "num": 67660,
+        "word": "杨紫演技细节",
+        "onboard_time": 1751383224,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66809,
+        "num": 66809,
+        "word": "宋雨琦晒白鹿买的T恤",
+        "onboard_time": 1751376383,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65893,
+        "num": 65893,
+        "word": "云南25岁刮腻子女网红去世",
+        "onboard_time": 1751363421,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 64679,
+        "num": 64679,
+        "word": "肖战 力量之光",
+        "onboard_time": 1751371821,
+        "rank": 46,
+        "category": "艺人,音乐"
+      },
+      {
+        "raw_hot": 58437,
+        "num": 58437,
+        "word": "一银行原纪委书记被小三举报",
+        "onboard_time": 1751377885,
+        "rank": 47,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 54075,
+        "num": 58437,
+        "word": "印度网友被嘲讽",
+        "onboard_time": 1751378545,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 53263,
+        "num": 58430,
+        "word": "刘浩存发视频告别七根心简",
+        "onboard_time": 1751388198,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#走出具有中国特色的向海图强之路#"
+    }
+  }
+}
