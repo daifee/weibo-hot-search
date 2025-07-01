@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751381018807,
+  "endTime": 1751383738613,
   "band_list": [
     {
       "raw_hot": 3569605,
@@ -145,6 +145,14 @@
       "onboard_time": 1751360303,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1643147,
+      "num": 395393,
+      "word": "陈赫回应鹿晗暴瘦",
+      "onboard_time": 1751380342,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1630265,
@@ -496,6 +504,14 @@
       "word": "时代少年团加冠礼演唱会",
       "onboard_time": 1751168361,
       "rank": 3,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 982015,
+      "num": 1157122,
+      "word": "猫眼 偷偷放票",
+      "onboard_time": 1751381965,
+      "rank": 0,
       "category": "演出"
     },
     {
@@ -939,6 +955,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 688856,
+      "num": 688856,
+      "word": "郑钦文温网止步首轮",
+      "onboard_time": 1751381065,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 688768,
       "num": 538233,
       "word": "卜凡还在做道士",
@@ -1024,14 +1048,6 @@
       "word": "王源疑似被恶剪做局",
       "onboard_time": 1751375183,
       "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 648931,
-      "num": 395393,
-      "word": "陈赫回应鹿晗暴瘦",
-      "onboard_time": 1751380342,
-      "rank": 13,
       "category": "艺人"
     },
     {
@@ -1187,6 +1203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 588163,
+      "num": 588163,
+      "word": "台北前副市长妻子跳楼身亡",
+      "onboard_time": 1751379383,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 586999,
       "num": 446945,
       "word": "黄子韬开跑车下班",
@@ -1275,14 +1299,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 544417,
-      "num": 544417,
-      "word": "台北前副市长妻子跳楼身亡",
-      "onboard_time": 1751379383,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 543477,
       "num": 543477,
       "word": "锦绣芳华开局14广",
@@ -1297,6 +1313,14 @@
       "onboard_time": 1751282602,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 538908,
+      "num": 538908,
+      "word": "王青上线了",
+      "onboard_time": 1751379803,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 538232,
@@ -1499,6 +1523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 494804,
+      "num": 494804,
+      "word": "上海交大学生疑被校外人士殴打",
+      "onboard_time": 1751382145,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 493802,
       "num": 493802,
       "word": "机场拦截充电宝疑似流入二手平台",
@@ -1617,14 +1649,6 @@
       "onboard_time": 1751259143,
       "rank": 43,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 463504,
-      "num": 463504,
-      "word": "王青上线了",
-      "onboard_time": 1751379803,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 453352,
@@ -3043,6 +3067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 254128,
+      "num": 254128,
+      "word": "田曦薇迪士尼太好玩了",
+      "onboard_time": 1751379084,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 253850,
       "num": 253850,
       "word": "下半年正式开启",
@@ -3259,6 +3291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 230940,
+      "num": 230940,
+      "word": "首个宠物本科专业来了",
+      "onboard_time": 1751380885,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 230075,
       "num": 262683,
       "word": "刘宇宁的坐姿",
@@ -3321,6 +3361,14 @@
       "onboard_time": 1751333901,
       "rank": 24,
       "category": "汽车,财经"
+    },
+    {
+      "raw_hot": 225408,
+      "num": 225408,
+      "word": "一银行原纪委书记被小三举报",
+      "onboard_time": 1751377885,
+      "rank": 39,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 225075,
@@ -3473,14 +3521,6 @@
       "onboard_time": 1751178741,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 216314,
-      "num": 216314,
-      "word": "田曦薇迪士尼太好玩了",
-      "onboard_time": 1751379084,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 216301,
@@ -3723,6 +3763,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 204985,
+      "num": 204985,
+      "word": "周杰伦济南抢票",
+      "onboard_time": 1751382624,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 204926,
       "num": 204926,
       "word": "锦绣芳华云包场",
@@ -3744,6 +3792,14 @@
       "word": "锦绣芳华今日开播",
       "onboard_time": 1751274800,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 204302,
+      "num": 204302,
+      "word": "杨紫演技细节",
+      "onboard_time": 1751383224,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -3883,6 +3939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 198925,
+      "num": 198925,
+      "word": "王欣瑜晋级次轮",
+      "onboard_time": 1751382624,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198799,
       "num": 329086,
       "word": "李佳薇揭榜",
@@ -3937,14 +4001,6 @@
       "onboard_time": 1751195000,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 197441,
-      "num": 197441,
-      "word": "一银行原纪委书记被小三举报",
-      "onboard_time": 1751377885,
-      "rank": 39,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 197196,
@@ -4611,6 +4667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 177454,
+      "num": 177454,
+      "word": "迪丽热巴回头一看全是自己的兵",
+      "onboard_time": 1751382325,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177448,
       "num": 312642,
       "word": "时代少年团 团体工作室",
@@ -4875,6 +4939,14 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 171093,
+      "num": 171093,
+      "word": "印度网友被嘲讽",
+      "onboard_time": 1751378545,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 170901,
       "num": 170901,
       "word": "朱雀堂定档",
@@ -5105,14 +5177,6 @@
       "onboard_time": 1751266222,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 163441,
-      "num": 163441,
-      "word": "印度网友被嘲讽",
-      "onboard_time": 1751378545,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 163190,
@@ -5401,6 +5465,14 @@
       "onboard_time": 1751186842,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 156460,
+      "num": 156460,
+      "word": "重庆一猫咪睡在公园被路人轮流扇风",
+      "onboard_time": 1751382204,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156409,
@@ -6236,7 +6308,7 @@
     },
     {
       "raw_hot": 139910,
-      "num": 563568,
+      "num": 635905,
       "word": "中国共产党104岁生日",
       "onboard_time": 1751368582,
       "rank": 7,
@@ -6393,6 +6465,14 @@
       "onboard_time": 1751255421,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136477,
+      "num": 136477,
+      "word": "TVB金牌绿叶在周杰伦演唱会当保安",
+      "onboard_time": 1751383224,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 136327,
@@ -6811,6 +6891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130959,
+      "num": 130959,
+      "word": "Red新浪扫楼",
+      "onboard_time": 1751381844,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130658,
       "num": 130658,
       "word": "三个外地人不如一个本地人",
@@ -7011,6 +7099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128105,
+      "num": 128105,
+      "word": "七根心简",
+      "onboard_time": 1751383464,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128081,
       "num": 128081,
       "word": "林高远林俊杰那些你很冒险的梦",
@@ -7179,6 +7275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124991,
+      "num": 124991,
+      "word": "歌手后续赛制",
+      "onboard_time": 1751382084,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124852,
       "num": 124852,
       "word": "再见了2025上半年",
@@ -7193,6 +7297,14 @@
       "onboard_time": 1751275222,
       "rank": 42,
       "category": "休闲,动漫"
+    },
+    {
+      "raw_hot": 124095,
+      "num": 124095,
+      "word": "胡一天有在工作",
+      "onboard_time": 1751383343,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 124035,
@@ -7761,6 +7873,14 @@
       "onboard_time": 1751179521,
       "rank": 44,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 114244,
+      "num": 114244,
+      "word": "成都的哥接单到北京收10600元",
+      "onboard_time": 1751383702,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114199,
@@ -8713,6 +8833,14 @@
       "onboard_time": 1751239399,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86552,
+      "num": 199498,
+      "word": "狗头萝莉否认金主买6套房",
+      "onboard_time": 1751378004,
+      "rank": 25,
+      "category": "网红"
     },
     {
       "raw_hot": 86417,
@@ -9867,6 +9995,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 37109,
+      "num": 205710,
+      "word": "男子第3方网购机票贵5元获赔2600元",
+      "onboard_time": 1751383283,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36906,
       "num": 997254,
       "word": "解锁首发经济花样消费场景",
@@ -10809,6 +10945,14 @@
       "onboard_time": 1751213601,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 14414,
+      "num": 113825,
+      "word": "鸿蒙智行迎来2025大爆发",
+      "onboard_time": 1751382444,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 14204,

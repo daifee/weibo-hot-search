@@ -1,0 +1,410 @@
+{
+  "runTime": 1751383738613,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 982015,
+        "num": 1157122,
+        "word": "猫眼 偷偷放票",
+        "onboard_time": 1751381965,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 688856,
+        "num": 688856,
+        "word": "郑钦文温网止步首轮",
+        "onboard_time": 1751381065,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44950,
+        "num": 635905,
+        "word": "中国共产党104岁生日",
+        "onboard_time": 1751368582,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 595477,
+        "num": 595477,
+        "word": "微信可以不接收共同好友点赞提醒了",
+        "onboard_time": 1751353402,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 588163,
+        "num": 588163,
+        "word": "台北前副市长妻子跳楼身亡",
+        "onboard_time": 1751379383,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 538908,
+        "num": 538908,
+        "word": "王青上线了",
+        "onboard_time": 1751379803,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 494804,
+        "num": 494804,
+        "word": "上海交大学生疑被校外人士殴打",
+        "onboard_time": 1751382145,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 396698,
+        "num": 396698,
+        "word": "特朗普回应驱逐马斯克",
+        "onboard_time": 1751377103,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 318558,
+        "num": 318558,
+        "word": "迪丽热巴 连登金九",
+        "onboard_time": 1751374344,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234335,
+        "num": 318216,
+        "word": "王源疑似被恶剪做局",
+        "onboard_time": 1751375183,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1643147,
+        "num": 317583,
+        "word": "陈赫回应鹿晗暴瘦",
+        "onboard_time": 1751380342,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1227066,
+        "num": 316763,
+        "word": "胡一天 退休了",
+        "onboard_time": 1751369842,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 770291,
+        "num": 316335,
+        "word": "掏粪工5天工资8100",
+        "onboard_time": 1751379023,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 479087,
+        "num": 315192,
+        "word": "小沈阳女儿专辑售卖遇冷",
+        "onboard_time": 1751377224,
+        "rank": 13,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 392814,
+        "num": 315045,
+        "word": "曾经的李钟硕回来了",
+        "onboard_time": 1751377885,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314467,
+        "num": 314467,
+        "word": "这是杨幂还是小糯米",
+        "onboard_time": 1751351602,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256543,
+        "num": 256543,
+        "word": "女子腿痒了2个月查出肝癌",
+        "onboard_time": 1751356281,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254128,
+        "num": 254128,
+        "word": "田曦薇迪士尼太好玩了",
+        "onboard_time": 1751379084,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252781,
+        "num": 252781,
+        "word": "14岁邹明轩身高",
+        "onboard_time": 1751368223,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230940,
+        "num": 230940,
+        "word": "首个宠物本科专业来了",
+        "onboard_time": 1751380885,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225408,
+        "num": 225408,
+        "word": "一银行原纪委书记被小三举报",
+        "onboard_time": 1751377885,
+        "rank": 20,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 186536,
+        "num": 209796,
+        "word": "印度一男子医院割喉女友无人干预",
+        "onboard_time": 1751378244,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 37109,
+        "num": 205710,
+        "word": "男子第3方网购机票贵5元获赔2600元",
+        "onboard_time": 1751383283,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204985,
+        "num": 204985,
+        "word": "周杰伦济南抢票",
+        "onboard_time": 1751382624,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 204302,
+        "num": 204302,
+        "word": "杨紫演技细节",
+        "onboard_time": 1751383224,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86552,
+        "num": 199498,
+        "word": "狗头萝莉否认金主买6套房",
+        "onboard_time": 1751378004,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 198925,
+        "num": 198925,
+        "word": "王欣瑜晋级次轮",
+        "onboard_time": 1751382624,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187811,
+        "num": 187811,
+        "word": "南京地铁车厢内可以喝奶茶了",
+        "onboard_time": 1751376744,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187358,
+        "num": 187358,
+        "word": "孙恩盛 无证驾驶",
+        "onboard_time": 1751360303,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 177454,
+        "num": 177454,
+        "word": "迪丽热巴回头一看全是自己的兵",
+        "onboard_time": 1751382325,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181404,
+        "num": 176194,
+        "word": "南京地铁车厢内喝水不再罚款",
+        "onboard_time": 1751378425,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171094,
+        "num": 171094,
+        "word": "印度人嘲讽中国火车",
+        "onboard_time": 1751359882,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 171093,
+        "num": 171093,
+        "word": "印度网友被嘲讽",
+        "onboard_time": 1751378545,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 156460,
+        "num": 156460,
+        "word": "重庆一猫咪睡在公园被路人轮流扇风",
+        "onboard_time": 1751382204,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150060,
+        "num": 150060,
+        "word": "云南25岁刮腻子女网红去世",
+        "onboard_time": 1751363421,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 147488,
+        "num": 147488,
+        "word": "韩娱三线爱豆收入",
+        "onboard_time": 1751368403,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139631,
+        "num": 139631,
+        "word": "00后女子上海衣食住行两月全白嫖",
+        "onboard_time": 1751379623,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138877,
+        "num": 138877,
+        "word": "王欣瑜2比0穆霍娃",
+        "onboard_time": 1751380464,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138500,
+        "num": 138500,
+        "word": "陈冠希观战王欣瑜",
+        "onboard_time": 1751378663,
+        "rank": 38,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 136477,
+        "num": 136477,
+        "word": "TVB金牌绿叶在周杰伦演唱会当保安",
+        "onboard_time": 1751383224,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136118,
+        "num": 136118,
+        "word": "医生建议女性10点半前睡觉",
+        "onboard_time": 1751366001,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 135638,
+        "num": 135638,
+        "word": "男子杀害前妻12岁儿子后自杀身亡",
+        "onboard_time": 1751376685,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130959,
+        "num": 130959,
+        "word": "Red新浪扫楼",
+        "onboard_time": 1751381844,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132055,
+        "num": 129922,
+        "word": "30岁女子半年多次服紧急避孕药致脑梗",
+        "onboard_time": 1751371042,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128105,
+        "num": 128105,
+        "word": "七根心简",
+        "onboard_time": 1751383464,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124991,
+        "num": 124991,
+        "word": "歌手后续赛制",
+        "onboard_time": 1751382084,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124095,
+        "num": 124095,
+        "word": "胡一天有在工作",
+        "onboard_time": 1751383343,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117566,
+        "num": 117566,
+        "word": "宋雨琦晒白鹿买的T恤",
+        "onboard_time": 1751376383,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114244,
+        "num": 114244,
+        "word": "成都的哥接单到北京收10600元",
+        "onboard_time": 1751383702,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14414,
+        "num": 113825,
+        "word": "鸿蒙智行迎来2025大爆发",
+        "onboard_time": 1751382444,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#走出具有中国特色的向海图强之路#"
+    }
+  }
+}
