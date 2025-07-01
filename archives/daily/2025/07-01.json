@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751342639711,
+  "endTime": 1751343205418,
   "band_list": [
     {
       "raw_hot": 1867072,
@@ -35,6 +35,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 998662,
+      "num": 395913,
+      "word": "离职半年了前领导还在使唤我",
+      "onboard_time": 1751341581,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 873271,
       "num": 873271,
       "word": "吃完山竹记得要漱口",
@@ -67,12 +75,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 723639,
-      "num": 395913,
-      "word": "离职半年了前领导还在使唤我",
-      "onboard_time": 1751341581,
-      "rank": 10,
-      "category": "幽默"
+      "raw_hot": 727712,
+      "num": 382109,
+      "word": "夏天杀死了labubu",
+      "onboard_time": 1751341162,
+      "rank": 12,
+      "category": "幽默,休闲"
     },
     {
       "raw_hot": 720147,
@@ -129,14 +137,6 @@
       "onboard_time": 1751334201,
       "rank": 7,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 555385,
-      "num": 360262,
-      "word": "夏天杀死了labubu",
-      "onboard_time": 1751341162,
-      "rank": 12,
-      "category": "幽默,休闲"
     },
     {
       "raw_hot": 537421,
@@ -372,7 +372,7 @@
     },
     {
       "raw_hot": 233144,
-      "num": 292398,
+      "num": 446896,
       "word": "鞠婧祎这是王一栩说的百变小樱吗",
       "onboard_time": 1751340681,
       "rank": 17,
@@ -467,6 +467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 192420,
+      "num": 192420,
+      "word": "曼城3比4利雅得新月",
+      "onboard_time": 1751342903,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175707,
       "num": 175707,
       "word": "NBA",
@@ -481,6 +489,14 @@
       "onboard_time": 1751303178,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 172899,
+      "num": 172899,
+      "word": "沈星回猎夜",
+      "onboard_time": 1751343022,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 172551,
@@ -547,6 +563,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 148360,
+      "num": 148360,
+      "word": "杨紫说怕被捧杀",
+      "onboard_time": 1751342843,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145921,
       "num": 112072,
       "word": "张本智和喊爸爸递衣服中文日语混用",
@@ -569,6 +593,14 @@
       "onboard_time": 1751329282,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142885,
+      "num": 142885,
+      "word": "女子卖100g黄金称老公买的不心疼",
+      "onboard_time": 1751342723,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140818,
@@ -611,6 +643,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 136327,
+      "num": 138172,
+      "word": "曼城世俱杯出局",
+      "onboard_time": 1751342482,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 133557,
+      "num": 133557,
+      "word": "当我穿洞洞鞋去了趟海边",
+      "onboard_time": 1751342122,
+      "rank": 41,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 132083,
       "num": 132083,
       "word": "朋友圈令人非常不爽的现象",
@@ -651,6 +699,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 128965,
+      "num": 128965,
+      "word": "流浪猫流浪到猫粮厂了",
+      "onboard_time": 1751342541,
+      "rank": 49,
+      "category": "幽默,休闲"
+    },
+    {
       "raw_hot": 127236,
       "num": 127236,
       "word": "韩安冉曝小猪妹被饿一整天",
@@ -675,12 +731,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122226,
-      "num": 138172,
-      "word": "曼城世俱杯出局",
-      "onboard_time": 1751342482,
-      "rank": 38,
-      "category": "体育"
+      "raw_hot": 121137,
+      "num": 246674,
+      "word": "睡眠真的超级重要",
+      "onboard_time": 1751341521,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 120851,
@@ -689,14 +745,6 @@
       "onboard_time": 1751323696,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 120775,
-      "num": 246674,
-      "word": "睡眠真的超级重要",
-      "onboard_time": 1751341521,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 120311,
@@ -723,12 +771,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 119127,
-      "num": 119127,
-      "word": "流浪猫流浪到猫粮厂了",
-      "onboard_time": 1751342541,
-      "rank": 49,
-      "category": "幽默,休闲"
+      "raw_hot": 119029,
+      "num": 119029,
+      "word": "难怪大学那时候找不到对象呢",
+      "onboard_time": 1751342662,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 118968,
@@ -739,8 +787,16 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 117218,
-      "num": 152154,
+      "raw_hot": 118801,
+      "num": 118801,
+      "word": "书卷一梦直播",
+      "onboard_time": 1751343143,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 117246,
+      "num": 333994,
       "word": "男子手部外伤住院被要求检查前列腺",
       "onboard_time": 1751340200,
       "rank": 34,
@@ -987,6 +1043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82222,
+      "num": 194530,
+      "word": "欧阳娜娜向何小鹏咨询G7价格",
+      "onboard_time": 1751343022,
+      "rank": 27,
+      "category": "艺人,汽车"
+    },
+    {
       "raw_hot": 81056,
       "num": 81056,
       "word": "管乐 王皓",
@@ -1025,6 +1089,14 @@
       "onboard_time": 1751296584,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 74200,
+      "num": 198086,
+      "word": "阿米巴食脑虫",
+      "onboard_time": 1751341220,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 73973,
@@ -1083,6 +1155,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66393,
+      "num": 194060,
+      "word": "汪苏泷视角的罗曼城浪漫时刻",
+      "onboard_time": 1751342541,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 64167,
+      "num": 420890,
+      "word": "客机高空急降10余分钟乘客写遗书",
+      "onboard_time": 1751342482,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60932,
       "num": 60932,
       "word": "郑钦文温网首日比赛推迟至次日",
@@ -1097,14 +1185,6 @@
       "onboard_time": 1751299221,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 58363,
-      "num": 144879,
-      "word": "汪苏泷视角的罗曼城浪漫时刻",
-      "onboard_time": 1751342541,
-      "rank": 35,
-      "category": "演出"
     },
     {
       "raw_hot": 57804,
@@ -1211,19 +1291,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 34086,
+      "num": 135845,
+      "word": "祁煜歌岛的落日见证誓言",
+      "onboard_time": 1751342243,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 31983,
       "num": 35231,
       "word": "2025上半年纪念短片",
       "onboard_time": 1751305037,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29552,
-      "num": 226314,
-      "word": "客机高空急降10余分钟乘客写遗书",
-      "onboard_time": 1751342482,
-      "rank": 27,
       "category": "民生新闻"
     },
     {
