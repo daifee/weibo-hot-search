@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751365785113,
+  "endTime": 1751366842509,
   "band_list": [
     {
       "raw_hot": 2472851,
@@ -75,8 +75,8 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 1145557,
-      "num": 1145557,
+      "raw_hot": 1266922,
+      "num": 1266922,
       "word": "云南25岁刮腻子女网红去世",
       "onboard_time": 1751363421,
       "rank": 1,
@@ -123,19 +123,19 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 920582,
+      "num": 920582,
+      "word": "遗产几乎女儿全拿儿子可不管母亲吗",
+      "onboard_time": 1751360603,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 919593,
       "num": 919593,
       "word": "广州交警通报3死3伤交通事故",
       "onboard_time": 1751350462,
       "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 882489,
-      "num": 882489,
-      "word": "遗产几乎女儿全拿儿子可不管母亲吗",
-      "onboard_time": 1751360603,
-      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -153,6 +153,14 @@
       "onboard_time": 1751351842,
       "rank": 42,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 863759,
+      "num": 863759,
+      "word": "女儿黑救护车上死亡父母发声",
+      "onboard_time": 1751361862,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 852456,
@@ -307,14 +315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 632759,
-      "num": 632759,
-      "word": "女儿黑救护车上死亡父母发声",
-      "onboard_time": 1751361862,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 629771,
       "num": 629771,
       "word": "金价大跌商家称不如上涨时卖得好",
@@ -361,6 +361,14 @@
       "onboard_time": 1751351301,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 554643,
+      "num": 437327,
+      "word": "孙恩盛 粉丝群圈钱",
+      "onboard_time": 1751364681,
+      "rank": 17,
+      "category": "网红"
     },
     {
       "raw_hot": 538232,
@@ -425,6 +433,14 @@
       "onboard_time": 1751353402,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 486341,
+      "num": 551379,
+      "word": "日本航空道歉",
+      "onboard_time": 1751364623,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 481210,
@@ -507,6 +523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 380354,
+      "num": 380354,
+      "word": "Oasis",
+      "onboard_time": 1751364561,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 376369,
       "num": 280851,
       "word": "男子带12岁女孩开房受害者不止1人",
@@ -561,14 +585,6 @@
       "onboard_time": 1751358863,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 355780,
-      "num": 355780,
-      "word": "孙恩盛 粉丝群圈钱",
-      "onboard_time": 1751364681,
-      "rank": 17,
-      "category": "网红"
     },
     {
       "raw_hot": 352508,
@@ -643,6 +659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 310749,
+      "num": 310749,
+      "word": "美国瑞幸价格",
+      "onboard_time": 1751364201,
+      "rank": 21,
+      "category": "财经"
+    },
+    {
       "raw_hot": 304774,
       "num": 304774,
       "word": "中国霸总短剧爆火美国市场",
@@ -707,6 +731,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 288379,
+      "num": 567785,
+      "word": "马斯克放弃殖民火星计划",
+      "onboard_time": 1751363062,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 287141,
       "num": 287141,
       "word": "警方辟谣多名女孩被男子哄骗外出受害",
@@ -739,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 272269,
+      "num": 272269,
+      "word": "37岁男子糖尿病7年不重视致截肢失明",
+      "onboard_time": 1751363301,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 269528,
       "num": 458931,
       "word": "李人骏以为是饭局结果被做局",
@@ -753,14 +793,6 @@
       "onboard_time": 1751362164,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 260884,
-      "num": 260884,
-      "word": "美国瑞幸价格",
-      "onboard_time": 1751364201,
-      "rank": 21,
-      "category": "财经"
     },
     {
       "raw_hot": 259644,
@@ -787,28 +819,12 @@
       "category": "艺人,休闲"
     },
     {
-      "raw_hot": 253912,
-      "num": 253912,
-      "word": "37岁男子糖尿病7年不重视致截肢失明",
-      "onboard_time": 1751363301,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 253850,
       "num": 253850,
       "word": "下半年正式开启",
       "onboard_time": 1751341279,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 253388,
-      "num": 567785,
-      "word": "马斯克放弃殖民火星计划",
-      "onboard_time": 1751363062,
-      "rank": 46,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 245403,
@@ -825,14 +841,6 @@
       "onboard_time": 1751335339,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 242660,
-      "num": 242660,
-      "word": "Oasis",
-      "onboard_time": 1751364561,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 242103,
@@ -931,6 +939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 214060,
+      "num": 214060,
+      "word": "杨幂李现 最适合穿白色的两个人",
+      "onboard_time": 1751366300,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211894,
       "num": 211894,
       "word": "父亲回应带儿子游41国英语零进步",
@@ -979,6 +995,14 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 205742,
+      "num": 205742,
+      "word": "锦绣芳华",
+      "onboard_time": 1751365702,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201454,
       "num": 258950,
       "word": "国产C909身披五星红旗飞出国门",
@@ -1019,14 +1043,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 195628,
-      "num": 551379,
-      "word": "日本航空道歉",
-      "onboard_time": 1751364623,
-      "rank": 9,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 194476,
       "num": 273701,
       "word": "张艺兴13岁就认识林俊杰了",
@@ -1035,12 +1051,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 193436,
+      "num": 193436,
+      "word": "魏哲鸣演技",
+      "onboard_time": 1751366300,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193294,
       "num": 250381,
       "word": "肖战藏海上半年最热角色",
       "onboard_time": 1751358682,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193110,
+      "num": 193110,
+      "word": "一直玩手机是很恐怖的一件事",
+      "onboard_time": 1751362944,
+      "rank": 41,
+      "category": "科学科普"
     },
     {
       "raw_hot": 192420,
@@ -1097,14 +1129,6 @@
       "onboard_time": 1751343382,
       "rank": 37,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 177423,
-      "num": 177423,
-      "word": "一直玩手机是很恐怖的一件事",
-      "onboard_time": 1751362944,
-      "rank": 41,
-      "category": "科学科普"
     },
     {
       "raw_hot": 176833,
@@ -1467,14 +1491,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 136515,
-      "num": 136515,
-      "word": "锦绣芳华",
-      "onboard_time": 1751365702,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 136327,
       "num": 138172,
       "word": "曼城世俱杯出局",
@@ -1547,6 +1563,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 133347,
+      "num": 133347,
+      "word": "荔枝绿豆糯米汤",
+      "onboard_time": 1751366602,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 133075,
+      "num": 133075,
+      "word": "书卷一梦",
+      "onboard_time": 1751366001,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133059,
       "num": 133059,
       "word": "学生对赌协议",
@@ -1587,6 +1619,14 @@
       "category": "民生新闻,美食"
     },
     {
+      "raw_hot": 131670,
+      "num": 131670,
+      "word": "恒大财富官微喊话许家印",
+      "onboard_time": 1751363962,
+      "rank": 41,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 131073,
       "num": 131073,
       "word": "女儿烫伤脸母亲维权未果致流产",
@@ -1603,20 +1643,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 130573,
-      "num": 130573,
-      "word": "恒大财富官微喊话许家印",
-      "onboard_time": 1751363962,
-      "rank": 41,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 130542,
       "num": 130542,
       "word": "直升机悬挂五星红旗飞过香港上空",
       "onboard_time": 1751334321,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 129146,
+      "num": 380729,
+      "word": "当地回应25岁刮腻子女网红去世",
+      "onboard_time": 1751366001,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128965,
@@ -1763,6 +1803,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119989,
+      "num": 119989,
+      "word": "家里没老人的可以买回去照顾一个",
+      "onboard_time": 1751366722,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 119597,
+      "num": 119597,
+      "word": "男德标兵夏以昼",
+      "onboard_time": 1751366722,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 119451,
       "num": 119451,
       "word": "环保人士举报污染被山东东营警方行拘",
@@ -1795,6 +1851,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 118172,
+      "num": 118172,
+      "word": "王诗玥柳鑫宇正式回归",
+      "onboard_time": 1751366781,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117275,
       "num": 117275,
       "word": "空军官兵和幼儿园小朋友合唱炎黄",
@@ -1809,6 +1873,14 @@
       "onboard_time": 1751340200,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117214,
+      "num": 117214,
+      "word": "医生建议女性10点半前睡觉",
+      "onboard_time": 1751366001,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 116202,
@@ -1836,7 +1908,7 @@
     },
     {
       "raw_hot": 114672,
-      "num": 157834,
+      "num": 383419,
       "word": "杨紫李现戏里戏外callback",
       "onboard_time": 1751362944,
       "rank": 34,
@@ -1937,6 +2009,14 @@
       "onboard_time": 1751316854,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109504,
+      "num": 382694,
+      "word": "祝绪丹铁齿铜牙咬开瓶盖",
+      "onboard_time": 1751366242,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 109014,
@@ -2545,6 +2625,14 @@
       "onboard_time": 1751303896,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40119,
+      "num": 133163,
+      "word": "孙颖莎奥运会从开幕式打到了闭幕式",
+      "onboard_time": 1751366661,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 38684,

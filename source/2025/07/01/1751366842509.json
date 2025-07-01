@@ -1,0 +1,410 @@
+{
+  "runTime": 1751366842509,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1266922,
+        "num": 1266922,
+        "word": "云南25岁刮腻子女网红去世",
+        "onboard_time": 1751363421,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 920582,
+        "num": 920582,
+        "word": "遗产几乎女儿全拿儿子可不管母亲吗",
+        "onboard_time": 1751360603,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4525,
+        "num": 891213,
+        "word": "党的旗帜所指即是网警铁翼所向",
+        "onboard_time": 1751329282,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1165011,
+        "num": 883293,
+        "word": "印度人嘲讽中国火车",
+        "onboard_time": 1751359882,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 863759,
+        "num": 863759,
+        "word": "女儿黑救护车上死亡父母发声",
+        "onboard_time": 1751361862,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 525818,
+        "num": 525818,
+        "word": "微信可以不接收共同好友点赞提醒了",
+        "onboard_time": 1751353402,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 486341,
+        "num": 486341,
+        "word": "日本航空道歉",
+        "onboard_time": 1751364623,
+        "rank": 6,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 381912,
+        "num": 485649,
+        "word": "时代少年团大连演唱会酒店涨价88倍",
+        "onboard_time": 1751358924,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 288379,
+        "num": 474242,
+        "word": "马斯克放弃殖民火星计划",
+        "onboard_time": 1751363062,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 215749,
+        "num": 468203,
+        "word": "宋佳是杨天真带的第1个艺人",
+        "onboard_time": 1751358863,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 950201,
+        "num": 466077,
+        "word": "孙恩盛 无证驾驶",
+        "onboard_time": 1751360303,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 943501,
+        "num": 458278,
+        "word": "这是杨幂还是小糯米",
+        "onboard_time": 1751351602,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 657645,
+        "num": 449573,
+        "word": "虐猫考生上岸失败系道德品行等问题",
+        "onboard_time": 1751355742,
+        "rank": 12,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 573520,
+        "num": 445817,
+        "word": "那英说龚俊经纪人够差劲的",
+        "onboard_time": 1751357840,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 441748,
+        "num": 441748,
+        "word": "女子腿痒了2个月查出肝癌",
+        "onboard_time": 1751356281,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 554643,
+        "num": 437327,
+        "word": "孙恩盛 粉丝群圈钱",
+        "onboard_time": 1751364681,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 410474,
+        "num": 410474,
+        "word": "上海动物园道歉",
+        "onboard_time": 1751361743,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 384374,
+        "num": 384374,
+        "word": "虐猫考生被取消招聘资格",
+        "onboard_time": 1751349923,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84963,
+        "num": 383419,
+        "word": "杨紫李现戏里戏外callback",
+        "onboard_time": 1751362944,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109504,
+        "num": 382694,
+        "word": "祝绪丹铁齿铜牙咬开瓶盖",
+        "onboard_time": 1751366242,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 605969,
+        "num": 381397,
+        "word": "首创集团原董事长李爱庆一审死缓",
+        "onboard_time": 1751355141,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129146,
+        "num": 380729,
+        "word": "当地回应25岁刮腻子女网红去世",
+        "onboard_time": 1751366001,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380354,
+        "num": 380354,
+        "word": "Oasis",
+        "onboard_time": 1751364561,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310749,
+        "num": 310749,
+        "word": "美国瑞幸价格",
+        "onboard_time": 1751364201,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 272269,
+        "num": 272269,
+        "word": "37岁男子糖尿病7年不重视致截肢失明",
+        "onboard_time": 1751363301,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251512,
+        "num": 251512,
+        "word": "日本19岁女子全裸身亡男友逃逸被捕",
+        "onboard_time": 1751356581,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 214060,
+        "num": 214060,
+        "word": "杨幂李现 最适合穿白色的两个人",
+        "onboard_time": 1751366300,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205742,
+        "num": 205742,
+        "word": "锦绣芳华",
+        "onboard_time": 1751365702,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193436,
+        "num": 193436,
+        "word": "魏哲鸣演技",
+        "onboard_time": 1751366300,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118758,
+        "num": 193157,
+        "word": "中国霸总短剧爆火美国市场",
+        "onboard_time": 1751361681,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 248815,
+        "num": 193135,
+        "word": "林心如排队为女儿买labubu",
+        "onboard_time": 1751359582,
+        "rank": 30,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 214000,
+        "num": 193122,
+        "word": "丁程鑫张真源晒毕业拍立得",
+        "onboard_time": 1751362164,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193110,
+        "num": 193110,
+        "word": "一直玩手机是很恐怖的一件事",
+        "onboard_time": 1751362944,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 163113,
+        "num": 163113,
+        "word": "小S二女儿画作卖超百万",
+        "onboard_time": 1751363601,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161435,
+        "num": 161435,
+        "word": "被同事家的荔枝树震惊到了",
+        "onboard_time": 1751353402,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156723,
+        "num": 156723,
+        "word": "公积金",
+        "onboard_time": 1751333600,
+        "rank": 35,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 154435,
+        "num": 154435,
+        "word": "北京大雨",
+        "onboard_time": 1751364741,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141438,
+        "num": 141438,
+        "word": "宋佳面相变化",
+        "onboard_time": 1751351301,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133347,
+        "num": 133347,
+        "word": "荔枝绿豆糯米汤",
+        "onboard_time": 1751366602,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 40119,
+        "num": 133163,
+        "word": "孙颖莎奥运会从开幕式打到了闭幕式",
+        "onboard_time": 1751366661,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133075,
+        "num": 133075,
+        "word": "书卷一梦",
+        "onboard_time": 1751366001,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131670,
+        "num": 131670,
+        "word": "恒大财富官微喊话许家印",
+        "onboard_time": 1751363962,
+        "rank": 41,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 120064,
+        "num": 120064,
+        "word": "越南户籍法",
+        "onboard_time": 1751363482,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 119989,
+        "num": 119989,
+        "word": "家里没老人的可以买回去照顾一个",
+        "onboard_time": 1751366722,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119597,
+        "num": 119597,
+        "word": "男德标兵夏以昼",
+        "onboard_time": 1751366722,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118172,
+        "num": 118172,
+        "word": "王诗玥柳鑫宇正式回归",
+        "onboard_time": 1751366781,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117214,
+        "num": 117214,
+        "word": "医生建议女性10点半前睡觉",
+        "onboard_time": 1751366001,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 116874,
+        "num": 116874,
+        "word": "起猛了看见刘宇宁古装戏里抽烟",
+        "onboard_time": 1751364265,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115640,
+        "num": 115640,
+        "word": "韦东奕晋升北大长聘副教授",
+        "onboard_time": 1751351842,
+        "rank": 48,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 115213,
+        "num": 115213,
+        "word": "锦绣芳华云合",
+        "onboard_time": 1751359522,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}
