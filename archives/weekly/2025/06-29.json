@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751345773522,
+  "endTime": 1751347784517,
   "band_list": [
     {
       "raw_hot": 3569605,
@@ -371,6 +371,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1042060,
+      "num": 477064,
+      "word": "夏天杀死了labubu",
+      "onboard_time": 1751341162,
+      "rank": 12,
+      "category": "幽默,休闲"
+    },
+    {
       "raw_hot": 1011110,
       "num": 1161777,
       "word": "重庆一区委书记带头下馆子",
@@ -417,14 +425,6 @@
       "onboard_time": 1751260821,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 905126,
-      "num": 477064,
-      "word": "夏天杀死了labubu",
-      "onboard_time": 1751341162,
-      "rank": 12,
-      "category": "幽默,休闲"
     },
     {
       "raw_hot": 904673,
@@ -481,6 +481,14 @@
       "onboard_time": 1751200401,
       "rank": 25,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 823798,
+      "num": 823798,
+      "word": "水果放冰箱不要套袋子",
+      "onboard_time": 1751340261,
+      "rank": 23,
+      "category": "科学科普,美食"
     },
     {
       "raw_hot": 820551,
@@ -601,14 +609,6 @@
       "onboard_time": 1751129959,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 744447,
-      "num": 744447,
-      "word": "水果放冰箱不要套袋子",
-      "onboard_time": 1751340261,
-      "rank": 23,
-      "category": "科学科普,美食"
     },
     {
       "raw_hot": 739673,
@@ -763,12 +763,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 656176,
+      "num": 656176,
+      "word": "4个月大婴儿遭月嫂整晚暴力喂奶",
+      "onboard_time": 1751345184,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 650592,
       "num": 507585,
       "word": "韩安冉曝小猪妹被饿一整天",
       "onboard_time": 1751282242,
       "rank": 24,
       "category": "网红"
+    },
+    {
+      "raw_hot": 649362,
+      "num": 672386,
+      "word": "金正恩疑似悼念在俄阵亡军人画面曝光",
+      "onboard_time": 1751345602,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 643490,
@@ -907,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 573608,
+      "num": 446945,
+      "word": "黄子韬开跑车下班",
+      "onboard_time": 1751345963,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 571231,
       "num": 571231,
       "word": "有条件恢复日本部分地区水产品进口",
@@ -961,6 +985,14 @@
       "onboard_time": 1751282602,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 538690,
+      "num": 538690,
+      "word": "闲置太久的鞋子就不要再穿了",
+      "onboard_time": 1751345301,
+      "rank": 31,
+      "category": "幽默,休闲"
     },
     {
       "raw_hot": 537869,
@@ -1257,6 +1289,22 @@
       "onboard_time": 1751200222,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 444722,
+      "num": 444722,
+      "word": "陈思诚说李庚希京圈公主传闻是扯淡",
+      "onboard_time": 1751339902,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 441759,
+      "num": 441759,
+      "word": "26岁女子每天熬夜致卵巢早衰绝经",
+      "onboard_time": 1751345184,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 435965,
@@ -1651,6 +1699,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 346810,
+      "num": 310105,
+      "word": "李惠利前男友和现男友",
+      "onboard_time": 1751344284,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 343270,
       "num": 343270,
       "word": "王勉说这季五哈人最多也最少",
@@ -1689,14 +1745,6 @@
       "onboard_time": 1751155699,
       "rank": 8,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 336041,
-      "num": 336041,
-      "word": "陈思诚说李庚希京圈公主传闻是扯淡",
-      "onboard_time": 1751339902,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 335725,
@@ -1881,14 +1929,6 @@
       "onboard_time": 1751205084,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 310105,
-      "num": 310105,
-      "word": "李惠利前男友和现男友",
-      "onboard_time": 1751344284,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 307275,
@@ -2099,14 +2139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 287043,
-      "num": 234965,
-      "word": "闲置太久的鞋子就不要再穿了",
-      "onboard_time": 1751345301,
-      "rank": 31,
-      "category": "幽默,休闲"
-    },
-    {
       "raw_hot": 286757,
       "num": 280066,
       "word": "鹿晗演唱会微指",
@@ -2131,6 +2163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 285176,
+      "num": 285176,
+      "word": "32周孕妇吃冰箱凉菜感染险胎死腹中",
+      "onboard_time": 1751345423,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 284692,
       "num": 284692,
       "word": "杨紫已经三次陪跑白玉兰",
@@ -2152,6 +2192,14 @@
       "word": "16岁学生和父亲争吵后手变鸡爪",
       "onboard_time": 1751199561,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 280851,
+      "num": 280851,
+      "word": "男子带12岁女孩开房受害者不止1人",
+      "onboard_time": 1751345122,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -2225,6 +2273,14 @@
       "onboard_time": 1751249841,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 269528,
+      "num": 458931,
+      "word": "李人骏以为是饭局结果被做局",
+      "onboard_time": 1751345362,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 269065,
@@ -2376,14 +2432,6 @@
       "word": "官方回应朱雀玄武敕令改名被拒",
       "onboard_time": 1751189600,
       "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 253609,
-      "num": 253609,
-      "word": "4个月大婴儿遭月嫂整晚暴力喂奶",
-      "onboard_time": 1751345184,
-      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -2563,6 +2611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 231845,
+      "num": 213039,
+      "word": "孙俪化妆还在压脚背",
+      "onboard_time": 1751346802,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229922,
       "num": 229922,
       "word": "从必死到必胜",
@@ -2625,6 +2681,14 @@
       "onboard_time": 1751201603,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 224689,
+      "num": 224689,
+      "word": "李一桐回复素人",
+      "onboard_time": 1751346863,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 224383,
@@ -3003,14 +3067,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 202370,
-      "num": 202370,
-      "word": "26岁女子每天熬夜致卵巢早衰绝经",
-      "onboard_time": 1751345184,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 202197,
       "num": 202197,
       "word": "权志龙香港",
@@ -3315,6 +3371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 191724,
+      "num": 230324,
+      "word": "冬去春来开机",
+      "onboard_time": 1751347041,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190681,
       "num": 190681,
       "word": "张译在优酷三部破万剧的含金量",
@@ -3449,14 +3513,6 @@
       "onboard_time": 1751203284,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 185004,
-      "num": 185004,
-      "word": "金正恩疑似悼念在俄阵亡军人画面曝光",
-      "onboard_time": 1751345602,
-      "rank": 36,
-      "category": "国际时政"
     },
     {
       "raw_hot": 184859,
@@ -3875,14 +3931,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 170146,
-      "num": 170146,
-      "word": "32周孕妇吃冰箱凉菜感染险胎死腹中",
-      "onboard_time": 1751345423,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 169887,
       "num": 169887,
       "word": "严浩翔王嘉尔合照",
@@ -3969,14 +4017,6 @@
       "onboard_time": 1751177421,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 166806,
-      "num": 166806,
-      "word": "男子带12岁女孩开房受害者不止1人",
-      "onboard_time": 1751345122,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 166174,
@@ -4073,14 +4113,6 @@
       "onboard_time": 1751268922,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 163648,
-      "num": 433531,
-      "word": "李人骏以为是饭局结果被做局",
-      "onboard_time": 1751345362,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 163636,
@@ -4299,6 +4331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156810,
+      "num": 156810,
+      "word": "藿香正气水泡脚",
+      "onboard_time": 1751347281,
+      "rank": 40,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 156621,
       "num": 156621,
       "word": "猫 妈咪啊他才不是什么穷小子",
@@ -4435,6 +4475,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 153473,
+      "num": 153473,
+      "word": "男子登四姑娘山腿软滑坠下山",
+      "onboard_time": 1751346383,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153000,
       "num": 153000,
       "word": "王一珩模仿韩国霸总吃饭",
@@ -4449,6 +4497,14 @@
       "onboard_time": 1751203044,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 152676,
+      "num": 152676,
+      "word": "金白开代表作",
+      "onboard_time": 1751347041,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 152625,
@@ -4585,6 +4641,14 @@
       "onboard_time": 1751175382,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 149716,
+      "num": 457437,
+      "word": "湖北咸丰遭特大暴雨袭击",
+      "onboard_time": 1751346142,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149137,
@@ -5019,6 +5083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139070,
+      "num": 169866,
+      "word": "周杰伦曾给Angelababy写歌",
+      "onboard_time": 1751347642,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138978,
       "num": 138978,
       "word": "我是怎么发现得糖尿病的",
@@ -5243,6 +5315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 133894,
+      "num": 133894,
+      "word": "51岁阿姨月薪1700元的独居生活",
+      "onboard_time": 1751347402,
+      "rank": 45,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 133800,
       "num": 133800,
       "word": "王源巡演",
@@ -5305,6 +5385,14 @@
       "onboard_time": 1751271562,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 132779,
+      "num": 132779,
+      "word": "00后好像被分成了三批",
+      "onboard_time": 1751344762,
+      "rank": 46,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 132371,
@@ -5921,6 +6009,14 @@
       "onboard_time": 1751255122,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119828,
+      "num": 119828,
+      "word": "三专开箱",
+      "onboard_time": 1751347761,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 119777,
@@ -6659,6 +6755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102678,
+      "num": 362382,
+      "word": "聊斋兰若寺预售开启",
+      "onboard_time": 1751347342,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 102669,
       "num": 102669,
       "word": "Bin说有九成把握夺冠",
@@ -7139,6 +7243,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 77496,
+      "num": 706925,
+      "word": "庆祝建党104周年",
+      "onboard_time": 1751346921,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77334,
       "num": 294011,
       "word": "摩旅被民警非工作时间逼停无违规",
@@ -7233,6 +7345,14 @@
       "onboard_time": 1751274141,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74960,
+      "num": 156869,
+      "word": "艾顿是湖人唯一救命稻草",
+      "onboard_time": 1751347281,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 74200,
@@ -7473,6 +7593,14 @@
       "onboard_time": 1751108481,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 64049,
+      "num": 213153,
+      "word": "书卷一梦有自己的labubu",
+      "onboard_time": 1751346501,
+      "rank": 29,
+      "category": "剧集,休闲"
     },
     {
       "raw_hot": 63371,
@@ -7979,6 +8107,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 36171,
+      "num": 358267,
+      "word": "Dior新季穿搭公式",
+      "onboard_time": 1751346263,
+      "rank": 18,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 35919,
       "num": 141530,
       "word": "远看是柏油路近看是爱情虫",
@@ -8291,6 +8427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26977,
+      "num": 441855,
+      "word": "湖北咸丰暴雨公交停运学校停课",
+      "onboard_time": 1751346142,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26887,
       "num": 47340,
       "word": "巨蟹座深情也绝情",
@@ -8448,6 +8592,14 @@
       "word": "查户籍档案发现母亲被登记成婶婶",
       "onboard_time": 1751282541,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23976,
+      "num": 158751,
+      "word": "无人机实录上海天漏时刻",
+      "onboard_time": 1751345362,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -8947,6 +9099,9 @@
     },
     {
       "word": "#中共中央政治局第二十一次集体学习#"
+    },
+    {
+      "word": "#追光的你#"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751345773522,
+  "endTime": 1751347784517,
   "band_list": [
     {
       "raw_hot": 1867072,
@@ -35,20 +35,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1042060,
+      "num": 477064,
+      "word": "夏天杀死了labubu",
+      "onboard_time": 1751341162,
+      "rank": 12,
+      "category": "幽默,休闲"
+    },
+    {
       "raw_hot": 998662,
       "num": 488577,
       "word": "离职半年了前领导还在使唤我",
       "onboard_time": 1751341581,
       "rank": 10,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 905126,
-      "num": 477064,
-      "word": "夏天杀死了labubu",
-      "onboard_time": 1751341162,
-      "rank": 12,
-      "category": "幽默,休闲"
     },
     {
       "raw_hot": 873271,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 823798,
+      "num": 823798,
+      "word": "水果放冰箱不要套袋子",
+      "onboard_time": 1751340261,
+      "rank": 23,
+      "category": "科学科普,美食"
+    },
+    {
       "raw_hot": 808743,
       "num": 808743,
       "word": "男子8公斤黄金卖了612万赚312万",
@@ -81,14 +89,6 @@
       "onboard_time": 1751340740,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 744447,
-      "num": 744447,
-      "word": "水果放冰箱不要套袋子",
-      "onboard_time": 1751340261,
-      "rank": 23,
-      "category": "科学科普,美食"
     },
     {
       "raw_hot": 720147,
@@ -115,12 +115,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 656176,
+      "num": 656176,
+      "word": "4个月大婴儿遭月嫂整晚暴力喂奶",
+      "onboard_time": 1751345184,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 650295,
       "num": 650295,
       "word": "明天你的公积金账户将多一笔钱",
       "onboard_time": 1751279121,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 649362,
+      "num": 672386,
+      "word": "金正恩疑似悼念在俄阵亡军人画面曝光",
+      "onboard_time": 1751345602,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 637935,
@@ -153,6 +169,22 @@
       "onboard_time": 1751334201,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 573608,
+      "num": 446945,
+      "word": "黄子韬开跑车下班",
+      "onboard_time": 1751345963,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 538690,
+      "num": 538690,
+      "word": "闲置太久的鞋子就不要再穿了",
+      "onboard_time": 1751345301,
+      "rank": 31,
+      "category": "幽默,休闲"
     },
     {
       "raw_hot": 537421,
@@ -200,6 +232,22 @@
       "word": "上海飞东京航班疑客舱释压备降大阪",
       "onboard_time": 1751333480,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 444722,
+      "num": 444722,
+      "word": "陈思诚说李庚希京圈公主传闻是扯淡",
+      "onboard_time": 1751339902,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 441759,
+      "num": 441759,
+      "word": "26岁女子每天熬夜致卵巢早衰绝经",
+      "onboard_time": 1751345184,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -275,12 +323,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 336041,
-      "num": 336041,
-      "word": "陈思诚说李庚希京圈公主传闻是扯淡",
-      "onboard_time": 1751339902,
-      "rank": 21,
-      "category": "电影"
+      "raw_hot": 346810,
+      "num": 310105,
+      "word": "李惠利前男友和现男友",
+      "onboard_time": 1751344284,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 326526,
@@ -305,14 +353,6 @@
       "onboard_time": 1751333719,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 310105,
-      "num": 310105,
-      "word": "李惠利前男友和现男友",
-      "onboard_time": 1751344284,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 304444,
@@ -355,12 +395,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 287043,
-      "num": 234965,
-      "word": "闲置太久的鞋子就不要再穿了",
-      "onboard_time": 1751345301,
-      "rank": 31,
-      "category": "幽默,休闲"
+      "raw_hot": 285176,
+      "num": 285176,
+      "word": "32周孕妇吃冰箱凉菜感染险胎死腹中",
+      "onboard_time": 1751345423,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 283131,
@@ -369,6 +409,22 @@
       "onboard_time": 1751293704,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 280851,
+      "num": 280851,
+      "word": "男子带12岁女孩开房受害者不止1人",
+      "onboard_time": 1751345122,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 269528,
+      "num": 458931,
+      "word": "李人骏以为是饭局结果被做局",
+      "onboard_time": 1751345362,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 259288,
@@ -384,14 +440,6 @@
       "word": "下半年正式开启",
       "onboard_time": 1751341279,
       "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 253609,
-      "num": 253609,
-      "word": "4个月大婴儿遭月嫂整晚暴力喂奶",
-      "onboard_time": 1751345184,
-      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -427,6 +475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231845,
+      "num": 213039,
+      "word": "孙俪化妆还在压脚背",
+      "onboard_time": 1751346802,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229922,
       "num": 229922,
       "word": "从必死到必胜",
@@ -449,6 +505,14 @@
       "onboard_time": 1751333901,
       "rank": 24,
       "category": "汽车,财经"
+    },
+    {
+      "raw_hot": 224689,
+      "num": 224689,
+      "word": "李一桐回复素人",
+      "onboard_time": 1751346863,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 224327,
@@ -515,14 +579,6 @@
       "category": "幽默,休闲"
     },
     {
-      "raw_hot": 202370,
-      "num": 202370,
-      "word": "26岁女子每天熬夜致卵巢早衰绝经",
-      "onboard_time": 1751345184,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 201454,
       "num": 258950,
       "word": "国产C909身披五星红旗飞出国门",
@@ -563,12 +619,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 185004,
-      "num": 185004,
-      "word": "金正恩疑似悼念在俄阵亡军人画面曝光",
-      "onboard_time": 1751345602,
-      "rank": 36,
-      "category": "国际时政"
+      "raw_hot": 191724,
+      "num": 230324,
+      "word": "冬去春来开机",
+      "onboard_time": 1751347041,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 181125,
@@ -619,14 +675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 170146,
-      "num": 170146,
-      "word": "32周孕妇吃冰箱凉菜感染险胎死腹中",
-      "onboard_time": 1751345423,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 169215,
       "num": 169215,
       "word": "李惠利和伴舞恋爱",
@@ -649,22 +697,6 @@
       "onboard_time": 1751335701,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 166806,
-      "num": 166806,
-      "word": "男子带12岁女孩开房受害者不止1人",
-      "onboard_time": 1751345122,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 163648,
-      "num": 433531,
-      "word": "李人骏以为是饭局结果被做局",
-      "onboard_time": 1751345362,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 162372,
@@ -691,6 +723,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 156810,
+      "num": 156810,
+      "word": "藿香正气水泡脚",
+      "onboard_time": 1751347281,
+      "rank": 40,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 154214,
       "num": 154214,
       "word": "资深机长分析飞机为何直降8700米",
@@ -699,12 +739,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153473,
+      "num": 153473,
+      "word": "男子登四姑娘山腿软滑坠下山",
+      "onboard_time": 1751346383,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152676,
+      "num": 152676,
+      "word": "金白开代表作",
+      "onboard_time": 1751347041,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 150184,
       "num": 150184,
       "word": "中方制裁菲律宾前参议员托伦蒂诺",
       "onboard_time": 1751337081,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 149716,
+      "num": 457437,
+      "word": "湖北咸丰遭特大暴雨袭击",
+      "onboard_time": 1751346142,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147885,
@@ -771,6 +835,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 139070,
+      "num": 169866,
+      "word": "周杰伦曾给Angelababy写歌",
+      "onboard_time": 1751347642,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137324,
       "num": 137324,
       "word": "可生食鸡蛋线上线下价差好大",
@@ -793,6 +865,22 @@
       "onboard_time": 1751342482,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133894,
+      "num": 133894,
+      "word": "51岁阿姨月薪1700元的独居生活",
+      "onboard_time": 1751347402,
+      "rank": 45,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 132779,
+      "num": 132779,
+      "word": "00后好像被分成了三批",
+      "onboard_time": 1751344762,
+      "rank": 46,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 132083,
@@ -897,6 +985,14 @@
       "onboard_time": 1751279360,
       "rank": 24,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 119828,
+      "num": 119828,
+      "word": "三专开箱",
+      "onboard_time": 1751347761,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 119303,
@@ -1017,6 +1113,14 @@
       "onboard_time": 1751336361,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 102678,
+      "num": 362382,
+      "word": "聊斋兰若寺预售开启",
+      "onboard_time": 1751347342,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 100586,
@@ -1219,6 +1323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 77496,
+      "num": 706925,
+      "word": "庆祝建党104周年",
+      "onboard_time": 1751346921,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77068,
       "num": 77068,
       "word": "王安宇 音乐节",
@@ -1241,6 +1353,14 @@
       "onboard_time": 1751280502,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 74960,
+      "num": 156869,
+      "word": "艾顿是湖人唯一救命稻草",
+      "onboard_time": 1751347281,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 74577,
@@ -1321,6 +1441,14 @@
       "onboard_time": 1751342541,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 64049,
+      "num": 213153,
+      "word": "书卷一梦有自己的labubu",
+      "onboard_time": 1751346501,
+      "rank": 29,
+      "category": "剧集,休闲"
     },
     {
       "raw_hot": 60932,
@@ -1451,6 +1579,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 36171,
+      "num": 358267,
+      "word": "Dior新季穿搭公式",
+      "onboard_time": 1751346263,
+      "rank": 18,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 35585,
       "num": 35585,
       "word": "聪明人说话有7个特点",
@@ -1472,6 +1608,14 @@
       "word": "2025上半年纪念短片",
       "onboard_time": 1751305037,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26977,
+      "num": 441855,
+      "word": "湖北咸丰暴雨公交停运学校停课",
+      "onboard_time": 1751346142,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -1529,6 +1673,14 @@
       "onboard_time": 1751310075,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23976,
+      "num": 158751,
+      "word": "无人机实录上海天漏时刻",
+      "onboard_time": 1751345362,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23835,
@@ -1697,6 +1849,9 @@
     },
     {
       "word": "#中共中央政治局第二十一次集体学习#"
+    },
+    {
+      "word": "#追光的你#"
     }
   ]
 }
