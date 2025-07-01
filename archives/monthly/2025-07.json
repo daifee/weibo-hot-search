@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751337592521,
+  "endTime": 1751342639711,
   "band_list": [
     {
       "raw_hot": 1867072,
@@ -9,6 +9,22 @@
       "onboard_time": 1751333600,
       "rank": 0,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 1429448,
+      "num": 1429448,
+      "word": "耳朵黄色分泌物",
+      "onboard_time": 1751339361,
+      "rank": 0,
+      "category": "科学科普,健康医疗"
+    },
+    {
+      "raw_hot": 1414323,
+      "num": 902511,
+      "word": "新华字典称小孩是累赘",
+      "onboard_time": 1751338821,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1110085,
@@ -35,6 +51,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 808743,
+      "num": 808743,
+      "word": "男子8公斤黄金卖了612万赚312万",
+      "onboard_time": 1751336540,
+      "rank": 6,
+      "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 729837,
+      "num": 729837,
+      "word": "12306回应充电宝上高铁规定",
+      "onboard_time": 1751340740,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 723639,
+      "num": 395913,
+      "word": "离职半年了前领导还在使唤我",
+      "onboard_time": 1751341581,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 720147,
       "num": 376956,
       "word": "中华田园犬 禁养",
@@ -47,6 +87,14 @@
       "num": 308937,
       "word": "胡一天673天没进组了",
       "onboard_time": 1751293404,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 682130,
+      "num": 377555,
+      "word": "李惠利与伴舞交往超一年",
+      "onboard_time": 1751339601,
       "rank": 11,
       "category": "艺人"
     },
@@ -83,6 +131,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 555385,
+      "num": 360262,
+      "word": "夏天杀死了labubu",
+      "onboard_time": 1751341162,
+      "rank": 12,
+      "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 537421,
+      "num": 537421,
+      "word": "素人模仿李一桐演戏",
+      "onboard_time": 1751339541,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 528239,
       "num": 528239,
       "word": "央视揭秘无菌蛋真相",
@@ -97,14 +161,6 @@
       "onboard_time": 1751295622,
       "rank": 12,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 495340,
-      "num": 495340,
-      "word": "男子8公斤黄金卖了612万赚312万",
-      "onboard_time": 1751336540,
-      "rank": 6,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 481210,
@@ -195,6 +251,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 352211,
+      "num": 352211,
+      "word": "公积金结息",
+      "onboard_time": 1751340862,
+      "rank": 13,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 326526,
       "num": 450312,
       "word": "穿普拉达的女王2开拍",
@@ -208,6 +272,14 @@
       "word": "上海飞东京航班疑从万米高空急降",
       "onboard_time": 1751327239,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 315450,
+      "num": 315450,
+      "word": "美国演员争演中国短剧日薪涨7倍",
+      "onboard_time": 1751333719,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -235,6 +307,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 294916,
+      "num": 288641,
+      "word": "陈思诚说李庚希京圈公主传闻是扯淡",
+      "onboard_time": 1751339902,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 289077,
+      "num": 289077,
+      "word": "恋与深空",
+      "onboard_time": 1751340380,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 283131,
       "num": 320792,
       "word": "fx合体",
@@ -243,12 +331,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 262987,
-      "num": 262987,
-      "word": "美国演员争演中国短剧日薪涨7倍",
-      "onboard_time": 1751333719,
+      "raw_hot": 253850,
+      "num": 253850,
+      "word": "下半年正式开启",
+      "onboard_time": 1751341279,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 249425,
+      "num": 249425,
+      "word": "水果放冰箱不要套袋子",
+      "onboard_time": 1751340261,
+      "rank": 23,
+      "category": "科学科普,美食"
     },
     {
       "raw_hot": 245403,
@@ -273,6 +369,22 @@
       "onboard_time": 1751288303,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 233144,
+      "num": 292398,
+      "word": "鞠婧祎这是王一栩说的百变小樱吗",
+      "onboard_time": 1751340681,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 229922,
+      "num": 229922,
+      "word": "从必死到必胜",
+      "onboard_time": 1751337620,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 229313,
@@ -323,6 +435,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206092,
+      "num": 206092,
+      "word": "空心菜 最懂打工人的蔬菜",
+      "onboard_time": 1751341521,
+      "rank": 30,
+      "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 201423,
+      "num": 201423,
+      "word": "103岁养父和63岁养子的双向奔赴",
+      "onboard_time": 1751339240,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198444,
+      "num": 289646,
+      "word": "杨紫何惟芳首日V榜破9",
+      "onboard_time": 1751340021,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194476,
       "num": 273701,
       "word": "张艺兴13岁就认识林俊杰了",
@@ -353,6 +489,22 @@
       "onboard_time": 1751297003,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169215,
+      "num": 169215,
+      "word": "李惠利和伴舞恋爱",
+      "onboard_time": 1751338940,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 168606,
+      "num": 210197,
+      "word": "张佳宁三个月播三部剧的含金量",
+      "onboard_time": 1751340980,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 168602,
@@ -427,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140111,
+      "num": 140111,
+      "word": "俄军已控制卢甘斯克全境",
+      "onboard_time": 1751340740,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 139740,
       "num": 139740,
       "word": "香港回归祖国28年",
@@ -443,6 +603,22 @@
       "category": "美食,民生新闻"
     },
     {
+      "raw_hot": 136960,
+      "num": 136960,
+      "word": "特朗普批评日本不接受美国大米",
+      "onboard_time": 1751337320,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 132083,
+      "num": 132083,
+      "word": "朋友圈令人非常不爽的现象",
+      "onboard_time": 1751341822,
+      "rank": 44,
+      "category": "幽默,休闲"
+    },
+    {
       "raw_hot": 132050,
       "num": 132050,
       "word": "无菌蛋 少菌",
@@ -457,6 +633,14 @@
       "onboard_time": 1751295565,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130585,
+      "num": 134923,
+      "word": "猫 穿貂必须开空调",
+      "onboard_time": 1751341761,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 130542,
@@ -491,6 +675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122226,
+      "num": 138172,
+      "word": "曼城世俱杯出局",
+      "onboard_time": 1751342482,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120851,
       "num": 157989,
       "word": "南珩不行他不能捐",
@@ -499,12 +691,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 120822,
-      "num": 120822,
-      "word": "特朗普批评日本不接受美国大米",
-      "onboard_time": 1751337320,
-      "rank": 44,
-      "category": "国际时政"
+      "raw_hot": 120775,
+      "num": 246674,
+      "word": "睡眠真的超级重要",
+      "onboard_time": 1751341521,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 120311,
@@ -529,6 +721,30 @@
       "onboard_time": 1751294425,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119127,
+      "num": 119127,
+      "word": "流浪猫流浪到猫粮厂了",
+      "onboard_time": 1751342541,
+      "rank": 49,
+      "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 118968,
+      "num": 137396,
+      "word": "英国成全球富豪流失最多国",
+      "onboard_time": 1751340562,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 117218,
+      "num": 152154,
+      "word": "男子手部外伤住院被要求检查前列腺",
+      "onboard_time": 1751340200,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115428,
@@ -707,6 +923,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 88114,
+      "num": 119140,
+      "word": "张小斐这段戏竟然是对着蓝屏演的",
+      "onboard_time": 1751337801,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 87898,
       "num": 87898,
       "word": "她瘦三斤比我瘦30斤都明显",
@@ -721,6 +945,14 @@
       "onboard_time": 1751297424,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86171,
+      "num": 290709,
+      "word": "MG总经理刚上任就背刺",
+      "onboard_time": 1751339240,
+      "rank": 18,
+      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 86135,
@@ -867,6 +1099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 58363,
+      "num": 144879,
+      "word": "汪苏泷视角的罗曼城浪漫时刻",
+      "onboard_time": 1751342541,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 57804,
       "num": 57804,
       "word": "多地解禁中华田园犬",
@@ -979,6 +1219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29552,
+      "num": 226314,
+      "word": "客机高空急降10余分钟乘客写遗书",
+      "onboard_time": 1751342482,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26752,
       "num": 36718,
       "word": "湖南卫视开飞机喊你看锦绣芳华",
@@ -996,7 +1244,7 @@
     },
     {
       "raw_hot": 26515,
-      "num": 729768,
+      "num": 963938,
       "word": "党的旗帜所指即是网警铁翼所向",
       "onboard_time": 1751329282,
       "rank": 2,
