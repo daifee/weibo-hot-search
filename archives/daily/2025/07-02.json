@@ -1,6 +1,6 @@
 {
   "startTime": 1751387623546,
-  "endTime": 1751390694378,
+  "endTime": 1751391876721,
   "band_list": [
     {
       "raw_hot": 981774,
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 224635,
+      "num": 224635,
+      "word": "质疑虐猫考生漠视生命并非追杀",
+      "onboard_time": 1751385801,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 210103,
       "num": 210103,
       "word": "台北前副市长妻子跳楼身亡",
@@ -169,14 +177,6 @@
       "onboard_time": 1751368223,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 132392,
-      "num": 132392,
-      "word": "质疑虐猫考生漠视生命并非追杀",
-      "onboard_time": 1751385801,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 129737,
@@ -371,6 +371,14 @@
       "category": "艺人,音乐"
     },
     {
+      "raw_hot": 73823,
+      "num": 73823,
+      "word": "郑钦文回应温网出局",
+      "onboard_time": 1751390777,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70157,
       "num": 74030,
       "word": "印度网友被嘲讽",
@@ -427,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43855,
+      "num": 65744,
+      "word": "看杨紫眼神戏心里皱巴巴的",
+      "onboard_time": 1751390177,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 38620,
       "num": 38620,
       "word": "小米汽车辟谣提前交付",
@@ -435,20 +451,28 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 38372,
-      "num": 38372,
-      "word": "看杨紫眼神戏心里皱巴巴的",
-      "onboard_time": 1751390177,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 38013,
       "num": 38013,
       "word": "女子抱猫睡觉半年后确诊体癣",
       "onboard_time": 1751383944,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30712,
+      "num": 34560,
+      "word": "郑钦文今年大满贯战绩",
+      "onboard_time": 1751391737,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 29931,
+      "num": 34559,
+      "word": "孩子考100分没考90分重要",
+      "onboard_time": 1751391496,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 27278,
