@@ -1,0 +1,410 @@
+{
+  "runTime": 1751352792067,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1961803,
+        "num": 1961803,
+        "word": "虐猫考生被取消招聘资格",
+        "onboard_time": 1751349923,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 919593,
+        "num": 919593,
+        "word": "广州交警通报3死3伤交通事故",
+        "onboard_time": 1751350462,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10824,
+        "num": 752151,
+        "word": "党的旗帜所指即是网警铁翼所向",
+        "onboard_time": 1751329282,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 715587,
+        "num": 715587,
+        "word": "泰国总理停职",
+        "onboard_time": 1751351962,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 619562,
+        "num": 619562,
+        "word": "特斯拉反击小米YU7",
+        "onboard_time": 1751350282,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 618064,
+        "num": 618064,
+        "word": "孙俪女儿化妆还在压脚背",
+        "onboard_time": 1751346802,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 613792,
+        "num": 613792,
+        "word": "多名主播验资pk引争议",
+        "onboard_time": 1751349322,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 573810,
+        "num": 573810,
+        "word": "闲置太久的鞋子就不要再穿了",
+        "onboard_time": 1751345301,
+        "rank": 7,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 530806,
+        "num": 530806,
+        "word": "宋佳面相变化",
+        "onboard_time": 1751351301,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 467919,
+        "num": 467919,
+        "word": "桂林回应虐猫考生事件",
+        "onboard_time": 1751350822,
+        "rank": 9,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 1515383,
+        "num": 458272,
+        "word": "这是杨幂还是小糯米",
+        "onboard_time": 1751351602,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 640905,
+        "num": 444974,
+        "word": "夏天杀死了labubu",
+        "onboard_time": 1751341162,
+        "rank": 11,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 517683,
+        "num": 429955,
+        "word": "51岁阿姨月薪1700元的独居生活",
+        "onboard_time": 1751347402,
+        "rank": 12,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 9512,
+        "num": 411992,
+        "word": "石子灿快来认领你的足球",
+        "onboard_time": 1751351780,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217766,
+        "num": 400234,
+        "word": "高校招聘第二名举报第一名不符合条件",
+        "onboard_time": 1751351540,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383538,
+        "num": 383538,
+        "word": "公积金",
+        "onboard_time": 1751333600,
+        "rank": 15,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 304227,
+        "num": 304227,
+        "word": "韦东奕晋升北大长聘副教授",
+        "onboard_time": 1751351842,
+        "rank": 16,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 282808,
+        "num": 282808,
+        "word": "王鹤棣跳九万字好会扭",
+        "onboard_time": 1751351540,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281476,
+        "num": 281476,
+        "word": "金正恩疑似悼念在俄阵亡军人画面曝光",
+        "onboard_time": 1751345602,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 273943,
+        "num": 273943,
+        "word": "周杰伦曾给Angelababy写歌",
+        "onboard_time": 1751347642,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278307,
+        "num": 267742,
+        "word": "离职半年了前领导还在使唤我",
+        "onboard_time": 1751341581,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154012,
+        "num": 263258,
+        "word": "对家想和我炒cp怎么办",
+        "onboard_time": 1751352382,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141534,
+        "num": 260962,
+        "word": "钟镇涛女儿考上北电",
+        "onboard_time": 1751351540,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259644,
+        "num": 259644,
+        "word": "男子开车看手机致车辆失控3死3伤",
+        "onboard_time": 1751350642,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43018,
+        "num": 239814,
+        "word": "上万销量的18元充电宝自称可上飞机",
+        "onboard_time": 1751350942,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235925,
+        "num": 235925,
+        "word": "黄子韬开跑车下班",
+        "onboard_time": 1751345963,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226124,
+        "num": 226124,
+        "word": "4个月大婴儿遭月嫂整晚暴力喂奶",
+        "onboard_time": 1751345184,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220465,
+        "num": 220465,
+        "word": "26岁女子每天熬夜致卵巢早衰绝经",
+        "onboard_time": 1751345184,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132149,
+        "num": 209902,
+        "word": "朝雪录每对异性恋都很美味",
+        "onboard_time": 1751352081,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206360,
+        "num": 206360,
+        "word": "12306回应充电宝上高铁规定",
+        "onboard_time": 1751340740,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189488,
+        "num": 189488,
+        "word": "耳朵黄色分泌物",
+        "onboard_time": 1751339361,
+        "rank": 30,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 188535,
+        "num": 188535,
+        "word": "32周孕妇吃冰箱凉菜感染险胎死腹中",
+        "onboard_time": 1751345423,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167475,
+        "num": 167475,
+        "word": "中山一路",
+        "onboard_time": 1751351422,
+        "rank": 32,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 164066,
+        "num": 164066,
+        "word": "水果放冰箱不要套袋子",
+        "onboard_time": 1751340261,
+        "rank": 33,
+        "category": "科学科普,美食"
+      },
+      {
+        "raw_hot": 159451,
+        "num": 159451,
+        "word": "小米汽车",
+        "onboard_time": 1751352442,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 124710,
+        "num": 153438,
+        "word": "书卷一梦微博追剧团",
+        "onboard_time": 1751352742,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151403,
+        "num": 151403,
+        "word": "女子卖100g黄金称老公买的不心疼",
+        "onboard_time": 1751342723,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147766,
+        "num": 147766,
+        "word": "藿香正气水泡脚",
+        "onboard_time": 1751347281,
+        "rank": 37,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 147284,
+        "num": 147284,
+        "word": "孟子义 巧克力你让我很没有面子",
+        "onboard_time": 1751351181,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136966,
+        "num": 136966,
+        "word": "陈思诚说李庚希京圈公主传闻是扯淡",
+        "onboard_time": 1751339902,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100329,
+        "num": 135037,
+        "word": "陈思诚 没有被资本控制",
+        "onboard_time": 1751351362,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 81769,
+        "num": 133249,
+        "word": "新网球王子完结",
+        "onboard_time": 1751351901,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 133196,
+        "num": 133196,
+        "word": "高校引进高层次人才第2名举报第1名",
+        "onboard_time": 1751350581,
+        "rank": 42,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 126138,
+        "num": 130417,
+        "word": "素人模仿李一桐演戏",
+        "onboard_time": 1751339541,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129504,
+        "num": 129504,
+        "word": "小米两地员工公寓月租金1999元",
+        "onboard_time": 1751350222,
+        "rank": 44,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 128308,
+        "num": 128308,
+        "word": "杨幂密室大逃脱7超前聚会剧照",
+        "onboard_time": 1751352202,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124010,
+        "num": 124010,
+        "word": "沈佳润音色",
+        "onboard_time": 1751351842,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122662,
+        "num": 122662,
+        "word": "男子被亲弟冒充吸毒留10年案底",
+        "onboard_time": 1751348482,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122628,
+        "num": 122628,
+        "word": "李惠利前男友和现男友",
+        "onboard_time": 1751344284,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121381,
+        "num": 121381,
+        "word": "秦岚辛芷蕾你俩过吧",
+        "onboard_time": 1751352742,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}

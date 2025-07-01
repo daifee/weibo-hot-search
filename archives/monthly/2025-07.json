@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751351948119,
+  "endTime": 1751352792067,
   "band_list": [
     {
       "raw_hot": 2472851,
@@ -17,6 +17,14 @@
       "onboard_time": 1751333600,
       "rank": 0,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 1515383,
+      "num": 458272,
+      "word": "这是杨幂还是小糯米",
+      "onboard_time": 1751351602,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1429448,
@@ -59,8 +67,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 880462,
-      "num": 880462,
+      "raw_hot": 919593,
+      "num": 919593,
       "word": "广州交警通报3死3伤交通事故",
       "onboard_time": 1751350462,
       "rank": 1,
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 723104,
-      "num": 405732,
+      "num": 429955,
       "word": "51岁阿姨月薪1700元的独居生活",
       "onboard_time": 1751347402,
       "rank": 45,
@@ -145,6 +153,14 @@
       "onboard_time": 1751293404,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 715587,
+      "num": 715587,
+      "word": "泰国总理停职",
+      "onboard_time": 1751351962,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 689909,
@@ -211,6 +227,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 618064,
+      "num": 618064,
+      "word": "孙俪女儿化妆还在压脚背",
+      "onboard_time": 1751346802,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 613792,
+      "num": 613792,
+      "word": "多名主播验资pk引争议",
+      "onboard_time": 1751349322,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 586999,
       "num": 446945,
       "word": "黄子韬开跑车下班",
@@ -235,20 +267,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 530806,
+      "num": 530806,
+      "word": "宋佳面相变化",
+      "onboard_time": 1751351301,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 528239,
       "num": 528239,
       "word": "央视揭秘无菌蛋真相",
       "onboard_time": 1751331680,
       "rank": 5,
       "category": "舆论监督,科学科普"
-    },
-    {
-      "raw_hot": 508424,
-      "num": 508424,
-      "word": "孙俪女儿化妆还在压脚背",
-      "onboard_time": 1751346802,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 508410,
@@ -259,20 +291,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 489155,
-      "num": 489155,
-      "word": "多名主播验资pk引争议",
-      "onboard_time": 1751349322,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 481210,
       "num": 481210,
       "word": "动物园被举报用个人码收门票上千万",
       "onboard_time": 1751331442,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 467919,
+      "num": 467919,
+      "word": "桂林回应虐猫考生事件",
+      "onboard_time": 1751350822,
+      "rank": 20,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 456760,
@@ -347,14 +379,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 385376,
-      "num": 385376,
-      "word": "这是杨幂还是小糯米",
-      "onboard_time": 1751351602,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 376369,
       "num": 280851,
       "word": "男子带12岁女孩开房受害者不止1人",
@@ -411,14 +435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 338467,
-      "num": 338467,
-      "word": "宋佳面相变化",
-      "onboard_time": 1751351301,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 326526,
       "num": 450312,
       "word": "穿普拉达的女王2开拍",
@@ -457,6 +473,14 @@
       "onboard_time": 1751293042,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 304227,
+      "num": 304227,
+      "word": "韦东奕晋升北大长聘副教授",
+      "onboard_time": 1751351842,
+      "rank": 42,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 302703,
@@ -499,12 +523,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 280382,
-      "num": 280382,
-      "word": "桂林回应虐猫考生事件",
-      "onboard_time": 1751350822,
-      "rank": 20,
-      "category": "民生新闻,教育"
+      "raw_hot": 282808,
+      "num": 316750,
+      "word": "王鹤棣跳九万字好会扭",
+      "onboard_time": 1751351540,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 269528,
@@ -513,6 +537,14 @@
       "onboard_time": 1751345362,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 259644,
+      "num": 259644,
+      "word": "男子开车看手机致车辆失控3死3伤",
+      "onboard_time": 1751350642,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 259288,
@@ -527,14 +559,6 @@
       "num": 253850,
       "word": "下半年正式开启",
       "onboard_time": 1751341279,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 252591,
-      "num": 252591,
-      "word": "男子开车看手机致车辆失控3死3伤",
-      "onboard_time": 1751350642,
       "rank": 22,
       "category": "民生新闻"
     },
@@ -608,6 +632,14 @@
       "word": "客机高空急降10余分钟乘客写遗书",
       "onboard_time": 1751342482,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 217766,
+      "num": 400234,
+      "word": "高校招聘第二名举报第一名不符合条件",
+      "onboard_time": 1751351540,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -867,6 +899,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 159451,
+      "num": 159451,
+      "word": "小米汽车",
+      "onboard_time": 1751352442,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 156810,
       "num": 156810,
       "word": "藿香正气水泡脚",
@@ -881,6 +921,14 @@
       "onboard_time": 1751343683,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154012,
+      "num": 263258,
+      "word": "对家想和我炒cp怎么办",
+      "onboard_time": 1751352382,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 153473,
@@ -923,6 +971,14 @@
       "category": "民生新闻,幽默"
     },
     {
+      "raw_hot": 147284,
+      "num": 147284,
+      "word": "孟子义 巧克力你让我很没有面子",
+      "onboard_time": 1751351181,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146319,
       "num": 146319,
       "word": "弟弟朝小猴子竖中指被一群猴打了",
@@ -947,20 +1003,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 144689,
-      "num": 316750,
-      "word": "王鹤棣跳九万字好会扭",
-      "onboard_time": 1751351540,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 142954,
       "num": 213585,
       "word": "杨紫魏哲鸣对手戏好带感",
       "onboard_time": 1751329282,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141534,
+      "num": 319993,
+      "word": "钟镇涛女儿考上北电",
+      "onboard_time": 1751351540,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 140818,
@@ -1035,12 +1091,12 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 132440,
-      "num": 132440,
-      "word": "韦东奕晋升北大长聘副教授",
-      "onboard_time": 1751351842,
-      "rank": 42,
-      "category": "民生新闻,教育"
+      "raw_hot": 132149,
+      "num": 209902,
+      "word": "朝雪录每对异性恋都很美味",
+      "onboard_time": 1751352081,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 132083,
@@ -1091,6 +1147,14 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 128308,
+      "num": 128308,
+      "word": "杨幂密室大逃脱7超前聚会剧照",
+      "onboard_time": 1751352202,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127236,
       "num": 127236,
       "word": "韩安冉曝小猪妹被饿一整天",
@@ -1121,6 +1185,30 @@
       "onboard_time": 1751336660,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124710,
+      "num": 153438,
+      "word": "书卷一梦微博追剧团",
+      "onboard_time": 1751352742,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 124010,
+      "num": 124010,
+      "word": "沈佳润音色",
+      "onboard_time": 1751351842,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 121381,
+      "num": 121381,
+      "word": "秦岚辛芷蕾你俩过吧",
+      "onboard_time": 1751352742,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 121137,
@@ -1168,14 +1256,6 @@
       "word": "贾永婕5千买下小S二女儿画作",
       "onboard_time": 1751294425,
       "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 119061,
-      "num": 119061,
-      "word": "孟子义 巧克力你让我很没有面子",
-      "onboard_time": 1751351181,
-      "rank": 49,
       "category": "艺人"
     },
     {
@@ -1315,6 +1395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100329,
+      "num": 199076,
+      "word": "陈思诚 没有被资本控制",
+      "onboard_time": 1751351362,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 99096,
       "num": 236047,
       "word": "何惟芳开芳园六郎可以开茶园",
@@ -1363,14 +1451,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 94240,
-      "num": 298197,
-      "word": "高校招聘第二名举报第一名不符合条件",
-      "onboard_time": 1751351540,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 93593,
       "num": 110196,
       "word": "张雅钦说杨紫吃火锅都在对台词",
@@ -1387,14 +1467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 91639,
-      "num": 319993,
-      "word": "钟镇涛女儿考上北电",
-      "onboard_time": 1751351540,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 90855,
       "num": 90855,
       "word": "特朗普承认美国对中国做过很多事",
@@ -1409,14 +1481,6 @@
       "onboard_time": 1751291663,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 90272,
-      "num": 199076,
-      "word": "陈思诚 没有被资本控制",
-      "onboard_time": 1751351362,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 88860,
@@ -1521,6 +1585,14 @@
       "onboard_time": 1751343022,
       "rank": 27,
       "category": "艺人,汽车"
+    },
+    {
+      "raw_hot": 81769,
+      "num": 143830,
+      "word": "新网球王子完结",
+      "onboard_time": 1751351901,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 81056,
@@ -1683,14 +1755,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 58571,
-      "num": 143830,
-      "word": "新网球王子完结",
-      "onboard_time": 1751351901,
-      "rank": 39,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 57804,
       "num": 57804,
       "word": "多地解禁中华田园犬",
@@ -1787,6 +1851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43018,
+      "num": 289076,
+      "word": "上万销量的18元充电宝自称可上飞机",
+      "onboard_time": 1751350942,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41937,
       "num": 43768,
       "word": "上海动物园称文博展厅禁止饮食",
@@ -1840,14 +1912,6 @@
       "word": "2025上半年纪念短片",
       "onboard_time": 1751305037,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 31724,
-      "num": 289076,
-      "word": "上万销量的18元充电宝自称可上飞机",
-      "onboard_time": 1751350942,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2083,8 +2147,8 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 8129,
-      "num": 147035,
+      "raw_hot": 9512,
+      "num": 411992,
       "word": "石子灿快来认领你的足球",
       "onboard_time": 1751351780,
       "rank": 38,
