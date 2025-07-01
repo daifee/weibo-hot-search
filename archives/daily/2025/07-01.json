@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751369008737,
+  "endTime": 1751369961678,
   "band_list": [
     {
       "raw_hot": 2472851,
@@ -99,12 +99,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1053515,
+      "num": 477965,
+      "word": "胡一天回应没进组",
+      "onboard_time": 1751368521,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1042060,
       "num": 477064,
       "word": "夏天杀死了labubu",
       "onboard_time": 1751341162,
       "rank": 12,
       "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 1034967,
+      "num": 604577,
+      "word": "14岁邹明轩身高",
+      "onboard_time": 1751368223,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 998662,
@@ -283,11 +299,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 681781,
+      "num": 681781,
+      "word": "美国瑞幸价格",
+      "onboard_time": 1751364201,
+      "rank": 21,
+      "category": "财经"
+    },
+    {
       "raw_hot": 656176,
       "num": 656176,
       "word": "4个月大婴儿遭月嫂整晚暴力喂奶",
       "onboard_time": 1751345184,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 650853,
+      "num": 488374,
+      "word": "首创集团原董事长李爱庆一审死缓",
+      "onboard_time": 1751355141,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -297,14 +329,6 @@
       "onboard_time": 1751279121,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 648345,
-      "num": 648345,
-      "word": "美国瑞幸价格",
-      "onboard_time": 1751364201,
-      "rank": 21,
-      "category": "财经"
     },
     {
       "raw_hot": 637935,
@@ -328,14 +352,6 @@
       "word": "金价大跌商家称不如上涨时卖得好",
       "onboard_time": 1751297963,
       "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 624469,
-      "num": 488374,
-      "word": "首创集团原董事长李爱庆一审死缓",
-      "onboard_time": 1751355141,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -372,7 +388,7 @@
     },
     {
       "raw_hot": 554643,
-      "num": 437327,
+      "num": 442509,
       "word": "孙恩盛 粉丝群圈钱",
       "onboard_time": 1751364681,
       "rank": 17,
@@ -444,18 +460,10 @@
     },
     {
       "raw_hot": 499497,
-      "num": 380354,
+      "num": 460765,
       "word": "Oasis",
       "onboard_time": 1751364561,
       "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 490088,
-      "num": 355719,
-      "word": "14岁邹明轩身高",
-      "onboard_time": 1751368223,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -564,7 +572,7 @@
     },
     {
       "raw_hot": 370930,
-      "num": 370930,
+      "num": 505569,
       "word": "杨幂李现 最适合穿白色的两个人",
       "onboard_time": 1751366300,
       "rank": 26,
@@ -640,6 +648,14 @@
       "word": "Angelababy带小海绵蹦极",
       "onboard_time": 1751355501,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 334218,
+      "num": 334218,
+      "word": "韩娱三线爱豆收入",
+      "onboard_time": 1751368403,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -851,14 +867,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 251207,
-      "num": 251207,
-      "word": "胡一天回应没进组",
-      "onboard_time": 1751368521,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 245403,
       "num": 245403,
       "word": "女子网购拉布布盲盒拆开仅剩6个裸娃",
@@ -1011,14 +1019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206535,
-      "num": 206535,
-      "word": "韩娱三线爱豆收入",
-      "onboard_time": 1751368403,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 206092,
       "num": 206092,
       "word": "空心菜 最懂打工人的蔬菜",
@@ -1057,6 +1057,22 @@
       "onboard_time": 1751347761,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 198799,
+      "num": 198799,
+      "word": "李佳薇揭榜",
+      "onboard_time": 1751369063,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 198486,
+      "num": 198486,
+      "word": "金智秀alo线下活动",
+      "onboard_time": 1751368822,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 198444,
@@ -1147,6 +1163,22 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 183809,
+      "num": 183809,
+      "word": "深圳地铁",
+      "onboard_time": 1751368042,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181446,
+      "num": 343477,
+      "word": "儿女不和两年后老人赡养费成问题",
+      "onboard_time": 1751368643,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181125,
       "num": 257775,
       "word": "三折叠的风吹到了国产剧",
@@ -1195,6 +1227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174516,
+      "num": 342913,
+      "word": "应采儿分享Jasper庆生照",
+      "onboard_time": 1751368463,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173276,
       "num": 173276,
       "word": "一人一句祝福伟大的党伟大的祖国",
@@ -1228,7 +1268,7 @@
     },
     {
       "raw_hot": 171866,
-      "num": 171866,
+      "num": 186301,
       "word": "黄晓明最早统一我家审美的人",
       "onboard_time": 1751367982,
       "rank": 29,
@@ -1241,6 +1281,14 @@
       "onboard_time": 1751354062,
       "rank": 41,
       "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 171651,
+      "num": 171651,
+      "word": "医生建议女性10点半前睡觉",
+      "onboard_time": 1751366001,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 169215,
@@ -1267,6 +1315,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168566,
+      "num": 168566,
+      "word": "被黄晓明直接塞了100欧",
+      "onboard_time": 1751369662,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 168271,
+      "num": 197551,
+      "word": "何炅内娱白月光",
+      "onboard_time": 1751367982,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167024,
       "num": 208179,
       "word": "刘宇宁今天孤要跟离十六干大事",
@@ -1289,6 +1353,14 @@
       "onboard_time": 1751367143,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 162722,
+      "num": 162722,
+      "word": "球迷在王楚钦评论区晒成绩单",
+      "onboard_time": 1751368521,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 162372,
@@ -1331,20 +1403,20 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 160470,
-      "num": 343477,
-      "word": "儿女不和两年后老人赡养费成问题",
-      "onboard_time": 1751368643,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 159451,
       "num": 159451,
       "word": "小米汽车",
       "onboard_time": 1751352442,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 157437,
+      "num": 157437,
+      "word": "胡一天 退休了",
+      "onboard_time": 1751369842,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 156810,
@@ -1392,14 +1464,6 @@
       "word": "李惠利历任公开男友",
       "onboard_time": 1751354481,
       "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 151054,
-      "num": 342913,
-      "word": "应采儿分享Jasper庆生照",
-      "onboard_time": 1751368463,
-      "rank": 19,
       "category": "艺人"
     },
     {
@@ -1451,6 +1515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145946,
+      "num": 145946,
+      "word": "孙颖莎奥运会从开幕式打到了闭幕式",
+      "onboard_time": 1751366661,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145921,
       "num": 112072,
       "word": "张本智和喊爸爸递衣服中文日语混用",
@@ -1465,14 +1537,6 @@
       "onboard_time": 1751300062,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 144516,
-      "num": 155695,
-      "word": "金智秀alo线下活动",
-      "onboard_time": 1751368822,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 143363,
@@ -1531,14 +1595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 140163,
-      "num": 140163,
-      "word": "深圳地铁",
-      "onboard_time": 1751368042,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 140111,
       "num": 140111,
       "word": "俄军已控制卢甘斯克全境",
@@ -1547,12 +1603,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 139910,
+      "num": 388399,
+      "word": "中国共产党104岁生日",
+      "onboard_time": 1751368582,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 139740,
       "num": 139740,
       "word": "香港回归祖国28年",
       "onboard_time": 1751290763,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 138724,
+      "num": 138724,
+      "word": "Bin分享和Faker合照",
+      "onboard_time": 1751368883,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 137324,
@@ -1579,28 +1651,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135452,
-      "num": 151367,
-      "word": "何炅内娱白月光",
-      "onboard_time": 1751367982,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 135337,
       "num": 150110,
       "word": "这届白玉兰奖是女演员们的友情局",
       "onboard_time": 1751348063,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 135239,
-      "num": 135239,
-      "word": "球迷在王楚钦评论区晒成绩单",
-      "onboard_time": 1751368521,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 135026,
@@ -1763,14 +1819,6 @@
       "category": "幽默,休闲"
     },
     {
-      "raw_hot": 128644,
-      "num": 128644,
-      "word": "医生建议女性10点半前睡觉",
-      "onboard_time": 1751366001,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 128308,
       "num": 128308,
       "word": "杨幂密室大逃脱7超前聚会剧照",
@@ -1809,6 +1857,14 @@
       "onboard_time": 1751326039,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125872,
+      "num": 125872,
+      "word": "钎城黑西装造型",
+      "onboard_time": 1751369723,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 125726,
@@ -1929,14 +1985,6 @@
       "onboard_time": 1751354782,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 119351,
-      "num": 119351,
-      "word": "Bin分享和Faker合照",
-      "onboard_time": 1751368883,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 119303,
@@ -2180,7 +2228,7 @@
     },
     {
       "raw_hot": 102889,
-      "num": 143704,
+      "num": 198330,
       "word": "解限机明日上线",
       "onboard_time": 1751367802,
       "rank": 36,
@@ -2268,7 +2316,7 @@
     },
     {
       "raw_hot": 96714,
-      "num": 352574,
+      "num": 455759,
       "word": "苏超阿里赞助商凑齐一桌掼蛋",
       "onboard_time": 1751367683,
       "rank": 14,
@@ -2337,6 +2385,14 @@
       "onboard_time": 1751346263,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 88396,
+      "num": 495072,
+      "word": "四姑娘山滑坠16岁男子确认遇难",
+      "onboard_time": 1751369482,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88226,
@@ -2619,6 +2675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56694,
+      "num": 859582,
+      "word": "用28秒打开香港回归祖国28周年",
+      "onboard_time": 1751368342,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 56394,
       "num": 419647,
       "word": "急降航班乘客补贴先垫付再申领",
@@ -2665,14 +2729,6 @@
       "onboard_time": 1751304377,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 51769,
-      "num": 388399,
-      "word": "中国共产党104岁生日",
-      "onboard_time": 1751368582,
-      "rank": 7,
-      "category": "国内时政"
     },
     {
       "raw_hot": 49542,
@@ -2763,20 +2819,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40119,
-      "num": 133163,
-      "word": "孙颖莎奥运会从开幕式打到了闭幕式",
-      "onboard_time": 1751366661,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 38684,
       "num": 141149,
       "word": "我的精神状态凉好",
       "onboard_time": 1751355442,
       "rank": 39,
       "category": "幽默,互联网"
+    },
+    {
+      "raw_hot": 38104,
+      "num": 162727,
+      "word": "新疆喀纳斯月亮湾现云海奇观",
+      "onboard_time": 1751369001,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 37532,
@@ -2788,7 +2844,7 @@
     },
     {
       "raw_hot": 37220,
-      "num": 128967,
+      "num": 165112,
       "word": "美国六代机到底如何呢",
       "onboard_time": 1751368941,
       "rank": 41,
@@ -2819,6 +2875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 34269,
+      "num": 456327,
+      "word": "警方回应业主在院里发现多块人骨",
+      "onboard_time": 1751369482,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34086,
       "num": 172488,
       "word": "祁煜歌岛的落日见证誓言",
@@ -2841,14 +2905,6 @@
       "onboard_time": 1751305037,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 31011,
-      "num": 859582,
-      "word": "用28秒打开香港回归祖国28周年",
-      "onboard_time": 1751368342,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 26977,

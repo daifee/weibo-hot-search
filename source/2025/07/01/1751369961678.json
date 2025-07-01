@@ -1,0 +1,410 @@
+{
+  "runTime": 1751369961678,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1047072,
+        "num": 1167531,
+        "word": "云南25岁刮腻子女网红去世",
+        "onboard_time": 1751363421,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 681781,
+        "num": 681781,
+        "word": "美国瑞幸价格",
+        "onboard_time": 1751364201,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 56694,
+        "num": 613419,
+        "word": "用28秒打开香港回归祖国28周年",
+        "onboard_time": 1751368342,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 725319,
+        "num": 612675,
+        "word": "印度人嘲讽中国火车",
+        "onboard_time": 1751359882,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1034967,
+        "num": 604577,
+        "word": "14岁邹明轩身高",
+        "onboard_time": 1751368223,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 596195,
+        "num": 596195,
+        "word": "女儿黑救护车上死亡父母发声",
+        "onboard_time": 1751361862,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 528065,
+        "num": 528065,
+        "word": "微信可以不接收共同好友点赞提醒了",
+        "onboard_time": 1751353402,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 332823,
+        "num": 524339,
+        "word": "时代少年团大连演唱会酒店涨价88倍",
+        "onboard_time": 1751358924,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 274246,
+        "num": 505569,
+        "word": "杨幂李现 最适合穿白色的两个人",
+        "onboard_time": 1751366300,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88396,
+        "num": 495072,
+        "word": "四姑娘山滑坠16岁男子确认遇难",
+        "onboard_time": 1751369482,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1053515,
+        "num": 477965,
+        "word": "胡一天回应没进组",
+        "onboard_time": 1751368521,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 682973,
+        "num": 467920,
+        "word": "孙恩盛 无证驾驶",
+        "onboard_time": 1751360303,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 460765,
+        "num": 460765,
+        "word": "Oasis",
+        "onboard_time": 1751364561,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34269,
+        "num": 456327,
+        "word": "警方回应业主在院里发现多块人骨",
+        "onboard_time": 1751369482,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84835,
+        "num": 455759,
+        "word": "苏超阿里赞助商凑齐一桌掼蛋",
+        "onboard_time": 1751367683,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 431920,
+        "num": 450947,
+        "word": "日本航空道歉",
+        "onboard_time": 1751364623,
+        "rank": 15,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 852243,
+        "num": 445907,
+        "word": "这是杨幂还是小糯米",
+        "onboard_time": 1751351602,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 442509,
+        "num": 442509,
+        "word": "孙恩盛 粉丝群圈钱",
+        "onboard_time": 1751364681,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 437350,
+        "num": 437350,
+        "word": "女子腿痒了2个月查出肝癌",
+        "onboard_time": 1751356281,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 387715,
+        "num": 387715,
+        "word": "那英说龚俊经纪人够差劲的",
+        "onboard_time": 1751357840,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 650853,
+        "num": 375716,
+        "word": "首创集团原董事长李爱庆一审死缓",
+        "onboard_time": 1751355141,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349995,
+        "num": 349995,
+        "word": "虐猫考生被取消招聘资格",
+        "onboard_time": 1751349923,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334218,
+        "num": 334218,
+        "word": "韩娱三线爱豆收入",
+        "onboard_time": 1751368403,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274356,
+        "num": 274356,
+        "word": "虐猫考生上岸失败系道德品行等问题",
+        "onboard_time": 1751355742,
+        "rank": 23,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 206535,
+        "num": 206535,
+        "word": "女儿拿遗产儿子可以不管母亲吗",
+        "onboard_time": 1751360603,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198799,
+        "num": 198799,
+        "word": "李佳薇揭榜",
+        "onboard_time": 1751369063,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198486,
+        "num": 198486,
+        "word": "金智秀alo线下活动",
+        "onboard_time": 1751368822,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64019,
+        "num": 198330,
+        "word": "解限机明日上线",
+        "onboard_time": 1751367802,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174534,
+        "num": 197728,
+        "word": "马斯克放弃殖民火星计划",
+        "onboard_time": 1751363062,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 168271,
+        "num": 197551,
+        "word": "何炅内娱白月光",
+        "onboard_time": 1751367982,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174516,
+        "num": 197084,
+        "word": "应采儿分享Jasper庆生照",
+        "onboard_time": 1751368463,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196793,
+        "num": 196793,
+        "word": "上海动物园道歉",
+        "onboard_time": 1751361743,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136258,
+        "num": 186301,
+        "word": "黄晓明最早统一我家审美的人",
+        "onboard_time": 1751367982,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184551,
+        "num": 184551,
+        "word": "日本19岁女子全裸身亡男友逃逸被捕",
+        "onboard_time": 1751356581,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 183809,
+        "num": 183809,
+        "word": "深圳地铁",
+        "onboard_time": 1751368042,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181446,
+        "num": 181446,
+        "word": "儿女不和两年后老人赡养费成问题",
+        "onboard_time": 1751368643,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171651,
+        "num": 171651,
+        "word": "医生建议女性10点半前睡觉",
+        "onboard_time": 1751366001,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 168566,
+        "num": 168566,
+        "word": "被黄晓明直接塞了100欧",
+        "onboard_time": 1751369662,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30323,
+        "num": 165112,
+        "word": "美国六代机到底如何呢",
+        "onboard_time": 1751368941,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 38104,
+        "num": 162727,
+        "word": "新疆喀纳斯月亮湾现云海奇观",
+        "onboard_time": 1751369001,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 162722,
+        "num": 162722,
+        "word": "球迷在王楚钦评论区晒成绩单",
+        "onboard_time": 1751368521,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157564,
+        "num": 157564,
+        "word": "林心如排队为女儿买labubu",
+        "onboard_time": 1751359582,
+        "rank": 41,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 157437,
+        "num": 157437,
+        "word": "胡一天 退休了",
+        "onboard_time": 1751369842,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157147,
+        "num": 157147,
+        "word": "37岁男子糖尿病7年不重视致截肢失明",
+        "onboard_time": 1751363301,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156560,
+        "num": 156560,
+        "word": "以军空袭一咖啡馆致至少39人死亡",
+        "onboard_time": 1751367143,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 145946,
+        "num": 145946,
+        "word": "孙颖莎奥运会从开幕式打到了闭幕式",
+        "onboard_time": 1751366661,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139910,
+        "num": 139910,
+        "word": "中国共产党104岁生日",
+        "onboard_time": 1751368582,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 138724,
+        "num": 138724,
+        "word": "Bin分享和Faker合照",
+        "onboard_time": 1751368883,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128781,
+        "num": 128781,
+        "word": "一直玩手机是很恐怖的一件事",
+        "onboard_time": 1751362944,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 125872,
+        "num": 125872,
+        "word": "钎城黑西装造型",
+        "onboard_time": 1751369723,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央财经委员会第六次会议#"
+    }
+  }
+}
