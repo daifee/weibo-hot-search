@@ -1,6 +1,6 @@
 {
   "startTime": 1751387623546,
-  "endTime": 1751406045159,
+  "endTime": 1751408728092,
   "band_list": [
     {
       "raw_hot": 981774,
@@ -171,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147180,
+      "num": 96801,
+      "word": "男子杀害前妻12岁儿子后自杀身亡",
+      "onboard_time": 1751376685,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145807,
       "num": 145807,
       "word": "14岁邹明轩身高",
@@ -249,14 +257,6 @@
       "onboard_time": 1751366001,
       "rank": 32,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 96801,
-      "num": 96801,
-      "word": "男子杀害前妻12岁儿子后自杀身亡",
-      "onboard_time": 1751376685,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 94826,
@@ -411,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 61621,
+      "num": 65744,
+      "word": "看杨紫眼神戏心里皱巴巴的",
+      "onboard_time": 1751390177,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 59487,
       "num": 59487,
       "word": "关闭朋友圈半年后的真实变化",
@@ -433,14 +441,6 @@
       "onboard_time": 1751388499,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43855,
-      "num": 65744,
-      "word": "看杨紫眼神戏心里皱巴巴的",
-      "onboard_time": 1751390177,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 42515,
@@ -467,12 +467,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33275,
+      "num": 33275,
+      "word": "月嫂在雇主家工作时心梗无人担责",
+      "onboard_time": 1751397074,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30712,
       "num": 34560,
       "word": "郑钦文今年大满贯战绩",
       "onboard_time": 1751391737,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30354,
+      "num": 30354,
+      "word": "日本一男子被前同事刺伤喉咙身亡",
+      "onboard_time": 1751407334,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 29931,
@@ -505,14 +521,6 @@
       "onboard_time": 1751394855,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 21447,
-      "num": 21447,
-      "word": "月嫂在雇主家工作时心梗无人担责",
-      "onboard_time": 1751397074,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16697,
