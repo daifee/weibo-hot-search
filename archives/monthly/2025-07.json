@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751358947611,
+  "endTime": 1751359836087,
   "band_list": [
     {
       "raw_hot": 2472851,
@@ -49,6 +49,14 @@
       "onboard_time": 1751353402,
       "rank": 12,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1124936,
+      "num": 344863,
+      "word": "那英说龚俊经纪人够差劲的",
+      "onboard_time": 1751357840,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 1110085,
@@ -115,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 848053,
+      "num": 346244,
+      "word": "日本19岁女子全裸身亡男友逃逸被捕",
+      "onboard_time": 1751356581,
+      "rank": 12,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 839857,
       "num": 1134377,
       "word": "金正恩疑似悼念在俄阵亡军人画面曝光",
@@ -155,14 +171,6 @@
       "category": "幽默,休闲"
     },
     {
-      "raw_hot": 800084,
-      "num": 346244,
-      "word": "日本19岁女子全裸身亡男友逃逸被捕",
-      "onboard_time": 1751356581,
-      "rank": 12,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 777324,
       "num": 345925,
       "word": "女子腿痒了2个月查出肝癌",
@@ -185,6 +193,14 @@
       "onboard_time": 1751340740,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 725232,
+      "num": 725232,
+      "word": "虐猫考生上岸失败系道德品行等问题",
+      "onboard_time": 1751355742,
+      "rank": 40,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 723104,
@@ -241,14 +257,6 @@
       "onboard_time": 1751279121,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 647421,
-      "num": 344863,
-      "word": "那英说龚俊经纪人够差劲的",
-      "onboard_time": 1751357840,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 637935,
@@ -329,14 +337,6 @@
       "onboard_time": 1751331680,
       "rank": 5,
       "category": "舆论监督,科学科普"
-    },
-    {
-      "raw_hot": 518276,
-      "num": 518276,
-      "word": "虐猫考生上岸失败系道德品行等问题",
-      "onboard_time": 1751355742,
-      "rank": 40,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 508410,
@@ -635,6 +635,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 286524,
+      "num": 347923,
+      "word": "泰国总理回应被停职",
+      "onboard_time": 1751357542,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 283131,
       "num": 320792,
       "word": "fx合体",
@@ -705,6 +713,14 @@
       "onboard_time": 1751288303,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 238055,
+      "num": 255260,
+      "word": "宋佳是杨天真带的第1个艺人",
+      "onboard_time": 1751358863,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 237582,
@@ -851,6 +867,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 200585,
+      "num": 250614,
+      "word": "时代少年团大连演唱会酒店涨价88倍",
+      "onboard_time": 1751358924,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 198444,
       "num": 289646,
       "word": "杨紫何惟芳首日V榜破9",
@@ -875,6 +899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 193294,
+      "num": 250381,
+      "word": "肖战藏海上半年最热角色",
+      "onboard_time": 1751358682,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192420,
       "num": 192420,
       "word": "曼城3比4利雅得新月",
@@ -888,14 +920,6 @@
       "word": "冬去春来开机",
       "onboard_time": 1751347041,
       "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 189649,
-      "num": 250381,
-      "word": "肖战藏海上半年最热角色",
-      "onboard_time": 1751358682,
-      "rank": 25,
       "category": "剧集"
     },
     {
@@ -915,12 +939,12 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 185102,
-      "num": 347923,
-      "word": "泰国总理回应被停职",
-      "onboard_time": 1751357542,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 184985,
+      "num": 184985,
+      "word": "5岁女孩坠海父亲托举其近20分钟",
+      "onboard_time": 1751358563,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 181125,
@@ -1011,6 +1035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166976,
+      "num": 166976,
+      "word": "特斯拉",
+      "onboard_time": 1751359102,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 162372,
       "num": 202699,
       "word": "鞠婧祎工作室 会剪",
@@ -1059,14 +1091,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 156909,
-      "num": 156909,
-      "word": "5岁女孩坠海父亲托举其近20分钟",
-      "onboard_time": 1751358563,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 156810,
       "num": 156810,
       "word": "藿香正气水泡脚",
@@ -1107,6 +1131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153080,
+      "num": 192646,
+      "word": "锦绣芳华云合",
+      "onboard_time": 1751359522,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152676,
       "num": 152676,
       "word": "金白开代表作",
@@ -1137,6 +1169,14 @@
       "onboard_time": 1751346142,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148905,
+      "num": 189294,
+      "word": "孟子义别担心刘学义会翻面",
+      "onboard_time": 1751359161,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 147885,
@@ -1193,6 +1233,14 @@
       "onboard_time": 1751329282,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142030,
+      "num": 142030,
+      "word": "林心如排队为女儿买labubu",
+      "onboard_time": 1751359582,
+      "rank": 37,
+      "category": "艺人,休闲"
     },
     {
       "raw_hot": 141534,
@@ -1281,6 +1329,22 @@
       "onboard_time": 1751348781,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134483,
+      "num": 134483,
+      "word": "小伙彩票守号1年就中奖1030万元",
+      "onboard_time": 1751358563,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134165,
+      "num": 134165,
+      "word": "第四周最佳选手一诺",
+      "onboard_time": 1751359582,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 133700,
@@ -1411,14 +1475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124772,
-      "num": 124772,
-      "word": "小伙彩票守号1年就中奖1030万元",
-      "onboard_time": 1751358563,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124010,
       "num": 124010,
       "word": "沈佳润音色",
@@ -1515,14 +1571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 116838,
-      "num": 127037,
-      "word": "宋佳是杨天真带的第1个艺人",
-      "onboard_time": 1751358863,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 116202,
       "num": 116202,
       "word": "王京回应",
@@ -1553,6 +1601,14 @@
       "onboard_time": 1751288963,
       "rank": 26,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 112513,
+      "num": 112513,
+      "word": "公积金4大隐藏功能",
+      "onboard_time": 1751359762,
+      "rank": 47,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 112133,
@@ -1617,14 +1673,6 @@
       "onboard_time": 1751331263,
       "rank": 44,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 106294,
-      "num": 106294,
-      "word": "时代少年团大连演唱会酒店涨价88倍",
-      "onboard_time": 1751358924,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 104240,
@@ -2115,6 +2163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 48347,
+      "num": 135286,
+      "word": "阿条姐发博告别六月",
+      "onboard_time": 1751359644,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 46281,
       "num": 60934,
       "word": "杨紫回应刘诗诗",
@@ -2347,6 +2403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 22755,
+      "num": 185750,
+      "word": "飞机速降7000米乘客心跳超百双耳痛",
+      "onboard_time": 1751359342,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22517,
       "num": 506811,
       "word": "中国科技创新主打一个脑洞大开",
@@ -2369,6 +2433,14 @@
       "onboard_time": 1751310254,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 21479,
+      "num": 264128,
+      "word": "部分机场自行加码充电宝安检",
+      "onboard_time": 1751359281,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20908,
