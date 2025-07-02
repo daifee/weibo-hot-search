@@ -1,0 +1,410 @@
+{
+  "runTime": 1751460810811,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 896371,
+        "num": 1143419,
+        "word": "长月烬明",
+        "onboard_time": 1751452461,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 820509,
+        "num": 820509,
+        "word": "南航伤人事件已移交上级刑侦部门",
+        "onboard_time": 1751455942,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23722,
+        "num": 617382,
+        "word": "第三届北京网络视听艺术大会",
+        "onboard_time": 1751421979,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 596969,
+        "num": 596969,
+        "word": "王楚然 纤体瓶喝了一个月也没瘦",
+        "onboard_time": 1751454082,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 568217,
+        "num": 568217,
+        "word": "吃荔枝不看的人有福了",
+        "onboard_time": 1751456542,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 502597,
+        "num": 502597,
+        "word": "12306称走换乘到出发层就餐不可行",
+        "onboard_time": 1751454442,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 387904,
+        "num": 387904,
+        "word": "胡一天自曝很便宜求戏拍",
+        "onboard_time": 1751451442,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 364312,
+        "num": 364312,
+        "word": "wakuku",
+        "onboard_time": 1751456661,
+        "rank": 7,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 123447,
+        "num": 362000,
+        "word": "外交部回应蜜雪冰城霸王茶姬海外走红",
+        "onboard_time": 1751445024,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 136936,
+        "num": 347356,
+        "word": "高考671分乡村女孩回应",
+        "onboard_time": 1751456843,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 585423,
+        "num": 339800,
+        "word": "家有儿女小雨变暴雨了",
+        "onboard_time": 1751442801,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 525196,
+        "num": 331861,
+        "word": "王楚然求助治寻麻疹的方法",
+        "onboard_time": 1751459063,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 474733,
+        "num": 322783,
+        "word": "1979年魔童超生",
+        "onboard_time": 1751452042,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392435,
+        "num": 313884,
+        "word": "陈泽希被曝多次出轨",
+        "onboard_time": 1751455462,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99722,
+        "num": 300918,
+        "word": "中国机甲真的来了",
+        "onboard_time": 1751458043,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 296299,
+        "num": 296299,
+        "word": "惠利曝新恋情后韩素希口碑反转",
+        "onboard_time": 1751456782,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205062,
+        "num": 296035,
+        "word": "杨紫何惟芳酸涩感演技",
+        "onboard_time": 1751459243,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146494,
+        "num": 293789,
+        "word": "刘亦菲林志颖蒋欣同框旧照",
+        "onboard_time": 1751456962,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 255637,
+        "num": 292065,
+        "word": "海拉尔地震",
+        "onboard_time": 1751459363,
+        "rank": 18,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 166338,
+        "num": 291866,
+        "word": "荣耀李健折学家",
+        "onboard_time": 1751459782,
+        "rank": 19,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 606470,
+        "num": 289668,
+        "word": "南航吉林分公司疑突发伤人事件",
+        "onboard_time": 1751453183,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317846,
+        "num": 289026,
+        "word": "南航",
+        "onboard_time": 1751448623,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287692,
+        "num": 287692,
+        "word": "韩安冉禁止路人拍优米",
+        "onboard_time": 1751456421,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 259232,
+        "num": 259232,
+        "word": "娱乐圈 更新换代",
+        "onboard_time": 1751456242,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228624,
+        "num": 228624,
+        "word": "冻香蕉",
+        "onboard_time": 1751455582,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 208326,
+        "num": 208326,
+        "word": "63岁外婆旧衣爆改孙女穿搭",
+        "onboard_time": 1751460681,
+        "rank": 25,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 201708,
+        "num": 201708,
+        "word": "孙恩盛店铺关联公司已经营异常",
+        "onboard_time": 1751452461,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201143,
+        "num": 201143,
+        "word": "锦绣芳华宣发",
+        "onboard_time": 1751458222,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174324,
+        "num": 174324,
+        "word": "雷军直播",
+        "onboard_time": 1751460563,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 29454,
+        "num": 173763,
+        "word": "公交站座椅为3D广告让位引发热议",
+        "onboard_time": 1751460142,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193596,
+        "num": 173738,
+        "word": "董卿生病但帅",
+        "onboard_time": 1751460142,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173625,
+        "num": 173625,
+        "word": "为什么体检无异常发现却是晚期",
+        "onboard_time": 1751455222,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 166548,
+        "num": 166548,
+        "word": "赵今麦碎冰蓝玫瑰",
+        "onboard_time": 1751460083,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155312,
+        "num": 155312,
+        "word": "教育局回应受资助学生家里装修豪华",
+        "onboard_time": 1751451023,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121460,
+        "num": 121460,
+        "word": "上海88元和16888元酒店的区别",
+        "onboard_time": 1751452461,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117339,
+        "num": 117339,
+        "word": "以法之名",
+        "onboard_time": 1751453422,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117321,
+        "num": 117321,
+        "word": "白鹿维权进度",
+        "onboard_time": 1751460623,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114586,
+        "num": 114586,
+        "word": "羽衣甘蓝没想到自己因奶茶火了",
+        "onboard_time": 1751439861,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73334,
+        "num": 112279,
+        "word": "柴怼怼等账号被关闭",
+        "onboard_time": 1751457143,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49817,
+        "num": 111300,
+        "word": "苹果折叠iPhone进入P1原型阶段",
+        "onboard_time": 1751456062,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 130495,
+        "num": 111295,
+        "word": "多方回应南航分公司疑发伤人事件",
+        "onboard_time": 1751454620,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111281,
+        "num": 111281,
+        "word": "王嘉尔反驳印度主持人",
+        "onboard_time": 1751460443,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107147,
+        "num": 107147,
+        "word": "全员加速中画画的baby",
+        "onboard_time": 1751457622,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103882,
+        "num": 103882,
+        "word": "虞书欣给多少人送过wakuku",
+        "onboard_time": 1751450362,
+        "rank": 43,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 98741,
+        "num": 98741,
+        "word": "吴谨言美得不知天地为何物",
+        "onboard_time": 1751460563,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 97184,
+        "num": 97184,
+        "word": "含金量这么高的第一拿了三个",
+        "onboard_time": 1751459782,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90828,
+        "num": 90828,
+        "word": "张凌赫这一秒过火军装",
+        "onboard_time": 1751456843,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88512,
+        "num": 88512,
+        "word": "云南大理出现罕见鱼阵",
+        "onboard_time": 1751456962,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81486,
+        "num": 81486,
+        "word": "为什么女演员可以长红",
+        "onboard_time": 1751453301,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81335,
+        "num": 81335,
+        "word": "上海烤肉价格",
+        "onboard_time": 1751459782,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#青年的理想信念关乎国家未来#"
+    }
+  }
+}
