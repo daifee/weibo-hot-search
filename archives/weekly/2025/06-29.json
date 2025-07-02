@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751446217887,
+  "endTime": 1751448656256,
   "band_list": [
     {
       "raw_hot": 3569605,
@@ -1187,6 +1187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 644633,
+      "num": 1103141,
+      "word": "女儿黑救护车上死亡父母讲述经过",
+      "onboard_time": 1751443343,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 643490,
       "num": 643490,
       "word": "杨幂挂了labubu",
@@ -1337,6 +1345,14 @@
       "onboard_time": 1751200941,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 609203,
+      "num": 225768,
+      "word": "秦昊又胖回去了",
+      "onboard_time": 1751446642,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 607579,
@@ -2571,6 +2587,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 349903,
+      "num": 178023,
+      "word": "原来幂姐也会吃十几块的普通餐",
+      "onboard_time": 1751447602,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 346810,
       "num": 310105,
       "word": "李惠利前男友和现男友",
@@ -2704,6 +2728,14 @@
       "word": "男子杀害前妻12岁儿子后自杀身亡",
       "onboard_time": 1751376685,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 329548,
+      "num": 329548,
+      "word": "一个3C认证至少3个月花费两三万",
+      "onboard_time": 1751434342,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -2977,6 +3009,14 @@
       "onboard_time": 1751202802,
       "rank": 26,
       "category": "演出,时尚"
+    },
+    {
+      "raw_hot": 299748,
+      "num": 225471,
+      "word": "赵文卓祝贺女儿高中毕业获最高奖",
+      "onboard_time": 1751446524,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 299551,
@@ -3435,11 +3475,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 260889,
-      "num": 280758,
-      "word": "一个3C认证至少3个月花费两三万",
-      "onboard_time": 1751434342,
-      "rank": 44,
+      "raw_hot": 260426,
+      "num": 260426,
+      "word": "莆田一受资助学生家里装修豪华引质疑",
+      "onboard_time": 1751446821,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -3611,14 +3651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 247933,
-      "num": 247933,
-      "word": "女儿黑救护车上死亡父母讲述经过",
-      "onboard_time": 1751443343,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 246905,
       "num": 285604,
       "word": "设立党中央决策议事协调机构",
@@ -3779,6 +3811,14 @@
       "category": "母婴育儿,民生新闻"
     },
     {
+      "raw_hot": 233517,
+      "num": 233517,
+      "word": "剧还在拍番外就先播了",
+      "onboard_time": 1751445743,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 233144,
       "num": 446896,
       "word": "鞠婧祎这是王一栩说的百变小樱吗",
@@ -3891,6 +3931,14 @@
       "category": "数码,国际时政"
     },
     {
+      "raw_hot": 227217,
+      "num": 227217,
+      "word": "邓紫棋献唱枭起青壤OST",
+      "onboard_time": 1751447122,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 227084,
       "num": 227084,
       "word": "王一栩你给张云龙喂了什么",
@@ -3969,6 +4017,14 @@
       "onboard_time": 1751430144,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 222625,
+      "num": 222625,
+      "word": "苦瓜饮品外卖量飙升11倍",
+      "onboard_time": 1751447242,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 222588,
@@ -4433,14 +4489,6 @@
       "onboard_time": 1751280742,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 203905,
-      "num": 203905,
-      "word": "剧还在拍番外就先播了",
-      "onboard_time": 1751445743,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 203730,
@@ -5459,6 +5507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176114,
+      "num": 176114,
+      "word": "外交部回应蜜雪冰城霸王茶姬海外走红",
+      "onboard_time": 1751445024,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 176030,
       "num": 176030,
       "word": "以法之名1席6吃全是小九九",
@@ -5707,6 +5763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172510,
+      "num": 172510,
+      "word": "婚前协议这段看的窒息了",
+      "onboard_time": 1751446460,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172500,
       "num": 172500,
       "word": "爱豆有人下海有人上山",
@@ -5745,6 +5809,14 @@
       "onboard_time": 1751367982,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171795,
+      "num": 171795,
+      "word": "胡一天阴湿男鬼味",
+      "onboard_time": 1751447421,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 171666,
@@ -6273,6 +6345,14 @@
       "onboard_time": 1751250740,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160507,
+      "num": 160507,
+      "word": "陈哲远林一邀你共赴北京副中心",
+      "onboard_time": 1751446942,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 159961,
@@ -7059,14 +7139,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 145102,
-      "num": 145102,
-      "word": "外交部回应蜜雪冰城霸王茶姬海外走红",
-      "onboard_time": 1751445024,
-      "rank": 33,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 145003,
       "num": 278436,
       "word": "女子带患病儿子跑车有人偷留1万元",
@@ -7275,6 +7347,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 141812,
+      "num": 144654,
+      "word": "大学校园向公众开放咋就这么难",
+      "onboard_time": 1751441902,
+      "rank": 34,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 141756,
       "num": 257343,
       "word": "我和angelababy唯一的共同点",
@@ -7313,6 +7393,14 @@
       "onboard_time": 1751255122,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 141382,
+      "num": 141382,
+      "word": "陈楚生像疯了一样",
+      "onboard_time": 1751448262,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 141302,
@@ -7739,14 +7827,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 134742,
-      "num": 144654,
-      "word": "大学校园向公众开放咋就这么难",
-      "onboard_time": 1751441902,
-      "rank": 34,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 134660,
       "num": 190594,
       "word": "几十块的万能遥控器什么闸都能开",
@@ -8075,12 +8155,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131003,
+      "num": 131003,
+      "word": "在世老人坐新棺材被16力士抬回家",
+      "onboard_time": 1751447060,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130959,
       "num": 130959,
       "word": "Red新浪扫楼",
       "onboard_time": 1751381844,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130845,
+      "num": 130845,
+      "word": "六耳猕咪",
+      "onboard_time": 1751447482,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 130742,
@@ -8379,6 +8475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127579,
+      "num": 127579,
+      "word": "李一桐演戏刘宇宁是不是插手了",
+      "onboard_time": 1751447781,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127520,
       "num": 127520,
       "word": "黄圣依爸爸给了妈妈百分情绪价值",
@@ -8555,6 +8659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124624,
+      "num": 124624,
+      "word": "歼20换雷达了",
+      "onboard_time": 1751446101,
+      "rank": 40,
+      "category": "军事"
+    },
+    {
       "raw_hot": 124245,
       "num": 124245,
       "word": "第一次见把自己搓成labubu的",
@@ -8705,6 +8817,14 @@
       "onboard_time": 1751363482,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 121722,
+      "num": 121722,
+      "word": "前有武艺拿蛋糕后有杨幂抓麻将",
+      "onboard_time": 1751448142,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 121670,
@@ -8881,14 +9001,6 @@
       "onboard_time": 1751184982,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 119672,
-      "num": 119672,
-      "word": "歼20换雷达了",
-      "onboard_time": 1751446101,
-      "rank": 40,
-      "category": "军事"
     },
     {
       "raw_hot": 119597,
@@ -9161,6 +9273,14 @@
       "onboard_time": 1751124384,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115611,
+      "num": 115611,
+      "word": "新说唱2025",
+      "onboard_time": 1751447242,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 115586,
@@ -9667,6 +9787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108147,
+      "num": 108147,
+      "word": "杨幂今天也太忙了吧",
+      "onboard_time": 1751448262,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108114,
       "num": 108114,
       "word": "伊朗400公斤浓缩铀去哪了",
@@ -9721,6 +9849,14 @@
       "onboard_time": 1751181020,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107333,
+      "num": 107333,
+      "word": "南航",
+      "onboard_time": 1751448623,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107168,
@@ -9833,6 +9969,14 @@
       "onboard_time": 1751251940,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105311,
+      "num": 178876,
+      "word": "初二学生聚会饮酒后溺亡谁担责",
+      "onboard_time": 1751448082,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105285,
@@ -10411,6 +10555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89649,
+      "num": 222668,
+      "word": "手受伤要求患者查前列腺医生停职",
+      "onboard_time": 1751446882,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89510,
       "num": 89510,
       "word": "育儿嫂使劲摇晃6个月婴儿疑泄愤",
@@ -10705,6 +10857,14 @@
       "onboard_time": 1751238679,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 77899,
+      "num": 114087,
+      "word": "一诺边程相约打游戏",
+      "onboard_time": 1751447841,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 77496,
@@ -11971,6 +12131,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 36733,
+      "num": 141788,
+      "word": "被石晶美学惊艳到了",
+      "onboard_time": 1751447060,
+      "rank": 27,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 36491,
       "num": 36491,
       "word": "汪苏泷罗曼城魔法回到24小时前",
@@ -12017,6 +12185,14 @@
       "onboard_time": 1751412258,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35588,
+      "num": 141583,
+      "word": "机甲驾驶员怎么考证",
+      "onboard_time": 1751446342,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 35585,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1751448656256,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 644633,
+        "num": 1103141,
+        "word": "女儿黑救护车上死亡父母讲述经过",
+        "onboard_time": 1751443343,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 485445,
+        "num": 485445,
+        "word": "羽衣甘蓝没想到自己因奶茶火了",
+        "onboard_time": 1751439861,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24759,
+        "num": 366994,
+        "word": "第三届北京网络视听艺术大会",
+        "onboard_time": 1751421979,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 536351,
+        "num": 363642,
+        "word": "邱泽唐嫣 顶级过肺",
+        "onboard_time": 1751439141,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 329548,
+        "num": 329548,
+        "word": "一个3C认证至少3个月花费两三万",
+        "onboard_time": 1751434342,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275976,
+        "num": 275976,
+        "word": "何老师注定无法体面的老去",
+        "onboard_time": 1751430983,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264045,
+        "num": 264045,
+        "word": "8月起现金买黄金珠宝超10万需上报",
+        "onboard_time": 1751439681,
+        "rank": 6,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 260426,
+        "num": 260426,
+        "word": "莆田一受资助学生家里装修豪华引质疑",
+        "onboard_time": 1751446821,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233517,
+        "num": 233517,
+        "word": "剧还在拍番外就先播了",
+        "onboard_time": 1751445743,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227217,
+        "num": 227217,
+        "word": "邓紫棋献唱枭起青壤OST",
+        "onboard_time": 1751447122,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1074371,
+        "num": 226371,
+        "word": "家有儿女小雨变暴雨了",
+        "onboard_time": 1751442801,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 609203,
+        "num": 225768,
+        "word": "秦昊又胖回去了",
+        "onboard_time": 1751446642,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299748,
+        "num": 225471,
+        "word": "赵文卓祝贺女儿高中毕业获最高奖",
+        "onboard_time": 1751446524,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222754,
+        "num": 222754,
+        "word": "员工未休年假获赔2.9万余元",
+        "onboard_time": 1751444544,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89649,
+        "num": 222668,
+        "word": "手受伤要求患者查前列腺医生停职",
+        "onboard_time": 1751446882,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230575,
+        "num": 222654,
+        "word": "郭涛儿子高中毕业",
+        "onboard_time": 1751443943,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222625,
+        "num": 222625,
+        "word": "苦瓜饮品外卖量飙升11倍",
+        "onboard_time": 1751447242,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204496,
+        "num": 204496,
+        "word": "韩国或将对中国游客个人免签",
+        "onboard_time": 1751442682,
+        "rank": 17,
+        "category": "国际时政,国际时政"
+      },
+      {
+        "raw_hot": 184123,
+        "num": 184123,
+        "word": "北京 回南天",
+        "onboard_time": 1751439442,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105311,
+        "num": 178876,
+        "word": "初二学生聚会饮酒后溺亡谁担责",
+        "onboard_time": 1751448082,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349903,
+        "num": 178023,
+        "word": "原来幂姐也会吃十几块的普通餐",
+        "onboard_time": 1751447602,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176114,
+        "num": 176114,
+        "word": "外交部回应蜜雪冰城霸王茶姬海外走红",
+        "onboard_time": 1751445024,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 172510,
+        "num": 172510,
+        "word": "婚前协议这段看的窒息了",
+        "onboard_time": 1751446460,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171795,
+        "num": 171795,
+        "word": "胡一天阴湿男鬼味",
+        "onboard_time": 1751447421,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160507,
+        "num": 160507,
+        "word": "陈哲远林一邀你共赴北京副中心",
+        "onboard_time": 1751446942,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145164,
+        "num": 145164,
+        "word": "1千多万买公寓入住前夕被水淹",
+        "onboard_time": 1751438001,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144300,
+        "num": 144300,
+        "word": "黑救护车上死亡停车吃饭耽误半小时",
+        "onboard_time": 1751431643,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36733,
+        "num": 141788,
+        "word": "被石晶美学惊艳到了",
+        "onboard_time": 1751447060,
+        "rank": 27,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 35588,
+        "num": 141583,
+        "word": "机甲驾驶员怎么考证",
+        "onboard_time": 1751446342,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141382,
+        "num": 141382,
+        "word": "陈楚生像疯了一样",
+        "onboard_time": 1751448262,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141812,
+        "num": 136976,
+        "word": "大学校园向公众开放咋就这么难",
+        "onboard_time": 1751441902,
+        "rank": 30,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 131003,
+        "num": 131003,
+        "word": "在世老人坐新棺材被16力士抬回家",
+        "onboard_time": 1751447060,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130845,
+        "num": 130845,
+        "word": "六耳猕咪",
+        "onboard_time": 1751447482,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127579,
+        "num": 127579,
+        "word": "李一桐演戏刘宇宁是不是插手了",
+        "onboard_time": 1751447781,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124624,
+        "num": 124624,
+        "word": "歼20换雷达了",
+        "onboard_time": 1751446101,
+        "rank": 34,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 121722,
+        "num": 121722,
+        "word": "前有武艺拿蛋糕后有杨幂抓麻将",
+        "onboard_time": 1751448142,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120728,
+        "num": 120728,
+        "word": "韩国男性流行相亲日本女性",
+        "onboard_time": 1751444242,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 117490,
+        "num": 117490,
+        "word": "拍7天短剧后男演员继续兼职陪爬泰山",
+        "onboard_time": 1751439442,
+        "rank": 37,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 115611,
+        "num": 115611,
+        "word": "新说唱2025",
+        "onboard_time": 1751447242,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77899,
+        "num": 114087,
+        "word": "一诺边程相约打游戏",
+        "onboard_time": 1751447841,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113884,
+        "num": 113884,
+        "word": "南京大屠杀幸存者照片墙的灯又熄2盏",
+        "onboard_time": 1751440461,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 109939,
+        "num": 109939,
+        "word": "见过最邪门的招人要求",
+        "onboard_time": 1751445502,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109185,
+        "num": 109185,
+        "word": "王灿吃面用Labubu挡汤汁",
+        "onboard_time": 1751427802,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108147,
+        "num": 108147,
+        "word": "杨幂今天也太忙了吧",
+        "onboard_time": 1751448262,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107333,
+        "num": 107333,
+        "word": "南航",
+        "onboard_time": 1751448623,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106502,
+        "num": 106502,
+        "word": "花少群像的顶级浪漫",
+        "onboard_time": 1751442502,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106269,
+        "num": 106269,
+        "word": "书卷一梦1集剧透17集退婚",
+        "onboard_time": 1751445382,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104104,
+        "num": 104104,
+        "word": "上海交大通报学生疑被校外人员殴打",
+        "onboard_time": 1751436201,
+        "rank": 47,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 98638,
+        "num": 98638,
+        "word": "歌手歌单",
+        "onboard_time": 1751441241,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103330,
+        "num": 98424,
+        "word": "小黄豆前助理曝离职原因",
+        "onboard_time": 1751435361,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动海洋经济高质量发展#"
+    }
+  }
+}
