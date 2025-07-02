@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751430975081,
+  "endTime": 1751431886324,
   "band_list": [
     {
       "raw_hot": 2472851,
@@ -35,6 +35,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 1743131,
+      "num": 343390,
+      "word": "上海交大",
+      "onboard_time": 1751427141,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1652375,
       "num": 534036,
       "word": "孙恩盛 无证驾驶",
@@ -49,14 +57,6 @@
       "onboard_time": 1751380342,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1459566,
-      "num": 343390,
-      "word": "上海交大",
-      "onboard_time": 1751427141,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1429448,
@@ -379,6 +379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 694567,
+      "num": 694567,
+      "word": "蒋欣8部待播剧",
+      "onboard_time": 1751428401,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 692020,
       "num": 692020,
       "word": "郑钦文vs西尼亚科娃",
@@ -417,14 +425,6 @@
       "onboard_time": 1751364201,
       "rank": 21,
       "category": "财经"
-    },
-    {
-      "raw_hot": 678573,
-      "num": 678573,
-      "word": "蒋欣8部待播剧",
-      "onboard_time": 1751428401,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 668536,
@@ -552,6 +552,22 @@
       "word": "孙俪女儿化妆还在压脚背",
       "onboard_time": 1751346802,
       "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 605660,
+      "num": 605660,
+      "word": "关晓彤娜扎欧阳娜娜奢牌公式照",
+      "onboard_time": 1751429962,
+      "rank": 8,
+      "category": "作品衍生,作品衍生"
+    },
+    {
+      "raw_hot": 605129,
+      "num": 299664,
+      "word": "小沈阳发文力挺女儿",
+      "onboard_time": 1751430684,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -795,7 +811,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 436850,
+      "raw_hot": 442889,
       "num": 319628,
       "word": "王灿吃面用Labubu挡汤汁",
       "onboard_time": 1751427802,
@@ -857,6 +873,14 @@
       "onboard_time": 1751342122,
       "rank": 41,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 414350,
+      "num": 396008,
+      "word": "何老师注定无法体面的老去",
+      "onboard_time": 1751430983,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 412261,
@@ -1099,14 +1123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 314193,
-      "num": 314193,
-      "word": "关晓彤娜扎欧阳娜娜奢牌公式照",
-      "onboard_time": 1751429962,
-      "rank": 8,
-      "category": "作品衍生,作品衍生"
-    },
-    {
       "raw_hot": 311691,
       "num": 311691,
       "word": "手伤让查前列腺当事人家属发声",
@@ -1185,6 +1201,14 @@
       "onboard_time": 1751383702,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 295958,
+      "num": 295958,
+      "word": "花少7好接地气",
+      "onboard_time": 1751428401,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 294612,
@@ -1283,6 +1307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 278332,
+      "num": 278332,
+      "word": "上海交大学生与校外人员起冲突",
+      "onboard_time": 1751430863,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 272269,
       "num": 272269,
       "word": "37岁男子糖尿病7年不重视致截肢失明",
@@ -1296,6 +1328,14 @@
       "word": "李人骏以为是饭局结果被做局",
       "onboard_time": 1751345362,
       "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 268128,
+      "num": 268128,
+      "word": "古装剧一个个官宣",
+      "onboard_time": 1751430564,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -1483,6 +1523,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 227564,
+      "num": 227564,
+      "word": "庄周锦麟游梦皮肤",
+      "onboard_time": 1751431404,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 226268,
       "num": 226268,
       "word": "一银行原纪委书记被小三举报",
@@ -1523,12 +1571,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 223297,
-      "num": 223297,
-      "word": "花少7好接地气",
-      "onboard_time": 1751428401,
-      "rank": 37,
-      "category": "综艺"
+      "raw_hot": 223087,
+      "num": 269075,
+      "word": "这个跑男有点难",
+      "onboard_time": 1751430144,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 222354,
@@ -1571,14 +1619,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 216768,
-      "num": 216768,
-      "word": "古装剧一个个官宣",
-      "onboard_time": 1751430564,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 215815,
       "num": 215815,
       "word": "整个英语体系没有比这个更完整的了",
@@ -1609,6 +1649,14 @@
       "onboard_time": 1751344404,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 214155,
+      "num": 214155,
+      "word": "实测瘦肚子巨快的运动",
+      "onboard_time": 1751426060,
+      "rank": 36,
+      "category": "运动健身"
     },
     {
       "raw_hot": 212924,
@@ -1649,14 +1697,6 @@
       "onboard_time": 1751345722,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 208095,
-      "num": 208095,
-      "word": "实测瘦肚子巨快的运动",
-      "onboard_time": 1751426060,
-      "rank": 36,
-      "category": "运动健身"
     },
     {
       "raw_hot": 207245,
@@ -1715,6 +1755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 201536,
+      "num": 201536,
+      "word": "关晓彤官宣欧米茄",
+      "onboard_time": 1751431404,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201454,
       "num": 258950,
       "word": "国产C909身披五星红旗飞出国门",
@@ -1752,14 +1800,6 @@
       "word": "58岁张宇与56岁游鸿明出行被偶遇",
       "onboard_time": 1751423902,
       "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 199205,
-      "num": 199205,
-      "word": "小沈阳发文力挺女儿",
-      "onboard_time": 1751430684,
-      "rank": 28,
       "category": "艺人"
     },
     {
@@ -1891,14 +1931,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 189877,
-      "num": 222360,
-      "word": "这个跑男有点难",
-      "onboard_time": 1751430144,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 189626,
       "num": 174724,
       "word": "李天泽近照",
@@ -1913,6 +1945,14 @@
       "onboard_time": 1751353822,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187743,
+      "num": 187743,
+      "word": "C罗一诺电竞世界杯同框",
+      "onboard_time": 1751431164,
+      "rank": 28,
+      "category": "电竞,体育"
     },
     {
       "raw_hot": 186697,
@@ -2203,12 +2243,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165757,
+      "num": 165757,
+      "word": "五台山将米扔出殿外僧人被劝返回家",
+      "onboard_time": 1751431523,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165155,
       "num": 341155,
       "word": "慢动作看孙颖莎备战训练",
       "onboard_time": 1751372061,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164731,
+      "num": 164731,
+      "word": "张小斐哭了",
+      "onboard_time": 1751431164,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 164404,
@@ -2401,6 +2457,14 @@
       "onboard_time": 1751354481,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150573,
+      "num": 150573,
+      "word": "黑救护车上死亡停车吃饭耽误半小时",
+      "onboard_time": 1751431643,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150561,
@@ -2835,6 +2899,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 132766,
+      "num": 132766,
+      "word": "人生的滞后性",
+      "onboard_time": 1751431343,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 132149,
       "num": 209902,
       "word": "朝雪录每对异性恋都很美味",
@@ -2857,14 +2929,6 @@
       "onboard_time": 1751337320,
       "rank": 40,
       "category": "民生新闻,美食"
-    },
-    {
-      "raw_hot": 132001,
-      "num": 160526,
-      "word": "上海交大学生与校外人员起冲突",
-      "onboard_time": 1751430863,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131759,
@@ -2915,6 +2979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130642,
+      "num": 276625,
+      "word": "古茗吴彦祖",
+      "onboard_time": 1751431164,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130585,
       "num": 134923,
       "word": "猫 穿貂必须开空调",
@@ -2932,11 +3004,19 @@
     },
     {
       "raw_hot": 130530,
-      "num": 288581,
+      "num": 300452,
       "word": "肖战的健康生活选择",
       "onboard_time": 1751429122,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130025,
+      "num": 130025,
+      "word": "柯淳曾在奶茶店做兼职",
+      "onboard_time": 1751431824,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 129645,
@@ -3025,6 +3105,14 @@
       "onboard_time": 1751369723,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 125738,
+      "num": 125738,
+      "word": "为何这么多金店都姓周",
+      "onboard_time": 1751431824,
+      "rank": 48,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 125726,
@@ -3419,6 +3507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 110541,
+      "num": 276003,
+      "word": "鼠头鸭脖涉事公司将决议解散",
+      "onboard_time": 1751430744,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109936,
       "num": 109936,
       "word": "好小众的起号方法",
@@ -3731,6 +3827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90568,
+      "num": 142590,
+      "word": "勇士骑士或询问詹姆斯交易情况",
+      "onboard_time": 1751430983,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88860,
       "num": 117478,
       "word": "五十公里桃花坞",
@@ -3777,6 +3881,14 @@
       "onboard_time": 1751277264,
       "rank": 35,
       "category": "幽默,运动健身"
+    },
+    {
+      "raw_hot": 87874,
+      "num": 297058,
+      "word": "民航局答机场被拦截充电宝流向何处",
+      "onboard_time": 1751430684,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87616,
@@ -4099,14 +4211,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 66532,
-      "num": 199649,
-      "word": "民航局答机场被拦截充电宝流向何处",
-      "onboard_time": 1751430684,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 66393,
       "num": 194060,
       "word": "汪苏泷视角的罗曼城浪漫时刻",
@@ -4403,6 +4507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42933,
+      "num": 182991,
+      "word": "女装店主回应夏装为何越来越丑",
+      "onboard_time": 1751431284,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42658,
       "num": 138420,
       "word": "校方回应学生跑步时与男童家长冲突",
@@ -4513,14 +4625,6 @@
       "onboard_time": 1751308155,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 34671,
-      "num": 201627,
-      "word": "鼠头鸭脖涉事公司将决议解散",
-      "onboard_time": 1751430744,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 34269,
@@ -4652,7 +4756,7 @@
     },
     {
       "raw_hot": 25007,
-      "num": 596993,
+      "num": 632877,
       "word": "万千气象看山西",
       "onboard_time": 1751294963,
       "rank": 2,
