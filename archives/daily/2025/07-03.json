@@ -1,6 +1,6 @@
 {
   "startTime": 1751473999400,
-  "endTime": 1751481411107,
+  "endTime": 1751482246181,
   "band_list": [
     {
       "raw_hot": 969248,
@@ -483,8 +483,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21055,
-      "num": 21055,
+      "raw_hot": 24194,
+      "num": 24194,
       "word": "梓渝新短剧预告",
       "onboard_time": 1751481016,
       "rank": 41,
@@ -497,6 +497,22 @@
       "onboard_time": 1751479936,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 17119,
+      "num": 18579,
+      "word": "韩庚卢靖姗参加好友婚礼",
+      "onboard_time": 1751482096,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 16807,
+      "num": 18565,
+      "word": "明园集团李松坚陷入被儿子曝光风波",
+      "onboard_time": 1751481434,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13361,
