@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751431886324,
+  "endTime": 1751434158183,
   "band_list": [
     {
       "raw_hot": 2472851,
@@ -155,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1004836,
+      "num": 491245,
+      "word": "何老师注定无法体面的老去",
+      "onboard_time": 1751430983,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 998662,
       "num": 488577,
       "word": "离职半年了前领导还在使唤我",
@@ -192,6 +200,14 @@
       "word": "广州交警通报3死3伤交通事故",
       "onboard_time": 1751350462,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 912340,
+      "num": 1145974,
+      "word": "黑救护车上死亡停车吃饭耽误半小时",
+      "onboard_time": 1751431643,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -443,6 +459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 660143,
+      "num": 324287,
+      "word": "小沈阳发文力挺女儿",
+      "onboard_time": 1751430684,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 656176,
       "num": 656176,
       "word": "4个月大婴儿遭月嫂整晚暴力喂奶",
@@ -563,11 +587,11 @@
       "category": "作品衍生,作品衍生"
     },
     {
-      "raw_hot": 605129,
-      "num": 299664,
-      "word": "小沈阳发文力挺女儿",
-      "onboard_time": 1751430684,
-      "rank": 28,
+      "raw_hot": 601022,
+      "num": 311598,
+      "word": "麦琳承认短视频模仿并致歉",
+      "onboard_time": 1751433623,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -649,6 +673,14 @@
       "onboard_time": 1751339541,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 536512,
+      "num": 305848,
+      "word": "马云11年前说的话兑现了",
+      "onboard_time": 1751431885,
+      "rank": 13,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 534927,
@@ -745,6 +777,14 @@
       "onboard_time": 1751422219,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 481771,
+      "num": 481771,
+      "word": "上海交大学生与校外人员起冲突",
+      "onboard_time": 1751430863,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 481210,
@@ -851,6 +891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 419152,
+      "num": 419152,
+      "word": "五台山将米扔出殿外僧人被劝返回家",
+      "onboard_time": 1751431523,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 418277,
       "num": 327344,
       "word": "者来女马甲",
@@ -873,14 +921,6 @@
       "onboard_time": 1751342122,
       "rank": 41,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 414350,
-      "num": 396008,
-      "word": "何老师注定无法体面的老去",
-      "onboard_time": 1751430983,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 412261,
@@ -1057,6 +1097,14 @@
       "onboard_time": 1751355501,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 335521,
+      "num": 335521,
+      "word": "为何这么多金店都姓周",
+      "onboard_time": 1751431824,
+      "rank": 48,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 333760,
@@ -1305,14 +1353,6 @@
       "onboard_time": 1751351540,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 278332,
-      "num": 278332,
-      "word": "上海交大学生与校外人员起冲突",
-      "onboard_time": 1751430863,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 272269,
@@ -1659,6 +1699,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 213403,
+      "num": 213403,
+      "word": "以法之名 剧情拖沓",
+      "onboard_time": 1751432484,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212924,
       "num": 212924,
       "word": "白玉兰奖金",
@@ -1864,6 +1912,14 @@
       "word": "花儿与少年",
       "onboard_time": 1751376024,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 196176,
+      "num": 196176,
+      "word": "密室大逃脱",
+      "onboard_time": 1751433023,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -2075,6 +2131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175461,
+      "num": 175461,
+      "word": "妈妈带厌学儿子送外卖几小时治好了",
+      "onboard_time": 1751433083,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175240,
       "num": 232694,
       "word": "锦绣芳华云合",
@@ -2113,6 +2177,14 @@
       "onboard_time": 1751412018,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 173637,
+      "num": 173637,
+      "word": "桃子已经离谱到用吸管喝了",
+      "onboard_time": 1751432724,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 173276,
@@ -2243,14 +2315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 165757,
-      "num": 165757,
-      "word": "五台山将米扔出殿外僧人被劝返回家",
-      "onboard_time": 1751431523,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 165155,
       "num": 341155,
       "word": "慢动作看孙颖莎备战训练",
@@ -2267,12 +2331,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 164623,
+      "num": 164623,
+      "word": "杨紫锦绣芳华收视纪录",
+      "onboard_time": 1751433144,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164404,
       "num": 289705,
       "word": "书卷一梦热度",
       "onboard_time": 1751413038,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164227,
+      "num": 288423,
+      "word": "金莎陪孙丞潇拍戏",
+      "onboard_time": 1751433261,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 163190,
@@ -2361,6 +2441,14 @@
       "onboard_time": 1751350581,
       "rank": 36,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 160670,
+      "num": 276003,
+      "word": "鼠头鸭脖涉事公司将决议解散",
+      "onboard_time": 1751430744,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159961,
@@ -2459,14 +2547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 150573,
-      "num": 150573,
-      "word": "黑救护车上死亡停车吃饭耽误半小时",
-      "onboard_time": 1751431643,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 150561,
       "num": 150561,
       "word": "无名之辈 荒诞",
@@ -2545,6 +2625,14 @@
       "onboard_time": 1751351181,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146728,
+      "num": 146728,
+      "word": "孙颖莎王楚钦比赛",
+      "onboard_time": 1751432484,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 146319,
@@ -2980,7 +3068,7 @@
     },
     {
       "raw_hot": 130642,
-      "num": 276625,
+      "num": 281987,
       "word": "古茗吴彦祖",
       "onboard_time": 1751431164,
       "rank": 18,
@@ -3017,6 +3105,14 @@
       "onboard_time": 1751431824,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129788,
+      "num": 129788,
+      "word": "健身完发现手机代偿了",
+      "onboard_time": 1751433562,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 129645,
@@ -3107,14 +3203,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 125738,
-      "num": 125738,
-      "word": "为何这么多金店都姓周",
-      "onboard_time": 1751431824,
-      "rank": 48,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 125726,
       "num": 125726,
       "word": "国乒WTT美国大满贯参赛名单",
@@ -3131,12 +3219,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124791,
+      "num": 124791,
+      "word": "李泰容还回来当爱豆吗",
+      "onboard_time": 1751433023,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124010,
       "num": 124010,
       "word": "沈佳润音色",
       "onboard_time": 1751351842,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123013,
+      "num": 123013,
+      "word": "王楚钦美国大满贯见",
+      "onboard_time": 1751433682,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 122846,
+      "num": 293356,
+      "word": "淘宝闪购杨幂李现",
+      "onboard_time": 1751432484,
+      "rank": 14,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 122770,
@@ -3185,6 +3297,14 @@
       "onboard_time": 1751375064,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121413,
+      "num": 121413,
+      "word": "日本男子委托妻子杀死自己",
+      "onboard_time": 1751433923,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 121137,
@@ -3315,12 +3435,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 118187,
+      "num": 118187,
+      "word": "深圳卫健委",
+      "onboard_time": 1751433261,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118172,
       "num": 130552,
       "word": "王诗玥柳鑫宇正式回归",
       "onboard_time": 1751366781,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117874,
+      "num": 117874,
+      "word": "艺术家回应被小S二女儿参考",
+      "onboard_time": 1751434043,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 117275,
@@ -3427,12 +3563,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 113029,
+      "num": 113029,
+      "word": "光与夜之恋",
+      "onboard_time": 1751432424,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 112748,
       "num": 112748,
       "word": "夏目友人帐",
       "onboard_time": 1751361981,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 112517,
+      "num": 114229,
+      "word": "王欣瑜回应陈冠希观战称非常激动",
+      "onboard_time": 1751432903,
+      "rank": 44,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 112513,
@@ -3507,14 +3659,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 110541,
-      "num": 276003,
-      "word": "鼠头鸭脖涉事公司将决议解散",
-      "onboard_time": 1751430744,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 109936,
       "num": 109936,
       "word": "好小众的起号方法",
@@ -3553,6 +3697,14 @@
       "onboard_time": 1751362224,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 108449,
+      "num": 108449,
+      "word": "古人炫技文物最薄处仅0.2毫米",
+      "onboard_time": 1751434043,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108330,
@@ -4267,6 +4419,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 62285,
+      "num": 122125,
+      "word": "柯南M28主题曲一响纯爱登场",
+      "onboard_time": 1751431885,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 61890,
       "num": 146501,
       "word": "多特蒙德2比1蒙特雷",
@@ -4296,6 +4456,14 @@
       "word": "月嫂在雇主家工作时心梗无人担责",
       "onboard_time": 1751397074,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59659,
+      "num": 271502,
+      "word": "牛约堡多个门店食材裸露蟑螂横行",
+      "onboard_time": 1751433743,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -4521,6 +4689,14 @@
       "onboard_time": 1751384483,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42526,
+      "num": 275931,
+      "word": "解限机全球解锁",
+      "onboard_time": 1751432844,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 42515,

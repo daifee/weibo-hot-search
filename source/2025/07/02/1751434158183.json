@@ -1,0 +1,410 @@
+{
+  "runTime": 1751434158183,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 912340,
+        "num": 1145974,
+        "word": "黑救护车上死亡停车吃饭耽误半小时",
+        "onboard_time": 1751431643,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 550363,
+        "num": 550363,
+        "word": "幼师又多了一个就业方向",
+        "onboard_time": 1751421739,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 22367,
+        "num": 492175,
+        "word": "第三届北京网络视听艺术大会",
+        "onboard_time": 1751421979,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1004836,
+        "num": 491245,
+        "word": "何老师注定无法体面的老去",
+        "onboard_time": 1751430983,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 481771,
+        "num": 481771,
+        "word": "上海交大学生与校外人员起冲突",
+        "onboard_time": 1751430863,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 452830,
+        "num": 452830,
+        "word": "蒋欣8部待播剧",
+        "onboard_time": 1751428401,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 419152,
+        "num": 419152,
+        "word": "五台山将米扔出殿外僧人被劝返回家",
+        "onboard_time": 1751431523,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335521,
+        "num": 335521,
+        "word": "为何这么多金店都姓周",
+        "onboard_time": 1751431824,
+        "rank": 7,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 197724,
+        "num": 334740,
+        "word": "印尼一波音737客机险坠毁",
+        "onboard_time": 1751421739,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 334475,
+        "num": 334475,
+        "word": "关晓彤娜扎欧阳娜娜奢牌公式照",
+        "onboard_time": 1751429962,
+        "rank": 9,
+        "category": "作品衍生,作品衍生"
+      },
+      {
+        "raw_hot": 1091745,
+        "num": 330186,
+        "word": "上海交大",
+        "onboard_time": 1751427141,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 660143,
+        "num": 324287,
+        "word": "小沈阳发文力挺女儿",
+        "onboard_time": 1751430684,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 601022,
+        "num": 311598,
+        "word": "麦琳承认短视频模仿并致歉",
+        "onboard_time": 1751433623,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 536512,
+        "num": 305848,
+        "word": "马云11年前说的话兑现了",
+        "onboard_time": 1751431885,
+        "rank": 13,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 122846,
+        "num": 293356,
+        "word": "淘宝闪购杨幂李现",
+        "onboard_time": 1751432484,
+        "rank": 14,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 164227,
+        "num": 288423,
+        "word": "金莎陪孙丞潇拍戏",
+        "onboard_time": 1751433261,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282354,
+        "num": 282354,
+        "word": "早睡早起的人更易早晨焦虑",
+        "onboard_time": 1751421681,
+        "rank": 16,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 66122,
+        "num": 281987,
+        "word": "古茗吴彦祖",
+        "onboard_time": 1751431164,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42526,
+        "num": 275931,
+        "word": "解限机全球解锁",
+        "onboard_time": 1751432844,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 59659,
+        "num": 271502,
+        "word": "牛约堡多个门店食材裸露蟑螂横行",
+        "onboard_time": 1751433743,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125783,
+        "num": 269053,
+        "word": "肖战的健康生活选择",
+        "onboard_time": 1751429122,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267516,
+        "num": 267516,
+        "word": "王灿吃面用Labubu挡汤汁",
+        "onboard_time": 1751427802,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266751,
+        "num": 266751,
+        "word": "花少7好接地气",
+        "onboard_time": 1751428401,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260222,
+        "num": 260222,
+        "word": "保时捷女销冠称今年有望打破纪录",
+        "onboard_time": 1751384542,
+        "rank": 23,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 213403,
+        "num": 213403,
+        "word": "以法之名 剧情拖沓",
+        "onboard_time": 1751432484,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200368,
+        "num": 200368,
+        "word": "男子造黄谣致女子抑郁被判赔20万",
+        "onboard_time": 1751424561,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196176,
+        "num": 196176,
+        "word": "密室大逃脱",
+        "onboard_time": 1751433023,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176444,
+        "num": 176444,
+        "word": "古装剧一个个官宣",
+        "onboard_time": 1751430564,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175461,
+        "num": 175461,
+        "word": "妈妈带厌学儿子送外卖几小时治好了",
+        "onboard_time": 1751433083,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173637,
+        "num": 173637,
+        "word": "桃子已经离谱到用吸管喝了",
+        "onboard_time": 1751432724,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 171976,
+        "num": 171976,
+        "word": "实测瘦肚子巨快的运动",
+        "onboard_time": 1751426060,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 164623,
+        "num": 164623,
+        "word": "杨紫锦绣芳华收视纪录",
+        "onboard_time": 1751433144,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164359,
+        "num": 164359,
+        "word": "马斯克要建立美国党",
+        "onboard_time": 1751415741,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 162377,
+        "num": 162377,
+        "word": "抹黑胖东来的网红被通报",
+        "onboard_time": 1751426721,
+        "rank": 33,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 160670,
+        "num": 160670,
+        "word": "鼠头鸭脖涉事公司将决议解散",
+        "onboard_time": 1751430744,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146728,
+        "num": 146728,
+        "word": "孙颖莎王楚钦比赛",
+        "onboard_time": 1751432484,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129788,
+        "num": 129788,
+        "word": "健身完发现手机代偿了",
+        "onboard_time": 1751433562,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124791,
+        "num": 124791,
+        "word": "李泰容还回来当爱豆吗",
+        "onboard_time": 1751433023,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123013,
+        "num": 123013,
+        "word": "王楚钦美国大满贯见",
+        "onboard_time": 1751433682,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62285,
+        "num": 122125,
+        "word": "柯南M28主题曲一响纯爱登场",
+        "onboard_time": 1751431885,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 121413,
+        "num": 121413,
+        "word": "日本男子委托妻子杀死自己",
+        "onboard_time": 1751433923,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 118187,
+        "num": 118187,
+        "word": "深圳卫健委",
+        "onboard_time": 1751433261,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117874,
+        "num": 117874,
+        "word": "艺术家回应被小S二女儿参考",
+        "onboard_time": 1751434043,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116084,
+        "num": 116084,
+        "word": "央视揭造谣大熊猫受虐圈钱模式",
+        "onboard_time": 1751420780,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112517,
+        "num": 114229,
+        "word": "王欣瑜回应陈冠希观战称非常激动",
+        "onboard_time": 1751432903,
+        "rank": 44,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 113660,
+        "num": 113660,
+        "word": "人生的滞后性",
+        "onboard_time": 1751431343,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113029,
+        "num": 113029,
+        "word": "光与夜之恋",
+        "onboard_time": 1751432424,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 112481,
+        "num": 112481,
+        "word": "庄周锦麟游梦皮肤",
+        "onboard_time": 1751431404,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109424,
+        "num": 109424,
+        "word": "皓衣行",
+        "onboard_time": 1751417781,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108449,
+        "num": 108449,
+        "word": "古人炫技文物最薄处仅0.2毫米",
+        "onboard_time": 1751434043,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#庆祝建党104周年#"
+    }
+  }
+}
