@@ -1,10 +1,10 @@
 {
   "startTime": 1751387623546,
-  "endTime": 1751448656256,
+  "endTime": 1751449497299,
   "band_list": [
     {
       "raw_hot": 2285814,
-      "num": 240530,
+      "num": 254733,
       "word": "家有儿女小雨变暴雨了",
       "onboard_time": 1751442801,
       "rank": 10,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 609203,
-      "num": 225768,
+      "num": 254649,
       "word": "秦昊又胖回去了",
       "onboard_time": 1751446642,
       "rank": 11,
@@ -299,6 +299,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 476975,
+      "num": 254268,
+      "word": "原来幂姐也会吃十几块的普通餐",
+      "onboard_time": 1751447602,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 469858,
+      "num": 253646,
+      "word": "南航",
+      "onboard_time": 1751448623,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 459193,
       "num": 459193,
       "word": "抹黑胖东来的网红被通报",
@@ -379,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 397970,
+      "num": 251726,
+      "word": "赵文卓祝贺女儿高中毕业获最高奖",
+      "onboard_time": 1751446524,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 397250,
       "num": 397250,
       "word": "皓衣行",
@@ -425,14 +449,6 @@
       "onboard_time": 1751435242,
       "rank": 7,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 349903,
-      "num": 178023,
-      "word": "原来幂姐也会吃十几块的普通餐",
-      "onboard_time": 1751447602,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 335561,
@@ -499,12 +515,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 299748,
-      "num": 225471,
-      "word": "赵文卓祝贺女儿高中毕业获最高奖",
-      "onboard_time": 1751446524,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 305490,
+      "num": 305490,
+      "word": "莆田一受资助学生家里装修豪华引质疑",
+      "onboard_time": 1751446821,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 296976,
@@ -547,20 +563,20 @@
       "category": "音乐,艺人"
     },
     {
+      "raw_hot": 272485,
+      "num": 272485,
+      "word": "中方是否邀李在明出席抗战胜利纪念活动",
+      "onboard_time": 1751448982,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 268128,
       "num": 268128,
       "word": "古装剧一个个官宣",
       "onboard_time": 1751430564,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 260426,
-      "num": 260426,
-      "word": "莆田一受资助学生家里装修豪华引质疑",
-      "onboard_time": 1751446821,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 257834,
@@ -571,12 +587,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 255374,
+      "num": 255374,
+      "word": "陈楚生像疯了一样",
+      "onboard_time": 1751448262,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 251434,
       "num": 251434,
       "word": "王青上线了",
       "onboard_time": 1751379803,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 248888,
+      "num": 248888,
+      "word": "苦瓜饮品外卖量飙升11倍",
+      "onboard_time": 1751447242,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 245127,
@@ -604,7 +636,7 @@
     },
     {
       "raw_hot": 233517,
-      "num": 233517,
+      "num": 250041,
       "word": "剧还在拍番外就先播了",
       "onboard_time": 1751445743,
       "rank": 17,
@@ -673,14 +705,6 @@
       "onboard_time": 1751430144,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 222625,
-      "num": 222625,
-      "word": "苦瓜饮品外卖量飙升11倍",
-      "onboard_time": 1751447242,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 222588,
@@ -761,6 +785,14 @@
       "onboard_time": 1751426060,
       "rank": 36,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 213714,
+      "num": 213714,
+      "word": "初二学生聚会饮酒后溺亡谁担责",
+      "onboard_time": 1751448082,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 210199,
@@ -979,8 +1011,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 171795,
-      "num": 171795,
+      "raw_hot": 172236,
+      "num": 172236,
       "word": "胡一天阴湿男鬼味",
       "onboard_time": 1751447421,
       "rank": 23,
@@ -1155,6 +1187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153965,
+      "num": 153965,
+      "word": "伞兵首次cos",
+      "onboard_time": 1751448801,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 150518,
       "num": 216094,
       "word": "关晓彤近期妆造",
@@ -1251,6 +1291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 145162,
+      "num": 145162,
+      "word": "准备买房发现妻子与其他男人有套房",
+      "onboard_time": 1751449101,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144551,
       "num": 144551,
       "word": "反洗钱监管再扩围",
@@ -1305,14 +1353,6 @@
       "onboard_time": 1751441902,
       "rank": 34,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 141382,
-      "num": 141382,
-      "word": "陈楚生像疯了一样",
-      "onboard_time": 1751448262,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 139632,
@@ -1531,6 +1571,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127189,
+      "num": 127189,
+      "word": "李一桐演技",
+      "onboard_time": 1751449101,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 126945,
+      "num": 126945,
+      "word": "前有武艺拿蛋糕后有杨幂抓麻将",
+      "onboard_time": 1751448142,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 125689,
+      "num": 125689,
+      "word": "歼20换雷达了",
+      "onboard_time": 1751446101,
+      "rank": 40,
+      "category": "军事"
+    },
+    {
       "raw_hot": 125058,
       "num": 125058,
       "word": "严浩翔左划帮我成像",
@@ -1545,14 +1609,6 @@
       "onboard_time": 1751433023,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 124624,
-      "num": 124624,
-      "word": "歼20换雷达了",
-      "onboard_time": 1751446101,
-      "rank": 40,
-      "category": "军事"
     },
     {
       "raw_hot": 124272,
@@ -1611,14 +1667,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 121722,
-      "num": 121722,
-      "word": "前有武艺拿蛋糕后有杨幂抓麻将",
-      "onboard_time": 1751448142,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 121124,
       "num": 113067,
       "word": "迪丽热巴回头一看全是自己的兵",
@@ -1641,6 +1689,14 @@
       "onboard_time": 1751419880,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120037,
+      "num": 120037,
+      "word": "苹果最薄iPhone17Air再曝",
+      "onboard_time": 1751448862,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 118710,
@@ -1819,11 +1875,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109738,
+      "num": 109738,
+      "word": "李现蒋长扬要住就住精装的",
+      "onboard_time": 1751449221,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109697,
       "num": 109697,
       "word": "汪峰带两个女儿逛街",
       "onboard_time": 1751436443,
       "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 109541,
+      "num": 109541,
+      "word": "蒋欣一把把减脂餐拍开",
+      "onboard_time": 1751449402,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -1859,14 +1931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 107333,
-      "num": 107333,
-      "word": "南航",
-      "onboard_time": 1751448623,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 107146,
       "num": 256769,
       "word": "原来细菌性腹泻是个狠角色",
@@ -1897,14 +1961,6 @@
       "onboard_time": 1751442502,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 105311,
-      "num": 178876,
-      "word": "初二学生聚会饮酒后溺亡谁担责",
-      "onboard_time": 1751448082,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 104622,
@@ -1995,6 +2051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94586,
+      "num": 94586,
+      "word": "文科知识其实才是生活的解药",
+      "onboard_time": 1751449161,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 94358,
       "num": 102779,
       "word": "波荔青瓜冻",
@@ -2017,6 +2081,14 @@
       "onboard_time": 1751414300,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 92228,
+      "num": 120305,
+      "word": "诚C极光猎影Cos",
+      "onboard_time": 1751449402,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 90822,
@@ -2089,6 +2161,14 @@
       "onboard_time": 1751383224,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 85101,
+      "num": 120941,
+      "word": "会长是女仆大人壁纸",
+      "onboard_time": 1751447961,
+      "rank": 38,
+      "category": "动漫"
     },
     {
       "raw_hot": 84748,
@@ -2195,6 +2275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73543,
+      "num": 255313,
+      "word": "卫健委回应女子做取环手术十级伤残",
+      "onboard_time": 1751448742,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73294,
       "num": 73294,
       "word": "种地吧",
@@ -2240,6 +2328,14 @@
       "word": "女子称被进修生做取环手术致残",
       "onboard_time": 1751422881,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69399,
+      "num": 253347,
+      "word": "北京太潮衣服都馊了",
+      "onboard_time": 1751448681,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -2371,6 +2467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54350,
+      "num": 155024,
+      "word": "以防长警告将像打击伊朗一样报复也门",
+      "onboard_time": 1751449281,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 53263,
       "num": 58430,
       "word": "刘浩存发视频告别七根心简",
@@ -2419,6 +2523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44504,
+      "num": 231249,
+      "word": "被石晶美学惊艳到了",
+      "onboard_time": 1751447060,
+      "rank": 27,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 42933,
       "num": 182991,
       "word": "女装店主回应夏装为何越来越丑",
@@ -2451,12 +2563,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 36733,
-      "num": 141788,
-      "word": "被石晶美学惊艳到了",
-      "onboard_time": 1751447060,
-      "rank": 27,
-      "category": "科学科普"
+      "raw_hot": 36739,
+      "num": 155107,
+      "word": "机甲驾驶员怎么考证",
+      "onboard_time": 1751446342,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 35712,
@@ -2465,14 +2577,6 @@
       "onboard_time": 1751412258,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35588,
-      "num": 141583,
-      "word": "机甲驾驶员怎么考证",
-      "onboard_time": 1751446342,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 34394,
@@ -2620,6 +2724,9 @@
     },
     {
       "word": "#推动海洋经济高质量发展#"
+    },
+    {
+      "word": "#青年的理想信念关乎国家未来#"
     }
   ]
 }
