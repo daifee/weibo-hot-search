@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751460810811,
+  "endTime": 1751461758665,
   "band_list": [
     {
       "raw_hot": 3569605,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 2285814,
-      "num": 352044,
+      "num": 376177,
       "word": "家有儿女小雨变暴雨了",
       "onboard_time": 1751442801,
       "rank": 10,
@@ -643,6 +643,14 @@
       "category": "数码,民生新闻"
     },
     {
+      "raw_hot": 896664,
+      "num": 1143466,
+      "word": "王楚然求助治寻麻疹的方法",
+      "onboard_time": 1751459063,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 896371,
       "num": 1143419,
       "word": "长月烬明",
@@ -747,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 825012,
+      "num": 820509,
+      "word": "南航伤人事件已移交上级刑侦部门",
+      "onboard_time": 1751455942,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 823798,
       "num": 823798,
       "word": "水果放冰箱不要套袋子",
@@ -761,14 +777,6 @@
       "onboard_time": 1751274081,
       "rank": 3,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 820509,
-      "num": 820509,
-      "word": "南航伤人事件已移交上级刑侦部门",
-      "onboard_time": 1751455942,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 810431,
@@ -1291,6 +1299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 635320,
+      "num": 635320,
+      "word": "吃荔枝不看的人有福了",
+      "onboard_time": 1751456542,
+      "rank": 4,
+      "category": "美食"
+    },
+    {
       "raw_hot": 633772,
       "num": 633772,
       "word": "春秋航空",
@@ -1363,6 +1379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 618217,
+      "num": 499712,
+      "word": "南航吉林分公司疑突发伤人事件",
+      "onboard_time": 1751453183,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 618064,
       "num": 618064,
       "word": "孙俪女儿化妆还在压脚背",
@@ -1400,14 +1424,6 @@
       "word": "五台山将米扔出殿外僧人被劝返回家",
       "onboard_time": 1751431523,
       "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 606470,
-      "num": 499712,
-      "word": "南航吉林分公司疑突发伤人事件",
-      "onboard_time": 1751453183,
-      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -1545,14 +1561,6 @@
       "onboard_time": 1751175322,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 568217,
-      "num": 568217,
-      "word": "吃荔枝不看的人有福了",
-      "onboard_time": 1751456542,
-      "rank": 4,
-      "category": "美食"
     },
     {
       "raw_hot": 558873,
@@ -1696,14 +1704,6 @@
       "word": "黄子韬分享陪徐艺洋试婚纱",
       "onboard_time": 1751252540,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 525196,
-      "num": 331861,
-      "word": "王楚然求助治寻麻疹的方法",
-      "onboard_time": 1751459063,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -2476,11 +2476,19 @@
     },
     {
       "raw_hot": 392435,
-      "num": 313884,
+      "num": 368773,
       "word": "陈泽希被曝多次出轨",
       "onboard_time": 1751455462,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 392363,
+      "num": 392363,
+      "word": "wakuku",
+      "onboard_time": 1751456661,
+      "rank": 7,
+      "category": "休闲,动漫"
     },
     {
       "raw_hot": 390002,
@@ -2529,6 +2537,14 @@
       "onboard_time": 1751122284,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 382231,
+      "num": 382231,
+      "word": "娱乐圈 更新换代",
+      "onboard_time": 1751456242,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 380365,
@@ -2657,14 +2673,6 @@
       "onboard_time": 1751175621,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 364312,
-      "num": 364312,
-      "word": "wakuku",
-      "onboard_time": 1751456661,
-      "rank": 7,
-      "category": "休闲,动漫"
     },
     {
       "raw_hot": 363097,
@@ -3459,6 +3467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286051,
+      "num": 286051,
+      "word": "董卿生病但帅",
+      "onboard_time": 1751460142,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 285821,
       "num": 191006,
       "word": "白桃星座一周运势",
@@ -3696,14 +3712,6 @@
       "word": "杨紫说怕被捧杀",
       "onboard_time": 1751342843,
       "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 259232,
-      "num": 259232,
-      "word": "娱乐圈 更新换代",
-      "onboard_time": 1751456242,
-      "rank": 33,
       "category": "艺人"
     },
     {
@@ -4051,6 +4059,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 232958,
+      "num": 296035,
+      "word": "杨紫何惟芳酸涩感演技",
+      "onboard_time": 1751459243,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 232811,
+      "num": 371113,
+      "word": "高考671分乡村女孩回应",
+      "onboard_time": 1751456843,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 232774,
       "num": 232774,
       "word": "崩坏星穹铁道",
@@ -4097,6 +4121,14 @@
       "onboard_time": 1751337620,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 229693,
+      "num": 193147,
+      "word": "王嘉尔反驳印度主持人",
+      "onboard_time": 1751460443,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 229313,
@@ -4627,6 +4659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207662,
+      "num": 192932,
+      "word": "吴谨言美得不知天地为何物",
+      "onboard_time": 1751460563,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 207522,
       "num": 207522,
       "word": "斜方肌 讨好型肌肉",
@@ -4681,14 +4721,6 @@
       "onboard_time": 1751122044,
       "rank": 21,
       "category": "网红"
-    },
-    {
-      "raw_hot": 205062,
-      "num": 296035,
-      "word": "杨紫何惟芳酸涩感演技",
-      "onboard_time": 1751459243,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 204985,
@@ -5179,14 +5211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 193596,
-      "num": 173738,
-      "word": "董卿生病但帅",
-      "onboard_time": 1751460142,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 193471,
       "num": 193471,
       "word": "书卷一梦1集剧透17集退婚",
@@ -5297,6 +5321,14 @@
       "onboard_time": 1751347041,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191587,
+      "num": 191587,
+      "word": "赵今麦碎冰蓝玫瑰",
+      "onboard_time": 1751460083,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 191029,
@@ -5627,6 +5659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 181971,
+      "num": 291866,
+      "word": "荣耀李健折学家",
+      "onboard_time": 1751459782,
+      "rank": 19,
+      "category": "艺人,数码"
+    },
+    {
       "raw_hot": 181844,
       "num": 181844,
       "word": "未知的首尔",
@@ -5673,6 +5713,14 @@
       "onboard_time": 1751345001,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180962,
+      "num": 174324,
+      "word": "雷军直播",
+      "onboard_time": 1751460563,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 180774,
@@ -5891,6 +5939,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 174641,
+      "num": 174641,
+      "word": "荣耀magic V5",
+      "onboard_time": 1751460923,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 174581,
       "num": 174581,
       "word": "恋与制作人",
@@ -5923,14 +5979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 174324,
-      "num": 174324,
-      "word": "雷军直播",
-      "onboard_time": 1751460563,
-      "rank": 28,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 174288,
       "num": 293181,
       "word": "伊朗总统批准暂停与国际原子能机构合作",
@@ -5945,6 +5993,14 @@
       "onboard_time": 1751437041,
       "rank": 26,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 174225,
+      "num": 174225,
+      "word": "林志玲一个生煎包吃十几口",
+      "onboard_time": 1751460923,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 174211,
@@ -6307,22 +6363,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 166548,
-      "num": 166548,
-      "word": "赵今麦碎冰蓝玫瑰",
-      "onboard_time": 1751460083,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 166338,
-      "num": 291866,
-      "word": "荣耀李健折学家",
-      "onboard_time": 1751459782,
-      "rank": 19,
-      "category": "艺人,数码"
-    },
-    {
       "raw_hot": 166174,
       "num": 166174,
       "word": "金曲奖",
@@ -6529,6 +6569,14 @@
       "onboard_time": 1751368521,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162669,
+      "num": 293789,
+      "word": "刘亦菲林志颖蒋欣同框旧照",
+      "onboard_time": 1751456962,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 162619,
@@ -7435,14 +7483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 146494,
-      "num": 293789,
-      "word": "刘亦菲林志颖蒋欣同框旧照",
-      "onboard_time": 1751456962,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 146319,
       "num": 146319,
       "word": "弟弟朝小猴子竖中指被一群猴打了",
@@ -8059,14 +8099,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 136936,
-      "num": 347356,
-      "word": "高考671分乡村女孩回应",
-      "onboard_time": 1751456843,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136794,
       "num": 136794,
       "word": "只有黄誉博1人参加全员嘲笑中",
@@ -8145,6 +8177,22 @@
       "onboard_time": 1751290703,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 135691,
+      "num": 135691,
+      "word": "白鹿维权进度",
+      "onboard_time": 1751460623,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 135514,
+      "num": 135514,
+      "word": "内蒙古呼伦贝尔3.8级地震",
+      "onboard_time": 1751461582,
+      "rank": 38,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 135498,
@@ -9587,6 +9635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118288,
+      "num": 118288,
+      "word": "张新成冲浪到自己工作室发现天塌了",
+      "onboard_time": 1751461042,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118172,
       "num": 130552,
       "word": "王诗玥柳鑫宇正式回归",
@@ -9617,14 +9673,6 @@
       "onboard_time": 1751272402,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 117321,
-      "num": 117321,
-      "word": "白鹿维权进度",
-      "onboard_time": 1751460623,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 117275,
@@ -9923,6 +9971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 112753,
+      "num": 112753,
+      "word": "云南大理出现罕见鱼阵",
+      "onboard_time": 1751456962,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112748,
       "num": 112748,
       "word": "夏目友人帐",
@@ -10057,14 +10113,6 @@
       "onboard_time": 1751351901,
       "rank": 39,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 111281,
-      "num": 111281,
-      "word": "王嘉尔反驳印度主持人",
-      "onboard_time": 1751460443,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 111126,
@@ -10835,8 +10883,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99908,
+      "num": 99908,
+      "word": "刘星一语成谶",
+      "onboard_time": 1751459724,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99722,
-      "num": 300918,
+      "num": 332335,
       "word": "中国机甲真的来了",
       "onboard_time": 1751458043,
       "rank": 14,
@@ -10873,14 +10929,6 @@
       "onboard_time": 1751119885,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 98741,
-      "num": 98741,
-      "word": "吴谨言美得不知天地为何物",
-      "onboard_time": 1751460563,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 98479,
@@ -11259,12 +11307,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 88512,
-      "num": 88512,
-      "word": "云南大理出现罕见鱼阵",
-      "onboard_time": 1751456962,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 88383,
+      "num": 191786,
+      "word": "苏州一点面子不留给南京",
+      "onboard_time": 1751461343,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 88210,
@@ -12067,6 +12115,14 @@
       "category": "剧集,休闲"
     },
     {
+      "raw_hot": 63769,
+      "num": 115553,
+      "word": "以方呼吁中方敦促伊朗收敛核计划",
+      "onboard_time": 1751455882,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 63371,
       "num": 174560,
       "word": "宋佳导协年度女演员提名",
@@ -12209,6 +12265,14 @@
       "onboard_time": 1751358262,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 57842,
+      "num": 114271,
+      "word": "荣耀李健称MagicV5地表最强",
+      "onboard_time": 1751461702,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 57763,
@@ -13083,6 +13147,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 33097,
+      "num": 114414,
+      "word": "荣耀MagicV5满血真旗舰",
+      "onboard_time": 1751461702,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 33066,
       "num": 47430,
       "word": "找回丢了26天的手机",
@@ -13811,6 +13883,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 17247,
+      "num": 127053,
+      "word": "减脂塑形天花板教程",
+      "onboard_time": 1751459544,
+      "rank": 39,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 17233,
       "num": 222114,
       "word": "解限机的世界观有什么",
@@ -13865,6 +13945,14 @@
       "onboard_time": 1751143215,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 16579,
+      "num": 100054,
+      "word": "星铁StarRailAX2025新图",
+      "onboard_time": 1751461162,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 16305,
