@@ -1,6 +1,6 @@
 {
   "startTime": 1751387623546,
-  "endTime": 1751441214185,
+  "endTime": 1751442092131,
   "band_list": [
     {
       "raw_hot": 2101906,
@@ -41,6 +41,14 @@
       "onboard_time": 1751430983,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1092991,
+      "num": 1092991,
+      "word": "高考288分竟是带货剧本",
+      "onboard_time": 1751440642,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1069823,
@@ -315,6 +323,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 409024,
+      "num": 409024,
+      "word": "北京 回南天",
+      "onboard_time": 1751439442,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 397250,
       "num": 397250,
       "word": "皓衣行",
@@ -324,7 +340,7 @@
     },
     {
       "raw_hot": 396638,
-      "num": 314899,
+      "num": 350121,
       "word": "杨紫演出小说文字般的画面",
       "onboard_time": 1751439020,
       "rank": 43,
@@ -435,14 +451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 293478,
-      "num": 293478,
-      "word": "北京 回南天",
-      "onboard_time": 1751439442,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 288949,
       "num": 288949,
       "word": "双休7千单休9千选哪个",
@@ -457,6 +465,14 @@
       "onboard_time": 1751377224,
       "rank": 15,
       "category": "音乐,艺人"
+    },
+    {
+      "raw_hot": 274047,
+      "num": 274047,
+      "word": "羽衣甘蓝没想到自己因奶茶火了",
+      "onboard_time": 1751439861,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 268128,
@@ -491,20 +507,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 240524,
+      "num": 240524,
+      "word": "拍7天短剧后男演员继续兼职陪爬泰山",
+      "onboard_time": 1751439442,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 237652,
       "num": 237652,
       "word": "关晓彤黑色抹胸连体裤",
       "onboard_time": 1751427261,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 236905,
-      "num": 236905,
-      "word": "羽衣甘蓝没想到自己因奶茶火了",
-      "onboard_time": 1751439861,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 232774,
@@ -547,12 +563,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 227429,
-      "num": 227429,
-      "word": "高考288分竟是带货剧本",
-      "onboard_time": 1751440642,
-      "rank": 21,
-      "category": "民生新闻"
+      "raw_hot": 225838,
+      "num": 225838,
+      "word": "8月起现金买黄金珠宝超10万需上报",
+      "onboard_time": 1751439681,
+      "rank": 26,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 223087,
@@ -683,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198039,
+      "num": 280758,
+      "word": "一个3C认证至少3个月花费两三万",
+      "onboard_time": 1751434342,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 197048,
       "num": 197048,
       "word": "美参议院通过大而美法案",
@@ -723,14 +747,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 189505,
-      "num": 189505,
-      "word": "8月起现金买黄金珠宝超10万需上报",
-      "onboard_time": 1751439681,
-      "rank": 26,
-      "category": "财经,民生新闻"
-    },
-    {
       "raw_hot": 187743,
       "num": 187743,
       "word": "C罗一诺电竞世界杯同框",
@@ -755,6 +771,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179700,
+      "num": 179700,
+      "word": "歌手歌单",
+      "onboard_time": 1751441241,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 178160,
+      "num": 178160,
+      "word": "南京大屠杀幸存者照片墙的灯又熄2盏",
+      "onboard_time": 1751440461,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 177407,
       "num": 177407,
       "word": "儿科女医生进修3个月带回100G资料",
@@ -777,6 +809,14 @@
       "onboard_time": 1751423180,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174288,
+      "num": 293181,
+      "word": "伊朗总统批准暂停与国际原子能机构合作",
+      "onboard_time": 1751440582,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 174269,
@@ -817,6 +857,14 @@
       "onboard_time": 1751424621,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 171187,
+      "num": 171187,
+      "word": "12年前攒钱看世界的女生又攒够买房钱",
+      "onboard_time": 1751441543,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169138,
@@ -881,14 +929,6 @@
       "onboard_time": 1751437342,
       "rank": 17,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 162665,
-      "num": 230148,
-      "word": "拍7天短剧后男演员继续兼职陪爬泰山",
-      "onboard_time": 1751439442,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 162619,
@@ -1035,6 +1075,30 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 145288,
+      "num": 145288,
+      "word": "G2晋级淘汰赛",
+      "onboard_time": 1751441422,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 144511,
+      "num": 144511,
+      "word": "老人给3岁孙子抹自制药膏致感染",
+      "onboard_time": 1751441662,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144135,
+      "num": 183624,
+      "word": "马布里试完小鹏G7想考中国驾照",
+      "onboard_time": 1751439861,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143749,
       "num": 143749,
       "word": "杏是绝佳的减肥水果",
@@ -1099,6 +1163,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 137996,
+      "num": 137996,
+      "word": "RED扫楼直播",
+      "onboard_time": 1751441662,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136622,
       "num": 136622,
       "word": "刘令姿人生镜头上新",
@@ -1115,36 +1187,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 136166,
-      "num": 183624,
-      "word": "马布里试完小鹏G7想考中国驾照",
-      "onboard_time": 1751439861,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 135951,
-      "num": 293181,
-      "word": "伊朗总统批准暂停与国际原子能机构合作",
-      "onboard_time": 1751440582,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 135818,
       "num": 135818,
       "word": "杨幂人间清冷感",
       "onboard_time": 1751426661,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 135590,
-      "num": 280758,
-      "word": "一个3C认证至少3个月花费两三万",
-      "onboard_time": 1751434342,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134575,
@@ -1259,6 +1307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122864,
+      "num": 122864,
+      "word": "英菲尼迪车祸案当事人王辉的15年",
+      "onboard_time": 1751439020,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122846,
       "num": 293356,
       "word": "淘宝闪购杨幂李现",
@@ -1315,14 +1371,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 118576,
-      "num": 118576,
-      "word": "南京大屠杀幸存者照片墙的灯又熄2盏",
-      "onboard_time": 1751440461,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 116991,
       "num": 116991,
       "word": "猫眼就误放周杰伦演唱会回流票致歉",
@@ -1377,14 +1425,6 @@
       "onboard_time": 1751385801,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 113456,
-      "num": 113456,
-      "word": "英菲尼迪车祸案当事人王辉的15年",
-      "onboard_time": 1751439020,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113343,
@@ -1633,6 +1673,14 @@
       "onboard_time": 1751359882,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 84239,
+      "num": 144654,
+      "word": "大学校园向公众开放咋就这么难",
+      "onboard_time": 1751441902,
+      "rank": 34,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 84072,
@@ -1891,6 +1939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 51743,
+      "num": 130783,
+      "word": "白厄动画短片",
+      "onboard_time": 1751441961,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 46725,
       "num": 134766,
       "word": "梁伟铿机场出发",
@@ -1948,11 +2004,19 @@
     },
     {
       "raw_hot": 34394,
-      "num": 652209,
+      "num": 664637,
       "word": "第三届北京网络视听艺术大会",
       "onboard_time": 1751421979,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34136,
+      "num": 111194,
+      "word": "参赛选手展望WTT美国大满贯",
+      "onboard_time": 1751440762,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 30712,
