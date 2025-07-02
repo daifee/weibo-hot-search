@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751467535724,
+  "endTime": 1751470157555,
   "band_list": [
     {
       "raw_hot": 2472851,
@@ -145,6 +145,14 @@
       "onboard_time": 1751363421,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1192980,
+      "num": 1192980,
+      "word": "黄牛为什么能抢走演唱会门票",
+      "onboard_time": 1751465425,
+      "rank": 9,
+      "category": "民生新闻,演出"
     },
     {
       "raw_hot": 1154364,
@@ -331,6 +339,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 842417,
+      "num": 842417,
+      "word": "埃菲尔铁塔被热到弯曲偏斜",
+      "onboard_time": 1751466144,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 839857,
       "num": 1134377,
       "word": "金正恩疑似悼念在俄阵亡军人画面曝光",
@@ -409,6 +425,14 @@
       "onboard_time": 1751356281,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 770263,
+      "num": 303471,
+      "word": "小黄豆 芮芮",
+      "onboard_time": 1751468243,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 764940,
@@ -505,14 +529,6 @@
       "onboard_time": 1751439442,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 695787,
-      "num": 695787,
-      "word": "黄牛为什么能抢走演唱会门票",
-      "onboard_time": 1751465425,
-      "rank": 9,
-      "category": "民生新闻,演出"
     },
     {
       "raw_hot": 694567,
@@ -835,6 +851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 565455,
+      "num": 565455,
+      "word": "黄圣依孩子用石明鑫主编的数学题",
+      "onboard_time": 1751466504,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 558873,
       "num": 558873,
       "word": "骗子频繁拨打家中电话只为收集声音",
@@ -1147,14 +1171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 437573,
-      "num": 334210,
-      "word": "黄圣依孩子用石明鑫主编的数学题",
-      "onboard_time": 1751466504,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 432181,
       "num": 432181,
       "word": "深圳卫健委发文怼二手烟",
@@ -1249,6 +1265,14 @@
       "onboard_time": 1751437582,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 414076,
+      "num": 414076,
+      "word": "北京 热带雨林",
+      "onboard_time": 1751468004,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 412261,
@@ -1651,6 +1675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 301916,
+      "num": 301916,
+      "word": "日本7月5日大地震预言会成真吗",
+      "onboard_time": 1751469263,
+      "rank": 15,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 299295,
       "num": 266198,
       "word": "夏天女装 不日常",
@@ -1841,14 +1873,6 @@
       "onboard_time": 1751430564,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 265976,
-      "num": 371411,
-      "word": "埃菲尔铁塔被热到弯曲偏斜",
-      "onboard_time": 1751466144,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 263145,
@@ -2211,6 +2235,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 221207,
+      "num": 221207,
+      "word": "被麦琳抄袭博主拒绝赔偿只求平静生活",
+      "onboard_time": 1751469023,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220970,
       "num": 220970,
       "word": "田嘉瑞又打给了虞书欣",
@@ -2344,6 +2376,14 @@
       "word": "警方回应网传男子带12岁女孩开房",
       "onboard_time": 1751289384,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 210945,
+      "num": 210945,
+      "word": "今天是平分2025的一天",
+      "onboard_time": 1751466745,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -2521,6 +2561,14 @@
       "onboard_time": 1751376864,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199917,
+      "num": 199917,
+      "word": "加速王",
+      "onboard_time": 1751468603,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 199834,
@@ -2921,6 +2969,14 @@
       "onboard_time": 1751445024,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 176051,
+      "num": 299098,
+      "word": "为什么点外卖比到店就餐更便宜",
+      "onboard_time": 1751463804,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175707,
@@ -3955,6 +4011,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 138670,
+      "num": 302059,
+      "word": "美国首条高铁17年建了个寂寞",
+      "onboard_time": 1751468484,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 138508,
       "num": 138508,
       "word": "星穹铁道",
@@ -3969,6 +4033,14 @@
       "onboard_time": 1751335041,
       "rank": 35,
       "category": "美食,民生新闻"
+    },
+    {
+      "raw_hot": 137074,
+      "num": 137074,
+      "word": "新说唱",
+      "onboard_time": 1751469384,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 136960,
@@ -4065,6 +4137,22 @@
       "onboard_time": 1751348781,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134788,
+      "num": 134788,
+      "word": "星穹铁道3.4",
+      "onboard_time": 1751469442,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 134631,
+      "num": 221550,
+      "word": "20年前的高考成绩可网络查询了",
+      "onboard_time": 1751469682,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134575,
@@ -4481,14 +4569,6 @@
       "onboard_time": 1751350161,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 126180,
-      "num": 299098,
-      "word": "为什么点外卖比到店就餐更便宜",
-      "onboard_time": 1751463804,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 126120,
@@ -4963,6 +5043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114557,
+      "num": 114557,
+      "word": "侏罗纪",
+      "onboard_time": 1751469742,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 114242,
       "num": 114242,
       "word": "古人炫技文物最薄处仅0.2毫米",
@@ -5009,14 +5097,6 @@
       "onboard_time": 1751466265,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 113713,
-      "num": 113713,
-      "word": "今天是平分2025的一天",
-      "onboard_time": 1751466745,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113343,
@@ -5235,6 +5315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108295,
+      "num": 108295,
+      "word": "花千骨重映CVB收视20连冠",
+      "onboard_time": 1751467584,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108288,
       "num": 108288,
       "word": "他16岁见证日军暴行96岁忘不掉",
@@ -5305,6 +5393,14 @@
       "onboard_time": 1751452281,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107377,
+      "num": 107377,
+      "word": "207C的考验全红婵都接住了",
+      "onboard_time": 1751466564,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 107147,
@@ -5515,12 +5611,12 @@
       "category": "数码,民生新闻"
     },
     {
-      "raw_hot": 100627,
-      "num": 100627,
-      "word": "207C的考验全红婵都接住了",
-      "onboard_time": 1751466564,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 101084,
+      "num": 226451,
+      "word": "染崎白石魏莱分手",
+      "onboard_time": 1751468603,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 100586,
@@ -5667,6 +5763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94617,
+      "num": 94617,
+      "word": "健康睡眠的4个黄金标准",
+      "onboard_time": 1751468304,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 94586,
       "num": 94586,
       "word": "文科知识其实才是生活的解药",
@@ -5713,6 +5817,14 @@
       "onboard_time": 1751445081,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92814,
+      "num": 92814,
+      "word": "谁家剧宣综艺能上来积攒人脉啊",
+      "onboard_time": 1751467825,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 92614,
@@ -5883,6 +5995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87607,
+      "num": 87607,
+      "word": "精心设计的婚礼布景竟变成短剧素材",
+      "onboard_time": 1751469923,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87457,
       "num": 99593,
       "word": "魔兽世界",
@@ -6025,6 +6145,14 @@
       "onboard_time": 1751269280,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 80267,
+      "num": 686532,
+      "word": "贵州榕江洪灾救援诠释中国式团结",
+      "onboard_time": 1751468124,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 79351,
@@ -7483,6 +7611,9 @@
     },
     {
       "word": "#青年的理想信念关乎国家未来#"
+    },
+    {
+      "word": "#坚定正确政治方向深化改革创新#"
     }
   ]
 }

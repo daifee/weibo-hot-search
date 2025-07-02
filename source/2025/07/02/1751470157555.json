@@ -1,0 +1,410 @@
+{
+  "runTime": 1751470157555,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1192980,
+        "num": 1192980,
+        "word": "黄牛为什么能抢走演唱会门票",
+        "onboard_time": 1751465425,
+        "rank": 0,
+        "category": "民生新闻,演出"
+      },
+      {
+        "raw_hot": 842417,
+        "num": 842417,
+        "word": "埃菲尔铁塔被热到弯曲偏斜",
+        "onboard_time": 1751466144,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 80267,
+        "num": 686532,
+        "word": "贵州榕江洪灾救援诠释中国式团结",
+        "onboard_time": 1751468124,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 565455,
+        "num": 565455,
+        "word": "黄圣依孩子用石明鑫主编的数学题",
+        "onboard_time": 1751466504,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 414076,
+        "num": 414076,
+        "word": "北京 热带雨林",
+        "onboard_time": 1751468004,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1266230,
+        "num": 408961,
+        "word": "杨幂 妈幂",
+        "onboard_time": 1751462302,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 509001,
+        "num": 403090,
+        "word": "王嘉尔反驳印度主持人",
+        "onboard_time": 1751460443,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 457116,
+        "num": 400922,
+        "word": "林志玲一个生煎包吃十几口",
+        "onboard_time": 1751460923,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363198,
+        "num": 363198,
+        "word": "吃荔枝不看的人有福了",
+        "onboard_time": 1751456542,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 303589,
+        "num": 303589,
+        "word": "wakuku",
+        "onboard_time": 1751456661,
+        "rank": 9,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 770263,
+        "num": 303471,
+        "word": "小黄豆 芮芮",
+        "onboard_time": 1751468243,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 559129,
+        "num": 303039,
+        "word": "家有儿女小雨变暴雨了",
+        "onboard_time": 1751442801,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370122,
+        "num": 302917,
+        "word": "你俩长嘴是只会亲嘴吗",
+        "onboard_time": 1751463864,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 315340,
+        "num": 302471,
+        "word": "优酷爆剧三大赛道全面开花",
+        "onboard_time": 1751462544,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138670,
+        "num": 302059,
+        "word": "美国首条高铁17年建了个寂寞",
+        "onboard_time": 1751468484,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 301916,
+        "num": 301916,
+        "word": "日本7月5日大地震预言会成真吗",
+        "onboard_time": 1751469263,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 291662,
+        "num": 291662,
+        "word": "王楚然求助治寻麻疹的方法",
+        "onboard_time": 1751459063,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237420,
+        "num": 237420,
+        "word": "9平米的房住出了90平方的感觉",
+        "onboard_time": 1751462062,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101084,
+        "num": 226451,
+        "word": "染崎白石魏莱分手",
+        "onboard_time": 1751468603,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 134631,
+        "num": 221550,
+        "word": "20年前的高考成绩可网络查询了",
+        "onboard_time": 1751469682,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275460,
+        "num": 221546,
+        "word": "董卿生病但帅",
+        "onboard_time": 1751460142,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221207,
+        "num": 221207,
+        "word": "被麦琳抄袭博主拒绝赔偿只求平静生活",
+        "onboard_time": 1751469023,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211394,
+        "num": 211394,
+        "word": "单眼皮的小黄豆",
+        "onboard_time": 1751466443,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 210945,
+        "num": 210945,
+        "word": "今天是平分2025的一天",
+        "onboard_time": 1751466745,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199917,
+        "num": 199917,
+        "word": "加速王",
+        "onboard_time": 1751468603,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194655,
+        "num": 194655,
+        "word": "陈泽希被曝多次出轨",
+        "onboard_time": 1751455462,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186598,
+        "num": 186598,
+        "word": "南航",
+        "onboard_time": 1751448623,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181425,
+        "num": 181425,
+        "word": "南航吉林分公司疑突发伤人事件",
+        "onboard_time": 1751453183,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179172,
+        "num": 179172,
+        "word": "何惟芳我请问呢",
+        "onboard_time": 1751466386,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176051,
+        "num": 176051,
+        "word": "为什么点外卖比到店就餐更便宜",
+        "onboard_time": 1751463804,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170375,
+        "num": 170375,
+        "word": "雷军回应大定被质疑有水分",
+        "onboard_time": 1751462842,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 149759,
+        "num": 149759,
+        "word": "长月烬明",
+        "onboard_time": 1751452461,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147840,
+        "num": 147840,
+        "word": "为什么体检无异常发现却是晚期",
+        "onboard_time": 1751455222,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137074,
+        "num": 137074,
+        "word": "新说唱",
+        "onboard_time": 1751469384,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134788,
+        "num": 134788,
+        "word": "星穹铁道3.4",
+        "onboard_time": 1751469442,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126817,
+        "num": 126817,
+        "word": "惠利曝新恋情后韩素希口碑反转",
+        "onboard_time": 1751456782,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119659,
+        "num": 119659,
+        "word": "丁禹兮穿了恩利设计的衣服",
+        "onboard_time": 1751464584,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119612,
+        "num": 119612,
+        "word": "娱乐圈 更新换代",
+        "onboard_time": 1751456242,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114557,
+        "num": 114557,
+        "word": "侏罗纪",
+        "onboard_time": 1751469742,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113941,
+        "num": 113941,
+        "word": "吴谨言美得不知天地为何物",
+        "onboard_time": 1751460563,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113932,
+        "num": 113932,
+        "word": "鹿晗10年后重返诺言青岛拍摄地",
+        "onboard_time": 1751466023,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108295,
+        "num": 108295,
+        "word": "花千骨重映CVB收视20连冠",
+        "onboard_time": 1751467584,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107377,
+        "num": 107377,
+        "word": "207C的考验全红婵都接住了",
+        "onboard_time": 1751466564,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103540,
+        "num": 103540,
+        "word": "科学家称大脑死后记忆可提取保存",
+        "onboard_time": 1751463564,
+        "rank": 43,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 101212,
+        "num": 101212,
+        "word": "周杰伦周星驰合照",
+        "onboard_time": 1751462062,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95360,
+        "num": 95360,
+        "word": "韩安冉禁止路人拍优米",
+        "onboard_time": 1751456421,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 94617,
+        "num": 94617,
+        "word": "健康睡眠的4个黄金标准",
+        "onboard_time": 1751468304,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 92814,
+        "num": 92814,
+        "word": "谁家剧宣综艺能上来积攒人脉啊",
+        "onboard_time": 1751467825,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91318,
+        "num": 91318,
+        "word": "胡一天自曝很便宜求戏拍",
+        "onboard_time": 1751451442,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87607,
+        "num": 87607,
+        "word": "精心设计的婚礼布景竟变成短剧素材",
+        "onboard_time": 1751469923,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定正确政治方向深化改革创新#"
+    }
+  }
+}
