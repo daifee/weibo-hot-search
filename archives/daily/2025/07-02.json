@@ -1,7 +1,15 @@
 {
   "startTime": 1751387623546,
-  "endTime": 1751442092131,
+  "endTime": 1751445345835,
   "band_list": [
+    {
+      "raw_hot": 2184340,
+      "num": 237436,
+      "word": "家有儿女小雨变暴雨了",
+      "onboard_time": 1751442801,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2101906,
       "num": 2101906,
@@ -107,6 +115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 696836,
+      "num": 1111493,
+      "word": "拍7天短剧后男演员继续兼职陪爬泰山",
+      "onboard_time": 1751439442,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 694567,
       "num": 694567,
       "word": "蒋欣8部待播剧",
@@ -195,6 +211,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 560473,
+      "num": 560473,
+      "word": "羽衣甘蓝没想到自己因奶茶火了",
+      "onboard_time": 1751439861,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 542072,
       "num": 542072,
       "word": "上海交大学生与校外人员起冲突",
@@ -241,6 +265,14 @@
       "onboard_time": 1751421739,
       "rank": 45,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 495198,
+      "num": 495198,
+      "word": "8月起现金买黄金珠宝超10万需上报",
+      "onboard_time": 1751439681,
+      "rank": 26,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 485682,
@@ -427,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 299698,
+      "num": 236749,
+      "word": "郭涛儿子高中毕业",
+      "onboard_time": 1751443943,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 296976,
       "num": 296976,
       "word": "成都的哥接单到北京收10600元",
@@ -467,20 +507,20 @@
       "category": "音乐,艺人"
     },
     {
-      "raw_hot": 274047,
-      "num": 274047,
-      "word": "羽衣甘蓝没想到自己因奶茶火了",
-      "onboard_time": 1751439861,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 268128,
       "num": 268128,
       "word": "古装剧一个个官宣",
       "onboard_time": 1751430564,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 260889,
+      "num": 280758,
+      "word": "一个3C认证至少3个月花费两三万",
+      "onboard_time": 1751434342,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 257834,
@@ -507,20 +547,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 240524,
-      "num": 240524,
-      "word": "拍7天短剧后男演员继续兼职陪爬泰山",
-      "onboard_time": 1751439442,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 237652,
       "num": 237652,
       "word": "关晓彤黑色抹胸连体裤",
       "onboard_time": 1751427261,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 234554,
+      "num": 234554,
+      "word": "女儿黑救护车上死亡父母讲述经过",
+      "onboard_time": 1751443343,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 232774,
@@ -561,14 +601,6 @@
       "onboard_time": 1751431404,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 225838,
-      "num": 225838,
-      "word": "8月起现金买黄金珠宝超10万需上报",
-      "onboard_time": 1751439681,
-      "rank": 26,
-      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 223087,
@@ -635,6 +667,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 214811,
+      "num": 214811,
+      "word": "歌手歌单",
+      "onboard_time": 1751441241,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214155,
       "num": 214155,
       "word": "实测瘦肚子巨快的运动",
@@ -699,14 +739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 198039,
-      "num": 280758,
-      "word": "一个3C认证至少3个月花费两三万",
-      "onboard_time": 1751434342,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 197048,
       "num": 197048,
       "word": "美参议院通过大而美法案",
@@ -755,6 +787,14 @@
       "category": "电竞,体育"
     },
     {
+      "raw_hot": 187155,
+      "num": 187155,
+      "word": "南京大屠杀幸存者照片墙的灯又熄2盏",
+      "onboard_time": 1751440461,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 186697,
       "num": 242365,
       "word": "摆摊女生称母校以影响招生要求删视频",
@@ -763,28 +803,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182640,
+      "num": 182640,
+      "word": "韩国或将对中国游客个人免签",
+      "onboard_time": 1751442682,
+      "rank": 21,
+      "category": "国际时政,国际时政"
+    },
+    {
       "raw_hot": 180577,
       "num": 300452,
       "word": "肖战的健康生活选择",
       "onboard_time": 1751429122,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 179700,
-      "num": 179700,
-      "word": "歌手歌单",
-      "onboard_time": 1751441241,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 178160,
-      "num": 178160,
-      "word": "南京大屠杀幸存者照片墙的灯又熄2盏",
-      "onboard_time": 1751440461,
-      "rank": 44,
-      "category": "国内时政"
     },
     {
       "raw_hot": 177407,
@@ -873,6 +905,14 @@
       "onboard_time": 1751434702,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 167674,
+      "num": 186540,
+      "word": "闫妮唱歌 蒋欣震惊三次",
+      "onboard_time": 1751443461,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 167071,
@@ -1003,6 +1043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151165,
+      "num": 151165,
+      "word": "云合",
+      "onboard_time": 1751445024,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150518,
       "num": 216094,
       "word": "关晓彤近期妆造",
@@ -1083,6 +1131,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 144551,
+      "num": 144551,
+      "word": "反洗钱监管再扩围",
+      "onboard_time": 1751443822,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144511,
       "num": 144511,
       "word": "老人给3岁孙子抹自制药膏致感染",
@@ -1131,6 +1187,14 @@
       "category": "民生新闻,休闲"
     },
     {
+      "raw_hot": 139337,
+      "num": 139337,
+      "word": "杭州一商场宠物店多只猫热到吐舌头",
+      "onboard_time": 1751443822,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139109,
       "num": 139109,
       "word": "资助的小孩高考考了一百多名",
@@ -1171,6 +1235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137996,
+      "num": 137996,
+      "word": "韩国男性流行相亲日本女性",
+      "onboard_time": 1751444242,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 136622,
       "num": 136622,
       "word": "刘令姿人生镜头上新",
@@ -1195,12 +1267,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134742,
+      "num": 144654,
+      "word": "大学校园向公众开放咋就这么难",
+      "onboard_time": 1751441902,
+      "rank": 34,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 134575,
       "num": 134575,
       "word": "蒋梦婕澄清网传身高155",
       "onboard_time": 1751437642,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134465,
+      "num": 137919,
+      "word": "以法之名万海认命看哭了",
+      "onboard_time": 1751442801,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 133361,
@@ -1227,12 +1315,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130440,
+      "num": 130440,
+      "word": "花少群像的顶级浪漫",
+      "onboard_time": 1751442502,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130025,
       "num": 130025,
       "word": "柯淳曾在奶茶店做兼职",
       "onboard_time": 1751431824,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129794,
+      "num": 129794,
+      "word": "外交部回应蜜雪冰城霸王茶姬海外走红",
+      "onboard_time": 1751445024,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 129788,
@@ -1267,12 +1371,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 128131,
+      "num": 128131,
+      "word": "陶晶莹说小S状态很好",
+      "onboard_time": 1751442562,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127911,
       "num": 127911,
       "word": "张予曦镂空裸背裙",
       "onboard_time": 1751435061,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127646,
+      "num": 127646,
+      "word": "哈尔滨称周深粉丝小金豆米",
+      "onboard_time": 1751444963,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 124791,
@@ -1369,6 +1489,22 @@
       "onboard_time": 1751429664,
       "rank": 45,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 118505,
+      "num": 118505,
+      "word": "猫一觉睡醒变成赵本山了",
+      "onboard_time": 1751444363,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 117931,
+      "num": 117931,
+      "word": "第一次见这么没技术含量的摆摊",
+      "onboard_time": 1751445024,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 116991,
@@ -1475,6 +1611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111946,
+      "num": 111946,
+      "word": "恋与深空人民日报健康联动",
+      "onboard_time": 1751443643,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 111670,
       "num": 142215,
       "word": "看杨紫眼神戏心里皱巴巴的",
@@ -1507,6 +1651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108655,
+      "num": 108655,
+      "word": "小黄豆直播回应",
+      "onboard_time": 1751442141,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
       "raw_hot": 107858,
       "num": 107858,
       "word": "胡锡进呼吁大学校园向公众开放",
@@ -1523,12 +1675,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 106143,
+      "num": 106143,
+      "word": "史元庭7天拍完短剧继续兼职陪爬",
+      "onboard_time": 1751444903,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106123,
       "num": 271502,
       "word": "牛约堡多个门店食材裸露蟑螂横行",
       "onboard_time": 1751433743,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105503,
+      "num": 105503,
+      "word": "我承认之前对李人骏大声了点",
+      "onboard_time": 1751442502,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 104622,
@@ -1563,6 +1731,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103000,
+      "num": 103000,
+      "word": "日本鹿儿岛县附近海域强烈地震",
+      "onboard_time": 1751445261,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 101828,
+      "num": 108593,
+      "word": "现在的女装为什么又贵又难穿",
+      "onboard_time": 1751443343,
+      "rank": 42,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 101619,
       "num": 101619,
       "word": "宁艺卓闪光灯怼脸拍视频",
@@ -1587,12 +1771,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 94902,
+      "num": 183751,
+      "word": "员工未休年假获赔2.9万余元",
+      "onboard_time": 1751444544,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94847,
       "num": 94847,
       "word": "女儿曾一年没叫焦恩俊爸爸",
       "onboard_time": 1751411178,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94358,
+      "num": 102779,
+      "word": "波荔青瓜冻",
+      "onboard_time": 1751443762,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 92246,
@@ -1675,14 +1875,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 84239,
-      "num": 144654,
-      "word": "大学校园向公众开放咋就这么难",
-      "onboard_time": 1751441902,
-      "rank": 34,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 84072,
       "num": 90813,
       "word": "俄罗斯全面控制卢甘斯克",
@@ -1697,6 +1889,14 @@
       "onboard_time": 1751383464,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 83338,
+      "num": 184963,
+      "word": "华强北禁售无3C认证充电宝",
+      "onboard_time": 1751445081,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82282,
@@ -1816,6 +2016,14 @@
       "word": "南京地铁车厢内喝水不再罚款",
       "onboard_time": 1751378425,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65263,
+      "num": 185611,
+      "word": "上海交大强化校外来访人员行为管理",
+      "onboard_time": 1751445081,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -1985,6 +2193,14 @@
       "onboard_time": 1751394315,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 41985,
+      "num": 112620,
+      "word": "PUBGxaespa",
+      "onboard_time": 1751445081,
+      "rank": 39,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 38620,
