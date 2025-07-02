@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751463507882,
+  "endTime": 1751464217376,
   "band_list": [
     {
       "raw_hot": 3569605,
@@ -329,6 +329,14 @@
       "onboard_time": 1751355742,
       "rank": 40,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1304425,
+      "num": 1304425,
+      "word": "杨幂 妈幂",
+      "onboard_time": 1751462302,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1266922,
@@ -1011,6 +1019,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 720074,
+      "num": 346948,
+      "word": "王嘉尔反驳印度主持人",
+      "onboard_time": 1751460443,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 715642,
       "num": 715642,
       "word": "马龙去看林俊杰演唱会了",
@@ -1025,14 +1041,6 @@
       "onboard_time": 1751424561,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 714369,
-      "num": 385763,
-      "word": "杨幂 妈幂",
-      "onboard_time": 1751462302,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 713210,
@@ -1083,6 +1091,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 702960,
+      "num": 286051,
+      "word": "董卿生病但帅",
+      "onboard_time": 1751460142,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 701127,
       "num": 701127,
       "word": "林俊杰嘉宾张艺兴",
@@ -1121,14 +1137,6 @@
       "onboard_time": 1751297424,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 690366,
-      "num": 286051,
-      "word": "董卿生病但帅",
-      "onboard_time": 1751460142,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 689909,
@@ -1489,14 +1497,6 @@
       "onboard_time": 1751248641,
       "rank": 25,
       "category": "财经"
-    },
-    {
-      "raw_hot": 596040,
-      "num": 306574,
-      "word": "王嘉尔反驳印度主持人",
-      "onboard_time": 1751460443,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 595993,
@@ -2091,7 +2091,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 452200,
+      "raw_hot": 452754,
       "num": 382231,
       "word": "娱乐圈 更新换代",
       "onboard_time": 1751456242,
@@ -2403,6 +2403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 408408,
+      "num": 216766,
+      "word": "优酷爆剧三大赛道全面开花",
+      "onboard_time": 1751462544,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 407921,
       "num": 433872,
       "word": "邓超头像含鹿量超高",
@@ -2521,6 +2529,14 @@
       "onboard_time": 1751456661,
       "rank": 7,
       "category": "休闲,动漫"
+    },
+    {
+      "raw_hot": 390808,
+      "num": 390808,
+      "word": "9平米的房住出了90平方的感觉",
+      "onboard_time": 1751462062,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 390002,
@@ -3507,14 +3523,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 285358,
-      "num": 285358,
-      "word": "9平米的房住出了90平方的感觉",
-      "onboard_time": 1751462062,
-      "rank": 8,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 284692,
       "num": 284692,
       "word": "杨紫已经三次陪跑白玉兰",
@@ -3731,14 +3739,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 260124,
-      "num": 216766,
-      "word": "优酷爆剧三大赛道全面开花",
-      "onboard_time": 1751462544,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 259644,
       "num": 259644,
       "word": "男子开车看手机致车辆失控3死3伤",
@@ -3913,6 +3913,14 @@
       "onboard_time": 1751447242,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 248728,
+      "num": 216382,
+      "word": "林志玲一个生煎包吃十几口",
+      "onboard_time": 1751460923,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 246905,
@@ -4107,6 +4115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 232849,
+      "num": 213729,
+      "word": "周杰伦周星驰合照",
+      "onboard_time": 1751462062,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232774,
       "num": 232774,
       "word": "崩坏星穹铁道",
@@ -4257,14 +4273,6 @@
       "onboard_time": 1751333901,
       "rank": 24,
       "category": "汽车,财经"
-    },
-    {
-      "raw_hot": 225433,
-      "num": 216382,
-      "word": "林志玲一个生煎包吃十几口",
-      "onboard_time": 1751460923,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 225075,
@@ -4539,6 +4547,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 214304,
+      "num": 214304,
+      "word": "雷军回应大定被质疑有水分",
+      "onboard_time": 1751462842,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 214155,
       "num": 214155,
       "word": "实测瘦肚子巨快的运动",
@@ -4560,14 +4576,6 @@
       "word": "黄绮珊回应蔡徐坤",
       "onboard_time": 1751283142,
       "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 213729,
-      "num": 213729,
-      "word": "周杰伦周星驰合照",
-      "onboard_time": 1751462062,
-      "rank": 31,
       "category": "艺人"
     },
     {
@@ -5947,6 +5955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 175341,
+      "num": 175341,
+      "word": "你俩长嘴是只会亲嘴吗",
+      "onboard_time": 1751463864,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175317,
       "num": 175317,
       "word": "孙恩盛pk",
@@ -6091,6 +6107,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 173470,
+      "num": 173470,
+      "word": "TTG对战DRG",
+      "onboard_time": 1751463383,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 173276,
       "num": 173276,
       "word": "一人一句祝福伟大的党伟大的祖国",
@@ -6217,14 +6241,6 @@
       "onboard_time": 1751261422,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 172106,
-      "num": 172106,
-      "word": "雷军回应大定被质疑有水分",
-      "onboard_time": 1751462842,
-      "rank": 36,
-      "category": "数码"
     },
     {
       "raw_hot": 171962,
@@ -7017,6 +7033,14 @@
       "onboard_time": 1751158881,
       "rank": 30,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 155236,
+      "num": 155236,
+      "word": "都说了别惹离职冷静期的人",
+      "onboard_time": 1751463383,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 155235,
@@ -7921,6 +7945,14 @@
       "onboard_time": 1751343143,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140422,
+      "num": 284058,
+      "word": "云南大理出现罕见鱼阵",
+      "onboard_time": 1751456962,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140381,
@@ -9107,6 +9139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126180,
+      "num": 126180,
+      "word": "为什么点外卖比到店就餐更便宜",
+      "onboard_time": 1751463804,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126134,
       "num": 126134,
       "word": "天津大学 天大的好消息",
@@ -9259,6 +9299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123959,
+      "num": 123959,
+      "word": "深圳18岁CEO给母校捐了10万",
+      "onboard_time": 1751462663,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123709,
       "num": 438597,
       "word": "虐猫考生考察若不合格将不予录取",
@@ -9393,14 +9441,6 @@
       "onboard_time": 1751361083,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121484,
-      "num": 121484,
-      "word": "TTG对战DRG",
-      "onboard_time": 1751463383,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 121477,
@@ -9795,14 +9835,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 116878,
-      "num": 116878,
-      "word": "都说了别惹离职冷静期的人",
-      "onboard_time": 1751463383,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 116747,
       "num": 116747,
       "word": "以法之名14集好解气",
@@ -10065,14 +10097,6 @@
       "onboard_time": 1751127263,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 112753,
-      "num": 284058,
-      "word": "云南大理出现罕见鱼阵",
-      "onboard_time": 1751456962,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 112748,
@@ -10833,6 +10857,14 @@
       "onboard_time": 1751181981,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102818,
+      "num": 136020,
+      "word": "科学家称大脑死后记忆可提取保存",
+      "onboard_time": 1751463564,
+      "rank": 38,
+      "category": "科学科普"
     },
     {
       "raw_hot": 102678,
@@ -12635,6 +12667,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 49723,
+      "num": 185637,
+      "word": "荣耀最强AI智能体每天省出1小时",
+      "onboard_time": 1751463683,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 49542,
       "num": 49542,
       "word": "春秋航空辟谣飞机极速下落3000米",
@@ -12931,6 +12971,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 40537,
+      "num": 216895,
+      "word": "9家共享充电宝两家无3C",
+      "onboard_time": 1751463082,
+      "rank": 15,
+      "category": "民生新闻,数码"
+    },
+    {
       "raw_hot": 40338,
       "num": 230723,
       "word": "特朗普抱怨日本米荒却不买美国米",
@@ -13203,6 +13251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33922,
+      "num": 184319,
+      "word": "乡村女孩把苦难熬成671分",
+      "onboard_time": 1751462725,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33313,
       "num": 294843,
       "word": "天津一培训机构被指体罚员工狗爬",
@@ -13249,14 +13305,6 @@
       "onboard_time": 1751140394,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32886,
-      "num": 216895,
-      "word": "9家共享充电宝两家无3C",
-      "onboard_time": 1751463082,
-      "rank": 15,
-      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 32877,
@@ -13723,6 +13771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 23878,
+      "num": 201310,
+      "word": "充电宝安全风波蔓延至共享平台",
+      "onboard_time": 1751463683,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23835,
       "num": 28703,
       "word": "鞠婧祎阿黛开机vlog",
@@ -13857,6 +13913,14 @@
       "onboard_time": 1751359281,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21025,
+      "num": 426375,
+      "word": "对贵州启动国家三级救灾应急响应",
+      "onboard_time": 1751448922,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 20908,
@@ -14360,14 +14424,6 @@
       "word": "他率500多名战士阻击7倍于己的日伪军",
       "onboard_time": 1751401874,
       "rank": 20,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 9354,
-      "num": 399326,
-      "word": "对贵州启动国家三级救灾应急响应",
-      "onboard_time": 1751448922,
-      "rank": 2,
       "category": "国内时政"
     },
     {
