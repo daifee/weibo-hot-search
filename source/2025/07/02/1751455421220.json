@@ -1,0 +1,410 @@
+{
+  "runTime": 1751455421220,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 630105,
+        "num": 1100816,
+        "word": "准备买房发现妻子与其他男人有套房",
+        "onboard_time": 1751449101,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 569365,
+        "num": 569365,
+        "word": "1979年魔童超生",
+        "onboard_time": 1751452042,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20903,
+        "num": 551636,
+        "word": "第三届北京网络视听艺术大会",
+        "onboard_time": 1751421979,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 551256,
+        "num": 551256,
+        "word": "长月烬明",
+        "onboard_time": 1751452461,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 499712,
+        "num": 499712,
+        "word": "南航吉林分公司疑突发伤人事件",
+        "onboard_time": 1751453183,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 495502,
+        "num": 495502,
+        "word": "教育局回应受资助学生家里装修豪华",
+        "onboard_time": 1751451023,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 420503,
+        "num": 420503,
+        "word": "女子闪婚4次第4次离婚当天又结婚",
+        "onboard_time": 1751451503,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288304,
+        "num": 288304,
+        "word": "王楚然 纤体瓶喝了一个月也没瘦",
+        "onboard_time": 1751454082,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221853,
+        "num": 282992,
+        "word": "羽衣甘蓝没想到自己因奶茶火了",
+        "onboard_time": 1751439861,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278719,
+        "num": 278719,
+        "word": "孙恩盛店铺关联公司已经营异常",
+        "onboard_time": 1751452461,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 745210,
+        "num": 278445,
+        "word": "家有儿女小雨变暴雨了",
+        "onboard_time": 1751442801,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 515047,
+        "num": 278246,
+        "word": "蒋欣一把把减脂餐拍开",
+        "onboard_time": 1751449402,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37803,
+        "num": 278045,
+        "word": "国产科幻如何异军突起",
+        "onboard_time": 1751454381,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 36579,
+        "num": 277866,
+        "word": "解限机还能这么玩儿",
+        "onboard_time": 1751452940,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 285024,
+        "num": 277380,
+        "word": "胡一天自曝很便宜求戏拍",
+        "onboard_time": 1751451442,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394410,
+        "num": 277044,
+        "word": "虞书欣给多少人送过wakuku",
+        "onboard_time": 1751450362,
+        "rank": 15,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 277032,
+        "num": 277032,
+        "word": "中方是否邀李在明出席抗战胜利纪念活动",
+        "onboard_time": 1751448982,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 363234,
+        "num": 273934,
+        "word": "邱泽唐嫣 顶级过肺",
+        "onboard_time": 1751439141,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195295,
+        "num": 195295,
+        "word": "梓渝银河左岸音乐节",
+        "onboard_time": 1751451023,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 190088,
+        "num": 190088,
+        "word": "鹿晗南京抢票",
+        "onboard_time": 1751455101,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 382585,
+        "num": 185159,
+        "word": "王奕然分手",
+        "onboard_time": 1751449881,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 885853,
+        "num": 183335,
+        "word": "南航",
+        "onboard_time": 1751448623,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204296,
+        "num": 172886,
+        "word": "上海88元和16888元酒店的区别",
+        "onboard_time": 1751452461,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15313,
+        "num": 169019,
+        "word": "好多吴彦祖在古茗",
+        "onboard_time": 1751452940,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164113,
+        "num": 164113,
+        "word": "cos圈还是让PEL闯进去了",
+        "onboard_time": 1751454562,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142775,
+        "num": 142775,
+        "word": "12306称走换乘到出发层就餐不可行",
+        "onboard_time": 1751454442,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264530,
+        "num": 140783,
+        "word": "陈楚生像疯了一样",
+        "onboard_time": 1751448262,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167367,
+        "num": 139084,
+        "word": "冉莹颖回应儿子身高",
+        "onboard_time": 1751450002,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143623,
+        "num": 138328,
+        "word": "18岁丁禹兮旧照",
+        "onboard_time": 1751452102,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162971,
+        "num": 136212,
+        "word": "秦昊又胖回去了",
+        "onboard_time": 1751446642,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203581,
+        "num": 133304,
+        "word": "为什么体检无异常发现却是晚期",
+        "onboard_time": 1751455222,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 132135,
+        "num": 132135,
+        "word": "外交部回应蜜雪冰城霸王茶姬海外走红",
+        "onboard_time": 1751445024,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 54008,
+        "num": 129281,
+        "word": "解限机机甲美学图鉴",
+        "onboard_time": 1751449822,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127645,
+        "num": 127645,
+        "word": "锦绣芳华只更一集",
+        "onboard_time": 1751455402,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122496,
+        "num": 122496,
+        "word": "中东土豪刷短剧日充5万美元",
+        "onboard_time": 1751453781,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 122345,
+        "num": 122345,
+        "word": "何炅 我被奥尼尔打过",
+        "onboard_time": 1751450903,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115752,
+        "num": 115752,
+        "word": "苹果最薄iPhone17Air再曝",
+        "onboard_time": 1751448862,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 13630,
+        "num": 114089,
+        "word": "黑救护车女子死亡未获赔偿",
+        "onboard_time": 1751454743,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113568,
+        "num": 113568,
+        "word": "全员加速中",
+        "onboard_time": 1751455342,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113003,
+        "num": 113003,
+        "word": "为什么女演员可以长红",
+        "onboard_time": 1751453301,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112405,
+        "num": 112405,
+        "word": "我同意金珉奎下次别穿",
+        "onboard_time": 1751450661,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109920,
+        "num": 109920,
+        "word": "爱情里理性就是不够爱吗",
+        "onboard_time": 1751455222,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108268,
+        "num": 108268,
+        "word": "全员加速中直播",
+        "onboard_time": 1751453183,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108234,
+        "num": 108234,
+        "word": "好小众的关系户",
+        "onboard_time": 1751449641,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107554,
+        "num": 107554,
+        "word": "家属称已雇好救护车但医院不让用",
+        "onboard_time": 1751452281,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106984,
+        "num": 106984,
+        "word": "李现新剧做姐夫有的是力气和手段",
+        "onboard_time": 1751454862,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103385,
+        "num": 103385,
+        "word": "女子称游泳馆被陌生男子摸臀",
+        "onboard_time": 1751454260,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98145,
+        "num": 98145,
+        "word": "8月起现金买黄金珠宝超10万需上报",
+        "onboard_time": 1751439681,
+        "rank": 47,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 98006,
+        "num": 98006,
+        "word": "去哪里旅游会有一种活着真好的感觉",
+        "onboard_time": 1751453662,
+        "rank": 48,
+        "category": "旅游,休闲"
+      },
+      {
+        "raw_hot": 95223,
+        "num": 95223,
+        "word": "李荣浩你不是戒烟了吗",
+        "onboard_time": 1751454082,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#青年的理想信念关乎国家未来#"
+    }
+  }
+}
