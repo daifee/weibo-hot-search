@@ -1,10 +1,10 @@
 {
   "startTime": 1751387623546,
-  "endTime": 1751452169579,
+  "endTime": 1751453233364,
   "band_list": [
     {
       "raw_hot": 2285814,
-      "num": 254733,
+      "num": 271417,
       "word": "家有儿女小雨变暴雨了",
       "onboard_time": 1751442801,
       "rank": 10,
@@ -91,6 +91,14 @@
       "category": "民生新闻,汽车"
     },
     {
+      "raw_hot": 796518,
+      "num": 1127442,
+      "word": "准备买房发现妻子与其他男人有套房",
+      "onboard_time": 1751449101,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 772111,
       "num": 867444,
       "word": "猫眼 偷偷放票",
@@ -105,14 +113,6 @@
       "onboard_time": 1751426121,
       "rank": 12,
       "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 720274,
-      "num": 1115243,
-      "word": "准备买房发现妻子与其他男人有套房",
-      "onboard_time": 1751449101,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 715019,
@@ -292,7 +292,7 @@
     },
     {
       "raw_hot": 518217,
-      "num": 249169,
+      "num": 269138,
       "word": "王奕然分手",
       "onboard_time": 1751449881,
       "rank": 12,
@@ -355,19 +355,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 446767,
+      "num": 446767,
+      "word": "蒋欣一把把减脂餐拍开",
+      "onboard_time": 1751449402,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 442889,
       "num": 319628,
       "word": "王灿吃面用Labubu挡汤汁",
       "onboard_time": 1751427802,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 438933,
-      "num": 247705,
-      "word": "蒋欣一把把减脂餐拍开",
-      "onboard_time": 1751449402,
-      "rank": 43,
       "category": "艺人"
     },
     {
@@ -401,6 +401,14 @@
       "onboard_time": 1751415621,
       "rank": 11,
       "category": "美妆,时尚"
+    },
+    {
+      "raw_hot": 417016,
+      "num": 299989,
+      "word": "虞书欣给多少人送过wakuku",
+      "onboard_time": 1751450362,
+      "rank": 6,
+      "category": "艺人,休闲"
     },
     {
       "raw_hot": 414296,
@@ -547,6 +555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 305509,
+      "num": 305509,
+      "word": "教育局回应受资助学生家里装修豪华",
+      "onboard_time": 1751451023,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 305490,
       "num": 305490,
       "word": "莆田一受资助学生家里装修豪华引质疑",
@@ -555,20 +571,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 299989,
-      "num": 299989,
-      "word": "虞书欣给多少人送过wakuku",
-      "onboard_time": 1751450362,
-      "rank": 6,
-      "category": "艺人,休闲"
-    },
-    {
-      "raw_hot": 298648,
-      "num": 298648,
+      "raw_hot": 302209,
+      "num": 302209,
       "word": "陈楚生像疯了一样",
       "onboard_time": 1751448262,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 297414,
+      "num": 297414,
+      "word": "梓渝银河左岸音乐节",
+      "onboard_time": 1751451023,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 296976,
@@ -625,14 +641,6 @@
       "onboard_time": 1751353402,
       "rank": 6,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 256204,
-      "num": 247582,
-      "word": "梓渝银河左岸音乐节",
-      "onboard_time": 1751451023,
-      "rank": 15,
-      "category": "演出"
     },
     {
       "raw_hot": 251434,
@@ -803,6 +811,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 216535,
+      "num": 216535,
+      "word": "女子闪婚4次第4次离婚当天又结婚",
+      "onboard_time": 1751451503,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 215815,
       "num": 215815,
       "word": "整个英语体系没有比这个更完整的了",
@@ -947,12 +963,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 192983,
-      "num": 192983,
-      "word": "女子闪婚4次第4次离婚当天又结婚",
-      "onboard_time": 1751451503,
-      "rank": 21,
-      "category": "民生新闻"
+      "raw_hot": 191029,
+      "num": 191029,
+      "word": "章泽天素颜看展",
+      "onboard_time": 1751449881,
+      "rank": 30,
+      "category": "互联网,艺人"
     },
     {
       "raw_hot": 187776,
@@ -979,14 +995,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 181312,
-      "num": 123636,
-      "word": "章泽天素颜看展",
-      "onboard_time": 1751449881,
-      "rank": 30,
-      "category": "互联网,艺人"
-    },
-    {
       "raw_hot": 180577,
       "num": 300452,
       "word": "肖战的健康生活选择",
@@ -1000,14 +1008,6 @@
       "word": "儿科女医生进修3个月带回100G资料",
       "onboard_time": 1751421681,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 176802,
-      "num": 250964,
-      "word": "教育局回应受资助学生家里装修豪华",
-      "onboard_time": 1751451023,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1059,6 +1059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173821,
+      "num": 198149,
+      "word": "1979年魔童超生",
+      "onboard_time": 1751452042,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173790,
       "num": 139584,
       "word": "胡塞武装高超音速导弹袭击以色列",
@@ -1099,12 +1107,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171627,
+      "num": 159852,
+      "word": "上海88元和16888元酒店的区别",
+      "onboard_time": 1751452461,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171187,
       "num": 171187,
       "word": "12年前攒钱看世界的女生又攒够买房钱",
       "onboard_time": 1751441543,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170176,
+      "num": 170176,
+      "word": "长月烬明",
+      "onboard_time": 1751452461,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 169138,
@@ -1185,6 +1209,14 @@
       "onboard_time": 1751419880,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162560,
+      "num": 162560,
+      "word": "18岁丁禹兮旧照",
+      "onboard_time": 1751452102,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 162086,
@@ -1283,6 +1315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 150767,
+      "num": 150767,
+      "word": "孙恩盛店铺关联公司已经营异常",
+      "onboard_time": 1751452461,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150518,
       "num": 216094,
       "word": "关晓彤近期妆造",
@@ -1336,6 +1376,14 @@
       "word": "RED扫楼直播",
       "onboard_time": 1751441662,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 146844,
+      "num": 146844,
+      "word": "胡一天自曝很便宜求戏拍",
+      "onboard_time": 1751451442,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -1715,14 +1763,6 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 123672,
-      "num": 123672,
-      "word": "胡一天自曝很便宜求戏拍",
-      "onboard_time": 1751451442,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 123169,
       "num": 123169,
       "word": "宣璐重回现代剧赛道",
@@ -1835,6 +1875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 117824,
+      "num": 117824,
+      "word": "书卷一梦有自己的依萍",
+      "onboard_time": 1751452281,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116991,
       "num": 116991,
       "word": "猫眼就误放周杰伦演唱会回流票致歉",
@@ -1849,6 +1897,14 @@
       "onboard_time": 1751379084,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116574,
+      "num": 116574,
+      "word": "南航吉林分公司疑突发伤人事件",
+      "onboard_time": 1751453183,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116282,
@@ -2075,6 +2131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 105869,
+      "num": 192986,
+      "word": "手握20亿黑帮教父入狱赃款去哪了",
+      "onboard_time": 1751451682,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105503,
       "num": 105503,
       "word": "我承认之前对李人骏大声了点",
@@ -2195,20 +2259,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 93916,
+      "num": 93916,
+      "word": "全员加速中直播",
+      "onboard_time": 1751453183,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 93063,
       "num": 240846,
       "word": "上海交大强化校外来访人员行为管理",
       "onboard_time": 1751445081,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 92415,
-      "num": 92415,
-      "word": "18岁丁禹兮旧照",
-      "onboard_time": 1751452102,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 92246,
@@ -2353,14 +2417,6 @@
       "onboard_time": 1751383464,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 82708,
-      "num": 106261,
-      "word": "1979年魔童超生",
-      "onboard_time": 1751452042,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 82476,
@@ -2523,14 +2579,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 64148,
-      "num": 192986,
-      "word": "手握20亿黑帮教父入狱赃款去哪了",
-      "onboard_time": 1751451682,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 63698,
       "num": 73966,
       "word": "被黄晓明直接塞了100欧",
@@ -2564,7 +2612,7 @@
     },
     {
       "raw_hot": 61798,
-      "num": 192990,
+      "num": 273800,
       "word": "解限机机甲美学图鉴",
       "onboard_time": 1751449822,
       "rank": 18,
@@ -2643,6 +2691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 52806,
+      "num": 164793,
+      "word": "解限机还能这么玩儿",
+      "onboard_time": 1751452940,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 51743,
       "num": 130783,
       "word": "白厄动画短片",
@@ -2659,6 +2715,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 48145,
+      "num": 117879,
+      "word": "用一根筷子实现0成本变美",
+      "onboard_time": 1751451442,
+      "rank": 39,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 46725,
       "num": 134766,
       "word": "梁伟铿机场出发",
@@ -2672,6 +2736,14 @@
       "word": "河北冀时办选不满意没反应满意才提交",
       "onboard_time": 1751437342,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44881,
+      "num": 261422,
+      "word": "家属称已雇好救护车但医院不让用",
+      "onboard_time": 1751452281,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -2731,6 +2803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 35810,
+      "num": 161598,
+      "word": "好多吴彦祖在古茗",
+      "onboard_time": 1751452940,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 35712,
       "num": 123378,
       "word": "洪水退去村超球场重新亮灯",
@@ -2753,6 +2833,14 @@
       "onboard_time": 1751440762,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 34031,
+      "num": 277386,
+      "word": "院方与黑救护车老板签有合作协议",
+      "onboard_time": 1751452281,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30712,
@@ -2840,6 +2928,14 @@
       "word": "特朗普将给新移民监狱剪彩",
       "onboard_time": 1751399173,
       "rank": 46,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 15857,
+      "num": 160411,
+      "word": "120秒梳理佩通坦通话门事件",
+      "onboard_time": 1751452882,
+      "rank": 29,
       "category": "国际时政"
     },
     {

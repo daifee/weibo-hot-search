@@ -1,0 +1,410 @@
+{
+  "runTime": 1751453233364,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 796518,
+        "num": 1127442,
+        "word": "准备买房发现妻子与其他男人有套房",
+        "onboard_time": 1751449101,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 451521,
+        "num": 451521,
+        "word": "中方是否邀李在明出席抗战胜利纪念活动",
+        "onboard_time": 1751448982,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 21193,
+        "num": 447071,
+        "word": "第三届北京网络视听艺术大会",
+        "onboard_time": 1751421979,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 446767,
+        "num": 446767,
+        "word": "蒋欣一把把减脂餐拍开",
+        "onboard_time": 1751449402,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391105,
+        "num": 391105,
+        "word": "邱泽唐嫣 顶级过肺",
+        "onboard_time": 1751439141,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305509,
+        "num": 305509,
+        "word": "教育局回应受资助学生家里装修豪华",
+        "onboard_time": 1751451023,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302209,
+        "num": 302209,
+        "word": "陈楚生像疯了一样",
+        "onboard_time": 1751448262,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297414,
+        "num": 297414,
+        "word": "梓渝银河左岸音乐节",
+        "onboard_time": 1751451023,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 278341,
+        "num": 278341,
+        "word": "羽衣甘蓝没想到自己因奶茶火了",
+        "onboard_time": 1751439861,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34031,
+        "num": 277386,
+        "word": "院方与黑救护车老板签有合作协议",
+        "onboard_time": 1751452281,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39450,
+        "num": 273800,
+        "word": "解限机机甲美学图鉴",
+        "onboard_time": 1751449822,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 838887,
+        "num": 271417,
+        "word": "家有儿女小雨变暴雨了",
+        "onboard_time": 1751442801,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 516640,
+        "num": 269138,
+        "word": "王奕然分手",
+        "onboard_time": 1751449881,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417016,
+        "num": 266158,
+        "word": "虞书欣给多少人送过wakuku",
+        "onboard_time": 1751450362,
+        "rank": 13,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 44881,
+        "num": 261422,
+        "word": "家属称已雇好救护车但医院不让用",
+        "onboard_time": 1751452281,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261003,
+        "num": 261003,
+        "word": "女儿黑救护车上死亡父母讲述经过",
+        "onboard_time": 1751443343,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239781,
+        "num": 239781,
+        "word": "秦昊又胖回去了",
+        "onboard_time": 1751446642,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230089,
+        "num": 230089,
+        "word": "冉莹颖回应儿子身高",
+        "onboard_time": 1751450002,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216535,
+        "num": 216535,
+        "word": "女子闪婚4次第4次离婚当天又结婚",
+        "onboard_time": 1751451503,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173821,
+        "num": 198149,
+        "word": "1979年魔童超生",
+        "onboard_time": 1751452042,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1522148,
+        "num": 197486,
+        "word": "南航",
+        "onboard_time": 1751448623,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298002,
+        "num": 194944,
+        "word": "原来幂姐也会吃十几块的普通餐",
+        "onboard_time": 1751447602,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191029,
+        "num": 191029,
+        "word": "章泽天素颜看展",
+        "onboard_time": 1751449881,
+        "rank": 22,
+        "category": "互联网,艺人"
+      },
+      {
+        "raw_hot": 180528,
+        "num": 180528,
+        "word": "赵文卓祝贺女儿高中毕业获最高奖",
+        "onboard_time": 1751446524,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170176,
+        "num": 170176,
+        "word": "长月烬明",
+        "onboard_time": 1751452461,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52806,
+        "num": 164793,
+        "word": "解限机还能这么玩儿",
+        "onboard_time": 1751452940,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162560,
+        "num": 162560,
+        "word": "18岁丁禹兮旧照",
+        "onboard_time": 1751452102,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121168,
+        "num": 161762,
+        "word": "外交部回应蜜雪冰城霸王茶姬海外走红",
+        "onboard_time": 1751445024,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 35810,
+        "num": 161598,
+        "word": "好多吴彦祖在古茗",
+        "onboard_time": 1751452940,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15857,
+        "num": 160411,
+        "word": "120秒梳理佩通坦通话门事件",
+        "onboard_time": 1751452882,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 171627,
+        "num": 159852,
+        "word": "上海88元和16888元酒店的区别",
+        "onboard_time": 1751452461,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159020,
+        "num": 159020,
+        "word": "莆田一受资助学生家里装修豪华引质疑",
+        "onboard_time": 1751446821,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152689,
+        "num": 152689,
+        "word": "苹果最薄iPhone17Air再曝",
+        "onboard_time": 1751448862,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 150767,
+        "num": 150767,
+        "word": "孙恩盛店铺关联公司已经营异常",
+        "onboard_time": 1751452461,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146844,
+        "num": 146844,
+        "word": "胡一天自曝很便宜求戏拍",
+        "onboard_time": 1751451442,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134477,
+        "num": 134477,
+        "word": "何炅 我被奥尼尔打过",
+        "onboard_time": 1751450903,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132259,
+        "num": 132259,
+        "word": "8月起现金买黄金珠宝超10万需上报",
+        "onboard_time": 1751439681,
+        "rank": 36,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 124118,
+        "num": 124118,
+        "word": "我同意金珉奎下次别穿",
+        "onboard_time": 1751450661,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118194,
+        "num": 118194,
+        "word": "一个3C认证至少3个月花费两三万",
+        "onboard_time": 1751434342,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48145,
+        "num": 117879,
+        "word": "用一根筷子实现0成本变美",
+        "onboard_time": 1751451442,
+        "rank": 39,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 117824,
+        "num": 117824,
+        "word": "书卷一梦有自己的依萍",
+        "onboard_time": 1751452281,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116574,
+        "num": 116574,
+        "word": "南航吉林分公司疑突发伤人事件",
+        "onboard_time": 1751453183,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113439,
+        "num": 113439,
+        "word": "好小众的关系户",
+        "onboard_time": 1751449641,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110913,
+        "num": 110913,
+        "word": "何老师注定无法体面的老去",
+        "onboard_time": 1751430983,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106153,
+        "num": 106153,
+        "word": "苦瓜饮品外卖量飙升11倍",
+        "onboard_time": 1751447242,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105869,
+        "num": 105869,
+        "word": "手握20亿黑帮教父入狱赃款去哪了",
+        "onboard_time": 1751451682,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98194,
+        "num": 98194,
+        "word": "卫健委回应女子做取环手术十级伤残",
+        "onboard_time": 1751448742,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95294,
+        "num": 95294,
+        "word": "1千多万买公寓入住前夕被水淹",
+        "onboard_time": 1751438001,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93916,
+        "num": 93916,
+        "word": "全员加速中直播",
+        "onboard_time": 1751453183,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93231,
+        "num": 93231,
+        "word": "银河左岸阵容",
+        "onboard_time": 1751450122,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#青年的理想信念关乎国家未来#"
+    }
+  }
+}
