@@ -1,10 +1,10 @@
 {
   "startTime": 1751387623546,
-  "endTime": 1751413332181,
+  "endTime": 1751421786143,
   "band_list": [
     {
       "raw_hot": 981774,
-      "num": 206992,
+      "num": 341243,
       "word": "陈赫回应鹿晗暴瘦",
       "onboard_time": 1751380342,
       "rank": 10,
@@ -28,11 +28,43 @@
     },
     {
       "raw_hot": 682898,
-      "num": 205851,
+      "num": 305995,
       "word": "胡一天 退休了",
       "onboard_time": 1751369842,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 671895,
+      "num": 1107503,
+      "word": "哪吒2告别魔童",
+      "onboard_time": 1751416462,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 639006,
+      "num": 639006,
+      "word": "原来报恩的孩子从小就能看出来",
+      "onboard_time": 1751414359,
+      "rank": 1,
+      "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 627768,
+      "num": 627768,
+      "word": "马斯克要建立美国党",
+      "onboard_time": 1751415741,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 620992,
+      "num": 620992,
+      "word": "民航局回应为何发布充电宝紧急通知",
+      "onboard_time": 1751415922,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 522513,
@@ -43,12 +75,52 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 514670,
+      "num": 514670,
+      "word": "美参议院51比50通过大而美法案",
+      "onboard_time": 1751414240,
+      "rank": 5,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 418277,
+      "num": 327344,
+      "word": "者来女马甲",
+      "onboard_time": 1751415621,
+      "rank": 11,
+      "category": "美妆,时尚"
+    },
+    {
       "raw_hot": 412261,
       "num": 202963,
       "word": "李福贵自曝19岁结婚一年后分开",
       "onboard_time": 1751385023,
       "rank": 13,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 397250,
+      "num": 397250,
+      "word": "皓衣行",
+      "onboard_time": 1751417781,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 390002,
+      "num": 390002,
+      "word": "特朗普或考虑将马斯克驱逐出境",
+      "onboard_time": 1751414961,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 386476,
+      "num": 386476,
+      "word": "伊朗夫妇来中国参展卖爆单",
+      "onboard_time": 1751418981,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 372753,
@@ -65,6 +137,14 @@
       "onboard_time": 1751383883,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 354864,
+      "num": 354864,
+      "word": "为什么朋友之间婚后就变了",
+      "onboard_time": 1751416580,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 335561,
@@ -84,7 +164,7 @@
     },
     {
       "raw_hot": 322892,
-      "num": 224635,
+      "num": 267130,
       "word": "质疑虐猫考生漠视生命并非追杀",
       "onboard_time": 1751385801,
       "rank": 31,
@@ -97,6 +177,14 @@
       "onboard_time": 1751383702,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 288949,
+      "num": 288949,
+      "word": "双休7千单休9千选哪个",
+      "onboard_time": 1751373082,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 285909,
@@ -139,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 229168,
+      "num": 229168,
+      "word": "最近的雨好难猜",
+      "onboard_time": 1751417481,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 222474,
       "num": 222474,
       "word": "台北前副市长妻子跳楼身亡",
@@ -147,12 +243,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 217950,
+      "num": 199665,
+      "word": "幼师又多了一个就业方向",
+      "onboard_time": 1751421739,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 203730,
+      "num": 203730,
+      "word": "42岁蒋欣工龄34年",
+      "onboard_time": 1751416041,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 197048,
+      "num": 197048,
+      "word": "美参议院通过大而美法案",
+      "onboard_time": 1751421320,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 196911,
       "num": 196911,
       "word": "这是杨幂还是小糯米",
       "onboard_time": 1751351602,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196728,
+      "num": 196728,
+      "word": "提醒老年人警惕免费送鸡蛋等引流套路",
+      "onboard_time": 1751420600,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176196,
@@ -171,12 +299,52 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 171879,
+      "num": 171879,
+      "word": "央视揭造谣大熊猫受虐圈钱模式",
+      "onboard_time": 1751420780,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166141,
       "num": 166141,
       "word": "甘薇送孩子去美国看贾跃亭",
       "onboard_time": 1751385982,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164404,
+      "num": 203693,
+      "word": "书卷一梦热度",
+      "onboard_time": 1751413038,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 162619,
+      "num": 162619,
+      "word": "高芙一轮游",
+      "onboard_time": 1751419880,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 162086,
+      "num": 162086,
+      "word": "金饰克价涨到1000元",
+      "onboard_time": 1751388619,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 159961,
+      "num": 198348,
+      "word": "又一家反华媒体关门",
+      "onboard_time": 1751420240,
+      "rank": 21,
+      "category": "国内时政"
     },
     {
       "raw_hot": 157442,
@@ -251,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121913,
+      "num": 121913,
+      "word": "MSI",
+      "onboard_time": 1751421500,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121124,
       "num": 113067,
       "word": "迪丽热巴回头一看全是自己的兵",
@@ -267,12 +443,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 117643,
+      "num": 122569,
+      "word": "迪丽热巴阿娜尔罕五一工程奖",
+      "onboard_time": 1751419880,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116767,
       "num": 116767,
       "word": "田曦薇迪士尼太好玩了",
       "onboard_time": 1751379084,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115712,
+      "num": 115712,
+      "word": "儿科女医生进修3个月带回100G资料",
+      "onboard_time": 1751421681,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113796,
@@ -288,6 +480,14 @@
       "word": "王源疑似被恶剪做局",
       "onboard_time": 1751375183,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 112432,
+      "num": 112432,
+      "word": "58岁张宇近况曝光",
+      "onboard_time": 1751416221,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -315,12 +515,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 110469,
-      "num": 110469,
-      "word": "金饰克价涨到1000元",
-      "onboard_time": 1751388619,
-      "rank": 29,
-      "category": "财经"
+      "raw_hot": 104622,
+      "num": 104622,
+      "word": "赛里木湖上的黄色泡沫原来是花粉海",
+      "onboard_time": 1751415082,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103855,
@@ -331,6 +531,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 103739,
+      "num": 103739,
+      "word": "阴阳师",
+      "onboard_time": 1751419341,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 100901,
       "num": 100901,
       "word": "医生建议女性10点半前睡觉",
@@ -339,12 +547,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 100395,
+      "num": 100395,
+      "word": "感觉我生小孩后就是这样的父母",
+      "onboard_time": 1751420240,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 94847,
       "num": 94847,
       "word": "女儿曾一年没叫焦恩俊爸爸",
       "onboard_time": 1751411178,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92624,
+      "num": 92624,
+      "word": "印尼一波音737客机险坠毁",
+      "onboard_time": 1751421739,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 92246,
+      "num": 92246,
+      "word": "特朗普大而美法案被指劫贫济富",
+      "onboard_time": 1751414300,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 90822,
@@ -387,14 +619,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 84434,
-      "num": 88225,
-      "word": "书卷一梦热度",
-      "onboard_time": 1751413038,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 84072,
       "num": 90813,
       "word": "俄罗斯全面控制卢甘斯克",
@@ -425,6 +649,22 @@
       "onboard_time": 1751412438,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81415,
+      "num": 92272,
+      "word": "许我耀眼七月备播",
+      "onboard_time": 1751421681,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 81128,
+      "num": 101106,
+      "word": "早睡早起的人更易早晨焦虑",
+      "onboard_time": 1751421681,
+      "rank": 41,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 76434,
@@ -505,6 +745,14 @@
       "onboard_time": 1751369662,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 62506,
+      "num": 104153,
+      "word": "淘宝闪购补贴500亿",
+      "onboard_time": 1751421681,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 60679,
@@ -596,7 +844,7 @@
     },
     {
       "raw_hot": 27278,
-      "num": 381840,
+      "num": 631387,
       "word": "中国共产党104岁生日",
       "onboard_time": 1751368582,
       "rank": 2,
@@ -619,12 +867,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 22679,
+      "num": 100511,
+      "word": "从业者称百元以下充电宝不会考虑",
+      "onboard_time": 1751421681,
+      "rank": 42,
+      "category": "民生新闻,数码"
+    },
+    {
+      "raw_hot": 19757,
+      "num": 101932,
+      "word": "排队买票看温网是什么体验",
+      "onboard_time": 1751421681,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 16697,
       "num": 18764,
       "word": "特朗普将给新移民监狱剪彩",
       "onboard_time": 1751399173,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 15824,
+      "num": 101530,
+      "word": "写遗书乘客怒怼日航推诿说谎",
+      "onboard_time": 1751421739,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13780,
