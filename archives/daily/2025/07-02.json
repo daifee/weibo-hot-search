@@ -1,6 +1,6 @@
 {
   "startTime": 1751387623546,
-  "endTime": 1751438324840,
+  "endTime": 1751439152490,
   "band_list": [
     {
       "raw_hot": 1880456,
@@ -187,6 +187,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 522908,
+      "num": 278764,
+      "word": "小黄豆前助理曝离职原因",
+      "onboard_time": 1751435361,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 522513,
       "num": 522513,
       "word": "上海交大学生疑被校外人士殴打",
@@ -209,14 +217,6 @@
       "onboard_time": 1751421739,
       "rank": 45,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 506386,
-      "num": 278764,
-      "word": "小黄豆前助理曝离职原因",
-      "onboard_time": 1751435361,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 485682,
@@ -259,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 429662,
+      "num": 429662,
+      "word": "于正看白鹿第一眼觉得是天王巨星",
+      "onboard_time": 1751434523,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 421368,
       "num": 421368,
       "word": "为何这么多金店都姓周",
@@ -275,12 +283,28 @@
       "category": "美妆,时尚"
     },
     {
+      "raw_hot": 414296,
+      "num": 220571,
+      "word": "沈佳润回应",
+      "onboard_time": 1751437582,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 412261,
       "num": 202963,
       "word": "李福贵自曝19岁结婚一年后分开",
       "onboard_time": 1751385023,
       "rank": 13,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 403808,
+      "num": 403808,
+      "word": "上海交大通报学生疑被校外人员殴打",
+      "onboard_time": 1751436201,
+      "rank": 14,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 397250,
@@ -299,14 +323,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 379520,
-      "num": 379520,
-      "word": "于正看白鹿第一眼觉得是天王巨星",
-      "onboard_time": 1751434523,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 372753,
       "num": 372753,
       "word": "利拉德",
@@ -321,6 +337,14 @@
       "onboard_time": 1751383883,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 354006,
+      "num": 354006,
+      "word": "2025年的三伏天很不一样",
+      "onboard_time": 1751435242,
+      "rank": 7,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 335561,
@@ -387,14 +411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 294648,
-      "num": 294648,
-      "word": "2025年的三伏天很不一样",
-      "onboard_time": 1751435242,
-      "rank": 7,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 288949,
       "num": 288949,
       "word": "双休7千单休9千选哪个",
@@ -409,14 +425,6 @@
       "onboard_time": 1751377224,
       "rank": 15,
       "category": "音乐,艺人"
-    },
-    {
-      "raw_hot": 276527,
-      "num": 276527,
-      "word": "上海交大通报学生疑被校外人员殴打",
-      "onboard_time": 1751436201,
-      "rank": 14,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 268128,
@@ -507,6 +515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 222588,
+      "num": 198497,
+      "word": "杨幂yummy真的太魔性了",
+      "onboard_time": 1751436922,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222474,
       "num": 222474,
       "word": "台北前副市长妻子跳楼身亡",
@@ -515,12 +531,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 220515,
-      "num": 220515,
-      "word": "沈佳润回应",
-      "onboard_time": 1751437582,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 220970,
+      "num": 220970,
+      "word": "田嘉瑞又打给了虞书欣",
+      "onboard_time": 1751437162,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 220021,
@@ -555,12 +571,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 212326,
-      "num": 212326,
-      "word": "田嘉瑞又打给了虞书欣",
-      "onboard_time": 1751437162,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 212042,
+      "num": 177598,
+      "word": "1千多万买公寓入住前夕被水淹",
+      "onboard_time": 1751438001,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 203730,
@@ -595,12 +611,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 198497,
-      "num": 198497,
-      "word": "杨幂yummy真的太魔性了",
-      "onboard_time": 1751436922,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 199128,
+      "num": 199128,
+      "word": "深圳卫健委",
+      "onboard_time": 1751433261,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198074,
@@ -691,14 +707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 174339,
-      "num": 174339,
-      "word": "深圳卫健委",
-      "onboard_time": 1751433261,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 174337,
       "num": 271176,
       "word": "高启强来了东平都只能卖鱼",
@@ -785,6 +793,14 @@
       "onboard_time": 1751433261,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164031,
+      "num": 214258,
+      "word": "零跑上半年新势力销量第一",
+      "onboard_time": 1751437342,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 162619,
@@ -931,14 +947,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 144271,
-      "num": 144271,
-      "word": "1千多万买公寓入住前夕被水淹",
-      "onboard_time": 1751438001,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 143749,
       "num": 143749,
       "word": "杏是绝佳的减肥水果",
@@ -1011,20 +1019,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135590,
+      "num": 280758,
+      "word": "一个3C认证至少3个月花费两三万",
+      "onboard_time": 1751434342,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134575,
       "num": 134575,
       "word": "蒋梦婕澄清网传身高155",
       "onboard_time": 1751437642,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 133810,
-      "num": 214258,
-      "word": "零跑上半年新势力销量第一",
-      "onboard_time": 1751437342,
-      "rank": 17,
-      "category": "汽车"
     },
     {
       "raw_hot": 133209,
@@ -1035,12 +1043,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 133187,
-      "num": 280758,
-      "word": "一个3C认证至少3个月花费两三万",
-      "onboard_time": 1751434342,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 132484,
+      "num": 132484,
+      "word": "资助的小孩高考考了一百多名",
+      "onboard_time": 1751438001,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 130642,
@@ -1115,6 +1123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124242,
+      "num": 124242,
+      "word": "周鹤年性交易嫌疑不成立",
+      "onboard_time": 1751438061,
+      "rank": 41,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 123013,
       "num": 123013,
       "word": "王楚钦美国大满贯见",
@@ -1179,14 +1195,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 117499,
-      "num": 117499,
-      "word": "周鹤年性交易嫌疑不成立",
-      "onboard_time": 1751438061,
-      "rank": 41,
-      "category": "艺人,民生新闻"
-    },
-    {
       "raw_hot": 116991,
       "num": 116991,
       "word": "猫眼就误放周杰伦演唱会回流票致歉",
@@ -1219,14 +1227,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 114650,
-      "num": 114650,
-      "word": "资助的小孩高考考了一百多名",
-      "onboard_time": 1751438001,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 114242,
       "num": 114242,
       "word": "古人炫技文物最薄处仅0.2毫米",
@@ -1257,6 +1257,14 @@
       "onboard_time": 1751424922,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 113309,
+      "num": 113309,
+      "word": "讲话前缀 自我意识过剩",
+      "onboard_time": 1751439020,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 113029,
@@ -1331,6 +1339,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108653,
+      "num": 103568,
+      "word": "杨紫演出小说文字般的画面",
+      "onboard_time": 1751439020,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 107858,
+      "num": 107858,
+      "word": "胡锡进呼吁大学校园向公众开放",
+      "onboard_time": 1751436082,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107146,
       "num": 256769,
       "word": "原来细菌性腹泻是个狠角色",
@@ -1395,20 +1419,20 @@
       "category": "数码,民生新闻"
     },
     {
+      "raw_hot": 101087,
+      "num": 101087,
+      "word": "英菲尼迪车祸案当事人王辉的15年",
+      "onboard_time": 1751439020,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100901,
       "num": 100901,
       "word": "医生建议女性10点半前睡觉",
       "onboard_time": 1751366001,
       "rank": 32,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 100061,
-      "num": 100061,
-      "word": "胡锡进呼吁大学校园向公众开放",
-      "onboard_time": 1751436082,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 94847,
@@ -1425,6 +1449,14 @@
       "onboard_time": 1751414300,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 92182,
+      "num": 97828,
+      "word": "又到了儿童意外高发期",
+      "onboard_time": 1751439083,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90822,
@@ -1611,6 +1643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67214,
+      "num": 109318,
+      "word": "王楚钦答应王皓赢回来",
+      "onboard_time": 1751438421,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 65621,
       "num": 74018,
       "word": "南京地铁车厢内喝水不再罚款",
@@ -1699,6 +1739,14 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 57763,
+      "num": 134430,
+      "word": "中国人民抗战胜利80周年",
+      "onboard_time": 1751438902,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 56825,
       "num": 142591,
       "word": "王欣瑜回应温网晋级",
@@ -1779,6 +1827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34394,
+      "num": 549022,
+      "word": "第三届北京网络视听艺术大会",
+      "onboard_time": 1751421979,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30712,
       "num": 34560,
       "word": "郑钦文今年大满贯战绩",
@@ -1817,14 +1873,6 @@
       "onboard_time": 1751422881,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 24497,
-      "num": 549022,
-      "word": "第三届北京网络视听艺术大会",
-      "onboard_time": 1751421979,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 24485,
@@ -1881,6 +1929,14 @@
       "onboard_time": 1751412860,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 13297,
+      "num": 133844,
+      "word": "代考驾照宣称交钱包过无需本人到场",
+      "onboard_time": 1751438482,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9378,
