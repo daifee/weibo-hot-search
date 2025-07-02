@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751445345835,
+  "endTime": 1751446217887,
   "band_list": [
     {
       "raw_hot": 3569605,
@@ -51,8 +51,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 2184340,
-      "num": 237436,
+      "raw_hot": 2285814,
+      "num": 240530,
       "word": "家有儿女小雨变暴雨了",
       "onboard_time": 1751442801,
       "rank": 10,
@@ -1235,6 +1235,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 637323,
+      "num": 1101971,
+      "word": "羽衣甘蓝没想到自己因奶茶火了",
+      "onboard_time": 1751439861,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 633772,
       "num": 633772,
       "word": "春秋航空",
@@ -1457,14 +1465,6 @@
       "onboard_time": 1751175322,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 560473,
-      "num": 560473,
-      "word": "羽衣甘蓝没想到自己因奶茶火了",
-      "onboard_time": 1751439861,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 558873,
@@ -2715,6 +2715,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 328388,
+      "num": 239482,
+      "word": "郭涛儿子高中毕业",
+      "onboard_time": 1751443943,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 326526,
       "num": 450312,
       "word": "穿普拉达的女王2开拍",
@@ -2969,14 +2977,6 @@
       "onboard_time": 1751202802,
       "rank": 26,
       "category": "演出,时尚"
-    },
-    {
-      "raw_hot": 299698,
-      "num": 236749,
-      "word": "郭涛儿子高中毕业",
-      "onboard_time": 1751443943,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 299551,
@@ -3611,6 +3611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247933,
+      "num": 247933,
+      "word": "女儿黑救护车上死亡父母讲述经过",
+      "onboard_time": 1751443343,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 246905,
       "num": 285604,
       "word": "设立党中央决策议事协调机构",
@@ -3739,12 +3747,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 234554,
-      "num": 234554,
-      "word": "女儿黑救护车上死亡父母讲述经过",
-      "onboard_time": 1751443343,
-      "rank": 12,
-      "category": "民生新闻"
+      "raw_hot": 234845,
+      "num": 234845,
+      "word": "韩国或将对中国游客个人免签",
+      "onboard_time": 1751442682,
+      "rank": 21,
+      "category": "国际时政,国际时政"
     },
     {
       "raw_hot": 234103,
@@ -3849,6 +3857,14 @@
       "onboard_time": 1751378244,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 227958,
+      "num": 227958,
+      "word": "员工未休年假获赔2.9万余元",
+      "onboard_time": 1751444544,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 227713,
@@ -4025,6 +4041,14 @@
       "onboard_time": 1751426721,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219656,
+      "num": 198009,
+      "word": "南京大屠杀幸存者照片墙的灯又熄2盏",
+      "onboard_time": 1751440461,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 219549,
@@ -4409,6 +4433,14 @@
       "onboard_time": 1751280742,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203905,
+      "num": 203905,
+      "word": "剧还在拍番外就先播了",
+      "onboard_time": 1751445743,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 203730,
@@ -4819,6 +4851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193471,
+      "num": 193471,
+      "word": "书卷一梦1集剧透17集退婚",
+      "onboard_time": 1751445382,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193436,
       "num": 193436,
       "word": "魏哲鸣演技",
@@ -5051,14 +5091,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 187155,
-      "num": 187155,
-      "word": "南京大屠杀幸存者照片墙的灯又熄2盏",
-      "onboard_time": 1751440461,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 186697,
       "num": 242365,
       "word": "摆摊女生称母校以影响招生要求删视频",
@@ -5201,14 +5233,6 @@
       "onboard_time": 1751265081,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 182640,
-      "num": 182640,
-      "word": "韩国或将对中国游客个人免签",
-      "onboard_time": 1751442682,
-      "rank": 21,
-      "category": "国际时政,国际时政"
     },
     {
       "raw_hot": 182240,
@@ -6507,6 +6531,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 154408,
+      "num": 154408,
+      "word": "云合",
+      "onboard_time": 1751445024,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154214,
       "num": 154214,
       "word": "资深机长分析飞机为何直降8700米",
@@ -6665,14 +6697,6 @@
       "onboard_time": 1751128161,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 151165,
-      "num": 151165,
-      "word": "云合",
-      "onboard_time": 1751445024,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 151027,
@@ -6883,6 +6907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 147639,
+      "num": 147639,
+      "word": "RED扫楼直播",
+      "onboard_time": 1751441662,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147593,
       "num": 228694,
       "word": "中餐厅9古装群像",
@@ -6945,6 +6977,14 @@
       "onboard_time": 1751432484,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146522,
+      "num": 198770,
+      "word": "花少群像的顶级浪漫",
+      "onboard_time": 1751442502,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 146319,
@@ -7017,6 +7057,14 @@
       "onboard_time": 1751441422,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 145102,
+      "num": 145102,
+      "word": "外交部回应蜜雪冰城霸王茶姬海外走红",
+      "onboard_time": 1751445024,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 145003,
@@ -7379,6 +7427,14 @@
       "category": "民生新闻,休闲"
     },
     {
+      "raw_hot": 139609,
+      "num": 139609,
+      "word": "韩国男性流行相亲日本女性",
+      "onboard_time": 1751444242,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 139524,
       "num": 139524,
       "word": "鹿晗邓超一起吃饭",
@@ -7457,22 +7513,6 @@
       "onboard_time": 1751203223,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 137996,
-      "num": 137996,
-      "word": "RED扫楼直播",
-      "onboard_time": 1751441662,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 137996,
-      "num": 137996,
-      "word": "韩国男性流行相亲日本女性",
-      "onboard_time": 1751444242,
-      "rank": 28,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 137893,
@@ -8043,6 +8083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130742,
+      "num": 130742,
+      "word": "孟子义何与拥抱路透",
+      "onboard_time": 1751445862,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130658,
       "num": 130658,
       "word": "三个外地人不如一个本地人",
@@ -8089,14 +8137,6 @@
       "onboard_time": 1751158759,
       "rank": 35,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 130440,
-      "num": 130440,
-      "word": "花少群像的顶级浪漫",
-      "onboard_time": 1751442502,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 130375,
@@ -8169,14 +8209,6 @@
       "onboard_time": 1751272882,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 129794,
-      "num": 129794,
-      "word": "外交部回应蜜雪冰城霸王茶姬海外走红",
-      "onboard_time": 1751445024,
-      "rank": 33,
-      "category": "国内时政"
     },
     {
       "raw_hot": 129788,
@@ -8491,6 +8523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125058,
+      "num": 125058,
+      "word": "严浩翔左划帮我成像",
+      "onboard_time": 1751445442,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124991,
       "num": 124991,
       "word": "歌手后续赛制",
@@ -8609,6 +8649,14 @@
       "onboard_time": 1751432484,
       "rank": 14,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 122841,
+      "num": 118379,
+      "word": "见过最邪门的招人要求",
+      "onboard_time": 1751445502,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 122770,
@@ -8833,6 +8881,14 @@
       "onboard_time": 1751184982,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119672,
+      "num": 119672,
+      "word": "歼20换雷达了",
+      "onboard_time": 1751446101,
+      "rank": 40,
+      "category": "军事"
     },
     {
       "raw_hot": 119597,
@@ -9595,6 +9651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108288,
+      "num": 108288,
+      "word": "他16岁见证日军暴行96岁忘不掉",
+      "onboard_time": 1751446041,
+      "rank": 44,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 108241,
       "num": 108241,
       "word": "苹果账户被盗刷162笔总金额超8万",
@@ -10139,6 +10203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 97091,
+      "num": 225539,
+      "word": "华强北禁售无3C认证充电宝",
+      "onboard_time": 1751445081,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96846,
       "num": 96846,
       "word": "我是一个没敢碰啊",
@@ -10203,14 +10275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 94902,
-      "num": 183751,
-      "word": "员工未休年假获赔2.9万余元",
-      "onboard_time": 1751444544,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 94847,
       "num": 94847,
       "word": "女儿曾一年没叫焦恩俊爸爸",
@@ -10273,6 +10337,14 @@
       "onboard_time": 1751356701,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 93063,
+      "num": 240846,
+      "word": "上海交大强化校外来访人员行为管理",
+      "onboard_time": 1751445081,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92844,
@@ -10345,6 +10417,14 @@
       "onboard_time": 1751248401,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89504,
+      "num": 101000,
+      "word": "王楚钦再谈澳门世界杯输球",
+      "onboard_time": 1751445502,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 89478,
@@ -10491,14 +10571,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 83338,
-      "num": 184963,
-      "word": "华强北禁售无3C认证充电宝",
-      "onboard_time": 1751445081,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 83045,
       "num": 144785,
       "word": "用小米平板画出玄戒O1芯片",
@@ -10513,6 +10585,14 @@
       "onboard_time": 1751129420,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 82476,
+      "num": 147823,
+      "word": "大而美法案将让1700万人失去医保",
+      "onboard_time": 1751445682,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 82282,
@@ -11091,14 +11171,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 65263,
-      "num": 185611,
-      "word": "上海交大强化校外来访人员行为管理",
-      "onboard_time": 1751445081,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 65260,
       "num": 308055,
       "word": "从业者称百元以下充电宝不会考虑",
@@ -11507,6 +11579,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 50341,
+      "num": 120162,
+      "word": "PUBGxaespa",
+      "onboard_time": 1751445081,
+      "rank": 39,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 49542,
       "num": 49542,
       "word": "春秋航空辟谣飞机极速下落3000米",
@@ -11755,14 +11835,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 41985,
-      "num": 112620,
-      "word": "PUBGxaespa",
-      "onboard_time": 1751445081,
-      "rank": 39,
-      "category": "艺人,电竞"
-    },
-    {
       "raw_hot": 41937,
       "num": 43768,
       "word": "上海动物园称文博展厅禁止饮食",
@@ -11777,6 +11849,14 @@
       "onboard_time": 1751212821,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 40865,
+      "num": 168084,
+      "word": "白云机场回应寄存充电宝20一天太贵",
+      "onboard_time": 1751445743,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40564,
