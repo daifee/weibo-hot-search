@@ -1,6 +1,6 @@
 {
   "startTime": 1751473999400,
-  "endTime": 1751473999400,
+  "endTime": 1751475009027,
   "band_list": [
     {
       "raw_hot": 969248,
@@ -11,8 +11,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 825421,
-      "num": 825421,
+      "raw_hot": 871450,
+      "num": 871450,
       "word": "警方通报南航吉林分公司伤人事件",
       "onboard_time": 1751470762,
       "rank": 1,
@@ -35,7 +35,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 463790,
+      "raw_hot": 483181,
       "num": 202907,
       "word": "小黄豆 芮芮",
       "onboard_time": 1751468243,
@@ -73,6 +73,14 @@
       "onboard_time": 1751466144,
       "rank": 7,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 247467,
+      "num": 180917,
+      "word": "杨幂吴谨言赵今麦VOGUE红毯图",
+      "onboard_time": 1751472921,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 243769,
@@ -147,14 +155,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 127878,
-      "num": 144605,
-      "word": "杨幂吴谨言赵今麦VOGUE红毯图",
-      "onboard_time": 1751472921,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 121697,
       "num": 121697,
       "word": "你俩长嘴是只会亲嘴吗",
@@ -187,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106523,
+      "num": 106523,
+      "word": "男童打水仗后发烧感染食脑虫",
+      "onboard_time": 1751472501,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101991,
       "num": 101991,
       "word": "贵阳音乐节全阵容官宣",
@@ -195,20 +203,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 96101,
-      "num": 96101,
+      "raw_hot": 98158,
+      "num": 98158,
       "word": "新说唱",
       "onboard_time": 1751469384,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 96053,
-      "num": 96053,
-      "word": "男童打水仗后发烧感染食脑虫",
-      "onboard_time": 1751472501,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 95127,
@@ -219,8 +219,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 92364,
-      "num": 92364,
+      "raw_hot": 93299,
+      "num": 93299,
       "word": "惠利曝新恋情后韩素希口碑反转",
       "onboard_time": 1751456782,
       "rank": 30,
@@ -233,6 +233,14 @@
       "onboard_time": 1751470701,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 90577,
+      "num": 90577,
+      "word": "侏罗纪",
+      "onboard_time": 1751469742,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 88341,
@@ -249,14 +257,6 @@
       "onboard_time": 1751468603,
       "rank": 33,
       "category": "网红"
-    },
-    {
-      "raw_hot": 85913,
-      "num": 85913,
-      "word": "侏罗纪",
-      "onboard_time": 1751469742,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 82702,
@@ -300,11 +300,19 @@
     },
     {
       "raw_hot": 70475,
-      "num": 70475,
+      "num": 97404,
       "word": "健康睡眠的4个黄金标准",
       "onboard_time": 1751468304,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 68271,
+      "num": 68271,
+      "word": "男子称5岁时亲眼看人贩子把他卖掉",
+      "onboard_time": 1751473639,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67917,
@@ -339,6 +347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 61996,
+      "num": 61996,
+      "word": "周杰伦周星驰合照",
+      "onboard_time": 1751462062,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 61893,
       "num": 61893,
       "word": "雷军回应大定被质疑有水分",
@@ -355,28 +371,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 59704,
-      "num": 59704,
-      "word": "男子称5岁时亲眼看人贩子把他卖掉",
-      "onboard_time": 1751473639,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 59634,
       "num": 59634,
       "word": "9平米的房住出了90平方的感觉",
       "onboard_time": 1751462062,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 56815,
-      "num": 56815,
-      "word": "周杰伦周星驰合照",
-      "onboard_time": 1751462062,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 53966,
@@ -387,12 +387,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 48919,
+      "num": 57747,
+      "word": "陈泽希被曝多次出轨",
+      "onboard_time": 1751455462,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 42060,
+      "num": 114092,
+      "word": "日本一地12天地震近850次",
+      "onboard_time": 1751471062,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 35882,
       "num": 215533,
       "word": "美国民众等高铁从青年等到了中年",
       "onboard_time": 1751473160,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 31161,
+      "num": 185461,
+      "word": "AI修复平型关战斗珍贵历史照片",
+      "onboard_time": 1751474539,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27063,
@@ -406,6 +430,9 @@
   "hotgov_list": [
     {
       "word": "#奋力书写挺膺担当的青春篇章#"
+    },
+    {
+      "word": "#坚定正确政治方向深化改革创新#"
     }
   ]
 }

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/29 00:30:20 ~ 2025/07/03 00:33:19
+本榜单时间：2025/06/29 00:30:20 ~ 2025/07/03 00:50:09
 </p>
 </blockquote>
 <p>
@@ -561,6 +561,12 @@ iPhone 检查虫子（热度：904192）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%8D%97%E8%88%AA%E5%90%89%E6%9E%97%E5%88%86%E5%85%AC%E5%8F%B8%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6%23" target="weibo">
+警方通报南航吉林分公司伤人事件（热度：871450）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A6%E4%B8%9C%E5%A5%95%E6%99%8B%E5%8D%87%E5%8C%97%E5%A4%A7%E9%95%BF%E8%81%98%E5%89%AF%E6%95%99%E6%8E%88%23" target="weibo">
 韦东奕晋升北大长聘副教授（热度：866891）
 </a>
@@ -605,12 +611,6 @@ iPhone 检查虫子（热度：904192）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8E%8F%E7%B2%AA%E5%B7%A55%E5%A4%A9%E5%B7%A5%E8%B5%848100%23" target="weibo">
 掏粪工5天工资8100（热度：828371）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%8D%97%E8%88%AA%E5%90%89%E6%9E%97%E5%88%86%E5%85%AC%E5%8F%B8%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6%23" target="weibo">
-警方通报南航吉林分公司伤人事件（热度：825421）
 </a>
 </li>
 
@@ -3017,6 +3017,12 @@ EDGM战胜JDG（热度：275320）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%A6%E7%93%9C%E9%A5%AE%E5%93%81%E5%A4%96%E5%8D%96%E9%87%8F%E9%A3%99%E5%8D%8711%E5%80%8D%23" target="weibo">
 苦瓜饮品外卖量飙升11倍（热度：248888）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%90%B4%E8%B0%A8%E8%A8%80%E8%B5%B5%E4%BB%8A%E9%BA%A6VOGUE%E7%BA%A2%E6%AF%AF%E5%9B%BE%23" target="weibo">
+杨幂吴谨言赵今麦VOGUE红毯图（热度：247467）
 </a>
 </li>
 
@@ -6945,12 +6951,6 @@ G2团灭GEN（热度：129108）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%90%B4%E8%B0%A8%E8%A8%80%E8%B5%B5%E4%BB%8A%E9%BA%A6VOGUE%E7%BA%A2%E6%AF%AF%E5%9B%BE%23" target="weibo">
-杨幂吴谨言赵今麦VOGUE红毯图（热度：127878）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%97%A5%E5%86%8D%E9%80%81%E9%BB%84%E6%97%AD%E5%8D%8E%E9%99%A2%E5%A3%AB%E4%B8%80%E7%A8%8B%23" target="weibo">
 今日再送黄旭华院士一程（热度：127861）
 </a>
@@ -8193,6 +8193,12 @@ liam发言（热度：112079）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%AB%A5%E6%89%93%E6%B0%B4%E4%BB%97%E5%90%8E%E5%8F%91%E7%83%A7%E6%84%9F%E6%9F%93%E9%A3%9F%E8%84%91%E8%99%AB%23" target="weibo">
+男童打水仗后发烧感染食脑虫（热度：106523）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%9E%A3%E5%AE%87%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E7%94%B7%E5%8D%95%E4%BA%89%E5%86%A0%23" target="weibo">
 陈垣宇张本智和男单争冠（热度：106245）
 </a>
@@ -8627,12 +8633,6 @@ PEL夏季赛选手定妆照（热度：100075）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%9C%E5%AE%B6%E6%96%87%E7%AB%A0%E8%A2%AB%E9%80%89%E4%B8%BA%E8%80%83%E8%AF%95%E9%A2%98%E6%9C%AC%E4%BA%BA%E5%8D%B4%E5%81%9A%E9%94%99%23" target="weibo">
 作家文章被选为考试题本人却做错（热度：96131）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%AB%A5%E6%89%93%E6%B0%B4%E4%BB%97%E5%90%8E%E5%8F%91%E7%83%A7%E6%84%9F%E6%9F%93%E9%A3%9F%E8%84%91%E8%99%AB%23" target="weibo">
-男童打水仗后发烧感染食脑虫（热度：96053）
 </a>
 </li>
 
@@ -9345,6 +9345,12 @@ AQ劝爸妈不信谣居然比我有用（热度：73457）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%A7%B05%E5%B2%81%E6%97%B6%E4%BA%B2%E7%9C%BC%E7%9C%8B%E4%BA%BA%E8%B4%A9%E5%AD%90%E6%8A%8A%E4%BB%96%E5%8D%96%E6%8E%89%23" target="weibo">
+男子称5岁时亲眼看人贩子把他卖掉（热度：68271）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%A4%A7%E6%A5%BC%E5%A6%82%E7%BA%B8%E7%89%8C%E5%B1%8B%E8%88%AC%E5%80%92%E5%A1%8C%23" target="weibo">
 印度大楼如纸牌屋般倒塌（热度：67670）
 </a>
@@ -9563,12 +9569,6 @@ AQ劝爸妈不信谣居然比我有用（热度：73457）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%E9%81%872%E5%8F%AA%E6%9C%AA%E6%8B%B4%E7%BB%B3%E6%8D%B7%E5%85%8B%E7%8B%BC%E7%8A%AC%E8%A2%AD%E5%87%BB%23" target="weibo">
 女子回应遇2只未拴绳捷克狼犬袭击（热度：59863）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%A7%B05%E5%B2%81%E6%97%B6%E4%BA%B2%E7%9C%BC%E7%9C%8B%E4%BA%BA%E8%B4%A9%E5%AD%90%E6%8A%8A%E4%BB%96%E5%8D%96%E6%8E%89%23" target="weibo">
-男子称5岁时亲眼看人贩子把他卖掉（热度：59704）
 </a>
 </li>
 
@@ -10011,6 +10011,12 @@ PUBGxaespa（热度：50341）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E5%9C%B012%E5%A4%A9%E5%9C%B0%E9%9C%87%E8%BF%91850%E6%AC%A1%23" target="weibo">
+日本一地12天地震近850次（热度：42060）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%8A%A8%E7%89%A9%E5%9B%AD%E7%A7%B0%E6%96%87%E5%8D%9A%E5%B1%95%E5%8E%85%E7%A6%81%E6%AD%A2%E9%A5%AE%E9%A3%9F%23" target="weibo">
 上海动物园称文博展厅禁止饮食（热度：41937）
 </a>
@@ -10337,6 +10343,12 @@ Dior新季穿搭公式（热度：36171）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6%E5%88%86%E4%BA%AB%E5%BD%95%E5%88%B6%E7%BB%BC%E8%89%BA%E8%B6%A3%E4%BA%8B%23" target="weibo">
 陈梦分享录制综艺趣事（热度：31261）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23AI%E4%BF%AE%E5%A4%8D%E5%B9%B3%E5%9E%8B%E5%85%B3%E6%88%98%E6%96%97%E7%8F%8D%E8%B4%B5%E5%8E%86%E5%8F%B2%E7%85%A7%E7%89%87%23" target="weibo">
+AI修复平型关战斗珍贵历史照片（热度：31161）
 </a>
 </li>
 
