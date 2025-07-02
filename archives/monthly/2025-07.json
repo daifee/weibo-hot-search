@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751449497299,
+  "endTime": 1751452169579,
   "band_list": [
     {
       "raw_hot": 2472851,
@@ -81,6 +81,14 @@
       "onboard_time": 1751380342,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1595895,
+      "num": 253646,
+      "word": "南航",
+      "onboard_time": 1751448623,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1429448,
@@ -395,6 +403,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 720274,
+      "num": 1115243,
+      "word": "准备买房发现妻子与其他男人有套房",
+      "onboard_time": 1751449101,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 720147,
       "num": 376956,
       "word": "中华田园犬 禁养",
@@ -667,6 +683,14 @@
       "category": "作品衍生,作品衍生"
     },
     {
+      "raw_hot": 597889,
+      "num": 254268,
+      "word": "原来幂姐也会吃十几块的普通餐",
+      "onboard_time": 1751447602,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 595993,
       "num": 595993,
       "word": "早睡早起的人更易早晨焦虑",
@@ -787,6 +811,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 518217,
+      "num": 249169,
+      "word": "王奕然分手",
+      "onboard_time": 1751449881,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 514670,
       "num": 514670,
       "word": "美参议院51比50通过大而美法案",
@@ -883,20 +915,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 476975,
-      "num": 254268,
-      "word": "原来幂姐也会吃十几块的普通餐",
-      "onboard_time": 1751447602,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 469858,
-      "num": 253646,
-      "word": "南航",
-      "onboard_time": 1751448623,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 478857,
+      "num": 478857,
+      "word": "中方是否邀李在明出席抗战胜利纪念活动",
+      "onboard_time": 1751448982,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 459193,
@@ -960,6 +984,14 @@
       "word": "王灿吃面用Labubu挡汤汁",
       "onboard_time": 1751427802,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 438933,
+      "num": 247705,
+      "word": "蒋欣一把把减脂餐拍开",
+      "onboard_time": 1751449402,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -1403,12 +1435,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 299989,
+      "num": 299989,
+      "word": "虞书欣给多少人送过wakuku",
+      "onboard_time": 1751450362,
+      "rank": 6,
+      "category": "艺人,休闲"
+    },
+    {
       "raw_hot": 299295,
       "num": 266198,
       "word": "夏天女装 不日常",
       "onboard_time": 1751328981,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 298648,
+      "num": 298648,
+      "word": "陈楚生像疯了一样",
+      "onboard_time": 1751448262,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 298102,
@@ -1539,14 +1587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 272485,
-      "num": 272485,
-      "word": "中方是否邀李在明出席抗战胜利纪念活动",
-      "onboard_time": 1751448982,
-      "rank": 6,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 272269,
       "num": 272269,
       "word": "37岁男子糖尿病7年不重视致截肢失明",
@@ -1611,12 +1651,12 @@
       "category": "艺人,休闲"
     },
     {
-      "raw_hot": 255374,
-      "num": 255374,
-      "word": "陈楚生像疯了一样",
-      "onboard_time": 1751448262,
-      "rank": 29,
-      "category": "综艺"
+      "raw_hot": 256204,
+      "num": 247582,
+      "word": "梓渝银河左岸音乐节",
+      "onboard_time": 1751451023,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 254128,
@@ -1705,6 +1745,14 @@
       "onboard_time": 1751375005,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 236529,
+      "num": 236529,
+      "word": "冉莹颖回应儿子身高",
+      "onboard_time": 1751450002,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 234845,
@@ -2291,6 +2339,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 192983,
+      "num": 192983,
+      "word": "女子闪婚4次第4次离婚当天又结婚",
+      "onboard_time": 1751451503,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192420,
       "num": 192420,
       "word": "曼城3比4利雅得新月",
@@ -2329,6 +2385,14 @@
       "onboard_time": 1751353822,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187776,
+      "num": 187776,
+      "word": "苹果最薄iPhone17Air再曝",
+      "onboard_time": 1751448862,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 187743,
@@ -2385,6 +2449,14 @@
       "onboard_time": 1751368643,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181312,
+      "num": 123636,
+      "word": "章泽天素颜看展",
+      "onboard_time": 1751449881,
+      "rank": 30,
+      "category": "互联网,艺人"
     },
     {
       "raw_hot": 181125,
@@ -2448,6 +2520,14 @@
       "word": "北京大雨",
       "onboard_time": 1751364741,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176802,
+      "num": 250964,
+      "word": "教育局回应受资助学生家里装修豪华",
+      "onboard_time": 1751451023,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -2955,6 +3035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154034,
+      "num": 154034,
+      "word": "我同意金珉奎下次别穿",
+      "onboard_time": 1751450661,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154012,
       "num": 263258,
       "word": "对家想和我炒cp怎么办",
@@ -3145,14 +3233,6 @@
       "onboard_time": 1751441422,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 145162,
-      "num": 145162,
-      "word": "准备买房发现妻子与其他男人有套房",
-      "onboard_time": 1751449101,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 144790,
@@ -3361,6 +3441,14 @@
       "onboard_time": 1751438001,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 139028,
+      "num": 139028,
+      "word": "何炅 我被奥尼尔打过",
+      "onboard_time": 1751450903,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 138823,
@@ -3907,6 +3995,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123672,
+      "num": 123672,
+      "word": "胡一天自曝很便宜求戏拍",
+      "onboard_time": 1751451442,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 123169,
+      "num": 123169,
+      "word": "宣璐重回现代剧赛道",
+      "onboard_time": 1751451562,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123013,
       "num": 123013,
       "word": "王楚钦美国大满贯见",
@@ -4035,20 +4139,20 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 120098,
+      "num": 120098,
+      "word": "好小众的关系户",
+      "onboard_time": 1751449641,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120073,
       "num": 120073,
       "word": "有人在北京公园摘了20斤观赏杏",
       "onboard_time": 1751347821,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 120037,
-      "num": 120037,
-      "word": "苹果最薄iPhone17Air再曝",
-      "onboard_time": 1751448862,
-      "rank": 40,
-      "category": "数码"
     },
     {
       "raw_hot": 119989,
@@ -4209,6 +4313,14 @@
       "onboard_time": 1751300301,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115038,
+      "num": 255313,
+      "word": "卫健委回应女子做取环手术十级伤残",
+      "onboard_time": 1751448742,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115035,
@@ -4411,14 +4523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 109541,
-      "num": 109541,
-      "word": "蒋欣一把把减脂餐拍开",
-      "onboard_time": 1751449402,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 109517,
       "num": 200921,
       "word": "刘畅不语只是一味骚扰何惟芳",
@@ -4483,6 +4587,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 108017,
+      "num": 108017,
+      "word": "银河左岸阵容",
+      "onboard_time": 1751450122,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 107858,
       "num": 107858,
       "word": "胡锡进呼吁大学校园向公众开放",
@@ -4529,6 +4641,14 @@
       "onboard_time": 1751433743,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105987,
+      "num": 105987,
+      "word": "狗总能精确找到那个怕狗的人",
+      "onboard_time": 1751451622,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 105503,
@@ -4617,6 +4737,14 @@
       "onboard_time": 1751362283,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 102394,
+      "num": 253347,
+      "word": "北京太潮衣服都馊了",
+      "onboard_time": 1751448681,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102267,
@@ -4803,6 +4931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92415,
+      "num": 92415,
+      "word": "18岁丁禹兮旧照",
+      "onboard_time": 1751452102,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 92246,
       "num": 92246,
       "word": "特朗普大而美法案被指劫贫济富",
@@ -4817,6 +4953,22 @@
       "onboard_time": 1751449402,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 91520,
+      "num": 91520,
+      "word": "花花趴在和叶背上睡觉好萌",
+      "onboard_time": 1751451804,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90908,
+      "num": 91978,
+      "word": "陈思诚 我不是果郡王",
+      "onboard_time": 1751450661,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 90855,
@@ -4860,7 +5012,7 @@
     },
     {
       "raw_hot": 89504,
-      "num": 101000,
+      "num": 106055,
       "word": "王楚钦再谈澳门世界杯输球",
       "onboard_time": 1751445502,
       "rank": 48,
@@ -5001,6 +5153,14 @@
       "onboard_time": 1751385023,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 82708,
+      "num": 106261,
+      "word": "1979年魔童超生",
+      "onboard_time": 1751452042,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 82476,
@@ -5171,14 +5331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 73543,
-      "num": 255313,
-      "word": "卫健委回应女子做取环手术十级伤残",
-      "onboard_time": 1751448742,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 73294,
       "num": 73294,
       "word": "种地吧",
@@ -5256,14 +5408,6 @@
       "word": "女子称被进修生做取环手术致残",
       "onboard_time": 1751422881,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 69399,
-      "num": 253347,
-      "word": "北京太潮衣服都馊了",
-      "onboard_time": 1751448681,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -5347,6 +5491,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 64148,
+      "num": 192986,
+      "word": "手握20亿黑帮教父入狱赃款去哪了",
+      "onboard_time": 1751451682,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64049,
       "num": 213153,
       "word": "书卷一梦有自己的labubu",
@@ -5377,6 +5529,14 @@
       "onboard_time": 1751429843,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61798,
+      "num": 192990,
+      "word": "解限机机甲美学图鉴",
+      "onboard_time": 1751449822,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 60932,
