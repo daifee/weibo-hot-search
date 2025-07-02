@@ -1,9 +1,9 @@
 {
   "startTime": 1751387623546,
-  "endTime": 1751435193678,
+  "endTime": 1751438324840,
   "band_list": [
     {
-      "raw_hot": 1798992,
+      "raw_hot": 1880456,
       "num": 311598,
       "word": "麦琳承认短视频模仿并致歉",
       "onboard_time": 1751433623,
@@ -211,6 +211,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 506386,
+      "num": 278764,
+      "word": "小黄豆前助理曝离职原因",
+      "onboard_time": 1751435361,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 485682,
       "num": 485682,
       "word": "蒋欣演华妃时已经拍了十多年戏了",
@@ -291,6 +299,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 379520,
+      "num": 379520,
+      "word": "于正看白鹿第一眼觉得是天王巨星",
+      "onboard_time": 1751434523,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 372753,
       "num": 372753,
       "word": "利拉德",
@@ -355,12 +371,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 296130,
+      "num": 296130,
+      "word": "以法之名 剧情拖沓",
+      "onboard_time": 1751432484,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 295958,
       "num": 295958,
       "word": "花少7好接地气",
       "onboard_time": 1751428401,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 294648,
+      "num": 294648,
+      "word": "2025年的三伏天很不一样",
+      "onboard_time": 1751435242,
+      "rank": 7,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 288949,
@@ -377,6 +409,14 @@
       "onboard_time": 1751377224,
       "rank": 15,
       "category": "音乐,艺人"
+    },
+    {
+      "raw_hot": 276527,
+      "num": 276527,
+      "word": "上海交大通报学生疑被校外人员殴打",
+      "onboard_time": 1751436201,
+      "rank": 14,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 268128,
@@ -403,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 245127,
+      "num": 245127,
+      "word": "鹿晗抵达青岛",
+      "onboard_time": 1751436142,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 237652,
       "num": 237652,
       "word": "关晓彤黑色抹胸连体裤",
@@ -425,14 +473,6 @@
       "onboard_time": 1751377885,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 231194,
-      "num": 231194,
-      "word": "以法之名 剧情拖沓",
-      "onboard_time": 1751432484,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 230887,
@@ -475,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220515,
+      "num": 220515,
+      "word": "沈佳润回应",
+      "onboard_time": 1751437582,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220021,
       "num": 220021,
       "word": "网信办曝光一批网络黑嘴",
@@ -507,12 +555,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 213882,
-      "num": 213882,
-      "word": "于正看白鹿第一眼觉得是天王巨星",
-      "onboard_time": 1751434523,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 212326,
+      "num": 212326,
+      "word": "田嘉瑞又打给了虞书欣",
+      "onboard_time": 1751437162,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 203730,
@@ -544,6 +592,14 @@
       "word": "58岁张宇与56岁游鸿明出行被偶遇",
       "onboard_time": 1751423902,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 198497,
+      "num": 198497,
+      "word": "杨幂yummy真的太魔性了",
+      "onboard_time": 1751436922,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -635,6 +691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174339,
+      "num": 174339,
+      "word": "深圳卫健委",
+      "onboard_time": 1751433261,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174337,
       "num": 271176,
       "word": "高启强来了东平都只能卖鱼",
@@ -673,6 +737,14 @@
       "onboard_time": 1751424621,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 170758,
+      "num": 170758,
+      "word": "780万网红孙恩盛被曝无证驾驶",
+      "onboard_time": 1751437041,
+      "rank": 26,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 169138,
@@ -737,6 +809,14 @@
       "onboard_time": 1751429542,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161649,
+      "num": 161649,
+      "word": "江南百景图",
+      "onboard_time": 1751435482,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 160670,
@@ -827,14 +907,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 147295,
-      "num": 147295,
-      "word": "深圳卫健委",
-      "onboard_time": 1751433261,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 146728,
       "num": 146728,
       "word": "孙颖莎王楚钦比赛",
@@ -857,6 +929,14 @@
       "onboard_time": 1751429843,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 144271,
+      "num": 144271,
+      "word": "1千多万买公寓入住前夕被水淹",
+      "onboard_time": 1751438001,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143749,
@@ -931,6 +1011,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134575,
+      "num": 134575,
+      "word": "蒋梦婕澄清网传身高155",
+      "onboard_time": 1751437642,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 133810,
+      "num": 214258,
+      "word": "零跑上半年新势力销量第一",
+      "onboard_time": 1751437342,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 133209,
       "num": 133209,
       "word": "感觉我生小孩后就是这样的父母",
@@ -940,7 +1036,7 @@
     },
     {
       "raw_hot": 133187,
-      "num": 133187,
+      "num": 280758,
       "word": "一个3C认证至少3个月花费两三万",
       "onboard_time": 1751434342,
       "rank": 44,
@@ -1083,6 +1179,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 117499,
+      "num": 117499,
+      "word": "周鹤年性交易嫌疑不成立",
+      "onboard_time": 1751438061,
+      "rank": 41,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 116991,
       "num": 116991,
       "word": "猫眼就误放周杰伦演唱会回流票致歉",
@@ -1099,12 +1203,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116282,
+      "num": 116282,
+      "word": "周瑜孙策战令新皮肤",
+      "onboard_time": 1751438001,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 115937,
       "num": 327148,
       "word": "当代年轻人的办公折学",
       "onboard_time": 1751427322,
       "rank": 23,
       "category": "数码"
+    },
+    {
+      "raw_hot": 114650,
+      "num": 114650,
+      "word": "资助的小孩高考考了一百多名",
+      "onboard_time": 1751438001,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 114242,
@@ -1203,6 +1323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109697,
+      "num": 109697,
+      "word": "汪峰带两个女儿逛街",
+      "onboard_time": 1751436443,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107146,
       "num": 256769,
       "word": "原来细菌性腹泻是个狠角色",
@@ -1243,6 +1371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 103145,
+      "num": 103145,
+      "word": "干部重点项目违规审批但省下200万",
+      "onboard_time": 1751436082,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101619,
       "num": 101619,
       "word": "宁艺卓闪光灯怼脸拍视频",
@@ -1265,6 +1401,14 @@
       "onboard_time": 1751366001,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 100061,
+      "num": 100061,
+      "word": "胡锡进呼吁大学校园向公众开放",
+      "onboard_time": 1751436082,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94847,
@@ -1297,6 +1441,14 @@
       "onboard_time": 1751430983,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90471,
+      "num": 114918,
+      "word": "刘强东讲明很多残酷的逻辑",
+      "onboard_time": 1751432604,
+      "rank": 44,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 87874,
@@ -1577,6 +1729,14 @@
       "onboard_time": 1751388198,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 45014,
+      "num": 204084,
+      "word": "河北冀时办选不满意没反应满意才提交",
+      "onboard_time": 1751437342,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44840,

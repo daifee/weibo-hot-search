@@ -1,0 +1,410 @@
+{
+  "runTime": 1751438324840,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1132392,
+        "num": 1181182,
+        "word": "黑救护车上死亡停车吃饭耽误半小时",
+        "onboard_time": 1751431643,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 530955,
+        "num": 530955,
+        "word": "五台山将米扔出殿外僧人被劝返回家",
+        "onboard_time": 1751431523,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21133,
+        "num": 451297,
+        "word": "第三届北京网络视听艺术大会",
+        "onboard_time": 1751421979,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 792619,
+        "num": 450439,
+        "word": "何老师注定无法体面的老去",
+        "onboard_time": 1751430983,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379520,
+        "num": 379520,
+        "word": "于正看白鹿第一眼觉得是天王巨星",
+        "onboard_time": 1751434523,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363518,
+        "num": 363518,
+        "word": "为何这么多金店都姓周",
+        "onboard_time": 1751431824,
+        "rank": 5,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 296130,
+        "num": 296130,
+        "word": "以法之名 剧情拖沓",
+        "onboard_time": 1751432484,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294648,
+        "num": 294648,
+        "word": "2025年的三伏天很不一样",
+        "onboard_time": 1751435242,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 281046,
+        "num": 281046,
+        "word": "上海交大学生与校外人员起冲突",
+        "onboard_time": 1751430863,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110006,
+        "num": 280758,
+        "word": "一个3C认证至少3个月花费两三万",
+        "onboard_time": 1751434342,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1880456,
+        "num": 279343,
+        "word": "麦琳承认短视频模仿并致歉",
+        "onboard_time": 1751433623,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 506386,
+        "num": 278764,
+        "word": "小黄豆前助理曝离职原因",
+        "onboard_time": 1751435361,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 437782,
+        "num": 277574,
+        "word": "上海交大",
+        "onboard_time": 1751427141,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 324442,
+        "num": 277096,
+        "word": "小沈阳发文力挺女儿",
+        "onboard_time": 1751430684,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276527,
+        "num": 276527,
+        "word": "上海交大通报学生疑被校外人员殴打",
+        "onboard_time": 1751436201,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 245127,
+        "num": 245127,
+        "word": "鹿晗抵达青岛",
+        "onboard_time": 1751436142,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 220515,
+        "num": 220515,
+        "word": "沈佳润回应",
+        "onboard_time": 1751437582,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133810,
+        "num": 214258,
+        "word": "零跑上半年新势力销量第一",
+        "onboard_time": 1751437342,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 212326,
+        "num": 212326,
+        "word": "田嘉瑞又打给了虞书欣",
+        "onboard_time": 1751437162,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45014,
+        "num": 204084,
+        "word": "河北冀时办选不满意没反应满意才提交",
+        "onboard_time": 1751437342,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228558,
+        "num": 202564,
+        "word": "王灿吃面用Labubu挡汤汁",
+        "onboard_time": 1751427802,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198497,
+        "num": 198497,
+        "word": "杨幂yummy真的太魔性了",
+        "onboard_time": 1751436922,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196651,
+        "num": 196651,
+        "word": "蒋欣8部待播剧",
+        "onboard_time": 1751428401,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 183628,
+        "num": 183628,
+        "word": "妈妈带厌学儿子送外卖几小时治好了",
+        "onboard_time": 1751433083,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177205,
+        "num": 177205,
+        "word": "幼师又多了一个就业方向",
+        "onboard_time": 1751421739,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174339,
+        "num": 174339,
+        "word": "深圳卫健委",
+        "onboard_time": 1751433261,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170758,
+        "num": 170758,
+        "word": "780万网红孙恩盛被曝无证驾驶",
+        "onboard_time": 1751437041,
+        "rank": 26,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 161649,
+        "num": 161649,
+        "word": "江南百景图",
+        "onboard_time": 1751435482,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158096,
+        "num": 158096,
+        "word": "马云11年前说的话兑现了",
+        "onboard_time": 1751431885,
+        "rank": 28,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 86605,
+        "num": 149002,
+        "word": "马斯克要建立美国党",
+        "onboard_time": 1751415741,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 144271,
+        "num": 144271,
+        "word": "1千多万买公寓入住前夕被水淹",
+        "onboard_time": 1751438001,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143377,
+        "num": 143377,
+        "word": "艺术家回应被小S二女儿参考",
+        "onboard_time": 1751434043,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137811,
+        "num": 137811,
+        "word": "王楚钦答应王皓的事情做到了",
+        "onboard_time": 1751434942,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93881,
+        "num": 135864,
+        "word": "古装剧一个个官宣",
+        "onboard_time": 1751430564,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135554,
+        "num": 135554,
+        "word": "男子造黄谣致女子抑郁被判赔20万",
+        "onboard_time": 1751424561,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134575,
+        "num": 134575,
+        "word": "蒋梦婕澄清网传身高155",
+        "onboard_time": 1751437642,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134065,
+        "num": 134065,
+        "word": "实测瘦肚子巨快的运动",
+        "onboard_time": 1751426060,
+        "rank": 36,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 129705,
+        "num": 129705,
+        "word": "杨紫锦绣芳华收视纪录",
+        "onboard_time": 1751433144,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127739,
+        "num": 127739,
+        "word": "关晓彤娜扎欧阳娜娜奢牌公式照",
+        "onboard_time": 1751429962,
+        "rank": 38,
+        "category": "作品衍生,作品衍生"
+      },
+      {
+        "raw_hot": 57649,
+        "num": 120194,
+        "word": "白厄的一生",
+        "onboard_time": 1751434763,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118841,
+        "num": 118841,
+        "word": "桃子已经离谱到用吸管喝了",
+        "onboard_time": 1751432724,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 117499,
+        "num": 117499,
+        "word": "周鹤年性交易嫌疑不成立",
+        "onboard_time": 1751438061,
+        "rank": 41,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 116899,
+        "num": 116899,
+        "word": "早睡早起的人更易早晨焦虑",
+        "onboard_time": 1751421681,
+        "rank": 42,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 116282,
+        "num": 116282,
+        "word": "周瑜孙策战令新皮肤",
+        "onboard_time": 1751438001,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 90471,
+        "num": 114918,
+        "word": "刘强东讲明很多残酷的逻辑",
+        "onboard_time": 1751432604,
+        "rank": 44,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 114650,
+        "num": 114650,
+        "word": "资助的小孩高考考了一百多名",
+        "onboard_time": 1751438001,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109697,
+        "num": 109697,
+        "word": "汪峰带两个女儿逛街",
+        "onboard_time": 1751436443,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103145,
+        "num": 103145,
+        "word": "干部重点项目违规审批但省下200万",
+        "onboard_time": 1751436082,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102577,
+        "num": 102577,
+        "word": "张予曦镂空裸背裙",
+        "onboard_time": 1751435061,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100061,
+        "num": 100061,
+        "word": "胡锡进呼吁大学校园向公众开放",
+        "onboard_time": 1751436082,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#庆祝建党104周年#"
+    }
+  }
+}

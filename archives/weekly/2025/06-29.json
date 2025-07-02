@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751435193678,
+  "endTime": 1751438324840,
   "band_list": [
     {
       "raw_hot": 3569605,
@@ -91,6 +91,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1880456,
+      "num": 311598,
+      "word": "麦琳承认短视频模仿并致歉",
+      "onboard_time": 1751433623,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1867072,
       "num": 1867072,
       "word": "公积金",
@@ -113,14 +121,6 @@
       "onboard_time": 1751258302,
       "rank": 34,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1798992,
-      "num": 311598,
-      "word": "麦琳承认短视频模仿并致歉",
-      "onboard_time": 1751433623,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 1788140,
@@ -1635,6 +1635,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 506386,
+      "num": 278764,
+      "word": "小黄豆前助理曝离职原因",
+      "onboard_time": 1751435361,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 505929,
       "num": 505929,
       "word": "桂林回应虐猫考生事件",
@@ -2272,6 +2280,14 @@
       "word": "阿娇说减肥真的不容易",
       "onboard_time": 1751247560,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 379520,
+      "num": 379520,
+      "word": "于正看白鹿第一眼觉得是天王巨星",
+      "onboard_time": 1751434523,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -2931,6 +2947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 296130,
+      "num": 296130,
+      "word": "以法之名 剧情拖沓",
+      "onboard_time": 1751432484,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 295958,
       "num": 295958,
       "word": "花少7好接地气",
@@ -2953,6 +2977,14 @@
       "onboard_time": 1751185942,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 294648,
+      "num": 294648,
+      "word": "2025年的三伏天很不一样",
+      "onboard_time": 1751435242,
+      "rank": 7,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 294612,
@@ -3161,6 +3193,14 @@
       "onboard_time": 1751205263,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 276527,
+      "num": 276527,
+      "word": "上海交大通报学生疑被校外人员殴打",
+      "onboard_time": 1751436201,
+      "rank": 14,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 276436,
@@ -3491,6 +3531,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 245127,
+      "num": 245127,
+      "word": "鹿晗抵达青岛",
+      "onboard_time": 1751436142,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 244071,
       "num": 244071,
       "word": "太湖三傻就地解散",
@@ -3641,14 +3689,6 @@
       "onboard_time": 1751172683,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 231194,
-      "num": 231194,
-      "word": "以法之名 剧情拖沓",
-      "onboard_time": 1751432484,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 230940,
@@ -3843,6 +3883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220515,
+      "num": 220515,
+      "word": "沈佳润回应",
+      "onboard_time": 1751437582,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220413,
       "num": 220413,
       "word": "四川暴雨直接包场全国降雨前十",
@@ -4011,14 +4059,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 213882,
-      "num": 213882,
-      "word": "于正看白鹿第一眼觉得是天王巨星",
-      "onboard_time": 1751434523,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 213731,
       "num": 213731,
       "word": "黄绮珊回应蔡徐坤",
@@ -4041,6 +4081,14 @@
       "onboard_time": 1751373562,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 212326,
+      "num": 212326,
+      "word": "田嘉瑞又打给了虞书欣",
+      "onboard_time": 1751437162,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 212192,
@@ -4409,6 +4457,14 @@
       "onboard_time": 1751369063,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198497,
+      "num": 198497,
+      "word": "杨幂yummy真的太魔性了",
+      "onboard_time": 1751436922,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 198491,
@@ -5323,6 +5379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174339,
+      "num": 174339,
+      "word": "深圳卫健委",
+      "onboard_time": 1751433261,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174337,
       "num": 271176,
       "word": "高启强来了东平都只能卖鱼",
@@ -5529,6 +5593,14 @@
       "onboard_time": 1751253020,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170758,
+      "num": 170758,
+      "word": "780万网红孙恩盛被曝无证驾驶",
+      "onboard_time": 1751437041,
+      "rank": 26,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 169887,
@@ -5921,6 +5993,14 @@
       "onboard_time": 1751350222,
       "rank": 35,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 161649,
+      "num": 161649,
+      "word": "江南百景图",
+      "onboard_time": 1751435482,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 161583,
@@ -6643,14 +6723,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 147295,
-      "num": 147295,
-      "word": "深圳卫健委",
-      "onboard_time": 1751433261,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 147284,
       "num": 147284,
       "word": "孟子义 巧克力你让我很没有面子",
@@ -6801,6 +6873,14 @@
       "onboard_time": 1751204663,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144271,
+      "num": 144271,
+      "word": "1千多万买公寓入住前夕被水淹",
+      "onboard_time": 1751438001,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144132,
@@ -7379,6 +7459,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 134575,
+      "num": 134575,
+      "word": "蒋梦婕澄清网传身高155",
+      "onboard_time": 1751437642,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134483,
       "num": 134483,
       "word": "小伙彩票守号1年就中奖1030万元",
@@ -7427,6 +7515,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 133810,
+      "num": 214258,
+      "word": "零跑上半年新势力销量第一",
+      "onboard_time": 1751437342,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 133800,
       "num": 133800,
       "word": "王源巡演",
@@ -7468,7 +7564,7 @@
     },
     {
       "raw_hot": 133187,
-      "num": 133187,
+      "num": 280758,
       "word": "一个3C认证至少3个月花费两三万",
       "onboard_time": 1751434342,
       "rank": 44,
@@ -8579,6 +8675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 117499,
+      "num": 117499,
+      "word": "周鹤年性交易嫌疑不成立",
+      "onboard_time": 1751438061,
+      "rank": 41,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 117275,
       "num": 117275,
       "word": "空军官兵和幼儿园小朋友合唱炎黄",
@@ -8625,6 +8729,14 @@
       "onboard_time": 1751164580,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116282,
+      "num": 116282,
+      "word": "周瑜孙策战令新皮肤",
+      "onboard_time": 1751438001,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 116260,
@@ -8745,6 +8857,14 @@
       "onboard_time": 1751362944,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114650,
+      "num": 114650,
+      "word": "资助的小孩高考考了一百多名",
+      "onboard_time": 1751438001,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 114565,
@@ -9065,6 +9185,14 @@
       "onboard_time": 1751427141,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109697,
+      "num": 109697,
+      "word": "汪峰带两个女儿逛街",
+      "onboard_time": 1751436443,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 109525,
@@ -9411,6 +9539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 103145,
+      "num": 103145,
+      "word": "干部重点项目违规审批但省下200万",
+      "onboard_time": 1751436082,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102889,
       "num": 198330,
       "word": "解限机明日上线",
@@ -9553,6 +9689,14 @@
       "onboard_time": 1751273302,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 100061,
+      "num": 100061,
+      "word": "胡锡进呼吁大学校园向公众开放",
+      "onboard_time": 1751436082,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100060,
@@ -9793,6 +9937,14 @@
       "onboard_time": 1751430983,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90471,
+      "num": 114918,
+      "word": "刘强东讲明很多残酷的逻辑",
+      "onboard_time": 1751432604,
+      "rank": 44,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 90466,
@@ -11072,6 +11224,14 @@
       "word": "带头下馆子的区委书记表态",
       "onboard_time": 1751334920,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45014,
+      "num": 204084,
+      "word": "河北冀时办选不满意没反应满意才提交",
+      "onboard_time": 1751437342,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
