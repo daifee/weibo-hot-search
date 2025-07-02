@@ -1,6 +1,6 @@
 {
   "startTime": 1751473999400,
-  "endTime": 1751477071685,
+  "endTime": 1751478212679,
   "band_list": [
     {
       "raw_hot": 969248,
@@ -171,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119084,
+      "num": 119084,
+      "word": "贵阳音乐节全阵容官宣",
+      "onboard_time": 1751472322,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 108436,
       "num": 108436,
       "word": "南航",
@@ -193,14 +201,6 @@
       "onboard_time": 1751472501,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 104265,
-      "num": 104265,
-      "word": "贵阳音乐节全阵容官宣",
-      "onboard_time": 1751472322,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 98158,
@@ -427,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 37522,
+      "num": 37522,
+      "word": "刘星一语成谶",
+      "onboard_time": 1751459724,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 37356,
       "num": 37356,
       "word": "张艺兴音乐话剧",
@@ -443,11 +451,11 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 35231,
-      "num": 35231,
-      "word": "刘星一语成谶",
-      "onboard_time": 1751459724,
-      "rank": 48,
+      "raw_hot": 35369,
+      "num": 35369,
+      "word": "娱乐圈 更新换代",
+      "onboard_time": 1751456242,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -457,6 +465,14 @@
       "onboard_time": 1751474539,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29352,
+      "num": 29352,
+      "word": "美食时间",
+      "onboard_time": 1751477956,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 27063,
