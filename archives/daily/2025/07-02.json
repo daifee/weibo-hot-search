@@ -1,7 +1,15 @@
 {
   "startTime": 1751387623546,
-  "endTime": 1751434158183,
+  "endTime": 1751435193678,
   "band_list": [
+    {
+      "raw_hot": 1798992,
+      "num": 311598,
+      "word": "麦琳承认短视频模仿并致歉",
+      "onboard_time": 1751433623,
+      "rank": 12,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1743131,
       "num": 343390,
@@ -9,6 +17,22 @@
       "onboard_time": 1751427141,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1154364,
+      "num": 1184698,
+      "word": "黑救护车上死亡停车吃饭耽误半小时",
+      "onboard_time": 1751431643,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1100027,
+      "num": 548625,
+      "word": "何老师注定无法体面的老去",
+      "onboard_time": 1751430983,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1069823,
@@ -19,28 +43,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1004836,
-      "num": 491245,
-      "word": "何老师注定无法体面的老去",
-      "onboard_time": 1751430983,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 981774,
       "num": 452521,
       "word": "陈赫回应鹿晗暴瘦",
       "onboard_time": 1751380342,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 912340,
-      "num": 1145974,
-      "word": "黑救护车上死亡停车吃饭耽误半小时",
-      "onboard_time": 1751431643,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 860056,
@@ -139,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 607579,
+      "num": 607579,
+      "word": "五台山将米扔出殿外僧人被劝返回家",
+      "onboard_time": 1751431523,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 605660,
       "num": 605660,
       "word": "关晓彤娜扎欧阳娜娜奢牌公式照",
@@ -147,20 +163,20 @@
       "category": "作品衍生,作品衍生"
     },
     {
-      "raw_hot": 601022,
-      "num": 311598,
-      "word": "麦琳承认短视频模仿并致歉",
-      "onboard_time": 1751433623,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 595993,
       "num": 595993,
       "word": "早睡早起的人更易早晨焦虑",
       "onboard_time": 1751421681,
       "rank": 41,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 542072,
+      "num": 542072,
+      "word": "上海交大学生与校外人员起冲突",
+      "onboard_time": 1751430863,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 536512,
@@ -203,14 +219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 481771,
-      "num": 481771,
-      "word": "上海交大学生与校外人员起冲突",
-      "onboard_time": 1751430863,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 459193,
       "num": 459193,
       "word": "抹黑胖东来的网红被通报",
@@ -243,12 +251,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 419152,
-      "num": 419152,
-      "word": "五台山将米扔出殿外僧人被劝返回家",
-      "onboard_time": 1751431523,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 421368,
+      "num": 421368,
+      "word": "为何这么多金店都姓周",
+      "onboard_time": 1751431824,
+      "rank": 48,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 418277,
@@ -305,14 +313,6 @@
       "onboard_time": 1751379023,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 335521,
-      "num": 335521,
-      "word": "为何这么多金店都姓周",
-      "onboard_time": 1751431824,
-      "rank": 48,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 331318,
@@ -427,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 231194,
+      "num": 231194,
+      "word": "以法之名 剧情拖沓",
+      "onboard_time": 1751432484,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 230887,
       "num": 230887,
       "word": "女子高铁站扶梯逆行致多人拥堵",
@@ -499,12 +507,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 213403,
-      "num": 213403,
-      "word": "以法之名 剧情拖沓",
-      "onboard_time": 1751432484,
+      "raw_hot": 213882,
+      "num": 213882,
+      "word": "于正看白鹿第一眼觉得是天王巨星",
+      "onboard_time": 1751434523,
       "rank": 24,
-      "category": "剧集"
+      "category": "艺人"
     },
     {
       "raw_hot": 203730,
@@ -523,11 +531,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199834,
+      "num": 199834,
+      "word": "妈妈带厌学儿子送外卖几小时治好了",
+      "onboard_time": 1751433083,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199632,
       "num": 199632,
       "word": "58岁张宇与56岁游鸿明出行被偶遇",
       "onboard_time": 1751423902,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 198074,
+      "num": 198074,
+      "word": "艺术家回应被小S二女儿参考",
+      "onboard_time": 1751434043,
+      "rank": 42,
       "category": "艺人"
     },
     {
@@ -587,6 +611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180577,
+      "num": 300452,
+      "word": "肖战的健康生活选择",
+      "onboard_time": 1751429122,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177407,
       "num": 177407,
       "word": "儿科女医生进修3个月带回100G资料",
@@ -603,19 +635,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 175461,
-      "num": 175461,
-      "word": "妈妈带厌学儿子送外卖几小时治好了",
-      "onboard_time": 1751433083,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 174337,
       "num": 271176,
       "word": "高启强来了东平都只能卖鱼",
       "onboard_time": 1751423180,
       "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 173853,
+      "num": 173853,
+      "word": "杨紫锦绣芳华收视纪录",
+      "onboard_time": 1751433144,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -643,6 +675,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 169138,
+      "num": 169138,
+      "word": "小沈阳女儿要准备第二张专辑了",
+      "onboard_time": 1751434702,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 166141,
       "num": 166141,
       "word": "甘薇送孩子去美国看贾跃亭",
@@ -657,14 +697,6 @@
       "onboard_time": 1751431164,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 164623,
-      "num": 164623,
-      "word": "杨紫锦绣芳华收视纪录",
-      "onboard_time": 1751433144,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 164404,
@@ -721,6 +753,14 @@
       "onboard_time": 1751420240,
       "rank": 21,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 159371,
+      "num": 159371,
+      "word": "日本男子委托妻子杀死自己",
+      "onboard_time": 1751433923,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 157442,
@@ -787,6 +827,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 147295,
+      "num": 147295,
+      "word": "深圳卫健委",
+      "onboard_time": 1751433261,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146728,
       "num": 146728,
       "word": "孙颖莎王楚钦比赛",
@@ -817,6 +865,14 @@
       "onboard_time": 1751422519,
       "rank": 41,
       "category": "美食,健康医疗"
+    },
+    {
+      "raw_hot": 142615,
+      "num": 142615,
+      "word": "王楚钦答应王皓的事情做到了",
+      "onboard_time": 1751434942,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 142357,
@@ -859,6 +915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136556,
+      "num": 136556,
+      "word": "人生的滞后性",
+      "onboard_time": 1751431343,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 135818,
       "num": 135818,
       "word": "杨幂人间清冷感",
@@ -875,12 +939,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 132766,
-      "num": 132766,
-      "word": "人生的滞后性",
-      "onboard_time": 1751431343,
-      "rank": 43,
-      "category": "情感"
+      "raw_hot": 133187,
+      "num": 133187,
+      "word": "一个3C认证至少3个月花费两三万",
+      "onboard_time": 1751434342,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130642,
@@ -888,14 +952,6 @@
       "word": "古茗吴彦祖",
       "onboard_time": 1751431164,
       "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 130530,
-      "num": 300452,
-      "word": "肖战的健康生活选择",
-      "onboard_time": 1751429122,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -939,8 +995,16 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 127911,
+      "num": 127911,
+      "word": "张予曦镂空裸背裙",
+      "onboard_time": 1751435061,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124791,
-      "num": 124791,
+      "num": 136615,
       "word": "李泰容还回来当爱豆吗",
       "onboard_time": 1751433023,
       "rank": 37,
@@ -977,14 +1041,6 @@
       "onboard_time": 1751421500,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 121413,
-      "num": 121413,
-      "word": "日本男子委托妻子杀死自己",
-      "onboard_time": 1751433923,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 121124,
@@ -1027,22 +1083,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 118187,
-      "num": 118187,
-      "word": "深圳卫健委",
-      "onboard_time": 1751433261,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 117874,
-      "num": 117874,
-      "word": "艺术家回应被小S二女儿参考",
-      "onboard_time": 1751434043,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 116991,
       "num": 116991,
       "word": "猫眼就误放周杰伦演唱会回流票致歉",
@@ -1065,6 +1105,14 @@
       "onboard_time": 1751427322,
       "rank": 23,
       "category": "数码"
+    },
+    {
+      "raw_hot": 114242,
+      "num": 114242,
+      "word": "古人炫技文物最薄处仅0.2毫米",
+      "onboard_time": 1751434043,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114048,
@@ -1155,20 +1203,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 108449,
-      "num": 108449,
-      "word": "古人炫技文物最薄处仅0.2毫米",
-      "onboard_time": 1751434043,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 107146,
       "num": 256769,
       "word": "原来细菌性腹泻是个狠角色",
       "onboard_time": 1751427622,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 106123,
+      "num": 271502,
+      "word": "牛约堡多个门店食材裸露蟑螂横行",
+      "onboard_time": 1751433743,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104622,
@@ -1379,6 +1427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 71805,
+      "num": 138682,
+      "word": "白厄的一生",
+      "onboard_time": 1751434763,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 71198,
       "num": 142267,
       "word": "适合国人的双靶点减重新药上市",
@@ -1467,19 +1523,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60863,
+      "num": 275931,
+      "word": "解限机全球解锁",
+      "onboard_time": 1751432844,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 60679,
       "num": 60679,
       "word": "月嫂在雇主家工作时心梗无人担责",
       "onboard_time": 1751397074,
       "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 59659,
-      "num": 271502,
-      "word": "牛约堡多个门店食材裸露蟑螂横行",
-      "onboard_time": 1751433743,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1497,6 +1553,14 @@
       "onboard_time": 1751426421,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56595,
+      "num": 282487,
+      "word": "官方辟谣东莞中考数学将重考",
+      "onboard_time": 1751433562,
+      "rank": 9,
+      "category": "辟谣/通报,教育"
     },
     {
       "raw_hot": 55190,
@@ -1529,14 +1593,6 @@
       "onboard_time": 1751431284,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 42526,
-      "num": 275931,
-      "word": "解限机全球解锁",
-      "onboard_time": 1751432844,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 42515,
@@ -1604,7 +1660,7 @@
     },
     {
       "raw_hot": 24497,
-      "num": 521563,
+      "num": 549022,
       "word": "第三届北京网络视听艺术大会",
       "onboard_time": 1751421979,
       "rank": 2,
@@ -1625,6 +1681,14 @@
       "onboard_time": 1751394855,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 19851,
+      "num": 174540,
+      "word": "残疾男子肾衰竭捐1万颗鸡蛋给贵州",
+      "onboard_time": 1751434942,
+      "rank": 29,
+      "category": "正能量"
     },
     {
       "raw_hot": 19757,

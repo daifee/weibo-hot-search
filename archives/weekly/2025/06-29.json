@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751434158183,
+  "endTime": 1751435193678,
   "band_list": [
     {
       "raw_hot": 3569605,
@@ -113,6 +113,14 @@
       "onboard_time": 1751258302,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1798992,
+      "num": 311598,
+      "word": "麦琳承认短视频模仿并致歉",
+      "onboard_time": 1751433623,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1788140,
@@ -363,6 +371,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1154364,
+      "num": 1184698,
+      "word": "黑救护车上死亡停车吃饭耽误半小时",
+      "onboard_time": 1751431643,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1140350,
       "num": 405020,
       "word": "鞠婧祎小号",
@@ -425,6 +441,14 @@
       "onboard_time": 1751122584,
       "rank": 0,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1100027,
+      "num": 548625,
+      "word": "何老师注定无法体面的老去",
+      "onboard_time": 1751430983,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1090632,
@@ -499,14 +523,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1004836,
-      "num": 491245,
-      "word": "何老师注定无法体面的老去",
-      "onboard_time": 1751430983,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 998662,
       "num": 488577,
       "word": "离职半年了前领导还在使唤我",
@@ -576,14 +592,6 @@
       "word": "广州交警通报3死3伤交通事故",
       "onboard_time": 1751350462,
       "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 912340,
-      "num": 1145974,
-      "word": "黑救护车上死亡停车吃饭耽误半小时",
-      "onboard_time": 1751431643,
-      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -1283,6 +1291,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 607579,
+      "num": 607579,
+      "word": "五台山将米扔出殿外僧人被劝返回家",
+      "onboard_time": 1751431523,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 605660,
       "num": 605660,
       "word": "关晓彤娜扎欧阳娜娜奢牌公式照",
@@ -1304,14 +1320,6 @@
       "word": "认不出这是李准基",
       "onboard_time": 1751282421,
       "rank": 37,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 601022,
-      "num": 311598,
-      "word": "麦琳承认短视频模仿并致歉",
-      "onboard_time": 1751433623,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -1449,6 +1457,14 @@
       "onboard_time": 1751279184,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 542072,
+      "num": 542072,
+      "word": "上海交大学生与校外人员起冲突",
+      "onboard_time": 1751430863,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 540929,
@@ -1755,14 +1771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 481771,
-      "num": 481771,
-      "word": "上海交大学生与校外人员起冲突",
-      "onboard_time": 1751430863,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 481210,
       "num": 481210,
       "word": "动物园被举报用个人码收门票上千万",
@@ -2035,12 +2043,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 419152,
-      "num": 419152,
-      "word": "五台山将米扔出殿外僧人被劝返回家",
-      "onboard_time": 1751431523,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 421368,
+      "num": 421368,
+      "word": "为何这么多金店都姓周",
+      "onboard_time": 1751431824,
+      "rank": 48,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 418541,
@@ -2529,14 +2537,6 @@
       "onboard_time": 1751252300,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 335521,
-      "num": 335521,
-      "word": "为何这么多金店都姓周",
-      "onboard_time": 1751431824,
-      "rank": 48,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 335504,
@@ -3643,6 +3643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 231194,
+      "num": 231194,
+      "word": "以法之名 剧情拖沓",
+      "onboard_time": 1751432484,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 230940,
       "num": 230940,
       "word": "首个宠物本科专业来了",
@@ -4003,20 +4011,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 213882,
+      "num": 213882,
+      "word": "于正看白鹿第一眼觉得是天王巨星",
+      "onboard_time": 1751434523,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213731,
       "num": 213731,
       "word": "黄绮珊回应蔡徐坤",
       "onboard_time": 1751283142,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 213403,
-      "num": 213403,
-      "word": "以法之名 剧情拖沓",
-      "onboard_time": 1751432484,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 213201,
@@ -4347,6 +4355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199834,
+      "num": 199834,
+      "word": "妈妈带厌学儿子送外卖几小时治好了",
+      "onboard_time": 1751433083,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199667,
       "num": 199667,
       "word": "21名小学生凑钱聚餐老板自贴300元",
@@ -4425,6 +4441,14 @@
       "onboard_time": 1751275582,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 198074,
+      "num": 198074,
+      "word": "艺术家回应被小S二女儿参考",
+      "onboard_time": 1751434043,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 197905,
@@ -5075,6 +5099,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 180577,
+      "num": 300452,
+      "word": "肖战的健康生活选择",
+      "onboard_time": 1751429122,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180402,
       "num": 198719,
       "word": "丁禹兮让本牛马无比叹服",
@@ -5227,14 +5259,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 175461,
-      "num": 175461,
-      "word": "妈妈带厌学儿子送外卖几小时治好了",
-      "onboard_time": 1751433083,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 175317,
       "num": 175317,
       "word": "孙恩盛pk",
@@ -5329,6 +5353,14 @@
       "onboard_time": 1751192300,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 173853,
+      "num": 173853,
+      "word": "杨紫锦绣芳华收视纪录",
+      "onboard_time": 1751433144,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 173790,
@@ -5531,6 +5563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169138,
+      "num": 169138,
+      "word": "小沈阳女儿要准备第二张专辑了",
+      "onboard_time": 1751434702,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 168606,
       "num": 210197,
       "word": "张佳宁三个月播三部剧的含金量",
@@ -5697,14 +5737,6 @@
       "onboard_time": 1751275341,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 164623,
-      "num": 164623,
-      "word": "杨紫锦绣芳华收视纪录",
-      "onboard_time": 1751433144,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 164490,
@@ -5993,6 +6025,14 @@
       "onboard_time": 1751124744,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159371,
+      "num": 159371,
+      "word": "日本男子委托妻子杀死自己",
+      "onboard_time": 1751433923,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 159330,
@@ -6603,6 +6643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147295,
+      "num": 147295,
+      "word": "深圳卫健委",
+      "onboard_time": 1751433261,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147284,
       "num": 147284,
       "word": "孟子义 巧克力你让我很没有面子",
@@ -6817,6 +6865,14 @@
       "onboard_time": 1751173941,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 142615,
+      "num": 142615,
+      "word": "王楚钦答应王皓的事情做到了",
+      "onboard_time": 1751434942,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 142605,
@@ -7179,6 +7235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136556,
+      "num": 136556,
+      "word": "人生的滞后性",
+      "onboard_time": 1751431343,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 136327,
       "num": 138172,
       "word": "曼城世俱杯出局",
@@ -7403,6 +7467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 133187,
+      "num": 133187,
+      "word": "一个3C认证至少3个月花费两三万",
+      "onboard_time": 1751434342,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133059,
       "num": 133059,
       "word": "学生对赌协议",
@@ -7465,14 +7537,6 @@
       "onboard_time": 1751344762,
       "rank": 46,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 132766,
-      "num": 132766,
-      "word": "人生的滞后性",
-      "onboard_time": 1751431343,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 132371,
@@ -7665,14 +7729,6 @@
       "onboard_time": 1751334321,
       "rank": 38,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 130530,
-      "num": 300452,
-      "word": "肖战的健康生活选择",
-      "onboard_time": 1751429122,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 130501,
@@ -7883,6 +7939,14 @@
       "category": "体育,演出"
     },
     {
+      "raw_hot": 127911,
+      "num": 127911,
+      "word": "张予曦镂空裸背裙",
+      "onboard_time": 1751435061,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127861,
       "num": 232091,
       "word": "今日再送黄旭华院士一程",
@@ -8060,7 +8124,7 @@
     },
     {
       "raw_hot": 124791,
-      "num": 124791,
+      "num": 136615,
       "word": "李泰容还回来当爱豆吗",
       "onboard_time": 1751433023,
       "rank": 37,
@@ -8233,14 +8297,6 @@
       "onboard_time": 1751261300,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121413,
-      "num": 121413,
-      "word": "日本男子委托妻子杀死自己",
-      "onboard_time": 1751433923,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 121369,
@@ -8507,28 +8563,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 118187,
-      "num": 118187,
-      "word": "深圳卫健委",
-      "onboard_time": 1751433261,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 118172,
       "num": 130552,
       "word": "王诗玥柳鑫宇正式回归",
       "onboard_time": 1751366781,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 117874,
-      "num": 117874,
-      "word": "艺术家回应被小S二女儿参考",
-      "onboard_time": 1751434043,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 117809,
@@ -8721,6 +8761,14 @@
       "onboard_time": 1751179521,
       "rank": 44,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 114242,
+      "num": 114242,
+      "word": "古人炫技文物最薄处仅0.2毫米",
+      "onboard_time": 1751434043,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114199,
@@ -9091,14 +9139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 108449,
-      "num": 108449,
-      "word": "古人炫技文物最薄处仅0.2毫米",
-      "onboard_time": 1751434043,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 108330,
       "num": 108330,
       "word": "上海地铁",
@@ -9201,6 +9241,14 @@
       "onboard_time": 1751168180,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106123,
+      "num": 271502,
+      "word": "牛约堡多个门店食材裸露蟑螂横行",
+      "onboard_time": 1751433743,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105880,
@@ -10283,6 +10331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 71805,
+      "num": 138682,
+      "word": "白厄的一生",
+      "onboard_time": 1751434763,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 71676,
       "num": 412472,
       "word": "苏超连赞助商都是散装的",
@@ -10579,6 +10635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60863,
+      "num": 275931,
+      "word": "解限机全球解锁",
+      "onboard_time": 1751432844,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 60855,
       "num": 60855,
       "word": "好的人生一半一半",
@@ -10625,14 +10689,6 @@
       "onboard_time": 1751261181,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 59659,
-      "num": 271502,
-      "word": "牛约堡多个门店食材裸露蟑螂横行",
-      "onboard_time": 1751433743,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 59649,
@@ -10705,6 +10761,14 @@
       "onboard_time": 1751368342,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 56595,
+      "num": 282487,
+      "word": "官方辟谣东莞中考数学将重考",
+      "onboard_time": 1751433562,
+      "rank": 9,
+      "category": "辟谣/通报,教育"
     },
     {
       "raw_hot": 56394,
@@ -11105,14 +11169,6 @@
       "onboard_time": 1751275941,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 42526,
-      "num": 275931,
-      "word": "解限机全球解锁",
-      "onboard_time": 1751432844,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 41937,
@@ -11820,7 +11876,7 @@
     },
     {
       "raw_hot": 24497,
-      "num": 521563,
+      "num": 549022,
       "word": "第三届北京网络视听艺术大会",
       "onboard_time": 1751421979,
       "rank": 2,
@@ -12025,6 +12081,14 @@
       "onboard_time": 1751206883,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 19851,
+      "num": 174540,
+      "word": "残疾男子肾衰竭捐1万颗鸡蛋给贵州",
+      "onboard_time": 1751434942,
+      "rank": 29,
+      "category": "正能量"
     },
     {
       "raw_hot": 19762,
