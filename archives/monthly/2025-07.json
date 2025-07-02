@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751470157555,
+  "endTime": 1751471057092,
   "band_list": [
     {
       "raw_hot": 2472851,
@@ -241,6 +241,14 @@
       "onboard_time": 1751460443,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1027480,
+      "num": 1027480,
+      "word": "日本7月5日大地震预言会成真吗",
+      "onboard_time": 1751469263,
+      "rank": 15,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 998662,
@@ -1187,6 +1195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 430102,
+      "num": 430102,
+      "word": "北京 热带雨林",
+      "onboard_time": 1751468004,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 429662,
       "num": 429662,
       "word": "于正看白鹿第一眼觉得是天王巨星",
@@ -1265,14 +1281,6 @@
       "onboard_time": 1751437582,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 414076,
-      "num": 414076,
-      "word": "北京 热带雨林",
-      "onboard_time": 1751468004,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 412261,
@@ -1675,14 +1683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 301916,
-      "num": 301916,
-      "word": "日本7月5日大地震预言会成真吗",
-      "onboard_time": 1751469263,
-      "rank": 15,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 299295,
       "num": 266198,
       "word": "夏天女装 不日常",
@@ -1985,6 +1985,14 @@
       "onboard_time": 1751288303,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 241393,
+      "num": 241393,
+      "word": "20年前的高考成绩可网络查询了",
+      "onboard_time": 1751469682,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 237652,
@@ -3115,6 +3123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172573,
+      "num": 302059,
+      "word": "美国首条高铁17年建了个寂寞",
+      "onboard_time": 1751468484,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 172551,
       "num": 172551,
       "word": "医生回应酒店光脚洗澡或感染HPV",
@@ -4011,14 +4027,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 138670,
-      "num": 302059,
-      "word": "美国首条高铁17年建了个寂寞",
-      "onboard_time": 1751468484,
-      "rank": 14,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 138508,
       "num": 138508,
       "word": "星穹铁道",
@@ -4123,6 +4131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134955,
+      "num": 134955,
+      "word": "精心设计的婚礼布景竟变成短剧素材",
+      "onboard_time": 1751469923,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134887,
       "num": 134887,
       "word": "AL发布Kael采访声明",
@@ -4145,14 +4161,6 @@
       "onboard_time": 1751469442,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 134631,
-      "num": 221550,
-      "word": "20年前的高考成绩可网络查询了",
-      "onboard_time": 1751469682,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134575,
@@ -4491,6 +4499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128066,
+      "num": 128066,
+      "word": "侏罗纪",
+      "onboard_time": 1751469742,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 127985,
       "num": 127985,
       "word": "全员加速中",
@@ -4721,6 +4737,14 @@
       "onboard_time": 1751358081,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 122038,
+      "num": 226451,
+      "word": "染崎白石魏莱分手",
+      "onboard_time": 1751468603,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 121913,
@@ -5043,14 +5067,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 114557,
-      "num": 114557,
-      "word": "侏罗纪",
-      "onboard_time": 1751469742,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 114242,
       "num": 114242,
       "word": "古人炫技文物最薄处仅0.2毫米",
@@ -5161,6 +5177,14 @@
       "onboard_time": 1751358442,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 112103,
+      "num": 112103,
+      "word": "健康睡眠的4个黄金标准",
+      "onboard_time": 1751468304,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 112079,
@@ -5611,14 +5635,6 @@
       "category": "数码,民生新闻"
     },
     {
-      "raw_hot": 101084,
-      "num": 226451,
-      "word": "染崎白石魏莱分手",
-      "onboard_time": 1751468603,
-      "rank": 18,
-      "category": "网红"
-    },
-    {
       "raw_hot": 100586,
       "num": 100586,
       "word": "特朗普政府又威胁哈佛大学",
@@ -5644,7 +5660,7 @@
     },
     {
       "raw_hot": 99908,
-      "num": 99908,
+      "num": 136258,
       "word": "刘星一语成谶",
       "onboard_time": 1751459724,
       "rank": 49,
@@ -5657,6 +5673,14 @@
       "onboard_time": 1751458043,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 99133,
+      "num": 99133,
+      "word": "马赫退赛",
+      "onboard_time": 1751470701,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 99096,
@@ -5761,14 +5785,6 @@
       "onboard_time": 1751411178,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 94617,
-      "num": 94617,
-      "word": "健康睡眠的4个黄金标准",
-      "onboard_time": 1751468304,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 94586,
@@ -5995,14 +6011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 87607,
-      "num": 87607,
-      "word": "精心设计的婚礼布景竟变成短剧素材",
-      "onboard_time": 1751469923,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87457,
       "num": 99593,
       "word": "魔兽世界",
@@ -6147,8 +6155,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 80267,
-      "num": 686532,
+      "raw_hot": 80608,
+      "num": 890938,
       "word": "贵州榕江洪灾救援诠释中国式团结",
       "onboard_time": 1751468124,
       "rank": 2,
@@ -6403,6 +6411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67002,
+      "num": 85339,
+      "word": "中国队健儿加油海报祝福追梦人",
+      "onboard_time": 1751470282,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66800,
       "num": 150564,
       "word": "海猫好卡兔好",
@@ -6433,6 +6449,14 @@
       "onboard_time": 1751362103,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 65403,
+      "num": 135574,
+      "word": "警方通报南航吉林分公司伤人事件",
+      "onboard_time": 1751470762,
+      "rank": 28,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 65260,
@@ -7091,6 +7115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30895,
+      "num": 115423,
+      "word": "插排内暗藏摄像头一个售价2800",
+      "onboard_time": 1751470880,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30712,
       "num": 34560,
       "word": "郑钦文今年大满贯战绩",
@@ -7105,6 +7137,14 @@
       "onboard_time": 1751391496,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 29668,
+      "num": 256311,
+      "word": "官方回应培训机构被指体罚员工狗爬",
+      "onboard_time": 1751470282,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29454,
