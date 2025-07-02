@@ -1,6 +1,6 @@
 {
   "startTime": 1751387623546,
-  "endTime": 1751464217376,
+  "endTime": 1751466416088,
   "band_list": [
     {
       "raw_hot": 2285814,
@@ -17,6 +17,14 @@
       "onboard_time": 1751439141,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2063793,
+      "num": 2063793,
+      "word": "杨幂 妈幂",
+      "onboard_time": 1751462302,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1880456,
@@ -41,14 +49,6 @@
       "onboard_time": 1751448623,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1304425,
-      "num": 1304425,
-      "word": "杨幂 妈幂",
-      "onboard_time": 1751462302,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1154364,
@@ -89,6 +89,14 @@
       "onboard_time": 1751421739,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1031452,
+      "num": 547242,
+      "word": "王嘉尔反驳印度主持人",
+      "onboard_time": 1751460443,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 981774,
@@ -155,14 +163,6 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 720074,
-      "num": 346948,
-      "word": "王嘉尔反驳印度主持人",
-      "onboard_time": 1751460443,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 715019,
       "num": 452774,
       "word": "男子造黄谣致女子抑郁被判赔20万",
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 702960,
-      "num": 286051,
+      "num": 361876,
       "word": "董卿生病但帅",
       "onboard_time": 1751460142,
       "rank": 30,
@@ -233,6 +233,14 @@
       "onboard_time": 1751443343,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 641268,
+      "num": 376053,
+      "word": "林志玲一个生煎包吃十几口",
+      "onboard_time": 1751460923,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 641071,
@@ -339,6 +347,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 548060,
+      "num": 335531,
+      "word": "优酷爆剧三大赛道全面开花",
+      "onboard_time": 1751462544,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 542072,
       "num": 542072,
       "word": "上海交大学生与校外人员起冲突",
@@ -353,6 +369,14 @@
       "onboard_time": 1751431885,
       "rank": 13,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 535727,
+      "num": 535727,
+      "word": "9平米的房住出了90平方的感觉",
+      "onboard_time": 1751462062,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 522908,
@@ -441,6 +465,14 @@
       "onboard_time": 1751448982,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 463843,
+      "num": 324773,
+      "word": "你俩长嘴是只会亲嘴吗",
+      "onboard_time": 1751463864,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 459193,
@@ -555,14 +587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 408408,
-      "num": 216766,
-      "word": "优酷爆剧三大赛道全面开花",
-      "onboard_time": 1751462544,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 397970,
       "num": 251726,
       "word": "赵文卓祝贺女儿高中毕业获最高奖",
@@ -603,14 +627,6 @@
       "category": "休闲,动漫"
     },
     {
-      "raw_hot": 390808,
-      "num": 390808,
-      "word": "9平米的房住出了90平方的感觉",
-      "onboard_time": 1751462062,
-      "rank": 8,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 390002,
       "num": 390002,
       "word": "特朗普或考虑将马斯克驱逐出境",
@@ -644,7 +660,7 @@
     },
     {
       "raw_hot": 340476,
-      "num": 371113,
+      "num": 378615,
       "word": "高考671分乡村女孩回应",
       "onboard_time": 1751456843,
       "rank": 9,
@@ -689,6 +705,14 @@
       "onboard_time": 1751385801,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 320413,
+      "num": 320413,
+      "word": "雷军回应大定被质疑有水分",
+      "onboard_time": 1751462842,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 311691,
@@ -841,14 +865,6 @@
       "onboard_time": 1751447242,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 248728,
-      "num": 216382,
-      "word": "林志玲一个生煎包吃十几口",
-      "onboard_time": 1751460923,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 245127,
@@ -1051,14 +1067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 214304,
-      "num": 214304,
-      "word": "雷军回应大定被质疑有水分",
-      "onboard_time": 1751462842,
-      "rank": 36,
-      "category": "数码"
-    },
-    {
       "raw_hot": 214155,
       "num": 214155,
       "word": "实测瘦肚子巨快的运动",
@@ -1080,6 +1088,14 @@
       "word": "易梦玲首尔活动生图",
       "onboard_time": 1751439922,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 208530,
+      "num": 208530,
+      "word": "丁禹兮穿了恩利设计的衣服",
+      "onboard_time": 1751464584,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -1169,6 +1185,14 @@
       "onboard_time": 1751433261,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198777,
+      "num": 198777,
+      "word": "恋与深空哄睡直播",
+      "onboard_time": 1751465364,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 198074,
@@ -1267,6 +1291,14 @@
       "category": "电竞,体育"
     },
     {
+      "raw_hot": 186819,
+      "num": 319346,
+      "word": "常州队的后援配置有多豪华",
+      "onboard_time": 1751465124,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186697,
       "num": 242365,
       "word": "摆摊女生称母校以影响招生要求删视频",
@@ -1289,6 +1321,14 @@
       "onboard_time": 1751459782,
       "rank": 19,
       "category": "艺人,数码"
+    },
+    {
+      "raw_hot": 181716,
+      "num": 370878,
+      "word": "黄牛为什么能抢走演唱会门票",
+      "onboard_time": 1751465425,
+      "rank": 9,
+      "category": "民生新闻,演出"
     },
     {
       "raw_hot": 180962,
@@ -1329,14 +1369,6 @@
       "onboard_time": 1751445024,
       "rank": 33,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 175341,
-      "num": 175341,
-      "word": "你俩长嘴是只会亲嘴吗",
-      "onboard_time": 1751463864,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 174641,
@@ -1579,6 +1611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160110,
+      "num": 160110,
+      "word": "六郎你回家吧",
+      "onboard_time": 1751465543,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159961,
       "num": 198348,
       "word": "又一家反华媒体关门",
@@ -1657,6 +1697,14 @@
       "onboard_time": 1751422160,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 150516,
+      "num": 150516,
+      "word": "科学家称大脑死后记忆可提取保存",
+      "onboard_time": 1751463564,
+      "rank": 38,
+      "category": "科学科普"
     },
     {
       "raw_hot": 150316,
@@ -1891,6 +1939,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 136879,
+      "num": 136879,
+      "word": "鹿晗10年后重返诺言青岛拍摄地",
+      "onboard_time": 1751466023,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 136622,
       "num": 136622,
       "word": "刘令姿人生镜头上新",
@@ -1963,6 +2019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 132848,
+      "num": 132848,
+      "word": "恋与深空陪我睡觉",
+      "onboard_time": 1751465303,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 132204,
       "num": 132204,
       "word": "魏哲鸣这一跪鹰视狼顾",
@@ -2025,6 +2089,14 @@
       "onboard_time": 1751431824,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129860,
+      "num": 158745,
+      "word": "埃菲尔铁塔被热到弯曲偏斜",
+      "onboard_time": 1751466144,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 129788,
@@ -2097,6 +2169,14 @@
       "onboard_time": 1751447781,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127239,
+      "num": 184319,
+      "word": "乡村女孩把苦难熬成671分",
+      "onboard_time": 1751462725,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127189,
@@ -2307,6 +2387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118022,
+      "num": 118022,
+      "word": "清清杨戬MVP",
+      "onboard_time": 1751466205,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 117931,
       "num": 117931,
       "word": "第一次见这么没技术含量的摆摊",
@@ -2337,6 +2425,14 @@
       "onboard_time": 1751379084,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116634,
+      "num": 116634,
+      "word": "锦绣芳华有自己的泡泡玛特",
+      "onboard_time": 1751464884,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 116282,
@@ -2393,6 +2489,22 @@
       "onboard_time": 1751385801,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 113714,
+      "num": 113714,
+      "word": "以法之名台词照进现实",
+      "onboard_time": 1751466265,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 113366,
+      "num": 113366,
+      "word": "何惟芳我请问呢",
+      "onboard_time": 1751466386,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 113343,
@@ -2475,6 +2587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110616,
+      "num": 110616,
+      "word": "有多名儿童的登山团暴雨中迷路",
+      "onboard_time": 1751465185,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109920,
       "num": 109920,
       "word": "爱情里理性就是不够爱吗",
@@ -2505,6 +2625,14 @@
       "onboard_time": 1751436443,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 108898,
+      "num": 108898,
+      "word": "幼儿园老师一手一个捞起落水母子",
+      "onboard_time": 1751466324,
+      "rank": 45,
+      "category": "正能量"
     },
     {
       "raw_hot": 108655,
@@ -2689,14 +2817,6 @@
       "onboard_time": 1751445261,
       "rank": 48,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 102818,
-      "num": 136020,
-      "word": "科学家称大脑死后记忆可提取保存",
-      "onboard_time": 1751463564,
-      "rank": 38,
-      "category": "科学科普"
     },
     {
       "raw_hot": 102394,
@@ -2963,6 +3083,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 84838,
+      "num": 151651,
+      "word": "孙颖莎说期待体验大型场馆比赛氛围",
+      "onboard_time": 1751465364,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84748,
       "num": 113399,
       "word": "首个宠物本科专业来了",
@@ -3171,6 +3299,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 64755,
+      "num": 185637,
+      "word": "荣耀最强AI智能体每天省出1小时",
+      "onboard_time": 1751463683,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 64317,
       "num": 73978,
       "word": "周杰伦济南抢票",
@@ -3251,6 +3387,14 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 59144,
+      "num": 318631,
+      "word": "荣耀李健称这就是今年最好的折叠屏",
+      "onboard_time": 1751465185,
+      "rank": 19,
+      "category": "数码,艺人"
+    },
+    {
       "raw_hot": 57763,
       "num": 134430,
       "word": "中国人民抗战胜利80周年",
@@ -3299,6 +3443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 52951,
+      "num": 554474,
+      "word": "对贵州启动国家三级救灾应急响应",
+      "onboard_time": 1751448922,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 52806,
       "num": 360441,
       "word": "解限机还能这么玩儿",
@@ -3321,14 +3473,6 @@
       "onboard_time": 1751445081,
       "rank": 39,
       "category": "艺人,电竞"
-    },
-    {
-      "raw_hot": 49723,
-      "num": 185637,
-      "word": "荣耀最强AI智能体每天省出1小时",
-      "onboard_time": 1751463683,
-      "rank": 29,
-      "category": "数码"
     },
     {
       "raw_hot": 48145,
@@ -3467,14 +3611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33922,
-      "num": 184319,
-      "word": "乡村女孩把苦难熬成671分",
-      "onboard_time": 1751462725,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 33313,
       "num": 294843,
       "word": "天津一培训机构被指体罚员工狗爬",
@@ -3561,14 +3697,6 @@
       "onboard_time": 1751463683,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21025,
-      "num": 426375,
-      "word": "对贵州启动国家三级救灾应急响应",
-      "onboard_time": 1751448922,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 19851,

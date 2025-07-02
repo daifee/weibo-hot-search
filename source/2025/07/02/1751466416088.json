@@ -1,0 +1,410 @@
+{
+  "runTime": 1751466416088,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2063793,
+        "num": 2063793,
+        "word": "杨幂 妈幂",
+        "onboard_time": 1751462302,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 575656,
+        "num": 575656,
+        "word": "吃荔枝不看的人有福了",
+        "onboard_time": 1751456542,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 52951,
+        "num": 554474,
+        "word": "对贵州启动国家三级救灾应急响应",
+        "onboard_time": 1751448922,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1031452,
+        "num": 547242,
+        "word": "王嘉尔反驳印度主持人",
+        "onboard_time": 1751460443,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 535727,
+        "num": 535727,
+        "word": "9平米的房住出了90平方的感觉",
+        "onboard_time": 1751462062,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 213811,
+        "num": 378615,
+        "word": "高考671分乡村女孩回应",
+        "onboard_time": 1751456843,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 641268,
+        "num": 376053,
+        "word": "林志玲一个生煎包吃十几口",
+        "onboard_time": 1751460923,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 596567,
+        "num": 375036,
+        "word": "王楚然求助治寻麻疹的方法",
+        "onboard_time": 1751459063,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372387,
+        "num": 372387,
+        "word": "wakuku",
+        "onboard_time": 1751456661,
+        "rank": 8,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 181716,
+        "num": 370878,
+        "word": "黄牛为什么能抢走演唱会门票",
+        "onboard_time": 1751465425,
+        "rank": 9,
+        "category": "民生新闻,演出"
+      },
+      {
+        "raw_hot": 573426,
+        "num": 361876,
+        "word": "董卿生病但帅",
+        "onboard_time": 1751460142,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 564051,
+        "num": 348627,
+        "word": "家有儿女小雨变暴雨了",
+        "onboard_time": 1751442801,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 548060,
+        "num": 335531,
+        "word": "优酷爆剧三大赛道全面开花",
+        "onboard_time": 1751462544,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 463843,
+        "num": 324773,
+        "word": "你俩长嘴是只会亲嘴吗",
+        "onboard_time": 1751463864,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320413,
+        "num": 320413,
+        "word": "雷军回应大定被质疑有水分",
+        "onboard_time": 1751462842,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 356345,
+        "num": 320273,
+        "word": "娱乐圈 更新换代",
+        "onboard_time": 1751456242,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323620,
+        "num": 319773,
+        "word": "陈泽希被曝多次出轨",
+        "onboard_time": 1751455462,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186819,
+        "num": 319346,
+        "word": "常州队的后援配置有多豪华",
+        "onboard_time": 1751465124,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184664,
+        "num": 318932,
+        "word": "12306称走换乘到出发层就餐不可行",
+        "onboard_time": 1751454442,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59144,
+        "num": 318631,
+        "word": "荣耀李健称这就是今年最好的折叠屏",
+        "onboard_time": 1751465185,
+        "rank": 19,
+        "category": "数码,艺人"
+      },
+      {
+        "raw_hot": 318501,
+        "num": 318501,
+        "word": "南航吉林分公司疑突发伤人事件",
+        "onboard_time": 1751453183,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305583,
+        "num": 305583,
+        "word": "长月烬明",
+        "onboard_time": 1751452461,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234809,
+        "num": 234809,
+        "word": "南航",
+        "onboard_time": 1751448623,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208530,
+        "num": 208530,
+        "word": "丁禹兮穿了恩利设计的衣服",
+        "onboard_time": 1751464584,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198777,
+        "num": 198777,
+        "word": "恋与深空哄睡直播",
+        "onboard_time": 1751465364,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193849,
+        "num": 193849,
+        "word": "周杰伦周星驰合照",
+        "onboard_time": 1751462062,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183714,
+        "num": 183714,
+        "word": "吴谨言美得不知天地为何物",
+        "onboard_time": 1751460563,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 64755,
+        "num": 161859,
+        "word": "荣耀最强AI智能体每天省出1小时",
+        "onboard_time": 1751463683,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 160110,
+        "num": 160110,
+        "word": "六郎你回家吧",
+        "onboard_time": 1751465543,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129860,
+        "num": 158745,
+        "word": "埃菲尔铁塔被热到弯曲偏斜",
+        "onboard_time": 1751466144,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 157646,
+        "num": 157646,
+        "word": "惠利曝新恋情后韩素希口碑反转",
+        "onboard_time": 1751456782,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153840,
+        "num": 153840,
+        "word": "为什么体检无异常发现却是晚期",
+        "onboard_time": 1751455222,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 84838,
+        "num": 151651,
+        "word": "孙颖莎说期待体验大型场馆比赛氛围",
+        "onboard_time": 1751465364,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150516,
+        "num": 150516,
+        "word": "科学家称大脑死后记忆可提取保存",
+        "onboard_time": 1751463564,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 129881,
+        "num": 138318,
+        "word": "马龙登上新闻联播",
+        "onboard_time": 1751462482,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125071,
+        "num": 137481,
+        "word": "云南大理出现罕见鱼阵",
+        "onboard_time": 1751456962,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136879,
+        "num": 136879,
+        "word": "鹿晗10年后重返诺言青岛拍摄地",
+        "onboard_time": 1751466023,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132848,
+        "num": 132848,
+        "word": "恋与深空陪我睡觉",
+        "onboard_time": 1751465303,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127239,
+        "num": 127239,
+        "word": "乡村女孩把苦难熬成671分",
+        "onboard_time": 1751462725,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118022,
+        "num": 118022,
+        "word": "清清杨戬MVP",
+        "onboard_time": 1751466205,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116634,
+        "num": 116634,
+        "word": "锦绣芳华有自己的泡泡玛特",
+        "onboard_time": 1751464884,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113714,
+        "num": 113714,
+        "word": "以法之名台词照进现实",
+        "onboard_time": 1751466265,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113366,
+        "num": 113366,
+        "word": "何惟芳我请问呢",
+        "onboard_time": 1751466386,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110616,
+        "num": 110616,
+        "word": "有多名儿童的登山团暴雨中迷路",
+        "onboard_time": 1751465185,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111794,
+        "num": 109819,
+        "word": "赵今麦碎冰蓝玫瑰",
+        "onboard_time": 1751460083,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108898,
+        "num": 108898,
+        "word": "幼儿园老师一手一个捞起落水母子",
+        "onboard_time": 1751466324,
+        "rank": 45,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 107505,
+        "num": 107505,
+        "word": "苏州一点面子不留给南京",
+        "onboard_time": 1751461343,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149978,
+        "num": 107136,
+        "word": "王楚然 纤体瓶喝了一个月也没瘦",
+        "onboard_time": 1751454082,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52096,
+        "num": 106691,
+        "word": "荣耀李健称MagicV5地表最强",
+        "onboard_time": 1751461702,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 106342,
+        "num": 106342,
+        "word": "深圳18岁CEO给母校捐了10万",
+        "onboard_time": 1751462663,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#青年的理想信念关乎国家未来#"
+    }
+  }
+}
