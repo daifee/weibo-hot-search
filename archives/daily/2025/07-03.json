@@ -1,6 +1,6 @@
 {
   "startTime": 1751473999400,
-  "endTime": 1751498807522,
+  "endTime": 1751499693354,
   "band_list": [
     {
       "raw_hot": 969248,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 494938,
+      "num": 146855,
+      "word": "曝娜扎张云龙近况",
+      "onboard_time": 1751499380,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 483181,
       "num": 202907,
       "word": "小黄豆 芮芮",
@@ -43,19 +51,19 @@
       "category": "网红"
     },
     {
+      "raw_hot": 310245,
+      "num": 310245,
+      "word": "精心设计的婚礼布景竟变成短剧素材",
+      "onboard_time": 1751469923,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 296228,
       "num": 296228,
       "word": "20年前的高考成绩可网络查询了",
       "onboard_time": 1751469682,
       "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 295432,
-      "num": 295432,
-      "word": "精心设计的婚礼布景竟变成短剧素材",
-      "onboard_time": 1751469923,
-      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -83,8 +91,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 267774,
-      "num": 267774,
+      "raw_hot": 269367,
+      "num": 269367,
       "word": "埃菲尔铁塔被热到弯曲偏斜",
       "onboard_time": 1751466144,
       "rank": 7,
@@ -113,6 +121,22 @@
       "onboard_time": 1751460443,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 216114,
+      "num": 125139,
+      "word": "韩国女星李屿迩去世",
+      "onboard_time": 1751499079,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 207764,
+      "num": 134956,
+      "word": "日本首相强硬表态",
+      "onboard_time": 1751498719,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 189846,
@@ -187,6 +211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133559,
+      "num": 113375,
+      "word": "杭州热到全国第一了",
+      "onboard_time": 1751498479,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132197,
       "num": 132197,
       "word": "美国首条高铁17年建了个寂寞",
@@ -201,6 +233,14 @@
       "onboard_time": 1751471781,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124277,
+      "num": 79447,
+      "word": "中文慢慢失去了加密功能",
+      "onboard_time": 1751498839,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 121697,
@@ -219,8 +259,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 111746,
-      "num": 93272,
+      "raw_hot": 113308,
+      "num": 113308,
       "word": "为什么体检无异常发现却是晚期",
       "onboard_time": 1751455222,
       "rank": 37,
@@ -233,6 +273,14 @@
       "onboard_time": 1751448623,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107769,
+      "num": 107769,
+      "word": "越南关税",
+      "onboard_time": 1751499261,
+      "rank": 22,
+      "category": "国际时政,财经"
     },
     {
       "raw_hot": 107248,
@@ -251,12 +299,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 98383,
-      "num": 93058,
-      "word": "杭州热到全国第一了",
-      "onboard_time": 1751498479,
-      "rank": 21,
-      "category": "民生新闻"
+      "raw_hot": 103303,
+      "num": 103303,
+      "word": "健康睡眠的4个黄金标准",
+      "onboard_time": 1751468304,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 101181,
+      "num": 101181,
+      "word": "王灿说和杜淳不算门当户对",
+      "onboard_time": 1751499380,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 98158,
@@ -268,7 +324,7 @@
     },
     {
       "raw_hot": 98155,
-      "num": 64524,
+      "num": 79415,
       "word": "姥把你放心上你把姥挂网上",
       "onboard_time": 1751498479,
       "rank": 30,
@@ -323,8 +379,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 78918,
-      "num": 78918,
+      "raw_hot": 79626,
+      "num": 79626,
       "word": "刘畅一米七一米八地走向何惟芳",
       "onboard_time": 1751489954,
       "rank": 38,
@@ -347,12 +403,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 70475,
-      "num": 97404,
-      "word": "健康睡眠的4个黄金标准",
-      "onboard_time": 1751468304,
-      "rank": 40,
-      "category": "健康医疗"
+      "raw_hot": 70648,
+      "num": 70648,
+      "word": "刘星一语成谶",
+      "onboard_time": 1751459724,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 70083,
@@ -369,6 +425,22 @@
       "onboard_time": 1751460563,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 66337,
+      "num": 189884,
+      "word": "明园集团李松坚陷入被儿子曝光风波",
+      "onboard_time": 1751481434,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66175,
+      "num": 66175,
+      "word": "谁还记得2001年的网络流行语",
+      "onboard_time": 1751498958,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 66014,
@@ -395,12 +467,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62422,
+      "num": 62422,
+      "word": "千万不要有职场斯德哥尔摩综合症",
+      "onboard_time": 1751498659,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 62391,
       "num": 62391,
       "word": "何惟芳我请问呢",
       "onboard_time": 1751466386,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 62082,
+      "num": 62082,
+      "word": "终于体会到了及时止损的意思",
+      "onboard_time": 1751499021,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 61996,
@@ -427,14 +515,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 57548,
-      "num": 189884,
-      "word": "明园集团李松坚陷入被儿子曝光风波",
-      "onboard_time": 1751481434,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 53966,
       "num": 662277,
       "word": "贵州榕江洪灾救援诠释中国式团结",
@@ -443,28 +523,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 52363,
-      "num": 52363,
-      "word": "千万不要有职场斯德哥尔摩综合症",
-      "onboard_time": 1751498659,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 49643,
       "num": 48842,
       "word": "iOS26新增实用功能",
       "onboard_time": 1751498298,
       "rank": 34,
       "category": "数码"
-    },
-    {
-      "raw_hot": 49324,
-      "num": 49324,
-      "word": "刘星一语成谶",
-      "onboard_time": 1751459724,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 48919,
@@ -489,6 +553,22 @@
       "onboard_time": 1751491274,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 47480,
+      "num": 47480,
+      "word": "当你在家人面前喊对象全名",
+      "onboard_time": 1751499439,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 44944,
+      "num": 44944,
+      "word": "一直在干有利于脊柱侧弯的事",
+      "onboard_time": 1751498780,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 44720,
@@ -555,20 +635,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 36641,
-      "num": 36641,
-      "word": "一直在干有利于脊柱侧弯的事",
-      "onboard_time": 1751498780,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 35369,
       "num": 35369,
       "word": "娱乐圈 更新换代",
       "onboard_time": 1751456242,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 32964,
+      "num": 113442,
+      "word": "加沙近600人领食物时被打死",
+      "onboard_time": 1751499139,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 32607,
@@ -649,14 +729,6 @@
       "onboard_time": 1751477536,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 9118,
-      "num": 45737,
-      "word": "日本首相强硬表态",
-      "onboard_time": 1751498719,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 8078,
