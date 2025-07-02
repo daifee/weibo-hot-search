@@ -1,10 +1,10 @@
 {
   "startTime": 1751387623546,
-  "endTime": 1751455421220,
+  "endTime": 1751456376182,
   "band_list": [
     {
       "raw_hot": 2285814,
-      "num": 278445,
+      "num": 352044,
       "word": "家有儿女小雨变暴雨了",
       "onboard_time": 1751442801,
       "rank": 10,
@@ -105,6 +105,14 @@
       "onboard_time": 1751381965,
       "rank": 0,
       "category": "演出"
+    },
+    {
+      "raw_hot": 727722,
+      "num": 1116435,
+      "word": "1979年魔童超生",
+      "onboard_time": 1751452042,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 727697,
@@ -259,14 +267,6 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 569365,
-      "num": 569365,
-      "word": "1979年魔童超生",
-      "onboard_time": 1751452042,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 551256,
       "num": 551256,
       "word": "长月烬明",
@@ -387,6 +387,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 458959,
+      "num": 387433,
+      "word": "胡一天自曝很便宜求戏拍",
+      "onboard_time": 1751451442,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 449902,
       "num": 449902,
       "word": "央视揭造谣大熊猫受虐圈钱模式",
@@ -449,6 +457,14 @@
       "onboard_time": 1751450362,
       "rank": 6,
       "category": "艺人,休闲"
+    },
+    {
+      "raw_hot": 415796,
+      "num": 385327,
+      "word": "王楚然 纤体瓶喝了一个月也没瘦",
+      "onboard_time": 1751454082,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 414296,
@@ -651,14 +667,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 288304,
-      "num": 288304,
-      "word": "王楚然 纤体瓶喝了一个月也没瘦",
-      "onboard_time": 1751454082,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 285909,
       "num": 199436,
       "word": "小沈阳女儿专辑售卖遇冷",
@@ -667,16 +675,8 @@
       "category": "音乐,艺人"
     },
     {
-      "raw_hot": 285024,
-      "num": 277380,
-      "word": "胡一天自曝很便宜求戏拍",
-      "onboard_time": 1751451442,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 278719,
-      "num": 278719,
+      "raw_hot": 281534,
+      "num": 281534,
       "word": "孙恩盛店铺关联公司已经营异常",
       "onboard_time": 1751452461,
       "rank": 33,
@@ -891,6 +891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214381,
+      "num": 214381,
+      "word": "12306称走换乘到出发层就餐不可行",
+      "onboard_time": 1751454442,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 214155,
       "num": 214155,
       "word": "实测瘦肚子巨快的运动",
@@ -916,7 +924,7 @@
     },
     {
       "raw_hot": 204296,
-      "num": 172886,
+      "num": 192107,
       "word": "上海88元和16888元酒店的区别",
       "onboard_time": 1751452461,
       "rank": 30,
@@ -937,6 +945,14 @@
       "onboard_time": 1751455222,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 202388,
+      "num": 202388,
+      "word": "鹿晗南京抢票",
+      "onboard_time": 1751455101,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 201536,
@@ -1003,6 +1019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196270,
+      "num": 196270,
+      "word": "陈泽希被曝多次出轨",
+      "onboard_time": 1751455462,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196176,
       "num": 196176,
       "word": "密室大逃脱",
@@ -1035,12 +1059,12 @@
       "category": "互联网,艺人"
     },
     {
-      "raw_hot": 190088,
-      "num": 190088,
-      "word": "鹿晗南京抢票",
-      "onboard_time": 1751455101,
-      "rank": 19,
-      "category": "演出"
+      "raw_hot": 189718,
+      "num": 189718,
+      "word": "锦绣芳华只更一集",
+      "onboard_time": 1751455402,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 187776,
@@ -1403,6 +1427,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 148402,
+      "num": 148402,
+      "word": "冻香蕉",
+      "onboard_time": 1751455582,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 147931,
       "num": 147931,
       "word": "墨西哥一市长按习俗与鳄鱼结婚",
@@ -1497,14 +1529,6 @@
       "onboard_time": 1751422519,
       "rank": 41,
       "category": "美食,健康医疗"
-    },
-    {
-      "raw_hot": 142775,
-      "num": 142775,
-      "word": "12306称走换乘到出发层就餐不可行",
-      "onboard_time": 1751454442,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 142615,
@@ -1651,6 +1675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 132204,
+      "num": 132204,
+      "word": "魏哲鸣这一跪鹰视狼顾",
+      "onboard_time": 1751455822,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131003,
       "num": 131003,
       "word": "在世老人坐新棺材被16力士抬回家",
@@ -1731,6 +1763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127985,
+      "num": 127985,
+      "word": "全员加速中",
+      "onboard_time": 1751455342,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127911,
       "num": 127911,
       "word": "张予曦镂空裸背裙",
@@ -1745,14 +1785,6 @@
       "onboard_time": 1751444963,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 127645,
-      "num": 127645,
-      "word": "锦绣芳华只更一集",
-      "onboard_time": 1751455402,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 127579,
@@ -1907,6 +1939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 120093,
+      "num": 120093,
+      "word": "为什么女演员可以长红",
+      "onboard_time": 1751453301,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118710,
       "num": 177431,
       "word": "猫眼退票退款",
@@ -2019,14 +2059,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 113568,
-      "num": 113568,
-      "word": "全员加速中",
-      "onboard_time": 1751455342,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 113343,
       "num": 113343,
       "word": "一年没被主人摸头的小猫",
@@ -2041,14 +2073,6 @@
       "onboard_time": 1751432424,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 113003,
-      "num": 113003,
-      "word": "为什么女演员可以长红",
-      "onboard_time": 1751453301,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 112808,
@@ -2163,6 +2187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108196,
+      "num": 108196,
+      "word": "娱乐圈 更新换代",
+      "onboard_time": 1751456242,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108147,
       "num": 108147,
       "word": "杨幂今天也太忙了吧",
@@ -2177,6 +2209,14 @@
       "onboard_time": 1751450122,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 107884,
+      "num": 107884,
+      "word": "应采儿陈小春两个暴脾气生了个甜豆",
+      "onboard_time": 1751454922,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 107858,
@@ -2249,6 +2289,14 @@
       "onboard_time": 1751442502,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105300,
+      "num": 105300,
+      "word": "陈哲远是真的把自己养得很好",
+      "onboard_time": 1751456062,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 104622,
@@ -2387,12 +2435,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 93935,
+      "num": 93935,
+      "word": "小伙考上北京大学研究生感谢樊振东",
+      "onboard_time": 1751455642,
+      "rank": 43,
+      "category": "民生新闻,体育"
+    },
+    {
       "raw_hot": 93063,
       "num": 240846,
       "word": "上海交大强化校外来访人员行为管理",
       "onboard_time": 1751445081,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92397,
+      "num": 92397,
+      "word": "苹果折叠iPhone进入P1原型阶段",
+      "onboard_time": 1751456062,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 92246,
@@ -2481,6 +2545,14 @@
       "onboard_time": 1751419940,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87457,
+      "num": 99593,
+      "word": "魔兽世界",
+      "onboard_time": 1751456242,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 86003,
@@ -2812,7 +2884,7 @@
     },
     {
       "raw_hot": 52806,
-      "num": 277866,
+      "num": 360441,
       "word": "解限机还能这么玩儿",
       "onboard_time": 1751452940,
       "rank": 25,
@@ -2825,6 +2897,14 @@
       "onboard_time": 1751441961,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 50570,
+      "num": 383089,
+      "word": "南航伤人事件已移交上级刑侦部门",
+      "onboard_time": 1751455942,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50341,
@@ -2899,20 +2979,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39731,
+      "num": 331833,
+      "word": "国产科幻如何异军突起",
+      "onboard_time": 1751454381,
+      "rank": 12,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 38620,
       "num": 38620,
       "word": "小米汽车辟谣提前交付",
       "onboard_time": 1751390417,
       "rank": 44,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 37803,
-      "num": 278045,
-      "word": "国产科幻如何异军突起",
-      "onboard_time": 1751454381,
-      "rank": 12,
-      "category": "游戏"
     },
     {
       "raw_hot": 36739,
@@ -2960,6 +3040,14 @@
       "word": "院方与黑救护车老板签有合作协议",
       "onboard_time": 1751452281,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33313,
+      "num": 294843,
+      "word": "天津一培训机构被指体罚员工狗爬",
+      "onboard_time": 1751455942,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
