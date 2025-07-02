@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751488939164,
+  "endTime": 1751491522468,
   "band_list": [
     {
       "raw_hot": 2472851,
@@ -7051,6 +7051,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 37057,
+      "num": 215533,
+      "word": "美国民众等高铁从青年等到了中年",
+      "onboard_time": 1751473160,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 36739,
       "num": 155107,
       "word": "机甲驾驶员怎么考证",
@@ -7081,14 +7089,6 @@
       "onboard_time": 1751379683,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35882,
-      "num": 215533,
-      "word": "美国民众等高铁从青年等到了中年",
-      "onboard_time": 1751473160,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 35810,
@@ -7667,6 +7667,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 14927,
+      "num": 14927,
+      "word": "刘畅一米七一米八地走向何惟芳",
+      "onboard_time": 1751489954,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 14512,
+      "num": 14512,
+      "word": "巴黎圣母院尖塔9月将重新开放",
+      "onboard_time": 1751485154,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 14101,
       "num": 16560,
       "word": "我不是天才吗",
@@ -7715,14 +7731,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13452,
-      "num": 14056,
-      "word": "巴黎圣母院尖塔9月将重新开放",
-      "onboard_time": 1751485154,
-      "rank": 47,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 13299,
       "num": 17056,
       "word": "3个动作瘦小腿",
@@ -7737,6 +7745,22 @@
       "onboard_time": 1751438482,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13171,
+      "num": 13171,
+      "word": "日本计划将饲料用米当主食米投放",
+      "onboard_time": 1751490134,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 13025,
+      "num": 13025,
+      "word": "王大陆服役假期和女友约会",
+      "onboard_time": 1751491274,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 12945,
