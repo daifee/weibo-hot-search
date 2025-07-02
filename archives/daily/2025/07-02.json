@@ -1,6 +1,6 @@
 {
   "startTime": 1751387623546,
-  "endTime": 1751461758665,
+  "endTime": 1751463507882,
   "band_list": [
     {
       "raw_hot": 2285814,
@@ -67,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1089695,
+      "num": 1174351,
+      "word": "王楚然求助治寻麻疹的方法",
+      "onboard_time": 1751459063,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1069823,
       "num": 1171171,
       "word": "幼师又多了一个就业方向",
@@ -80,14 +88,6 @@
       "word": "陈赫回应鹿晗暴瘦",
       "onboard_time": 1751380342,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 896664,
-      "num": 1143466,
-      "word": "王楚然求助治寻麻疹的方法",
-      "onboard_time": 1751459063,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -155,6 +155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 714369,
+      "num": 385763,
+      "word": "杨幂 妈幂",
+      "onboard_time": 1751462302,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 713210,
       "num": 1114113,
       "word": "哪吒2告别魔童",
@@ -177,6 +185,14 @@
       "onboard_time": 1751428401,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 690366,
+      "num": 286051,
+      "word": "董卿生病但帅",
+      "onboard_time": 1751460142,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 682898,
@@ -307,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 596040,
+      "num": 306574,
+      "word": "王嘉尔反驳印度主持人",
+      "onboard_time": 1751460443,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 595993,
       "num": 595993,
       "word": "早睡早起的人更易早晨焦虑",
@@ -432,6 +456,14 @@
       "word": "胡一天自曝很便宜求戏拍",
       "onboard_time": 1751451442,
       "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 452200,
+      "num": 382231,
+      "word": "娱乐圈 更新换代",
+      "onboard_time": 1751456242,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -571,14 +603,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 382231,
-      "num": 382231,
-      "word": "娱乐圈 更新换代",
-      "onboard_time": 1751456242,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 372753,
       "num": 372753,
       "word": "利拉德",
@@ -601,6 +625,14 @@
       "onboard_time": 1751435242,
       "rank": 7,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 340476,
+      "num": 371113,
+      "word": "高考671分乡村女孩回应",
+      "onboard_time": 1751456843,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 335561,
@@ -739,20 +771,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 286051,
-      "num": 286051,
-      "word": "董卿生病但帅",
-      "onboard_time": 1751460142,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 285909,
       "num": 199436,
       "word": "小沈阳女儿专辑售卖遇冷",
       "onboard_time": 1751377224,
       "rank": 15,
       "category": "音乐,艺人"
+    },
+    {
+      "raw_hot": 285358,
+      "num": 285358,
+      "word": "9平米的房住出了90平方的感觉",
+      "onboard_time": 1751462062,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 281534,
@@ -768,6 +800,14 @@
       "word": "古装剧一个个官宣",
       "onboard_time": 1751430564,
       "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 260124,
+      "num": 216766,
+      "word": "优酷爆剧三大赛道全面开花",
+      "onboard_time": 1751462544,
+      "rank": 17,
       "category": "剧集"
     },
     {
@@ -851,14 +891,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 232811,
-      "num": 371113,
-      "word": "高考671分乡村女孩回应",
-      "onboard_time": 1751456843,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 232774,
       "num": 232774,
       "word": "崩坏星穹铁道",
@@ -881,14 +913,6 @@
       "onboard_time": 1751385203,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 229693,
-      "num": 193147,
-      "word": "王嘉尔反驳印度主持人",
-      "onboard_time": 1751460443,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 229168,
@@ -929,6 +953,14 @@
       "onboard_time": 1751447122,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225433,
+      "num": 216382,
+      "word": "林志玲一个生煎包吃十几口",
+      "onboard_time": 1751460923,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 223087,
@@ -1017,6 +1049,14 @@
       "onboard_time": 1751426060,
       "rank": 36,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 213729,
+      "num": 213729,
+      "word": "周杰伦周星驰合照",
+      "onboard_time": 1751462062,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 213714,
@@ -1227,6 +1267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 185594,
+      "num": 216689,
+      "word": "荣耀李健称MagicV5地表最强",
+      "onboard_time": 1751461702,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 181971,
       "num": 291866,
       "word": "荣耀李健折学家",
@@ -1307,14 +1355,6 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 174225,
-      "num": 174225,
-      "word": "林志玲一个生煎包吃十几口",
-      "onboard_time": 1751460923,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 173853,
       "num": 173853,
       "word": "杨紫锦绣芳华收视纪录",
@@ -1361,6 +1401,14 @@
       "onboard_time": 1751447421,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172106,
+      "num": 172106,
+      "word": "雷军回应大定被质疑有水分",
+      "onboard_time": 1751462842,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 171187,
@@ -1547,6 +1595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154509,
+      "num": 216162,
+      "word": "孙颖莎喊话美国大满贯观众",
+      "onboard_time": 1751461942,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154408,
       "num": 154408,
       "word": "云合",
@@ -1625,6 +1681,14 @@
       "onboard_time": 1751441662,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147211,
+      "num": 147211,
+      "word": "荣耀magic V5价格",
+      "onboard_time": 1751462482,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 146728,
@@ -1721,6 +1785,14 @@
       "onboard_time": 1751441902,
       "rank": 34,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 141377,
+      "num": 216115,
+      "word": "马龙登上新闻联播",
+      "onboard_time": 1751462482,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 139632,
@@ -1865,6 +1937,14 @@
       "onboard_time": 1751455822,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131564,
+      "num": 191786,
+      "word": "苏州一点面子不留给南京",
+      "onboard_time": 1751461343,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 131003,
@@ -2091,11 +2171,27 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 122376,
+      "num": 122376,
+      "word": "以法之名",
+      "onboard_time": 1751453422,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121913,
       "num": 121913,
       "word": "MSI",
       "onboard_time": 1751421500,
       "rank": 30,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 121484,
+      "num": 121484,
+      "word": "TTG对战DRG",
+      "onboard_time": 1751463383,
+      "rank": 45,
       "category": "电竞"
     },
     {
@@ -2187,20 +2283,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 117339,
-      "num": 117339,
-      "word": "以法之名",
-      "onboard_time": 1751453422,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 116991,
       "num": 116991,
       "word": "猫眼就误放周杰伦演唱会回流票致歉",
       "onboard_time": 1751426001,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 116878,
+      "num": 116878,
+      "word": "都说了别惹离职冷静期的人",
+      "onboard_time": 1751463383,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 116767,
@@ -2292,7 +2388,7 @@
     },
     {
       "raw_hot": 112753,
-      "num": 112753,
+      "num": 284058,
       "word": "云南大理出现罕见鱼阵",
       "onboard_time": 1751456962,
       "rank": 47,
@@ -2345,6 +2441,14 @@
       "onboard_time": 1751382204,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111420,
+      "num": 111420,
+      "word": "刘轩丞问暑期什么安排",
+      "onboard_time": 1751463443,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 109920,
@@ -2420,7 +2524,7 @@
     },
     {
       "raw_hot": 107884,
-      "num": 107884,
+      "num": 216298,
       "word": "应采儿陈小春两个暴脾气生了个甜豆",
       "onboard_time": 1751454922,
       "rank": 34,
@@ -2779,14 +2883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 88383,
-      "num": 191786,
-      "word": "苏州一点面子不留给南京",
-      "onboard_time": 1751461343,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 87874,
       "num": 297058,
       "word": "民航局答机场被拦截充电宝流向何处",
@@ -2979,6 +3075,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 70970,
+      "num": 216084,
+      "word": "荣耀MagicV5满血真旗舰",
+      "onboard_time": 1751461702,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 70886,
       "num": 70886,
       "word": "小米YU7续航实测结果",
@@ -3113,14 +3217,6 @@
       "onboard_time": 1751389697,
       "rank": 30,
       "category": "幽默,休闲"
-    },
-    {
-      "raw_hot": 57842,
-      "num": 114271,
-      "word": "荣耀李健称MagicV5地表最强",
-      "onboard_time": 1751461702,
-      "rank": 44,
-      "category": "数码"
     },
     {
       "raw_hot": 57763,
@@ -3331,12 +3427,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33097,
-      "num": 114414,
-      "word": "荣耀MagicV5满血真旗舰",
-      "onboard_time": 1751461702,
-      "rank": 43,
-      "category": "数码"
+      "raw_hot": 32886,
+      "num": 216895,
+      "word": "9家共享充电宝两家无3C",
+      "onboard_time": 1751463082,
+      "rank": 15,
+      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 30712,
@@ -3369,6 +3465,14 @@
       "onboard_time": 1751412258,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 28133,
+      "num": 216663,
+      "word": "妻子深情追随丈夫相继成为大体老师",
+      "onboard_time": 1751462482,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27278,
@@ -3459,6 +3563,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 13967,
+      "num": 147262,
+      "word": "做出高科技机甲需要几步",
+      "onboard_time": 1751462544,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 13780,
       "num": 105822,
       "word": "印度无人机洗火车",
@@ -3488,6 +3600,14 @@
       "word": "他率500多名战士阻击7倍于己的日伪军",
       "onboard_time": 1751401874,
       "rank": 20,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 9354,
+      "num": 399326,
+      "word": "对贵州启动国家三级救灾应急响应",
+      "onboard_time": 1751448922,
+      "rank": 2,
       "category": "国内时政"
     },
     {

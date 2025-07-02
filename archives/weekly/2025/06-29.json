@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751461758665,
+  "endTime": 1751463507882,
   "band_list": [
     {
       "raw_hot": 3569605,
@@ -491,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1089695,
+      "num": 1174351,
+      "word": "王楚然求助治寻麻疹的方法",
+      "onboard_time": 1751459063,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1081377,
       "num": 1081377,
       "word": "收到不雅照转过去15万才想起没拍过",
@@ -641,14 +649,6 @@
       "onboard_time": 1751253501,
       "rank": 4,
       "category": "数码,民生新闻"
-    },
-    {
-      "raw_hot": 896664,
-      "num": 1143466,
-      "word": "王楚然求助治寻麻疹的方法",
-      "onboard_time": 1751459063,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 896371,
@@ -1027,6 +1027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 714369,
+      "num": 385763,
+      "word": "杨幂 妈幂",
+      "onboard_time": 1751462302,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 713210,
       "num": 1114113,
       "word": "哪吒2告别魔童",
@@ -1113,6 +1121,14 @@
       "onboard_time": 1751297424,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 690366,
+      "num": 286051,
+      "word": "董卿生病但帅",
+      "onboard_time": 1751460142,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 689909,
@@ -1473,6 +1489,14 @@
       "onboard_time": 1751248641,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 596040,
+      "num": 306574,
+      "word": "王嘉尔反驳印度主持人",
+      "onboard_time": 1751460443,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 595993,
@@ -2067,6 +2091,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 452200,
+      "num": 382231,
+      "word": "娱乐圈 更新换代",
+      "onboard_time": 1751456242,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 449902,
       "num": 449902,
       "word": "央视揭造谣大熊猫受虐圈钱模式",
@@ -2539,14 +2571,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 382231,
-      "num": 382231,
-      "word": "娱乐圈 更新换代",
-      "onboard_time": 1751456242,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 380365,
       "num": 380365,
       "word": "黄子韬画的饼做到了",
@@ -2793,6 +2817,14 @@
       "onboard_time": 1751290763,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 340476,
+      "num": 371113,
+      "word": "高考671分乡村女孩回应",
+      "onboard_time": 1751456843,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 339605,
@@ -3467,20 +3499,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 286051,
-      "num": 286051,
-      "word": "董卿生病但帅",
-      "onboard_time": 1751460142,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 285821,
       "num": 191006,
       "word": "白桃星座一周运势",
       "onboard_time": 1751209763,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 285358,
+      "num": 285358,
+      "word": "9平米的房住出了90平方的感觉",
+      "onboard_time": 1751462062,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 284692,
@@ -3697,6 +3729,14 @@
       "onboard_time": 1751265802,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 260124,
+      "num": 216766,
+      "word": "优酷爆剧三大赛道全面开花",
+      "onboard_time": 1751462544,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 259644,
@@ -4067,14 +4107,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 232811,
-      "num": 371113,
-      "word": "高考671分乡村女孩回应",
-      "onboard_time": 1751456843,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 232774,
       "num": 232774,
       "word": "崩坏星穹铁道",
@@ -4121,14 +4153,6 @@
       "onboard_time": 1751337620,
       "rank": 26,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 229693,
-      "num": 193147,
-      "word": "王嘉尔反驳印度主持人",
-      "onboard_time": 1751460443,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 229313,
@@ -4233,6 +4257,14 @@
       "onboard_time": 1751333901,
       "rank": 24,
       "category": "汽车,财经"
+    },
+    {
+      "raw_hot": 225433,
+      "num": 216382,
+      "word": "林志玲一个生煎包吃十几口",
+      "onboard_time": 1751460923,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 225075,
@@ -4528,6 +4560,14 @@
       "word": "黄绮珊回应蔡徐坤",
       "onboard_time": 1751283142,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 213729,
+      "num": 213729,
+      "word": "周杰伦周星驰合照",
+      "onboard_time": 1751462062,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -5523,6 +5563,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 185594,
+      "num": 216689,
+      "word": "荣耀李健称MagicV5地表最强",
+      "onboard_time": 1751461702,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 185592,
       "num": 185592,
       "word": "多邻国猫头鹰官宣结婚",
@@ -5995,14 +6043,6 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 174225,
-      "num": 174225,
-      "word": "林志玲一个生煎包吃十几口",
-      "onboard_time": 1751460923,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 174211,
       "num": 197969,
       "word": "爱上画画的刘亦菲就像呼吸一样简单",
@@ -6177,6 +6217,14 @@
       "onboard_time": 1751261422,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 172106,
+      "num": 172106,
+      "word": "雷军回应大定被质疑有水分",
+      "onboard_time": 1751462842,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 171962,
@@ -7011,6 +7059,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 154509,
+      "num": 216162,
+      "word": "孙颖莎喊话美国大满贯观众",
+      "onboard_time": 1751461942,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154408,
       "num": 154408,
       "word": "云合",
@@ -7451,6 +7507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147211,
+      "num": 147211,
+      "word": "荣耀magic V5价格",
+      "onboard_time": 1751462482,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 147099,
       "num": 257091,
       "word": "马柏全手势舞",
@@ -7809,6 +7873,14 @@
       "onboard_time": 1751255122,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 141377,
+      "num": 216115,
+      "word": "马龙登上新闻联播",
+      "onboard_time": 1751462482,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 141302,
@@ -8563,6 +8635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131564,
+      "num": 191786,
+      "word": "苏州一点面子不留给南京",
+      "onboard_time": 1751461343,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131473,
       "num": 131473,
       "word": "BLG晋级MSI淘汰赛",
@@ -9315,6 +9395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121484,
+      "num": 121484,
+      "word": "TTG对战DRG",
+      "onboard_time": 1751463383,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121477,
       "num": 121477,
       "word": "陈飞宇和哥哥机场聊天",
@@ -9707,6 +9795,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 116878,
+      "num": 116878,
+      "word": "都说了别惹离职冷静期的人",
+      "onboard_time": 1751463383,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116747,
       "num": 116747,
       "word": "以法之名14集好解气",
@@ -9972,7 +10068,7 @@
     },
     {
       "raw_hot": 112753,
-      "num": 112753,
+      "num": 284058,
       "word": "云南大理出现罕见鱼阵",
       "onboard_time": 1751456962,
       "rank": 47,
@@ -10105,6 +10201,14 @@
       "onboard_time": 1751186241,
       "rank": 47,
       "category": "休闲,动漫"
+    },
+    {
+      "raw_hot": 111420,
+      "num": 111420,
+      "word": "刘轩丞问暑期什么安排",
+      "onboard_time": 1751463443,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 111286,
@@ -10372,7 +10476,7 @@
     },
     {
       "raw_hot": 107884,
-      "num": 107884,
+      "num": 216298,
       "word": "应采儿陈小春两个暴脾气生了个甜豆",
       "onboard_time": 1751454922,
       "rank": 34,
@@ -11307,14 +11411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 88383,
-      "num": 191786,
-      "word": "苏州一点面子不留给南京",
-      "onboard_time": 1751461343,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 88210,
       "num": 88210,
       "word": "抑郁症躯体化的真实记录",
@@ -11883,6 +11979,14 @@
       "category": "民生新闻,休闲"
     },
     {
+      "raw_hot": 70970,
+      "num": 216084,
+      "word": "荣耀MagicV5满血真旗舰",
+      "onboard_time": 1751461702,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 70886,
       "num": 70886,
       "word": "小米YU7续航实测结果",
@@ -12265,14 +12369,6 @@
       "onboard_time": 1751358262,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 57842,
-      "num": 114271,
-      "word": "荣耀李健称MagicV5地表最强",
-      "onboard_time": 1751461702,
-      "rank": 44,
-      "category": "数码"
     },
     {
       "raw_hot": 57763,
@@ -13147,20 +13243,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 33097,
-      "num": 114414,
-      "word": "荣耀MagicV5满血真旗舰",
-      "onboard_time": 1751461702,
-      "rank": 43,
-      "category": "数码"
-    },
-    {
       "raw_hot": 33066,
       "num": 47430,
       "word": "找回丢了26天的手机",
       "onboard_time": 1751140394,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32886,
+      "num": 216895,
+      "word": "9家共享充电宝两家无3C",
+      "onboard_time": 1751463082,
+      "rank": 15,
+      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 32877,
@@ -13385,6 +13481,14 @@
       "onboard_time": 1751412258,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 28133,
+      "num": 216663,
+      "word": "妻子深情追随丈夫相继成为大体老师",
+      "onboard_time": 1751462482,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28018,
@@ -14091,6 +14195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 13967,
+      "num": 147262,
+      "word": "做出高科技机甲需要几步",
+      "onboard_time": 1751462544,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 13851,
       "num": 16563,
       "word": "张小斐血泪镜头",
@@ -14248,6 +14360,14 @@
       "word": "他率500多名战士阻击7倍于己的日伪军",
       "onboard_time": 1751401874,
       "rank": 20,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 9354,
+      "num": 399326,
+      "word": "对贵州启动国家三级救灾应急响应",
+      "onboard_time": 1751448922,
+      "rank": 2,
       "category": "国内时政"
     },
     {

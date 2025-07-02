@@ -1,0 +1,410 @@
+{
+  "runTime": 1751463507882,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1089695,
+        "num": 1174351,
+        "word": "王楚然求助治寻麻疹的方法",
+        "onboard_time": 1751459063,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 596870,
+        "num": 596870,
+        "word": "吃荔枝不看的人有福了",
+        "onboard_time": 1751456542,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 9354,
+        "num": 399326,
+        "word": "对贵州启动国家三级救灾应急响应",
+        "onboard_time": 1751448922,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 714369,
+        "num": 385763,
+        "word": "杨幂 妈幂",
+        "onboard_time": 1751462302,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340476,
+        "num": 340476,
+        "word": "高考671分乡村女孩回应",
+        "onboard_time": 1751456843,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326094,
+        "num": 326094,
+        "word": "wakuku",
+        "onboard_time": 1751456661,
+        "rank": 5,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 623934,
+        "num": 313883,
+        "word": "长月烬明",
+        "onboard_time": 1751452461,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 596040,
+        "num": 306574,
+        "word": "王嘉尔反驳印度主持人",
+        "onboard_time": 1751460443,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285358,
+        "num": 285358,
+        "word": "9平米的房住出了90平方的感觉",
+        "onboard_time": 1751462062,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103474,
+        "num": 284058,
+        "word": "云南大理出现罕见鱼阵",
+        "onboard_time": 1751456962,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 690366,
+        "num": 270768,
+        "word": "董卿生病但帅",
+        "onboard_time": 1751460142,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 533763,
+        "num": 251761,
+        "word": "家有儿女小雨变暴雨了",
+        "onboard_time": 1751442801,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 452200,
+        "num": 239931,
+        "word": "娱乐圈 更新换代",
+        "onboard_time": 1751456242,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301591,
+        "num": 223014,
+        "word": "陈泽希被曝多次出轨",
+        "onboard_time": 1751455462,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216907,
+        "num": 216907,
+        "word": "12306称走换乘到出发层就餐不可行",
+        "onboard_time": 1751454442,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32886,
+        "num": 216895,
+        "word": "9家共享充电宝两家无3C",
+        "onboard_time": 1751463082,
+        "rank": 15,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 128732,
+        "num": 216842,
+        "word": "荣耀李健折学家",
+        "onboard_time": 1751459782,
+        "rank": 16,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 260124,
+        "num": 216766,
+        "word": "优酷爆剧三大赛道全面开花",
+        "onboard_time": 1751462544,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185594,
+        "num": 216689,
+        "word": "荣耀李健称MagicV5地表最强",
+        "onboard_time": 1751461702,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 28133,
+        "num": 216663,
+        "word": "妻子深情追随丈夫相继成为大体老师",
+        "onboard_time": 1751462482,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19443,
+        "num": 216579,
+        "word": "第三届北京网络视听艺术大会",
+        "onboard_time": 1751421979,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 152588,
+        "num": 216548,
+        "word": "杨紫何惟芳酸涩感演技",
+        "onboard_time": 1751459243,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 489116,
+        "num": 216457,
+        "word": "南航吉林分公司疑突发伤人事件",
+        "onboard_time": 1751453183,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233364,
+        "num": 216422,
+        "word": "王楚然 纤体瓶喝了一个月也没瘦",
+        "onboard_time": 1751454082,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225433,
+        "num": 216382,
+        "word": "林志玲一个生煎包吃十几口",
+        "onboard_time": 1751460923,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49315,
+        "num": 216298,
+        "word": "应采儿陈小春两个暴脾气生了个甜豆",
+        "onboard_time": 1751454922,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223710,
+        "num": 216226,
+        "word": "惠利曝新恋情后韩素希口碑反转",
+        "onboard_time": 1751456782,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154509,
+        "num": 216162,
+        "word": "孙颖莎喊话美国大满贯观众",
+        "onboard_time": 1751461942,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141377,
+        "num": 216115,
+        "word": "马龙登上新闻联播",
+        "onboard_time": 1751462482,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70970,
+        "num": 216084,
+        "word": "荣耀MagicV5满血真旗舰",
+        "onboard_time": 1751461702,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 216045,
+        "num": 216045,
+        "word": "南航",
+        "onboard_time": 1751448623,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213729,
+        "num": 213729,
+        "word": "周杰伦周星驰合照",
+        "onboard_time": 1751462062,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112933,
+        "num": 203017,
+        "word": "羽衣甘蓝没想到自己因奶茶火了",
+        "onboard_time": 1751439861,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192605,
+        "num": 192605,
+        "word": "韩安冉禁止路人拍优米",
+        "onboard_time": 1751456421,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 188585,
+        "num": 188585,
+        "word": "吴谨言美得不知天地为何物",
+        "onboard_time": 1751460563,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 69992,
+        "num": 177987,
+        "word": "中国机甲真的来了",
+        "onboard_time": 1751458043,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172106,
+        "num": 172106,
+        "word": "雷军回应大定被质疑有水分",
+        "onboard_time": 1751462842,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 159006,
+        "num": 159006,
+        "word": "胡一天自曝很便宜求戏拍",
+        "onboard_time": 1751451442,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131564,
+        "num": 149286,
+        "word": "苏州一点面子不留给南京",
+        "onboard_time": 1751461343,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13967,
+        "num": 147262,
+        "word": "做出高科技机甲需要几步",
+        "onboard_time": 1751462544,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147211,
+        "num": 147211,
+        "word": "荣耀magic V5价格",
+        "onboard_time": 1751462482,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 140657,
+        "num": 140657,
+        "word": "赵今麦碎冰蓝玫瑰",
+        "onboard_time": 1751460083,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135151,
+        "num": 135151,
+        "word": "为什么体检无异常发现却是晚期",
+        "onboard_time": 1751455222,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 124036,
+        "num": 124036,
+        "word": "锦绣芳华宣发",
+        "onboard_time": 1751458222,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122376,
+        "num": 122376,
+        "word": "以法之名",
+        "onboard_time": 1751453422,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121484,
+        "num": 121484,
+        "word": "TTG对战DRG",
+        "onboard_time": 1751463383,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116878,
+        "num": 116878,
+        "word": "都说了别惹离职冷静期的人",
+        "onboard_time": 1751463383,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112143,
+        "num": 112143,
+        "word": "冻香蕉",
+        "onboard_time": 1751455582,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 111656,
+        "num": 111656,
+        "word": "63岁外婆旧衣爆改孙女穿搭",
+        "onboard_time": 1751460681,
+        "rank": 48,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 111420,
+        "num": 111420,
+        "word": "刘轩丞问暑期什么安排",
+        "onboard_time": 1751463443,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#青年的理想信念关乎国家未来#"
+    }
+  }
+}
