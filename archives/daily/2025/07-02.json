@@ -1,10 +1,10 @@
 {
   "startTime": 1751387623546,
-  "endTime": 1751427517272,
+  "endTime": 1751428481670,
   "band_list": [
     {
-      "raw_hot": 1016380,
-      "num": 1162620,
+      "raw_hot": 1069823,
+      "num": 1171171,
       "word": "幼师又多了一个就业方向",
       "onboard_time": 1751421739,
       "rank": 20,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 981774,
-      "num": 360343,
+      "num": 452521,
       "word": "陈赫回应鹿晗暴瘦",
       "onboard_time": 1751380342,
       "rank": 10,
@@ -33,6 +33,14 @@
       "onboard_time": 1751381965,
       "rank": 0,
       "category": "演出"
+    },
+    {
+      "raw_hot": 715019,
+      "num": 452774,
+      "word": "男子造黄谣致女子抑郁被判赔20万",
+      "onboard_time": 1751424561,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 713210,
@@ -57,6 +65,14 @@
       "onboard_time": 1751416580,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 659448,
+      "num": 659448,
+      "word": "网红验资PK",
+      "onboard_time": 1751426121,
+      "rank": 12,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 639006,
@@ -91,14 +107,6 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 525503,
-      "num": 367685,
-      "word": "男子造黄谣致女子抑郁被判赔20万",
-      "onboard_time": 1751424561,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 522513,
       "num": 522513,
       "word": "上海交大学生疑被校外人士殴打",
@@ -123,6 +131,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 485682,
+      "num": 485682,
+      "word": "蒋欣演华妃时已经拍了十多年戏了",
+      "onboard_time": 1751422219,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 459193,
       "num": 459193,
       "word": "抹黑胖东来的网红被通报",
@@ -137,14 +153,6 @@
       "onboard_time": 1751420780,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 435038,
-      "num": 435038,
-      "word": "蒋欣演华妃时已经拍了十多年戏了",
-      "onboard_time": 1751422219,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 431890,
@@ -203,12 +211,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 339298,
-      "num": 339298,
-      "word": "网红验资PK",
-      "onboard_time": 1751426121,
-      "rank": 12,
-      "category": "民生新闻,网红"
+      "raw_hot": 343390,
+      "num": 343390,
+      "word": "上海交大",
+      "onboard_time": 1751427141,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 335561,
@@ -235,12 +243,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 319628,
+      "num": 319628,
+      "word": "王灿吃面用Labubu挡汤汁",
+      "onboard_time": 1751427802,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 311691,
       "num": 311691,
       "word": "手伤让查前列腺当事人家属发声",
       "onboard_time": 1751425340,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 311229,
+      "num": 311229,
+      "word": "明日方舟",
+      "onboard_time": 1751426541,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 296976,
@@ -267,14 +291,6 @@
       "category": "音乐,艺人"
     },
     {
-      "raw_hot": 264995,
-      "num": 264995,
-      "word": "明日方舟",
-      "onboard_time": 1751426541,
-      "rank": 22,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 257834,
       "num": 257834,
       "word": "微信可以不接收共同好友点赞提醒了",
@@ -288,6 +304,14 @@
       "word": "王青上线了",
       "onboard_time": 1751379803,
       "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 237652,
+      "num": 237652,
+      "word": "关晓彤黑色抹胸连体裤",
+      "onboard_time": 1751427261,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -419,14 +443,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 175401,
-      "num": 175401,
-      "word": "关晓彤黑色抹胸连体裤",
-      "onboard_time": 1751427261,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 174337,
       "num": 271176,
       "word": "高启强来了东平都只能卖鱼",
@@ -508,7 +524,7 @@
     },
     {
       "raw_hot": 150316,
-      "num": 215868,
+      "num": 217879,
       "word": "环球时报专访陈立农",
       "onboard_time": 1751424860,
       "rank": 29,
@@ -571,19 +587,19 @@
       "category": "演出"
     },
     {
-      "raw_hot": 142173,
-      "num": 142173,
-      "word": "上海交大",
-      "onboard_time": 1751427141,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 138923,
       "num": 138923,
       "word": "30岁女子半年多次服紧急避孕药致脑梗",
       "onboard_time": 1751371042,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138823,
+      "num": 138823,
+      "word": "日晕",
+      "onboard_time": 1751426001,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -643,14 +659,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 122597,
-      "num": 122597,
-      "word": "日晕",
-      "onboard_time": 1751426001,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 121913,
       "num": 121913,
       "word": "MSI",
@@ -691,12 +699,44 @@
       "category": "演出"
     },
     {
+      "raw_hot": 117196,
+      "num": 133773,
+      "word": "花少7好接地气",
+      "onboard_time": 1751428401,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 116991,
+      "num": 116991,
+      "word": "猫眼就误放周杰伦演唱会回流票致歉",
+      "onboard_time": 1751426001,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 116767,
       "num": 116767,
       "word": "田曦薇迪士尼太好玩了",
       "onboard_time": 1751379084,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115937,
+      "num": 327148,
+      "word": "当代年轻人的办公折学",
+      "onboard_time": 1751427322,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 114048,
+      "num": 133744,
+      "word": "明日方舟镜中集",
+      "onboard_time": 1751428462,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 113796,
@@ -707,12 +747,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 112822,
-      "num": 244311,
-      "word": "当代年轻人的办公折学",
-      "onboard_time": 1751427322,
-      "rank": 23,
-      "category": "数码"
+      "raw_hot": 113356,
+      "num": 113356,
+      "word": "蒋欣8部待播剧",
+      "onboard_time": 1751428401,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 113343,
+      "num": 113343,
+      "word": "一年没被主人摸头的小猫",
+      "onboard_time": 1751424922,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 112808,
@@ -755,12 +803,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 108596,
-      "num": 116672,
-      "word": "猫眼就误放周杰伦演唱会回流票致歉",
-      "onboard_time": 1751426001,
-      "rank": 47,
-      "category": "演出"
+      "raw_hot": 109803,
+      "num": 452872,
+      "word": "民航局称将做好被弃充电宝回收记录",
+      "onboard_time": 1751427141,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107146,
+      "num": 256769,
+      "word": "原来细菌性腹泻是个狠角色",
+      "onboard_time": 1751427622,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 104622,
@@ -788,7 +844,7 @@
     },
     {
       "raw_hot": 101195,
-      "num": 288604,
+      "num": 324221,
       "word": "苹果换vivo折叠屏最高补贴1800元",
       "onboard_time": 1751425641,
       "rank": 18,
@@ -801,6 +857,14 @@
       "onboard_time": 1751366001,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 98709,
+      "num": 350193,
+      "word": "美国大而美法案通过后会怎样",
+      "onboard_time": 1751424621,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 94847,
@@ -828,7 +892,7 @@
     },
     {
       "raw_hot": 87616,
-      "num": 87616,
+      "num": 118224,
       "word": "利拉德被裁后遭疯抢",
       "onboard_time": 1751419940,
       "rank": 47,
@@ -905,14 +969,6 @@
       "onboard_time": 1751421681,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 78986,
-      "num": 231235,
-      "word": "美国大而美法案通过后会怎样",
-      "onboard_time": 1751424621,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 76434,
@@ -1161,14 +1217,6 @@
       "onboard_time": 1751394855,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 20375,
-      "num": 296104,
-      "word": "民航局称将做好被弃充电宝回收记录",
-      "onboard_time": 1751427141,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19757,
