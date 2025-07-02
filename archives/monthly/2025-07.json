@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751488085930,
+  "endTime": 1751488939164,
   "band_list": [
     {
       "raw_hot": 2472851,
@@ -7715,6 +7715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 13452,
+      "num": 14056,
+      "word": "巴黎圣母院尖塔9月将重新开放",
+      "onboard_time": 1751485154,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 13299,
       "num": 17056,
       "word": "3个动作瘦小腿",
@@ -7745,14 +7753,6 @@
       "onboard_time": 1751477536,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12765,
-      "num": 14056,
-      "word": "巴黎圣母院尖塔9月将重新开放",
-      "onboard_time": 1751485154,
-      "rank": 47,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 11622,

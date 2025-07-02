@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/03 04:28:05
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/03 04:42:19
 </p>
 </blockquote>
 <p>
@@ -5799,6 +5799,12 @@ AI修复平型关战斗珍贵历史照片（热度：31161）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E5%9C%A3%E6%AF%8D%E9%99%A2%E5%B0%96%E5%A1%949%E6%9C%88%E5%B0%86%E9%87%8D%E6%96%B0%E5%BC%80%E6%94%BE%23" target="weibo">
+巴黎圣母院尖塔9月将重新开放（热度：13452）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%233%E4%B8%AA%E5%8A%A8%E4%BD%9C%E7%98%A6%E5%B0%8F%E8%85%BF%23" target="weibo">
 3个动作瘦小腿（热度：13299）
 </a>
@@ -5819,12 +5825,6 @@ AI修复平型关战斗珍贵历史照片（热度：31161）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%A4%E4%BA%BA%E7%9A%84%E9%9D%92%E9%93%9C%E5%85%B5%E5%99%A8%E4%B8%8A%E5%88%BB%E7%9D%80%E4%B8%80%E5%8F%AA%E8%9A%95%E5%AE%9D%E5%AE%9D%23" target="weibo">
 古人的青铜兵器上刻着一只蚕宝宝（热度：12874）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E5%9C%A3%E6%AF%8D%E9%99%A2%E5%B0%96%E5%A1%949%E6%9C%88%E5%B0%86%E9%87%8D%E6%96%B0%E5%BC%80%E6%94%BE%23" target="weibo">
-巴黎圣母院尖塔9月将重新开放（热度：12765）
 </a>
 </li>
 

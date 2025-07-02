@@ -1,6 +1,6 @@
 {
   "startTime": 1751473999400,
-  "endTime": 1751488085930,
+  "endTime": 1751488939164,
   "band_list": [
     {
       "raw_hot": 969248,
@@ -523,6 +523,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 13452,
+      "num": 14056,
+      "word": "巴黎圣母院尖塔9月将重新开放",
+      "onboard_time": 1751485154,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 12945,
       "num": 18670,
       "word": "坚定正确政治方向深化改革创新",
@@ -537,14 +545,6 @@
       "onboard_time": 1751477536,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12765,
-      "num": 14056,
-      "word": "巴黎圣母院尖塔9月将重新开放",
-      "onboard_time": 1751485154,
-      "rank": 47,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 8078,
