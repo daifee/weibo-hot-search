@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751428481670,
+  "endTime": 1751430975081,
   "band_list": [
     {
       "raw_hot": 2472851,
@@ -49,6 +49,14 @@
       "onboard_time": 1751380342,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1459566,
+      "num": 343390,
+      "word": "上海交大",
+      "onboard_time": 1751427141,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1429448,
@@ -315,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 727697,
+      "num": 659448,
+      "word": "网红验资PK",
+      "onboard_time": 1751426121,
+      "rank": 12,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 727425,
       "num": 727425,
       "word": "上海交大学生疑被校外人士殴打",
@@ -403,6 +419,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 678573,
+      "num": 678573,
+      "word": "蒋欣8部待播剧",
+      "onboard_time": 1751428401,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 668536,
       "num": 495072,
       "word": "四姑娘山滑坠16岁男子确认遇难",
@@ -417,14 +441,6 @@
       "onboard_time": 1751416580,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 659448,
-      "num": 659448,
-      "word": "网红验资PK",
-      "onboard_time": 1751426121,
-      "rank": 12,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 656176,
@@ -539,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 595993,
+      "num": 595993,
+      "word": "早睡早起的人更易早晨焦虑",
+      "onboard_time": 1751421681,
+      "rank": 41,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 588163,
       "num": 588163,
       "word": "台北前副市长妻子跳楼身亡",
@@ -553,14 +577,6 @@
       "onboard_time": 1751345963,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 582778,
-      "num": 582778,
-      "word": "早睡早起的人更易早晨焦虑",
-      "onboard_time": 1751421681,
-      "rank": 41,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 572968,
@@ -777,6 +793,14 @@
       "onboard_time": 1751371101,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 436850,
+      "num": 319628,
+      "word": "王灿吃面用Labubu挡汤汁",
+      "onboard_time": 1751427802,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 432181,
@@ -1011,14 +1035,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 343390,
-      "num": 343390,
-      "word": "上海交大",
-      "onboard_time": 1751427141,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 333760,
       "num": 351476,
       "word": "秦岚辛芷蕾你俩过吧",
@@ -1067,14 +1083,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 319628,
-      "num": 319628,
-      "word": "王灿吃面用Labubu挡汤汁",
-      "onboard_time": 1751427802,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 315848,
       "num": 315848,
       "word": "上海飞东京航班疑从万米高空急降",
@@ -1089,6 +1097,14 @@
       "onboard_time": 1751333719,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 314193,
+      "num": 314193,
+      "word": "关晓彤娜扎欧阳娜娜奢牌公式照",
+      "onboard_time": 1751429962,
+      "rank": 8,
+      "category": "作品衍生,作品衍生"
     },
     {
       "raw_hot": 311691,
@@ -1507,6 +1523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 223297,
+      "num": 223297,
+      "word": "花少7好接地气",
+      "onboard_time": 1751428401,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222354,
       "num": 222354,
       "word": "5岁女孩坠海父亲托举其近20分钟",
@@ -1547,12 +1571,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 216768,
+      "num": 216768,
+      "word": "古装剧一个个官宣",
+      "onboard_time": 1751430564,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215815,
       "num": 215815,
       "word": "整个英语体系没有比这个更完整的了",
       "onboard_time": 1751424802,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 215673,
+      "num": 215673,
+      "word": "GEN战胜G2",
+      "onboard_time": 1751430144,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 215219,
@@ -1609,6 +1649,14 @@
       "onboard_time": 1751345722,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208095,
+      "num": 208095,
+      "word": "实测瘦肚子巨快的运动",
+      "onboard_time": 1751426060,
+      "rank": 36,
+      "category": "运动健身"
     },
     {
       "raw_hot": 207245,
@@ -1704,6 +1752,14 @@
       "word": "58岁张宇与56岁游鸿明出行被偶遇",
       "onboard_time": 1751423902,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 199205,
+      "num": 199205,
+      "word": "小沈阳发文力挺女儿",
+      "onboard_time": 1751430684,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -1835,6 +1891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189877,
+      "num": 222360,
+      "word": "这个跑男有点难",
+      "onboard_time": 1751430144,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 189626,
       "num": 174724,
       "word": "李天泽近照",
@@ -1852,7 +1916,7 @@
     },
     {
       "raw_hot": 186697,
-      "num": 186697,
+      "num": 242365,
       "word": "摆摊女生称母校以影响招生要求删视频",
       "onboard_time": 1751422941,
       "rank": 40,
@@ -2017,6 +2081,14 @@
       "onboard_time": 1751303178,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 173243,
+      "num": 350193,
+      "word": "美国大而美法案通过后会怎样",
+      "onboard_time": 1751424621,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 172899,
@@ -2203,6 +2275,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 161901,
+      "num": 161901,
+      "word": "人到中年辞职还得看爹妈脸色",
+      "onboard_time": 1751429542,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161842,
       "num": 161842,
       "word": "天问二号59万公里外旅行照片",
@@ -2387,20 +2467,20 @@
       "category": "民生新闻,幽默"
     },
     {
+      "raw_hot": 147748,
+      "num": 147748,
+      "word": "杨幂白衬衫侧拍",
+      "onboard_time": 1751430262,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 147284,
       "num": 147284,
       "word": "孟子义 巧克力你让我很没有面子",
       "onboard_time": 1751351181,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 146985,
-      "num": 146985,
-      "word": "实测瘦肚子巨快的运动",
-      "onboard_time": 1751426060,
-      "rank": 36,
-      "category": "运动健身"
     },
     {
       "raw_hot": 146319,
@@ -2425,6 +2505,14 @@
       "onboard_time": 1751325618,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145731,
+      "num": 145731,
+      "word": "夏以昼槐序",
+      "onboard_time": 1751429843,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 144790,
@@ -2603,6 +2691,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 136622,
+      "num": 136622,
+      "word": "刘令姿人生镜头上新",
+      "onboard_time": 1751430384,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136327,
       "num": 138172,
       "word": "曼城世俱杯出局",
@@ -2763,6 +2859,14 @@
       "category": "民生新闻,美食"
     },
     {
+      "raw_hot": 132001,
+      "num": 160526,
+      "word": "上海交大学生与校外人员起冲突",
+      "onboard_time": 1751430863,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131759,
       "num": 131759,
       "word": "郑钦文0比1西尼亚科娃",
@@ -2825,6 +2929,14 @@
       "onboard_time": 1751334321,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 130530,
+      "num": 288581,
+      "word": "肖战的健康生活选择",
+      "onboard_time": 1751429122,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 129645,
@@ -3107,6 +3219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118624,
+      "num": 118624,
+      "word": "日本一公司不抽烟员工多6天假",
+      "onboard_time": 1751429664,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 118172,
       "num": 130552,
       "word": "王诗玥柳鑫宇正式回归",
@@ -3129,14 +3249,6 @@
       "onboard_time": 1751340200,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 117196,
-      "num": 133773,
-      "word": "花少7好接地气",
-      "onboard_time": 1751428401,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 116991,
@@ -3217,14 +3329,6 @@
       "onboard_time": 1751385801,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 113356,
-      "num": 113356,
-      "word": "蒋欣8部待播剧",
-      "onboard_time": 1751428401,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 113343,
@@ -3467,6 +3571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101619,
+      "num": 101619,
+      "word": "宁艺卓闪光灯怼脸拍视频",
+      "onboard_time": 1751429962,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101195,
       "num": 324221,
       "word": "苹果换vivo折叠屏最高补贴1800元",
@@ -3505,14 +3617,6 @@
       "onboard_time": 1751344642,
       "rank": 30,
       "category": "剧集,作品衍生"
-    },
-    {
-      "raw_hot": 98709,
-      "num": 350193,
-      "word": "美国大而美法案通过后会怎样",
-      "onboard_time": 1751424621,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 97314,
@@ -3995,6 +4099,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 66532,
+      "num": 199649,
+      "word": "民航局答机场被拦截充电宝流向何处",
+      "onboard_time": 1751430684,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66393,
       "num": 194060,
       "word": "汪苏泷视角的罗曼城浪漫时刻",
@@ -4049,6 +4161,14 @@
       "onboard_time": 1751426541,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 61890,
+      "num": 146501,
+      "word": "多特蒙德2比1蒙特雷",
+      "onboard_time": 1751429843,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 60932,
@@ -4395,6 +4515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 34671,
+      "num": 201627,
+      "word": "鼠头鸭脖涉事公司将决议解散",
+      "onboard_time": 1751430744,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34269,
       "num": 456327,
       "word": "警方回应业主在院里发现多块人骨",
@@ -4524,7 +4652,7 @@
     },
     {
       "raw_hot": 25007,
-      "num": 595285,
+      "num": 596993,
       "word": "万千气象看山西",
       "onboard_time": 1751294963,
       "rank": 2,

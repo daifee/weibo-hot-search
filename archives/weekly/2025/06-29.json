@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751428481670,
+  "endTime": 1751430975081,
   "band_list": [
     {
       "raw_hot": 3569605,
@@ -201,6 +201,14 @@
       "onboard_time": 1751275222,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1459566,
+      "num": 343390,
+      "word": "上海交大",
+      "onboard_time": 1751427141,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1435893,
@@ -867,6 +875,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 727697,
+      "num": 659448,
+      "word": "网红验资PK",
+      "onboard_time": 1751426121,
+      "rank": 12,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 727425,
       "num": 727425,
       "word": "上海交大学生疑被校外人士殴打",
@@ -1027,6 +1043,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 678573,
+      "num": 678573,
+      "word": "蒋欣8部待播剧",
+      "onboard_time": 1751428401,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 668536,
       "num": 495072,
       "word": "四姑娘山滑坠16岁男子确认遇难",
@@ -1057,14 +1081,6 @@
       "onboard_time": 1751174782,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 659448,
-      "num": 659448,
-      "word": "网红验资PK",
-      "onboard_time": 1751426121,
-      "rank": 12,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 656820,
@@ -1267,6 +1283,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 595993,
+      "num": 595993,
+      "word": "早睡早起的人更易早晨焦虑",
+      "onboard_time": 1751421681,
+      "rank": 41,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 594543,
       "num": 594543,
       "word": "爷爷女友带走2岁孙子抛弃只为泄愤",
@@ -1297,14 +1321,6 @@
       "onboard_time": 1751345963,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 582778,
-      "num": 582778,
-      "word": "早睡早起的人更易早晨焦虑",
-      "onboard_time": 1751421681,
-      "rank": 41,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 574747,
@@ -1833,6 +1849,14 @@
       "onboard_time": 1751371101,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 436850,
+      "num": 319628,
+      "word": "王灿吃面用Labubu挡汤汁",
+      "onboard_time": 1751427802,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 435965,
@@ -2387,14 +2411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 343390,
-      "num": 343390,
-      "word": "上海交大",
-      "onboard_time": 1751427141,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 343270,
       "num": 343270,
       "word": "王勉说这季五哈人最多也最少",
@@ -2579,14 +2595,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 319628,
-      "num": 319628,
-      "word": "王灿吃面用Labubu挡汤汁",
-      "onboard_time": 1751427802,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 318356,
       "num": 318356,
       "word": "伊朗2022年几乎成功刺杀蓬佩奥",
@@ -2649,6 +2657,14 @@
       "onboard_time": 1751161341,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 314193,
+      "num": 314193,
+      "word": "关晓彤娜扎欧阳娜娜奢牌公式照",
+      "onboard_time": 1751429962,
+      "rank": 8,
+      "category": "作品衍生,作品衍生"
     },
     {
       "raw_hot": 314109,
@@ -3691,6 +3707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 223297,
+      "num": 223297,
+      "word": "花少7好接地气",
+      "onboard_time": 1751428401,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222354,
       "num": 222354,
       "word": "5岁女孩坠海父亲托举其近20分钟",
@@ -3795,6 +3819,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 216768,
+      "num": 216768,
+      "word": "古装剧一个个官宣",
+      "onboard_time": 1751430564,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216654,
       "num": 216654,
       "word": "张杰喜欢演员谢娜",
@@ -3841,6 +3873,14 @@
       "onboard_time": 1751424802,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 215673,
+      "num": 215673,
+      "word": "GEN战胜G2",
+      "onboard_time": 1751430144,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 215219,
@@ -3985,6 +4025,14 @@
       "onboard_time": 1751195181,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208095,
+      "num": 208095,
+      "word": "实测瘦肚子巨快的运动",
+      "onboard_time": 1751426060,
+      "rank": 36,
+      "category": "运动健身"
     },
     {
       "raw_hot": 207522,
@@ -4216,6 +4264,14 @@
       "word": "58岁张宇与56岁游鸿明出行被偶遇",
       "onboard_time": 1751423902,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 199205,
+      "num": 199205,
+      "word": "小沈阳发文力挺女儿",
+      "onboard_time": 1751430684,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -4595,6 +4651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189877,
+      "num": 222360,
+      "word": "这个跑男有点难",
+      "onboard_time": 1751430144,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 189860,
       "num": 395600,
       "word": "美消防员扑山火时遭袭",
@@ -4692,7 +4756,7 @@
     },
     {
       "raw_hot": 186697,
-      "num": 186697,
+      "num": 242365,
       "word": "摆摊女生称母校以影响招生要求删视频",
       "onboard_time": 1751422941,
       "rank": 40,
@@ -5187,6 +5251,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 173243,
+      "num": 350193,
+      "word": "美国大而美法案通过后会怎样",
+      "onboard_time": 1751424621,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 172899,
       "num": 172899,
       "word": "沈星回猎夜",
@@ -5665,6 +5737,14 @@
       "onboard_time": 1751336240,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 161901,
+      "num": 161901,
+      "word": "人到中年辞职还得看爹妈脸色",
+      "onboard_time": 1751429542,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 161842,
@@ -6347,6 +6427,14 @@
       "category": "民生新闻,幽默"
     },
     {
+      "raw_hot": 147748,
+      "num": 147748,
+      "word": "杨幂白衬衫侧拍",
+      "onboard_time": 1751430262,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 147593,
       "num": 228694,
       "word": "中餐厅9古装群像",
@@ -6393,14 +6481,6 @@
       "onboard_time": 1751291123,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 146985,
-      "num": 146985,
-      "word": "实测瘦肚子巨快的运动",
-      "onboard_time": 1751426060,
-      "rank": 36,
-      "category": "运动健身"
     },
     {
       "raw_hot": 146748,
@@ -6457,6 +6537,14 @@
       "onboard_time": 1751325618,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145731,
+      "num": 145731,
+      "word": "夏以昼槐序",
+      "onboard_time": 1751429843,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 145582,
@@ -6939,6 +7027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136622,
+      "num": 136622,
+      "word": "刘令姿人生镜头上新",
+      "onboard_time": 1751430384,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136327,
       "num": 138172,
       "word": "曼城世俱杯出局",
@@ -7283,6 +7379,14 @@
       "category": "民生新闻,美食"
     },
     {
+      "raw_hot": 132001,
+      "num": 160526,
+      "word": "上海交大学生与校外人员起冲突",
+      "onboard_time": 1751430863,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131887,
       "num": 131887,
       "word": "全芒果都簪上了锦绣芳华",
@@ -7409,6 +7513,14 @@
       "onboard_time": 1751334321,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 130530,
+      "num": 288581,
+      "word": "肖战的健康生活选择",
+      "onboard_time": 1751429122,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 130501,
@@ -8155,6 +8267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118624,
+      "num": 118624,
+      "word": "日本一公司不抽烟员工多6天假",
+      "onboard_time": 1751429664,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 118619,
       "num": 118619,
       "word": "Vansdaddy开口严浩翔变如脸",
@@ -8225,14 +8345,6 @@
       "onboard_time": 1751340200,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 117196,
-      "num": 133773,
-      "word": "花少7好接地气",
-      "onboard_time": 1751428401,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 116991,
@@ -8441,14 +8553,6 @@
       "onboard_time": 1751276602,
       "rank": 48,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 113356,
-      "num": 113356,
-      "word": "蒋欣8部待播剧",
-      "onboard_time": 1751428401,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 113343,
@@ -9083,6 +9187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101619,
+      "num": 101619,
+      "word": "宁艺卓闪光灯怼脸拍视频",
+      "onboard_time": 1751429962,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101195,
       "num": 324221,
       "word": "苹果换vivo折叠屏最高补贴1800元",
@@ -9193,14 +9305,6 @@
       "onboard_time": 1751119885,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 98709,
-      "num": 350193,
-      "word": "美国大而美法案通过后会怎样",
-      "onboard_time": 1751424621,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 98479,
@@ -10091,6 +10195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66532,
+      "num": 199649,
+      "word": "民航局答机场被拦截充电宝流向何处",
+      "onboard_time": 1751430684,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66393,
       "num": 194060,
       "word": "汪苏泷视角的罗曼城浪漫时刻",
@@ -10193,6 +10305,14 @@
       "onboard_time": 1751254882,
       "rank": 29,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 61890,
+      "num": 146501,
+      "word": "多特蒙德2比1蒙特雷",
+      "onboard_time": 1751429843,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 60932,
@@ -10921,6 +11041,14 @@
       "onboard_time": 1751187443,
       "rank": 43,
       "category": "游戏,民生新闻"
+    },
+    {
+      "raw_hot": 34671,
+      "num": 201627,
+      "word": "鼠头鸭脖涉事公司将决议解散",
+      "onboard_time": 1751430744,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34665,
