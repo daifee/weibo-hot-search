@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751496229732,
+  "endTime": 1751498807522,
   "band_list": [
     {
       "raw_hot": 2472851,
@@ -947,6 +947,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 530460,
+      "num": 530460,
+      "word": "被麦琳抄袭博主拒绝赔偿只求平静生活",
+      "onboard_time": 1751469023,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 528239,
       "num": 528239,
       "word": "央视揭秘无菌蛋真相",
@@ -1025,14 +1033,6 @@
       "onboard_time": 1751350822,
       "rank": 20,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 505421,
-      "num": 505421,
-      "word": "被麦琳抄袭博主拒绝赔偿只求平静生活",
-      "onboard_time": 1751469023,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 502597,
@@ -1763,12 +1763,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 295432,
+      "num": 295432,
+      "word": "精心设计的婚礼布景竟变成短剧素材",
+      "onboard_time": 1751469923,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 294612,
       "num": 350808,
       "word": "书卷一梦微博追剧团",
       "onboard_time": 1751352742,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 290687,
+      "num": 290687,
+      "word": "艾顿加盟湖人",
+      "onboard_time": 1751498298,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 290194,
@@ -1912,6 +1928,14 @@
       "word": "刘雨柔二婚",
       "onboard_time": 1751375422,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 260296,
+      "num": 176621,
+      "word": "尤浩然回应小雨变暴雨了",
+      "onboard_time": 1751492416,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -3275,6 +3299,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 166872,
+      "num": 166872,
+      "word": "男子称5岁时亲眼看人贩子把他卖掉",
+      "onboard_time": 1751473639,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166141,
       "num": 166141,
       "word": "甘薇送孩子去美国看贾跃亭",
@@ -3289,14 +3321,6 @@
       "onboard_time": 1751372061,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 165059,
-      "num": 165059,
-      "word": "男子称5岁时亲眼看人贩子把他卖掉",
-      "onboard_time": 1751473639,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 164843,
@@ -3353,14 +3377,6 @@
       "onboard_time": 1751367143,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 163176,
-      "num": 163176,
-      "word": "精心设计的婚礼布景竟变成短剧素材",
-      "onboard_time": 1751469923,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 162722,
@@ -3801,6 +3817,14 @@
       "onboard_time": 1751441422,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 145037,
+      "num": 145037,
+      "word": "男童打水仗后发烧感染食脑虫",
+      "onboard_time": 1751472501,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144790,
@@ -4369,6 +4393,14 @@
       "onboard_time": 1751375422,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131122,
+      "num": 131122,
+      "word": "从业者回应掏粪工5天工资8100元",
+      "onboard_time": 1751471781,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131092,
@@ -5491,14 +5523,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 106523,
-      "num": 106523,
-      "word": "男童打水仗后发烧感染食脑虫",
-      "onboard_time": 1751472501,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 106143,
       "num": 106143,
       "word": "史元庭7天拍完短剧继续兼职陪爬",
@@ -5729,6 +5753,22 @@
       "onboard_time": 1751344642,
       "rank": 30,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 98383,
+      "num": 93058,
+      "word": "杭州热到全国第一了",
+      "onboard_time": 1751498479,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98155,
+      "num": 64524,
+      "word": "姥把你放心上你把姥挂网上",
+      "onboard_time": 1751498479,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 98006,
@@ -5995,14 +6035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 88341,
-      "num": 88341,
-      "word": "从业者回应掏粪工5天工资8100元",
-      "onboard_time": 1751471781,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 88226,
       "num": 88226,
       "word": "7月份十二星座注意事项",
@@ -6227,6 +6259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 78918,
+      "num": 78918,
+      "word": "刘畅一米七一米八地走向何惟芳",
+      "onboard_time": 1751489954,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 77899,
       "num": 114087,
       "word": "一诺边程相约打游戏",
@@ -6345,14 +6385,6 @@
       "onboard_time": 1751413100,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 72606,
-      "num": 72606,
-      "word": "刘畅一米七一米八地走向何惟芳",
-      "onboard_time": 1751489954,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 72040,
@@ -6531,14 +6563,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 64812,
-      "num": 64812,
-      "word": "尤浩然回应小雨变暴雨了",
-      "onboard_time": 1751492416,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 64755,
       "num": 227177,
       "word": "荣耀最强AI智能体每天省出1小时",
@@ -6667,6 +6691,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 57548,
+      "num": 189884,
+      "word": "明园集团李松坚陷入被儿子曝光风波",
+      "onboard_time": 1751481434,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56825,
       "num": 142591,
       "word": "王欣瑜回应温网晋级",
@@ -6771,6 +6803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 52363,
+      "num": 52363,
+      "word": "千万不要有职场斯德哥尔摩综合症",
+      "onboard_time": 1751498659,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 52321,
       "num": 53852,
       "word": "哪吒",
@@ -6793,6 +6833,14 @@
       "onboard_time": 1751445081,
       "rank": 39,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 49643,
+      "num": 48842,
+      "word": "iOS26新增实用功能",
+      "onboard_time": 1751498298,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 49542,
@@ -6827,6 +6875,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 48358,
+      "num": 48358,
+      "word": "这小猫有种上辈子没忘干净的感觉",
+      "onboard_time": 1751498117,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 48347,
       "num": 135286,
       "word": "阿条姐发博告别六月",
@@ -6841,6 +6897,14 @@
       "onboard_time": 1751451442,
       "rank": 39,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 47904,
+      "num": 47904,
+      "word": "王大陆服役假期和女友约会",
+      "onboard_time": 1751491274,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 47542,
@@ -6899,6 +6963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44720,
+      "num": 45128,
+      "word": "韩庚卢靖姗参加好友婚礼",
+      "onboard_time": 1751482096,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 44504,
       "num": 231249,
       "word": "被石晶美学惊艳到了",
@@ -6929,14 +7001,6 @@
       "onboard_time": 1751302639,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 43117,
-      "num": 43117,
-      "word": "王大陆服役假期和女友约会",
-      "onboard_time": 1751491274,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 43018,
@@ -7027,6 +7091,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 39695,
+      "num": 39695,
+      "word": "deepseek崩了",
+      "onboard_time": 1751498539,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 38979,
       "num": 38979,
       "word": "许凯田曦薇新剧已过审",
@@ -7097,6 +7169,14 @@
       "onboard_time": 1751446342,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 36641,
+      "num": 36641,
+      "word": "一直在干有利于脊柱侧弯的事",
+      "onboard_time": 1751498780,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 36491,
@@ -7235,14 +7315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 31537,
-      "num": 31537,
-      "word": "韩庚卢靖姗参加好友婚礼",
-      "onboard_time": 1751482096,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 31161,
       "num": 185461,
       "word": "AI修复平型关战斗珍贵历史照片",
@@ -7256,14 +7328,6 @@
       "word": "插排内暗藏摄像头一个售价2800",
       "onboard_time": 1751470880,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30815,
-      "num": 30815,
-      "word": "明园集团李松坚陷入被儿子曝光风波",
-      "onboard_time": 1751481434,
-      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -7825,6 +7889,14 @@
       "onboard_time": 1751401874,
       "rank": 20,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 9118,
+      "num": 45737,
+      "word": "日本首相强硬表态",
+      "onboard_time": 1751498719,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 8078,
