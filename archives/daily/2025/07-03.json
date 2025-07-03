@@ -1,6 +1,6 @@
 {
   "startTime": 1751473999400,
-  "endTime": 1751538554398,
+  "endTime": 1751539618608,
   "band_list": [
     {
       "raw_hot": 4541277,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1250631,
-      "num": 710686,
+      "num": 775820,
       "word": "内娱也回南天了",
       "onboard_time": 1751535082,
       "rank": 6,
@@ -75,8 +75,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1157875,
-      "num": 1185260,
+      "raw_hot": 1214484,
+      "num": 1214484,
       "word": "风月不相关 停拍",
       "onboard_time": 1751535441,
       "rank": 25,
@@ -88,6 +88,14 @@
       "word": "一棵荔枝树上竟结出30种荔枝",
       "onboard_time": 1751506342,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1053052,
+      "num": 1053052,
+      "word": "成都暴雨",
+      "onboard_time": 1751534783,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -187,14 +195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 811372,
-      "num": 811372,
-      "word": "成都暴雨",
-      "onboard_time": 1751534783,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 720290,
       "num": 427284,
       "word": "关晓彤晒减脂餐",
@@ -225,6 +225,14 @@
       "onboard_time": 1751508380,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 702097,
+      "num": 702097,
+      "word": "俄海军副司令遇袭身亡",
+      "onboard_time": 1751537601,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 690458,
@@ -275,6 +283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 617383,
+      "num": 515684,
+      "word": "前女团成员曝行业内幕",
+      "onboard_time": 1751532681,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 611275,
       "num": 611275,
       "word": "饮品 咖啡因过量",
@@ -323,14 +339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 515684,
-      "num": 515684,
-      "word": "前女团成员曝行业内幕",
-      "onboard_time": 1751532681,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 514569,
       "num": 378581,
       "word": "不工作 内心空虚",
@@ -361,6 +369,14 @@
       "onboard_time": 1751468243,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 460678,
+      "num": 460678,
+      "word": "被骗缅甸模特最后一通电话细节",
+      "onboard_time": 1751535142,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 452064,
@@ -432,14 +448,6 @@
       "word": "官方回应火车突发停车乘客砸窗通风",
       "onboard_time": 1751523682,
       "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 395351,
-      "num": 395351,
-      "word": "被骗缅甸模特最后一通电话细节",
-      "onboard_time": 1751535142,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -539,12 +547,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 331170,
-      "num": 331170,
-      "word": "俄海军副司令遇袭身亡",
-      "onboard_time": 1751537601,
-      "rank": 13,
-      "category": "国际时政"
+      "raw_hot": 326892,
+      "num": 326892,
+      "word": "奔跑吧",
+      "onboard_time": 1751537781,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 325983,
@@ -592,6 +600,14 @@
       "word": "精心设计的婚礼布景竟变成短剧素材",
       "onboard_time": 1751469923,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 305131,
+      "num": 305131,
+      "word": "27岁女子放疗出院3天突遭车祸身亡",
+      "onboard_time": 1751539041,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -731,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 257083,
+      "num": 257083,
+      "word": "男子病逝后家人完成遗愿洒下钞票雨",
+      "onboard_time": 1751538081,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 253794,
       "num": 253794,
       "word": "刘宇宁婉拒了哈",
@@ -769,6 +793,14 @@
       "onboard_time": 1751460443,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 242629,
+      "num": 242629,
+      "word": "伪娘阿红",
+      "onboard_time": 1751536883,
+      "rank": 25,
+      "category": "网红"
     },
     {
       "raw_hot": 241731,
@@ -867,12 +899,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222329,
+      "num": 222329,
+      "word": "女子带儿子打伤出轨老公后双双被拘",
+      "onboard_time": 1751536162,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 220640,
       "num": 220640,
       "word": "重庆12岁男孩掉小区窨井遇难",
       "onboard_time": 1751509040,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219035,
+      "num": 219035,
+      "word": "万妮达 好想录忙忙碌碌",
+      "onboard_time": 1751538802,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 217796,
@@ -899,20 +947,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214662,
+      "num": 214662,
+      "word": "肖战藏海传灯塔逆跌",
+      "onboard_time": 1751538743,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214079,
       "num": 269673,
       "word": "魏哲鸣回应一米七一米八",
       "onboard_time": 1751500943,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 213736,
-      "num": 213736,
-      "word": "女子带儿子打伤出轨老公后双双被拘",
-      "onboard_time": 1751536162,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 210218,
@@ -955,28 +1003,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 205182,
-      "num": 205182,
-      "word": "奔跑吧",
-      "onboard_time": 1751537781,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 205058,
       "num": 205058,
       "word": "雷军直播称急用车推荐买小鹏G7",
       "onboard_time": 1751517142,
       "rank": 38,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 203071,
-      "num": 203071,
-      "word": "伪娘阿红",
-      "onboard_time": 1751536883,
-      "rank": 25,
-      "category": "网红"
     },
     {
       "raw_hot": 202874,
@@ -1067,6 +1099,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 190962,
+      "num": 178223,
+      "word": "盒马赶海",
+      "onboard_time": 1751536701,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 190560,
       "num": 190560,
       "word": "2025彻底过去一半了",
@@ -1105,6 +1145,14 @@
       "onboard_time": 1751517084,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 187274,
+      "num": 187274,
+      "word": "1.5L装的东方树叶",
+      "onboard_time": 1751534662,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 186863,
@@ -1283,14 +1331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 163246,
-      "num": 163246,
-      "word": "1.5L装的东方树叶",
-      "onboard_time": 1751534662,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 162951,
       "num": 162951,
       "word": "日本辟谣7月5日毁灭性大地震",
@@ -1321,14 +1361,6 @@
       "onboard_time": 1751466504,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 157302,
-      "num": 157302,
-      "word": "盒马赶海",
-      "onboard_time": 1751536701,
-      "rank": 32,
-      "category": "互联网"
     },
     {
       "raw_hot": 156045,
@@ -1371,6 +1403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154155,
+      "num": 154155,
+      "word": "利物浦对若塔离世悲痛欲绝",
+      "onboard_time": 1751538261,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153858,
       "num": 230198,
       "word": "杨丞琳剪发为新专辑预热",
@@ -1409,6 +1449,14 @@
       "onboard_time": 1751521042,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 148582,
+      "num": 309750,
+      "word": "一幼儿园违规用添加剂幼儿血铅异常",
+      "onboard_time": 1751536943,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147599,
@@ -1739,6 +1787,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 115667,
+      "num": 115667,
+      "word": "试验二十八号B星01星发射成功",
+      "onboard_time": 1751539582,
+      "rank": 43,
+      "category": "军事"
+    },
+    {
       "raw_hot": 115484,
       "num": 332969,
       "word": "气温预报图热成一片了",
@@ -1753,6 +1809,14 @@
       "onboard_time": 1751523322,
       "rank": 48,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 114711,
+      "num": 114711,
+      "word": "王欣瑜vs森梅兹",
+      "onboard_time": 1751539282,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 114478,
@@ -1793,6 +1857,14 @@
       "onboard_time": 1751527822,
       "rank": 46,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 113309,
+      "num": 113309,
+      "word": "张小斐接住了她的中女时代",
+      "onboard_time": 1751539161,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 113308,
@@ -1907,6 +1979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106704,
+      "num": 106704,
+      "word": "甘肃一幼儿园部分幼儿血铅异常",
+      "onboard_time": 1751538382,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106189,
       "num": 194935,
       "word": "夏天不用开火的减脂餐",
@@ -1921,14 +2001,6 @@
       "onboard_time": 1751533821,
       "rank": 38,
       "category": "母婴育儿,民生新闻"
-    },
-    {
-      "raw_hot": 105484,
-      "num": 105484,
-      "word": "甘肃一幼儿园部分幼儿血铅异常",
-      "onboard_time": 1751538382,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 104195,
@@ -1953,14 +2025,6 @@
       "onboard_time": 1751506880,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 99332,
-      "num": 99332,
-      "word": "利物浦对若塔离世悲痛欲绝",
-      "onboard_time": 1751538261,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 99007,
@@ -2099,14 +2163,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 86385,
-      "num": 309750,
-      "word": "一幼儿园违规用添加剂幼儿血铅异常",
-      "onboard_time": 1751536943,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 85664,
       "num": 85664,
       "word": "特斯拉市值一夜大涨3450亿元",
@@ -2172,7 +2228,7 @@
     },
     {
       "raw_hot": 79082,
-      "num": 725189,
+      "num": 840697,
       "word": "3237件文物1525张照片将集中展出",
       "onboard_time": 1751533761,
       "rank": 2,
@@ -2355,6 +2411,14 @@
       "category": "情感,艺人"
     },
     {
+      "raw_hot": 60856,
+      "num": 246738,
+      "word": "李昀锐秀场和16岁美国演员唠嗑",
+      "onboard_time": 1751535441,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 59913,
       "num": 59913,
       "word": "丁禹兮穿了恩利设计的衣服",
@@ -2473,6 +2537,14 @@
       "onboard_time": 1751471062,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 40317,
+      "num": 182216,
+      "word": "男孩暴雨中被网约车司机扔半路",
+      "onboard_time": 1751539341,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39902,
@@ -2595,6 +2667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29829,
+      "num": 105690,
+      "word": "斗罗大陆剧场版定档暑期",
+      "onboard_time": 1751538802,
+      "rank": 49,
+      "category": "动漫,电影"
+    },
+    {
       "raw_hot": 29352,
       "num": 29352,
       "word": "美食时间",
@@ -2625,14 +2705,6 @@
       "onboard_time": 1751530942,
       "rank": 19,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 25241,
-      "num": 241763,
-      "word": "男子病逝后家人完成遗愿洒下钞票雨",
-      "onboard_time": 1751538081,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 23547,
