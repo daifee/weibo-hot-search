@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751560391149,
+  "endTime": 1751561378708,
   "band_list": [
     {
       "raw_hot": 4866007,
@@ -923,6 +923,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 674529,
+      "num": 90042,
+      "word": "亚洲生育率最高的国家",
+      "onboard_time": 1751558361,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 673407,
       "num": 439884,
       "word": "林志玲一个生煎包吃十几口",
@@ -984,6 +992,14 @@
       "word": "明天你的公积金账户将多一笔钱",
       "onboard_time": 1751279121,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 649841,
+      "num": 849184,
+      "word": "成都东站致歉",
+      "onboard_time": 1751555784,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1139,14 +1155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 612961,
-      "num": 849184,
-      "word": "成都东站致歉",
-      "onboard_time": 1751555784,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 611275,
       "num": 611275,
       "word": "饮品 咖啡因过量",
@@ -1201,14 +1209,6 @@
       "onboard_time": 1751421681,
       "rank": 41,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 590842,
-      "num": 90042,
-      "word": "亚洲生育率最高的国家",
-      "onboard_time": 1751558361,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 588163,
@@ -1779,6 +1779,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 422702,
+      "num": 422702,
+      "word": "毕业6年存130万小伙每月吃饭500元",
+      "onboard_time": 1751558480,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 421368,
       "num": 421368,
       "word": "为何这么多金店都姓周",
@@ -2145,14 +2153,6 @@
       "onboard_time": 1751435242,
       "rank": 7,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 353375,
-      "num": 353375,
-      "word": "毕业6年存130万小伙每月吃饭500元",
-      "onboard_time": 1751558480,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 352508,
@@ -2745,6 +2745,14 @@
       "onboard_time": 1751293704,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 283080,
+      "num": 198562,
+      "word": "25岁杀夫新娘和舅舅有15年非法关系",
+      "onboard_time": 1751557701,
+      "rank": 15,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 282808,
@@ -4075,6 +4083,14 @@
       "category": "民生新闻,数码"
     },
     {
+      "raw_hot": 195481,
+      "num": 195481,
+      "word": "罗马仕辟谣倒闭",
+      "onboard_time": 1751558842,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 194622,
       "num": 194622,
       "word": "扫毒风暴",
@@ -4113,14 +4129,6 @@
       "onboard_time": 1751534962,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 193635,
-      "num": 193635,
-      "word": "罗马仕辟谣倒闭",
-      "onboard_time": 1751558842,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 193613,
@@ -5057,14 +5065,6 @@
       "onboard_time": 1751437342,
       "rank": 17,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 163304,
-      "num": 163304,
-      "word": "25岁杀夫新娘和舅舅有15年非法关系",
-      "onboard_time": 1751557701,
-      "rank": 15,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 163190,
@@ -8795,6 +8795,14 @@
       "category": "财经,汽车"
     },
     {
+      "raw_hot": 85559,
+      "num": 85559,
+      "word": "女子熟睡被男友持刀架在脖子上",
+      "onboard_time": 1751560878,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85543,
       "num": 97491,
       "word": "附中一年级的刘浩存",
@@ -8947,6 +8955,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 79790,
+      "num": 115329,
+      "word": "江苏一陵园逝者骨灰失踪墓碑被换",
+      "onboard_time": 1751557343,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79626,
       "num": 79626,
       "word": "刘畅一米七一米八地走向何惟芳",
@@ -9009,14 +9025,6 @@
       "onboard_time": 1751287823,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 77024,
-      "num": 115329,
-      "word": "江苏一陵园逝者骨灰失踪墓碑被换",
-      "onboard_time": 1751557343,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75965,
@@ -9545,6 +9553,22 @@
       "onboard_time": 1751358262,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 58409,
+      "num": 58409,
+      "word": "有五险一金的外卖岗位真香",
+      "onboard_time": 1751561298,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58141,
+      "num": 58141,
+      "word": "毕业歌2025",
+      "onboard_time": 1751561119,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 57804,
@@ -10275,6 +10299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31845,
+      "num": 60670,
+      "word": "起猛了航母开楼下了",
+      "onboard_time": 1751560818,
+      "rank": 40,
+      "category": "军事"
+    },
+    {
       "raw_hot": 31161,
       "num": 185461,
       "word": "AI修复平型关战斗珍贵历史照片",
@@ -10361,6 +10393,14 @@
       "onboard_time": 1751477956,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 29343,
+      "num": 60354,
+      "word": "费大厨门店回应招服务员要求本科",
+      "onboard_time": 1751561359,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28164,

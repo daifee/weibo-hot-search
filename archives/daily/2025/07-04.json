@@ -1,6 +1,6 @@
 {
   "startTime": 1751560391149,
-  "endTime": 1751560391149,
+  "endTime": 1751561378708,
   "band_list": [
     {
       "raw_hot": 2967815,
@@ -11,7 +11,15 @@
       "category": "民生新闻,数码"
     },
     {
-      "raw_hot": 612961,
+      "raw_hot": 674529,
+      "num": 90042,
+      "word": "亚洲生育率最高的国家",
+      "onboard_time": 1751558361,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 649841,
       "num": 849184,
       "word": "成都东站致歉",
       "onboard_time": 1751555784,
@@ -19,12 +27,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 590842,
-      "num": 90042,
-      "word": "亚洲生育率最高的国家",
-      "onboard_time": 1751558361,
-      "rank": 30,
-      "category": "海外新闻"
+      "raw_hot": 422702,
+      "num": 422702,
+      "word": "毕业6年存130万小伙每月吃饭500元",
+      "onboard_time": 1751558480,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 360683,
@@ -35,20 +43,20 @@
       "category": "幽默,剧集"
     },
     {
-      "raw_hot": 353375,
-      "num": 353375,
-      "word": "毕业6年存130万小伙每月吃饭500元",
-      "onboard_time": 1751558480,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 303631,
       "num": 303631,
       "word": "相亲次日就领证后发现女方隐瞒病情",
       "onboard_time": 1751554282,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 283080,
+      "num": 198562,
+      "word": "25岁杀夫新娘和舅舅有15年非法关系",
+      "onboard_time": 1751557701,
+      "rank": 15,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 280753,
@@ -99,8 +107,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 193635,
-      "num": 193635,
+      "raw_hot": 195481,
+      "num": 195481,
       "word": "罗马仕辟谣倒闭",
       "onboard_time": 1751558842,
       "rank": 12,
@@ -121,14 +129,6 @@
       "onboard_time": 1751550864,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 163304,
-      "num": 163304,
-      "word": "25岁杀夫新娘和舅舅有15年非法关系",
-      "onboard_time": 1751557701,
-      "rank": 15,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 154979,
@@ -267,6 +267,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85559,
+      "num": 85559,
+      "word": "女子熟睡被男友持刀架在脖子上",
+      "onboard_time": 1751560878,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84848,
+      "num": 84848,
+      "word": "奔跑吧提档七点半播",
+      "onboard_time": 1751548943,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 83699,
       "num": 83699,
       "word": "穿正装的胡先煦把我硬控了",
@@ -299,16 +315,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 79473,
-      "num": 79473,
-      "word": "奔跑吧提档七点半播",
-      "onboard_time": 1751548943,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 77024,
-      "num": 77024,
+      "raw_hot": 79790,
+      "num": 79790,
       "word": "江苏一陵园逝者骨灰失踪墓碑被换",
       "onboard_time": 1751557343,
       "rank": 39,
@@ -395,11 +403,59 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58409,
+      "num": 58409,
+      "word": "有五险一金的外卖岗位真香",
+      "onboard_time": 1751561298,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58141,
+      "num": 58141,
+      "word": "毕业歌2025",
+      "onboard_time": 1751561119,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 54427,
+      "num": 54427,
+      "word": "俄海军副司令遇袭身亡",
+      "onboard_time": 1751537601,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 43187,
+      "num": 53354,
+      "word": "若塔因车祸去世",
+      "onboard_time": 1751530641,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 35205,
       "num": 74188,
       "word": "人民日报评这么近那么美标语出圈",
       "onboard_time": 1751554282,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31845,
+      "num": 60670,
+      "word": "起猛了航母开楼下了",
+      "onboard_time": 1751560818,
+      "rank": 40,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 29343,
+      "num": 60354,
+      "word": "费大厨门店回应招服务员要求本科",
+      "onboard_time": 1751561359,
+      "rank": 42,
       "category": "民生新闻"
     }
   ],
