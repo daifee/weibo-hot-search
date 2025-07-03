@@ -1,6 +1,6 @@
 {
   "startTime": 1751560391149,
-  "endTime": 1751582619089,
+  "endTime": 1751585126719,
   "band_list": [
     {
       "raw_hot": 2967815,
@@ -11,8 +11,8 @@
       "category": "民生新闻,数码"
     },
     {
-      "raw_hot": 674529,
-      "num": 136980,
+      "raw_hot": 712097,
+      "num": 231119,
       "word": "亚洲生育率最高的国家",
       "onboard_time": 1751558361,
       "rank": 30,
@@ -27,12 +27,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 458783,
-      "num": 534672,
+      "raw_hot": 646236,
+      "num": 825897,
       "word": "女子熟睡被男友持刀架在脖子上",
       "onboard_time": 1751560878,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 612518,
+      "num": 612518,
+      "word": "夜爬泰山 误闯天家",
+      "onboard_time": 1751580795,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 539850,
+      "num": 229092,
+      "word": "25岁杀夫新娘和舅舅有15年非法关系",
+      "onboard_time": 1751557701,
+      "rank": 15,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 422702,
@@ -43,14 +59,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 368192,
-      "num": 198562,
-      "word": "25岁杀夫新娘和舅舅有15年非法关系",
-      "onboard_time": 1751557701,
-      "rank": 15,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 360683,
       "num": 360683,
       "word": "吴所畏在韩国叫什么",
@@ -59,8 +67,8 @@
       "category": "幽默,剧集"
     },
     {
-      "raw_hot": 303631,
-      "num": 303631,
+      "raw_hot": 308527,
+      "num": 308527,
       "word": "相亲次日就领证后发现女方隐瞒病情",
       "onboard_time": 1751554282,
       "rank": 4,
@@ -99,14 +107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 214019,
-      "num": 103701,
-      "word": "夜爬泰山 误闯天家",
-      "onboard_time": 1751580795,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 210342,
       "num": 210342,
       "word": "印度25岁新娘为嫁55岁舅舅杀夫",
@@ -131,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169552,
+      "num": 169552,
+      "word": "亲生母亲8万多元卖掉自己的两个孩子",
+      "onboard_time": 1751550384,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167348,
       "num": 167348,
       "word": "金靖走心发言把刘宇宁感动哭了",
@@ -147,12 +155,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 155723,
+      "num": 155723,
+      "word": "BLG战胜MKOI",
+      "onboard_time": 1751584278,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 154979,
-      "num": 154979,
+      "num": 234807,
       "word": "李现发了三张杨紫",
       "onboard_time": 1751546481,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151293,
+      "num": 151293,
+      "word": "多部门介入12岁男孩小区坠井身亡",
+      "onboard_time": 1751556083,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146949,
@@ -171,12 +195,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 144324,
+      "num": 144324,
+      "word": "洛阳一景区有游客被洪水冲走失联3天",
+      "onboard_time": 1751578815,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143939,
       "num": 143939,
       "word": "成都暴雨红色预警",
       "onboard_time": 1751547321,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138462,
+      "num": 138462,
+      "word": "印度10年造出死亡折角立交桥",
+      "onboard_time": 1751540003,
+      "rank": 27,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 137722,
@@ -188,27 +228,19 @@
     },
     {
       "raw_hot": 137362,
-      "num": 137362,
+      "num": 154152,
       "word": "杨幂在电影节开幕式的自我介绍",
       "onboard_time": 1751559142,
       "rank": 21,
       "category": "电影,艺人"
     },
     {
-      "raw_hot": 120486,
-      "num": 120486,
-      "word": "亲生母亲8万多元卖掉自己的两个孩子",
-      "onboard_time": 1751550384,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 119957,
-      "num": 119957,
-      "word": "多部门介入12岁男孩小区坠井身亡",
-      "onboard_time": 1751556083,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 129887,
+      "num": 90932,
+      "word": "雨果因签证问题无缘美国大满贯",
+      "onboard_time": 1751584278,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 114877,
@@ -227,6 +259,14 @@
       "category": "民生新闻,数码"
     },
     {
+      "raw_hot": 113887,
+      "num": 113887,
+      "word": "男子为骗拆迁补助与男友姐姐假结婚",
+      "onboard_time": 1751579714,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113460,
       "num": 113460,
       "word": "田栩宁新剧男三",
@@ -243,12 +283,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 94041,
-      "num": 94041,
-      "word": "印度10年造出死亡折角立交桥",
-      "onboard_time": 1751540003,
-      "rank": 27,
-      "category": "海外新闻"
+      "raw_hot": 94324,
+      "num": 94324,
+      "word": "高温高湿一种致命急症发病率上升",
+      "onboard_time": 1751584638,
+      "rank": 25,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 91293,
@@ -260,7 +300,7 @@
     },
     {
       "raw_hot": 90188,
-      "num": 90188,
+      "num": 91179,
       "word": "何润东头发白了",
       "onboard_time": 1751556204,
       "rank": 29,
@@ -284,7 +324,7 @@
     },
     {
       "raw_hot": 84848,
-      "num": 84848,
+      "num": 152150,
       "word": "奔跑吧提档七点半播",
       "onboard_time": 1751548943,
       "rank": 38,
@@ -305,6 +345,14 @@
       "onboard_time": 1751530581,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82466,
+      "num": 82466,
+      "word": "萌兰10岁啦花花和叶5岁啦",
+      "onboard_time": 1751584458,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81613,
@@ -339,12 +387,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 74728,
-      "num": 74728,
+      "raw_hot": 79698,
+      "num": 79698,
+      "word": "淘宝客服回应罗马仕余额不足",
+      "onboard_time": 1751563097,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76951,
+      "num": 76951,
       "word": "有五险一金的外卖岗位真香",
       "onboard_time": 1751561298,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75363,
+      "num": 75363,
+      "word": "老王哥以后还是少去广东",
+      "onboard_time": 1751583677,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 74160,
@@ -355,20 +419,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 67057,
-      "num": 67057,
-      "word": "洛阳一景区有游客被洪水冲走失联3天",
-      "onboard_time": 1751578815,
-      "rank": 23,
+      "raw_hot": 72114,
+      "num": 72114,
+      "word": "狗狗扑向路过男孩主人冲上去阻止",
+      "onboard_time": 1751574194,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 66653,
-      "num": 53362,
-      "word": "淘宝客服回应罗马仕余额不足",
-      "onboard_time": 1751563097,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 67460,
+      "num": 421974,
+      "word": "首批7000多名救援人员撤离榕江",
+      "onboard_time": 1751553803,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 66930,
+      "num": 66930,
+      "word": "中午少吃还是晚上少吃",
+      "onboard_time": 1751584519,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 66493,
@@ -387,16 +459,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 66433,
-      "num": 355326,
-      "word": "首批7000多名救援人员撤离榕江",
-      "onboard_time": 1751553803,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 66366,
-      "num": 66366,
+      "num": 91449,
       "word": "桃花映江山18集22分54秒",
       "onboard_time": 1751549843,
       "rank": 44,
@@ -443,12 +507,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 60241,
+      "num": 60241,
+      "word": "MKOI对战BLG",
+      "onboard_time": 1751570355,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 58903,
-      "num": 58902,
-      "word": "狗狗扑向路过男孩主人冲上去阻止",
-      "onboard_time": 1751574194,
-      "rank": 25,
-      "category": "民生新闻"
+      "num": 58903,
+      "word": "俄海军副司令遇袭身亡",
+      "onboard_time": 1751537601,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 58624,
@@ -459,19 +531,35 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 54427,
-      "num": 54427,
-      "word": "俄海军副司令遇袭身亡",
-      "onboard_time": 1751537601,
-      "rank": 47,
+      "raw_hot": 58014,
+      "num": 58014,
+      "word": "美国6月非农就业人数增加14.7万人",
+      "onboard_time": 1751564716,
+      "rank": 26,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 57499,
+      "num": 57499,
+      "word": "C罗来南京奥体都没这阵仗",
+      "onboard_time": 1751570535,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 54115,
+      "num": 77497,
+      "word": "美众议院通过大而美法案",
+      "onboard_time": 1751584999,
+      "rank": 34,
       "category": "国际时政"
     },
     {
-      "raw_hot": 49750,
-      "num": 49750,
-      "word": "男子为骗拆迁补助与男友姐姐假结婚",
-      "onboard_time": 1751579714,
-      "rank": 28,
+      "raw_hot": 50397,
+      "num": 232337,
+      "word": "成都最大降水量323毫米在人民公园",
+      "onboard_time": 1751584638,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -481,14 +569,6 @@
       "onboard_time": 1751560818,
       "rank": 40,
       "category": "军事"
-    },
-    {
-      "raw_hot": 47710,
-      "num": 47710,
-      "word": "MKOI对战BLG",
-      "onboard_time": 1751570355,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 47524,
@@ -531,14 +611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 30932,
-      "num": 41326,
-      "word": "C罗来南京奥体都没这阵仗",
-      "onboard_time": 1751570535,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 29070,
       "num": 46764,
       "word": "美国又制裁了船只",
@@ -579,6 +651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 24911,
+      "num": 75054,
+      "word": "瘦全身最快的5个小方法",
+      "onboard_time": 1751584940,
+      "rank": 38,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 21160,
       "num": 21160,
       "word": "李宇春单曲冬泳上线",
@@ -587,12 +667,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 20313,
-      "num": 20313,
-      "word": "美国6月非农就业人数增加14.7万人",
-      "onboard_time": 1751564716,
-      "rank": 26,
-      "category": "海外新闻"
+      "raw_hot": 16032,
+      "num": 74886,
+      "word": "哥伦比亚召回驻美大使",
+      "onboard_time": 1751584999,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 11238,
