@@ -1,6 +1,6 @@
 {
   "startTime": 1751473999400,
-  "endTime": 1751547130840,
+  "endTime": 1751548031215,
   "band_list": [
     {
       "raw_hot": 4541277,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1094764,
-      "num": 489511,
+      "num": 494859,
       "word": "男孩暴雨中被网约车司机扔半路",
       "onboard_time": 1751539341,
       "rank": 29,
@@ -169,6 +169,14 @@
       "onboard_time": 1751500581,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 912906,
+      "num": 1146065,
+      "word": "王嘉尔借出收入40%给朋友却遭背刺",
+      "onboard_time": 1751545821,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 907572,
@@ -331,6 +339,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 583047,
+      "num": 583047,
+      "word": "成都东站",
+      "onboard_time": 1751544861,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 566454,
       "num": 566454,
       "word": "我放过的坏人杀了我的亲人",
@@ -403,12 +419,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 508340,
-      "num": 508340,
-      "word": "成都东站",
-      "onboard_time": 1751544861,
-      "rank": 1,
-      "category": "民生新闻"
+      "raw_hot": 498913,
+      "num": 498913,
+      "word": "日本气象厅发布红色强震警报",
+      "onboard_time": 1751545341,
+      "rank": 13,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 487981,
@@ -433,6 +449,14 @@
       "onboard_time": 1751535142,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 455070,
+      "num": 455070,
+      "word": "李现发了三张杨紫",
+      "onboard_time": 1751546481,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 452064,
@@ -505,14 +529,6 @@
       "onboard_time": 1751523682,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 398557,
-      "num": 286120,
-      "word": "王嘉尔借出收入40%给朋友却遭背刺",
-      "onboard_time": 1751545821,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 396710,
@@ -595,6 +611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 356131,
+      "num": 356131,
+      "word": "歌手第八期歌单",
+      "onboard_time": 1751546121,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 350905,
       "num": 350905,
       "word": "杨丞琳越来越像李荣浩了",
@@ -633,6 +657,14 @@
       "onboard_time": 1751520562,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 319312,
+      "num": 246420,
+      "word": "小鹏G7发布震惊央视朱广权",
+      "onboard_time": 1751546121,
+      "rank": 20,
+      "category": "汽车"
     },
     {
       "raw_hot": 316213,
@@ -763,28 +795,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 274918,
-      "num": 274918,
-      "word": "歌手第八期歌单",
-      "onboard_time": 1751546121,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 273558,
       "num": 226734,
       "word": "李一桐曝女推在土耳其一起洗澡",
       "onboard_time": 1751524641,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 273207,
-      "num": 273207,
-      "word": "日本气象厅发布红色强震警报",
-      "onboard_time": 1751545341,
-      "rank": 13,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 272480,
@@ -819,14 +835,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 268859,
-      "num": 246420,
-      "word": "小鹏G7发布震惊央视朱广权",
-      "onboard_time": 1751546121,
-      "rank": 20,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 266200,
       "num": 343842,
       "word": "迪丽热巴穿这么美的造型摔跤",
@@ -841,14 +849,6 @@
       "onboard_time": 1751534362,
       "rank": 25,
       "category": "体育,民生新闻"
-    },
-    {
-      "raw_hot": 260719,
-      "num": 260719,
-      "word": "李现发了三张杨紫",
-      "onboard_time": 1751546481,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 260296,
@@ -1105,6 +1105,14 @@
       "onboard_time": 1751538743,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214106,
+      "num": 214106,
+      "word": "章子怡王俊凯周冬雨坐一起",
+      "onboard_time": 1751547083,
+      "rank": 49,
+      "category": "电影,艺人"
     },
     {
       "raw_hot": 214079,
@@ -1427,6 +1435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174839,
+      "num": 174839,
+      "word": "吴所畏在韩国叫什么",
+      "onboard_time": 1751547143,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 173161,
       "num": 173161,
       "word": "AL晋级MSI下一轮",
@@ -1449,6 +1465,14 @@
       "onboard_time": 1751511020,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170666,
+      "num": 170666,
+      "word": "田栩宁新剧男三",
+      "onboard_time": 1751545701,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 170233,
@@ -1627,14 +1651,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 152818,
-      "num": 152818,
-      "word": "田栩宁新剧男三",
-      "onboard_time": 1751545701,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 152390,
       "num": 152390,
       "word": "王楚然好优雅的民国千金",
@@ -1745,6 +1761,14 @@
       "onboard_time": 1751508140,
       "rank": 34,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 137195,
+      "num": 137195,
+      "word": "宋茜红色蝴蝶结长裙",
+      "onboard_time": 1751547443,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 136242,
@@ -1955,6 +1979,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 123295,
+      "num": 399545,
+      "word": "成都暴雨红色预警",
+      "onboard_time": 1751547321,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123167,
       "num": 123167,
       "word": "张艺兴参加全国青联第十四届全会",
@@ -1969,6 +2001,14 @@
       "onboard_time": 1751504182,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 121930,
+      "num": 121930,
+      "word": "杨幂白裙红伞",
+      "onboard_time": 1751545762,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 121891,
@@ -2017,6 +2057,14 @@
       "onboard_time": 1751537601,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118109,
+      "num": 118109,
+      "word": "白鹿落水可以镜头得要",
+      "onboard_time": 1751543542,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 116885,
@@ -2179,14 +2227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 109308,
-      "num": 109308,
-      "word": "杨幂白裙红伞",
-      "onboard_time": 1751545762,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 108436,
       "num": 108436,
       "word": "南航",
@@ -2275,14 +2315,6 @@
       "category": "母婴育儿,民生新闻"
     },
     {
-      "raw_hot": 104708,
-      "num": 104708,
-      "word": "白鹿落水可以镜头得要",
-      "onboard_time": 1751543542,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 104195,
       "num": 104195,
       "word": "以法之名豆瓣开分7.6",
@@ -2347,14 +2379,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 98984,
-      "num": 98984,
-      "word": "章子怡王俊凯周冬雨坐一起",
-      "onboard_time": 1751547083,
-      "rank": 49,
-      "category": "电影,艺人"
-    },
-    {
       "raw_hot": 98775,
       "num": 98775,
       "word": "AL迎来MSI首秀",
@@ -2377,6 +2401,14 @@
       "onboard_time": 1751498479,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 96561,
+      "num": 96561,
+      "word": "温宜公主已经长这么大了",
+      "onboard_time": 1751547622,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 95372,
@@ -3028,7 +3060,7 @@
     },
     {
       "raw_hot": 29574,
-      "num": 492500,
+      "num": 583353,
       "word": "我们一起唱民歌",
       "onboard_time": 1751544921,
       "rank": 2,
@@ -3099,6 +3131,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 20196,
+      "num": 188579,
+      "word": "成都持续暴雨东站变水帘洞",
+      "onboard_time": 1751547682,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18930,
       "num": 20585,
       "word": "袁一琦演唱会见面准备过程",
@@ -3113,6 +3153,14 @@
       "onboard_time": 1751521342,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17373,
+      "num": 119108,
+      "word": "秦彻教堂一景",
+      "onboard_time": 1751547443,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 17354,

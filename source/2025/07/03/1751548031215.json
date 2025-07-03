@@ -1,0 +1,410 @@
+{
+  "runTime": 1751548031215,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 912906,
+        "num": 1146065,
+        "word": "王嘉尔借出收入40%给朋友却遭背刺",
+        "onboard_time": 1751545821,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 583901,
+        "num": 583901,
+        "word": "成都暴雨",
+        "onboard_time": 1751534783,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22159,
+        "num": 583353,
+        "word": "我们一起唱民歌",
+        "onboard_time": 1751544921,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 583047,
+        "num": 583047,
+        "word": "成都东站",
+        "onboard_time": 1751544861,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 498913,
+        "num": 498913,
+        "word": "日本气象厅发布红色强震警报",
+        "onboard_time": 1751545341,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 885575,
+        "num": 494859,
+        "word": "男孩暴雨中被网约车司机扔半路",
+        "onboard_time": 1751539341,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 475386,
+        "num": 475386,
+        "word": "警方通报初一女生遭多人殴打",
+        "onboard_time": 1751540660,
+        "rank": 6,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 455070,
+        "num": 455070,
+        "word": "李现发了三张杨紫",
+        "onboard_time": 1751546481,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 448722,
+        "num": 448722,
+        "word": "27岁女子放疗出院3天突遭车祸身亡",
+        "onboard_time": 1751539041,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123295,
+        "num": 399545,
+        "word": "成都暴雨红色预警",
+        "onboard_time": 1751547321,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 387541,
+        "num": 387541,
+        "word": "印度10年造出死亡折角立交桥",
+        "onboard_time": 1751540003,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 356131,
+        "num": 356131,
+        "word": "歌手第八期歌单",
+        "onboard_time": 1751546121,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332304,
+        "num": 332304,
+        "word": "风月不相关女主",
+        "onboard_time": 1751541741,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247812,
+        "num": 247812,
+        "word": "俄海军副司令遇袭身亡",
+        "onboard_time": 1751537601,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 235412,
+        "num": 235412,
+        "word": "小鹏G7太香了",
+        "onboard_time": 1751544622,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 223923,
+        "num": 223923,
+        "word": "李承铉男人的脏是胜利的勋章",
+        "onboard_time": 1751545582,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220574,
+        "num": 220574,
+        "word": "1.5L装的东方树叶",
+        "onboard_time": 1751534662,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 214106,
+        "num": 214106,
+        "word": "章子怡王俊凯周冬雨坐一起",
+        "onboard_time": 1751547083,
+        "rank": 17,
+        "category": "电影,艺人"
+      },
+      {
+        "raw_hot": 209165,
+        "num": 209165,
+        "word": "日本官方回应南海海槽大地震风险",
+        "onboard_time": 1751544081,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 35664,
+        "num": 195877,
+        "word": "解限机steam同时在线13万",
+        "onboard_time": 1751544262,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 319312,
+        "num": 194037,
+        "word": "小鹏G7发布震惊央视朱广权",
+        "onboard_time": 1751546121,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 189048,
+        "num": 189048,
+        "word": "徐志胜说孟子义是本色出演",
+        "onboard_time": 1751545281,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20196,
+        "num": 188579,
+        "word": "成都持续暴雨东站变水帘洞",
+        "onboard_time": 1751547682,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188254,
+        "num": 188254,
+        "word": "奔跑吧",
+        "onboard_time": 1751537781,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175040,
+        "num": 175040,
+        "word": "利物浦前锋若塔去世",
+        "onboard_time": 1751530581,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174839,
+        "num": 174839,
+        "word": "吴所畏在韩国叫什么",
+        "onboard_time": 1751547143,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171876,
+        "num": 171876,
+        "word": "刘学义 哥哥人家委屈",
+        "onboard_time": 1751546542,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171098,
+        "num": 171098,
+        "word": "日本末日预言",
+        "onboard_time": 1751526082,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 170666,
+        "num": 170666,
+        "word": "田栩宁新剧男三",
+        "onboard_time": 1751545701,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165626,
+        "num": 165626,
+        "word": "歌手提档七点半播",
+        "onboard_time": 1751543782,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159693,
+        "num": 159693,
+        "word": "身份证加水印",
+        "onboard_time": 1751525661,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150661,
+        "num": 150661,
+        "word": "Tabe发文道歉",
+        "onboard_time": 1751545582,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149170,
+        "num": 149170,
+        "word": "暑假新顶流",
+        "onboard_time": 1751525241,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137195,
+        "num": 137195,
+        "word": "宋茜红色蝴蝶结长裙",
+        "onboard_time": 1751547443,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134710,
+        "num": 134710,
+        "word": "若塔因车祸去世",
+        "onboard_time": 1751530641,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132877,
+        "num": 132877,
+        "word": "任嘉伦蓝盈莹主演风与潮杀青特辑",
+        "onboard_time": 1751546542,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123813,
+        "num": 123813,
+        "word": "女子带儿子打伤出轨老公后双双被拘",
+        "onboard_time": 1751536162,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122589,
+        "num": 122589,
+        "word": "男子病逝后家人完成遗愿洒下钞票雨",
+        "onboard_time": 1751538081,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 121930,
+        "num": 121930,
+        "word": "杨幂白裙红伞",
+        "onboard_time": 1751545762,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17373,
+        "num": 119108,
+        "word": "秦彻教堂一景",
+        "onboard_time": 1751547443,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118109,
+        "num": 118109,
+        "word": "白鹿落水可以镜头得要",
+        "onboard_time": 1751543542,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112790,
+        "num": 112790,
+        "word": "北京出门像被牛舔了一口",
+        "onboard_time": 1751511020,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110918,
+        "num": 110918,
+        "word": "迪丽热巴警服造型又美又飒",
+        "onboard_time": 1751545942,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108331,
+        "num": 108331,
+        "word": "成都暴雨哗哗哗",
+        "onboard_time": 1751537781,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105779,
+        "num": 105779,
+        "word": "赞多 退赛",
+        "onboard_time": 1751529021,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105329,
+        "num": 105329,
+        "word": "颖儿胆结石疼到喊救护车送医",
+        "onboard_time": 1751539640,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99841,
+        "num": 99841,
+        "word": "C罗悼念队友若塔",
+        "onboard_time": 1751540182,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98687,
+        "num": 98687,
+        "word": "汪苏泷十万伏特2.0巡回演唱会",
+        "onboard_time": 1751544143,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 96595,
+        "num": 96595,
+        "word": "张凌赫我不许你再演傻子了",
+        "onboard_time": 1751545101,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96561,
+        "num": 96561,
+        "word": "温宜公主已经长这么大了",
+        "onboard_time": 1751547622,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国青年大有可为#"
+    }
+  }
+}
