@@ -1,0 +1,410 @@
+{
+  "runTime": 1751524728301,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1253185,
+        "num": 1253185,
+        "word": "最难喝饮料排行榜",
+        "onboard_time": 1751517802,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1238312,
+        "num": 1238312,
+        "word": "上海交大冲突事件引校门开放之争",
+        "onboard_time": 1751519602,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102052,
+        "num": 646180,
+        "word": "首个全国高温健康风险预警",
+        "onboard_time": 1751517984,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 579945,
+        "num": 579945,
+        "word": "北京出门像被牛舔了一口",
+        "onboard_time": 1751511020,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 564045,
+        "num": 564045,
+        "word": "杨紫又出神图了",
+        "onboard_time": 1751519542,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 468307,
+        "num": 468307,
+        "word": "日本打工老人",
+        "onboard_time": 1751520081,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 446314,
+        "num": 446314,
+        "word": "迪丽热巴我不是千金大小姐吗",
+        "onboard_time": 1751521223,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424092,
+        "num": 424092,
+        "word": "感染食脑虫男童家人称已联系到药厂",
+        "onboard_time": 1751519841,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 404527,
+        "num": 404527,
+        "word": "女子景区蹦极被推下受伤满脸是血",
+        "onboard_time": 1751516423,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129776,
+        "num": 378558,
+        "word": "江苏河南等地高温健康风险极高",
+        "onboard_time": 1751523742,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 685559,
+        "num": 378550,
+        "word": "于正说再蛐蛐我就把截图放上来",
+        "onboard_time": 1751519984,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 476213,
+        "num": 378525,
+        "word": "女艺人白玉兰陪跑的高情商发言",
+        "onboard_time": 1751523021,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378453,
+        "num": 378453,
+        "word": "新说唱导师 脏话",
+        "onboard_time": 1751513660,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363007,
+        "num": 363007,
+        "word": "张云龙知道娜扎有容貌焦虑",
+        "onboard_time": 1751519662,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 323730,
+        "num": 323730,
+        "word": "迪丽热巴金世佳携手打拐",
+        "onboard_time": 1751520562,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242940,
+        "num": 242940,
+        "word": "女大学生家教被欠薪上门蹲守无果",
+        "onboard_time": 1751521282,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231523,
+        "num": 231523,
+        "word": "鹿晗 烟雾散去那一刻",
+        "onboard_time": 1751520381,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 174869,
+        "num": 229088,
+        "word": "马丽许嵩撞衫",
+        "onboard_time": 1751520982,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16200,
+        "num": 228386,
+        "word": "气温预报图热成一片了",
+        "onboard_time": 1751509221,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228220,
+        "num": 228220,
+        "word": "九江教育局致歉",
+        "onboard_time": 1751515882,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 227020,
+        "num": 227020,
+        "word": "曝娜扎张云龙近况",
+        "onboard_time": 1751499380,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222761,
+        "num": 222761,
+        "word": "饮品 咖啡因过量",
+        "onboard_time": 1751515882,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 215284,
+        "num": 215284,
+        "word": "中国海军山东舰航母编队抵达香港",
+        "onboard_time": 1751502983,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 202331,
+        "num": 202331,
+        "word": "李一桐曝女推在土耳其一起洗澡",
+        "onboard_time": 1751524641,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 186863,
+        "num": 186863,
+        "word": "姐姐哽咽还原模特被骗缅甸过程",
+        "onboard_time": 1751520742,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177969,
+        "num": 177969,
+        "word": "纪念抗战胜利80周年文艺晚会",
+        "onboard_time": 1751513302,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 167583,
+        "num": 167583,
+        "word": "南京奥体6万多个座椅都擦了一遍",
+        "onboard_time": 1751524222,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167281,
+        "num": 167281,
+        "word": "美部长称食人族被遣返时自己吃自己",
+        "onboard_time": 1751519422,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 135719,
+        "num": 166044,
+        "word": "亮剑等抗战题材经典作品将展播",
+        "onboard_time": 1751511260,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134570,
+        "num": 165272,
+        "word": "杨紫何惟芳在大火前淡定弹琵琶",
+        "onboard_time": 1751523202,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165181,
+        "num": 165181,
+        "word": "服用紧急避孕药1年内不应超2次",
+        "onboard_time": 1751518461,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 163381,
+        "num": 163381,
+        "word": "男子幼儿园门口1天虐杀4只猫",
+        "onboard_time": 1751520441,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162951,
+        "num": 162951,
+        "word": "日本辟谣7月5日毁灭性大地震",
+        "onboard_time": 1751521823,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 121158,
+        "num": 162876,
+        "word": "别墅里面唱K",
+        "onboard_time": 1751513542,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 162821,
+        "num": 162821,
+        "word": "官方回应火车突发停车乘客砸窗通风",
+        "onboard_time": 1751523682,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149872,
+        "num": 149872,
+        "word": "奶茶 咖啡因",
+        "onboard_time": 1751521042,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148133,
+        "num": 148133,
+        "word": "火车突发事故停车断电乘客砸窗通风",
+        "onboard_time": 1751523742,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147082,
+        "num": 147082,
+        "word": "男子因好奇上个厕所连续转账14次",
+        "onboard_time": 1751514861,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128579,
+        "num": 144969,
+        "word": "开始推理吧",
+        "onboard_time": 1751524160,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82366,
+        "num": 144810,
+        "word": "美国大满贯球员房间到餐厅距离",
+        "onboard_time": 1751522841,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144784,
+        "num": 144784,
+        "word": "中日友好医院称要有刮骨疗毒的决心",
+        "onboard_time": 1751517084,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137505,
+        "num": 137505,
+        "word": "7月财运最旺的星座",
+        "onboard_time": 1751516361,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129551,
+        "num": 129551,
+        "word": "男孩提不动书包一查心脏长得像鞋",
+        "onboard_time": 1751518822,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126198,
+        "num": 126198,
+        "word": "火箭交易杜兰特",
+        "onboard_time": 1751516361,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124959,
+        "num": 124959,
+        "word": "俞敏洪发布说明致歉",
+        "onboard_time": 1751522300,
+        "rank": 44,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 121907,
+        "num": 121907,
+        "word": "三伏天补气血最佳方法是蒸荔枝",
+        "onboard_time": 1751514982,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 61557,
+        "num": 117542,
+        "word": "爸爸扮吴彦祖哄好妈妈坑了儿子",
+        "onboard_time": 1751523082,
+        "rank": 46,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 115020,
+        "num": 115020,
+        "word": "徐艺洋回应黄子韬未读乱回",
+        "onboard_time": 1751517743,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109751,
+        "num": 109751,
+        "word": "张雪峰称为填志愿半个月没时间睡觉",
+        "onboard_time": 1751523322,
+        "rank": 48,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 106304,
+        "num": 106304,
+        "word": "抗战胜利80周年优秀文艺作品",
+        "onboard_time": 1751512762,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#青年的理想信念关乎国家未来#"
+    }
+  }
+}

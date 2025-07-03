@@ -1,6 +1,6 @@
 {
   "startTime": 1751473999400,
-  "endTime": 1751521640168,
+  "endTime": 1751524728301,
   "band_list": [
     {
       "raw_hot": 1971597,
@@ -19,20 +19,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1253185,
+      "num": 1253185,
+      "word": "最难喝饮料排行榜",
+      "onboard_time": 1751517802,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 1238312,
+      "num": 1238312,
+      "word": "上海交大冲突事件引校门开放之争",
+      "onboard_time": 1751519602,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1232055,
       "num": 423299,
       "word": "新说唱导师 脏话",
       "onboard_time": 1751513660,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1116903,
-      "num": 1178704,
-      "word": "最难喝饮料排行榜",
-      "onboard_time": 1751517802,
-      "rank": 24,
-      "category": "美食"
     },
     {
       "raw_hot": 1089295,
@@ -115,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 685559,
+      "num": 378550,
+      "word": "于正说再蛐蛐我就把截图放上来",
+      "onboard_time": 1751519984,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 678213,
       "num": 420435,
       "word": "公务员考试的所有公式都在这里了",
@@ -137,14 +153,6 @@
       "onboard_time": 1751515882,
       "rank": 5,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 577043,
-      "num": 366396,
-      "word": "于正说再蛐蛐我就把截图放上来",
-      "onboard_time": 1751519984,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 566454,
@@ -211,6 +219,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 476213,
+      "num": 378525,
+      "word": "女艺人白玉兰陪跑的高情商发言",
+      "onboard_time": 1751523021,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 468307,
+      "num": 468307,
+      "word": "日本打工老人",
+      "onboard_time": 1751520081,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 452064,
       "num": 452064,
       "word": "西门子称美取消对中国芯片设计软件出口限制",
@@ -219,12 +243,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 446314,
+      "num": 446314,
+      "word": "迪丽热巴我不是千金大小姐吗",
+      "onboard_time": 1751521223,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 431819,
       "num": 431819,
       "word": "抗战胜利80周年优秀文艺作品",
       "onboard_time": 1751512762,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 424092,
+      "num": 424092,
+      "word": "感染食脑虫男童家人称已联系到药厂",
+      "onboard_time": 1751519841,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 423818,
@@ -240,14 +280,6 @@
       "word": "杭州热到全国第一了",
       "onboard_time": 1751498479,
       "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 395502,
-      "num": 395502,
-      "word": "上海交大冲突事件引校门开放之争",
-      "onboard_time": 1751519602,
-      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -283,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 363007,
+      "num": 363007,
+      "word": "张云龙知道娜扎有容貌焦虑",
+      "onboard_time": 1751519662,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 362413,
       "num": 362413,
       "word": "一批抗战主题电视剧将陆续播出",
@@ -313,6 +353,14 @@
       "onboard_time": 1751503823,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 323730,
+      "num": 323730,
+      "word": "迪丽热巴金世佳携手打拐",
+      "onboard_time": 1751520562,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 316213,
@@ -451,22 +499,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 251356,
-      "num": 251356,
-      "word": "迪丽热巴金世佳携手打拐",
-      "onboard_time": 1751520562,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 251095,
-      "num": 251095,
-      "word": "感染食脑虫男童家人称已联系到药厂",
-      "onboard_time": 1751519841,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 247467,
       "num": 180917,
       "word": "杨幂吴谨言赵今麦VOGUE红毯图",
@@ -491,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242940,
+      "num": 242940,
+      "word": "女大学生家教被欠薪上门蹲守无果",
+      "onboard_time": 1751521282,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 241731,
       "num": 241731,
       "word": "雷军直播后小米股价下挫",
@@ -507,20 +547,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 237208,
-      "num": 237208,
-      "word": "张云龙知道娜扎有容貌焦虑",
-      "onboard_time": 1751519662,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 236596,
       "num": 236596,
       "word": "服用紧急避孕药1年内不应超2次",
       "onboard_time": 1751518461,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 231523,
+      "num": 231523,
+      "word": "鹿晗 烟雾散去那一刻",
+      "onboard_time": 1751520381,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 229834,
@@ -595,28 +635,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 215525,
-      "num": 230805,
-      "word": "日本打工老人",
-      "onboard_time": 1751520081,
-      "rank": 29,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 214079,
       "num": 269673,
       "word": "魏哲鸣回应一米七一米八",
       "onboard_time": 1751500943,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 211657,
-      "num": 211657,
-      "word": "鹿晗 烟雾散去那一刻",
-      "onboard_time": 1751520381,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 209863,
@@ -667,12 +691,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 202159,
-      "num": 202159,
-      "word": "迪丽热巴我不是千金大小姐吗",
-      "onboard_time": 1751521223,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 202331,
+      "num": 202331,
+      "word": "李一桐曝女推在土耳其一起洗澡",
+      "onboard_time": 1751524641,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 200765,
@@ -745,6 +769,14 @@
       "onboard_time": 1751517084,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 186863,
+      "num": 366847,
+      "word": "姐姐哽咽还原模特被骗缅甸过程",
+      "onboard_time": 1751520742,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182581,
@@ -843,6 +875,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 167583,
+      "num": 167583,
+      "word": "南京奥体6万多个座椅都擦了一遍",
+      "onboard_time": 1751524222,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166939,
       "num": 166939,
       "word": "特朗普称美越已达成贸易协议",
@@ -867,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162951,
+      "num": 162951,
+      "word": "日本辟谣7月5日毁灭性大地震",
+      "onboard_time": 1751521823,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 162906,
       "num": 162906,
       "word": "大学招生办称学费每学年15万不盈利",
@@ -875,11 +923,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 162560,
-      "num": 162560,
-      "word": "女大学生家教被欠薪上门蹲守无果",
-      "onboard_time": 1751521282,
-      "rank": 39,
+      "raw_hot": 162821,
+      "num": 162821,
+      "word": "官方回应火车突发停车乘客砸窗通风",
+      "onboard_time": 1751523682,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -936,6 +984,22 @@
       "word": "首个全国高温健康风险预警",
       "onboard_time": 1751517984,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149872,
+      "num": 149872,
+      "word": "奶茶 咖啡因",
+      "onboard_time": 1751521042,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 148133,
+      "num": 148133,
+      "word": "火车突发事故停车断电乘客砸窗通风",
+      "onboard_time": 1751523742,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -1011,6 +1075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134570,
+      "num": 165272,
+      "word": "杨紫何惟芳在大火前淡定弹琵琶",
+      "onboard_time": 1751523202,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132682,
       "num": 132682,
       "word": "年轻一代文艺工作者全面担当主力",
@@ -1051,12 +1123,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 129776,
+      "num": 378558,
+      "word": "江苏河南等地高温健康风险极高",
+      "onboard_time": 1751523742,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128989,
       "num": 351270,
       "word": "花漾少女杀人事件冰上特辑",
       "onboard_time": 1751516483,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 128579,
+      "num": 144969,
+      "word": "开始推理吧",
+      "onboard_time": 1751524160,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 124959,
+      "num": 124959,
+      "word": "俞敏洪发布说明致歉",
+      "onboard_time": 1751522300,
+      "rank": 44,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 124394,
@@ -1116,7 +1212,7 @@
     },
     {
       "raw_hot": 115484,
-      "num": 115484,
+      "num": 228386,
       "word": "气温预报图热成一片了",
       "onboard_time": 1751509221,
       "rank": 47,
@@ -1153,6 +1249,14 @@
       "onboard_time": 1751512641,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 109751,
+      "num": 109751,
+      "word": "张雪峰称为填志愿半个月没时间睡觉",
+      "onboard_time": 1751523322,
+      "rank": 48,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 108436,
@@ -1192,14 +1296,6 @@
       "word": "为什么点外卖比到店就餐更便宜",
       "onboard_time": 1751463804,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 106195,
-      "num": 366847,
-      "word": "姐姐哽咽还原模特被骗缅甸过程",
-      "onboard_time": 1751520742,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1379,6 +1475,14 @@
       "category": "休闲,动漫"
     },
     {
+      "raw_hot": 82366,
+      "num": 144810,
+      "word": "美国大满贯球员房间到餐厅距离",
+      "onboard_time": 1751522841,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82142,
       "num": 82142,
       "word": "董卿生病但帅",
@@ -1537,6 +1641,14 @@
       "onboard_time": 1751517084,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61557,
+      "num": 117542,
+      "word": "爸爸扮吴彦祖哄好妈妈坑了儿子",
+      "onboard_time": 1751523082,
+      "rank": 46,
+      "category": "情感,艺人"
     },
     {
       "raw_hot": 59913,
