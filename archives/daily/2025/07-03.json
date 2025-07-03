@@ -1,6 +1,6 @@
 {
   "startTime": 1751473999400,
-  "endTime": 1751539618608,
+  "endTime": 1751541824812,
   "band_list": [
     {
       "raw_hot": 4541277,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1053052,
-      "num": 1053052,
+      "num": 1163403,
       "word": "成都暴雨",
       "onboard_time": 1751534783,
       "rank": 40,
@@ -137,6 +137,14 @@
       "onboard_time": 1751519542,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 937238,
+      "num": 937238,
+      "word": "27岁女子放疗出院3天突遭车祸身亡",
+      "onboard_time": 1751539041,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 936636,
@@ -193,6 +201,14 @@
       "onboard_time": 1751516423,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 784842,
+      "num": 784842,
+      "word": "周柯宇 顶级过肺",
+      "onboard_time": 1751540301,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 720290,
@@ -281,6 +297,14 @@
       "onboard_time": 1751498839,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 629171,
+      "num": 629171,
+      "word": "印度10年造出死亡折角立交桥",
+      "onboard_time": 1751540003,
+      "rank": 4,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 617383,
@@ -427,6 +451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 427249,
+      "num": 427249,
+      "word": "奔跑吧",
+      "onboard_time": 1751537781,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 423818,
       "num": 359159,
       "word": "7月财运最旺的星座",
@@ -547,14 +579,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 326892,
-      "num": 326892,
-      "word": "奔跑吧",
-      "onboard_time": 1751537781,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 325983,
       "num": 325983,
       "word": "美解除对华芯片设计软件出口管制",
@@ -595,19 +619,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 310689,
+      "num": 310689,
+      "word": "男子病逝后家人完成遗愿洒下钞票雨",
+      "onboard_time": 1751538081,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 310245,
       "num": 310245,
       "word": "精心设计的婚礼布景竟变成短剧素材",
       "onboard_time": 1751469923,
       "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 305131,
-      "num": 305131,
-      "word": "27岁女子放疗出院3天突遭车祸身亡",
-      "onboard_time": 1751539041,
-      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -747,12 +771,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 257083,
-      "num": 257083,
-      "word": "男子病逝后家人完成遗愿洒下钞票雨",
-      "onboard_time": 1751538081,
-      "rank": 19,
-      "category": "海外新闻"
+      "raw_hot": 257077,
+      "num": 333246,
+      "word": "警方通报初一女生遭多人殴打",
+      "onboard_time": 1751540660,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 253794,
@@ -1011,6 +1035,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 204236,
+      "num": 211153,
+      "word": "aespa后台自拍",
+      "onboard_time": 1751541081,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202874,
       "num": 360721,
       "word": "被秦六郎气死",
@@ -1025,6 +1057,14 @@
       "onboard_time": 1751519422,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 199371,
+      "num": 210506,
+      "word": "颖儿胆结石疼到喊救护车送医",
+      "onboard_time": 1751539640,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 198877,
@@ -1235,12 +1275,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176137,
+      "num": 176137,
+      "word": "刘学义孟子义终于线下合体了",
+      "onboard_time": 1751541381,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175733,
       "num": 175733,
       "word": "和平精英",
       "onboard_time": 1751516183,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 175309,
+      "num": 175309,
+      "word": "C罗悼念队友若塔",
+      "onboard_time": 1751540182,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 173582,
+      "num": 182216,
+      "word": "男孩暴雨中被网约车司机扔半路",
+      "onboard_time": 1751539341,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173161,
@@ -1675,6 +1739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126057,
+      "num": 126057,
+      "word": "王欣瑜vs森梅兹",
+      "onboard_time": 1751539282,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124959,
       "num": 124959,
       "word": "俞敏洪发布说明致歉",
@@ -1755,6 +1827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119675,
+      "num": 119675,
+      "word": "锦绣芳华",
+      "onboard_time": 1751531901,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119084,
       "num": 119084,
       "word": "贵阳音乐节全阵容官宣",
@@ -1803,20 +1883,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115293,
+      "num": 126147,
+      "word": "辛云来跨界歌亡",
+      "onboard_time": 1751540541,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 115271,
+      "num": 115271,
+      "word": "谁懂衬衣解开三颗纽扣的杀伤力",
+      "onboard_time": 1751539940,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 115146,
       "num": 115146,
       "word": "张雪峰称为填志愿半个月没时间睡觉",
       "onboard_time": 1751523322,
       "rank": 48,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 114711,
-      "num": 114711,
-      "word": "王欣瑜vs森梅兹",
-      "onboard_time": 1751539282,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 114478,
@@ -1891,12 +1979,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 111796,
-      "num": 111796,
-      "word": "锦绣芳华",
-      "onboard_time": 1751531901,
+      "raw_hot": 111921,
+      "num": 111921,
+      "word": "cp32",
+      "onboard_time": 1751541440,
       "rank": 44,
-      "category": "剧集"
+      "category": "演出"
     },
     {
       "raw_hot": 111075,
@@ -2499,6 +2587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 47112,
+      "num": 212523,
+      "word": "该解决列车因故障停运的通风问题了",
+      "onboard_time": 1751540481,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44944,
       "num": 44944,
       "word": "一直在干有利于脊柱侧弯的事",
@@ -2537,14 +2633,6 @@
       "onboard_time": 1751471062,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 40317,
-      "num": 182216,
-      "word": "男孩暴雨中被网约车司机扔半路",
-      "onboard_time": 1751539341,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39902,
@@ -2705,6 +2793,14 @@
       "onboard_time": 1751530942,
       "rank": 19,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 23549,
+      "num": 131948,
+      "word": "武功山官微发吊带女孩福利被质疑",
+      "onboard_time": 1751541682,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23547,
