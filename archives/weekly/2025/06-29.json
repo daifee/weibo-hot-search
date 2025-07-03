@@ -1,7 +1,15 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751556525224,
+  "endTime": 1751557412258,
   "band_list": [
+    {
+      "raw_hot": 4866007,
+      "num": 4866007,
+      "word": "罗马仕 倒闭",
+      "onboard_time": 1751554224,
+      "rank": 0,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 4541277,
       "num": 4541277,
@@ -9,14 +17,6 @@
       "onboard_time": 1751530581,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 4169286,
-      "num": 4169286,
-      "word": "罗马仕 倒闭",
-      "onboard_time": 1751554224,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 3569605,
@@ -2723,6 +2723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 441638,
+      "num": 441638,
+      "word": "印度25岁新娘为嫁55岁舅舅杀夫",
+      "onboard_time": 1751553083,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 436285,
       "num": 388420,
       "word": "张云龙知道娜扎有容貌焦虑",
@@ -2929,14 +2937,6 @@
       "onboard_time": 1751415621,
       "rank": 11,
       "category": "美妆,时尚"
-    },
-    {
-      "raw_hot": 417924,
-      "num": 417924,
-      "word": "印度25岁新娘为嫁55岁舅舅杀夫",
-      "onboard_time": 1751553083,
-      "rank": 20,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 417016,
@@ -3179,12 +3179,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 389361,
+      "num": 389361,
+      "word": "费大厨招服务员写本科以下勿扰",
+      "onboard_time": 1751555484,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 389246,
       "num": 389246,
       "word": "锦绣芳华热度",
       "onboard_time": 1751291663,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 387932,
+      "num": 387932,
+      "word": "成都东站致歉",
+      "onboard_time": 1751555784,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 386910,
@@ -3273,6 +3289,14 @@
       "onboard_time": 1751298142,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 374750,
+      "num": 385440,
+      "word": "娜扎你也会怀念十八岁的自己吗",
+      "onboard_time": 1751554584,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 374293,
@@ -3529,6 +3553,14 @@
       "onboard_time": 1751344284,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 344527,
+      "num": 344527,
+      "word": "金靖走心发言把刘宇宁感动哭了",
+      "onboard_time": 1751553684,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 344145,
@@ -4043,14 +4075,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 304730,
-      "num": 304730,
-      "word": "金靖走心发言把刘宇宁感动哭了",
-      "onboard_time": 1751553684,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 304116,
       "num": 304116,
       "word": "王一博方公开告黑进展",
@@ -4313,14 +4337,6 @@
       "onboard_time": 1751161280,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 290822,
-      "num": 290822,
-      "word": "娜扎你也会怀念十八岁的自己吗",
-      "onboard_time": 1751554584,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 290687,
@@ -5331,6 +5347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 228989,
+      "num": 228989,
+      "word": "一种巨掉好感的行为",
+      "onboard_time": 1751550864,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 228624,
       "num": 228624,
       "word": "冻香蕉",
@@ -5825,6 +5849,14 @@
       "onboard_time": 1751344404,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 214957,
+      "num": 187235,
+      "word": "何润东头发白了",
+      "onboard_time": 1751556204,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 214811,
@@ -7043,6 +7075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188155,
+      "num": 188155,
+      "word": "邓超最害怕的女生",
+      "onboard_time": 1751555243,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188018,
       "num": 188018,
       "word": "TWICE更新",
@@ -7275,20 +7315,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 182806,
-      "num": 182806,
-      "word": "一种巨掉好感的行为",
-      "onboard_time": 1751550864,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 182581,
       "num": 182581,
       "word": "三伏天补气血最佳方法是蒸荔枝",
       "onboard_time": 1751514982,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 182241,
+      "num": 182241,
+      "word": "退烧药引发男童全身90%皮肤剥脱",
+      "onboard_time": 1751553984,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182240,
@@ -7619,6 +7659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176000,
+      "num": 176000,
+      "word": "相亲次日就领证后发现女方隐瞒病情",
+      "onboard_time": 1751554282,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175733,
       "num": 175733,
       "word": "和平精英",
@@ -7793,14 +7841,6 @@
       "onboard_time": 1751432724,
       "rank": 29,
       "category": "美食"
-    },
-    {
-      "raw_hot": 173541,
-      "num": 173541,
-      "word": "邓超最害怕的女生",
-      "onboard_time": 1751555243,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 173470,
@@ -8184,6 +8224,14 @@
       "word": "李现弹琴vs黄晓明打字",
       "onboard_time": 1751551823,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 166622,
+      "num": 176897,
+      "word": "单依纯超稳内核",
+      "onboard_time": 1751556083,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -8923,14 +8971,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 155051,
-      "num": 155051,
-      "word": "相亲次日就领证后发现女方隐瞒病情",
-      "onboard_time": 1751554282,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 154991,
       "num": 154991,
       "word": "雷军称纽北广告牌空出来一个抢一个",
@@ -8961,14 +9001,6 @@
       "onboard_time": 1751174422,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 154602,
-      "num": 154602,
-      "word": "何润东头发白了",
-      "onboard_time": 1751556204,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 154574,
@@ -9435,14 +9467,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 148419,
-      "num": 148419,
-      "word": "单依纯超稳内核",
-      "onboard_time": 1751556083,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 148144,
       "num": 148144,
       "word": "李光洁从此商界大佬有了脸",
@@ -9545,6 +9569,22 @@
       "onboard_time": 1751291123,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 146859,
+      "num": 146859,
+      "word": "谁懂约定配宋祖儿新剧大婚的含金量",
+      "onboard_time": 1751554584,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 146798,
+      "num": 229519,
+      "word": "多部门介入12岁男孩小区坠井身亡",
+      "onboard_time": 1751556083,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146748,
@@ -9723,14 +9763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 144578,
-      "num": 247280,
-      "word": "费大厨招服务员写本科以下勿扰",
-      "onboard_time": 1751555484,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 144551,
       "num": 144551,
       "word": "反洗钱监管再扩围",
@@ -9745,14 +9777,6 @@
       "onboard_time": 1751441662,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 144258,
-      "num": 144258,
-      "word": "谁懂约定配宋祖儿新剧大婚的含金量",
-      "onboard_time": 1751554584,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 144135,
@@ -10003,14 +10027,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 140824,
-      "num": 140824,
-      "word": "退烧药引发男童全身90%皮肤剥脱",
-      "onboard_time": 1751553984,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 140818,
       "num": 140818,
       "word": "女子回家认出已故同学父亲摆摊卖瓜",
@@ -10088,6 +10104,14 @@
       "word": "这张桌子坐了五个视后视帝",
       "onboard_time": 1751292743,
       "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 139790,
+      "num": 139790,
+      "word": "刘学义的喉结孟子义的青筋",
+      "onboard_time": 1751554883,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -11147,6 +11171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129811,
+      "num": 129811,
+      "word": "杨幂说电影让每个我看见我们",
+      "onboard_time": 1751557043,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 129788,
       "num": 129788,
       "word": "健身完发现手机代偿了",
@@ -11241,14 +11273,6 @@
       "onboard_time": 1751156359,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 128601,
-      "num": 128601,
-      "word": "刘学义的喉结孟子义的青筋",
-      "onboard_time": 1751554883,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 128598,
@@ -12691,6 +12715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 113040,
+      "num": 113040,
+      "word": "虞书欣wakuku塑",
+      "onboard_time": 1751555063,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113029,
       "num": 113029,
       "word": "光与夜之恋",
@@ -13681,14 +13713,6 @@
       "onboard_time": 1751448681,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 102388,
-      "num": 102388,
-      "word": "虞书欣wakuku塑",
-      "onboard_time": 1751555063,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 102267,
@@ -15355,6 +15379,14 @@
       "category": "剧集,休闲"
     },
     {
+      "raw_hot": 63787,
+      "num": 129834,
+      "word": "樊振东德甲首秀最快8月31日",
+      "onboard_time": 1751556742,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63769,
       "num": 115553,
       "word": "以方呼吁中方敦促伊朗收敛核计划",
@@ -15528,14 +15560,6 @@
       "word": "女子回应遇2只未拴绳捷克狼犬袭击",
       "onboard_time": 1751131096,
       "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 59792,
-      "num": 329178,
-      "word": "成都东站致歉",
-      "onboard_time": 1751555784,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -17043,6 +17067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 26873,
+      "num": 177072,
+      "word": "陈梦全国青联大会留念",
+      "onboard_time": 1751556503,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26752,
       "num": 36718,
       "word": "湖南卫视开飞机喊你看锦绣芳华",
@@ -17224,14 +17256,6 @@
       "word": "查户籍档案发现母亲被登记成婶婶",
       "onboard_time": 1751282541,
       "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24101,
-      "num": 229519,
-      "word": "多部门介入12岁男孩小区坠井身亡",
-      "onboard_time": 1751556083,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -17451,20 +17475,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 20314,
+      "num": 129819,
+      "word": "成都划船显眼包违法吗",
+      "onboard_time": 1751557343,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20238,
       "num": 31052,
       "word": "特朗普说早知这么危险就不参选总统",
       "onboard_time": 1751136975,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 19990,
-      "num": 108647,
-      "word": "陈梦全国青联大会留念",
-      "onboard_time": 1751556503,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 19898,
@@ -17585,6 +17609,14 @@
       "onboard_time": 1751274562,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 17975,
+      "num": 142067,
+      "word": "央视曝光零基础速成高考志愿规划师",
+      "onboard_time": 1751557284,
+      "rank": 34,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 17557,
@@ -18001,6 +18033,14 @@
       "onboard_time": 1751358563,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 10522,
+      "num": 115329,
+      "word": "江苏一陵园逝者骨灰失踪墓碑被换",
+      "onboard_time": 1751557343,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10401,

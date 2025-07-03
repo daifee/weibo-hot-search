@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1751556525224,
+  "endTime": 1751557412258,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1587,6 +1587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 4866007,
+      "num": 4866007,
+      "word": "罗马仕 倒闭",
+      "onboard_time": 1751554224,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 4846940,
       "num": 1237235,
       "word": "廖慧佳发长文指责李明德",
@@ -1865,14 +1873,6 @@
       "onboard_time": 1744363104,
       "rank": 6,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 4169286,
-      "num": 4169286,
-      "word": "罗马仕 倒闭",
-      "onboard_time": 1751554224,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 4167577,
