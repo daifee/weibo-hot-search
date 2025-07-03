@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751575372069,
+  "endTime": 1751577881047,
   "band_list": [
     {
       "raw_hot": 4866007,
@@ -10355,6 +10355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30777,
+      "num": 36615,
+      "word": "狗狗扑向路过男孩主人冲上去阻止",
+      "onboard_time": 1751574194,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30712,
       "num": 34560,
       "word": "郑钦文今年大满贯战绩",
@@ -10761,14 +10769,6 @@
       "onboard_time": 1751570355,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 20954,
-      "num": 36615,
-      "word": "狗狗扑向路过男孩主人冲上去阻止",
-      "onboard_time": 1751574194,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20908,
@@ -11185,6 +11185,14 @@
       "onboard_time": 1751379864,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 6928,
+      "num": 15948,
+      "word": "夏以昼列车要带我们离开这里",
+      "onboard_time": 1751576714,
+      "rank": 44,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [
