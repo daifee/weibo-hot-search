@@ -1,6 +1,6 @@
 {
   "startTime": 1751473999400,
-  "endTime": 1751535880906,
+  "endTime": 1751538554398,
   "band_list": [
     {
       "raw_hot": 4541277,
@@ -51,6 +51,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1250631,
+      "num": 710686,
+      "word": "内娱也回南天了",
+      "onboard_time": 1751535082,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1238312,
       "num": 1238312,
       "word": "上海交大冲突事件引校门开放之争",
@@ -65,6 +73,14 @@
       "onboard_time": 1751513660,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1157875,
+      "num": 1185260,
+      "word": "风月不相关 停拍",
+      "onboard_time": 1751535441,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 1089295,
@@ -168,6 +184,14 @@
       "word": "女子景区蹦极被推下受伤满脸是血",
       "onboard_time": 1751516423,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 811372,
+      "num": 811372,
+      "word": "成都暴雨",
+      "onboard_time": 1751534783,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -299,14 +323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 526905,
-      "num": 526905,
-      "word": "内娱也回南天了",
-      "onboard_time": 1751535082,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 515684,
       "num": 515684,
       "word": "前女团成员曝行业内幕",
@@ -419,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 395351,
+      "num": 395351,
+      "word": "被骗缅甸模特最后一通电话细节",
+      "onboard_time": 1751535142,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 378507,
       "num": 316099,
       "word": "28岁女子做取环手术致十级伤残",
@@ -491,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 350905,
+      "num": 350905,
+      "word": "杨丞琳越来越像李荣浩了",
+      "onboard_time": 1751533821,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 350132,
       "num": 350132,
       "word": "章子怡赵丽颖酱园弄下有重要戏份",
@@ -505,6 +537,14 @@
       "onboard_time": 1751520381,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 331170,
+      "num": 331170,
+      "word": "俄海军副司令遇袭身亡",
+      "onboard_time": 1751537601,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 325983,
@@ -563,20 +603,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 297170,
-      "num": 337485,
-      "word": "杨丞琳越来越像李荣浩了",
-      "onboard_time": 1751533821,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 296228,
       "num": 296228,
       "word": "20年前的高考成绩可网络查询了",
       "onboard_time": 1751469682,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 294330,
+      "num": 362287,
+      "word": "商务部回应特朗普拟访华报道",
+      "onboard_time": 1751536883,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 293595,
@@ -707,14 +747,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 248053,
-      "num": 248053,
-      "word": "成都暴雨",
-      "onboard_time": 1751534783,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 247467,
       "num": 180917,
       "word": "杨幂吴谨言赵今麦VOGUE红毯图",
@@ -729,14 +761,6 @@
       "onboard_time": 1751513423,
       "rank": 24,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 246101,
-      "num": 262051,
-      "word": "风月不相关 停拍",
-      "onboard_time": 1751535441,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 243769,
@@ -883,6 +907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213736,
+      "num": 213736,
+      "word": "女子带儿子打伤出轨老公后双双被拘",
+      "onboard_time": 1751536162,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 210218,
       "num": 234814,
       "word": "马丽许嵩撞衫",
@@ -923,12 +955,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 205182,
+      "num": 205182,
+      "word": "奔跑吧",
+      "onboard_time": 1751537781,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205058,
       "num": 205058,
       "word": "雷军直播称急用车推荐买小鹏G7",
       "onboard_time": 1751517142,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 203071,
+      "num": 203071,
+      "word": "伪娘阿红",
+      "onboard_time": 1751536883,
+      "rank": 25,
+      "category": "网红"
     },
     {
       "raw_hot": 202874,
@@ -1009,6 +1057,14 @@
       "onboard_time": 1751533641,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191265,
+      "num": 191265,
+      "word": "印军全面排查中国零部件",
+      "onboard_time": 1751535801,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 190560,
@@ -1227,6 +1283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163246,
+      "num": 163246,
+      "word": "1.5L装的东方树叶",
+      "onboard_time": 1751534662,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 162951,
       "num": 162951,
       "word": "日本辟谣7月5日毁灭性大地震",
@@ -1257,6 +1321,14 @@
       "onboard_time": 1751466504,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157302,
+      "num": 157302,
+      "word": "盒马赶海",
+      "onboard_time": 1751536701,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 156045,
@@ -1313,14 +1385,6 @@
       "onboard_time": 1751532981,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 152986,
-      "num": 152986,
-      "word": "1.5L装的东方树叶",
-      "onboard_time": 1751534662,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 152390,
@@ -1435,14 +1499,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 135679,
-      "num": 135679,
-      "word": "印军全面排查中国零部件",
-      "onboard_time": 1751535801,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 135446,
       "num": 135446,
       "word": "孟子义巧克力 时装周",
@@ -1473,6 +1529,14 @@
       "onboard_time": 1751535682,
       "rank": 49,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 132794,
+      "num": 132794,
+      "word": "居民迁户发现凭空多了个女儿",
+      "onboard_time": 1751536701,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132682,
@@ -1523,6 +1587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 129447,
+      "num": 129447,
+      "word": "成都暴雨哗哗哗",
+      "onboard_time": 1751537781,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128989,
       "num": 351270,
       "word": "花漾少女杀人事件冰上特辑",
@@ -1545,6 +1617,14 @@
       "onboard_time": 1751525181,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126155,
+      "num": 126155,
+      "word": "书卷一梦销量TOP1的皮肤",
+      "onboard_time": 1751538320,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 124959,
@@ -1633,6 +1713,14 @@
       "onboard_time": 1751472322,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 118571,
+      "num": 110038,
+      "word": "杨紫李现新剧猫眼登顶",
+      "onboard_time": 1751537601,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 116885,
@@ -1835,6 +1923,14 @@
       "category": "母婴育儿,民生新闻"
     },
     {
+      "raw_hot": 105484,
+      "num": 105484,
+      "word": "甘肃一幼儿园部分幼儿血铅异常",
+      "onboard_time": 1751538382,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104195,
       "num": 104195,
       "word": "以法之名豆瓣开分7.6",
@@ -1857,6 +1953,14 @@
       "onboard_time": 1751506880,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99332,
+      "num": 99332,
+      "word": "利物浦对若塔离世悲痛欲绝",
+      "onboard_time": 1751538261,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 99007,
@@ -1913,6 +2017,14 @@
       "onboard_time": 1751504541,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91851,
+      "num": 91851,
+      "word": "葡萄牙足协发文悼念若塔",
+      "onboard_time": 1751537481,
+      "rank": 49,
+      "category": "体育,民生新闻"
     },
     {
       "raw_hot": 91434,
@@ -1987,6 +2099,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 86385,
+      "num": 309750,
+      "word": "一幼儿园违规用添加剂幼儿血铅异常",
+      "onboard_time": 1751536943,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85664,
       "num": 85664,
       "word": "特斯拉市值一夜大涨3450亿元",
@@ -2052,7 +2172,7 @@
     },
     {
       "raw_hot": 79082,
-      "num": 657414,
+      "num": 725189,
       "word": "3237件文物1525张照片将集中展出",
       "onboard_time": 1751533761,
       "rank": 2,
@@ -2076,7 +2196,7 @@
     },
     {
       "raw_hot": 72757,
-      "num": 306008,
+      "num": 354880,
       "word": "技术创新塑造中国汽车工业硬实力",
       "onboard_time": 1751535562,
       "rank": 18,
@@ -2145,6 +2265,14 @@
       "onboard_time": 1751473160,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 64196,
+      "num": 124447,
+      "word": "诚C打卡粉丝应援墙",
+      "onboard_time": 1751537360,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 62938,
@@ -2305,14 +2433,6 @@
       "onboard_time": 1751499439,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 46627,
-      "num": 381400,
-      "word": "被骗缅甸模特最后一通电话细节",
-      "onboard_time": 1751535142,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 44944,
@@ -2505,6 +2625,14 @@
       "onboard_time": 1751530942,
       "rank": 19,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 25241,
+      "num": 241763,
+      "word": "男子病逝后家人完成遗愿洒下钞票雨",
+      "onboard_time": 1751538081,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 23547,
