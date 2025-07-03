@@ -1,6 +1,6 @@
 {
   "startTime": 1751473999400,
-  "endTime": 1751520585489,
+  "endTime": 1751521640168,
   "band_list": [
     {
       "raw_hot": 1971597,
@@ -27,6 +27,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1116903,
+      "num": 1178704,
+      "word": "最难喝饮料排行榜",
+      "onboard_time": 1751517802,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1089295,
       "num": 1174287,
       "word": "一棵荔枝树上竟结出30种荔枝",
@@ -51,6 +59,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 950759,
+      "num": 950759,
+      "word": "杨紫又出神图了",
+      "onboard_time": 1751519542,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 936636,
       "num": 414745,
       "word": "曝娜扎张云龙近况",
@@ -65,14 +81,6 @@
       "onboard_time": 1751500581,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 874160,
-      "num": 874160,
-      "word": "最难喝饮料排行榜",
-      "onboard_time": 1751517802,
-      "rank": 24,
-      "category": "美食"
     },
     {
       "raw_hot": 871450,
@@ -123,20 +131,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 629801,
-      "num": 629801,
-      "word": "杨紫又出神图了",
-      "onboard_time": 1751519542,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 611275,
       "num": 611275,
       "word": "饮品 咖啡因过量",
       "onboard_time": 1751515882,
       "rank": 5,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 577043,
+      "num": 366396,
+      "word": "于正说再蛐蛐我就把截图放上来",
+      "onboard_time": 1751519984,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 566454,
@@ -232,6 +240,14 @@
       "word": "杭州热到全国第一了",
       "onboard_time": 1751498479,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 395502,
+      "num": 395502,
+      "word": "上海交大冲突事件引校门开放之争",
+      "onboard_time": 1751519602,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -395,14 +411,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 272339,
-      "num": 272339,
-      "word": "于正说再蛐蛐我就把截图放上来",
-      "onboard_time": 1751519984,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 269842,
       "num": 269842,
       "word": "严浩翔安抚黄子韬",
@@ -441,6 +449,22 @@
       "onboard_time": 1751498719,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 251356,
+      "num": 251356,
+      "word": "迪丽热巴金世佳携手打拐",
+      "onboard_time": 1751520562,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 251095,
+      "num": 251095,
+      "word": "感染食脑虫男童家人称已联系到药厂",
+      "onboard_time": 1751519841,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 247467,
@@ -491,12 +515,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 235826,
-      "num": 235826,
-      "word": "上海交大冲突事件引校门开放之争",
-      "onboard_time": 1751519602,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 236596,
+      "num": 236596,
+      "word": "服用紧急避孕药1年内不应超2次",
+      "onboard_time": 1751518461,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 229834,
@@ -571,6 +595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215525,
+      "num": 230805,
+      "word": "日本打工老人",
+      "onboard_time": 1751520081,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 214079,
       "num": 269673,
       "word": "魏哲鸣回应一米七一米八",
@@ -579,12 +611,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211657,
+      "num": 211657,
+      "word": "鹿晗 烟雾散去那一刻",
+      "onboard_time": 1751520381,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 209863,
       "num": 277018,
       "word": "苦果亦是果你俩不白活",
       "onboard_time": 1751517563,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208946,
+      "num": 234814,
+      "word": "马丽许嵩撞衫",
+      "onboard_time": 1751520982,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 207782,
@@ -619,6 +667,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202159,
+      "num": 202159,
+      "word": "迪丽热巴我不是千金大小姐吗",
+      "onboard_time": 1751521223,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 200765,
+      "num": 200765,
+      "word": "美部长称食人族被遣返时自己吃自己",
+      "onboard_time": 1751519422,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 198877,
       "num": 198877,
       "word": "综艺新人录节目翻脸转身就走",
@@ -632,14 +696,6 @@
       "word": "利剑玫瑰央八定档",
       "onboard_time": 1751508559,
       "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 197723,
-      "num": 197723,
-      "word": "迪丽热巴金世佳携手打拐",
-      "onboard_time": 1751520562,
-      "rank": 36,
       "category": "剧集"
     },
     {
@@ -688,14 +744,6 @@
       "word": "马斯克连发数十条帖文",
       "onboard_time": 1751517084,
       "rank": 40,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 187049,
-      "num": 187049,
-      "word": "美部长称食人族被遣返时自己吃自己",
-      "onboard_time": 1751519422,
-      "rank": 38,
       "category": "国际时政"
     },
     {
@@ -755,14 +803,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 171482,
-      "num": 171482,
-      "word": "服用紧急避孕药1年内不应超2次",
-      "onboard_time": 1751518461,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 171265,
       "num": 171265,
       "word": "樊振东的新男团合影",
@@ -771,11 +811,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 171086,
-      "num": 171086,
-      "word": "感染食脑虫男童家人称已联系到药厂",
-      "onboard_time": 1751519841,
-      "rank": 41,
+      "raw_hot": 170830,
+      "num": 170830,
+      "word": "男子幼儿园门口1天虐杀4只猫",
+      "onboard_time": 1751520441,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -835,6 +875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162560,
+      "num": 162560,
+      "word": "女大学生家教被欠薪上门蹲守无果",
+      "onboard_time": 1751521282,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160693,
       "num": 160693,
       "word": "黄圣依孩子用石明鑫主编的数学题",
@@ -883,16 +931,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 150300,
-      "num": 150300,
-      "word": "男子幼儿园门口1天虐杀4只猫",
-      "onboard_time": 1751520441,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 150028,
-      "num": 900502,
+      "raw_hot": 153004,
+      "num": 962403,
       "word": "首个全国高温健康风险预警",
       "onboard_time": 1751517984,
       "rank": 2,
@@ -913,6 +953,14 @@
       "onboard_time": 1751499380,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142886,
+      "num": 142886,
+      "word": "九江中考客观题计分出错",
+      "onboard_time": 1751521223,
+      "rank": 44,
+      "category": "辟谣/通报,教育"
     },
     {
       "raw_hot": 141728,
@@ -985,6 +1033,14 @@
       "onboard_time": 1751471781,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131073,
+      "num": 131073,
+      "word": "这饮料怎么有种又便宜又贵的感觉",
+      "onboard_time": 1751521463,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 130135,
@@ -1139,6 +1195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106195,
+      "num": 366847,
+      "word": "姐姐哽咽还原模特被骗缅甸过程",
+      "onboard_time": 1751520742,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106189,
       "num": 194935,
       "word": "夏天不用开火的减脂餐",
@@ -1161,14 +1225,6 @@
       "onboard_time": 1751506880,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 100190,
-      "num": 230805,
-      "word": "日本打工老人",
-      "onboard_time": 1751520081,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 99007,
@@ -1643,6 +1699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 33144,
+      "num": 348625,
+      "word": "天然溶洞何以变成垃圾洞",
+      "onboard_time": 1751520141,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32607,
       "num": 32607,
       "word": "梓渝新短剧预告",
@@ -1664,6 +1728,14 @@
       "word": "AI修复平型关战斗珍贵历史照片",
       "onboard_time": 1751474539,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30641,
+      "num": 337142,
+      "word": "大使馆将沟通被骗缅甸模特家属",
+      "onboard_time": 1751520742,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -1715,20 +1787,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 17557,
+      "num": 204069,
+      "word": "卖偷拍工具商家教顾客隐藏摄像头",
+      "onboard_time": 1751521342,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17354,
       "num": 35965,
       "word": "老人路上昏迷遇到医学博士急救",
       "onboard_time": 1751480656,
       "rank": 20,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 14586,
-      "num": 348625,
-      "word": "天然溶洞何以变成垃圾洞",
-      "onboard_time": 1751520141,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14512,

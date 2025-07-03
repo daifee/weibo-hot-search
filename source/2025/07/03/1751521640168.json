@@ -1,0 +1,410 @@
+{
+  "runTime": 1751521640168,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1116903,
+        "num": 1178704,
+        "word": "最难喝饮料排行榜",
+        "onboard_time": 1751517802,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1047144,
+        "num": 1047144,
+        "word": "北京出门像被牛舔了一口",
+        "onboard_time": 1751511020,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153004,
+        "num": 962403,
+        "word": "首个全国高温健康风险预警",
+        "onboard_time": 1751517984,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 950759,
+        "num": 950759,
+        "word": "杨紫又出神图了",
+        "onboard_time": 1751519542,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 871893,
+        "num": 871893,
+        "word": "王星女友为被骗缅甸模特发声",
+        "onboard_time": 1751512341,
+        "rank": 4,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 761133,
+        "num": 761133,
+        "word": "九江教育局致歉",
+        "onboard_time": 1751515882,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 705823,
+        "num": 705823,
+        "word": "女子景区蹦极被推下受伤满脸是血",
+        "onboard_time": 1751516423,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 546695,
+        "num": 546695,
+        "word": "饮品 咖啡因过量",
+        "onboard_time": 1751515882,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 395502,
+        "num": 395502,
+        "word": "上海交大冲突事件引校门开放之争",
+        "onboard_time": 1751519602,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106195,
+        "num": 366847,
+        "word": "姐姐哽咽还原模特被骗缅甸过程",
+        "onboard_time": 1751520742,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 582776,
+        "num": 366809,
+        "word": "新说唱导师 脏话",
+        "onboard_time": 1751513660,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 577043,
+        "num": 366396,
+        "word": "于正说再蛐蛐我就把截图放上来",
+        "onboard_time": 1751519984,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362596,
+        "num": 362596,
+        "word": "中国海军山东舰航母编队抵达香港",
+        "onboard_time": 1751502983,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 345854,
+        "num": 345854,
+        "word": "曝娜扎张云龙近况",
+        "onboard_time": 1751499380,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30641,
+        "num": 337142,
+        "word": "大使馆将沟通被骗缅甸模特家属",
+        "onboard_time": 1751520742,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336792,
+        "num": 336792,
+        "word": "公务员考试的所有公式都在这里了",
+        "onboard_time": 1751515223,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 325028,
+        "num": 325028,
+        "word": "男子因好奇上个厕所连续转账14次",
+        "onboard_time": 1751514861,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260478,
+        "num": 260478,
+        "word": "别墅里面唱K",
+        "onboard_time": 1751513542,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 251356,
+        "num": 251356,
+        "word": "迪丽热巴金世佳携手打拐",
+        "onboard_time": 1751520562,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33144,
+        "num": 251110,
+        "word": "天然溶洞何以变成垃圾洞",
+        "onboard_time": 1751520141,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251095,
+        "num": 251095,
+        "word": "感染食脑虫男童家人称已联系到药厂",
+        "onboard_time": 1751519841,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243401,
+        "num": 243401,
+        "word": "徐艺洋回应黄子韬未读乱回",
+        "onboard_time": 1751517743,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236596,
+        "num": 236596,
+        "word": "服用紧急避孕药1年内不应超2次",
+        "onboard_time": 1751518461,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 235058,
+        "num": 235058,
+        "word": "7月财运最旺的星座",
+        "onboard_time": 1751516361,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208946,
+        "num": 234814,
+        "word": "马丽许嵩撞衫",
+        "onboard_time": 1751520982,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234780,
+        "num": 234780,
+        "word": "张云龙知道娜扎有容貌焦虑",
+        "onboard_time": 1751519662,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 229575,
+        "num": 229575,
+        "word": "中日友好医院称要有刮骨疗毒的决心",
+        "onboard_time": 1751517084,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211657,
+        "num": 211657,
+        "word": "鹿晗 烟雾散去那一刻",
+        "onboard_time": 1751520381,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 208559,
+        "num": 208559,
+        "word": "张凌赫王楚然路透爸爸妈妈级别",
+        "onboard_time": 1751518461,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17557,
+        "num": 204069,
+        "word": "卖偷拍工具商家教顾客隐藏摄像头",
+        "onboard_time": 1751521342,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215525,
+        "num": 203143,
+        "word": "日本打工老人",
+        "onboard_time": 1751520081,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 202159,
+        "num": 202159,
+        "word": "迪丽热巴我不是千金大小姐吗",
+        "onboard_time": 1751521223,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200765,
+        "num": 200765,
+        "word": "美部长称食人族被遣返时自己吃自己",
+        "onboard_time": 1751519422,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 187982,
+        "num": 187982,
+        "word": "火箭交易杜兰特",
+        "onboard_time": 1751516361,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184715,
+        "num": 184715,
+        "word": "亮剑等抗战题材经典作品将展播",
+        "onboard_time": 1751511260,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178016,
+        "num": 178016,
+        "word": "鄂州要求编外教师进1个退1个",
+        "onboard_time": 1751518883,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175340,
+        "num": 175340,
+        "word": "男孩提不动书包一查心脏长得像鞋",
+        "onboard_time": 1751518822,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170830,
+        "num": 170830,
+        "word": "男子幼儿园门口1天虐杀4只猫",
+        "onboard_time": 1751520441,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170287,
+        "num": 170287,
+        "word": "综艺新人录节目翻脸转身就走",
+        "onboard_time": 1751518523,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162560,
+        "num": 162560,
+        "word": "女大学生家教被欠薪上门蹲守无果",
+        "onboard_time": 1751521282,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161792,
+        "num": 161792,
+        "word": "28岁女子做取环手术致十级伤残",
+        "onboard_time": 1751504063,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150069,
+        "num": 150069,
+        "word": "一棵荔枝树上竟结出30种荔枝",
+        "onboard_time": 1751506342,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145064,
+        "num": 145064,
+        "word": "三伏天补气血最佳方法是蒸荔枝",
+        "onboard_time": 1751514982,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 107945,
+        "num": 143601,
+        "word": "杨丞琳剪发为新专辑预热",
+        "onboard_time": 1751520322,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 142886,
+        "num": 142886,
+        "word": "九江中考客观题计分出错",
+        "onboard_time": 1751521223,
+        "rank": 44,
+        "category": "辟谣/通报,教育"
+      },
+      {
+        "raw_hot": 131073,
+        "num": 131073,
+        "word": "这饮料怎么有种又便宜又贵的感觉",
+        "onboard_time": 1751521463,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 127757,
+        "num": 127757,
+        "word": "被秦六郎气死",
+        "onboard_time": 1751517442,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126662,
+        "num": 126662,
+        "word": "山东舰10架舰载战斗机列阵",
+        "onboard_time": 1751516782,
+        "rank": 47,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 125320,
+        "num": 125320,
+        "word": "抗战胜利80周年优秀文艺作品",
+        "onboard_time": 1751512762,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 123476,
+        "num": 123476,
+        "word": "我放过的坏人杀了我的亲人",
+        "onboard_time": 1751511080,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#青年的理想信念关乎国家未来#"
+    }
+  }
+}
