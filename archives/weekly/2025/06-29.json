@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751542750666,
+  "endTime": 1751547130840,
   "band_list": [
     {
       "raw_hot": 4541277,
@@ -569,6 +569,14 @@
       "onboard_time": 1751430983,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1094764,
+      "num": 489511,
+      "word": "男孩暴雨中被网约车司机扔半路",
+      "onboard_time": 1751539341,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1092991,
@@ -1979,6 +1987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 557690,
+      "num": 488634,
+      "word": "警方通报初一女生遭多人殴打",
+      "onboard_time": 1751540660,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 554643,
       "num": 442509,
       "word": "孙恩盛 粉丝群圈钱",
@@ -2249,6 +2265,14 @@
       "onboard_time": 1751295622,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 508340,
+      "num": 508340,
+      "word": "成都东站",
+      "onboard_time": 1751544861,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 507781,
@@ -2987,6 +3011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 398557,
+      "num": 286120,
+      "word": "王嘉尔借出收入40%给朋友却遭背刺",
+      "onboard_time": 1751545821,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 397970,
       "num": 251726,
       "word": "赵文卓祝贺女儿高中毕业获最高奖",
@@ -3016,6 +3048,14 @@
       "word": "皓衣行",
       "onboard_time": 1751417781,
       "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 396710,
+      "num": 396710,
+      "word": "风月不相关女主",
+      "onboard_time": 1751541741,
+      "rank": 13,
       "category": "剧集"
     },
     {
@@ -3475,14 +3515,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 337297,
-      "num": 337297,
-      "word": "警方通报初一女生遭多人殴打",
-      "onboard_time": 1751540660,
-      "rank": 9,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 335725,
       "num": 325337,
       "word": "陈垣宇0比4张本智和",
@@ -3931,14 +3963,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 299480,
-      "num": 299480,
-      "word": "男孩暴雨中被网约车司机扔半路",
-      "onboard_time": 1751539341,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 299295,
       "num": 266198,
       "word": "夏天女装 不日常",
@@ -4057,6 +4081,14 @@
       "onboard_time": 1751155578,
       "rank": 13,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 295484,
+      "num": 295484,
+      "word": "李承铉男人的脏是胜利的勋章",
+      "onboard_time": 1751545582,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 295141,
@@ -4275,6 +4307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 283308,
+      "num": 283308,
+      "word": "小鹏G7太香了",
+      "onboard_time": 1751544622,
+      "rank": 11,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 282808,
       "num": 316750,
       "word": "王鹤棣跳九万字好会扭",
@@ -4355,12 +4395,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 274918,
+      "num": 274918,
+      "word": "歌手第八期歌单",
+      "onboard_time": 1751546121,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 273558,
       "num": 226734,
       "word": "李一桐曝女推在土耳其一起洗澡",
       "onboard_time": 1751524641,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 273207,
+      "num": 273207,
+      "word": "日本气象厅发布红色强震警报",
+      "onboard_time": 1751545341,
+      "rank": 13,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 272269,
@@ -4433,6 +4489,14 @@
       "onboard_time": 1751193021,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 268859,
+      "num": 246420,
+      "word": "小鹏G7发布震惊央视朱广权",
+      "onboard_time": 1751546121,
+      "rank": 20,
+      "category": "汽车"
     },
     {
       "raw_hot": 268128,
@@ -4523,6 +4587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 260719,
+      "num": 260719,
+      "word": "李现发了三张杨紫",
+      "onboard_time": 1751546481,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 260296,
       "num": 176621,
       "word": "尤浩然回应小雨变暴雨了",
@@ -4609,6 +4681,14 @@
       "onboard_time": 1751459363,
       "rank": 18,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 255474,
+      "num": 255474,
+      "word": "徐志胜说孟子义是本色出演",
+      "onboard_time": 1751545281,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 255323,
@@ -4731,14 +4811,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 247606,
-      "num": 247606,
-      "word": "风月不相关女主",
-      "onboard_time": 1751541741,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 247467,
       "num": 180917,
       "word": "杨幂吴谨言赵今麦VOGUE红毯图",
@@ -4761,6 +4833,14 @@
       "onboard_time": 1751263461,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 246379,
+      "num": 246379,
+      "word": "日本官方回应南海海槽大地震风险",
+      "onboard_time": 1751544081,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 245403,
@@ -5011,6 +5091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 231277,
+      "num": 231277,
+      "word": "歌手提档七点半播",
+      "onboard_time": 1751543782,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230940,
       "num": 230940,
       "word": "首个宠物本科专业来了",
@@ -5025,6 +5113,14 @@
       "onboard_time": 1751385203,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 230507,
+      "num": 230507,
+      "word": "1.5L装的东方树叶",
+      "onboard_time": 1751534662,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 230075,
@@ -6371,6 +6467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194568,
+      "num": 246441,
+      "word": "刘学义 哥哥人家委屈",
+      "onboard_time": 1751546542,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194534,
       "num": 194534,
       "word": "原来我理想的生活只需要4721元",
@@ -6627,6 +6731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 189933,
+      "num": 189933,
+      "word": "迪丽热巴警服造型又美又飒",
+      "onboard_time": 1751545942,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189860,
       "num": 395600,
       "word": "美消防员扑山火时遭袭",
@@ -6761,14 +6873,6 @@
       "onboard_time": 1751282663,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 187274,
-      "num": 187274,
-      "word": "1.5L装的东方树叶",
-      "onboard_time": 1751534662,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 186863,
@@ -8355,6 +8459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158830,
+      "num": 158830,
+      "word": "Tabe发文道歉",
+      "onboard_time": 1751545582,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 158804,
       "num": 158804,
       "word": "离婚前再干最后一票",
@@ -8705,6 +8817,14 @@
       "onboard_time": 1751203044,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 152818,
+      "num": 152818,
+      "word": "田栩宁新剧男三",
+      "onboard_time": 1751545701,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 152676,
@@ -9939,6 +10059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135991,
+      "num": 135991,
+      "word": "汪苏泷十万伏特2.0巡回演唱会",
+      "onboard_time": 1751544143,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 135818,
       "num": 135818,
       "word": "杨幂人间清冷感",
@@ -10001,6 +10129,14 @@
       "onboard_time": 1751531061,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 135438,
+      "num": 135438,
+      "word": "任嘉伦蓝盈莹主演风与潮杀青特辑",
+      "onboard_time": 1751546542,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 135406,
@@ -10684,7 +10820,7 @@
     },
     {
       "raw_hot": 129447,
-      "num": 129447,
+      "num": 251764,
       "word": "成都暴雨哗哗哗",
       "onboard_time": 1751537781,
       "rank": 37,
@@ -11987,6 +12123,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 114764,
+      "num": 114764,
+      "word": "王欣瑜0比2森梅兹",
+      "onboard_time": 1751545521,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114672,
       "num": 383419,
       "word": "杨紫李现戏里戏外callback",
@@ -12491,6 +12635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109308,
+      "num": 109308,
+      "word": "杨幂白裙红伞",
+      "onboard_time": 1751545762,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109262,
       "num": 109262,
       "word": "雷霆奇才交易",
@@ -12947,6 +13099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 104708,
+      "num": 104708,
+      "word": "白鹿落水可以镜头得要",
+      "onboard_time": 1751543542,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104622,
       "num": 104622,
       "word": "赛里木湖上的黄色泡沫原来是花粉海",
@@ -13025,6 +13185,14 @@
       "onboard_time": 1751419341,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 103462,
+      "num": 103462,
+      "word": "追妻火葬场男宾一位",
+      "onboard_time": 1751546242,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 103385,
@@ -13179,6 +13347,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 100621,
+      "num": 100621,
+      "word": "张凌赫我不许你再演傻子了",
+      "onboard_time": 1751545101,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100586,
       "num": 100586,
       "word": "特朗普政府又威胁哈佛大学",
@@ -13235,6 +13411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99954,
+      "num": 99954,
+      "word": "平台回应司机暴雨中将男孩扔半路",
+      "onboard_time": 1751545402,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99908,
       "num": 136258,
       "word": "刘星一语成谶",
@@ -13289,6 +13473,14 @@
       "onboard_time": 1751499139,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 98984,
+      "num": 98984,
+      "word": "章子怡王俊凯周冬雨坐一起",
+      "onboard_time": 1751547083,
+      "rank": 49,
+      "category": "电影,艺人"
     },
     {
       "raw_hot": 98829,
@@ -15235,6 +15427,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 50196,
+      "num": 119486,
+      "word": "明日方舟粉丝破三百万",
+      "onboard_time": 1751546662,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 49643,
       "num": 48842,
       "word": "iOS26新增实用功能",
@@ -15827,6 +16027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35978,
+      "num": 247981,
+      "word": "解限机steam同时在线13万",
+      "onboard_time": 1751544262,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 35919,
       "num": 141530,
       "word": "远看是柏油路近看是爱情虫",
@@ -16225,6 +16433,14 @@
       "onboard_time": 1751258183,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29574,
+      "num": 492500,
+      "word": "我们一起唱民歌",
+      "onboard_time": 1751544921,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 29536,
@@ -17247,6 +17463,14 @@
       "num": 194867,
       "word": "官方回应村委干部养老保险欠账",
       "onboard_time": 1751276481,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12403,
+      "num": 159247,
+      "word": "饭店直播被指拍穿短装女客人",
+      "onboard_time": 1751546542,
       "rank": 29,
       "category": "民生新闻"
     },
