@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/04 01:26:09
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/04 01:43:51
 </p>
 </blockquote>
 <p>
@@ -1353,6 +1353,12 @@ Oasis（热度：499497）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%86%9F%E7%9D%A1%E8%A2%AB%E7%94%B7%E5%8F%8B%E6%8C%81%E5%88%80%E6%9E%B6%E5%9C%A8%E8%84%96%E5%AD%90%E4%B8%8A%23" target="weibo">
+女子熟睡被男友持刀架在脖子上（热度：422109）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BD%95%E8%BF%99%E4%B9%88%E5%A4%9A%E9%87%91%E5%BA%97%E9%83%BD%E5%A7%93%E5%91%A8%23" target="weibo">
 为何这么多金店都姓周（热度：421368）
 </a>
@@ -1625,12 +1631,6 @@ iPhone发烫怎么办（热度：362578）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232025%E5%B9%B4%E7%9A%84%E4%B8%89%E4%BC%8F%E5%A4%A9%E5%BE%88%E4%B8%8D%E4%B8%80%E6%A0%B7%23" target="weibo">
 2025年的三伏天很不一样（热度：354006）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%86%9F%E7%9D%A1%E8%A2%AB%E7%94%B7%E5%8F%8B%E6%8C%81%E5%88%80%E6%9E%B6%E5%9C%A8%E8%84%96%E5%AD%90%E4%B8%8A%23" target="weibo">
-女子熟睡被男友持刀架在脖子上（热度：353945）
 </a>
 </li>
 
