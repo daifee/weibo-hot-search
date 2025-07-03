@@ -1,6 +1,6 @@
 {
   "startTime": 1751473999400,
-  "endTime": 1751553911018,
+  "endTime": 1751556525224,
   "band_list": [
     {
       "raw_hot": 4541277,
@@ -9,6 +9,14 @@
       "onboard_time": 1751530581,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 4169286,
+      "num": 4169286,
+      "word": "罗马仕 倒闭",
+      "onboard_time": 1751554224,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1971597,
@@ -547,6 +555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 417924,
+      "num": 417924,
+      "word": "印度25岁新娘为嫁55岁舅舅杀夫",
+      "onboard_time": 1751553083,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 414490,
       "num": 414490,
       "word": "13岁女孩邀请网友住家黄金被卖了",
@@ -795,6 +811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 304730,
+      "num": 304730,
+      "word": "金靖走心发言把刘宇宁感动哭了",
+      "onboard_time": 1751553684,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 304116,
       "num": 304116,
       "word": "王一博方公开告黑进展",
@@ -849,6 +873,14 @@
       "onboard_time": 1751549783,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 290822,
+      "num": 290822,
+      "word": "娜扎你也会怀念十八岁的自己吗",
+      "onboard_time": 1751554584,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 290687,
@@ -1035,6 +1067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 243712,
+      "num": 243712,
+      "word": "员工曝罗马仕已通知全面停工停产",
+      "onboard_time": 1751554883,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 242629,
       "num": 242629,
       "word": "伪娘阿红",
@@ -1137,14 +1177,6 @@
       "onboard_time": 1751514561,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 225973,
-      "num": 225973,
-      "word": "印度25岁新娘为嫁55岁舅舅杀夫",
-      "onboard_time": 1751553083,
-      "rank": 20,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 225857,
@@ -1363,12 +1395,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 194689,
-      "num": 194689,
-      "word": "金靖走心发言把刘宇宁感动哭了",
-      "onboard_time": 1751553684,
+      "raw_hot": 195567,
+      "num": 195567,
+      "word": "罗马仕",
+      "onboard_time": 1751555304,
+      "rank": 22,
+      "category": "民生新闻,数码"
+    },
+    {
+      "raw_hot": 194622,
+      "num": 194622,
+      "word": "扫毒风暴",
+      "onboard_time": 1751554402,
       "rank": 23,
-      "category": "综艺"
+      "category": "剧集"
     },
     {
       "raw_hot": 194585,
@@ -1523,6 +1563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182806,
+      "num": 182806,
+      "word": "一种巨掉好感的行为",
+      "onboard_time": 1751550864,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 182581,
       "num": 182581,
       "word": "三伏天补气血最佳方法是蒸荔枝",
@@ -1545,6 +1593,14 @@
       "onboard_time": 1751533700,
       "rank": 33,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 179539,
+      "num": 179539,
+      "word": "穿正装的胡先煦把我硬控了",
+      "onboard_time": 1751555724,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 179407,
@@ -1609,6 +1665,14 @@
       "onboard_time": 1751540182,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173541,
+      "num": 173541,
+      "word": "邓超最害怕的女生",
+      "onboard_time": 1751555243,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 173161,
@@ -1707,6 +1771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163093,
+      "num": 163093,
+      "word": "李一桐叫刘宇宁大明星",
+      "onboard_time": 1751555903,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162951,
       "num": 162951,
       "word": "日本辟谣7月5日毁灭性大地震",
@@ -1737,14 +1809,6 @@
       "onboard_time": 1751551043,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 162348,
-      "num": 162348,
-      "word": "一种巨掉好感的行为",
-      "onboard_time": 1751550864,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 160693,
@@ -1795,6 +1859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155051,
+      "num": 155051,
+      "word": "相亲次日就领证后发现女方隐瞒病情",
+      "onboard_time": 1751554282,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154991,
       "num": 154991,
       "word": "雷军称纽北广告牌空出来一个抢一个",
@@ -1809,6 +1881,14 @@
       "onboard_time": 1751468603,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154602,
+      "num": 154602,
+      "word": "何润东头发白了",
+      "onboard_time": 1751556204,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 154155,
@@ -1883,6 +1963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148419,
+      "num": 148419,
+      "word": "单依纯超稳内核",
+      "onboard_time": 1751556083,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147599,
       "num": 147599,
       "word": "赵美延你还回去当爱豆吗",
@@ -1915,6 +2003,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144578,
+      "num": 247280,
+      "word": "费大厨招服务员写本科以下勿扰",
+      "onboard_time": 1751555484,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144258,
+      "num": 144258,
+      "word": "谁懂约定配宋祖儿新剧大婚的含金量",
+      "onboard_time": 1751554584,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142886,
       "num": 142886,
       "word": "九江中考客观题计分出错",
@@ -1937,6 +2041,22 @@
       "onboard_time": 1751514502,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140824,
+      "num": 140824,
+      "word": "退烧药引发男童全身90%皮肤剥脱",
+      "onboard_time": 1751553984,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139437,
+      "num": 149972,
+      "word": "感染食脑虫女童进ICU10天未明显好转",
+      "onboard_time": 1751550143,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139078,
@@ -2027,14 +2147,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 134855,
-      "num": 149972,
-      "word": "感染食脑虫女童进ICU10天未明显好转",
-      "onboard_time": 1751550143,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 134793,
       "num": 134793,
       "word": "优酷爆剧三大赛道全面开花",
@@ -2057,6 +2169,14 @@
       "onboard_time": 1751535682,
       "rank": 49,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 133426,
+      "num": 891983,
+      "word": "首批7000多名救援人员撤离榕江",
+      "onboard_time": 1751553803,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 132794,
@@ -2129,6 +2249,14 @@
       "onboard_time": 1751516483,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 128601,
+      "num": 128601,
+      "word": "刘学义的喉结孟子义的青筋",
+      "onboard_time": 1751554883,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 128579,
@@ -2585,6 +2713,14 @@
       "onboard_time": 1751545402,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102388,
+      "num": 102388,
+      "word": "虞书欣wakuku塑",
+      "onboard_time": 1751555063,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 102188,
@@ -3059,6 +3195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59792,
+      "num": 329178,
+      "word": "成都东站致歉",
+      "onboard_time": 1751555784,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59634,
       "num": 59634,
       "word": "9平米的房住出了90平方的感觉",
@@ -3371,6 +3515,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 24101,
+      "num": 229519,
+      "word": "多部门介入12岁男孩小区坠井身亡",
+      "onboard_time": 1751556083,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24014,
       "num": 228149,
       "word": "成都部分街道积水已至膝盖",
@@ -3411,20 +3563,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 19990,
+      "num": 108647,
+      "word": "陈梦全国青联大会留念",
+      "onboard_time": 1751556503,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 18930,
       "num": 20585,
       "word": "袁一琦演唱会见面准备过程",
       "onboard_time": 1751479936,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 18233,
-      "num": 891983,
-      "word": "首批7000多名救援人员撤离榕江",
-      "onboard_time": 1751553803,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 18198,

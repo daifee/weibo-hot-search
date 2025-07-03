@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1751553911018,
+  "endTime": 1751556525224,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1867,6 +1867,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 4169286,
+      "num": 4169286,
+      "word": "罗马仕 倒闭",
+      "onboard_time": 1751554224,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 4167577,
       "num": 4167577,
       "word": "折腰今日开播",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1744252162,
       "rank": 7,
       "category": "数码"
-    },
-    {
-      "raw_hot": 3564801,
-      "num": 1831631,
-      "word": "马嘉祺淘汰",
-      "onboard_time": 1750429826,
-      "rank": 5,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
