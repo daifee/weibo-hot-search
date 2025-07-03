@@ -1,0 +1,410 @@
+{
+  "runTime": 1751542750666,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 954759,
+        "num": 1152761,
+        "word": "成都暴雨",
+        "onboard_time": 1751534783,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 839017,
+        "num": 839017,
+        "word": "27岁女子放疗出院3天突遭车祸身亡",
+        "onboard_time": 1751539041,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45167,
+        "num": 836807,
+        "word": "3237件文物1525张照片将集中展出",
+        "onboard_time": 1751533761,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 835505,
+        "num": 835505,
+        "word": "周柯宇 顶级过肺",
+        "onboard_time": 1751540301,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 695787,
+        "num": 695787,
+        "word": "印度10年造出死亡折角立交桥",
+        "onboard_time": 1751540003,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 523191,
+        "num": 523191,
+        "word": "奔跑吧",
+        "onboard_time": 1751537781,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 477470,
+        "num": 477470,
+        "word": "俄海军副司令遇袭身亡",
+        "onboard_time": 1751537601,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 351044,
+        "num": 351044,
+        "word": "利物浦前锋若塔去世",
+        "onboard_time": 1751530581,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 337297,
+        "num": 337297,
+        "word": "警方通报初一女生遭多人殴打",
+        "onboard_time": 1751540660,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 32073,
+        "num": 330184,
+        "word": "日本鹿儿岛地区强震并火山喷发",
+        "onboard_time": 1751542281,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 330098,
+        "num": 330098,
+        "word": "身份证加水印",
+        "onboard_time": 1751525661,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 299480,
+        "num": 299480,
+        "word": "男孩暴雨中被网约车司机扔半路",
+        "onboard_time": 1751539341,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262062,
+        "num": 262062,
+        "word": "男子病逝后家人完成遗愿洒下钞票雨",
+        "onboard_time": 1751538081,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 247606,
+        "num": 247606,
+        "word": "风月不相关女主",
+        "onboard_time": 1751541741,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220682,
+        "num": 244986,
+        "word": "颖儿胆结石疼到喊救护车送医",
+        "onboard_time": 1751539640,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216318,
+        "num": 243994,
+        "word": "aespa后台自拍",
+        "onboard_time": 1751541081,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243955,
+        "num": 243955,
+        "word": "暑假新顶流",
+        "onboard_time": 1751525241,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77637,
+        "num": 230277,
+        "word": "解限机硬核机甲爽翻了",
+        "onboard_time": 1751541921,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184154,
+        "num": 228439,
+        "word": "藏海传认证微博爆款剧集",
+        "onboard_time": 1751542401,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69396,
+        "num": 227311,
+        "word": "武功山官微发吊带女孩福利被质疑",
+        "onboard_time": 1751541682,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226613,
+        "num": 226613,
+        "word": "女子带儿子打伤出轨老公后双双被拘",
+        "onboard_time": 1751536162,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198673,
+        "num": 198673,
+        "word": "日本末日预言",
+        "onboard_time": 1751526082,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 186775,
+        "num": 186775,
+        "word": "刘学义孟子义终于线下合体了",
+        "onboard_time": 1751541381,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180928,
+        "num": 180928,
+        "word": "若塔因车祸去世",
+        "onboard_time": 1751530641,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171297,
+        "num": 171297,
+        "word": "1.5L装的东方树叶",
+        "onboard_time": 1751534662,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164418,
+        "num": 164418,
+        "word": "赞多 退赛",
+        "onboard_time": 1751529021,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158804,
+        "num": 158804,
+        "word": "离婚前再干最后一票",
+        "onboard_time": 1751541741,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151401,
+        "num": 151401,
+        "word": "北京出门像被牛舔了一口",
+        "onboard_time": 1751511020,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146581,
+        "num": 146581,
+        "word": "火车突发事故停车断电乘客砸窗通风",
+        "onboard_time": 1751523742,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144110,
+        "num": 144110,
+        "word": "iPhone发烫怎么办",
+        "onboard_time": 1751531420,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 142750,
+        "num": 142750,
+        "word": "C罗悼念队友若塔",
+        "onboard_time": 1751540182,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142407,
+        "num": 142407,
+        "word": "田栩宁进组新剧",
+        "onboard_time": 1751533520,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137872,
+        "num": 137872,
+        "word": "关晓彤晒减脂餐",
+        "onboard_time": 1751527943,
+        "rank": 32,
+        "category": "艺人,运动健身"
+      },
+      {
+        "raw_hot": 125770,
+        "num": 125770,
+        "word": "王欣瑜vs森梅兹",
+        "onboard_time": 1751539282,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124854,
+        "num": 124854,
+        "word": "该解决列车因故障停运的通风问题了",
+        "onboard_time": 1751540481,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121084,
+        "num": 121084,
+        "word": "万妮达 好想录忙忙碌碌",
+        "onboard_time": 1751538802,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120784,
+        "num": 120784,
+        "word": "肖战藏海传灯塔逆跌",
+        "onboard_time": 1751538743,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111102,
+        "num": 111102,
+        "word": "cp32",
+        "onboard_time": 1751541440,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 107231,
+        "num": 107231,
+        "word": "马思纯欧豪 人神殊途",
+        "onboard_time": 1751527162,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104225,
+        "num": 104225,
+        "word": "印军全面排查中国零部件",
+        "onboard_time": 1751535801,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103891,
+        "num": 103891,
+        "word": "居民迁户发现凭空多了个女儿",
+        "onboard_time": 1751536701,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102188,
+        "num": 102188,
+        "word": "谁坐B座都不乐意",
+        "onboard_time": 1751542041,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100363,
+        "num": 100363,
+        "word": "宋亚轩不要瞎跑",
+        "onboard_time": 1751533700,
+        "rank": 42,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 98091,
+        "num": 98091,
+        "word": "上海交大冲突事件引校门开放之争",
+        "onboard_time": 1751519602,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96074,
+        "num": 96074,
+        "word": "锦绣芳华",
+        "onboard_time": 1751540062,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92696,
+        "num": 92696,
+        "word": "女艺人白玉兰陪跑的高情商发言",
+        "onboard_time": 1751523021,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89457,
+        "num": 89457,
+        "word": "最难喝饮料排行榜",
+        "onboard_time": 1751517802,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 88418,
+        "num": 88418,
+        "word": "若塔11天前刚举办婚礼",
+        "onboard_time": 1751534362,
+        "rank": 47,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 82818,
+        "num": 82818,
+        "word": "谁懂衬衣解开三颗纽扣的杀伤力",
+        "onboard_time": 1751539940,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 75986,
+        "num": 75986,
+        "word": "商务部回应特朗普拟访华报道",
+        "onboard_time": 1751536883,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国青年大有可为#"
+    }
+  }
+}

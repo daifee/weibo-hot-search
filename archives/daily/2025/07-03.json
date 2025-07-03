@@ -1,6 +1,6 @@
 {
   "startTime": 1751473999400,
-  "endTime": 1751541824812,
+  "endTime": 1751542750666,
   "band_list": [
     {
       "raw_hot": 4541277,
@@ -203,8 +203,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 784842,
-      "num": 784842,
+      "raw_hot": 835505,
+      "num": 835505,
       "word": "周柯宇 顶级过肺",
       "onboard_time": 1751540301,
       "rank": 3,
@@ -249,6 +249,14 @@
       "onboard_time": 1751537601,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 695787,
+      "num": 695787,
+      "word": "印度10年造出死亡折角立交桥",
+      "onboard_time": 1751540003,
+      "rank": 4,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 690458,
@@ -297,14 +305,6 @@
       "onboard_time": 1751498839,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 629171,
-      "num": 629171,
-      "word": "印度10年造出死亡折角立交桥",
-      "onboard_time": 1751540003,
-      "rank": 4,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 617383,
@@ -361,6 +361,14 @@
       "onboard_time": 1751469023,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 523191,
+      "num": 523191,
+      "word": "奔跑吧",
+      "onboard_time": 1751537781,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 514569,
@@ -449,14 +457,6 @@
       "onboard_time": 1751519841,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 427249,
-      "num": 427249,
-      "word": "奔跑吧",
-      "onboard_time": 1751537781,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 423818,
@@ -579,6 +579,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 337297,
+      "num": 337297,
+      "word": "警方通报初一女生遭多人殴打",
+      "onboard_time": 1751540660,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 325983,
       "num": 325983,
       "word": "美解除对华芯片设计软件出口管制",
@@ -632,6 +640,14 @@
       "word": "精心设计的婚礼布景竟变成短剧素材",
       "onboard_time": 1751469923,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 299480,
+      "num": 299480,
+      "word": "男孩暴雨中被网约车司机扔半路",
+      "onboard_time": 1751539341,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -771,14 +787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 257077,
-      "num": 333246,
-      "word": "警方通报初一女生遭多人殴打",
-      "onboard_time": 1751540660,
-      "rank": 9,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 253794,
       "num": 253794,
       "word": "刘宇宁婉拒了哈",
@@ -793,6 +801,14 @@
       "onboard_time": 1751498719,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 247606,
+      "num": 247606,
+      "word": "风月不相关女主",
+      "onboard_time": 1751541741,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 247467,
@@ -883,6 +899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 226613,
+      "num": 226613,
+      "word": "女子带儿子打伤出轨老公后双双被拘",
+      "onboard_time": 1751536162,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 225988,
       "num": 225988,
       "word": "樱桃琥珀 暂定7月14日",
@@ -923,12 +947,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 222329,
-      "num": 222329,
-      "word": "女子带儿子打伤出轨老公后双双被拘",
-      "onboard_time": 1751536162,
-      "rank": 23,
-      "category": "民生新闻"
+      "raw_hot": 220682,
+      "num": 244986,
+      "word": "颖儿胆结石疼到喊救护车送医",
+      "onboard_time": 1751539640,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 220640,
@@ -961,6 +985,14 @@
       "onboard_time": 1751518883,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216318,
+      "num": 243994,
+      "word": "aespa后台自拍",
+      "onboard_time": 1751541081,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 216114,
@@ -1035,14 +1067,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 204236,
-      "num": 211153,
-      "word": "aespa后台自拍",
-      "onboard_time": 1751541081,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 202874,
       "num": 360721,
       "word": "被秦六郎气死",
@@ -1057,14 +1081,6 @@
       "onboard_time": 1751519422,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 199371,
-      "num": 210506,
-      "word": "颖儿胆结石疼到喊救护车送医",
-      "onboard_time": 1751539640,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 198877,
@@ -1203,6 +1219,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 186775,
+      "num": 186775,
+      "word": "刘学义孟子义终于线下合体了",
+      "onboard_time": 1751541381,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 184154,
+      "num": 228439,
+      "word": "藏海传认证微博爆款剧集",
+      "onboard_time": 1751542401,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182581,
       "num": 182581,
       "word": "三伏天补气血最佳方法是蒸荔枝",
@@ -1275,14 +1307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 176137,
-      "num": 176137,
-      "word": "刘学义孟子义终于线下合体了",
-      "onboard_time": 1751541381,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 175733,
       "num": 175733,
       "word": "和平精英",
@@ -1297,14 +1321,6 @@
       "onboard_time": 1751540182,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 173582,
-      "num": 182216,
-      "word": "男孩暴雨中被网约车司机扔半路",
-      "onboard_time": 1751539341,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 173161,
@@ -1425,6 +1441,14 @@
       "onboard_time": 1751466504,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158804,
+      "num": 158804,
+      "word": "离婚前再干最后一票",
+      "onboard_time": 1751541741,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 156045,
@@ -1753,6 +1777,14 @@
       "onboard_time": 1751522300,
       "rank": 44,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 124854,
+      "num": 212523,
+      "word": "该解决列车因故障停运的通风问题了",
+      "onboard_time": 1751540481,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124394,
@@ -2107,6 +2139,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 102188,
+      "num": 102188,
+      "word": "谁坐B座都不乐意",
+      "onboard_time": 1751542041,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101288,
       "num": 175347,
       "word": "货物列车冲突致K1373次列车脱线",
@@ -2323,6 +2363,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 77637,
+      "num": 230277,
+      "word": "解限机硬核机甲爽翻了",
+      "onboard_time": 1751541921,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 76239,
       "num": 76239,
       "word": "韩安冉禁止路人拍优米",
@@ -2377,6 +2425,14 @@
       "onboard_time": 1751462842,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 69396,
+      "num": 227311,
+      "word": "武功山官微发吊带女孩福利被质疑",
+      "onboard_time": 1751541682,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67917,
@@ -2587,14 +2643,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 47112,
-      "num": 212523,
-      "word": "该解决列车因故障停运的通风问题了",
-      "onboard_time": 1751540481,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 44944,
       "num": 44944,
       "word": "一直在干有利于脊柱侧弯的事",
@@ -2731,6 +2779,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 32073,
+      "num": 330184,
+      "word": "日本鹿儿岛地区强震并火山喷发",
+      "onboard_time": 1751542281,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 31161,
       "num": 185461,
       "word": "AI修复平型关战斗珍贵历史照片",
@@ -2793,14 +2849,6 @@
       "onboard_time": 1751530942,
       "rank": 19,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 23549,
-      "num": 131948,
-      "word": "武功山官微发吊带女孩福利被质疑",
-      "onboard_time": 1751541682,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23547,
