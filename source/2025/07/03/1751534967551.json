@@ -1,0 +1,410 @@
+{
+  "runTime": 1751534967551,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2133976,
+        "num": 2133976,
+        "word": "利物浦前锋若塔去世",
+        "onboard_time": 1751530581,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 713616,
+        "num": 713616,
+        "word": "身份证加水印",
+        "onboard_time": 1751525661,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 59947,
+        "num": 621405,
+        "word": "3237件文物1525张照片将集中展出",
+        "onboard_time": 1751533761,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 591640,
+        "num": 591640,
+        "word": "K1373次列车上砸窗男子并未被拘留",
+        "onboard_time": 1751533282,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 502991,
+        "num": 502991,
+        "word": "若塔因车祸去世",
+        "onboard_time": 1751530641,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1300770,
+        "num": 499258,
+        "word": "森碟下巴后缩改善明显",
+        "onboard_time": 1751529382,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 474673,
+        "num": 474673,
+        "word": "日本末日预言",
+        "onboard_time": 1751526082,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 458626,
+        "num": 458626,
+        "word": "前女团成员曝行业内幕",
+        "onboard_time": 1751532681,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 434400,
+        "num": 434400,
+        "word": "赞多 退赛",
+        "onboard_time": 1751529021,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 434112,
+        "num": 434112,
+        "word": "田栩宁进组新剧",
+        "onboard_time": 1751533520,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1012731,
+        "num": 425808,
+        "word": "古力娜扎 张云龙",
+        "onboard_time": 1751531482,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 630974,
+        "num": 407343,
+        "word": "暑假新顶流",
+        "onboard_time": 1751525241,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 530890,
+        "num": 388876,
+        "word": "关晓彤晒减脂餐",
+        "onboard_time": 1751527943,
+        "rank": 12,
+        "category": "艺人,运动健身"
+      },
+      {
+        "raw_hot": 37977,
+        "num": 379859,
+        "word": "北京拟加强个人二房东监管",
+        "onboard_time": 1751533340,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87130,
+        "num": 363300,
+        "word": "火车突发停车乘客砸窗通风无需担责",
+        "onboard_time": 1751533461,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 358459,
+        "num": 358459,
+        "word": "北京出门像被牛舔了一口",
+        "onboard_time": 1751511020,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 346093,
+        "num": 346093,
+        "word": "iPhone发烫怎么办",
+        "onboard_time": 1751531420,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 266200,
+        "num": 343842,
+        "word": "迪丽热巴穿这么美的造型摔跤",
+        "onboard_time": 1751531601,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245440,
+        "num": 337485,
+        "word": "杨丞琳越来越像李荣浩了",
+        "onboard_time": 1751533821,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22103,
+        "num": 331421,
+        "word": "男子在独库公路压线逆行还口出狂言",
+        "onboard_time": 1751534483,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 409505,
+        "num": 330972,
+        "word": "上海交大冲突事件引校门开放之争",
+        "onboard_time": 1751519602,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 325983,
+        "num": 325983,
+        "word": "美解除对华芯片设计软件出口管制",
+        "onboard_time": 1751529742,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 319985,
+        "num": 319985,
+        "word": "马思纯欧豪 人神殊途",
+        "onboard_time": 1751527162,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297968,
+        "num": 297968,
+        "word": "火车突发事故停车断电乘客砸窗通风",
+        "onboard_time": 1751523742,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270721,
+        "num": 270721,
+        "word": "詹俊发文悼念若塔",
+        "onboard_time": 1751532621,
+        "rank": 24,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 263260,
+        "num": 263260,
+        "word": "若塔11天前刚举办婚礼",
+        "onboard_time": 1751534362,
+        "rank": 25,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 228147,
+        "num": 228147,
+        "word": "风月不相关",
+        "onboard_time": 1751532741,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208178,
+        "num": 208178,
+        "word": "女大学生家教被欠薪上门蹲守无果",
+        "onboard_time": 1751521282,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191585,
+        "num": 191585,
+        "word": "妻子收房李人骏破防",
+        "onboard_time": 1751533641,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167501,
+        "num": 182450,
+        "word": "周杰伦昆凌大女儿迪士尼庆生",
+        "onboard_time": 1751534542,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192265,
+        "num": 182188,
+        "word": "女艺人白玉兰陪跑的高情商发言",
+        "onboard_time": 1751523021,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181656,
+        "num": 181656,
+        "word": "官方回应火车突发停车乘客砸窗通风",
+        "onboard_time": 1751523682,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180460,
+        "num": 180460,
+        "word": "最难喝饮料排行榜",
+        "onboard_time": 1751517802,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 167269,
+        "num": 167269,
+        "word": "宋亚轩不要瞎跑",
+        "onboard_time": 1751533700,
+        "rank": 33,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 164354,
+        "num": 164354,
+        "word": "田栩宁的这数据真的太顶了",
+        "onboard_time": 1751533581,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155463,
+        "num": 155463,
+        "word": "于正说再蛐蛐我就把截图放上来",
+        "onboard_time": 1751519984,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153519,
+        "num": 153519,
+        "word": "我敢点你真的敢死吗",
+        "onboard_time": 1751532981,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152390,
+        "num": 152390,
+        "word": "王楚然好优雅的民国千金",
+        "onboard_time": 1751534001,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32064,
+        "num": 150762,
+        "word": "批评式表扬",
+        "onboard_time": 1751533821,
+        "rank": 38,
+        "category": "母婴育儿,民生新闻"
+      },
+      {
+        "raw_hot": 149219,
+        "num": 149219,
+        "word": "杨紫又出神图了",
+        "onboard_time": 1751519542,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144567,
+        "num": 144567,
+        "word": "成都暴雨",
+        "onboard_time": 1751534783,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140548,
+        "num": 140548,
+        "word": "北京 湿度100%",
+        "onboard_time": 1751529861,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123818,
+        "num": 123818,
+        "word": "若塔最后一条动态是婚礼纪录片",
+        "onboard_time": 1751534420,
+        "rank": 42,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 118686,
+        "num": 118686,
+        "word": "新说唱导师 脏话",
+        "onboard_time": 1751513660,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117758,
+        "num": 117758,
+        "word": "鹿晗 烟雾散去那一刻",
+        "onboard_time": 1751520381,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 111462,
+        "num": 111462,
+        "word": "淘宝闪购免单",
+        "onboard_time": 1751527583,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 110908,
+        "num": 110908,
+        "word": "迪丽热巴我不是千金大小姐吗",
+        "onboard_time": 1751521223,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109800,
+        "num": 109800,
+        "word": "1.5L装的东方树叶",
+        "onboard_time": 1751534662,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108407,
+        "num": 108407,
+        "word": "电瓶车断两截自嘲当事人称不要赔偿",
+        "onboard_time": 1751533282,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105926,
+        "num": 105926,
+        "word": "杨丞琳李荣浩新发色是哪吒敖丙",
+        "onboard_time": 1751532440,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国青年大有可为#"
+    }
+  }
+}
