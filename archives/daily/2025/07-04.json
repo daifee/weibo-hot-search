@@ -1,6 +1,6 @@
 {
   "startTime": 1751560391149,
-  "endTime": 1751574516052,
+  "endTime": 1751575372069,
   "band_list": [
     {
       "raw_hot": 2967815,
@@ -507,7 +507,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 27618,
+      "raw_hot": 28218,
       "num": 41326,
       "word": "C罗来南京奥体都没这阵仗",
       "onboard_time": 1751570535,
@@ -547,20 +547,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 19349,
-      "num": 19349,
-      "word": "美国6月非农就业人数增加14.7万人",
-      "onboard_time": 1751564716,
-      "rank": 26,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 15965,
-      "num": 19420,
+      "raw_hot": 20954,
+      "num": 36615,
       "word": "狗狗扑向路过男孩主人冲上去阻止",
       "onboard_time": 1751574194,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20313,
+      "num": 20313,
+      "word": "美国6月非农就业人数增加14.7万人",
+      "onboard_time": 1751564716,
+      "rank": 26,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 11238,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1751575372069,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 133153,
+        "num": 133153,
+        "word": "女子熟睡被男友持刀架在脖子上",
+        "onboard_time": 1751560878,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62723,
+        "num": 62723,
+        "word": "毕业6年存130万小伙每月吃饭500元",
+        "onboard_time": 1751558480,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14899,
+        "num": 56247,
+        "word": "首批7000多名救援人员撤离榕江",
+        "onboard_time": 1751553803,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 51875,
+        "num": 51875,
+        "word": "日本气象厅发布红色强震警报",
+        "onboard_time": 1751545341,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 42579,
+        "num": 42579,
+        "word": "女歌手每天喝4杯奶茶导致失声",
+        "onboard_time": 1751550082,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202048,
+        "num": 41907,
+        "word": "罗马仕 倒闭",
+        "onboard_time": 1751554224,
+        "rank": 5,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 41044,
+        "num": 41044,
+        "word": "成都东站致歉",
+        "onboard_time": 1751555784,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29679,
+        "num": 40195,
+        "word": "王嘉尔借出收入40%给朋友却遭背刺",
+        "onboard_time": 1751545821,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24711,
+        "num": 38017,
+        "word": "娜扎你也会怀念十八岁的自己吗",
+        "onboard_time": 1751554584,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20954,
+        "num": 36615,
+        "word": "狗狗扑向路过男孩主人冲上去阻止",
+        "onboard_time": 1751574194,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123851,
+        "num": 33325,
+        "word": "亚洲生育率最高的国家",
+        "onboard_time": 1751558361,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 101814,
+        "num": 31853,
+        "word": "25岁杀夫新娘和舅舅有15年非法关系",
+        "onboard_time": 1751557701,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 31144,
+        "num": 31144,
+        "word": "相亲次日就领证后发现女方隐瞒病情",
+        "onboard_time": 1751554282,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29030,
+        "num": 29030,
+        "word": "亲生母亲8万多元卖掉自己的两个孩子",
+        "onboard_time": 1751550384,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28218,
+        "num": 28218,
+        "word": "C罗来南京奥体都没这阵仗",
+        "onboard_time": 1751570535,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26047,
+        "num": 26047,
+        "word": "一种巨掉好感的行为",
+        "onboard_time": 1751550864,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25338,
+        "num": 25338,
+        "word": "罗马仕辟谣倒闭",
+        "onboard_time": 1751558842,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21245,
+        "num": 24601,
+        "word": "李现发了三张杨紫",
+        "onboard_time": 1751546481,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20012,
+        "num": 24128,
+        "word": "杨幂在电影节开幕式的自我介绍",
+        "onboard_time": 1751559142,
+        "rank": 18,
+        "category": "电影,艺人"
+      },
+      {
+        "raw_hot": 17551,
+        "num": 24073,
+        "word": "易烊千玺广州",
+        "onboard_time": 1751551163,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 24057,
+        "num": 24057,
+        "word": "印度10年造出死亡折角立交桥",
+        "onboard_time": 1751540003,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 23336,
+        "num": 23336,
+        "word": "印度25岁新娘为嫁55岁舅舅杀夫",
+        "onboard_time": 1751553083,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 22768,
+        "num": 22768,
+        "word": "纸嫁衣",
+        "onboard_time": 1751548583,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 22454,
+        "num": 22454,
+        "word": "淘宝客服回应罗马仕余额不足",
+        "onboard_time": 1751563097,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22318,
+        "num": 22318,
+        "word": "费大厨招服务员写本科以下勿扰",
+        "onboard_time": 1751555484,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21820,
+        "num": 21820,
+        "word": "13岁女孩邀请网友住家黄金被卖了",
+        "onboard_time": 1751549362,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20782,
+        "num": 20782,
+        "word": "多部门介入12岁男孩小区坠井身亡",
+        "onboard_time": 1751556083,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20693,
+        "num": 20693,
+        "word": "利物浦前锋若塔去世",
+        "onboard_time": 1751530581,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18800,
+        "num": 20620,
+        "word": "何润东头发白了",
+        "onboard_time": 1751556204,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16114,
+        "num": 20575,
+        "word": "邓超最害怕的女生",
+        "onboard_time": 1751555243,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21566,
+        "num": 20575,
+        "word": "babycare纸尿裤发现黑色尖状异物",
+        "onboard_time": 1751551343,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20569,
+        "num": 20569,
+        "word": "成都划船显眼包违法吗",
+        "onboard_time": 1751557343,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20313,
+        "num": 20313,
+        "word": "美国6月非农就业人数增加14.7万人",
+        "onboard_time": 1751564716,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 19885,
+        "num": 19885,
+        "word": "王一博方公开告黑进展",
+        "onboard_time": 1751552064,
+        "rank": 33,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 19737,
+        "num": 19737,
+        "word": "费大厨门店回应招服务员要求本科",
+        "onboard_time": 1751561359,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19735,
+        "num": 19735,
+        "word": "吴所畏在韩国叫什么",
+        "onboard_time": 1751547143,
+        "rank": 35,
+        "category": "幽默,剧集"
+      },
+      {
+        "raw_hot": 19636,
+        "num": 19636,
+        "word": "退烧药引发男童全身90%皮肤剥脱",
+        "onboard_time": 1751553984,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19607,
+        "num": 19607,
+        "word": "有五险一金的外卖岗位真香",
+        "onboard_time": 1751561298,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19046,
+        "num": 19046,
+        "word": "MKOI对战BLG",
+        "onboard_time": 1751570355,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 13424,
+        "num": 18746,
+        "word": "田栩宁新剧男三",
+        "onboard_time": 1751545701,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13029,
+        "num": 18687,
+        "word": "金靖走心发言把刘宇宁感动哭了",
+        "onboard_time": 1751553684,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18663,
+        "num": 18663,
+        "word": "罗马仕",
+        "onboard_time": 1751555304,
+        "rank": 41,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 18293,
+        "num": 18293,
+        "word": "成都东站回应暴雨致列车晚点",
+        "onboard_time": 1751551642,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18028,
+        "num": 18028,
+        "word": "员工曝罗马仕已通知全面停工停产",
+        "onboard_time": 1751554883,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18020,
+        "num": 18020,
+        "word": "俄海军副司令遇袭身亡",
+        "onboard_time": 1751537601,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17387,
+        "num": 17387,
+        "word": "江苏一陵园逝者骨灰失踪墓碑被换",
+        "onboard_time": 1751557343,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16057,
+        "num": 16057,
+        "word": "绘旅人联动第五人格",
+        "onboard_time": 1751561718,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 15559,
+        "num": 15559,
+        "word": "蛋仔派对回应异常",
+        "onboard_time": 1751564357,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 15302,
+        "num": 15302,
+        "word": "外交部回应美越达成贸易协议",
+        "onboard_time": 1751568375,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 12412,
+        "num": 15301,
+        "word": "奔跑吧提档七点半播",
+        "onboard_time": 1751548943,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋力书写挺膺担当的青春篇章#"
+    }
+  }
+}
