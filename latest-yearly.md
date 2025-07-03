@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/07/03 15:41:10
+本榜单时间：2025/01/01 00:26:38 ~ 2025/07/03 16:35:00
 </p>
 </blockquote>
 <p>
@@ -1389,6 +1389,12 @@ GAI第一（热度：4228592）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%A9%E7%89%A9%E6%B5%A6%E5%89%8D%E9%94%8B%E8%8B%A5%E5%A1%94%E5%8E%BB%E4%B8%96%23" target="weibo">
+利物浦前锋若塔去世（热度：4200029）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A5%BA%E5%AD%90%E5%81%B7%E5%81%B7%E6%94%B9%E4%BA%86%E5%93%AA%E5%90%923%E8%AE%A1%E5%88%92%E4%B8%8A%E6%98%A0%E6%97%B6%E9%97%B4%23" target="weibo">
 饺子偷偷改了哪吒3计划上映时间（热度：4199194）
 </a>
@@ -1805,12 +1811,6 @@ GAI第一（热度：4228592）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E6%B7%98%E6%B1%B0%23" target="weibo">
 马嘉祺淘汰（热度：3564801）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%20%E4%BB%8A%E6%99%9A%E5%A4%A7%E4%BA%8B%23" target="weibo">
-伊朗 今晚大事（热度：3561208）
 </a>
 </li>
 

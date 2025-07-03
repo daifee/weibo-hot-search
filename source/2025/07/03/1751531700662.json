@@ -1,0 +1,410 @@
+{
+  "runTime": 1751531700662,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4200029,
+        "num": 4200029,
+        "word": "利物浦前锋若塔去世",
+        "onboard_time": 1751530581,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1154081,
+        "num": 1154081,
+        "word": "身份证加水印",
+        "onboard_time": 1751525661,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 12954,
+        "num": 981624,
+        "word": "万千气象看山西",
+        "onboard_time": 1751294963,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1469810,
+        "num": 952020,
+        "word": "森碟下巴后缩改善明显",
+        "onboard_time": 1751529382,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 907572,
+        "num": 907572,
+        "word": "日本末日预言",
+        "onboard_time": 1751526082,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 895270,
+        "num": 895270,
+        "word": "若塔因车祸去世",
+        "onboard_time": 1751530641,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 673102,
+        "num": 673102,
+        "word": "赞多 退赛",
+        "onboard_time": 1751529021,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406688,
+        "num": 406688,
+        "word": "北京出门像被牛舔了一口",
+        "onboard_time": 1751511020,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309809,
+        "num": 309809,
+        "word": "最难喝饮料排行榜",
+        "onboard_time": 1751517802,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 238070,
+        "num": 309570,
+        "word": "迪丽热巴我不是千金大小姐吗",
+        "onboard_time": 1751521223,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 720290,
+        "num": 308916,
+        "word": "关晓彤晒减脂餐",
+        "onboard_time": 1751527943,
+        "rank": 10,
+        "category": "艺人,运动健身"
+      },
+      {
+        "raw_hot": 654327,
+        "num": 308589,
+        "word": "暑假新顶流",
+        "onboard_time": 1751525241,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 562212,
+        "num": 307875,
+        "word": "马思纯欧豪 人神殊途",
+        "onboard_time": 1751527162,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344716,
+        "num": 307442,
+        "word": "女艺人白玉兰陪跑的高情商发言",
+        "onboard_time": 1751523021,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307158,
+        "num": 307158,
+        "word": "官方回应火车突发停车乘客砸窗通风",
+        "onboard_time": 1751523682,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293254,
+        "num": 293254,
+        "word": "美解除对华芯片设计软件出口管制",
+        "onboard_time": 1751529742,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 242259,
+        "num": 269318,
+        "word": "火车突发事故停车断电乘客砸窗通风",
+        "onboard_time": 1751523742,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269173,
+        "num": 269173,
+        "word": "女大学生家教被欠薪上门蹲守无果",
+        "onboard_time": 1751521282,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253058,
+        "num": 253058,
+        "word": "于正说再蛐蛐我就把截图放上来",
+        "onboard_time": 1751519984,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26679,
+        "num": 249953,
+        "word": "北方以后也会回南天吗",
+        "onboard_time": 1751530942,
+        "rank": 19,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 697661,
+        "num": 249858,
+        "word": "上海交大冲突事件引校门开放之争",
+        "onboard_time": 1751519602,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249722,
+        "num": 249722,
+        "word": "淘宝闪购免单",
+        "onboard_time": 1751527583,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 176846,
+        "num": 236925,
+        "word": "让于文文演大佬的是天才",
+        "onboard_time": 1751530461,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224832,
+        "num": 224832,
+        "word": "列车脱轨致乘客滞留3小时暂无补偿",
+        "onboard_time": 1751527943,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211797,
+        "num": 211797,
+        "word": "迪丽热巴穿这么美的造型摔跤",
+        "onboard_time": 1751531601,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197161,
+        "num": 211159,
+        "word": "鹿晗 烟雾散去那一刻",
+        "onboard_time": 1751520381,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 179886,
+        "num": 210515,
+        "word": "中餐厅9热血笨蛋群像",
+        "onboard_time": 1751531181,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31754,
+        "num": 208785,
+        "word": "赵晓卉王勉遛狗式养生",
+        "onboard_time": 1751527402,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178376,
+        "num": 207838,
+        "word": "杨紫又出神图了",
+        "onboard_time": 1751519542,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112835,
+        "num": 206516,
+        "word": "张雅钦新剧一拳打在棉花上",
+        "onboard_time": 1751530281,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206165,
+        "num": 206165,
+        "word": "新说唱导师 脏话",
+        "onboard_time": 1751513660,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202242,
+        "num": 202242,
+        "word": "古力娜扎 张云龙",
+        "onboard_time": 1751531482,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193613,
+        "num": 193613,
+        "word": "北京 湿度100%",
+        "onboard_time": 1751529861,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156045,
+        "num": 156045,
+        "word": "中泰警方已对模特被骗缅甸立案",
+        "onboard_time": 1751527882,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71077,
+        "num": 153427,
+        "word": "校门怎么开应该听听学生的声音",
+        "onboard_time": 1751529742,
+        "rank": 34,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 153247,
+        "num": 153247,
+        "word": "李一桐曝女推在土耳其一起洗澡",
+        "onboard_time": 1751524641,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165626,
+        "num": 153193,
+        "word": "张云龙知道娜扎有容貌焦虑",
+        "onboard_time": 1751519662,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151889,
+        "num": 151889,
+        "word": "北京开会偶遇张艺兴",
+        "onboard_time": 1751526860,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148795,
+        "num": 148795,
+        "word": "女子景区蹦极被推下受伤满脸是血",
+        "onboard_time": 1751516423,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145438,
+        "num": 145438,
+        "word": "孙颖莎王楚钦王曼昱等抵美",
+        "onboard_time": 1751529681,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142802,
+        "num": 142802,
+        "word": "解放军位黄岩岛领海领空战备警巡",
+        "onboard_time": 1751528063,
+        "rank": 40,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 133732,
+        "num": 133732,
+        "word": "孟子义巧克力 时装周",
+        "onboard_time": 1751531061,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130498,
+        "num": 130498,
+        "word": "艾威以海葬告别Lisa",
+        "onboard_time": 1751530762,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126979,
+        "num": 126979,
+        "word": "江苏河南等地高温健康风险极高",
+        "onboard_time": 1751523742,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122603,
+        "num": 122603,
+        "word": "中国海军山东舰航母编队抵达香港",
+        "onboard_time": 1751502983,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122480,
+        "num": 122480,
+        "word": "赵美延你还回去当爱豆吗",
+        "onboard_time": 1751526381,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120934,
+        "num": 120934,
+        "word": "铁路部门通报K1373次列车脱线",
+        "onboard_time": 1751516002,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80624,
+        "num": 120017,
+        "word": "周杰伦陈冠希互动",
+        "onboard_time": 1751525361,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119769,
+        "num": 119769,
+        "word": "男子幼儿园门口1天虐杀4只猫",
+        "onboard_time": 1751520441,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107779,
+        "num": 107779,
+        "word": "iPhone发烫怎么办",
+        "onboard_time": 1751531420,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#青年的理想信念关乎国家未来#"
+    }
+  }
+}

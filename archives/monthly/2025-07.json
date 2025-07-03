@@ -1,7 +1,15 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751528470931,
+  "endTime": 1751531700662,
   "band_list": [
+    {
+      "raw_hot": 4200029,
+      "num": 4200029,
+      "word": "利物浦前锋若塔去世",
+      "onboard_time": 1751530581,
+      "rank": 0,
+      "category": "体育"
+    },
     {
       "raw_hot": 2472851,
       "num": 2472851,
@@ -121,6 +129,14 @@
       "onboard_time": 1751448623,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1469810,
+      "num": 952020,
+      "word": "森碟下巴后缩改善明显",
+      "onboard_time": 1751529382,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1429448,
@@ -387,12 +403,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 907572,
+      "num": 907572,
+      "word": "日本末日预言",
+      "onboard_time": 1751526082,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 896371,
       "num": 1143419,
       "word": "长月烬明",
       "onboard_time": 1751452461,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 895270,
+      "num": 895270,
+      "word": "若塔因车祸去世",
+      "onboard_time": 1751530641,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 888333,
@@ -603,6 +635,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 720290,
+      "num": 308916,
+      "word": "关晓彤晒减脂餐",
+      "onboard_time": 1751527943,
+      "rank": 22,
+      "category": "艺人,运动健身"
+    },
+    {
       "raw_hot": 720147,
       "num": 376956,
       "word": "中华田园犬 禁养",
@@ -761,6 +801,14 @@
       "onboard_time": 1751460923,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 673102,
+      "num": 673102,
+      "word": "赞多 退赛",
+      "onboard_time": 1751529021,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 668536,
@@ -1057,6 +1105,14 @@
       "onboard_time": 1751466504,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 562212,
+      "num": 309319,
+      "word": "马思纯欧豪 人神殊途",
+      "onboard_time": 1751527162,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 558873,
@@ -1667,14 +1723,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 389265,
-      "num": 389265,
-      "word": "日本末日预言",
-      "onboard_time": 1751526082,
-      "rank": 21,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 386910,
       "num": 334214,
       "word": "徐艺洋晒鹿晗演唱会现场照",
@@ -2059,14 +2107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 309319,
-      "num": 309319,
-      "word": "马思纯欧豪 人神殊途",
-      "onboard_time": 1751527162,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 309276,
       "num": 309276,
       "word": "30岁女子半年多次服紧急避孕药致脑梗",
@@ -2193,6 +2233,14 @@
       "onboard_time": 1751517084,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 293254,
+      "num": 293254,
+      "word": "美解除对华芯片设计软件出口管制",
+      "onboard_time": 1751529742,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 290687,
@@ -2515,6 +2563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 242259,
+      "num": 269318,
+      "word": "火车突发事故停车断电乘客砸窗通风",
+      "onboard_time": 1751523742,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 242103,
       "num": 319945,
       "word": "锦绣芳华打破了国色芳华纪录",
@@ -2779,20 +2835,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 225080,
-      "num": 225080,
-      "word": "关晓彤晒减脂餐",
-      "onboard_time": 1751527943,
-      "rank": 22,
-      "category": "艺人,运动健身"
-    },
-    {
       "raw_hot": 224886,
       "num": 224886,
       "word": "单眼皮的小黄豆",
       "onboard_time": 1751466443,
       "rank": 27,
       "category": "网红"
+    },
+    {
+      "raw_hot": 224832,
+      "num": 388578,
+      "word": "列车脱轨致乘客滞留3小时暂无补偿",
+      "onboard_time": 1751527943,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 224689,
@@ -3019,19 +3075,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 211797,
+      "num": 211797,
+      "word": "迪丽热巴穿这么美的造型摔跤",
+      "onboard_time": 1751531601,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211472,
       "num": 211472,
       "word": "警方回应网传男子带12岁女孩开房",
       "onboard_time": 1751289384,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 211056,
-      "num": 211056,
-      "word": "火车突发事故停车断电乘客砸窗通风",
-      "onboard_time": 1751523742,
-      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -3217,6 +3273,14 @@
       "onboard_time": 1751455101,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 202242,
+      "num": 202242,
+      "word": "古力娜扎 张云龙",
+      "onboard_time": 1751531482,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 201828,
@@ -3441,6 +3505,14 @@
       "onboard_time": 1751295983,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 193613,
+      "num": 193613,
+      "word": "北京 湿度100%",
+      "onboard_time": 1751529861,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193471,
@@ -3723,6 +3795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179886,
+      "num": 210515,
+      "word": "中餐厅9热血笨蛋群像",
+      "onboard_time": 1751531181,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179764,
       "num": 179764,
       "word": "水均益带2个孩子领身份证",
@@ -3777,6 +3857,14 @@
       "onboard_time": 1751526860,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176846,
+      "num": 236925,
+      "word": "让于文文演大佬的是天才",
+      "onboard_time": 1751530461,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 176833,
@@ -4427,6 +4515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156045,
+      "num": 396750,
+      "word": "中泰警方已对模特被骗缅甸立案",
+      "onboard_time": 1751527882,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156024,
       "num": 156024,
       "word": "无意中发现了一个找工作的好方法",
@@ -4731,6 +4827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 145438,
+      "num": 145438,
+      "word": "孙颖莎王楚钦王曼昱等抵美",
+      "onboard_time": 1751529681,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145288,
       "num": 145288,
       "word": "G2晋级淘汰赛",
@@ -4841,6 +4945,14 @@
       "onboard_time": 1751521223,
       "rank": 44,
       "category": "辟谣/通报,教育"
+    },
+    {
+      "raw_hot": 142802,
+      "num": 142802,
+      "word": "解放军位黄岩岛领海领空战备警巡",
+      "onboard_time": 1751528063,
+      "rank": 40,
+      "category": "军事"
     },
     {
       "raw_hot": 142615,
@@ -5235,6 +5347,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 133732,
+      "num": 133732,
+      "word": "孟子义巧克力 时装周",
+      "onboard_time": 1751531061,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 133700,
       "num": 133700,
       "word": "建议不要和美甲师太熟",
@@ -5475,6 +5595,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 130498,
+      "num": 130498,
+      "word": "艾威以海葬告别Lisa",
+      "onboard_time": 1751530762,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130495,
       "num": 111295,
       "word": "多方回应南航分公司疑发伤人事件",
@@ -5703,14 +5831,6 @@
       "num": 125689,
       "word": "歼20换雷达了",
       "onboard_time": 1751446101,
-      "rank": 40,
-      "category": "军事"
-    },
-    {
-      "raw_hot": 125094,
-      "num": 125094,
-      "word": "解放军位黄岩岛领海领空战备警巡",
-      "onboard_time": 1751528063,
       "rank": 40,
       "category": "军事"
     },
@@ -5996,7 +6116,7 @@
     },
     {
       "raw_hot": 119999,
-      "num": 119999,
+      "num": 120017,
       "word": "周杰伦陈冠希互动",
       "onboard_time": 1751525361,
       "rank": 41,
@@ -6355,6 +6475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 112835,
+      "num": 206516,
+      "word": "张雅钦新剧一拳打在棉花上",
+      "onboard_time": 1751530281,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112748,
       "num": 112748,
       "word": "夏目友人帐",
@@ -6665,6 +6793,14 @@
       "onboard_time": 1751362702,
       "rank": 45,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 107779,
+      "num": 107779,
+      "word": "iPhone发烫怎么办",
+      "onboard_time": 1751531420,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 107624,
@@ -7771,6 +7907,14 @@
       "category": "民生新闻,休闲"
     },
     {
+      "raw_hot": 71077,
+      "num": 153427,
+      "word": "校门怎么开应该听听学生的声音",
+      "onboard_time": 1751529742,
+      "rank": 34,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 70970,
       "num": 216084,
       "word": "荣耀MagicV5满血真旗舰",
@@ -8540,7 +8684,7 @@
     },
     {
       "raw_hot": 39568,
-      "num": 193614,
+      "num": 208785,
       "word": "赵晓卉王勉遛狗式养生",
       "onboard_time": 1751527402,
       "rank": 38,
@@ -8899,6 +9043,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 26679,
+      "num": 249953,
+      "word": "北方以后也会回南天吗",
+      "onboard_time": 1751530942,
+      "rank": 19,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 26515,
       "num": 999417,
       "word": "党的旗帜所指即是网警铁翼所向",
@@ -8932,7 +9084,7 @@
     },
     {
       "raw_hot": 25007,
-      "num": 778030,
+      "num": 981624,
       "word": "万千气象看山西",
       "onboard_time": 1751294963,
       "rank": 2,
@@ -9059,14 +9211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 22086,
-      "num": 388578,
-      "word": "列车脱轨致乘客滞留3小时暂无补偿",
-      "onboard_time": 1751527943,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 21567,
       "num": 26869,
       "word": "电影恶意",
@@ -9153,14 +9297,6 @@
       "onboard_time": 1751479936,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 18325,
-      "num": 396750,
-      "word": "中泰警方已对模特被骗缅甸立案",
-      "onboard_time": 1751527882,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18279,
