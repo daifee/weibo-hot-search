@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751515023144,
+  "endTime": 1751517481346,
   "band_list": [
     {
       "raw_hot": 3569605,
@@ -387,6 +387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1232055,
+      "num": 408016,
+      "word": "新说唱导师 脏话",
+      "onboard_time": 1751513660,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1225583,
       "num": 1225583,
       "word": "张小斐抽烟镜头女王级别",
@@ -649,14 +657,6 @@
       "onboard_time": 1751168361,
       "rank": 3,
       "category": "演出"
-    },
-    {
-      "raw_hot": 952394,
-      "num": 408016,
-      "word": "新说唱导师 脏话",
-      "onboard_time": 1751513660,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 944356,
@@ -1275,6 +1275,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 676757,
+      "num": 676757,
+      "word": "男子因好奇上个厕所连续转账14次",
+      "onboard_time": 1751514861,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 673407,
       "num": 439884,
       "word": "林志玲一个生煎包吃十几口",
@@ -1297,6 +1305,14 @@
       "onboard_time": 1751416580,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 666413,
+      "num": 371160,
+      "word": "公务员考试的所有公式都在这里了",
+      "onboard_time": 1751515223,
+      "rank": 11,
+      "category": "教育"
     },
     {
       "raw_hot": 665024,
@@ -1931,6 +1947,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 514569,
+      "num": 378581,
+      "word": "不工作 内心空虚",
+      "onboard_time": 1751512522,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 514161,
       "num": 331586,
       "word": "被黄晓明直接塞了100欧",
@@ -2145,6 +2169,14 @@
       "onboard_time": 1751422219,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 485443,
+      "num": 337964,
+      "word": "九江教育局致歉",
+      "onboard_time": 1751515882,
+      "rank": 22,
+      "category": "教育"
     },
     {
       "raw_hot": 485239,
@@ -2363,6 +2395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 435395,
+      "num": 435395,
+      "word": "饮品 咖啡因过量",
+      "onboard_time": 1751515882,
+      "rank": 5,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 434120,
       "num": 273736,
       "word": "生理性喜欢是很恐怖的一件事",
@@ -2481,6 +2521,14 @@
       "onboard_time": 1751155578,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 423818,
+      "num": 332236,
+      "word": "7月财运最旺的星座",
+      "onboard_time": 1751516361,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 422291,
@@ -2795,16 +2843,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 378581,
-      "num": 378581,
-      "word": "不工作 内心空虚",
-      "onboard_time": 1751512522,
-      "rank": 16,
-      "category": "情感"
+      "raw_hot": 379742,
+      "num": 379742,
+      "word": "别墅里面唱K",
+      "onboard_time": 1751513542,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 378507,
-      "num": 268311,
+      "num": 316099,
       "word": "28岁女子做取环手术致十级伤残",
       "onboard_time": 1751504063,
       "rank": 20,
@@ -2979,6 +3027,14 @@
       "category": "国内时政,民生新闻"
     },
     {
+      "raw_hot": 359650,
+      "num": 328132,
+      "word": "你跟我说这是何润东",
+      "onboard_time": 1751515223,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 358650,
       "num": 391574,
       "word": "央视曝光舞蹈培训市场乱象",
@@ -3033,6 +3089,14 @@
       "onboard_time": 1751347642,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 351628,
+      "num": 324656,
+      "word": "女子景区蹦极被推下受伤满脸是血",
+      "onboard_time": 1751516423,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 350733,
@@ -3332,7 +3396,7 @@
     },
     {
       "raw_hot": 316014,
-      "num": 316014,
+      "num": 356129,
       "word": "苏醒捡手机群聊",
       "onboard_time": 1751511623,
       "rank": 14,
@@ -4019,14 +4083,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 264911,
-      "num": 264911,
-      "word": "别墅里面唱K",
-      "onboard_time": 1751513542,
-      "rank": 28,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 264575,
       "num": 264575,
       "word": "鞠婧祎包下了所有应援费",
@@ -4259,6 +4315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249646,
+      "num": 249646,
+      "word": "火箭交易杜兰特",
+      "onboard_time": 1751516361,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 248888,
       "num": 248888,
       "word": "苦瓜饮品外卖量飙升11倍",
@@ -4273,6 +4337,14 @@
       "onboard_time": 1751472921,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 247337,
+      "num": 247337,
+      "word": "105斤女生卧推100斤",
+      "onboard_time": 1751513423,
+      "rank": 24,
+      "category": "运动健身"
     },
     {
       "raw_hot": 246905,
@@ -4337,6 +4409,14 @@
       "onboard_time": 1751263461,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 241731,
+      "num": 241731,
+      "word": "雷军直播后小米股价下挫",
+      "onboard_time": 1751515162,
+      "rank": 33,
+      "category": "汽车,财经"
     },
     {
       "raw_hot": 241343,
@@ -4627,6 +4707,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 225988,
+      "num": 225988,
+      "word": "樱桃琥珀 暂定7月14日",
+      "onboard_time": 1751514561,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 225857,
       "num": 261635,
       "word": "直播山东舰航母编队访港",
@@ -4697,14 +4785,6 @@
       "onboard_time": 1751342482,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 223489,
-      "num": 223489,
-      "word": "105斤女生卧推100斤",
-      "onboard_time": 1751513423,
-      "rank": 24,
-      "category": "运动健身"
     },
     {
       "raw_hot": 223087,
@@ -4841,6 +4921,14 @@
       "onboard_time": 1751379144,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 217796,
+      "num": 217796,
+      "word": "AL战胜Fly",
+      "onboard_time": 1751516303,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 217708,
@@ -5217,6 +5305,14 @@
       "onboard_time": 1751122044,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 205058,
+      "num": 205058,
+      "word": "雷军直播称急用车推荐买小鹏G7",
+      "onboard_time": 1751517142,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 204985,
@@ -6179,6 +6275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182581,
+      "num": 182581,
+      "word": "三伏天补气血最佳方法是蒸荔枝",
+      "onboard_time": 1751514982,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 182240,
       "num": 182240,
       "word": "桃花映江山夜抛型男主",
@@ -6641,6 +6745,14 @@
       "onboard_time": 1751424621,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 173161,
+      "num": 173161,
+      "word": "AL晋级MSI下一轮",
+      "onboard_time": 1751516303,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 172899,
@@ -7451,12 +7563,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158858,
+      "num": 158858,
+      "word": "国色芳华重生之锦绣芳华归来",
+      "onboard_time": 1751515822,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158500,
       "num": 158500,
       "word": "7月份十二星座注意事项",
       "onboard_time": 1751294484,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 158377,
+      "num": 158377,
+      "word": "和平精英",
+      "onboard_time": 1751516183,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 157835,
@@ -7513,6 +7641,14 @@
       "onboard_time": 1751347281,
       "rank": 40,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 156680,
+      "num": 156680,
+      "word": "被秦六郎气死",
+      "onboard_time": 1751517442,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 156621,
@@ -7641,14 +7777,6 @@
       "onboard_time": 1751188883,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 154836,
-      "num": 154836,
-      "word": "樱桃琥珀 暂定7月14日",
-      "onboard_time": 1751514561,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 154820,
@@ -8763,6 +8891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 138424,
+      "num": 347212,
+      "word": "中日友好医院称要有刮骨疗毒的决心",
+      "onboard_time": 1751517084,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138325,
       "num": 138325,
       "word": "WBG香港邀请赛夺冠",
@@ -9563,14 +9699,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 130129,
-      "num": 130129,
-      "word": "男子因好奇上个厕所连续转账14次",
-      "onboard_time": 1751514861,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 130128,
       "num": 130128,
       "word": "周深你确定要听我唱副歌吗",
@@ -9665,6 +9793,14 @@
       "onboard_time": 1751422400,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 128989,
+      "num": 351270,
+      "word": "花漾少女杀人事件冰上特辑",
+      "onboard_time": 1751516483,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 128965,
@@ -10249,14 +10385,6 @@
       "onboard_time": 1751261300,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121421,
-      "num": 121421,
-      "word": "三伏天补气血最佳方法是蒸荔枝",
-      "onboard_time": 1751514982,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 121369,
@@ -11515,6 +11643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106189,
+      "num": 194935,
+      "word": "夏天不用开火的减脂餐",
+      "onboard_time": 1751516963,
+      "rank": 39,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 106143,
       "num": 106143,
       "word": "史元庭7天拍完短剧继续兼职陪爬",
@@ -12563,6 +12699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84865,
+      "num": 354044,
+      "word": "红山动物天团的反差萌",
+      "onboard_time": 1751516662,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84838,
       "num": 151651,
       "word": "孙颖莎说期待体验大型场馆比赛氛围",
@@ -12585,6 +12729,14 @@
       "onboard_time": 1751302878,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84206,
+      "num": 291769,
+      "word": "下半年这些待播剧将是神仙局",
+      "onboard_time": 1751516543,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 84072,
@@ -12979,6 +13131,14 @@
       "category": "体育,休闲"
     },
     {
+      "raw_hot": 72264,
+      "num": 286640,
+      "word": "伊外长被问核设施时露出神秘微笑",
+      "onboard_time": 1751516483,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 72168,
       "num": 72168,
       "word": "河北文旅摇人摇到李荣浩",
@@ -13305,6 +13465,14 @@
       "onboard_time": 1751108481,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 64082,
+      "num": 353186,
+      "word": "妈妈快来店里全是吴彦祖",
+      "onboard_time": 1751516662,
+      "rank": 16,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 64049,
@@ -14819,6 +14987,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 27716,
+      "num": 588458,
+      "word": "网警护航高考志愿填报",
+      "onboard_time": 1751502622,
+      "rank": 2,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 27460,
       "num": 166776,
       "word": "退学北大上清华男生回应开直播",
@@ -14977,14 +15153,6 @@
       "onboard_time": 1751170882,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24871,
-      "num": 588458,
-      "word": "网警护航高考志愿填报",
-      "onboard_time": 1751502622,
-      "rank": 2,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 24864,
@@ -15225,6 +15393,14 @@
       "onboard_time": 1751494816,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 20289,
+      "num": 346092,
+      "word": "举报占道经营后被对方找到2次殴打",
+      "onboard_time": 1751517084,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20238,

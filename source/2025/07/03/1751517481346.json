@@ -1,0 +1,410 @@
+{
+  "runTime": 1751517481346,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1434200,
+        "num": 1434200,
+        "word": "北京出门像被牛舔了一口",
+        "onboard_time": 1751511020,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 676757,
+        "num": 676757,
+        "word": "男子因好奇上个厕所连续转账14次",
+        "onboard_time": 1751514861,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27716,
+        "num": 539669,
+        "word": "网警护航高考志愿填报",
+        "onboard_time": 1751502622,
+        "rank": 2,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 1426902,
+        "num": 524868,
+        "word": "王星女友为被骗缅甸模特发声",
+        "onboard_time": 1751512341,
+        "rank": 3,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 496184,
+        "num": 496184,
+        "word": "女孩高考288分属实",
+        "onboard_time": 1751508380,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 435395,
+        "num": 435395,
+        "word": "饮品 咖啡因过量",
+        "onboard_time": 1751515882,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 412753,
+        "num": 412753,
+        "word": "亮剑等抗战题材经典作品将展播",
+        "onboard_time": 1751511260,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 402710,
+        "num": 402710,
+        "word": "一棵荔枝树上竟结出30种荔枝",
+        "onboard_time": 1751506342,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 384903,
+        "num": 384903,
+        "word": "抗战胜利80周年优秀文艺作品",
+        "onboard_time": 1751512762,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 379742,
+        "num": 379742,
+        "word": "别墅里面唱K",
+        "onboard_time": 1751513542,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1232055,
+        "num": 375553,
+        "word": "新说唱导师 脏话",
+        "onboard_time": 1751513660,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 666413,
+        "num": 371160,
+        "word": "公务员考试的所有公式都在这里了",
+        "onboard_time": 1751515223,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 263702,
+        "num": 365473,
+        "word": "我放过的坏人杀了我的亲人",
+        "onboard_time": 1751511080,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247956,
+        "num": 356129,
+        "word": "苏醒捡手机群聊",
+        "onboard_time": 1751511623,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 355875,
+        "num": 355875,
+        "word": "中国海军山东舰航母编队抵达香港",
+        "onboard_time": 1751502983,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 84865,
+        "num": 354044,
+        "word": "红山动物天团的反差萌",
+        "onboard_time": 1751516662,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64082,
+        "num": 353186,
+        "word": "妈妈快来店里全是吴彦祖",
+        "onboard_time": 1751516662,
+        "rank": 16,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 128989,
+        "num": 351270,
+        "word": "花漾少女杀人事件冰上特辑",
+        "onboard_time": 1751516483,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138424,
+        "num": 347212,
+        "word": "中日友好医院称要有刮骨疗毒的决心",
+        "onboard_time": 1751517084,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20289,
+        "num": 346092,
+        "word": "举报占道经营后被对方找到2次殴打",
+        "onboard_time": 1751517084,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 344663,
+        "num": 344663,
+        "word": "西门子称美取消对中国芯片设计软件出口限制",
+        "onboard_time": 1751511203,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 548518,
+        "num": 342230,
+        "word": "曝娜扎张云龙近况",
+        "onboard_time": 1751499380,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 485443,
+        "num": 337964,
+        "word": "九江教育局致歉",
+        "onboard_time": 1751515882,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 423818,
+        "num": 332236,
+        "word": "7月财运最旺的星座",
+        "onboard_time": 1751516361,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 359650,
+        "num": 328132,
+        "word": "你跟我说这是何润东",
+        "onboard_time": 1751515223,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 351628,
+        "num": 324656,
+        "word": "女子景区蹦极被推下受伤满脸是血",
+        "onboard_time": 1751516423,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245290,
+        "num": 320245,
+        "word": "披荆斩棘5一公分组选曲",
+        "onboard_time": 1751510301,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 316099,
+        "num": 316099,
+        "word": "28岁女子做取环手术致十级伤残",
+        "onboard_time": 1751504063,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84206,
+        "num": 291769,
+        "word": "下半年这些待播剧将是神仙局",
+        "onboard_time": 1751516543,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72264,
+        "num": 286640,
+        "word": "伊外长被问核设施时露出神秘微笑",
+        "onboard_time": 1751516483,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 284625,
+        "num": 284625,
+        "word": "中文慢慢失去了加密功能",
+        "onboard_time": 1751498839,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 249646,
+        "num": 249646,
+        "word": "火箭交易杜兰特",
+        "onboard_time": 1751516361,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247337,
+        "num": 247337,
+        "word": "105斤女生卧推100斤",
+        "onboard_time": 1751513423,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 241731,
+        "num": 241731,
+        "word": "雷军直播后小米股价下挫",
+        "onboard_time": 1751515162,
+        "rank": 33,
+        "category": "汽车,财经"
+      },
+      {
+        "raw_hot": 237531,
+        "num": 237531,
+        "word": "刘宇宁婉拒了哈",
+        "onboard_time": 1751513480,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234573,
+        "num": 234573,
+        "word": "杭州热到全国第一了",
+        "onboard_time": 1751498479,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225988,
+        "num": 225988,
+        "word": "樱桃琥珀 暂定7月14日",
+        "onboard_time": 1751514561,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217796,
+        "num": 217796,
+        "word": "AL战胜Fly",
+        "onboard_time": 1751516303,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 205058,
+        "num": 205058,
+        "word": "雷军直播称急用车推荐买小鹏G7",
+        "onboard_time": 1751517142,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 106189,
+        "num": 194935,
+        "word": "夏天不用开火的减脂餐",
+        "onboard_time": 1751516963,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 193688,
+        "num": 193688,
+        "word": "一批抗战主题电视剧将陆续播出",
+        "onboard_time": 1751509641,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182581,
+        "num": 182581,
+        "word": "三伏天补气血最佳方法是蒸荔枝",
+        "onboard_time": 1751514982,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 514569,
+        "num": 182205,
+        "word": "不工作 内心空虚",
+        "onboard_time": 1751512522,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180235,
+        "num": 180235,
+        "word": "直播山东舰航母编队访港",
+        "onboard_time": 1751511982,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 173161,
+        "num": 173161,
+        "word": "AL晋级MSI下一轮",
+        "onboard_time": 1751516303,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 171600,
+        "num": 171600,
+        "word": "美犯罪学博士凌晨残杀4名大学生",
+        "onboard_time": 1751504182,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 158858,
+        "num": 158858,
+        "word": "国色芳华重生之锦绣芳华归来",
+        "onboard_time": 1751515822,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121646,
+        "num": 158593,
+        "word": "纪念抗战胜利80周年文艺晚会",
+        "onboard_time": 1751513302,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 158377,
+        "num": 158377,
+        "word": "和平精英",
+        "onboard_time": 1751516183,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156680,
+        "num": 156680,
+        "word": "被秦六郎气死",
+        "onboard_time": 1751517442,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#青年的理想信念关乎国家未来#"
+    }
+  }
+}
