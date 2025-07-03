@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/29 00:30:20 ~ 2025/07/04 05:24:41
+本榜单时间：2025/06/29 00:30:20 ~ 2025/07/04 05:39:48
 </p>
 </blockquote>
 <p>
@@ -12441,6 +12441,12 @@ deepseek崩了（热度：39695）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E7%8B%97%E6%89%91%E5%90%91%E8%B7%AF%E8%BF%87%E7%94%B7%E5%AD%A9%E4%B8%BB%E4%BA%BA%E5%86%B2%E4%B8%8A%E5%8E%BB%E9%98%BB%E6%AD%A2%23" target="weibo">
+狗狗扑向路过男孩主人冲上去阻止（热度：36988）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A7%A3%E9%94%81%E9%A6%96%E5%8F%91%E7%BB%8F%E6%B5%8E%E8%8A%B1%E6%A0%B7%E6%B6%88%E8%B4%B9%E5%9C%BA%E6%99%AF%23" target="weibo">
 解锁首发经济花样消费场景（热度：36906）
 </a>
@@ -12719,12 +12725,6 @@ AI修复平型关战斗珍贵历史照片（热度：31161）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BA%BA%E5%9B%9E%E5%BA%94%E6%8A%BD%E5%8C%96%E7%B2%AA%E6%B1%A0%E5%8F%91%E7%8E%B03%E6%8A%8A%E7%A0%8D%E5%88%80%23" target="weibo">
 工人回应抽化粪池发现3把砍刀（热度：30835）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E7%8B%97%E6%89%91%E5%90%91%E8%B7%AF%E8%BF%87%E7%94%B7%E5%AD%A9%E4%B8%BB%E4%BA%BA%E5%86%B2%E4%B8%8A%E5%8E%BB%E9%98%BB%E6%AD%A2%23" target="weibo">
-狗狗扑向路过男孩主人冲上去阻止（热度：30777）
 </a>
 </li>
 

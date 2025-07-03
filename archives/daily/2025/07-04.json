@@ -1,6 +1,6 @@
 {
   "startTime": 1751560391149,
-  "endTime": 1751577881047,
+  "endTime": 1751578788900,
   "band_list": [
     {
       "raw_hot": 2967815,
@@ -475,19 +475,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36988,
+      "num": 36988,
+      "word": "狗狗扑向路过男孩主人冲上去阻止",
+      "onboard_time": 1751574194,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35205,
       "num": 74188,
       "word": "人民日报评这么近那么美标语出圈",
       "onboard_time": 1751554282,
       "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30777,
-      "num": 36615,
-      "word": "狗狗扑向路过男孩主人冲上去阻止",
-      "onboard_time": 1751574194,
-      "rank": 25,
       "category": "民生新闻"
     },
     {
