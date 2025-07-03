@@ -1,0 +1,410 @@
+{
+  "runTime": 1751520585489,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1148521,
+        "num": 1183763,
+        "word": "北京出门像被牛舔了一口",
+        "onboard_time": 1751511020,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 928255,
+        "num": 928255,
+        "word": "九江教育局致歉",
+        "onboard_time": 1751515882,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 150028,
+        "num": 900502,
+        "word": "首个全国高温健康风险预警",
+        "onboard_time": 1751517984,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 949426,
+        "num": 887613,
+        "word": "王星女友为被骗缅甸模特发声",
+        "onboard_time": 1751512341,
+        "rank": 3,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 874160,
+        "num": 874160,
+        "word": "最难喝饮料排行榜",
+        "onboard_time": 1751517802,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 808109,
+        "num": 808109,
+        "word": "女子景区蹦极被推下受伤满脸是血",
+        "onboard_time": 1751516423,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 629801,
+        "num": 629801,
+        "word": "杨紫又出神图了",
+        "onboard_time": 1751519542,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 534775,
+        "num": 534775,
+        "word": "饮品 咖啡因过量",
+        "onboard_time": 1751515882,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 435537,
+        "num": 435537,
+        "word": "男子因好奇上个厕所连续转账14次",
+        "onboard_time": 1751514861,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217773,
+        "num": 423553,
+        "word": "鄂州要求编外教师进1个退1个",
+        "onboard_time": 1751518883,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 697338,
+        "num": 423299,
+        "word": "新说唱导师 脏话",
+        "onboard_time": 1751513660,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 437901,
+        "num": 420435,
+        "word": "公务员考试的所有公式都在这里了",
+        "onboard_time": 1751515223,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 414745,
+        "num": 414745,
+        "word": "曝娜扎张云龙近况",
+        "onboard_time": 1751499380,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278827,
+        "num": 394153,
+        "word": "张凌赫王楚然路透爸爸妈妈级别",
+        "onboard_time": 1751518461,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121891,
+        "num": 377989,
+        "word": "高校研究生3个月投诉120次校园二手烟",
+        "onboard_time": 1751518883,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 373804,
+        "num": 373804,
+        "word": "别墅里面唱K",
+        "onboard_time": 1751513542,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 58953,
+        "num": 372800,
+        "word": "妈妈快来店里全是吴彦祖",
+        "onboard_time": 1751516662,
+        "rank": 16,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 184636,
+        "num": 360721,
+        "word": "被秦六郎气死",
+        "onboard_time": 1751517442,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43886,
+        "num": 356688,
+        "word": "红山动物天团的反差萌",
+        "onboard_time": 1751516662,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14586,
+        "num": 348625,
+        "word": "天然溶洞何以变成垃圾洞",
+        "onboard_time": 1751520141,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345550,
+        "num": 345550,
+        "word": "中国海军山东舰航母编队抵达香港",
+        "onboard_time": 1751502983,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 298858,
+        "num": 298858,
+        "word": "7月财运最旺的星座",
+        "onboard_time": 1751516361,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 272339,
+        "num": 272339,
+        "word": "于正说再蛐蛐我就把截图放上来",
+        "onboard_time": 1751519984,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270130,
+        "num": 270130,
+        "word": "徐艺洋回应黄子韬未读乱回",
+        "onboard_time": 1751517743,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246325,
+        "num": 246325,
+        "word": "中日友好医院称要有刮骨疗毒的决心",
+        "onboard_time": 1751517084,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240756,
+        "num": 240756,
+        "word": "原来加绒摇的原唱是张碧晨",
+        "onboard_time": 1751519481,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 237208,
+        "num": 237208,
+        "word": "张云龙知道娜扎有容貌焦虑",
+        "onboard_time": 1751519662,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 235826,
+        "num": 235826,
+        "word": "上海交大冲突事件引校门开放之争",
+        "onboard_time": 1751519602,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233174,
+        "num": 233174,
+        "word": "亮剑等抗战题材经典作品将展播",
+        "onboard_time": 1751511260,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100190,
+        "num": 230805,
+        "word": "日本打工老人",
+        "onboard_time": 1751520081,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 153858,
+        "num": 230198,
+        "word": "杨丞琳剪发为新专辑预热",
+        "onboard_time": 1751520322,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 229834,
+        "num": 229834,
+        "word": "男孩提不动书包一查心脏长得像鞋",
+        "onboard_time": 1751518822,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220723,
+        "num": 220723,
+        "word": "一棵荔枝树上竟结出30种荔枝",
+        "onboard_time": 1751506342,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212496,
+        "num": 212496,
+        "word": "28岁女子做取环手术致十级伤残",
+        "onboard_time": 1751504063,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198877,
+        "num": 198877,
+        "word": "综艺新人录节目翻脸转身就走",
+        "onboard_time": 1751518523,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62318,
+        "num": 197943,
+        "word": "西门子回应",
+        "onboard_time": 1751519302,
+        "rank": 35,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 197723,
+        "num": 197723,
+        "word": "迪丽热巴金世佳携手打拐",
+        "onboard_time": 1751520562,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195381,
+        "num": 195381,
+        "word": "火箭交易杜兰特",
+        "onboard_time": 1751516361,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187049,
+        "num": 187049,
+        "word": "美部长称食人族被遣返时自己吃自己",
+        "onboard_time": 1751519422,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 173976,
+        "num": 173976,
+        "word": "三伏天补气血最佳方法是蒸荔枝",
+        "onboard_time": 1751514982,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 171482,
+        "num": 171482,
+        "word": "服用紧急避孕药1年内不应超2次",
+        "onboard_time": 1751518461,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 171086,
+        "num": 171086,
+        "word": "感染食脑虫男童家人称已联系到药厂",
+        "onboard_time": 1751519841,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169636,
+        "num": 169636,
+        "word": "湖北鄂州停招小学教师",
+        "onboard_time": 1751520202,
+        "rank": 42,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 168483,
+        "num": 168483,
+        "word": "抗战胜利80周年优秀文艺作品",
+        "onboard_time": 1751512762,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 167698,
+        "num": 167698,
+        "word": "披荆斩棘5一公分组选曲",
+        "onboard_time": 1751510301,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165162,
+        "num": 165162,
+        "word": "向佐你怎么穿了吉赛尔的衣服",
+        "onboard_time": 1751520141,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156461,
+        "num": 156461,
+        "word": "刘宇宁婉拒了哈",
+        "onboard_time": 1751513480,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154002,
+        "num": 154002,
+        "word": "雷军直播称急用车推荐买小鹏G7",
+        "onboard_time": 1751517142,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 152132,
+        "num": 152132,
+        "word": "山东舰10架舰载战斗机列阵",
+        "onboard_time": 1751516782,
+        "rank": 48,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 150300,
+        "num": 150300,
+        "word": "男子幼儿园门口1天虐杀4只猫",
+        "onboard_time": 1751520441,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#青年的理想信念关乎国家未来#"
+    }
+  }
+}
