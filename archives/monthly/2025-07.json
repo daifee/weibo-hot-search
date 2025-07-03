@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751581527157,
+  "endTime": 1751582619089,
   "band_list": [
     {
       "raw_hot": 4866007,
@@ -1595,6 +1595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 458783,
+      "num": 534672,
+      "word": "女子熟睡被男友持刀架在脖子上",
+      "onboard_time": 1751560878,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 456760,
       "num": 456760,
       "word": "猝死前1个月身体的信号",
@@ -1784,14 +1792,6 @@
       "word": "毕业6年存130万小伙每月吃饭500元",
       "onboard_time": 1751558480,
       "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 422109,
-      "num": 426073,
-      "word": "女子熟睡被男友持刀架在脖子上",
-      "onboard_time": 1751560878,
-      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -2041,6 +2041,14 @@
       "onboard_time": 1751366300,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 368192,
+      "num": 198562,
+      "word": "25岁杀夫新娘和舅舅有15年非法关系",
+      "onboard_time": 1751557701,
+      "rank": 15,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 366569,
@@ -2345,14 +2353,6 @@
       "onboard_time": 1751385801,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 321556,
-      "num": 198562,
-      "word": "25岁杀夫新娘和舅舅有15年非法关系",
-      "onboard_time": 1751557701,
-      "rank": 15,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 320413,
@@ -3649,6 +3649,14 @@
       "onboard_time": 1751500943,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214019,
+      "num": 103701,
+      "word": "夜爬泰山 误闯天家",
+      "onboard_time": 1751580795,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 213714,
@@ -9299,6 +9307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67057,
+      "num": 67057,
+      "word": "洛阳一景区有游客被洪水冲走失联3天",
+      "onboard_time": 1751578815,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67002,
       "num": 85339,
       "word": "中国队健儿加油海报祝福追梦人",
@@ -9353,14 +9369,6 @@
       "onboard_time": 1751473160,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 65663,
-      "num": 38396,
-      "word": "夜爬泰山 误闯天家",
-      "onboard_time": 1751580795,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 65610,
@@ -9739,14 +9747,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 50852,
-      "num": 50852,
-      "word": "洛阳一景区有游客被洪水冲走失联3天",
-      "onboard_time": 1751578815,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 50341,
       "num": 120162,
       "word": "PUBGxaespa",
@@ -9761,6 +9761,14 @@
       "onboard_time": 1751546662,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 49750,
+      "num": 49750,
+      "word": "男子为骗拆迁补助与男友姐姐假结婚",
+      "onboard_time": 1751579714,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49643,
@@ -9849,6 +9857,14 @@
       "onboard_time": 1751491274,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 47710,
+      "num": 47710,
+      "word": "MKOI对战BLG",
+      "onboard_time": 1751570355,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 47542,
@@ -10075,14 +10091,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 39769,
-      "num": 39769,
-      "word": "男子为骗拆迁补助与男友姐姐假结婚",
-      "onboard_time": 1751579714,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 39731,
       "num": 331833,
       "word": "国产科幻如何异军突起",
@@ -10129,14 +10137,6 @@
       "onboard_time": 1751390417,
       "rank": 44,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 38257,
-      "num": 38257,
-      "word": "MKOI对战BLG",
-      "onboard_time": 1751570355,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 38104,
@@ -10395,6 +10395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30932,
+      "num": 41326,
+      "word": "C罗来南京奥体都没这阵仗",
+      "onboard_time": 1751570535,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30895,
       "num": 115423,
       "word": "插排内暗藏摄像头一个售价2800",
@@ -10499,14 +10507,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 28218,
-      "num": 41326,
-      "word": "C罗来南京奥体都没这阵仗",
-      "onboard_time": 1751570535,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 28164,
       "num": 147846,
       "word": "俄法总统通话",
@@ -10531,20 +10531,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27846,
+      "num": 27846,
+      "word": "外交部回应美越达成贸易协议",
+      "onboard_time": 1751568375,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 27716,
       "num": 588458,
       "word": "网警护航高考志愿填报",
       "onboard_time": 1751502622,
       "rank": 2,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 27505,
-      "num": 27505,
-      "word": "外交部回应美越达成贸易协议",
-      "onboard_time": 1751568375,
-      "rank": 44,
-      "category": "国内时政"
     },
     {
       "raw_hot": 27063,
