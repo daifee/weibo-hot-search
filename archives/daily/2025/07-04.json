@@ -1,6 +1,6 @@
 {
   "startTime": 1751560391149,
-  "endTime": 1751570475319,
+  "endTime": 1751571423590,
   "band_list": [
     {
       "raw_hot": 2967815,
@@ -531,12 +531,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 16633,
-      "num": 17737,
+      "raw_hot": 20964,
+      "num": 20964,
       "word": "MKOI对战BLG",
       "onboard_time": 1751570355,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 11500,
+      "num": 41326,
+      "word": "C罗来南京奥体都没这阵仗",
+      "onboard_time": 1751570535,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 11238,
@@ -555,18 +563,18 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 8508,
-      "num": 24842,
-      "word": "祁煜这片海与它都是见证",
-      "onboard_time": 1751566756,
+      "raw_hot": 8746,
+      "num": 21358,
+      "word": "秦彻爱必将至",
+      "onboard_time": 1751570235,
       "rank": 39,
       "category": "游戏"
     },
     {
-      "raw_hot": 8025,
-      "num": 21358,
-      "word": "秦彻爱必将至",
-      "onboard_time": 1751570235,
+      "raw_hot": 8508,
+      "num": 24842,
+      "word": "祁煜这片海与它都是见证",
+      "onboard_time": 1751566756,
       "rank": 39,
       "category": "游戏"
     },
