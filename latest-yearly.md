@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/07/03 16:35:00
+本榜单时间：2025/01/01 00:26:38 ~ 2025/07/03 16:49:05
 </p>
 </blockquote>
 <p>
@@ -1281,6 +1281,12 @@ bnd粉丝去世（热度：4621424）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%A9%E7%89%A9%E6%B5%A6%E5%89%8D%E9%94%8B%E8%8B%A5%E5%A1%94%E5%8E%BB%E4%B8%96%23" target="weibo">
+利物浦前锋若塔去世（热度：4541277）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%87%AF%E6%96%87%E6%89%BF%E8%AE%A4%E6%88%90%E7%BB%A9%E9%80%A0%E5%81%87%23" target="weibo">
 何凯文承认成绩造假（热度：4523747）
 </a>
@@ -1385,12 +1391,6 @@ GAI第一（热度：4228592）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%99%93%E5%BA%86%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%81%B7%E7%A8%8E%23" target="weibo">
 刘晓庆被举报偷税（热度：4209075）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%A9%E7%89%A9%E6%B5%A6%E5%89%8D%E9%94%8B%E8%8B%A5%E5%A1%94%E5%8E%BB%E4%B8%96%23" target="weibo">
-利物浦前锋若塔去世（热度：4200029）
 </a>
 </li>
 

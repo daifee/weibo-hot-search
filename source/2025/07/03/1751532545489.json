@@ -1,0 +1,410 @@
+{
+  "runTime": 1751532545489,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4541277,
+        "num": 4541277,
+        "word": "利物浦前锋若塔去世",
+        "onboard_time": 1751530581,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 899113,
+        "num": 899113,
+        "word": "身份证加水印",
+        "onboard_time": 1751525661,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 10668,
+        "num": 795250,
+        "word": "万千气象看山西",
+        "onboard_time": 1751294963,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1523200,
+        "num": 790303,
+        "word": "森碟下巴后缩改善明显",
+        "onboard_time": 1751529382,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 771230,
+        "num": 771230,
+        "word": "日本末日预言",
+        "onboard_time": 1751526082,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 727265,
+        "num": 727265,
+        "word": "若塔因车祸去世",
+        "onboard_time": 1751530641,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 634991,
+        "num": 634991,
+        "word": "赞多 退赛",
+        "onboard_time": 1751529021,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 444721,
+        "num": 444721,
+        "word": "北京出门像被牛舔了一口",
+        "onboard_time": 1751511020,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196694,
+        "num": 417153,
+        "word": "迪丽热巴我不是千金大小姐吗",
+        "onboard_time": 1751521223,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253555,
+        "num": 394016,
+        "word": "火车突发事故停车断电乘客砸窗通风",
+        "onboard_time": 1751523742,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 691453,
+        "num": 379398,
+        "word": "关晓彤晒减脂餐",
+        "onboard_time": 1751527943,
+        "rank": 10,
+        "category": "艺人,运动健身"
+      },
+      {
+        "raw_hot": 661927,
+        "num": 346766,
+        "word": "暑假新顶流",
+        "onboard_time": 1751525241,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 646544,
+        "num": 328501,
+        "word": "古力娜扎 张云龙",
+        "onboard_time": 1751531482,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 480418,
+        "num": 281979,
+        "word": "马思纯欧豪 人神殊途",
+        "onboard_time": 1751527162,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272438,
+        "num": 272438,
+        "word": "女艺人白玉兰陪跑的高情商发言",
+        "onboard_time": 1751523021,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196873,
+        "num": 272020,
+        "word": "迪丽热巴穿这么美的造型摔跤",
+        "onboard_time": 1751531601,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180690,
+        "num": 271764,
+        "word": "杨紫又出神图了",
+        "onboard_time": 1751519542,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271666,
+        "num": 271666,
+        "word": "最难喝饮料排行榜",
+        "onboard_time": 1751517802,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 142831,
+        "num": 267482,
+        "word": "中餐厅9热血笨蛋群像",
+        "onboard_time": 1751531181,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22407,
+        "num": 264215,
+        "word": "食脑虫致死率高但并非不可治愈",
+        "onboard_time": 1751532140,
+        "rank": 19,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 652239,
+        "num": 263916,
+        "word": "上海交大冲突事件引校门开放之争",
+        "onboard_time": 1751519602,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263507,
+        "num": 263507,
+        "word": "美解除对华芯片设计软件出口管制",
+        "onboard_time": 1751529742,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 245425,
+        "num": 245425,
+        "word": "女大学生家教被欠薪上门蹲守无果",
+        "onboard_time": 1751521282,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231900,
+        "num": 231900,
+        "word": "官方回应火车突发停车乘客砸窗通风",
+        "onboard_time": 1751523682,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228335,
+        "num": 228335,
+        "word": "淘宝闪购免单",
+        "onboard_time": 1751527583,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 220725,
+        "num": 220725,
+        "word": "于正说再蛐蛐我就把截图放上来",
+        "onboard_time": 1751519984,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195103,
+        "num": 195103,
+        "word": "iPhone发烫怎么办",
+        "onboard_time": 1751531420,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 172656,
+        "num": 172656,
+        "word": "鹿晗 烟雾散去那一刻",
+        "onboard_time": 1751520381,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139449,
+        "num": 169793,
+        "word": "北京开会偶遇张艺兴",
+        "onboard_time": 1751526860,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23547,
+        "num": 167576,
+        "word": "耿爽说大量武器弹药从美国流入海地",
+        "onboard_time": 1751532081,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 167317,
+        "num": 167317,
+        "word": "新说唱导师 脏话",
+        "onboard_time": 1751513660,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162174,
+        "num": 162174,
+        "word": "列车脱轨致乘客滞留3小时暂无补偿",
+        "onboard_time": 1751527943,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155033,
+        "num": 155033,
+        "word": "北京 湿度100%",
+        "onboard_time": 1751529861,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152789,
+        "num": 152789,
+        "word": "女子景区蹦极被推下受伤满脸是血",
+        "onboard_time": 1751516423,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135446,
+        "num": 135446,
+        "word": "孟子义巧克力 时装周",
+        "onboard_time": 1751531061,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 126336,
+        "num": 126336,
+        "word": "孙颖莎王楚钦王曼昱等抵美",
+        "onboard_time": 1751529681,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125055,
+        "num": 125055,
+        "word": "让于文文演大佬的是天才",
+        "onboard_time": 1751530461,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123809,
+        "num": 123809,
+        "word": "杨丞琳李荣浩新发色是哪吒敖丙",
+        "onboard_time": 1751532440,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122944,
+        "num": 122944,
+        "word": "解放军位黄岩岛领海领空战备警巡",
+        "onboard_time": 1751528063,
+        "rank": 38,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 120847,
+        "num": 120847,
+        "word": "张云龙知道娜扎有容貌焦虑",
+        "onboard_time": 1751519662,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119907,
+        "num": 119907,
+        "word": "中泰警方已对模特被骗缅甸立案",
+        "onboard_time": 1751527882,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119089,
+        "num": 119089,
+        "word": "江苏河南等地高温健康风险极高",
+        "onboard_time": 1751523742,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114478,
+        "num": 114478,
+        "word": "曾舜晞陈伟霆九门同框路透",
+        "onboard_time": 1751532081,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112827,
+        "num": 112827,
+        "word": "李一桐曝女推在土耳其一起洗澡",
+        "onboard_time": 1751524641,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 111796,
+        "num": 111796,
+        "word": "锦绣芳华",
+        "onboard_time": 1751531901,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107860,
+        "num": 107860,
+        "word": "没人能逃过刘学义新剧这一吻",
+        "onboard_time": 1751532021,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107721,
+        "num": 107721,
+        "word": "赵美延你还回去当爱豆吗",
+        "onboard_time": 1751526381,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107598,
+        "num": 107598,
+        "word": "男子幼儿园门口1天虐杀4只猫",
+        "onboard_time": 1751520441,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105827,
+        "num": 105827,
+        "word": "服用紧急避孕药1年内不应超2次",
+        "onboard_time": 1751518461,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 105757,
+        "num": 105757,
+        "word": "中国海军山东舰航母编队抵达香港",
+        "onboard_time": 1751502983,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#青年的理想信念关乎国家未来#"
+    }
+  }
+}
