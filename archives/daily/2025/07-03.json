@@ -1,7 +1,15 @@
 {
   "startTime": 1751473999400,
-  "endTime": 1751508213407,
+  "endTime": 1751509669448,
   "band_list": [
+    {
+      "raw_hot": 1089295,
+      "num": 1174287,
+      "word": "一棵荔枝树上竟结出30种荔枝",
+      "onboard_time": 1751506342,
+      "rank": 0,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 969248,
       "num": 969248,
@@ -11,12 +19,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 874581,
-      "num": 295632,
+      "raw_hot": 936636,
+      "num": 328633,
       "word": "曝娜扎张云龙近况",
       "onboard_time": 1751499380,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 916017,
+      "num": 916017,
+      "word": "广州一模特被骗至缅甸非法拘禁",
+      "onboard_time": 1751500581,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 871450,
@@ -27,24 +43,8 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 764085,
-      "num": 1122253,
-      "word": "一棵荔枝树上竟结出30种荔枝",
-      "onboard_time": 1751506342,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 749703,
-      "num": 749703,
-      "word": "广州一模特被骗至缅甸非法拘禁",
-      "onboard_time": 1751500581,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 623198,
-      "num": 289636,
+      "raw_hot": 632067,
+      "num": 326479,
       "word": "中文慢慢失去了加密功能",
       "onboard_time": 1751498839,
       "rank": 30,
@@ -91,11 +91,27 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 374417,
-      "num": 190605,
+      "raw_hot": 378507,
+      "num": 268311,
       "word": "28岁女子做取环手术致十级伤残",
       "onboard_time": 1751504063,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 371952,
+      "num": 371952,
+      "word": "印尼一客轮在巴厘海峡沉没",
+      "onboard_time": 1751503403,
+      "rank": 9,
+      "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 366087,
+      "num": 366087,
+      "word": "知情人称5层楼房垮塌前已倾斜",
+      "onboard_time": 1751505263,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -115,12 +131,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 329112,
-      "num": 314779,
-      "word": "印尼一客轮在巴厘海峡沉没",
-      "onboard_time": 1751503403,
-      "rank": 9,
-      "category": "国际时政,民生新闻"
+      "raw_hot": 314377,
+      "num": 314377,
+      "word": "吹牛老爹被判组织卖淫罪",
+      "onboard_time": 1751506761,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 310245,
@@ -155,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 278439,
+      "num": 278439,
+      "word": "利剑玫瑰",
+      "onboard_time": 1751506342,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 272480,
       "num": 272480,
       "word": "北京 热带雨林",
@@ -163,12 +187,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 269842,
+      "num": 269842,
+      "word": "严浩翔安抚黄子韬",
+      "onboard_time": 1751508321,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 269367,
       "num": 269367,
       "word": "埃菲尔铁塔被热到弯曲偏斜",
       "onboard_time": 1751466144,
       "rank": 7,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 266917,
+      "num": 266917,
+      "word": "女孩高考288分属实",
+      "onboard_time": 1751508380,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 260296,
@@ -185,14 +225,6 @@
       "onboard_time": 1751498719,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 248715,
-      "num": 248715,
-      "word": "利剑玫瑰",
-      "onboard_time": 1751506342,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 247467,
@@ -219,6 +251,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 225119,
+      "num": 225119,
+      "word": "张云龙很会给娜扎情绪价值",
+      "onboard_time": 1751507060,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216114,
       "num": 192724,
       "word": "韩国女星李屿迩去世",
@@ -228,10 +268,18 @@
     },
     {
       "raw_hot": 214079,
-      "num": 214079,
+      "num": 269673,
       "word": "魏哲鸣回应一米七一米八",
       "onboard_time": 1751500943,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 198648,
+      "num": 198648,
+      "word": "利剑玫瑰央八定档",
+      "onboard_time": 1751508559,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -259,12 +307,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 183193,
-      "num": 183193,
-      "word": "张云龙很会给娜扎情绪价值",
-      "onboard_time": 1751507060,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 181349,
+      "num": 181349,
+      "word": "重庆12岁男孩掉小区窨井遇难",
+      "onboard_time": 1751509040,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179407,
@@ -315,12 +363,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 156774,
-      "num": 190609,
-      "word": "吹牛老爹被判组织卖淫罪",
-      "onboard_time": 1751506761,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 156024,
+      "num": 156024,
+      "word": "无意中发现了一个找工作的好方法",
+      "onboard_time": 1751508380,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 154991,
+      "num": 154991,
+      "word": "雷军称纽北广告牌空出来一个抢一个",
+      "onboard_time": 1751508860,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 154611,
@@ -329,14 +385,6 @@
       "onboard_time": 1751468603,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 152814,
-      "num": 228893,
-      "word": "知情人称5层楼房垮塌前已倾斜",
-      "onboard_time": 1751505263,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 145037,
@@ -363,6 +411,30 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 137929,
+      "num": 268871,
+      "word": "上汽奥迪A5L开启预售",
+      "onboard_time": 1751509340,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 137543,
+      "num": 268862,
+      "word": "香港市民6点就在等山东舰",
+      "onboard_time": 1751508140,
+      "rank": 34,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 136242,
+      "num": 136242,
+      "word": "王者荣耀新赛季",
+      "onboard_time": 1751504901,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 134793,
       "num": 134793,
       "word": "优酷爆剧三大赛道全面开花",
@@ -377,6 +449,14 @@
       "onboard_time": 1751468484,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 132114,
+      "num": 279253,
+      "word": "2人就餐点茶后还被收11元白开水费",
+      "onboard_time": 1751508140,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131122,
@@ -411,6 +491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121562,
+      "num": 121562,
+      "word": "大学招生办称学费每学年15万不盈利",
+      "onboard_time": 1751509160,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119084,
       "num": 119084,
       "word": "贵阳音乐节全阵容官宣",
@@ -419,20 +507,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 116885,
+      "num": 116885,
+      "word": "第五人格",
+      "onboard_time": 1751509581,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 115484,
+      "num": 115484,
+      "word": "气温预报图热成一片了",
+      "onboard_time": 1751509221,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114313,
+      "num": 114313,
+      "word": "邱党晒与樊振东合照",
+      "onboard_time": 1751509641,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113308,
       "num": 113308,
       "word": "为什么体检无异常发现却是晚期",
       "onboard_time": 1751455222,
       "rank": 37,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 110128,
-      "num": 110128,
-      "word": "王者荣耀新赛季",
-      "onboard_time": 1751504901,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 108436,
@@ -476,7 +580,7 @@
     },
     {
       "raw_hot": 101288,
-      "num": 101288,
+      "num": 175347,
       "word": "货物列车冲突致K1373次列车脱线",
       "onboard_time": 1751506880,
       "rank": 39,
@@ -651,6 +755,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 69465,
+      "num": 121062,
+      "word": "一批抗战主题电视剧将陆续播出",
+      "onboard_time": 1751509641,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 67917,
       "num": 67917,
       "word": "吴谨言美得不知天地为何物",
@@ -747,6 +859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 58732,
+      "num": 175388,
+      "word": "为拍爆筐照片游客疯狂在苍山采菌",
+      "onboard_time": 1751508140,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53966,
       "num": 662277,
       "word": "贵州榕江洪灾救援诠释中国式团结",
@@ -777,6 +897,14 @@
       "onboard_time": 1751498117,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 47909,
+      "num": 267145,
+      "word": "何惟芳简直是女人中的女人",
+      "onboard_time": 1751509400,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 47904,
@@ -915,20 +1043,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 25137,
-      "num": 110933,
-      "word": "香港市民6点就在等山东舰",
-      "onboard_time": 1751508140,
-      "rank": 34,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 24282,
+      "raw_hot": 24871,
       "num": 565627,
       "word": "网警护航高考志愿填报",
       "onboard_time": 1751502622,
       "rank": 2,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 22136,
+      "num": 123036,
+      "word": "中国U19女排3比0突尼斯",
+      "onboard_time": 1751508740,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 20354,
@@ -937,14 +1065,6 @@
       "onboard_time": 1751494816,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 19250,
-      "num": 110356,
-      "word": "为拍爆筐照片游客疯狂在苍山采菌",
-      "onboard_time": 1751508140,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18930,
@@ -969,14 +1089,6 @@
       "onboard_time": 1751485154,
       "rank": 47,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 13208,
-      "num": 102489,
-      "word": "2人就餐点茶后还被收11元白开水费",
-      "onboard_time": 1751508140,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12945,
