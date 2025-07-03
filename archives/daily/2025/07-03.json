@@ -1,6 +1,6 @@
 {
   "startTime": 1751473999400,
-  "endTime": 1751548031215,
+  "endTime": 1751549863952,
   "band_list": [
     {
       "raw_hot": 4541277,
@@ -81,6 +81,14 @@
       "onboard_time": 1751535441,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1146573,
+      "num": 1183451,
+      "word": "王嘉尔借出收入40%给朋友却遭背刺",
+      "onboard_time": 1751545821,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1094764,
@@ -169,14 +177,6 @@
       "onboard_time": 1751500581,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 912906,
-      "num": 1146065,
-      "word": "王嘉尔借出收入40%给朋友却遭背刺",
-      "onboard_time": 1751545821,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 907572,
@@ -315,12 +315,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 658692,
+      "num": 622893,
+      "word": "成都东站",
+      "onboard_time": 1751544861,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 649773,
+      "num": 649773,
+      "word": "日本气象厅发布红色强震警报",
+      "onboard_time": 1751545341,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 632067,
       "num": 379072,
       "word": "中文慢慢失去了加密功能",
       "onboard_time": 1751498839,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 617920,
+      "num": 617920,
+      "word": "李现发了三张杨紫",
+      "onboard_time": 1751546481,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 617383,
@@ -337,14 +361,6 @@
       "onboard_time": 1751515882,
       "rank": 5,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 583047,
-      "num": 583047,
-      "word": "成都东站",
-      "onboard_time": 1751544861,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 566454,
@@ -377,6 +393,14 @@
       "onboard_time": 1751513542,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 533979,
+      "num": 533979,
+      "word": "吴所畏在韩国叫什么",
+      "onboard_time": 1751547143,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 531482,
@@ -419,14 +443,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 498913,
-      "num": 498913,
-      "word": "日本气象厅发布红色强震警报",
-      "onboard_time": 1751545341,
-      "rank": 13,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 487981,
       "num": 487981,
       "word": "亮剑等抗战题材经典作品将展播",
@@ -449,14 +465,6 @@
       "onboard_time": 1751535142,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 455070,
-      "num": 455070,
-      "word": "李现发了三张杨紫",
-      "onboard_time": 1751546481,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 452064,
@@ -707,6 +715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 309156,
+      "num": 309156,
+      "word": "章子怡王俊凯周冬雨坐一起",
+      "onboard_time": 1751547083,
+      "rank": 49,
+      "category": "电影,艺人"
+    },
+    {
       "raw_hot": 297968,
       "num": 394016,
       "word": "火车突发事故停车断电乘客砸窗通风",
@@ -769,6 +785,14 @@
       "onboard_time": 1751544622,
       "rank": 11,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 282593,
+      "num": 282593,
+      "word": "奔跑吧提档七点半播",
+      "onboard_time": 1751548943,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 278827,
@@ -1043,6 +1067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220962,
+      "num": 196893,
+      "word": "秦海璐王俊凯姐弟再同框",
+      "onboard_time": 1751548762,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220682,
       "num": 244986,
       "word": "颖儿胆结石疼到喊救护车送医",
@@ -1107,20 +1139,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 214106,
-      "num": 214106,
-      "word": "章子怡王俊凯周冬雨坐一起",
-      "onboard_time": 1751547083,
-      "rank": 49,
-      "category": "电影,艺人"
-    },
-    {
       "raw_hot": 214079,
       "num": 269673,
       "word": "魏哲鸣回应一米七一米八",
       "onboard_time": 1751500943,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211213,
+      "num": 399545,
+      "word": "成都暴雨红色预警",
+      "onboard_time": 1751547321,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 210218,
@@ -1195,6 +1227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198807,
+      "num": 195342,
+      "word": "蔡徐坤mugler活动状态",
+      "onboard_time": 1751549482,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198648,
       "num": 198648,
       "word": "利剑玫瑰央八定档",
@@ -1209,6 +1249,22 @@
       "onboard_time": 1751504182,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 196964,
+      "num": 196964,
+      "word": "田栩宁新剧男三",
+      "onboard_time": 1751545701,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 195320,
+      "num": 195320,
+      "word": "纸嫁衣",
+      "onboard_time": 1751548583,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 194585,
@@ -1435,14 +1491,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 174839,
-      "num": 174839,
-      "word": "吴所畏在韩国叫什么",
-      "onboard_time": 1751547143,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 173161,
       "num": 173161,
       "word": "AL晋级MSI下一轮",
@@ -1465,14 +1513,6 @@
       "onboard_time": 1751511020,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 170666,
-      "num": 170666,
-      "word": "田栩宁新剧男三",
-      "onboard_time": 1751545701,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 170233,
@@ -1651,6 +1691,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 153055,
+      "num": 153055,
+      "word": "任嘉伦蓝盈莹主演风与潮杀青特辑",
+      "onboard_time": 1751546542,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152390,
       "num": 152390,
       "word": "王楚然好优雅的民国千金",
@@ -1739,6 +1787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138953,
+      "num": 188579,
+      "word": "成都持续暴雨东站变水帘洞",
+      "onboard_time": 1751547682,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138836,
       "num": 138836,
       "word": "减肥要吃够碳水才不易反弹",
@@ -1795,14 +1851,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 135438,
-      "num": 135438,
-      "word": "任嘉伦蓝盈莹主演风与潮杀青特辑",
-      "onboard_time": 1751546542,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 134793,
       "num": 134793,
       "word": "优酷爆剧三大赛道全面开花",
@@ -1825,6 +1873,14 @@
       "onboard_time": 1751535682,
       "rank": 49,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 133063,
+      "num": 133063,
+      "word": "杨幂白裙红伞",
+      "onboard_time": 1751545762,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 132794,
@@ -1865,6 +1921,14 @@
       "onboard_time": 1751521463,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 130841,
+      "num": 130841,
+      "word": "小鹏G7全是标配",
+      "onboard_time": 1751549783,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 130498,
@@ -1931,6 +1995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125657,
+      "num": 125657,
+      "word": "13岁女孩邀请网友住家黄金被卖了",
+      "onboard_time": 1751549362,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124959,
       "num": 124959,
       "word": "俞敏洪发布说明致歉",
@@ -1979,14 +2051,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 123295,
-      "num": 399545,
-      "word": "成都暴雨红色预警",
-      "onboard_time": 1751547321,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 123167,
       "num": 123167,
       "word": "张艺兴参加全国青联第十四届全会",
@@ -2001,14 +2065,6 @@
       "onboard_time": 1751504182,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 121930,
-      "num": 121930,
-      "word": "杨幂白裙红伞",
-      "onboard_time": 1751545762,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 121891,
@@ -2065,6 +2121,14 @@
       "onboard_time": 1751543542,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117125,
+      "num": 117125,
+      "word": "陈胜龙阴湿感太重了",
+      "onboard_time": 1751548403,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 116885,
@@ -2153,6 +2217,14 @@
       "onboard_time": 1751511560,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 113664,
+      "num": 113664,
+      "word": "温宜公主已经长这么大了",
+      "onboard_time": 1751547622,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 113444,
@@ -2371,6 +2443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99431,
+      "num": 99431,
+      "word": "刘学义孟子义吻戏reaction",
+      "onboard_time": 1751549843,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99007,
       "num": 113442,
       "word": "加沙近600人领食物时被打死",
@@ -2401,14 +2481,6 @@
       "onboard_time": 1751498479,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 96561,
-      "num": 96561,
-      "word": "温宜公主已经长这么大了",
-      "onboard_time": 1751547622,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 95372,
@@ -2651,6 +2723,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 69766,
+      "num": 196834,
+      "word": "中国青年大有可为",
+      "onboard_time": 1751549482,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 69396,
       "num": 227311,
       "word": "武功山官微发吊带女孩福利被质疑",
@@ -2729,6 +2809,14 @@
       "onboard_time": 1751498659,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 62417,
+      "num": 129130,
+      "word": "桃花映江山18集22分54秒",
+      "onboard_time": 1751549843,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 62391,
@@ -3060,7 +3148,7 @@
     },
     {
       "raw_hot": 29574,
-      "num": 583353,
+      "num": 626858,
       "word": "我们一起唱民歌",
       "onboard_time": 1751544921,
       "rank": 2,
@@ -3131,20 +3219,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 20196,
-      "num": 188579,
-      "word": "成都持续暴雨东站变水帘洞",
-      "onboard_time": 1751547682,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 18930,
       "num": 20585,
       "word": "袁一琦演唱会见面准备过程",
       "onboard_time": 1751479936,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 18198,
+      "num": 196282,
+      "word": "企业向农村倾倒固废称只是暂存",
+      "onboard_time": 1751548883,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 17557,

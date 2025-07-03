@@ -1,0 +1,410 @@
+{
+  "runTime": 1751549863952,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1146573,
+        "num": 1183451,
+        "word": "王嘉尔借出收入40%给朋友却遭背刺",
+        "onboard_time": 1751545821,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 649773,
+        "num": 649773,
+        "word": "日本气象厅发布红色强震警报",
+        "onboard_time": 1751545341,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 23774,
+        "num": 626858,
+        "word": "我们一起唱民歌",
+        "onboard_time": 1751544921,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 658692,
+        "num": 622893,
+        "word": "成都东站",
+        "onboard_time": 1751544861,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 617920,
+        "num": 617920,
+        "word": "李现发了三张杨紫",
+        "onboard_time": 1751546481,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 533979,
+        "num": 533979,
+        "word": "吴所畏在韩国叫什么",
+        "onboard_time": 1751547143,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 444664,
+        "num": 444664,
+        "word": "27岁女子放疗出院3天突遭车祸身亡",
+        "onboard_time": 1751539041,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338303,
+        "num": 338303,
+        "word": "歌手第八期歌单",
+        "onboard_time": 1751546121,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328932,
+        "num": 328932,
+        "word": "警方通报初一女生遭多人殴打",
+        "onboard_time": 1751540660,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 211213,
+        "num": 314975,
+        "word": "成都暴雨红色预警",
+        "onboard_time": 1751547321,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309156,
+        "num": 309156,
+        "word": "章子怡王俊凯周冬雨坐一起",
+        "onboard_time": 1751547083,
+        "rank": 10,
+        "category": "电影,艺人"
+      },
+      {
+        "raw_hot": 691189,
+        "num": 303431,
+        "word": "男孩暴雨中被网约车司机扔半路",
+        "onboard_time": 1751539341,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290851,
+        "num": 290851,
+        "word": "印度10年造出死亡折角立交桥",
+        "onboard_time": 1751540003,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 282593,
+        "num": 282593,
+        "word": "奔跑吧提档七点半播",
+        "onboard_time": 1751548943,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196964,
+        "num": 196964,
+        "word": "田栩宁新剧男三",
+        "onboard_time": 1751545701,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340971,
+        "num": 196919,
+        "word": "成都暴雨",
+        "onboard_time": 1751534783,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220962,
+        "num": 196893,
+        "word": "秦海璐王俊凯姐弟再同框",
+        "onboard_time": 1751548762,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196836,
+        "num": 196836,
+        "word": "李承铉男人的脏是胜利的勋章",
+        "onboard_time": 1751545582,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69766,
+        "num": 196834,
+        "word": "中国青年大有可为",
+        "onboard_time": 1751549482,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18198,
+        "num": 196282,
+        "word": "企业向农村倾倒固废称只是暂存",
+        "onboard_time": 1751548883,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 224820,
+        "num": 195765,
+        "word": "小鹏G7发布震惊央视朱广权",
+        "onboard_time": 1751546121,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 198807,
+        "num": 195342,
+        "word": "蔡徐坤mugler活动状态",
+        "onboard_time": 1751549482,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195320,
+        "num": 195320,
+        "word": "纸嫁衣",
+        "onboard_time": 1751548583,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183879,
+        "num": 183879,
+        "word": "风月不相关女主",
+        "onboard_time": 1751541741,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183262,
+        "num": 183262,
+        "word": "俄海军副司令遇袭身亡",
+        "onboard_time": 1751537601,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 162977,
+        "num": 162977,
+        "word": "利物浦前锋若塔去世",
+        "onboard_time": 1751530581,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153055,
+        "num": 153055,
+        "word": "任嘉伦蓝盈莹主演风与潮杀青特辑",
+        "onboard_time": 1751546542,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147771,
+        "num": 147771,
+        "word": "1.5L装的东方树叶",
+        "onboard_time": 1751534662,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141305,
+        "num": 141305,
+        "word": "小鹏G7太香了",
+        "onboard_time": 1751544622,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 138953,
+        "num": 138953,
+        "word": "成都持续暴雨东站变水帘洞",
+        "onboard_time": 1751547682,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136628,
+        "num": 136628,
+        "word": "Tabe发文道歉",
+        "onboard_time": 1751545582,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135694,
+        "num": 135694,
+        "word": "日本末日预言",
+        "onboard_time": 1751526082,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 133063,
+        "num": 133063,
+        "word": "杨幂白裙红伞",
+        "onboard_time": 1751545762,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130841,
+        "num": 130841,
+        "word": "小鹏G7全是标配",
+        "onboard_time": 1751549783,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 62417,
+        "num": 129130,
+        "word": "桃花映江山18集22分54秒",
+        "onboard_time": 1751549843,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128824,
+        "num": 128824,
+        "word": "北京出门像被牛舔了一口",
+        "onboard_time": 1751511020,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128002,
+        "num": 128002,
+        "word": "若塔因车祸去世",
+        "onboard_time": 1751530641,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125657,
+        "num": 125657,
+        "word": "13岁女孩邀请网友住家黄金被卖了",
+        "onboard_time": 1751549362,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125476,
+        "num": 125476,
+        "word": "身份证加水印",
+        "onboard_time": 1751525661,
+        "rank": 38,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 123536,
+        "num": 123536,
+        "word": "女子带儿子打伤出轨老公后双双被拘",
+        "onboard_time": 1751536162,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118346,
+        "num": 118346,
+        "word": "暑假新顶流",
+        "onboard_time": 1751525241,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117125,
+        "num": 117125,
+        "word": "陈胜龙阴湿感太重了",
+        "onboard_time": 1751548403,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116741,
+        "num": 116741,
+        "word": "奔跑吧",
+        "onboard_time": 1751537781,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115303,
+        "num": 115303,
+        "word": "歌手提档七点半播",
+        "onboard_time": 1751543782,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115112,
+        "num": 115112,
+        "word": "迪丽热巴警服造型又美又飒",
+        "onboard_time": 1751545942,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113664,
+        "num": 113664,
+        "word": "温宜公主已经长这么大了",
+        "onboard_time": 1751547622,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101998,
+        "num": 101998,
+        "word": "赞多 退赛",
+        "onboard_time": 1751529021,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99431,
+        "num": 99431,
+        "word": "刘学义孟子义吻戏reaction",
+        "onboard_time": 1751549843,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97501,
+        "num": 97501,
+        "word": "男子病逝后家人完成遗愿洒下钞票雨",
+        "onboard_time": 1751538081,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 92429,
+        "num": 92429,
+        "word": "宋茜红色蝴蝶结长裙",
+        "onboard_time": 1751547443,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国青年大有可为#"
+    }
+  }
+}
