@@ -1,6 +1,6 @@
 {
   "startTime": 1751560391149,
-  "endTime": 1751585126719,
+  "endTime": 1751586082222,
   "band_list": [
     {
       "raw_hot": 2967815,
@@ -9,6 +9,14 @@
       "onboard_time": 1751554224,
       "rank": 5,
       "category": "民生新闻,数码"
+    },
+    {
+      "raw_hot": 828222,
+      "num": 972793,
+      "word": "夜爬泰山 误闯天家",
+      "onboard_time": 1751580795,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 712097,
@@ -35,14 +43,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 612518,
-      "num": 612518,
-      "word": "夜爬泰山 误闯天家",
-      "onboard_time": 1751580795,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 539850,
       "num": 229092,
       "word": "25岁杀夫新娘和舅舅有15年非法关系",
@@ -67,8 +67,24 @@
       "category": "幽默,剧集"
     },
     {
-      "raw_hot": 308527,
-      "num": 308527,
+      "raw_hot": 359134,
+      "num": 195600,
+      "word": "妻子精心打扮引丈夫怀疑被捉奸在床",
+      "onboard_time": 1751585419,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 341374,
+      "num": 204813,
+      "word": "雨果因签证问题无缘美国大满贯",
+      "onboard_time": 1751584278,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 309500,
+      "num": 309500,
       "word": "相亲次日就领证后发现女方隐瞒病情",
       "onboard_time": 1751554282,
       "rank": 4,
@@ -131,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 177087,
+      "num": 177087,
+      "word": "BLG战胜MKOI",
+      "onboard_time": 1751584278,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 169552,
       "num": 169552,
       "word": "亲生母亲8万多元卖掉自己的两个孩子",
@@ -140,7 +164,7 @@
     },
     {
       "raw_hot": 167348,
-      "num": 167348,
+      "num": 201727,
       "word": "金靖走心发言把刘宇宁感动哭了",
       "onboard_time": 1751553684,
       "rank": 13,
@@ -155,15 +179,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 155723,
-      "num": 155723,
-      "word": "BLG战胜MKOI",
-      "onboard_time": 1751584278,
-      "rank": 15,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 154979,
+      "raw_hot": 156746,
       "num": 234807,
       "word": "李现发了三张杨紫",
       "onboard_time": 1751546481,
@@ -211,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138977,
+      "num": 138977,
+      "word": "高温高湿一种致命急症发病率上升",
+      "onboard_time": 1751584638,
+      "rank": 25,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 138462,
       "num": 138462,
       "word": "印度10年造出死亡折角立交桥",
@@ -228,19 +252,19 @@
     },
     {
       "raw_hot": 137362,
-      "num": 154152,
+      "num": 198897,
       "word": "杨幂在电影节开幕式的自我介绍",
       "onboard_time": 1751559142,
       "rank": 21,
       "category": "电影,艺人"
     },
     {
-      "raw_hot": 129887,
-      "num": 90932,
-      "word": "雨果因签证问题无缘美国大满贯",
-      "onboard_time": 1751584278,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 130349,
+      "num": 130349,
+      "word": "萌兰10岁啦花花和叶5岁啦",
+      "onboard_time": 1751584458,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114877,
@@ -283,12 +307,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 94324,
-      "num": 94324,
-      "word": "高温高湿一种致命急症发病率上升",
+      "raw_hot": 111865,
+      "num": 232337,
+      "word": "成都最大降水量323毫米在人民公园",
       "onboard_time": 1751584638,
-      "rank": 25,
-      "category": "健康医疗,民生新闻"
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109289,
+      "num": 202593,
+      "word": "王菊吐槽女装尺寸问题",
+      "onboard_time": 1751585659,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 104356,
+      "num": 104356,
+      "word": "中午少吃还是晚上少吃",
+      "onboard_time": 1751584519,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 91880,
+      "num": 200345,
+      "word": "老王哥以后还是少去广东",
+      "onboard_time": 1751583677,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 91293,
@@ -347,12 +395,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 82466,
-      "num": 82466,
-      "word": "萌兰10岁啦花花和叶5岁啦",
-      "onboard_time": 1751584458,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 81858,
+      "num": 81858,
+      "word": "东部战区太宠常州了",
+      "onboard_time": 1751585359,
+      "rank": 37,
+      "category": "体育,军事"
     },
     {
       "raw_hot": 81613,
@@ -369,6 +417,14 @@
       "onboard_time": 1751561119,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 81229,
+      "num": 210283,
+      "word": "美众议院通过大而美法案",
+      "onboard_time": 1751584999,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 80490,
@@ -403,14 +459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 75363,
-      "num": 75363,
-      "word": "老王哥以后还是少去广东",
-      "onboard_time": 1751583677,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 74160,
       "num": 74160,
       "word": "单依纯 烈焰红唇",
@@ -435,14 +483,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 66930,
-      "num": 66930,
-      "word": "中午少吃还是晚上少吃",
-      "onboard_time": 1751584519,
-      "rank": 43,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 66493,
       "num": 66493,
       "word": "babycare纸尿裤发现黑色尖状异物",
@@ -460,7 +500,7 @@
     },
     {
       "raw_hot": 66366,
-      "num": 91449,
+      "num": 121301,
       "word": "桃花映江山18集22分54秒",
       "onboard_time": 1751549843,
       "rank": 44,
@@ -547,22 +587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 54115,
-      "num": 77497,
-      "word": "美众议院通过大而美法案",
-      "onboard_time": 1751584999,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 50397,
-      "num": 232337,
-      "word": "成都最大降水量323毫米在人民公园",
-      "onboard_time": 1751584638,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 48016,
       "num": 68346,
       "word": "起猛了航母开楼下了",
@@ -587,12 +611,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40768,
+      "num": 75054,
+      "word": "瘦全身最快的5个小方法",
+      "onboard_time": 1751584940,
+      "rank": 38,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 40007,
       "num": 64248,
       "word": "赵一博直播",
       "onboard_time": 1751563037,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 37786,
+      "num": 65126,
+      "word": "瓦兰丘纳斯交易掘金",
+      "onboard_time": 1751583859,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 35205,
@@ -651,12 +691,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 24911,
-      "num": 75054,
-      "word": "瘦全身最快的5个小方法",
-      "onboard_time": 1751584940,
-      "rank": 38,
-      "category": "运动健身"
+      "raw_hot": 25584,
+      "num": 203390,
+      "word": "民主党为拖延大而美法案演讲9小时",
+      "onboard_time": 1751585120,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 24669,
+      "num": 197021,
+      "word": "哥伦比亚召回驻美大使",
+      "onboard_time": 1751584999,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 21160,
@@ -665,14 +713,6 @@
       "onboard_time": 1751567776,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 16032,
-      "num": 74886,
-      "word": "哥伦比亚召回驻美大使",
-      "onboard_time": 1751584999,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 11238,
