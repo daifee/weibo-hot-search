@@ -1,0 +1,410 @@
+{
+  "runTime": 1751515023144,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1713034,
+        "num": 1713034,
+        "word": "北京出门像被牛舔了一口",
+        "onboard_time": 1751511020,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 705407,
+        "num": 705407,
+        "word": "女孩高考288分属实",
+        "onboard_time": 1751508380,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22920,
+        "num": 559738,
+        "word": "网警护航高考志愿填报",
+        "onboard_time": 1751502622,
+        "rank": 2,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 1833388,
+        "num": 540917,
+        "word": "王星女友为被骗缅甸模特发声",
+        "onboard_time": 1751512341,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 513758,
+        "num": 513758,
+        "word": "中国海军山东舰航母编队抵达香港",
+        "onboard_time": 1751502983,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 487981,
+        "num": 487981,
+        "word": "亮剑等抗战题材经典作品将展播",
+        "onboard_time": 1751511260,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 473085,
+        "num": 473085,
+        "word": "我放过的坏人杀了我的亲人",
+        "onboard_time": 1751511080,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 472325,
+        "num": 472325,
+        "word": "一棵荔枝树上竟结出30种荔枝",
+        "onboard_time": 1751506342,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 452064,
+        "num": 452064,
+        "word": "西门子称美取消对中国芯片设计软件出口限制",
+        "onboard_time": 1751511203,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 431819,
+        "num": 431819,
+        "word": "抗战胜利80周年优秀文艺作品",
+        "onboard_time": 1751512762,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 952394,
+        "num": 408016,
+        "word": "新说唱导师 脏话",
+        "onboard_time": 1751513660,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 587273,
+        "num": 406506,
+        "word": "曝娜扎张云龙近况",
+        "onboard_time": 1751499380,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379072,
+        "num": 379072,
+        "word": "中文慢慢失去了加密功能",
+        "onboard_time": 1751498839,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 378581,
+        "num": 378581,
+        "word": "不工作 内心空虚",
+        "onboard_time": 1751512522,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 343782,
+        "num": 343782,
+        "word": "一批抗战主题电视剧将陆续播出",
+        "onboard_time": 1751509641,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296096,
+        "num": 296096,
+        "word": "披荆斩棘5一公分组选曲",
+        "onboard_time": 1751510301,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266021,
+        "num": 266021,
+        "word": "苏醒捡手机群聊",
+        "onboard_time": 1751511623,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 264911,
+        "num": 264911,
+        "word": "别墅里面唱K",
+        "onboard_time": 1751513542,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 87557,
+        "num": 262783,
+        "word": "文淇李庚希赵今麦00花同框",
+        "onboard_time": 1751514561,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185292,
+        "num": 261635,
+        "word": "直播山东舰航母编队访港",
+        "onboard_time": 1751511982,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 261150,
+        "num": 261150,
+        "word": "杭州热到全国第一了",
+        "onboard_time": 1751498479,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253794,
+        "num": 253794,
+        "word": "刘宇宁婉拒了哈",
+        "onboard_time": 1751513480,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232715,
+        "num": 232715,
+        "word": "28岁女子做取环手术致十级伤残",
+        "onboard_time": 1751504063,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223489,
+        "num": 223489,
+        "word": "105斤女生卧推100斤",
+        "onboard_time": 1751513423,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 220640,
+        "num": 220640,
+        "word": "重庆12岁男孩掉小区窨井遇难",
+        "onboard_time": 1751509040,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189479,
+        "num": 189479,
+        "word": "山东舰航母编队又燃又帅",
+        "onboard_time": 1751501783,
+        "rank": 25,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 178966,
+        "num": 178966,
+        "word": "双轨还不定档",
+        "onboard_time": 1751514142,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154836,
+        "num": 154836,
+        "word": "樱桃琥珀 暂定7月14日",
+        "onboard_time": 1751514561,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150994,
+        "num": 150994,
+        "word": "大学招生办称学费每学年15万不盈利",
+        "onboard_time": 1751509160,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147784,
+        "num": 150165,
+        "word": "被麦琳抄袭博主拒绝赔偿只求平静生活",
+        "onboard_time": 1751469023,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149660,
+        "num": 149660,
+        "word": "纪念抗战胜利80周年文艺晚会",
+        "onboard_time": 1751513302,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 148163,
+        "num": 148163,
+        "word": "黄牛为什么能抢走演唱会门票",
+        "onboard_time": 1751465425,
+        "rank": 31,
+        "category": "民生新闻,演出"
+      },
+      {
+        "raw_hot": 148039,
+        "num": 148039,
+        "word": "微软再裁员约9000人",
+        "onboard_time": 1751513542,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 141728,
+        "num": 141728,
+        "word": "喇叭新娘专治哑巴新郎",
+        "onboard_time": 1751514502,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137450,
+        "num": 137450,
+        "word": "利剑玫瑰",
+        "onboard_time": 1751506342,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136140,
+        "num": 136140,
+        "word": "樊振东的新男团合影",
+        "onboard_time": 1751511020,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135398,
+        "num": 135398,
+        "word": "美犯罪学博士凌晨残杀4名大学生",
+        "onboard_time": 1751504182,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 131681,
+        "num": 131681,
+        "word": "吹牛老爹被判组织卖淫罪",
+        "onboard_time": 1751506761,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130129,
+        "num": 130129,
+        "word": "男子因好奇上个厕所连续转账14次",
+        "onboard_time": 1751514861,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126329,
+        "num": 126329,
+        "word": "国新办发布会介绍风与潮等影视剧",
+        "onboard_time": 1751510840,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123167,
+        "num": 123167,
+        "word": "张艺兴参加全国青联第十四届全会",
+        "onboard_time": 1751514742,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121953,
+        "num": 121953,
+        "word": "张云龙很会给娜扎情绪价值",
+        "onboard_time": 1751507060,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121421,
+        "num": 121421,
+        "word": "三伏天补气血最佳方法是蒸荔枝",
+        "onboard_time": 1751514982,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 119453,
+        "num": 119453,
+        "word": "利剑玫瑰央八定档",
+        "onboard_time": 1751508559,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116451,
+        "num": 116451,
+        "word": "2人就餐点茶后还被收11元白开水费",
+        "onboard_time": 1751508140,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112576,
+        "num": 112576,
+        "word": "李在明举行记者会",
+        "onboard_time": 1751512641,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112047,
+        "num": 112047,
+        "word": "香港市民6点就在等山东舰",
+        "onboard_time": 1751508140,
+        "rank": 46,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 110857,
+        "num": 110857,
+        "word": "章子怡赵丽颖酱园弄下有重要戏份",
+        "onboard_time": 1751503823,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105244,
+        "num": 105244,
+        "word": "日本7月5日大地震预言会成真吗",
+        "onboard_time": 1751469263,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 104649,
+        "num": 104649,
+        "word": "小米汽车考虑2027年出国",
+        "onboard_time": 1751511560,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋力书写挺膺担当的青春篇章#"
+    }
+  }
+}
