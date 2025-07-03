@@ -1,10 +1,10 @@
 {
   "startTime": 1751473999400,
-  "endTime": 1751517481346,
+  "endTime": 1751518493153,
   "band_list": [
     {
       "raw_hot": 1971597,
-      "num": 585341,
+      "num": 860448,
       "word": "王星女友为被骗缅甸模特发声",
       "onboard_time": 1751512341,
       "rank": 3,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1232055,
-      "num": 408016,
+      "num": 409849,
       "word": "新说唱导师 脏话",
       "onboard_time": 1751513660,
       "rank": 32,
@@ -41,6 +41,14 @@
       "onboard_time": 1751469263,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 968427,
+      "num": 968427,
+      "word": "九江教育局致歉",
+      "onboard_time": 1751515882,
+      "rank": 22,
+      "category": "教育"
     },
     {
       "raw_hot": 936636,
@@ -67,6 +75,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 843976,
+      "num": 843976,
+      "word": "女子景区蹦极被推下受伤满脸是血",
+      "onboard_time": 1751516423,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 705407,
       "num": 705407,
       "word": "女孩高考288分属实",
@@ -75,16 +91,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 676757,
-      "num": 676757,
+      "raw_hot": 690458,
+      "num": 690458,
       "word": "男子因好奇上个厕所连续转账14次",
       "onboard_time": 1751514861,
       "rank": 38,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 666413,
-      "num": 371160,
+      "raw_hot": 678213,
+      "num": 405249,
       "word": "公务员考试的所有公式都在这里了",
       "onboard_time": 1751515223,
       "rank": 11,
@@ -99,12 +115,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 611275,
+      "num": 611275,
+      "word": "饮品 咖啡因过量",
+      "onboard_time": 1751515882,
+      "rank": 5,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 566454,
       "num": 566454,
       "word": "我放过的坏人杀了我的亲人",
       "onboard_time": 1751511080,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 549381,
+      "num": 549381,
+      "word": "别墅里面唱K",
+      "onboard_time": 1751513542,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 531482,
@@ -147,14 +179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 485443,
-      "num": 337964,
-      "word": "九江教育局致歉",
-      "onboard_time": 1751515882,
-      "rank": 22,
-      "category": "教育"
-    },
-    {
       "raw_hot": 483181,
       "num": 202907,
       "word": "小黄豆 芮芮",
@@ -171,14 +195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 435395,
-      "num": 435395,
-      "word": "饮品 咖啡因过量",
-      "onboard_time": 1751515882,
-      "rank": 5,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 431819,
       "num": 431819,
       "word": "抗战胜利80周年优秀文艺作品",
@@ -188,7 +204,7 @@
     },
     {
       "raw_hot": 423818,
-      "num": 332236,
+      "num": 359159,
       "word": "7月财运最旺的星座",
       "onboard_time": 1751516361,
       "rank": 23,
@@ -201,14 +217,6 @@
       "onboard_time": 1751498479,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 379742,
-      "num": 379742,
-      "word": "别墅里面唱K",
-      "onboard_time": 1751513542,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 378507,
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 366143,
-      "num": 366143,
+      "num": 374744,
       "word": "披荆斩棘5一公分组选曲",
       "onboard_time": 1751510301,
       "rank": 12,
@@ -267,20 +275,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 351628,
-      "num": 324656,
-      "word": "女子景区蹦极被推下受伤满脸是血",
-      "onboard_time": 1751516423,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 350132,
       "num": 350132,
       "word": "章子怡赵丽颖酱园弄下有重要戏份",
       "onboard_time": 1751503823,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 316213,
+      "num": 316213,
+      "word": "徐艺洋回应黄子韬未读乱回",
+      "onboard_time": 1751517743,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 316014,
@@ -307,11 +315,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 299485,
+      "num": 299485,
+      "word": "最难喝饮料排行榜",
+      "onboard_time": 1751517802,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 296228,
       "num": 296228,
       "word": "20年前的高考成绩可网络查询了",
       "onboard_time": 1751469682,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 293595,
+      "num": 417560,
+      "word": "中日友好医院称要有刮骨疗毒的决心",
+      "onboard_time": 1751517084,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -337,6 +361,14 @@
       "onboard_time": 1751506342,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 276359,
+      "num": 276359,
+      "word": "火箭交易杜兰特",
+      "onboard_time": 1751516361,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 272480,
@@ -385,14 +417,6 @@
       "onboard_time": 1751498719,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 249646,
-      "num": 249646,
-      "word": "火箭交易杜兰特",
-      "onboard_time": 1751516361,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 247467,
@@ -491,6 +515,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212195,
+      "num": 212195,
+      "word": "张凌赫王楚然路透爸爸妈妈级别",
+      "onboard_time": 1751518461,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 209863,
+      "num": 277018,
+      "word": "苦果亦是果你俩不白活",
+      "onboard_time": 1751517563,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207782,
       "num": 207782,
       "word": "纪念抗战胜利80周年文艺晚会",
@@ -515,6 +555,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 202874,
+      "num": 223181,
+      "word": "被秦六郎气死",
+      "onboard_time": 1751517442,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198648,
       "num": 198648,
       "word": "利剑玫瑰央八定档",
@@ -529,6 +577,22 @@
       "onboard_time": 1751504182,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 194585,
+      "num": 194585,
+      "word": "第二个逼疯摄影师的节目嘉宾出现了",
+      "onboard_time": 1751517984,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 192731,
+      "num": 192731,
+      "word": "国色芳华重生之锦绣芳华归来",
+      "onboard_time": 1751515822,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 190560,
@@ -547,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188928,
+      "num": 188928,
+      "word": "马斯克连发数十条帖文",
+      "onboard_time": 1751517084,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 182581,
       "num": 182581,
       "word": "三伏天补气血最佳方法是蒸荔枝",
@@ -563,6 +635,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 179138,
+      "num": 179138,
+      "word": "山东舰10架舰载战斗机列阵",
+      "onboard_time": 1751516782,
+      "rank": 42,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 178966,
       "num": 178966,
       "word": "双轨还不定档",
@@ -577,6 +657,14 @@
       "onboard_time": 1751510840,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175733,
+      "num": 175733,
+      "word": "和平精英",
+      "onboard_time": 1751516183,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 173161,
@@ -643,30 +731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 158858,
-      "num": 158858,
-      "word": "国色芳华重生之锦绣芳华归来",
-      "onboard_time": 1751515822,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 158377,
-      "num": 158377,
-      "word": "和平精英",
-      "onboard_time": 1751516183,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 156680,
-      "num": 156680,
-      "word": "被秦六郎气死",
-      "onboard_time": 1751517442,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 156024,
       "num": 156024,
       "word": "无意中发现了一个找工作的好方法",
@@ -699,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149118,
+      "num": 149118,
+      "word": "服用紧急避孕药1年内不应超2次",
+      "onboard_time": 1751518461,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 145037,
       "num": 145037,
       "word": "男童打水仗后发烧感染食脑虫",
@@ -729,14 +801,6 @@
       "onboard_time": 1751502983,
       "rank": 28,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 138424,
-      "num": 347212,
-      "word": "中日友好医院称要有刮骨疗毒的决心",
-      "onboard_time": 1751517084,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 137929,
@@ -1035,6 +1099,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 89246,
+      "num": 366146,
+      "word": "妈妈快来店里全是吴彦祖",
+      "onboard_time": 1751516662,
+      "rank": 16,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 88558,
       "num": 88558,
       "word": "AL对阵Fly",
@@ -1084,7 +1156,7 @@
     },
     {
       "raw_hot": 84865,
-      "num": 354044,
+      "num": 370213,
       "word": "红山动物天团的反差萌",
       "onboard_time": 1751516662,
       "rank": 15,
@@ -1195,14 +1267,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 64082,
-      "num": 353186,
-      "word": "妈妈快来店里全是吴彦祖",
-      "onboard_time": 1751516662,
-      "rank": 16,
-      "category": "民生新闻,艺人"
-    },
-    {
       "raw_hot": 62938,
       "num": 62938,
       "word": "鹿晗10年后重返诺言青岛拍摄地",
@@ -1259,6 +1323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61860,
+      "num": 361126,
+      "word": "举报占道经营后被对方找到2次殴打",
+      "onboard_time": 1751517084,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59913,
       "num": 59913,
       "word": "丁禹兮穿了恩利设计的衣服",
@@ -1289,6 +1361,14 @@
       "onboard_time": 1751468124,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 50888,
+      "num": 876577,
+      "word": "首个全国高温健康风险预警",
+      "onboard_time": 1751517984,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49643,
@@ -1481,14 +1561,6 @@
       "onboard_time": 1751494816,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 20289,
-      "num": 346092,
-      "word": "举报占道经营后被对方找到2次殴打",
-      "onboard_time": 1751517084,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18930,

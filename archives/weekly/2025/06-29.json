@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751517481346,
+  "endTime": 1751518493153,
   "band_list": [
     {
       "raw_hot": 3569605,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 1971597,
-      "num": 585341,
+      "num": 860448,
       "word": "王星女友为被骗缅甸模特发声",
       "onboard_time": 1751512341,
       "rank": 3,
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 1232055,
-      "num": 408016,
+      "num": 409849,
       "word": "新说唱导师 脏话",
       "onboard_time": 1751513660,
       "rank": 32,
@@ -659,6 +659,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 968427,
+      "num": 968427,
+      "word": "九江教育局致歉",
+      "onboard_time": 1751515882,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 944356,
       "num": 525709,
       "word": "10月龄婴儿在展馆内喝奶瓶被赶出",
@@ -825,6 +833,14 @@
       "onboard_time": 1751356581,
       "rank": 12,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 843976,
+      "num": 843976,
+      "word": "女子景区蹦极被推下受伤满脸是血",
+      "onboard_time": 1751516423,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 842417,
@@ -1235,6 +1251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 690458,
+      "num": 690458,
+      "word": "男子因好奇上个厕所连续转账14次",
+      "onboard_time": 1751514861,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 689909,
       "num": 689909,
       "word": "特斯拉反击小米YU7",
@@ -1275,12 +1299,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 676757,
-      "num": 676757,
-      "word": "男子因好奇上个厕所连续转账14次",
-      "onboard_time": 1751514861,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 678213,
+      "num": 405249,
+      "word": "公务员考试的所有公式都在这里了",
+      "onboard_time": 1751515223,
+      "rank": 11,
+      "category": "教育"
     },
     {
       "raw_hot": 673407,
@@ -1305,14 +1329,6 @@
       "onboard_time": 1751416580,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 666413,
-      "num": 371160,
-      "word": "公务员考试的所有公式都在这里了",
-      "onboard_time": 1751515223,
-      "rank": 11,
-      "category": "教育"
     },
     {
       "raw_hot": 665024,
@@ -1555,6 +1571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 611275,
+      "num": 611275,
+      "word": "饮品 咖啡因过量",
+      "onboard_time": 1751515882,
+      "rank": 5,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 611173,
       "num": 611173,
       "word": "特朗普开会时突然夸奖非洲记者漂亮",
@@ -1753,6 +1777,14 @@
       "onboard_time": 1751364681,
       "rank": 17,
       "category": "网红"
+    },
+    {
+      "raw_hot": 549381,
+      "num": 549381,
+      "word": "别墅里面唱K",
+      "onboard_time": 1751513542,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 549320,
@@ -2171,14 +2203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 485443,
-      "num": 337964,
-      "word": "九江教育局致歉",
-      "onboard_time": 1751515882,
-      "rank": 22,
-      "category": "教育"
-    },
-    {
       "raw_hot": 485239,
       "num": 485239,
       "word": "于正回应和肖战合作",
@@ -2395,14 +2419,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 435395,
-      "num": 435395,
-      "word": "饮品 咖啡因过量",
-      "onboard_time": 1751515882,
-      "rank": 5,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 434120,
       "num": 273736,
       "word": "生理性喜欢是很恐怖的一件事",
@@ -2524,7 +2540,7 @@
     },
     {
       "raw_hot": 423818,
-      "num": 332236,
+      "num": 359159,
       "word": "7月财运最旺的星座",
       "onboard_time": 1751516361,
       "rank": 23,
@@ -2843,14 +2859,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 379742,
-      "num": 379742,
-      "word": "别墅里面唱K",
-      "onboard_time": 1751513542,
-      "rank": 28,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 378507,
       "num": 316099,
       "word": "28岁女子做取环手术致十级伤残",
@@ -2956,7 +2964,7 @@
     },
     {
       "raw_hot": 366143,
-      "num": 366143,
+      "num": 374744,
       "word": "披荆斩棘5一公分组选曲",
       "onboard_time": 1751510301,
       "rank": 12,
@@ -3089,14 +3097,6 @@
       "onboard_time": 1751347642,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 351628,
-      "num": 324656,
-      "word": "女子景区蹦极被推下受伤满脸是血",
-      "onboard_time": 1751516423,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 350733,
@@ -3395,6 +3395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 316213,
+      "num": 316213,
+      "word": "徐艺洋回应黄子韬未读乱回",
+      "onboard_time": 1751517743,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 316014,
       "num": 356129,
       "word": "苏醒捡手机群聊",
@@ -3603,6 +3611,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 299485,
+      "num": 299485,
+      "word": "最难喝饮料排行榜",
+      "onboard_time": 1751517802,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 299295,
       "num": 266198,
       "word": "夏天女装 不日常",
@@ -3736,6 +3752,14 @@
       "word": "女子车上发现人脸蜘蛛",
       "onboard_time": 1751196739,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 293595,
+      "num": 417560,
+      "word": "中日友好医院称要有刮骨疗毒的决心",
+      "onboard_time": 1751517084,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -3969,6 +3993,14 @@
       "onboard_time": 1751282482,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 276359,
+      "num": 276359,
+      "word": "火箭交易杜兰特",
+      "onboard_time": 1751516361,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 275320,
@@ -4313,14 +4345,6 @@
       "onboard_time": 1751194459,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 249646,
-      "num": 249646,
-      "word": "火箭交易杜兰特",
-      "onboard_time": 1751516361,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 248888,
@@ -5107,6 +5131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212195,
+      "num": 212195,
+      "word": "张凌赫王楚然路透爸爸妈妈级别",
+      "onboard_time": 1751518461,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212192,
       "num": 212192,
       "word": "王源 小小孩",
@@ -5145,6 +5177,14 @@
       "onboard_time": 1751439922,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209863,
+      "num": 277018,
+      "word": "苦果亦是果你俩不白活",
+      "onboard_time": 1751517563,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 209447,
@@ -5417,6 +5457,14 @@
       "onboard_time": 1751200342,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 202874,
+      "num": 223181,
+      "word": "被秦六郎气死",
+      "onboard_time": 1751517442,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 202512,
@@ -5795,6 +5843,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 194585,
+      "num": 194585,
+      "word": "第二个逼疯摄影师的节目嘉宾出现了",
+      "onboard_time": 1751517984,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194534,
       "num": 194534,
       "word": "原来我理想的生活只需要4721元",
@@ -5873,6 +5929,14 @@
       "onboard_time": 1751362944,
       "rank": 41,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 192731,
+      "num": 192731,
+      "word": "国色芳华重生之锦绣芳华归来",
+      "onboard_time": 1751515822,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 192550,
@@ -6041,6 +6105,14 @@
       "onboard_time": 1751282122,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 188928,
+      "num": 188928,
+      "word": "马斯克连发数十条帖文",
+      "onboard_time": 1751517084,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 188790,
@@ -6435,6 +6507,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 179138,
+      "num": 179138,
+      "word": "山东舰10架舰载战斗机列阵",
+      "onboard_time": 1751516782,
+      "rank": 42,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 179062,
       "num": 179062,
       "word": "程潇讲脱口秀听着听着就哭了",
@@ -6561,6 +6641,14 @@
       "onboard_time": 1751172203,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175733,
+      "num": 175733,
+      "word": "和平精英",
+      "onboard_time": 1751516183,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 175707,
@@ -7563,28 +7651,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 158858,
-      "num": 158858,
-      "word": "国色芳华重生之锦绣芳华归来",
-      "onboard_time": 1751515822,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 158500,
       "num": 158500,
       "word": "7月份十二星座注意事项",
       "onboard_time": 1751294484,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 158377,
-      "num": 158377,
-      "word": "和平精英",
-      "onboard_time": 1751516183,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 157835,
@@ -7641,14 +7713,6 @@
       "onboard_time": 1751347281,
       "rank": 40,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 156680,
-      "num": 156680,
-      "word": "被秦六郎气死",
-      "onboard_time": 1751517442,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 156621,
@@ -8105,6 +8169,14 @@
       "onboard_time": 1751179341,
       "rank": 18,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 149118,
+      "num": 149118,
+      "word": "服用紧急避孕药1年内不应超2次",
+      "onboard_time": 1751518461,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 149081,
@@ -8889,14 +8961,6 @@
       "onboard_time": 1751211262,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 138424,
-      "num": 347212,
-      "word": "中日友好医院称要有刮骨疗毒的决心",
-      "onboard_time": 1751517084,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 138325,
@@ -12531,6 +12595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89246,
+      "num": 366146,
+      "word": "妈妈快来店里全是吴彦祖",
+      "onboard_time": 1751516662,
+      "rank": 16,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 88860,
       "num": 117478,
       "word": "五十公里桃花坞",
@@ -12700,7 +12772,7 @@
     },
     {
       "raw_hot": 84865,
-      "num": 354044,
+      "num": 370213,
       "word": "红山动物天团的反差萌",
       "onboard_time": 1751516662,
       "rank": 15,
@@ -13467,14 +13539,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 64082,
-      "num": 353186,
-      "word": "妈妈快来店里全是吴彦祖",
-      "onboard_time": 1751516662,
-      "rank": 16,
-      "category": "民生新闻,艺人"
-    },
-    {
       "raw_hot": 64049,
       "num": 213153,
       "word": "书卷一梦有自己的labubu",
@@ -13561,6 +13625,14 @@
       "onboard_time": 1751429843,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61860,
+      "num": 361126,
+      "word": "举报占道经营后被对方找到2次殴打",
+      "onboard_time": 1751517084,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61798,
@@ -13929,6 +14001,14 @@
       "onboard_time": 1751441961,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 50888,
+      "num": 876577,
+      "word": "首个全国高温健康风险预警",
+      "onboard_time": 1751517984,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50533,
@@ -15393,14 +15473,6 @@
       "onboard_time": 1751494816,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 20289,
-      "num": 346092,
-      "word": "举报占道经营后被对方找到2次殴打",
-      "onboard_time": 1751517084,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20238,

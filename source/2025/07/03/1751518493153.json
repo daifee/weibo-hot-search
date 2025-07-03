@@ -1,0 +1,410 @@
+{
+  "runTime": 1751518493153,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1368240,
+        "num": 1368240,
+        "word": "北京出门像被牛舔了一口",
+        "onboard_time": 1751511020,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 968427,
+        "num": 968427,
+        "word": "九江教育局致歉",
+        "onboard_time": 1751515882,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 50888,
+        "num": 876577,
+        "word": "首个全国高温健康风险预警",
+        "onboard_time": 1751517984,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1359779,
+        "num": 860448,
+        "word": "王星女友为被骗缅甸模特发声",
+        "onboard_time": 1751512341,
+        "rank": 3,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 843976,
+        "num": 843976,
+        "word": "女子景区蹦极被推下受伤满脸是血",
+        "onboard_time": 1751516423,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 690458,
+        "num": 690458,
+        "word": "男子因好奇上个厕所连续转账14次",
+        "onboard_time": 1751514861,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 611275,
+        "num": 611275,
+        "word": "饮品 咖啡因过量",
+        "onboard_time": 1751515882,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 549381,
+        "num": 549381,
+        "word": "别墅里面唱K",
+        "onboard_time": 1751513542,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 421938,
+        "num": 421938,
+        "word": "中国海军山东舰航母编队抵达香港",
+        "onboard_time": 1751502983,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 293595,
+        "num": 417560,
+        "word": "中日友好医院称要有刮骨疗毒的决心",
+        "onboard_time": 1751517084,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1058312,
+        "num": 409849,
+        "word": "新说唱导师 脏话",
+        "onboard_time": 1751513660,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 678213,
+        "num": 405249,
+        "word": "公务员考试的所有公式都在这里了",
+        "onboard_time": 1751515223,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 540278,
+        "num": 397270,
+        "word": "曝娜扎张云龙近况",
+        "onboard_time": 1751499380,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392168,
+        "num": 392168,
+        "word": "亮剑等抗战题材经典作品将展播",
+        "onboard_time": 1751511260,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 392115,
+        "num": 392115,
+        "word": "女孩高考288分属实",
+        "onboard_time": 1751508380,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 378324,
+        "num": 378324,
+        "word": "抗战胜利80周年优秀文艺作品",
+        "onboard_time": 1751512762,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 279494,
+        "num": 374744,
+        "word": "披荆斩棘5一公分组选曲",
+        "onboard_time": 1751510301,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78199,
+        "num": 370213,
+        "word": "红山动物天团的反差萌",
+        "onboard_time": 1751516662,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89246,
+        "num": 366146,
+        "word": "妈妈快来店里全是吴彦祖",
+        "onboard_time": 1751516662,
+        "rank": 18,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 61860,
+        "num": 361126,
+        "word": "举报占道经营后被对方找到2次殴打",
+        "onboard_time": 1751517084,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 407018,
+        "num": 359159,
+        "word": "7月财运最旺的星座",
+        "onboard_time": 1751516361,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 355524,
+        "num": 355524,
+        "word": "一棵荔枝树上竟结出30种荔枝",
+        "onboard_time": 1751506342,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316213,
+        "num": 316213,
+        "word": "徐艺洋回应黄子韬未读乱回",
+        "onboard_time": 1751517743,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307139,
+        "num": 307139,
+        "word": "你跟我说这是何润东",
+        "onboard_time": 1751515223,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299485,
+        "num": 299485,
+        "word": "最难喝饮料排行榜",
+        "onboard_time": 1751517802,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 289681,
+        "num": 289681,
+        "word": "西门子称美取消对中国芯片设计软件出口限制",
+        "onboard_time": 1751511203,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223521,
+        "num": 284273,
+        "word": "苏醒捡手机群聊",
+        "onboard_time": 1751511623,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 279940,
+        "num": 279940,
+        "word": "28岁女子做取环手术致十级伤残",
+        "onboard_time": 1751504063,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209863,
+        "num": 277018,
+        "word": "苦果亦是果你俩不白活",
+        "onboard_time": 1751517563,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276359,
+        "num": 276359,
+        "word": "火箭交易杜兰特",
+        "onboard_time": 1751516361,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248701,
+        "num": 248701,
+        "word": "刘宇宁婉拒了哈",
+        "onboard_time": 1751513480,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244827,
+        "num": 244827,
+        "word": "105斤女生卧推100斤",
+        "onboard_time": 1751513423,
+        "rank": 31,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 202874,
+        "num": 223181,
+        "word": "被秦六郎气死",
+        "onboard_time": 1751517442,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218118,
+        "num": 218118,
+        "word": "杭州热到全国第一了",
+        "onboard_time": 1751498479,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218070,
+        "num": 218070,
+        "word": "我放过的坏人杀了我的亲人",
+        "onboard_time": 1751511080,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215042,
+        "num": 215042,
+        "word": "中文慢慢失去了加密功能",
+        "onboard_time": 1751498839,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 212195,
+        "num": 212195,
+        "word": "张凌赫王楚然路透爸爸妈妈级别",
+        "onboard_time": 1751518461,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194585,
+        "num": 194585,
+        "word": "第二个逼疯摄影师的节目嘉宾出现了",
+        "onboard_time": 1751517984,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192731,
+        "num": 192731,
+        "word": "国色芳华重生之锦绣芳华归来",
+        "onboard_time": 1751515822,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190373,
+        "num": 190373,
+        "word": "樱桃琥珀 暂定7月14日",
+        "onboard_time": 1751514561,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188928,
+        "num": 188928,
+        "word": "马斯克连发数十条帖文",
+        "onboard_time": 1751517084,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 181057,
+        "num": 181057,
+        "word": "雷军直播后小米股价下挫",
+        "onboard_time": 1751515162,
+        "rank": 41,
+        "category": "汽车,财经"
+      },
+      {
+        "raw_hot": 179138,
+        "num": 179138,
+        "word": "山东舰10架舰载战斗机列阵",
+        "onboard_time": 1751516782,
+        "rank": 42,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 175733,
+        "num": 175733,
+        "word": "和平精英",
+        "onboard_time": 1751516183,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173143,
+        "num": 173143,
+        "word": "三伏天补气血最佳方法是蒸荔枝",
+        "onboard_time": 1751514982,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 172533,
+        "num": 172533,
+        "word": "一批抗战主题电视剧将陆续播出",
+        "onboard_time": 1751509641,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168569,
+        "num": 168569,
+        "word": "直播山东舰航母编队访港",
+        "onboard_time": 1751511982,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 168494,
+        "num": 168494,
+        "word": "美犯罪学博士凌晨残杀4名大学生",
+        "onboard_time": 1751504182,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 162444,
+        "num": 162444,
+        "word": "雷军直播称急用车推荐买小鹏G7",
+        "onboard_time": 1751517142,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 149118,
+        "num": 149118,
+        "word": "服用紧急避孕药1年内不应超2次",
+        "onboard_time": 1751518461,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#青年的理想信念关乎国家未来#"
+    }
+  }
+}
