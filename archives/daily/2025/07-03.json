@@ -1,6 +1,6 @@
 {
   "startTime": 1751473999400,
-  "endTime": 1751552797930,
+  "endTime": 1751553911018,
   "band_list": [
     {
       "raw_hot": 4541277,
@@ -107,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1079103,
+      "num": 1172656,
+      "word": "吴所畏在韩国叫什么",
+      "onboard_time": 1751547143,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1053052,
       "num": 1163403,
       "word": "成都暴雨",
@@ -139,20 +147,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 968423,
-      "num": 1154947,
-      "word": "吴所畏在韩国叫什么",
-      "onboard_time": 1751547143,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 967187,
       "num": 434810,
       "word": "暑假新顶流",
       "onboard_time": 1751525241,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 959318,
+      "num": 959318,
+      "word": "女歌手每天喝4杯奶茶导致失声",
+      "onboard_time": 1751550082,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 950759,
@@ -233,14 +241,6 @@
       "onboard_time": 1751540301,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 788675,
-      "num": 788675,
-      "word": "女歌手每天喝4杯奶茶导致失声",
-      "onboard_time": 1751550082,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 737332,
@@ -547,6 +547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 414490,
+      "num": 414490,
+      "word": "13岁女孩邀请网友住家黄金被卖了",
+      "onboard_time": 1751549362,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 408734,
       "num": 408734,
       "word": "杭州热到全国第一了",
@@ -683,6 +691,30 @@
       "category": "演出"
     },
     {
+      "raw_hot": 337380,
+      "num": 337380,
+      "word": "秦海璐王俊凯姐弟再同框",
+      "onboard_time": 1751548762,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 334638,
+      "num": 334638,
+      "word": "babycare纸尿裤发现黑色尖状异物",
+      "onboard_time": 1751551343,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 328778,
+      "num": 328778,
+      "word": "洪亮小舅子竟是大佬心腹",
+      "onboard_time": 1751551944,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 325983,
       "num": 325983,
       "word": "美解除对华芯片设计软件出口管制",
@@ -731,14 +763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 312582,
-      "num": 304646,
-      "word": "秦海璐王俊凯姐弟再同框",
-      "onboard_time": 1751548762,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 312271,
       "num": 312271,
       "word": "章子怡王俊凯周冬雨坐一起",
@@ -771,6 +795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 304116,
+      "num": 304116,
+      "word": "王一博方公开告黑进展",
+      "onboard_time": 1751552064,
+      "rank": 16,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 297968,
       "num": 394016,
       "word": "火车突发事故停车断电乘客砸窗通风",
@@ -795,14 +827,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 294717,
-      "num": 294717,
-      "word": "13岁女孩邀请网友住家黄金被卖了",
-      "onboard_time": 1751549362,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 294330,
       "num": 362287,
       "word": "商务部回应特朗普拟访华报道",
@@ -817,6 +841,14 @@
       "onboard_time": 1751517084,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 291741,
+      "num": 291741,
+      "word": "小鹏G7全是标配",
+      "onboard_time": 1751549783,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 290687,
@@ -963,12 +995,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 249116,
-      "num": 249116,
-      "word": "小鹏G7全是标配",
-      "onboard_time": 1751549783,
-      "rank": 33,
-      "category": "汽车"
+      "raw_hot": 248126,
+      "num": 248126,
+      "word": "单依纯 烈焰红唇",
+      "onboard_time": 1751553083,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 247467,
@@ -1011,14 +1043,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 242091,
-      "num": 242091,
-      "word": "babycare纸尿裤发现黑色尖状异物",
-      "onboard_time": 1751551343,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 241731,
       "num": 241731,
       "word": "雷军直播后小米股价下挫",
@@ -1049,14 +1073,6 @@
       "onboard_time": 1751518461,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 234340,
-      "num": 234340,
-      "word": "王一博方公开告黑进展",
-      "onboard_time": 1751552064,
-      "rank": 16,
-      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 231277,
@@ -1123,12 +1139,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225973,
+      "num": 225973,
+      "word": "印度25岁新娘为嫁55岁舅舅杀夫",
+      "onboard_time": 1751553083,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 225857,
       "num": 261635,
       "word": "直播山东舰航母编队访港",
       "onboard_time": 1751511982,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 225787,
+      "num": 228151,
+      "word": "桃花映江山18集22分54秒",
+      "onboard_time": 1751549843,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 225119,
@@ -1323,20 +1355,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197213,
-      "num": 197213,
-      "word": "洪亮小舅子竟是大佬心腹",
-      "onboard_time": 1751551944,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 197166,
       "num": 190595,
       "word": "美犯罪学博士凌晨残杀4名大学生",
       "onboard_time": 1751504182,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 194689,
+      "num": 194689,
+      "word": "金靖走心发言把刘宇宁感动哭了",
+      "onboard_time": 1751553684,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 194585,
@@ -1467,12 +1499,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 184850,
-      "num": 228151,
-      "word": "桃花映江山18集22分54秒",
-      "onboard_time": 1751549843,
-      "rank": 34,
-      "category": "剧集"
+      "raw_hot": 185697,
+      "num": 185697,
+      "word": "王俊凯说重庆是名副其实光影之城",
+      "onboard_time": 1751553143,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 184453,
@@ -1803,6 +1835,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 153359,
+      "num": 153359,
+      "word": "孟子义好适合be美学",
+      "onboard_time": 1751553263,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153055,
       "num": 153055,
       "word": "任嘉伦蓝盈莹主演风与潮杀青特辑",
@@ -1897,6 +1937,22 @@
       "onboard_time": 1751514502,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139078,
+      "num": 185621,
+      "word": "美国众议院要求支持台湾加入IMF",
+      "onboard_time": 1751552482,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 139012,
+      "num": 139012,
+      "word": "非农",
+      "onboard_time": 1751552663,
+      "rank": 45,
+      "category": "国际时政,财经"
     },
     {
       "raw_hot": 138953,
@@ -2564,7 +2620,7 @@
     },
     {
       "raw_hot": 99851,
-      "num": 115591,
+      "num": 352634,
       "word": "成都东站回应暴雨致列车晚点",
       "onboard_time": 1751551642,
       "rank": 39,
@@ -2601,14 +2657,6 @@
       "onboard_time": 1751498479,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 98028,
-      "num": 98028,
-      "word": "非农",
-      "onboard_time": 1751552663,
-      "rank": 45,
-      "category": "国际时政,财经"
     },
     {
       "raw_hot": 95372,
@@ -2827,6 +2875,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 71279,
+      "num": 854689,
+      "word": "大学志愿填报注意这些坑",
+      "onboard_time": 1751552364,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71077,
       "num": 153427,
       "word": "校门怎么开应该听听学生的声音",
@@ -2873,14 +2929,6 @@
       "onboard_time": 1751460563,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 67456,
-      "num": 185621,
-      "word": "美国众议院要求支持台湾加入IMF",
-      "onboard_time": 1751552482,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 66337,
@@ -3371,6 +3419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 18233,
+      "num": 891983,
+      "word": "首批7000多名救援人员撤离榕江",
+      "onboard_time": 1751553803,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 18198,
       "num": 196282,
       "word": "企业向农村倾倒固废称只是暂存",
@@ -3401,14 +3457,6 @@
       "onboard_time": 1751480656,
       "rank": 20,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 15660,
-      "num": 854689,
-      "word": "大学志愿填报注意这些坑",
-      "onboard_time": 1751552364,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15652,
