@@ -1,6 +1,6 @@
 {
   "startTime": 1751560391149,
-  "endTime": 1751561378708,
+  "endTime": 1751563569582,
   "band_list": [
     {
       "raw_hot": 2967815,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 674529,
-      "num": 90042,
+      "num": 136980,
       "word": "亚洲生育率最高的国家",
       "onboard_time": 1751558361,
       "rank": 30,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 422702,
-      "num": 422702,
+      "num": 478025,
       "word": "毕业6年存130万小伙每月吃饭500元",
       "onboard_time": 1751558480,
       "rank": 3,
@@ -41,6 +41,14 @@
       "onboard_time": 1751547143,
       "rank": 1,
       "category": "幽默,剧集"
+    },
+    {
+      "raw_hot": 353945,
+      "num": 353945,
+      "word": "女子熟睡被男友持刀架在脖子上",
+      "onboard_time": 1751560878,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 303631,
@@ -171,8 +179,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 121913,
-      "num": 121913,
+      "raw_hot": 137362,
+      "num": 137362,
       "word": "杨幂在电影节开幕式的自我介绍",
       "onboard_time": 1751559142,
       "rank": 21,
@@ -267,14 +275,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 85559,
-      "num": 85559,
-      "word": "女子熟睡被男友持刀架在脖子上",
-      "onboard_time": 1751560878,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 84848,
       "num": 84848,
       "word": "奔跑吧提档七点半播",
@@ -307,6 +307,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 81287,
+      "num": 81287,
+      "word": "毕业歌2025",
+      "onboard_time": 1751561119,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 80490,
       "num": 80490,
       "word": "13岁女孩邀请网友住家黄金被卖了",
@@ -320,6 +328,14 @@
       "word": "江苏一陵园逝者骨灰失踪墓碑被换",
       "onboard_time": 1751557343,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74728,
+      "num": 74728,
+      "word": "有五险一金的外卖岗位真香",
+      "onboard_time": 1751561298,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -371,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 62282,
+      "num": 62282,
+      "word": "费大厨门店回应招服务员要求本科",
+      "onboard_time": 1751561359,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62261,
       "num": 62261,
       "word": "王一博方公开告黑进展",
@@ -403,22 +427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 58409,
-      "num": 58409,
-      "word": "有五险一金的外卖岗位真香",
-      "onboard_time": 1751561298,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 58141,
-      "num": 58141,
-      "word": "毕业歌2025",
-      "onboard_time": 1751561119,
-      "rank": 45,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 54427,
       "num": 54427,
       "word": "俄海军副司令遇袭身亡",
@@ -427,12 +435,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 53362,
+      "num": 53362,
+      "word": "淘宝客服回应罗马仕余额不足",
+      "onboard_time": 1751563097,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47524,
+      "num": 47524,
+      "word": "绘旅人联动第五人格",
+      "onboard_time": 1751561718,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 43187,
       "num": 53354,
       "word": "若塔因车祸去世",
       "onboard_time": 1751530641,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 37722,
+      "num": 37722,
+      "word": "赵一博直播",
+      "onboard_time": 1751563037,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 35205,
@@ -444,19 +476,27 @@
     },
     {
       "raw_hot": 31845,
-      "num": 60670,
+      "num": 68346,
       "word": "起猛了航母开楼下了",
       "onboard_time": 1751560818,
       "rank": 40,
       "category": "军事"
     },
     {
-      "raw_hot": 29343,
-      "num": 60354,
-      "word": "费大厨门店回应招服务员要求本科",
-      "onboard_time": 1751561359,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 29070,
+      "num": 46764,
+      "word": "美国又制裁了船只",
+      "onboard_time": 1751560699,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 9273,
+      "num": 45113,
+      "word": "沈星回让星星见证这个誓言",
+      "onboard_time": 1751563158,
+      "rank": 39,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [
