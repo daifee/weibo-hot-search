@@ -1,0 +1,410 @@
+{
+  "runTime": 1751528470931,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1922222,
+        "num": 1922222,
+        "word": "身份证加水印",
+        "onboard_time": 1751525661,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 739390,
+        "num": 739390,
+        "word": "最难喝饮料排行榜",
+        "onboard_time": 1751517802,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 9345,
+        "num": 625863,
+        "word": "万千气象看山西",
+        "onboard_time": 1751294963,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 620366,
+        "num": 620366,
+        "word": "女大学生家教被欠薪上门蹲守无果",
+        "onboard_time": 1751521282,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 402933,
+        "num": 402933,
+        "word": "官方回应火车突发停车乘客砸窗通风",
+        "onboard_time": 1751523682,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 978802,
+        "num": 401999,
+        "word": "上海交大冲突事件引校门开放之争",
+        "onboard_time": 1751519602,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 397761,
+        "num": 397761,
+        "word": "北京出门像被牛舔了一口",
+        "onboard_time": 1751511020,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369626,
+        "num": 397615,
+        "word": "迪丽热巴我不是千金大小姐吗",
+        "onboard_time": 1751521223,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317152,
+        "num": 397282,
+        "word": "鹿晗 烟雾散去那一刻",
+        "onboard_time": 1751520381,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18325,
+        "num": 396750,
+        "word": "中泰警方已对模特被骗缅甸立案",
+        "onboard_time": 1751527882,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 967187,
+        "num": 396442,
+        "word": "暑假新顶流",
+        "onboard_time": 1751525241,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 706008,
+        "num": 396123,
+        "word": "女艺人白玉兰陪跑的高情商发言",
+        "onboard_time": 1751523021,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396015,
+        "num": 396015,
+        "word": "于正说再蛐蛐我就把截图放上来",
+        "onboard_time": 1751519984,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389265,
+        "num": 389265,
+        "word": "日本末日预言",
+        "onboard_time": 1751526082,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 22086,
+        "num": 388578,
+        "word": "列车脱轨致乘客滞留3小时暂无补偿",
+        "onboard_time": 1751527943,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388420,
+        "num": 388420,
+        "word": "张云龙知道娜扎有容貌焦虑",
+        "onboard_time": 1751519662,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 363031,
+        "num": 363031,
+        "word": "淘宝闪购免单",
+        "onboard_time": 1751527583,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 316839,
+        "num": 316839,
+        "word": "日本打工老人",
+        "onboard_time": 1751520081,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 275637,
+        "num": 311771,
+        "word": "杨紫又出神图了",
+        "onboard_time": 1751519542,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309319,
+        "num": 309319,
+        "word": "马思纯欧豪 人神殊途",
+        "onboard_time": 1751527162,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287272,
+        "num": 287272,
+        "word": "新说唱导师 脏话",
+        "onboard_time": 1751513660,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267076,
+        "num": 267076,
+        "word": "女子景区蹦极被推下受伤满脸是血",
+        "onboard_time": 1751516423,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225080,
+        "num": 225080,
+        "word": "关晓彤晒减脂餐",
+        "onboard_time": 1751527943,
+        "rank": 22,
+        "category": "艺人,运动健身"
+      },
+      {
+        "raw_hot": 219732,
+        "num": 219732,
+        "word": "南京奥体6万多个座椅都擦了一遍",
+        "onboard_time": 1751524222,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212311,
+        "num": 212311,
+        "word": "李一桐曝女推在土耳其一起洗澡",
+        "onboard_time": 1751524641,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177200,
+        "num": 211465,
+        "word": "北京开会偶遇张艺兴",
+        "onboard_time": 1751526860,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150896,
+        "num": 211211,
+        "word": "中国海军山东舰航母编队抵达香港",
+        "onboard_time": 1751502983,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 211056,
+        "num": 211056,
+        "word": "火车突发事故停车断电乘客砸窗通风",
+        "onboard_time": 1751523742,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39568,
+        "num": 193614,
+        "word": "赵晓卉王勉遛狗式养生",
+        "onboard_time": 1751527402,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42371,
+        "num": 190386,
+        "word": "列车故障停车乘客砸窗透气",
+        "onboard_time": 1751527282,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190092,
+        "num": 190092,
+        "word": "把向佐和aespa剪一起的是天才",
+        "onboard_time": 1751527342,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150866,
+        "num": 150866,
+        "word": "服用紧急避孕药1年内不应超2次",
+        "onboard_time": 1751518461,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150044,
+        "num": 150044,
+        "word": "男子幼儿园门口1天虐杀4只猫",
+        "onboard_time": 1751520441,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148916,
+        "num": 148916,
+        "word": "警方回应列车乘客破窗透气被带走",
+        "onboard_time": 1751525541,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146399,
+        "num": 146399,
+        "word": "饮品 咖啡因过量",
+        "onboard_time": 1751515882,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 146321,
+        "num": 146321,
+        "word": "赵美延你还回去当爱豆吗",
+        "onboard_time": 1751526381,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143673,
+        "num": 143673,
+        "word": "感染食脑虫男童家人称已联系到药厂",
+        "onboard_time": 1751519841,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137131,
+        "num": 137131,
+        "word": "江苏河南等地高温健康风险极高",
+        "onboard_time": 1751523742,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132297,
+        "num": 132297,
+        "word": "曝娜扎张云龙近况",
+        "onboard_time": 1751499380,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87764,
+        "num": 128543,
+        "word": "关于白厄你是否也想了解更多",
+        "onboard_time": 1751527943,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125094,
+        "num": 125094,
+        "word": "解放军位黄岩岛领海领空战备警巡",
+        "onboard_time": 1751528063,
+        "rank": 40,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 122430,
+        "num": 122430,
+        "word": "铁路部门通报K1373次列车脱线",
+        "onboard_time": 1751516002,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117138,
+        "num": 117138,
+        "word": "迪丽热巴金世佳携手打拐",
+        "onboard_time": 1751520562,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121539,
+        "num": 116171,
+        "word": "7月财运最旺的星座",
+        "onboard_time": 1751516361,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115146,
+        "num": 115146,
+        "word": "张雪峰称为填志愿半个月没时间睡觉",
+        "onboard_time": 1751523322,
+        "rank": 44,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 113759,
+        "num": 113759,
+        "word": "中日友好医院称要有刮骨疗毒的决心",
+        "onboard_time": 1751517084,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113351,
+        "num": 113351,
+        "word": "上海交大回应是否会调整进校政策",
+        "onboard_time": 1751527822,
+        "rank": 46,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 111100,
+        "num": 111100,
+        "word": "TF家族运动会",
+        "onboard_time": 1751525181,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110958,
+        "num": 110958,
+        "word": "抗战胜利80周年优秀文艺作品",
+        "onboard_time": 1751512762,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 110724,
+        "num": 110724,
+        "word": "日本辟谣7月5日毁灭性大地震",
+        "onboard_time": 1751521823,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#青年的理想信念关乎国家未来#"
+    }
+  }
+}
