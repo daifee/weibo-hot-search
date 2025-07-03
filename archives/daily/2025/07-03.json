@@ -1,7 +1,23 @@
 {
   "startTime": 1751473999400,
-  "endTime": 1751509669448,
+  "endTime": 1751513967612,
   "band_list": [
+    {
+      "raw_hot": 1971597,
+      "num": 585341,
+      "word": "王星女友为被骗缅甸模特发声",
+      "onboard_time": 1751512341,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1536673,
+      "num": 1536673,
+      "word": "北京出门像被牛舔了一口",
+      "onboard_time": 1751511020,
+      "rank": 0,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1089295,
       "num": 1174287,
@@ -20,7 +36,7 @@
     },
     {
       "raw_hot": 936636,
-      "num": 328633,
+      "num": 366200,
       "word": "曝娜扎张云龙近况",
       "onboard_time": 1751499380,
       "rank": 10,
@@ -43,12 +59,28 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 635801,
+      "num": 635801,
+      "word": "女孩高考288分属实",
+      "onboard_time": 1751508380,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 632067,
-      "num": 326479,
+      "num": 366175,
       "word": "中文慢慢失去了加密功能",
       "onboard_time": 1751498839,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 566454,
+      "num": 566454,
+      "word": "我放过的坏人杀了我的亲人",
+      "onboard_time": 1751511080,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 531482,
@@ -73,6 +105,22 @@
       "onboard_time": 1751468243,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 458148,
+      "num": 458148,
+      "word": "亮剑等抗战题材经典作品将展播",
+      "onboard_time": 1751511260,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 440773,
+      "num": 440773,
+      "word": "西门子称美取消对中国芯片设计软件出口限制",
+      "onboard_time": 1751511203,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 433609,
@@ -107,12 +155,36 @@
       "category": "国际时政,民生新闻"
     },
     {
+      "raw_hot": 366257,
+      "num": 366257,
+      "word": "抗战胜利80周年优秀文艺作品",
+      "onboard_time": 1751512762,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 366143,
+      "num": 366143,
+      "word": "披荆斩棘5一公分组选曲",
+      "onboard_time": 1751510301,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 366087,
       "num": 366087,
       "word": "知情人称5层楼房垮塌前已倾斜",
       "onboard_time": 1751505263,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 362413,
+      "num": 362413,
+      "word": "一批抗战主题电视剧将陆续播出",
+      "onboard_time": 1751509641,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 359810,
@@ -129,6 +201,14 @@
       "onboard_time": 1751503823,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 316014,
+      "num": 316014,
+      "word": "苏醒捡手机群聊",
+      "onboard_time": 1751511623,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 314377,
@@ -203,20 +283,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 266917,
-      "num": 266917,
-      "word": "女孩高考288分属实",
-      "onboard_time": 1751508380,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 260296,
       "num": 176621,
       "word": "尤浩然回应小雨变暴雨了",
       "onboard_time": 1751492416,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 254624,
+      "num": 254624,
+      "word": "不工作 内心空虚",
+      "onboard_time": 1751512522,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 252217,
@@ -251,12 +331,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 225857,
+      "num": 225857,
+      "word": "直播山东舰航母编队访港",
+      "onboard_time": 1751511982,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 225119,
       "num": 225119,
       "word": "张云龙很会给娜扎情绪价值",
       "onboard_time": 1751507060,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 216347,
+      "num": 216347,
+      "word": "重庆12岁男孩掉小区窨井遇难",
+      "onboard_time": 1751509040,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 216114,
@@ -273,6 +369,30 @@
       "onboard_time": 1751500943,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207782,
+      "num": 207782,
+      "word": "纪念抗战胜利80周年文艺晚会",
+      "onboard_time": 1751513302,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 206118,
+      "num": 206118,
+      "word": "微软再裁员约9000人",
+      "onboard_time": 1751513542,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 199744,
+      "num": 199744,
+      "word": "105斤女生卧推100斤",
+      "onboard_time": 1751513423,
+      "rank": 24,
+      "category": "运动健身"
     },
     {
       "raw_hot": 198648,
@@ -307,12 +427,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 181349,
-      "num": 181349,
-      "word": "重庆12岁男孩掉小区窨井遇难",
-      "onboard_time": 1751509040,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 189650,
+      "num": 189650,
+      "word": "刘宇宁婉拒了哈",
+      "onboard_time": 1751513480,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 179407,
@@ -321,6 +441,30 @@
       "onboard_time": 1751466443,
       "rank": 13,
       "category": "网红"
+    },
+    {
+      "raw_hot": 178825,
+      "num": 178825,
+      "word": "别墅里面唱K",
+      "onboard_time": 1751513542,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 176757,
+      "num": 176757,
+      "word": "国新办发布会介绍风与潮等影视剧",
+      "onboard_time": 1751510840,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 171265,
+      "num": 171265,
+      "word": "樊振东的新男团合影",
+      "onboard_time": 1751511020,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 170233,
@@ -355,6 +499,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166630,
+      "num": 166630,
+      "word": "新说唱导师 脏话",
+      "onboard_time": 1751513660,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 162906,
+      "num": 162906,
+      "word": "大学招生办称学费每学年15万不盈利",
+      "onboard_time": 1751509160,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160693,
       "num": 160693,
       "word": "黄圣依孩子用石明鑫主编的数学题",
@@ -369,6 +529,14 @@
       "onboard_time": 1751508380,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 155294,
+      "num": 279253,
+      "word": "2人就餐点茶后还被收11元白开水费",
+      "onboard_time": 1751508140,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154991,
@@ -443,6 +611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132682,
+      "num": 132682,
+      "word": "年轻一代文艺工作者全面担当主力",
+      "onboard_time": 1751513302,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 132197,
       "num": 132197,
       "word": "美国首条高铁17年建了个寂寞",
@@ -451,20 +627,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 132114,
-      "num": 279253,
-      "word": "2人就餐点茶后还被收11元白开水费",
-      "onboard_time": 1751508140,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 131122,
       "num": 131122,
       "word": "从业者回应掏粪工5天工资8100元",
       "onboard_time": 1751471781,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130135,
+      "num": 130135,
+      "word": "世界上最没用的一句话",
+      "onboard_time": 1751513782,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 124394,
@@ -489,14 +665,6 @@
       "onboard_time": 1751463864,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121562,
-      "num": 121562,
-      "word": "大学招生办称学费每学年15万不盈利",
-      "onboard_time": 1751509160,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119084,
@@ -531,6 +699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114232,
+      "num": 114232,
+      "word": "小米汽车考虑2027年出国",
+      "onboard_time": 1751511560,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 113308,
       "num": 113308,
       "word": "为什么体检无异常发现却是晚期",
@@ -552,6 +728,14 @@
       "word": "以爱为营重映预告",
       "onboard_time": 1751500340,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 107331,
+      "num": 107331,
+      "word": "王阳或将客串肖战新剧",
+      "onboard_time": 1751510360,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -755,14 +939,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 69465,
-      "num": 121062,
-      "word": "一批抗战主题电视剧将陆续播出",
-      "onboard_time": 1751509641,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 67917,
       "num": 67917,
       "word": "吴谨言美得不知天地为何物",
@@ -801,6 +977,14 @@
       "onboard_time": 1751466023,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 62876,
+      "num": 144222,
+      "word": "中国奥委会晒孙颖莎早安图",
+      "onboard_time": 1751513480,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 62504,
@@ -1044,7 +1228,7 @@
     },
     {
       "raw_hot": 24871,
-      "num": 565627,
+      "num": 588458,
       "word": "网警护航高考志愿填报",
       "onboard_time": 1751502622,
       "rank": 2,
