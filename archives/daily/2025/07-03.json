@@ -1,6 +1,6 @@
 {
   "startTime": 1751473999400,
-  "endTime": 1751549863952,
+  "endTime": 1751550557889,
   "band_list": [
     {
       "raw_hot": 4541277,
@@ -83,8 +83,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1146573,
-      "num": 1183451,
+      "raw_hot": 1163170,
+      "num": 1186107,
       "word": "王嘉尔借出收入40%给朋友却遭背刺",
       "onboard_time": 1751545821,
       "rank": 10,
@@ -227,12 +227,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 737332,
+      "num": 622893,
+      "word": "成都东站",
+      "onboard_time": 1751544861,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 720290,
       "num": 427284,
       "word": "关晓彤晒减脂餐",
       "onboard_time": 1751527943,
       "rank": 22,
       "category": "艺人,运动健身"
+    },
+    {
+      "raw_hot": 713502,
+      "num": 713502,
+      "word": "吴所畏在韩国叫什么",
+      "onboard_time": 1751547143,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 708659,
@@ -307,28 +323,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 675158,
+      "num": 675158,
+      "word": "日本气象厅发布红色强震警报",
+      "onboard_time": 1751545341,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 673102,
       "num": 673102,
       "word": "赞多 退赛",
       "onboard_time": 1751529021,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 658692,
-      "num": 622893,
-      "word": "成都东站",
-      "onboard_time": 1751544861,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 649773,
-      "num": 649773,
-      "word": "日本气象厅发布红色强震警报",
-      "onboard_time": 1751545341,
-      "rank": 13,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 632067,
@@ -393,14 +401,6 @@
       "onboard_time": 1751513542,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 533979,
-      "num": 533979,
-      "word": "吴所畏在韩国叫什么",
-      "onboard_time": 1751547143,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 531482,
@@ -643,6 +643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 344145,
+      "num": 344145,
+      "word": "奔跑吧提档七点半播",
+      "onboard_time": 1751548943,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 337811,
       "num": 397282,
       "word": "鹿晗 烟雾散去那一刻",
@@ -699,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 312271,
+      "num": 312271,
+      "word": "章子怡王俊凯周冬雨坐一起",
+      "onboard_time": 1751547083,
+      "rank": 49,
+      "category": "电影,艺人"
+    },
+    {
       "raw_hot": 310689,
       "num": 310689,
       "word": "男子病逝后家人完成遗愿洒下钞票雨",
@@ -713,14 +729,6 @@
       "onboard_time": 1751469923,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 309156,
-      "num": 309156,
-      "word": "章子怡王俊凯周冬雨坐一起",
-      "onboard_time": 1751547083,
-      "rank": 49,
-      "category": "电影,艺人"
     },
     {
       "raw_hot": 297968,
@@ -787,12 +795,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 282593,
-      "num": 282593,
-      "word": "奔跑吧提档七点半播",
-      "onboard_time": 1751548943,
-      "rank": 13,
-      "category": "综艺"
+      "raw_hot": 282468,
+      "num": 282468,
+      "word": "纸嫁衣",
+      "onboard_time": 1751548583,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 278827,
@@ -907,6 +915,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 249116,
+      "num": 249116,
+      "word": "小鹏G7全是标配",
+      "onboard_time": 1751549783,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 248178,
+      "num": 229228,
+      "word": "秦海璐王俊凯姐弟再同框",
+      "onboard_time": 1751548762,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 247467,
       "num": 180917,
       "word": "杨幂吴谨言赵今麦VOGUE红毯图",
@@ -1003,6 +1027,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 229273,
+      "num": 229273,
+      "word": "刘学义孟子义吻戏reaction",
+      "onboard_time": 1751549843,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 228178,
+      "num": 399545,
+      "word": "成都暴雨红色预警",
+      "onboard_time": 1751547321,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 228149,
+      "num": 228148,
+      "word": "13岁女孩邀请网友住家黄金被卖了",
+      "onboard_time": 1751549362,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 228147,
       "num": 228147,
       "word": "风月不相关",
@@ -1067,14 +1115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 220962,
-      "num": 196893,
-      "word": "秦海璐王俊凯姐弟再同框",
-      "onboard_time": 1751548762,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 220682,
       "num": 244986,
       "word": "颖儿胆结石疼到喊救护车送医",
@@ -1089,6 +1129,14 @@
       "onboard_time": 1751509040,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219412,
+      "num": 206834,
+      "word": "田栩宁新剧男三",
+      "onboard_time": 1751545701,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 219035,
@@ -1145,14 +1193,6 @@
       "onboard_time": 1751500943,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 211213,
-      "num": 399545,
-      "word": "成都暴雨红色预警",
-      "onboard_time": 1751547321,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 210218,
@@ -1228,7 +1268,7 @@
     },
     {
       "raw_hot": 198807,
-      "num": 195342,
+      "num": 195608,
       "word": "蔡徐坤mugler活动状态",
       "onboard_time": 1751549482,
       "rank": 21,
@@ -1249,22 +1289,6 @@
       "onboard_time": 1751504182,
       "rank": 21,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 196964,
-      "num": 196964,
-      "word": "田栩宁新剧男三",
-      "onboard_time": 1751545701,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 195320,
-      "num": 195320,
-      "word": "纸嫁衣",
-      "onboard_time": 1751548583,
-      "rank": 22,
-      "category": "游戏"
     },
     {
       "raw_hot": 194585,
@@ -1595,6 +1619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162715,
+      "num": 162715,
+      "word": "女歌手每天喝4杯奶茶导致失声",
+      "onboard_time": 1751550082,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162704,
       "num": 331421,
       "word": "男子在独库公路压线逆行还口出狂言",
@@ -1827,6 +1859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 136301,
+      "num": 136301,
+      "word": "杨幂白裙红伞",
+      "onboard_time": 1751545762,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136242,
       "num": 136242,
       "word": "王者荣耀新赛季",
@@ -1875,14 +1915,6 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 133063,
-      "num": 133063,
-      "word": "杨幂白裙红伞",
-      "onboard_time": 1751545762,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 132794,
       "num": 132794,
       "word": "居民迁户发现凭空多了个女儿",
@@ -1921,14 +1953,6 @@
       "onboard_time": 1751521463,
       "rank": 45,
       "category": "美食"
-    },
-    {
-      "raw_hot": 130841,
-      "num": 130841,
-      "word": "小鹏G7全是标配",
-      "onboard_time": 1751549783,
-      "rank": 33,
-      "category": "汽车"
     },
     {
       "raw_hot": 130498,
@@ -1993,14 +2017,6 @@
       "onboard_time": 1751539282,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 125657,
-      "num": 125657,
-      "word": "13岁女孩邀请网友住家黄金被卖了",
-      "onboard_time": 1751549362,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 124959,
@@ -2123,6 +2139,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117336,
+      "num": 117336,
+      "word": "温宜公主已经长这么大了",
+      "onboard_time": 1751547622,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 117194,
+      "num": 228151,
+      "word": "桃花映江山18集22分54秒",
+      "onboard_time": 1751549843,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117125,
       "num": 117125,
       "word": "陈胜龙阴湿感太重了",
@@ -2219,14 +2251,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 113664,
-      "num": 113664,
-      "word": "温宜公主已经长这么大了",
-      "onboard_time": 1751547622,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 113444,
       "num": 147712,
       "word": "华天崎给蓝盈莹化的剑灵妆",
@@ -2281,6 +2305,14 @@
       "onboard_time": 1751541440,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 111343,
+      "num": 111343,
+      "word": "亲生母亲8万多元卖掉自己的两个孩子",
+      "onboard_time": 1751550384,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111075,
@@ -2411,6 +2443,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 102740,
+      "num": 102740,
+      "word": "平台回应司机暴雨中将男孩扔半路",
+      "onboard_time": 1751545402,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102188,
       "num": 102188,
       "word": "谁坐B座都不乐意",
@@ -2433,22 +2473,6 @@
       "onboard_time": 1751545101,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 99954,
-      "num": 99954,
-      "word": "平台回应司机暴雨中将男孩扔半路",
-      "onboard_time": 1751545402,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 99431,
-      "num": 99431,
-      "word": "刘学义孟子义吻戏reaction",
-      "onboard_time": 1751549843,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 99007,
@@ -2724,7 +2748,7 @@
     },
     {
       "raw_hot": 69766,
-      "num": 196834,
+      "num": 310206,
       "word": "中国青年大有可为",
       "onboard_time": 1751549482,
       "rank": 18,
@@ -2809,14 +2833,6 @@
       "onboard_time": 1751498659,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 62417,
-      "num": 129130,
-      "word": "桃花映江山18集22分54秒",
-      "onboard_time": 1751549843,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 62391,
@@ -3067,6 +3083,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 36217,
+      "num": 693894,
+      "word": "守护的瞬间",
+      "onboard_time": 1751550263,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 35978,
       "num": 247981,
       "word": "解限机steam同时在线13万",
@@ -3113,6 +3137,14 @@
       "onboard_time": 1751542281,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 31176,
+      "num": 149972,
+      "word": "感染食脑虫女童进ICU10天未明显好转",
+      "onboard_time": 1751550143,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31161,
@@ -3185,6 +3217,14 @@
       "onboard_time": 1751530942,
       "rank": 19,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 24014,
+      "num": 228149,
+      "word": "成都部分街道积水已至膝盖",
+      "onboard_time": 1751550082,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23547,

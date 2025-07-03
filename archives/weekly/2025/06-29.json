@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751549863952,
+  "endTime": 1751550557889,
   "band_list": [
     {
       "raw_hot": 4541277,
@@ -483,6 +483,14 @@
       "category": "民生新闻,演出"
     },
     {
+      "raw_hot": 1163170,
+      "num": 1186107,
+      "word": "王嘉尔借出收入40%给朋友却遭背刺",
+      "onboard_time": 1751545821,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1155087,
       "num": 1155087,
       "word": "人人视频崩了",
@@ -497,14 +505,6 @@
       "onboard_time": 1751431643,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1146573,
-      "num": 1183451,
-      "word": "王嘉尔借出收入40%给朋友却遭背刺",
-      "onboard_time": 1751545821,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1140350,
@@ -1203,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 737332,
+      "num": 622893,
+      "word": "成都东站",
+      "onboard_time": 1751544861,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 736015,
       "num": 524056,
       "word": "印度三男子强奸法学院女生被拘4天",
@@ -1297,6 +1305,14 @@
       "onboard_time": 1751424561,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 713502,
+      "num": 713502,
+      "word": "吴所畏在韩国叫什么",
+      "onboard_time": 1751547143,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 713210,
@@ -1507,6 +1523,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 675158,
+      "num": 675158,
+      "word": "日本气象厅发布红色强震警报",
+      "onboard_time": 1751545341,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 673407,
       "num": 439884,
       "word": "林志玲一个生煎包吃十几口",
@@ -1563,14 +1587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 658692,
-      "num": 622893,
-      "word": "成都东站",
-      "onboard_time": 1751544861,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 656820,
       "num": 462332,
       "word": "卜凡 出道是为了入道",
@@ -1601,14 +1617,6 @@
       "onboard_time": 1751282242,
       "rank": 24,
       "category": "网红"
-    },
-    {
-      "raw_hot": 649773,
-      "num": 649773,
-      "word": "日本气象厅发布红色强震警报",
-      "onboard_time": 1751545341,
-      "rank": 13,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 649115,
@@ -2145,14 +2153,6 @@
       "onboard_time": 1751358924,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 533979,
-      "num": 533979,
-      "word": "吴所畏在韩国叫什么",
-      "onboard_time": 1751547143,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 533585,
@@ -3483,6 +3483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 344145,
+      "num": 344145,
+      "word": "奔跑吧提档七点半播",
+      "onboard_time": 1751548943,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 343998,
       "num": 343998,
       "word": "Angelababy带小海绵蹦极",
@@ -3843,6 +3851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 312271,
+      "num": 312271,
+      "word": "章子怡王俊凯周冬雨坐一起",
+      "onboard_time": 1751547083,
+      "rank": 49,
+      "category": "电影,艺人"
+    },
+    {
       "raw_hot": 311691,
       "num": 311691,
       "word": "手伤让查前列腺当事人家属发声",
@@ -3897,14 +3913,6 @@
       "onboard_time": 1751371042,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 309156,
-      "num": 309156,
-      "word": "章子怡王俊凯周冬雨坐一起",
-      "onboard_time": 1751547083,
-      "rank": 49,
-      "category": "电影,艺人"
     },
     {
       "raw_hot": 307275,
@@ -4371,12 +4379,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 282593,
-      "num": 282593,
-      "word": "奔跑吧提档七点半播",
-      "onboard_time": 1751548943,
-      "rank": 13,
-      "category": "综艺"
+      "raw_hot": 282468,
+      "num": 282468,
+      "word": "纸嫁衣",
+      "onboard_time": 1751548583,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 281534,
@@ -4827,12 +4835,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249116,
+      "num": 249116,
+      "word": "小鹏G7全是标配",
+      "onboard_time": 1751549783,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 248888,
       "num": 248888,
       "word": "苦瓜饮品外卖量飙升11倍",
       "onboard_time": 1751447242,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 248178,
+      "num": 229228,
+      "word": "秦海璐王俊凯姐弟再同框",
+      "onboard_time": 1751548762,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 247467,
@@ -5179,6 +5203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229273,
+      "num": 229273,
+      "word": "刘学义孟子义吻戏reaction",
+      "onboard_time": 1751549843,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 229168,
       "num": 229168,
       "word": "最近的雨好难猜",
@@ -5201,6 +5233,22 @@
       "onboard_time": 1751378244,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 228178,
+      "num": 399545,
+      "word": "成都暴雨红色预警",
+      "onboard_time": 1751547321,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 228149,
+      "num": 228148,
+      "word": "13岁女孩邀请网友住家黄金被卖了",
+      "onboard_time": 1751549362,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 228147,
@@ -5443,14 +5491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 220962,
-      "num": 196893,
-      "word": "秦海璐王俊凯姐弟再同框",
-      "onboard_time": 1751548762,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 220708,
       "num": 220708,
       "word": "暑假第一部高颜值古装剧来了",
@@ -5513,6 +5553,14 @@
       "onboard_time": 1751171603,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 219412,
+      "num": 206834,
+      "word": "田栩宁新剧男三",
+      "onboard_time": 1751545701,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 219410,
@@ -5768,14 +5816,6 @@
       "word": "父亲回应带儿子游41国英语零进步",
       "onboard_time": 1751298982,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 211213,
-      "num": 399545,
-      "word": "成都暴雨红色预警",
-      "onboard_time": 1751547321,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -6284,7 +6324,7 @@
     },
     {
       "raw_hot": 198807,
-      "num": 195342,
+      "num": 195608,
       "word": "蔡徐坤mugler活动状态",
       "onboard_time": 1751549482,
       "rank": 21,
@@ -6403,14 +6443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196964,
-      "num": 196964,
-      "word": "田栩宁新剧男三",
-      "onboard_time": 1751545701,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 196728,
       "num": 196728,
       "word": "提醒老年人警惕免费送鸡蛋等引流套路",
@@ -6465,14 +6497,6 @@
       "onboard_time": 1751169859,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 195320,
-      "num": 195320,
-      "word": "纸嫁衣",
-      "onboard_time": 1751548583,
-      "rank": 22,
-      "category": "游戏"
     },
     {
       "raw_hot": 195265,
@@ -8249,6 +8273,14 @@
       "onboard_time": 1751368521,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162715,
+      "num": 162715,
+      "word": "女歌手每天喝4杯奶茶导致失声",
+      "onboard_time": 1751550082,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162704,
@@ -10107,6 +10139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136301,
+      "num": 136301,
+      "word": "杨幂白裙红伞",
+      "onboard_time": 1751545762,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136242,
       "num": 136242,
       "word": "王者荣耀新赛季",
@@ -10403,14 +10443,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 133063,
-      "num": 133063,
-      "word": "杨幂白裙红伞",
-      "onboard_time": 1751545762,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 133059,
       "num": 133059,
       "word": "学生对赌协议",
@@ -10705,14 +10737,6 @@
       "onboard_time": 1751447482,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 130841,
-      "num": 130841,
-      "word": "小鹏G7全是标配",
-      "onboard_time": 1751549783,
-      "rank": 33,
-      "category": "汽车"
     },
     {
       "raw_hot": 130742,
@@ -11257,14 +11281,6 @@
       "onboard_time": 1751446101,
       "rank": 40,
       "category": "军事"
-    },
-    {
-      "raw_hot": 125657,
-      "num": 125657,
-      "word": "13岁女孩邀请网友住家黄金被卖了",
-      "onboard_time": 1751549362,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 125569,
@@ -11987,6 +12003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 117336,
+      "num": 117336,
+      "word": "温宜公主已经长这么大了",
+      "onboard_time": 1751547622,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117275,
       "num": 117275,
       "word": "空军官兵和幼儿园小朋友合唱炎黄",
@@ -12009,6 +12033,14 @@
       "onboard_time": 1751340200,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117194,
+      "num": 228151,
+      "word": "桃花映江山18集22分54秒",
+      "onboard_time": 1751549843,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 117125,
@@ -12347,14 +12379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 113664,
-      "num": 113664,
-      "word": "温宜公主已经长这么大了",
-      "onboard_time": 1751547622,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 113444,
       "num": 147712,
       "word": "华天崎给蓝盈莹化的剑灵妆",
@@ -12585,6 +12609,14 @@
       "onboard_time": 1751463443,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111343,
+      "num": 111343,
+      "word": "亲生母亲8万多元卖掉自己的两个孩子",
+      "onboard_time": 1751550384,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111286,
@@ -13339,6 +13371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102740,
+      "num": 102740,
+      "word": "平台回应司机暴雨中将男孩扔半路",
+      "onboard_time": 1751545402,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102678,
       "num": 362382,
       "word": "聊斋兰若寺预售开启",
@@ -13515,14 +13555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 99954,
-      "num": 99954,
-      "word": "平台回应司机暴雨中将男孩扔半路",
-      "onboard_time": 1751545402,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 99908,
       "num": 136258,
       "word": "刘星一语成谶",
@@ -13537,14 +13569,6 @@
       "onboard_time": 1751458043,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 99431,
-      "num": 99431,
-      "word": "刘学义孟子义吻戏reaction",
-      "onboard_time": 1751549843,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 99133,
@@ -14780,7 +14804,7 @@
     },
     {
       "raw_hot": 69766,
-      "num": 196834,
+      "num": 310206,
       "word": "中国青年大有可为",
       "onboard_time": 1751549482,
       "rank": 18,
@@ -15089,14 +15113,6 @@
       "onboard_time": 1751498659,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 62417,
-      "num": 129130,
-      "word": "桃花映江山18集22分54秒",
-      "onboard_time": 1751549843,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 62318,
@@ -16131,6 +16147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 36217,
+      "num": 693894,
+      "word": "守护的瞬间",
+      "onboard_time": 1751550263,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 36171,
       "num": 358267,
       "word": "Dior新季穿搭公式",
@@ -16433,6 +16457,14 @@
       "onboard_time": 1751286623,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31176,
+      "num": 149972,
+      "word": "感染食脑虫女童进ICU10天未明显好转",
+      "onboard_time": 1751550143,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31161,
@@ -16904,6 +16936,14 @@
       "word": "查户籍档案发现母亲被登记成婶婶",
       "onboard_time": 1751282541,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24014,
+      "num": 228149,
+      "word": "成都部分街道积水已至膝盖",
+      "onboard_time": 1751550082,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
