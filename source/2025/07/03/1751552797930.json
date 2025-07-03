@@ -1,0 +1,410 @@
+{
+  "runTime": 1751552797930,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 968423,
+        "num": 1154947,
+        "word": "吴所畏在韩国叫什么",
+        "onboard_time": 1751547143,
+        "rank": 0,
+        "category": "幽默,剧集"
+      },
+      {
+        "raw_hot": 946709,
+        "num": 946709,
+        "word": "王嘉尔借出收入40%给朋友却遭背刺",
+        "onboard_time": 1751545821,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15660,
+        "num": 854689,
+        "word": "大学志愿填报注意这些坑",
+        "onboard_time": 1751552364,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 788675,
+        "num": 788675,
+        "word": "女歌手每天喝4杯奶茶导致失声",
+        "onboard_time": 1751550082,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 574464,
+        "num": 574464,
+        "word": "亲生母亲8万多元卖掉自己的两个孩子",
+        "onboard_time": 1751550384,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 545773,
+        "num": 545773,
+        "word": "日本气象厅发布红色强震警报",
+        "onboard_time": 1751545341,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 495275,
+        "num": 495275,
+        "word": "李现发了三张杨紫",
+        "onboard_time": 1751546481,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 427815,
+        "num": 427815,
+        "word": "易烊千玺广州",
+        "onboard_time": 1751551163,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 321892,
+        "num": 321892,
+        "word": "奔跑吧提档七点半播",
+        "onboard_time": 1751548943,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311107,
+        "num": 311107,
+        "word": "成都暴雨红色预警",
+        "onboard_time": 1751547321,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 312582,
+        "num": 304646,
+        "word": "秦海璐王俊凯姐弟再同框",
+        "onboard_time": 1751548762,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294717,
+        "num": 294717,
+        "word": "13岁女孩邀请网友住家黄金被卖了",
+        "onboard_time": 1751549362,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284850,
+        "num": 284850,
+        "word": "歌手第八期歌单",
+        "onboard_time": 1751546121,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250115,
+        "num": 250115,
+        "word": "印度10年造出死亡折角立交桥",
+        "onboard_time": 1751540003,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 242091,
+        "num": 242091,
+        "word": "babycare纸尿裤发现黑色尖状异物",
+        "onboard_time": 1751551343,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249097,
+        "num": 240345,
+        "word": "小鹏G7全是标配",
+        "onboard_time": 1751549783,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 234340,
+        "num": 234340,
+        "word": "王一博方公开告黑进展",
+        "onboard_time": 1751552064,
+        "rank": 16,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 197674,
+        "num": 197674,
+        "word": "警方通报初一女生遭多人殴打",
+        "onboard_time": 1751540660,
+        "rank": 17,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 197213,
+        "num": 197213,
+        "word": "洪亮小舅子竟是大佬心腹",
+        "onboard_time": 1751551944,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67456,
+        "num": 185621,
+        "word": "美国众议院要求支持台湾加入IMF",
+        "onboard_time": 1751552482,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 185254,
+        "num": 185254,
+        "word": "章子怡王俊凯周冬雨坐一起",
+        "onboard_time": 1751547083,
+        "rank": 20,
+        "category": "电影,艺人"
+      },
+      {
+        "raw_hot": 184850,
+        "num": 184850,
+        "word": "桃花映江山18集22分54秒",
+        "onboard_time": 1751549843,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184453,
+        "num": 184453,
+        "word": "以法之名三兄弟真预言家被刀",
+        "onboard_time": 1751551884,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103708,
+        "num": 173966,
+        "word": "小鹏G7发布震惊央视朱广权",
+        "onboard_time": 1751546121,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 362296,
+        "num": 170834,
+        "word": "27岁女子放疗出院3天突遭车祸身亡",
+        "onboard_time": 1751539041,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166750,
+        "num": 166750,
+        "word": "李现弹琴vs黄晓明打字",
+        "onboard_time": 1751551823,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165068,
+        "num": 165068,
+        "word": "刘学义孟子义吻戏reaction",
+        "onboard_time": 1751549843,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162449,
+        "num": 162449,
+        "word": "这个杨紫好会演",
+        "onboard_time": 1751551043,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162348,
+        "num": 162348,
+        "word": "一种巨掉好感的行为",
+        "onboard_time": 1751550864,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 547174,
+        "num": 157072,
+        "word": "成都东站",
+        "onboard_time": 1751544861,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149517,
+        "num": 149517,
+        "word": "田栩宁新剧男三",
+        "onboard_time": 1751545701,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144624,
+        "num": 144624,
+        "word": "利物浦前锋若塔去世",
+        "onboard_time": 1751530581,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134855,
+        "num": 134855,
+        "word": "感染食脑虫女童进ICU10天未明显好转",
+        "onboard_time": 1751550143,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132192,
+        "num": 132192,
+        "word": "杨幂白裙红伞",
+        "onboard_time": 1751545762,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132189,
+        "num": 132189,
+        "word": "纸嫁衣",
+        "onboard_time": 1751548583,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130629,
+        "num": 130629,
+        "word": "1.5L装的东方树叶",
+        "onboard_time": 1751534662,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126091,
+        "num": 126091,
+        "word": "李承铉男人的脏是胜利的勋章",
+        "onboard_time": 1751545582,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122055,
+        "num": 122055,
+        "word": "中国是间谍活动的受害者",
+        "onboard_time": 1751550683,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120059,
+        "num": 120059,
+        "word": "俄海军副司令遇袭身亡",
+        "onboard_time": 1751537601,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99851,
+        "num": 115591,
+        "word": "成都东站回应暴雨致列车晚点",
+        "onboard_time": 1751551642,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114589,
+        "num": 114589,
+        "word": "若塔因车祸去世",
+        "onboard_time": 1751530641,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106720,
+        "num": 106720,
+        "word": "任嘉伦蓝盈莹主演风与潮杀青特辑",
+        "onboard_time": 1751546542,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106575,
+        "num": 106575,
+        "word": "迪丽热巴警服造型又美又飒",
+        "onboard_time": 1751545942,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105783,
+        "num": 105783,
+        "word": "Tabe发文道歉",
+        "onboard_time": 1751545582,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100294,
+        "num": 100294,
+        "word": "银河左岸音乐节",
+        "onboard_time": 1751552183,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 98028,
+        "num": 98028,
+        "word": "非农",
+        "onboard_time": 1751552663,
+        "rank": 45,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 23664,
+        "num": 97690,
+        "word": "守护的瞬间",
+        "onboard_time": 1751550263,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 97412,
+        "num": 97412,
+        "word": "女子带儿子打伤出轨老公后双双被拘",
+        "onboard_time": 1751536162,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97175,
+        "num": 97175,
+        "word": "暑假新顶流",
+        "onboard_time": 1751525241,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88959,
+        "num": 88959,
+        "word": "身份证加水印",
+        "onboard_time": 1751525661,
+        "rank": 49,
+        "category": "民生新闻,科学科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国青年大有可为#"
+    }
+  }
+}

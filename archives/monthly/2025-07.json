@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751550557889,
+  "endTime": 1751552797930,
   "band_list": [
     {
       "raw_hot": 4541277,
@@ -395,6 +395,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 968423,
+      "num": 1154947,
+      "word": "吴所畏在韩国叫什么",
+      "onboard_time": 1751547143,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 967187,
       "num": 434810,
       "word": "暑假新顶流",
@@ -643,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 788675,
+      "num": 788675,
+      "word": "女歌手每天喝4杯奶茶导致失声",
+      "onboard_time": 1751550082,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 777324,
       "num": 501640,
       "word": "女子腿痒了2个月查出肝癌",
@@ -745,14 +761,6 @@
       "onboard_time": 1751424561,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 713502,
-      "num": 713502,
-      "word": "吴所畏在韩国叫什么",
-      "onboard_time": 1751547143,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 713210,
@@ -1193,6 +1201,14 @@
       "onboard_time": 1751345963,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 574464,
+      "num": 574464,
+      "word": "亲生母亲8万多元卖掉自己的两个孩子",
+      "onboard_time": 1751550384,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 572968,
@@ -1697,6 +1713,14 @@
       "onboard_time": 1751519841,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 427815,
+      "num": 427815,
+      "word": "易烊千玺广州",
+      "onboard_time": 1751551163,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 427327,
@@ -2283,6 +2307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 312582,
+      "num": 304646,
+      "word": "秦海璐王俊凯姐弟再同框",
+      "onboard_time": 1751548762,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 312271,
       "num": 312271,
       "word": "章子怡王俊凯周冬雨坐一起",
@@ -2305,6 +2337,14 @@
       "onboard_time": 1751426541,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 311107,
+      "num": 399545,
+      "word": "成都暴雨红色预警",
+      "onboard_time": 1751547321,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 310689,
@@ -2465,6 +2505,14 @@
       "onboard_time": 1751545582,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 294717,
+      "num": 294717,
+      "word": "13岁女孩邀请网友住家黄金被卖了",
+      "onboard_time": 1751549362,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 294612,
@@ -2827,14 +2875,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 248178,
-      "num": 229228,
-      "word": "秦海璐王俊凯姐弟再同框",
-      "onboard_time": 1751548762,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 247467,
       "num": 180917,
       "word": "杨幂吴谨言赵今麦VOGUE红毯图",
@@ -2897,6 +2937,14 @@
       "onboard_time": 1751288303,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 242091,
+      "num": 242091,
+      "word": "babycare纸尿裤发现黑色尖状异物",
+      "onboard_time": 1751551343,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 241731,
@@ -2969,6 +3017,14 @@
       "onboard_time": 1751442682,
       "rank": 21,
       "category": "国际时政,国际时政"
+    },
+    {
+      "raw_hot": 234340,
+      "num": 234340,
+      "word": "王一博方公开告黑进展",
+      "onboard_time": 1751552064,
+      "rank": 16,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 233517,
@@ -3105,22 +3161,6 @@
       "onboard_time": 1751378244,
       "rank": 34,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 228178,
-      "num": 399545,
-      "word": "成都暴雨红色预警",
-      "onboard_time": 1751547321,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 228149,
-      "num": 228148,
-      "word": "13岁女孩邀请网友住家黄金被卖了",
-      "onboard_time": 1751549362,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 228147,
@@ -3859,6 +3899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197213,
+      "num": 197213,
+      "word": "洪亮小舅子竟是大佬心腹",
+      "onboard_time": 1751551944,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197196,
       "num": 197196,
       "word": "卢伟冰回应小米青年公寓定价1999元",
@@ -4185,6 +4233,22 @@
       "onboard_time": 1751461702,
       "rank": 44,
       "category": "数码"
+    },
+    {
+      "raw_hot": 184850,
+      "num": 228151,
+      "word": "桃花映江山18集22分54秒",
+      "onboard_time": 1751549843,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 184453,
+      "num": 184453,
+      "word": "以法之名三兄弟真预言家被刀",
+      "onboard_time": 1751551884,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 184154,
@@ -4731,6 +4795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166750,
+      "num": 166750,
+      "word": "李现弹琴vs黄晓明打字",
+      "onboard_time": 1751551823,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166141,
       "num": 166141,
       "word": "甘薇送孩子去美国看贾跃亭",
@@ -4851,14 +4923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 162715,
-      "num": 162715,
-      "word": "女歌手每天喝4杯奶茶导致失声",
-      "onboard_time": 1751550082,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 162704,
       "num": 331421,
       "word": "男子在独库公路压线逆行还口出狂言",
@@ -4891,12 +4955,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162449,
+      "num": 162449,
+      "word": "这个杨紫好会演",
+      "onboard_time": 1751551043,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162372,
       "num": 202699,
       "word": "鞠婧祎工作室 会剪",
       "onboard_time": 1751301380,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162348,
+      "num": 162348,
+      "word": "一种巨掉好感的行为",
+      "onboard_time": 1751550864,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 162086,
@@ -5915,6 +5995,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134855,
+      "num": 149972,
+      "word": "感染食脑虫女童进ICU10天未明显好转",
+      "onboard_time": 1751550143,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134788,
       "num": 134788,
       "word": "星穹铁道3.4",
@@ -6675,6 +6763,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 122055,
+      "num": 122055,
+      "word": "中国是间谍活动的受害者",
+      "onboard_time": 1751550683,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 122038,
       "num": 226451,
       "word": "染崎白石魏莱分手",
@@ -6969,14 +7065,6 @@
       "onboard_time": 1751340200,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 117194,
-      "num": 228151,
-      "word": "桃花映江山18集22分54秒",
-      "onboard_time": 1751549843,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 117125,
@@ -7353,14 +7441,6 @@
       "onboard_time": 1751463443,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 111343,
-      "num": 111343,
-      "word": "亲生母亲8万多元卖掉自己的两个孩子",
-      "onboard_time": 1751550384,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111286,
@@ -7931,12 +8011,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 100294,
+      "num": 100294,
+      "word": "银河左岸音乐节",
+      "onboard_time": 1751552183,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 99908,
       "num": 136258,
       "word": "刘星一语成谶",
       "onboard_time": 1751459724,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99851,
+      "num": 115591,
+      "word": "成都东站回应暴雨致列车晚点",
+      "onboard_time": 1751551642,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99722,
@@ -7985,6 +8081,14 @@
       "onboard_time": 1751498479,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 98028,
+      "num": 98028,
+      "word": "非农",
+      "onboard_time": 1751552663,
+      "rank": 45,
+      "category": "国际时政,财经"
     },
     {
       "raw_hot": 98006,
@@ -8873,6 +8977,14 @@
       "onboard_time": 1751384483,
       "rank": 35,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 67456,
+      "num": 185621,
+      "word": "美国众议院要求支持台湾加入IMF",
+      "onboard_time": 1751552482,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 67214,
@@ -9867,14 +9979,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 31176,
-      "num": 149972,
-      "word": "感染食脑虫女童进ICU10天未明显好转",
-      "onboard_time": 1751550143,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 31161,
       "num": 185461,
       "word": "AI修复平型关战斗珍贵历史照片",
@@ -10417,6 +10521,14 @@
       "onboard_time": 1751452882,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 15660,
+      "num": 854689,
+      "word": "大学志愿填报注意这些坑",
+      "onboard_time": 1751552364,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15652,
