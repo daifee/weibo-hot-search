@@ -1,0 +1,410 @@
+{
+  "runTime": 1751508213407,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 764085,
+        "num": 1122253,
+        "word": "一棵荔枝树上竟结出30种荔枝",
+        "onboard_time": 1751506342,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 749703,
+        "num": 749703,
+        "word": "广州一模特被骗至缅甸非法拘禁",
+        "onboard_time": 1751500581,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24282,
+        "num": 565627,
+        "word": "网警护航高考志愿填报",
+        "onboard_time": 1751502622,
+        "rank": 2,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 465575,
+        "num": 465575,
+        "word": "黄牛为什么能抢走演唱会门票",
+        "onboard_time": 1751465425,
+        "rank": 3,
+        "category": "民生新闻,演出"
+      },
+      {
+        "raw_hot": 433609,
+        "num": 433609,
+        "word": "中国海军山东舰航母编队抵达香港",
+        "onboard_time": 1751502983,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 408734,
+        "num": 408734,
+        "word": "杭州热到全国第一了",
+        "onboard_time": 1751498479,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 359810,
+        "num": 359810,
+        "word": "山东舰航母编队又燃又帅",
+        "onboard_time": 1751501783,
+        "rank": 6,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 350132,
+        "num": 350132,
+        "word": "章子怡赵丽颖酱园弄下有重要戏份",
+        "onboard_time": 1751503823,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 325828,
+        "num": 325828,
+        "word": "被麦琳抄袭博主拒绝赔偿只求平静生活",
+        "onboard_time": 1751469023,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329112,
+        "num": 314779,
+        "word": "印尼一客轮在巴厘海峡沉没",
+        "onboard_time": 1751503403,
+        "rank": 9,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 874581,
+        "num": 295632,
+        "word": "曝娜扎张云龙近况",
+        "onboard_time": 1751499380,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 623198,
+        "num": 289636,
+        "word": "中文慢慢失去了加密功能",
+        "onboard_time": 1751498839,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 271289,
+        "num": 271289,
+        "word": "日本7月5日大地震预言会成真吗",
+        "onboard_time": 1751469263,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 252217,
+        "num": 252217,
+        "word": "日本首相强硬表态",
+        "onboard_time": 1751498719,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 248715,
+        "num": 248715,
+        "word": "利剑玫瑰",
+        "onboard_time": 1751506342,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152814,
+        "num": 228893,
+        "word": "知情人称5层楼房垮塌前已倾斜",
+        "onboard_time": 1751505263,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226651,
+        "num": 226651,
+        "word": "恋与深空开门",
+        "onboard_time": 1751505680,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 214079,
+        "num": 214079,
+        "word": "魏哲鸣回应一米七一米八",
+        "onboard_time": 1751500943,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192724,
+        "num": 192724,
+        "word": "韩国女星李屿迩去世",
+        "onboard_time": 1751499079,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156774,
+        "num": 190609,
+        "word": "吹牛老爹被判组织卖淫罪",
+        "onboard_time": 1751506761,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374417,
+        "num": 190605,
+        "word": "28岁女子做取环手术致十级伤残",
+        "onboard_time": 1751504063,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197166,
+        "num": 190595,
+        "word": "美犯罪学博士凌晨残杀4名大学生",
+        "onboard_time": 1751504182,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 190560,
+        "num": 190560,
+        "word": "2025彻底过去一半了",
+        "onboard_time": 1751503702,
+        "rank": 22,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 183193,
+        "num": 183193,
+        "word": "张云龙很会给娜扎情绪价值",
+        "onboard_time": 1751507060,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32490,
+        "num": 170231,
+        "word": "标普500指数半年涨5.5%",
+        "onboard_time": 1751500700,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 166939,
+        "num": 166939,
+        "word": "特朗普称美越已达成贸易协议",
+        "onboard_time": 1751503283,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 144678,
+        "num": 144678,
+        "word": "王灿说和杜淳不算门当户对",
+        "onboard_time": 1751499380,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142789,
+        "num": 142789,
+        "word": "20年前的高考成绩可网络查询了",
+        "onboard_time": 1751469682,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138836,
+        "num": 138836,
+        "word": "减肥要吃够碳水才不易反弹",
+        "onboard_time": 1751502983,
+        "rank": 28,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 133023,
+        "num": 133023,
+        "word": "警方通报南航吉林分公司伤人事件",
+        "onboard_time": 1751470762,
+        "rank": 29,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 124394,
+        "num": 124394,
+        "word": "越南关税",
+        "onboard_time": 1751499261,
+        "rank": 30,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 122235,
+        "num": 122235,
+        "word": "文淇好辣",
+        "onboard_time": 1751504182,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 116910,
+        "num": 116910,
+        "word": "王嘉尔反驳印度主持人",
+        "onboard_time": 1751460443,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114075,
+        "num": 114075,
+        "word": "小黄豆 芮芮",
+        "onboard_time": 1751468243,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 25137,
+        "num": 110933,
+        "word": "香港市民6点就在等山东舰",
+        "onboard_time": 1751508140,
+        "rank": 34,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 19250,
+        "num": 110356,
+        "word": "为拍爆筐照片游客疯狂在苍山采菌",
+        "onboard_time": 1751508140,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110128,
+        "num": 110128,
+        "word": "王者荣耀新赛季",
+        "onboard_time": 1751504901,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 107624,
+        "num": 107624,
+        "word": "以爱为营重映预告",
+        "onboard_time": 1751500340,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13208,
+        "num": 102489,
+        "word": "2人就餐点茶后还被收11元白开水费",
+        "onboard_time": 1751508140,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101288,
+        "num": 101288,
+        "word": "货物列车冲突致K1373次列车脱线",
+        "onboard_time": 1751506880,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99007,
+        "num": 99007,
+        "word": "加沙近600人领食物时被打死",
+        "onboard_time": 1751499139,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 98775,
+        "num": 98775,
+        "word": "AL迎来MSI首秀",
+        "onboard_time": 1751505740,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 95372,
+        "num": 95372,
+        "word": "妈妈为走失孩子留26年门",
+        "onboard_time": 1751506520,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93090,
+        "num": 93090,
+        "word": "台湾啦啦队大展宏图",
+        "onboard_time": 1751504541,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88558,
+        "num": 88558,
+        "word": "AL对阵Fly",
+        "onboard_time": 1751507360,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 87459,
+        "num": 87459,
+        "word": "建议大家在任何关系中只筛选不改变",
+        "onboard_time": 1751504961,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 85664,
+        "num": 85664,
+        "word": "特斯拉市值一夜大涨3450亿元",
+        "onboard_time": 1751503161,
+        "rank": 46,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 85436,
+        "num": 85436,
+        "word": "王者荣耀",
+        "onboard_time": 1751503403,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 80786,
+        "num": 80786,
+        "word": "健康睡眠的4个黄金标准",
+        "onboard_time": 1751468304,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 78484,
+        "num": 78484,
+        "word": "艾顿加盟湖人",
+        "onboard_time": 1751498298,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定正确政治方向深化改革创新#"
+    }
+  }
+}
