@@ -1,6 +1,6 @@
 {
   "startTime": 1751560391149,
-  "endTime": 1751578788900,
+  "endTime": 1751581527157,
   "band_list": [
     {
       "raw_hot": 2967815,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 422109,
-      "num": 422109,
+      "num": 426073,
       "word": "女子熟睡被男友持刀架在脖子上",
       "onboard_time": 1751560878,
       "rank": 26,
@@ -51,20 +51,20 @@
       "category": "幽默,剧集"
     },
     {
+      "raw_hot": 321556,
+      "num": 198562,
+      "word": "25岁杀夫新娘和舅舅有15年非法关系",
+      "onboard_time": 1751557701,
+      "rank": 15,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 303631,
       "num": 303631,
       "word": "相亲次日就领证后发现女方隐瞒病情",
       "onboard_time": 1751554282,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 283080,
-      "num": 198562,
-      "word": "25岁杀夫新娘和舅舅有15年非法关系",
-      "onboard_time": 1751557701,
-      "rank": 15,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 280753,
@@ -227,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106150,
+      "num": 106150,
+      "word": "多部门介入12岁男孩小区坠井身亡",
+      "onboard_time": 1751556083,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94041,
       "num": 94041,
       "word": "印度10年造出死亡折角立交桥",
@@ -264,14 +272,6 @@
       "word": "退烧药引发男童全身90%皮肤剥脱",
       "onboard_time": 1751553984,
       "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 87021,
-      "num": 87021,
-      "word": "多部门介入12岁男孩小区坠井身亡",
-      "onboard_time": 1751556083,
-      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -387,6 +387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 65663,
+      "num": 38396,
+      "word": "夜爬泰山 误闯天家",
+      "onboard_time": 1751580795,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 63507,
       "num": 63507,
       "word": "虞书欣wakuku塑",
@@ -427,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 58903,
+      "num": 58902,
+      "word": "狗狗扑向路过男孩主人冲上去阻止",
+      "onboard_time": 1751574194,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58624,
       "num": 58624,
       "word": "感染食脑虫女童进ICU10天未明显好转",
@@ -441,6 +457,14 @@
       "onboard_time": 1751537601,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 50852,
+      "num": 50852,
+      "word": "洛阳一景区有游客被洪水冲走失联3天",
+      "onboard_time": 1751578815,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48016,
@@ -475,12 +499,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 36988,
-      "num": 36988,
-      "word": "狗狗扑向路过男孩主人冲上去阻止",
-      "onboard_time": 1751574194,
-      "rank": 25,
+      "raw_hot": 39769,
+      "num": 39769,
+      "word": "男子为骗拆迁补助与男友姐姐假结婚",
+      "onboard_time": 1751579714,
+      "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38257,
+      "num": 38257,
+      "word": "MKOI对战BLG",
+      "onboard_time": 1751570355,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 35205,
@@ -488,6 +520,14 @@
       "word": "人民日报评这么近那么美标语出圈",
       "onboard_time": 1751554282,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34069,
+      "num": 34069,
+      "word": "黄河上再添一座新大桥",
+      "onboard_time": 1751580017,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -545,14 +585,6 @@
       "onboard_time": 1751567776,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 20964,
-      "num": 20964,
-      "word": "MKOI对战BLG",
-      "onboard_time": 1751570355,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 20313,
