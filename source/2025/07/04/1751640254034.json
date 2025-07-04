@@ -1,0 +1,410 @@
+{
+  "runTime": 1751640254034,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2433865,
+        "num": 2433865,
+        "word": "杨幂摔出了神图",
+        "onboard_time": 1751636668,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1787156,
+        "num": 1787156,
+        "word": "歌手排名",
+        "onboard_time": 1751635467,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63806,
+        "num": 1151543,
+        "word": "高温闷热天气防中暑指南",
+        "onboard_time": 1751639304,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 724232,
+        "num": 724232,
+        "word": "独居老人网购花费200万睡在快递上",
+        "onboard_time": 1751638466,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 441701,
+        "num": 441701,
+        "word": "父亲女儿均患癌39岁男子掩面痛哭",
+        "onboard_time": 1751639245,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334203,
+        "num": 334203,
+        "word": "男子还手致人死亡被判八年家属发声",
+        "onboard_time": 1751635286,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1548436,
+        "num": 326151,
+        "word": "李佳薇太牛了",
+        "onboard_time": 1751632946,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 925466,
+        "num": 323053,
+        "word": "单依纯 王菲在唱那英的歌",
+        "onboard_time": 1751634567,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302931,
+        "num": 302931,
+        "word": "10元快剪店理发师月入2万元",
+        "onboard_time": 1751629643,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249310,
+        "num": 302128,
+        "word": "使馆提醒在日中国公民防范自然灾害",
+        "onboard_time": 1751637925,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1045207,
+        "num": 301666,
+        "word": "日本末世预言剩1天有人撤离",
+        "onboard_time": 1751614103,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 763183,
+        "num": 300307,
+        "word": "田栩宁女友置顶官宣照",
+        "onboard_time": 1751609542,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 618149,
+        "num": 299544,
+        "word": "日本",
+        "onboard_time": 1751639125,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 566439,
+        "num": 298153,
+        "word": "鹿晗直拍 哪里来的洋娃娃",
+        "onboard_time": 1751637026,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 448778,
+        "num": 296419,
+        "word": "日本末世预言剩1天",
+        "onboard_time": 1751595442,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 388091,
+        "num": 295631,
+        "word": "俄罗斯发动最大规模空袭",
+        "onboard_time": 1751637746,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 381688,
+        "num": 294929,
+        "word": "DeepSeek给王一博道歉是假的",
+        "onboard_time": 1751604325,
+        "rank": 16,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 376305,
+        "num": 293410,
+        "word": "TVB演员雪妮病逝",
+        "onboard_time": 1751631624,
+        "rank": 17,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 367491,
+        "num": 292447,
+        "word": "李佳薇 真天后",
+        "onboard_time": 1751636608,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291997,
+        "num": 291997,
+        "word": "8岁女孩被邻居带到长江游泳溺亡",
+        "onboard_time": 1751639304,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353176,
+        "num": 291003,
+        "word": "单依纯 换歌",
+        "onboard_time": 1751635706,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 343288,
+        "num": 290377,
+        "word": "陈楚生被谁甩了",
+        "onboard_time": 1751637746,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324603,
+        "num": 287224,
+        "word": "鹿晗对粉丝男朋友说照顾好她",
+        "onboard_time": 1751639183,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 57434,
+        "num": 286938,
+        "word": "PEL夏季赛第一周周决赛",
+        "onboard_time": 1751639364,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 315133,
+        "num": 284910,
+        "word": "歌手直播",
+        "onboard_time": 1751628923,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284031,
+        "num": 284031,
+        "word": "29岁身高从165厘米到171厘米",
+        "onboard_time": 1751626283,
+        "rank": 25,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 312351,
+        "num": 280054,
+        "word": "皓衣行 重启",
+        "onboard_time": 1751639906,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293197,
+        "num": 275861,
+        "word": "何惟芳蒋长扬亲好猛",
+        "onboard_time": 1751631744,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267192,
+        "num": 267192,
+        "word": "歌手收视率",
+        "onboard_time": 1751637986,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43493,
+        "num": 265885,
+        "word": "冰杯持续火爆有厂家日销30吨",
+        "onboard_time": 1751640086,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265689,
+        "num": 265689,
+        "word": "陈楚生又第二",
+        "onboard_time": 1751640025,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265652,
+        "num": 265652,
+        "word": "胡先煦说我不是什么星",
+        "onboard_time": 1751637625,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 257831,
+        "num": 257831,
+        "word": "警方介入河南大学生泰国失联14天",
+        "onboard_time": 1751634086,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255676,
+        "num": 255676,
+        "word": "瞒着全家人考上了北大",
+        "onboard_time": 1751624961,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 17528,
+        "num": 227014,
+        "word": "村干部激流中硬砍树枝疏通河道",
+        "onboard_time": 1751640086,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223681,
+        "num": 223681,
+        "word": "驻日本大使馆提醒在日同胞",
+        "onboard_time": 1751639906,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 218428,
+        "num": 218428,
+        "word": "张一山的字好帅",
+        "onboard_time": 1751635647,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212939,
+        "num": 212939,
+        "word": "太原暴雨",
+        "onboard_time": 1751637026,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211192,
+        "num": 211192,
+        "word": "跑男",
+        "onboard_time": 1751638466,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133197,
+        "num": 198918,
+        "word": "樊振东这场比赛你看了多少遍",
+        "onboard_time": 1751639245,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198712,
+        "num": 198712,
+        "word": "GAI是不是又想走了",
+        "onboard_time": 1751631864,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195741,
+        "num": 195741,
+        "word": "袭榜歌手是谁",
+        "onboard_time": 1751639786,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195714,
+        "num": 195714,
+        "word": "中餐厅",
+        "onboard_time": 1751639665,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188197,
+        "num": 188197,
+        "word": "者来女火星电台淘汰",
+        "onboard_time": 1751639425,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173668,
+        "num": 173668,
+        "word": "广东一餐厅318元套餐结账变2297元",
+        "onboard_time": 1751639066,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165162,
+        "num": 165162,
+        "word": "日本华人就末世预言发声",
+        "onboard_time": 1751621542,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 162745,
+        "num": 162745,
+        "word": "林俊杰演唱会",
+        "onboard_time": 1751638348,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 159771,
+        "num": 159771,
+        "word": "披荆斩棘5淘汰",
+        "onboard_time": 1751636126,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156319,
+        "num": 156319,
+        "word": "艾莉西亚揭榜成功",
+        "onboard_time": 1751639906,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90883,
+        "num": 155537,
+        "word": "U16国足1比1日本U16",
+        "onboard_time": 1751638107,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#厦门发展战略启示#"
+    }
+  }
+}
