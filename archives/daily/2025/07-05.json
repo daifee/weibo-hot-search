@@ -1,6 +1,6 @@
 {
   "startTime": 1751646733900,
-  "endTime": 1751664292392,
+  "endTime": 1751665157043,
   "band_list": [
     {
       "raw_hot": 2497507,
@@ -491,20 +491,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 57065,
+      "num": 57065,
+      "word": "林志玲说带孩子没有优雅这件事",
+      "onboard_time": 1751658435,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 53472,
       "num": 59349,
       "word": "纸嫁衣8",
       "onboard_time": 1751642184,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 49568,
-      "num": 49568,
-      "word": "林志玲说带孩子没有优雅这件事",
-      "onboard_time": 1751658435,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 46703,
@@ -579,20 +579,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 17149,
+      "num": 20214,
+      "word": "印度计划对美征收报复性关税",
+      "onboard_time": 1751664914,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 16775,
+      "num": 33518,
+      "word": "张雨霏透露可能回归200蝶",
+      "onboard_time": 1751661495,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 16589,
       "num": 23512,
       "word": "张真源把那鱼说成内娱",
       "onboard_time": 1751657775,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 15403,
-      "num": 33518,
-      "word": "张雨霏透露可能回归200蝶",
-      "onboard_time": 1751661495,
-      "rank": 20,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
