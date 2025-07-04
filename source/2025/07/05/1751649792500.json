@@ -1,0 +1,410 @@
+{
+  "runTime": 1751649792500,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 704231,
+        "num": 704231,
+        "word": "杨幂摔出了神图",
+        "onboard_time": 1751636668,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 672448,
+        "num": 672448,
+        "word": "67岁丈夫出轨50岁闺蜜妻子怒告二人",
+        "onboard_time": 1751647162,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25714,
+        "num": 566530,
+        "word": "高温闷热天气防中暑指南",
+        "onboard_time": 1751639304,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 554391,
+        "num": 554391,
+        "word": "成都暴雨致家里插座出水成瀑布",
+        "onboard_time": 1751644941,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275971,
+        "num": 275971,
+        "word": "独居老人网购花费200万睡在快递上",
+        "onboard_time": 1751638466,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256635,
+        "num": 256635,
+        "word": "鹿晗对粉丝男朋友说照顾好她",
+        "onboard_time": 1751639183,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 255658,
+        "num": 255658,
+        "word": "上海一面馆被曝将剩面二次上桌",
+        "onboard_time": 1751641107,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251231,
+        "num": 251231,
+        "word": "歌手排名",
+        "onboard_time": 1751635467,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226962,
+        "num": 226962,
+        "word": "李佳薇太牛了",
+        "onboard_time": 1751632946,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190265,
+        "num": 190265,
+        "word": "欠女大学生家教费老赖债主遍布全国",
+        "onboard_time": 1751646861,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1686622,
+        "num": 187999,
+        "word": "日本",
+        "onboard_time": 1751639125,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 799249,
+        "num": 187541,
+        "word": "日本末世预言剩1天有人撤离",
+        "onboard_time": 1751614103,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 316821,
+        "num": 182439,
+        "word": "田栩宁女友置顶官宣照",
+        "onboard_time": 1751609542,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255022,
+        "num": 181630,
+        "word": "于正又发飙了",
+        "onboard_time": 1751641107,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251496,
+        "num": 177779,
+        "word": "日本末世预言剩1天",
+        "onboard_time": 1751595442,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 202573,
+        "num": 174825,
+        "word": "皓衣行 重启",
+        "onboard_time": 1751639906,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174487,
+        "num": 174487,
+        "word": "俄罗斯发动最大规模空袭",
+        "onboard_time": 1751637746,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 143686,
+        "num": 143686,
+        "word": "8岁女孩被邻居带到长江游泳溺亡",
+        "onboard_time": 1751639304,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131216,
+        "num": 131216,
+        "word": "鹿晗我们的明天全场大合唱",
+        "onboard_time": 1751647939,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 84249,
+        "num": 129698,
+        "word": "天水一幼儿402天自行3次血检均超标",
+        "onboard_time": 1751648480,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129380,
+        "num": 129380,
+        "word": "李佳薇赛后发文",
+        "onboard_time": 1751644224,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121486,
+        "num": 121486,
+        "word": "单依纯 王菲在唱那英的歌",
+        "onboard_time": 1751634567,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118257,
+        "num": 118257,
+        "word": "女子19.9元买金挂件熔后不见黄金",
+        "onboard_time": 1751646921,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115712,
+        "num": 115712,
+        "word": "父亲女儿均患癌39岁男子掩面痛哭",
+        "onboard_time": 1751639245,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114785,
+        "num": 114785,
+        "word": "改成腹式呼吸后睡眠变好了",
+        "onboard_time": 1751640267,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 113429,
+        "num": 113429,
+        "word": "日本华人就末世预言发声",
+        "onboard_time": 1751621542,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 109933,
+        "num": 109933,
+        "word": "迪丽热巴模仿张凌赫",
+        "onboard_time": 1751642603,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109772,
+        "num": 109772,
+        "word": "驻日本大使馆提醒在日同胞",
+        "onboard_time": 1751639906,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104305,
+        "num": 104305,
+        "word": "DeepSeek给王一博道歉是假的",
+        "onboard_time": 1751604325,
+        "rank": 28,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 63017,
+        "num": 102507,
+        "word": "使馆提醒在日中国公民防范自然灾害",
+        "onboard_time": 1751637925,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 101123,
+        "num": 101123,
+        "word": "何惟芳蒋长扬亲好猛",
+        "onboard_time": 1751631744,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92628,
+        "num": 92628,
+        "word": "大学生购买10粒迷奸药获刑10个月",
+        "onboard_time": 1751627785,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92384,
+        "num": 92384,
+        "word": "坐在林俊杰停车位的含金量",
+        "onboard_time": 1751643504,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 89156,
+        "num": 89156,
+        "word": "单依纯 换歌",
+        "onboard_time": 1751635706,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88430,
+        "num": 88430,
+        "word": "山东舰拍这么大以后怎么忽悠别人",
+        "onboard_time": 1751647221,
+        "rank": 34,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 80611,
+        "num": 80611,
+        "word": "29岁身高从165厘米到171厘米",
+        "onboard_time": 1751626283,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 74174,
+        "num": 74174,
+        "word": "TVB演员雪妮病逝",
+        "onboard_time": 1751631624,
+        "rank": 36,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 70979,
+        "num": 70979,
+        "word": "20岁女大学生在丽江失联3天",
+        "onboard_time": 1751644883,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70155,
+        "num": 70155,
+        "word": "刘端端体制内的魅力",
+        "onboard_time": 1751631264,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67275,
+        "num": 67275,
+        "word": "沈月翟潇闻抬桌子没有一秒不好笑",
+        "onboard_time": 1751647581,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66446,
+        "num": 66446,
+        "word": "广东一餐厅318元套餐结账变2297元",
+        "onboard_time": 1751639066,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64484,
+        "num": 64484,
+        "word": "违停者屡次开门杀车主自费装护栏",
+        "onboard_time": 1751648780,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63557,
+        "num": 63557,
+        "word": "余宇涵去林俊杰演唱会了",
+        "onboard_time": 1751644344,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 60170,
+        "num": 60170,
+        "word": "披荆斩棘5淘汰",
+        "onboard_time": 1751636126,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59350,
+        "num": 59350,
+        "word": "GAI是不是又想走了",
+        "onboard_time": 1751631864,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53472,
+        "num": 59349,
+        "word": "纸嫁衣8",
+        "onboard_time": 1751642184,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 52631,
+        "num": 59329,
+        "word": "迪丽热巴 御木本",
+        "onboard_time": 1751627785,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51206,
+        "num": 59320,
+        "word": "空调开除湿模式别超2小时",
+        "onboard_time": 1751641945,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 48626,
+        "num": 59304,
+        "word": "后备箱藏3孩子被查司机称感觉没事",
+        "onboard_time": 1751643684,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48174,
+        "num": 59292,
+        "word": "歌手直播",
+        "onboard_time": 1751628923,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#厦门发展战略启示#"
+    }
+  }
+}
