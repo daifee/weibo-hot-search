@@ -1,6 +1,6 @@
 {
   "startTime": 1751646733900,
-  "endTime": 1751656922634,
+  "endTime": 1751657802635,
   "band_list": [
     {
       "raw_hot": 2497507,
@@ -171,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215088,
+      "num": 215088,
+      "word": "北京下雨",
+      "onboard_time": 1751654716,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 210671,
       "num": 210671,
       "word": "日本华人就末世预言发声",
@@ -272,14 +280,6 @@
       "word": "广东一餐厅318元套餐结账变2297元",
       "onboard_time": 1751639066,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 141647,
-      "num": 141647,
-      "word": "北京下雨",
-      "onboard_time": 1751654716,
-      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -547,12 +547,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 19661,
-      "num": 21651,
+      "raw_hot": 20287,
+      "num": 24365,
       "word": "这一幕是别样的浪漫和满满的心安",
       "onboard_time": 1751648180,
       "rank": 47,
       "category": "军事"
+    },
+    {
+      "raw_hot": 16589,
+      "num": 23512,
+      "word": "张真源把那鱼说成内娱",
+      "onboard_time": 1751657775,
+      "rank": 49,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [

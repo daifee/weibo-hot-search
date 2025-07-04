@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/05 03:22:02
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/05 03:36:42
 </p>
 </blockquote>
 <p>
@@ -3663,6 +3663,12 @@ GEN战胜G2（热度：215673）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%8B%E9%9B%A8%23" target="weibo">
+北京下雨（热度：215088）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%9D%E5%8C%BA%E9%9B%B6%23" target="weibo">
 绝区零（热度：215043）
 </a>
@@ -6005,12 +6011,6 @@ RED扫楼直播（热度：147639）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%8E%8B%E6%9B%BC%E6%98%B1%E7%AD%89%E6%8A%B5%E7%BE%8E%23" target="weibo">
 孙颖莎王楚钦王曼昱等抵美（热度：145438）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23G2%E6%99%8B%E7%BA%A7%E6%B7%98%E6%B1%B0%E8%B5%9B%23" target="weibo">
-G2晋级淘汰赛（热度：145288）
 </a>
 </li>
 
