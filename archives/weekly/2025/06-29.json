@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751657802635,
+  "endTime": 1751660890649,
   "band_list": [
     {
       "raw_hot": 6390116,
@@ -20811,6 +20811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26861,
+      "num": 30675,
+      "word": "林志玲说带孩子没有优雅这件事",
+      "onboard_time": 1751658435,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26831,
       "num": 125283,
       "word": "国乒队员赛前训练有多专注",
@@ -21059,6 +21067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23948,
+      "num": 24365,
+      "word": "这一幕是别样的浪漫和满满的心安",
+      "onboard_time": 1751648180,
+      "rank": 47,
+      "category": "军事"
+    },
+    {
       "raw_hot": 23927,
       "num": 23927,
       "word": "苏新皓披哥录制路透",
@@ -21235,6 +21251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 21622,
+      "num": 21622,
+      "word": "爱到最后全凭良心",
+      "onboard_time": 1751659453,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 21567,
       "num": 26869,
       "word": "电影恶意",
@@ -21297,14 +21321,6 @@
       "onboard_time": 1751494816,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 20287,
-      "num": 24365,
-      "word": "这一幕是别样的浪漫和满满的心安",
-      "onboard_time": 1751648180,
-      "rank": 47,
-      "category": "军事"
     },
     {
       "raw_hot": 20238,
@@ -21673,6 +21689,14 @@
       "onboard_time": 1751139554,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 15392,
+      "num": 52668,
+      "word": "厦门发展战略启示",
+      "onboard_time": 1751658855,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 15252,
