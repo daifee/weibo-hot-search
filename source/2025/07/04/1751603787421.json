@@ -1,0 +1,410 @@
+{
+  "runTime": 1751603787421,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1074628,
+        "num": 1171940,
+        "word": "iPhone 制冷模式",
+        "onboard_time": 1751598383,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 819206,
+        "num": 819206,
+        "word": "被骗至缅甸男模特已获救",
+        "onboard_time": 1751602051,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3614,
+        "num": 627989,
+        "word": "万千气象看山西",
+        "onboard_time": 1751294963,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 621677,
+        "num": 621677,
+        "word": "跑男这期玩得很脏",
+        "onboard_time": 1751597903,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 599747,
+        "num": 599747,
+        "word": "医生提醒高温天别舍不得开空调",
+        "onboard_time": 1751597661,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2196834,
+        "num": 509558,
+        "word": "日本末世预言剩1天",
+        "onboard_time": 1751595442,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 853423,
+        "num": 504807,
+        "word": "多名幼儿呕吐查出血铅异常",
+        "onboard_time": 1751598084,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 416426,
+        "num": 416426,
+        "word": "热射病",
+        "onboard_time": 1751593761,
+        "rank": 7,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 404920,
+        "num": 404920,
+        "word": "花花看到生日蛋糕流口水",
+        "onboard_time": 1751595980,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301400,
+        "num": 395410,
+        "word": "白鹿成黑鹿",
+        "onboard_time": 1751600361,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2102547,
+        "num": 395129,
+        "word": "刘芮麟官宣结婚生子",
+        "onboard_time": 1751597181,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248398,
+        "num": 383530,
+        "word": "中国公民衷某已获救",
+        "onboard_time": 1751603065,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 678809,
+        "num": 368705,
+        "word": "晚晚直播 让妆",
+        "onboard_time": 1751600721,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 482293,
+        "num": 362493,
+        "word": "人真的不能一直住太差的房子",
+        "onboard_time": 1751600423,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 356267,
+        "num": 356267,
+        "word": "女子称婚后丈夫一天发80元工资给自己",
+        "onboard_time": 1751602763,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 880857,
+        "num": 348346,
+        "word": "刘芮麟老婆",
+        "onboard_time": 1751602466,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261962,
+        "num": 334972,
+        "word": "舒肤佳 李昀锐",
+        "onboard_time": 1751600003,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101819,
+        "num": 329606,
+        "word": "央视点赞小鹏G7的中国芯片",
+        "onboard_time": 1751602584,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 35666,
+        "num": 315264,
+        "word": "专家已对血铅异常幼儿开展医治",
+        "onboard_time": 1751603483,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128934,
+        "num": 303694,
+        "word": "哈尔滨高温居民排队装空调",
+        "onboard_time": 1751602943,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302934,
+        "num": 302934,
+        "word": "萌兰10岁啦花花和叶5岁啦",
+        "onboard_time": 1751584458,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 932653,
+        "num": 296765,
+        "word": "罗马仕 倒闭",
+        "onboard_time": 1751554224,
+        "rank": 21,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 342885,
+        "num": 294173,
+        "word": "田栩宁旁边的人是谁",
+        "onboard_time": 1751602525,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287958,
+        "num": 287958,
+        "word": "请假羞耻 不配得感",
+        "onboard_time": 1751602111,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235632,
+        "num": 235632,
+        "word": "等比例长大的杨紫",
+        "onboard_time": 1751603363,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205818,
+        "num": 235580,
+        "word": "洪亮这次屁股不干净了",
+        "onboard_time": 1751600962,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195863,
+        "num": 235569,
+        "word": "米未太子首部短剧开播",
+        "onboard_time": 1751603123,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175247,
+        "num": 235520,
+        "word": "白宇周柯宇battle受伤的是刘宇宁",
+        "onboard_time": 1751603425,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40659,
+        "num": 235470,
+        "word": "宇树科技或于科创板IPO",
+        "onboard_time": 1751602704,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 23149,
+        "num": 235413,
+        "word": "苏超热梗挑战赛",
+        "onboard_time": 1751602883,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249602,
+        "num": 235324,
+        "word": "藏族人挖虫草1个月挣30万",
+        "onboard_time": 1751602347,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194116,
+        "num": 235300,
+        "word": "中餐厅名场面",
+        "onboard_time": 1751603065,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235266,
+        "num": 235266,
+        "word": "小米YU7磁吸纸巾盒卖169元",
+        "onboard_time": 1751590462,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 203547,
+        "num": 233034,
+        "word": "你在cos鹿 鹿在cos王俊凯",
+        "onboard_time": 1751601384,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167798,
+        "num": 231385,
+        "word": "杨紫30秒无台词眼神戏",
+        "onboard_time": 1751601205,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231272,
+        "num": 231272,
+        "word": "妻子精心打扮引丈夫怀疑被捉奸在床",
+        "onboard_time": 1751585419,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178934,
+        "num": 220048,
+        "word": "商务部回应美取消对华经贸限制措施",
+        "onboard_time": 1751601752,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 219720,
+        "num": 219720,
+        "word": "朋友圈的窒息感",
+        "onboard_time": 1751602584,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211998,
+        "num": 211998,
+        "word": "断崖式分手49天后的戒断反应",
+        "onboard_time": 1751600302,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 60614,
+        "num": 189335,
+        "word": "星铁比世界命运更沉重之物",
+        "onboard_time": 1751603244,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 47134,
+        "num": 187291,
+        "word": "老人脑梗住院期出走身亡医院赔5万",
+        "onboard_time": 1751601690,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187117,
+        "num": 187117,
+        "word": "邓紫棋香港抢票",
+        "onboard_time": 1751603184,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 174589,
+        "num": 174589,
+        "word": "00后女生假装富豪看5千万的别墅",
+        "onboard_time": 1751601327,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174220,
+        "num": 174220,
+        "word": "萌兰10岁生日仪式感拉满了",
+        "onboard_time": 1751593880,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167513,
+        "num": 167513,
+        "word": "T1战胜CFO",
+        "onboard_time": 1751599764,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 165598,
+        "num": 165598,
+        "word": "演员谭凯开饺子店被吐槽出餐慢",
+        "onboard_time": 1751591121,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160523,
+        "num": 160523,
+        "word": "突然理解了好朋友跟朋友的区别",
+        "onboard_time": 1751601506,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 45886,
+        "num": 159611,
+        "word": "热射病的3个突出症状",
+        "onboard_time": 1751597601,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 159278,
+        "num": 159278,
+        "word": "偷偷藏不住",
+        "onboard_time": 1751592501,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154112,
+        "num": 154112,
+        "word": "老人刚到杭州就热晕被送回东北",
+        "onboard_time": 1751597843,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋力书写挺膺担当的青春篇章#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1751560391149,
-  "endTime": 1751601243534,
+  "endTime": 1751603787421,
   "band_list": [
     {
       "raw_hot": 3680796,
@@ -43,12 +43,28 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 1044481,
-      "num": 1044481,
+      "raw_hot": 1074628,
+      "num": 1171940,
       "word": "iPhone 制冷模式",
       "onboard_time": 1751598383,
       "rank": 3,
       "category": "数码"
+    },
+    {
+      "raw_hot": 880857,
+      "num": 348346,
+      "word": "刘芮麟老婆",
+      "onboard_time": 1751602466,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 853423,
+      "num": 504807,
+      "word": "多名幼儿呕吐查出血铅异常",
+      "onboard_time": 1751598084,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 831058,
@@ -67,8 +83,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 819206,
+      "num": 819206,
+      "word": "被骗至缅甸男模特已获救",
+      "onboard_time": 1751602051,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 788243,
-      "num": 352523,
+      "num": 368705,
       "word": "晚晚直播 让妆",
       "onboard_time": 1751600721,
       "rank": 10,
@@ -123,6 +147,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 599747,
+      "num": 599747,
+      "word": "医生提醒高温天别舍不得开空调",
+      "onboard_time": 1751597661,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 539850,
       "num": 229092,
       "word": "25岁杀夫新娘和舅舅有15年非法关系",
@@ -139,20 +171,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 489397,
-      "num": 489397,
-      "word": "多名幼儿呕吐查出血铅异常",
-      "onboard_time": 1751598084,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 479217,
-      "num": 479217,
-      "word": "医生提醒高温天别舍不得开空调",
-      "onboard_time": 1751597661,
-      "rank": 6,
-      "category": "民生新闻"
+      "raw_hot": 482293,
+      "num": 362493,
+      "word": "人真的不能一直住太差的房子",
+      "onboard_time": 1751600423,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 476063,
@@ -219,6 +243,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 356267,
+      "num": 356267,
+      "word": "女子称婚后丈夫一天发80元工资给自己",
+      "onboard_time": 1751602763,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 342885,
+      "num": 294173,
+      "word": "田栩宁旁边的人是谁",
+      "onboard_time": 1751602525,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 341374,
       "num": 204813,
       "word": "雨果因签证问题无缘美国大满贯",
@@ -267,14 +307,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 317262,
-      "num": 195287,
-      "word": "人真的不能一直住太差的房子",
-      "onboard_time": 1751600423,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 312626,
       "num": 312626,
       "word": "甘肃幼儿园儿童血铅异常家长发声",
@@ -291,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 301400,
+      "num": 395410,
+      "word": "白鹿成黑鹿",
+      "onboard_time": 1751600361,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 293010,
       "num": 293010,
       "word": "沈月七月的一天开机路透",
@@ -299,12 +339,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 280914,
-      "num": 280914,
-      "word": "白鹿成黑鹿",
-      "onboard_time": 1751600361,
-      "rank": 16,
-      "category": "综艺"
+      "raw_hot": 287958,
+      "num": 287958,
+      "word": "请假羞耻 不配得感",
+      "onboard_time": 1751602111,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 280753,
@@ -347,6 +387,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 249602,
+      "num": 235324,
+      "word": "藏族人挖虫草1个月挣30万",
+      "onboard_time": 1751602347,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 248398,
+      "num": 383530,
+      "word": "中国公民衷某已获救",
+      "onboard_time": 1751603065,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 245308,
       "num": 275944,
       "word": "杨幂竹节褶衣",
@@ -369,6 +425,22 @@
       "onboard_time": 1751555484,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 235632,
+      "num": 235632,
+      "word": "等比例长大的杨紫",
+      "onboard_time": 1751603363,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 219720,
+      "num": 219720,
+      "word": "朋友圈的窒息感",
+      "onboard_time": 1751602584,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 218223,
@@ -411,6 +483,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 205818,
+      "num": 235580,
+      "word": "洪亮这次屁股不干净了",
+      "onboard_time": 1751600962,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 203547,
+      "num": 233034,
+      "word": "你在cos鹿 鹿在cos王俊凯",
+      "onboard_time": 1751601384,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198596,
       "num": 186239,
       "word": "iPhone17ProMax电池容量",
@@ -443,12 +531,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 195863,
+      "num": 235569,
+      "word": "米未太子首部短剧开播",
+      "onboard_time": 1751603123,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195481,
       "num": 195481,
       "word": "罗马仕辟谣倒闭",
       "onboard_time": 1751558842,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194116,
+      "num": 235300,
+      "word": "中餐厅名场面",
+      "onboard_time": 1751603065,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 189441,
@@ -459,12 +563,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 187117,
+      "num": 187117,
+      "word": "邓紫棋香港抢票",
+      "onboard_time": 1751603184,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 185486,
       "num": 191919,
       "word": "世卫组织呼吁大幅提高含糖饮料价格",
       "onboard_time": 1751595621,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 178934,
+      "num": 220048,
+      "word": "商务部回应美取消对华经贸限制措施",
+      "onboard_time": 1751601752,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 177087,
@@ -491,6 +611,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 175247,
+      "num": 235520,
+      "word": "白宇周柯宇battle受伤的是刘宇宁",
+      "onboard_time": 1751603425,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 174589,
+      "num": 174589,
+      "word": "00后女生假装富豪看5千万的别墅",
+      "onboard_time": 1751601327,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 174067,
       "num": 275457,
       "word": "特朗普觉得自己又行了",
@@ -515,19 +651,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 168607,
-      "num": 168607,
-      "word": "洪亮这次屁股不干净了",
-      "onboard_time": 1751600962,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 168119,
       "num": 189384,
       "word": "吴浔知夏签约壹心后首部剧开拍",
       "onboard_time": 1751600302,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 167798,
+      "num": 231385,
+      "word": "杨紫30秒无台词眼神戏",
+      "onboard_time": 1751601205,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -577,6 +713,14 @@
       "onboard_time": 1751600124,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 160523,
+      "num": 160523,
+      "word": "突然理解了好朋友跟朋友的区别",
+      "onboard_time": 1751601506,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 159776,
@@ -665,14 +809,6 @@
       "onboard_time": 1751594540,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 148013,
-      "num": 148013,
-      "word": "杨紫30秒无台词眼神戏",
-      "onboard_time": 1751601205,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 146949,
@@ -785,6 +921,14 @@
       "onboard_time": 1751585659,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128934,
+      "num": 303694,
+      "word": "哈尔滨高温居民排队装空调",
+      "onboard_time": 1751602943,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127914,
@@ -945,6 +1089,14 @@
       "onboard_time": 1751584519,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 101819,
+      "num": 329606,
+      "word": "央视点赞小鹏G7的中国芯片",
+      "onboard_time": 1751602584,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 93681,
@@ -1179,6 +1331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 60614,
+      "num": 189335,
+      "word": "星铁比世界命运更沉重之物",
+      "onboard_time": 1751603244,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 60264,
       "num": 60264,
       "word": "歌手第八期歌单",
@@ -1243,6 +1403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 47134,
+      "num": 187291,
+      "word": "老人脑梗住院期出走身亡医院赔5万",
+      "onboard_time": 1751601690,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43187,
       "num": 53354,
       "word": "若塔因车祸去世",
@@ -1267,6 +1435,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 40659,
+      "num": 235470,
+      "word": "宇树科技或于科创板IPO",
+      "onboard_time": 1751602704,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 40007,
       "num": 64248,
       "word": "赵一博直播",
@@ -1289,6 +1465,14 @@
       "onboard_time": 1751600302,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35666,
+      "num": 315264,
+      "word": "专家已对血铅异常幼儿开展医治",
+      "onboard_time": 1751603483,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35205,
@@ -1379,6 +1563,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 23149,
+      "num": 235413,
+      "word": "苏超热梗挑战赛",
+      "onboard_time": 1751602883,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 21160,
       "num": 21160,
       "word": "李宇春单曲冬泳上线",
@@ -1448,6 +1640,14 @@
       "word": "罗马仕还能退钱吗",
       "onboard_time": 1751595921,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 3614,
+      "num": 627989,
+      "word": "万千气象看山西",
+      "onboard_time": 1751294963,
+      "rank": 2,
       "category": "民生新闻"
     }
   ],

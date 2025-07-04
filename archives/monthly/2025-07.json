@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751601243534,
+  "endTime": 1751603787421,
   "band_list": [
     {
       "raw_hot": 4866007,
@@ -355,6 +355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1074628,
+      "num": 1171940,
+      "word": "iPhone 制冷模式",
+      "onboard_time": 1751598383,
+      "rank": 3,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1069823,
       "num": 1171171,
       "word": "幼师又多了一个就业方向",
@@ -377,14 +385,6 @@
       "onboard_time": 1751534783,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1044481,
-      "num": 1044481,
-      "word": "iPhone 制冷模式",
-      "onboard_time": 1751598383,
-      "rank": 3,
-      "category": "数码"
     },
     {
       "raw_hot": 1042060,
@@ -563,6 +563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 880857,
+      "num": 348346,
+      "word": "刘芮麟老婆",
+      "onboard_time": 1751602466,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 873271,
       "num": 873271,
       "word": "吃完山竹记得要漱口",
@@ -593,6 +601,14 @@
       "onboard_time": 1751384542,
       "rank": 46,
       "category": "民生新闻,汽车"
+    },
+    {
+      "raw_hot": 853423,
+      "num": 504807,
+      "word": "多名幼儿呕吐查出血铅异常",
+      "onboard_time": 1751598084,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 852456,
@@ -691,6 +707,14 @@
       "category": "科学科普,美食"
     },
     {
+      "raw_hot": 819206,
+      "num": 819206,
+      "word": "被骗至缅甸男模特已获救",
+      "onboard_time": 1751602051,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 808795,
       "num": 396177,
       "word": "小沈阳女儿专辑售卖遇冷",
@@ -724,7 +748,7 @@
     },
     {
       "raw_hot": 788243,
-      "num": 352523,
+      "num": 368705,
       "word": "晚晚直播 让妆",
       "onboard_time": 1751600721,
       "rank": 10,
@@ -1283,6 +1307,14 @@
       "category": "作品衍生,作品衍生"
     },
     {
+      "raw_hot": 599747,
+      "num": 599747,
+      "word": "医生提醒高温天别舍不得开空调",
+      "onboard_time": 1751597661,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 597889,
       "num": 254268,
       "word": "原来幂姐也会吃十几块的普通餐",
@@ -1635,14 +1667,6 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 489397,
-      "num": 489397,
-      "word": "多名幼儿呕吐查出血铅异常",
-      "onboard_time": 1751598084,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 487981,
       "num": 487981,
       "word": "亮剑等抗战题材经典作品将展播",
@@ -1667,18 +1691,18 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 482293,
+      "num": 362493,
+      "word": "人真的不能一直住太差的房子",
+      "onboard_time": 1751600423,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 481210,
       "num": 481210,
       "word": "动物园被举报用个人码收门票上千万",
       "onboard_time": 1751331442,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 479217,
-      "num": 479217,
-      "word": "医生提醒高温天别舍不得开空调",
-      "onboard_time": 1751597661,
       "rank": 6,
       "category": "民生新闻"
     },
@@ -2315,6 +2339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 356267,
+      "num": 356267,
+      "word": "女子称婚后丈夫一天发80元工资给自己",
+      "onboard_time": 1751602763,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 356131,
       "num": 356131,
       "word": "歌手第八期歌单",
@@ -2401,6 +2433,14 @@
       "onboard_time": 1751355501,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 342885,
+      "num": 294173,
+      "word": "田栩宁旁边的人是谁",
+      "onboard_time": 1751602525,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 341374,
@@ -2587,14 +2627,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 317262,
-      "num": 195287,
-      "word": "人真的不能一直住太差的房子",
-      "onboard_time": 1751600423,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 316213,
       "num": 316213,
       "word": "徐艺洋回应黄子韬未读乱回",
@@ -2771,6 +2803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 301400,
+      "num": 395410,
+      "word": "白鹿成黑鹿",
+      "onboard_time": 1751600361,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 299295,
       "num": 266198,
       "word": "夏天女装 不日常",
@@ -2939,6 +2979,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 287958,
+      "num": 287958,
+      "word": "请假羞耻 不配得感",
+      "onboard_time": 1751602111,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 287692,
       "num": 287692,
       "word": "韩安冉禁止路人拍优米",
@@ -3017,14 +3065,6 @@
       "onboard_time": 1751452461,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 280914,
-      "num": 280914,
-      "word": "白鹿成黑鹿",
-      "onboard_time": 1751600361,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 280409,
@@ -3235,11 +3275,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 249602,
+      "num": 235324,
+      "word": "藏族人挖虫草1个月挣30万",
+      "onboard_time": 1751602347,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 248888,
       "num": 248888,
       "word": "苦瓜饮品外卖量飙升11倍",
       "onboard_time": 1751447242,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 248398,
+      "num": 383530,
+      "word": "中国公民衷某已获救",
+      "onboard_time": 1751603065,
+      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -3400,6 +3456,14 @@
       "word": "冉莹颖回应儿子身高",
       "onboard_time": 1751450002,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 235632,
+      "num": 235632,
+      "word": "等比例长大的杨紫",
+      "onboard_time": 1751603363,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -3763,6 +3827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 219720,
+      "num": 219720,
+      "word": "朋友圈的窒息感",
+      "onboard_time": 1751602584,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 219656,
       "num": 198009,
       "word": "南京大屠杀幸存者照片墙的灯又熄2盏",
@@ -4099,6 +4171,14 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 205818,
+      "num": 235580,
+      "word": "洪亮这次屁股不干净了",
+      "onboard_time": 1751600962,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205742,
       "num": 205742,
       "word": "锦绣芳华",
@@ -4153,6 +4233,14 @@
       "onboard_time": 1751455222,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 203547,
+      "num": 233034,
+      "word": "你在cos鹿 鹿在cos王俊凯",
+      "onboard_time": 1751601384,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 202874,
@@ -4411,6 +4499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195863,
+      "num": 235569,
+      "word": "米未太子首部短剧开播",
+      "onboard_time": 1751603123,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195567,
       "num": 195567,
       "word": "罗马仕",
@@ -4465,6 +4561,14 @@
       "onboard_time": 1751534962,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194116,
+      "num": 235300,
+      "word": "中餐厅名场面",
+      "onboard_time": 1751603065,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 193613,
@@ -4683,6 +4787,14 @@
       "category": "电竞,体育"
     },
     {
+      "raw_hot": 187117,
+      "num": 187117,
+      "word": "邓紫棋香港抢票",
+      "onboard_time": 1751603184,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 186863,
       "num": 366847,
       "word": "姐姐哽咽还原模特被骗缅甸过程",
@@ -4899,6 +5011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178934,
+      "num": 220048,
+      "word": "商务部回应美取消对华经贸限制措施",
+      "onboard_time": 1751601752,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 177454,
       "num": 177454,
       "word": "迪丽热巴回头一看全是自己的兵",
@@ -5027,6 +5147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175247,
+      "num": 235520,
+      "word": "白宇周柯宇battle受伤的是刘宇宁",
+      "onboard_time": 1751603425,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175240,
       "num": 232694,
       "word": "锦绣芳华云合",
@@ -5041,6 +5169,14 @@
       "onboard_time": 1751460923,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 174589,
+      "num": 174589,
+      "word": "00后女生假装富豪看5千万的别墅",
+      "onboard_time": 1751601327,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 174569,
@@ -5283,14 +5419,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 168607,
-      "num": 168607,
-      "word": "洪亮这次屁股不干净了",
-      "onboard_time": 1751600962,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 168606,
       "num": 210197,
       "word": "张佳宁三个月播三部剧的含金量",
@@ -5320,6 +5448,14 @@
       "word": "吴浔知夏签约壹心后首部剧开拍",
       "onboard_time": 1751600302,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 167798,
+      "num": 231385,
+      "word": "杨紫30秒无台词眼神戏",
+      "onboard_time": 1751601205,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -5665,6 +5801,14 @@
       "onboard_time": 1751430744,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160523,
+      "num": 160523,
+      "word": "突然理解了好朋友跟朋友的区别",
+      "onboard_time": 1751601506,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 160507,
@@ -6089,14 +6233,6 @@
       "onboard_time": 1751594540,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 148013,
-      "num": 148013,
-      "word": "杨紫30秒无台词眼神戏",
-      "onboard_time": 1751601205,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 147931,
@@ -7241,6 +7377,14 @@
       "onboard_time": 1751342541,
       "rank": 49,
       "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 128934,
+      "num": 303694,
+      "word": "哈尔滨高温居民排队装空调",
+      "onboard_time": 1751602943,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128579,
@@ -8923,6 +9067,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 101819,
+      "num": 329606,
+      "word": "央视点赞小鹏G7的中国芯片",
+      "onboard_time": 1751602584,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 101619,
       "num": 101619,
       "word": "宁艺卓闪光灯怼脸拍视频",
@@ -10299,6 +10451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60614,
+      "num": 189335,
+      "word": "星铁比世界命运更沉重之物",
+      "onboard_time": 1751603244,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 60241,
       "num": 60241,
       "word": "MKOI对战BLG",
@@ -10627,6 +10787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 47134,
+      "num": 187291,
+      "word": "老人脑梗住院期出走身亡医院赔5万",
+      "onboard_time": 1751601690,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46725,
       "num": 134766,
       "word": "梁伟铿机场出发",
@@ -10801,6 +10969,14 @@
       "onboard_time": 1751584940,
       "rank": 38,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 40659,
+      "num": 235470,
+      "word": "宇树科技或于科创板IPO",
+      "onboard_time": 1751602704,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 40537,
@@ -11008,6 +11184,14 @@
       "word": "洪水退去村超球场重新亮灯",
       "onboard_time": 1751412258,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35666,
+      "num": 315264,
+      "word": "专家已对血铅异常幼儿开展医治",
+      "onboard_time": 1751603483,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -11513,6 +11697,14 @@
       "onboard_time": 1751308934,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 23149,
+      "num": 235413,
+      "word": "苏超热梗挑战赛",
+      "onboard_time": 1751602883,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 22899,
