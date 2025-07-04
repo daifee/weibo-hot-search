@@ -1,6 +1,6 @@
 {
   "startTime": 1751560391149,
-  "endTime": 1751614084804,
+  "endTime": 1751614943521,
   "band_list": [
     {
       "raw_hot": 3680796,
@@ -187,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 715583,
+      "num": 408871,
+      "word": "韩安冉展示三胎孕肚",
+      "onboard_time": 1751613504,
+      "rank": 15,
+      "category": "网红"
+    },
+    {
       "raw_hot": 714869,
       "num": 616052,
       "word": "李飞你人真没事吗",
@@ -331,6 +339,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 430062,
+      "num": 430062,
+      "word": "平底鞋 矮子哭",
+      "onboard_time": 1751608882,
+      "rank": 27,
+      "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 424172,
+      "num": 455028,
+      "word": "美方将取消对华采取的限制性措施",
+      "onboard_time": 1751610922,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 422702,
       "num": 478025,
       "word": "毕业6年存130万小伙每月吃饭500元",
@@ -339,12 +363,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 402711,
-      "num": 455028,
-      "word": "美方将取消对华采取的限制性措施",
-      "onboard_time": 1751610922,
-      "rank": 46,
-      "category": "国际时政"
+      "raw_hot": 419672,
+      "num": 181455,
+      "word": "日本漫画家预言已有10个应验",
+      "onboard_time": 1751613443,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 384857,
@@ -409,14 +433,6 @@
       "onboard_time": 1751610023,
       "rank": 23,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 347351,
-      "num": 347351,
-      "word": "韩安冉展示三胎孕肚",
-      "onboard_time": 1751613504,
-      "rank": 15,
-      "category": "网红"
     },
     {
       "raw_hot": 341374,
@@ -531,12 +547,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 289630,
-      "num": 289630,
-      "word": "平底鞋 矮子哭",
-      "onboard_time": 1751608882,
-      "rank": 27,
-      "category": "幽默,休闲"
+      "raw_hot": 285103,
+      "num": 285103,
+      "word": "张弛结婚",
+      "onboard_time": 1751613924,
+      "rank": 43,
+      "category": "网红"
     },
     {
       "raw_hot": 281077,
@@ -569,14 +585,6 @@
       "onboard_time": 1751554584,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 275551,
-      "num": 181455,
-      "word": "日本漫画家预言已有10个应验",
-      "onboard_time": 1751613443,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 271615,
@@ -656,6 +664,14 @@
       "word": "杨幂竹节褶衣",
       "onboard_time": 1751597301,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 243050,
+      "num": 243050,
+      "word": "王嘉尔说借钱就意味着关系结束",
+      "onboard_time": 1751613202,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -787,12 +803,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 203005,
-      "num": 203005,
-      "word": "王嘉尔说借钱就意味着关系结束",
-      "onboard_time": 1751613202,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 202463,
+      "num": 280147,
+      "word": "存130万小伙说因存钱付出了健康",
+      "onboard_time": 1751611882,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198596,
@@ -899,6 +915,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 187557,
+      "num": 187557,
+      "word": "张钧甯超短发",
+      "onboard_time": 1751613924,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187117,
       "num": 187117,
       "word": "邓紫棋香港抢票",
@@ -945,6 +969,22 @@
       "onboard_time": 1751601752,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 178226,
+      "num": 178226,
+      "word": "微信删过的人不要加第二次",
+      "onboard_time": 1751614223,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 178092,
+      "num": 178092,
+      "word": "两个月婴儿窒息死亡案生父否认殴打",
+      "onboard_time": 1751612782,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177087,
@@ -1001,14 +1041,6 @@
       "onboard_time": 1751598503,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 171736,
-      "num": 280147,
-      "word": "存130万小伙说因存钱付出了健康",
-      "onboard_time": 1751611882,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 170402,
@@ -1091,12 +1123,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 165172,
-      "num": 165172,
-      "word": "两个月婴儿窒息死亡案生父否认殴打",
-      "onboard_time": 1751612782,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 164843,
+      "num": 393620,
+      "word": "日本末世预言剩1天有人撤离",
+      "onboard_time": 1751614103,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 163793,
@@ -1219,6 +1251,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155195,
+      "num": 154270,
+      "word": "梓渝含着泪把话讲完",
+      "onboard_time": 1751614583,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 154123,
+      "num": 154123,
+      "word": "王楚钦热身笑开怀",
+      "onboard_time": 1751614463,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152398,
       "num": 152398,
       "word": "第一张照片不敢太亲密的",
@@ -1259,12 +1307,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 149241,
-      "num": 149241,
-      "word": "张弛结婚",
-      "onboard_time": 1751613924,
-      "rank": 43,
-      "category": "网红"
+      "raw_hot": 150055,
+      "num": 150055,
+      "word": "一诺科目一通过",
+      "onboard_time": 1751614042,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 148773,
@@ -1275,12 +1323,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148724,
-      "num": 148724,
-      "word": "张钧甯超短发",
-      "onboard_time": 1751613924,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 148673,
+      "num": 348754,
+      "word": "乘客说若无砸窗哥会有更多人热晕",
+      "onboard_time": 1751612542,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148565,
@@ -1288,6 +1336,14 @@
       "word": "田栩宁冷白皮名不虚传",
       "onboard_time": 1751606663,
       "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 148503,
+      "num": 143779,
+      "word": "正当防卫定档",
+      "onboard_time": 1751614763,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -1329,6 +1385,14 @@
       "onboard_time": 1751551163,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 145954,
+      "num": 145954,
+      "word": "比高考还难的事情出现了",
+      "onboard_time": 1751613084,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 144324,
@@ -1403,6 +1467,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 140480,
+      "num": 140480,
+      "word": "冷水澡 减肥",
+      "onboard_time": 1751614763,
+      "rank": 44,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 139159,
       "num": 139159,
       "word": "开始推理吧收官",
@@ -1451,14 +1523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 135212,
-      "num": 135212,
-      "word": "一诺科目一通过",
-      "onboard_time": 1751614042,
-      "rank": 47,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 134722,
       "num": 134722,
       "word": "金靖说有个永远没有安静的6人工作群",
@@ -1481,6 +1545,14 @@
       "onboard_time": 1751593880,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 133168,
+      "num": 133168,
+      "word": "冻荔枝",
+      "onboard_time": 1751612844,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 132968,
@@ -1667,14 +1739,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 110473,
-      "num": 348754,
-      "word": "乘客说若无砸窗哥会有更多人热晕",
-      "onboard_time": 1751612542,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 108439,
       "num": 111165,
       "word": "习惯性反问到底有多讨厌",
@@ -1721,6 +1785,14 @@
       "onboard_time": 1751602584,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 99445,
+      "num": 151269,
+      "word": "王腾管泽元火焰山开团",
+      "onboard_time": 1751614223,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 97972,
@@ -2187,6 +2259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 38048,
+      "num": 206996,
+      "word": "A股三大指数翻红半日放量708亿",
+      "onboard_time": 1751614703,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 37786,
       "num": 65126,
       "word": "瓦兰丘纳斯交易掘金",
@@ -2315,6 +2395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22397,
+      "num": 418627,
+      "word": "罗马仕经销商被迫卖充电线",
+      "onboard_time": 1751614343,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21160,
       "num": 21160,
       "word": "李宇春单曲冬泳上线",
@@ -2328,6 +2416,14 @@
       "word": "村民在家砍伤闯入者获刑申诉12年",
       "onboard_time": 1751611342,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19727,
+      "num": 396806,
+      "word": "铅中毒幼儿家长质疑幼儿园检测结果",
+      "onboard_time": 1751614343,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
