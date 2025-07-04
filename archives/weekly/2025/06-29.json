@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751604756363,
+  "endTime": 1751606956873,
   "band_list": [
     {
       "raw_hot": 4866007,
@@ -425,6 +425,14 @@
       "onboard_time": 1751355742,
       "rank": 40,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1282540,
+      "num": 1282540,
+      "word": "DeepSeek给王一博道歉是假的",
+      "onboard_time": 1751604325,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1266922,
@@ -1163,6 +1171,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 801540,
+      "num": 710337,
+      "word": "芬兰病假",
+      "onboard_time": 1751603783,
+      "rank": 26,
+      "category": "幽默,休闲"
+    },
+    {
       "raw_hot": 800239,
       "num": 800239,
       "word": "闲置太久的鞋子就不要再穿了",
@@ -1212,7 +1228,7 @@
     },
     {
       "raw_hot": 788243,
-      "num": 368705,
+      "num": 411412,
       "word": "晚晚直播 让妆",
       "onboard_time": 1751600721,
       "rank": 10,
@@ -1475,20 +1491,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 711850,
-      "num": 711850,
-      "word": "DeepSeek给王一博道歉是假的",
-      "onboard_time": 1751604325,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 711819,
       "num": 528406,
       "word": "柳俊烈丑谈我真的笑不行了",
       "onboard_time": 1751200641,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 708772,
+      "num": 708772,
+      "word": "在印度有6个仆人但电视50寸",
+      "onboard_time": 1751605402,
+      "rank": 4,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 708659,
@@ -1668,7 +1684,7 @@
     },
     {
       "raw_hot": 676064,
-      "num": 356267,
+      "num": 415465,
       "word": "女子称婚后丈夫一天发80元工资给自己",
       "onboard_time": 1751602763,
       "rank": 14,
@@ -2377,6 +2393,14 @@
       "onboard_time": 1751469023,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 529356,
+      "num": 529356,
+      "word": "入青云 空降",
+      "onboard_time": 1751605163,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 529187,
@@ -3915,6 +3939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 335773,
+      "num": 357251,
+      "word": "你在cos鹿 鹿在cos王俊凯",
+      "onboard_time": 1751601384,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 335725,
       "num": 325337,
       "word": "陈垣宇0比4张本智和",
@@ -4075,6 +4107,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 325862,
+      "num": 353181,
+      "word": "张碧晨周震南没有对视只想唱死对方",
+      "onboard_time": 1751605642,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 325514,
       "num": 325514,
       "word": "李惠利泡泡道歉",
@@ -4121,14 +4161,6 @@
       "onboard_time": 1751385801,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 322290,
-      "num": 322290,
-      "word": "你在cos鹿 鹿在cos王俊凯",
-      "onboard_time": 1751601384,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 321532,
@@ -4811,14 +4843,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 284925,
-      "num": 284925,
-      "word": "芬兰病假",
-      "onboard_time": 1751603783,
-      "rank": 26,
-      "category": "幽默,休闲"
-    },
-    {
       "raw_hot": 284692,
       "num": 284692,
       "word": "杨紫已经三次陪跑白玉兰",
@@ -4873,6 +4897,14 @@
       "onboard_time": 1751452461,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 281077,
+      "num": 281077,
+      "word": "高叶大嫂气场完全看不见了",
+      "onboard_time": 1751605402,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 280409,
@@ -5073,6 +5105,14 @@
       "onboard_time": 1751125823,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 267171,
+      "num": 267171,
+      "word": "韩网对演唱会上中国追星女的评价",
+      "onboard_time": 1751605342,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 266200,
@@ -5747,6 +5787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 229806,
+      "num": 229806,
+      "word": "迪丽热巴这是推理吧不是推你巴",
+      "onboard_time": 1751605942,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229313,
       "num": 281482,
       "word": "杨幂很轻易想到迪丽热巴",
@@ -5913,6 +5961,14 @@
       "onboard_time": 1751333901,
       "rank": 24,
       "category": "汽车,财经"
+    },
+    {
+      "raw_hot": 225312,
+      "num": 225312,
+      "word": "原来周雨彤和鹿晗演过戏",
+      "onboard_time": 1751606302,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 225119,
@@ -8971,6 +9027,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 164713,
+      "num": 177257,
+      "word": "穷人满足欲望的方式主要靠禁欲",
+      "onboard_time": 1751606783,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164691,
       "num": 164691,
       "word": "特朗普说这是个肮脏的世界",
@@ -9979,6 +10043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151372,
+      "num": 151372,
+      "word": "最终幻想14",
+      "onboard_time": 1751606062,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 151297,
       "num": 151297,
       "word": "男练",
@@ -10195,6 +10267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148773,
+      "num": 148773,
+      "word": "国乒WTT美国大满贯赛前训练",
+      "onboard_time": 1751606603,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148582,
       "num": 309750,
       "word": "一幼儿园违规用添加剂幼儿血铅异常",
@@ -10361,6 +10441,14 @@
       "onboard_time": 1751442502,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146504,
+      "num": 146504,
+      "word": "16岁樊振东腿部力量训练",
+      "onboard_time": 1751605762,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 146319,
@@ -10569,6 +10657,14 @@
       "onboard_time": 1751422519,
       "rank": 41,
       "category": "美食,健康医疗"
+    },
+    {
+      "raw_hot": 143605,
+      "num": 143605,
+      "word": "田栩宁冷白皮名不虚传",
+      "onboard_time": 1751606663,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 143399,
@@ -10793,6 +10889,14 @@
       "onboard_time": 1751265442,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141207,
+      "num": 141207,
+      "word": "李飞你人真没事吗",
+      "onboard_time": 1751606903,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 141187,
@@ -12971,6 +13075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119442,
+      "num": 419936,
+      "word": "山东舰服役以来首次开放参观",
+      "onboard_time": 1751605642,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 119415,
       "num": 119415,
       "word": "苏群感叹易建联早生了十几年",
@@ -14923,6 +15035,14 @@
       "category": "旅游,休闲"
     },
     {
+      "raw_hot": 97972,
+      "num": 361506,
+      "word": "苏超南京队给对手上保险了",
+      "onboard_time": 1751605342,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97644,
       "num": 329013,
       "word": "特朗普支持率跌至新低",
@@ -16347,6 +16467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 66116,
+      "num": 362781,
+      "word": "北京未来40天有33天降水",
+      "onboard_time": 1751605283,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66114,
       "num": 214134,
       "word": "警方称新房挖出男性尸骨年代久远",
@@ -17027,20 +17155,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49281,
+      "num": 218291,
+      "word": "买了新能源车才知道什么叫服务",
+      "onboard_time": 1751604084,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 49184,
       "num": 252285,
       "word": "苏超十佳球",
       "onboard_time": 1751358502,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 48907,
-      "num": 218291,
-      "word": "买了新能源车才知道什么叫服务",
-      "onboard_time": 1751604084,
-      "rank": 39,
-      "category": "汽车"
     },
     {
       "raw_hot": 48792,
@@ -18056,6 +18184,14 @@
       "word": "大使馆将沟通被骗缅甸模特家属",
       "onboard_time": 1751520742,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30571,
+      "num": 350909,
+      "word": "安普瑞斯电芯几乎覆盖所有主流品牌",
+      "onboard_time": 1751606483,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -19129,6 +19265,14 @@
       "onboard_time": 1751485154,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 14213,
+      "num": 149564,
+      "word": "星露谷的用户是最朴实善良的游戏用户",
+      "onboard_time": 1751605702,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 14204,

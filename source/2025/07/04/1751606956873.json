@@ -1,0 +1,410 @@
+{
+  "runTime": 1751606956873,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1282540,
+        "num": 1282540,
+        "word": "DeepSeek给王一博道歉是假的",
+        "onboard_time": 1751604325,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 795928,
+        "num": 795928,
+        "word": "iPhone 制冷模式",
+        "onboard_time": 1751598383,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 8520,
+        "num": 711762,
+        "word": "万千气象看山西",
+        "onboard_time": 1751294963,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 801540,
+        "num": 710337,
+        "word": "芬兰病假",
+        "onboard_time": 1751603783,
+        "rank": 3,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 708772,
+        "num": 708772,
+        "word": "在印度有6个仆人但电视50寸",
+        "onboard_time": 1751605402,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 529356,
+        "num": 529356,
+        "word": "入青云 空降",
+        "onboard_time": 1751605163,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 529027,
+        "num": 529027,
+        "word": "被骗至缅甸男模特已获救",
+        "onboard_time": 1751602051,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 468789,
+        "num": 468789,
+        "word": "跑男这期玩得很脏",
+        "onboard_time": 1751597903,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 429187,
+        "num": 429187,
+        "word": "刘芮麟老婆",
+        "onboard_time": 1751602466,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119442,
+        "num": 419936,
+        "word": "山东舰服役以来首次开放参观",
+        "onboard_time": 1751605642,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2171234,
+        "num": 416678,
+        "word": "日本末世预言剩1天",
+        "onboard_time": 1751595442,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 571397,
+        "num": 415465,
+        "word": "女子称婚后丈夫一天发80元工资给自己",
+        "onboard_time": 1751602763,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 411412,
+        "num": 411412,
+        "word": "晚晚直播 让妆",
+        "onboard_time": 1751600721,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 66116,
+        "num": 362781,
+        "word": "北京未来40天有33天降水",
+        "onboard_time": 1751605283,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97972,
+        "num": 361506,
+        "word": "苏超南京队给对手上保险了",
+        "onboard_time": 1751605342,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 361168,
+        "num": 361168,
+        "word": "花花看到生日蛋糕流口水",
+        "onboard_time": 1751595980,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335773,
+        "num": 357251,
+        "word": "你在cos鹿 鹿在cos王俊凯",
+        "onboard_time": 1751601384,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354117,
+        "num": 354117,
+        "word": "人真的不能一直住太差的房子",
+        "onboard_time": 1751600423,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 325862,
+        "num": 353181,
+        "word": "张碧晨周震南没有对视只想唱死对方",
+        "onboard_time": 1751605642,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30571,
+        "num": 350909,
+        "word": "安普瑞斯电芯几乎覆盖所有主流品牌",
+        "onboard_time": 1751606483,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 420826,
+        "num": 348536,
+        "word": "多名幼儿呕吐查出血铅异常",
+        "onboard_time": 1751598084,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 531140,
+        "num": 345126,
+        "word": "罗马仕 倒闭",
+        "onboard_time": 1751554224,
+        "rank": 21,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 344594,
+        "num": 344594,
+        "word": "医生提醒高温天别舍不得开空调",
+        "onboard_time": 1751597661,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281077,
+        "num": 281077,
+        "word": "高叶大嫂气场完全看不见了",
+        "onboard_time": 1751605402,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 267171,
+        "num": 267171,
+        "word": "韩网对演唱会上中国追星女的评价",
+        "onboard_time": 1751605342,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 237538,
+        "num": 237538,
+        "word": "老人刚到杭州就热晕被送回东北",
+        "onboard_time": 1751597843,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229806,
+        "num": 229806,
+        "word": "迪丽热巴这是推理吧不是推你巴",
+        "onboard_time": 1751605942,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228519,
+        "num": 228519,
+        "word": "热射病",
+        "onboard_time": 1751593761,
+        "rank": 27,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 225312,
+        "num": 225312,
+        "word": "原来周雨彤和鹿晗演过戏",
+        "onboard_time": 1751606302,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 47745,
+        "num": 219871,
+        "word": "央视点赞小鹏G7的中国芯片",
+        "onboard_time": 1751602584,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 219300,
+        "num": 219300,
+        "word": "田栩宁旁边的人是谁",
+        "onboard_time": 1751602525,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208020,
+        "num": 208020,
+        "word": "萌兰10岁啦花花和叶5岁啦",
+        "onboard_time": 1751584458,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177971,
+        "num": 177971,
+        "word": "请假羞耻 不配得感",
+        "onboard_time": 1751602111,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164713,
+        "num": 177257,
+        "word": "穷人满足欲望的方式主要靠禁欲",
+        "onboard_time": 1751606783,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177228,
+        "num": 177228,
+        "word": "朋友圈的窒息感",
+        "onboard_time": 1751602584,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163950,
+        "num": 163950,
+        "word": "白鹿成黑鹿",
+        "onboard_time": 1751600361,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162132,
+        "num": 162132,
+        "word": "妻子精心打扮引丈夫怀疑被捉奸在床",
+        "onboard_time": 1751585419,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49281,
+        "num": 162058,
+        "word": "买了新能源车才知道什么叫服务",
+        "onboard_time": 1751604084,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 162015,
+        "num": 162015,
+        "word": "中国公民衷某已获救",
+        "onboard_time": 1751603065,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159835,
+        "num": 159835,
+        "word": "00后女生假装富豪看5千万的别墅",
+        "onboard_time": 1751601327,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151372,
+        "num": 151372,
+        "word": "最终幻想14",
+        "onboard_time": 1751606062,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 14213,
+        "num": 149564,
+        "word": "星露谷的用户是最朴实善良的游戏用户",
+        "onboard_time": 1751605702,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148773,
+        "num": 148773,
+        "word": "国乒WTT美国大满贯赛前训练",
+        "onboard_time": 1751606603,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146504,
+        "num": 146504,
+        "word": "16岁樊振东腿部力量训练",
+        "onboard_time": 1751605762,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143605,
+        "num": 143605,
+        "word": "田栩宁冷白皮名不虚传",
+        "onboard_time": 1751606663,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143219,
+        "num": 143219,
+        "word": "星穹铁道白厄",
+        "onboard_time": 1751606783,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141207,
+        "num": 141207,
+        "word": "李飞你人真没事吗",
+        "onboard_time": 1751606903,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140912,
+        "num": 140912,
+        "word": "藏族人挖虫草1个月挣30万",
+        "onboard_time": 1751602347,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138059,
+        "num": 139152,
+        "word": "萌兰10岁生日仪式感拉满了",
+        "onboard_time": 1751593880,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138995,
+        "num": 138995,
+        "word": "微博崩了",
+        "onboard_time": 1751604022,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋力书写挺膺担当的青春篇章#"
+    }
+  }
+}
