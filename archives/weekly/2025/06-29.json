@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751643729234,
+  "endTime": 1751646733900,
   "band_list": [
     {
       "raw_hot": 6390116,
@@ -4035,6 +4035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 372666,
+      "num": 372666,
+      "word": "成都暴雨致家里插座出水成瀑布",
+      "onboard_time": 1751644941,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 371952,
       "num": 371952,
       "word": "印尼一客轮在巴厘海峡沉没",
@@ -4771,6 +4779,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 318544,
+      "num": 312242,
+      "word": "于正又发飙了",
+      "onboard_time": 1751641107,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 318356,
       "num": 318356,
       "word": "伊朗2022年几乎成功刺杀蓬佩奥",
@@ -4897,14 +4913,6 @@
       "onboard_time": 1751547083,
       "rank": 49,
       "category": "电影,艺人"
-    },
-    {
-      "raw_hot": 312242,
-      "num": 312242,
-      "word": "于正又发飙了",
-      "onboard_time": 1751641107,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 311691,
@@ -7651,6 +7659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203423,
+      "num": 203423,
+      "word": "李佳薇赛后发文",
+      "onboard_time": 1751644224,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203189,
       "num": 203189,
       "word": "藏海传集均播放量破7000万",
@@ -8827,6 +8843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 185658,
+      "num": 185658,
+      "word": "坐在林俊杰停车位的含金量",
+      "onboard_time": 1751643504,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 185594,
       "num": 216689,
       "word": "荣耀李健称MagicV5地表最强",
@@ -9451,6 +9475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 175394,
+      "num": 175394,
+      "word": "改成腹式呼吸后睡眠变好了",
+      "onboard_time": 1751640267,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 175317,
       "num": 175317,
       "word": "孙恩盛pk",
@@ -9857,14 +9889,6 @@
       "onboard_time": 1751378545,
       "rank": 40,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 171001,
-      "num": 171001,
-      "word": "改成腹式呼吸后睡眠变好了",
-      "onboard_time": 1751640267,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 170901,
@@ -10843,6 +10867,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 157034,
+      "num": 157034,
+      "word": "鹿晗如烟似梦坠入了你漂亮的眼眸",
+      "onboard_time": 1751645722,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 156952,
+      "num": 156952,
+      "word": "后备箱藏3孩子被查司机称感觉没事",
+      "onboard_time": 1751643684,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156901,
       "num": 156901,
       "word": "男孩高三辍学被老师劝回高考630分",
@@ -11513,6 +11553,14 @@
       "onboard_time": 1751346142,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149360,
+      "num": 149360,
+      "word": "新加坡赴中国游客激增",
+      "onboard_time": 1751644883,
+      "rank": 30,
+      "category": "民生新闻,旅游"
     },
     {
       "raw_hot": 149137,
@@ -12321,14 +12369,6 @@
       "onboard_time": 1751201121,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 141028,
-      "num": 141028,
-      "word": "坐在林俊杰停车位的含金量",
-      "onboard_time": 1751643504,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 140818,
@@ -14649,6 +14689,14 @@
       "onboard_time": 1751419880,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120181,
+      "num": 120181,
+      "word": "余宇涵去林俊杰演唱会了",
+      "onboard_time": 1751644344,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 120098,
@@ -17131,6 +17179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93420,
+      "num": 93420,
+      "word": "汪顺潘展乐傅园慧打篮球",
+      "onboard_time": 1751644582,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93090,
       "num": 93090,
       "word": "台湾啦啦队大展宏图",
@@ -17153,6 +17209,14 @@
       "onboard_time": 1751445081,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92970,
+      "num": 92970,
+      "word": "阴阳师 皮肤",
+      "onboard_time": 1751645302,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 92844,
@@ -17273,6 +17337,14 @@
       "onboard_time": 1751290283,
       "rank": 10,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 90312,
+      "num": 90312,
+      "word": "20岁女大学生放弃考研做团播运镜",
+      "onboard_time": 1751643385,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89849,
@@ -17579,6 +17651,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 83644,
+      "num": 83644,
+      "word": "前阿森纳球员托马斯被控强奸和性侵",
+      "onboard_time": 1751644283,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83045,
       "num": 144785,
       "word": "用小米平板画出玄戒O1芯片",
@@ -17720,6 +17800,14 @@
       "word": "上海烤肉价格",
       "onboard_time": 1751459782,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81326,
+      "num": 132058,
+      "word": "20岁女大学生在丽江失联3天",
+      "onboard_time": 1751644883,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -18513,6 +18601,14 @@
       "onboard_time": 1751463683,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 64588,
+      "num": 225364,
+      "word": "幼儿园铅中毒源头尚未查明",
+      "onboard_time": 1751644883,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64472,
@@ -19681,14 +19777,6 @@
       "onboard_time": 1751377283,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 40314,
-      "num": 138326,
-      "word": "后备箱藏3孩子被查司机称感觉没事",
-      "onboard_time": 1751643684,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 40139,
