@@ -1,6 +1,6 @@
 {
   "startTime": 1751560391149,
-  "endTime": 1751624920674,
+  "endTime": 1751625963497,
   "band_list": [
     {
       "raw_hot": 3680796,
@@ -43,20 +43,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2065313,
+      "num": 1687899,
+      "word": "日本末世预言剩1天有人撤离",
+      "onboard_time": 1751614103,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1941981,
       "num": 434356,
       "word": "关晓彤戒指",
       "onboard_time": 1751587761,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1687899,
-      "num": 1687899,
-      "word": "日本末世预言剩1天有人撤离",
-      "onboard_time": 1751614103,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1383812,
@@ -123,20 +123,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 957510,
+      "num": 899480,
+      "word": "日本华人就末世预言发声",
+      "onboard_time": 1751621542,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 931114,
       "num": 931114,
       "word": "被骗至缅甸男模特已获救",
       "onboard_time": 1751602051,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 899480,
-      "num": 899480,
-      "word": "日本华人就末世预言发声",
-      "onboard_time": 1751621542,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 884752,
@@ -275,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 681470,
+      "num": 1109035,
+      "word": "民航飞行员过剩",
+      "onboard_time": 1751617885,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 679934,
       "num": 679934,
       "word": "跑男这期玩得很脏",
@@ -329,14 +337,6 @@
       "onboard_time": 1751613924,
       "rank": 43,
       "category": "网红"
-    },
-    {
-      "raw_hot": 607508,
-      "num": 607508,
-      "word": "民航飞行员过剩",
-      "onboard_time": 1751617885,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 599674,
@@ -537,6 +537,14 @@
       "onboard_time": 1751610023,
       "rank": 23,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 356469,
+      "num": 227822,
+      "word": "汉南洞偶遇孙莉黄多多",
+      "onboard_time": 1751623042,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 343835,
@@ -771,6 +779,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 254038,
+      "num": 191946,
+      "word": "关晓彤姜涛肯定吃不到一起",
+      "onboard_time": 1751625081,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 249602,
       "num": 235324,
       "word": "藏族人挖虫草1个月挣30万",
@@ -785,6 +801,14 @@
       "onboard_time": 1751597301,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 244415,
+      "num": 157273,
+      "word": "瞒着全家人考上了北大",
+      "onboard_time": 1751624961,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 243050,
@@ -923,14 +947,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 208472,
-      "num": 227822,
-      "word": "汉南洞偶遇孙莉黄多多",
-      "onboard_time": 1751623042,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 208367,
       "num": 208367,
       "word": "多国烟草价格已平均上涨超50%",
@@ -969,6 +985,14 @@
       "onboard_time": 1751609001,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203653,
+      "num": 203653,
+      "word": "又有游泳跳水等比赛看了",
+      "onboard_time": 1751625680,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 202463,
@@ -1147,6 +1171,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 184804,
+      "num": 184804,
+      "word": "BLACKPINK高阳演唱会彩排",
+      "onboard_time": 1751623641,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 183174,
       "num": 183174,
       "word": "迪丽热巴开推下一程再见",
@@ -1299,6 +1331,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166862,
+      "num": 166862,
+      "word": "一部剧凑齐了狂飙三体开端的主演",
+      "onboard_time": 1751624843,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 166332,
+      "num": 166332,
+      "word": "潘展乐采访一如既往耿直",
+      "onboard_time": 1751625021,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166328,
       "num": 166328,
       "word": "原来这就是大家拼命要上岸的原因",
@@ -1313,14 +1361,6 @@
       "onboard_time": 1751594120,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 165832,
-      "num": 165832,
-      "word": "BLACKPINK高阳演唱会彩排",
-      "onboard_time": 1751623641,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 165637,
@@ -1419,6 +1459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158664,
+      "num": 158664,
+      "word": "锦绣芳华",
+      "onboard_time": 1751625680,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157924,
       "num": 157924,
       "word": "日本新燃岳火山喷发灰柱高达5000米",
@@ -1457,6 +1505,14 @@
       "onboard_time": 1751594781,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 156524,
+      "num": 226396,
+      "word": "香港老人登上山东舰的反应让人泪目",
+      "onboard_time": 1751622983,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156455,
@@ -1795,6 +1851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135142,
+      "num": 135142,
+      "word": "书卷一梦",
+      "onboard_time": 1751625680,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134722,
       "num": 134722,
       "word": "金靖说有个永远没有安静的6人工作群",
@@ -2107,22 +2171,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 111215,
-      "num": 226396,
-      "word": "香港老人登上山东舰的反应让人泪目",
-      "onboard_time": 1751622983,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 109354,
-      "num": 109354,
-      "word": "一部剧凑齐了狂飙三体开端的主演",
-      "onboard_time": 1751624843,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 108439,
       "num": 111165,
       "word": "习惯性反问到底有多讨厌",
@@ -2137,6 +2185,14 @@
       "onboard_time": 1751596821,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 105369,
+      "num": 105369,
+      "word": "21岁女大学生健身一年的变化",
+      "onboard_time": 1751623881,
+      "rank": 48,
+      "category": "运动健身"
     },
     {
       "raw_hot": 104835,
@@ -2155,12 +2211,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 103022,
-      "num": 103022,
-      "word": "21岁女大学生健身一年的变化",
-      "onboard_time": 1751623881,
-      "rank": 48,
-      "category": "运动健身"
+      "raw_hot": 103216,
+      "num": 103216,
+      "word": "再老实的人上了歌手也会发疯",
+      "onboard_time": 1751625861,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 102328,
@@ -2201,6 +2257,14 @@
       "onboard_time": 1751605342,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95769,
+      "num": 227270,
+      "word": "绝大部分日本人生活未受末世预言影响",
+      "onboard_time": 1751624541,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 94552,
@@ -2611,14 +2675,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 53158,
-      "num": 227270,
-      "word": "绝大部分日本人生活未受末世预言影响",
-      "onboard_time": 1751624541,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 50236,
       "num": 453362,
       "word": "部分共享充电宝无3C标识",
@@ -2739,6 +2795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 39689,
+      "num": 203869,
+      "word": "荣耀MagicV5血条太厚了",
+      "onboard_time": 1751625201,
+      "rank": 11,
+      "category": "数码"
+    },
+    {
       "raw_hot": 38048,
       "num": 206996,
       "word": "A股三大指数翻红半日放量708亿",
@@ -2763,6 +2827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35936,
+      "num": 157604,
+      "word": "为啥特朗普和普京通完电话不高兴",
+      "onboard_time": 1751625680,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 35205,
       "num": 74188,
       "word": "人民日报评这么近那么美标语出圈",
@@ -2777,6 +2849,14 @@
       "onboard_time": 1751580017,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32886,
+      "num": 123249,
+      "word": "以防你想了解怎么矫正腿型",
+      "onboard_time": 1751625801,
+      "rank": 39,
+      "category": "运动健身"
     },
     {
       "raw_hot": 32813,
@@ -2939,6 +3019,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 13330,
+      "num": 363354,
+      "word": "榕江人民永远记在心上",
+      "onboard_time": 1751625739,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 11238,
       "num": 39762,
       "word": "商务部介绍近期重点工作情况",
@@ -3017,6 +3105,9 @@
     },
     {
       "word": "#厦门发展战略启示#"
+    },
+    {
+      "word": "#这颗炙热的向党之心令人感动#"
     }
   ]
 }
