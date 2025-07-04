@@ -1,0 +1,410 @@
+{
+  "runTime": 1751622207154,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 893454,
+        "num": 1142952,
+        "word": "微信删过的人不要加第二次",
+        "onboard_time": 1751614223,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 543654,
+        "num": 543654,
+        "word": "冷水澡 减肥",
+        "onboard_time": 1751614763,
+        "rank": 1,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 52609,
+        "num": 433905,
+        "word": "被榕江洪灾救援中这一幕幕暖到了",
+        "onboard_time": 1751607922,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 547566,
+        "num": 433655,
+        "word": "建议大家都去频繁大量地记录自己",
+        "onboard_time": 1751615064,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 431898,
+        "num": 431898,
+        "word": "中方回应特朗普将向各国征新关税",
+        "onboard_time": 1751618244,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 620002,
+        "num": 431494,
+        "word": "田栩宁烧香烧到前面人脖子",
+        "onboard_time": 1751619567,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 516794,
+        "num": 430146,
+        "word": "关晓彤曾把最胖的照片设成屏保",
+        "onboard_time": 1751615602,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 425098,
+        "num": 425098,
+        "word": "DeepSeek给王一博道歉是假的",
+        "onboard_time": 1751604325,
+        "rank": 7,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 385196,
+        "num": 385196,
+        "word": "日本末世预言剩1天有人撤离",
+        "onboard_time": 1751614103,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 156455,
+        "num": 383821,
+        "word": "社保卡的余额可以随意支取吗",
+        "onboard_time": 1751619508,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1429399,
+        "num": 373517,
+        "word": "田栩宁女友置顶官宣照",
+        "onboard_time": 1751609542,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 765087,
+        "num": 361194,
+        "word": "日本末世预言剩1天",
+        "onboard_time": 1751595442,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 626423,
+        "num": 351458,
+        "word": "韩安冉展示三胎孕肚",
+        "onboard_time": 1751613504,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 552894,
+        "num": 340783,
+        "word": "日本漫画家预言已有10个应验",
+        "onboard_time": 1751613443,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 84622,
+        "num": 336656,
+        "word": "日本华人就末世预言发声",
+        "onboard_time": 1751621542,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 329275,
+        "num": 329275,
+        "word": "叶舒华自曝是母胎单身",
+        "onboard_time": 1751616803,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320648,
+        "num": 320648,
+        "word": "邓紫棋出小说了",
+        "onboard_time": 1751619205,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324528,
+        "num": 314847,
+        "word": "平底鞋 矮子哭",
+        "onboard_time": 1751608882,
+        "rank": 17,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 199797,
+        "num": 297324,
+        "word": "以法之名终于开始打老虎了",
+        "onboard_time": 1751621601,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60171,
+        "num": 288727,
+        "word": "乐道L90挑战首个雨天卡车夹击",
+        "onboard_time": 1751621542,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 285925,
+        "num": 285925,
+        "word": "民航飞行员过剩",
+        "onboard_time": 1751617885,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251025,
+        "num": 251025,
+        "word": "张纪中小女儿被保姆烫伤",
+        "onboard_time": 1751612422,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238312,
+        "num": 238312,
+        "word": "荨麻疹",
+        "onboard_time": 1751616564,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 213574,
+        "num": 213574,
+        "word": "爷爷下河捡玩具孙女拽衣哭喊不要了",
+        "onboard_time": 1751615783,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183996,
+        "num": 212954,
+        "word": "无畏契约新地图首登VCTCN",
+        "onboard_time": 1751619147,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 64137,
+        "num": 212919,
+        "word": "大学生买境外迷奸药获刑",
+        "onboard_time": 1751620941,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212908,
+        "num": 212908,
+        "word": "山东一家面包店推出知了猴面包",
+        "onboard_time": 1751620462,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153593,
+        "num": 201539,
+        "word": "张碧晨暴雨中的暗夜玫瑰",
+        "onboard_time": 1751621182,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62317,
+        "num": 196199,
+        "word": "开机甲怎么过科目三",
+        "onboard_time": 1751621721,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152934,
+        "num": 194341,
+        "word": "李飞你人真没事吗",
+        "onboard_time": 1751606903,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193055,
+        "num": 193055,
+        "word": "以色列精准斩首伊朗指挥官",
+        "onboard_time": 1751618425,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 187195,
+        "num": 187195,
+        "word": "TES与WBG互换辅助",
+        "onboard_time": 1751611042,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 176044,
+        "num": 176044,
+        "word": "月入1万8每月存一万6的真实原因",
+        "onboard_time": 1751615842,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174345,
+        "num": 174345,
+        "word": "每天只睡6小时身体会怎样",
+        "onboard_time": 1751618005,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 26726,
+        "num": 162496,
+        "word": "首批被拘留者抵达美鳄鱼恶魔岛",
+        "onboard_time": 1751622081,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 151899,
+        "num": 151899,
+        "word": "迪丽热巴发九宫图告别开推3",
+        "onboard_time": 1751611402,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138498,
+        "num": 138498,
+        "word": "瘦了60斤才敢说的实话",
+        "onboard_time": 1751620642,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 131926,
+        "num": 131926,
+        "word": "血铅异常幼儿园每学期学费6千多",
+        "onboard_time": 1751619745,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129489,
+        "num": 129489,
+        "word": "离婚现场别带孩子",
+        "onboard_time": 1751617042,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127199,
+        "num": 127199,
+        "word": "梓渝时代峰峻编外人员",
+        "onboard_time": 1751611402,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122138,
+        "num": 122138,
+        "word": "六座汽车哪个位置更安全",
+        "onboard_time": 1751621362,
+        "rank": 40,
+        "category": "汽车,科学科普"
+      },
+      {
+        "raw_hot": 120090,
+        "num": 120090,
+        "word": "iPhone 制冷模式",
+        "onboard_time": 1751598383,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 116716,
+        "num": 116716,
+        "word": "迪丽热巴开推3人生镜头",
+        "onboard_time": 1751608403,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115945,
+        "num": 115945,
+        "word": "花花看到生日蛋糕流口水",
+        "onboard_time": 1751595980,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111260,
+        "num": 111260,
+        "word": "广东没有高颅顶",
+        "onboard_time": 1751617042,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110489,
+        "num": 110489,
+        "word": "美方将取消对华采取的限制性措施",
+        "onboard_time": 1751610922,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108768,
+        "num": 108768,
+        "word": "小狗嘴里有好多小手套",
+        "onboard_time": 1751622022,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107069,
+        "num": 107069,
+        "word": "日本末日预言时间为凌晨4点",
+        "onboard_time": 1751619745,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 105837,
+        "num": 105837,
+        "word": "冻荔枝",
+        "onboard_time": 1751612844,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 102186,
+        "num": 102186,
+        "word": "清融小奖状",
+        "onboard_time": 1751621841,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#厦门发展战略启示#"
+    }
+  }
+}

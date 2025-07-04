@@ -1,6 +1,6 @@
 {
   "startTime": 1751560391149,
-  "endTime": 1751621346382,
+  "endTime": 1751622207154,
   "band_list": [
     {
       "raw_hot": 3680796,
@@ -339,6 +339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 543654,
+      "num": 543654,
+      "word": "冷水澡 减肥",
+      "onboard_time": 1751614763,
+      "rank": 44,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 539850,
       "num": 229092,
       "word": "25岁杀夫新娘和舅舅有15年非法关系",
@@ -355,7 +363,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 497491,
+      "raw_hot": 516794,
       "num": 497491,
       "word": "关晓彤曾把最胖的照片设成屏保",
       "onboard_time": 1751615602,
@@ -403,6 +411,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 431898,
+      "num": 463579,
+      "word": "中方回应特朗普将向各国征新关税",
+      "onboard_time": 1751618244,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 430062,
       "num": 430062,
       "word": "平底鞋 矮子哭",
@@ -425,22 +441,6 @@
       "onboard_time": 1751558480,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 411689,
-      "num": 463579,
-      "word": "中方回应特朗普将向各国征新关税",
-      "onboard_time": 1751618244,
-      "rank": 40,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 395323,
-      "num": 395323,
-      "word": "冷水澡 减肥",
-      "onboard_time": 1751614763,
-      "rank": 44,
-      "category": "运动健身"
     },
     {
       "raw_hot": 392875,
@@ -595,6 +595,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 329275,
+      "num": 329275,
+      "word": "叶舒华自曝是母胎单身",
+      "onboard_time": 1751616803,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 328036,
       "num": 383530,
       "word": "中国公民衷某已获救",
@@ -649,6 +657,14 @@
       "onboard_time": 1751591182,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 285925,
+      "num": 285925,
+      "word": "民航飞行员过剩",
+      "onboard_time": 1751617885,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 281077,
@@ -787,20 +803,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 238312,
+      "num": 238312,
+      "word": "荨麻疹",
+      "onboard_time": 1751616564,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 232698,
       "num": 232698,
       "word": "爷爷下河捡玩具孙女拽衣哭喊不要了",
       "onboard_time": 1751615783,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 230135,
-      "num": 236447,
-      "word": "叶舒华自曝是母胎单身",
-      "onboard_time": 1751616803,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 229806,
@@ -875,6 +891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 212908,
+      "num": 394591,
+      "word": "山东一家面包店推出知了猴面包",
+      "onboard_time": 1751620462,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 210342,
       "num": 210342,
       "word": "印度25岁新娘为嫁55岁舅舅杀夫",
@@ -883,16 +907,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 209940,
-      "num": 209940,
-      "word": "民航飞行员过剩",
-      "onboard_time": 1751617885,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 208891,
-      "num": 188922,
+      "num": 193055,
       "word": "以色列精准斩首伊朗指挥官",
       "onboard_time": 1751618425,
       "rank": 30,
@@ -931,14 +947,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 204920,
-      "num": 204920,
-      "word": "荨麻疹",
-      "onboard_time": 1751616564,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 204889,
       "num": 204889,
       "word": "田栩宁演万天齐",
@@ -953,6 +961,14 @@
       "onboard_time": 1751611882,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199797,
+      "num": 297324,
+      "word": "以法之名终于开始打老虎了",
+      "onboard_time": 1751621601,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 198596,
@@ -1028,7 +1044,7 @@
     },
     {
       "raw_hot": 193988,
-      "num": 193988,
+      "num": 212954,
       "word": "无畏契约新地图首登VCTCN",
       "onboard_time": 1751619147,
       "rank": 24,
@@ -1395,6 +1411,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 156455,
+      "num": 383821,
+      "word": "社保卡的余额可以随意支取吗",
+      "onboard_time": 1751619508,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155881,
       "num": 155881,
       "word": "美国解除对华C919发动机出口禁令",
@@ -1433,6 +1457,14 @@
       "onboard_time": 1751614463,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153593,
+      "num": 201539,
+      "word": "张碧晨暴雨中的暗夜玫瑰",
+      "onboard_time": 1751621182,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 152398,
@@ -1659,6 +1691,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 138498,
+      "num": 138498,
+      "word": "瘦了60斤才敢说的实话",
+      "onboard_time": 1751620642,
+      "rank": 38,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 138462,
       "num": 138462,
       "word": "印度10年造出死亡折角立交桥",
@@ -1747,6 +1787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131926,
+      "num": 388614,
+      "word": "血铅异常幼儿园每学期学费6千多",
+      "onboard_time": 1751619745,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131333,
       "num": 202593,
       "word": "王菊吐槽女装尺寸问题",
@@ -1769,14 +1817,6 @@
       "onboard_time": 1751611463,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 129409,
-      "num": 129409,
-      "word": "瘦了60斤才敢说的实话",
-      "onboard_time": 1751620642,
-      "rank": 38,
-      "category": "科学科普"
     },
     {
       "raw_hot": 129054,
@@ -1851,12 +1891,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 120207,
-      "num": 394591,
-      "word": "山东一家面包店推出知了猴面包",
-      "onboard_time": 1751620462,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 122138,
+      "num": 122138,
+      "word": "六座汽车哪个位置更安全",
+      "onboard_time": 1751621362,
+      "rank": 40,
+      "category": "汽车,科学科普"
     },
     {
       "raw_hot": 119381,
@@ -1987,20 +2027,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 110792,
-      "num": 110792,
-      "word": "张碧晨暴雨中的暗夜玫瑰",
-      "onboard_time": 1751621182,
+      "raw_hot": 108768,
+      "num": 108768,
+      "word": "小狗嘴里有好多小手套",
+      "onboard_time": 1751622022,
       "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 109067,
-      "num": 109067,
-      "word": "社保卡的余额可以随意支取吗",
-      "onboard_time": 1751619508,
-      "rank": 47,
-      "category": "民生新闻"
+      "category": "幽默"
     },
     {
       "raw_hot": 108439,
@@ -2041,6 +2073,14 @@
       "onboard_time": 1751613563,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102186,
+      "num": 102186,
+      "word": "清融小奖状",
+      "onboard_time": 1751621841,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 101819,
@@ -2129,6 +2169,14 @@
       "onboard_time": 1751548943,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 84622,
+      "num": 336656,
+      "word": "日本华人就末世预言发声",
+      "onboard_time": 1751621542,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 83699,
@@ -2243,14 +2291,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 72990,
-      "num": 388614,
-      "word": "血铅异常幼儿园每学期学费6千多",
-      "onboard_time": 1751619745,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 72114,
       "num": 72114,
       "word": "狗狗扑向路过男孩主人冲上去阻止",
@@ -2339,6 +2379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 62317,
+      "num": 196199,
+      "word": "开机甲怎么过科目三",
+      "onboard_time": 1751621721,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 62282,
       "num": 62282,
       "word": "费大厨门店回应招服务员要求本科",
@@ -2385,6 +2433,14 @@
       "onboard_time": 1751570355,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 60171,
+      "num": 288727,
+      "word": "乐道L90挑战首个雨天卡车夹击",
+      "onboard_time": 1751621542,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 59179,
@@ -2673,6 +2729,14 @@
       "onboard_time": 1751620162,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 26726,
+      "num": 162496,
+      "word": "首批被拘留者抵达美鳄鱼恶魔岛",
+      "onboard_time": 1751622081,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 25584,
