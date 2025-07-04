@@ -1,6 +1,6 @@
 {
   "startTime": 1751560391149,
-  "endTime": 1751642835683,
+  "endTime": 1751643729234,
   "band_list": [
     {
       "raw_hot": 6390116,
@@ -67,7 +67,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 2216446,
+      "raw_hot": 2224413,
       "num": 588838,
       "word": "日本",
       "onboard_time": 1751639125,
@@ -1219,6 +1219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 231361,
+      "num": 231361,
+      "word": "迪丽热巴模仿张凌赫",
+      "onboard_time": 1751642603,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229806,
       "num": 229806,
       "word": "迪丽热巴这是推理吧不是推你巴",
@@ -1556,7 +1564,7 @@
     },
     {
       "raw_hot": 195741,
-      "num": 195741,
+      "num": 241836,
       "word": "袭榜歌手是谁",
       "onboard_time": 1751639786,
       "rank": 41,
@@ -1811,6 +1819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176921,
+      "num": 596557,
+      "word": "广东一餐厅318元套餐结账变2297元",
+      "onboard_time": 1751639066,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176572,
       "num": 176572,
       "word": "一个月4000块好挣吗",
@@ -1859,14 +1875,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 173668,
-      "num": 596557,
-      "word": "广东一餐厅318元套餐结账变2297元",
-      "onboard_time": 1751639066,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 172296,
       "num": 207383,
       "word": "乌克兰称首都遭俄军大规模袭击",
@@ -1881,6 +1889,14 @@
       "onboard_time": 1751632044,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171001,
+      "num": 171001,
+      "word": "改成腹式呼吸后睡眠变好了",
+      "onboard_time": 1751640267,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 170402,
@@ -1977,14 +1993,6 @@
       "onboard_time": 1751550864,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 164307,
-      "num": 164307,
-      "word": "改成腹式呼吸后睡眠变好了",
-      "onboard_time": 1751640267,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 164139,
@@ -2443,14 +2451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142300,
-      "num": 142300,
-      "word": "迪丽热巴模仿张凌赫",
-      "onboard_time": 1751642603,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 141678,
       "num": 141678,
       "word": "毕业后才真的明白人生是旷野",
@@ -2473,6 +2473,22 @@
       "onboard_time": 1751627422,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141028,
+      "num": 141028,
+      "word": "坐在林俊杰停车位的含金量",
+      "onboard_time": 1751643504,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 140619,
+      "num": 273684,
+      "word": "空调开除湿模式别超2小时",
+      "onboard_time": 1751641945,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 139159,
@@ -2649,6 +2665,14 @@
       "onboard_time": 1751619745,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131592,
+      "num": 131592,
+      "word": "陈楚生句句都在刀我",
+      "onboard_time": 1751643264,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 131523,
@@ -2955,6 +2979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 114928,
+      "num": 114928,
+      "word": "田中杏奈mokoko包挂",
+      "onboard_time": 1751643084,
+      "rank": 48,
+      "category": "休闲,动漫"
+    },
+    {
       "raw_hot": 114877,
       "num": 114877,
       "word": "成都东站回应暴雨致列车晚点",
@@ -3057,6 +3089,14 @@
       "onboard_time": 1751634024,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110453,
+      "num": 474375,
+      "word": "被邻居带去游泳溺亡女孩母亲发声",
+      "onboard_time": 1751642845,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108439,
@@ -3177,14 +3217,6 @@
       "onboard_time": 1751621243,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 93733,
-      "num": 273684,
-      "word": "空调开除湿模式别超2小时",
-      "onboard_time": 1751641945,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 93681,
@@ -3777,6 +3809,14 @@
       "onboard_time": 1751584940,
       "rank": 38,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 40314,
+      "num": 138326,
+      "word": "后备箱藏3孩子被查司机称感觉没事",
+      "onboard_time": 1751643684,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40139,
