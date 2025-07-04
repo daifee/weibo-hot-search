@@ -1,0 +1,410 @@
+{
+  "runTime": 1751612003439,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1170482,
+        "num": 1187277,
+        "word": "TVB演员周聪去世",
+        "onboard_time": 1751608522,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 655168,
+        "num": 655168,
+        "word": "iPhone 制冷模式",
+        "onboard_time": 1751598383,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 66603,
+        "num": 617896,
+        "word": "被榕江洪灾救援中这一幕幕暖到了",
+        "onboard_time": 1751607922,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 714869,
+        "num": 616052,
+        "word": "李飞你人真没事吗",
+        "onboard_time": 1751606903,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 690787,
+        "num": 604618,
+        "word": "在印度有6个仆人但电视50寸",
+        "onboard_time": 1751605402,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 590522,
+        "num": 590522,
+        "word": "南航坠楼机长家属发声",
+        "onboard_time": 1751610922,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 639856,
+        "num": 534677,
+        "word": "DeepSeek给王一博道歉是假的",
+        "onboard_time": 1751604325,
+        "rank": 6,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 456794,
+        "num": 456794,
+        "word": "原来周雨彤和鹿晗演过戏",
+        "onboard_time": 1751606302,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 455055,
+        "num": 455055,
+        "word": "台名医下药性侵三女遭通缉",
+        "onboard_time": 1751607023,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303710,
+        "num": 455028,
+        "word": "美方将取消对华采取的限制性措施",
+        "onboard_time": 1751610922,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 2045948,
+        "num": 454677,
+        "word": "田栩宁女友置顶官宣照",
+        "onboard_time": 1751609542,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 954098,
+        "num": 454389,
+        "word": "日本末世预言剩1天",
+        "onboard_time": 1751595442,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 798701,
+        "num": 453911,
+        "word": "英国黑人计划来华传播艾滋病",
+        "onboard_time": 1751608764,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 777545,
+        "num": 453595,
+        "word": "游本昌",
+        "onboard_time": 1751610862,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50236,
+        "num": 453362,
+        "word": "部分共享充电宝无3C标识",
+        "onboard_time": 1751610682,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 469923,
+        "num": 453020,
+        "word": "田栩宁 若若",
+        "onboard_time": 1751609063,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 452866,
+        "num": 452866,
+        "word": "TES与WBG互换辅助",
+        "onboard_time": 1751611042,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 274758,
+        "num": 402796,
+        "word": "芬兰病假",
+        "onboard_time": 1751603783,
+        "rank": 17,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 132093,
+        "num": 367081,
+        "word": "李现我装哄好了",
+        "onboard_time": 1751611582,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100315,
+        "num": 360892,
+        "word": "刘芮麟是嘉行四傻共有老婆",
+        "onboard_time": 1751607863,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358197,
+        "num": 358197,
+        "word": "关晓彤分享彩椒碗教程",
+        "onboard_time": 1751610023,
+        "rank": 20,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 356207,
+        "num": 356207,
+        "word": "迪丽热巴开推3人生镜头",
+        "onboard_time": 1751608403,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347926,
+        "num": 347926,
+        "word": "跑男这期玩得很脏",
+        "onboard_time": 1751597903,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342473,
+        "num": 342473,
+        "word": "入青云 空降",
+        "onboard_time": 1751605163,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 317251,
+        "num": 317251,
+        "word": "罗马仕 倒闭",
+        "onboard_time": 1751554224,
+        "rank": 24,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 271615,
+        "num": 271615,
+        "word": "短剧还珠",
+        "onboard_time": 1751609782,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252244,
+        "num": 252244,
+        "word": "花花看到生日蛋糕流口水",
+        "onboard_time": 1751595980,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238378,
+        "num": 238378,
+        "word": "平底鞋 矮子哭",
+        "onboard_time": 1751608882,
+        "rank": 27,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 234397,
+        "num": 234397,
+        "word": "医生提醒高温天别舍不得开空调",
+        "onboard_time": 1751597661,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20858,
+        "num": 227381,
+        "word": "村民在家砍伤闯入者获刑申诉12年",
+        "onboard_time": 1751611342,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227359,
+        "num": 227359,
+        "word": "女子称婚后丈夫一天发80元工资给自己",
+        "onboard_time": 1751602763,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205922,
+        "num": 205922,
+        "word": "梓渝时代峰峻编外人员",
+        "onboard_time": 1751611402,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205648,
+        "num": 205648,
+        "word": "荔枝馒头",
+        "onboard_time": 1751609902,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 188252,
+        "num": 188252,
+        "word": "灵笼2感官震撼这一块",
+        "onboard_time": 1751611280,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 184920,
+        "num": 184920,
+        "word": "迪丽热巴发九宫图告别开推3",
+        "onboard_time": 1751611402,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184870,
+        "num": 184870,
+        "word": "被骗至缅甸男模特已获救",
+        "onboard_time": 1751602051,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190946,
+        "num": 181800,
+        "word": "网传田栩宁梓渝将合体录综艺",
+        "onboard_time": 1751611762,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176572,
+        "num": 176572,
+        "word": "一个月4000块好挣吗",
+        "onboard_time": 1751610440,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161285,
+        "num": 161285,
+        "word": "原来这就是大家拼命要上岸的原因",
+        "onboard_time": 1751610381,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118682,
+        "num": 160546,
+        "word": "TES官宣Crisp离队",
+        "onboard_time": 1751611822,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 160256,
+        "num": 160256,
+        "word": "王曼昱当选为全国青联第十四届委员",
+        "onboard_time": 1751609962,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143728,
+        "num": 143728,
+        "word": "王鹤棣北漂9年后的变化",
+        "onboard_time": 1751610802,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142952,
+        "num": 142952,
+        "word": "刘学义这一下孟子义红透了",
+        "onboard_time": 1751611162,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142105,
+        "num": 142105,
+        "word": "微信可将聊天记录备份至U盘",
+        "onboard_time": 1751608342,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 137117,
+        "num": 137117,
+        "word": "人真的不能一直住太差的房子",
+        "onboard_time": 1751600423,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134910,
+        "num": 134910,
+        "word": "张艺兴五巡官宣",
+        "onboard_time": 1751609723,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132968,
+        "num": 132968,
+        "word": "外星不明物体造访太阳系",
+        "onboard_time": 1751608764,
+        "rank": 46,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 130791,
+        "num": 130791,
+        "word": "女子久停认定车位深夜要求邻居挪车",
+        "onboard_time": 1751611463,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129765,
+        "num": 129765,
+        "word": "存130万小伙说因存钱付出了健康",
+        "onboard_time": 1751611882,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124021,
+        "num": 124021,
+        "word": "村民抓知了猴日收入过万",
+        "onboard_time": 1751609482,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#厦门发展战略启示#"
+    }
+  }
+}

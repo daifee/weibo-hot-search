@@ -1,6 +1,6 @@
 {
   "startTime": 1751560391149,
-  "endTime": 1751611148513,
+  "endTime": 1751612003439,
   "band_list": [
     {
       "raw_hot": 3680796,
@@ -27,19 +27,19 @@
       "category": "民生新闻,数码"
     },
     {
+      "raw_hot": 2045948,
+      "num": 454677,
+      "word": "田栩宁女友置顶官宣照",
+      "onboard_time": 1751609542,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1941981,
       "num": 434356,
       "word": "关晓彤戒指",
       "onboard_time": 1751587761,
       "rank": 5,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1718965,
-      "num": 365814,
-      "word": "田栩宁女友置顶官宣照",
-      "onboard_time": 1751609542,
-      "rank": 10,
       "category": "艺人"
     },
     {
@@ -67,19 +67,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1170482,
+      "num": 1187277,
+      "word": "TVB演员周聪去世",
+      "onboard_time": 1751608522,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1081543,
       "num": 725796,
       "word": "刘芮麟老婆",
       "onboard_time": 1751602466,
       "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1048693,
-      "num": 1167790,
-      "word": "TVB演员周聪去世",
-      "onboard_time": 1751608522,
-      "rank": 0,
       "category": "艺人"
     },
     {
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 883716,
-      "num": 355363,
+      "num": 453911,
       "word": "英国黑人计划来华传播艾滋病",
       "onboard_time": 1751608764,
       "rank": 12,
@@ -147,6 +147,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 777545,
+      "num": 453595,
+      "word": "游本昌",
+      "onboard_time": 1751610862,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 745353,
       "num": 745353,
       "word": "入青云 空降",
@@ -169,6 +177,14 @@
       "onboard_time": 1751597661,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 714869,
+      "num": 616052,
+      "word": "李飞你人真没事吗",
+      "onboard_time": 1751606903,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 712097,
@@ -219,12 +235,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 601210,
-      "num": 433661,
-      "word": "李飞你人真没事吗",
-      "onboard_time": 1751606903,
-      "rank": 46,
-      "category": "艺人"
+      "raw_hot": 590522,
+      "num": 590522,
+      "word": "南航坠楼机长家属发声",
+      "onboard_time": 1751610922,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 585588,
@@ -275,12 +291,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 456035,
-      "num": 352355,
+      "raw_hot": 469923,
+      "num": 453020,
       "word": "田栩宁 若若",
       "onboard_time": 1751609063,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 455055,
+      "num": 455055,
+      "word": "台名医下药性侵三女遭通缉",
+      "onboard_time": 1751607023,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 452866,
+      "num": 452866,
+      "word": "TES与WBG互换辅助",
+      "onboard_time": 1751611042,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 422702,
@@ -288,14 +320,6 @@
       "word": "毕业6年存130万小伙每月吃饭500元",
       "onboard_time": 1751558480,
       "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 395422,
-      "num": 395422,
-      "word": "台名医下药性侵三女遭通缉",
-      "onboard_time": 1751607023,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -308,7 +332,7 @@
     },
     {
       "raw_hot": 381688,
-      "num": 339507,
+      "num": 356207,
       "word": "迪丽热巴开推3人生镜头",
       "onboard_time": 1751608403,
       "rank": 16,
@@ -353,6 +377,14 @@
       "onboard_time": 1751585419,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 358197,
+      "num": 358197,
+      "word": "关晓彤分享彩椒碗教程",
+      "onboard_time": 1751610023,
+      "rank": 23,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 341374,
@@ -459,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 303710,
+      "num": 455028,
+      "word": "美方将取消对华采取的限制性措施",
+      "onboard_time": 1751610922,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 293010,
       "num": 293010,
       "word": "沈月七月的一天开机路透",
@@ -499,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 271615,
+      "num": 271615,
+      "word": "短剧还珠",
+      "onboard_time": 1751609782,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 271396,
       "num": 327640,
       "word": "等比例长大的杨紫",
@@ -512,14 +560,6 @@
       "word": "哈尔滨高温居民排队装空调",
       "onboard_time": 1751602943,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 267510,
-      "num": 328399,
-      "word": "南航坠楼机长家属发声",
-      "onboard_time": 1751610922,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -571,28 +611,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 247665,
-      "num": 247665,
-      "word": "关晓彤分享彩椒碗教程",
-      "onboard_time": 1751610023,
-      "rank": 23,
-      "category": "综艺,艺人"
-    },
-    {
       "raw_hot": 245308,
       "num": 275944,
       "word": "杨幂竹节褶衣",
       "onboard_time": 1751597301,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 244362,
-      "num": 244362,
-      "word": "短剧还珠",
-      "onboard_time": 1751609782,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 240389,
@@ -609,6 +633,14 @@
       "onboard_time": 1751555484,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 238378,
+      "num": 238378,
+      "word": "平底鞋 矮子哭",
+      "onboard_time": 1751608882,
+      "rank": 27,
+      "category": "幽默,休闲"
     },
     {
       "raw_hot": 229806,
@@ -691,12 +723,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 205922,
+      "num": 205922,
+      "word": "梓渝时代峰峻编外人员",
+      "onboard_time": 1751611402,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205818,
       "num": 235580,
       "word": "洪亮这次屁股不干净了",
       "onboard_time": 1751600962,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205648,
+      "num": 205648,
+      "word": "荔枝馒头",
+      "onboard_time": 1751609902,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 204889,
@@ -755,14 +803,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 195494,
-      "num": 195494,
-      "word": "荔枝馒头",
-      "onboard_time": 1751609902,
-      "rank": 31,
-      "category": "美食"
-    },
-    {
       "raw_hot": 195481,
       "num": 195481,
       "word": "罗马仕辟谣倒闭",
@@ -776,6 +816,14 @@
       "word": "中餐厅名场面",
       "onboard_time": 1751603065,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 190946,
+      "num": 181800,
+      "word": "网传田栩宁梓渝将合体录综艺",
+      "onboard_time": 1751611762,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -795,6 +843,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 188252,
+      "num": 188252,
+      "word": "灵笼2感官震撼这一块",
+      "onboard_time": 1751611280,
+      "rank": 33,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 187117,
       "num": 187117,
       "word": "邓紫棋香港抢票",
@@ -809,6 +865,14 @@
       "onboard_time": 1751595621,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 184920,
+      "num": 184920,
+      "word": "迪丽热巴发九宫图告别开推3",
+      "onboard_time": 1751611402,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 180706,
@@ -841,6 +905,14 @@
       "onboard_time": 1751596581,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176572,
+      "num": 176572,
+      "word": "一个月4000块好挣吗",
+      "onboard_time": 1751610440,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 175522,
@@ -1067,28 +1139,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 152447,
-      "num": 152447,
-      "word": "一个月4000块好挣吗",
-      "onboard_time": 1751610440,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 152261,
       "num": 152261,
       "word": "普京与特朗普通话近1小时",
       "onboard_time": 1751586080,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 151760,
-      "num": 151760,
-      "word": "TES与WBG互换辅助",
-      "onboard_time": 1751611042,
-      "rank": 38,
-      "category": "电竞"
     },
     {
       "raw_hot": 151372,
@@ -1179,8 +1235,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143728,
+      "num": 143728,
+      "word": "王鹤棣北漂9年后的变化",
+      "onboard_time": 1751610802,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143282,
-      "num": 143282,
+      "num": 360892,
       "word": "刘芮麟是嘉行四傻共有老婆",
       "onboard_time": 1751607863,
       "rank": 47,
@@ -1201,6 +1265,14 @@
       "onboard_time": 1751606783,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 142952,
+      "num": 142952,
+      "word": "刘学义这一下孟子义红透了",
+      "onboard_time": 1751611162,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 141678,
@@ -1283,6 +1355,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132968,
+      "num": 132968,
+      "word": "外星不明物体造访太阳系",
+      "onboard_time": 1751608764,
+      "rank": 48,
+      "category": "民生新闻,科学科普"
+    },
+    {
+      "raw_hot": 132093,
+      "num": 367081,
+      "word": "李现我装哄好了",
+      "onboard_time": 1751611582,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131333,
       "num": 202593,
       "word": "王菊吐槽女装尺寸问题",
@@ -1299,20 +1387,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 130299,
-      "num": 130299,
-      "word": "游本昌",
-      "onboard_time": 1751610862,
-      "rank": 45,
-      "category": "艺人"
+      "raw_hot": 130791,
+      "num": 130791,
+      "word": "女子久停认定车位深夜要求邻居挪车",
+      "onboard_time": 1751611463,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 129919,
-      "num": 129919,
-      "word": "外星不明物体造访太阳系",
-      "onboard_time": 1751608764,
+      "raw_hot": 129765,
+      "num": 129765,
+      "word": "存130万小伙说因存钱付出了健康",
+      "onboard_time": 1751611882,
       "rank": 48,
-      "category": "民生新闻,科学科普"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129054,
@@ -1361,6 +1449,14 @@
       "onboard_time": 1751563097,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118682,
+      "num": 160546,
+      "word": "TES官宣Crisp离队",
+      "onboard_time": 1751611822,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 118232,
@@ -1627,14 +1723,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 79780,
-      "num": 130086,
-      "word": "美方将取消对华采取的限制性措施",
-      "onboard_time": 1751610922,
-      "rank": 46,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 79721,
       "num": 350909,
       "word": "安普瑞斯电芯几乎覆盖所有主流品牌",
@@ -1691,7 +1779,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 66500,
+      "raw_hot": 66603,
       "num": 761825,
       "word": "被榕江洪灾救援中这一幕幕暖到了",
       "onboard_time": 1751607922,
@@ -1843,6 +1931,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 50236,
+      "num": 453362,
+      "word": "部分共享充电宝无3C标识",
+      "onboard_time": 1751610682,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49579,
       "num": 153924,
       "word": "AI幻觉",
@@ -1987,14 +2083,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 31415,
-      "num": 347739,
-      "word": "部分共享充电宝无3C标识",
-      "onboard_time": 1751610682,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 31140,
       "num": 197730,
       "word": "四成投票者支持马斯克成立美国党",
@@ -2081,6 +2169,14 @@
       "onboard_time": 1751567776,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 20858,
+      "num": 227381,
+      "word": "村民在家砍伤闯入者获刑申诉12年",
+      "onboard_time": 1751611342,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14213,
