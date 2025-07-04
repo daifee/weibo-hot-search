@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751603787421,
+  "endTime": 1751604756363,
   "band_list": [
     {
       "raw_hot": 4866007,
@@ -211,6 +211,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1321319,
+      "num": 1321319,
+      "word": "iPhone 制冷模式",
+      "onboard_time": 1751598383,
+      "rank": 3,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1307765,
       "num": 1307765,
       "word": "虐猫考生上岸失败系道德品行等问题",
@@ -347,20 +355,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1081543,
+      "num": 725796,
+      "word": "刘芮麟老婆",
+      "onboard_time": 1751602466,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1079103,
       "num": 1172656,
       "word": "吴所畏在韩国叫什么",
       "onboard_time": 1751547143,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1074628,
-      "num": 1171940,
-      "word": "iPhone 制冷模式",
-      "onboard_time": 1751598383,
-      "rank": 3,
-      "category": "数码"
     },
     {
       "raw_hot": 1069823,
@@ -499,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 931114,
+      "num": 931114,
+      "word": "被骗至缅甸男模特已获救",
+      "onboard_time": 1751602051,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 920582,
       "num": 920582,
       "word": "遗产几乎女儿全拿儿子可不管母亲吗",
@@ -563,14 +579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 880857,
-      "num": 348346,
-      "word": "刘芮麟老婆",
-      "onboard_time": 1751602466,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 873271,
       "num": 873271,
       "word": "吃完山竹记得要漱口",
@@ -604,7 +612,7 @@
     },
     {
       "raw_hot": 853423,
-      "num": 504807,
+      "num": 714356,
       "word": "多名幼儿呕吐查出血铅异常",
       "onboard_time": 1751598084,
       "rank": 8,
@@ -705,14 +713,6 @@
       "onboard_time": 1751340261,
       "rank": 23,
       "category": "科学科普,美食"
-    },
-    {
-      "raw_hot": 819206,
-      "num": 819206,
-      "word": "被骗至缅甸男模特已获救",
-      "onboard_time": 1751602051,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 808795,
@@ -859,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 716604,
+      "num": 716604,
+      "word": "医生提醒高温天别舍不得开空调",
+      "onboard_time": 1751597661,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 715019,
       "num": 452774,
       "word": "男子造黄谣致女子抑郁被判赔20万",
@@ -881,6 +889,14 @@
       "onboard_time": 1751558361,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 711850,
+      "num": 711850,
+      "word": "DeepSeek给王一博道歉是假的",
+      "onboard_time": 1751604325,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 708659,
@@ -1025,6 +1041,14 @@
       "onboard_time": 1751515223,
       "rank": 11,
       "category": "教育"
+    },
+    {
+      "raw_hot": 676064,
+      "num": 356267,
+      "word": "女子称婚后丈夫一天发80元工资给自己",
+      "onboard_time": 1751602763,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 675158,
@@ -1307,14 +1331,6 @@
       "category": "作品衍生,作品衍生"
     },
     {
-      "raw_hot": 599747,
-      "num": 599747,
-      "word": "医生提醒高温天别舍不得开空调",
-      "onboard_time": 1751597661,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 597889,
       "num": 254268,
       "word": "原来幂姐也会吃十几块的普通餐",
@@ -1353,6 +1369,14 @@
       "onboard_time": 1751345963,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 585588,
+      "num": 585588,
+      "word": "花花看到生日蛋糕流口水",
+      "onboard_time": 1751595980,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 574464,
@@ -1441,6 +1465,14 @@
       "onboard_time": 1751513542,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 543920,
+      "num": 362493,
+      "word": "人真的不能一直住太差的房子",
+      "onboard_time": 1751600423,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 542072,
@@ -1691,14 +1723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 482293,
-      "num": 362493,
-      "word": "人真的不能一直住太差的房子",
-      "onboard_time": 1751600423,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 481210,
       "num": 481210,
       "word": "动物园被举报用个人码收门票上千万",
@@ -1720,14 +1744,6 @@
       "word": "男孩呼吸困难母亲用塑料袋罩头急救",
       "onboard_time": 1751592802,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 472118,
-      "num": 472118,
-      "word": "花花看到生日蛋糕流口水",
-      "onboard_time": 1751595980,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -2219,6 +2235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 366714,
+      "num": 323643,
+      "word": "田栩宁旁边的人是谁",
+      "onboard_time": 1751602525,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 366569,
       "num": 285176,
       "word": "32周孕妇吃冰箱凉菜感染险胎死腹中",
@@ -2339,14 +2363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 356267,
-      "num": 356267,
-      "word": "女子称婚后丈夫一天发80元工资给自己",
-      "onboard_time": 1751602763,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 356131,
       "num": 356131,
       "word": "歌手第八期歌单",
@@ -2435,14 +2451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 342885,
-      "num": 294173,
-      "word": "田栩宁旁边的人是谁",
-      "onboard_time": 1751602525,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 341374,
       "num": 204813,
       "word": "雨果因签证问题无缘美国大满贯",
@@ -2481,6 +2489,22 @@
       "onboard_time": 1751548762,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 336919,
+      "num": 395410,
+      "word": "白鹿成黑鹿",
+      "onboard_time": 1751600361,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 336624,
+      "num": 322934,
+      "word": "请假羞耻 不配得感",
+      "onboard_time": 1751602111,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 335302,
@@ -2547,6 +2571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 328036,
+      "num": 383530,
+      "word": "中国公民衷某已获救",
+      "onboard_time": 1751603065,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 326526,
       "num": 450312,
       "word": "穿普拉达的女王2开拍",
@@ -2601,6 +2633,14 @@
       "onboard_time": 1751385801,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 322290,
+      "num": 322290,
+      "word": "你在cos鹿 鹿在cos王俊凯",
+      "onboard_time": 1751601384,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 320413,
@@ -2803,14 +2843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 301400,
-      "num": 395410,
-      "word": "白鹿成黑鹿",
-      "onboard_time": 1751600361,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 299295,
       "num": 266198,
       "word": "夏天女装 不日常",
@@ -2979,14 +3011,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 287958,
-      "num": 287958,
-      "word": "请假羞耻 不配得感",
-      "onboard_time": 1751602111,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 287692,
       "num": 287692,
       "word": "韩安冉禁止路人拍优米",
@@ -3025,6 +3049,14 @@
       "onboard_time": 1751376383,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 284925,
+      "num": 284925,
+      "word": "芬兰病假",
+      "onboard_time": 1751603783,
+      "rank": 26,
+      "category": "幽默,休闲"
     },
     {
       "raw_hot": 283308,
@@ -3115,6 +3147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 271396,
+      "num": 327640,
+      "word": "等比例长大的杨紫",
+      "onboard_time": 1751603363,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 270721,
       "num": 270721,
       "word": "詹俊发文悼念若塔",
@@ -3139,6 +3179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 269104,
+      "num": 303694,
+      "word": "哈尔滨高温居民排队装空调",
+      "onboard_time": 1751602943,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 268128,
       "num": 268128,
       "word": "古装剧一个个官宣",
@@ -3153,6 +3201,14 @@
       "onboard_time": 1751531601,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 265511,
+      "num": 326223,
+      "word": "米未太子首部短剧开播",
+      "onboard_time": 1751603123,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 263260,
@@ -3185,6 +3241,14 @@
       "onboard_time": 1751597843,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 260459,
+      "num": 260459,
+      "word": "朋友圈的窒息感",
+      "onboard_time": 1751602584,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 260296,
@@ -3288,14 +3352,6 @@
       "word": "苦瓜饮品外卖量飙升11倍",
       "onboard_time": 1751447242,
       "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 248398,
-      "num": 383530,
-      "word": "中国公民衷某已获救",
-      "onboard_time": 1751603065,
-      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -3456,14 +3512,6 @@
       "word": "冉莹颖回应儿子身高",
       "onboard_time": 1751450002,
       "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 235632,
-      "num": 235632,
-      "word": "等比例长大的杨紫",
-      "onboard_time": 1751603363,
-      "rank": 24,
       "category": "艺人"
     },
     {
@@ -3827,14 +3875,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 219720,
-      "num": 219720,
-      "word": "朋友圈的窒息感",
-      "onboard_time": 1751602584,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 219656,
       "num": 198009,
       "word": "南京大屠杀幸存者照片墙的灯又熄2盏",
@@ -3865,6 +3905,14 @@
       "onboard_time": 1751538802,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 218559,
+      "num": 218559,
+      "word": "微博崩了",
+      "onboard_time": 1751604022,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 218501,
@@ -4009,6 +4057,14 @@
       "onboard_time": 1751500943,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213857,
+      "num": 267287,
+      "word": "易烊千玺和小王子的适配度",
+      "onboard_time": 1751604203,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 213714,
@@ -4233,14 +4289,6 @@
       "onboard_time": 1751455222,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 203547,
-      "num": 233034,
-      "word": "你在cos鹿 鹿在cos王俊凯",
-      "onboard_time": 1751601384,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 202874,
@@ -4499,12 +4547,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195863,
-      "num": 235569,
-      "word": "米未太子首部短剧开播",
-      "onboard_time": 1751603123,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 196086,
+      "num": 196086,
+      "word": "有美航司获准重启对华喷气发动机供应",
+      "onboard_time": 1751604084,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 195567,
@@ -4955,6 +5003,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 180706,
+      "num": 180706,
+      "word": "00后女生假装富豪看5千万的别墅",
+      "onboard_time": 1751601327,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 180577,
       "num": 300452,
       "word": "肖战的健康生活选择",
@@ -5169,14 +5225,6 @@
       "onboard_time": 1751460923,
       "rank": 31,
       "category": "数码"
-    },
-    {
-      "raw_hot": 174589,
-      "num": 174589,
-      "word": "00后女生假装富豪看5千万的别墅",
-      "onboard_time": 1751601327,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 174569,
@@ -5627,6 +5675,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 163333,
+      "num": 163333,
+      "word": "被帅哥要微信了但是落荒而逃版",
+      "onboard_time": 1751604564,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 163190,
       "num": 163190,
       "word": "以军空袭一咖啡馆致至少39人死亡",
@@ -5664,6 +5720,14 @@
       "word": "球迷在王楚钦评论区晒成绩单",
       "onboard_time": 1751368521,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 162720,
+      "num": 162720,
+      "word": "利物浦宣布退役20号球衣",
+      "onboard_time": 1751604505,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -5843,6 +5907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159596,
+      "num": 159596,
+      "word": "宣璐新剧短发高智感",
+      "onboard_time": 1751603904,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159451,
       "num": 159451,
       "word": "小米汽车",
@@ -5948,7 +6020,7 @@
     },
     {
       "raw_hot": 155758,
-      "num": 155758,
+      "num": 264253,
       "word": "Doggo女警五杀",
       "onboard_time": 1751594061,
       "rank": 28,
@@ -7377,14 +7449,6 @@
       "onboard_time": 1751342541,
       "rank": 49,
       "category": "幽默,休闲"
-    },
-    {
-      "raw_hot": 128934,
-      "num": 303694,
-      "word": "哈尔滨高温居民排队装空调",
-      "onboard_time": 1751602943,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128579,
@@ -10475,6 +10539,14 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 59179,
+      "num": 330194,
+      "word": "专家已对血铅异常幼儿开展医治",
+      "onboard_time": 1751603483,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59144,
       "num": 318631,
       "word": "荣耀李健称这就是今年最好的折叠屏",
@@ -10603,6 +10675,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 53715,
+      "num": 243654,
+      "word": "宇树科技或于科创板IPO",
+      "onboard_time": 1751602704,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 53520,
       "num": 313852,
       "word": "湘潭大学宿舍投毒案被告提起上诉",
@@ -10689,6 +10769,14 @@
       "onboard_time": 1751358502,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 48907,
+      "num": 218291,
+      "word": "买了新能源车才知道什么叫服务",
+      "onboard_time": 1751604084,
+      "rank": 39,
+      "category": "汽车"
     },
     {
       "raw_hot": 48735,
@@ -10971,14 +11059,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 40659,
-      "num": 235470,
-      "word": "宇树科技或于科创板IPO",
-      "onboard_time": 1751602704,
-      "rank": 28,
-      "category": "财经"
-    },
-    {
       "raw_hot": 40537,
       "num": 216895,
       "word": "9家共享充电宝两家无3C",
@@ -10993,6 +11073,14 @@
       "onboard_time": 1751377283,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 40049,
+      "num": 218376,
+      "word": "汪顺将第八次参加游泳世锦赛",
+      "onboard_time": 1751603602,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 40007,
@@ -11184,14 +11272,6 @@
       "word": "洪水退去村超球场重新亮灯",
       "onboard_time": 1751412258,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35666,
-      "num": 315264,
-      "word": "专家已对血铅异常幼儿开展医治",
-      "onboard_time": 1751603483,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -11705,6 +11785,14 @@
       "onboard_time": 1751602883,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22978,
+      "num": 265985,
+      "word": "商家称花10元充电宝可标伪造3C标签",
+      "onboard_time": 1751604144,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22899,
