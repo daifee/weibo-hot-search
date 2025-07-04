@@ -1,0 +1,410 @@
+{
+  "runTime": 1751639121583,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2617268,
+        "num": 2617268,
+        "word": "李佳薇太牛了",
+        "onboard_time": 1751632946,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2508454,
+        "num": 2508454,
+        "word": "杨幂摔出了神图",
+        "onboard_time": 1751636668,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 89849,
+        "num": 815026,
+        "word": "榕江人民永远记在心上",
+        "onboard_time": 1751625739,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 390474,
+        "num": 390474,
+        "word": "10元快剪店理发师月入2万元",
+        "onboard_time": 1751629643,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 358634,
+        "num": 358634,
+        "word": "警方介入河南大学生泰国失联14天",
+        "onboard_time": 1751634086,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337122,
+        "num": 337122,
+        "word": "男子还手致人死亡被判八年家属发声",
+        "onboard_time": 1751635286,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2100966,
+        "num": 334873,
+        "word": "歌手排名",
+        "onboard_time": 1751635467,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328937,
+        "num": 328937,
+        "word": "瞒着全家人考上了北大",
+        "onboard_time": 1751624961,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 292367,
+        "num": 292367,
+        "word": "胡先煦说我不是什么星",
+        "onboard_time": 1751637625,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 269611,
+        "num": 269611,
+        "word": "独居老人网购花费200万睡在快递上",
+        "onboard_time": 1751638466,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1363649,
+        "num": 269471,
+        "word": "单依纯 王菲在唱那英的歌",
+        "onboard_time": 1751634567,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1026828,
+        "num": 269194,
+        "word": "日本末世预言剩1天有人撤离",
+        "onboard_time": 1751614103,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 866512,
+        "num": 269177,
+        "word": "田栩宁女友置顶官宣照",
+        "onboard_time": 1751609542,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 694055,
+        "num": 268773,
+        "word": "鹿晗直拍 哪里来的洋娃娃",
+        "onboard_time": 1751637026,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 61280,
+        "num": 268649,
+        "word": "青海祁连大草原一夜白雪皑皑",
+        "onboard_time": 1751637685,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 606754,
+        "num": 268400,
+        "word": "歌手直播",
+        "onboard_time": 1751628923,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 594501,
+        "num": 268206,
+        "word": "陈楚生被谁甩了",
+        "onboard_time": 1751637746,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 343166,
+        "num": 268054,
+        "word": "29岁身高从165厘米到171厘米",
+        "onboard_time": 1751626283,
+        "rank": 17,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 304332,
+        "num": 267803,
+        "word": "日本末世预言剩1天",
+        "onboard_time": 1751595442,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 281830,
+        "num": 267658,
+        "word": "俄罗斯发动最大规模空袭",
+        "onboard_time": 1751637746,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 580435,
+        "num": 267355,
+        "word": "单依纯 换歌",
+        "onboard_time": 1751635706,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 412425,
+        "num": 267107,
+        "word": "李佳薇 真天后",
+        "onboard_time": 1751636608,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 462146,
+        "num": 266984,
+        "word": "TVB演员雪妮病逝",
+        "onboard_time": 1751631624,
+        "rank": 22,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 426022,
+        "num": 266665,
+        "word": "情歌就是陈楚生的统治区",
+        "onboard_time": 1751636726,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 398363,
+        "num": 266625,
+        "word": "DeepSeek给王一博道歉是假的",
+        "onboard_time": 1751604325,
+        "rank": 24,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 360697,
+        "num": 266245,
+        "word": "张一山的字好帅",
+        "onboard_time": 1751635647,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341926,
+        "num": 266192,
+        "word": "何惟芳蒋长扬亲好猛",
+        "onboard_time": 1751631744,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265996,
+        "num": 265996,
+        "word": "太原暴雨",
+        "onboard_time": 1751637026,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211225,
+        "num": 211225,
+        "word": "使馆提醒在日中国公民防范自然灾害",
+        "onboard_time": 1751637925,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 209728,
+        "num": 209728,
+        "word": "日本华人就末世预言发声",
+        "onboard_time": 1751621542,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 334058,
+        "num": 208214,
+        "word": "GAI是不是又想走了",
+        "onboard_time": 1751631864,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275075,
+        "num": 204997,
+        "word": "歌手收视率",
+        "onboard_time": 1751637986,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215327,
+        "num": 204182,
+        "word": "林俊杰演唱会",
+        "onboard_time": 1751638348,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 182556,
+        "num": 201119,
+        "word": "AG战胜UUG",
+        "onboard_time": 1751637806,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 200110,
+        "num": 200110,
+        "word": "跑男",
+        "onboard_time": 1751638466,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200036,
+        "num": 200036,
+        "word": "歌手揭榜",
+        "onboard_time": 1751638647,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196744,
+        "num": 196744,
+        "word": "建议大家都去频繁大量地记录自己",
+        "onboard_time": 1751615064,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196380,
+        "num": 196380,
+        "word": "披荆斩棘5淘汰",
+        "onboard_time": 1751636126,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182005,
+        "num": 182005,
+        "word": "一诺跨赛季二十一大场连胜",
+        "onboard_time": 1751638167,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 172296,
+        "num": 172296,
+        "word": "乌克兰称首都遭俄军大规模袭击",
+        "onboard_time": 1751634987,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 179799,
+        "num": 170083,
+        "word": "张钰琪冲刺复赛只有一票",
+        "onboard_time": 1751635766,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167724,
+        "num": 167724,
+        "word": "交往6年男友竟是刑满释放人员",
+        "onboard_time": 1751630845,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166556,
+        "num": 166556,
+        "word": "何炅回应海泉淘汰",
+        "onboard_time": 1751636007,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164883,
+        "num": 164883,
+        "word": "刘端端体制内的魅力",
+        "onboard_time": 1751631264,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164028,
+        "num": 164028,
+        "word": "大学生购买10粒迷奸药获刑10个月",
+        "onboard_time": 1751627785,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146220,
+        "num": 146220,
+        "word": "迪丽热巴 御木本",
+        "onboard_time": 1751627785,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142939,
+        "num": 142939,
+        "word": "广东一餐厅318元套餐结账变2297元",
+        "onboard_time": 1751639066,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125388,
+        "num": 142435,
+        "word": "U16国足1比1日本U16",
+        "onboard_time": 1751638107,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110861,
+        "num": 142063,
+        "word": "吴少聪退出国家队集训",
+        "onboard_time": 1751636608,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93554,
+        "num": 141071,
+        "word": "苏超南京vs苏州一战赞助商超40家",
+        "onboard_time": 1751638227,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#厦门发展战略启示#"
+    }
+  }
+}

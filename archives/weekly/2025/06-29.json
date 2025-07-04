@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751636896760,
+  "endTime": 1751639121583,
   "band_list": [
     {
       "raw_hot": 6390116,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2508454,
+      "num": 2508454,
+      "word": "杨幂摔出了神图",
+      "onboard_time": 1751636668,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 2472851,
       "num": 2472851,
       "word": "虐猫考生被取消招聘资格",
@@ -137,6 +145,14 @@
       "onboard_time": 1751439141,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2100966,
+      "num": 334873,
+      "word": "歌手排名",
+      "onboard_time": 1751635467,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 2100791,
@@ -1227,14 +1243,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 841063,
-      "num": 225249,
-      "word": "歌手排名",
-      "onboard_time": 1751635467,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 839857,
       "num": 1134377,
       "word": "金正恩疑似悼念在俄阵亡军人画面曝光",
@@ -1268,7 +1276,7 @@
     },
     {
       "raw_hot": 828486,
-      "num": 223985,
+      "num": 267355,
       "word": "单依纯 换歌",
       "onboard_time": 1751635706,
       "rank": 12,
@@ -1809,6 +1817,14 @@
       "onboard_time": 1751428401,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 694055,
+      "num": 268773,
+      "word": "鹿晗直拍 哪里来的洋娃娃",
+      "onboard_time": 1751637026,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 692020,
@@ -2369,6 +2385,14 @@
       "onboard_time": 1751281523,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 594501,
+      "num": 268206,
+      "word": "陈楚生被谁甩了",
+      "onboard_time": 1751637746,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 592608,
@@ -3443,6 +3467,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 426022,
+      "num": 266665,
+      "word": "情歌就是陈楚生的统治区",
+      "onboard_time": 1751636726,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 424558,
       "num": 424558,
       "word": "肖战参加藏海传庆功宴",
@@ -3556,7 +3588,7 @@
     },
     {
       "raw_hot": 413266,
-      "num": 208317,
+      "num": 267107,
       "word": "李佳薇 真天后",
       "onboard_time": 1751636608,
       "rank": 20,
@@ -3972,7 +4004,7 @@
     },
     {
       "raw_hot": 369074,
-      "num": 210342,
+      "num": 266245,
       "word": "张一山的字好帅",
       "onboard_time": 1751635647,
       "rank": 16,
@@ -4121,6 +4153,14 @@
       "onboard_time": 1751207962,
       "rank": 45,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 358634,
+      "num": 358634,
+      "word": "警方介入河南大学生泰国失联14天",
+      "onboard_time": 1751634086,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 358197,
@@ -4345,6 +4385,14 @@
       "onboard_time": 1751548762,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 337122,
+      "num": 337122,
+      "word": "男子还手致人死亡被判八年家属发声",
+      "onboard_time": 1751635286,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 336919,
@@ -5147,6 +5195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 292367,
+      "num": 292367,
+      "word": "胡先煦说我不是什么星",
+      "onboard_time": 1751637625,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 292087,
       "num": 292087,
       "word": "马龙看林俊杰演唱会嗓子哑了",
@@ -5363,6 +5419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 281830,
+      "num": 267658,
+      "word": "俄罗斯发动最大规模空袭",
+      "onboard_time": 1751637746,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 281534,
       "num": 281534,
       "word": "孙恩盛店铺关联公司已经营异常",
@@ -5451,6 +5515,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 275075,
+      "num": 204997,
+      "word": "歌手收视率",
+      "onboard_time": 1751637986,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 273558,
       "num": 226734,
       "word": "李一桐曝女推在土耳其一起洗澡",
@@ -5529,6 +5601,14 @@
       "onboard_time": 1751508321,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 269611,
+      "num": 269611,
+      "word": "独居老人网购花费200万睡在快递上",
+      "onboard_time": 1751638466,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 269528,
@@ -5625,6 +5705,14 @@
       "onboard_time": 1751281282,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 265996,
+      "num": 265996,
+      "word": "太原暴雨",
+      "onboard_time": 1751637026,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 265511,
@@ -6153,14 +6241,6 @@
       "onboard_time": 1751356222,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 237555,
-      "num": 237555,
-      "word": "警方介入河南大学生泰国失联14天",
-      "onboard_time": 1751634086,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 236762,
@@ -6931,6 +7011,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 215327,
+      "num": 204182,
+      "word": "林俊杰演唱会",
+      "onboard_time": 1751193440,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 215219,
       "num": 215219,
       "word": "父母花50万带5岁儿子骑游41国",
@@ -7081,6 +7169,14 @@
       "onboard_time": 1751298982,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 211225,
+      "num": 211225,
+      "word": "使馆提醒在日中国公民防范自然灾害",
+      "onboard_time": 1751637925,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 210945,
@@ -7459,14 +7555,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 203492,
-      "num": 203492,
-      "word": "杨幂摔出了神图",
-      "onboard_time": 1751636668,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 203480,
       "num": 223658,
       "word": "刘晓庆晒照辟谣",
@@ -7609,6 +7697,22 @@
       "onboard_time": 1751519422,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 200110,
+      "num": 200110,
+      "word": "跑男",
+      "onboard_time": 1751638466,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 200036,
+      "num": 200036,
+      "word": "歌手揭榜",
+      "onboard_time": 1751638647,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 199964,
@@ -8755,6 +8859,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 182556,
+      "num": 201119,
+      "word": "AG战胜UUG",
+      "onboard_time": 1751637806,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 182241,
       "num": 182241,
       "word": "退烧药引发男童全身90%皮肤剥脱",
@@ -8809,6 +8921,14 @@
       "onboard_time": 1751287403,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 182005,
+      "num": 182005,
+      "word": "一诺跨赛季二十一大场连胜",
+      "onboard_time": 1751638167,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 181971,
@@ -9515,6 +9635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172296,
+      "num": 207383,
+      "word": "乌克兰称首都遭俄军大规模袭击",
+      "onboard_time": 1751634987,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 172236,
       "num": 172236,
       "word": "胡一天阴湿男鬼味",
@@ -9544,14 +9672,6 @@
       "word": "格格好听",
       "onboard_time": 1751632044,
       "rank": 37,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 171976,
-      "num": 171976,
-      "word": "情歌就是陈楚生的统治区",
-      "onboard_time": 1751636726,
-      "rank": 43,
       "category": "综艺"
     },
     {
@@ -11035,14 +11155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 152293,
-      "num": 152293,
-      "word": "林俊杰演唱会",
-      "onboard_time": 1751193440,
-      "rank": 36,
-      "category": "演出"
-    },
-    {
       "raw_hot": 152261,
       "num": 152261,
       "word": "普京与特朗普通话近1小时",
@@ -11859,6 +11971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142939,
+      "num": 142939,
+      "word": "广东一餐厅318元套餐结账变2297元",
+      "onboard_time": 1751639066,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142893,
       "num": 142893,
       "word": "丁程鑫加冠礼演唱会海报",
@@ -11961,14 +12081,6 @@
       "onboard_time": 1751441902,
       "rank": 34,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 141784,
-      "num": 208604,
-      "word": "男子还手致人死亡被判八年家属发声",
-      "onboard_time": 1751635286,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 141756,
@@ -12497,14 +12609,6 @@
       "onboard_time": 1751431343,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 136366,
-      "num": 207383,
-      "word": "乌克兰称首都遭俄军大规模袭击",
-      "onboard_time": 1751634987,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 136327,
@@ -13857,6 +13961,14 @@
       "onboard_time": 1751626942,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 125388,
+      "num": 142435,
+      "word": "U16国足1比1日本U16",
+      "onboard_time": 1751638107,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 125333,
@@ -16811,6 +16923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93554,
+      "num": 141071,
+      "word": "苏超南京vs苏州一战赞助商超40家",
+      "onboard_time": 1751638227,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93090,
       "num": 93090,
       "word": "台湾啦啦队大展宏图",
@@ -16953,6 +17073,14 @@
       "onboard_time": 1751290283,
       "rank": 10,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 89849,
+      "num": 1379176,
+      "word": "榕江人民永远记在心上",
+      "onboard_time": 1751625739,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 89752,
@@ -17233,14 +17361,6 @@
       "onboard_time": 1751302878,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 84382,
-      "num": 1379176,
-      "word": "榕江人民永远记在心上",
-      "onboard_time": 1751625739,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 84206,
@@ -18345,6 +18465,14 @@
       "onboard_time": 1751523082,
       "rank": 46,
       "category": "情感,艺人"
+    },
+    {
+      "raw_hot": 61280,
+      "num": 268649,
+      "word": "青海祁连大草原一夜白雪皑皑",
+      "onboard_time": 1751637685,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60932,
