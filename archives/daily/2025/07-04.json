@@ -1,10 +1,10 @@
 {
   "startTime": 1751560391149,
-  "endTime": 1751594574273,
+  "endTime": 1751595993954,
   "band_list": [
     {
       "raw_hot": 2967815,
-      "num": 382332,
+      "num": 542525,
       "word": "罗马仕 倒闭",
       "onboard_time": 1751554224,
       "rank": 5,
@@ -12,10 +12,26 @@
     },
     {
       "raw_hot": 1941981,
-      "num": 384343,
+      "num": 434356,
       "word": "关晓彤戒指",
       "onboard_time": 1751587761,
       "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1383812,
+      "num": 1383812,
+      "word": "热射病",
+      "onboard_time": 1751593761,
+      "rank": 14,
+      "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 831058,
+      "num": 588678,
+      "word": "演员赵文琪被骗",
+      "onboard_time": 1751586559,
+      "rank": 3,
       "category": "艺人"
     },
     {
@@ -25,14 +41,6 @@
       "onboard_time": 1751580795,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 773046,
-      "num": 440377,
-      "word": "演员赵文琪被骗",
-      "onboard_time": 1751586559,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 739071,
@@ -84,11 +92,19 @@
     },
     {
       "raw_hot": 521013,
-      "num": 380795,
+      "num": 485358,
       "word": "偷偷藏不住",
       "onboard_time": 1751592501,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 476063,
+      "num": 476063,
+      "word": "男孩呼吸困难母亲用塑料袋罩头急救",
+      "onboard_time": 1751592802,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 422702,
@@ -105,14 +121,6 @@
       "onboard_time": 1751592141,
       "rank": 4,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 378290,
-      "num": 378290,
-      "word": "男孩呼吸困难母亲用塑料袋罩头急救",
-      "onboard_time": 1751592802,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 371768,
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 359134,
-      "num": 195600,
+      "num": 204434,
       "word": "妻子精心打扮引丈夫怀疑被捉奸在床",
       "onboard_time": 1751585419,
       "rank": 20,
@@ -153,6 +161,14 @@
       "onboard_time": 1751584278,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 335302,
+      "num": 335302,
+      "word": "萌兰10岁生日仪式感拉满了",
+      "onboard_time": 1751593880,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 332002,
@@ -169,6 +185,22 @@
       "onboard_time": 1751589622,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 318261,
+      "num": 318261,
+      "word": "日本末世预言剩1天",
+      "onboard_time": 1751595442,
+      "rank": 12,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 312626,
+      "num": 312626,
+      "word": "甘肃幼儿园儿童血铅异常家长发声",
+      "onboard_time": 1751594540,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 309500,
@@ -211,14 +243,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 252981,
-      "num": 252981,
-      "word": "热射病",
-      "onboard_time": 1751593761,
-      "rank": 14,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 240389,
       "num": 240389,
       "word": "哇唧唧哇致歉",
@@ -233,6 +257,14 @@
       "onboard_time": 1751555484,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 218223,
+      "num": 218223,
+      "word": "陈昊森演哈鲁",
+      "onboard_time": 1751594300,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 217706,
@@ -260,7 +292,7 @@
     },
     {
       "raw_hot": 197743,
-      "num": 181562,
+      "num": 186107,
       "word": "再见江野定档",
       "onboard_time": 1751592082,
       "rank": 22,
@@ -275,12 +307,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 188134,
-      "num": 188134,
-      "word": "萌兰10岁生日仪式感拉满了",
-      "onboard_time": 1751593880,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 193617,
+      "num": 193617,
+      "word": "演员谭凯开饺子店被吐槽出餐慢",
+      "onboard_time": 1751591121,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 177087,
@@ -291,12 +323,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 170552,
-      "num": 170552,
-      "word": "演员谭凯开饺子店被吐槽出餐慢",
-      "onboard_time": 1751591121,
+      "raw_hot": 175522,
+      "num": 175522,
+      "word": "央视轻断食食谱完整版",
+      "onboard_time": 1751595621,
       "rank": 25,
-      "category": "艺人"
+      "category": "美食"
     },
     {
       "raw_hot": 169552,
@@ -323,6 +355,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 165637,
+      "num": 165637,
+      "word": "高中去世的同学没有被遗忘",
+      "onboard_time": 1751594181,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 165474,
       "num": 165474,
       "word": "一种巨掉好感的行为",
@@ -331,12 +371,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 159305,
-      "num": 154432,
-      "word": "高中去世的同学没有被遗忘",
-      "onboard_time": 1751594181,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 161928,
+      "num": 161928,
+      "word": "田栩宁口音 黄子韬",
+      "onboard_time": 1751593880,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 156746,
@@ -345,6 +385,14 @@
       "onboard_time": 1751546481,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156734,
+      "num": 156734,
+      "word": "韩国人口百年内或仅剩753万",
+      "onboard_time": 1751594781,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 155758,
@@ -363,14 +411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 154397,
-      "num": 154397,
-      "word": "田栩宁口音 黄子韬",
-      "onboard_time": 1751593880,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 152261,
       "num": 152261,
       "word": "普京与特朗普通话近1小时",
@@ -384,6 +424,22 @@
       "word": "多部门介入12岁男孩小区坠井身亡",
       "onboard_time": 1751556083,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150296,
+      "num": 150296,
+      "word": "已婚带两娃套内164平米的小家",
+      "onboard_time": 1751595201,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 148247,
+      "num": 378641,
+      "word": "使用位长15位的电话号码来了",
+      "onboard_time": 1751594540,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -419,12 +475,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 142853,
-      "num": 142853,
-      "word": "陈昊森演哈鲁",
-      "onboard_time": 1751594300,
+      "raw_hot": 142809,
+      "num": 142809,
+      "word": "游泳 腺病毒",
+      "onboard_time": 1751595742,
       "rank": 35,
-      "category": "剧集"
+      "category": "健康医疗"
     },
     {
       "raw_hot": 141376,
@@ -475,6 +531,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129187,
+      "num": 129187,
+      "word": "花花看到生日蛋糕流口水",
+      "onboard_time": 1751595980,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127914,
+      "num": 127914,
+      "word": "馊人",
+      "onboard_time": 1751595021,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125493,
       "num": 125493,
       "word": "王曼昱极致氛围感图",
@@ -497,6 +569,14 @@
       "onboard_time": 1751563097,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120422,
+      "num": 120422,
+      "word": "世卫组织呼吁大幅提高含糖饮料价格",
+      "onboard_time": 1751595621,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 117579,
@@ -547,6 +627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113706,
+      "num": 111681,
+      "word": "锦绣芳华集均13广",
+      "onboard_time": 1751595382,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113460,
       "num": 113460,
       "word": "田栩宁新剧男三",
@@ -569,6 +657,14 @@
       "onboard_time": 1751584638,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108439,
+      "num": 111165,
+      "word": "习惯性反问到底有多讨厌",
+      "onboard_time": 1751595142,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 104356,
@@ -641,6 +737,14 @@
       "onboard_time": 1751530581,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82143,
+      "num": 163458,
+      "word": "这两类蔬菜不推荐你炒着吃",
+      "onboard_time": 1751587101,
+      "rank": 28,
+      "category": "美食,健康医疗"
     },
     {
       "raw_hot": 81858,
@@ -899,12 +1003,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 29282,
-      "num": 125116,
-      "word": "使用位长15位的电话号码来了",
-      "onboard_time": 1751594540,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 32101,
+      "num": 116829,
+      "word": "纳指大涨再创历史新高",
+      "onboard_time": 1751591543,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 29070,
@@ -971,14 +1075,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 20353,
-      "num": 142097,
-      "word": "甘肃幼儿园儿童血铅异常家长发声",
-      "onboard_time": 1751594540,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 11238,
       "num": 39762,
       "word": "商务部介绍近期重点工作情况",
@@ -993,6 +1089,14 @@
       "onboard_time": 1751563158,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 9022,
+      "num": 594015,
+      "word": "国产科技文献平台打破西方垄断",
+      "onboard_time": 1751523202,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 8746,
@@ -1027,12 +1131,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 6736,
-      "num": 484245,
-      "word": "国产科技文献平台打破西方垄断",
-      "onboard_time": 1751523202,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 6003,
+      "num": 127969,
+      "word": "罗马仕还能退钱吗",
+      "onboard_time": 1751595921,
+      "rank": 38,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

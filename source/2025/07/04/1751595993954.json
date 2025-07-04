@@ -1,0 +1,410 @@
+{
+  "runTime": 1751595993954,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1383812,
+        "num": 1383812,
+        "word": "热射病",
+        "onboard_time": 1751593761,
+        "rank": 0,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 634945,
+        "num": 634945,
+        "word": "顾客退货罗马仕淘宝店余额不足",
+        "onboard_time": 1751589202,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9022,
+        "num": 594015,
+        "word": "国产科技文献平台打破西方垄断",
+        "onboard_time": 1751523202,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 831058,
+        "num": 588678,
+        "word": "演员赵文琪被骗",
+        "onboard_time": 1751586559,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 563790,
+        "num": 563790,
+        "word": "小米YU7磁吸纸巾盒卖169元",
+        "onboard_time": 1751590462,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 714355,
+        "num": 542525,
+        "word": "罗马仕 倒闭",
+        "onboard_time": 1751554224,
+        "rank": 5,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 485358,
+        "num": 485358,
+        "word": "偷偷藏不住",
+        "onboard_time": 1751592501,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 476063,
+        "num": 476063,
+        "word": "男孩呼吸困难母亲用塑料袋罩头急救",
+        "onboard_time": 1751592802,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1440474,
+        "num": 434356,
+        "word": "关晓彤戒指",
+        "onboard_time": 1751587761,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148247,
+        "num": 378641,
+        "word": "使用位长15位的电话号码来了",
+        "onboard_time": 1751594540,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 348820,
+        "num": 348820,
+        "word": "萌兰10岁啦花花和叶5岁啦",
+        "onboard_time": 1751584458,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335302,
+        "num": 335302,
+        "word": "萌兰10岁生日仪式感拉满了",
+        "onboard_time": 1751593880,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318261,
+        "num": 318261,
+        "word": "日本末世预言剩1天",
+        "onboard_time": 1751595442,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 312626,
+        "num": 312626,
+        "word": "甘肃幼儿园儿童血铅异常家长发声",
+        "onboard_time": 1751594540,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307564,
+        "num": 307564,
+        "word": "田栩宁新剧开机",
+        "onboard_time": 1751587761,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282917,
+        "num": 282917,
+        "word": "CFO暴打T1",
+        "onboard_time": 1751592141,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 265057,
+        "num": 265057,
+        "word": "李惠利泡泡道歉",
+        "onboard_time": 1751589622,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233518,
+        "num": 233518,
+        "word": "沈月七月的一天开机路透",
+        "onboard_time": 1751591182,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218223,
+        "num": 218223,
+        "word": "陈昊森演哈鲁",
+        "onboard_time": 1751594300,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205113,
+        "num": 205113,
+        "word": "跟着央视轻断食食谱吃一天瘦了2.5斤",
+        "onboard_time": 1751586139,
+        "rank": 19,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 307396,
+        "num": 204434,
+        "word": "妻子精心打扮引丈夫怀疑被捉奸在床",
+        "onboard_time": 1751585419,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193617,
+        "num": 193617,
+        "word": "演员谭凯开饺子店被吐槽出餐慢",
+        "onboard_time": 1751591121,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190129,
+        "num": 190129,
+        "word": "夜爬泰山 误闯天家",
+        "onboard_time": 1751580795,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187336,
+        "num": 187336,
+        "word": "方敏雅温朱万结婚",
+        "onboard_time": 1751591420,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186107,
+        "num": 186107,
+        "word": "再见江野定档",
+        "onboard_time": 1751592082,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175522,
+        "num": 175522,
+        "word": "央视轻断食食谱完整版",
+        "onboard_time": 1751595621,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 168080,
+        "num": 168080,
+        "word": "相亲次日就领证后发现女方隐瞒病情",
+        "onboard_time": 1751554282,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165637,
+        "num": 165637,
+        "word": "高中去世的同学没有被遗忘",
+        "onboard_time": 1751594181,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 82143,
+        "num": 163458,
+        "word": "这两类蔬菜不推荐你炒着吃",
+        "onboard_time": 1751587101,
+        "rank": 28,
+        "category": "美食,健康医疗"
+      },
+      {
+        "raw_hot": 161928,
+        "num": 161928,
+        "word": "田栩宁口音 黄子韬",
+        "onboard_time": 1751593880,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156734,
+        "num": 156734,
+        "word": "韩国人口百年内或仅剩753万",
+        "onboard_time": 1751594781,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 150296,
+        "num": 150296,
+        "word": "已婚带两娃套内164平米的小家",
+        "onboard_time": 1751595201,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148859,
+        "num": 148859,
+        "word": "哇唧唧哇致歉",
+        "onboard_time": 1751589383,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146984,
+        "num": 146984,
+        "word": "雨果因签证问题无缘美国大满贯",
+        "onboard_time": 1751584278,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145644,
+        "num": 145644,
+        "word": "女歌手每天喝4杯奶茶导致失声",
+        "onboard_time": 1751550082,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142809,
+        "num": 142809,
+        "word": "游泳 腺病毒",
+        "onboard_time": 1751595742,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 141743,
+        "num": 141743,
+        "word": "肖战少白军装",
+        "onboard_time": 1751587462,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129187,
+        "num": 129187,
+        "word": "花花看到生日蛋糕流口水",
+        "onboard_time": 1751595980,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6003,
+        "num": 127969,
+        "word": "罗马仕还能退钱吗",
+        "onboard_time": 1751595921,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127914,
+        "num": 127914,
+        "word": "馊人",
+        "onboard_time": 1751595021,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120422,
+        "num": 120422,
+        "word": "世卫组织呼吁大幅提高含糖饮料价格",
+        "onboard_time": 1751595621,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 119879,
+        "num": 119879,
+        "word": "猫咪不懂但尊重小朋友的要求",
+        "onboard_time": 1751593880,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 32101,
+        "num": 116829,
+        "word": "纳指大涨再创历史新高",
+        "onboard_time": 1751591543,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 116828,
+        "num": 116828,
+        "word": "25岁杀夫新娘和舅舅有15年非法关系",
+        "onboard_time": 1751557701,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 111895,
+        "num": 111895,
+        "word": "亚洲生育率最高的国家",
+        "onboard_time": 1751558361,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 113706,
+        "num": 111681,
+        "word": "锦绣芳华集均13广",
+        "onboard_time": 1751595382,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108439,
+        "num": 111165,
+        "word": "习惯性反问到底有多讨厌",
+        "onboard_time": 1751595142,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107165,
+        "num": 111010,
+        "word": "普京与特朗普通话近1小时",
+        "onboard_time": 1751586080,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106772,
+        "num": 110295,
+        "word": "女子熟睡被男友持刀架在脖子上",
+        "onboard_time": 1751560878,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110290,
+        "num": 110290,
+        "word": "王曼昱极致氛围感图",
+        "onboard_time": 1751593342,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋力书写挺膺担当的青春篇章#"
+    }
+  }
+}
