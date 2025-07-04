@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/05 00:32:13 ~ 2025/07/05 00:32:13
+本榜单时间：2025/07/05 00:32:13 ~ 2025/07/05 00:47:32
 </p>
 </blockquote>
 <p>
@@ -16,7 +16,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%23" target="weibo">
-日本（热度：2133042）
+日本（热度：2497507）
 </a>
 </li>
 
@@ -35,6 +35,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E9%9D%A2%E9%A6%86%E8%A2%AB%E6%9B%9D%E5%B0%86%E5%89%A9%E9%9D%A2%E4%BA%8C%E6%AC%A1%E4%B8%8A%E6%A1%8C%23" target="weibo">
 上海一面馆被曝将剩面二次上桌（热度：759802）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E6%9A%B4%E9%9B%A8%E8%87%B4%E5%AE%B6%E9%87%8C%E6%8F%92%E5%BA%A7%E5%87%BA%E6%B0%B4%E6%88%90%E7%80%91%E5%B8%83%23" target="weibo">
+成都暴雨致家里插座出水成瀑布（热度：697235）
 </a>
 </li>
 
@@ -71,12 +77,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%A5%B3%E5%84%BF%E5%9D%87%E6%82%A3%E7%99%8C39%E5%B2%81%E7%94%B7%E5%AD%90%E6%8E%A9%E9%9D%A2%E7%97%9B%E5%93%AD%23" target="weibo">
 父亲女儿均患癌39岁男子掩面痛哭（热度：400020）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E6%9A%B4%E9%9B%A8%E8%87%B4%E5%AE%B6%E9%87%8C%E6%8F%92%E5%BA%A7%E5%87%BA%E6%B0%B4%E6%88%90%E7%80%91%E5%B8%83%23" target="weibo">
-成都暴雨致家里插座出水成瀑布（热度：372666）
 </a>
 </li>
 
@@ -231,6 +231,18 @@ TVB演员雪妮病逝（热度：123255）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AC%A0%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%AE%B6%E6%95%99%E8%B4%B9%E8%80%81%E8%B5%96%E5%80%BA%E4%B8%BB%E9%81%8D%E5%B8%83%E5%85%A8%E5%9B%BD%23" target="weibo">
+欠女大学生家教费老赖债主遍布全国（热度：114058）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2367%E5%B2%81%E4%B8%88%E5%A4%AB%E5%87%BA%E8%BD%A850%E5%B2%81%E9%97%BA%E8%9C%9C%E5%A6%BB%E5%AD%90%E6%80%92%E5%91%8A%E4%BA%8C%E4%BA%BA%23" target="weibo">
+67岁丈夫出轨50岁闺蜜妻子怒告二人（热度：113139）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A9%BA%E8%B0%83%E5%BC%80%E9%99%A4%E6%B9%BF%E6%A8%A1%E5%BC%8F%E5%88%AB%E8%B6%852%E5%B0%8F%E6%97%B6%23" target="weibo">
 空调开除湿模式别超2小时（热度：104111）
 </a>
@@ -261,6 +273,12 @@ TVB演员雪妮病逝（热度：123255）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%9019.9%E5%85%83%E4%B9%B0%E9%87%91%E6%8C%82%E4%BB%B6%E7%86%94%E5%90%8E%E4%B8%8D%E8%A7%81%E9%BB%84%E9%87%91%23" target="weibo">
+女子19.9元买金挂件熔后不见黄金（热度：92473）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E7%9B%B4%E6%92%AD%23" target="weibo">
 歌手直播（热度：91340）
 </a>
@@ -285,6 +303,12 @@ TVB演员雪妮病逝（热度：123255）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E7%9B%B4%E6%8B%8D%20%E5%93%AA%E9%87%8C%E6%9D%A5%E7%9A%84%E6%B4%8B%E5%A8%83%E5%A8%83%23" target="weibo">
+鹿晗直拍 哪里来的洋娃娃（热度：82765）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2320%E5%B2%81%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9C%A8%E4%B8%BD%E6%B1%9F%E5%A4%B1%E8%81%943%E5%A4%A9%23" target="weibo">
 20岁女大学生在丽江失联3天（热度：81326）
 </a>
@@ -304,7 +328,19 @@ TVB演员雪妮病逝（热度：123255）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E9%93%85%E4%B8%AD%E6%AF%92%E6%BA%90%E5%A4%B4%E5%B0%9A%E6%9C%AA%E6%9F%A5%E6%98%8E%23" target="weibo">
-幼儿园铅中毒源头尚未查明（热度：64588）
+幼儿园铅中毒源头尚未查明（热度：78904）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E8%88%B0%E6%8B%8D%E8%BF%99%E4%B9%88%E5%A4%A7%E4%BB%A5%E5%90%8E%E6%80%8E%E4%B9%88%E5%BF%BD%E6%82%A0%E5%88%AB%E4%BA%BA%23" target="weibo">
+山东舰拍这么大以后怎么忽悠别人（热度：72129）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%9C%88%E7%BF%9F%E6%BD%87%E9%97%BB%E6%8A%AC%E6%A1%8C%E5%AD%90%E6%B2%A1%E6%9C%89%E4%B8%80%E7%A7%92%E4%B8%8D%E5%A5%BD%E7%AC%91%23" target="weibo">
+沈月翟潇闻抬桌子没有一秒不好笑（热度：67991）
 </a>
 </li>
 
