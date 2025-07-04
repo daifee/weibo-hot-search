@@ -1,6 +1,6 @@
 {
   "startTime": 1751646733900,
-  "endTime": 1751667940494,
+  "endTime": 1751669052992,
   "band_list": [
     {
       "raw_hot": 2497507,
@@ -27,19 +27,19 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 810277,
+      "num": 810277,
+      "word": "67岁丈夫出轨50岁闺蜜妻子怒告二人",
+      "onboard_time": 1751647162,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 759802,
       "num": 759802,
       "word": "上海一面馆被曝将剩面二次上桌",
       "onboard_time": 1751641107,
       "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 699012,
-      "num": 699012,
-      "word": "67岁丈夫出轨50岁闺蜜妻子怒告二人",
-      "onboard_time": 1751647162,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -267,6 +267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 149882,
+      "num": 88430,
+      "word": "山东舰拍这么大以后怎么忽悠别人",
+      "onboard_time": 1751647221,
+      "rank": 46,
+      "category": "军事"
+    },
+    {
       "raw_hot": 149360,
       "num": 149360,
       "word": "新加坡赴中国游客激增",
@@ -281,6 +289,14 @@
       "onboard_time": 1751639066,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142972,
+      "num": 113334,
+      "word": "林志玲说带孩子没有优雅这件事",
+      "onboard_time": 1751658435,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 139777,
@@ -305,14 +321,6 @@
       "onboard_time": 1751627785,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 123871,
-      "num": 106099,
-      "word": "林志玲说带孩子没有优雅这件事",
-      "onboard_time": 1751658435,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 123255,
@@ -347,8 +355,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104973,
-      "num": 104973,
+      "raw_hot": 114948,
+      "num": 114948,
+      "word": "违停者屡次开门杀车主自费装护栏",
+      "onboard_time": 1751648780,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111698,
+      "num": 111698,
       "word": "意大利男子靠近熊自拍被拖入山沟",
       "onboard_time": 1751651178,
       "rank": 31,
@@ -361,14 +377,6 @@
       "onboard_time": 1751641945,
       "rank": 39,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 101006,
-      "num": 88430,
-      "word": "山东舰拍这么大以后怎么忽悠别人",
-      "onboard_time": 1751647221,
-      "rank": 46,
-      "category": "军事"
     },
     {
       "raw_hot": 99641,
@@ -419,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84551,
+      "num": 132058,
+      "word": "20岁女大学生在丽江失联3天",
+      "onboard_time": 1751644883,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84505,
       "num": 84505,
       "word": "被邻居带去游泳溺亡女孩母亲发声",
@@ -443,14 +459,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 81326,
-      "num": 132058,
-      "word": "20岁女大学生在丽江失联3天",
-      "onboard_time": 1751644883,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 80618,
       "num": 80618,
       "word": "跑男",
@@ -472,14 +480,6 @@
       "word": "幼儿园铅中毒源头尚未查明",
       "onboard_time": 1751644883,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 78455,
-      "num": 113377,
-      "word": "违停者屡次开门杀车主自费装护栏",
-      "onboard_time": 1751648780,
-      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -523,6 +523,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 35256,
+      "num": 35256,
+      "word": "马小宇蛐蛐余茵被找上门了",
+      "onboard_time": 1751666054,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 34953,
+      "num": 34953,
+      "word": "吴启华回应澳门豪赌传闻",
+      "onboard_time": 1751667195,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 31013,
       "num": 31013,
       "word": "纸嫁衣8剧情",
@@ -532,7 +548,7 @@
     },
     {
       "raw_hot": 28441,
-      "num": 32886,
+      "num": 34929,
       "word": "印度计划对美征收报复性关税",
       "onboard_time": 1751664914,
       "rank": 46,
@@ -547,14 +563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 27119,
-      "num": 32855,
-      "word": "马小宇蛐蛐余茵被找上门了",
-      "onboard_time": 1751666054,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 26345,
       "num": 26345,
       "word": "张峻豪一个月写了八首歌",
@@ -564,7 +572,7 @@
     },
     {
       "raw_hot": 25073,
-      "num": 32767,
+      "num": 34919,
       "word": "爱到最后全凭良心",
       "onboard_time": 1751659453,
       "rank": 40,
@@ -585,14 +593,6 @@
       "onboard_time": 1751648180,
       "rank": 47,
       "category": "军事"
-    },
-    {
-      "raw_hot": 23491,
-      "num": 32793,
-      "word": "吴启华回应澳门豪赌传闻",
-      "onboard_time": 1751667195,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 18630,
@@ -617,6 +617,14 @@
       "onboard_time": 1751657775,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 15292,
+      "num": 35685,
+      "word": "浙BA发布会在高架桥下举行",
+      "onboard_time": 1751668517,
+      "rank": 39,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
