@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/04 19:23:54
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/04 19:39:18
 </p>
 </blockquote>
 <p>
@@ -579,6 +579,12 @@ K1373次列车上砸窗男子并未被拘留（热度：901265）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9E%92%E7%9D%80%E5%85%A8%E5%AE%B6%E4%BA%BA%E8%80%83%E4%B8%8A%E4%BA%86%E5%8C%97%E5%A4%A7%23" target="weibo">
+瞒着全家人考上了北大（热度：842156）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%AD%A3%E6%81%A9%E7%96%91%E4%BC%BC%E6%82%BC%E5%BF%B5%E5%9C%A8%E4%BF%84%E9%98%B5%E4%BA%A1%E5%86%9B%E4%BA%BA%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89%23" target="weibo">
 金正恩疑似悼念在俄阵亡军人画面曝光（热度：839857）
 </a>
@@ -593,6 +599,12 @@ K1373次列车上砸窗男子并未被拘留（热度：901265）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9F%AF%E5%AE%87%20%E9%A1%B6%E7%BA%A7%E8%BF%87%E8%82%BA%23" target="weibo">
 周柯宇 顶级过肺（热度：835505）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E8%B8%A9%E5%88%B0%E8%A3%99%E5%AD%90%E6%91%94%E5%80%92%23" target="weibo">
+杨幂踩到裙子摔倒（热度：831071）
 </a>
 </li>
 
@@ -665,12 +677,6 @@ K1373次列车上砸窗男子并未被拘留（热度：901265）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%8D%B0%E5%BA%A6%E6%9C%896%E4%B8%AA%E4%BB%86%E4%BA%BA%E4%BD%86%E7%94%B5%E8%A7%8650%E5%AF%B8%23" target="weibo">
 在印度有6个仆人但电视50寸（热度：794778）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9E%92%E7%9D%80%E5%85%A8%E5%AE%B6%E4%BA%BA%E8%80%83%E4%B8%8A%E4%BA%86%E5%8C%97%E5%A4%A7%23" target="weibo">
-瞒着全家人考上了北大（热度：791036）
 </a>
 </li>
 
@@ -2307,6 +2313,12 @@ T1战胜CFO（热度：323423）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E5%BE%A1%E6%9C%A8%E6%9C%AC%23" target="weibo">
+迪丽热巴 御木本（热度：312201）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%8B%E4%BC%A4%E8%AE%A9%E6%9F%A5%E5%89%8D%E5%88%97%E8%85%BA%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23" target="weibo">
 手伤让查前列腺当事人家属发声（热度：311691）
 </a>
@@ -2411,6 +2423,12 @@ BTS全员直播（热度：310669）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%81%AB%E8%BD%A6%E7%AA%81%E5%8F%91%E4%BA%8B%E6%95%85%E5%81%9C%E8%BD%A6%E6%96%AD%E7%94%B5%E4%B9%98%E5%AE%A2%E7%A0%B8%E7%AA%97%E9%80%9A%E9%A3%8E%23" target="weibo">
 火车突发事故停车断电乘客砸窗通风（热度：297968）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%E6%AD%8C%E6%89%8B%E7%AB%9E%E6%BC%94%E5%89%8D%E7%9B%B4%E6%92%AD%23" target="weibo">
+单依纯歌手竞演前直播（热度：297691）
 </a>
 </li>
 
@@ -2889,6 +2907,12 @@ fx合体（热度：283131）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E5%81%87%E5%90%83%E6%88%98%E7%BB%A9%E5%8F%AF%E6%9F%A5%23" target="weibo">
+丁禹兮假吃战绩可查（热度：238744）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8D%A8%E9%BA%BB%E7%96%B9%23" target="weibo">
 荨麻疹（热度：238312）
 </a>
@@ -3315,12 +3339,6 @@ aespa后台自拍（热度：216318）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E5%81%87%E5%90%83%E6%88%98%E7%BB%A9%E5%8F%AF%E6%9F%A5%23" target="weibo">
-丁禹兮假吃战绩可查（热度：216187）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%A5%B3%E6%98%9F%E6%9D%8E%E5%B1%BF%E8%BF%A9%E5%8E%BB%E4%B8%96%23" target="weibo">
 韩国女星李屿迩去世（热度：216114）
 </a>
@@ -3561,6 +3579,12 @@ GEN战胜G2（热度：215673）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B010%E7%B2%92%E8%BF%B7%E5%A5%B8%E8%8D%AF%E8%8E%B7%E5%88%9110%E4%B8%AA%E6%9C%88%23" target="weibo">
+大学生购买10粒迷奸药获刑10个月（热度：204545）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%BC%94%E6%8A%80%E7%BB%86%E8%8A%82%23" target="weibo">
 杨紫演技细节（热度：204302）
 </a>
@@ -3587,6 +3611,12 @@ GEN战胜G2（热度：215673）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%93%E6%A3%80%E6%97%A0%E5%BC%82%E5%B8%B8%E5%8F%91%E7%8E%B0%E5%8D%B4%E6%98%AF%E6%99%9A%E6%9C%9F%23" target="weibo">
 为什么体检无异常发现却是晚期（热度：203581）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%97%8F%E6%B5%B7%E4%BC%A0%E9%9B%86%E5%9D%87%E6%92%AD%E6%94%BE%E9%87%8F%E7%A0%B47000%E4%B8%87%23" target="weibo">
+藏海传集均播放量破7000万（热度：203189）
 </a>
 </li>
 
@@ -4209,12 +4239,6 @@ C罗一诺电竞世界杯同框（热度：187743）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E5%BE%A1%E6%9C%A8%E6%9C%AC%23" target="weibo">
-迪丽热巴 御木本（热度：181039）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E7%9B%B4%E6%92%AD%23" target="weibo">
 雷军直播（热度：180962）
 </a>
@@ -4739,6 +4763,12 @@ MSI（热度：166252）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E5%93%AD%E4%BA%86%23" target="weibo">
 张小斐哭了（热度：164731）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E7%9B%B4%E6%92%AD%23" target="weibo">
+歌手直播（热度：164485）
 </a>
 </li>
 
@@ -5835,12 +5865,6 @@ JDG对战情久（热度：138610）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B010%E7%B2%92%E8%BF%B7%E5%A5%B8%E8%8D%AF%E8%8E%B7%E5%88%9110%E4%B8%AA%E6%9C%88%23" target="weibo">
-大学生购买10粒迷奸药获刑10个月（热度：137469）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E4%BA%BA%E5%90%83%E9%BB%84%E6%B2%B9%E4%B8%8E%E9%9D%A2%E5%8C%85%E7%94%9C%E5%93%81%E5%8F%91%E7%83%A7%E8%85%B9%E6%B3%BB%23" target="weibo">
 多人吃黄油与面包甜品发烧腹泻（热度：137427）
 </a>
@@ -5987,30 +6011,6 @@ AL发布Kael采访声明（热度：134887）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%933.4%23" target="weibo">
 星穹铁道3.4（热度：134788）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%9D%96%E8%AF%B4%E6%9C%89%E4%B8%AA%E6%B0%B8%E8%BF%9C%E6%B2%A1%E6%9C%89%E5%AE%89%E9%9D%99%E7%9A%846%E4%BA%BA%E5%B7%A5%E4%BD%9C%E7%BE%A4%23" target="weibo">
-金靖说有个永远没有安静的6人工作群（热度：134722）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%92%8B%E6%A2%A6%E5%A9%95%E6%BE%84%E6%B8%85%E7%BD%91%E4%BC%A0%E8%BA%AB%E9%AB%98155%23" target="weibo">
-蒋梦婕澄清网传身高155（热度：134575）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E4%BD%95%E6%83%9F%E8%8A%B3%E5%9C%A8%E5%A4%A7%E7%81%AB%E5%89%8D%E6%B7%A1%E5%AE%9A%E5%BC%B9%E7%90%B5%E7%90%B6%23" target="weibo">
-杨紫何惟芳在大火前淡定弹琵琶（热度：134570）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E5%BD%A9%E7%A5%A8%E5%AE%88%E5%8F%B71%E5%B9%B4%E5%B0%B1%E4%B8%AD%E5%A5%961030%E4%B8%87%E5%85%83%23" target="weibo">
-小伙彩票守号1年就中奖1030万元（热度：134483）
 </a>
 </li>
 

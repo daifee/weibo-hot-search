@@ -1,0 +1,410 @@
+{
+  "runTime": 1751629158473,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 842156,
+        "num": 1134745,
+        "word": "瞒着全家人考上了北大",
+        "onboard_time": 1751624961,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 831071,
+        "num": 831071,
+        "word": "杨幂踩到裙子摔倒",
+        "onboard_time": 1751628443,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 70051,
+        "num": 592186,
+        "word": "榕江人民永远记在心上",
+        "onboard_time": 1751625739,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 414536,
+        "num": 414536,
+        "word": "民航飞行员过剩",
+        "onboard_time": 1751617885,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 363269,
+        "num": 363269,
+        "word": "微信删过的人不要加第二次",
+        "onboard_time": 1751614223,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 312201,
+        "num": 312201,
+        "word": "迪丽热巴 御木本",
+        "onboard_time": 1751627785,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244377,
+        "num": 244377,
+        "word": "建议大家都去频繁大量地记录自己",
+        "onboard_time": 1751615064,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 238744,
+        "num": 238744,
+        "word": "丁禹兮假吃战绩可查",
+        "onboard_time": 1751626463,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206155,
+        "num": 206155,
+        "word": "DeepSeek给王一博道歉是假的",
+        "onboard_time": 1751604325,
+        "rank": 8,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 122700,
+        "num": 206050,
+        "word": "山东舰上还有2只舰载熊猫",
+        "onboard_time": 1751628143,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1377369,
+        "num": 206010,
+        "word": "日本末世预言剩1天有人撤离",
+        "onboard_time": 1751614103,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1158080,
+        "num": 205929,
+        "word": "田栩宁女友置顶官宣照",
+        "onboard_time": 1751609542,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40934,
+        "num": 205788,
+        "word": "荣耀MagicV5血条太厚了",
+        "onboard_time": 1751625201,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 850898,
+        "num": 205694,
+        "word": "29岁身高从165厘米到171厘米",
+        "onboard_time": 1751626283,
+        "rank": 13,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 56392,
+        "num": 205608,
+        "word": "人社局称招服务员要求本科不算歧视",
+        "onboard_time": 1751628682,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173939,
+        "num": 205454,
+        "word": "冷水澡 减肥",
+        "onboard_time": 1751614763,
+        "rank": 15,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 506910,
+        "num": 205325,
+        "word": "日本华人就末世预言发声",
+        "onboard_time": 1751621542,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 476404,
+        "num": 205241,
+        "word": "关晓彤姜涛肯定吃不到一起",
+        "onboard_time": 1751625081,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430817,
+        "num": 205145,
+        "word": "日本末世预言剩1天",
+        "onboard_time": 1751595442,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 53552,
+        "num": 204975,
+        "word": "400多只猫被装进货车部分是品种猫",
+        "onboard_time": 1751628143,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372923,
+        "num": 204946,
+        "word": "韩安冉展示三胎孕肚",
+        "onboard_time": 1751613504,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 297691,
+        "num": 204774,
+        "word": "单依纯歌手竞演前直播",
+        "onboard_time": 1751628802,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289923,
+        "num": 204704,
+        "word": "汉南洞偶遇孙莉黄多多",
+        "onboard_time": 1751623042,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219321,
+        "num": 204562,
+        "word": "这居然是柯佳嬿",
+        "onboard_time": 1751626823,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204545,
+        "num": 204545,
+        "word": "大学生购买10粒迷奸药获刑10个月",
+        "onboard_time": 1751627785,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203189,
+        "num": 203189,
+        "word": "藏海传集均播放量破7000万",
+        "onboard_time": 1751628923,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186999,
+        "num": 186999,
+        "word": "BLACKPINK高阳演唱会彩排",
+        "onboard_time": 1751623641,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 164485,
+        "num": 164485,
+        "word": "歌手直播",
+        "onboard_time": 1751628923,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160109,
+        "num": 160109,
+        "word": "潘展乐采访一如既往耿直",
+        "onboard_time": 1751625021,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146293,
+        "num": 154652,
+        "word": "张纪中小女儿被保姆烫伤",
+        "onboard_time": 1751612422,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171268,
+        "num": 152884,
+        "word": "日本漫画家预言已有10个应验",
+        "onboard_time": 1751613443,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 149685,
+        "num": 149685,
+        "word": "又有游泳跳水等比赛看了",
+        "onboard_time": 1751625680,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131087,
+        "num": 131087,
+        "word": "以法之名",
+        "onboard_time": 1751626403,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130945,
+        "num": 130945,
+        "word": "空调一开就冷一关就热",
+        "onboard_time": 1751627062,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126486,
+        "num": 126486,
+        "word": "章子怡发言美得不知天地为何物",
+        "onboard_time": 1751626584,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126485,
+        "num": 126485,
+        "word": "浙BA来了",
+        "onboard_time": 1751628083,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120596,
+        "num": 120596,
+        "word": "书卷一梦22集开虐预警",
+        "onboard_time": 1751628682,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116882,
+        "num": 116882,
+        "word": "最近补偿心理太严重了",
+        "onboard_time": 1751629043,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112149,
+        "num": 112149,
+        "word": "香港老人登上山东舰的反应让人泪目",
+        "onboard_time": 1751622983,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72583,
+        "num": 110659,
+        "word": "21岁女大学生健身一年的变化",
+        "onboard_time": 1751623881,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 109705,
+        "num": 109705,
+        "word": "田栩宁男三升男二",
+        "onboard_time": 1751615902,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109223,
+        "num": 109223,
+        "word": "披荆斩棘5一公",
+        "onboard_time": 1751629103,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107691,
+        "num": 107691,
+        "word": "新加坡偶遇林志玲一家三口",
+        "onboard_time": 1751627605,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107627,
+        "num": 107627,
+        "word": "迪丽热巴发九宫图告别开推3",
+        "onboard_time": 1751611402,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107423,
+        "num": 107423,
+        "word": "南珩掉马",
+        "onboard_time": 1751627422,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106196,
+        "num": 106196,
+        "word": "山东舰航母编队又燃又帅",
+        "onboard_time": 1751617946,
+        "rank": 45,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 104313,
+        "num": 104313,
+        "word": "张靓颖张天爱九万字给我钓成翘嘴",
+        "onboard_time": 1751628742,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103272,
+        "num": 103272,
+        "word": "王源否认新专造型撞脸唔西迪西",
+        "onboard_time": 1751627541,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 101856,
+        "num": 101856,
+        "word": "爷爷下河捡玩具孙女拽衣哭喊不要了",
+        "onboard_time": 1751615783,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98455,
+        "num": 98455,
+        "word": "TES与WBG互换辅助",
+        "onboard_time": 1751611042,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#这颗炙热的向党之心令人感动#"
+    }
+  }
+}
