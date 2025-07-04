@@ -1,0 +1,410 @@
+{
+  "runTime": 1751636896760,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5107450,
+        "num": 5107450,
+        "word": "李佳薇太牛了",
+        "onboard_time": 1751632946,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2982827,
+        "num": 2982827,
+        "word": "单依纯 王菲在唱那英的歌",
+        "onboard_time": 1751634567,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74021,
+        "num": 1379176,
+        "word": "榕江人民永远记在心上",
+        "onboard_time": 1751625739,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 433918,
+        "num": 433918,
+        "word": "10元快剪店理发师月入2万元",
+        "onboard_time": 1751629643,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 373954,
+        "num": 373954,
+        "word": "瞒着全家人考上了北大",
+        "onboard_time": 1751624961,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 227665,
+        "num": 227665,
+        "word": "微信删过的人不要加第二次",
+        "onboard_time": 1751614223,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 841063,
+        "num": 225249,
+        "word": "歌手排名",
+        "onboard_time": 1751635467,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 828486,
+        "num": 223985,
+        "word": "单依纯 换歌",
+        "onboard_time": 1751635706,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222143,
+        "num": 222143,
+        "word": "警方介入河南大学生泰国失联14天",
+        "onboard_time": 1751634086,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210245,
+        "num": 210245,
+        "word": "绝区零",
+        "onboard_time": 1751635706,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 830666,
+        "num": 210218,
+        "word": "日本末世预言剩1天有人撤离",
+        "onboard_time": 1751614103,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 791528,
+        "num": 210036,
+        "word": "田栩宁女友置顶官宣照",
+        "onboard_time": 1751609542,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 731488,
+        "num": 209787,
+        "word": "歌手直播",
+        "onboard_time": 1751628923,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 681585,
+        "num": 209586,
+        "word": "天水幼儿园血铅异常超50人邻省血检",
+        "onboard_time": 1751632705,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 617925,
+        "num": 209376,
+        "word": "TVB演员雪妮病逝",
+        "onboard_time": 1751631624,
+        "rank": 14,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 529597,
+        "num": 209263,
+        "word": "GAI是不是又想走了",
+        "onboard_time": 1751631864,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369074,
+        "num": 209048,
+        "word": "张一山的字好帅",
+        "onboard_time": 1751635647,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294943,
+        "num": 208781,
+        "word": "29岁身高从165厘米到171厘米",
+        "onboard_time": 1751626283,
+        "rank": 17,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 250573,
+        "num": 208580,
+        "word": "日本末世预言剩1天",
+        "onboard_time": 1751595442,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 84515,
+        "num": 208404,
+        "word": "为什么豪车高配才给四驱",
+        "onboard_time": 1751632705,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 413266,
+        "num": 208317,
+        "word": "李佳薇 真天后",
+        "onboard_time": 1751636608,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 390272,
+        "num": 207969,
+        "word": "何惟芳蒋长扬亲好猛",
+        "onboard_time": 1751631744,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320854,
+        "num": 207832,
+        "word": "DeepSeek给王一博道歉是假的",
+        "onboard_time": 1751604325,
+        "rank": 22,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 303018,
+        "num": 207699,
+        "word": "海泉淘汰了",
+        "onboard_time": 1751631503,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136366,
+        "num": 207383,
+        "word": "乌克兰称首都遭俄军大规模袭击",
+        "onboard_time": 1751634987,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 266747,
+        "num": 207332,
+        "word": "披荆斩棘5淘汰",
+        "onboard_time": 1751636126,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141784,
+        "num": 207030,
+        "word": "男子还手致人死亡被判八年家属发声",
+        "onboard_time": 1751635286,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120398,
+        "num": 206868,
+        "word": "山东舰航母编队又燃又帅",
+        "onboard_time": 1751617946,
+        "rank": 27,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 117046,
+        "num": 206620,
+        "word": "人社局称招服务员要求本科不算歧视",
+        "onboard_time": 1751628682,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206605,
+        "num": 206605,
+        "word": "何炅回应海泉淘汰",
+        "onboard_time": 1751636007,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77057,
+        "num": 204029,
+        "word": "多国对美国态度逐渐强硬",
+        "onboard_time": 1751635826,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 217274,
+        "num": 203830,
+        "word": "刘端端体制内的魅力",
+        "onboard_time": 1751631264,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214696,
+        "num": 203662,
+        "word": "日本华人就末世预言发声",
+        "onboard_time": 1751621542,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 203492,
+        "num": 203492,
+        "word": "杨幂摔出了神图",
+        "onboard_time": 1751636668,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 196135,
+        "num": 196135,
+        "word": "张钰琪冲刺复赛只有一票",
+        "onboard_time": 1751635766,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188534,
+        "num": 188534,
+        "word": "心疼格格",
+        "onboard_time": 1751631624,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186308,
+        "num": 186308,
+        "word": "交往6年男友竟是刑满释放人员",
+        "onboard_time": 1751630845,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185809,
+        "num": 185809,
+        "word": "披荆斩棘5",
+        "onboard_time": 1751635826,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119714,
+        "num": 182947,
+        "word": "吴少聪退出国家队集训",
+        "onboard_time": 1751636608,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114981,
+        "num": 181560,
+        "word": "饿时馒头贵 饱时玫瑰香",
+        "onboard_time": 1751636186,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181140,
+        "num": 181140,
+        "word": "以法之名我果然没看错你",
+        "onboard_time": 1751636007,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180922,
+        "num": 180922,
+        "word": "建议大家都去频繁大量地记录自己",
+        "onboard_time": 1751615064,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178687,
+        "num": 178687,
+        "word": "鹿晗青岛演唱会",
+        "onboard_time": 1751630905,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 171976,
+        "num": 171976,
+        "word": "情歌就是陈楚生的统治区",
+        "onboard_time": 1751636726,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165600,
+        "num": 165600,
+        "word": "迪丽热巴 御木本",
+        "onboard_time": 1751627785,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142749,
+        "num": 142749,
+        "word": "歌手开播收视率",
+        "onboard_time": 1751634204,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140592,
+        "num": 140592,
+        "word": "大学生购买10粒迷奸药获刑10个月",
+        "onboard_time": 1751627785,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106254,
+        "num": 130568,
+        "word": "F1",
+        "onboard_time": 1751636246,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110488,
+        "num": 128175,
+        "word": "王楚钦给小朋友签名",
+        "onboard_time": 1751634024,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127280,
+        "num": 127280,
+        "word": "披荆斩棘5一公",
+        "onboard_time": 1751629103,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#这颗炙热的向党之心令人感动#"
+    }
+  }
+}

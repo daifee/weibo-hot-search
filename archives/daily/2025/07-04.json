@@ -1,6 +1,6 @@
 {
   "startTime": 1751560391149,
-  "endTime": 1751636220571,
+  "endTime": 1751636896760,
   "band_list": [
     {
       "raw_hot": 6390116,
@@ -27,20 +27,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 2982827,
+      "num": 2982827,
+      "word": "单依纯 王菲在唱那英的歌",
+      "onboard_time": 1751634567,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2967815,
       "num": 542525,
       "word": "罗马仕 倒闭",
       "onboard_time": 1751554224,
       "rank": 5,
       "category": "民生新闻,数码"
-    },
-    {
-      "raw_hot": 2826598,
-      "num": 2826598,
-      "word": "单依纯 王菲在唱那英的歌",
-      "onboard_time": 1751634567,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 2810309,
@@ -227,6 +227,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 841063,
+      "num": 225249,
+      "word": "歌手排名",
+      "onboard_time": 1751635467,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 831071,
       "num": 831071,
       "word": "杨幂踩到裙子摔倒",
@@ -241,6 +249,14 @@
       "onboard_time": 1751586559,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 828486,
+      "num": 223985,
+      "word": "单依纯 换歌",
+      "onboard_time": 1751635706,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 828222,
@@ -347,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 681585,
+      "num": 321028,
+      "word": "天水幼儿园血铅异常超50人邻省血检",
+      "onboard_time": 1751632705,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 681470,
       "num": 1109035,
       "word": "民航飞行员过剩",
@@ -435,14 +459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 583412,
-      "num": 213614,
-      "word": "单依纯 换歌",
-      "onboard_time": 1751635706,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 562162,
       "num": 256153,
       "word": "关晓彤姜涛肯定吃不到一起",
@@ -473,14 +489,6 @@
       "onboard_time": 1751557701,
       "rank": 15,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 522091,
-      "num": 321028,
-      "word": "天水幼儿园血铅异常超50人邻省血检",
-      "onboard_time": 1751632705,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 521013,
@@ -539,6 +547,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 433918,
+      "num": 433918,
+      "word": "10元快剪店理发师月入2万元",
+      "onboard_time": 1751629643,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 431898,
       "num": 463579,
       "word": "中方回应特朗普将向各国征新关税",
@@ -553,14 +569,6 @@
       "onboard_time": 1751608882,
       "rank": 27,
       "category": "幽默,休闲"
-    },
-    {
-      "raw_hot": 424769,
-      "num": 424769,
-      "word": "10元快剪店理发师月入2万元",
-      "onboard_time": 1751629643,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 424172,
@@ -579,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 413266,
+      "num": 208317,
+      "word": "李佳薇 真天后",
+      "onboard_time": 1751636608,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 405223,
       "num": 315660,
       "word": "心疼格格",
@@ -592,6 +608,14 @@
       "word": "田栩宁男三升男二",
       "onboard_time": 1751615902,
       "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 390272,
+      "num": 285581,
+      "word": "何惟芳蒋长扬亲好猛",
+      "onboard_time": 1751631744,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -611,20 +635,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 379224,
-      "num": 207706,
-      "word": "歌手排名",
-      "onboard_time": 1751635467,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 371768,
       "num": 371768,
       "word": "萌兰10岁啦花花和叶5岁啦",
       "onboard_time": 1751584458,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 369074,
+      "num": 210342,
+      "word": "张一山的字好帅",
+      "onboard_time": 1751635647,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 366714,
@@ -795,14 +819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 323942,
-      "num": 285581,
-      "word": "何惟芳蒋长扬亲好猛",
-      "onboard_time": 1751631744,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 323423,
       "num": 323423,
       "word": "T1战胜CFO",
@@ -931,6 +947,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 266747,
+      "num": 207332,
+      "word": "披荆斩棘5淘汰",
+      "onboard_time": 1751636126,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 266077,
       "num": 266077,
       "word": "日本气象厅发布红色强震警报",
@@ -977,14 +1001,6 @@
       "onboard_time": 1751602347,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 245395,
-      "num": 210342,
-      "word": "张一山的字好帅",
-      "onboard_time": 1751635647,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 245308,
@@ -1203,6 +1219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206605,
+      "num": 206605,
+      "word": "何炅回应海泉淘汰",
+      "onboard_time": 1751636007,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205922,
       "num": 205922,
       "word": "梓渝时代峰峻编外人员",
@@ -1251,12 +1275,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 203335,
-      "num": 203335,
-      "word": "披荆斩棘5淘汰",
-      "onboard_time": 1751636126,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 203492,
+      "num": 203492,
+      "word": "杨幂摔出了神图",
+      "onboard_time": 1751636668,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 203189,
@@ -1337,6 +1361,14 @@
       "onboard_time": 1751618005,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 196135,
+      "num": 196135,
+      "word": "张钰琪冲刺复赛只有一票",
+      "onboard_time": 1751635766,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 196086,
@@ -1443,6 +1475,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186308,
+      "num": 186308,
+      "word": "交往6年男友竟是刑满释放人员",
+      "onboard_time": 1751630845,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 185809,
+      "num": 185809,
+      "word": "披荆斩棘5",
+      "onboard_time": 1751635826,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185486,
       "num": 191919,
       "word": "世卫组织呼吁大幅提高含糖饮料价格",
@@ -1473,6 +1521,14 @@
       "onboard_time": 1751612782,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181140,
+      "num": 181140,
+      "word": "以法之名我果然没看错你",
+      "onboard_time": 1751636007,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 180706,
@@ -1555,14 +1611,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 174282,
-      "num": 174282,
-      "word": "交往6年男友竟是刑满释放人员",
-      "onboard_time": 1751630845,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 174067,
       "num": 275457,
       "word": "特朗普觉得自己又行了",
@@ -1584,6 +1632,14 @@
       "word": "格格好听",
       "onboard_time": 1751632044,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 171976,
+      "num": 171976,
+      "word": "情歌就是陈楚生的统治区",
+      "onboard_time": 1751636726,
+      "rank": 43,
       "category": "综艺"
     },
     {
@@ -1971,14 +2027,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148727,
-      "num": 148727,
-      "word": "张钰琪冲刺复赛只有一票",
-      "onboard_time": 1751635766,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 148673,
       "num": 348754,
       "word": "乘客说若无砸窗哥会有更多人热晕",
@@ -2041,14 +2089,6 @@
       "onboard_time": 1751555243,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 146610,
-      "num": 146610,
-      "word": "以法之名我果然没看错你",
-      "onboard_time": 1751636007,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 146504,
@@ -2115,14 +2155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 143669,
-      "num": 143669,
-      "word": "何炅回应海泉淘汰",
-      "onboard_time": 1751636007,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 143282,
       "num": 360892,
       "word": "刘芮麟是嘉行四傻共有老婆",
@@ -2155,12 +2187,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142360,
-      "num": 142360,
-      "word": "披荆斩棘5",
-      "onboard_time": 1751635826,
-      "rank": 44,
-      "category": "综艺"
+      "raw_hot": 141784,
+      "num": 208604,
+      "word": "男子还手致人死亡被判八年家属发声",
+      "onboard_time": 1751635286,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141678,
@@ -2251,6 +2283,14 @@
       "category": "电影,艺人"
     },
     {
+      "raw_hot": 136366,
+      "num": 207383,
+      "word": "乌克兰称首都遭俄军大规模袭击",
+      "onboard_time": 1751634987,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 136313,
       "num": 136313,
       "word": "以法之名不给反派赋魅",
@@ -2329,14 +2369,6 @@
       "onboard_time": 1751624122,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 132266,
-      "num": 132266,
-      "word": "乌克兰称首都遭俄军大规模袭击",
-      "onboard_time": 1751634987,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 132192,
@@ -2539,6 +2571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119714,
+      "num": 182947,
+      "word": "吴少聪退出国家队集训",
+      "onboard_time": 1751636608,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119381,
       "num": 119381,
       "word": "白敬亭新剧进狱风",
@@ -2625,6 +2665,14 @@
       "onboard_time": 1751625982,
       "rank": 43,
       "category": "网红"
+    },
+    {
+      "raw_hot": 114981,
+      "num": 181560,
+      "word": "饿时馒头贵 饱时玫瑰香",
+      "onboard_time": 1751636186,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 114877,
@@ -2723,7 +2771,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 109653,
+      "raw_hot": 110488,
       "num": 154633,
       "word": "王楚钦给小朋友签名",
       "onboard_time": 1751634024,
@@ -2745,6 +2793,14 @@
       "onboard_time": 1751596821,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 106254,
+      "num": 130568,
+      "word": "F1",
+      "onboard_time": 1751636246,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 105369,
@@ -2817,14 +2873,6 @@
       "onboard_time": 1751614223,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 98202,
-      "num": 153285,
-      "word": "饿时馒头贵 饱时玫瑰香",
-      "onboard_time": 1751636186,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 97972,
@@ -2916,7 +2964,7 @@
     },
     {
       "raw_hot": 84382,
-      "num": 1107793,
+      "num": 1379176,
       "word": "榕江人民永远记在心上",
       "onboard_time": 1751625739,
       "rank": 2,
@@ -3025,6 +3073,14 @@
       "onboard_time": 1751623941,
       "rank": 24,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 77057,
+      "num": 212037,
+      "word": "多国对美国态度逐渐强硬",
+      "onboard_time": 1751635826,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 76951,
@@ -3251,14 +3307,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 57860,
-      "num": 212037,
-      "word": "多国对美国态度逐渐强硬",
-      "onboard_time": 1751635826,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 57499,
       "num": 57499,
       "word": "C罗来南京奥体都没这阵仗",
@@ -3360,14 +3408,6 @@
       "word": "生日限定款花花太萌啦",
       "onboard_time": 1751626403,
       "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44362,
-      "num": 208604,
-      "word": "男子还手致人死亡被判八年家属发声",
-      "onboard_time": 1751635286,
-      "rank": 19,
       "category": "民生新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751636220571,
+  "endTime": 1751636896760,
   "band_list": [
     {
       "raw_hot": 6390116,
@@ -43,8 +43,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 2826598,
-      "num": 2826598,
+      "raw_hot": 2982827,
+      "num": 2982827,
       "word": "单依纯 王菲在唱那英的歌",
       "onboard_time": 1751634567,
       "rank": 1,
@@ -803,6 +803,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 841063,
+      "num": 225249,
+      "word": "歌手排名",
+      "onboard_time": 1751635467,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 839857,
       "num": 1134377,
       "word": "金正恩疑似悼念在俄阵亡军人画面曝光",
@@ -841,6 +849,14 @@
       "onboard_time": 1751586559,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 828486,
+      "num": 223985,
+      "word": "单依纯 换歌",
+      "onboard_time": 1751635706,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 828371,
@@ -1243,6 +1259,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 681585,
+      "num": 321028,
+      "word": "天水幼儿园血铅异常超50人邻省血检",
+      "onboard_time": 1751632705,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 681470,
       "num": 1109035,
       "word": "民航飞行员过剩",
@@ -1635,14 +1659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 583412,
-      "num": 213614,
-      "word": "单依纯 换歌",
-      "onboard_time": 1751635706,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 574464,
       "num": 574464,
       "word": "亲生母亲8万多元卖掉自己的两个孩子",
@@ -1849,14 +1865,6 @@
       "onboard_time": 1751435361,
       "rank": 11,
       "category": "网红"
-    },
-    {
-      "raw_hot": 522091,
-      "num": 321028,
-      "word": "天水幼儿园血铅异常超50人邻省血检",
-      "onboard_time": 1751632705,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 521013,
@@ -2211,6 +2219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 433918,
+      "num": 433918,
+      "word": "10元快剪店理发师月入2万元",
+      "onboard_time": 1751629643,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 432181,
       "num": 432181,
       "word": "深圳卫健委发文怼二手烟",
@@ -2296,14 +2312,6 @@
       "word": "南京地铁车厢内可以喝奶茶了",
       "onboard_time": 1751376744,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 424769,
-      "num": 424769,
-      "word": "10元快剪店理发师月入2万元",
-      "onboard_time": 1751629643,
-      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -2393,6 +2401,14 @@
       "onboard_time": 1751437582,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 413266,
+      "num": 208317,
+      "word": "李佳薇 真天后",
+      "onboard_time": 1751636608,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 412261,
@@ -2515,6 +2531,14 @@
       "category": "休闲,动漫"
     },
     {
+      "raw_hot": 390272,
+      "num": 285581,
+      "word": "何惟芳蒋长扬亲好猛",
+      "onboard_time": 1751631744,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 390002,
       "num": 390002,
       "word": "特朗普或考虑将马斯克驱逐出境",
@@ -2552,14 +2576,6 @@
       "word": "迪丽热巴开推3人生镜头",
       "onboard_time": 1751608403,
       "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 379224,
-      "num": 207706,
-      "word": "歌手排名",
-      "onboard_time": 1751635467,
-      "rank": 20,
       "category": "综艺"
     },
     {
@@ -2624,6 +2640,14 @@
       "word": "杨幂李现 最适合穿白色的两个人",
       "onboard_time": 1751366300,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 369074,
+      "num": 210342,
+      "word": "张一山的字好帅",
+      "onboard_time": 1751635647,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -3065,14 +3089,6 @@
       "onboard_time": 1751629103,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 323942,
-      "num": 285581,
-      "word": "何惟芳蒋长扬亲好猛",
-      "onboard_time": 1751631744,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 323730,
@@ -3707,6 +3723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 266747,
+      "num": 207332,
+      "word": "披荆斩棘5淘汰",
+      "onboard_time": 1751636126,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 266200,
       "num": 343842,
       "word": "迪丽热巴穿这么美的造型摔跤",
@@ -3913,14 +3937,6 @@
       "onboard_time": 1751298262,
       "rank": 18,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 245395,
-      "num": 210342,
-      "word": "张一山的字好帅",
-      "onboard_time": 1751635647,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 245308,
@@ -4867,6 +4883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206605,
+      "num": 206605,
+      "word": "何炅回应海泉淘汰",
+      "onboard_time": 1751636007,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206361,
       "num": 962403,
       "word": "首个全国高温健康风险预警",
@@ -4995,12 +5019,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 203335,
-      "num": 203335,
-      "word": "披荆斩棘5淘汰",
-      "onboard_time": 1751636126,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 203492,
+      "num": 203492,
+      "word": "杨幂摔出了神图",
+      "onboard_time": 1751636668,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 203189,
@@ -5304,6 +5328,14 @@
       "word": "密室大逃脱",
       "onboard_time": 1751433023,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 196135,
+      "num": 196135,
+      "word": "张钰琪冲刺复赛只有一票",
+      "onboard_time": 1751635766,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -5699,12 +5731,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186308,
+      "num": 186308,
+      "word": "交往6年男友竟是刑满释放人员",
+      "onboard_time": 1751630845,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186307,
       "num": 186307,
       "word": "中山一路",
       "onboard_time": 1751351422,
       "rank": 31,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 185809,
+      "num": 185809,
+      "word": "披荆斩棘5",
+      "onboard_time": 1751635826,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 185697,
@@ -5825,6 +5873,14 @@
       "onboard_time": 1751368643,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181140,
+      "num": 181140,
+      "word": "以法之名我果然没看错你",
+      "onboard_time": 1751636007,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 181125,
@@ -6139,14 +6195,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 174282,
-      "num": 174282,
-      "word": "交往6年男友竟是刑满释放人员",
-      "onboard_time": 1751630845,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 174269,
       "num": 174269,
       "word": "780万网红孙恩盛被曝无证驾驶",
@@ -6288,6 +6336,14 @@
       "word": "格格好听",
       "onboard_time": 1751632044,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 171976,
+      "num": 171976,
+      "word": "情歌就是陈楚生的统治区",
+      "onboard_time": 1751636726,
+      "rank": 43,
       "category": "综艺"
     },
     {
@@ -7379,14 +7435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148727,
-      "num": 148727,
-      "word": "张钰琪冲刺复赛只有一票",
-      "onboard_time": 1751635766,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 148673,
       "num": 348754,
       "word": "乘客说若无砸窗哥会有更多人热晕",
@@ -7521,14 +7569,6 @@
       "onboard_time": 1751432484,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 146610,
-      "num": 146610,
-      "word": "以法之名我果然没看错你",
-      "onboard_time": 1751636007,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 146522,
@@ -7699,14 +7739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 143669,
-      "num": 143669,
-      "word": "何炅回应海泉淘汰",
-      "onboard_time": 1751636007,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 143399,
       "num": 143399,
       "word": "三只羊现身大桥通车仪式",
@@ -7803,14 +7835,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142360,
-      "num": 142360,
-      "word": "披荆斩棘5",
-      "onboard_time": 1751635826,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 142357,
       "num": 142357,
       "word": "TVB金牌绿叶在周杰伦演唱会当保安",
@@ -7833,6 +7857,14 @@
       "onboard_time": 1751441902,
       "rank": 34,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 141784,
+      "num": 208604,
+      "word": "男子还手致人死亡被判八年家属发声",
+      "onboard_time": 1751635286,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141728,
@@ -8171,6 +8203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 136366,
+      "num": 207383,
+      "word": "乌克兰称首都遭俄军大规模袭击",
+      "onboard_time": 1751634987,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 136327,
       "num": 138172,
       "word": "曼城世俱杯出局",
@@ -8489,14 +8529,6 @@
       "onboard_time": 1751624122,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 132266,
-      "num": 132266,
-      "word": "乌克兰称首都遭俄军大规模袭击",
-      "onboard_time": 1751634987,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 132204,
@@ -9443,6 +9475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 119714,
+      "num": 182947,
+      "word": "吴少聪退出国家队集训",
+      "onboard_time": 1751636608,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119597,
       "num": 119597,
       "word": "男德标兵夏以昼",
@@ -9827,6 +9867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 114981,
+      "num": 181560,
+      "word": "饿时馒头贵 饱时玫瑰香",
+      "onboard_time": 1751636186,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 114877,
       "num": 352634,
       "word": "成都东站回应暴雨致列车晚点",
@@ -10195,6 +10243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110488,
+      "num": 154633,
+      "word": "王楚钦给小朋友签名",
+      "onboard_time": 1751634024,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109936,
       "num": 109936,
       "word": "好小众的起号方法",
@@ -10233,14 +10289,6 @@
       "onboard_time": 1751436443,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 109653,
-      "num": 154633,
-      "word": "王楚钦给小朋友签名",
-      "onboard_time": 1751634024,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 109517,
@@ -10473,6 +10521,14 @@
       "onboard_time": 1751331263,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 106254,
+      "num": 130568,
+      "word": "F1",
+      "onboard_time": 1751636246,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 106189,
@@ -10865,14 +10921,6 @@
       "onboard_time": 1751505740,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 98202,
-      "num": 153285,
-      "word": "饿时馒头贵 饱时玫瑰香",
-      "onboard_time": 1751636186,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 98155,
@@ -11436,7 +11484,7 @@
     },
     {
       "raw_hot": 84382,
-      "num": 1107793,
+      "num": 1379176,
       "word": "榕江人民永远记在心上",
       "onboard_time": 1751625739,
       "rank": 2,
@@ -11673,6 +11721,14 @@
       "onboard_time": 1751287823,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 77057,
+      "num": 212037,
+      "word": "多国对美国态度逐渐强硬",
+      "onboard_time": 1751635826,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 76951,
@@ -12339,14 +12395,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 57860,
-      "num": 212037,
-      "word": "多国对美国态度逐渐强硬",
-      "onboard_time": 1751635826,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 57804,
       "num": 57804,
       "word": "多地解禁中华田园犬",
@@ -12776,14 +12824,6 @@
       "word": "网红书店的生意今年不好做了",
       "onboard_time": 1751373681,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44362,
-      "num": 208604,
-      "word": "男子还手致人死亡被判八年家属发声",
-      "onboard_time": 1751635286,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
