@@ -1,6 +1,6 @@
 {
   "startTime": 1751646733900,
-  "endTime": 1751661728708,
+  "endTime": 1751664292392,
   "band_list": [
     {
       "raw_hot": 2497507,
@@ -499,6 +499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 49568,
+      "num": 49568,
+      "word": "林志玲说带孩子没有优雅这件事",
+      "onboard_time": 1751658435,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 46703,
       "num": 624771,
       "word": "高温闷热天气防中暑指南",
@@ -529,14 +537,6 @@
       "onboard_time": 1751654535,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27153,
-      "num": 30675,
-      "word": "林志玲说带孩子没有优雅这件事",
-      "onboard_time": 1751658435,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 26345,
@@ -587,7 +587,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 10018,
+      "raw_hot": 15403,
       "num": 33518,
       "word": "张雨霏透露可能回归200蝶",
       "onboard_time": 1751661495,
