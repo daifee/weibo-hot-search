@@ -1,6 +1,6 @@
 {
   "startTime": 1751560391149,
-  "endTime": 1751606956873,
+  "endTime": 1751607989360,
   "band_list": [
     {
       "raw_hot": 3680796,
@@ -75,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 884634,
+      "num": 757754,
+      "word": "芬兰病假",
+      "onboard_time": 1751603783,
+      "rank": 26,
+      "category": "幽默,休闲"
+    },
+    {
       "raw_hot": 853423,
       "num": 714356,
       "word": "多名幼儿呕吐查出血铅异常",
@@ -99,20 +107,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 801540,
-      "num": 710337,
-      "word": "芬兰病假",
-      "onboard_time": 1751603783,
-      "rank": 26,
-      "category": "幽默,休闲"
-    },
-    {
       "raw_hot": 788243,
       "num": 411412,
       "word": "晚晚直播 让妆",
       "onboard_time": 1751600721,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 785037,
+      "num": 708772,
+      "word": "在印度有6个仆人但电视50寸",
+      "onboard_time": 1751605402,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 745353,
+      "num": 745353,
+      "word": "入青云 空降",
+      "onboard_time": 1751605163,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 739071,
@@ -136,14 +152,6 @@
       "word": "亚洲生育率最高的国家",
       "onboard_time": 1751558361,
       "rank": 30,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 708772,
-      "num": 708772,
-      "word": "在印度有6个仆人但电视50寸",
-      "onboard_time": 1751605402,
-      "rank": 4,
       "category": "海外新闻"
     },
     {
@@ -211,14 +219,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 529356,
-      "num": 529356,
-      "word": "入青云 空降",
-      "onboard_time": 1751605163,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 521013,
       "num": 485358,
       "word": "偷偷藏不住",
@@ -233,6 +233,14 @@
       "onboard_time": 1751592802,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 471981,
+      "num": 471981,
+      "word": "原来周雨彤和鹿晗演过戏",
+      "onboard_time": 1751606302,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 422702,
@@ -435,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 279708,
+      "num": 279708,
+      "word": "李飞你人真没事吗",
+      "onboard_time": 1751606903,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 271396,
       "num": 327640,
       "word": "等比例长大的杨紫",
@@ -531,12 +547,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 225312,
-      "num": 225312,
-      "word": "原来周雨彤和鹿晗演过戏",
-      "onboard_time": 1751606302,
-      "rank": 28,
-      "category": "电影"
+      "raw_hot": 219523,
+      "num": 219523,
+      "word": "以为是22集结果回到第1集",
+      "onboard_time": 1751607442,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 218559,
@@ -545,6 +561,14 @@
       "onboard_time": 1751604022,
       "rank": 37,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 218403,
+      "num": 218403,
+      "word": "穷人满足欲望的方式主要靠禁欲",
+      "onboard_time": 1751606783,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 218223,
@@ -585,6 +609,14 @@
       "onboard_time": 1751553083,
       "rank": 11,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 209155,
+      "num": 209155,
+      "word": "台名医下药性侵三女遭通缉",
+      "onboard_time": 1751607023,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 208367,
@@ -636,7 +668,7 @@
     },
     {
       "raw_hot": 196086,
-      "num": 196086,
+      "num": 222983,
       "word": "有美航司获准重启对华喷气发动机供应",
       "onboard_time": 1751604084,
       "rank": 42,
@@ -656,6 +688,14 @@
       "word": "中餐厅名场面",
       "onboard_time": 1751603065,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 190739,
+      "num": 190739,
+      "word": "柯以敏说香奈儿像年轻时的张惠妹",
+      "onboard_time": 1751606963,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -803,12 +843,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 164713,
-      "num": 177257,
-      "word": "穷人满足欲望的方式主要靠禁欲",
-      "onboard_time": 1751606783,
-      "rank": 33,
-      "category": "综艺"
+      "raw_hot": 163793,
+      "num": 163793,
+      "word": "预判了虞书欣的预判",
+      "onboard_time": 1751607442,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 163333,
@@ -955,6 +995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148565,
+      "num": 148565,
+      "word": "田栩宁冷白皮名不虚传",
+      "onboard_time": 1751606663,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148247,
       "num": 378641,
       "word": "使用位长15位的电话号码来了",
@@ -1003,12 +1051,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 143605,
-      "num": 143605,
-      "word": "田栩宁冷白皮名不虚传",
-      "onboard_time": 1751606663,
-      "rank": 44,
-      "category": "剧集"
+      "raw_hot": 143282,
+      "num": 143282,
+      "word": "刘芮麟是嘉行四傻共有老婆",
+      "onboard_time": 1751607863,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 143279,
@@ -1043,14 +1091,6 @@
       "category": "健康医疗,民生新闻"
     },
     {
-      "raw_hot": 141207,
-      "num": 141207,
-      "word": "李飞你人真没事吗",
-      "onboard_time": 1751606903,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 139021,
       "num": 192868,
       "word": "蒋长扬自己把自己哄好了",
@@ -1083,6 +1123,14 @@
       "category": "电影,艺人"
     },
     {
+      "raw_hot": 136313,
+      "num": 136313,
+      "word": "以法之名不给反派赋魅",
+      "onboard_time": 1751607743,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133591,
       "num": 133591,
       "word": "老祖宗的审美一定有他的道理",
@@ -1105,6 +1153,14 @@
       "onboard_time": 1751585659,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131036,
+      "num": 419936,
+      "word": "山东舰服役以来首次开放参观",
+      "onboard_time": 1751605642,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 127914,
@@ -1145,14 +1201,6 @@
       "onboard_time": 1751563097,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 119442,
-      "num": 419936,
-      "word": "山东舰服役以来首次开放参观",
-      "onboard_time": 1751605642,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 118232,
@@ -1419,6 +1467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79721,
+      "num": 350909,
+      "word": "安普瑞斯电芯几乎覆盖所有主流品牌",
+      "onboard_time": 1751606483,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76951,
       "num": 76951,
       "word": "有五险一金的外卖岗位真香",
@@ -1603,6 +1659,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 49579,
+      "num": 153924,
+      "word": "AI幻觉",
+      "onboard_time": 1751607322,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 49281,
       "num": 218291,
       "word": "买了新能源车才知道什么叫服务",
@@ -1632,6 +1696,14 @@
       "word": "老人脑梗住院期出走身亡医院赔5万",
       "onboard_time": 1751601690,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45396,
+      "num": 209299,
+      "word": "4层房屋被冲倒女儿称债还没还清",
+      "onboard_time": 1751607683,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -1721,14 +1793,6 @@
       "onboard_time": 1751600543,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 30571,
-      "num": 350909,
-      "word": "安普瑞斯电芯几乎覆盖所有主流品牌",
-      "onboard_time": 1751606483,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29070,
@@ -1843,20 +1907,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 8795,
+      "num": 733508,
+      "word": "万千气象看山西",
+      "onboard_time": 1751294963,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 8746,
       "num": 21358,
       "word": "秦彻爱必将至",
       "onboard_time": 1751570235,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 8520,
-      "num": 733508,
-      "word": "万千气象看山西",
-      "onboard_time": 1751294963,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 8508,
@@ -1873,6 +1937,14 @@
       "onboard_time": 1751568016,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 7050,
+      "num": 761825,
+      "word": "被榕江洪灾救援中这一幕幕暖到了",
+      "onboard_time": 1751607922,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 6928,
@@ -1894,6 +1966,9 @@
   "hotgov_list": [
     {
       "word": "#奋力书写挺膺担当的青春篇章#"
+    },
+    {
+      "word": "#厦门发展战略启示#"
     }
   ]
 }

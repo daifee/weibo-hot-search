@@ -1,0 +1,410 @@
+{
+  "runTime": 1751607989360,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 977103,
+        "num": 1156336,
+        "word": "DeepSeek给王一博道歉是假的",
+        "onboard_time": 1751604325,
+        "rank": 0,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 835442,
+        "num": 835442,
+        "word": "iPhone 制冷模式",
+        "onboard_time": 1751598383,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 7050,
+        "num": 761825,
+        "word": "被榕江洪灾救援中这一幕幕暖到了",
+        "onboard_time": 1751607922,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 884634,
+        "num": 757754,
+        "word": "芬兰病假",
+        "onboard_time": 1751603783,
+        "rank": 3,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 745353,
+        "num": 745353,
+        "word": "入青云 空降",
+        "onboard_time": 1751605163,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 468023,
+        "num": 530744,
+        "word": "被骗至缅甸男模特已获救",
+        "onboard_time": 1751602051,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 511619,
+        "num": 511619,
+        "word": "跑男这期玩得很脏",
+        "onboard_time": 1751597903,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 8795,
+        "num": 474443,
+        "word": "万千气象看山西",
+        "onboard_time": 1751294963,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 471981,
+        "num": 471981,
+        "word": "原来周雨彤和鹿晗演过戏",
+        "onboard_time": 1751606302,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 394177,
+        "num": 394177,
+        "word": "花花看到生日蛋糕流口水",
+        "onboard_time": 1751595980,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2059462,
+        "num": 392934,
+        "word": "日本末世预言剩1天",
+        "onboard_time": 1751595442,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 785037,
+        "num": 389839,
+        "word": "在印度有6个仆人但电视50寸",
+        "onboard_time": 1751605402,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 542449,
+        "num": 381252,
+        "word": "女子称婚后丈夫一天发80元工资给自己",
+        "onboard_time": 1751602763,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353005,
+        "num": 353005,
+        "word": "人真的不能一直住太差的房子",
+        "onboard_time": 1751600423,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76332,
+        "num": 352804,
+        "word": "苏超南京队给对手上保险了",
+        "onboard_time": 1751605342,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266463,
+        "num": 352792,
+        "word": "医生提醒高温天别舍不得开空调",
+        "onboard_time": 1751597661,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352791,
+        "num": 352791,
+        "word": "晚晚直播 让妆",
+        "onboard_time": 1751600721,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 295462,
+        "num": 295462,
+        "word": "张碧晨周震南没有对视只想唱死对方",
+        "onboard_time": 1751605642,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 316074,
+        "num": 295355,
+        "word": "刘芮麟老婆",
+        "onboard_time": 1751602466,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285929,
+        "num": 285929,
+        "word": "你在cos鹿 鹿在cos王俊凯",
+        "onboard_time": 1751601384,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 459878,
+        "num": 282859,
+        "word": "罗马仕 倒闭",
+        "onboard_time": 1751554224,
+        "rank": 20,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 279708,
+        "num": 279708,
+        "word": "李飞你人真没事吗",
+        "onboard_time": 1751606903,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229402,
+        "num": 229402,
+        "word": "韩网对演唱会上中国追星女的评价",
+        "onboard_time": 1751605342,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 78085,
+        "num": 222983,
+        "word": "有美航司获准重启对华喷气发动机供应",
+        "onboard_time": 1751604084,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 172039,
+        "num": 220660,
+        "word": "萌兰10岁啦花花和叶5岁啦",
+        "onboard_time": 1751584458,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220518,
+        "num": 220518,
+        "word": "迪丽热巴这是推理吧不是推你巴",
+        "onboard_time": 1751605942,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219523,
+        "num": 219523,
+        "word": "以为是22集结果回到第1集",
+        "onboard_time": 1751607442,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218403,
+        "num": 218403,
+        "word": "穷人满足欲望的方式主要靠禁欲",
+        "onboard_time": 1751606783,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209628,
+        "num": 209628,
+        "word": "热射病",
+        "onboard_time": 1751593761,
+        "rank": 28,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 45396,
+        "num": 209299,
+        "word": "4层房屋被冲倒女儿称债还没还清",
+        "onboard_time": 1751607683,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209155,
+        "num": 209155,
+        "word": "台名医下药性侵三女遭通缉",
+        "onboard_time": 1751607023,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206203,
+        "num": 206203,
+        "word": "高叶大嫂气场完全看不见了",
+        "onboard_time": 1751605402,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 204772,
+        "num": 204772,
+        "word": "田栩宁旁边的人是谁",
+        "onboard_time": 1751602525,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195925,
+        "num": 195925,
+        "word": "老人刚到杭州就热晕被送回东北",
+        "onboard_time": 1751597843,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131036,
+        "num": 192908,
+        "word": "山东舰服役以来首次开放参观",
+        "onboard_time": 1751605642,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 190739,
+        "num": 190739,
+        "word": "柯以敏说香奈儿像年轻时的张惠妹",
+        "onboard_time": 1751606963,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170625,
+        "num": 170625,
+        "word": "朋友圈的窒息感",
+        "onboard_time": 1751602584,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163793,
+        "num": 163793,
+        "word": "预判了虞书欣的预判",
+        "onboard_time": 1751607442,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158556,
+        "num": 158556,
+        "word": "白鹿成黑鹿",
+        "onboard_time": 1751600361,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49579,
+        "num": 153924,
+        "word": "AI幻觉",
+        "onboard_time": 1751607322,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 84033,
+        "num": 152273,
+        "word": "民主党议员吐槽特朗普法案又大又丑",
+        "onboard_time": 1751600124,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152070,
+        "num": 152070,
+        "word": "妻子精心打扮引丈夫怀疑被捉奸在床",
+        "onboard_time": 1751585419,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40828,
+        "num": 149362,
+        "word": "买了新能源车才知道什么叫服务",
+        "onboard_time": 1751604084,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 148565,
+        "num": 148565,
+        "word": "田栩宁冷白皮名不虚传",
+        "onboard_time": 1751606663,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144167,
+        "num": 144167,
+        "word": "藏族人挖虫草1个月挣30万",
+        "onboard_time": 1751602347,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79721,
+        "num": 143602,
+        "word": "安普瑞斯电芯几乎覆盖所有主流品牌",
+        "onboard_time": 1751606483,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143380,
+        "num": 143380,
+        "word": "中国公民衷某已获救",
+        "onboard_time": 1751603065,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143282,
+        "num": 143282,
+        "word": "刘芮麟是嘉行四傻共有老婆",
+        "onboard_time": 1751607863,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137872,
+        "num": 137872,
+        "word": "请假羞耻 不配得感",
+        "onboard_time": 1751602111,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136313,
+        "num": 136313,
+        "word": "以法之名不给反派赋魅",
+        "onboard_time": 1751607743,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#厦门发展战略启示#"
+    }
+  }
+}
