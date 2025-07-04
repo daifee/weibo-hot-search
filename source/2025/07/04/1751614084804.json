@@ -1,0 +1,410 @@
+{
+  "runTime": 1751614084804,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2810309,
+        "num": 2810309,
+        "word": "游本昌",
+        "onboard_time": 1751610862,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 925032,
+        "num": 925032,
+        "word": "TVB演员周聪去世",
+        "onboard_time": 1751608522,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68709,
+        "num": 631042,
+        "word": "被榕江洪灾救援中这一幕幕暖到了",
+        "onboard_time": 1751607922,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1252975,
+        "num": 617876,
+        "word": "胡楚靓自曝前任提亲前一天出轨",
+        "onboard_time": 1751612122,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 599674,
+        "num": 599674,
+        "word": "南航坠楼机长家属发声",
+        "onboard_time": 1751610922,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 465156,
+        "num": 465156,
+        "word": "iPhone 制冷模式",
+        "onboard_time": 1751598383,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 702048,
+        "num": 453179,
+        "word": "张纪中小女儿被保姆烫伤",
+        "onboard_time": 1751612422,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 579952,
+        "num": 451287,
+        "word": "DeepSeek给王一博道歉是假的",
+        "onboard_time": 1751604325,
+        "rank": 7,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 402711,
+        "num": 402711,
+        "word": "美方将取消对华采取的限制性措施",
+        "onboard_time": 1751610922,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 358650,
+        "num": 358650,
+        "word": "TES与WBG互换辅助",
+        "onboard_time": 1751611042,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 2576779,
+        "num": 358107,
+        "word": "田栩宁女友置顶官宣照",
+        "onboard_time": 1751609542,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 822939,
+        "num": 354150,
+        "word": "日本末世预言剩1天",
+        "onboard_time": 1751595442,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 490607,
+        "num": 351897,
+        "word": "李飞你人真没事吗",
+        "onboard_time": 1751606903,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102328,
+        "num": 350918,
+        "word": "安徽出门也像被牛舔了一口",
+        "onboard_time": 1751613563,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110473,
+        "num": 348754,
+        "word": "乘客说若无砸窗哥会有更多人热晕",
+        "onboard_time": 1751612542,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 347351,
+        "num": 347351,
+        "word": "韩安冉展示三胎孕肚",
+        "onboard_time": 1751613504,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 322929,
+        "num": 322929,
+        "word": "田栩宁 若若",
+        "onboard_time": 1751609063,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314374,
+        "num": 314374,
+        "word": "在印度有6个仆人但电视50寸",
+        "onboard_time": 1751605402,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 289630,
+        "num": 289630,
+        "word": "平底鞋 矮子哭",
+        "onboard_time": 1751608882,
+        "rank": 18,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 171736,
+        "num": 280147,
+        "word": "存130万小伙说因存钱付出了健康",
+        "onboard_time": 1751611882,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278513,
+        "num": 278513,
+        "word": "迪丽热巴开推3人生镜头",
+        "onboard_time": 1751608403,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275798,
+        "num": 275798,
+        "word": "台名医下药性侵三女遭通缉",
+        "onboard_time": 1751607023,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270271,
+        "num": 270271,
+        "word": "跑男这期玩得很脏",
+        "onboard_time": 1751597903,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203005,
+        "num": 203005,
+        "word": "王嘉尔说借钱就意味着关系结束",
+        "onboard_time": 1751613202,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200524,
+        "num": 200524,
+        "word": "原来周雨彤和鹿晗演过戏",
+        "onboard_time": 1751606302,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192869,
+        "num": 192869,
+        "word": "罗马仕 倒闭",
+        "onboard_time": 1751554224,
+        "rank": 25,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 189196,
+        "num": 189196,
+        "word": "荔枝馒头",
+        "onboard_time": 1751609902,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 186633,
+        "num": 186633,
+        "word": "迪丽热巴发九宫图告别开推3",
+        "onboard_time": 1751611402,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182174,
+        "num": 182174,
+        "word": "张凌赫开推3收官文",
+        "onboard_time": 1751613022,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73300,
+        "num": 181480,
+        "word": "朱广权开智驾对小鹏G7大喊心动了",
+        "onboard_time": 1751612662,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 275551,
+        "num": 181455,
+        "word": "日本漫画家预言已有10个应验",
+        "onboard_time": 1751613443,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 191254,
+        "num": 181405,
+        "word": "Crisp回归WBG",
+        "onboard_time": 1751613084,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 181282,
+        "num": 181282,
+        "word": "医生提醒高温天别舍不得开空调",
+        "onboard_time": 1751597661,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181039,
+        "num": 181039,
+        "word": "关晓彤分享彩椒碗教程",
+        "onboard_time": 1751610023,
+        "rank": 33,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 180694,
+        "num": 180694,
+        "word": "梓渝时代峰峻编外人员",
+        "onboard_time": 1751611402,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172595,
+        "num": 172595,
+        "word": "短剧还珠",
+        "onboard_time": 1751609782,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168020,
+        "num": 168020,
+        "word": "花花看到生日蛋糕流口水",
+        "onboard_time": 1751595980,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165172,
+        "num": 165172,
+        "word": "两个月婴儿窒息死亡案生父否认殴打",
+        "onboard_time": 1751612782,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163176,
+        "num": 163176,
+        "word": "金瀚宣璐同逛游乐园",
+        "onboard_time": 1751612782,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32813,
+        "num": 157665,
+        "word": "熊旅游版",
+        "onboard_time": 1751613862,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 152398,
+        "num": 152398,
+        "word": "第一张照片不敢太亲密的",
+        "onboard_time": 1751613143,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 585482,
+        "num": 152174,
+        "word": "英国黑人计划来华传播艾滋病",
+        "onboard_time": 1751608764,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 151363,
+        "num": 151363,
+        "word": "入青云 空降",
+        "onboard_time": 1751605163,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149241,
+        "num": 149241,
+        "word": "张弛结婚",
+        "onboard_time": 1751613924,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 148724,
+        "num": 148724,
+        "word": "张钧甯超短发",
+        "onboard_time": 1751613924,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147298,
+        "num": 147298,
+        "word": "恋与深空陪我睡觉",
+        "onboard_time": 1751613743,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144842,
+        "num": 144842,
+        "word": "一个月4000块好挣吗",
+        "onboard_time": 1751610440,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135212,
+        "num": 135212,
+        "word": "一诺科目一通过",
+        "onboard_time": 1751614042,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134722,
+        "num": 134722,
+        "word": "金靖说有个永远没有安静的6人工作群",
+        "onboard_time": 1751613323,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132824,
+        "num": 132824,
+        "word": "女子称婚后丈夫一天发80元工资给自己",
+        "onboard_time": 1751602763,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#厦门发展战略启示#"
+    }
+  }
+}
