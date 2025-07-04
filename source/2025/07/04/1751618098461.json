@@ -1,0 +1,410 @@
+{
+  "runTime": 1751618098461,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1252166,
+        "num": 1252166,
+        "word": "游本昌炙热的向党之心令人感动",
+        "onboard_time": 1751610862,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 854964,
+        "num": 854964,
+        "word": "微信删过的人不要加第二次",
+        "onboard_time": 1751614223,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 50083,
+        "num": 845103,
+        "word": "被榕江洪灾救援中这一幕幕暖到了",
+        "onboard_time": 1751607922,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 844286,
+        "num": 844286,
+        "word": "胡楚靓自曝前任提亲前一天出轨",
+        "onboard_time": 1751612122,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 765820,
+        "num": 765820,
+        "word": "日本漫画家预言已有10个应验",
+        "onboard_time": 1751613443,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 638519,
+        "num": 638519,
+        "word": "建议大家都去频繁大量的记录自己",
+        "onboard_time": 1751615064,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 623990,
+        "num": 623990,
+        "word": "张弛结婚",
+        "onboard_time": 1751613924,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 429245,
+        "num": 429245,
+        "word": "DeepSeek给王一博道歉是假的",
+        "onboard_time": 1751604325,
+        "rank": 7,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 363226,
+        "num": 363226,
+        "word": "张纪中小女儿被保姆烫伤",
+        "onboard_time": 1751612422,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315229,
+        "num": 315229,
+        "word": "平底鞋 矮子哭",
+        "onboard_time": 1751608882,
+        "rank": 9,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 1558222,
+        "num": 303173,
+        "word": "田栩宁女友置顶官宣照",
+        "onboard_time": 1751609542,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 799690,
+        "num": 290300,
+        "word": "韩安冉展示三胎孕肚",
+        "onboard_time": 1751613504,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 722554,
+        "num": 279389,
+        "word": "日本末世预言剩1天",
+        "onboard_time": 1751595442,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 333238,
+        "num": 258748,
+        "word": "离婚现场别带孩子",
+        "onboard_time": 1751617042,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250549,
+        "num": 250549,
+        "word": "iPhone 制冷模式",
+        "onboard_time": 1751598383,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 217979,
+        "num": 217979,
+        "word": "日本末世预言剩1天有人撤离",
+        "onboard_time": 1751614103,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 392875,
+        "num": 217974,
+        "word": "田栩宁男三升男二",
+        "onboard_time": 1751615902,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217803,
+        "num": 217803,
+        "word": "关晓彤曾把最胖的照片设成屏保",
+        "onboard_time": 1751615602,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322057,
+        "num": 217686,
+        "word": "TVB演员周聪去世",
+        "onboard_time": 1751608522,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17426,
+        "num": 213507,
+        "word": "杭州一商场公示预付费店铺名单引热议",
+        "onboard_time": 1751617283,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263987,
+        "num": 212863,
+        "word": "李飞你人真没事吗",
+        "onboard_time": 1751606903,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230135,
+        "num": 209880,
+        "word": "叶舒华自曝是母胎单身",
+        "onboard_time": 1751616803,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221868,
+        "num": 207755,
+        "word": "爷爷下河捡玩具孙女拽衣哭喊不要了",
+        "onboard_time": 1751615783,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205923,
+        "num": 205923,
+        "word": "花花看到生日蛋糕流口水",
+        "onboard_time": 1751595980,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183174,
+        "num": 183174,
+        "word": "迪丽热巴开推下一程再见",
+        "onboard_time": 1751617102,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182580,
+        "num": 182580,
+        "word": "冷水澡 减肥",
+        "onboard_time": 1751614763,
+        "rank": 25,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 182171,
+        "num": 182171,
+        "word": "两个月婴儿窒息死亡案生父否认殴打",
+        "onboard_time": 1751612782,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176151,
+        "num": 176151,
+        "word": "TES与WBG互换辅助",
+        "onboard_time": 1751611042,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 159703,
+        "num": 159703,
+        "word": "冻荔枝",
+        "onboard_time": 1751612844,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 132493,
+        "num": 157415,
+        "word": "美方将取消对华采取的限制性措施",
+        "onboard_time": 1751610922,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 155881,
+        "num": 155881,
+        "word": "美国解除对华C919发动机出口禁令",
+        "onboard_time": 1751616084,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 154391,
+        "num": 154391,
+        "word": "迪丽热巴发九宫图告别开推3",
+        "onboard_time": 1751611402,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145060,
+        "num": 145060,
+        "word": "医生提醒高温天别舍不得开空调",
+        "onboard_time": 1751597661,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139458,
+        "num": 139458,
+        "word": "月入1万8每月存一万6的真实原因",
+        "onboard_time": 1751615842,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113478,
+        "num": 137350,
+        "word": "山东舰航母编队又燃又帅",
+        "onboard_time": 1751617946,
+        "rank": 34,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 132451,
+        "num": 136881,
+        "word": "存130万小伙说因存钱付出了健康",
+        "onboard_time": 1751611882,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76004,
+        "num": 136802,
+        "word": "多人吃黄油与面包甜品发烧腹泻",
+        "onboard_time": 1751616084,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136796,
+        "num": 136796,
+        "word": "王嘉尔说借钱就意味着关系结束",
+        "onboard_time": 1751613202,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134134,
+        "num": 134134,
+        "word": "每天只睡6小时身体会怎样",
+        "onboard_time": 1751618005,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 21461,
+        "num": 131319,
+        "word": "抓到你啦",
+        "onboard_time": 1751616923,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 130300,
+        "num": 130300,
+        "word": "跑男这期玩得很脏",
+        "onboard_time": 1751597903,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128238,
+        "num": 128238,
+        "word": "罗马仕 倒闭",
+        "onboard_time": 1751554224,
+        "rank": 41,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 127130,
+        "num": 127130,
+        "word": "罗马仕经销商被迫卖充电线",
+        "onboard_time": 1751614343,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123446,
+        "num": 123446,
+        "word": "广东没有高颅顶",
+        "onboard_time": 1751617042,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123323,
+        "num": 123323,
+        "word": "小鹏汽车大跌超7%",
+        "onboard_time": 1751615002,
+        "rank": 44,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 121284,
+        "num": 121284,
+        "word": "张钧甯超短发",
+        "onboard_time": 1751613924,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116461,
+        "num": 116461,
+        "word": "金靖说有个永远没有安静的6人工作群",
+        "onboard_time": 1751613323,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115079,
+        "num": 115079,
+        "word": "梓渝时代峰峻编外人员",
+        "onboard_time": 1751611402,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111475,
+        "num": 111475,
+        "word": "民航飞行员过剩",
+        "onboard_time": 1751617885,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99513,
+        "num": 99513,
+        "word": "在印度有6个仆人但电视50寸",
+        "onboard_time": 1751605402,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#厦门发展战略启示#"
+    }
+  }
+}

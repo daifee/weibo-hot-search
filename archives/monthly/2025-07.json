@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751614943521,
+  "endTime": 1751618098461,
   "band_list": [
     {
       "raw_hot": 4866007,
@@ -268,11 +268,19 @@
     },
     {
       "raw_hot": 1252975,
-      "num": 617876,
+      "num": 844286,
       "word": "胡楚靓自曝前任提亲前一天出轨",
       "onboard_time": 1751612122,
       "rank": 3,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1252166,
+      "num": 1252166,
+      "word": "游本昌炙热的向党之心令人感动",
+      "onboard_time": 1751610862,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1250631,
@@ -667,6 +675,14 @@
       "category": "民生新闻,汽车"
     },
     {
+      "raw_hot": 854964,
+      "num": 854964,
+      "word": "微信删过的人不要加第二次",
+      "onboard_time": 1751614223,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 853423,
       "num": 714356,
       "word": "多名幼儿呕吐查出血铅异常",
@@ -795,6 +811,14 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 799690,
+      "num": 408871,
+      "word": "韩安冉展示三胎孕肚",
+      "onboard_time": 1751613504,
+      "rank": 15,
+      "category": "网红"
+    },
+    {
       "raw_hot": 796518,
       "num": 1127442,
       "word": "准备买房发现妻子与其他男人有套房",
@@ -833,6 +857,14 @@
       "onboard_time": 1751468243,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 765820,
+      "num": 765820,
+      "word": "日本漫画家预言已有10个应验",
+      "onboard_time": 1751613443,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 764940,
@@ -937,14 +969,6 @@
       "onboard_time": 1751597661,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 715583,
-      "num": 408871,
-      "word": "韩安冉展示三胎孕肚",
-      "onboard_time": 1751613504,
-      "rank": 15,
-      "category": "网红"
     },
     {
       "raw_hot": 715019,
@@ -1267,6 +1291,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 638519,
+      "num": 638519,
+      "word": "建议大家都去频繁大量的记录自己",
+      "onboard_time": 1751615064,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 637935,
       "num": 637935,
       "word": "公积金结息",
@@ -1337,6 +1369,14 @@
       "onboard_time": 1751368403,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 623990,
+      "num": 623990,
+      "word": "张弛结婚",
+      "onboard_time": 1751613924,
+      "rank": 43,
+      "category": "网红"
     },
     {
       "raw_hot": 620992,
@@ -2131,14 +2171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 419672,
-      "num": 181455,
-      "word": "日本漫画家预言已有10个应验",
-      "onboard_time": 1751613443,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 418277,
       "num": 327344,
       "word": "者来女马甲",
@@ -2272,6 +2304,14 @@
       "word": "杨紫演出小说文字般的画面",
       "onboard_time": 1751439020,
       "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 392875,
+      "num": 217974,
+      "word": "田栩宁男三升男二",
+      "onboard_time": 1751615902,
+      "rank": 16,
       "category": "剧集"
     },
     {
@@ -2705,6 +2745,14 @@
       "onboard_time": 1751352742,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 333238,
+      "num": 258748,
+      "word": "离婚现场别带孩子",
+      "onboard_time": 1751617042,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 332002,
@@ -3225,14 +3273,6 @@
       "onboard_time": 1751376383,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 285103,
-      "num": 285103,
-      "word": "张弛结婚",
-      "onboard_time": 1751613924,
-      "rank": 43,
-      "category": "网红"
     },
     {
       "raw_hot": 283308,
@@ -3803,6 +3843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 230135,
+      "num": 209880,
+      "word": "叶舒华自曝是母胎单身",
+      "onboard_time": 1751616803,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 230075,
       "num": 262683,
       "word": "刘宇宁的坐姿",
@@ -4059,6 +4107,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 221868,
+      "num": 207755,
+      "word": "爷爷下河捡玩具孙女拽衣哭喊不要了",
+      "onboard_time": 1751615783,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 220970,
       "num": 220970,
       "word": "田嘉瑞又打给了虞书欣",
@@ -4161,6 +4217,22 @@
       "onboard_time": 1751594300,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217979,
+      "num": 393620,
+      "word": "日本末世预言剩1天有人撤离",
+      "onboard_time": 1751614103,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 217803,
+      "num": 217803,
+      "word": "关晓彤曾把最胖的照片设成屏保",
+      "onboard_time": 1751615602,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 217796,
@@ -5251,12 +5323,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 183174,
+      "num": 183174,
+      "word": "迪丽热巴开推下一程再见",
+      "onboard_time": 1751617102,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182581,
       "num": 182581,
       "word": "三伏天补气血最佳方法是蒸荔枝",
       "onboard_time": 1751514982,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 182580,
+      "num": 182580,
+      "word": "冷水澡 减肥",
+      "onboard_time": 1751614763,
+      "rank": 44,
+      "category": "运动健身"
     },
     {
       "raw_hot": 182241,
@@ -5281,6 +5369,14 @@
       "onboard_time": 1751613022,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182171,
+      "num": 182171,
+      "word": "两个月婴儿窒息死亡案生父否认殴打",
+      "onboard_time": 1751612782,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 181971,
@@ -5401,22 +5497,6 @@
       "onboard_time": 1751601752,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 178226,
-      "num": 178226,
-      "word": "微信删过的人不要加第二次",
-      "onboard_time": 1751614223,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 178092,
-      "num": 178092,
-      "word": "两个月婴儿窒息死亡案生父否认殴打",
-      "onboard_time": 1751612782,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 177454,
@@ -6003,14 +6083,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164843,
-      "num": 393620,
-      "word": "日本末世预言剩1天有人撤离",
-      "onboard_time": 1751614103,
-      "rank": 14,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 164731,
       "num": 164731,
       "word": "张小斐哭了",
@@ -6307,6 +6379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159703,
+      "num": 159703,
+      "word": "冻荔枝",
+      "onboard_time": 1751612844,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 159596,
       "num": 159596,
       "word": "宣璐新剧短发高智感",
@@ -6417,6 +6497,14 @@
       "onboard_time": 1751508380,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 155881,
+      "num": 155881,
+      "word": "美国解除对华C919发动机出口禁令",
+      "onboard_time": 1751616084,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 155758,
@@ -7187,14 +7275,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 140480,
-      "num": 140480,
-      "word": "冷水澡 减肥",
-      "onboard_time": 1751614763,
-      "rank": 44,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 140422,
       "num": 284058,
       "word": "云南大理出现罕见鱼阵",
@@ -7257,6 +7337,14 @@
       "onboard_time": 1751444242,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 139458,
+      "num": 139458,
+      "word": "月入1万8每月存一万6的真实原因",
+      "onboard_time": 1751615842,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 139437,
@@ -7619,6 +7707,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 134134,
+      "num": 134134,
+      "word": "每天只睡6小时身体会怎样",
+      "onboard_time": 1751618005,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 133937,
       "num": 133937,
       "word": "原来淘宝单号后6位永久固定",
@@ -7681,14 +7777,6 @@
       "onboard_time": 1751420240,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 133168,
-      "num": 133168,
-      "word": "冻荔枝",
-      "onboard_time": 1751612844,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 133075,
@@ -8163,6 +8251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127130,
+      "num": 418627,
+      "word": "罗马仕经销商被迫卖充电线",
+      "onboard_time": 1751614343,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126945,
       "num": 126945,
       "word": "前有武艺拿蛋糕后有杨幂抓麻将",
@@ -8345,6 +8441,22 @@
       "onboard_time": 1751532440,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 123446,
+      "num": 123446,
+      "word": "广东没有高颅顶",
+      "onboard_time": 1751617042,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 123323,
+      "num": 123323,
+      "word": "小鹏汽车大跌超7%",
+      "onboard_time": 1751615002,
+      "rank": 44,
+      "category": "财经,汽车"
     },
     {
       "raw_hot": 123169,
@@ -9193,6 +9305,14 @@
       "onboard_time": 1751390177,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111475,
+      "num": 111475,
+      "word": "民航飞行员过剩",
+      "onboard_time": 1751617885,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111420,
@@ -10627,6 +10747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76004,
+      "num": 136802,
+      "word": "多人吃黄油与面包甜品发烧腹泻",
+      "onboard_time": 1751616084,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75965,
       "num": 75965,
       "word": "李光洁问李人骏是傻白甜吗",
@@ -10876,7 +11004,7 @@
     },
     {
       "raw_hot": 68709,
-      "num": 761825,
+      "num": 845103,
       "word": "被榕江洪灾救援中这一幕幕暖到了",
       "onboard_time": 1751607922,
       "rank": 2,
@@ -12555,14 +12683,6 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 22397,
-      "num": 418627,
-      "word": "罗马仕经销商被迫卖充电线",
-      "onboard_time": 1751614343,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 22136,
       "num": 123036,
       "word": "中国U19女排3比0突尼斯",
@@ -12585,6 +12705,14 @@
       "onboard_time": 1751359281,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21461,
+      "num": 131319,
+      "word": "抓到你啦",
+      "onboard_time": 1751616923,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 21160,
@@ -12720,6 +12848,14 @@
       "word": "卖偷拍工具商家教顾客隐藏摄像头",
       "onboard_time": 1751521342,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17426,
+      "num": 213507,
+      "word": "杭州一商场公示预付费店铺名单引热议",
+      "onboard_time": 1751617283,
+      "rank": 19,
       "category": "民生新闻"
     },
     {

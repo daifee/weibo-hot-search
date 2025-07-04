@@ -1,6 +1,6 @@
 {
   "startTime": 1751560391149,
-  "endTime": 1751614943521,
+  "endTime": 1751618098461,
   "band_list": [
     {
       "raw_hot": 3680796,
@@ -76,11 +76,19 @@
     },
     {
       "raw_hot": 1252975,
-      "num": 617876,
+      "num": 844286,
       "word": "胡楚靓自曝前任提亲前一天出轨",
       "onboard_time": 1751612122,
       "rank": 3,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1252166,
+      "num": 1252166,
+      "word": "游本昌炙热的向党之心令人感动",
+      "onboard_time": 1751610862,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1170482,
@@ -123,6 +131,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 854964,
+      "num": 854964,
+      "word": "微信删过的人不要加第二次",
+      "onboard_time": 1751614223,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 853423,
       "num": 714356,
       "word": "多名幼儿呕吐查出血铅异常",
@@ -147,6 +163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 799690,
+      "num": 408871,
+      "word": "韩安冉展示三胎孕肚",
+      "onboard_time": 1751613504,
+      "rank": 15,
+      "category": "网红"
+    },
+    {
       "raw_hot": 794778,
       "num": 708772,
       "word": "在印度有6个仆人但电视50寸",
@@ -161,6 +185,14 @@
       "onboard_time": 1751600721,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 765820,
+      "num": 765820,
+      "word": "日本漫画家预言已有10个应验",
+      "onboard_time": 1751613443,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 745353,
@@ -185,14 +217,6 @@
       "onboard_time": 1751597661,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 715583,
-      "num": 408871,
-      "word": "韩安冉展示三胎孕肚",
-      "onboard_time": 1751613504,
-      "rank": 15,
-      "category": "网红"
     },
     {
       "raw_hot": 714869,
@@ -251,12 +275,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 638519,
+      "num": 638519,
+      "word": "建议大家都去频繁大量的记录自己",
+      "onboard_time": 1751615064,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 634912,
       "num": 634912,
       "word": "小米YU7磁吸纸巾盒卖169元",
       "onboard_time": 1751590462,
       "rank": 1,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 623990,
+      "num": 623990,
+      "word": "张弛结婚",
+      "onboard_time": 1751613924,
+      "rank": 43,
+      "category": "网红"
     },
     {
       "raw_hot": 599674,
@@ -363,12 +403,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 419672,
-      "num": 181455,
-      "word": "日本漫画家预言已有10个应验",
-      "onboard_time": 1751613443,
-      "rank": 30,
-      "category": "海外新闻"
+      "raw_hot": 392875,
+      "num": 217974,
+      "word": "田栩宁男三升男二",
+      "onboard_time": 1751615902,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 384857,
@@ -483,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 333238,
+      "num": 258748,
+      "word": "离婚现场别带孩子",
+      "onboard_time": 1751617042,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 332002,
       "num": 332002,
       "word": "跟着央视轻断食食谱吃一天瘦了2.5斤",
@@ -545,14 +593,6 @@
       "onboard_time": 1751591182,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 285103,
-      "num": 285103,
-      "word": "张弛结婚",
-      "onboard_time": 1751613924,
-      "rank": 43,
-      "category": "网红"
     },
     {
       "raw_hot": 281077,
@@ -691,12 +731,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 230135,
+      "num": 209880,
+      "word": "叶舒华自曝是母胎单身",
+      "onboard_time": 1751616803,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229806,
       "num": 229806,
       "word": "迪丽热巴这是推理吧不是推你巴",
       "onboard_time": 1751605942,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 221868,
+      "num": 207755,
+      "word": "爷爷下河捡玩具孙女拽衣哭喊不要了",
+      "onboard_time": 1751615783,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 219523,
@@ -729,6 +785,22 @@
       "onboard_time": 1751594300,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217979,
+      "num": 393620,
+      "word": "日本末世预言剩1天有人撤离",
+      "onboard_time": 1751614103,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 217803,
+      "num": 217803,
+      "word": "关晓彤曾把最胖的照片设成屏保",
+      "onboard_time": 1751615602,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 217706,
@@ -947,12 +1019,36 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 183174,
+      "num": 183174,
+      "word": "迪丽热巴开推下一程再见",
+      "onboard_time": 1751617102,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 182580,
+      "num": 182580,
+      "word": "冷水澡 减肥",
+      "onboard_time": 1751614763,
+      "rank": 44,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 182174,
       "num": 182174,
       "word": "张凌赫开推3收官文",
       "onboard_time": 1751613022,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182171,
+      "num": 182171,
+      "word": "两个月婴儿窒息死亡案生父否认殴打",
+      "onboard_time": 1751612782,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 180706,
@@ -969,22 +1065,6 @@
       "onboard_time": 1751601752,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 178226,
-      "num": 178226,
-      "word": "微信删过的人不要加第二次",
-      "onboard_time": 1751614223,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 178092,
-      "num": 178092,
-      "word": "两个月婴儿窒息死亡案生父否认殴打",
-      "onboard_time": 1751612782,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 177087,
@@ -1123,14 +1203,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 164843,
-      "num": 393620,
-      "word": "日本末世预言剩1天有人撤离",
-      "onboard_time": 1751614103,
-      "rank": 14,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 163793,
       "num": 163793,
       "word": "预判了虞书欣的预判",
@@ -1195,6 +1267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159703,
+      "num": 159703,
+      "word": "冻荔枝",
+      "onboard_time": 1751612844,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 159596,
       "num": 159596,
       "word": "宣璐新剧短发高智感",
@@ -1233,6 +1313,14 @@
       "onboard_time": 1751594781,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 155881,
+      "num": 155881,
+      "word": "美国解除对华C919发动机出口禁令",
+      "onboard_time": 1751616084,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 155758,
@@ -1467,12 +1555,12 @@
       "category": "健康医疗,民生新闻"
     },
     {
-      "raw_hot": 140480,
-      "num": 140480,
-      "word": "冷水澡 减肥",
-      "onboard_time": 1751614763,
-      "rank": 44,
-      "category": "运动健身"
+      "raw_hot": 139458,
+      "num": 139458,
+      "word": "月入1万8每月存一万6的真实原因",
+      "onboard_time": 1751615842,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 139159,
@@ -1531,6 +1619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134134,
+      "num": 134134,
+      "word": "每天只睡6小时身体会怎样",
+      "onboard_time": 1751618005,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 133591,
       "num": 133591,
       "word": "老祖宗的审美一定有他的道理",
@@ -1545,14 +1641,6 @@
       "onboard_time": 1751593880,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 133168,
-      "num": 133168,
-      "word": "冻荔枝",
-      "onboard_time": 1751612844,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 132968,
@@ -1611,6 +1699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127130,
+      "num": 418627,
+      "word": "罗马仕经销商被迫卖充电线",
+      "onboard_time": 1751614343,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125493,
       "num": 125493,
       "word": "王曼昱极致氛围感图",
@@ -1633,6 +1729,22 @@
       "onboard_time": 1751600183,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123446,
+      "num": 123446,
+      "word": "广东没有高颅顶",
+      "onboard_time": 1751617042,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 123323,
+      "num": 123323,
+      "word": "小鹏汽车大跌超7%",
+      "onboard_time": 1751615002,
+      "rank": 44,
+      "category": "财经,汽车"
     },
     {
       "raw_hot": 122350,
@@ -1715,6 +1827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113478,
+      "num": 137350,
+      "word": "山东舰航母编队又燃又帅",
+      "onboard_time": 1751617946,
+      "rank": 34,
+      "category": "军事"
+    },
+    {
       "raw_hot": 113460,
       "num": 113460,
       "word": "田栩宁新剧男三",
@@ -1736,6 +1856,14 @@
       "word": "成都最大降水量323毫米在人民公园",
       "onboard_time": 1751584638,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111475,
+      "num": 111475,
+      "word": "民航飞行员过剩",
+      "onboard_time": 1751617885,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -1947,6 +2075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76004,
+      "num": 136802,
+      "word": "多人吃黄油与面包甜品发烧腹泻",
+      "onboard_time": 1751616084,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74160,
       "num": 74160,
       "word": "单依纯 烈焰红唇",
@@ -1980,7 +2116,7 @@
     },
     {
       "raw_hot": 68709,
-      "num": 761825,
+      "num": 845103,
       "word": "被榕江洪灾救援中这一幕幕暖到了",
       "onboard_time": 1751607922,
       "rank": 2,
@@ -2395,12 +2531,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22397,
-      "num": 418627,
-      "word": "罗马仕经销商被迫卖充电线",
-      "onboard_time": 1751614343,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 21461,
+      "num": 131319,
+      "word": "抓到你啦",
+      "onboard_time": 1751616923,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 21160,
@@ -2424,6 +2560,14 @@
       "word": "铅中毒幼儿家长质疑幼儿园检测结果",
       "onboard_time": 1751614343,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17426,
+      "num": 213507,
+      "word": "杭州一商场公示预付费店铺名单引热议",
+      "onboard_time": 1751617283,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
