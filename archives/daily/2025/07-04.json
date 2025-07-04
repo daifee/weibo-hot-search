@@ -1,6 +1,6 @@
 {
   "startTime": 1751560391149,
-  "endTime": 1751618945113,
+  "endTime": 1751621346382,
   "band_list": [
     {
       "raw_hot": 3680796,
@@ -179,6 +179,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 796759,
+      "num": 510348,
+      "word": "建议大家都去频繁大量地记录自己",
+      "onboard_time": 1751615064,
+      "rank": 3,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 794778,
       "num": 708772,
       "word": "在印度有6个仆人但电视50寸",
@@ -267,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 662629,
+      "num": 662629,
+      "word": "田栩宁烧香烧到前面人脖子",
+      "onboard_time": 1751619567,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 649841,
       "num": 849184,
       "word": "成都东站致歉",
@@ -339,6 +355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 497491,
+      "num": 497491,
+      "word": "关晓彤曾把最胖的照片设成屏保",
+      "onboard_time": 1751615602,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 476063,
       "num": 476063,
       "word": "男孩呼吸困难母亲用塑料袋罩头急救",
@@ -403,12 +427,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 411689,
+      "num": 463579,
+      "word": "中方回应特朗普将向各国征新关税",
+      "onboard_time": 1751618244,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 395323,
+      "num": 395323,
+      "word": "冷水澡 减肥",
+      "onboard_time": 1751614763,
+      "rank": 44,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 392875,
       "num": 299003,
       "word": "田栩宁男三升男二",
       "onboard_time": 1751615902,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 387461,
+      "num": 393620,
+      "word": "日本末世预言剩1天有人撤离",
+      "onboard_time": 1751614103,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 384857,
@@ -475,6 +523,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 343835,
+      "num": 343835,
+      "word": "邓紫棋出小说了",
+      "onboard_time": 1751619205,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 341374,
       "num": 204813,
       "word": "雨果因签证问题无缘美国大满贯",
@@ -521,14 +577,6 @@
       "onboard_time": 1751593880,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 334916,
-      "num": 319914,
-      "word": "关晓彤曾把最胖的照片设成屏保",
-      "onboard_time": 1751615602,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 333238,
@@ -739,8 +787,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 232698,
+      "num": 232698,
+      "word": "爷爷下河捡玩具孙女拽衣哭喊不要了",
+      "onboard_time": 1751615783,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 230135,
-      "num": 219436,
+      "num": 236447,
       "word": "叶舒华自曝是母胎单身",
       "onboard_time": 1751616803,
       "rank": 21,
@@ -761,22 +817,6 @@
       "onboard_time": 1751612844,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 223578,
-      "num": 393620,
-      "word": "日本末世预言剩1天有人撤离",
-      "onboard_time": 1751614103,
-      "rank": 14,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 222026,
-      "num": 222026,
-      "word": "爷爷下河捡玩具孙女拽衣哭喊不要了",
-      "onboard_time": 1751615783,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 219523,
@@ -843,8 +883,16 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 209940,
+      "num": 209940,
+      "word": "民航飞行员过剩",
+      "onboard_time": 1751617885,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208891,
-      "num": 152965,
+      "num": 188922,
       "word": "以色列精准斩首伊朗指挥官",
       "onboard_time": 1751618425,
       "rank": 30,
@@ -881,6 +929,14 @@
       "onboard_time": 1751609902,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 204920,
+      "num": 204920,
+      "word": "荨麻疹",
+      "onboard_time": 1751616564,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 204889,
@@ -971,12 +1027,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 193738,
-      "num": 193738,
-      "word": "冷水澡 减肥",
-      "onboard_time": 1751614763,
-      "rank": 44,
-      "category": "运动健身"
+      "raw_hot": 193988,
+      "num": 193988,
+      "word": "无畏契约新地图首登VCTCN",
+      "onboard_time": 1751619147,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 191254,
@@ -1595,6 +1651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138610,
+      "num": 138610,
+      "word": "JDG对战情久",
+      "onboard_time": 1751619923,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 138462,
       "num": 138462,
       "word": "印度10年造出死亡折角立交桥",
@@ -1608,6 +1672,14 @@
       "word": "员工曝罗马仕已通知全面停工停产",
       "onboard_time": 1751554883,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137427,
+      "num": 138775,
+      "word": "多人吃黄油与面包甜品发烧腹泻",
+      "onboard_time": 1751616084,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -1699,6 +1771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129409,
+      "num": 129409,
+      "word": "瘦了60斤才敢说的实话",
+      "onboard_time": 1751620642,
+      "rank": 38,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 129054,
       "num": 151969,
       "word": "村民抓知了猴日收入过万",
@@ -1771,11 +1851,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 122259,
-      "num": 122259,
-      "word": "民航飞行员过剩",
-      "onboard_time": 1751617885,
-      "rank": 48,
+      "raw_hot": 120207,
+      "num": 394591,
+      "word": "山东一家面包店推出知了猴面包",
+      "onboard_time": 1751620462,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1803,6 +1883,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 118181,
+      "num": 126528,
+      "word": "陈梦拍照文艺感十足",
+      "onboard_time": 1751619626,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117579,
       "num": 117579,
       "word": "3岁处女座宝宝觉醒穿搭魂逼疯爸爸",
@@ -1825,14 +1913,6 @@
       "onboard_time": 1751590101,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 116450,
-      "num": 122188,
-      "word": "中方回应特朗普将向各国征新关税",
-      "onboard_time": 1751618244,
-      "rank": 40,
-      "category": "国内时政"
     },
     {
       "raw_hot": 115816,
@@ -1899,6 +1979,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111493,
+      "num": 111493,
+      "word": "日本末日预言时间为凌晨4点",
+      "onboard_time": 1751619745,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 110792,
+      "num": 110792,
+      "word": "张碧晨暴雨中的暗夜玫瑰",
+      "onboard_time": 1751621182,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 109067,
+      "num": 109067,
+      "word": "社保卡的余额可以随意支取吗",
+      "onboard_time": 1751619508,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108439,
       "num": 111165,
       "word": "习惯性反问到底有多讨厌",
@@ -1960,6 +2064,14 @@
       "word": "苏超南京队给对手上保险了",
       "onboard_time": 1751605342,
       "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 94552,
+      "num": 132583,
+      "word": "WTT回应雨果无缘美国大满贯",
+      "onboard_time": 1751621243,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -2035,6 +2147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82538,
+      "num": 234165,
+      "word": "大学生买境外迷奸药获刑",
+      "onboard_time": 1751620941,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82143,
       "num": 163458,
       "word": "这两类蔬菜不推荐你炒着吃",
@@ -2107,14 +2227,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 76004,
-      "num": 136802,
-      "word": "多人吃黄油与面包甜品发烧腹泻",
-      "onboard_time": 1751616084,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 74160,
       "num": 74160,
       "word": "单依纯 烈焰红唇",
@@ -2129,6 +2241,14 @@
       "onboard_time": 1751612662,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 72990,
+      "num": 388614,
+      "word": "血铅异常幼儿园每学期学费6千多",
+      "onboard_time": 1751619745,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72114,
@@ -2545,6 +2665,14 @@
       "onboard_time": 1751548583,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 26831,
+      "num": 125283,
+      "word": "国乒队员赛前训练有多专注",
+      "onboard_time": 1751620162,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 25584,

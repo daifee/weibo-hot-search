@@ -1,0 +1,410 @@
+{
+  "runTime": 1751621346382,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 989912,
+        "num": 1158386,
+        "word": "微信删过的人不要加第二次",
+        "onboard_time": 1751614223,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 662629,
+        "num": 662629,
+        "word": "田栩宁烧香烧到前面人脖子",
+        "onboard_time": 1751619567,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47728,
+        "num": 512348,
+        "word": "被榕江洪灾救援中这一幕幕暖到了",
+        "onboard_time": 1751607922,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 796759,
+        "num": 510348,
+        "word": "建议大家都去频繁大量地记录自己",
+        "onboard_time": 1751615064,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 497491,
+        "num": 497491,
+        "word": "关晓彤曾把最胖的照片设成屏保",
+        "onboard_time": 1751615602,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 411689,
+        "num": 463579,
+        "word": "中方回应特朗普将向各国征新关税",
+        "onboard_time": 1751618244,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 460658,
+        "num": 460658,
+        "word": "日本漫画家预言已有10个应验",
+        "onboard_time": 1751613443,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 432264,
+        "num": 432264,
+        "word": "DeepSeek给王一博道歉是假的",
+        "onboard_time": 1751604325,
+        "rank": 7,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 395323,
+        "num": 395323,
+        "word": "冷水澡 减肥",
+        "onboard_time": 1751614763,
+        "rank": 8,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 120207,
+        "num": 394591,
+        "word": "山东一家面包店推出知了猴面包",
+        "onboard_time": 1751620462,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1484093,
+        "num": 393235,
+        "word": "田栩宁女友置顶官宣照",
+        "onboard_time": 1751609542,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 717158,
+        "num": 391555,
+        "word": "胡楚靓自曝前任提亲前一天出轨",
+        "onboard_time": 1751612122,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 677062,
+        "num": 391343,
+        "word": "日本末世预言剩1天",
+        "onboard_time": 1751595442,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 673853,
+        "num": 389436,
+        "word": "韩安冉展示三胎孕肚",
+        "onboard_time": 1751613504,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 72990,
+        "num": 388614,
+        "word": "血铅异常幼儿园每学期学费6千多",
+        "onboard_time": 1751619745,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 387461,
+        "num": 387461,
+        "word": "日本末世预言剩1天有人撤离",
+        "onboard_time": 1751614103,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 343835,
+        "num": 343835,
+        "word": "邓紫棋出小说了",
+        "onboard_time": 1751619205,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336079,
+        "num": 336079,
+        "word": "平底鞋 矮子哭",
+        "onboard_time": 1751608882,
+        "rank": 17,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 243382,
+        "num": 243382,
+        "word": "张纪中小女儿被保姆烫伤",
+        "onboard_time": 1751612422,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200201,
+        "num": 236447,
+        "word": "叶舒华自曝是母胎单身",
+        "onboard_time": 1751616803,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82538,
+        "num": 234165,
+        "word": "大学生买境外迷奸药获刑",
+        "onboard_time": 1751620941,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232698,
+        "num": 232698,
+        "word": "爷爷下河捡玩具孙女拽衣哭喊不要了",
+        "onboard_time": 1751615783,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209940,
+        "num": 209940,
+        "word": "民航飞行员过剩",
+        "onboard_time": 1751617885,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204920,
+        "num": 204920,
+        "word": "荨麻疹",
+        "onboard_time": 1751616564,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 193988,
+        "num": 193988,
+        "word": "无畏契约新地图首登VCTCN",
+        "onboard_time": 1751619147,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 204882,
+        "num": 188922,
+        "word": "以色列精准斩首伊朗指挥官",
+        "onboard_time": 1751618425,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 182393,
+        "num": 182393,
+        "word": "每天只睡6小时身体会怎样",
+        "onboard_time": 1751618005,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 178368,
+        "num": 178368,
+        "word": "离婚现场别带孩子",
+        "onboard_time": 1751617042,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175435,
+        "num": 175435,
+        "word": "李飞你人真没事吗",
+        "onboard_time": 1751606903,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147448,
+        "num": 168261,
+        "word": "迪丽热巴发九宫图告别开推3",
+        "onboard_time": 1751611402,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178424,
+        "num": 168108,
+        "word": "月入1万8每月存一万6的真实原因",
+        "onboard_time": 1751615842,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167287,
+        "num": 167287,
+        "word": "TES与WBG互换辅助",
+        "onboard_time": 1751611042,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 145370,
+        "num": 145370,
+        "word": "iPhone 制冷模式",
+        "onboard_time": 1751598383,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 137703,
+        "num": 139184,
+        "word": "美方将取消对华采取的限制性措施",
+        "onboard_time": 1751610922,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137427,
+        "num": 138775,
+        "word": "多人吃黄油与面包甜品发烧腹泻",
+        "onboard_time": 1751616084,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 355554,
+        "num": 138729,
+        "word": "张弛结婚",
+        "onboard_time": 1751613924,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 138610,
+        "num": 138610,
+        "word": "JDG对战情久",
+        "onboard_time": 1751619923,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 94552,
+        "num": 132583,
+        "word": "WTT回应雨果无缘美国大满贯",
+        "onboard_time": 1751621243,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129409,
+        "num": 129409,
+        "word": "瘦了60斤才敢说的实话",
+        "onboard_time": 1751620642,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 118181,
+        "num": 126528,
+        "word": "陈梦拍照文艺感十足",
+        "onboard_time": 1751619626,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26831,
+        "num": 125283,
+        "word": "国乒队员赛前训练有多专注",
+        "onboard_time": 1751620162,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124784,
+        "num": 124784,
+        "word": "冻荔枝",
+        "onboard_time": 1751612844,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 120606,
+        "num": 120606,
+        "word": "广东没有高颅顶",
+        "onboard_time": 1751617042,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118436,
+        "num": 118436,
+        "word": "歌手第八期出场顺序",
+        "onboard_time": 1751618306,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117255,
+        "num": 117255,
+        "word": "迪丽热巴开推3人生镜头",
+        "onboard_time": 1751608403,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111493,
+        "num": 111493,
+        "word": "日本末日预言时间为凌晨4点",
+        "onboard_time": 1751619745,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 110792,
+        "num": 110792,
+        "word": "张碧晨暴雨中的暗夜玫瑰",
+        "onboard_time": 1751621182,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109067,
+        "num": 109067,
+        "word": "社保卡的余额可以随意支取吗",
+        "onboard_time": 1751619508,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108621,
+        "num": 108621,
+        "word": "花花看到生日蛋糕流口水",
+        "onboard_time": 1751595980,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107211,
+        "num": 107211,
+        "word": "跑男这期玩得很脏",
+        "onboard_time": 1751597903,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#厦门发展战略启示#"
+    }
+  }
+}
