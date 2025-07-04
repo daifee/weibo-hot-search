@@ -1,6 +1,6 @@
 {
   "startTime": 1751560391149,
-  "endTime": 1751622207154,
+  "endTime": 1751624920674,
   "band_list": [
     {
       "raw_hot": 3680796,
@@ -49,6 +49,14 @@
       "onboard_time": 1751587761,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1687899,
+      "num": 1687899,
+      "word": "日本末世预言剩1天有人撤离",
+      "onboard_time": 1751614103,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1383812,
@@ -121,6 +129,14 @@
       "onboard_time": 1751602051,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 899480,
+      "num": 899480,
+      "word": "日本华人就末世预言发声",
+      "onboard_time": 1751621542,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 884752,
@@ -315,6 +331,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 607508,
+      "num": 607508,
+      "word": "民航飞行员过剩",
+      "onboard_time": 1751617885,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 599674,
       "num": 599674,
       "word": "南航坠楼机长家属发声",
@@ -449,14 +473,6 @@
       "onboard_time": 1751615902,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 387461,
-      "num": 393620,
-      "word": "日本末世预言剩1天有人撤离",
-      "onboard_time": 1751614103,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 384857,
@@ -657,14 +673,6 @@
       "onboard_time": 1751591182,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 285925,
-      "num": 285925,
-      "word": "民航飞行员过剩",
-      "onboard_time": 1751617885,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 281077,
@@ -915,6 +923,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 208472,
+      "num": 227822,
+      "word": "汉南洞偶遇孙莉黄多多",
+      "onboard_time": 1751623042,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208367,
       "num": 208367,
       "word": "多国烟草价格已平均上涨超50%",
@@ -977,6 +993,14 @@
       "onboard_time": 1751600482,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 198184,
+      "num": 230027,
+      "word": "aespa舞台",
+      "onboard_time": 1751623761,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 198162,
@@ -1291,6 +1315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 165832,
+      "num": 165832,
+      "word": "BLACKPINK高阳演唱会彩排",
+      "onboard_time": 1751623641,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 165637,
       "num": 165637,
       "word": "高中去世的同学没有被遗忘",
@@ -1379,6 +1411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159391,
+      "num": 159391,
+      "word": "男子恋爱3年发现女友结婚2年了",
+      "onboard_time": 1751623341,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157924,
       "num": 157924,
       "word": "日本新燃岳火山喷发灰柱高达5000米",
@@ -1393,6 +1433,14 @@
       "onboard_time": 1751595742,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 157396,
+      "num": 157396,
+      "word": "小狗嘴里有好多小手套",
+      "onboard_time": 1751622022,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 156746,
@@ -1587,6 +1635,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 146081,
+      "num": 157582,
+      "word": "杨紫剧抛式演技具像化",
+      "onboard_time": 1751622261,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145954,
       "num": 145954,
       "word": "比高考还难的事情出现了",
@@ -1771,6 +1827,14 @@
       "category": "民生新闻,科学科普"
     },
     {
+      "raw_hot": 132516,
+      "num": 132516,
+      "word": "关晓彤陈哲远 吃饭最虔诚的两个人",
+      "onboard_time": 1751624122,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132192,
       "num": 246036,
       "word": "歌手第八期出场顺序",
@@ -1817,6 +1881,14 @@
       "onboard_time": 1751611463,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130031,
+      "num": 231311,
+      "word": "日本称仍无法预测大地震何时发生",
+      "onboard_time": 1751623281,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 129054,
@@ -2027,12 +2099,28 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 108768,
-      "num": 108768,
-      "word": "小狗嘴里有好多小手套",
-      "onboard_time": 1751622022,
-      "rank": 46,
-      "category": "幽默"
+      "raw_hot": 111449,
+      "num": 111449,
+      "word": "皮质醇高 戒咖啡",
+      "onboard_time": 1751621961,
+      "rank": 41,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 111215,
+      "num": 226396,
+      "word": "香港老人登上山东舰的反应让人泪目",
+      "onboard_time": 1751622983,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109354,
+      "num": 109354,
+      "word": "一部剧凑齐了狂飙三体开端的主演",
+      "onboard_time": 1751624843,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 108439,
@@ -2065,6 +2153,14 @@
       "onboard_time": 1751584519,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 103022,
+      "num": 103022,
+      "word": "21岁女大学生健身一年的变化",
+      "onboard_time": 1751623881,
+      "rank": 48,
+      "category": "运动健身"
     },
     {
       "raw_hot": 102328,
@@ -2155,6 +2251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87596,
+      "num": 109897,
+      "word": "美国会通过的税收法案被批大而坏",
+      "onboard_time": 1751623400,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 87275,
       "num": 87275,
       "word": "退烧药引发男童全身90%皮肤剥脱",
@@ -2169,14 +2273,6 @@
       "onboard_time": 1751548943,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 84622,
-      "num": 336656,
-      "word": "日本华人就末世预言发声",
-      "onboard_time": 1751621542,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 83699,
@@ -2265,6 +2361,22 @@
       "onboard_time": 1751606483,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79260,
+      "num": 113162,
+      "word": "运动上瘾",
+      "onboard_time": 1751624301,
+      "rank": 39,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 77383,
+      "num": 170926,
+      "word": "李昀锐白发魔法师造型",
+      "onboard_time": 1751623941,
+      "rank": 24,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 76951,
@@ -2380,7 +2492,7 @@
     },
     {
       "raw_hot": 62317,
-      "num": 196199,
+      "num": 229122,
       "word": "开机甲怎么过科目三",
       "onboard_time": 1751621721,
       "rank": 28,
@@ -2497,6 +2609,14 @@
       "onboard_time": 1751602704,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 53158,
+      "num": 227270,
+      "word": "绝大部分日本人生活未受末世预言影响",
+      "onboard_time": 1751624541,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 50236,

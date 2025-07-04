@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751622207154,
+  "endTime": 1751624920674,
   "band_list": [
     {
       "raw_hot": 4866007,
@@ -153,6 +153,14 @@
       "onboard_time": 1751511020,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1687899,
+      "num": 1687899,
+      "word": "日本末世预言剩1天有人撤离",
+      "onboard_time": 1751614103,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1652375,
@@ -609,6 +617,14 @@
       "onboard_time": 1751533282,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 899480,
+      "num": 899480,
+      "word": "日本华人就末世预言发声",
+      "onboard_time": 1751621542,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 896371,
@@ -1464,6 +1480,14 @@
       "word": "五台山将米扔出殿外僧人被劝返回家",
       "onboard_time": 1751431523,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 607508,
+      "num": 607508,
+      "word": "民航飞行员过剩",
+      "onboard_time": 1751617885,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -2385,14 +2409,6 @@
       "onboard_time": 1751555484,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 387461,
-      "num": 393620,
-      "word": "日本末世预言剩1天有人撤离",
-      "onboard_time": 1751614103,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 386910,
@@ -3337,14 +3353,6 @@
       "onboard_time": 1751376383,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 285925,
-      "num": 285925,
-      "word": "民航飞行员过剩",
-      "onboard_time": 1751617885,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 283308,
@@ -4547,6 +4555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208472,
+      "num": 227822,
+      "word": "汉南洞偶遇孙莉黄多多",
+      "onboard_time": 1751623042,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208367,
       "num": 208367,
       "word": "多国烟草价格已平均上涨超50%",
@@ -4897,6 +4913,14 @@
       "onboard_time": 1751340021,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198184,
+      "num": 230027,
+      "word": "aespa舞台",
+      "onboard_time": 1751623761,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 198074,
@@ -6147,6 +6171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165832,
+      "num": 165832,
+      "word": "BLACKPINK高阳演唱会彩排",
+      "onboard_time": 1751623641,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 165637,
       "num": 165637,
       "word": "高中去世的同学没有被遗忘",
@@ -6499,6 +6531,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 159391,
+      "num": 159391,
+      "word": "男子恋爱3年发现女友结婚2年了",
+      "onboard_time": 1751623341,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159371,
       "num": 159371,
       "word": "日本男子委托妻子杀死自己",
@@ -6553,6 +6593,14 @@
       "onboard_time": 1751595742,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 157396,
+      "num": 157396,
+      "word": "小狗嘴里有好多小手套",
+      "onboard_time": 1751622022,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 156810,
@@ -7081,6 +7129,14 @@
       "onboard_time": 1751345423,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 146081,
+      "num": 157582,
+      "word": "杨紫剧抛式演技具像化",
+      "onboard_time": 1751622261,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 145954,
@@ -7955,6 +8011,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 132516,
+      "num": 132516,
+      "word": "关晓彤陈哲远 吃饭最虔诚的两个人",
+      "onboard_time": 1751624122,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132204,
       "num": 132204,
       "word": "魏哲鸣这一跪鹰视狼顾",
@@ -8185,6 +8249,14 @@
       "onboard_time": 1751513782,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 130031,
+      "num": 231311,
+      "word": "日本称仍无法预测大地震何时发生",
+      "onboard_time": 1751623281,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 130025,
@@ -9475,6 +9547,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 111449,
+      "num": 111449,
+      "word": "皮质醇高 戒咖啡",
+      "onboard_time": 1751621961,
+      "rank": 41,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 111420,
       "num": 111420,
       "word": "刘轩丞问暑期什么安排",
@@ -9489,6 +9569,14 @@
       "onboard_time": 1751351901,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 111215,
+      "num": 226396,
+      "word": "香港老人登上山东舰的反应让人泪目",
+      "onboard_time": 1751622983,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111075,
@@ -9587,6 +9675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109354,
+      "num": 109354,
+      "word": "一部剧凑齐了狂飙三体开端的主演",
+      "onboard_time": 1751624843,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109014,
       "num": 109014,
       "word": "日本一地10天地震660次还在持续",
@@ -9601,14 +9697,6 @@
       "onboard_time": 1751466324,
       "rank": 45,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 108768,
-      "num": 108768,
-      "word": "小狗嘴里有好多小手套",
-      "onboard_time": 1751622022,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 108655,
@@ -9945,6 +10033,14 @@
       "onboard_time": 1751436082,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103022,
+      "num": 103022,
+      "word": "21岁女大学生健身一年的变化",
+      "onboard_time": 1751623881,
+      "rank": 48,
+      "category": "运动健身"
     },
     {
       "raw_hot": 103000,
@@ -10587,6 +10683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87596,
+      "num": 109897,
+      "word": "美国会通过的税收法案被批大而坏",
+      "onboard_time": 1751623400,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 87557,
       "num": 262783,
       "word": "文淇李庚希赵今麦00花同框",
@@ -10697,14 +10801,6 @@
       "onboard_time": 1751465364,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 84622,
-      "num": 336656,
-      "word": "日本华人就末世预言发声",
-      "onboard_time": 1751621542,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 84589,
@@ -10891,6 +10987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79260,
+      "num": 113162,
+      "word": "运动上瘾",
+      "onboard_time": 1751624301,
+      "rank": 39,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 79082,
       "num": 840697,
       "word": "3237件文物1525张照片将集中展出",
@@ -10929,6 +11033,14 @@
       "onboard_time": 1751346921,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77383,
+      "num": 170926,
+      "word": "李昀锐白发魔法师造型",
+      "onboard_time": 1751623941,
+      "rank": 24,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 77068,
@@ -11412,7 +11524,7 @@
     },
     {
       "raw_hot": 62317,
-      "num": 196199,
+      "num": 229122,
       "word": "开机甲怎么过科目三",
       "onboard_time": 1751621721,
       "rank": 28,
@@ -11713,6 +11825,14 @@
       "onboard_time": 1751388198,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 53158,
+      "num": 227270,
+      "word": "绝大部分日本人生活未受末世预言影响",
+      "onboard_time": 1751624541,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 52928,
