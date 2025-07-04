@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1751633555569,
+  "endTime": 1751634441108,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1443,6 +1443,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 6390116,
+      "num": 6390116,
+      "word": "李佳薇太牛了",
+      "onboard_time": 1751632946,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 6171526,
       "num": 6171526,
       "word": "李明德因酒后砸车被刑拘",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1741847421,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3569605,
-      "num": 3569605,
-      "word": "单身税",
-      "onboard_time": 1751183842,
-      "rank": 0,
-      "category": "海外新闻"
     }
   ],
   "hotgov_list": [

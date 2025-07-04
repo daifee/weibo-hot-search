@@ -1,0 +1,410 @@
+{
+  "runTime": 1751634441108,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6390116,
+        "num": 6390116,
+        "word": "李佳薇太牛了",
+        "onboard_time": 1751632946,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1241123,
+        "num": 1241123,
+        "word": "歌手直播",
+        "onboard_time": 1751628923,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84382,
+        "num": 893755,
+        "word": "榕江人民永远记在心上",
+        "onboard_time": 1751625739,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 605559,
+        "num": 605559,
+        "word": "瞒着全家人考上了北大",
+        "onboard_time": 1751624961,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 378512,
+        "num": 378512,
+        "word": "10元快剪店理发师月入2万元",
+        "onboard_time": 1751629643,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334789,
+        "num": 334789,
+        "word": "微信删过的人不要加第二次",
+        "onboard_time": 1751614223,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 796467,
+        "num": 333558,
+        "word": "李佳薇揭榜者来女",
+        "onboard_time": 1751632344,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 790370,
+        "num": 330357,
+        "word": "TVB演员雪妮病逝",
+        "onboard_time": 1751631624,
+        "rank": 7,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 324369,
+        "num": 324369,
+        "word": "人社局称招服务员要求本科不算歧视",
+        "onboard_time": 1751628682,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267376,
+        "num": 267376,
+        "word": "天水幼儿园血铅异常超50人邻省血检",
+        "onboard_time": 1751632705,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 880826,
+        "num": 262018,
+        "word": "田栩宁女友置顶官宣照",
+        "onboard_time": 1751609542,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 741219,
+        "num": 257361,
+        "word": "日本末世预言剩1天有人撤离",
+        "onboard_time": 1751614103,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 625578,
+        "num": 255399,
+        "word": "GAI是不是又想走了",
+        "onboard_time": 1751631864,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 552715,
+        "num": 246928,
+        "word": "海泉淘汰了",
+        "onboard_time": 1751631503,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 488245,
+        "num": 239874,
+        "word": "日本末世预言剩1天",
+        "onboard_time": 1751595442,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 379699,
+        "num": 236155,
+        "word": "29岁身高从165厘米到171厘米",
+        "onboard_time": 1751626283,
+        "rank": 15,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 233576,
+        "num": 233576,
+        "word": "周深入水像下定了某种决心",
+        "onboard_time": 1751630423,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78658,
+        "num": 230726,
+        "word": "韩安冉女儿玩张凌赫签名照",
+        "onboard_time": 1751625982,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 228200,
+        "num": 228200,
+        "word": "以闪亮之名",
+        "onboard_time": 1751632222,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147726,
+        "num": 228061,
+        "word": "为什么豪车高配才给四驱",
+        "onboard_time": 1751632705,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 392798,
+        "num": 226043,
+        "word": "心疼格格",
+        "onboard_time": 1751631624,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321964,
+        "num": 223879,
+        "word": "披荆斩棘5一公",
+        "onboard_time": 1751629103,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294500,
+        "num": 222674,
+        "word": "何惟芳蒋长扬亲好猛",
+        "onboard_time": 1751631744,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53950,
+        "num": 219996,
+        "word": "警方介入河南大学生泰国失联14天",
+        "onboard_time": 1751634086,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30483,
+        "num": 218442,
+        "word": "周冠宇随法拉利征战F1英国站",
+        "onboard_time": 1751633545,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 288094,
+        "num": 216407,
+        "word": "鹿晗青岛演唱会",
+        "onboard_time": 1751630905,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 270374,
+        "num": 214396,
+        "word": "迪丽热巴 御木本",
+        "onboard_time": 1751627785,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268864,
+        "num": 212458,
+        "word": "单依纯歌手竞演前直播",
+        "onboard_time": 1751628802,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248966,
+        "num": 210947,
+        "word": "刘端端体制内的魅力",
+        "onboard_time": 1751631264,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145736,
+        "num": 209736,
+        "word": "穿这些颜色容易招虫子",
+        "onboard_time": 1751633786,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 207955,
+        "num": 207955,
+        "word": "歌手顺序",
+        "onboard_time": 1751631383,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206486,
+        "num": 206486,
+        "word": "建议大家都去频繁大量地记录自己",
+        "onboard_time": 1751615064,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196746,
+        "num": 196746,
+        "word": "者来女唱玉盘",
+        "onboard_time": 1751632464,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183271,
+        "num": 183271,
+        "word": "日本华人就末世预言发声",
+        "onboard_time": 1751621542,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 181831,
+        "num": 181831,
+        "word": "DeepSeek给王一博道歉是假的",
+        "onboard_time": 1751604325,
+        "rank": 34,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 172268,
+        "num": 172268,
+        "word": "大学生购买10粒迷奸药获刑10个月",
+        "onboard_time": 1751627785,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148639,
+        "num": 171759,
+        "word": "交往6年男友竟是刑满释放人员",
+        "onboard_time": 1751630845,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171542,
+        "num": 171542,
+        "word": "韩安冉展示三胎孕肚",
+        "onboard_time": 1751613504,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 161246,
+        "num": 161246,
+        "word": "GAI风格",
+        "onboard_time": 1751631562,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109653,
+        "num": 154633,
+        "word": "王楚钦给小朋友签名",
+        "onboard_time": 1751634024,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151853,
+        "num": 151853,
+        "word": "歌手开播收视率",
+        "onboard_time": 1751634204,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148509,
+        "num": 148509,
+        "word": "杨幂女明星的临场反应",
+        "onboard_time": 1751632886,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147314,
+        "num": 147314,
+        "word": "格格好听",
+        "onboard_time": 1751632044,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126724,
+        "num": 126724,
+        "word": "BLACKPINK高阳演唱会彩排",
+        "onboard_time": 1751623641,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118176,
+        "num": 118176,
+        "word": "奶奶和孩子留下",
+        "onboard_time": 1751633965,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114347,
+        "num": 114347,
+        "word": "何惟芳告白",
+        "onboard_time": 1751630124,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114300,
+        "num": 114300,
+        "word": "龙族定档预告全是名台词",
+        "onboard_time": 1751631864,
+        "rank": 46,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 109777,
+        "num": 109777,
+        "word": "山东舰航母编队又燃又帅",
+        "onboard_time": 1751617946,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 109160,
+        "num": 109160,
+        "word": "Tian维权成功",
+        "onboard_time": 1751629343,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108217,
+        "num": 108217,
+        "word": "山东舰上还有2只舰载熊猫",
+        "onboard_time": 1751628143,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#这颗炙热的向党之心令人感动#"
+    }
+  }
+}

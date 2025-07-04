@@ -1,7 +1,15 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751633555569,
+  "endTime": 1751634441108,
   "band_list": [
+    {
+      "raw_hot": 6390116,
+      "num": 6390116,
+      "word": "李佳薇太牛了",
+      "onboard_time": 1751632946,
+      "rank": 0,
+      "category": "综艺"
+    },
     {
       "raw_hot": 4866007,
       "num": 4866007,
@@ -41,14 +49,6 @@
       "onboard_time": 1751595442,
       "rank": 12,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 3392069,
-      "num": 3392069,
-      "word": "李佳薇太牛了",
-      "onboard_time": 1751632946,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 3137017,
@@ -468,7 +468,7 @@
     },
     {
       "raw_hot": 1277960,
-      "num": 520959,
+      "num": 1241123,
       "word": "歌手直播",
       "onboard_time": 1751628923,
       "rank": 27,
@@ -916,7 +916,7 @@
     },
     {
       "raw_hot": 966526,
-      "num": 330304,
+      "num": 333558,
       "word": "李佳薇揭榜者来女",
       "onboard_time": 1751632344,
       "rank": 6,
@@ -1148,7 +1148,7 @@
     },
     {
       "raw_hot": 861936,
-      "num": 330164,
+      "num": 330357,
       "word": "TVB演员雪妮病逝",
       "onboard_time": 1751631624,
       "rank": 7,
@@ -3811,6 +3811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 378512,
+      "num": 378512,
+      "word": "10元快剪店理发师月入2万元",
+      "onboard_time": 1751629643,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 378507,
       "num": 316099,
       "word": "28岁女子做取环手术致十级伤残",
@@ -4563,14 +4571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 321087,
-      "num": 321087,
-      "word": "10元快剪店理发师月入2万元",
-      "onboard_time": 1751629643,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 320413,
       "num": 320413,
       "word": "雷军回应大定被质疑有水分",
@@ -5059,6 +5059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 294500,
+      "num": 285581,
+      "word": "何惟芳蒋长扬亲好猛",
+      "onboard_time": 1751631744,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 294330,
       "num": 362287,
       "word": "商务部回应特朗普拟访华报道",
@@ -5179,7 +5187,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 287992,
+      "raw_hot": 288094,
       "num": 287992,
       "word": "鹿晗青岛演唱会",
       "onboard_time": 1751630905,
@@ -5257,14 +5265,6 @@
       "onboard_time": 1751209763,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 285581,
-      "num": 285581,
-      "word": "何惟芳蒋长扬亲好猛",
-      "onboard_time": 1751631744,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 284692,
@@ -5545,6 +5545,14 @@
       "onboard_time": 1751631264,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 267376,
+      "num": 321028,
+      "word": "天水幼儿园血铅异常超50人邻省血检",
+      "onboard_time": 1751632705,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 267171,
@@ -6329,6 +6337,14 @@
       "onboard_time": 1751378244,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 228200,
+      "num": 228200,
+      "word": "以闪亮之名",
+      "onboard_time": 1751632222,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 228147,
@@ -7137,6 +7153,14 @@
       "onboard_time": 1751195181,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207955,
+      "num": 207955,
+      "word": "歌手顺序",
+      "onboard_time": 1751631383,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 207782,
@@ -8051,14 +8075,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 192533,
-      "num": 192533,
-      "word": "歌手顺序",
-      "onboard_time": 1751631383,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 192420,
       "num": 192420,
       "word": "曼城3比4利雅得新月",
@@ -8545,14 +8561,6 @@
       "onboard_time": 1751281822,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 184387,
-      "num": 184387,
-      "word": "以闪亮之名",
-      "onboard_time": 1751632222,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 184370,
@@ -10931,6 +10939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151853,
+      "num": 151853,
+      "word": "歌手开播收视率",
+      "onboard_time": 1751634204,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151788,
       "num": 182130,
       "word": "波尔回应樊振东祝福",
@@ -11203,6 +11219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148639,
+      "num": 171759,
+      "word": "交往6年男友竟是刑满释放人员",
+      "onboard_time": 1751630845,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148582,
       "num": 309750,
       "word": "一幼儿园违规用添加剂幼儿血铅异常",
@@ -11241,6 +11265,14 @@
       "onboard_time": 1751164161,
       "rank": 33,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 148509,
+      "num": 148509,
+      "word": "杨幂女明星的临场反应",
+      "onboard_time": 1751632886,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 148503,
@@ -11473,6 +11505,14 @@
       "onboard_time": 1751325618,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145736,
+      "num": 209736,
+      "word": "穿这些颜色容易招虫子",
+      "onboard_time": 1751633786,
+      "rank": 29,
+      "category": "科学科普"
     },
     {
       "raw_hot": 145731,
@@ -12513,14 +12553,6 @@
       "onboard_time": 1751348781,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 134802,
-      "num": 159317,
-      "word": "交往6年男友竟是刑满释放人员",
-      "onboard_time": 1751630845,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134788,
@@ -13659,14 +13691,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 125587,
-      "num": 125587,
-      "word": "杨幂女明星的临场反应",
-      "onboard_time": 1751632886,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 125569,
       "num": 125569,
       "word": "徐艺洋也有labubu",
@@ -14451,6 +14475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118176,
+      "num": 118176,
+      "word": "奶奶和孩子留下",
+      "onboard_time": 1751633965,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118172,
       "num": 130552,
       "word": "王诗玥柳鑫宇正式回归",
@@ -14849,6 +14881,14 @@
       "onboard_time": 1751179521,
       "rank": 44,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 114347,
+      "num": 114347,
+      "word": "何惟芳告白",
+      "onboard_time": 1751630124,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 114335,
@@ -15283,14 +15323,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 110791,
-      "num": 110791,
-      "word": "何惟芳告白",
-      "onboard_time": 1751630124,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 110702,
       "num": 110702,
       "word": "刘宇宁总能给人焕新感",
@@ -15369,6 +15401,14 @@
       "onboard_time": 1751436443,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109653,
+      "num": 154633,
+      "word": "王楚钦给小朋友签名",
+      "onboard_time": 1751634024,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 109525,
@@ -17019,6 +17059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84382,
+      "num": 893755,
+      "word": "榕江人民永远记在心上",
+      "onboard_time": 1751625739,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 84206,
       "num": 291769,
       "word": "下半年这些待播剧将是神仙局",
@@ -17409,14 +17457,6 @@
       "onboard_time": 1751212342,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 75410,
-      "num": 592186,
-      "word": "榕江人民永远记在心上",
-      "onboard_time": 1751625739,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 75319,
@@ -18483,6 +18523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53950,
+      "num": 219996,
+      "word": "警方介入河南大学生泰国失联14天",
+      "onboard_time": 1751634086,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53715,
       "num": 243654,
       "word": "宇树科技或于科创板IPO",
@@ -18632,14 +18680,6 @@
       "word": "春秋航空辟谣飞机极速下落3000米",
       "onboard_time": 1751326758,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 49347,
-      "num": 321028,
-      "word": "天水幼儿园血铅异常超50人邻省血检",
-      "onboard_time": 1751632705,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -19745,6 +19785,14 @@
       "onboard_time": 1751520742,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30483,
+      "num": 218442,
+      "word": "周冠宇随法拉利征战F1英国站",
+      "onboard_time": 1751633545,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 30154,
