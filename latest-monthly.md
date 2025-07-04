@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/05 01:41:41
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/05 02:35:27
 </p>
 </blockquote>
 <p>
@@ -5715,6 +5715,12 @@ Doggo女警五杀（热度：155758）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%88%91%E4%BB%AC%E7%9A%84%E6%98%8E%E5%A4%A9%E5%85%A8%E5%9C%BA%E5%A4%A7%E5%90%88%E5%94%B1%23" target="weibo">
+鹿晗我们的明天全场大合唱（热度：152636）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%BF%E6%B4%B2%E4%B9%90%E9%98%9F%E4%B8%BB%E5%94%B1%E7%96%91%E4%BC%BC%E5%8F%91%E8%A1%A8%E8%BE%B1%E5%8D%8E%E8%A8%80%E8%AE%BA%23" target="weibo">
 绿洲乐队主唱疑似发表辱华言论（热度：152511）
 </a>
@@ -6005,12 +6011,6 @@ RED扫楼直播（热度：147639）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23G2%E6%99%8B%E7%BA%A7%E6%B7%98%E6%B1%B0%E8%B5%9B%23" target="weibo">
 G2晋级淘汰赛（热度：145288）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%AB%A5%E6%89%93%E6%B0%B4%E4%BB%97%E5%90%8E%E5%8F%91%E7%83%A7%E6%84%9F%E6%9F%93%E9%A3%9F%E8%84%91%E8%99%AB%23" target="weibo">
-男童打水仗后发烧感染食脑虫（热度：145037）
 </a>
 </li>
 
