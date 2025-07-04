@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751607989360,
+  "endTime": 1751611148513,
   "band_list": [
     {
       "raw_hot": 4866007,
@@ -129,6 +129,14 @@
       "onboard_time": 1751427141,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1718965,
+      "num": 365814,
+      "word": "田栩宁女友置顶官宣照",
+      "onboard_time": 1751609542,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1713034,
@@ -403,6 +411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1048693,
+      "num": 1167790,
+      "word": "TVB演员周聪去世",
+      "onboard_time": 1751608522,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1042060,
       "num": 477064,
       "word": "夏天杀死了labubu",
@@ -595,6 +611,14 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 883716,
+      "num": 355363,
+      "word": "英国黑人计划来华传播艾滋病",
+      "onboard_time": 1751608764,
+      "rank": 12,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 873271,
       "num": 873271,
       "word": "吃完山竹记得要漱口",
@@ -763,20 +787,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 794778,
+      "num": 708772,
+      "word": "在印度有6个仆人但电视50寸",
+      "onboard_time": 1751605402,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 788243,
       "num": 411412,
       "word": "晚晚直播 让妆",
       "onboard_time": 1751600721,
       "rank": 10,
       "category": "网红"
-    },
-    {
-      "raw_hot": 785037,
-      "num": 708772,
-      "word": "在印度有6个仆人但电视50寸",
-      "onboard_time": 1751605402,
-      "rank": 4,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 777324,
@@ -1355,6 +1379,14 @@
       "category": "作品衍生,作品衍生"
     },
     {
+      "raw_hot": 601210,
+      "num": 433661,
+      "word": "李飞你人真没事吗",
+      "onboard_time": 1751606903,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 597889,
       "num": 254268,
       "word": "原来幂姐也会吃十几块的普通餐",
@@ -1819,6 +1851,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 456035,
+      "num": 352355,
+      "word": "田栩宁 若若",
+      "onboard_time": 1751609063,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 452772,
       "num": 444722,
       "word": "陈思诚说李庚希京圈公主传闻是扯淡",
@@ -2155,6 +2195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 395422,
+      "num": 395422,
+      "word": "台名医下药性侵三女遭通缉",
+      "onboard_time": 1751607023,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 392435,
       "num": 368773,
       "word": "陈泽希被曝多次出轨",
@@ -2201,6 +2249,14 @@
       "onboard_time": 1751592141,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 381688,
+      "num": 339507,
+      "word": "迪丽热巴开推3人生镜头",
+      "onboard_time": 1751608403,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 378507,
@@ -3147,14 +3203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 279708,
-      "num": 279708,
-      "word": "李飞你人真没事吗",
-      "onboard_time": 1751606903,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 278827,
       "num": 394153,
       "word": "张凌赫王楚然路透爸爸妈妈级别",
@@ -3241,6 +3289,14 @@
       "onboard_time": 1751430564,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 267510,
+      "num": 328399,
+      "word": "南航坠楼机长家属发声",
+      "onboard_time": 1751610922,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 267171,
@@ -3419,6 +3475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247665,
+      "num": 247665,
+      "word": "关晓彤分享彩椒碗教程",
+      "onboard_time": 1751610023,
+      "rank": 23,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 247467,
       "num": 180917,
       "word": "杨幂吴谨言赵今麦VOGUE红毯图",
@@ -3465,6 +3529,14 @@
       "onboard_time": 1751436142,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 244362,
+      "num": 244362,
+      "word": "短剧还珠",
+      "onboard_time": 1751609782,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 243712,
@@ -3956,7 +4028,7 @@
     },
     {
       "raw_hot": 219523,
-      "num": 219523,
+      "num": 252928,
       "word": "以为是22集结果回到第1集",
       "onboard_time": 1751607442,
       "rank": 26,
@@ -4227,14 +4299,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 209155,
-      "num": 209155,
-      "word": "台名医下药性侵三女遭通缉",
-      "onboard_time": 1751607023,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 208666,
       "num": 208666,
       "word": "王楚钦运动小记",
@@ -4345,6 +4409,14 @@
       "onboard_time": 1751382624,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 204889,
+      "num": 204889,
+      "word": "田栩宁演万天齐",
+      "onboard_time": 1751609001,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 204302,
@@ -4571,6 +4643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197994,
+      "num": 197994,
+      "word": "王曼昱当选为全国青联第十四届委员",
+      "onboard_time": 1751609962,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197743,
       "num": 186107,
       "word": "再见江野定档",
@@ -4649,6 +4729,14 @@
       "onboard_time": 1751555304,
       "rank": 22,
       "category": "民生新闻,数码"
+    },
+    {
+      "raw_hot": 195494,
+      "num": 195494,
+      "word": "荔枝馒头",
+      "onboard_time": 1751609902,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 195481,
@@ -5315,6 +5403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175121,
+      "num": 175121,
+      "word": "张艺兴五巡官宣",
+      "onboard_time": 1751609723,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 174641,
       "num": 174641,
       "word": "荣耀magic V5",
@@ -5579,6 +5675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168278,
+      "num": 168278,
+      "word": "微信可将聊天记录备份至U盘",
+      "onboard_time": 1751608342,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 168271,
       "num": 197551,
       "word": "何炅内娱白月光",
@@ -5665,6 +5769,14 @@
       "onboard_time": 1751556083,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166328,
+      "num": 166328,
+      "word": "原来这就是大家拼命要上岸的原因",
+      "onboard_time": 1751610381,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 166252,
@@ -6283,6 +6395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152447,
+      "num": 152447,
+      "word": "一个月4000块好挣吗",
+      "onboard_time": 1751610440,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 152390,
       "num": 152390,
       "word": "王楚然好优雅的民国千金",
@@ -6313,6 +6433,14 @@
       "onboard_time": 1751523742,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151760,
+      "num": 151760,
+      "word": "TES与WBG互换辅助",
+      "onboard_time": 1751611042,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 151372,
@@ -6889,6 +7017,14 @@
       "onboard_time": 1751443822,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139159,
+      "num": 139159,
+      "word": "开始推理吧收官",
+      "onboard_time": 1751609662,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 139134,
@@ -7531,6 +7667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130299,
+      "num": 130299,
+      "word": "游本昌",
+      "onboard_time": 1751610862,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130135,
       "num": 130135,
       "word": "世界上最没用的一句话",
@@ -7545,6 +7689,14 @@
       "onboard_time": 1751431824,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129919,
+      "num": 129919,
+      "word": "外星不明物体造访太阳系",
+      "onboard_time": 1751608764,
+      "rank": 48,
+      "category": "民生新闻,科学科普"
     },
     {
       "raw_hot": 129811,
@@ -7601,6 +7753,14 @@
       "onboard_time": 1751422400,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 129054,
+      "num": 151969,
+      "word": "村民抓知了猴日收入过万",
+      "onboard_time": 1751609482,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128989,
@@ -10091,6 +10251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79780,
+      "num": 130086,
+      "word": "美方将取消对华采取的限制性措施",
+      "onboard_time": 1751610922,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 79721,
       "num": 350909,
       "word": "安普瑞斯电芯几乎覆盖所有主流品牌",
@@ -10395,6 +10563,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 69686,
+      "num": 146935,
+      "word": "热心市民秦彻先生",
+      "onboard_time": 1751610982,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 69396,
       "num": 227311,
       "word": "武功山官微发吊带女孩福利被质疑",
@@ -10457,6 +10633,14 @@
       "onboard_time": 1751373441,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 66500,
+      "num": 761825,
+      "word": "被榕江洪灾救援中这一幕幕暖到了",
+      "onboard_time": 1751607922,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66393,
@@ -11043,6 +11227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 47755,
+      "num": 328211,
+      "word": "韩军称控制一名越线朝鲜人员",
+      "onboard_time": 1751610082,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 47542,
       "num": 284950,
       "word": "上海乐高乐园回应乐高大飞车卡住",
@@ -11273,6 +11465,14 @@
       "onboard_time": 1751377283,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 40139,
+      "num": 198052,
+      "word": "美国绝美风暴",
+      "onboard_time": 1751610082,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 40049,
@@ -11616,6 +11816,14 @@
       "word": "充电宝上火车尚不需检查3C标识",
       "onboard_time": 1751377343,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31415,
+      "num": 347739,
+      "word": "部分共享充电宝无3C标识",
+      "onboard_time": 1751610682,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -12481,14 +12689,6 @@
       "onboard_time": 1751568016,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 7050,
-      "num": 761825,
-      "word": "被榕江洪灾救援中这一幕幕暖到了",
-      "onboard_time": 1751607922,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 6974,

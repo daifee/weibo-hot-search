@@ -1,6 +1,6 @@
 {
   "startTime": 1751560391149,
-  "endTime": 1751607989360,
+  "endTime": 1751611148513,
   "band_list": [
     {
       "raw_hot": 3680796,
@@ -32,6 +32,14 @@
       "word": "关晓彤戒指",
       "onboard_time": 1751587761,
       "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1718965,
+      "num": 365814,
+      "word": "田栩宁女友置顶官宣照",
+      "onboard_time": 1751609542,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -67,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1048693,
+      "num": 1167790,
+      "word": "TVB演员周聪去世",
+      "onboard_time": 1751608522,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 931114,
       "num": 931114,
       "word": "被骗至缅甸男模特已获救",
@@ -81,6 +97,14 @@
       "onboard_time": 1751603783,
       "rank": 26,
       "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 883716,
+      "num": 355363,
+      "word": "英国黑人计划来华传播艾滋病",
+      "onboard_time": 1751608764,
+      "rank": 12,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 853423,
@@ -107,20 +131,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 794778,
+      "num": 708772,
+      "word": "在印度有6个仆人但电视50寸",
+      "onboard_time": 1751605402,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 788243,
       "num": 411412,
       "word": "晚晚直播 让妆",
       "onboard_time": 1751600721,
       "rank": 10,
       "category": "网红"
-    },
-    {
-      "raw_hot": 785037,
-      "num": 708772,
-      "word": "在印度有6个仆人但电视50寸",
-      "onboard_time": 1751605402,
-      "rank": 4,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 745353,
@@ -195,6 +219,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 601210,
+      "num": 433661,
+      "word": "李飞你人真没事吗",
+      "onboard_time": 1751606903,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 585588,
       "num": 585588,
       "word": "花花看到生日蛋糕流口水",
@@ -243,11 +275,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 456035,
+      "num": 352355,
+      "word": "田栩宁 若若",
+      "onboard_time": 1751609063,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 422702,
       "num": 478025,
       "word": "毕业6年存130万小伙每月吃饭500元",
       "onboard_time": 1751558480,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 395422,
+      "num": 395422,
+      "word": "台名医下药性侵三女遭通缉",
+      "onboard_time": 1751607023,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -257,6 +305,14 @@
       "onboard_time": 1751592141,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 381688,
+      "num": 339507,
+      "word": "迪丽热巴开推3人生镜头",
+      "onboard_time": 1751608403,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 371768,
@@ -443,14 +499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 279708,
-      "num": 279708,
-      "word": "李飞你人真没事吗",
-      "onboard_time": 1751606903,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 271396,
       "num": 327640,
       "word": "等比例长大的杨紫",
@@ -464,6 +512,14 @@
       "word": "哈尔滨高温居民排队装空调",
       "onboard_time": 1751602943,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 267510,
+      "num": 328399,
+      "word": "南航坠楼机长家属发声",
+      "onboard_time": 1751610922,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -515,12 +571,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 247665,
+      "num": 247665,
+      "word": "关晓彤分享彩椒碗教程",
+      "onboard_time": 1751610023,
+      "rank": 23,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 245308,
       "num": 275944,
       "word": "杨幂竹节褶衣",
       "onboard_time": 1751597301,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 244362,
+      "num": 244362,
+      "word": "短剧还珠",
+      "onboard_time": 1751609782,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 240389,
@@ -548,7 +620,7 @@
     },
     {
       "raw_hot": 219523,
-      "num": 219523,
+      "num": 252928,
       "word": "以为是22集结果回到第1集",
       "onboard_time": 1751607442,
       "rank": 26,
@@ -611,14 +683,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 209155,
-      "num": 209155,
-      "word": "台名医下药性侵三女遭通缉",
-      "onboard_time": 1751607023,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 208367,
       "num": 208367,
       "word": "多国烟草价格已平均上涨超50%",
@@ -632,6 +696,14 @@
       "word": "洪亮这次屁股不干净了",
       "onboard_time": 1751600962,
       "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 204889,
+      "num": 204889,
+      "word": "田栩宁演万天齐",
+      "onboard_time": 1751609001,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -649,6 +721,14 @@
       "onboard_time": 1751545821,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197994,
+      "num": 197994,
+      "word": "王曼昱当选为全国青联第十四届委员",
+      "onboard_time": 1751609962,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 197743,
@@ -673,6 +753,14 @@
       "onboard_time": 1751604084,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 195494,
+      "num": 195494,
+      "word": "荔枝馒头",
+      "onboard_time": 1751609902,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 195481,
@@ -771,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175121,
+      "num": 175121,
+      "word": "张艺兴五巡官宣",
+      "onboard_time": 1751609723,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 174067,
       "num": 275457,
       "word": "特朗普觉得自己又行了",
@@ -795,6 +891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168278,
+      "num": 168278,
+      "word": "微信可将聊天记录备份至U盘",
+      "onboard_time": 1751608342,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 168119,
       "num": 189384,
       "word": "吴浔知夏签约壹心后首部剧开拍",
@@ -817,6 +921,14 @@
       "onboard_time": 1751553684,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166328,
+      "num": 166328,
+      "word": "原来这就是大家拼命要上岸的原因",
+      "onboard_time": 1751610381,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 166252,
@@ -955,12 +1067,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152447,
+      "num": 152447,
+      "word": "一个月4000块好挣吗",
+      "onboard_time": 1751610440,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 152261,
       "num": 152261,
       "word": "普京与特朗普通话近1小时",
       "onboard_time": 1751586080,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 151760,
+      "num": 151760,
+      "word": "TES与WBG互换辅助",
+      "onboard_time": 1751611042,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 151372,
@@ -1091,6 +1219,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 139159,
+      "num": 139159,
+      "word": "开始推理吧收官",
+      "onboard_time": 1751609662,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139021,
       "num": 192868,
       "word": "蒋长扬自己把自己哄好了",
@@ -1161,6 +1297,30 @@
       "onboard_time": 1751605642,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 130299,
+      "num": 130299,
+      "word": "游本昌",
+      "onboard_time": 1751610862,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 129919,
+      "num": 129919,
+      "word": "外星不明物体造访太阳系",
+      "onboard_time": 1751608764,
+      "rank": 48,
+      "category": "民生新闻,科学科普"
+    },
+    {
+      "raw_hot": 129054,
+      "num": 151969,
+      "word": "村民抓知了猴日收入过万",
+      "onboard_time": 1751609482,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127914,
@@ -1467,6 +1627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79780,
+      "num": 130086,
+      "word": "美方将取消对华采取的限制性措施",
+      "onboard_time": 1751610922,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 79721,
       "num": 350909,
       "word": "安普瑞斯电芯几乎覆盖所有主流品牌",
@@ -1499,6 +1667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69686,
+      "num": 146935,
+      "word": "热心市民秦彻先生",
+      "onboard_time": 1751610982,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 68478,
       "num": 352702,
       "word": "刚卸任罗马仕高管再度上任",
@@ -1513,6 +1689,14 @@
       "onboard_time": 1751553803,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 66500,
+      "num": 761825,
+      "word": "被榕江洪灾救援中这一幕幕暖到了",
+      "onboard_time": 1751607922,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66493,
@@ -1683,6 +1867,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 47755,
+      "num": 328211,
+      "word": "韩军称控制一名越线朝鲜人员",
+      "onboard_time": 1751610082,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 47524,
       "num": 47524,
       "word": "绘旅人联动第五人格",
@@ -1729,6 +1921,14 @@
       "onboard_time": 1751584940,
       "rank": 38,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 40139,
+      "num": 198052,
+      "word": "美国绝美风暴",
+      "onboard_time": 1751610082,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 40049,
@@ -1785,6 +1985,14 @@
       "onboard_time": 1751591543,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 31415,
+      "num": 347739,
+      "word": "部分共享充电宝无3C标识",
+      "onboard_time": 1751610682,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31140,
@@ -1937,14 +2145,6 @@
       "onboard_time": 1751568016,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 7050,
-      "num": 761825,
-      "word": "被榕江洪灾救援中这一幕幕暖到了",
-      "onboard_time": 1751607922,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 6928,
