@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751629158473,
+  "endTime": 1751633555569,
   "band_list": [
     {
       "raw_hot": 4866007,
@@ -33,6 +33,14 @@
       "onboard_time": 1751595442,
       "rank": 12,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 3392069,
+      "num": 3392069,
+      "word": "李佳薇太牛了",
+      "onboard_time": 1751632946,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 2810309,
@@ -257,6 +265,14 @@
       "onboard_time": 1751604325,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1277960,
+      "num": 520959,
+      "word": "歌手直播",
+      "onboard_time": 1751628923,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 1266922,
@@ -516,7 +532,7 @@
     },
     {
       "raw_hot": 970476,
-      "num": 260443,
+      "num": 317906,
       "word": "29岁身高从165厘米到171厘米",
       "onboard_time": 1751626283,
       "rank": 12,
@@ -537,6 +553,14 @@
       "onboard_time": 1751525241,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 966526,
+      "num": 330304,
+      "word": "李佳薇揭榜者来女",
+      "onboard_time": 1751632344,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 959318,
@@ -705,6 +729,14 @@
       "onboard_time": 1751351842,
       "rank": 42,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 861936,
+      "num": 330164,
+      "word": "TVB演员雪妮病逝",
+      "onboard_time": 1751631624,
+      "rank": 7,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 860056,
@@ -961,6 +993,14 @@
       "onboard_time": 1751544861,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 730991,
+      "num": 319528,
+      "word": "海泉淘汰了",
+      "onboard_time": 1751631503,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 727722,
@@ -1281,6 +1321,14 @@
       "onboard_time": 1751430684,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 658327,
+      "num": 319116,
+      "word": "GAI是不是又想走了",
+      "onboard_time": 1751631864,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 656176,
@@ -2363,6 +2411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 405223,
+      "num": 315660,
+      "word": "心疼格格",
+      "onboard_time": 1751631624,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 402933,
       "num": 402933,
       "word": "官方回应火车突发停车乘客砸窗通风",
@@ -2787,6 +2843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 338394,
+      "num": 338394,
+      "word": "人社局称招服务员要求本科不算歧视",
+      "onboard_time": 1751628682,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 337980,
       "num": 337980,
       "word": "舒肤佳 李昀锐",
@@ -2955,6 +3019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 325182,
+      "num": 315485,
+      "word": "披荆斩棘5一公",
+      "onboard_time": 1751629103,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 323730,
       "num": 323730,
       "word": "迪丽热巴金世佳携手打拐",
@@ -2984,6 +3056,14 @@
       "word": "质疑虐猫考生漠视生命并非追杀",
       "onboard_time": 1751385801,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 321087,
+      "num": 321087,
+      "word": "10元快剪店理发师月入2万元",
+      "onboard_time": 1751629643,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -3043,6 +3123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 315052,
+      "num": 315052,
+      "word": "迪丽热巴 御木本",
+      "onboard_time": 1751627785,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 314377,
       "num": 314377,
       "word": "吹牛老爹被判组织卖淫罪",
@@ -3065,14 +3153,6 @@
       "onboard_time": 1751547083,
       "rank": 49,
       "category": "电影,艺人"
-    },
-    {
-      "raw_hot": 312201,
-      "num": 312201,
-      "word": "迪丽热巴 御木本",
-      "onboard_time": 1751627785,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 311691,
@@ -3220,7 +3300,7 @@
     },
     {
       "raw_hot": 297691,
-      "num": 204774,
+      "num": 243776,
       "word": "单依纯歌手竞演前直播",
       "onboard_time": 1751628802,
       "rank": 21,
@@ -3371,6 +3451,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 287992,
+      "num": 287992,
+      "word": "鹿晗青岛演唱会",
+      "onboard_time": 1751630905,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 287692,
       "num": 287692,
       "word": "韩安冉禁止路人拍优米",
@@ -3409,6 +3497,14 @@
       "onboard_time": 1751376383,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 285581,
+      "num": 285581,
+      "word": "何惟芳蒋长扬亲好猛",
+      "onboard_time": 1751631744,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 283308,
@@ -3563,6 +3659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 267405,
+      "num": 267405,
+      "word": "刘端端体制内的魅力",
+      "onboard_time": 1751631264,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 267171,
       "num": 267171,
       "word": "韩网对演唱会上中国追星女的评价",
@@ -3713,6 +3817,14 @@
       "onboard_time": 1751498719,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 251092,
+      "num": 317567,
+      "word": "周深入水像下定了某种决心",
+      "onboard_time": 1751630423,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 249602,
@@ -4443,6 +4555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215903,
+      "num": 215903,
+      "word": "大学生购买10粒迷奸药获刑10个月",
+      "onboard_time": 1751627785,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 215815,
       "num": 215815,
       "word": "整个英语体系没有比这个更完整的了",
@@ -4755,12 +4875,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 204545,
-      "num": 204545,
-      "word": "大学生购买10粒迷奸药获刑10个月",
-      "onboard_time": 1751627785,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 204460,
+      "num": 204460,
+      "word": "者来女唱玉盘",
+      "onboard_time": 1751632464,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 204302,
@@ -5251,6 +5371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192533,
+      "num": 192533,
+      "word": "歌手顺序",
+      "onboard_time": 1751631383,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192420,
       "num": 192420,
       "word": "曼城3比4利雅得新月",
@@ -5537,6 +5665,14 @@
       "onboard_time": 1751551884,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184387,
+      "num": 184387,
+      "word": "以闪亮之名",
+      "onboard_time": 1751632222,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 184154,
@@ -5947,6 +6083,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 173872,
+      "num": 173872,
+      "word": "GAI风格",
+      "onboard_time": 1751631562,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173853,
       "num": 173853,
       "word": "杨紫锦绣芳华收视纪录",
@@ -6057,6 +6201,14 @@
       "onboard_time": 1751447421,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171976,
+      "num": 171976,
+      "word": "格格好听",
+      "onboard_time": 1751632044,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 171929,
@@ -6339,14 +6491,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 164485,
-      "num": 164485,
-      "word": "歌手直播",
-      "onboard_time": 1751628923,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 164404,
       "num": 289705,
       "word": "书卷一梦热度",
@@ -6627,6 +6771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160002,
+      "num": 160002,
+      "word": "龙族定档预告全是名台词",
+      "onboard_time": 1751631864,
+      "rank": 38,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 159961,
       "num": 198348,
       "word": "又一家反华媒体关门",
@@ -6697,6 +6849,14 @@
       "onboard_time": 1751541741,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158191,
+      "num": 316100,
+      "word": "为什么豪车高配才给四驱",
+      "onboard_time": 1751632705,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 157924,
@@ -7153,6 +7313,14 @@
       "onboard_time": 1751606663,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148529,
+      "num": 148529,
+      "word": "Tian维权成功",
+      "onboard_time": 1751629343,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 148503,
@@ -7995,6 +8163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134802,
+      "num": 159317,
+      "word": "交往6年男友竟是刑满释放人员",
+      "onboard_time": 1751630845,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134788,
       "num": 134788,
       "word": "星穹铁道3.4",
@@ -8273,6 +8449,14 @@
       "onboard_time": 1751461343,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131523,
+      "num": 229774,
+      "word": "山东舰上还有2只舰载熊猫",
+      "onboard_time": 1751628143,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131455,
@@ -8715,6 +8899,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 125587,
+      "num": 125587,
+      "word": "杨幂女明星的临场反应",
+      "onboard_time": 1751632886,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 125493,
       "num": 125493,
       "word": "王曼昱极致氛围感图",
@@ -8915,14 +9107,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 122700,
-      "num": 206050,
-      "word": "山东舰上还有2只舰载熊猫",
-      "onboard_time": 1751628143,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 122496,
       "num": 122496,
       "word": "中东土豪刷短剧日充5万美元",
@@ -8993,6 +9177,14 @@
       "onboard_time": 1751363482,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 121727,
+      "num": 121727,
+      "word": "苏超",
+      "onboard_time": 1751629943,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 121670,
@@ -9404,7 +9596,7 @@
     },
     {
       "raw_hot": 115877,
-      "num": 115877,
+      "num": 317294,
       "word": "韩安冉女儿玩张凌赫签名照",
       "onboard_time": 1751625982,
       "rank": 43,
@@ -9513,6 +9705,14 @@
       "onboard_time": 1751532081,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114335,
+      "num": 114335,
+      "word": "无畏苏烈",
+      "onboard_time": 1751629763,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 114313,
@@ -9819,6 +10019,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 110791,
+      "num": 110791,
+      "word": "何惟芳告白",
+      "onboard_time": 1751630124,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 110688,
+      "num": 110688,
+      "word": "浙大妇院回应签到机贴代孕小广告",
+      "onboard_time": 1751630543,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110616,
       "num": 110616,
       "word": "有多名儿童的登山团暴雨中迷路",
@@ -9888,14 +10104,6 @@
       "word": "金晨开赛车这么牛的吗",
       "onboard_time": 1751525482,
       "rank": 45,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 109223,
-      "num": 109223,
-      "word": "披荆斩棘5一公",
-      "onboard_time": 1751629103,
-      "rank": 41,
       "category": "综艺"
     },
     {
@@ -12019,14 +12227,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 56392,
-      "num": 205608,
-      "word": "人社局称招服务员要求本科不算歧视",
-      "onboard_time": 1751628682,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 56057,
       "num": 126538,
       "word": "厄敌这不会是永远的别离",
@@ -12184,6 +12384,14 @@
       "word": "春秋航空辟谣飞机极速下落3000米",
       "onboard_time": 1751326758,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49347,
+      "num": 321028,
+      "word": "天水幼儿园血铅异常超50人邻省血检",
+      "onboard_time": 1751632705,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -13503,6 +13711,14 @@
       "num": 204069,
       "word": "卖偷拍工具商家教顾客隐藏摄像头",
       "onboard_time": 1751521342,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17549,
+      "num": 209999,
+      "word": "男子盗窃救命神器AED欲当电瓶卖",
+      "onboard_time": 1751632946,
       "rank": 29,
       "category": "民生新闻"
     },
