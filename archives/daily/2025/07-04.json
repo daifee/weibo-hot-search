@@ -1,6 +1,6 @@
 {
   "startTime": 1751560391149,
-  "endTime": 1751600218687,
+  "endTime": 1751601243534,
   "band_list": [
     {
       "raw_hot": 3680796,
@@ -67,6 +67,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 788243,
+      "num": 352523,
+      "word": "晚晚直播 让妆",
+      "onboard_time": 1751600721,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 739071,
       "num": 1118251,
       "word": "顾客退货罗马仕淘宝店余额不足",
@@ -81,6 +89,14 @@
       "onboard_time": 1751558361,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 679934,
+      "num": 679934,
+      "word": "跑男这期玩得很脏",
+      "onboard_time": 1751597903,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 649841,
@@ -107,14 +123,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 561916,
-      "num": 561916,
-      "word": "跑男这期玩得很脏",
-      "onboard_time": 1751597903,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 539850,
       "num": 229092,
       "word": "25岁杀夫新娘和舅舅有15年非法关系",
@@ -131,6 +139,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 489397,
+      "num": 489397,
+      "word": "多名幼儿呕吐查出血铅异常",
+      "onboard_time": 1751598084,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 479217,
+      "num": 479217,
+      "word": "医生提醒高温天别舍不得开空调",
+      "onboard_time": 1751597661,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 476063,
       "num": 476063,
       "word": "男孩呼吸困难母亲用塑料袋罩头急救",
@@ -139,16 +163,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 469492,
-      "num": 469492,
-      "word": "医生提醒高温天别舍不得开空调",
-      "onboard_time": 1751597661,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 460036,
-      "num": 460036,
+      "raw_hot": 472118,
+      "num": 472118,
       "word": "花花看到生日蛋糕流口水",
       "onboard_time": 1751595980,
       "rank": 37,
@@ -160,14 +176,6 @@
       "word": "毕业6年存130万小伙每月吃饭500元",
       "onboard_time": 1751558480,
       "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 405356,
-      "num": 405356,
-      "word": "多名幼儿呕吐查出血铅异常",
-      "onboard_time": 1751598084,
-      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -251,6 +259,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 323423,
+      "num": 323423,
+      "word": "T1战胜CFO",
+      "onboard_time": 1751599764,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 317262,
+      "num": 195287,
+      "word": "人真的不能一直住太差的房子",
+      "onboard_time": 1751600423,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 312626,
       "num": 312626,
       "word": "甘肃幼儿园儿童血铅异常家长发声",
@@ -275,6 +299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 280914,
+      "num": 280914,
+      "word": "白鹿成黑鹿",
+      "onboard_time": 1751600361,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 280753,
       "num": 280753,
       "word": "女歌手每天喝4杯奶茶导致失声",
@@ -297,14 +329,6 @@
       "onboard_time": 1751554584,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 277795,
-      "num": 277795,
-      "word": "T1战胜CFO",
-      "onboard_time": 1751599764,
-      "rank": 17,
-      "category": "电竞"
     },
     {
       "raw_hot": 266077,
@@ -363,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212915,
+      "num": 212915,
+      "word": "断崖式分手49天后的戒断反应",
+      "onboard_time": 1751600302,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 210342,
       "num": 210342,
       "word": "印度25岁新娘为嫁55岁舅舅杀夫",
@@ -379,6 +411,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 198596,
+      "num": 186239,
+      "word": "iPhone17ProMax电池容量",
+      "onboard_time": 1751600482,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 198162,
       "num": 247764,
       "word": "王嘉尔借出收入40%给朋友却遭背刺",
@@ -393,6 +433,14 @@
       "onboard_time": 1751592082,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197529,
+      "num": 197529,
+      "word": "700XXXXXXXXXXXX手机号码要来了",
+      "onboard_time": 1751600543,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195481,
@@ -443,12 +491,44 @@
       "category": "美食"
     },
     {
+      "raw_hot": 174067,
+      "num": 275457,
+      "word": "特朗普觉得自己又行了",
+      "onboard_time": 1751598503,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 170402,
+      "num": 198153,
+      "word": "周深唱哭观众唱不哭自己",
+      "onboard_time": 1751600361,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169552,
       "num": 169552,
       "word": "亲生母亲8万多元卖掉自己的两个孩子",
       "onboard_time": 1751550384,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168607,
+      "num": 168607,
+      "word": "洪亮这次屁股不干净了",
+      "onboard_time": 1751600962,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 168119,
+      "num": 189384,
+      "word": "吴浔知夏签约壹心后首部剧开拍",
+      "onboard_time": 1751600302,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 167348,
@@ -491,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161810,
+      "num": 161810,
+      "word": "民主党议员吐槽特朗普法案又大又丑",
+      "onboard_time": 1751600124,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 159776,
       "num": 193557,
       "word": "肖战少白军装",
@@ -499,20 +587,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 159035,
-      "num": 275457,
-      "word": "特朗普觉得自己又行了",
-      "onboard_time": 1751598503,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 157924,
       "num": 157924,
       "word": "日本新燃岳火山喷发灰柱高达5000米",
       "onboard_time": 1751596821,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157657,
+      "num": 207288,
+      "word": "游泳 腺病毒",
+      "onboard_time": 1751595742,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 156746,
@@ -579,12 +667,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 147680,
-      "num": 147680,
-      "word": "游泳 腺病毒",
-      "onboard_time": 1751595742,
-      "rank": 35,
-      "category": "健康医疗"
+      "raw_hot": 148013,
+      "num": 148013,
+      "word": "杨紫30秒无台词眼神戏",
+      "onboard_time": 1751601205,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 146949,
@@ -619,12 +707,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143279,
+      "num": 132601,
+      "word": "杨紫李现友谊已超14年",
+      "onboard_time": 1751600003,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 141678,
+      "num": 141678,
+      "word": "毕业后才真的明白人生是旷野",
+      "onboard_time": 1751600721,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 141376,
       "num": 141376,
       "word": "高温高湿一种致命急症发病率上升",
       "onboard_time": 1751584638,
       "rank": 25,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 139021,
+      "num": 192868,
+      "word": "蒋长扬自己把自己哄好了",
+      "onboard_time": 1751600241,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 138462,
@@ -649,6 +761,14 @@
       "onboard_time": 1751559142,
       "rank": 21,
       "category": "电影,艺人"
+    },
+    {
+      "raw_hot": 133591,
+      "num": 133591,
+      "word": "老祖宗的审美一定有他的道理",
+      "onboard_time": 1751601144,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 133272,
@@ -697,14 +817,6 @@
       "onboard_time": 1751600183,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 123567,
-      "num": 123567,
-      "word": "杨紫李现友谊已超14年",
-      "onboard_time": 1751600003,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 122350,
@@ -803,14 +915,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 111229,
-      "num": 111229,
-      "word": "民主党议员吐槽特朗普法案又大又丑",
-      "onboard_time": 1751600124,
-      "rank": 46,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 108439,
       "num": 111165,
       "word": "习惯性反问到底有多讨厌",
@@ -827,20 +931,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 104835,
+      "num": 299661,
+      "word": "天水幼儿血铅异常19人跨省住院",
+      "onboard_time": 1751599584,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104356,
       "num": 171043,
       "word": "中午少吃还是晚上少吃",
       "onboard_time": 1751584519,
       "rank": 43,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 95256,
-      "num": 197024,
-      "word": "天水幼儿血铅异常19人跨省住院",
-      "onboard_time": 1751599584,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93681,
@@ -995,6 +1099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68478,
+      "num": 352702,
+      "word": "刚卸任罗马仕高管再度上任",
+      "onboard_time": 1751599942,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67460,
       "num": 421974,
       "word": "首批7000多名救援人员撤离榕江",
@@ -1131,14 +1243,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 43721,
-      "num": 196026,
-      "word": "刚卸任罗马仕高管再度上任",
-      "onboard_time": 1751599942,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43187,
       "num": 53354,
       "word": "若塔因车祸去世",
@@ -1179,6 +1283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37001,
+      "num": 163466,
+      "word": "国家游泳队备战世锦赛",
+      "onboard_time": 1751600302,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 35205,
       "num": 74188,
       "word": "人民日报评这么近那么美标语出圈",
@@ -1201,6 +1313,14 @@
       "onboard_time": 1751591543,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 31140,
+      "num": 197730,
+      "word": "四成投票者支持马斯克成立美国党",
+      "onboard_time": 1751600543,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 29070,
