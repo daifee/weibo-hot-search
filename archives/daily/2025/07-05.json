@@ -1,6 +1,6 @@
 {
   "startTime": 1751646733900,
-  "endTime": 1751665157043,
+  "endTime": 1751667940494,
   "band_list": [
     {
       "raw_hot": 2497507,
@@ -307,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123871,
+      "num": 106099,
+      "word": "林志玲说带孩子没有优雅这件事",
+      "onboard_time": 1751658435,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123255,
       "num": 123255,
       "word": "TVB演员雪妮病逝",
@@ -339,12 +347,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104973,
+      "num": 104973,
+      "word": "意大利男子靠近熊自拍被拖入山沟",
+      "onboard_time": 1751651178,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 104111,
       "num": 104111,
       "word": "空调开除湿模式别超2小时",
       "onboard_time": 1751641945,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 101006,
+      "num": 88430,
+      "word": "山东舰拍这么大以后怎么忽悠别人",
+      "onboard_time": 1751647221,
+      "rank": 46,
+      "category": "军事"
     },
     {
       "raw_hot": 99641,
@@ -393,22 +417,6 @@
       "onboard_time": 1751643385,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 88430,
-      "num": 88430,
-      "word": "山东舰拍这么大以后怎么忽悠别人",
-      "onboard_time": 1751647221,
-      "rank": 46,
-      "category": "军事"
-    },
-    {
-      "raw_hot": 86788,
-      "num": 41852,
-      "word": "意大利男子靠近熊自拍被拖入山沟",
-      "onboard_time": 1751651178,
-      "rank": 31,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 84505,
@@ -467,8 +475,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 70584,
-      "num": 70584,
+      "raw_hot": 78455,
+      "num": 113377,
       "word": "违停者屡次开门杀车主自费装护栏",
       "onboard_time": 1751648780,
       "rank": 41,
@@ -489,14 +497,6 @@
       "onboard_time": 1751631864,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 57065,
-      "num": 57065,
-      "word": "林志玲说带孩子没有优雅这件事",
-      "onboard_time": 1751658435,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 53472,
@@ -531,12 +531,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 28441,
+      "num": 32886,
+      "word": "印度计划对美征收报复性关税",
+      "onboard_time": 1751664914,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 28041,
       "num": 28041,
       "word": "上海优化离境退税政策",
       "onboard_time": 1751654535,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27119,
+      "num": 32855,
+      "word": "马小宇蛐蛐余茵被找上门了",
+      "onboard_time": 1751666054,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 26345,
@@ -548,7 +564,7 @@
     },
     {
       "raw_hot": 25073,
-      "num": 25073,
+      "num": 32767,
       "word": "爱到最后全凭良心",
       "onboard_time": 1751659453,
       "rank": 40,
@@ -571,20 +587,20 @@
       "category": "军事"
     },
     {
+      "raw_hot": 23491,
+      "num": 32793,
+      "word": "吴启华回应澳门豪赌传闻",
+      "onboard_time": 1751667195,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 18630,
       "num": 52668,
       "word": "厦门发展战略启示",
       "onboard_time": 1751658855,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 17149,
-      "num": 20214,
-      "word": "印度计划对美征收报复性关税",
-      "onboard_time": 1751664914,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 16775,
