@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751733972441,
+  "endTime": 1751736195772,
   "band_list": [
     {
       "raw_hot": 6390116,
@@ -1411,6 +1411,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 720798,
+      "num": 131750,
+      "word": "梓渝23岁生日",
+      "onboard_time": 1751734759,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 720290,
       "num": 427284,
       "word": "关晓彤晒减脂餐",
@@ -2049,6 +2057,14 @@
       "onboard_time": 1751454082,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 596103,
+      "num": 596103,
+      "word": "杭州东站卧轨事件目击者发声",
+      "onboard_time": 1751731042,
+      "rank": 4,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 595993,
@@ -2715,6 +2731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 453830,
+      "num": 160843,
+      "word": "美团外卖用户下单量突破历史峰值",
+      "onboard_time": 1751731224,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 452866,
       "num": 452866,
       "word": "TES与WBG互换辅助",
@@ -2737,14 +2761,6 @@
       "onboard_time": 1751456242,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 452730,
-      "num": 452730,
-      "word": "杭州东站卧轨事件目击者发声",
-      "onboard_time": 1751731042,
-      "rank": 4,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 452064,
@@ -3001,6 +3017,14 @@
       "onboard_time": 1751451503,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 418580,
+      "num": 418580,
+      "word": "jump",
+      "onboard_time": 1751733262,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 418277,
@@ -6075,14 +6099,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 211429,
-      "num": 211429,
-      "word": "jump",
-      "onboard_time": 1751733262,
-      "rank": 16,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 211192,
       "num": 211192,
       "word": "跑男",
@@ -8739,14 +8755,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 160843,
-      "num": 160843,
-      "word": "美团外卖用户下单量突破历史峰值",
-      "onboard_time": 1751731224,
-      "rank": 47,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 160670,
       "num": 276003,
       "word": "鼠头鸭脖涉事公司将决议解散",
@@ -10811,6 +10819,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 133712,
+      "num": 133712,
+      "word": "全员加速中",
+      "onboard_time": 1751455342,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133700,
       "num": 133700,
       "word": "建议不要和美甲师太熟",
@@ -10945,14 +10961,6 @@
       "onboard_time": 1751624122,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 132331,
-      "num": 132331,
-      "word": "全员加速中",
-      "onboard_time": 1751455342,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 132204,
@@ -13531,6 +13539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106766,
+      "num": 211968,
+      "word": "养螳螂当宠物被邻居当成蟑螂喷杀虫剂",
+      "onboard_time": 1751729844,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106704,
       "num": 106704,
       "word": "甘肃一幼儿园部分幼儿血铅异常",
@@ -13843,6 +13859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 102632,
+      "num": 76699,
+      "word": "张杰打开手机人都红温了吧",
+      "onboard_time": 1751735179,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 102493,
       "num": 330520,
       "word": "鸿星尔克启动熊猫家园守护计划",
@@ -13897,6 +13921,14 @@
       "onboard_time": 1751621841,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 101949,
+      "num": 101949,
+      "word": "温网2025",
+      "onboard_time": 1751734999,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 101828,
@@ -14161,14 +14193,6 @@
       "onboard_time": 1751698820,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 98267,
-      "num": 211968,
-      "word": "养螳螂当宠物被邻居当成蟑螂喷杀虫剂",
-      "onboard_time": 1751729844,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 98155,
@@ -14609,6 +14633,14 @@
       "onboard_time": 1751690544,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90931,
+      "num": 75390,
+      "word": "河南一乡道因高温爆裂拱起",
+      "onboard_time": 1751734221,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90908,
@@ -15849,6 +15881,14 @@
       "onboard_time": 1751346501,
       "rank": 29,
       "category": "剧集,休闲"
+    },
+    {
+      "raw_hot": 64029,
+      "num": 79561,
+      "word": "辉子的词",
+      "onboard_time": 1751735179,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 63787,
@@ -17153,6 +17193,14 @@
       "onboard_time": 1751613862,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 32674,
+      "num": 100085,
+      "word": "下周可以看到王楚钦孙颖莎等单打了",
+      "onboard_time": 1751730086,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 32607,

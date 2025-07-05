@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751733972441,
+  "endTime": 1751736195772,
   "band_list": [
     {
       "raw_hot": 2706470,
@@ -27,12 +27,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 720798,
+      "num": 131750,
+      "word": "梓渝23岁生日",
+      "onboard_time": 1751734759,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 702326,
       "num": 241818,
       "word": "曾志伟和女星合影姿势引争议",
       "onboard_time": 1751725523,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 596103,
+      "num": 596103,
+      "word": "杭州东站卧轨事件目击者发声",
+      "onboard_time": 1751731042,
+      "rank": 4,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 558333,
@@ -51,12 +67,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 452730,
-      "num": 452730,
-      "word": "杭州东站卧轨事件目击者发声",
-      "onboard_time": 1751731042,
-      "rank": 4,
-      "category": "突发/灾害"
+      "raw_hot": 453830,
+      "num": 160843,
+      "word": "美团外卖用户下单量突破历史峰值",
+      "onboard_time": 1751731224,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 418580,
+      "num": 418580,
+      "word": "jump",
+      "onboard_time": 1751733262,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 414875,
@@ -147,14 +171,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 211429,
-      "num": 211429,
-      "word": "jump",
-      "onboard_time": 1751733262,
-      "rank": 16,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 180141,
       "num": 180141,
       "word": "日本末日预言者开始改口",
@@ -179,14 +195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160843,
-      "num": 160843,
-      "word": "美团外卖用户下单量突破历史峰值",
-      "onboard_time": 1751731224,
-      "rank": 47,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 137109,
       "num": 137109,
       "word": "日本预言家自曝只画了插画",
@@ -203,8 +211,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 132331,
-      "num": 132331,
+      "raw_hot": 133712,
+      "num": 133712,
       "word": "全员加速中",
       "onboard_time": 1751730505,
       "rank": 25,
@@ -259,12 +267,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106766,
+      "num": 211968,
+      "word": "养螳螂当宠物被邻居当成蟑螂喷杀虫剂",
+      "onboard_time": 1751729844,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105839,
       "num": 105839,
       "word": "十个勤天演唱会",
       "onboard_time": 1751731823,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 102632,
+      "num": 76699,
+      "word": "张杰打开手机人都红温了吧",
+      "onboard_time": 1751735179,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 101949,
+      "num": 101949,
+      "word": "温网2025",
+      "onboard_time": 1751734999,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 101780,
@@ -315,11 +347,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 88586,
-      "num": 211968,
-      "word": "养螳螂当宠物被邻居当成蟑螂喷杀虫剂",
-      "onboard_time": 1751729844,
-      "rank": 38,
+      "raw_hot": 90931,
+      "num": 75390,
+      "word": "河南一乡道因高温爆裂拱起",
+      "onboard_time": 1751734221,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -404,7 +436,7 @@
     },
     {
       "raw_hot": 69553,
-      "num": 69553,
+      "num": 71912,
       "word": "狗头萝莉员工月薪已涨到六七千",
       "onboard_time": 1751721023,
       "rank": 46,
@@ -412,11 +444,19 @@
     },
     {
       "raw_hot": 66187,
-      "num": 69551,
+      "num": 71890,
       "word": "胡楚靓回应连续十年踩中风口",
       "onboard_time": 1751721264,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 64029,
+      "num": 79561,
+      "word": "辉子的词",
+      "onboard_time": 1751735179,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 61227,
@@ -433,6 +473,14 @@
       "onboard_time": 1751723547,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32674,
+      "num": 100085,
+      "word": "下周可以看到王楚钦孙颖莎等单打了",
+      "onboard_time": 1751730086,
+      "rank": 23,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
