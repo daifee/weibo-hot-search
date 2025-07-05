@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751712236097,
+  "endTime": 1751714476394,
   "band_list": [
     {
       "raw_hot": 6390116,
@@ -243,6 +243,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1646641,
+      "num": 161996,
+      "word": "美团崩了",
+      "onboard_time": 1751708782,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1643147,
       "num": 452521,
       "word": "陈赫回应鹿晗暴瘦",
@@ -265,14 +273,6 @@
       "onboard_time": 1751708421,
       "rank": 10,
       "category": "民生新闻,艺人"
-    },
-    {
-      "raw_hot": 1544673,
-      "num": 150684,
-      "word": "美团崩了",
-      "onboard_time": 1751708782,
-      "rank": 30,
-      "category": "互联网"
     },
     {
       "raw_hot": 1523200,
@@ -1257,6 +1257,14 @@
       "onboard_time": 1751631503,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 729303,
+      "num": 225588,
+      "word": "营业悖论",
+      "onboard_time": 1751711662,
+      "rank": 21,
+      "category": "动漫"
     },
     {
       "raw_hot": 727722,
@@ -3779,6 +3787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 316460,
+      "num": 316460,
+      "word": "杨紫说锦绣芳华是国色芳华第二部",
+      "onboard_time": 1751712142,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 316213,
       "num": 316213,
       "word": "徐艺洋回应黄子韬未读乱回",
@@ -4627,6 +4643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 258636,
+      "num": 258636,
+      "word": "湖南资兴一景区游船大风侧翻",
+      "onboard_time": 1751712142,
+      "rank": 38,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 257269,
       "num": 257269,
       "word": "林心如排队为女儿买labubu",
@@ -4992,6 +5016,14 @@
       "word": "爷爷下河捡玩具孙女拽衣哭喊不要了",
       "onboard_time": 1751615783,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 231757,
+      "num": 231757,
+      "word": "官方通报23名死亡人员领高龄津贴",
+      "onboard_time": 1751711061,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -5627,14 +5659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 213197,
-      "num": 213197,
-      "word": "营业悖论",
-      "onboard_time": 1751711662,
-      "rank": 21,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 212924,
       "num": 212924,
       "word": "白玉兰奖金",
@@ -5881,6 +5905,14 @@
       "onboard_time": 1751697681,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205200,
+      "num": 205200,
+      "word": "湖南资兴一游船侧翻已救出28人",
+      "onboard_time": 1751713940,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 205058,
@@ -6371,12 +6403,28 @@
       "category": "民生新闻,数码"
     },
     {
+      "raw_hot": 195495,
+      "num": 195495,
+      "word": "日本末日预言造成5600亿损失",
+      "onboard_time": 1751711721,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 195481,
       "num": 195481,
       "word": "罗马仕辟谣倒闭",
       "onboard_time": 1751558842,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195454,
+      "num": 215337,
+      "word": "新说唱",
+      "onboard_time": 1751469384,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 194622,
@@ -8251,6 +8299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158437,
+      "num": 158437,
+      "word": "汪顺徐嘉余已参加4届奥运会",
+      "onboard_time": 1751713822,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158191,
       "num": 316100,
       "word": "为什么豪车高配才给四驱",
@@ -8289,6 +8345,14 @@
       "onboard_time": 1751595742,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 157625,
+      "num": 157625,
+      "word": "台风",
+      "onboard_time": 1751711600,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157396,
@@ -9651,14 +9715,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 137074,
-      "num": 137074,
-      "word": "新说唱",
-      "onboard_time": 1751469384,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 136960,
       "num": 136960,
       "word": "特朗普批评日本不接受美国大米",
@@ -9929,6 +9985,14 @@
       "onboard_time": 1751535682,
       "rank": 49,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 134347,
+      "num": 180827,
+      "word": "县主看似什么都有实则一无所有",
+      "onboard_time": 1751713822,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 134165,
@@ -10459,6 +10523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128870,
+      "num": 175298,
+      "word": "给喻言选这首歌的人是天才",
+      "onboard_time": 1751713461,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128579,
       "num": 144969,
       "word": "开始推理吧",
@@ -10707,14 +10779,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 125515,
-      "num": 125515,
-      "word": "台风",
-      "onboard_time": 1751711600,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125493,
       "num": 125493,
       "word": "王曼昱极致氛围感图",
@@ -10873,6 +10937,14 @@
       "onboard_time": 1751633786,
       "rank": 48,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 123697,
+      "num": 123697,
+      "word": "江浙沪特色菜",
+      "onboard_time": 1751712801,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 123659,
@@ -11129,6 +11201,14 @@
       "onboard_time": 1751323696,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120733,
+      "num": 120733,
+      "word": "BLACKPINK演唱会",
+      "onboard_time": 1751714361,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 120596,
@@ -11513,6 +11593,14 @@
       "onboard_time": 1751592201,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117404,
+      "num": 117404,
+      "word": "刘宇宁锯嘴葫芦型男主",
+      "onboard_time": 1751713822,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 117336,
@@ -12139,6 +12227,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 111142,
+      "num": 111142,
+      "word": "男子从卖1元百货卖到了年销4亿元",
+      "onboard_time": 1751712322,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111075,
       "num": 111075,
       "word": "20年前的婚礼好时髦",
@@ -12347,6 +12443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108430,
+      "num": 108430,
+      "word": "蔡依林DIY手舞像开了二倍速",
+      "onboard_time": 1751714121,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 108407,
       "num": 108407,
       "word": "电瓶车断两截自嘲当事人称不要赔偿",
@@ -12465,6 +12569,14 @@
       "onboard_time": 1751362702,
       "rank": 45,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 107765,
+      "num": 107765,
+      "word": "宝能",
+      "onboard_time": 1751712262,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 107624,
@@ -12771,14 +12883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 103521,
-      "num": 103521,
-      "word": "杨紫说锦绣芳华是国色芳华第二部",
-      "onboard_time": 1751712142,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 103462,
       "num": 103462,
       "word": "追妻火葬场男宾一位",
@@ -12996,7 +13100,7 @@
     },
     {
       "raw_hot": 100342,
-      "num": 100342,
+      "num": 166159,
       "word": "江苏一哥对决江苏E哥",
       "onboard_time": 1751707761,
       "rank": 47,
@@ -13403,6 +13507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93475,
+      "num": 93475,
+      "word": "张远休息室门口放了张信哲送的花篮",
+      "onboard_time": 1751712981,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 93420,
       "num": 93420,
       "word": "汪顺潘展乐傅园慧打篮球",
@@ -13449,6 +13561,14 @@
       "onboard_time": 1751467825,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 92751,
+      "num": 92751,
+      "word": "苏超冰至如归",
+      "onboard_time": 1751712801,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 92715,
@@ -13617,14 +13737,6 @@
       "onboard_time": 1751625739,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 89683,
-      "num": 89683,
-      "word": "官方通报23名死亡人员领高龄津贴",
-      "onboard_time": 1751711061,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89649,
@@ -13859,6 +13971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85821,
+      "num": 85821,
+      "word": "亲密关系真谛",
+      "onboard_time": 1751714240,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 85664,
       "num": 85664,
       "word": "特斯拉市值一夜大涨3450亿元",
@@ -13905,6 +14025,14 @@
       "onboard_time": 1751465364,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84701,
+      "num": 84701,
+      "word": "小狗眼神攻击",
+      "onboard_time": 1751714121,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 84589,
@@ -14859,14 +14987,6 @@
       "category": "情感,艺人"
     },
     {
-      "raw_hot": 61289,
-      "num": 126126,
-      "word": "湖南资兴一景区游船大风侧翻",
-      "onboard_time": 1751712142,
-      "rank": 38,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 61280,
       "num": 268649,
       "word": "青海祁连大草原一夜白雪皑皑",
@@ -15097,14 +15217,6 @@
       "onboard_time": 1751354242,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 55761,
-      "num": 126323,
-      "word": "日本末日预言造成5600亿损失",
-      "onboard_time": 1751711721,
-      "rank": 37,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 55205,
@@ -15540,7 +15652,7 @@
     },
     {
       "raw_hot": 43701,
-      "num": 126920,
+      "num": 169737,
       "word": "解限机击杀攻略",
       "onboard_time": 1751711121,
       "rank": 45,

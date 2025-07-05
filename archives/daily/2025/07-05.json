@@ -1,6 +1,6 @@
 {
   "startTime": 1751646733900,
-  "endTime": 1751712236097,
+  "endTime": 1751714476394,
   "band_list": [
     {
       "raw_hot": 2497507,
@@ -43,20 +43,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1646641,
+      "num": 161996,
+      "word": "美团崩了",
+      "onboard_time": 1751708782,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1560844,
       "num": 317460,
       "word": "疑似横店短剧演员去世",
       "onboard_time": 1751708421,
       "rank": 10,
       "category": "民生新闻,艺人"
-    },
-    {
-      "raw_hot": 1544673,
-      "num": 150684,
-      "word": "美团崩了",
-      "onboard_time": 1751708782,
-      "rank": 30,
-      "category": "互联网"
     },
     {
       "raw_hot": 1514321,
@@ -225,6 +225,14 @@
       "onboard_time": 1751692881,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 729303,
+      "num": 225588,
+      "word": "营业悖论",
+      "onboard_time": 1751711662,
+      "rank": 21,
+      "category": "动漫"
     },
     {
       "raw_hot": 701716,
@@ -619,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 316460,
+      "num": 316460,
+      "word": "杨紫说锦绣芳华是国色芳华第二部",
+      "onboard_time": 1751712142,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 315572,
       "num": 315572,
       "word": "谁抢到了",
@@ -779,6 +795,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 258636,
+      "num": 258636,
+      "word": "湖南资兴一景区游船大风侧翻",
+      "onboard_time": 1751712142,
+      "rank": 38,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 254274,
       "num": 169273,
       "word": "山东舰拍这么大以后怎么忽悠别人",
@@ -825,6 +849,14 @@
       "onboard_time": 1751637746,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 231757,
+      "num": 231757,
+      "word": "官方通报23名死亡人员领高龄津贴",
+      "onboard_time": 1751711061,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 231634,
@@ -875,14 +907,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 213197,
-      "num": 213197,
-      "word": "营业悖论",
-      "onboard_time": 1751711662,
-      "rank": 21,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 209964,
       "num": 209964,
       "word": "老祖宗有自己的labubu",
@@ -913,6 +937,14 @@
       "onboard_time": 1751697681,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205200,
+      "num": 205200,
+      "word": "湖南资兴一游船侧翻已救出28人",
+      "onboard_time": 1751713940,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 204755,
@@ -977,6 +1009,22 @@
       "onboard_time": 1751688081,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195495,
+      "num": 195495,
+      "word": "日本末日预言造成5600亿损失",
+      "onboard_time": 1751711721,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 195454,
+      "num": 215337,
+      "word": "新说唱",
+      "onboard_time": 1751713341,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 192639,
@@ -1195,12 +1243,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158437,
+      "num": 158437,
+      "word": "汪顺徐嘉余已参加4届奥运会",
+      "onboard_time": 1751713822,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157733,
       "num": 157733,
       "word": "黄晓明让猫骑自己脖子",
       "onboard_time": 1751699481,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157625,
+      "num": 157625,
+      "word": "台风",
+      "onboard_time": 1751711600,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157034,
@@ -1507,6 +1571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134347,
+      "num": 180827,
+      "word": "县主看似什么都有实则一无所有",
+      "onboard_time": 1751713822,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132805,
       "num": 132805,
       "word": "高寒新剧给孟子义取名梦儿",
@@ -1520,6 +1592,14 @@
       "word": "当单依纯看到自己老板上歌手",
       "onboard_time": 1751690782,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 128870,
+      "num": 175298,
+      "word": "给喻言选这首歌的人是天才",
+      "onboard_time": 1751713461,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -1571,14 +1651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 125515,
-      "num": 125515,
-      "word": "台风",
-      "onboard_time": 1751711600,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124478,
       "num": 208663,
       "word": "国家卫健委提醒不要轻信网红医生",
@@ -1593,6 +1665,14 @@
       "onboard_time": 1751710460,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123697,
+      "num": 123697,
+      "word": "江浙沪特色菜",
+      "onboard_time": 1751712801,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 123659,
@@ -1673,6 +1753,14 @@
       "onboard_time": 1751688682,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 120733,
+      "num": 120733,
+      "word": "BLACKPINK演唱会",
+      "onboard_time": 1751714361,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 120181,
@@ -1787,6 +1875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 117404,
+      "num": 117404,
+      "word": "刘宇宁锯嘴葫芦型男主",
+      "onboard_time": 1751713822,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116421,
       "num": 116421,
       "word": "这才是我认识的胡一天",
@@ -1875,6 +1971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111142,
+      "num": 111142,
+      "word": "男子从卖1元百货卖到了年销4亿元",
+      "onboard_time": 1751712322,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110063,
       "num": 141363,
       "word": "第4号台风丹娜丝生成",
@@ -1931,6 +2035,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 108430,
+      "num": 108430,
+      "word": "蔡依林DIY手舞像开了二倍速",
+      "onboard_time": 1751714121,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 108405,
       "num": 108405,
       "word": "日本南海海槽大地震",
@@ -1945,6 +2057,14 @@
       "onboard_time": 1751681303,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107765,
+      "num": 107765,
+      "word": "宝能",
+      "onboard_time": 1751712262,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 107555,
@@ -2043,14 +2163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 103521,
-      "num": 103521,
-      "word": "杨紫说锦绣芳华是国色芳华第二部",
-      "onboard_time": 1751712142,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 100851,
       "num": 106457,
       "word": "成都GG对战MRC",
@@ -2084,7 +2196,7 @@
     },
     {
       "raw_hot": 100342,
-      "num": 100342,
+      "num": 166159,
       "word": "江苏一哥对决江苏E哥",
       "onboard_time": 1751707761,
       "rank": 47,
@@ -2251,6 +2363,14 @@
       "category": "休闲,动漫"
     },
     {
+      "raw_hot": 93475,
+      "num": 93475,
+      "word": "张远休息室门口放了张信哲送的花篮",
+      "onboard_time": 1751712981,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 93420,
       "num": 93420,
       "word": "汪顺潘展乐傅园慧打篮球",
@@ -2265,6 +2385,14 @@
       "onboard_time": 1751645302,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 92751,
+      "num": 92751,
+      "word": "苏超冰至如归",
+      "onboard_time": 1751712801,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 92715,
@@ -2323,14 +2451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 89683,
-      "num": 89683,
-      "word": "官方通报23名死亡人员领高龄津贴",
-      "onboard_time": 1751711061,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 88294,
       "num": 88294,
       "word": "这就是纯天然无添加的小孩吗",
@@ -2385,6 +2505,22 @@
       "onboard_time": 1751700741,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 85821,
+      "num": 85821,
+      "word": "亲密关系真谛",
+      "onboard_time": 1751714240,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 84701,
+      "num": 84701,
+      "word": "小狗眼神攻击",
+      "onboard_time": 1751714121,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 84505,
@@ -2563,14 +2699,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 61289,
-      "num": 126126,
-      "word": "湖南资兴一景区游船大风侧翻",
-      "onboard_time": 1751712142,
-      "rank": 38,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 59350,
       "num": 59350,
       "word": "GAI是不是又想走了",
@@ -2601,14 +2729,6 @@
       "onboard_time": 1751680280,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 55761,
-      "num": 126323,
-      "word": "日本末日预言造成5600亿损失",
-      "onboard_time": 1751711721,
-      "rank": 37,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 55089,
@@ -2668,7 +2788,7 @@
     },
     {
       "raw_hot": 43701,
-      "num": 126920,
+      "num": 169737,
       "word": "解限机击杀攻略",
       "onboard_time": 1751711121,
       "rank": 45,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1751714476394,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1249295,
+        "num": 1249295,
+        "word": "日本西南群岛地震",
+        "onboard_time": 1751708603,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 865819,
+        "num": 865819,
+        "word": "日本末日预言者开始改口",
+        "onboard_time": 1751698942,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 65117,
+        "num": 531853,
+        "word": "贵州榕江群众泪别救援队伍",
+        "onboard_time": 1751707823,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 456578,
+        "num": 456578,
+        "word": "女子遭同学设套被骗千万全家自杀",
+        "onboard_time": 1751706141,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323868,
+        "num": 323868,
+        "word": "烟台一高校宿舍无空调学生中暑送医",
+        "onboard_time": 1751708003,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320346,
+        "num": 320346,
+        "word": "前台开错房涉事女房客男友发声",
+        "onboard_time": 1751701820,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356302,
+        "num": 319820,
+        "word": "山西23名死亡人员领高龄津贴",
+        "onboard_time": 1751707160,
+        "rank": 6,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 316460,
+        "num": 316460,
+        "word": "杨紫说锦绣芳华是国色芳华第二部",
+        "onboard_time": 1751712142,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258636,
+        "num": 258636,
+        "word": "湖南资兴一景区游船大风侧翻",
+        "onboard_time": 1751712142,
+        "rank": 8,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 231757,
+        "num": 231757,
+        "word": "官方通报23名死亡人员领高龄津贴",
+        "onboard_time": 1751711061,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 813189,
+        "num": 231600,
+        "word": "疑似横店短剧演员去世",
+        "onboard_time": 1751708421,
+        "rank": 10,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 729303,
+        "num": 225588,
+        "word": "营业悖论",
+        "onboard_time": 1751711662,
+        "rank": 11,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 423419,
+        "num": 223602,
+        "word": "王梓薇买别墅",
+        "onboard_time": 1751698521,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 406360,
+        "num": 221688,
+        "word": "武汉跳楼妈妈",
+        "onboard_time": 1751687781,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195454,
+        "num": 215337,
+        "word": "新说唱",
+        "onboard_time": 1751713341,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266000,
+        "num": 213898,
+        "word": "孟佳烫头了",
+        "onboard_time": 1751710880,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 262974,
+        "num": 211066,
+        "word": "K1373砸窗男子被批评教育",
+        "onboard_time": 1751696780,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256235,
+        "num": 205361,
+        "word": "易烊千玺回应礐嶨不会读",
+        "onboard_time": 1751688922,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 205200,
+        "num": 205200,
+        "word": "湖南资兴一游船侧翻已救出28人",
+        "onboard_time": 1751713940,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175370,
+        "num": 199304,
+        "word": "锦绣芳华直播",
+        "onboard_time": 1751708542,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 547745,
+        "num": 198592,
+        "word": "12岁幼女家中遭强奸妈妈第二天才发现",
+        "onboard_time": 1751701881,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197091,
+        "num": 197091,
+        "word": "日本鹿儿岛5日已发生多次地震",
+        "onboard_time": 1751711061,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 195495,
+        "num": 195495,
+        "word": "日本末日预言造成5600亿损失",
+        "onboard_time": 1751711721,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 190191,
+        "num": 190191,
+        "word": "香港小哥高举手牌求参观山东舰赠票",
+        "onboard_time": 1751710880,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186178,
+        "num": 186178,
+        "word": "梓渝谁说人生没有观众的",
+        "onboard_time": 1751704581,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185127,
+        "num": 185127,
+        "word": "横店",
+        "onboard_time": 1751707522,
+        "rank": 25,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 134347,
+        "num": 180827,
+        "word": "县主看似什么都有实则一无所有",
+        "onboard_time": 1751713822,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132632,
+        "num": 178146,
+        "word": "易烊千玺演唱会第一个有票的人出现了",
+        "onboard_time": 1751699542,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128870,
+        "num": 175298,
+        "word": "给喻言选这首歌的人是天才",
+        "onboard_time": 1751713461,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31521,
+        "num": 169737,
+        "word": "解限机击杀攻略",
+        "onboard_time": 1751711121,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 57400,
+        "num": 166159,
+        "word": "江苏一哥对决江苏E哥",
+        "onboard_time": 1751707761,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1646641,
+        "num": 161996,
+        "word": "美团崩了",
+        "onboard_time": 1751708782,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 158437,
+        "num": 158437,
+        "word": "汪顺徐嘉余已参加4届奥运会",
+        "onboard_time": 1751713822,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157625,
+        "num": 157625,
+        "word": "台风",
+        "onboard_time": 1751711600,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145525,
+        "num": 145525,
+        "word": "田栩宁夜景live",
+        "onboard_time": 1751709021,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134801,
+        "num": 134801,
+        "word": "如果一个人朋友圈干干净净特别正常",
+        "onboard_time": 1751705243,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133906,
+        "num": 133906,
+        "word": "柳智敏水弹",
+        "onboard_time": 1751706201,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123697,
+        "num": 123697,
+        "word": "江浙沪特色菜",
+        "onboard_time": 1751712801,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 120733,
+        "num": 120733,
+        "word": "BLACKPINK演唱会",
+        "onboard_time": 1751714361,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117404,
+        "num": 117404,
+        "word": "刘宇宁锯嘴葫芦型男主",
+        "onboard_time": 1751713822,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111142,
+        "num": 111142,
+        "word": "男子从卖1元百货卖到了年销4亿元",
+        "onboard_time": 1751712322,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108430,
+        "num": 108430,
+        "word": "蔡依林DIY手舞像开了二倍速",
+        "onboard_time": 1751714121,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 107765,
+        "num": 107765,
+        "word": "宝能",
+        "onboard_time": 1751712262,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105054,
+        "num": 105054,
+        "word": "76岁老人海中游泳被三只野狗咬死",
+        "onboard_time": 1751704461,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97661,
+        "num": 97661,
+        "word": "BLACKPINK高阳演唱会单人海报",
+        "onboard_time": 1751692822,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 93475,
+        "num": 93475,
+        "word": "张远休息室门口放了张信哲送的花篮",
+        "onboard_time": 1751712981,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 92751,
+        "num": 92751,
+        "word": "苏超冰至如归",
+        "onboard_time": 1751712801,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86420,
+        "num": 86420,
+        "word": "男子钓鱼触电致4千斤鱼被电死",
+        "onboard_time": 1751696902,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85821,
+        "num": 85821,
+        "word": "亲密关系真谛",
+        "onboard_time": 1751714240,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84701,
+        "num": 84701,
+        "word": "小狗眼神攻击",
+        "onboard_time": 1751714121,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记和青年朋友在一起#"
+    }
+  }
+}
