@@ -1,0 +1,410 @@
+{
+  "runTime": 1751748067847,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 211024,
+        "num": 211024,
+        "word": "建议不要临睡前才刷牙",
+        "onboard_time": 1751744114,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 119001,
+        "num": 119001,
+        "word": "官方通报杭州东站卧轨事件",
+        "onboard_time": 1751730744,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 13046,
+        "num": 78190,
+        "word": "又一次被鱼水情深的双向奔赴感动",
+        "onboard_time": 1751723547,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69814,
+        "num": 69814,
+        "word": "穆西亚拉",
+        "onboard_time": 1751739316,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60035,
+        "num": 60035,
+        "word": "美国男子肾移植术后体内爬满寄生虫",
+        "onboard_time": 1751724263,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 58106,
+        "num": 58106,
+        "word": "小伙脖子肿痛开刀取出7颗瓜子",
+        "onboard_time": 1751728585,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45076,
+        "num": 45076,
+        "word": "龙树谅称日本末日预言不是她写的",
+        "onboard_time": 1751732482,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39750,
+        "num": 39750,
+        "word": "内娱艺人开始看观众脸色了",
+        "onboard_time": 1751725344,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34971,
+        "num": 34971,
+        "word": "21岁机车少年意外离世父亲发文悼念",
+        "onboard_time": 1751746034,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34073,
+        "num": 34073,
+        "word": "新说唱2025",
+        "onboard_time": 1751737997,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264023,
+        "num": 33968,
+        "word": "杭州东站卧轨事件目击者发声",
+        "onboard_time": 1751731042,
+        "rank": 10,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 110122,
+        "num": 33425,
+        "word": "杭州东站发生卧轨事件",
+        "onboard_time": 1751727385,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105991,
+        "num": 32930,
+        "word": "梓渝23岁生日",
+        "onboard_time": 1751734759,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90393,
+        "num": 32741,
+        "word": "张杰打开手机人都红温了吧",
+        "onboard_time": 1751735179,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 71302,
+        "num": 32109,
+        "word": "曾志伟和女星合影姿势引争议",
+        "onboard_time": 1751725523,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60819,
+        "num": 31831,
+        "word": "3名初中生凌晨偷奔驰致严重车祸",
+        "onboard_time": 1751729964,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46387,
+        "num": 31529,
+        "word": "美团外卖用户下单量突破历史峰值",
+        "onboard_time": 1751731224,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 38849,
+        "num": 31133,
+        "word": "田栩宁emoji",
+        "onboard_time": 1751725042,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37983,
+        "num": 30430,
+        "word": "日本西南群岛地震",
+        "onboard_time": 1751708603,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 30386,
+        "num": 30386,
+        "word": "jump",
+        "onboard_time": 1751733262,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 10469,
+        "num": 29761,
+        "word": "该不该砸窗不妨多问问现场乘客感受",
+        "onboard_time": 1751747534,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63729,
+        "num": 29761,
+        "word": "12岁幼女家中遭强奸妈妈第二天才发现",
+        "onboard_time": 1751701881,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31559,
+        "num": 29748,
+        "word": "疑似横店短剧演员去世",
+        "onboard_time": 1751708421,
+        "rank": 22,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 29662,
+        "num": 29662,
+        "word": "任重孙骁骁牵手外出",
+        "onboard_time": 1751725225,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24462,
+        "num": 24462,
+        "word": "陈乔恩分享5天紧急瘦身法",
+        "onboard_time": 1751726064,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23150,
+        "num": 24458,
+        "word": "全员加速中",
+        "onboard_time": 1751730505,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19074,
+        "num": 24428,
+        "word": "狗头萝莉员工月薪已涨到六七千",
+        "onboard_time": 1751721023,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 19067,
+        "num": 24416,
+        "word": "香港老人说要看祖国一天比一天强大",
+        "onboard_time": 1751730805,
+        "rank": 27,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 18916,
+        "num": 24395,
+        "word": "你好星期六",
+        "onboard_time": 1751720663,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18798,
+        "num": 24376,
+        "word": "王鹤棣战损美成啥了",
+        "onboard_time": 1751744055,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24370,
+        "num": 24370,
+        "word": "河南一乡道因高温爆裂拱起",
+        "onboard_time": 1751734221,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23991,
+        "num": 23991,
+        "word": "日本末日预言者开始改口",
+        "onboard_time": 1751698942,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 23654,
+        "num": 23654,
+        "word": "美团崩了",
+        "onboard_time": 1751708782,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 22958,
+        "num": 22958,
+        "word": "养螳螂当宠物被邻居当成蟑螂喷杀虫剂",
+        "onboard_time": 1751729844,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22236,
+        "num": 22236,
+        "word": "C罗未出席若塔葬礼顾虑抢走焦点",
+        "onboard_time": 1751739076,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21558,
+        "num": 21558,
+        "word": "日本预言家自曝只画了插画",
+        "onboard_time": 1751722646,
+        "rank": 35,
+        "category": "海外新闻,动漫"
+      },
+      {
+        "raw_hot": 20465,
+        "num": 20465,
+        "word": "北京天空",
+        "onboard_time": 1751727684,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20461,
+        "num": 20461,
+        "word": "女子遭同学设套被骗千万全家自杀",
+        "onboard_time": 1751706141,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20172,
+        "num": 20172,
+        "word": "减肥最快的方法是提高身体代谢",
+        "onboard_time": 1751725042,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 18478,
+        "num": 20172,
+        "word": "21岁网红机车少年因意外车祸离世",
+        "onboard_time": 1751721023,
+        "rank": 39,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 18025,
+        "num": 20170,
+        "word": "点赞这位细心果断的浙J司机",
+        "onboard_time": 1751744715,
+        "rank": 40,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 17856,
+        "num": 20168,
+        "word": "刘雨昕任嘉伦双人popping",
+        "onboard_time": 1751727203,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17845,
+        "num": 20167,
+        "word": "男子走出空调房一下冷中暑",
+        "onboard_time": 1751719222,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17832,
+        "num": 20166,
+        "word": "杭州东站卧轨者已送往医院",
+        "onboard_time": 1751727684,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16868,
+        "num": 20163,
+        "word": "尽量不要给手机整夜充电",
+        "onboard_time": 1751718142,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 15992,
+        "num": 20163,
+        "word": "LikeJENNIE爽疯了",
+        "onboard_time": 1751724984,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15944,
+        "num": 20161,
+        "word": "南京vs苏州",
+        "onboard_time": 1751716762,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15709,
+        "num": 20159,
+        "word": "温网2025",
+        "onboard_time": 1751734999,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15447,
+        "num": 20156,
+        "word": "网友爬天山偶遇罕见天山雪莲",
+        "onboard_time": 1751739076,
+        "rank": 48,
+        "category": "旅游,民生新闻"
+      },
+      {
+        "raw_hot": 15186,
+        "num": 20155,
+        "word": "金智秀earthquake舞台",
+        "onboard_time": 1751730744,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记和青年朋友在一起#"
+    }
+  }
+}
