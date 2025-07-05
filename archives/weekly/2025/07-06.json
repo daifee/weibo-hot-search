@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751736195772,
+  "endTime": 1751737232208,
   "band_list": [
     {
       "raw_hot": 2706470,
@@ -27,7 +27,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 720798,
+      "raw_hot": 741441,
       "num": 131750,
       "word": "梓渝23岁生日",
       "onboard_time": 1751734759,
@@ -43,8 +43,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 596103,
-      "num": 596103,
+      "raw_hot": 649089,
+      "num": 649089,
       "word": "杭州东站卧轨事件目击者发声",
       "onboard_time": 1751731042,
       "rank": 4,
@@ -323,6 +323,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 98295,
+      "num": 87127,
+      "word": "河南一乡道因高温爆裂拱起",
+      "onboard_time": 1751734221,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97155,
       "num": 97155,
       "word": "女子遭同学设套被骗千万全家自杀",
@@ -345,14 +353,6 @@
       "onboard_time": 1751725643,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 90931,
-      "num": 75390,
-      "word": "河南一乡道因高温爆裂拱起",
-      "onboard_time": 1751734221,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87565,
@@ -467,6 +467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 51828,
+      "num": 58255,
+      "word": "Jennie你的兵回来了",
+      "onboard_time": 1751737038,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 44563,
       "num": 507442,
       "word": "又一次被鱼水情深的双向奔赴感动",
@@ -481,6 +489,14 @@
       "onboard_time": 1751730086,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23560,
+      "num": 58261,
+      "word": "香港老人说要看祖国一天比一天强大",
+      "onboard_time": 1751730805,
+      "rank": 40,
+      "category": "正能量"
     }
   ],
   "hotgov_list": [
