@@ -1,0 +1,410 @@
+{
+  "runTime": 1751686366383,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 966436,
+        "num": 1154629,
+        "word": "梅婷恶意原型是武汉跳楼妈妈",
+        "onboard_time": 1751683943,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 757588,
+        "num": 757588,
+        "word": "日本地震预言致外国游客取消行程",
+        "onboard_time": 1751680642,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 32779,
+        "num": 698144,
+        "word": "高温闷热天气防中暑指南",
+        "onboard_time": 1751639304,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 675093,
+        "num": 675093,
+        "word": "12岁女童家中遭21岁网友性侵",
+        "onboard_time": 1751685082,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 635223,
+        "num": 635223,
+        "word": "日本无事发生",
+        "onboard_time": 1751671879,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 479680,
+        "num": 479680,
+        "word": "日本官方称地震预言纯属骗局",
+        "onboard_time": 1751679681,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 435088,
+        "num": 435088,
+        "word": "特朗普透露马斯克吸毒",
+        "onboard_time": 1751682441,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 389033,
+        "num": 389033,
+        "word": "王源求婚转场",
+        "onboard_time": 1751676441,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333997,
+        "num": 333997,
+        "word": "黄多多孙莉去拍了aespa人生四格",
+        "onboard_time": 1751679380,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310544,
+        "num": 310544,
+        "word": "日本南海海槽",
+        "onboard_time": 1751681483,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1435697,
+        "num": 310537,
+        "word": "苗苗首晒三胎女儿",
+        "onboard_time": 1751685381,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 452387,
+        "num": 310533,
+        "word": "油腻风的孕妇照",
+        "onboard_time": 1751680342,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 451339,
+        "num": 310531,
+        "word": "崔然竣 家人离世",
+        "onboard_time": 1751684242,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310528,
+        "num": 310528,
+        "word": "陈赫喂张子萱吃东西",
+        "onboard_time": 1751680762,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342368,
+        "num": 309814,
+        "word": "67岁丈夫出轨50岁闺蜜妻子怒告二人",
+        "onboard_time": 1751647162,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299848,
+        "num": 299848,
+        "word": "女子3万8卖掉自己的孩子用于打赏主播",
+        "onboard_time": 1751676081,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276240,
+        "num": 276240,
+        "word": "GEN战胜AL",
+        "onboard_time": 1751683161,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 241232,
+        "num": 241232,
+        "word": "制片人评于正内涵任嘉伦",
+        "onboard_time": 1751679681,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225745,
+        "num": 225745,
+        "word": "怪不得赵晓卉没空参加脱口秀",
+        "onboard_time": 1751681781,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60455,
+        "num": 190668,
+        "word": "生母40万赔偿金被继母炒股亏光",
+        "onboard_time": 1751685683,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108593,
+        "num": 184579,
+        "word": "印度通报计划报复美国",
+        "onboard_time": 1751682022,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 254911,
+        "num": 183282,
+        "word": "这就是为什么不建议喝瓶装水",
+        "onboard_time": 1751683883,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 181586,
+        "num": 181586,
+        "word": "老祖宗有自己的labubu",
+        "onboard_time": 1751683943,
+        "rank": 22,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 163834,
+        "num": 163834,
+        "word": "124斤女子带全家减肥40天共瘦40斤",
+        "onboard_time": 1751675901,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153559,
+        "num": 153559,
+        "word": "晚晚发视频回应不让助播女生化妆",
+        "onboard_time": 1751673440,
+        "rank": 24,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 149027,
+        "num": 149027,
+        "word": "这就是为什么公司要薪酬保密",
+        "onboard_time": 1751683943,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144963,
+        "num": 144963,
+        "word": "长期不拔的插头正在悄悄酿火患",
+        "onboard_time": 1751676261,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115682,
+        "num": 130355,
+        "word": "BLACKPINK新曲回归预告",
+        "onboard_time": 1751679442,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 99577,
+        "num": 128337,
+        "word": "女儿比妈妈先学会了放手",
+        "onboard_time": 1751685862,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 63817,
+        "num": 128055,
+        "word": "武警从淤泥里找出国旗细心叠好",
+        "onboard_time": 1751679081,
+        "rank": 29,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 127947,
+        "num": 127947,
+        "word": "梓渝早期粉也吃太好了",
+        "onboard_time": 1751685381,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119028,
+        "num": 125302,
+        "word": "特朗普正式签署大而美法案",
+        "onboard_time": 1751673381,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124775,
+        "num": 124775,
+        "word": "张继科指导小孩哥一拍打了2000板",
+        "onboard_time": 1751677701,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119399,
+        "num": 119399,
+        "word": "日本",
+        "onboard_time": 1751639125,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 116498,
+        "num": 116498,
+        "word": "Hope状态",
+        "onboard_time": 1751684843,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 96903,
+        "num": 96903,
+        "word": "入青云",
+        "onboard_time": 1751682862,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96204,
+        "num": 96204,
+        "word": "小猫也会思念去世的朋友",
+        "onboard_time": 1751680822,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96109,
+        "num": 96109,
+        "word": "晚晚回应没有义务分享",
+        "onboard_time": 1751685202,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 92043,
+        "num": 92043,
+        "word": "衡水一高中全班达线985211",
+        "onboard_time": 1751672840,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29202,
+        "num": 91925,
+        "word": "不要允许任何人当众指责你",
+        "onboard_time": 1751677041,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91917,
+        "num": 91917,
+        "word": "敖瑞鹏灿烂的市集路透",
+        "onboard_time": 1751686222,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89931,
+        "num": 89931,
+        "word": "河南人一直以为夏天37度是正常的",
+        "onboard_time": 1751677221,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86587,
+        "num": 86587,
+        "word": "李佳薇太牛了",
+        "onboard_time": 1751632946,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85938,
+        "num": 85938,
+        "word": "韩安冉展示小女儿伤口",
+        "onboard_time": 1751680280,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 84930,
+        "num": 84930,
+        "word": "建议不要让任何人的钱过银行卡",
+        "onboard_time": 1751672300,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 82880,
+        "num": 82880,
+        "word": "武汉鸽子中暑",
+        "onboard_time": 1751686280,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82763,
+        "num": 82763,
+        "word": "AL掉进败者组",
+        "onboard_time": 1751684062,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 82195,
+        "num": 82195,
+        "word": "奔跑吧13",
+        "onboard_time": 1751684183,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74483,
+        "num": 81649,
+        "word": "杨瀚森下月有望出战亚洲杯",
+        "onboard_time": 1751684302,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66724,
+        "num": 81048,
+        "word": "孙颖莎王曼昱时隔18个月后携手双打",
+        "onboard_time": 1751675960,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#厦门发展战略启示#"
+    }
+  }
+}

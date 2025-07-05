@@ -1,6 +1,6 @@
 {
   "startTime": 1751646733900,
-  "endTime": 1751685592267,
+  "endTime": 1751686366383,
   "band_list": [
     {
       "raw_hot": 2497507,
@@ -17,6 +17,14 @@
       "onboard_time": 1751671879,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1435697,
+      "num": 353363,
+      "word": "苗苗首晒三胎女儿",
+      "onboard_time": 1751685381,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1330614,
@@ -43,8 +51,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 952905,
-      "num": 1152464,
+      "raw_hot": 966436,
+      "num": 1154629,
       "word": "梅婷恶意原型是武汉跳楼妈妈",
       "onboard_time": 1751683943,
       "rank": 0,
@@ -91,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 675093,
+      "num": 675093,
+      "word": "12岁女童家中遭21岁网友性侵",
+      "onboard_time": 1751685082,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 665225,
       "num": 354353,
       "word": "油腻风的孕妇照",
@@ -123,14 +139,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 515772,
-      "num": 353363,
-      "word": "苗苗首晒三胎女儿",
-      "onboard_time": 1751685381,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 495977,
       "num": 495977,
       "word": "李佳薇太牛了",
@@ -155,19 +163,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 451339,
+      "num": 351912,
+      "word": "崔然竣 家人离世",
+      "onboard_time": 1751684242,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 450698,
       "num": 355624,
       "word": "陈赫喂张子萱吃东西",
       "onboard_time": 1751680762,
       "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 447545,
-      "num": 351912,
-      "word": "崔然竣 家人离世",
-      "onboard_time": 1751684242,
-      "rank": 13,
       "category": "艺人"
     },
     {
@@ -195,6 +203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 435088,
+      "num": 435088,
+      "word": "特朗普透露马斯克吸毒",
+      "onboard_time": 1751682441,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 424798,
       "num": 235038,
       "word": "皓衣行 重启",
@@ -209,14 +225,6 @@
       "onboard_time": 1751639245,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 391168,
-      "num": 391168,
-      "word": "特朗普透露马斯克吸毒",
-      "onboard_time": 1751682441,
-      "rank": 6,
-      "category": "国际时政"
     },
     {
       "raw_hot": 380976,
@@ -395,14 +403,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 225928,
-      "num": 225928,
-      "word": "12岁女童家中遭21岁网友性侵",
-      "onboard_time": 1751685082,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 223712,
       "num": 223712,
       "word": "天水一幼儿402天自行3次血检均超标",
@@ -508,7 +508,7 @@
     },
     {
       "raw_hot": 174990,
-      "num": 104954,
+      "num": 149027,
       "word": "这就是为什么公司要薪酬保密",
       "onboard_time": 1751683943,
       "rank": 30,
@@ -627,8 +627,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127947,
+      "num": 127947,
+      "word": "梓渝早期粉也吃太好了",
+      "onboard_time": 1751685381,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127072,
-      "num": 104481,
+      "num": 116498,
       "word": "Hope状态",
       "onboard_time": 1751684843,
       "rank": 31,
@@ -739,6 +747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108593,
+      "num": 354991,
+      "word": "印度通报计划报复美国",
+      "onboard_time": 1751682022,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 108405,
       "num": 108405,
       "word": "日本南海海槽大地震",
@@ -764,7 +780,7 @@
     },
     {
       "raw_hot": 106426,
-      "num": 106426,
+      "num": 128055,
       "word": "武警从淤泥里找出国旗细心叠好",
       "onboard_time": 1751679081,
       "rank": 47,
@@ -777,14 +793,6 @@
       "onboard_time": 1751679501,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 104929,
-      "num": 354991,
-      "word": "印度通报计划报复美国",
-      "onboard_time": 1751682022,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 104111,
@@ -803,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99577,
+      "num": 128337,
+      "word": "女儿比妈妈先学会了放手",
+      "onboard_time": 1751685862,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 99157,
       "num": 106200,
       "word": "入青云",
@@ -811,12 +827,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 95637,
-      "num": 95637,
+      "raw_hot": 96204,
+      "num": 96204,
       "word": "小猫也会思念去世的朋友",
       "onboard_time": 1751680822,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 96109,
+      "num": 96109,
+      "word": "晚晚回应没有义务分享",
+      "onboard_time": 1751685202,
+      "rank": 40,
+      "category": "网红"
     },
     {
       "raw_hot": 93849,
@@ -841,6 +865,14 @@
       "onboard_time": 1751645302,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 91917,
+      "num": 91917,
+      "word": "敖瑞鹏灿烂的市集路透",
+      "onboard_time": 1751686222,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 91340,
@@ -883,22 +915,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 85733,
-      "num": 85733,
-      "word": "梓渝早期粉也吃太好了",
-      "onboard_time": 1751685381,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 85199,
-      "num": 85199,
-      "word": "晚晚回应没有义务分享",
-      "onboard_time": 1751685202,
-      "rank": 40,
-      "category": "网红"
-    },
-    {
       "raw_hot": 84505,
       "num": 84505,
       "word": "被邻居带去游泳溺亡女孩母亲发声",
@@ -915,12 +931,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82880,
+      "num": 82880,
+      "word": "武汉鸽子中暑",
+      "onboard_time": 1751686280,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82765,
       "num": 82765,
       "word": "鹿晗直拍 哪里来的洋娃娃",
       "onboard_time": 1751637026,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 82195,
+      "num": 82195,
+      "word": "奔跑吧13",
+      "onboard_time": 1751684183,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 80618,
@@ -963,14 +995,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 78124,
-      "num": 78124,
-      "word": "奔跑吧13",
-      "onboard_time": 1751684183,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 76503,
       "num": 76503,
       "word": "炒港美股要交20%个税",
@@ -1009,6 +1033,14 @@
       "onboard_time": 1751669717,
       "rank": 42,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 60455,
+      "num": 190668,
+      "word": "生母40万赔偿金被继母炒股亏光",
+      "onboard_time": 1751685683,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59350,

@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751685592267,
+  "endTime": 1751686366383,
   "band_list": [
     {
       "raw_hot": 6390116,
@@ -241,6 +241,14 @@
       "onboard_time": 1751529382,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1435697,
+      "num": 353363,
+      "word": "苗苗首晒三胎女儿",
+      "onboard_time": 1751685381,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1429448,
@@ -611,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 966436,
+      "num": 1154629,
+      "word": "梅婷恶意原型是武汉跳楼妈妈",
+      "onboard_time": 1751683943,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 959318,
       "num": 959318,
       "word": "女歌手每天喝4杯奶茶导致失声",
@@ -625,14 +641,6 @@
       "onboard_time": 1751621542,
       "rank": 14,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 952905,
-      "num": 1152464,
-      "word": "梅婷恶意原型是武汉跳楼妈妈",
-      "onboard_time": 1751683943,
-      "rank": 0,
-      "category": "电影"
     },
     {
       "raw_hot": 950759,
@@ -1419,6 +1427,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 675093,
+      "num": 675093,
+      "word": "12岁女童家中遭21岁网友性侵",
+      "onboard_time": 1751685082,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 673407,
       "num": 439884,
       "word": "林志玲一个生煎包吃十几口",
@@ -2059,14 +2075,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 515772,
-      "num": 353363,
-      "word": "苗苗首晒三胎女儿",
-      "onboard_time": 1751685381,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 515047,
       "num": 446767,
       "word": "蒋欣一把把减脂餐拍开",
@@ -2347,6 +2355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 451339,
+      "num": 351912,
+      "word": "崔然竣 家人离世",
+      "onboard_time": 1751684242,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 450698,
       "num": 355624,
       "word": "陈赫喂张子萱吃东西",
@@ -2384,14 +2400,6 @@
       "word": "田栩宁进组新剧",
       "onboard_time": 1751533520,
       "rank": 9,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 447545,
-      "num": 351912,
-      "word": "崔然竣 家人离世",
-      "onboard_time": 1751684242,
-      "rank": 13,
       "category": "艺人"
     },
     {
@@ -2441,6 +2449,14 @@
       "onboard_time": 1751519662,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 435088,
+      "num": 435088,
+      "word": "特朗普透露马斯克吸毒",
+      "onboard_time": 1751682441,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 433918,
@@ -2761,14 +2777,6 @@
       "onboard_time": 1751456661,
       "rank": 7,
       "category": "休闲,动漫"
-    },
-    {
-      "raw_hot": 391168,
-      "num": 391168,
-      "word": "特朗普透露马斯克吸毒",
-      "onboard_time": 1751682441,
-      "rank": 6,
-      "category": "国际时政"
     },
     {
       "raw_hot": 390272,
@@ -4755,14 +4763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 225928,
-      "num": 225928,
-      "word": "12岁女童家中遭21岁网友性侵",
-      "onboard_time": 1751685082,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 225857,
       "num": 261635,
       "word": "直播山东舰航母编队访港",
@@ -6740,7 +6740,7 @@
     },
     {
       "raw_hot": 174990,
-      "num": 104954,
+      "num": 149027,
       "word": "这就是为什么公司要薪酬保密",
       "onboard_time": 1751683943,
       "rank": 30,
@@ -9619,6 +9619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127947,
+      "num": 127947,
+      "word": "梓渝早期粉也吃太好了",
+      "onboard_time": 1751685381,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127914,
       "num": 127914,
       "word": "馊人",
@@ -9692,7 +9700,7 @@
     },
     {
       "raw_hot": 127072,
-      "num": 104481,
+      "num": 116498,
       "word": "Hope状态",
       "onboard_time": 1751684843,
       "rank": 31,
@@ -11155,6 +11163,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 108593,
+      "num": 354991,
+      "word": "印度通报计划报复美国",
+      "onboard_time": 1751682022,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 108439,
       "num": 111165,
       "word": "习惯性反问到底有多讨厌",
@@ -11364,7 +11380,7 @@
     },
     {
       "raw_hot": 106426,
-      "num": 106426,
+      "num": 128055,
       "word": "武警从淤泥里找出国旗细心叠好",
       "onboard_time": 1751679081,
       "rank": 47,
@@ -11457,14 +11473,6 @@
       "onboard_time": 1751456062,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 104929,
-      "num": 354991,
-      "word": "印度通报计划报复美国",
-      "onboard_time": 1751682022,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 104835,
@@ -11747,6 +11755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 99577,
+      "num": 128337,
+      "word": "女儿比妈妈先学会了放手",
+      "onboard_time": 1751685862,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 99445,
       "num": 151269,
       "word": "王腾管泽元火焰山开团",
@@ -11883,6 +11899,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96204,
+      "num": 96204,
+      "word": "小猫也会思念去世的朋友",
+      "onboard_time": 1751680822,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 96109,
+      "num": 96109,
+      "word": "晚晚回应没有义务分享",
+      "onboard_time": 1751685202,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 95846,
       "num": 95846,
       "word": "明恋和暗恋哪个更痛苦",
@@ -11897,14 +11929,6 @@
       "onboard_time": 1751624541,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 95637,
-      "num": 95637,
-      "word": "小猫也会思念去世的朋友",
-      "onboard_time": 1751680822,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 95372,
@@ -12065,6 +12089,14 @@
       "onboard_time": 1751449402,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 91917,
+      "num": 91917,
+      "word": "敖瑞鹏灿烂的市集路透",
+      "onboard_time": 1751686222,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 91880,
@@ -12363,14 +12395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 85733,
-      "num": 85733,
-      "word": "梓渝早期粉也吃太好了",
-      "onboard_time": 1751685381,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 85664,
       "num": 85664,
       "word": "特斯拉市值一夜大涨3450亿元",
@@ -12393,14 +12417,6 @@
       "onboard_time": 1751503403,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 85199,
-      "num": 85199,
-      "word": "晚晚回应没有义务分享",
-      "onboard_time": 1751685202,
-      "rank": 40,
-      "category": "网红"
     },
     {
       "raw_hot": 85101,
@@ -12467,6 +12483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82880,
+      "num": 82880,
+      "word": "武汉鸽子中暑",
+      "onboard_time": 1751686280,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82538,
       "num": 234165,
       "word": "大学生买境外迷奸药获刑",
@@ -12505,6 +12529,14 @@
       "onboard_time": 1751343022,
       "rank": 27,
       "category": "艺人,汽车"
+    },
+    {
+      "raw_hot": 82195,
+      "num": 82195,
+      "word": "奔跑吧13",
+      "onboard_time": 1751684183,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 82143,
@@ -12673,14 +12705,6 @@
       "onboard_time": 1751685142,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 78124,
-      "num": 78124,
-      "word": "奔跑吧13",
-      "onboard_time": 1751684183,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 77899,
@@ -13369,6 +13393,14 @@
       "onboard_time": 1751603244,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 60455,
+      "num": 190668,
+      "word": "生母40万赔偿金被继母炒股亏光",
+      "onboard_time": 1751685683,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60241,
