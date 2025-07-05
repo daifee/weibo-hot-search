@@ -1,6 +1,6 @@
 {
   "startTime": 1751646733900,
-  "endTime": 1751698134839,
+  "endTime": 1751700262257,
   "band_list": [
     {
       "raw_hot": 2497507,
@@ -49,6 +49,14 @@
       "onboard_time": 1751687781,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1344224,
+      "num": 286869,
+      "word": "王梓薇买别墅",
+      "onboard_time": 1751698521,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1330614,
@@ -147,6 +155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 701716,
+      "num": 701716,
+      "word": "K1373砸窗男子被批评教育",
+      "onboard_time": 1751696780,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 697235,
       "num": 915749,
       "word": "成都暴雨致家里插座出水成瀑布",
@@ -203,12 +219,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 503256,
+      "num": 284105,
+      "word": "男子钓鱼触电致4千斤鱼被电死",
+      "onboard_time": 1751696902,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 495977,
       "num": 495977,
       "word": "李佳薇太牛了",
       "onboard_time": 1751632946,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 488711,
+      "num": 282330,
+      "word": "泰星Janie出家",
+      "onboard_time": 1751697500,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 473835,
@@ -299,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 405257,
+      "num": 405257,
+      "word": "李佳薇歌手得票率94.5%",
+      "onboard_time": 1751698521,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 400020,
       "num": 400020,
       "word": "父亲女儿均患癌39岁男子掩面痛哭",
@@ -387,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 327491,
+      "num": 279770,
+      "word": "日本末日预言者开始改口",
+      "onboard_time": 1751698942,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 323438,
       "num": 323438,
       "word": "GEN战胜AL",
@@ -407,6 +455,22 @@
       "num": 231071,
       "word": "于正又发飙了",
       "onboard_time": 1751641107,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 316695,
+      "num": 316695,
+      "word": "前台开错房女房客误入男子房间",
+      "onboard_time": 1751698702,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 298119,
+      "num": 279463,
+      "word": "王安宇工作室 网盘",
+      "onboard_time": 1751698401,
       "rank": 15,
       "category": "艺人"
     },
@@ -467,6 +531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 287210,
+      "num": 287210,
+      "word": "女子在家刷手机被闪电击中到失忆",
+      "onboard_time": 1751695101,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 284167,
       "num": 113251,
       "word": "两女生误会被偷拍疯狂道歉",
@@ -475,12 +547,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 279238,
-      "num": 258514,
-      "word": "男子钓鱼触电致4千斤鱼被电死",
-      "onboard_time": 1751696902,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 278281,
+      "num": 278281,
+      "word": "南海海槽几乎每百年发生一次大地震",
+      "onboard_time": 1751697021,
+      "rank": 21,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 277640,
@@ -515,14 +587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 270398,
-      "num": 270398,
-      "word": "K1373砸窗男子被批评教育",
-      "onboard_time": 1751696780,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 265196,
       "num": 265196,
       "word": "特朗普正式签署大而美法案",
@@ -545,6 +609,14 @@
       "onboard_time": 1751679681,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 246627,
+      "num": 230124,
+      "word": "易烊千玺演唱会第一个有票的人出现了",
+      "onboard_time": 1751699542,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 246479,
@@ -571,6 +643,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 231634,
+      "num": 231634,
+      "word": "男子钓鱼甩竿碰高压线全身80%烧伤",
+      "onboard_time": 1751698462,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 227193,
       "num": 227193,
       "word": "使馆提醒在日中国公民防范自然灾害",
@@ -593,14 +673,6 @@
       "onboard_time": 1751634567,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 219541,
-      "num": 122494,
-      "word": "泰星Janie出家",
-      "onboard_time": 1751697500,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 218649,
@@ -667,6 +739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 199926,
+      "num": 199926,
+      "word": "胡先煦一句话马丽冠军没了",
+      "onboard_time": 1751699062,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196281,
       "num": 144008,
       "word": "洪亮这把快刀18年未生锈",
@@ -707,20 +787,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180064,
+      "num": 180064,
+      "word": "李佳薇称被曝出做房产中介后很绝望",
+      "onboard_time": 1751697681,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177370,
       "num": 177370,
       "word": "违停者屡次开门杀车主自费装护栏",
       "onboard_time": 1751648780,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 177301,
-      "num": 177301,
-      "word": "女子在家刷手机被闪电击中到失忆",
-      "onboard_time": 1751695101,
-      "rank": 24,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 176840,
@@ -827,6 +907,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159068,
+      "num": 159068,
+      "word": "司机收300元把孩子塞后备箱运送",
+      "onboard_time": 1751698101,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157733,
+      "num": 157733,
+      "word": "黄晓明让猫骑自己脖子",
+      "onboard_time": 1751699481,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157034,
       "num": 157034,
       "word": "鹿晗如烟似梦坠入了你漂亮的眼眸",
@@ -841,14 +937,6 @@
       "onboard_time": 1751643684,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 152666,
-      "num": 267703,
-      "word": "南海海槽几乎每百年发生一次大地震",
-      "onboard_time": 1751697021,
-      "rank": 21,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 152636,
@@ -995,6 +1083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138282,
+      "num": 138282,
+      "word": "恋与制作人3.0直播上篇",
+      "onboard_time": 1751699841,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 137348,
       "num": 137348,
       "word": "驻日本大使馆提醒在日同胞",
@@ -1003,12 +1099,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 136939,
-      "num": 121934,
-      "word": "李佳薇称被曝出做房产中介后很绝望",
-      "onboard_time": 1751697681,
+      "raw_hot": 136386,
+      "num": 136386,
+      "word": "宠物医院患者没有一个谨遵医嘱的",
+      "onboard_time": 1751699062,
       "rank": 31,
-      "category": "综艺"
+      "category": "幽默"
     },
     {
       "raw_hot": 136331,
@@ -1051,6 +1147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131223,
+      "num": 131223,
+      "word": "南京奥体中心冰临城下",
+      "onboard_time": 1751700020,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131112,
       "num": 131112,
       "word": "当单依纯看到自己老板上歌手",
@@ -1065,6 +1169,14 @@
       "onboard_time": 1751688022,
       "rank": 35,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 127468,
+      "num": 127468,
+      "word": "林俊杰第100场演唱会",
+      "onboard_time": 1751699722,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 127072,
@@ -1307,6 +1419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109644,
+      "num": 109644,
+      "word": "县级以下禁开发政务APP为基层减负",
+      "onboard_time": 1751699062,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109560,
       "num": 109560,
       "word": "起猛了labubu都在短剧站岗了",
@@ -1361,6 +1481,14 @@
       "onboard_time": 1751681303,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107555,
+      "num": 107555,
+      "word": "刘晓庆我真的爱上你了",
+      "onboard_time": 1751698702,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 107498,
@@ -1419,6 +1547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100851,
+      "num": 106457,
+      "word": "成都GG对战MRC",
+      "onboard_time": 1751698820,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 100627,
       "num": 264437,
       "word": "网友晒离谱超速罚单每小时17052km",
@@ -1459,20 +1595,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 99209,
-      "num": 99209,
-      "word": "司机收300元把孩子塞后备箱运送",
-      "onboard_time": 1751698101,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 99157,
       "num": 106200,
       "word": "入青云",
       "onboard_time": 1751682862,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98496,
+      "num": 98496,
+      "word": "下次有人催婚我就这么回",
+      "onboard_time": 1751698820,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 97619,
+      "num": 97619,
+      "word": "怎么会有荔枝这么清透",
+      "onboard_time": 1751698882,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 97440,
@@ -1521,6 +1665,14 @@
       "onboard_time": 1751687001,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93992,
+      "num": 93992,
+      "word": "沈梦辰被门磕到了头",
+      "onboard_time": 1751700140,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 93849,

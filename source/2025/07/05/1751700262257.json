@@ -1,0 +1,410 @@
+{
+  "runTime": 1751700262257,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1008170,
+        "num": 1161307,
+        "word": "易烊千玺回应礐嶨不会读",
+        "onboard_time": 1751688922,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 966739,
+        "num": 966739,
+        "word": "K1373没达到破窗应急预案紧急程度",
+        "onboard_time": 1751691681,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36762,
+        "num": 758094,
+        "word": "以身许国是他们最深情的告白",
+        "onboard_time": 1751690063,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 701716,
+        "num": 701716,
+        "word": "K1373砸窗男子被批评教育",
+        "onboard_time": 1751696780,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 670131,
+        "num": 670131,
+        "word": "韩男子与两伴侣生子后发现均非亲生",
+        "onboard_time": 1751695101,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 462347,
+        "num": 462347,
+        "word": "K1373次列车亲历者称当时已有人中暑",
+        "onboard_time": 1751692881,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 405257,
+        "num": 405257,
+        "word": "李佳薇歌手得票率94.5%",
+        "onboard_time": 1751698521,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 386368,
+        "num": 386368,
+        "word": "恶意",
+        "onboard_time": 1751694201,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 316695,
+        "num": 316695,
+        "word": "前台开错房女房客误入男子房间",
+        "onboard_time": 1751698702,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287210,
+        "num": 287210,
+        "word": "女子在家刷手机被闪电击中到失忆",
+        "onboard_time": 1751695101,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1344224,
+        "num": 286869,
+        "word": "王梓薇买别墅",
+        "onboard_time": 1751698521,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1130559,
+        "num": 285677,
+        "word": "武汉跳楼妈妈",
+        "onboard_time": 1751687781,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 503256,
+        "num": 284105,
+        "word": "男子钓鱼触电致4千斤鱼被电死",
+        "onboard_time": 1751696902,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 488711,
+        "num": 282330,
+        "word": "泰星Janie出家",
+        "onboard_time": 1751697500,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327491,
+        "num": 279770,
+        "word": "日本末日预言者开始改口",
+        "onboard_time": 1751698942,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 298119,
+        "num": 279463,
+        "word": "王安宇工作室 网盘",
+        "onboard_time": 1751698401,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278281,
+        "num": 278281,
+        "word": "南海海槽几乎每百年发生一次大地震",
+        "onboard_time": 1751697021,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 231634,
+        "num": 231634,
+        "word": "男子钓鱼甩竿碰高压线全身80%烧伤",
+        "onboard_time": 1751698462,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246627,
+        "num": 230124,
+        "word": "易烊千玺演唱会第一个有票的人出现了",
+        "onboard_time": 1751699542,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 228553,
+        "num": 229095,
+        "word": "BLACKPINK高阳演唱会单人海报",
+        "onboard_time": 1751692822,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 228563,
+        "num": 228563,
+        "word": "日本地震预言致外国游客取消行程",
+        "onboard_time": 1751680642,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 211332,
+        "num": 211332,
+        "word": "日本无事发生",
+        "onboard_time": 1751671879,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 200438,
+        "num": 200438,
+        "word": "肖战脱西装路透",
+        "onboard_time": 1751697560,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199926,
+        "num": 199926,
+        "word": "胡先煦一句话马丽冠军没了",
+        "onboard_time": 1751699062,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180064,
+        "num": 180064,
+        "word": "李佳薇称被曝出做房产中介后很绝望",
+        "onboard_time": 1751697681,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159068,
+        "num": 159068,
+        "word": "司机收300元把孩子塞后备箱运送",
+        "onboard_time": 1751698101,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157733,
+        "num": 157733,
+        "word": "黄晓明让猫骑自己脖子",
+        "onboard_time": 1751699481,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154744,
+        "num": 154744,
+        "word": "吴艳妮晒暴击流穿搭",
+        "onboard_time": 1751690181,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147776,
+        "num": 147776,
+        "word": "易烊千玺演唱会上海站官宣",
+        "onboard_time": 1751687781,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143046,
+        "num": 143046,
+        "word": "母亲人工流产四次生下患病婴儿",
+        "onboard_time": 1751688563,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138282,
+        "num": 138282,
+        "word": "恋与制作人3.0直播上篇",
+        "onboard_time": 1751699841,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136386,
+        "num": 136386,
+        "word": "宠物医院患者没有一个谨遵医嘱的",
+        "onboard_time": 1751699062,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134247,
+        "num": 134247,
+        "word": "苗苗晒的是大宝小时候",
+        "onboard_time": 1751693902,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131781,
+        "num": 131781,
+        "word": "成都暴雨航拍都江堰再现奇观",
+        "onboard_time": 1751689223,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131223,
+        "num": 131223,
+        "word": "南京奥体中心冰临城下",
+        "onboard_time": 1751700020,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128782,
+        "num": 128782,
+        "word": "女子3万8卖掉自己的孩子用于打赏主播",
+        "onboard_time": 1751676081,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127807,
+        "num": 127807,
+        "word": "田栩宁古装路透",
+        "onboard_time": 1751688081,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127468,
+        "num": 127468,
+        "word": "林俊杰第100场演唱会",
+        "onboard_time": 1751699722,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123850,
+        "num": 123850,
+        "word": "这就是为什么不建议喝瓶装水",
+        "onboard_time": 1751683883,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 111903,
+        "num": 111903,
+        "word": "王源求婚转场",
+        "onboard_time": 1751676441,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110435,
+        "num": 110435,
+        "word": "久坐的人要好好养屁股",
+        "onboard_time": 1751694623,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 109644,
+        "num": 109644,
+        "word": "县级以下禁开发政务APP为基层减负",
+        "onboard_time": 1751699062,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107555,
+        "num": 107555,
+        "word": "刘晓庆我真的爱上你了",
+        "onboard_time": 1751698702,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100851,
+        "num": 106457,
+        "word": "成都GG对战MRC",
+        "onboard_time": 1751698820,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106400,
+        "num": 106400,
+        "word": "苏超南京队球衣销量最高",
+        "onboard_time": 1751696721,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104952,
+        "num": 104952,
+        "word": "武汉鸽子中暑",
+        "onboard_time": 1751686280,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103435,
+        "num": 103435,
+        "word": "大学生侵入官网窃取试卷被开除",
+        "onboard_time": 1751695820,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98496,
+        "num": 98496,
+        "word": "下次有人催婚我就这么回",
+        "onboard_time": 1751698820,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97619,
+        "num": 97619,
+        "word": "怎么会有荔枝这么清透",
+        "onboard_time": 1751698882,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 93992,
+        "num": 93992,
+        "word": "沈梦辰被门磕到了头",
+        "onboard_time": 1751700140,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#30多年前的这份战略规划带来的启示#"
+    }
+  }
+}
