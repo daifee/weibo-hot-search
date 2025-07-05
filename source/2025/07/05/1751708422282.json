@@ -1,0 +1,410 @@
+{
+  "runTime": 1751708422282,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1500471,
+        "num": 1500471,
+        "word": "前台开错房涉事女房客男友发声",
+        "onboard_time": 1751701820,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1072161,
+        "num": 1072161,
+        "word": "日本末日预言者开始改口",
+        "onboard_time": 1751698942,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 23205,
+        "num": 986311,
+        "word": "贵州榕江群众泪别救援队伍",
+        "onboard_time": 1751707823,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 965103,
+        "num": 965103,
+        "word": "女子遭同学设套被骗千万全家自杀",
+        "onboard_time": 1751706141,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 522662,
+        "num": 522662,
+        "word": "超20万人熬夜看日本地震监测直播",
+        "onboard_time": 1751702723,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 498797,
+        "num": 498797,
+        "word": "易烊千玺回应礐嶨不会读",
+        "onboard_time": 1751688922,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 410547,
+        "num": 410547,
+        "word": "山西23名死亡人员领高龄津贴",
+        "onboard_time": 1751707160,
+        "rank": 6,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 402779,
+        "num": 402779,
+        "word": "柳智敏水弹",
+        "onboard_time": 1751706201,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 368325,
+        "num": 368325,
+        "word": "K1373砸窗男子被批评教育",
+        "onboard_time": 1751696780,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320029,
+        "num": 320029,
+        "word": "76岁老人海中游泳被三只野狗咬死",
+        "onboard_time": 1751704461,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 763118,
+        "num": 319918,
+        "word": "王梓薇买别墅",
+        "onboard_time": 1751698521,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 725695,
+        "num": 317836,
+        "word": "武汉跳楼妈妈",
+        "onboard_time": 1751687781,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 407564,
+        "num": 316074,
+        "word": "梓渝谁说人生没有观众的",
+        "onboard_time": 1751704581,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322585,
+        "num": 313641,
+        "word": "易烊千玺演唱会第一个有票的人出现了",
+        "onboard_time": 1751699542,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 178986,
+        "num": 312842,
+        "word": "校方回应宿舍无空调学生中暑",
+        "onboard_time": 1751707341,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311615,
+        "num": 311615,
+        "word": "如果一个人朋友圈干干净净特别正常",
+        "onboard_time": 1751705243,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 294308,
+        "num": 294308,
+        "word": "前台开错房女房客误入男子房间",
+        "onboard_time": 1751698702,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227033,
+        "num": 289582,
+        "word": "谁抢到了",
+        "onboard_time": 1751703200,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193141,
+        "num": 279773,
+        "word": "李佳薇歌手得票率94.5%",
+        "onboard_time": 1751698521,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55089,
+        "num": 276710,
+        "word": "多位家长称血铅检测结果前后悬殊",
+        "onboard_time": 1751707281,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 775145,
+        "num": 265522,
+        "word": "12岁幼女家中遭强奸妈妈第二天才发现",
+        "onboard_time": 1751701881,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260871,
+        "num": 260871,
+        "word": "王安宇工作室 网盘",
+        "onboard_time": 1751698401,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236539,
+        "num": 236539,
+        "word": "采耳店女技师疑遭男子掀裙袭胸猥亵",
+        "onboard_time": 1751706862,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213574,
+        "num": 213574,
+        "word": "横店",
+        "onboard_time": 1751707522,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206308,
+        "num": 206308,
+        "word": "K1373没达到破窗应急预案紧急程度",
+        "onboard_time": 1751691681,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189809,
+        "num": 189809,
+        "word": "曾舜晞工作室辟谣靠恋爱升咖",
+        "onboard_time": 1751702302,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176545,
+        "num": 176545,
+        "word": "沈腾跳了aespa女团舞",
+        "onboard_time": 1751705301,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163122,
+        "num": 163122,
+        "word": "看王力宏演唱会比王力宏还累",
+        "onboard_time": 1751707942,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 159725,
+        "num": 160768,
+        "word": "种地吧禁止虐待老人",
+        "onboard_time": 1751706681,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127441,
+        "num": 160199,
+        "word": "司机收300元把孩子塞后备箱运送",
+        "onboard_time": 1751698101,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188162,
+        "num": 160150,
+        "word": "男子钓鱼触电致4千斤鱼被电死",
+        "onboard_time": 1751696902,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160003,
+        "num": 160003,
+        "word": "烟台一高校宿舍无空调学生中暑送医",
+        "onboard_time": 1751708003,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155085,
+        "num": 155085,
+        "word": "是鱼就归我管",
+        "onboard_time": 1751704161,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152682,
+        "num": 152682,
+        "word": "控糖瓜 没熟",
+        "onboard_time": 1751707042,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 145364,
+        "num": 145364,
+        "word": "学历越高越容易焦虑吗",
+        "onboard_time": 1751704461,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137812,
+        "num": 137812,
+        "word": "泰星Janie出家",
+        "onboard_time": 1751697500,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136953,
+        "num": 136953,
+        "word": "梓渝短剧开播",
+        "onboard_time": 1751705243,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128949,
+        "num": 128949,
+        "word": "台剧果然是另一个level了",
+        "onboard_time": 1751700501,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122360,
+        "num": 122360,
+        "word": "回流票",
+        "onboard_time": 1751704102,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120997,
+        "num": 120997,
+        "word": "广东空调安装师傅赶赴哈尔滨支援",
+        "onboard_time": 1751703681,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118720,
+        "num": 118720,
+        "word": "幼童血铅爆表通报过于轻飘飘",
+        "onboard_time": 1751704281,
+        "rank": 40,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 114504,
+        "num": 114504,
+        "word": "大麦再爱我一次",
+        "onboard_time": 1751703322,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113952,
+        "num": 113952,
+        "word": "李佳薇称被曝出做房产中介后很绝望",
+        "onboard_time": 1751697681,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112899,
+        "num": 112899,
+        "word": "美飞虎队老兵再来中国表情都一样",
+        "onboard_time": 1751703622,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105043,
+        "num": 105043,
+        "word": "韩男子与两伴侣生子后发现均非亲生",
+        "onboard_time": 1751695101,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 258080,
+        "num": 104594,
+        "word": "恋与深空日本",
+        "onboard_time": 1751705421,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 103929,
+        "num": 103929,
+        "word": "BLACKPINK高阳演唱会单人海报",
+        "onboard_time": 1751692822,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 100342,
+        "num": 100342,
+        "word": "江苏一哥对决江苏E哥",
+        "onboard_time": 1751707761,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100086,
+        "num": 100086,
+        "word": "杨瀚森领衔开拓者夏联名单",
+        "onboard_time": 1751708242,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94658,
+        "num": 94658,
+        "word": "李一桐刘宇宁剧宣视频",
+        "onboard_time": 1751707101,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记和青年朋友在一起#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1751646733900,
-  "endTime": 1751707567586,
+  "endTime": 1751708422282,
   "band_list": [
     {
       "raw_hot": 2497507,
@@ -51,8 +51,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1453428,
-      "num": 1453428,
+      "raw_hot": 1500471,
+      "num": 1500471,
       "word": "前台开错房涉事女房客男友发声",
       "onboard_time": 1751701820,
       "rank": 8,
@@ -131,6 +131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 965103,
+      "num": 965103,
+      "word": "女子遭同学设套被骗千万全家自杀",
+      "onboard_time": 1751706141,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 930856,
       "num": 452706,
       "word": "王源求婚转场",
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 910231,
-      "num": 203901,
+      "num": 265522,
       "word": "12岁幼女家中遭强奸妈妈第二天才发现",
       "onboard_time": 1751701881,
       "rank": 22,
@@ -235,14 +243,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 630902,
-      "num": 630902,
-      "word": "女子遭同学设套被骗千万全家自杀",
-      "onboard_time": 1751706141,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 572173,
       "num": 382512,
       "word": "黄多多孙莉去拍了aespa人生四格",
@@ -265,6 +265,14 @@
       "onboard_time": 1751682441,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 522662,
+      "num": 522662,
+      "word": "超20万人熬夜看日本地震监测直播",
+      "onboard_time": 1751702723,
+      "rank": 21,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 503256,
@@ -305,14 +313,6 @@
       "onboard_time": 1751686401,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 469374,
-      "num": 469374,
-      "word": "超20万人熬夜看日本地震监测直播",
-      "onboard_time": 1751702723,
-      "rank": 21,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 465913,
@@ -387,6 +387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 410547,
+      "num": 410547,
+      "word": "山西23名死亡人员领高龄津贴",
+      "onboard_time": 1751707160,
+      "rank": 28,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 409015,
       "num": 485184,
       "word": "武汉鸽子中暑",
@@ -395,12 +403,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 407564,
+      "num": 316513,
+      "word": "梓渝谁说人生没有观众的",
+      "onboard_time": 1751704581,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 405257,
       "num": 405257,
       "word": "李佳薇歌手得票率94.5%",
       "onboard_time": 1751698521,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 402779,
+      "num": 402779,
+      "word": "柳智敏水弹",
+      "onboard_time": 1751706201,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 400020,
@@ -491,14 +515,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 335837,
-      "num": 316513,
-      "word": "梓渝谁说人生没有观众的",
-      "onboard_time": 1751704581,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 333102,
       "num": 212200,
       "word": "爆火过后终于理解租labubu的人了",
@@ -523,6 +539,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 320029,
+      "num": 320029,
+      "word": "76岁老人海中游泳被三只野狗咬死",
+      "onboard_time": 1751704461,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 319632,
       "num": 313009,
       "word": "吴艳妮晒暴击流穿搭",
@@ -539,20 +563,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 315672,
-      "num": 315672,
-      "word": "柳智敏水弹",
-      "onboard_time": 1751706201,
-      "rank": 13,
-      "category": "演出"
-    },
-    {
       "raw_hot": 315572,
       "num": 315572,
       "word": "谁抢到了",
       "onboard_time": 1751703200,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 311615,
+      "num": 311615,
+      "word": "如果一个人朋友圈干干净净特别正常",
+      "onboard_time": 1751705243,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 297568,
@@ -569,14 +593,6 @@
       "onboard_time": 1751679142,
       "rank": 13,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 296410,
-      "num": 296410,
-      "word": "76岁老人海中游泳被三只野狗咬死",
-      "onboard_time": 1751704461,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 294157,
@@ -723,6 +739,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 236539,
+      "num": 236539,
+      "word": "采耳店女技师疑遭男子掀裙袭胸猥亵",
+      "onboard_time": 1751706862,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 231634,
       "num": 231634,
       "word": "男子钓鱼甩竿碰高压线全身80%烧伤",
@@ -768,6 +792,14 @@
       "word": "北京下雨",
       "onboard_time": 1751654716,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213574,
+      "num": 213574,
+      "word": "横店",
+      "onboard_time": 1751707522,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -825,14 +857,6 @@
       "onboard_time": 1751644224,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 202629,
-      "num": 202629,
-      "word": "如果一个人朋友圈干干净净特别正常",
-      "onboard_time": 1751705243,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 202532,
@@ -923,11 +947,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 178808,
-      "num": 178808,
-      "word": "采耳店女技师疑遭男子掀裙袭胸猥亵",
-      "onboard_time": 1751706862,
-      "rank": 25,
+      "raw_hot": 178986,
+      "num": 312842,
+      "word": "校方回应宿舍无空调学生中暑",
+      "onboard_time": 1751707341,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -1043,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163122,
+      "num": 163122,
+      "word": "看王力宏演唱会比王力宏还累",
+      "onboard_time": 1751707942,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 161683,
       "num": 161683,
       "word": "种地吧禁止虐待老人",
@@ -1067,16 +1099,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 159417,
-      "num": 159417,
-      "word": "山西23名死亡人员领高龄津贴",
-      "onboard_time": 1751707160,
-      "rank": 28,
-      "category": "辟谣/通报"
+      "raw_hot": 160003,
+      "num": 160003,
+      "word": "烟台一高校宿舍无空调学生中暑送医",
+      "onboard_time": 1751708003,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159068,
-      "num": 159068,
+      "num": 160199,
       "word": "司机收300元把孩子塞后备箱运送",
       "onboard_time": 1751698101,
       "rank": 44,
@@ -1113,6 +1145,22 @@
       "onboard_time": 1751643684,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155085,
+      "num": 155085,
+      "word": "是鱼就归我管",
+      "onboard_time": 1751704161,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 152682,
+      "num": 152682,
+      "word": "控糖瓜 没熟",
+      "onboard_time": 1751707042,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 152636,
@@ -1219,14 +1267,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 146856,
-      "num": 144939,
-      "word": "是鱼就归我管",
-      "onboard_time": 1751704161,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 146788,
       "num": 146788,
       "word": "BLACKPINK新曲回归预告",
@@ -1257,6 +1297,14 @@
       "onboard_time": 1751690001,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145364,
+      "num": 145364,
+      "word": "学历越高越容易焦虑吗",
+      "onboard_time": 1751704461,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 144720,
@@ -1297,6 +1345,14 @@
       "onboard_time": 1751639906,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 136953,
+      "num": 136953,
+      "word": "梓渝短剧开播",
+      "onboard_time": 1751705243,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 136386,
@@ -1369,22 +1425,6 @@
       "onboard_time": 1751690782,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 129204,
-      "num": 128384,
-      "word": "学历越高越容易焦虑吗",
-      "onboard_time": 1751704461,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 129158,
-      "num": 129158,
-      "word": "梓渝短剧开播",
-      "onboard_time": 1751705243,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 128201,
@@ -1603,14 +1643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 116457,
-      "num": 116457,
-      "word": "校方回应宿舍无空调学生中暑",
-      "onboard_time": 1751707341,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 116421,
       "num": 116421,
       "word": "这才是我认识的胡一天",
@@ -1649,6 +1681,14 @@
       "onboard_time": 1751675901,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 112899,
+      "num": 325230,
+      "word": "美飞虎队老兵再来中国表情都一样",
+      "onboard_time": 1751703622,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112624,
@@ -1883,12 +1923,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100342,
+      "num": 100342,
+      "word": "江苏一哥对决江苏E哥",
+      "onboard_time": 1751707761,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100181,
       "num": 100622,
       "word": "第一次见虐男女主还配平的剧",
       "onboard_time": 1751702061,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100086,
+      "num": 100086,
+      "word": "杨瀚森领衔开拓者夏联名单",
+      "onboard_time": 1751708242,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 100005,
@@ -2003,14 +2059,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 94783,
-      "num": 94783,
-      "word": "横店",
-      "onboard_time": 1751707522,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 93992,
       "num": 93992,
       "word": "沈梦辰被门磕到了头",
@@ -2049,14 +2097,6 @@
       "onboard_time": 1751703262,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 92588,
-      "num": 325230,
-      "word": "美飞虎队老兵再来中国表情都一样",
-      "onboard_time": 1751703622,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 92032,
@@ -2347,6 +2387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 55089,
+      "num": 276710,
+      "word": "多位家长称血铅检测结果前后悬殊",
+      "onboard_time": 1751707281,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54335,
       "num": 54335,
       "word": "吴启华回应澳门豪赌传闻",
@@ -2392,14 +2440,6 @@
       "word": "20岁女生丽江徒步失联已4天",
       "onboard_time": 1751704883,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 42898,
-      "num": 202958,
-      "word": "多位家长称血铅检测结果前后悬殊",
-      "onboard_time": 1751707281,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -2497,6 +2537,14 @@
       "onboard_time": 1751648180,
       "rank": 47,
       "category": "军事"
+    },
+    {
+      "raw_hot": 23205,
+      "num": 986311,
+      "word": "贵州榕江群众泪别救援队伍",
+      "onboard_time": 1751707823,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21810,
