@@ -1,6 +1,6 @@
 {
   "startTime": 1751646733900,
-  "endTime": 1751694192043,
+  "endTime": 1751697325321,
   "band_list": [
     {
       "raw_hot": 2497507,
@@ -33,6 +33,14 @@
       "onboard_time": 1751685381,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1400249,
+      "num": 1400249,
+      "word": "K1373没达到破窗应急预案紧急程度",
+      "onboard_time": 1751691681,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1394360,
@@ -72,14 +80,6 @@
       "word": "67岁丈夫出轨50岁闺蜜妻子怒告二人",
       "onboard_time": 1751647162,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1161842,
-      "num": 1161842,
-      "word": "K1373没达到破窗应急预案紧急程度",
-      "onboard_time": 1751691681,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -131,12 +131,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 734592,
+      "num": 734592,
+      "word": "K1373次列车亲历者称当时已有人中暑",
+      "onboard_time": 1751692881,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 704758,
+      "num": 704758,
+      "word": "韩男子与两伴侣生子后发现均非亲生",
+      "onboard_time": 1751695101,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 697235,
       "num": 915749,
       "word": "成都暴雨致家里插座出水成瀑布",
       "onboard_time": 1751644941,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 694964,
+      "num": 694964,
+      "word": "恶意",
+      "onboard_time": 1751694201,
+      "rank": 5,
+      "category": "电影"
     },
     {
       "raw_hot": 665225,
@@ -267,14 +291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 409991,
-      "num": 409991,
-      "word": "K1373次列车亲历者称当时已有人中暑",
-      "onboard_time": 1751692881,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 409015,
       "num": 485184,
       "word": "武汉鸽子中暑",
@@ -337,6 +353,14 @@
       "onboard_time": 1751681483,
       "rank": 15,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 346263,
+      "num": 218101,
+      "word": "苗苗晒的是大宝小时候",
+      "onboard_time": 1751693902,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 336728,
@@ -651,12 +675,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177401,
+      "num": 177401,
+      "word": "K1373砸窗男子被批评教育",
+      "onboard_time": 1751696780,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177370,
       "num": 177370,
       "word": "违停者屡次开门杀车主自费装护栏",
       "onboard_time": 1751648780,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176840,
+      "num": 176840,
+      "word": "沈月不语只是一味的画下颚线",
+      "onboard_time": 1751696662,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 176369,
@@ -771,12 +811,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 155985,
-      "num": 155985,
-      "word": "苗苗晒的是大宝小时候",
-      "onboard_time": 1751693902,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 154934,
+      "num": 154934,
+      "word": "女子在家刷手机被闪电击中到失忆",
+      "onboard_time": 1751695101,
+      "rank": 24,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 152636,
@@ -811,6 +851,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152241,
+      "num": 152241,
+      "word": "国乒美国大满贯首日赛程",
+      "onboard_time": 1751696421,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 151158,
+      "num": 151158,
+      "word": "法学生做法考题案例是自己",
+      "onboard_time": 1751696062,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150990,
       "num": 140733,
       "word": "虞书欣再见了花花今晚我就要远航",
@@ -841,6 +897,14 @@
       "onboard_time": 1751644883,
       "rank": 30,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 149265,
+      "num": 149265,
+      "word": "男子钓鱼触电致4千斤鱼被电死",
+      "onboard_time": 1751696902,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147003,
@@ -1083,6 +1147,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 118555,
+      "num": 118555,
+      "word": "继她拍的后内娱上新她画的",
+      "onboard_time": 1751696361,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 118526,
+      "num": 118526,
+      "word": "大学生侵入官网窃取试卷被开除",
+      "onboard_time": 1751695820,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118346,
       "num": 118346,
       "word": "丁太升回应单依纯王菲在唱那英的歌",
@@ -1131,12 +1211,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112485,
+      "num": 112485,
+      "word": "苏超南京队球衣销量最高",
+      "onboard_time": 1751696721,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112364,
       "num": 112364,
       "word": "拜登称许多欧洲领导人向他求助",
       "onboard_time": 1751675061,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 112015,
+      "num": 112015,
+      "word": "猫咪看主人和看狗时的眼神变化",
+      "onboard_time": 1751695941,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 111729,
@@ -1243,6 +1339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104262,
+      "num": 104262,
+      "word": "周震南快把学费给韩红老师",
+      "onboard_time": 1751696181,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104111,
       "num": 104111,
       "word": "空调开除湿模式别超2小时",
@@ -1257,6 +1361,14 @@
       "onboard_time": 1751686882,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100005,
+      "num": 100005,
+      "word": "网友用面做成了荔枝的样子",
+      "onboard_time": 1751696959,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 99641,
@@ -1339,6 +1451,14 @@
       "category": "休闲,动漫"
     },
     {
+      "raw_hot": 93743,
+      "num": 93743,
+      "word": "久坐的人要好好养屁股",
+      "onboard_time": 1751694623,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 93420,
       "num": 93420,
       "word": "汪顺潘展乐傅园慧打篮球",
@@ -1363,6 +1483,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 91957,
+      "num": 141363,
+      "word": "第4号台风丹娜丝生成",
+      "onboard_time": 1751692822,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91917,
       "num": 91917,
       "word": "敖瑞鹏灿烂的市集路透",
@@ -1385,6 +1513,14 @@
       "onboard_time": 1751690544,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90441,
+      "num": 161864,
+      "word": "南海海槽几乎每百年发生一次大地震",
+      "onboard_time": 1751697021,
+      "rank": 21,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 90312,
@@ -1531,6 +1667,14 @@
       "category": "民生新闻,国际时政"
     },
     {
+      "raw_hot": 71750,
+      "num": 176845,
+      "word": "胡先煦谁来为我发声",
+      "onboard_time": 1751695700,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 68448,
       "num": 139263,
       "word": "鹿晗演唱会无处不在的惊喜",
@@ -1609,6 +1753,14 @@
       "onboard_time": 1751642184,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 51171,
+      "num": 105258,
+      "word": "海产姐妹开心上训",
+      "onboard_time": 1751697021,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 46769,
