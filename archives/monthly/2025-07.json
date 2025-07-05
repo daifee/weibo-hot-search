@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751722414265,
+  "endTime": 1751723068152,
   "band_list": [
     {
       "raw_hot": 6390116,
@@ -171,6 +171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1905112,
+      "num": 1905112,
+      "word": "南京vs苏州",
+      "onboard_time": 1751716762,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1880456,
       "num": 311598,
       "word": "麦琳承认短视频模仿并致歉",
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 1646641,
-      "num": 183803,
+      "num": 185712,
       "word": "美团崩了",
       "onboard_time": 1751708782,
       "rank": 30,
@@ -449,14 +457,6 @@
       "onboard_time": 1751612122,
       "rank": 3,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1252289,
-      "num": 1252289,
-      "word": "南京vs苏州",
-      "onboard_time": 1751716762,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 1252166,
@@ -2020,7 +2020,7 @@
     },
     {
       "raw_hot": 582215,
-      "num": 433374,
+      "num": 497703,
       "word": "BLACKPINK新歌",
       "onboard_time": 1751719704,
       "rank": 6,
@@ -2121,6 +2121,14 @@
       "onboard_time": 1751540660,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 556351,
+      "num": 556351,
+      "word": "徐州vs南通",
+      "onboard_time": 1751721633,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 554643,
@@ -2579,6 +2587,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 455135,
+      "num": 447838,
+      "word": "美国新关税或达70%",
+      "onboard_time": 1751718201,
+      "rank": 9,
+      "category": "国际时政,财经"
+    },
+    {
       "raw_hot": 455055,
       "num": 455055,
       "word": "台名医下药性侵三女遭通缉",
@@ -2681,14 +2697,6 @@
       "onboard_time": 1751533520,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 447838,
-      "num": 447838,
-      "word": "美国新关税或达70%",
-      "onboard_time": 1751718201,
-      "rank": 9,
-      "category": "国际时政,财经"
     },
     {
       "raw_hot": 446314,
@@ -3467,6 +3475,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 352752,
+      "num": 335553,
+      "word": "锦绣芳华评级",
+      "onboard_time": 1751720182,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 352508,
       "num": 344271,
       "word": "突然发现85花好多和同事结婚的",
@@ -3867,6 +3883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 319966,
+      "num": 319966,
+      "word": "你好星期六",
+      "onboard_time": 1751720663,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 319632,
       "num": 313009,
       "word": "吴艳妮晒暴击流穿搭",
@@ -3889,14 +3913,6 @@
       "onboard_time": 1751641107,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 318161,
-      "num": 318161,
-      "word": "锦绣芳华评级",
-      "onboard_time": 1751720182,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 316213,
@@ -4539,6 +4555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 273144,
+      "num": 273144,
+      "word": "21岁网红机车少年因意外车祸离世",
+      "onboard_time": 1751721023,
+      "rank": 17,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 272934,
       "num": 272934,
       "word": "欠女大学生家教费老赖债主遍布全国",
@@ -4739,6 +4763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 260393,
+      "num": 337319,
+      "word": "强奸未遂致人溺亡男子被执行死刑",
+      "onboard_time": 1751721143,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 260296,
       "num": 176621,
       "word": "尤浩然回应小雨变暴雨了",
@@ -4843,12 +4875,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 251885,
-      "num": 251885,
-      "word": "21岁网红机车少年因意外车祸离世",
-      "onboard_time": 1751721023,
-      "rank": 17,
-      "category": "民生新闻,网红"
+      "raw_hot": 251767,
+      "num": 251767,
+      "word": "男子走出空调房一下冷中暑",
+      "onboard_time": 1751719222,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 251092,
@@ -4865,6 +4897,14 @@
       "onboard_time": 1751679681,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 250588,
+      "num": 250588,
+      "word": "横店女演员拍戏身亡爆料部分被删",
+      "onboard_time": 1751722466,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 249602,
@@ -5115,14 +5155,6 @@
       "category": "国际时政,国际时政"
     },
     {
-      "raw_hot": 234279,
-      "num": 234279,
-      "word": "你好星期六",
-      "onboard_time": 1751720663,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 233517,
       "num": 250041,
       "word": "剧还在拍番外就先播了",
@@ -5345,6 +5377,14 @@
       "onboard_time": 1751447122,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 226933,
+      "num": 226933,
+      "word": "尽量不要给手机整夜充电",
+      "onboard_time": 1751718142,
+      "rank": 48,
+      "category": "科学科普"
     },
     {
       "raw_hot": 226651,
@@ -6323,14 +6363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199910,
-      "num": 230051,
-      "word": "男子走出空调房一下冷中暑",
-      "onboard_time": 1751719222,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 199834,
       "num": 199834,
       "word": "妈妈带厌学儿子送外卖几小时治好了",
@@ -6353,6 +6385,14 @@
       "onboard_time": 1751423902,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199255,
+      "num": 199255,
+      "word": "苏超南通2比1徐州",
+      "onboard_time": 1751720783,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 199128,
@@ -6521,14 +6561,6 @@
       "onboard_time": 1751421320,
       "rank": 22,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 196735,
-      "num": 196735,
-      "word": "徐州vs南通",
-      "onboard_time": 1751721633,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 196728,
@@ -6899,14 +6931,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 189998,
-      "num": 189998,
-      "word": "尽量不要给手机整夜充电",
-      "onboard_time": 1751718142,
-      "rank": 48,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 189933,
       "num": 189933,
       "word": "迪丽热巴警服造型又美又飒",
@@ -7089,6 +7113,14 @@
       "onboard_time": 1751701761,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185907,
+      "num": 185907,
+      "word": "孟子义内娱第一个饭渣人设",
+      "onboard_time": 1751721985,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 185809,
@@ -7403,6 +7435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177432,
+      "num": 177432,
+      "word": "狗头萝莉员工月薪已涨到六七千",
+      "onboard_time": 1751721023,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 177407,
       "num": 177407,
       "word": "儿科女医生进修3个月带回100G资料",
@@ -7587,6 +7627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175137,
+      "num": 175137,
+      "word": "那吾克热被做局了",
+      "onboard_time": 1751722765,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175121,
       "num": 175121,
       "word": "张艺兴五巡官宣",
@@ -7641,14 +7689,6 @@
       "onboard_time": 1751423180,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 174315,
-      "num": 174315,
-      "word": "狗头萝莉员工月薪已涨到六七千",
-      "onboard_time": 1751721023,
-      "rank": 33,
-      "category": "网红"
     },
     {
       "raw_hot": 174288,
@@ -8691,6 +8731,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 156659,
+      "num": 156659,
+      "word": "日本预言家自曝只画了插画",
+      "onboard_time": 1751722646,
+      "rank": 39,
+      "category": "海外新闻,动漫"
+    },
+    {
       "raw_hot": 156524,
       "num": 226396,
       "word": "香港老人登上山东舰的反应让人泪目",
@@ -8955,14 +9003,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 152881,
-      "num": 152881,
-      "word": "孟子义内娱第一个饭渣人设",
-      "onboard_time": 1751721985,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 152682,
       "num": 152682,
       "word": "控糖瓜 没熟",
@@ -9081,14 +9121,6 @@
       "onboard_time": 1751696421,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151962,
-      "num": 337319,
-      "word": "强奸未遂致人溺亡男子被执行死刑",
-      "onboard_time": 1751721143,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 151944,
@@ -9379,14 +9411,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 147504,
-      "num": 147504,
-      "word": "苏超南通2比1徐州",
-      "onboard_time": 1751720783,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 147298,
       "num": 147298,
       "word": "恋与深空陪我睡觉",
@@ -9425,6 +9449,14 @@
       "onboard_time": 1751687722,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 146879,
+      "num": 146879,
+      "word": "苏超冰至如归",
+      "onboard_time": 1751712801,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 146859,
@@ -9763,6 +9795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142064,
+      "num": 142064,
+      "word": "让阿兰这样穿搭的人是天才",
+      "onboard_time": 1751722886,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141812,
       "num": 144654,
       "word": "大学校园向公众开放咋就这么难",
@@ -9873,6 +9913,14 @@
       "onboard_time": 1751456962,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140243,
+      "num": 140243,
+      "word": "书卷一梦开虐",
+      "onboard_time": 1751723007,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 140111,
@@ -10241,6 +10289,14 @@
       "onboard_time": 1751698882,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 135692,
+      "num": 135692,
+      "word": "警方回应横店女演员拍戏身亡传闻",
+      "onboard_time": 1751723007,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135691,
@@ -11323,6 +11379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124136,
+      "num": 160862,
+      "word": "无名之辈",
+      "onboard_time": 1751723007,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 124010,
       "num": 124010,
       "word": "沈佳润音色",
@@ -11537,14 +11601,6 @@
       "onboard_time": 1751621362,
       "rank": 40,
       "category": "汽车,科学科普"
-    },
-    {
-      "raw_hot": 122129,
-      "num": 122129,
-      "word": "苏超冰至如归",
-      "onboard_time": 1751712801,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 122055,
@@ -15012,7 +15068,7 @@
     },
     {
       "raw_hot": 71892,
-      "num": 1032840,
+      "num": 1043955,
       "word": "贵州榕江群众泪别救援队伍",
       "onboard_time": 1751707823,
       "rank": 2,
@@ -16217,6 +16273,14 @@
       "onboard_time": 1751471062,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 41953,
+      "num": 170332,
+      "word": "家属称老人接航班改签电话后损失100万",
+      "onboard_time": 1751722886,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41937,
