@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751741182660,
+  "endTime": 1751743252793,
   "band_list": [
     {
       "raw_hot": 2706470,
@@ -171,8 +171,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 210330,
-      "num": 210330,
+      "raw_hot": 224066,
+      "num": 224066,
       "word": "穆西亚拉",
       "onboard_time": 1751739316,
       "rank": 0,
@@ -363,6 +363,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 92024,
+      "num": 92024,
+      "word": "新说唱2025",
+      "onboard_time": 1751737997,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 87565,
       "num": 104885,
       "word": "余承恩晒加速王奖牌",
@@ -385,14 +393,6 @@
       "onboard_time": 1751720182,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 83297,
-      "num": 83297,
-      "word": "新说唱2025",
-      "onboard_time": 1751737997,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 82849,
@@ -531,6 +531,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 25116,
+      "num": 71157,
+      "word": "网友爬天山偶遇罕见天山雪莲",
+      "onboard_time": 1751739076,
+      "rank": 49,
+      "category": "旅游,民生新闻"
+    },
+    {
       "raw_hot": 23560,
       "num": 58261,
       "word": "香港老人说要看祖国一天比一天强大",
@@ -539,12 +547,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 23557,
-      "num": 71157,
-      "word": "网友爬天山偶遇罕见天山雪莲",
-      "onboard_time": 1751739076,
-      "rank": 49,
-      "category": "旅游,民生新闻"
+      "raw_hot": 19170,
+      "num": 32801,
+      "word": "书卷一梦这一段幻视鬼怪",
+      "onboard_time": 1751742016,
+      "rank": 48,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
