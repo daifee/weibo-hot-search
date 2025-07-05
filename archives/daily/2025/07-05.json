@@ -1,6 +1,6 @@
 {
   "startTime": 1751646733900,
-  "endTime": 1751701106035,
+  "endTime": 1751704318417,
   "band_list": [
     {
       "raw_hot": 2497507,
@@ -17,6 +17,14 @@
       "onboard_time": 1751687781,
       "rank": 10,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1709309,
+      "num": 164180,
+      "word": "鹿晗账号恢复",
+      "onboard_time": 1751701461,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1676567,
@@ -75,6 +83,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1239553,
+      "num": 1239553,
+      "word": "日本末日预言者开始改口",
+      "onboard_time": 1751698942,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1183382,
       "num": 675093,
       "word": "12岁女童家中遭21岁网友性侵",
@@ -131,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 826144,
+      "num": 826144,
+      "word": "前台开错房女房客误入男子房间",
+      "onboard_time": 1751698702,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 818563,
       "num": 818563,
       "word": "日本地震预言致外国游客取消行程",
@@ -139,12 +163,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 765259,
-      "num": 305531,
-      "word": "日本末日预言者开始改口",
-      "onboard_time": 1751698942,
-      "rank": 14,
-      "category": "海外新闻"
+      "raw_hot": 774394,
+      "num": 160673,
+      "word": "12岁幼女家中遭强奸妈妈第二天才发现",
+      "onboard_time": 1751701881,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 759802,
@@ -228,7 +252,7 @@
     },
     {
       "raw_hot": 503256,
-      "num": 284105,
+      "num": 296122,
       "word": "男子钓鱼触电致4千斤鱼被电死",
       "onboard_time": 1751696902,
       "rank": 27,
@@ -244,7 +268,7 @@
     },
     {
       "raw_hot": 492812,
-      "num": 281372,
+      "num": 296171,
       "word": "王安宇工作室 网盘",
       "onboard_time": 1751698401,
       "rank": 15,
@@ -264,14 +288,6 @@
       "word": "闪婚后车祸去世女子丈夫回应骗保指责",
       "onboard_time": 1751686401,
       "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 470920,
-      "num": 470920,
-      "word": "前台开错房女房客误入男子房间",
-      "onboard_time": 1751698702,
-      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -489,6 +505,14 @@
       "onboard_time": 1751641107,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 300049,
+      "num": 300049,
+      "word": "前台开错房涉事女房客男友发声",
+      "onboard_time": 1751701820,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 297568,
@@ -715,6 +739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204940,
+      "num": 204940,
+      "word": "谁抢到了",
+      "onboard_time": 1751703200,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 204755,
       "num": 204755,
       "word": "长期不拔的插头正在悄悄酿火患",
@@ -785,6 +817,22 @@
       "onboard_time": 1751693181,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187424,
+      "num": 187424,
+      "word": "曾舜晞工作室辟谣靠恋爱升咖",
+      "onboard_time": 1751702302,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 186040,
+      "num": 186040,
+      "word": "樊振东首度亮相萨尔布吕肯",
+      "onboard_time": 1751701761,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 185658,
@@ -900,7 +948,7 @@
     },
     {
       "raw_hot": 166665,
-      "num": 166665,
+      "num": 170397,
       "word": "南珩真成孤了",
       "onboard_time": 1751700501,
       "rank": 24,
@@ -913,6 +961,14 @@
       "onboard_time": 1751635706,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162683,
+      "num": 162683,
+      "word": "超20万人熬夜看日本地震监测直播",
+      "onboard_time": 1751702723,
+      "rank": 21,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 160436,
@@ -952,6 +1008,14 @@
       "word": "鹿晗如烟似梦坠入了你漂亮的眼眸",
       "onboard_time": 1751645722,
       "rank": 28,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 157028,
+      "num": 157028,
+      "word": "大麦再爱我一次",
+      "onboard_time": 1751703322,
+      "rank": 23,
       "category": "演出"
     },
     {
@@ -1019,6 +1083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150942,
+      "num": 150942,
+      "word": "县级以下禁开发政务APP为基层减负",
+      "onboard_time": 1751699062,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150207,
       "num": 150207,
       "word": "老公是妈宝男这日子你就过吧",
@@ -1041,6 +1113,14 @@
       "onboard_time": 1751644883,
       "rank": 30,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 148640,
+      "num": 299837,
+      "word": "美国建国250周年活动要缺烟花了",
+      "onboard_time": 1751701341,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 147003,
@@ -1139,6 +1219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 135714,
+      "num": 135714,
+      "word": "怎么会有荔枝这么清透",
+      "onboard_time": 1751698882,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 135623,
       "num": 290627,
       "word": "两架B2轰炸机飞越白宫",
@@ -1169,14 +1257,6 @@
       "onboard_time": 1751692881,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 131761,
-      "num": 131761,
-      "word": "县级以下禁开发政务APP为基层减负",
-      "onboard_time": 1751699062,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131112,
@@ -1371,14 +1451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 115352,
-      "num": 115352,
-      "word": "怎么会有荔枝这么清透",
-      "onboard_time": 1751698882,
-      "rank": 48,
-      "category": "美食"
-    },
-    {
       "raw_hot": 113888,
       "num": 113888,
       "word": "内蒙古人才引进遭质疑",
@@ -1531,6 +1603,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 106238,
+      "num": 106238,
+      "word": "回流票",
+      "onboard_time": 1751704102,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 106026,
       "num": 190668,
       "word": "生母40万赔偿金被继母炒股亏光",
@@ -1563,12 +1643,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 104048,
+      "num": 104048,
+      "word": "长沙大学生把鸭脖店爆改酒吧",
+      "onboard_time": 1751701761,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103663,
       "num": 176845,
       "word": "胡先煦谁来为我发声",
       "onboard_time": 1751695700,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102194,
+      "num": 102194,
+      "word": "白敬亭新剧撞脸蒙奇奇",
+      "onboard_time": 1751701940,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 100851,
@@ -1579,12 +1675,44 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 100664,
+      "num": 100664,
+      "word": "国家卫健委提醒不要轻信网红医生",
+      "onboard_time": 1751701761,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 100627,
       "num": 264437,
       "word": "网友晒离谱超速罚单每小时17052km",
       "onboard_time": 1751686882,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100584,
+      "num": 100584,
+      "word": "这五种食物能帮助身体抗炎",
+      "onboard_time": 1751703381,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 100473,
+      "num": 100473,
+      "word": "杨紫这一刻",
+      "onboard_time": 1751703862,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 100181,
+      "num": 100622,
+      "word": "第一次见虐男女主还配平的剧",
+      "onboard_time": 1751702061,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 100005,
@@ -1641,6 +1769,22 @@
       "onboard_time": 1751697861,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 96844,
+      "num": 96844,
+      "word": "不是所有情侣关系都会步入婚姻",
+      "onboard_time": 1751701521,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 96752,
+      "num": 96752,
+      "word": "是鱼就归我管",
+      "onboard_time": 1751704161,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 96542,
@@ -1707,12 +1851,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93055,
+      "num": 93055,
+      "word": "这才是我认识的胡一天",
+      "onboard_time": 1751704221,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 92970,
       "num": 92970,
       "word": "阴阳师 皮肤",
       "onboard_time": 1751645302,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 92715,
+      "num": 92715,
+      "word": "AL中单Shanks面露复杂神情",
+      "onboard_time": 1751703262,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 92588,
+      "num": 92588,
+      "word": "美飞虎队老兵再来中国表情都一样",
+      "onboard_time": 1751703622,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92032,
@@ -1793,6 +1961,14 @@
       "onboard_time": 1751684062,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 86286,
+      "num": 114896,
+      "word": "杨幂第一次试镜很多人还没出生",
+      "onboard_time": 1751702241,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 86214,
@@ -2011,6 +2187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 47023,
+      "num": 100990,
+      "word": "幼童血铅爆表通报过于轻飘飘",
+      "onboard_time": 1751704281,
+      "rank": 40,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 46769,
       "num": 57820,
       "word": "被强行赐婚后我生的女儿成了武周帝",
@@ -2033,6 +2217,14 @@
       "onboard_time": 1751690063,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 43635,
+      "num": 164822,
+      "word": "广东空调安装师傅赶赴哈尔滨支援",
+      "onboard_time": 1751703681,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38832,
