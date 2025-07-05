@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/06 06:24:09
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/06 06:42:15
 </p>
 </blockquote>
 <p>
@@ -2751,6 +2751,12 @@ iPhone发烫怎么办（热度：362578）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%B8%8D%E8%A6%81%E4%B8%B4%E7%9D%A1%E5%89%8D%E6%89%8D%E5%88%B7%E7%89%99%23" target="weibo">
+建议不要临睡前才刷牙（热度：351455）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E4%B8%9E%E7%90%B3%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%83%8F%E6%9D%8E%E8%8D%A3%E6%B5%A9%E4%BA%86%23" target="weibo">
 杨丞琳越来越像李荣浩了（热度：350905）
 </a>
@@ -2831,12 +2837,6 @@ Angelababy带小海绵蹦极（热度：343998）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83671%E5%88%86%E4%B9%A1%E6%9D%91%E5%A5%B3%E5%AD%A9%E5%9B%9E%E5%BA%94%23" target="weibo">
 高考671分乡村女孩回应（热度：340476）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%B8%8D%E8%A6%81%E4%B8%B4%E7%9D%A1%E5%89%8D%E6%89%8D%E5%88%B7%E7%89%99%23" target="weibo">
-建议不要临睡前才刷牙（热度：340474）
 </a>
 </li>
 
