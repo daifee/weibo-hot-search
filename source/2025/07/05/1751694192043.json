@@ -1,0 +1,410 @@
+{
+  "runTime": 1751694192043,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1321107,
+        "num": 1321107,
+        "word": "易烊千玺回应礐嶨不会读",
+        "onboard_time": 1751688922,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1161842,
+        "num": 1161842,
+        "word": "K1373没达到破窗应急预案紧急程度",
+        "onboard_time": 1751691681,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44228,
+        "num": 795717,
+        "word": "以身许国是他们最深情的告白",
+        "onboard_time": 1751690063,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 498887,
+        "num": 498887,
+        "word": "日本无事发生",
+        "onboard_time": 1751671879,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 465478,
+        "num": 465478,
+        "word": "BLACKPINK高阳演唱会单人海报",
+        "onboard_time": 1751692822,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 409991,
+        "num": 409991,
+        "word": "K1373次列车亲历者称当时已有人中暑",
+        "onboard_time": 1751692881,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 405145,
+        "num": 405145,
+        "word": "易烊千玺演唱会上海站官宣",
+        "onboard_time": 1751687781,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 335713,
+        "num": 335713,
+        "word": "武汉鸽子中暑",
+        "onboard_time": 1751686280,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334317,
+        "num": 334317,
+        "word": "张靓颖退赛可以但要给钱",
+        "onboard_time": 1751688563,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234186,
+        "num": 322285,
+        "word": "成都暴雨航拍都江堰再现奇观",
+        "onboard_time": 1751689223,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1576155,
+        "num": 322197,
+        "word": "武汉跳楼妈妈",
+        "onboard_time": 1751687781,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 313009,
+        "num": 313009,
+        "word": "吴艳妮晒暴击流穿搭",
+        "onboard_time": 1751690181,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 297568,
+        "num": 297568,
+        "word": "母亲人工流产四次生下患病婴儿",
+        "onboard_time": 1751688563,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297070,
+        "num": 297070,
+        "word": "官方通报男子列车上砸窗通风",
+        "onboard_time": 1751691081,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 24714,
+        "num": 289534,
+        "word": "交警回应时速17052公里罚单",
+        "onboard_time": 1751693480,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 286347,
+        "num": 286347,
+        "word": "日本地震预言致外国游客取消行程",
+        "onboard_time": 1751680642,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 278829,
+        "num": 278829,
+        "word": "田栩宁古装路透",
+        "onboard_time": 1751688081,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232216,
+        "num": 232216,
+        "word": "闪婚后车祸去世女子丈夫回应骗保指责",
+        "onboard_time": 1751686401,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219569,
+        "num": 219569,
+        "word": "王源求婚转场",
+        "onboard_time": 1751676441,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192351,
+        "num": 192351,
+        "word": "梓渝拥抱你的我",
+        "onboard_time": 1751693360,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 192164,
+        "num": 192164,
+        "word": "女子3万8卖掉自己的孩子用于打赏主播",
+        "onboard_time": 1751676081,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189135,
+        "num": 189135,
+        "word": "撒贝宁不能体面的老去了",
+        "onboard_time": 1751693181,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176236,
+        "num": 176236,
+        "word": "这就是为什么不建议喝瓶装水",
+        "onboard_time": 1751683883,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 172956,
+        "num": 172956,
+        "word": "梅婷恶意原型是武汉跳楼妈妈",
+        "onboard_time": 1751683943,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170382,
+        "num": 170382,
+        "word": "1人干3人工作员工拒绝被开除",
+        "onboard_time": 1751692881,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168263,
+        "num": 168263,
+        "word": "黄多多孙莉去拍了aespa人生四格",
+        "onboard_time": 1751679380,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160436,
+        "num": 160436,
+        "word": "黄子弘凡一千万粉",
+        "onboard_time": 1751693181,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155985,
+        "num": 155985,
+        "word": "苗苗晒的是大宝小时候",
+        "onboard_time": 1751693902,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151388,
+        "num": 151388,
+        "word": "崔然竣 家人离世",
+        "onboard_time": 1751684242,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146769,
+        "num": 146769,
+        "word": "人工智障虐待人工智能",
+        "onboard_time": 1751688742,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145925,
+        "num": 145925,
+        "word": "皓衣行",
+        "onboard_time": 1751690001,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141685,
+        "num": 141685,
+        "word": "无限暖暖",
+        "onboard_time": 1751693062,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135738,
+        "num": 135738,
+        "word": "世界乱成一锅粥东亚凭啥稳如狗",
+        "onboard_time": 1751692822,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120080,
+        "num": 135287,
+        "word": "第一个dimoo塑鹿晗的是天才",
+        "onboard_time": 1751693242,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 81061,
+        "num": 135147,
+        "word": "王星越吃播",
+        "onboard_time": 1751692761,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26539,
+        "num": 135101,
+        "word": "10岁男孩偷充游戏花光奶奶卖菜钱",
+        "onboard_time": 1751694081,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135091,
+        "num": 135091,
+        "word": "王影璐献鱼古装路透自带仙感",
+        "onboard_time": 1751693721,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129462,
+        "num": 129462,
+        "word": "李一桐刘宇宁现代番外",
+        "onboard_time": 1751692700,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123120,
+        "num": 123120,
+        "word": "两架B2轰炸机飞越白宫",
+        "onboard_time": 1751688142,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 60302,
+        "num": 120359,
+        "word": "孙颖莎又贡献表情包了",
+        "onboard_time": 1751689942,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119740,
+        "num": 119740,
+        "word": "闷热闷热闷热我闷热闷热闷热",
+        "onboard_time": 1751686882,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116641,
+        "num": 116641,
+        "word": "当单依纯看到自己老板上歌手",
+        "onboard_time": 1751690782,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115112,
+        "num": 115112,
+        "word": "孙俪和等等的睡前聊天",
+        "onboard_time": 1751688623,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113888,
+        "num": 113888,
+        "word": "内蒙古人才引进遭质疑",
+        "onboard_time": 1751692881,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113755,
+        "num": 113755,
+        "word": "陈赫喂张子萱吃东西",
+        "onboard_time": 1751680762,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112899,
+        "num": 112899,
+        "word": "67岁丈夫出轨50岁闺蜜妻子怒告二人",
+        "onboard_time": 1751647162,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109776,
+        "num": 109776,
+        "word": "利剑玫瑰即将央视播出",
+        "onboard_time": 1751694142,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109252,
+        "num": 109252,
+        "word": "机长坠亡疑因能力排查不合格",
+        "onboard_time": 1751689643,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109213,
+        "num": 109213,
+        "word": "高寒新剧给孟子义取名梦儿",
+        "onboard_time": 1751692881,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106516,
+        "num": 106516,
+        "word": "张继科训练营第一天就有学员罚站",
+        "onboard_time": 1751692881,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#30多年前的这份战略规划带来的启示#"
+    }
+  }
+}
