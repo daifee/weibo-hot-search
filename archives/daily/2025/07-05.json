@@ -1,6 +1,6 @@
 {
   "startTime": 1751646733900,
-  "endTime": 1751682145972,
+  "endTime": 1751685592267,
   "band_list": [
     {
       "raw_hot": 2497507,
@@ -43,6 +43,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 952905,
+      "num": 1152464,
+      "word": "梅婷恶意原型是武汉跳楼妈妈",
+      "onboard_time": 1751683943,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 930856,
       "num": 452706,
       "word": "王源求婚转场",
@@ -52,11 +60,19 @@
     },
     {
       "raw_hot": 851988,
-      "num": 289454,
+      "num": 325967,
       "word": "女子3万8卖掉自己的孩子用于打赏主播",
       "onboard_time": 1751676081,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 818563,
+      "num": 818563,
+      "word": "日本地震预言致外国游客取消行程",
+      "onboard_time": 1751680642,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 759802,
@@ -76,7 +92,7 @@
     },
     {
       "raw_hot": 665225,
-      "num": 291061,
+      "num": 354353,
       "word": "油腻风的孕妇照",
       "onboard_time": 1751680342,
       "rank": 30,
@@ -92,10 +108,26 @@
     },
     {
       "raw_hot": 572173,
-      "num": 284746,
+      "num": 382512,
       "word": "黄多多孙莉去拍了aespa人生四格",
       "onboard_time": 1751679380,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 561383,
+      "num": 561383,
+      "word": "日本官方称地震预言纯属骗局",
+      "onboard_time": 1751679681,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 515772,
+      "num": 353363,
+      "word": "苗苗首晒三胎女儿",
+      "onboard_time": 1751685381,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -124,10 +156,18 @@
     },
     {
       "raw_hot": 450698,
-      "num": 278552,
+      "num": 355624,
       "word": "陈赫喂张子萱吃东西",
       "onboard_time": 1751680762,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 447545,
+      "num": 351912,
+      "word": "崔然竣 家人离世",
+      "onboard_time": 1751684242,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -171,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 391168,
+      "num": 391168,
+      "word": "特朗普透露马斯克吸毒",
+      "onboard_time": 1751682441,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 380976,
       "num": 380976,
       "word": "张继科指导小孩哥一拍打了2000板",
@@ -179,19 +227,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 378100,
-      "num": 273633,
-      "word": "日本地震预言致外国游客取消行程",
-      "onboard_time": 1751680642,
-      "rank": 29,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 359168,
       "num": 232617,
       "word": "日本末世预言剩1天",
       "onboard_time": 1751595442,
       "rank": 14,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 349452,
+      "num": 349452,
+      "word": "日本南海海槽",
+      "onboard_time": 1751681483,
+      "rank": 15,
       "category": "海外新闻"
     },
     {
@@ -219,20 +267,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 323438,
+      "num": 323438,
+      "word": "GEN战胜AL",
+      "onboard_time": 1751683161,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 318544,
       "num": 231071,
       "word": "于正又发飙了",
       "onboard_time": 1751641107,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 299602,
-      "num": 299602,
-      "word": "日本官方称地震预言纯属骗局",
-      "onboard_time": 1751679681,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 297159,
@@ -265,6 +313,14 @@
       "onboard_time": 1751658435,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 288506,
+      "num": 249182,
+      "word": "这就是为什么不建议喝瓶装水",
+      "onboard_time": 1751683883,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 288013,
@@ -307,6 +363,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 250595,
+      "num": 250595,
+      "word": "制片人评于正内涵任嘉伦",
+      "onboard_time": 1751679681,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242676,
       "num": 242676,
       "word": "杨幂20年顶流不是白当的",
@@ -329,6 +393,14 @@
       "onboard_time": 1751637925,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 225928,
+      "num": 225928,
+      "word": "12岁女童家中遭21岁网友性侵",
+      "onboard_time": 1751685082,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 223712,
@@ -355,20 +427,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 215252,
-      "num": 215252,
-      "word": "制片人评于正内涵任嘉伦",
-      "onboard_time": 1751679681,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 215088,
       "num": 215088,
       "word": "北京下雨",
       "onboard_time": 1751654716,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 209964,
+      "num": 209964,
+      "word": "老祖宗有自己的labubu",
+      "onboard_time": 1751683943,
+      "rank": 23,
+      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 209569,
@@ -433,6 +505,14 @@
       "onboard_time": 1751640267,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 174990,
+      "num": 104954,
+      "word": "这就是为什么公司要薪酬保密",
+      "onboard_time": 1751683943,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 165399,
@@ -545,6 +625,14 @@
       "onboard_time": 1751675601,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127072,
+      "num": 104481,
+      "word": "Hope状态",
+      "onboard_time": 1751684843,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 126457,
@@ -691,6 +779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104929,
+      "num": 354991,
+      "word": "印度通报计划报复美国",
+      "onboard_time": 1751682022,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 104111,
       "num": 104111,
       "word": "空调开除湿模式别超2小时",
@@ -707,12 +803,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 97464,
-      "num": 97464,
-      "word": "印度通报计划报复美国",
-      "onboard_time": 1751682022,
-      "rank": 43,
-      "category": "国际时政"
+      "raw_hot": 99157,
+      "num": 106200,
+      "word": "入青云",
+      "onboard_time": 1751682862,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 95637,
@@ -771,6 +867,38 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 87840,
+      "num": 87840,
+      "word": "杨瀚森下月有望出战亚洲杯",
+      "onboard_time": 1751684302,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 86438,
+      "num": 86438,
+      "word": "AL掉进败者组",
+      "onboard_time": 1751684062,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 85733,
+      "num": 85733,
+      "word": "梓渝早期粉也吃太好了",
+      "onboard_time": 1751685381,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 85199,
+      "num": 85199,
+      "word": "晚晚回应没有义务分享",
+      "onboard_time": 1751685202,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 84505,
       "num": 84505,
       "word": "被邻居带去游泳溺亡女孩母亲发声",
@@ -825,6 +953,22 @@
       "onboard_time": 1751644883,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78282,
+      "num": 78282,
+      "word": "没想到人保持体面还挺难",
+      "onboard_time": 1751685142,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 78124,
+      "num": 78124,
+      "word": "奔跑吧13",
+      "onboard_time": 1751684183,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 76503,
@@ -924,7 +1068,7 @@
     },
     {
       "raw_hot": 46703,
-      "num": 624771,
+      "num": 736216,
       "word": "高温闷热天气防中暑指南",
       "onboard_time": 1751639304,
       "rank": 2,

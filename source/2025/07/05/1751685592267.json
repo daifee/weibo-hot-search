@@ -1,0 +1,410 @@
+{
+  "runTime": 1751685592267,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 952905,
+        "num": 1152464,
+        "word": "梅婷恶意原型是武汉跳楼妈妈",
+        "onboard_time": 1751683943,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 818563,
+        "num": 818563,
+        "word": "日本地震预言致外国游客取消行程",
+        "onboard_time": 1751680642,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 31834,
+        "num": 736216,
+        "word": "高温闷热天气防中暑指南",
+        "onboard_time": 1751639304,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 697448,
+        "num": 697448,
+        "word": "日本无事发生",
+        "onboard_time": 1751671879,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 561383,
+        "num": 561383,
+        "word": "日本官方称地震预言纯属骗局",
+        "onboard_time": 1751679681,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 398780,
+        "num": 398780,
+        "word": "王源求婚转场",
+        "onboard_time": 1751676441,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391168,
+        "num": 391168,
+        "word": "特朗普透露马斯克吸毒",
+        "onboard_time": 1751682441,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 382512,
+        "num": 382512,
+        "word": "黄多多孙莉去拍了aespa人生四格",
+        "onboard_time": 1751679380,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355624,
+        "num": 355624,
+        "word": "陈赫喂张子萱吃东西",
+        "onboard_time": 1751680762,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104929,
+        "num": 354991,
+        "word": "印度通报计划报复美国",
+        "onboard_time": 1751682022,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 523435,
+        "num": 354353,
+        "word": "油腻风的孕妇照",
+        "onboard_time": 1751680342,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 515772,
+        "num": 353363,
+        "word": "苗苗首晒三胎女儿",
+        "onboard_time": 1751685381,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 464052,
+        "num": 352270,
+        "word": "鹿晗发现伴舞的屏保是自己",
+        "onboard_time": 1751673800,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 447545,
+        "num": 351912,
+        "word": "崔然竣 家人离世",
+        "onboard_time": 1751684242,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351413,
+        "num": 351413,
+        "word": "67岁丈夫出轨50岁闺蜜妻子怒告二人",
+        "onboard_time": 1751647162,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349452,
+        "num": 349452,
+        "word": "日本南海海槽",
+        "onboard_time": 1751681483,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 325967,
+        "num": 325967,
+        "word": "女子3万8卖掉自己的孩子用于打赏主播",
+        "onboard_time": 1751676081,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323438,
+        "num": 323438,
+        "word": "GEN战胜AL",
+        "onboard_time": 1751683161,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 266192,
+        "num": 266192,
+        "word": "怪不得赵晓卉没空参加脱口秀",
+        "onboard_time": 1751681781,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250595,
+        "num": 250595,
+        "word": "制片人评于正内涵任嘉伦",
+        "onboard_time": 1751679681,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288506,
+        "num": 249182,
+        "word": "这就是为什么不建议喝瓶装水",
+        "onboard_time": 1751683883,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 225928,
+        "num": 225928,
+        "word": "12岁女童家中遭21岁网友性侵",
+        "onboard_time": 1751685082,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211198,
+        "num": 211198,
+        "word": "124斤女子带全家减肥40天共瘦40斤",
+        "onboard_time": 1751675901,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209964,
+        "num": 209964,
+        "word": "老祖宗有自己的labubu",
+        "onboard_time": 1751683943,
+        "rank": 23,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 158647,
+        "num": 158647,
+        "word": "长期不拔的插头正在悄悄酿火患",
+        "onboard_time": 1751676261,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155296,
+        "num": 155296,
+        "word": "晚晚发视频回应不让助播女生化妆",
+        "onboard_time": 1751673440,
+        "rank": 25,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 136109,
+        "num": 136109,
+        "word": "特朗普正式签署大而美法案",
+        "onboard_time": 1751673381,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132286,
+        "num": 132286,
+        "word": "张继科指导小孩哥一拍打了2000板",
+        "onboard_time": 1751677701,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109472,
+        "num": 109472,
+        "word": "BLACKPINK新曲回归预告",
+        "onboard_time": 1751679442,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 99157,
+        "num": 106200,
+        "word": "入青云",
+        "onboard_time": 1751682862,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174990,
+        "num": 104954,
+        "word": "这就是为什么公司要薪酬保密",
+        "onboard_time": 1751683943,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127072,
+        "num": 104481,
+        "word": "Hope状态",
+        "onboard_time": 1751684843,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103658,
+        "num": 103658,
+        "word": "日本",
+        "onboard_time": 1751639125,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 102882,
+        "num": 102882,
+        "word": "衡水一高中全班达线985211",
+        "onboard_time": 1751672840,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96382,
+        "num": 96382,
+        "word": "普京说全世界都想进入中国市场",
+        "onboard_time": 1751675901,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 92409,
+        "num": 92409,
+        "word": "河南人一直以为夏天37度是正常的",
+        "onboard_time": 1751677221,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87840,
+        "num": 87840,
+        "word": "杨瀚森下月有望出战亚洲杯",
+        "onboard_time": 1751684302,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86959,
+        "num": 86959,
+        "word": "建议不要让任何人的钱过银行卡",
+        "onboard_time": 1751672300,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86438,
+        "num": 86438,
+        "word": "AL掉进败者组",
+        "onboard_time": 1751684062,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 85733,
+        "num": 85733,
+        "word": "梓渝早期粉也吃太好了",
+        "onboard_time": 1751685381,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85199,
+        "num": 85199,
+        "word": "晚晚回应没有义务分享",
+        "onboard_time": 1751685202,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 84088,
+        "num": 84088,
+        "word": "爆火过后终于理解租labubu的人了",
+        "onboard_time": 1751679861,
+        "rank": 41,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 83795,
+        "num": 83795,
+        "word": "歌手 郑欣宜",
+        "onboard_time": 1751672539,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83645,
+        "num": 83645,
+        "word": "李佳薇太牛了",
+        "onboard_time": 1751632946,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78649,
+        "num": 78649,
+        "word": "上海一面馆被曝将剩面二次上桌",
+        "onboard_time": 1751641107,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78282,
+        "num": 78282,
+        "word": "没想到人保持体面还挺难",
+        "onboard_time": 1751685142,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 78124,
+        "num": 78124,
+        "word": "奔跑吧13",
+        "onboard_time": 1751684183,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77467,
+        "num": 77467,
+        "word": "小猫也会思念去世的朋友",
+        "onboard_time": 1751680822,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76932,
+        "num": 76932,
+        "word": "韩安冉展示小女儿伤口",
+        "onboard_time": 1751680280,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 68670,
+        "num": 75630,
+        "word": "孙颖莎王曼昱时隔18个月后携手双打",
+        "onboard_time": 1751675960,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#厦门发展战略启示#"
+    }
+  }
+}
