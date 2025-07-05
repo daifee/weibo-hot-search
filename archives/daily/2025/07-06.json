@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751755335214,
+  "endTime": 1751757936809,
   "band_list": [
     {
       "raw_hot": 2706470,
@@ -17,6 +17,14 @@
       "onboard_time": 1751722466,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 865469,
+      "num": 649089,
+      "word": "杭州东站卧轨事件目击者发声",
+      "onboard_time": 1751731042,
+      "rank": 4,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 796085,
@@ -43,20 +51,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 649089,
-      "num": 649089,
-      "word": "杭州东站卧轨事件目击者发声",
-      "onboard_time": 1751731042,
-      "rank": 4,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 558333,
       "num": 558333,
       "word": "小伙脖子肿痛开刀取出7颗瓜子",
       "onboard_time": 1751728585,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 524975,
+      "num": 813596,
+      "word": "建议不要临睡前才刷牙",
+      "onboard_time": 1751744114,
+      "rank": 15,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 460487,
@@ -113,14 +121,6 @@
       "onboard_time": 1751701881,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 351455,
-      "num": 506250,
-      "word": "建议不要临睡前才刷牙",
-      "onboard_time": 1751744114,
-      "rank": 15,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 342997,
@@ -187,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206278,
+      "num": 206278,
+      "word": "rapper用归国四子diss黄子韬",
+      "onboard_time": 1751757798,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180141,
       "num": 180141,
       "word": "日本末日预言者开始改口",
@@ -195,11 +203,19 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 170842,
+      "raw_hot": 175569,
       "num": 160990,
       "word": "任重孙骁骁牵手外出",
       "onboard_time": 1751725225,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 168377,
+      "num": 113809,
+      "word": "田栩宁榜一是若若",
+      "onboard_time": 1751757798,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -209,6 +225,22 @@
       "onboard_time": 1751720663,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148905,
+      "num": 148905,
+      "word": "张杰打开手机人都红温了吧",
+      "onboard_time": 1751735179,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 144612,
+      "num": 144612,
+      "word": "河南一乡道因高温爆裂拱起",
+      "onboard_time": 1751734221,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137109,
@@ -249,14 +281,6 @@
       "onboard_time": 1751726186,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 123051,
-      "num": 123051,
-      "word": "张杰打开手机人都红温了吧",
-      "onboard_time": 1751735179,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 119198,
@@ -307,6 +331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 105281,
+      "num": 105281,
+      "word": "该不该砸窗不妨多问问现场乘客感受",
+      "onboard_time": 1751747534,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101949,
       "num": 101949,
       "word": "温网2025",
@@ -337,14 +369,6 @@
       "onboard_time": 1751708421,
       "rank": 34,
       "category": "民生新闻,艺人"
-    },
-    {
-      "raw_hot": 98295,
-      "num": 87127,
-      "word": "河南一乡道因高温爆裂拱起",
-      "onboard_time": 1751734221,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 97155,
@@ -379,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 88654,
+      "num": 88654,
+      "word": "甘肃幼儿园血铅异常幼儿家长发声",
+      "onboard_time": 1751755576,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87565,
       "num": 104885,
       "word": "余承恩晒加速王奖牌",
@@ -411,12 +443,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82502,
+      "num": 82502,
+      "word": "马斯克发文成立美国党",
+      "onboard_time": 1751757859,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 80597,
       "num": 80597,
       "word": "刘雨昕直播",
       "onboard_time": 1751732842,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 77456,
+      "num": 77456,
+      "word": "谁家男主尸体都不放过啊",
+      "onboard_time": 1751757737,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 76470,
@@ -432,6 +480,14 @@
       "word": "狗头萝莉回应精致摆摊被骂作秀",
       "onboard_time": 1751731884,
       "rank": 19,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 74879,
+      "num": 74879,
+      "word": "狗头萝莉员工月薪已涨到六七千",
+      "onboard_time": 1751721023,
+      "rank": 46,
       "category": "网红"
     },
     {
@@ -459,20 +515,28 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 69553,
-      "num": 71912,
-      "word": "狗头萝莉员工月薪已涨到六七千",
-      "onboard_time": 1751721023,
-      "rank": 46,
-      "category": "网红"
+      "raw_hot": 70853,
+      "num": 70853,
+      "word": "马斯克想拿下美国会两院部分席位",
+      "onboard_time": 1751757798,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
-      "raw_hot": 68900,
-      "num": 68900,
-      "word": "该不该砸窗不妨多问问现场乘客感受",
-      "onboard_time": 1751747534,
-      "rank": 20,
-      "category": "民生新闻"
+      "raw_hot": 69818,
+      "num": 69818,
+      "word": "巨瘦腰的7天有效法",
+      "onboard_time": 1751757737,
+      "rank": 34,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 66359,
+      "num": 74664,
+      "word": "邓紫棋满眼都是对空调的渴望",
+      "onboard_time": 1751757198,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 66187,
@@ -499,6 +563,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 60214,
+      "num": 138483,
+      "word": "女子指甲下长肿瘤被误诊甲沟炎10年",
+      "onboard_time": 1751757198,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59130,
+      "num": 73900,
+      "word": "真有综艺听劝了",
+      "onboard_time": 1751757257,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 56147,
       "num": 72388,
       "word": "C罗未出席若塔葬礼顾虑抢走焦点",
@@ -515,12 +595,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 48086,
+      "num": 71157,
+      "word": "网友爬天山偶遇罕见天山雪莲",
+      "onboard_time": 1751739076,
+      "rank": 49,
+      "category": "旅游,民生新闻"
+    },
+    {
       "raw_hot": 44563,
       "num": 507442,
       "word": "又一次被鱼水情深的双向奔赴感动",
       "onboard_time": 1751723547,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42551,
+      "num": 57043,
+      "word": "王鹤棣战损美成啥了",
+      "onboard_time": 1751744055,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 34971,
@@ -537,22 +633,6 @@
       "onboard_time": 1751730086,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 31602,
-      "num": 71157,
-      "word": "网友爬天山偶遇罕见天山雪莲",
-      "onboard_time": 1751739076,
-      "rank": 49,
-      "category": "旅游,民生新闻"
-    },
-    {
-      "raw_hot": 29418,
-      "num": 57043,
-      "word": "王鹤棣战损美成啥了",
-      "onboard_time": 1751744055,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 28098,
@@ -601,6 +681,14 @@
       "onboard_time": 1751744715,
       "rank": 29,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 7644,
+      "num": 72076,
+      "word": "四川丹巴山洪泥石流有4人暂未发现踪迹",
+      "onboard_time": 1751757859,
+      "rank": 30,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

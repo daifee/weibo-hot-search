@@ -1,0 +1,410 @@
+{
+  "runTime": 1751757936809,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 524975,
+        "num": 813596,
+        "word": "建议不要临睡前才刷牙",
+        "onboard_time": 1751744114,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 288108,
+        "num": 288108,
+        "word": "官方通报杭州东站卧轨事件",
+        "onboard_time": 1751730744,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 34442,
+        "num": 258748,
+        "word": "又一次被鱼水情深的双向奔赴感动",
+        "onboard_time": 1751723547,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233956,
+        "num": 233956,
+        "word": "小伙脖子肿痛开刀取出7颗瓜子",
+        "onboard_time": 1751728585,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212100,
+        "num": 212100,
+        "word": "美国男子肾移植术后体内爬满寄生虫",
+        "onboard_time": 1751724263,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 206278,
+        "num": 206278,
+        "word": "rapper用归国四子diss黄子韬",
+        "onboard_time": 1751757798,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148905,
+        "num": 148905,
+        "word": "张杰打开手机人都红温了吧",
+        "onboard_time": 1751735179,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144612,
+        "num": 144612,
+        "word": "河南一乡道因高温爆裂拱起",
+        "onboard_time": 1751734221,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139398,
+        "num": 139398,
+        "word": "陈乔恩分享5天紧急瘦身法",
+        "onboard_time": 1751726064,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60214,
+        "num": 138483,
+        "word": "女子指甲下长肿瘤被误诊甲沟炎10年",
+        "onboard_time": 1751757198,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 865469,
+        "num": 135277,
+        "word": "杭州东站卧轨事件目击者发声",
+        "onboard_time": 1751731042,
+        "rank": 10,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 633085,
+        "num": 130006,
+        "word": "杭州东站发生卧轨事件",
+        "onboard_time": 1751727385,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 437168,
+        "num": 127503,
+        "word": "3名初中生凌晨偷奔驰致严重车祸",
+        "onboard_time": 1751729964,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326539,
+        "num": 122802,
+        "word": "曾志伟和女星合影姿势引争议",
+        "onboard_time": 1751725523,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228479,
+        "num": 121728,
+        "word": "梓渝23岁生日",
+        "onboard_time": 1751734759,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175569,
+        "num": 116886,
+        "word": "任重孙骁骁牵手外出",
+        "onboard_time": 1751725225,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168377,
+        "num": 113809,
+        "word": "田栩宁榜一是若若",
+        "onboard_time": 1751757798,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111700,
+        "num": 111700,
+        "word": "龙树谅称日本末日预言不是她写的",
+        "onboard_time": 1751732482,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105281,
+        "num": 105281,
+        "word": "该不该砸窗不妨多问问现场乘客感受",
+        "onboard_time": 1751747534,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101801,
+        "num": 101801,
+        "word": "内娱艺人开始看观众脸色了",
+        "onboard_time": 1751725344,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235050,
+        "num": 95495,
+        "word": "12岁幼女家中遭强奸妈妈第二天才发现",
+        "onboard_time": 1751701881,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88760,
+        "num": 88760,
+        "word": "日本西南群岛地震",
+        "onboard_time": 1751708603,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 88654,
+        "num": 88654,
+        "word": "甘肃幼儿园血铅异常幼儿家长发声",
+        "onboard_time": 1751755576,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84942,
+        "num": 84942,
+        "word": "美团外卖用户下单量突破历史峰值",
+        "onboard_time": 1751731224,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 82502,
+        "num": 82502,
+        "word": "马斯克发文成立美国党",
+        "onboard_time": 1751757859,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 77456,
+        "num": 77456,
+        "word": "谁家男主尸体都不放过啊",
+        "onboard_time": 1751757737,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74879,
+        "num": 74879,
+        "word": "狗头萝莉员工月薪已涨到六七千",
+        "onboard_time": 1751721023,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 66359,
+        "num": 74664,
+        "word": "邓紫棋满眼都是对空调的渴望",
+        "onboard_time": 1751757198,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 59130,
+        "num": 73900,
+        "word": "真有综艺听劝了",
+        "onboard_time": 1751757257,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49308,
+        "num": 72782,
+        "word": "刘雨昕任嘉伦双人popping",
+        "onboard_time": 1751727203,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 7644,
+        "num": 72076,
+        "word": "四川丹巴山洪泥石流有4人暂未发现踪迹",
+        "onboard_time": 1751757859,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80622,
+        "num": 71369,
+        "word": "减肥最快的方法是提高身体代谢",
+        "onboard_time": 1751725042,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 70853,
+        "num": 70853,
+        "word": "马斯克想拿下美国会两院部分席位",
+        "onboard_time": 1751757798,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 69874,
+        "num": 69874,
+        "word": "疑似横店短剧演员去世",
+        "onboard_time": 1751708421,
+        "rank": 33,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 69818,
+        "num": 69818,
+        "word": "巨瘦腰的7天有效法",
+        "onboard_time": 1751757737,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 60800,
+        "num": 60800,
+        "word": "男子走出空调房一下冷中暑",
+        "onboard_time": 1751719222,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60463,
+        "num": 60463,
+        "word": "穆西亚拉",
+        "onboard_time": 1751739316,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60383,
+        "num": 60383,
+        "word": "养螳螂当宠物被邻居当成蟑螂喷杀虫剂",
+        "onboard_time": 1751729844,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56042,
+        "num": 56042,
+        "word": "尽量不要给手机整夜充电",
+        "onboard_time": 1751718142,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 53255,
+        "num": 53255,
+        "word": "日本预言家自曝只画了插画",
+        "onboard_time": 1751722646,
+        "rank": 39,
+        "category": "海外新闻,动漫"
+      },
+      {
+        "raw_hot": 52968,
+        "num": 52968,
+        "word": "C罗未出席若塔葬礼顾虑抢走焦点",
+        "onboard_time": 1751739076,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51107,
+        "num": 51107,
+        "word": "女子遭同学设套被骗千万全家自杀",
+        "onboard_time": 1751706141,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48086,
+        "num": 48086,
+        "word": "网友爬天山偶遇罕见天山雪莲",
+        "onboard_time": 1751739076,
+        "rank": 42,
+        "category": "旅游,民生新闻"
+      },
+      {
+        "raw_hot": 47190,
+        "num": 47190,
+        "word": "日本末日预言者开始改口",
+        "onboard_time": 1751698942,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 46946,
+        "num": 46946,
+        "word": "21岁网红机车少年因意外车祸离世",
+        "onboard_time": 1751721023,
+        "rank": 44,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 46802,
+        "num": 46802,
+        "word": "北京天空",
+        "onboard_time": 1751727684,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44890,
+        "num": 44890,
+        "word": "孟子义内娱第一个饭渣人设",
+        "onboard_time": 1751721985,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45875,
+        "num": 44885,
+        "word": "田栩宁emoji",
+        "onboard_time": 1751725042,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42551,
+        "num": 44880,
+        "word": "王鹤棣战损美成啥了",
+        "onboard_time": 1751744055,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40521,
+        "num": 44875,
+        "word": "郭旭蔡昆廷结婚",
+        "onboard_time": 1751720663,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记和青年朋友在一起#"
+    }
+  }
+}
