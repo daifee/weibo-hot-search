@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751750670778,
+  "endTime": 1751751546733,
   "band_list": [
     {
       "raw_hot": 2706470,
@@ -507,19 +507,19 @@
       "category": "演出"
     },
     {
+      "raw_hot": 51488,
+      "num": 51488,
+      "word": "该不该砸窗不妨多问问现场乘客感受",
+      "onboard_time": 1751747534,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44563,
       "num": 507442,
       "word": "又一次被鱼水情深的双向奔赴感动",
       "onboard_time": 1751723547,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39226,
-      "num": 39226,
-      "word": "该不该砸窗不妨多问问现场乘客感受",
-      "onboard_time": 1751747534,
-      "rank": 20,
       "category": "民生新闻"
     },
     {
