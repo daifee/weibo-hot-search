@@ -1,6 +1,6 @@
 {
   "startTime": 1751646733900,
-  "endTime": 1751723068152,
+  "endTime": 1751725512126,
   "band_list": [
     {
       "raw_hot": 2497507,
@@ -9,6 +9,14 @@
       "onboard_time": 1751639125,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 2371728,
+      "num": 2371728,
+      "word": "横店女演员拍戏身亡爆料部分被删",
+      "onboard_time": 1751722466,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1905112,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 1646641,
-      "num": 185712,
+      "num": 187749,
       "word": "美团崩了",
       "onboard_time": 1751708782,
       "rank": 30,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 1560844,
-      "num": 353659,
+      "num": 396608,
       "word": "疑似横店短剧演员去世",
       "onboard_time": 1751708421,
       "rank": 10,
@@ -275,6 +283,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 722549,
+      "num": 722549,
+      "word": "你好星期六",
+      "onboard_time": 1751720663,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 701716,
       "num": 701716,
       "word": "K1373砸窗男子被批评教育",
@@ -315,6 +331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 592583,
+      "num": 592583,
+      "word": "男子走出空调房一下冷中暑",
+      "onboard_time": 1751719222,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 582215,
       "num": 497703,
       "word": "BLACKPINK新歌",
@@ -329,6 +353,14 @@
       "onboard_time": 1751679380,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 563596,
+      "num": 563596,
+      "word": "美国男子肾移植术后体内爬满寄生虫",
+      "onboard_time": 1751724263,
+      "rank": 8,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 561383,
@@ -473,6 +505,14 @@
       "onboard_time": 1751716762,
       "rank": 6,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 448832,
+      "num": 544353,
+      "word": "警方回应横店女演员拍戏身亡传闻",
+      "onboard_time": 1751723007,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 445088,
@@ -635,20 +675,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 355077,
+      "num": 355077,
+      "word": "锦绣芳华评级",
+      "onboard_time": 1751720182,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 353781,
       "num": 353781,
       "word": "女子在家刷手机被闪电击中到失忆",
       "onboard_time": 1751695101,
       "rank": 24,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 352752,
-      "num": 335553,
-      "word": "锦绣芳华评级",
-      "onboard_time": 1751720182,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 349452,
@@ -731,14 +771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 319966,
-      "num": 319966,
-      "word": "你好星期六",
-      "onboard_time": 1751720663,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 319632,
       "num": 313009,
       "word": "吴艳妮晒暴击流穿搭",
@@ -811,6 +843,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 293488,
+      "num": 293488,
+      "word": "易次元崩了",
+      "onboard_time": 1751723906,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 290717,
       "num": 290717,
       "word": "林志玲说带孩子没有优雅这件事",
@@ -833,6 +873,14 @@
       "onboard_time": 1751672300,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 285309,
+      "num": 285309,
+      "word": "减肥最快的方法是提高身体代谢",
+      "onboard_time": 1751725042,
+      "rank": 18,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 284167,
@@ -963,28 +1011,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 251767,
-      "num": 251767,
-      "word": "男子走出空调房一下冷中暑",
-      "onboard_time": 1751719222,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 250595,
       "num": 250595,
       "word": "制片人评于正内涵任嘉伦",
       "onboard_time": 1751679681,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 250588,
-      "num": 250588,
-      "word": "横店女演员拍戏身亡爆料部分被删",
-      "onboard_time": 1751722466,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 248517,
@@ -1035,12 +1067,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 235183,
+      "num": 235183,
+      "word": "LikeJENNIE爽疯了",
+      "onboard_time": 1751724984,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 231634,
       "num": 231634,
       "word": "男子钓鱼甩竿碰高压线全身80%烧伤",
       "onboard_time": 1751698462,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 227701,
+      "num": 227701,
+      "word": "田栩宁emoji",
+      "onboard_time": 1751725042,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 227193,
@@ -1235,6 +1283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198007,
+      "num": 198007,
+      "word": "刘雨昕演唱会",
+      "onboard_time": 1751724745,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 196281,
       "num": 144008,
       "word": "洪亮这把快刀18年未生锈",
@@ -1249,6 +1305,14 @@
       "onboard_time": 1751713341,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194804,
+      "num": 187545,
+      "word": "南京0比0苏州",
+      "onboard_time": 1751724866,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 192639,
@@ -1299,20 +1363,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188195,
+      "num": 188195,
+      "word": "孟子义内娱第一个饭渣人设",
+      "onboard_time": 1751721985,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186040,
       "num": 186040,
       "word": "樊振东首度亮相萨尔布吕肯",
       "onboard_time": 1751701761,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 185907,
-      "num": 185907,
-      "word": "孟子义内娱第一个饭渣人设",
-      "onboard_time": 1751721985,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 185658,
@@ -1515,6 +1579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166192,
+      "num": 166192,
+      "word": "内娱艺人开始看观众脸色了",
+      "onboard_time": 1751725344,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165399,
       "num": 165399,
       "word": "单依纯 换歌",
@@ -1539,6 +1611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160949,
+      "num": 160949,
+      "word": "任重孙骁骁牵手外出",
+      "onboard_time": 1751725225,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160436,
       "num": 160436,
       "word": "黄子弘凡一千万粉",
@@ -1561,6 +1641,14 @@
       "onboard_time": 1751698101,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158780,
+      "num": 158780,
+      "word": "没想到苏超线下火药味比线上还浓",
+      "onboard_time": 1751724383,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 158695,
@@ -1923,6 +2011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140537,
+      "num": 140537,
+      "word": "男孩把扎带套脖玩妹妹拉扯险窒息",
+      "onboard_time": 1751722765,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140243,
       "num": 140243,
       "word": "书卷一梦开虐",
@@ -1955,6 +2051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138302,
+      "num": 138302,
+      "word": "南京vs苏州创苏超上座新纪录",
+      "onboard_time": 1751723906,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138282,
       "num": 138282,
       "word": "恋与制作人3.0直播上篇",
@@ -1977,6 +2081,14 @@
       "onboard_time": 1751639906,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 137135,
+      "num": 137135,
+      "word": "带孩子非常辛苦",
+      "onboard_time": 1751724866,
+      "rank": 45,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 136953,
@@ -2011,20 +2123,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 135692,
-      "num": 135692,
-      "word": "警方回应横店女演员拍戏身亡传闻",
-      "onboard_time": 1751723007,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 135623,
       "num": 290627,
       "word": "两架B2轰炸机飞越白宫",
       "onboard_time": 1751688142,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 135472,
+      "num": 135472,
+      "word": "狼队对战TTG",
+      "onboard_time": 1751724984,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 135091,
@@ -2747,6 +2859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100164,
+      "num": 354080,
+      "word": "景区巡防员持镰刀划破多艘皮划艇",
+      "onboard_time": 1751724085,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100086,
       "num": 100086,
       "word": "杨瀚森领衔开拓者夏联名单",
@@ -3187,6 +3307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69528,
+      "num": 944774,
+      "word": "又一次被鱼水情深的双向奔赴感动",
+      "onboard_time": 1751723547,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68448,
       "num": 139263,
       "word": "鹿晗演唱会无处不在的惊喜",
@@ -3201,6 +3329,14 @@
       "onboard_time": 1751647581,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 67798,
+      "num": 228716,
+      "word": "全红婵晒晚霞",
+      "onboard_time": 1751722646,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 66781,
@@ -3457,6 +3593,14 @@
       "onboard_time": 1751655915,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 24600,
+      "num": 227799,
+      "word": "血铅超标孩童出现多种中毒症状",
+      "onboard_time": 1751725285,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23948,
