@@ -1,0 +1,410 @@
+{
+  "runTime": 1751720623657,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1208648,
+        "num": 1208648,
+        "word": "BLACKPINK演唱会",
+        "onboard_time": 1751714361,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1088941,
+        "num": 1088941,
+        "word": "南京vs苏州",
+        "onboard_time": 1751716762,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68548,
+        "num": 1032840,
+        "word": "贵州榕江群众泪别救援队伍",
+        "onboard_time": 1751707823,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1021100,
+        "num": 1021100,
+        "word": "特朗普称没见过中国风力发电",
+        "onboard_time": 1751719222,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 464671,
+        "num": 464671,
+        "word": "日本末日预言者开始改口",
+        "onboard_time": 1751698942,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 460280,
+        "num": 460280,
+        "word": "日本末日预言造成5600亿损失",
+        "onboard_time": 1751711721,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 430390,
+        "num": 430390,
+        "word": "BLACKPINK新歌",
+        "onboard_time": 1751719704,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 398938,
+        "num": 398938,
+        "word": "美国新关税或达70%",
+        "onboard_time": 1751718201,
+        "rank": 7,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 373882,
+        "num": 373882,
+        "word": "BLACKPINK直播",
+        "onboard_time": 1751715321,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 356022,
+        "num": 356022,
+        "word": "王源去看林俊杰演唱会了",
+        "onboard_time": 1751718562,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 806426,
+        "num": 352536,
+        "word": "官方通报23名死亡人员领高龄津贴",
+        "onboard_time": 1751711061,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 408892,
+        "num": 351056,
+        "word": "疑似横店短剧演员去世",
+        "onboard_time": 1751708421,
+        "rank": 11,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 399746,
+        "num": 346819,
+        "word": "日本西南群岛地震",
+        "onboard_time": 1751708603,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 340780,
+        "num": 340780,
+        "word": "等风热吻你",
+        "onboard_time": 1751716762,
+        "rank": 13,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 207988,
+        "num": 331780,
+        "word": "南京比赛忙坏了安徽芜马滁",
+        "onboard_time": 1751719401,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 327453,
+        "num": 327453,
+        "word": "女子遭同学设套被骗千万全家自杀",
+        "onboard_time": 1751706141,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282095,
+        "num": 282095,
+        "word": "Jennie的rap好爽",
+        "onboard_time": 1751719282,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 256146,
+        "num": 256146,
+        "word": "烟台一高校宿舍无空调学生中暑送医",
+        "onboard_time": 1751708003,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75687,
+        "num": 254647,
+        "word": "黄健翔苏超门票是酸奶换的",
+        "onboard_time": 1751717902,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55301,
+        "num": 253460,
+        "word": "总要去音乐节这么穿一次吧",
+        "onboard_time": 1751716762,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 353047,
+        "num": 251190,
+        "word": "12岁幼女家中遭强奸妈妈第二天才发现",
+        "onboard_time": 1751701881,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267369,
+        "num": 250623,
+        "word": "恋与制作人你好香",
+        "onboard_time": 1751719222,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 248850,
+        "num": 248850,
+        "word": "锦绣芳华评级",
+        "onboard_time": 1751720182,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237590,
+        "num": 237590,
+        "word": "王梓薇买别墅",
+        "onboard_time": 1751698521,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205054,
+        "num": 205054,
+        "word": "杨紫直播卡成PPT了",
+        "onboard_time": 1751720001,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197695,
+        "num": 197695,
+        "word": "李人骏危房还是出事了",
+        "onboard_time": 1751716162,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179801,
+        "num": 179801,
+        "word": "男子走出空调房一下冷中暑",
+        "onboard_time": 1751719222,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172823,
+        "num": 172823,
+        "word": "王佑硕晋江演技晋江命",
+        "onboard_time": 1751719401,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172562,
+        "num": 172562,
+        "word": "陈昊宇上海演唱会",
+        "onboard_time": 1751718863,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 176480,
+        "num": 168690,
+        "word": "杨紫说锦绣芳华是国色芳华第二部",
+        "onboard_time": 1751712142,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 706782,
+        "num": 163382,
+        "word": "美团崩了",
+        "onboard_time": 1751708782,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 153343,
+        "num": 153343,
+        "word": "恋与制作人夏夜小酒馆",
+        "onboard_time": 1751720182,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 25883,
+        "num": 145929,
+        "word": "究竟得多热破窗应急预案才能激活",
+        "onboard_time": 1751720544,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143429,
+        "num": 143429,
+        "word": "香奈儿今夏高定大女主",
+        "onboard_time": 1751720483,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66781,
+        "num": 139072,
+        "word": "男子借宿同学家行凶致1死家属发声",
+        "onboard_time": 1751719282,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138631,
+        "num": 138631,
+        "word": "李一桐国产剧理智型女主",
+        "onboard_time": 1751720242,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138088,
+        "num": 138088,
+        "word": "营业悖论",
+        "onboard_time": 1751711662,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 136361,
+        "num": 136361,
+        "word": "刘维是程潇妈妈干儿子",
+        "onboard_time": 1751719401,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132399,
+        "num": 132399,
+        "word": "尽量不要给手机整夜充电",
+        "onboard_time": 1751718142,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 131269,
+        "num": 131269,
+        "word": "山东舰上歼15T为香港观众遮风挡雨",
+        "onboard_time": 1751716821,
+        "rank": 39,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 131202,
+        "num": 131202,
+        "word": "苏超南通1比1徐州",
+        "onboard_time": 1751719102,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125556,
+        "num": 125556,
+        "word": "无锡vs扬州",
+        "onboard_time": 1751716881,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123511,
+        "num": 123511,
+        "word": "郝蕾内涵演综演员不写人物小传",
+        "onboard_time": 1751716582,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121714,
+        "num": 121714,
+        "word": "预计超6万球迷观赛南京vs苏州",
+        "onboard_time": 1751710521,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121364,
+        "num": 121364,
+        "word": "张靓颖演唱会",
+        "onboard_time": 1751720602,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117242,
+        "num": 117242,
+        "word": "苏超苏北王vs状元狼",
+        "onboard_time": 1751716283,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116505,
+        "num": 116505,
+        "word": "别给个身份证就把自己当人了",
+        "onboard_time": 1751715442,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114852,
+        "num": 114852,
+        "word": "K1373砸窗男子被批评教育",
+        "onboard_time": 1751696780,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114623,
+        "num": 114623,
+        "word": "孙燕姿直来直往的含金量还在上升",
+        "onboard_time": 1751718680,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113982,
+        "num": 113982,
+        "word": "易烊千玺回应礐嶨不会读",
+        "onboard_time": 1751688922,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记和青年朋友在一起#"
+    }
+  }
+}
