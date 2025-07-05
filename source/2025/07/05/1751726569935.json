@@ -1,0 +1,410 @@
+{
+  "runTime": 1751726569935,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2894285,
+        "num": 2894285,
+        "word": "横店女演员拍戏身亡爆料部分被删",
+        "onboard_time": 1751722466,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 885356,
+        "num": 885356,
+        "word": "南京vs苏州",
+        "onboard_time": 1751716762,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84696,
+        "num": 848062,
+        "word": "又一次被鱼水情深的双向奔赴感动",
+        "onboard_time": 1751723547,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1385275,
+        "num": 847810,
+        "word": "杭州东站",
+        "onboard_time": 1751726004,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 827396,
+        "num": 827396,
+        "word": "郭旭蔡昆廷结婚",
+        "onboard_time": 1751720663,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 778132,
+        "num": 778132,
+        "word": "美国男子肾移植术后体内爬满寄生虫",
+        "onboard_time": 1751724263,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 732931,
+        "num": 732931,
+        "word": "你好星期六",
+        "onboard_time": 1751720663,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 716876,
+        "num": 716876,
+        "word": "警方回应横店女演员拍戏身亡传闻",
+        "onboard_time": 1751723007,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 595408,
+        "num": 595408,
+        "word": "特朗普称没见过中国风力发电",
+        "onboard_time": 1751719222,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 148756,
+        "num": 586366,
+        "word": "K1373事故铁路员工不如主动砸玻璃",
+        "onboard_time": 1751725884,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 737823,
+        "num": 585841,
+        "word": "曾志伟和女星合影姿势引争议",
+        "onboard_time": 1751725523,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 584518,
+        "num": 584518,
+        "word": "BLACKPINK演唱会",
+        "onboard_time": 1751714361,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 517019,
+        "num": 517019,
+        "word": "田栩宁emoji",
+        "onboard_time": 1751725042,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 447343,
+        "num": 447343,
+        "word": "日本末日预言者开始改口",
+        "onboard_time": 1751698942,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 440155,
+        "num": 440155,
+        "word": "男子走出空调房一下冷中暑",
+        "onboard_time": 1751719222,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 375902,
+        "num": 375902,
+        "word": "任重孙骁骁牵手外出",
+        "onboard_time": 1751725225,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374548,
+        "num": 374548,
+        "word": "疑似横店短剧演员去世",
+        "onboard_time": 1751708421,
+        "rank": 16,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 354360,
+        "num": 354360,
+        "word": "徐州vs南通",
+        "onboard_time": 1751721633,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 316005,
+        "num": 316005,
+        "word": "LikeJENNIE爽疯了",
+        "onboard_time": 1751724984,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 307288,
+        "num": 307288,
+        "word": "锦绣芳华评级",
+        "onboard_time": 1751720182,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 333341,
+        "num": 303953,
+        "word": "美国新关税或达70%",
+        "onboard_time": 1751718201,
+        "rank": 20,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 330598,
+        "num": 302919,
+        "word": "内娱艺人开始看观众脸色了",
+        "onboard_time": 1751725344,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295353,
+        "num": 295353,
+        "word": "官方通报23名死亡人员领高龄津贴",
+        "onboard_time": 1751711061,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269683,
+        "num": 269683,
+        "word": "BLACKPINK新歌",
+        "onboard_time": 1751719704,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 250233,
+        "num": 250233,
+        "word": "减肥最快的方法是提高身体代谢",
+        "onboard_time": 1751725042,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 237023,
+        "num": 237023,
+        "word": "陈乔恩分享5天紧急瘦身法",
+        "onboard_time": 1751726064,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235178,
+        "num": 235178,
+        "word": "南京0比0苏州",
+        "onboard_time": 1751724866,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226447,
+        "num": 226447,
+        "word": "12岁幼女家中遭强奸妈妈第二天才发现",
+        "onboard_time": 1751701881,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220136,
+        "num": 220136,
+        "word": "易次元崩了",
+        "onboard_time": 1751723906,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120263,
+        "num": 211292,
+        "word": "血铅超标孩童出现多种中毒症状",
+        "onboard_time": 1751725285,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 678955,
+        "num": 209920,
+        "word": "美团崩了",
+        "onboard_time": 1751708782,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 207985,
+        "num": 207985,
+        "word": "叠纸",
+        "onboard_time": 1751726186,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 49782,
+        "num": 194993,
+        "word": "无锡队的吉祥物快要碎掉了",
+        "onboard_time": 1751721504,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189075,
+        "num": 189075,
+        "word": "Jennie的rap好爽",
+        "onboard_time": 1751719282,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 191417,
+        "num": 188425,
+        "word": "Jennie完全是震撼女人",
+        "onboard_time": 1751725643,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 41275,
+        "num": 186291,
+        "word": "全红婵晒晚霞",
+        "onboard_time": 1751722646,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194219,
+        "num": 185763,
+        "word": "尽量不要给手机整夜充电",
+        "onboard_time": 1751718142,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 184163,
+        "num": 184163,
+        "word": "胡楚靓回应连续十年踩中风口",
+        "onboard_time": 1751721264,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175857,
+        "num": 175857,
+        "word": "孟子义内娱第一个饭渣人设",
+        "onboard_time": 1751721985,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175427,
+        "num": 175427,
+        "word": "马云现身法国乘豪华游艇",
+        "onboard_time": 1751725643,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 174095,
+        "num": 174095,
+        "word": "王一博追风者百轮上星",
+        "onboard_time": 1751726244,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169599,
+        "num": 169599,
+        "word": "女子遭同学设套被骗千万全家自杀",
+        "onboard_time": 1751706141,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169535,
+        "num": 169535,
+        "word": "等风热吻你",
+        "onboard_time": 1751716762,
+        "rank": 42,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 167940,
+        "num": 168725,
+        "word": "苏超第一个0比0出现了",
+        "onboard_time": 1751726004,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168186,
+        "num": 168186,
+        "word": "日本末日预言造成5600亿损失",
+        "onboard_time": 1751711721,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 155358,
+        "num": 155358,
+        "word": "21岁网红机车少年因意外车祸离世",
+        "onboard_time": 1751721023,
+        "rank": 45,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 153289,
+        "num": 153289,
+        "word": "APT现场版",
+        "onboard_time": 1751726364,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150980,
+        "num": 150980,
+        "word": "日本西南群岛地震",
+        "onboard_time": 1751708603,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 150561,
+        "num": 150561,
+        "word": "王源去看林俊杰演唱会了",
+        "onboard_time": 1751718562,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145110,
+        "num": 145110,
+        "word": "日本预言家自曝只画了插画",
+        "onboard_time": 1751722646,
+        "rank": 49,
+        "category": "海外新闻,动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记和青年朋友在一起#"
+    }
+  }
+}
