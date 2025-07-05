@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751690939259,
+  "endTime": 1751693138797,
   "band_list": [
     {
       "raw_hot": 6390116,
@@ -307,6 +307,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1330068,
+      "num": 1330068,
+      "word": "易烊千玺回应礐嶨不会读",
+      "onboard_time": 1751688922,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1321319,
       "num": 1321319,
       "word": "iPhone 制冷模式",
@@ -459,14 +467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1149789,
-      "num": 1183966,
-      "word": "易烊千玺回应礐嶨不会读",
-      "onboard_time": 1751688922,
-      "rank": 5,
-      "category": "演出"
-    },
-    {
       "raw_hot": 1124936,
       "num": 517933,
       "word": "那英说龚俊经纪人够差劲的",
@@ -545,6 +545,14 @@
       "onboard_time": 1751421739,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1054053,
+      "num": 1054053,
+      "word": "K1373没达到破窗应急预案紧急程度",
+      "onboard_time": 1751691681,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1053515,
@@ -2723,6 +2731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 409015,
+      "num": 485184,
+      "word": "武汉鸽子中暑",
+      "onboard_time": 1751686280,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 408734,
       "num": 408734,
       "word": "杭州热到全国第一了",
@@ -2859,14 +2875,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 384431,
-      "num": 485184,
-      "word": "武汉鸽子中暑",
-      "onboard_time": 1751686280,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 381688,
       "num": 356207,
       "word": "迪丽热巴开推3人生镜头",
@@ -2945,6 +2953,14 @@
       "onboard_time": 1751366300,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 369295,
+      "num": 369295,
+      "word": "官方通报男子列车上砸窗通风",
+      "onboard_time": 1751691081,
+      "rank": 6,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 369074,
@@ -3491,6 +3507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 319632,
+      "num": 312601,
+      "word": "吴艳妮晒暴击流穿搭",
+      "onboard_time": 1751690181,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 319312,
       "num": 246420,
       "word": "小鹏G7发布震惊央视朱广权",
@@ -3776,6 +3800,14 @@
       "word": "花少7好接地气",
       "onboard_time": 1751428401,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 295900,
+      "num": 295900,
+      "word": "母亲人工流产四次生下患病婴儿",
+      "onboard_time": 1751688563,
+      "rank": 20,
       "category": "综艺"
     },
     {
@@ -4291,6 +4323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 257977,
+      "num": 257977,
+      "word": "BLACKPINK高阳演唱会单人海报",
+      "onboard_time": 1751692822,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 257269,
       "num": 257269,
       "word": "林心如排队为女儿买labubu",
@@ -4417,6 +4457,14 @@
       "onboard_time": 1751513423,
       "rank": 24,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 246479,
+      "num": 246479,
+      "word": "成都暴雨航拍都江堰再现奇观",
+      "onboard_time": 1751689223,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 246379,
@@ -5041,14 +5089,6 @@
       "onboard_time": 1751607442,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 219495,
-      "num": 152523,
-      "word": "母亲人工流产四次生下患病婴儿",
-      "onboard_time": 1751688563,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 219412,
@@ -6593,14 +6633,6 @@
       "onboard_time": 1751429122,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 180055,
-      "num": 180055,
-      "word": "成都暴雨航拍都江堰再现奇观",
-      "onboard_time": 1751689223,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 179886,
@@ -8435,6 +8467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146431,
+      "num": 135545,
+      "word": "世界乱成一锅粥东亚凭啥稳如狗",
+      "onboard_time": 1751692822,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 146319,
       "num": 146319,
       "word": "弟弟朝小猴子竖中指被一群猴打了",
@@ -8553,6 +8593,14 @@
       "onboard_time": 1751578815,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144224,
+      "num": 144224,
+      "word": "人工智障虐待人工智能",
+      "onboard_time": 1751688742,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 144135,
@@ -8843,14 +8891,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 139522,
-      "num": 154940,
-      "word": "吴艳妮晒暴击流穿搭",
-      "onboard_time": 1751690181,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 139437,
       "num": 149972,
       "word": "感染食脑虫女童进ICU10天未明显好转",
@@ -9059,6 +9099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 136331,
+      "num": 136331,
+      "word": "李一桐刘宇宁现代番外",
+      "onboard_time": 1751692700,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 136327,
       "num": 138172,
       "word": "曼城世俱杯出局",
@@ -9113,6 +9161,14 @@
       "onboard_time": 1751460623,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135623,
+      "num": 290627,
+      "word": "两架B2轰炸机飞越白宫",
+      "onboard_time": 1751688142,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 135514,
@@ -9355,6 +9411,14 @@
       "category": "民生新闻,科学科普"
     },
     {
+      "raw_hot": 132805,
+      "num": 132805,
+      "word": "高寒新剧给孟子义取名梦儿",
+      "onboard_time": 1751692881,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132799,
       "num": 132799,
       "word": "亚历山大超级顶薪续约雷霆",
@@ -9521,6 +9585,14 @@
       "onboard_time": 1751471781,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131112,
+      "num": 131112,
+      "word": "当单依纯看到自己老板上歌手",
+      "onboard_time": 1751690782,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 131092,
@@ -9923,14 +9995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126513,
-      "num": 290627,
-      "word": "两架B2轰炸机飞越白宫",
-      "onboard_time": 1751688142,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 126480,
       "num": 126480,
       "word": "泰斗一词为何能成中国夸人顶配",
@@ -10073,14 +10137,6 @@
       "onboard_time": 1751433023,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 124598,
-      "num": 124598,
-      "word": "人工智障虐待人工智能",
-      "onboard_time": 1751688742,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 124394,
@@ -10265,6 +10321,14 @@
       "onboard_time": 1751504182,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 122226,
+      "num": 122226,
+      "word": "张继科训练营第一天就有学员罚站",
+      "onboard_time": 1751692881,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 122139,
@@ -10665,6 +10729,14 @@
       "onboard_time": 1751445024,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 117861,
+      "num": 117861,
+      "word": "侯佩岑说罗予彤我看你看晕了",
+      "onboard_time": 1751692700,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 117824,
@@ -11387,6 +11459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109360,
+      "num": 109360,
+      "word": "交警回应超速罚单时速17052公里",
+      "onboard_time": 1751691201,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109014,
       "num": 109014,
       "word": "日本一地10天地震660次还在持续",
@@ -11425,6 +11505,14 @@
       "onboard_time": 1751682022,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 108569,
+      "num": 108569,
+      "word": "无限暖暖",
+      "onboard_time": 1751693062,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 108439,
@@ -11739,6 +11827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104880,
+      "num": 109521,
+      "word": "机长坠亡疑因能力排查不合格",
+      "onboard_time": 1751689643,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104835,
       "num": 299661,
       "word": "天水幼儿血铅异常19人跨省住院",
@@ -11803,14 +11899,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 103713,
-      "num": 109521,
-      "word": "机长坠亡疑因能力排查不合格",
-      "onboard_time": 1751689643,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 103462,
       "num": 103462,
       "word": "追妻火葬场男宾一位",
@@ -11825,14 +11913,6 @@
       "onboard_time": 1751454260,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 103302,
-      "num": 103302,
-      "word": "当单依纯看到自己老板上歌手",
-      "onboard_time": 1751690782,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 103216,
@@ -11979,6 +12059,14 @@
       "category": "数码,民生新闻"
     },
     {
+      "raw_hot": 100749,
+      "num": 100749,
+      "word": "内蒙古人才引进遭质疑",
+      "onboard_time": 1751692881,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100627,
       "num": 264437,
       "word": "网友晒离谱超速罚单每小时17052km",
@@ -12057,6 +12145,14 @@
       "onboard_time": 1751614223,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 99376,
+      "num": 99376,
+      "word": "为什么点赞多就退赛",
+      "onboard_time": 1751691321,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 99157,
@@ -12289,6 +12385,14 @@
       "onboard_time": 1751443762,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 94321,
+      "num": 205343,
+      "word": "1人干3人工作员工拒绝被开除",
+      "onboard_time": 1751692881,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93935,
@@ -12795,6 +12899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84172,
+      "num": 200798,
+      "word": "K1373次列车亲历者称当时已有人中暑",
+      "onboard_time": 1751692881,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84072,
       "num": 90813,
       "word": "俄罗斯全面控制卢甘斯克",
@@ -12936,6 +13048,14 @@
       "word": "管乐 王皓",
       "onboard_time": 1751269280,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 80881,
+      "num": 212122,
+      "word": "王星越吃播",
+      "onboard_time": 1751692761,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -13097,6 +13217,14 @@
       "onboard_time": 1751301140,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 75962,
+      "num": 126750,
+      "word": "鹿晗的饭拍从不让人失望",
+      "onboard_time": 1751691922,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 75821,
@@ -14211,6 +14339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46666,
+      "num": 700754,
+      "word": "以身许国是他们最深情的告白",
+      "onboard_time": 1751690063,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 46281,
       "num": 60934,
       "word": "杨紫回应刘诗诗",
@@ -14911,14 +15047,6 @@
       "num": 626858,
       "word": "我们一起唱民歌",
       "onboard_time": 1751544921,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 29474,
-      "num": 588712,
-      "word": "以身许国是他们最深情的告白",
-      "onboard_time": 1751690063,
       "rank": 2,
       "category": "国内时政"
     },

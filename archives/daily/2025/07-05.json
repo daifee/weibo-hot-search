@@ -1,6 +1,6 @@
 {
   "startTime": 1751646733900,
-  "endTime": 1751690939259,
+  "endTime": 1751693138797,
   "band_list": [
     {
       "raw_hot": 2497507,
@@ -51,6 +51,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1330068,
+      "num": 1330068,
+      "word": "易烊千玺回应礐嶨不会读",
+      "onboard_time": 1751688922,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1183382,
       "num": 675093,
       "word": "12岁女童家中遭21岁网友性侵",
@@ -67,20 +75,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1149789,
-      "num": 1183966,
-      "word": "易烊千玺回应礐嶨不会读",
-      "onboard_time": 1751688922,
-      "rank": 5,
-      "category": "演出"
-    },
-    {
       "raw_hot": 1105862,
       "num": 237338,
       "word": "日本末世预言剩1天有人撤离",
       "onboard_time": 1751614103,
       "rank": 11,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1054053,
+      "num": 1054053,
+      "word": "K1373没达到破窗应急预案紧急程度",
+      "onboard_time": 1751691681,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 966436,
@@ -251,6 +259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 409015,
+      "num": 485184,
+      "word": "武汉鸽子中暑",
+      "onboard_time": 1751686280,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 400020,
       "num": 400020,
       "word": "父亲女儿均患癌39岁男子掩面痛哭",
@@ -267,20 +283,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 384431,
-      "num": 485184,
-      "word": "武汉鸽子中暑",
-      "onboard_time": 1751686280,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 380976,
       "num": 380976,
       "word": "张继科指导小孩哥一拍打了2000板",
       "onboard_time": 1751677701,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 369295,
+      "num": 369295,
+      "word": "官方通报男子列车上砸窗通风",
+      "onboard_time": 1751691081,
+      "rank": 6,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 365231,
@@ -339,6 +355,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 319632,
+      "num": 312601,
+      "word": "吴艳妮晒暴击流穿搭",
+      "onboard_time": 1751690181,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 318544,
       "num": 231071,
       "word": "于正又发飙了",
@@ -353,6 +377,14 @@
       "onboard_time": 1751679142,
       "rank": 13,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 295900,
+      "num": 295900,
+      "word": "母亲人工流产四次生下患病婴儿",
+      "onboard_time": 1751688563,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 294157,
@@ -443,6 +475,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 257977,
+      "num": 257977,
+      "word": "BLACKPINK高阳演唱会单人海报",
+      "onboard_time": 1751692822,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 254274,
       "num": 169273,
       "word": "山东舰拍这么大以后怎么忽悠别人",
@@ -457,6 +497,14 @@
       "onboard_time": 1751679681,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 246479,
+      "num": 246479,
+      "word": "成都暴雨航拍都江堰再现奇观",
+      "onboard_time": 1751689223,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 242676,
@@ -495,14 +543,6 @@
       "num": 223579,
       "word": "单依纯 王菲在唱那英的歌",
       "onboard_time": 1751634567,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 219495,
-      "num": 152523,
-      "word": "母亲人工流产四次生下患病婴儿",
-      "onboard_time": 1751688563,
       "rank": 20,
       "category": "综艺"
     },
@@ -585,14 +625,6 @@
       "onboard_time": 1751688201,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 180055,
-      "num": 180055,
-      "word": "成都暴雨航拍都江堰再现奇观",
-      "onboard_time": 1751689223,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 177370,
@@ -779,6 +811,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 146431,
+      "num": 135545,
+      "word": "世界乱成一锅粥东亚凭啥稳如狗",
+      "onboard_time": 1751692822,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 144720,
       "num": 144720,
       "word": "广东一餐厅318元套餐结账变2297元",
@@ -787,8 +827,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 141866,
-      "num": 141866,
+      "raw_hot": 144224,
+      "num": 144224,
+      "word": "人工智障虐待人工智能",
+      "onboard_time": 1751688742,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 143379,
+      "num": 143379,
       "word": "皓衣行",
       "onboard_time": 1751690001,
       "rank": 25,
@@ -803,19 +851,27 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 139522,
-      "num": 154940,
-      "word": "吴艳妮晒暴击流穿搭",
-      "onboard_time": 1751690181,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 137348,
       "num": 137348,
       "word": "驻日本大使馆提醒在日同胞",
       "onboard_time": 1751639906,
       "rank": 33,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 136331,
+      "num": 136331,
+      "word": "李一桐刘宇宁现代番外",
+      "onboard_time": 1751692700,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 135623,
+      "num": 290627,
+      "word": "两架B2轰炸机飞越白宫",
+      "onboard_time": 1751688142,
+      "rank": 36,
       "category": "国际时政"
     },
     {
@@ -825,6 +881,22 @@
       "onboard_time": 1751675601,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132805,
+      "num": 132805,
+      "word": "高寒新剧给孟子义取名梦儿",
+      "onboard_time": 1751692881,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 131112,
+      "num": 131112,
+      "word": "当单依纯看到自己老板上歌手",
+      "onboard_time": 1751690782,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 128201,
@@ -843,14 +915,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 126513,
-      "num": 290627,
-      "word": "两架B2轰炸机飞越白宫",
-      "onboard_time": 1751688142,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 126457,
       "num": 126457,
       "word": "商户直播军舰进出港被查",
@@ -865,14 +929,6 @@
       "onboard_time": 1751644883,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 124598,
-      "num": 124598,
-      "word": "人工智障虐待人工智能",
-      "onboard_time": 1751688742,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 123659,
@@ -897,6 +953,14 @@
       "onboard_time": 1751675960,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 122226,
+      "num": 122226,
+      "word": "张继科训练营第一天就有学员罚站",
+      "onboard_time": 1751692881,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 121602,
@@ -963,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117861,
+      "num": 117861,
+      "word": "侯佩岑说罗予彤我看你看晕了",
+      "onboard_time": 1751692700,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113122,
       "num": 113122,
       "word": "普京说全世界都想进入中国市场",
@@ -1003,6 +1075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109360,
+      "num": 109360,
+      "word": "交警回应超速罚单时速17052公里",
+      "onboard_time": 1751691201,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108931,
       "num": 119967,
       "word": "孙颖莎监考老师即视感",
@@ -1017,6 +1097,14 @@
       "onboard_time": 1751682022,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 108569,
+      "num": 108569,
+      "word": "无限暖暖",
+      "onboard_time": 1751693062,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 108405,
@@ -1067,6 +1155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104880,
+      "num": 109521,
+      "word": "机长坠亡疑因能力排查不合格",
+      "onboard_time": 1751689643,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104111,
       "num": 104111,
       "word": "空调开除湿模式别超2小时",
@@ -1075,20 +1171,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 103713,
-      "num": 109521,
-      "word": "机长坠亡疑因能力排查不合格",
-      "onboard_time": 1751689643,
-      "rank": 48,
+      "raw_hot": 100749,
+      "num": 100749,
+      "word": "内蒙古人才引进遭质疑",
+      "onboard_time": 1751692881,
+      "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 103302,
-      "num": 103302,
-      "word": "当单依纯看到自己老板上歌手",
-      "onboard_time": 1751690782,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 100627,
@@ -1113,6 +1201,14 @@
       "onboard_time": 1751685862,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 99376,
+      "num": 99376,
+      "word": "为什么点赞多就退赛",
+      "onboard_time": 1751691321,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 99157,
@@ -1160,6 +1256,14 @@
       "word": "小学生飞奔过马路撞车被判全责",
       "onboard_time": 1751687001,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94321,
+      "num": 205343,
+      "word": "1人干3人工作员工拒绝被开除",
+      "onboard_time": 1751692881,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1259,6 +1363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84172,
+      "num": 200798,
+      "word": "K1373次列车亲历者称当时已有人中暑",
+      "onboard_time": 1751692881,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83644,
       "num": 83644,
       "word": "前阿森纳球员托马斯被控强奸和性侵",
@@ -1281,6 +1393,14 @@
       "onboard_time": 1751684183,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 80881,
+      "num": 212122,
+      "word": "王星越吃播",
+      "onboard_time": 1751692761,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 80618,
@@ -1329,6 +1449,14 @@
       "onboard_time": 1751671938,
       "rank": 35,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 75962,
+      "num": 126750,
+      "word": "鹿晗的饭拍从不让人失望",
+      "onboard_time": 1751691922,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 73345,
@@ -1443,6 +1571,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 46666,
+      "num": 700754,
+      "word": "以身许国是他们最深情的告白",
+      "onboard_time": 1751690063,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 38832,
       "num": 48992,
       "word": "睡前千万不要喝酒助眠",
@@ -1465,14 +1601,6 @@
       "onboard_time": 1751652496,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 29474,
-      "num": 588712,
-      "word": "以身许国是他们最深情的告白",
-      "onboard_time": 1751690063,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 28441,
