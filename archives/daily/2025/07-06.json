@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751757936809,
+  "endTime": 1751758849659,
   "band_list": [
     {
       "raw_hot": 2706470,
@@ -65,6 +65,14 @@
       "onboard_time": 1751744114,
       "rank": 15,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 460555,
+      "num": 913966,
+      "word": "马斯克发文成立美国党",
+      "onboard_time": 1751757859,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 460487,
@@ -139,11 +147,27 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 308562,
+      "num": 308562,
+      "word": "rapper用归国四子diss黄子韬",
+      "onboard_time": 1751757798,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 271582,
       "num": 271582,
       "word": "陈乔恩分享5天紧急瘦身法",
       "onboard_time": 1751726064,
       "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 256820,
+      "num": 127266,
+      "word": "田栩宁榜一是若若",
+      "onboard_time": 1751757798,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -187,14 +211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 206278,
-      "num": 206278,
-      "word": "rapper用归国四子diss黄子韬",
-      "onboard_time": 1751757798,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 180141,
       "num": 180141,
       "word": "日本末日预言者开始改口",
@@ -211,12 +227,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 168377,
-      "num": 113809,
-      "word": "田栩宁榜一是若若",
-      "onboard_time": 1751757798,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 167669,
+      "num": 167669,
+      "word": "女子指甲下长肿瘤被误诊甲沟炎10年",
+      "onboard_time": 1751757198,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162040,
@@ -225,6 +241,22 @@
       "onboard_time": 1751720663,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162030,
+      "num": 162030,
+      "word": "马斯克想拿下美国会两院部分席位",
+      "onboard_time": 1751757798,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 159911,
+      "num": 159911,
+      "word": "谁家男主尸体都不放过啊",
+      "onboard_time": 1751757737,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 148905,
@@ -379,6 +411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95168,
+      "num": 95168,
+      "word": "皇马3比2多特蒙德",
+      "onboard_time": 1751758819,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93023,
       "num": 93023,
       "word": "等风热吻你",
@@ -419,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 86909,
+      "num": 86909,
+      "word": "巴黎圣日耳曼2比0拜仁",
+      "onboard_time": 1751758218,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84966,
       "num": 84966,
       "word": "南京vs苏州",
@@ -443,12 +491,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 82502,
-      "num": 82502,
-      "word": "马斯克发文成立美国党",
-      "onboard_time": 1751757859,
-      "rank": 24,
-      "category": "国际时政"
+      "raw_hot": 82410,
+      "num": 82410,
+      "word": "巨瘦腰的7天有效法",
+      "onboard_time": 1751757737,
+      "rank": 34,
+      "category": "运动健身"
     },
     {
       "raw_hot": 80597,
@@ -459,12 +507,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 77456,
-      "num": 77456,
-      "word": "谁家男主尸体都不放过啊",
-      "onboard_time": 1751757737,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 77551,
+      "num": 87341,
+      "word": "真有综艺听劝了",
+      "onboard_time": 1751757257,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 76470,
@@ -484,7 +532,7 @@
     },
     {
       "raw_hot": 74879,
-      "num": 74879,
+      "num": 87112,
       "word": "狗头萝莉员工月薪已涨到六七千",
       "onboard_time": 1751721023,
       "rank": 46,
@@ -515,24 +563,16 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 70853,
-      "num": 70853,
-      "word": "马斯克想拿下美国会两院部分席位",
-      "onboard_time": 1751757798,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 69818,
-      "num": 69818,
-      "word": "巨瘦腰的7天有效法",
-      "onboard_time": 1751757737,
-      "rank": 34,
-      "category": "运动健身"
+      "raw_hot": 69107,
+      "num": 69107,
+      "word": "穆西亚拉重伤倒地",
+      "onboard_time": 1751758458,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 66359,
-      "num": 74664,
+      "num": 87224,
       "word": "邓紫棋满眼都是对空调的渴望",
       "onboard_time": 1751757198,
       "rank": 27,
@@ -563,20 +603,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 60214,
-      "num": 138483,
-      "word": "女子指甲下长肿瘤被误诊甲沟炎10年",
-      "onboard_time": 1751757198,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 59130,
-      "num": 73900,
-      "word": "真有综艺听劝了",
-      "onboard_time": 1751757257,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 58938,
+      "num": 58938,
+      "word": "小猫从背后抱住了小猫",
+      "onboard_time": 1751758819,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 56147,
@@ -595,12 +627,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 48086,
+      "raw_hot": 49666,
+      "num": 49666,
+      "word": "闰六月让夏季更热更长是真的吗",
+      "onboard_time": 1751758819,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49427,
       "num": 71157,
       "word": "网友爬天山偶遇罕见天山雪莲",
       "onboard_time": 1751739076,
       "rank": 49,
       "category": "旅游,民生新闻"
+    },
+    {
+      "raw_hot": 49131,
+      "num": 49131,
+      "word": "惠特摩尔被交易至奇才",
+      "onboard_time": 1751758819,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 44563,
@@ -683,8 +731,8 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 7644,
-      "num": 72076,
+      "raw_hot": 12499,
+      "num": 87455,
       "word": "四川丹巴山洪泥石流有4人暂未发现踪迹",
       "onboard_time": 1751757859,
       "rank": 30,

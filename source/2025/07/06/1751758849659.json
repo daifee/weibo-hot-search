@@ -1,0 +1,410 @@
+{
+  "runTime": 1751758849659,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 460555,
+        "num": 913966,
+        "word": "马斯克发文成立美国党",
+        "onboard_time": 1751757859,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 308562,
+        "num": 308562,
+        "word": "rapper用归国四子diss黄子韬",
+        "onboard_time": 1751757798,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32446,
+        "num": 296017,
+        "word": "又一次被鱼水情深的双向奔赴感动",
+        "onboard_time": 1751723547,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287283,
+        "num": 287283,
+        "word": "官方通报杭州东站卧轨事件",
+        "onboard_time": 1751730744,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 231491,
+        "num": 231491,
+        "word": "小伙脖子肿痛开刀取出7颗瓜子",
+        "onboard_time": 1751728585,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205303,
+        "num": 205303,
+        "word": "美国男子肾移植术后体内爬满寄生虫",
+        "onboard_time": 1751724263,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 167669,
+        "num": 167669,
+        "word": "女子指甲下长肿瘤被误诊甲沟炎10年",
+        "onboard_time": 1751757198,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162030,
+        "num": 162030,
+        "word": "马斯克想拿下美国会两院部分席位",
+        "onboard_time": 1751757798,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 159911,
+        "num": 159911,
+        "word": "谁家男主尸体都不放过啊",
+        "onboard_time": 1751757737,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140162,
+        "num": 140162,
+        "word": "陈乔恩分享5天紧急瘦身法",
+        "onboard_time": 1751726064,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 703401,
+        "num": 139209,
+        "word": "杭州东站卧轨事件目击者发声",
+        "onboard_time": 1751731042,
+        "rank": 10,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 676649,
+        "num": 137164,
+        "word": "杭州东站发生卧轨事件",
+        "onboard_time": 1751727385,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 512775,
+        "num": 134496,
+        "word": "建议不要临睡前才刷牙",
+        "onboard_time": 1751744114,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 435716,
+        "num": 132321,
+        "word": "3名初中生凌晨偷奔驰致严重车祸",
+        "onboard_time": 1751729964,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 325001,
+        "num": 131028,
+        "word": "曾志伟和女星合影姿势引争议",
+        "onboard_time": 1751725523,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256820,
+        "num": 127266,
+        "word": "田栩宁榜一是若若",
+        "onboard_time": 1751757798,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225874,
+        "num": 125007,
+        "word": "梓渝23岁生日",
+        "onboard_time": 1751734759,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140930,
+        "num": 124068,
+        "word": "任重孙骁骁牵手外出",
+        "onboard_time": 1751725225,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122581,
+        "num": 122581,
+        "word": "河南一乡道因高温爆裂拱起",
+        "onboard_time": 1751734221,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95256,
+        "num": 95256,
+        "word": "张杰打开手机人都红温了吧",
+        "onboard_time": 1751735179,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 236409,
+        "num": 95212,
+        "word": "12岁幼女家中遭强奸妈妈第二天才发现",
+        "onboard_time": 1751701881,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95168,
+        "num": 95168,
+        "word": "皇马3比2多特蒙德",
+        "onboard_time": 1751758819,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87922,
+        "num": 87922,
+        "word": "龙树谅称日本末日预言不是她写的",
+        "onboard_time": 1751732482,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87704,
+        "num": 87704,
+        "word": "甘肃幼儿园血铅异常幼儿家长发声",
+        "onboard_time": 1751755576,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83727,
+        "num": 87589,
+        "word": "内娱艺人开始看观众脸色了",
+        "onboard_time": 1751725344,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12499,
+        "num": 87455,
+        "word": "四川丹巴山洪泥石流有4人暂未发现踪迹",
+        "onboard_time": 1751757859,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77551,
+        "num": 87341,
+        "word": "真有综艺听劝了",
+        "onboard_time": 1751757257,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63986,
+        "num": 87224,
+        "word": "邓紫棋满眼都是对空调的渴望",
+        "onboard_time": 1751757198,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 63067,
+        "num": 87112,
+        "word": "狗头萝莉员工月薪已涨到六七千",
+        "onboard_time": 1751721023,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 47816,
+        "num": 87009,
+        "word": "刘雨昕任嘉伦双人popping",
+        "onboard_time": 1751727203,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 86909,
+        "num": 86909,
+        "word": "巴黎圣日耳曼2比0拜仁",
+        "onboard_time": 1751758218,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83966,
+        "num": 83966,
+        "word": "该不该砸窗不妨多问问现场乘客感受",
+        "onboard_time": 1751747534,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82410,
+        "num": 82410,
+        "word": "巨瘦腰的7天有效法",
+        "onboard_time": 1751757737,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 77237,
+        "num": 77237,
+        "word": "日本西南群岛地震",
+        "onboard_time": 1751708603,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 76761,
+        "num": 76761,
+        "word": "减肥最快的方法是提高身体代谢",
+        "onboard_time": 1751725042,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 76439,
+        "num": 76439,
+        "word": "美团外卖用户下单量突破历史峰值",
+        "onboard_time": 1751731224,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 69107,
+        "num": 69107,
+        "word": "穆西亚拉重伤倒地",
+        "onboard_time": 1751758458,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64702,
+        "num": 64702,
+        "word": "疑似横店短剧演员去世",
+        "onboard_time": 1751708421,
+        "rank": 37,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 58938,
+        "num": 58938,
+        "word": "小猫从背后抱住了小猫",
+        "onboard_time": 1751758819,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 56701,
+        "num": 56701,
+        "word": "男子走出空调房一下冷中暑",
+        "onboard_time": 1751719222,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55565,
+        "num": 55565,
+        "word": "C罗未出席若塔葬礼顾虑抢走焦点",
+        "onboard_time": 1751739076,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52783,
+        "num": 52783,
+        "word": "养螳螂当宠物被邻居当成蟑螂喷杀虫剂",
+        "onboard_time": 1751729844,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51307,
+        "num": 51307,
+        "word": "尽量不要给手机整夜充电",
+        "onboard_time": 1751718142,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 49666,
+        "num": 49666,
+        "word": "闰六月让夏季更热更长是真的吗",
+        "onboard_time": 1751758819,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46395,
+        "num": 49487,
+        "word": "穆西亚拉",
+        "onboard_time": 1751739316,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49427,
+        "num": 49427,
+        "word": "网友爬天山偶遇罕见天山雪莲",
+        "onboard_time": 1751739076,
+        "rank": 45,
+        "category": "旅游,民生新闻"
+      },
+      {
+        "raw_hot": 49131,
+        "num": 49131,
+        "word": "惠特摩尔被交易至奇才",
+        "onboard_time": 1751758819,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47472,
+        "num": 48618,
+        "word": "日本预言家自曝只画了插画",
+        "onboard_time": 1751722646,
+        "rank": 47,
+        "category": "海外新闻,动漫"
+      },
+      {
+        "raw_hot": 48610,
+        "num": 48610,
+        "word": "21岁网红机车少年因意外车祸离世",
+        "onboard_time": 1751721023,
+        "rank": 48,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 47496,
+        "num": 47496,
+        "word": "女子遭同学设套被骗千万全家自杀",
+        "onboard_time": 1751706141,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记和青年朋友在一起#"
+    }
+  }
+}
