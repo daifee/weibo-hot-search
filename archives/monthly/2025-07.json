@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751700262257,
+  "endTime": 1751701106035,
   "band_list": [
     {
       "raw_hot": 6390116,
@@ -316,7 +316,7 @@
     },
     {
       "raw_hot": 1344224,
-      "num": 286869,
+      "num": 337127,
       "word": "王梓薇买别墅",
       "onboard_time": 1751698521,
       "rank": 10,
@@ -1128,6 +1128,14 @@
       "word": "日本漫画家预言已有10个应验",
       "onboard_time": 1751613443,
       "rank": 30,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 765259,
+      "num": 305531,
+      "word": "日本末日预言者开始改口",
+      "onboard_time": 1751698942,
+      "rank": 14,
       "category": "海外新闻"
     },
     {
@@ -2275,6 +2283,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 492812,
+      "num": 281372,
+      "word": "王安宇工作室 网盘",
+      "onboard_time": 1751698401,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 488711,
       "num": 282330,
       "word": "泰星Janie出家",
@@ -2345,6 +2361,14 @@
       "onboard_time": 1751606302,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 470920,
+      "num": 470920,
+      "word": "前台开错房女房客误入男子房间",
+      "onboard_time": 1751698702,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 469998,
@@ -3083,6 +3107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 365173,
+      "num": 365173,
+      "word": "易烊千玺演唱会第一个有票的人出现了",
+      "onboard_time": 1751699542,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 365121,
       "num": 432339,
       "word": "党的生日",
@@ -3217,6 +3249,14 @@
       "onboard_time": 1751435242,
       "rank": 7,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 353781,
+      "num": 353781,
+      "word": "女子在家刷手机被闪电击中到失忆",
+      "onboard_time": 1751695101,
+      "rank": 24,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 352508,
@@ -3491,14 +3531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 327491,
-      "num": 279770,
-      "word": "日本末日预言者开始改口",
-      "onboard_time": 1751698942,
-      "rank": 14,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 326526,
       "num": 450312,
       "word": "穿普拉达的女王2开拍",
@@ -3617,14 +3649,6 @@
       "onboard_time": 1751641107,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 316695,
-      "num": 316695,
-      "word": "前台开错房女房客误入男子房间",
-      "onboard_time": 1751698702,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 316213,
@@ -3817,14 +3841,6 @@
       "onboard_time": 1751328981,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 298119,
-      "num": 279463,
-      "word": "王安宇工作室 网盘",
-      "onboard_time": 1751698401,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 298102,
@@ -4065,14 +4081,6 @@
       "onboard_time": 1751456421,
       "rank": 22,
       "category": "网红"
-    },
-    {
-      "raw_hot": 287210,
-      "num": 287210,
-      "word": "女子在家刷手机被闪电击中到失忆",
-      "onboard_time": 1751695101,
-      "rank": 24,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 287141,
@@ -4569,14 +4577,6 @@
       "onboard_time": 1751513423,
       "rank": 24,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 246627,
-      "num": 230124,
-      "word": "易烊千玺演唱会第一个有票的人出现了",
-      "onboard_time": 1751699542,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 246479,
@@ -5675,6 +5675,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 205436,
+      "num": 205436,
+      "word": "李佳薇称被曝出做房产中介后很绝望",
+      "onboard_time": 1751697681,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205058,
       "num": 205058,
       "word": "雷军直播称急用车推荐买小鹏G7",
@@ -5867,6 +5875,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 200695,
+      "num": 200695,
+      "word": "胡先煦一句话马丽冠军没了",
+      "onboard_time": 1751699062,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200036,
       "num": 200036,
       "word": "歌手揭榜",
@@ -5881,14 +5897,6 @@
       "onboard_time": 1751376864,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 199926,
-      "num": 199926,
-      "word": "胡先煦一句话马丽冠军没了",
-      "onboard_time": 1751699062,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 199917,
@@ -6280,6 +6288,14 @@
       "word": "国色芳华重生之锦绣芳华归来",
       "onboard_time": 1751515822,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 192639,
+      "num": 192639,
+      "word": "台剧果然是另一个level了",
+      "onboard_time": 1751700501,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -6793,14 +6809,6 @@
       "onboard_time": 1751429122,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 180064,
-      "num": 180064,
-      "word": "李佳薇称被曝出做房产中介后很绝望",
-      "onboard_time": 1751697681,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 179886,
@@ -7379,6 +7387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168918,
+      "num": 168918,
+      "word": "南京奥体中心冰临城下",
+      "onboard_time": 1751700020,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168606,
       "num": 210197,
       "word": "张佳宁三个月播三部剧的含金量",
@@ -7497,6 +7513,14 @@
       "onboard_time": 1751551823,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166665,
+      "num": 166665,
+      "word": "南珩真成孤了",
+      "onboard_time": 1751700501,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 166622,
@@ -9771,6 +9795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131761,
+      "num": 131761,
+      "word": "县级以下禁开发政务APP为基层减负",
+      "onboard_time": 1751699062,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131759,
       "num": 131759,
       "word": "郑钦文0比1西尼亚科娃",
@@ -9833,14 +9865,6 @@
       "onboard_time": 1751585659,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 131223,
-      "num": 131223,
-      "word": "南京奥体中心冰临城下",
-      "onboard_time": 1751700020,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 131122,
@@ -11227,6 +11251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115352,
+      "num": 115352,
+      "word": "怎么会有荔枝这么清透",
+      "onboard_time": 1751698882,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 115293,
       "num": 126147,
       "word": "辛云来跨界歌亡",
@@ -11777,14 +11809,6 @@
       "onboard_time": 1751436443,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 109644,
-      "num": 109644,
-      "word": "县级以下禁开发政务APP为基层减负",
-      "onboard_time": 1751699062,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 109560,
@@ -12611,14 +12635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 97619,
-      "num": 97619,
-      "word": "怎么会有荔枝这么清透",
-      "onboard_time": 1751698882,
-      "rank": 48,
-      "category": "美食"
-    },
-    {
       "raw_hot": 97440,
       "num": 97440,
       "word": "人格底色很重要",
@@ -13139,6 +13155,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87820,
+      "num": 87820,
+      "word": "外包是木牛流马",
+      "onboard_time": 1751700442,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 87777,
+      "num": 87777,
+      "word": "以法之名反派嘌呤一定很高",
+      "onboard_time": 1751701042,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 87764,
       "num": 128543,
       "word": "关于白厄你是否也想了解更多",
@@ -13209,6 +13241,14 @@
       "onboard_time": 1751684062,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 86214,
+      "num": 86214,
+      "word": "一个月能掉多少头发",
+      "onboard_time": 1751700741,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 86171,
@@ -13401,6 +13441,14 @@
       "onboard_time": 1751585359,
       "rank": 37,
       "category": "体育,军事"
+    },
+    {
+      "raw_hot": 81823,
+      "num": 131141,
+      "word": "卢昱晓分享减肥心态",
+      "onboard_time": 1751700861,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 81613,
