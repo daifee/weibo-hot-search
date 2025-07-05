@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751733022416,
+  "endTime": 1751733972441,
   "band_list": [
     {
       "raw_hot": 2706470,
@@ -51,8 +51,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 442731,
-      "num": 442731,
+      "raw_hot": 452730,
+      "num": 452730,
       "word": "杭州东站卧轨事件目击者发声",
       "onboard_time": 1751731042,
       "rank": 4,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 356903,
-      "num": 147356,
+      "num": 157494,
       "word": "12岁幼女家中遭强奸妈妈第二天才发现",
       "onboard_time": 1751701881,
       "rank": 20,
@@ -124,11 +124,19 @@
     },
     {
       "raw_hot": 248925,
-      "num": 143176,
+      "num": 156555,
       "word": "郭旭蔡昆廷结婚",
       "onboard_time": 1751720663,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 248652,
+      "num": 250666,
+      "word": "龙树谅称日本末日预言不是她写的",
+      "onboard_time": 1751732482,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 236008,
@@ -137,6 +145,14 @@
       "onboard_time": 1751730744,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 211429,
+      "num": 211429,
+      "word": "jump",
+      "onboard_time": 1751733262,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 180141,
@@ -163,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160843,
+      "num": 160843,
+      "word": "美团外卖用户下单量突破历史峰值",
+      "onboard_time": 1751731224,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 137109,
       "num": 137109,
       "word": "日本预言家自曝只画了插画",
@@ -179,19 +203,19 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 132331,
+      "num": 132331,
+      "word": "全员加速中",
+      "onboard_time": 1751730505,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130143,
       "num": 130143,
       "word": "内娱艺人开始看观众脸色了",
       "onboard_time": 1751725344,
       "rank": 24,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 127269,
-      "num": 127269,
-      "word": "全员加速中",
-      "onboard_time": 1751730505,
-      "rank": 25,
       "category": "综艺"
     },
     {
@@ -220,7 +244,7 @@
     },
     {
       "raw_hot": 110392,
-      "num": 104283,
+      "num": 106983,
       "word": "日本西南群岛地震",
       "onboard_time": 1751708603,
       "rank": 31,
@@ -275,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93023,
+      "num": 93023,
+      "word": "等风热吻你",
+      "onboard_time": 1751716762,
+      "rank": 37,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 92606,
       "num": 92606,
       "word": "Jennie完全是震撼女人",
@@ -283,16 +315,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 89942,
-      "num": 89942,
-      "word": "等风热吻你",
-      "onboard_time": 1751716762,
-      "rank": 37,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 88586,
-      "num": 88586,
+      "num": 211968,
       "word": "养螳螂当宠物被邻居当成蟑螂喷杀虫剂",
       "onboard_time": 1751729844,
       "rank": 38,
@@ -300,7 +324,7 @@
     },
     {
       "raw_hot": 87565,
-      "num": 87565,
+      "num": 104885,
       "word": "余承恩晒加速王奖牌",
       "onboard_time": 1751730565,
       "rank": 39,
@@ -347,12 +371,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 76080,
-      "num": 250666,
-      "word": "龙树谅称日本末日预言不是她写的",
-      "onboard_time": 1751732482,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 75725,
+      "num": 151188,
+      "word": "狗头萝莉回应精致摆摊被骂作秀",
+      "onboard_time": 1751731884,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 74322,
@@ -361,14 +385,6 @@
       "onboard_time": 1751726004,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 73251,
-      "num": 80554,
-      "word": "美团外卖用户下单量突破历史峰值",
-      "onboard_time": 1751731224,
-      "rank": 47,
-      "category": "互联网"
     },
     {
       "raw_hot": 72397,
@@ -387,12 +403,28 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 54930,
-      "num": 151188,
-      "word": "狗头萝莉回应精致摆摊被骂作秀",
-      "onboard_time": 1751731884,
-      "rank": 19,
+      "raw_hot": 69553,
+      "num": 69553,
+      "word": "狗头萝莉员工月薪已涨到六七千",
+      "onboard_time": 1751721023,
+      "rank": 46,
       "category": "网红"
+    },
+    {
+      "raw_hot": 66187,
+      "num": 69551,
+      "word": "胡楚靓回应连续十年踩中风口",
+      "onboard_time": 1751721264,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 61227,
+      "num": 69532,
+      "word": "谁懂刘宇这段吟唱有多绝",
+      "onboard_time": 1751733920,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 44563,
