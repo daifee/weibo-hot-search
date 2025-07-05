@@ -1,6 +1,6 @@
 {
   "startTime": 1751646733900,
-  "endTime": 1751688089686,
+  "endTime": 1751690005634,
   "band_list": [
     {
       "raw_hot": 2497507,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1870807,
-      "num": 281836,
+      "num": 349618,
       "word": "武汉跳楼妈妈",
       "onboard_time": 1751687781,
       "rank": 10,
@@ -33,6 +33,14 @@
       "onboard_time": 1751685381,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1394360,
+      "num": 1394360,
+      "word": "易烊千玺演唱会上海站官宣",
+      "onboard_time": 1751687781,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 1330614,
@@ -99,14 +107,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 815808,
-      "num": 461123,
-      "word": "易烊千玺演唱会上海站官宣",
-      "onboard_time": 1751687781,
-      "rank": 3,
-      "category": "演出"
-    },
-    {
       "raw_hot": 759802,
       "num": 759802,
       "word": "上海一面馆被曝将剩面二次上桌",
@@ -121,6 +121,14 @@
       "onboard_time": 1751644941,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 685800,
+      "num": 384675,
+      "word": "易烊千玺回应礐嶨不会读",
+      "onboard_time": 1751688922,
+      "rank": 5,
+      "category": "演出"
     },
     {
       "raw_hot": 665225,
@@ -155,7 +163,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 508346,
+      "raw_hot": 528760,
       "num": 435088,
       "word": "特朗普透露马斯克吸毒",
       "onboard_time": 1751682441,
@@ -235,6 +243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 407317,
+      "num": 407317,
+      "word": "闪婚后车祸去世女子丈夫回应骗保指责",
+      "onboard_time": 1751686401,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 400020,
       "num": 400020,
       "word": "父亲女儿均患癌39岁男子掩面痛哭",
@@ -251,6 +267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 370211,
+      "num": 370211,
+      "word": "田栩宁古装路透",
+      "onboard_time": 1751688081,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 359168,
       "num": 232617,
       "word": "日本末世预言剩1天",
@@ -265,6 +289,14 @@
       "onboard_time": 1751681483,
       "rank": 15,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 344484,
+      "num": 344484,
+      "word": "张靓颖退赛可以但要给钱",
+      "onboard_time": 1751688563,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 336728,
@@ -305,6 +337,14 @@
       "onboard_time": 1751641107,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 309048,
+      "num": 309048,
+      "word": "武汉鸽子中暑",
+      "onboard_time": 1751686280,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 297159,
@@ -355,12 +395,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 284167,
+      "num": 113251,
+      "word": "两女生误会被偷拍疯狂道歉",
+      "onboard_time": 1751688323,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 277640,
       "num": 277640,
       "word": "天官赐福全新动画内容",
       "onboard_time": 1751687962,
       "rank": 15,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 276832,
+      "num": 276832,
+      "word": "时代少年团大连抢票",
+      "onboard_time": 1751687302,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 272934,
@@ -385,14 +441,6 @@
       "onboard_time": 1751673381,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 260579,
-      "num": 260579,
-      "word": "闪婚后车祸去世女子丈夫回应骗保指责",
-      "onboard_time": 1751686401,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 254274,
@@ -451,20 +499,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219495,
+      "num": 145363,
+      "word": "母亲人工流产四次生下患病婴儿",
+      "onboard_time": 1751688563,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218649,
       "num": 210671,
       "word": "日本华人就末世预言发声",
       "onboard_time": 1751621542,
       "rank": 21,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 217779,
-      "num": 217779,
-      "word": "武汉鸽子中暑",
-      "onboard_time": 1751686280,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 215088,
@@ -515,12 +563,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 196100,
-      "num": 196100,
-      "word": "时代少年团大连抢票",
-      "onboard_time": 1751687302,
-      "rank": 25,
-      "category": "演出"
+      "raw_hot": 196281,
+      "num": 144008,
+      "word": "洪亮这把快刀18年未生锈",
+      "onboard_time": 1751688081,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 185658,
@@ -529,6 +577,14 @@
       "onboard_time": 1751643504,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 182019,
+      "num": 142146,
+      "word": "沈梦辰在演一种很新的贵妃",
+      "onboard_time": 1751688201,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 177370,
@@ -569,6 +625,22 @@
       "onboard_time": 1751683943,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 174450,
+      "num": 283158,
+      "word": "闷热闷热闷热我闷热闷热闷热",
+      "onboard_time": 1751686882,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172291,
+      "num": 172291,
+      "word": "孙俪和等等的睡前聊天",
+      "onboard_time": 1751688623,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 169030,
@@ -643,6 +715,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152044,
+      "num": 144831,
+      "word": "喻言绝美公主提裙",
+      "onboard_time": 1751688323,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 150990,
+      "num": 140733,
+      "word": "虞书欣再见了花花今晚我就要远航",
+      "onboard_time": 1751688862,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149534,
       "num": 133695,
       "word": "大学生购买10粒迷奸药获刑10个月",
@@ -659,8 +747,16 @@
       "category": "民生新闻,旅游"
     },
     {
+      "raw_hot": 147766,
+      "num": 140129,
+      "word": "老公是妈宝男这日子你就过吧",
+      "onboard_time": 1751689522,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147003,
-      "num": 147003,
+      "num": 350806,
       "word": "白宫驳斥作家称特朗普放风马斯克吸毒",
       "onboard_time": 1751687722,
       "rank": 32,
@@ -707,6 +803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132190,
+      "num": 132190,
+      "word": "成都暴雨航拍都江堰再现奇观",
+      "onboard_time": 1751689223,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128201,
       "num": 128201,
       "word": "薄巧美甲",
@@ -721,6 +825,14 @@
       "onboard_time": 1751684843,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 126513,
+      "num": 126513,
+      "word": "两架B2轰炸机飞越白宫",
+      "onboard_time": 1751688142,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 126457,
@@ -755,6 +867,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 122693,
+      "num": 122693,
+      "word": "人工智障虐待人工智能",
+      "onboard_time": 1751688742,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122483,
       "num": 122483,
       "word": "孙颖莎王曼昱时隔18个月后携手双打",
@@ -769,6 +889,14 @@
       "onboard_time": 1751677221,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121281,
+      "num": 121281,
+      "word": "陈晓待播剧爽感",
+      "onboard_time": 1751688682,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 120181,
@@ -811,20 +939,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 115866,
-      "num": 283158,
-      "word": "闷热闷热闷热我闷热闷热闷热",
-      "onboard_time": 1751686882,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 113122,
       "num": 113122,
       "word": "普京说全世界都想进入中国市场",
       "onboard_time": 1751675901,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 112624,
+      "num": 112624,
+      "word": "以法之名骡马假日",
+      "onboard_time": 1751689822,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 112364,
@@ -841,6 +969,14 @@
       "onboard_time": 1751672539,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109560,
+      "num": 109560,
+      "word": "起猛了labubu都在短剧站岗了",
+      "onboard_time": 1751688142,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 108931,
@@ -915,6 +1051,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 103713,
+      "num": 109521,
+      "word": "机长坠亡疑因能力排查不合格",
+      "onboard_time": 1751689643,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100627,
       "num": 264437,
       "word": "网友晒离谱超速罚单每小时17052km",
@@ -961,6 +1105,14 @@
       "onboard_time": 1751685202,
       "rank": 40,
       "category": "网红"
+    },
+    {
+      "raw_hot": 95918,
+      "num": 109415,
+      "word": "孙颖莎又贡献表情包了",
+      "onboard_time": 1751689942,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 94812,
@@ -1137,6 +1289,22 @@
       "onboard_time": 1751670078,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 72797,
+      "num": 140934,
+      "word": "马斯克呼吁公布爱泼斯坦文件",
+      "onboard_time": 1751675960,
+      "rank": 26,
+      "category": "民生新闻,国际时政"
+    },
+    {
+      "raw_hot": 68448,
+      "num": 139263,
+      "word": "鹿晗演唱会无处不在的惊喜",
+      "onboard_time": 1751686642,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 67991,
@@ -1337,11 +1505,22 @@
       "onboard_time": 1751668517,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 13773,
+      "num": 109767,
+      "word": "王艺迪蒯曼首轮轮空",
+      "onboard_time": 1751688201,
+      "rank": 45,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
     {
       "word": "#厦门发展战略启示#"
+    },
+    {
+      "word": "#30多年前的这份战略规划带来的启示#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1751690005634,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1394360,
+        "num": 1394360,
+        "word": "易烊千玺演唱会上海站官宣",
+        "onboard_time": 1751687781,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 701902,
+        "num": 701902,
+        "word": "日本无事发生",
+        "onboard_time": 1751671879,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 33022,
+        "num": 446054,
+        "word": "高温闷热天气防中暑指南",
+        "onboard_time": 1751639304,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 407317,
+        "num": 407317,
+        "word": "闪婚后车祸去世女子丈夫回应骗保指责",
+        "onboard_time": 1751686401,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 387991,
+        "num": 387991,
+        "word": "日本地震预言致外国游客取消行程",
+        "onboard_time": 1751680642,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 685800,
+        "num": 384675,
+        "word": "易烊千玺回应礐嶨不会读",
+        "onboard_time": 1751688922,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 406903,
+        "num": 379830,
+        "word": "梅婷恶意原型是武汉跳楼妈妈",
+        "onboard_time": 1751683943,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 528760,
+        "num": 375775,
+        "word": "特朗普透露马斯克吸毒",
+        "onboard_time": 1751682441,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 370211,
+        "num": 370211,
+        "word": "田栩宁古装路透",
+        "onboard_time": 1751688081,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78214,
+        "num": 350806,
+        "word": "白宫驳斥作家称特朗普放风马斯克吸毒",
+        "onboard_time": 1751687722,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1775163,
+        "num": 349618,
+        "word": "武汉跳楼妈妈",
+        "onboard_time": 1751687781,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 344484,
+        "num": 344484,
+        "word": "张靓颖退赛可以但要给钱",
+        "onboard_time": 1751688563,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309048,
+        "num": 309048,
+        "word": "武汉鸽子中暑",
+        "onboard_time": 1751686280,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294344,
+        "num": 294344,
+        "word": "崔然竣 家人离世",
+        "onboard_time": 1751684242,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276832,
+        "num": 276832,
+        "word": "时代少年团大连抢票",
+        "onboard_time": 1751687302,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 275706,
+        "num": 275706,
+        "word": "王源求婚转场",
+        "onboard_time": 1751676441,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237691,
+        "num": 237691,
+        "word": "女子3万8卖掉自己的孩子用于打赏主播",
+        "onboard_time": 1751676081,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174450,
+        "num": 174450,
+        "word": "闷热闷热闷热我闷热闷热闷热",
+        "onboard_time": 1751686882,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172291,
+        "num": 172291,
+        "word": "孙俪和等等的睡前聊天",
+        "onboard_time": 1751688623,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145498,
+        "num": 145498,
+        "word": "日本官方称地震预言纯属骗局",
+        "onboard_time": 1751679681,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 219495,
+        "num": 145363,
+        "word": "母亲人工流产四次生下患病婴儿",
+        "onboard_time": 1751688563,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152044,
+        "num": 144831,
+        "word": "喻言绝美公主提裙",
+        "onboard_time": 1751688323,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196281,
+        "num": 144008,
+        "word": "洪亮这把快刀18年未生锈",
+        "onboard_time": 1751688081,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208147,
+        "num": 143429,
+        "word": "这就是为什么不建议喝瓶装水",
+        "onboard_time": 1751683883,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 196181,
+        "num": 142375,
+        "word": "黄多多孙莉去拍了aespa人生四格",
+        "onboard_time": 1751679380,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182019,
+        "num": 142146,
+        "word": "沈梦辰在演一种很新的贵妃",
+        "onboard_time": 1751688201,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72797,
+        "num": 140934,
+        "word": "马斯克呼吁公布爱泼斯坦文件",
+        "onboard_time": 1751675960,
+        "rank": 26,
+        "category": "民生新闻,国际时政"
+      },
+      {
+        "raw_hot": 150990,
+        "num": 140733,
+        "word": "虞书欣再见了花花今晚我就要远航",
+        "onboard_time": 1751688862,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147766,
+        "num": 140129,
+        "word": "老公是妈宝男这日子你就过吧",
+        "onboard_time": 1751689522,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68448,
+        "num": 139263,
+        "word": "鹿晗演唱会无处不在的惊喜",
+        "onboard_time": 1751686642,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138866,
+        "num": 138866,
+        "word": "67岁丈夫出轨50岁闺蜜妻子怒告二人",
+        "onboard_time": 1751647162,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132190,
+        "num": 132190,
+        "word": "成都暴雨航拍都江堰再现奇观",
+        "onboard_time": 1751689223,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130479,
+        "num": 130479,
+        "word": "GEN战胜AL",
+        "onboard_time": 1751683161,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128499,
+        "num": 128499,
+        "word": "陈赫喂张子萱吃东西",
+        "onboard_time": 1751680762,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127505,
+        "num": 127505,
+        "word": "制片人评于正内涵任嘉伦",
+        "onboard_time": 1751679681,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127341,
+        "num": 127341,
+        "word": "天官赐福全新动画内容",
+        "onboard_time": 1751687962,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 126513,
+        "num": 126513,
+        "word": "两架B2轰炸机飞越白宫",
+        "onboard_time": 1751688142,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122693,
+        "num": 122693,
+        "word": "人工智障虐待人工智能",
+        "onboard_time": 1751688742,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122688,
+        "num": 122688,
+        "word": "梓渝早期粉也吃太好了",
+        "onboard_time": 1751685381,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121281,
+        "num": 121281,
+        "word": "陈晓待播剧爽感",
+        "onboard_time": 1751688682,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115476,
+        "num": 115476,
+        "word": "怪不得赵晓卉没空参加脱口秀",
+        "onboard_time": 1751681781,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1036040,
+        "num": 114798,
+        "word": "12岁女童家中遭21岁网友性侵",
+        "onboard_time": 1751685082,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113631,
+        "num": 113631,
+        "word": "陈震曝领克被泄密",
+        "onboard_time": 1751687842,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 284167,
+        "num": 113251,
+        "word": "两女生误会被偷拍疯狂道歉",
+        "onboard_time": 1751688323,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112624,
+        "num": 112624,
+        "word": "以法之名骡马假日",
+        "onboard_time": 1751689822,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13773,
+        "num": 109767,
+        "word": "王艺迪蒯曼首轮轮空",
+        "onboard_time": 1751688201,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109594,
+        "num": 109594,
+        "word": "日本南海海槽",
+        "onboard_time": 1751681483,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 109560,
+        "num": 109560,
+        "word": "起猛了labubu都在短剧站岗了",
+        "onboard_time": 1751688142,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103713,
+        "num": 109521,
+        "word": "机长坠亡疑因能力排查不合格",
+        "onboard_time": 1751689643,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95918,
+        "num": 109415,
+        "word": "孙颖莎又贡献表情包了",
+        "onboard_time": 1751689942,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#30多年前的这份战略规划带来的启示#"
+    }
+  }
+}
