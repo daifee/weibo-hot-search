@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751748067847,
+  "endTime": 1751750670778,
   "band_list": [
     {
       "raw_hot": 2706470,
@@ -515,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39226,
+      "num": 39226,
+      "word": "该不该砸窗不妨多问问现场乘客感受",
+      "onboard_time": 1751747534,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34971,
       "num": 37835,
       "word": "21岁机车少年意外离世父亲发文悼念",
@@ -585,14 +593,6 @@
       "onboard_time": 1751744715,
       "rank": 29,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 10469,
-      "num": 29761,
-      "word": "该不该砸窗不妨多问问现场乘客感受",
-      "onboard_time": 1751747534,
-      "rank": 20,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
