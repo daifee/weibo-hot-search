@@ -1,6 +1,6 @@
 {
   "startTime": 1751646733900,
-  "endTime": 1751690005634,
+  "endTime": 1751690939259,
   "band_list": [
     {
       "raw_hot": 2497507,
@@ -67,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1149789,
+      "num": 1183966,
+      "word": "易烊千玺回应礐嶨不会读",
+      "onboard_time": 1751688922,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1105862,
       "num": 237338,
       "word": "日本末世预言剩1天有人撤离",
@@ -123,14 +131,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 685800,
-      "num": 384675,
-      "word": "易烊千玺回应礐嶨不会读",
-      "onboard_time": 1751688922,
-      "rank": 5,
-      "category": "演出"
-    },
-    {
       "raw_hot": 665225,
       "num": 354353,
       "word": "油腻风的孕妇照",
@@ -177,6 +177,14 @@
       "onboard_time": 1751632946,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 473835,
+      "num": 473835,
+      "word": "闪婚后车祸去世女子丈夫回应骗保指责",
+      "onboard_time": 1751686401,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 465913,
@@ -243,19 +251,27 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 407317,
-      "num": 407317,
-      "word": "闪婚后车祸去世女子丈夫回应骗保指责",
-      "onboard_time": 1751686401,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 400020,
       "num": 400020,
       "word": "父亲女儿均患癌39岁男子掩面痛哭",
       "onboard_time": 1751639245,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 392941,
+      "num": 392941,
+      "word": "田栩宁古装路透",
+      "onboard_time": 1751688081,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 384431,
+      "num": 485184,
+      "word": "武汉鸽子中暑",
+      "onboard_time": 1751686280,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -267,12 +283,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 370211,
-      "num": 370211,
-      "word": "田栩宁古装路透",
-      "onboard_time": 1751688081,
-      "rank": 8,
-      "category": "剧集"
+      "raw_hot": 365231,
+      "num": 365231,
+      "word": "张靓颖退赛可以但要给钱",
+      "onboard_time": 1751688563,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 359168,
@@ -289,14 +305,6 @@
       "onboard_time": 1751681483,
       "rank": 15,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 344484,
-      "num": 344484,
-      "word": "张靓颖退赛可以但要给钱",
-      "onboard_time": 1751688563,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 336728,
@@ -337,14 +345,6 @@
       "onboard_time": 1751641107,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 309048,
-      "num": 309048,
-      "word": "武汉鸽子中暑",
-      "onboard_time": 1751686280,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 297159,
@@ -500,7 +500,7 @@
     },
     {
       "raw_hot": 219495,
-      "num": 145363,
+      "num": 152523,
       "word": "母亲人工流产四次生下患病婴儿",
       "onboard_time": 1751688563,
       "rank": 20,
@@ -580,11 +580,19 @@
     },
     {
       "raw_hot": 182019,
-      "num": 142146,
+      "num": 151927,
       "word": "沈梦辰在演一种很新的贵妃",
       "onboard_time": 1751688201,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180055,
+      "num": 180055,
+      "word": "成都暴雨航拍都江堰再现奇观",
+      "onboard_time": 1751689223,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177370,
@@ -651,6 +659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167709,
+      "num": 167709,
+      "word": "喻言绝美公主提裙",
+      "onboard_time": 1751688323,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165399,
       "num": 165399,
       "word": "单依纯 换歌",
@@ -715,20 +731,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 152044,
-      "num": 144831,
-      "word": "喻言绝美公主提裙",
-      "onboard_time": 1751688323,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 150990,
       "num": 140733,
       "word": "虞书欣再见了花花今晚我就要远航",
       "onboard_time": 1751688862,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150207,
+      "num": 150207,
+      "word": "老公是妈宝男这日子你就过吧",
+      "onboard_time": 1751689522,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 149534,
@@ -745,14 +761,6 @@
       "onboard_time": 1751644883,
       "rank": 30,
       "category": "民生新闻,旅游"
-    },
-    {
-      "raw_hot": 147766,
-      "num": 140129,
-      "word": "老公是妈宝男这日子你就过吧",
-      "onboard_time": 1751689522,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 147003,
@@ -779,12 +787,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141866,
+      "num": 141866,
+      "word": "皓衣行",
+      "onboard_time": 1751690001,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139777,
       "num": 139777,
       "word": "披荆斩棘5淘汰",
       "onboard_time": 1751636126,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139522,
+      "num": 154940,
+      "word": "吴艳妮晒暴击流穿搭",
+      "onboard_time": 1751690181,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 137348,
@@ -801,14 +825,6 @@
       "onboard_time": 1751675601,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 132190,
-      "num": 132190,
-      "word": "成都暴雨航拍都江堰再现奇观",
-      "onboard_time": 1751689223,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128201,
@@ -828,7 +844,7 @@
     },
     {
       "raw_hot": 126513,
-      "num": 126513,
+      "num": 290627,
       "word": "两架B2轰炸机飞越白宫",
       "onboard_time": 1751688142,
       "rank": 36,
@@ -851,6 +867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124598,
+      "num": 124598,
+      "word": "人工智障虐待人工智能",
+      "onboard_time": 1751688742,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 123659,
       "num": 123659,
       "word": "韩安冉展示小女儿伤口",
@@ -865,14 +889,6 @@
       "onboard_time": 1751631624,
       "rank": 36,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 122693,
-      "num": 122693,
-      "word": "人工智障虐待人工智能",
-      "onboard_time": 1751688742,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 122483,
@@ -921,6 +937,14 @@
       "onboard_time": 1751687482,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119596,
+      "num": 119596,
+      "word": "Tabe 阵容",
+      "onboard_time": 1751690422,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 118346,
@@ -1059,6 +1083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103302,
+      "num": 103302,
+      "word": "当单依纯看到自己老板上歌手",
+      "onboard_time": 1751690782,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100627,
       "num": 264437,
       "word": "网友晒离谱超速罚单每小时17052km",
@@ -1089,6 +1121,14 @@
       "onboard_time": 1751682862,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96542,
+      "num": 96542,
+      "word": "GEN晋级MSI胜决",
+      "onboard_time": 1751690602,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 96204,
@@ -1169,6 +1209,14 @@
       "onboard_time": 1751628923,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 91020,
+      "num": 122978,
+      "word": "书卷一梦一方有乱八百方添堵",
+      "onboard_time": 1751690544,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 90312,
@@ -1419,6 +1467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 29474,
+      "num": 588712,
+      "word": "以身许国是他们最深情的告白",
+      "onboard_time": 1751690063,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 28441,
       "num": 34929,
       "word": "印度计划对美征收报复性关税",
@@ -1497,6 +1553,14 @@
       "onboard_time": 1751657775,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 16225,
+      "num": 122749,
+      "word": "俄乌和谈还有戏吗",
+      "onboard_time": 1751690483,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 15292,

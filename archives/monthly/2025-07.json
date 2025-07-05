@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751690005634,
+  "endTime": 1751690939259,
   "band_list": [
     {
       "raw_hot": 6390116,
@@ -457,6 +457,14 @@
       "onboard_time": 1751431643,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1149789,
+      "num": 1183966,
+      "word": "易烊千玺回应礐嶨不会读",
+      "onboard_time": 1751688922,
+      "rank": 5,
+      "category": "演出"
     },
     {
       "raw_hot": 1124936,
@@ -1379,14 +1387,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 685800,
-      "num": 384675,
-      "word": "易烊千玺回应礐嶨不会读",
-      "onboard_time": 1751688922,
-      "rank": 5,
-      "category": "演出"
-    },
-    {
       "raw_hot": 685559,
       "num": 396015,
       "word": "于正说再蛐蛐我就把截图放上来",
@@ -2267,6 +2267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 473835,
+      "num": 473835,
+      "word": "闪婚后车祸去世女子丈夫回应骗保指责",
+      "onboard_time": 1751686401,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 471981,
       "num": 471981,
       "word": "原来周雨彤和鹿晗演过戏",
@@ -2731,14 +2739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 407317,
-      "num": 407317,
-      "word": "闪婚后车祸去世女子丈夫回应骗保指责",
-      "onboard_time": 1751686401,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 405223,
       "num": 315660,
       "word": "心疼格格",
@@ -2784,6 +2784,14 @@
       "word": "杨紫演出小说文字般的画面",
       "onboard_time": 1751439020,
       "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 392941,
+      "num": 392941,
+      "word": "田栩宁古装路透",
+      "onboard_time": 1751688081,
+      "rank": 8,
       "category": "剧集"
     },
     {
@@ -2849,6 +2857,14 @@
       "onboard_time": 1751592141,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 384431,
+      "num": 485184,
+      "word": "武汉鸽子中暑",
+      "onboard_time": 1751686280,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 381688,
@@ -2931,14 +2947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 370211,
-      "num": 370211,
-      "word": "田栩宁古装路透",
-      "onboard_time": 1751688081,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 369074,
       "num": 266245,
       "word": "张一山的字好帅",
@@ -2977,6 +2985,14 @@
       "onboard_time": 1751505263,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 365231,
+      "num": 365231,
+      "word": "张靓颖退赛可以但要给钱",
+      "onboard_time": 1751688563,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 365121,
@@ -3176,14 +3192,6 @@
       "word": "金靖走心发言把刘宇宁感动哭了",
       "onboard_time": 1751553684,
       "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 344484,
-      "num": 344484,
-      "word": "张靓颖退赛可以但要给钱",
-      "onboard_time": 1751688563,
-      "rank": 11,
       "category": "综艺"
     },
     {
@@ -3632,14 +3640,6 @@
       "word": "30岁女子半年多次服紧急避孕药致脑梗",
       "onboard_time": 1751371042,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 309048,
-      "num": 309048,
-      "word": "武汉鸽子中暑",
-      "onboard_time": 1751686280,
-      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -5044,7 +5044,7 @@
     },
     {
       "raw_hot": 219495,
-      "num": 145363,
+      "num": 152523,
       "word": "母亲人工流产四次生下患病婴儿",
       "onboard_time": 1751688563,
       "rank": 20,
@@ -6500,7 +6500,7 @@
     },
     {
       "raw_hot": 182019,
-      "num": 142146,
+      "num": 151927,
       "word": "沈梦辰在演一种很新的贵妃",
       "onboard_time": 1751688201,
       "rank": 25,
@@ -6593,6 +6593,14 @@
       "onboard_time": 1751429122,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 180055,
+      "num": 180055,
+      "word": "成都暴雨航拍都江堰再现奇观",
+      "onboard_time": 1751689223,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179886,
@@ -7201,6 +7209,14 @@
       "onboard_time": 1751601205,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167709,
+      "num": 167709,
+      "word": "喻言绝美公主提裙",
+      "onboard_time": 1751688323,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 167674,
@@ -8107,14 +8123,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 152044,
-      "num": 144831,
-      "word": "喻言绝美公主提裙",
-      "onboard_time": 1751688323,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 151944,
       "num": 378558,
       "word": "江苏河南等地高温健康风险极高",
@@ -8185,6 +8193,14 @@
       "onboard_time": 1751595201,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 150207,
+      "num": 150207,
+      "word": "老公是妈宝男这日子你就过吧",
+      "onboard_time": 1751689522,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 150184,
@@ -8321,14 +8337,6 @@
       "onboard_time": 1751343502,
       "rank": 45,
       "category": "民生新闻,幽默"
-    },
-    {
-      "raw_hot": 147766,
-      "num": 140129,
-      "word": "老公是妈宝男这日子你就过吧",
-      "onboard_time": 1751689522,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 147748,
@@ -8833,6 +8841,14 @@
       "onboard_time": 1751444242,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 139522,
+      "num": 154940,
+      "word": "吴艳妮晒暴击流穿搭",
+      "onboard_time": 1751690181,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 139437,
@@ -9395,14 +9411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132190,
-      "num": 132190,
-      "word": "成都暴雨航拍都江堰再现奇观",
-      "onboard_time": 1751689223,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 132149,
       "num": 209902,
       "word": "朝雪录每对异性恋都很美味",
@@ -9916,7 +9924,7 @@
     },
     {
       "raw_hot": 126513,
-      "num": 126513,
+      "num": 290627,
       "word": "两架B2轰炸机飞越白宫",
       "onboard_time": 1751688142,
       "rank": 36,
@@ -10065,6 +10073,14 @@
       "onboard_time": 1751433023,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124598,
+      "num": 124598,
+      "word": "人工智障虐待人工智能",
+      "onboard_time": 1751688742,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 124394,
@@ -10217,14 +10233,6 @@
       "onboard_time": 1751363361,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 122693,
-      "num": 122693,
-      "word": "人工智障虐待人工智能",
-      "onboard_time": 1751688742,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 122496,
@@ -10473,6 +10481,14 @@
       "onboard_time": 1751366722,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 119596,
+      "num": 119596,
+      "word": "Tabe 阵容",
+      "onboard_time": 1751690422,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 119451,
@@ -11811,6 +11827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103302,
+      "num": 103302,
+      "word": "当单依纯看到自己老板上歌手",
+      "onboard_time": 1751690782,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103216,
       "num": 103216,
       "word": "再老实的人上了歌手也会发疯",
@@ -12155,6 +12179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96542,
+      "num": 96542,
+      "word": "GEN晋级MSI胜决",
+      "onboard_time": 1751690602,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 96526,
       "num": 132336,
       "word": "樊振东解说自己打球",
@@ -12417,6 +12449,14 @@
       "onboard_time": 1751559439,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 91020,
+      "num": 122978,
+      "word": "书卷一梦一方有乱八百方添堵",
+      "onboard_time": 1751690544,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 90908,
@@ -14875,6 +14915,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 29474,
+      "num": 588712,
+      "word": "以身许国是他们最深情的告白",
+      "onboard_time": 1751690063,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 29454,
       "num": 173763,
       "word": "公交站座椅为3D广告让位引发热议",
@@ -15545,6 +15593,14 @@
       "onboard_time": 1751461162,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 16225,
+      "num": 122749,
+      "word": "俄乌和谈还有戏吗",
+      "onboard_time": 1751690483,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 16119,
