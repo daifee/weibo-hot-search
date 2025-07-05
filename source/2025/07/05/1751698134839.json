@@ -1,0 +1,410 @@
+{
+  "runTime": 1751698134839,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1514321,
+        "num": 1514321,
+        "word": "K1373没达到破窗应急预案紧急程度",
+        "onboard_time": 1751691681,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1110983,
+        "num": 1110983,
+        "word": "易烊千玺回应礐嶨不会读",
+        "onboard_time": 1751688922,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 40073,
+        "num": 909500,
+        "word": "以身许国是他们最深情的告白",
+        "onboard_time": 1751690063,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 852118,
+        "num": 852118,
+        "word": "韩男子与两伴侣生子后发现均非亲生",
+        "onboard_time": 1751695101,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 726416,
+        "num": 726416,
+        "word": "K1373次列车亲历者称当时已有人中暑",
+        "onboard_time": 1751692881,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 556083,
+        "num": 556083,
+        "word": "恶意",
+        "onboard_time": 1751694201,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 298734,
+        "num": 298734,
+        "word": "BLACKPINK高阳演唱会单人海报",
+        "onboard_time": 1751692822,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 280916,
+        "num": 280916,
+        "word": "吴艳妮晒暴击流穿搭",
+        "onboard_time": 1751690181,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 270398,
+        "num": 270398,
+        "word": "K1373砸窗男子被批评教育",
+        "onboard_time": 1751696780,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152666,
+        "num": 267703,
+        "word": "南海海槽几乎每百年发生一次大地震",
+        "onboard_time": 1751697021,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1383054,
+        "num": 264047,
+        "word": "武汉跳楼妈妈",
+        "onboard_time": 1751687781,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 340064,
+        "num": 262690,
+        "word": "苗苗晒的是大宝小时候",
+        "onboard_time": 1751693902,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279238,
+        "num": 258514,
+        "word": "男子钓鱼触电致4千斤鱼被电死",
+        "onboard_time": 1751696902,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256841,
+        "num": 256841,
+        "word": "日本无事发生",
+        "onboard_time": 1751671879,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 227335,
+        "num": 227335,
+        "word": "日本地震预言致外国游客取消行程",
+        "onboard_time": 1751680642,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 226734,
+        "num": 226734,
+        "word": "易烊千玺演唱会上海站官宣",
+        "onboard_time": 1751687781,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 213336,
+        "num": 213336,
+        "word": "母亲人工流产四次生下患病婴儿",
+        "onboard_time": 1751688563,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202532,
+        "num": 202532,
+        "word": "肖战脱西装路透",
+        "onboard_time": 1751697560,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194626,
+        "num": 194626,
+        "word": "成都暴雨航拍都江堰再现奇观",
+        "onboard_time": 1751689223,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177301,
+        "num": 177301,
+        "word": "女子在家刷手机被闪电击中到失忆",
+        "onboard_time": 1751695101,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 170163,
+        "num": 170163,
+        "word": "官方通报男子列车上砸窗通风",
+        "onboard_time": 1751691081,
+        "rank": 20,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 169706,
+        "num": 169706,
+        "word": "田栩宁古装路透",
+        "onboard_time": 1751688081,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163257,
+        "num": 163257,
+        "word": "沈月不语只是一味的画下颚线",
+        "onboard_time": 1751696662,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155258,
+        "num": 155258,
+        "word": "女子3万8卖掉自己的孩子用于打赏主播",
+        "onboard_time": 1751676081,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151549,
+        "num": 151549,
+        "word": "这就是为什么不建议喝瓶装水",
+        "onboard_time": 1751683883,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150979,
+        "num": 150979,
+        "word": "武汉鸽子中暑",
+        "onboard_time": 1751686280,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143501,
+        "num": 143501,
+        "word": "张靓颖退赛可以但要给钱",
+        "onboard_time": 1751688563,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126738,
+        "num": 126738,
+        "word": "世界乱成一锅粥东亚凭啥稳如狗",
+        "onboard_time": 1751692822,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124990,
+        "num": 124990,
+        "word": "黄多多孙莉去拍了aespa人生四格",
+        "onboard_time": 1751679380,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123287,
+        "num": 123287,
+        "word": "1人干3人工作员工拒绝被开除",
+        "onboard_time": 1751692881,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219541,
+        "num": 122494,
+        "word": "泰星Janie出家",
+        "onboard_time": 1751697500,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136939,
+        "num": 121934,
+        "word": "李佳薇称被曝出做房产中介后很绝望",
+        "onboard_time": 1751697681,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119389,
+        "num": 119389,
+        "word": "大学生侵入官网窃取试卷被开除",
+        "onboard_time": 1751695820,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118540,
+        "num": 118540,
+        "word": "久坐的人要好好养屁股",
+        "onboard_time": 1751694623,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 118229,
+        "num": 118229,
+        "word": "梅婷恶意原型是武汉跳楼妈妈",
+        "onboard_time": 1751683943,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116104,
+        "num": 116104,
+        "word": "沈腾马丽小学生吵架",
+        "onboard_time": 1751697681,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113096,
+        "num": 113096,
+        "word": "王源求婚转场",
+        "onboard_time": 1751676441,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111958,
+        "num": 111958,
+        "word": "撒贝宁不能体面的老去了",
+        "onboard_time": 1751693181,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110063,
+        "num": 110063,
+        "word": "第4号台风丹娜丝生成",
+        "onboard_time": 1751692822,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66313,
+        "num": 108568,
+        "word": "海产姐妹开心上训",
+        "onboard_time": 1751697021,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107153,
+        "num": 107153,
+        "word": "猫咪看主人和看狗时的眼神变化",
+        "onboard_time": 1751695941,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106153,
+        "num": 106153,
+        "word": "苏超南京队球衣销量最高",
+        "onboard_time": 1751696721,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105265,
+        "num": 105265,
+        "word": "人工智障虐待人工智能",
+        "onboard_time": 1751688742,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103663,
+        "num": 103663,
+        "word": "胡先煦谁来为我发声",
+        "onboard_time": 1751695700,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99209,
+        "num": 99209,
+        "word": "司机收300元把孩子塞后备箱运送",
+        "onboard_time": 1751698101,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97917,
+        "num": 97917,
+        "word": "第一个dimoo塑鹿晗的是天才",
+        "onboard_time": 1751693242,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 97440,
+        "num": 97440,
+        "word": "人格底色很重要",
+        "onboard_time": 1751697861,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94503,
+        "num": 94503,
+        "word": "闷热闷热闷热我闷热闷热闷热",
+        "onboard_time": 1751686882,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91058,
+        "num": 91058,
+        "word": "崔然竣 家人离世",
+        "onboard_time": 1751684242,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90957,
+        "num": 90957,
+        "word": "张继科训练营第一天就有学员罚站",
+        "onboard_time": 1751692881,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#30多年前的这份战略规划带来的启示#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/05 14:35:25
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/05 14:48:54
 </p>
 </blockquote>
 <p>
@@ -201,6 +201,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23K1373%E6%B2%A1%E8%BE%BE%E5%88%B0%E7%A0%B4%E7%AA%97%E5%BA%94%E6%80%A5%E9%A2%84%E6%A1%88%E7%B4%A7%E6%80%A5%E7%A8%8B%E5%BA%A6%23" target="weibo">
+K1373没达到破窗应急预案紧急程度（热度：1514321）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%97%E8%8B%97%E9%A6%96%E6%99%92%E4%B8%89%E8%83%8E%E5%A5%B3%E5%84%BF%23" target="weibo">
 苗苗首晒三胎女儿（热度：1442826）
 </a>
@@ -215,12 +221,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8D%8E%E5%AD%97%E5%85%B8%E7%A7%B0%E5%B0%8F%E5%AD%A9%E6%98%AF%E7%B4%AF%E8%B5%98%23" target="weibo">
 新华字典称小孩是累赘（热度：1414323）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23K1373%E6%B2%A1%E8%BE%BE%E5%88%B0%E7%A0%B4%E7%AA%97%E5%BA%94%E6%80%A5%E9%A2%84%E6%A1%88%E7%B4%A7%E6%80%A5%E7%A8%8B%E5%BA%A6%23" target="weibo">
-K1373没达到破窗应急预案紧急程度（热度：1400249）
 </a>
 </li>
 
@@ -669,6 +669,12 @@ TVB演员雪妮病逝（热度：861936）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%94%B7%E5%AD%90%E4%B8%8E%E4%B8%A4%E4%BC%B4%E4%BE%A3%E7%94%9F%E5%AD%90%E5%90%8E%E5%8F%91%E7%8E%B0%E5%9D%87%E9%9D%9E%E4%BA%B2%E7%94%9F%23" target="weibo">
+韩男子与两伴侣生子后发现均非亲生（热度：852118）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%903%E4%B8%878%E5%8D%96%E6%8E%89%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AD%A9%E5%AD%90%E7%94%A8%E4%BA%8E%E6%89%93%E8%B5%8F%E4%B8%BB%E6%92%AD%23" target="weibo">
 女子3万8卖掉自己的孩子用于打赏主播（热度：851988）
 </a>
@@ -983,12 +989,6 @@ K1373次列车亲历者称当时已有人中暑（热度：734592）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%AB%98%E8%80%83288%E5%88%86%E5%B1%9E%E5%AE%9E%23" target="weibo">
 女孩高考288分属实（热度：705407）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%94%B7%E5%AD%90%E4%B8%8E%E4%B8%A4%E4%BC%B4%E4%BE%A3%E7%94%9F%E5%AD%90%E5%90%8E%E5%8F%91%E7%8E%B0%E5%9D%87%E9%9D%9E%E4%BA%B2%E7%94%9F%23" target="weibo">
-韩男子与两伴侣生子后发现均非亲生（热度：704758）
 </a>
 </li>
 
@@ -3087,6 +3087,12 @@ fx合体（热度：283131）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%92%93%E9%B1%BC%E8%A7%A6%E7%94%B5%E8%87%B44%E5%8D%83%E6%96%A4%E9%B1%BC%E8%A2%AB%E7%94%B5%E6%AD%BB%23" target="weibo">
+男子钓鱼触电致4千斤鱼被电死（热度：279238）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%8E%8B%E6%A5%9A%E7%84%B6%E8%B7%AF%E9%80%8F%E7%88%B8%E7%88%B8%E5%A6%88%E5%A6%88%E7%BA%A7%E5%88%AB%23" target="weibo">
 张凌赫王楚然路透爸爸妈妈级别（热度：278827）
 </a>
@@ -3161,6 +3167,12 @@ fx合体（热度：283131）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A9%B9%E4%BF%8A%E5%8F%91%E6%96%87%E6%82%BC%E5%BF%B5%E8%8B%A5%E5%A1%94%23" target="weibo">
 詹俊发文悼念若塔（热度：270721）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23K1373%E7%A0%B8%E7%AA%97%E7%94%B7%E5%AD%90%E8%A2%AB%E6%89%B9%E8%AF%84%E6%95%99%E8%82%B2%23" target="weibo">
+K1373砸窗男子被批评教育（热度：270398）
 </a>
 </li>
 
@@ -3849,6 +3861,12 @@ A股（热度：221953）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E6%98%9FJanie%E5%87%BA%E5%AE%B6%23" target="weibo">
+泰星Janie出家（热度：219541）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E4%B8%BA%E6%98%AF22%E9%9B%86%E7%BB%93%E6%9E%9C%E5%9B%9E%E5%88%B0%E7%AC%AC1%E9%9B%86%23" target="weibo">
 以为是22集结果回到第1集（热度：219523）
 </a>
@@ -4271,6 +4289,12 @@ GEN战胜G2（热度：215673）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%A7%A6%E5%85%AD%E9%83%8E%E6%B0%94%E6%AD%BB%23" target="weibo">
 被秦六郎气死（热度：202874）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%84%B1%E8%A5%BF%E8%A3%85%E8%B7%AF%E9%80%8F%23" target="weibo">
+肖战脱西装路透（热度：202532）
 </a>
 </li>
 
@@ -5091,14 +5115,14 @@ AG战胜UUG（热度：182556）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23K1373%E7%A0%B8%E7%AA%97%E7%94%B7%E5%AD%90%E8%A2%AB%E6%89%B9%E8%AF%84%E6%95%99%E8%82%B2%23" target="weibo">
-K1373砸窗男子被批评教育（热度：177401）
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%9D%E5%81%9C%E8%80%85%E5%B1%A1%E6%AC%A1%E5%BC%80%E9%97%A8%E6%9D%80%E8%BD%A6%E4%B8%BB%E8%87%AA%E8%B4%B9%E8%A3%85%E6%8A%A4%E6%A0%8F%23" target="weibo">
+违停者屡次开门杀车主自费装护栏（热度：177370）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%9D%E5%81%9C%E8%80%85%E5%B1%A1%E6%AC%A1%E5%BC%80%E9%97%A8%E6%9D%80%E8%BD%A6%E4%B8%BB%E8%87%AA%E8%B4%B9%E8%A3%85%E6%8A%A4%E6%A0%8F%23" target="weibo">
-违停者屡次开门杀车主自费装护栏（热度：177370）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9C%A8%E5%AE%B6%E5%88%B7%E6%89%8B%E6%9C%BA%E8%A2%AB%E9%97%AA%E7%94%B5%E5%87%BB%E4%B8%AD%E5%88%B0%E5%A4%B1%E5%BF%86%23" target="weibo">
+女子在家刷手机被闪电击中到失忆（热度：177301）
 </a>
 </li>
 
@@ -5987,30 +6011,6 @@ Tabe发文道歉（热度：158830）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E6%84%8F%E4%B8%AD%E5%8F%91%E7%8E%B0%E4%BA%86%E4%B8%80%E4%B8%AA%E6%89%BE%E5%B7%A5%E4%BD%9C%E7%9A%84%E5%A5%BD%E6%96%B9%E6%B3%95%23" target="weibo">
 无意中发现了一个找工作的好方法（热度：156024）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%A7%A3%E9%99%A4%E5%AF%B9%E5%8D%8EC919%E5%8F%91%E5%8A%A8%E6%9C%BA%E5%87%BA%E5%8F%A3%E7%A6%81%E4%BB%A4%23" target="weibo">
-美国解除对华C919发动机出口禁令（热度：155881）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Doggo%E5%A5%B3%E8%AD%A6%E4%BA%94%E6%9D%80%23" target="weibo">
-Doggo女警五杀（热度：155758）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%98%89%E8%A1%8C%E7%A5%9D%E7%A6%8F%E5%88%98%E8%8A%AE%E9%BA%9F%23" target="weibo">
-嘉行祝福刘芮麟（热度：155652）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232%E4%BA%BA%E5%B0%B1%E9%A4%90%E7%82%B9%E8%8C%B6%E5%90%8E%E8%BF%98%E8%A2%AB%E6%94%B611%E5%85%83%E7%99%BD%E5%BC%80%E6%B0%B4%E8%B4%B9%23" target="weibo">
-2人就餐点茶后还被收11元白开水费（热度：155294）
 </a>
 </li>
 
