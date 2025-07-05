@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/06 05:39:06
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/06 06:24:09
 </p>
 </blockquote>
 <p>
@@ -2835,6 +2835,12 @@ Angelababy带小海绵蹦极（热度：343998）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%B8%8D%E8%A6%81%E4%B8%B4%E7%9D%A1%E5%89%8D%E6%89%8D%E5%88%B7%E7%89%99%23" target="weibo">
+建议不要临睡前才刷牙（热度：340474）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%A4%BE%E5%B1%80%E7%A7%B0%E6%8B%9B%E6%9C%8D%E5%8A%A1%E5%91%98%E8%A6%81%E6%B1%82%E6%9C%AC%E7%A7%91%E4%B8%8D%E7%AE%97%E6%AD%A7%E8%A7%86%23" target="weibo">
 人社局称招服务员要求本科不算歧视（热度：338394）
 </a>
@@ -4583,12 +4589,6 @@ GEN战胜G2（热度：215673）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BA%94%E5%B8%A6%E5%84%BF%E5%AD%90%E6%B8%B841%E5%9B%BD%E8%8B%B1%E8%AF%AD%E9%9B%B6%E8%BF%9B%E6%AD%A5%23" target="weibo">
 父亲回应带儿子游41国英语零进步（热度：211894）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%B8%8D%E8%A6%81%E4%B8%B4%E7%9D%A1%E5%89%8D%E6%89%8D%E5%88%B7%E7%89%99%23" target="weibo">
-建议不要临睡前才刷牙（热度：211563）
 </a>
 </li>
 
