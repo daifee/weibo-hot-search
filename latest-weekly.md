@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/06 00:30:22 ~ 2025/07/06 03:38:15
+本榜单时间：2025/07/06 00:30:22 ~ 2025/07/06 04:27:05
 </p>
 </blockquote>
 <p>
@@ -147,6 +147,12 @@ LikeJENNIE爽疯了（热度：250769）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%B8%8D%E8%A6%81%E4%B8%B4%E7%9D%A1%E5%89%8D%E6%89%8D%E5%88%B7%E7%89%99%23" target="weibo">
+建议不要临睡前才刷牙（热度：211563）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9C%AB%E6%97%A5%E9%A2%84%E8%A8%80%E8%80%85%E5%BC%80%E5%A7%8B%E6%94%B9%E5%8F%A3%23" target="weibo">
 日本末日预言者开始改口（热度：180141）
 </a>
@@ -263,12 +269,6 @@ BLACKPINK新歌（热度：113769）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E4%B8%80%E4%B9%A1%E9%81%93%E5%9B%A0%E9%AB%98%E6%B8%A9%E7%88%86%E8%A3%82%E6%8B%B1%E8%B5%B7%23" target="weibo">
 河南一乡道因高温爆裂拱起（热度：98295）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%B8%8D%E8%A6%81%E4%B8%B4%E7%9D%A1%E5%89%8D%E6%89%8D%E5%88%B7%E7%89%99%23" target="weibo">
-建议不要临睡前才刷牙（热度：98285）
 </a>
 </li>
 
@@ -430,13 +430,25 @@ Jennie你的兵回来了（热度：51828）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%88%98%E6%8D%9F%E7%BE%8E%E6%88%90%E5%95%A5%E4%BA%86%23" target="weibo">
-王鹤棣战损美成啥了（热度：21589）
+王鹤棣战损美成啥了（热度：21812）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2321%E5%B2%81%E6%9C%BA%E8%BD%A6%E5%B0%91%E5%B9%B4%E6%84%8F%E5%A4%96%E7%A6%BB%E4%B8%96%E7%88%B6%E4%BA%B2%E5%8F%91%E6%96%87%E6%82%BC%E5%BF%B5%23" target="weibo">
+21岁机车少年意外离世父亲发文悼念（热度：20518）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%A6%E5%8D%B7%E4%B8%80%E6%A2%A6%E8%BF%99%E4%B8%80%E6%AE%B5%E5%B9%BB%E8%A7%86%E9%AC%BC%E6%80%AA%23" target="weibo">
 书卷一梦这一段幻视鬼怪（热度：19170）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%82%B9%E8%B5%9E%E8%BF%99%E4%BD%8D%E7%BB%86%E5%BF%83%E6%9E%9C%E6%96%AD%E7%9A%84%E6%B5%99J%E5%8F%B8%E6%9C%BA%23" target="weibo">
+点赞这位细心果断的浙J司机（热度：17946）
 </a>
 </li>
 

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/06 03:38:15
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/06 04:27:05
 </p>
 </blockquote>
 <p>
@@ -4587,6 +4587,12 @@ GEN战胜G2（热度：215673）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%B8%8D%E8%A6%81%E4%B8%B4%E7%9D%A1%E5%89%8D%E6%89%8D%E5%88%B7%E7%89%99%23" target="weibo">
+建议不要临睡前才刷牙（热度：211563）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E7%94%B7%E5%AD%90%E5%B8%A612%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%BC%80%E6%88%BF%23" target="weibo">
 警方回应网传男子带12岁女孩开房（热度：211472）
 </a>
@@ -6005,12 +6011,6 @@ GAI风格（热度：173872）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E9%AB%98%E8%B6%85%E9%9F%B3%E9%80%9F%E5%AF%BC%E5%BC%B9%E8%A2%AD%E5%87%BB%E4%BB%A5%E8%89%B2%E5%88%97%23" target="weibo">
 胡塞武装高超音速导弹袭击以色列（热度：173790）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%B3%B0%E5%8A%9B%E6%8C%BA%E4%BB%BB%E5%98%89%E4%BC%A6%23" target="weibo">
-沈泰力挺任嘉伦（热度：173770）
 </a>
 </li>
 
