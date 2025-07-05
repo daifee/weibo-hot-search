@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751743252793,
+  "endTime": 1751744295945,
   "band_list": [
     {
       "raw_hot": 6390116,
@@ -14211,6 +14211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98285,
+      "num": 57728,
+      "word": "建议不要临睡前才刷牙",
+      "onboard_time": 1751744114,
+      "rank": 15,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 98155,
       "num": 79415,
       "word": "姥把你放心上你把姥挂网上",
@@ -17841,6 +17849,14 @@
       "onboard_time": 1751674580,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 21589,
+      "num": 57043,
+      "word": "王鹤棣战损美成啥了",
+      "onboard_time": 1751744055,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 21567,

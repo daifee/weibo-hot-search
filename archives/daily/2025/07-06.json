@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751743252793,
+  "endTime": 1751744295945,
   "band_list": [
     {
       "raw_hot": 2706470,
@@ -339,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98285,
+      "num": 57728,
+      "word": "建议不要临睡前才刷牙",
+      "onboard_time": 1751744114,
+      "rank": 15,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 97155,
       "num": 97155,
       "word": "女子遭同学设套被骗千万全家自杀",
@@ -545,6 +553,14 @@
       "onboard_time": 1751730805,
       "rank": 40,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 21589,
+      "num": 57043,
+      "word": "王鹤棣战损美成啥了",
+      "onboard_time": 1751744055,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 19170,

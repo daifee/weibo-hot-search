@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/06 00:30:22 ~ 2025/07/06 03:20:52
+本榜单时间：2025/07/06 00:30:22 ~ 2025/07/06 03:38:15
 </p>
 </blockquote>
 <p>
@@ -267,6 +267,12 @@ BLACKPINK新歌（热度：113769）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%B8%8D%E8%A6%81%E4%B8%B4%E7%9D%A1%E5%89%8D%E6%89%8D%E5%88%B7%E7%89%99%23" target="weibo">
+建议不要临睡前才刷牙（热度：98285）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%81%AD%E5%90%8C%E5%AD%A6%E8%AE%BE%E5%A5%97%E8%A2%AB%E9%AA%97%E5%8D%83%E4%B8%87%E5%85%A8%E5%AE%B6%E8%87%AA%E6%9D%80%23" target="weibo">
 女子遭同学设套被骗千万全家自杀（热度：97155）
 </a>
@@ -419,6 +425,12 @@ Jennie你的兵回来了（热度：51828）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E8%80%81%E4%BA%BA%E8%AF%B4%E8%A6%81%E7%9C%8B%E7%A5%96%E5%9B%BD%E4%B8%80%E5%A4%A9%E6%AF%94%E4%B8%80%E5%A4%A9%E5%BC%BA%E5%A4%A7%23" target="weibo">
 香港老人说要看祖国一天比一天强大（热度：23560）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%88%98%E6%8D%9F%E7%BE%8E%E6%88%90%E5%95%A5%E4%BA%86%23" target="weibo">
+王鹤棣战损美成啥了（热度：21589）
 </a>
 </li>
 
