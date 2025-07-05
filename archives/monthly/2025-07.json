@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751726569935,
+  "endTime": 1751729130882,
   "band_list": [
     {
       "raw_hot": 6390116,
@@ -235,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1705189,
+      "num": 1705189,
+      "word": "杭州东站发生卧轨事件",
+      "onboard_time": 1751727385,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1691388,
       "num": 1691388,
       "word": "郭旭蔡昆廷结婚",
@@ -356,7 +364,7 @@
     },
     {
       "raw_hot": 1385275,
-      "num": 847810,
+      "num": 908742,
       "word": "杭州东站",
       "onboard_time": 1751726004,
       "rank": 3,
@@ -569,6 +577,14 @@
       "onboard_time": 1751431643,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1129374,
+      "num": 585841,
+      "word": "曾志伟和女星合影姿势引争议",
+      "onboard_time": 1751725523,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1124936,
@@ -1297,14 +1313,6 @@
       "onboard_time": 1751589202,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 737823,
-      "num": 585841,
-      "word": "曾志伟和女星合影姿势引争议",
-      "onboard_time": 1751725523,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 737332,
@@ -3123,6 +3131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 397905,
+      "num": 397905,
+      "word": "北京天空",
+      "onboard_time": 1751727684,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 397250,
       "num": 397250,
       "word": "皓衣行",
@@ -3241,6 +3257,14 @@
       "onboard_time": 1751677701,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 378630,
+      "num": 378630,
+      "word": "LikeJENNIE爽疯了",
+      "onboard_time": 1751724984,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 378507,
@@ -3739,6 +3763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 336410,
+      "num": 336410,
+      "word": "陈乔恩分享5天紧急瘦身法",
+      "onboard_time": 1751726064,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 335773,
       "num": 357251,
       "word": "你在cos鹿 鹿在cos王俊凯",
@@ -4003,14 +4035,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 316005,
-      "num": 316005,
-      "word": "LikeJENNIE爽疯了",
-      "onboard_time": 1751724984,
-      "rank": 21,
-      "category": "演出"
-    },
-    {
       "raw_hot": 315848,
       "num": 315848,
       "word": "上海飞东京航班疑从万米高空急降",
@@ -4177,6 +4201,14 @@
       "onboard_time": 1751552064,
       "rank": 16,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 302707,
+      "num": 586366,
+      "word": "K1373事故铁路员工不如主动砸玻璃",
+      "onboard_time": 1751725884,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 302703,
@@ -5203,12 +5235,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 237023,
-      "num": 237023,
-      "word": "陈乔恩分享5天紧急瘦身法",
-      "onboard_time": 1751726064,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 237577,
+      "num": 398947,
+      "word": "杭州东站卧轨者已送往医院",
+      "onboard_time": 1751727684,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 236762,
@@ -5295,6 +5327,14 @@
       "num": 232698,
       "word": "爷爷下河捡玩具孙女拽衣哭喊不要了",
       "onboard_time": 1751615783,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 231701,
+      "num": 231701,
+      "word": "小伙脖子肿痛开刀取出7颗瓜子",
+      "onboard_time": 1751728585,
       "rank": 22,
       "category": "民生新闻"
     },
@@ -5481,6 +5521,14 @@
       "onboard_time": 1751718142,
       "rank": 48,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 226902,
+      "num": 226902,
+      "word": "叠纸",
+      "onboard_time": 1751726186,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 226651,
@@ -6089,14 +6137,6 @@
       "onboard_time": 1751719401,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 207985,
-      "num": 207985,
-      "word": "叠纸",
-      "onboard_time": 1751726186,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 207955,
@@ -8619,12 +8659,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 161543,
+      "num": 177678,
+      "word": "APT现场版",
+      "onboard_time": 1751726364,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 161376,
       "num": 161376,
       "word": "高校引进高层次人才第2名举报第1名",
       "onboard_time": 1751350581,
       "rank": 36,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 160935,
+      "num": 176368,
+      "word": "刘雨昕任嘉伦双人popping",
+      "onboard_time": 1751727203,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 160670,
@@ -9139,14 +9195,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 153289,
-      "num": 153289,
-      "word": "APT现场版",
-      "onboard_time": 1751726364,
-      "rank": 46,
-      "category": "演出"
-    },
-    {
       "raw_hot": 153066,
       "num": 153066,
       "word": "这台词是国产剧能拍的吗",
@@ -9451,14 +9499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148756,
-      "num": 586366,
-      "word": "K1373事故铁路员工不如主动砸玻璃",
-      "onboard_time": 1751725884,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 148673,
       "num": 348754,
       "word": "乘客说若无砸窗哥会有更多人热晕",
@@ -9569,6 +9609,14 @@
       "onboard_time": 1751526381,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147520,
+      "num": 147520,
+      "word": "张杰长得乖乖的唱歌猛猛的",
+      "onboard_time": 1751728464,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 147513,
@@ -10211,6 +10259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 139043,
+      "num": 139043,
+      "word": "杭州东站有人卧轨已被送往医院",
+      "onboard_time": 1751729067,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139028,
       "num": 139028,
       "word": "何炅 我被奥尼尔打过",
@@ -10667,6 +10723,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 134280,
+      "num": 134280,
+      "word": "杨千嬅儿子13岁近照",
+      "onboard_time": 1751726604,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134165,
       "num": 134165,
       "word": "第四周最佳选手一诺",
@@ -10873,6 +10937,14 @@
       "onboard_time": 1751619745,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131822,
+      "num": 131822,
+      "word": "十个勤天南昌巡演太好哭了",
+      "onboard_time": 1751726845,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 131759,
@@ -11651,6 +11723,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 123604,
+      "num": 242428,
+      "word": "济州岛偶遇孙彩瑛ZionT",
+      "onboard_time": 1751727984,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123446,
       "num": 123446,
       "word": "广东没有高颅顶",
@@ -11873,6 +11953,14 @@
       "onboard_time": 1751375064,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121405,
+      "num": 121405,
+      "word": "恋与制作人艺术大师",
+      "onboard_time": 1751726726,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 121364,
@@ -12881,6 +12969,14 @@
       "onboard_time": 1751443643,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 111946,
+      "num": 111946,
+      "word": "薛之谦新蜂音乐节完全主人级别",
+      "onboard_time": 1751729005,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 111921,
@@ -14715,6 +14811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85988,
+      "num": 131814,
+      "word": "K1373被砸窗户350元一扇",
+      "onboard_time": 1751727624,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85821,
       "num": 85821,
       "word": "亲密关系真谛",
@@ -15865,6 +15969,14 @@
       "onboard_time": 1751715022,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 58893,
+      "num": 215113,
+      "word": "南通重回苏超榜首",
+      "onboard_time": 1751728345,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 58732,
