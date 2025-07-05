@@ -1,6 +1,6 @@
 {
   "startTime": 1751646733900,
-  "endTime": 1751711176630,
+  "endTime": 1751712236097,
   "band_list": [
     {
       "raw_hot": 2497507,
@@ -44,11 +44,19 @@
     },
     {
       "raw_hot": 1560844,
-      "num": 294576,
+      "num": 317460,
       "word": "疑似横店短剧演员去世",
       "onboard_time": 1751708421,
       "rank": 10,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 1544673,
+      "num": 150684,
+      "word": "美团崩了",
+      "onboard_time": 1751708782,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 1514321,
@@ -65,14 +73,6 @@
       "onboard_time": 1751701820,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1498346,
-      "num": 150684,
-      "word": "美团崩了",
-      "onboard_time": 1751708782,
-      "rank": 30,
-      "category": "互联网"
     },
     {
       "raw_hot": 1442826,
@@ -113,6 +113,14 @@
       "onboard_time": 1751688922,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1301803,
+      "num": 1301803,
+      "word": "日本西南群岛地震",
+      "onboard_time": 1751708603,
+      "rank": 0,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1183382,
@@ -185,14 +193,6 @@
       "onboard_time": 1751676081,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 851661,
-      "num": 1136265,
-      "word": "日本西南群岛地震",
-      "onboard_time": 1751708603,
-      "rank": 0,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 836343,
@@ -283,6 +283,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 554067,
+      "num": 554067,
+      "word": "山西23名死亡人员领高龄津贴",
+      "onboard_time": 1751707160,
+      "rank": 28,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 528760,
       "num": 435088,
       "word": "特朗普透露马斯克吸毒",
@@ -329,14 +337,6 @@
       "onboard_time": 1751697500,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 485776,
-      "num": 485776,
-      "word": "山西23名死亡人员领高龄津贴",
-      "onboard_time": 1751707160,
-      "rank": 28,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 473835,
@@ -539,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 343441,
+      "num": 343441,
+      "word": "孟佳烫头了",
+      "onboard_time": 1751710880,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 336728,
       "num": 336728,
       "word": "独居老人网购花费200万睡在快递上",
@@ -563,12 +571,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 325335,
+      "num": 325335,
+      "word": "烟台一高校宿舍无空调学生中暑送医",
+      "onboard_time": 1751708003,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 323438,
       "num": 323438,
       "word": "GEN战胜AL",
       "onboard_time": 1751683161,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 322980,
+      "num": 322980,
+      "word": "锦绣芳华直播",
+      "onboard_time": 1751708542,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 320029,
@@ -609,14 +633,6 @@
       "onboard_time": 1751705243,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 297690,
-      "num": 297690,
-      "word": "锦绣芳华直播",
-      "onboard_time": 1751708542,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 297568,
@@ -683,12 +699,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 284149,
-      "num": 284149,
-      "word": "烟台一高校宿舍无空调学生中暑送医",
-      "onboard_time": 1751708003,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 279410,
+      "num": 279410,
+      "word": "日本鹿儿岛5日已发生多次地震",
+      "onboard_time": 1751711061,
+      "rank": 35,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 278281,
@@ -737,6 +753,14 @@
       "onboard_time": 1751681781,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 269909,
+      "num": 271429,
+      "word": "香港小哥高举手牌求参观山东舰赠票",
+      "onboard_time": 1751710880,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 266619,
@@ -849,6 +873,14 @@
       "onboard_time": 1751654716,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213197,
+      "num": 213197,
+      "word": "营业悖论",
+      "onboard_time": 1751711662,
+      "rank": 21,
+      "category": "动漫"
     },
     {
       "raw_hot": 209964,
@@ -1089,6 +1121,14 @@
       "onboard_time": 1751700020,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167787,
+      "num": 167787,
+      "word": "张小斐被砸出了神场面",
+      "onboard_time": 1751711002,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 167709,
@@ -1395,14 +1435,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 138224,
-      "num": 138224,
-      "word": "孟佳烫头了",
-      "onboard_time": 1751710880,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 137348,
       "num": 137348,
       "word": "驻日本大使馆提醒在日同胞",
@@ -1515,6 +1547,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 126971,
+      "num": 126971,
+      "word": "营业悖论完结篇7月5日预售",
+      "onboard_time": 1751711422,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 126457,
       "num": 126457,
       "word": "商户直播军舰进出港被查",
@@ -1528,6 +1568,14 @@
       "word": "20岁女大学生在丽江失联3天",
       "onboard_time": 1751644883,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125515,
+      "num": 125515,
+      "word": "台风",
+      "onboard_time": 1751711600,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -1627,14 +1675,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 120481,
-      "num": 120481,
-      "word": "日本鹿儿岛5日已发生多次地震",
-      "onboard_time": 1751711061,
-      "rank": 35,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 120181,
       "num": 120181,
       "word": "余宇涵去林俊杰演唱会了",
@@ -1691,6 +1731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118995,
+      "num": 118995,
+      "word": "樊振东出战德甲",
+      "onboard_time": 1751710703,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118555,
       "num": 118555,
       "word": "继她拍的后内娱上新她画的",
@@ -1729,6 +1777,14 @@
       "onboard_time": 1751692700,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117580,
+      "num": 140871,
+      "word": "张小斐新角色一暴还一暴",
+      "onboard_time": 1751711121,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 116421,
@@ -1907,6 +1963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 106989,
+      "num": 106989,
+      "word": "李昀锐文科脸理科脑体育身",
+      "onboard_time": 1751711481,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 106426,
       "num": 128055,
       "word": "武警从淤泥里找出国旗细心叠好",
@@ -1979,12 +2043,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 103214,
-      "num": 103214,
-      "word": "樊振东出战德甲",
-      "onboard_time": 1751710703,
-      "rank": 42,
-      "category": "体育"
+      "raw_hot": 103521,
+      "num": 103521,
+      "word": "杨紫说锦绣芳华是国色芳华第二部",
+      "onboard_time": 1751712142,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 100851,
@@ -2051,6 +2115,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 99980,
+      "num": 99980,
+      "word": "不敢花1000敢花100个9.9",
+      "onboard_time": 1751709921,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 99641,
       "num": 99641,
       "word": "刘端端体制内的魅力",
@@ -2113,6 +2185,14 @@
       "onboard_time": 1751690602,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 96208,
+      "num": 100276,
+      "word": "一笔巨款能拯救我濒临崩溃的人生",
+      "onboard_time": 1751708482,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 96204,
@@ -2227,14 +2307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 91033,
-      "num": 91033,
-      "word": "张小斐新角色一暴还一暴",
-      "onboard_time": 1751711121,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 91020,
       "num": 122978,
       "word": "书卷一梦一方有乱八百方添堵",
@@ -2257,14 +2329,6 @@
       "onboard_time": 1751711061,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 89581,
-      "num": 89581,
-      "word": "一笔巨款能拯救我濒临崩溃的人生",
-      "onboard_time": 1751708482,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 88294,
@@ -2451,6 +2515,14 @@
       "category": "民生新闻,国际时政"
     },
     {
+      "raw_hot": 71892,
+      "num": 986311,
+      "word": "贵州榕江群众泪别救援队伍",
+      "onboard_time": 1751707823,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68448,
       "num": 139263,
       "word": "鹿晗演唱会无处不在的惊喜",
@@ -2491,6 +2563,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 61289,
+      "num": 126126,
+      "word": "湖南资兴一景区游船大风侧翻",
+      "onboard_time": 1751712142,
+      "rank": 38,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 59350,
       "num": 59350,
       "word": "GAI是不是又想走了",
@@ -2515,20 +2595,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 57680,
-      "num": 986311,
-      "word": "贵州榕江群众泪别救援队伍",
-      "onboard_time": 1751707823,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 56821,
       "num": 114996,
       "word": "赛博朋克边缘行者2",
       "onboard_time": 1751680280,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 55761,
+      "num": 126323,
+      "word": "日本末日预言造成5600亿损失",
+      "onboard_time": 1751711721,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 55089,
@@ -2587,19 +2667,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43701,
+      "num": 126920,
+      "word": "解限机击杀攻略",
+      "onboard_time": 1751711121,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 41396,
       "num": 287044,
       "word": "高薪有编制体面的深圳教师为何辞职",
       "onboard_time": 1751694981,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38915,
-      "num": 271429,
-      "word": "香港小哥高举手牌求参观山东舰赠票",
-      "onboard_time": 1751710880,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2651,14 +2731,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 27694,
-      "num": 91579,
-      "word": "解限机击杀攻略",
-      "onboard_time": 1751711121,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 26539,
       "num": 135101,
       "word": "10岁男孩偷充游戏花光奶奶卖菜钱",
@@ -2707,12 +2779,28 @@
       "category": "军事"
     },
     {
+      "raw_hot": 22271,
+      "num": 125748,
+      "word": "明日方舟最萌的宝宝",
+      "onboard_time": 1751711361,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 21810,
       "num": 106479,
       "word": "错误的午睡习惯会让你越睡越累",
       "onboard_time": 1751674580,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 18943,
+      "num": 137013,
+      "word": "大学生课后兼职攒1万塞给妈妈",
+      "onboard_time": 1751712081,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18630,

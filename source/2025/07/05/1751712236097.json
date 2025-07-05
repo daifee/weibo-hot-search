@@ -1,0 +1,410 @@
+{
+  "runTime": 1751712236097,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1301803,
+        "num": 1301803,
+        "word": "日本西南群岛地震",
+        "onboard_time": 1751708603,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1024443,
+        "num": 1024443,
+        "word": "日本末日预言者开始改口",
+        "onboard_time": 1751698942,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 71892,
+        "num": 652924,
+        "word": "贵州榕江群众泪别救援队伍",
+        "onboard_time": 1751707823,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 614559,
+        "num": 614559,
+        "word": "前台开错房涉事女房客男友发声",
+        "onboard_time": 1751701820,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 554067,
+        "num": 554067,
+        "word": "山西23名死亡人员领高龄津贴",
+        "onboard_time": 1751707160,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 540139,
+        "num": 540139,
+        "word": "女子遭同学设套被骗千万全家自杀",
+        "onboard_time": 1751706141,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 384441,
+        "num": 384441,
+        "word": "易烊千玺回应礐嶨不会读",
+        "onboard_time": 1751688922,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 343441,
+        "num": 343441,
+        "word": "孟佳烫头了",
+        "onboard_time": 1751710880,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 325335,
+        "num": 325335,
+        "word": "烟台一高校宿舍无空调学生中暑送医",
+        "onboard_time": 1751708003,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322980,
+        "num": 322980,
+        "word": "锦绣芳华直播",
+        "onboard_time": 1751708542,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1480914,
+        "num": 317460,
+        "word": "疑似横店短剧演员去世",
+        "onboard_time": 1751708421,
+        "rank": 10,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 519876,
+        "num": 307916,
+        "word": "王梓薇买别墅",
+        "onboard_time": 1751698521,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 461388,
+        "num": 293160,
+        "word": "武汉跳楼妈妈",
+        "onboard_time": 1751687781,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 337848,
+        "num": 289026,
+        "word": "K1373砸窗男子被批评教育",
+        "onboard_time": 1751696780,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279410,
+        "num": 279410,
+        "word": "日本鹿儿岛5日已发生多次地震",
+        "onboard_time": 1751711061,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 271413,
+        "num": 271413,
+        "word": "梓渝谁说人生没有观众的",
+        "onboard_time": 1751704581,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269909,
+        "num": 269909,
+        "word": "香港小哥高举手牌求参观山东舰赠票",
+        "onboard_time": 1751710880,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267866,
+        "num": 267866,
+        "word": "横店",
+        "onboard_time": 1751707522,
+        "rank": 17,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 259326,
+        "num": 259326,
+        "word": "柳智敏水弹",
+        "onboard_time": 1751706201,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 243579,
+        "num": 243579,
+        "word": "如果一个人朋友圈干干净净特别正常",
+        "onboard_time": 1751705243,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 544770,
+        "num": 230835,
+        "word": "12岁幼女家中遭强奸妈妈第二天才发现",
+        "onboard_time": 1751701881,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213197,
+        "num": 213197,
+        "word": "营业悖论",
+        "onboard_time": 1751711662,
+        "rank": 21,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 205821,
+        "num": 205821,
+        "word": "田栩宁夜景live",
+        "onboard_time": 1751709021,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176939,
+        "num": 176939,
+        "word": "易烊千玺演唱会第一个有票的人出现了",
+        "onboard_time": 1751699542,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 167787,
+        "num": 167787,
+        "word": "张小斐被砸出了神场面",
+        "onboard_time": 1751711002,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141235,
+        "num": 141235,
+        "word": "校方回应宿舍无空调学生中暑",
+        "onboard_time": 1751707341,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117580,
+        "num": 140871,
+        "word": "张小斐新角色一暴还一暴",
+        "onboard_time": 1751711121,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114169,
+        "num": 139980,
+        "word": "台剧果然是另一个level了",
+        "onboard_time": 1751700501,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112274,
+        "num": 138917,
+        "word": "梓渝短剧开播",
+        "onboard_time": 1751705243,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97710,
+        "num": 137494,
+        "word": "老人在一方砚台上刻2万字",
+        "onboard_time": 1751710342,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18943,
+        "num": 137013,
+        "word": "大学生课后兼职攒1万塞给妈妈",
+        "onboard_time": 1751712081,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1544673,
+        "num": 135738,
+        "word": "美团崩了",
+        "onboard_time": 1751708782,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 135156,
+        "num": 135156,
+        "word": "控糖瓜 没熟",
+        "onboard_time": 1751707042,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 132900,
+        "num": 132900,
+        "word": "76岁老人海中游泳被三只野狗咬死",
+        "onboard_time": 1751704461,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128159,
+        "num": 128159,
+        "word": "男子钓鱼触电致4千斤鱼被电死",
+        "onboard_time": 1751696902,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126971,
+        "num": 126971,
+        "word": "营业悖论完结篇7月5日预售",
+        "onboard_time": 1751711422,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 43701,
+        "num": 126920,
+        "word": "解限机击杀攻略",
+        "onboard_time": 1751711121,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 55761,
+        "num": 126323,
+        "word": "日本末日预言造成5600亿损失",
+        "onboard_time": 1751711721,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 61289,
+        "num": 126126,
+        "word": "湖南资兴一景区游船大风侧翻",
+        "onboard_time": 1751712142,
+        "rank": 38,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 22271,
+        "num": 125748,
+        "word": "明日方舟最萌的宝宝",
+        "onboard_time": 1751711361,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125515,
+        "num": 125515,
+        "word": "台风",
+        "onboard_time": 1751711600,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118995,
+        "num": 118995,
+        "word": "樊振东出战德甲",
+        "onboard_time": 1751710703,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106989,
+        "num": 106989,
+        "word": "李昀锐文科脸理科脑体育身",
+        "onboard_time": 1751711481,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 104950,
+        "num": 104950,
+        "word": "不加一滴水的清蒸虾",
+        "onboard_time": 1751710402,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 103521,
+        "num": 103521,
+        "word": "杨紫说锦绣芳华是国色芳华第二部",
+        "onboard_time": 1751712142,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100690,
+        "num": 100690,
+        "word": "李佳薇歌手得票率94.5%",
+        "onboard_time": 1751698521,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96208,
+        "num": 100276,
+        "word": "一笔巨款能拯救我濒临崩溃的人生",
+        "onboard_time": 1751708482,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99980,
+        "num": 99980,
+        "word": "不敢花1000敢花100个9.9",
+        "onboard_time": 1751709921,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99592,
+        "num": 99592,
+        "word": "K1373没达到破窗应急预案紧急程度",
+        "onboard_time": 1751691681,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96216,
+        "num": 96216,
+        "word": "超20万人熬夜看日本地震监测直播",
+        "onboard_time": 1751702723,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记和青年朋友在一起#"
+    }
+  }
+}
