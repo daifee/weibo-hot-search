@@ -1,6 +1,6 @@
 {
   "startTime": 1751128220992,
-  "endTime": 1751680734373,
+  "endTime": 1751682145972,
   "band_list": [
     {
       "raw_hot": 6390116,
@@ -1244,7 +1244,7 @@
     },
     {
       "raw_hot": 851988,
-      "num": 282788,
+      "num": 289454,
       "word": "女子3万8卖掉自己的孩子用于打赏主播",
       "onboard_time": 1751676081,
       "rank": 10,
@@ -2059,6 +2059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 665225,
+      "num": 291061,
+      "word": "油腻风的孕妇照",
+      "onboard_time": 1751680342,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 665024,
       "num": 665024,
       "word": "食脑虫",
@@ -2553,6 +2561,14 @@
       "onboard_time": 1751377103,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 572173,
+      "num": 284746,
+      "word": "黄多多孙莉去拍了aespa人生四格",
+      "onboard_time": 1751679380,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 571240,
@@ -3283,6 +3299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 454379,
+      "num": 454379,
+      "word": "124斤女子带全家减肥40天共瘦40斤",
+      "onboard_time": 1751675901,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 453352,
       "num": 529426,
       "word": "充电宝怎么了",
@@ -3323,11 +3347,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 451929,
-      "num": 274048,
-      "word": "黄多多孙莉去拍了aespa人生四格",
-      "onboard_time": 1751679380,
-      "rank": 12,
+      "raw_hot": 450698,
+      "num": 278552,
+      "word": "陈赫喂张子萱吃东西",
+      "onboard_time": 1751680762,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -3553,14 +3577,6 @@
       "onboard_time": 1751169802,
       "rank": 38,
       "category": "议题讨论,财经"
-    },
-    {
-      "raw_hot": 428429,
-      "num": 428429,
-      "word": "124斤女子带全家减肥40天共瘦40斤",
-      "onboard_time": 1751675901,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 427949,
@@ -4065,6 +4081,14 @@
       "onboard_time": 1751190381,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 378100,
+      "num": 273633,
+      "word": "日本地震预言致外国游客取消行程",
+      "onboard_time": 1751680642,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 378025,
@@ -4660,7 +4684,7 @@
     },
     {
       "raw_hot": 333102,
-      "num": 195892,
+      "num": 212200,
       "word": "爆火过后终于理解租labubu的人了",
       "onboard_time": 1751679861,
       "rank": 20,
@@ -5171,6 +5195,14 @@
       "category": "演出,时尚"
     },
     {
+      "raw_hot": 299602,
+      "num": 299602,
+      "word": "日本官方称地震预言纯属骗局",
+      "onboard_time": 1751679681,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 299551,
       "num": 342385,
       "word": "美国一直升机从上空抛撒大量美元",
@@ -5345,6 +5377,14 @@
       "onboard_time": 1751536883,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 293842,
+      "num": 293842,
+      "word": "GEN对战AL",
+      "onboard_time": 1751676021,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 293692,
@@ -5675,14 +5715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 278030,
-      "num": 127212,
-      "word": "油腻风的孕妇照",
-      "onboard_time": 1751680342,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 276436,
       "num": 282303,
       "word": "杨紫 扛招商",
@@ -5729,6 +5761,14 @@
       "onboard_time": 1751646861,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 272331,
+      "num": 272331,
+      "word": "怪不得赵晓卉没空参加脱口秀",
+      "onboard_time": 1751681781,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 272269,
@@ -7267,6 +7307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 215252,
+      "num": 215252,
+      "word": "制片人评于正内涵任嘉伦",
+      "onboard_time": 1751679681,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215219,
       "num": 215219,
       "word": "父母花50万带5岁儿子骑游41国",
@@ -7737,6 +7785,14 @@
       "onboard_time": 1751254161,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204755,
+      "num": 204755,
+      "word": "长期不拔的插头正在悄悄酿火患",
+      "onboard_time": 1751676261,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 204460,
@@ -8289,14 +8345,6 @@
       "onboard_time": 1751639665,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 195649,
-      "num": 195649,
-      "word": "长期不拔的插头正在悄悄酿火患",
-      "onboard_time": 1751676261,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 195597,
@@ -10219,14 +10267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 167364,
-      "num": 286059,
-      "word": "日本官方称地震预言纯属骗局",
-      "onboard_time": 1751679681,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 167317,
       "num": 167317,
       "word": "无锡闪爆事故致5死11伤调查报告",
@@ -12059,6 +12099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146788,
+      "num": 146788,
+      "word": "BLACKPINK新曲回归预告",
+      "onboard_time": 1751679442,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 146748,
       "num": 146748,
       "word": "WTT晒孙颖莎为美国大满贯预热",
@@ -12089,14 +12137,6 @@
       "onboard_time": 1751605762,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 146459,
-      "num": 146459,
-      "word": "GEN对战AL",
-      "onboard_time": 1751676021,
-      "rank": 24,
-      "category": "电竞"
     },
     {
       "raw_hot": 146319,
@@ -12649,14 +12689,6 @@
       "onboard_time": 1751195061,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 140277,
-      "num": 140277,
-      "word": "制片人评于正内涵任嘉伦",
-      "onboard_time": 1751679681,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 140111,
@@ -14635,6 +14667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123659,
+      "num": 123659,
+      "word": "韩安冉展示小女儿伤口",
+      "onboard_time": 1751680280,
+      "rank": 34,
+      "category": "网红"
+    },
+    {
       "raw_hot": 123446,
       "num": 123446,
       "word": "广东没有高颅顶",
@@ -14832,14 +14872,6 @@
       "word": "越南户籍法",
       "onboard_time": 1751363482,
       "rank": 42,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 121873,
-      "num": 127501,
-      "word": "日本地震预言致外国游客取消行程",
-      "onboard_time": 1751680642,
-      "rank": 29,
       "category": "海外新闻"
     },
     {
@@ -15057,14 +15089,6 @@
       "onboard_time": 1751636608,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119714,
-      "num": 119714,
-      "word": "韩安冉展示小女儿伤口",
-      "onboard_time": 1751680280,
-      "rank": 34,
-      "category": "网红"
     },
     {
       "raw_hot": 119712,
@@ -15393,14 +15417,6 @@
       "onboard_time": 1751590101,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 117141,
-      "num": 117141,
-      "word": "BLACKPINK新曲回归预告",
-      "onboard_time": 1751679442,
-      "rank": 37,
-      "category": "音乐"
     },
     {
       "raw_hot": 117125,
@@ -15865,6 +15881,14 @@
       "onboard_time": 1751279783,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 113122,
+      "num": 113122,
+      "word": "普京说全世界都想进入中国市场",
+      "onboard_time": 1751675901,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 113040,
@@ -16387,6 +16411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108405,
+      "num": 108405,
+      "word": "日本南海海槽大地震",
+      "onboard_time": 1751681483,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 108330,
       "num": 108330,
       "word": "上海地铁",
@@ -16457,6 +16489,14 @@
       "onboard_time": 1751450122,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 107976,
+      "num": 107976,
+      "word": "桃花映江山 你老婆不要你咯",
+      "onboard_time": 1751681303,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 107886,
@@ -16619,6 +16659,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 106426,
+      "num": 106426,
+      "word": "武警从淤泥里找出国旗细心叠好",
+      "onboard_time": 1751679081,
+      "rank": 47,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 106254,
       "num": 130568,
       "word": "F1",
@@ -16668,7 +16716,7 @@
     },
     {
       "raw_hot": 105918,
-      "num": 105918,
+      "num": 202610,
       "word": "气象局回应青海祁连七月飞雪",
       "onboard_time": 1751679501,
       "rank": 45,
@@ -16729,14 +16777,6 @@
       "onboard_time": 1751185221,
       "rank": 45,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 105469,
-      "num": 105469,
-      "word": "普京说全世界都想进入中国市场",
-      "onboard_time": 1751675901,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 105412,
@@ -17315,6 +17355,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 97464,
+      "num": 97464,
+      "word": "印度通报计划报复美国",
+      "onboard_time": 1751682022,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 97443,
       "num": 97443,
       "word": "有一个癫公男友是什么体验",
@@ -17353,14 +17401,6 @@
       "onboard_time": 1751445081,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 96931,
-      "num": 96931,
-      "word": "武警从淤泥里找出国旗细心叠好",
-      "onboard_time": 1751679081,
-      "rank": 47,
-      "category": "正能量"
     },
     {
       "raw_hot": 96846,
@@ -17425,6 +17465,14 @@
       "onboard_time": 1751127201,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 95637,
+      "num": 95637,
+      "word": "小猫也会思念去世的朋友",
+      "onboard_time": 1751680822,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 95453,
@@ -17793,6 +17841,14 @@
       "onboard_time": 1751507360,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 88294,
+      "num": 88294,
+      "word": "这就是纯天然无添加的小孩吗",
+      "onboard_time": 1751682081,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 88210,
@@ -19369,6 +19425,14 @@
       "onboard_time": 1751671579,
       "rank": 45,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 57803,
+      "num": 106605,
+      "word": "Kiin二连MVP",
+      "onboard_time": 1751679200,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 57763,
@@ -21617,6 +21681,14 @@
       "onboard_time": 1751294484,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21810,
+      "num": 106479,
+      "word": "错误的午睡习惯会让你越睡越累",
+      "onboard_time": 1751674580,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 21806,

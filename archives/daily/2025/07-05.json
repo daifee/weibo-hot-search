@@ -1,6 +1,6 @@
 {
   "startTime": 1751646733900,
-  "endTime": 1751680734373,
+  "endTime": 1751682145972,
   "band_list": [
     {
       "raw_hot": 2497507,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 851988,
-      "num": 282788,
+      "num": 289454,
       "word": "女子3万8卖掉自己的孩子用于打赏主播",
       "onboard_time": 1751676081,
       "rank": 10,
@@ -75,12 +75,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 665225,
+      "num": 291061,
+      "word": "油腻风的孕妇照",
+      "onboard_time": 1751680342,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 657981,
       "num": 415171,
       "word": "鹿晗发现伴舞的屏保是自己",
       "onboard_time": 1751673800,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 572173,
+      "num": 284746,
+      "word": "黄多多孙莉去拍了aespa人生四格",
+      "onboard_time": 1751679380,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 495977,
@@ -99,11 +115,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 451929,
-      "num": 274048,
-      "word": "黄多多孙莉去拍了aespa人生四格",
-      "onboard_time": 1751679380,
-      "rank": 12,
+      "raw_hot": 454379,
+      "num": 454379,
+      "word": "124斤女子带全家减肥40天共瘦40斤",
+      "onboard_time": 1751675901,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 450698,
+      "num": 278552,
+      "word": "陈赫喂张子萱吃东西",
+      "onboard_time": 1751680762,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -131,14 +155,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 428429,
-      "num": 428429,
-      "word": "124斤女子带全家减肥40天共瘦40斤",
-      "onboard_time": 1751675901,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 424798,
       "num": 235038,
       "word": "皓衣行 重启",
@@ -163,6 +179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 378100,
+      "num": 273633,
+      "word": "日本地震预言致外国游客取消行程",
+      "onboard_time": 1751680642,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 359168,
       "num": 232617,
       "word": "日本末世预言剩1天",
@@ -180,7 +204,7 @@
     },
     {
       "raw_hot": 333102,
-      "num": 195892,
+      "num": 212200,
       "word": "爆火过后终于理解租labubu的人了",
       "onboard_time": 1751679861,
       "rank": 20,
@@ -203,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 299602,
+      "num": 299602,
+      "word": "日本官方称地震预言纯属骗局",
+      "onboard_time": 1751679681,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 297159,
       "num": 268634,
       "word": "日本气象厅紧急辟谣",
@@ -217,6 +249,14 @@
       "onboard_time": 1751604325,
       "rank": 16,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 293842,
+      "num": 293842,
+      "word": "GEN对战AL",
+      "onboard_time": 1751676021,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 290717,
@@ -235,20 +275,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 278030,
-      "num": 127212,
-      "word": "油腻风的孕妇照",
-      "onboard_time": 1751680342,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 272934,
       "num": 272934,
       "word": "欠女大学生家教费老赖债主遍布全国",
       "onboard_time": 1751646861,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 272331,
+      "num": 272331,
+      "word": "怪不得赵晓卉没空参加脱口秀",
+      "onboard_time": 1751681781,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 265196,
@@ -315,6 +355,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 215252,
+      "num": 215252,
+      "word": "制片人评于正内涵任嘉伦",
+      "onboard_time": 1751679681,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215088,
       "num": 215088,
       "word": "北京下雨",
@@ -331,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204755,
+      "num": 204755,
+      "word": "长期不拔的插头正在悄悄酿火患",
+      "onboard_time": 1751676261,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203423,
       "num": 203423,
       "word": "李佳薇赛后发文",
@@ -344,14 +400,6 @@
       "word": "衡水一高中全班达线985211",
       "onboard_time": 1751672840,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 195649,
-      "num": 195649,
-      "word": "长期不拔的插头正在悄悄酿火患",
-      "onboard_time": 1751676261,
-      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -385,14 +433,6 @@
       "onboard_time": 1751640267,
       "rank": 26,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 167364,
-      "num": 286059,
-      "word": "日本官方称地震预言纯属骗局",
-      "onboard_time": 1751679681,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 165399,
@@ -467,12 +507,12 @@
       "category": "民生新闻,旅游"
     },
     {
-      "raw_hot": 146459,
-      "num": 146459,
-      "word": "GEN对战AL",
-      "onboard_time": 1751676021,
-      "rank": 24,
-      "category": "电竞"
+      "raw_hot": 146788,
+      "num": 146788,
+      "word": "BLACKPINK新曲回归预告",
+      "onboard_time": 1751679442,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 144720,
@@ -481,14 +521,6 @@
       "onboard_time": 1751639066,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 140277,
-      "num": 140277,
-      "word": "制片人评于正内涵任嘉伦",
-      "onboard_time": 1751679681,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 139777,
@@ -531,6 +563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123659,
+      "num": 123659,
+      "word": "韩安冉展示小女儿伤口",
+      "onboard_time": 1751680280,
+      "rank": 34,
+      "category": "网红"
+    },
+    {
       "raw_hot": 123255,
       "num": 123255,
       "word": "TVB演员雪妮病逝",
@@ -544,14 +584,6 @@
       "word": "孙颖莎王曼昱时隔18个月后携手双打",
       "onboard_time": 1751675960,
       "rank": 32,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 121873,
-      "num": 127501,
-      "word": "日本地震预言致外国游客取消行程",
-      "onboard_time": 1751680642,
-      "rank": 29,
       "category": "海外新闻"
     },
     {
@@ -579,14 +611,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 119714,
-      "num": 119714,
-      "word": "韩安冉展示小女儿伤口",
-      "onboard_time": 1751680280,
-      "rank": 34,
-      "category": "网红"
-    },
-    {
       "raw_hot": 118082,
       "num": 118082,
       "word": "金旻奎 清潭国际高中2",
@@ -595,12 +619,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 117141,
-      "num": 117141,
-      "word": "BLACKPINK新曲回归预告",
-      "onboard_time": 1751679442,
-      "rank": 37,
-      "category": "音乐"
+      "raw_hot": 113122,
+      "num": 113122,
+      "word": "普京说全世界都想进入中国市场",
+      "onboard_time": 1751675901,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 112364,
@@ -627,6 +651,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108405,
+      "num": 108405,
+      "word": "日本南海海槽大地震",
+      "onboard_time": 1751681483,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 107976,
+      "num": 107976,
+      "word": "桃花映江山 你老婆不要你咯",
+      "onboard_time": 1751681303,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107498,
       "num": 107498,
       "word": "不要允许任何人当众指责你",
@@ -635,20 +675,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 106426,
+      "num": 106426,
+      "word": "武警从淤泥里找出国旗细心叠好",
+      "onboard_time": 1751679081,
+      "rank": 47,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 105918,
-      "num": 105918,
+      "num": 202610,
       "word": "气象局回应青海祁连七月飞雪",
       "onboard_time": 1751679501,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105469,
-      "num": 105469,
-      "word": "普京说全世界都想进入中国市场",
-      "onboard_time": 1751675901,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 104111,
@@ -667,12 +707,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 96931,
-      "num": 96931,
-      "word": "武警从淤泥里找出国旗细心叠好",
-      "onboard_time": 1751679081,
-      "rank": 47,
-      "category": "正能量"
+      "raw_hot": 97464,
+      "num": 97464,
+      "word": "印度通报计划报复美国",
+      "onboard_time": 1751682022,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 95637,
+      "num": 95637,
+      "word": "小猫也会思念去世的朋友",
+      "onboard_time": 1751680822,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 93849,
@@ -713,6 +761,14 @@
       "onboard_time": 1751643385,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88294,
+      "num": 88294,
+      "word": "这就是纯天然无添加的小孩吗",
+      "onboard_time": 1751682081,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 84505,
@@ -827,6 +883,14 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 57803,
+      "num": 106605,
+      "word": "Kiin二连MVP",
+      "onboard_time": 1751679200,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 56821,
       "num": 114996,
       "word": "赛博朋克边缘行者2",
@@ -937,6 +1001,14 @@
       "onboard_time": 1751648180,
       "rank": 47,
       "category": "军事"
+    },
+    {
+      "raw_hot": 21810,
+      "num": 106479,
+      "word": "错误的午睡习惯会让你越睡越累",
+      "onboard_time": 1751674580,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 18630,
