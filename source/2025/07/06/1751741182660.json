@@ -1,0 +1,410 @@
+{
+  "runTime": 1751741182660,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 203248,
+        "num": 203248,
+        "word": "穆西亚拉",
+        "onboard_time": 1751739316,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168420,
+        "num": 168420,
+        "word": "jump",
+        "onboard_time": 1751733262,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 18586,
+        "num": 135230,
+        "word": "又一次被鱼水情深的双向奔赴感动",
+        "onboard_time": 1751723547,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 340049,
+        "num": 131082,
+        "word": "杭州东站卧轨事件目击者发声",
+        "onboard_time": 1751731042,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 113759,
+        "num": 113759,
+        "word": "美国男子肾移植术后体内爬满寄生虫",
+        "onboard_time": 1751724263,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 103461,
+        "num": 103461,
+        "word": "小伙脖子肿痛开刀取出7颗瓜子",
+        "onboard_time": 1751728585,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83297,
+        "num": 83297,
+        "word": "新说唱2025",
+        "onboard_time": 1751737997,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76301,
+        "num": 76301,
+        "word": "官方通报杭州东站卧轨事件",
+        "onboard_time": 1751730744,
+        "rank": 7,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 72919,
+        "num": 72919,
+        "word": "龙树谅称日本末日预言不是她写的",
+        "onboard_time": 1751732482,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58637,
+        "num": 72882,
+        "word": "LikeJENNIE爽疯了",
+        "onboard_time": 1751724984,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 339145,
+        "num": 72834,
+        "word": "杭州东站发生卧轨事件",
+        "onboard_time": 1751727385,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271878,
+        "num": 72817,
+        "word": "梓渝23岁生日",
+        "onboard_time": 1751734759,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210436,
+        "num": 72745,
+        "word": "美团外卖用户下单量突破历史峰值",
+        "onboard_time": 1751731224,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 166507,
+        "num": 72715,
+        "word": "曾志伟和女星合影姿势引争议",
+        "onboard_time": 1751725523,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98971,
+        "num": 72664,
+        "word": "3名初中生凌晨偷奔驰致严重车祸",
+        "onboard_time": 1751729964,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64373,
+        "num": 72657,
+        "word": "张杰打开手机人都红温了吧",
+        "onboard_time": 1751735179,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 58801,
+        "num": 72589,
+        "word": "田栩宁emoji",
+        "onboard_time": 1751725042,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54083,
+        "num": 72551,
+        "word": "河南一乡道因高温爆裂拱起",
+        "onboard_time": 1751734221,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53790,
+        "num": 72519,
+        "word": "日本西南群岛地震",
+        "onboard_time": 1751708603,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 49372,
+        "num": 72473,
+        "word": "陈乔恩分享5天紧急瘦身法",
+        "onboard_time": 1751726064,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126781,
+        "num": 72410,
+        "word": "12岁幼女家中遭强奸妈妈第二天才发现",
+        "onboard_time": 1751701881,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47002,
+        "num": 72388,
+        "word": "C罗未出席若塔葬礼顾虑抢走焦点",
+        "onboard_time": 1751739076,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43879,
+        "num": 72339,
+        "word": "任重孙骁骁牵手外出",
+        "onboard_time": 1751725225,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43852,
+        "num": 72281,
+        "word": "金智秀earthquake舞台",
+        "onboard_time": 1751730744,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 41292,
+        "num": 72251,
+        "word": "全员加速中",
+        "onboard_time": 1751730505,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40335,
+        "num": 72221,
+        "word": "疑似横店短剧演员去世",
+        "onboard_time": 1751708421,
+        "rank": 25,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 38749,
+        "num": 72140,
+        "word": "内娱艺人开始看观众脸色了",
+        "onboard_time": 1751725344,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38407,
+        "num": 72101,
+        "word": "Jennie你的兵回来了",
+        "onboard_time": 1751737038,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 38282,
+        "num": 72064,
+        "word": "养螳螂当宠物被邻居当成蟑螂喷杀虫剂",
+        "onboard_time": 1751729844,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32152,
+        "num": 72008,
+        "word": "男子走出空调房一下冷中暑",
+        "onboard_time": 1751719222,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49265,
+        "num": 71984,
+        "word": "美团崩了",
+        "onboard_time": 1751708782,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 38089,
+        "num": 71918,
+        "word": "日本末日预言者开始改口",
+        "onboard_time": 1751698942,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 36964,
+        "num": 71886,
+        "word": "北京天空",
+        "onboard_time": 1751727684,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36380,
+        "num": 71834,
+        "word": "女子遭同学设套被骗千万全家自杀",
+        "onboard_time": 1751706141,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35584,
+        "num": 71809,
+        "word": "郭旭蔡昆廷结婚",
+        "onboard_time": 1751720663,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34596,
+        "num": 71781,
+        "word": "狗头萝莉员工月薪已涨到六七千",
+        "onboard_time": 1751721023,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 34283,
+        "num": 71727,
+        "word": "你好星期六",
+        "onboard_time": 1751720663,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33387,
+        "num": 71658,
+        "word": "温网2025",
+        "onboard_time": 1751734999,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32063,
+        "num": 71644,
+        "word": "减肥最快的方法是提高身体代谢",
+        "onboard_time": 1751725042,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 31678,
+        "num": 71577,
+        "word": "等风热吻你",
+        "onboard_time": 1751716762,
+        "rank": 39,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 29938,
+        "num": 71564,
+        "word": "锦绣芳华评级",
+        "onboard_time": 1751720182,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28762,
+        "num": 71489,
+        "word": "尽量不要给手机整夜充电",
+        "onboard_time": 1751718142,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 28749,
+        "num": 71454,
+        "word": "21岁网红机车少年因意外车祸离世",
+        "onboard_time": 1751721023,
+        "rank": 42,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 28358,
+        "num": 71433,
+        "word": "十个勤天演唱会",
+        "onboard_time": 1751731823,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 28098,
+        "num": 71366,
+        "word": "刘宇宁哭戏",
+        "onboard_time": 1751740156,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27077,
+        "num": 71325,
+        "word": "胡楚靓回应连续十年踩中风口",
+        "onboard_time": 1751721264,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26670,
+        "num": 71271,
+        "word": "易烊千玺礐嶨演唱会先导海报",
+        "onboard_time": 1751740455,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 26583,
+        "num": 71250,
+        "word": "BLACKPINK新歌",
+        "onboard_time": 1751719704,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 25265,
+        "num": 71207,
+        "word": "孟子义内娱第一个饭渣人设",
+        "onboard_time": 1751721985,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23557,
+        "num": 71157,
+        "word": "网友爬天山偶遇罕见天山雪莲",
+        "onboard_time": 1751739076,
+        "rank": 49,
+        "category": "旅游,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记和青年朋友在一起#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751740376783,
+  "endTime": 1751741182660,
   "band_list": [
     {
       "raw_hot": 2706470,
@@ -387,6 +387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83297,
+      "num": 83297,
+      "word": "新说唱2025",
+      "onboard_time": 1751737997,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 82849,
       "num": 82849,
       "word": "孟子义内娱第一个饭渣人设",
@@ -401,14 +409,6 @@
       "onboard_time": 1751732842,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 79654,
-      "num": 79654,
-      "word": "新说唱2025",
-      "onboard_time": 1751737997,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 76470,
@@ -484,7 +484,7 @@
     },
     {
       "raw_hot": 56147,
-      "num": 71153,
+      "num": 72388,
       "word": "C罗未出席若塔葬礼顾虑抢走焦点",
       "onboard_time": 1751739076,
       "rank": 21,
@@ -492,7 +492,7 @@
     },
     {
       "raw_hot": 51828,
-      "num": 70994,
+      "num": 72101,
       "word": "Jennie你的兵回来了",
       "onboard_time": 1751737038,
       "rank": 43,
@@ -515,12 +515,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 25851,
-      "num": 70336,
+      "raw_hot": 28098,
+      "num": 71366,
       "word": "刘宇宁哭戏",
       "onboard_time": 1751740156,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 26670,
+      "num": 71271,
+      "word": "易烊千玺礐嶨演唱会先导海报",
+      "onboard_time": 1751740455,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 23560,
@@ -529,6 +537,14 @@
       "onboard_time": 1751730805,
       "rank": 40,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 23557,
+      "num": 71157,
+      "word": "网友爬天山偶遇罕见天山雪莲",
+      "onboard_time": 1751739076,
+      "rank": 49,
+      "category": "旅游,民生新闻"
     }
   ],
   "hotgov_list": [
