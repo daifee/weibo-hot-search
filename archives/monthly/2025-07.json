@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751812928036,
+  "endTime": 1751815539979,
   "band_list": [
     {
       "raw_hot": 7611710,
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 1518482,
-      "num": 261825,
+      "num": 280148,
       "word": "当你的子宫都开始对你催生",
       "onboard_time": 1751781201,
       "rank": 20,
@@ -425,6 +425,14 @@
       "onboard_time": 1751685381,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1429532,
+      "num": 1429532,
+      "word": "青岛大学去世宿管曾收养多只流浪猫",
+      "onboard_time": 1751811384,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1429448,
@@ -657,6 +665,14 @@
       "onboard_time": 1751778982,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1197153,
+      "num": 379990,
+      "word": "藏海传床戏",
+      "onboard_time": 1751812104,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 1192980,
@@ -1177,14 +1193,6 @@
       "onboard_time": 1751328081,
       "rank": 1,
       "category": "美食,民生新闻"
-    },
-    {
-      "raw_hot": 871963,
-      "num": 871963,
-      "word": "青岛大学去世宿管曾收养多只流浪猫",
-      "onboard_time": 1751811384,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 871450,
@@ -3059,14 +3067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 467532,
-      "num": 379990,
-      "word": "藏海传床戏",
-      "onboard_time": 1751812104,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 466559,
       "num": 466559,
       "word": "8岁女孩被邻居带到长江游泳溺亡",
@@ -3308,7 +3308,7 @@
     },
     {
       "raw_hot": 444426,
-      "num": 328151,
+      "num": 443301,
       "word": "白鹿回应张鑫",
       "onboard_time": 1751809884,
       "rank": 15,
@@ -3883,6 +3883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 375934,
+      "num": 321922,
+      "word": "BLACKPINK演唱会偶遇邓超孙俪一家",
+      "onboard_time": 1751812164,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 375902,
       "num": 375902,
       "word": "任重孙骁骁牵手外出",
@@ -3945,6 +3953,14 @@
       "onboard_time": 1751366300,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 369438,
+      "num": 369438,
+      "word": "男子借住朋友家一觉醒来6万没了",
+      "onboard_time": 1751812645,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 369295,
@@ -4307,6 +4323,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 341674,
+      "num": 341674,
+      "word": "勿忘19370707",
+      "onboard_time": 1751810305,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 341374,
       "num": 204813,
       "word": "雨果因签证问题无缘美国大满贯",
@@ -4321,6 +4345,14 @@
       "onboard_time": 1751456843,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 339975,
+      "num": 339975,
+      "word": "石凯晒拍立得",
+      "onboard_time": 1751814204,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 338394,
@@ -4691,14 +4723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 317942,
-      "num": 317942,
-      "word": "勿忘19370707",
-      "onboard_time": 1751810305,
-      "rank": 14,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 316213,
       "num": 316213,
       "word": "徐艺洋回应黄子韬未读乱回",
@@ -4873,6 +4897,14 @@
       "onboard_time": 1751757798,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 308384,
+      "num": 337763,
+      "word": "警方回应拍身份证照片能否戴眼镜",
+      "onboard_time": 1751813604,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 307356,
@@ -6059,6 +6091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 238783,
+      "num": 238783,
+      "word": "中考720分小伙高二转职高学烹饪",
+      "onboard_time": 1751812344,
+      "rank": 42,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 238744,
       "num": 241486,
       "word": "丁禹兮假吃战绩可查",
@@ -6128,14 +6168,6 @@
       "word": "金智秀earthquake舞台",
       "onboard_time": 1751730744,
       "rank": 15,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 235731,
-      "num": 235731,
-      "word": "BLACKPINK演唱会偶遇邓超孙俪一家",
-      "onboard_time": 1751812164,
-      "rank": 25,
       "category": "演出"
     },
     {
@@ -6929,6 +6961,14 @@
       "onboard_time": 1751538743,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214159,
+      "num": 214159,
+      "word": "本月起你的工资或将多一笔钱",
+      "onboard_time": 1751809704,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 214155,
@@ -7787,6 +7827,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 198596,
+      "num": 317568,
+      "word": "学生称去世宿管大爷平时身体很好",
+      "onboard_time": 1751814143,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198486,
       "num": 198486,
       "word": "金智秀alo线下活动",
@@ -7897,6 +7945,14 @@
       "onboard_time": 1751775981,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197305,
+      "num": 163490,
+      "word": "律师称幼童躺街上被碾司机不会免责",
+      "onboard_time": 1751814564,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 197196,
@@ -8073,14 +8129,6 @@
       "onboard_time": 1751295983,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 194431,
-      "num": 194431,
-      "word": "本月起你的工资或将多一笔钱",
-      "onboard_time": 1751809704,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 194197,
@@ -9731,6 +9779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167034,
+      "num": 289393,
+      "word": "刘诗诗李庚希同框合照",
+      "onboard_time": 1751813904,
+      "rank": 19,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 167024,
       "num": 208179,
       "word": "刘宇宁今天孤要跟离十六干大事",
@@ -9867,6 +9923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165027,
+      "num": 163298,
+      "word": "脊柱最喜欢的4个动作",
+      "onboard_time": 1751815286,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 164843,
       "num": 164843,
       "word": "赴山海9月备播",
@@ -9944,6 +10008,14 @@
       "word": "预判了虞书欣的预判",
       "onboard_time": 1751607442,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 163602,
+      "num": 163602,
+      "word": "王俊凯竟然爱吃折耳根",
+      "onboard_time": 1751815105,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -10169,6 +10241,14 @@
       "onboard_time": 1751435482,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 161589,
+      "num": 176709,
+      "word": "男子被钓鱼者甩钩钩住太阳穴",
+      "onboard_time": 1751812766,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161543,
@@ -10467,6 +10547,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 157577,
+      "num": 157577,
+      "word": "Bin赛后致歉",
+      "onboard_time": 1751814204,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 157396,
       "num": 157396,
       "word": "小狗嘴里有好多小手套",
@@ -10537,6 +10625,14 @@
       "onboard_time": 1751722646,
       "rank": 39,
       "category": "海外新闻,动漫"
+    },
+    {
+      "raw_hot": 156541,
+      "num": 156541,
+      "word": "七七事变",
+      "onboard_time": 1751813184,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 156524,
@@ -10971,6 +11067,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 152286,
+      "num": 152286,
+      "word": "日本气象厅再发预警",
+      "onboard_time": 1751812707,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 152261,
       "num": 152261,
       "word": "普京与特朗普通话近1小时",
@@ -11057,14 +11161,6 @@
       "onboard_time": 1751636246,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 150630,
-      "num": 150630,
-      "word": "中考720分小伙高二转职高学烹饪",
-      "onboard_time": 1751812344,
-      "rank": 42,
-      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 150561,
@@ -11955,14 +12051,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 140484,
-      "num": 140484,
-      "word": "男子借住朋友家一觉醒来6万没了",
-      "onboard_time": 1751812645,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 140422,
       "num": 284058,
       "word": "云南大理出现罕见鱼阵",
@@ -12260,7 +12348,7 @@
     },
     {
       "raw_hot": 137808,
-      "num": 137808,
+      "num": 177691,
       "word": "常州队收获苏超首个积分",
       "onboard_time": 1751810064,
       "rank": 47,
@@ -12363,6 +12451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136341,
+      "num": 136341,
+      "word": "断眉attention万人大合唱给我唱爽了",
+      "onboard_time": 1751815345,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 136331,
       "num": 136331,
       "word": "李一桐刘宇宁现代番外",
@@ -12457,6 +12553,14 @@
       "onboard_time": 1751688142,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 135588,
+      "num": 135588,
+      "word": "张雨绮一出场哇声一片",
+      "onboard_time": 1751814624,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 135518,
@@ -14075,6 +14179,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 121815,
+      "num": 121815,
+      "word": "李耕耘直播",
+      "onboard_time": 1751815404,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121727,
       "num": 121727,
       "word": "苏超",
@@ -14467,6 +14579,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 118521,
+      "num": 118521,
+      "word": "鹿晗句句有回应",
+      "onboard_time": 1751814025,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 118505,
       "num": 118505,
       "word": "猫一觉睡醒变成赵本山了",
@@ -14849,6 +14969,14 @@
       "onboard_time": 1751300301,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115426,
+      "num": 115426,
+      "word": "吃冷饮在嘴里含三五秒真的有用",
+      "onboard_time": 1751813364,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 115293,
@@ -17577,14 +17705,6 @@
       "onboard_time": 1751758218,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 86701,
-      "num": 176709,
-      "word": "男子被钓鱼者甩钩钩住太阳穴",
-      "onboard_time": 1751812766,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 86552,
@@ -20713,6 +20833,14 @@
       "onboard_time": 1751308934,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 23374,
+      "num": 242082,
+      "word": "日本呼吁民众做好长期防震准备",
+      "onboard_time": 1751815286,
+      "rank": 21,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 23347,
