@@ -1,0 +1,410 @@
+{
+  "runTime": 1751767948188,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1047932,
+        "num": 1167669,
+        "word": "罗马仕深夜正式发布停工停产通知",
+        "onboard_time": 1751765481,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 758465,
+        "num": 758465,
+        "word": "马斯克发文成立美国党",
+        "onboard_time": 1751757859,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 53586,
+        "num": 703558,
+        "word": "又一次被鱼水情深的双向奔赴感动",
+        "onboard_time": 1751723547,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 692609,
+        "num": 692609,
+        "word": "罗马仕宣布停工停产半年",
+        "onboard_time": 1751764101,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 488777,
+        "num": 488777,
+        "word": "BLG对战T1",
+        "onboard_time": 1751761221,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 446610,
+        "num": 446610,
+        "word": "女子意外怀孕生下孩子卖掉换钱",
+        "onboard_time": 1751761580,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 387972,
+        "num": 387972,
+        "word": "五星级酒店摆地摊日入3万",
+        "onboard_time": 1751764880,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283771,
+        "num": 385587,
+        "word": "狗头萝莉建议不要搞擦边",
+        "onboard_time": 1751763320,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 236175,
+        "num": 381171,
+        "word": "梓渝新歌",
+        "onboard_time": 1751762481,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 119756,
+        "num": 376163,
+        "word": "甘肃幼儿血铅异常事件发现疑似毒源",
+        "onboard_time": 1751766922,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1416961,
+        "num": 373394,
+        "word": "男子长期性侵未成年养女被判死刑",
+        "onboard_time": 1751761580,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 491052,
+        "num": 367356,
+        "word": "杭州东站发生卧轨事件",
+        "onboard_time": 1751727385,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 364452,
+        "num": 364452,
+        "word": "建议不要临睡前才刷牙",
+        "onboard_time": 1751744114,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 525803,
+        "num": 348734,
+        "word": "梓渝换新手机",
+        "onboard_time": 1751763621,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49414,
+        "num": 313182,
+        "word": "美得州洪灾已致51死",
+        "onboard_time": 1751767161,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 303499,
+        "num": 303499,
+        "word": "rapper用归国四子diss黄子韬",
+        "onboard_time": 1751757798,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269491,
+        "num": 269491,
+        "word": "马斯克想拿下美国会两院部分席位",
+        "onboard_time": 1751757798,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 239066,
+        "num": 239066,
+        "word": "曾志伟和女星合影姿势引争议",
+        "onboard_time": 1751725523,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235699,
+        "num": 235699,
+        "word": "男子威胁公开前女同事隐私视频",
+        "onboard_time": 1751760861,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209515,
+        "num": 225647,
+        "word": "王一博北京飞巴黎路透",
+        "onboard_time": 1751764942,
+        "rank": 19,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 222811,
+        "num": 222811,
+        "word": "小伙脖子肿痛开刀取出7颗瓜子",
+        "onboard_time": 1751728585,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222249,
+        "num": 222249,
+        "word": "恋与深空去中化",
+        "onboard_time": 1751766142,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 220658,
+        "num": 220658,
+        "word": "田栩宁 孩子",
+        "onboard_time": 1751767582,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206973,
+        "num": 206973,
+        "word": "杨幂同款汉服卖爆了",
+        "onboard_time": 1751763020,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204947,
+        "num": 204947,
+        "word": "沈梦辰锦绣芳华吻戏",
+        "onboard_time": 1751762239,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203264,
+        "num": 203264,
+        "word": "梅西梅开二度",
+        "onboard_time": 1751767103,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148316,
+        "num": 203247,
+        "word": "张杰打开手机人都红温了吧",
+        "onboard_time": 1751735179,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114240,
+        "num": 203182,
+        "word": "白鹿给张鑫送定制麦克风",
+        "onboard_time": 1751766260,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108069,
+        "num": 203064,
+        "word": "谁家男主尸体都不放过啊",
+        "onboard_time": 1751757737,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15341,
+        "num": 203012,
+        "word": "塞纳河解除超百年禁令开放游泳",
+        "onboard_time": 1751767761,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 202995,
+        "num": 202995,
+        "word": "罗马仕陷入34场官司均为被告",
+        "onboard_time": 1751766561,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200549,
+        "num": 200549,
+        "word": "3名初中生凌晨偷奔驰致严重车祸",
+        "onboard_time": 1751729964,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196986,
+        "num": 196986,
+        "word": "外卖员没撞娃家长讹人被抓现行",
+        "onboard_time": 1751766742,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191713,
+        "num": 191713,
+        "word": "MSI",
+        "onboard_time": 1751767161,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136303,
+        "num": 136303,
+        "word": "Faker状态拉满",
+        "onboard_time": 1751764822,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125796,
+        "num": 125796,
+        "word": "英媒称伊导弹击中以5处军事设施",
+        "onboard_time": 1751764281,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124315,
+        "num": 124315,
+        "word": "女子指甲下长肿瘤被误诊甲沟炎10年",
+        "onboard_time": 1751757198,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122496,
+        "num": 122496,
+        "word": "运20正式列装空军9年了",
+        "onboard_time": 1751762001,
+        "rank": 37,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 121358,
+        "num": 121358,
+        "word": "美国男子肾移植术后体内爬满寄生虫",
+        "onboard_time": 1751724263,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 109335,
+        "num": 120261,
+        "word": "杨和苏 真是一年都没让我缺席",
+        "onboard_time": 1751766922,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120086,
+        "num": 120086,
+        "word": "美国得州洪灾死亡上升至49人",
+        "onboard_time": 1751763320,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 112468,
+        "num": 112468,
+        "word": "河南一乡道因高温爆裂拱起",
+        "onboard_time": 1751734221,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111243,
+        "num": 111243,
+        "word": "巨瘦腰的7天有效法",
+        "onboard_time": 1751757737,
+        "rank": 42,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 108365,
+        "num": 108365,
+        "word": "憋气比赛狗狗发现人作弊破口大骂",
+        "onboard_time": 1751767103,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106658,
+        "num": 106658,
+        "word": "杭州东站卧轨事件目击者发声",
+        "onboard_time": 1751731042,
+        "rank": 44,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 102263,
+        "num": 102263,
+        "word": "小猫上厕所用力过猛有点开线了",
+        "onboard_time": 1751761401,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102062,
+        "num": 102062,
+        "word": "谢娜的老公是个形容词",
+        "onboard_time": 1751764760,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98029,
+        "num": 98029,
+        "word": "人真的要珍惜单身的时候",
+        "onboard_time": 1751758877,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91082,
+        "num": 91082,
+        "word": "i人女子偶遇梁靖崑一人一脸懵",
+        "onboard_time": 1751767822,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90864,
+        "num": 90864,
+        "word": "土耳其一边大雪一边林火",
+        "onboard_time": 1751767461,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记和青年朋友在一起#"
+    }
+  }
+}
