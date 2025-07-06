@@ -1,6 +1,6 @@
 {
   "startTime": 1751819447185,
-  "endTime": 1751844315952,
+  "endTime": 1751845285251,
   "band_list": [
     {
       "raw_hot": 3495922,
@@ -9,6 +9,14 @@
       "onboard_time": 1751816663,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 2085627,
+      "num": 2085627,
+      "word": "青岛大学凌晨发情况说明",
+      "onboard_time": 1751843478,
+      "rank": 5,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1905783,
@@ -59,14 +67,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 455977,
-      "num": 455977,
-      "word": "青岛大学凌晨发情况说明",
-      "onboard_time": 1751843478,
-      "rank": 5,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 404011,
       "num": 290392,
       "word": "身份证照片 戴眼镜",
@@ -81,6 +81,22 @@
       "onboard_time": 1751803764,
       "rank": 3,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 334573,
+      "num": 273426,
+      "word": "马斯克被警告会成为一个没国家的人",
+      "onboard_time": 1751843240,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 301667,
+      "num": 301667,
+      "word": "男子借住朋友家一觉醒来6万没了",
+      "onboard_time": 1751812645,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 301505,
@@ -105,14 +121,6 @@
       "onboard_time": 1751812164,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 292042,
-      "num": 292042,
-      "word": "男子借住朋友家一觉醒来6万没了",
-      "onboard_time": 1751812645,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 289734,
@@ -155,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 269517,
+      "num": 269517,
+      "word": "日军官因找借口挑起卢沟桥事变升职",
+      "onboard_time": 1751805205,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 249952,
       "num": 291441,
       "word": "七七事变88年了",
@@ -169,6 +185,14 @@
       "onboard_time": 1751816423,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 240924,
+      "num": 240924,
+      "word": "台风",
+      "onboard_time": 1751843118,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 239676,
@@ -195,28 +219,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 208871,
-      "num": 208871,
-      "word": "马斯克被警告会成为一个没国家的人",
-      "onboard_time": 1751843240,
-      "rank": 16,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 197820,
       "num": 197820,
       "word": "七七事变",
       "onboard_time": 1751813184,
       "rank": 22,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 193691,
-      "num": 193691,
-      "word": "台风",
-      "onboard_time": 1751843118,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 192574,
@@ -251,6 +259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 159845,
+      "num": 287422,
+      "word": "7月7日迎来小暑",
+      "onboard_time": 1751844621,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159152,
       "num": 159152,
       "word": "血铅异常幼儿异地血检数据升十多倍",
@@ -283,16 +299,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 153549,
-      "num": 153549,
-      "word": "日军官因找借口挑起卢沟桥事变升职",
-      "onboard_time": 1751805205,
-      "rank": 24,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 149314,
-      "num": 279761,
+      "num": 299587,
       "word": "鹿晗安慰粉丝别哭别哭",
       "onboard_time": 1751822238,
       "rank": 19,
@@ -305,6 +313,14 @@
       "onboard_time": 1751805684,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 137022,
+      "num": 137022,
+      "word": "吃冷饮在嘴里含三五秒真的有用",
+      "onboard_time": 1751813364,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 132417,
@@ -324,10 +340,18 @@
     },
     {
       "raw_hot": 130957,
-      "num": 194044,
+      "num": 207245,
       "word": "张鑫 白鹿站姐",
       "onboard_time": 1751809583,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 126044,
+      "num": 126044,
+      "word": "王岳伦机场接王诗龄",
+      "onboard_time": 1751810544,
+      "rank": 42,
       "category": "艺人"
     },
     {
@@ -339,12 +363,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 119666,
-      "num": 119666,
-      "word": "王岳伦机场接王诗龄",
-      "onboard_time": 1751810544,
-      "rank": 42,
-      "category": "艺人"
+      "raw_hot": 118315,
+      "num": 287613,
+      "word": "以法之名28集",
+      "onboard_time": 1751839395,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 113113,
@@ -355,12 +379,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 112346,
-      "num": 112346,
-      "word": "吃冷饮在嘴里含三五秒真的有用",
-      "onboard_time": 1751813364,
-      "rank": 35,
-      "category": "健康医疗"
+      "raw_hot": 108205,
+      "num": 108205,
+      "word": "本月起你的工资或将多一笔钱",
+      "onboard_time": 1751809704,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106734,
@@ -403,22 +427,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 101315,
-      "num": 208873,
-      "word": "以法之名28集",
-      "onboard_time": 1751839395,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 100536,
-      "num": 100536,
-      "word": "本月起你的工资或将多一笔钱",
-      "onboard_time": 1751809704,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 100103,
       "num": 196872,
       "word": "史上最强短剧阵容来了",
@@ -451,6 +459,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 93480,
+      "num": 93480,
+      "word": "43岁女子姐弟恋怀孕后婆婆不认可",
+      "onboard_time": 1751787982,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90411,
       "num": 90411,
       "word": "Bin赛后致歉",
@@ -467,11 +483,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 88503,
-      "num": 88503,
-      "word": "43岁女子姐弟恋怀孕后婆婆不认可",
-      "onboard_time": 1751787982,
-      "rank": 49,
+      "raw_hot": 88829,
+      "num": 88829,
+      "word": "广铁事件中的恶劣一面",
+      "onboard_time": 1751824037,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -481,6 +497,14 @@
       "onboard_time": 1751812707,
       "rank": 45,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 86362,
+      "num": 86362,
+      "word": "王楚钦回应倒地爆冲",
+      "onboard_time": 1751844679,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 85226,
@@ -507,12 +531,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 75667,
-      "num": 75667,
-      "word": "广铁事件中的恶劣一面",
-      "onboard_time": 1751824037,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 74269,
+      "num": 74269,
+      "word": "现在的农村喜宴越来越高级了",
+      "onboard_time": 1751844741,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 69340,
+      "num": 70633,
+      "word": "瑞草洞",
+      "onboard_time": 1751841737,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 68216,
@@ -539,20 +571,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 56677,
-      "num": 70633,
-      "word": "瑞草洞",
-      "onboard_time": 1751841737,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 55765,
       "num": 72952,
       "word": "张杰演唱会都不白来",
       "onboard_time": 1751822058,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 54376,
+      "num": 66198,
+      "word": "山东舰编队访港",
+      "onboard_time": 1751827995,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 52668,
@@ -571,12 +603,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45530,
+      "num": 70587,
+      "word": "张艺兴受到召唤·敦煌",
+      "onboard_time": 1751844079,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 43920,
-      "num": 653077,
+      "num": 1062677,
       "word": "文化中国行看古人的清凉好物",
       "onboard_time": 1751810124,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 40177,
+      "num": 74779,
+      "word": "霍肯伯格生涯首次领奖台",
+      "onboard_time": 1751840836,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 38930,
@@ -593,14 +641,6 @@
       "onboard_time": 1751837655,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32973,
-      "num": 70587,
-      "word": "张艺兴受到召唤·敦煌",
-      "onboard_time": 1751844079,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 32391,
@@ -651,14 +691,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 28556,
-      "num": 35815,
-      "word": "山东舰编队访港",
-      "onboard_time": 1751827995,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 27297,
       "num": 34692,
       "word": "刘雨昕面对唱歌被质疑的心态",
@@ -699,14 +731,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 21561,
-      "num": 35782,
-      "word": "霍肯伯格生涯首次领奖台",
-      "onboard_time": 1751840836,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 20494,
       "num": 22904,
       "word": "机器人cha了登陆少年新舞台",
@@ -737,6 +761,14 @@
       "onboard_time": 1751832854,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 14958,
+      "num": 206507,
+      "word": "青岛大学宿舍图",
+      "onboard_time": 1751844980,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12751,

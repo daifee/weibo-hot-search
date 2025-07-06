@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751844315952,
+  "endTime": 1751845285251,
   "band_list": [
     {
       "raw_hot": 7611710,
@@ -65,6 +65,14 @@
       "onboard_time": 1751805684,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2085627,
+      "num": 2085627,
+      "word": "青岛大学凌晨发情况说明",
+      "onboard_time": 1751843478,
+      "rank": 5,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1921486,
@@ -523,14 +531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 455977,
-      "num": 455977,
-      "word": "青岛大学凌晨发情况说明",
-      "onboard_time": 1751843478,
-      "rank": 5,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 454176,
       "num": 369618,
       "word": "青岛大学学生说住宿舍半夜被热醒",
@@ -771,6 +771,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 334573,
+      "num": 273426,
+      "word": "马斯克被警告会成为一个没国家的人",
+      "onboard_time": 1751843240,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 327122,
       "num": 321331,
       "word": "4岁宝宝手术台上把自己麻晕",
@@ -947,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 269517,
+      "num": 269517,
+      "word": "日军官因找借口挑起卢沟桥事变升职",
+      "onboard_time": 1751805205,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 269491,
       "num": 269491,
       "word": "马斯克想拿下美国会两院部分席位",
@@ -1081,6 +1097,14 @@
       "onboard_time": 1751806405,
       "rank": 24,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 240924,
+      "num": 240924,
+      "word": "台风",
+      "onboard_time": 1751843118,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 237493,
@@ -1241,14 +1265,6 @@
       "onboard_time": 1751764942,
       "rank": 19,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 208871,
-      "num": 208871,
-      "word": "马斯克被警告会成为一个没国家的人",
-      "onboard_time": 1751843240,
-      "rank": 16,
-      "category": "国际时政"
     },
     {
       "raw_hot": 208845,
@@ -1507,14 +1523,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 193691,
-      "num": 193691,
-      "word": "台风",
-      "onboard_time": 1751843118,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 193516,
       "num": 193516,
       "word": "王楚钦回应被孙颖莎带着打",
@@ -1617,14 +1625,6 @@
       "onboard_time": 1751798364,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 183726,
-      "num": 183726,
-      "word": "日军官因找借口挑起卢沟桥事变升职",
-      "onboard_time": 1751805205,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 182912,
@@ -1891,6 +1891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159845,
+      "num": 287422,
+      "word": "7月7日迎来小暑",
+      "onboard_time": 1751844621,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159776,
       "num": 200337,
       "word": "程潇陈梦摆拍二人组",
@@ -2068,7 +2076,7 @@
     },
     {
       "raw_hot": 149314,
-      "num": 279761,
+      "num": 299587,
       "word": "鹿晗安慰粉丝别哭别哭",
       "onboard_time": 1751822238,
       "rank": 19,
@@ -2275,6 +2283,14 @@
       "category": "海外新闻,动漫"
     },
     {
+      "raw_hot": 137022,
+      "num": 137022,
+      "word": "吃冷饮在嘴里含三五秒真的有用",
+      "onboard_time": 1751813364,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 136824,
       "num": 136824,
       "word": "李耕耘直播",
@@ -2401,14 +2417,6 @@
       "onboard_time": 1751792181,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 130652,
-      "num": 130652,
-      "word": "吃冷饮在嘴里含三五秒真的有用",
-      "onboard_time": 1751813364,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 130384,
@@ -2681,6 +2689,14 @@
       "onboard_time": 1751814025,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 118315,
+      "num": 287613,
+      "word": "以法之名28集",
+      "onboard_time": 1751839395,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 117215,
@@ -3163,14 +3179,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 101315,
-      "num": 208873,
-      "word": "以法之名28集",
-      "onboard_time": 1751839395,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 101264,
       "num": 101264,
       "word": "江苏各地特产销量暴涨",
@@ -3451,6 +3459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88829,
+      "num": 88829,
+      "word": "广铁事件中的恶劣一面",
+      "onboard_time": 1751824037,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88654,
       "num": 88654,
       "word": "甘肃幼儿园血铅异常幼儿家长发声",
@@ -3472,6 +3488,14 @@
       "word": "巴黎圣日耳曼2比0拜仁",
       "onboard_time": 1751758218,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 86362,
+      "num": 86362,
+      "word": "王楚钦回应倒地爆冲",
+      "onboard_time": 1751844679,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -3595,14 +3619,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 75667,
-      "num": 75667,
-      "word": "广铁事件中的恶劣一面",
-      "onboard_time": 1751824037,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 74879,
       "num": 87112,
       "word": "狗头萝莉员工月薪已涨到六七千",
@@ -3617,6 +3633,14 @@
       "onboard_time": 1751726004,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74269,
+      "num": 74269,
+      "word": "现在的农村喜宴越来越高级了",
+      "onboard_time": 1751844741,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 74114,
@@ -3652,11 +3676,19 @@
     },
     {
       "raw_hot": 70381,
-      "num": 1030416,
+      "num": 1062677,
       "word": "文化中国行看古人的清凉好物",
       "onboard_time": 1751810124,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 69340,
+      "num": 70633,
+      "word": "瑞草洞",
+      "onboard_time": 1751841737,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 69321,
@@ -3771,14 +3803,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 56677,
-      "num": 70633,
-      "word": "瑞草洞",
-      "onboard_time": 1751841737,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 56147,
       "num": 72388,
       "word": "C罗未出席若塔葬礼顾虑抢走焦点",
@@ -3801,6 +3825,14 @@
       "onboard_time": 1751822058,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 54376,
+      "num": 66198,
+      "word": "山东舰编队访港",
+      "onboard_time": 1751827995,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 53678,
@@ -3875,6 +3907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45530,
+      "num": 70587,
+      "word": "张艺兴受到召唤·敦煌",
+      "onboard_time": 1751844079,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 42903,
       "num": 654348,
       "word": "网警提醒高考花钱改分是骗局",
@@ -3905,6 +3945,14 @@
       "onboard_time": 1751800046,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 40177,
+      "num": 74779,
+      "word": "霍肯伯格生涯首次领奖台",
+      "onboard_time": 1751840836,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 38930,
@@ -3953,14 +4001,6 @@
       "onboard_time": 1751837655,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32973,
-      "num": 70587,
-      "word": "张艺兴受到召唤·敦煌",
-      "onboard_time": 1751844079,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 32674,
@@ -4025,14 +4065,6 @@
       "onboard_time": 1751825776,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 28556,
-      "num": 35815,
-      "word": "山东舰编队访港",
-      "onboard_time": 1751827995,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 28098,
@@ -4107,14 +4139,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 21561,
-      "num": 35782,
-      "word": "霍肯伯格生涯首次领奖台",
-      "onboard_time": 1751840836,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 20494,
       "num": 22904,
       "word": "机器人cha了登陆少年新舞台",
@@ -4177,6 +4201,14 @@
       "onboard_time": 1751832854,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 14958,
+      "num": 206507,
+      "word": "青岛大学宿舍图",
+      "onboard_time": 1751844980,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12751,
