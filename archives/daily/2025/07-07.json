@@ -1,6 +1,6 @@
 {
   "startTime": 1751819447185,
-  "endTime": 1751837055284,
+  "endTime": 1751837967259,
   "band_list": [
     {
       "raw_hot": 3495922,
@@ -563,20 +563,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 25711,
+      "num": 36424,
+      "word": "杨紫脖子上的青筋都哭出来了",
+      "onboard_time": 1751830514,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 25413,
       "num": 34691,
       "word": "种地吧",
       "onboard_time": 1751826915,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 24298,
-      "num": 29548,
-      "word": "杨紫脖子上的青筋都哭出来了",
-      "onboard_time": 1751830514,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 22911,
@@ -603,12 +603,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 18035,
+      "raw_hot": 19645,
       "num": 54515,
       "word": "王楚钦说巴黎奥运会是孙颖莎带着自己打",
       "onboard_time": 1751833334,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 19075,
+      "num": 22804,
+      "word": "何九华哭着说不该发脾气",
+      "onboard_time": 1751836574,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 17889,
@@ -620,7 +628,7 @@
     },
     {
       "raw_hot": 16634,
-      "num": 16634,
+      "num": 22803,
       "word": "14岁英雄誓死不肯泄露八路军秘密",
       "onboard_time": 1751834654,
       "rank": 37,
@@ -633,14 +641,6 @@
       "onboard_time": 1751832854,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 13849,
-      "num": 15400,
-      "word": "何九华哭着说不该发脾气",
-      "onboard_time": 1751836574,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 12751,
@@ -665,6 +665,14 @@
       "onboard_time": 1751834533,
       "rank": 20,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10303,
+      "num": 34818,
+      "word": "来自一个不扫兴的爸爸的爱",
+      "onboard_time": 1751837655,
+      "rank": 21,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
