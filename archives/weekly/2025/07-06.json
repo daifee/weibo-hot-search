@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751791506358,
+  "endTime": 1751793962780,
   "band_list": [
     {
       "raw_hot": 4282599,
@@ -57,6 +57,14 @@
       "onboard_time": 1751761580,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1325945,
+      "num": 268643,
+      "word": "身份证照片 戴眼镜",
+      "onboard_time": 1751790262,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 1309223,
@@ -123,12 +131,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 886475,
+      "num": 886475,
+      "word": "日本教材污蔑卢沟桥事变中方先开枪",
+      "onboard_time": 1751788703,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 865469,
       "num": 649089,
       "word": "杭州东站卧轨事件目击者发声",
       "onboard_time": 1751731042,
       "rank": 4,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 847937,
+      "num": 264293,
+      "word": "小蝶 宠爱",
+      "onboard_time": 1751793022,
+      "rank": 12,
+      "category": "电竞"
     },
     {
       "raw_hot": 796085,
@@ -195,6 +219,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 690754,
+      "num": 690754,
+      "word": "1.4万买的房子发现价值43万游戏卡牌",
+      "onboard_time": 1751789601,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 688841,
       "num": 688841,
       "word": "女子吃冰脑壳一紧突发脑结冰",
@@ -209,14 +241,6 @@
       "onboard_time": 1751776943,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 645265,
-      "num": 474050,
-      "word": "1.4万买的房子发现价值43万游戏卡牌",
-      "onboard_time": 1751789601,
-      "rank": 3,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 619179,
@@ -241,14 +265,6 @@
       "onboard_time": 1751728585,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 549574,
-      "num": 549574,
-      "word": "日本教材污蔑卢沟桥事变中方先开枪",
-      "onboard_time": 1751788703,
-      "rank": 6,
-      "category": "国内时政"
     },
     {
       "raw_hot": 541168,
@@ -347,14 +363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 440020,
-      "num": 268643,
-      "word": "身份证照片 戴眼镜",
-      "onboard_time": 1751790262,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 418580,
       "num": 418580,
       "word": "jump",
@@ -387,12 +395,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 392924,
+      "num": 392924,
+      "word": "金世佳方回应身份证掉了",
+      "onboard_time": 1751789661,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 383368,
       "num": 383368,
       "word": "罗马仕向消费者表示深刻歉意",
       "onboard_time": 1751779283,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 382908,
+      "num": 382908,
+      "word": "谢娜时隔三天才回杨迪微信",
+      "onboard_time": 1751789480,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 381325,
@@ -411,14 +435,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 364954,
-      "num": 364954,
-      "word": "谢娜时隔三天才回杨迪微信",
-      "onboard_time": 1751789480,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 362814,
       "num": 239064,
       "word": "金泰亨朴宝剑手牵手",
@@ -433,6 +449,14 @@
       "onboard_time": 1751701881,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 354794,
+      "num": 256076,
+      "word": "小蝶",
+      "onboard_time": 1751792962,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 342997,
@@ -465,14 +489,6 @@
       "onboard_time": 1751730744,
       "rank": 6,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 318517,
-      "num": 318517,
-      "word": "金世佳方回应身份证掉了",
-      "onboard_time": 1751789661,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 315377,
@@ -579,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 255204,
+      "num": 255204,
+      "word": "霍启刚郭晶晶参观山东舰",
+      "onboard_time": 1751792001,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 250769,
       "num": 250769,
       "word": "LikeJENNIE爽疯了",
@@ -660,7 +684,7 @@
     },
     {
       "raw_hot": 227926,
-      "num": 227926,
+      "num": 236975,
       "word": "时代少年团抢票",
       "onboard_time": 1751790683,
       "rank": 40,
@@ -849,6 +873,14 @@
       "onboard_time": 1751771962,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 186041,
+      "num": 186041,
+      "word": "李嘉格坚持10年替父母规划过冬地点",
+      "onboard_time": 1751793260,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 182405,
@@ -1067,6 +1099,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 148672,
+      "num": 148672,
+      "word": "鹰击长空型高铁车头又帅又能跑",
+      "onboard_time": 1751793202,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146808,
       "num": 146808,
       "word": "以法之名",
@@ -1155,6 +1195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137256,
+      "num": 137256,
+      "word": "新说唱南北cp",
+      "onboard_time": 1751792844,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137109,
       "num": 137109,
       "word": "日本预言家自曝只画了插画",
@@ -1225,6 +1273,14 @@
       "onboard_time": 1751783002,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 131029,
+      "num": 131029,
+      "word": "BLG",
+      "onboard_time": 1751792181,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 130384,
@@ -1515,12 +1571,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 110871,
+      "num": 270835,
+      "word": "门店回应老人扎堆蹭空调放喇叭驱赶",
+      "onboard_time": 1751792844,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110836,
       "num": 115460,
       "word": "耳帝评新说唱年轻选手洗牌",
       "onboard_time": 1751785282,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110824,
+      "num": 110824,
+      "word": "宋一梦 人心中的成见是座大山",
+      "onboard_time": 1751793681,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 110408,
@@ -1584,6 +1656,14 @@
       "word": "憋气比赛狗狗发现人作弊破口大骂",
       "onboard_time": 1751767103,
       "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 107654,
+      "num": 107654,
+      "word": "人作弊被狗发现了",
+      "onboard_time": 1751793743,
+      "rank": 39,
       "category": "幽默"
     },
     {
@@ -1771,6 +1851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99332,
+      "num": 99332,
+      "word": "青岛7年内最高温",
+      "onboard_time": 1751793863,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99002,
       "num": 99002,
       "word": "以法之名后备箱是聚宝盆",
@@ -1873,6 +1961,22 @@
       "onboard_time": 1751767461,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 90401,
+      "num": 90401,
+      "word": "不是蟑螂是令郎",
+      "onboard_time": 1751793202,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 89218,
+      "num": 89218,
+      "word": "警犬救援演练发现是熟人扭头就走",
+      "onboard_time": 1751793863,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88654,
@@ -2043,6 +2147,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67832,
+      "num": 86156,
+      "word": "17岁苏超球员被替换下场一步三回头",
+      "onboard_time": 1751791224,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 66801,
+      "num": 85706,
+      "word": "孙颖莎懵懵比赞",
+      "onboard_time": 1751791882,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66359,
       "num": 87224,
       "word": "邓紫棋满眼都是对空调的渴望",
@@ -2065,6 +2185,14 @@
       "onboard_time": 1751735179,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 63438,
+      "num": 691641,
+      "word": "9个台风天安全提醒",
+      "onboard_time": 1751775683,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63216,
@@ -2113,6 +2241,14 @@
       "onboard_time": 1751739076,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 53678,
+      "num": 228111,
+      "word": "汪东城版美猴王空降淮安",
+      "onboard_time": 1751792661,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 53616,
@@ -2185,14 +2321,6 @@
       "onboard_time": 1751784501,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 40180,
-      "num": 549591,
-      "word": "9个台风天安全提醒",
-      "onboard_time": 1751775683,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 34971,
