@@ -1,6 +1,6 @@
 {
   "startTime": 1751819447185,
-  "endTime": 1751841842855,
+  "endTime": 1751844315952,
   "band_list": [
     {
       "raw_hot": 3495922,
@@ -16,6 +16,14 @@
       "word": "学生称去世宿管大爷平时身体很好",
       "onboard_time": 1751814143,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 894785,
+      "num": 894785,
+      "word": "青岛大学学生称有同学宿舍中暑送医",
+      "onboard_time": 1751820921,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -35,12 +43,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 531638,
-      "num": 531638,
-      "word": "青岛大学学生称有同学宿舍中暑送医",
-      "onboard_time": 1751820921,
+      "raw_hot": 506416,
+      "num": 506416,
+      "word": "孙颖莎3比2刘杨子",
+      "onboard_time": 1751842877,
       "rank": 3,
-      "category": "民生新闻"
+      "category": "体育"
     },
     {
       "raw_hot": 472521,
@@ -49,6 +57,14 @@
       "onboard_time": 1751811384,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 455977,
+      "num": 455977,
+      "word": "青岛大学凌晨发情况说明",
+      "onboard_time": 1751843478,
+      "rank": 5,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 404011,
@@ -65,6 +81,14 @@
       "onboard_time": 1751803764,
       "rank": 3,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 301505,
+      "num": 301505,
+      "word": "血铅异常幼儿园老师称自己也是受害者",
+      "onboard_time": 1751818823,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 298908,
@@ -99,6 +123,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 283940,
+      "num": 283940,
+      "word": "马斯克回应对特朗普由爱转恨原因",
+      "onboard_time": 1751816063,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 276905,
       "num": 291931,
       "word": "石凯晒拍立得",
@@ -113,6 +145,14 @@
       "onboard_time": 1751817203,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 273311,
+      "num": 276776,
+      "word": "女子称丽江一店冰淇淋9.9元变48元",
+      "onboard_time": 1751819840,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 249952,
@@ -147,12 +187,20 @@
       "category": "教育,民生新闻"
     },
     {
-      "raw_hot": 212423,
-      "num": 241440,
-      "word": "血铅异常幼儿园老师称自己也是受害者",
-      "onboard_time": 1751818823,
-      "rank": 19,
+      "raw_hot": 216112,
+      "num": 216112,
+      "word": "警方回应拍身份证照片能否戴眼镜",
+      "onboard_time": 1751813604,
+      "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 208871,
+      "num": 208871,
+      "word": "马斯克被警告会成为一个没国家的人",
+      "onboard_time": 1751843240,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 197820,
@@ -161,6 +209,14 @@
       "onboard_time": 1751813184,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 193691,
+      "num": 193691,
+      "word": "台风",
+      "onboard_time": 1751843118,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 192574,
@@ -179,19 +235,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 167424,
-      "num": 219599,
-      "word": "马斯克回应对特朗普由爱转恨原因",
-      "onboard_time": 1751816063,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 165430,
-      "num": 165430,
-      "word": "女子称丽江一店冰淇淋9.9元变48元",
-      "onboard_time": 1751819840,
-      "rank": 36,
+      "raw_hot": 182268,
+      "num": 182268,
+      "word": "小暑",
+      "onboard_time": 1751843058,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -235,16 +283,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 155279,
-      "num": 155279,
-      "word": "警方回应拍身份证照片能否戴眼镜",
-      "onboard_time": 1751813604,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 153549,
+      "num": 153549,
+      "word": "日军官因找借口挑起卢沟桥事变升职",
+      "onboard_time": 1751805205,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 149314,
-      "num": 149314,
+      "num": 279761,
       "word": "鹿晗安慰粉丝别哭别哭",
       "onboard_time": 1751822238,
       "rank": 19,
@@ -276,7 +324,7 @@
     },
     {
       "raw_hot": 130957,
-      "num": 131967,
+      "num": 194044,
       "word": "张鑫 白鹿站姐",
       "onboard_time": 1751809583,
       "rank": 28,
@@ -291,6 +339,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 119666,
+      "num": 119666,
+      "word": "王岳伦机场接王诗龄",
+      "onboard_time": 1751810544,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113113,
       "num": 113113,
       "word": "林俊杰潘玮柏首次同台燃炸",
@@ -299,8 +355,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 112062,
-      "num": 112062,
+      "raw_hot": 112346,
+      "num": 112346,
       "word": "吃冷饮在嘴里含三五秒真的有用",
       "onboard_time": 1751813364,
       "rank": 35,
@@ -331,6 +387,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 102672,
+      "num": 209063,
+      "word": "杨紫脖子上的青筋都哭出来了",
+      "onboard_time": 1751830514,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101551,
       "num": 101551,
       "word": "邓紫棋专家号藏不住了",
@@ -339,12 +403,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 101315,
+      "num": 208873,
+      "word": "以法之名28集",
+      "onboard_time": 1751839395,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100536,
       "num": 100536,
       "word": "本月起你的工资或将多一笔钱",
       "onboard_time": 1751809704,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100103,
+      "num": 196872,
+      "word": "史上最强短剧阵容来了",
+      "onboard_time": 1751798423,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 99338,
@@ -371,14 +451,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 91298,
-      "num": 91298,
-      "word": "王岳伦机场接王诗龄",
-      "onboard_time": 1751810544,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 90411,
       "num": 90411,
       "word": "Bin赛后致歉",
@@ -393,6 +465,14 @@
       "onboard_time": 1751817382,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88503,
+      "num": 88503,
+      "word": "43岁女子姐弟恋怀孕后婆婆不认可",
+      "onboard_time": 1751787982,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87370,
@@ -427,16 +507,16 @@
       "category": "情感"
     },
     {
-      "raw_hot": 81438,
-      "num": 81438,
-      "word": "43岁女子姐弟恋怀孕后婆婆不认可",
-      "onboard_time": 1751787982,
-      "rank": 49,
+      "raw_hot": 75667,
+      "num": 75667,
+      "word": "广铁事件中的恶劣一面",
+      "onboard_time": 1751824037,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
       "raw_hot": 68216,
-      "num": 70220,
+      "num": 70594,
       "word": "4岁宝宝手术台上把自己麻晕",
       "onboard_time": 1751808745,
       "rank": 48,
@@ -459,11 +539,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 62624,
-      "num": 118679,
-      "word": "杨紫脖子上的青筋都哭出来了",
-      "onboard_time": 1751830514,
-      "rank": 49,
+      "raw_hot": 56677,
+      "num": 70633,
+      "word": "瑞草洞",
+      "onboard_time": 1751841737,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -476,7 +556,7 @@
     },
     {
       "raw_hot": 52668,
-      "num": 65225,
+      "num": 70617,
       "word": "何九华哭着说不该发脾气",
       "onboard_time": 1751836574,
       "rank": 48,
@@ -492,27 +572,11 @@
     },
     {
       "raw_hot": 43920,
-      "num": 489748,
+      "num": 653077,
       "word": "文化中国行看古人的清凉好物",
       "onboard_time": 1751810124,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 41007,
-      "num": 43069,
-      "word": "以法之名28集",
-      "onboard_time": 1751839395,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 40992,
-      "num": 40992,
-      "word": "广铁事件中的恶劣一面",
-      "onboard_time": 1751824037,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 38930,
@@ -524,11 +588,19 @@
     },
     {
       "raw_hot": 33481,
-      "num": 35817,
+      "num": 70580,
       "word": "来自一个不扫兴的爸爸的爱",
       "onboard_time": 1751837655,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32973,
+      "num": 70587,
+      "word": "张艺兴受到召唤·敦煌",
+      "onboard_time": 1751844079,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 32391,
@@ -625,14 +697,6 @@
       "onboard_time": 1751828715,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 21749,
-      "num": 35787,
-      "word": "瑞草洞",
-      "onboard_time": 1751841737,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 21561,
