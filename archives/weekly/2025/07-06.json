@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751790702054,
+  "endTime": 1751791506358,
   "band_list": [
     {
       "raw_hot": 4282599,
@@ -11,8 +11,8 @@
       "category": "教育,民生新闻"
     },
     {
-      "raw_hot": 2868126,
-      "num": 2868126,
+      "raw_hot": 3397807,
+      "num": 3397807,
       "word": "金世佳你身份证掉了",
       "onboard_time": 1751789540,
       "rank": 0,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1518482,
-      "num": 206184,
+      "num": 243330,
       "word": "当你的子宫都开始对你催生",
       "onboard_time": 1751781201,
       "rank": 20,
@@ -211,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 645265,
+      "num": 474050,
+      "word": "1.4万买的房子发现价值43万游戏卡牌",
+      "onboard_time": 1751789601,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 619179,
       "num": 619179,
       "word": "G社拍的刘诗诗",
@@ -233,6 +241,14 @@
       "onboard_time": 1751728585,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 549574,
+      "num": 549574,
+      "word": "日本教材污蔑卢沟桥事变中方先开枪",
+      "onboard_time": 1751788703,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 541168,
@@ -259,6 +275,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 490370,
+      "num": 243321,
+      "word": "43岁女子姐弟恋怀孕后婆婆不认可",
+      "onboard_time": 1751787982,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 488777,
       "num": 488777,
       "word": "BLG对战T1",
@@ -275,28 +299,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 474050,
-      "num": 474050,
-      "word": "1.4万买的房子发现价值43万游戏卡牌",
-      "onboard_time": 1751789601,
-      "rank": 3,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 468322,
-      "num": 181160,
-      "word": "43岁女子姐弟恋怀孕后婆婆不认可",
-      "onboard_time": 1751787982,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 460487,
       "num": 460487,
       "word": "北京天空",
       "onboard_time": 1751727684,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 454059,
+      "num": 454059,
+      "word": "费大厨 本科以下勿扰",
+      "onboard_time": 1751785522,
+      "rank": 22,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 453830,
@@ -331,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 440020,
+      "num": 268643,
+      "word": "身份证照片 戴眼镜",
+      "onboard_time": 1751790262,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 418580,
       "num": 418580,
       "word": "jump",
@@ -345,14 +369,6 @@
       "onboard_time": 1751727684,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 413737,
-      "num": 413737,
-      "word": "费大厨 本科以下勿扰",
-      "onboard_time": 1751785522,
-      "rank": 22,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 410036,
@@ -379,12 +395,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 381325,
+      "num": 381325,
+      "word": "中方对欧盟采取对等限制措施",
+      "onboard_time": 1751789540,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 369157,
       "num": 369157,
       "word": "美国男子肾移植术后体内爬满寄生虫",
       "onboard_time": 1751724263,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 364954,
+      "num": 364954,
+      "word": "谢娜时隔三天才回杨迪微信",
+      "onboard_time": 1751789480,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 362814,
@@ -419,14 +451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 320490,
-      "num": 320490,
-      "word": "日本教材污蔑卢沟桥事变中方先开枪",
-      "onboard_time": 1751788703,
-      "rank": 6,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 320309,
       "num": 320309,
       "word": "李昀锐公主抱关晓彤",
@@ -441,6 +465,14 @@
       "onboard_time": 1751730744,
       "rank": 6,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 318517,
+      "num": 318517,
+      "word": "金世佳方回应身份证掉了",
+      "onboard_time": 1751789661,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 315377,
@@ -467,14 +499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 307953,
-      "num": 307953,
-      "word": "中方对欧盟采取对等限制措施",
-      "onboard_time": 1751789540,
-      "rank": 7,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 305213,
       "num": 305213,
       "word": "山东考公人拒绝不了的电视剧来了",
@@ -497,6 +521,14 @@
       "onboard_time": 1751766142,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 272120,
+      "num": 272120,
+      "word": "王俊凯出任电竞世界杯中国唯一大使",
+      "onboard_time": 1751789781,
+      "rank": 16,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 271582,
@@ -523,6 +555,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 265170,
+      "num": 265170,
+      "word": "易烊千玺广州演唱会官宣取消",
+      "onboard_time": 1751789061,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 262334,
       "num": 262334,
       "word": "张凯丽女儿和素人选手分词起争执",
@@ -537,14 +577,6 @@
       "onboard_time": 1751757798,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 252288,
-      "num": 252288,
-      "word": "谢娜时隔三天才回杨迪微信",
-      "onboard_time": 1751789480,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 250769,
@@ -571,12 +603,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 246752,
-      "num": 281228,
-      "word": "金世佳方回应身份证掉了",
-      "onboard_time": 1751789661,
-      "rank": 9,
-      "category": "艺人"
+      "raw_hot": 243121,
+      "num": 243121,
+      "word": "吃蝎子吃掉了上海一套房",
+      "onboard_time": 1751790382,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 237493,
+      "num": 237493,
+      "word": "易烊千玺广州演唱会大麦违约",
+      "onboard_time": 1751789480,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 236008,
@@ -611,14 +651,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 233613,
-      "num": 233613,
-      "word": "王俊凯出任电竞世界杯中国唯一大使",
-      "onboard_time": 1751789781,
-      "rank": 16,
-      "category": "艺人,电竞"
-    },
-    {
       "raw_hot": 233107,
       "num": 233107,
       "word": "杨幂同款汉服卖爆了",
@@ -627,11 +659,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 228051,
-      "num": 228051,
-      "word": "易烊千玺广州演唱会官宣取消",
-      "onboard_time": 1751789061,
-      "rank": 18,
+      "raw_hot": 227926,
+      "num": 227926,
+      "word": "时代少年团抢票",
+      "onboard_time": 1751790683,
+      "rank": 40,
       "category": "演出"
     },
     {
@@ -649,14 +681,6 @@
       "onboard_time": 1751776283,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 217977,
-      "num": 180094,
-      "word": "易烊千玺广州演唱会大麦违约",
-      "onboard_time": 1751789480,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 216338,
@@ -737,6 +761,14 @@
       "onboard_time": 1751766742,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201723,
+      "num": 243420,
+      "word": "王俊凯希望中国俱乐部可以取得好成绩",
+      "onboard_time": 1751791043,
+      "rank": 19,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 201552,
@@ -843,19 +875,19 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 178254,
-      "num": 156207,
-      "word": "身份证照片 戴眼镜",
-      "onboard_time": 1751790262,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 177471,
       "num": 177471,
       "word": "小伙追综艺熬2天2夜后抢救了10天",
       "onboard_time": 1751777361,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177150,
+      "num": 190664,
+      "word": "老人被指为乘凉挤满餐厅占座",
+      "onboard_time": 1751788101,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -865,14 +897,6 @@
       "onboard_time": 1751767761,
       "rank": 29,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 175950,
-      "num": 175950,
-      "word": "吃蝎子吃掉了上海一套房",
-      "onboard_time": 1751790382,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 175569,
@@ -961,14 +985,6 @@
       "onboard_time": 1751786181,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 159584,
-      "num": 190664,
-      "word": "老人被指为乘凉挤满餐厅占座",
-      "onboard_time": 1751788101,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 158425,
@@ -1123,6 +1139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139378,
+      "num": 139378,
+      "word": "别瞧不起中专",
+      "onboard_time": 1751787802,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138310,
       "num": 138310,
       "word": "国际接吻日",
@@ -1235,6 +1259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127485,
+      "num": 127485,
+      "word": "毛不易说明日的歌对他很重要",
+      "onboard_time": 1751790803,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 127436,
       "num": 125212,
       "word": "解说怒喷BLG游戏理解差",
@@ -1289,14 +1321,6 @@
       "onboard_time": 1751764281,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 125792,
-      "num": 125792,
-      "word": "别瞧不起中专",
-      "onboard_time": 1751787802,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 125785,
@@ -1427,6 +1451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114381,
+      "num": 114381,
+      "word": "00后上班摸鱼赚220元的一天",
+      "onboard_time": 1751788342,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 113769,
       "num": 113769,
       "word": "BLACKPINK新歌",
@@ -1513,14 +1545,6 @@
       "onboard_time": 1751774843,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 110319,
-      "num": 110319,
-      "word": "时代少年团抢票",
-      "onboard_time": 1751790683,
-      "rank": 40,
-      "category": "演出"
     },
     {
       "raw_hot": 109748,
@@ -1627,6 +1651,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 105722,
+      "num": 105722,
+      "word": "广东部分地区发布停课信号",
+      "onboard_time": 1751791043,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105281,
       "num": 105281,
       "word": "该不该砸窗不妨多问问现场乘客感受",
@@ -1657,6 +1689,14 @@
       "onboard_time": 1751782762,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 103110,
+      "num": 103110,
+      "word": "魏建军感谢雷军祝福",
+      "onboard_time": 1751791104,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 102263,
@@ -1699,20 +1739,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 101002,
-      "num": 101002,
-      "word": "00后上班摸鱼赚220元的一天",
-      "onboard_time": 1751788342,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 100972,
       "num": 100972,
       "word": "刘雨昕任嘉伦双人popping",
       "onboard_time": 1751727203,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 100785,
+      "num": 100785,
+      "word": "人活着就是为了玩",
+      "onboard_time": 1751791163,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 100538,
@@ -1745,6 +1785,14 @@
       "onboard_time": 1751706141,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96561,
+      "num": 99930,
+      "word": "王楚钦干饭人",
+      "onboard_time": 1751790262,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 95168,
@@ -1815,14 +1863,6 @@
       "num": 91082,
       "word": "i人女子偶遇梁靖崑一人一脸懵",
       "onboard_time": 1751767822,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 90912,
-      "num": 99930,
-      "word": "王楚钦干饭人",
-      "onboard_time": 1751790262,
       "rank": 48,
       "category": "体育"
     },
@@ -2147,6 +2187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40180,
+      "num": 549591,
+      "word": "9个台风天安全提醒",
+      "onboard_time": 1751775683,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34971,
       "num": 37835,
       "word": "21岁机车少年意外离世父亲发文悼念",
@@ -2160,6 +2208,14 @@
       "word": "世界市长对话上合峰会城市",
       "onboard_time": 1751775922,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33575,
+      "num": 130594,
+      "word": "放弃继承遗产死者生前借款还用还吗",
+      "onboard_time": 1751791283,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -2185,14 +2241,6 @@
       "onboard_time": 1751730805,
       "rank": 40,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 27302,
-      "num": 501379,
-      "word": "9个台风天安全提醒",
-      "onboard_time": 1751775683,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26670,

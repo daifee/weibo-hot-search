@@ -1,0 +1,410 @@
+{
+  "runTime": 1751791506358,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3397807,
+        "num": 3397807,
+        "word": "金世佳你身份证掉了",
+        "onboard_time": 1751789540,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 551148,
+        "num": 551148,
+        "word": "王楚钦回应莎头组合能否复制",
+        "onboard_time": 1751784262,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40180,
+        "num": 549591,
+        "word": "9个台风天安全提醒",
+        "onboard_time": 1751775683,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 549574,
+        "num": 549574,
+        "word": "日本教材污蔑卢沟桥事变中方先开枪",
+        "onboard_time": 1751788703,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 454059,
+        "num": 454059,
+        "word": "费大厨 本科以下勿扰",
+        "onboard_time": 1751785522,
+        "rank": 4,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 381325,
+        "num": 381325,
+        "word": "中方对欧盟采取对等限制措施",
+        "onboard_time": 1751789540,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 364954,
+        "num": 364954,
+        "word": "谢娜时隔三天才回杨迪微信",
+        "onboard_time": 1751789480,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355708,
+        "num": 355708,
+        "word": "女子吃冰脑壳一紧突发脑结冰",
+        "onboard_time": 1751781262,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318517,
+        "num": 318517,
+        "word": "金世佳方回应身份证掉了",
+        "onboard_time": 1751789661,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272120,
+        "num": 272120,
+        "word": "王俊凯出任电竞世界杯中国唯一大使",
+        "onboard_time": 1751789781,
+        "rank": 9,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 1758047,
+        "num": 271904,
+        "word": "青岛大学宿管",
+        "onboard_time": 1751784562,
+        "rank": 10,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 645265,
+        "num": 270605,
+        "word": "1.4万买的房子发现价值43万游戏卡牌",
+        "onboard_time": 1751789601,
+        "rank": 11,
+        "category": "海外新闻,游戏"
+      },
+      {
+        "raw_hot": 596622,
+        "num": 269574,
+        "word": "田栩宁 孩子",
+        "onboard_time": 1751767582,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 440020,
+        "num": 268643,
+        "word": "身份证照片 戴眼镜",
+        "onboard_time": 1751790262,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369393,
+        "num": 267522,
+        "word": "朱珠 妈咪不会营业",
+        "onboard_time": 1751784801,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266973,
+        "num": 266973,
+        "word": "男子长期性侵未成年养女被判死刑",
+        "onboard_time": 1751761580,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265170,
+        "num": 265170,
+        "word": "易烊千玺广州演唱会官宣取消",
+        "onboard_time": 1751789061,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 257146,
+        "num": 257146,
+        "word": "朋友圈三天可见置顶像生死簿一样长",
+        "onboard_time": 1751778082,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 244083,
+        "num": 244083,
+        "word": "hi6",
+        "onboard_time": 1751780242,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201723,
+        "num": 243420,
+        "word": "王俊凯希望中国俱乐部可以取得好成绩",
+        "onboard_time": 1751791043,
+        "rank": 19,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 826264,
+        "num": 243330,
+        "word": "当你的子宫都开始对你催生",
+        "onboard_time": 1751781201,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 490370,
+        "num": 243321,
+        "word": "43岁女子姐弟恋怀孕后婆婆不认可",
+        "onboard_time": 1751787982,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243121,
+        "num": 243121,
+        "word": "吃蝎子吃掉了上海一套房",
+        "onboard_time": 1751790382,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237493,
+        "num": 237493,
+        "word": "易烊千玺广州演唱会大麦违约",
+        "onboard_time": 1751789480,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 227926,
+        "num": 227926,
+        "word": "时代少年团抢票",
+        "onboard_time": 1751790683,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 202060,
+        "num": 202060,
+        "word": "阿坝车辆坠崖2死5失联家属急寻线索",
+        "onboard_time": 1751778022,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179463,
+        "num": 179463,
+        "word": "田栩宁微指连续四天破亿",
+        "onboard_time": 1751771722,
+        "rank": 26,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 177150,
+        "num": 177150,
+        "word": "老人被指为乘凉挤满餐厅占座",
+        "onboard_time": 1751788101,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154535,
+        "num": 154535,
+        "word": "郑星源 梓渝",
+        "onboard_time": 1751774662,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151446,
+        "num": 151446,
+        "word": "沈梦辰接住了杨紫的戏",
+        "onboard_time": 1751777001,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143655,
+        "num": 143655,
+        "word": "李昀锐公主抱关晓彤",
+        "onboard_time": 1751779341,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139378,
+        "num": 139378,
+        "word": "别瞧不起中专",
+        "onboard_time": 1751787802,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136308,
+        "num": 136308,
+        "word": "张鑫晒白鹿送的麦克风",
+        "onboard_time": 1751785462,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133747,
+        "num": 133747,
+        "word": "父亲称为儿子买房骗其在白纸上签字",
+        "onboard_time": 1751776943,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33575,
+        "num": 130594,
+        "word": "放弃继承遗产死者生前借款还用还吗",
+        "onboard_time": 1751791283,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127485,
+        "num": 127485,
+        "word": "毛不易说明日的歌对他很重要",
+        "onboard_time": 1751790803,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121435,
+        "num": 121435,
+        "word": "七旬老人舍不得开空调热到神智不清",
+        "onboard_time": 1751782521,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118891,
+        "num": 118891,
+        "word": "漂流是致死率最高的旅游安全事故",
+        "onboard_time": 1751785641,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117080,
+        "num": 117080,
+        "word": "时代少年团在里面闹麻了",
+        "onboard_time": 1751789963,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116907,
+        "num": 116907,
+        "word": "TizzyT也黑化了",
+        "onboard_time": 1751786841,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116779,
+        "num": 116779,
+        "word": "今年三伏只有30天",
+        "onboard_time": 1751773642,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115777,
+        "num": 115777,
+        "word": "俄军一口气买了20万台摩托车",
+        "onboard_time": 1751784801,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114381,
+        "num": 114381,
+        "word": "00后上班摸鱼赚220元的一天",
+        "onboard_time": 1751788342,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109515,
+        "num": 109515,
+        "word": "金泰亨朴宝剑手牵手",
+        "onboard_time": 1751782462,
+        "rank": 43,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 105722,
+        "num": 105722,
+        "word": "广东部分地区发布停课信号",
+        "onboard_time": 1751791043,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103110,
+        "num": 103110,
+        "word": "魏建军感谢雷军祝福",
+        "onboard_time": 1751791104,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 100785,
+        "num": 100785,
+        "word": "人活着就是为了玩",
+        "onboard_time": 1751791163,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97076,
+        "num": 97076,
+        "word": "罗马仕向消费者表示深刻歉意",
+        "onboard_time": 1751779283,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96561,
+        "num": 96561,
+        "word": "王楚钦干饭人",
+        "onboard_time": 1751790262,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92471,
+        "num": 92471,
+        "word": "Cryin谈Bin和Zeus差异",
+        "onboard_time": 1751788281,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#厦门发展战略启示#"
+    }
+  }
+}
