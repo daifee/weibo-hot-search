@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751840769154,
+  "endTime": 1751841842855,
   "band_list": [
     {
       "raw_hot": 7611710,
@@ -1731,6 +1731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167424,
+      "num": 219599,
+      "word": "马斯克回应对特朗普由爱转恨原因",
+      "onboard_time": 1751816063,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 166647,
       "num": 166647,
       "word": "书卷一梦女主人设",
@@ -1744,6 +1752,14 @@
       "word": "中通回应幼童躺街上被快递车碾压身亡",
       "onboard_time": 1751779641,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165430,
+      "num": 165430,
+      "word": "女子称丽江一店冰淇淋9.9元变48元",
+      "onboard_time": 1751819840,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -2097,14 +2113,6 @@
       "onboard_time": 1751772804,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 144900,
-      "num": 219599,
-      "word": "马斯克回应对特朗普由爱转恨原因",
-      "onboard_time": 1751816063,
-      "rank": 32,
-      "category": "国际时政"
     },
     {
       "raw_hot": 144612,
@@ -2577,14 +2585,6 @@
       "onboard_time": 1751762001,
       "rank": 37,
       "category": "军事"
-    },
-    {
-      "raw_hot": 121610,
-      "num": 121610,
-      "word": "女子称丽江一店冰淇淋9.9元变48元",
-      "onboard_time": 1751819840,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 121160,
@@ -3675,6 +3675,14 @@
       "category": "体育,互联网"
     },
     {
+      "raw_hot": 62624,
+      "num": 118679,
+      "word": "杨紫脖子上的青筋都哭出来了",
+      "onboard_time": 1751830514,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 61708,
       "num": 115494,
       "word": "王楚钦首轮对阵奇里塔",
@@ -3755,6 +3763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52668,
+      "num": 65225,
+      "word": "何九华哭着说不该发脾气",
+      "onboard_time": 1751836574,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 51828,
       "num": 72101,
       "word": "Jennie你的兵回来了",
@@ -3785,14 +3801,6 @@
       "onboard_time": 1751758819,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 47159,
-      "num": 79812,
-      "word": "杨紫脖子上的青筋都哭出来了",
-      "onboard_time": 1751830514,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 45546,
@@ -3835,20 +3843,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 41007,
+      "num": 43069,
+      "word": "以法之名28集",
+      "onboard_time": 1751839395,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 40992,
+      "num": 40992,
+      "word": "广铁事件中的恶劣一面",
+      "onboard_time": 1751824037,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38930,
       "num": 103843,
       "word": "厦门台风前出现魔幻朝霞",
       "onboard_time": 1751825957,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35935,
-      "num": 51742,
-      "word": "何九华哭着说不该发脾气",
-      "onboard_time": 1751836574,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 35662,
@@ -3875,14 +3891,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33967,
-      "num": 34693,
-      "word": "广铁事件中的恶劣一面",
-      "onboard_time": 1751824037,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 33575,
       "num": 130594,
       "word": "放弃继承遗产死者生前借款还用还吗",
@@ -3892,7 +3900,7 @@
     },
     {
       "raw_hot": 33481,
-      "num": 34818,
+      "num": 35817,
       "word": "来自一个不扫兴的爸爸的爱",
       "onboard_time": 1751837655,
       "rank": 21,
@@ -3963,6 +3971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 28556,
+      "num": 35815,
+      "word": "山东舰编队访港",
+      "onboard_time": 1751827995,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 28098,
       "num": 71366,
       "word": "刘宇宁哭戏",
@@ -3979,28 +3995,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 27705,
-      "num": 31740,
-      "word": "山东舰编队访港",
-      "onboard_time": 1751827995,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 27297,
       "num": 34692,
       "word": "刘雨昕面对唱歌被质疑的心态",
       "onboard_time": 1751827095,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 26898,
-      "num": 31732,
-      "word": "以法之名28集",
-      "onboard_time": 1751839395,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 26670,
@@ -4019,20 +4019,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 26430,
+      "num": 54515,
+      "word": "王楚钦说巴黎奥运会是孙颖莎带着自己打",
+      "onboard_time": 1751833334,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 25413,
       "num": 34691,
       "word": "种地吧",
       "onboard_time": 1751826915,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 24216,
-      "num": 54515,
-      "word": "王楚钦说巴黎奥运会是孙颖莎带着自己打",
-      "onboard_time": 1751833334,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 22911,
@@ -4049,6 +4049,22 @@
       "onboard_time": 1751828715,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 21749,
+      "num": 35787,
+      "word": "瑞草洞",
+      "onboard_time": 1751841737,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 21561,
+      "num": 35782,
+      "word": "霍肯伯格生涯首次领奖台",
+      "onboard_time": 1751840836,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 20494,
