@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751774347329,
+  "endTime": 1751774940654,
   "band_list": [
     {
       "raw_hot": 2706470,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 887458,
-      "num": 642659,
+      "num": 653087,
       "word": "内娱最决绝的解约声明",
       "onboard_time": 1751769441,
       "rank": 3,
@@ -115,6 +115,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 686685,
+      "num": 686685,
+      "word": "中缅泰将全面清剿电诈园区",
+      "onboard_time": 1751773162,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 619179,
       "num": 619179,
       "word": "G社拍的刘诗诗",
@@ -129,6 +137,14 @@
       "onboard_time": 1751728585,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 541377,
+      "num": 301339,
+      "word": "郑星源 梓渝",
+      "onboard_time": 1751774662,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 525803,
@@ -147,20 +163,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 491214,
-      "num": 638980,
-      "word": "中缅泰将全面清剿电诈园区",
-      "onboard_time": 1751773162,
-      "rank": 4,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 488777,
       "num": 488777,
       "word": "BLG对战T1",
       "onboard_time": 1751761221,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 481418,
+      "num": 333150,
+      "word": "28岁女生辞职改行被全家托举",
+      "onboard_time": 1751772984,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 460487,
@@ -208,14 +224,6 @@
       "word": "杭州东站卧轨者已送往医院",
       "onboard_time": 1751727684,
       "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 412321,
-      "num": 333150,
-      "word": "28岁女生辞职改行被全家托举",
-      "onboard_time": 1751772984,
-      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -379,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 234243,
+      "num": 234243,
+      "word": "这条小鱼在乎谁唱谁哭",
+      "onboard_time": 1751773103,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 233107,
       "num": 233107,
       "word": "杨幂同款汉服卖爆了",
@@ -393,14 +409,6 @@
       "onboard_time": 1751739316,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 221470,
-      "num": 221470,
-      "word": "这条小鱼在乎谁唱谁哭",
-      "onboard_time": 1751773103,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 212406,
@@ -451,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 199872,
+      "num": 199872,
+      "word": "今年三伏只有30天",
+      "onboard_time": 1751773642,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 196036,
       "num": 145297,
       "word": "刘品言挺孕肚主持电影节",
@@ -467,6 +483,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 192847,
+      "num": 145080,
+      "word": "马斯克准备明年参选",
+      "onboard_time": 1751772323,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 191713,
       "num": 191713,
       "word": "MSI",
@@ -475,20 +499,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 190873,
+      "num": 190873,
+      "word": "宋妍霏上节目两次拿反话筒",
+      "onboard_time": 1751774001,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 190049,
+      "num": 190049,
+      "word": "刘学义生日被工作室做局",
+      "onboard_time": 1751774422,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187135,
       "num": 187135,
       "word": "BLG败后发文",
       "onboard_time": 1751771962,
       "rank": 25,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 185496,
-      "num": 145080,
-      "word": "马斯克准备明年参选",
-      "onboard_time": 1751772323,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 180141,
@@ -513,14 +545,6 @@
       "onboard_time": 1751725225,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 172600,
-      "num": 172600,
-      "word": "今年三伏只有30天",
-      "onboard_time": 1751773642,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 167669,
@@ -555,12 +579,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 157354,
+      "num": 141450,
+      "word": "天气热到共情吸血鬼",
+      "onboard_time": 1751773821,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 150192,
       "num": 150192,
       "word": "南非发生多起针对女性中国公民绑架",
       "onboard_time": 1751769262,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 146808,
+      "num": 146808,
+      "word": "以法之名",
+      "onboard_time": 1751774422,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 146775,
+      "num": 146775,
+      "word": "郝蕾节目里调侃选手太土",
+      "onboard_time": 1751774242,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 145836,
@@ -579,14 +627,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 144047,
-      "num": 144047,
-      "word": "宋妍霏上节目两次拿反话筒",
-      "onboard_time": 1751774001,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 137109,
       "num": 137109,
       "word": "日本预言家自曝只画了插画",
@@ -601,6 +641,14 @@
       "onboard_time": 1751764822,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 135884,
+      "num": 135884,
+      "word": "三伏天去寒好时候",
+      "onboard_time": 1751774542,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 135350,
@@ -619,12 +667,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 131941,
-      "num": 131941,
-      "word": "天气热到共情吸血鬼",
-      "onboard_time": 1751773821,
-      "rank": 35,
-      "category": "幽默"
+      "raw_hot": 133211,
+      "num": 133211,
+      "word": "许言午好想报警又怕来的是孙飞",
+      "onboard_time": 1751774481,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 130143,
@@ -665,6 +713,14 @@
       "onboard_time": 1751764281,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 122640,
+      "num": 122640,
+      "word": "李一桐散装英语教刘宇宁情话",
+      "onboard_time": 1751773942,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 122496,
@@ -723,12 +779,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 113457,
+      "num": 113457,
+      "word": "灵魂摆渡十年官宣杀青",
+      "onboard_time": 1751774843,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112850,
       "num": 112850,
       "word": "巨瘦腰的7天有效法",
       "onboard_time": 1751757737,
       "rank": 34,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 111147,
+      "num": 111147,
+      "word": "许嵩 你们是我的月亮",
+      "onboard_time": 1751774662,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 110392,
@@ -739,12 +811,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 110342,
+      "num": 110342,
+      "word": "鼻青脸肿的小猫",
+      "onboard_time": 1751774843,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 109748,
       "num": 109748,
       "word": "男子走出空调房一下冷中暑",
       "onboard_time": 1751719222,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109698,
+      "num": 109698,
+      "word": "你开始影响我的情绪了",
+      "onboard_time": 1751774303,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 109335,
@@ -760,14 +848,6 @@
       "word": "书卷一梦",
       "onboard_time": 1751769862,
       "rank": 43,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 108542,
-      "num": 108542,
-      "word": "李一桐散装英语教刘宇宁情话",
-      "onboard_time": 1751773942,
-      "rank": 44,
       "category": "剧集"
     },
     {
@@ -817,14 +897,6 @@
       "onboard_time": 1751747534,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 103839,
-      "num": 103839,
-      "word": "你开始影响我的情绪了",
-      "onboard_time": 1751774303,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 103706,
@@ -1059,6 +1131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73510,
+      "num": 142150,
+      "word": "十三太保都是京东的宝",
+      "onboard_time": 1751774722,
+      "rank": 31,
+      "category": "体育,互联网"
+    },
+    {
       "raw_hot": 72397,
       "num": 80544,
       "word": "BLACKPINK演唱会",
@@ -1172,7 +1252,7 @@
     },
     {
       "raw_hot": 42903,
-      "num": 643701,
+      "num": 654348,
       "word": "网警提醒高考花钱改分是骗局",
       "onboard_time": 1751768481,
       "rank": 2,
@@ -1257,6 +1337,14 @@
       "onboard_time": 1751744715,
       "rank": 29,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 17047,
+      "num": 294029,
+      "word": "支付宝团建来看苏超秒变散装",
+      "onboard_time": 1751774481,
+      "rank": 14,
+      "category": "体育,互联网"
     },
     {
       "raw_hot": 12499,

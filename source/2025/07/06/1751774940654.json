@@ -1,0 +1,410 @@
+{
+  "runTime": 1751774940654,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1162215,
+        "num": 1185954,
+        "word": "田栩宁微指连续四天破亿",
+        "onboard_time": 1751771722,
+        "rank": 0,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 686685,
+        "num": 686685,
+        "word": "中缅泰将全面清剿电诈园区",
+        "onboard_time": 1751773162,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 32444,
+        "num": 654348,
+        "word": "网警提醒高考花钱改分是骗局",
+        "onboard_time": 1751768481,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 784297,
+        "num": 653087,
+        "word": "内娱最决绝的解约声明",
+        "onboard_time": 1751769441,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 646182,
+        "num": 646182,
+        "word": "00后女生带06年店员创业月挣10万",
+        "onboard_time": 1751771062,
+        "rank": 4,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 493940,
+        "num": 493940,
+        "word": "马斯克发文成立美国党",
+        "onboard_time": 1751757859,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 507848,
+        "num": 426152,
+        "word": "G社拍的刘诗诗",
+        "onboard_time": 1751772323,
+        "rank": 6,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 334447,
+        "num": 334447,
+        "word": "罗马仕深夜正式发布停工停产通知",
+        "onboard_time": 1751765481,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315348,
+        "num": 315348,
+        "word": "五星级酒店摆地摊日入3万",
+        "onboard_time": 1751764880,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307637,
+        "num": 307637,
+        "word": "女子意外怀孕生下孩子卖掉换钱",
+        "onboard_time": 1751761580,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2164172,
+        "num": 307206,
+        "word": "田栩宁 孩子",
+        "onboard_time": 1751767582,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 807672,
+        "num": 301910,
+        "word": "男子长期性侵未成年养女被判死刑",
+        "onboard_time": 1751761580,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 541377,
+        "num": 301339,
+        "word": "郑星源 梓渝",
+        "onboard_time": 1751774662,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 481418,
+        "num": 296207,
+        "word": "28岁女生辞职改行被全家托举",
+        "onboard_time": 1751772984,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17047,
+        "num": 294029,
+        "word": "支付宝团建来看苏超秒变散装",
+        "onboard_time": 1751774481,
+        "rank": 14,
+        "category": "体育,互联网"
+      },
+      {
+        "raw_hot": 292994,
+        "num": 292994,
+        "word": "马斯克回应参选时间",
+        "onboard_time": 1751768721,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 245016,
+        "num": 245016,
+        "word": "建议不要临睡前才刷牙",
+        "onboard_time": 1751744114,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 235694,
+        "num": 235694,
+        "word": "T1战胜BLG",
+        "onboard_time": 1751769082,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 234243,
+        "num": 234243,
+        "word": "这条小鱼在乎谁唱谁哭",
+        "onboard_time": 1751773103,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228886,
+        "num": 228886,
+        "word": "梓渝换新手机",
+        "onboard_time": 1751763621,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210049,
+        "num": 210049,
+        "word": "恋与深空去中化",
+        "onboard_time": 1751766142,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199872,
+        "num": 199872,
+        "word": "今年三伏只有30天",
+        "onboard_time": 1751773642,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195451,
+        "num": 195451,
+        "word": "罗马仕宣布停工停产半年",
+        "onboard_time": 1751764101,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190873,
+        "num": 190873,
+        "word": "宋妍霏上节目两次拿反话筒",
+        "onboard_time": 1751774001,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190049,
+        "num": 190049,
+        "word": "刘学义生日被工作室做局",
+        "onboard_time": 1751774422,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177291,
+        "num": 177291,
+        "word": "杭州东站发生卧轨事件",
+        "onboard_time": 1751727385,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171645,
+        "num": 171645,
+        "word": "蔡国庆和浙音第一吵起来了",
+        "onboard_time": 1751773281,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146808,
+        "num": 146808,
+        "word": "以法之名",
+        "onboard_time": 1751774422,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146775,
+        "num": 146775,
+        "word": "郝蕾节目里调侃选手太土",
+        "onboard_time": 1751774242,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144360,
+        "num": 144360,
+        "word": "杨幂同款汉服卖爆了",
+        "onboard_time": 1751763020,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192847,
+        "num": 143739,
+        "word": "马斯克准备明年参选",
+        "onboard_time": 1751772323,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 73510,
+        "num": 142150,
+        "word": "十三太保都是京东的宝",
+        "onboard_time": 1751774722,
+        "rank": 31,
+        "category": "体育,互联网"
+      },
+      {
+        "raw_hot": 157354,
+        "num": 141450,
+        "word": "天气热到共情吸血鬼",
+        "onboard_time": 1751773821,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172905,
+        "num": 140632,
+        "word": "刘品言挺孕肚主持电影节",
+        "onboard_time": 1751771482,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159723,
+        "num": 138469,
+        "word": "BLG败后发文",
+        "onboard_time": 1751771962,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138287,
+        "num": 138287,
+        "word": "美国政商界上演真实版权力的游戏",
+        "onboard_time": 1751771482,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 136261,
+        "num": 136261,
+        "word": "rapper用归国四子diss黄子韬",
+        "onboard_time": 1751757798,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135884,
+        "num": 135884,
+        "word": "三伏天去寒好时候",
+        "onboard_time": 1751774542,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 133211,
+        "num": 133211,
+        "word": "许言午好想报警又怕来的是孙飞",
+        "onboard_time": 1751774481,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122640,
+        "num": 122640,
+        "word": "李一桐散装英语教刘宇宁情话",
+        "onboard_time": 1751773942,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119532,
+        "num": 119532,
+        "word": "运20正式列装空军9年了",
+        "onboard_time": 1751762001,
+        "rank": 40,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 116489,
+        "num": 116489,
+        "word": "波点美甲",
+        "onboard_time": 1751774062,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 114301,
+        "num": 114301,
+        "word": "南非发生多起针对女性中国公民绑架",
+        "onboard_time": 1751769262,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114251,
+        "num": 114251,
+        "word": "张杰打开手机人都红温了吧",
+        "onboard_time": 1751735179,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114182,
+        "num": 114182,
+        "word": "谢娜从时代少年团中选理想女婿",
+        "onboard_time": 1751770223,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113457,
+        "num": 113457,
+        "word": "灵魂摆渡十年官宣杀青",
+        "onboard_time": 1751774843,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111147,
+        "num": 111147,
+        "word": "许嵩 你们是我的月亮",
+        "onboard_time": 1751774662,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110342,
+        "num": 110342,
+        "word": "鼻青脸肿的小猫",
+        "onboard_time": 1751774843,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109698,
+        "num": 109698,
+        "word": "你开始影响我的情绪了",
+        "onboard_time": 1751774303,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108373,
+        "num": 108373,
+        "word": "马斯克想拿下美国会两院部分席位",
+        "onboard_time": 1751757798,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记和青年朋友在一起#"
+    }
+  }
+}
