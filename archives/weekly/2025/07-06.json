@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751807060484,
+  "endTime": 1751808828867,
   "band_list": [
     {
       "raw_hot": 7611710,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 3588853,
-      "num": 450472,
+      "num": 681020,
       "word": "青岛大学回应一宿管人员离世",
       "onboard_time": 1751802503,
       "rank": 4,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2123961,
+      "num": 404637,
+      "word": "贪污自杀",
+      "onboard_time": 1751805684,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1921486,
       "num": 258407,
       "word": "鹿晗 关晓彤",
@@ -65,6 +73,14 @@
       "onboard_time": 1751781201,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1469462,
+      "num": 930786,
+      "word": "男童躺街上被碾压身亡司机发声",
+      "onboard_time": 1751805205,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1416961,
@@ -100,7 +116,7 @@
     },
     {
       "raw_hot": 1225523,
-      "num": 584850,
+      "num": 1158229,
       "word": "Angelababy出席巴黎时装周",
       "onboard_time": 1751803764,
       "rank": 3,
@@ -129,6 +145,14 @@
       "onboard_time": 1751774662,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1074753,
+      "num": 700722,
+      "word": "青岛大学称今年全校宿舍将装空调",
+      "onboard_time": 1751805623,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1049940,
@@ -161,22 +185,6 @@
       "onboard_time": 1751784262,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 960282,
-      "num": 348855,
-      "word": "贪污自杀",
-      "onboard_time": 1751805684,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 930786,
-      "num": 930786,
-      "word": "男童躺街上被碾压身亡司机发声",
-      "onboard_time": 1751805205,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 887458,
@@ -275,12 +283,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 701919,
+      "num": 701919,
+      "word": "常州vs淮安",
+      "onboard_time": 1751800705,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 700420,
       "num": 553543,
       "word": "捡到金世佳身份证当事人发声",
       "onboard_time": 1751797221,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 700253,
+      "num": 700253,
+      "word": "医生称晚安牛奶每天喝24000瓶才有效",
+      "onboard_time": 1751807006,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 695394,
@@ -313,6 +337,14 @@
       "onboard_time": 1751776943,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 650881,
+      "num": 650881,
+      "word": "王俊凯直播",
+      "onboard_time": 1751807006,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 619179,
@@ -384,14 +416,6 @@
       "word": "阿坝车辆坠崖2死5失联家属急寻线索",
       "onboard_time": 1751778022,
       "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 461056,
-      "num": 461056,
-      "word": "青岛大学称今年全校宿舍将装空调",
-      "onboard_time": 1751805623,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -483,12 +507,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 413609,
+      "num": 388029,
+      "word": "黄子弘凡扶电梯摔倒女生",
+      "onboard_time": 1751805984,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 410036,
       "num": 236359,
       "word": "田栩宁emoji",
       "onboard_time": 1751725042,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 405066,
+      "num": 405066,
+      "word": "七七事变纪录片一夜之间",
+      "onboard_time": 1751807967,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 393473,
@@ -539,14 +579,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 362859,
-      "num": 362859,
-      "word": "常州vs淮安",
-      "onboard_time": 1751800705,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 362814,
       "num": 239064,
       "word": "金泰亨朴宝剑手牵手",
@@ -587,8 +619,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 330659,
-      "num": 330659,
+      "raw_hot": 336640,
+      "num": 336640,
       "word": "无畏 菜",
       "onboard_time": 1751805684,
       "rank": 24,
@@ -659,6 +691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 294034,
+      "num": 294034,
+      "word": "陈梦妈妈嗑上女儿的糖了",
+      "onboard_time": 1751806946,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 283553,
       "num": 283553,
       "word": "T1战胜BLG",
@@ -688,14 +728,6 @@
       "word": "陈乔恩分享5天紧急瘦身法",
       "onboard_time": 1751726064,
       "rank": 7,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 270790,
-      "num": 270790,
-      "word": "黄子弘凡扶电梯摔倒女生",
-      "onboard_time": 1751805984,
-      "rank": 30,
       "category": "艺人"
     },
     {
@@ -744,14 +776,6 @@
       "word": "田栩宁榜一是若若",
       "onboard_time": 1751757798,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 255474,
-      "num": 255474,
-      "word": "王俊凯直播",
-      "onboard_time": 1751807006,
-      "rank": 18,
       "category": "艺人"
     },
     {
@@ -867,6 +891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228460,
+      "num": 222403,
+      "word": "4岁宝宝手术台上把自己麻晕",
+      "onboard_time": 1751808745,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 227926,
       "num": 236975,
       "word": "时代少年团抢票",
@@ -913,6 +945,14 @@
       "onboard_time": 1751776283,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 222239,
+      "num": 222239,
+      "word": "阿吊你是自由的鸟",
+      "onboard_time": 1751807845,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 216338,
@@ -987,6 +1027,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205484,
+      "num": 205484,
+      "word": "何惟芳刺伤蒋长扬",
+      "onboard_time": 1751803643,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 205201,
+      "num": 205201,
+      "word": "整个苏南都给常州应援",
+      "onboard_time": 1751808027,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204947,
       "num": 204947,
       "word": "沈梦辰锦绣芳华吻戏",
@@ -1019,14 +1075,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 202378,
-      "num": 202378,
-      "word": "何惟芳刺伤蒋长扬",
-      "onboard_time": 1751803643,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 201766,
       "num": 201766,
       "word": "外卖员没撞娃家长讹人被抓现行",
@@ -1049,6 +1097,14 @@
       "onboard_time": 1751789963,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 200561,
+      "num": 200561,
+      "word": "王楚钦说想一场一场去赢",
+      "onboard_time": 1751807967,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 198124,
@@ -1115,12 +1171,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192538,
+      "num": 192538,
+      "word": "百事可乐直播",
+      "onboard_time": 1751807606,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192484,
       "num": 192484,
       "word": "董力儿子7岁近照",
       "onboard_time": 1751782341,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192304,
+      "num": 192304,
+      "word": "王力宏颜王归来依旧没有对手",
+      "onboard_time": 1751807666,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 191713,
@@ -1139,12 +1211,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190056,
+      "num": 187397,
+      "word": "登陆少年 百事可乐",
+      "onboard_time": 1751808386,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190049,
       "num": 190049,
       "word": "刘学义生日被工作室做局",
       "onboard_time": 1751774422,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187776,
+      "num": 187776,
+      "word": "TF四代郑重宣誓",
+      "onboard_time": 1751807666,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 187135,
@@ -1203,14 +1291,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 178435,
-      "num": 178435,
-      "word": "陈梦妈妈嗑上女儿的糖了",
-      "onboard_time": 1751806946,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 177471,
       "num": 177471,
       "word": "小伙追综艺熬2天2夜后抢救了10天",
@@ -1259,6 +1339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 175203,
+      "num": 175203,
+      "word": "苏超迷惑行为大赏",
+      "onboard_time": 1751807967,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173169,
       "num": 173169,
       "word": "灵魂摆渡十年官宣杀青",
@@ -1281,6 +1369,14 @@
       "onboard_time": 1751786481,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 169559,
+      "num": 169559,
+      "word": "于正闲鱼收到了四万份简历",
+      "onboard_time": 1751807906,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 169168,
@@ -1345,6 +1441,14 @@
       "onboard_time": 1751777242,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 162441,
+      "num": 162441,
+      "word": "香港民众在中国战机下避雨",
+      "onboard_time": 1751805084,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 162040,
@@ -1475,12 +1579,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152572,
+      "num": 152572,
+      "word": "一诺达成3300总击杀",
+      "onboard_time": 1751808565,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 152489,
       "num": 152489,
       "word": "以法之名抓到的第一条大鱼",
       "onboard_time": 1751804784,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152068,
+      "num": 152068,
+      "word": "洪知秀ins更新",
+      "onboard_time": 1751808386,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 150753,
@@ -1609,14 +1729,6 @@
       "onboard_time": 1751783482,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 143149,
-      "num": 143149,
-      "word": "香港民众在中国战机下避雨",
-      "onboard_time": 1751805084,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 143071,
@@ -1771,6 +1883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130336,
+      "num": 130336,
+      "word": "巴黎偶遇张曼玉",
+      "onboard_time": 1751805325,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130256,
       "num": 207065,
       "word": "马斯克面临特朗普报复风险",
@@ -1795,20 +1915,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128675,
+      "num": 128675,
+      "word": "林俊杰演唱会",
+      "onboard_time": 1751808806,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 128158,
       "num": 128158,
       "word": "以法之名蝴蝶效应",
       "onboard_time": 1751780062,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 127644,
-      "num": 127644,
-      "word": "巴黎偶遇张曼玉",
-      "onboard_time": 1751805325,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 127485,
@@ -2036,7 +2156,7 @@
     },
     {
       "raw_hot": 116893,
-      "num": 116893,
+      "num": 219999,
       "word": "刘丁硕揭开王楚钦蘑菇头真相",
       "onboard_time": 1751803884,
       "rank": 38,
@@ -2177,14 +2297,6 @@
       "onboard_time": 1751774843,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 110319,
-      "num": 110319,
-      "word": "医生称晚安牛奶每天喝24000瓶才有效",
-      "onboard_time": 1751807006,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 109758,
@@ -3177,6 +3289,14 @@
       "onboard_time": 1751744715,
       "rank": 29,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 13743,
+      "num": 192374,
+      "word": "青岛大学学生说住宿舍半夜被热醒",
+      "onboard_time": 1751808625,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12499,
