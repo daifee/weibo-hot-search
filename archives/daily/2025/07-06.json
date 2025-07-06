@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751809498418,
+  "endTime": 1751811794181,
   "band_list": [
     {
       "raw_hot": 7611710,
@@ -67,6 +67,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1911043,
+      "num": 700722,
+      "word": "青岛大学称今年全校宿舍将装空调",
+      "onboard_time": 1751805623,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1846264,
+      "num": 1846264,
+      "word": "常州进球无效",
+      "onboard_time": 1751808986,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1518482,
       "num": 260311,
       "word": "当你的子宫都开始对你催生",
@@ -113,14 +129,6 @@
       "onboard_time": 1751793022,
       "rank": 12,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1226958,
-      "num": 700722,
-      "word": "青岛大学称今年全校宿舍将装空调",
-      "onboard_time": 1751805623,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1225523,
@@ -219,12 +227,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 839821,
-      "num": 839821,
-      "word": "常州进球无效",
-      "onboard_time": 1751808986,
-      "rank": 3,
-      "category": "体育"
+      "raw_hot": 797658,
+      "num": 797658,
+      "word": "医生称晚安牛奶每天喝24000瓶才有效",
+      "onboard_time": 1751807006,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 796085,
@@ -249,6 +257,14 @@
       "onboard_time": 1751780242,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 766468,
+      "num": 766468,
+      "word": "张鑫 白鹿站姐",
+      "onboard_time": 1751809583,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 762421,
@@ -305,14 +321,6 @@
       "onboard_time": 1751797221,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 700253,
-      "num": 700253,
-      "word": "医生称晚安牛奶每天喝24000瓶才有效",
-      "onboard_time": 1751807006,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 695394,
@@ -387,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 527139,
+      "num": 422401,
+      "word": "陈梦妈妈嗑上女儿的糖了",
+      "onboard_time": 1751806946,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 525803,
       "num": 348734,
       "word": "梓渝换新手机",
@@ -425,6 +441,14 @@
       "onboard_time": 1751778022,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 477513,
+      "num": 477513,
+      "word": "无畏 菜",
+      "onboard_time": 1751805684,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 460487,
@@ -507,6 +531,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 415131,
+      "num": 369618,
+      "word": "青岛大学学生说住宿舍半夜被热醒",
+      "onboard_time": 1751808625,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 414875,
       "num": 240643,
       "word": "杭州东站卧轨者已送往医院",
@@ -529,14 +561,6 @@
       "onboard_time": 1751725042,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 408368,
-      "num": 380522,
-      "word": "陈梦妈妈嗑上女儿的糖了",
-      "onboard_time": 1751806946,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 405066,
@@ -595,14 +619,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 369157,
-      "num": 369157,
-      "word": "无畏 菜",
-      "onboard_time": 1751805684,
-      "rank": 24,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 362814,
       "num": 239064,
       "word": "金泰亨朴宝剑手牵手",
@@ -641,6 +657,14 @@
       "onboard_time": 1751794761,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 337112,
+      "num": 337112,
+      "word": "碾压幼童身亡司机称处于视线盲区",
+      "onboard_time": 1751810605,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 321396,
@@ -683,6 +707,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 317942,
+      "num": 317942,
+      "word": "勿忘19370707",
+      "onboard_time": 1751810305,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 315377,
       "num": 385587,
       "word": "狗头萝莉建议不要搞擦边",
@@ -697,6 +729,14 @@
       "onboard_time": 1751768721,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 309154,
+      "num": 309154,
+      "word": "白鹿回应张鑫",
+      "onboard_time": 1751809884,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 308562,
@@ -721,6 +761,14 @@
       "onboard_time": 1751775623,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 284347,
+      "num": 284347,
+      "word": "淮安0比0常州",
+      "onboard_time": 1751809765,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 283553,
@@ -811,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 255246,
+      "num": 255246,
+      "word": "恋与深空回应剧情去中化",
+      "onboard_time": 1751810724,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 255204,
       "num": 255204,
       "word": "霍启刚郭晶晶参观山东舰",
@@ -825,6 +881,14 @@
       "onboard_time": 1751799081,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 251939,
+      "num": 251939,
+      "word": "常州1分",
+      "onboard_time": 1751810064,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 250769,
@@ -915,6 +979,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 230291,
+      "num": 230291,
+      "word": "王岳伦机场接王诗龄",
+      "onboard_time": 1751810544,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 230133,
+      "num": 230133,
+      "word": "去看BLACKPINK高阳演唱会的明星",
+      "onboard_time": 1751809765,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 228481,
       "num": 228481,
       "word": "李嘉格坚持10年替父母规划过冬地点",
@@ -995,6 +1075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210606,
+      "num": 300842,
+      "word": "青岛大学去世宿管曾收养多只流浪猫",
+      "onboard_time": 1751811384,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 209515,
       "num": 282567,
       "word": "王一博北京飞巴黎路透",
@@ -1017,6 +1105,14 @@
       "onboard_time": 1751805325,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206666,
+      "num": 206666,
+      "word": "朱志鑫黄海",
+      "onboard_time": 1751811325,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 206618,
@@ -1099,6 +1195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202752,
+      "num": 202752,
+      "word": "苏超积分榜",
+      "onboard_time": 1751810904,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202503,
       "num": 214837,
       "word": "登陆少年 百事可乐",
@@ -1131,12 +1235,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 201373,
+      "num": 201373,
+      "word": "张雨绮非遗高定",
+      "onboard_time": 1751809583,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 200561,
       "num": 200561,
       "word": "王楚钦说想一场一场去赢",
       "onboard_time": 1751807967,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199645,
+      "num": 199645,
+      "word": "王一博巴黎高定时装周",
+      "onboard_time": 1751809464,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 198183,
+      "num": 198183,
+      "word": "薛之谦Joker",
+      "onboard_time": 1751811265,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 198124,
@@ -1187,12 +1315,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 194090,
-      "num": 194090,
-      "word": "王一博巴黎高定时装周",
-      "onboard_time": 1751809464,
-      "rank": 32,
-      "category": "作品衍生,时尚"
+      "raw_hot": 194109,
+      "num": 194109,
+      "word": "本月起你的工资或将多一笔钱",
+      "onboard_time": 1751809704,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193516,
@@ -1619,6 +1747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151395,
+      "num": 151395,
+      "word": "任嘉伦第一次作为演唱会嘉宾",
+      "onboard_time": 1751811503,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 150753,
       "num": 201367,
       "word": "F1",
@@ -1779,6 +1915,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 140176,
+      "num": 140176,
+      "word": "林俊杰嘉宾是潘玮柏",
+      "onboard_time": 1751810845,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 139797,
       "num": 139797,
       "word": "漂流是致死率最高的旅游安全事故",
@@ -1801,6 +1945,14 @@
       "onboard_time": 1751772444,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137808,
+      "num": 137808,
+      "word": "常州队收获苏超首个积分",
+      "onboard_time": 1751810064,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 137256,
@@ -1953,6 +2105,14 @@
       "onboard_time": 1751725344,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129632,
+      "num": 129632,
+      "word": "李诞揭穿35岁焦虑真相",
+      "onboard_time": 1751810005,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129366,
@@ -2699,6 +2859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98742,
+      "num": 297690,
+      "word": "Celine回归大秀",
+      "onboard_time": 1751810064,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 98558,
       "num": 108807,
       "word": "游本昌谈自己最大的幸福所在",
@@ -2808,14 +2976,6 @@
       "word": "香港小哥抢不到山东舰的票爬山去追",
       "onboard_time": 1751794343,
       "rank": 15,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 92041,
-      "num": 369618,
-      "word": "青岛大学学生说住宿舍半夜被热醒",
-      "onboard_time": 1751808625,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -3057,6 +3217,14 @@
       "onboard_time": 1751791224,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67413,
+      "num": 805719,
+      "word": "文化中国行看古人的清凉好物",
+      "onboard_time": 1751810124,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 66801,
@@ -3364,6 +3532,9 @@
     },
     {
       "word": "#习近平总书记这番话掷地有声#"
+    },
+    {
+      "word": "#中美关系的未来在青年#"
     }
   ]
 }
