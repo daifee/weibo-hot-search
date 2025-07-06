@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/07 01:23:17
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/07 01:41:25
 </p>
 </blockquote>
 <p>
@@ -2061,6 +2061,12 @@ BLACKPINK新歌（热度：582215）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E7%A7%B0%E6%9C%89%E5%90%8C%E5%AD%A6%E5%AE%BF%E8%88%8D%E4%B8%AD%E6%9A%91%E9%80%81%E5%8C%BB%23" target="weibo">
+青岛大学学生称有同学宿舍中暑送医（热度：531638）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%BA%A6%E7%90%B3%E6%8A%84%E8%A2%AD%E5%8D%9A%E4%B8%BB%E6%8B%92%E7%BB%9D%E8%B5%94%E5%81%BF%E5%8F%AA%E6%B1%82%E5%B9%B3%E9%9D%99%E7%94%9F%E6%B4%BB%23" target="weibo">
 被麦琳抄袭博主拒绝赔偿只求平静生活（热度：530460）
 </a>
@@ -3761,12 +3767,6 @@ K1373事故铁路员工不如主动砸玻璃（热度：302707）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E5%83%8F%E7%96%AF%E4%BA%86%E4%B8%80%E6%A0%B7%23" target="weibo">
 陈楚生像疯了一样（热度：302209）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E7%A7%B0%E6%9C%89%E5%90%8C%E5%AD%A6%E5%AE%BF%E8%88%8D%E4%B8%AD%E6%9A%91%E9%80%81%E5%8C%BB%23" target="weibo">
-青岛大学学生称有同学宿舍中暑送医（热度：300840）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1751819447185,
-  "endTime": 1751822597121,
+  "endTime": 1751823685725,
   "band_list": [
     {
       "raw_hot": 3495922,
@@ -35,6 +35,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 531638,
+      "num": 531638,
+      "word": "青岛大学学生称有同学宿舍中暑送医",
+      "onboard_time": 1751820921,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 472521,
       "num": 296575,
       "word": "青岛大学去世宿管曾收养多只流浪猫",
@@ -57,14 +65,6 @@
       "onboard_time": 1751803764,
       "rank": 3,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 300840,
-      "num": 300840,
-      "word": "青岛大学学生称有同学宿舍中暑送医",
-      "onboard_time": 1751820921,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 298908,
@@ -171,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 187556,
+      "num": 187556,
+      "word": "网传零食店一店员给顾客下跪道歉",
+      "onboard_time": 1751819781,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160918,
       "num": 247033,
       "word": "断眉attention万人大合唱给我唱爽了",
@@ -257,14 +265,6 @@
       "onboard_time": 1751809583,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 125019,
-      "num": 125019,
-      "word": "网传零食店一店员给顾客下跪道歉",
-      "onboard_time": 1751819781,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 121193,
@@ -468,11 +468,35 @@
     },
     {
       "raw_hot": 43920,
-      "num": 466858,
+      "num": 489748,
       "word": "文化中国行看古人的清凉好物",
       "onboard_time": 1751810124,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 36779,
+      "num": 70220,
+      "word": "4岁宝宝手术台上把自己麻晕",
+      "onboard_time": 1751808745,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31584,
+      "num": 70211,
+      "word": "Bin 我们是可以赢的",
+      "onboard_time": 1751822717,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 26417,
+      "num": 73051,
+      "word": "山东一高校因高温暂停期末考试",
+      "onboard_time": 1751823317,
+      "rank": 24,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
