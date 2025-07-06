@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751787515179,
+  "endTime": 1751790702054,
   "band_list": [
     {
       "raw_hot": 6390116,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 4282599,
-      "num": 213714,
+      "num": 275402,
       "word": "青岛大学宿管",
       "onboard_time": 1751784562,
       "rank": 10,
@@ -65,6 +65,14 @@
       "onboard_time": 1751722466,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2868126,
+      "num": 2868126,
+      "word": "金世佳你身份证掉了",
+      "onboard_time": 1751789540,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 2810309,
@@ -2827,6 +2835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 474050,
+      "num": 474050,
+      "word": "1.4万买的房子发现价值43万游戏卡牌",
+      "onboard_time": 1751789601,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 473835,
       "num": 473835,
       "word": "闪婚后车祸去世女子丈夫回应骗保指责",
@@ -2857,6 +2873,14 @@
       "onboard_time": 1751609063,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 468322,
+      "num": 181160,
+      "word": "43岁女子姐弟恋怀孕后婆婆不认可",
+      "onboard_time": 1751787982,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 466559,
@@ -3315,6 +3339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 413737,
+      "num": 413737,
+      "word": "费大厨 本科以下勿扰",
+      "onboard_time": 1751785522,
+      "rank": 22,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 412261,
       "num": 202963,
       "word": "李福贵自曝19岁结婚一年后分开",
@@ -3449,6 +3481,14 @@
       "onboard_time": 1751439020,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 393473,
+      "num": 269856,
+      "word": "朱珠 妈咪不会营业",
+      "onboard_time": 1751784801,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 392941,
@@ -4283,6 +4323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 320490,
+      "num": 320490,
+      "word": "日本教材污蔑卢沟桥事变中方先开枪",
+      "onboard_time": 1751788703,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 320413,
       "num": 320413,
       "word": "雷军回应大定被质疑有水分",
@@ -4521,6 +4569,14 @@
       "onboard_time": 1751757798,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 307953,
+      "num": 307953,
+      "word": "中方对欧盟采取对等限制措施",
+      "onboard_time": 1751789540,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 305490,
@@ -5019,14 +5075,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 277249,
-      "num": 204864,
-      "word": "朱珠 妈咪不会营业",
-      "onboard_time": 1751784801,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 277090,
       "num": 122741,
       "word": "恋与深空日本",
@@ -5411,20 +5459,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 252288,
+      "num": 252288,
+      "word": "谢娜时隔三天才回杨迪微信",
+      "onboard_time": 1751789480,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252217,
       "num": 252217,
       "word": "日本首相强硬表态",
       "onboard_time": 1751498719,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 252076,
-      "num": 203922,
-      "word": "费大厨 本科以下勿扰",
-      "onboard_time": 1751785522,
-      "rank": 22,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 251092,
@@ -5497,6 +5545,14 @@
       "onboard_time": 1751513423,
       "rank": 24,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 246752,
+      "num": 281228,
+      "word": "金世佳方回应身份证掉了",
+      "onboard_time": 1751789661,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 246479,
@@ -5739,6 +5795,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 233613,
+      "num": 233613,
+      "word": "王俊凯出任电竞世界杯中国唯一大使",
+      "onboard_time": 1751789781,
+      "rank": 16,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 233517,
       "num": 250041,
       "word": "剧还在拍番外就先播了",
@@ -5945,6 +6009,14 @@
       "onboard_time": 1751532741,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 228051,
+      "num": 228051,
+      "word": "易烊千玺广州演唱会官宣取消",
+      "onboard_time": 1751789061,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 227958,
@@ -6281,6 +6353,14 @@
       "onboard_time": 1751594300,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217977,
+      "num": 180094,
+      "word": "易烊千玺广州演唱会大麦违约",
+      "onboard_time": 1751789480,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 217796,
@@ -6969,6 +7049,14 @@
       "onboard_time": 1751766742,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201552,
+      "num": 201552,
+      "word": "时代少年团在里面闹麻了",
+      "onboard_time": 1751789963,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 201536,
@@ -8227,6 +8315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 178254,
+      "num": 156207,
+      "word": "身份证照片 戴眼镜",
+      "onboard_time": 1751790262,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177471,
       "num": 177471,
       "word": "小伙追综艺熬2天2夜后抢救了10天",
@@ -8377,6 +8473,14 @@
       "onboard_time": 1751463804,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175950,
+      "num": 175950,
+      "word": "吃蝎子吃掉了上海一套房",
+      "onboard_time": 1751790382,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 175855,
@@ -9489,6 +9593,14 @@
       "onboard_time": 1751603904,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159584,
+      "num": 190664,
+      "word": "老人被指为乘凉挤满餐厅占座",
+      "onboard_time": 1751788101,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159451,
@@ -12523,6 +12635,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 125792,
+      "num": 125792,
+      "word": "别瞧不起中专",
+      "onboard_time": 1751787802,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125785,
       "num": 125785,
       "word": "光与夜之恋美叽和大鼠联动",
@@ -14283,6 +14403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 110319,
+      "num": 110319,
+      "word": "时代少年团抢票",
+      "onboard_time": 1751790683,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 110063,
       "num": 141363,
       "word": "第4号台风丹娜丝生成",
@@ -14643,6 +14771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107271,
+      "num": 107271,
+      "word": "陈奕迅回春",
+      "onboard_time": 1751787023,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 107207,
       "num": 107207,
       "word": "人真的要珍惜单身的时候",
@@ -14793,6 +14929,14 @@
       "onboard_time": 1751451622,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 105921,
+      "num": 105921,
+      "word": "求职被要求先做550道MBTI测试题",
+      "onboard_time": 1751787982,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105918,
@@ -15179,12 +15323,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101244,
+      "num": 101244,
+      "word": "Cryin谈Bin和Zeus差异",
+      "onboard_time": 1751788281,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 101195,
       "num": 324221,
       "word": "苹果换vivo折叠屏最高补贴1800元",
       "onboard_time": 1751425641,
       "rank": 18,
       "category": "数码,民生新闻"
+    },
+    {
+      "raw_hot": 101002,
+      "num": 101002,
+      "word": "00后上班摸鱼赚220元的一天",
+      "onboard_time": 1751788342,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 100851,
@@ -15907,6 +16067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90912,
+      "num": 99930,
+      "word": "王楚钦干饭人",
+      "onboard_time": 1751790262,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90908,
       "num": 91978,
       "word": "陈思诚 我不是果郡王",
@@ -16312,6 +16480,14 @@
       "word": "又一次被鱼水情深的双向奔赴感动",
       "onboard_time": 1751723547,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84607,
+      "num": 200218,
+      "word": "直播间买盲盒货不对板",
+      "onboard_time": 1751789421,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -18929,6 +19105,14 @@
       "onboard_time": 1751502622,
       "rank": 2,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 27302,
+      "num": 501379,
+      "word": "9个台风天安全提醒",
+      "onboard_time": 1751775683,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27063,

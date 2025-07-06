@@ -1,14 +1,22 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751787515179,
+  "endTime": 1751790702054,
   "band_list": [
     {
       "raw_hot": 4282599,
-      "num": 213714,
+      "num": 275402,
       "word": "青岛大学宿管",
       "onboard_time": 1751784562,
       "rank": 10,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 2868126,
+      "num": 2868126,
+      "word": "金世佳你身份证掉了",
+      "onboard_time": 1751789540,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 2706470,
@@ -267,6 +275,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 474050,
+      "num": 474050,
+      "word": "1.4万买的房子发现价值43万游戏卡牌",
+      "onboard_time": 1751789601,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 468322,
+      "num": 181160,
+      "word": "43岁女子姐弟恋怀孕后婆婆不认可",
+      "onboard_time": 1751787982,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 460487,
       "num": 460487,
       "word": "北京天空",
@@ -323,11 +347,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 413737,
+      "num": 413737,
+      "word": "费大厨 本科以下勿扰",
+      "onboard_time": 1751785522,
+      "rank": 22,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 410036,
       "num": 236359,
       "word": "田栩宁emoji",
       "onboard_time": 1751725042,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 393473,
+      "num": 269856,
+      "word": "朱珠 妈咪不会营业",
+      "onboard_time": 1751784801,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -379,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 320490,
+      "num": 320490,
+      "word": "日本教材污蔑卢沟桥事变中方先开枪",
+      "onboard_time": 1751788703,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 320309,
       "num": 320309,
       "word": "李昀锐公主抱关晓彤",
@@ -419,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 307953,
+      "num": 307953,
+      "word": "中方对欧盟采取对等限制措施",
+      "onboard_time": 1751789540,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 305213,
       "num": 305213,
       "word": "山东考公人拒绝不了的电视剧来了",
@@ -441,14 +497,6 @@
       "onboard_time": 1751766142,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 277249,
-      "num": 204864,
-      "word": "朱珠 妈咪不会营业",
-      "onboard_time": 1751784801,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 271582,
@@ -491,12 +539,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 252076,
-      "num": 203922,
-      "word": "费大厨 本科以下勿扰",
-      "onboard_time": 1751785522,
-      "rank": 22,
-      "category": "民生新闻,教育"
+      "raw_hot": 252288,
+      "num": 252288,
+      "word": "谢娜时隔三天才回杨迪微信",
+      "onboard_time": 1751789480,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 250769,
@@ -521,6 +569,14 @@
       "onboard_time": 1751732482,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 246752,
+      "num": 281228,
+      "word": "金世佳方回应身份证掉了",
+      "onboard_time": 1751789661,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 236008,
@@ -555,12 +611,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 233613,
+      "num": 233613,
+      "word": "王俊凯出任电竞世界杯中国唯一大使",
+      "onboard_time": 1751789781,
+      "rank": 16,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 233107,
       "num": 233107,
       "word": "杨幂同款汉服卖爆了",
       "onboard_time": 1751763020,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 228051,
+      "num": 228051,
+      "word": "易烊千玺广州演唱会官宣取消",
+      "onboard_time": 1751789061,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 224066,
@@ -577,6 +649,14 @@
       "onboard_time": 1751776283,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 217977,
+      "num": 180094,
+      "word": "易烊千玺广州演唱会大麦违约",
+      "onboard_time": 1751789480,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 216338,
@@ -657,6 +737,14 @@
       "onboard_time": 1751766742,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201552,
+      "num": 201552,
+      "word": "时代少年团在里面闹麻了",
+      "onboard_time": 1751789963,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 197400,
@@ -755,6 +843,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 178254,
+      "num": 156207,
+      "word": "身份证照片 戴眼镜",
+      "onboard_time": 1751790262,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177471,
       "num": 177471,
       "word": "小伙追综艺熬2天2夜后抢救了10天",
@@ -769,6 +865,14 @@
       "onboard_time": 1751767761,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 175950,
+      "num": 175950,
+      "word": "吃蝎子吃掉了上海一套房",
+      "onboard_time": 1751790382,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 175569,
@@ -857,6 +961,14 @@
       "onboard_time": 1751786181,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159584,
+      "num": 190664,
+      "word": "老人被指为乘凉挤满餐厅占座",
+      "onboard_time": 1751788101,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158425,
@@ -1179,6 +1291,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 125792,
+      "num": 125792,
+      "word": "别瞧不起中专",
+      "onboard_time": 1751787802,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125785,
       "num": 125785,
       "word": "光与夜之恋美叽和大鼠联动",
@@ -1395,6 +1515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 110319,
+      "num": 110319,
+      "word": "时代少年团抢票",
+      "onboard_time": 1751790683,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 109748,
       "num": 109748,
       "word": "男子走出空调房一下冷中暑",
@@ -1435,6 +1563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 107271,
+      "num": 107271,
+      "word": "陈奕迅回春",
+      "onboard_time": 1751787023,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 107207,
       "num": 107207,
       "word": "人真的要珍惜单身的时候",
@@ -1472,6 +1608,14 @@
       "word": "罗马仕辟谣后深夜正式宣布停工停产",
       "onboard_time": 1751769262,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105921,
+      "num": 105921,
+      "word": "求职被要求先做550道MBTI测试题",
+      "onboard_time": 1751787982,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -1545,6 +1689,22 @@
       "onboard_time": 1751726604,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101244,
+      "num": 101244,
+      "word": "Cryin谈Bin和Zeus差异",
+      "onboard_time": 1751788281,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 101002,
+      "num": 101002,
+      "word": "00后上班摸鱼赚220元的一天",
+      "onboard_time": 1751788342,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 100972,
@@ -1659,6 +1819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90912,
+      "num": 99930,
+      "word": "王楚钦干饭人",
+      "onboard_time": 1751790262,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90864,
       "num": 90864,
       "word": "土耳其一边大雪一边林火",
@@ -1705,6 +1873,14 @@
       "onboard_time": 1751783722,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 84607,
+      "num": 200218,
+      "word": "直播间买盲盒货不对板",
+      "onboard_time": 1751789421,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83447,
@@ -2009,6 +2185,14 @@
       "onboard_time": 1751730805,
       "rank": 40,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 27302,
+      "num": 501379,
+      "word": "9个台风天安全提醒",
+      "onboard_time": 1751775683,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26670,
