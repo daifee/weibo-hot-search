@@ -1,0 +1,410 @@
+{
+  "runTime": 1751794807487,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1973008,
+        "num": 1973008,
+        "word": "金世佳你身份证掉了",
+        "onboard_time": 1751789540,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 766189,
+        "num": 766189,
+        "word": "日本教材污蔑卢沟桥事变中方先开枪",
+        "onboard_time": 1751788703,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 58936,
+        "num": 669463,
+        "word": "9个台风天安全提醒",
+        "onboard_time": 1751775683,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 601806,
+        "num": 601806,
+        "word": "1.4万买的房子发现价值43万游戏卡牌",
+        "onboard_time": 1751789601,
+        "rank": 3,
+        "category": "海外新闻,游戏"
+      },
+      {
+        "raw_hot": 381774,
+        "num": 381774,
+        "word": "王楚钦回应莎头组合能否复制",
+        "onboard_time": 1751784262,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 364180,
+        "num": 364180,
+        "word": "金世佳方回应身份证掉了",
+        "onboard_time": 1751789661,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292736,
+        "num": 292736,
+        "word": "中方对欧盟采取对等限制措施",
+        "onboard_time": 1751789540,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 284689,
+        "num": 284689,
+        "word": "谢娜时隔三天才回杨迪微信",
+        "onboard_time": 1751789480,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251046,
+        "num": 251046,
+        "word": "霍启刚郭晶晶参观山东舰",
+        "onboard_time": 1751792001,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 232982,
+        "num": 232982,
+        "word": "易烊千玺广州演唱会官宣取消",
+        "onboard_time": 1751789061,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1436289,
+        "num": 231852,
+        "word": "青岛大学宿管",
+        "onboard_time": 1751784562,
+        "rank": 10,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 1248318,
+        "num": 228995,
+        "word": "小蝶 宠爱",
+        "onboard_time": 1751793022,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1200950,
+        "num": 226458,
+        "word": "身份证照片 戴眼镜",
+        "onboard_time": 1751790262,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1049940,
+        "num": 224650,
+        "word": "小蝶",
+        "onboard_time": 1751792962,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 491089,
+        "num": 222434,
+        "word": "田栩宁 孩子",
+        "onboard_time": 1751767582,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68008,
+        "num": 219757,
+        "word": "香港小哥抢不到山东舰的票爬山去追",
+        "onboard_time": 1751794343,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218269,
+        "num": 218269,
+        "word": "费大厨 本科以下勿扰",
+        "onboard_time": 1751785522,
+        "rank": 16,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 193952,
+        "num": 205942,
+        "word": "李嘉格坚持10年替父母规划过冬地点",
+        "onboard_time": 1751793260,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198432,
+        "num": 198432,
+        "word": "女子吃冰脑壳一紧突发脑结冰",
+        "onboard_time": 1751781262,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41622,
+        "num": 180655,
+        "word": "汪东城版美猴王空降淮安",
+        "onboard_time": 1751792661,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 605119,
+        "num": 177719,
+        "word": "当你的子宫都开始对你催生",
+        "onboard_time": 1751781201,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 364387,
+        "num": 175620,
+        "word": "43岁女子姐弟恋怀孕后婆婆不认可",
+        "onboard_time": 1751787982,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173504,
+        "num": 173504,
+        "word": "男子长期性侵未成年养女被判死刑",
+        "onboard_time": 1751761580,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163477,
+        "num": 163477,
+        "word": "门店回应老人扎堆蹭空调放喇叭驱赶",
+        "onboard_time": 1751792844,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155671,
+        "num": 155671,
+        "word": "时代少年团抢票",
+        "onboard_time": 1751790683,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 149069,
+        "num": 149069,
+        "word": "朱珠 妈咪不会营业",
+        "onboard_time": 1751784801,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147798,
+        "num": 147798,
+        "word": "易烊千玺广州演唱会大麦违约",
+        "onboard_time": 1751789480,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142019,
+        "num": 142019,
+        "word": "朋友圈三天可见置顶像生死簿一样长",
+        "onboard_time": 1751778082,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138758,
+        "num": 138758,
+        "word": "鹰击长空型高铁车头又帅又能跑",
+        "onboard_time": 1751793202,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136469,
+        "num": 136469,
+        "word": "吃蝎子吃掉了上海一套房",
+        "onboard_time": 1751790382,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130601,
+        "num": 130601,
+        "word": "BLG",
+        "onboard_time": 1751792181,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127552,
+        "num": 127552,
+        "word": "田栩宁微指连续四天破亿",
+        "onboard_time": 1751771722,
+        "rank": 31,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 126111,
+        "num": 126111,
+        "word": "宋一梦 人心中的成见是座大山",
+        "onboard_time": 1751793681,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120011,
+        "num": 120011,
+        "word": "展博 当你看到这条微博的时候",
+        "onboard_time": 1751793983,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117393,
+        "num": 117393,
+        "word": "青岛7年内最高温",
+        "onboard_time": 1751793863,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116943,
+        "num": 116943,
+        "word": "张雅钦李幼贞顶级我本位心态",
+        "onboard_time": 1751794222,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110423,
+        "num": 110423,
+        "word": "别瞧不起中专",
+        "onboard_time": 1751787802,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109758,
+        "num": 109758,
+        "word": "王楚钦说作为男孩混双要承担更多",
+        "onboard_time": 1751794461,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66504,
+        "num": 108807,
+        "word": "游本昌谈自己最大的幸福所在",
+        "onboard_time": 1751794761,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108576,
+        "num": 108576,
+        "word": "王俊凯出任电竞世界杯中国唯一大使",
+        "onboard_time": 1751789781,
+        "rank": 39,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 105939,
+        "num": 105939,
+        "word": "张鑫晒白鹿送的麦克风",
+        "onboard_time": 1751785462,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105278,
+        "num": 105278,
+        "word": "阿坝车辆坠崖2死5失联家属急寻线索",
+        "onboard_time": 1751778022,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103606,
+        "num": 103606,
+        "word": "刘学义回应跟孟子义合体",
+        "onboard_time": 1751794461,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103563,
+        "num": 103563,
+        "word": "警犬救援演练发现是熟人扭头就走",
+        "onboard_time": 1751793863,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101434,
+        "num": 101434,
+        "word": "不是蟑螂是令郎",
+        "onboard_time": 1751793202,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99853,
+        "num": 99853,
+        "word": "权恩妃水弹",
+        "onboard_time": 1751794761,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 98290,
+        "num": 98290,
+        "word": "李昀锐公主抱关晓彤",
+        "onboard_time": 1751779341,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96085,
+        "num": 96085,
+        "word": "谢娜问有人和我一起去收拾贺峻霖吗",
+        "onboard_time": 1751794041,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94659,
+        "num": 94659,
+        "word": "人作弊被狗发现了",
+        "onboard_time": 1751793743,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 59770,
+        "num": 94334,
+        "word": "17岁苏超球员被替换下场一步三回头",
+        "onboard_time": 1751791224,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#厦门发展战略启示#"
+    }
+  }
+}

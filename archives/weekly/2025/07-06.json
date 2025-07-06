@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751793962780,
+  "endTime": 1751794807487,
   "band_list": [
     {
       "raw_hot": 4282599,
@@ -75,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1248318,
+      "num": 264293,
+      "word": "小蝶 宠爱",
+      "onboard_time": 1751793022,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1215776,
       "num": 1215776,
       "word": "田栩宁微指连续四天破亿",
@@ -97,6 +105,14 @@
       "onboard_time": 1751774662,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1049940,
+      "num": 256076,
+      "word": "小蝶",
+      "onboard_time": 1751792962,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 1048386,
@@ -145,14 +161,6 @@
       "onboard_time": 1751731042,
       "rank": 4,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 847937,
-      "num": 264293,
-      "word": "小蝶 宠爱",
-      "onboard_time": 1751793022,
-      "rank": 12,
-      "category": "电竞"
     },
     {
       "raw_hot": 796085,
@@ -449,14 +457,6 @@
       "onboard_time": 1751701881,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 354794,
-      "num": 256076,
-      "word": "小蝶",
-      "onboard_time": 1751792962,
-      "rank": 14,
-      "category": "电竞"
     },
     {
       "raw_hot": 342997,
@@ -835,6 +835,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 193952,
+      "num": 205942,
+      "word": "李嘉格坚持10年替父母规划过冬地点",
+      "onboard_time": 1751793260,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192484,
       "num": 192484,
       "word": "董力儿子7岁近照",
@@ -873,14 +881,6 @@
       "onboard_time": 1751771962,
       "rank": 25,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 186041,
-      "num": 186041,
-      "word": "李嘉格坚持10年替父母规划过冬地点",
-      "onboard_time": 1751793260,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 182405,
@@ -985,6 +985,14 @@
       "onboard_time": 1751775742,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163477,
+      "num": 270835,
+      "word": "门店回应老人扎堆蹭空调放喇叭驱赶",
+      "onboard_time": 1751792844,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 163287,
@@ -1371,6 +1379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126111,
+      "num": 126111,
+      "word": "宋一梦 人心中的成见是座大山",
+      "onboard_time": 1751793681,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125796,
       "num": 125796,
       "word": "英媒称伊导弹击中以5处军事设施",
@@ -1459,12 +1475,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120011,
+      "num": 120011,
+      "word": "展博 当你看到这条微博的时候",
+      "onboard_time": 1751793983,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119198,
       "num": 119198,
       "word": "尽量不要给手机整夜充电",
       "onboard_time": 1751718142,
       "rank": 26,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 117393,
+      "num": 117393,
+      "word": "青岛7年内最高温",
+      "onboard_time": 1751793863,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117215,
@@ -1481,6 +1513,14 @@
       "onboard_time": 1751772923,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 116943,
+      "num": 116943,
+      "word": "张雅钦李幼贞顶级我本位心态",
+      "onboard_time": 1751794222,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 116851,
@@ -1571,28 +1611,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 110871,
-      "num": 270835,
-      "word": "门店回应老人扎堆蹭空调放喇叭驱赶",
-      "onboard_time": 1751792844,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 110836,
       "num": 115460,
       "word": "耳帝评新说唱年轻选手洗牌",
       "onboard_time": 1751785282,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 110824,
-      "num": 110824,
-      "word": "宋一梦 人心中的成见是座大山",
-      "onboard_time": 1751793681,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 110408,
@@ -1617,6 +1641,14 @@
       "onboard_time": 1751774843,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 109758,
+      "num": 109758,
+      "word": "王楚钦说作为男孩混双要承担更多",
+      "onboard_time": 1751794461,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 109748,
@@ -1763,6 +1795,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 103606,
+      "num": 103606,
+      "word": "刘学义回应跟孟子义合体",
+      "onboard_time": 1751794461,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 103563,
+      "num": 103563,
+      "word": "警犬救援演练发现是熟人扭头就走",
+      "onboard_time": 1751793863,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103371,
       "num": 103371,
       "word": "易烊千玺演唱会一官宣就赠票",
@@ -1811,6 +1859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101434,
+      "num": 101434,
+      "word": "不是蟑螂是令郎",
+      "onboard_time": 1751793202,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 101244,
       "num": 101244,
       "word": "Cryin谈Bin和Zeus差异",
@@ -1843,19 +1899,19 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 99853,
+      "num": 99853,
+      "word": "权恩妃水弹",
+      "onboard_time": 1751794761,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 99746,
       "num": 99746,
       "word": "快递外卖来电话将一眼识别",
       "onboard_time": 1751771062,
       "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 99332,
-      "num": 99332,
-      "word": "青岛7年内最高温",
-      "onboard_time": 1751793863,
-      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -1881,6 +1937,14 @@
       "onboard_time": 1751790262,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96085,
+      "num": 96085,
+      "word": "谢娜问有人和我一起去收拾贺峻霖吗",
+      "onboard_time": 1751794041,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 95168,
@@ -1961,22 +2025,6 @@
       "onboard_time": 1751767461,
       "rank": 49,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 90401,
-      "num": 90401,
-      "word": "不是蟑螂是令郎",
-      "onboard_time": 1751793202,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 89218,
-      "num": 89218,
-      "word": "警犬救援演练发现是熟人扭头就走",
-      "onboard_time": 1751793863,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88654,
@@ -2147,8 +2195,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68008,
+      "num": 219757,
+      "word": "香港小哥抢不到山东舰的票爬山去追",
+      "onboard_time": 1751794343,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67832,
-      "num": 86156,
+      "num": 94334,
       "word": "17岁苏超球员被替换下场一步三回头",
       "onboard_time": 1751791224,
       "rank": 48,
@@ -2161,6 +2217,14 @@
       "onboard_time": 1751791882,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66504,
+      "num": 108807,
+      "word": "游本昌谈自己最大的幸福所在",
+      "onboard_time": 1751794761,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66359,
