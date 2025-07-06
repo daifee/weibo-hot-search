@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751823685725,
+  "endTime": 1751826855842,
   "band_list": [
     {
       "raw_hot": 7611710,
@@ -2011,6 +2011,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 149314,
+      "num": 149314,
+      "word": "鹿晗安慰粉丝别哭别哭",
+      "onboard_time": 1751822238,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 148804,
       "num": 148804,
       "word": "XUN 大动脉",
@@ -2971,14 +2979,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105016,
-      "num": 105016,
-      "word": "鹿晗安慰粉丝别哭别哭",
-      "onboard_time": 1751822238,
-      "rank": 19,
-      "category": "演出"
-    },
-    {
       "raw_hot": 104900,
       "num": 104900,
       "word": "邓紫棋睡公主好像一个小手办",
@@ -3851,6 +3851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33967,
+      "num": 33967,
+      "word": "广铁事件中的恶劣一面",
+      "onboard_time": 1751824037,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33575,
       "num": 130594,
       "word": "放弃继承遗产死者生前借款还用还吗",
@@ -3867,6 +3875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32391,
+      "num": 73051,
+      "word": "山东一高校因高温暂停期末考试",
+      "onboard_time": 1751823317,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31584,
       "num": 70211,
       "word": "Bin 我们是可以赢的",
@@ -3875,12 +3891,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 31309,
+      "num": 31309,
+      "word": "登陆少年青春男高",
+      "onboard_time": 1751826135,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 31094,
+      "num": 31094,
+      "word": "厂商称晚安牛奶只是名称不一定助眠",
+      "onboard_time": 1751823738,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30417,
       "num": 123082,
       "word": "美国党运作或改变美国大选格局",
       "onboard_time": 1751798482,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 29510,
+      "num": 29510,
+      "word": "李一桐分享书卷一梦reaction",
+      "onboard_time": 1751825776,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 28098,
@@ -3915,11 +3955,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 26417,
-      "num": 73051,
-      "word": "山东一高校因高温暂停期末考试",
-      "onboard_time": 1751823317,
-      "rank": 24,
+      "raw_hot": 23831,
+      "num": 103843,
+      "word": "厦门台风前出现魔幻朝霞",
+      "onboard_time": 1751825957,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
