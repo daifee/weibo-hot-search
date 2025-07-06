@@ -1,6 +1,6 @@
 {
   "startTime": 1751819447185,
-  "endTime": 1751826855842,
+  "endTime": 1751827679367,
   "band_list": [
     {
       "raw_hot": 3495922,
@@ -475,6 +475,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 38930,
+      "num": 103843,
+      "word": "厦门台风前出现魔幻朝霞",
+      "onboard_time": 1751825957,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36779,
       "num": 70220,
       "word": "4岁宝宝手术台上把自己麻晕",
@@ -484,7 +492,7 @@
     },
     {
       "raw_hot": 33967,
-      "num": 33967,
+      "num": 34693,
       "word": "广铁事件中的恶劣一面",
       "onboard_time": 1751824037,
       "rank": 28,
@@ -508,7 +516,7 @@
     },
     {
       "raw_hot": 31309,
-      "num": 31309,
+      "num": 34690,
       "word": "登陆少年青春男高",
       "onboard_time": 1751826135,
       "rank": 35,
@@ -516,11 +524,19 @@
     },
     {
       "raw_hot": 31094,
-      "num": 31094,
+      "num": 34692,
       "word": "厂商称晚安牛奶只是名称不一定助眠",
       "onboard_time": 1751823738,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30018,
+      "num": 34693,
+      "word": "朱志鑫线下活动人气",
+      "onboard_time": 1751827335,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 29510,
@@ -531,12 +547,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 23831,
-      "num": 103843,
-      "word": "厦门台风前出现魔幻朝霞",
-      "onboard_time": 1751825957,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 27297,
+      "num": 34692,
+      "word": "刘雨昕面对唱歌被质疑的心态",
+      "onboard_time": 1751827095,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 25413,
+      "num": 34691,
+      "word": "种地吧",
+      "onboard_time": 1751826915,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 15809,
+      "num": 88927,
+      "word": "中美关系的未来在青年",
+      "onboard_time": 1751827156,
+      "rank": 10,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
