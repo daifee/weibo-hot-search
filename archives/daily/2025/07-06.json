@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751783771494,
+  "endTime": 1751784570529,
   "band_list": [
     {
       "raw_hot": 2706470,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1518482,
-      "num": 200743,
+      "num": 206184,
       "word": "当你的子宫都开始对你催生",
       "onboard_time": 1751781201,
       "rank": 20,
@@ -147,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 723451,
+      "num": 1115752,
+      "word": "hi6",
+      "onboard_time": 1751780242,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 702326,
       "num": 241818,
       "word": "曾志伟和女星合影姿势引争议",
@@ -227,20 +235,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 480752,
+      "num": 480752,
+      "word": "女子吃冰脑壳一紧突发脑结冰",
+      "onboard_time": 1751781262,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 478407,
       "num": 478407,
       "word": "阿坝车辆坠崖2死5失联家属急寻线索",
       "onboard_time": 1751778022,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 472773,
-      "num": 472773,
-      "word": "hi6",
-      "onboard_time": 1751780242,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 460487,
@@ -299,14 +307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 413383,
-      "num": 413383,
-      "word": "女子吃冰脑壳一紧突发脑结冰",
-      "onboard_time": 1751781262,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 410036,
       "num": 236359,
       "word": "田栩宁emoji",
@@ -315,8 +315,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 377828,
-      "num": 377828,
+      "raw_hot": 383368,
+      "num": 383368,
       "word": "罗马仕向消费者表示深刻歉意",
       "onboard_time": 1751779283,
       "rank": 24,
@@ -403,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 291318,
+      "num": 239064,
+      "word": "金泰亨朴宝剑手牵手",
+      "onboard_time": 1751782462,
+      "rank": 18,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 283553,
       "num": 283553,
       "word": "T1战胜BLG",
@@ -425,6 +433,14 @@
       "onboard_time": 1751726064,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270960,
+      "num": 270960,
+      "word": "王楚钦回应莎头组合能否复制",
+      "onboard_time": 1751784262,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 269491,
@@ -571,14 +587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 203427,
-      "num": 203427,
-      "word": "金泰亨朴宝剑手牵手",
-      "onboard_time": 1751782462,
-      "rank": 18,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 203264,
       "num": 203264,
       "word": "梅西梅开二度",
@@ -635,6 +643,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 192484,
+      "num": 192484,
+      "word": "董力儿子7岁近照",
+      "onboard_time": 1751782341,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191713,
       "num": 191713,
       "word": "MSI",
@@ -659,20 +675,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 188260,
-      "num": 188260,
-      "word": "董力儿子7岁近照",
-      "onboard_time": 1751782341,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 187135,
       "num": 187135,
       "word": "BLG败后发文",
       "onboard_time": 1751771962,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 182375,
+      "num": 308821,
+      "word": "五星级酒店摆地摊37分钟售罄",
+      "onboard_time": 1751779883,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 180141,
@@ -707,6 +723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175056,
+      "num": 315339,
+      "word": "孙颖莎说球迷加油让自己更有动力",
+      "onboard_time": 1751780421,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173169,
       "num": 173169,
       "word": "灵魂摆渡十年官宣杀青",
@@ -721,14 +745,6 @@
       "onboard_time": 1751775683,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 171549,
-      "num": 308821,
-      "word": "五星级酒店摆地摊37分钟售罄",
-      "onboard_time": 1751779883,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 167669,
@@ -828,7 +844,7 @@
     },
     {
       "raw_hot": 153987,
-      "num": 153987,
+      "num": 182584,
       "word": "短剧演员在颜值赛道堪比内娱圈",
       "onboard_time": 1751778682,
       "rank": 46,
@@ -849,14 +865,6 @@
       "onboard_time": 1751775382,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 148642,
-      "num": 315339,
-      "word": "孙颖莎说球迷加油让自己更有动力",
-      "onboard_time": 1751780421,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 146808,
@@ -971,6 +979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132208,
+      "num": 184312,
+      "word": "鹿晗叫我拍阿猛",
+      "onboard_time": 1751782222,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 130384,
       "num": 130384,
       "word": "六郎玩的都是何惟芳剩下的",
@@ -1051,14 +1067,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 125022,
-      "num": 143611,
-      "word": "鹿晗叫我拍阿猛",
-      "onboard_time": 1751782222,
-      "rank": 29,
-      "category": "演出"
-    },
-    {
       "raw_hot": 124136,
       "num": 145537,
       "word": "李荣浩教6500万岁学员唱情歌",
@@ -1073,6 +1081,14 @@
       "onboard_time": 1751778323,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122843,
+      "num": 182469,
+      "word": "别去塑造恶女",
+      "onboard_time": 1751783002,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 122640,
@@ -1115,6 +1131,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 120062,
+      "num": 120062,
+      "word": "周杰伦回应人生还会有什么烦恼",
+      "onboard_time": 1751783722,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119198,
       "num": 119198,
       "word": "尽量不要给手机整夜充电",
@@ -1153,6 +1177,14 @@
       "onboard_time": 1751781743,
       "rank": 36,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 116029,
+      "num": 116029,
+      "word": "每七天想离一次婚但说不出口",
+      "onboard_time": 1751781442,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 115441,
@@ -1243,20 +1275,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109455,
+      "num": 109455,
+      "word": "李人骏其实精得很",
+      "onboard_time": 1751783960,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109335,
       "num": 120261,
       "word": "杨和苏 真是一年都没让我缺席",
       "onboard_time": 1751766922,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 109056,
-      "num": 109056,
-      "word": "别去塑造恶女",
-      "onboard_time": 1751783002,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 108753,
@@ -1331,6 +1363,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 103371,
+      "num": 103371,
+      "word": "易烊千玺演唱会一官宣就赠票",
+      "onboard_time": 1751782762,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 102263,
       "num": 102263,
       "word": "小猫上厕所用力过猛有点开线了",
@@ -1387,6 +1427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99002,
+      "num": 99002,
+      "word": "以法之名后备箱是聚宝盆",
+      "onboard_time": 1751784081,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97155,
       "num": 97155,
       "word": "女子遭同学设套被骗千万全家自杀",
@@ -1409,14 +1457,6 @@
       "onboard_time": 1751778622,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 94103,
-      "num": 94103,
-      "word": "每七天想离一次婚但说不出口",
-      "onboard_time": 1751781442,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 93023,
@@ -1475,14 +1515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 87106,
-      "num": 87106,
-      "word": "周杰伦回应人生还会有什么烦恼",
-      "onboard_time": 1751783722,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 86909,
       "num": 86909,
       "word": "巴黎圣日耳曼2比0拜仁",
@@ -1520,6 +1552,14 @@
       "word": "孟子义内娱第一个饭渣人设",
       "onboard_time": 1751721985,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 81066,
+      "num": 177600,
+      "word": "南珩弥补了古偶不会说英文的遗憾",
+      "onboard_time": 1751784142,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -1675,6 +1715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53616,
+      "num": 208075,
+      "word": "原来酷炫的机甲要这么做",
+      "onboard_time": 1751782041,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53586,
       "num": 703558,
       "word": "又一次被鱼水情深的双向奔赴感动",
@@ -1715,14 +1763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 48698,
-      "num": 201103,
-      "word": "原来酷炫的机甲要这么做",
-      "onboard_time": 1751782041,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 42903,
       "num": 654348,
       "word": "网警提醒高考花钱改分是骗局",
@@ -1737,6 +1777,14 @@
       "onboard_time": 1751744055,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 42494,
+      "num": 109582,
+      "word": "德约科维奇温网100胜",
+      "onboard_time": 1751784501,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 34971,
@@ -1793,6 +1841,14 @@
       "onboard_time": 1751768841,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 19949,
+      "num": 207123,
+      "word": "台风丹娜丝带来风风风雨雨雨",
+      "onboard_time": 1751784081,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19606,
