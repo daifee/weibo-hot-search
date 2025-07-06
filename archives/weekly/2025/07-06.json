@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751801887520,
+  "endTime": 1751806172894,
   "band_list": [
     {
       "raw_hot": 7611710,
@@ -17,6 +17,14 @@
       "onboard_time": 1751784562,
       "rank": 10,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 3588853,
+      "num": 346477,
+      "word": "青岛大学回应一宿管人员离世",
+      "onboard_time": 1751802503,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 3397807,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 1325945,
-      "num": 268643,
+      "num": 300097,
       "word": "身份证照片 戴眼镜",
       "onboard_time": 1751790262,
       "rank": 30,
@@ -89,6 +97,14 @@
       "onboard_time": 1751793022,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1225523,
+      "num": 350889,
+      "word": "Angelababy出席巴黎时装周",
+      "onboard_time": 1751803764,
+      "rank": 3,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 1215776,
@@ -363,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 457762,
+      "num": 146909,
+      "word": "贪污自杀",
+      "onboard_time": 1751805684,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 454059,
       "num": 454059,
       "word": "费大厨 本科以下勿扰",
@@ -523,12 +547,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 337910,
+      "num": 337910,
+      "word": "常州vs淮安",
+      "onboard_time": 1751800705,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 337699,
       "num": 224894,
       "word": "权恩妃水弹",
       "onboard_time": 1751794761,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 324475,
+      "num": 324475,
+      "word": "男童躺街上被碾压身亡司机发声",
+      "onboard_time": 1751805205,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 321396,
@@ -811,6 +851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222995,
+      "num": 222995,
+      "word": "刘诗诗高领的神",
+      "onboard_time": 1751803764,
+      "rank": 15,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 222684,
       "num": 289761,
       "word": "2男子射杀邻居2猫被行拘",
@@ -860,7 +908,7 @@
     },
     {
       "raw_hot": 206618,
-      "num": 206618,
+      "num": 218915,
       "word": "花少7登上马达加斯加电视台",
       "onboard_time": 1751800946,
       "rank": 19,
@@ -1027,12 +1075,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 185309,
+      "num": 185309,
+      "word": "何惟芳刺伤蒋长扬",
+      "onboard_time": 1751803643,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184847,
       "num": 223459,
       "word": "贺峻霖又给谢娜发信息嘚瑟",
       "onboard_time": 1751798364,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183726,
+      "num": 183726,
+      "word": "日军官因找借口挑起卢沟桥事变升职",
+      "onboard_time": 1751805205,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 183669,
+      "num": 183669,
+      "word": "无畏 菜",
+      "onboard_time": 1751805684,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 182405,
@@ -1099,6 +1171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 174950,
+      "num": 225287,
+      "word": "马斯克谈对特朗普由爱转恨原因",
+      "onboard_time": 1751803405,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 173169,
       "num": 173169,
       "word": "灵魂摆渡十年官宣杀青",
@@ -1121,6 +1201,14 @@
       "onboard_time": 1751786481,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 169168,
+      "num": 169168,
+      "word": "火鸡面太恶毒了",
+      "onboard_time": 1751798783,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 167936,
@@ -1177,6 +1265,14 @@
       "onboard_time": 1751720663,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161203,
+      "num": 161203,
+      "word": "书卷一梦女主人设",
+      "onboard_time": 1751802986,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 161158,
@@ -1299,6 +1395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152489,
+      "num": 152489,
+      "word": "以法之名抓到的第一条大鱼",
+      "onboard_time": 1751804784,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150753,
       "num": 201367,
       "word": "F1",
@@ -1331,14 +1435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 147191,
-      "num": 147191,
-      "word": "常州vs淮安",
-      "onboard_time": 1751800705,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 146808,
       "num": 186946,
       "word": "以法之名",
@@ -1355,6 +1451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146757,
+      "num": 146757,
+      "word": "镇江vs泰州",
+      "onboard_time": 1751804904,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146755,
       "num": 196080,
       "word": "于正说临江仙戏爆OST爆",
@@ -1363,20 +1467,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146014,
+      "num": 146014,
+      "word": "30岁人生建议不要预设困难",
+      "onboard_time": 1751802926,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145836,
       "num": 145836,
       "word": "蒲熠星内娱顶级逆应援",
       "onboard_time": 1751772804,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 145414,
-      "num": 145414,
-      "word": "火鸡面太恶毒了",
-      "onboard_time": 1751798783,
-      "rank": 43,
-      "category": "美食"
     },
     {
       "raw_hot": 144612,
@@ -1441,6 +1545,14 @@
       "onboard_time": 1751785881,
       "rank": 26,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 142159,
+      "num": 142159,
+      "word": "香港民众在中国战机下避雨",
+      "onboard_time": 1751805084,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 139797,
@@ -1659,6 +1771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126930,
+      "num": 126930,
+      "word": "巴黎偶遇张曼玉",
+      "onboard_time": 1751805325,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126751,
       "num": 126751,
       "word": "尼格买提痛失本名",
@@ -1689,6 +1809,14 @@
       "onboard_time": 1751779103,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 125127,
+      "num": 125127,
+      "word": "仙逆动画",
+      "onboard_time": 1751802384,
+      "rank": 37,
+      "category": "动漫"
     },
     {
       "raw_hot": 124636,
@@ -1755,6 +1883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121050,
+      "num": 146939,
+      "word": "黄子弘凡扶电梯摔倒女生",
+      "onboard_time": 1751805984,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120796,
       "num": 120796,
       "word": "赵晓卉把你嘴借我用用",
@@ -1819,6 +1955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116893,
+      "num": 116893,
+      "word": "刘丁硕揭开王楚钦蘑菇头真相",
+      "onboard_time": 1751803884,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116851,
       "num": 203182,
       "word": "白鹿给张鑫送定制麦克风",
@@ -1848,6 +1992,14 @@
       "word": "谍战剧关注度越来越高",
       "onboard_time": 1751768122,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 114881,
+      "num": 114881,
+      "word": "南珩一步将相一步悲凉",
+      "onboard_time": 1751806044,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -1897,6 +2049,14 @@
       "onboard_time": 1751757737,
       "rank": 34,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 112009,
+      "num": 112009,
+      "word": "南京是真的急了",
+      "onboard_time": 1751805325,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 111385,
@@ -2019,6 +2179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 106811,
+      "num": 106811,
+      "word": "郑号锡去看BLACKPINK演唱会了",
+      "onboard_time": 1751803585,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 106766,
       "num": 211968,
       "word": "养螳螂当宠物被邻居当成蟑螂喷杀虫剂",
@@ -2099,6 +2267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 103980,
+      "num": 103980,
+      "word": "以法之名一个也没放过",
+      "onboard_time": 1751805684,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103706,
       "num": 313182,
       "word": "美得州洪灾已致51死",
@@ -2137,6 +2313,14 @@
       "onboard_time": 1751791104,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 102910,
+      "num": 233079,
+      "word": "罗马仕突然停工有员工还在外地出差",
+      "onboard_time": 1751801485,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102263,
@@ -2185,6 +2369,14 @@
       "onboard_time": 1751793202,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 101264,
+      "num": 101264,
+      "word": "江苏各地特产销量暴涨",
+      "onboard_time": 1751804243,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 101244,
@@ -2499,14 +2691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 79192,
-      "num": 233079,
-      "word": "罗马仕突然停工有员工还在外地出差",
-      "onboard_time": 1751801485,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 78645,
       "num": 179066,
       "word": "苏超第6轮淮安vs常州",
@@ -2723,6 +2907,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52884,
+      "num": 207897,
+      "word": "好多明星晒三星神秘邀请函",
+      "onboard_time": 1751803764,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 51833,
+      "num": 311140,
+      "word": "青岛大学称今年全校宿舍将装空调",
+      "onboard_time": 1751805623,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51828,
       "num": 72101,
       "word": "Jennie你的兵回来了",
@@ -2785,6 +2985,14 @@
       "onboard_time": 1751800046,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 39213,
+      "num": 207065,
+      "word": "马斯克面临特朗普报复风险",
+      "onboard_time": 1751805684,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 35662,
