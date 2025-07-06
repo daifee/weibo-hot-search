@@ -1,10 +1,10 @@
 {
   "startTime": 1751819447185,
-  "endTime": 1751819447185,
+  "endTime": 1751820440158,
   "band_list": [
     {
-      "raw_hot": 3243001,
-      "num": 3243001,
+      "raw_hot": 3495922,
+      "num": 3495922,
       "word": "男生与女友同居太兴奋后空翻摔死",
       "onboard_time": 1751816663,
       "rank": 0,
@@ -19,20 +19,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 705153,
+      "num": 705153,
+      "word": "央视曝光零差评背后猫腻",
+      "onboard_time": 1751817864,
+      "rank": 1,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 577188,
       "num": 290743,
       "word": "藏海传床戏",
       "onboard_time": 1751812104,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 517427,
-      "num": 517427,
-      "word": "央视曝光零差评背后猫腻",
-      "onboard_time": 1751817864,
-      "rank": 1,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 472521,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 274617,
+      "num": 248079,
+      "word": "鹿晗工作室出图",
+      "onboard_time": 1751817203,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 249952,
       "num": 291441,
       "word": "七七事变88年了",
@@ -131,6 +139,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 200346,
+      "num": 241440,
+      "word": "血铅异常幼儿园老师称自己也是受害者",
+      "onboard_time": 1751818823,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 197820,
       "num": 197820,
       "word": "七七事变",
@@ -147,14 +163,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 191481,
-      "num": 248079,
-      "word": "鹿晗工作室出图",
-      "onboard_time": 1751817203,
-      "rank": 15,
-      "category": "演出"
-    },
-    {
       "raw_hot": 160918,
       "num": 247033,
       "word": "断眉attention万人大合唱给我唱爽了",
@@ -169,6 +177,14 @@
       "onboard_time": 1751815944,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158037,
+      "num": 158037,
+      "word": "薛之谦夸黄子弘凡是好孩子",
+      "onboard_time": 1751819062,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 157684,
@@ -195,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144900,
+      "num": 219599,
+      "word": "马斯克回应对特朗普由爱转恨原因",
+      "onboard_time": 1751816063,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 140569,
       "num": 140569,
       "word": "无畏 菜",
@@ -219,14 +243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131123,
-      "num": 131123,
-      "word": "薛之谦夸黄子弘凡是好孩子",
-      "onboard_time": 1751819062,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 130957,
       "num": 131967,
       "word": "张鑫 白鹿站姐",
@@ -235,28 +251,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 127574,
-      "num": 127574,
-      "word": "马斯克回应对特朗普由爱转恨原因",
-      "onboard_time": 1751816063,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 121193,
       "num": 121193,
       "word": "脊柱最喜欢的4个动作",
       "onboard_time": 1751815286,
       "rank": 33,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 116974,
-      "num": 241440,
-      "word": "血铅异常幼儿园老师称自己也是受害者",
-      "onboard_time": 1751818823,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113113,
@@ -307,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99338,
+      "num": 99338,
+      "word": "鹿晗哥感好足",
+      "onboard_time": 1751820081,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 96063,
       "num": 96063,
       "word": "淮上 我就喜欢吃这种的",
@@ -337,6 +345,22 @@
       "onboard_time": 1751814204,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 89606,
+      "num": 89606,
+      "word": "网传零食店一店员给顾客下跪道歉",
+      "onboard_time": 1751819781,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89312,
+      "num": 89312,
+      "word": "女子称丽江一店冰淇淋9.9元变48元",
+      "onboard_time": 1751819840,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88848,
@@ -387,6 +411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64380,
+      "num": 64380,
+      "word": "喜欢烧烤和喜欢西瓜的都沉默了",
+      "onboard_time": 1751817744,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 45546,
       "num": 131954,
       "word": "天水幼儿园铅中毒背后的隐形毒源",
@@ -396,7 +428,7 @@
     },
     {
       "raw_hot": 43920,
-      "num": 398587,
+      "num": 466858,
       "word": "文化中国行看古人的清凉好物",
       "onboard_time": 1751810124,
       "rank": 2,
