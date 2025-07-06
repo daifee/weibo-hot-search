@@ -1,0 +1,410 @@
+{
+  "runTime": 1751819447185,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3243001,
+        "num": 3243001,
+        "word": "男生与女友同居太兴奋后空翻摔死",
+        "onboard_time": 1751816663,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 517427,
+        "num": 517427,
+        "word": "央视曝光零差评背后猫腻",
+        "onboard_time": 1751817864,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 43920,
+        "num": 398587,
+        "word": "文化中国行看古人的清凉好物",
+        "onboard_time": 1751810124,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 393518,
+        "num": 393518,
+        "word": "Angelababy出席巴黎时装周",
+        "onboard_time": 1751803764,
+        "rank": 3,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 298908,
+        "num": 298908,
+        "word": "勿忘19370707",
+        "onboard_time": 1751810305,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1905783,
+        "num": 296729,
+        "word": "学生称去世宿管大爷平时身体很好",
+        "onboard_time": 1751814143,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 472521,
+        "num": 296575,
+        "word": "青岛大学去世宿管曾收养多只流浪猫",
+        "onboard_time": 1751811384,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292042,
+        "num": 292042,
+        "word": "男子借住朋友家一觉醒来6万没了",
+        "onboard_time": 1751812645,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276905,
+        "num": 291931,
+        "word": "石凯晒拍立得",
+        "onboard_time": 1751814204,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249952,
+        "num": 291441,
+        "word": "七七事变88年了",
+        "onboard_time": 1751818164,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 577188,
+        "num": 290743,
+        "word": "藏海传床戏",
+        "onboard_time": 1751812104,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 404011,
+        "num": 290392,
+        "word": "身份证照片 戴眼镜",
+        "onboard_time": 1751790262,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298546,
+        "num": 290168,
+        "word": "BLACKPINK演唱会偶遇邓超孙俪一家",
+        "onboard_time": 1751812164,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 289734,
+        "num": 289734,
+        "word": "七七事变纪录片一夜之间",
+        "onboard_time": 1751807967,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 249560,
+        "num": 249560,
+        "word": "今日中国早已不是1937年的中国",
+        "onboard_time": 1751816423,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 191481,
+        "num": 248079,
+        "word": "鹿晗工作室出图",
+        "onboard_time": 1751817203,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160918,
+        "num": 247033,
+        "word": "断眉attention万人大合唱给我唱爽了",
+        "onboard_time": 1751815345,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 157684,
+        "num": 244862,
+        "word": "鹿晗演唱会",
+        "onboard_time": 1751806766,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 157101,
+        "num": 242338,
+        "word": "白鹿回应张鑫",
+        "onboard_time": 1751809884,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116974,
+        "num": 241440,
+        "word": "血铅异常幼儿园老师称自己也是受害者",
+        "onboard_time": 1751818823,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239676,
+        "num": 239676,
+        "word": "常州进球无效",
+        "onboard_time": 1751808986,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216138,
+        "num": 216138,
+        "word": "中考720分小伙高二转职高学烹饪",
+        "onboard_time": 1751812344,
+        "rank": 21,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 197820,
+        "num": 197820,
+        "word": "七七事变",
+        "onboard_time": 1751813184,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 192574,
+        "num": 192574,
+        "word": "医生称晚安牛奶每天喝24000瓶才有效",
+        "onboard_time": 1751807006,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159152,
+        "num": 159152,
+        "word": "血铅异常幼儿异地血检数据升十多倍",
+        "onboard_time": 1751815944,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155279,
+        "num": 155279,
+        "word": "警方回应拍身份证照片能否戴眼镜",
+        "onboard_time": 1751813604,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140569,
+        "num": 140569,
+        "word": "无畏 菜",
+        "onboard_time": 1751805684,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132417,
+        "num": 132417,
+        "word": "鹿晗今天出场造型",
+        "onboard_time": 1751816184,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130957,
+        "num": 131967,
+        "word": "张鑫 白鹿站姐",
+        "onboard_time": 1751809583,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45546,
+        "num": 131954,
+        "word": "天水幼儿园铅中毒背后的隐形毒源",
+        "onboard_time": 1751818882,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131952,
+        "num": 131952,
+        "word": "当你的子宫都开始对你催生",
+        "onboard_time": 1751781201,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131123,
+        "num": 131123,
+        "word": "薛之谦夸黄子弘凡是好孩子",
+        "onboard_time": 1751819062,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127574,
+        "num": 127574,
+        "word": "马斯克回应对特朗普由爱转恨原因",
+        "onboard_time": 1751816063,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121193,
+        "num": 121193,
+        "word": "脊柱最喜欢的4个动作",
+        "onboard_time": 1751815286,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 113113,
+        "num": 113113,
+        "word": "林俊杰潘玮柏首次同台燃炸",
+        "onboard_time": 1751818044,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112062,
+        "num": 112062,
+        "word": "吃冷饮在嘴里含三五秒真的有用",
+        "onboard_time": 1751813364,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 105956,
+        "num": 105956,
+        "word": "恋与深空严正声明",
+        "onboard_time": 1751799987,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 103032,
+        "num": 103032,
+        "word": "这跟Jennie在我脸上跳舞有什么区别",
+        "onboard_time": 1751811864,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 101551,
+        "num": 101551,
+        "word": "邓紫棋专家号藏不住了",
+        "onboard_time": 1751816904,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 100536,
+        "num": 100536,
+        "word": "本月起你的工资或将多一笔钱",
+        "onboard_time": 1751809704,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96063,
+        "num": 96063,
+        "word": "淮上 我就喜欢吃这种的",
+        "onboard_time": 1751799749,
+        "rank": 40,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 95768,
+        "num": 95768,
+        "word": "七七事变背后的历史真相",
+        "onboard_time": 1751818223,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 91298,
+        "num": 91298,
+        "word": "王岳伦机场接王诗龄",
+        "onboard_time": 1751810544,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90411,
+        "num": 90411,
+        "word": "Bin赛后致歉",
+        "onboard_time": 1751814204,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 88848,
+        "num": 88848,
+        "word": "F1直播",
+        "onboard_time": 1751817382,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87370,
+        "num": 87370,
+        "word": "日本气象厅再发预警",
+        "onboard_time": 1751812707,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 85226,
+        "num": 85226,
+        "word": "柳智敏澄清ins争议",
+        "onboard_time": 1751801306,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84457,
+        "num": 84457,
+        "word": "刘诗诗李庚希同框合照",
+        "onboard_time": 1751813904,
+        "rank": 47,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 81944,
+        "num": 81944,
+        "word": "提供情绪价值是了不起的能力",
+        "onboard_time": 1751818882,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 81438,
+        "num": 81438,
+        "word": "43岁女子姐弟恋怀孕后婆婆不认可",
+        "onboard_time": 1751787982,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美关系的未来在青年#"
+    }
+  }
+}
