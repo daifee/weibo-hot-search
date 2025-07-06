@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751774940654,
+  "endTime": 1751776847295,
   "band_list": [
     {
       "raw_hot": 2706470,
@@ -41,6 +41,22 @@
       "onboard_time": 1751771722,
       "rank": 0,
       "category": "艺人,剧集"
+    },
+    {
+      "raw_hot": 1125912,
+      "num": 301339,
+      "word": "郑星源 梓渝",
+      "onboard_time": 1751774662,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1048386,
+      "num": 1167741,
+      "word": "中缅泰将全面清剿电诈园区",
+      "onboard_time": 1751773162,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1047932,
@@ -115,14 +131,6 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 686685,
-      "num": 686685,
-      "word": "中缅泰将全面清剿电诈园区",
-      "onboard_time": 1751773162,
-      "rank": 4,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 619179,
       "num": 619179,
       "word": "G社拍的刘诗诗",
@@ -139,12 +147,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 541377,
-      "num": 301339,
-      "word": "郑星源 梓渝",
-      "onboard_time": 1751774662,
+      "raw_hot": 541168,
+      "num": 541168,
+      "word": "28岁女生辞职改行被全家托举",
+      "onboard_time": 1751772984,
       "rank": 12,
-      "category": "艺人"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 525803,
@@ -169,14 +177,6 @@
       "onboard_time": 1751761221,
       "rank": 4,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 481418,
-      "num": 333150,
-      "word": "28岁女生辞职改行被全家托举",
-      "onboard_time": 1751772984,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 460487,
@@ -259,6 +259,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 327308,
+      "num": 327308,
+      "word": "今年三伏只有30天",
+      "onboard_time": 1751773642,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 321396,
       "num": 376163,
       "word": "甘肃幼儿血铅异常事件发现疑似毒源",
@@ -307,6 +315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 282398,
+      "num": 282398,
+      "word": "山东考公人拒绝不了的电视剧来了",
+      "onboard_time": 1751775623,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 281625,
       "num": 281625,
       "word": "恋与深空去中化",
@@ -331,7 +347,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 262433,
+      "raw_hot": 266307,
       "num": 381171,
       "word": "梓渝新歌",
       "onboard_time": 1751762481,
@@ -345,6 +361,14 @@
       "onboard_time": 1751757798,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 253795,
+      "num": 253795,
+      "word": "张凯丽女儿和素人选手分词起争执",
+      "onboard_time": 1751775200,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 250769,
@@ -395,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 233882,
+      "num": 233882,
+      "word": "马斯克准备明年参选",
+      "onboard_time": 1751772323,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 233107,
       "num": 233107,
       "word": "杨幂同款汉服卖爆了",
@@ -409,6 +441,14 @@
       "onboard_time": 1751739316,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 212878,
+      "num": 259253,
+      "word": "刘宇宁波演唱会复盘直播",
+      "onboard_time": 1751776463,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 212406,
@@ -444,7 +484,7 @@
     },
     {
       "raw_hot": 202995,
-      "num": 202995,
+      "num": 240581,
       "word": "罗马仕陷入34场官司均为被告",
       "onboard_time": 1751766561,
       "rank": 30,
@@ -459,16 +499,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 199872,
-      "num": 199872,
-      "word": "今年三伏只有30天",
-      "onboard_time": 1751773642,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 197400,
+      "num": 227228,
+      "word": "杨紫回应李现答应牡丹",
+      "onboard_time": 1751775981,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 196036,
-      "num": 145297,
+      "num": 151246,
       "word": "刘品言挺孕肚主持电影节",
       "onboard_time": 1751771482,
       "rank": 30,
@@ -481,14 +521,6 @@
       "onboard_time": 1751771482,
       "rank": 23,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 192847,
-      "num": 145080,
-      "word": "马斯克准备明年参选",
-      "onboard_time": 1751772323,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 191713,
@@ -547,12 +579,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173169,
+      "num": 173169,
+      "word": "灵魂摆渡十年官宣杀青",
+      "onboard_time": 1751774843,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 172795,
+      "num": 172795,
+      "word": "世乒赛夺冠王楚钦希望不是昙花",
+      "onboard_time": 1751775683,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167669,
       "num": 167669,
       "word": "女子指甲下长肿瘤被误诊甲沟炎10年",
       "onboard_time": 1751757198,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163903,
+      "num": 163903,
+      "word": "谁敢老了以后这样生活",
+      "onboard_time": 1751775742,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 162040,
@@ -579,6 +635,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 157704,
+      "num": 157704,
+      "word": "张雅钦奶奶辈审美天菜",
+      "onboard_time": 1751775142,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157354,
       "num": 141450,
       "word": "天气热到共情吸血鬼",
@@ -587,8 +651,24 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 155438,
+      "num": 155438,
+      "word": "日语N1",
+      "onboard_time": 1751776341,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 154494,
+      "num": 154494,
+      "word": "友情脑被柯南m28硬控了",
+      "onboard_time": 1751776525,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 150192,
-      "num": 150192,
+      "num": 159233,
       "word": "南非发生多起针对女性中国公民绑架",
       "onboard_time": 1751769262,
       "rank": 35,
@@ -641,6 +721,14 @@
       "onboard_time": 1751764822,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 135884,
+      "num": 135884,
+      "word": "国际接吻日",
+      "onboard_time": 1751772444,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135884,
@@ -779,12 +867,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 113457,
-      "num": 113457,
-      "word": "灵魂摆渡十年官宣杀青",
-      "onboard_time": 1751774843,
-      "rank": 45,
-      "category": "剧集"
+      "raw_hot": 113216,
+      "num": 113216,
+      "word": "广东明确小产权房一律不得登记",
+      "onboard_time": 1751775623,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112879,
+      "num": 278762,
+      "word": "十三太保都是京东的宝",
+      "onboard_time": 1751774722,
+      "rank": 31,
+      "category": "体育,互联网"
     },
     {
       "raw_hot": 112850,
@@ -793,6 +889,14 @@
       "onboard_time": 1751757737,
       "rank": 34,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 111448,
+      "num": 111448,
+      "word": "XUN 大动脉",
+      "onboard_time": 1751775382,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 111147,
@@ -905,14 +1009,6 @@
       "onboard_time": 1751767161,
       "rank": 14,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 102972,
-      "num": 102972,
-      "word": "国际接吻日",
-      "onboard_time": 1751772444,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102263,
@@ -1131,14 +1227,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 73510,
-      "num": 142150,
-      "word": "十三太保都是京东的宝",
-      "onboard_time": 1751774722,
-      "rank": 31,
-      "category": "体育,互联网"
-    },
-    {
       "raw_hot": 72397,
       "num": 80544,
       "word": "BLACKPINK演唱会",
@@ -1185,6 +1273,14 @@
       "onboard_time": 1751735179,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 63216,
+      "num": 294029,
+      "word": "支付宝团建来看苏超秒变散装",
+      "onboard_time": 1751774481,
+      "rank": 14,
+      "category": "体育,互联网"
     },
     {
       "raw_hot": 61227,
@@ -1249,6 +1345,14 @@
       "onboard_time": 1751758819,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 45044,
+      "num": 275038,
+      "word": "2男子射杀邻居2猫被行拘",
+      "onboard_time": 1751776283,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42903,
@@ -1339,12 +1443,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 17047,
-      "num": 294029,
-      "word": "支付宝团建来看苏超秒变散装",
-      "onboard_time": 1751774481,
-      "rank": 14,
-      "category": "体育,互联网"
+      "raw_hot": 17219,
+      "num": 584254,
+      "word": "世界市长对话上合峰会城市",
+      "onboard_time": 1751775922,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12499,
@@ -1358,6 +1462,9 @@
   "hotgov_list": [
     {
       "word": "#总书记和青年朋友在一起#"
+    },
+    {
+      "word": "#厦门发展战略启示#"
     }
   ]
 }

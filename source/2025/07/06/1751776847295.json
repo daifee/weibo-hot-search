@@ -1,0 +1,410 @@
+{
+  "runTime": 1751776847295,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1048386,
+        "num": 1167741,
+        "word": "中缅泰将全面清剿电诈园区",
+        "onboard_time": 1751773162,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 590940,
+        "num": 590940,
+        "word": "00后女生带06年店员创业月挣10万",
+        "onboard_time": 1751771062,
+        "rank": 1,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 17219,
+        "num": 584254,
+        "word": "世界市长对话上合峰会城市",
+        "onboard_time": 1751775922,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 677590,
+        "num": 583145,
+        "word": "内娱最决绝的解约声明",
+        "onboard_time": 1751769441,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 581924,
+        "num": 581924,
+        "word": "G社拍的刘诗诗",
+        "onboard_time": 1751772323,
+        "rank": 4,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 541168,
+        "num": 541168,
+        "word": "28岁女生辞职改行被全家托举",
+        "onboard_time": 1751772984,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 488541,
+        "num": 488541,
+        "word": "马斯克发文成立美国党",
+        "onboard_time": 1751757859,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 327308,
+        "num": 327308,
+        "word": "今年三伏只有30天",
+        "onboard_time": 1751773642,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311577,
+        "num": 311577,
+        "word": "女子意外怀孕生下孩子卖掉换钱",
+        "onboard_time": 1751761580,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282398,
+        "num": 282398,
+        "word": "山东考公人拒绝不了的电视剧来了",
+        "onboard_time": 1751775623,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2354435,
+        "num": 281165,
+        "word": "田栩宁 孩子",
+        "onboard_time": 1751767582,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112879,
+        "num": 278762,
+        "word": "十三太保都是京东的宝",
+        "onboard_time": 1751774722,
+        "rank": 11,
+        "category": "体育,互联网"
+      },
+      {
+        "raw_hot": 1125912,
+        "num": 276227,
+        "word": "郑星源 梓渝",
+        "onboard_time": 1751774662,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45044,
+        "num": 275038,
+        "word": "2男子射杀邻居2猫被行拘",
+        "onboard_time": 1751776283,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63216,
+        "num": 271671,
+        "word": "支付宝团建来看苏超秒变散装",
+        "onboard_time": 1751774481,
+        "rank": 14,
+        "category": "体育,互联网"
+      },
+      {
+        "raw_hot": 1031970,
+        "num": 269529,
+        "word": "田栩宁微指连续四天破亿",
+        "onboard_time": 1751771722,
+        "rank": 15,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 859616,
+        "num": 266643,
+        "word": "男子长期性侵未成年养女被判死刑",
+        "onboard_time": 1751761580,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266307,
+        "num": 266307,
+        "word": "梓渝新歌",
+        "onboard_time": 1751762481,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 388982,
+        "num": 265394,
+        "word": "罗马仕深夜正式发布停工停产通知",
+        "onboard_time": 1751765481,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212878,
+        "num": 259253,
+        "word": "刘宇宁波演唱会复盘直播",
+        "onboard_time": 1751776463,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 253795,
+        "num": 253795,
+        "word": "张凯丽女儿和素人选手分词起争执",
+        "onboard_time": 1751775200,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87717,
+        "num": 240581,
+        "word": "罗马仕陷入34场官司均为被告",
+        "onboard_time": 1751766561,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233882,
+        "num": 233882,
+        "word": "马斯克准备明年参选",
+        "onboard_time": 1751772323,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 197400,
+        "num": 227228,
+        "word": "杨紫回应李现答应牡丹",
+        "onboard_time": 1751775981,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224197,
+        "num": 224197,
+        "word": "五星级酒店摆地摊日入3万",
+        "onboard_time": 1751764880,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213673,
+        "num": 213673,
+        "word": "这条小鱼在乎谁唱谁哭",
+        "onboard_time": 1751773103,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204385,
+        "num": 204385,
+        "word": "建议不要临睡前才刷牙",
+        "onboard_time": 1751744114,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 189895,
+        "num": 189895,
+        "word": "恋与深空去中化",
+        "onboard_time": 1751766142,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 181538,
+        "num": 181538,
+        "word": "T1战胜BLG",
+        "onboard_time": 1751769082,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 173169,
+        "num": 173169,
+        "word": "灵魂摆渡十年官宣杀青",
+        "onboard_time": 1751774843,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172795,
+        "num": 172795,
+        "word": "世乒赛夺冠王楚钦希望不是昙花",
+        "onboard_time": 1751775683,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163903,
+        "num": 163903,
+        "word": "谁敢老了以后这样生活",
+        "onboard_time": 1751775742,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136935,
+        "num": 159233,
+        "word": "南非发生多起针对女性中国公民绑架",
+        "onboard_time": 1751769262,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 157704,
+        "num": 157704,
+        "word": "张雅钦奶奶辈审美天菜",
+        "onboard_time": 1751775142,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155438,
+        "num": 155438,
+        "word": "日语N1",
+        "onboard_time": 1751776341,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 154494,
+        "num": 154494,
+        "word": "友情脑被柯南m28硬控了",
+        "onboard_time": 1751776525,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 141547,
+        "num": 151246,
+        "word": "刘品言挺孕肚主持电影节",
+        "onboard_time": 1751771482,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150313,
+        "num": 150313,
+        "word": "马斯克回应参选时间",
+        "onboard_time": 1751768721,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 150037,
+        "num": 150037,
+        "word": "BLG败后发文",
+        "onboard_time": 1751771962,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144344,
+        "num": 144344,
+        "word": "罗马仕宣布停工停产半年",
+        "onboard_time": 1751764101,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135884,
+        "num": 135884,
+        "word": "国际接吻日",
+        "onboard_time": 1751772444,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128957,
+        "num": 128957,
+        "word": "以法之名",
+        "onboard_time": 1751774422,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126742,
+        "num": 126742,
+        "word": "杨幂同款汉服卖爆了",
+        "onboard_time": 1751763020,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 126351,
+        "num": 126351,
+        "word": "rapper用归国四子diss黄子韬",
+        "onboard_time": 1751757798,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118690,
+        "num": 118690,
+        "word": "刘学义生日被工作室做局",
+        "onboard_time": 1751774422,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117900,
+        "num": 117900,
+        "word": "宋妍霏上节目两次拿反话筒",
+        "onboard_time": 1751774001,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115791,
+        "num": 115791,
+        "word": "杭州东站发生卧轨事件",
+        "onboard_time": 1751727385,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113216,
+        "num": 113216,
+        "word": "广东明确小产权房一律不得登记",
+        "onboard_time": 1751775623,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111448,
+        "num": 111448,
+        "word": "XUN 大动脉",
+        "onboard_time": 1751775382,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106510,
+        "num": 106510,
+        "word": "许言午好想报警又怕来的是孙飞",
+        "onboard_time": 1751774481,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#厦门发展战略启示#"
+    }
+  }
+}
