@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751797624697,
+  "endTime": 1751798655494,
   "band_list": [
     {
       "raw_hot": 4282599,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 886475,
-      "num": 1087165,
+      "num": 1096410,
       "word": "日本教材污蔑卢沟桥事变中方先开枪",
       "onboard_time": 1751788703,
       "rank": 6,
@@ -273,6 +273,14 @@
       "onboard_time": 1751728585,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 553543,
+      "num": 553543,
+      "word": "捡到金世佳身份证当事人发声",
+      "onboard_time": 1751797221,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 541168,
@@ -451,20 +459,20 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 361327,
+      "num": 346236,
+      "word": "吴莫愁换了万年不变铁刘海",
+      "onboard_time": 1751795062,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 356903,
       "num": 157494,
       "word": "12岁幼女家中遭强奸妈妈第二天才发现",
       "onboard_time": 1751701881,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 346236,
-      "num": 346236,
-      "word": "吴莫愁换了万年不变铁刘海",
-      "onboard_time": 1751795062,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 342997,
@@ -475,7 +483,7 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 334685,
+      "raw_hot": 337699,
       "num": 210949,
       "word": "权恩妃水弹",
       "onboard_time": 1751794761,
@@ -521,14 +529,6 @@
       "onboard_time": 1751768721,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 310205,
-      "num": 226324,
-      "word": "捡到金世佳身份证当事人发声",
-      "onboard_time": 1751797221,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 308562,
@@ -585,6 +585,14 @@
       "onboard_time": 1751757798,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 269262,
+      "num": 269262,
+      "word": "拍身份证照片可佩戴镜框",
+      "onboard_time": 1751797101,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 266307,
@@ -779,11 +787,27 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 208845,
+      "num": 208845,
+      "word": "WTT欧洲大满贯首批参赛名单公布",
+      "onboard_time": 1751797882,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206006,
       "num": 206006,
       "word": "田栩宁或将空降录制hi6",
       "onboard_time": 1751785821,
       "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 205707,
+      "num": 205707,
+      "word": "给韩红一个爱豆她还你一个兵",
+      "onboard_time": 1751797882,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -867,12 +891,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 195896,
+      "num": 180276,
+      "word": "日本月薪水平",
+      "onboard_time": 1751798002,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 195883,
       "num": 195883,
       "word": "美国政商界上演真实版权力的游戏",
       "onboard_time": 1751771482,
       "rank": 23,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 193516,
+      "num": 193516,
+      "word": "王楚钦回应被孙颖莎带着打",
+      "onboard_time": 1751797460,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 192484,
@@ -1051,6 +1091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159776,
+      "num": 200337,
+      "word": "程潇陈梦摆拍二人组",
+      "onboard_time": 1751797703,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159680,
       "num": 172642,
       "word": "朱一龙撕漫男但撕的是柯南",
@@ -1059,8 +1107,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 159306,
-      "num": 159306,
+      "raw_hot": 159632,
+      "num": 194875,
       "word": "老人扎堆华莱士蹭空调无视喇叭驱赶",
       "onboard_time": 1751795901,
       "rank": 22,
@@ -1129,6 +1177,14 @@
       "onboard_time": 1751786841,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150753,
+      "num": 201367,
+      "word": "F1",
+      "onboard_time": 1751797341,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 150192,
@@ -1212,7 +1268,7 @@
     },
     {
       "raw_hot": 143071,
-      "num": 143071,
+      "num": 184115,
       "word": "苏新皓分享权志龙演唱会视频",
       "onboard_time": 1751797221,
       "rank": 25,
@@ -1355,6 +1411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129763,
+      "num": 129763,
+      "word": "山东连发71个高温预警",
+      "onboard_time": 1751795901,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129366,
       "num": 129366,
       "word": "谢娜从时代少年团中选理想女婿",
@@ -1451,12 +1515,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 124758,
-      "num": 124758,
-      "word": "山东连发71个高温预警",
+      "raw_hot": 124636,
+      "num": 124636,
+      "word": "鹿晗工作室土味情话",
       "onboard_time": 1751795901,
-      "rank": 30,
-      "category": "民生新闻"
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 124136,
@@ -1497,6 +1561,14 @@
       "onboard_time": 1751793863,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122615,
+      "num": 122615,
+      "word": "贺峻霖又给谢娜发信息嘚瑟",
+      "onboard_time": 1751798364,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 122496,
@@ -1577,14 +1649,6 @@
       "onboard_time": 1751794222,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 116924,
-      "num": 116924,
-      "word": "鹿晗工作室土味情话",
-      "onboard_time": 1751795901,
-      "rank": 33,
-      "category": "演出"
     },
     {
       "raw_hot": 116851,
@@ -1859,6 +1923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104900,
+      "num": 104900,
+      "word": "邓紫棋睡公主好像一个小手办",
+      "onboard_time": 1751797341,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 103706,
       "num": 313182,
       "word": "美得州洪灾已致51死",
@@ -1899,14 +1971,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 102454,
-      "num": 102454,
-      "word": "邓紫棋睡公主好像一个小手办",
-      "onboard_time": 1751797341,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 102263,
       "num": 102263,
       "word": "小猫上厕所用力过猛有点开线了",
@@ -1921,6 +1985,14 @@
       "onboard_time": 1751764760,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101957,
+      "num": 101957,
+      "word": "第五瓜格",
+      "onboard_time": 1751798183,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 101949,
@@ -1987,20 +2059,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 100287,
-      "num": 100287,
-      "word": "F1",
-      "onboard_time": 1751797341,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
       "raw_hot": 99746,
       "num": 99746,
       "word": "快递外卖来电话将一眼识别",
       "onboard_time": 1751771062,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99522,
+      "num": 99522,
+      "word": "爱吃桃酥和蛋黄派的女孩",
+      "onboard_time": 1751798303,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 99002,
@@ -2011,7 +2083,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 97725,
+      "raw_hot": 98558,
       "num": 108807,
       "word": "游本昌谈自己最大的幸福所在",
       "onboard_time": 1751794761,
@@ -2043,12 +2115,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 96056,
-      "num": 96056,
-      "word": "王楚钦回应被孙颖莎带着打",
-      "onboard_time": 1751797460,
-      "rank": 42,
-      "category": "体育"
+      "raw_hot": 95740,
+      "num": 95740,
+      "word": "史上最强短剧阵容来了",
+      "onboard_time": 1751798423,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 95168,
@@ -2323,6 +2395,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 69321,
+      "num": 691641,
+      "word": "9个台风天安全提醒",
+      "onboard_time": 1751775683,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69107,
       "num": 69107,
       "word": "穆西亚拉重伤倒地",
@@ -2369,14 +2449,6 @@
       "onboard_time": 1751735179,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 63438,
-      "num": 691641,
-      "word": "9个台风天安全提醒",
-      "onboard_time": 1751775683,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 63216,
@@ -2459,6 +2531,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 49921,
+      "num": 207580,
+      "word": "全球博士生过剩",
+      "onboard_time": 1751797943,
+      "rank": 14,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 49666,
       "num": 49666,
       "word": "闰六月让夏季更热更长是真的吗",
@@ -2507,6 +2587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35662,
+      "num": 128611,
+      "word": "李诞说快乐不需要刻意寻找",
+      "onboard_time": 1751798482,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34971,
       "num": 37835,
       "word": "21岁机车少年意外离世父亲发文悼念",
@@ -2539,12 +2627,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 30200,
-      "num": 224653,
-      "word": "拍身份证照片可佩戴镜框",
-      "onboard_time": 1751797101,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 30417,
+      "num": 123082,
+      "word": "美国党运作或改变美国大选格局",
+      "onboard_time": 1751798482,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 28098,
