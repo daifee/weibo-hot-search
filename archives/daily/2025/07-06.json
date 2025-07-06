@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751779600364,
+  "endTime": 1751780621049,
   "band_list": [
     {
       "raw_hot": 2706470,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1125912,
-      "num": 301339,
+      "num": 309533,
       "word": "郑星源 梓渝",
       "onboard_time": 1751774662,
       "rank": 12,
@@ -72,6 +72,14 @@
       "word": "罗马仕深夜正式发布停工停产通知",
       "onboard_time": 1751765481,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1023740,
+      "num": 326128,
+      "word": "幼童躺街上被快递货车碾压身亡",
+      "onboard_time": 1751778982,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -97,6 +105,14 @@
       "onboard_time": 1751729964,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 762421,
+      "num": 310651,
+      "word": "朋友圈三天可见置顶像生死簿一样长",
+      "onboard_time": 1751778082,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 758465,
@@ -147,8 +163,8 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 568513,
-      "num": 568513,
+      "raw_hot": 599379,
+      "num": 599379,
       "word": "沈梦辰接住了杨紫的戏",
       "onboard_time": 1751777001,
       "rank": 16,
@@ -195,6 +211,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 472719,
+      "num": 472719,
+      "word": "父亲称为儿子买房骗其在白纸上签字",
+      "onboard_time": 1751776943,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 460487,
       "num": 460487,
       "word": "北京天空",
@@ -233,14 +257,6 @@
       "onboard_time": 1751761580,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 438558,
-      "num": 266896,
-      "word": "朋友圈三天可见置顶像生死簿一样长",
-      "onboard_time": 1751778082,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 418580,
@@ -331,28 +347,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 307652,
+      "num": 307652,
+      "word": "李昀锐公主抱关晓彤",
+      "onboard_time": 1751779341,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 305213,
       "num": 305213,
       "word": "山东考公人拒绝不了的电视剧来了",
       "onboard_time": 1751775623,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 304353,
-      "num": 304353,
-      "word": "父亲称为儿子买房骗其在白纸上签字",
-      "onboard_time": 1751776943,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 298293,
-      "num": 298293,
-      "word": "幼童躺街上被快递货车碾压身亡",
-      "onboard_time": 1751778982,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 283553,
@@ -369,6 +377,14 @@
       "onboard_time": 1751766142,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 272567,
+      "num": 312080,
+      "word": "阿坝车辆坠崖2死5失联家属急寻线索",
+      "onboard_time": 1751778022,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 271582,
@@ -401,14 +417,6 @@
       "onboard_time": 1751775200,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 257710,
-      "num": 257710,
-      "word": "阿坝车辆坠崖2死5失联家属急寻线索",
-      "onboard_time": 1751778022,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 256820,
@@ -523,12 +531,20 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 208300,
-      "num": 208300,
+      "raw_hot": 209251,
+      "num": 209251,
       "word": "罗马仕向消费者表示深刻歉意",
       "onboard_time": 1751779283,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206831,
+      "num": 206831,
+      "word": "hi6",
+      "onboard_time": 1751780242,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 204947,
@@ -635,6 +651,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 177471,
+      "num": 177471,
+      "word": "小伙追综艺熬2天2夜后抢救了10天",
+      "onboard_time": 1751777361,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176992,
       "num": 281635,
       "word": "塞纳河解除超百年禁令开放游泳",
@@ -667,19 +691,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 167924,
-      "num": 167924,
-      "word": "小伙追综艺熬2天2夜后抢救了10天",
-      "onboard_time": 1751777361,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 167669,
       "num": 167669,
       "word": "女子指甲下长肿瘤被误诊甲沟炎10年",
       "onboard_time": 1751757198,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166489,
+      "num": 166489,
+      "word": "中通回应幼童躺街上被快递车碾压身亡",
+      "onboard_time": 1751779641,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -747,12 +771,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 155753,
+      "num": 155753,
+      "word": "王一博长袖白T泡面小卷毛",
+      "onboard_time": 1751780121,
+      "rank": 27,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 154494,
       "num": 154494,
       "word": "友情脑被柯南m28硬控了",
       "onboard_time": 1751776525,
       "rank": 35,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 153987,
+      "num": 153987,
+      "word": "短剧演员在颜值赛道堪比内娱圈",
+      "onboard_time": 1751778682,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 150192,
@@ -803,7 +843,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 139183,
+      "raw_hot": 144065,
       "num": 264814,
       "word": "血铅异常幼儿园的老师也有症状",
       "onboard_time": 1751776882,
@@ -817,14 +857,6 @@
       "onboard_time": 1751772444,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 138153,
-      "num": 138153,
-      "word": "李昀锐公主抱关晓彤",
-      "onboard_time": 1751779341,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 137109,
@@ -899,6 +931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128158,
+      "num": 128158,
+      "word": "以法之名蝴蝶效应",
+      "onboard_time": 1751780062,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127383,
       "num": 127383,
       "word": "波点美甲",
@@ -923,6 +963,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 126956,
+      "num": 126956,
+      "word": "陈梦奥运备战高烧失声",
+      "onboard_time": 1751779942,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 126668,
+      "num": 126668,
+      "word": "孙颖莎说球迷加油让自己更有动力",
+      "onboard_time": 1751780421,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125796,
       "num": 125796,
       "word": "英媒称伊导弹击中以5处军事设施",
@@ -937,6 +993,14 @@
       "onboard_time": 1751779103,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 124136,
+      "num": 145537,
+      "word": "李荣浩教6500万岁学员唱情歌",
+      "onboard_time": 1751780362,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 123937,
@@ -1019,6 +1083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113855,
+      "num": 308821,
+      "word": "五星级酒店摆地摊37分钟售罄",
+      "onboard_time": 1751779883,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113769,
       "num": 113769,
       "word": "BLACKPINK新歌",
@@ -1067,6 +1139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 110408,
+      "num": 110408,
+      "word": "浙音专业第一自曝有身材焦虑",
+      "onboard_time": 1751780602,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110392,
       "num": 106983,
       "word": "日本西南群岛地震",
@@ -1105,14 +1185,6 @@
       "onboard_time": 1751769862,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 108702,
-      "num": 108702,
-      "word": "短剧演员在颜值赛道堪比内娱圈",
-      "onboard_time": 1751778682,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 108365,
@@ -1355,6 +1427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 79656,
+      "num": 148613,
+      "word": "游客包车游川西坠崖落水2死5失联",
+      "onboard_time": 1751780482,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77551,
       "num": 87341,
       "word": "真有综艺听劝了",
@@ -1465,6 +1545,14 @@
       "onboard_time": 1751758819,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 58045,
+      "num": 126797,
+      "word": "chiikawa头像",
+      "onboard_time": 1751780303,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 56147,

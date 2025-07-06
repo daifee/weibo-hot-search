@@ -1,0 +1,410 @@
+{
+  "runTime": 1751780621049,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 630259,
+        "num": 1100841,
+        "word": "中缅泰将全面清剿电诈园区",
+        "onboard_time": 1751773162,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 599379,
+        "num": 599379,
+        "word": "沈梦辰接住了杨紫的戏",
+        "onboard_time": 1751777001,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33633,
+        "num": 522259,
+        "word": "世界市长对话上合峰会城市",
+        "onboard_time": 1751775922,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 472719,
+        "num": 472719,
+        "word": "父亲称为儿子买房骗其在白纸上签字",
+        "onboard_time": 1751776943,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 405853,
+        "num": 405853,
+        "word": "内娱最决绝的解约声明",
+        "onboard_time": 1751769441,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329036,
+        "num": 329036,
+        "word": "马斯克发文成立美国党",
+        "onboard_time": 1751757859,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1023740,
+        "num": 326128,
+        "word": "幼童躺街上被快递货车碾压身亡",
+        "onboard_time": 1751778982,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317188,
+        "num": 317188,
+        "word": "00后女生带06年店员创业月挣10万",
+        "onboard_time": 1751771062,
+        "rank": 7,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 312157,
+        "num": 312157,
+        "word": "今年三伏只有30天",
+        "onboard_time": 1751773642,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272567,
+        "num": 312080,
+        "word": "阿坝车辆坠崖2死5失联家属急寻线索",
+        "onboard_time": 1751778022,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1652912,
+        "num": 311186,
+        "word": "田栩宁 孩子",
+        "onboard_time": 1751767582,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 762421,
+        "num": 310651,
+        "word": "朋友圈三天可见置顶像生死簿一样长",
+        "onboard_time": 1751778082,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 745303,
+        "num": 309610,
+        "word": "男子长期性侵未成年养女被判死刑",
+        "onboard_time": 1751761580,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 590265,
+        "num": 309533,
+        "word": "郑星源 梓渝",
+        "onboard_time": 1751774662,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113855,
+        "num": 308821,
+        "word": "五星级酒店摆地摊37分钟售罄",
+        "onboard_time": 1751779883,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 413753,
+        "num": 308241,
+        "word": "田栩宁微指连续四天破亿",
+        "onboard_time": 1751771722,
+        "rank": 15,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 307652,
+        "num": 307652,
+        "word": "李昀锐公主抱关晓彤",
+        "onboard_time": 1751779341,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278662,
+        "num": 278662,
+        "word": "G社拍的刘诗诗",
+        "onboard_time": 1751772323,
+        "rank": 17,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 240169,
+        "num": 240169,
+        "word": "张凯丽女儿和素人选手分词起争执",
+        "onboard_time": 1751775200,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209251,
+        "num": 209251,
+        "word": "罗马仕向消费者表示深刻歉意",
+        "onboard_time": 1751779283,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206831,
+        "num": 206831,
+        "word": "hi6",
+        "onboard_time": 1751780242,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199610,
+        "num": 199610,
+        "word": "28岁女生辞职改行被全家托举",
+        "onboard_time": 1751772984,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198619,
+        "num": 198619,
+        "word": "梓渝新歌",
+        "onboard_time": 1751762481,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 196624,
+        "num": 196624,
+        "word": "罗马仕深夜正式发布停工停产通知",
+        "onboard_time": 1751765481,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177471,
+        "num": 177471,
+        "word": "小伙追综艺熬2天2夜后抢救了10天",
+        "onboard_time": 1751777361,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166489,
+        "num": 166489,
+        "word": "中通回应幼童躺街上被快递车碾压身亡",
+        "onboard_time": 1751779641,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164377,
+        "num": 164377,
+        "word": "2男子射杀邻居2猫被行拘",
+        "onboard_time": 1751776283,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155753,
+        "num": 155753,
+        "word": "王一博长袖白T泡面小卷毛",
+        "onboard_time": 1751780121,
+        "rank": 27,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 153987,
+        "num": 153987,
+        "word": "短剧演员在颜值赛道堪比内娱圈",
+        "onboard_time": 1751778682,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79656,
+        "num": 148613,
+        "word": "游客包车游川西坠崖落水2死5失联",
+        "onboard_time": 1751780482,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147139,
+        "num": 147139,
+        "word": "XUN 大动脉",
+        "onboard_time": 1751775382,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124136,
+        "num": 145537,
+        "word": "李荣浩教6500万岁学员唱情歌",
+        "onboard_time": 1751780362,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144065,
+        "num": 144065,
+        "word": "血铅异常幼儿园的老师也有症状",
+        "onboard_time": 1751776882,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143670,
+        "num": 143670,
+        "word": "马斯克准备明年参选",
+        "onboard_time": 1751772323,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 139810,
+        "num": 139810,
+        "word": "女子意外怀孕生下孩子卖掉换钱",
+        "onboard_time": 1751761580,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129872,
+        "num": 129872,
+        "word": "罗马仕陷入34场官司均为被告",
+        "onboard_time": 1751766561,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128716,
+        "num": 128716,
+        "word": "罗马仕和安克召回充电宝超百万",
+        "onboard_time": 1751776882,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128158,
+        "num": 128158,
+        "word": "以法之名蝴蝶效应",
+        "onboard_time": 1751780062,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126956,
+        "num": 126956,
+        "word": "陈梦奥运备战高烧失声",
+        "onboard_time": 1751779942,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58045,
+        "num": 126797,
+        "word": "chiikawa头像",
+        "onboard_time": 1751780303,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 126668,
+        "num": 126668,
+        "word": "孙颖莎说球迷加油让自己更有动力",
+        "onboard_time": 1751780421,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124324,
+        "num": 124324,
+        "word": "山东考公人拒绝不了的电视剧来了",
+        "onboard_time": 1751775623,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119051,
+        "num": 119051,
+        "word": "赵晓卉把你嘴借我用用",
+        "onboard_time": 1751779341,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118440,
+        "num": 118440,
+        "word": "建议不要临睡前才刷牙",
+        "onboard_time": 1751744114,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 114826,
+        "num": 114826,
+        "word": "光与夜之恋美叽和大鼠联动",
+        "onboard_time": 1751779103,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111964,
+        "num": 111964,
+        "word": "恋与深空去中化",
+        "onboard_time": 1751766142,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111315,
+        "num": 111315,
+        "word": "张雅钦奶奶辈审美天菜",
+        "onboard_time": 1751775142,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101438,
+        "num": 110760,
+        "word": "十三太保都是京东的宝",
+        "onboard_time": 1751774722,
+        "rank": 47,
+        "category": "体育,互联网"
+      },
+      {
+        "raw_hot": 110408,
+        "num": 110408,
+        "word": "浙音专业第一自曝有身材焦虑",
+        "onboard_time": 1751780602,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105637,
+        "num": 105637,
+        "word": "T1战胜BLG",
+        "onboard_time": 1751769082,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#厦门发展战略启示#"
+    }
+  }
+}
