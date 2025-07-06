@@ -1,6 +1,6 @@
 {
   "startTime": 1751819447185,
-  "endTime": 1751837967259,
+  "endTime": 1751840769154,
   "band_list": [
     {
       "raw_hot": 3495922,
@@ -275,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121610,
+      "num": 121610,
+      "word": "女子称丽江一店冰淇淋9.9元变48元",
+      "onboard_time": 1751819840,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121193,
       "num": 121193,
       "word": "脊柱最喜欢的4个动作",
@@ -371,14 +379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 91286,
-      "num": 91286,
-      "word": "女子称丽江一店冰淇淋9.9元变48元",
-      "onboard_time": 1751819840,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 90411,
       "num": 90411,
       "word": "Bin赛后致歉",
@@ -459,6 +459,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 50937,
+      "num": 70220,
+      "word": "4岁宝宝手术台上把自己麻晕",
+      "onboard_time": 1751808745,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47159,
+      "num": 79812,
+      "word": "杨紫脖子上的青筋都哭出来了",
+      "onboard_time": 1751830514,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 45546,
       "num": 131954,
       "word": "天水幼儿园铅中毒背后的隐形毒源",
@@ -483,12 +499,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 36779,
-      "num": 70220,
-      "word": "4岁宝宝手术台上把自己麻晕",
-      "onboard_time": 1751808745,
+      "raw_hot": 35935,
+      "num": 51742,
+      "word": "何九华哭着说不该发脾气",
+      "onboard_time": 1751836574,
       "rank": 48,
-      "category": "民生新闻"
+      "category": "演出"
     },
     {
       "raw_hot": 33967,
@@ -496,6 +512,14 @@
       "word": "广铁事件中的恶劣一面",
       "onboard_time": 1751824037,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33481,
+      "num": 34818,
+      "word": "来自一个不扫兴的爸爸的爱",
+      "onboard_time": 1751837655,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -547,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 27705,
+      "num": 31740,
+      "word": "山东舰编队访港",
+      "onboard_time": 1751827995,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 27297,
       "num": 34692,
       "word": "刘雨昕面对唱歌被质疑的心态",
@@ -555,19 +587,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 26831,
-      "num": 26831,
-      "word": "山东舰编队访港",
-      "onboard_time": 1751827995,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 25711,
-      "num": 36424,
-      "word": "杨紫脖子上的青筋都哭出来了",
-      "onboard_time": 1751830514,
-      "rank": 49,
+      "raw_hot": 26898,
+      "num": 31732,
+      "word": "以法之名28集",
+      "onboard_time": 1751839395,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -577,6 +601,14 @@
       "onboard_time": 1751826915,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 24216,
+      "num": 54515,
+      "word": "王楚钦说巴黎奥运会是孙颖莎带着自己打",
+      "onboard_time": 1751833334,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 22911,
@@ -600,22 +632,6 @@
       "word": "机器人cha了登陆少年新舞台",
       "onboard_time": 1751829674,
       "rank": 45,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 19645,
-      "num": 54515,
-      "word": "王楚钦说巴黎奥运会是孙颖莎带着自己打",
-      "onboard_time": 1751833334,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 19075,
-      "num": 22804,
-      "word": "何九华哭着说不该发脾气",
-      "onboard_time": 1751836574,
-      "rank": 48,
       "category": "演出"
     },
     {
@@ -665,14 +681,6 @@
       "onboard_time": 1751834533,
       "rank": 20,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 10303,
-      "num": 34818,
-      "word": "来自一个不扫兴的爸爸的爱",
-      "onboard_time": 1751837655,
-      "rank": 21,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
