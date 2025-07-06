@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751777581395,
+  "endTime": 1751779600364,
   "band_list": [
     {
       "raw_hot": 2706470,
@@ -16,6 +16,14 @@
       "word": "田栩宁 孩子",
       "onboard_time": 1751767582,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1921486,
+      "num": 258407,
+      "word": "鹿晗 关晓彤",
+      "onboard_time": 1751778682,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -139,6 +147,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 568513,
+      "num": 568513,
+      "word": "沈梦辰接住了杨紫的戏",
+      "onboard_time": 1751777001,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 558333,
       "num": 558333,
       "word": "小伙脖子肿痛开刀取出7颗瓜子",
@@ -195,6 +211,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 452278,
+      "num": 452278,
+      "word": "今年三伏只有30天",
+      "onboard_time": 1751773642,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 447242,
       "num": 447242,
       "word": "五星级酒店摆地摊日入3万",
@@ -209,6 +233,14 @@
       "onboard_time": 1751761580,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 438558,
+      "num": 266896,
+      "word": "朋友圈三天可见置顶像生死簿一样长",
+      "onboard_time": 1751778082,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 418580,
@@ -233,14 +265,6 @@
       "onboard_time": 1751725042,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 380628,
-      "num": 380628,
-      "word": "今年三伏只有30天",
-      "onboard_time": 1751773642,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 369157,
@@ -315,6 +339,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 304353,
+      "num": 304353,
+      "word": "父亲称为儿子买房骗其在白纸上签字",
+      "onboard_time": 1751776943,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 298293,
+      "num": 298293,
+      "word": "幼童躺街上被快递货车碾压身亡",
+      "onboard_time": 1751778982,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 283553,
       "num": 283553,
       "word": "T1战胜BLG",
@@ -355,20 +395,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 262334,
+      "num": 262334,
+      "word": "张凯丽女儿和素人选手分词起争执",
+      "onboard_time": 1751775200,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 257710,
+      "num": 257710,
+      "word": "阿坝车辆坠崖2死5失联家属急寻线索",
+      "onboard_time": 1751778022,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 256820,
       "num": 127266,
       "word": "田栩宁榜一是若若",
       "onboard_time": 1751757798,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 253795,
-      "num": 253795,
-      "word": "张凯丽女儿和素人选手分词起争执",
-      "onboard_time": 1751775200,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 250769,
@@ -393,14 +441,6 @@
       "onboard_time": 1751732482,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 247377,
-      "num": 275206,
-      "word": "沈梦辰接住了杨紫的戏",
-      "onboard_time": 1751777001,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 236008,
@@ -451,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222684,
+      "num": 289761,
+      "word": "2男子射杀邻居2猫被行拘",
+      "onboard_time": 1751776283,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 212878,
       "num": 269275,
       "word": "刘宇宁波演唱会复盘直播",
@@ -475,6 +523,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 208300,
+      "num": 208300,
+      "word": "罗马仕向消费者表示深刻歉意",
+      "onboard_time": 1751779283,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 204947,
       "num": 204947,
       "word": "沈梦辰锦绣芳华吻戏",
@@ -489,14 +545,6 @@
       "onboard_time": 1751767103,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 203044,
-      "num": 203044,
-      "word": "父亲称为儿子买房骗其在白纸上签字",
-      "onboard_time": 1751776943,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 202995,
@@ -521,6 +569,14 @@
       "onboard_time": 1751775981,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196250,
+      "num": 303179,
+      "word": "罗马仕和安克召回充电宝超百万",
+      "onboard_time": 1751776882,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 196036,
@@ -611,6 +667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167924,
+      "num": 167924,
+      "word": "小伙追综艺熬2天2夜后抢救了10天",
+      "onboard_time": 1751777361,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167669,
       "num": 167669,
       "word": "女子指甲下长肿瘤被误诊甲沟炎10年",
@@ -699,6 +763,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 148804,
+      "num": 148804,
+      "word": "XUN 大动脉",
+      "onboard_time": 1751775382,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 146808,
       "num": 146808,
       "word": "以法之名",
@@ -731,6 +803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139183,
+      "num": 264814,
+      "word": "血铅异常幼儿园的老师也有症状",
+      "onboard_time": 1751776882,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138310,
       "num": 138310,
       "word": "国际接吻日",
@@ -739,20 +819,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138153,
+      "num": 138153,
+      "word": "李昀锐公主抱关晓彤",
+      "onboard_time": 1751779341,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137109,
       "num": 137109,
       "word": "日本预言家自曝只画了插画",
       "onboard_time": 1751722646,
       "rank": 22,
       "category": "海外新闻,动漫"
-    },
-    {
-      "raw_hot": 136500,
-      "num": 136500,
-      "word": "XUN 大动脉",
-      "onboard_time": 1751775382,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 136303,
@@ -827,6 +907,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 127228,
+      "num": 293291,
+      "word": "十三太保都是京东的宝",
+      "onboard_time": 1751774722,
+      "rank": 31,
+      "category": "体育,互联网"
+    },
+    {
       "raw_hot": 127193,
       "num": 80573,
       "word": "叠纸",
@@ -841,6 +929,22 @@
       "onboard_time": 1751764281,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 125785,
+      "num": 125785,
+      "word": "光与夜之恋美叽和大鼠联动",
+      "onboard_time": 1751779103,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 123937,
+      "num": 150780,
+      "word": "终于有剧拍出了反正结果都那样",
+      "onboard_time": 1751778323,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 122640,
@@ -859,20 +963,20 @@
       "category": "军事"
     },
     {
-      "raw_hot": 122338,
-      "num": 122338,
-      "word": "小伙追综艺熬2天2夜后抢救了10天",
-      "onboard_time": 1751777361,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 121160,
+      "num": 149762,
+      "word": "二重赋格定档",
+      "onboard_time": 1751779043,
+      "rank": 29,
+      "category": "剧集"
     },
     {
-      "raw_hot": 121634,
-      "num": 264814,
-      "word": "血铅异常幼儿园的老师也有症状",
-      "onboard_time": 1751776882,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 120796,
+      "num": 120796,
+      "word": "赵晓卉把你嘴借我用用",
+      "onboard_time": 1751779341,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 120086,
@@ -939,12 +1043,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 112879,
-      "num": 293291,
-      "word": "十三太保都是京东的宝",
-      "onboard_time": 1751774722,
-      "rank": 31,
-      "category": "体育,互联网"
+      "raw_hot": 112920,
+      "num": 112920,
+      "word": "小狗回到家自己放水洗脚",
+      "onboard_time": 1751778922,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 112850,
@@ -1001,6 +1105,14 @@
       "onboard_time": 1751769862,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108702,
+      "num": 108702,
+      "word": "短剧演员在颜值赛道堪比内娱圈",
+      "onboard_time": 1751778682,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 108365,
@@ -1131,12 +1243,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 93265,
-      "num": 289761,
-      "word": "2男子射杀邻居2猫被行拘",
-      "onboard_time": 1751776283,
-      "rank": 13,
-      "category": "民生新闻"
+      "raw_hot": 94250,
+      "num": 124755,
+      "word": "孙颖莎张向晶合影",
+      "onboard_time": 1751778622,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 93023,
@@ -1225,14 +1337,6 @@
       "onboard_time": 1751721985,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 81331,
-      "num": 303179,
-      "word": "罗马仕和安克召回充电宝超百万",
-      "onboard_time": 1751776882,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 80597,
@@ -1435,6 +1539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33772,
+      "num": 584254,
+      "word": "世界市长对话上合峰会城市",
+      "onboard_time": 1751775922,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32674,
       "num": 100085,
       "word": "下周可以看到王楚钦孙颖莎等单打了",
@@ -1457,14 +1569,6 @@
       "onboard_time": 1751730805,
       "rank": 40,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 27805,
-      "num": 584254,
-      "word": "世界市长对话上合峰会城市",
-      "onboard_time": 1751775922,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26670,
