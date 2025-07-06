@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/07/06 18:44:15
+本榜单时间：2025/01/01 00:26:38 ~ 2025/07/06 19:22:04
 </p>
 </blockquote>
 <p>
@@ -927,6 +927,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E7%AD%96%E5%8F%91%E5%A3%B0%E6%98%8E%23" target="weibo">
+华策发声明（热度：7611710）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E5%85%B3%E5%81%9C%E5%BC%A0%E5%85%B0%E8%B4%A6%E5%8F%B7%E7%9B%B4%E6%92%AD%E5%8A%9F%E8%83%BD%23" target="weibo">
 微博关停张兰账号直播功能（热度：7562676）
 </a>
@@ -1805,12 +1811,6 @@ GAI第一（热度：4228592）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%B8%81%E7%A6%B9%E5%85%AE%E6%89%8B%E6%8C%BD%E6%89%8B%23" target="weibo">
 虞书欣丁禹兮手挽手（热度：3594619）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%89%94%E9%9E%AD%E7%82%AE%E8%BF%9B%E5%8C%96%E7%B2%AA%E6%B1%A0%E7%9A%84%E7%94%B7%E5%AD%A9%E5%B7%B2%E8%A2%AB%E8%AD%A6%E6%96%B9%E5%B8%A6%E8%B5%B0%23" target="weibo">
-扔鞭炮进化粪池的男孩已被警方带走（热度：3591172）
 </a>
 </li>
 

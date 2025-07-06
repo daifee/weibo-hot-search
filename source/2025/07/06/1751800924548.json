@@ -1,0 +1,410 @@
+{
+  "runTime": 1751800924548,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7611710,
+        "num": 7611710,
+        "word": "华策发声明",
+        "onboard_time": 1751799325,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 616694,
+        "num": 616694,
+        "word": "日本教材污蔑卢沟桥事变中方先开枪",
+        "onboard_time": 1751788703,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 31561,
+        "num": 529086,
+        "word": "上合之城",
+        "onboard_time": 1751800046,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 700420,
+        "num": 527121,
+        "word": "捡到金世佳身份证当事人发声",
+        "onboard_time": 1751797221,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 692914,
+        "num": 523205,
+        "word": "淮上 我就喜欢吃这种的",
+        "onboard_time": 1751799749,
+        "rank": 4,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 495601,
+        "num": 495601,
+        "word": "恋与深空严正声明",
+        "onboard_time": 1751799987,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 414694,
+        "num": 414694,
+        "word": "拍身份证照片可佩戴镜框",
+        "onboard_time": 1751797101,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 366040,
+        "num": 366040,
+        "word": "1.4万买的房子发现价值43万游戏卡牌",
+        "onboard_time": 1751789601,
+        "rank": 7,
+        "category": "海外新闻,游戏"
+      },
+      {
+        "raw_hot": 266690,
+        "num": 266690,
+        "word": "老人扎堆华莱士蹭空调无视喇叭驱赶",
+        "onboard_time": 1751795901,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229097,
+        "num": 229097,
+        "word": "手机可以查档案了",
+        "onboard_time": 1751799081,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1309042,
+        "num": 228995,
+        "word": "青岛大学宿管",
+        "onboard_time": 1751784562,
+        "rank": 10,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 1093474,
+        "num": 227912,
+        "word": "金世佳你身份证掉了",
+        "onboard_time": 1751789540,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407444,
+        "num": 227610,
+        "word": "田栩宁 孩子",
+        "onboard_time": 1751767582,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285623,
+        "num": 227089,
+        "word": "日本月薪水平",
+        "onboard_time": 1751798002,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 277018,
+        "num": 226108,
+        "word": "吴莫愁换了万年不变铁刘海",
+        "onboard_time": 1751795062,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263731,
+        "num": 225524,
+        "word": "身份证照片 戴眼镜",
+        "onboard_time": 1751790262,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246025,
+        "num": 224894,
+        "word": "权恩妃水弹",
+        "onboard_time": 1751794761,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 224771,
+        "num": 224771,
+        "word": "费大厨 本科以下勿扰",
+        "onboard_time": 1751785522,
+        "rank": 17,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 178243,
+        "num": 223459,
+        "word": "贺峻霖又给谢娜发信息嘚瑟",
+        "onboard_time": 1751798364,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175345,
+        "num": 220948,
+        "word": "毛不易火速拦截了粉丝的建议",
+        "onboard_time": 1751800046,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 299110,
+        "num": 217098,
+        "word": "当你的子宫都开始对你催生",
+        "onboard_time": 1751781201,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281349,
+        "num": 213372,
+        "word": "43岁女子姐弟恋怀孕后婆婆不认可",
+        "onboard_time": 1751787982,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212727,
+        "num": 212727,
+        "word": "王楚钦回应莎头组合能否复制",
+        "onboard_time": 1751784262,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50933,
+        "num": 207535,
+        "word": "对自欧盟进口的医疗器械采取相关措施",
+        "onboard_time": 1751789002,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153143,
+        "num": 203758,
+        "word": "书卷一梦反转反转再反转",
+        "onboard_time": 1751799806,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146755,
+        "num": 196080,
+        "word": "于正说临江仙戏爆OST爆",
+        "onboard_time": 1751799263,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138029,
+        "num": 192370,
+        "word": "锦绣芳华",
+        "onboard_time": 1751800405,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120992,
+        "num": 186946,
+        "word": "以法之名",
+        "onboard_time": 1751799503,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78645,
+        "num": 179066,
+        "word": "苏超第6轮淮安vs常州",
+        "onboard_time": 1751800705,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119577,
+        "num": 168515,
+        "word": "吃蝎子吃掉了上海一套房",
+        "onboard_time": 1751790382,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167936,
+        "num": 167936,
+        "word": "山东连发71个高温预警",
+        "onboard_time": 1751795901,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193415,
+        "num": 165360,
+        "word": "孙颖莎王曼昱WTT欧洲大满贯",
+        "onboard_time": 1751800824,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161511,
+        "num": 161511,
+        "word": "王楚钦回应被孙颖莎带着打",
+        "onboard_time": 1751797460,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160471,
+        "num": 160471,
+        "word": "全球博士生过剩",
+        "onboard_time": 1751797943,
+        "rank": 33,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 155070,
+        "num": 155070,
+        "word": "苏超南京队球员杨笑天被处罚",
+        "onboard_time": 1751800405,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154387,
+        "num": 154387,
+        "word": "宿管爷爷真的好溺爱猫",
+        "onboard_time": 1751799081,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141605,
+        "num": 141605,
+        "word": "小蝶 宠爱",
+        "onboard_time": 1751793022,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133390,
+        "num": 133390,
+        "word": "赚大钱一定要在高价行业里混",
+        "onboard_time": 1751800166,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131445,
+        "num": 131445,
+        "word": "WTT欧洲大满贯首批参赛名单公布",
+        "onboard_time": 1751797882,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127142,
+        "num": 127142,
+        "word": "荔枝馒头能有多逼真",
+        "onboard_time": 1751799144,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 120084,
+        "num": 120084,
+        "word": "中方对欧盟采取对等限制措施",
+        "onboard_time": 1751789540,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 118587,
+        "num": 118587,
+        "word": "霍启刚郭晶晶参观山东舰",
+        "onboard_time": 1751792001,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 116617,
+        "num": 116617,
+        "word": "青岛7年内最高温",
+        "onboard_time": 1751793863,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111556,
+        "num": 111556,
+        "word": "火鸡面太恶毒了",
+        "onboard_time": 1751798783,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 105817,
+        "num": 105817,
+        "word": "给韩红一个爱豆她还你一个兵",
+        "onboard_time": 1751797882,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101233,
+        "num": 101233,
+        "word": "yushi好帅",
+        "onboard_time": 1751800705,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97912,
+        "num": 97912,
+        "word": "程潇陈梦摆拍二人组",
+        "onboard_time": 1751797703,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92196,
+        "num": 92196,
+        "word": "史上最强短剧阵容来了",
+        "onboard_time": 1751798423,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91033,
+        "num": 91033,
+        "word": "易烊千玺广州演唱会大麦违约",
+        "onboard_time": 1751789480,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 89064,
+        "num": 89064,
+        "word": "朋友圈三天可见置顶像生死簿一样长",
+        "onboard_time": 1751778082,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#厦门发展战略启示#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1751798655494,
+  "endTime": 1751800924548,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1219,6 +1219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 7611710,
+      "num": 7611710,
+      "word": "华策发声明",
+      "onboard_time": 1751799325,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 7562676,
       "num": 7562676,
       "word": "微博关停张兰账号直播功能",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1735978403,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 3591172,
-      "num": 2431764,
-      "word": "扔鞭炮进化粪池的男孩已被警方带走",
-      "onboard_time": 1738289537,
-      "rank": 0,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
