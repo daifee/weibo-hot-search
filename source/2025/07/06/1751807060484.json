@@ -1,0 +1,410 @@
+{
+  "runTime": 1751807060484,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4593327,
+        "num": 4593327,
+        "word": "华策发声明",
+        "onboard_time": 1751799325,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 930786,
+        "num": 930786,
+        "word": "男童躺街上被碾压身亡司机发声",
+        "onboard_time": 1751805205,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36452,
+        "num": 603066,
+        "word": "上合之城",
+        "onboard_time": 1751800046,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1087542,
+        "num": 584850,
+        "word": "Angelababy出席巴黎时装周",
+        "onboard_time": 1751803764,
+        "rank": 3,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 461056,
+        "num": 461056,
+        "word": "青岛大学称今年全校宿舍将装空调",
+        "onboard_time": 1751805623,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3089856,
+        "num": 450472,
+        "word": "青岛大学回应一宿管人员离世",
+        "onboard_time": 1751802503,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 423784,
+        "num": 423784,
+        "word": "淮上 我就喜欢吃这种的",
+        "onboard_time": 1751799749,
+        "rank": 6,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 419060,
+        "num": 419060,
+        "word": "鹿晗演唱会",
+        "onboard_time": 1751806766,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 214561,
+        "num": 367025,
+        "word": "日本教材污蔑卢沟桥事变中方先开枪",
+        "onboard_time": 1751788703,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 362859,
+        "num": 362859,
+        "word": "常州vs淮安",
+        "onboard_time": 1751800705,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 960282,
+        "num": 348855,
+        "word": "贪污自杀",
+        "onboard_time": 1751805684,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 641062,
+        "num": 342451,
+        "word": "捡到金世佳身份证当事人发声",
+        "onboard_time": 1751797221,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330659,
+        "num": 330659,
+        "word": "无畏 菜",
+        "onboard_time": 1751805684,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 305069,
+        "num": 305069,
+        "word": "恋与深空严正声明",
+        "onboard_time": 1751799987,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 292793,
+        "num": 292793,
+        "word": "柳智敏澄清ins争议",
+        "onboard_time": 1751801306,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272243,
+        "num": 272243,
+        "word": "身份证照片 戴眼镜",
+        "onboard_time": 1751790262,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270790,
+        "num": 270790,
+        "word": "黄子弘凡扶电梯摔倒女生",
+        "onboard_time": 1751805984,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265424,
+        "num": 265424,
+        "word": "1.4万买的房子发现价值43万游戏卡牌",
+        "onboard_time": 1751789601,
+        "rank": 17,
+        "category": "海外新闻,游戏"
+      },
+      {
+        "raw_hot": 255474,
+        "num": 255474,
+        "word": "王俊凯直播",
+        "onboard_time": 1751807006,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55958,
+        "num": 250190,
+        "word": "好多明星晒三星神秘邀请函",
+        "onboard_time": 1751803764,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291127,
+        "num": 249431,
+        "word": "当你的子宫都开始对你催生",
+        "onboard_time": 1751781201,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248476,
+        "num": 248476,
+        "word": "43岁女子姐弟恋怀孕后婆婆不认可",
+        "onboard_time": 1751787982,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220037,
+        "num": 220037,
+        "word": "刘诗诗高领的神",
+        "onboard_time": 1751803764,
+        "rank": 22,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 202378,
+        "num": 202378,
+        "word": "何惟芳刺伤蒋长扬",
+        "onboard_time": 1751803643,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242230,
+        "num": 200495,
+        "word": "Celine大秀",
+        "onboard_time": 1751806405,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 198124,
+        "num": 198124,
+        "word": "马斯克谈对特朗普由爱转恨原因",
+        "onboard_time": 1751803405,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 197103,
+        "num": 197103,
+        "word": "AG对战KSG",
+        "onboard_time": 1751806887,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 194155,
+        "num": 194155,
+        "word": "南京是真的急了",
+        "onboard_time": 1751805325,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183140,
+        "num": 183140,
+        "word": "日军官因找借口挑起卢沟桥事变升职",
+        "onboard_time": 1751805205,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 182912,
+        "num": 182912,
+        "word": "南珩一步将相一步悲凉",
+        "onboard_time": 1751806044,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178435,
+        "num": 178435,
+        "word": "陈梦妈妈嗑上女儿的糖了",
+        "onboard_time": 1751806946,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175936,
+        "num": 175936,
+        "word": "汪顺成世界泳联运委会候选人",
+        "onboard_time": 1751806946,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166647,
+        "num": 166647,
+        "word": "书卷一梦女主人设",
+        "onboard_time": 1751802986,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162369,
+        "num": 162369,
+        "word": "花少7登上马达加斯加电视台",
+        "onboard_time": 1751800946,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156497,
+        "num": 156497,
+        "word": "苏超南京队球员杨笑天被处罚",
+        "onboard_time": 1751800405,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130256,
+        "num": 156366,
+        "word": "马斯克面临特朗普报复风险",
+        "onboard_time": 1751805684,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 156300,
+        "num": 156300,
+        "word": "日本月薪水平",
+        "onboard_time": 1751798002,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 145823,
+        "num": 145823,
+        "word": "火鸡面太恶毒了",
+        "onboard_time": 1751798783,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 143149,
+        "num": 143149,
+        "word": "香港民众在中国战机下避雨",
+        "onboard_time": 1751805084,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 140720,
+        "num": 140720,
+        "word": "30岁人生建议不要预设困难",
+        "onboard_time": 1751802926,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130597,
+        "num": 130597,
+        "word": "以法之名",
+        "onboard_time": 1751799503,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127644,
+        "num": 127644,
+        "word": "巴黎偶遇张曼玉",
+        "onboard_time": 1751805325,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126534,
+        "num": 126534,
+        "word": "手机可以查档案了",
+        "onboard_time": 1751799081,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 115873,
+        "num": 115873,
+        "word": "仙逆动画",
+        "onboard_time": 1751802384,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 113569,
+        "num": 113569,
+        "word": "杨紫恨意爆发的演技大赏",
+        "onboard_time": 1751806464,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111059,
+        "num": 111059,
+        "word": "权恩妃水弹",
+        "onboard_time": 1751794761,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110319,
+        "num": 110319,
+        "word": "医生称晚安牛奶每天喝24000瓶才有效",
+        "onboard_time": 1751807006,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104882,
+        "num": 104882,
+        "word": "为什么总是这么没有志气",
+        "onboard_time": 1751806586,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104694,
+        "num": 104694,
+        "word": "费大厨 本科以下勿扰",
+        "onboard_time": 1751785522,
+        "rank": 48,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 104082,
+        "num": 104082,
+        "word": "以法之名抓到的第一条大鱼",
+        "onboard_time": 1751804784,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#厦门发展战略启示#"
+    }
+  }
+}
