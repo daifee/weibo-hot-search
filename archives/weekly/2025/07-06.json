@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751800924548,
+  "endTime": 1751801887520,
   "band_list": [
     {
       "raw_hot": 7611710,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 4282599,
-      "num": 275402,
+      "num": 320471,
       "word": "青岛大学宿管",
       "onboard_time": 1751784562,
       "rank": 10,
@@ -179,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 771974,
+      "num": 771974,
+      "word": "恋与深空严正声明",
+      "onboard_time": 1751799987,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 770185,
       "num": 1115752,
       "word": "hi6",
@@ -219,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 709991,
+      "num": 709991,
+      "word": "淮上 我就喜欢吃这种的",
+      "onboard_time": 1751799749,
+      "rank": 4,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 702326,
       "num": 241818,
       "word": "曾志伟和女星合影姿势引争议",
@@ -241,14 +257,6 @@
       "onboard_time": 1751771062,
       "rank": 1,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 692914,
-      "num": 523205,
-      "word": "淮上 我就喜欢吃这种的",
-      "onboard_time": 1751799749,
-      "rank": 4,
-      "category": "读书作家"
     },
     {
       "raw_hot": 690754,
@@ -323,14 +331,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 495601,
-      "num": 495601,
-      "word": "恋与深空严正声明",
-      "onboard_time": 1751799987,
-      "rank": 5,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 490370,
       "num": 243321,
       "word": "43岁女子姐弟恋怀孕后婆婆不认可",
@@ -401,6 +401,14 @@
       "onboard_time": 1751761580,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 422857,
+      "num": 422857,
+      "word": "柳智敏澄清ins争议",
+      "onboard_time": 1751801306,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 418580,
@@ -531,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 320395,
+      "num": 320395,
+      "word": "日本月薪水平",
+      "onboard_time": 1751798002,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 320309,
       "num": 320309,
       "word": "李昀锐公主抱关晓彤",
@@ -577,14 +593,6 @@
       "onboard_time": 1751775623,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 285623,
-      "num": 227089,
-      "word": "日本月薪水平",
-      "onboard_time": 1751798002,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 283553,
@@ -675,6 +683,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 253762,
+      "num": 253762,
+      "word": "手机可以查档案了",
+      "onboard_time": 1751799081,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 250769,
       "num": 250769,
       "word": "LikeJENNIE爽疯了",
@@ -755,14 +771,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 229097,
-      "num": 229097,
-      "word": "手机可以查档案了",
-      "onboard_time": 1751799081,
-      "rank": 9,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 228481,
       "num": 228481,
       "word": "李嘉格坚持10年替父母规划过冬地点",
@@ -777,6 +785,14 @@
       "onboard_time": 1751790683,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 225558,
+      "num": 225558,
+      "word": "苏超南京队球员杨笑天被处罚",
+      "onboard_time": 1751800405,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 224677,
@@ -843,6 +859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206618,
+      "num": 206618,
+      "word": "花少7登上马达加斯加电视台",
+      "onboard_time": 1751800946,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206006,
       "num": 206006,
       "word": "田栩宁或将空降录制hi6",
@@ -857,6 +881,14 @@
       "onboard_time": 1751797882,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205600,
+      "num": 205600,
+      "word": "孙颖莎王曼昱WTT欧洲大满贯",
+      "onboard_time": 1751800824,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 204947,
@@ -955,14 +987,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 193415,
-      "num": 165360,
-      "word": "孙颖莎王曼昱WTT欧洲大满贯",
-      "onboard_time": 1751800824,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 192484,
       "num": 192484,
       "word": "董力儿子7岁近照",
@@ -1003,6 +1027,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 184847,
+      "num": 223459,
+      "word": "贺峻霖又给谢娜发信息嘚瑟",
+      "onboard_time": 1751798364,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182405,
       "num": 182405,
       "word": "张鑫晒白鹿送的麦克风",
@@ -1025,14 +1057,6 @@
       "onboard_time": 1751698942,
       "rank": 16,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 178243,
-      "num": 223459,
-      "word": "贺峻霖又给谢娜发信息嘚瑟",
-      "onboard_time": 1751798364,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 177471,
@@ -1155,6 +1179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161158,
+      "num": 161158,
+      "word": "谭晶林俊杰是不是在给我剧透",
+      "onboard_time": 1751801306,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 160471,
       "num": 207580,
       "word": "全球博士生过剩",
@@ -1225,14 +1257,6 @@
       "onboard_time": 1751780121,
       "rank": 27,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 155070,
-      "num": 155070,
-      "word": "苏超南京队球员杨笑天被处罚",
-      "onboard_time": 1751800405,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 154494,
@@ -1307,6 +1331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147191,
+      "num": 147191,
+      "word": "常州vs淮安",
+      "onboard_time": 1751800705,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146808,
       "num": 186946,
       "word": "以法之名",
@@ -1339,12 +1371,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 145414,
+      "num": 145414,
+      "word": "火鸡面太恶毒了",
+      "onboard_time": 1751798783,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 144612,
       "num": 144612,
       "word": "河南一乡道因高温爆裂拱起",
       "onboard_time": 1751734221,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144289,
+      "num": 192370,
+      "word": "锦绣芳华",
+      "onboard_time": 1751800405,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 144123,
+      "num": 144123,
+      "word": "yushi好帅",
+      "onboard_time": 1751800705,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 144075,
@@ -1411,14 +1467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 138029,
-      "num": 192370,
-      "word": "锦绣芳华",
-      "onboard_time": 1751800405,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 137256,
       "num": 137256,
       "word": "新说唱南北cp",
@@ -1449,6 +1497,14 @@
       "onboard_time": 1751774542,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 135518,
+      "num": 135518,
+      "word": "李人骏被亲妹夫狠狠辜负",
+      "onboard_time": 1751801485,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 135350,
@@ -1843,14 +1899,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 111556,
-      "num": 111556,
-      "word": "火鸡面太恶毒了",
-      "onboard_time": 1751798783,
-      "rank": 43,
-      "category": "美食"
-    },
-    {
       "raw_hot": 111385,
       "num": 111385,
       "word": "你越是放松结果往往越好",
@@ -2147,14 +2195,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 101233,
-      "num": 101233,
-      "word": "yushi好帅",
-      "onboard_time": 1751800705,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 100972,
       "num": 100972,
       "word": "刘雨昕任嘉伦双人popping",
@@ -2169,6 +2209,14 @@
       "onboard_time": 1751791163,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 100702,
+      "num": 100702,
+      "word": "KPL",
+      "onboard_time": 1751801844,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 100538,
@@ -2451,6 +2499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79192,
+      "num": 233079,
+      "word": "罗马仕突然停工有员工还在外地出差",
+      "onboard_time": 1751801485,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78645,
       "num": 179066,
       "word": "苏超第6轮淮安vs常州",
@@ -2529,6 +2585,14 @@
       "onboard_time": 1751721023,
       "rank": 49,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 71961,
+      "num": 320488,
+      "word": "香港挥旗哥登上山东舰了",
+      "onboard_time": 1751801064,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 69321,
@@ -2715,6 +2779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41914,
+      "num": 721941,
+      "word": "上合之城",
+      "onboard_time": 1751800046,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 35662,
       "num": 128611,
       "word": "李诞说快乐不需要刻意寻找",
@@ -2753,14 +2825,6 @@
       "onboard_time": 1751730086,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 31561,
-      "num": 529086,
-      "word": "上合之城",
-      "onboard_time": 1751800046,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 30417,
@@ -2849,6 +2913,9 @@
     },
     {
       "word": "#厦门发展战略启示#"
+    },
+    {
+      "word": "#习近平总书记这番话掷地有声#"
     }
   ]
 }

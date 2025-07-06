@@ -1,0 +1,410 @@
+{
+  "runTime": 1751801887520,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6687249,
+        "num": 6687249,
+        "word": "华策发声明",
+        "onboard_time": 1751799325,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 771974,
+        "num": 771974,
+        "word": "恋与深空严正声明",
+        "onboard_time": 1751799987,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 41914,
+        "num": 721941,
+        "word": "上合之城",
+        "onboard_time": 1751800046,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 709991,
+        "num": 709991,
+        "word": "淮上 我就喜欢吃这种的",
+        "onboard_time": 1751799749,
+        "rank": 3,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 610945,
+        "num": 610945,
+        "word": "日本教材污蔑卢沟桥事变中方先开枪",
+        "onboard_time": 1751788703,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 544593,
+        "num": 544593,
+        "word": "捡到金世佳身份证当事人发声",
+        "onboard_time": 1751797221,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 422857,
+        "num": 422857,
+        "word": "柳智敏澄清ins争议",
+        "onboard_time": 1751801306,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334282,
+        "num": 334282,
+        "word": "拍身份证照片可佩戴镜框",
+        "onboard_time": 1751797101,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 324396,
+        "num": 324396,
+        "word": "1.4万买的房子发现价值43万游戏卡牌",
+        "onboard_time": 1751789601,
+        "rank": 8,
+        "category": "海外新闻,游戏"
+      },
+      {
+        "raw_hot": 71961,
+        "num": 320488,
+        "word": "香港挥旗哥登上山东舰了",
+        "onboard_time": 1751801064,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1313822,
+        "num": 320471,
+        "word": "青岛大学宿管",
+        "onboard_time": 1751784562,
+        "rank": 10,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 1017173,
+        "num": 320447,
+        "word": "金世佳你身份证掉了",
+        "onboard_time": 1751789540,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320395,
+        "num": 320395,
+        "word": "日本月薪水平",
+        "onboard_time": 1751798002,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 265087,
+        "num": 265087,
+        "word": "田栩宁 孩子",
+        "onboard_time": 1751767582,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253762,
+        "num": 253762,
+        "word": "手机可以查档案了",
+        "onboard_time": 1751799081,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 236305,
+        "num": 236305,
+        "word": "身份证照片 戴眼镜",
+        "onboard_time": 1751790262,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79192,
+        "num": 233079,
+        "word": "罗马仕突然停工有员工还在外地出差",
+        "onboard_time": 1751801485,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230400,
+        "num": 230400,
+        "word": "老人扎堆华莱士蹭空调无视喇叭驱赶",
+        "onboard_time": 1751795901,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225558,
+        "num": 225558,
+        "word": "苏超南京队球员杨笑天被处罚",
+        "onboard_time": 1751800405,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206618,
+        "num": 206618,
+        "word": "花少7登上马达加斯加电视台",
+        "onboard_time": 1751800946,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300444,
+        "num": 206458,
+        "word": "当你的子宫都开始对你催生",
+        "onboard_time": 1751781201,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219312,
+        "num": 206409,
+        "word": "权恩妃水弹",
+        "onboard_time": 1751794761,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 291665,
+        "num": 206199,
+        "word": "43岁女子姐弟恋怀孕后婆婆不认可",
+        "onboard_time": 1751787982,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205600,
+        "num": 205600,
+        "word": "孙颖莎王曼昱WTT欧洲大满贯",
+        "onboard_time": 1751800824,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203443,
+        "num": 203443,
+        "word": "费大厨 本科以下勿扰",
+        "onboard_time": 1751785522,
+        "rank": 24,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 192865,
+        "num": 192865,
+        "word": "王楚钦回应莎头组合能否复制",
+        "onboard_time": 1751784262,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189907,
+        "num": 189907,
+        "word": "吴莫愁换了万年不变铁刘海",
+        "onboard_time": 1751795062,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184847,
+        "num": 184847,
+        "word": "贺峻霖又给谢娜发信息嘚瑟",
+        "onboard_time": 1751798364,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161158,
+        "num": 161158,
+        "word": "谭晶林俊杰是不是在给我剧透",
+        "onboard_time": 1751801306,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144289,
+        "num": 154035,
+        "word": "锦绣芳华",
+        "onboard_time": 1751800405,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161311,
+        "num": 153001,
+        "word": "王楚钦回应被孙颖莎带着打",
+        "onboard_time": 1751797460,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151476,
+        "num": 151476,
+        "word": "宿管爷爷真的好溺爱猫",
+        "onboard_time": 1751799081,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150683,
+        "num": 150683,
+        "word": "全球博士生过剩",
+        "onboard_time": 1751797943,
+        "rank": 32,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 147191,
+        "num": 147191,
+        "word": "常州vs淮安",
+        "onboard_time": 1751800705,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147021,
+        "num": 147021,
+        "word": "山东连发71个高温预警",
+        "onboard_time": 1751795901,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145414,
+        "num": 145414,
+        "word": "火鸡面太恶毒了",
+        "onboard_time": 1751798783,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 144123,
+        "num": 144123,
+        "word": "yushi好帅",
+        "onboard_time": 1751800705,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138235,
+        "num": 138235,
+        "word": "毛不易火速拦截了粉丝的建议",
+        "onboard_time": 1751800046,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142001,
+        "num": 137754,
+        "word": "小蝶 宠爱",
+        "onboard_time": 1751793022,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135518,
+        "num": 135518,
+        "word": "李人骏被亲妹夫狠狠辜负",
+        "onboard_time": 1751801485,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123356,
+        "num": 123356,
+        "word": "霍启刚郭晶晶参观山东舰",
+        "onboard_time": 1751792001,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 115174,
+        "num": 115174,
+        "word": "于正说临江仙戏爆OST爆",
+        "onboard_time": 1751799263,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115115,
+        "num": 115115,
+        "word": "吃蝎子吃掉了上海一套房",
+        "onboard_time": 1751790382,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114771,
+        "num": 114771,
+        "word": "赚大钱一定要在高价行业里混",
+        "onboard_time": 1751800166,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113520,
+        "num": 113520,
+        "word": "梓渝新歌",
+        "onboard_time": 1751762481,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 113194,
+        "num": 113194,
+        "word": "中方对欧盟采取对等限制措施",
+        "onboard_time": 1751789540,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110317,
+        "num": 110317,
+        "word": "荔枝馒头能有多逼真",
+        "onboard_time": 1751799144,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 100702,
+        "num": 100702,
+        "word": "KPL",
+        "onboard_time": 1751801844,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 96334,
+        "num": 96334,
+        "word": "给韩红一个爱豆她还你一个兵",
+        "onboard_time": 1751797882,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95007,
+        "num": 95007,
+        "word": "朋友圈三天可见置顶像生死簿一样长",
+        "onboard_time": 1751778082,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记这番话掷地有声#"
+    }
+  }
+}
