@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751794807487,
+  "endTime": 1751797624697,
   "band_list": [
     {
       "raw_hot": 6390116,
@@ -1068,7 +1068,7 @@
     },
     {
       "raw_hot": 886475,
-      "num": 886475,
+      "num": 1087165,
       "word": "日本教材污蔑卢沟桥事变中方先开枪",
       "onboard_time": 1751788703,
       "rank": 6,
@@ -4051,6 +4051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 346236,
+      "num": 346236,
+      "word": "吴莫愁换了万年不变铁刘海",
+      "onboard_time": 1751795062,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 344527,
       "num": 344527,
       "word": "金靖走心发言把刘宇宁感动哭了",
@@ -4185,6 +4193,14 @@
       "onboard_time": 1751593880,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 334685,
+      "num": 210949,
+      "word": "权恩妃水弹",
+      "onboard_time": 1751794761,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 334638,
@@ -4585,6 +4601,14 @@
       "onboard_time": 1751469923,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 310205,
+      "num": 226324,
+      "word": "捡到金世佳身份证当事人发声",
+      "onboard_time": 1751797221,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 309500,
@@ -6043,6 +6067,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 228481,
+      "num": 228481,
+      "word": "李嘉格坚持10年替父母规划过冬地点",
+      "onboard_time": 1751793260,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228268,
       "num": 228268,
       "word": "印度一男子医院割喉女友无人干预",
@@ -6209,6 +6241,14 @@
       "onboard_time": 1751346863,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 224677,
+      "num": 210937,
+      "word": "青岛7年内最高温",
+      "onboard_time": 1751793863,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 224437,
@@ -7585,14 +7625,6 @@
       "onboard_time": 1751619147,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 193952,
-      "num": 205942,
-      "word": "李嘉格坚持10年替父母规划过冬地点",
-      "onboard_time": 1751793260,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 193628,
@@ -9683,6 +9715,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 159306,
+      "num": 159306,
+      "word": "老人扎堆华莱士蹭空调无视喇叭驱赶",
+      "onboard_time": 1751795901,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159068,
       "num": 160199,
       "word": "司机收300元把孩子塞后备箱运送",
@@ -10969,6 +11009,14 @@
       "onboard_time": 1751394315,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 143071,
+      "num": 143071,
+      "word": "苏新皓分享权志龙演唱会视频",
+      "onboard_time": 1751797221,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 142954,
@@ -12835,6 +12883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124758,
+      "num": 124758,
+      "word": "山东连发71个高温预警",
+      "onboard_time": 1751795901,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124478,
       "num": 208663,
       "word": "国家卫健委提醒不要轻信网红医生",
@@ -13073,6 +13129,14 @@
       "onboard_time": 1751773942,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122622,
+      "num": 122622,
+      "word": "警犬救援演练发现是熟人扭头就走",
+      "onboard_time": 1751793863,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122496,
@@ -13715,14 +13779,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 117393,
-      "num": 117393,
-      "word": "青岛7年内最高温",
-      "onboard_time": 1751793863,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 117336,
       "num": 117336,
       "word": "温宜公主已经长这么大了",
@@ -13793,6 +13849,14 @@
       "onboard_time": 1751794222,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116924,
+      "num": 116924,
+      "word": "鹿晗工作室土味情话",
+      "onboard_time": 1751795901,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 116885,
@@ -13881,6 +13945,14 @@
       "onboard_time": 1751706322,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116028,
+      "num": 116028,
+      "word": "漂亮可爱知世大小姐",
+      "onboard_time": 1751797221,
+      "rank": 34,
+      "category": "动漫"
     },
     {
       "raw_hot": 115951,
@@ -15283,20 +15355,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 103563,
-      "num": 103563,
-      "word": "警犬救援演练发现是熟人扭头就走",
-      "onboard_time": 1751793863,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 103462,
       "num": 103462,
       "word": "追妻火葬场男宾一位",
       "onboard_time": 1751546242,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103432,
+      "num": 103432,
+      "word": "对自欧盟进口的医疗器械采取相关措施",
+      "onboard_time": 1751789002,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 103385,
@@ -15384,6 +15456,14 @@
       "word": "丁程鑫出战演唱会猜歌挑战",
       "onboard_time": 1751362283,
       "rank": 29,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 102454,
+      "num": 102454,
+      "word": "邓紫棋睡公主好像一个小手办",
+      "onboard_time": 1751797341,
+      "rank": 37,
       "category": "演出"
     },
     {
@@ -15595,6 +15675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 100325,
+      "num": 100325,
+      "word": "把上司和炸鸡店老板弄混了",
+      "onboard_time": 1751795242,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 100294,
       "num": 100294,
       "word": "银河左岸音乐节",
@@ -15649,14 +15737,6 @@
       "onboard_time": 1751459724,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 99853,
-      "num": 99853,
-      "word": "权恩妃水弹",
-      "onboard_time": 1751794761,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 99746,
@@ -15785,6 +15865,14 @@
       "onboard_time": 1751605342,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97725,
+      "num": 108807,
+      "word": "游本昌谈自己最大的幸福所在",
+      "onboard_time": 1751794761,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97440,
@@ -15921,6 +16009,14 @@
       "onboard_time": 1751794041,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96056,
+      "num": 96056,
+      "word": "王楚钦回应被孙颖莎带着打",
+      "onboard_time": 1751797460,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 95918,
@@ -16075,6 +16171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 93454,
+      "num": 93454,
+      "word": "TE对战Gr",
+      "onboard_time": 1751796681,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 93420,
       "num": 93420,
       "word": "汪顺潘展乐傅园慧打篮球",
@@ -16097,6 +16201,14 @@
       "onboard_time": 1751356701,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 93071,
+      "num": 93071,
+      "word": "权恩妃waterbomb舞台",
+      "onboard_time": 1751795301,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 93063,
@@ -16193,6 +16305,14 @@
       "onboard_time": 1751726906,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 92102,
+      "num": 219757,
+      "word": "香港小哥抢不到山东舰的票爬山去追",
+      "onboard_time": 1751794343,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92032,
@@ -17051,6 +17171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76743,
+      "num": 93842,
+      "word": "明日方舟夏卉",
+      "onboard_time": 1751796023,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 76503,
       "num": 76503,
       "word": "炒港美股要交20%个税",
@@ -17411,14 +17539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 68008,
-      "num": 219757,
-      "word": "香港小哥抢不到山东舰的票爬山去追",
-      "onboard_time": 1751794343,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 67991,
       "num": 67991,
       "word": "沈月翟潇闻抬桌子没有一秒不好笑",
@@ -17488,14 +17608,6 @@
       "word": "男子借宿同学家行凶致1死家属发声",
       "onboard_time": 1751719282,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 66504,
-      "num": 108807,
-      "word": "游本昌谈自己最大的幸福所在",
-      "onboard_time": 1751794761,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -19201,6 +19313,14 @@
       "onboard_time": 1751633545,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30200,
+      "num": 224653,
+      "word": "拍身份证照片可佩戴镜框",
+      "onboard_time": 1751797101,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30136,
