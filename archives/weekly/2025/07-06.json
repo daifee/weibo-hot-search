@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751784570529,
+  "endTime": 1751786641071,
   "band_list": [
     {
       "raw_hot": 2706470,
@@ -17,6 +17,14 @@
       "onboard_time": 1751767582,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2285637,
+      "num": 213714,
+      "word": "青岛大学宿管",
+      "onboard_time": 1751784562,
+      "rank": 10,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 1921486,
@@ -91,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1037971,
+      "num": 1166075,
+      "word": "王楚钦回应莎头组合能否复制",
+      "onboard_time": 1751784262,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 887458,
       "num": 653087,
       "word": "内娱最决绝的解约声明",
@@ -113,6 +129,14 @@
       "onboard_time": 1751729964,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 770185,
+      "num": 1115752,
+      "word": "hi6",
+      "onboard_time": 1751780242,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 762421,
@@ -147,14 +171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 723451,
-      "num": 1115752,
-      "word": "hi6",
-      "onboard_time": 1751780242,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 702326,
       "num": 241818,
       "word": "曾志伟和女星合影姿势引争议",
@@ -169,6 +185,14 @@
       "onboard_time": 1751771062,
       "rank": 1,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 688841,
+      "num": 688841,
+      "word": "女子吃冰脑壳一紧突发脑结冰",
+      "onboard_time": 1751781262,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 676446,
@@ -233,14 +257,6 @@
       "onboard_time": 1751761221,
       "rank": 4,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 480752,
-      "num": 480752,
-      "word": "女子吃冰脑壳一紧突发脑结冰",
-      "onboard_time": 1751781262,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 478407,
@@ -331,6 +347,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 362814,
+      "num": 239064,
+      "word": "金泰亨朴宝剑手牵手",
+      "onboard_time": 1751782462,
+      "rank": 18,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 356903,
       "num": 157494,
       "word": "12岁幼女家中遭强奸妈妈第二天才发现",
@@ -403,14 +427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 291318,
-      "num": 239064,
-      "word": "金泰亨朴宝剑手牵手",
-      "onboard_time": 1751782462,
-      "rank": 18,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 283553,
       "num": 283553,
       "word": "T1战胜BLG",
@@ -433,14 +449,6 @@
       "onboard_time": 1751726064,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 270960,
-      "num": 270960,
-      "word": "王楚钦回应莎头组合能否复制",
-      "onboard_time": 1751784262,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 269491,
@@ -481,6 +489,14 @@
       "onboard_time": 1751724984,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 250721,
+      "num": 204864,
+      "word": "朱珠 妈咪不会营业",
+      "onboard_time": 1751784801,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 248925,
@@ -555,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 216338,
+      "num": 315339,
+      "word": "孙颖莎说球迷加油让自己更有动力",
+      "onboard_time": 1751780421,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 212878,
       "num": 269275,
       "word": "刘宇宁波演唱会复盘直播",
@@ -579,12 +603,28 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 206006,
+      "num": 206006,
+      "word": "田栩宁或将空降录制hi6",
+      "onboard_time": 1751785821,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204947,
       "num": 204947,
       "word": "沈梦辰锦绣芳华吻戏",
       "onboard_time": 1751762239,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203922,
+      "num": 203922,
+      "word": "费大厨 本科以下勿扰",
+      "onboard_time": 1751785522,
+      "rank": 22,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 203264,
@@ -683,6 +723,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 182405,
+      "num": 182405,
+      "word": "张鑫晒白鹿送的麦克风",
+      "onboard_time": 1751785462,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182375,
       "num": 308821,
       "word": "五星级酒店摆地摊37分钟售罄",
@@ -721,14 +769,6 @@
       "onboard_time": 1751725225,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 175056,
-      "num": 315339,
-      "word": "孙颖莎说球迷加油让自己更有动力",
-      "onboard_time": 1751780421,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 173169,
@@ -915,6 +955,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 142359,
+      "num": 142359,
+      "word": "诡秘第三集好不好看",
+      "onboard_time": 1751785881,
+      "rank": 26,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 139242,
+      "num": 139242,
+      "word": "朱一龙撕漫男但撕的是柯南",
+      "onboard_time": 1751786181,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138310,
       "num": 138310,
       "word": "国际接吻日",
@@ -987,6 +1043,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 131333,
+      "num": 182469,
+      "word": "别去塑造恶女",
+      "onboard_time": 1751783002,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 131126,
+      "num": 131126,
+      "word": "俄军一口气买了20万台摩托车",
+      "onboard_time": 1751784801,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 130384,
       "num": 130384,
       "word": "六郎玩的都是何惟芳剩下的",
@@ -1017,6 +1089,14 @@
       "onboard_time": 1751780062,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127436,
+      "num": 125212,
+      "word": "解说怒喷BLG游戏理解差",
+      "onboard_time": 1751784801,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 127383,
@@ -1051,6 +1131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126751,
+      "num": 126751,
+      "word": "尼格买提痛失本名",
+      "onboard_time": 1751785162,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125796,
       "num": 125796,
       "word": "英媒称伊导弹击中以5处军事设施",
@@ -1065,6 +1153,14 @@
       "onboard_time": 1751779103,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 124213,
+      "num": 214905,
+      "word": "七旬老人舍不得开空调热到神智不清",
+      "onboard_time": 1751782521,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124136,
@@ -1083,12 +1179,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122843,
-      "num": 182469,
-      "word": "别去塑造恶女",
-      "onboard_time": 1751783002,
-      "rank": 39,
-      "category": "电影"
+      "raw_hot": 123034,
+      "num": 123034,
+      "word": "李泰民道歉",
+      "onboard_time": 1751784980,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 122640,
@@ -1139,6 +1235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119697,
+      "num": 119697,
+      "word": "陈卓璇变装完全公主级别",
+      "onboard_time": 1751786481,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 119198,
       "num": 119198,
       "word": "尽量不要给手机整夜充电",
@@ -1147,12 +1251,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 117023,
-      "num": 117023,
-      "word": "七旬老人舍不得开空调热到神智不清",
-      "onboard_time": 1751782521,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 117215,
+      "num": 117215,
+      "word": "每七天想离一次婚但说不出口",
+      "onboard_time": 1751781442,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 116962,
@@ -1179,20 +1283,20 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 116029,
-      "num": 116029,
-      "word": "每七天想离一次婚但说不出口",
-      "onboard_time": 1751781442,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 115441,
       "num": 181027,
       "word": "谍战剧关注度越来越高",
       "onboard_time": 1751768122,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114559,
+      "num": 114559,
+      "word": "漂流是致死率最高的旅游安全事故",
+      "onboard_time": 1751785641,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113769,
@@ -1235,12 +1339,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 111385,
+      "num": 111385,
+      "word": "你越是放松结果往往越好",
+      "onboard_time": 1751786003,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 111147,
       "num": 111147,
       "word": "许嵩 你们是我的月亮",
       "onboard_time": 1751774662,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 110836,
+      "num": 115460,
+      "word": "耳帝评新说唱年轻选手洗牌",
+      "onboard_time": 1751785282,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 110408,
@@ -1353,6 +1473,14 @@
       "onboard_time": 1751747534,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105086,
+      "num": 105086,
+      "word": "背书包的孙颖莎好可爱",
+      "onboard_time": 1751786542,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 103706,
@@ -1683,6 +1811,14 @@
       "category": "体育,互联网"
     },
     {
+      "raw_hot": 61708,
+      "num": 115494,
+      "word": "王楚钦首轮对阵奇里塔",
+      "onboard_time": 1751785701,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61227,
       "num": 69532,
       "word": "谁懂刘宇这段吟唱有多绝",
@@ -1796,7 +1932,7 @@
     },
     {
       "raw_hot": 34296,
-      "num": 584254,
+      "num": 716480,
       "word": "世界市长对话上合峰会城市",
       "onboard_time": 1751775922,
       "rank": 2,
