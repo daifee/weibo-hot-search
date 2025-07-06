@@ -1,0 +1,410 @@
+{
+  "runTime": 1751769402459,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 707543,
+        "num": 1113206,
+        "word": "马斯克发文成立美国党",
+        "onboard_time": 1751757859,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 447242,
+        "num": 447242,
+        "word": "五星级酒店摆地摊日入3万",
+        "onboard_time": 1751764880,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42903,
+        "num": 400709,
+        "word": "网警提醒高考花钱改分是骗局",
+        "onboard_time": 1751768481,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 879399,
+        "num": 400680,
+        "word": "罗马仕深夜正式发布停工停产通知",
+        "onboard_time": 1751765481,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 727693,
+        "num": 400651,
+        "word": "罗马仕宣布停工停产半年",
+        "onboard_time": 1751764101,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 400406,
+        "num": 400406,
+        "word": "女子意外怀孕生下孩子卖掉换钱",
+        "onboard_time": 1751761580,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353761,
+        "num": 353761,
+        "word": "BLG对战T1",
+        "onboard_time": 1751761221,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 315377,
+        "num": 352265,
+        "word": "狗头萝莉建议不要搞擦边",
+        "onboard_time": 1751763320,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 262433,
+        "num": 346700,
+        "word": "梓渝新歌",
+        "onboard_time": 1751762481,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 127424,
+        "num": 343788,
+        "word": "马斯克回应参选时间",
+        "onboard_time": 1751768721,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1980601,
+        "num": 339710,
+        "word": "田栩宁 孩子",
+        "onboard_time": 1751767582,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1308542,
+        "num": 339026,
+        "word": "男子长期性侵未成年养女被判死刑",
+        "onboard_time": 1751761580,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 400884,
+        "num": 332742,
+        "word": "建议不要临睡前才刷牙",
+        "onboard_time": 1751744114,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 411537,
+        "num": 330586,
+        "word": "梓渝换新手机",
+        "onboard_time": 1751763621,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26612,
+        "num": 327144,
+        "word": "马斯克成立美国党前发起过投票",
+        "onboard_time": 1751768841,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 382195,
+        "num": 322805,
+        "word": "杭州东站发生卧轨事件",
+        "onboard_time": 1751727385,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321396,
+        "num": 321396,
+        "word": "甘肃幼儿血铅异常事件发现疑似毒源",
+        "onboard_time": 1751766922,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182265,
+        "num": 282567,
+        "word": "王一博北京飞巴黎路透",
+        "onboard_time": 1751764942,
+        "rank": 17,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 158116,
+        "num": 281914,
+        "word": "张杰打开手机人都红温了吧",
+        "onboard_time": 1751735179,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 176992,
+        "num": 281635,
+        "word": "塞纳河解除超百年禁令开放游泳",
+        "onboard_time": 1751767761,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 281625,
+        "num": 281625,
+        "word": "恋与深空去中化",
+        "onboard_time": 1751766142,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 263565,
+        "num": 263565,
+        "word": "马斯克想拿下美国会两院部分席位",
+        "onboard_time": 1751757798,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 253730,
+        "num": 253730,
+        "word": "T1战胜BLG",
+        "onboard_time": 1751769082,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 243410,
+        "num": 243410,
+        "word": "rapper用归国四子diss黄子韬",
+        "onboard_time": 1751757798,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233107,
+        "num": 233107,
+        "word": "杨幂同款汉服卖爆了",
+        "onboard_time": 1751763020,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 232535,
+        "num": 232535,
+        "word": "曾志伟和女星合影姿势引争议",
+        "onboard_time": 1751725523,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201766,
+        "num": 201766,
+        "word": "外卖员没撞娃家长讹人被抓现行",
+        "onboard_time": 1751766742,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134435,
+        "num": 184006,
+        "word": "沈梦辰锦绣芳华吻戏",
+        "onboard_time": 1751762239,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115441,
+        "num": 181027,
+        "word": "谍战剧关注度越来越高",
+        "onboard_time": 1751768122,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110735,
+        "num": 179981,
+        "word": "白鹿给张鑫送定制麦克风",
+        "onboard_time": 1751766260,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179461,
+        "num": 179461,
+        "word": "小伙脖子肿痛开刀取出7颗瓜子",
+        "onboard_time": 1751728585,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179275,
+        "num": 179275,
+        "word": "罗马仕陷入34场官司均为被告",
+        "onboard_time": 1751766561,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166365,
+        "num": 166365,
+        "word": "3名初中生凌晨偷奔驰致严重车祸",
+        "onboard_time": 1751729964,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158254,
+        "num": 158254,
+        "word": "男子威胁公开前女同事隐私视频",
+        "onboard_time": 1751760861,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100911,
+        "num": 152202,
+        "word": "谢娜的老公是个形容词",
+        "onboard_time": 1751764760,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150192,
+        "num": 150192,
+        "word": "南非发生多起针对女性中国公民绑架",
+        "onboard_time": 1751769262,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129459,
+        "num": 129459,
+        "word": "MSI",
+        "onboard_time": 1751767161,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125621,
+        "num": 125621,
+        "word": "英媒称伊导弹击中以5处军事设施",
+        "onboard_time": 1751764281,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117169,
+        "num": 117169,
+        "word": "梅西梅开二度",
+        "onboard_time": 1751767103,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115073,
+        "num": 115073,
+        "word": "美国男子肾移植术后体内爬满寄生虫",
+        "onboard_time": 1751724263,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 112850,
+        "num": 112850,
+        "word": "巨瘦腰的7天有效法",
+        "onboard_time": 1751757737,
+        "rank": 40,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 108109,
+        "num": 108109,
+        "word": "女子指甲下长肿瘤被误诊甲沟炎10年",
+        "onboard_time": 1751757198,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107659,
+        "num": 107659,
+        "word": "美国得州洪灾死亡上升至49人",
+        "onboard_time": 1751763320,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 107207,
+        "num": 107207,
+        "word": "人真的要珍惜单身的时候",
+        "onboard_time": 1751758877,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106164,
+        "num": 106164,
+        "word": "罗马仕辟谣后深夜正式宣布停工停产",
+        "onboard_time": 1751769262,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103706,
+        "num": 103706,
+        "word": "美得州洪灾已致51死",
+        "onboard_time": 1751767161,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 103175,
+        "num": 103175,
+        "word": "运20正式列装空军9年了",
+        "onboard_time": 1751762001,
+        "rank": 46,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 101864,
+        "num": 101864,
+        "word": "Faker状态拉满",
+        "onboard_time": 1751764822,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 101357,
+        "num": 101357,
+        "word": "憋气比赛狗狗发现人作弊破口大骂",
+        "onboard_time": 1751767103,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87259,
+        "num": 98236,
+        "word": "谁家男主尸体都不放过啊",
+        "onboard_time": 1751757737,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记和青年朋友在一起#"
+    }
+  }
+}
