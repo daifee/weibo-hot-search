@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751808828867,
+  "endTime": 1751809498418,
   "band_list": [
     {
       "raw_hot": 7611710,
@@ -372,7 +372,7 @@
     },
     {
       "raw_hot": 1518482,
-      "num": 249431,
+      "num": 260311,
       "word": "当你的子宫都开始对你催生",
       "onboard_time": 1751781201,
       "rank": 20,
@@ -611,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1226958,
+      "num": 700722,
+      "word": "青岛大学称今年全校宿舍将装空调",
+      "onboard_time": 1751805623,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1225523,
       "num": 1158229,
       "word": "Angelababy出席巴黎时装周",
@@ -787,14 +795,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1074753,
-      "num": 700722,
-      "word": "青岛大学称今年全校宿舍将装空调",
-      "onboard_time": 1751805623,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1069823,
       "num": 1171171,
       "word": "幼师又多了一个就业方向",
@@ -817,6 +817,14 @@
       "onboard_time": 1751534783,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1050102,
+      "num": 1168016,
+      "word": "常州vs淮安",
+      "onboard_time": 1751800705,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 1049940,
@@ -1265,6 +1273,14 @@
       "onboard_time": 1751345602,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 839821,
+      "num": 839821,
+      "word": "常州进球无效",
+      "onboard_time": 1751808986,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 838506,
@@ -1777,14 +1793,6 @@
       "onboard_time": 1751612422,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 701919,
-      "num": 701919,
-      "word": "常州vs淮安",
-      "onboard_time": 1751800705,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 701716,
@@ -3379,6 +3387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 424109,
+      "num": 388029,
+      "word": "黄子弘凡扶电梯摔倒女生",
+      "onboard_time": 1751805984,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 423818,
       "num": 359159,
       "word": "7月财运最旺的星座",
@@ -3499,14 +3515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 413609,
-      "num": 388029,
-      "word": "黄子弘凡扶电梯摔倒女生",
-      "onboard_time": 1751805984,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 412261,
       "num": 202963,
       "word": "李福贵自曝19岁结婚一年后分开",
@@ -3561,6 +3569,14 @@
       "onboard_time": 1751498479,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 408368,
+      "num": 380522,
+      "word": "陈梦妈妈嗑上女儿的糖了",
+      "onboard_time": 1751806946,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 407921,
@@ -3881,6 +3897,14 @@
       "onboard_time": 1751691081,
       "rank": 6,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 369157,
+      "num": 369157,
+      "word": "无畏 菜",
+      "onboard_time": 1751805684,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 369074,
@@ -4307,14 +4331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 336640,
-      "num": 336640,
-      "word": "无畏 菜",
-      "onboard_time": 1751805684,
-      "rank": 24,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 336624,
       "num": 322934,
       "word": "请假羞耻 不配得感",
@@ -4536,6 +4552,14 @@
       "word": "甘肃幼儿血铅异常事件发现疑似毒源",
       "onboard_time": 1751766922,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 321331,
+      "num": 321331,
+      "word": "4岁宝宝手术台上把自己麻晕",
+      "onboard_time": 1751808745,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -4787,6 +4811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 307356,
+      "num": 307356,
+      "word": "阿吊你是自由的鸟",
+      "onboard_time": 1751807845,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 305490,
       "num": 305490,
       "word": "莆田一受资助学生家里装修豪华引质疑",
@@ -4977,14 +5009,6 @@
       "onboard_time": 1751536883,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 294034,
-      "num": 294034,
-      "word": "陈梦妈妈嗑上女儿的糖了",
-      "onboard_time": 1751806946,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 293842,
@@ -5627,6 +5651,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 257891,
+      "num": 257891,
+      "word": "整个苏南都给常州应援",
+      "onboard_time": 1751808027,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 257269,
       "num": 257269,
       "word": "林心如排队为女儿买labubu",
@@ -6251,14 +6283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 228460,
-      "num": 222403,
-      "word": "4岁宝宝手术台上把自己麻晕",
-      "onboard_time": 1751808745,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 228268,
       "num": 228268,
       "word": "印度一男子医院割喉女友无人干预",
@@ -6537,14 +6561,6 @@
       "onboard_time": 1751358563,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 222239,
-      "num": 222239,
-      "word": "阿吊你是自由的鸟",
-      "onboard_time": 1751807845,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 221953,
@@ -7051,6 +7067,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 207660,
+      "num": 207660,
+      "word": "南京是真的急了",
+      "onboard_time": 1751805325,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207245,
       "num": 207245,
       "word": "小S二女儿画作卖超百万",
@@ -7164,7 +7188,7 @@
     },
     {
       "raw_hot": 205484,
-      "num": 205484,
+      "num": 210272,
       "word": "何惟芳刺伤蒋长扬",
       "onboard_time": 1751803643,
       "rank": 22,
@@ -7177,14 +7201,6 @@
       "onboard_time": 1751697681,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205201,
-      "num": 205201,
-      "word": "整个苏南都给常州应援",
-      "onboard_time": 1751808027,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 205058,
@@ -7339,6 +7355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 202988,
+      "num": 202988,
+      "word": "苏超迷惑行为大赏",
+      "onboard_time": 1751807967,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202874,
       "num": 360721,
       "word": "被秦六郎气死",
@@ -7352,6 +7376,14 @@
       "word": "肖战脱西装路透",
       "onboard_time": 1751697560,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 202503,
+      "num": 214837,
+      "word": "登陆少年 百事可乐",
+      "onboard_time": 1751808386,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -7891,20 +7923,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 194155,
-      "num": 194155,
-      "word": "南京是真的急了",
-      "onboard_time": 1751805325,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 194116,
       "num": 235300,
       "word": "中餐厅名场面",
       "onboard_time": 1751603065,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194090,
+      "num": 194090,
+      "word": "王一博巴黎高定时装周",
+      "onboard_time": 1751809464,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 193988,
@@ -8193,14 +8225,6 @@
       "onboard_time": 1751527342,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 190056,
-      "num": 187397,
-      "word": "登陆少年 百事可乐",
-      "onboard_time": 1751808386,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 190049,
@@ -9017,14 +9041,6 @@
       "onboard_time": 1751359522,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 175203,
-      "num": 175203,
-      "word": "苏超迷惑行为大赏",
-      "onboard_time": 1751807967,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 175137,
@@ -9892,7 +9908,7 @@
     },
     {
       "raw_hot": 162441,
-      "num": 162441,
+      "num": 321773,
       "word": "香港民众在中国战机下避雨",
       "onboard_time": 1751805084,
       "rank": 34,
@@ -11235,6 +11251,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146591,
+      "num": 146591,
+      "word": "苏超宿迁队vs连云港队",
+      "onboard_time": 1751807666,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 146534,
+      "num": 146534,
+      "word": "抗战胜利80周年",
+      "onboard_time": 1751809464,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 146522,
       "num": 198770,
       "word": "花少群像的顶级浪漫",
@@ -12395,6 +12427,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 134334,
+      "num": 134334,
+      "word": "华为没有抄袭阿里大模型",
+      "onboard_time": 1751809166,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 134165,
       "num": 134165,
       "word": "第四周最佳选手一诺",
@@ -13257,6 +13297,14 @@
       "onboard_time": 1751785162,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126670,
+      "num": 126670,
+      "word": "万潮下线了吗",
+      "onboard_time": 1751809404,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 126480,
@@ -16939,6 +16987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92041,
+      "num": 369618,
+      "word": "青岛大学学生说住宿舍半夜被热醒",
+      "onboard_time": 1751808625,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92032,
       "num": 92032,
       "word": "好喝的牛奶推荐",
@@ -19420,7 +19476,7 @@
     },
     {
       "raw_hot": 41914,
-      "num": 721941,
+      "num": 906799,
       "word": "上合之城",
       "onboard_time": 1751800046,
       "rank": 2,
@@ -20929,14 +20985,6 @@
       "onboard_time": 1751688201,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 13743,
-      "num": 192374,
-      "word": "青岛大学学生说住宿舍半夜被热醒",
-      "onboard_time": 1751808625,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13630,

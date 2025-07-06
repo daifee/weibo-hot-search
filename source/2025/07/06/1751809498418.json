@@ -1,0 +1,410 @@
+{
+  "runTime": 1751809498418,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1050102,
+        "num": 1168016,
+        "word": "常州vs淮安",
+        "onboard_time": 1751800705,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 994036,
+        "num": 994036,
+        "word": "Angelababy出席巴黎时装周",
+        "onboard_time": 1751803764,
+        "rank": 1,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 30170,
+        "num": 906799,
+        "word": "上合之城",
+        "onboard_time": 1751800046,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 839821,
+        "num": 839821,
+        "word": "常州进球无效",
+        "onboard_time": 1751808986,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 597259,
+        "num": 597259,
+        "word": "医生称晚安牛奶每天喝24000瓶才有效",
+        "onboard_time": 1751807006,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1729218,
+        "num": 546400,
+        "word": "华策发声明",
+        "onboard_time": 1751799325,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1226958,
+        "num": 537546,
+        "word": "青岛大学称今年全校宿舍将装空调",
+        "onboard_time": 1751805623,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 478603,
+        "num": 478603,
+        "word": "王俊凯直播",
+        "onboard_time": 1751807006,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 422781,
+        "num": 422781,
+        "word": "淮上 我就喜欢吃这种的",
+        "onboard_time": 1751799749,
+        "rank": 8,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 404237,
+        "num": 404237,
+        "word": "七七事变纪录片一夜之间",
+        "onboard_time": 1751807967,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1226750,
+        "num": 397268,
+        "word": "贪污自杀",
+        "onboard_time": 1751805684,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2649996,
+        "num": 394614,
+        "word": "青岛大学回应一宿管人员离世",
+        "onboard_time": 1751802503,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 424109,
+        "num": 383944,
+        "word": "黄子弘凡扶电梯摔倒女生",
+        "onboard_time": 1751805984,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408368,
+        "num": 380522,
+        "word": "陈梦妈妈嗑上女儿的糖了",
+        "onboard_time": 1751806946,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92041,
+        "num": 369618,
+        "word": "青岛大学学生说住宿舍半夜被热醒",
+        "onboard_time": 1751808625,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369157,
+        "num": 369157,
+        "word": "无畏 菜",
+        "onboard_time": 1751805684,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 340253,
+        "num": 340253,
+        "word": "鹿晗演唱会",
+        "onboard_time": 1751806766,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 294962,
+        "num": 324016,
+        "word": "柳智敏澄清ins争议",
+        "onboard_time": 1751801306,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147644,
+        "num": 321773,
+        "word": "香港民众在中国战机下避雨",
+        "onboard_time": 1751805084,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1400969,
+        "num": 321712,
+        "word": "男童躺街上被碾压身亡司机发声",
+        "onboard_time": 1751805205,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321331,
+        "num": 321331,
+        "word": "4岁宝宝手术台上把自己麻晕",
+        "onboard_time": 1751808745,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307356,
+        "num": 307356,
+        "word": "阿吊你是自由的鸟",
+        "onboard_time": 1751807845,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260311,
+        "num": 260311,
+        "word": "当你的子宫都开始对你催生",
+        "onboard_time": 1751781201,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257891,
+        "num": 257891,
+        "word": "整个苏南都给常州应援",
+        "onboard_time": 1751808027,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227227,
+        "num": 227227,
+        "word": "恋与深空严正声明",
+        "onboard_time": 1751799987,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 226478,
+        "num": 226478,
+        "word": "1.4万买的房子发现价值43万游戏卡牌",
+        "onboard_time": 1751789601,
+        "rank": 25,
+        "category": "海外新闻,游戏"
+      },
+      {
+        "raw_hot": 226027,
+        "num": 226027,
+        "word": "身份证照片 戴眼镜",
+        "onboard_time": 1751790262,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224419,
+        "num": 224419,
+        "word": "43岁女子姐弟恋怀孕后婆婆不认可",
+        "onboard_time": 1751787982,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202503,
+        "num": 214837,
+        "word": "登陆少年 百事可乐",
+        "onboard_time": 1751808386,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191796,
+        "num": 210272,
+        "word": "何惟芳刺伤蒋长扬",
+        "onboard_time": 1751803643,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207660,
+        "num": 207660,
+        "word": "南京是真的急了",
+        "onboard_time": 1751805325,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202988,
+        "num": 202988,
+        "word": "苏超迷惑行为大赏",
+        "onboard_time": 1751807967,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194090,
+        "num": 194090,
+        "word": "王一博巴黎高定时装周",
+        "onboard_time": 1751809464,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 181155,
+        "num": 181155,
+        "word": "Celine大秀",
+        "onboard_time": 1751806405,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 168384,
+        "num": 168384,
+        "word": "日本教材污蔑卢沟桥事变中方先开枪",
+        "onboard_time": 1751788703,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 154574,
+        "num": 154574,
+        "word": "于正闲鱼收到了四万份简历",
+        "onboard_time": 1751807906,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151609,
+        "num": 151609,
+        "word": "洪知秀ins更新",
+        "onboard_time": 1751808386,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146591,
+        "num": 146591,
+        "word": "苏超宿迁队vs连云港队",
+        "onboard_time": 1751807666,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146534,
+        "num": 146534,
+        "word": "抗战胜利80周年",
+        "onboard_time": 1751809464,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 137319,
+        "num": 137319,
+        "word": "刘诗诗高领的神",
+        "onboard_time": 1751803764,
+        "rank": 39,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 134334,
+        "num": 134334,
+        "word": "华为没有抄袭阿里大模型",
+        "onboard_time": 1751809166,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 133783,
+        "num": 133783,
+        "word": "王楚钦说想一场一场去赢",
+        "onboard_time": 1751807967,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132410,
+        "num": 132410,
+        "word": "一诺达成3300总击杀",
+        "onboard_time": 1751808565,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131832,
+        "num": 131832,
+        "word": "马斯克谈对特朗普由爱转恨原因",
+        "onboard_time": 1751803405,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 131068,
+        "num": 131068,
+        "word": "林俊杰演唱会",
+        "onboard_time": 1751808806,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127438,
+        "num": 127438,
+        "word": "TF四代郑重宣誓",
+        "onboard_time": 1751807666,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126670,
+        "num": 126670,
+        "word": "万潮下线了吗",
+        "onboard_time": 1751809404,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125060,
+        "num": 125901,
+        "word": "AG对战KSG",
+        "onboard_time": 1751806887,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125824,
+        "num": 125824,
+        "word": "书卷一梦女主人设",
+        "onboard_time": 1751802986,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125666,
+        "num": 125666,
+        "word": "日本月薪水平",
+        "onboard_time": 1751798002,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记这番话掷地有声#"
+    }
+  }
+}
