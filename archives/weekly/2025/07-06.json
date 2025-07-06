@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751780621049,
+  "endTime": 1751783771494,
   "band_list": [
     {
       "raw_hot": 2706470,
@@ -27,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1518482,
+      "num": 200743,
+      "word": "当你的子宫都开始对你催生",
+      "onboard_time": 1751781201,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1416961,
       "num": 373394,
       "word": "男子长期性侵未成年养女被判死刑",
@@ -51,6 +59,14 @@
       "category": "艺人,剧集"
     },
     {
+      "raw_hot": 1208394,
+      "num": 326128,
+      "word": "幼童躺街上被快递货车碾压身亡",
+      "onboard_time": 1751778982,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1125912,
       "num": 309533,
       "word": "郑星源 梓渝",
@@ -72,14 +88,6 @@
       "word": "罗马仕深夜正式发布停工停产通知",
       "onboard_time": 1751765481,
       "rank": 0,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1023740,
-      "num": 326128,
-      "word": "幼童躺街上被快递货车碾压身亡",
-      "onboard_time": 1751778982,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -155,6 +163,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 676446,
+      "num": 1108231,
+      "word": "父亲称为儿子买房骗其在白纸上签字",
+      "onboard_time": 1751776943,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 619179,
       "num": 619179,
       "word": "G社拍的刘诗诗",
@@ -211,12 +227,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 472719,
-      "num": 472719,
-      "word": "父亲称为儿子买房骗其在白纸上签字",
-      "onboard_time": 1751776943,
-      "rank": 25,
+      "raw_hot": 478407,
+      "num": 478407,
+      "word": "阿坝车辆坠崖2死5失联家属急寻线索",
+      "onboard_time": 1751778022,
+      "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 472773,
+      "num": 472773,
+      "word": "hi6",
+      "onboard_time": 1751780242,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 460487,
@@ -275,12 +299,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 413383,
+      "num": 413383,
+      "word": "女子吃冰脑壳一紧突发脑结冰",
+      "onboard_time": 1751781262,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 410036,
       "num": 236359,
       "word": "田栩宁emoji",
       "onboard_time": 1751725042,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 377828,
+      "num": 377828,
+      "word": "罗马仕向消费者表示深刻歉意",
+      "onboard_time": 1751779283,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 369157,
@@ -315,6 +355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 320309,
+      "num": 320309,
+      "word": "李昀锐公主抱关晓彤",
+      "onboard_time": 1751779341,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 320262,
       "num": 320262,
       "word": "官方通报杭州东站卧轨事件",
@@ -347,14 +395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 307652,
-      "num": 307652,
-      "word": "李昀锐公主抱关晓彤",
-      "onboard_time": 1751779341,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 305213,
       "num": 305213,
       "word": "山东考公人拒绝不了的电视剧来了",
@@ -377,14 +417,6 @@
       "onboard_time": 1751766142,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 272567,
-      "num": 312080,
-      "word": "阿坝车辆坠崖2死5失联家属急寻线索",
-      "onboard_time": 1751778022,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 271582,
@@ -531,28 +563,20 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 209251,
-      "num": 209251,
-      "word": "罗马仕向消费者表示深刻歉意",
-      "onboard_time": 1751779283,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 206831,
-      "num": 206831,
-      "word": "hi6",
-      "onboard_time": 1751780242,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 204947,
       "num": 204947,
       "word": "沈梦辰锦绣芳华吻戏",
       "onboard_time": 1751762239,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203427,
+      "num": 203427,
+      "word": "金泰亨朴宝剑手牵手",
+      "onboard_time": 1751782462,
+      "rank": 18,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 203264,
@@ -635,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188260,
+      "num": 188260,
+      "word": "董力儿子7岁近照",
+      "onboard_time": 1751782341,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187135,
       "num": 187135,
       "word": "BLG败后发文",
@@ -689,6 +721,14 @@
       "onboard_time": 1751775683,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171549,
+      "num": 308821,
+      "word": "五星级酒店摆地摊37分钟售罄",
+      "onboard_time": 1751779883,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 167669,
@@ -811,6 +851,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 148642,
+      "num": 315339,
+      "word": "孙颖莎说球迷加油让自己更有动力",
+      "onboard_time": 1751780421,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146808,
       "num": 146808,
       "word": "以法之名",
@@ -851,6 +899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143603,
+      "num": 143603,
+      "word": "BW2025",
+      "onboard_time": 1751783482,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 138310,
       "num": 138310,
       "word": "国际接吻日",
@@ -889,6 +945,14 @@
       "onboard_time": 1751725042,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 134744,
+      "num": 134744,
+      "word": "王楚钦暖心鼓励迷茫球迷",
+      "onboard_time": 1751782582,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 133712,
@@ -971,14 +1035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126668,
-      "num": 126668,
-      "word": "孙颖莎说球迷加油让自己更有动力",
-      "onboard_time": 1751780421,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 125796,
       "num": 125796,
       "word": "英媒称伊导弹击中以5处军事设施",
@@ -993,6 +1049,14 @@
       "onboard_time": 1751779103,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 125022,
+      "num": 143611,
+      "word": "鹿晗叫我拍阿猛",
+      "onboard_time": 1751782222,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 124136,
@@ -1059,6 +1123,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 117023,
+      "num": 117023,
+      "word": "七旬老人舍不得开空调热到神智不清",
+      "onboard_time": 1751782521,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116962,
       "num": 116962,
       "word": "Bin说问题和失误都挺多的",
@@ -1075,20 +1147,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116655,
+      "num": 116655,
+      "word": "秦皇岛考编人数超高考",
+      "onboard_time": 1751781743,
+      "rank": 36,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 115441,
       "num": 181027,
       "word": "谍战剧关注度越来越高",
       "onboard_time": 1751768122,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 113855,
-      "num": 308821,
-      "word": "五星级酒店摆地摊37分钟售罄",
-      "onboard_time": 1751779883,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113769,
@@ -1179,6 +1251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109056,
+      "num": 109056,
+      "word": "别去塑造恶女",
+      "onboard_time": 1751783002,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 108753,
       "num": 108753,
       "word": "书卷一梦",
@@ -1209,6 +1289,14 @@
       "onboard_time": 1751729844,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106728,
+      "num": 121411,
+      "word": "新裤子在61度气温里跳霹雳舞",
+      "onboard_time": 1751782281,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 106164,
@@ -1323,6 +1411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94103,
+      "num": 94103,
+      "word": "每七天想离一次婚但说不出口",
+      "onboard_time": 1751781442,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 93023,
       "num": 93023,
       "word": "等风热吻你",
@@ -1379,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87106,
+      "num": 87106,
+      "word": "周杰伦回应人生还会有什么烦恼",
+      "onboard_time": 1751783722,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86909,
       "num": 86909,
       "word": "巴黎圣日耳曼2比0拜仁",
@@ -1393,6 +1497,14 @@
       "onboard_time": 1751716762,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84866,
+      "num": 84866,
+      "word": "何润东老婆回应有白发",
+      "onboard_time": 1751783722,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 83447,
@@ -1603,6 +1715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48698,
+      "num": 201103,
+      "word": "原来酷炫的机甲要这么做",
+      "onboard_time": 1751782041,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42903,
       "num": 654348,
       "word": "网警提醒高考花钱改分是骗局",
@@ -1627,7 +1747,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33772,
+      "raw_hot": 34296,
       "num": 584254,
       "word": "世界市长对话上合峰会城市",
       "onboard_time": 1751775922,
