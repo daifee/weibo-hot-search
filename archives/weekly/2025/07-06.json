@@ -1,7 +1,15 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751786641071,
+  "endTime": 1751787515179,
   "band_list": [
+    {
+      "raw_hot": 4282599,
+      "num": 213714,
+      "word": "青岛大学宿管",
+      "onboard_time": 1751784562,
+      "rank": 10,
+      "category": "教育,民生新闻"
+    },
     {
       "raw_hot": 2706470,
       "num": 2706470,
@@ -17,14 +25,6 @@
       "onboard_time": 1751767582,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2285637,
-      "num": 213714,
-      "word": "青岛大学宿管",
-      "onboard_time": 1751784562,
-      "rank": 10,
-      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 1921486,
@@ -443,6 +443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 277249,
+      "num": 204864,
+      "word": "朱珠 妈咪不会营业",
+      "onboard_time": 1751784801,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 271582,
       "num": 271582,
       "word": "陈乔恩分享5天紧急瘦身法",
@@ -483,20 +491,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252076,
+      "num": 203922,
+      "word": "费大厨 本科以下勿扰",
+      "onboard_time": 1751785522,
+      "rank": 22,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 250769,
       "num": 250769,
       "word": "LikeJENNIE爽疯了",
       "onboard_time": 1751724984,
       "rank": 8,
       "category": "演出"
-    },
-    {
-      "raw_hot": 250721,
-      "num": 204864,
-      "word": "朱珠 妈咪不会营业",
-      "onboard_time": 1751784801,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 248925,
@@ -619,12 +627,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 203922,
-      "num": 203922,
-      "word": "费大厨 本科以下勿扰",
-      "onboard_time": 1751785522,
-      "rank": 22,
-      "category": "民生新闻,教育"
+      "raw_hot": 203683,
+      "num": 214905,
+      "word": "七旬老人舍不得开空调热到神智不清",
+      "onboard_time": 1751782521,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 203264,
@@ -787,6 +795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169994,
+      "num": 169994,
+      "word": "陈卓璇变装完全公主级别",
+      "onboard_time": 1751786481,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 167669,
       "num": 167669,
       "word": "女子指甲下长肿瘤被误诊甲沟炎10年",
@@ -833,6 +849,14 @@
       "onboard_time": 1751757737,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159680,
+      "num": 172642,
+      "word": "朱一龙撕漫男但撕的是柯南",
+      "onboard_time": 1751786181,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 158425,
@@ -891,6 +915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153848,
+      "num": 153848,
+      "word": "TizzyT也黑化了",
+      "onboard_time": 1751786841,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150192,
       "num": 159233,
       "word": "南非发生多起针对女性中国公民绑架",
@@ -939,6 +971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144075,
+      "num": 144075,
+      "word": "俄军一口气买了20万台摩托车",
+      "onboard_time": 1751784801,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 144065,
       "num": 264814,
       "word": "血铅异常幼儿园的老师也有症状",
@@ -963,12 +1003,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 139242,
-      "num": 139242,
-      "word": "朱一龙撕漫男但撕的是柯南",
-      "onboard_time": 1751786181,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 139797,
+      "num": 139797,
+      "word": "漂流是致死率最高的旅游安全事故",
+      "onboard_time": 1751785641,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138310,
@@ -1049,14 +1089,6 @@
       "onboard_time": 1751783002,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 131126,
-      "num": 131126,
-      "word": "俄军一口气买了20万台摩托车",
-      "onboard_time": 1751784801,
-      "rank": 32,
-      "category": "国际时政"
     },
     {
       "raw_hot": 130384,
@@ -1155,14 +1187,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 124213,
-      "num": 214905,
-      "word": "七旬老人舍不得开空调热到神智不清",
-      "onboard_time": 1751782521,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124136,
       "num": 145537,
       "word": "李荣浩教6500万岁学员唱情歌",
@@ -1228,19 +1252,11 @@
     },
     {
       "raw_hot": 120062,
-      "num": 120062,
+      "num": 156665,
       "word": "周杰伦回应人生还会有什么烦恼",
       "onboard_time": 1751783722,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 119697,
-      "num": 119697,
-      "word": "陈卓璇变装完全公主级别",
-      "onboard_time": 1751786481,
-      "rank": 36,
-      "category": "音乐"
     },
     {
       "raw_hot": 119198,
@@ -1289,14 +1305,6 @@
       "onboard_time": 1751768122,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 114559,
-      "num": 114559,
-      "word": "漂流是致死率最高的旅游安全事故",
-      "onboard_time": 1751785641,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113769,
@@ -1451,6 +1459,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 106419,
+      "num": 106419,
+      "word": "白鹿和李青月花如月正式说再见",
+      "onboard_time": 1751787023,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106164,
       "num": 106164,
       "word": "罗马仕辟谣后深夜正式宣布停工停产",
@@ -1587,12 +1603,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93741,
+      "num": 93741,
+      "word": "休息日在家什么也没做",
+      "onboard_time": 1751786781,
+      "rank": 46,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 93023,
       "num": 93023,
       "word": "等风热吻你",
       "onboard_time": 1751716762,
       "rank": 37,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 92778,
+      "num": 92778,
+      "word": "要不要把印度踢出群聊",
+      "onboard_time": 1751787203,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 92606,
@@ -1609,6 +1641,14 @@
       "onboard_time": 1751737997,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 92022,
+      "num": 92022,
+      "word": "容祖儿谢霆锋陈奕迅后台合影",
+      "onboard_time": 1751787442,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 91082,
@@ -1753,6 +1793,14 @@
       "onboard_time": 1751726004,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74114,
+      "num": 103216,
+      "word": "刘学义突袭直播",
+      "onboard_time": 1751787442,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 72397,

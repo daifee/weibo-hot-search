@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1751786641071,
+  "endTime": 1751787515179,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1803,6 +1803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 4282599,
+      "num": 213714,
+      "word": "青岛大学宿管",
+      "onboard_time": 1751784562,
+      "rank": 10,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 4271465,
       "num": 4271465,
       "word": "王星越的红包",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1738289537,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 3575207,
-      "num": 317509,
-      "word": "元斌与金赛纶的最后通话记录",
-      "onboard_time": 1741847421,
-      "rank": 13,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/07/06 15:24:01
+本榜单时间：2025/01/01 00:26:38 ~ 2025/07/06 15:38:35
 </p>
 </blockquote>
 <p>
@@ -1365,6 +1365,12 @@ bnd粉丝去世（热度：4621424）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E5%A4%A7%E5%AD%A6%E5%AE%BF%E7%AE%A1%23" target="weibo">
+青岛大学宿管（热度：4282599）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E8%B6%8A%E7%9A%84%E7%BA%A2%E5%8C%85%23" target="weibo">
 王星越的红包（热度：4271465）
 </a>
@@ -1805,12 +1811,6 @@ GAI第一（热度：4228592）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%94%E9%9E%AD%E7%82%AE%E8%BF%9B%E5%8C%96%E7%B2%AA%E6%B1%A0%E7%9A%84%E7%94%B7%E5%AD%A9%E5%B7%B2%E8%A2%AB%E8%AD%A6%E6%96%B9%E5%B8%A6%E8%B5%B0%23" target="weibo">
 扔鞭炮进化粪池的男孩已被警方带走（热度：3591172）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%83%E6%96%8C%E4%B8%8E%E9%87%91%E8%B5%9B%E7%BA%B6%E7%9A%84%E6%9C%80%E5%90%8E%E9%80%9A%E8%AF%9D%E8%AE%B0%E5%BD%95%23" target="weibo">
-元斌与金赛纶的最后通话记录（热度：3575207）
 </a>
 </li>
 
