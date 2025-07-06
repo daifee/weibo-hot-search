@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751815539979,
+  "endTime": 1751816429822,
   "band_list": [
     {
       "raw_hot": 7611710,
@@ -249,6 +249,14 @@
       "onboard_time": 1751731042,
       "rank": 4,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 818327,
+      "num": 347291,
+      "word": "学生称去世宿管大爷平时身体很好",
+      "onboard_time": 1751814143,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 797658,
@@ -819,6 +827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 292252,
+      "num": 323109,
+      "word": "中考720分小伙高二转职高学烹饪",
+      "onboard_time": 1751812344,
+      "rank": 42,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 284347,
       "num": 284347,
       "word": "淮安0比0常州",
@@ -977,14 +993,6 @@
       "onboard_time": 1751806405,
       "rank": 24,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 238783,
-      "num": 238783,
-      "word": "中考720分小伙高二转职高学烹饪",
-      "onboard_time": 1751812344,
-      "rank": 42,
-      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 237493,
@@ -1323,14 +1331,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 198596,
-      "num": 317568,
-      "word": "学生称去世宿管大爷平时身体很好",
-      "onboard_time": 1751814143,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 198183,
       "num": 198183,
       "word": "薛之谦Joker",
@@ -1467,12 +1467,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187288,
+      "num": 187288,
+      "word": "断眉attention万人大合唱给我唱爽了",
+      "onboard_time": 1751815345,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 187135,
       "num": 187135,
       "word": "BLG败后发文",
       "onboard_time": 1751771962,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 185933,
+      "num": 185933,
+      "word": "王俊凯竟然爱吃折耳根",
+      "onboard_time": 1751815105,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 184847,
@@ -1587,6 +1603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172686,
+      "num": 289393,
+      "word": "刘诗诗李庚希同框合照",
+      "onboard_time": 1751813904,
+      "rank": 19,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 172633,
       "num": 172633,
       "word": "STE夏季赛首周冠军",
@@ -1635,14 +1659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 167034,
-      "num": 289393,
-      "word": "刘诗诗李庚希同框合照",
-      "onboard_time": 1751813904,
-      "rank": 19,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 166647,
       "num": 166647,
       "word": "书卷一梦女主人设",
@@ -1673,14 +1689,6 @@
       "onboard_time": 1751775742,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 163602,
-      "num": 163602,
-      "word": "王俊凯竟然爱吃折耳根",
-      "onboard_time": 1751815105,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 163477,
@@ -2123,12 +2131,12 @@
       "category": "海外新闻,动漫"
     },
     {
-      "raw_hot": 136341,
-      "num": 136341,
-      "word": "断眉attention万人大合唱给我唱爽了",
-      "onboard_time": 1751815345,
-      "rank": 38,
-      "category": "演出"
+      "raw_hot": 136824,
+      "num": 136824,
+      "word": "李耕耘直播",
+      "onboard_time": 1751815404,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 136303,
@@ -2241,6 +2249,14 @@
       "onboard_time": 1751792181,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 130652,
+      "num": 130652,
+      "word": "吃冷饮在嘴里含三五秒真的有用",
+      "onboard_time": 1751813364,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 130384,
@@ -2411,6 +2427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 124485,
+      "num": 124485,
+      "word": "鹿晗今天出场造型",
+      "onboard_time": 1751816184,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 124136,
       "num": 145537,
       "word": "李荣浩教6500万岁学员唱情歌",
@@ -2457,14 +2481,6 @@
       "onboard_time": 1751762001,
       "rank": 37,
       "category": "军事"
-    },
-    {
-      "raw_hot": 121815,
-      "num": 121815,
-      "word": "李耕耘直播",
-      "onboard_time": 1751815404,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 121160,
@@ -2585,14 +2601,6 @@
       "onboard_time": 1751768122,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 115426,
-      "num": 115426,
-      "word": "吃冷饮在嘴里含三五秒真的有用",
-      "onboard_time": 1751813364,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 114381,
@@ -2995,6 +3003,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 101014,
+      "num": 186400,
+      "word": "淮安成首支没赢常州的球队",
+      "onboard_time": 1751813063,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100972,
       "num": 100972,
       "word": "刘雨昕任嘉伦双人popping",
@@ -3009,6 +3025,14 @@
       "onboard_time": 1751791163,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 100778,
+      "num": 100778,
+      "word": "陈奕迅谢霆锋搞怪合照",
+      "onboard_time": 1751816125,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 100702,
@@ -3113,6 +3137,14 @@
       "onboard_time": 1751758819,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94948,
+      "num": 252157,
+      "word": "日本呼吁民众做好长期防震准备",
+      "onboard_time": 1751815286,
+      "rank": 21,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 94250,
@@ -3667,6 +3699,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 26679,
+      "num": 300595,
+      "word": "血铅异常幼儿异地血检数据升十多倍",
+      "onboard_time": 1751815944,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26670,
       "num": 71271,
       "word": "易烊千玺礐嶨演唱会先导海报",
@@ -3681,14 +3721,6 @@
       "onboard_time": 1751768841,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 23374,
-      "num": 242082,
-      "word": "日本呼吁民众做好长期防震准备",
-      "onboard_time": 1751815286,
-      "rank": 21,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 19949,
