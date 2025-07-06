@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751776847295,
+  "endTime": 1751777581395,
   "band_list": [
     {
       "raw_hot": 2706470,
@@ -235,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 380628,
+      "num": 380628,
+      "word": "今年三伏只有30天",
+      "onboard_time": 1751773642,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 369157,
       "num": 369157,
       "word": "美国男子肾移植术后体内爬满寄生虫",
@@ -257,14 +265,6 @@
       "onboard_time": 1751708782,
       "rank": 30,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 327308,
-      "num": 327308,
-      "word": "今年三伏只有30天",
-      "onboard_time": 1751773642,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 321396,
@@ -307,20 +307,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 305213,
+      "num": 305213,
+      "word": "山东考公人拒绝不了的电视剧来了",
+      "onboard_time": 1751775623,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 283553,
       "num": 283553,
       "word": "T1战胜BLG",
       "onboard_time": 1751769082,
       "rank": 22,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 282398,
-      "num": 282398,
-      "word": "山东考公人拒绝不了的电视剧来了",
-      "onboard_time": 1751775623,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 281625,
@@ -395,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 247377,
+      "num": 275206,
+      "word": "沈梦辰接住了杨紫的戏",
+      "onboard_time": 1751777001,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 236008,
       "num": 236008,
       "word": "金智秀earthquake舞台",
@@ -444,7 +452,7 @@
     },
     {
       "raw_hot": 212878,
-      "num": 259253,
+      "num": 269275,
       "word": "刘宇宁波演唱会复盘直播",
       "onboard_time": 1751776463,
       "rank": 19,
@@ -481,6 +489,14 @@
       "onboard_time": 1751767103,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203044,
+      "num": 203044,
+      "word": "父亲称为儿子买房骗其在白纸上签字",
+      "onboard_time": 1751776943,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 202995,
@@ -611,6 +627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163287,
+      "num": 163287,
+      "word": "光与夜之恋",
+      "onboard_time": 1751777242,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 162040,
       "num": 162040,
       "word": "你好星期六",
@@ -625,6 +649,14 @@
       "onboard_time": 1751757737,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158425,
+      "num": 158425,
+      "word": "日语N1",
+      "onboard_time": 1751776341,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 158116,
@@ -649,14 +681,6 @@
       "onboard_time": 1751773821,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 155438,
-      "num": 155438,
-      "word": "日语N1",
-      "onboard_time": 1751776341,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 154494,
@@ -707,6 +731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138310,
+      "num": 138310,
+      "word": "国际接吻日",
+      "onboard_time": 1751772444,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137109,
       "num": 137109,
       "word": "日本预言家自曝只画了插画",
@@ -715,20 +747,20 @@
       "category": "海外新闻,动漫"
     },
     {
+      "raw_hot": 136500,
+      "num": 136500,
+      "word": "XUN 大动脉",
+      "onboard_time": 1751775382,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 136303,
       "num": 136303,
       "word": "Faker状态拉满",
       "onboard_time": 1751764822,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 135884,
-      "num": 135884,
-      "word": "国际接吻日",
-      "onboard_time": 1751772444,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 135884,
@@ -760,6 +792,14 @@
       "word": "许言午好想报警又怕来的是孙飞",
       "onboard_time": 1751774481,
       "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 130384,
+      "num": 130384,
+      "word": "六郎玩的都是何惟芳剩下的",
+      "onboard_time": 1751776882,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -819,6 +859,22 @@
       "category": "军事"
     },
     {
+      "raw_hot": 122338,
+      "num": 122338,
+      "word": "小伙追综艺熬2天2夜后抢救了10天",
+      "onboard_time": 1751777361,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121634,
+      "num": 264814,
+      "word": "血铅异常幼儿园的老师也有症状",
+      "onboard_time": 1751776882,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120086,
       "num": 120086,
       "word": "美国得州洪灾死亡上升至49人",
@@ -867,6 +923,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 113432,
+      "num": 113432,
+      "word": "你开始影响我的情绪了",
+      "onboard_time": 1751774303,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 113216,
       "num": 113216,
       "word": "广东明确小产权房一律不得登记",
@@ -876,7 +940,7 @@
     },
     {
       "raw_hot": 112879,
-      "num": 278762,
+      "num": 293291,
       "word": "十三太保都是京东的宝",
       "onboard_time": 1751774722,
       "rank": 31,
@@ -889,14 +953,6 @@
       "onboard_time": 1751757737,
       "rank": 34,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 111448,
-      "num": 111448,
-      "word": "XUN 大动脉",
-      "onboard_time": 1751775382,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 111147,
@@ -929,14 +985,6 @@
       "onboard_time": 1751719222,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 109698,
-      "num": 109698,
-      "word": "你开始影响我的情绪了",
-      "onboard_time": 1751774303,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 109335,
@@ -1083,6 +1131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93265,
+      "num": 289761,
+      "word": "2男子射杀邻居2猫被行拘",
+      "onboard_time": 1751776283,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93023,
       "num": 93023,
       "word": "等风热吻你",
@@ -1169,6 +1225,14 @@
       "onboard_time": 1751721985,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 81331,
+      "num": 303179,
+      "word": "罗马仕和安克召回充电宝超百万",
+      "onboard_time": 1751776882,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80597,
@@ -1347,14 +1411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 45044,
-      "num": 275038,
-      "word": "2男子射杀邻居2猫被行拘",
-      "onboard_time": 1751776283,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 42903,
       "num": 654348,
       "word": "网警提醒高考花钱改分是骗局",
@@ -1403,6 +1459,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 27805,
+      "num": 584254,
+      "word": "世界市长对话上合峰会城市",
+      "onboard_time": 1751775922,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26670,
       "num": 71271,
       "word": "易烊千玺礐嶨演唱会先导海报",
@@ -1441,14 +1505,6 @@
       "onboard_time": 1751744715,
       "rank": 29,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 17219,
-      "num": 584254,
-      "word": "世界市长对话上合峰会城市",
-      "onboard_time": 1751775922,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12499,
