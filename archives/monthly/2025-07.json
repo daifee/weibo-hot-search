@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751880666541,
+  "endTime": 1751881506312,
   "band_list": [
     {
       "raw_hot": 8592534,
@@ -708,7 +708,7 @@
     },
     {
       "raw_hot": 1227903,
-      "num": 360139,
+      "num": 419189,
       "word": "周杰伦老子没时间",
       "onboard_time": 1751869884,
       "rank": 17,
@@ -987,6 +987,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1049854,
+      "num": 1167976,
+      "word": "日军每天生产2吨细菌用于轰炸中国",
+      "onboard_time": 1751874981,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1048386,
       "num": 1167741,
       "word": "中缅泰将全面清剿电诈园区",
@@ -1235,6 +1243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 913286,
+      "num": 913286,
+      "word": "张靓颖 九万字",
+      "onboard_time": 1751875461,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 910231,
       "num": 270793,
       "word": "12岁幼女家中遭强奸妈妈第二天才发现",
@@ -1329,14 +1345,6 @@
       "onboard_time": 1751608764,
       "rank": 12,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 879021,
-      "num": 1140643,
-      "word": "日军每天生产2吨细菌用于轰炸中国",
-      "onboard_time": 1751874981,
-      "rank": 20,
-      "category": "国际时政"
     },
     {
       "raw_hot": 873271,
@@ -1579,6 +1587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 810359,
+      "num": 810359,
+      "word": "彩票中心通报女子中百万遭摊主夺票",
+      "onboard_time": 1751878584,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 808795,
       "num": 396177,
       "word": "小沈阳女儿专辑售卖遇冷",
@@ -1769,14 +1785,6 @@
       "onboard_time": 1751757859,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 756434,
-      "num": 756434,
-      "word": "张靓颖 九万字",
-      "onboard_time": 1751875461,
-      "rank": 8,
-      "category": "演出"
     },
     {
       "raw_hot": 745353,
@@ -2444,7 +2452,7 @@
     },
     {
       "raw_hot": 640857,
-      "num": 356723,
+      "num": 457793,
       "word": "咖啡 缺铁性贫血",
       "onboard_time": 1751869823,
       "rank": 36,
@@ -2545,14 +2553,6 @@
       "onboard_time": 1751415741,
       "rank": 3,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 627690,
-      "num": 627690,
-      "word": "彩票中心通报女子中百万遭摊主夺票",
-      "onboard_time": 1751878584,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 624986,
@@ -2729,6 +2729,14 @@
       "onboard_time": 1751719222,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 592375,
+      "num": 592375,
+      "word": "程潇妈妈遗憾女儿没有读大学",
+      "onboard_time": 1751876062,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 588163,
@@ -3331,19 +3339,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 485645,
-      "num": 485645,
-      "word": "程潇妈妈遗憾女儿没有读大学",
-      "onboard_time": 1751876062,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 481210,
       "num": 481210,
       "word": "动物园被举报用个人码收门票上千万",
       "onboard_time": 1751331442,
       "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 480090,
+      "num": 480090,
+      "word": "丽江失联20岁女大学生遗体被找到",
+      "onboard_time": 1751879302,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -3697,6 +3705,14 @@
       "onboard_time": 1751553083,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 437845,
+      "num": 437845,
+      "word": "铅中毒事件74份血检报告70人超标",
+      "onboard_time": 1751868444,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 436285,
@@ -4715,6 +4731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 346539,
+      "num": 346539,
+      "word": "高校宿舍装空调应全国推广吗",
+      "onboard_time": 1751877383,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 346263,
       "num": 262690,
       "word": "苗苗晒的是大宝小时候",
@@ -5017,14 +5041,6 @@
       "onboard_time": 1751860524,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 326662,
-      "num": 326662,
-      "word": "铅中毒事件74份血检报告70人超标",
-      "onboard_time": 1751868444,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 326526,
@@ -5451,14 +5467,6 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 303565,
-      "num": 303565,
-      "word": "丽江失联20岁女大学生遗体被找到",
-      "onboard_time": 1751879302,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 302707,
       "num": 586366,
       "word": "K1373事故铁路员工不如主动砸玻璃",
@@ -5827,14 +5835,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 284620,
-      "num": 337115,
-      "word": "高校宿舍装空调应全国推广吗",
-      "onboard_time": 1751877383,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 284347,
       "num": 284347,
       "word": "淮安0比0常州",
@@ -5921,6 +5921,14 @@
       "onboard_time": 1751605402,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 281047,
+      "num": 281047,
+      "word": "赴山海",
+      "onboard_time": 1751880202,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 280819,
@@ -6027,12 +6035,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 274738,
+      "num": 274738,
+      "word": "妈妈鹿晗这个黄毛真不一样",
+      "onboard_time": 1751880441,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 274617,
       "num": 248079,
       "word": "鹿晗工作室出图",
       "onboard_time": 1751817203,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 274235,
+      "num": 274235,
+      "word": "汪明荃尊重罗家英放弃化疗",
+      "onboard_time": 1751875522,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 273558,
@@ -6104,14 +6128,6 @@
       "word": "等比例长大的杨紫",
       "onboard_time": 1751603363,
       "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 271305,
-      "num": 271305,
-      "word": "汪明荃尊重罗家英放弃化疗",
-      "onboard_time": 1751875522,
-      "rank": 16,
       "category": "艺人"
     },
     {
@@ -6307,6 +6323,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 263646,
+      "num": 263646,
+      "word": "艾米 老实人",
+      "onboard_time": 1751877922,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 263260,
       "num": 263260,
       "word": "若塔11天前刚举办婚礼",
@@ -6409,6 +6433,14 @@
       "onboard_time": 1751712142,
       "rank": 38,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 258015,
+      "num": 258015,
+      "word": "校方回应网传离世大爷被拖欠工资",
+      "onboard_time": 1751879061,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 257891,
@@ -6595,6 +6627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247551,
+      "num": 379209,
+      "word": "金毛李墩墩主人准备起诉",
+      "onboard_time": 1751880262,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 247467,
       "num": 180917,
       "word": "杨幂吴谨言赵今麦VOGUE红毯图",
@@ -6609,14 +6649,6 @@
       "onboard_time": 1751513423,
       "rank": 24,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 247137,
-      "num": 247137,
-      "word": "校方回应网传离世大爷被拖欠工资",
-      "onboard_time": 1751879061,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 246479,
@@ -7771,6 +7803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 213552,
+      "num": 213552,
+      "word": "书卷一梦豆瓣开分7.0",
+      "onboard_time": 1751880563,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213425,
       "num": 213425,
       "word": "台湾本岛全警戒状态",
@@ -8851,14 +8891,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 196125,
-      "num": 196125,
-      "word": "赴山海",
-      "onboard_time": 1751880202,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 196086,
       "num": 222983,
       "word": "有美航司获准重启对华喷气发动机供应",
@@ -9611,6 +9643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184421,
+      "num": 184421,
+      "word": "曹骏机场 白月光重回巅峰",
+      "onboard_time": 1751881042,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184154,
       "num": 228439,
       "word": "藏海传认证微博爆款剧集",
@@ -9625,6 +9665,14 @@
       "onboard_time": 1751368042,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183720,
+      "num": 183720,
+      "word": "YG就BLACKPINK演唱会争议道歉",
+      "onboard_time": 1751879901,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 183174,
@@ -9913,14 +9961,6 @@
       "onboard_time": 1751863524,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 177511,
-      "num": 177511,
-      "word": "YG就BLACKPINK演唱会争议道歉",
-      "onboard_time": 1751879901,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 177471,
@@ -10251,6 +10291,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 174156,
+      "num": 174156,
+      "word": "我被甲醛房毒了",
+      "onboard_time": 1751878821,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174095,
       "num": 174095,
       "word": "王一博追风者百轮上星",
@@ -10523,14 +10571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 171132,
-      "num": 171132,
-      "word": "书卷一梦豆瓣开分7.0",
-      "onboard_time": 1751880563,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 171093,
       "num": 171093,
       "word": "印度网友被嘲讽",
@@ -10561,6 +10601,14 @@
       "onboard_time": 1751692881,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170264,
+      "num": 170264,
+      "word": "旅客绑藏168张死亡搁浅2光盘进境",
+      "onboard_time": 1751875762,
+      "rank": 37,
+      "category": "民生新闻,游戏"
     },
     {
       "raw_hot": 169994,
@@ -10656,14 +10704,6 @@
       "word": "广州地铁限制充电宝容量及数量",
       "onboard_time": 1751335701,
       "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 168280,
-      "num": 168280,
-      "word": "金毛李墩墩主人准备起诉",
-      "onboard_time": 1751880262,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -11347,14 +11387,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 160048,
-      "num": 255637,
-      "word": "艾米 老实人",
-      "onboard_time": 1751877922,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 160002,
       "num": 160002,
       "word": "龙族定档预告全是名台词",
@@ -11819,6 +11851,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 154416,
+      "num": 154416,
+      "word": "瘦子一天的食物",
+      "onboard_time": 1751879001,
+      "rank": 45,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 154408,
       "num": 154408,
       "word": "云合",
@@ -12145,14 +12185,6 @@
       "onboard_time": 1751523742,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 151584,
-      "num": 151584,
-      "word": "旅客绑藏168张死亡搁浅2光盘进境",
-      "onboard_time": 1751875762,
-      "rank": 37,
-      "category": "民生新闻,游戏"
     },
     {
       "raw_hot": 151504,
@@ -13129,6 +13161,14 @@
       "onboard_time": 1751716582,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141267,
+      "num": 211501,
+      "word": "王楚钦对对手说goodmatch",
+      "onboard_time": 1751880382,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 140818,
@@ -14907,6 +14947,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 126227,
+      "num": 126227,
+      "word": "王楚钦金句再现",
+      "onboard_time": 1751880804,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126155,
       "num": 126155,
       "word": "书卷一梦销量TOP1的皮肤",
@@ -14969,6 +15017,14 @@
       "onboard_time": 1751369723,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 125809,
+      "num": 125809,
+      "word": "731部队常备40个活人用于实验",
+      "onboard_time": 1751880804,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 125796,
@@ -15065,14 +15121,6 @@
       "onboard_time": 1751587041,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 125017,
-      "num": 125017,
-      "word": "王楚钦对对手说goodmatch",
-      "onboard_time": 1751880382,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 124991,
@@ -15603,14 +15651,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 121066,
-      "num": 121066,
-      "word": "妈妈鹿晗这个黄毛真不一样",
-      "onboard_time": 1751880441,
-      "rank": 40,
-      "category": "演出"
-    },
-    {
       "raw_hot": 120989,
       "num": 206990,
       "word": "热射病的4种高危人群",
@@ -15961,6 +16001,14 @@
       "onboard_time": 1751444363,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 118488,
+      "num": 118488,
+      "word": "俄乌冲突打不赢停不下",
+      "onboard_time": 1751879780,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 118346,
@@ -17171,14 +17219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 109485,
-      "num": 109485,
-      "word": "俄乌冲突打不赢停不下",
-      "onboard_time": 1751879780,
-      "rank": 43,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 109455,
       "num": 109455,
       "word": "李人骏其实精得很",
@@ -17883,14 +17923,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 103781,
-      "num": 103781,
-      "word": "瘦子一天的食物",
-      "onboard_time": 1751879001,
-      "rank": 45,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 103739,
       "num": 103739,
       "word": "阴阳师",
@@ -18017,14 +18049,6 @@
       "onboard_time": 1751367802,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 102848,
-      "num": 121467,
-      "word": "我被甲醛房毒了",
-      "onboard_time": 1751878821,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102740,
@@ -18545,6 +18569,14 @@
       "onboard_time": 1751784081,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98878,
+      "num": 819564,
+      "word": "88年了我们不曾忘不能忘不敢忘",
+      "onboard_time": 1751880022,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 98775,
@@ -21451,6 +21483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48241,
+      "num": 249642,
+      "word": "当地回应自来水每月保底收费12元",
+      "onboard_time": 1751880081,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48145,
       "num": 117879,
       "word": "用一根筷子实现0成本变美",
@@ -21705,14 +21745,6 @@
       "onboard_time": 1751870484,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43414,
-      "num": 759722,
-      "word": "88年了我们不曾忘不能忘不敢忘",
-      "onboard_time": 1751880022,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 43018,
@@ -22073,6 +22105,14 @@
       "onboard_time": 1751550263,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 36206,
+      "num": 346604,
+      "word": "特朗普称得州洪灾是拜登的错",
+      "onboard_time": 1751880683,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 36171,
@@ -22547,14 +22587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 28789,
-      "num": 249642,
-      "word": "当地回应自来水每月保底收费12元",
-      "onboard_time": 1751880081,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 28441,
       "num": 34929,
       "word": "印度计划对美征收报复性关税",
@@ -22761,6 +22793,14 @@
       "onboard_time": 1751654776,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 26324,
+      "num": 184946,
+      "word": "程序员深圳车居3年多省下10万",
+      "onboard_time": 1751881283,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26027,
