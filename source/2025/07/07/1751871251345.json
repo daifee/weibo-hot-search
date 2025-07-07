@@ -1,0 +1,410 @@
+{
+  "runTime": 1751871251345,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1640289,
+        "num": 1640289,
+        "word": "青岛大学已开始装空调",
+        "onboard_time": 1751866706,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 733067,
+        "num": 733067,
+        "word": "果然高铁F座最受欢迎",
+        "onboard_time": 1751853563,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35513,
+        "num": 671287,
+        "word": "七七事变背后的历史真相",
+        "onboard_time": 1751818223,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 651409,
+        "num": 651409,
+        "word": "长期熬夜和11点前睡觉的区别",
+        "onboard_time": 1751864006,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 579542,
+        "num": 579542,
+        "word": "警方回应女子中百万大奖遭摊主夺票",
+        "onboard_time": 1751868384,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 458018,
+        "num": 458018,
+        "word": "男生与女友同居太兴奋后空翻摔死",
+        "onboard_time": 1751816663,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 383437,
+        "num": 383437,
+        "word": "中百万大奖女子与摊主协商达成一致",
+        "onboard_time": 1751869584,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 371073,
+        "num": 371073,
+        "word": "刘诗诗朴宝剑李庚希同框",
+        "onboard_time": 1751866104,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 316337,
+        "num": 316337,
+        "word": "中医认证最好的药就是酒",
+        "onboard_time": 1751870543,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 314032,
+        "num": 314032,
+        "word": "差点没认出杨紫和胡歌",
+        "onboard_time": 1751866224,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 966458,
+        "num": 312068,
+        "word": "小英感染幽门螺旋杆菌",
+        "onboard_time": 1751865264,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 729143,
+        "num": 309178,
+        "word": "周杰伦老子没时间",
+        "onboard_time": 1751869884,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 582714,
+        "num": 301299,
+        "word": "尹子维徐冬冬吵架了",
+        "onboard_time": 1751867364,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357031,
+        "num": 295502,
+        "word": "kpop最低学历",
+        "onboard_time": 1751863225,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295199,
+        "num": 295199,
+        "word": "频繁刷手机可能导致脑腐",
+        "onboard_time": 1751864367,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331026,
+        "num": 293421,
+        "word": "装柜8小时挣了3400元",
+        "onboard_time": 1751867544,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287857,
+        "num": 287857,
+        "word": "安吉终于同意剪发啦",
+        "onboard_time": 1751869643,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250916,
+        "num": 250916,
+        "word": "管乐和小婉生命中重要的三个时刻",
+        "onboard_time": 1751866283,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125223,
+        "num": 243177,
+        "word": "时代峰峻成立海南新公司",
+        "onboard_time": 1751867245,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43479,
+        "num": 241902,
+        "word": "长沙急救中心1周因中暑等出车105趟",
+        "onboard_time": 1751870484,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241684,
+        "num": 241684,
+        "word": "刘诗诗朴宝剑姐狗感",
+        "onboard_time": 1751868984,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211555,
+        "num": 211555,
+        "word": "三黄片现金买18元刷医保26元",
+        "onboard_time": 1751865924,
+        "rank": 21,
+        "category": "舆论监督,健康医疗"
+      },
+      {
+        "raw_hot": 209655,
+        "num": 209655,
+        "word": "拔牙 血栓",
+        "onboard_time": 1751862024,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 182622,
+        "num": 182622,
+        "word": "咖啡 缺铁性贫血",
+        "onboard_time": 1751869823,
+        "rank": 23,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 29381,
+        "num": 171321,
+        "word": "西洋参多种养生喝法",
+        "onboard_time": 1751870904,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 113642,
+        "num": 167922,
+        "word": "利剑玫瑰即将央视播出",
+        "onboard_time": 1751870723,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113310,
+        "num": 167359,
+        "word": "秀智挂了labubu",
+        "onboard_time": 1751867724,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167086,
+        "num": 167086,
+        "word": "台湾本岛全警戒状态",
+        "onboard_time": 1751863285,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95331,
+        "num": 166078,
+        "word": "陈震",
+        "onboard_time": 1751861783,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 30820,
+        "num": 164894,
+        "word": "烟台教育局因高温督促高校放假",
+        "onboard_time": 1751870484,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215678,
+        "num": 164099,
+        "word": "过年做的美甲留到了现在",
+        "onboard_time": 1751869823,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75668,
+        "num": 162557,
+        "word": "成毅禹司凤打戏混剪",
+        "onboard_time": 1751870964,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89610,
+        "num": 161657,
+        "word": "缅怀抗战先烈",
+        "onboard_time": 1751867963,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189126,
+        "num": 160301,
+        "word": "妈妈一定在天上急得团团转",
+        "onboard_time": 1751870364,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159052,
+        "num": 159052,
+        "word": "在上海花了一千块吃的汤泡饭",
+        "onboard_time": 1751865804,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 155809,
+        "num": 155809,
+        "word": "不点赞朋友圈是嫉妒吗",
+        "onboard_time": 1751864124,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143241,
+        "num": 143241,
+        "word": "铅中毒事件74份血检报告70人超标",
+        "onboard_time": 1751868444,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139765,
+        "num": 139765,
+        "word": "女子躲商场过夜一大早再扫货偷盗",
+        "onboard_time": 1751868804,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134482,
+        "num": 134482,
+        "word": "实付2元点外卖被偷气得直接报警",
+        "onboard_time": 1751856143,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129245,
+        "num": 129245,
+        "word": "我是来避暑的 不是来中暑的",
+        "onboard_time": 1751870364,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123622,
+        "num": 123622,
+        "word": "四川雅安发生泥石流有车辆人员被埋",
+        "onboard_time": 1751870782,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84311,
+        "num": 122988,
+        "word": "赴山海暑期档播出",
+        "onboard_time": 1751869403,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122838,
+        "num": 122838,
+        "word": "女网红海边徒手捡起致命鸡心螺",
+        "onboard_time": 1751850743,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121797,
+        "num": 121797,
+        "word": "热射病 不出汗",
+        "onboard_time": 1751853502,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 121638,
+        "num": 121638,
+        "word": "宋轶扶起摔倒粉丝",
+        "onboard_time": 1751870484,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117085,
+        "num": 117085,
+        "word": "学生在奈雪兼职被说18岁这么显老",
+        "onboard_time": 1751858544,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116675,
+        "num": 116675,
+        "word": "央视网评列车故障乘客砸窗事件",
+        "onboard_time": 1751870664,
+        "rank": 46,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 103667,
+        "num": 103667,
+        "word": "套内120平硬装12万装出来的家",
+        "onboard_time": 1751868203,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102734,
+        "num": 102734,
+        "word": "纪念全民族抗战爆发88周年",
+        "onboard_time": 1751856983,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102712,
+        "num": 102712,
+        "word": "青岛大学毕业典礼",
+        "onboard_time": 1751854464,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#铭记历史尊崇英雄#"
+    }
+  }
+}
