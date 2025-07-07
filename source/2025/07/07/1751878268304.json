@@ -1,0 +1,410 @@
+{
+  "runTime": 1751878268304,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 772108,
+        "num": 1123537,
+        "word": "中百万大奖女子与摊主协商达成一致",
+        "onboard_time": 1751869584,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 583668,
+        "num": 583668,
+        "word": "陈梦妈妈瞒着家人偷户口本结婚",
+        "onboard_time": 1751873244,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26227,
+        "num": 457169,
+        "word": "七七事变背后的历史真相",
+        "onboard_time": 1751818223,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 453449,
+        "num": 453449,
+        "word": "程潇妈妈遗憾女儿没有读大学",
+        "onboard_time": 1751876062,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 419264,
+        "num": 419264,
+        "word": "仅西安一家医院至少70名幼儿血铅超标",
+        "onboard_time": 1751873303,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 410642,
+        "num": 410642,
+        "word": "果然高铁F座最受欢迎",
+        "onboard_time": 1751853563,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 434289,
+        "num": 410164,
+        "word": "张靓颖 九万字",
+        "onboard_time": 1751875461,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 408779,
+        "num": 408779,
+        "word": "济南暴雨",
+        "onboard_time": 1751872343,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 374427,
+        "num": 374427,
+        "word": "法国阵风战机卖不出去竟赖中国",
+        "onboard_time": 1751872464,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 312250,
+        "num": 312250,
+        "word": "日军每天生产2吨细菌用于轰炸中国",
+        "onboard_time": 1751874981,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1216024,
+        "num": 311205,
+        "word": "宿管大爷去世与高温环境关联需查清",
+        "onboard_time": 1751872283,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 749139,
+        "num": 303068,
+        "word": "警方回应金毛疑在餐馆蹭空调被打死",
+        "onboard_time": 1751872283,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 698655,
+        "num": 299712,
+        "word": "周杰伦老子没时间",
+        "onboard_time": 1751869884,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 640857,
+        "num": 292679,
+        "word": "咖啡 缺铁性贫血",
+        "onboard_time": 1751869823,
+        "rank": 13,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 130325,
+        "num": 285316,
+        "word": "青岛大学回应宿管大爷离世后装空调",
+        "onboard_time": 1751876421,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 562620,
+        "num": 279330,
+        "word": "妈妈一定在天上急得团团转",
+        "onboard_time": 1751870364,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 552396,
+        "num": 273922,
+        "word": "小英感染幽门螺旋杆菌",
+        "onboard_time": 1751865264,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 272061,
+        "num": 272061,
+        "word": "长期熬夜和11点前睡觉的区别",
+        "onboard_time": 1751864006,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 271305,
+        "num": 271305,
+        "word": "汪明荃尊重罗家英放弃化疗",
+        "onboard_time": 1751875522,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102050,
+        "num": 262897,
+        "word": "比防晒霜牛N倍的东西是",
+        "onboard_time": 1751875401,
+        "rank": 19,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 259899,
+        "num": 259899,
+        "word": "天水与西安检测血铅数据相差近20倍",
+        "onboard_time": 1751876482,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236618,
+        "num": 236618,
+        "word": "跳绳两个月瘦了20斤",
+        "onboard_time": 1751872944,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 212049,
+        "num": 212049,
+        "word": "kpop最低学历",
+        "onboard_time": 1751863225,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209670,
+        "num": 209670,
+        "word": "装柜8小时挣了3400元",
+        "onboard_time": 1751867544,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199681,
+        "num": 199681,
+        "word": "尹子维徐冬冬吵架了",
+        "onboard_time": 1751867364,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184885,
+        "num": 184885,
+        "word": "铅中毒事件74份血检报告70人超标",
+        "onboard_time": 1751868444,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104210,
+        "num": 170307,
+        "word": "周杰伦厦门演唱会500元只能看大屏",
+        "onboard_time": 1751876783,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 97899,
+        "num": 168041,
+        "word": "周也你好星期六上班路透",
+        "onboard_time": 1751877204,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165806,
+        "num": 165806,
+        "word": "中方回应特朗普威胁加征新关税",
+        "onboard_time": 1751875881,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 62889,
+        "num": 160136,
+        "word": "山东多所高校将启动安装空调",
+        "onboard_time": 1751877681,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158603,
+        "num": 158603,
+        "word": "金毛李墩墩主人发声",
+        "onboard_time": 1751874561,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138790,
+        "num": 138790,
+        "word": "航母守护灯火里的祖国看不够的美",
+        "onboard_time": 1751878162,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 135600,
+        "num": 135600,
+        "word": "官方回应血铅检验两地数据差距大",
+        "onboard_time": 1751875281,
+        "rank": 32,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 135423,
+        "num": 135423,
+        "word": "拉伸对直腿细腿的杀伤力",
+        "onboard_time": 1751872405,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 133014,
+        "num": 133014,
+        "word": "警方回应女子中百万大奖遭摊主夺票",
+        "onboard_time": 1751868384,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131424,
+        "num": 131424,
+        "word": "过年做的美甲留到了现在",
+        "onboard_time": 1751869823,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131178,
+        "num": 131178,
+        "word": "台湾本岛全警戒状态",
+        "onboard_time": 1751863285,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122120,
+        "num": 122120,
+        "word": "艾米 老实人",
+        "onboard_time": 1751877922,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24679,
+        "num": 117730,
+        "word": "日本天价米荒",
+        "onboard_time": 1751874442,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 50130,
+        "num": 117228,
+        "word": "常州发布回应进球无效",
+        "onboard_time": 1751872643,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117124,
+        "num": 117124,
+        "word": "刘诗诗朴宝剑姐狗感",
+        "onboard_time": 1751868984,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112061,
+        "num": 112061,
+        "word": "南昌水煮",
+        "onboard_time": 1751872824,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 110681,
+        "num": 110681,
+        "word": "频繁刷手机可能导致脑腐",
+        "onboard_time": 1751864367,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110375,
+        "num": 110375,
+        "word": "高校宿舍装空调应全国推广吗",
+        "onboard_time": 1751877383,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108072,
+        "num": 108072,
+        "word": "夏日清爽小短甲",
+        "onboard_time": 1751878102,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 102976,
+        "num": 102976,
+        "word": "中百万大奖遭摊主夺票女子已顺利兑奖",
+        "onboard_time": 1751878041,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95733,
+        "num": 95733,
+        "word": "上海套内39平的四口之家",
+        "onboard_time": 1751875043,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95567,
+        "num": 95567,
+        "word": "让河南人说棉袄 他们会给你卖萌的",
+        "onboard_time": 1751874981,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90710,
+        "num": 94608,
+        "word": "差点没认出杨紫和胡歌",
+        "onboard_time": 1751866224,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90608,
+        "num": 94415,
+        "word": "迪丽热巴聂九罗上线",
+        "onboard_time": 1751871385,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#今天重温总书记这番话#"
+    }
+  }
+}
