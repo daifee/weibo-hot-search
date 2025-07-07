@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/07/07 07:41:25
+本榜单时间：2025/01/01 00:26:38 ~ 2025/07/07 10:09:11
 </p>
 </blockquote>
 <p>
@@ -821,6 +821,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%BD%E9%98%B3%E4%B8%80%E9%A5%AD%E5%BA%97%E7%81%AB%E7%81%BE22%E6%AD%BB3%E4%BC%A4%23" target="weibo">
 辽阳一饭店火灾22死3伤（热度：8661549）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E5%A4%A7%E5%AD%A6%E5%87%8C%E6%99%A8%E5%8F%91%E6%83%85%E5%86%B5%E8%AF%B4%E6%98%8E%23" target="weibo">
+青岛大学凌晨发情况说明（热度：8592534）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ GAI第一（热度：4228592）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%8F%B2%20%E5%A6%82%E5%90%AC%E4%BB%99%E4%B9%90%E8%80%B3%E6%9A%82%E6%98%8E%23" target="weibo">
 王菲 如听仙乐耳暂明（热度：3600743）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%B8%81%E7%A6%B9%E5%85%AE%E6%89%8B%E6%8C%BD%E6%89%8B%23" target="weibo">
-虞书欣丁禹兮手挽手（热度：3594619）
 </a>
 </li>
 

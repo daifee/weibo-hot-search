@@ -1,7 +1,15 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751845285251,
+  "endTime": 1751854151171,
   "band_list": [
+    {
+      "raw_hot": 8592534,
+      "num": 8592534,
+      "word": "青岛大学凌晨发情况说明",
+      "onboard_time": 1751843478,
+      "rank": 5,
+      "category": "辟谣/通报"
+    },
     {
       "raw_hot": 7611710,
       "num": 7611710,
@@ -65,14 +73,6 @@
       "onboard_time": 1751805684,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2085627,
-      "num": 2085627,
-      "word": "青岛大学凌晨发情况说明",
-      "onboard_time": 1751843478,
-      "rank": 5,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1921486,
@@ -161,6 +161,14 @@
       "onboard_time": 1751793022,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1228682,
+      "num": 1228682,
+      "word": "女网红海边徒手捡起致命鸡心螺",
+      "onboard_time": 1751850743,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1225523,
@@ -427,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 623236,
+      "num": 623236,
+      "word": "烟台南山学院",
+      "onboard_time": 1751850322,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 619179,
       "num": 619179,
       "word": "G社拍的刘诗诗",
@@ -443,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 577336,
+      "num": 577336,
+      "word": "舅舅回应16个外甥连续5年来过暑假",
+      "onboard_time": 1751847261,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 558333,
       "num": 558333,
       "word": "小伙脖子肿痛开刀取出7颗瓜子",
@@ -456,6 +480,14 @@
       "word": "28岁女生辞职改行被全家托举",
       "onboard_time": 1751772984,
       "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 534508,
+      "num": 534508,
+      "word": "青岛大学宿管阿姨称8个月没发工资",
+      "onboard_time": 1751852063,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -512,6 +544,14 @@
       "word": "阿坝车辆坠崖2死5失联家属急寻线索",
       "onboard_time": 1751778022,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 477660,
+      "num": 477660,
+      "word": "731部队罪行最新铁证",
+      "onboard_time": 1751850262,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -651,6 +691,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 398482,
+      "num": 398482,
+      "word": "青岛大学将积极配合开展调查",
+      "onboard_time": 1751853682,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 393473,
       "num": 269856,
       "word": "朱珠 妈咪不会营业",
@@ -785,6 +833,14 @@
       "onboard_time": 1751808745,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 322900,
+      "num": 322900,
+      "word": "七七事变88年了",
+      "onboard_time": 1751818164,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 321396,
@@ -923,6 +979,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 278851,
+      "num": 278851,
+      "word": "日军官因找借口挑起卢沟桥事变升职",
+      "onboard_time": 1751805205,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 274617,
       "num": 248079,
       "word": "鹿晗工作室出图",
@@ -955,12 +1019,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 269517,
-      "num": 269517,
-      "word": "日军官因找借口挑起卢沟桥事变升职",
-      "onboard_time": 1751805205,
-      "rank": 23,
-      "category": "国际时政"
+      "raw_hot": 269567,
+      "num": 236366,
+      "word": "三伏天每天洗几次澡最好",
+      "onboard_time": 1751849602,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 269491,
@@ -969,6 +1033,14 @@
       "onboard_time": 1751757798,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 266967,
+      "num": 266967,
+      "word": "赛里木湖",
+      "onboard_time": 1751846301,
+      "rank": 14,
+      "category": "旅游"
     },
     {
       "raw_hot": 266690,
@@ -1051,12 +1123,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 249952,
-      "num": 291441,
-      "word": "七七事变88年了",
-      "onboard_time": 1751818164,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 250591,
+      "num": 250591,
+      "word": "特朗普称马斯克成立新政党荒谬",
+      "onboard_time": 1751850081,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 249560,
@@ -1065,6 +1137,14 @@
       "onboard_time": 1751816423,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 249187,
+      "num": 249187,
+      "word": "热射病 不出汗",
+      "onboard_time": 1751853502,
+      "rank": 16,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 248925,
@@ -1081,6 +1161,14 @@
       "onboard_time": 1751732482,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 243456,
+      "num": 458009,
+      "word": "赵立坚推介王一博万物可爱",
+      "onboard_time": 1751851284,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 243121,
@@ -1113,6 +1201,14 @@
       "onboard_time": 1751789480,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 237067,
+      "num": 237067,
+      "word": "深圳地铁1号线",
+      "onboard_time": 1751851943,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 236008,
@@ -1171,6 +1267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 229580,
+      "num": 229580,
+      "word": "李雪琴看起来又瘦了",
+      "onboard_time": 1751850623,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 228481,
       "num": 228481,
       "word": "李嘉格坚持10年替父母规划过冬地点",
@@ -1201,6 +1305,14 @@
       "onboard_time": 1751793863,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 224164,
+      "num": 224164,
+      "word": "果然高铁F座最受欢迎",
+      "onboard_time": 1751853563,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 224066,
@@ -1627,6 +1739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184553,
+      "num": 430861,
+      "word": "侵华日军口述罪证视频曝光",
+      "onboard_time": 1751850383,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182912,
       "num": 182912,
       "word": "南珩一步将相一步悲凉",
@@ -1747,6 +1867,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 170984,
+      "num": 170984,
+      "word": "重庆一水库水位下降现宋代摩崖造像",
+      "onboard_time": 1751849181,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169994,
       "num": 169994,
       "word": "陈卓璇变装完全公主级别",
@@ -1809,6 +1937,14 @@
       "onboard_time": 1751815286,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 164977,
+      "num": 452545,
+      "word": "被爸妈认证的帅气和美貌",
+      "onboard_time": 1751852183,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 163903,
@@ -2019,6 +2155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153035,
+      "num": 153035,
+      "word": "律师解读宿管去世校方是否担责",
+      "onboard_time": 1751850201,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152572,
       "num": 152572,
       "word": "一诺达成3300总击杀",
@@ -2153,6 +2297,14 @@
       "onboard_time": 1751802926,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 145996,
+      "num": 145996,
+      "word": "保安室的灯不再亮了",
+      "onboard_time": 1751851883,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145836,
@@ -2395,6 +2547,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 132088,
+      "num": 132088,
+      "word": "李斌称蔚来资产负债表非常干净",
+      "onboard_time": 1751853682,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 131333,
       "num": 182469,
       "word": "别去塑造恶女",
@@ -2571,6 +2731,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 125511,
+      "num": 125511,
+      "word": "马斯克特朗普矛盾再升级",
+      "onboard_time": 1751853682,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 125127,
       "num": 125127,
       "word": "仙逆动画",
@@ -2635,6 +2803,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 121973,
+      "num": 121973,
+      "word": "壶口瀑布再现90版50元人民币壮阔景象",
+      "onboard_time": 1751854043,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121160,
       "num": 149762,
       "word": "二重赋格定档",
@@ -2649,6 +2825,14 @@
       "onboard_time": 1751779341,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120201,
+      "num": 120201,
+      "word": "山东舰编队访港",
+      "onboard_time": 1751827995,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 120086,
@@ -2673,6 +2857,14 @@
       "onboard_time": 1751793983,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119583,
+      "num": 237916,
+      "word": "杨紫脖子上的青筋都哭出来了",
+      "onboard_time": 1751830514,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 119198,
@@ -2795,6 +2987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 113342,
+      "num": 113342,
+      "word": "墨西哥2比1逆转美国夺冠",
+      "onboard_time": 1751853742,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113216,
       "num": 113216,
       "word": "广东明确小产权房一律不得登记",
@@ -2825,6 +3025,14 @@
       "onboard_time": 1751757737,
       "rank": 34,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 112464,
+      "num": 112464,
+      "word": "小暑大暑 上蒸下煮",
+      "onboard_time": 1751852364,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111385,
@@ -3115,14 +3323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102672,
-      "num": 209063,
-      "word": "杨紫脖子上的青筋都哭出来了",
-      "onboard_time": 1751830514,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 102263,
       "num": 102263,
       "word": "小猫上厕所用力过猛有点开线了",
@@ -3209,6 +3409,14 @@
       "onboard_time": 1751727203,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 100862,
+      "num": 190729,
+      "word": "药王孙思邈留下的速睡方",
+      "onboard_time": 1751850623,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 100785,
@@ -3332,7 +3540,7 @@
     },
     {
       "raw_hot": 95768,
-      "num": 161443,
+      "num": 598859,
       "word": "七七事变背后的历史真相",
       "onboard_time": 1751818223,
       "rank": 41,
@@ -3355,12 +3563,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 94378,
+      "num": 94378,
+      "word": "今日之中国再不是88年前的中国",
+      "onboard_time": 1751847622,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 94250,
       "num": 124755,
       "word": "孙颖莎张向晶合影",
       "onboard_time": 1751778622,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93973,
+      "num": 93973,
+      "word": "山东高温天热得一片红",
+      "onboard_time": 1751847562,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93741,
@@ -3499,6 +3723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85951,
+      "num": 168693,
+      "word": "王俊凯拍照 可有可无吧",
+      "onboard_time": 1751851704,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84966,
       "num": 84966,
       "word": "南京vs苏州",
@@ -3561,6 +3793,14 @@
       "onboard_time": 1751732842,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 80057,
+      "num": 168693,
+      "word": "Jennie舞台",
+      "onboard_time": 1751849962,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 79987,
@@ -3707,6 +3947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68907,
+      "num": 123283,
+      "word": "保罗最多再打一年",
+      "onboard_time": 1751853023,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67832,
       "num": 94334,
       "word": "17岁苏超球员被替换下场一步三回头",
@@ -3825,14 +4073,6 @@
       "onboard_time": 1751822058,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 54376,
-      "num": 66198,
-      "word": "山东舰编队访港",
-      "onboard_time": 1751827995,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 53678,

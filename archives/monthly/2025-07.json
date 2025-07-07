@@ -1,7 +1,15 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751845285251,
+  "endTime": 1751854151171,
   "band_list": [
+    {
+      "raw_hot": 8592534,
+      "num": 8592534,
+      "word": "青岛大学凌晨发情况说明",
+      "onboard_time": 1751843478,
+      "rank": 5,
+      "category": "辟谣/通报"
+    },
     {
       "raw_hot": 7611710,
       "num": 7611710,
@@ -193,14 +201,6 @@
       "onboard_time": 1751635467,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2085627,
-      "num": 2085627,
-      "word": "青岛大学凌晨发情况说明",
-      "onboard_time": 1751843478,
-      "rank": 5,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 2074237,
@@ -657,6 +657,14 @@
       "onboard_time": 1751513660,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1228682,
+      "num": 1228682,
+      "word": "女网红海边徒手捡起致命鸡心螺",
+      "onboard_time": 1751850743,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1225523,
@@ -2331,6 +2339,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 623236,
+      "num": 623236,
+      "word": "烟台南山学院",
+      "onboard_time": 1751850322,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 620992,
       "num": 620992,
       "word": "民航局回应为何发布充电宝紧急通知",
@@ -2513,6 +2529,14 @@
       "onboard_time": 1751719704,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 577336,
+      "num": 577336,
+      "word": "舅舅回应16个外甥连续5年来过暑假",
+      "onboard_time": 1751847261,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 574464,
@@ -2745,6 +2769,14 @@
       "onboard_time": 1751358924,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 534508,
+      "num": 534508,
+      "word": "青岛大学宿管阿姨称8个月没发工资",
+      "onboard_time": 1751852063,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 530460,
@@ -3064,6 +3096,14 @@
       "word": "阿坝车辆坠崖2死5失联家属急寻线索",
       "onboard_time": 1751778022,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 477660,
+      "num": 477660,
+      "word": "731部队罪行最新铁证",
+      "onboard_time": 1751850262,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -3737,6 +3777,14 @@
       "onboard_time": 1751706201,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 398482,
+      "num": 398482,
+      "word": "青岛大学将积极配合开展调查",
+      "onboard_time": 1751853682,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 397970,
@@ -4683,6 +4731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 322900,
+      "num": 322900,
+      "word": "七七事变88年了",
+      "onboard_time": 1751818164,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 322892,
       "num": 267130,
       "word": "质疑虐猫考生漠视生命并非追杀",
@@ -5467,6 +5523,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 278851,
+      "num": 278851,
+      "word": "日军官因找借口挑起卢沟桥事变升职",
+      "onboard_time": 1751805205,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 278827,
       "num": 394153,
       "word": "张凌赫王楚然路透爸爸妈妈级别",
@@ -5635,20 +5699,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 269567,
+      "num": 236366,
+      "word": "三伏天每天洗几次澡最好",
+      "onboard_time": 1751849602,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 269528,
       "num": 458931,
       "word": "李人骏以为是饭局结果被做局",
       "onboard_time": 1751345362,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 269517,
-      "num": 269517,
-      "word": "日军官因找借口挑起卢沟桥事变升职",
-      "onboard_time": 1751805205,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 269491,
@@ -5689,6 +5753,14 @@
       "onboard_time": 1751605342,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 266967,
+      "num": 266967,
+      "word": "赛里木湖",
+      "onboard_time": 1751846301,
+      "rank": 14,
+      "category": "旅游"
     },
     {
       "raw_hot": 266747,
@@ -5987,12 +6059,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 249952,
-      "num": 291441,
-      "word": "七七事变88年了",
-      "onboard_time": 1751818164,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 250591,
+      "num": 250591,
+      "word": "特朗普称马斯克成立新政党荒谬",
+      "onboard_time": 1751850081,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 249602,
@@ -6009,6 +6081,14 @@
       "onboard_time": 1751816423,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 249187,
+      "num": 249187,
+      "word": "热射病 不出汗",
+      "onboard_time": 1751853502,
+      "rank": 16,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 248888,
@@ -6113,6 +6193,14 @@
       "onboard_time": 1751554883,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 243456,
+      "num": 458009,
+      "word": "赵立坚推介王一博万物可爱",
+      "onboard_time": 1751851284,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 243369,
@@ -6257,6 +6345,14 @@
       "onboard_time": 1751789480,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 237067,
+      "num": 237067,
+      "word": "深圳地铁1号线",
+      "onboard_time": 1751851943,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 236762,
@@ -6481,6 +6577,14 @@
       "onboard_time": 1751605942,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 229580,
+      "num": 229580,
+      "word": "李雪琴看起来又瘦了",
+      "onboard_time": 1751850623,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 229377,
@@ -6737,6 +6841,14 @@
       "onboard_time": 1751342482,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 224164,
+      "num": 224164,
+      "word": "果然高铁F座最受欢迎",
+      "onboard_time": 1751853563,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 224080,
@@ -8851,6 +8963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184553,
+      "num": 430861,
+      "word": "侵华日军口述罪证视频曝光",
+      "onboard_time": 1751850383,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184453,
       "num": 184453,
       "word": "以法之名三兄弟真预言家被刀",
@@ -9723,6 +9843,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 170984,
+      "num": 170984,
+      "word": "重庆一水库水位下降现宋代摩崖造像",
+      "onboard_time": 1751849181,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170402,
       "num": 198153,
       "word": "周深唱哭观众唱不哭自己",
@@ -10065,6 +10193,14 @@
       "onboard_time": 1751815286,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 164977,
+      "num": 452545,
+      "word": "被爸妈认证的帅气和美貌",
+      "onboard_time": 1751852183,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 164843,
@@ -11091,6 +11227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153035,
+      "num": 153035,
+      "word": "律师解读宿管去世校方是否担责",
+      "onboard_time": 1751850201,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152682,
       "num": 152682,
       "word": "控糖瓜 没熟",
@@ -11753,6 +11897,14 @@
       "onboard_time": 1751802926,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 145996,
+      "num": 145996,
+      "word": "保安室的灯不再亮了",
+      "onboard_time": 1751851883,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145954,
@@ -13139,6 +13291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132088,
+      "num": 132088,
+      "word": "李斌称蔚来资产负债表非常干净",
+      "onboard_time": 1751853682,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 132083,
       "num": 132083,
       "word": "朋友圈令人非常不爽的现象",
@@ -13907,6 +14067,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 125511,
+      "num": 125511,
+      "word": "马斯克特朗普矛盾再升级",
+      "onboard_time": 1751853682,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 125493,
       "num": 125493,
       "word": "王曼昱极致氛围感图",
@@ -14323,6 +14491,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 121973,
+      "num": 121973,
+      "word": "壶口瀑布再现90版50元人民币壮阔景象",
+      "onboard_time": 1751854043,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121891,
       "num": 377989,
       "word": "高校研究生3个月投诉120次校园二手烟",
@@ -14483,6 +14659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120201,
+      "num": 120201,
+      "word": "山东舰编队访港",
+      "onboard_time": 1751827995,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 120195,
       "num": 177873,
       "word": "迪丽热巴阿娜尔罕五一工程奖",
@@ -14609,6 +14793,14 @@
       "onboard_time": 1751690422,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 119583,
+      "num": 237916,
+      "word": "杨紫脖子上的青筋都哭出来了",
+      "onboard_time": 1751830514,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 119451,
@@ -15379,6 +15571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 113342,
+      "num": 113342,
+      "word": "墨西哥2比1逆转美国夺冠",
+      "onboard_time": 1751853742,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113309,
       "num": 113309,
       "word": "张小斐接住了她的中女时代",
@@ -15505,6 +15705,14 @@
       "onboard_time": 1751696721,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112464,
+      "num": 112464,
+      "word": "小暑大暑 上蒸下煮",
+      "onboard_time": 1751852364,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112432,
@@ -16627,14 +16835,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 102672,
-      "num": 209063,
-      "word": "杨紫脖子上的青筋都哭出来了",
-      "onboard_time": 1751830514,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 102493,
       "num": 330520,
       "word": "鸿星尔克启动熊猫家园守护计划",
@@ -16809,6 +17009,14 @@
       "onboard_time": 1751813063,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100862,
+      "num": 190729,
+      "word": "药王孙思邈留下的速睡方",
+      "onboard_time": 1751850623,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 100851,
@@ -17300,7 +17508,7 @@
     },
     {
       "raw_hot": 95768,
-      "num": 161443,
+      "num": 598859,
       "word": "七七事变背后的历史真相",
       "onboard_time": 1751818223,
       "rank": 41,
@@ -17371,6 +17579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94378,
+      "num": 94378,
+      "word": "今日之中国再不是88年前的中国",
+      "onboard_time": 1751847622,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 94358,
       "num": 102779,
       "word": "波荔青瓜冻",
@@ -17393,6 +17609,14 @@
       "onboard_time": 1751700140,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 93973,
+      "num": 93973,
+      "word": "山东高温天热得一片红",
+      "onboard_time": 1751847562,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93935,
@@ -18011,6 +18235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85951,
+      "num": 168693,
+      "word": "王俊凯拍照 可有可无吧",
+      "onboard_time": 1751851704,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85821,
       "num": 85821,
       "word": "亲密关系真谛",
@@ -18313,6 +18545,14 @@
       "onboard_time": 1751732842,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 80057,
+      "num": 168693,
+      "word": "Jennie舞台",
+      "onboard_time": 1751849962,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 79987,
@@ -18848,6 +19088,14 @@
       "word": "穆西亚拉重伤倒地",
       "onboard_time": 1751758458,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 68907,
+      "num": 123283,
+      "word": "保罗最多再打一年",
+      "onboard_time": 1751853023,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -19592,14 +19840,6 @@
       "word": "对贵州启动国家三级救灾应急响应",
       "onboard_time": 1751448922,
       "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 54376,
-      "num": 66198,
-      "word": "山东舰编队访港",
-      "onboard_time": 1751827995,
-      "rank": 30,
       "category": "国内时政"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1751845285251,
+  "endTime": 1751854151171,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1081,6 +1081,14 @@
       "onboard_time": 1745916264,
       "rank": 4,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 8592534,
+      "num": 8592534,
+      "word": "青岛大学凌晨发情况说明",
+      "onboard_time": 1751843478,
+      "rank": 5,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 8423438,
@@ -2392,14 +2400,6 @@
       "word": "王菲 如听仙乐耳暂明",
       "onboard_time": 1738072834,
       "rank": 6,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 3594619,
-      "num": 746588,
-      "word": "虞书欣丁禹兮手挽手",
-      "onboard_time": 1735978403,
-      "rank": 3,
       "category": "综艺"
     }
   ],

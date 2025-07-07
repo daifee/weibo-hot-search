@@ -1,0 +1,410 @@
+{
+  "runTime": 1751854151171,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1228682,
+        "num": 1228682,
+        "word": "女网红海边徒手捡起致命鸡心螺",
+        "onboard_time": 1751850743,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 623236,
+        "num": 623236,
+        "word": "烟台南山学院",
+        "onboard_time": 1751850322,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36645,
+        "num": 598859,
+        "word": "七七事变背后的历史真相",
+        "onboard_time": 1751818223,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1660703,
+        "num": 590570,
+        "word": "男生与女友同居太兴奋后空翻摔死",
+        "onboard_time": 1751816663,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 577336,
+        "num": 577336,
+        "word": "舅舅回应16个外甥连续5年来过暑假",
+        "onboard_time": 1751847261,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 534508,
+        "num": 534508,
+        "word": "青岛大学宿管阿姨称8个月没发工资",
+        "onboard_time": 1751852063,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 477660,
+        "num": 477660,
+        "word": "731部队罪行最新铁证",
+        "onboard_time": 1751850262,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243456,
+        "num": 458009,
+        "word": "赵立坚推介王一博万物可爱",
+        "onboard_time": 1751851284,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 164977,
+        "num": 452545,
+        "word": "被爸妈认证的帅气和美貌",
+        "onboard_time": 1751852183,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184553,
+        "num": 430861,
+        "word": "侵华日军口述罪证视频曝光",
+        "onboard_time": 1751850383,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8592534,
+        "num": 8592534,
+        "word": "青岛大学凌晨发情况说明",
+        "onboard_time": 1751843478,
+        "rank": 10,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 398482,
+        "num": 398482,
+        "word": "青岛大学将积极配合开展调查",
+        "onboard_time": 1751853682,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322900,
+        "num": 322900,
+        "word": "七七事变88年了",
+        "onboard_time": 1751818164,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 278851,
+        "num": 278851,
+        "word": "日军官因找借口挑起卢沟桥事变升职",
+        "onboard_time": 1751805205,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 266967,
+        "num": 266967,
+        "word": "赛里木湖",
+        "onboard_time": 1751846301,
+        "rank": 14,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 250591,
+        "num": 250591,
+        "word": "特朗普称马斯克成立新政党荒谬",
+        "onboard_time": 1751850081,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 249187,
+        "num": 249187,
+        "word": "热射病 不出汗",
+        "onboard_time": 1751853502,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 146379,
+        "num": 239289,
+        "word": "鹿晗安慰粉丝别哭别哭",
+        "onboard_time": 1751822238,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119583,
+        "num": 237916,
+        "word": "杨紫脖子上的青筋都哭出来了",
+        "onboard_time": 1751830514,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109384,
+        "num": 237273,
+        "word": "张鑫 白鹿站姐",
+        "onboard_time": 1751809583,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237067,
+        "num": 237067,
+        "word": "深圳地铁1号线",
+        "onboard_time": 1751851943,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269567,
+        "num": 236366,
+        "word": "三伏天每天洗几次澡最好",
+        "onboard_time": 1751849602,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 229580,
+        "num": 229580,
+        "word": "李雪琴看起来又瘦了",
+        "onboard_time": 1751850623,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224164,
+        "num": 224164,
+        "word": "果然高铁F座最受欢迎",
+        "onboard_time": 1751853563,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100862,
+        "num": 190729,
+        "word": "药王孙思邈留下的速睡方",
+        "onboard_time": 1751850623,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 174729,
+        "num": 174729,
+        "word": "勿忘19370707",
+        "onboard_time": 1751810305,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 170984,
+        "num": 170984,
+        "word": "重庆一水库水位下降现宋代摩崖造像",
+        "onboard_time": 1751849181,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168725,
+        "num": 168725,
+        "word": "七七事变",
+        "onboard_time": 1751813184,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 85951,
+        "num": 168693,
+        "word": "王俊凯拍照 可有可无吧",
+        "onboard_time": 1751851704,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80057,
+        "num": 168693,
+        "word": "Jennie舞台",
+        "onboard_time": 1751849962,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168693,
+        "num": 168692,
+        "word": "藏海传床戏",
+        "onboard_time": 1751812104,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153035,
+        "num": 153035,
+        "word": "律师解读宿管去世校方是否担责",
+        "onboard_time": 1751850201,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146558,
+        "num": 146558,
+        "word": "七七事变纪录片一夜之间",
+        "onboard_time": 1751807967,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 145996,
+        "num": 145996,
+        "word": "保安室的灯不再亮了",
+        "onboard_time": 1751851883,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132088,
+        "num": 132088,
+        "word": "李斌称蔚来资产负债表非常干净",
+        "onboard_time": 1751853682,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 128253,
+        "num": 128253,
+        "word": "吃冷饮在嘴里含三五秒真的有用",
+        "onboard_time": 1751813364,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 125886,
+        "num": 125886,
+        "word": "马斯克被警告会成为一个没国家的人",
+        "onboard_time": 1751843240,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125511,
+        "num": 125511,
+        "word": "马斯克特朗普矛盾再升级",
+        "onboard_time": 1751853682,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125398,
+        "num": 125398,
+        "word": "央视曝光零差评背后猫腻",
+        "onboard_time": 1751817864,
+        "rank": 38,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 68907,
+        "num": 123283,
+        "word": "保罗最多再打一年",
+        "onboard_time": 1751853023,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121973,
+        "num": 121973,
+        "word": "壶口瀑布再现90版50元人民币壮阔景象",
+        "onboard_time": 1751854043,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120201,
+        "num": 120201,
+        "word": "山东舰编队访港",
+        "onboard_time": 1751827995,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 113342,
+        "num": 113342,
+        "word": "墨西哥2比1逆转美国夺冠",
+        "onboard_time": 1751853742,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112464,
+        "num": 112464,
+        "word": "小暑大暑 上蒸下煮",
+        "onboard_time": 1751852364,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105557,
+        "num": 105557,
+        "word": "今日中国早已不是1937年的中国",
+        "onboard_time": 1751816423,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 103482,
+        "num": 103482,
+        "word": "男子借住朋友家一觉醒来6万没了",
+        "onboard_time": 1751812645,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95563,
+        "num": 95563,
+        "word": "女子称丽江一店冰淇淋9.9元变48元",
+        "onboard_time": 1751819840,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94378,
+        "num": 94378,
+        "word": "今日之中国再不是88年前的中国",
+        "onboard_time": 1751847622,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 94045,
+        "num": 94045,
+        "word": "7月7日迎来小暑",
+        "onboard_time": 1751844621,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93973,
+        "num": 93973,
+        "word": "山东高温天热得一片红",
+        "onboard_time": 1751847562,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美关系的未来在青年#"
+    }
+  }
+}
