@@ -1,7 +1,15 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751895550480,
+  "endTime": 1751896289733,
   "band_list": [
+    {
+      "raw_hot": 18423483,
+      "num": 18423483,
+      "word": "南京红姐被抓",
+      "onboard_time": 1751895024,
+      "rank": 3,
+      "category": "民生新闻,网红"
+    },
     {
       "raw_hot": 8592534,
       "num": 8592534,
@@ -25,14 +33,6 @@
       "onboard_time": 1751632946,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 4939857,
-      "num": 816391,
-      "word": "南京红姐被抓",
-      "onboard_time": 1751895024,
-      "rank": 3,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 4866007,
@@ -5316,7 +5316,7 @@
     },
     {
       "raw_hot": 325593,
-      "num": 325593,
+      "num": 360324,
       "word": "热射病的前兆",
       "onboard_time": 1751889022,
       "rank": 23,
@@ -6107,6 +6107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 284233,
+      "num": 284233,
+      "word": "林心如晒和霍建华双人画秀恩爱",
+      "onboard_time": 1751893703,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284167,
       "num": 113251,
       "word": "两女生误会被偷拍疯狂道歉",
@@ -6771,6 +6779,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 254796,
+      "num": 447008,
+      "word": "教育局回应学生未报清北老师解散群聊",
+      "onboard_time": 1751891122,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 254274,
       "num": 169273,
       "word": "山东舰拍这么大以后怎么忽悠别人",
@@ -6899,6 +6915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247824,
+      "num": 247824,
+      "word": "戴燕妮巴黎遇破窗抢劫",
+      "onboard_time": 1751894844,
+      "rank": 23,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 247467,
       "num": 180917,
       "word": "杨幂吴谨言赵今麦VOGUE红毯图",
@@ -6969,14 +6993,6 @@
       "onboard_time": 1751713940,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 244746,
-      "num": 244746,
-      "word": "林心如晒和霍建华双人画秀恩爱",
-      "onboard_time": 1751893703,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 243712,
@@ -7721,14 +7737,6 @@
       "onboard_time": 1751803764,
       "rank": 15,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 222922,
-      "num": 447008,
-      "word": "教育局回应学生未报清北老师解散群聊",
-      "onboard_time": 1751891122,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 222684,
@@ -8507,6 +8515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205280,
+      "num": 205280,
+      "word": "Angelababy森林精灵",
+      "onboard_time": 1751892624,
+      "rank": 43,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 205058,
       "num": 205058,
       "word": "雷军直播称急用车推荐买小鹏G7",
@@ -8625,6 +8641,14 @@
       "onboard_time": 1751455222,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 203528,
+      "num": 203528,
+      "word": "书卷一梦是he我们有救了",
+      "onboard_time": 1751895624,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 203423,
@@ -8755,14 +8779,6 @@
       "category": "艺人,电竞"
     },
     {
-      "raw_hot": 201684,
-      "num": 201684,
-      "word": "戴燕妮巴黎遇破窗抢劫",
-      "onboard_time": 1751894844,
-      "rank": 23,
-      "category": "艺人,民生新闻"
-    },
-    {
       "raw_hot": 201552,
       "num": 201552,
       "word": "时代少年团在里面闹麻了",
@@ -8841,14 +8857,6 @@
       "onboard_time": 1751699062,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 200582,
-      "num": 200582,
-      "word": "Angelababy森林精灵",
-      "onboard_time": 1751892624,
-      "rank": 43,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 200561,
@@ -9916,7 +9924,7 @@
     },
     {
       "raw_hot": 186040,
-      "num": 180603,
+      "num": 249843,
       "word": "你跟我说这是贾斯汀比伯",
       "onboard_time": 1751892323,
       "rank": 37,
@@ -10201,6 +10209,14 @@
       "onboard_time": 1751887942,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180778,
+      "num": 180778,
+      "word": "6个荔枝298",
+      "onboard_time": 1751893223,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 180774,
@@ -10627,14 +10643,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 174551,
-      "num": 174551,
-      "word": "6个荔枝298",
-      "onboard_time": 1751893223,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 174516,
       "num": 342913,
       "word": "应采儿分享Jasper庆生照",
@@ -11033,6 +11041,14 @@
       "onboard_time": 1751807906,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169538,
+      "num": 184284,
+      "word": "爱泼斯坦去世当晚牢房区域视频公开",
+      "onboard_time": 1751895143,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 169258,
@@ -12411,6 +12427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153565,
+      "num": 153565,
+      "word": "原来古风小生是侯明昊",
+      "onboard_time": 1751895384,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153519,
       "num": 153519,
       "word": "我敢点你真的敢死吗",
@@ -12627,6 +12651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151990,
+      "num": 151990,
+      "word": "田栩宁方律师道歉",
+      "onboard_time": 1751896105,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151944,
       "num": 378558,
       "word": "江苏河南等地高温健康风险极高",
@@ -12769,6 +12801,14 @@
       "onboard_time": 1751614042,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 149950,
+      "num": 149950,
+      "word": "特朗普政府公布爱泼斯坦牢房视频",
+      "onboard_time": 1751895384,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 149872,
@@ -12921,14 +12961,6 @@
       "onboard_time": 1751884341,
       "rank": 34,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 148452,
-      "num": 148452,
-      "word": "特朗普政府公布爱泼斯坦牢房视频",
-      "onboard_time": 1751895384,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 148324,
@@ -14315,6 +14347,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 135480,
+      "num": 135480,
+      "word": "又一罗马仕充电宝充电时爆炸",
+      "onboard_time": 1751896105,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135472,
       "num": 135472,
       "word": "狼队对战TTG",
@@ -14665,6 +14705,14 @@
       "onboard_time": 1751827995,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 132720,
+      "num": 132720,
+      "word": "杭州南站坠楼男子自行跳下",
+      "onboard_time": 1751894844,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132682,
@@ -15313,14 +15361,6 @@
       "onboard_time": 1751872643,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127681,
-      "num": 127681,
-      "word": "原来古风小生是侯明昊",
-      "onboard_time": 1751895384,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 127646,
@@ -22347,6 +22387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46313,
+      "num": 325790,
+      "word": "律师谈金毛疑蹭空调被打死谁该负责",
+      "onboard_time": 1751895143,
+      "rank": 15,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 46281,
       "num": 60934,
       "word": "杨紫回应刘诗诗",
@@ -23009,14 +23057,6 @@
       "onboard_time": 1751452281,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34012,
-      "num": 182827,
-      "word": "爱泼斯坦去世当晚牢房区域视频公开",
-      "onboard_time": 1751895143,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 33981,
@@ -23723,12 +23763,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 23753,
-      "num": 325790,
-      "word": "律师谈金毛疑蹭空调被打死谁该负责",
-      "onboard_time": 1751895143,
-      "rank": 15,
-      "category": "议题讨论"
+      "raw_hot": 23805,
+      "num": 248980,
+      "word": "血铅异常患儿跨省治疗人数还在攀升",
+      "onboard_time": 1751895685,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23620,
