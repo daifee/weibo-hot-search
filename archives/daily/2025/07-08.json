@@ -1,6 +1,6 @@
 {
   "startTime": 1751906062153,
-  "endTime": 1751930742817,
+  "endTime": 1751931619364,
   "band_list": [
     {
       "raw_hot": 5044272,
@@ -19,19 +19,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 870004,
+      "num": 971856,
+      "word": "举报者身份信息惊现举报对象办公室",
+      "onboard_time": 1751907260,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 834235,
       "num": 834235,
       "word": "山姆2公斤冰块卖22.8元",
       "onboard_time": 1751901924,
       "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 816750,
-      "num": 860280,
-      "word": "举报者身份信息惊现举报对象办公室",
-      "onboard_time": 1751907260,
-      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -51,20 +51,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 522457,
+      "num": 522457,
+      "word": "凤凰传奇已连续取消3站演唱会",
+      "onboard_time": 1751900964,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 518893,
       "num": 518893,
       "word": "南京女装大叔网传信息有夸大成分",
       "onboard_time": 1751898029,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 509969,
-      "num": 509969,
-      "word": "凤凰传奇已连续取消3站演唱会",
-      "onboard_time": 1751900964,
-      "rank": 6,
-      "category": "演出"
     },
     {
       "raw_hot": 473961,
@@ -89,6 +89,14 @@
       "onboard_time": 1751895143,
       "rank": 7,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 361737,
+      "num": 257038,
+      "word": "幼童遭碾压身亡知情人谈网上言论",
+      "onboard_time": 1751920454,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 303676,
@@ -123,12 +131,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 257038,
-      "num": 257038,
-      "word": "幼童遭碾压身亡知情人谈网上言论",
-      "onboard_time": 1751920454,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 238608,
+      "num": 195117,
+      "word": "张卫健 多年忠实女歌迷应采儿",
+      "onboard_time": 1751928797,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 236822,
@@ -139,20 +147,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231408,
+      "num": 231408,
+      "word": "特朗普已签署12封关税信函",
+      "onboard_time": 1751915654,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 230760,
       "num": 285139,
       "word": "宠主称金毛李墩墩事件已圆满解决",
       "onboard_time": 1751902702,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 225451,
-      "num": 225451,
-      "word": "特朗普已签署12封关税信函",
-      "onboard_time": 1751915654,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 214506,
@@ -171,12 +179,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188661,
+      "num": 188661,
+      "word": "特朗普延长所谓对等关税暂缓期",
+      "onboard_time": 1751930959,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 188618,
       "num": 188618,
       "word": "于适携两岸乐团将日月潭水汇入黄河",
       "onboard_time": 1751902223,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 177096,
+      "num": 177096,
+      "word": "李钟硕终于在剧里过上了正常家庭生活",
+      "onboard_time": 1751901803,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 174690,
@@ -195,14 +219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 164689,
-      "num": 164689,
-      "word": "李钟硕终于在剧里过上了正常家庭生活",
-      "onboard_time": 1751901803,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 150950,
       "num": 133430,
       "word": "于适在黄河岸边的讲述深情有力",
@@ -219,20 +235,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 134451,
+      "num": 134451,
+      "word": "12306回应高铁F座最受欢迎",
+      "onboard_time": 1751888121,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133649,
       "num": 133649,
       "word": "买演唱会门票竟被扣近20万元",
       "onboard_time": 1751904083,
       "rank": 25,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 132845,
-      "num": 132845,
-      "word": "张卫健 多年忠实女歌迷应采儿",
-      "onboard_time": 1751928797,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 128382,
@@ -251,20 +267,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 123683,
+      "num": 189418,
+      "word": "特朗普宣布征收日韩25%关税",
+      "onboard_time": 1751931020,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 118910,
+      "num": 106681,
+      "word": "特朗普称将对日韩征收25%关税",
+      "onboard_time": 1751930901,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 118678,
       "num": 118678,
       "word": "王曼昱3比0卡尔伯格",
       "onboard_time": 1751929758,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115415,
-      "num": 115415,
-      "word": "12306回应高铁F座最受欢迎",
-      "onboard_time": 1751888121,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 112876,
@@ -289,6 +313,14 @@
       "onboard_time": 1751921174,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 107868,
+      "num": 107868,
+      "word": "当你不停运动2个月后",
+      "onboard_time": 1751929578,
+      "rank": 37,
+      "category": "运动健身"
     },
     {
       "raw_hot": 106207,
@@ -316,7 +348,7 @@
     },
     {
       "raw_hot": 103723,
-      "num": 123899,
+      "num": 167882,
       "word": "书卷一梦是he我们有救了",
       "onboard_time": 1751895624,
       "rank": 46,
@@ -331,20 +363,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99455,
+      "num": 99455,
+      "word": "学校通报学生未报清北老师解散群聊",
+      "onboard_time": 1751913975,
+      "rank": 49,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 99227,
       "num": 133031,
       "word": "员工指罗马仕高管集体消失",
       "onboard_time": 1751905881,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 95716,
-      "num": 95716,
-      "word": "学校通报学生未报清北老师解散群聊",
-      "onboard_time": 1751913975,
-      "rank": 49,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 94985,
@@ -371,12 +403,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90478,
+      "num": 90478,
+      "word": "韩国球员向中国球迷谢场",
+      "onboard_time": 1751929758,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86563,
       "num": 86563,
       "word": "权恩妃直拍破两百万",
       "onboard_time": 1751900485,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 86403,
+      "num": 259295,
+      "word": "车辆暴晒后怎么快速降温",
+      "onboard_time": 1751929819,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84983,
@@ -387,12 +435,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 80112,
-      "num": 80112,
-      "word": "韩国球员向中国球迷谢场",
-      "onboard_time": 1751929758,
-      "rank": 31,
-      "category": "体育"
+      "raw_hot": 81489,
+      "num": 81489,
+      "word": "韩安冉称只喜欢整容脸男人",
+      "onboard_time": 1751928977,
+      "rank": 38,
+      "category": "网红"
     },
     {
       "raw_hot": 79899,
@@ -419,12 +467,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 78774,
+      "num": 78774,
+      "word": "我好像真的不会谈恋爱",
+      "onboard_time": 1751929819,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 74574,
       "num": 74574,
       "word": "书卷一梦",
       "onboard_time": 1751900065,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 74515,
+      "num": 74515,
+      "word": "女子服装店偷裤子被试衣镜反光现形",
+      "onboard_time": 1751911096,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73321,
@@ -459,14 +523,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 68992,
-      "num": 68992,
-      "word": "我好像真的不会谈恋爱",
-      "onboard_time": 1751929819,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 68386,
       "num": 84403,
       "word": "专家提醒不吃早餐更易铅中毒",
@@ -480,14 +536,6 @@
       "word": "金毛李墩墩主人希望网友理性看待",
       "onboard_time": 1751907080,
       "rank": 15,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 66890,
-      "num": 66890,
-      "word": "女子服装店偷裤子被试衣镜反光现形",
-      "onboard_time": 1751911096,
-      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -507,28 +555,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 64396,
-      "num": 64396,
-      "word": "当你不停运动2个月后",
-      "onboard_time": 1751929578,
-      "rank": 37,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 63915,
       "num": 63915,
       "word": "易烊千玺舒淇 孔雀东南飞",
       "onboard_time": 1751897005,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 63807,
-      "num": 63807,
-      "word": "韩安冉称只喜欢整容脸男人",
-      "onboard_time": 1751928977,
-      "rank": 38,
-      "category": "网红"
     },
     {
       "raw_hot": 61989,
@@ -579,6 +611,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 54681,
+      "num": 54681,
+      "word": "张凌赫王楚然这一秒过火试婚纱路透",
+      "onboard_time": 1751931140,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 47330,
       "num": 137372,
       "word": "魏晨与妻子是大学同学",
@@ -601,14 +641,6 @@
       "onboard_time": 1751901624,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 44051,
-      "num": 259295,
-      "word": "车辆暴晒后怎么快速降温",
-      "onboard_time": 1751929819,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37895,
