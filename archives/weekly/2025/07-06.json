@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751860743817,
+  "endTime": 1751861336864,
   "band_list": [
     {
       "raw_hot": 8592534,
@@ -123,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1622322,
+      "num": 1622322,
+      "word": "实付2元点外卖被偷气得直接报警",
+      "onboard_time": 1751856143,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1518482,
       "num": 280148,
       "word": "当你的子宫都开始对你催生",
@@ -152,14 +160,6 @@
       "word": "男子长期性侵未成年养女被判死刑",
       "onboard_time": 1751761580,
       "rank": 10,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1414917,
-      "num": 1414917,
-      "word": "实付2元点外卖被偷气得直接报警",
-      "onboard_time": 1751856143,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -347,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 793577,
+      "num": 793577,
+      "word": "青岛大学称宿舍马上装空调",
+      "onboard_time": 1751859263,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 771974,
       "num": 771974,
       "word": "恋与深空严正声明",
@@ -491,14 +499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 667850,
-      "num": 667850,
-      "word": "青岛大学称宿舍马上装空调",
-      "onboard_time": 1751859263,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 662508,
       "num": 662508,
       "word": "有3次犯罪前科是怎么当上局长的",
@@ -617,6 +617,14 @@
       "onboard_time": 1751761221,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 484989,
+      "num": 484989,
+      "word": "会让体内湿气加重的行为",
+      "onboard_time": 1751858003,
+      "rank": 13,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 478407,
@@ -779,14 +787,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 407580,
-      "num": 407580,
-      "word": "会让体内湿气加重的行为",
-      "onboard_time": 1751858003,
-      "rank": 13,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 393473,
       "num": 269856,
       "word": "朱珠 妈咪不会营业",
@@ -872,6 +872,14 @@
       "word": "12岁幼女家中遭强奸妈妈第二天才发现",
       "onboard_time": 1751701881,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 346266,
+      "num": 346266,
+      "word": "傅国涌去世",
+      "onboard_time": 1751859743,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -961,14 +969,6 @@
       "onboard_time": 1751810724,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 316611,
-      "num": 316611,
-      "word": "傅国涌去世",
-      "onboard_time": 1751859743,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 315377,
@@ -1235,6 +1235,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 252860,
+      "num": 569182,
+      "word": "杨笠 抵制黄牛第一人",
+      "onboard_time": 1751860704,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 251939,
       "num": 251939,
       "word": "常州1分",
@@ -1297,6 +1305,14 @@
       "onboard_time": 1751843118,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 238965,
+      "num": 238965,
+      "word": "抑郁症 不能做近视手术",
+      "onboard_time": 1751858662,
+      "rank": 22,
+      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 237493,
@@ -1385,14 +1401,6 @@
       "onboard_time": 1751850623,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 228844,
-      "num": 228844,
-      "word": "抑郁症 不能做近视手术",
-      "onboard_time": 1751858662,
-      "rank": 22,
-      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 228481,
@@ -1667,6 +1675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 201247,
+      "num": 201247,
+      "word": "我跟王安宇的共同点 有底薪",
+      "onboard_time": 1751860524,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200561,
       "num": 200561,
       "word": "王楚钦说想一场一场去赢",
@@ -1769,6 +1785,14 @@
       "onboard_time": 1751797460,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193117,
+      "num": 193117,
+      "word": "沈梦辰和杨紫撞冠了",
+      "onboard_time": 1751860883,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 192538,
@@ -1947,12 +1971,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 176976,
+      "num": 200926,
+      "word": "张凯丽女儿回应节目里爆哭",
+      "onboard_time": 1751860765,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175936,
       "num": 175936,
       "word": "汪顺成世界泳联运委会候选人",
       "onboard_time": 1751806946,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175700,
+      "num": 198016,
+      "word": "你好星期六",
+      "onboard_time": 1751720663,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 175569,
@@ -1969,6 +2009,14 @@
       "onboard_time": 1751800046,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 173709,
+      "num": 193188,
+      "word": "不爱出汗的人更易中暑",
+      "onboard_time": 1751861183,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 173169,
@@ -2121,14 +2169,6 @@
       "onboard_time": 1751805084,
       "rank": 34,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 162040,
-      "num": 162040,
-      "word": "你好星期六",
-      "onboard_time": 1751720663,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 161735,
@@ -2963,14 +3003,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 124276,
-      "num": 124276,
-      "word": "我跟王安宇的共同点 有底薪",
-      "onboard_time": 1751860524,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 124136,
       "num": 145537,
       "word": "李荣浩教6500万岁学员唱情歌",
@@ -3099,6 +3131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119234,
+      "num": 119234,
+      "word": "咬到桃子大动脉了吧",
+      "onboard_time": 1751861244,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 119198,
       "num": 119198,
       "word": "尽量不要给手机整夜充电",
@@ -3116,7 +3156,7 @@
     },
     {
       "raw_hot": 118345,
-      "num": 1151107,
+      "num": 1184244,
       "word": "七七事变背后的历史真相",
       "onboard_time": 1751818223,
       "rank": 41,
@@ -3225,6 +3265,14 @@
       "onboard_time": 1751855244,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114587,
+      "num": 188160,
+      "word": "谁懂檀健次一味包场的真诚劲",
+      "onboard_time": 1751860944,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 114381,
@@ -3361,14 +3409,6 @@
       "onboard_time": 1751774843,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 109793,
-      "num": 109793,
-      "word": "杨笠 抵制黄牛第一人",
-      "onboard_time": 1751860704,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 109766,
@@ -3577,6 +3617,14 @@
       "onboard_time": 1751767161,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 103638,
+      "num": 134293,
+      "word": "王楚钦回应美国大满贯开门红",
+      "onboard_time": 1751861065,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 103606,
@@ -4536,6 +4584,14 @@
       "word": "来自一个不扫兴的爸爸的爱",
       "onboard_time": 1751837655,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33142,
+      "num": 211372,
+      "word": "12306回应G7272列车停车停电",
+      "onboard_time": 1751861065,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
