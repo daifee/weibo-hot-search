@@ -1,6 +1,6 @@
 {
   "startTime": 1751819447185,
-  "endTime": 1751885264330,
+  "endTime": 1751887413587,
   "band_list": [
     {
       "raw_hot": 8592534,
@@ -219,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 779034,
+      "num": 670762,
+      "word": "金毛李墩墩主人准备起诉",
+      "onboard_time": 1751880262,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 734215,
       "num": 357442,
       "word": "妈妈一定在天上急得团团转",
@@ -275,14 +283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 670762,
-      "num": 670762,
-      "word": "金毛李墩墩主人准备起诉",
-      "onboard_time": 1751880262,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 662508,
       "num": 662508,
       "word": "有3次犯罪前科是怎么当上局长的",
@@ -321,6 +321,14 @@
       "onboard_time": 1751850322,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 615619,
+      "num": 273695,
+      "word": "黄宗泽说不结婚是为了气妈妈",
+      "onboard_time": 1751883262,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 592375,
@@ -363,12 +371,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 544177,
+      "num": 544177,
+      "word": "国足vs韩国",
+      "onboard_time": 1751885062,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 532843,
       "num": 577662,
       "word": "杨笠 抵制黄牛第一人",
       "onboard_time": 1751860704,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 527609,
+      "num": 527609,
+      "word": "幽门螺旋杆菌",
+      "onboard_time": 1751883441,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 506416,
@@ -393,6 +417,14 @@
       "onboard_time": 1751850262,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 473494,
+      "num": 473494,
+      "word": "挂绿荔枝",
+      "onboard_time": 1751884701,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 472521,
@@ -595,7 +627,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 318642,
+      "raw_hot": 326954,
       "num": 434957,
       "word": "校方回应网传离世大爷被拖欠工资",
       "onboard_time": 1751879061,
@@ -657,14 +689,6 @@
       "onboard_time": 1751812164,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 290460,
-      "num": 290460,
-      "word": "幽门螺旋杆菌",
-      "onboard_time": 1751883441,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 289734,
@@ -736,14 +760,6 @@
       "word": "汪明荃尊重罗家英放弃化疗",
       "onboard_time": 1751875522,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 273695,
-      "num": 273695,
-      "word": "黄宗泽说不结婚是为了气妈妈",
-      "onboard_time": 1751883262,
-      "rank": 21,
       "category": "艺人"
     },
     {
@@ -835,6 +851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 255860,
+      "num": 255860,
+      "word": "罗马仕退款排到17万位",
+      "onboard_time": 1751886261,
+      "rank": 5,
+      "category": "民生新闻,数码"
+    },
+    {
       "raw_hot": 255196,
       "num": 255196,
       "word": "特朗普称马斯克成立新政党荒谬",
@@ -921,6 +945,14 @@
       "onboard_time": 1751850623,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 225179,
+      "num": 225179,
+      "word": "陈梦正面回应退出世界排名",
+      "onboard_time": 1751885542,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 223518,
@@ -1019,6 +1051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 204399,
+      "num": 204399,
+      "word": "虞书欣于适 我欲乘风",
+      "onboard_time": 1751886862,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198216,
       "num": 198216,
       "word": "国足首发",
@@ -1059,6 +1099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192942,
+      "num": 192942,
+      "word": "中方回应印度称中国借刀杀人",
+      "onboard_time": 1751886802,
+      "rank": 23,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 192574,
       "num": 192574,
       "word": "医生称晚安牛奶每天喝24000瓶才有效",
@@ -1073,6 +1121,14 @@
       "onboard_time": 1751880804,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 191028,
+      "num": 191028,
+      "word": "Angelababy巴黎时装周状态",
+      "onboard_time": 1751887102,
+      "rank": 25,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 189637,
@@ -1099,12 +1155,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188266,
+      "num": 188266,
+      "word": "锦绣芳华断更",
+      "onboard_time": 1751884222,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187556,
       "num": 187556,
       "word": "网传零食店一店员给顾客下跪道歉",
       "onboard_time": 1751819781,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186286,
+      "num": 219394,
+      "word": "马斯克从政",
+      "onboard_time": 1751885481,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 184666,
@@ -1145,6 +1217,14 @@
       "onboard_time": 1751867245,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178044,
+      "num": 178044,
+      "word": "19370707永不能忘",
+      "onboard_time": 1751885602,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 178016,
@@ -1225,30 +1305,6 @@
       "onboard_time": 1751858603,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 167026,
-      "num": 166404,
-      "word": "挂绿荔枝",
-      "onboard_time": 1751884701,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 166899,
-      "num": 166899,
-      "word": "锦绣芳华断更",
-      "onboard_time": 1751884222,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 166353,
-      "num": 166353,
-      "word": "国足vs韩国",
-      "onboard_time": 1751885062,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 165806,
@@ -1459,12 +1515,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 143558,
+      "num": 143558,
+      "word": "陷入循环了",
+      "onboard_time": 1751887222,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142612,
       "num": 211501,
       "word": "王楚钦对对手说goodmatch",
       "onboard_time": 1751880382,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141936,
+      "num": 275446,
+      "word": "金泰亨裴秀智朴宝剑合照",
+      "onboard_time": 1751884701,
+      "rank": 19,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 140569,
@@ -1528,6 +1600,14 @@
       "word": "韩国为大熊猫双胞胎过2岁生日",
       "onboard_time": 1751854703,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134875,
+      "num": 134875,
+      "word": "27岁小伙颈部按摩后脑梗死",
+      "onboard_time": 1751886322,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -1619,14 +1699,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 129386,
-      "num": 275446,
-      "word": "金泰亨裴秀智朴宝剑合照",
-      "onboard_time": 1751884701,
-      "rank": 19,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 129245,
       "num": 129245,
       "word": "我是来避暑的 不是来中暑的",
@@ -1660,7 +1732,7 @@
     },
     {
       "raw_hot": 126227,
-      "num": 126227,
+      "num": 191213,
       "word": "王楚钦金句再现",
       "onboard_time": 1751880804,
       "rank": 42,
@@ -1755,6 +1827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121562,
+      "num": 121562,
+      "word": "台风丹娜丝路径非常罕见",
+      "onboard_time": 1751885842,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121193,
       "num": 121193,
       "word": "脊柱最喜欢的4个动作",
@@ -1777,6 +1857,14 @@
       "onboard_time": 1751858963,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119279,
+      "num": 119279,
+      "word": "必须被毒哑才能当设计师吗",
+      "onboard_time": 1751887222,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 118575,
@@ -1955,6 +2043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110017,
+      "num": 110017,
+      "word": "中方回应莫迪向达赖喇嘛致生日祝福",
+      "onboard_time": 1751886922,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 109766,
       "num": 109766,
       "word": "WTT",
@@ -2043,6 +2139,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 105615,
+      "num": 105615,
+      "word": "特朗普回应为何与马斯克闹翻",
+      "onboard_time": 1751887222,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 104210,
       "num": 170307,
       "word": "周杰伦厦门演唱会500元只能看大屏",
@@ -2097,6 +2201,14 @@
       "onboard_time": 1751816904,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 101439,
+      "num": 101439,
+      "word": "很多道德问题其实是生理问题",
+      "onboard_time": 1751886201,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 101029,
@@ -2331,6 +2443,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 82089,
+      "num": 110360,
+      "word": "杭州南站坠楼者已送医救治",
+      "onboard_time": 1751887342,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81944,
       "num": 81944,
       "word": "提供情绪价值是了不起的能力",
@@ -2361,6 +2481,14 @@
       "onboard_time": 1751844741,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 71021,
+      "num": 220774,
+      "word": "市监回应火锅店桌缝内有活蛆爬行",
+      "onboard_time": 1751886082,
+      "rank": 14,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 69939,
@@ -2483,6 +2611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46419,
+      "num": 123706,
+      "word": "王楚钦说把副板也变成主板",
+      "onboard_time": 1751886742,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 45546,
       "num": 131954,
       "word": "天水幼儿园铅中毒背后的隐形毒源",
@@ -2497,6 +2633,14 @@
       "onboard_time": 1751844079,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 44534,
+      "num": 138554,
+      "word": "官方回应举报者信息现举报对象办公室",
+      "onboard_time": 1751887282,
+      "rank": 33,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 43920,
