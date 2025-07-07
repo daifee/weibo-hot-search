@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751898438741,
+  "endTime": 1751899533439,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -227,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1342398,
+      "num": 1342398,
+      "word": "爱泼斯坦去世当晚牢房区域视频公开",
+      "onboard_time": 1751895143,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1325945,
       "num": 327944,
       "word": "身份证照片 戴眼镜",
@@ -379,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1064319,
+      "num": 1064319,
+      "word": "南京女装大叔网传信息有夸大成分",
+      "onboard_time": 1751898029,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1050102,
       "num": 1168016,
       "word": "常州vs淮安",
@@ -441,14 +457,6 @@
       "onboard_time": 1751883801,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 929343,
-      "num": 929343,
-      "word": "爱泼斯坦去世当晚牢房区域视频公开",
-      "onboard_time": 1751895143,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 921102,
@@ -961,6 +969,14 @@
       "onboard_time": 1751842877,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 505787,
+      "num": 505787,
+      "word": "Angelababy一出手便是王炸",
+      "onboard_time": 1751898685,
+      "rank": 8,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 503225,
@@ -1508,7 +1524,7 @@
     },
     {
       "raw_hot": 325593,
-      "num": 360324,
+      "num": 384168,
       "word": "热射病的前兆",
       "onboard_time": 1751889022,
       "rank": 23,
@@ -1787,6 +1803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 270039,
+      "num": 270039,
+      "word": "南京红老头",
+      "onboard_time": 1751899165,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 269567,
       "num": 236366,
       "word": "三伏天每天洗几次澡最好",
@@ -1915,6 +1939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 256941,
+      "num": 373036,
+      "word": "未报清北学生已按照意愿填报志愿",
+      "onboard_time": 1751897786,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 256820,
       "num": 127266,
       "word": "田栩宁榜一是若若",
@@ -1961,6 +1993,14 @@
       "onboard_time": 1751799081,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 253483,
+      "num": 253483,
+      "word": "6个荔枝298",
+      "onboard_time": 1751893223,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 251939,
@@ -2251,14 +2291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 218245,
-      "num": 218245,
-      "word": "6个荔枝298",
-      "onboard_time": 1751893223,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 217678,
       "num": 217678,
       "word": "Angelababy眼尾贴钻",
@@ -2377,14 +2409,6 @@
       "onboard_time": 1751797882,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 208373,
-      "num": 208373,
-      "word": "南京女装大叔网传信息有夸大成分",
-      "onboard_time": 1751898029,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 207660,
@@ -3379,14 +3403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 158156,
-      "num": 373036,
-      "word": "未报清北学生已按照意愿填报志愿",
-      "onboard_time": 1751897786,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 158116,
       "num": 281914,
       "word": "张杰打开手机人都红温了吧",
@@ -3635,6 +3651,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 148334,
+      "num": 248980,
+      "word": "血铅异常患儿跨省治疗人数还在攀升",
+      "onboard_time": 1751895685,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147242,
       "num": 147242,
       "word": "方媛带两个女儿深圳过暑假",
@@ -3689,6 +3713,14 @@
       "onboard_time": 1751799263,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146648,
+      "num": 146648,
+      "word": "因学生未报清北解散群聊老师已检讨",
+      "onboard_time": 1751899044,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146591,
@@ -3841,14 +3873,6 @@
       "onboard_time": 1751797221,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 142690,
-      "num": 248980,
-      "word": "血铅异常患儿跨省治疗人数还在攀升",
-      "onboard_time": 1751895685,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 142612,
@@ -4443,12 +4467,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 124954,
+      "num": 124954,
+      "word": "王曼昱对阵瑞典选手",
+      "onboard_time": 1751898325,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124636,
       "num": 124636,
       "word": "鹿晗工作室土味情话",
       "onboard_time": 1751795901,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 124262,
+      "num": 124262,
+      "word": "流浪小猫的短暂一生",
+      "onboard_time": 1751899345,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 124183,
@@ -4489,6 +4529,14 @@
       "onboard_time": 1751862144,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 123579,
+      "num": 123579,
+      "word": "高端楼盘被发展成家属院",
+      "onboard_time": 1751898985,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 123034,
@@ -4569,14 +4617,6 @@
       "onboard_time": 1751779043,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121104,
-      "num": 121104,
-      "word": "王曼昱对阵瑞典选手",
-      "onboard_time": 1751898325,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 120989,
@@ -4841,6 +4881,22 @@
       "onboard_time": 1751873003,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 115345,
+      "num": 115345,
+      "word": "德约科维奇vs德米纳尔",
+      "onboard_time": 1751898565,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 115332,
+      "num": 115332,
+      "word": "下周末就要入伏了",
+      "onboard_time": 1751899464,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114992,
@@ -6571,12 +6627,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38170,
+      "num": 194077,
+      "word": "费德勒温网观战德约科维奇",
+      "onboard_time": 1751898625,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 36888,
       "num": 324077,
       "word": "罗马仕官旗关闭充电宝怎么退",
       "onboard_time": 1751894483,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35732,
+      "num": 1187362,
+      "word": "这些名字背后是山河泣血的故事",
+      "onboard_time": 1751898446,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 35662,
@@ -6608,6 +6680,14 @@
       "word": "世界市长对话上合峰会城市",
       "onboard_time": 1751775922,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33932,
+      "num": 275239,
+      "word": "台风丹娜丝肆虐台湾",
+      "onboard_time": 1751898685,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -6891,6 +6971,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 17132,
+      "num": 212582,
+      "word": "尹锡悦所受罪名指控细节被披露",
+      "onboard_time": 1751898145,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 16634,
       "num": 22803,
       "word": "14岁英雄誓死不肯泄露八路军秘密",
@@ -6913,14 +7001,6 @@
       "onboard_time": 1751844980,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13229,
-      "num": 212582,
-      "word": "尹锡悦所受罪名指控细节被披露",
-      "onboard_time": 1751898145,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 12751,

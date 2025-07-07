@@ -1,0 +1,410 @@
+{
+  "runTime": 1751899533439,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 16275961,
+        "num": 16275961,
+        "word": "南京红老头被抓",
+        "onboard_time": 1751895024,
+        "rank": 0,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 1342398,
+        "num": 1342398,
+        "word": "爱泼斯坦去世当晚牢房区域视频公开",
+        "onboard_time": 1751895143,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 35732,
+        "num": 1187362,
+        "word": "这些名字背后是山河泣血的故事",
+        "onboard_time": 1751898446,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1064319,
+        "num": 1064319,
+        "word": "南京女装大叔网传信息有夸大成分",
+        "onboard_time": 1751898029,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 609644,
+        "num": 609644,
+        "word": "魏晨回应结婚证是在潍坊领的",
+        "onboard_time": 1751890343,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 559118,
+        "num": 559118,
+        "word": "张子枫简直蜕变",
+        "onboard_time": 1751888362,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 558978,
+        "num": 558978,
+        "word": "国足0比3韩国",
+        "onboard_time": 1751893282,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 510487,
+        "num": 510487,
+        "word": "又一罗马仕充电宝充电时爆炸",
+        "onboard_time": 1751896105,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 505787,
+        "num": 505787,
+        "word": "Angelababy一出手便是王炸",
+        "onboard_time": 1751898685,
+        "rank": 8,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 250114,
+        "num": 384168,
+        "word": "热射病的前兆",
+        "onboard_time": 1751889022,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 326580,
+        "num": 326580,
+        "word": "华策道歉",
+        "onboard_time": 1751892024,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295108,
+        "num": 295108,
+        "word": "幼童躺街上遭货车碾压知情人发声",
+        "onboard_time": 1751893282,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282220,
+        "num": 282220,
+        "word": "梓渝 微笑一号店",
+        "onboard_time": 1751890522,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 398359,
+        "num": 278534,
+        "word": "Angelababy巴黎时装周状态",
+        "onboard_time": 1751887102,
+        "rank": 13,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 33932,
+        "num": 275239,
+        "word": "台风丹娜丝肆虐台湾",
+        "onboard_time": 1751898685,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314388,
+        "num": 274763,
+        "word": "罗马仕退款排到17万位",
+        "onboard_time": 1751886261,
+        "rank": 15,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 274106,
+        "num": 274106,
+        "word": "林心如晒和霍建华双人画秀恩爱",
+        "onboard_time": 1751893703,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270039,
+        "num": 270039,
+        "word": "南京红老头",
+        "onboard_time": 1751899165,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256941,
+        "num": 256941,
+        "word": "未报清北学生已按照意愿填报志愿",
+        "onboard_time": 1751897786,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256654,
+        "num": 256654,
+        "word": "凤凰传奇成都站演唱会取消",
+        "onboard_time": 1751896645,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 253483,
+        "num": 253483,
+        "word": "6个荔枝298",
+        "onboard_time": 1751893223,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244067,
+        "num": 244067,
+        "word": "徐冬冬发文回应",
+        "onboard_time": 1751892983,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209414,
+        "num": 209414,
+        "word": "12306回应高铁F座最受欢迎",
+        "onboard_time": 1751888121,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198357,
+        "num": 198357,
+        "word": "书卷一梦是he我们有救了",
+        "onboard_time": 1751895624,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38170,
+        "num": 194077,
+        "word": "费德勒温网观战德约科维奇",
+        "onboard_time": 1751898625,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193432,
+        "num": 193432,
+        "word": "肖战玲娜贝儿打招呼",
+        "onboard_time": 1751887702,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191670,
+        "num": 191670,
+        "word": "戴燕妮巴黎遇破窗抢劫",
+        "onboard_time": 1751894844,
+        "rank": 26,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 185558,
+        "num": 185558,
+        "word": "警方通报42岁男子杭州南站坠楼",
+        "onboard_time": 1751890103,
+        "rank": 27,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 182920,
+        "num": 182920,
+        "word": "易烊千玺舒淇 孔雀东南飞",
+        "onboard_time": 1751897005,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175618,
+        "num": 175618,
+        "word": "以法之名万潮",
+        "onboard_time": 1751896585,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168597,
+        "num": 168597,
+        "word": "周深双语歌曲归来致敬先烈",
+        "onboard_time": 1751888962,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 159226,
+        "num": 159226,
+        "word": "杭州南站坠楼男子自行跳下",
+        "onboard_time": 1751894844,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158389,
+        "num": 158389,
+        "word": "杨阳洋长这么大了",
+        "onboard_time": 1751891663,
+        "rank": 32,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 154168,
+        "num": 154168,
+        "word": "中方回应印度称中国借刀杀人",
+        "onboard_time": 1751886802,
+        "rank": 33,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 17132,
+        "num": 151691,
+        "word": "尹锡悦所受罪名指控细节被披露",
+        "onboard_time": 1751898145,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 150299,
+        "num": 150299,
+        "word": "92岁老人病危兄妹在医院打起来了",
+        "onboard_time": 1751889263,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148334,
+        "num": 148334,
+        "word": "血铅异常患儿跨省治疗人数还在攀升",
+        "onboard_time": 1751895685,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146925,
+        "num": 146925,
+        "word": "学校回应学生未报清北老师解散群聊",
+        "onboard_time": 1751896405,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146648,
+        "num": 146648,
+        "word": "因学生未报清北解散群聊老师已检讨",
+        "onboard_time": 1751899044,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143006,
+        "num": 143006,
+        "word": "中方已向印度提出交涉",
+        "onboard_time": 1751888182,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 135395,
+        "num": 135395,
+        "word": "王源林俊杰演唱会上厕所失败",
+        "onboard_time": 1751891543,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124954,
+        "num": 124954,
+        "word": "王曼昱对阵瑞典选手",
+        "onboard_time": 1751898325,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124738,
+        "num": 124738,
+        "word": "虞书欣于适 我欲乘风",
+        "onboard_time": 1751886862,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124262,
+        "num": 124262,
+        "word": "流浪小猫的短暂一生",
+        "onboard_time": 1751899345,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123579,
+        "num": 123579,
+        "word": "高端楼盘被发展成家属院",
+        "onboard_time": 1751898985,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123508,
+        "num": 123508,
+        "word": "以法之名更新了",
+        "onboard_time": 1751883801,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121768,
+        "num": 121768,
+        "word": "教育局回应学生未报清北老师解散群聊",
+        "onboard_time": 1751891122,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117565,
+        "num": 117565,
+        "word": "李人骏这集挨骂没毛病",
+        "onboard_time": 1751896885,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115345,
+        "num": 115345,
+        "word": "德约科维奇vs德米纳尔",
+        "onboard_time": 1751898565,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115332,
+        "num": 115332,
+        "word": "下周末就要入伏了",
+        "onboard_time": 1751899464,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#今天重温总书记这番话#"
+    }
+  }
+}
