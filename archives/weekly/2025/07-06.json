@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751899533439,
+  "endTime": 1751902101476,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -251,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1261058,
+      "num": 1261058,
+      "word": "南京女装大叔网传信息有夸大成分",
+      "onboard_time": 1751898029,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1248318,
       "num": 264293,
       "word": "小蝶 宠爱",
@@ -387,14 +395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1064319,
-      "num": 1064319,
-      "word": "南京女装大叔网传信息有夸大成分",
-      "onboard_time": 1751898029,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1050102,
       "num": 1168016,
       "word": "常州vs淮安",
@@ -449,6 +449,14 @@
       "onboard_time": 1751863225,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1032698,
+      "num": 1032698,
+      "word": "Angelababy一出手便是王炸",
+      "onboard_time": 1751898685,
+      "rank": 8,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 944944,
@@ -859,6 +867,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 603454,
+      "num": 270039,
+      "word": "南京红老头",
+      "onboard_time": 1751899165,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 599379,
       "num": 599379,
       "word": "沈梦辰接住了杨紫的戏",
@@ -969,14 +985,6 @@
       "onboard_time": 1751842877,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 505787,
-      "num": 505787,
-      "word": "Angelababy一出手便是王炸",
-      "onboard_time": 1751898685,
-      "rank": 8,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 503225,
@@ -1121,6 +1129,14 @@
       "onboard_time": 1751868444,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 435787,
+      "num": 435787,
+      "word": "凤凰传奇已连续取消3站演唱会",
+      "onboard_time": 1751900964,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 435187,
@@ -1457,6 +1473,14 @@
       "onboard_time": 1751814204,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 338498,
+      "num": 338498,
+      "word": "因学生未报清北解散群聊老师已检讨",
+      "onboard_time": 1751899044,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 337699,
@@ -1800,14 +1824,6 @@
       "word": "五六台救护车救热晕学生校方称不知",
       "onboard_time": 1751862264,
       "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 270039,
-      "num": 270039,
-      "word": "南京红老头",
-      "onboard_time": 1751899165,
-      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -2587,6 +2603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199777,
+      "num": 199777,
+      "word": "NBA交易",
+      "onboard_time": 1751901264,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199645,
       "num": 199645,
       "word": "王一博巴黎高定时装周",
@@ -2721,6 +2745,14 @@
       "onboard_time": 1751856263,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194817,
+      "num": 194817,
+      "word": "朴成训道歉",
+      "onboard_time": 1751899705,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 193787,
@@ -3017,6 +3049,14 @@
       "onboard_time": 1751767761,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 175963,
+      "num": 175963,
+      "word": "金毛被打死狗主人称店家拒调解",
+      "onboard_time": 1751900845,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175936,
@@ -3547,6 +3587,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 152185,
+      "num": 152185,
+      "word": "广州出现今年以来最高气温",
+      "onboard_time": 1751899825,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152068,
       "num": 152068,
       "word": "洪知秀ins更新",
@@ -3667,6 +3715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147148,
+      "num": 147148,
+      "word": "李钟硕终于在剧里过上了正常家庭生活",
+      "onboard_time": 1751901803,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147049,
       "num": 147049,
       "word": "光遇",
@@ -3715,14 +3771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 146648,
-      "num": 146648,
-      "word": "因学生未报清北解散群聊老师已检讨",
-      "onboard_time": 1751899044,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 146591,
       "num": 146591,
       "word": "苏超宿迁队vs连云港队",
@@ -3737,6 +3785,14 @@
       "onboard_time": 1751809464,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 146339,
+      "num": 146339,
+      "word": "山姆2公斤冰块卖22.8元",
+      "onboard_time": 1751901924,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146033,
@@ -3971,6 +4027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138269,
+      "num": 138269,
+      "word": "江西瑞昌市第一中学致歉",
+      "onboard_time": 1751900244,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137808,
       "num": 177691,
       "word": "常州队收获苏超首个积分",
@@ -4153,6 +4217,14 @@
       "onboard_time": 1751853682,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 132029,
+      "num": 132029,
+      "word": "书卷一梦",
+      "onboard_time": 1751769862,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 131616,
@@ -4539,6 +4611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123553,
+      "num": 123553,
+      "word": "王俊凯听到麻将眼神都亮了",
+      "onboard_time": 1751900244,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123034,
       "num": 123034,
       "word": "李泰民道歉",
@@ -4667,6 +4747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119388,
+      "num": 119388,
+      "word": "日本小学生完全不知日军侵华事实",
+      "onboard_time": 1751901264,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 119346,
       "num": 119346,
       "word": "王楚钦进32强",
@@ -4689,6 +4777,14 @@
       "onboard_time": 1751718142,
       "rank": 26,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 118611,
+      "num": 118611,
+      "word": "国足近6战踢韩国0进球13失球",
+      "onboard_time": 1751900905,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 118575,
@@ -4835,6 +4931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116232,
+      "num": 116232,
+      "word": "三伏将至养生有8做8不做",
+      "onboard_time": 1751900905,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 116215,
       "num": 116215,
       "word": "坐高铁因为好奇选了静音车厢",
@@ -4897,6 +5001,14 @@
       "onboard_time": 1751899464,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115183,
+      "num": 217114,
+      "word": "在意大利遭洗劫中国游客发声",
+      "onboard_time": 1751900543,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 114992,
@@ -5145,14 +5257,6 @@
       "onboard_time": 1751876963,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 108753,
-      "num": 108753,
-      "word": "书卷一梦",
-      "onboard_time": 1751769862,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 108446,
@@ -6203,6 +6307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70722,
+      "num": 128786,
+      "word": "拉基蒂奇宣布退役",
+      "onboard_time": 1751901864,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70381,
       "num": 1062677,
       "word": "文化中国行看古人的清凉好物",
@@ -6393,6 +6505,14 @@
       "onboard_time": 1751780303,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 57061,
+      "num": 191061,
+      "word": "比伯最新自拍状态",
+      "onboard_time": 1751901444,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 56147,
@@ -6611,12 +6731,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41058,
+      "num": 255382,
+      "word": "律师解读南京红老头将担刑责",
+      "onboard_time": 1751901624,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40177,
       "num": 74779,
       "word": "霍肯伯格生涯首次领奖台",
       "onboard_time": 1751840836,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 39894,
+      "num": 1187362,
+      "word": "这些名字背后是山河泣血的故事",
+      "onboard_time": 1751898446,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 38930,
@@ -6643,12 +6779,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 35732,
-      "num": 1187362,
-      "word": "这些名字背后是山河泣血的故事",
-      "onboard_time": 1751898446,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 36568,
+      "num": 175588,
+      "word": "陈梦说困难时队友是最懂你的人",
+      "onboard_time": 1751901624,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 35662,
@@ -6875,6 +7011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 25274,
+      "num": 1104122,
+      "word": "捍卫英烈尊严网警公布6起侮辱英烈案",
+      "onboard_time": 1751901624,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 23467,
       "num": 149638,
       "word": "特斯拉夜盘大跌超7%",
@@ -6921,6 +7065,14 @@
       "onboard_time": 1751829674,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 20174,
+      "num": 135572,
+      "word": "音乐教授携带贝斯坐地铁被拒",
+      "onboard_time": 1751901984,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19949,
@@ -7053,6 +7205,9 @@
     },
     {
       "word": "#今天重温总书记这番话#"
+    },
+    {
+      "word": "#习近平向抗战烈士敬献花篮#"
     }
   ]
 }
