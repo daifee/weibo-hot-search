@@ -1,6 +1,6 @@
 {
   "startTime": 1751906062153,
-  "endTime": 1751906062153,
+  "endTime": 1751907006391,
   "band_list": [
     {
       "raw_hot": 5044272,
@@ -11,19 +11,19 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 1569004,
+      "num": 1569004,
+      "word": "蜜雪冰城被曝员工用脚关直饮水桶",
+      "onboard_time": 1751904143,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 834235,
       "num": 834235,
       "word": "山姆2公斤冰块卖22.8元",
       "onboard_time": 1751901924,
       "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 811937,
-      "num": 811937,
-      "word": "蜜雪冰城被曝员工用脚关直饮水桶",
-      "onboard_time": 1751904143,
-      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -43,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 473961,
+      "num": 284125,
+      "word": "南京红老头",
+      "onboard_time": 1751899165,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 442864,
       "num": 442864,
       "word": "凤凰传奇已连续取消3站演唱会",
@@ -51,11 +59,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 421941,
-      "num": 284125,
-      "word": "南京红老头",
-      "onboard_time": 1751899165,
-      "rank": 10,
+      "raw_hot": 417075,
+      "num": 203578,
+      "word": "又一罗马仕充电宝充电时爆炸",
+      "onboard_time": 1751896105,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -67,12 +75,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 300624,
-      "num": 203578,
-      "word": "又一罗马仕充电宝充电时爆炸",
-      "onboard_time": 1751896105,
-      "rank": 15,
-      "category": "民生新闻"
+      "raw_hot": 303676,
+      "num": 273768,
+      "word": "英雄联盟 王俊凯",
+      "onboard_time": 1751903183,
+      "rank": 12,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 277890,
@@ -81,14 +89,6 @@
       "onboard_time": 1751902765,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 273768,
-      "num": 273768,
-      "word": "英雄联盟 王俊凯",
-      "onboard_time": 1751903183,
-      "rank": 12,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 258838,
@@ -107,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230760,
+      "num": 285139,
+      "word": "宠主称金毛李墩墩事件已圆满解决",
+      "onboard_time": 1751902702,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 209462,
       "num": 209462,
       "word": "魏晨回应结婚证是在潍坊领的",
@@ -121,14 +129,6 @@
       "onboard_time": 1751902223,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 184545,
-      "num": 285139,
-      "word": "宠主称金毛李墩墩事件已圆满解决",
-      "onboard_time": 1751902702,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 169835,
@@ -163,6 +163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131355,
+      "num": 131355,
+      "word": "买演唱会门票竟被扣近20万元",
+      "onboard_time": 1751904083,
+      "rank": 25,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 128382,
       "num": 128382,
       "word": "NBA交易",
@@ -185,14 +193,6 @@
       "onboard_time": 1751889022,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 120566,
-      "num": 120566,
-      "word": "买演唱会门票竟被扣近20万元",
-      "onboard_time": 1751904083,
-      "rank": 25,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 112876,
@@ -259,28 +259,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 84983,
-      "num": 84983,
-      "word": "原来跳绳减脂性价比这么高",
-      "onboard_time": 1751902402,
-      "rank": 35,
-      "category": "运动健身"
-    },
-    {
-      "raw_hot": 83592,
-      "num": 83592,
+      "raw_hot": 89974,
+      "num": 89974,
       "word": "中方已向印度提出交涉",
       "onboard_time": 1751888182,
       "rank": 36,
       "category": "国内时政"
     },
     {
-      "raw_hot": 80683,
-      "num": 80683,
+      "raw_hot": 86563,
+      "num": 86563,
       "word": "权恩妃直拍破两百万",
       "onboard_time": 1751900485,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 84983,
+      "num": 84983,
+      "word": "原来跳绳减脂性价比这么高",
+      "onboard_time": 1751902402,
+      "rank": 35,
+      "category": "运动健身"
     },
     {
       "raw_hot": 79899,
@@ -315,6 +315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73321,
+      "num": 73321,
+      "word": "王源林俊杰演唱会上厕所失败",
+      "onboard_time": 1751891543,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 73265,
       "num": 73265,
       "word": "徐冬冬发文回应",
@@ -329,14 +337,6 @@
       "onboard_time": 1751902284,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 71063,
-      "num": 71063,
-      "word": "王源林俊杰演唱会上厕所失败",
-      "onboard_time": 1751891543,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 67515,
@@ -355,6 +355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 65841,
+      "num": 65841,
+      "word": "俄罗斯前交通部长自杀身亡",
+      "onboard_time": 1751902825,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 64527,
       "num": 64527,
       "word": "中使馆回应旅行团在意大利被洗劫",
@@ -371,12 +379,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 59355,
-      "num": 59355,
-      "word": "俄罗斯前交通部长自杀身亡",
-      "onboard_time": 1751902825,
+      "raw_hot": 61989,
+      "num": 65643,
+      "word": "林心如晒和霍建华双人画秀恩爱",
+      "onboard_time": 1751893703,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 55811,
+      "num": 62845,
+      "word": "以法之名更新了",
+      "onboard_time": 1751883801,
       "rank": 49,
-      "category": "国际时政"
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 47330,
+      "num": 137372,
+      "word": "魏晨与妻子是大学同学",
+      "onboard_time": 1751900004,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 45285,
+      "num": 133031,
+      "word": "员工指罗马仕高管集体消失",
+      "onboard_time": 1751905881,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45045,
@@ -387,20 +419,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 33261,
-      "num": 111622,
-      "word": "员工指罗马仕高管集体消失",
-      "onboard_time": 1751905881,
-      "rank": 27,
+      "raw_hot": 43288,
+      "num": 67759,
+      "word": "律师解读南京红老头将担刑责",
+      "onboard_time": 1751901624,
+      "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30723,
-      "num": 137372,
-      "word": "魏晨与妻子是大学同学",
-      "onboard_time": 1751900004,
-      "rank": 19,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
