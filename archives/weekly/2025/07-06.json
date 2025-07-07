@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751863334154,
+  "endTime": 1751864114700,
   "band_list": [
     {
       "raw_hot": 8592534,
@@ -115,19 +115,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1764044,
+      "num": 793577,
+      "word": "青岛大学称宿舍马上装空调",
+      "onboard_time": 1751859263,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1685930,
       "num": 534508,
       "word": "青岛大学宿管阿姨称8个月没发工资",
       "onboard_time": 1751852063,
       "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1652241,
-      "num": 793577,
-      "word": "青岛大学称宿舍马上装空调",
-      "onboard_time": 1751859263,
-      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -249,6 +249,14 @@
       "onboard_time": 1751774662,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1081967,
+      "num": 1081967,
+      "word": "拔牙 血栓",
+      "onboard_time": 1751862024,
+      "rank": 4,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1050102,
@@ -475,14 +483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 687282,
-      "num": 687282,
-      "word": "拔牙 血栓",
-      "onboard_time": 1751862024,
-      "rank": 4,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 685344,
       "num": 685344,
       "word": "会让体内湿气加重的行为",
@@ -497,6 +497,14 @@
       "onboard_time": 1751858544,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 679443,
+      "num": 450346,
+      "word": "kpop最低学历",
+      "onboard_time": 1751863225,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 676446,
@@ -739,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 430902,
+      "num": 430902,
+      "word": "高校学生热晕一晚开进五六辆救护车",
+      "onboard_time": 1751863107,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 424109,
       "num": 388029,
       "word": "黄子弘凡扶电梯摔倒女生",
@@ -955,6 +971,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 329201,
+      "num": 574239,
+      "word": "731部队原队员承认解剖了300人",
+      "onboard_time": 1751862686,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 327122,
       "num": 321331,
       "word": "4岁宝宝手术台上把自己麻晕",
@@ -963,20 +987,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 327108,
+      "num": 327108,
+      "word": "我跟王安宇的共同点 有底薪",
+      "onboard_time": 1751860524,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 321396,
       "num": 376163,
       "word": "甘肃幼儿血铅异常事件发现疑似毒源",
       "onboard_time": 1751766922,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 320721,
-      "num": 320721,
-      "word": "我跟王安宇的共同点 有底薪",
-      "onboard_time": 1751860524,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 320395,
@@ -1068,7 +1092,7 @@
     },
     {
       "raw_hot": 302269,
-      "num": 302269,
+      "num": 327071,
       "word": "张凯丽女儿回应节目里爆哭",
       "onboard_time": 1751860765,
       "rank": 24,
@@ -1097,6 +1121,14 @@
       "onboard_time": 1751812344,
       "rank": 42,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 285607,
+      "num": 324722,
+      "word": "陈震",
+      "onboard_time": 1751861783,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 284347,
@@ -1169,6 +1201,14 @@
       "onboard_time": 1751726064,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270696,
+      "num": 270696,
+      "word": "五六台救护车救热晕学生校方称不知",
+      "onboard_time": 1751862264,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 269567,
@@ -1323,14 +1363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 248838,
-      "num": 248838,
-      "word": "陈震",
-      "onboard_time": 1751861783,
-      "rank": 19,
-      "category": "网红"
-    },
-    {
       "raw_hot": 248652,
       "num": 250666,
       "word": "龙树谅称日本末日预言不是她写的",
@@ -1388,7 +1420,7 @@
     },
     {
       "raw_hot": 235795,
-      "num": 235795,
+      "num": 262735,
       "word": "沈梦辰和杨紫撞冠了",
       "onboard_time": 1751860883,
       "rank": 28,
@@ -1441,14 +1473,6 @@
       "onboard_time": 1751861364,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 231218,
-      "num": 231218,
-      "word": "高校学生热晕一晚开进五六辆救护车",
-      "onboard_time": 1751863107,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 230291,
@@ -1540,7 +1564,7 @@
     },
     {
       "raw_hot": 220480,
-      "num": 220480,
+      "num": 262883,
       "word": "入青云",
       "onboard_time": 1751862326,
       "rank": 27,
@@ -1585,6 +1609,14 @@
       "onboard_time": 1751764942,
       "rank": 19,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 209097,
+      "num": 209097,
+      "word": "王楚钦独守半区",
+      "onboard_time": 1751862264,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 208845,
@@ -1633,14 +1665,6 @@
       "onboard_time": 1751785821,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205771,
-      "num": 205771,
-      "word": "王楚钦独守半区",
-      "onboard_time": 1751862264,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 205707,
@@ -1793,6 +1817,22 @@
       "onboard_time": 1751803405,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 197926,
+      "num": 197926,
+      "word": "月入1万一天工作14小时的真实生活",
+      "onboard_time": 1751863166,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 197708,
+      "num": 262715,
+      "word": "爸爸当家",
+      "onboard_time": 1751863524,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 197565,
@@ -1979,6 +2019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184576,
+      "num": 184576,
+      "word": "咬到桃子大动脉了吧",
+      "onboard_time": 1751861244,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 182912,
       "num": 182912,
       "word": "南珩一步将相一步悲凉",
@@ -2027,6 +2075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 177869,
+      "num": 177869,
+      "word": "青岛大学去世宿管是浮山校区的",
+      "onboard_time": 1751863524,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177471,
       "num": 177471,
       "word": "小伙追综艺熬2天2夜后抢救了10天",
@@ -2073,14 +2129,6 @@
       "onboard_time": 1751800046,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 175196,
-      "num": 231679,
-      "word": "五六台救护车救热晕学生校方称不知",
-      "onboard_time": 1751862264,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 173709,
@@ -2331,6 +2379,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 158241,
+      "num": 158241,
+      "word": "台湾本岛全警戒状态",
+      "onboard_time": 1751863285,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158116,
       "num": 281914,
       "word": "张杰打开手机人都红温了吧",
@@ -2491,20 +2547,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 148897,
-      "num": 148897,
-      "word": "咬到桃子大动脉了吧",
-      "onboard_time": 1751861244,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 148804,
       "num": 148804,
       "word": "XUN 大动脉",
       "onboard_time": 1751775382,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 148745,
+      "num": 148745,
+      "word": "Alex是大叔",
+      "onboard_time": 1751862504,
+      "rank": 41,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 148672,
@@ -2545,14 +2601,6 @@
       "onboard_time": 1751799263,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 146657,
-      "num": 146657,
-      "word": "kpop最低学历",
-      "onboard_time": 1751863225,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 146591,
@@ -2665,14 +2713,6 @@
       "onboard_time": 1751785881,
       "rank": 26,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 141957,
-      "num": 141957,
-      "word": "台湾本岛全警戒状态",
-      "onboard_time": 1751863285,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 140176,
@@ -2817,6 +2857,14 @@
       "onboard_time": 1751809166,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 133727,
+      "num": 133727,
+      "word": "长期熬夜和11点前睡觉的区别",
+      "onboard_time": 1751864006,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 133712,
@@ -3275,12 +3323,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 117607,
-      "num": 574239,
-      "word": "731部队原队员承认解剖了300人",
-      "onboard_time": 1751862686,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 118079,
+      "num": 118079,
+      "word": "锦瑟",
+      "onboard_time": 1751864065,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 117280,
@@ -3457,6 +3505,14 @@
       "onboard_time": 1751757737,
       "rank": 34,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 111888,
+      "num": 158642,
+      "word": "对手打飞乒乓球吓王楚钦一跳",
+      "onboard_time": 1751863765,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 111385,
@@ -4459,6 +4515,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 64596,
+      "num": 218510,
+      "word": "鹿晗就不给你就不给你",
+      "onboard_time": 1751863346,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 64380,
       "num": 64380,
       "word": "喜欢烧烤和喜欢西瓜的都沉默了",
@@ -4628,7 +4692,7 @@
     },
     {
       "raw_hot": 42569,
-      "num": 134713,
+      "num": 319757,
       "word": "外卖大战有骑手一天赚1700多元",
       "onboard_time": 1751863285,
       "rank": 44,
@@ -4657,6 +4721,14 @@
       "onboard_time": 1751800046,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 41634,
+      "num": 159098,
+      "word": "江西黄河水",
+      "onboard_time": 1751861904,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40177,
@@ -4688,14 +4760,6 @@
       "word": "21岁机车少年意外离世父亲发文悼念",
       "onboard_time": 1751746034,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34908,
-      "num": 151058,
-      "word": "江西黄河水",
-      "onboard_time": 1751861904,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -4983,6 +5047,9 @@
     },
     {
       "word": "#中美关系的未来在青年#"
+    },
+    {
+      "word": "#铭记历史尊崇英雄#"
     }
   ]
 }
