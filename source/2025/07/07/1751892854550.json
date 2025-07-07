@@ -1,0 +1,410 @@
+{
+  "runTime": 1751892854550,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1384593,
+        "num": 1384593,
+        "word": "老师因学生志愿未报清北解散群聊",
+        "onboard_time": 1751889381,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1173354,
+        "num": 1173354,
+        "word": "张子枫简直蜕变",
+        "onboard_time": 1751888362,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 54568,
+        "num": 1121806,
+        "word": "88年了我们不曾忘不能忘不敢忘",
+        "onboard_time": 1751880022,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1118056,
+        "num": 1118056,
+        "word": "魏晨回应结婚证是在潍坊领的",
+        "onboard_time": 1751890343,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 657396,
+        "num": 657396,
+        "word": "警方通报42岁男子杭州南站坠楼",
+        "onboard_time": 1751890103,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 630622,
+        "num": 630622,
+        "word": "罗马仕退款排到17万位",
+        "onboard_time": 1751886261,
+        "rank": 5,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 589209,
+        "num": 589209,
+        "word": "Angelababy巴黎时装周状态",
+        "onboard_time": 1751887102,
+        "rank": 6,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 527960,
+        "num": 527960,
+        "word": "华策道歉",
+        "onboard_time": 1751892024,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 526575,
+        "num": 526575,
+        "word": "国足vs韩国",
+        "onboard_time": 1751885062,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197918,
+        "num": 453004,
+        "word": "律师解读未付款刮中100万算谁的",
+        "onboard_time": 1751891482,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 610359,
+        "num": 452359,
+        "word": "梓渝 微笑一号店",
+        "onboard_time": 1751890522,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 451596,
+        "num": 451596,
+        "word": "中方回应印度称中国借刀杀人",
+        "onboard_time": 1751886802,
+        "rank": 11,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 391419,
+        "num": 391419,
+        "word": "中方已向印度提出交涉",
+        "onboard_time": 1751888182,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 371927,
+        "num": 371927,
+        "word": "肖战玲娜贝儿打招呼",
+        "onboard_time": 1751887702,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78743,
+        "num": 359458,
+        "word": "当事人称说18岁显老涉事员工已致歉",
+        "onboard_time": 1751891482,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 347842,
+        "num": 347842,
+        "word": "黄宗泽说不结婚是为了气妈妈",
+        "onboard_time": 1751883262,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312662,
+        "num": 312662,
+        "word": "虞书欣于适 我欲乘风",
+        "onboard_time": 1751886862,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307127,
+        "num": 307127,
+        "word": "挂绿荔枝",
+        "onboard_time": 1751884701,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 244862,
+        "num": 244862,
+        "word": "王源林俊杰演唱会上厕所失败",
+        "onboard_time": 1751891543,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 22558,
+        "num": 235880,
+        "word": "五星级酒店摆地摊没有预制菜",
+        "onboard_time": 1751892082,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313338,
+        "num": 235864,
+        "word": "彩票中心通报女子中百万遭摊主夺票",
+        "onboard_time": 1751878584,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267057,
+        "num": 235167,
+        "word": "92岁老人病危兄妹在医院打起来了",
+        "onboard_time": 1751889263,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232739,
+        "num": 232739,
+        "word": "华策经纪",
+        "onboard_time": 1751889802,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226920,
+        "num": 226920,
+        "word": "热射病的前兆",
+        "onboard_time": 1751889022,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 220741,
+        "num": 220741,
+        "word": "以法之名更新了",
+        "onboard_time": 1751883801,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217678,
+        "num": 217678,
+        "word": "Angelababy眼尾贴钻",
+        "onboard_time": 1751888061,
+        "rank": 25,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 209059,
+        "num": 209059,
+        "word": "周深双语歌曲归来致敬先烈",
+        "onboard_time": 1751888962,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 206429,
+        "num": 206429,
+        "word": "杨阳洋长这么大了",
+        "onboard_time": 1751891663,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206175,
+        "num": 206175,
+        "word": "12306回应高铁F座最受欢迎",
+        "onboard_time": 1751888121,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34499,
+        "num": 195876,
+        "word": "美空军暂停与马斯克货运火箭项目",
+        "onboard_time": 1751892082,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 194724,
+        "num": 194724,
+        "word": "教育局回应学生未报清北老师解散群聊",
+        "onboard_time": 1751891122,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185268,
+        "num": 185268,
+        "word": "小英感染幽门螺旋杆菌",
+        "onboard_time": 1751865264,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 173774,
+        "num": 173774,
+        "word": "陷入循环了",
+        "onboard_time": 1751887222,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172010,
+        "num": 172010,
+        "word": "易烊千玺演唱会原定场馆再回应",
+        "onboard_time": 1751891002,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 159757,
+        "num": 159757,
+        "word": "男子徒手抓蛇甩成风车被反咬一口",
+        "onboard_time": 1751887462,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159079,
+        "num": 159079,
+        "word": "幽门螺旋杆菌",
+        "onboard_time": 1751883441,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 153728,
+        "num": 153728,
+        "word": "陈梦正面回应退出世界排名",
+        "onboard_time": 1751885542,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148282,
+        "num": 148282,
+        "word": "你跟我说这是贾斯汀比伯",
+        "onboard_time": 1751892323,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133533,
+        "num": 133533,
+        "word": "王楚钦32分钟完整版采访",
+        "onboard_time": 1751891963,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132525,
+        "num": 132525,
+        "word": "丽江失联20岁女大学生遗体被找到",
+        "onboard_time": 1751879302,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129878,
+        "num": 129878,
+        "word": "金毛李墩墩主人为疏忽致歉",
+        "onboard_time": 1751891183,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129275,
+        "num": 129275,
+        "word": "曾为守护家国浴血的身影从未被遗忘",
+        "onboard_time": 1751891122,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122578,
+        "num": 122578,
+        "word": "马斯克从政",
+        "onboard_time": 1751885481,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122007,
+        "num": 122007,
+        "word": "Angelababy森林精灵",
+        "onboard_time": 1751892624,
+        "rank": 43,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 119873,
+        "num": 119873,
+        "word": "周杰伦老子没时间",
+        "onboard_time": 1751869884,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116745,
+        "num": 116745,
+        "word": "谁把我爸的衣服拿片场了",
+        "onboard_time": 1751892683,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115951,
+        "num": 115951,
+        "word": "谁懂迪丽热巴敬礼这一下",
+        "onboard_time": 1751879182,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113176,
+        "num": 113176,
+        "word": "以法之名",
+        "onboard_time": 1751889923,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112227,
+        "num": 112227,
+        "word": "27岁小伙颈部按摩后脑梗死",
+        "onboard_time": 1751886322,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110725,
+        "num": 110725,
+        "word": "血铅异常幼儿或为慢性铅中毒",
+        "onboard_time": 1751887882,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#今天重温总书记这番话#"
+    }
+  }
+}

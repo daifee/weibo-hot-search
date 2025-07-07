@@ -1,6 +1,6 @@
 {
   "startTime": 1751819447185,
-  "endTime": 1751888352832,
+  "endTime": 1751892854550,
   "band_list": [
     {
       "raw_hot": 8592534,
@@ -83,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1384593,
+      "num": 1384593,
+      "word": "老师因学生志愿未报清北解散群聊",
+      "onboard_time": 1751889381,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1230081,
       "num": 1230081,
       "word": "女网红海边徒手捡起致命鸡心螺",
@@ -123,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1173354,
+      "num": 1173354,
+      "word": "张子枫简直蜕变",
+      "onboard_time": 1751888362,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1163518,
       "num": 1163518,
       "word": "高校学生热晕一晚开进五六辆救护车",
@@ -145,6 +161,14 @@
       "onboard_time": 1751865264,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1118056,
+      "num": 1118056,
+      "word": "魏晨回应结婚证是在潍坊领的",
+      "onboard_time": 1751890343,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1049854,
@@ -307,8 +331,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 657396,
+      "num": 657396,
+      "word": "警方通报42岁男子杭州南站坠楼",
+      "onboard_time": 1751890103,
+      "rank": 4,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 643550,
-      "num": 307833,
+      "num": 589209,
       "word": "Angelababy巴黎时装周状态",
       "onboard_time": 1751887102,
       "rank": 25,
@@ -339,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 630622,
+      "num": 630622,
+      "word": "罗马仕退款排到17万位",
+      "onboard_time": 1751886261,
+      "rank": 5,
+      "category": "民生新闻,数码"
+    },
+    {
       "raw_hot": 623236,
       "num": 623236,
       "word": "烟台南山学院",
@@ -348,11 +388,19 @@
     },
     {
       "raw_hot": 623037,
-      "num": 301759,
+      "num": 347842,
       "word": "黄宗泽说不结婚是为了气妈妈",
       "onboard_time": 1751883262,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 610359,
+      "num": 452359,
+      "word": "梓渝 微笑一号店",
+      "onboard_time": 1751890522,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 608668,
@@ -419,6 +467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 527960,
+      "num": 527960,
+      "word": "华策道歉",
+      "onboard_time": 1751892024,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 506416,
       "num": 506416,
       "word": "孙颖莎3比2刘杨子",
@@ -451,12 +507,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 457530,
-      "num": 457530,
-      "word": "罗马仕退款排到17万位",
-      "onboard_time": 1751886261,
-      "rank": 5,
-      "category": "民生新闻,数码"
+      "raw_hot": 451596,
+      "num": 451596,
+      "word": "中方回应印度称中国借刀杀人",
+      "onboard_time": 1751886802,
+      "rank": 23,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 445187,
@@ -563,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 391419,
+      "num": 391419,
+      "word": "中方已向印度提出交涉",
+      "onboard_time": 1751888182,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 388868,
       "num": 405512,
       "word": "张凯丽女儿回应节目里爆哭",
@@ -593,6 +657,14 @@
       "onboard_time": 1751872464,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 371927,
+      "num": 371927,
+      "word": "肖战玲娜贝儿打招呼",
+      "onboard_time": 1751887702,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 362848,
@@ -681,14 +753,6 @@
       "onboard_time": 1751870543,
       "rank": 8,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 313221,
-      "num": 313221,
-      "word": "中方回应印度称中国借刀杀人",
-      "onboard_time": 1751886802,
-      "rank": 23,
-      "category": "国内时政,军事"
     },
     {
       "raw_hot": 309187,
@@ -843,6 +907,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 267057,
+      "num": 235167,
+      "word": "92岁老人病危兄妹在医院打起来了",
+      "onboard_time": 1751889263,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 266967,
       "num": 266967,
       "word": "赛里木湖",
@@ -923,6 +995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 244862,
+      "num": 244862,
+      "word": "王源林俊杰演唱会上厕所失败",
+      "onboard_time": 1751891543,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 240924,
       "num": 240924,
       "word": "台风",
@@ -963,14 +1043,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 234980,
-      "num": 234980,
-      "word": "肖战玲娜贝儿打招呼",
-      "onboard_time": 1751887702,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 234146,
       "num": 234146,
       "word": "自己做饭1年吃成了营养不良",
@@ -987,12 +1059,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 232739,
+      "num": 232739,
+      "word": "华策经纪",
+      "onboard_time": 1751889802,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229580,
       "num": 229580,
       "word": "李雪琴看起来又瘦了",
       "onboard_time": 1751850623,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 226920,
+      "num": 226920,
+      "word": "热射病的前兆",
+      "onboard_time": 1751889022,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 223518,
@@ -1017,6 +1105,14 @@
       "onboard_time": 1751862326,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217678,
+      "num": 217678,
+      "word": "Angelababy眼尾贴钻",
+      "onboard_time": 1751888061,
+      "rank": 23,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 217608,
@@ -1083,11 +1179,35 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209059,
+      "num": 209059,
+      "word": "周深双语歌曲归来致敬先烈",
+      "onboard_time": 1751888962,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 207210,
       "num": 433375,
       "word": "烟台南山学院安排专项资金装空调",
       "onboard_time": 1751854883,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206429,
+      "num": 206429,
+      "word": "杨阳洋长这么大了",
+      "onboard_time": 1751891663,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 206175,
+      "num": 206175,
+      "word": "12306回应高铁F座最受欢迎",
+      "onboard_time": 1751888121,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -1105,6 +1225,14 @@
       "onboard_time": 1751863166,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 197918,
+      "num": 453004,
+      "word": "律师解读未付款刮中100万算谁的",
+      "onboard_time": 1751891482,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 197708,
@@ -1139,6 +1267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194724,
+      "num": 194724,
+      "word": "教育局回应学生未报清北老师解散群聊",
+      "onboard_time": 1751891122,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192574,
       "num": 192574,
       "word": "医生称晚安牛奶每天喝24000瓶才有效",
@@ -1153,14 +1289,6 @@
       "onboard_time": 1751880804,
       "rank": 43,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 190850,
-      "num": 207339,
-      "word": "Angelababy眼尾贴钻",
-      "onboard_time": 1751888061,
-      "rank": 23,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 189637,
@@ -1283,6 +1411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173774,
+      "num": 173774,
+      "word": "陷入循环了",
+      "onboard_time": 1751887222,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 173745,
       "num": 173745,
       "word": "官方回应血铅检验两地数据差距大",
@@ -1305,6 +1441,14 @@
       "onboard_time": 1751865804,
       "rank": 45,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 172010,
+      "num": 172010,
+      "word": "易烊千玺演唱会原定场馆再回应",
+      "onboard_time": 1751891002,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 170984,
@@ -1355,14 +1499,6 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 164832,
-      "num": 164832,
-      "word": "陷入循环了",
-      "onboard_time": 1751887222,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 163685,
       "num": 166839,
       "word": "鹿晗依旧开车窗",
@@ -1408,6 +1544,14 @@
       "word": "7月7日迎来小暑",
       "onboard_time": 1751844621,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159757,
+      "num": 159757,
+      "word": "男子徒手抓蛇甩成风车被反咬一口",
+      "onboard_time": 1751887462,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -1507,6 +1651,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 148282,
+      "num": 148282,
+      "word": "你跟我说这是贾斯汀比伯",
+      "onboard_time": 1751892323,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147049,
       "num": 147049,
       "word": "光遇",
@@ -1561,14 +1713,6 @@
       "onboard_time": 1751870664,
       "rank": 46,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 143722,
-      "num": 143722,
-      "word": "男子徒手抓蛇甩成风车被反咬一口",
-      "onboard_time": 1751887462,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 142612,
@@ -1649,6 +1793,14 @@
       "onboard_time": 1751854703,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133533,
+      "num": 133533,
+      "word": "王楚钦32分钟完整版采访",
+      "onboard_time": 1751891963,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 132749,
@@ -1739,6 +1891,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129878,
+      "num": 129878,
+      "word": "金毛李墩墩主人为疏忽致歉",
+      "onboard_time": 1751891183,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129275,
+      "num": 129275,
+      "word": "曾为守护家国浴血的身影从未被遗忘",
+      "onboard_time": 1751891122,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 129245,
       "num": 129245,
       "word": "我是来避暑的 不是来中暑的",
@@ -1761,14 +1929,6 @@
       "onboard_time": 1751872643,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127829,
-      "num": 127829,
-      "word": "12306回应高铁F座最受欢迎",
-      "onboard_time": 1751888121,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 126813,
@@ -1857,6 +2017,14 @@
       "onboard_time": 1751830514,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122007,
+      "num": 122007,
+      "word": "Angelababy森林精灵",
+      "onboard_time": 1751892624,
+      "rank": 43,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 121973,
@@ -2003,6 +2171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116745,
+      "num": 116745,
+      "word": "谁把我爸的衣服拿片场了",
+      "onboard_time": 1751892683,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116493,
       "num": 116493,
       "word": "孙颖莎晋级32强",
@@ -2083,20 +2259,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113176,
+      "num": 113176,
+      "word": "以法之名",
+      "onboard_time": 1751889923,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113113,
       "num": 113113,
       "word": "林俊杰潘玮柏首次同台燃炸",
       "onboard_time": 1751818044,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 113052,
-      "num": 113052,
-      "word": "中方已向印度提出交涉",
-      "onboard_time": 1751888182,
-      "rank": 41,
-      "category": "国内时政"
     },
     {
       "raw_hot": 111888,
@@ -2113,6 +2289,14 @@
       "onboard_time": 1751871385,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110725,
+      "num": 292315,
+      "word": "血铅异常幼儿或为慢性铅中毒",
+      "onboard_time": 1751887882,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110444,
@@ -2563,6 +2747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 78743,
+      "num": 359458,
+      "word": "当事人称说18岁显老涉事员工已致歉",
+      "onboard_time": 1751891482,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75668,
       "num": 162557,
       "word": "成毅禹司凤打戏混剪",
@@ -2787,6 +2979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34499,
+      "num": 195876,
+      "word": "美空军暂停与马斯克货运火箭项目",
+      "onboard_time": 1751892082,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 33481,
       "num": 70580,
       "word": "来自一个不扫兴的爸爸的爱",
@@ -2931,11 +3131,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 22285,
-      "num": 292315,
-      "word": "血铅异常幼儿或为慢性铅中毒",
-      "onboard_time": 1751887882,
-      "rank": 14,
+      "raw_hot": 22558,
+      "num": 235880,
+      "word": "五星级酒店摆地摊没有预制菜",
+      "onboard_time": 1751892082,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
