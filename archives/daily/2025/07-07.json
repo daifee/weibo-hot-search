@@ -1,6 +1,6 @@
 {
   "startTime": 1751819447185,
-  "endTime": 1751855616898,
+  "endTime": 1751860743817,
   "band_list": [
     {
       "raw_hot": 8592534,
@@ -19,6 +19,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 2246870,
+      "num": 2246870,
+      "word": "果然高铁F座最受欢迎",
+      "onboard_time": 1751853563,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1905783,
       "num": 296729,
       "word": "学生称去世宿管大爷平时身体很好",
@@ -32,6 +40,14 @@
       "word": "青岛大学宿管阿姨称8个月没发工资",
       "onboard_time": 1751852063,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1414917,
+      "num": 1414917,
+      "word": "实付2元点外卖被偷气得直接报警",
+      "onboard_time": 1751856143,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -51,14 +67,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 910510,
-      "num": 910510,
-      "word": "果然高铁F座最受欢迎",
-      "onboard_time": 1751853563,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 894785,
       "num": 894785,
       "word": "青岛大学学生称有同学宿舍中暑送医",
@@ -67,12 +75,60 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 868693,
+      "num": 868693,
+      "word": "热射病 不出汗",
+      "onboard_time": 1751853502,
+      "rank": 16,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 705153,
       "num": 705153,
       "word": "央视曝光零差评背后猫腻",
       "onboard_time": 1751817864,
       "rank": 1,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 704448,
+      "num": 704448,
+      "word": "梁靖崑止步男单首轮",
+      "onboard_time": 1751858304,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 679676,
+      "num": 679676,
+      "word": "学生在奈雪兼职被说18岁这么显老",
+      "onboard_time": 1751858544,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 674260,
+      "num": 662813,
+      "word": "青岛大学毕业典礼",
+      "onboard_time": 1751854464,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 667850,
+      "num": 667850,
+      "word": "青岛大学称宿舍马上装空调",
+      "onboard_time": 1751859263,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 662508,
+      "num": 662508,
+      "word": "有3次犯罪前科是怎么当上局长的",
+      "onboard_time": 1751857284,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 623236,
@@ -107,12 +163,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 483631,
-      "num": 483631,
-      "word": "热射病 不出汗",
-      "onboard_time": 1751853502,
-      "rank": 16,
-      "category": "健康医疗"
+      "raw_hot": 503225,
+      "num": 503225,
+      "word": "明德物业回应青岛大学宿管离世",
+      "onboard_time": 1751856383,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 477660,
@@ -131,20 +187,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 455811,
-      "num": 424339,
-      "word": "青岛大学毕业典礼",
-      "onboard_time": 1751854464,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 422685,
       "num": 422685,
       "word": "七七事变88年了",
       "onboard_time": 1751818164,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 407580,
+      "num": 407580,
+      "word": "会让体内湿气加重的行为",
+      "onboard_time": 1751858003,
+      "rank": 13,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 404011,
@@ -169,6 +225,22 @@
       "onboard_time": 1751843240,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 316611,
+      "num": 316611,
+      "word": "傅国涌去世",
+      "onboard_time": 1751859743,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 309187,
+      "num": 664695,
+      "word": "斯嘉丽成全球票房最高演员",
+      "onboard_time": 1751857103,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 301667,
@@ -267,12 +339,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 266158,
+      "num": 266158,
+      "word": "世界是一个巨大的余华",
+      "onboard_time": 1751856143,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 265160,
       "num": 458009,
       "word": "赵立坚推介王一博万物可爱",
       "onboard_time": 1751851284,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 261225,
+      "num": 662993,
+      "word": "被爸妈认证的帅气和美貌",
+      "onboard_time": 1751852183,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 255196,
@@ -315,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 234146,
+      "num": 234146,
+      "word": "自己做饭1年吃成了营养不良",
+      "onboard_time": 1751859144,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 229580,
       "num": 229580,
       "word": "李雪琴看起来又瘦了",
@@ -323,12 +419,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 216678,
-      "num": 452545,
-      "word": "被爸妈认证的帅气和美貌",
-      "onboard_time": 1751852183,
-      "rank": 8,
-      "category": "综艺"
+      "raw_hot": 228844,
+      "num": 228844,
+      "word": "抑郁症 不能做近视手术",
+      "onboard_time": 1751858662,
+      "rank": 22,
+      "category": "科学科普,健康医疗"
+    },
+    {
+      "raw_hot": 223518,
+      "num": 223518,
+      "word": "七七事变",
+      "onboard_time": 1751813184,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 216138,
@@ -355,12 +459,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 197820,
-      "num": 197820,
-      "word": "七七事变",
-      "onboard_time": 1751813184,
-      "rank": 22,
-      "category": "国内时政"
+      "raw_hot": 195068,
+      "num": 195068,
+      "word": "王楚钦vs奇里塔",
+      "onboard_time": 1751856263,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 192574,
@@ -387,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184666,
+      "num": 184666,
+      "word": "梁靖崑2比3巴德",
+      "onboard_time": 1751858484,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182268,
       "num": 182268,
       "word": "小暑",
@@ -403,12 +515,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167704,
+      "num": 257649,
+      "word": "宣萱获新加坡视后",
+      "onboard_time": 1751858603,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162932,
       "num": 162932,
       "word": "防空警报",
       "onboard_time": 1751855483,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161735,
+      "num": 161735,
+      "word": "荔枝酒酿冰奶",
+      "onboard_time": 1751857823,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 160918,
@@ -483,12 +611,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145460,
+      "num": 145460,
+      "word": "草莓牛奶特别甜",
+      "onboard_time": 1751860343,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 140569,
       "num": 140569,
       "word": "无畏 菜",
       "onboard_time": 1751805684,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 139807,
+      "num": 139807,
+      "word": "沈阳一男子将私家车改装为警车",
+      "onboard_time": 1751856084,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137022,
@@ -499,12 +643,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 136703,
+      "num": 136703,
+      "word": "韩国为大熊猫双胞胎过2岁生日",
+      "onboard_time": 1751854703,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132749,
       "num": 132749,
       "word": "山东舰编队访港",
       "onboard_time": 1751827995,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 132492,
+      "num": 132492,
+      "word": "朋友圈代码",
+      "onboard_time": 1751860524,
+      "rank": 43,
+      "category": "科学科普"
     },
     {
       "raw_hot": 132417,
@@ -547,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126118,
+      "num": 145553,
+      "word": "纪念全民族抗战爆发88周年",
+      "onboard_time": 1751856983,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 126044,
       "num": 126044,
       "word": "王岳伦机场接王诗龄",
@@ -561,6 +729,14 @@
       "onboard_time": 1751853682,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 124276,
+      "num": 124276,
+      "word": "我跟王安宇的共同点 有底薪",
+      "onboard_time": 1751860524,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 122233,
@@ -579,12 +755,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121887,
+      "num": 256719,
+      "word": "王一博愿爱唱出壮丽山河国泰民安",
+      "onboard_time": 1751860165,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 121193,
       "num": 121193,
       "word": "脊柱最喜欢的4个动作",
       "onboard_time": 1751815286,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 120989,
+      "num": 206990,
+      "word": "热射病的4种高危人群",
+      "onboard_time": 1751860283,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 119346,
+      "num": 119346,
+      "word": "王楚钦进32强",
+      "onboard_time": 1751858963,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 118345,
+      "num": 1151107,
+      "word": "七七事变背后的历史真相",
+      "onboard_time": 1751818223,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 118315,
@@ -611,8 +819,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115779,
+      "num": 206155,
+      "word": "山河为证是一部全民回忆录",
+      "onboard_time": 1751857705,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 114992,
-      "num": 114992,
+      "num": 140778,
       "word": "湖人官宣艾顿加盟",
       "onboard_time": 1751855244,
       "rank": 41,
@@ -635,12 +851,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 111309,
-      "num": 111309,
-      "word": "韩国为大熊猫双胞胎过2岁生日",
-      "onboard_time": 1751854703,
-      "rank": 44,
+      "raw_hot": 110444,
+      "num": 110444,
+      "word": "残疾小狗爬进了残疾小伙的家",
+      "onboard_time": 1751859443,
+      "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109793,
+      "num": 109793,
+      "word": "杨笠 抵制黄牛第一人",
+      "onboard_time": 1751860704,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 109766,
+      "num": 109766,
+      "word": "WTT",
+      "onboard_time": 1751858424,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 108205,
@@ -729,14 +961,6 @@
       "onboard_time": 1751849962,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 97444,
-      "num": 669318,
-      "word": "七七事变背后的历史真相",
-      "onboard_time": 1751818223,
-      "rank": 41,
-      "category": "国内时政"
     },
     {
       "raw_hot": 96063,

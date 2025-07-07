@@ -1,0 +1,410 @@
+{
+  "runTime": 1751860743817,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2246870,
+        "num": 2246870,
+        "word": "果然高铁F座最受欢迎",
+        "onboard_time": 1751853563,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1414917,
+        "num": 1414917,
+        "word": "实付2元点外卖被偷气得直接报警",
+        "onboard_time": 1751856143,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118345,
+        "num": 1151107,
+        "word": "七七事变背后的历史真相",
+        "onboard_time": 1751818223,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 905501,
+        "num": 905501,
+        "word": "男生与女友同居太兴奋后空翻摔死",
+        "onboard_time": 1751816663,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 868693,
+        "num": 868693,
+        "word": "热射病 不出汗",
+        "onboard_time": 1751853502,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 704448,
+        "num": 704448,
+        "word": "梁靖崑止步男单首轮",
+        "onboard_time": 1751858304,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 679676,
+        "num": 679676,
+        "word": "学生在奈雪兼职被说18岁这么显老",
+        "onboard_time": 1751858544,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 667850,
+        "num": 667850,
+        "word": "青岛大学称宿舍马上装空调",
+        "onboard_time": 1751859263,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309187,
+        "num": 664695,
+        "word": "斯嘉丽成全球票房最高演员",
+        "onboard_time": 1751857103,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261225,
+        "num": 662993,
+        "word": "被爸妈认证的帅气和美貌",
+        "onboard_time": 1751852183,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 674260,
+        "num": 662813,
+        "word": "青岛大学毕业典礼",
+        "onboard_time": 1751854464,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 662508,
+        "num": 662508,
+        "word": "有3次犯罪前科是怎么当上局长的",
+        "onboard_time": 1751857284,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 503225,
+        "num": 503225,
+        "word": "明德物业回应青岛大学宿管离世",
+        "onboard_time": 1751856383,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 407580,
+        "num": 407580,
+        "word": "会让体内湿气加重的行为",
+        "onboard_time": 1751858003,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 357192,
+        "num": 357192,
+        "word": "女网红海边徒手捡起致命鸡心螺",
+        "onboard_time": 1751850743,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316611,
+        "num": 316611,
+        "word": "傅国涌去世",
+        "onboard_time": 1751859743,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266158,
+        "num": 266158,
+        "word": "世界是一个巨大的余华",
+        "onboard_time": 1751856143,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174409,
+        "num": 259122,
+        "word": "赵立坚推介王一博万物可爱",
+        "onboard_time": 1751851284,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 167704,
+        "num": 257649,
+        "word": "宣萱获新加坡视后",
+        "onboard_time": 1751858603,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121887,
+        "num": 256719,
+        "word": "王一博愿爱唱出壮丽山河国泰民安",
+        "onboard_time": 1751860165,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 256674,
+        "num": 256674,
+        "word": "七七事变88年了",
+        "onboard_time": 1751818164,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 234146,
+        "num": 234146,
+        "word": "自己做饭1年吃成了营养不良",
+        "onboard_time": 1751859144,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228844,
+        "num": 228844,
+        "word": "抑郁症 不能做近视手术",
+        "onboard_time": 1751858662,
+        "rank": 22,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 223518,
+        "num": 223518,
+        "word": "七七事变",
+        "onboard_time": 1751813184,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120989,
+        "num": 206990,
+        "word": "热射病的4种高危人群",
+        "onboard_time": 1751860283,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 115779,
+        "num": 206155,
+        "word": "山河为证是一部全民回忆录",
+        "onboard_time": 1751857705,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 206004,
+        "num": 206004,
+        "word": "烟台南山学院安排专项资金装空调",
+        "onboard_time": 1751854883,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199563,
+        "num": 199563,
+        "word": "731部队罪行最新铁证",
+        "onboard_time": 1751850262,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195068,
+        "num": 195068,
+        "word": "王楚钦vs奇里塔",
+        "onboard_time": 1751856263,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184666,
+        "num": 184666,
+        "word": "梁靖崑2比3巴德",
+        "onboard_time": 1751858484,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180245,
+        "num": 180245,
+        "word": "三伏天每天洗几次澡最好",
+        "onboard_time": 1751849602,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 168411,
+        "num": 168411,
+        "word": "李雪琴看起来又瘦了",
+        "onboard_time": 1751850623,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167709,
+        "num": 167709,
+        "word": "台风",
+        "onboard_time": 1751843118,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161735,
+        "num": 161735,
+        "word": "荔枝酒酿冰奶",
+        "onboard_time": 1751857823,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 160031,
+        "num": 160031,
+        "word": "舅舅回应16个外甥连续5年来过暑假",
+        "onboard_time": 1751847261,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149618,
+        "num": 149618,
+        "word": "特朗普称马斯克成立新政党荒谬",
+        "onboard_time": 1751850081,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 145856,
+        "num": 145856,
+        "word": "侵华日军口述罪证视频曝光",
+        "onboard_time": 1751850383,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126118,
+        "num": 145553,
+        "word": "纪念全民族抗战爆发88周年",
+        "onboard_time": 1751856983,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 145460,
+        "num": 145460,
+        "word": "草莓牛奶特别甜",
+        "onboard_time": 1751860343,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 38327,
+        "num": 140778,
+        "word": "湖人官宣艾顿加盟",
+        "onboard_time": 1751855244,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139807,
+        "num": 139807,
+        "word": "沈阳一男子将私家车改装为警车",
+        "onboard_time": 1751856084,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136703,
+        "num": 136703,
+        "word": "韩国为大熊猫双胞胎过2岁生日",
+        "onboard_time": 1751854703,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132612,
+        "num": 132612,
+        "word": "山东舰编队访港",
+        "onboard_time": 1751827995,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 132492,
+        "num": 132492,
+        "word": "朋友圈代码",
+        "onboard_time": 1751860524,
+        "rank": 43,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 124276,
+        "num": 124276,
+        "word": "我跟王安宇的共同点 有底薪",
+        "onboard_time": 1751860524,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119346,
+        "num": 119346,
+        "word": "王楚钦进32强",
+        "onboard_time": 1751858963,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117978,
+        "num": 117978,
+        "word": "赛里木湖",
+        "onboard_time": 1751846301,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 110444,
+        "num": 110444,
+        "word": "残疾小狗爬进了残疾小伙的家",
+        "onboard_time": 1751859443,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109793,
+        "num": 109793,
+        "word": "杨笠 抵制黄牛第一人",
+        "onboard_time": 1751860704,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109766,
+        "num": 109766,
+        "word": "WTT",
+        "onboard_time": 1751858424,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美关系的未来在青年#"
+    }
+  }
+}
