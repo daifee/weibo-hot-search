@@ -1,0 +1,410 @@
+{
+  "runTime": 1751914269161,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 189923,
+        "num": 189923,
+        "word": "举报者身份信息惊现举报对象办公室",
+        "onboard_time": 1751907260,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149787,
+        "num": 149787,
+        "word": "山姆2公斤冰块卖22.8元",
+        "onboard_time": 1751901924,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16468,
+        "num": 145000,
+        "word": "捍卫英烈尊严网警公布6起侮辱英烈案",
+        "onboard_time": 1751901624,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 142456,
+        "num": 142456,
+        "word": "Angelababy一出手便是王炸",
+        "onboard_time": 1751898685,
+        "rank": 3,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 122954,
+        "num": 122954,
+        "word": "凤凰传奇已连续取消3站演唱会",
+        "onboard_time": 1751900964,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 390068,
+        "num": 120648,
+        "word": "蜜雪冰城被曝员工用脚关直饮水桶",
+        "onboard_time": 1751904143,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85993,
+        "num": 85993,
+        "word": "爱泼斯坦去世当晚牢房区域视频公开",
+        "onboard_time": 1751895143,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 61412,
+        "num": 61412,
+        "word": "买演唱会门票竟被扣近20万元",
+        "onboard_time": 1751904083,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 54082,
+        "num": 54082,
+        "word": "日本小学生完全不知日军侵华事实",
+        "onboard_time": 1751901264,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 44185,
+        "num": 44185,
+        "word": "国足0比3韩国",
+        "onboard_time": 1751893282,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52881,
+        "num": 44042,
+        "word": "梓渝 微笑一号店",
+        "onboard_time": 1751890522,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51659,
+        "num": 43865,
+        "word": "权恩妃好辣",
+        "onboard_time": 1751907019,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 50296,
+        "num": 43350,
+        "word": "权恩妃直拍破两百万",
+        "onboard_time": 1751900485,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 47496,
+        "num": 43206,
+        "word": "葛荟婕自曝做了戒酒手术",
+        "onboard_time": 1751902765,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42907,
+        "num": 42907,
+        "word": "金毛李墩墩主人再发声",
+        "onboard_time": 1751909418,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41594,
+        "num": 41594,
+        "word": "员工指罗马仕高管集体消失",
+        "onboard_time": 1751905881,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41169,
+        "num": 41169,
+        "word": "英雄联盟 王俊凯",
+        "onboard_time": 1751903183,
+        "rank": 16,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 38404,
+        "num": 38404,
+        "word": "在意大利遭洗劫中国游客发声",
+        "onboard_time": 1751900543,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 33495,
+        "num": 38312,
+        "word": "魏晨回应结婚证是在潍坊领的",
+        "onboard_time": 1751890343,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29877,
+        "num": 38292,
+        "word": "张子枫简直蜕变",
+        "onboard_time": 1751888362,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38290,
+        "num": 38290,
+        "word": "又一罗马仕充电宝充电时爆炸",
+        "onboard_time": 1751896105,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37390,
+        "num": 37390,
+        "word": "12306回应高铁F座最受欢迎",
+        "onboard_time": 1751888121,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35496,
+        "num": 35496,
+        "word": "金毛李墩墩主人希望网友理性看待",
+        "onboard_time": 1751907080,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34723,
+        "num": 34723,
+        "word": "俄高官被普京解职当天自杀身亡",
+        "onboard_time": 1751902343,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29509,
+        "num": 33975,
+        "word": "于适携两岸乐团将日月潭水汇入黄河",
+        "onboard_time": 1751902223,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 33379,
+        "num": 33379,
+        "word": "律师解读南京红老头将担刑责",
+        "onboard_time": 1751901624,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32719,
+        "num": 32719,
+        "word": "中方已向印度提出交涉",
+        "onboard_time": 1751888182,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 31065,
+        "num": 31065,
+        "word": "女子服装店偷裤子被试衣镜反光现形",
+        "onboard_time": 1751911096,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29185,
+        "num": 30277,
+        "word": "巴黎高定时装周",
+        "onboard_time": 1751911396,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 26508,
+        "num": 30161,
+        "word": "以法之名更新了",
+        "onboard_time": 1751883801,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43244,
+        "num": 30161,
+        "word": "人际交往中恶意满满的5句话",
+        "onboard_time": 1751909418,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30131,
+        "num": 30131,
+        "word": "朴成训道歉",
+        "onboard_time": 1751899705,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29327,
+        "num": 30074,
+        "word": "NBA交易",
+        "onboard_time": 1751901264,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30047,
+        "num": 30047,
+        "word": "2万枚污损硬币遭银行拒绝兑换",
+        "onboard_time": 1751906779,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27954,
+        "num": 27954,
+        "word": "专家提醒不吃早餐更易铅中毒",
+        "onboard_time": 1751907677,
+        "rank": 34,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 27439,
+        "num": 27439,
+        "word": "林心如晒和霍建华双人画秀恩爱",
+        "onboard_time": 1751893703,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25594,
+        "num": 25594,
+        "word": "穿高跟鞋上学的女孩",
+        "onboard_time": 1751911036,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14453,
+        "num": 25492,
+        "word": "主人称没想到金毛李墩墩会开门",
+        "onboard_time": 1751914035,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25420,
+        "num": 25420,
+        "word": "俄罗斯前交通部长自杀身亡",
+        "onboard_time": 1751902825,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24648,
+        "num": 24648,
+        "word": "书卷一梦是he我们有救了",
+        "onboard_time": 1751895624,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23650,
+        "num": 24488,
+        "word": "桃花映江山",
+        "onboard_time": 1751912656,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24398,
+        "num": 24398,
+        "word": "热射病的前兆",
+        "onboard_time": 1751889022,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 23229,
+        "num": 24397,
+        "word": "侵华日军后代替父辈下跪谢罪",
+        "onboard_time": 1751911996,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22955,
+        "num": 24393,
+        "word": "罗马仕退款排到17万位",
+        "onboard_time": 1751886261,
+        "rank": 43,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 22633,
+        "num": 24390,
+        "word": "李钟硕终于在剧里过上了正常家庭生活",
+        "onboard_time": 1751901803,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22605,
+        "num": 24387,
+        "word": "徐冬冬发文回应",
+        "onboard_time": 1751892983,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22279,
+        "num": 24382,
+        "word": "山姆客服回应2公斤冰块卖22.8元",
+        "onboard_time": 1751909478,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21376,
+        "num": 24381,
+        "word": "书卷一梦",
+        "onboard_time": 1751900065,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21252,
+        "num": 24378,
+        "word": "丁禹兮花开锦绣斗笠造型",
+        "onboard_time": 1751905042,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20998,
+        "num": 24372,
+        "word": "学校通报学生未报清北老师解散群聊",
+        "onboard_time": 1751913975,
+        "rank": 49,
+        "category": "辟谣/通报"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向抗战烈士敬献花篮#"
+    }
+  }
+}
