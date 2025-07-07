@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751917135029,
+  "endTime": 1751920173991,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -6819,6 +6819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48933,
+      "num": 48933,
+      "word": "女子被造黄谣3年维权换20万空头支票",
+      "onboard_time": 1751914335,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48241,
       "num": 249642,
       "word": "当地回应自来水每月保底收费12元",
@@ -7171,14 +7179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 29696,
-      "num": 29696,
-      "word": "女子被造黄谣3年维权换20万空头支票",
-      "onboard_time": 1751914335,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 29510,
       "num": 29510,
       "word": "李一桐分享书卷一梦reaction",
@@ -7308,7 +7308,7 @@
     },
     {
       "raw_hot": 22992,
-      "num": 22539,
+      "num": 23743,
       "word": "特朗普已签署12封关税信函",
       "onboard_time": 1751915654,
       "rank": 39,
@@ -7355,20 +7355,20 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 20869,
+      "num": 25492,
+      "word": "主人称没想到金毛李墩墩会开门",
+      "onboard_time": 1751914035,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20494,
       "num": 22904,
       "word": "机器人cha了登陆少年新舞台",
       "onboard_time": 1751829674,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 20127,
-      "num": 25492,
-      "word": "主人称没想到金毛李墩墩会开门",
-      "onboard_time": 1751914035,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19949,
@@ -7393,6 +7393,14 @@
       "onboard_time": 1751742016,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 18396,
+      "num": 21672,
+      "word": "领馆回应中国旅行团在意被洗劫一空",
+      "onboard_time": 1751916914,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18123,
@@ -7443,19 +7451,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 15235,
+      "num": 16104,
+      "word": "无限暖暖",
+      "onboard_time": 1751910556,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 14958,
       "num": 206507,
       "word": "青岛大学宿舍图",
       "onboard_time": 1751844980,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13672,
-      "num": 21672,
-      "word": "领馆回应中国旅行团在意被洗劫一空",
-      "onboard_time": 1751916914,
-      "rank": 34,
       "category": "民生新闻"
     },
     {
