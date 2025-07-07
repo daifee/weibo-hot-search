@@ -1,7 +1,15 @@
 {
   "startTime": 1751819447185,
-  "endTime": 1751896289733,
+  "endTime": 1751898438741,
   "band_list": [
+    {
+      "raw_hot": 21806068,
+      "num": 21806068,
+      "word": "南京红老头被抓",
+      "onboard_time": 1751895024,
+      "rank": 0,
+      "category": "民生新闻,网红"
+    },
     {
       "raw_hot": 18423483,
       "num": 18423483,
@@ -209,6 +217,14 @@
       "onboard_time": 1751883801,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 929343,
+      "num": 929343,
+      "word": "爱泼斯坦去世当晚牢房区域视频公开",
+      "onboard_time": 1751895143,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 921102,
@@ -449,6 +465,14 @@
       "onboard_time": 1751876062,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 584598,
+      "num": 584598,
+      "word": "又一罗马仕充电宝充电时爆炸",
+      "onboard_time": 1751896105,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 582338,
@@ -835,6 +859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 300717,
+      "num": 300717,
+      "word": "林心如晒和霍建华双人画秀恩爱",
+      "onboard_time": 1751893703,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 298908,
       "num": 298908,
       "word": "勿忘19370707",
@@ -856,6 +888,14 @@
       "word": "BLACKPINK演唱会偶遇邓超孙俪一家",
       "onboard_time": 1751812164,
       "rank": 12,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 290930,
+      "num": 290930,
+      "word": "凤凰传奇成都站演唱会取消",
+      "onboard_time": 1751896645,
+      "rank": 17,
       "category": "演出"
     },
     {
@@ -881,14 +921,6 @@
       "onboard_time": 1751861783,
       "rank": 19,
       "category": "网红"
-    },
-    {
-      "raw_hot": 284233,
-      "num": 284233,
-      "word": "林心如晒和霍建华双人画秀恩爱",
-      "onboard_time": 1751893703,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 283940,
@@ -1043,6 +1075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 255494,
+      "num": 255494,
+      "word": "学校回应学生未报清北老师解散群聊",
+      "onboard_time": 1751896405,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 255196,
       "num": 255196,
       "word": "特朗普称马斯克成立新政党荒谬",
@@ -1089,6 +1129,14 @@
       "onboard_time": 1751843118,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 239884,
+      "num": 239884,
+      "word": "书卷一梦是he我们有救了",
+      "onboard_time": 1751895624,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 239676,
@@ -1179,6 +1227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218245,
+      "num": 218245,
+      "word": "6个荔枝298",
+      "onboard_time": 1751893223,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 217678,
       "num": 217678,
       "word": "Angelababy眼尾贴钻",
@@ -1267,6 +1323,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 208373,
+      "num": 208373,
+      "word": "南京女装大叔网传信息有夸大成分",
+      "onboard_time": 1751898029,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 207210,
       "num": 433375,
       "word": "烟台南山学院安排专项资金装空调",
@@ -1283,11 +1347,11 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 203528,
-      "num": 203528,
-      "word": "书卷一梦是he我们有救了",
-      "onboard_time": 1751895624,
-      "rank": 25,
+      "raw_hot": 198375,
+      "num": 198375,
+      "word": "易烊千玺舒淇 孔雀东南飞",
+      "onboard_time": 1751897005,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -1337,6 +1401,14 @@
       "onboard_time": 1751856263,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193787,
+      "num": 193787,
+      "word": "以法之名万潮",
+      "onboard_time": 1751896585,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 192574,
@@ -1403,6 +1475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184997,
+      "num": 184997,
+      "word": "杭州南站坠楼男子自行跳下",
+      "onboard_time": 1751894844,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184666,
       "num": 184666,
       "word": "梁靖崑2比3巴德",
@@ -1441,14 +1521,6 @@
       "onboard_time": 1751887942,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 180778,
-      "num": 180778,
-      "word": "6个荔枝298",
-      "onboard_time": 1751893223,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 178570,
@@ -1545,14 +1617,6 @@
       "onboard_time": 1751875762,
       "rank": 37,
       "category": "民生新闻,游戏"
-    },
-    {
-      "raw_hot": 169538,
-      "num": 184284,
-      "word": "爱泼斯坦去世当晚牢房区域视频公开",
-      "onboard_time": 1751895143,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 168334,
@@ -1664,6 +1728,14 @@
       "word": "女子加工金镯子回家一称少了5克",
       "onboard_time": 1751893883,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158156,
+      "num": 373036,
+      "word": "未报清北学生已按照意愿填报志愿",
+      "onboard_time": 1751897786,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1835,6 +1907,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 145234,
+      "num": 145234,
+      "word": "李人骏这集挨骂没毛病",
+      "onboard_time": 1751896885,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144644,
       "num": 218130,
       "word": "高瀚宇也没逃过中医法眼",
@@ -1857,6 +1937,14 @@
       "onboard_time": 1751870664,
       "rank": 46,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 142690,
+      "num": 248980,
+      "word": "血铅异常患儿跨省治疗人数还在攀升",
+      "onboard_time": 1751895685,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142612,
@@ -1947,14 +2035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 135480,
-      "num": 135480,
-      "word": "又一罗马仕充电宝充电时爆炸",
-      "onboard_time": 1751896105,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 133533,
       "num": 133533,
       "word": "王楚钦32分钟完整版采访",
@@ -1963,20 +2043,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133310,
+      "num": 133310,
+      "word": "以法之名",
+      "onboard_time": 1751889923,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132749,
       "num": 132749,
       "word": "山东舰编队访港",
       "onboard_time": 1751827995,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 132720,
-      "num": 132720,
-      "word": "杭州南站坠楼男子自行跳下",
-      "onboard_time": 1751894844,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 132492,
@@ -2227,12 +2307,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 121169,
-      "num": 121169,
-      "word": "以法之名",
-      "onboard_time": 1751889923,
-      "rank": 47,
-      "category": "剧集"
+      "raw_hot": 121104,
+      "num": 121104,
+      "word": "王曼昱对阵瑞典选手",
+      "onboard_time": 1751898325,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 120989,
@@ -2939,6 +3019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 71231,
+      "num": 194803,
+      "word": "陈梦称国乒队员既是队友也是对手",
+      "onboard_time": 1751897185,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69939,
       "num": 108310,
       "word": "餐厅回应员工将掉地肉捡回餐盒",
@@ -3043,6 +3131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 54814,
+      "num": 122915,
+      "word": "两地血铅检验结果为何差异较大",
+      "onboard_time": 1751896945,
+      "rank": 48,
+      "category": "民生新闻,科学科普"
+    },
+    {
       "raw_hot": 53075,
       "num": 104252,
       "word": "丁禹兮有种大大方方的真诚",
@@ -3072,6 +3168,14 @@
       "word": "当地回应自来水每月保底收费12元",
       "onboard_time": 1751880081,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48113,
+      "num": 302213,
+      "word": "血铅异常患儿家长称目前是自费治疗",
+      "onboard_time": 1751896945,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -3299,14 +3403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 23805,
-      "num": 248980,
-      "word": "血铅异常患儿跨省治疗人数还在攀升",
-      "onboard_time": 1751895685,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23467,
       "num": 149638,
       "word": "特斯拉夜盘大跌超7%",
@@ -3393,6 +3489,14 @@
       "onboard_time": 1751844980,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13229,
+      "num": 212582,
+      "word": "尹锡悦所受罪名指控细节被披露",
+      "onboard_time": 1751898145,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 12751,
