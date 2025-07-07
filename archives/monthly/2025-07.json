@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751861336864,
+  "endTime": 1751863334154,
   "band_list": [
     {
       "raw_hot": 8592534,
@@ -385,6 +385,14 @@
       "onboard_time": 1751360303,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1652241,
+      "num": 793577,
+      "word": "青岛大学称宿舍马上装空调",
+      "onboard_time": 1751859263,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1646641,
@@ -1563,14 +1571,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 793577,
-      "num": 793577,
-      "word": "青岛大学称宿舍马上装空调",
-      "onboard_time": 1751859263,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 790654,
       "num": 790654,
       "word": "杭州东站卧轨者已送往医院",
@@ -2067,12 +2067,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 687282,
+      "num": 687282,
+      "word": "拔牙 血栓",
+      "onboard_time": 1751862024,
+      "rank": 4,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 685559,
       "num": 396015,
       "word": "于正说再蛐蛐我就把截图放上来",
       "onboard_time": 1751519984,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 685344,
+      "num": 685344,
+      "word": "会让体内湿气加重的行为",
+      "onboard_time": 1751858003,
+      "rank": 13,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 682130,
@@ -2603,6 +2619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 582338,
+      "num": 582338,
+      "word": "12306回应G7272列车停车停电",
+      "onboard_time": 1751861065,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 582215,
       "num": 497703,
       "word": "BLACKPINK新歌",
@@ -2847,6 +2871,14 @@
       "num": 585419,
       "word": "时代少年团大连演唱会酒店涨价88倍",
       "onboard_time": 1751358924,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 532843,
+      "num": 577662,
+      "word": "杨笠 抵制黄牛第一人",
+      "onboard_time": 1751860704,
       "rank": 48,
       "category": "演出"
     },
@@ -3153,14 +3185,6 @@
       "onboard_time": 1751422219,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 484989,
-      "num": 484989,
-      "word": "会让体内湿气加重的行为",
-      "onboard_time": 1751858003,
-      "rank": 13,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 481210,
@@ -4043,6 +4067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 380594,
+      "num": 380594,
+      "word": "傅国涌去世",
+      "onboard_time": 1751859743,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 378630,
       "num": 498689,
       "word": "LikeJENNIE爽疯了",
@@ -4459,14 +4491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 346266,
-      "num": 346266,
-      "word": "傅国涌去世",
-      "onboard_time": 1751859743,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 346263,
       "num": 262690,
       "word": "苗苗晒的是大宝小时候",
@@ -4843,6 +4867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 320721,
+      "num": 320721,
+      "word": "我跟王安宇的共同点 有底薪",
+      "onboard_time": 1751860524,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 320413,
       "num": 320413,
       "word": "雷军回应大定被质疑有水分",
@@ -5179,6 +5211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 302269,
+      "num": 302269,
+      "word": "张凯丽女儿回应节目里爆哭",
+      "onboard_time": 1751860765,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 302209,
       "num": 302209,
       "word": "陈楚生像疯了一样",
@@ -5209,6 +5249,14 @@
       "onboard_time": 1751328981,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 298785,
+      "num": 239161,
+      "word": "抑郁症 不能做近视手术",
+      "onboard_time": 1751858662,
+      "rank": 22,
+      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 298102,
@@ -6155,14 +6203,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 252860,
-      "num": 569182,
-      "word": "杨笠 抵制黄牛第一人",
-      "onboard_time": 1751860704,
-      "rank": 48,
-      "category": "演出"
-    },
-    {
       "raw_hot": 252217,
       "num": 252217,
       "word": "日本首相强硬表态",
@@ -6217,6 +6257,14 @@
       "onboard_time": 1751447242,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 248838,
+      "num": 248838,
+      "word": "陈震",
+      "onboard_time": 1751861783,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 248652,
@@ -6411,14 +6459,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 238965,
-      "num": 238965,
-      "word": "抑郁症 不能做近视手术",
-      "onboard_time": 1751858662,
-      "rank": 22,
-      "category": "科学科普,健康医疗"
-    },
-    {
       "raw_hot": 238905,
       "num": 238905,
       "word": "南京奥体6万多个座椅都擦了一遍",
@@ -6505,6 +6545,14 @@
       "onboard_time": 1751730744,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 235795,
+      "num": 235795,
+      "word": "沈梦辰和杨紫撞冠了",
+      "onboard_time": 1751860883,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 235699,
@@ -6633,6 +6681,14 @@
       "onboard_time": 1751543782,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231218,
+      "num": 231218,
+      "word": "高校学生热晕一晚开进五六辆救护车",
+      "onboard_time": 1751863107,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 230940,
@@ -7089,6 +7145,14 @@
       "onboard_time": 1751509040,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 220480,
+      "num": 220480,
+      "word": "入青云",
+      "onboard_time": 1751682862,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 220021,
@@ -7675,6 +7739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205771,
+      "num": 205771,
+      "word": "王楚钦独守半区",
+      "onboard_time": 1751862264,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205742,
       "num": 205742,
       "word": "锦绣芳华",
@@ -8009,14 +8081,6 @@
       "onboard_time": 1751809583,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 201247,
-      "num": 201247,
-      "word": "我跟王安宇的共同点 有底薪",
-      "onboard_time": 1751860524,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 201243,
@@ -8592,14 +8656,6 @@
       "word": "肖战藏海上半年最热角色",
       "onboard_time": 1751358682,
       "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 193117,
-      "num": 193117,
-      "word": "沈梦辰和杨紫撞冠了",
-      "onboard_time": 1751860883,
-      "rank": 28,
       "category": "剧集"
     },
     {
@@ -9419,6 +9475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 178016,
+      "num": 178016,
+      "word": "每天喝3公斤水就能远离人际关系问题",
+      "onboard_time": 1751861965,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 177471,
       "num": 177471,
       "word": "小伙追综艺熬2天2夜后抢救了10天",
@@ -9505,14 +9569,6 @@
       "onboard_time": 1751767761,
       "rank": 29,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 176976,
-      "num": 200926,
-      "word": "张凯丽女儿回应节目里爆哭",
-      "onboard_time": 1751860765,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 176921,
@@ -9673,6 +9729,14 @@
       "onboard_time": 1751359522,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175196,
+      "num": 231679,
+      "word": "五六台救护车救热晕学生校方称不知",
+      "onboard_time": 1751862264,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175137,
@@ -11771,6 +11835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148897,
+      "num": 148897,
+      "word": "咬到桃子大动脉了吧",
+      "onboard_time": 1751861244,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 148804,
       "num": 148804,
       "word": "XUN 大动脉",
@@ -12025,6 +12097,14 @@
       "onboard_time": 1751432484,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146657,
+      "num": 146657,
+      "word": "kpop最低学历",
+      "onboard_time": 1751863225,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 146591,
@@ -12441,6 +12521,14 @@
       "onboard_time": 1751722886,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141957,
+      "num": 141957,
+      "word": "台湾本岛全警戒状态",
+      "onboard_time": 1751863285,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141812,
@@ -13619,6 +13707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131484,
+      "num": 131484,
+      "word": "动物模仿你一瘸一拐走路不是在嘲笑你",
+      "onboard_time": 1751862326,
+      "rank": 45,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 131455,
       "num": 176170,
       "word": "敖瑞鹏的微博10岁了",
@@ -14547,6 +14643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123580,
+      "num": 204126,
+      "word": "智秀火力全开",
+      "onboard_time": 1751862144,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 123446,
       "num": 123446,
       "word": "广东没有高颅顶",
@@ -15107,14 +15211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 119234,
-      "num": 119234,
-      "word": "咬到桃子大动脉了吧",
-      "onboard_time": 1751861244,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 119084,
       "num": 119084,
       "word": "贵阳音乐节全阵容官宣",
@@ -15337,6 +15433,14 @@
       "onboard_time": 1751714601,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117607,
+      "num": 574239,
+      "word": "731部队原队员承认解剖了300人",
+      "onboard_time": 1751862686,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117580,
@@ -17603,14 +17707,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 99157,
-      "num": 106200,
-      "word": "入青云",
-      "onboard_time": 1751682862,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 99133,
       "num": 99133,
       "word": "马赫退赛",
@@ -17745,6 +17841,14 @@
       "onboard_time": 1751459782,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97139,
+      "num": 154957,
+      "word": "王楚钦说做好了充分的困难准备",
+      "onboard_time": 1751862144,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 97091,
@@ -20715,6 +20819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42569,
+      "num": 134713,
+      "word": "外卖大战有骑手一天赚1700多元",
+      "onboard_time": 1751863285,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42551,
       "num": 57043,
       "word": "王鹤棣战损美成啥了",
@@ -21107,6 +21219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34908,
+      "num": 151058,
+      "word": "江西黄河水",
+      "onboard_time": 1751861904,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34394,
       "num": 664637,
       "word": "第三届北京网络视听艺术大会",
@@ -21208,14 +21328,6 @@
       "word": "天然溶洞何以变成垃圾洞",
       "onboard_time": 1751520141,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33142,
-      "num": 211372,
-      "word": "12306回应G7272列车停车停电",
-      "onboard_time": 1751861065,
-      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -21841,6 +21953,14 @@
       "onboard_time": 1751532081,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 23467,
+      "num": 149638,
+      "word": "特斯拉夜盘大跌超7%",
+      "onboard_time": 1751859683,
+      "rank": 39,
+      "category": "财经,汽车"
     },
     {
       "raw_hot": 23410,
