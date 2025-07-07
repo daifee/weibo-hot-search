@@ -1,6 +1,6 @@
 {
   "startTime": 1751819447185,
-  "endTime": 1751878268304,
+  "endTime": 1751880666541,
   "band_list": [
     {
       "raw_hot": 8592534,
@@ -147,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 879021,
+      "num": 1140643,
+      "word": "日军每天生产2吨细菌用于轰炸中国",
+      "onboard_time": 1751874981,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 868693,
       "num": 868693,
       "word": "热射病 不出汗",
@@ -169,6 +177,14 @@
       "onboard_time": 1751872283,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 756434,
+      "num": 756434,
+      "word": "张靓颖 九万字",
+      "onboard_time": 1751875461,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 734215,
@@ -259,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 627690,
+      "num": 627690,
+      "word": "彩票中心通报女子中百万遭摊主夺票",
+      "onboard_time": 1751878584,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 623236,
       "num": 623236,
       "word": "烟台南山学院",
@@ -323,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 485645,
+      "num": 485645,
+      "word": "程潇妈妈遗憾女儿没有读大学",
+      "onboard_time": 1751876062,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 477660,
       "num": 477660,
       "word": "731部队罪行最新铁证",
@@ -337,14 +369,6 @@
       "onboard_time": 1751811384,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 453449,
-      "num": 453449,
-      "word": "程潇妈妈遗憾女儿没有读大学",
-      "onboard_time": 1751876062,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 445187,
@@ -363,12 +387,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 434289,
-      "num": 410164,
-      "word": "张靓颖 九万字",
-      "onboard_time": 1751875461,
-      "rank": 8,
-      "category": "演出"
+      "raw_hot": 427873,
+      "num": 427873,
+      "word": "谁懂迪丽热巴敬礼这一下",
+      "onboard_time": 1751879182,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 422685,
@@ -491,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 326662,
+      "num": 326662,
+      "word": "铅中毒事件74份血检报告70人超标",
+      "onboard_time": 1751868444,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 316337,
       "num": 316337,
       "word": "中医认证最好的药就是酒",
@@ -499,20 +531,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 312250,
-      "num": 312250,
-      "word": "日军每天生产2吨细菌用于轰炸中国",
-      "onboard_time": 1751874981,
-      "rank": 20,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 309187,
       "num": 664695,
       "word": "斯嘉丽成全球票房最高演员",
       "onboard_time": 1751857103,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 303565,
+      "num": 303565,
+      "word": "丽江失联20岁女大学生遗体被找到",
+      "onboard_time": 1751879302,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 301667,
@@ -577,6 +609,14 @@
       "onboard_time": 1751861783,
       "rank": 19,
       "category": "网红"
+    },
+    {
+      "raw_hot": 284620,
+      "num": 337115,
+      "word": "高校宿舍装空调应全国推广吗",
+      "onboard_time": 1751877383,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 283940,
@@ -707,6 +747,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 247137,
+      "num": 247137,
+      "word": "校方回应网传离世大爷被拖欠工资",
+      "onboard_time": 1751879061,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 245579,
       "num": 245579,
       "word": "王者荣耀S40新赛季",
@@ -785,6 +833,14 @@
       "onboard_time": 1751813184,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 221131,
+      "num": 221131,
+      "word": "中百万大奖遭摊主夺票女子已顺利兑奖",
+      "onboard_time": 1751878041,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 220480,
@@ -883,6 +939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196125,
+      "num": 196125,
+      "word": "赴山海",
+      "onboard_time": 1751880202,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195068,
       "num": 195068,
       "word": "王楚钦vs奇里塔",
@@ -928,14 +992,6 @@
       "word": "网传零食店一店员给顾客下跪道歉",
       "onboard_time": 1751819781,
       "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 184885,
-      "num": 184885,
-      "word": "铅中毒事件74份血检报告70人超标",
-      "onboard_time": 1751868444,
-      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -987,6 +1043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 177511,
+      "num": 177511,
+      "word": "YG就BLACKPINK演唱会争议道歉",
+      "onboard_time": 1751879901,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 173745,
       "num": 173745,
       "word": "官方回应血铅检验两地数据差距大",
@@ -1011,11 +1075,27 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 171132,
+      "num": 171132,
+      "word": "书卷一梦豆瓣开分7.0",
+      "onboard_time": 1751880563,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170984,
       "num": 170984,
       "word": "重庆一水库水位下降现宋代摩崖造像",
       "onboard_time": 1751849181,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168280,
+      "num": 168280,
+      "word": "金毛李墩墩主人准备起诉",
+      "onboard_time": 1751880262,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -1033,6 +1113,14 @@
       "onboard_time": 1751875881,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 165756,
+      "num": 165756,
+      "word": "不要以见世面为目的带小孩旅行",
+      "onboard_time": 1751878701,
+      "rank": 31,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 162932,
@@ -1057,6 +1145,14 @@
       "onboard_time": 1751815345,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 160048,
+      "num": 255637,
+      "word": "艾米 老实人",
+      "onboard_time": 1751877922,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 159845,
@@ -1113,6 +1209,14 @@
       "onboard_time": 1751850201,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151584,
+      "num": 151584,
+      "word": "旅客绑藏168张死亡搁浅2光盘进境",
+      "onboard_time": 1751875762,
+      "rank": 37,
+      "category": "民生新闻,游戏"
     },
     {
       "raw_hot": 151504,
@@ -1379,6 +1483,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 125017,
+      "num": 125017,
+      "word": "王楚钦对对手说goodmatch",
+      "onboard_time": 1751880382,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124183,
       "num": 152552,
       "word": "女子月薪2千帮男友借贷83万后崩溃",
@@ -1409,14 +1521,6 @@
       "onboard_time": 1751830514,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 122120,
-      "num": 122120,
-      "word": "艾米 老实人",
-      "onboard_time": 1751877922,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 121973,
@@ -1451,20 +1555,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 121066,
+      "num": 121066,
+      "word": "妈妈鹿晗这个黄毛真不一样",
+      "onboard_time": 1751880441,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 120989,
       "num": 206990,
       "word": "热射病的4种高危人群",
       "onboard_time": 1751860283,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 119428,
-      "num": 119428,
-      "word": "旅客绑藏168张死亡搁浅2光盘进境",
-      "onboard_time": 1751875762,
-      "rank": 37,
-      "category": "民生新闻,游戏"
     },
     {
       "raw_hot": 119346,
@@ -1619,20 +1723,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 110375,
-      "num": 110375,
-      "word": "高校宿舍装空调应全国推广吗",
-      "onboard_time": 1751877383,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 109766,
       "num": 109766,
       "word": "WTT",
       "onboard_time": 1751858424,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109485,
+      "num": 109485,
+      "word": "俄乌冲突打不赢停不下",
+      "onboard_time": 1751879780,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 108835,
@@ -1707,6 +1811,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 103781,
+      "num": 103781,
+      "word": "瘦子一天的食物",
+      "onboard_time": 1751879001,
+      "rank": 45,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 103638,
       "num": 145347,
       "word": "王楚钦回应美国大满贯开门红",
@@ -1731,11 +1843,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 102976,
-      "num": 102976,
-      "word": "中百万大奖遭摊主夺票女子已顺利兑奖",
-      "onboard_time": 1751878041,
-      "rank": 45,
+      "raw_hot": 102848,
+      "num": 121467,
+      "word": "我被甲醛房毒了",
+      "onboard_time": 1751878821,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -1745,6 +1857,14 @@
       "onboard_time": 1751875401,
       "rank": 18,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 102192,
+      "num": 102192,
+      "word": "罗马仕",
+      "onboard_time": 1751880322,
+      "rank": 46,
+      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 101551,
@@ -1793,6 +1913,14 @@
       "onboard_time": 1751869105,
       "rank": 44,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 99398,
+      "num": 99398,
+      "word": "刘杨子回应输给孙颖莎",
+      "onboard_time": 1751880503,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 99347,
@@ -2147,6 +2275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43414,
+      "num": 759722,
+      "word": "88年了我们不曾忘不能忘不敢忘",
+      "onboard_time": 1751880022,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 42569,
       "num": 319757,
       "word": "外卖大战有骑手一天赚1700多元",
@@ -2193,6 +2329,14 @@
       "onboard_time": 1751823317,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31865,
+      "num": 121096,
+      "word": "久尔杰维奇谈国足状态",
+      "onboard_time": 1751879963,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 31584,
@@ -2251,6 +2395,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 28789,
+      "num": 249642,
+      "word": "当地回应自来水每月保底收费12元",
+      "onboard_time": 1751880081,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28223,
       "num": 117730,
       "word": "日本天价米荒",
@@ -2305,6 +2457,14 @@
       "onboard_time": 1751828715,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 21709,
+      "num": 310580,
+      "word": "特朗普即将公布各国关税信函",
+      "onboard_time": 1751880142,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 20494,
