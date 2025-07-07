@@ -1,0 +1,410 @@
+{
+  "runTime": 1751895550480,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1510757,
+        "num": 1510757,
+        "word": "国足0比3韩国",
+        "onboard_time": 1751893282,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 875869,
+        "num": 875869,
+        "word": "张子枫简直蜕变",
+        "onboard_time": 1751888362,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 60039,
+        "num": 852965,
+        "word": "88年了我们不曾忘不能忘不敢忘",
+        "onboard_time": 1751880022,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 4939857,
+        "num": 816391,
+        "word": "南京红姐被抓",
+        "onboard_time": 1751895024,
+        "rank": 3,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 1163059,
+        "num": 798865,
+        "word": "魏晨回应结婚证是在潍坊领的",
+        "onboard_time": 1751890343,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1424964,
+        "num": 772875,
+        "word": "老师因学生志愿未报清北解散群聊",
+        "onboard_time": 1751889381,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 754369,
+        "num": 754369,
+        "word": "华策道歉",
+        "onboard_time": 1751892024,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 481241,
+        "num": 481241,
+        "word": "Angelababy巴黎时装周状态",
+        "onboard_time": 1751887102,
+        "rank": 7,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 463451,
+        "num": 463451,
+        "word": "警方通报42岁男子杭州南站坠楼",
+        "onboard_time": 1751890103,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 222183,
+        "num": 447008,
+        "word": "教育局回应学生未报清北老师解散群聊",
+        "onboard_time": 1751891122,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 432650,
+        "num": 432650,
+        "word": "梓渝 微笑一号店",
+        "onboard_time": 1751890522,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 407962,
+        "num": 407962,
+        "word": "徐冬冬发文回应",
+        "onboard_time": 1751892983,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363340,
+        "num": 363340,
+        "word": "中方已向印度提出交涉",
+        "onboard_time": 1751888182,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 345630,
+        "num": 345630,
+        "word": "幼童躺街上遭货车碾压知情人发声",
+        "onboard_time": 1751893282,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326074,
+        "num": 326074,
+        "word": "肖战玲娜贝儿打招呼",
+        "onboard_time": 1751887702,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23753,
+        "num": 325790,
+        "word": "律师谈金毛疑蹭空调被打死谁该负责",
+        "onboard_time": 1751895143,
+        "rank": 15,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 519585,
+        "num": 325765,
+        "word": "罗马仕退款排到17万位",
+        "onboard_time": 1751886261,
+        "rank": 16,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 325593,
+        "num": 325593,
+        "word": "热射病的前兆",
+        "onboard_time": 1751889022,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 265414,
+        "num": 324616,
+        "word": "王源林俊杰演唱会上厕所失败",
+        "onboard_time": 1751891543,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 36888,
+        "num": 324077,
+        "word": "罗马仕官旗关闭充电宝怎么退",
+        "onboard_time": 1751894483,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323951,
+        "num": 323951,
+        "word": "中方回应印度称中国借刀杀人",
+        "onboard_time": 1751886802,
+        "rank": 20,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 244746,
+        "num": 244746,
+        "word": "林心如晒和霍建华双人画秀恩爱",
+        "onboard_time": 1751893703,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231777,
+        "num": 231777,
+        "word": "虞书欣于适 我欲乘风",
+        "onboard_time": 1751886862,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201684,
+        "num": 201684,
+        "word": "戴燕妮巴黎遇破窗抢劫",
+        "onboard_time": 1751894844,
+        "rank": 23,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 200582,
+        "num": 200582,
+        "word": "Angelababy森林精灵",
+        "onboard_time": 1751892624,
+        "rank": 24,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 197087,
+        "num": 197087,
+        "word": "彩票中心通报女子中百万遭摊主夺票",
+        "onboard_time": 1751878584,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191006,
+        "num": 191006,
+        "word": "以法之名更新了",
+        "onboard_time": 1751883801,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187859,
+        "num": 187859,
+        "word": "周深双语歌曲归来致敬先烈",
+        "onboard_time": 1751888962,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 185305,
+        "num": 185305,
+        "word": "杨阳洋长这么大了",
+        "onboard_time": 1751891663,
+        "rank": 28,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 34012,
+        "num": 182827,
+        "word": "爱泼斯坦去世当晚牢房区域视频公开",
+        "onboard_time": 1751895143,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 181602,
+        "num": 181602,
+        "word": "12306回应高铁F座最受欢迎",
+        "onboard_time": 1751888121,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176124,
+        "num": 176124,
+        "word": "黄宗泽说不结婚是为了气妈妈",
+        "onboard_time": 1751883262,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175046,
+        "num": 175046,
+        "word": "律师解读未付款刮中100万算谁的",
+        "onboard_time": 1751891482,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174551,
+        "num": 174551,
+        "word": "6个荔枝298",
+        "onboard_time": 1751893223,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168865,
+        "num": 168865,
+        "word": "92岁老人病危兄妹在医院打起来了",
+        "onboard_time": 1751889263,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166732,
+        "num": 166732,
+        "word": "挂绿荔枝",
+        "onboard_time": 1751884701,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 160317,
+        "num": 160317,
+        "word": "辅警透露查赌信息每次收300元",
+        "onboard_time": 1751893282,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158258,
+        "num": 158258,
+        "word": "女子加工金镯子回家一称少了5克",
+        "onboard_time": 1751893883,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148452,
+        "num": 148452,
+        "word": "特朗普政府公布爱泼斯坦牢房视频",
+        "onboard_time": 1751895384,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 112363,
+        "num": 147724,
+        "word": "国足对韩国6连败",
+        "onboard_time": 1751894364,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147242,
+        "num": 147242,
+        "word": "方媛带两个女儿深圳过暑假",
+        "onboard_time": 1751894722,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146970,
+        "num": 146970,
+        "word": "16岁女孩初中毕业靠卖车就职高校",
+        "onboard_time": 1751894243,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144379,
+        "num": 144379,
+        "word": "火锅店被曝餐桌桌缝爬满活蛆",
+        "onboard_time": 1751894183,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139938,
+        "num": 139938,
+        "word": "锦绣芳华断更",
+        "onboard_time": 1751884222,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136368,
+        "num": 136368,
+        "word": "男子徒手抓蛇甩成风车被反咬一口",
+        "onboard_time": 1751887462,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135832,
+        "num": 135832,
+        "word": "你跟我说这是贾斯汀比伯",
+        "onboard_time": 1751892323,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127681,
+        "num": 127681,
+        "word": "原来古风小生是侯明昊",
+        "onboard_time": 1751895384,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119094,
+        "num": 119094,
+        "word": "易烊千玺演唱会原定场馆再回应",
+        "onboard_time": 1751891002,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118934,
+        "num": 118934,
+        "word": "金毛李墩墩主人为疏忽致歉",
+        "onboard_time": 1751891183,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60357,
+        "num": 117908,
+        "word": "医院法人代表带头开药骗保1200万",
+        "onboard_time": 1751893282,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#今天重温总书记这番话#"
+    }
+  }
+}
