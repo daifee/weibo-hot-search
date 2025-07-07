@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751920173991,
+  "endTime": 1751921032017,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -7291,6 +7291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 24280,
+      "num": 37932,
+      "word": "特朗普已签署12封关税信函",
+      "onboard_time": 1751915654,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 23467,
       "num": 149638,
       "word": "特斯拉夜盘大跌超7%",
@@ -7305,14 +7313,6 @@
       "onboard_time": 1751911996,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 22992,
-      "num": 23743,
-      "word": "特朗普已签署12封关税信函",
-      "onboard_time": 1751915654,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 22911,
@@ -7464,6 +7464,14 @@
       "word": "青岛大学宿舍图",
       "onboard_time": 1751844980,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13472,
+      "num": 14913,
+      "word": "幼童遭碾压身亡知情人谈网上言论",
+      "onboard_time": 1751920454,
+      "rank": 48,
       "category": "民生新闻"
     },
     {

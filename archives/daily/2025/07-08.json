@@ -1,6 +1,6 @@
 {
   "startTime": 1751906062153,
-  "endTime": 1751920173991,
+  "endTime": 1751921032017,
   "band_list": [
     {
       "raw_hot": 5044272,
@@ -547,20 +547,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 24280,
+      "num": 37932,
+      "word": "特朗普已签署12封关税信函",
+      "onboard_time": 1751915654,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 23229,
       "num": 56044,
       "word": "侵华日军后代替父辈下跪谢罪",
       "onboard_time": 1751911996,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 22992,
-      "num": 23743,
-      "word": "特朗普已签署12封关税信函",
-      "onboard_time": 1751915654,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 20998,
@@ -593,6 +593,14 @@
       "onboard_time": 1751910556,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 13472,
+      "num": 14913,
+      "word": "幼童遭碾压身亡知情人谈网上言论",
+      "onboard_time": 1751920454,
+      "rank": 48,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
