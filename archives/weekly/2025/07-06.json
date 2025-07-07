@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751864114700,
+  "endTime": 1751866215015,
   "band_list": [
     {
       "raw_hot": 8592534,
@@ -243,20 +243,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1155609,
+      "num": 1155609,
+      "word": "拔牙 血栓",
+      "onboard_time": 1751862024,
+      "rank": 4,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1125912,
       "num": 309533,
       "word": "郑星源 梓渝",
       "onboard_time": 1751774662,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1081967,
-      "num": 1081967,
-      "word": "拔牙 血栓",
-      "onboard_time": 1751862024,
-      "rank": 4,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1050102,
@@ -291,12 +291,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1046185,
+      "num": 1046185,
+      "word": "高校学生热晕一晚开进五六辆救护车",
+      "onboard_time": 1751863107,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1037971,
       "num": 1166075,
       "word": "王楚钦回应莎头组合能否复制",
       "onboard_time": 1751784262,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1033062,
+      "num": 450346,
+      "word": "kpop最低学历",
+      "onboard_time": 1751863225,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 921102,
@@ -475,6 +491,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 688889,
+      "num": 395996,
+      "word": "小英感染幽门螺旋杆菌",
+      "onboard_time": 1751865264,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 688841,
       "num": 688841,
       "word": "女子吃冰脑壳一紧突发脑结冰",
@@ -497,14 +521,6 @@
       "onboard_time": 1751858544,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 679443,
-      "num": 450346,
-      "word": "kpop最低学历",
-      "onboard_time": 1751863225,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 676446,
@@ -577,6 +593,14 @@
       "onboard_time": 1751847261,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 563725,
+      "num": 563725,
+      "word": "长期熬夜和11点前睡觉的区别",
+      "onboard_time": 1751864006,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 558333,
@@ -747,14 +771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 430902,
-      "num": 430902,
-      "word": "高校学生热晕一晚开进五六辆救护车",
-      "onboard_time": 1751863107,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 424109,
       "num": 388029,
       "word": "黄子弘凡扶电梯摔倒女生",
@@ -827,6 +843,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 406310,
+      "num": 574239,
+      "word": "731部队原队员承认解剖了300人",
+      "onboard_time": 1751862686,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 393473,
       "num": 269856,
       "word": "朱珠 妈咪不会营业",
@@ -841,6 +865,14 @@
       "onboard_time": 1751789661,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 388868,
+      "num": 405512,
+      "word": "张凯丽女儿回应节目里爆哭",
+      "onboard_time": 1751860765,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 383368,
@@ -971,14 +1003,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 329201,
-      "num": 574239,
-      "word": "731部队原队员承认解剖了300人",
-      "onboard_time": 1751862686,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 327122,
       "num": 321331,
       "word": "4岁宝宝手术台上把自己麻晕",
@@ -1091,14 +1115,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 302269,
-      "num": 327071,
-      "word": "张凯丽女儿回应节目里爆哭",
-      "onboard_time": 1751860765,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 301505,
       "num": 301505,
       "word": "血铅异常幼儿园老师称自己也是受害者",
@@ -1115,6 +1131,14 @@
       "category": "科学科普,健康医疗"
     },
     {
+      "raw_hot": 292964,
+      "num": 390801,
+      "word": "三黄片现金买18元刷医保26元",
+      "onboard_time": 1751865924,
+      "rank": 12,
+      "category": "舆论监督,健康医疗"
+    },
+    {
       "raw_hot": 292252,
       "num": 323109,
       "word": "中考720分小伙高二转职高学烹饪",
@@ -1124,7 +1148,7 @@
     },
     {
       "raw_hot": 285607,
-      "num": 324722,
+      "num": 401046,
       "word": "陈震",
       "onboard_time": 1751861783,
       "rank": 19,
@@ -1409,6 +1433,14 @@
       "onboard_time": 1751851943,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 236272,
+      "num": 236272,
+      "word": "王者荣耀S40新赛季",
+      "onboard_time": 1751866044,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 236008,
@@ -1803,6 +1835,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 199238,
+      "num": 199238,
+      "word": "不点赞朋友圈是嫉妒吗",
+      "onboard_time": 1751864124,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 198183,
       "num": 198183,
       "word": "薛之谦Joker",
@@ -2107,6 +2147,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 176573,
+      "num": 176573,
+      "word": "频繁刷手机可能导致脑腐",
+      "onboard_time": 1751864367,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175936,
       "num": 175936,
       "word": "汪顺成世界泳联运委会候选人",
@@ -2251,6 +2299,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 164719,
+      "num": 164719,
+      "word": "台湾本岛全警戒状态",
+      "onboard_time": 1751863285,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163903,
       "num": 163903,
       "word": "谁敢老了以后这样生活",
@@ -2377,14 +2433,6 @@
       "onboard_time": 1751776341,
       "rank": 34,
       "category": "教育"
-    },
-    {
-      "raw_hot": 158241,
-      "num": 158241,
-      "word": "台湾本岛全警戒状态",
-      "onboard_time": 1751863285,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 158116,
@@ -2571,6 +2619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147049,
+      "num": 147049,
+      "word": "光遇",
+      "onboard_time": 1751865083,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 146808,
       "num": 186946,
       "word": "以法之名",
@@ -2651,12 +2707,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 144644,
+      "num": 218130,
+      "word": "高瀚宇也没逃过中医法眼",
+      "onboard_time": 1751865083,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144612,
       "num": 144612,
       "word": "河南一乡道因高温爆裂拱起",
       "onboard_time": 1751734221,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144355,
+      "num": 144355,
+      "word": "在上海花了一千块吃的汤泡饭",
+      "onboard_time": 1751865804,
+      "rank": 45,
+      "category": "旅游"
     },
     {
       "raw_hot": 144289,
@@ -2745,6 +2817,14 @@
       "onboard_time": 1751787802,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138584,
+      "num": 325197,
+      "word": "为何在药店刷医保买药更贵",
+      "onboard_time": 1751864485,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138310,
@@ -2857,14 +2937,6 @@
       "onboard_time": 1751809166,
       "rank": 40,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 133727,
-      "num": 133727,
-      "word": "长期熬夜和11点前睡觉的区别",
-      "onboard_time": 1751864006,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 133712,
@@ -3100,7 +3172,7 @@
     },
     {
       "raw_hot": 126118,
-      "num": 145553,
+      "num": 151732,
       "word": "纪念全民族抗战爆发88周年",
       "onboard_time": 1751856983,
       "rank": 37,
@@ -3788,7 +3860,7 @@
     },
     {
       "raw_hot": 103638,
-      "num": 134293,
+      "num": 145347,
       "word": "王楚钦回应美国大满贯开门红",
       "onboard_time": 1751861065,
       "rank": 39,
@@ -4043,6 +4115,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 97604,
+      "num": 216665,
+      "word": "鹿晗用下巴撩人",
+      "onboard_time": 1751865083,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 97155,
       "num": 97155,
       "word": "女子遭同学设套被骗千万全家自杀",
@@ -4057,6 +4137,14 @@
       "onboard_time": 1751862144,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97089,
+      "num": 177545,
+      "word": "刘诗诗朴宝剑李庚希同框",
+      "onboard_time": 1751866104,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 96561,
@@ -4257,6 +4345,14 @@
       "onboard_time": 1751851704,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 85761,
+      "num": 275704,
+      "word": "天水幼儿园血铅超标谁在遮丑",
+      "onboard_time": 1751865685,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84966,
