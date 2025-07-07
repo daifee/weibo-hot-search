@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1751867172410,
+  "endTime": 1751870416633,
   "band_list": [
     {
       "raw_hot": 8592534,
@@ -321,6 +321,14 @@
       "onboard_time": 1751808986,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1822812,
+      "num": 1822812,
+      "word": "青岛大学已开始装空调",
+      "onboard_time": 1751866706,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1764044,
@@ -819,6 +827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1133137,
+      "num": 395996,
+      "word": "小英感染幽门螺旋杆菌",
+      "onboard_time": 1751865264,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1129374,
       "num": 585841,
       "word": "曾志伟和女星合影姿势引争议",
@@ -849,14 +865,6 @@
       "onboard_time": 1751297064,
       "rank": 0,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1103692,
-      "num": 395996,
-      "word": "小英感染幽门螺旋杆菌",
-      "onboard_time": 1751865264,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 1100027,
@@ -1787,6 +1795,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 727860,
+      "num": 320655,
+      "word": "尹子维徐冬冬吵架了",
+      "onboard_time": 1751867364,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 727722,
       "num": 1116435,
       "word": "1979年魔童超生",
@@ -2423,6 +2439,14 @@
       "num": 633772,
       "word": "春秋航空",
       "onboard_time": 1751332040,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 632251,
+      "num": 632251,
+      "word": "警方回应女子中百万大奖遭摊主夺票",
+      "onboard_time": 1751868384,
       "rank": 4,
       "category": "民生新闻"
     },
@@ -3531,6 +3555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 445187,
+      "num": 445187,
+      "word": "刘诗诗朴宝剑李庚希同框",
+      "onboard_time": 1751866104,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 444467,
       "num": 444467,
       "word": "晚晚发视频回应不让助播女生化妆",
@@ -4017,6 +4049,14 @@
       "onboard_time": 1751456661,
       "rank": 7,
       "category": "休闲,动漫"
+    },
+    {
+      "raw_hot": 391547,
+      "num": 391547,
+      "word": "差点没认出杨紫和胡歌",
+      "onboard_time": 1751866224,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 390272,
@@ -4753,6 +4793,14 @@
       "onboard_time": 1751679861,
       "rank": 20,
       "category": "休闲,动漫"
+    },
+    {
+      "raw_hot": 332935,
+      "num": 332935,
+      "word": "频繁刷手机可能导致脑腐",
+      "onboard_time": 1751864367,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 332002,
@@ -5539,6 +5587,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 288095,
+      "num": 288095,
+      "word": "装柜8小时挣了3400元",
+      "onboard_time": 1751867544,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 288094,
       "num": 287992,
       "word": "鹿晗青岛演唱会",
@@ -5761,6 +5817,14 @@
       "onboard_time": 1751687962,
       "rank": 15,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 277566,
+      "num": 277566,
+      "word": "管乐和小婉生命中重要的三个时刻",
+      "onboard_time": 1751866283,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 277090,
@@ -6393,6 +6457,14 @@
       "onboard_time": 1751298262,
       "rank": 18,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 245402,
+      "num": 245402,
+      "word": "周杰伦老子没时间",
+      "onboard_time": 1751869884,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 245308,
@@ -7147,6 +7219,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 222707,
+      "num": 222707,
+      "word": "刘诗诗朴宝剑姐狗感",
+      "onboard_time": 1751868984,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222684,
       "num": 289761,
       "word": "2男子射杀邻居2猫被行拘",
@@ -7185,14 +7265,6 @@
       "onboard_time": 1751437162,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 220813,
-      "num": 220813,
-      "word": "青岛大学已开始装空调",
-      "onboard_time": 1751866706,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 220682,
@@ -7331,6 +7403,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 217608,
+      "num": 217608,
+      "word": "不点赞朋友圈是嫉妒吗",
+      "onboard_time": 1751864124,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 217452,
       "num": 304989,
       "word": "何惟芳我请问呢",
@@ -7385,14 +7465,6 @@
       "onboard_time": 1751430144,
       "rank": 23,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 215663,
-      "num": 264099,
-      "word": "差点没认出杨紫和胡歌",
-      "onboard_time": 1751866224,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 215327,
@@ -7496,6 +7568,14 @@
       "word": "初二学生聚会饮酒后溺亡谁担责",
       "onboard_time": 1751448082,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213425,
+      "num": 213425,
+      "word": "台湾本岛全警戒状态",
+      "onboard_time": 1751863285,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -7769,14 +7849,6 @@
       "onboard_time": 1751517984,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 206320,
-      "num": 251096,
-      "word": "刘诗诗朴宝剑李庚希同框",
-      "onboard_time": 1751866104,
-      "rank": 37,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 206118,
@@ -8273,14 +8345,6 @@
       "onboard_time": 1751720783,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 199238,
-      "num": 199238,
-      "word": "不点赞朋友圈是嫉妒吗",
-      "onboard_time": 1751864124,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 199128,
@@ -8963,14 +9027,6 @@
       "category": "国内时政,民生新闻"
     },
     {
-      "raw_hot": 190515,
-      "num": 254445,
-      "word": "管乐和小婉生命中重要的三个时刻",
-      "onboard_time": 1751866283,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 190139,
       "num": 184163,
       "word": "胡楚靓回应连续十年踩中风口",
@@ -9073,6 +9129,14 @@
       "onboard_time": 1751517084,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 188649,
+      "num": 233900,
+      "word": "赴山海暑期档播出",
+      "onboard_time": 1751869403,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 188252,
@@ -9283,6 +9347,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 184890,
+      "num": 184890,
+      "word": "安吉终于同意剪发啦",
+      "onboard_time": 1751869643,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184867,
       "num": 312842,
       "word": "校方回应宿舍无空调学生中暑",
@@ -9329,6 +9401,14 @@
       "onboard_time": 1751542401,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183844,
+      "num": 183844,
+      "word": "铅中毒事件74份血检报告70人超标",
+      "onboard_time": 1751868444,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 183809,
@@ -9603,6 +9683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 178570,
+      "num": 178570,
+      "word": "时代峰峻成立海南新公司",
+      "onboard_time": 1751867245,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178016,
       "num": 178016,
       "word": "每天喝3公斤水就能远离人际关系问题",
@@ -9745,14 +9833,6 @@
       "onboard_time": 1751510840,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 176573,
-      "num": 176573,
-      "word": "频繁刷手机可能导致脑腐",
-      "onboard_time": 1751864367,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 176572,
@@ -10017,6 +10097,14 @@
       "onboard_time": 1751432724,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 173499,
+      "num": 173499,
+      "word": "在上海花了一千块吃的汤泡饭",
+      "onboard_time": 1751865804,
+      "rank": 45,
+      "category": "旅游"
     },
     {
       "raw_hot": 173470,
@@ -10427,6 +10515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167113,
+      "num": 332280,
+      "word": "中百万大奖女子与摊主协商达成一致",
+      "onboard_time": 1751869584,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167071,
       "num": 167071,
       "word": "又到了儿童意外高发期",
@@ -10593,14 +10689,6 @@
       "onboard_time": 1751431164,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 164719,
-      "num": 164719,
-      "word": "台湾本岛全警戒状态",
-      "onboard_time": 1751863285,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 164404,
@@ -11147,6 +11235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158705,
+      "num": 155011,
+      "word": "过年做的美甲留到了现在",
+      "onboard_time": 1751869823,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 158695,
       "num": 158695,
       "word": "无锡vs扬州",
@@ -11280,6 +11376,14 @@
       "word": "后备箱藏3孩子被查司机称感觉没事",
       "onboard_time": 1751643684,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156865,
+      "num": 156865,
+      "word": "女子躲商场过夜一大早再扫货偷盗",
+      "onboard_time": 1751868804,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -11793,6 +11897,14 @@
       "onboard_time": 1751523742,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151504,
+      "num": 151504,
+      "word": "套内120平硬装12万装出来的家",
+      "onboard_time": 1751868203,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 151395,
@@ -12459,14 +12571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 144355,
-      "num": 144355,
-      "word": "在上海花了一千块吃的汤泡饭",
-      "onboard_time": 1751865804,
-      "rank": 45,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 144324,
       "num": 144324,
       "word": "洛阳一景区有游客被洪水冲走失联3天",
@@ -12545,6 +12649,14 @@
       "onboard_time": 1751371283,
       "rank": 43,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 143385,
+      "num": 143385,
+      "word": "咖啡 缺铁性贫血",
+      "onboard_time": 1751869823,
+      "rank": 36,
+      "category": "科学科普"
     },
     {
       "raw_hot": 143363,
@@ -14291,6 +14403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127896,
+      "num": 127896,
+      "word": "彭楚粤谈切肥皂",
+      "onboard_time": 1751866884,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127646,
       "num": 127646,
       "word": "哈尔滨称周深粉丝小金豆米",
@@ -14467,14 +14587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 126652,
-      "num": 126652,
-      "word": "彭楚粤谈切肥皂",
-      "onboard_time": 1751866884,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 126480,
       "num": 126480,
       "word": "泰斗一词为何能成中国夸人顶配",
@@ -14577,6 +14689,14 @@
       "onboard_time": 1751336660,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125696,
+      "num": 162994,
+      "word": "秀智挂了labubu",
+      "onboard_time": 1751867724,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 125689,
@@ -15635,6 +15755,14 @@
       "category": "母婴育儿,时尚"
     },
     {
+      "raw_hot": 117546,
+      "num": 117546,
+      "word": "李斌称电池越大对马路破坏越大",
+      "onboard_time": 1751868444,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 117479,
       "num": 117479,
       "word": "马龙当选全国青联副主席",
@@ -16129,6 +16257,22 @@
       "onboard_time": 1751595382,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113704,
+      "num": 128226,
+      "word": "辛芷蕾出发巴黎高定周",
+      "onboard_time": 1751869343,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 113702,
+      "num": 113702,
+      "word": "妈妈一定在天上急得团团转",
+      "onboard_time": 1751870364,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 113569,
@@ -17075,6 +17219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106255,
+      "num": 106255,
+      "word": "我是来避暑的 不是来中暑的",
+      "onboard_time": 1751870364,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106189,
       "num": 194935,
       "word": "夏天不用开火的减脂餐",
@@ -17833,6 +17985,14 @@
       "onboard_time": 1751458043,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 99639,
+      "num": 107541,
+      "word": "新视角",
+      "onboard_time": 1751869105,
+      "rank": 44,
+      "category": "读书作家"
     },
     {
       "raw_hot": 99619,
