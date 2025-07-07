@@ -1,0 +1,410 @@
+{
+  "runTime": 1751874168030,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1204058,
+        "num": 1204058,
+        "word": "中百万大奖女子与摊主协商达成一致",
+        "onboard_time": 1751869584,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 547619,
+        "num": 547619,
+        "word": "果然高铁F座最受欢迎",
+        "onboard_time": 1751853563,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 33524,
+        "num": 413091,
+        "word": "七七事变背后的历史真相",
+        "onboard_time": 1751818223,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 394495,
+        "num": 394495,
+        "word": "长期熬夜和11点前睡觉的区别",
+        "onboard_time": 1751864006,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 363226,
+        "num": 363226,
+        "word": "警方回应金毛疑在餐馆蹭空调被打死",
+        "onboard_time": 1751872283,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 359998,
+        "num": 359998,
+        "word": "济南暴雨",
+        "onboard_time": 1751872343,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334786,
+        "num": 334786,
+        "word": "警方回应女子中百万大奖遭摊主夺票",
+        "onboard_time": 1751868384,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174414,
+        "num": 334397,
+        "word": "差点没认出杨紫和胡歌",
+        "onboard_time": 1751866224,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132961,
+        "num": 333819,
+        "word": "刘诗诗朴宝剑李庚希同框",
+        "onboard_time": 1751866104,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 283909,
+        "num": 332599,
+        "word": "法国阵风战机卖不出去竟赖中国",
+        "onboard_time": 1751872464,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1618534,
+        "num": 332427,
+        "word": "青岛大学已开始装空调",
+        "onboard_time": 1751866706,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1227903,
+        "num": 331107,
+        "word": "周杰伦老子没时间",
+        "onboard_time": 1751869884,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 751722,
+        "num": 330619,
+        "word": "小英感染幽门螺旋杆菌",
+        "onboard_time": 1751865264,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 734215,
+        "num": 329900,
+        "word": "妈妈一定在天上急得团团转",
+        "onboard_time": 1751870364,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 36421,
+        "num": 329070,
+        "word": "高温下的宿舍不能靠心静自然凉",
+        "onboard_time": 1751873484,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 574975,
+        "num": 327982,
+        "word": "装柜8小时挣了3400元",
+        "onboard_time": 1751867544,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 376485,
+        "num": 327450,
+        "word": "尹子维徐冬冬吵架了",
+        "onboard_time": 1751867364,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327052,
+        "num": 327052,
+        "word": "刘诗诗朴宝剑姐狗感",
+        "onboard_time": 1751868984,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309328,
+        "num": 309328,
+        "word": "中医认证最好的药就是酒",
+        "onboard_time": 1751870543,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 266415,
+        "num": 266415,
+        "word": "kpop最低学历",
+        "onboard_time": 1751863225,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213112,
+        "num": 213112,
+        "word": "金毛疑因饭店蹭空调被打死",
+        "onboard_time": 1751872043,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201495,
+        "num": 201495,
+        "word": "安吉终于同意剪发啦",
+        "onboard_time": 1751869643,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192499,
+        "num": 192499,
+        "word": "过年做的美甲留到了现在",
+        "onboard_time": 1751869823,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190773,
+        "num": 190773,
+        "word": "咖啡 缺铁性贫血",
+        "onboard_time": 1751869823,
+        "rank": 23,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 168970,
+        "num": 190400,
+        "word": "台湾本岛全警戒状态",
+        "onboard_time": 1751863285,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111821,
+        "num": 188725,
+        "word": "迪丽热巴聂九罗上线",
+        "onboard_time": 1751871385,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101235,
+        "num": 187125,
+        "word": "秀智挂了labubu",
+        "onboard_time": 1751867724,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77455,
+        "num": 184596,
+        "word": "时代峰峻成立海南新公司",
+        "onboard_time": 1751867245,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69500,
+        "num": 182781,
+        "word": "赴山海暑期档播出",
+        "onboard_time": 1751869403,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67838,
+        "num": 180939,
+        "word": "管乐和小婉生命中重要的三个时刻",
+        "onboard_time": 1751866283,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60172,
+        "num": 180149,
+        "word": "罗马仕关闭多平台旗舰店",
+        "onboard_time": 1751872103,
+        "rank": 30,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 399516,
+        "num": 177218,
+        "word": "陈梦妈妈瞒着家人偷户口本结婚",
+        "onboard_time": 1751873244,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176797,
+        "num": 176797,
+        "word": "仅西安一家医院至少70名幼儿血铅超标",
+        "onboard_time": 1751873303,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162061,
+        "num": 162061,
+        "word": "频繁刷手机可能导致脑腐",
+        "onboard_time": 1751864367,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160791,
+        "num": 160791,
+        "word": "宿管大爷去世与高温环境关联需查清",
+        "onboard_time": 1751872283,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124183,
+        "num": 152552,
+        "word": "女子月薪2千帮男友借贷83万后崩溃",
+        "onboard_time": 1751873244,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107203,
+        "num": 148912,
+        "word": "烟台一学院有人热晕学生大喊装空调",
+        "onboard_time": 1751872883,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146033,
+        "num": 146033,
+        "word": "拉伸对直腿细腿的杀伤力",
+        "onboard_time": 1751872405,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 144200,
+        "num": 144200,
+        "word": "央视网评列车故障乘客砸窗事件",
+        "onboard_time": 1751870664,
+        "rank": 38,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 18123,
+        "num": 138023,
+        "word": "罗小黑的小暑日常",
+        "onboard_time": 1751874085,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 136211,
+        "num": 136211,
+        "word": "跳绳两个月瘦了20斤",
+        "onboard_time": 1751872944,
+        "rank": 40,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 130686,
+        "num": 130686,
+        "word": "南昌水煮",
+        "onboard_time": 1751872824,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 123167,
+        "num": 123167,
+        "word": "铅中毒事件74份血检报告70人超标",
+        "onboard_time": 1751868444,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118194,
+        "num": 118194,
+        "word": "违规炼动物油作坊满地蛆虫老鼠",
+        "onboard_time": 1751871683,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117762,
+        "num": 117762,
+        "word": "三黄片现金买18元刷医保26元",
+        "onboard_time": 1751865924,
+        "rank": 44,
+        "category": "舆论监督,健康医疗"
+      },
+      {
+        "raw_hot": 107603,
+        "num": 107603,
+        "word": "我是来避暑的 不是来中暑的",
+        "onboard_time": 1751870364,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106551,
+        "num": 106551,
+        "word": "烟台教育局因高温督促高校放假",
+        "onboard_time": 1751870484,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105521,
+        "num": 105521,
+        "word": "拔牙 血栓",
+        "onboard_time": 1751862024,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103099,
+        "num": 103099,
+        "word": "从怀孕到娃3个月的正常花销",
+        "onboard_time": 1751872764,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101029,
+        "num": 101029,
+        "word": "夏之光疑似被节目组做局",
+        "onboard_time": 1751874144,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#铭记历史尊崇英雄#"
+    }
+  }
+}
