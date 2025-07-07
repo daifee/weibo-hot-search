@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751884217733,
+  "endTime": 1751885264330,
   "band_list": [
     {
       "raw_hot": 8592534,
@@ -123,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1782989,
+      "num": 1782989,
+      "word": "杭州南站有人坠楼",
+      "onboard_time": 1751883682,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1764044,
       "num": 793577,
       "word": "青岛大学称宿舍马上装空调",
@@ -225,6 +233,14 @@
       "onboard_time": 1751869884,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1226098,
+      "num": 1226098,
+      "word": "以法之名没更新",
+      "onboard_time": 1751883801,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 1225523,
@@ -491,14 +507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 764556,
-      "num": 764556,
-      "word": "杭州南站有人坠楼",
-      "onboard_time": 1751883682,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 762421,
       "num": 310651,
       "word": "朋友圈三天可见置顶像生死簿一样长",
@@ -545,14 +553,6 @@
       "onboard_time": 1751764101,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 710450,
-      "num": 710450,
-      "word": "以法之名没更新",
-      "onboard_time": 1751883801,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 709991,
@@ -1075,6 +1075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 392351,
+      "num": 347288,
+      "word": "徐若晗裙子",
+      "onboard_time": 1751882900,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 391547,
       "num": 391547,
       "word": "差点没认出杨紫和胡歌",
@@ -1323,6 +1331,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 318642,
+      "num": 434957,
+      "word": "校方回应网传离世大爷被拖欠工资",
+      "onboard_time": 1751879061,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 316337,
       "num": 316337,
       "word": "中医认证最好的药就是酒",
@@ -1411,12 +1427,12 @@
       "category": "教育,民生新闻"
     },
     {
-      "raw_hot": 289399,
-      "num": 434957,
-      "word": "校方回应网传离世大爷被拖欠工资",
-      "onboard_time": 1751879061,
-      "rank": 20,
-      "category": "民生新闻"
+      "raw_hot": 290460,
+      "num": 290460,
+      "word": "幽门螺旋杆菌",
+      "onboard_time": 1751883441,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 287857,
@@ -1433,14 +1449,6 @@
       "onboard_time": 1751861783,
       "rank": 19,
       "category": "网红"
-    },
-    {
-      "raw_hot": 284510,
-      "num": 284510,
-      "word": "徐若晗裙子",
-      "onboard_time": 1751882900,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 284347,
@@ -1504,6 +1512,14 @@
       "word": "汪明荃尊重罗家英放弃化疗",
       "onboard_time": 1751875522,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 273695,
+      "num": 273695,
+      "word": "黄宗泽说不结婚是为了气妈妈",
+      "onboard_time": 1751883262,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -1595,6 +1611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 265762,
+      "num": 276040,
+      "word": "女孩打工3年重返中专拿下全国冠军",
+      "onboard_time": 1751883501,
+      "rank": 19,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 265170,
       "num": 265170,
       "word": "易烊千玺广州演唱会官宣取消",
@@ -1656,14 +1680,6 @@
       "word": "田栩宁榜一是若若",
       "onboard_time": 1751757798,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 255889,
-      "num": 255889,
-      "word": "黄宗泽说不结婚是为了气妈妈",
-      "onboard_time": 1751883262,
-      "rank": 21,
       "category": "艺人"
     },
     {
@@ -1745,14 +1761,6 @@
       "onboard_time": 1751790382,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 242393,
-      "num": 242393,
-      "word": "幽门螺旋杆菌",
-      "onboard_time": 1751883441,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 242230,
@@ -2755,6 +2763,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167026,
+      "num": 166404,
+      "word": "挂绿荔枝",
+      "onboard_time": 1751884701,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 166899,
+      "num": 166899,
+      "word": "锦绣芳华断更",
+      "onboard_time": 1751884222,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166647,
       "num": 166647,
       "word": "书卷一梦女主人设",
@@ -2769,6 +2793,14 @@
       "onboard_time": 1751779641,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166353,
+      "num": 166353,
+      "word": "国足vs韩国",
+      "onboard_time": 1751885062,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 165806,
@@ -2801,6 +2833,14 @@
       "onboard_time": 1751775742,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163685,
+      "num": 166839,
+      "word": "鹿晗依旧开车窗",
+      "onboard_time": 1751883562,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 163477,
@@ -3139,6 +3179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148458,
+      "num": 148458,
+      "word": "巴黎时装周",
+      "onboard_time": 1751884341,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 147049,
       "num": 147049,
       "word": "光遇",
@@ -3217,6 +3265,14 @@
       "onboard_time": 1751851883,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145845,
+      "num": 164979,
+      "word": "这段谁给宋祖儿本体放出来了",
+      "onboard_time": 1751884103,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 145836,
@@ -3417,14 +3473,6 @@
       "onboard_time": 1751722646,
       "rank": 22,
       "category": "海外新闻,动漫"
-    },
-    {
-      "raw_hot": 137101,
-      "num": 137101,
-      "word": "鹿晗依旧开车窗",
-      "onboard_time": 1751883562,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 137022,
@@ -3673,6 +3721,14 @@
       "onboard_time": 1751810005,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129386,
+      "num": 275446,
+      "word": "金泰亨裴秀智朴宝剑合照",
+      "onboard_time": 1751884701,
+      "rank": 19,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 129366,
@@ -4043,14 +4099,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 118567,
-      "num": 276040,
-      "word": "女孩打工3年重返中专拿下全国冠军",
-      "onboard_time": 1751883501,
-      "rank": 19,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 118521,
       "num": 118521,
       "word": "鹿晗句句有回应",
@@ -4065,6 +4113,14 @@
       "onboard_time": 1751879780,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 118421,
+      "num": 118421,
+      "word": "蒋长扬被胸肌救了",
+      "onboard_time": 1751884522,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 118345,
@@ -4451,14 +4507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 108527,
-      "num": 108527,
-      "word": "这段谁给宋祖儿本体放出来了",
-      "onboard_time": 1751884103,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 108446,
       "num": 108446,
       "word": "罗马仕",
@@ -4481,6 +4529,14 @@
       "onboard_time": 1751878102,
       "rank": 44,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 107964,
+      "num": 367516,
+      "word": "官方回应杭州南站有人坠楼",
+      "onboard_time": 1751884402,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107654,
@@ -4956,7 +5012,7 @@
     },
     {
       "raw_hot": 98878,
-      "num": 819564,
+      "num": 1252616,
       "word": "88年了我们不曾忘不能忘不敢忘",
       "onboard_time": 1751880022,
       "rank": 2,
@@ -5953,6 +6009,14 @@
       "onboard_time": 1751740156,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 28087,
+      "num": 166595,
+      "word": "人社局回应求职被要求做MBTI测试",
+      "onboard_time": 1751884882,
+      "rank": 29,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 28026,

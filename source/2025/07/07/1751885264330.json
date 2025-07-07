@@ -1,0 +1,410 @@
+{
+  "runTime": 1751885264330,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1782989,
+        "num": 1782989,
+        "word": "杭州南站有人坠楼",
+        "onboard_time": 1751883682,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1357147,
+        "num": 1357147,
+        "word": "彩票中心通报女子中百万遭摊主夺票",
+        "onboard_time": 1751878584,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84133,
+        "num": 1252616,
+        "word": "88年了我们不曾忘不能忘不敢忘",
+        "onboard_time": 1751880022,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1226098,
+        "num": 1226098,
+        "word": "以法之名没更新",
+        "onboard_time": 1751883801,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 593120,
+        "num": 593120,
+        "word": "丽江失联20岁女大学生遗体被找到",
+        "onboard_time": 1751879302,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 645430,
+        "num": 527942,
+        "word": "张靓颖 九万字",
+        "onboard_time": 1751875461,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 642499,
+        "num": 510441,
+        "word": "金毛李墩墩主人准备起诉",
+        "onboard_time": 1751880262,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 376348,
+        "num": 376348,
+        "word": "赴山海",
+        "onboard_time": 1751880202,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 368920,
+        "num": 368920,
+        "word": "日军每天生产2吨细菌用于轰炸中国",
+        "onboard_time": 1751874981,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107964,
+        "num": 367516,
+        "word": "官方回应杭州南站有人坠楼",
+        "onboard_time": 1751884402,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 459420,
+        "num": 363193,
+        "word": "小英感染幽门螺旋杆菌",
+        "onboard_time": 1751865264,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 458309,
+        "num": 357964,
+        "word": "周杰伦老子没时间",
+        "onboard_time": 1751869884,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417159,
+        "num": 354128,
+        "word": "曹骏机场 白月光重回巅峰",
+        "onboard_time": 1751881042,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392351,
+        "num": 347288,
+        "word": "徐若晗裙子",
+        "onboard_time": 1751882900,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346359,
+        "num": 346359,
+        "word": "妈妈鹿晗这个黄毛真不一样",
+        "onboard_time": 1751880441,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 318642,
+        "num": 318642,
+        "word": "校方回应网传离世大爷被拖欠工资",
+        "onboard_time": 1751879061,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292856,
+        "num": 292856,
+        "word": "程潇妈妈遗憾女儿没有读大学",
+        "onboard_time": 1751876062,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290460,
+        "num": 290460,
+        "word": "幽门螺旋杆菌",
+        "onboard_time": 1751883441,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 285558,
+        "num": 285558,
+        "word": "果然高铁F座最受欢迎",
+        "onboard_time": 1751853563,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129386,
+        "num": 275446,
+        "word": "金泰亨裴秀智朴宝剑合照",
+        "onboard_time": 1751884701,
+        "rank": 19,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 273695,
+        "num": 273695,
+        "word": "黄宗泽说不结婚是为了气妈妈",
+        "onboard_time": 1751883262,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265762,
+        "num": 265762,
+        "word": "女孩打工3年重返中专拿下全国冠军",
+        "onboard_time": 1751883501,
+        "rank": 21,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 229197,
+        "num": 229197,
+        "word": "印度男孩卧轨拍火车从身上驶过视频",
+        "onboard_time": 1751882004,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 204065,
+        "num": 204065,
+        "word": "中百万大奖女子与摊主协商达成一致",
+        "onboard_time": 1751869584,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196720,
+        "num": 196720,
+        "word": "咖啡 缺铁性贫血",
+        "onboard_time": 1751869823,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 167546,
+        "num": 167546,
+        "word": "谁懂迪丽热巴敬礼这一下",
+        "onboard_time": 1751879182,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166899,
+        "num": 166899,
+        "word": "锦绣芳华断更",
+        "onboard_time": 1751884222,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163685,
+        "num": 166839,
+        "word": "鹿晗依旧开车窗",
+        "onboard_time": 1751883562,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 155456,
+        "num": 166720,
+        "word": "陈梦妈妈瞒着家人偷户口本结婚",
+        "onboard_time": 1751873244,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28087,
+        "num": 166595,
+        "word": "人社局回应求职被要求做MBTI测试",
+        "onboard_time": 1751884882,
+        "rank": 29,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 167026,
+        "num": 166404,
+        "word": "挂绿荔枝",
+        "onboard_time": 1751884701,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 166353,
+        "num": 166353,
+        "word": "国足vs韩国",
+        "onboard_time": 1751885062,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145845,
+        "num": 164979,
+        "word": "这段谁给宋祖儿本体放出来了",
+        "onboard_time": 1751884103,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164453,
+        "num": 164453,
+        "word": "国足首发",
+        "onboard_time": 1751883022,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148458,
+        "num": 148458,
+        "word": "巴黎时装周",
+        "onboard_time": 1751884341,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 145018,
+        "num": 145018,
+        "word": "高校宿舍装空调应全国推广吗",
+        "onboard_time": 1751877383,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138812,
+        "num": 138812,
+        "word": "贾静雯大女儿称与继母是好姐妹",
+        "onboard_time": 1751882721,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131417,
+        "num": 131417,
+        "word": "我被甲醛房毒了",
+        "onboard_time": 1751878821,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120736,
+        "num": 120736,
+        "word": "理解甄嬛为何跪了半个时辰就小产了",
+        "onboard_time": 1751883861,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118421,
+        "num": 118421,
+        "word": "蒋长扬被胸肌救了",
+        "onboard_time": 1751884522,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117630,
+        "num": 117630,
+        "word": "731部队常备40个活人用于实验",
+        "onboard_time": 1751880804,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 114706,
+        "num": 114706,
+        "word": "法国阵风战机卖不出去竟赖中国",
+        "onboard_time": 1751872464,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113197,
+        "num": 113197,
+        "word": "kpop最低学历",
+        "onboard_time": 1751863225,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112127,
+        "num": 112127,
+        "word": "不要以见世面为目的带小孩旅行",
+        "onboard_time": 1751878701,
+        "rank": 43,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 110098,
+        "num": 110098,
+        "word": "王楚钦对对手说goodmatch",
+        "onboard_time": 1751880382,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108415,
+        "num": 108415,
+        "word": "YG就BLACKPINK演唱会争议道歉",
+        "onboard_time": 1751879901,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102244,
+        "num": 102244,
+        "word": "汪明荃尊重罗家英放弃化疗",
+        "onboard_time": 1751875522,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98899,
+        "num": 98899,
+        "word": "瘦子一天的食物",
+        "onboard_time": 1751879001,
+        "rank": 47,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 96995,
+        "num": 96995,
+        "word": "殷世航出国支教",
+        "onboard_time": 1751882842,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 96293,
+        "num": 96293,
+        "word": "坐高铁因为好奇选了静音车厢",
+        "onboard_time": 1751883982,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#今天重温总书记这番话#"
+    }
+  }
+}
