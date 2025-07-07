@@ -1,0 +1,410 @@
+{
+  "runTime": 1751902974233,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8090484,
+        "num": 8090484,
+        "word": "南京红老头被抓",
+        "onboard_time": 1751895024,
+        "rank": 0,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 1116920,
+        "num": 1116920,
+        "word": "南京女装大叔网传信息有夸大成分",
+        "onboard_time": 1751898029,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52457,
+        "num": 1021534,
+        "word": "捍卫英烈尊严网警公布6起侮辱英烈案",
+        "onboard_time": 1751901624,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 986292,
+        "num": 986292,
+        "word": "Angelababy一出手便是王炸",
+        "onboard_time": 1751898685,
+        "rank": 3,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 791458,
+        "num": 791458,
+        "word": "爱泼斯坦去世当晚牢房区域视频公开",
+        "onboard_time": 1751895143,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 547859,
+        "num": 547859,
+        "word": "山姆2公斤冰块卖22.8元",
+        "onboard_time": 1751901924,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 452998,
+        "num": 452998,
+        "word": "魏晨回应结婚证是在潍坊领的",
+        "onboard_time": 1751890343,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 451925,
+        "num": 451925,
+        "word": "凤凰传奇已连续取消3站演唱会",
+        "onboard_time": 1751900964,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 404370,
+        "num": 404370,
+        "word": "张子枫简直蜕变",
+        "onboard_time": 1751888362,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 45908,
+        "num": 335674,
+        "word": "中使馆回应旅行团在意大利被洗劫",
+        "onboard_time": 1751902284,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 638829,
+        "num": 331755,
+        "word": "南京红老头",
+        "onboard_time": 1751899165,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 325328,
+        "num": 325328,
+        "word": "又一罗马仕充电宝充电时爆炸",
+        "onboard_time": 1751896105,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283012,
+        "num": 283012,
+        "word": "因学生未报清北解散群聊老师已检讨",
+        "onboard_time": 1751899044,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265962,
+        "num": 265962,
+        "word": "李钟硕终于在剧里过上了正常家庭生活",
+        "onboard_time": 1751901803,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142550,
+        "num": 243950,
+        "word": "俄高官被普京解职当天自杀身亡",
+        "onboard_time": 1751902343,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 243574,
+        "num": 243574,
+        "word": "NBA交易",
+        "onboard_time": 1751901264,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206471,
+        "num": 206471,
+        "word": "国足0比3韩国",
+        "onboard_time": 1751893282,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204066,
+        "num": 204066,
+        "word": "热射病的前兆",
+        "onboard_time": 1751889022,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 199687,
+        "num": 199687,
+        "word": "金毛被打死狗主人称店家拒调解",
+        "onboard_time": 1751900845,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34812,
+        "num": 199238,
+        "word": "女孩10月未归称被绑架曾去泰国缅甸",
+        "onboard_time": 1751902284,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199021,
+        "num": 199021,
+        "word": "梓渝 微笑一号店",
+        "onboard_time": 1751890522,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184772,
+        "num": 184772,
+        "word": "朴成训道歉",
+        "onboard_time": 1751899705,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176780,
+        "num": 176780,
+        "word": "在意大利遭洗劫中国游客发声",
+        "onboard_time": 1751900543,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 174512,
+        "num": 174512,
+        "word": "于适携两岸乐团将日月潭水汇入黄河",
+        "onboard_time": 1751902223,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154181,
+        "num": 154181,
+        "word": "葛荟婕自曝做了戒酒手术",
+        "onboard_time": 1751902765,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152947,
+        "num": 152947,
+        "word": "广州出现今年以来最高气温",
+        "onboard_time": 1751899825,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149798,
+        "num": 149798,
+        "word": "日本小学生完全不知日军侵华事实",
+        "onboard_time": 1751901264,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 147134,
+        "num": 149727,
+        "word": "周深双语歌曲归来致敬先烈",
+        "onboard_time": 1751888962,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 44477,
+        "num": 149047,
+        "word": "曹骏呼吁尽量别接机",
+        "onboard_time": 1751902645,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52010,
+        "num": 148608,
+        "word": "音乐教授携带贝斯坐地铁被拒",
+        "onboard_time": 1751901984,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189658,
+        "num": 148144,
+        "word": "华策道歉",
+        "onboard_time": 1751892024,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148030,
+        "num": 148030,
+        "word": "罗马仕退款排到17万位",
+        "onboard_time": 1751886261,
+        "rank": 31,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 147865,
+        "num": 147865,
+        "word": "12306回应高铁F座最受欢迎",
+        "onboard_time": 1751888121,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147102,
+        "num": 147102,
+        "word": "徐冬冬发文回应",
+        "onboard_time": 1751892983,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144798,
+        "num": 144798,
+        "word": "肖战玲娜贝儿打招呼",
+        "onboard_time": 1751887702,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29695,
+        "num": 143122,
+        "word": "陈梦说困难时队友是最懂你的人",
+        "onboard_time": 1751901624,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141476,
+        "num": 141476,
+        "word": "凤凰传奇成都站演唱会取消",
+        "onboard_time": 1751896645,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134051,
+        "num": 134051,
+        "word": "于适在黄河岸边的讲述深情有力",
+        "onboard_time": 1751902223,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132659,
+        "num": 132659,
+        "word": "书卷一梦是he我们有救了",
+        "onboard_time": 1751895624,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62956,
+        "num": 129574,
+        "word": "拉基蒂奇宣布退役",
+        "onboard_time": 1751901864,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126639,
+        "num": 126639,
+        "word": "宠主称金毛李墩墩事件已圆满解决",
+        "onboard_time": 1751902702,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119163,
+        "num": 119163,
+        "word": "6个荔枝298",
+        "onboard_time": 1751893223,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117427,
+        "num": 117427,
+        "word": "92岁老人病危兄妹在医院打起来了",
+        "onboard_time": 1751889263,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116985,
+        "num": 116985,
+        "word": "俄罗斯前交通部长自杀身亡",
+        "onboard_time": 1751902825,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116036,
+        "num": 116036,
+        "word": "中方已向印度提出交涉",
+        "onboard_time": 1751888182,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 113202,
+        "num": 113202,
+        "word": "易烊千玺舒淇 孔雀东南飞",
+        "onboard_time": 1751897005,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76571,
+        "num": 111876,
+        "word": "比伯最新自拍状态",
+        "onboard_time": 1751901444,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111147,
+        "num": 111147,
+        "word": "书卷一梦",
+        "onboard_time": 1751900065,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108468,
+        "num": 108468,
+        "word": "江西瑞昌市第一中学致歉",
+        "onboard_time": 1751900244,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108065,
+        "num": 108065,
+        "word": "林心如晒和霍建华双人画秀恩爱",
+        "onboard_time": 1751893703,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向抗战烈士敬献花篮#"
+    }
+  }
+}
