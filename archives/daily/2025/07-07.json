@@ -1,6 +1,6 @@
 {
   "startTime": 1751819447185,
-  "endTime": 1751881506312,
+  "endTime": 1751884217733,
   "band_list": [
     {
       "raw_hot": 8592534,
@@ -67,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1592942,
+      "num": 1592942,
+      "word": "彩票中心通报女子中百万遭摊主夺票",
+      "onboard_time": 1751878584,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1230081,
       "num": 1230081,
       "word": "女网红海边徒手捡起致命鸡心螺",
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 1227903,
-      "num": 419189,
+      "num": 433596,
       "word": "周杰伦老子没时间",
       "onboard_time": 1751869884,
       "rank": 17,
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 1133137,
-      "num": 395996,
+      "num": 432543,
       "word": "小英感染幽门螺旋杆菌",
       "onboard_time": 1751865264,
       "rank": 11,
@@ -187,10 +195,18 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 810359,
-      "num": 810359,
-      "word": "彩票中心通报女子中百万遭摊主夺票",
-      "onboard_time": 1751878584,
+      "raw_hot": 782373,
+      "num": 782373,
+      "word": "丽江失联20岁女大学生遗体被找到",
+      "onboard_time": 1751879302,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 764556,
+      "num": 764556,
+      "word": "杭州南站有人坠楼",
+      "onboard_time": 1751883682,
       "rank": 4,
       "category": "民生新闻"
     },
@@ -209,6 +225,14 @@
       "onboard_time": 1751867364,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 710450,
+      "num": 710450,
+      "word": "以法之名没更新",
+      "onboard_time": 1751883801,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 705153,
@@ -248,6 +272,14 @@
       "word": "青岛大学毕业典礼",
       "onboard_time": 1751854464,
       "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 670762,
+      "num": 670762,
+      "word": "金毛李墩墩主人准备起诉",
+      "onboard_time": 1751880262,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -355,14 +387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 480090,
-      "num": 480090,
-      "word": "丽江失联20岁女大学生遗体被找到",
-      "onboard_time": 1751879302,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 477660,
       "num": 477660,
       "word": "731部队罪行最新铁证",
@@ -403,12 +427,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 435187,
+      "num": 435187,
+      "word": "赴山海",
+      "onboard_time": 1751880202,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 427873,
       "num": 427873,
       "word": "谁懂迪丽热巴敬礼这一下",
       "onboard_time": 1751879182,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 427003,
+      "num": 427003,
+      "word": "曹骏机场 白月光重回巅峰",
+      "onboard_time": 1751881042,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 422685,
@@ -481,6 +521,14 @@
       "onboard_time": 1751872464,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 362848,
+      "num": 362848,
+      "word": "妈妈鹿晗这个黄毛真不一样",
+      "onboard_time": 1751880441,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 359427,
@@ -603,6 +651,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 289399,
+      "num": 434957,
+      "word": "校方回应网传离世大爷被拖欠工资",
+      "onboard_time": 1751879061,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 287857,
       "num": 287857,
       "word": "安吉终于同意剪发啦",
@@ -619,20 +675,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 284510,
+      "num": 284510,
+      "word": "徐若晗裙子",
+      "onboard_time": 1751882900,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 283940,
       "num": 283940,
       "word": "马斯克回应对特朗普由爱转恨原因",
       "onboard_time": 1751816063,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 281047,
-      "num": 281047,
-      "word": "赴山海",
-      "onboard_time": 1751880202,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 278851,
@@ -659,14 +715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 274738,
-      "num": 274738,
-      "word": "妈妈鹿晗这个黄毛真不一样",
-      "onboard_time": 1751880441,
-      "rank": 40,
-      "category": "演出"
-    },
-    {
       "raw_hot": 274617,
       "num": 248079,
       "word": "鹿晗工作室出图",
@@ -689,6 +737,14 @@
       "onboard_time": 1751819840,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 270762,
+      "num": 270762,
+      "word": "印度男孩卧轨拍火车从身上驶过视频",
+      "onboard_time": 1751882004,
+      "rank": 20,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 270696,
@@ -755,12 +811,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 258015,
-      "num": 258015,
-      "word": "校方回应网传离世大爷被拖欠工资",
-      "onboard_time": 1751879061,
-      "rank": 20,
-      "category": "民生新闻"
+      "raw_hot": 255889,
+      "num": 255889,
+      "word": "黄宗泽说不结婚是为了气妈妈",
+      "onboard_time": 1751883262,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 255196,
@@ -779,20 +835,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 247551,
-      "num": 379209,
-      "word": "金毛李墩墩主人准备起诉",
-      "onboard_time": 1751880262,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 245579,
       "num": 245579,
       "word": "王者荣耀S40新赛季",
       "onboard_time": 1751866044,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 242393,
+      "num": 242393,
+      "word": "幽门螺旋杆菌",
+      "onboard_time": 1751883441,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 240924,
@@ -955,6 +1011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 198216,
+      "num": 198216,
+      "word": "国足首发",
+      "onboard_time": 1751883022,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197926,
       "num": 197926,
       "word": "月入1万一天工作14小时的真实生活",
@@ -993,6 +1057,14 @@
       "onboard_time": 1751807006,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191994,
+      "num": 191994,
+      "word": "731部队常备40个活人用于实验",
+      "onboard_time": 1751880804,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 189637,
@@ -1041,14 +1113,6 @@
       "onboard_time": 1751861244,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 184421,
-      "num": 184421,
-      "word": "曹骏机场 白月光重回巅峰",
-      "onboard_time": 1751881042,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 183720,
@@ -1137,6 +1201,14 @@
       "onboard_time": 1751875762,
       "rank": 37,
       "category": "民生新闻,游戏"
+    },
+    {
+      "raw_hot": 168334,
+      "num": 168334,
+      "word": "贾静雯大女儿称与继母是好姐妹",
+      "onboard_time": 1751882721,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 167704,
@@ -1267,6 +1339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 148843,
+      "num": 148843,
+      "word": "殷世航出国支教",
+      "onboard_time": 1751882842,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 148745,
       "num": 148745,
       "word": "Alex是大叔",
@@ -1323,7 +1403,7 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 141267,
+      "raw_hot": 142612,
       "num": 211501,
       "word": "王楚钦对对手说goodmatch",
       "onboard_time": 1751880382,
@@ -1337,6 +1417,14 @@
       "onboard_time": 1751805684,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 139917,
+      "num": 139917,
+      "word": "理解甄嬛为何跪了半个时辰就小产了",
+      "onboard_time": 1751883861,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 139807,
@@ -1369,6 +1457,14 @@
       "onboard_time": 1751865685,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137101,
+      "num": 137101,
+      "word": "鹿晗依旧开车窗",
+      "onboard_time": 1751883562,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 137022,
@@ -1459,6 +1555,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 130336,
+      "num": 137144,
+      "word": "天水",
+      "onboard_time": 1751882900,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130325,
       "num": 285316,
       "word": "青岛大学回应宿管大爷离世后装空调",
@@ -1491,6 +1595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126753,
+      "num": 346604,
+      "word": "特朗普称得州洪灾是拜登的错",
+      "onboard_time": 1751880683,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 126227,
       "num": 126227,
       "word": "王楚钦金句再现",
@@ -1513,14 +1625,6 @@
       "onboard_time": 1751810544,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 125809,
-      "num": 125809,
-      "word": "731部队常备40个活人用于实验",
-      "onboard_time": 1751880804,
-      "rank": 43,
-      "category": "国内时政"
     },
     {
       "raw_hot": 125696,
@@ -1627,6 +1731,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 118567,
+      "num": 276040,
+      "word": "女孩打工3年重返中专拿下全国冠军",
+      "onboard_time": 1751883501,
+      "rank": 19,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 118488,
       "num": 118488,
       "word": "俄乌冲突打不赢停不下",
@@ -1675,12 +1787,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116814,
+      "num": 116814,
+      "word": "Somi回归",
+      "onboard_time": 1751881642,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116493,
       "num": 116493,
       "word": "孙颖莎晋级32强",
       "onboard_time": 1751854763,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116215,
+      "num": 116215,
+      "word": "坐高铁因为好奇选了静音车厢",
+      "onboard_time": 1751883982,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 115779,
@@ -1787,6 +1915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108527,
+      "num": 108527,
+      "word": "这段谁给宋祖儿本体放出来了",
+      "onboard_time": 1751884103,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108446,
       "num": 108446,
       "word": "罗马仕",
@@ -1889,6 +2025,14 @@
       "onboard_time": 1751875401,
       "rank": 18,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 102512,
+      "num": 102512,
+      "word": "王楚钦训练用副板的时间更多了",
+      "onboard_time": 1751884103,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 101551,
@@ -2345,14 +2489,6 @@
       "onboard_time": 1751825957,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 36206,
-      "num": 346604,
-      "word": "特朗普称得州洪灾是拜登的错",
-      "onboard_time": 1751880683,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 33481,
