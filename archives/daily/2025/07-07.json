@@ -1,6 +1,6 @@
 {
   "startTime": 1751819447185,
-  "endTime": 1751854151171,
+  "endTime": 1751855616898,
   "band_list": [
     {
       "raw_hot": 8592534,
@@ -27,12 +27,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1228682,
-      "num": 1228682,
+      "raw_hot": 1685930,
+      "num": 534508,
+      "word": "青岛大学宿管阿姨称8个月没发工资",
+      "onboard_time": 1751852063,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1230081,
+      "num": 1230081,
       "word": "女网红海边徒手捡起致命鸡心螺",
       "onboard_time": 1751850743,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 921102,
+      "num": 471307,
+      "word": "青岛大学将积极配合开展调查",
+      "onboard_time": 1751853682,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 910510,
+      "num": 910510,
+      "word": "果然高铁F座最受欢迎",
+      "onboard_time": 1751853563,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 894785,
@@ -75,20 +99,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 534508,
-      "num": 534508,
-      "word": "青岛大学宿管阿姨称8个月没发工资",
-      "onboard_time": 1751852063,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 506416,
       "num": 506416,
       "word": "孙颖莎3比2刘杨子",
       "onboard_time": 1751842877,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 483631,
+      "num": 483631,
+      "word": "热射病 不出汗",
+      "onboard_time": 1751853502,
+      "rank": 16,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 477660,
@@ -107,20 +131,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 455811,
+      "num": 424339,
+      "word": "青岛大学毕业典礼",
+      "onboard_time": 1751854464,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 422685,
+      "num": 422685,
+      "word": "七七事变88年了",
+      "onboard_time": 1751818164,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 404011,
       "num": 290392,
       "word": "身份证照片 戴眼镜",
       "onboard_time": 1751790262,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 398482,
-      "num": 398482,
-      "word": "青岛大学将积极配合开展调查",
-      "onboard_time": 1751853682,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 393518,
@@ -137,14 +169,6 @@
       "onboard_time": 1751843240,
       "rank": 16,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 322900,
-      "num": 322900,
-      "word": "七七事变88年了",
-      "onboard_time": 1751818164,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 301667,
@@ -243,8 +267,16 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 250591,
-      "num": 250591,
+      "raw_hot": 265160,
+      "num": 458009,
+      "word": "赵立坚推介王一博万物可爱",
+      "onboard_time": 1751851284,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 255196,
+      "num": 255196,
       "word": "特朗普称马斯克成立新政党荒谬",
       "onboard_time": 1751850081,
       "rank": 15,
@@ -257,22 +289,6 @@
       "onboard_time": 1751816423,
       "rank": 14,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 249187,
-      "num": 249187,
-      "word": "热射病 不出汗",
-      "onboard_time": 1751853502,
-      "rank": 16,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 243456,
-      "num": 458009,
-      "word": "赵立坚推介王一博万物可爱",
-      "onboard_time": 1751851284,
-      "rank": 7,
-      "category": "音乐"
     },
     {
       "raw_hot": 240924,
@@ -307,12 +323,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 224164,
-      "num": 224164,
-      "word": "果然高铁F座最受欢迎",
-      "onboard_time": 1751853563,
-      "rank": 23,
-      "category": "幽默"
+      "raw_hot": 216678,
+      "num": 452545,
+      "word": "被爸妈认证的帅气和美貌",
+      "onboard_time": 1751852183,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 216138,
@@ -328,6 +344,14 @@
       "word": "警方回应拍身份证照片能否戴眼镜",
       "onboard_time": 1751813604,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207210,
+      "num": 433375,
+      "word": "烟台南山学院安排专项资金装空调",
+      "onboard_time": 1751854883,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -347,19 +371,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189637,
+      "num": 430861,
+      "word": "侵华日军口述罪证视频曝光",
+      "onboard_time": 1751850383,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187556,
       "num": 187556,
       "word": "网传零食店一店员给顾客下跪道歉",
       "onboard_time": 1751819781,
       "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 184553,
-      "num": 430861,
-      "word": "侵华日军口述罪证视频曝光",
-      "onboard_time": 1751850383,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -379,12 +403,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 164977,
-      "num": 452545,
-      "word": "被爸妈认证的帅气和美貌",
-      "onboard_time": 1751852183,
-      "rank": 8,
-      "category": "综艺"
+      "raw_hot": 162932,
+      "num": 162932,
+      "word": "防空警报",
+      "onboard_time": 1751855483,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160918,
@@ -475,6 +499,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 132749,
+      "num": 132749,
+      "word": "山东舰编队访港",
+      "onboard_time": 1751827995,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 132417,
       "num": 132417,
       "word": "鹿晗今天出场造型",
@@ -497,6 +529,14 @@
       "onboard_time": 1751781201,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131616,
+      "num": 131616,
+      "word": "学生在宿管大爷生前屋外放鲜花悼念",
+      "onboard_time": 1751854883,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130957,
@@ -523,6 +563,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 122233,
+      "num": 237916,
+      "word": "杨紫脖子上的青筋都哭出来了",
+      "onboard_time": 1751830514,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121973,
       "num": 121973,
       "word": "壶口瀑布再现90版50元人民币壮阔景象",
@@ -539,28 +587,36 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 120201,
-      "num": 120201,
-      "word": "山东舰编队访港",
-      "onboard_time": 1751827995,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 119583,
-      "num": 237916,
-      "word": "杨紫脖子上的青筋都哭出来了",
-      "onboard_time": 1751830514,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 118315,
       "num": 287613,
       "word": "以法之名28集",
       "onboard_time": 1751839395,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117280,
+      "num": 117280,
+      "word": "小暑大暑 上蒸下煮",
+      "onboard_time": 1751852364,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116493,
+      "num": 116493,
+      "word": "孙颖莎晋级32强",
+      "onboard_time": 1751854763,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 114992,
+      "num": 114992,
+      "word": "湖人官宣艾顿加盟",
+      "onboard_time": 1751855244,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 113342,
@@ -579,11 +635,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 112464,
-      "num": 112464,
-      "word": "小暑大暑 上蒸下煮",
-      "onboard_time": 1751852364,
-      "rank": 43,
+      "raw_hot": 111309,
+      "num": 111309,
+      "word": "韩国为大熊猫双胞胎过2岁生日",
+      "onboard_time": 1751854703,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -593,6 +649,14 @@
       "onboard_time": 1751809704,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107649,
+      "num": 190729,
+      "word": "药王孙思邈留下的速睡方",
+      "onboard_time": 1751850623,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 106734,
@@ -627,12 +691,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 100862,
-      "num": 190729,
-      "word": "药王孙思邈留下的速睡方",
-      "onboard_time": 1751850623,
-      "rank": 24,
-      "category": "健康医疗"
+      "raw_hot": 100463,
+      "num": 100463,
+      "word": "孙颖莎说首场值得好好总结",
+      "onboard_time": 1751855604,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 100103,
@@ -643,6 +707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99347,
+      "num": 99347,
+      "word": "现在的公司到底要招什么人",
+      "onboard_time": 1751854883,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 99338,
       "num": 99338,
       "word": "鹿晗哥感好足",
@@ -651,20 +723,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 98442,
+      "num": 168693,
+      "word": "Jennie舞台",
+      "onboard_time": 1751849962,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 97444,
+      "num": 669318,
+      "word": "七七事变背后的历史真相",
+      "onboard_time": 1751818223,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 96063,
       "num": 96063,
       "word": "淮上 我就喜欢吃这种的",
       "onboard_time": 1751799749,
       "rank": 40,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 95768,
-      "num": 598859,
-      "word": "七七事变背后的历史真相",
-      "onboard_time": 1751818223,
-      "rank": 41,
-      "category": "国内时政"
     },
     {
       "raw_hot": 94378,
@@ -761,14 +841,6 @@
       "onboard_time": 1751818882,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 80057,
-      "num": 168693,
-      "word": "Jennie舞台",
-      "onboard_time": 1751849962,
-      "rank": 29,
-      "category": "演出"
     },
     {
       "raw_hot": 74269,
