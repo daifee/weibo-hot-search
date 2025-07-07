@@ -1,6 +1,6 @@
 {
   "startTime": 1751819447185,
-  "endTime": 1751892854550,
+  "endTime": 1751893768496,
   "band_list": [
     {
       "raw_hot": 8592534,
@@ -67,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1684338,
+      "num": 1684338,
+      "word": "老师因学生志愿未报清北解散群聊",
+      "onboard_time": 1751889381,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1622322,
       "num": 1622322,
       "word": "实付2元点外卖被偷气得直接报警",
@@ -80,14 +88,6 @@
       "word": "彩票中心通报女子中百万遭摊主夺票",
       "onboard_time": 1751878584,
       "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1384593,
-      "num": 1384593,
-      "word": "老师因学生志愿未报清北解散群聊",
-      "onboard_time": 1751889381,
-      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -113,6 +113,14 @@
       "onboard_time": 1751883801,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1220388,
+      "num": 1118056,
+      "word": "魏晨回应结婚证是在潍坊领的",
+      "onboard_time": 1751890343,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1216024,
@@ -161,14 +169,6 @@
       "onboard_time": 1751865264,
       "rank": 11,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1118056,
-      "num": 1118056,
-      "word": "魏晨回应结婚证是在潍坊领的",
-      "onboard_time": 1751890343,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1049854,
@@ -225,6 +225,14 @@
       "onboard_time": 1751820921,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 891786,
+      "num": 570557,
+      "word": "华策道歉",
+      "onboard_time": 1751892024,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 868693,
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 610359,
-      "num": 452359,
+      "num": 525406,
       "word": "梓渝 微笑一号店",
       "onboard_time": 1751890522,
       "rank": 10,
@@ -467,12 +475,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 527960,
-      "num": 527960,
-      "word": "华策道歉",
-      "onboard_time": 1751892024,
-      "rank": 7,
-      "category": "艺人"
+      "raw_hot": 511315,
+      "num": 511315,
+      "word": "中方已向印度提出交涉",
+      "onboard_time": 1751888182,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 506416,
@@ -619,14 +627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 391419,
-      "num": 391419,
-      "word": "中方已向印度提出交涉",
-      "onboard_time": 1751888182,
-      "rank": 41,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 388868,
       "num": 405512,
       "word": "张凯丽女儿回应节目里爆哭",
@@ -699,6 +699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 341783,
+      "num": 453004,
+      "word": "律师解读未付款刮中100万算谁的",
+      "onboard_time": 1751891482,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 337235,
       "num": 327052,
       "word": "刘诗诗朴宝剑姐狗感",
@@ -755,12 +763,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 315173,
+      "num": 525773,
+      "word": "国足0比3韩国",
+      "onboard_time": 1751893282,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 309187,
       "num": 664695,
       "word": "斯嘉丽成全球票房最高演员",
       "onboard_time": 1751857103,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 307225,
+      "num": 307225,
+      "word": "王源林俊杰演唱会上厕所失败",
+      "onboard_time": 1751891543,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 301667,
@@ -971,12 +995,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 258450,
+      "num": 258450,
+      "word": "12306回应高铁F座最受欢迎",
+      "onboard_time": 1751888121,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 255196,
       "num": 255196,
       "word": "特朗普称马斯克成立新政党荒谬",
       "onboard_time": 1751850081,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 252319,
+      "num": 252319,
+      "word": "热射病的前兆",
+      "onboard_time": 1751889022,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 249560,
@@ -993,14 +1033,6 @@
       "onboard_time": 1751866044,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 244862,
-      "num": 244862,
-      "word": "王源林俊杰演唱会上厕所失败",
-      "onboard_time": 1751891543,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 240924,
@@ -1075,20 +1107,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 226920,
-      "num": 226920,
-      "word": "热射病的前兆",
-      "onboard_time": 1751889022,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 223518,
       "num": 223518,
       "word": "七七事变",
       "onboard_time": 1751813184,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 222922,
+      "num": 222922,
+      "word": "教育局回应学生未报清北老师解散群聊",
+      "onboard_time": 1751891122,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 221131,
@@ -1171,6 +1203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 209175,
+      "num": 206429,
+      "word": "杨阳洋长这么大了",
+      "onboard_time": 1751891663,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209097,
       "num": 209097,
       "word": "王楚钦独守半区",
@@ -1195,22 +1235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 206429,
-      "num": 206429,
-      "word": "杨阳洋长这么大了",
-      "onboard_time": 1751891663,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 206175,
-      "num": 206175,
-      "word": "12306回应高铁F座最受欢迎",
-      "onboard_time": 1751888121,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 198216,
       "num": 198216,
       "word": "国足首发",
@@ -1225,14 +1249,6 @@
       "onboard_time": 1751863166,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 197918,
-      "num": 453004,
-      "word": "律师解读未付款刮中100万算谁的",
-      "onboard_time": 1751891482,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 197708,
@@ -1267,12 +1283,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 194724,
-      "num": 194724,
-      "word": "教育局回应学生未报清北老师解散群聊",
-      "onboard_time": 1751891122,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 193888,
+      "num": 288355,
+      "word": "徐冬冬发文回应",
+      "onboard_time": 1751892983,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 192574,
@@ -1329,6 +1345,14 @@
       "onboard_time": 1751819781,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186040,
+      "num": 180603,
+      "word": "你跟我说这是贾斯汀比伯",
+      "onboard_time": 1751892323,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 184666,
@@ -1401,6 +1425,14 @@
       "onboard_time": 1751863524,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177675,
+      "num": 177675,
+      "word": "Angelababy森林精灵",
+      "onboard_time": 1751892624,
+      "rank": 43,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 174156,
@@ -1651,14 +1683,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 148282,
-      "num": 148282,
-      "word": "你跟我说这是贾斯汀比伯",
-      "onboard_time": 1751892323,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 147049,
       "num": 147049,
       "word": "光遇",
@@ -1729,6 +1753,14 @@
       "onboard_time": 1751884701,
       "rank": 19,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 141164,
+      "num": 141164,
+      "word": "金毛李墩墩主人为疏忽致歉",
+      "onboard_time": 1751891183,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140569,
@@ -1891,12 +1923,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 129878,
-      "num": 129878,
-      "word": "金毛李墩墩主人为疏忽致歉",
-      "onboard_time": 1751891183,
-      "rank": 40,
-      "category": "民生新闻"
+      "raw_hot": 129495,
+      "num": 129495,
+      "word": "谁把我爸的衣服拿片场了",
+      "onboard_time": 1751892683,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 129275,
@@ -2019,14 +2051,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122007,
-      "num": 122007,
-      "word": "Angelababy森林精灵",
-      "onboard_time": 1751892624,
-      "rank": 43,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 121973,
       "num": 121973,
       "word": "壶口瀑布再现90版50元人民币壮阔景象",
@@ -2081,6 +2105,14 @@
       "onboard_time": 1751887342,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119900,
+      "num": 119900,
+      "word": "林心如晒和霍建华双人画秀恩爱",
+      "onboard_time": 1751893703,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 119346,
@@ -2147,6 +2179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117778,
+      "num": 284977,
+      "word": "幼童躺街上遭货车碾压知情人发声",
+      "onboard_time": 1751893282,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117546,
       "num": 117546,
       "word": "李斌称电池越大对马路破坏越大",
@@ -2171,20 +2211,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 116745,
-      "num": 116745,
-      "word": "谁把我爸的衣服拿片场了",
-      "onboard_time": 1751892683,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 116493,
       "num": 116493,
       "word": "孙颖莎晋级32强",
       "onboard_time": 1751854763,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116337,
+      "num": 359458,
+      "word": "当事人称说18岁显老涉事员工已致歉",
+      "onboard_time": 1751891482,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116215,
@@ -2587,6 +2627,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 98013,
+      "num": 141811,
+      "word": "6个荔枝298",
+      "onboard_time": 1751893223,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97899,
       "num": 168041,
       "word": "周也你好星期六上班路透",
@@ -2745,14 +2793,6 @@
       "onboard_time": 1751818882,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 78743,
-      "num": 359458,
-      "word": "当事人称说18岁显老涉事员工已致歉",
-      "onboard_time": 1751891482,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75668,
@@ -3113,6 +3153,22 @@
       "onboard_time": 1751826915,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25201,
+      "num": 526747,
+      "word": "医院法人代表带头开药骗保1200万",
+      "onboard_time": 1751893282,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24499,
+      "num": 363430,
+      "word": "辅警透露查赌信息每次收300元",
+      "onboard_time": 1751893282,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23467,
