@@ -1,6 +1,6 @@
 {
   "startTime": 1751819447185,
-  "endTime": 1751866215015,
+  "endTime": 1751867172410,
   "band_list": [
     {
       "raw_hot": 8592534,
@@ -67,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1163518,
+      "num": 1163518,
+      "word": "高校学生热晕一晚开进五六辆救护车",
+      "onboard_time": 1751863107,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1155609,
       "num": 1155609,
       "word": "拔牙 血栓",
@@ -75,12 +83,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 1046185,
-      "num": 1046185,
-      "word": "高校学生热晕一晚开进五六辆救护车",
-      "onboard_time": 1751863107,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 1103692,
+      "num": 395996,
+      "word": "小英感染幽门螺旋杆菌",
+      "onboard_time": 1751865264,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 1033062,
@@ -115,6 +123,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 833744,
+      "num": 833744,
+      "word": "长期熬夜和11点前睡觉的区别",
+      "onboard_time": 1751864006,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 705153,
       "num": 705153,
       "word": "央视曝光零差评背后猫腻",
@@ -129,14 +145,6 @@
       "onboard_time": 1751858304,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 688889,
-      "num": 395996,
-      "word": "小英感染幽门螺旋杆菌",
-      "onboard_time": 1751865264,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 685344,
@@ -201,14 +209,6 @@
       "onboard_time": 1751812104,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 563725,
-      "num": 563725,
-      "word": "长期熬夜和11点前睡觉的区别",
-      "onboard_time": 1751864006,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 532843,
@@ -307,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 358664,
+      "num": 390801,
+      "word": "三黄片现金买18元刷医保26元",
+      "onboard_time": 1751865924,
+      "rank": 12,
+      "category": "舆论监督,健康医疗"
+    },
+    {
       "raw_hot": 334573,
       "num": 273426,
       "word": "马斯克被警告会成为一个没国家的人",
@@ -369,14 +377,6 @@
       "onboard_time": 1751812164,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 292964,
-      "num": 390801,
-      "word": "三黄片现金买18元刷医保26元",
-      "onboard_time": 1751865924,
-      "rank": 12,
-      "category": "舆论监督,健康医疗"
     },
     {
       "raw_hot": 289734,
@@ -499,6 +499,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 245579,
+      "num": 245579,
+      "word": "王者荣耀S40新赛季",
+      "onboard_time": 1751866044,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 240924,
       "num": 240924,
       "word": "台风",
@@ -521,14 +529,6 @@
       "onboard_time": 1751851943,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 236272,
-      "num": 236272,
-      "word": "王者荣耀S40新赛季",
-      "onboard_time": 1751866044,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 235795,
@@ -571,6 +571,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 220813,
+      "num": 220813,
+      "word": "青岛大学已开始装空调",
+      "onboard_time": 1751866706,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 220480,
       "num": 262883,
       "word": "入青云",
@@ -595,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 215663,
+      "num": 264099,
+      "word": "差点没认出杨紫和胡歌",
+      "onboard_time": 1751866224,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209097,
       "num": 209097,
       "word": "王楚钦独守半区",
@@ -609,6 +625,14 @@
       "onboard_time": 1751854883,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206320,
+      "num": 251096,
+      "word": "刘诗诗朴宝剑李庚希同框",
+      "onboard_time": 1751866104,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 199238,
@@ -651,12 +675,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190515,
+      "num": 254445,
+      "word": "管乐和小婉生命中重要的三个时刻",
+      "onboard_time": 1751866283,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189637,
       "num": 430861,
       "word": "侵华日军口述罪证视频曝光",
       "onboard_time": 1751850383,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189320,
+      "num": 225531,
+      "word": "三伏天如何增强保护力",
+      "onboard_time": 1751866405,
+      "rank": 19,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 187556,
@@ -899,6 +939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137701,
+      "num": 275704,
+      "word": "天水幼儿园血铅超标谁在遮丑",
+      "onboard_time": 1751865685,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137022,
       "num": 137022,
       "word": "吃冷饮在嘴里含三五秒真的有用",
@@ -976,6 +1024,14 @@
       "word": "张鑫 白鹿站姐",
       "onboard_time": 1751809583,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 126652,
+      "num": 126652,
+      "word": "彭楚粤谈切肥皂",
+      "onboard_time": 1751866884,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -1059,6 +1115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118575,
+      "num": 118575,
+      "word": "锦瑟",
+      "onboard_time": 1751864065,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 118345,
       "num": 1184244,
       "word": "七七事变背后的历史真相",
@@ -1073,14 +1137,6 @@
       "onboard_time": 1751839395,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 118079,
-      "num": 118079,
-      "word": "锦瑟",
-      "onboard_time": 1751864065,
-      "rank": 49,
-      "category": "动漫"
     },
     {
       "raw_hot": 117280,
@@ -1275,14 +1331,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 97089,
-      "num": 177545,
-      "word": "刘诗诗朴宝剑李庚希同框",
-      "onboard_time": 1751866104,
-      "rank": 37,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 96063,
       "num": 96063,
       "word": "淮上 我就喜欢吃这种的",
@@ -1363,14 +1411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 85761,
-      "num": 275704,
-      "word": "天水幼儿园血铅超标谁在遮丑",
-      "onboard_time": 1751865685,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 85226,
       "num": 85226,
       "word": "柳智敏澄清ins争议",
@@ -1449,6 +1489,14 @@
       "onboard_time": 1751817744,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 59234,
+      "num": 116793,
+      "word": "权恩妃水弹音乐节",
+      "onboard_time": 1751864546,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 55765,
@@ -1569,6 +1617,14 @@
       "onboard_time": 1751827335,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 29746,
+      "num": 132056,
+      "word": "梁靖崑遭遇一轮游",
+      "onboard_time": 1751866884,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 29510,

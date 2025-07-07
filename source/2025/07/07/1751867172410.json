@@ -1,0 +1,410 @@
+{
+  "runTime": 1751867172410,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1354305,
+        "num": 1354305,
+        "word": "果然高铁F座最受欢迎",
+        "onboard_time": 1751853563,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1163518,
+        "num": 1163518,
+        "word": "高校学生热晕一晚开进五六辆救护车",
+        "onboard_time": 1751863107,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52760,
+        "num": 845163,
+        "word": "七七事变背后的历史真相",
+        "onboard_time": 1751818223,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 833744,
+        "num": 833744,
+        "word": "长期熬夜和11点前睡觉的区别",
+        "onboard_time": 1751864006,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 786967,
+        "num": 786967,
+        "word": "拔牙 血栓",
+        "onboard_time": 1751862024,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 632562,
+        "num": 632562,
+        "word": "男生与女友同居太兴奋后空翻摔死",
+        "onboard_time": 1751816663,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 407677,
+        "num": 407677,
+        "word": "实付2元点外卖被偷气得直接报警",
+        "onboard_time": 1751856143,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284826,
+        "num": 364680,
+        "word": "张凯丽女儿回应节目里爆哭",
+        "onboard_time": 1751860765,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280007,
+        "num": 359181,
+        "word": "陈震",
+        "onboard_time": 1751861783,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 358664,
+        "num": 358664,
+        "word": "三黄片现金买18元刷医保26元",
+        "onboard_time": 1751865924,
+        "rank": 9,
+        "category": "舆论监督,健康医疗"
+      },
+      {
+        "raw_hot": 1103692,
+        "num": 349559,
+        "word": "小英感染幽门螺旋杆菌",
+        "onboard_time": 1751865264,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 791009,
+        "num": 348329,
+        "word": "kpop最低学历",
+        "onboard_time": 1751863225,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300033,
+        "num": 300033,
+        "word": "731部队原队员承认解剖了300人",
+        "onboard_time": 1751862686,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269902,
+        "num": 269902,
+        "word": "学生在奈雪兼职被说18岁这么显老",
+        "onboard_time": 1751858544,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215663,
+        "num": 264099,
+        "word": "差点没认出杨紫和胡歌",
+        "onboard_time": 1751866224,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206422,
+        "num": 262617,
+        "word": "你好星期六",
+        "onboard_time": 1751861124,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190515,
+        "num": 254445,
+        "word": "管乐和小婉生命中重要的三个时刻",
+        "onboard_time": 1751866283,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206320,
+        "num": 251096,
+        "word": "刘诗诗朴宝剑李庚希同框",
+        "onboard_time": 1751866104,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 245579,
+        "num": 245579,
+        "word": "王者荣耀S40新赛季",
+        "onboard_time": 1751866044,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189320,
+        "num": 225531,
+        "word": "三伏天如何增强保护力",
+        "onboard_time": 1751866405,
+        "rank": 19,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 365303,
+        "num": 225502,
+        "word": "青岛大学毕业典礼",
+        "onboard_time": 1751854464,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220813,
+        "num": 220813,
+        "word": "青岛大学已开始装空调",
+        "onboard_time": 1751866706,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207197,
+        "num": 207197,
+        "word": "会让体内湿气加重的行为",
+        "onboard_time": 1751858003,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 187765,
+        "num": 187765,
+        "word": "我跟王安宇的共同点 有底薪",
+        "onboard_time": 1751860524,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183245,
+        "num": 183245,
+        "word": "热射病 不出汗",
+        "onboard_time": 1751853502,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 182140,
+        "num": 182140,
+        "word": "不点赞朋友圈是嫉妒吗",
+        "onboard_time": 1751864124,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181280,
+        "num": 181280,
+        "word": "731部队罪行最新铁证",
+        "onboard_time": 1751850262,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176812,
+        "num": 176812,
+        "word": "杨笠 抵制黄牛第一人",
+        "onboard_time": 1751860704,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 174661,
+        "num": 176641,
+        "word": "爸爸当家",
+        "onboard_time": 1751863524,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129941,
+        "num": 176620,
+        "word": "沈梦辰和杨紫撞冠了",
+        "onboard_time": 1751860883,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176600,
+        "num": 176600,
+        "word": "有3次犯罪前科是怎么当上局长的",
+        "onboard_time": 1751857284,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174943,
+        "num": 174943,
+        "word": "女网红海边徒手捡起致命鸡心螺",
+        "onboard_time": 1751850743,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163886,
+        "num": 163886,
+        "word": "12306回应G7272列车停车停电",
+        "onboard_time": 1751861065,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158865,
+        "num": 158865,
+        "word": "五六台救护车救热晕学生校方称不知",
+        "onboard_time": 1751862264,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155293,
+        "num": 155293,
+        "word": "月入1万一天工作14小时的真实生活",
+        "onboard_time": 1751863166,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155018,
+        "num": 155018,
+        "word": "梁靖崑止步男单首轮",
+        "onboard_time": 1751858304,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140202,
+        "num": 140202,
+        "word": "王楚钦独守半区",
+        "onboard_time": 1751862264,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137701,
+        "num": 137701,
+        "word": "天水幼儿园血铅超标谁在遮丑",
+        "onboard_time": 1751865685,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134751,
+        "num": 134751,
+        "word": "频繁刷手机可能导致脑腐",
+        "onboard_time": 1751864367,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29746,
+        "num": 132056,
+        "word": "梁靖崑遭遇一轮游",
+        "onboard_time": 1751866884,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131166,
+        "num": 131166,
+        "word": "台湾本岛全警戒状态",
+        "onboard_time": 1751863285,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126652,
+        "num": 126652,
+        "word": "彭楚粤谈切肥皂",
+        "onboard_time": 1751866884,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124120,
+        "num": 124120,
+        "word": "在上海花了一千块吃的汤泡饭",
+        "onboard_time": 1751865804,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 121273,
+        "num": 121273,
+        "word": "高瀚宇也没逃过中医法眼",
+        "onboard_time": 1751865083,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120702,
+        "num": 120702,
+        "word": "斯嘉丽成全球票房最高演员",
+        "onboard_time": 1751857103,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119239,
+        "num": 119239,
+        "word": "光遇",
+        "onboard_time": 1751865083,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118575,
+        "num": 118575,
+        "word": "锦瑟",
+        "onboard_time": 1751864065,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 59234,
+        "num": 116793,
+        "word": "权恩妃水弹音乐节",
+        "onboard_time": 1751864546,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116454,
+        "num": 116454,
+        "word": "为何在药店刷医保买药更贵",
+        "onboard_time": 1751864485,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114044,
+        "num": 114044,
+        "word": "七七事变88年了",
+        "onboard_time": 1751818164,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#铭记历史尊崇英雄#"
+    }
+  }
+}
