@@ -1,6 +1,6 @@
 {
   "startTime": 1751906062153,
-  "endTime": 1751928177413,
+  "endTime": 1751930742817,
   "band_list": [
     {
       "raw_hot": 5044272,
@@ -27,12 +27,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 816750,
+      "num": 860280,
+      "word": "举报者身份信息惊现举报对象办公室",
+      "onboard_time": 1751907260,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 567817,
       "num": 567817,
       "word": "Angelababy一出手便是王炸",
       "onboard_time": 1751898685,
       "rank": 4,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 567554,
+      "num": 567554,
+      "word": "在意大利遭洗劫中国游客发声",
+      "onboard_time": 1751900543,
+      "rank": 23,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 518893,
@@ -43,20 +59,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 509969,
+      "num": 509969,
+      "word": "凤凰传奇已连续取消3站演唱会",
+      "onboard_time": 1751900964,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 473961,
       "num": 284125,
       "word": "南京红老头",
       "onboard_time": 1751899165,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 442864,
-      "num": 442864,
-      "word": "凤凰传奇已连续取消3站演唱会",
-      "onboard_time": 1751900964,
-      "rank": 6,
-      "category": "演出"
     },
     {
       "raw_hot": 417075,
@@ -67,20 +83,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 358234,
-      "num": 358234,
+      "raw_hot": 368028,
+      "num": 368028,
       "word": "爱泼斯坦去世当晚牢房区域视频公开",
       "onboard_time": 1751895143,
       "rank": 7,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 347652,
-      "num": 511249,
-      "word": "举报者身份信息惊现举报对象办公室",
-      "onboard_time": 1751907260,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 303676,
@@ -99,12 +107,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 264525,
-      "num": 264525,
-      "word": "在意大利遭洗劫中国游客发声",
-      "onboard_time": 1751900543,
-      "rank": 23,
-      "category": "海外新闻"
+      "raw_hot": 267159,
+      "num": 267159,
+      "word": "主人称希望还金毛李墩墩公道",
+      "onboard_time": 1751926594,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 258838,
@@ -113,6 +121,14 @@
       "onboard_time": 1751888362,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 257038,
+      "num": 257038,
+      "word": "幼童遭碾压身亡知情人谈网上言论",
+      "onboard_time": 1751920454,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 236822,
@@ -131,6 +147,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 225451,
+      "num": 225451,
+      "word": "特朗普已签署12封关税信函",
+      "onboard_time": 1751915654,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 214506,
+      "num": 214506,
+      "word": "中方已向印度提出交涉",
+      "onboard_time": 1751888182,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 209462,
       "num": 209462,
       "word": "魏晨回应结婚证是在潍坊领的",
@@ -147,12 +179,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 174690,
+      "num": 174690,
+      "word": "2万枚污损硬币遭银行拒绝兑换",
+      "onboard_time": 1751906779,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169835,
       "num": 169835,
       "word": "金毛被打死狗主人称店家拒调解",
       "onboard_time": 1751900845,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164689,
+      "num": 164689,
+      "word": "李钟硕终于在剧里过上了正常家庭生活",
+      "onboard_time": 1751901803,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 150950,
@@ -171,20 +219,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 135995,
-      "num": 135995,
-      "word": "李钟硕终于在剧里过上了正常家庭生活",
-      "onboard_time": 1751901803,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 133649,
       "num": 133649,
       "word": "买演唱会门票竟被扣近20万元",
       "onboard_time": 1751904083,
       "rank": 25,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 132845,
+      "num": 132845,
+      "word": "张卫健 多年忠实女歌迷应采儿",
+      "onboard_time": 1751928797,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 128382,
@@ -203,6 +251,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 118678,
+      "num": 118678,
+      "word": "王曼昱3比0卡尔伯格",
+      "onboard_time": 1751929758,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 115415,
+      "num": 115415,
+      "word": "12306回应高铁F座最受欢迎",
+      "onboard_time": 1751888121,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112876,
       "num": 112876,
       "word": "国足0比3韩国",
@@ -219,12 +283,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 105112,
-      "num": 105112,
+      "raw_hot": 110153,
+      "num": 110153,
       "word": "原731成员说解剖活人才有意义",
       "onboard_time": 1751921174,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 106207,
+      "num": 106207,
+      "word": "92岁老人病危兄妹在医院打起来了",
+      "onboard_time": 1751889263,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104945,
@@ -243,12 +315,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 101106,
-      "num": 101106,
-      "word": "特朗普已签署12封关税信函",
-      "onboard_time": 1751915654,
-      "rank": 39,
-      "category": "国际时政"
+      "raw_hot": 103723,
+      "num": 123899,
+      "word": "书卷一梦是he我们有救了",
+      "onboard_time": 1751895624,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 99546,
@@ -267,20 +339,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 96036,
-      "num": 96036,
-      "word": "中方已向印度提出交涉",
-      "onboard_time": 1751888182,
-      "rank": 36,
-      "category": "国内时政"
+      "raw_hot": 95716,
+      "num": 95716,
+      "word": "学校通报学生未报清北老师解散群聊",
+      "onboard_time": 1751913975,
+      "rank": 49,
+      "category": "辟谣/通报"
     },
     {
-      "raw_hot": 95910,
-      "num": 95910,
-      "word": "2万枚污损硬币遭银行拒绝兑换",
-      "onboard_time": 1751906779,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 94985,
+      "num": 94985,
+      "word": "人际交往中恶意满满的5句话",
+      "onboard_time": 1751909418,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 93672,
@@ -299,14 +371,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 92000,
-      "num": 92000,
-      "word": "12306回应高铁F座最受欢迎",
-      "onboard_time": 1751888121,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 86563,
       "num": 86563,
       "word": "权恩妃直拍破两百万",
@@ -321,6 +385,14 @@
       "onboard_time": 1751902402,
       "rank": 35,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 80112,
+      "num": 80112,
+      "word": "韩国球员向中国球迷谢场",
+      "onboard_time": 1751929758,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 79899,
@@ -345,14 +417,6 @@
       "onboard_time": 1751904861,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 77651,
-      "num": 77651,
-      "word": "主人称希望还金毛李墩墩公道",
-      "onboard_time": 1751926594,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 74574,
@@ -387,6 +451,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69145,
+      "num": 69145,
+      "word": "俄罗斯回应特朗普威胁",
+      "onboard_time": 1751929999,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 68992,
+      "num": 68992,
+      "word": "我好像真的不会谈恋爱",
+      "onboard_time": 1751929819,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 68386,
       "num": 84403,
       "word": "专家提醒不吃早餐更易铅中毒",
@@ -403,28 +483,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 67515,
-      "num": 67515,
-      "word": "92岁老人病危兄妹在医院打起来了",
-      "onboard_time": 1751889263,
-      "rank": 45,
+      "raw_hot": 66890,
+      "num": 66890,
+      "word": "女子服装店偷裤子被试衣镜反光现形",
+      "onboard_time": 1751911096,
+      "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 66795,
-      "num": 68306,
-      "word": "书卷一梦是he我们有救了",
-      "onboard_time": 1751895624,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 66765,
-      "num": 66765,
-      "word": "人际交往中恶意满满的5句话",
-      "onboard_time": 1751909418,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 65841,
@@ -443,12 +507,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 64396,
+      "num": 64396,
+      "word": "当你不停运动2个月后",
+      "onboard_time": 1751929578,
+      "rank": 37,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 63915,
       "num": 63915,
       "word": "易烊千玺舒淇 孔雀东南飞",
       "onboard_time": 1751897005,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 63807,
+      "num": 63807,
+      "word": "韩安冉称只喜欢整容脸男人",
+      "onboard_time": 1751928977,
+      "rank": 38,
+      "category": "网红"
     },
     {
       "raw_hot": 61989,
@@ -459,11 +539,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 60880,
-      "num": 60880,
-      "word": "幼童遭碾压身亡知情人谈网上言论",
-      "onboard_time": 1751920454,
-      "rank": 48,
+      "raw_hot": 61111,
+      "num": 67759,
+      "word": "律师解读南京红老头将担刑责",
+      "onboard_time": 1751901624,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57860,
+      "num": 57860,
+      "word": "女子被造黄谣3年维权换20万空头支票",
+      "onboard_time": 1751914335,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -491,14 +579,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 48933,
-      "num": 48933,
-      "word": "女子被造黄谣3年维权换20万空头支票",
-      "onboard_time": 1751914335,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 47330,
       "num": 137372,
       "word": "魏晨与妻子是大学同学",
@@ -523,11 +603,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 43288,
-      "num": 67759,
-      "word": "律师解读南京红老头将担刑责",
-      "onboard_time": 1751901624,
-      "rank": 40,
+      "raw_hot": 44051,
+      "num": 259295,
+      "word": "车辆暴晒后怎么快速降温",
+      "onboard_time": 1751929819,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -539,27 +619,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 37059,
-      "num": 37059,
-      "word": "学校通报学生未报清北老师解散群聊",
-      "onboard_time": 1751913975,
-      "rank": 49,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 33134,
       "num": 90582,
       "word": "山姆客服回应2公斤冰块卖22.8元",
       "onboard_time": 1751909478,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 31065,
-      "num": 31065,
-      "word": "女子服装店偷裤子被试衣镜反光现形",
-      "onboard_time": 1751911096,
-      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -593,6 +657,14 @@
       "onboard_time": 1751912656,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 25229,
+      "num": 61855,
+      "word": "乐福被送往爵士",
+      "onboard_time": 1751929819,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 23229,

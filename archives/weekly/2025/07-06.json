@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751928177413,
+  "endTime": 1751930742817,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -571,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 816750,
+      "num": 860280,
+      "word": "举报者身份信息惊现举报对象办公室",
+      "onboard_time": 1751907260,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 797658,
       "num": 797658,
       "word": "医生称晚安牛奶每天喝24000瓶才有效",
@@ -939,6 +947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 567554,
+      "num": 567554,
+      "word": "在意大利遭洗劫中国游客发声",
+      "onboard_time": 1751900543,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 558333,
       "num": 558333,
       "word": "小伙脖子肿痛开刀取出7颗瓜子",
@@ -993,6 +1009,14 @@
       "onboard_time": 1751888182,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 509969,
+      "num": 509969,
+      "word": "凤凰传奇已连续取消3站演唱会",
+      "onboard_time": 1751900964,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 506416,
@@ -1089,14 +1113,6 @@
       "onboard_time": 1751773642,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 451925,
-      "num": 451925,
-      "word": "凤凰传奇已连续取消3站演唱会",
-      "onboard_time": 1751900964,
-      "rank": 6,
-      "category": "演出"
     },
     {
       "raw_hot": 451596,
@@ -1440,14 +1456,6 @@
       "word": "12岁幼女家中遭强奸妈妈第二天才发现",
       "onboard_time": 1751701881,
       "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 347652,
-      "num": 511249,
-      "word": "举报者身份信息惊现举报对象办公室",
-      "onboard_time": 1751907260,
-      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -1883,6 +1891,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 267159,
+      "num": 267159,
+      "word": "主人称希望还金毛李墩墩公道",
+      "onboard_time": 1751926594,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 267057,
       "num": 235167,
       "word": "92岁老人病危兄妹在医院打起来了",
@@ -1955,14 +1971,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 264525,
-      "num": 264525,
-      "word": "在意大利遭洗劫中国游客发声",
-      "onboard_time": 1751900543,
-      "rank": 14,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 263646,
       "num": 263646,
       "word": "艾米 老实人",
@@ -2009,6 +2017,14 @@
       "onboard_time": 1751808027,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 257038,
+      "num": 257038,
+      "word": "幼童遭碾压身亡知情人谈网上言论",
+      "onboard_time": 1751920454,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 256941,
@@ -2321,6 +2337,14 @@
       "onboard_time": 1751800405,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 225451,
+      "num": 225451,
+      "word": "特朗普已签署12封关税信函",
+      "onboard_time": 1751915654,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 224677,
@@ -3153,6 +3177,14 @@
       "onboard_time": 1751800046,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 174690,
+      "num": 174690,
+      "word": "2万枚污损硬币遭银行拒绝兑换",
+      "onboard_time": 1751906779,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 174156,
@@ -4267,6 +4299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132845,
+      "num": 132845,
+      "word": "张卫健 多年忠实女歌迷应采儿",
+      "onboard_time": 1751928797,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132749,
       "num": 132749,
       "word": "山东舰编队访港",
@@ -4859,6 +4899,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 118678,
+      "num": 118678,
+      "word": "王曼昱3比0卡尔伯格",
+      "onboard_time": 1751929758,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118611,
       "num": 118611,
       "word": "国足近6战踢韩国0进球13失球",
@@ -5291,6 +5339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 110153,
+      "num": 110153,
+      "word": "原731成员说解剖活人才有意义",
+      "onboard_time": 1751921174,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 109766,
       "num": 109766,
       "word": "WTT",
@@ -5513,14 +5569,6 @@
       "onboard_time": 1751747534,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105112,
-      "num": 105112,
-      "word": "原731成员说解剖活人才有意义",
-      "onboard_time": 1751921174,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 105086,
@@ -5753,14 +5801,6 @@
       "onboard_time": 1751788281,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 101106,
-      "num": 101106,
-      "word": "特朗普已签署12封关税信函",
-      "onboard_time": 1751915654,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 101029,
@@ -6003,20 +6043,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 95910,
-      "num": 95910,
-      "word": "2万枚污损硬币遭银行拒绝兑换",
-      "onboard_time": 1751906779,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 95733,
       "num": 95733,
       "word": "上海套内39平的四口之家",
       "onboard_time": 1751875043,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 95716,
+      "num": 95716,
+      "word": "学校通报学生未报清北老师解散群聊",
+      "onboard_time": 1751913975,
+      "rank": 49,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 95567,
@@ -6033,6 +6073,14 @@
       "onboard_time": 1751758819,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94985,
+      "num": 94985,
+      "word": "人际交往中恶意满满的5句话",
+      "onboard_time": 1751909418,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 94948,
@@ -6307,6 +6355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 80112,
+      "num": 80112,
+      "word": "韩国球员向中国球迷谢场",
+      "onboard_time": 1751929758,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79987,
       "num": 190275,
       "word": "超20家中国俱乐部出征电竞世界杯",
@@ -6337,14 +6393,6 @@
       "onboard_time": 1751800705,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 77651,
-      "num": 77651,
-      "word": "主人称希望还金毛李墩墩公道",
-      "onboard_time": 1751926594,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 77551,
@@ -6515,12 +6563,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69145,
+      "num": 69145,
+      "word": "俄罗斯回应特朗普威胁",
+      "onboard_time": 1751929999,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 69107,
       "num": 69107,
       "word": "穆西亚拉重伤倒地",
       "onboard_time": 1751758458,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68992,
+      "num": 68992,
+      "word": "我好像真的不会谈恋爱",
+      "onboard_time": 1751929819,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 68907,
@@ -6555,20 +6619,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66890,
+      "num": 66890,
+      "word": "女子服装店偷裤子被试衣镜反光现形",
+      "onboard_time": 1751911096,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66801,
       "num": 85706,
       "word": "孙颖莎懵懵比赞",
       "onboard_time": 1751791882,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 66765,
-      "num": 66765,
-      "word": "人际交往中恶意满满的5句话",
-      "onboard_time": 1751909418,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 66359,
@@ -6611,6 +6675,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 64396,
+      "num": 64396,
+      "word": "当你不停运动2个月后",
+      "onboard_time": 1751929578,
+      "rank": 37,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 64380,
       "num": 64380,
       "word": "喜欢烧烤和喜欢西瓜的都沉默了",
@@ -6633,6 +6705,14 @@
       "onboard_time": 1751735179,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 63807,
+      "num": 63807,
+      "word": "韩安冉称只喜欢整容脸男人",
+      "onboard_time": 1751928977,
+      "rank": 38,
+      "category": "网红"
     },
     {
       "raw_hot": 63216,
@@ -6667,11 +6747,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 60880,
-      "num": 60880,
-      "word": "幼童遭碾压身亡知情人谈网上言论",
-      "onboard_time": 1751920454,
-      "rank": 48,
+      "raw_hot": 61111,
+      "num": 255382,
+      "word": "律师解读南京红老头将担刑责",
+      "onboard_time": 1751901624,
+      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -6713,6 +6793,14 @@
       "onboard_time": 1751780303,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 57860,
+      "num": 57860,
+      "word": "女子被造黄谣3年维权换20万空头支票",
+      "onboard_time": 1751914335,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56806,
@@ -6859,14 +6947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 48933,
-      "num": 48933,
-      "word": "女子被造黄谣3年维权换20万空头支票",
-      "onboard_time": 1751914335,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 48241,
       "num": 249642,
       "word": "当地回应自来水每月保底收费12元",
@@ -6939,19 +7019,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44051,
+      "num": 259295,
+      "word": "车辆暴晒后怎么快速降温",
+      "onboard_time": 1751929819,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43479,
       "num": 241902,
       "word": "长沙急救中心1周因中暑等出车105趟",
       "onboard_time": 1751870484,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43288,
-      "num": 255382,
-      "word": "律师解读南京红老头将担刑责",
-      "onboard_time": 1751901624,
-      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -7041,14 +7121,6 @@
       "onboard_time": 1751914995,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 37059,
-      "num": 37059,
-      "word": "学校通报学生未报清北老师解散群聊",
-      "onboard_time": 1751913975,
-      "rank": 49,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 36888,
@@ -7175,14 +7247,6 @@
       "num": 34692,
       "word": "厂商称晚安牛奶只是名称不一定助眠",
       "onboard_time": 1751823738,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 31065,
-      "num": 31065,
-      "word": "女子服装店偷裤子被试衣镜反光现形",
-      "onboard_time": 1751911096,
       "rank": 36,
       "category": "民生新闻"
     },
@@ -7337,6 +7401,14 @@
       "onboard_time": 1751912656,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 25229,
+      "num": 61855,
+      "word": "乐福被送往爵士",
+      "onboard_time": 1751929819,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 23467,
