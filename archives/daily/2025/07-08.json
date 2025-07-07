@@ -1,6 +1,6 @@
 {
   "startTime": 1751906062153,
-  "endTime": 1751910266438,
+  "endTime": 1751913418351,
   "band_list": [
     {
       "raw_hot": 5044272,
@@ -112,6 +112,14 @@
       "word": "宠主称金毛李墩墩事件已圆满解决",
       "onboard_time": 1751902702,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 226377,
+      "num": 226377,
+      "word": "举报者身份信息惊现举报对象办公室",
+      "onboard_time": 1751907260,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -291,14 +299,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 84432,
-      "num": 84432,
-      "word": "举报者身份信息惊现举报对象办公室",
-      "onboard_time": 1751907260,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 79899,
       "num": 79899,
       "word": "华策道歉",
@@ -435,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 55280,
+      "num": 55280,
+      "word": "权恩妃好辣",
+      "onboard_time": 1751907019,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 47330,
       "num": 137372,
       "word": "魏晨与妻子是大学同学",
@@ -475,12 +483,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 41140,
-      "num": 41140,
-      "word": "权恩妃好辣",
-      "onboard_time": 1751907019,
-      "rank": 38,
-      "category": "演出"
+      "raw_hot": 43048,
+      "num": 43048,
+      "word": "金毛李墩墩主人再发声",
+      "onboard_time": 1751909418,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33134,
@@ -489,6 +497,46 @@
       "onboard_time": 1751909478,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30745,
+      "num": 33687,
+      "word": "巴黎高定时装周",
+      "onboard_time": 1751911396,
+      "rank": 29,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 29857,
+      "num": 29857,
+      "word": "女子服装店偷裤子被试衣镜反光现形",
+      "onboard_time": 1751911096,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27367,
+      "num": 27367,
+      "word": "穿高跟鞋上学的女孩",
+      "onboard_time": 1751911036,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25348,
+      "num": 25348,
+      "word": "桃花映江山",
+      "onboard_time": 1751912656,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 19566,
+      "num": 56044,
+      "word": "侵华日军后代替父辈下跪谢罪",
+      "onboard_time": 1751911996,
+      "rank": 9,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [

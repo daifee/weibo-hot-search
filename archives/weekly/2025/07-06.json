@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751910266438,
+  "endTime": 1751913418351,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -2297,6 +2297,14 @@
       "onboard_time": 1751790683,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 226377,
+      "num": 226377,
+      "word": "举报者身份信息惊现举报对象办公室",
+      "onboard_time": 1751907260,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 225558,
@@ -6235,14 +6243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 84432,
-      "num": 84432,
-      "word": "举报者身份信息惊现举报对象办公室",
-      "onboard_time": 1751907260,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 83447,
       "num": 83447,
       "word": "锦绣芳华评级",
@@ -6699,6 +6699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 55280,
+      "num": 55280,
+      "word": "权恩妃好辣",
+      "onboard_time": 1751907019,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 54814,
       "num": 122915,
       "word": "两地血铅检验结果为何差异较大",
@@ -6899,6 +6907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43048,
+      "num": 43048,
+      "word": "金毛李墩墩主人再发声",
+      "onboard_time": 1751909418,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42903,
       "num": 654348,
       "word": "网警提醒高考花钱改分是骗局",
@@ -6945,14 +6961,6 @@
       "onboard_time": 1751861904,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 41140,
-      "num": 41140,
-      "word": "权恩妃好辣",
-      "onboard_time": 1751907019,
-      "rank": 38,
-      "category": "演出"
     },
     {
       "raw_hot": 40177,
@@ -7115,6 +7123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30745,
+      "num": 33687,
+      "word": "巴黎高定时装周",
+      "onboard_time": 1751911396,
+      "rank": 29,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 30417,
       "num": 123082,
       "word": "美国党运作或改变美国大选格局",
@@ -7129,6 +7145,14 @@
       "onboard_time": 1751827335,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 29857,
+      "num": 29857,
+      "word": "女子服装店偷裤子被试衣镜反光现形",
+      "onboard_time": 1751911096,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29746,
@@ -7187,6 +7211,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 27367,
+      "num": 27367,
+      "word": "穿高跟鞋上学的女孩",
+      "onboard_time": 1751911036,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27297,
       "num": 34692,
       "word": "刘雨昕面对唱歌被质疑的心态",
@@ -7233,6 +7265,14 @@
       "onboard_time": 1751826915,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25348,
+      "num": 25348,
+      "word": "桃花映江山",
+      "onboard_time": 1751912656,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 23467,
@@ -7297,6 +7337,14 @@
       "onboard_time": 1751751374,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 19566,
+      "num": 56044,
+      "word": "侵华日军后代替父辈下跪谢罪",
+      "onboard_time": 1751911996,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 19170,
