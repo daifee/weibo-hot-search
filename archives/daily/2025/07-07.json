@@ -1,6 +1,6 @@
 {
   "startTime": 1751819447185,
-  "endTime": 1751887413587,
+  "endTime": 1751888352832,
   "band_list": [
     {
       "raw_hot": 8592534,
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 944944,
+      "num": 1151191,
+      "word": "以法之名更新了",
+      "onboard_time": 1751883801,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 921102,
       "num": 471307,
       "word": "青岛大学将积极配合开展调查",
@@ -177,6 +185,14 @@
       "onboard_time": 1751875461,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 898488,
+      "num": 898488,
+      "word": "国足vs韩国",
+      "onboard_time": 1751885062,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 894785,
@@ -291,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 643550,
+      "num": 307833,
+      "word": "Angelababy巴黎时装周状态",
+      "onboard_time": 1751887102,
+      "rank": 25,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 640857,
       "num": 457793,
       "word": "咖啡 缺铁性贫血",
@@ -323,12 +347,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 615619,
-      "num": 273695,
+      "raw_hot": 623037,
+      "num": 301759,
       "word": "黄宗泽说不结婚是为了气妈妈",
       "onboard_time": 1751883262,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 608668,
+      "num": 608668,
+      "word": "幽门螺旋杆菌",
+      "onboard_time": 1751883441,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 605682,
+      "num": 605682,
+      "word": "挂绿荔枝",
+      "onboard_time": 1751884701,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 592375,
@@ -371,28 +411,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 544177,
-      "num": 544177,
-      "word": "国足vs韩国",
-      "onboard_time": 1751885062,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 532843,
       "num": 577662,
       "word": "杨笠 抵制黄牛第一人",
       "onboard_time": 1751860704,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 527609,
-      "num": 527609,
-      "word": "幽门螺旋杆菌",
-      "onboard_time": 1751883441,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 506416,
@@ -419,20 +443,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 473494,
-      "num": 473494,
-      "word": "挂绿荔枝",
-      "onboard_time": 1751884701,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
       "raw_hot": 472521,
       "num": 296575,
       "word": "青岛大学去世宿管曾收养多只流浪猫",
       "onboard_time": 1751811384,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 457530,
+      "num": 457530,
+      "word": "罗马仕退款排到17万位",
+      "onboard_time": 1751886261,
+      "rank": 5,
+      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 445187,
@@ -555,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 377040,
+      "num": 377040,
+      "word": "虞书欣于适 我欲乘风",
+      "onboard_time": 1751886862,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 376012,
       "num": 376012,
       "word": "法国阵风战机卖不出去竟赖中国",
@@ -619,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 328861,
+      "num": 328861,
+      "word": "陈梦正面回应退出世界排名",
+      "onboard_time": 1751885542,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 327108,
       "num": 327108,
       "word": "我跟王安宇的共同点 有底薪",
@@ -641,6 +681,14 @@
       "onboard_time": 1751870543,
       "rank": 8,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 313221,
+      "num": 313221,
+      "word": "中方回应印度称中国借刀杀人",
+      "onboard_time": 1751886802,
+      "rank": 23,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 309187,
@@ -851,14 +899,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 255860,
-      "num": 255860,
-      "word": "罗马仕退款排到17万位",
-      "onboard_time": 1751886261,
-      "rank": 5,
-      "category": "民生新闻,数码"
-    },
-    {
       "raw_hot": 255196,
       "num": 255196,
       "word": "特朗普称马斯克成立新政党荒谬",
@@ -923,6 +963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234980,
+      "num": 234980,
+      "word": "肖战玲娜贝儿打招呼",
+      "onboard_time": 1751887702,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234146,
       "num": 234146,
       "word": "自己做饭1年吃成了营养不良",
@@ -945,14 +993,6 @@
       "onboard_time": 1751850623,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 225179,
-      "num": 225179,
-      "word": "陈梦正面回应退出世界排名",
-      "onboard_time": 1751885542,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 223518,
@@ -1051,14 +1091,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 204399,
-      "num": 204399,
-      "word": "虞书欣于适 我欲乘风",
-      "onboard_time": 1751886862,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 198216,
       "num": 198216,
       "word": "国足首发",
@@ -1083,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196874,
+      "num": 219394,
+      "word": "马斯克从政",
+      "onboard_time": 1751885481,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 196447,
       "num": 196447,
       "word": "金毛李墩墩主人发声",
@@ -1097,14 +1137,6 @@
       "onboard_time": 1751856263,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 192942,
-      "num": 192942,
-      "word": "中方回应印度称中国借刀杀人",
-      "onboard_time": 1751886802,
-      "rank": 23,
-      "category": "国内时政,军事"
     },
     {
       "raw_hot": 192574,
@@ -1123,11 +1155,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 191028,
-      "num": 191028,
-      "word": "Angelababy巴黎时装周状态",
-      "onboard_time": 1751887102,
-      "rank": 25,
+      "raw_hot": 190850,
+      "num": 207339,
+      "word": "Angelababy眼尾贴钻",
+      "onboard_time": 1751888061,
+      "rank": 23,
       "category": "艺人,时尚"
     },
     {
@@ -1171,14 +1203,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 186286,
-      "num": 219394,
-      "word": "马斯克从政",
-      "onboard_time": 1751885481,
-      "rank": 15,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 184666,
       "num": 184666,
       "word": "梁靖崑2比3巴德",
@@ -1209,6 +1233,14 @@
       "onboard_time": 1751843058,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 180892,
+      "num": 291278,
+      "word": "国足落后韩国",
+      "onboard_time": 1751887942,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 178570,
@@ -1323,6 +1355,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 164832,
+      "num": 164832,
+      "word": "陷入循环了",
+      "onboard_time": 1751887222,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 163685,
       "num": 166839,
       "word": "鹿晗依旧开车窗",
@@ -1336,6 +1376,14 @@
       "word": "防空警报",
       "onboard_time": 1751855483,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162817,
+      "num": 162817,
+      "word": "27岁小伙颈部按摩后脑梗死",
+      "onboard_time": 1751886322,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -1515,12 +1563,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 143558,
-      "num": 143558,
-      "word": "陷入循环了",
-      "onboard_time": 1751887222,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 143722,
+      "num": 143722,
+      "word": "男子徒手抓蛇甩成风车被反咬一口",
+      "onboard_time": 1751887462,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142612,
@@ -1600,14 +1648,6 @@
       "word": "韩国为大熊猫双胞胎过2岁生日",
       "onboard_time": 1751854703,
       "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 134875,
-      "num": 134875,
-      "word": "27岁小伙颈部按摩后脑梗死",
-      "onboard_time": 1751886322,
-      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -1721,6 +1761,22 @@
       "onboard_time": 1751872643,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127829,
+      "num": 127829,
+      "word": "12306回应高铁F座最受欢迎",
+      "onboard_time": 1751888121,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126813,
+      "num": 220774,
+      "word": "市监回应火锅店桌缝内有活蛆爬行",
+      "onboard_time": 1751886082,
+      "rank": 14,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 126753,
@@ -1851,6 +1907,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 119991,
+      "num": 119991,
+      "word": "杭州南站坠楼者已送医救治",
+      "onboard_time": 1751887342,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119346,
       "num": 119346,
       "word": "王楚钦进32强",
@@ -1963,6 +2027,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 115710,
+      "num": 115710,
+      "word": "中方回应莫迪向达赖喇嘛致生日祝福",
+      "onboard_time": 1751886922,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 115414,
       "num": 115414,
       "word": "搬进新家发现原来是殡仪馆",
@@ -2019,6 +2091,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 113052,
+      "num": 113052,
+      "word": "中方已向印度提出交涉",
+      "onboard_time": 1751888182,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 111888,
       "num": 158642,
       "word": "对手打飞乒乓球吓王楚钦一跳",
@@ -2041,14 +2121,6 @@
       "onboard_time": 1751859443,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 110017,
-      "num": 110017,
-      "word": "中方回应莫迪向达赖喇嘛致生日祝福",
-      "onboard_time": 1751886922,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 109766,
@@ -2139,12 +2211,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 105697,
+      "num": 105697,
+      "word": "原神",
+      "onboard_time": 1751887702,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 105615,
       "num": 105615,
       "word": "特朗普回应为何与马斯克闹翻",
       "onboard_time": 1751887222,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 105023,
+      "num": 105023,
+      "word": "很多道德问题其实是生理问题",
+      "onboard_time": 1751886201,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 104210,
@@ -2161,6 +2249,22 @@
       "onboard_time": 1751861065,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103443,
+      "num": 103443,
+      "word": "何惟芳这刀是锦觅批发的吧",
+      "onboard_time": 1751888242,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 103388,
+      "num": 103388,
+      "word": "男友开车致残后全家失联",
+      "onboard_time": 1751887402,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103099,
@@ -2195,6 +2299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101775,
+      "num": 101775,
+      "word": "新说唱 土哥们",
+      "onboard_time": 1751887822,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101551,
       "num": 101551,
       "word": "邓紫棋专家号藏不住了",
@@ -2203,12 +2315,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 101439,
-      "num": 101439,
-      "word": "很多道德问题其实是生理问题",
-      "onboard_time": 1751886201,
-      "rank": 47,
-      "category": "情感"
+      "raw_hot": 101412,
+      "num": 208631,
+      "word": "官方回应举报者信息现举报对象办公室",
+      "onboard_time": 1751887282,
+      "rank": 33,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 101029,
@@ -2443,14 +2555,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 82089,
-      "num": 110360,
-      "word": "杭州南站坠楼者已送医救治",
-      "onboard_time": 1751887342,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 81944,
       "num": 81944,
       "word": "提供情绪价值是了不起的能力",
@@ -2481,14 +2585,6 @@
       "onboard_time": 1751844741,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 71021,
-      "num": 220774,
-      "word": "市监回应火锅店桌缝内有活蛆爬行",
-      "onboard_time": 1751886082,
-      "rank": 14,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 69939,
@@ -2603,6 +2699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 49430,
+      "num": 313084,
+      "word": "央视揭打造素人网红骗局",
+      "onboard_time": 1751887882,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48241,
       "num": 249642,
       "word": "当地回应自来水每月保底收费12元",
@@ -2633,14 +2737,6 @@
       "onboard_time": 1751844079,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 44534,
-      "num": 138554,
-      "word": "官方回应举报者信息现举报对象办公室",
-      "onboard_time": 1751887282,
-      "rank": 33,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 43920,
@@ -2833,6 +2929,14 @@
       "onboard_time": 1751827156,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 22285,
+      "num": 292315,
+      "word": "血铅异常幼儿或为慢性铅中毒",
+      "onboard_time": 1751887882,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21808,
