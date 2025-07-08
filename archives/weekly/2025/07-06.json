@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751953539109,
+  "endTime": 1751956746347,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 1382487,
-      "num": 298051,
+      "num": 299487,
       "word": "张靓颖 网红化",
       "onboard_time": 1751950225,
       "rank": 48,
@@ -473,6 +473,14 @@
       "onboard_time": 1751865264,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1127850,
+      "num": 516314,
+      "word": "全智贤短发",
+      "onboard_time": 1751954782,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1125912,
@@ -883,6 +891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 677033,
+      "num": 292802,
+      "word": "天水调查组通报一幼儿园幼儿血铅异常",
+      "onboard_time": 1751952262,
+      "rank": 28,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 676446,
       "num": 1108231,
       "word": "父亲称为儿子买房骗其在白纸上签字",
@@ -1025,6 +1041,14 @@
       "onboard_time": 1751883441,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 606684,
+      "num": 428832,
+      "word": "不要全平台取同一个id",
+      "onboard_time": 1751953103,
+      "rank": 22,
+      "category": "幽默,休闲"
     },
     {
       "raw_hot": 605682,
@@ -1499,14 +1523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 389220,
-      "num": 292802,
-      "word": "天水调查组通报一幼儿园幼儿血铅异常",
-      "onboard_time": 1751952262,
-      "rank": 28,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 388868,
       "num": 405512,
       "word": "张凯丽女儿回应节目里爆哭",
@@ -1763,6 +1779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 333748,
+      "num": 333748,
+      "word": "黄渤说张艺兴半夜三点还在练舞练歌",
+      "onboard_time": 1751954001,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 332935,
       "num": 332935,
       "word": "频繁刷手机可能导致脑腐",
@@ -1817,6 +1841,14 @@
       "onboard_time": 1751936542,
       "rank": 12,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 324751,
+      "num": 283677,
+      "word": "铅中毒 长不高",
+      "onboard_time": 1751955262,
+      "rank": 12,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 321396,
@@ -1897,6 +1929,14 @@
       "onboard_time": 1751768721,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 313218,
+      "num": 313218,
+      "word": "国乒男单四人止步美国大满贯首轮",
+      "onboard_time": 1751937982,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 313014,
@@ -1985,14 +2025,6 @@
       "onboard_time": 1751858662,
       "rank": 22,
       "category": "科学科普,健康医疗"
-    },
-    {
-      "raw_hot": 293556,
-      "num": 293556,
-      "word": "国乒男单四人止步美国大满贯首轮",
-      "onboard_time": 1751937982,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 292252,
@@ -2105,6 +2137,14 @@
       "onboard_time": 1751866283,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 275448,
+      "num": 275448,
+      "word": "鹿晗就这么水灵灵的喊了宝贝",
+      "onboard_time": 1751954241,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 274617,
@@ -2313,6 +2353,14 @@
       "onboard_time": 1751852183,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 260131,
+      "num": 307141,
+      "word": "大姐月薪3千花6千多学TikTok赚钱",
+      "onboard_time": 1751953282,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 259944,
@@ -2536,6 +2584,14 @@
       "word": "书卷一梦是he我们有救了",
       "onboard_time": 1751895624,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 239687,
+      "num": 239687,
+      "word": "锦绣芳华",
+      "onboard_time": 1751800405,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -2811,14 +2867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 217896,
-      "num": 217896,
-      "word": "不要全平台取同一个id",
-      "onboard_time": 1751953103,
-      "rank": 22,
-      "category": "幽默,休闲"
-    },
-    {
       "raw_hot": 217678,
       "num": 217678,
       "word": "Angelababy眼尾贴钻",
@@ -2979,6 +3027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206169,
+      "num": 206169,
+      "word": "以为是真父子结果是真的演父子",
+      "onboard_time": 1751956342,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206006,
       "num": 206006,
       "word": "田栩宁或将空降录制hi6",
@@ -3024,6 +3080,14 @@
       "word": "沈梦辰锦绣芳华吻戏",
       "onboard_time": 1751762239,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 204771,
+      "num": 204771,
+      "word": "锦绣芳华直播",
+      "onboard_time": 1751955503,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -3225,14 +3289,6 @@
       "onboard_time": 1751806887,
       "rank": 26,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 196924,
-      "num": 196924,
-      "word": "锦绣芳华",
-      "onboard_time": 1751800405,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 196874,
@@ -3707,6 +3763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175458,
+      "num": 175458,
+      "word": "敖瑞鹏吃播",
+      "onboard_time": 1751954423,
+      "rank": 22,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 175345,
       "num": 220948,
       "word": "毛不易火速拦截了粉丝的建议",
@@ -3721,6 +3785,14 @@
       "onboard_time": 1751906779,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174301,
+      "num": 174301,
+      "word": "郑雅贤在国外LadyGaga在中国王心凌",
+      "onboard_time": 1751955082,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 174176,
@@ -3793,6 +3865,14 @@
       "onboard_time": 1751813904,
       "rank": 19,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 172679,
+      "num": 172679,
+      "word": "者来女 一款很新的国潮外卖",
+      "onboard_time": 1751955382,
+      "rank": 25,
+      "category": "综艺,作品衍生"
     },
     {
       "raw_hot": 172633,
@@ -4169,6 +4249,14 @@
       "onboard_time": 1751819062,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 157755,
+      "num": 157755,
+      "word": "暑假工",
+      "onboard_time": 1751951303,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 157704,
@@ -4657,6 +4745,14 @@
       "onboard_time": 1751734221,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144444,
+      "num": 144444,
+      "word": "伊藤美诚被搭档爆头",
+      "onboard_time": 1751956342,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 144379,
@@ -5153,6 +5249,14 @@
       "onboard_time": 1751792181,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 130749,
+      "num": 130749,
+      "word": "南京胖哥分享二宝将出生",
+      "onboard_time": 1751954902,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130686,
@@ -5691,14 +5795,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 120942,
-      "num": 120942,
-      "word": "大姐月薪3千花6千多学TikTok赚钱",
-      "onboard_time": 1751953282,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 120796,
       "num": 120796,
       "word": "赵晓卉把你嘴借我用用",
@@ -5753,6 +5849,14 @@
       "onboard_time": 1751939782,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 119464,
+      "num": 119464,
+      "word": "美美桑内",
+      "onboard_time": 1751955922,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 119346,
@@ -6067,6 +6171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114719,
+      "num": 239725,
+      "word": "上汽奥迪A5L现已到店",
+      "onboard_time": 1751955322,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 114587,
       "num": 188160,
       "word": "谁懂檀健次一味包场的真诚劲",
@@ -6201,6 +6313,14 @@
       "onboard_time": 1751894364,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112034,
+      "num": 112034,
+      "word": "西藏吉隆口岸泥石流已致17人失联",
+      "onboard_time": 1751955024,
+      "rank": 40,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 111888,
@@ -6417,6 +6537,14 @@
       "onboard_time": 1751850623,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 107616,
+      "num": 107616,
+      "word": "我们坚持14年抗战作出了巨大牺牲",
+      "onboard_time": 1751955262,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 107348,
@@ -6755,6 +6883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101831,
+      "num": 101831,
+      "word": "如果在本命生日那天去申请身份证",
+      "onboard_time": 1751956642,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 101780,
       "num": 101780,
       "word": "杨千嬅儿子13岁近照",
@@ -6859,6 +6995,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 100541,
+      "num": 100541,
+      "word": "张远专业嘉宾又上岗了",
+      "onboard_time": 1751956642,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 100538,
       "num": 100538,
       "word": "疑似横店短剧演员去世",
@@ -6904,6 +7048,14 @@
       "word": "史上最强短剧阵容来了",
       "onboard_time": 1751798423,
       "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 99768,
+      "num": 99768,
+      "word": "梓渝谁不想养一个在在这么可爱的儿子",
+      "onboard_time": 1751955262,
+      "rank": 49,
       "category": "综艺"
     },
     {
@@ -7491,6 +7643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77958,
+      "num": 144622,
+      "word": "蒋长扬大唐嫡掌子",
+      "onboard_time": 1751955442,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 77551,
       "num": 87341,
       "word": "真有综艺听劝了",
@@ -7859,6 +8019,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 61119,
+      "num": 109307,
+      "word": "沈星回最明亮的期待",
+      "onboard_time": 1751955503,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 61111,
       "num": 255382,
       "word": "律师解读南京红老头将担刑责",
@@ -8048,6 +8216,14 @@
       "word": "闰六月让夏季更热更长是真的吗",
       "onboard_time": 1751758819,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49538,
+      "num": 274512,
+      "word": "babycare纸尿裤再现黑色异物",
+      "onboard_time": 1751956282,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -8745,6 +8921,14 @@
       "onboard_time": 1751844980,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14071,
+      "num": 112859,
+      "word": "刷微博的一个好处",
+      "onboard_time": 1751944522,
+      "rank": 39,
+      "category": "情感,互联网"
     },
     {
       "raw_hot": 12751,

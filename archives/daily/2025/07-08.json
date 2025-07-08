@@ -1,6 +1,6 @@
 {
   "startTime": 1751906062153,
-  "endTime": 1751953539109,
+  "endTime": 1751956746347,
   "band_list": [
     {
       "raw_hot": 9289863,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1382487,
-      "num": 298051,
+      "num": 299487,
       "word": "张靓颖 网红化",
       "onboard_time": 1751950225,
       "rank": 48,
@@ -96,6 +96,14 @@
       "word": "鹿晗关晓彤同城零互动",
       "onboard_time": 1751937563,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1127850,
+      "num": 516314,
+      "word": "全智贤短发",
+      "onboard_time": 1751954782,
+      "rank": 3,
       "category": "艺人"
     },
     {
@@ -155,6 +163,14 @@
       "category": "艺人,海外新闻"
     },
     {
+      "raw_hot": 677033,
+      "num": 292802,
+      "word": "天水调查组通报一幼儿园幼儿血铅异常",
+      "onboard_time": 1751952262,
+      "rank": 28,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 634502,
       "num": 535050,
       "word": "27岁真的还很年轻很年轻的",
@@ -169,6 +185,14 @@
       "onboard_time": 1751951363,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 606684,
+      "num": 428832,
+      "word": "不要全平台取同一个id",
+      "onboard_time": 1751953103,
+      "rank": 22,
+      "category": "幽默,休闲"
     },
     {
       "raw_hot": 567817,
@@ -259,14 +283,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 389220,
-      "num": 292802,
-      "word": "天水调查组通报一幼儿园幼儿血铅异常",
-      "onboard_time": 1751952262,
-      "rank": 28,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 369202,
       "num": 369202,
       "word": "梓渝说是嘛谢谢你呀青春制作人",
@@ -315,12 +331,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 333748,
+      "num": 333748,
+      "word": "黄渤说张艺兴半夜三点还在练舞练歌",
+      "onboard_time": 1751954001,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 324975,
       "num": 324975,
       "word": "为什么洗头一梳头会掉头发",
       "onboard_time": 1751936542,
       "rank": 12,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 324751,
+      "num": 283677,
+      "word": "铅中毒 长不高",
+      "onboard_time": 1751955262,
+      "rank": 12,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 321233,
@@ -339,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 313218,
+      "num": 313218,
+      "word": "国乒男单四人止步美国大满贯首轮",
+      "onboard_time": 1751937982,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 313014,
       "num": 313014,
       "word": "铅中毒",
@@ -353,14 +393,6 @@
       "onboard_time": 1751903183,
       "rank": 12,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 293556,
-      "num": 293556,
-      "word": "国乒男单四人止步美国大满贯首轮",
-      "onboard_time": 1751937982,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 291930,
@@ -393,6 +425,14 @@
       "onboard_time": 1751902765,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 275448,
+      "num": 275448,
+      "word": "鹿晗就这么水灵灵的喊了宝贝",
+      "onboard_time": 1751954241,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 270123,
@@ -433,6 +473,14 @@
       "onboard_time": 1751952141,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 260131,
+      "num": 307141,
+      "word": "大姐月薪3千花6千多学TikTok赚钱",
+      "onboard_time": 1751953282,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 259944,
@@ -481,6 +529,14 @@
       "onboard_time": 1751947583,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 239687,
+      "num": 239687,
+      "word": "锦绣芳华",
+      "onboard_time": 1751952202,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 238608,
@@ -563,14 +619,6 @@
       "category": "休闲,互联网"
     },
     {
-      "raw_hot": 217896,
-      "num": 217896,
-      "word": "不要全平台取同一个id",
-      "onboard_time": 1751953103,
-      "rank": 22,
-      "category": "幽默,休闲"
-    },
-    {
       "raw_hot": 214506,
       "num": 214506,
       "word": "中方已向印度提出交涉",
@@ -595,20 +643,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206169,
+      "num": 206169,
+      "word": "以为是真父子结果是真的演父子",
+      "onboard_time": 1751956342,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 204771,
+      "num": 204771,
+      "word": "锦绣芳华直播",
+      "onboard_time": 1751955503,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200691,
       "num": 299690,
       "word": "蜜雪冰城用脚关水桶员工道歉",
       "onboard_time": 1751951842,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 196924,
-      "num": 196924,
-      "word": "锦绣芳华",
-      "onboard_time": 1751952202,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 196366,
@@ -723,6 +779,14 @@
       "category": "民生新闻,数码"
     },
     {
+      "raw_hot": 175458,
+      "num": 175458,
+      "word": "敖瑞鹏吃播",
+      "onboard_time": 1751954423,
+      "rank": 22,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 174690,
       "num": 174690,
       "word": "2万枚污损硬币遭银行拒绝兑换",
@@ -731,12 +795,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174301,
+      "num": 174301,
+      "word": "郑雅贤在国外LadyGaga在中国王心凌",
+      "onboard_time": 1751955082,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 174176,
       "num": 174176,
       "word": "晚餐决定了第二天掉称速度",
       "onboard_time": 1751948903,
       "rank": 32,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 172679,
+      "num": 172679,
+      "word": "者来女 一款很新的国潮外卖",
+      "onboard_time": 1751955382,
+      "rank": 25,
+      "category": "综艺,作品衍生"
     },
     {
       "raw_hot": 169835,
@@ -809,6 +889,14 @@
       "onboard_time": 1751951423,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 157755,
+      "num": 157755,
+      "word": "暑假工",
+      "onboard_time": 1751951303,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 157172,
@@ -923,6 +1011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144444,
+      "num": 144444,
+      "word": "伊藤美诚被搭档爆头",
+      "onboard_time": 1751956342,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142724,
       "num": 142724,
       "word": "谁家男女主接吻地都是心形",
@@ -1025,6 +1121,14 @@
       "onboard_time": 1751953043,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 130749,
+      "num": 130749,
+      "word": "南京胖哥分享二宝将出生",
+      "onboard_time": 1751954902,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129390,
@@ -1139,14 +1243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 120942,
-      "num": 120942,
-      "word": "大姐月薪3千花6千多学TikTok赚钱",
-      "onboard_time": 1751953282,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 119682,
       "num": 119682,
       "word": "上海一财务挪用公款医美每次30万",
@@ -1161,6 +1257,14 @@
       "onboard_time": 1751939782,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 119464,
+      "num": 119464,
+      "word": "美美桑内",
+      "onboard_time": 1751955922,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 119329,
@@ -1211,6 +1315,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 114719,
+      "num": 239725,
+      "word": "上汽奥迪A5L现已到店",
+      "onboard_time": 1751955322,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 114455,
       "num": 114455,
       "word": "人民日报报道王楚钦",
@@ -1251,6 +1363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112034,
+      "num": 112034,
+      "word": "西藏吉隆口岸泥石流已致17人失联",
+      "onboard_time": 1751955024,
+      "rank": 40,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 111390,
       "num": 111390,
       "word": "俄高官被普京解职当天自杀身亡",
@@ -1289,6 +1409,14 @@
       "onboard_time": 1751950884,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107616,
+      "num": 107616,
+      "word": "我们坚持14年抗战作出了巨大牺牲",
+      "onboard_time": 1751955262,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 107348,
@@ -1363,12 +1491,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 101831,
+      "num": 101831,
+      "word": "如果在本命生日那天去申请身份证",
+      "onboard_time": 1751956642,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 100541,
+      "num": 100541,
+      "word": "张远专业嘉宾又上岗了",
+      "onboard_time": 1751956642,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 100105,
       "num": 100105,
       "word": "王俊凯真的把粉丝养得很好",
       "onboard_time": 1751943742,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99768,
+      "num": 99768,
+      "word": "梓渝谁不想养一个在在这么可爱的儿子",
+      "onboard_time": 1751955262,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 99546,
@@ -1547,6 +1699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 77958,
+      "num": 144622,
+      "word": "蒋长扬大唐嫡掌子",
+      "onboard_time": 1751955442,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 76730,
       "num": 304633,
       "word": "父亲去世男子叫民营救护车被索要红包",
@@ -1683,6 +1843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61119,
+      "num": 109307,
+      "word": "沈星回最明亮的期待",
+      "onboard_time": 1751955503,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 61111,
       "num": 67759,
       "word": "律师解读南京红老头将担刑责",
@@ -1737,6 +1905,14 @@
       "onboard_time": 1751931140,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 49538,
+      "num": 274512,
+      "word": "babycare纸尿裤再现黑色异物",
+      "onboard_time": 1751956282,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47330,
@@ -1905,6 +2081,14 @@
       "onboard_time": 1751910556,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 14071,
+      "num": 112859,
+      "word": "刷微博的一个好处",
+      "onboard_time": 1751944522,
+      "rank": 39,
+      "category": "情感,互联网"
     },
     {
       "raw_hot": 12273,
