@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1751982826118,
+  "endTime": 1751984791637,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -392,6 +392,14 @@
       "word": "张兰汪小菲抖音无限期封禁",
       "onboard_time": 1738985241,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 14139204,
+      "num": 14139204,
+      "word": "于正 我完全不知情",
+      "onboard_time": 1751984131,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -2393,14 +2401,6 @@
       "onboard_time": 1747969582,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 3620118,
-      "num": 996381,
-      "word": "抖音副总裁回应封禁汪小菲等账号",
-      "onboard_time": 1738986867,
-      "rank": 10,
-      "category": "艺人,互联网"
     }
   ],
   "hotgov_list": [

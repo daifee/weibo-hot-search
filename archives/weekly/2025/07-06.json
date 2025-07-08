@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751982826118,
+  "endTime": 1751984791637,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -17,6 +17,14 @@
       "onboard_time": 1751895024,
       "rank": 3,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 14139204,
+      "num": 14139204,
+      "word": "于正 我完全不知情",
+      "onboard_time": 1751984131,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 9289863,
@@ -1323,6 +1331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 548005,
+      "num": 314947,
+      "word": "赵本山女儿球球抑郁症复发",
+      "onboard_time": 1751982507,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 542685,
       "num": 428599,
       "word": "女婴因眼睛小被挑剩下盼与父母团圆",
@@ -1345,6 +1361,14 @@
       "onboard_time": 1751860704,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 532749,
+      "num": 532749,
+      "word": "网友住酒店光脚洗澡感染HPV",
+      "onboard_time": 1751980042,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 527139,
@@ -1539,14 +1563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 452073,
-      "num": 452073,
-      "word": "网友住酒店光脚洗澡感染HPV",
-      "onboard_time": 1751980042,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 451596,
       "num": 451596,
       "word": "中方回应印度称中国借刀杀人",
@@ -1584,6 +1600,14 @@
       "word": "白鹿回应张鑫",
       "onboard_time": 1751809884,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 444156,
+      "num": 253450,
+      "word": "田栩宁19岁时许愿不要被黑",
+      "onboard_time": 1751981904,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -1769,6 +1793,14 @@
       "onboard_time": 1751862686,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 396018,
+      "num": 232446,
+      "word": "余承东因开车看手机去自首了",
+      "onboard_time": 1751983108,
+      "rank": 15,
+      "category": "汽车"
     },
     {
       "raw_hot": 393473,
@@ -2273,14 +2305,6 @@
       "onboard_time": 1751763320,
       "rank": 7,
       "category": "网红"
-    },
-    {
-      "raw_hot": 314947,
-      "num": 314947,
-      "word": "赵本山女儿球球抑郁症复发",
-      "onboard_time": 1751982507,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 314427,
@@ -3083,6 +3107,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 236426,
+      "num": 236426,
+      "word": "幼儿误吞水宝宝腹中膨胀至乒乓球大",
+      "onboard_time": 1751980224,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 236008,
       "num": 236008,
       "word": "金智秀earthquake舞台",
@@ -3193,6 +3225,14 @@
       "onboard_time": 1751889802,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 232657,
+      "num": 232657,
+      "word": "海底捞回应服务员胸前打赏二维码",
+      "onboard_time": 1751983287,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 231408,
@@ -3963,14 +4003,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 195396,
-      "num": 253450,
-      "word": "田栩宁19岁时许愿不要被黑",
-      "onboard_time": 1751981904,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 195068,
       "num": 195068,
       "word": "王楚钦vs奇里塔",
@@ -4467,14 +4499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 176248,
-      "num": 176248,
-      "word": "幼儿误吞水宝宝腹中膨胀至乒乓球大",
-      "onboard_time": 1751980224,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 175996,
       "num": 175996,
       "word": "易烊千玺投出一只纸飞机",
@@ -4692,7 +4716,7 @@
     },
     {
       "raw_hot": 172009,
-      "num": 172009,
+      "num": 214976,
       "word": "中国女篮战胜澳大利亚女篮",
       "onboard_time": 1751982387,
       "rank": 30,
@@ -4800,6 +4824,14 @@
       "word": "山东连发71个高温预警",
       "onboard_time": 1751795901,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167775,
+      "num": 235797,
+      "word": "湖南发现4.9亿吨锂矿石",
+      "onboard_time": 1751983707,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -5139,6 +5171,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 158160,
+      "num": 158160,
+      "word": "驾车碾压同学致死男子称出现幻听",
+      "onboard_time": 1751981664,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158116,
       "num": 281914,
       "word": "张杰打开手机人都红温了吧",
@@ -5209,6 +5249,14 @@
       "onboard_time": 1751952141,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156264,
+      "num": 156264,
+      "word": "坐男友车出车祸致截瘫女子发声",
+      "onboard_time": 1751980524,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156097,
@@ -5401,6 +5449,14 @@
       "onboard_time": 1751896105,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151844,
+      "num": 151844,
+      "word": "淘宝崩了",
+      "onboard_time": 1751980404,
+      "rank": 41,
+      "category": "互联网"
     },
     {
       "raw_hot": 151759,
@@ -5835,6 +5891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144112,
+      "num": 144112,
+      "word": "翁虹和老公1年见1次",
+      "onboard_time": 1751982326,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144103,
       "num": 144103,
       "word": "杨烁拍戏拍到怀疑自己得罪导演",
@@ -5859,14 +5923,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 143905,
-      "num": 143905,
-      "word": "淘宝崩了",
-      "onboard_time": 1751980404,
-      "rank": 41,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 143603,
       "num": 143603,
       "word": "BW2025",
@@ -5881,6 +5937,14 @@
       "onboard_time": 1751797221,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 142948,
+      "num": 142948,
+      "word": "韩安冉称自己硕士",
+      "onboard_time": 1751983649,
+      "rank": 34,
+      "category": "网红"
     },
     {
       "raw_hot": 142724,
@@ -5953,6 +6017,14 @@
       "onboard_time": 1751943022,
       "rank": 36,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 141316,
+      "num": 214213,
+      "word": "进口九价HPV疫苗男女可接种且防癌",
+      "onboard_time": 1751983408,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 141164,
@@ -6057,6 +6129,14 @@
       "onboard_time": 1751878162,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 138680,
+      "num": 314287,
+      "word": "厦门天雷滚滚下暴雨冰雹了",
+      "onboard_time": 1751976682,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138584,
@@ -6257,14 +6337,6 @@
       "onboard_time": 1751966601,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134645,
-      "num": 134645,
-      "word": "翁虹和老公1年见1次",
-      "onboard_time": 1751982326,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 134642,
@@ -6521,14 +6593,6 @@
       "onboard_time": 1751872824,
       "rank": 45,
       "category": "美食"
-    },
-    {
-      "raw_hot": 130503,
-      "num": 130503,
-      "word": "坐男友车出车祸致截瘫女子发声",
-      "onboard_time": 1751980524,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 130384,
@@ -7243,6 +7307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119612,
+      "num": 119612,
+      "word": "弥补了在小吃街不能吹空调的遗憾",
+      "onboard_time": 1751984432,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 119537,
       "num": 119537,
       "word": "英雄联盟",
@@ -7321,6 +7393,14 @@
       "onboard_time": 1751864065,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 118559,
+      "num": 118559,
+      "word": "蔡依林给一字马上强度了",
+      "onboard_time": 1751982807,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 118521,
@@ -7547,6 +7627,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 115875,
+      "num": 115875,
+      "word": "杨紫说开心相聚打卡下班",
+      "onboard_time": 1751984432,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115779,
       "num": 206155,
       "word": "山河为证是一部全民回忆录",
@@ -7603,12 +7691,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 114614,
-      "num": 114614,
-      "word": "蔡依林给一字马上强度了",
-      "onboard_time": 1751982807,
-      "rank": 49,
-      "category": "艺人"
+      "raw_hot": 114928,
+      "num": 114928,
+      "word": "U16国足3比4韩国U16",
+      "onboard_time": 1751983707,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 114587,
@@ -7633,14 +7721,6 @@
       "onboard_time": 1751788342,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 114363,
-      "num": 114363,
-      "word": "驾车碾压同学致死男子称出现幻听",
-      "onboard_time": 1751981664,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113999,
@@ -7763,6 +7843,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 111890,
+      "num": 111890,
+      "word": "以法之名最大秘密浮出水面",
+      "onboard_time": 1751984730,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111888,
       "num": 158642,
       "word": "对手打飞乒乓球吓王楚钦一跳",
@@ -7809,6 +7897,14 @@
       "onboard_time": 1751774662,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 110966,
+      "num": 100543,
+      "word": "国乒包揽女单世界排名前5",
+      "onboard_time": 1751982927,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 110836,
@@ -8603,14 +8699,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 99144,
-      "num": 314287,
-      "word": "厦门天雷滚滚下暴雨冰雹了",
-      "onboard_time": 1751976682,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 99128,
       "num": 147836,
       "word": "资兴遇难安全员系公司董事长",
@@ -8673,6 +8761,14 @@
       "onboard_time": 1751940742,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 98165,
+      "num": 100768,
+      "word": "戴燕妮时装周露腰造型",
+      "onboard_time": 1751984249,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 97899,
@@ -10339,6 +10435,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 28808,
+      "num": 652655,
+      "word": "6组数据看科技创新与制造业加速升级",
+      "onboard_time": 1751981845,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28223,
       "num": 117730,
       "word": "日本天价米荒",
@@ -10507,14 +10611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22378,
-      "num": 652655,
-      "word": "6组数据看科技创新与制造业加速升级",
-      "onboard_time": 1751981845,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 22366,
       "num": 180273,
       "word": "打的去拉萨研究生回应横幅炒作",
@@ -10633,6 +10729,14 @@
       "onboard_time": 1751898145,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 16948,
+      "num": 213964,
+      "word": "表情包扑克牌被曝内容粗俗",
+      "onboard_time": 1751984491,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16634,
