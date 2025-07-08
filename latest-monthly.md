@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/08 22:45:21
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/08 23:29:20
 </p>
 </blockquote>
 <p>
@@ -2067,6 +2067,12 @@ K1373砸窗男子被批评教育（热度：701716）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%9B%9E%E5%BA%94%E6%9C%8D%E5%8A%A1%E5%91%98%E8%83%B8%E5%89%8D%E6%89%93%E8%B5%8F%E4%BA%8C%E7%BB%B4%E7%A0%81%23" target="weibo">
+海底捞回应服务员胸前打赏二维码（热度：668264）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%8B%E5%8F%8B%E4%B9%8B%E9%97%B4%E5%A9%9A%E5%90%8E%E5%B0%B1%E5%8F%98%E4%BA%86%23" target="weibo">
 为什么朋友之间婚后就变了（热度：667615）
 </a>
@@ -3141,6 +3147,12 @@ BLACKPINK高阳演唱会单人海报（热度：465478）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%89%BF%E4%B8%9C%E5%9B%A0%E5%BC%80%E8%BD%A6%E7%9C%8B%E6%89%8B%E6%9C%BA%E5%8E%BB%E8%87%AA%E9%A6%96%E4%BA%86%23" target="weibo">
+余承东因开车看手机去自首了（热度：455893）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%96%B0%E5%85%B3%E7%A8%8E%E6%88%96%E8%BE%BE70%25%23" target="weibo">
 美国新关税或达70%（热度：455135）
 </a>
@@ -3579,6 +3591,12 @@ Jennie的rap好爽（热度：415645）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E5%9B%9E%E5%BA%94%E6%98%AF%E4%B8%8D%E6%98%AF%E5%81%B7%E5%81%B7do%E4%BA%86%23" target="weibo">
+杨迪回应是不是偷偷do了（热度：411893）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23G%E7%A4%BE%E6%98%AF%E8%BE%9B%E8%8A%B7%E8%95%BE%E7%9A%84%E7%AB%99%E5%A7%90%E5%90%A7%23" target="weibo">
 G社是辛芷蕾的站姐吧（热度：411339）
 </a>
@@ -3675,12 +3693,6 @@ G社是辛芷蕾的站姐吧（热度：411339）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%9B%9E%E5%BA%94%E6%9C%8D%E5%8A%A1%E5%91%98%E8%83%B8%E5%89%8D%E6%89%93%E8%B5%8F%E4%BA%8C%E7%BB%B4%E7%A0%81%23" target="weibo">
-海底捞回应服务员胸前打赏二维码（热度：400078）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%96%87%E5%8D%93%E7%A5%9D%E8%B4%BA%E5%A5%B3%E5%84%BF%E9%AB%98%E4%B8%AD%E6%AF%95%E4%B8%9A%E8%8E%B7%E6%9C%80%E9%AB%98%E5%A5%96%23" target="weibo">
 赵文卓祝贺女儿高中毕业获最高奖（热度：397970）
 </a>
@@ -3701,12 +3713,6 @@ G社是辛芷蕾的站姐吧（热度：411339）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%BC%94%E5%87%BA%E5%B0%8F%E8%AF%B4%E6%96%87%E5%AD%97%E8%88%AC%E7%9A%84%E7%94%BB%E9%9D%A2%23" target="weibo">
 杨紫演出小说文字般的画面（热度：396638）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%89%BF%E4%B8%9C%E5%9B%A0%E5%BC%80%E8%BD%A6%E7%9C%8B%E6%89%8B%E6%9C%BA%E5%8E%BB%E8%87%AA%E9%A6%96%E4%BA%86%23" target="weibo">
-余承东因开车看手机去自首了（热度：396018）
 </a>
 </li>
 
@@ -3809,6 +3815,12 @@ CFO暴打T1（热度：384857）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E6%97%B6%E9%9A%94%E4%B8%89%E5%A4%A9%E6%89%8D%E5%9B%9E%E6%9D%A8%E8%BF%AA%E5%BE%AE%E4%BF%A1%23" target="weibo">
 谢娜时隔三天才回杨迪微信（热度：382908）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BA%97%E5%91%98%E6%89%BF%E8%AE%A4%E7%94%A8%E8%8D%89%E9%85%B8%E6%97%A5%E6%B4%97%E8%B6%85%E7%99%BE%E6%96%A4%E9%BE%99%E8%99%BE%23" target="weibo">
+店员承认用草酸日洗超百斤龙虾（热度：382624）
 </a>
 </li>
 
@@ -4211,6 +4223,12 @@ iPhone发烫怎么办（热度：362578）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%AF%B4%E9%94%A6%E7%BB%A3%E8%8A%B3%E5%8D%8E%E6%98%AF%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%E7%AC%AC%E4%BA%8C%E9%83%A8%23" target="weibo">
 杨紫说锦绣芳华是国色芳华第二部（热度：346919）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E5%8F%91%E7%8E%B04.9%E4%BA%BF%E5%90%A8%E9%94%82%E7%9F%BF%E7%9F%B3%23" target="weibo">
+湖南发现4.9亿吨锂矿石（热度：346843）
 </a>
 </li>
 
@@ -5697,6 +5715,12 @@ fx合体（热度：283131）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%BE%E8%BD%A6%E7%A2%BE%E5%8E%8B%E5%90%8C%E5%AD%A6%E8%87%B4%E6%AD%BB%E7%94%B7%E5%AD%90%E7%A7%B0%E5%87%BA%E7%8E%B0%E5%B9%BB%E5%90%AC%23" target="weibo">
+驾车碾压同学致死男子称出现幻听（热度：260399）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%BA%E5%A5%B8%E6%9C%AA%E9%81%82%E8%87%B4%E4%BA%BA%E6%BA%BA%E4%BA%A1%E7%94%B7%E5%AD%90%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23" target="weibo">
 强奸未遂致人溺亡男子被执行死刑（热度：260393）
 </a>
@@ -5871,12 +5895,6 @@ fx合体（热度：283131）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E5%8F%91%E7%8E%B04.9%E4%BA%BF%E5%90%A8%E9%94%82%E7%9F%BF%E7%9F%B3%23" target="weibo">
-湖南发现4.9亿吨锂矿石（热度：251887）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23AL%E6%88%98%E8%83%9CCFO%23" target="weibo">
 AL战胜CFO（热度：251523）
 </a>
@@ -5993,24 +6011,6 @@ AL战胜CFO（热度：251523）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80S40%E6%96%B0%E8%B5%9B%E5%AD%A3%23" target="weibo">
 王者荣耀S40新赛季（热度：245579）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%BD%91%E8%B4%AD%E6%8B%89%E5%B8%83%E5%B8%83%E7%9B%B2%E7%9B%92%E6%8B%86%E5%BC%80%E4%BB%85%E5%89%A96%E4%B8%AA%E8%A3%B8%E5%A8%83%23" target="weibo">
-女子网购拉布布盲盒拆开仅剩6个裸娃（热度：245403）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E7%AB%B9%E8%8A%82%E8%A4%B6%E8%A1%A3%23" target="weibo">
-杨幂竹节褶衣（热度：245308）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%8D%82%E6%9D%8E%E7%8E%B0%E7%9A%84%E5%98%B4%23" target="weibo">
-杨紫捂李现的嘴（热度：245212）
 </a>
 </li>
 
