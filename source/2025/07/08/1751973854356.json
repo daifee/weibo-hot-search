@@ -1,0 +1,410 @@
+{
+  "runTime": 1751973854356,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1355992,
+        "num": 1355992,
+        "word": "王勇受贿2.71亿余元",
+        "onboard_time": 1751969123,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 842019,
+        "num": 842019,
+        "word": "演唱会抢票难度排行榜",
+        "onboard_time": 1751970442,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 35984,
+        "num": 597104,
+        "word": "夏日文旅消费UP",
+        "onboard_time": 1751967023,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 877373,
+        "num": 537885,
+        "word": "王青发微博",
+        "onboard_time": 1751963062,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 476429,
+        "num": 476429,
+        "word": "为什么蜜雪冰城永不塌房",
+        "onboard_time": 1751965282,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 422469,
+        "num": 422469,
+        "word": "女儿6岁起被父亲持续性侵虐待10年",
+        "onboard_time": 1751971163,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 557796,
+        "num": 385334,
+        "word": "迪丽热巴 御木本",
+        "onboard_time": 1751970802,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 339887,
+        "num": 339887,
+        "word": "横店女明星热得命好苦的样子",
+        "onboard_time": 1751962522,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193684,
+        "num": 339419,
+        "word": "罗马仕回应订单退款排到18万位",
+        "onboard_time": 1751972483,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160701,
+        "num": 337419,
+        "word": "国防部回应外国船挂五星红旗",
+        "onboard_time": 1751971582,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 815854,
+        "num": 334969,
+        "word": "警方通报大三女生和男友双双坠亡",
+        "onboard_time": 1751961801,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 614111,
+        "num": 333163,
+        "word": "梓渝摇",
+        "onboard_time": 1751970742,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 479414,
+        "num": 330574,
+        "word": "向佐踩12cm的高跟鞋",
+        "onboard_time": 1751967322,
+        "rank": 12,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 329531,
+        "num": 329531,
+        "word": "男子爱炫精致碳水查出癌症之王",
+        "onboard_time": 1751972183,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48937,
+        "num": 310109,
+        "word": "几斤牛肉才出一斤牛肉干",
+        "onboard_time": 1751965881,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304990,
+        "num": 304990,
+        "word": "女生喝疑似发霉茶饮查出尿路感染",
+        "onboard_time": 1751967082,
+        "rank": 15,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 300169,
+        "num": 300169,
+        "word": "王一博卷毛王子",
+        "onboard_time": 1751966424,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296987,
+        "num": 296987,
+        "word": "外网评的最帅95生",
+        "onboard_time": 1751959041,
+        "rank": 17,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 289201,
+        "num": 289201,
+        "word": "女婴因眼睛小被挑剩下盼与父母团圆",
+        "onboard_time": 1751964442,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227963,
+        "num": 275423,
+        "word": "李现模仿安陵容",
+        "onboard_time": 1751972664,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113707,
+        "num": 264447,
+        "word": "腾讯视频连发五条折腰",
+        "onboard_time": 1751973623,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165514,
+        "num": 262030,
+        "word": "国防部回应歼10战机出口问题",
+        "onboard_time": 1751968882,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 262008,
+        "num": 262008,
+        "word": "音乐节 领证",
+        "onboard_time": 1751961441,
+        "rank": 22,
+        "category": "演出,演出"
+      },
+      {
+        "raw_hot": 247984,
+        "num": 247984,
+        "word": "男子主动脉夹层随时破裂却说回老家",
+        "onboard_time": 1751970382,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228967,
+        "num": 228967,
+        "word": "大鹏大冰超十年的友谊",
+        "onboard_time": 1751972242,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 25639,
+        "num": 207036,
+        "word": "江门水务称变黄自来水水质无问题",
+        "onboard_time": 1751973682,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202005,
+        "num": 202005,
+        "word": "王一博香奈儿大秀入场",
+        "onboard_time": 1751972664,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 191834,
+        "num": 191834,
+        "word": "周扬青说羡慕嫉妒但不恨黄子韬",
+        "onboard_time": 1751973322,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181933,
+        "num": 181933,
+        "word": "杨紫 我俩现在多工业糖精",
+        "onboard_time": 1751969123,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47572,
+        "num": 181749,
+        "word": "解限机的美术也是上桌了",
+        "onboard_time": 1751972723,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 181714,
+        "num": 181714,
+        "word": "台风",
+        "onboard_time": 1751973563,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180017,
+        "num": 180017,
+        "word": "杨紫李现 爸爸妈妈我出生了",
+        "onboard_time": 1751961322,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180348,
+        "num": 163864,
+        "word": "学费通胀",
+        "onboard_time": 1751971943,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140010,
+        "num": 140010,
+        "word": "空腹爬楼一个月瘦10斤",
+        "onboard_time": 1751967262,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 135813,
+        "num": 135813,
+        "word": "锦绣芳华第12集 离谱",
+        "onboard_time": 1751973563,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135373,
+        "num": 135373,
+        "word": "女子坐11小时飞机后心跳骤停去世",
+        "onboard_time": 1751960302,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134857,
+        "num": 134857,
+        "word": "国乒男队统治力下滑肉眼可见",
+        "onboard_time": 1751973503,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131778,
+        "num": 131778,
+        "word": "宁艺卓 费加罗高定",
+        "onboard_time": 1751972602,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 130169,
+        "num": 130169,
+        "word": "重庆暴雨",
+        "onboard_time": 1751969123,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39669,
+        "num": 129684,
+        "word": "成都世运会开幕式亮点剧透",
+        "onboard_time": 1751973442,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129408,
+        "num": 129408,
+        "word": "张新成直播",
+        "onboard_time": 1751972422,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128625,
+        "num": 128625,
+        "word": "国防部回应外国船挂五星红旗防袭击",
+        "onboard_time": 1751970802,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124696,
+        "num": 124696,
+        "word": "何炅为邓紫棋小说写推荐语",
+        "onboard_time": 1751972242,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121961,
+        "num": 121961,
+        "word": "以法之名微博追剧团",
+        "onboard_time": 1751973563,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113488,
+        "num": 113488,
+        "word": "香奈儿大秀",
+        "onboard_time": 1751966964,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 112007,
+        "num": 112007,
+        "word": "全智贤短发",
+        "onboard_time": 1751954782,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23470,
+        "num": 110160,
+        "word": "不要低估日本右翼的卑劣",
+        "onboard_time": 1751972483,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 109792,
+        "num": 109792,
+        "word": "Winter被摸手",
+        "onboard_time": 1751968942,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105816,
+        "num": 105816,
+        "word": "A股市场大涨原因",
+        "onboard_time": 1751968464,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 105332,
+        "num": 105332,
+        "word": "梓渝一份惊喜待查收",
+        "onboard_time": 1751973802,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在山西省阳泉市考察#"
+    }
+  }
+}
