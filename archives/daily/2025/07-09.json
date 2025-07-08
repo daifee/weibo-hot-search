@@ -1,0 +1,411 @@
+{
+  "startTime": 1751992486281,
+  "endTime": 1751992486281,
+  "band_list": [
+    {
+      "raw_hot": 1451004,
+      "num": 349080,
+      "word": "于正 我完全不知情",
+      "onboard_time": 1751984131,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 683934,
+      "num": 349040,
+      "word": "被曝婚内出轨粉丝NPC蓝狐狸被辞退",
+      "onboard_time": 1751988570,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 526831,
+      "num": 821029,
+      "word": "演唱会抢票难度排行榜",
+      "onboard_time": 1751970442,
+      "rank": 0,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 385848,
+      "num": 349008,
+      "word": "梓渝摇",
+      "onboard_time": 1751970742,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 375765,
+      "num": 375765,
+      "word": "海底捞回应服务员胸前打赏二维码",
+      "onboard_time": 1751983287,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 349317,
+      "num": 349317,
+      "word": "店员承认用草酸日洗超百斤龙虾",
+      "onboard_time": 1751987430,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 340941,
+      "num": 348762,
+      "word": "警方通报大三女生和男友双双坠亡",
+      "onboard_time": 1751961801,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 320148,
+      "num": 348994,
+      "word": "田栩宁七月的一天拍摄路透",
+      "onboard_time": 1751989828,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 282121,
+      "num": 348705,
+      "word": "杨迪回应是不是偷偷do了",
+      "onboard_time": 1751986232,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 277546,
+      "num": 348917,
+      "word": "一公务员称孕期把工作分给合同工",
+      "onboard_time": 1751976983,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 257871,
+      "num": 349282,
+      "word": "妻子去世后丈夫称太痛苦2年没回家",
+      "onboard_time": 1751990608,
+      "rank": 4,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 231028,
+      "num": 349259,
+      "word": "网友住酒店光脚洗澡感染HPV",
+      "onboard_time": 1751980042,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196437,
+      "num": 348875,
+      "word": "白鹿七月最忙碌的一天",
+      "onboard_time": 1751991626,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 187791,
+      "num": 348843,
+      "word": "赵本山女儿球球抑郁症复发",
+      "onboard_time": 1751982507,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 186273,
+      "num": 349224,
+      "word": "余承东因开车看手机去自首了",
+      "onboard_time": 1751983108,
+      "rank": 6,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 154166,
+      "num": 349212,
+      "word": "湖南发现4.9亿吨锂矿石",
+      "onboard_time": 1751983707,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151510,
+      "num": 348803,
+      "word": "谈恋爱要从朋友开始",
+      "onboard_time": 1751986891,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 134088,
+      "num": 348776,
+      "word": "高铁B座",
+      "onboard_time": 1751975423,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 127195,
+      "num": 348670,
+      "word": "景区回应NPC蓝狐狸被曝婚内出轨粉丝",
+      "onboard_time": 1751991145,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122325,
+      "num": 348943,
+      "word": "驾车碾压同学致死男子称出现幻听",
+      "onboard_time": 1751981664,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119915,
+      "num": 349139,
+      "word": "美国一湖泊3年捞出19具尸体",
+      "onboard_time": 1751985871,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 115881,
+      "num": 349169,
+      "word": "锦绣芳华第12集 离谱",
+      "onboard_time": 1751973563,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 111999,
+      "num": 348656,
+      "word": "王青闺女",
+      "onboard_time": 1751979983,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 108573,
+      "num": 348599,
+      "word": "女婴因眼睛小被挑剩下盼与父母团圆",
+      "onboard_time": 1751964442,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102550,
+      "num": 348583,
+      "word": "十位老兵的抗战故事",
+      "onboard_time": 1751975062,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 93740,
+      "num": 348545,
+      "word": "田栩宁19岁时许愿不要被黑",
+      "onboard_time": 1751981904,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 91225,
+      "num": 348496,
+      "word": "王一博神图",
+      "onboard_time": 1751974101,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 90016,
+      "num": 348412,
+      "word": "男子爱炫精致碳水查出癌症之王",
+      "onboard_time": 1751972183,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86442,
+      "num": 348452,
+      "word": "以法之名",
+      "onboard_time": 1751975242,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 84050,
+      "num": 348338,
+      "word": "王一博从时尚秀场聊到了晚饭时间",
+      "onboard_time": 1751988989,
+      "rank": 32,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 78813,
+      "num": 348261,
+      "word": "娃哈哈回应营养快线被诉瓶口有蛆虫",
+      "onboard_time": 1751989888,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78497,
+      "num": 348242,
+      "word": "1人非法炼2540公斤猪油涉案1.59万",
+      "onboard_time": 1751987910,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78189,
+      "num": 348143,
+      "word": "日本外务省是诋毁张纯如幕后推手",
+      "onboard_time": 1751978242,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77086,
+      "num": 348134,
+      "word": "王勇受贿2.71亿余元",
+      "onboard_time": 1751969123,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 76111,
+      "num": 348195,
+      "word": "拖欠家教费老赖欠堂哥8万20年不还",
+      "onboard_time": 1751990487,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75108,
+      "num": 348080,
+      "word": "广汽菲克宣告破产",
+      "onboard_time": 1751985452,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 71824,
+      "num": 348420,
+      "word": "难怪藏海是劳模",
+      "onboard_time": 1751991562,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 71511,
+      "num": 348047,
+      "word": "曝短剧顶流女演员助理被骂退圈",
+      "onboard_time": 1751981664,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 70418,
+      "num": 348001,
+      "word": "幼儿误吞水宝宝腹中膨胀至乒乓球大",
+      "onboard_time": 1751980224,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68697,
+      "num": 347969,
+      "word": "噪声扰民严重直接拘",
+      "onboard_time": 1751991984,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68674,
+      "num": 347944,
+      "word": "余承东自嘲营销水平差距大",
+      "onboard_time": 1751988508,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 66083,
+      "num": 347913,
+      "word": "张真源奔跑吧记录",
+      "onboard_time": 1751992044,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 63702,
+      "num": 347844,
+      "word": "国防部回应外国船挂五星红旗",
+      "onboard_time": 1751971582,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 60957,
+      "num": 347820,
+      "word": "方媛三胎孕肚",
+      "onboard_time": 1751978302,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 60665,
+      "num": 347733,
+      "word": "厦门天雷滚滚下暴雨冰雹了",
+      "onboard_time": 1751976682,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59996,
+      "num": 347782,
+      "word": "以法之名最大秘密浮出水面",
+      "onboard_time": 1751984730,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 59711,
+      "num": 347887,
+      "word": "周也转发王源新歌",
+      "onboard_time": 1751991205,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 20354,
+      "num": 359302,
+      "word": "6组数据看科技创新与制造业加速升级",
+      "onboard_time": 1751981845,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20001,
+      "num": 348351,
+      "word": "房东隐瞒凶宅退租拒不承担中介费",
+      "onboard_time": 1751992343,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19697,
+      "num": 348290,
+      "word": "教育局回应主播称报我名进清北班",
+      "onboard_time": 1751992343,
+      "rank": 33,
+      "category": "民生新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#习近平在山西考察#"
+    }
+  ]
+}
