@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/08 11:55:06
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/08 12:36:41
 </p>
 </blockquote>
 <p>
@@ -119,6 +119,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%B8%9C%E7%AB%99%E5%8F%91%E7%94%9F%E5%8D%A7%E8%BD%A8%E4%BA%8B%E4%BB%B6%23" target="weibo">
 杭州东站发生卧轨事件（热度：2706470）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B0%B4%E4%B8%80%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%B9%BC%E5%84%BF%E8%A1%80%E9%93%85%E5%BC%82%E5%B8%B88%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
+天水一幼儿园幼儿血铅异常8人被刑拘（热度：2618077）
 </a>
 </li>
 
@@ -281,6 +287,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%8D%97%E7%AB%99%E6%9C%89%E4%BA%BA%E5%9D%A0%E6%A5%BC%23" target="weibo">
 杭州南站有人坠楼（热度：1782989）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B0%B4%E5%A4%9A%E5%90%8D%E8%80%81%E5%B8%88%E8%A1%80%E9%93%85%E4%B9%9F%E4%B8%A5%E9%87%8D%E8%B6%85%E6%A0%87%23" target="weibo">
+天水多名老师血铅也严重超标（热度：1773632）
 </a>
 </li>
 
@@ -657,6 +669,12 @@ Angelababy出席巴黎时装周（热度：1225523）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E8%8F%B2%E8%8F%B2%E8%AF%B4%E4%B8%BA%E7%8E%8B%E9%98%B3%E6%BE%84%E6%B8%85%E6%98%AF%E5%BA%94%E7%8E%8B%E9%98%B3%E8%A6%81%E6%B1%82%E5%86%99%E7%9A%84%23" target="weibo">
+孙菲菲说为王阳澄清是应王阳要求写的（热度：1210814）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BC%E7%AB%A5%E8%BA%BA%E8%A1%97%E4%B8%8A%E8%A2%AB%E5%BF%AB%E9%80%92%E8%B4%A7%E8%BD%A6%E7%A2%BE%E5%8E%8B%E8%BA%AB%E4%BA%A1%23" target="weibo">
 幼童躺街上被快递货车碾压身亡（热度：1208394）
 </a>
@@ -935,12 +953,6 @@ Angelababy一出手便是王炸（热度：1032698）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2329%E5%B2%81%E8%BA%AB%E9%AB%98%E4%BB%8E165%E5%8E%98%E7%B1%B3%E5%88%B0171%E5%8E%98%E7%B1%B3%23" target="weibo">
 29岁身高从165厘米到171厘米（热度：970476）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B0%B4%E5%A4%9A%E5%90%8D%E8%80%81%E5%B8%88%E8%A1%80%E9%93%85%E4%B9%9F%E4%B8%A5%E9%87%8D%E8%B6%85%E6%A0%87%23" target="weibo">
-天水多名老师血铅也严重超标（热度：968677）
 </a>
 </li>
 
@@ -4251,6 +4263,12 @@ T1战胜CFO（热度：323423）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B0%B4%E5%B9%BC%E5%84%BF%E8%A1%80%E9%93%85%E5%BC%82%E5%B8%B8%E9%A3%9F%E5%93%81%E9%9D%9E%E6%B3%95%E6%B7%BB%E5%8A%A0%E7%89%A9%E4%B8%BA%E9%A2%9C%E6%96%99%23" target="weibo">
+天水幼儿血铅异常食品非法添加物为颜料（热度：321233）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E5%A4%A7%E5%AE%9A%E8%A2%AB%E8%B4%A8%E7%96%91%E6%9C%89%E6%B0%B4%E5%88%86%23" target="weibo">
 雷军回应大定被质疑有水分（热度：320413）
 </a>
@@ -4373,6 +4391,12 @@ T1战胜CFO（热度：323423）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%9B%9E%E5%BA%94%E5%8F%82%E9%80%89%E6%97%B6%E9%97%B4%23" target="weibo">
 马斯克回应参选时间（热度：313506）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%93%85%E4%B8%AD%E6%AF%92%23" target="weibo">
+铅中毒（热度：313014）
 </a>
 </li>
 
@@ -4565,12 +4589,6 @@ K1373事故铁路员工不如主动砸玻璃（热度：302707）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%8D%96100g%E9%BB%84%E9%87%91%E7%A7%B0%E8%80%81%E5%85%AC%E4%B9%B0%E7%9A%84%E4%B8%8D%E5%BF%83%E7%96%BC%23" target="weibo">
 女子卖100g黄金称老公买的不心疼（热度：298102）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%93%85%E4%B8%AD%E6%AF%92%23" target="weibo">
-铅中毒（热度：298092）
 </a>
 </li>
 
@@ -5367,12 +5385,6 @@ fx合体（热度：283131）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B0%B4%E4%B8%80%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%B9%BC%E5%84%BF%E8%A1%80%E9%93%85%E5%BC%82%E5%B8%B88%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
-天水一幼儿园幼儿血铅异常8人被刑拘（热度：254831）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E6%9C%AA%E6%8A%A5%E6%B8%85%E5%8C%97%E8%80%81%E5%B8%88%E8%A7%A3%E6%95%A3%E7%BE%A4%E8%81%8A%23" target="weibo">
 教育局回应学生未报清北老师解散群聊（热度：254796）
 </a>
@@ -5427,8 +5439,20 @@ fx合体（热度：283131）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%8F%AF%E7%9B%88%E7%AB%9F%E7%84%B6%E6%BC%94%E8%BF%87%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%A6%B9%E5%A6%B9%23" target="weibo">
+张可盈竟然演过赵丽颖妹妹（热度：252181）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B8%B8%E5%B7%9E1%E5%88%86%23" target="weibo">
 常州1分（热度：251939）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23AL%E6%88%98%E8%83%9CCFO%23" target="weibo">
+AL战胜CFO（热度：251523）
 </a>
 </li>
 
@@ -5495,6 +5519,12 @@ fx合体（热度：283131）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23105%E6%96%A4%E5%A5%B3%E7%94%9F%E5%8D%A7%E6%8E%A8100%E6%96%A4%23" target="weibo">
 105斤女生卧推100斤（热度：247337）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E8%AF%B4%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%BD%91%E9%80%9F%E6%AF%945G%E8%BF%98%E5%BF%AB%23" target="weibo">
+刘宇宁说迪丽热巴网速比5G还快（热度：246544）
 </a>
 </li>
 
@@ -5673,6 +5703,12 @@ Celine大秀（热度：242230）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%A4%A9%E6%B0%B4%E9%93%85%E4%B8%AD%E6%AF%92%E5%B9%BC%E5%84%BF%E5%AE%B6%E9%95%BF%E6%9C%80%E6%96%B0%E5%8F%91%E5%A3%B0%23" target="weibo">
+甘肃天水铅中毒幼儿家长最新发声（热度：237133）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%811%E5%8F%B7%E7%BA%BF%23" target="weibo">
 深圳地铁1号线（热度：237067）
 </a>
@@ -5759,6 +5795,12 @@ Celine大秀（热度：242230）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%87%86%E5%A4%87%E6%98%8E%E5%B9%B4%E5%8F%82%E9%80%89%23" target="weibo">
 马斯克准备明年参选（热度：233882）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2327%E5%B2%81%E7%9C%9F%E7%9A%84%E8%BF%98%E5%BE%88%E5%B9%B4%E8%BD%BB%E5%BE%88%E5%B9%B4%E8%BD%BB%E7%9A%84%23" target="weibo">
+27岁真的还很年轻很年轻的（热度：233675）
 </a>
 </li>
 
@@ -5972,48 +6014,6 @@ Celine大秀（热度：242230）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%8A%A2%E7%A5%A8%23" target="weibo">
-时代少年团抢票（热度：227926）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BA%84%E5%91%A8%E9%94%A6%E9%BA%9F%E6%B8%B8%E6%A2%A6%E7%9A%AE%E8%82%A4%23" target="weibo">
-庄周锦麟游梦皮肤（热度：227564）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E7%B4%AB%E6%A3%8B%E7%8C%AE%E5%94%B1%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4OST%23" target="weibo">
-邓紫棋献唱枭起青壤OST（热度：227217）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%BD%E9%87%8F%E4%B8%8D%E8%A6%81%E7%BB%99%E6%89%8B%E6%9C%BA%E6%95%B4%E5%A4%9C%E5%85%85%E7%94%B5%23" target="weibo">
-尽量不要给手机整夜充电（热度：226933）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%A0%E7%BA%B8%23" target="weibo">
-叠纸（热度：226902）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E5%BC%80%E9%97%A8%23" target="weibo">
-恋与深空开门（热度：226651）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B8%A6%E5%84%BF%E5%AD%90%E6%89%93%E4%BC%A4%E5%87%BA%E8%BD%A8%E8%80%81%E5%85%AC%E5%90%8E%E5%8F%8C%E5%8F%8C%E8%A2%AB%E6%8B%98%23" target="weibo">
-女子带儿子打伤出轨老公后双双被拘（热度：226613）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6149,6 +6149,12 @@ Celine大秀（热度：242230）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%80%E6%94%AF%E8%A7%86%E9%A2%91%E7%9C%8B%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BF%83%E7%B3%BB%E4%B8%89%E6%99%8B%E5%A4%A7%E5%9C%B0%23%23" target="weibo">
 #一支视频看习近平心系三晋大地#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E9%98%B3%E6%B3%89%E8%80%83%E5%AF%9F%E5%88%B6%E9%80%A0%E4%B8%9A%E4%BC%81%E4%B8%9A%E5%8F%91%E5%B1%95%23%23" target="weibo">
+#习近平在阳泉考察制造业企业发展#
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1751906062153,
-  "endTime": 1751946906557,
+  "endTime": 1751949401163,
   "band_list": [
     {
       "raw_hot": 9289863,
@@ -17,6 +17,22 @@
       "onboard_time": 1751895024,
       "rank": 0,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 2618077,
+      "num": 2618077,
+      "word": "天水一幼儿园幼儿血铅异常8人被刑拘",
+      "onboard_time": 1751946446,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1773632,
+      "num": 968677,
+      "word": "天水多名老师血铅也严重超标",
+      "onboard_time": 1751942962,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1569004,
@@ -43,20 +59,20 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 1210814,
+      "num": 1210814,
+      "word": "孙菲菲说为王阳澄清是应王阳要求写的",
+      "onboard_time": 1751947043,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1208244,
       "num": 316346,
       "word": "鹿晗关晓彤同城零互动",
       "onboard_time": 1751937563,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 968677,
-      "num": 968677,
-      "word": "天水多名老师血铅也严重超标",
-      "onboard_time": 1751942962,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 936796,
@@ -251,6 +267,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 321233,
+      "num": 321233,
+      "word": "天水幼儿血铅异常食品非法添加物为颜料",
+      "onboard_time": 1751946621,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 316127,
       "num": 316127,
       "word": "60岁大叔扮女装与千余人发生关系不实",
@@ -259,20 +283,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 313014,
+      "num": 313014,
+      "word": "铅中毒",
+      "onboard_time": 1751943382,
+      "rank": 23,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 303676,
       "num": 273768,
       "word": "英雄联盟 王俊凯",
       "onboard_time": 1751903183,
       "rank": 12,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 298092,
-      "num": 298092,
-      "word": "铅中毒",
-      "onboard_time": 1751943382,
-      "rank": 23,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 291930,
@@ -331,12 +355,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 254831,
-      "num": 483817,
-      "word": "天水一幼儿园幼儿血铅异常8人被刑拘",
-      "onboard_time": 1751946446,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 252181,
+      "num": 249508,
+      "word": "张可盈竟然演过赵丽颖妹妹",
+      "onboard_time": 1751946142,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 251523,
+      "num": 251523,
+      "word": "AL战胜CFO",
+      "onboard_time": 1751947643,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 246544,
+      "num": 246544,
+      "word": "刘宇宁说迪丽热巴网速比5G还快",
+      "onboard_time": 1751947583,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 238608,
@@ -345,6 +385,14 @@
       "onboard_time": 1751928797,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 237133,
+      "num": 304676,
+      "word": "甘肃天水铅中毒幼儿家长最新发声",
+      "onboard_time": 1751945482,
+      "rank": 13,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 236822,
@@ -371,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 233675,
+      "num": 233675,
+      "word": "27岁真的还很年轻很年轻的",
+      "onboard_time": 1751947883,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 231408,
       "num": 231408,
       "word": "特朗普已签署12封关税信函",
@@ -395,6 +451,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224707,
+      "num": 224707,
+      "word": "考古青你3梓渝牛在在的友情",
+      "onboard_time": 1751946562,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 221245,
+      "num": 221245,
+      "word": "阿姨收个衣服都能上万步",
+      "onboard_time": 1751947043,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 214506,
       "num": 214506,
       "word": "中方已向印度提出交涉",
@@ -411,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200738,
+      "num": 200738,
+      "word": "张子枫第一个摔出来的角色",
+      "onboard_time": 1751948424,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 196366,
       "num": 196366,
       "word": "杨紫胡歌新剧颠覆性妆造",
@@ -419,20 +499,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195296,
-      "num": 195296,
-      "word": "张可盈竟然演过赵丽颖妹妹",
-      "onboard_time": 1751946142,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 191535,
-      "num": 191535,
+      "num": 443570,
       "word": "济南出租车惊现318川藏线",
       "onboard_time": 1751940502,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189124,
+      "num": 189124,
+      "word": "葡萄奶绿",
+      "onboard_time": 1751947105,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 188661,
@@ -451,20 +531,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 185857,
-      "num": 185857,
-      "word": "考古青你3梓渝牛在在的友情",
-      "onboard_time": 1751946562,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 183978,
       "num": 183978,
       "word": "利剑玫瑰",
       "onboard_time": 1751943621,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179792,
+      "num": 179792,
+      "word": "光遇复刻",
+      "onboard_time": 1751947643,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 179017,
@@ -484,7 +564,7 @@
     },
     {
       "raw_hot": 176342,
-      "num": 176342,
+      "num": 192048,
       "word": "李艾肠胃炎腰细了四公分",
       "onboard_time": 1751942122,
       "rank": 33,
@@ -515,6 +595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174176,
+      "num": 174176,
+      "word": "晚餐决定了第二天掉称速度",
+      "onboard_time": 1751948903,
+      "rank": 32,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 169835,
       "num": 169835,
       "word": "金毛被打死狗主人称店家拒调解",
@@ -539,14 +627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 166430,
-      "num": 304676,
-      "word": "甘肃天水铅中毒幼儿家长最新发声",
-      "onboard_time": 1751945482,
-      "rank": 13,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 165740,
       "num": 165740,
       "word": "上海92平米迷你别墅",
@@ -561,6 +641,14 @@
       "onboard_time": 1751942962,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 157172,
+      "num": 157172,
+      "word": "天水幼儿园",
+      "onboard_time": 1751948845,
+      "rank": 35,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 154831,
@@ -627,6 +715,14 @@
       "category": "数码,互联网"
     },
     {
+      "raw_hot": 135212,
+      "num": 135212,
+      "word": "金毛墩墩",
+      "onboard_time": 1751948365,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134451,
       "num": 134451,
       "word": "12306回应高铁F座最受欢迎",
@@ -659,6 +755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131390,
+      "num": 182799,
+      "word": "三对母女旅游车辆坠河只找到两尸体",
+      "onboard_time": 1751946082,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129390,
       "num": 149699,
       "word": "游本昌人民日报撰文",
@@ -667,12 +771,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128652,
+      "num": 128652,
+      "word": "熬夜熬到作息正常了",
+      "onboard_time": 1751949265,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 128382,
       "num": 128382,
       "word": "NBA交易",
       "onboard_time": 1751901264,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128244,
+      "num": 128244,
+      "word": "南珩哞地亲上了宋一梦",
+      "onboard_time": 1751947284,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 127884,
@@ -705,6 +825,14 @@
       "onboard_time": 1751889022,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 122612,
+      "num": 122612,
+      "word": "对方一旦和你聊起他的家庭",
+      "onboard_time": 1751949203,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 121514,
@@ -755,6 +883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118002,
+      "num": 118002,
+      "word": "轻断食第一天吃了53个鸡蛋",
+      "onboard_time": 1751948903,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 116604,
       "num": 254948,
       "word": "网红孙其康回应孙恩盛无证驾驶",
@@ -769,6 +905,14 @@
       "onboard_time": 1751946503,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113999,
+      "num": 113999,
+      "word": "聊斋兰若寺终极预告",
+      "onboard_time": 1751948424,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 113355,
@@ -947,14 +1091,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 93217,
-      "num": 182799,
-      "word": "三对母女旅游车辆坠河只找到两尸体",
-      "onboard_time": 1751946082,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 92665,
       "num": 92665,
       "word": "扛140斤硬币存银行遭拒当事人发声",
@@ -977,6 +1113,14 @@
       "onboard_time": 1751929758,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86718,
+      "num": 934955,
+      "word": "中国制造不断冲击世界眼球",
+      "onboard_time": 1751947162,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86563,
@@ -1057,6 +1201,14 @@
       "onboard_time": 1751929819,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 76730,
+      "num": 304633,
+      "word": "父亲去世男子叫民营救护车被索要红包",
+      "onboard_time": 1751945482,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74574,
@@ -1227,6 +1379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 47633,
+      "num": 286067,
+      "word": "家长讲述血铅异常幼儿治疗过程",
+      "onboard_time": 1751949083,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47330,
       "num": 137372,
       "word": "魏晨与妻子是大学同学",
@@ -1240,14 +1400,6 @@
       "word": "公司招聘拒录E人涉嫌就业歧视违法",
       "onboard_time": 1751907738,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45306,
-      "num": 233948,
-      "word": "天水幼儿血铅异常食品非法添加物为颜料",
-      "onboard_time": 1751946621,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -1299,14 +1451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 31565,
-      "num": 304633,
-      "word": "父亲去世男子叫民营救护车被索要红包",
-      "onboard_time": 1751945482,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 30762,
       "num": 101429,
       "word": "德约科维奇逆转晋级温网八强",
@@ -1353,6 +1497,14 @@
       "onboard_time": 1751929819,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24893,
+      "num": 136587,
+      "word": "罗马仕员工称5负责人至今未露面",
+      "onboard_time": 1751948544,
+      "rank": 39,
+      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 23229,
@@ -1420,6 +1572,9 @@
     },
     {
       "word": "#一支视频看习近平心系三晋大地#"
+    },
+    {
+      "word": "#习近平在阳泉考察制造业企业发展#"
     }
   ]
 }
