@@ -1,10 +1,10 @@
 {
   "startTime": 1751906062153,
-  "endTime": 1751940254060,
+  "endTime": 1751941717408,
   "band_list": [
     {
-      "raw_hot": 8093861,
-      "num": 8093861,
+      "raw_hot": 9289863,
+      "num": 9289863,
       "word": "南京红老头系38岁男子",
       "onboard_time": 1751932642,
       "rank": 0,
@@ -27,20 +27,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1389386,
+      "num": 437473,
+      "word": "江宁婆婆",
+      "onboard_time": 1751937563,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1208244,
       "num": 316346,
       "word": "鹿晗关晓彤同城零互动",
       "onboard_time": 1751937563,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1080855,
-      "num": 437473,
-      "word": "江宁婆婆",
-      "onboard_time": 1751937563,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 870004,
@@ -99,11 +99,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 503241,
+      "num": 2119225,
+      "word": "轻断食10天瘦了14.5斤",
+      "onboard_time": 1751939842,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 473961,
       "num": 284125,
       "word": "南京红老头",
       "onboard_time": 1751899165,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 436809,
+      "num": 436809,
+      "word": "女子6年挪用公司1700万炫富挥霍",
+      "onboard_time": 1751938943,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -131,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 358223,
+      "num": 358223,
+      "word": "教体局通报15岁男孩考试后离世",
+      "onboard_time": 1751939302,
+      "rank": 31,
+      "category": "辟谣/通报,教育"
+    },
+    {
       "raw_hot": 353157,
       "num": 353157,
       "word": "特朗普宣布征收日韩25%关税",
@@ -139,12 +163,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 325353,
-      "num": 325353,
-      "word": "女子6年挪用公司1700万炫富挥霍",
-      "onboard_time": 1751938943,
-      "rank": 7,
-      "category": "民生新闻"
+      "raw_hot": 324975,
+      "num": 324975,
+      "word": "为什么洗头一梳头会掉头发",
+      "onboard_time": 1751936542,
+      "rank": 12,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 316127,
@@ -163,12 +187,20 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 303355,
-      "num": 303355,
-      "word": "为什么洗头一梳头会掉头发",
-      "onboard_time": 1751936542,
-      "rank": 12,
-      "category": "健康医疗"
+      "raw_hot": 301728,
+      "num": 301728,
+      "word": "国乒男单三人止步美国大满贯首轮",
+      "onboard_time": 1751937982,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 291930,
+      "num": 305043,
+      "word": "15岁男生参加体育特长生考试猝死",
+      "onboard_time": 1751938763,
+      "rank": 18,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 290218,
@@ -177,6 +209,14 @@
       "onboard_time": 1751932400,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 283744,
+      "num": 310685,
+      "word": "偶遇鹿晗高瀚宇黄新淳逛街",
+      "onboard_time": 1751939361,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 277890,
@@ -251,14 +291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 217501,
-      "num": 217501,
-      "word": "偶遇鹿晗高瀚宇黄新淳逛街",
-      "onboard_time": 1751939361,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 214506,
       "num": 214506,
       "word": "中方已向印度提出交涉",
@@ -281,22 +313,6 @@
       "onboard_time": 1751936303,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196360,
-      "num": 196360,
-      "word": "15岁男生参加体育特长生考试猝死",
-      "onboard_time": 1751938763,
-      "rank": 18,
-      "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 195440,
-      "num": 195440,
-      "word": "国乒男单三人止步美国大满贯首轮",
-      "onboard_time": 1751937982,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 188661,
@@ -331,6 +347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175923,
+      "num": 316535,
+      "word": "加沙胖小孩空袭受伤瘦成骨架",
+      "onboard_time": 1751936062,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 174690,
       "num": 174690,
       "word": "2万枚污损硬币遭银行拒绝兑换",
@@ -353,22 +377,6 @@
       "onboard_time": 1751935162,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 167503,
-      "num": 149080,
-      "word": "轻断食10天瘦了14.5斤",
-      "onboard_time": 1751939842,
-      "rank": 30,
-      "category": "运动健身"
-    },
-    {
-      "raw_hot": 157874,
-      "num": 148748,
-      "word": "教体局通报15岁男孩考试后离世",
-      "onboard_time": 1751939302,
-      "rank": 31,
-      "category": "辟谣/通报,教育"
     },
     {
       "raw_hot": 154831,
@@ -419,12 +427,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 141231,
-      "num": 316535,
-      "word": "加沙胖小孩空袭受伤瘦成骨架",
-      "onboard_time": 1751936062,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 138029,
+      "num": 138029,
+      "word": "济南出租车惊现318川藏线",
+      "onboard_time": 1751940502,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134451,
@@ -451,6 +459,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 131785,
+      "num": 131785,
+      "word": "洪亮4连质问李人骏不老实",
+      "onboard_time": 1751940682,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129390,
       "num": 149699,
       "word": "游本昌人民日报撰文",
@@ -473,6 +489,14 @@
       "onboard_time": 1751889022,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 119682,
+      "num": 119682,
+      "word": "上海一财务挪用公款医美每次30万",
+      "onboard_time": 1751941580,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119537,
@@ -499,6 +523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116604,
+      "num": 149468,
+      "word": "网红孙其康回应孙恩盛无证驾驶",
+      "onboard_time": 1751939241,
+      "rank": 28,
+      "category": "网红"
+    },
+    {
       "raw_hot": 113355,
       "num": 113355,
       "word": "学校通报学生未报清北老师解散群聊",
@@ -523,6 +555,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 110571,
+      "num": 110571,
+      "word": "为什么大部分家长劝不动自己的孩子",
+      "onboard_time": 1751940502,
+      "rank": 35,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 110153,
       "num": 110153,
       "word": "原731成员说解剖活人才有意义",
@@ -531,12 +571,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 108552,
-      "num": 149468,
-      "word": "网红孙其康回应孙恩盛无证驾驶",
-      "onboard_time": 1751939241,
-      "rank": 28,
-      "category": "网红"
+      "raw_hot": 109147,
+      "num": 109147,
+      "word": "跑外卖3天吃了15顿",
+      "onboard_time": 1751935943,
+      "rank": 40,
+      "category": "幽默,休闲"
     },
     {
       "raw_hot": 107348,
@@ -545,6 +585,22 @@
       "onboard_time": 1751934923,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 107236,
+      "num": 107236,
+      "word": "降息后理财猎手接棒存款特种兵",
+      "onboard_time": 1751940442,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 107007,
+      "num": 107007,
+      "word": "习惯性反问到底有多伤人",
+      "onboard_time": 1751940141,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 106207,
@@ -579,12 +635,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 101204,
-      "num": 101204,
-      "word": "跑外卖3天吃了15顿",
-      "onboard_time": 1751935943,
-      "rank": 40,
-      "category": "幽默,休闲"
+      "raw_hot": 102402,
+      "num": 149253,
+      "word": "rapper用归国四子diss黄子韬",
+      "onboard_time": 1751936123,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 99546,
@@ -611,12 +667,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 97164,
-      "num": 149253,
-      "word": "rapper用归国四子diss黄子韬",
-      "onboard_time": 1751936123,
-      "rank": 29,
-      "category": "音乐"
+      "raw_hot": 98249,
+      "num": 98249,
+      "word": "美得州洪灾已致104死",
+      "onboard_time": 1751940742,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 94985,
@@ -667,14 +723,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 85315,
-      "num": 85315,
-      "word": "习惯性反问到底有多伤人",
-      "onboard_time": 1751940141,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 84983,
       "num": 84983,
       "word": "原来跳绳减脂性价比这么高",
@@ -683,12 +731,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 83964,
-      "num": 83964,
+      "raw_hot": 84860,
+      "num": 84860,
       "word": "Angelababy孔雀公主",
       "onboard_time": 1751933242,
       "rank": 47,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 82513,
+      "num": 82513,
+      "word": "AL对战CFO先下一城",
+      "onboard_time": 1751941704,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 81489,
@@ -900,11 +956,35 @@
     },
     {
       "raw_hot": 45045,
-      "num": 817194,
+      "num": 847511,
       "word": "捍卫英烈尊严网警公布6起侮辱英烈案",
       "onboard_time": 1751901624,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 44567,
+      "num": 107115,
+      "word": "王曼昱回应战胜卡尔伯格",
+      "onboard_time": 1751940921,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 40618,
+      "num": 219499,
+      "word": "男孩体考猝死学校未配备医护人员",
+      "onboard_time": 1751941100,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40459,
+      "num": 176020,
+      "word": "租车位不给装充电桩男子起诉物业",
+      "onboard_time": 1751941280,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37895,

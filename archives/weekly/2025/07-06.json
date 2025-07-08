@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751940254060,
+  "endTime": 1751941717408,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -19,20 +19,20 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 9289863,
+      "num": 9289863,
+      "word": "南京红老头系38岁男子",
+      "onboard_time": 1751932642,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 8592534,
       "num": 8592534,
       "word": "青岛大学凌晨发情况说明",
       "onboard_time": 1751843478,
       "rank": 5,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 8093861,
-      "num": 8093861,
-      "word": "南京红老头系38岁男子",
-      "onboard_time": 1751932642,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 7611710,
@@ -243,6 +243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1389386,
+      "num": 437473,
+      "word": "江宁婆婆",
+      "onboard_time": 1751937563,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1342398,
       "num": 1342398,
       "word": "爱泼斯坦去世当晚牢房区域视频公开",
@@ -417,14 +425,6 @@
       "onboard_time": 1751774662,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1080855,
-      "num": 437473,
-      "word": "江宁婆婆",
-      "onboard_time": 1751937563,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1050102,
@@ -1059,6 +1059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 503241,
+      "num": 2119225,
+      "word": "轻断食10天瘦了14.5斤",
+      "onboard_time": 1751939842,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 503225,
       "num": 503225,
       "word": "明德物业回应青岛大学宿管离世",
@@ -1200,6 +1208,14 @@
       "word": "铅中毒事件74份血检报告70人超标",
       "onboard_time": 1751868444,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 436809,
+      "num": 436809,
+      "word": "女子6年挪用公司1700万炫富挥霍",
+      "onboard_time": 1751938943,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -1491,6 +1507,14 @@
       "category": "舆论监督,健康医疗"
     },
     {
+      "raw_hot": 358223,
+      "num": 358223,
+      "word": "教体局通报15岁男孩考试后离世",
+      "onboard_time": 1751939302,
+      "rank": 31,
+      "category": "辟谣/通报,教育"
+    },
+    {
       "raw_hot": 356903,
       "num": 157494,
       "word": "12岁幼女家中遭强奸妈妈第二天才发现",
@@ -1635,12 +1659,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 325353,
-      "num": 325353,
-      "word": "女子6年挪用公司1700万炫富挥霍",
-      "onboard_time": 1751938943,
-      "rank": 7,
-      "category": "民生新闻"
+      "raw_hot": 324975,
+      "num": 324975,
+      "word": "为什么洗头一梳头会掉头发",
+      "onboard_time": 1751936542,
+      "rank": 12,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 321396,
@@ -1771,12 +1795,12 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 303355,
-      "num": 303355,
-      "word": "为什么洗头一梳头会掉头发",
-      "onboard_time": 1751936542,
-      "rank": 12,
-      "category": "健康医疗"
+      "raw_hot": 301728,
+      "num": 301728,
+      "word": "国乒男单三人止步美国大满贯首轮",
+      "onboard_time": 1751937982,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 301505,
@@ -1809,6 +1833,14 @@
       "onboard_time": 1751812344,
       "rank": 42,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 291930,
+      "num": 305043,
+      "word": "15岁男生参加体育特长生考试猝死",
+      "onboard_time": 1751938763,
+      "rank": 18,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 290930,
@@ -1857,6 +1889,14 @@
       "onboard_time": 1751816063,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 283744,
+      "num": 310685,
+      "word": "偶遇鹿晗高瀚宇黄新淳逛街",
+      "onboard_time": 1751939361,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 283553,
@@ -2515,14 +2555,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 217501,
-      "num": 217501,
-      "word": "偶遇鹿晗高瀚宇黄新淳逛街",
-      "onboard_time": 1751939361,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 216338,
       "num": 315339,
       "word": "孙颖莎说球迷加油让自己更有动力",
@@ -2923,14 +2955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196360,
-      "num": 196360,
-      "word": "15岁男生参加体育特长生考试猝死",
-      "onboard_time": 1751938763,
-      "rank": 18,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 196250,
       "num": 303179,
       "word": "罗马仕和安克召回充电宝超百万",
@@ -2953,14 +2977,6 @@
       "onboard_time": 1751771482,
       "rank": 23,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 195440,
-      "num": 195440,
-      "word": "国乒男单三人止步美国大满贯首轮",
-      "onboard_time": 1751937982,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 195068,
@@ -3307,6 +3323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175923,
+      "num": 316535,
+      "word": "加沙胖小孩空袭受伤瘦成骨架",
+      "onboard_time": 1751936062,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 175569,
       "num": 160990,
       "word": "任重孙骁骁牵手外出",
@@ -3489,14 +3513,6 @@
       "onboard_time": 1751757198,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 167503,
-      "num": 149080,
-      "word": "轻断食10天瘦了14.5斤",
-      "onboard_time": 1751939842,
-      "rank": 30,
-      "category": "运动健身"
     },
     {
       "raw_hot": 166647,
@@ -3721,14 +3737,6 @@
       "onboard_time": 1751819062,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 157874,
-      "num": 148748,
-      "word": "教体局通报15岁男孩考试后离世",
-      "onboard_time": 1751939302,
-      "rank": 31,
-      "category": "辟谣/通报,教育"
     },
     {
       "raw_hot": 157704,
@@ -4259,14 +4267,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 141231,
-      "num": 316535,
-      "word": "加沙胖小孩空袭受伤瘦成骨架",
-      "onboard_time": 1751936062,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 141164,
       "num": 141164,
       "word": "金毛李墩墩主人为疏忽致歉",
@@ -4344,6 +4344,14 @@
       "word": "江西瑞昌市第一中学致歉",
       "onboard_time": 1751900244,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138029,
+      "num": 138029,
+      "word": "济南出租车惊现318川藏线",
+      "onboard_time": 1751940502,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -4552,6 +4560,14 @@
       "word": "书卷一梦",
       "onboard_time": 1751769862,
       "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 131785,
+      "num": 131785,
+      "word": "洪亮4连质问李人骏不老实",
+      "onboard_time": 1751940682,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -5083,6 +5099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119682,
+      "num": 119682,
+      "word": "上海一财务挪用公款医美每次30万",
+      "onboard_time": 1751941580,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119537,
       "num": 119537,
       "word": "英雄联盟",
@@ -5273,6 +5297,14 @@
       "onboard_time": 1751781743,
       "rank": 36,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 116604,
+      "num": 149468,
+      "word": "网红孙其康回应孙恩盛无证驾驶",
+      "onboard_time": 1751939241,
+      "rank": 28,
+      "category": "网红"
     },
     {
       "raw_hot": 116493,
@@ -5539,6 +5571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110571,
+      "num": 110571,
+      "word": "为什么大部分家长劝不动自己的孩子",
+      "onboard_time": 1751940502,
+      "rank": 35,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 110444,
       "num": 110444,
       "word": "残疾小狗爬进了残疾小伙的家",
@@ -5619,20 +5659,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109147,
+      "num": 109147,
+      "word": "跑外卖3天吃了15顿",
+      "onboard_time": 1751935943,
+      "rank": 40,
+      "category": "幽默,休闲"
+    },
+    {
       "raw_hot": 108835,
       "num": 108835,
       "word": "住月子中心有必要吗",
       "onboard_time": 1751876963,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 108552,
-      "num": 149468,
-      "word": "网红孙其康回应孙恩盛无证驾驶",
-      "onboard_time": 1751939241,
-      "rank": 28,
-      "category": "网红"
     },
     {
       "raw_hot": 108446,
@@ -5699,6 +5739,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 107236,
+      "num": 107236,
+      "word": "降息后理财猎手接棒存款特种兵",
+      "onboard_time": 1751940442,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 107207,
       "num": 107207,
       "word": "人真的要珍惜单身的时候",
@@ -5713,6 +5761,14 @@
       "onboard_time": 1751872883,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107007,
+      "num": 107007,
+      "word": "习惯性反问到底有多伤人",
+      "onboard_time": 1751940141,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 106811,
@@ -6051,14 +6107,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 101204,
-      "num": 101204,
-      "word": "跑外卖3天吃了15顿",
-      "onboard_time": 1751935943,
-      "rank": 40,
-      "category": "幽默,休闲"
-    },
-    {
       "raw_hot": 101029,
       "num": 101029,
       "word": "夏之光疑似被节目组做局",
@@ -6249,6 +6297,14 @@
       "onboard_time": 1751939722,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 98249,
+      "num": 98249,
+      "word": "美得州洪灾已致104死",
+      "onboard_time": 1751940742,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 97899,
@@ -6555,14 +6611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 85315,
-      "num": 85315,
-      "word": "习惯性反问到底有多伤人",
-      "onboard_time": 1751940141,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 84983,
       "num": 84983,
       "word": "原来跳绳减脂性价比这么高",
@@ -6587,20 +6635,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84860,
+      "num": 84860,
+      "word": "Angelababy孔雀公主",
+      "onboard_time": 1751933242,
+      "rank": 47,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 84607,
       "num": 200218,
       "word": "直播间买盲盒货不对板",
       "onboard_time": 1751789421,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 83964,
-      "num": 83964,
-      "word": "Angelababy孔雀公主",
-      "onboard_time": 1751933242,
-      "rank": 47,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 83447,
@@ -6617,6 +6665,14 @@
       "onboard_time": 1751721985,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 82513,
+      "num": 82513,
+      "word": "AL对战CFO先下一城",
+      "onboard_time": 1751941704,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 81944,
@@ -7299,6 +7355,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 44567,
+      "num": 107115,
+      "word": "王曼昱回应战胜卡尔伯格",
+      "onboard_time": 1751940921,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 44477,
       "num": 149047,
       "word": "曹骏呼吁尽量别接机",
@@ -7360,6 +7424,22 @@
       "word": "江西黄河水",
       "onboard_time": 1751861904,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40618,
+      "num": 219499,
+      "word": "男孩体考猝死学校未配备医护人员",
+      "onboard_time": 1751941100,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40459,
+      "num": 176020,
+      "word": "租车位不给装充电桩男子起诉物业",
+      "onboard_time": 1751941280,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
