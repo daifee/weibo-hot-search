@@ -1,6 +1,6 @@
 {
   "startTime": 1751992486281,
-  "endTime": 1751993437103,
+  "endTime": 1751995481249,
   "band_list": [
     {
       "raw_hot": 1451004,
@@ -43,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 365465,
+      "num": 697513,
+      "word": "妻子去世后丈夫称太痛苦2年没回家",
+      "onboard_time": 1751990608,
+      "rank": 4,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 349317,
       "num": 697718,
       "word": "店员承认用草酸日洗超百斤龙虾",
@@ -83,14 +91,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 275267,
-      "num": 697513,
-      "word": "妻子去世后丈夫称太痛苦2年没回家",
-      "onboard_time": 1751990608,
-      "rank": 4,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 231028,
       "num": 696813,
       "word": "网友住酒店光脚洗澡感染HPV",
@@ -99,7 +99,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 196437,
+      "raw_hot": 203643,
       "num": 697019,
       "word": "白鹿七月最忙碌的一天",
       "onboard_time": 1751991626,
@@ -195,20 +195,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104344,
+      "num": 696343,
+      "word": "台风丹娜丝三次登陆浙江温州",
+      "onboard_time": 1751992823,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102550,
       "num": 692095,
       "word": "十位老兵的抗战故事",
       "onboard_time": 1751975062,
       "rank": 25,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 97308,
-      "num": 696343,
-      "word": "台风丹娜丝三次登陆浙江温州",
-      "onboard_time": 1751992823,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93740,
@@ -249,6 +249,14 @@
       "onboard_time": 1751988989,
       "rank": 32,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 79479,
+      "num": 203536,
+      "word": "黄霄雲 享界",
+      "onboard_time": 1751993660,
+      "rank": 18,
+      "category": "艺人,汽车"
     },
     {
       "raw_hot": 78813,
@@ -299,6 +307,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 74733,
+      "num": 695322,
+      "word": "教育局回应主播称报我名进清北班",
+      "onboard_time": 1751992343,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74083,
+      "num": 689637,
+      "word": "噪声扰民严重直接拘",
+      "onboard_time": 1751991984,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71824,
       "num": 348420,
       "word": "难怪藏海是劳模",
@@ -320,14 +344,6 @@
       "word": "幼儿误吞水宝宝腹中膨胀至乒乓球大",
       "onboard_time": 1751980224,
       "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 68697,
-      "num": 689637,
-      "word": "噪声扰民严重直接拘",
-      "onboard_time": 1751991984,
-      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -403,19 +419,27 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 49362,
-      "num": 695322,
-      "word": "教育局回应主播称报我名进清北班",
-      "onboard_time": 1751992343,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25754,
+      "raw_hot": 43875,
       "num": 694337,
       "word": "教师犯罪刑释后被开除起诉学校被驳回",
       "onboard_time": 1751986891,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40480,
+      "num": 203362,
+      "word": "想一辈子享受小学门口物价",
+      "onboard_time": 1751995038,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 25554,
+      "num": 203450,
+      "word": "男子玩水滑道骨折称同艇游客太重",
+      "onboard_time": 1751994139,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
