@@ -1,6 +1,6 @@
 {
   "startTime": 1751906062153,
-  "endTime": 1751952482700,
+  "endTime": 1751953539109,
   "band_list": [
     {
       "raw_hot": 9289863,
@@ -27,12 +27,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1976268,
-      "num": 1976268,
+      "raw_hot": 2204365,
+      "num": 2204365,
       "word": "王阳 孙菲菲",
       "onboard_time": 1751950582,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2017058,
+      "num": 298890,
+      "word": "天水幼儿园后厨监控视频曝光",
+      "onboard_time": 1751949921,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1783718,
@@ -51,14 +59,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1423640,
-      "num": 289023,
-      "word": "天水幼儿园后厨监控视频曝光",
-      "onboard_time": 1751949921,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1389386,
       "num": 437473,
       "word": "江宁婆婆",
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1382487,
-      "num": 288045,
+      "num": 298051,
       "word": "张靓颖 网红化",
       "onboard_time": 1751950225,
       "rank": 48,
@@ -155,6 +155,22 @@
       "category": "艺人,海外新闻"
     },
     {
+      "raw_hot": 634502,
+      "num": 535050,
+      "word": "27岁真的还很年轻很年轻的",
+      "onboard_time": 1751947883,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 628487,
+      "num": 628487,
+      "word": "林高远2比3罗伯勒斯",
+      "onboard_time": 1751951363,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 567817,
       "num": 567817,
       "word": "Angelababy一出手便是王炸",
@@ -211,28 +227,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 474634,
-      "num": 474634,
-      "word": "林高远2比3罗伯勒斯",
-      "onboard_time": 1751951363,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 473961,
       "num": 284125,
       "word": "南京红老头",
       "onboard_time": 1751899165,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 465073,
-      "num": 465073,
-      "word": "27岁真的还很年轻很年轻的",
-      "onboard_time": 1751947883,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 436809,
@@ -257,6 +257,14 @@
       "onboard_time": 1751941821,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 389220,
+      "num": 292802,
+      "word": "天水调查组通报一幼儿园幼儿血铅异常",
+      "onboard_time": 1751952262,
+      "rank": 28,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 369202,
@@ -289,6 +297,14 @@
       "onboard_time": 1751931020,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 335426,
+      "num": 335426,
+      "word": "张子枫第一个摔出来的角色",
+      "onboard_time": 1751948424,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 334033,
@@ -339,6 +355,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 293556,
+      "num": 293556,
+      "word": "国乒男单四人止步美国大满贯首轮",
+      "onboard_time": 1751937982,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 291930,
       "num": 305043,
       "word": "15岁男生参加体育特长生考试猝死",
@@ -355,8 +379,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 286753,
-      "num": 286753,
+      "raw_hot": 288540,
+      "num": 288540,
       "word": "阿姨收个衣服都能上万步",
       "onboard_time": 1751947043,
       "rank": 26,
@@ -369,6 +393,14 @@
       "onboard_time": 1751902765,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270123,
+      "num": 270123,
+      "word": "天水市长称深感痛心",
+      "onboard_time": 1751951782,
+      "rank": 26,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 267159,
@@ -385,6 +417,22 @@
       "onboard_time": 1751945063,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 264098,
+      "num": 286067,
+      "word": "家长讲述血铅异常幼儿治疗过程",
+      "onboard_time": 1751949083,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 262502,
+      "num": 262502,
+      "word": "以法之名暑期剧档高开疯走",
+      "onboard_time": 1751952141,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 259944,
@@ -425,22 +473,6 @@
       "onboard_time": 1751947643,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 251375,
-      "num": 251375,
-      "word": "张子枫第一个摔出来的角色",
-      "onboard_time": 1751948424,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 248874,
-      "num": 286067,
-      "word": "家长讲述血铅异常幼儿治疗过程",
-      "onboard_time": 1751949083,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 246544,
@@ -491,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 233089,
+      "num": 233089,
+      "word": "天水幼儿铅中毒诊疗方案已制订",
+      "onboard_time": 1751951962,
+      "rank": 31,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 231408,
       "num": 231408,
       "word": "特朗普已签署12封关税信函",
@@ -523,12 +563,28 @@
       "category": "休闲,互联网"
     },
     {
+      "raw_hot": 217896,
+      "num": 217896,
+      "word": "不要全平台取同一个id",
+      "onboard_time": 1751953103,
+      "rank": 22,
+      "category": "幽默,休闲"
+    },
+    {
       "raw_hot": 214506,
       "num": 214506,
       "word": "中方已向印度提出交涉",
       "onboard_time": 1751888182,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 212754,
+      "num": 212754,
+      "word": "增派2名国家级专家落实天水铅中毒救治",
+      "onboard_time": 1751952382,
+      "rank": 35,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 209462,
@@ -539,19 +595,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200691,
+      "num": 299690,
+      "word": "蜜雪冰城用脚关水桶员工道歉",
+      "onboard_time": 1751951842,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196924,
+      "num": 196924,
+      "word": "锦绣芳华",
+      "onboard_time": 1751952202,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196366,
       "num": 196366,
       "word": "杨紫胡歌新剧颠覆性妆造",
       "onboard_time": 1751936303,
       "rank": 17,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 194504,
-      "num": 218621,
-      "word": "以法之名暑期剧档高开疯走",
-      "onboard_time": 1751952141,
-      "rank": 21,
       "category": "剧集"
     },
     {
@@ -577,14 +641,6 @@
       "onboard_time": 1751940502,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 190418,
-      "num": 190418,
-      "word": "天水市长称深感痛心",
-      "onboard_time": 1751951782,
-      "rank": 26,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 188661,
@@ -633,14 +689,6 @@
       "onboard_time": 1751929819,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 177389,
-      "num": 177389,
-      "word": "天水调查组通报一幼儿园幼儿血铅异常",
-      "onboard_time": 1751952262,
-      "rank": 28,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 177096,
@@ -715,6 +763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166305,
+      "num": 166305,
+      "word": "未定事件簿",
+      "onboard_time": 1751953402,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 165740,
       "num": 165740,
       "word": "上海92平米迷你别墅",
@@ -729,22 +785,6 @@
       "onboard_time": 1751950943,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 164090,
-      "num": 164090,
-      "word": "锦绣芳华",
-      "onboard_time": 1751952202,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 162465,
-      "num": 162465,
-      "word": "天水幼儿铅中毒诊疗方案已制订",
-      "onboard_time": 1751951962,
-      "rank": 31,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 162166,
@@ -771,14 +811,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 157935,
-      "num": 157935,
-      "word": "增派2名国家级专家落实天水铅中毒救治",
-      "onboard_time": 1751952382,
-      "rank": 35,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 157172,
       "num": 157172,
       "word": "天水幼儿园",
@@ -787,12 +819,28 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 156621,
+      "num": 156621,
+      "word": "我的二搭cp开始放粮了",
+      "onboard_time": 1751952141,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154831,
       "num": 154831,
       "word": "MSI",
       "onboard_time": 1751938342,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 154620,
+      "num": 290613,
+      "word": "4.9分外卖店用草酸洗虾多日不换水",
+      "onboard_time": 1751952562,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153833,
@@ -809,6 +857,14 @@
       "onboard_time": 1751949265,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 153075,
+      "num": 153075,
+      "word": "张艺凡被风吻过的短发",
+      "onboard_time": 1751952742,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 150950,
@@ -867,6 +923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142724,
+      "num": 142724,
+      "word": "谁家男女主接吻地都是心形",
+      "onboard_time": 1751953402,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141433,
       "num": 141433,
       "word": "小偷逃跑被路过军人一招放倒",
@@ -875,16 +939,8 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 141386,
-      "num": 141386,
-      "word": "我的二搭cp开始放粮了",
-      "onboard_time": 1751952141,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 139848,
-      "num": 199639,
+      "num": 214599,
       "word": "招聘不应对年龄歧视",
       "onboard_time": 1751949563,
       "rank": 26,
@@ -897,6 +953,14 @@
       "onboard_time": 1751944702,
       "rank": 37,
       "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 135287,
+      "num": 135287,
+      "word": "亚马尔抵达中国",
+      "onboard_time": 1751953103,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 135212,
@@ -955,6 +1019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131248,
+      "num": 131248,
+      "word": "从深圳抱28斤冬瓜回香港给女儿解暑",
+      "onboard_time": 1751953043,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129390,
       "num": 149699,
       "word": "游本昌人民日报撰文",
@@ -969,6 +1041,14 @@
       "onboard_time": 1751951482,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128716,
+      "num": 128716,
+      "word": "shanks真成角了",
+      "onboard_time": 1751951064,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 128382,
@@ -993,6 +1073,14 @@
       "onboard_time": 1751942722,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 127128,
+      "num": 127128,
+      "word": "A股爆发半日放量1012亿",
+      "onboard_time": 1751953043,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 125401,
@@ -1049,6 +1137,14 @@
       "onboard_time": 1751942901,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120942,
+      "num": 120942,
+      "word": "大姐月薪3千花6千多学TikTok赚钱",
+      "onboard_time": 1751953282,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119682,
@@ -1307,14 +1403,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 97544,
-      "num": 290596,
-      "word": "蜜雪冰城用脚关水桶员工道歉",
-      "onboard_time": 1751951842,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 94985,
       "num": 94985,
       "word": "人际交往中恶意满满的5句话",
@@ -1387,12 +1475,28 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 82816,
+      "num": 171057,
+      "word": "印度男子徒手拆路抱怨施工质量差",
+      "onboard_time": 1751953282,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 82513,
       "num": 82513,
       "word": "AL对战CFO先下一城",
       "onboard_time": 1751941704,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 81553,
+      "num": 238454,
+      "word": "防晒衣没有黑科技贵的是智商税",
+      "onboard_time": 1751952081,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81489,
@@ -1729,14 +1833,6 @@
       "onboard_time": 1751917993,
       "rank": 15,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 28754,
-      "num": 238454,
-      "word": "防晒衣没有黑科技贵的是智商税",
-      "onboard_time": 1751952081,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27367,

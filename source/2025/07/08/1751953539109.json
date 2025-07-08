@@ -1,0 +1,410 @@
+{
+  "runTime": 1751953539109,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2204365,
+        "num": 2204365,
+        "word": "王阳 孙菲菲",
+        "onboard_time": 1751950582,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 628487,
+        "num": 628487,
+        "word": "林高远2比3罗伯勒斯",
+        "onboard_time": 1751951363,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69905,
+        "num": 538944,
+        "word": "中国制造不断冲击世界眼球",
+        "onboard_time": 1751947162,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 634502,
+        "num": 535050,
+        "word": "27岁真的还很年轻很年轻的",
+        "onboard_time": 1751947883,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 513730,
+        "num": 513730,
+        "word": "轻断食10天瘦了14.5斤",
+        "onboard_time": 1751939842,
+        "rank": 4,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 2274476,
+        "num": 460659,
+        "word": "天水一幼儿园幼儿血铅异常8人被刑拘",
+        "onboard_time": 1751946446,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 587040,
+        "num": 455908,
+        "word": "孙菲菲说为王阳澄清是应王阳要求写的",
+        "onboard_time": 1751947043,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400144,
+        "num": 400144,
+        "word": "蜜雪冰城被曝员工用脚关直饮水桶",
+        "onboard_time": 1751904143,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335426,
+        "num": 335426,
+        "word": "张子枫第一个摔出来的角色",
+        "onboard_time": 1751948424,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200691,
+        "num": 299690,
+        "word": "蜜雪冰城用脚关水桶员工道歉",
+        "onboard_time": 1751951842,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2017058,
+        "num": 298890,
+        "word": "天水幼儿园后厨监控视频曝光",
+        "onboard_time": 1751949921,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1220742,
+        "num": 298051,
+        "word": "张靓颖 网红化",
+        "onboard_time": 1751950225,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 293556,
+        "num": 293556,
+        "word": "国乒男单四人止步美国大满贯首轮",
+        "onboard_time": 1751937982,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 389220,
+        "num": 292802,
+        "word": "天水调查组通报一幼儿园幼儿血铅异常",
+        "onboard_time": 1751952262,
+        "rank": 13,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 154620,
+        "num": 290613,
+        "word": "4.9分外卖店用草酸洗虾多日不换水",
+        "onboard_time": 1751952562,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288540,
+        "num": 288540,
+        "word": "阿姨收个衣服都能上万步",
+        "onboard_time": 1751947043,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 270123,
+        "num": 270123,
+        "word": "天水市长称深感痛心",
+        "onboard_time": 1751951782,
+        "rank": 16,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 264098,
+        "num": 264098,
+        "word": "家长讲述血铅异常幼儿治疗过程",
+        "onboard_time": 1751949083,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262502,
+        "num": 262502,
+        "word": "以法之名暑期剧档高开疯走",
+        "onboard_time": 1751952141,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255449,
+        "num": 255449,
+        "word": "鹿晗送内地任意未开票场次门票一张",
+        "onboard_time": 1751942362,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 251848,
+        "num": 251848,
+        "word": "日本一女星疑家中去世遗体腐烂多日",
+        "onboard_time": 1751942482,
+        "rank": 20,
+        "category": "艺人,海外新闻"
+      },
+      {
+        "raw_hot": 233089,
+        "num": 233089,
+        "word": "天水幼儿铅中毒诊疗方案已制订",
+        "onboard_time": 1751951962,
+        "rank": 21,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 217896,
+        "num": 217896,
+        "word": "不要全平台取同一个id",
+        "onboard_time": 1751953103,
+        "rank": 22,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 88298,
+        "num": 214599,
+        "word": "招聘不应对年龄歧视",
+        "onboard_time": 1751949563,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214499,
+        "num": 214499,
+        "word": "周先旺被查",
+        "onboard_time": 1751945363,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 212754,
+        "num": 212754,
+        "word": "增派2名国家级专家落实天水铅中毒救治",
+        "onboard_time": 1751952382,
+        "rank": 25,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 198997,
+        "num": 198997,
+        "word": "李诗英怀上前夫的二胎",
+        "onboard_time": 1751945783,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196924,
+        "num": 196924,
+        "word": "锦绣芳华",
+        "onboard_time": 1751952202,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173008,
+        "num": 173008,
+        "word": "樱桃琥珀",
+        "onboard_time": 1751941941,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82816,
+        "num": 171057,
+        "word": "印度男子徒手拆路抱怨施工质量差",
+        "onboard_time": 1751953282,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 169878,
+        "num": 169878,
+        "word": "天水幼儿血铅异常食品非法添加物为颜料",
+        "onboard_time": 1751946621,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166305,
+        "num": 166305,
+        "word": "未定事件簿",
+        "onboard_time": 1751953402,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156621,
+        "num": 156621,
+        "word": "我的二搭cp开始放粮了",
+        "onboard_time": 1751952141,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153075,
+        "num": 153075,
+        "word": "张艺凡被风吻过的短发",
+        "onboard_time": 1751952742,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147814,
+        "num": 147814,
+        "word": "熬夜熬到作息正常了",
+        "onboard_time": 1751949265,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147470,
+        "num": 147470,
+        "word": "黄瓜水",
+        "onboard_time": 1751949443,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 143194,
+        "num": 143194,
+        "word": "光遇",
+        "onboard_time": 1751951423,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142724,
+        "num": 142724,
+        "word": "谁家男女主接吻地都是心形",
+        "onboard_time": 1751953402,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138299,
+        "num": 138299,
+        "word": "小米深圳国际总部启用",
+        "onboard_time": 1751951423,
+        "rank": 38,
+        "category": "数码,财经"
+      },
+      {
+        "raw_hot": 135287,
+        "num": 135287,
+        "word": "亚马尔抵达中国",
+        "onboard_time": 1751953103,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135070,
+        "num": 135070,
+        "word": "五月天北京",
+        "onboard_time": 1751950283,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131248,
+        "num": 131248,
+        "word": "从深圳抱28斤冬瓜回香港给女儿解暑",
+        "onboard_time": 1751953043,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128716,
+        "num": 128716,
+        "word": "shanks真成角了",
+        "onboard_time": 1751951064,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127128,
+        "num": 127128,
+        "word": "A股爆发半日放量1012亿",
+        "onboard_time": 1751953043,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 81553,
+        "num": 126489,
+        "word": "防晒衣没有黑科技贵的是智商税",
+        "onboard_time": 1751952081,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126435,
+        "num": 126435,
+        "word": "我这么丑妈妈还是那么爱我",
+        "onboard_time": 1751950943,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124747,
+        "num": 124747,
+        "word": "甘肃天水铅中毒幼儿家长最新发声",
+        "onboard_time": 1751945482,
+        "rank": 46,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 120942,
+        "num": 120942,
+        "word": "大姐月薪3千花6千多学TikTok赚钱",
+        "onboard_time": 1751953282,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120691,
+        "num": 120691,
+        "word": "中国要像手机一样造战斗机",
+        "onboard_time": 1751941821,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 111165,
+        "num": 111165,
+        "word": "林诗栋回应战至决胜局",
+        "onboard_time": 1751950225,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在阳泉考察制造业企业发展#"
+    }
+  }
+}
