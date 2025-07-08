@@ -1,0 +1,410 @@
+{
+  "runTime": 1751982826118,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1140102,
+        "num": 1182416,
+        "word": "一公务员称孕期把工作分给合同工",
+        "onboard_time": 1751976983,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 931742,
+        "num": 931742,
+        "word": "演唱会抢票难度排行榜",
+        "onboard_time": 1751970442,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 22378,
+        "num": 467009,
+        "word": "6组数据看科技创新与制造业加速升级",
+        "onboard_time": 1751981845,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 452073,
+        "num": 452073,
+        "word": "网友住酒店光脚洗澡感染HPV",
+        "onboard_time": 1751980042,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 399765,
+        "num": 399765,
+        "word": "韩父性侵虐待女儿10年获刑3年",
+        "onboard_time": 1751973984,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 452555,
+        "num": 399198,
+        "word": "王青发微博",
+        "onboard_time": 1751963062,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 447925,
+        "num": 395908,
+        "word": "王勇受贿2.71亿余元",
+        "onboard_time": 1751969123,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 392248,
+        "num": 392248,
+        "word": "G社是辛芷蕾的站姐吧",
+        "onboard_time": 1751977163,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349380,
+        "num": 349380,
+        "word": "余承东回应开车睡觉",
+        "onboard_time": 1751980284,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 325879,
+        "num": 325879,
+        "word": "689分高考生一把将快递员父亲扑倒",
+        "onboard_time": 1751980585,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 584207,
+        "num": 323362,
+        "word": "高铁B座",
+        "onboard_time": 1751975423,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 386384,
+        "num": 321042,
+        "word": "梓渝摇",
+        "onboard_time": 1751970742,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314947,
+        "num": 314947,
+        "word": "赵本山女儿球球抑郁症复发",
+        "onboard_time": 1751982507,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99144,
+        "num": 314287,
+        "word": "厦门天雷滚滚下暴雨冰雹了",
+        "onboard_time": 1751976682,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40579,
+        "num": 314266,
+        "word": "文旅局回应职员被指孕期违规请假",
+        "onboard_time": 1751981544,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314266,
+        "num": 314265,
+        "word": "警方通报大三女生和男友双双坠亡",
+        "onboard_time": 1751961801,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304486,
+        "num": 304486,
+        "word": "方媛三胎孕肚",
+        "onboard_time": 1751978302,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298560,
+        "num": 298560,
+        "word": "田栩宁新剧上班路透",
+        "onboard_time": 1751978242,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276179,
+        "num": 276179,
+        "word": "王一博神图",
+        "onboard_time": 1751974101,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195396,
+        "num": 253450,
+        "word": "田栩宁19岁时许愿不要被黑",
+        "onboard_time": 1751981904,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1255700,
+        "num": 242703,
+        "word": "8个小时不换卫生巾有多恐怖",
+        "onboard_time": 1751975122,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 231811,
+        "num": 231811,
+        "word": "以法之名",
+        "onboard_time": 1751975242,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223196,
+        "num": 223196,
+        "word": "曝短剧顶流女演员助理被骂退圈",
+        "onboard_time": 1751981664,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222043,
+        "num": 222043,
+        "word": "女婴因眼睛小被挑剩下盼与父母团圆",
+        "onboard_time": 1751964442,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214717,
+        "num": 214717,
+        "word": "锦绣芳华第12集 离谱",
+        "onboard_time": 1751973563,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194544,
+        "num": 194544,
+        "word": "偶遇金钟大和老婆牵手逛街",
+        "onboard_time": 1751978963,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192081,
+        "num": 192081,
+        "word": "为什么蜜雪冰城永不塌房",
+        "onboard_time": 1751965282,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143764,
+        "num": 174256,
+        "word": "袭榜歌手官宣",
+        "onboard_time": 1751975663,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125655,
+        "num": 172328,
+        "word": "江浙沪艺人图鉴",
+        "onboard_time": 1751979564,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26215,
+        "num": 172123,
+        "word": "有女主播被认定3年多诈骗65万男性",
+        "onboard_time": 1751982085,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172009,
+        "num": 172009,
+        "word": "中国女篮战胜澳大利亚女篮",
+        "onboard_time": 1751982387,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164519,
+        "num": 164519,
+        "word": "幼儿误吞水宝宝腹中膨胀至乒乓球大",
+        "onboard_time": 1751980224,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158401,
+        "num": 158401,
+        "word": "孙颖莎连续霸榜世一156周",
+        "onboard_time": 1751976923,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153115,
+        "num": 153115,
+        "word": "王青闺女",
+        "onboard_time": 1751979983,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152956,
+        "num": 152956,
+        "word": "男子爱炫精致碳水查出癌症之王",
+        "onboard_time": 1751972183,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143905,
+        "num": 143905,
+        "word": "淘宝崩了",
+        "onboard_time": 1751980404,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 139731,
+        "num": 139731,
+        "word": "日本外务省是诋毁张纯如幕后推手",
+        "onboard_time": 1751978242,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136428,
+        "num": 136428,
+        "word": "U16国足vs韩国U16",
+        "onboard_time": 1751979682,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110088,
+        "num": 134720,
+        "word": "涉案标的132499962元法院悬赏超2600万",
+        "onboard_time": 1751982807,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134645,
+        "num": 134645,
+        "word": "翁虹和老公1年见1次",
+        "onboard_time": 1751982326,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128923,
+        "num": 128923,
+        "word": "单位回应公务员称孕期请假工作摆烂",
+        "onboard_time": 1751978242,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127879,
+        "num": 127879,
+        "word": "国防部回应外国船挂五星红旗",
+        "onboard_time": 1751971582,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 127598,
+        "num": 127598,
+        "word": "坐男友车出车祸致截瘫女子发声",
+        "onboard_time": 1751980524,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121874,
+        "num": 121874,
+        "word": "深圳晚霞",
+        "onboard_time": 1751979922,
+        "rank": 43,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 118418,
+        "num": 118418,
+        "word": "日本6比1中国香港",
+        "onboard_time": 1751982266,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115732,
+        "num": 115732,
+        "word": "杨紫捂李现的嘴",
+        "onboard_time": 1751976022,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115629,
+        "num": 115629,
+        "word": "辛芷蕾剪了短发",
+        "onboard_time": 1751978544,
+        "rank": 46,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 114545,
+        "num": 115255,
+        "word": "谁懂沈小婷出现的救赎感",
+        "onboard_time": 1751979863,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114888,
+        "num": 114888,
+        "word": "横店女明星热得命好苦的样子",
+        "onboard_time": 1751962522,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114614,
+        "num": 114614,
+        "word": "蔡依林给一字马上强度了",
+        "onboard_time": 1751982807,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在山西考察#"
+    }
+  }
+}
