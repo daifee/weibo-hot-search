@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/07/08 07:40:19
+本榜单时间：2025/01/01 00:26:38 ~ 2025/07/08 10:04:14
 </p>
 </blockquote>
 <p>
@@ -893,6 +893,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%BD%E7%BE%8E%E7%AB%B9%E9%AA%97%E6%88%9120%E4%B8%87%23" target="weibo">
 都美竹骗我20万（热度：8095208）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E7%BA%A2%E8%80%81%E5%A4%B4%E7%B3%BB38%E5%B2%81%E7%94%B7%E5%AD%90%23" target="weibo">
+南京红老头系38岁男子（热度：8093861）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ GAI第一（热度：4228592）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B8%80%E5%8D%B7%E6%95%B0%E5%AD%A6%E5%A4%A7%E9%A2%98%20%E9%9A%BE%23" target="weibo">
 新一卷数学大题 难（热度：3615870）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%8F%A3%E5%9E%8B%20%E7%9C%8B%E4%B8%8D%E4%BC%9A%E5%BE%97%23" target="weibo">
-王一博口型 看不会得（热度：3603385）
 </a>
 </li>
 
