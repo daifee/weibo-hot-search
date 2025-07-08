@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752003478298,
+  "endTime": 1752006595667,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -28859,19 +28859,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12312,
+      "num": 35107,
+      "word": "孩子们要争做民族的脊梁",
+      "onboard_time": 1752003074,
+      "rank": 11,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 12273,
       "num": 57778,
       "word": "卢沟桥畔奏响义勇军进行曲",
       "onboard_time": 1751927897,
       "rank": 23,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 12243,
-      "num": 35107,
-      "word": "孩子们要争做民族的脊梁",
-      "onboard_time": 1752003074,
-      "rank": 11,
       "category": "国内时政"
     },
     {
