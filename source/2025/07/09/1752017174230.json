@@ -1,0 +1,410 @@
+{
+  "runTime": 1752017174230,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 596208,
+        "num": 824994,
+        "word": "妻子去世后丈夫称太痛苦2年没回家",
+        "onboard_time": 1751990608,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 462276,
+        "num": 462276,
+        "word": "女子连续一周被邻居冒用地址点外卖",
+        "onboard_time": 1752015979,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21564,
+        "num": 373410,
+        "word": "5098张抗战老照片拼成一面墙",
+        "onboard_time": 1751981306,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369745,
+        "num": 369745,
+        "word": "店员承认用草酸日洗超百斤龙虾",
+        "onboard_time": 1751987430,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239560,
+        "num": 239560,
+        "word": "美国一湖泊频现尸体居民怀疑有连环杀手",
+        "onboard_time": 1751995821,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 196859,
+        "num": 196859,
+        "word": "网友住酒店光脚洗澡感染HPV",
+        "onboard_time": 1751980042,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158797,
+        "num": 158797,
+        "word": "驾车碾压同学致死男子称出现幻听",
+        "onboard_time": 1751981664,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138357,
+        "num": 138357,
+        "word": "台风丹娜丝三次登陆浙江温州",
+        "onboard_time": 1751992823,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106656,
+        "num": 136501,
+        "word": "锦绣芳华第12集 离谱",
+        "onboard_time": 1751973563,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90026,
+        "num": 130809,
+        "word": "白鹿七月最忙碌的一天",
+        "onboard_time": 1751991626,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 698578,
+        "num": 127308,
+        "word": "被曝婚内出轨粉丝NPC蓝狐狸被辞退",
+        "onboard_time": 1751988570,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 374971,
+        "num": 125371,
+        "word": "赵本山女儿球球抑郁症复发",
+        "onboard_time": 1751982507,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278814,
+        "num": 121265,
+        "word": "一公务员称孕期把工作分给合同工",
+        "onboard_time": 1751976983,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119377,
+        "num": 119377,
+        "word": "母亲去世后10岁女孩2年没见爸爸",
+        "onboard_time": 1752015919,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227279,
+        "num": 119136,
+        "word": "杨迪回应是不是偷偷do了",
+        "onboard_time": 1751986232,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143393,
+        "num": 119025,
+        "word": "女婴因眼睛小被挑剩下盼与父母团圆",
+        "onboard_time": 1751964442,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134833,
+        "num": 118100,
+        "word": "男子爱炫精致碳水查出癌症之王",
+        "onboard_time": 1751972183,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116873,
+        "num": 116873,
+        "word": "1人非法炼2540公斤猪油涉案1.59万",
+        "onboard_time": 1751987910,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74861,
+        "num": 116871,
+        "word": "演唱会抢票难度排行榜",
+        "onboard_time": 1751970442,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 35052,
+        "num": 116871,
+        "word": "董力晒阿诺和儿子的同框",
+        "onboard_time": 1752013036,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168457,
+        "num": 116871,
+        "word": "警方通报大三女生和男友双双坠亡",
+        "onboard_time": 1751961801,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116871,
+        "num": 116870,
+        "word": "于正 我完全不知情",
+        "onboard_time": 1751984131,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105377,
+        "num": 105377,
+        "word": "余承东因开车看手机去自首了",
+        "onboard_time": 1751983108,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 104418,
+        "num": 104418,
+        "word": "迪丽热巴黑丝绒玫瑰裙",
+        "onboard_time": 1752016700,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 90624,
+        "num": 90624,
+        "word": "方媛三胎孕肚",
+        "onboard_time": 1751978302,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85932,
+        "num": 85932,
+        "word": "幼儿误吞水宝宝腹中膨胀至乒乓球大",
+        "onboard_time": 1751980224,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83186,
+        "num": 83186,
+        "word": "海底捞回应服务员胸前打赏二维码",
+        "onboard_time": 1751983287,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77912,
+        "num": 77912,
+        "word": "噪声扰民严重直接拘",
+        "onboard_time": 1751991984,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50790,
+        "num": 76114,
+        "word": "难怪藏海是劳模",
+        "onboard_time": 1751991562,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39381,
+        "num": 75767,
+        "word": "檀健次演唱会抢票难度地狱档",
+        "onboard_time": 1751993122,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 75753,
+        "num": 75753,
+        "word": "美国一湖泊3年捞出19具尸体",
+        "onboard_time": 1751985871,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 72333,
+        "num": 72333,
+        "word": "高铁B座",
+        "onboard_time": 1751975423,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 68001,
+        "num": 68001,
+        "word": "防止房东不退押金的办法",
+        "onboard_time": 1752017119,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 66381,
+        "num": 66381,
+        "word": "国防部回应外国船挂五星红旗",
+        "onboard_time": 1751971582,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 65861,
+        "num": 65861,
+        "word": "景区回应NPC蓝狐狸被曝婚内出轨粉丝",
+        "onboard_time": 1751991145,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64680,
+        "num": 64680,
+        "word": "王勇受贿2.71亿余元",
+        "onboard_time": 1751969123,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 63817,
+        "num": 63817,
+        "word": "湖南发现4.9亿吨锂矿石",
+        "onboard_time": 1751983707,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63037,
+        "num": 63037,
+        "word": "陈幸同11比0黄怡桦",
+        "onboard_time": 1752017060,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61731,
+        "num": 61731,
+        "word": "曝短剧顶流女演员助理被骂退圈",
+        "onboard_time": 1751981664,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59930,
+        "num": 59930,
+        "word": "新治安管理处罚法专治这些憋屈事",
+        "onboard_time": 1751991984,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56932,
+        "num": 56932,
+        "word": "切尔西晋级世俱杯决赛",
+        "onboard_time": 1752017060,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53666,
+        "num": 56927,
+        "word": "弗鲁米嫩塞vs切尔西",
+        "onboard_time": 1752017060,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50795,
+        "num": 56897,
+        "word": "谈恋爱要从朋友开始",
+        "onboard_time": 1751986891,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 44895,
+        "num": 56888,
+        "word": "余承东自嘲营销水平差距大",
+        "onboard_time": 1751988508,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 44879,
+        "num": 56863,
+        "word": "教师犯罪刑释后被开除起诉学校被驳回",
+        "onboard_time": 1751986891,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44502,
+        "num": 56830,
+        "word": "王一博从时尚秀场聊到了晚饭时间",
+        "onboard_time": 1751988989,
+        "rank": 45,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 41083,
+        "num": 56825,
+        "word": "拖欠家教费老赖欠堂哥8万20年不还",
+        "onboard_time": 1751990487,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39982,
+        "num": 56803,
+        "word": "王楚钦暂定打到洛杉矶奥运",
+        "onboard_time": 1751985332,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39975,
+        "num": 56778,
+        "word": "吴宣仪挂了蓝色labubu",
+        "onboard_time": 1752002475,
+        "rank": 48,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 37908,
+        "num": 56744,
+        "word": "曾毅需遵医嘱休养",
+        "onboard_time": 1752016880,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在山西考察#"
+    }
+  }
+}
