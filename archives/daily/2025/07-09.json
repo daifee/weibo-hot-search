@@ -1,6 +1,6 @@
 {
   "startTime": 1751992486281,
-  "endTime": 1752010835823,
+  "endTime": 1752013577263,
   "band_list": [
     {
       "raw_hot": 1451004,
@@ -203,19 +203,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108776,
+      "num": 696343,
+      "word": "台风丹娜丝三次登陆浙江温州",
+      "onboard_time": 1751992823,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108573,
       "num": 692197,
       "word": "女婴因眼睛小被挑剩下盼与父母团圆",
       "onboard_time": 1751964442,
       "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 104344,
-      "num": 696343,
-      "word": "台风丹娜丝三次登陆浙江温州",
-      "onboard_time": 1751992823,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -395,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60285,
+      "num": 689069,
+      "word": "新治安管理处罚法专治这些憋屈事",
+      "onboard_time": 1751991984,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59996,
       "num": 347782,
       "word": "以法之名最大秘密浮出水面",
@@ -419,14 +427,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 54000,
-      "num": 689069,
-      "word": "新治安管理处罚法专治这些憋屈事",
-      "onboard_time": 1751991984,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43875,
       "num": 694337,
       "word": "教师犯罪刑释后被开除起诉学校被驳回",
@@ -441,6 +441,14 @@
       "onboard_time": 1751995038,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 29086,
+      "num": 62071,
+      "word": "王楚钦暂定打到洛杉矶奥运",
+      "onboard_time": 1751985332,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 27548,
@@ -475,6 +483,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 23819,
+      "num": 38573,
+      "word": "巴黎偶遇周杰伦昆凌吃面",
+      "onboard_time": 1752008474,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 23039,
+      "num": 38572,
+      "word": "2025世俱杯",
+      "onboard_time": 1752003194,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 21120,
       "num": 62104,
       "word": "法修散打",
@@ -499,20 +523,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19849,
-      "num": 62071,
-      "word": "王楚钦暂定打到洛杉矶奥运",
-      "onboard_time": 1751985332,
+      "raw_hot": 18292,
+      "num": 38561,
+      "word": "董力晒阿诺和儿子的同框",
+      "onboard_time": 1752013036,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 19805,
-      "num": 34000,
-      "word": "2025世俱杯",
-      "onboard_time": 1752003194,
-      "rank": 41,
-      "category": "体育"
+      "category": "艺人"
     },
     {
       "raw_hot": 16876,
@@ -539,7 +555,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 11882,
+      "raw_hot": 12280,
       "num": 177808,
       "word": "5098张抗战老照片拼成一面墙",
       "onboard_time": 1751981306,

@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752010835823,
+  "endTime": 1752013577263,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -21139,6 +21139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108776,
+      "num": 696343,
+      "word": "台风丹娜丝三次登陆浙江温州",
+      "onboard_time": 1751992823,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108655,
       "num": 108655,
       "word": "小黄豆直播回应",
@@ -21809,14 +21817,6 @@
       "onboard_time": 1751584519,
       "rank": 43,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 104344,
-      "num": 696343,
-      "word": "台风丹娜丝三次登陆浙江温州",
-      "onboard_time": 1751992823,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 104313,
@@ -25507,6 +25507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60285,
+      "num": 689069,
+      "word": "新治安管理处罚法专治这些憋屈事",
+      "onboard_time": 1751991984,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60241,
       "num": 60241,
       "word": "MKOI对战BLG",
@@ -25905,14 +25913,6 @@
       "onboard_time": 1751960482,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 54000,
-      "num": 689069,
-      "word": "新治安管理处罚法专治这些憋屈事",
-      "onboard_time": 1751991984,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 53715,
@@ -28027,6 +28027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 23819,
+      "num": 38573,
+      "word": "巴黎偶遇周杰伦昆凌吃面",
+      "onboard_time": 1752008474,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 23807,
       "num": 112640,
       "word": "钟意川剧变脸",
@@ -28096,6 +28104,14 @@
       "word": "苏超热梗挑战赛",
       "onboard_time": 1751602883,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 23039,
+      "num": 38572,
+      "word": "2025世俱杯",
+      "onboard_time": 1752003194,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -28347,14 +28363,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 19805,
-      "num": 34000,
-      "word": "2025世俱杯",
-      "onboard_time": 1752003194,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 19762,
       "num": 171391,
       "word": "新旧国标交替近期不建议囤卫生巾",
@@ -28441,6 +28449,14 @@
       "onboard_time": 1751916914,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18292,
+      "num": 38561,
+      "word": "董力晒阿诺和儿子的同框",
+      "onboard_time": 1752013036,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 18279,
