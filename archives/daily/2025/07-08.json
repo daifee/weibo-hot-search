@@ -1,6 +1,6 @@
 {
   "startTime": 1751906062153,
-  "endTime": 1751941717408,
+  "endTime": 1751945934168,
   "band_list": [
     {
       "raw_hot": 9289863,
@@ -35,6 +35,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1365918,
+      "num": 2119225,
+      "word": "轻断食10天瘦了14.5斤",
+      "onboard_time": 1751939842,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 1208244,
       "num": 316346,
       "word": "鹿晗关晓彤同城零互动",
@@ -67,6 +75,38 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 742663,
+      "num": 742663,
+      "word": "日本一女星疑家中去世遗体腐烂多日",
+      "onboard_time": 1751942482,
+      "rank": 1,
+      "category": "艺人,海外新闻"
+    },
+    {
+      "raw_hot": 738999,
+      "num": 738999,
+      "word": "樱桃琥珀",
+      "onboard_time": 1751941941,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 730711,
+      "num": 730711,
+      "word": "鹿晗送内地任意未开票场次门票一张",
+      "onboard_time": 1751942362,
+      "rank": 4,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 650827,
+      "num": 650827,
+      "word": "天水多名老师血铅也严重超标",
+      "onboard_time": 1751942962,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 567817,
       "num": 567817,
       "word": "Angelababy一出手便是王炸",
@@ -81,6 +121,14 @@
       "onboard_time": 1751900543,
       "rank": 23,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 559320,
+      "num": 559320,
+      "word": "教体局通报15岁男孩考试后离世",
+      "onboard_time": 1751939302,
+      "rank": 31,
+      "category": "辟谣/通报,教育"
     },
     {
       "raw_hot": 522457,
@@ -99,20 +147,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 503241,
-      "num": 2119225,
-      "word": "轻断食10天瘦了14.5斤",
-      "onboard_time": 1751939842,
-      "rank": 30,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 473961,
       "num": 284125,
       "word": "南京红老头",
       "onboard_time": 1751899165,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 441059,
+      "num": 441059,
+      "word": "国乒男单三人止步美国大满贯首轮",
+      "onboard_time": 1751937982,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 436809,
@@ -131,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 397039,
+      "num": 397039,
+      "word": "周先旺被查",
+      "onboard_time": 1751945363,
+      "rank": 10,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 368028,
       "num": 368028,
       "word": "爱泼斯坦去世当晚牢房区域视频公开",
@@ -147,20 +203,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 358223,
-      "num": 358223,
-      "word": "教体局通报15岁男孩考试后离世",
-      "onboard_time": 1751939302,
-      "rank": 31,
-      "category": "辟谣/通报,教育"
-    },
-    {
       "raw_hot": 353157,
       "num": 353157,
       "word": "特朗普宣布征收日韩25%关税",
       "onboard_time": 1751931020,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 346171,
+      "num": 410597,
+      "word": "中国要像手机一样造战斗机",
+      "onboard_time": 1751941821,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 334033,
+      "num": 334033,
+      "word": "偶遇鹿晗高瀚宇黄新淳逛街",
+      "onboard_time": 1751939361,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 324975,
@@ -187,14 +251,6 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 301728,
-      "num": 301728,
-      "word": "国乒男单三人止步美国大满贯首轮",
-      "onboard_time": 1751937982,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 291930,
       "num": 305043,
       "word": "15岁男生参加体育特长生考试猝死",
@@ -211,20 +267,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 283744,
-      "num": 310685,
-      "word": "偶遇鹿晗高瀚宇黄新淳逛街",
-      "onboard_time": 1751939361,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 277890,
       "num": 277890,
       "word": "葛荟婕自曝做了戒酒手术",
       "onboard_time": 1751902765,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 276304,
+      "num": 160188,
+      "word": "李诗英怀上前夫的二胎",
+      "onboard_time": 1751945783,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 273349,
+      "num": 273349,
+      "word": "梓渝说是嘛谢谢你呀青春制作人",
+      "onboard_time": 1751943621,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 267159,
@@ -267,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234584,
+      "num": 234584,
+      "word": "鲁A的哥打表去拉萨乘客是两名研究生",
+      "onboard_time": 1751943081,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 231408,
       "num": 231408,
       "word": "特朗普已签署12封关税信函",
@@ -283,11 +355,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 230044,
+      "num": 230044,
+      "word": "铅中毒",
+      "onboard_time": 1751943382,
+      "rank": 23,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 229930,
       "num": 317002,
       "word": "田栩宁好六路透",
       "onboard_time": 1751932041,
       "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 224769,
+      "num": 224769,
+      "word": "微笑一号店线下人气",
+      "onboard_time": 1751945120,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -315,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191535,
+      "num": 191535,
+      "word": "济南出租车惊现318川藏线",
+      "onboard_time": 1751940502,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188661,
       "num": 188661,
       "word": "特朗普延长所谓对等关税暂缓期",
@@ -329,6 +425,14 @@
       "onboard_time": 1751902223,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 180056,
+      "num": 180056,
+      "word": "利剑玫瑰",
+      "onboard_time": 1751943621,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 179017,
@@ -355,6 +459,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 175746,
+      "num": 175746,
+      "word": "罗马仕不少中层也加入维权",
+      "onboard_time": 1751941881,
+      "rank": 27,
+      "category": "民生新闻,数码"
+    },
+    {
       "raw_hot": 174690,
       "num": 174690,
       "word": "2万枚污损硬币遭银行拒绝兑换",
@@ -379,12 +491,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167093,
+      "num": 167093,
+      "word": "朝雪录",
+      "onboard_time": 1751943142,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 162166,
+      "num": 275825,
+      "word": "35岁开场而已",
+      "onboard_time": 1751942962,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 154831,
       "num": 154831,
       "word": "MSI",
       "onboard_time": 1751938342,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 153338,
+      "num": 153338,
+      "word": "电影长安的荔枝点映开启",
+      "onboard_time": 1751945063,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 153016,
+      "num": 153016,
+      "word": "李艾肠胃炎腰细了四公分",
+      "onboard_time": 1751942122,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 150950,
@@ -427,12 +571,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 138029,
-      "num": 138029,
-      "word": "济南出租车惊现318川藏线",
-      "onboard_time": 1751940502,
-      "rank": 24,
-      "category": "民生新闻"
+      "raw_hot": 141433,
+      "num": 141433,
+      "word": "小偷逃跑被路过军人一招放倒",
+      "onboard_time": 1751943022,
+      "rank": 36,
+      "category": "正能量"
     },
     {
       "raw_hot": 134451,
@@ -483,12 +627,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127257,
+      "num": 127257,
+      "word": "国行苹果AI凉了吗",
+      "onboard_time": 1751944702,
+      "rank": 37,
+      "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 126949,
+      "num": 126949,
+      "word": "上海92平米迷你别墅",
+      "onboard_time": 1751945603,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 124630,
+      "num": 124630,
+      "word": "原来古人是这么认识中药的",
+      "onboard_time": 1751944402,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124288,
       "num": 124288,
       "word": "热射病的前兆",
       "onboard_time": 1751889022,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 121514,
+      "num": 121514,
+      "word": "关晓彤吴磊等谈从游本昌身上学到的",
+      "onboard_time": 1751941941,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 119682,
@@ -529,6 +705,14 @@
       "onboard_time": 1751939241,
       "rank": 28,
       "category": "网红"
+    },
+    {
+      "raw_hot": 113798,
+      "num": 113798,
+      "word": "沈腾马丽这辈子我再信你一回",
+      "onboard_time": 1751942901,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 113355,
@@ -627,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103888,
+      "num": 103888,
+      "word": "向鹏晋级美国大满贯32强",
+      "onboard_time": 1751945722,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103723,
       "num": 167882,
       "word": "书卷一梦是he我们有救了",
@@ -641,6 +833,22 @@
       "onboard_time": 1751936123,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 100105,
+      "num": 100105,
+      "word": "王俊凯真的把粉丝养得很好",
+      "onboard_time": 1751943742,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 99800,
+      "num": 99800,
+      "word": "花花锁定谭爷爷只需要一块果果",
+      "onboard_time": 1751942122,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99546,
@@ -721,6 +929,14 @@
       "onboard_time": 1751900485,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 85738,
+      "num": 125422,
+      "word": "AL对战CFO翻中翻",
+      "onboard_time": 1751942722,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 84983,
@@ -811,6 +1027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74262,
+      "num": 274314,
+      "word": "小鬼王琳凯直播洛杉矶日落",
+      "onboard_time": 1751944763,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 73321,
       "num": 73321,
       "word": "王源林俊杰演唱会上厕所失败",
@@ -849,6 +1073,14 @@
       "onboard_time": 1751907677,
       "rank": 14,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 68344,
+      "num": 273620,
+      "word": "载中国旅行团巴士在新西兰侧翻",
+      "onboard_time": 1751944882,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68194,
@@ -971,6 +1203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43108,
+      "num": 304676,
+      "word": "甘肃天水铅中毒幼儿家长最新发声",
+      "onboard_time": 1751945482,
+      "rank": 13,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 40618,
       "num": 219499,
       "word": "男孩体考猝死学校未配备医护人员",
@@ -1000,6 +1240,14 @@
       "word": "山姆客服回应2公斤冰块卖22.8元",
       "onboard_time": 1751909478,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31565,
+      "num": 304633,
+      "word": "父亲去世男子叫民营救护车被索要红包",
+      "onboard_time": 1751945482,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
