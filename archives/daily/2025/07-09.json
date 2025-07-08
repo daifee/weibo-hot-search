@@ -1,6 +1,6 @@
 {
   "startTime": 1751992486281,
-  "endTime": 1752013577263,
+  "endTime": 1752014665232,
   "band_list": [
     {
       "raw_hot": 1451004,
@@ -27,6 +27,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 417353,
+      "num": 697513,
+      "word": "妻子去世后丈夫称太痛苦2年没回家",
+      "onboard_time": 1751990608,
+      "rank": 4,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 385848,
       "num": 695676,
       "word": "梓渝摇",
@@ -41,14 +49,6 @@
       "onboard_time": 1751983287,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 365465,
-      "num": 697513,
-      "word": "妻子去世后丈夫称太痛苦2年没回家",
-      "onboard_time": 1751990608,
-      "rank": 4,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 349317,
@@ -99,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 230456,
+      "num": 694679,
+      "word": "赵本山女儿球球抑郁症复发",
+      "onboard_time": 1751982507,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203643,
       "num": 697019,
       "word": "白鹿七月最忙碌的一天",
@@ -107,20 +115,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 187791,
-      "num": 694679,
-      "word": "赵本山女儿球球抑郁症复发",
-      "onboard_time": 1751982507,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 186273,
       "num": 696686,
       "word": "余承东因开车看手机去自首了",
       "onboard_time": 1751983108,
       "rank": 6,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 160515,
+      "num": 172038,
+      "word": "美国一湖泊频现尸体居民怀疑有连环杀手",
+      "onboard_time": 1751995821,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 154166,
@@ -155,12 +163,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 131470,
-      "num": 172038,
-      "word": "美国一湖泊频现尸体居民怀疑有连环杀手",
-      "onboard_time": 1751995821,
-      "rank": 42,
-      "category": "海外新闻"
+      "raw_hot": 127601,
+      "num": 696343,
+      "word": "台风丹娜丝三次登陆浙江温州",
+      "onboard_time": 1751992823,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127195,
@@ -201,14 +209,6 @@
       "onboard_time": 1751979983,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 108776,
-      "num": 696343,
-      "word": "台风丹娜丝三次登陆浙江温州",
-      "onboard_time": 1751992823,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 108573,
@@ -355,6 +355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70070,
+      "num": 689069,
+      "word": "新治安管理处罚法专治这些憋屈事",
+      "onboard_time": 1751991984,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68674,
       "num": 689308,
       "word": "余承东自嘲营销水平差距大",
@@ -392,14 +400,6 @@
       "word": "厦门天雷滚滚下暴雨冰雹了",
       "onboard_time": 1751976682,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 60285,
-      "num": 689069,
-      "word": "新治安管理处罚法专治这些憋屈事",
-      "onboard_time": 1751991984,
-      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -443,12 +443,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 29086,
+      "raw_hot": 32681,
       "num": 62071,
       "word": "王楚钦暂定打到洛杉矶奥运",
       "onboard_time": 1751985332,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30401,
+      "num": 55505,
+      "word": "巴黎偶遇周杰伦昆凌吃面",
+      "onboard_time": 1752008474,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 30240,
+      "num": 55481,
+      "word": "董力晒阿诺和儿子的同框",
+      "onboard_time": 1752013036,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 27548,
@@ -480,14 +496,6 @@
       "word": "翁虹回应女儿是否出道",
       "onboard_time": 1751996837,
       "rank": 33,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 23819,
-      "num": 38573,
-      "word": "巴黎偶遇周杰伦昆凌吃面",
-      "onboard_time": 1752008474,
-      "rank": 41,
       "category": "艺人"
     },
     {
@@ -523,12 +531,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 18292,
-      "num": 38561,
-      "word": "董力晒阿诺和儿子的同框",
-      "onboard_time": 1752013036,
-      "rank": 49,
-      "category": "艺人"
+      "raw_hot": 19421,
+      "num": 55315,
+      "word": "吴宣仪挂了蓝色labubu",
+      "onboard_time": 1752002475,
+      "rank": 45,
+      "category": "艺人,休闲"
     },
     {
       "raw_hot": 16876,
@@ -539,12 +547,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 15502,
-      "num": 35112,
-      "word": "吴宣仪挂了蓝色labubu",
-      "onboard_time": 1752002475,
-      "rank": 45,
-      "category": "艺人,休闲"
+      "raw_hot": 13336,
+      "num": 183428,
+      "word": "5098张抗战老照片拼成一面墙",
+      "onboard_time": 1751981306,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12312,
@@ -553,14 +561,6 @@
       "onboard_time": 1752003074,
       "rank": 11,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 12280,
-      "num": 177808,
-      "word": "5098张抗战老照片拼成一面墙",
-      "onboard_time": 1751981306,
-      "rank": 2,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
