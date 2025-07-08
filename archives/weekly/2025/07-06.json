@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751957588944,
+  "endTime": 1751959641254,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 1382487,
-      "num": 299487,
+      "num": 348099,
       "word": "张靓颖 网红化",
       "onboard_time": 1751950225,
       "rank": 48,
@@ -625,6 +625,14 @@
       "onboard_time": 1751788703,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 870007,
+      "num": 870007,
+      "word": "大姐月薪3千花6千多学TikTok赚钱",
+      "onboard_time": 1751953282,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 870004,
@@ -1203,6 +1211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 506176,
+      "num": 365500,
+      "word": "锦绣芳华",
+      "onboard_time": 1751800405,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 503225,
       "num": 503225,
       "word": "明德物业回应青岛大学宿管离世",
@@ -1257,6 +1273,14 @@
       "onboard_time": 1751945783,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 471537,
+      "num": 361913,
+      "word": "鹿晗就这么水灵灵的喊了宝贝",
+      "onboard_time": 1751954241,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 460487,
@@ -1433,14 +1457,6 @@
       "onboard_time": 1751733262,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 417375,
-      "num": 417375,
-      "word": "大姐月薪3千花6千多学TikTok赚钱",
-      "onboard_time": 1751953282,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 414967,
@@ -1731,6 +1747,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 342814,
+      "num": 342814,
+      "word": "外网评的最帅95生",
+      "onboard_time": 1751959041,
+      "rank": 11,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 341783,
       "num": 453004,
       "word": "律师解读未付款刮中100万算谁的",
@@ -1785,6 +1809,14 @@
       "onboard_time": 1751948424,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 334629,
+      "num": 334629,
+      "word": "以为是真父子结果是真的演父子",
+      "onboard_time": 1751956342,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 334573,
@@ -1995,14 +2027,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 305886,
-      "num": 305886,
-      "word": "以为是真父子结果是真的演父子",
-      "onboard_time": 1751956342,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 305213,
       "num": 305213,
       "word": "山东考公人拒绝不了的电视剧来了",
@@ -2153,14 +2177,6 @@
       "onboard_time": 1751866283,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 275448,
-      "num": 275448,
-      "word": "鹿晗就这么水灵灵的喊了宝贝",
-      "onboard_time": 1751954241,
-      "rank": 13,
-      "category": "演出"
     },
     {
       "raw_hot": 274617,
@@ -2345,6 +2361,14 @@
       "onboard_time": 1751877922,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 263634,
+      "num": 204771,
+      "word": "锦绣芳华直播",
+      "onboard_time": 1751955503,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 262502,
@@ -2539,6 +2563,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 247303,
+      "num": 187950,
+      "word": "杨紫李现追剧团上班路透",
+      "onboard_time": 1751957182,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 246544,
       "num": 246544,
       "word": "刘宇宁说迪丽热巴网速比5G还快",
@@ -2592,14 +2624,6 @@
       "word": "书卷一梦是he我们有救了",
       "onboard_time": 1751895624,
       "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 239687,
-      "num": 239687,
-      "word": "锦绣芳华",
-      "onboard_time": 1751800405,
-      "rank": 26,
       "category": "剧集"
     },
     {
@@ -2673,6 +2697,14 @@
       "onboard_time": 1751760861,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 235025,
+      "num": 179334,
+      "word": "歌手",
+      "onboard_time": 1751956942,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 234584,
@@ -2817,6 +2849,14 @@
       "onboard_time": 1751800405,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 225005,
+      "num": 169332,
+      "word": "锦绣芳华恭喜花财直播局",
+      "onboard_time": 1751959522,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 224677,
@@ -3083,12 +3123,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 204771,
-      "num": 204771,
-      "word": "锦绣芳华直播",
-      "onboard_time": 1751955503,
-      "rank": 21,
-      "category": "剧集"
+      "raw_hot": 203795,
+      "num": 166596,
+      "word": "梓渝美谈",
+      "onboard_time": 1751957423,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 203683,
@@ -3275,6 +3315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197311,
+      "num": 197311,
+      "word": "东部战区陆军海训现场",
+      "onboard_time": 1751956822,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 197305,
       "num": 163490,
       "word": "律师称幼童躺街上被碾司机不会免责",
@@ -3337,6 +3385,14 @@
       "onboard_time": 1751771482,
       "rank": 23,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 195416,
+      "num": 171851,
+      "word": "黄誉博否认黄子韬是自己嘉宾",
+      "onboard_time": 1751959282,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 195068,
@@ -3496,14 +3552,6 @@
       "word": "锦绣芳华断更",
       "onboard_time": 1751884222,
       "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 187950,
-      "num": 187950,
-      "word": "杨紫李现追剧团上班路透",
-      "onboard_time": 1751957182,
-      "rank": 21,
       "category": "剧集"
     },
     {
@@ -3667,12 +3715,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 179334,
-      "num": 179334,
-      "word": "歌手",
-      "onboard_time": 1751956942,
-      "rank": 22,
-      "category": "综艺"
+      "raw_hot": 179478,
+      "num": 179478,
+      "word": "乳霜纸",
+      "onboard_time": 1751957182,
+      "rank": 46,
+      "category": "休闲"
     },
     {
       "raw_hot": 179017,
@@ -3995,6 +4043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166696,
+      "num": 166696,
+      "word": "孙颖莎王曼昱vs迪亚兹帕瓦德",
+      "onboard_time": 1751957782,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166647,
       "num": 166647,
       "word": "书卷一梦女主人设",
@@ -4009,6 +4065,14 @@
       "onboard_time": 1751779641,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166378,
+      "num": 166378,
+      "word": "李一桐不愧是干过幼师的",
+      "onboard_time": 1751958741,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 166305,
@@ -4089,6 +4153,14 @@
       "onboard_time": 1751777242,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 163036,
+      "num": 245170,
+      "word": "上汽奥迪A5L现已到店",
+      "onboard_time": 1751955322,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 162932,
@@ -4249,6 +4321,14 @@
       "onboard_time": 1751893883,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158190,
+      "num": 158190,
+      "word": "尽量不要给手机整夜充电",
+      "onboard_time": 1751718142,
+      "rank": 26,
+      "category": "科学科普"
     },
     {
       "raw_hot": 158116,
@@ -4489,14 +4569,6 @@
       "onboard_time": 1751811503,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 151355,
-      "num": 245170,
-      "word": "上汽奥迪A5L现已到店",
-      "onboard_time": 1751955322,
-      "rank": 17,
-      "category": "汽车"
     },
     {
       "raw_hot": 150950,
@@ -4795,6 +4867,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 144183,
+      "num": 144183,
+      "word": "郑恺苗苗挽手看电影",
+      "onboard_time": 1751958322,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144123,
       "num": 144123,
       "word": "yushi好帅",
@@ -4939,6 +5019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139194,
+      "num": 139194,
+      "word": "张杰说身体只是一个躯壳而已",
+      "onboard_time": 1751959041,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138790,
       "num": 138790,
       "word": "航母守护灯火里的祖国看不够的美",
@@ -5017,6 +5105,14 @@
       "onboard_time": 1751813364,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 136861,
+      "num": 136861,
+      "word": "中尼边境泥石流我国一侧11人失联",
+      "onboard_time": 1751957901,
+      "rank": 35,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 136824,
@@ -5499,6 +5595,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 126986,
+      "num": 126986,
+      "word": "甲亢哥还在用华为",
+      "onboard_time": 1751958082,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126956,
       "num": 126956,
       "word": "陈梦奥运备战高烧失声",
@@ -5563,6 +5667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125952,
+      "num": 125952,
+      "word": "黄誉博300秒跳完全网所有摇",
+      "onboard_time": 1751958203,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 125796,
       "num": 125796,
       "word": "英媒称伊导弹击中以5处军事设施",
@@ -5601,6 +5713,14 @@
       "onboard_time": 1751942122,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125143,
+      "num": 167407,
+      "word": "头一次看剧窝囊了23集",
+      "onboard_time": 1751957302,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 125127,
@@ -5755,20 +5875,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122045,
+      "num": 122045,
+      "word": "刘宇宁气极反笑表演层次感",
+      "onboard_time": 1751958382,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121973,
       "num": 121973,
       "word": "壶口瀑布再现90版50元人民币壮阔景象",
       "onboard_time": 1751854043,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 121905,
-      "num": 121905,
-      "word": "头一次看剧窝囊了23集",
-      "onboard_time": 1751957302,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 121887,
@@ -5801,6 +5921,14 @@
       "onboard_time": 1751941941,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121498,
+      "num": 284821,
+      "word": "babycare纸尿裤再现黑色异物",
+      "onboard_time": 1751956282,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121342,
@@ -5841,14 +5969,6 @@
       "onboard_time": 1751779341,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 120438,
-      "num": 120438,
-      "word": "东部战区陆军海训现场",
-      "onboard_time": 1751956822,
-      "rank": 36,
-      "category": "国内时政"
     },
     {
       "raw_hot": 120086,
@@ -5929,14 +6049,6 @@
       "onboard_time": 1751887222,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 119198,
-      "num": 119198,
-      "word": "尽量不要给手机整夜充电",
-      "onboard_time": 1751718142,
-      "rank": 26,
-      "category": "科学科普"
     },
     {
       "raw_hot": 119127,
@@ -6387,6 +6499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111810,
+      "num": 349457,
+      "word": "骗子借一张帅哥照骗走女子50万元",
+      "onboard_time": 1751958681,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111385,
       "num": 111385,
       "word": "你越是放松结果往往越好",
@@ -6497,14 +6617,6 @@
       "onboard_time": 1751719222,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 109699,
-      "num": 109699,
-      "word": "梓渝美谈",
-      "onboard_time": 1751957423,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 109455,
@@ -6665,6 +6777,14 @@
       "onboard_time": 1751803585,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 106789,
+      "num": 106789,
+      "word": "为什么7月面试机会突然变少了",
+      "onboard_time": 1751959462,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 106766,
@@ -7121,14 +7241,6 @@
       "onboard_time": 1751771062,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 99667,
-      "num": 99667,
-      "word": "乳霜纸",
-      "onboard_time": 1751957182,
-      "rank": 46,
-      "category": "休闲"
     },
     {
       "raw_hot": 99639,
@@ -7819,14 +7931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 74306,
-      "num": 284821,
-      "word": "babycare纸尿裤再现黑色异物",
-      "onboard_time": 1751956282,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 74269,
       "num": 74269,
       "word": "现在的农村喜宴越来越高级了",
@@ -8025,6 +8129,14 @@
       "onboard_time": 1751721264,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 66070,
+      "num": 122069,
+      "word": "AL晋级MSI四强",
+      "onboard_time": 1751955922,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 65378,
@@ -8683,6 +8795,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 30170,
+      "num": 166470,
+      "word": "蜜雪用脚关桶员工已离职",
+      "onboard_time": 1751959282,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30018,
       "num": 34693,
       "word": "朱志鑫线下活动人气",
@@ -8769,6 +8889,14 @@
       "onboard_time": 1751827095,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 26980,
+      "num": 178956,
+      "word": "教育局回应学校后厨用扫把清理厨具",
+      "onboard_time": 1751959282,
+      "rank": 19,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 26670,

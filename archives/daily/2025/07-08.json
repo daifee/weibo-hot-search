@@ -1,6 +1,6 @@
 {
   "startTime": 1751906062153,
-  "endTime": 1751957588944,
+  "endTime": 1751959641254,
   "band_list": [
     {
       "raw_hot": 9289863,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1382487,
-      "num": 299487,
+      "num": 348099,
       "word": "张靓颖 网红化",
       "onboard_time": 1751950225,
       "rank": 48,
@@ -113,6 +113,14 @@
       "onboard_time": 1751942362,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 870007,
+      "num": 870007,
+      "word": "大姐月薪3千花6千多学TikTok赚钱",
+      "onboard_time": 1751953282,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 870004,
@@ -243,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 506176,
+      "num": 365500,
+      "word": "锦绣芳华",
+      "onboard_time": 1751952202,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 475660,
       "num": 475660,
       "word": "李诗英怀上前夫的二胎",
@@ -259,19 +275,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 471537,
+      "num": 361913,
+      "word": "鹿晗就这么水灵灵的喊了宝贝",
+      "onboard_time": 1751954241,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 436809,
       "num": 436809,
       "word": "女子6年挪用公司1700万炫富挥霍",
       "onboard_time": 1751938943,
       "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 417375,
-      "num": 417375,
-      "word": "大姐月薪3千花6千多学TikTok赚钱",
-      "onboard_time": 1751953282,
-      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -339,12 +355,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 342814,
+      "num": 342814,
+      "word": "外网评的最帅95生",
+      "onboard_time": 1751959041,
+      "rank": 11,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 335426,
       "num": 335426,
       "word": "张子枫第一个摔出来的角色",
       "onboard_time": 1751948424,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 334629,
+      "num": 334629,
+      "word": "以为是真父子结果是真的演父子",
+      "onboard_time": 1751956342,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 334033,
@@ -395,14 +427,6 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 305886,
-      "num": 305886,
-      "word": "以为是真父子结果是真的演父子",
-      "onboard_time": 1751956342,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 303676,
       "num": 273768,
       "word": "英雄联盟 王俊凯",
@@ -443,14 +467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 275448,
-      "num": 275448,
-      "word": "鹿晗就这么水灵灵的喊了宝贝",
-      "onboard_time": 1751954241,
-      "rank": 13,
-      "category": "演出"
-    },
-    {
       "raw_hot": 270123,
       "num": 270123,
       "word": "天水市长称深感痛心",
@@ -481,6 +497,14 @@
       "onboard_time": 1751949083,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 263634,
+      "num": 204771,
+      "word": "锦绣芳华直播",
+      "onboard_time": 1751955503,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 262502,
@@ -531,20 +555,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 247303,
+      "num": 187950,
+      "word": "杨紫李现追剧团上班路透",
+      "onboard_time": 1751957182,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 246544,
       "num": 246544,
       "word": "刘宇宁说迪丽热巴网速比5G还快",
       "onboard_time": 1751947583,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 239687,
-      "num": 239687,
-      "word": "锦绣芳华",
-      "onboard_time": 1751952202,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 238608,
@@ -576,6 +600,14 @@
       "word": "微笑一号店线下人气",
       "onboard_time": 1751945120,
       "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 235025,
+      "num": 179334,
+      "word": "歌手",
+      "onboard_time": 1751956942,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -627,6 +659,14 @@
       "category": "休闲,互联网"
     },
     {
+      "raw_hot": 225005,
+      "num": 169332,
+      "word": "锦绣芳华恭喜花财直播局",
+      "onboard_time": 1751959522,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214506,
       "num": 214506,
       "word": "中方已向印度提出交涉",
@@ -651,12 +691,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 204771,
-      "num": 204771,
-      "word": "锦绣芳华直播",
-      "onboard_time": 1751955503,
-      "rank": 21,
-      "category": "剧集"
+      "raw_hot": 203795,
+      "num": 166596,
+      "word": "梓渝美谈",
+      "onboard_time": 1751957423,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 200691,
@@ -667,12 +707,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 197311,
+      "num": 197311,
+      "word": "东部战区陆军海训现场",
+      "onboard_time": 1751956822,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 196366,
       "num": 196366,
       "word": "杨紫胡歌新剧颠覆性妆造",
       "onboard_time": 1751936303,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195416,
+      "num": 171851,
+      "word": "黄誉博否认黄子韬是自己嘉宾",
+      "onboard_time": 1751959282,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 194471,
@@ -715,14 +771,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 187950,
-      "num": 187950,
-      "word": "杨紫李现追剧团上班路透",
-      "onboard_time": 1751957182,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 183978,
       "num": 183978,
       "word": "利剑玫瑰",
@@ -747,12 +795,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 179334,
-      "num": 179334,
-      "word": "歌手",
-      "onboard_time": 1751956942,
-      "rank": 22,
-      "category": "综艺"
+      "raw_hot": 179478,
+      "num": 179478,
+      "word": "乳霜纸",
+      "onboard_time": 1751957182,
+      "rank": 46,
+      "category": "休闲"
     },
     {
       "raw_hot": 179017,
@@ -859,6 +907,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166696,
+      "num": 166696,
+      "word": "孙颖莎王曼昱vs迪亚兹帕瓦德",
+      "onboard_time": 1751957782,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 166378,
+      "num": 166378,
+      "word": "李一桐不愧是干过幼师的",
+      "onboard_time": 1751958741,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166305,
       "num": 166305,
       "word": "未定事件簿",
@@ -883,6 +947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 163036,
+      "num": 245170,
+      "word": "上汽奥迪A5L现已到店",
+      "onboard_time": 1751955322,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 162166,
       "num": 279545,
       "word": "35岁开场而已",
@@ -905,6 +977,14 @@
       "onboard_time": 1751951423,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 158190,
+      "num": 158190,
+      "word": "尽量不要给手机整夜充电",
+      "onboard_time": 1751958622,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 157755,
@@ -971,14 +1051,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 151355,
-      "num": 245170,
-      "word": "上汽奥迪A5L现已到店",
-      "onboard_time": 1751955322,
-      "rank": 17,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 150950,
       "num": 133430,
       "word": "于适在黄河岸边的讲述深情有力",
@@ -1043,6 +1115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144183,
+      "num": 144183,
+      "word": "郑恺苗苗挽手看电影",
+      "onboard_time": 1751958322,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142724,
       "num": 142724,
       "word": "谁家男女主接吻地都是心形",
@@ -1067,12 +1147,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139194,
+      "num": 139194,
+      "word": "张杰说身体只是一个躯壳而已",
+      "onboard_time": 1751959041,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137478,
       "num": 137478,
       "word": "国行苹果AI凉了吗",
       "onboard_time": 1751944702,
       "rank": 37,
       "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 136861,
+      "num": 136861,
+      "word": "中尼边境泥石流我国一侧11人失联",
+      "onboard_time": 1751957901,
+      "rank": 35,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 135287,
@@ -1211,12 +1307,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 126986,
+      "num": 126986,
+      "word": "甲亢哥还在用华为",
+      "onboard_time": 1751958082,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125952,
+      "num": 125952,
+      "word": "黄誉博300秒跳完全网所有摇",
+      "onboard_time": 1751958203,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 125401,
       "num": 125401,
       "word": "花花锁定谭爷爷只需要一块果果",
       "onboard_time": 1751942122,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125143,
+      "num": 167407,
+      "word": "头一次看剧窝囊了23集",
+      "onboard_time": 1751957302,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 124630,
@@ -1251,11 +1371,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 121905,
-      "num": 121905,
-      "word": "头一次看剧窝囊了23集",
-      "onboard_time": 1751957302,
-      "rank": 34,
+      "raw_hot": 122045,
+      "num": 122045,
+      "word": "刘宇宁气极反笑表演层次感",
+      "onboard_time": 1751958382,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -1265,6 +1385,14 @@
       "onboard_time": 1751941941,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121498,
+      "num": 284821,
+      "word": "babycare纸尿裤再现黑色异物",
+      "onboard_time": 1751956282,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121342,
@@ -1281,14 +1409,6 @@
       "onboard_time": 1751956822,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 120438,
-      "num": 120438,
-      "word": "东部战区陆军海训现场",
-      "onboard_time": 1751956822,
-      "rank": 36,
-      "category": "国内时政"
     },
     {
       "raw_hot": 119682,
@@ -1419,6 +1539,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 111810,
+      "num": 349457,
+      "word": "骗子借一张帅哥照骗走女子50万元",
+      "onboard_time": 1751958681,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111390,
       "num": 111390,
       "word": "俄高官被普京解职当天自杀身亡",
@@ -1441,14 +1569,6 @@
       "onboard_time": 1751921174,
       "rank": 34,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 109699,
-      "num": 109699,
-      "word": "梓渝美谈",
-      "onboard_time": 1751957423,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 109147,
@@ -1505,6 +1625,14 @@
       "onboard_time": 1751940141,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 106789,
+      "num": 106789,
+      "word": "为什么7月面试机会突然变少了",
+      "onboard_time": 1751959462,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 106207,
@@ -1577,14 +1705,6 @@
       "onboard_time": 1751955262,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 99667,
-      "num": 99667,
-      "word": "乳霜纸",
-      "onboard_time": 1751957182,
-      "rank": 46,
-      "category": "休闲"
     },
     {
       "raw_hot": 99546,
@@ -1811,14 +1931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 74306,
-      "num": 284821,
-      "word": "babycare纸尿裤再现黑色异物",
-      "onboard_time": 1751956282,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 74262,
       "num": 274314,
       "word": "小鬼王琳凯直播洛杉矶日落",
@@ -1897,6 +2009,14 @@
       "onboard_time": 1751907080,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66070,
+      "num": 122069,
+      "word": "AL晋级MSI四强",
+      "onboard_time": 1751955922,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 65841,
@@ -2083,6 +2203,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 30170,
+      "num": 166470,
+      "word": "蜜雪用脚关桶员工已离职",
+      "onboard_time": 1751959282,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28820,
       "num": 28820,
       "word": "新疆博尔塔拉州精河县4.3级地震",
@@ -2097,6 +2225,14 @@
       "onboard_time": 1751911036,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26980,
+      "num": 178956,
+      "word": "教育局回应学校后厨用扫把清理厨具",
+      "onboard_time": 1751959282,
+      "rank": 19,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 25348,
