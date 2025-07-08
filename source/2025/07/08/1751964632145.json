@@ -1,0 +1,410 @@
+{
+  "runTime": 1751964632145,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2240657,
+        "num": 2240657,
+        "word": "警方通报大三女生和男友双双坠亡",
+        "onboard_time": 1751961801,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 972359,
+        "num": 972359,
+        "word": "王阳 孙菲菲",
+        "onboard_time": 1751950582,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46132,
+        "num": 772521,
+        "word": "中国制造不断冲击世界眼球",
+        "onboard_time": 1751947162,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3659435,
+        "num": 755190,
+        "word": "王青发微博",
+        "onboard_time": 1751963062,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 711023,
+        "num": 711023,
+        "word": "女子坐11小时飞机后心跳骤停去世",
+        "onboard_time": 1751960302,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 479949,
+        "num": 479949,
+        "word": "乳霜纸",
+        "onboard_time": 1751957182,
+        "rank": 5,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 941964,
+        "num": 466843,
+        "word": "外网评的最帅95生",
+        "onboard_time": 1751959041,
+        "rank": 6,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 785321,
+        "num": 439684,
+        "word": "杨紫李现 爸爸妈妈我出生了",
+        "onboard_time": 1751961322,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 319671,
+        "num": 319671,
+        "word": "骗子借一张帅哥照骗走女子50万元",
+        "onboard_time": 1751958681,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179363,
+        "num": 319045,
+        "word": "大三女生和男友坠亡排除刑案",
+        "onboard_time": 1751963001,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 587073,
+        "num": 318610,
+        "word": "横店女明星热得命好苦的样子",
+        "onboard_time": 1751962522,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 570156,
+        "num": 317190,
+        "word": "张靓颖 网红化",
+        "onboard_time": 1751950225,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 553912,
+        "num": 316048,
+        "word": "王青 最荣幸的是陪伴过你们的青春",
+        "onboard_time": 1751964382,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 495234,
+        "num": 314831,
+        "word": "全智贤短发",
+        "onboard_time": 1751954782,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314427,
+        "num": 314427,
+        "word": "南京胖哥第二个孩子出生",
+        "onboard_time": 1751960422,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266476,
+        "num": 266476,
+        "word": "蜜雪冰城被曝员工用脚关直饮水桶",
+        "onboard_time": 1751904143,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244175,
+        "num": 244175,
+        "word": "轻断食10天瘦了14.5斤",
+        "onboard_time": 1751939842,
+        "rank": 16,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 214447,
+        "num": 214447,
+        "word": "女婴因眼睛小被挑剩下盼与父母团圆",
+        "onboard_time": 1751964442,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181433,
+        "num": 213752,
+        "word": "关晓彤闭眼笑颜",
+        "onboard_time": 1751963242,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57438,
+        "num": 213521,
+        "word": "黄誉博希望韩红老师不要刷到",
+        "onboard_time": 1751963422,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 371731,
+        "num": 213509,
+        "word": "孙菲菲王阳剧组暴力事件始末",
+        "onboard_time": 1751961441,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213453,
+        "num": 213453,
+        "word": "天舟八号顺利撤离空间站组合体",
+        "onboard_time": 1751962941,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 280034,
+        "num": 211859,
+        "word": "女子喝半杯隔夜水后发现蚊子卵",
+        "onboard_time": 1751961622,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237291,
+        "num": 211472,
+        "word": "鹿晗就这么水灵灵地喊了宝贝",
+        "onboard_time": 1751954241,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 40367,
+        "num": 208571,
+        "word": "日本公开赛国羽签表",
+        "onboard_time": 1751963782,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206444,
+        "num": 206444,
+        "word": "女子离家2天3箱活珠子孵出满屋小鸡",
+        "onboard_time": 1751960662,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199015,
+        "num": 199015,
+        "word": "多地音乐节可在现场领证结婚",
+        "onboard_time": 1751959882,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197672,
+        "num": 197672,
+        "word": "台风丹娜丝",
+        "onboard_time": 1751963601,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194725,
+        "num": 194725,
+        "word": "这屋子甄嬛进来都得愣三秒",
+        "onboard_time": 1751963302,
+        "rank": 28,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 194070,
+        "num": 194070,
+        "word": "大姐月薪3千花6千多学TikTok赚钱",
+        "onboard_time": 1751953282,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178267,
+        "num": 178267,
+        "word": "李荣浩杨丞琳果然真夫妻就是好嗑",
+        "onboard_time": 1751961023,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 172365,
+        "num": 172365,
+        "word": "建议一个月给自己过两天节",
+        "onboard_time": 1751961683,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170968,
+        "num": 170968,
+        "word": "以法之名十一部vs现实的十一部",
+        "onboard_time": 1751963902,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166018,
+        "num": 166018,
+        "word": "锦绣芳华直播",
+        "onboard_time": 1751955503,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164403,
+        "num": 164403,
+        "word": "12306回应高铁可线上申请换座",
+        "onboard_time": 1751961683,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139173,
+        "num": 139173,
+        "word": "以为是真父子结果是真的演父子",
+        "onboard_time": 1751956342,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134642,
+        "num": 134642,
+        "word": "张云龙一个飞摔成鞠婧祎",
+        "onboard_time": 1751961081,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127793,
+        "num": 127793,
+        "word": "王力宏不念偶像两个字",
+        "onboard_time": 1751961201,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124526,
+        "num": 124526,
+        "word": "甲亢哥还在用华为",
+        "onboard_time": 1751958082,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118909,
+        "num": 118909,
+        "word": "李一桐不愧是干过幼师的",
+        "onboard_time": 1751958741,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118721,
+        "num": 118721,
+        "word": "林高远一轮游",
+        "onboard_time": 1751963182,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117218,
+        "num": 117218,
+        "word": "七月要上五个星期的班",
+        "onboard_time": 1751963422,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116116,
+        "num": 116116,
+        "word": "周先旺被查",
+        "onboard_time": 1751945363,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 112040,
+        "num": 112040,
+        "word": "梓渝美谈",
+        "onboard_time": 1751957423,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109847,
+        "num": 109847,
+        "word": "时代少年团亲手拍摄",
+        "onboard_time": 1751961683,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 106963,
+        "num": 106963,
+        "word": "A股逼近3500点放量2453亿",
+        "onboard_time": 1751963364,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 103673,
+        "num": 103673,
+        "word": "沐言上小学了",
+        "onboard_time": 1751964323,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 101718,
+        "num": 101718,
+        "word": "中国高铁宣传片看完自豪感满满",
+        "onboard_time": 1751960782,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87531,
+        "num": 87531,
+        "word": "丁禹兮回横店第一顿自己做的饭",
+        "onboard_time": 1751964562,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86498,
+        "num": 86498,
+        "word": "男孩磕伤头部骑手紧急帮送医",
+        "onboard_time": 1751960542,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#一支视频看习近平心系三晋大地#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1751906062153,
-  "endTime": 1751963756161,
+  "endTime": 1751964632145,
   "band_list": [
     {
       "raw_hot": 9289863,
@@ -19,11 +19,27 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 3659435,
+      "num": 755190,
+      "word": "王青发微博",
+      "onboard_time": 1751963062,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2618077,
       "num": 2618077,
       "word": "天水一幼儿园幼儿血铅异常8人被刑拘",
       "onboard_time": 1751946446,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2240657,
+      "num": 2240657,
+      "word": "警方通报大三女生和男友双双坠亡",
+      "onboard_time": 1751961801,
+      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -48,14 +64,6 @@
       "word": "天水多名老师血铅也严重超标",
       "onboard_time": 1751942962,
       "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1578484,
-      "num": 1578484,
-      "word": "警方通报大三女生和男友双双坠亡",
-      "onboard_time": 1751961801,
-      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -120,14 +128,6 @@
       "word": "全智贤短发",
       "onboard_time": 1751954782,
       "rank": 3,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 980608,
-      "num": 588318,
-      "word": "王青发微博",
-      "onboard_time": 1751963062,
-      "rank": 6,
       "category": "艺人"
     },
     {
@@ -211,6 +211,14 @@
       "category": "艺人,海外新闻"
     },
     {
+      "raw_hot": 711023,
+      "num": 711023,
+      "word": "女子坐11小时飞机后心跳骤停去世",
+      "onboard_time": 1751960302,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 691050,
       "num": 691050,
       "word": "乳霜纸",
@@ -227,14 +235,6 @@
       "category": "幽默,休闲"
     },
     {
-      "raw_hot": 644900,
-      "num": 644900,
-      "word": "女子坐11小时飞机后心跳骤停去世",
-      "onboard_time": 1751960302,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 634502,
       "num": 535050,
       "word": "27岁真的还很年轻很年轻的",
@@ -249,6 +249,14 @@
       "onboard_time": 1751951363,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 587073,
+      "num": 318610,
+      "word": "横店女明星热得命好苦的样子",
+      "onboard_time": 1751962522,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 567817,
@@ -273,6 +281,14 @@
       "onboard_time": 1751939302,
       "rank": 31,
       "category": "辟谣/通报,教育"
+    },
+    {
+      "raw_hot": 553912,
+      "num": 316048,
+      "word": "王青 最荣幸的是陪伴过你们的青春",
+      "onboard_time": 1751964382,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 522684,
@@ -379,6 +395,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 371731,
+      "num": 302990,
+      "word": "孙菲菲王阳剧组暴力事件始末",
+      "onboard_time": 1751961441,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 369202,
       "num": 369202,
       "word": "梓渝说是嘛谢谢你呀青春制作人",
@@ -417,14 +441,6 @@
       "onboard_time": 1751931020,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 340677,
-      "num": 302990,
-      "word": "孙菲菲王阳剧组暴力事件始末",
-      "onboard_time": 1751961441,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 335426,
@@ -475,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 314427,
+      "num": 314427,
+      "word": "南京胖哥第二个孩子出生",
+      "onboard_time": 1751960422,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 313218,
       "num": 313218,
       "word": "国乒男单四人止步美国大满贯首轮",
@@ -499,14 +523,6 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 297829,
-      "num": 297829,
-      "word": "南京胖哥第二个孩子出生",
-      "onboard_time": 1751960422,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 291930,
       "num": 305043,
       "word": "15岁男生参加体育特长生考试猝死",
@@ -529,6 +545,14 @@
       "onboard_time": 1751947043,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 280034,
+      "num": 220052,
+      "word": "女子喝半杯隔夜水后发现蚊子卵",
+      "onboard_time": 1751961622,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 279370,
@@ -635,14 +659,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 250473,
-      "num": 222062,
-      "word": "横店女明星热得命好苦的样子",
-      "onboard_time": 1751962522,
-      "rank": 21,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 246544,
       "num": 246544,
       "word": "刘宇宁说迪丽热巴网速比5G还快",
@@ -657,6 +673,14 @@
       "onboard_time": 1751928797,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 237291,
+      "num": 212473,
+      "word": "鹿晗就这么水灵灵地喊了宝贝",
+      "onboard_time": 1751954241,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 237133,
@@ -771,19 +795,27 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 220052,
-      "num": 220052,
-      "word": "女子喝半杯隔夜水后发现蚊子卵",
-      "onboard_time": 1751961622,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 214506,
       "num": 214506,
       "word": "中方已向印度提出交涉",
       "onboard_time": 1751888182,
       "rank": 36,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 214447,
+      "num": 214447,
+      "word": "女婴因眼睛小被挑剩下盼与父母团圆",
+      "onboard_time": 1751964442,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213453,
+      "num": 213453,
+      "word": "天舟八号顺利撤离空间站组合体",
+      "onboard_time": 1751962941,
+      "rank": 25,
       "category": "国内时政"
     },
     {
@@ -793,22 +825,6 @@
       "onboard_time": 1751952382,
       "rank": 35,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 212473,
-      "num": 212473,
-      "word": "鹿晗就这么水灵灵地喊了宝贝",
-      "onboard_time": 1751954241,
-      "rank": 24,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 209482,
-      "num": 209482,
-      "word": "天舟八号顺利撤离空间站组合体",
-      "onboard_time": 1751962941,
-      "rank": 25,
-      "category": "国内时政"
     },
     {
       "raw_hot": 209462,
@@ -841,6 +857,22 @@
       "onboard_time": 1751963302,
       "rank": 26,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 199015,
+      "num": 235435,
+      "word": "多地音乐节可在现场领证结婚",
+      "onboard_time": 1751959882,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197672,
+      "num": 197672,
+      "word": "台风丹娜丝",
+      "onboard_time": 1751963601,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 196366,
@@ -907,6 +939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181433,
+      "num": 232129,
+      "word": "关晓彤闭眼笑颜",
+      "onboard_time": 1751963242,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179792,
       "num": 179792,
       "word": "光遇复刻",
@@ -923,12 +963,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179363,
+      "num": 319045,
+      "word": "大三女生和男友坠亡排除刑案",
+      "onboard_time": 1751963001,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179017,
       "num": 259295,
       "word": "车辆暴晒后怎么快速降温",
       "onboard_time": 1751929819,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178267,
+      "num": 178267,
+      "word": "李荣浩杨丞琳果然真夫妻就是好嗑",
+      "onboard_time": 1751961023,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 177610,
@@ -1003,20 +1059,28 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 173478,
-      "num": 235435,
-      "word": "多地音乐节可在现场领证结婚",
-      "onboard_time": 1751959882,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 172679,
       "num": 172679,
       "word": "者来女 一款很新的国潮外卖",
       "onboard_time": 1751955382,
       "rank": 25,
       "category": "综艺,作品衍生"
+    },
+    {
+      "raw_hot": 172365,
+      "num": 172365,
+      "word": "建议一个月给自己过两天节",
+      "onboard_time": 1751961683,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 170968,
+      "num": 170968,
+      "word": "以法之名十一部vs现实的十一部",
+      "onboard_time": 1751963902,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 169835,
@@ -1121,22 +1185,6 @@
       "onboard_time": 1751951423,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 159723,
-      "num": 159723,
-      "word": "建议一个月给自己过两天节",
-      "onboard_time": 1751961683,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 158375,
-      "num": 158375,
-      "word": "台风丹娜丝",
-      "onboard_time": 1751963601,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 158190,
@@ -1331,22 +1379,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 140780,
-      "num": 232129,
-      "word": "关晓彤闭眼笑颜",
-      "onboard_time": 1751963242,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 140212,
-      "num": 250078,
-      "word": "大三女生和男友坠亡排除刑案",
-      "onboard_time": 1751963001,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 139848,
       "num": 214599,
       "word": "招聘不应对年龄歧视",
@@ -1393,6 +1425,14 @@
       "onboard_time": 1751948365,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134642,
+      "num": 134642,
+      "word": "张云龙一个飞摔成鞠婧祎",
+      "onboard_time": 1751961081,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 134451,
@@ -1475,14 +1515,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 129888,
-      "num": 129888,
-      "word": "李荣浩杨丞琳果然真夫妻就是好嗑",
-      "onboard_time": 1751961023,
-      "rank": 40,
-      "category": "演出"
-    },
-    {
       "raw_hot": 129390,
       "num": 149699,
       "word": "游本昌人民日报撰文",
@@ -1531,6 +1563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 127793,
+      "num": 127793,
+      "word": "王力宏不念偶像两个字",
+      "onboard_time": 1751961201,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 127128,
       "num": 127128,
       "word": "A股爆发半日放量1012亿",
@@ -1545,14 +1585,6 @@
       "onboard_time": 1751958203,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 125488,
-      "num": 125488,
-      "word": "张云龙一个飞摔成鞠婧祎",
-      "onboard_time": 1751961081,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 125401,
@@ -1715,6 +1747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 117218,
+      "num": 117218,
+      "word": "七月要上五个星期的班",
+      "onboard_time": 1751963422,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 116604,
       "num": 254948,
       "word": "网红孙其康回应孙恩盛无证驾驶",
@@ -1779,14 +1819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112576,
-      "num": 112576,
-      "word": "王力宏不念偶像两个字",
-      "onboard_time": 1751961201,
-      "rank": 44,
-      "category": "演出"
-    },
-    {
       "raw_hot": 112034,
       "num": 112034,
       "word": "西藏吉隆口岸泥石流已致17人失联",
@@ -1825,14 +1857,6 @@
       "onboard_time": 1751921174,
       "rank": 34,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 109922,
-      "num": 109922,
-      "word": "七月要上五个星期的班",
-      "onboard_time": 1751963422,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 109147,
@@ -1937,6 +1961,14 @@
       "onboard_time": 1751895624,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103673,
+      "num": 103673,
+      "word": "沐言上小学了",
+      "onboard_time": 1751964323,
+      "rank": 46,
+      "category": "网红"
     },
     {
       "raw_hot": 102494,
@@ -2067,6 +2099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87531,
+      "num": 87531,
+      "word": "丁禹兮回横店第一顿自己做的饭",
+      "onboard_time": 1751964562,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86718,
       "num": 934955,
       "word": "中国制造不断冲击世界眼球",
@@ -2081,6 +2121,14 @@
       "onboard_time": 1751900485,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 86498,
+      "num": 86498,
+      "word": "男孩磕伤头部骑手紧急帮送医",
+      "onboard_time": 1751960542,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84983,
@@ -2465,6 +2513,14 @@
       "onboard_time": 1751941280,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40367,
+      "num": 208571,
+      "word": "日本公开赛国羽签表",
+      "onboard_time": 1751963782,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 37895,

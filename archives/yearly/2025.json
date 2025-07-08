@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1751963756161,
+  "endTime": 1751964632145,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -2347,6 +2347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3659435,
+      "num": 755190,
+      "word": "王青发微博",
+      "onboard_time": 1751963062,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3657589,
       "num": 3657589,
       "word": "林孝埈摔倒",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1738986867,
       "rank": 10,
       "category": "艺人,互联网"
-    },
-    {
-      "raw_hot": 3615870,
-      "num": 3615870,
-      "word": "新一卷数学大题 难",
-      "onboard_time": 1749288745,
-      "rank": 24,
-      "category": "教育"
     }
   ],
   "hotgov_list": [
