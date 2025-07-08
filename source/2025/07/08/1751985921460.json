@@ -1,0 +1,410 @@
+{
+  "runTime": 1751985921460,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 636050,
+        "num": 1101768,
+        "word": "演唱会抢票难度排行榜",
+        "onboard_time": 1751970442,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 744501,
+        "num": 744501,
+        "word": "一公务员称孕期把工作分给合同工",
+        "onboard_time": 1751976983,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25344,
+        "num": 550098,
+        "word": "6组数据看科技创新与制造业加速升级",
+        "onboard_time": 1751981845,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 518581,
+        "num": 518581,
+        "word": "网友住酒店光脚洗澡感染HPV",
+        "onboard_time": 1751980042,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 400078,
+        "num": 400078,
+        "word": "海底捞回应服务员胸前打赏二维码",
+        "onboard_time": 1751983287,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333575,
+        "num": 333575,
+        "word": "余承东因开车看手机去自首了",
+        "onboard_time": 1751983108,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 251887,
+        "num": 251887,
+        "word": "湖南发现4.9亿吨锂矿石",
+        "onboard_time": 1751983707,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245682,
+        "num": 245682,
+        "word": "广汽菲克宣告破产",
+        "onboard_time": 1751985452,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 189730,
+        "num": 238204,
+        "word": "以法之名最大秘密浮出水面",
+        "onboard_time": 1751984730,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64985,
+        "num": 237876,
+        "word": "丹娜丝风力达到9级",
+        "onboard_time": 1751985392,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237694,
+        "num": 237694,
+        "word": "689分高考生一把将快递员父亲扑倒",
+        "onboard_time": 1751980585,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233613,
+        "num": 233613,
+        "word": "王勇受贿2.71亿余元",
+        "onboard_time": 1751969123,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 10720396,
+        "num": 10720396,
+        "word": "于正 我完全不知情",
+        "onboard_time": 1751984131,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 491626,
+        "num": 227628,
+        "word": "赵本山女儿球球抑郁症复发",
+        "onboard_time": 1751982507,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191514,
+        "num": 221178,
+        "word": "驾车碾压同学致死男子称出现幻听",
+        "onboard_time": 1751981664,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 399879,
+        "num": 218666,
+        "word": "梓渝摇",
+        "onboard_time": 1751970742,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372823,
+        "num": 215357,
+        "word": "田栩宁19岁时许愿不要被黑",
+        "onboard_time": 1751981904,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212382,
+        "num": 212382,
+        "word": "幼儿误吞水宝宝腹中膨胀至乒乓球大",
+        "onboard_time": 1751980224,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179961,
+        "num": 212307,
+        "word": "G社是辛芷蕾的站姐吧",
+        "onboard_time": 1751977163,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40641,
+        "num": 211712,
+        "word": "表情包扑克牌被曝内容粗俗",
+        "onboard_time": 1751984491,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 638400,
+        "num": 211338,
+        "word": "8个小时不换卫生巾有多恐怖",
+        "onboard_time": 1751975122,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 300156,
+        "num": 210553,
+        "word": "警方通报大三女生和男友双双坠亡",
+        "onboard_time": 1751961801,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265041,
+        "num": 210223,
+        "word": "高铁B座",
+        "onboard_time": 1751975423,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210095,
+        "num": 210095,
+        "word": "余承东回应开车睡觉",
+        "onboard_time": 1751980284,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 114332,
+        "num": 200999,
+        "word": "进口九价HPV疫苗男女可接种且防癌",
+        "onboard_time": 1751983408,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 200436,
+        "num": 200436,
+        "word": "女婴因眼睛小被挑剩下盼与父母团圆",
+        "onboard_time": 1751964442,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196018,
+        "num": 196018,
+        "word": "余承东官宣享界新车",
+        "onboard_time": 1751985692,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 153913,
+        "num": 191832,
+        "word": "以法之名",
+        "onboard_time": 1751975242,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153396,
+        "num": 191824,
+        "word": "锦绣芳华第12集 离谱",
+        "onboard_time": 1751973563,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20429,
+        "num": 191822,
+        "word": "稳定币仅个别义乌商户收取",
+        "onboard_time": 1751985692,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191820,
+        "num": 191820,
+        "word": "曝短剧顶流女演员助理被骂退圈",
+        "onboard_time": 1751981664,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181466,
+        "num": 181466,
+        "word": "方媛三胎孕肚",
+        "onboard_time": 1751978302,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169474,
+        "num": 169474,
+        "word": "王一博神图",
+        "onboard_time": 1751974101,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152103,
+        "num": 152103,
+        "word": "男子爱炫精致碳水查出癌症之王",
+        "onboard_time": 1751972183,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150462,
+        "num": 150462,
+        "word": "王青闺女",
+        "onboard_time": 1751979983,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85320,
+        "num": 145116,
+        "word": "中国女篮战胜澳大利亚女篮",
+        "onboard_time": 1751982387,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144200,
+        "num": 144200,
+        "word": "淘宝崩了",
+        "onboard_time": 1751980404,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 129407,
+        "num": 129407,
+        "word": "美国一湖泊3年捞出19具尸体",
+        "onboard_time": 1751985871,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 129336,
+        "num": 129336,
+        "word": "国防部回应外国船挂五星红旗",
+        "onboard_time": 1751971582,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 127324,
+        "num": 127324,
+        "word": "翁虹和老公1年见1次",
+        "onboard_time": 1751982326,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126534,
+        "num": 126534,
+        "word": "坐男友车出车祸致截瘫女子发声",
+        "onboard_time": 1751980524,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123422,
+        "num": 123422,
+        "word": "韩安冉称自己硕士",
+        "onboard_time": 1751983649,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 121846,
+        "num": 121846,
+        "word": "与西格蒙德此前交锋中萨巴伦卡均胜出",
+        "onboard_time": 1751985692,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118971,
+        "num": 118971,
+        "word": "偶遇金钟大和老婆牵手逛街",
+        "onboard_time": 1751978963,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115169,
+        "num": 115169,
+        "word": "温网2025",
+        "onboard_time": 1751985871,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113758,
+        "num": 113758,
+        "word": "田栩宁新剧上班路透",
+        "onboard_time": 1751978242,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111558,
+        "num": 111558,
+        "word": "U16国足3比4韩国U16",
+        "onboard_time": 1751983707,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109531,
+        "num": 109531,
+        "word": "日本外务省是诋毁张纯如幕后推手",
+        "onboard_time": 1751978242,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99476,
+        "num": 108061,
+        "word": "王彧 这次我想做个好人",
+        "onboard_time": 1751984969,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96143,
+        "num": 107115,
+        "word": "蔡依林给一字马上强度了",
+        "onboard_time": 1751982807,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在山西考察#"
+    }
+  }
+}

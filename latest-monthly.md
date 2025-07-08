@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/08 22:26:31
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/08 22:45:21
 </p>
 </blockquote>
 <p>
@@ -3675,6 +3675,12 @@ G社是辛芷蕾的站姐吧（热度：411339）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%9B%9E%E5%BA%94%E6%9C%8D%E5%8A%A1%E5%91%98%E8%83%B8%E5%89%8D%E6%89%93%E8%B5%8F%E4%BA%8C%E7%BB%B4%E7%A0%81%23" target="weibo">
+海底捞回应服务员胸前打赏二维码（热度：400078）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%96%87%E5%8D%93%E7%A5%9D%E8%B4%BA%E5%A5%B3%E5%84%BF%E9%AB%98%E4%B8%AD%E6%AF%95%E4%B8%9A%E8%8E%B7%E6%9C%80%E9%AB%98%E5%A5%96%23" target="weibo">
 赵文卓祝贺女儿高中毕业获最高奖（热度：397970）
 </a>
@@ -5865,6 +5871,12 @@ fx合体（热度：283131）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E5%8F%91%E7%8E%B04.9%E4%BA%BF%E5%90%A8%E9%94%82%E7%9F%BF%E7%9F%B3%23" target="weibo">
+湖南发现4.9亿吨锂矿石（热度：251887）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23AL%E6%88%98%E8%83%9CCFO%23" target="weibo">
 AL战胜CFO（热度：251523）
 </a>
@@ -5973,6 +5985,12 @@ AL战胜CFO（热度：251523）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E6%B1%BD%E8%8F%B2%E5%85%8B%E5%AE%A3%E5%91%8A%E7%A0%B4%E4%BA%A7%23" target="weibo">
+广汽菲克宣告破产（热度：245682）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80S40%E6%96%B0%E8%B5%9B%E5%AD%A3%23" target="weibo">
 王者荣耀S40新赛季（热度：245579）
 </a>
@@ -5993,24 +6011,6 @@ AL战胜CFO（热度：251523）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%8D%82%E6%9D%8E%E7%8E%B0%E7%9A%84%E5%98%B4%23" target="weibo">
 杨紫捂李现的嘴（热度：245212）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%8A%B5%E8%BE%BE%E9%9D%92%E5%B2%9B%23" target="weibo">
-鹿晗抵达青岛（热度：245127）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E8%B5%84%E5%85%B4%E4%B8%80%E6%B8%B8%E8%88%B9%E4%BE%A7%E7%BF%BB%E5%B7%B2%E6%95%91%E5%87%BA28%E4%BA%BA%23" target="weibo">
-湖南资兴一游船侧翻已救出28人（热度：244901）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%98%E5%B7%A5%E6%9B%9D%E7%BD%97%E9%A9%AC%E4%BB%95%E5%B7%B2%E9%80%9A%E7%9F%A5%E5%85%A8%E9%9D%A2%E5%81%9C%E5%B7%A5%E5%81%9C%E4%BA%A7%23" target="weibo">
-员工曝罗马仕已通知全面停工停产（热度：243712）
 </a>
 </li>
 
