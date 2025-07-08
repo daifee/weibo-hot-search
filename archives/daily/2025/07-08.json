@@ -1,6 +1,6 @@
 {
   "startTime": 1751906062153,
-  "endTime": 1751949401163,
+  "endTime": 1751950282436,
   "band_list": [
     {
       "raw_hot": 9289863,
@@ -27,7 +27,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1773632,
+      "raw_hot": 1783718,
       "num": 968677,
       "word": "天水多名老师血铅也严重超标",
       "onboard_time": 1751942962,
@@ -59,8 +59,8 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 1210814,
-      "num": 1210814,
+      "raw_hot": 1216933,
+      "num": 1216933,
       "word": "孙菲菲说为王阳澄清是应王阳要求写的",
       "onboard_time": 1751947043,
       "rank": 1,
@@ -355,6 +355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 253408,
+      "num": 253408,
+      "word": "考古青你3梓渝牛在在的友情",
+      "onboard_time": 1751946562,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252181,
       "num": 249508,
       "word": "张可盈竟然演过赵丽颖妹妹",
@@ -369,6 +377,14 @@
       "onboard_time": 1751947643,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 251375,
+      "num": 251375,
+      "word": "张子枫第一个摔出来的角色",
+      "onboard_time": 1751948424,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 246544,
@@ -451,12 +467,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 224707,
-      "num": 224707,
-      "word": "考古青你3梓渝牛在在的友情",
-      "onboard_time": 1751946562,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 226649,
+      "num": 189046,
+      "word": "麦当劳字体",
+      "onboard_time": 1751948544,
+      "rank": 30,
+      "category": "休闲,互联网"
+    },
+    {
+      "raw_hot": 222516,
+      "num": 286067,
+      "word": "家长讲述血铅异常幼儿治疗过程",
+      "onboard_time": 1751949083,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 221245,
@@ -483,14 +507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 200738,
-      "num": 200738,
-      "word": "张子枫第一个摔出来的角色",
-      "onboard_time": 1751948424,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 196366,
       "num": 196366,
       "word": "杨紫胡歌新剧颠覆性妆造",
@@ -499,20 +515,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194471,
+      "num": 194471,
+      "word": "葡萄奶绿",
+      "onboard_time": 1751947105,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 191535,
       "num": 443570,
       "word": "济南出租车惊现318川藏线",
       "onboard_time": 1751940502,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 189124,
-      "num": 189124,
-      "word": "葡萄奶绿",
-      "onboard_time": 1751947105,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 188661,
@@ -537,6 +553,14 @@
       "onboard_time": 1751943621,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181908,
+      "num": 231928,
+      "word": "天水幼儿园后厨监控视频曝光",
+      "onboard_time": 1751949921,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179792,
@@ -659,12 +683,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 153099,
+      "num": 153099,
+      "word": "熬夜熬到作息正常了",
+      "onboard_time": 1751949265,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 150950,
       "num": 133430,
       "word": "于适在黄河岸边的讲述深情有力",
       "onboard_time": 1751902223,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 150142,
+      "num": 150142,
+      "word": "Angelababy或将演短剧",
+      "onboard_time": 1751949443,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 150002,
@@ -689,6 +729,14 @@
       "onboard_time": 1751932101,
       "rank": 33,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 147946,
+      "num": 147946,
+      "word": "黄瓜水",
+      "onboard_time": 1751949443,
+      "rank": 39,
+      "category": "运动健身"
     },
     {
       "raw_hot": 145149,
@@ -771,14 +819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 128652,
-      "num": 128652,
-      "word": "熬夜熬到作息正常了",
-      "onboard_time": 1751949265,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 128382,
       "num": 128382,
       "word": "NBA交易",
@@ -816,6 +856,14 @@
       "word": "原来古人是这么认识中药的",
       "onboard_time": 1751944402,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 124464,
+      "num": 124464,
+      "word": "这甜嗓小情歌居然是韩红唱的",
+      "onboard_time": 1751949864,
+      "rank": 43,
       "category": "综艺"
     },
     {
@@ -865,6 +913,14 @@
       "onboard_time": 1751939782,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 119329,
+      "num": 119329,
+      "word": "杨紫李现上次埋肩抱是6年前",
+      "onboard_time": 1751950163,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 118910,
@@ -921,6 +977,22 @@
       "onboard_time": 1751913975,
       "rank": 49,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 113353,
+      "num": 113353,
+      "word": "林诗栋回应战至决胜局",
+      "onboard_time": 1751950225,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 113273,
+      "num": 113273,
+      "word": "张靓颖 网红化",
+      "onboard_time": 1751950225,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 112876,
@@ -1115,6 +1187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88181,
+      "num": 199639,
+      "word": "招聘不应对年龄歧视",
+      "onboard_time": 1751949563,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86718,
       "num": 934955,
       "word": "中国制造不断冲击世界眼球",
@@ -1209,6 +1289,14 @@
       "onboard_time": 1751945482,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75271,
+      "num": 190698,
+      "word": "怀疑被白宇刘宇宁周柯宇做局了",
+      "onboard_time": 1751949921,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 74574,
@@ -1379,14 +1467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 47633,
-      "num": 286067,
-      "word": "家长讲述血铅异常幼儿治疗过程",
-      "onboard_time": 1751949083,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 47330,
       "num": 137372,
       "word": "魏晨与妻子是大学同学",
@@ -1417,6 +1497,14 @@
       "onboard_time": 1751940921,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42561,
+      "num": 189515,
+      "word": "5岁孩子和奶奶遇煤气闪爆炸成重伤",
+      "onboard_time": 1751949683,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40618,

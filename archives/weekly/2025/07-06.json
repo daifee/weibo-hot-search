@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751949401163,
+  "endTime": 1751950282436,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -155,19 +155,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1783718,
+      "num": 968677,
+      "word": "天水多名老师血铅也严重超标",
+      "onboard_time": 1751942962,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1782989,
       "num": 1782989,
       "word": "杭州南站有人坠楼",
       "onboard_time": 1751883682,
       "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1773632,
-      "num": 968677,
-      "word": "天水多名老师血铅也严重超标",
-      "onboard_time": 1751942962,
-      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -355,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1216933,
+      "num": 1216933,
+      "word": "孙菲菲说为王阳澄清是应王阳要求写的",
+      "onboard_time": 1751947043,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1216024,
       "num": 471890,
       "word": "宿管大爷去世与高温环境关联需查清",
@@ -369,14 +377,6 @@
       "onboard_time": 1751771722,
       "rank": 0,
       "category": "艺人,剧集"
-    },
-    {
-      "raw_hot": 1210814,
-      "num": 1210814,
-      "word": "孙菲菲说为王阳澄清是应王阳要求写的",
-      "onboard_time": 1751947043,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1208394,
@@ -2315,6 +2315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 253408,
+      "num": 253408,
+      "word": "考古青你3梓渝牛在在的友情",
+      "onboard_time": 1751946562,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252181,
       "num": 249508,
       "word": "张可盈竟然演过赵丽颖妹妹",
@@ -2337,6 +2345,14 @@
       "onboard_time": 1751947643,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 251375,
+      "num": 251375,
+      "word": "张子枫第一个摔出来的角色",
+      "onboard_time": 1751948424,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 250769,
@@ -2635,20 +2651,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 226649,
+      "num": 189046,
+      "word": "麦当劳字体",
+      "onboard_time": 1751948544,
+      "rank": 30,
+      "category": "休闲,互联网"
+    },
+    {
       "raw_hot": 225558,
       "num": 225558,
       "word": "苏超南京队球员杨笑天被处罚",
       "onboard_time": 1751800405,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 224707,
-      "num": 224707,
-      "word": "考古青你3梓渝牛在在的友情",
-      "onboard_time": 1751946562,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 224677,
@@ -2688,6 +2704,14 @@
       "word": "2男子射杀邻居2猫被行拘",
       "onboard_time": 1751776283,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 222516,
+      "num": 286067,
+      "word": "家长讲述血铅异常幼儿治疗过程",
+      "onboard_time": 1751949083,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -3003,14 +3027,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 200738,
-      "num": 200738,
-      "word": "张子枫第一个摔出来的角色",
-      "onboard_time": 1751948424,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 200561,
       "num": 200561,
       "word": "王楚钦说想一场一场去赢",
@@ -3179,6 +3195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194471,
+      "num": 194471,
+      "word": "葡萄奶绿",
+      "onboard_time": 1751947105,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 193787,
       "num": 193787,
       "word": "以法之名万潮",
@@ -3273,14 +3297,6 @@
       "onboard_time": 1751866405,
       "rank": 19,
       "category": "健康医疗,民生新闻"
-    },
-    {
-      "raw_hot": 189124,
-      "num": 189124,
-      "word": "葡萄奶绿",
-      "onboard_time": 1751947105,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 188661,
@@ -3440,6 +3456,14 @@
       "word": "小暑",
       "onboard_time": 1751843058,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181908,
+      "num": 231928,
+      "word": "天水幼儿园后厨监控视频曝光",
+      "onboard_time": 1751949921,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -4107,6 +4131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153099,
+      "num": 153099,
+      "word": "熬夜熬到作息正常了",
+      "onboard_time": 1751949265,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 153035,
       "num": 153035,
       "word": "律师解读宿管去世校方是否担责",
@@ -4203,6 +4235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 150142,
+      "num": 150142,
+      "word": "Angelababy或将演短剧",
+      "onboard_time": 1751949443,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150002,
       "num": 150002,
       "word": "当你不停运动2个月后",
@@ -4289,6 +4329,14 @@
       "onboard_time": 1751932101,
       "rank": 33,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 147946,
+      "num": 147946,
+      "word": "黄瓜水",
+      "onboard_time": 1751949443,
+      "rank": 39,
+      "category": "运动健身"
     },
     {
       "raw_hot": 147242,
@@ -5011,14 +5059,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 128652,
-      "num": 128652,
-      "word": "熬夜熬到作息正常了",
-      "onboard_time": 1751949265,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 128244,
       "num": 128244,
       "word": "南珩哞地亲上了宋一梦",
@@ -5240,6 +5280,14 @@
       "word": "原来古人是这么认识中药的",
       "onboard_time": 1751944402,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 124464,
+      "num": 124464,
+      "word": "这甜嗓小情歌居然是韩红唱的",
+      "onboard_time": 1751949864,
+      "rank": 43,
       "category": "综艺"
     },
     {
@@ -5481,6 +5529,14 @@
       "onboard_time": 1751858963,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119329,
+      "num": 119329,
+      "word": "杨紫李现上次埋肩抱是6年前",
+      "onboard_time": 1751950163,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 119279,
@@ -5851,12 +5907,28 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 113353,
+      "num": 113353,
+      "word": "林诗栋回应战至决胜局",
+      "onboard_time": 1751950225,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113342,
       "num": 113342,
       "word": "墨西哥2比1逆转美国夺冠",
       "onboard_time": 1751853742,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113273,
+      "num": 113273,
+      "word": "张靓颖 网红化",
+      "onboard_time": 1751950225,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 113216,
@@ -6971,6 +7043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88181,
+      "num": 199639,
+      "word": "招聘不应对年龄歧视",
+      "onboard_time": 1751949563,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87565,
       "num": 104885,
       "word": "余承恩晒加速王奖牌",
@@ -7217,6 +7297,14 @@
       "onboard_time": 1751870964,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 75271,
+      "num": 190698,
+      "word": "怀疑被白宇刘宇宁周柯宇做局了",
+      "onboard_time": 1751949921,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 74879,
@@ -7747,14 +7835,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 47633,
-      "num": 286067,
-      "word": "家长讲述血铅异常幼儿治疗过程",
-      "onboard_time": 1751949083,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 47330,
       "num": 137372,
       "word": "魏晨与妻子是大学同学",
@@ -7840,6 +7920,14 @@
       "word": "外卖大战有骑手一天赚1700多元",
       "onboard_time": 1751863285,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42561,
+      "num": 189515,
+      "word": "5岁孩子和奶奶遇煤气闪爆炸成重伤",
+      "onboard_time": 1751949683,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
