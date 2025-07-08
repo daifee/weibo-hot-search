@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751973854356,
+  "endTime": 1751974824372,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 3659435,
-      "num": 755190,
+      "num": 831596,
       "word": "王青发微博",
       "onboard_time": 1751963062,
       "rank": 6,
@@ -291,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1409690,
+      "num": 1409690,
+      "word": "王勇受贿2.71亿余元",
+      "onboard_time": 1751969123,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1389386,
       "num": 437473,
       "word": "江宁婆婆",
@@ -313,14 +321,6 @@
       "onboard_time": 1751939842,
       "rank": 30,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 1355992,
-      "num": 1355992,
-      "word": "王勇受贿2.71亿余元",
-      "onboard_time": 1751969123,
-      "rank": 14,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1342398,
@@ -449,6 +449,14 @@
       "onboard_time": 1751869584,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1201759,
+      "num": 1201759,
+      "word": "演唱会抢票难度排行榜",
+      "onboard_time": 1751970442,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 1197153,
@@ -721,14 +729,6 @@
       "onboard_time": 1751952262,
       "rank": 28,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 842019,
-      "num": 842019,
-      "word": "演唱会抢票难度排行榜",
-      "onboard_time": 1751970442,
-      "rank": 43,
-      "category": "演出"
     },
     {
       "raw_hot": 840147,
@@ -1123,6 +1123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 626998,
+      "num": 626998,
+      "word": "女儿6岁起被父亲持续性侵虐待10年",
+      "onboard_time": 1751971163,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 625487,
       "num": 428988,
       "word": "王一博卷毛王子",
@@ -1387,6 +1395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 490478,
+      "num": 239285,
+      "word": "王一博神图",
+      "onboard_time": 1751974101,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 490370,
       "num": 248476,
       "word": "43岁女子姐弟恋怀孕后婆婆不认可",
@@ -1585,14 +1601,6 @@
       "onboard_time": 1751818164,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 422469,
-      "num": 422469,
-      "word": "女儿6岁起被父亲持续性侵虐待10年",
-      "onboard_time": 1751971163,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 419264,
@@ -2025,6 +2033,14 @@
       "onboard_time": 1751939361,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 333121,
+      "num": 339419,
+      "word": "罗马仕回应订单退款排到18万位",
+      "onboard_time": 1751972483,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 332935,
@@ -2857,6 +2873,14 @@
       "onboard_time": 1751968703,
       "rank": 20,
       "category": "演出"
+    },
+    {
+      "raw_hot": 242789,
+      "num": 337419,
+      "word": "国防部回应外国船挂五星红旗",
+      "onboard_time": 1751971582,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 242230,
@@ -3811,14 +3835,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 193684,
-      "num": 339419,
-      "word": "罗马仕回应订单退款排到18万位",
-      "onboard_time": 1751972483,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 193516,
       "num": 193516,
       "word": "王楚钦回应被孙颖莎带着打",
@@ -3960,6 +3976,14 @@
       "word": "锦绣芳华断更",
       "onboard_time": 1751884222,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 188055,
+      "num": 188055,
+      "word": "锦绣芳华第12集 离谱",
+      "onboard_time": 1751973563,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -4499,6 +4523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 168465,
+      "num": 264447,
+      "word": "腾讯视频连发五条折腰",
+      "onboard_time": 1751973623,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168334,
       "num": 168334,
       "word": "贾静雯大女儿称与继母是好姐妹",
@@ -4627,6 +4659,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 164104,
+      "num": 161337,
+      "word": "魏哲鸣现场还原鹰视狼顾名场面",
+      "onboard_time": 1751974702,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163903,
       "num": 163903,
       "word": "谁敢老了以后这样生活",
@@ -4691,6 +4731,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 162235,
+      "num": 162235,
+      "word": "陈飞宇黑美甲没涂匀",
+      "onboard_time": 1751974282,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162166,
       "num": 279545,
       "word": "35岁开场而已",
@@ -4737,14 +4785,6 @@
       "onboard_time": 1751865083,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 160701,
-      "num": 337419,
-      "word": "国防部回应外国船挂五星红旗",
-      "onboard_time": 1751971582,
-      "rank": 36,
-      "category": "国内时政"
     },
     {
       "raw_hot": 160471,
@@ -4915,12 +4955,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156097,
+      "num": 156097,
+      "word": "以法之名微博追剧团",
+      "onboard_time": 1751973563,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155753,
       "num": 155753,
       "word": "王一博长袖白T泡面小卷毛",
       "onboard_time": 1751780121,
       "rank": 27,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 155500,
+      "num": 155500,
+      "word": "长期轻断食的副作用",
+      "onboard_time": 1751974642,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 155376,
@@ -4961,6 +5017,14 @@
       "onboard_time": 1751799081,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 154029,
+      "num": 154029,
+      "word": "国乒男队统治力下滑肉眼可见",
+      "onboard_time": 1751973503,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 153987,
@@ -5355,6 +5419,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 145291,
+      "num": 156104,
+      "word": "何炅为邓紫棋小说写推荐语",
+      "onboard_time": 1751972242,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145234,
       "num": 145234,
       "word": "李人骏这集挨骂没毛病",
@@ -5377,6 +5449,14 @@
       "onboard_time": 1751962462,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144763,
+      "num": 144763,
+      "word": "原来大冰块是这么生产的",
+      "onboard_time": 1751974462,
+      "rank": 41,
+      "category": "科学科普"
     },
     {
       "raw_hot": 144644,
@@ -5763,14 +5843,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 135813,
-      "num": 135813,
-      "word": "锦绣芳华第12集 离谱",
-      "onboard_time": 1751973563,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 135588,
       "num": 135588,
       "word": "张雨绮一出场哇声一片",
@@ -5785,6 +5857,14 @@
       "onboard_time": 1751801485,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135424,
+      "num": 224543,
+      "word": "韩父性侵虐待女儿10年获刑3年",
+      "onboard_time": 1751973984,
+      "rank": 20,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 135350,
@@ -5809,14 +5889,6 @@
       "onboard_time": 1751948365,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 134857,
-      "num": 134857,
-      "word": "国乒男队统治力下滑肉眼可见",
-      "onboard_time": 1751973503,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 134744,
@@ -6195,6 +6267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129164,
+      "num": 129164,
+      "word": "梓渝一份惊喜待查收",
+      "onboard_time": 1751973802,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128716,
       "num": 128716,
       "word": "shanks真成角了",
@@ -6443,6 +6523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125144,
+      "num": 125144,
+      "word": "抖音回应签约周杰伦",
+      "onboard_time": 1751973922,
+      "rank": 47,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 125143,
       "num": 167407,
       "word": "头一次看剧窝囊了23集",
@@ -6465,14 +6553,6 @@
       "onboard_time": 1751898325,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124696,
-      "num": 124696,
-      "word": "何炅为邓紫棋小说写推荐语",
-      "onboard_time": 1751972242,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 124636,
@@ -6633,14 +6713,6 @@
       "onboard_time": 1751854043,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 121961,
-      "num": 121961,
-      "word": "以法之名微博追剧团",
-      "onboard_time": 1751973563,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 121887,
@@ -7163,14 +7235,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 113707,
-      "num": 264447,
-      "word": "腾讯视频连发五条折腰",
-      "onboard_time": 1751973623,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 113704,
       "num": 128226,
       "word": "辛芷蕾出发巴黎高定周",
@@ -7673,14 +7737,6 @@
       "onboard_time": 1751887222,
       "rank": 46,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 105332,
-      "num": 105332,
-      "word": "梓渝一份惊喜待查收",
-      "onboard_time": 1751973802,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 105281,
@@ -8435,6 +8491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89380,
+      "num": 158694,
+      "word": "与进口等效的国产九价定价仅499",
+      "onboard_time": 1751974702,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88848,
       "num": 88848,
       "word": "F1直播",
@@ -8769,6 +8833,14 @@
       "onboard_time": 1751870964,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 75658,
+      "num": 155557,
+      "word": "韩父辩称轻微体罚否认性侵被驳回",
+      "onboard_time": 1751974762,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 75271,
@@ -9372,7 +9444,7 @@
     },
     {
       "raw_hot": 47572,
-      "num": 181749,
+      "num": 231871,
       "word": "解限机的美术也是上桌了",
       "onboard_time": 1751972723,
       "rank": 29,
@@ -9540,7 +9612,7 @@
     },
     {
       "raw_hot": 40379,
-      "num": 748020,
+      "num": 1000101,
       "word": "夏日文旅消费UP",
       "onboard_time": 1751967023,
       "rank": 2,
@@ -9584,6 +9656,14 @@
       "word": "厦门台风前出现魔幻朝霞",
       "onboard_time": 1751825957,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38296,
+      "num": 225770,
+      "word": "江门水务称变黄自来水水质无问题",
+      "onboard_time": 1751973682,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -9888,14 +9968,6 @@
       "word": "程序员深圳车居3年多省下10万",
       "onboard_time": 1751881283,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25639,
-      "num": 207036,
-      "word": "江门水务称变黄自来水水质无问题",
-      "onboard_time": 1751973682,
-      "rank": 25,
       "category": "民生新闻"
     },
     {
