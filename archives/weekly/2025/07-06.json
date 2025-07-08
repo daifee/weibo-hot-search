@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751945934168,
+  "endTime": 1751946906557,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -499,12 +499,28 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 968677,
+      "num": 968677,
+      "word": "天水多名老师血铅也严重超标",
+      "onboard_time": 1751942962,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 944944,
       "num": 1151191,
       "word": "以法之名更新了",
       "onboard_time": 1751883801,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 936796,
+      "num": 936796,
+      "word": "鹿晗送内地任意未开票场次门票一张",
+      "onboard_time": 1751942362,
+      "rank": 4,
+      "category": "演出"
     },
     {
       "raw_hot": 921102,
@@ -619,6 +635,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 810118,
+      "num": 810118,
+      "word": "周先旺被查",
+      "onboard_time": 1751945363,
+      "rank": 10,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 801998,
+      "num": 801998,
+      "word": "樱桃琥珀",
+      "onboard_time": 1751941941,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 797658,
       "num": 797658,
       "word": "医生称晚安牛奶每天喝24000瓶才有效",
@@ -683,20 +715,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 760011,
+      "num": 760011,
+      "word": "日本一女星疑家中去世遗体腐烂多日",
+      "onboard_time": 1751942482,
+      "rank": 1,
+      "category": "艺人,海外新闻"
+    },
+    {
       "raw_hot": 758465,
       "num": 1113206,
       "word": "马斯克发文成立美国党",
       "onboard_time": 1751757859,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 742663,
-      "num": 742663,
-      "word": "日本一女星疑家中去世遗体腐烂多日",
-      "onboard_time": 1751942482,
-      "rank": 1,
-      "category": "艺人,海外新闻"
     },
     {
       "raw_hot": 741441,
@@ -707,28 +739,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 738999,
-      "num": 738999,
-      "word": "樱桃琥珀",
-      "onboard_time": 1751941941,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 734215,
       "num": 357442,
       "word": "妈妈一定在天上急得团团转",
       "onboard_time": 1751870364,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 730711,
-      "num": 730711,
-      "word": "鹿晗送内地任意未开票场次门票一张",
-      "onboard_time": 1751942362,
-      "rank": 4,
-      "category": "演出"
     },
     {
       "raw_hot": 727860,
@@ -865,14 +881,6 @@
       "onboard_time": 1751807006,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 650827,
-      "num": 650827,
-      "word": "天水多名老师血铅也严重超标",
-      "onboard_time": 1751942962,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 643550,
@@ -1083,6 +1091,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 522684,
+      "num": 522684,
+      "word": "国乒男单三人止步美国大满贯首轮",
+      "onboard_time": 1751937982,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 522457,
       "num": 522457,
       "word": "凤凰传奇已连续取消3站演唱会",
@@ -1153,6 +1169,14 @@
       "onboard_time": 1751805684,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 475660,
+      "num": 475660,
+      "word": "李诗英怀上前夫的二胎",
+      "onboard_time": 1751945783,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 460487,
@@ -1241,14 +1265,6 @@
       "onboard_time": 1751872343,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 441059,
-      "num": 441059,
-      "word": "国乒男单三人止步美国大满贯首轮",
-      "onboard_time": 1751937982,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 437845,
@@ -1355,6 +1371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 410537,
+      "num": 410597,
+      "word": "中国要像手机一样造战斗机",
+      "onboard_time": 1751941821,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 410036,
       "num": 236359,
       "word": "田栩宁emoji",
@@ -1385,14 +1409,6 @@
       "onboard_time": 1751862686,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 397039,
-      "num": 397039,
-      "word": "周先旺被查",
-      "onboard_time": 1751945363,
-      "rank": 10,
-      "category": "国内时政"
     },
     {
       "raw_hot": 393473,
@@ -1507,6 +1523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 369202,
+      "num": 369202,
+      "word": "梓渝说是嘛谢谢你呀青春制作人",
+      "onboard_time": 1751943621,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 369157,
       "num": 369157,
       "word": "美国男子肾移植术后体内爬满寄生虫",
@@ -1585,14 +1609,6 @@
       "onboard_time": 1751877383,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 346171,
-      "num": 410597,
-      "word": "中国要像手机一样造战斗机",
-      "onboard_time": 1751941821,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 345630,
@@ -1883,6 +1899,14 @@
       "category": "科学科普,健康医疗"
     },
     {
+      "raw_hot": 298092,
+      "num": 298092,
+      "word": "铅中毒",
+      "onboard_time": 1751943382,
+      "rank": 23,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 292252,
       "num": 323109,
       "word": "中考720分小伙高二转职高学烹饪",
@@ -1987,14 +2011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 276304,
-      "num": 160188,
-      "word": "李诗英怀上前夫的二胎",
-      "onboard_time": 1751945783,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 274617,
       "num": 248079,
       "word": "鹿晗工作室出图",
@@ -2009,14 +2025,6 @@
       "onboard_time": 1751875522,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 273349,
-      "num": 273349,
-      "word": "梓渝说是嘛谢谢你呀青春制作人",
-      "onboard_time": 1751943621,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 273311,
@@ -2129,6 +2137,14 @@
       "onboard_time": 1751901803,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 265800,
+      "num": 265800,
+      "word": "电影长安的荔枝点映开启",
+      "onboard_time": 1751945063,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 265762,
@@ -2249,6 +2265,14 @@
       "onboard_time": 1751850081,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 254831,
+      "num": 483817,
+      "word": "天水一幼儿园幼儿血铅异常8人被刑拘",
+      "onboard_time": 1751946446,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 254796,
@@ -2411,6 +2435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 235883,
+      "num": 235883,
+      "word": "微笑一号店线下人气",
+      "onboard_time": 1751945120,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235795,
       "num": 262735,
       "word": "沈梦辰和杨紫撞冠了",
@@ -2515,14 +2547,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 230044,
-      "num": 230044,
-      "word": "铅中毒",
-      "onboard_time": 1751943382,
-      "rank": 23,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 229930,
       "num": 317002,
       "word": "田栩宁好六路透",
@@ -2561,14 +2585,6 @@
       "onboard_time": 1751800405,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 224769,
-      "num": 224769,
-      "word": "微笑一号店线下人气",
-      "onboard_time": 1751945120,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 224677,
@@ -3067,6 +3083,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 195296,
+      "num": 195296,
+      "word": "张可盈竟然演过赵丽颖妹妹",
+      "onboard_time": 1751946142,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195068,
       "num": 195068,
       "word": "王楚钦vs奇里塔",
@@ -3259,6 +3283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185857,
+      "num": 185857,
+      "word": "考古青你3梓渝牛在在的友情",
+      "onboard_time": 1751946562,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184997,
       "num": 184997,
       "word": "杭州南站坠楼男子自行跳下",
@@ -3289,6 +3321,14 @@
       "onboard_time": 1751861244,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 183978,
+      "num": 183978,
+      "word": "利剑玫瑰",
+      "onboard_time": 1751943621,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 183720,
@@ -3345,14 +3385,6 @@
       "onboard_time": 1751698942,
       "rank": 16,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 180056,
-      "num": 180056,
-      "word": "利剑玫瑰",
-      "onboard_time": 1751943621,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 179017,
@@ -3417,6 +3449,14 @@
       "onboard_time": 1751767761,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 176342,
+      "num": 176342,
+      "word": "李艾肠胃炎腰细了四公分",
+      "onboard_time": 1751942122,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 175936,
@@ -3651,6 +3691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166430,
+      "num": 304676,
+      "word": "甘肃天水铅中毒幼儿家长最新发声",
+      "onboard_time": 1751945482,
+      "rank": 13,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 165806,
       "num": 165806,
       "word": "中方回应特朗普威胁加征新关税",
@@ -3665,6 +3713,14 @@
       "onboard_time": 1751878701,
       "rank": 31,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 165740,
+      "num": 165740,
+      "word": "上海92平米迷你别墅",
+      "onboard_time": 1751945603,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 165027,
@@ -3732,7 +3788,7 @@
     },
     {
       "raw_hot": 162166,
-      "num": 275825,
+      "num": 279545,
       "word": "35岁开场而已",
       "onboard_time": 1751942962,
       "rank": 17,
@@ -3955,14 +4011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 153338,
-      "num": 153338,
-      "word": "电影长安的荔枝点映开启",
-      "onboard_time": 1751945063,
-      "rank": 32,
-      "category": "电影"
-    },
-    {
       "raw_hot": 153143,
       "num": 203758,
       "word": "书卷一梦反转反转再反转",
@@ -3977,14 +4025,6 @@
       "onboard_time": 1751850201,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 153016,
-      "num": 153016,
-      "word": "李艾肠胃炎腰细了四公分",
-      "onboard_time": 1751942122,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 152947,
@@ -4515,6 +4555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137478,
+      "num": 137478,
+      "word": "国行苹果AI凉了吗",
+      "onboard_time": 1751944702,
+      "rank": 37,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 137256,
       "num": 137256,
       "word": "新说唱南北cp",
@@ -4875,6 +4923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127884,
+      "num": 127884,
+      "word": "AL对战CFO翻中翻",
+      "onboard_time": 1751942722,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 127856,
       "num": 127856,
       "word": "常州发布回应进球无效",
@@ -4907,14 +4963,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 127257,
-      "num": 127257,
-      "word": "国行苹果AI凉了吗",
-      "onboard_time": 1751944702,
-      "rank": 37,
-      "category": "数码,互联网"
-    },
-    {
       "raw_hot": 127228,
       "num": 293291,
       "word": "十三太保都是京东的宝",
@@ -4945,14 +4993,6 @@
       "onboard_time": 1751779942,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 126949,
-      "num": 126949,
-      "word": "上海92平米迷你别墅",
-      "onboard_time": 1751945603,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 126813,
@@ -5041,6 +5081,14 @@
       "onboard_time": 1751853682,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 125401,
+      "num": 125401,
+      "word": "花花锁定谭爷爷只需要一块果果",
+      "onboard_time": 1751942122,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125127,
@@ -5217,6 +5265,14 @@
       "onboard_time": 1751941941,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121342,
+      "num": 121342,
+      "word": "沈腾马丽这辈子我再信你一回",
+      "onboard_time": 1751942901,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 121160,
@@ -5476,7 +5532,7 @@
     },
     {
       "raw_hot": 116604,
-      "num": 149468,
+      "num": 254948,
       "word": "网红孙其康回应孙恩盛无证驾驶",
       "onboard_time": 1751939241,
       "rank": 28,
@@ -5587,20 +5643,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 114455,
+      "num": 114455,
+      "word": "人民日报报道王楚钦",
+      "onboard_time": 1751946503,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114381,
       "num": 114381,
       "word": "00后上班摸鱼赚220元的一天",
       "onboard_time": 1751788342,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 113798,
-      "num": 113798,
-      "word": "沈腾马丽这辈子我再信你一回",
-      "onboard_time": 1751942901,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 113769,
@@ -6395,14 +6451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 99800,
-      "num": 99800,
-      "word": "花花锁定谭爷爷只需要一块果果",
-      "onboard_time": 1751942122,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 99746,
       "num": 99746,
       "word": "快递外卖来电话将一眼识别",
@@ -6651,6 +6699,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 93217,
+      "num": 182799,
+      "word": "三对母女旅游车辆坠河只找到两尸体",
+      "onboard_time": 1751946082,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93071,
       "num": 93071,
       "word": "权恩妃waterbomb舞台",
@@ -6817,14 +6873,6 @@
       "onboard_time": 1751851704,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 85738,
-      "num": 125422,
-      "word": "AL对战CFO翻中翻",
-      "onboard_time": 1751942722,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 84983,
@@ -7073,6 +7121,14 @@
       "onboard_time": 1751787442,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 72531,
+      "num": 138279,
+      "word": "明日方舟",
+      "onboard_time": 1751946022,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 72397,
@@ -7587,6 +7643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 45306,
+      "num": 233948,
+      "word": "天水幼儿血铅异常食品非法添加物为颜料",
+      "onboard_time": 1751946621,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44567,
       "num": 107115,
       "word": "王曼昱回应战胜卡尔伯格",
@@ -7609,14 +7673,6 @@
       "onboard_time": 1751870484,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43108,
-      "num": 304676,
-      "word": "甘肃天水铅中毒幼儿家长最新发声",
-      "onboard_time": 1751945482,
-      "rank": 13,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 42903,
@@ -8233,6 +8289,14 @@
       "onboard_time": 1751834533,
       "rank": 20,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 9304,
+      "num": 952696,
+      "word": "大自然藏了一份清凉感",
+      "onboard_time": 1751946621,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
@@ -8259,6 +8323,9 @@
     },
     {
       "word": "#习近平在山西省阳泉市考察#"
+    },
+    {
+      "word": "#一支视频看习近平心系三晋大地#"
     }
   ]
 }
