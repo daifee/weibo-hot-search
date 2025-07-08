@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752000725347,
+  "endTime": 1752002515633,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -28307,6 +28307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20399,
+      "num": 35154,
+      "word": "王鹤棣是一个形容词",
+      "onboard_time": 1752002234,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 20354,
       "num": 21350,
       "word": "纳指标普500指数跳水",
@@ -28673,6 +28681,14 @@
       "onboard_time": 1751382444,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 15329,
+      "num": 35112,
+      "word": "吴宣仪挂了蓝色labubu",
+      "onboard_time": 1752002475,
+      "rank": 45,
+      "category": "艺人,休闲"
     },
     {
       "raw_hot": 15292,
