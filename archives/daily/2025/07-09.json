@@ -1,6 +1,6 @@
 {
   "startTime": 1751992486281,
-  "endTime": 1752002515633,
+  "endTime": 1752003478298,
   "band_list": [
     {
       "raw_hot": 1451004,
@@ -499,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19051,
+      "num": 34000,
+      "word": "2025世俱杯",
+      "onboard_time": 1752003194,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 17369,
       "num": 62071,
       "word": "王楚钦暂定打到洛杉矶奥运",
@@ -507,12 +515,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 15329,
+      "raw_hot": 15502,
       "num": 35112,
       "word": "吴宣仪挂了蓝色labubu",
       "onboard_time": 1752002475,
       "rank": 45,
       "category": "艺人,休闲"
+    },
+    {
+      "raw_hot": 12243,
+      "num": 35107,
+      "word": "孩子们要争做民族的脊梁",
+      "onboard_time": 1752003074,
+      "rank": 11,
+      "category": "国内时政"
     },
     {
       "raw_hot": 11882,
