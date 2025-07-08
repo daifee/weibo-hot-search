@@ -1,6 +1,6 @@
 {
   "startTime": 1751906062153,
-  "endTime": 1751950282436,
+  "endTime": 1751952482700,
   "band_list": [
     {
       "raw_hot": 9289863,
@@ -27,6 +27,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1976268,
+      "num": 1976268,
+      "word": "王阳 孙菲菲",
+      "onboard_time": 1751950582,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1783718,
       "num": 968677,
       "word": "天水多名老师血铅也严重超标",
@@ -43,12 +51,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1423640,
+      "num": 289023,
+      "word": "天水幼儿园后厨监控视频曝光",
+      "onboard_time": 1751949921,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1389386,
       "num": 437473,
       "word": "江宁婆婆",
       "onboard_time": 1751937563,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1382487,
+      "num": 288045,
+      "word": "张靓颖 网红化",
+      "onboard_time": 1751950225,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 1365918,
@@ -187,12 +211,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 474634,
+      "num": 474634,
+      "word": "林高远2比3罗伯勒斯",
+      "onboard_time": 1751951363,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 473961,
       "num": 284125,
       "word": "南京红老头",
       "onboard_time": 1751899165,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 465073,
+      "num": 465073,
+      "word": "27岁真的还很年轻很年轻的",
+      "onboard_time": 1751947883,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 436809,
@@ -315,6 +355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 286753,
+      "num": 286753,
+      "word": "阿姨收个衣服都能上万步",
+      "onboard_time": 1751947043,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 277890,
       "num": 277890,
       "word": "葛荟婕自曝做了戒酒手术",
@@ -387,6 +435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 248874,
+      "num": 286067,
+      "word": "家长讲述血铅异常幼儿治疗过程",
+      "onboard_time": 1751949083,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 246544,
       "num": 246544,
       "word": "刘宇宁说迪丽热巴网速比5G还快",
@@ -435,14 +491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 233675,
-      "num": 233675,
-      "word": "27岁真的还很年轻很年轻的",
-      "onboard_time": 1751947883,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 231408,
       "num": 231408,
       "word": "特朗普已签署12封关税信函",
@@ -475,22 +523,6 @@
       "category": "休闲,互联网"
     },
     {
-      "raw_hot": 222516,
-      "num": 286067,
-      "word": "家长讲述血铅异常幼儿治疗过程",
-      "onboard_time": 1751949083,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 221245,
-      "num": 221245,
-      "word": "阿姨收个衣服都能上万步",
-      "onboard_time": 1751947043,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 214506,
       "num": 214506,
       "word": "中方已向印度提出交涉",
@@ -515,6 +547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194504,
+      "num": 218621,
+      "word": "以法之名暑期剧档高开疯走",
+      "onboard_time": 1751952141,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194471,
       "num": 194471,
       "word": "葡萄奶绿",
@@ -523,12 +563,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 192764,
+      "num": 192764,
+      "word": "五月天北京",
+      "onboard_time": 1751950283,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 191535,
       "num": 443570,
       "word": "济南出租车惊现318川藏线",
       "onboard_time": 1751940502,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190418,
+      "num": 190418,
+      "word": "天水市长称深感痛心",
+      "onboard_time": 1751951782,
+      "rank": 26,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 188661,
@@ -555,14 +611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 181908,
-      "num": 231928,
-      "word": "天水幼儿园后厨监控视频曝光",
-      "onboard_time": 1751949921,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 179792,
       "num": 179792,
       "word": "光遇复刻",
@@ -571,12 +619,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 179740,
+      "num": 179740,
+      "word": "书卷一梦还有多少事瞒着我",
+      "onboard_time": 1751951183,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179017,
       "num": 259295,
       "word": "车辆暴晒后怎么快速降温",
       "onboard_time": 1751929819,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177389,
+      "num": 177389,
+      "word": "天水调查组通报一幼儿园幼儿血铅异常",
+      "onboard_time": 1751952262,
+      "rank": 28,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 177096,
@@ -659,12 +723,60 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 164999,
+      "num": 164999,
+      "word": "我这么丑妈妈还是那么爱我",
+      "onboard_time": 1751950943,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 164090,
+      "num": 164090,
+      "word": "锦绣芳华",
+      "onboard_time": 1751952202,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 162465,
+      "num": 162465,
+      "word": "天水幼儿铅中毒诊疗方案已制订",
+      "onboard_time": 1751951962,
+      "rank": 31,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 162166,
       "num": 279545,
       "word": "35岁开场而已",
       "onboard_time": 1751942962,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 161967,
+      "num": 161967,
+      "word": "长安二十四计",
+      "onboard_time": 1751951902,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 161136,
+      "num": 161136,
+      "word": "光遇",
+      "onboard_time": 1751951423,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 157935,
+      "num": 157935,
+      "word": "增派2名国家级专家落实天水铅中毒救治",
+      "onboard_time": 1751952382,
+      "rank": 35,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 157172,
@@ -681,6 +793,14 @@
       "onboard_time": 1751938342,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 153833,
+      "num": 153833,
+      "word": "小米深圳国际总部启用",
+      "onboard_time": 1751951423,
+      "rank": 37,
+      "category": "数码,财经"
     },
     {
       "raw_hot": 153099,
@@ -755,6 +875,22 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 141386,
+      "num": 141386,
+      "word": "我的二搭cp开始放粮了",
+      "onboard_time": 1751952141,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 139848,
+      "num": 199639,
+      "word": "招聘不应对年龄歧视",
+      "onboard_time": 1751949563,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137478,
       "num": 137478,
       "word": "国行苹果AI凉了吗",
@@ -795,6 +931,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 132037,
+      "num": 132037,
+      "word": "原神5.7",
+      "onboard_time": 1751950402,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 131785,
       "num": 131785,
       "word": "洪亮4连质问李人骏不老实",
@@ -816,6 +960,14 @@
       "word": "游本昌人民日报撰文",
       "onboard_time": 1751937683,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 129186,
+      "num": 129186,
+      "word": "向佐金发透视装",
+      "onboard_time": 1751951482,
+      "rank": 45,
       "category": "艺人"
     },
     {
@@ -923,6 +1075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119127,
+      "num": 119127,
+      "word": "字节否认已同意出售TikTok美国业务",
+      "onboard_time": 1751952442,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 118910,
       "num": 106681,
       "word": "特朗普称将对日韩征收25%关税",
@@ -987,14 +1147,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 113273,
-      "num": 113273,
-      "word": "张靓颖 网红化",
-      "onboard_time": 1751950225,
-      "rank": 48,
-      "category": "演出"
-    },
-    {
       "raw_hot": 112876,
       "num": 112876,
       "word": "国足0比3韩国",
@@ -1033,6 +1185,14 @@
       "onboard_time": 1751935943,
       "rank": 40,
       "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 107733,
+      "num": 286782,
+      "word": "两地血铅检查差距大到底谁在糊弄",
+      "onboard_time": 1751950884,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107348,
@@ -1147,6 +1307,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 97544,
+      "num": 290596,
+      "word": "蜜雪冰城用脚关水桶员工道歉",
+      "onboard_time": 1751951842,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94985,
       "num": 94985,
       "word": "人际交往中恶意满满的5句话",
@@ -1185,14 +1353,6 @@
       "onboard_time": 1751929758,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 88181,
-      "num": 199639,
-      "word": "招聘不应对年龄歧视",
-      "onboard_time": 1751949563,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 86718,
@@ -1427,6 +1587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59248,
+      "num": 130228,
+      "word": "杨紫片场移动KTV",
+      "onboard_time": 1751950283,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 57860,
       "num": 57860,
       "word": "女子被造黄谣3年维权换20万空头支票",
@@ -1561,6 +1729,14 @@
       "onboard_time": 1751917993,
       "rank": 15,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 28754,
+      "num": 238454,
+      "word": "防晒衣没有黑科技贵的是智商税",
+      "onboard_time": 1751952081,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27367,

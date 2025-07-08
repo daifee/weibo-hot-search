@@ -1,0 +1,410 @@
+{
+  "runTime": 1751952482700,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1976268,
+        "num": 1976268,
+        "word": "王阳 孙菲菲",
+        "onboard_time": 1751950582,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 527910,
+        "num": 527910,
+        "word": "轻断食10天瘦了14.5斤",
+        "onboard_time": 1751939842,
+        "rank": 1,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 63788,
+        "num": 489527,
+        "word": "中国制造不断冲击世界眼球",
+        "onboard_time": 1751947162,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 474634,
+        "num": 474634,
+        "word": "林高远2比3罗伯勒斯",
+        "onboard_time": 1751951363,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 465073,
+        "num": 465073,
+        "word": "27岁真的还很年轻很年轻的",
+        "onboard_time": 1751947883,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2017301,
+        "num": 464018,
+        "word": "天水一幼儿园幼儿血铅异常8人被刑拘",
+        "onboard_time": 1751946446,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 919843,
+        "num": 463931,
+        "word": "孙菲菲说为王阳澄清是应王阳要求写的",
+        "onboard_time": 1751947043,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458504,
+        "num": 458504,
+        "word": "国乒男单三人止步美国大满贯首轮",
+        "onboard_time": 1751937982,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 368417,
+        "num": 368417,
+        "word": "蜜雪冰城被曝员工用脚关直饮水桶",
+        "onboard_time": 1751904143,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313372,
+        "num": 313372,
+        "word": "鹿晗送内地任意未开票场次门票一张",
+        "onboard_time": 1751942362,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 97544,
+        "num": 290596,
+        "word": "蜜雪冰城用脚关水桶员工道歉",
+        "onboard_time": 1751951842,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1423640,
+        "num": 289023,
+        "word": "天水幼儿园后厨监控视频曝光",
+        "onboard_time": 1751949921,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1382487,
+        "num": 288045,
+        "word": "张靓颖 网红化",
+        "onboard_time": 1751950225,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 287064,
+        "num": 287064,
+        "word": "日本一女星疑家中去世遗体腐烂多日",
+        "onboard_time": 1751942482,
+        "rank": 13,
+        "category": "艺人,海外新闻"
+      },
+      {
+        "raw_hot": 107733,
+        "num": 286782,
+        "word": "两地血铅检查差距大到底谁在糊弄",
+        "onboard_time": 1751950884,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286753,
+        "num": 286753,
+        "word": "阿姨收个衣服都能上万步",
+        "onboard_time": 1751947043,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 273322,
+        "num": 273322,
+        "word": "周先旺被查",
+        "onboard_time": 1751945363,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 248874,
+        "num": 248874,
+        "word": "家长讲述血铅异常幼儿治疗过程",
+        "onboard_time": 1751949083,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241248,
+        "num": 241248,
+        "word": "张子枫第一个摔出来的角色",
+        "onboard_time": 1751948424,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 28754,
+        "num": 238454,
+        "word": "防晒衣没有黑科技贵的是智商税",
+        "onboard_time": 1751952081,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238070,
+        "num": 238070,
+        "word": "李诗英怀上前夫的二胎",
+        "onboard_time": 1751945783,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194504,
+        "num": 218621,
+        "word": "以法之名暑期剧档高开疯走",
+        "onboard_time": 1751952141,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217694,
+        "num": 217694,
+        "word": "樱桃琥珀",
+        "onboard_time": 1751941941,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212356,
+        "num": 212356,
+        "word": "天水幼儿血铅异常食品非法添加物为颜料",
+        "onboard_time": 1751946621,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192764,
+        "num": 192764,
+        "word": "五月天北京",
+        "onboard_time": 1751950283,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139848,
+        "num": 190504,
+        "word": "招聘不应对年龄歧视",
+        "onboard_time": 1751949563,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190418,
+        "num": 190418,
+        "word": "天水市长称深感痛心",
+        "onboard_time": 1751951782,
+        "rank": 26,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 179740,
+        "num": 179740,
+        "word": "书卷一梦还有多少事瞒着我",
+        "onboard_time": 1751951183,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177389,
+        "num": 177389,
+        "word": "天水调查组通报一幼儿园幼儿血铅异常",
+        "onboard_time": 1751952262,
+        "rank": 28,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 164999,
+        "num": 164999,
+        "word": "我这么丑妈妈还是那么爱我",
+        "onboard_time": 1751950943,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164090,
+        "num": 164090,
+        "word": "锦绣芳华",
+        "onboard_time": 1751952202,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162465,
+        "num": 162465,
+        "word": "天水幼儿铅中毒诊疗方案已制订",
+        "onboard_time": 1751951962,
+        "rank": 31,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 161967,
+        "num": 161967,
+        "word": "长安二十四计",
+        "onboard_time": 1751951902,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161805,
+        "num": 161805,
+        "word": "Angelababy一出手便是王炸",
+        "onboard_time": 1751898685,
+        "rank": 33,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 161136,
+        "num": 161136,
+        "word": "光遇",
+        "onboard_time": 1751951423,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157935,
+        "num": 157935,
+        "word": "增派2名国家级专家落实天水铅中毒救治",
+        "onboard_time": 1751952382,
+        "rank": 35,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 156573,
+        "num": 156573,
+        "word": "甘肃天水铅中毒幼儿家长最新发声",
+        "onboard_time": 1751945482,
+        "rank": 36,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 153833,
+        "num": 153833,
+        "word": "小米深圳国际总部启用",
+        "onboard_time": 1751951423,
+        "rank": 37,
+        "category": "数码,财经"
+      },
+      {
+        "raw_hot": 146748,
+        "num": 146748,
+        "word": "黄瓜水",
+        "onboard_time": 1751949443,
+        "rank": 38,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 141386,
+        "num": 141386,
+        "word": "我的二搭cp开始放粮了",
+        "onboard_time": 1751952141,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140746,
+        "num": 140746,
+        "word": "熬夜熬到作息正常了",
+        "onboard_time": 1751949265,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132037,
+        "num": 132037,
+        "word": "原神5.7",
+        "onboard_time": 1751950402,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 59248,
+        "num": 130228,
+        "word": "杨紫片场移动KTV",
+        "onboard_time": 1751950283,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130050,
+        "num": 130050,
+        "word": "梓渝说是嘛谢谢你呀青春制作人",
+        "onboard_time": 1751943621,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129676,
+        "num": 129676,
+        "word": "中国要像手机一样造战斗机",
+        "onboard_time": 1751941821,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 129186,
+        "num": 129186,
+        "word": "向佐金发透视装",
+        "onboard_time": 1751951482,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122799,
+        "num": 122799,
+        "word": "刘宇宁说迪丽热巴网速比5G还快",
+        "onboard_time": 1751947583,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122187,
+        "num": 122187,
+        "word": "麦当劳字体",
+        "onboard_time": 1751948544,
+        "rank": 47,
+        "category": "休闲,互联网"
+      },
+      {
+        "raw_hot": 122106,
+        "num": 122106,
+        "word": "Angelababy或将演短剧",
+        "onboard_time": 1751949443,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119127,
+        "num": 119127,
+        "word": "字节否认已同意出售TikTok美国业务",
+        "onboard_time": 1751952442,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在阳泉考察制造业企业发展#"
+    }
+  }
+}
