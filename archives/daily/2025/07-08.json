@@ -1,6 +1,6 @@
 {
   "startTime": 1751906062153,
-  "endTime": 1751974824372,
+  "endTime": 1751979260010,
   "band_list": [
     {
       "raw_hot": 9289863,
@@ -59,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1888824,
+      "num": 315009,
+      "word": "8个小时不换卫生巾有多恐怖",
+      "onboard_time": 1751975122,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1783718,
       "num": 968677,
       "word": "天水多名老师血铅也严重超标",
@@ -73,6 +81,14 @@
       "onboard_time": 1751904143,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1443394,
+      "num": 1443394,
+      "word": "演唱会抢票难度排行榜",
+      "onboard_time": 1751970442,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 1409690,
@@ -123,14 +139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1201759,
-      "num": 1201759,
-      "word": "演唱会抢票难度排行榜",
-      "onboard_time": 1751970442,
-      "rank": 43,
-      "category": "演出"
-    },
-    {
       "raw_hot": 1190287,
       "num": 1190446,
       "word": "为什么蜜雪冰城永不塌房",
@@ -153,6 +161,22 @@
       "onboard_time": 1751954782,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1022980,
+      "num": 556223,
+      "word": "高铁B座",
+      "onboard_time": 1751975423,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1005751,
+      "num": 1005751,
+      "word": "一公务员称孕期把工作分给合同工",
+      "onboard_time": 1751976983,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 967583,
@@ -275,6 +299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 662222,
+      "num": 662222,
+      "word": "韩父性侵虐待女儿10年获刑3年",
+      "onboard_time": 1751973984,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 659510,
       "num": 474248,
       "word": "不要全平台取同一个id",
@@ -324,7 +356,7 @@
     },
     {
       "raw_hot": 614111,
-      "num": 333163,
+      "num": 349418,
       "word": "梓渝摇",
       "onboard_time": 1751970742,
       "rank": 15,
@@ -361,6 +393,14 @@
       "onboard_time": 1751970802,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 555027,
+      "num": 555027,
+      "word": "方媛三胎孕肚",
+      "onboard_time": 1751978302,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 553912,
@@ -428,7 +468,7 @@
     },
     {
       "raw_hot": 490478,
-      "num": 239285,
+      "num": 417277,
       "word": "王一博神图",
       "onboard_time": 1751974101,
       "rank": 12,
@@ -497,6 +537,14 @@
       "onboard_time": 1751941821,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 403305,
+      "num": 403305,
+      "word": "田栩宁新剧上班路透",
+      "onboard_time": 1751978242,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 373716,
@@ -627,6 +675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 317374,
+      "num": 565006,
+      "word": "袭榜歌手官宣",
+      "onboard_time": 1751975663,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 316127,
       "num": 316127,
       "word": "60岁大叔扮女装与千余人发生关系不实",
@@ -641,6 +697,14 @@
       "onboard_time": 1751960422,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 313234,
+      "num": 563776,
+      "word": "以法之名",
+      "onboard_time": 1751975242,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 313218,
@@ -715,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 272083,
+      "num": 600123,
+      "word": "国乒男队统治力下滑肉眼可见",
+      "onboard_time": 1751973503,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 270123,
       "num": 270123,
       "word": "天水市长称深感痛心",
@@ -729,6 +801,14 @@
       "onboard_time": 1751963601,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 267399,
+      "num": 366079,
+      "word": "G社是辛芷蕾的站姐吧",
+      "onboard_time": 1751977163,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 267159,
@@ -835,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245212,
+      "num": 245212,
+      "word": "杨紫捂李现的嘴",
+      "onboard_time": 1751976022,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 243065,
       "num": 243065,
       "word": "韩红也想一脚把黄誉博翻飞",
@@ -849,6 +937,14 @@
       "onboard_time": 1751971582,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 238690,
+      "num": 238690,
+      "word": "王一博辛芷蕾同框看秀",
+      "onboard_time": 1751976802,
+      "rank": 25,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 238608,
@@ -1139,6 +1235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196241,
+      "num": 196241,
+      "word": "书卷一梦三人转圈捅又要来了",
+      "onboard_time": 1751978363,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196011,
       "num": 172959,
       "word": "以法剧宣直播艺人上窜下跳",
@@ -1187,6 +1291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189026,
+      "num": 189026,
+      "word": "乔振兴死去的白月光突然饭撒",
+      "onboard_time": 1751975062,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188661,
       "num": 188661,
       "word": "特朗普延长所谓对等关税暂缓期",
@@ -1233,6 +1345,14 @@
       "onboard_time": 1751963242,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180838,
+      "num": 180838,
+      "word": "享界",
+      "onboard_time": 1751978483,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 180348,
@@ -1297,6 +1417,14 @@
       "onboard_time": 1751942122,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175996,
+      "num": 175996,
+      "word": "易烊千玺投出一只纸飞机",
+      "onboard_time": 1751978302,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 175923,
@@ -1369,6 +1497,14 @@
       "onboard_time": 1751966542,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 172772,
+      "num": 172772,
+      "word": "辛芷蕾剪了短发",
+      "onboard_time": 1751978544,
+      "rank": 33,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 172679,
@@ -1595,6 +1731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154959,
+      "num": 154959,
+      "word": "丁程鑫逐渐沈腾化",
+      "onboard_time": 1751978905,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154831,
       "num": 154831,
       "word": "MSI",
@@ -1609,14 +1753,6 @@
       "onboard_time": 1751952562,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 154029,
-      "num": 154029,
-      "word": "国乒男队统治力下滑肉眼可见",
-      "onboard_time": 1751973503,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 153833,
@@ -1641,6 +1777,14 @@
       "onboard_time": 1751952742,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152640,
+      "num": 152640,
+      "word": "芜湖一医保局现6层奢华水晶吊灯",
+      "onboard_time": 1751976083,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151759,
@@ -1675,6 +1819,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 149205,
+      "num": 149205,
+      "word": "锦绣芳华 反转",
+      "onboard_time": 1751978062,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148521,
       "num": 148521,
       "word": "日本小学生完全不知日军侵华事实",
@@ -1697,6 +1849,14 @@
       "onboard_time": 1751949443,
       "rank": 39,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 147097,
+      "num": 147097,
+      "word": "王一博看秀外媒镜头",
+      "onboard_time": 1751977102,
+      "rank": 38,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 146571,
@@ -1779,6 +1939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144103,
+      "num": 144103,
+      "word": "杨烁拍戏拍到怀疑自己得罪导演",
+      "onboard_time": 1751976263,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142724,
       "num": 142724,
       "word": "谁家男女主接吻地都是心形",
@@ -1843,6 +2011,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138391,
+      "num": 138391,
+      "word": "偶遇金钟大和老婆牵手逛街",
+      "onboard_time": 1751978963,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 138328,
+      "num": 356490,
+      "word": "与进口等效的国产九价定价仅499",
+      "onboard_time": 1751974702,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137744,
       "num": 137744,
       "word": "何炅小时候就很何老师了",
@@ -1873,14 +2057,6 @@
       "onboard_time": 1751969123,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 135424,
-      "num": 224543,
-      "word": "韩父性侵虐待女儿10年获刑3年",
-      "onboard_time": 1751973984,
-      "rank": 20,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 135287,
@@ -2187,6 +2363,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 123877,
+      "num": 315455,
+      "word": "没想到暑假的浪漫是柯南给的",
+      "onboard_time": 1751978844,
+      "rank": 18,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 123168,
       "num": 123168,
       "word": "一诺大帅你俩不像演的",
@@ -2209,6 +2393,14 @@
       "onboard_time": 1751958382,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121738,
+      "num": 121738,
+      "word": "孙颖莎连续霸榜世一156周",
+      "onboard_time": 1751976923,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 121514,
@@ -2329,6 +2521,30 @@
       "onboard_time": 1751948903,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 117528,
+      "num": 117528,
+      "word": "老板哭穷欠薪数月却有钱继续开新店",
+      "onboard_time": 1751977282,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117420,
+      "num": 117420,
+      "word": "好多艺人帮王源宣传新歌",
+      "onboard_time": 1751979202,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 116735,
+      "num": 116735,
+      "word": "杨紫李现互谈10年前第一印象",
+      "onboard_time": 1751978423,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 116604,
@@ -2635,6 +2851,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 96784,
+      "num": 560578,
+      "word": "单位回应公务员称孕期请假工作摆烂",
+      "onboard_time": 1751978242,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94985,
       "num": 94985,
       "word": "人际交往中恶意满满的5句话",
@@ -2689,14 +2913,6 @@
       "onboard_time": 1751929758,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 89380,
-      "num": 158694,
-      "word": "与进口等效的国产九价定价仅499",
-      "onboard_time": 1751974702,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87531,
@@ -3243,6 +3459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31419,
+      "num": 315009,
+      "word": "疑发霉茶饮涉事公司有多起诉讼案件",
+      "onboard_time": 1751978483,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30762,
       "num": 101429,
       "word": "德约科维奇逆转晋级温网八强",
@@ -3329,6 +3553,14 @@
       "onboard_time": 1751911996,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 22366,
+      "num": 180273,
+      "word": "打的去拉萨研究生回应横幅炒作",
+      "onboard_time": 1751978483,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21747,
