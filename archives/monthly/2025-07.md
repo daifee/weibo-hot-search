@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/08 14:39:06
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/08 14:53:08
 </p>
 </blockquote>
 <p>
@@ -1269,6 +1269,12 @@ TVB演员雪妮病逝（热度：861936）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B0%B4%E8%B0%83%E6%9F%A5%E7%BB%84%E9%80%9A%E6%8A%A5%E4%B8%80%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%B9%BC%E5%84%BF%E8%A1%80%E9%93%85%E5%BC%82%E5%B8%B8%23" target="weibo">
+天水调查组通报一幼儿园幼儿血铅异常（热度：845772）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%99%AF%E5%8C%BA%E8%B9%A6%E6%9E%81%E8%A2%AB%E6%8E%A8%E4%B8%8B%E5%8F%97%E4%BC%A4%E6%BB%A1%E8%84%B8%E6%98%AF%E8%A1%80%23" target="weibo">
 女子景区蹦极被推下受伤满脸是血（热度：843976）
 </a>
@@ -1917,12 +1923,6 @@ K1373砸窗男子被批评教育（热度：701716）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B0%B4%E8%B0%83%E6%9F%A5%E7%BB%84%E9%80%9A%E6%8A%A5%E4%B8%80%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%B9%BC%E5%84%BF%E8%A1%80%E9%93%85%E5%BC%82%E5%B8%B8%23" target="weibo">
-天水调查组通报一幼儿园幼儿血铅异常（热度：677033）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E7%A7%B0%E4%B8%BA%E5%84%BF%E5%AD%90%E4%B9%B0%E6%88%BF%E9%AA%97%E5%85%B6%E5%9C%A8%E7%99%BD%E7%BA%B8%E4%B8%8A%E7%AD%BE%E5%AD%97%23" target="weibo">
 父亲称为儿子买房骗其在白纸上签字（热度：676446）
 </a>
@@ -1991,6 +1991,12 @@ K1373砸窗男子被批评教育（热度：701716）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%B2%88%E9%98%B3%E5%8F%91%E6%96%87%E5%8A%9B%E6%8C%BA%E5%A5%B3%E5%84%BF%23" target="weibo">
 小沈阳发文力挺女儿（热度：660143）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E5%85%A8%E5%B9%B3%E5%8F%B0%E5%8F%96%E5%90%8C%E4%B8%80%E4%B8%AAid%23" target="weibo">
+不要全平台取同一个id（热度：659510）
 </a>
 </li>
 
@@ -2273,12 +2279,6 @@ G社拍的刘诗诗（热度：619179）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%8F%B0%E5%B1%B1%E5%B0%86%E7%B1%B3%E6%89%94%E5%87%BA%E6%AE%BF%E5%A4%96%E5%83%A7%E4%BA%BA%E8%A2%AB%E5%8A%9D%E8%BF%94%E5%9B%9E%E5%AE%B6%23" target="weibo">
 五台山将米扔出殿外僧人被劝返回家（热度：607579）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E5%85%A8%E5%B9%B3%E5%8F%B0%E5%8F%96%E5%90%8C%E4%B8%80%E4%B8%AAid%23" target="weibo">
-不要全平台取同一个id（热度：606684）
 </a>
 </li>
 
@@ -3309,6 +3309,12 @@ jump（热度：418580）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A7%90%E6%9C%88%E8%96%AA3%E5%8D%83%E8%8A%B16%E5%8D%83%E5%A4%9A%E5%AD%A6TikTok%E8%B5%9A%E9%92%B1%23" target="weibo">
+大姐月薪3千花6千多学TikTok赚钱（热度：417375）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%BB%99%E5%A4%9A%E5%B0%91%E4%BA%BA%E9%80%81%E8%BF%87wakuku%23" target="weibo">
 虞书欣给多少人送过wakuku（热度：417016）
 </a>
@@ -3323,6 +3329,18 @@ jump（热度：418580）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Jennie%E7%9A%84rap%E5%A5%BD%E7%88%BD%23" target="weibo">
 Jennie的rap好爽（热度：415645）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B8%A4%E8%AF%B4%E5%BC%A0%E8%89%BA%E5%85%B4%E5%8D%8A%E5%A4%9C%E4%B8%89%E7%82%B9%E8%BF%98%E5%9C%A8%E7%BB%83%E8%88%9E%E7%BB%83%E6%AD%8C%23" target="weibo">
+黄渤说张艺兴半夜三点还在练舞练歌（热度：414967）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%93%85%E4%B8%AD%E6%AF%92%20%E9%95%BF%E4%B8%8D%E9%AB%98%23" target="weibo">
+铅中毒 长不高（热度：414951）
 </a>
 </li>
 
@@ -4143,12 +4161,6 @@ babycare纸尿裤发现黑色尖状异物（热度：334638）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B8%A4%E8%AF%B4%E5%BC%A0%E8%89%BA%E5%85%B4%E5%8D%8A%E5%A4%9C%E4%B8%89%E7%82%B9%E8%BF%98%E5%9C%A8%E7%BB%83%E8%88%9E%E7%BB%83%E6%AD%8C%23" target="weibo">
-黄渤说张艺兴半夜三点还在练舞练歌（热度：333748）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A6%BB%E5%A9%9A%E7%8E%B0%E5%9C%BA%E5%88%AB%E5%B8%A6%E5%AD%A9%E5%AD%90%23" target="weibo">
 离婚现场别带孩子（热度：333238）
 </a>
@@ -4277,12 +4289,6 @@ babycare纸尿裤发现黑色尖状异物（热度：334638）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B4%97%E5%A4%B4%E4%B8%80%E6%A2%B3%E5%A4%B4%E4%BC%9A%E6%8E%89%E5%A4%B4%E5%8F%91%23" target="weibo">
 为什么洗头一梳头会掉头发（热度：324975）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%93%85%E4%B8%AD%E6%AF%92%20%E9%95%BF%E4%B8%8D%E9%AB%98%23" target="weibo">
-铅中毒 长不高（热度：324751）
 </a>
 </li>
 
@@ -4571,6 +4577,12 @@ rapper用归国四子diss黄子韬（热度：308562）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E5%8E%95%E6%89%80%E5%A4%B1%E8%B4%A5%23" target="weibo">
 王源林俊杰演唱会上厕所失败（热度：307225）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E4%B8%BA%E6%98%AF%E7%9C%9F%E7%88%B6%E5%AD%90%E7%BB%93%E6%9E%9C%E6%98%AF%E7%9C%9F%E7%9A%84%E6%BC%94%E7%88%B6%E5%AD%90%23" target="weibo">
+以为是真父子结果是真的演父子（热度：305886）
 </a>
 </li>
 
@@ -5397,12 +5409,6 @@ fx合体（热度：283131）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A7%90%E6%9C%88%E8%96%AA3%E5%8D%83%E8%8A%B16%E5%8D%83%E5%A4%9A%E5%AD%A6TikTok%E8%B5%9A%E9%92%B1%23" target="weibo">
-大姐月薪3千花6千多学TikTok赚钱（热度：260131）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%AD%95%E5%A4%AB%E5%A6%BB%E7%94%A8AI%E6%8A%93%E5%88%B0%E9%9A%90%E5%BD%A2%E7%B2%BE%E5%AD%90%E5%A5%87%E8%BF%B9%E6%80%80%E5%AD%95%23" target="weibo">
 不孕夫妻用AI抓到隐形精子奇迹怀孕（热度：259944）
 </a>
@@ -6005,12 +6011,6 @@ Celine大秀（热度：242230）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%AB%98%E9%93%81%E7%AB%99%E6%89%B6%E6%A2%AF%E9%80%86%E8%A1%8C%E8%87%B4%E5%A4%9A%E4%BA%BA%E6%8B%A5%E5%A0%B5%23" target="weibo">
 女子高铁站扶梯逆行致多人拥堵（热度：230887）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%A0%E4%B8%BB%E7%A7%B0%E9%87%91%E6%AF%9B%E6%9D%8E%E5%A2%A9%E5%A2%A9%E4%BA%8B%E4%BB%B6%E5%B7%B2%E5%9C%86%E6%BB%A1%E8%A7%A3%E5%86%B3%23" target="weibo">
-宠主称金毛李墩墩事件已圆满解决（热度：230760）
 </a>
 </li>
 

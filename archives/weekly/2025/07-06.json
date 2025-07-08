@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1751956746347,
+  "endTime": 1751957588944,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -651,6 +651,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 845772,
+      "num": 297961,
+      "word": "天水调查组通报一幼儿园幼儿血铅异常",
+      "onboard_time": 1751952262,
+      "rank": 28,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 834235,
       "num": 834235,
       "word": "山姆2公斤冰块卖22.8元",
@@ -891,14 +899,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 677033,
-      "num": 292802,
-      "word": "天水调查组通报一幼儿园幼儿血铅异常",
-      "onboard_time": 1751952262,
-      "rank": 28,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 676446,
       "num": 1108231,
       "word": "父亲称为儿子买房骗其在白纸上签字",
@@ -921,6 +921,14 @@
       "onboard_time": 1751857284,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 659510,
+      "num": 474248,
+      "word": "不要全平台取同一个id",
+      "onboard_time": 1751953103,
+      "rank": 22,
+      "category": "幽默,休闲"
     },
     {
       "raw_hot": 657396,
@@ -1041,14 +1049,6 @@
       "onboard_time": 1751883441,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 606684,
-      "num": 428832,
-      "word": "不要全平台取同一个id",
-      "onboard_time": 1751953103,
-      "rank": 22,
-      "category": "幽默,休闲"
     },
     {
       "raw_hot": 605682,
@@ -1435,6 +1435,30 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 417375,
+      "num": 417375,
+      "word": "大姐月薪3千花6千多学TikTok赚钱",
+      "onboard_time": 1751953282,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 414967,
+      "num": 414967,
+      "word": "黄渤说张艺兴半夜三点还在练舞练歌",
+      "onboard_time": 1751954001,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 414951,
+      "num": 297511,
+      "word": "铅中毒 长不高",
+      "onboard_time": 1751955262,
+      "rank": 12,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 414875,
       "num": 240643,
       "word": "杭州东站卧轨者已送往医院",
@@ -1779,14 +1803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 333748,
-      "num": 333748,
-      "word": "黄渤说张艺兴半夜三点还在练舞练歌",
-      "onboard_time": 1751954001,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 332935,
       "num": 332935,
       "word": "频繁刷手机可能导致脑腐",
@@ -1841,14 +1857,6 @@
       "onboard_time": 1751936542,
       "rank": 12,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 324751,
-      "num": 283677,
-      "word": "铅中毒 长不高",
-      "onboard_time": 1751955262,
-      "rank": 12,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 321396,
@@ -1985,6 +1993,14 @@
       "onboard_time": 1751891543,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 305886,
+      "num": 305886,
+      "word": "以为是真父子结果是真的演父子",
+      "onboard_time": 1751956342,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 305213,
@@ -2353,14 +2369,6 @@
       "onboard_time": 1751852183,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 260131,
-      "num": 307141,
-      "word": "大姐月薪3千花6千多学TikTok赚钱",
-      "onboard_time": 1751953282,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 259944,
@@ -3027,14 +3035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 206169,
-      "num": 206169,
-      "word": "以为是真父子结果是真的演父子",
-      "onboard_time": 1751956342,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 206006,
       "num": 206006,
       "word": "田栩宁或将空降录制hi6",
@@ -3499,6 +3499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187950,
+      "num": 187950,
+      "word": "杨紫李现追剧团上班路透",
+      "onboard_time": 1751957182,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187776,
       "num": 187776,
       "word": "TF四代郑重宣誓",
@@ -3657,6 +3665,14 @@
       "onboard_time": 1751951183,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179334,
+      "num": 179334,
+      "word": "歌手",
+      "onboard_time": 1751956942,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 179017,
@@ -4473,6 +4489,14 @@
       "onboard_time": 1751811503,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 151355,
+      "num": 245170,
+      "word": "上汽奥迪A5L现已到店",
+      "onboard_time": 1751955322,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 150950,
@@ -5739,6 +5763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121905,
+      "num": 121905,
+      "word": "头一次看剧窝囊了23集",
+      "onboard_time": 1751957302,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121887,
       "num": 256719,
       "word": "王一博愿爱唱出壮丽山河国泰民安",
@@ -5779,6 +5811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121301,
+      "num": 121301,
+      "word": "国乒男单4人遭遇一轮游",
+      "onboard_time": 1751956822,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121160,
       "num": 149762,
       "word": "二重赋格定档",
@@ -5801,6 +5841,14 @@
       "onboard_time": 1751779341,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120438,
+      "num": 120438,
+      "word": "东部战区陆军海训现场",
+      "onboard_time": 1751956822,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 120086,
@@ -5852,7 +5900,7 @@
     },
     {
       "raw_hot": 119464,
-      "num": 119464,
+      "num": 123823,
       "word": "美美桑内",
       "onboard_time": 1751955922,
       "rank": 38,
@@ -6075,6 +6123,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 116568,
+      "num": 116568,
+      "word": "柯南M28刷新系列内地票房纪录",
+      "onboard_time": 1751957243,
+      "rank": 38,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 116493,
       "num": 116493,
       "word": "孙颖莎晋级32强",
@@ -6169,14 +6225,6 @@
       "onboard_time": 1751855244,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 114719,
-      "num": 239725,
-      "word": "上汽奥迪A5L现已到店",
-      "onboard_time": 1751955322,
-      "rank": 17,
-      "category": "汽车"
     },
     {
       "raw_hot": 114587,
@@ -6451,6 +6499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109699,
+      "num": 109699,
+      "word": "梓渝美谈",
+      "onboard_time": 1751957423,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109455,
       "num": 109455,
       "word": "李人骏其实精得很",
@@ -6515,6 +6571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107837,
+      "num": 107837,
+      "word": "如果在本命生日那天去申请身份证",
+      "onboard_time": 1751956642,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 107733,
       "num": 286782,
       "word": "两地血铅检查差距大到底谁在糊弄",
@@ -6540,7 +6604,7 @@
     },
     {
       "raw_hot": 107616,
-      "num": 107616,
+      "num": 196116,
       "word": "我们坚持14年抗战作出了巨大牺牲",
       "onboard_time": 1751955262,
       "rank": 44,
@@ -6883,14 +6947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 101831,
-      "num": 101831,
-      "word": "如果在本命生日那天去申请身份证",
-      "onboard_time": 1751956642,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 101780,
       "num": 101780,
       "word": "杨千嬅儿子13岁近照",
@@ -7067,6 +7123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99667,
+      "num": 99667,
+      "word": "乳霜纸",
+      "onboard_time": 1751957182,
+      "rank": 46,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 99639,
       "num": 107541,
       "word": "新视角",
@@ -7137,6 +7201,14 @@
       "onboard_time": 1751880022,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 98808,
+      "num": 98808,
+      "word": "AL战胜CFO爱笑发博",
+      "onboard_time": 1751955863,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 98558,
@@ -7747,6 +7819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74306,
+      "num": 284821,
+      "word": "babycare纸尿裤再现黑色异物",
+      "onboard_time": 1751956282,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74269,
       "num": 74269,
       "word": "现在的农村喜宴越来越高级了",
@@ -7793,6 +7873,14 @@
       "onboard_time": 1751721023,
       "rank": 49,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 72074,
+      "num": 114446,
+      "word": "最全改善体态方法",
+      "onboard_time": 1751956882,
+      "rank": 39,
+      "category": "运动健身"
     },
     {
       "raw_hot": 71961,
@@ -8216,14 +8304,6 @@
       "word": "闰六月让夏季更热更长是真的吗",
       "onboard_time": 1751758819,
       "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 49538,
-      "num": 274512,
-      "word": "babycare纸尿裤再现黑色异物",
-      "onboard_time": 1751956282,
-      "rank": 14,
       "category": "民生新闻"
     },
     {

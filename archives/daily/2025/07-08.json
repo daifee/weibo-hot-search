@@ -1,6 +1,6 @@
 {
   "startTime": 1751906062153,
-  "endTime": 1751956746347,
+  "endTime": 1751957588944,
   "band_list": [
     {
       "raw_hot": 9289863,
@@ -123,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 845772,
+      "num": 297961,
+      "word": "天水调查组通报一幼儿园幼儿血铅异常",
+      "onboard_time": 1751952262,
+      "rank": 28,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 834235,
       "num": 834235,
       "word": "山姆2公斤冰块卖22.8元",
@@ -163,12 +171,12 @@
       "category": "艺人,海外新闻"
     },
     {
-      "raw_hot": 677033,
-      "num": 292802,
-      "word": "天水调查组通报一幼儿园幼儿血铅异常",
-      "onboard_time": 1751952262,
-      "rank": 28,
-      "category": "民生新闻,教育"
+      "raw_hot": 659510,
+      "num": 474248,
+      "word": "不要全平台取同一个id",
+      "onboard_time": 1751953103,
+      "rank": 22,
+      "category": "幽默,休闲"
     },
     {
       "raw_hot": 634502,
@@ -185,14 +193,6 @@
       "onboard_time": 1751951363,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 606684,
-      "num": 428832,
-      "word": "不要全平台取同一个id",
-      "onboard_time": 1751953103,
-      "rank": 22,
-      "category": "幽默,休闲"
     },
     {
       "raw_hot": 567817,
@@ -267,12 +267,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 417375,
+      "num": 417375,
+      "word": "大姐月薪3千花6千多学TikTok赚钱",
+      "onboard_time": 1751953282,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 417075,
       "num": 203578,
       "word": "又一罗马仕充电宝充电时爆炸",
       "onboard_time": 1751896105,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 414967,
+      "num": 414967,
+      "word": "黄渤说张艺兴半夜三点还在练舞练歌",
+      "onboard_time": 1751954001,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 414951,
+      "num": 297511,
+      "word": "铅中毒 长不高",
+      "onboard_time": 1751955262,
+      "rank": 12,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 410537,
@@ -331,28 +355,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 333748,
-      "num": 333748,
-      "word": "黄渤说张艺兴半夜三点还在练舞练歌",
-      "onboard_time": 1751954001,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 324975,
       "num": 324975,
       "word": "为什么洗头一梳头会掉头发",
       "onboard_time": 1751936542,
       "rank": 12,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 324751,
-      "num": 283677,
-      "word": "铅中毒 长不高",
-      "onboard_time": 1751955262,
-      "rank": 12,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 321233,
@@ -385,6 +393,14 @@
       "onboard_time": 1751943382,
       "rank": 23,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 305886,
+      "num": 305886,
+      "word": "以为是真父子结果是真的演父子",
+      "onboard_time": 1751956342,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 303676,
@@ -473,14 +489,6 @@
       "onboard_time": 1751952141,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 260131,
-      "num": 307141,
-      "word": "大姐月薪3千花6千多学TikTok赚钱",
-      "onboard_time": 1751953282,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 259944,
@@ -643,14 +651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206169,
-      "num": 206169,
-      "word": "以为是真父子结果是真的演父子",
-      "onboard_time": 1751956342,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 204771,
       "num": 204771,
       "word": "锦绣芳华直播",
@@ -715,6 +715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 187950,
+      "num": 187950,
+      "word": "杨紫李现追剧团上班路透",
+      "onboard_time": 1751957182,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183978,
       "num": 183978,
       "word": "利剑玫瑰",
@@ -737,6 +745,14 @@
       "onboard_time": 1751951183,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179334,
+      "num": 179334,
+      "word": "歌手",
+      "onboard_time": 1751956942,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 179017,
@@ -953,6 +969,14 @@
       "onboard_time": 1751952742,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151355,
+      "num": 245170,
+      "word": "上汽奥迪A5L现已到店",
+      "onboard_time": 1751955322,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 150950,
@@ -1227,6 +1251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 121905,
+      "num": 121905,
+      "word": "头一次看剧窝囊了23集",
+      "onboard_time": 1751957302,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121514,
       "num": 121514,
       "word": "关晓彤吴磊等谈从游本昌身上学到的",
@@ -1241,6 +1273,22 @@
       "onboard_time": 1751942901,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121301,
+      "num": 121301,
+      "word": "国乒男单4人遭遇一轮游",
+      "onboard_time": 1751956822,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 120438,
+      "num": 120438,
+      "word": "东部战区陆军海训现场",
+      "onboard_time": 1751956822,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 119682,
@@ -1260,7 +1308,7 @@
     },
     {
       "raw_hot": 119464,
-      "num": 119464,
+      "num": 123823,
       "word": "美美桑内",
       "onboard_time": 1751955922,
       "rank": 38,
@@ -1315,12 +1363,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 114719,
-      "num": 239725,
-      "word": "上汽奥迪A5L现已到店",
-      "onboard_time": 1751955322,
-      "rank": 17,
-      "category": "汽车"
+      "raw_hot": 116568,
+      "num": 116568,
+      "word": "柯南M28刷新系列内地票房纪录",
+      "onboard_time": 1751957243,
+      "rank": 38,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 114455,
@@ -1395,12 +1443,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 109699,
+      "num": 109699,
+      "word": "梓渝美谈",
+      "onboard_time": 1751957423,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109147,
       "num": 109147,
       "word": "跑外卖3天吃了15顿",
       "onboard_time": 1751935943,
       "rank": 40,
       "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 107837,
+      "num": 107837,
+      "word": "如果在本命生日那天去申请身份证",
+      "onboard_time": 1751956642,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 107733,
@@ -1412,7 +1476,7 @@
     },
     {
       "raw_hot": 107616,
-      "num": 107616,
+      "num": 196116,
       "word": "我们坚持14年抗战作出了巨大牺牲",
       "onboard_time": 1751955262,
       "rank": 44,
@@ -1491,14 +1555,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 101831,
-      "num": 101831,
-      "word": "如果在本命生日那天去申请身份证",
-      "onboard_time": 1751956642,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 100541,
       "num": 100541,
       "word": "张远专业嘉宾又上岗了",
@@ -1523,6 +1579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99667,
+      "num": 99667,
+      "word": "乳霜纸",
+      "onboard_time": 1751957182,
+      "rank": 46,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 99546,
       "num": 99546,
       "word": "肖战玲娜贝儿打招呼",
@@ -1537,6 +1601,14 @@
       "onboard_time": 1751905881,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98808,
+      "num": 98808,
+      "word": "AL战胜CFO爱笑发博",
+      "onboard_time": 1751955863,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 98276,
@@ -1739,6 +1811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74306,
+      "num": 284821,
+      "word": "babycare纸尿裤再现黑色异物",
+      "onboard_time": 1751956282,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74262,
       "num": 274314,
       "word": "小鬼王琳凯直播洛杉矶日落",
@@ -1769,6 +1849,14 @@
       "onboard_time": 1751946022,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 72074,
+      "num": 114446,
+      "word": "最全改善体态方法",
+      "onboard_time": 1751956882,
+      "rank": 39,
+      "category": "运动健身"
     },
     {
       "raw_hot": 71531,
@@ -1905,14 +1993,6 @@
       "onboard_time": 1751931140,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 49538,
-      "num": 274512,
-      "word": "babycare纸尿裤再现黑色异物",
-      "onboard_time": 1751956282,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 47330,
