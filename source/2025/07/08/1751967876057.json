@@ -1,0 +1,410 @@
+{
+  "runTime": 1751967876057,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1770354,
+        "num": 1770354,
+        "word": "警方通报大三女生和男友双双坠亡",
+        "onboard_time": 1751961801,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 960153,
+        "num": 960153,
+        "word": "音乐节 领证",
+        "onboard_time": 1751961441,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35291,
+        "num": 728553,
+        "word": "夏日文旅消费UP",
+        "onboard_time": 1751967023,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2465530,
+        "num": 726806,
+        "word": "王青发微博",
+        "onboard_time": 1751963062,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 708104,
+        "num": 708104,
+        "word": "杨紫李现 爸爸妈妈我出生了",
+        "onboard_time": 1751961322,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 452406,
+        "num": 452406,
+        "word": "女子坐11小时飞机后心跳骤停去世",
+        "onboard_time": 1751960302,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 671854,
+        "num": 447849,
+        "word": "横店女明星热得命好苦的样子",
+        "onboard_time": 1751962522,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 496827,
+        "num": 446536,
+        "word": "外网评的最帅95生",
+        "onboard_time": 1751959041,
+        "rank": 7,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 438879,
+        "num": 438879,
+        "word": "怀孕3个月抗日女战士牺牲那一刻",
+        "onboard_time": 1751964682,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83446,
+        "num": 430902,
+        "word": "大三女生和男友坠亡女生母亲发声",
+        "onboard_time": 1751967443,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 625487,
+        "num": 428988,
+        "word": "王一博卷毛王子",
+        "onboard_time": 1751966424,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 542685,
+        "num": 428599,
+        "word": "女婴因眼睛小被挑剩下盼与父母团圆",
+        "onboard_time": 1751964442,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 425565,
+        "num": 425565,
+        "word": "为什么蜜雪冰城永不塌房",
+        "onboard_time": 1751965282,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 373716,
+        "num": 373716,
+        "word": "多地音乐节可在现场领证结婚",
+        "onboard_time": 1751959882,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320062,
+        "num": 320062,
+        "word": "全智贤短发",
+        "onboard_time": 1751954782,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226578,
+        "num": 226578,
+        "word": "台风丹娜丝",
+        "onboard_time": 1751963601,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217326,
+        "num": 217326,
+        "word": "阴阳师新sp",
+        "onboard_time": 1751965881,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 216172,
+        "num": 216172,
+        "word": "鹿晗就这么水灵灵地喊了宝贝",
+        "onboard_time": 1751954241,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120793,
+        "num": 215724,
+        "word": "几斤牛肉才出一斤牛肉干",
+        "onboard_time": 1751965881,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210046,
+        "num": 215447,
+        "word": "王青我十年前不知道直播有回放",
+        "onboard_time": 1751967262,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226530,
+        "num": 215409,
+        "word": "女子喝半杯隔夜水后发现蚊子卵",
+        "onboard_time": 1751961622,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215346,
+        "num": 215346,
+        "word": "女生喝疑似发霉茶饮查出尿路感染",
+        "onboard_time": 1751967082,
+        "rank": 21,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 200980,
+        "num": 200980,
+        "word": "王一博VOGUE",
+        "onboard_time": 1751967143,
+        "rank": 22,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 196407,
+        "num": 196407,
+        "word": "香奈儿大秀",
+        "onboard_time": 1751966964,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 191426,
+        "num": 191426,
+        "word": "向佐踩12cm的高跟鞋",
+        "onboard_time": 1751967322,
+        "rank": 24,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 189361,
+        "num": 189361,
+        "word": "南京胖哥第二个孩子出生",
+        "onboard_time": 1751960422,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186900,
+        "num": 186900,
+        "word": "战至巅峰",
+        "onboard_time": 1751966062,
+        "rank": 26,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 179502,
+        "num": 179502,
+        "word": "大三女生和男友坠亡排除刑案",
+        "onboard_time": 1751963001,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175670,
+        "num": 175670,
+        "word": "王一博看秀登泰趋第一",
+        "onboard_time": 1751966424,
+        "rank": 28,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 171599,
+        "num": 171599,
+        "word": "乳霜纸",
+        "onboard_time": 1751957182,
+        "rank": 29,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 86079,
+        "num": 155503,
+        "word": "杨紫李现互喂樱桃",
+        "onboard_time": 1751966243,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146539,
+        "num": 146539,
+        "word": "做一个堂堂正正光荣自豪的中国人",
+        "onboard_time": 1751967803,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 145305,
+        "num": 145305,
+        "word": "空腹爬楼一个月瘦10斤",
+        "onboard_time": 1751967262,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 144393,
+        "num": 144393,
+        "word": "沐言上小学了",
+        "onboard_time": 1751964323,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 138856,
+        "num": 138856,
+        "word": "这屋子甄嬛进来都得愣三秒",
+        "onboard_time": 1751963302,
+        "rank": 34,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 133203,
+        "num": 133203,
+        "word": "轻断食10天瘦了14.5斤",
+        "onboard_time": 1751939842,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 66965,
+        "num": 131339,
+        "word": "A股逼近3500点放量2453亿",
+        "onboard_time": 1751963364,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 130383,
+        "num": 130383,
+        "word": "李一桐 大大方方的",
+        "onboard_time": 1751966601,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70897,
+        "num": 130161,
+        "word": "亚马尔穿着大连八中球衣",
+        "onboard_time": 1751965881,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 769918,
+        "num": 130118,
+        "word": "王阳 孙菲菲",
+        "onboard_time": 1751950582,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130060,
+        "num": 130060,
+        "word": "北京月薪30000一天要花多少钱",
+        "onboard_time": 1751966542,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118115,
+        "num": 127561,
+        "word": "天舟八号顺利撤离空间站组合体",
+        "onboard_time": 1751962941,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 127179,
+        "num": 127179,
+        "word": "女子离家2天3箱活珠子孵出满屋小鸡",
+        "onboard_time": 1751960662,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118243,
+        "num": 118243,
+        "word": "李荣浩杨丞琳果然真夫妻就是好嗑",
+        "onboard_time": 1751961023,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109786,
+        "num": 109786,
+        "word": "孙菲菲王阳剧组暴力事件始末",
+        "onboard_time": 1751961441,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107006,
+        "num": 107006,
+        "word": "无色无味剧毒的老实人",
+        "onboard_time": 1751967143,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106316,
+        "num": 106316,
+        "word": "宋轶在逃公主具象化了",
+        "onboard_time": 1751965942,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104458,
+        "num": 104458,
+        "word": "七月要上五个星期的班",
+        "onboard_time": 1751963422,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98992,
+        "num": 98992,
+        "word": "建议一个月给自己过两天节",
+        "onboard_time": 1751961683,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93929,
+        "num": 93929,
+        "word": "以法之名拍透了人性",
+        "onboard_time": 1751967742,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在山西省阳泉市考察#"
+    }
+  }
+}
