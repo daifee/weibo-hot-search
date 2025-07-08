@@ -1,6 +1,6 @@
 {
   "startTime": 1751906062153,
-  "endTime": 1751967876057,
+  "endTime": 1751970558932,
   "band_list": [
     {
       "raw_hot": 9289863,
@@ -113,6 +113,14 @@
       "onboard_time": 1751937563,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1190287,
+      "num": 1190446,
+      "word": "为什么蜜雪冰城永不塌房",
+      "onboard_time": 1751965282,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1133603,
@@ -236,11 +244,19 @@
     },
     {
       "raw_hot": 671854,
-      "num": 447849,
+      "num": 532456,
       "word": "横店女明星热得命好苦的样子",
       "onboard_time": 1751962522,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 659971,
+      "num": 659971,
+      "word": "女生喝疑似发霉茶饮查出尿路感染",
+      "onboard_time": 1751967082,
+      "rank": 21,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 659510,
@@ -315,6 +331,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 534371,
+      "num": 400096,
+      "word": "向佐踩12cm的高跟鞋",
+      "onboard_time": 1751967322,
+      "rank": 24,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 524741,
+      "num": 524741,
+      "word": "怀孕3个月抗日女战士牺牲那一刻",
+      "onboard_time": 1751964682,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 522684,
       "num": 522684,
       "word": "国乒男单三人止步美国大满贯首轮",
@@ -371,27 +403,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 438879,
-      "num": 438879,
-      "word": "怀孕3个月抗日女战士牺牲那一刻",
-      "onboard_time": 1751964682,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 436809,
       "num": 436809,
       "word": "女子6年挪用公司1700万炫富挥霍",
       "onboard_time": 1751938943,
       "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 425565,
-      "num": 425565,
-      "word": "为什么蜜雪冰城永不塌房",
-      "onboard_time": 1751965282,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -432,6 +448,14 @@
       "word": "中国要像手机一样造战斗机",
       "onboard_time": 1751941821,
       "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 379465,
+      "num": 379465,
+      "word": "王勇受贿2.71亿余元",
+      "onboard_time": 1751969123,
+      "rank": 14,
       "category": "国内时政"
     },
     {
@@ -491,6 +515,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 340496,
+      "num": 340496,
+      "word": "杨紫 我俩现在多工业糖精",
+      "onboard_time": 1751969123,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 335426,
       "num": 335426,
       "word": "张子枫第一个摔出来的角色",
@@ -521,6 +553,14 @@
       "onboard_time": 1751936542,
       "rank": 12,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 321389,
+      "num": 449521,
+      "word": "国防部回应歼10战机出口问题",
+      "onboard_time": 1751968882,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 321233,
@@ -731,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 243065,
+      "num": 243065,
+      "word": "韩红也想一脚把黄誉博翻飞",
+      "onboard_time": 1751968703,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 238608,
       "num": 195117,
       "word": "张卫健 多年忠实女歌迷应采儿",
@@ -859,20 +907,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 218442,
+      "num": 218442,
+      "word": "空腹爬楼一个月瘦10斤",
+      "onboard_time": 1751967262,
+      "rank": 32,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 217326,
       "num": 217326,
       "word": "阴阳师新sp",
       "onboard_time": 1751965881,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 215346,
-      "num": 215346,
-      "word": "女生喝疑似发霉茶饮查出尿路感染",
-      "onboard_time": 1751967082,
-      "rank": 21,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 214506,
@@ -889,6 +937,14 @@
       "onboard_time": 1751962941,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 213099,
+      "num": 273207,
+      "word": "董晴说李光洁有一种破碎感",
+      "onboard_time": 1751969902,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 212754,
@@ -1003,12 +1059,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 191426,
-      "num": 191426,
-      "word": "向佐踩12cm的高跟鞋",
-      "onboard_time": 1751967322,
-      "rank": 24,
-      "category": "艺人,时尚"
+      "raw_hot": 190111,
+      "num": 190111,
+      "word": "王青回来依旧是顶流",
+      "onboard_time": 1751970023,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 188661,
@@ -1123,6 +1179,14 @@
       "category": "民生新闻,数码"
     },
     {
+      "raw_hot": 175527,
+      "num": 175527,
+      "word": "程潇做吃播是认真的",
+      "onboard_time": 1751969602,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175458,
       "num": 175458,
       "word": "敖瑞鹏吃播",
@@ -1155,6 +1219,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 173603,
+      "num": 173603,
+      "word": "北京月薪30000一天要花多少钱",
+      "onboard_time": 1751966542,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 172679,
       "num": 172679,
       "word": "者来女 一款很新的国潮外卖",
@@ -1169,6 +1241,14 @@
       "onboard_time": 1751961683,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 171223,
+      "num": 171223,
+      "word": "Winter被摸手",
+      "onboard_time": 1751968942,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 170968,
@@ -1411,6 +1491,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 146811,
+      "num": 146811,
+      "word": "男子主动脉夹层随时破裂却说回老家",
+      "onboard_time": 1751970382,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146571,
       "num": 146571,
       "word": "时代少年团亲手拍摄",
@@ -1427,14 +1515,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 145305,
-      "num": 145305,
-      "word": "空腹爬楼一个月瘦10斤",
-      "onboard_time": 1751967262,
-      "rank": 32,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 145149,
       "num": 149829,
       "word": "龚俊花少7埃及到达路透",
@@ -1448,6 +1528,14 @@
       "word": "宋祖儿哭戏感染力好绝",
       "onboard_time": 1751962462,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 144526,
+      "num": 144526,
+      "word": "谭松韵新剧戏台版许兰香",
+      "onboard_time": 1751969424,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -1491,6 +1579,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 142505,
+      "num": 142505,
+      "word": "A股市场大涨原因",
+      "onboard_time": 1751968464,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 141591,
       "num": 141591,
       "word": "甲亢哥还在用华为",
@@ -1505,6 +1601,14 @@
       "onboard_time": 1751943022,
       "rank": 36,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 140807,
+      "num": 140807,
+      "word": "鬼灭之刃该来的还是来了",
+      "onboard_time": 1751970322,
+      "rank": 36,
+      "category": "动漫"
     },
     {
       "raw_hot": 139848,
@@ -1523,6 +1627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137744,
+      "num": 137744,
+      "word": "何炅小时候就很何老师了",
+      "onboard_time": 1751969424,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137478,
       "num": 137478,
       "word": "国行苹果AI凉了吗",
@@ -1539,6 +1651,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 136315,
+      "num": 136315,
+      "word": "重庆暴雨",
+      "onboard_time": 1751969123,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135287,
       "num": 135287,
       "word": "亚马尔抵达中国",
@@ -1553,6 +1673,14 @@
       "onboard_time": 1751948365,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134720,
+      "num": 134720,
+      "word": "李一桐 大大方方的",
+      "onboard_time": 1751966601,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 134642,
@@ -1587,14 +1715,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 133132,
-      "num": 133132,
-      "word": "李一桐 大大方方的",
-      "onboard_time": 1751966601,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 133024,
       "num": 133024,
       "word": "七月要上五个星期的班",
@@ -1609,6 +1729,14 @@
       "onboard_time": 1751931621,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 132092,
+      "num": 132092,
+      "word": "演唱会抢票难度排行榜",
+      "onboard_time": 1751970442,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 132037,
@@ -1657,14 +1785,6 @@
       "onboard_time": 1751954902,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 130060,
-      "num": 130060,
-      "word": "北京月薪30000一天要花多少钱",
-      "onboard_time": 1751966542,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 129390,
@@ -1755,6 +1875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125244,
+      "num": 136333,
+      "word": "刘诗诗抱着别的妹妹",
+      "onboard_time": 1751968643,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125143,
       "num": 167407,
       "word": "头一次看剧窝囊了23集",
@@ -1785,6 +1913,14 @@
       "onboard_time": 1751889022,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 123168,
+      "num": 123168,
+      "word": "一诺大帅你俩不像演的",
+      "onboard_time": 1751969542,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 122612,
@@ -2219,6 +2355,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 95582,
+      "num": 190256,
+      "word": "美国大满贯球台遭孙颖莎王楚钦吐槽",
+      "onboard_time": 1751969482,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94985,
       "num": 94985,
       "word": "人际交往中恶意满满的5句话",
@@ -2563,6 +2707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 62867,
+      "num": 272054,
+      "word": "孙怡60岁也不能放弃颜值",
+      "onboard_time": 1751970081,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 61989,
       "num": 65643,
       "word": "林心如晒和霍建华双人画秀恩爱",
@@ -2643,6 +2795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 53387,
+      "num": 136542,
+      "word": "成都世运倒计时30天",
+      "onboard_time": 1751969482,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 47330,
       "num": 137372,
       "word": "魏晨与妻子是大学同学",
@@ -2683,6 +2843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44018,
+      "num": 136805,
+      "word": "杭州甲醛房",
+      "onboard_time": 1751969482,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42561,
       "num": 189515,
       "word": "5岁孩子和奶奶遇煤气闪爆炸成重伤",
@@ -2707,6 +2875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40379,
+      "num": 748020,
+      "word": "夏日文旅消费UP",
+      "onboard_time": 1751967023,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40367,
       "num": 208571,
       "word": "日本公开赛国羽签表",
@@ -2720,14 +2896,6 @@
       "word": "矿山瞒报事故举报者信息泄露",
       "onboard_time": 1751914995,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35291,
-      "num": 728553,
-      "word": "夏日文旅消费UP",
-      "onboard_time": 1751967023,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
