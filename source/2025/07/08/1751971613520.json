@@ -1,0 +1,410 @@
+{
+  "runTime": 1751971613520,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 908523,
+        "num": 1145363,
+        "word": "为什么蜜雪冰城永不塌房",
+        "onboard_time": 1751965282,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 653104,
+        "num": 653104,
+        "word": "王勇受贿2.71亿余元",
+        "onboard_time": 1751969123,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 38676,
+        "num": 593836,
+        "word": "夏日文旅消费UP",
+        "onboard_time": 1751967023,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1223922,
+        "num": 581911,
+        "word": "王青发微博",
+        "onboard_time": 1751963062,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 559597,
+        "num": 559597,
+        "word": "音乐节 领证",
+        "onboard_time": 1751961441,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 502565,
+        "num": 502565,
+        "word": "迪丽热巴 御木本",
+        "onboard_time": 1751970802,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 447987,
+        "num": 447987,
+        "word": "横店女明星热得命好苦的样子",
+        "onboard_time": 1751962522,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 409435,
+        "num": 409435,
+        "word": "外网评的最帅95生",
+        "onboard_time": 1751959041,
+        "rank": 7,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 280546,
+        "num": 280546,
+        "word": "国防部回应歼10战机出口问题",
+        "onboard_time": 1751968882,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 76667,
+        "num": 280140,
+        "word": "多方回应女生喝到疑似发霉茶饮",
+        "onboard_time": 1751970861,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1279926,
+        "num": 279968,
+        "word": "警方通报大三女生和男友双双坠亡",
+        "onboard_time": 1751961801,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 967583,
+        "num": 279666,
+        "word": "女生喝疑似发霉茶饮查出尿路感染",
+        "onboard_time": 1751967082,
+        "rank": 11,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 638489,
+        "num": 279180,
+        "word": "向佐踩12cm的高跟鞋",
+        "onboard_time": 1751967322,
+        "rank": 12,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 350024,
+        "num": 278780,
+        "word": "杨紫李现 爸爸妈妈我出生了",
+        "onboard_time": 1751961322,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57530,
+        "num": 278317,
+        "word": "国防部回应外国船挂五星红旗防袭击",
+        "onboard_time": 1751970802,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 599376,
+        "num": 278059,
+        "word": "梓渝摇",
+        "onboard_time": 1751970742,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 454796,
+        "num": 277650,
+        "word": "王一博卷毛王子",
+        "onboard_time": 1751966424,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277287,
+        "num": 277287,
+        "word": "怀孕3个月抗日女战士牺牲那一刻",
+        "onboard_time": 1751964682,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 367160,
+        "num": 274576,
+        "word": "女婴因眼睛小被挑剩下盼与父母团圆",
+        "onboard_time": 1751964442,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192482,
+        "num": 266949,
+        "word": "董晴说李光洁有一种破碎感",
+        "onboard_time": 1751969902,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300166,
+        "num": 266743,
+        "word": "杨紫 我俩现在多工业糖精",
+        "onboard_time": 1751969123,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266196,
+        "num": 266196,
+        "word": "演唱会抢票难度排行榜",
+        "onboard_time": 1751970442,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 232458,
+        "num": 232458,
+        "word": "多地音乐节可在现场领证结婚",
+        "onboard_time": 1751959882,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211754,
+        "num": 211754,
+        "word": "王一博燕子胸针",
+        "onboard_time": 1751970920,
+        "rank": 23,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 123789,
+        "num": 203686,
+        "word": "A股市场大涨原因",
+        "onboard_time": 1751968464,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 200543,
+        "num": 200543,
+        "word": "男子主动脉夹层随时破裂却说回老家",
+        "onboard_time": 1751970382,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200025,
+        "num": 200025,
+        "word": "女子坐11小时飞机后心跳骤停去世",
+        "onboard_time": 1751960302,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184854,
+        "num": 184854,
+        "word": "空腹爬楼一个月瘦10斤",
+        "onboard_time": 1751967262,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 169964,
+        "num": 180229,
+        "word": "孙怡60岁也不能放弃颜值",
+        "onboard_time": 1751970081,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56468,
+        "num": 179796,
+        "word": "男子开车出事故致女友截瘫后失联",
+        "onboard_time": 1751971282,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179584,
+        "num": 179584,
+        "word": "女儿6岁起被父亲持续性侵虐待10年",
+        "onboard_time": 1751971163,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 174863,
+        "num": 174863,
+        "word": "大学生就是有勇有谋",
+        "onboard_time": 1751970625,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168807,
+        "num": 168807,
+        "word": "香奈儿大秀",
+        "onboard_time": 1751966964,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 165190,
+        "num": 165190,
+        "word": "全智贤短发",
+        "onboard_time": 1751954782,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157783,
+        "num": 157783,
+        "word": "Winter被摸手",
+        "onboard_time": 1751968942,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151759,
+        "num": 151759,
+        "word": "以法之名直播全员方言挑战名台词",
+        "onboard_time": 1751971343,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144739,
+        "num": 144739,
+        "word": "国防部回应外国船挂五星红旗",
+        "onboard_time": 1751971582,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 139684,
+        "num": 139684,
+        "word": "女子喝半杯隔夜水后发现蚊子卵",
+        "onboard_time": 1751961622,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45348,
+        "num": 136974,
+        "word": "杭州甲醛房",
+        "onboard_time": 1751969482,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80187,
+        "num": 135221,
+        "word": "云间不见岳",
+        "onboard_time": 1751969424,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135133,
+        "num": 135133,
+        "word": "北京月薪30000一天要花多少钱",
+        "onboard_time": 1751966542,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134445,
+        "num": 134445,
+        "word": "台风丹娜丝",
+        "onboard_time": 1751963601,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134089,
+        "num": 134089,
+        "word": "林高远2比0领先被逆转",
+        "onboard_time": 1751970861,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133029,
+        "num": 133029,
+        "word": "美国大满贯球台遭孙颖莎王楚钦吐槽",
+        "onboard_time": 1751969482,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129815,
+        "num": 129815,
+        "word": "韩红也想一脚把黄誉博翻飞",
+        "onboard_time": 1751968703,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125903,
+        "num": 125903,
+        "word": "王青回来依旧是顶流",
+        "onboard_time": 1751970023,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127417,
+        "num": 124306,
+        "word": "战至巅峰",
+        "onboard_time": 1751966062,
+        "rank": 46,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 120394,
+        "num": 120394,
+        "word": "重庆暴雨",
+        "onboard_time": 1751969123,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119699,
+        "num": 119699,
+        "word": "97年到底产出多少帅哥",
+        "onboard_time": 1751970562,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117629,
+        "num": 117629,
+        "word": "鬼灭之刃该来的还是来了",
+        "onboard_time": 1751970322,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在山西省阳泉市考察#"
+    }
+  }
+}
