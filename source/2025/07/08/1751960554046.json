@@ -1,0 +1,410 @@
+{
+  "runTime": 1751960554046,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1331522,
+        "num": 1331522,
+        "word": "王阳 孙菲菲",
+        "onboard_time": 1751950582,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 860385,
+        "num": 860385,
+        "word": "大姐月薪3千花6千多学TikTok赚钱",
+        "onboard_time": 1751953282,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46944,
+        "num": 440778,
+        "word": "中国制造不断冲击世界眼球",
+        "onboard_time": 1751947162,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 924236,
+        "num": 435967,
+        "word": "全智贤短发",
+        "onboard_time": 1751954782,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427672,
+        "num": 427672,
+        "word": "轻断食10天瘦了14.5斤",
+        "onboard_time": 1751939842,
+        "rank": 4,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 489200,
+        "num": 382262,
+        "word": "蜜雪冰城被曝员工用脚关直饮水桶",
+        "onboard_time": 1751904143,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 784196,
+        "num": 348131,
+        "word": "外网评的最帅95生",
+        "onboard_time": 1751959041,
+        "rank": 6,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 497063,
+        "num": 326343,
+        "word": "鹿晗就这么水灵灵的喊了宝贝",
+        "onboard_time": 1751954241,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 248179,
+        "num": 248179,
+        "word": "骗子借一张帅哥照骗走女子50万元",
+        "onboard_time": 1751958681,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238274,
+        "num": 238274,
+        "word": "乳霜纸",
+        "onboard_time": 1751957182,
+        "rank": 9,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 729233,
+        "num": 238065,
+        "word": "张靓颖 网红化",
+        "onboard_time": 1751950225,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 417520,
+        "num": 237239,
+        "word": "锦绣芳华直播",
+        "onboard_time": 1751955503,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220763,
+        "num": 236459,
+        "word": "东部战区陆军海训现场",
+        "onboard_time": 1751956822,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 376608,
+        "num": 235836,
+        "word": "锦绣芳华",
+        "onboard_time": 1751952202,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78441,
+        "num": 235435,
+        "word": "多地音乐节可在现场领证结婚",
+        "onboard_time": 1751959882,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279370,
+        "num": 234741,
+        "word": "杨紫李现追剧团上班路透",
+        "onboard_time": 1751957182,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278169,
+        "num": 234316,
+        "word": "以为是真父子结果是真的演父子",
+        "onboard_time": 1751956342,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233849,
+        "num": 233849,
+        "word": "黄誉博否认黄子韬是自己嘉宾",
+        "onboard_time": 1751959282,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 224020,
+        "num": 224020,
+        "word": "不要全平台取同一个id",
+        "onboard_time": 1751953103,
+        "rank": 18,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 218679,
+        "num": 218679,
+        "word": "27岁真的还很年轻很年轻的",
+        "onboard_time": 1751947883,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 250829,
+        "num": 213022,
+        "word": "李一桐不愧是干过幼师的",
+        "onboard_time": 1751958741,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237136,
+        "num": 208843,
+        "word": "黄渤说张艺兴半夜三点还在练舞练歌",
+        "onboard_time": 1751954001,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202583,
+        "num": 202583,
+        "word": "国乒男单四人止步美国大满贯首轮",
+        "onboard_time": 1751937982,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120596,
+        "num": 185290,
+        "word": "教育局回应学校后厨用扫把清理厨具",
+        "onboard_time": 1751959282,
+        "rank": 23,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 180850,
+        "num": 180850,
+        "word": "周先旺被查",
+        "onboard_time": 1751945363,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 218561,
+        "num": 178418,
+        "word": "歌手",
+        "onboard_time": 1751956942,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196011,
+        "num": 172959,
+        "word": "以法剧宣直播艺人上窜下跳",
+        "onboard_time": 1751959702,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187283,
+        "num": 170025,
+        "word": "梓渝美谈",
+        "onboard_time": 1751957423,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159543,
+        "num": 159543,
+        "word": "女子坐11小时飞机后心跳骤停去世",
+        "onboard_time": 1751960302,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142839,
+        "num": 142839,
+        "word": "上汽奥迪A5L现已到店",
+        "onboard_time": 1751955322,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 168960,
+        "num": 142350,
+        "word": "我开始变了 是从那次绩效打B开始的",
+        "onboard_time": 1751959101,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141546,
+        "num": 141546,
+        "word": "孙颖莎王曼昱vs迪亚兹帕瓦德",
+        "onboard_time": 1751957782,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122817,
+        "num": 137175,
+        "word": "南京胖哥第二个孩子出生",
+        "onboard_time": 1751960422,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34840,
+        "num": 137151,
+        "word": "蜜雪用脚关桶员工已离职",
+        "onboard_time": 1751959282,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137142,
+        "num": 137142,
+        "word": "甲亢哥还在用华为",
+        "onboard_time": 1751958082,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133161,
+        "num": 133161,
+        "word": "为什么7月面试机会突然变少了",
+        "onboard_time": 1751959462,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 125160,
+        "num": 131975,
+        "word": "张杰说身体只是一个躯壳而已",
+        "onboard_time": 1751959041,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130976,
+        "num": 130976,
+        "word": "中尼边境泥石流我国一侧11人失联",
+        "onboard_time": 1751957901,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 125778,
+        "num": 125778,
+        "word": "郑雅贤在国外LadyGaga在中国王心凌",
+        "onboard_time": 1751955082,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115687,
+        "num": 115687,
+        "word": "babycare纸尿裤再现黑色异物",
+        "onboard_time": 1751956282,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114934,
+        "num": 114934,
+        "word": "南京胖哥分享二宝将出生",
+        "onboard_time": 1751954902,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54210,
+        "num": 114776,
+        "word": "仙剑奇侠传30周年主题曲",
+        "onboard_time": 1751960482,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114693,
+        "num": 114693,
+        "word": "头一次看剧窝囊了23集",
+        "onboard_time": 1751957302,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23807,
+        "num": 112640,
+        "word": "钟意川剧变脸",
+        "onboard_time": 1751959702,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111635,
+        "num": 111635,
+        "word": "郑恺苗苗挽手看电影",
+        "onboard_time": 1751958322,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109977,
+        "num": 109977,
+        "word": "日本一女星疑家中去世遗体腐烂多日",
+        "onboard_time": 1751942482,
+        "rank": 45,
+        "category": "艺人,海外新闻"
+      },
+      {
+        "raw_hot": 108089,
+        "num": 108089,
+        "word": "伊藤美诚被搭档爆头",
+        "onboard_time": 1751956342,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105309,
+        "num": 105309,
+        "word": "孙菲菲说为王阳澄清是应王阳要求写的",
+        "onboard_time": 1751947043,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104090,
+        "num": 104090,
+        "word": "猫 否则嫔妾该在哪里啊",
+        "onboard_time": 1751960120,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98130,
+        "num": 98130,
+        "word": "中国要像手机一样造战斗机",
+        "onboard_time": 1751941821,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#一支视频看习近平心系三晋大地#"
+    }
+  }
+}
