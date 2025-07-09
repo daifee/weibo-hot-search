@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1752057019221,
+  "endTime": 1752058047324,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -2067,6 +2067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3968193,
+      "num": 3968193,
+      "word": "杨少华去世",
+      "onboard_time": 1752055762,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3957531,
       "num": 4915063,
       "word": "马龙乒协副主席",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1739281223,
       "rank": 0,
       "category": "电影"
-    },
-    {
-      "raw_hot": 3622405,
-      "num": 3622405,
-      "word": "中餐厅9得罪了半个中国的人",
-      "onboard_time": 1747969582,
-      "rank": 3,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
