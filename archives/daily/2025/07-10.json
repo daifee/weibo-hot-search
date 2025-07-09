@@ -1,6 +1,6 @@
 {
   "startTime": 1752078814060,
-  "endTime": 1752081970182,
+  "endTime": 1752083026327,
   "band_list": [
     {
       "raw_hot": 1064633,
@@ -51,19 +51,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 411151,
+      "num": 411151,
+      "word": "有史以来最短一天",
+      "onboard_time": 1752063323,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 380740,
       "num": 380740,
       "word": "官方通报公职人员肖某生活作风问题",
       "onboard_time": 1752074603,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 364544,
-      "num": 364544,
-      "word": "有史以来最短一天",
-      "onboard_time": 1752063323,
-      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -235,6 +235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 114018,
+      "num": 114018,
+      "word": "2029年或出现负闰秒",
+      "onboard_time": 1752079700,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112077,
       "num": 112077,
       "word": "梓渝和弟弟有一样的痣",
@@ -331,14 +339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 84938,
-      "num": 84938,
-      "word": "2029年或出现负闰秒",
-      "onboard_time": 1752079700,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 84414,
       "num": 84414,
       "word": "男子称在西湖景区穿汉服拍照遭驱赶",
@@ -419,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57063,
+      "num": 81268,
+      "word": "重庆暴雨车行老板称70辆车泡水",
+      "onboard_time": 1752081678,
+      "rank": 20,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 55470,
       "num": 55470,
       "word": "中国5年再造广东江苏山东3个经济大省",
@@ -432,6 +440,22 @@
       "word": "青海1岁半幼童走失12个小时被找回",
       "onboard_time": 1752080179,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50518,
+      "num": 50518,
+      "word": "周杰伦昆凌儿子8岁近照",
+      "onboard_time": 1752074723,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 48503,
+      "num": 48503,
+      "word": "威海被生母殴打致死5岁男童已入土",
+      "onboard_time": 1752081318,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -452,11 +476,27 @@
     },
     {
       "raw_hot": 43631,
-      "num": 43631,
+      "num": 44621,
       "word": "Angelababy鱼嘴恨天高",
       "onboard_time": 1752066684,
       "rank": 46,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 39933,
+      "num": 44633,
+      "word": "再婚父亲向女儿索要赠款用于还债",
+      "onboard_time": 1752082277,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36856,
+      "num": 44579,
+      "word": "英伟达",
+      "onboard_time": 1752072504,
+      "rank": 49,
+      "category": "财经,数码"
     },
     {
       "raw_hot": 35216,
@@ -481,14 +521,6 @@
       "onboard_time": 1752081858,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20553,
-      "num": 81268,
-      "word": "重庆暴雨车行老板称70辆车泡水",
-      "onboard_time": 1752081678,
-      "rank": 20,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 17879,
