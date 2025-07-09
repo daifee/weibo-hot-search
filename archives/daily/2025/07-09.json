@@ -1,6 +1,6 @@
 {
   "startTime": 1751992486281,
-  "endTime": 1752074995571,
+  "endTime": 1752075874097,
   "band_list": [
     {
       "raw_hot": 3968193,
@@ -467,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 556775,
+      "num": 485886,
+      "word": "秦峰死了",
+      "onboard_time": 1752072685,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 546039,
       "num": 403999,
       "word": "时团直播主持不是杨若天",
@@ -611,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 429676,
+      "num": 266155,
+      "word": "杨少华午休时安详辞世",
+      "onboard_time": 1752074243,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 428094,
       "num": 389404,
       "word": "以法之名大结局",
@@ -627,14 +643,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 420258,
-      "num": 420258,
-      "word": "秦峰死了",
-      "onboard_time": 1752072685,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 419904,
       "num": 430623,
       "word": "王楚钦3比1高承睿",
@@ -649,6 +657,14 @@
       "onboard_time": 1752067884,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 416371,
+      "num": 597701,
+      "word": "郑州一公园殴打他人事件已抓获17人",
+      "onboard_time": 1752073284,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 407466,
@@ -819,6 +835,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 329468,
+      "num": 266266,
+      "word": "李一桐内娱第一个卡帧演员",
+      "onboard_time": 1752060864,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 327963,
       "num": 241627,
       "word": "印度女子深夜逃离家暴却遭4人强奸",
@@ -891,28 +915,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 310907,
-      "num": 266266,
-      "word": "李一桐内娱第一个卡帧演员",
-      "onboard_time": 1752060864,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 303357,
       "num": 383864,
       "word": "将8家台湾地区实体列入出口管制管控",
       "onboard_time": 1752027083,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 299257,
-      "num": 597701,
-      "word": "郑州一公园殴打他人事件已抓获17人",
-      "onboard_time": 1752073284,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 297386,
@@ -985,14 +993,6 @@
       "onboard_time": 1752021743,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 270984,
-      "num": 246156,
-      "word": "杨少华午休时安详辞世",
-      "onboard_time": 1752074243,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 270814,
@@ -1113,6 +1113,14 @@
       "onboard_time": 1752065363,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 239653,
+      "num": 239653,
+      "word": "中方向以色列提出严正交涉",
+      "onboard_time": 1752075682,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 239560,
@@ -1403,6 +1411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193102,
+      "num": 193102,
+      "word": "逆水寒",
+      "onboard_time": 1752074064,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 192999,
       "num": 192999,
       "word": "宁艺卓送金艺琳品牌方礼物",
@@ -1523,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185191,
+      "num": 419897,
+      "word": "报道猥亵女生的男子时该不该打码",
+      "onboard_time": 1752073824,
+      "rank": 14,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 183307,
       "num": 183307,
       "word": "沉迷KPOP的俄罗斯女孩",
@@ -1537,6 +1561,14 @@
       "onboard_time": 1752039862,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182976,
+      "num": 182976,
+      "word": "父亲欠下百万希望女儿能帮忙还债",
+      "onboard_time": 1752075083,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182549,
@@ -1555,12 +1587,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 181973,
-      "num": 181973,
-      "word": "逆水寒",
-      "onboard_time": 1752074064,
-      "rank": 32,
-      "category": "游戏"
+      "raw_hot": 181629,
+      "num": 181629,
+      "word": "官方通报公职人员肖某生活作风问题",
+      "onboard_time": 1752074603,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 180704,
@@ -2131,6 +2163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142179,
+      "num": 142179,
+      "word": "杨超越硬照这块就没输过",
+      "onboard_time": 1752074723,
+      "rank": 44,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 141861,
       "num": 175449,
       "word": "Fly对战BLG先下一城",
@@ -2411,14 +2451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131755,
-      "num": 131755,
-      "word": "杨超越硬照这块就没输过",
-      "onboard_time": 1752074723,
-      "rank": 44,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 130841,
       "num": 183257,
       "word": "A股",
@@ -2449,14 +2481,6 @@
       "onboard_time": 1752027263,
       "rank": 24,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 130546,
-      "num": 130546,
-      "word": "官方通报公职人员肖某生活作风问题",
-      "onboard_time": 1752074603,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 130480,
@@ -2577,6 +2601,14 @@
       "onboard_time": 1752036865,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 124548,
+      "num": 124548,
+      "word": "英伟达",
+      "onboard_time": 1752072504,
+      "rank": 42,
+      "category": "财经,数码"
     },
     {
       "raw_hot": 124538,
@@ -2875,11 +2907,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110296,
+      "num": 110296,
+      "word": "王鹤棣LV晚宴路透",
+      "onboard_time": 1752075444,
+      "rank": 45,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 110241,
       "num": 238430,
       "word": "中国基建下一步适度超前不过度超前",
       "onboard_time": 1752038244,
       "rank": 49,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 109961,
+      "num": 109961,
+      "word": "驻以使馆向以方提出严正交涉",
+      "onboard_time": 1752073345,
+      "rank": 46,
       "category": "国内时政"
     },
     {
@@ -3105,14 +3153,6 @@
       "onboard_time": 1751978302,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 89209,
-      "num": 419897,
-      "word": "报道猥亵女生的男子时该不该打码",
-      "onboard_time": 1752073824,
-      "rank": 14,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 87343,
@@ -3387,6 +3427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64179,
+      "num": 424719,
+      "word": "官方通报干部出轨他人妻子还打人",
+      "onboard_time": 1752075143,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 63897,
       "num": 157494,
       "word": "高志凯警告印度",
@@ -3459,6 +3507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57303,
+      "num": 263556,
+      "word": "云南一地突发泥石流300斤母猪被冲跑",
+      "onboard_time": 1752074484,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56432,
       "num": 269420,
       "word": "YU7现象折射中国经济新预期",
@@ -3523,7 +3579,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 45839,
+      "raw_hot": 45917,
       "num": 1034440,
       "word": "这些成就举世瞩目",
       "onboard_time": 1752073165,
@@ -3667,14 +3723,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 32252,
-      "num": 263556,
-      "word": "云南一地突发泥石流300斤母猪被冲跑",
-      "onboard_time": 1752074484,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 30401,
       "num": 55505,
       "word": "巴黎偶遇周杰伦昆凌吃面",
@@ -3715,6 +3763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28130,
+      "num": 149407,
+      "word": "以色列人道主义城市计划",
+      "onboard_time": 1752074664,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 27548,
       "num": 171077,
       "word": "白鹿叶璃plog",
@@ -3729,14 +3785,6 @@
       "onboard_time": 1752044483,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25993,
-      "num": 149407,
-      "word": "以色列人道主义城市计划",
-      "onboard_time": 1752074664,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 25554,
