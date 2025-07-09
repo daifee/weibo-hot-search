@@ -1,0 +1,410 @@
+{
+  "runTime": 1752050146173,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1134020,
+        "num": 1181443,
+        "word": "人民日报呼吁同志称呼重归主流",
+        "onboard_time": 1752045982,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 801611,
+        "num": 801611,
+        "word": "纪委介入女子自曝怀孕摆烂不上班",
+        "onboard_time": 1752042682,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29683,
+        "num": 744212,
+        "word": "尼山这个论坛要论什么",
+        "onboard_time": 1752035785,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 743635,
+        "num": 743635,
+        "word": "媒体曝光特朗普威胁普京录音",
+        "onboard_time": 1752046882,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 690569,
+        "num": 690569,
+        "word": "左氧佛沙星 跟腱断裂",
+        "onboard_time": 1752047661,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 668685,
+        "num": 668685,
+        "word": "孙一宁勾引女人的事全做了",
+        "onboard_time": 1752041422,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 556567,
+        "num": 556567,
+        "word": "枭起青壤 定档",
+        "onboard_time": 1752043940,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 467566,
+        "num": 467566,
+        "word": "登机只需提前15分钟了",
+        "onboard_time": 1752036024,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 426941,
+        "num": 426941,
+        "word": "被16块钱的男装惊呆了",
+        "onboard_time": 1752047603,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172906,
+        "num": 393676,
+        "word": "官方通报女子称怀孕期间摆烂上班",
+        "onboard_time": 1752049403,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 589484,
+        "num": 387910,
+        "word": "痛经假",
+        "onboard_time": 1752048323,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 574383,
+        "num": 383677,
+        "word": "女子自曝怀孕期间摆烂上班丈夫是市副处",
+        "onboard_time": 1752022043,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370557,
+        "num": 370557,
+        "word": "彭昱畅我现在有1.4了",
+        "onboard_time": 1752041842,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340981,
+        "num": 340981,
+        "word": "关晓彤晒海鲜减脂餐",
+        "onboard_time": 1752047000,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339071,
+        "num": 339071,
+        "word": "男子地铁上猥亵女生被便衣当场抓捕",
+        "onboard_time": 1752043221,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323401,
+        "num": 323401,
+        "word": "二男二女却凑出三对情侣",
+        "onboard_time": 1752046162,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310116,
+        "num": 310116,
+        "word": "杨紫大学看李现张一山篮球赛",
+        "onboard_time": 1752048683,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286514,
+        "num": 286514,
+        "word": "体制内娇妻特权刺破公平底线",
+        "onboard_time": 1752035485,
+        "rank": 17,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 34913,
+        "num": 269052,
+        "word": "特朗普说怎么还在问爱泼斯坦",
+        "onboard_time": 1752049283,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 40073,
+        "num": 261313,
+        "word": "部分日本公司开始要求员工不加班",
+        "onboard_time": 1752049283,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 256408,
+        "num": 256408,
+        "word": "巨峰葡萄 白月光",
+        "onboard_time": 1752048202,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 229607,
+        "num": 229607,
+        "word": "音乐节 离婚登记",
+        "onboard_time": 1752049343,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 209181,
+        "num": 228305,
+        "word": "Angelababy粤语自我介绍",
+        "onboard_time": 1752048802,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205106,
+        "num": 227862,
+        "word": "RIIZE直播",
+        "onboard_time": 1752047661,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227521,
+        "num": 227521,
+        "word": "小狗喜欢捡瓶子一个月能卖860元",
+        "onboard_time": 1752036087,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26228,
+        "num": 220184,
+        "word": "爱泼斯坦案监控神秘消失1分钟",
+        "onboard_time": 1752049882,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 77168,
+        "num": 218597,
+        "word": "古天乐成为风云A9L001号车主",
+        "onboard_time": 1752046703,
+        "rank": 26,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 217506,
+        "num": 217506,
+        "word": "杨洋撕拉片",
+        "onboard_time": 1752034343,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208354,
+        "num": 208354,
+        "word": "黄子韬徐艺洋 生理性喜欢",
+        "onboard_time": 1752049703,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198010,
+        "num": 198010,
+        "word": "张凌赫赵今麦新剧真天降竹马",
+        "onboard_time": 1752049343,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196761,
+        "num": 196761,
+        "word": "弟弟以后玩手机只敢玩19分钟",
+        "onboard_time": 1752048081,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177132,
+        "num": 177132,
+        "word": "大学生饮料开封后喝3天现细菌感染",
+        "onboard_time": 1752037285,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168093,
+        "num": 168093,
+        "word": "医生称尿路感染通常是免疫力下降所致",
+        "onboard_time": 1752044363,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 149211,
+        "num": 149211,
+        "word": "陈柏霖与女友将结婚",
+        "onboard_time": 1752046401,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145993,
+        "num": 145993,
+        "word": "杨博文中考479",
+        "onboard_time": 1752030504,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137531,
+        "num": 137531,
+        "word": "娇妻文学不是荣誉书而是举报信",
+        "onboard_time": 1752046342,
+        "rank": 35,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 132577,
+        "num": 132577,
+        "word": "以法之名洪豆还能考公吗",
+        "onboard_time": 1752048622,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129002,
+        "num": 129002,
+        "word": "DeepSeek使用率暴跌是片面解读",
+        "onboard_time": 1752049041,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 93293,
+        "num": 124694,
+        "word": "韩国密阳市人口跌破十万",
+        "onboard_time": 1752048323,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 124390,
+        "num": 124390,
+        "word": "张雪峰回应朋友圈合影",
+        "onboard_time": 1752048141,
+        "rank": 39,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 122308,
+        "num": 122308,
+        "word": "男子称贷款50万被收7万服务费",
+        "onboard_time": 1752046882,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121096,
+        "num": 121096,
+        "word": "大张伟密逃cue虞书欣",
+        "onboard_time": 1752044302,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116426,
+        "num": 116426,
+        "word": "LPL锁定四张S赛门票",
+        "onboard_time": 1752041901,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114791,
+        "num": 114791,
+        "word": "出门上班不小心把空调开成了制热",
+        "onboard_time": 1752046703,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113491,
+        "num": 113491,
+        "word": "3名航天员为恢复正常训练做准备",
+        "onboard_time": 1752045442,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 113164,
+        "num": 113164,
+        "word": "4块钱的咖啡",
+        "onboard_time": 1752050002,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 111370,
+        "num": 111370,
+        "word": "上海地铁回应便衣当场控制男子猥亵",
+        "onboard_time": 1752047123,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111077,
+        "num": 111077,
+        "word": "北京清理韦东奕仿冒账号超5000个",
+        "onboard_time": 1752048262,
+        "rank": 47,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 110697,
+        "num": 110697,
+        "word": "关晓彤感受到了大家一起云吃饭的快乐",
+        "onboard_time": 1752049642,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108382,
+        "num": 108382,
+        "word": "邻居房产遭查封执行的竟是我的房",
+        "onboard_time": 1752050123,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#谱写三晋大地推进中国式现代化新篇章#"
+    }
+  }
+}

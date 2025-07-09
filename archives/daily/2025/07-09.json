@@ -1,6 +1,6 @@
 {
   "startTime": 1751992486281,
-  "endTime": 1752046965551,
+  "endTime": 1752050146173,
   "band_list": [
     {
       "raw_hot": 2110615,
@@ -83,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1134020,
+      "num": 1181443,
+      "word": "人民日报呼吁同志称呼重归主流",
+      "onboard_time": 1752045982,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1129039,
       "num": 1129039,
       "word": "王楚钦9比11高承睿",
@@ -147,6 +155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 743635,
+      "num": 743635,
+      "word": "媒体曝光特朗普威胁普京录音",
+      "onboard_time": 1752046882,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 731308,
       "num": 695824,
       "word": "被曝婚内出轨粉丝NPC蓝狐狸被辞退",
@@ -179,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 690569,
+      "num": 690569,
+      "word": "左氧佛沙星 跟腱断裂",
+      "onboard_time": 1752047661,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 596208,
       "num": 824994,
       "word": "妻子去世后丈夫称太痛苦2年没回家",
@@ -193,6 +217,14 @@
       "onboard_time": 1752021623,
       "rank": 1,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 589484,
+      "num": 387910,
+      "word": "痛经假",
+      "onboard_time": 1752048323,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 588242,
@@ -307,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 426941,
+      "num": 426941,
+      "word": "被16块钱的男装惊呆了",
+      "onboard_time": 1752047603,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 419904,
       "num": 430623,
       "word": "王楚钦3比1高承睿",
@@ -411,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 340981,
+      "num": 340981,
+      "word": "关晓彤晒海鲜减脂餐",
+      "onboard_time": 1752047000,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 340941,
       "num": 694213,
       "word": "警方通报大三女生和男友双双坠亡",
@@ -433,6 +481,14 @@
       "onboard_time": 1752021263,
       "rank": 22,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 323401,
+      "num": 323401,
+      "word": "二男二女却凑出三对情侣",
+      "onboard_time": 1752046162,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 320148,
@@ -467,12 +523,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 305567,
-      "num": 305567,
-      "word": "人民日报呼吁同志称呼重归主流",
-      "onboard_time": 1752045982,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 310116,
+      "num": 310116,
+      "word": "杨紫大学看李现张一山篮球赛",
+      "onboard_time": 1752048683,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 303357,
@@ -555,6 +611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 256408,
+      "num": 256408,
+      "word": "巨峰葡萄 白月光",
+      "onboard_time": 1752048202,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
       "raw_hot": 256156,
       "num": 256156,
       "word": "巨改善脖子前倾的15天有效法",
@@ -603,6 +667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 229607,
+      "num": 229607,
+      "word": "音乐节 离婚登记",
+      "onboard_time": 1752049343,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 225179,
       "num": 312017,
       "word": "都市版雁回时",
@@ -619,12 +691,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 217027,
-      "num": 217027,
-      "word": "二男二女却凑出三对情侣",
-      "onboard_time": 1752046162,
-      "rank": 19,
-      "category": "剧集"
+      "raw_hot": 209181,
+      "num": 228305,
+      "word": "Angelababy粤语自我介绍",
+      "onboard_time": 1752048802,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 208354,
+      "num": 208354,
+      "word": "黄子韬徐艺洋 生理性喜欢",
+      "onboard_time": 1752049703,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 208024,
@@ -641,6 +721,14 @@
       "onboard_time": 1752044363,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 205106,
+      "num": 227862,
+      "word": "RIIZE直播",
+      "onboard_time": 1752047661,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 203643,
@@ -697,6 +785,22 @@
       "onboard_time": 1751981664,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198010,
+      "num": 198010,
+      "word": "张凌赫赵今麦新剧真天降竹马",
+      "onboard_time": 1752049343,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 196761,
+      "num": 196761,
+      "word": "弟弟以后玩手机只敢玩19分钟",
+      "onboard_time": 1752048081,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 196219,
@@ -857,6 +961,14 @@
       "onboard_time": 1752045801,
       "rank": 43,
       "category": "网红"
+    },
+    {
+      "raw_hot": 172906,
+      "num": 393676,
+      "word": "官方通报女子称怀孕期间摆烂上班",
+      "onboard_time": 1752049403,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 171955,
@@ -1219,6 +1331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132577,
+      "num": 132577,
+      "word": "以法之名洪豆还能考公吗",
+      "onboard_time": 1752048622,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132136,
       "num": 132136,
       "word": "各地博物馆把老祖宗的兴趣扒光了",
@@ -1249,6 +1369,14 @@
       "onboard_time": 1752027263,
       "rank": 24,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 129002,
+      "num": 129002,
+      "word": "DeepSeek使用率暴跌是片面解读",
+      "onboard_time": 1752049041,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 127743,
@@ -1284,7 +1412,7 @@
     },
     {
       "raw_hot": 125829,
-      "num": 174989,
+      "num": 218597,
       "word": "古天乐成为风云A9L001号车主",
       "onboard_time": 1752046703,
       "rank": 28,
@@ -1323,6 +1451,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 124390,
+      "num": 124390,
+      "word": "张雪峰回应朋友圈合影",
+      "onboard_time": 1752048141,
+      "rank": 39,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 123834,
       "num": 123834,
       "word": "WTT美国大满贯场地突然冒烟",
@@ -1344,6 +1480,14 @@
       "word": "台风丹娜丝特别能下雨",
       "onboard_time": 1752014716,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122308,
+      "num": 166043,
+      "word": "男子称贷款50万被收7万服务费",
+      "onboard_time": 1752046882,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -1427,12 +1571,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 113164,
+      "num": 113164,
+      "word": "4块钱的咖啡",
+      "onboard_time": 1752050002,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 111999,
       "num": 693455,
       "word": "王青闺女",
       "onboard_time": 1751979983,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111370,
+      "num": 111370,
+      "word": "上海地铁回应便衣当场控制男子猥亵",
+      "onboard_time": 1752047123,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111077,
+      "num": 111077,
+      "word": "北京清理韦东奕仿冒账号超5000个",
+      "onboard_time": 1752048262,
+      "rank": 47,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 110880,
@@ -1459,6 +1627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110697,
+      "num": 110697,
+      "word": "关晓彤感受到了大家一起云吃饭的快乐",
+      "onboard_time": 1752049642,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110241,
       "num": 238430,
       "word": "中国基建下一步适度超前不过度超前",
@@ -1473,6 +1649,14 @@
       "onboard_time": 1752043042,
       "rank": 48,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 108382,
+      "num": 108382,
+      "word": "邻居房产遭查封执行的竟是我的房",
+      "onboard_time": 1752050123,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108137,
@@ -1553,6 +1737,14 @@
       "onboard_time": 1751981904,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93293,
+      "num": 124694,
+      "word": "韩国密阳市人口跌破十万",
+      "onboard_time": 1752048323,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 91873,
@@ -1939,14 +2131,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 46874,
-      "num": 166940,
-      "word": "媒体曝光特朗普威胁普京录音",
-      "onboard_time": 1752046882,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 46263,
       "num": 150885,
       "word": "海卡好记仇",
@@ -1977,6 +2161,14 @@
       "onboard_time": 1751995038,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 40073,
+      "num": 261313,
+      "word": "部分日本公司开始要求员工不加班",
+      "onboard_time": 1752049283,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 40064,
@@ -2017,6 +2209,14 @@
       "onboard_time": 1752016880,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 34913,
+      "num": 269052,
+      "word": "特朗普说怎么还在问爱泼斯坦",
+      "onboard_time": 1752049283,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 32837,
@@ -2073,6 +2273,14 @@
       "onboard_time": 1752044483,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26228,
+      "num": 220184,
+      "word": "爱泼斯坦案监控神秘消失1分钟",
+      "onboard_time": 1752049882,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 25554,
@@ -2136,14 +2344,6 @@
       "word": "6组数据看科技创新与制造业加速升级",
       "onboard_time": 1751981845,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18726,
-      "num": 166043,
-      "word": "男子称贷款50万被收7万服务费",
-      "onboard_time": 1752046882,
-      "rank": 33,
       "category": "民生新闻"
     },
     {
