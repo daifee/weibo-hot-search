@@ -1,6 +1,6 @@
 {
   "startTime": 1752078814060,
-  "endTime": 1752103558226,
+  "endTime": 1752104460367,
   "band_list": [
     {
       "raw_hot": 1064633,
@@ -9,6 +9,14 @@
       "onboard_time": 1752069865,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 979755,
+      "num": 997038,
+      "word": "有史以来最短一天",
+      "onboard_time": 1752063323,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 777343,
@@ -25,14 +33,6 @@
       "onboard_time": 1752076762,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 628531,
-      "num": 830165,
-      "word": "有史以来最短一天",
-      "onboard_time": 1752063323,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 578217,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 299979,
+      "num": 299979,
+      "word": "男子曝妻子和公职人员多次开房",
+      "onboard_time": 1752068485,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 296743,
       "num": 296743,
       "word": "郑州一公园殴打他人事件已抓获17人",
@@ -131,14 +139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 240421,
-      "num": 240421,
-      "word": "男子曝妻子和公职人员多次开房",
-      "onboard_time": 1752068485,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 236939,
       "num": 185696,
       "word": "王晶曝成龙被粉丝扇耳光",
@@ -147,28 +147,52 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 212197,
-      "num": 212197,
+      "raw_hot": 231569,
+      "num": 231569,
       "word": "男子开车瞬间被臭晕倒地不起",
       "onboard_time": 1752070344,
       "rank": 17,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 201882,
-      "num": 201882,
+      "raw_hot": 228198,
+      "num": 228198,
+      "word": "关晓彤减肥能管住嘴的原因",
+      "onboard_time": 1752069205,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 207941,
+      "num": 207941,
       "word": "巴黎圣日耳曼4比0皇马",
       "onboard_time": 1752100878,
       "rank": 10,
       "category": "体育"
     },
     {
-      "raw_hot": 185279,
-      "num": 185279,
-      "word": "关晓彤减肥能管住嘴的原因",
-      "onboard_time": 1752069205,
-      "rank": 37,
-      "category": "艺人"
+      "raw_hot": 195038,
+      "num": 195038,
+      "word": "男子称在西湖景区穿汉服拍照遭驱赶",
+      "onboard_time": 1752078441,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193012,
+      "num": 242834,
+      "word": "威海被生母殴打致死5岁男童已入土",
+      "onboard_time": 1752081318,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187585,
+      "num": 187585,
+      "word": "媒体评尖子生高考575分被赶出家门",
+      "onboard_time": 1752085336,
+      "rank": 30,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 183701,
@@ -179,14 +203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 180141,
-      "num": 180141,
-      "word": "男子称在西湖景区穿汉服拍照遭驱赶",
-      "onboard_time": 1752078441,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 162770,
       "num": 162770,
       "word": "甲亢哥欧洲行用中文对粉丝喊冷静",
@@ -195,12 +211,12 @@
       "category": "海外新闻,网红"
     },
     {
-      "raw_hot": 158609,
-      "num": 158609,
-      "word": "媒体评尖子生高考575分被赶出家门",
-      "onboard_time": 1752085336,
-      "rank": 30,
-      "category": "民生新闻,教育"
+      "raw_hot": 150255,
+      "num": 150255,
+      "word": "敢跟谢霆锋这么说话的只有阿Sa",
+      "onboard_time": 1752097876,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 149265,
@@ -217,14 +233,6 @@
       "onboard_time": 1752072744,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 142816,
-      "num": 142816,
-      "word": "敢跟谢霆锋这么说话的只有阿Sa",
-      "onboard_time": 1752097876,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 138087,
@@ -267,14 +275,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 125102,
-      "num": 242834,
-      "word": "威海被生母殴打致死5岁男童已入土",
-      "onboard_time": 1752081318,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 118473,
       "num": 118473,
       "word": "报道猥亵女生的男子时该不该打码",
@@ -307,12 +307,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109308,
+      "num": 87908,
+      "word": "其实发胖是有时间点的",
+      "onboard_time": 1752103399,
+      "rank": 42,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 109008,
       "num": 109008,
       "word": "王鹤棣LV晚宴路透",
       "onboard_time": 1752075444,
       "rank": 33,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 105069,
+      "num": 105069,
+      "word": "律师称车祸赔偿无关婚约道义",
+      "onboard_time": 1752100997,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103218,
@@ -347,12 +363,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 98145,
-      "num": 98145,
-      "word": "律师称车祸赔偿无关婚约道义",
-      "onboard_time": 1752100997,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 94699,
+      "num": 94699,
+      "word": "宋祖儿天选横店打工人",
+      "onboard_time": 1752101357,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 93936,
@@ -387,6 +403,22 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 89916,
+      "num": 89916,
+      "word": "德约科维奇逆转晋级温网四强",
+      "onboard_time": 1752103699,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 89179,
+      "num": 89179,
+      "word": "中国5年再造广东江苏山东3个经济大省",
+      "onboard_time": 1752080479,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89008,
       "num": 89008,
       "word": "时团直播主持不是杨若天",
@@ -411,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86115,
+      "num": 86115,
+      "word": "租客自杀不到一月房子再次出租",
+      "onboard_time": 1752059603,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84104,
       "num": 84104,
       "word": "Angelababy红绿撞色高级感",
@@ -427,12 +467,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 81128,
-      "num": 81128,
-      "word": "中国5年再造广东江苏山东3个经济大省",
-      "onboard_time": 1752080479,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 82707,
+      "num": 82707,
+      "word": "新疆地震",
+      "onboard_time": 1752103158,
+      "rank": 37,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 79976,
@@ -449,6 +489,14 @@
       "onboard_time": 1752074363,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 76887,
+      "num": 76887,
+      "word": "父母不让远嫁的8年婚姻生活",
+      "onboard_time": 1752087135,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76242,
@@ -475,6 +523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 70648,
+      "num": 70648,
+      "word": "多名男子光脚躺华南农大图书馆沙发",
+      "onboard_time": 1752089235,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70462,
       "num": 70462,
       "word": "若事与愿违请相信是另有安排",
@@ -483,28 +539,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 70436,
-      "num": 70436,
-      "word": "宋祖儿天选横店打工人",
-      "onboard_time": 1752101357,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 64351,
+      "num": 64351,
+      "word": "尹锡悦时隔124天再度被拘留",
+      "onboard_time": 1752104421,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
-      "raw_hot": 69621,
-      "num": 69621,
-      "word": "租客自杀不到一月房子再次出租",
-      "onboard_time": 1752059603,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 65976,
-      "num": 65976,
-      "word": "多名男子光脚躺华南农大图书馆沙发",
-      "onboard_time": 1752089235,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 63688,
+      "num": 63688,
+      "word": "李现摸杨紫脸",
+      "onboard_time": 1752102138,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 63028,
@@ -516,7 +564,7 @@
     },
     {
       "raw_hot": 57342,
-      "num": 57342,
+      "num": 59843,
       "word": "肖战拍了对视转场",
       "onboard_time": 1752097454,
       "rank": 39,
@@ -531,28 +579,28 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 56697,
-      "num": 56697,
-      "word": "父母不让远嫁的8年婚姻生活",
-      "onboard_time": 1752087135,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 53332,
+      "num": 131759,
+      "word": "郭德纲悼念杨少华",
+      "onboard_time": 1752103940,
+      "rank": 19,
+      "category": "民生新闻,艺人"
     },
     {
-      "raw_hot": 56666,
-      "num": 56666,
-      "word": "新疆地震",
-      "onboard_time": 1752103158,
-      "rank": 37,
-      "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 53541,
-      "num": 53541,
-      "word": "李现摸杨紫脸",
-      "onboard_time": 1752102138,
-      "rank": 38,
+      "raw_hot": 47920,
+      "num": 59612,
+      "word": "有没有可能这才是真实世界",
+      "onboard_time": 1752103699,
+      "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 46102,
+      "num": 58044,
+      "word": "原神",
+      "onboard_time": 1752059543,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 46086,
@@ -563,14 +611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 44253,
-      "num": 52394,
-      "word": "其实发胖是有时间点的",
-      "onboard_time": 1752103399,
-      "rank": 42,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 43631,
       "num": 44621,
       "word": "Angelababy鱼嘴恨天高",
@@ -579,16 +619,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 42077,
-      "num": 52392,
-      "word": "原神",
-      "onboard_time": 1752059543,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 40476,
-      "num": 52392,
+      "raw_hot": 42684,
+      "num": 57577,
       "word": "再婚父亲向女儿索要赠款用于还债",
       "onboard_time": 1752082277,
       "rank": 45,
@@ -627,7 +659,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 31517,
+      "raw_hot": 31871,
       "num": 720736,
       "word": "这些成就举世瞩目",
       "onboard_time": 1752073165,
