@@ -1,6 +1,6 @@
 {
   "startTime": 1752078814060,
-  "endTime": 1752092986410,
+  "endTime": 1752093816583,
   "band_list": [
     {
       "raw_hot": 1064633,
@@ -587,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16123,
+      "num": 36968,
+      "word": "尹锡悦将被押往看守所",
+      "onboard_time": 1752091814,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 15967,
       "num": 54551,
       "word": "车主没停好车被保安泼油汤和开水",
@@ -595,20 +603,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13420,
-      "num": 36968,
-      "word": "尹锡悦将被押往看守所",
-      "onboard_time": 1752091814,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 12417,
       "num": 43030,
       "word": "男子打球时倒地球友们接力抢救",
       "onboard_time": 1752088155,
       "rank": 15,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 10068,
+      "num": 39649,
+      "word": "民进党当局装腔作势都是花架子",
+      "onboard_time": 1752093134,
+      "rank": 9,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
