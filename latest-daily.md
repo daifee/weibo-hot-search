@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/10 00:33:34 ~ 2025/07/10 05:25:46
+本榜单时间：2025/07/10 00:33:34 ~ 2025/07/10 05:40:41
 </p>
 </blockquote>
 <p>
@@ -339,6 +339,12 @@ Angelababy红绿撞色高级感（热度：84104）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AA%92%E4%BD%93%E8%AF%84%E5%B0%96%E5%AD%90%E7%94%9F%E9%AB%98%E8%80%83575%E5%88%86%E8%A2%AB%E8%B5%B6%E5%87%BA%E5%AE%B6%E9%97%A8%23" target="weibo">
+媒体评尖子生高考575分被赶出家门（热度：57908）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E6%9A%B4%E9%9B%A8%E8%BD%A6%E8%A1%8C%E8%80%81%E6%9D%BF%E7%A7%B070%E8%BE%86%E8%BD%A6%E6%B3%A1%E6%B0%B4%23" target="weibo">
 重庆暴雨车行老板称70辆车泡水（热度：57063）
 </a>
@@ -371,12 +377,6 @@ Angelababy红绿撞色高级感（热度：84104）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E8%B0%88%E5%A6%82%E4%BD%95%E6%B4%BB%E5%87%BA%E6%9D%BE%E5%BC%9B%E6%84%9F%23" target="weibo">
 刘宇宁谈如何活出松弛感（热度：46086）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AA%92%E4%BD%93%E8%AF%84%E5%B0%96%E5%AD%90%E7%94%9F%E9%AB%98%E8%80%83575%E5%88%86%E8%A2%AB%E8%B5%B6%E5%87%BA%E5%AE%B6%E9%97%A8%23" target="weibo">
-媒体评尖子生高考575分被赶出家门（热度：45534）
 </a>
 </li>
 
@@ -429,14 +429,14 @@ Angelababy鱼嘴恨天高（热度：43631）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%90%8D%E7%94%B7%E5%AD%90%E5%85%89%E8%84%9A%E8%BA%BA%E5%8D%8E%E5%8D%97%E5%86%9C%E5%A4%A7%E5%9B%BE%E4%B9%A6%E9%A6%86%E6%B2%99%E5%8F%91%23" target="weibo">
-多名男子光脚躺华南农大图书馆沙发（热度：18229）
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E4%B8%8D%E8%AE%A9%E8%BF%9C%E5%AB%81%E7%9A%848%E5%B9%B4%E5%A9%9A%E5%A7%BB%E7%94%9F%E6%B4%BB%23" target="weibo">
+父母不让远嫁的8年婚姻生活（热度：18375）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E4%B8%8D%E8%AE%A9%E8%BF%9C%E5%AB%81%E7%9A%848%E5%B9%B4%E5%A9%9A%E5%A7%BB%E7%94%9F%E6%B4%BB%23" target="weibo">
-父母不让远嫁的8年婚姻生活（热度：18142）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%90%8D%E7%94%B7%E5%AD%90%E5%85%89%E8%84%9A%E8%BA%BA%E5%8D%8E%E5%8D%97%E5%86%9C%E5%A4%A7%E5%9B%BE%E4%B9%A6%E9%A6%86%E6%B2%99%E5%8F%91%23" target="weibo">
+多名男子光脚躺华南农大图书馆沙发（热度：18229）
 </a>
 </li>
 
@@ -467,6 +467,12 @@ Angelababy鱼嘴恨天高（热度：43631）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E4%B8%BB%E6%B2%A1%E5%81%9C%E5%A5%BD%E8%BD%A6%E8%A2%AB%E4%BF%9D%E5%AE%89%E6%B3%BC%E6%B2%B9%E6%B1%A4%E5%92%8C%E5%BC%80%E6%B0%B4%23" target="weibo">
 车主没停好车被保安泼油汤和开水（热度：15967）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%A6%E4%BF%83%E7%BE%8E%E6%96%B9%E5%81%9C%E6%AD%A2%E5%B0%86%E7%BB%8F%E8%B4%B8%E6%8A%95%E8%B5%84%E9%97%AE%E9%A2%98%E6%94%BF%E6%B2%BB%E5%8C%96%23" target="weibo">
+敦促美方停止将经贸投资问题政治化（热度：14080）
 </a>
 </li>
 

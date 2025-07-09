@@ -1,6 +1,6 @@
 {
   "startTime": 1752078814060,
-  "endTime": 1752096346760,
+  "endTime": 1752097241350,
   "band_list": [
     {
       "raw_hot": 1064633,
@@ -435,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57908,
+      "num": 57908,
+      "word": "媒体评尖子生高考575分被赶出家门",
+      "onboard_time": 1752085336,
+      "rank": 30,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 57063,
       "num": 81268,
       "word": "重庆暴雨车行老板称70辆车泡水",
@@ -481,14 +489,6 @@
       "onboard_time": 1752064523,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 45534,
-      "num": 45534,
-      "word": "媒体评尖子生高考575分被赶出家门",
-      "onboard_time": 1752085336,
-      "rank": 30,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 43631,
@@ -555,19 +555,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 18375,
+      "num": 21194,
+      "word": "父母不让远嫁的8年婚姻生活",
+      "onboard_time": 1752087135,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18229,
       "num": 21198,
       "word": "多名男子光脚躺华南农大图书馆沙发",
       "onboard_time": 1752089235,
       "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18142,
-      "num": 21194,
-      "word": "父母不让远嫁的8年婚姻生活",
-      "onboard_time": 1752087135,
-      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -609,6 +609,14 @@
       "onboard_time": 1752088875,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14080,
+      "num": 57985,
+      "word": "敦促美方停止将经贸投资问题政治化",
+      "onboard_time": 1752094933,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 12417,
