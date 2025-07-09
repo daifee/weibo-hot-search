@@ -1,0 +1,410 @@
+{
+  "runTime": 1752046058089,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1306832,
+        "num": 1306832,
+        "word": "纪委介入女子自曝怀孕摆烂不上班",
+        "onboard_time": 1752042682,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 887465,
+        "num": 887465,
+        "word": "枭起青壤 定档",
+        "onboard_time": 1752043940,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32171,
+        "num": 881549,
+        "word": "尼山这个论坛要论什么",
+        "onboard_time": 1752035785,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 881514,
+        "num": 881514,
+        "word": "体制内娇妻特权刺破公平底线",
+        "onboard_time": 1752035485,
+        "rank": 3,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 838986,
+        "num": 838986,
+        "word": "登机只需提前15分钟了",
+        "onboard_time": 1752036024,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 695723,
+        "num": 695723,
+        "word": "孙一宁勾引女人的事全做了",
+        "onboard_time": 1752041422,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 625600,
+        "num": 625600,
+        "word": "彭昱畅我现在有1.4了",
+        "onboard_time": 1752041842,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 541447,
+        "num": 541447,
+        "word": "大学生饮料开封后喝3天现细菌感染",
+        "onboard_time": 1752037285,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 515706,
+        "num": 515706,
+        "word": "杨洋撕拉片",
+        "onboard_time": 1752034343,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173326,
+        "num": 410026,
+        "word": "3名航天员为恢复正常训练做准备",
+        "onboard_time": 1752045442,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 548337,
+        "num": 406111,
+        "word": "女子自曝怀孕期间摆烂上班丈夫是市副处",
+        "onboard_time": 1752022043,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393093,
+        "num": 393093,
+        "word": "小狗喜欢捡瓶子一个月能卖860元",
+        "onboard_time": 1752036087,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332227,
+        "num": 332227,
+        "word": "男子地铁上猥亵女生被便衣当场抓捕",
+        "onboard_time": 1752043221,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284660,
+        "num": 284660,
+        "word": "深圳假名媛被判13年",
+        "onboard_time": 1752036804,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265181,
+        "num": 265181,
+        "word": "孟子义杂志",
+        "onboard_time": 1752041362,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 248530,
+        "num": 248530,
+        "word": "大张伟密逃cue虞书欣",
+        "onboard_time": 1752044302,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242207,
+        "num": 242207,
+        "word": "英皇欠下166亿港元巨债",
+        "onboard_time": 1752032784,
+        "rank": 16,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 44810,
+        "num": 241665,
+        "word": "女子孕前期休假副处老公扮何角色",
+        "onboard_time": 1752045681,
+        "rank": 17,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 241455,
+        "num": 241455,
+        "word": "LPL锁定四张S赛门票",
+        "onboard_time": 1752041901,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 221675,
+        "num": 221675,
+        "word": "杨博文中考479",
+        "onboard_time": 1752030504,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202784,
+        "num": 202784,
+        "word": "雪糕刺客开始倒闭了",
+        "onboard_time": 1752034284,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16999,
+        "num": 190462,
+        "word": "高温天制冰厂一天售出200吨冰块",
+        "onboard_time": 1752045681,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189921,
+        "num": 189921,
+        "word": "原神若娜瓦",
+        "onboard_time": 1752045083,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 185897,
+        "num": 185897,
+        "word": "国家卫健委叫停阿尔茨海默病手术",
+        "onboard_time": 1752033686,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175485,
+        "num": 175485,
+        "word": "抢档",
+        "onboard_time": 1752028402,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168550,
+        "num": 168550,
+        "word": "李一桐配音哭了",
+        "onboard_time": 1752045622,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168314,
+        "num": 168314,
+        "word": "宋祖儿进组表妹万福",
+        "onboard_time": 1752043940,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159942,
+        "num": 159942,
+        "word": "神的局限性",
+        "onboard_time": 1752045201,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156729,
+        "num": 156729,
+        "word": "男子称社恐母亲死在家中10年没报警",
+        "onboard_time": 1752028221,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 142193,
+        "num": 142193,
+        "word": "13岁男孩脖子洗不干净确诊黑棘皮病",
+        "onboard_time": 1752024682,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140073,
+        "num": 140073,
+        "word": "迪丽热巴巴黎出图",
+        "onboard_time": 1752031584,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138857,
+        "num": 138857,
+        "word": "王楚钦微笑等候采访",
+        "onboard_time": 1752045263,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26915,
+        "num": 138238,
+        "word": "胰岛素抵抗有哪些特征",
+        "onboard_time": 1752045921,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 138079,
+        "num": 138079,
+        "word": "孙颖莎一个劲儿挠头",
+        "onboard_time": 1752045022,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134784,
+        "num": 134784,
+        "word": "外卖商家赔钱参战",
+        "onboard_time": 1752041602,
+        "rank": 34,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 133497,
+        "num": 133497,
+        "word": "肖战的假笑声",
+        "onboard_time": 1752043940,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132995,
+        "num": 132995,
+        "word": "孙颖莎晋级美国大满贯16强",
+        "onboard_time": 1752044842,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131916,
+        "num": 131916,
+        "word": "人民日报呼吁同志称呼重归主流",
+        "onboard_time": 1752045982,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131840,
+        "num": 131840,
+        "word": "意大利一男子被吸入飞机引擎身亡",
+        "onboard_time": 1752028943,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 19294,
+        "num": 128201,
+        "word": "无声的守护是最温暖的答案",
+        "onboard_time": 1752044483,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128099,
+        "num": 128099,
+        "word": "iPhone17Air到底有多薄",
+        "onboard_time": 1752032123,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 125383,
+        "num": 125383,
+        "word": "医生称尿路感染通常是免疫力下降所致",
+        "onboard_time": 1752044363,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 124366,
+        "num": 124366,
+        "word": "第一个想到小倩民国设定的是天才",
+        "onboard_time": 1752045921,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122886,
+        "num": 122886,
+        "word": "小黄豆否认有孩子",
+        "onboard_time": 1752045801,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 119939,
+        "num": 119939,
+        "word": "巨改善脖子前倾的15天有效法",
+        "onboard_time": 1752037403,
+        "rank": 44,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 116420,
+        "num": 116420,
+        "word": "我决定换苹果手机了",
+        "onboard_time": 1752017600,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116288,
+        "num": 116288,
+        "word": "孙一宁见面会",
+        "onboard_time": 1752036266,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110880,
+        "num": 110880,
+        "word": "Bin说会打进MSI决赛",
+        "onboard_time": 1752045801,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110753,
+        "num": 110753,
+        "word": "王楚钦第2局心态有变化",
+        "onboard_time": 1752044723,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109816,
+        "num": 109816,
+        "word": "内娱星二代是有出道KPI吗",
+        "onboard_time": 1752039082,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#谱写三晋大地推进中国式现代化新篇章#"
+    }
+  }
+}
