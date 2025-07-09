@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1752053487830,
+  "endTime": 1752054305227,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -315,8 +315,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1472073,
-      "num": 1472073,
+      "raw_hot": 1480174,
+      "num": 1480174,
       "word": "左氧佛沙星 跟腱断裂",
       "onboard_time": 1752047661,
       "rank": 4,
@@ -931,6 +931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 816180,
+      "num": 816180,
+      "word": "巨峰葡萄 白月光",
+      "onboard_time": 1752048202,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
       "raw_hot": 810118,
       "num": 810118,
       "word": "周先旺被查",
@@ -1073,14 +1081,6 @@
       "onboard_time": 1751734759,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 739658,
-      "num": 739658,
-      "word": "巨峰葡萄 白月光",
-      "onboard_time": 1752048202,
-      "rank": 20,
-      "category": "美食"
     },
     {
       "raw_hot": 734215,
@@ -1635,6 +1635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 540980,
+      "num": 540980,
+      "word": "怀孕女子称老公为市里副处不实",
+      "onboard_time": 1752051563,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 538613,
       "num": 697718,
       "word": "店员承认用草酸日洗超百斤龙虾",
@@ -1784,14 +1792,6 @@
       "word": "明德物业回应青岛大学宿管离世",
       "onboard_time": 1751856383,
       "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 500218,
-      "num": 500218,
-      "word": "怀孕女子称老公为市里副处不实",
-      "onboard_time": 1752051563,
-      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -2075,6 +2075,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 420600,
+      "num": 420600,
+      "word": "黄子韬徐艺洋 生理性喜欢",
+      "onboard_time": 1752049703,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 419904,
       "num": 430623,
       "word": "王楚钦3比1高承睿",
@@ -2209,14 +2217,6 @@
       "onboard_time": 1751862686,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 404182,
-      "num": 267139,
-      "word": "黄子韬徐艺洋 生理性喜欢",
-      "onboard_time": 1752049703,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 393473,
@@ -2385,6 +2385,14 @@
       "onboard_time": 1751724263,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 367257,
+      "num": 367257,
+      "word": "方圆脸最适合的发型",
+      "onboard_time": 1752051143,
+      "rank": 15,
+      "category": "美妆"
     },
     {
       "raw_hot": 367085,
@@ -3027,14 +3035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 288986,
-      "num": 288986,
-      "word": "方圆脸最适合的发型",
-      "onboard_time": 1752051143,
-      "rank": 15,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 288540,
       "num": 288540,
       "word": "阿姨收个衣服都能上万步",
@@ -3145,6 +3145,14 @@
       "onboard_time": 1751866283,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 276973,
+      "num": 289613,
+      "word": "自曝怀孕摆烂没上班女子已销号",
+      "onboard_time": 1752051742,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 274617,
@@ -3545,14 +3553,6 @@
       "onboard_time": 1751946142,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 252023,
-      "num": 289613,
-      "word": "自曝怀孕摆烂没上班女子已销号",
-      "onboard_time": 1752051742,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 251939,
@@ -4107,6 +4107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 222215,
+      "num": 222215,
+      "word": "拒绝填报清华北大遭怒骂",
+      "onboard_time": 1752050722,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 222105,
       "num": 222105,
       "word": "王楚钦vs高承睿",
@@ -4345,6 +4353,14 @@
       "onboard_time": 1751805325,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 207470,
+      "num": 207470,
+      "word": "王一博乡村与荒野的清新之风",
+      "onboard_time": 1752053722,
+      "rank": 24,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 207210,
@@ -4827,14 +4843,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 195642,
-      "num": 195642,
-      "word": "拒绝填报清华北大遭怒骂",
-      "onboard_time": 1752050722,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 195507,
       "num": 195507,
       "word": "特朗普或将对药品征收200%关税",
@@ -4865,6 +4873,14 @@
       "onboard_time": 1751899705,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194740,
+      "num": 194740,
+      "word": "张子枫你哥叫你注意balance",
+      "onboard_time": 1752053601,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 194471,
@@ -5667,6 +5683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172936,
+      "num": 172936,
+      "word": "虞书欣停车收粉丝的信",
+      "onboard_time": 1752052703,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172795,
       "num": 172795,
       "word": "世乒赛夺冠王楚钦希望不是昙花",
@@ -5739,6 +5763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171872,
+      "num": 220169,
+      "word": "黄俊捷直播",
+      "onboard_time": 1752050903,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171831,
       "num": 183244,
       "word": "婚姻是人性放大器",
@@ -5801,6 +5833,14 @@
       "onboard_time": 1752038302,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170605,
+      "num": 170605,
+      "word": "最会省钱的女生已经开始买男装了",
+      "onboard_time": 1752051442,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 170557,
@@ -6251,14 +6291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 159212,
-      "num": 215522,
-      "word": "黄俊捷直播",
-      "onboard_time": 1752050903,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 159152,
       "num": 300595,
       "word": "血铅异常幼儿异地血检数据升十多倍",
@@ -6305,14 +6337,6 @@
       "onboard_time": 1751893883,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 158197,
-      "num": 158197,
-      "word": "最会省钱的女生已经开始买男装了",
-      "onboard_time": 1752051442,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 158190,
@@ -6801,14 +6825,6 @@
       "onboard_time": 1751793202,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 148568,
-      "num": 166779,
-      "word": "虞书欣停车收粉丝的信",
-      "onboard_time": 1752052703,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 148475,
@@ -8380,7 +8396,7 @@
     },
     {
       "raw_hot": 126203,
-      "num": 638050,
+      "num": 654016,
       "word": "一图速览十四五经济社会发展成就",
       "onboard_time": 1752043824,
       "rank": 44,
@@ -8985,6 +9001,14 @@
       "onboard_time": 1751930901,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 118899,
+      "num": 118899,
+      "word": "李庚希对刘诗诗上手又上腿",
+      "onboard_time": 1752053902,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 118839,
@@ -10643,12 +10667,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97114,
+      "num": 97114,
+      "word": "人生下半场才真正开始",
+      "onboard_time": 1752054142,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 97059,
       "num": 329070,
       "word": "高温下的宿舍不能靠心静自然凉",
       "onboard_time": 1751873484,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 96804,
+      "num": 96804,
+      "word": "美国大满贯混双八强出炉",
+      "onboard_time": 1752053422,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 96721,
+      "num": 96721,
+      "word": "李佳薇回应热搜爆了",
+      "onboard_time": 1752054024,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 96561,
@@ -10696,14 +10744,6 @@
       "word": "皇马3比2多特蒙德",
       "onboard_time": 1751758819,
       "rank": 21,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 95114,
-      "num": 95114,
-      "word": "美国大满贯混双八强出炉",
-      "onboard_time": 1752053422,
-      "rank": 47,
       "category": "体育"
     },
     {
@@ -10809,6 +10849,14 @@
       "onboard_time": 1751787203,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 92695,
+      "num": 92695,
+      "word": "2米36的人生原来远没有表面风光",
+      "onboard_time": 1752051503,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 92665,
@@ -11435,6 +11483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 73998,
+      "num": 276314,
+      "word": "网友自称县文旅局工作孕期请假数月",
+      "onboard_time": 1752053782,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72531,
       "num": 138279,
       "word": "明日方舟",
@@ -11979,6 +12035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56432,
+      "num": 269420,
+      "word": "YU7现象折射中国经济新预期",
+      "onboard_time": 1752051864,
+      "rank": 17,
+      "category": "民生新闻,汽车"
+    },
+    {
       "raw_hot": 56350,
       "num": 694337,
       "word": "教师犯罪刑释后被开除起诉学校被驳回",
@@ -12131,20 +12195,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 49744,
+      "num": 115748,
+      "word": "小猪狗你很潮流嘛",
+      "onboard_time": 1752053843,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 49666,
       "num": 49666,
       "word": "闰六月让夏季更热更长是真的吗",
       "onboard_time": 1751758819,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 49438,
-      "num": 269420,
-      "word": "YU7现象折射中国经济新预期",
-      "onboard_time": 1752051864,
-      "rank": 17,
-      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 49430,
@@ -12299,6 +12363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44095,
+      "num": 242823,
+      "word": "杨幂叫周笔畅姐姐叫得好熟练",
+      "onboard_time": 1752051982,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 43957,
       "num": 1306201,
       "word": "尼山这个论坛要论什么",
@@ -12376,6 +12448,14 @@
       "word": "江西黄河水",
       "onboard_time": 1751861904,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41166,
+      "num": 264288,
+      "word": "入室抢婴案孩子母亲将继续申诉",
+      "onboard_time": 1752052882,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -12624,14 +12704,6 @@
       "word": "来自一个不扫兴的爸爸的爱",
       "onboard_time": 1751837655,
       "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33254,
-      "num": 264288,
-      "word": "入室抢婴案孩子母亲将继续申诉",
-      "onboard_time": 1752052882,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
