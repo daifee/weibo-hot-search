@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1752072353407,
+  "endTime": 1752074995571,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -115,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2456708,
+      "num": 2456708,
+      "word": "以法之名 烂尾",
+      "onboard_time": 1752069865,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2431395,
       "num": 372781,
       "word": "田栩宁 孩子",
@@ -129,14 +137,6 @@
       "onboard_time": 1751853563,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 2241452,
-      "num": 2241452,
-      "word": "以法之名 烂尾",
-      "onboard_time": 1752069865,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 2240657,
@@ -1483,6 +1483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 636181,
+      "num": 619400,
+      "word": "小英自曝大女儿感染幽门螺旋杆菌",
+      "onboard_time": 1752068363,
+      "rank": 25,
+      "category": "网红"
+    },
+    {
       "raw_hot": 634502,
       "num": 535050,
       "word": "27岁真的还很年轻很年轻的",
@@ -2075,6 +2083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 458750,
+      "num": 458750,
+      "word": "翔霖",
+      "onboard_time": 1752071964,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 455893,
       "num": 696686,
       "word": "余承东因开车看手机去自首了",
@@ -2105,6 +2121,14 @@
       "onboard_time": 1751731224,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 453321,
+      "num": 518260,
+      "word": "甲亢哥欧洲行用中文对粉丝喊冷静",
+      "onboard_time": 1752069744,
+      "rank": 18,
+      "category": "海外新闻,网红"
     },
     {
       "raw_hot": 452278,
@@ -2289,6 +2313,14 @@
       "onboard_time": 1751818164,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 420258,
+      "num": 420258,
+      "word": "秦峰死了",
+      "onboard_time": 1752072685,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 419904,
@@ -2537,14 +2569,6 @@
       "onboard_time": 1752051203,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 378562,
-      "num": 518260,
-      "word": "甲亢哥欧洲行用中文对粉丝喊冷静",
-      "onboard_time": 1752069744,
-      "rank": 18,
-      "category": "海外新闻,网红"
     },
     {
       "raw_hot": 377293,
@@ -3163,6 +3187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 310907,
+      "num": 266266,
+      "word": "李一桐内娱第一个卡帧演员",
+      "onboard_time": 1752060864,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 309187,
       "num": 664695,
       "word": "斯嘉丽成全球票房最高演员",
@@ -3227,14 +3259,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 303083,
-      "num": 266266,
-      "word": "李一桐内娱第一个卡帧演员",
-      "onboard_time": 1752060864,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 301505,
       "num": 301505,
       "word": "血铅异常幼儿园老师称自己也是受害者",
@@ -3249,6 +3273,14 @@
       "onboard_time": 1751893703,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 299257,
+      "num": 597701,
+      "word": "郑州一公园殴打他人事件已抓获17人",
+      "onboard_time": 1752073284,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 298785,
@@ -3459,6 +3491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 272511,
+      "num": 272511,
+      "word": "互联网给陈飞宇做局了",
+      "onboard_time": 1752074363,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 272120,
       "num": 272120,
       "word": "王俊凯出任电竞世界杯中国唯一大使",
@@ -3497,6 +3537,14 @@
       "onboard_time": 1752021743,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 270984,
+      "num": 246156,
+      "word": "杨少华午休时安详辞世",
+      "onboard_time": 1752074243,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 270814,
@@ -3681,6 +3729,14 @@
       "onboard_time": 1752064703,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 263661,
+      "num": 263661,
+      "word": "江南百景图",
+      "onboard_time": 1752073165,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 263646,
@@ -4187,14 +4243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 235442,
-      "num": 235442,
-      "word": "小英自曝大女儿感染幽门螺旋杆菌",
-      "onboard_time": 1752068363,
-      "rank": 25,
-      "category": "网红"
-    },
-    {
       "raw_hot": 235036,
       "num": 235036,
       "word": "时代少年团直播",
@@ -4209,6 +4257,14 @@
       "onboard_time": 1751956942,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 234789,
+      "num": 234789,
+      "word": "关晓彤减肥能管住嘴的原因",
+      "onboard_time": 1752069205,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 234584,
@@ -4555,6 +4611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 215959,
+      "num": 215959,
+      "word": "以法之名 傅东育",
+      "onboard_time": 1752072744,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215678,
       "num": 192499,
       "word": "过年做的美甲留到了现在",
@@ -4585,6 +4649,14 @@
       "onboard_time": 1751809704,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 214083,
+      "num": 214083,
+      "word": "不要关注太多情侣博主",
+      "onboard_time": 1752069865,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 213667,
@@ -4971,6 +5043,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 201067,
+      "num": 201067,
+      "word": "贺峻霖 法修散打",
+      "onboard_time": 1752073703,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200980,
       "num": 200980,
       "word": "王一博VOGUE",
@@ -5265,14 +5345,6 @@
       "onboard_time": 1751856263,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 194915,
-      "num": 194915,
-      "word": "翔霖",
-      "onboard_time": 1752071964,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 194817,
@@ -5691,14 +5763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 184687,
-      "num": 184687,
-      "word": "关晓彤减肥能管住嘴的原因",
-      "onboard_time": 1752069205,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 184666,
       "num": 184666,
       "word": "梁靖崑2比3巴德",
@@ -5763,14 +5827,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 182445,
-      "num": 182445,
-      "word": "不要关注太多情侣博主",
-      "onboard_time": 1752069865,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 182405,
       "num": 182405,
       "word": "张鑫晒白鹿送的麦克风",
@@ -5803,6 +5859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181973,
+      "num": 181973,
+      "word": "逆水寒",
+      "onboard_time": 1752074064,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 181433,
       "num": 232129,
       "word": "关晓彤闭眼笑颜",
@@ -5825,6 +5889,14 @@
       "onboard_time": 1751978483,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 180704,
+      "num": 180704,
+      "word": "王者荣耀回应玩家吐槽新赛季",
+      "onboard_time": 1752068244,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 180348,
@@ -6587,14 +6659,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 165467,
-      "num": 165467,
-      "word": "王者荣耀回应玩家吐槽新赛季",
-      "onboard_time": 1752068244,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 165027,
       "num": 163298,
       "word": "脊柱最喜欢的4个动作",
@@ -6787,6 +6851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160714,
+      "num": 160714,
+      "word": "谢鸿飞跳崖",
+      "onboard_time": 1752073104,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160471,
       "num": 207580,
       "word": "全球博士生过剩",
@@ -6945,6 +7017,14 @@
       "onboard_time": 1752063384,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158127,
+      "num": 158127,
+      "word": "Angelababy红绿撞色高级感",
+      "onboard_time": 1752073584,
+      "rank": 35,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 158116,
@@ -7115,6 +7195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155315,
+      "num": 155315,
+      "word": "曾舜晞请剧组吃火锅",
+      "onboard_time": 1752072325,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155207,
       "num": 155207,
       "word": "伪人父母",
@@ -7153,6 +7241,14 @@
       "onboard_time": 1751799081,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 154230,
+      "num": 154230,
+      "word": "周杰伦昆凌儿子8岁近照",
+      "onboard_time": 1752074723,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 153987,
@@ -7241,14 +7337,6 @@
       "onboard_time": 1751899825,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 152877,
-      "num": 152877,
-      "word": "曾舜晞请剧组吃火锅",
-      "onboard_time": 1752072325,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 152640,
@@ -7673,6 +7761,14 @@
       "onboard_time": 1751809464,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 146270,
+      "num": 146270,
+      "word": "每天十分钟肝郁恢复95%",
+      "onboard_time": 1752072924,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 146033,
@@ -8763,6 +8859,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 131755,
+      "num": 131755,
+      "word": "杨超越硬照这块就没输过",
+      "onboard_time": 1752074723,
+      "rank": 44,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 131616,
       "num": 131616,
       "word": "学生在宿管大爷生前屋外放鲜花悼念",
@@ -8873,6 +8977,14 @@
       "onboard_time": 1752027263,
       "rank": 24,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 130546,
+      "num": 130546,
+      "word": "官方通报公职人员肖某生活作风问题",
+      "onboard_time": 1752074603,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130480,
@@ -9737,6 +9849,14 @@
       "onboard_time": 1751779341,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120642,
+      "num": 120642,
+      "word": "陈飞宇巴黎街头直播",
+      "onboard_time": 1752073645,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 120596,
@@ -11915,6 +12035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89209,
+      "num": 419897,
+      "word": "报道猥亵女生的男子时该不该打码",
+      "onboard_time": 1752073824,
+      "rank": 14,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 88848,
       "num": 88848,
       "word": "F1直播",
@@ -13307,6 +13435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45839,
+      "num": 1034440,
+      "word": "这些成就举世瞩目",
+      "onboard_time": 1752073165,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 45546,
       "num": 131954,
       "word": "天水幼儿园铅中毒背后的隐形毒源",
@@ -13755,6 +13891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32252,
+      "num": 263556,
+      "word": "云南一地突发泥石流300斤母猪被冲跑",
+      "onboard_time": 1752074484,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31865,
       "num": 121096,
       "word": "久尔杰维奇谈国足状态",
@@ -14025,6 +14169,14 @@
       "onboard_time": 1751982085,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25993,
+      "num": 149407,
+      "word": "以色列人道主义城市计划",
+      "onboard_time": 1752074664,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 25554,
@@ -14482,6 +14634,9 @@
     },
     {
       "word": "#跟着总书记重温抗战烽火岁月#"
+    },
+    {
+      "word": "#习近平总书记赴山西考察纪实#"
     }
   ]
 }

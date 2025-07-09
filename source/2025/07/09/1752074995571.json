@@ -1,0 +1,410 @@
+{
+  "runTime": 1752074995571,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2456708,
+        "num": 2456708,
+        "word": "以法之名 烂尾",
+        "onboard_time": 1752069865,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1164966,
+        "num": 1164966,
+        "word": "男子理发店充430万做灌肠后遭退费难",
+        "onboard_time": 1752068424,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45839,
+        "num": 1034440,
+        "word": "这些成就举世瞩目",
+        "onboard_time": 1752073165,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 933644,
+        "num": 933644,
+        "word": "7月9日将成有史以来最短一天",
+        "onboard_time": 1752063323,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 729396,
+        "num": 729396,
+        "word": "王晶曝成龙被粉丝扇耳光",
+        "onboard_time": 1752067405,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 620541,
+        "num": 620541,
+        "word": "男子曝妻子和公职人员多次开房",
+        "onboard_time": 1752068485,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 636181,
+        "num": 619400,
+        "word": "小英自曝大女儿感染幽门螺旋杆菌",
+        "onboard_time": 1752068363,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 614539,
+        "num": 614539,
+        "word": "Angelababy 港风还得港女来",
+        "onboard_time": 1752061463,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 598176,
+        "num": 598176,
+        "word": "男子开车瞬间被臭晕倒地不起",
+        "onboard_time": 1752070344,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299257,
+        "num": 597701,
+        "word": "郑州一公园殴打他人事件已抓获17人",
+        "onboard_time": 1752073284,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 597632,
+        "num": 597632,
+        "word": "杨少华去世",
+        "onboard_time": 1752055762,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458750,
+        "num": 458750,
+        "word": "翔霖",
+        "onboard_time": 1752071964,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 453321,
+        "num": 453321,
+        "word": "甲亢哥欧洲行用中文对粉丝喊冷静",
+        "onboard_time": 1752069744,
+        "rank": 12,
+        "category": "海外新闻,网红"
+      },
+      {
+        "raw_hot": 420258,
+        "num": 420258,
+        "word": "秦峰死了",
+        "onboard_time": 1752072685,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89209,
+        "num": 419897,
+        "word": "报道猥亵女生的男子时该不该打码",
+        "onboard_time": 1752073824,
+        "rank": 14,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 419859,
+        "num": 419859,
+        "word": "田栩宁ccd",
+        "onboard_time": 1752062962,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349295,
+        "num": 349295,
+        "word": "穷小孩的人生是从30岁开始的",
+        "onboard_time": 1752068664,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 272511,
+        "num": 272511,
+        "word": "互联网给陈飞宇做局了",
+        "onboard_time": 1752074363,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263661,
+        "num": 263661,
+        "word": "江南百景图",
+        "onboard_time": 1752073165,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 32252,
+        "num": 263556,
+        "word": "云南一地突发泥石流300斤母猪被冲跑",
+        "onboard_time": 1752074484,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310907,
+        "num": 255681,
+        "word": "李一桐内娱第一个卡帧演员",
+        "onboard_time": 1752060864,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304546,
+        "num": 251353,
+        "word": "以法之名",
+        "onboard_time": 1752062122,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270984,
+        "num": 246156,
+        "word": "杨少华午休时安详辞世",
+        "onboard_time": 1752074243,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270184,
+        "num": 236947,
+        "word": "梓渝和弟弟有一样的痣",
+        "onboard_time": 1752067764,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234789,
+        "num": 234789,
+        "word": "关晓彤减肥能管住嘴的原因",
+        "onboard_time": 1752069205,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222035,
+        "num": 222035,
+        "word": "考编成绩断崖式领先牵出跨省作弊案",
+        "onboard_time": 1752057383,
+        "rank": 25,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 215959,
+        "num": 215959,
+        "word": "以法之名 傅东育",
+        "onboard_time": 1752072744,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214083,
+        "num": 214083,
+        "word": "不要关注太多情侣博主",
+        "onboard_time": 1752069865,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 209402,
+        "num": 209402,
+        "word": "1分钟教你摸脉判断月经来了没",
+        "onboard_time": 1752061822,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 205634,
+        "num": 205634,
+        "word": "黄子韬徐艺洋 生理性喜欢",
+        "onboard_time": 1752049703,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201067,
+        "num": 201067,
+        "word": "贺峻霖 法修散打",
+        "onboard_time": 1752073703,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182372,
+        "num": 182372,
+        "word": "时团直播主持不是杨若天",
+        "onboard_time": 1752065663,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181973,
+        "num": 181973,
+        "word": "逆水寒",
+        "onboard_time": 1752074064,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180704,
+        "num": 180704,
+        "word": "王者荣耀回应玩家吐槽新赛季",
+        "onboard_time": 1752068244,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160714,
+        "num": 160714,
+        "word": "谢鸿飞跳崖",
+        "onboard_time": 1752073104,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158127,
+        "num": 158127,
+        "word": "Angelababy红绿撞色高级感",
+        "onboard_time": 1752073584,
+        "rank": 35,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 155315,
+        "num": 155315,
+        "word": "曾舜晞请剧组吃火锅",
+        "onboard_time": 1752072325,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154230,
+        "num": 154230,
+        "word": "周杰伦昆凌儿子8岁近照",
+        "onboard_time": 1752074723,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25993,
+        "num": 149407,
+        "word": "以色列人道主义城市计划",
+        "onboard_time": 1752074664,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146270,
+        "num": 146270,
+        "word": "每天十分钟肝郁恢复95%",
+        "onboard_time": 1752072924,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 142707,
+        "num": 142707,
+        "word": "刘宇宁谈如何活出松弛感",
+        "onboard_time": 1752064523,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139719,
+        "num": 139719,
+        "word": "左氧氟沙星 跟腱断裂",
+        "onboard_time": 1752047661,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137834,
+        "num": 137834,
+        "word": "父母离婚后初三男生频繁尿床",
+        "onboard_time": 1752068964,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136501,
+        "num": 136501,
+        "word": "万海死在了最接近真相的那天",
+        "onboard_time": 1752063803,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131755,
+        "num": 131755,
+        "word": "杨超越硬照这块就没输过",
+        "onboard_time": 1752074723,
+        "rank": 44,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 130546,
+        "num": 130546,
+        "word": "官方通报公职人员肖某生活作风问题",
+        "onboard_time": 1752074603,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120642,
+        "num": 120642,
+        "word": "陈飞宇巴黎街头直播",
+        "onboard_time": 1752073645,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118875,
+        "num": 118875,
+        "word": "小伙一天打卡8个景点后耳朵聋了",
+        "onboard_time": 1752071605,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116264,
+        "num": 116264,
+        "word": "卢卡岁岁平安",
+        "onboard_time": 1752071905,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115758,
+        "num": 115758,
+        "word": "刘雯蓝色礼服",
+        "onboard_time": 1752069445,
+        "rank": 49,
+        "category": "艺人,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记赴山西考察纪实#"
+    }
+  }
+}
