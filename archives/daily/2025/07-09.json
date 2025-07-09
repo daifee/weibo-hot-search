@@ -1,10 +1,18 @@
 {
   "startTime": 1751992486281,
-  "endTime": 1752028190770,
+  "endTime": 1752032501888,
   "band_list": [
     {
+      "raw_hot": 1820962,
+      "num": 1820962,
+      "word": "杨博文中考479",
+      "onboard_time": 1752030504,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1501690,
-      "num": 428983,
+      "num": 446072,
       "word": "女子自曝怀孕期间摆烂上班丈夫是市副处",
       "onboard_time": 1752022043,
       "rank": 3,
@@ -19,6 +27,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1418599,
+      "num": 373749,
+      "word": "抢档",
+      "onboard_time": 1752028402,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 932111,
+      "num": 370578,
+      "word": "男子称社恐母亲死在家中10年没报警",
+      "onboard_time": 1752028221,
+      "rank": 11,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 835178,
       "num": 1092190,
       "word": "女子连续一周被邻居冒用地址点外卖",
@@ -27,8 +51,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 764227,
+      "num": 262559,
+      "word": "孙颖莎0比1高达",
+      "onboard_time": 1752028221,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 747264,
-      "num": 285066,
+      "num": 364806,
       "word": "我决定换苹果手机了",
       "onboard_time": 1752017600,
       "rank": 14,
@@ -68,7 +100,7 @@
     },
     {
       "raw_hot": 532492,
-      "num": 177355,
+      "num": 252684,
       "word": "13岁男孩脖子洗不干净确诊黑棘皮病",
       "onboard_time": 1752024682,
       "rank": 21,
@@ -83,12 +115,44 @@
       "category": "演出"
     },
     {
+      "raw_hot": 509514,
+      "num": 509514,
+      "word": "中国人均预期寿命79岁",
+      "onboard_time": 1752030442,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 439308,
+      "num": 439308,
+      "word": "36岁沈梦辰生图状态",
+      "onboard_time": 1752030803,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 406536,
       "num": 697718,
       "word": "店员承认用草酸日洗超百斤龙虾",
       "onboard_time": 1751987430,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 388807,
+      "num": 388807,
+      "word": "结石姐得知癌症没扩散后哭了",
+      "onboard_time": 1752031283,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 387213,
+      "num": 387213,
+      "word": "扫毒风暴",
+      "onboard_time": 1752026902,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 385848,
@@ -123,6 +187,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 364460,
+      "num": 364460,
+      "word": "意大利一男子被吸入飞机引擎身亡",
+      "onboard_time": 1752028943,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 353939,
+      "num": 353939,
+      "word": "电视剧花好官宣",
+      "onboard_time": 1752032004,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 345680,
+      "num": 345680,
+      "word": "中国人在日本的英语霸凌",
+      "onboard_time": 1752027383,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 340941,
       "num": 694213,
       "word": "警方通报大三女生和男友双双坠亡",
@@ -140,11 +228,19 @@
     },
     {
       "raw_hot": 327963,
-      "num": 177094,
+      "num": 211457,
       "word": "印度女子深夜逃离家暴却遭4人强奸",
       "onboard_time": 1752021263,
       "rank": 22,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 327003,
+      "num": 327003,
+      "word": "月薪30万全靠抓知了猴",
+      "onboard_time": 1752029243,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 320148,
@@ -180,11 +276,19 @@
     },
     {
       "raw_hot": 303357,
-      "num": 303357,
+      "num": 383864,
       "word": "将8家台湾地区实体列入出口管制管控",
       "onboard_time": 1752027083,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 273352,
+      "num": 273352,
+      "word": "迪丽热巴巴黎出图",
+      "onboard_time": 1752031584,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 271563,
@@ -196,7 +300,7 @@
     },
     {
       "raw_hot": 260371,
-      "num": 176743,
+      "num": 191261,
       "word": "扫毒风暴定档0712",
       "onboard_time": 1752027441,
       "rank": 22,
@@ -227,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 238227,
+      "num": 356233,
+      "word": "警方通报网传民警违停致人死亡",
+      "onboard_time": 1752027622,
+      "rank": 31,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 231028,
       "num": 696813,
       "word": "网友住酒店光脚洗澡感染HPV",
@@ -235,12 +347,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 211503,
-      "num": 211503,
-      "word": "中国人在日本的英语霸凌",
-      "onboard_time": 1752027383,
-      "rank": 13,
-      "category": "幽默"
+      "raw_hot": 222105,
+      "num": 222105,
+      "word": "王楚钦vs高承睿",
+      "onboard_time": 1752021564,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 203643,
@@ -249,6 +361,14 @@
       "onboard_time": 1751991626,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202980,
+      "num": 190253,
+      "word": "龙族三人行必有灯泡",
+      "onboard_time": 1752031642,
+      "rank": 30,
+      "category": "动漫"
     },
     {
       "raw_hot": 200237,
@@ -283,6 +403,30 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 189774,
+      "num": 189774,
+      "word": "避暑",
+      "onboard_time": 1752031704,
+      "rank": 32,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 189425,
+      "num": 190020,
+      "word": "孙颖莎3比2高达",
+      "onboard_time": 1752029482,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 187754,
+      "num": 190821,
+      "word": "孙颖莎回应晋级16强",
+      "onboard_time": 1752031763,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186424,
       "num": 186424,
       "word": "女孩捡手机险被浪冲走大姨跳海救人",
@@ -299,6 +443,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 183307,
+      "num": 183307,
+      "word": "沉迷KPOP的俄罗斯女孩",
+      "onboard_time": 1752028342,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 178238,
       "num": 178238,
       "word": "美得州洪灾灾区市长含泪哭诉",
@@ -307,16 +459,24 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 176143,
-      "num": 176143,
-      "word": "扫毒风暴",
-      "onboard_time": 1752026902,
-      "rank": 25,
+      "raw_hot": 177623,
+      "num": 183306,
+      "word": "iPhone17Air到底有多薄",
+      "onboard_time": 1752032123,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 171955,
+      "num": 190392,
+      "word": "让万茜穿长衫的人简直是天才",
+      "onboard_time": 1752029662,
+      "rank": 29,
       "category": "剧集"
     },
     {
       "raw_hot": 171831,
-      "num": 176660,
+      "num": 183244,
       "word": "婚姻是人性放大器",
       "onboard_time": 1752024682,
       "rank": 26,
@@ -329,6 +489,14 @@
       "onboard_time": 1752024620,
       "rank": 16,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 155772,
+      "num": 378843,
+      "word": "王楚钦3比1高承睿",
+      "onboard_time": 1752031763,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 154166,
@@ -355,6 +523,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 147481,
+      "num": 183299,
+      "word": "结婚是唯一一次亲自选择家人",
+      "onboard_time": 1752028583,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 146351,
+      "num": 183290,
+      "word": "孙颖莎拒绝冷门",
+      "onboard_time": 1752032184,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141651,
       "num": 696343,
       "word": "台风丹娜丝三次登陆浙江温州",
@@ -363,8 +547,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140302,
+      "num": 183266,
+      "word": "十四五前4年我国经济增速平均达到5.5%",
+      "onboard_time": 1752029482,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 139901,
-      "num": 176132,
+      "num": 183255,
       "word": "梓渝线下活动生图",
       "onboard_time": 1752027383,
       "rank": 26,
@@ -403,6 +595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 135329,
+      "num": 197193,
+      "word": "享界换新头像了",
+      "onboard_time": 1752030983,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 134164,
       "num": 689637,
       "word": "噪声扰民严重直接拘",
@@ -417,6 +617,14 @@
       "onboard_time": 1751975423,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 130841,
+      "num": 183257,
+      "word": "A股",
+      "onboard_time": 1752029363,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 130602,
@@ -443,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124980,
+      "num": 183250,
+      "word": "家里的磁场会影响你的运气",
+      "onboard_time": 1752030442,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 122496,
       "num": 175738,
       "word": "台风丹娜丝特别能下雨",
@@ -459,12 +675,36 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 117201,
+      "num": 183240,
+      "word": "重庆打雷",
+      "onboard_time": 1752031885,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115881,
       "num": 694569,
       "word": "锦绣芳华第12集 离谱",
       "onboard_time": 1751973563,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115159,
+      "num": 183230,
+      "word": "颜人中2025巡演预告",
+      "onboard_time": 1752032243,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 113598,
+      "num": 183228,
+      "word": "中国第一艘第一次第一座彰显重大突破",
+      "onboard_time": 1752029724,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 111999,
@@ -481,14 +721,6 @@
       "onboard_time": 1752024802,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 109559,
-      "num": 175897,
-      "word": "警方通报网传民警违停致人死亡",
-      "onboard_time": 1752027622,
-      "rank": 31,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 108137,
@@ -571,6 +803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87343,
+      "num": 191516,
+      "word": "村民回应猪油作坊现场都是蛆虫蟑螂",
+      "onboard_time": 1752031283,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86839,
       "num": 175482,
       "word": "养了两只狗才会有的感觉",
@@ -593,6 +833,14 @@
       "onboard_time": 1752017119,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 85506,
+      "num": 191789,
+      "word": "困难挑战挡不住中国前进的步伐",
+      "onboard_time": 1752029482,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 84050,
@@ -763,20 +1011,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 66546,
+      "num": 446438,
+      "word": "净网2025暴恐音视频危害大不看不存不转发",
+      "onboard_time": 1752026301,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66083,
       "num": 692623,
       "word": "张真源奔跑吧记录",
       "onboard_time": 1751992044,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 65444,
-      "num": 175148,
-      "word": "王楚钦vs高承睿",
-      "onboard_time": 1752021564,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 65115,
@@ -801,6 +1049,14 @@
       "onboard_time": 1752017060,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61740,
+      "num": 183281,
+      "word": "名侦探柯南新兰又发糖了",
+      "onboard_time": 1752031584,
+      "rank": 38,
+      "category": "动漫"
     },
     {
       "raw_hot": 60665,
@@ -859,12 +1115,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 45488,
-      "num": 433650,
-      "word": "净网2025暴恐音视频危害大不看不存不转发",
-      "onboard_time": 1752026301,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 42632,
+      "num": 183281,
+      "word": "以色列拟建人道主义城禁居民离开",
+      "onboard_time": 1752032483,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 41036,
