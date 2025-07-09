@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752068361044,
+  "endTime": 1752069105029,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -2427,6 +2427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 756492,
+      "num": 756492,
+      "word": "左氧氟沙星 跟腱断裂",
+      "onboard_time": 1752047661,
+      "rank": 9,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 747264,
       "num": 461753,
       "word": "我决定换苹果手机了",
@@ -3547,6 +3555,14 @@
       "category": "作品衍生,作品衍生"
     },
     {
+      "raw_hot": 604047,
+      "num": 397265,
+      "word": "Angelababy 港风还得港女来",
+      "onboard_time": 1752061463,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 602520,
       "num": 602520,
       "word": "内娱撕拉片四大TOP",
@@ -3883,6 +3899,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 556841,
+      "num": 377525,
+      "word": "王晶曝成龙被粉丝扇耳光",
+      "onboard_time": 1752067405,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 556351,
       "num": 556351,
       "word": "徐州vs南通",
@@ -3905,14 +3929,6 @@
       "onboard_time": 1751364681,
       "rank": 17,
       "category": "网红"
-    },
-    {
-      "raw_hot": 554245,
-      "num": 397265,
-      "word": "Angelababy 港风还得港女来",
-      "onboard_time": 1752061463,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 554067,
@@ -4811,14 +4827,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 449222,
-      "num": 449222,
-      "word": "左氧氟沙星 跟腱断裂",
-      "onboard_time": 1752047661,
-      "rank": 9,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 448284,
       "num": 448284,
       "word": "上海飞东京航班疑客舱释压备降大阪",
@@ -5571,6 +5579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 390648,
+      "num": 370398,
+      "word": "梓渝和弟弟有一样的痣",
+      "onboard_time": 1752067764,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 390272,
       "num": 285581,
       "word": "何惟芳蒋长扬亲好猛",
@@ -5632,6 +5648,14 @@
       "word": "烟台一高校宿舍无空调学生中暑送医",
       "onboard_time": 1751708003,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 385715,
+      "num": 385715,
+      "word": "男子理发店充430万做灌肠后遭退费难",
+      "onboard_time": 1752068424,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -5779,14 +5803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 373977,
-      "num": 216386,
-      "word": "王晶曝成龙被粉丝扇耳光",
-      "onboard_time": 1752067405,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 373882,
       "num": 373882,
       "word": "BLACKPINK直播",
@@ -5881,6 +5897,14 @@
       "onboard_time": 1751635647,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 367841,
+      "num": 367841,
+      "word": "穷小孩的人生是从30岁开始的",
+      "onboard_time": 1752068664,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 367085,
@@ -7931,6 +7955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 277216,
+      "num": 238587,
+      "word": "男子曝妻子和公职人员多次开房",
+      "onboard_time": 1752068485,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 277090,
       "num": 122741,
       "word": "恋与深空日本",
@@ -8384,14 +8416,6 @@
       "word": "艾米 老实人",
       "onboard_time": 1751877922,
       "rank": 37,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 263399,
-      "num": 263399,
-      "word": "梓渝和弟弟有一样的痣",
-      "onboard_time": 1752067764,
-      "rank": 17,
       "category": "艺人"
     },
     {
@@ -8960,6 +8984,14 @@
       "word": "湖南资兴一游船侧翻已救出28人",
       "onboard_time": 1751713940,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 243992,
+      "num": 243992,
+      "word": "保安开水浇车已道歉并赔偿350元",
+      "onboard_time": 1752065363,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -9763,6 +9795,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 225847,
+      "num": 225847,
+      "word": "小英自曝大女儿感染幽门螺旋杆菌",
+      "onboard_time": 1752068363,
+      "rank": 25,
+      "category": "网红"
+    },
+    {
       "raw_hot": 225787,
       "num": 228151,
       "word": "桃花映江山18集22分54秒",
@@ -9785,14 +9825,6 @@
       "onboard_time": 1751800405,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 225530,
-      "num": 225530,
-      "word": "保安开水浇车已道歉并赔偿350元",
-      "onboard_time": 1752065363,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 225179,
@@ -12011,6 +12043,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 192999,
+      "num": 192999,
+      "word": "宁艺卓送金艺琳品牌方礼物",
+      "onboard_time": 1752068905,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192764,
       "num": 192764,
       "word": "五月天北京",
@@ -12923,6 +12963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182051,
+      "num": 182051,
+      "word": "女星自曝抗癌花费500万",
+      "onboard_time": 1752067285,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182019,
       "num": 151927,
       "word": "沈梦辰在演一种很新的贵妃",
@@ -13123,6 +13171,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 179324,
+      "num": 179324,
+      "word": "郑雅萍审程子健杀人诛心",
+      "onboard_time": 1752068125,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179172,
       "num": 179172,
       "word": "Angelababy鱼嘴恨天高",
@@ -13225,14 +13281,6 @@
       "onboard_time": 1751861965,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 177923,
-      "num": 177923,
-      "word": "郑雅萍审程子健杀人诛心",
-      "onboard_time": 1752068125,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 177869,
@@ -13412,7 +13460,7 @@
     },
     {
       "raw_hot": 176073,
-      "num": 176073,
+      "num": 374715,
       "word": "厦门往返鼓浪屿轮渡在海上剧烈摇摆",
       "onboard_time": 1752062001,
       "rank": 30,
@@ -13473,14 +13521,6 @@
       "onboard_time": 1751325438,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 175687,
-      "num": 175687,
-      "word": "女星自曝抗癌花费500万",
-      "onboard_time": 1752067285,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 175527,
@@ -15619,6 +15659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156269,
+      "num": 156269,
+      "word": "女校长诈骗5000万花3000万游戏充值",
+      "onboard_time": 1752066083,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156264,
       "num": 447078,
       "word": "坐男友车出车祸致截瘫女子发声",
@@ -15753,6 +15801,14 @@
       "onboard_time": 1751463383,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155207,
+      "num": 155207,
+      "word": "伪人父母",
+      "onboard_time": 1752063743,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 155195,
@@ -17739,14 +17795,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 140802,
-      "num": 140802,
-      "word": "伪人父母",
-      "onboard_time": 1752063743,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 140779,
       "num": 229884,
       "word": "江浙沪艺人图鉴",
@@ -18369,6 +18417,14 @@
       "onboard_time": 1751815404,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136784,
+      "num": 136784,
+      "word": "父母离婚后初三男生频繁尿床",
+      "onboard_time": 1752068964,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136703,
@@ -19099,6 +19155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 132519,
+      "num": 132519,
+      "word": "梓渝小时候军训照",
+      "onboard_time": 1752068664,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132516,
       "num": 132516,
       "word": "关晓彤陈哲远 吃饭最虔诚的两个人",
@@ -19153,14 +19217,6 @@
       "onboard_time": 1751618306,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 132169,
-      "num": 132169,
-      "word": "女校长诈骗5000万花3000万游戏充值",
-      "onboard_time": 1752066083,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 132149,
@@ -20033,6 +20089,14 @@
       "onboard_time": 1751355982,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127399,
+      "num": 127399,
+      "word": "朱易短节目",
+      "onboard_time": 1752068183,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 127383,
@@ -22929,14 +22993,6 @@
       "onboard_time": 1751443643,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 111925,
-      "num": 111925,
-      "word": "朱易短节目",
-      "onboard_time": 1752068183,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 111921,
