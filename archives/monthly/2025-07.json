@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752061221264,
+  "endTime": 1752065655584,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -531,6 +531,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1668473,
+      "num": 1668473,
+      "word": "7月9日将成有史以来最短一天",
+      "onboard_time": 1752063323,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1652375,
       "num": 534036,
       "word": "孙恩盛 无证驾驶",
@@ -601,6 +609,14 @@
       "onboard_time": 1751708421,
       "rank": 10,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 1539961,
+      "num": 414679,
+      "word": "田栩宁ccd",
+      "onboard_time": 1752062962,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1523200,
@@ -873,6 +889,14 @@
       "onboard_time": 1751708603,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1292318,
+      "num": 1292318,
+      "word": "以法之名",
+      "onboard_time": 1751453422,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 1282540,
@@ -2091,6 +2115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 821125,
+      "num": 821125,
+      "word": "租客自杀不到一月房子再次出租",
+      "onboard_time": 1752059603,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 818563,
       "num": 818563,
       "word": "日本地震预言致外国游客取消行程",
@@ -2915,6 +2947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 678289,
+      "num": 555765,
+      "word": "万海死在了最接近真相的那天",
+      "onboard_time": 1752063803,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 678213,
       "num": 420435,
       "word": "公务员考试的所有公式都在这里了",
@@ -3339,14 +3379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 624956,
-      "num": 624956,
-      "word": "租客自杀不到一月房子再次出租",
-      "onboard_time": 1752059603,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 623990,
       "num": 623990,
       "word": "张弛结婚",
@@ -3571,12 +3603,28 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 595515,
+      "num": 550264,
+      "word": "万海死了",
+      "onboard_time": 1752064463,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 594501,
       "num": 290377,
       "word": "陈楚生被谁甩了",
       "onboard_time": 1751637746,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 592936,
+      "num": 410560,
+      "word": "餐馆回应杨少华参加剪彩",
+      "onboard_time": 1752065543,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 592583,
@@ -3745,6 +3793,14 @@
       "onboard_time": 1751466504,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 565432,
+      "num": 565432,
+      "word": "考编成绩断崖式领先牵出跨省作弊案",
+      "onboard_time": 1752057383,
+      "rank": 26,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 562212,
@@ -4155,6 +4211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 517049,
+      "num": 517049,
+      "word": "1分钟教你摸脉判断月经来了没",
+      "onboard_time": 1752061822,
+      "rank": 8,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 517019,
       "num": 517019,
       "word": "田栩宁emoji",
@@ -4529,14 +4593,6 @@
       "onboard_time": 1751609063,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 468874,
-      "num": 482819,
-      "word": "考编成绩断崖式领先牵出跨省作弊案",
-      "onboard_time": 1752057383,
-      "rank": 26,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 466559,
@@ -5081,6 +5137,14 @@
       "onboard_time": 1751818164,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 421419,
+      "num": 421419,
+      "word": "左氧氟沙星 跟腱断裂",
+      "onboard_time": 1752047661,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 421368,
@@ -6443,6 +6507,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 334324,
+      "num": 334324,
+      "word": "Angelababy 港风还得港女来",
+      "onboard_time": 1752061463,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 334033,
       "num": 334033,
       "word": "偶遇鹿晗高瀚宇黄新淳逛街",
@@ -6915,6 +6987,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 315213,
+      "num": 315213,
+      "word": "时代少年团上海",
+      "onboard_time": 1752062243,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 314427,
       "num": 314427,
       "word": "南京胖哥第二个孩子出生",
@@ -6937,14 +7017,6 @@
       "onboard_time": 1751768721,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 313234,
-      "num": 692763,
-      "word": "以法之名",
-      "onboard_time": 1751453422,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 313218,
@@ -7115,6 +7187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 305698,
+      "num": 267386,
+      "word": "以法之名大结局",
+      "onboard_time": 1752062843,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 305490,
       "num": 305490,
       "word": "莆田一受资助学生家里装修豪华引质疑",
@@ -7169,6 +7249,14 @@
       "onboard_time": 1752027083,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 303083,
+      "num": 266266,
+      "word": "李一桐内娱第一个卡帧演员",
+      "onboard_time": 1752060864,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 302707,
@@ -7683,6 +7771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 281450,
+      "num": 278989,
+      "word": "以法之名超点",
+      "onboard_time": 1752056904,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 281077,
       "num": 281077,
       "word": "高叶大嫂气场完全看不见了",
@@ -7728,14 +7824,6 @@
       "word": "杨紫李现追剧团上班路透",
       "onboard_time": 1751957182,
       "rank": 21,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 278989,
-      "num": 278989,
-      "word": "以法之名超点",
-      "onboard_time": 1752056904,
-      "rank": 45,
       "category": "剧集"
     },
     {
@@ -7945,6 +8033,14 @@
       "onboard_time": 1751603363,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270814,
+      "num": 270814,
+      "word": "男子3巴掌扇掉电梯门被判刑",
+      "onboard_time": 1752057803,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 270762,
@@ -8235,6 +8331,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 264059,
+      "num": 264059,
+      "word": "冯建宇直播",
+      "onboard_time": 1752064703,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 263646,
       "num": 263646,
       "word": "艾米 老实人",
@@ -8273,6 +8377,14 @@
       "onboard_time": 1751375422,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 262365,
+      "num": 262365,
+      "word": "Angelababy 妈妈级别",
+      "onboard_time": 1752063982,
+      "rank": 25,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 262334,
@@ -9105,6 +9217,14 @@
       "onboard_time": 1751724866,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 235036,
+      "num": 235036,
+      "word": "时代少年团直播",
+      "onboard_time": 1752062723,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 235025,
@@ -10515,14 +10635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 207047,
-      "num": 207047,
-      "word": "男子3巴掌扇掉电梯门被判刑",
-      "onboard_time": 1752057803,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 206666,
       "num": 206666,
       "word": "朱志鑫黄海",
@@ -10929,6 +11041,14 @@
       "onboard_time": 1751455101,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 202174,
+      "num": 202174,
+      "word": "刘宇宁谈如何活出松弛感",
+      "onboard_time": 1752064523,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 202005,
@@ -11723,6 +11843,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 193847,
+      "num": 269599,
+      "word": "李佳琦开始学科目一",
+      "onboard_time": 1752062723,
+      "rank": 18,
+      "category": "美妆,网红"
+    },
+    {
       "raw_hot": 193787,
       "num": 193787,
       "word": "以法之名万潮",
@@ -11945,6 +12073,14 @@
       "onboard_time": 1751725643,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 191406,
+      "num": 265593,
+      "word": "胡塞武装公布魔法海洋号被击沉全程",
+      "onboard_time": 1752062482,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 191323,
@@ -13185,6 +13321,14 @@
       "onboard_time": 1751445024,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 176073,
+      "num": 176073,
+      "word": "厦门往返鼓浪屿轮渡在海上剧烈摇摆",
+      "onboard_time": 1752062001,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176051,
@@ -15084,7 +15228,7 @@
     },
     {
       "raw_hot": 158719,
-      "num": 158719,
+      "num": 176548,
       "word": "月薪过万但只买百元女装的年轻人",
       "onboard_time": 1752059782,
       "rank": 36,
@@ -15369,6 +15513,14 @@
       "onboard_time": 1751980524,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156242,
+      "num": 156242,
+      "word": "王鹤棣真空西装",
+      "onboard_time": 1752062243,
+      "rank": 32,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 156097,
@@ -17763,6 +17915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 138871,
+      "num": 138871,
+      "word": "伪人父母",
+      "onboard_time": 1752063743,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 138836,
       "num": 138836,
       "word": "减肥要吃够碳水才不易反弹",
@@ -17921,6 +18081,14 @@
       "onboard_time": 1751969424,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137729,
+      "num": 137729,
+      "word": "王大雷扑出亚马尔进球",
+      "onboard_time": 1752065484,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 137701,
@@ -18193,6 +18361,14 @@
       "onboard_time": 1751911396,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 135863,
+      "num": 135863,
+      "word": "肖战蝉联微博演员热度TOP1",
+      "onboard_time": 1752065004,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 135818,
@@ -18531,6 +18707,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 133844,
+      "num": 133844,
+      "word": "祝绪丹挑剧本的眼光",
+      "onboard_time": 1752063323,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133712,
       "num": 133712,
       "word": "全员加速中",
@@ -18739,6 +18923,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 132726,
+      "num": 132726,
+      "word": "男子偷拿老丈人500万拆迁款后失踪",
+      "onboard_time": 1752061402,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132682,
       "num": 132682,
       "word": "年轻一代文艺工作者全面担当主力",
@@ -18793,6 +18985,14 @@
       "onboard_time": 1751816184,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 132361,
+      "num": 132361,
+      "word": "保安开水浇车已道歉并赔偿350元",
+      "onboard_time": 1752065363,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132208,
@@ -19371,6 +19571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 129192,
+      "num": 129192,
+      "word": "韩国女足vs中国女足",
+      "onboard_time": 1752063384,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129186,
       "num": 129186,
       "word": "向佐金发透视装",
@@ -19441,6 +19649,14 @@
       "onboard_time": 1751627541,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128873,
+      "num": 128873,
+      "word": "目击者回应男子被吸入飞机引擎身亡",
+      "onboard_time": 1752062363,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 128870,
@@ -19868,7 +20084,7 @@
     },
     {
       "raw_hot": 126203,
-      "num": 711550,
+      "num": 875408,
       "word": "一图速览十四五经济社会发展成就",
       "onboard_time": 1752043824,
       "rank": 44,
@@ -21507,14 +21723,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 117793,
-      "num": 117793,
-      "word": "李一桐内娱第一个卡帧演员",
-      "onboard_time": 1752060864,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 117725,
       "num": 182520,
       "word": "姜红军boss直卖",
@@ -21963,6 +22171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115320,
+      "num": 115320,
+      "word": "杨少华一共有四个儿子",
+      "onboard_time": 1752065183,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115293,
       "num": 126147,
       "word": "辛云来跨界歌亡",
@@ -22185,6 +22401,14 @@
       "onboard_time": 1751428462,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 114029,
+      "num": 114029,
+      "word": "18岁男生当NPC救爷爷连跳60天未休",
+      "onboard_time": 1752065484,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113999,
@@ -22419,6 +22643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112764,
+      "num": 112764,
+      "word": "关晓彤又在说什么八卦",
+      "onboard_time": 1752061224,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112748,
       "num": 112748,
       "word": "夏目友人帐",
@@ -22649,6 +22881,14 @@
       "onboard_time": 1752047123,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111361,
+      "num": 111361,
+      "word": "就算是谢霆锋也要讲PPT",
+      "onboard_time": 1752062243,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 111301,
@@ -28299,6 +28539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 50855,
+      "num": 270009,
+      "word": "极氪实现混动技术重大突破",
+      "onboard_time": 1752062783,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 50341,
       "num": 120162,
       "word": "PUBGxaespa",
@@ -28721,6 +28969,14 @@
       "onboard_time": 1751940921,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 44539,
+      "num": 318078,
+      "word": "人民日报评公共场所标识复杂",
+      "onboard_time": 1752064283,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44504,
@@ -29448,6 +29704,14 @@
       "word": "21岁机车少年意外离世父亲发文悼念",
       "onboard_time": 1751746034,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34966,
+      "num": 268340,
+      "word": "女子应聘驾校工作被要求视频看腿",
+      "onboard_time": 1752064883,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
