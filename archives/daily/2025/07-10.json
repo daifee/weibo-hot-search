@@ -1,6 +1,6 @@
 {
   "startTime": 1752078814060,
-  "endTime": 1752078814060,
+  "endTime": 1752079867317,
   "band_list": [
     {
       "raw_hot": 1064633,
@@ -51,6 +51,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 380740,
+      "num": 380740,
+      "word": "官方通报公职人员肖某生活作风问题",
+      "onboard_time": 1752074603,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 364544,
       "num": 364544,
       "word": "有史以来最短一天",
@@ -83,14 +91,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 334246,
-      "num": 334246,
-      "word": "官方通报公职人员肖某生活作风问题",
-      "onboard_time": 1752074603,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 319091,
       "num": 319091,
       "word": "杨少华午休时安详辞世",
@@ -99,7 +99,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 309857,
+      "raw_hot": 318974,
       "num": 309857,
       "word": "田栩宁ccd",
       "onboard_time": 1752062962,
@@ -115,8 +115,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 262178,
-      "num": 262178,
+      "raw_hot": 279644,
+      "num": 279644,
+      "word": "公职人员被判缓刑仍领41万工资",
+      "onboard_time": 1752076162,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 265689,
+      "num": 265689,
       "word": "李一桐内娱第一个卡帧演员",
       "onboard_time": 1752060864,
       "rank": 15,
@@ -147,14 +155,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 197075,
-      "num": 197075,
-      "word": "公职人员被判缓刑仍领41万工资",
-      "onboard_time": 1752076162,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 183701,
       "num": 183701,
       "word": "翔霖",
@@ -179,8 +179,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 135313,
-      "num": 135313,
+      "raw_hot": 138087,
+      "num": 138087,
       "word": "王者荣耀回应玩家吐槽新赛季",
       "onboard_time": 1752068244,
       "rank": 24,
@@ -275,12 +275,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 93279,
-      "num": 93279,
+      "raw_hot": 93626,
+      "num": 93626,
       "word": "关晓彤减肥能管住嘴的原因",
       "onboard_time": 1752069205,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93567,
+      "num": 295219,
+      "word": "驻以使馆向以方提出严正交涉",
+      "onboard_time": 1752073345,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 92903,
@@ -323,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84414,
+      "num": 84414,
+      "word": "男子称在西湖景区穿汉服拍照遭驱赶",
+      "onboard_time": 1752078441,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84104,
       "num": 84104,
       "word": "Angelababy红绿撞色高级感",
@@ -337,14 +353,6 @@
       "onboard_time": 1752076102,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 82561,
-      "num": 82561,
-      "word": "男子称在西湖景区穿汉服拍照遭驱赶",
-      "onboard_time": 1752078441,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 79976,
@@ -385,6 +393,30 @@
       "onboard_time": 1752069865,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 70462,
+      "num": 70462,
+      "word": "若事与愿违请相信是另有安排",
+      "onboard_time": 1752077062,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 63028,
+      "num": 63028,
+      "word": "辛纳vs谢尔顿",
+      "onboard_time": 1752078980,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 35216,
+      "num": 70316,
+      "word": "韩国偶遇宁艺卓逛街",
+      "onboard_time": 1752069145,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 31517,

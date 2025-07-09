@@ -1,0 +1,410 @@
+{
+  "runTime": 1752079867317,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 924147,
+        "num": 924147,
+        "word": "以法之名 烂尾",
+        "onboard_time": 1752069865,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 693571,
+        "num": 693571,
+        "word": "中方向以色列提出严正交涉",
+        "onboard_time": 1752075682,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 25038,
+        "num": 658414,
+        "word": "这些成就举世瞩目",
+        "onboard_time": 1752073165,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 632294,
+        "num": 632294,
+        "word": "杨少华账号删除带货视频",
+        "onboard_time": 1752076762,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 514582,
+        "num": 514582,
+        "word": "父亲欠下百万希望女儿能帮忙还债",
+        "onboard_time": 1752075083,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 435344,
+        "num": 435344,
+        "word": "男子理发店充430万做灌肠后遭退费难",
+        "onboard_time": 1752068424,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380740,
+        "num": 380740,
+        "word": "官方通报公职人员肖某生活作风问题",
+        "onboard_time": 1752074603,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300888,
+        "num": 300888,
+        "word": "小英自曝大女儿感染幽门螺旋杆菌",
+        "onboard_time": 1752068363,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 296443,
+        "num": 296443,
+        "word": "有史以来最短一天",
+        "onboard_time": 1752063323,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93567,
+        "num": 295219,
+        "word": "驻以使馆向以方提出严正交涉",
+        "onboard_time": 1752073345,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 318974,
+        "num": 295219,
+        "word": "田栩宁ccd",
+        "onboard_time": 1752062962,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295208,
+        "num": 295208,
+        "word": "秦峰死了",
+        "onboard_time": 1752072685,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279644,
+        "num": 279644,
+        "word": "公职人员被判缓刑仍领41万工资",
+        "onboard_time": 1752076162,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280203,
+        "num": 279038,
+        "word": "以法之名",
+        "onboard_time": 1752062122,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274306,
+        "num": 274306,
+        "word": "Angelababy 港风还得港女来",
+        "onboard_time": 1752061463,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265689,
+        "num": 265689,
+        "word": "李一桐内娱第一个卡帧演员",
+        "onboard_time": 1752060864,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247027,
+        "num": 247027,
+        "word": "杨少华午休时安详辞世",
+        "onboard_time": 1752074243,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220323,
+        "num": 220323,
+        "word": "郑州一公园殴打他人事件已抓获17人",
+        "onboard_time": 1752073284,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168806,
+        "num": 168806,
+        "word": "男子曝妻子和公职人员多次开房",
+        "onboard_time": 1752068485,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142047,
+        "num": 142047,
+        "word": "男子开车瞬间被臭晕倒地不起",
+        "onboard_time": 1752070344,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179260,
+        "num": 140179,
+        "word": "王晶曝成龙被粉丝扇耳光",
+        "onboard_time": 1752067405,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138087,
+        "num": 138087,
+        "word": "王者荣耀回应玩家吐槽新赛季",
+        "onboard_time": 1752068244,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124569,
+        "num": 124569,
+        "word": "考编成绩断崖式领先牵出跨省作弊案",
+        "onboard_time": 1752057383,
+        "rank": 22,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 118033,
+        "num": 118033,
+        "word": "甲亢哥欧洲行用中文对粉丝喊冷静",
+        "onboard_time": 1752069744,
+        "rank": 23,
+        "category": "海外新闻,网红"
+      },
+      {
+        "raw_hot": 117989,
+        "num": 117989,
+        "word": "1分钟教你摸脉判断月经来了没",
+        "onboard_time": 1752061822,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 116145,
+        "num": 116145,
+        "word": "翔霖",
+        "onboard_time": 1752071964,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108676,
+        "num": 108676,
+        "word": "梓渝和弟弟有一样的痣",
+        "onboard_time": 1752067764,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108380,
+        "num": 108380,
+        "word": "以法之名 傅东育",
+        "onboard_time": 1752072744,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97744,
+        "num": 97744,
+        "word": "王鹤棣LV晚宴路透",
+        "onboard_time": 1752075444,
+        "rank": 28,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 68416,
+        "num": 94989,
+        "word": "横店剧组人员称没领过高温补贴",
+        "onboard_time": 1752076942,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94649,
+        "num": 94649,
+        "word": "穷小孩的人生是从30岁开始的",
+        "onboard_time": 1752068664,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93626,
+        "num": 93626,
+        "word": "关晓彤减肥能管住嘴的原因",
+        "onboard_time": 1752069205,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89100,
+        "num": 89100,
+        "word": "官方通报干部出轨他人妻子还打人",
+        "onboard_time": 1752075143,
+        "rank": 32,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 84633,
+        "num": 84633,
+        "word": "黄子韬徐艺洋 生理性喜欢",
+        "onboard_time": 1752049703,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84414,
+        "num": 84414,
+        "word": "男子称在西湖景区穿汉服拍照遭驱赶",
+        "onboard_time": 1752078441,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83944,
+        "num": 83944,
+        "word": "报道猥亵女生的男子时该不该打码",
+        "onboard_time": 1752073824,
+        "rank": 35,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 82590,
+        "num": 82590,
+        "word": "戴燕妮真魅魔",
+        "onboard_time": 1752075083,
+        "rank": 36,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 73361,
+        "num": 73361,
+        "word": "杨超越硬照这块就没输过",
+        "onboard_time": 1752074723,
+        "rank": 37,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 71661,
+        "num": 71661,
+        "word": "以法之名超点",
+        "onboard_time": 1752056904,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70462,
+        "num": 70462,
+        "word": "若事与愿违请相信是另有安排",
+        "onboard_time": 1752077062,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 35216,
+        "num": 70316,
+        "word": "韩国偶遇宁艺卓逛街",
+        "onboard_time": 1752069145,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70236,
+        "num": 70236,
+        "word": "贺峻霖 法修散打",
+        "onboard_time": 1752073703,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68568,
+        "num": 68568,
+        "word": "时团直播主持不是杨若天",
+        "onboard_time": 1752065663,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66632,
+        "num": 66632,
+        "word": "刘宇宁爱奇艺站内角色热度断层",
+        "onboard_time": 1752077122,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65334,
+        "num": 65334,
+        "word": "歌手第三轮袭榜赛",
+        "onboard_time": 1752076583,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63594,
+        "num": 63594,
+        "word": "刘耀文锐评广东凉茶",
+        "onboard_time": 1752077482,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63028,
+        "num": 63028,
+        "word": "辛纳vs谢尔顿",
+        "onboard_time": 1752078980,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62338,
+        "num": 62338,
+        "word": "曾舜晞请剧组吃火锅",
+        "onboard_time": 1752072325,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61842,
+        "num": 61842,
+        "word": "Angelababy红绿撞色高级感",
+        "onboard_time": 1752073584,
+        "rank": 48,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 59720,
+        "num": 61842,
+        "word": "乒乓球旋转等级具象化了",
+        "onboard_time": 1752076102,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记赴山西考察纪实#"
+    }
+  }
+}
