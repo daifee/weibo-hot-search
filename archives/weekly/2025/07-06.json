@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1752054305227,
+  "endTime": 1752057019221,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -87,6 +87,14 @@
       "num": 3397807,
       "word": "金世佳你身份证掉了",
       "onboard_time": 1751789540,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3357370,
+      "num": 3357370,
+      "word": "杨少华去世",
+      "onboard_time": 1752055762,
       "rank": 0,
       "category": "艺人"
     },
@@ -939,6 +947,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 813756,
+      "num": 420600,
+      "word": "黄子韬徐艺洋 生理性喜欢",
+      "onboard_time": 1752049703,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 810118,
       "num": 810118,
       "word": "周先旺被查",
@@ -1371,6 +1387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 631684,
+      "num": 631684,
+      "word": "自曝怀孕摆烂没上班女子已销号",
+      "onboard_time": 1752051742,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 630622,
       "num": 630622,
       "word": "罗马仕退款排到17万位",
@@ -1465,6 +1489,22 @@
       "onboard_time": 1751884701,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 602520,
+      "num": 602520,
+      "word": "内娱撕拉片四大TOP",
+      "onboard_time": 1752050784,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 602102,
+      "num": 602102,
+      "word": "方圆脸最适合的发型",
+      "onboard_time": 1752051143,
+      "rank": 15,
+      "category": "美妆"
     },
     {
       "raw_hot": 599379,
@@ -1625,14 +1665,6 @@
       "onboard_time": 1751772984,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 541121,
-      "num": 541121,
-      "word": "内娱撕拉片四大TOP",
-      "onboard_time": 1752050784,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 540980,
@@ -2075,14 +2107,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 420600,
-      "num": 420600,
-      "word": "黄子韬徐艺洋 生理性喜欢",
-      "onboard_time": 1752049703,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 419904,
       "num": 430623,
       "word": "王楚钦3比1高承睿",
@@ -2387,14 +2411,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 367257,
-      "num": 367257,
-      "word": "方圆脸最适合的发型",
-      "onboard_time": 1752051143,
-      "rank": 15,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 367085,
       "num": 367085,
       "word": "鸟鸟是脱友2内容总导演",
@@ -2528,6 +2544,14 @@
       "word": "幼童躺街上遭货车碾压知情人发声",
       "onboard_time": 1751893282,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 345016,
+      "num": 345016,
+      "word": "拒绝填报清华北大遭怒骂",
+      "onboard_time": 1752050722,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -3145,14 +3169,6 @@
       "onboard_time": 1751866283,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 276973,
-      "num": 289613,
-      "word": "自曝怀孕摆烂没上班女子已销号",
-      "onboard_time": 1752051742,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 274617,
@@ -4107,14 +4123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 222215,
-      "num": 222215,
-      "word": "拒绝填报清华北大遭怒骂",
-      "onboard_time": 1752050722,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 222105,
       "num": 222105,
       "word": "王楚钦vs高承睿",
@@ -4201,6 +4209,14 @@
       "onboard_time": 1751973563,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214215,
+      "num": 347095,
+      "word": "中方回应美将限制中国公民在美买农田",
+      "onboard_time": 1752055223,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 214159,
@@ -5331,6 +5347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 181785,
+      "num": 181785,
+      "word": "溢价买的labubu开线被拒绝售后",
+      "onboard_time": 1752052523,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181433,
       "num": 232129,
       "word": "关晓彤闭眼笑颜",
@@ -5563,6 +5587,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 175362,
+      "num": 175362,
+      "word": "巴黎世家大秀",
+      "onboard_time": 1752056542,
+      "rank": 25,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 175345,
       "num": 220948,
       "word": "毛不易火速拦截了粉丝的建议",
@@ -5793,14 +5825,6 @@
       "onboard_time": 1751968942,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 171214,
-      "num": 171214,
-      "word": "溢价买的labubu开线被拒绝售后",
-      "onboard_time": 1752052523,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 171016,
@@ -6291,6 +6315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159642,
+      "num": 225420,
+      "word": "谭松韵董晴耿耿和贝塔最好的售后",
+      "onboard_time": 1752056363,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159152,
       "num": 300595,
       "word": "血铅异常幼儿异地血检数据升十多倍",
@@ -6313,6 +6345,14 @@
       "onboard_time": 1752051682,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158924,
+      "num": 158924,
+      "word": "女校长涉嫌诈骗数千万后跳江身亡",
+      "onboard_time": 1752055342,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158532,
@@ -6385,6 +6425,14 @@
       "onboard_time": 1751775142,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157613,
+      "num": 157613,
+      "word": "国办印发通知激励企业扩岗吸纳就业",
+      "onboard_time": 1752055103,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 157577,
@@ -6715,6 +6763,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 150845,
+      "num": 150845,
+      "word": "第五人格",
+      "onboard_time": 1752056484,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 150753,
       "num": 201367,
       "word": "F1",
@@ -6849,6 +6905,14 @@
       "onboard_time": 1751979625,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148358,
+      "num": 326767,
+      "word": "吃知味观小笼包疑发现动物粪球",
+      "onboard_time": 1752055282,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 148334,
@@ -7211,6 +7275,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 142873,
+      "num": 142873,
+      "word": "浪姐6团综录制路透",
+      "onboard_time": 1752056244,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142724,
       "num": 142724,
       "word": "谁家男女主接吻地都是心形",
@@ -7320,6 +7392,14 @@
       "word": "金毛李墩墩主人为疏忽致歉",
       "onboard_time": 1751891183,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140999,
+      "num": 140999,
+      "word": "自曝孕早期摆烂女子系紧缺人才身份入编",
+      "onboard_time": 1752055702,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -8203,6 +8283,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 128552,
+      "num": 128552,
+      "word": "李佳薇回应热搜爆了",
+      "onboard_time": 1752054024,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 128303,
+      "num": 128303,
+      "word": "以法之名超点",
+      "onboard_time": 1752056904,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128244,
       "num": 128244,
       "word": "南珩哞地亲上了宋一梦",
@@ -8217,6 +8313,14 @@
       "onboard_time": 1751780062,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128065,
+      "num": 276314,
+      "word": "网友自称县文旅局工作孕期请假数月",
+      "onboard_time": 1752053782,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127896,
@@ -8396,7 +8500,7 @@
     },
     {
       "raw_hot": 126203,
-      "num": 654016,
+      "num": 711550,
       "word": "一图速览十四五经济社会发展成就",
       "onboard_time": 1752043824,
       "rank": 44,
@@ -8652,11 +8756,19 @@
     },
     {
       "raw_hot": 123300,
-      "num": 123300,
+      "num": 139594,
       "word": "刘品言连晨翔领证",
       "onboard_time": 1752046942,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123282,
+      "num": 123282,
+      "word": "F1红牛车队官宣解雇领队霍纳",
+      "onboard_time": 1752054682,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 123168,
@@ -10139,6 +10251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104381,
+      "num": 323557,
+      "word": "MagicV5一句话生成PPT",
+      "onboard_time": 1752055463,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 104210,
       "num": 170307,
       "word": "周杰伦厦门演唱会500元只能看大屏",
@@ -10689,14 +10809,6 @@
       "onboard_time": 1752053422,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 96721,
-      "num": 96721,
-      "word": "李佳薇回应热搜爆了",
-      "onboard_time": 1752054024,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 96561,
@@ -11483,14 +11595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 73998,
-      "num": 276314,
-      "word": "网友自称县文旅局工作孕期请假数月",
-      "onboard_time": 1752053782,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 72531,
       "num": 138279,
       "word": "明日方舟",
@@ -11873,6 +11977,22 @@
       "onboard_time": 1751877681,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62829,
+      "num": 298028,
+      "word": "最高法亮明态度烂尾房可退房退款",
+      "onboard_time": 1752056484,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62177,
+      "num": 313173,
+      "word": "以法之名最有价值镜头",
+      "onboard_time": 1752056244,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 61743,
@@ -12891,6 +13011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28390,
+      "num": 139631,
+      "word": "摸了无期迷途骑士组",
+      "onboard_time": 1752056783,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 28291,
       "num": 412696,
       "word": "5098张抗战老照片拼成一面墙",
@@ -13329,6 +13457,14 @@
       "onboard_time": 1751910556,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 15228,
+      "num": 309854,
+      "word": "酒后开启智驾也是酒驾",
+      "onboard_time": 1752056484,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14958,
