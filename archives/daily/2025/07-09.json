@@ -1,6 +1,6 @@
 {
   "startTime": 1751992486281,
-  "endTime": 1752071235458,
+  "endTime": 1752072353407,
   "band_list": [
     {
       "raw_hot": 3968193,
@@ -9,6 +9,14 @@
       "onboard_time": 1752055762,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2241452,
+      "num": 2241452,
+      "word": "以法之名 烂尾",
+      "onboard_time": 1752069865,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 2110615,
@@ -49,6 +57,14 @@
       "onboard_time": 1752050784,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1577676,
+      "num": 1577676,
+      "word": "男子理发店充430万做灌肠后遭退费难",
+      "onboard_time": 1752068424,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1548597,
@@ -105,14 +121,6 @@
       "onboard_time": 1752028402,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1394769,
-      "num": 1394769,
-      "word": "男子理发店充430万做灌肠后遭退费难",
-      "onboard_time": 1752068424,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1320179,
@@ -177,14 +185,6 @@
       "onboard_time": 1752032725,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1126766,
-      "num": 1126766,
-      "word": "以法之名 烂尾",
-      "onboard_time": 1752069865,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 1031777,
@@ -267,6 +267,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 767360,
+      "num": 767360,
+      "word": "男子开车瞬间被臭晕倒地不起",
+      "onboard_time": 1752070344,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 764227,
       "num": 262559,
       "word": "孙颖莎0比1高达",
@@ -315,6 +323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 723015,
+      "num": 723015,
+      "word": "男子曝妻子和公职人员多次开房",
+      "onboard_time": 1752068485,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 720265,
       "num": 720265,
       "word": "大学生饮料开封后喝3天现细菌感染",
@@ -336,14 +352,6 @@
       "word": "深圳假名媛被判13年",
       "onboard_time": 1752036804,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 697250,
-      "num": 697250,
-      "word": "男子曝妻子和公职人员多次开房",
-      "onboard_time": 1752068485,
-      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -659,14 +667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 379714,
-      "num": 379714,
-      "word": "男子开车瞬间被臭晕倒地不起",
-      "onboard_time": 1752070344,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 379555,
       "num": 694679,
       "word": "赵本山女儿球球抑郁症复发",
@@ -681,6 +681,14 @@
       "onboard_time": 1752051203,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 378562,
+      "num": 518260,
+      "word": "甲亢哥欧洲行用中文对粉丝喊冷静",
+      "onboard_time": 1752069744,
+      "rank": 18,
+      "category": "海外新闻,网红"
     },
     {
       "raw_hot": 377293,
@@ -923,14 +931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 278041,
-      "num": 278041,
-      "word": "甲亢哥欧洲行用中文对粉丝喊冷静",
-      "onboard_time": 1752069744,
-      "rank": 18,
-      "category": "海外新闻,网红"
-    },
-    {
       "raw_hot": 271736,
       "num": 271736,
       "word": "Angelababy粤语自我介绍",
@@ -1075,6 +1075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 235442,
+      "num": 235442,
+      "word": "小英自曝大女儿感染幽门螺旋杆菌",
+      "onboard_time": 1752068363,
+      "rank": 25,
+      "category": "网红"
+    },
+    {
       "raw_hot": 235036,
       "num": 235036,
       "word": "时代少年团直播",
@@ -1105,14 +1113,6 @@
       "onboard_time": 1752056363,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 225847,
-      "num": 225847,
-      "word": "小英自曝大女儿感染幽门螺旋杆菌",
-      "onboard_time": 1752068363,
-      "rank": 25,
-      "category": "网红"
     },
     {
       "raw_hot": 225179,
@@ -1307,6 +1307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194915,
+      "num": 194915,
+      "word": "翔霖",
+      "onboard_time": 1752071964,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194740,
       "num": 194740,
       "word": "张子枫你哥叫你注意balance",
@@ -1337,6 +1345,14 @@
       "onboard_time": 1752066684,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189890,
+      "num": 189890,
+      "word": "卢卡岁岁平安",
+      "onboard_time": 1752071905,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 189774,
@@ -1427,6 +1443,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 185218,
+      "num": 185218,
+      "word": "刘耀文卷毛狗狗眼",
+      "onboard_time": 1752071125,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184687,
       "num": 184687,
       "word": "关晓彤减肥能管住嘴的原因",
@@ -1457,6 +1481,14 @@
       "onboard_time": 1752043940,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182445,
+      "num": 182445,
+      "word": "不要关注太多情侣博主",
+      "onboard_time": 1752069865,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 182051,
@@ -1515,6 +1547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176830,
+      "num": 176830,
+      "word": "父母离婚后初三男生频繁尿床",
+      "onboard_time": 1752068964,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176073,
       "num": 374715,
       "word": "厦门往返鼓浪屿轮渡在海上剧烈摇摆",
@@ -1545,14 +1585,6 @@
       "onboard_time": 1752052703,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 172777,
-      "num": 172777,
-      "word": "父母离婚后初三男生频繁尿床",
-      "onboard_time": 1752068964,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 171955,
@@ -1619,12 +1651,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 169839,
-      "num": 169839,
-      "word": "不要关注太多情侣博主",
-      "onboard_time": 1752069865,
-      "rank": 36,
-      "category": "幽默"
+      "raw_hot": 168986,
+      "num": 168986,
+      "word": "李现这是我能看的吗",
+      "onboard_time": 1752070284,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 168942,
+      "num": 173879,
+      "word": "韩国偶遇宁艺卓逛街",
+      "onboard_time": 1752069145,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 168550,
@@ -1667,6 +1707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165467,
+      "num": 165467,
+      "word": "王者荣耀回应玩家吐槽新赛季",
+      "onboard_time": 1752068244,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 164938,
       "num": 164938,
       "word": "陈柏霖回应婚讯",
@@ -1691,12 +1739,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 162816,
-      "num": 162816,
-      "word": "李现这是我能看的吗",
-      "onboard_time": 1752070284,
-      "rank": 38,
-      "category": "剧集"
+      "raw_hot": 162490,
+      "num": 162490,
+      "word": "英伟达市值突破4万亿美元关口",
+      "onboard_time": 1752071964,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 162303,
@@ -1811,14 +1859,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 155572,
-      "num": 162398,
-      "word": "王者荣耀回应玩家吐槽新赛季",
-      "onboard_time": 1752068244,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 155207,
       "num": 155207,
       "word": "伪人父母",
@@ -1859,6 +1899,14 @@
       "category": "艺人,财经"
     },
     {
+      "raw_hot": 152877,
+      "num": 152877,
+      "word": "曾舜晞请剧组吃火锅",
+      "onboard_time": 1752072325,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152516,
       "num": 152516,
       "word": "美国媒体开始关注中国生活成本",
@@ -1873,6 +1921,14 @@
       "onboard_time": 1751986891,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 151463,
+      "num": 151462,
+      "word": "小伙一天打卡8个景点后耳朵聋了",
+      "onboard_time": 1752071605,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150845,
@@ -1900,7 +1956,7 @@
     },
     {
       "raw_hot": 148774,
-      "num": 148774,
+      "num": 151648,
       "word": "900V对电混来说意味着什么",
       "onboard_time": 1752070044,
       "rank": 44,
@@ -1963,14 +2019,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 144622,
-      "num": 144622,
-      "word": "刘耀文卷毛狗狗眼",
-      "onboard_time": 1752071125,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 142873,
       "num": 142873,
       "word": "浪姐6团综录制路透",
@@ -2017,6 +2065,14 @@
       "onboard_time": 1751992823,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141276,
+      "num": 141276,
+      "word": "杨烁回应万海死了",
+      "onboard_time": 1752072085,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 140999,
@@ -2539,14 +2595,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 117559,
-      "num": 173879,
-      "word": "韩国偶遇宁艺卓逛街",
-      "onboard_time": 1752069145,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 117555,
       "num": 117555,
       "word": "原神莱茵多特",
@@ -2848,6 +2896,14 @@
       "word": "大国粮仓的科技范儿",
       "onboard_time": 1752034164,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100483,
+      "num": 270925,
+      "word": "因拆迁索1.4万过渡费被捕新进展",
+      "onboard_time": 1752070885,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -3387,14 +3443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 41009,
-      "num": 270925,
-      "word": "因拆迁索1.4万过渡费被捕新进展",
-      "onboard_time": 1752070885,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40480,
       "num": 203362,
       "word": "想一辈子享受小学门口物价",
@@ -3648,6 +3696,14 @@
       "word": "孩子们要争做民族的脊梁",
       "onboard_time": 1752003074,
       "rank": 11,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 7559,
+      "num": 1410751,
+      "word": "话尼山之美",
+      "onboard_time": 1752072204,
+      "rank": 2,
       "category": "国内时政"
     }
   ],

@@ -1,0 +1,410 @@
+{
+  "runTime": 1752072353407,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2241452,
+        "num": 2241452,
+        "word": "以法之名 烂尾",
+        "onboard_time": 1752069865,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1577676,
+        "num": 1577676,
+        "word": "男子理发店充430万做灌肠后遭退费难",
+        "onboard_time": 1752068424,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7559,
+        "num": 1410751,
+        "word": "话尼山之美",
+        "onboard_time": 1752072204,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1393731,
+        "num": 1393731,
+        "word": "7月9日将成有史以来最短一天",
+        "onboard_time": 1752063323,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1265869,
+        "num": 1265869,
+        "word": "王晶曝成龙被粉丝扇耳光",
+        "onboard_time": 1752067405,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 767360,
+        "num": 767360,
+        "word": "男子开车瞬间被臭晕倒地不起",
+        "onboard_time": 1752070344,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 903033,
+        "num": 746469,
+        "word": "杨少华去世",
+        "onboard_time": 1752055762,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 723015,
+        "num": 723015,
+        "word": "男子曝妻子和公职人员多次开房",
+        "onboard_time": 1752068485,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 645276,
+        "num": 645276,
+        "word": "Angelababy 港风还得港女来",
+        "onboard_time": 1752061463,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378562,
+        "num": 518260,
+        "word": "甲亢哥欧洲行用中文对粉丝喊冷静",
+        "onboard_time": 1752069744,
+        "rank": 9,
+        "category": "海外新闻,网红"
+      },
+      {
+        "raw_hot": 726343,
+        "num": 516685,
+        "word": "田栩宁ccd",
+        "onboard_time": 1752062962,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 494428,
+        "num": 494428,
+        "word": "万海死在了最接近真相的那天",
+        "onboard_time": 1752063803,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 441453,
+        "num": 441453,
+        "word": "左氧氟沙星 跟腱断裂",
+        "onboard_time": 1752047661,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 428616,
+        "num": 428616,
+        "word": "穷小孩的人生是从30岁开始的",
+        "onboard_time": 1752068664,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 398539,
+        "num": 398539,
+        "word": "时团直播主持不是杨若天",
+        "onboard_time": 1752065663,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368222,
+        "num": 368222,
+        "word": "梓渝和弟弟有一样的痣",
+        "onboard_time": 1752067764,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25449,
+        "num": 355918,
+        "word": "一图速览十四五经济社会发展成就",
+        "onboard_time": 1752043824,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 355887,
+        "num": 355887,
+        "word": "考编成绩断崖式领先牵出跨省作弊案",
+        "onboard_time": 1752057383,
+        "rank": 17,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 352312,
+        "num": 352312,
+        "word": "以法之名",
+        "onboard_time": 1752062122,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276416,
+        "num": 276416,
+        "word": "1分钟教你摸脉判断月经来了没",
+        "onboard_time": 1752061822,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 301898,
+        "num": 274266,
+        "word": "万海死了",
+        "onboard_time": 1752064463,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300042,
+        "num": 267909,
+        "word": "黄子韬徐艺洋 生理性喜欢",
+        "onboard_time": 1752049703,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256070,
+        "num": 256070,
+        "word": "杨少华儿子",
+        "onboard_time": 1752067884,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235442,
+        "num": 235442,
+        "word": "小英自曝大女儿感染幽门螺旋杆菌",
+        "onboard_time": 1752068363,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 212298,
+        "num": 212298,
+        "word": "李一桐内娱第一个卡帧演员",
+        "onboard_time": 1752060864,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194915,
+        "num": 194915,
+        "word": "翔霖",
+        "onboard_time": 1752071964,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190938,
+        "num": 190938,
+        "word": "刘宇宁谈如何活出松弛感",
+        "onboard_time": 1752064523,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189890,
+        "num": 189890,
+        "word": "卢卡岁岁平安",
+        "onboard_time": 1752071905,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 185218,
+        "num": 185218,
+        "word": "刘耀文卷毛狗狗眼",
+        "onboard_time": 1752071125,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182445,
+        "num": 182445,
+        "word": "不要关注太多情侣博主",
+        "onboard_time": 1752069865,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182542,
+        "num": 182303,
+        "word": "关晓彤减肥能管住嘴的原因",
+        "onboard_time": 1752069205,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176830,
+        "num": 176830,
+        "word": "父母离婚后初三男生频繁尿床",
+        "onboard_time": 1752068964,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168986,
+        "num": 168986,
+        "word": "李现这是我能看的吗",
+        "onboard_time": 1752070284,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168942,
+        "num": 168942,
+        "word": "韩国偶遇宁艺卓逛街",
+        "onboard_time": 1752069145,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168790,
+        "num": 168790,
+        "word": "网传肖战无缝进组小城良方",
+        "onboard_time": 1752069205,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166375,
+        "num": 166375,
+        "word": "梓渝小时候军训照",
+        "onboard_time": 1752068664,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165467,
+        "num": 165467,
+        "word": "王者荣耀回应玩家吐槽新赛季",
+        "onboard_time": 1752068244,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162490,
+        "num": 162490,
+        "word": "英伟达市值突破4万亿美元关口",
+        "onboard_time": 1752071964,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 158729,
+        "num": 158729,
+        "word": "刘雯蓝色礼服",
+        "onboard_time": 1752069445,
+        "rank": 38,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 156131,
+        "num": 156131,
+        "word": "Angelababy鱼嘴恨天高",
+        "onboard_time": 1752066684,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 152877,
+        "num": 152877,
+        "word": "曾舜晞请剧组吃火锅",
+        "onboard_time": 1752072325,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151918,
+        "num": 151918,
+        "word": "以法之名超点",
+        "onboard_time": 1752056904,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91542,
+        "num": 151648,
+        "word": "900V对电混来说意味着什么",
+        "onboard_time": 1752070044,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 100483,
+        "num": 151463,
+        "word": "因拆迁索1.4万过渡费被捕新进展",
+        "onboard_time": 1752070885,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151463,
+        "num": 151462,
+        "word": "小伙一天打卡8个景点后耳朵聋了",
+        "onboard_time": 1752071605,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145708,
+        "num": 145708,
+        "word": "租客自杀不到一月房子再次出租",
+        "onboard_time": 1752059603,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143756,
+        "num": 143756,
+        "word": "李佳琦开始学科目一",
+        "onboard_time": 1752062723,
+        "rank": 46,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 141276,
+        "num": 141276,
+        "word": "杨烁回应万海死了",
+        "onboard_time": 1752072085,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138672,
+        "num": 138672,
+        "word": "推荐减脂期吃的黄金主食",
+        "onboard_time": 1752067944,
+        "rank": 48,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 126658,
+        "num": 126658,
+        "word": "温网",
+        "onboard_time": 1752070164,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记重温抗战烽火岁月#"
+    }
+  }
+}
