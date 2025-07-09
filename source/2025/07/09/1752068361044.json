@@ -1,0 +1,410 @@
+{
+  "runTime": 1752068361044,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1977160,
+        "num": 1977160,
+        "word": "7月9日将成有史以来最短一天",
+        "onboard_time": 1752063323,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1271946,
+        "num": 1271946,
+        "word": "万海死在了最接近真相的那天",
+        "onboard_time": 1752063803,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21506,
+        "num": 842768,
+        "word": "一图速览十四五经济社会发展成就",
+        "onboard_time": 1752043824,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1671151,
+        "num": 790970,
+        "word": "杨少华去世",
+        "onboard_time": 1752055762,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 626948,
+        "num": 626948,
+        "word": "1分钟教你摸脉判断月经来了没",
+        "onboard_time": 1752061822,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 497715,
+        "num": 497715,
+        "word": "考编成绩断崖式领先牵出跨省作弊案",
+        "onboard_time": 1752057383,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 928077,
+        "num": 473759,
+        "word": "万海死了",
+        "onboard_time": 1752064463,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 818858,
+        "num": 466068,
+        "word": "以法之名",
+        "onboard_time": 1752062122,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 449222,
+        "num": 449222,
+        "word": "左氧氟沙星 跟腱断裂",
+        "onboard_time": 1752047661,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 400850,
+        "num": 400850,
+        "word": "租客自杀不到一月房子再次出租",
+        "onboard_time": 1752059603,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1371028,
+        "num": 399854,
+        "word": "田栩宁ccd",
+        "onboard_time": 1752062962,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 554245,
+        "num": 397265,
+        "word": "Angelababy 港风还得港女来",
+        "onboard_time": 1752061463,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 546039,
+        "num": 393150,
+        "word": "时团直播主持不是杨若天",
+        "onboard_time": 1752065663,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428094,
+        "num": 389404,
+        "word": "以法之名大结局",
+        "onboard_time": 1752062843,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 388000,
+        "num": 388000,
+        "word": "李佳琦开始学科目一",
+        "onboard_time": 1752062723,
+        "rank": 14,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 121237,
+        "num": 300187,
+        "word": "月薪过万但只买百元女装的年轻人",
+        "onboard_time": 1752059782,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 416594,
+        "num": 286716,
+        "word": "杨少华儿子",
+        "onboard_time": 1752067884,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263399,
+        "num": 263399,
+        "word": "梓渝和弟弟有一样的痣",
+        "onboard_time": 1752067764,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258287,
+        "num": 258287,
+        "word": "博主曝怀化一山间焚烧垃圾触目惊心",
+        "onboard_time": 1752066083,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 225530,
+        "num": 225530,
+        "word": "保安开水浇车已道歉并赔偿350元",
+        "onboard_time": 1752065363,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383578,
+        "num": 221913,
+        "word": "黄子韬徐艺洋 生理性喜欢",
+        "onboard_time": 1752049703,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229964,
+        "num": 217962,
+        "word": "胡塞武装公布魔法海洋号被击沉全程",
+        "onboard_time": 1752062482,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 373977,
+        "num": 216386,
+        "word": "王晶曝成龙被粉丝扇耳光",
+        "onboard_time": 1752067405,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213180,
+        "num": 213180,
+        "word": "王大雷扑出亚马尔进球",
+        "onboard_time": 1752065484,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228132,
+        "num": 211432,
+        "word": "刘宇宁谈如何活出松弛感",
+        "onboard_time": 1752064523,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206889,
+        "num": 206889,
+        "word": "李一桐内娱第一个卡帧演员",
+        "onboard_time": 1752060864,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193017,
+        "num": 193017,
+        "word": "冯建宇直播",
+        "onboard_time": 1752064703,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191941,
+        "num": 191941,
+        "word": "以法之名编剧",
+        "onboard_time": 1752066684,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179172,
+        "num": 179172,
+        "word": "Angelababy鱼嘴恨天高",
+        "onboard_time": 1752066684,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 156238,
+        "num": 178740,
+        "word": "推荐减脂期吃的黄金主食",
+        "onboard_time": 1752067944,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 178667,
+        "num": 178667,
+        "word": "素锦还是没放弃要别人器官",
+        "onboard_time": 1752066743,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177923,
+        "num": 177923,
+        "word": "郑雅萍审程子健杀人诛心",
+        "onboard_time": 1752068125,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175687,
+        "num": 175687,
+        "word": "女星自曝抗癌花费500万",
+        "onboard_time": 1752067285,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153678,
+        "num": 169538,
+        "word": "日本女足vs中国台北女足",
+        "onboard_time": 1752067405,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164713,
+        "num": 164713,
+        "word": "书卷一梦",
+        "onboard_time": 1752067583,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155958,
+        "num": 155958,
+        "word": "时代少年团上海",
+        "onboard_time": 1752062243,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141712,
+        "num": 141712,
+        "word": "书卷一梦用机制打败机制",
+        "onboard_time": 1752067285,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140802,
+        "num": 140802,
+        "word": "伪人父母",
+        "onboard_time": 1752063743,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132169,
+        "num": 132169,
+        "word": "女校长诈骗5000万花3000万游戏充值",
+        "onboard_time": 1752066083,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130263,
+        "num": 130263,
+        "word": "18岁男生当NPC救爷爷连跳60天未休",
+        "onboard_time": 1752065484,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131893,
+        "num": 129874,
+        "word": "正当防卫3集3个案子",
+        "onboard_time": 1752068065,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129403,
+        "num": 129403,
+        "word": "Angelababy 妈妈级别",
+        "onboard_time": 1752063982,
+        "rank": 41,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 129213,
+        "num": 129213,
+        "word": "内娱撕拉片四大TOP",
+        "onboard_time": 1752050784,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128053,
+        "num": 128053,
+        "word": "王鹤棣真空西装",
+        "onboard_time": 1752062243,
+        "rank": 43,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 115348,
+        "num": 115348,
+        "word": "男子3巴掌扇掉电梯门被判刑",
+        "onboard_time": 1752057803,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175337,
+        "num": 114872,
+        "word": "以法之名超点",
+        "onboard_time": 1752056904,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113866,
+        "num": 113866,
+        "word": "王者荣耀回应玩家吐槽新赛季",
+        "onboard_time": 1752068244,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113652,
+        "num": 113652,
+        "word": "再婚男给前妻儿子转300万被起诉",
+        "onboard_time": 1752057444,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111925,
+        "num": 111925,
+        "word": "朱易短节目",
+        "onboard_time": 1752068183,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111256,
+        "num": 111256,
+        "word": "韩国女足vs中国女足",
+        "onboard_time": 1752063384,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记重温抗战烽火岁月#"
+    }
+  }
+}

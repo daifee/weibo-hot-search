@@ -1,6 +1,6 @@
 {
   "startTime": 1751992486281,
-  "endTime": 1752066602224,
+  "endTime": 1752068361044,
   "band_list": [
     {
       "raw_hot": 3968193,
@@ -19,8 +19,8 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 1863370,
-      "num": 1863370,
+      "raw_hot": 1977160,
+      "num": 1977160,
       "word": "7月9日将成有史以来最短一天",
       "onboard_time": 1752063323,
       "rank": 0,
@@ -123,6 +123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1271946,
+      "num": 1271946,
+      "word": "万海死在了最接近真相的那天",
+      "onboard_time": 1752063803,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1263581,
       "num": 1263581,
       "word": "登机只需提前15分钟了",
@@ -177,14 +185,6 @@
       "onboard_time": 1752028221,
       "rank": 11,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 894486,
-      "num": 555765,
-      "word": "万海死在了最接近真相的那天",
-      "onboard_time": 1752063803,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 850787,
@@ -315,6 +315,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 626948,
+      "num": 626948,
+      "word": "1分钟教你摸脉判断月经来了没",
+      "onboard_time": 1752061822,
+      "rank": 8,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 618399,
       "num": 618399,
       "word": "音乐节 离婚登记",
@@ -395,6 +403,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 554245,
+      "num": 397265,
+      "word": "Angelababy 港风还得港女来",
+      "onboard_time": 1752061463,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 546039,
+      "num": 393150,
+      "word": "时团直播主持不是杨若天",
+      "onboard_time": 1752065663,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 540980,
       "num": 540980,
       "word": "怀孕女子称老公为市里副处不实",
@@ -443,14 +467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 517049,
-      "num": 517049,
-      "word": "1分钟教你摸脉判断月经来了没",
-      "onboard_time": 1752061822,
-      "rank": 8,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 509514,
       "num": 509514,
       "word": "中国人均预期寿命79岁",
@@ -491,12 +507,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 448097,
-      "num": 348671,
-      "word": "Angelababy 港风还得港女来",
-      "onboard_time": 1752061463,
-      "rank": 13,
-      "category": "艺人"
+      "raw_hot": 449222,
+      "num": 449222,
+      "word": "左氧氟沙星 跟腱断裂",
+      "onboard_time": 1752047661,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 445015,
@@ -523,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 428094,
+      "num": 389404,
+      "word": "以法之名大结局",
+      "onboard_time": 1752062843,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 426941,
       "num": 426941,
       "word": "被16块钱的男装惊呆了",
@@ -531,20 +555,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 421419,
-      "num": 421419,
-      "word": "左氧氟沙星 跟腱断裂",
-      "onboard_time": 1752047661,
-      "rank": 9,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 419904,
       "num": 430623,
       "word": "王楚钦3比1高承睿",
       "onboard_time": 1752031763,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 416594,
+      "num": 286716,
+      "word": "杨少华儿子",
+      "onboard_time": 1752067884,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 407466,
@@ -561,6 +585,14 @@
       "onboard_time": 1751987430,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 388000,
+      "num": 388000,
+      "word": "李佳琦开始学科目一",
+      "onboard_time": 1752062723,
+      "rank": 18,
+      "category": "美妆,网红"
     },
     {
       "raw_hot": 387213,
@@ -609,6 +641,14 @@
       "onboard_time": 1751983287,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 373977,
+      "num": 216386,
+      "word": "王晶曝成龙被粉丝扇耳光",
+      "onboard_time": 1752067405,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 367085,
@@ -667,14 +707,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 341321,
-      "num": 341321,
-      "word": "以法之名大结局",
-      "onboard_time": 1752062843,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 341193,
       "num": 341193,
       "word": "内娱星二代是有出道KPI吗",
@@ -697,14 +729,6 @@
       "onboard_time": 1751961801,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 339296,
-      "num": 218463,
-      "word": "时团直播主持不是杨若天",
-      "onboard_time": 1752065663,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 330017,
@@ -907,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263399,
+      "num": 263399,
+      "word": "梓渝和弟弟有一样的痣",
+      "onboard_time": 1752067764,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 262365,
       "num": 262365,
       "word": "Angelababy 妈妈级别",
@@ -921,6 +953,14 @@
       "onboard_time": 1752027441,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 258287,
+      "num": 343130,
+      "word": "博主曝怀化一山间焚烧垃圾触目惊心",
+      "onboard_time": 1752066083,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 257289,
@@ -1011,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225530,
+      "num": 225530,
+      "word": "保安开水浇车已道歉并赔偿350元",
+      "onboard_time": 1752065363,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 225179,
       "num": 312017,
       "word": "都市版雁回时",
@@ -1041,14 +1089,6 @@
       "onboard_time": 1752055223,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 211524,
-      "num": 269599,
-      "word": "李佳琦开始学科目一",
-      "onboard_time": 1752062723,
-      "rank": 18,
-      "category": "美妆,网红"
     },
     {
       "raw_hot": 208024,
@@ -1211,6 +1251,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 191941,
+      "num": 191941,
+      "word": "以法之名编剧",
+      "onboard_time": 1752066684,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189774,
       "num": 189774,
       "word": "避暑",
@@ -1299,14 +1347,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 184490,
-      "num": 184490,
-      "word": "保安开水浇车已道歉并赔偿350元",
-      "onboard_time": 1752065363,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 183307,
       "num": 183307,
       "word": "沉迷KPOP的俄罗斯女孩",
@@ -1331,6 +1371,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179172,
+      "num": 179172,
+      "word": "Angelababy鱼嘴恨天高",
+      "onboard_time": 1752066684,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 178667,
+      "num": 178667,
+      "word": "素锦还是没放弃要别人器官",
+      "onboard_time": 1752066743,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178359,
       "num": 178359,
       "word": "白敬亭泳池腹肌照",
@@ -1347,12 +1403,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 177923,
+      "num": 177923,
+      "word": "郑雅萍审程子健杀人诛心",
+      "onboard_time": 1752068125,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176073,
       "num": 176073,
       "word": "厦门往返鼓浪屿轮渡在海上剧烈摇摆",
       "onboard_time": 1752062001,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175687,
+      "num": 175687,
+      "word": "女星自曝抗癌花费500万",
+      "onboard_time": 1752067285,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 174025,
@@ -1483,6 +1555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 164713,
+      "num": 164713,
+      "word": "书卷一梦",
+      "onboard_time": 1752067583,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164597,
       "num": 183290,
       "word": "孙颖莎拒绝冷门",
@@ -1524,7 +1604,7 @@
     },
     {
       "raw_hot": 158719,
-      "num": 176548,
+      "num": 300187,
       "word": "月薪过万但只买百元女装的年轻人",
       "onboard_time": 1752059782,
       "rank": 36,
@@ -1579,6 +1659,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 156238,
+      "num": 178740,
+      "word": "推荐减脂期吃的黄金主食",
+      "onboard_time": 1752067944,
+      "rank": 29,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 154166,
       "num": 696487,
       "word": "湖南发现4.9亿吨锂矿石",
@@ -1593,6 +1681,14 @@
       "onboard_time": 1751964442,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153678,
+      "num": 169538,
+      "word": "日本女足vs中国台北女足",
+      "onboard_time": 1752067405,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 153226,
@@ -1723,6 +1819,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 141712,
+      "num": 141712,
+      "word": "书卷一梦用机制打败机制",
+      "onboard_time": 1752067285,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141698,
       "num": 141698,
       "word": "王楚钦微笑等候采访",
@@ -1745,6 +1849,14 @@
       "onboard_time": 1752055702,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140802,
+      "num": 140802,
+      "word": "伪人父母",
+      "onboard_time": 1752063743,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 140302,
@@ -1801,14 +1913,6 @@
       "onboard_time": 1752058882,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 138871,
-      "num": 138871,
-      "word": "伪人父母",
-      "onboard_time": 1752063743,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 138079,
@@ -1971,12 +2075,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132169,
+      "num": 132169,
+      "word": "女校长诈骗5000万花3000万游戏充值",
+      "onboard_time": 1752066083,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132136,
       "num": 132136,
       "word": "各地博物馆把老祖宗的兴趣扒光了",
       "onboard_time": 1752032904,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131893,
+      "num": 129874,
+      "word": "正当防卫3集3个案子",
+      "onboard_time": 1752068065,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 130841,
@@ -2315,6 +2435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113866,
+      "num": 113866,
+      "word": "王者荣耀回应玩家吐槽新赛季",
+      "onboard_time": 1752068244,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 113598,
       "num": 183228,
       "word": "中国第一艘第一次第一座彰显重大突破",
@@ -2353,6 +2481,14 @@
       "onboard_time": 1751979983,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111925,
+      "num": 111925,
+      "word": "朱易短节目",
+      "onboard_time": 1752068183,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 111370,
@@ -2552,14 +2688,6 @@
       "word": "大国粮仓的科技范儿",
       "onboard_time": 1752034164,
       "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 100158,
-      "num": 100158,
-      "word": "女校长诈骗5000万花3000万游戏充值",
-      "onboard_time": 1752066083,
-      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -2889,14 +3017,6 @@
       "onboard_time": 1751971582,
       "rank": 46,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 67328,
-      "num": 343130,
-      "word": "博主曝怀化一山间焚烧垃圾触目惊心",
-      "onboard_time": 1752066083,
-      "rank": 14,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 66546,
