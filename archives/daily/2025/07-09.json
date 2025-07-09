@@ -1,6 +1,6 @@
 {
   "startTime": 1751992486281,
-  "endTime": 1752032501888,
+  "endTime": 1752033448647,
   "band_list": [
     {
       "raw_hot": 1820962,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1501690,
-      "num": 446072,
+      "num": 473498,
       "word": "女子自曝怀孕期间摆烂上班丈夫是市副处",
       "onboard_time": 1752022043,
       "rank": 3,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1418599,
-      "num": 373749,
+      "num": 419999,
       "word": "抢档",
       "onboard_time": 1752028402,
       "rank": 10,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 932111,
-      "num": 370578,
+      "num": 414108,
       "word": "男子称社恐母亲死在家中10年没报警",
       "onboard_time": 1752028221,
       "rank": 11,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 747264,
-      "num": 364806,
+      "num": 410451,
       "word": "我决定换苹果手机了",
       "onboard_time": 1752017600,
       "rank": 14,
@@ -99,8 +99,24 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 559667,
+      "num": 462918,
+      "word": "电视剧花好官宣",
+      "onboard_time": 1752032004,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 538703,
+      "num": 538703,
+      "word": "英皇欠下166亿港元巨债",
+      "onboard_time": 1752032784,
+      "rank": 1,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 532492,
-      "num": 252684,
+      "num": 265780,
       "word": "13岁男孩脖子洗不干净确诊黑棘皮病",
       "onboard_time": 1752024682,
       "rank": 21,
@@ -115,12 +131,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 526376,
+      "num": 446153,
+      "word": "结石姐得知癌症没扩散后哭了",
+      "onboard_time": 1752031283,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 509514,
       "num": 509514,
       "word": "中国人均预期寿命79岁",
       "onboard_time": 1752030442,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 466282,
+      "num": 438527,
+      "word": "迪丽热巴巴黎出图",
+      "onboard_time": 1752031584,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 439308,
@@ -131,20 +163,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 407466,
+      "num": 407466,
+      "word": "意大利一男子被吸入飞机引擎身亡",
+      "onboard_time": 1752028943,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 406536,
       "num": 697718,
       "word": "店员承认用草酸日洗超百斤龙虾",
       "onboard_time": 1751987430,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 388807,
-      "num": 388807,
-      "word": "结石姐得知癌症没扩散后哭了",
-      "onboard_time": 1752031283,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 387213,
@@ -187,20 +219,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 364460,
-      "num": 364460,
-      "word": "意大利一男子被吸入飞机引擎身亡",
-      "onboard_time": 1752028943,
-      "rank": 13,
-      "category": "海外新闻"
+      "raw_hot": 369855,
+      "num": 369855,
+      "word": "月薪30万全靠抓知了猴",
+      "onboard_time": 1752029243,
+      "rank": 17,
+      "category": "幽默"
     },
     {
-      "raw_hot": 353939,
-      "num": 353939,
-      "word": "电视剧花好官宣",
-      "onboard_time": 1752032004,
+      "raw_hot": 356366,
+      "num": 356366,
+      "word": "王楚钦9比11高承睿",
+      "onboard_time": 1752032725,
       "rank": 15,
-      "category": "剧集"
+      "category": "体育"
+    },
+    {
+      "raw_hot": 351252,
+      "num": 435901,
+      "word": "警方通报网传民警违停致人死亡",
+      "onboard_time": 1752027622,
+      "rank": 31,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 345680,
@@ -219,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 338097,
+      "num": 338097,
+      "word": "鸟鸟是脱友2内容总导演",
+      "onboard_time": 1752032784,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 330017,
       "num": 330017,
       "word": "迪丽热巴黑丝绒玫瑰裙",
@@ -233,14 +281,6 @@
       "onboard_time": 1752021263,
       "rank": 22,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 327003,
-      "num": 327003,
-      "word": "月薪30万全靠抓知了猴",
-      "onboard_time": 1752029243,
-      "rank": 17,
-      "category": "幽默"
     },
     {
       "raw_hot": 320148,
@@ -283,14 +323,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 273352,
-      "num": 273352,
-      "word": "迪丽热巴巴黎出图",
-      "onboard_time": 1752031584,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 271563,
       "num": 271563,
       "word": "孙颖莎vs高达",
@@ -299,12 +331,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 270557,
+      "num": 265776,
+      "word": "iPhone17Air到底有多薄",
+      "onboard_time": 1752032123,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 267544,
+      "num": 430623,
+      "word": "王楚钦3比1高承睿",
+      "onboard_time": 1752031763,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 266100,
+      "num": 266100,
+      "word": "梓渝在BF上了一整年班",
+      "onboard_time": 1752032604,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 260371,
       "num": 191261,
       "word": "扫毒风暴定档0712",
       "onboard_time": 1752027441,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 249347,
+      "num": 249347,
+      "word": "国乒男队怎么了",
+      "onboard_time": 1752032784,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 246168,
@@ -331,14 +395,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 238227,
-      "num": 356233,
-      "word": "警方通报网传民警违停致人死亡",
-      "onboard_time": 1752027622,
-      "rank": 31,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 231028,
       "num": 696813,
       "word": "网友住酒店光脚洗澡感染HPV",
@@ -353,6 +409,14 @@
       "onboard_time": 1752021564,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208024,
+      "num": 252490,
+      "word": "这两张脸才让人相信一眼万年",
+      "onboard_time": 1752032604,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 203643,
@@ -379,6 +443,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 199805,
+      "num": 249774,
+      "word": "迪丽热巴这顶级星光感",
+      "onboard_time": 1752032725,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 198901,
       "num": 176015,
       "word": "到底是谁抢光了限量labubu",
@@ -403,6 +475,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 195182,
+      "num": 195182,
+      "word": "王楚钦晋级美国大满贯16强",
+      "onboard_time": 1752033204,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189774,
       "num": 189774,
       "word": "避暑",
@@ -420,7 +500,7 @@
     },
     {
       "raw_hot": 187754,
-      "num": 190821,
+      "num": 265780,
       "word": "孙颖莎回应晋级16强",
       "onboard_time": 1752031763,
       "rank": 28,
@@ -459,12 +539,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 177623,
-      "num": 183306,
-      "word": "iPhone17Air到底有多薄",
-      "onboard_time": 1752032123,
-      "rank": 34,
-      "category": "数码"
+      "raw_hot": 174025,
+      "num": 183299,
+      "word": "结婚是唯一一次亲自选择家人",
+      "onboard_time": 1752028583,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 171955,
@@ -491,11 +571,11 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 155772,
-      "num": 378843,
-      "word": "王楚钦3比1高承睿",
-      "onboard_time": 1752031763,
-      "rank": 9,
+      "raw_hot": 164597,
+      "num": 183290,
+      "word": "孙颖莎拒绝冷门",
+      "onboard_time": 1752032184,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -523,20 +603,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 147481,
-      "num": 183299,
-      "word": "结婚是唯一一次亲自选择家人",
-      "onboard_time": 1752028583,
-      "rank": 35,
-      "category": "情感"
+      "raw_hot": 146797,
+      "num": 146797,
+      "word": "北二外成都附中已报案",
+      "onboard_time": 1752032784,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 146351,
-      "num": 183290,
-      "word": "孙颖莎拒绝冷门",
-      "onboard_time": 1752032184,
-      "rank": 37,
-      "category": "体育"
+      "raw_hot": 141861,
+      "num": 175449,
+      "word": "Fly对战BLG先下一城",
+      "onboard_time": 1752024802,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 141651,
@@ -596,7 +676,7 @@
     },
     {
       "raw_hot": 135329,
-      "num": 197193,
+      "num": 259965,
       "word": "享界换新头像了",
       "onboard_time": 1752030983,
       "rank": 23,
@@ -617,6 +697,14 @@
       "onboard_time": 1751975423,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 132136,
+      "num": 132136,
+      "word": "各地博物馆把老祖宗的兴趣扒光了",
+      "onboard_time": 1752032904,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130841,
@@ -715,14 +803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 111919,
-      "num": 175449,
-      "word": "Fly对战BLG先下一城",
-      "onboard_time": 1752024802,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 108137,
       "num": 175844,
       "word": "建议不要临睡前才刷牙",
@@ -801,6 +881,14 @@
       "onboard_time": 1751978302,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90063,
+      "num": 161755,
+      "word": "中国有了自主研发的高性能芯片",
+      "onboard_time": 1752033325,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87343,
@@ -905,6 +993,14 @@
       "onboard_time": 1752026122,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 76729,
+      "num": 257672,
+      "word": "中国连续15年全球制造业首位",
+      "onboard_time": 1752032544,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 75568,
@@ -1012,7 +1108,7 @@
     },
     {
       "raw_hot": 66546,
-      "num": 446438,
+      "num": 480468,
       "word": "净网2025暴恐音视频危害大不看不存不转发",
       "onboard_time": 1752026301,
       "rank": 2,
@@ -1115,8 +1211,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 42632,
-      "num": 183281,
+      "raw_hot": 49096,
+      "num": 249403,
       "word": "以色列拟建人道主义城禁居民离开",
       "onboard_time": 1752032483,
       "rank": 39,
