@@ -1,6 +1,6 @@
 {
   "startTime": 1751992486281,
-  "endTime": 1752046058089,
+  "endTime": 1752046965551,
   "band_list": [
     {
       "raw_hot": 2110615,
@@ -24,6 +24,14 @@
       "word": "女子自曝怀孕期间摆烂上班丈夫是市副处",
       "onboard_time": 1752022043,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1468729,
+      "num": 1468729,
+      "word": "纪委介入女子自曝怀孕摆烂不上班",
+      "onboard_time": 1752042682,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -59,14 +67,6 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 1306832,
-      "num": 1306832,
-      "word": "纪委介入女子自曝怀孕摆烂不上班",
-      "onboard_time": 1752042682,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1263581,
       "num": 1263581,
       "word": "登机只需提前15分钟了",
@@ -91,20 +91,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1031777,
+      "num": 1031777,
+      "word": "枭起青壤 定档",
+      "onboard_time": 1752043940,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 932111,
       "num": 466042,
       "word": "男子称社恐母亲死在家中10年没报警",
       "onboard_time": 1752028221,
       "rank": 11,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 887465,
-      "num": 887465,
-      "word": "枭起青壤 定档",
-      "onboard_time": 1752043940,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 835178,
@@ -129,6 +129,14 @@
       "onboard_time": 1752028221,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 757854,
+      "num": 757854,
+      "word": "孙一宁勾引女人的事全做了",
+      "onboard_time": 1752041422,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 747264,
@@ -169,14 +177,6 @@
       "onboard_time": 1752036804,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 695723,
-      "num": 695723,
-      "word": "孙一宁勾引女人的事全做了",
-      "onboard_time": 1752041422,
-      "rank": 8,
-      "category": "演出"
     },
     {
       "raw_hot": 596208,
@@ -289,6 +289,14 @@
       "onboard_time": 1752032604,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 443844,
+      "num": 443844,
+      "word": "男子地铁上猥亵女生被便衣当场抓捕",
+      "onboard_time": 1752043221,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 439308,
@@ -411,14 +419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 332227,
-      "num": 332227,
-      "word": "男子地铁上猥亵女生被便衣当场抓捕",
-      "onboard_time": 1752043221,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 330017,
       "num": 330017,
       "word": "迪丽热巴黑丝绒玫瑰裙",
@@ -467,6 +467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 305567,
+      "num": 305567,
+      "word": "人民日报呼吁同志称呼重归主流",
+      "onboard_time": 1752045982,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 303357,
       "num": 383864,
       "word": "将8家台湾地区实体列入出口管制管控",
@@ -497,6 +505,14 @@
       "onboard_time": 1752038423,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 278587,
+      "num": 278587,
+      "word": "大张伟密逃cue虞书欣",
+      "onboard_time": 1752044302,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 271563,
@@ -545,14 +561,6 @@
       "onboard_time": 1752037403,
       "rank": 25,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 248530,
-      "num": 248530,
-      "word": "大张伟密逃cue虞书欣",
-      "onboard_time": 1752044302,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 246168,
@@ -611,12 +619,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217027,
+      "num": 217027,
+      "word": "二男二女却凑出三对情侣",
+      "onboard_time": 1752046162,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208024,
       "num": 252490,
       "word": "这两张脸才让人相信一眼万年",
       "onboard_time": 1752032604,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206107,
+      "num": 206107,
+      "word": "医生称尿路感染通常是免疫力下降所致",
+      "onboard_time": 1752044363,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 203643,
@@ -699,8 +723,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 189921,
-      "num": 189921,
+      "raw_hot": 193430,
+      "num": 193430,
       "word": "原神若娜瓦",
       "onboard_time": 1752045083,
       "rank": 22,
@@ -771,6 +795,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 186290,
+      "num": 410026,
+      "word": "3名航天员为恢复正常训练做准备",
+      "onboard_time": 1752045442,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 186273,
       "num": 696686,
       "word": "余承东因开车看手机去自首了",
@@ -819,12 +851,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 173326,
-      "num": 410026,
-      "word": "3名航天员为恢复正常训练做准备",
-      "onboard_time": 1752045442,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 173736,
+      "num": 173736,
+      "word": "小黄豆否认有孩子",
+      "onboard_time": 1752045801,
+      "rank": 43,
+      "category": "网红"
     },
     {
       "raw_hot": 171955,
@@ -849,6 +881,14 @@
       "onboard_time": 1752038183,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 171016,
+      "num": 414934,
+      "word": "娇妻文学不是荣誉书而是举报信",
+      "onboard_time": 1752046342,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 170617,
@@ -883,6 +923,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 165969,
+      "num": 165969,
+      "word": "陈柏霖与女友将结婚",
+      "onboard_time": 1752046401,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164938,
       "num": 164938,
       "word": "陈柏霖回应婚讯",
@@ -915,6 +963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158532,
+      "num": 158532,
+      "word": "A股放量512亿",
+      "onboard_time": 1752046821,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 157897,
       "num": 239305,
       "word": "卖玉米阿姨救大学生称哪怕以命换命",
@@ -924,7 +980,7 @@
     },
     {
       "raw_hot": 156855,
-      "num": 156855,
+      "num": 213712,
       "word": "蔡琳称没想过再婚",
       "onboard_time": 1752043400,
       "rank": 33,
@@ -953,6 +1009,14 @@
       "onboard_time": 1752039562,
       "rank": 32,
       "category": "艺人,财经"
+    },
+    {
+      "raw_hot": 152516,
+      "num": 152516,
+      "word": "美国媒体开始关注中国生活成本",
+      "onboard_time": 1752046401,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 151510,
@@ -987,12 +1051,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144817,
+      "num": 144817,
+      "word": "出门上班不小心把空调开成了制热",
+      "onboard_time": 1752046703,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 141861,
       "num": 175449,
       "word": "Fly对战BLG先下一城",
       "onboard_time": 1752024802,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 141698,
+      "num": 141698,
+      "word": "王楚钦微笑等候采访",
+      "onboard_time": 1752045263,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 141651,
@@ -1043,14 +1123,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 138857,
-      "num": 138857,
-      "word": "王楚钦微笑等候采访",
-      "onboard_time": 1752045263,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 138079,
       "num": 138079,
       "word": "孙颖莎一个劲儿挠头",
@@ -1089,6 +1161,14 @@
       "onboard_time": 1752021803,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 135779,
+      "num": 135779,
+      "word": "第一个想到小倩民国设定的是天才",
+      "onboard_time": 1752045921,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 135329,
@@ -1144,14 +1224,6 @@
       "word": "各地博物馆把老祖宗的兴趣扒光了",
       "onboard_time": 1752032904,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 131916,
-      "num": 131916,
-      "word": "人民日报呼吁同志称呼重归主流",
-      "onboard_time": 1752045982,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -1211,12 +1283,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 125383,
-      "num": 125383,
-      "word": "医生称尿路感染通常是免疫力下降所致",
-      "onboard_time": 1752044363,
-      "rank": 41,
-      "category": "健康医疗"
+      "raw_hot": 125829,
+      "num": 174989,
+      "word": "古天乐成为风云A9L001号车主",
+      "onboard_time": 1752046703,
+      "rank": 28,
+      "category": "艺人,汽车"
     },
     {
       "raw_hot": 124980,
@@ -1251,14 +1323,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 124366,
-      "num": 124366,
-      "word": "第一个想到小倩民国设定的是天才",
-      "onboard_time": 1752045921,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 123834,
       "num": 123834,
       "word": "WTT美国大满贯场地突然冒烟",
@@ -1267,12 +1331,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122886,
-      "num": 122886,
-      "word": "小黄豆否认有孩子",
-      "onboard_time": 1752045801,
-      "rank": 43,
-      "category": "网红"
+      "raw_hot": 123300,
+      "num": 123300,
+      "word": "刘品言连晨翔领证",
+      "onboard_time": 1752046942,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 122496,
@@ -1475,6 +1539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95485,
+      "num": 190462,
+      "word": "高温天制冰厂一天售出200吨冰块",
+      "onboard_time": 1752045681,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93740,
       "num": 691203,
       "word": "田栩宁19岁时许愿不要被黑",
@@ -1585,6 +1657,14 @@
       "onboard_time": 1751993660,
       "rank": 18,
       "category": "艺人,汽车"
+    },
+    {
+      "raw_hot": 79207,
+      "num": 241665,
+      "word": "女子孕前期休假副处老公扮何角色",
+      "onboard_time": 1752045681,
+      "rank": 17,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 78813,
@@ -1859,20 +1939,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 46874,
+      "num": 166940,
+      "word": "媒体曝光特朗普威胁普京录音",
+      "onboard_time": 1752046882,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 46263,
       "num": 150885,
       "word": "海卡好记仇",
       "onboard_time": 1752038962,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 44810,
-      "num": 241665,
-      "word": "女子孕前期休假副处老公扮何角色",
-      "onboard_time": 1752045681,
-      "rank": 17,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 43957,
@@ -1897,6 +1977,14 @@
       "onboard_time": 1751995038,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 40064,
+      "num": 188599,
+      "word": "胰岛素抵抗有哪些特征",
+      "onboard_time": 1752045921,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 39982,
@@ -1979,12 +2067,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 26915,
-      "num": 138238,
-      "word": "胰岛素抵抗有哪些特征",
-      "onboard_time": 1752045921,
-      "rank": 32,
-      "category": "健康医疗"
+      "raw_hot": 27300,
+      "num": 152541,
+      "word": "无声的守护是最温暖的答案",
+      "onboard_time": 1752044483,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25554,
@@ -2051,11 +2139,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19294,
-      "num": 128201,
-      "word": "无声的守护是最温暖的答案",
-      "onboard_time": 1752044483,
-      "rank": 39,
+      "raw_hot": 18726,
+      "num": 166043,
+      "word": "男子称贷款50万被收7万服务费",
+      "onboard_time": 1752046882,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -2065,14 +2153,6 @@
       "onboard_time": 1752035425,
       "rank": 25,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 16999,
-      "num": 190462,
-      "word": "高温天制冰厂一天售出200吨冰块",
-      "onboard_time": 1752045681,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16876,
