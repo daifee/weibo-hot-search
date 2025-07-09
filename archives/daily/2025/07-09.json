@@ -1,6 +1,6 @@
 {
   "startTime": 1751992486281,
-  "endTime": 1752051048037,
+  "endTime": 1752053487830,
   "band_list": [
     {
       "raw_hot": 2110615,
@@ -19,12 +19,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1650826,
+      "num": 805403,
+      "word": "关晓彤换新头像",
+      "onboard_time": 1752050784,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1501690,
       "num": 508263,
       "word": "女子自曝怀孕期间摆烂上班丈夫是市副处",
       "onboard_time": 1752022043,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1472073,
+      "num": 1472073,
+      "word": "左氧佛沙星 跟腱断裂",
+      "onboard_time": 1752047661,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 1468729,
@@ -83,14 +99,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1183552,
-      "num": 805403,
-      "word": "关晓彤换新头像",
-      "onboard_time": 1752050784,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1134020,
       "num": 1181443,
       "word": "人民日报呼吁同志称呼重归主流",
@@ -113,14 +121,6 @@
       "onboard_time": 1752043940,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1030744,
-      "num": 1030744,
-      "word": "左氧佛沙星 跟腱断裂",
-      "onboard_time": 1752047661,
-      "rank": 4,
-      "category": "情感"
     },
     {
       "raw_hot": 932111,
@@ -179,6 +179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 739658,
+      "num": 739658,
+      "word": "巨峰葡萄 白月光",
+      "onboard_time": 1752048202,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
       "raw_hot": 731308,
       "num": 695824,
       "word": "被曝婚内出轨粉丝NPC蓝狐狸被辞退",
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 724666,
-      "num": 397417,
+      "num": 467047,
       "word": "痛经假",
       "onboard_time": 1752048323,
       "rank": 10,
@@ -217,6 +225,14 @@
       "onboard_time": 1752036804,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 618399,
+      "num": 618399,
+      "word": "音乐节 离婚登记",
+      "onboard_time": 1752049343,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 596208,
@@ -257,6 +273,14 @@
       "onboard_time": 1752032004,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 541121,
+      "num": 541121,
+      "word": "内娱撕拉片四大TOP",
+      "onboard_time": 1752050784,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 532492,
@@ -312,6 +336,14 @@
       "word": "雪糕刺客开始倒闭了",
       "onboard_time": 1752034284,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 500218,
+      "num": 500218,
+      "word": "怀孕女子称老公为市里副处不实",
+      "onboard_time": 1752051563,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -408,6 +440,14 @@
       "word": "赵本山女儿球球抑郁症复发",
       "onboard_time": 1751982507,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 378890,
+      "num": 378890,
+      "word": "杨紫粉色挂脖流光裙",
+      "onboard_time": 1752051203,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -539,14 +579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 313722,
-      "num": 313722,
-      "word": "音乐节 离婚登记",
-      "onboard_time": 1752049343,
-      "rank": 21,
-      "category": "演出"
-    },
-    {
       "raw_hot": 312628,
       "num": 312628,
       "word": "杨紫大学看李现张一山篮球赛",
@@ -579,6 +611,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 288986,
+      "num": 288986,
+      "word": "方圆脸最适合的发型",
+      "onboard_time": 1752051143,
+      "rank": 15,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 287763,
       "num": 287763,
       "word": "肖战玩丑特效",
@@ -593,6 +633,14 @@
       "onboard_time": 1752044302,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 271736,
+      "num": 271736,
+      "word": "Angelababy粤语自我介绍",
+      "onboard_time": 1752048802,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 271563,
@@ -635,20 +683,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 256408,
-      "num": 256408,
-      "word": "巨峰葡萄 白月光",
-      "onboard_time": 1752048202,
-      "rank": 20,
-      "category": "美食"
-    },
-    {
       "raw_hot": 256156,
       "num": 256156,
       "word": "巨改善脖子前倾的15天有效法",
       "onboard_time": 1752037403,
       "rank": 25,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 252023,
+      "num": 289613,
+      "word": "自曝怀孕摆烂没上班女子已销号",
+      "onboard_time": 1752051742,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 250837,
@@ -713,14 +761,6 @@
       "onboard_time": 1752021564,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 209181,
-      "num": 267965,
-      "word": "Angelababy粤语自我介绍",
-      "onboard_time": 1752048802,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 208024,
@@ -825,6 +865,14 @@
       "onboard_time": 1752036384,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 195642,
+      "num": 195642,
+      "word": "拒绝填报清华北大遭怒骂",
+      "onboard_time": 1752050722,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195507,
@@ -955,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178359,
+      "num": 178359,
+      "word": "白敬亭泳池腹肌照",
+      "onboard_time": 1752052163,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178238,
       "num": 178238,
       "word": "美得州洪灾灾区市长含泪哭诉",
@@ -1001,6 +1057,14 @@
       "onboard_time": 1752038183,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 171214,
+      "num": 171214,
+      "word": "溢价买的labubu开线被拒绝售后",
+      "onboard_time": 1752052523,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171016,
@@ -1083,6 +1147,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 159212,
+      "num": 215522,
+      "word": "黄俊捷直播",
+      "onboard_time": 1752050903,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159086,
       "num": 212373,
       "word": "司机不陪乘客聊天被封号3天",
@@ -1091,12 +1163,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159086,
+      "num": 135738,
+      "word": "孙一宁还媚呢出大事了",
+      "onboard_time": 1752051682,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158532,
       "num": 158532,
       "word": "A股放量512亿",
       "onboard_time": 1752046821,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 158197,
+      "num": 158197,
+      "word": "最会省钱的女生已经开始买男装了",
+      "onboard_time": 1752051442,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 157897,
@@ -1163,6 +1251,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 148568,
+      "num": 166779,
+      "word": "虞书欣停车收粉丝的信",
+      "onboard_time": 1752052703,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147952,
       "num": 413998,
       "word": "人与人之间的感情好像跳楼机",
@@ -1185,14 +1281,6 @@
       "onboard_time": 1752046703,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 144574,
-      "num": 144574,
-      "word": "内娱撕拉片四大TOP",
-      "onboard_time": 1752050784,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 141861,
@@ -1291,6 +1379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136220,
+      "num": 136220,
+      "word": "4块钱的咖啡",
+      "onboard_time": 1752050002,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 135795,
       "num": 175934,
       "word": "奉劝大家一句上班该摸鱼就摸",
@@ -1356,7 +1452,7 @@
     },
     {
       "raw_hot": 132577,
-      "num": 132577,
+      "num": 265942,
       "word": "以法之名洪豆还能考公吗",
       "onboard_time": 1752048622,
       "rank": 36,
@@ -1377,6 +1473,14 @@
       "onboard_time": 1752029363,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 130803,
+      "num": 130803,
+      "word": "我做财务就这样",
+      "onboard_time": 1752050242,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 130671,
@@ -1436,7 +1540,7 @@
     },
     {
       "raw_hot": 126203,
-      "num": 126203,
+      "num": 638050,
       "word": "一图速览十四五经济社会发展成就",
       "onboard_time": 1752043824,
       "rank": 44,
@@ -1507,6 +1611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122477,
+      "num": 122477,
+      "word": "肖战对视视角",
+      "onboard_time": 1752052163,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122308,
       "num": 166043,
       "word": "男子称贷款50万被收7万服务费",
@@ -1555,28 +1667,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 119470,
-      "num": 119470,
-      "word": "4块钱的咖啡",
-      "onboard_time": 1752050002,
-      "rank": 45,
-      "category": "美食"
-    },
-    {
       "raw_hot": 118839,
       "num": 118839,
       "word": "四川省菜",
       "onboard_time": 1752038544,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 117389,
-      "num": 117389,
-      "word": "拒绝填报清华北大遭怒骂",
-      "onboard_time": 1752050722,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 117201,
@@ -1595,14 +1691,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115171,
-      "num": 115171,
-      "word": "黄俊捷直播",
-      "onboard_time": 1752050903,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 115159,
       "num": 183230,
       "word": "颜人中2025巡演预告",
@@ -1617,14 +1705,6 @@
       "onboard_time": 1752038723,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 114149,
-      "num": 114149,
-      "word": "我做财务就这样",
-      "onboard_time": 1752050242,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 113598,
@@ -1707,6 +1787,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 109520,
+      "num": 109520,
+      "word": "5岁女童游泳后感染食脑虫昏迷不醒",
+      "onboard_time": 1752052581,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109375,
       "num": 183513,
       "word": "幼儿血铅两地检测结果悬殊需彻查真相",
@@ -1737,6 +1825,14 @@
       "onboard_time": 1752017241,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 107380,
+      "num": 107380,
+      "word": "贵州豆米火锅",
+      "onboard_time": 1752053002,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 106875,
@@ -1793,6 +1889,14 @@
       "onboard_time": 1752045681,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95114,
+      "num": 95114,
+      "word": "美国大满贯混双八强出炉",
+      "onboard_time": 1752053422,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 93740,
@@ -2187,6 +2291,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 51038,
+      "num": 123638,
+      "word": "明日方舟中图网",
+      "onboard_time": 1752053303,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 49438,
+      "num": 269420,
+      "word": "YU7现象折射中国经济新预期",
+      "onboard_time": 1752051864,
+      "rank": 17,
+      "category": "民生新闻,汽车"
+    },
+    {
       "raw_hot": 49096,
       "num": 249403,
       "word": "以色列拟建人道主义城禁居民离开",
@@ -2289,6 +2409,14 @@
       "onboard_time": 1752049283,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 33254,
+      "num": 264288,
+      "word": "入室抢婴案孩子母亲将继续申诉",
+      "onboard_time": 1752052882,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32837,
@@ -2465,6 +2593,9 @@
     },
     {
       "word": "#谱写三晋大地推进中国式现代化新篇章#"
+    },
+    {
+      "word": "#跟着总书记重温抗战烽火岁月#"
     }
   ]
 }
