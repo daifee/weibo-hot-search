@@ -1,6 +1,6 @@
 {
   "startTime": 1751992486281,
-  "endTime": 1752069105029,
+  "endTime": 1752071235458,
   "band_list": [
     {
       "raw_hot": 3968193,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1548597,
-      "num": 414679,
+      "num": 624984,
       "word": "田栩宁ccd",
       "onboard_time": 1752062962,
       "rank": 10,
@@ -107,12 +107,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1394769,
+      "num": 1394769,
+      "word": "男子理发店充430万做灌肠后遭退费难",
+      "onboard_time": 1752068424,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1320179,
       "num": 1320179,
       "word": "英皇欠下166亿港元巨债",
       "onboard_time": 1752032784,
       "rank": 1,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 1294555,
+      "num": 1294555,
+      "word": "王晶曝成龙被粉丝扇耳光",
+      "onboard_time": 1752067405,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 1292318,
@@ -161,6 +177,14 @@
       "onboard_time": 1752032725,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1126766,
+      "num": 1126766,
+      "word": "以法之名 烂尾",
+      "onboard_time": 1752069865,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 1031777,
@@ -235,6 +259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 772649,
+      "num": 772649,
+      "word": "左氧氟沙星 跟腱断裂",
+      "onboard_time": 1752047661,
+      "rank": 9,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 764227,
       "num": 262559,
       "word": "孙颖莎0比1高达",
@@ -249,14 +281,6 @@
       "onboard_time": 1752041422,
       "rank": 8,
       "category": "演出"
-    },
-    {
-      "raw_hot": 756492,
-      "num": 756492,
-      "word": "左氧氟沙星 跟腱断裂",
-      "onboard_time": 1752047661,
-      "rank": 9,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 747264,
@@ -299,11 +323,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 707337,
+      "num": 707337,
+      "word": "Angelababy 港风还得港女来",
+      "onboard_time": 1752061463,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 699467,
       "num": 699467,
       "word": "深圳假名媛被判13年",
       "onboard_time": 1752036804,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 697250,
+      "num": 697250,
+      "word": "男子曝妻子和公职人员多次开房",
+      "onboard_time": 1752068485,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -337,14 +377,6 @@
       "onboard_time": 1752049343,
       "rank": 21,
       "category": "演出"
-    },
-    {
-      "raw_hot": 604047,
-      "num": 397265,
-      "word": "Angelababy 港风还得港女来",
-      "onboard_time": 1752061463,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 602520,
@@ -419,16 +451,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 556841,
-      "num": 377525,
-      "word": "王晶曝成龙被粉丝扇耳光",
-      "onboard_time": 1752067405,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 546039,
-      "num": 393150,
+      "num": 403999,
       "word": "时团直播主持不是杨若天",
       "onboard_time": 1752065663,
       "rank": 20,
@@ -521,6 +545,14 @@
       "onboard_time": 1752032604,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 449682,
+      "num": 449682,
+      "word": "穷小孩的人生是从30岁开始的",
+      "onboard_time": 1752068664,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 445015,
@@ -627,11 +659,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 385715,
-      "num": 385715,
-      "word": "男子理发店充430万做灌肠后遭退费难",
-      "onboard_time": 1752068424,
-      "rank": 9,
+      "raw_hot": 379714,
+      "num": 379714,
+      "word": "男子开车瞬间被臭晕倒地不起",
+      "onboard_time": 1752070344,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -665,14 +697,6 @@
       "onboard_time": 1751983287,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 367841,
-      "num": 367841,
-      "word": "穷小孩的人生是从30岁开始的",
-      "onboard_time": 1752068664,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 367085,
@@ -884,7 +908,7 @@
     },
     {
       "raw_hot": 279190,
-      "num": 217476,
+      "num": 224373,
       "word": "刘宇宁谈如何活出松弛感",
       "onboard_time": 1752064523,
       "rank": 27,
@@ -899,12 +923,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 277216,
-      "num": 238587,
-      "word": "男子曝妻子和公职人员多次开房",
-      "onboard_time": 1752068485,
-      "rank": 23,
-      "category": "民生新闻"
+      "raw_hot": 278041,
+      "num": 278041,
+      "word": "甲亢哥欧洲行用中文对粉丝喊冷静",
+      "onboard_time": 1752069744,
+      "rank": 18,
+      "category": "海外新闻,网红"
     },
     {
       "raw_hot": 271736,
@@ -1115,6 +1139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220803,
+      "num": 220803,
+      "word": "网传肖战无缝进组小城良方",
+      "onboard_time": 1752069205,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214215,
       "num": 347095,
       "word": "中方回应美将限制中国公民在美买农田",
@@ -1241,6 +1273,14 @@
       "onboard_time": 1752049343,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196342,
+      "num": 196342,
+      "word": "梓渝小时候军训照",
+      "onboard_time": 1752068664,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 196219,
@@ -1387,6 +1427,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 184687,
+      "num": 184687,
+      "word": "关晓彤减肥能管住嘴的原因",
+      "onboard_time": 1752069205,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183307,
       "num": 183307,
       "word": "沉迷KPOP的俄罗斯女孩",
@@ -1459,6 +1507,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 176882,
+      "num": 176882,
+      "word": "温网",
+      "onboard_time": 1752070164,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176073,
       "num": 374715,
       "word": "厦门往返鼓浪屿轮渡在海上剧烈摇摆",
@@ -1489,6 +1545,14 @@
       "onboard_time": 1752052703,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172777,
+      "num": 172777,
+      "word": "父母离婚后初三男生频繁尿床",
+      "onboard_time": 1752068964,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171955,
@@ -1555,6 +1619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169839,
+      "num": 169839,
+      "word": "不要关注太多情侣博主",
+      "onboard_time": 1752069865,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 168550,
       "num": 168550,
       "word": "李一桐配音哭了",
@@ -1577,6 +1649,14 @@
       "onboard_time": 1752024620,
       "rank": 16,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 166357,
+      "num": 178740,
+      "word": "推荐减脂期吃的黄金主食",
+      "onboard_time": 1752067944,
+      "rank": 29,
+      "category": "运动健身"
     },
     {
       "raw_hot": 165969,
@@ -1609,6 +1689,30 @@
       "onboard_time": 1752032184,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162816,
+      "num": 162816,
+      "word": "李现这是我能看的吗",
+      "onboard_time": 1752070284,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 162303,
+      "num": 162303,
+      "word": "今夕赫夕一对璧人三世情缘",
+      "onboard_time": 1752070645,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 160260,
+      "num": 160260,
+      "word": "刘雯蓝色礼服",
+      "onboard_time": 1752069445,
+      "rank": 42,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 159942,
@@ -1707,12 +1811,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 156238,
-      "num": 178740,
-      "word": "推荐减脂期吃的黄金主食",
-      "onboard_time": 1752067944,
-      "rank": 29,
-      "category": "运动健身"
+      "raw_hot": 155572,
+      "num": 162398,
+      "word": "王者荣耀回应玩家吐槽新赛季",
+      "onboard_time": 1752068244,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 155207,
@@ -1795,6 +1899,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 148774,
+      "num": 148774,
+      "word": "900V对电混来说意味着什么",
+      "onboard_time": 1752070044,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 148650,
       "num": 148650,
       "word": "王珞丹短发",
@@ -1849,6 +1961,14 @@
       "onboard_time": 1752046703,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 144622,
+      "num": 144622,
+      "word": "刘耀文卷毛狗狗眼",
+      "onboard_time": 1752071125,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 142873,
@@ -1987,14 +2107,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 136784,
-      "num": 136784,
-      "word": "父母离婚后初三男生频繁尿床",
-      "onboard_time": 1752068964,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136579,
       "num": 136579,
       "word": "邱贻可让孙颖莎找回节奏",
@@ -2123,14 +2235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 132519,
-      "num": 132519,
-      "word": "梓渝小时候军训照",
-      "onboard_time": 1752068664,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 132470,
       "num": 132470,
       "word": "这么正的剧这么花的招",
@@ -2185,6 +2289,14 @@
       "onboard_time": 1752027263,
       "rank": 24,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 130480,
+      "num": 130480,
+      "word": "朱易短节目",
+      "onboard_time": 1752068183,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 129002,
@@ -2243,14 +2355,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 127399,
-      "num": 127399,
-      "word": "朱易短节目",
-      "onboard_time": 1752068183,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 127195,
       "num": 692989,
       "word": "景区回应NPC蓝狐狸被曝婚内出轨粉丝",
@@ -2268,7 +2372,7 @@
     },
     {
       "raw_hot": 126203,
-      "num": 875408,
+      "num": 1313332,
       "word": "一图速览十四五经济社会发展成就",
       "onboard_time": 1752043824,
       "rank": 44,
@@ -2435,6 +2539,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 117559,
+      "num": 173879,
+      "word": "韩国偶遇宁艺卓逛街",
+      "onboard_time": 1752069145,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117555,
       "num": 117555,
       "word": "原神莱茵多特",
@@ -2497,14 +2609,6 @@
       "onboard_time": 1752038723,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 113866,
-      "num": 113866,
-      "word": "王者荣耀回应玩家吐槽新赛季",
-      "onboard_time": 1752068244,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 113598,
@@ -3281,6 +3385,14 @@
       "onboard_time": 1752027022,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 41009,
+      "num": 270925,
+      "word": "因拆迁索1.4万过渡费被捕新进展",
+      "onboard_time": 1752070885,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40480,
