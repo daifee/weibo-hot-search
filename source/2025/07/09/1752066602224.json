@@ -1,0 +1,410 @@
+{
+  "runTime": 1752066602224,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1863370,
+        "num": 1863370,
+        "word": "7月9日将成有史以来最短一天",
+        "onboard_time": 1752063323,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1210212,
+        "num": 1210212,
+        "word": "以法之名",
+        "onboard_time": 1752062122,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22539,
+        "num": 748328,
+        "word": "一图速览十四五经济社会发展成就",
+        "onboard_time": 1752043824,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1684375,
+        "num": 728251,
+        "word": "杨少华去世",
+        "onboard_time": 1752055762,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 681862,
+        "num": 681862,
+        "word": "租客自杀不到一月房子再次出租",
+        "onboard_time": 1752059603,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 537707,
+        "num": 537707,
+        "word": "考编成绩断崖式领先牵出跨省作弊案",
+        "onboard_time": 1752057383,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 981637,
+        "num": 530507,
+        "word": "万海死了",
+        "onboard_time": 1752064463,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 492942,
+        "num": 492942,
+        "word": "1分钟教你摸脉判断月经来了没",
+        "onboard_time": 1752061822,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 528018,
+        "num": 455784,
+        "word": "餐馆回应杨少华参加剪彩",
+        "onboard_time": 1752065543,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357091,
+        "num": 357091,
+        "word": "左氧氟沙星 跟腱断裂",
+        "onboard_time": 1752047661,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1548597,
+        "num": 354393,
+        "word": "田栩宁ccd",
+        "onboard_time": 1752062962,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 894486,
+        "num": 353251,
+        "word": "万海死在了最接近真相的那天",
+        "onboard_time": 1752063803,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 448097,
+        "num": 348671,
+        "word": "Angelababy 港风还得港女来",
+        "onboard_time": 1752061463,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389510,
+        "num": 346323,
+        "word": "黄子韬徐艺洋 生理性喜欢",
+        "onboard_time": 1752049703,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67328,
+        "num": 343130,
+        "word": "博主曝怀化一山间焚烧垃圾触目惊心",
+        "onboard_time": 1752066083,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 341321,
+        "num": 341321,
+        "word": "以法之名大结局",
+        "onboard_time": 1752062843,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250577,
+        "num": 250577,
+        "word": "胡塞武装公布魔法海洋号被击沉全程",
+        "onboard_time": 1752062482,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 224648,
+        "num": 224648,
+        "word": "王大雷扑出亚马尔进球",
+        "onboard_time": 1752065484,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28272,
+        "num": 220779,
+        "word": "极氪实现混动技术重大突破",
+        "onboard_time": 1752062783,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 220248,
+        "num": 220248,
+        "word": "男子3巴掌扇掉电梯门被判刑",
+        "onboard_time": 1752057803,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 339296,
+        "num": 218463,
+        "word": "时团直播主持不是杨若天",
+        "onboard_time": 1752065663,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279190,
+        "num": 217476,
+        "word": "刘宇宁谈如何活出松弛感",
+        "onboard_time": 1752064523,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259771,
+        "num": 216846,
+        "word": "李一桐内娱第一个卡帧演员",
+        "onboard_time": 1752060864,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211524,
+        "num": 211524,
+        "word": "李佳琦开始学科目一",
+        "onboard_time": 1752062723,
+        "rank": 23,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 184490,
+        "num": 184490,
+        "word": "保安开水浇车已道歉并赔偿350元",
+        "onboard_time": 1752065363,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285923,
+        "num": 182830,
+        "word": "时代少年团上海",
+        "onboard_time": 1752062243,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 146773,
+        "num": 174517,
+        "word": "姚伟世界波",
+        "onboard_time": 1752066202,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253225,
+        "num": 172983,
+        "word": "冯建宇直播",
+        "onboard_time": 1752064703,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206618,
+        "num": 164507,
+        "word": "以法之名超点",
+        "onboard_time": 1752056904,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192563,
+        "num": 161019,
+        "word": "Angelababy 妈妈级别",
+        "onboard_time": 1752063982,
+        "rank": 29,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 158188,
+        "num": 158188,
+        "word": "韩国女足vs中国女足",
+        "onboard_time": 1752063384,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146139,
+        "num": 146139,
+        "word": "再婚男给前妻儿子转300万被起诉",
+        "onboard_time": 1752057444,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144407,
+        "num": 144407,
+        "word": "王鹤棣真空西装",
+        "onboard_time": 1752062243,
+        "rank": 32,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 142484,
+        "num": 142484,
+        "word": "18岁男生当NPC救爷爷连跳60天未休",
+        "onboard_time": 1752065484,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140340,
+        "num": 140340,
+        "word": "痛经假",
+        "onboard_time": 1752048323,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139683,
+        "num": 139683,
+        "word": "钎城和小熊的适配度是满分",
+        "onboard_time": 1752066323,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134357,
+        "num": 134357,
+        "word": "内娱撕拉片四大TOP",
+        "onboard_time": 1752050784,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132572,
+        "num": 132572,
+        "word": "月薪过万但只买百元女装的年轻人",
+        "onboard_time": 1752059782,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120269,
+        "num": 120269,
+        "word": "目击者回应男子被吸入飞机引擎身亡",
+        "onboard_time": 1752062363,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 116747,
+        "num": 116747,
+        "word": "伪人父母",
+        "onboard_time": 1752063743,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115079,
+        "num": 115079,
+        "word": "厦门往返鼓浪屿轮渡在海上剧烈摇摆",
+        "onboard_time": 1752062001,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111428,
+        "num": 111428,
+        "word": "巨峰葡萄 白月光",
+        "onboard_time": 1752048202,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 110780,
+        "num": 110780,
+        "word": "杨少华一共有四个儿子",
+        "onboard_time": 1752065183,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109871,
+        "num": 109871,
+        "word": "音乐节 离婚登记",
+        "onboard_time": 1752049343,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108094,
+        "num": 108094,
+        "word": "祝绪丹挑剧本的眼光",
+        "onboard_time": 1752063323,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104250,
+        "num": 104250,
+        "word": "男子偷拿老丈人500万拆迁款后失踪",
+        "onboard_time": 1752061402,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101890,
+        "num": 101890,
+        "word": "登机只需提前15分钟了",
+        "onboard_time": 1752036024,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101923,
+        "num": 101343,
+        "word": "开庭要和对方亲上了",
+        "onboard_time": 1752066503,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100360,
+        "num": 100360,
+        "word": "关晓彤又在说什么八卦",
+        "onboard_time": 1752061224,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100158,
+        "num": 100158,
+        "word": "女校长诈骗5000万花3000万游戏充值",
+        "onboard_time": 1752066083,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记重温抗战烽火岁月#"
+    }
+  }
+}

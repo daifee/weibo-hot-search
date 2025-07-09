@@ -1,6 +1,6 @@
 {
   "startTime": 1751992486281,
-  "endTime": 1752065655584,
+  "endTime": 1752066602224,
   "band_list": [
     {
       "raw_hot": 3968193,
@@ -19,6 +19,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1863370,
+      "num": 1863370,
+      "word": "7月9日将成有史以来最短一天",
+      "onboard_time": 1752063323,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1820962,
       "num": 1820962,
       "word": "杨博文中考479",
@@ -35,14 +43,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1668473,
-      "num": 1668473,
-      "word": "7月9日将成有史以来最短一天",
-      "onboard_time": 1752063323,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1650826,
       "num": 805403,
       "word": "关晓彤换新头像",
@@ -51,7 +51,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1539961,
+      "raw_hot": 1548597,
       "num": 414679,
       "word": "田栩宁ccd",
       "onboard_time": 1752062962,
@@ -163,12 +163,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 981637,
+      "num": 550264,
+      "word": "万海死了",
+      "onboard_time": 1752064463,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 932111,
       "num": 466042,
       "word": "男子称社恐母亲死在家中10年没报警",
       "onboard_time": 1752028221,
       "rank": 11,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 894486,
+      "num": 555765,
+      "word": "万海死在了最接近真相的那天",
+      "onboard_time": 1752063803,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 850787,
@@ -283,14 +299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 678289,
-      "num": 555765,
-      "word": "万海死在了最接近真相的那天",
-      "onboard_time": 1752063803,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 631684,
       "num": 631684,
       "word": "自曝怀孕摆烂没上班女子已销号",
@@ -339,16 +347,8 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 595515,
-      "num": 550264,
-      "word": "万海死了",
-      "onboard_time": 1752064463,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 592936,
-      "num": 410560,
+      "num": 455784,
       "word": "餐馆回应杨少华参加剪彩",
       "onboard_time": 1752065543,
       "rank": 11,
@@ -488,6 +488,14 @@
       "word": "梓渝在BF上了一整年班",
       "onboard_time": 1752032604,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 448097,
+      "num": 348671,
+      "word": "Angelababy 港风还得港女来",
+      "onboard_time": 1752061463,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -659,6 +667,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 341321,
+      "num": 341321,
+      "word": "以法之名大结局",
+      "onboard_time": 1752062843,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 341193,
       "num": 341193,
       "word": "内娱星二代是有出道KPI吗",
@@ -683,11 +699,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 334324,
-      "num": 334324,
-      "word": "Angelababy 港风还得港女来",
-      "onboard_time": 1752061463,
-      "rank": 13,
+      "raw_hot": 339296,
+      "num": 218463,
+      "word": "时团直播主持不是杨若天",
+      "onboard_time": 1752065663,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -771,14 +787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 305698,
-      "num": 267386,
-      "word": "以法之名大结局",
-      "onboard_time": 1752062843,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 303357,
       "num": 383864,
       "word": "将8家台湾地区实体列入出口管制管控",
@@ -825,6 +833,14 @@
       "onboard_time": 1752056904,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 279190,
+      "num": 217476,
+      "word": "刘宇宁谈如何活出松弛感",
+      "onboard_time": 1752064523,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 278587,
@@ -931,6 +947,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 250577,
+      "num": 265593,
+      "word": "胡塞武装公布魔法海洋号被击沉全程",
+      "onboard_time": 1752062482,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 246168,
       "num": 246168,
       "word": "天舟八号受控再入大气层",
@@ -995,6 +1019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224648,
+      "num": 224648,
+      "word": "王大雷扑出亚马尔进球",
+      "onboard_time": 1752065484,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222105,
       "num": 222105,
       "word": "王楚钦vs高承睿",
@@ -1009,6 +1041,14 @@
       "onboard_time": 1752055223,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 211524,
+      "num": 269599,
+      "word": "李佳琦开始学科目一",
+      "onboard_time": 1752062723,
+      "rank": 18,
+      "category": "美妆,网红"
     },
     {
       "raw_hot": 208024,
@@ -1081,14 +1121,6 @@
       "onboard_time": 1752052523,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 202174,
-      "num": 202174,
-      "word": "刘宇宁谈如何活出松弛感",
-      "onboard_time": 1752064523,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 200237,
@@ -1171,28 +1203,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 193847,
-      "num": 269599,
-      "word": "李佳琦开始学科目一",
-      "onboard_time": 1752062723,
-      "rank": 18,
-      "category": "美妆,网红"
-    },
-    {
       "raw_hot": 193430,
       "num": 193430,
       "word": "原神若娜瓦",
       "onboard_time": 1752045083,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 191406,
-      "num": 265593,
-      "word": "胡塞武装公布魔法海洋号被击沉全程",
-      "onboard_time": 1752062482,
-      "rank": 22,
-      "category": "国际时政"
     },
     {
       "raw_hot": 189774,
@@ -1281,6 +1297,14 @@
       "onboard_time": 1751983108,
       "rank": 6,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 184490,
+      "num": 184490,
+      "word": "保安开水浇车已道歉并赔偿350元",
+      "onboard_time": 1752065363,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 183307,
@@ -1515,6 +1539,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 158188,
+      "num": 158188,
+      "word": "韩国女足vs中国女足",
+      "onboard_time": 1752063384,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157897,
       "num": 239305,
       "word": "卖玉米阿姨救大学生称哪怕以命换命",
@@ -1643,6 +1675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146773,
+      "num": 174517,
+      "word": "姚伟世界波",
+      "onboard_time": 1752066202,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145763,
       "num": 155538,
       "word": "Boom最喜欢的中国演员是张凌赫",
@@ -1665,6 +1705,14 @@
       "onboard_time": 1752056244,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142484,
+      "num": 142484,
+      "word": "18岁男生当NPC救爷爷连跳60天未休",
+      "onboard_time": 1752065484,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141861,
@@ -1723,6 +1771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139683,
+      "num": 139683,
+      "word": "钎城和小熊的适配度是满分",
+      "onboard_time": 1752066323,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 139149,
       "num": 691358,
       "word": "男子爱炫精致碳水查出癌症之王",
@@ -1760,14 +1816,6 @@
       "word": "孙颖莎一个劲儿挠头",
       "onboard_time": 1752045022,
       "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 137729,
-      "num": 137729,
-      "word": "王大雷扑出亚马尔进球",
-      "onboard_time": 1752065484,
-      "rank": 36,
       "category": "体育"
     },
     {
@@ -1923,14 +1971,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 132361,
-      "num": 132361,
-      "word": "保安开水浇车已道歉并赔偿350元",
-      "onboard_time": 1752065363,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 132136,
       "num": 132136,
       "word": "各地博物馆把老祖宗的兴趣扒光了",
@@ -1969,14 +2009,6 @@
       "onboard_time": 1752027263,
       "rank": 24,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 129192,
-      "num": 129192,
-      "word": "韩国女足vs中国女足",
-      "onboard_time": 1752063384,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 129002,
@@ -2283,14 +2315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 114029,
-      "num": 114029,
-      "word": "18岁男生当NPC救爷爷连跳60天未休",
-      "onboard_time": 1752065484,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 113598,
       "num": 183228,
       "word": "中国第一艘第一次第一座彰显重大突破",
@@ -2515,11 +2539,27 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 101923,
+      "num": 101343,
+      "word": "开庭要和对方亲上了",
+      "onboard_time": 1752066503,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 101832,
       "num": 406422,
       "word": "大国粮仓的科技范儿",
       "onboard_time": 1752034164,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100158,
+      "num": 100158,
+      "word": "女校长诈骗5000万花3000万游戏充值",
+      "onboard_time": 1752066083,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -2849,6 +2889,14 @@
       "onboard_time": 1751971582,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 67328,
+      "num": 343130,
+      "word": "博主曝怀化一山间焚烧垃圾触目惊心",
+      "onboard_time": 1752066083,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 66546,
