@@ -1,6 +1,6 @@
 {
   "startTime": 1751992486281,
-  "endTime": 1752060261779,
+  "endTime": 1752061221264,
   "band_list": [
     {
       "raw_hot": 3968193,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1803943,
-      "num": 466169,
+      "num": 616869,
       "word": "杨少华上午还在剪彩",
       "onboard_time": 1752058522,
       "rank": 5,
@@ -259,6 +259,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 629839,
+      "num": 629839,
+      "word": "崇礼地震",
+      "onboard_time": 1752059483,
+      "rank": 3,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 624956,
+      "num": 624956,
+      "word": "租客自杀不到一月房子再次出租",
+      "onboard_time": 1752059603,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 618399,
       "num": 618399,
       "word": "音乐节 离婚登记",
@@ -331,20 +347,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 537552,
+      "num": 537552,
+      "word": "网友晒截图称王俊凯挂十六科",
+      "onboard_time": 1752060802,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 532492,
       "num": 403730,
       "word": "13岁男孩脖子洗不干净确诊黑棘皮病",
       "onboard_time": 1752024682,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 527683,
-      "num": 527683,
-      "word": "崇礼地震",
-      "onboard_time": 1752059483,
-      "rank": 3,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 526831,
@@ -401,6 +417,14 @@
       "onboard_time": 1752029243,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 468874,
+      "num": 482819,
+      "word": "考编成绩断崖式领先牵出跨省作弊案",
+      "onboard_time": 1752057383,
+      "rank": 26,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 452059,
@@ -467,14 +491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 393678,
-      "num": 482819,
-      "word": "考编成绩断崖式领先牵出跨省作弊案",
-      "onboard_time": 1752057383,
-      "rank": 26,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 387213,
       "num": 387213,
       "word": "扫毒风暴",
@@ -531,20 +547,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 360891,
+      "num": 360891,
+      "word": "再婚男给前妻儿子转300万被起诉",
+      "onboard_time": 1752057444,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 356190,
       "num": 356190,
       "word": "密室大逃脱",
       "onboard_time": 1752036685,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 351882,
-      "num": 351882,
-      "word": "再婚男给前妻儿子转300万被起诉",
-      "onboard_time": 1752057444,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 351252,
@@ -667,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311071,
+      "num": 311071,
+      "word": "张宥浩喊杨幂姑姑",
+      "onboard_time": 1752061102,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 303357,
       "num": 383864,
       "word": "将8家台湾地区实体列入出口管制管控",
@@ -697,6 +721,14 @@
       "onboard_time": 1752038423,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 278989,
+      "num": 278989,
+      "word": "以法之名超点",
+      "onboard_time": 1752056904,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 278587,
@@ -739,6 +771,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 264062,
+      "num": 264062,
+      "word": "巴黎世家大秀",
+      "onboard_time": 1752056542,
+      "rank": 25,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 260371,
       "num": 191261,
       "word": "扫毒风暴定档0712",
@@ -769,14 +809,6 @@
       "onboard_time": 1752049403,
       "rank": 9,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 250019,
-      "num": 250019,
-      "word": "巴黎世家大秀",
-      "onboard_time": 1752056542,
-      "rank": 25,
-      "category": "时尚"
     },
     {
       "raw_hot": 246168,
@@ -867,6 +899,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 207047,
+      "num": 207047,
+      "word": "男子3巴掌扇掉电梯门被判刑",
+      "onboard_time": 1752057803,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 206115,
       "num": 206115,
       "word": "迪丽热巴黎行晒照",
@@ -921,14 +961,6 @@
       "onboard_time": 1752052523,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 201616,
-      "num": 201616,
-      "word": "以法之名超点",
-      "onboard_time": 1752056904,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 200237,
@@ -1083,28 +1115,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 186508,
-      "num": 186508,
-      "word": "租客自杀不到一月房子再次出租",
-      "onboard_time": 1752059603,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 186424,
       "num": 186424,
       "word": "女孩捡手机险被浪冲走大姨跳海救人",
       "onboard_time": 1752020182,
       "rank": 13,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 186342,
-      "num": 186342,
-      "word": "男子3巴掌扇掉电梯门被判刑",
-      "onboard_time": 1752057803,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 186290,
@@ -1331,6 +1347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158719,
+      "num": 158719,
+      "word": "月薪过万但只买百元女装的年轻人",
+      "onboard_time": 1752059782,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158532,
       "num": 158532,
       "word": "A股放量512亿",
@@ -1409,6 +1433,14 @@
       "onboard_time": 1752056484,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 150142,
+      "num": 135621,
+      "word": "小狗神似灰太狼引3000万网友围观",
+      "onboard_time": 1752059662,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 149802,
@@ -1603,6 +1635,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 135873,
+      "num": 135873,
+      "word": "巴黎高定时装周",
+      "onboard_time": 1752060202,
+      "rank": 42,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 135795,
       "num": 175934,
       "word": "奉劝大家一句上班该摸鱼就摸",
@@ -1648,14 +1688,6 @@
       "word": "噪声扰民严重直接拘",
       "onboard_time": 1751991984,
       "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 134136,
-      "num": 134136,
-      "word": "月薪过万但只买百元女装的年轻人",
-      "onboard_time": 1752059782,
-      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -1739,6 +1771,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 128582,
+      "num": 200921,
+      "word": "董晴谈和谭松韵十年友谊",
+      "onboard_time": 1752059002,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128552,
       "num": 128552,
       "word": "李佳薇回应热搜爆了",
@@ -1801,6 +1841,14 @@
       "onboard_time": 1752046703,
       "rank": 28,
       "category": "艺人,汽车"
+    },
+    {
+      "raw_hot": 125524,
+      "num": 125524,
+      "word": "当地回应一家五口被同村邻居杀害",
+      "onboard_time": 1752060263,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124980,
@@ -1947,12 +1995,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 118688,
-      "num": 154873,
-      "word": "董晴谈和谭松韵十年友谊",
-      "onboard_time": 1752059002,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 117793,
+      "num": 117793,
+      "word": "李一桐内娱第一个卡帧演员",
+      "onboard_time": 1752060864,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 117555,
@@ -2025,6 +2073,14 @@
       "onboard_time": 1752056484,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113161,
+      "num": 113161,
+      "word": "72岁钟镇涛探班女儿彩排",
+      "onboard_time": 1752060742,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 111999,
@@ -2347,6 +2403,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 84258,
+      "num": 84258,
+      "word": "张家口崇礼3.4级地震",
+      "onboard_time": 1752061162,
+      "rank": 49,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 84050,
       "num": 689820,
       "word": "王一博从时尚秀场聊到了晚饭时间",
@@ -2361,14 +2425,6 @@
       "onboard_time": 1752017600,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 81519,
-      "num": 105946,
-      "word": "巴黎高定时装周",
-      "onboard_time": 1752060202,
-      "rank": 42,
-      "category": "时尚"
     },
     {
       "raw_hot": 79479,
@@ -2417,6 +2473,14 @@
       "onboard_time": 1751969123,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 76901,
+      "num": 199130,
+      "word": "手术台上被告知价格没谈拢需换医生",
+      "onboard_time": 1752060082,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76853,
@@ -2665,14 +2729,6 @@
       "onboard_time": 1751993122,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 52808,
-      "num": 138565,
-      "word": "手术台上被告知价格没谈拢需换医生",
-      "onboard_time": 1752060082,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 51038,
