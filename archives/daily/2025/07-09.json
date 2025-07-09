@@ -1,6 +1,6 @@
 {
   "startTime": 1751992486281,
-  "endTime": 1752036028107,
+  "endTime": 1752036971132,
   "band_list": [
     {
       "raw_hot": 1820962,
@@ -27,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1446138,
+      "num": 1446138,
+      "word": "杨洋撕拉片",
+      "onboard_time": 1752034343,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1418599,
       "num": 466926,
       "word": "抢档",
@@ -43,28 +51,20 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 1298595,
-      "num": 1298595,
-      "word": "杨洋撕拉片",
-      "onboard_time": 1752034343,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1072916,
-      "num": 1072916,
-      "word": "王楚钦9比11高承睿",
-      "onboard_time": 1752032725,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1016496,
-      "num": 1016496,
+      "raw_hot": 1199964,
+      "num": 1199964,
       "word": "国家卫健委叫停阿尔茨海默病手术",
       "onboard_time": 1752033686,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1129039,
+      "num": 1129039,
+      "word": "王楚钦9比11高承睿",
+      "onboard_time": 1752032725,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 932111,
@@ -107,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 683844,
+      "num": 683844,
+      "word": "体制内娇妻特权刺破公平底线",
+      "onboard_time": 1752035485,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 596208,
       "num": 824994,
       "word": "妻子去世后丈夫称太痛苦2年没回家",
@@ -121,6 +129,14 @@
       "onboard_time": 1752021623,
       "rank": 1,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 588242,
+      "num": 588242,
+      "word": "迪丽热巴巴黎出图",
+      "onboard_time": 1752031584,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 587901,
@@ -140,19 +156,11 @@
     },
     {
       "raw_hot": 532492,
-      "num": 403244,
+      "num": 403730,
       "word": "13岁男孩脖子洗不干净确诊黑棘皮病",
       "onboard_time": 1752024682,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 530960,
-      "num": 530960,
-      "word": "迪丽热巴巴黎出图",
-      "onboard_time": 1752031584,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 526831,
@@ -179,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 507530,
+      "num": 439501,
+      "word": "闵塔鲨 审美",
+      "onboard_time": 1752034405,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 482800,
       "num": 463481,
       "word": "月薪30万全靠抓知了猴",
@@ -187,12 +203,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 439501,
-      "num": 439501,
-      "word": "闵塔鲨 审美",
-      "onboard_time": 1752034405,
-      "rank": 16,
-      "category": "作品衍生"
+      "raw_hot": 452059,
+      "num": 427571,
+      "word": "梓渝在BF上了一整年班",
+      "onboard_time": 1752032604,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 439308,
@@ -200,14 +216,6 @@
       "word": "36岁沈梦辰生图状态",
       "onboard_time": 1752030803,
       "rank": 4,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 427571,
-      "num": 427571,
-      "word": "梓渝在BF上了一整年班",
-      "onboard_time": 1752032604,
-      "rank": 18,
       "category": "艺人"
     },
     {
@@ -219,11 +227,27 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 407316,
+      "num": 407316,
+      "word": "雪糕刺客开始倒闭了",
+      "onboard_time": 1752034284,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 406536,
       "num": 697718,
       "word": "店员承认用草酸日洗超百斤龙虾",
       "onboard_time": 1751987430,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 396794,
+      "num": 396794,
+      "word": "小狗喜欢捡瓶子一个月能卖860元",
+      "onboard_time": 1752036087,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -283,14 +307,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 350756,
-      "num": 350756,
-      "word": "雪糕刺客开始倒闭了",
-      "onboard_time": 1752034284,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 345680,
       "num": 345680,
       "word": "中国人在日本的英语霸凌",
@@ -316,7 +332,7 @@
     },
     {
       "raw_hot": 327963,
-      "num": 211457,
+      "num": 241627,
       "word": "印度女子深夜逃离家暴却遭4人强奸",
       "onboard_time": 1752021263,
       "rank": 22,
@@ -371,6 +387,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 293064,
+      "num": 293064,
+      "word": "登机只需提前15分钟了",
+      "onboard_time": 1752036024,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 271563,
       "num": 271563,
       "word": "孙颖莎vs高达",
@@ -411,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246407,
+      "num": 260102,
+      "word": "孙一宁见面会",
+      "onboard_time": 1752036266,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 246168,
       "num": 246168,
       "word": "天舟八号受控再入大气层",
@@ -433,6 +465,14 @@
       "onboard_time": 1752015919,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 232649,
+      "num": 470688,
+      "word": "5名未成年男生殴打15岁男生被抓",
+      "onboard_time": 1752034284,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 231028,
@@ -531,14 +571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 193305,
-      "num": 462911,
-      "word": "体制内娇妻特权刺破公平底线",
-      "onboard_time": 1752035485,
-      "rank": 14,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 189774,
       "num": 189774,
       "word": "避暑",
@@ -553,6 +585,14 @@
       "onboard_time": 1752029482,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189116,
+      "num": 252626,
+      "word": "魏哲鸣你是懂我们想看什么的",
+      "onboard_time": 1752036266,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 188778,
@@ -593,14 +633,6 @@
       "onboard_time": 1751983108,
       "rank": 6,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 184846,
-      "num": 470688,
-      "word": "5名未成年男生殴打15岁男生被抓",
-      "onboard_time": 1752034284,
-      "rank": 9,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 183307,
@@ -659,6 +691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161505,
+      "num": 210612,
+      "word": "密室大逃脱",
+      "onboard_time": 1752036685,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154166,
       "num": 696487,
       "word": "湖南发现4.9亿吨锂矿石",
@@ -681,6 +721,22 @@
       "onboard_time": 1751986891,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 151262,
+      "num": 151262,
+      "word": "深圳假名媛被判13年",
+      "onboard_time": 1752036804,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149802,
+      "num": 405836,
+      "word": "AI冒充美国国务卿接触多国官员",
+      "onboard_time": 1752034885,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 147952,
@@ -755,6 +811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137498,
+      "num": 137498,
+      "word": "情侣博主",
+      "onboard_time": 1752035727,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 136579,
       "num": 136579,
       "word": "邱贻可让孙颖莎找回节奏",
@@ -811,12 +875,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 130671,
+      "num": 130671,
+      "word": "赛里木湖美景",
+      "onboard_time": 1752035125,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 130602,
       "num": 176334,
       "word": "美得州洪灾至少161人失踪",
       "onboard_time": 1752027263,
       "rank": 24,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 128290,
+      "num": 128290,
+      "word": "司机不陪乘客聊天被封号3天",
+      "onboard_time": 1752036326,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127743,
@@ -843,20 +923,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 123083,
+      "num": 123083,
+      "word": "on表现",
+      "onboard_time": 1752036865,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 122496,
       "num": 175738,
       "word": "台风丹娜丝特别能下雨",
       "onboard_time": 1752014716,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 122132,
-      "num": 122132,
-      "word": "赛里木湖美景",
-      "onboard_time": 1752035125,
-      "rank": 48,
-      "category": "旅游"
     },
     {
       "raw_hot": 122114,
@@ -923,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110768,
+      "num": 148093,
+      "word": "乌萨奇考过了二级除草证",
+      "onboard_time": 1752033925,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 108137,
       "num": 175844,
       "word": "建议不要临睡前才刷牙",
@@ -964,7 +1052,7 @@
     },
     {
       "raw_hot": 101832,
-      "num": 381632,
+      "num": 406422,
       "word": "大国粮仓的科技范儿",
       "onboard_time": 1752034164,
       "rank": 22,
@@ -1081,14 +1169,6 @@
       "onboard_time": 1751989888,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 78468,
-      "num": 405836,
-      "word": "AI冒充美国国务卿接触多国官员",
-      "onboard_time": 1752034885,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 78189,
@@ -1283,6 +1363,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 60827,
+      "num": 407114,
+      "word": "警方通报未成年遭霸凌后再被滋扰",
+      "onboard_time": 1752036384,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 60665,
       "num": 347733,
       "word": "厦门天雷滚滚下暴雨冰雹了",
@@ -1385,6 +1473,14 @@
       "onboard_time": 1752016880,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 33032,
+      "num": 1306201,
+      "word": "尼山这个论坛要论什么",
+      "onboard_time": 1752035785,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32431,
@@ -1505,14 +1601,6 @@
       "onboard_time": 1752003074,
       "rank": 11,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 10039,
-      "num": 1306201,
-      "word": "尼山这个论坛要论什么",
-      "onboard_time": 1752035785,
-      "rank": 2,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

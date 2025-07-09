@@ -1,0 +1,410 @@
+{
+  "runTime": 1752036971132,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1446138,
+        "num": 1446138,
+        "word": "杨洋撕拉片",
+        "onboard_time": 1752034343,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1199964,
+        "num": 1199964,
+        "word": "国家卫健委叫停阿尔茨海默病手术",
+        "onboard_time": 1752033686,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33032,
+        "num": 1190192,
+        "word": "尼山这个论坛要论什么",
+        "onboard_time": 1752035785,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1396366,
+        "num": 1188353,
+        "word": "杨博文中考479",
+        "onboard_time": 1752030504,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1184347,
+        "num": 1184347,
+        "word": "英皇欠下166亿港元巨债",
+        "onboard_time": 1752032784,
+        "rank": 4,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 1129039,
+        "num": 1129039,
+        "word": "王楚钦9比11高承睿",
+        "onboard_time": 1752032725,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 683844,
+        "num": 683844,
+        "word": "体制内娇妻特权刺破公平底线",
+        "onboard_time": 1752035485,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 588242,
+        "num": 588242,
+        "word": "迪丽热巴巴黎出图",
+        "onboard_time": 1752031584,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 407316,
+        "num": 407316,
+        "word": "雪糕刺客开始倒闭了",
+        "onboard_time": 1752034284,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60827,
+        "num": 407114,
+        "word": "警方通报未成年遭霸凌后再被滋扰",
+        "onboard_time": 1752036384,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1399908,
+        "num": 407039,
+        "word": "女子自曝怀孕期间摆烂上班丈夫是市副处",
+        "onboard_time": 1752022043,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1077067,
+        "num": 406781,
+        "word": "抢档",
+        "onboard_time": 1752028402,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 507530,
+        "num": 406538,
+        "word": "闵塔鲨 审美",
+        "onboard_time": 1752034405,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 79571,
+        "num": 406422,
+        "word": "大国粮仓的科技范儿",
+        "onboard_time": 1752034164,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 499345,
+        "num": 406178,
+        "word": "男子称社恐母亲死在家中10年没报警",
+        "onboard_time": 1752028221,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 452059,
+        "num": 405869,
+        "word": "梓渝在BF上了一整年班",
+        "onboard_time": 1752032604,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438174,
+        "num": 405802,
+        "word": "月薪30万全靠抓知了猴",
+        "onboard_time": 1752029243,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 405646,
+        "num": 405646,
+        "word": "我决定换苹果手机了",
+        "onboard_time": 1752017600,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 386458,
+        "num": 404610,
+        "word": "结石姐得知癌症没扩散后哭了",
+        "onboard_time": 1752031283,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337167,
+        "num": 403924,
+        "word": "电视剧花好官宣",
+        "onboard_time": 1752032004,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 403730,
+        "num": 403730,
+        "word": "13岁男孩脖子洗不干净确诊黑棘皮病",
+        "onboard_time": 1752024682,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 396794,
+        "num": 396794,
+        "word": "小狗喜欢捡瓶子一个月能卖860元",
+        "onboard_time": 1752036087,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 377056,
+        "num": 377056,
+        "word": "中国人均预期寿命79岁",
+        "onboard_time": 1752030442,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316322,
+        "num": 316322,
+        "word": "意大利一男子被吸入飞机引擎身亡",
+        "onboard_time": 1752028943,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 293064,
+        "num": 293064,
+        "word": "登机只需提前15分钟了",
+        "onboard_time": 1752036024,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274730,
+        "num": 274730,
+        "word": "鸟鸟是脱友2内容总导演",
+        "onboard_time": 1752032784,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268994,
+        "num": 268994,
+        "word": "iPhone17Air到底有多薄",
+        "onboard_time": 1752032123,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 246407,
+        "num": 260102,
+        "word": "孙一宁见面会",
+        "onboard_time": 1752036266,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108771,
+        "num": 255304,
+        "word": "人与人之间的感情好像跳楼机",
+        "onboard_time": 1752035245,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189116,
+        "num": 252626,
+        "word": "魏哲鸣你是懂我们想看什么的",
+        "onboard_time": 1752036266,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251284,
+        "num": 251284,
+        "word": "警方通报网传民警违停致人死亡",
+        "onboard_time": 1752027622,
+        "rank": 30,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 250836,
+        "num": 250836,
+        "word": "国乒男队怎么了",
+        "onboard_time": 1752032784,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241627,
+        "num": 241627,
+        "word": "印度女子深夜逃离家暴却遭4人强奸",
+        "onboard_time": 1752021263,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 232649,
+        "num": 232649,
+        "word": "5名未成年男生殴打15岁男生被抓",
+        "onboard_time": 1752034284,
+        "rank": 33,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 161505,
+        "num": 210612,
+        "word": "密室大逃脱",
+        "onboard_time": 1752036685,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207621,
+        "num": 207621,
+        "word": "美国航母数量将降至10艘",
+        "onboard_time": 1752033686,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151262,
+        "num": 151262,
+        "word": "深圳假名媛被判13年",
+        "onboard_time": 1752036804,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150877,
+        "num": 150877,
+        "word": "这两张脸才让人相信一眼万年",
+        "onboard_time": 1752032604,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149802,
+        "num": 149802,
+        "word": "AI冒充美国国务卿接触多国官员",
+        "onboard_time": 1752034885,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110768,
+        "num": 148093,
+        "word": "乌萨奇考过了二级除草证",
+        "onboard_time": 1752033925,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 147733,
+        "num": 147733,
+        "word": "电影罗小黑战记2预售开启",
+        "onboard_time": 1752035666,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 146522,
+        "num": 146522,
+        "word": "将8家台湾地区实体列入出口管制管控",
+        "onboard_time": 1752027083,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 144252,
+        "num": 144252,
+        "word": "陈飞宇发色开出隐藏款了",
+        "onboard_time": 1752035305,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137498,
+        "num": 137498,
+        "word": "情侣博主",
+        "onboard_time": 1752035727,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131805,
+        "num": 131805,
+        "word": "都市版雁回时",
+        "onboard_time": 1752034405,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130671,
+        "num": 130671,
+        "word": "赛里木湖美景",
+        "onboard_time": 1752035125,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 128290,
+        "num": 128290,
+        "word": "司机不陪乘客聊天被封号3天",
+        "onboard_time": 1752036326,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125228,
+        "num": 125228,
+        "word": "北二外成都附中已报案",
+        "onboard_time": 1752032784,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123083,
+        "num": 123083,
+        "word": "on表现",
+        "onboard_time": 1752036865,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118126,
+        "num": 118126,
+        "word": "邱贻可让孙颖莎找回节奏",
+        "onboard_time": 1752035184,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#谱写三晋大地推进中国式现代化新篇章#"
+    }
+  }
+}
