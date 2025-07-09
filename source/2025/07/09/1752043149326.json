@@ -1,0 +1,410 @@
+{
+  "runTime": 1752043149326,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1244609,
+        "num": 1244609,
+        "word": "登机只需提前15分钟了",
+        "onboard_time": 1752036024,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 699467,
+        "num": 699467,
+        "word": "深圳假名媛被判13年",
+        "onboard_time": 1752036804,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38671,
+        "num": 633811,
+        "word": "尼山这个论坛要论什么",
+        "onboard_time": 1752035785,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1835353,
+        "num": 633418,
+        "word": "体制内娇妻特权刺破公平底线",
+        "onboard_time": 1752035485,
+        "rank": 3,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 579010,
+        "num": 579010,
+        "word": "彭昱畅我现在有1.4了",
+        "onboard_time": 1752041842,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 572982,
+        "num": 572982,
+        "word": "杨洋撕拉片",
+        "onboard_time": 1752034343,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 546288,
+        "num": 546288,
+        "word": "小狗喜欢捡瓶子一个月能卖860元",
+        "onboard_time": 1752036087,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 496679,
+        "num": 496679,
+        "word": "大学生饮料开封后喝3天现细菌感染",
+        "onboard_time": 1752037285,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 405125,
+        "num": 405125,
+        "word": "孙一宁勾引女人的事全做了",
+        "onboard_time": 1752041422,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 373393,
+        "num": 373393,
+        "word": "杨博文中考479",
+        "onboard_time": 1752030504,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 662455,
+        "num": 369618,
+        "word": "女子自曝怀孕期间摆烂上班丈夫是市副处",
+        "onboard_time": 1752022043,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352564,
+        "num": 352564,
+        "word": "雪糕刺客开始倒闭了",
+        "onboard_time": 1752034284,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341193,
+        "num": 341193,
+        "word": "内娱星二代是有出道KPI吗",
+        "onboard_time": 1752039082,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321221,
+        "num": 321221,
+        "word": "孙一宁见面会",
+        "onboard_time": 1752036266,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58980,
+        "num": 304137,
+        "word": "纪委介入女子自曝怀孕摆烂不上班",
+        "onboard_time": 1752042682,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303891,
+        "num": 303891,
+        "word": "国家卫健委叫停阿尔茨海默病手术",
+        "onboard_time": 1752033686,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284541,
+        "num": 284541,
+        "word": "英皇欠下166亿港元巨债",
+        "onboard_time": 1752032784,
+        "rank": 16,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 243600,
+        "num": 243600,
+        "word": "密室大逃脱",
+        "onboard_time": 1752036685,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241797,
+        "num": 241797,
+        "word": "抢档",
+        "onboard_time": 1752028402,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44785,
+        "num": 239305,
+        "word": "卖玉米阿姨救大学生称哪怕以命换命",
+        "onboard_time": 1752042082,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74357,
+        "num": 238430,
+        "word": "中国基建下一步适度超前不过度超前",
+        "onboard_time": 1752038244,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 238372,
+        "num": 238372,
+        "word": "LPL锁定四张S赛门票",
+        "onboard_time": 1752041901,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 233323,
+        "num": 233323,
+        "word": "我决定换苹果手机了",
+        "onboard_time": 1752017600,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211862,
+        "num": 211862,
+        "word": "男子称社恐母亲死在家中10年没报警",
+        "onboard_time": 1752028221,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 207734,
+        "num": 207734,
+        "word": "巨改善脖子前倾的15天有效法",
+        "onboard_time": 1752037403,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 198217,
+        "num": 198217,
+        "word": "孟子义杂志",
+        "onboard_time": 1752041362,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179165,
+        "num": 179165,
+        "word": "13岁男孩脖子洗不干净确诊黑棘皮病",
+        "onboard_time": 1752024682,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162546,
+        "num": 162546,
+        "word": "迪丽热巴巴黎出图",
+        "onboard_time": 1752031584,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133096,
+        "num": 160061,
+        "word": "中国人均预期寿命79岁",
+        "onboard_time": 1752030442,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21935,
+        "num": 159165,
+        "word": "英国地铁车厢四十多度",
+        "onboard_time": 1752042143,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 162651,
+        "num": 159130,
+        "word": "意大利一男子被吸入飞机引擎身亡",
+        "onboard_time": 1752028943,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 159086,
+        "num": 159086,
+        "word": "司机不陪乘客聊天被封号3天",
+        "onboard_time": 1752036326,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154056,
+        "num": 154056,
+        "word": "闵塔鲨 审美",
+        "onboard_time": 1752034405,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150274,
+        "num": 150274,
+        "word": "陈柏霖回应婚讯",
+        "onboard_time": 1752037884,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143206,
+        "num": 143206,
+        "word": "周杰伦概念股飞涨超9成",
+        "onboard_time": 1752039562,
+        "rank": 34,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 142543,
+        "num": 142543,
+        "word": "iPhone17Air到底有多薄",
+        "onboard_time": 1752032123,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 134337,
+        "num": 134337,
+        "word": "外卖商家赔钱参战",
+        "onboard_time": 1752041602,
+        "rank": 36,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 124528,
+        "num": 124528,
+        "word": "海贼王 黑胡子",
+        "onboard_time": 1752039742,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 124199,
+        "num": 124199,
+        "word": "梓渝在BF上了一整年班",
+        "onboard_time": 1752032604,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15832,
+        "num": 121603,
+        "word": "卡维好美的琴声",
+        "onboard_time": 1752037403,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119958,
+        "num": 119958,
+        "word": "孙颖莎赛后叽里咕噜复盘",
+        "onboard_time": 1752041842,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117967,
+        "num": 117967,
+        "word": "扫毒风暴预告",
+        "onboard_time": 1752042801,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108963,
+        "num": 108963,
+        "word": "赵今麦张凌赫为学手势双双抽筋",
+        "onboard_time": 1752039862,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106875,
+        "num": 106875,
+        "word": "BLG战胜Fly",
+        "onboard_time": 1752040222,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106405,
+        "num": 106405,
+        "word": "AI评徐志胜是三线小明星",
+        "onboard_time": 1752042982,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105921,
+        "num": 105921,
+        "word": "她不是懒她是小时候没有坦然地活",
+        "onboard_time": 1752039324,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104562,
+        "num": 104562,
+        "word": "张新成有时候可以不用这么听劝",
+        "onboard_time": 1752042442,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102477,
+        "num": 102477,
+        "word": "国乒男队怎么了",
+        "onboard_time": 1752032784,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100888,
+        "num": 100888,
+        "word": "幼儿血铅两地检测结果悬殊需彻查真相",
+        "onboard_time": 1752043042,
+        "rank": 48,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 99747,
+        "num": 99747,
+        "word": "肖战玩丑特效",
+        "onboard_time": 1752038423,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#谱写三晋大地推进中国式现代化新篇章#"
+    }
+  }
+}

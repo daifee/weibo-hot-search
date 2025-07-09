@@ -1,6 +1,6 @@
 {
   "startTime": 1751992486281,
-  "endTime": 1752040103395,
+  "endTime": 1752043149326,
   "band_list": [
     {
       "raw_hot": 2110615,
@@ -131,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 699467,
+      "num": 699467,
+      "word": "深圳假名媛被判13年",
+      "onboard_time": 1752036804,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 596208,
       "num": 824994,
       "word": "妻子去世后丈夫称太痛苦2年没回家",
@@ -161,6 +169,14 @@
       "onboard_time": 1752018680,
       "rank": 4,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 579010,
+      "num": 579010,
+      "word": "彭昱畅我现在有1.4了",
+      "onboard_time": 1752041842,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 559667,
@@ -227,6 +243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 496679,
+      "num": 496679,
+      "word": "大学生饮料开封后喝3天现细菌感染",
+      "onboard_time": 1752037285,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 482800,
       "num": 463481,
       "word": "月薪30万全靠抓知了猴",
@@ -273,6 +297,14 @@
       "onboard_time": 1751987430,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 405125,
+      "num": 405125,
+      "word": "孙一宁勾引女人的事全做了",
+      "onboard_time": 1752041422,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 387213,
@@ -347,6 +379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 341193,
+      "num": 341193,
+      "word": "内娱星二代是有出道KPI吗",
+      "onboard_time": 1752039082,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 340941,
       "num": 694213,
       "word": "警方通报大三女生和男友双双坠亡",
@@ -361,14 +401,6 @@
       "onboard_time": 1752016700,
       "rank": 23,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 329823,
-      "num": 508703,
-      "word": "深圳假名媛被判13年",
-      "onboard_time": 1752036804,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 327963,
@@ -499,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 238372,
+      "num": 238372,
+      "word": "LPL锁定四张S赛门票",
+      "onboard_time": 1752041901,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 232649,
       "num": 470688,
       "word": "5名未成年男生殴打15岁男生被抓",
@@ -537,14 +577,6 @@
       "onboard_time": 1752032604,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 206157,
-      "num": 245934,
-      "word": "内娱星二代是有出道KPI吗",
-      "onboard_time": 1752039082,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 203643,
@@ -601,6 +633,14 @@
       "onboard_time": 1751981664,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198217,
+      "num": 198217,
+      "word": "孟子义杂志",
+      "onboard_time": 1752041362,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 196219,
@@ -779,11 +819,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 164272,
-      "num": 164272,
-      "word": "大学生饮料开封后喝3天现细菌感染",
-      "onboard_time": 1752037285,
-      "rank": 38,
+      "raw_hot": 159086,
+      "num": 212373,
+      "word": "司机不陪乘客聊天被封号3天",
+      "onboard_time": 1752036326,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -931,6 +971,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 134337,
+      "num": 134337,
+      "word": "外卖商家赔钱参战",
+      "onboard_time": 1752041602,
+      "rank": 36,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 134164,
       "num": 689637,
       "word": "噪声扰民严重直接拘",
@@ -945,14 +993,6 @@
       "onboard_time": 1751975423,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 132342,
-      "num": 212373,
-      "word": "司机不陪乘客聊天被封号3天",
-      "onboard_time": 1752036326,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 132136,
@@ -1027,6 +1067,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124528,
+      "num": 124528,
+      "word": "海贼王 黑胡子",
+      "onboard_time": 1752039742,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 122496,
       "num": 175738,
       "word": "台风丹娜丝特别能下雨",
@@ -1041,6 +1089,14 @@
       "onboard_time": 1752033325,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119958,
+      "num": 119958,
+      "word": "孙颖莎赛后叽里咕噜复盘",
+      "onboard_time": 1752041842,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 119947,
@@ -1065,6 +1121,14 @@
       "onboard_time": 1752038544,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 117967,
+      "num": 117967,
+      "word": "扫毒风暴预告",
+      "onboard_time": 1752042801,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 117201,
@@ -1107,14 +1171,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 112712,
-      "num": 112712,
-      "word": "海贼王 黑胡子",
-      "onboard_time": 1752039742,
-      "rank": 47,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 111999,
       "num": 693455,
       "word": "王青闺女",
@@ -1132,7 +1188,7 @@
     },
     {
       "raw_hot": 110241,
-      "num": 110241,
+      "num": 238430,
       "word": "中国基建下一步适度超前不过度超前",
       "onboard_time": 1752038244,
       "rank": 49,
@@ -1153,6 +1209,30 @@
       "onboard_time": 1752017241,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 106875,
+      "num": 106875,
+      "word": "BLG战胜Fly",
+      "onboard_time": 1752040222,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 106405,
+      "num": 106405,
+      "word": "AI评徐志胜是三线小明星",
+      "onboard_time": 1752042982,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 104562,
+      "num": 104562,
+      "word": "张新成有时候可以不用这么听劝",
+      "onboard_time": 1752042442,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 102550,
@@ -1185,6 +1265,14 @@
       "onboard_time": 1752034164,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100888,
+      "num": 100888,
+      "word": "幼儿血铅两地检测结果悬殊需彻查真相",
+      "onboard_time": 1752043042,
+      "rank": 48,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 93740,
@@ -1523,6 +1611,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 58980,
+      "num": 304137,
+      "word": "纪委介入女子自曝怀孕摆烂不上班",
+      "onboard_time": 1752042682,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58159,
       "num": 58159,
       "word": "国外富豪让宠物狮子攻击员工以取乐",
@@ -1569,6 +1665,14 @@
       "onboard_time": 1752038962,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 44785,
+      "num": 239305,
+      "word": "卖玉米阿姨救大学生称哪怕以命换命",
+      "onboard_time": 1752042082,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43957,
@@ -1707,6 +1811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 21935,
+      "num": 159165,
+      "word": "英国地铁车厢四十多度",
+      "onboard_time": 1752042143,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 21120,
       "num": 62104,
       "word": "法修散打",
@@ -1745,6 +1857,14 @@
       "onboard_time": 1752006974,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 15832,
+      "num": 121603,
+      "word": "卡维好美的琴声",
+      "onboard_time": 1752037403,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 12312,
