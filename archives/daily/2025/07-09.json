@@ -1,9 +1,9 @@
 {
   "startTime": 1751992486281,
-  "endTime": 1752039065118,
+  "endTime": 1752040103395,
   "band_list": [
     {
-      "raw_hot": 1985010,
+      "raw_hot": 2110615,
       "num": 1985010,
       "word": "体制内娇妻特权刺破公平底线",
       "onboard_time": 1752035485,
@@ -59,6 +59,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 1253983,
+      "num": 1253983,
+      "word": "登机只需提前15分钟了",
+      "onboard_time": 1752036024,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1199964,
       "num": 1199964,
       "word": "国家卫健委叫停阿尔茨海默病手术",
@@ -81,14 +89,6 @@
       "onboard_time": 1752028221,
       "rank": 11,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 900902,
-      "num": 900902,
-      "word": "登机只需提前15分钟了",
-      "onboard_time": 1752036024,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 835178,
@@ -323,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 356190,
+      "num": 356190,
+      "word": "密室大逃脱",
+      "onboard_time": 1752036685,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 351252,
       "num": 435901,
       "word": "警方通报网传民警违停致人死亡",
@@ -353,6 +361,14 @@
       "onboard_time": 1752016700,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 329823,
+      "num": 508703,
+      "word": "深圳假名媛被判13年",
+      "onboard_time": 1752036804,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 327963,
@@ -409,14 +425,6 @@
       "onboard_time": 1752032123,
       "rank": 34,
       "category": "数码"
-    },
-    {
-      "raw_hot": 291527,
-      "num": 291527,
-      "word": "密室大逃脱",
-      "onboard_time": 1752036685,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 287763,
@@ -531,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206157,
+      "num": 245934,
+      "word": "内娱星二代是有出道KPI吗",
+      "onboard_time": 1752039082,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203643,
       "num": 697019,
       "word": "白鹿七月最忙碌的一天",
@@ -561,6 +577,14 @@
       "onboard_time": 1752032725,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 199622,
+      "num": 199622,
+      "word": "肖战手势变装转场",
+      "onboard_time": 1752038962,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 198901,
@@ -675,6 +699,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 183152,
+      "num": 183152,
+      "word": "赵今麦张凌赫为学手势双双抽筋",
+      "onboard_time": 1752039862,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178238,
       "num": 178238,
       "word": "美得州洪灾灾区市长含泪哭诉",
@@ -771,20 +803,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153226,
+      "num": 153226,
+      "word": "周杰伦概念股飞涨超9成",
+      "onboard_time": 1752039562,
+      "rank": 32,
+      "category": "艺人,财经"
+    },
+    {
       "raw_hot": 151510,
       "num": 693796,
       "word": "谈恋爱要从朋友开始",
       "onboard_time": 1751986891,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 151262,
-      "num": 508703,
-      "word": "深圳假名媛被判13年",
-      "onboard_time": 1752036804,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 149802,
@@ -916,7 +948,7 @@
     },
     {
       "raw_hot": 132342,
-      "num": 132342,
+      "num": 212373,
       "word": "司机不陪乘客聊天被封号3天",
       "onboard_time": 1752036326,
       "rank": 46,
@@ -963,6 +995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127524,
+      "num": 127524,
+      "word": "她不是懒她是小时候没有坦然地活",
+      "onboard_time": 1752039324,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 127195,
       "num": 692989,
       "word": "景区回应NPC蓝狐狸被曝婚内出轨粉丝",
@@ -985,14 +1025,6 @@
       "onboard_time": 1752036865,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 122544,
-      "num": 122544,
-      "word": "肖战手势变装转场",
-      "onboard_time": 1752038962,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 122496,
@@ -1059,8 +1091,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 113783,
-      "num": 113783,
+      "raw_hot": 114384,
+      "num": 114384,
       "word": "华语乐坛没有第二个王心凌的原因",
       "onboard_time": 1752038723,
       "rank": 48,
@@ -1073,6 +1105,14 @@
       "onboard_time": 1752029724,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 112712,
+      "num": 112712,
+      "word": "海贼王 黑胡子",
+      "onboard_time": 1752039742,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 111999,
@@ -1331,6 +1371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 71622,
+      "num": 288655,
+      "word": "检方对入室抢婴案买主夫妇不起诉",
+      "onboard_time": 1752038484,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71610,
       "num": 71610,
       "word": "切尔西晋级世俱杯决赛",
@@ -1523,7 +1571,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 41273,
+      "raw_hot": 43957,
       "num": 1306201,
       "word": "尼山这个论坛要论什么",
       "onboard_time": 1752035785,
@@ -1563,20 +1611,20 @@
       "category": "艺人,休闲"
     },
     {
+      "raw_hot": 38919,
+      "num": 130677,
+      "word": "黎深冬日",
+      "onboard_time": 1752037524,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 37908,
       "num": 56744,
       "word": "曾毅需遵医嘱休养",
       "onboard_time": 1752016880,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 35568,
-      "num": 288655,
-      "word": "检方对入室抢婴案买主夫妇不起诉",
-      "onboard_time": 1752038484,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32837,
