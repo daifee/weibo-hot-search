@@ -1,6 +1,6 @@
 {
   "startTime": 1751992486281,
-  "endTime": 1752058047324,
+  "endTime": 1752060261779,
   "band_list": [
     {
       "raw_hot": 3968193,
@@ -24,6 +24,14 @@
       "word": "杨博文中考479",
       "onboard_time": 1752030504,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1803943,
+      "num": 466169,
+      "word": "杨少华上午还在剪彩",
+      "onboard_time": 1752058522,
+      "rank": 5,
       "category": "艺人"
     },
     {
@@ -331,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 527683,
+      "num": 527683,
+      "word": "崇礼地震",
+      "onboard_time": 1752059483,
+      "rank": 3,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 526831,
       "num": 821029,
       "word": "演唱会抢票难度排行榜",
@@ -395,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 445015,
+      "num": 445015,
+      "word": "Angelababy解锁全新高定",
+      "onboard_time": 1752058582,
+      "rank": 6,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 443844,
       "num": 443844,
       "word": "男子地铁上猥亵女生被便衣当场抓捕",
@@ -441,6 +465,14 @@
       "onboard_time": 1751987430,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 393678,
+      "num": 482819,
+      "word": "考编成绩断崖式领先牵出跨省作弊案",
+      "onboard_time": 1752057383,
+      "rank": 26,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 387213,
@@ -507,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 351882,
+      "num": 351882,
+      "word": "再婚男给前妻儿子转300万被起诉",
+      "onboard_time": 1752057444,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 351252,
       "num": 435901,
       "word": "警方通报网传民警违停致人死亡",
@@ -529,6 +569,14 @@
       "onboard_time": 1752050722,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 344120,
+      "num": 344120,
+      "word": "王者荣耀",
+      "onboard_time": 1752059722,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 341193,
@@ -723,6 +771,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 250019,
+      "num": 250019,
+      "word": "巴黎世家大秀",
+      "onboard_time": 1752056542,
+      "rank": 25,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 246168,
       "num": 246168,
       "word": "天舟八号受控再入大气层",
@@ -787,14 +843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 218008,
-      "num": 218008,
-      "word": "巴黎世家大秀",
-      "onboard_time": 1752056542,
-      "rank": 25,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 214215,
       "num": 347095,
       "word": "中方回应美将限制中国公民在美买农田",
@@ -816,6 +864,14 @@
       "word": "王一博乡村与荒野的清新之风",
       "onboard_time": 1752053722,
       "rank": 24,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 206115,
+      "num": 206115,
+      "word": "迪丽热巴黎行晒照",
+      "onboard_time": 1752059422,
+      "rank": 17,
       "category": "艺人,时尚"
     },
     {
@@ -1003,6 +1059,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 188280,
+      "num": 189922,
+      "word": "原神",
+      "onboard_time": 1752059543,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188001,
       "num": 188001,
       "word": "脱口秀演员不能上音综",
@@ -1019,12 +1083,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186508,
+      "num": 186508,
+      "word": "租客自杀不到一月房子再次出租",
+      "onboard_time": 1752059603,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186424,
       "num": 186424,
       "word": "女孩捡手机险被浪冲走大姨跳海救人",
       "onboard_time": 1752020182,
       "rank": 13,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 186342,
+      "num": 186342,
+      "word": "男子3巴掌扇掉电梯门被判刑",
+      "onboard_time": 1752057803,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186290,
@@ -1065,14 +1145,6 @@
       "onboard_time": 1752043940,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 180620,
-      "num": 180620,
-      "word": "再婚男给前妻儿子转300万被起诉",
-      "onboard_time": 1752057444,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 178359,
@@ -1177,14 +1249,6 @@
       "onboard_time": 1752050303,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 168555,
-      "num": 168555,
-      "word": "考编成绩断崖式领先牵出跨省作弊案",
-      "onboard_time": 1752057383,
-      "rank": 26,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 168550,
@@ -1355,6 +1419,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 148650,
+      "num": 148650,
+      "word": "王珞丹短发",
+      "onboard_time": 1752059483,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148358,
       "num": 326767,
       "word": "吃知味观小笼包疑发现动物粪球",
@@ -1377,6 +1449,14 @@
       "onboard_time": 1752032784,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145763,
+      "num": 155538,
+      "word": "Boom最喜欢的中国演员是张凌赫",
+      "onboard_time": 1752058702,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 144817,
@@ -1467,6 +1547,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 139052,
+      "num": 139052,
+      "word": "鹿晗厦门站预售",
+      "onboard_time": 1752058882,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 138079,
       "num": 138079,
       "word": "孙颖莎一个劲儿挠头",
@@ -1497,6 +1585,14 @@
       "onboard_time": 1752035184,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136502,
+      "num": 136502,
+      "word": "杨超越看秀高定造型",
+      "onboard_time": 1752059483,
+      "rank": 35,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 136220,
@@ -1552,6 +1648,14 @@
       "word": "噪声扰民严重直接拘",
       "onboard_time": 1751991984,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134136,
+      "num": 134136,
+      "word": "月薪过万但只买百元女装的年轻人",
+      "onboard_time": 1752059782,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -1755,14 +1859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122798,
-      "num": 122798,
-      "word": "男子3巴掌扇掉电梯门被判刑",
-      "onboard_time": 1752057803,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 122496,
       "num": 175738,
       "word": "台风丹娜丝特别能下雨",
@@ -1793,6 +1889,14 @@
       "onboard_time": 1752033325,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121411,
+      "num": 121411,
+      "word": "钟无艳戍鼓铭心皮肤",
+      "onboard_time": 1752059662,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 119958,
@@ -1841,6 +1945,14 @@
       "onboard_time": 1752038544,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 118688,
+      "num": 154873,
+      "word": "董晴谈和谭松韵十年友谊",
+      "onboard_time": 1752059002,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 117555,
@@ -2059,6 +2171,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 104329,
+      "num": 104329,
+      "word": "欧委会主席要求中国限制与俄合作",
+      "onboard_time": 1752059963,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 103850,
+      "num": 103827,
+      "word": "杨光的快乐生活",
+      "onboard_time": 1752059543,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102550,
       "num": 692095,
       "word": "十位老兵的抗战故事",
@@ -2233,6 +2361,14 @@
       "onboard_time": 1752017600,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 81519,
+      "num": 105946,
+      "word": "巴黎高定时装周",
+      "onboard_time": 1752060202,
+      "rank": 42,
+      "category": "时尚"
     },
     {
       "raw_hot": 79479,
@@ -2529,6 +2665,14 @@
       "onboard_time": 1751993122,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 52808,
+      "num": 138565,
+      "word": "手术台上被告知价格没谈拢需换医生",
+      "onboard_time": 1752060082,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51038,

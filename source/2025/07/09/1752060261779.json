@@ -1,0 +1,410 @@
+{
+  "runTime": 1752060261779,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2894072,
+        "num": 2894072,
+        "word": "杨少华去世",
+        "onboard_time": 1752055762,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1028208,
+        "num": 1028208,
+        "word": "左氧佛沙星 跟腱断裂",
+        "onboard_time": 1752047661,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 28447,
+        "num": 638347,
+        "word": "一图速览十四五经济社会发展成就",
+        "onboard_time": 1752043824,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 527683,
+        "num": 527683,
+        "word": "崇礼地震",
+        "onboard_time": 1752059483,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 393678,
+        "num": 482819,
+        "word": "考编成绩断崖式领先牵出跨省作弊案",
+        "onboard_time": 1752057383,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1803943,
+        "num": 466169,
+        "word": "杨少华上午还在剪彩",
+        "onboard_time": 1752058522,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 445015,
+        "num": 445015,
+        "word": "Angelababy解锁全新高定",
+        "onboard_time": 1752058582,
+        "rank": 6,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 396192,
+        "num": 396192,
+        "word": "内娱撕拉片四大TOP",
+        "onboard_time": 1752050784,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351882,
+        "num": 351882,
+        "word": "再婚男给前妻儿子转300万被起诉",
+        "onboard_time": 1752057444,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 344120,
+        "num": 344120,
+        "word": "王者荣耀",
+        "onboard_time": 1752059722,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 666413,
+        "num": 325880,
+        "word": "黄子韬徐艺洋 生理性喜欢",
+        "onboard_time": 1752049703,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298290,
+        "num": 298290,
+        "word": "拒绝填报清华北大遭怒骂",
+        "onboard_time": 1752050722,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273564,
+        "num": 273564,
+        "word": "自曝怀孕摆烂没上班女子已销号",
+        "onboard_time": 1752051742,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250603,
+        "num": 250603,
+        "word": "痛经假",
+        "onboard_time": 1752048323,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 250019,
+        "num": 250019,
+        "word": "巴黎世家大秀",
+        "onboard_time": 1752056542,
+        "rank": 14,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 236744,
+        "num": 236744,
+        "word": "巨峰葡萄 白月光",
+        "onboard_time": 1752048202,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 211707,
+        "num": 211707,
+        "word": "谭松韵董晴耿耿和贝塔最好的售后",
+        "onboard_time": 1752056363,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206115,
+        "num": 206115,
+        "word": "迪丽热巴黎行晒照",
+        "onboard_time": 1752059422,
+        "rank": 17,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 201917,
+        "num": 201917,
+        "word": "登机只需提前15分钟了",
+        "onboard_time": 1752036024,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190913,
+        "num": 190913,
+        "word": "以法之名超点",
+        "onboard_time": 1752056904,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216300,
+        "num": 190376,
+        "word": "女子自曝怀孕期间摆烂上班丈夫是市副处",
+        "onboard_time": 1752022043,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188280,
+        "num": 189922,
+        "word": "原神",
+        "onboard_time": 1752059543,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189588,
+        "num": 189588,
+        "word": "方圆脸最适合的发型",
+        "onboard_time": 1752051143,
+        "rank": 22,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 186508,
+        "num": 186508,
+        "word": "租客自杀不到一月房子再次出租",
+        "onboard_time": 1752059603,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186342,
+        "num": 186342,
+        "word": "男子3巴掌扇掉电梯门被判刑",
+        "onboard_time": 1752057803,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178438,
+        "num": 178438,
+        "word": "杨紫粉色挂脖流光裙",
+        "onboard_time": 1752051203,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166227,
+        "num": 166227,
+        "word": "音乐节 离婚登记",
+        "onboard_time": 1752049343,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145763,
+        "num": 155538,
+        "word": "Boom最喜欢的中国演员是张凌赫",
+        "onboard_time": 1752058702,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 118688,
+        "num": 154873,
+        "word": "董晴谈和谭松韵十年友谊",
+        "onboard_time": 1752059002,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154550,
+        "num": 154550,
+        "word": "怀孕女子称老公为市里副处不实",
+        "onboard_time": 1752051563,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148650,
+        "num": 148650,
+        "word": "王珞丹短发",
+        "onboard_time": 1752059483,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147333,
+        "num": 147333,
+        "word": "枭起青壤 定档",
+        "onboard_time": 1752043940,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139052,
+        "num": 139052,
+        "word": "鹿晗厦门站预售",
+        "onboard_time": 1752058882,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 52808,
+        "num": 138565,
+        "word": "手术台上被告知价格没谈拢需换医生",
+        "onboard_time": 1752060082,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138457,
+        "num": 138457,
+        "word": "女校长涉嫌诈骗数千万后跳江身亡",
+        "onboard_time": 1752055342,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136502,
+        "num": 136502,
+        "word": "杨超越看秀高定造型",
+        "onboard_time": 1752059483,
+        "rank": 35,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 134136,
+        "num": 134136,
+        "word": "月薪过万但只买百元女装的年轻人",
+        "onboard_time": 1752059782,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133871,
+        "num": 133871,
+        "word": "国办印发通知激励企业扩岗吸纳就业",
+        "onboard_time": 1752055103,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122663,
+        "num": 122663,
+        "word": "自曝孕早期摆烂女子系紧缺人才身份入编",
+        "onboard_time": 1752055702,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121411,
+        "num": 121411,
+        "word": "钟无艳戍鼓铭心皮肤",
+        "onboard_time": 1752059662,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110332,
+        "num": 110332,
+        "word": "怪不得外国网购平台在中国玩不转",
+        "onboard_time": 1752057323,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106547,
+        "num": 106547,
+        "word": "杨博文中考479",
+        "onboard_time": 1752030504,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81519,
+        "num": 105946,
+        "word": "巴黎高定时装周",
+        "onboard_time": 1752060202,
+        "rank": 42,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 105361,
+        "num": 105361,
+        "word": "人民日报呼吁同志称呼重归主流",
+        "onboard_time": 1752045982,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105033,
+        "num": 105033,
+        "word": "媒体曝光特朗普威胁普京录音",
+        "onboard_time": 1752046882,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104329,
+        "num": 104329,
+        "word": "欧委会主席要求中国限制与俄合作",
+        "onboard_time": 1752059963,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 103830,
+        "num": 103830,
+        "word": "溢价买的labubu开线被拒绝售后",
+        "onboard_time": 1752052523,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103850,
+        "num": 103827,
+        "word": "杨光的快乐生活",
+        "onboard_time": 1752059543,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103821,
+        "num": 103821,
+        "word": "杨紫大学看李现张一山篮球赛",
+        "onboard_time": 1752048683,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101839,
+        "num": 101839,
+        "word": "孙一宁还媚呢出大事了",
+        "onboard_time": 1752051682,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记重温抗战烽火岁月#"
+    }
+  }
+}
