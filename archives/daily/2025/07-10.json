@@ -1,6 +1,6 @@
 {
   "startTime": 1752078814060,
-  "endTime": 1752099977024,
+  "endTime": 1752101053099,
   "band_list": [
     {
       "raw_hot": 1064633,
@@ -211,6 +211,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133620,
+      "num": 133620,
+      "word": "男子称在西湖景区穿汉服拍照遭驱赶",
+      "onboard_time": 1752078441,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132219,
+      "num": 132219,
+      "word": "巴黎圣日耳曼4比0皇马",
+      "onboard_time": 1752100878,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128784,
       "num": 128784,
       "word": "考编成绩断崖式领先牵出跨省作弊案",
@@ -225,6 +241,14 @@
       "onboard_time": 1752075143,
       "rank": 28,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 126173,
+      "num": 126173,
+      "word": "媒体评尖子生高考575分被赶出家门",
+      "onboard_time": 1752085336,
+      "rank": 30,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 118473,
@@ -281,22 +305,6 @@
       "onboard_time": 1752075083,
       "rank": 35,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 100284,
-      "num": 93435,
-      "word": "媒体评尖子生高考575分被赶出家门",
-      "onboard_time": 1752085336,
-      "rank": 30,
-      "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 94094,
-      "num": 96030,
-      "word": "男子称在西湖景区穿汉服拍照遭驱赶",
-      "onboard_time": 1752078441,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93936,
@@ -379,6 +387,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82518,
+      "num": 82518,
+      "word": "威海被生母殴打致死5岁男童已入土",
+      "onboard_time": 1752081318,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80569,
+      "num": 80569,
+      "word": "青海1岁半幼童走失12个小时被找回",
+      "onboard_time": 1752080179,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80533,
+      "num": 80533,
+      "word": "敢跟谢霆锋这么说话的只有阿Sa",
+      "onboard_time": 1752097876,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 79976,
       "num": 79976,
       "word": "曾舜晞请剧组吃火锅",
@@ -419,36 +451,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 72086,
+      "num": 72086,
+      "word": "中国5年再造广东江苏山东3个经济大省",
+      "onboard_time": 1752080479,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70462,
       "num": 70462,
       "word": "若事与愿违请相信是另有安排",
       "onboard_time": 1752077062,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 65422,
-      "num": 65422,
-      "word": "青海1岁半幼童走失12个小时被找回",
-      "onboard_time": 1752080179,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 63793,
-      "num": 63793,
-      "word": "威海被生母殴打致死5岁男童已入土",
-      "onboard_time": 1752081318,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 63547,
-      "num": 63547,
-      "word": "中国5年再造广东江苏山东3个经济大省",
-      "onboard_time": 1752080479,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 63028,
@@ -467,16 +483,8 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 51781,
-      "num": 51781,
-      "word": "敢跟谢霆锋这么说话的只有阿Sa",
-      "onboard_time": 1752097876,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 50518,
-      "num": 50518,
+      "raw_hot": 50682,
+      "num": 50682,
       "word": "周杰伦昆凌儿子8岁近照",
       "onboard_time": 1752074723,
       "rank": 32,
@@ -507,11 +515,27 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 41248,
+      "num": 41248,
+      "word": "父母不让远嫁的8年婚姻生活",
+      "onboard_time": 1752087135,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39933,
       "num": 44633,
       "word": "再婚父亲向女儿索要赠款用于还债",
       "onboard_time": 1752082277,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37979,
+      "num": 37979,
+      "word": "多名男子光脚躺华南农大图书馆沙发",
+      "onboard_time": 1752089235,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -521,6 +545,14 @@
       "onboard_time": 1752072504,
       "rank": 49,
       "category": "财经,数码"
+    },
+    {
+      "raw_hot": 36539,
+      "num": 36539,
+      "word": "肖战拍了对视转场",
+      "onboard_time": 1752097454,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 35216,
@@ -547,28 +579,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 25647,
-      "num": 25647,
-      "word": "父母不让远嫁的8年婚姻生活",
-      "onboard_time": 1752087135,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25309,
-      "num": 25309,
-      "word": "多名男子光脚躺华南农大图书馆沙发",
-      "onboard_time": 1752089235,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24959,
-      "num": 24959,
-      "word": "肖战拍了对视转场",
-      "onboard_time": 1752097454,
-      "rank": 39,
-      "category": "艺人"
+      "raw_hot": 23580,
+      "num": 36968,
+      "word": "尹锡悦将被押往看守所",
+      "onboard_time": 1752091814,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 23259,
@@ -577,14 +593,6 @@
       "onboard_time": 1752081858,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23167,
-      "num": 36968,
-      "word": "尹锡悦将被押往看守所",
-      "onboard_time": 1752091814,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 23071,
@@ -641,6 +649,14 @@
       "onboard_time": 1752088155,
       "rank": 15,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 11674,
+      "num": 30420,
+      "word": "律师称车祸赔偿无关婚约道义",
+      "onboard_time": 1752100997,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10068,
