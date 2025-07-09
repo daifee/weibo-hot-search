@@ -1,0 +1,410 @@
+{
+  "runTime": 1752039065118,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1985010,
+        "num": 1985010,
+        "word": "体制内娇妻特权刺破公平底线",
+        "onboard_time": 1752035485,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1225411,
+        "num": 1225411,
+        "word": "杨洋撕拉片",
+        "onboard_time": 1752034343,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41273,
+        "num": 1088580,
+        "word": "尼山这个论坛要论什么",
+        "onboard_time": 1752035785,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1068606,
+        "num": 1068606,
+        "word": "国家卫健委叫停阿尔茨海默病手术",
+        "onboard_time": 1752033686,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 900902,
+        "num": 900902,
+        "word": "登机只需提前15分钟了",
+        "onboard_time": 1752036024,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 871697,
+        "num": 871697,
+        "word": "杨博文中考479",
+        "onboard_time": 1752030504,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 771922,
+        "num": 771922,
+        "word": "英皇欠下166亿港元巨债",
+        "onboard_time": 1752032784,
+        "rank": 6,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 725146,
+        "num": 725146,
+        "word": "小狗喜欢捡瓶子一个月能卖860元",
+        "onboard_time": 1752036087,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 521188,
+        "num": 521188,
+        "word": "孙一宁见面会",
+        "onboard_time": 1752036266,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149882,
+        "num": 508703,
+        "word": "深圳假名媛被判13年",
+        "onboard_time": 1752036804,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1295200,
+        "num": 508263,
+        "word": "女子自曝怀孕期间摆烂上班丈夫是市副处",
+        "onboard_time": 1752022043,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 776290,
+        "num": 507079,
+        "word": "抢档",
+        "onboard_time": 1752028402,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 505307,
+        "num": 505307,
+        "word": "雪糕刺客开始倒闭了",
+        "onboard_time": 1752034284,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 430964,
+        "num": 430964,
+        "word": "闵塔鲨 审美",
+        "onboard_time": 1752034405,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 419904,
+        "num": 419904,
+        "word": "王楚钦3比1高承睿",
+        "onboard_time": 1752032725,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 415447,
+        "num": 415447,
+        "word": "男子称社恐母亲死在家中10年没报警",
+        "onboard_time": 1752028221,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 372812,
+        "num": 372812,
+        "word": "迪丽热巴巴黎出图",
+        "onboard_time": 1752031584,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 345867,
+        "num": 345867,
+        "word": "我决定换苹果手机了",
+        "onboard_time": 1752017600,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 291527,
+        "num": 291527,
+        "word": "密室大逃脱",
+        "onboard_time": 1752036685,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35568,
+        "num": 288655,
+        "word": "检方对入室抢婴案买主夫妇不起诉",
+        "onboard_time": 1752038484,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 357882,
+        "num": 288433,
+        "word": "13岁男孩脖子洗不干净确诊黑棘皮病",
+        "onboard_time": 1752024682,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316025,
+        "num": 288267,
+        "word": "梓渝在BF上了一整年班",
+        "onboard_time": 1752032604,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287763,
+        "num": 287763,
+        "word": "肖战玩丑特效",
+        "onboard_time": 1752038423,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265636,
+        "num": 265636,
+        "word": "意大利一男子被吸入飞机引擎身亡",
+        "onboard_time": 1752028943,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 32837,
+        "num": 259608,
+        "word": "CCTV健康中国",
+        "onboard_time": 1752037944,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 256156,
+        "num": 256156,
+        "word": "巨改善脖子前倾的15天有效法",
+        "onboard_time": 1752037403,
+        "rank": 25,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 212243,
+        "num": 212243,
+        "word": "月薪30万全靠抓知了猴",
+        "onboard_time": 1752029243,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210047,
+        "num": 210047,
+        "word": "印度女子深夜逃离家暴却遭4人强奸",
+        "onboard_time": 1752021263,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 196219,
+        "num": 196219,
+        "word": "警方通报未成年遭霸凌后再被滋扰",
+        "onboard_time": 1752036384,
+        "rank": 28,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 190781,
+        "num": 190781,
+        "word": "电视剧花好官宣",
+        "onboard_time": 1752032004,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187528,
+        "num": 187528,
+        "word": "中国人均预期寿命79岁",
+        "onboard_time": 1752030442,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176433,
+        "num": 176433,
+        "word": "iPhone17Air到底有多薄",
+        "onboard_time": 1752032123,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 176269,
+        "num": 176269,
+        "word": "国乒男队怎么了",
+        "onboard_time": 1752032784,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171743,
+        "num": 171743,
+        "word": "A股重大突破",
+        "onboard_time": 1752038183,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 64053,
+        "num": 170634,
+        "word": "大国粮仓的科技范儿",
+        "onboard_time": 1752034164,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160641,
+        "num": 170617,
+        "word": "鸟鸟是脱友2内容总导演",
+        "onboard_time": 1752032784,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170617,
+        "num": 170616,
+        "word": "陈天润网吧打游戏被拍",
+        "onboard_time": 1752038302,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164938,
+        "num": 164938,
+        "word": "陈柏霖回应婚讯",
+        "onboard_time": 1752037884,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164272,
+        "num": 164272,
+        "word": "大学生饮料开封后喝3天现细菌感染",
+        "onboard_time": 1752037285,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46263,
+        "num": 150885,
+        "word": "海卡好记仇",
+        "onboard_time": 1752038962,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149909,
+        "num": 149909,
+        "word": "5名未成年男生殴打15岁男生被抓",
+        "onboard_time": 1752034284,
+        "rank": 40,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 147539,
+        "num": 147539,
+        "word": "将8家台湾地区实体列入出口管制管控",
+        "onboard_time": 1752027083,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 132342,
+        "num": 132342,
+        "word": "司机不陪乘客聊天被封号3天",
+        "onboard_time": 1752036326,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129382,
+        "num": 129382,
+        "word": "美国航母数量将降至10艘",
+        "onboard_time": 1752033686,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127518,
+        "num": 127518,
+        "word": "警方通报网传民警违停致人死亡",
+        "onboard_time": 1752027622,
+        "rank": 44,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 124677,
+        "num": 124677,
+        "word": "on表现",
+        "onboard_time": 1752036865,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122544,
+        "num": 122544,
+        "word": "肖战手势变装转场",
+        "onboard_time": 1752038962,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118839,
+        "num": 118839,
+        "word": "四川省菜",
+        "onboard_time": 1752038544,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 113783,
+        "num": 113783,
+        "word": "华语乐坛没有第二个王心凌的原因",
+        "onboard_time": 1752038723,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110241,
+        "num": 110241,
+        "word": "中国基建下一步适度超前不过度超前",
+        "onboard_time": 1752038244,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#谱写三晋大地推进中国式现代化新篇章#"
+    }
+  }
+}

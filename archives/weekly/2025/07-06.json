@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1752036971132,
+  "endTime": 1752039065118,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -155,6 +155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1985010,
+      "num": 1985010,
+      "word": "体制内娇妻特权刺破公平底线",
+      "onboard_time": 1752035485,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1921486,
       "num": 258407,
       "word": "鹿晗 关晓彤",
@@ -292,7 +300,7 @@
     },
     {
       "raw_hot": 1501690,
-      "num": 473498,
+      "num": 508263,
       "word": "女子自曝怀孕期间摆烂上班丈夫是市副处",
       "onboard_time": 1752022043,
       "rank": 3,
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 1418599,
-      "num": 466926,
+      "num": 507079,
       "word": "抢档",
       "onboard_time": 1752028402,
       "rank": 10,
@@ -747,6 +755,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 900902,
+      "num": 900902,
+      "word": "登机只需提前15分钟了",
+      "onboard_time": 1752036024,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 898488,
       "num": 898488,
       "word": "国足vs韩国",
@@ -1027,6 +1043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 725146,
+      "num": 725146,
+      "word": "小狗喜欢捡瓶子一个月能卖860元",
+      "onboard_time": 1752036087,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 721361,
       "num": 721361,
       "word": "海底捞回应服务员胸前打赏二维码",
@@ -1121,14 +1145,6 @@
       "onboard_time": 1751858003,
       "rank": 13,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 683844,
-      "num": 683844,
-      "word": "体制内娇妻特权刺破公平底线",
-      "onboard_time": 1752035485,
-      "rank": 14,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 679676,
@@ -1595,6 +1611,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 521188,
+      "num": 521188,
+      "word": "孙一宁见面会",
+      "onboard_time": 1752036266,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 511315,
       "num": 511315,
       "word": "中方已向印度提出交涉",
@@ -1633,6 +1657,14 @@
       "onboard_time": 1751800405,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 505307,
+      "num": 505307,
+      "word": "雪糕刺客开始倒闭了",
+      "onboard_time": 1752034284,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 503225,
@@ -1907,6 +1939,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 419904,
+      "num": 430623,
+      "word": "王楚钦3比1高承睿",
+      "onboard_time": 1752031763,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 419264,
       "num": 419264,
       "word": "仅西安一家医院至少70名幼儿血铅超标",
@@ -2027,27 +2067,11 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 407316,
-      "num": 407316,
-      "word": "雪糕刺客开始倒闭了",
-      "onboard_time": 1752034284,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 406310,
       "num": 574239,
       "word": "731部队原队员承认解剖了300人",
       "onboard_time": 1751862686,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 396794,
-      "num": 396794,
-      "word": "小狗喜欢捡瓶子一个月能卖860元",
-      "onboard_time": 1752036087,
-      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -2771,14 +2795,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 293064,
-      "num": 293064,
-      "word": "登机只需提前15分钟了",
-      "onboard_time": 1752036024,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 292252,
       "num": 323109,
       "word": "中考720分小伙高二转职高学烹饪",
@@ -2793,6 +2809,14 @@
       "onboard_time": 1751938763,
       "rank": 18,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 291527,
+      "num": 291527,
+      "word": "密室大逃脱",
+      "onboard_time": 1752036685,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 290930,
@@ -2824,6 +2848,14 @@
       "word": "安吉终于同意剪发啦",
       "onboard_time": 1751869643,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 287763,
+      "num": 287763,
+      "word": "肖战玩丑特效",
+      "onboard_time": 1752038423,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -3017,14 +3049,6 @@
       "onboard_time": 1751963601,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 267544,
-      "num": 430623,
-      "word": "王楚钦3比1高承睿",
-      "onboard_time": 1752031763,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 267159,
@@ -3227,6 +3251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256156,
+      "num": 256156,
+      "word": "巨改善脖子前倾的15天有效法",
+      "onboard_time": 1752037403,
+      "rank": 25,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 255494,
       "num": 255494,
       "word": "学校回应学生未报清北老师解散群聊",
@@ -3377,14 +3409,6 @@
       "onboard_time": 1751947583,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 246407,
-      "num": 260102,
-      "word": "孙一宁见面会",
-      "onboard_time": 1752036266,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 246168,
@@ -4483,6 +4507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196219,
+      "num": 407114,
+      "word": "警方通报未成年遭霸凌后再被滋扰",
+      "onboard_time": 1752036384,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 196036,
       "num": 151246,
       "word": "刘品言挺孕肚主持电影节",
@@ -5371,6 +5403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 171743,
+      "num": 171743,
+      "word": "A股重大突破",
+      "onboard_time": 1752038183,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 171223,
       "num": 171223,
       "word": "Winter被摸手",
@@ -5393,6 +5433,14 @@
       "onboard_time": 1751963902,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170617,
+      "num": 170616,
+      "word": "陈天润网吧打游戏被拍",
+      "onboard_time": 1752038302,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 170264,
@@ -5587,12 +5635,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 164938,
+      "num": 164938,
+      "word": "陈柏霖回应婚讯",
+      "onboard_time": 1752037884,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164597,
       "num": 183290,
       "word": "孙颖莎拒绝冷门",
       "onboard_time": 1752032184,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164272,
+      "num": 164272,
+      "word": "大学生饮料开封后喝3天现细菌感染",
+      "onboard_time": 1752037285,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164104,
@@ -5705,14 +5769,6 @@
       "onboard_time": 1751812766,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 161505,
-      "num": 210612,
-      "word": "密室大逃脱",
-      "onboard_time": 1752036685,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 161158,
@@ -6156,7 +6212,7 @@
     },
     {
       "raw_hot": 151262,
-      "num": 151262,
+      "num": 508703,
       "word": "深圳假名媛被判13年",
       "onboard_time": 1752036804,
       "rank": 36,
@@ -7275,6 +7331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 132342,
+      "num": 132342,
+      "word": "司机不陪乘客聊天被封号3天",
+      "onboard_time": 1752036326,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132208,
       "num": 184312,
       "word": "鹿晗叫我拍阿猛",
@@ -7571,14 +7635,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 128290,
-      "num": 128290,
-      "word": "司机不陪乘客聊天被封号3天",
-      "onboard_time": 1752036326,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 128244,
       "num": 128244,
       "word": "南珩哞地亲上了宋一梦",
@@ -7867,6 +7923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124677,
+      "num": 124677,
+      "word": "on表现",
+      "onboard_time": 1752036865,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 124636,
       "num": 124636,
       "word": "鹿晗工作室土味情话",
@@ -7971,14 +8035,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 123083,
-      "num": 123083,
-      "word": "on表现",
-      "onboard_time": 1752036865,
-      "rank": 48,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 123034,
       "num": 123034,
       "word": "李泰民道歉",
@@ -8009,6 +8065,14 @@
       "onboard_time": 1751949203,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 122544,
+      "num": 122544,
+      "word": "肖战手势变装转场",
+      "onboard_time": 1752038962,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 122496,
@@ -8281,6 +8345,14 @@
       "onboard_time": 1751930901,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 118839,
+      "num": 118839,
+      "word": "四川省菜",
+      "onboard_time": 1752038544,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 118678,
@@ -8675,6 +8747,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 113783,
+      "num": 113783,
+      "word": "华语乐坛没有第二个王心凌的原因",
+      "onboard_time": 1752038723,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113769,
       "num": 113769,
       "word": "BLACKPINK新歌",
@@ -8913,6 +8993,14 @@
       "onboard_time": 1751774843,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 110241,
+      "num": 110241,
+      "word": "中国基建下一步适度超前不过度超前",
+      "onboard_time": 1752038244,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 110153,
@@ -10995,14 +11083,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 60827,
-      "num": 407114,
-      "word": "警方通报未成年遭霸凌后再被滋扰",
-      "onboard_time": 1752036384,
-      "rank": 9,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 60357,
       "num": 526747,
       "word": "医院法人代表带头开药骗保1200万",
@@ -11355,6 +11435,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 46263,
+      "num": 150885,
+      "word": "海卡好记仇",
+      "onboard_time": 1752038962,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 46160,
       "num": 62996,
       "word": "公司招聘拒录E人涉嫌就业歧视违法",
@@ -11472,6 +11560,14 @@
       "word": "江西黄河水",
       "onboard_time": 1751861904,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41273,
+      "num": 1306201,
+      "word": "尼山这个论坛要论什么",
+      "onboard_time": 1752035785,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -11635,6 +11731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35568,
+      "num": 288655,
+      "word": "检方对入室抢婴案买主夫妇不起诉",
+      "onboard_time": 1752038484,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34971,
       "num": 37835,
       "word": "21岁机车少年意外离世父亲发文悼念",
@@ -11699,12 +11803,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33032,
-      "num": 1306201,
-      "word": "尼山这个论坛要论什么",
-      "onboard_time": 1752035785,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 32837,
+      "num": 259608,
+      "word": "CCTV健康中国",
+      "onboard_time": 1752037944,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 32674,
