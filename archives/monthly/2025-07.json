@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752043149326,
+  "endTime": 1752044001962,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -867,19 +867,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1263581,
+      "num": 1263581,
+      "word": "登机只需提前15分钟了",
+      "onboard_time": 1752036024,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1261058,
       "num": 1261058,
       "word": "南京女装大叔网传信息有夸大成分",
       "onboard_time": 1751898029,
       "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1253983,
-      "num": 1253983,
-      "word": "登机只需提前15分钟了",
-      "onboard_time": 1752036024,
-      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -2163,6 +2163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 779089,
+      "num": 779089,
+      "word": "彭昱畅我现在有1.4了",
+      "onboard_time": 1752041842,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 779034,
       "num": 670762,
       "word": "金毛李墩墩主人准备起诉",
@@ -2449,6 +2457,14 @@
       "onboard_time": 1751527943,
       "rank": 22,
       "category": "艺人,运动健身"
+    },
+    {
+      "raw_hot": 720265,
+      "num": 720265,
+      "word": "大学生饮料开封后喝3天现细菌感染",
+      "onboard_time": 1752037285,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 720147,
@@ -3483,6 +3499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 585394,
+      "num": 585394,
+      "word": "孙一宁勾引女人的事全做了",
+      "onboard_time": 1752041422,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 584598,
       "num": 584598,
       "word": "又一罗马仕充电宝充电时爆炸",
@@ -3505,14 +3529,6 @@
       "onboard_time": 1751719704,
       "rank": 6,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 579010,
-      "num": 579010,
-      "word": "彭昱畅我现在有1.4了",
-      "onboard_time": 1752041842,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 577336,
@@ -4185,14 +4201,6 @@
       "onboard_time": 1751954241,
       "rank": 13,
       "category": "演出"
-    },
-    {
-      "raw_hot": 496679,
-      "num": 496679,
-      "word": "大学生饮料开封后喝3天现细菌感染",
-      "onboard_time": 1752037285,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 495502,
@@ -5171,14 +5179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 405125,
-      "num": 405125,
-      "word": "孙一宁勾引女人的事全做了",
-      "onboard_time": 1752041422,
-      "rank": 8,
-      "category": "演出"
-    },
-    {
       "raw_hot": 402933,
       "num": 402933,
       "word": "官方回应火车突发停车乘客砸窗通风",
@@ -5353,6 +5353,14 @@
       "onboard_time": 1751592141,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 383825,
+      "num": 383825,
+      "word": "纪委介入女子自曝怀孕摆烂不上班",
+      "onboard_time": 1752042682,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 383368,
@@ -7027,6 +7035,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 297386,
+      "num": 297386,
+      "word": "LPL锁定四张S赛门票",
+      "onboard_time": 1752041901,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 297159,
       "num": 268634,
       "word": "日本气象厅紧急辟谣",
@@ -8665,14 +8681,6 @@
       "onboard_time": 1751928797,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 238372,
-      "num": 238372,
-      "word": "LPL锁定四张S赛门票",
-      "onboard_time": 1752041901,
-      "rank": 21,
-      "category": "电竞"
     },
     {
       "raw_hot": 238312,
@@ -10467,6 +10475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203277,
+      "num": 203277,
+      "word": "孟子义杂志",
+      "onboard_time": 1752041362,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 203264,
       "num": 203264,
       "word": "梅西梅开二度",
@@ -10921,14 +10937,6 @@
       "onboard_time": 1751897005,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 198217,
-      "num": 198217,
-      "word": "孟子义杂志",
-      "onboard_time": 1752041362,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 198216,
@@ -11907,6 +11915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188001,
+      "num": 188001,
+      "word": "脱口秀演员不能上音综",
+      "onboard_time": 1752043163,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187776,
       "num": 187776,
       "word": "苹果最薄iPhone17Air再曝",
@@ -12241,6 +12257,14 @@
       "onboard_time": 1751637806,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 182549,
+      "num": 182549,
+      "word": "肖战的假笑声",
+      "onboard_time": 1752043940,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 182405,
@@ -13859,6 +13883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 165399,
+      "num": 165399,
+      "word": "男子地铁上猥亵女生被便衣当场抓捕",
+      "onboard_time": 1752043221,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165259,
       "num": 257870,
       "word": "警方回应列车乘客破窗透气被带走",
@@ -14627,6 +14659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157897,
+      "num": 239305,
+      "word": "卖玉米阿姨救大学生称哪怕以命换命",
+      "onboard_time": 1752042082,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157769,
       "num": 311682,
       "word": "严浩翔维权获胜",
@@ -14729,6 +14769,14 @@
       "onboard_time": 1751868804,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156855,
+      "num": 156855,
+      "word": "蔡琳称没想过再婚",
+      "onboard_time": 1752043400,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 156835,
@@ -16907,6 +16955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 139851,
+      "num": 139851,
+      "word": "AI评徐志胜是三线小明星",
+      "onboard_time": 1752042982,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139848,
       "num": 214599,
       "word": "招聘不应对年龄歧视",
@@ -17739,6 +17795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134595,
+      "num": 134595,
+      "word": "BLG反一波Fly",
+      "onboard_time": 1752043642,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 134575,
       "num": 134575,
       "word": "蒋梦婕澄清网传身高155",
@@ -17753,6 +17817,14 @@
       "onboard_time": 1751523202,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134523,
+      "num": 134523,
+      "word": "外卖商家赔钱参战",
+      "onboard_time": 1752041602,
+      "rank": 36,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 134483,
@@ -17777,14 +17849,6 @@
       "onboard_time": 1751535682,
       "rank": 49,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 134337,
-      "num": 134337,
-      "word": "外卖商家赔钱参战",
-      "onboard_time": 1752041602,
-      "rank": 36,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 134334,
@@ -18507,6 +18571,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 130145,
+      "num": 130145,
+      "word": "宋祖儿进组表妹万福",
+      "onboard_time": 1752043940,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130135,
       "num": 130135,
       "word": "世界上最没用的一句话",
@@ -19091,6 +19163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126203,
+      "num": 126203,
+      "word": "一图速览十四五经济社会发展成就",
+      "onboard_time": 1752043824,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 126155,
       "num": 126155,
       "word": "书卷一梦销量TOP1的皮肤",
@@ -19363,6 +19443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124538,
+      "num": 124538,
+      "word": "扫毒风暴预告",
+      "onboard_time": 1752042801,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124528,
       "num": 124528,
       "word": "海贼王 黑胡子",
@@ -19489,6 +19577,14 @@
       "onboard_time": 1751978844,
       "rank": 18,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 123834,
+      "num": 123834,
+      "word": "WTT美国大满贯场地突然冒烟",
+      "onboard_time": 1752043824,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 123818,
@@ -20507,6 +20603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118382,
+      "num": 118382,
+      "word": "枭起青壤 定档",
+      "onboard_time": 1752043940,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118346,
       "num": 118346,
       "word": "丁太升回应单依纯王菲在唱那英的歌",
@@ -20609,14 +20713,6 @@
       "onboard_time": 1751948903,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 117967,
-      "num": 117967,
-      "word": "扫毒风暴预告",
-      "onboard_time": 1752042801,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 117931,
@@ -22027,6 +22123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109375,
+      "num": 183513,
+      "word": "幼儿血铅两地检测结果悬殊需彻查真相",
+      "onboard_time": 1752043042,
+      "rank": 48,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 109360,
       "num": 109360,
       "word": "交警回应超速罚单时速17052公里",
@@ -22545,14 +22649,6 @@
       "onboard_time": 1751787023,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 106405,
-      "num": 106405,
-      "word": "AI评徐志胜是三线小明星",
-      "onboard_time": 1752042982,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 106189,
@@ -23289,14 +23385,6 @@
       "onboard_time": 1751813063,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100888,
-      "num": 100888,
-      "word": "幼儿血铅两地检测结果悬殊需彻查真相",
-      "onboard_time": 1752043042,
-      "rank": 48,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 100851,
@@ -24697,6 +24785,14 @@
       "onboard_time": 1751533461,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86977,
+      "num": 132920,
+      "word": "亚马尔被中国功夫惊到",
+      "onboard_time": 1752043583,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 86909,
@@ -26763,14 +26859,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 58980,
-      "num": 304137,
-      "word": "纪委介入女子自曝怀孕摆烂不上班",
-      "onboard_time": 1752042682,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 58938,
       "num": 58938,
       "word": "小猫从背后抱住了小猫",
@@ -27632,14 +27720,6 @@
       "word": "你的样子",
       "onboard_time": 1751388499,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44785,
-      "num": 239305,
-      "word": "卖玉米阿姨救大学生称哪怕以命换命",
-      "onboard_time": 1752042082,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
