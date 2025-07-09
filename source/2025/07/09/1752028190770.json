@@ -1,0 +1,410 @@
+{
+  "runTime": 1752028190770,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 591631,
+        "num": 1094660,
+        "word": "女大学生捡手机落水被大姨救起",
+        "onboard_time": 1752021623,
+        "rank": 0,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 484684,
+        "num": 484684,
+        "word": "女子连续一周被邻居冒用地址点外卖",
+        "onboard_time": 1752015979,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45488,
+        "num": 337366,
+        "word": "净网2025暴恐音视频危害大不看不存不转发",
+        "onboard_time": 1752026301,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1393957,
+        "num": 329776,
+        "word": "女子自曝怀孕期间摆烂上班丈夫是市副处",
+        "onboard_time": 1752022043,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321730,
+        "num": 321730,
+        "word": "隔夜水 蚊子卵",
+        "onboard_time": 1752018441,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 587901,
+        "num": 321639,
+        "word": "王一博辛芷蕾状态",
+        "onboard_time": 1752018680,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 319643,
+        "num": 319643,
+        "word": "利剑玫瑰定档0728",
+        "onboard_time": 1752027441,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307314,
+        "num": 307314,
+        "word": "迪丽热巴黑丝绒玫瑰裙",
+        "onboard_time": 1752016700,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 303357,
+        "num": 303357,
+        "word": "将8家台湾地区实体列入出口管制管控",
+        "onboard_time": 1752027083,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 288245,
+        "num": 288245,
+        "word": "店员承认用草酸日洗超百斤龙虾",
+        "onboard_time": 1751987430,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 650518,
+        "num": 285066,
+        "word": "我决定换苹果手机了",
+        "onboard_time": 1752017600,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 271563,
+        "num": 271563,
+        "word": "孙颖莎vs高达",
+        "onboard_time": 1752021743,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251991,
+        "num": 251991,
+        "word": "被曝婚内出轨粉丝NPC蓝狐狸被辞退",
+        "onboard_time": 1751988570,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211503,
+        "num": 211503,
+        "word": "中国人在日本的英语霸凌",
+        "onboard_time": 1752027383,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193825,
+        "num": 193825,
+        "word": "天舟八号受控再入大气层",
+        "onboard_time": 1752021863,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 192322,
+        "num": 192322,
+        "word": "妻子去世后丈夫称太痛苦2年没回家",
+        "onboard_time": 1751990608,
+        "rank": 15,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 178238,
+        "num": 178238,
+        "word": "美得州洪灾灾区市长含泪哭诉",
+        "onboard_time": 1752023302,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 167989,
+        "num": 178116,
+        "word": "女孩捡手机险被浪冲走大姨跳海救人",
+        "onboard_time": 1752020182,
+        "rank": 17,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 121975,
+        "num": 177860,
+        "word": "肖战说自由是拥有掌握命运的能力",
+        "onboard_time": 1752018381,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62581,
+        "num": 177711,
+        "word": "丁禹兮花开锦绣白衣路透",
+        "onboard_time": 1752026062,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 532492,
+        "num": 177355,
+        "word": "13岁男孩脖子洗不干净确诊黑棘皮病",
+        "onboard_time": 1752024682,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285649,
+        "num": 177094,
+        "word": "印度女子深夜逃离家暴却遭4人强奸",
+        "onboard_time": 1752021263,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 260371,
+        "num": 176743,
+        "word": "扫毒风暴定档0712",
+        "onboard_time": 1752027441,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171831,
+        "num": 176660,
+        "word": "婚姻是人性放大器",
+        "onboard_time": 1752024682,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130602,
+        "num": 176334,
+        "word": "美得州洪灾至少161人失踪",
+        "onboard_time": 1752027263,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 176143,
+        "num": 176143,
+        "word": "扫毒风暴",
+        "onboard_time": 1752026902,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139901,
+        "num": 176132,
+        "word": "梓渝线下活动生图",
+        "onboard_time": 1752027383,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138977,
+        "num": 176086,
+        "word": "特朗普或将对药品征收200%关税",
+        "onboard_time": 1752021683,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136846,
+        "num": 176015,
+        "word": "到底是谁抢光了限量labubu",
+        "onboard_time": 1752026723,
+        "rank": 28,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 129715,
+        "num": 175985,
+        "word": "海底捞回应服务员胸前打赏二维码",
+        "onboard_time": 1751983287,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114983,
+        "num": 175934,
+        "word": "奉劝大家一句上班该摸鱼就摸",
+        "onboard_time": 1752021803,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109559,
+        "num": 175897,
+        "word": "警方通报网传民警违停致人死亡",
+        "onboard_time": 1752027622,
+        "rank": 31,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 108137,
+        "num": 175844,
+        "word": "建议不要临睡前才刷牙",
+        "onboard_time": 1752017420,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 105867,
+        "num": 175813,
+        "word": "台风丹娜丝三次登陆浙江温州",
+        "onboard_time": 1751992823,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101681,
+        "num": 175773,
+        "word": "买手机你还在纠结iOS和安卓吗",
+        "onboard_time": 1752026542,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 100015,
+        "num": 175738,
+        "word": "台风丹娜丝特别能下雨",
+        "onboard_time": 1752014716,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92847,
+        "num": 175686,
+        "word": "1个动作减双下巴",
+        "onboard_time": 1752026301,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 89730,
+        "num": 175641,
+        "word": "网友住酒店光脚洗澡感染HPV",
+        "onboard_time": 1751980042,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88953,
+        "num": 175595,
+        "word": "辽宁大连3.3级地震",
+        "onboard_time": 1752024620,
+        "rank": 38,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 41036,
+        "num": 175576,
+        "word": "张琳感觉汪顺还能再来两届奥运",
+        "onboard_time": 1752027022,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85030,
+        "num": 175504,
+        "word": "人真正需要的7种休息方法",
+        "onboard_time": 1752022463,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 84638,
+        "num": 175482,
+        "word": "养了两只狗才会有的感觉",
+        "onboard_time": 1752026603,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76604,
+        "num": 175449,
+        "word": "Fly对战BLG先下一城",
+        "onboard_time": 1752024802,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 75568,
+        "num": 175397,
+        "word": "马克龙被夫人无视",
+        "onboard_time": 1752019341,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 73579,
+        "num": 175370,
+        "word": "余承东因开车看手机去自首了",
+        "onboard_time": 1751983108,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 62881,
+        "num": 175323,
+        "word": "1人非法炼2540公斤猪油涉案1.59万",
+        "onboard_time": 1751987910,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62842,
+        "num": 175280,
+        "word": "孙颖莎被赞好人品",
+        "onboard_time": 1752022762,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60827,
+        "num": 175206,
+        "word": "梁靖崑2比3爆冷出局",
+        "onboard_time": 1752026122,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58103,
+        "num": 175191,
+        "word": "漠河超35度",
+        "onboard_time": 1752020421,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56179,
+        "num": 175148,
+        "word": "王楚钦vs高承睿",
+        "onboard_time": 1752021564,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在山西考察#"
+    }
+  }
+}
