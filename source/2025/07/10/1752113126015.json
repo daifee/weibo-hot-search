@@ -1,0 +1,410 @@
+{
+  "runTime": 1752113126015,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 986790,
+        "num": 1157886,
+        "word": "有史以来最短一天",
+        "onboard_time": 1752063323,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 688063,
+        "num": 688063,
+        "word": "截瘫女生说车祸时坐姿正确",
+        "onboard_time": 1752106582,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40553,
+        "num": 687628,
+        "word": "这些成就举世瞩目",
+        "onboard_time": 1752073165,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 687607,
+        "num": 687607,
+        "word": "喜茶偷偷调整了logo",
+        "onboard_time": 1752107243,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 566493,
+        "num": 566493,
+        "word": "刘宇宁三天没工作就会开直播",
+        "onboard_time": 1752110842,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 522098,
+        "num": 522098,
+        "word": "母象不舍抛下小象尸体拖拽三天",
+        "onboard_time": 1752110661,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 447576,
+        "num": 447576,
+        "word": "男子理发店充430万做灌肠后遭退费难",
+        "onboard_time": 1752068424,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 412460,
+        "num": 412460,
+        "word": "父亲欠下百万希望女儿能帮忙还债",
+        "onboard_time": 1752075083,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 401710,
+        "num": 401710,
+        "word": "Angelababy带小海绵参加巴黎时装周",
+        "onboard_time": 1752107544,
+        "rank": 8,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 368782,
+        "num": 368782,
+        "word": "何炅 少了谁我都不干",
+        "onboard_time": 1752106702,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 762689,
+        "num": 368748,
+        "word": "人和偶像一旦有了私交",
+        "onboard_time": 1752109822,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 641845,
+        "num": 367846,
+        "word": "包文婧产后情绪失控",
+        "onboard_time": 1752104960,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 588973,
+        "num": 365349,
+        "word": "蔡琳回应接受前夫高梓淇再婚",
+        "onboard_time": 1752104840,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 358337,
+        "num": 358337,
+        "word": "特朗普将对巴西征收50%关税",
+        "onboard_time": 1752110781,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 346852,
+        "num": 346852,
+        "word": "王楚钦梁靖崑3比1戈麦斯博格斯",
+        "onboard_time": 1752111862,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 322451,
+        "num": 322451,
+        "word": "以法之名 烂尾",
+        "onboard_time": 1752069865,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310744,
+        "num": 310744,
+        "word": "小狗遭主人2次扔弃哀嚎仍被丢",
+        "onboard_time": 1752110301,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305645,
+        "num": 305645,
+        "word": "金希澈谈未婚原因",
+        "onboard_time": 1752110483,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243271,
+        "num": 279963,
+        "word": "杨少华午休时安详辞世",
+        "onboard_time": 1752074243,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154316,
+        "num": 277988,
+        "word": "三星折叠屏比直板更轻薄",
+        "onboard_time": 1752112342,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 277008,
+        "num": 277008,
+        "word": "工作人员被美色诱惑加入间谍组织",
+        "onboard_time": 1752106282,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265652,
+        "num": 265652,
+        "word": "醉汉将路过8岁孩子砸得头破血流",
+        "onboard_time": 1752107002,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226195,
+        "num": 226195,
+        "word": "北京大雨",
+        "onboard_time": 1752104840,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225453,
+        "num": 225453,
+        "word": "宋茜张佳宁微醺",
+        "onboard_time": 1752111682,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221704,
+        "num": 221704,
+        "word": "全国快递业务量突破1000亿件",
+        "onboard_time": 1752108504,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220384,
+        "num": 220384,
+        "word": "莫雷加德止步男单32强",
+        "onboard_time": 1752109522,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210922,
+        "num": 210922,
+        "word": "郑州人民公园打人事件刑拘11人",
+        "onboard_time": 1752109644,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202122,
+        "num": 202122,
+        "word": "中方向以色列提出严正交涉",
+        "onboard_time": 1752075682,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 181300,
+        "num": 181300,
+        "word": "WTT美国大满贯2025",
+        "onboard_time": 1752112642,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178386,
+        "num": 178386,
+        "word": "男子曝妻子和公职人员多次开房",
+        "onboard_time": 1752068485,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166449,
+        "num": 166449,
+        "word": "正当防卫回应以法之名",
+        "onboard_time": 1752112342,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152525,
+        "num": 152525,
+        "word": "王楚钦梁靖崑vs博格斯戈麦斯",
+        "onboard_time": 1752110301,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126021,
+        "num": 152440,
+        "word": "男友驾车致女子截瘫当事人澄清",
+        "onboard_time": 1752112581,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152405,
+        "num": 152405,
+        "word": "新疆地震",
+        "onboard_time": 1752103158,
+        "rank": 33,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 150207,
+        "num": 150207,
+        "word": "找不到暑假工的天塌了",
+        "onboard_time": 1752112761,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141533,
+        "num": 141533,
+        "word": "曝桥本环奈中川大志将结婚",
+        "onboard_time": 1752105201,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135314,
+        "num": 135314,
+        "word": "皮质醇过高的六大表现",
+        "onboard_time": 1752109702,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 130188,
+        "num": 130188,
+        "word": "歌手歌单",
+        "onboard_time": 1752111022,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127920,
+        "num": 127920,
+        "word": "北京暴雨开车如开船",
+        "onboard_time": 1752112642,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65029,
+        "num": 123267,
+        "word": "去找一个像太阳一样的搭档",
+        "onboard_time": 1752112642,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123016,
+        "num": 123016,
+        "word": "郭德纲悼念杨少华",
+        "onboard_time": 1752103940,
+        "rank": 40,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 117184,
+        "num": 117184,
+        "word": "男子开车瞬间被臭晕倒地不起",
+        "onboard_time": 1752070344,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116894,
+        "num": 116894,
+        "word": "关晓彤减肥能管住嘴的原因",
+        "onboard_time": 1752069205,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112029,
+        "num": 112029,
+        "word": "北京启动全市防汛应急响应",
+        "onboard_time": 1752112401,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111090,
+        "num": 111090,
+        "word": "逆水寒手游",
+        "onboard_time": 1752110722,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108692,
+        "num": 108692,
+        "word": "小英自曝大女儿感染幽门螺旋杆菌",
+        "onboard_time": 1752068363,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 106209,
+        "num": 106209,
+        "word": "BLACKPINK预告图",
+        "onboard_time": 1752110661,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104234,
+        "num": 104234,
+        "word": "莫德里奇正式结束皇马生涯",
+        "onboard_time": 1752111983,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103406,
+        "num": 103406,
+        "word": "穷小孩的人生是从30岁开始的",
+        "onboard_time": 1752068664,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98224,
+        "num": 98224,
+        "word": "媒体评尖子生高考575分被赶出家门",
+        "onboard_time": 1752085336,
+        "rank": 49,
+        "category": "民生新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记赴山西考察纪实#"
+    }
+  }
+}
