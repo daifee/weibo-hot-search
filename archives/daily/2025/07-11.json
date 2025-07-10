@@ -1,6 +1,6 @@
 {
   "startTime": 1752165274435,
-  "endTime": 1752183707156,
+  "endTime": 1752186367938,
   "band_list": [
     {
       "raw_hot": 843387,
@@ -203,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126072,
+      "num": 126072,
+      "word": "多方回应医院被指暴力接生",
+      "onboard_time": 1752162204,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123674,
       "num": 123674,
       "word": "再亲密的情侣关系也必须回归法律责任",
@@ -225,6 +233,14 @@
       "onboard_time": 1752167837,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113545,
+      "num": 167751,
+      "word": "爱人彻夜不归去前男友小区练瑜伽",
+      "onboard_time": 1752153443,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113265,
@@ -427,28 +443,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 56662,
-      "num": 96632,
-      "word": "多方回应医院被指暴力接生",
-      "onboard_time": 1752162204,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 50901,
-      "num": 167751,
-      "word": "爱人彻夜不归去前男友小区练瑜伽",
-      "onboard_time": 1752153443,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 50842,
       "num": 50842,
       "word": "车银优还没入伍车铜优就上桌了",
       "onboard_time": 1752166999,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 49122,
+      "num": 84885,
+      "word": "文旅局回应西北大环线暗布扎胎器",
+      "onboard_time": 1752174975,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37655,
@@ -475,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36868,
+      "num": 36868,
+      "word": "杭州三名游客马尔代夫回来查出登革热",
+      "onboard_time": 1752182954,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36832,
       "num": 196883,
       "word": "谢霆锋妹妹举办迎婴派对",
@@ -489,6 +505,14 @@
       "onboard_time": 1752158005,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 29225,
+      "num": 49146,
+      "word": "养老金水平较低的调整幅度高一些",
+      "onboard_time": 1752182954,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28562,
@@ -531,12 +555,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 23009,
-      "num": 23009,
-      "word": "文旅局回应西北大环线暗布扎胎器",
-      "onboard_time": 1752174975,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 23732,
+      "num": 28354,
+      "word": "马国明用2000条短信追求汤洛雯",
+      "onboard_time": 1752184815,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 22889,
@@ -548,11 +572,19 @@
     },
     {
       "raw_hot": 21836,
-      "num": 23024,
+      "num": 31447,
       "word": "王俊凯出任电竞世界杯中国唯一大使",
       "onboard_time": 1752173234,
       "rank": 47,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 21288,
+      "num": 28314,
+      "word": "在泰网红豆腐妹妹自曝被拐",
+      "onboard_time": 1752174795,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19755,
@@ -561,14 +593,6 @@
       "onboard_time": 1752176174,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 18330,
-      "num": 19715,
-      "word": "杭州三名游客马尔代夫回来查出登革热",
-      "onboard_time": 1752182954,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17505,
@@ -611,14 +635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 16684,
-      "num": 21893,
-      "word": "在泰网红豆腐妹妹自曝被拐",
-      "onboard_time": 1752174795,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 14160,
       "num": 17047,
       "word": "我的母亲",
@@ -633,14 +649,6 @@
       "onboard_time": 1752173055,
       "rank": 18,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 11489,
-      "num": 49146,
-      "word": "养老金水平较低的调整幅度高一些",
-      "onboard_time": 1752182954,
-      "rank": 9,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
