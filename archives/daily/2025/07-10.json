@@ -1,7 +1,15 @@
 {
   "startTime": 1752078814060,
-  "endTime": 1752113126015,
+  "endTime": 1752114599893,
   "band_list": [
+    {
+      "raw_hot": 1064761,
+      "num": 1170361,
+      "word": "刘宇宁三天没工作就会开直播",
+      "onboard_time": 1752110842,
+      "rank": 4,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1064633,
       "num": 1064633,
@@ -19,20 +27,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 865291,
+      "num": 371859,
+      "word": "人和偶像一旦有了私交",
+      "onboard_time": 1752109822,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 777343,
       "num": 777343,
       "word": "中方向以色列提出严正交涉",
       "onboard_time": 1752075682,
       "rank": 1,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 762689,
-      "num": 368748,
-      "word": "人和偶像一旦有了私交",
-      "onboard_time": 1752109822,
-      "rank": 10,
-      "category": "幽默"
     },
     {
       "raw_hot": 708105,
@@ -75,20 +83,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 587613,
+      "num": 587613,
+      "word": "小狗遭主人2次扔弃哀嚎仍被丢",
+      "onboard_time": 1752110301,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 578217,
       "num": 578217,
       "word": "男子理发店充430万做灌肠后遭退费难",
       "onboard_time": 1752068424,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 566493,
-      "num": 566493,
-      "word": "刘宇宁三天没工作就会开直播",
-      "onboard_time": 1752110842,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 556534,
@@ -99,8 +107,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 522098,
-      "num": 522098,
+      "raw_hot": 555509,
+      "num": 555509,
       "word": "母象不舍抛下小象尸体拖拽三天",
       "onboard_time": 1752110661,
       "rank": 5,
@@ -123,11 +131,27 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 388782,
+      "num": 388782,
+      "word": "人民日报关注国产剧火到海外",
+      "onboard_time": 1752113482,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 380740,
       "num": 380740,
       "word": "官方通报公职人员肖某生活作风问题",
       "onboard_time": 1752074603,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 377351,
+      "num": 248196,
+      "word": "爷爷高温天卖荔枝中暑呕吐孙子大哭",
+      "onboard_time": 1752114261,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -195,14 +219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 310744,
-      "num": 310744,
-      "word": "小狗遭主人2次扔弃哀嚎仍被丢",
-      "onboard_time": 1752110301,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 305645,
       "num": 305645,
       "word": "金希澈谈未婚原因",
@@ -257,6 +273,14 @@
       "onboard_time": 1752107002,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 247171,
+      "num": 247171,
+      "word": "找不到暑假工的天塌了",
+      "onboard_time": 1752112761,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 236939,
@@ -331,6 +355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202321,
+      "num": 202321,
+      "word": "男友驾车致女子截瘫当事人澄清",
+      "onboard_time": 1752112581,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 195038,
       "num": 195038,
       "word": "男子称在西湖景区穿汉服拍照遭驱赶",
@@ -355,6 +387,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 185316,
+      "num": 185316,
+      "word": "2025KPL夏季赛",
+      "onboard_time": 1752113961,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 183701,
       "num": 183701,
       "word": "翔霖",
@@ -369,6 +409,14 @@
       "onboard_time": 1752112642,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176480,
+      "num": 182953,
+      "word": "最想明天就播的电视剧",
+      "onboard_time": 1752113121,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 166449,
@@ -387,7 +435,7 @@
       "category": "海外新闻,网红"
     },
     {
-      "raw_hot": 154316,
+      "raw_hot": 158697,
       "num": 277988,
       "word": "三星折叠屏比直板更轻薄",
       "onboard_time": 1752112342,
@@ -419,20 +467,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 150207,
-      "num": 150207,
-      "word": "找不到暑假工的天塌了",
-      "onboard_time": 1752112761,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 149265,
       "num": 149265,
       "word": "恋与制作人",
       "onboard_time": 1752085336,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 144354,
+      "num": 144354,
+      "word": "原来大家都有文字讨好症",
+      "onboard_time": 1752114142,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 144290,
+      "num": 144290,
+      "word": "北京暴雨开车如开船",
+      "onboard_time": 1752112642,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144251,
@@ -491,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128998,
+      "num": 128998,
+      "word": "特朗普给14国发送关税通牒",
+      "onboard_time": 1752114201,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 128784,
       "num": 128784,
       "word": "考编成绩断崖式领先牵出跨省作弊案",
@@ -505,22 +569,6 @@
       "onboard_time": 1752075143,
       "rank": 28,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 127920,
-      "num": 127920,
-      "word": "北京暴雨开车如开船",
-      "onboard_time": 1752112642,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 126021,
-      "num": 152440,
-      "word": "男友驾车致女子截瘫当事人澄清",
-      "onboard_time": 1752112581,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 123016,
@@ -635,6 +683,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102307,
+      "num": 102307,
+      "word": "比特币btc",
+      "onboard_time": 1752113722,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 101565,
+      "num": 101565,
+      "word": "NBA杯分组",
+      "onboard_time": 1752113300,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100992,
       "num": 100992,
       "word": "戴燕妮真魅魔",
@@ -691,6 +755,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 92491,
+      "num": 388606,
+      "word": "巴西总统称将对等回应美关税",
+      "onboard_time": 1752113722,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 89916,
       "num": 89916,
       "word": "德约科维奇逆转晋级温网四强",
@@ -723,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87511,
+      "num": 87511,
+      "word": "杨少华去世儿子杨议演出已暂停",
+      "onboard_time": 1752112521,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87057,
       "num": 87057,
       "word": "以法之名超点",
@@ -737,6 +817,14 @@
       "onboard_time": 1752059603,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86048,
+      "num": 86048,
+      "word": "马斯克再批评特朗普",
+      "onboard_time": 1752114562,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 84104,
@@ -907,7 +995,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40553,
+      "raw_hot": 41105,
       "num": 720736,
       "word": "这些成就举世瞩目",
       "onboard_time": 1752073165,
