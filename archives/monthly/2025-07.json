@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752144443005,
+  "endTime": 1752146631991,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -232,6 +232,14 @@
       "word": "家有儿女小雨变暴雨了",
       "onboard_time": 1751442801,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2250216,
+      "num": 421809,
+      "word": "101202303404",
+      "onboard_time": 1752140781,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -1043,6 +1051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1260424,
+      "num": 1260424,
+      "word": "理发店给男子灌肠涉嫌犯罪",
+      "onboard_time": 1752143484,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1253185,
       "num": 1253185,
       "word": "最难喝饮料排行榜",
@@ -1209,14 +1225,6 @@
       "onboard_time": 1752033686,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1199128,
-      "num": 421809,
-      "word": "101202303404",
-      "onboard_time": 1752140781,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 1197153,
@@ -4291,6 +4299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 554848,
+      "num": 458248,
+      "word": "李一桐本人来了都得愣两秒",
+      "onboard_time": 1752138263,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 554643,
       "num": 442509,
       "word": "孙恩盛 粉丝群圈钱",
@@ -4353,6 +4369,14 @@
       "onboard_time": 1752065663,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 544197,
+      "num": 544197,
+      "word": "新房出租1年被糟蹋成破烂",
+      "onboard_time": 1752144203,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 543920,
@@ -5097,14 +5121,6 @@
       "onboard_time": 1752071964,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 458248,
-      "num": 458248,
-      "word": "李一桐本人来了都得愣两秒",
-      "onboard_time": 1752138263,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 456760,
@@ -5969,6 +5985,14 @@
       "onboard_time": 1752028943,
       "rank": 13,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 407384,
+      "num": 407384,
+      "word": "李兰迪怎么什么都亲得下去啊",
+      "onboard_time": 1752144682,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 406924,
@@ -7651,6 +7675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 317295,
+      "num": 317295,
+      "word": "3岁男童肥大扁桃体切除术后脑死亡",
+      "onboard_time": 1752145163,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 316337,
       "num": 316337,
       "word": "中医认证最好的药就是酒",
@@ -8977,6 +9009,14 @@
       "onboard_time": 1751430564,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 267953,
+      "num": 398325,
+      "word": "不是每个退休人员基本养老金都上调2%",
+      "onboard_time": 1752144682,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 267405,
@@ -11203,6 +11243,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 215575,
+      "num": 215575,
+      "word": "BABYMONSTER女团学",
+      "onboard_time": 1752144863,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215327,
       "num": 204182,
       "word": "林俊杰演唱会",
@@ -11467,6 +11515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 211875,
+      "num": 211875,
+      "word": "王一博从CCTV6到CCTV1",
+      "onboard_time": 1752145822,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211754,
       "num": 211754,
       "word": "王一博燕子胸针",
@@ -11577,6 +11633,14 @@
       "onboard_time": 1751764942,
       "rank": 19,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 209492,
+      "num": 209492,
+      "word": "怎么还真有明星坐货拉拉下班",
+      "onboard_time": 1752145822,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 209175,
@@ -12169,6 +12233,14 @@
       "onboard_time": 1751611882,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 202414,
+      "num": 202414,
+      "word": "中国马来西亚7月17日起互免签证",
+      "onboard_time": 1752145163,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 202388,
@@ -13977,6 +14049,14 @@
       "onboard_time": 1752113961,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 185311,
+      "num": 185311,
+      "word": "救救白敬亭吧他要碎了",
+      "onboard_time": 1752144443,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 185218,
@@ -17011,6 +17091,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 157646,
+      "num": 157646,
+      "word": "原神超话",
+      "onboard_time": 1752146423,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 157613,
       "num": 173985,
       "word": "国办印发通知激励企业扩岗吸纳就业",
@@ -18739,14 +18827,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 146198,
-      "num": 146198,
-      "word": "新房出租1年被糟蹋成破烂",
-      "onboard_time": 1752144203,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 146081,
       "num": 157582,
       "word": "杨紫剧抛式演技具像化",
@@ -20097,6 +20177,14 @@
       "onboard_time": 1751509340,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 137853,
+      "num": 137853,
+      "word": "刚买超前点播盗版剧就上线了",
+      "onboard_time": 1752144682,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137808,
@@ -23203,6 +23291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121691,
+      "num": 121691,
+      "word": "3C认证到底是什么",
+      "onboard_time": 1752145523,
+      "rank": 42,
+      "category": "科学科普,数码"
+    },
+    {
       "raw_hot": 121670,
       "num": 251106,
       "word": "李一桐刘宇宁看屋顶吻的反应",
@@ -23457,6 +23553,14 @@
       "onboard_time": 1751449641,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 120098,
+      "num": 120098,
+      "word": "aespa新歌幕后照",
+      "onboard_time": 1752145642,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 120093,
@@ -24931,6 +25035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113181,
+      "num": 152855,
+      "word": "最高法收录盐城烂尾楼案例意味什么",
+      "onboard_time": 1752145282,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113161,
       "num": 113161,
       "word": "72岁钟镇涛探班女儿彩排",
@@ -25416,14 +25528,6 @@
       "word": "浙大妇院回应签到机贴代孕小广告",
       "onboard_time": 1751630543,
       "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 110680,
-      "num": 380906,
-      "word": "理发店给男子灌肠涉嫌犯罪",
-      "onboard_time": 1752143484,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -27193,6 +27297,14 @@
       "onboard_time": 1751855604,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100428,
+      "num": 125928,
+      "word": "巨有效的15天体态急救法",
+      "onboard_time": 1752145463,
+      "rank": 39,
+      "category": "运动健身"
     },
     {
       "raw_hot": 100342,
@@ -29995,6 +30107,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 69708,
+      "num": 325233,
+      "word": "特朗普说哈佛一直非常坏",
+      "onboard_time": 1752145343,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 69686,
       "num": 146935,
       "word": "热心市民秦彻先生",
@@ -30041,6 +30161,14 @@
       "onboard_time": 1751929999,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 69140,
+      "num": 173162,
+      "word": "为何上调2%的养老金比例",
+      "onboard_time": 1752146482,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69107,
@@ -33027,6 +33155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 30192,
+      "num": 113190,
+      "word": "主人比狗还护食",
+      "onboard_time": 1752146542,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 30136,
       "num": 444082,
       "word": "警方辟谣砸窗乘客被拘留",
@@ -34065,6 +34201,14 @@
       "onboard_time": 1751742016,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 18998,
+      "num": 120772,
+      "word": "被打中国人为川崎前锋球迷",
+      "onboard_time": 1752145463,
+      "rank": 43,
+      "category": "民生新闻,体育"
     },
     {
       "raw_hot": 18943,
