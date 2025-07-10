@@ -1,0 +1,410 @@
+{
+  "runTime": 1752133337871,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1489270,
+        "num": 1489270,
+        "word": "美团免单",
+        "onboard_time": 1752124101,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1292834,
+        "num": 1292834,
+        "word": "借款20万还款2800万仍欠470万",
+        "onboard_time": 1752126802,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44053,
+        "num": 1073409,
+        "word": "全国快递业务量突破1000亿件",
+        "onboard_time": 1752108504,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 929975,
+        "num": 929975,
+        "word": "37岁快递员因热射病去世",
+        "onboard_time": 1752130402,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 788579,
+        "num": 788579,
+        "word": "驾车致女生截瘫男子母亲发声",
+        "onboard_time": 1752129682,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 480782,
+        "num": 480782,
+        "word": "马思纯瘦回黎吧啦",
+        "onboard_time": 1752117022,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401981,
+        "num": 401981,
+        "word": "防晒面罩越戴越黑",
+        "onboard_time": 1752125363,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369782,
+        "num": 369782,
+        "word": "孙颖莎说珍惜我俩场上配合的机会",
+        "onboard_time": 1752130282,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 321245,
+        "num": 321245,
+        "word": "黄子韬是徐艺洋的挂件",
+        "onboard_time": 1752128602,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270742,
+        "num": 270742,
+        "word": "张翰剃了寸头",
+        "onboard_time": 1752130342,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 606528,
+        "num": 268706,
+        "word": "银河左岸 梓渝",
+        "onboard_time": 1752132143,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 563066,
+        "num": 265455,
+        "word": "干部出轨他人妻子此前为何不处理",
+        "onboard_time": 1752119902,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 360520,
+        "num": 263231,
+        "word": "杨迪关注田栩宁",
+        "onboard_time": 1752130643,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318950,
+        "num": 260442,
+        "word": "陈乔恩自曝想接吻戏剧本",
+        "onboard_time": 1752126982,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62494,
+        "num": 256193,
+        "word": "上海一公园狸花猫面部被鱼镖射穿",
+        "onboard_time": 1752132743,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255380,
+        "num": 255380,
+        "word": "没考上985被父母赶出家谁错了",
+        "onboard_time": 1752121883,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243595,
+        "num": 243595,
+        "word": "张凌赫凌晨还在超话选美甲",
+        "onboard_time": 1752123983,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238682,
+        "num": 238682,
+        "word": "哈工程拟采购9955台空调",
+        "onboard_time": 1752126202,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171309,
+        "num": 237205,
+        "word": "关晓彤曾半夜偷吃方便面",
+        "onboard_time": 1752131662,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156582,
+        "num": 236661,
+        "word": "快递员因热射病去世家属发声",
+        "onboard_time": 1752132143,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 472158,
+        "num": 236659,
+        "word": "印度男子出轨亲姑姑遭殴打逼婚",
+        "onboard_time": 1752131062,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 236651,
+        "num": 236651,
+        "word": "特朗普要求韩方承担100亿美元军费",
+        "onboard_time": 1752130882,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 199549,
+        "num": 236600,
+        "word": "英国教授称儒家礼可以让世界讲和",
+        "onboard_time": 1752133162,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212534,
+        "num": 236387,
+        "word": "银河左岸音乐节",
+        "onboard_time": 1752132983,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 30726,
+        "num": 236181,
+        "word": "营养师推荐5种高热量食物",
+        "onboard_time": 1752132382,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 173404,
+        "num": 236000,
+        "word": "重庆一小区女保安因暴雨遇难",
+        "onboard_time": 1752132143,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235945,
+        "num": 235945,
+        "word": "截瘫女生否认与多个异性维持暧昧互动",
+        "onboard_time": 1752129801,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85563,
+        "num": 205537,
+        "word": "歌手2025袭榜赛直播见面会",
+        "onboard_time": 1752130042,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198848,
+        "num": 205489,
+        "word": "李现晒和杨紫拍立得",
+        "onboard_time": 1752132321,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158878,
+        "num": 205473,
+        "word": "第一次见刑侦剧用树枝犯命案",
+        "onboard_time": 1752130703,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205460,
+        "num": 205460,
+        "word": "向佐金属抹胸",
+        "onboard_time": 1752116782,
+        "rank": 30,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 137795,
+        "num": 204904,
+        "word": "为什么我们不看好有缺点的人相爱",
+        "onboard_time": 1752133222,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 204716,
+        "num": 204716,
+        "word": "我国科学家把二氧化碳变成了糖",
+        "onboard_time": 1752125302,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202954,
+        "num": 202954,
+        "word": "网友偶遇韦东奕医院看牙",
+        "onboard_time": 1752131662,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161298,
+        "num": 161298,
+        "word": "原来读书真的会影响潜意识",
+        "onboard_time": 1752124582,
+        "rank": 34,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 155892,
+        "num": 155892,
+        "word": "公交车上现异味司机要乘客下车合规",
+        "onboard_time": 1752128002,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142914,
+        "num": 142914,
+        "word": "宋丹丹的话放到现在杀死所有恋爱脑",
+        "onboard_time": 1752129323,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139547,
+        "num": 139547,
+        "word": "钻咖",
+        "onboard_time": 1752131783,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 138631,
+        "num": 138631,
+        "word": "怎么会有老板喜欢叫员工微信名",
+        "onboard_time": 1752132262,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136703,
+        "num": 136703,
+        "word": "教育优惠",
+        "onboard_time": 1752128122,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 136071,
+        "num": 136071,
+        "word": "警方通报男子理发店充430万灌肠",
+        "onboard_time": 1752118462,
+        "rank": 40,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 133950,
+        "num": 133950,
+        "word": "天官赐福",
+        "onboard_time": 1752129682,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 132974,
+        "num": 132974,
+        "word": "特朗普宣布对铜征50%关税",
+        "onboard_time": 1752125302,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127894,
+        "num": 130694,
+        "word": "刘柏辛首部电视剧",
+        "onboard_time": 1752131000,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129537,
+        "num": 129537,
+        "word": "专家称高温热黑比紫外线更伤皮肤",
+        "onboard_time": 1752132922,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128081,
+        "num": 128081,
+        "word": "杨紫说工业糖精加一",
+        "onboard_time": 1752133222,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127957,
+        "num": 127957,
+        "word": "柳红回应片酬比五阿哥高",
+        "onboard_time": 1752126321,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123485,
+        "num": 123485,
+        "word": "不想再吃第二次的水果",
+        "onboard_time": 1752122963,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 121455,
+        "num": 121455,
+        "word": "花300块买1000斤西瓜去摆摊",
+        "onboard_time": 1752127282,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111785,
+        "num": 111785,
+        "word": "以法之名删博",
+        "onboard_time": 1752117502,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记勉励三晋大地#"
+    }
+  }
+}

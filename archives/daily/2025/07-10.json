@@ -1,6 +1,6 @@
 {
   "startTime": 1752078814060,
-  "endTime": 1752132456244,
+  "endTime": 1752133337871,
   "band_list": [
     {
       "raw_hot": 1896273,
@@ -83,8 +83,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 889056,
-      "num": 889056,
+      "raw_hot": 929975,
+      "num": 929975,
       "word": "37岁快递员因热射病去世",
       "onboard_time": 1752130402,
       "rank": 48,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 788579,
+      "num": 788579,
+      "word": "驾车致女生截瘫男子母亲发声",
+      "onboard_time": 1752129682,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 782632,
       "num": 782632,
       "word": "丁禹兮cos孙权",
@@ -121,14 +129,6 @@
       "onboard_time": 1752075682,
       "rank": 1,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 740032,
-      "num": 740032,
-      "word": "驾车致女生截瘫男子母亲发声",
-      "onboard_time": 1752129682,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 708105,
@@ -201,6 +201,14 @@
       "onboard_time": 1752118882,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 606528,
+      "num": 268706,
+      "word": "银河左岸 梓渝",
+      "onboard_time": 1752132143,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 588973,
@@ -291,6 +299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 472158,
+      "num": 236659,
+      "word": "印度男子出轨亲姑姑遭殴打逼婚",
+      "onboard_time": 1752131062,
+      "rank": 23,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 451381,
       "num": 451381,
       "word": "金钟国尹恩惠旧照",
@@ -329,14 +345,6 @@
       "onboard_time": 1752130282,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 391401,
-      "num": 209749,
-      "word": "印度男子出轨亲姑姑遭殴打逼婚",
-      "onboard_time": 1752131062,
-      "rank": 23,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 388469,
@@ -425,6 +433,14 @@
       "onboard_time": 1752125302,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 321245,
+      "num": 321245,
+      "word": "黄子韬是徐艺洋的挂件",
+      "onboard_time": 1752128602,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 319091,
@@ -523,6 +539,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 270742,
+      "num": 270742,
+      "word": "张翰剃了寸头",
+      "onboard_time": 1752130342,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269767,
       "num": 269767,
       "word": "00后结婚主打一个轻备婚",
@@ -545,14 +569,6 @@
       "onboard_time": 1752107002,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 262377,
-      "num": 296227,
-      "word": "黄子韬是徐艺洋的挂件",
-      "onboard_time": 1752128602,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 261589,
@@ -585,6 +601,22 @@
       "onboard_time": 1752067405,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 236651,
+      "num": 273243,
+      "word": "特朗普要求韩方承担100亿美元军费",
+      "onboard_time": 1752130882,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 235945,
+      "num": 235945,
+      "word": "截瘫女生否认与多个异性维持暧昧互动",
+      "onboard_time": 1752129801,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 235875,
@@ -683,14 +715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 220045,
-      "num": 220045,
-      "word": "截瘫女生否认与多个异性维持暧昧互动",
-      "onboard_time": 1752129801,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 215093,
       "num": 272753,
       "word": "铁路部门回应高铁E座去哪儿了",
@@ -700,11 +724,19 @@
     },
     {
       "raw_hot": 213832,
-      "num": 191558,
+      "num": 237205,
       "word": "关晓彤曾半夜偷吃方便面",
       "onboard_time": 1752131662,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212534,
+      "num": 236387,
+      "word": "银河左岸音乐节",
+      "onboard_time": 1752132983,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 210922,
@@ -721,14 +753,6 @@
       "onboard_time": 1752118222,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 209498,
-      "num": 273243,
-      "word": "特朗普要求韩方承担100亿美元军费",
-      "onboard_time": 1752130882,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 208950,
@@ -755,14 +779,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 204993,
-      "num": 204993,
-      "word": "银河左岸 梓渝",
-      "onboard_time": 1752132143,
-      "rank": 25,
-      "category": "演出"
-    },
-    {
       "raw_hot": 203974,
       "num": 191764,
       "word": "柳红回应片酬比五阿哥高",
@@ -779,6 +795,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 202954,
+      "num": 202954,
+      "word": "网友偶遇韦东奕医院看牙",
+      "onboard_time": 1752131662,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 202321,
       "num": 202321,
       "word": "男友驾车致女子截瘫当事人澄清",
@@ -787,12 +811,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 200026,
-      "num": 213060,
-      "word": "张翰剃了寸头",
-      "onboard_time": 1752130342,
-      "rank": 46,
-      "category": "艺人"
+      "raw_hot": 199549,
+      "num": 236600,
+      "word": "英国教授称儒家礼可以让世界讲和",
+      "onboard_time": 1752133162,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198848,
+      "num": 205489,
+      "word": "李现晒和杨紫拍立得",
+      "onboard_time": 1752132321,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 196628,
@@ -907,14 +939,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 179716,
-      "num": 179716,
-      "word": "网友偶遇韦东奕医院看牙",
-      "onboard_time": 1752131662,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 176480,
       "num": 182953,
       "word": "最想明天就播的电视剧",
@@ -937,6 +961,14 @@
       "onboard_time": 1752122544,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173404,
+      "num": 236000,
+      "word": "重庆一小区女保安因暴雨遇难",
+      "onboard_time": 1752132143,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172418,
@@ -1064,6 +1096,14 @@
       "word": "新娘荔枝盘发国风满满",
       "onboard_time": 1752125845,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156582,
+      "num": 236661,
+      "word": "快递员因热射病去世家属发声",
+      "onboard_time": 1752132143,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -1235,14 +1275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 142101,
-      "num": 142101,
-      "word": "李现晒和杨紫拍立得",
-      "onboard_time": 1752132321,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 141533,
       "num": 141533,
       "word": "曝桥本环奈中川大志将结婚",
@@ -1257,6 +1289,14 @@
       "onboard_time": 1752119483,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139547,
+      "num": 139547,
+      "word": "钻咖",
+      "onboard_time": 1752131783,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 139089,
@@ -1275,12 +1315,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138631,
+      "num": 138631,
+      "word": "怎么会有老板喜欢叫员工微信名",
+      "onboard_time": 1752132262,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 138087,
       "num": 138087,
       "word": "王者荣耀回应玩家吐槽新赛季",
       "onboard_time": 1752068244,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 137795,
+      "num": 204904,
+      "word": "为什么我们不看好有缺点的人相爱",
+      "onboard_time": 1752133222,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 136703,
+      "num": 136703,
+      "word": "教育优惠",
+      "onboard_time": 1752128122,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 135540,
@@ -1331,12 +1395,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132326,
-      "num": 190679,
-      "word": "快递员因热射病去世家属发声",
-      "onboard_time": 1752132143,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 132974,
+      "num": 132974,
+      "word": "特朗普宣布对铜征50%关税",
+      "onboard_time": 1752125302,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 130927,
@@ -1353,6 +1417,14 @@
       "onboard_time": 1752111022,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129537,
+      "num": 129537,
+      "word": "专家称高温热黑比紫外线更伤皮肤",
+      "onboard_time": 1752132922,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129355,
@@ -1393,6 +1465,14 @@
       "onboard_time": 1752075143,
       "rank": 28,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 128081,
+      "num": 128081,
+      "word": "杨紫说工业糖精加一",
+      "onboard_time": 1752133222,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 127302,
@@ -1459,14 +1539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121104,
-      "num": 121104,
-      "word": "特朗普宣布对铜征50%关税",
-      "onboard_time": 1752125302,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 119906,
       "num": 119906,
       "word": "小朋友为什么期待爸爸妈妈去接放学",
@@ -1499,28 +1571,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 116621,
-      "num": 116621,
-      "word": "钻咖",
-      "onboard_time": 1752131783,
-      "rank": 46,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 115336,
       "num": 284373,
       "word": "合资纯电销冠N7首推OTA",
       "onboard_time": 1752116601,
       "rank": 18,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 114153,
-      "num": 216580,
-      "word": "重庆一小区女保安因暴雨遇难",
-      "onboard_time": 1752132143,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 114018,
@@ -1569,14 +1625,6 @@
       "onboard_time": 1752110722,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 110537,
-      "num": 110537,
-      "word": "怎么会有老板喜欢叫员工微信名",
-      "onboard_time": 1752132262,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 110173,
@@ -1628,7 +1676,7 @@
     },
     {
       "raw_hot": 105227,
-      "num": 105227,
+      "num": 205537,
       "word": "歌手2025袭榜赛直播见面会",
       "onboard_time": 1752130042,
       "rank": 49,
@@ -1899,14 +1947,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 74010,
-      "num": 121053,
-      "word": "教育优惠",
-      "onboard_time": 1752128122,
-      "rank": 39,
-      "category": "数码"
-    },
-    {
       "raw_hot": 72785,
       "num": 72785,
       "word": "不要关注太多情侣博主",
@@ -1969,6 +2009,14 @@
       "onboard_time": 1752078980,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62494,
+      "num": 256193,
+      "word": "上海一公园狸花猫面部被鱼镖射穿",
+      "onboard_time": 1752132743,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60420,
@@ -2116,7 +2164,7 @@
     },
     {
       "raw_hot": 33121,
-      "num": 190386,
+      "num": 236181,
       "word": "营养师推荐5种高热量食物",
       "onboard_time": 1752132382,
       "rank": 32,
