@@ -1,0 +1,410 @@
+{
+  "runTime": 1752189969746,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1958664,
+        "num": 1958664,
+        "word": "陈熠3比1孙颖莎",
+        "onboard_time": 1752188718,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 735299,
+        "num": 735299,
+        "word": "王曼昱1比3朱雨玲",
+        "onboard_time": 1752188540,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24224,
+        "num": 575434,
+        "word": "五个新说透102项重大工程看点",
+        "onboard_time": 1752158005,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 538778,
+        "num": 538778,
+        "word": "七分裤怎么又火了",
+        "onboard_time": 1752161604,
+        "rank": 3,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 357463,
+        "num": 357463,
+        "word": "爱人彻夜不归去前男友小区练瑜伽",
+        "onboard_time": 1752153443,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261487,
+        "num": 261487,
+        "word": "内娱神女降级史",
+        "onboard_time": 1752161124,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256818,
+        "num": 256818,
+        "word": "钱宏明自杀",
+        "onboard_time": 1752155544,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253395,
+        "num": 253395,
+        "word": "干部出轨他人妻子或被开除",
+        "onboard_time": 1752163282,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236915,
+        "num": 236915,
+        "word": "女子常穿洞洞鞋致足底钙化行走困难",
+        "onboard_time": 1752152242,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56635,
+        "num": 236474,
+        "word": "巴西要给特朗普退信",
+        "onboard_time": 1752188778,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 345221,
+        "num": 231696,
+        "word": "田栩宁通告被取消了",
+        "onboard_time": 1752157826,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 342996,
+        "num": 230263,
+        "word": "葛荟婕回应女儿小苹果不找她",
+        "onboard_time": 1752188718,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331118,
+        "num": 225273,
+        "word": "闲鱼就是一个巨大的人间世",
+        "onboard_time": 1752148642,
+        "rank": 12,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 264577,
+        "num": 223698,
+        "word": "陈乔恩谈不生孩子原因",
+        "onboard_time": 1752154283,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141344,
+        "num": 220835,
+        "word": "梓渝取消hi6录制",
+        "onboard_time": 1752157284,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110544,
+        "num": 218140,
+        "word": "王一博被外国友人排队合照秒配合",
+        "onboard_time": 1752163402,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61402,
+        "num": 215945,
+        "word": "杭州三名游客马尔代夫回来查出登革热",
+        "onboard_time": 1752182954,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91877,
+        "num": 211409,
+        "word": "胡一天对接发文",
+        "onboard_time": 1752160344,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106798,
+        "num": 208900,
+        "word": "杨少华九平米房子住了一家六口",
+        "onboard_time": 1752149003,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190723,
+        "num": 205804,
+        "word": "陈熠晋级美国大满贯8强",
+        "onboard_time": 1752189139,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204847,
+        "num": 204847,
+        "word": "多方回应医院被指暴力接生",
+        "onboard_time": 1752162204,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179427,
+        "num": 179427,
+        "word": "不建议带着饥饿感入睡",
+        "onboard_time": 1752151703,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 143029,
+        "num": 159339,
+        "word": "孙颖莎女单止步16强",
+        "onboard_time": 1752189740,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156418,
+        "num": 156418,
+        "word": "文旅局回应西北大环线暗布扎胎器",
+        "onboard_time": 1752174975,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146227,
+        "num": 146227,
+        "word": "同居2年分手男方索要48.8万彩礼被拒",
+        "onboard_time": 1752155362,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137127,
+        "num": 137127,
+        "word": "再亲密的情侣关系也必须回归法律责任",
+        "onboard_time": 1752154043,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131356,
+        "num": 131356,
+        "word": "兰州人才引进20岁女硕士",
+        "onboard_time": 1752152002,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123900,
+        "num": 123900,
+        "word": "朱雨玲回应战胜王曼昱",
+        "onboard_time": 1752189438,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58157,
+        "num": 121534,
+        "word": "白鹿水灵灵地翻了",
+        "onboard_time": 1752148581,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48115,
+        "num": 119838,
+        "word": "车铜优",
+        "onboard_time": 1752147203,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119390,
+        "num": 119390,
+        "word": "陈熠进8强",
+        "onboard_time": 1752189800,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116866,
+        "num": 116866,
+        "word": "父亲酒后暴打几岁女儿致粉碎性骨折",
+        "onboard_time": 1752153984,
+        "rank": 31,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 114027,
+        "num": 114027,
+        "word": "中国军方未使用激光瞄准德国飞机",
+        "onboard_time": 1752159745,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 105488,
+        "num": 105488,
+        "word": "国足出征东亚杯托运140件行李",
+        "onboard_time": 1752157643,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103771,
+        "num": 103771,
+        "word": "巴西总统对美强硬表态",
+        "onboard_time": 1752187277,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96325,
+        "num": 96325,
+        "word": "孙颖莎女双赛场继续加油",
+        "onboard_time": 1752189559,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95232,
+        "num": 95232,
+        "word": "女子拒绝3倍工作量被辞获赔12万",
+        "onboard_time": 1752161544,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80388,
+        "num": 80388,
+        "word": "国足回应带较多行李入关",
+        "onboard_time": 1752160464,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74964,
+        "num": 74964,
+        "word": "3岁男童肥大扁桃体切除术后脑死亡",
+        "onboard_time": 1752145163,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69610,
+        "num": 69610,
+        "word": "连续工作8小时后因休息3分钟遭开除",
+        "onboard_time": 1752162502,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64050,
+        "num": 64050,
+        "word": "理发店给男子灌肠涉嫌犯罪",
+        "onboard_time": 1752143484,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57649,
+        "num": 57649,
+        "word": "马国明用2000条短信追求汤洛雯",
+        "onboard_time": 1752184815,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54604,
+        "num": 54604,
+        "word": "38岁天津北漂男子下班后住车里近3年",
+        "onboard_time": 1752189859,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47737,
+        "num": 54599,
+        "word": "在泰网红豆腐妹妹自曝被拐",
+        "onboard_time": 1752174795,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46410,
+        "num": 54593,
+        "word": "林昀儒郑怡静3比2松岛辉空张本美和",
+        "onboard_time": 1752189859,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44813,
+        "num": 54583,
+        "word": "斯瓦泰克vs阿尼西莫娃",
+        "onboard_time": 1752189859,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43588,
+        "num": 54581,
+        "word": "深圳3小时闪电1206次画面似大片",
+        "onboard_time": 1752162863,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39555,
+        "num": 54577,
+        "word": "用雪糕棒做西瓜扇子",
+        "onboard_time": 1752189199,
+        "rank": 47,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 39073,
+        "num": 54563,
+        "word": "养老金水平较低的调整幅度高一些",
+        "onboard_time": 1752182954,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37244,
+        "num": 54557,
+        "word": "如果允许退货退款的买家发买家秀",
+        "onboard_time": 1752160284,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全球文明对话部长级会议致贺信#"
+    }
+  }
+}
