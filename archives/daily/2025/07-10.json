@@ -1,6 +1,6 @@
 {
   "startTime": 1752078814060,
-  "endTime": 1752129575635,
+  "endTime": 1752130415420,
   "band_list": [
     {
       "raw_hot": 1896273,
@@ -267,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 471797,
+      "num": 471797,
+      "word": "防晒面罩越戴越黑",
+      "onboard_time": 1752125363,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 451381,
       "num": 451381,
       "word": "金钟国尹恩惠旧照",
@@ -289,14 +297,6 @@
       "onboard_time": 1752072685,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 404089,
-      "num": 404089,
-      "word": "防晒面罩越戴越黑",
-      "onboard_time": 1752125363,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 401710,
@@ -379,6 +379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 321290,
+      "num": 321290,
+      "word": "我国科学家把二氧化碳变成了糖",
+      "onboard_time": 1752125302,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 319091,
       "num": 319091,
       "word": "杨少华午休时安详辞世",
@@ -451,12 +459,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 282352,
-      "num": 282352,
-      "word": "我国科学家把二氧化碳变成了糖",
-      "onboard_time": 1752125302,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 284466,
+      "num": 284466,
+      "word": "孙颖莎说珍惜我俩场上配合的机会",
+      "onboard_time": 1752130282,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 279644,
@@ -513,6 +521,14 @@
       "onboard_time": 1752119783,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 255651,
+      "num": 296227,
+      "word": "黄子韬是徐艺洋的挂件",
+      "onboard_time": 1752128602,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 251781,
@@ -595,12 +611,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 226080,
+      "num": 226080,
+      "word": "小鱼薄荷影视化",
+      "onboard_time": 1752129923,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 225453,
       "num": 225453,
       "word": "宋茜张佳宁微醺",
       "onboard_time": 1752111682,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 222123,
+      "num": 222123,
+      "word": "天官赐福",
+      "onboard_time": 1752129682,
+      "rank": 21,
+      "category": "动漫"
     },
     {
       "raw_hot": 221704,
@@ -617,14 +649,6 @@
       "onboard_time": 1752109522,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 218477,
-      "num": 283534,
-      "word": "黄子韬是徐艺洋的挂件",
-      "onboard_time": 1752128602,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 215093,
@@ -676,7 +700,7 @@
     },
     {
       "raw_hot": 203974,
-      "num": 138133,
+      "num": 184053,
       "word": "柳红回应片酬比五阿哥高",
       "onboard_time": 1752126321,
       "rank": 45,
@@ -753,6 +777,14 @@
       "onboard_time": 1752118703,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186621,
+      "num": 282555,
+      "word": "卖玉米大姨跳海救人后回到原地摆摊",
+      "onboard_time": 1752128482,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185616,
@@ -971,6 +1003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151818,
+      "num": 151818,
+      "word": "花300块买1000斤西瓜去摆摊",
+      "onboard_time": 1752127282,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150255,
       "num": 150255,
       "word": "敢跟谢霆锋这么说话的只有阿Sa",
@@ -1099,14 +1139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 140414,
-      "num": 136653,
-      "word": "花300块买1000斤西瓜去摆摊",
-      "onboard_time": 1752127282,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 139739,
       "num": 139739,
       "word": "总台精品短剧集奇迹杀青",
@@ -1169,6 +1201,14 @@
       "onboard_time": 1752123144,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134522,
+      "num": 134522,
+      "word": "宋丹丹的话放到现在杀死所有恋爱脑",
+      "onboard_time": 1752129323,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 134296,
@@ -1267,14 +1307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 123456,
-      "num": 123456,
-      "word": "宋丹丹的话放到现在杀死所有恋爱脑",
-      "onboard_time": 1752129323,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 123016,
       "num": 131759,
       "word": "郭德纲悼念杨少华",
@@ -1297,6 +1329,14 @@
       "onboard_time": 1752121222,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 121557,
+      "num": 121557,
+      "word": "樱桃琥珀勾引我的事你都干了",
+      "onboard_time": 1752130101,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 118473,
@@ -1379,6 +1419,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 110173,
+      "num": 110173,
+      "word": "马斯克称Grok已比人类聪明得多",
+      "onboard_time": 1752129862,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 109827,
+      "num": 109827,
+      "word": "张翰剃了寸头",
+      "onboard_time": 1752130342,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109308,
       "num": 87908,
       "word": "其实发胖是有时间点的",
@@ -1393,6 +1449,14 @@
       "onboard_time": 1752075444,
       "rank": 33,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 107394,
+      "num": 107394,
+      "word": "37岁快递员因热射病去世",
+      "onboard_time": 1752130402,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106669,
@@ -1417,6 +1481,14 @@
       "onboard_time": 1752110661,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105227,
+      "num": 105227,
+      "word": "歌手2025袭榜赛直播见面会",
+      "onboard_time": 1752130042,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 105069,
@@ -1659,6 +1731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74826,
+      "num": 328942,
+      "word": "北京发布24条举措提振消费",
+      "onboard_time": 1752129024,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74787,
       "num": 74787,
       "word": "每天十分钟肝郁恢复95%",
@@ -1697,6 +1777,14 @@
       "onboard_time": 1752077062,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 69863,
+      "num": 222318,
+      "word": "驾车致女生截瘫男子母亲发声",
+      "onboard_time": 1752129682,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69347,
@@ -1739,12 +1827,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 62915,
-      "num": 328942,
-      "word": "北京发布24条举措提振消费",
-      "onboard_time": 1752129024,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 60420,
+      "num": 113150,
+      "word": "AG带你直击EWC开幕式",
+      "onboard_time": 1752130402,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 57342,
@@ -1771,20 +1859,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 49795,
+      "num": 185065,
+      "word": "美洛杉矶一隧道坍塌15人被困",
+      "onboard_time": 1752130222,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 47920,
       "num": 59612,
       "word": "有没有可能这才是真实世界",
       "onboard_time": 1752103699,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 47828,
-      "num": 282555,
-      "word": "卖玉米大姨跳海救人后回到原地摆摊",
-      "onboard_time": 1752128482,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 46102,
@@ -1816,6 +1904,14 @@
       "word": "再婚父亲向女儿索要赠款用于还债",
       "onboard_time": 1752082277,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42371,
+      "num": 137805,
+      "word": "截瘫女生否认与多个异性维持暧昧互动",
+      "onboard_time": 1752129801,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
