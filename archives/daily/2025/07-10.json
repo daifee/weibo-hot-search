@@ -1,6 +1,6 @@
 {
   "startTime": 1752078814060,
-  "endTime": 1752136539551,
+  "endTime": 1752137407733,
   "band_list": [
     {
       "raw_hot": 1896273,
@@ -25,6 +25,14 @@
       "onboard_time": 1752121883,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1594082,
+      "num": 1594082,
+      "word": "退休人员基本养老金上调2%",
+      "onboard_time": 1752136103,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1558218,
@@ -427,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 354988,
+      "num": 304050,
+      "word": "女子称丈夫因健身发出声响被门店拉黑",
+      "onboard_time": 1752134241,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 354886,
       "num": 299872,
       "word": "七月的一天",
@@ -449,14 +465,6 @@
       "onboard_time": 1752112761,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 325126,
-      "num": 304050,
-      "word": "女子称丈夫因健身发出声响被门店拉黑",
-      "onboard_time": 1752134241,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 324475,
@@ -507,20 +515,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 315942,
-      "num": 315942,
-      "word": "退休人员基本养老金上调2%",
-      "onboard_time": 1752136103,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 314199,
       "num": 248296,
       "word": "原来读书真的会影响潜意识",
       "onboard_time": 1752124582,
       "rank": 30,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 308808,
+      "num": 295916,
+      "word": "谢娜回应李维嘉",
+      "onboard_time": 1752135444,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 305645,
@@ -545,14 +553,6 @@
       "onboard_time": 1752073284,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 295916,
-      "num": 295916,
-      "word": "谢娜回应李维嘉",
-      "onboard_time": 1752135444,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 293572,
@@ -668,11 +668,19 @@
     },
     {
       "raw_hot": 243837,
-      "num": 197542,
+      "num": 228530,
       "word": "医院回应韦东奕看牙",
       "onboard_time": 1752134122,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 238908,
+      "num": 238908,
+      "word": "谢娜是怎么同意李维嘉坐在观察室的",
+      "onboard_time": 1752135743,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 236939,
@@ -697,6 +705,14 @@
       "onboard_time": 1752123444,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 233202,
+      "num": 233202,
+      "word": "杨天真 又瘦又美又有钱的自信",
+      "onboard_time": 1752136703,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 231569,
@@ -787,14 +803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 215318,
-      "num": 215318,
-      "word": "谢娜是怎么同意李维嘉坐在观察室的",
-      "onboard_time": 1752135743,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 215093,
       "num": 272753,
       "word": "铁路部门回应高铁E座去哪儿了",
@@ -859,6 +867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 204087,
+      "num": 204087,
+      "word": "养老金",
+      "onboard_time": 1752137183,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203974,
       "num": 191764,
       "word": "柳红回应片酬比五阿哥高",
@@ -905,6 +921,14 @@
       "onboard_time": 1752131000,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195324,
+      "num": 195324,
+      "word": "专家称高温热黑比紫外线更伤皮肤",
+      "onboard_time": 1752132922,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195038,
@@ -1059,6 +1083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174243,
+      "num": 174243,
+      "word": "杨紫李现纯元cp前世今生",
+      "onboard_time": 1752136823,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173404,
       "num": 236000,
       "word": "重庆一小区女保安因暴雨遇难",
@@ -1107,8 +1139,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168347,
+      "num": 168347,
+      "word": "全球文明对话部长级会议",
+      "onboard_time": 1752136464,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 166854,
-      "num": 166854,
+      "num": 170173,
       "word": "高价购买LABUBU的人现在还好吗",
       "onboard_time": 1752135683,
       "rank": 35,
@@ -1121,14 +1161,6 @@
       "onboard_time": 1752112342,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 166362,
-      "num": 166362,
-      "word": "专家称高温热黑比紫外线更伤皮肤",
-      "onboard_time": 1752132922,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 166048,
@@ -1179,6 +1211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 160948,
+      "num": 228728,
+      "word": "养老金调整重点向中低收入群体倾斜",
+      "onboard_time": 1752136942,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158697,
       "num": 277988,
       "word": "三星折叠屏比直板更轻薄",
@@ -1217,6 +1257,14 @@
       "onboard_time": 1752132143,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155697,
+      "num": 155697,
+      "word": "白敬亭新剧当代年轻人嘴替",
+      "onboard_time": 1752136583,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 153871,
@@ -1347,6 +1395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 144580,
+      "num": 144580,
+      "word": "被王一博这个挑眉撩到了",
+      "onboard_time": 1752137183,
+      "rank": 37,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 144354,
       "num": 144354,
       "word": "原来大家都有文字讨好症",
@@ -1404,7 +1460,7 @@
     },
     {
       "raw_hot": 139547,
-      "num": 139547,
+      "num": 140726,
       "word": "钻咖",
       "onboard_time": 1752131783,
       "rank": 46,
@@ -1425,6 +1481,14 @@
       "onboard_time": 1752115223,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138691,
+      "num": 138691,
+      "word": "雨太大了 撑伞也没有用",
+      "onboard_time": 1752136763,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 138087,
@@ -1457,14 +1521,6 @@
       "onboard_time": 1752123383,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 135350,
-      "num": 135350,
-      "word": "全球文明对话部长级会议",
-      "onboard_time": 1752136464,
-      "rank": 38,
-      "category": "国内时政"
     },
     {
       "raw_hot": 135314,
@@ -1691,12 +1747,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 118238,
+      "num": 130922,
+      "word": "日本警方回应中国球迷遭袭击致重伤",
+      "onboard_time": 1752135562,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117857,
       "num": 117857,
       "word": "黄景瑜越完野还回家吗",
       "onboard_time": 1752129442,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116941,
+      "num": 116941,
+      "word": "700GB的月亮照片",
+      "onboard_time": 1752135923,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115336,
@@ -1777,14 +1849,6 @@
       "onboard_time": 1752129862,
       "rank": 45,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 109559,
-      "num": 109559,
-      "word": "700GB的月亮照片",
-      "onboard_time": 1752135923,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 109308,
@@ -1993,14 +2057,6 @@
       "onboard_time": 1752065663,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 88435,
-      "num": 130922,
-      "word": "日本警方回应中国球迷遭袭击致重伤",
-      "onboard_time": 1752135562,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87873,
@@ -2337,6 +2393,14 @@
       "onboard_time": 1752132382,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 23965,
+      "num": 216615,
+      "word": "阿富汗旅游视频显示可玩美制军械",
+      "onboard_time": 1752136942,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 23259,
