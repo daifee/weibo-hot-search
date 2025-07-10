@@ -1,0 +1,410 @@
+{
+  "runTime": 1752169476967,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 509929,
+        "num": 509929,
+        "word": "七分裤怎么又火了",
+        "onboard_time": 1752161604,
+        "rank": 0,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 267271,
+        "num": 267271,
+        "word": "梓渝取消hi6录制",
+        "onboard_time": 1752157284,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18711,
+        "num": 247624,
+        "word": "五个新说透102项重大工程看点",
+        "onboard_time": 1752158005,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 240123,
+        "num": 240123,
+        "word": "内娱神女降级史",
+        "onboard_time": 1752161124,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169706,
+        "num": 169706,
+        "word": "网约车空调费之争该如何解",
+        "onboard_time": 1752165140,
+        "rank": 4,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 160423,
+        "num": 160423,
+        "word": "不建议带着饥饿感入睡",
+        "onboard_time": 1752151703,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 182978,
+        "num": 159673,
+        "word": "钱宏明自杀",
+        "onboard_time": 1752155544,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158388,
+        "num": 158388,
+        "word": "干部出轨他人妻子或被开除",
+        "onboard_time": 1752163282,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135381,
+        "num": 135381,
+        "word": "胡一天对接发文",
+        "onboard_time": 1752160344,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36982,
+        "num": 133697,
+        "word": "气象台回应深圳3小时闪电1206次",
+        "onboard_time": 1752168436,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383363,
+        "num": 128638,
+        "word": "田栩宁通告被取消了",
+        "onboard_time": 1752157826,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321867,
+        "num": 124348,
+        "word": "闲鱼就是一个巨大的人间世",
+        "onboard_time": 1752148642,
+        "rank": 11,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 155551,
+        "num": 120746,
+        "word": "陈乔恩谈不生孩子原因",
+        "onboard_time": 1752154283,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118620,
+        "num": 118620,
+        "word": "女子常穿洞洞鞋致足底钙化行走困难",
+        "onboard_time": 1752152242,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93007,
+        "num": 93007,
+        "word": "同居2年分手男方索要48.8万彩礼被拒",
+        "onboard_time": 1752155362,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89872,
+        "num": 89872,
+        "word": "王一博被外国友人排队合照秒配合",
+        "onboard_time": 1752163402,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78860,
+        "num": 78860,
+        "word": "父亲酒后暴打几岁女儿致粉碎性骨折",
+        "onboard_time": 1752153984,
+        "rank": 16,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 78702,
+        "num": 78702,
+        "word": "梓渝生日作业有在准备交",
+        "onboard_time": 1752167837,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68849,
+        "num": 68849,
+        "word": "车铜优",
+        "onboard_time": 1752147203,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67132,
+        "num": 67132,
+        "word": "中国军方未使用激光瞄准德国飞机",
+        "onboard_time": 1752159745,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 61865,
+        "num": 61865,
+        "word": "兰州人才引进20岁女硕士",
+        "onboard_time": 1752152002,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58917,
+        "num": 58917,
+        "word": "连续工作8小时后因休息3分钟遭开除",
+        "onboard_time": 1752162502,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58161,
+        "num": 58161,
+        "word": "李一桐胡一天或二搭",
+        "onboard_time": 1752165681,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56794,
+        "num": 56794,
+        "word": "101202303404",
+        "onboard_time": 1752140781,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55143,
+        "num": 55143,
+        "word": "王俊凯代言英雄联盟",
+        "onboard_time": 1752152303,
+        "rank": 24,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 53416,
+        "num": 53416,
+        "word": "蔡徐坤ins",
+        "onboard_time": 1752160344,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52973,
+        "num": 52973,
+        "word": "李兰迪怎么什么都亲得下去啊",
+        "onboard_time": 1752144682,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52835,
+        "num": 52835,
+        "word": "国足回应带较多行李入关",
+        "onboard_time": 1752160464,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52424,
+        "num": 52424,
+        "word": "再亲密的情侣关系也必须回归法律责任",
+        "onboard_time": 1752154043,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51938,
+        "num": 51938,
+        "word": "黑马做双眼皮手术",
+        "onboard_time": 1752168138,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 51748,
+        "num": 51748,
+        "word": "京城大师赛",
+        "onboard_time": 1752165081,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 49914,
+        "num": 49914,
+        "word": "金旻奎抽烟",
+        "onboard_time": 1752146781,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48290,
+        "num": 48290,
+        "word": "车银优还没入伍车铜优就上桌了",
+        "onboard_time": 1752166999,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46730,
+        "num": 46730,
+        "word": "爱人彻夜不归去前男友小区练瑜伽",
+        "onboard_time": 1752153443,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44165,
+        "num": 44165,
+        "word": "宋佳王一博 体制内姐弟",
+        "onboard_time": 1752146963,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43641,
+        "num": 43641,
+        "word": "如果允许退货退款的买家发买家秀",
+        "onboard_time": 1752160284,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 43406,
+        "num": 43406,
+        "word": "迅猛龙回应考研是炒作质疑",
+        "onboard_time": 1752148882,
+        "rank": 36,
+        "category": "网红,教育"
+      },
+      {
+        "raw_hot": 42292,
+        "num": 42292,
+        "word": "白鹿水灵灵地翻了",
+        "onboard_time": 1752148581,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42291,
+        "num": 42291,
+        "word": "甲亢哥谈最好的国家第一个提中国",
+        "onboard_time": 1752152603,
+        "rank": 38,
+        "category": "海外新闻,网红"
+      },
+      {
+        "raw_hot": 42225,
+        "num": 42225,
+        "word": "女子拒绝3倍工作量被辞获赔12万",
+        "onboard_time": 1752161544,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41957,
+        "num": 41957,
+        "word": "理发店给男子灌肠涉嫌犯罪",
+        "onboard_time": 1752143484,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41518,
+        "num": 41518,
+        "word": "永远别提前焦虑",
+        "onboard_time": 1752165799,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 39735,
+        "num": 39735,
+        "word": "3岁男童肥大扁桃体切除术后脑死亡",
+        "onboard_time": 1752145163,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38834,
+        "num": 38834,
+        "word": "国足出征东亚杯托运140件行李",
+        "onboard_time": 1752157643,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38281,
+        "num": 38281,
+        "word": "多方回应医院被指暴力接生",
+        "onboard_time": 1752162204,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37734,
+        "num": 38280,
+        "word": "英雄联盟",
+        "onboard_time": 1752150443,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 32826,
+        "num": 38276,
+        "word": "深圳3小时闪电1206次画面似大片",
+        "onboard_time": 1752162863,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31978,
+        "num": 38272,
+        "word": "EDG无畏契约",
+        "onboard_time": 1752158664,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 28063,
+        "num": 38269,
+        "word": "花52万医美术后留下98厘米疤痕",
+        "onboard_time": 1752153263,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27982,
+        "num": 38267,
+        "word": "无畏契约",
+        "onboard_time": 1752156503,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#希望三晋大地的明天更美好#"
+    }
+  }
+}
