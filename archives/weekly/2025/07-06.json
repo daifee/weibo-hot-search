@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1752166298337,
+  "endTime": 1752168388313,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -7395,6 +7395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181292,
+      "num": 181292,
+      "word": "网约车空调费之争该如何解",
+      "onboard_time": 1752165140,
+      "rank": 34,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 181162,
       "num": 374745,
       "word": "女子强占出租车避雨被驱赶狂叫",
@@ -13251,6 +13259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 113782,
+      "num": 113782,
+      "word": "梓渝生日作业有在准备交",
+      "onboard_time": 1752167837,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113769,
       "num": 113769,
       "word": "BLACKPINK新歌",
@@ -15803,6 +15819,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 74850,
+      "num": 74850,
+      "word": "京城大师赛",
+      "onboard_time": 1752165081,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 74826,
       "num": 328942,
       "word": "北京发布24条举措提振消费",
@@ -16065,14 +16089,6 @@
       "onboard_time": 1751775683,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 69291,
-      "num": 69291,
-      "word": "京城大师赛",
-      "onboard_time": 1752165081,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 69145,
@@ -16763,6 +16779,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 50842,
+      "num": 50842,
+      "word": "车银优还没入伍车铜优就上桌了",
+      "onboard_time": 1752166999,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 49795,
       "num": 185065,
       "word": "美洛杉矶一隧道坍塌15人被困",
@@ -16915,14 +16939,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 45698,
-      "num": 174692,
-      "word": "网约车空调费之争该如何解",
-      "onboard_time": 1752165140,
-      "rank": 34,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 45546,
       "num": 131954,
       "word": "天水幼儿园铅中毒背后的隐形毒源",
@@ -16985,6 +17001,14 @@
       "onboard_time": 1752051982,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 43975,
+      "num": 43975,
+      "word": "黑马做双眼皮手术",
+      "onboard_time": 1752168138,
+      "rank": 43,
+      "category": "网红"
     },
     {
       "raw_hot": 43957,
@@ -17289,6 +17313,14 @@
       "onboard_time": 1751914995,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37655,
+      "num": 43965,
+      "word": "恐龙给李荣浩吓一激灵",
+      "onboard_time": 1752166879,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 37467,

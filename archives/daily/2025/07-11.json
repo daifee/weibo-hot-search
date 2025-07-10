@@ -1,6 +1,6 @@
 {
   "startTime": 1752165274435,
-  "endTime": 1752166298337,
+  "endTime": 1752168388313,
   "band_list": [
     {
       "raw_hot": 843387,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181292,
+      "num": 181292,
+      "word": "网约车空调费之争该如何解",
+      "onboard_time": 1752165140,
+      "rank": 34,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 172769,
       "num": 272719,
       "word": "国足回应带较多行李入关",
@@ -208,6 +216,14 @@
       "word": "宋佳王一博 体制内姐弟",
       "onboard_time": 1752146963,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 113782,
+      "num": 113782,
+      "word": "梓渝生日作业有在准备交",
+      "onboard_time": 1752167837,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -355,6 +371,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 74850,
+      "num": 74850,
+      "word": "京城大师赛",
+      "onboard_time": 1752165081,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 73623,
       "num": 73623,
       "word": "多年后马斯克仍然会想起2025年夏天",
@@ -379,14 +403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 69291,
-      "num": 69291,
-      "word": "京城大师赛",
-      "onboard_time": 1752165081,
-      "rank": 40,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 66973,
       "num": 66973,
       "word": "永远别提前焦虑",
@@ -403,20 +419,44 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 45698,
-      "num": 174692,
-      "word": "网约车空调费之争该如何解",
-      "onboard_time": 1752165140,
-      "rank": 34,
-      "category": "议题讨论"
-    },
-    {
-      "raw_hot": 38091,
+      "raw_hot": 52456,
       "num": 96632,
       "word": "多方回应医院被指暴力接生",
       "onboard_time": 1752162204,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50901,
+      "num": 167751,
+      "word": "爱人彻夜不归去前男友小区练瑜伽",
+      "onboard_time": 1752153443,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50842,
+      "num": 50842,
+      "word": "车银优还没入伍车铜优就上桌了",
+      "onboard_time": 1752166999,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 43975,
+      "num": 43975,
+      "word": "黑马做双眼皮手术",
+      "onboard_time": 1752168138,
+      "rank": 43,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 37655,
+      "num": 43965,
+      "word": "恐龙给李荣浩吓一激灵",
+      "onboard_time": 1752166879,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 36832,
