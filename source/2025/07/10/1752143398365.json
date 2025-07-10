@@ -1,0 +1,410 @@
+{
+  "runTime": 1752143398365,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1397772,
+        "num": 1397772,
+        "word": "女子称因狐臭遭同事投诉被公司辞退",
+        "onboard_time": 1752137482,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 959634,
+        "num": 959634,
+        "word": "网传虞书欣梓渝将合作永白日海",
+        "onboard_time": 1752141143,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82706,
+        "num": 852471,
+        "word": "2500岁的尼山有多会唠",
+        "onboard_time": 1752140181,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 847471,
+        "num": 847471,
+        "word": "退休人员基本养老金上调2%",
+        "onboard_time": 1752136103,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 781092,
+        "num": 781092,
+        "word": "冻荔枝",
+        "onboard_time": 1752137663,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 771913,
+        "num": 771913,
+        "word": "美团免单",
+        "onboard_time": 1752124101,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 650402,
+        "num": 650402,
+        "word": "网红律师西绿已被刑拘",
+        "onboard_time": 1752141261,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 445360,
+        "num": 445360,
+        "word": "王一博回国第一天就开会",
+        "onboard_time": 1752138382,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244348,
+        "num": 435853,
+        "word": "特朗普任命真人秀演员为NASA临时局长",
+        "onboard_time": 1752140542,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 189173,
+        "num": 433990,
+        "word": "男子6万月租住进甲醛房",
+        "onboard_time": 1752139881,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 432375,
+        "num": 432375,
+        "word": "杨天真 又瘦又美又有钱的自信",
+        "onboard_time": 1752136703,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431187,
+        "num": 431187,
+        "word": "李泳知买到仿冒Labubu",
+        "onboard_time": 1752137423,
+        "rank": 11,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 412187,
+        "num": 412187,
+        "word": "借款20万还款2800万仍欠470万",
+        "onboard_time": 1752126802,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 411230,
+        "num": 411230,
+        "word": "于龙向杨咩咩求婚",
+        "onboard_time": 1752138203,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60501,
+        "num": 396762,
+        "word": "热门博物馆门票秒光是我手速慢吗",
+        "onboard_time": 1752141682,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 394781,
+        "num": 394781,
+        "word": "李一桐本人来了都得愣两秒",
+        "onboard_time": 1752138263,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 389254,
+        "num": 389254,
+        "word": "在闲鱼倒卖乌克兰装备",
+        "onboard_time": 1752142102,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 365579,
+        "num": 365579,
+        "word": "关晓彤晒黑了",
+        "onboard_time": 1752140001,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362979,
+        "num": 362979,
+        "word": "101202303404",
+        "onboard_time": 1752140781,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67407,
+        "num": 323057,
+        "word": "男子捞手机索酬未果扔回河被行拘",
+        "onboard_time": 1752142881,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319407,
+        "num": 319407,
+        "word": "暴雨中两人合力救起倒地路人",
+        "onboard_time": 1752142283,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296300,
+        "num": 296300,
+        "word": "朱微之葛洧吟要结婚了",
+        "onboard_time": 1752142221,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295698,
+        "num": 295698,
+        "word": "新疆偶遇森林北",
+        "onboard_time": 1752141322,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279059,
+        "num": 279059,
+        "word": "截瘫女生否认与多个异性维持暧昧互动",
+        "onboard_time": 1752129801,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202212,
+        "num": 202212,
+        "word": "女子称丈夫因健身发出声响被门店拉黑",
+        "onboard_time": 1752134241,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200953,
+        "num": 200953,
+        "word": "养老金调整重点向中低收入群体倾斜",
+        "onboard_time": 1752136942,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189314,
+        "num": 189314,
+        "word": "杨梅荔枝蛋糕",
+        "onboard_time": 1752137482,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 171575,
+        "num": 186028,
+        "word": "书卷一梦全员都在觉醒",
+        "onboard_time": 1752142461,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147847,
+        "num": 183785,
+        "word": "李连杰说娱乐圈谁红谁坐C位",
+        "onboard_time": 1752143061,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132830,
+        "num": 183200,
+        "word": "一见钟情被李兰迪敖瑞鹏演出来了",
+        "onboard_time": 1752142283,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183058,
+        "num": 183058,
+        "word": "雨太大了 撑伞也没有用",
+        "onboard_time": 1752136763,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176115,
+        "num": 176115,
+        "word": "马思纯瘦回黎吧啦",
+        "onboard_time": 1752117022,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156291,
+        "num": 156291,
+        "word": "小米汽车交付量超30万台",
+        "onboard_time": 1752143182,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 151366,
+        "num": 151366,
+        "word": "医院回应韦东奕看牙",
+        "onboard_time": 1752134122,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145054,
+        "num": 145054,
+        "word": "银河左岸 梓渝",
+        "onboard_time": 1752132143,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136510,
+        "num": 136510,
+        "word": "中国球迷遭日本球迷袭击致重伤",
+        "onboard_time": 1752133343,
+        "rank": 35,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 128134,
+        "num": 128134,
+        "word": "英国教授称儒家礼可以让世界讲和",
+        "onboard_time": 1752133162,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126523,
+        "num": 126523,
+        "word": "养老金",
+        "onboard_time": 1752137183,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126451,
+        "num": 126451,
+        "word": "杨少华参加剪彩餐馆停业一个月",
+        "onboard_time": 1752134961,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17199,
+        "num": 124432,
+        "word": "园林弟还没落地我先造谣",
+        "onboard_time": 1752143122,
+        "rank": 39,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 123866,
+        "num": 123866,
+        "word": "白宇张凌赫 男人和男孩",
+        "onboard_time": 1752139582,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123832,
+        "num": 123832,
+        "word": "小猫舔毛的时候伸什么都会帮你舔",
+        "onboard_time": 1752139101,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122655,
+        "num": 122655,
+        "word": "结婚下一步一定就是催生",
+        "onboard_time": 1752142762,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117243,
+        "num": 117243,
+        "word": "柯基混血",
+        "onboard_time": 1752141082,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115965,
+        "num": 115965,
+        "word": "上海迪士尼发声明",
+        "onboard_time": 1752138143,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115390,
+        "num": 115390,
+        "word": "时速600公里贴地飞行列车来了",
+        "onboard_time": 1752142703,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114611,
+        "num": 114611,
+        "word": "周奇在看小欢喜2原著",
+        "onboard_time": 1752140302,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110851,
+        "num": 110851,
+        "word": "如果大米饭只能配一个菜的话",
+        "onboard_time": 1752142942,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 110453,
+        "num": 110453,
+        "word": "很多人是接不住真诚这种频率的",
+        "onboard_time": 1752140122,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109925,
+        "num": 109925,
+        "word": "敖子逸祝粉丝永远不死",
+        "onboard_time": 1752141202,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记勉励三晋大地#"
+    }
+  }
+}

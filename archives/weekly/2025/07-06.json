@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1752140688499,
+  "endTime": 1752143398365,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -491,6 +491,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1397772,
+      "num": 1397772,
+      "word": "女子称因狐臭遭同事投诉被公司辞退",
+      "onboard_time": 1752137482,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1389386,
       "num": 437473,
       "word": "江宁婆婆",
@@ -931,6 +939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 959634,
+      "num": 959634,
+      "word": "网传虞书欣梓渝将合作永白日海",
+      "onboard_time": 1752141143,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 944944,
       "num": 1151191,
       "word": "以法之名更新了",
@@ -1203,6 +1219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 781092,
+      "num": 781092,
+      "word": "冻荔枝",
+      "onboard_time": 1752137663,
+      "rank": 5,
+      "category": "美食"
+    },
+    {
       "raw_hot": 779089,
       "num": 779089,
       "word": "彭昱畅我现在有1.4了",
@@ -1321,14 +1345,6 @@
       "onboard_time": 1752017600,
       "rank": 14,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 744957,
-      "num": 744957,
-      "word": "女子称因狐臭遭同事投诉被公司辞退",
-      "onboard_time": 1752137482,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 741441,
@@ -1643,8 +1659,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 650402,
+      "num": 650402,
+      "word": "网红律师西绿已被刑拘",
+      "onboard_time": 1752141261,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 648651,
-      "num": 424862,
+      "num": 432375,
       "word": "杨天真 又瘦又美又有钱的自信",
       "onboard_time": 1752136703,
       "rank": 13,
@@ -1809,14 +1833,6 @@
       "onboard_time": 1752122903,
       "rank": 13,
       "category": "财经"
-    },
-    {
-      "raw_hot": 621568,
-      "num": 621568,
-      "word": "冻荔枝",
-      "onboard_time": 1752137663,
-      "rank": 5,
-      "category": "美食"
     },
     {
       "raw_hot": 619179,
@@ -2635,6 +2651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 431187,
+      "num": 431187,
+      "word": "李泳知买到仿冒Labubu",
+      "onboard_time": 1752137423,
+      "rank": 12,
+      "category": "艺人,动漫"
+    },
+    {
       "raw_hot": 429676,
       "num": 319091,
       "word": "杨少华午休时安详辞世",
@@ -2819,6 +2843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 411230,
+      "num": 411230,
+      "word": "于龙向杨咩咩求婚",
+      "onboard_time": 1752138203,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 410537,
       "num": 410597,
       "word": "中国要像手机一样造战斗机",
@@ -2883,6 +2915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 394781,
+      "num": 394781,
+      "word": "李一桐本人来了都得愣两秒",
+      "onboard_time": 1752138263,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 393473,
       "num": 269856,
       "word": "朱珠 妈咪不会营业",
@@ -2921,6 +2961,14 @@
       "onboard_time": 1752067764,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 389254,
+      "num": 389254,
+      "word": "在闲鱼倒卖乌克兰装备",
+      "onboard_time": 1752142102,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 388868,
@@ -3099,12 +3147,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 365290,
-      "num": 365290,
-      "word": "李泳知买到仿冒Labubu",
-      "onboard_time": 1752137423,
-      "rank": 12,
-      "category": "艺人,动漫"
+      "raw_hot": 365579,
+      "num": 365579,
+      "word": "关晓彤晒黑了",
+      "onboard_time": 1752140001,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 362989,
@@ -3113,6 +3161,14 @@
       "onboard_time": 1752135444,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 362979,
+      "num": 362979,
+      "word": "101202303404",
+      "onboard_time": 1752140781,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 362848,
@@ -3241,14 +3297,6 @@
       "onboard_time": 1751980284,
       "rank": 8,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 349233,
-      "num": 382104,
-      "word": "李一桐本人来了都得愣两秒",
-      "onboard_time": 1752138263,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 346852,
@@ -3627,6 +3675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 319407,
+      "num": 319407,
+      "word": "暴雨中两人合力救起倒地路人",
+      "onboard_time": 1752142283,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 318921,
       "num": 318921,
       "word": "恋与深空回应剧情去中化",
@@ -3849,6 +3905,22 @@
       "onboard_time": 1752032123,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 296300,
+      "num": 296300,
+      "word": "朱微之葛洧吟要结婚了",
+      "onboard_time": 1752142221,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 295698,
+      "num": 295698,
+      "word": "新疆偶遇森林北",
+      "onboard_time": 1752141322,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 293572,
@@ -4395,14 +4467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 261438,
-      "num": 261438,
-      "word": "于龙向杨咩咩求婚",
-      "onboard_time": 1752138203,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 261225,
       "num": 662993,
       "word": "被爸妈认证的帅气和美貌",
@@ -4721,6 +4785,14 @@
       "onboard_time": 1751976022,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 244348,
+      "num": 435853,
+      "word": "特朗普任命真人秀演员为NASA临时局长",
+      "onboard_time": 1752140542,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 243992,
@@ -6395,14 +6467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 191329,
-      "num": 191329,
-      "word": "关晓彤晒黑了",
-      "onboard_time": 1752140001,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 191231,
       "num": 193688,
       "word": "易烊千玺成都演唱会报批",
@@ -6499,11 +6563,27 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 189314,
+      "num": 189314,
+      "word": "杨梅荔枝蛋糕",
+      "onboard_time": 1752137482,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 189220,
       "num": 560578,
       "word": "单位回应公务员称孕期请假工作摆烂",
       "onboard_time": 1751978242,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189173,
+      "num": 433990,
+      "word": "男子6万月租住进甲醛房",
+      "onboard_time": 1752139881,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -7451,6 +7531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171575,
+      "num": 186028,
+      "word": "书卷一梦全员都在觉醒",
+      "onboard_time": 1752142461,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171223,
       "num": 171223,
       "word": "Winter被摸手",
@@ -8323,6 +8411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156291,
+      "num": 156291,
+      "word": "小米汽车交付量超30万台",
+      "onboard_time": 1752143182,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 156269,
       "num": 156269,
       "word": "女校长诈骗5000万花3000万游戏充值",
@@ -8449,14 +8545,6 @@
       "onboard_time": 1751799081,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 154238,
-      "num": 154238,
-      "word": "杨梅荔枝蛋糕",
-      "onboard_time": 1752137482,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 154230,
@@ -9009,6 +9097,14 @@
       "onboard_time": 1751949443,
       "rank": 39,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 147847,
+      "num": 183785,
+      "word": "李连杰说娱乐圈谁红谁坐C位",
+      "onboard_time": 1752143061,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 147242,
@@ -10259,6 +10355,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 132830,
+      "num": 183200,
+      "word": "一见钟情被李兰迪敖瑞鹏演出来了",
+      "onboard_time": 1752142283,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132749,
       "num": 132749,
       "word": "山东舰编队访港",
@@ -10577,14 +10681,6 @@
       "onboard_time": 1751725344,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 130067,
-      "num": 130067,
-      "word": "男子6万月租住进甲醛房",
-      "onboard_time": 1752139881,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 129632,
@@ -11219,6 +11315,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 123866,
+      "num": 139836,
+      "word": "白宇张凌赫 男人和男孩",
+      "onboard_time": 1752139582,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123834,
       "num": 123834,
       "word": "WTT美国大满贯场地突然冒烟",
@@ -11305,6 +11409,14 @@
       "onboard_time": 1752125242,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 122655,
+      "num": 122655,
+      "word": "结婚下一步一定就是催生",
+      "onboard_time": 1752142762,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 122640,
@@ -11619,14 +11731,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 119563,
-      "num": 139836,
-      "word": "白宇张凌赫 男人和男孩",
-      "onboard_time": 1752139582,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 119537,
       "num": 119537,
       "word": "英雄联盟",
@@ -11851,6 +11955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117243,
+      "num": 117243,
+      "word": "柯基混血",
+      "onboard_time": 1752141082,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 117215,
       "num": 117215,
       "word": "每七天想离一次婚但说不出口",
@@ -12043,6 +12155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 115390,
+      "num": 115390,
+      "word": "时速600公里贴地飞行列车来了",
+      "onboard_time": 1752142703,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115365,
       "num": 524557,
       "word": "萨巴伦卡vs西格蒙德",
@@ -12129,6 +12249,14 @@
       "onboard_time": 1751983707,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114611,
+      "num": 118947,
+      "word": "周奇在看小欢喜2原著",
+      "onboard_time": 1752140302,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 114587,
@@ -12443,6 +12571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 110851,
+      "num": 110851,
+      "word": "如果大米饭只能配一个菜的话",
+      "onboard_time": 1752142942,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 110836,
       "num": 115460,
       "word": "耳帝评新说唱年轻选手洗牌",
@@ -12505,6 +12641,14 @@
       "onboard_time": 1751940502,
       "rank": 35,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 110453,
+      "num": 110453,
+      "word": "很多人是接不住真诚这种频率的",
+      "onboard_time": 1752140122,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 110444,
@@ -12601,6 +12745,14 @@
       "onboard_time": 1752073345,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 109925,
+      "num": 109925,
+      "word": "敖子逸祝粉丝永远不死",
+      "onboard_time": 1752141202,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 109825,
@@ -12705,14 +12857,6 @@
       "onboard_time": 1751880322,
       "rank": 46,
       "category": "民生新闻,数码"
-    },
-    {
-      "raw_hot": 108443,
-      "num": 118947,
-      "word": "周奇在看小欢喜2原著",
-      "onboard_time": 1752140302,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 108365,
@@ -14283,6 +14427,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 82706,
+      "num": 852471,
+      "word": "2500岁的尼山有多会唠",
+      "onboard_time": 1752140181,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82513,
       "num": 82513,
       "word": "AL对战CFO先下一城",
@@ -14361,14 +14513,6 @@
       "onboard_time": 1751773462,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 79668,
-      "num": 136550,
-      "word": "特朗普任命真人秀演员为NASA临时局长",
-      "onboard_time": 1752140542,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 79656,
@@ -14907,6 +15051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67407,
+      "num": 323057,
+      "word": "男子捞手机索酬未果扔回河被行拘",
+      "onboard_time": 1752142881,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66801,
       "num": 85706,
       "word": "孙颖莎懵懵比赞",
@@ -15144,6 +15296,14 @@
       "word": "律师解读南京红老头将担刑责",
       "onboard_time": 1751901624,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60501,
+      "num": 396762,
+      "word": "热门博物馆门票秒光是我手速慢吗",
+      "onboard_time": 1752141682,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -15729,14 +15889,6 @@
       "onboard_time": 1752049882,
       "rank": 25,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 42611,
-      "num": 755441,
-      "word": "2500岁的尼山有多会唠",
-      "onboard_time": 1752140181,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 42569,
@@ -16729,6 +16881,14 @@
       "onboard_time": 1752085336,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17199,
+      "num": 124432,
+      "word": "园林弟还没落地我先造谣",
+      "onboard_time": 1752143122,
+      "rank": 39,
+      "category": "游戏,动漫"
     },
     {
       "raw_hot": 17132,
