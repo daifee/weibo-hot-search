@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1752139847652,
+  "endTime": 1752140688499,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -1811,6 +1811,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 621568,
+      "num": 621568,
+      "word": "冻荔枝",
+      "onboard_time": 1752137663,
+      "rank": 5,
+      "category": "美食"
+    },
+    {
       "raw_hot": 619179,
       "num": 619179,
       "word": "G社拍的刘诗诗",
@@ -2177,14 +2185,6 @@
       "onboard_time": 1752024682,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 529343,
-      "num": 529343,
-      "word": "冻荔枝",
-      "onboard_time": 1752137663,
-      "rank": 5,
-      "category": "美食"
     },
     {
       "raw_hot": 527139,
@@ -3099,8 +3099,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 363944,
-      "num": 363944,
+      "raw_hot": 365290,
+      "num": 365290,
       "word": "李泳知买到仿冒Labubu",
       "onboard_time": 1752137423,
       "rank": 12,
@@ -3241,6 +3241,14 @@
       "onboard_time": 1751980284,
       "rank": 8,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 349233,
+      "num": 382104,
+      "word": "李一桐本人来了都得愣两秒",
+      "onboard_time": 1752138263,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 346852,
@@ -3963,14 +3971,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 281762,
-      "num": 281762,
-      "word": "李一桐本人来了都得愣两秒",
-      "onboard_time": 1752138263,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 281625,
       "num": 281625,
       "word": "恋与深空去中化",
@@ -4393,6 +4393,14 @@
       "onboard_time": 1752119783,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 261438,
+      "num": 261438,
+      "word": "于龙向杨咩咩求婚",
+      "onboard_time": 1752138203,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 261225,
@@ -5353,14 +5361,6 @@
       "onboard_time": 1751780421,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 216092,
-      "num": 216092,
-      "word": "于龙向杨咩咩求婚",
-      "onboard_time": 1752138203,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 215959,
@@ -6393,6 +6393,14 @@
       "onboard_time": 1751940502,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191329,
+      "num": 191329,
+      "word": "关晓彤晒黑了",
+      "onboard_time": 1752140001,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 191231,
@@ -10571,6 +10579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130067,
+      "num": 130067,
+      "word": "男子6万月租住进甲醛房",
+      "onboard_time": 1752139881,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129632,
       "num": 129632,
       "word": "李诞揭穿35岁焦虑真相",
@@ -11603,6 +11619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 119563,
+      "num": 139836,
+      "word": "白宇张凌赫 男人和男孩",
+      "onboard_time": 1752139582,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119537,
       "num": 119537,
       "word": "英雄联盟",
@@ -12235,14 +12259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 113284,
-      "num": 113284,
-      "word": "白宇张凌赫 男人和男孩",
-      "onboard_time": 1752139582,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 113216,
       "num": 113216,
       "word": "广东明确小产权房一律不得登记",
@@ -12436,7 +12452,7 @@
     },
     {
       "raw_hot": 110789,
-      "num": 236784,
+      "num": 368620,
       "word": "外交部回应特朗普加征50%铜关税",
       "onboard_time": 1752138263,
       "rank": 20,
@@ -12689,6 +12705,14 @@
       "onboard_time": 1751880322,
       "rank": 46,
       "category": "民生新闻,数码"
+    },
+    {
+      "raw_hot": 108443,
+      "num": 118947,
+      "word": "周奇在看小欢喜2原著",
+      "onboard_time": 1752140302,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 108365,
@@ -12953,6 +12977,14 @@
       "onboard_time": 1751887222,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 105476,
+      "num": 105476,
+      "word": "终究吃到了追星的苦",
+      "onboard_time": 1752138862,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 105281,
@@ -13987,6 +14019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89580,
+      "num": 138427,
+      "word": "大学录取通知书到哪了",
+      "onboard_time": 1752140243,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 89179,
       "num": 89179,
       "word": "中国5年再造广东江苏山东3个经济大省",
@@ -14321,6 +14361,14 @@
       "onboard_time": 1751773462,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 79668,
+      "num": 136550,
+      "word": "特朗普任命真人秀演员为NASA临时局长",
+      "onboard_time": 1752140542,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 79656,
@@ -15683,6 +15731,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 42611,
+      "num": 755441,
+      "word": "2500岁的尼山有多会唠",
+      "onboard_time": 1752140181,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42569,
       "num": 319757,
       "word": "外卖大战有骑手一天赚1700多元",
@@ -15992,6 +16048,14 @@
       "word": "世界市长对话上合峰会城市",
       "onboard_time": 1751775922,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34242,
+      "num": 249586,
+      "word": "200万人用稳定币投资陷130亿骗局",
+      "onboard_time": 1752139282,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -16419,14 +16483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 24238,
-      "num": 249586,
-      "word": "200万人用稳定币投资陷130亿骗局",
-      "onboard_time": 1752139282,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23965,
       "num": 216615,
       "word": "阿富汗旅游视频显示可玩美制军械",
@@ -16553,6 +16609,14 @@
       "onboard_time": 1751997257,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 20945,
+      "num": 138081,
+      "word": "中国球迷被日本赤膊男子打骨折",
+      "onboard_time": 1752140542,
+      "rank": 29,
+      "category": "民生新闻,体育"
     },
     {
       "raw_hot": 20869,

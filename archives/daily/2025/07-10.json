@@ -1,6 +1,6 @@
 {
   "startTime": 1752078814060,
-  "endTime": 1752139847652,
+  "endTime": 1752140688499,
   "band_list": [
     {
       "raw_hot": 1916286,
@@ -243,6 +243,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 621568,
+      "num": 621568,
+      "word": "冻荔枝",
+      "onboard_time": 1752137663,
+      "rank": 5,
+      "category": "美食"
+    },
+    {
       "raw_hot": 612727,
       "num": 612727,
       "word": "尹锡悦的牢房没空调也没床",
@@ -313,14 +321,6 @@
       "onboard_time": 1752114261,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 529343,
-      "num": 529343,
-      "word": "冻荔枝",
-      "onboard_time": 1752137663,
-      "rank": 5,
-      "category": "美食"
     },
     {
       "raw_hot": 511088,
@@ -451,8 +451,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 363944,
-      "num": 363944,
+      "raw_hot": 365290,
+      "num": 365290,
       "word": "李泳知买到仿冒Labubu",
       "onboard_time": 1752137423,
       "rank": 12,
@@ -512,6 +512,14 @@
       "word": "七月的一天",
       "onboard_time": 1752114741,
       "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 349233,
+      "num": 382104,
+      "word": "李一桐本人来了都得愣两秒",
+      "onboard_time": 1752138263,
+      "rank": 17,
       "category": "剧集"
     },
     {
@@ -643,14 +651,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 281762,
-      "num": 281762,
-      "word": "李一桐本人来了都得愣两秒",
-      "onboard_time": 1752138263,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 279644,
       "num": 279644,
       "word": "公职人员被判缓刑仍领41万工资",
@@ -713,6 +713,14 @@
       "onboard_time": 1752119783,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 261438,
+      "num": 261438,
+      "word": "于龙向杨咩咩求婚",
+      "onboard_time": 1752138203,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 256673,
@@ -857,14 +865,6 @@
       "onboard_time": 1752109522,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 216092,
-      "num": 216092,
-      "word": "于龙向杨咩咩求婚",
-      "onboard_time": 1752138203,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 215093,
@@ -1025,6 +1025,14 @@
       "onboard_time": 1752125603,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 191329,
+      "num": 191329,
+      "word": "关晓彤晒黑了",
+      "onboard_time": 1752140001,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 191231,
@@ -1699,6 +1707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130067,
+      "num": 130067,
+      "word": "男子6万月租住进甲醛房",
+      "onboard_time": 1752139881,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129355,
       "num": 129355,
       "word": "北京城区降雨已达暴雨量级",
@@ -1827,6 +1843,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 119563,
+      "num": 139836,
+      "word": "白宇张凌赫 男人和男孩",
+      "onboard_time": 1752139582,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118695,
       "num": 118695,
       "word": "斗罗大陆剧场版观众吃得真好",
@@ -1891,14 +1915,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 113284,
-      "num": 113284,
-      "word": "白宇张凌赫 男人和男孩",
-      "onboard_time": 1752139582,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 112846,
       "num": 112846,
       "word": "马斯克宣布Grok4发布",
@@ -1940,7 +1956,7 @@
     },
     {
       "raw_hot": 110789,
-      "num": 236784,
+      "num": 368620,
       "word": "外交部回应特朗普加征50%铜关税",
       "onboard_time": 1752138263,
       "rank": 20,
@@ -1987,6 +2003,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 108443,
+      "num": 118947,
+      "word": "周奇在看小欢喜2原著",
+      "onboard_time": 1752140302,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106669,
       "num": 192407,
       "word": "GAI山城棒棒军",
@@ -2009,6 +2033,14 @@
       "onboard_time": 1752110661,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105476,
+      "num": 105476,
+      "word": "终究吃到了追星的苦",
+      "onboard_time": 1752138862,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 105227,
@@ -2171,6 +2203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89580,
+      "num": 138427,
+      "word": "大学录取通知书到哪了",
+      "onboard_time": 1752140243,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 89179,
       "num": 89179,
       "word": "中国5年再造广东江苏山东3个经济大省",
@@ -2257,6 +2297,14 @@
       "onboard_time": 1752072325,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 79668,
+      "num": 136550,
+      "word": "特朗普任命真人秀演员为NASA临时局长",
+      "onboard_time": 1752140542,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 78423,
@@ -2459,6 +2507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42611,
+      "num": 755441,
+      "word": "2500岁的尼山有多会唠",
+      "onboard_time": 1752140181,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41105,
       "num": 720736,
       "word": "这些成就举世瞩目",
@@ -2507,6 +2563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 34242,
+      "num": 249586,
+      "word": "200万人用稳定币投资陷130亿骗局",
+      "onboard_time": 1752139282,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34200,
       "num": 160590,
       "word": "九张图缓解入睡困难",
@@ -2529,14 +2593,6 @@
       "onboard_time": 1752132382,
       "rank": 32,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 24238,
-      "num": 249586,
-      "word": "200万人用稳定币投资陷130亿骗局",
-      "onboard_time": 1752139282,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23965,
@@ -2569,6 +2625,14 @@
       "onboard_time": 1752074064,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 20945,
+      "num": 138081,
+      "word": "中国球迷被日本赤膊男子打骨折",
+      "onboard_time": 1752140542,
+      "rank": 29,
+      "category": "民生新闻,体育"
     },
     {
       "raw_hot": 17879,
@@ -2617,6 +2681,14 @@
       "onboard_time": 1752093134,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2898,
+      "num": 107844,
+      "word": "活力中国调研行",
+      "onboard_time": 1752050482,
+      "rank": 44,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
