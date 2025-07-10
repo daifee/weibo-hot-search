@@ -1,6 +1,6 @@
 {
   "startTime": 1752078814060,
-  "endTime": 1752119830345,
+  "endTime": 1752122314917,
   "band_list": [
     {
       "raw_hot": 1477331,
@@ -11,8 +11,8 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 1347211,
-      "num": 539820,
+      "raw_hot": 1443363,
+      "num": 656258,
       "word": "马思纯瘦回黎吧啦",
       "onboard_time": 1752117022,
       "rank": 4,
@@ -35,6 +35,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1052830,
+      "num": 1168452,
+      "word": "警方通报男子理发店充430万灌肠",
+      "onboard_time": 1752118462,
+      "rank": 24,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 986790,
       "num": 1157886,
       "word": "有史以来最短一天",
@@ -49,6 +57,14 @@
       "onboard_time": 1752109822,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 782632,
+      "num": 782632,
+      "word": "丁禹兮cos孙权",
+      "onboard_time": 1752118462,
+      "rank": 26,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 777343,
@@ -84,7 +100,7 @@
     },
     {
       "raw_hot": 658707,
-      "num": 513724,
+      "num": 564170,
       "word": "以法之名删博",
       "onboard_time": 1752117502,
       "rank": 7,
@@ -97,6 +113,30 @@
       "onboard_time": 1752104960,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 639332,
+      "num": 450552,
+      "word": "离职原因 直属领导",
+      "onboard_time": 1752118823,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 612727,
+      "num": 612727,
+      "word": "尹锡悦的牢房没空调也没床",
+      "onboard_time": 1752118882,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 610330,
+      "num": 610330,
+      "word": "干部出轨他人妻子此前为何不处理",
+      "onboard_time": 1752119902,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 588973,
@@ -155,12 +195,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 475530,
-      "num": 475530,
-      "word": "丁禹兮cos孙权",
-      "onboard_time": 1752118462,
-      "rank": 26,
-      "category": "艺人,游戏"
+      "raw_hot": 481960,
+      "num": 481960,
+      "word": "沈月 七月的一天",
+      "onboard_time": 1752119542,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 424669,
@@ -315,6 +355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 284620,
+      "num": 284620,
+      "word": "未定事件簿结婚申请",
+      "onboard_time": 1752121103,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 279644,
       "num": 279644,
       "word": "公职人员被判缓刑仍领41万工资",
@@ -339,14 +387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 266400,
-      "num": 507383,
-      "word": "警方通报男子理发店充430万灌肠",
-      "onboard_time": 1752118462,
-      "rank": 24,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 265689,
       "num": 265689,
       "word": "李一桐内娱第一个卡帧演员",
@@ -363,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 261589,
+      "num": 261589,
+      "word": "肖战回应出演古装剧的心得",
+      "onboard_time": 1752119783,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 236939,
       "num": 185696,
       "word": "王晶曝成龙被粉丝扇耳光",
@@ -371,11 +419,35 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 233391,
+      "num": 233391,
+      "word": "生长痛",
+      "onboard_time": 1752118102,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 231569,
       "num": 231569,
       "word": "男子开车瞬间被臭晕倒地不起",
       "onboard_time": 1752070344,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 229457,
+      "num": 229457,
+      "word": "讨厌追星催氪",
+      "onboard_time": 1752118582,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 228351,
+      "num": 228351,
+      "word": "景区NPC坐着看书月薪过万包吃包住",
+      "onboard_time": 1752118823,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -404,7 +476,7 @@
     },
     {
       "raw_hot": 221704,
-      "num": 221704,
+      "num": 662922,
       "word": "全国快递业务量突破1000亿件",
       "onboard_time": 1752108504,
       "rank": 24,
@@ -441,14 +513,6 @@
       "onboard_time": 1752100878,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 207891,
-      "num": 207891,
-      "word": "沈月 七月的一天",
-      "onboard_time": 1752119542,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 203935,
@@ -491,14 +555,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 188303,
-      "num": 188303,
-      "word": "离职原因 直属领导",
-      "onboard_time": 1752118823,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 187585,
       "num": 187585,
       "word": "媒体评尖子生高考575分被赶出家门",
@@ -507,20 +563,20 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 187427,
-      "num": 187427,
-      "word": "讨厌追星催氪",
-      "onboard_time": 1752118582,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 187023,
       "num": 187023,
       "word": "张译演技",
       "onboard_time": 1752118703,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186975,
+      "num": 186975,
+      "word": "MSI",
+      "onboard_time": 1752119963,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 185316,
@@ -571,12 +627,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 170493,
-      "num": 189390,
-      "word": "尹锡悦的牢房没空调也没床",
-      "onboard_time": 1752118882,
-      "rank": 29,
-      "category": "国际时政"
+      "raw_hot": 171686,
+      "num": 171686,
+      "word": "陈乔恩辟谣用针雕美容传闻",
+      "onboard_time": 1752121463,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 169901,
@@ -596,11 +652,19 @@
     },
     {
       "raw_hot": 166048,
-      "num": 166048,
+      "num": 170496,
       "word": "未定事件簿",
       "onboard_time": 1752119783,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 164562,
+      "num": 187885,
+      "word": "姐姐当家全员勇气官宣",
+      "onboard_time": 1752121042,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 162770,
@@ -609,6 +673,14 @@
       "onboard_time": 1752069744,
       "rank": 22,
       "category": "海外新闻,网红"
+    },
+    {
+      "raw_hot": 162109,
+      "num": 187199,
+      "word": "GAI就是说唱街舞都来啊",
+      "onboard_time": 1752121643,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 161387,
@@ -625,14 +697,6 @@
       "onboard_time": 1752112342,
       "rank": 19,
       "category": "数码"
-    },
-    {
-      "raw_hot": 156690,
-      "num": 156690,
-      "word": "生长痛",
-      "onboard_time": 1752118102,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 152979,
@@ -675,6 +739,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 148672,
+      "num": 148672,
+      "word": "鹿晗演唱会深圳",
+      "onboard_time": 1752120563,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 148663,
       "num": 148663,
       "word": "丝芭超1.2亿股权被冻结",
@@ -683,20 +755,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 147900,
+      "num": 147900,
+      "word": "兵家不争之地",
+      "onboard_time": 1752121824,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 145494,
       "num": 145494,
       "word": "老师最不看好你你却偏偏最争气",
       "onboard_time": 1752119664,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 145236,
-      "num": 145236,
-      "word": "景区NPC坐着看书月薪过万包吃包住",
-      "onboard_time": 1752118823,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 144354,
@@ -739,6 +811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138927,
+      "num": 138927,
+      "word": "多地明确女职工可休痛经假",
+      "onboard_time": 1752115223,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138087,
       "num": 138087,
       "word": "王者荣耀回应玩家吐槽新赛季",
@@ -763,20 +843,28 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 134348,
-      "num": 134348,
-      "word": "肖战回应出演古装剧的心得",
-      "onboard_time": 1752119783,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 134296,
       "num": 134296,
       "word": "刘耀文锐评广东凉茶",
       "onboard_time": 1752077482,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133412,
+      "num": 133412,
+      "word": "姆巴佩 巴黎",
+      "onboard_time": 1752120443,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 130927,
+      "num": 130927,
+      "word": "苹果中国开启限时教育优惠",
+      "onboard_time": 1752122245,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 130188,
@@ -817,14 +905,6 @@
       "onboard_time": 1752103940,
       "rank": 19,
       "category": "民生新闻,艺人"
-    },
-    {
-      "raw_hot": 121067,
-      "num": 121067,
-      "word": "多地明确女职工可休痛经假",
-      "onboard_time": 1752115223,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 118473,
@@ -969,6 +1049,14 @@
       "onboard_time": 1752075083,
       "rank": 35,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 98549,
+      "num": 126930,
+      "word": "东北苍蝇馆子有多顶",
+      "onboard_time": 1752122002,
+      "rank": 49,
+      "category": "美食,民生新闻"
     },
     {
       "raw_hot": 98220,
@@ -1171,6 +1259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 68693,
+      "num": 267461,
+      "word": "石破茂说关税谈判怎能忍受被美看扁",
+      "onboard_time": 1752121283,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 65029,
       "num": 123267,
       "word": "去找一个像太阳一样的搭档",
@@ -1243,6 +1339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 45596,
+      "num": 452088,
+      "word": "美政客甩锅第一行动随缘",
+      "onboard_time": 1752121883,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 43631,
       "num": 44621,
       "word": "Angelababy鱼嘴恨天高",
@@ -1312,6 +1416,14 @@
       "word": "被指出轨打人公职人员已停职",
       "onboard_time": 1752081858,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23116,
+      "num": 366135,
+      "word": "没考上985被父母赶出家谁错了",
+      "onboard_time": 1752121883,
+      "rank": 14,
       "category": "民生新闻"
     },
     {

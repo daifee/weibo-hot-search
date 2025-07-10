@@ -1,0 +1,410 @@
+{
+  "runTime": 1752122314917,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1052830,
+        "num": 1168452,
+        "word": "警方通报男子理发店充430万灌肠",
+        "onboard_time": 1752118462,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 782632,
+        "num": 782632,
+        "word": "丁禹兮cos孙权",
+        "onboard_time": 1752118462,
+        "rank": 1,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 52555,
+        "num": 662922,
+        "word": "全国快递业务量突破1000亿件",
+        "onboard_time": 1752108504,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1443363,
+        "num": 656258,
+        "word": "马思纯瘦回黎吧啦",
+        "onboard_time": 1752117022,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 612727,
+        "num": 612727,
+        "word": "尹锡悦的牢房没空调也没床",
+        "onboard_time": 1752118882,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 610330,
+        "num": 610330,
+        "word": "干部出轨他人妻子此前为何不处理",
+        "onboard_time": 1752119902,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 564170,
+        "num": 564170,
+        "word": "以法之名删博",
+        "onboard_time": 1752117502,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 562789,
+        "num": 562789,
+        "word": "有史以来最短一天",
+        "onboard_time": 1752063323,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 481960,
+        "num": 481960,
+        "word": "沈月 七月的一天",
+        "onboard_time": 1752119542,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45596,
+        "num": 452088,
+        "word": "美政客甩锅第一行动随缘",
+        "onboard_time": 1752121883,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1433868,
+        "num": 450643,
+        "word": "向佐金属抹胸",
+        "onboard_time": 1752116782,
+        "rank": 10,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 639332,
+        "num": 450552,
+        "word": "离职原因 直属领导",
+        "onboard_time": 1752118823,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 447892,
+        "num": 447892,
+        "word": "母象不舍抛下小象尸体拖拽三天",
+        "onboard_time": 1752110661,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 391466,
+        "num": 391466,
+        "word": "人和偶像一旦有了私交",
+        "onboard_time": 1752109822,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 23116,
+        "num": 366135,
+        "word": "没考上985被父母赶出家谁错了",
+        "onboard_time": 1752121883,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350064,
+        "num": 350064,
+        "word": "包文婧产后情绪失控",
+        "onboard_time": 1752104960,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347821,
+        "num": 347821,
+        "word": "人民日报关注国产剧火到海外",
+        "onboard_time": 1752113482,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306813,
+        "num": 306813,
+        "word": "特朗普给14国发送关税通牒",
+        "onboard_time": 1752114201,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 284620,
+        "num": 284620,
+        "word": "未定事件簿结婚申请",
+        "onboard_time": 1752121103,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 68693,
+        "num": 267461,
+        "word": "石破茂说关税谈判怎能忍受被美看扁",
+        "onboard_time": 1752121283,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 606518,
+        "num": 265084,
+        "word": "刘宇宁三天没工作就会开直播",
+        "onboard_time": 1752110842,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413444,
+        "num": 263990,
+        "word": "爷爷高温天卖荔枝中暑呕吐孙子大哭",
+        "onboard_time": 1752114261,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261589,
+        "num": 261589,
+        "word": "肖战回应出演古装剧的心得",
+        "onboard_time": 1752119783,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257910,
+        "num": 257910,
+        "word": "00后结婚主打一个轻备婚",
+        "onboard_time": 1752118164,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233391,
+        "num": 233391,
+        "word": "生长痛",
+        "onboard_time": 1752118102,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 245817,
+        "num": 231944,
+        "word": "朝雪录 敖瑞鹏",
+        "onboard_time": 1752117321,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229457,
+        "num": 229457,
+        "word": "讨厌追星催氪",
+        "onboard_time": 1752118582,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228351,
+        "num": 228351,
+        "word": "景区NPC坐着看书月薪过万包吃包住",
+        "onboard_time": 1752118823,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301538,
+        "num": 227382,
+        "word": "小狗遭主人2次扔弃哀嚎仍被丢",
+        "onboard_time": 1752110301,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223871,
+        "num": 223871,
+        "word": "尹锡悦或牢底坐穿",
+        "onboard_time": 1752118341,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 200620,
+        "num": 200620,
+        "word": "截瘫女生说车祸时坐姿正确",
+        "onboard_time": 1752106582,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189677,
+        "num": 189677,
+        "word": "蔡琳回应接受前夫高梓淇再婚",
+        "onboard_time": 1752104840,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 164562,
+        "num": 187885,
+        "word": "姐姐当家全员勇气官宣",
+        "onboard_time": 1752121042,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162109,
+        "num": 187199,
+        "word": "GAI就是说唱街舞都来啊",
+        "onboard_time": 1752121643,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186975,
+        "num": 186975,
+        "word": "MSI",
+        "onboard_time": 1752119963,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 183808,
+        "num": 183808,
+        "word": "七月的一天",
+        "onboard_time": 1752114741,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173475,
+        "num": 173475,
+        "word": "找不到暑假工的天塌了",
+        "onboard_time": 1752112761,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171686,
+        "num": 171686,
+        "word": "陈乔恩辟谣用针雕美容传闻",
+        "onboard_time": 1752121463,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155755,
+        "num": 170496,
+        "word": "未定事件簿",
+        "onboard_time": 1752119783,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170135,
+        "num": 170135,
+        "word": "醉汉将路过8岁孩子砸得头破血流",
+        "onboard_time": 1752107002,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161317,
+        "num": 161317,
+        "word": "张译演技",
+        "onboard_time": 1752118703,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161202,
+        "num": 161202,
+        "word": "考四级的我输给了骑手",
+        "onboard_time": 1752117801,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148672,
+        "num": 148672,
+        "word": "鹿晗演唱会深圳",
+        "onboard_time": 1752120563,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 147900,
+        "num": 147900,
+        "word": "兵家不争之地",
+        "onboard_time": 1752121824,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 145073,
+        "num": 145073,
+        "word": "Angelababy带小海绵参加巴黎时装周",
+        "onboard_time": 1752107544,
+        "rank": 44,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 138927,
+        "num": 138927,
+        "word": "多地明确女职工可休痛经假",
+        "onboard_time": 1752115223,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133412,
+        "num": 133412,
+        "word": "姆巴佩 巴黎",
+        "onboard_time": 1752120443,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130927,
+        "num": 130927,
+        "word": "苹果中国开启限时教育优惠",
+        "onboard_time": 1752122245,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 127096,
+        "num": 127096,
+        "word": "男友驾车致女子截瘫当事人澄清",
+        "onboard_time": 1752112581,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98549,
+        "num": 126930,
+        "word": "东北苍蝇馆子有多顶",
+        "onboard_time": 1752122002,
+        "rank": 49,
+        "category": "美食,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记勉励三晋大地#"
+    }
+  }
+}

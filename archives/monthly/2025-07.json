@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752119830345,
+  "endTime": 1752122314917,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -731,6 +731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1443363,
+      "num": 656258,
+      "word": "马思纯瘦回黎吧啦",
+      "onboard_time": 1752117022,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1442826,
       "num": 353363,
       "word": "苗苗首晒三胎女儿",
@@ -849,14 +857,6 @@
       "onboard_time": 1751353402,
       "rank": 12,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1347211,
-      "num": 539820,
-      "word": "马思纯瘦回黎吧啦",
-      "onboard_time": 1752117022,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 1344224,
@@ -1425,6 +1425,14 @@
       "onboard_time": 1751534783,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1052830,
+      "num": 1168452,
+      "word": "警方通报男子理发店充430万灌肠",
+      "onboard_time": 1752118462,
+      "rank": 24,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1050102,
@@ -2339,6 +2347,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 782632,
+      "num": 782632,
+      "word": "丁禹兮cos孙权",
+      "onboard_time": 1752118462,
+      "rank": 26,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 782373,
       "num": 782373,
       "word": "丽江失联20岁女大学生遗体被找到",
@@ -3220,7 +3236,7 @@
     },
     {
       "raw_hot": 658707,
-      "num": 513724,
+      "num": 564170,
       "word": "以法之名删博",
       "onboard_time": 1752117502,
       "rank": 7,
@@ -3361,6 +3377,14 @@
       "onboard_time": 1751374344,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 639332,
+      "num": 450552,
+      "word": "离职原因 直属领导",
+      "onboard_time": 1752118823,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 639006,
@@ -3643,6 +3667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 612727,
+      "num": 612727,
+      "word": "尹锡悦的牢房没空调也没床",
+      "onboard_time": 1752118882,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 611275,
       "num": 611275,
       "word": "饮品 咖啡因过量",
@@ -3657,6 +3689,14 @@
       "onboard_time": 1751890522,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 610330,
+      "num": 610330,
+      "word": "干部出轨他人妻子此前为何不处理",
+      "onboard_time": 1752119902,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 609203,
@@ -4723,6 +4763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 481960,
+      "num": 481960,
+      "word": "沈月 七月的一天",
+      "onboard_time": 1752119542,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 481210,
       "num": 481210,
       "word": "动物园被举报用个人码收门票上千万",
@@ -4777,14 +4825,6 @@
       "onboard_time": 1751945783,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 475530,
-      "num": 475530,
-      "word": "丁禹兮cos孙权",
-      "onboard_time": 1752118462,
-      "rank": 26,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 473835,
@@ -8051,6 +8091,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 284620,
+      "num": 284620,
+      "word": "未定事件簿结婚申请",
+      "onboard_time": 1752121103,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 284347,
       "num": 284347,
       "word": "淮安0比0常州",
@@ -8611,14 +8659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 266400,
-      "num": 507383,
-      "word": "警方通报男子理发店充430万灌肠",
-      "onboard_time": 1752118462,
-      "rank": 24,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 266307,
       "num": 381171,
       "word": "梓渝新歌",
@@ -8817,6 +8857,14 @@
       "onboard_time": 1751775200,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 261589,
+      "num": 261589,
+      "word": "肖战回应出演古装剧的心得",
+      "onboard_time": 1752119783,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 261310,
@@ -9747,6 +9795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 233391,
+      "num": 233391,
+      "word": "生长痛",
+      "onboard_time": 1752118102,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 233144,
       "num": 446896,
       "word": "鞠婧祎这是王一栩说的百变小樱吗",
@@ -9947,6 +10003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 229457,
+      "num": 229457,
+      "word": "讨厌追星催氪",
+      "onboard_time": 1752118582,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229377,
       "num": 229377,
       "word": "这居然是柯佳嬿",
@@ -10009,6 +10073,14 @@
       "onboard_time": 1751793260,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 228351,
+      "num": 228351,
+      "word": "景区NPC坐着看书月薪过万包吃包住",
+      "onboard_time": 1752118823,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 228268,
@@ -10396,7 +10468,7 @@
     },
     {
       "raw_hot": 221704,
-      "num": 221704,
+      "num": 662922,
       "word": "全国快递业务量突破1000亿件",
       "onboard_time": 1752108504,
       "rank": 24,
@@ -11129,14 +11201,6 @@
       "onboard_time": 1752100878,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 207891,
-      "num": 207891,
-      "word": "沈月 七月的一天",
-      "onboard_time": 1752119542,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 207782,
@@ -13003,14 +13067,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 188303,
-      "num": 188303,
-      "word": "离职原因 直属领导",
-      "onboard_time": 1752118823,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 188280,
       "num": 189922,
       "word": "原神",
@@ -13121,14 +13177,6 @@
       "onboard_time": 1751819781,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 187427,
-      "num": 187427,
-      "word": "讨厌追星催氪",
-      "onboard_time": 1752118582,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 187288,
@@ -14707,6 +14755,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 171686,
+      "num": 171686,
+      "word": "陈乔恩辟谣用针雕美容传闻",
+      "onboard_time": 1752121463,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171666,
       "num": 171666,
       "word": "北京月薪1万房租7000的真实生活",
@@ -14793,14 +14849,6 @@
       "onboard_time": 1752050303,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 170493,
-      "num": 189390,
-      "word": "尹锡悦的牢房没空调也没床",
-      "onboard_time": 1752118882,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 170402,
@@ -15236,7 +15284,7 @@
     },
     {
       "raw_hot": 166305,
-      "num": 166305,
+      "num": 170496,
       "word": "未定事件簿",
       "onboard_time": 1751953402,
       "rank": 31,
@@ -15377,6 +15425,14 @@
       "onboard_time": 1752032184,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164562,
+      "num": 187885,
+      "word": "姐姐当家全员勇气官宣",
+      "onboard_time": 1752121042,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 164404,
@@ -15649,6 +15705,14 @@
       "onboard_time": 1751942962,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 162109,
+      "num": 187199,
+      "word": "GAI就是说唱街舞都来啊",
+      "onboard_time": 1752121643,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 162086,
@@ -16321,14 +16385,6 @@
       "onboard_time": 1751594781,
       "rank": 30,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 156690,
-      "num": 156690,
-      "word": "生长痛",
-      "onboard_time": 1752118102,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 156659,
@@ -17411,6 +17467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148672,
+      "num": 148672,
+      "word": "鹿晗演唱会深圳",
+      "onboard_time": 1752120563,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 148663,
       "num": 148663,
       "word": "丝芭超1.2亿股权被冻结",
@@ -17561,6 +17625,14 @@
       "onboard_time": 1751422640,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 147900,
+      "num": 147900,
+      "word": "兵家不争之地",
+      "onboard_time": 1752121824,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 147885,
@@ -17977,14 +18049,6 @@
       "onboard_time": 1751441422,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 145236,
-      "num": 145236,
-      "word": "景区NPC坐着看书月薪过万包吃包住",
-      "onboard_time": 1752118823,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 145234,
@@ -18979,6 +19043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138927,
+      "num": 138927,
+      "word": "多地明确女职工可休痛经假",
+      "onboard_time": 1752115223,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138873,
       "num": 138873,
       "word": "穷人不等于不努力",
@@ -19723,14 +19795,6 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 134348,
-      "num": 134348,
-      "word": "肖战回应出演古装剧的心得",
-      "onboard_time": 1752119783,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 134334,
       "num": 134334,
       "word": "华为没有抄袭阿里大模型",
@@ -19833,6 +19897,14 @@
       "onboard_time": 1751553803,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 133412,
+      "num": 133412,
+      "word": "姆巴佩 巴黎",
+      "onboard_time": 1752120443,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 133390,
@@ -20361,6 +20433,14 @@
       "onboard_time": 1751627062,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 130927,
+      "num": 130927,
+      "word": "苹果中国开启限时教育优惠",
+      "onboard_time": 1752122245,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 130920,
@@ -22161,14 +22241,6 @@
       "onboard_time": 1751341521,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 121067,
-      "num": 121067,
-      "word": "多地明确女职工可休痛经假",
-      "onboard_time": 1752115223,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 120989,
@@ -26163,6 +26235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98549,
+      "num": 126930,
+      "word": "东北苍蝇馆子有多顶",
+      "onboard_time": 1752122002,
+      "rank": 49,
+      "category": "美食,民生新闻"
+    },
+    {
       "raw_hot": 98496,
       "num": 98496,
       "word": "下次有人催婚我就这么回",
@@ -28675,6 +28755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68693,
+      "num": 267461,
+      "word": "石破茂说关税谈判怎能忍受被美看扁",
+      "onboard_time": 1752121283,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 68657,
       "num": 116871,
       "word": "董力晒阿诺和儿子的同框",
@@ -30313,6 +30401,14 @@
       "onboard_time": 1752073165,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 45596,
+      "num": 452088,
+      "word": "美政客甩锅第一行动随缘",
+      "onboard_time": 1752121883,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 45546,
@@ -32249,6 +32345,14 @@
       "onboard_time": 1751602883,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23116,
+      "num": 366135,
+      "word": "没考上985被父母赶出家谁错了",
+      "onboard_time": 1752121883,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23071,
