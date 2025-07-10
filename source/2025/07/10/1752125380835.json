@@ -1,0 +1,410 @@
+{
+  "runTime": 1752125380835,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1078195,
+        "num": 1172511,
+        "word": "干部出轨他人妻子此前为何不处理",
+        "onboard_time": 1752119902,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 605626,
+        "num": 605626,
+        "word": "科兴生物拟分红近540亿",
+        "onboard_time": 1752122903,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 48953,
+        "num": 550057,
+        "word": "全国快递业务量突破1000亿件",
+        "onboard_time": 1752108504,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1208070,
+        "num": 545330,
+        "word": "警方通报男子理发店充430万灌肠",
+        "onboard_time": 1752118462,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1077139,
+        "num": 537226,
+        "word": "马思纯瘦回黎吧啦",
+        "onboard_time": 1752117022,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 528215,
+        "num": 528215,
+        "word": "尹锡悦的牢房没空调也没床",
+        "onboard_time": 1752118882,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 479523,
+        "num": 479523,
+        "word": "张凌赫凌晨还在超话选美甲",
+        "onboard_time": 1752123983,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 445896,
+        "num": 445896,
+        "word": "丁禹兮cos孙权",
+        "onboard_time": 1752118462,
+        "rank": 7,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 340073,
+        "num": 340073,
+        "word": "以法之名删博",
+        "onboard_time": 1752117502,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69347,
+        "num": 336734,
+        "word": "男子拍到白头叶猴50米峭壁10秒速降",
+        "onboard_time": 1752116421,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1599303,
+        "num": 334465,
+        "word": "没考上985被父母赶出家谁错了",
+        "onboard_time": 1752121883,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 829553,
+        "num": 329883,
+        "word": "向佐金属抹胸",
+        "onboard_time": 1752116782,
+        "rank": 11,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 535946,
+        "num": 322244,
+        "word": "不想再吃第二次的水果",
+        "onboard_time": 1752122963,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 454097,
+        "num": 318929,
+        "word": "离职原因 直属领导",
+        "onboard_time": 1752118823,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 367181,
+        "num": 314933,
+        "word": "金钟国尹恩惠旧照",
+        "onboard_time": 1752124346,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85474,
+        "num": 308207,
+        "word": "巴黎世家高定",
+        "onboard_time": 1752124043,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 306272,
+        "num": 306272,
+        "word": "包文婧产后情绪失控",
+        "onboard_time": 1752104960,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302338,
+        "num": 302338,
+        "word": "沈月 七月的一天",
+        "onboard_time": 1752119542,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100046,
+        "num": 300615,
+        "word": "想去泰国偶遇古力娜扎",
+        "onboard_time": 1752123264,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111902,
+        "num": 290213,
+        "word": "最强应援亚马尔空降上海",
+        "onboard_time": 1752124101,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 310535,
+        "num": 284379,
+        "word": "刘宇宁三天没工作就会开直播",
+        "onboard_time": 1752110842,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275182,
+        "num": 277916,
+        "word": "生长痛",
+        "onboard_time": 1752118102,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 276578,
+        "num": 276578,
+        "word": "美团免单",
+        "onboard_time": 1752124101,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 272292,
+        "num": 272292,
+        "word": "母象不舍抛下小象尸体拖拽三天",
+        "onboard_time": 1752110661,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 272154,
+        "num": 272154,
+        "word": "有史以来最短一天",
+        "onboard_time": 1752063323,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235875,
+        "num": 235875,
+        "word": "梓渝明天综艺直播",
+        "onboard_time": 1752123444,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217634,
+        "num": 217634,
+        "word": "人和偶像一旦有了私交",
+        "onboard_time": 1752109822,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 212400,
+        "num": 217112,
+        "word": "人民日报关注国产剧火到海外",
+        "onboard_time": 1752113482,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216633,
+        "num": 216633,
+        "word": "MSI",
+        "onboard_time": 1752119963,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142408,
+        "num": 210931,
+        "word": "从甄嬛传到藏海传的10年",
+        "onboard_time": 1752124821,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293297,
+        "num": 210400,
+        "word": "原来读书真的会影响潜意识",
+        "onboard_time": 1752124582,
+        "rank": 30,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 208950,
+        "num": 208950,
+        "word": "谢依霖推荐郭碧婷上综艺的原因",
+        "onboard_time": 1752123923,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204240,
+        "num": 204240,
+        "word": "GEN战胜T1",
+        "onboard_time": 1752125001,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 184247,
+        "num": 184247,
+        "word": "截瘫女生说车祸时坐姿正确",
+        "onboard_time": 1752106582,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176798,
+        "num": 176798,
+        "word": "国航顺丰",
+        "onboard_time": 1752123203,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176129,
+        "num": 176129,
+        "word": "我国科学家把二氧化碳变成了糖",
+        "onboard_time": 1752125302,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153871,
+        "num": 153871,
+        "word": "兴趣一定要有用吗",
+        "onboard_time": 1752125363,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 149071,
+        "num": 149071,
+        "word": "兵家不争之地",
+        "onboard_time": 1752121824,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 146807,
+        "num": 146807,
+        "word": "冰袋能重复使用吗",
+        "onboard_time": 1752124346,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 145067,
+        "num": 145067,
+        "word": "讨厌追星催氪",
+        "onboard_time": 1752118582,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 7399,
+        "num": 144388,
+        "word": "防晒面罩越戴越黑",
+        "onboard_time": 1752125363,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143857,
+        "num": 143857,
+        "word": "正式确诊为大格局型人格",
+        "onboard_time": 1752124523,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142471,
+        "num": 142471,
+        "word": "蔡琳回应接受前夫高梓淇再婚",
+        "onboard_time": 1752104840,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 135540,
+        "num": 135540,
+        "word": "张晚意比我会过日子",
+        "onboard_time": 1752123383,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134549,
+        "num": 134549,
+        "word": "以为是小妈没想到是亲姐",
+        "onboard_time": 1752123083,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134482,
+        "num": 134482,
+        "word": "陈乔恩17年后再做便利贴女孩",
+        "onboard_time": 1752125242,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133190,
+        "num": 133190,
+        "word": "醉汉将路过8岁孩子砸得头破血流",
+        "onboard_time": 1752107002,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130180,
+        "num": 130180,
+        "word": "肖战回应出演古装剧的心得",
+        "onboard_time": 1752119783,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125450,
+        "num": 125450,
+        "word": "TXT光州卖西葫芦",
+        "onboard_time": 1752124523,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122712,
+        "num": 122712,
+        "word": "证券板块集体拉升",
+        "onboard_time": 1752125242,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#勇担民族复兴的时代大任#"
+    }
+  }
+}
