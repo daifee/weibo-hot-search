@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752180258051,
+  "endTime": 1752182832965,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -35492,7 +35492,7 @@
     },
     {
       "raw_hot": 17357,
-      "num": 21905,
+      "num": 22830,
       "word": "无可替代",
       "onboard_time": 1752166879,
       "rank": 46,
@@ -35532,7 +35532,7 @@
     },
     {
       "raw_hot": 17076,
-      "num": 18292,
+      "num": 18480,
       "word": "鹿晗 抢票",
       "onboard_time": 1752175635,
       "rank": 45,
@@ -35553,6 +35553,14 @@
       "onboard_time": 1752006974,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 16865,
+      "num": 18482,
+      "word": "咪咕体育",
+      "onboard_time": 1752178815,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 16775,
@@ -35745,14 +35753,6 @@
       "onboard_time": 1751485154,
       "rank": 47,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 14355,
-      "num": 17041,
-      "word": "咪咕体育",
-      "onboard_time": 1752178815,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 14213,
