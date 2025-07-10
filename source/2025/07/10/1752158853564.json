@@ -1,0 +1,410 @@
+{
+  "runTime": 1752158853564,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2196178,
+        "num": 2196178,
+        "word": "梓渝取消hi6录制",
+        "onboard_time": 1752157284,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1077028,
+        "num": 1077028,
+        "word": "女子常穿洞洞鞋致足底钙化行走困难",
+        "onboard_time": 1752152242,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29591,
+        "num": 777391,
+        "word": "五个新说透102项重大工程看点",
+        "onboard_time": 1752158005,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1400695,
+        "num": 770279,
+        "word": "钱宏明自杀",
+        "onboard_time": 1752155544,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 762926,
+        "num": 762926,
+        "word": "不建议带着饥饿感入睡",
+        "onboard_time": 1752151703,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 678219,
+        "num": 678219,
+        "word": "父亲酒后暴打几岁女儿致粉碎性骨折",
+        "onboard_time": 1752153984,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 632503,
+        "num": 632503,
+        "word": "再亲密的情侣关系也必须回归法律责任",
+        "onboard_time": 1752154043,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 482992,
+        "num": 482992,
+        "word": "同居2年分手男方索要48.8万彩礼被拒",
+        "onboard_time": 1752155362,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 449518,
+        "num": 449518,
+        "word": "兰州人才引进20岁女硕士",
+        "onboard_time": 1752152002,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 384713,
+        "num": 384713,
+        "word": "宋佳王一博 体制内姐弟",
+        "onboard_time": 1752146963,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1118167,
+        "num": 378104,
+        "word": "闲鱼就是一个巨大的人间世",
+        "onboard_time": 1752148642,
+        "rank": 10,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 833268,
+        "num": 334869,
+        "word": "陈乔恩谈不生孩子原因",
+        "onboard_time": 1752154283,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 829797,
+        "num": 306925,
+        "word": "田栩宁通告被取消了",
+        "onboard_time": 1752157826,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271540,
+        "num": 271540,
+        "word": "车铜优",
+        "onboard_time": 1752147203,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62925,
+        "num": 199714,
+        "word": "多年后马斯克仍然会想起2025年夏天",
+        "onboard_time": 1752157946,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 193762,
+        "num": 193762,
+        "word": "王俊凯代言英雄联盟",
+        "onboard_time": 1752152303,
+        "rank": 15,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 46019,
+        "num": 193744,
+        "word": "人社局回应兰州人才引进20岁女硕士",
+        "onboard_time": 1752154824,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 649430,
+        "num": 193497,
+        "word": "101202303404",
+        "onboard_time": 1752140781,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95901,
+        "num": 193296,
+        "word": "单依纯官宣唱舞娘",
+        "onboard_time": 1752158245,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85655,
+        "num": 193252,
+        "word": "民企老板被错关212天申请千万国赔",
+        "onboard_time": 1752158486,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222149,
+        "num": 193095,
+        "word": "理发店给男子灌肠涉嫌犯罪",
+        "onboard_time": 1752143484,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192978,
+        "num": 192978,
+        "word": "徐梦洁不认识林志炫",
+        "onboard_time": 1752149662,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185841,
+        "num": 185841,
+        "word": "张婧仪26岁好多花的一天",
+        "onboard_time": 1752157765,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181015,
+        "num": 181015,
+        "word": "田曦薇胡一天或演天才女友",
+        "onboard_time": 1752149840,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180377,
+        "num": 180875,
+        "word": "餐厅菜名狗大便炒树叶58元1份",
+        "onboard_time": 1752156144,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180750,
+        "num": 180750,
+        "word": "英雄联盟",
+        "onboard_time": 1752150443,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 173157,
+        "num": 173157,
+        "word": "男童扁桃体术后脑死亡医院称已告知风险",
+        "onboard_time": 1752147743,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172641,
+        "num": 172641,
+        "word": "EDG无畏契约",
+        "onboard_time": 1752158664,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 169899,
+        "num": 169899,
+        "word": "白鹿水灵灵地翻了",
+        "onboard_time": 1752148581,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24680,
+        "num": 167120,
+        "word": "江西赣州一河流污染源头查明",
+        "onboard_time": 1752158548,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166218,
+        "num": 166218,
+        "word": "萨巴伦卡vs阿尼西莫娃",
+        "onboard_time": 1752157765,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164917,
+        "num": 164917,
+        "word": "国足出征东亚杯托运140件行李",
+        "onboard_time": 1752157643,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164452,
+        "num": 164452,
+        "word": "李兰迪怎么什么都亲得下去啊",
+        "onboard_time": 1752144682,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162584,
+        "num": 162584,
+        "word": "3岁男童肥大扁桃体切除术后脑死亡",
+        "onboard_time": 1752145163,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151911,
+        "num": 155517,
+        "word": "甲亢哥谈最好的国家第一个提中国",
+        "onboard_time": 1752152603,
+        "rank": 34,
+        "category": "海外新闻,网红"
+      },
+      {
+        "raw_hot": 154012,
+        "num": 154012,
+        "word": "乐道L90",
+        "onboard_time": 1752149183,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 146396,
+        "num": 146396,
+        "word": "无畏契约",
+        "onboard_time": 1752156503,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142766,
+        "num": 142766,
+        "word": "谢霆锋妹妹举办迎婴派对",
+        "onboard_time": 1752156565,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140197,
+        "num": 140197,
+        "word": "美籍华人老兵遭警察打成骨折",
+        "onboard_time": 1752155603,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 139210,
+        "num": 139210,
+        "word": "李佳薇心一跳林俊杰就开始煎熬",
+        "onboard_time": 1752152843,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 137752,
+        "num": 137752,
+        "word": "4个迹象提醒你免疫力下降了",
+        "onboard_time": 1752156503,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131986,
+        "num": 131986,
+        "word": "花52万医美术后留下98厘米疤痕",
+        "onboard_time": 1752153263,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129330,
+        "num": 129330,
+        "word": "男子收父亲300万继母起诉判还百万",
+        "onboard_time": 1752157284,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129068,
+        "num": 129068,
+        "word": "张婧仪给粉丝送糖水",
+        "onboard_time": 1752158364,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128399,
+        "num": 128399,
+        "word": "爱人彻夜不归去前男友小区练瑜伽",
+        "onboard_time": 1752153443,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127221,
+        "num": 127221,
+        "word": "水龙吟",
+        "onboard_time": 1752152783,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126901,
+        "num": 126901,
+        "word": "美团免单",
+        "onboard_time": 1752124101,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 126772,
+        "num": 126772,
+        "word": "孙颖莎采访一顿输出王曼昱说一样",
+        "onboard_time": 1752155424,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125308,
+        "num": 125308,
+        "word": "JDG咚咚夏季赛首个MVP",
+        "onboard_time": 1752158786,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119174,
+        "num": 119174,
+        "word": "卫健委回应男孩做扁桃体手术后脑死亡",
+        "onboard_time": 1752156144,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#希望三晋大地的明天更美好#"
+    }
+  }
+}

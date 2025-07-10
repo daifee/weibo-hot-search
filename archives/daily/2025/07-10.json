@@ -1,6 +1,6 @@
 {
   "startTime": 1752078814060,
-  "endTime": 1752157668745,
+  "endTime": 1752158853564,
   "band_list": [
     {
       "raw_hot": 2250216,
@@ -9,6 +9,14 @@
       "onboard_time": 1752140781,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2196178,
+      "num": 2196178,
+      "word": "梓渝取消hi6录制",
+      "onboard_time": 1752157284,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 1916286,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 1433996,
-      "num": 730638,
+      "num": 770279,
       "word": "钱宏明自杀",
       "onboard_time": 1752155544,
       "rank": 30,
@@ -203,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 829797,
+      "num": 306925,
+      "word": "田栩宁通告被取消了",
+      "onboard_time": 1752157826,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 801775,
       "num": 540180,
       "word": "张凌赫凌晨还在超话选美甲",
@@ -275,6 +291,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 678219,
+      "num": 678219,
+      "word": "父亲酒后暴打几岁女儿致粉碎性骨折",
+      "onboard_time": 1752153984,
+      "rank": 24,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 669747,
       "num": 313890,
       "word": "陈乔恩自曝想接吻戏剧本",
@@ -305,14 +329,6 @@
       "onboard_time": 1752117502,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 656922,
-      "num": 656922,
-      "word": "父亲酒后暴打几岁女儿致粉碎性骨折",
-      "onboard_time": 1752153984,
-      "rank": 24,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 650402,
@@ -347,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 632503,
+      "num": 632503,
+      "word": "再亲密的情侣关系也必须回归法律责任",
+      "onboard_time": 1752154043,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 626421,
       "num": 626421,
       "word": "王一博回国第一天就开会",
@@ -361,14 +385,6 @@
       "onboard_time": 1752122903,
       "rank": 13,
       "category": "财经"
-    },
-    {
-      "raw_hot": 616048,
-      "num": 616048,
-      "word": "再亲密的情侣关系也必须回归法律责任",
-      "onboard_time": 1752154043,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 612727,
@@ -515,20 +531,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 482992,
+      "num": 482992,
+      "word": "同居2年分手男方索要48.8万彩礼被拒",
+      "onboard_time": 1752155362,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 481960,
       "num": 481960,
       "word": "沈月 七月的一天",
       "onboard_time": 1752119542,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 480915,
-      "num": 480915,
-      "word": "梓渝取消hi6录制",
-      "onboard_time": 1752157284,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 472158,
@@ -809,14 +825,6 @@
       "onboard_time": 1752074243,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 319086,
-      "num": 319086,
-      "word": "同居2年分手男方索要48.8万彩礼被拒",
-      "onboard_time": 1752155362,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 318974,
@@ -1499,6 +1507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 185841,
+      "num": 185841,
+      "word": "张婧仪26岁好多花的一天",
+      "onboard_time": 1752157765,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185616,
       "num": 185616,
       "word": "汪顺独有的坚持与豁达",
@@ -1571,6 +1587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180377,
+      "num": 280919,
+      "word": "餐厅菜名狗大便炒树叶58元1份",
+      "onboard_time": 1752156144,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179397,
       "num": 179397,
       "word": "哪些特产出了家乡就没听过了",
@@ -1641,6 +1665,14 @@
       "onboard_time": 1752132143,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172641,
+      "num": 172641,
+      "word": "EDG无畏契约",
+      "onboard_time": 1752158664,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 172418,
@@ -1763,6 +1795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166218,
+      "num": 166218,
+      "word": "萨巴伦卡vs阿尼西莫娃",
+      "onboard_time": 1752157765,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166048,
       "num": 170496,
       "word": "未定事件簿",
@@ -1777,6 +1817,14 @@
       "onboard_time": 1752154163,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164917,
+      "num": 164917,
+      "word": "国足出征东亚杯托运140件行李",
+      "onboard_time": 1752157643,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 164562,
@@ -1931,12 +1979,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 154931,
-      "num": 280919,
-      "word": "餐厅菜名狗大便炒树叶58元1份",
-      "onboard_time": 1752156144,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 154012,
+      "num": 154012,
+      "word": "乐道L90",
+      "onboard_time": 1752149183,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 153871,
@@ -2121,14 +2169,6 @@
       "onboard_time": 1752124346,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 146109,
-      "num": 146109,
-      "word": "乐道L90",
-      "onboard_time": 1752149183,
-      "rank": 49,
-      "category": "汽车"
     },
     {
       "raw_hot": 145494,
@@ -2459,12 +2499,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129330,
+      "num": 249927,
+      "word": "男子收父亲300万继母起诉判还百万",
+      "onboard_time": 1752157284,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129137,
       "num": 129137,
       "word": "锦绣芳华里的舞蹈之美",
       "onboard_time": 1752122663,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129068,
+      "num": 129068,
+      "word": "张婧仪给粉丝送糖水",
+      "onboard_time": 1752158364,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 128784,
@@ -2497,14 +2553,6 @@
       "onboard_time": 1752133222,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 127840,
-      "num": 127840,
-      "word": "国足出征东亚杯托运140件行李",
-      "onboard_time": 1752157643,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 127657,
@@ -2553,6 +2601,14 @@
       "onboard_time": 1752124523,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125308,
+      "num": 125308,
+      "word": "JDG咚咚夏季赛首个MVP",
+      "onboard_time": 1752158786,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 125235,
@@ -3027,6 +3083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95901,
+      "num": 193296,
+      "word": "单依纯官宣唱舞娘",
+      "onboard_time": 1752158245,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94699,
       "num": 94699,
       "word": "宋祖儿天选横店打工人",
@@ -3177,6 +3241,14 @@
       "onboard_time": 1752114562,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 85655,
+      "num": 193252,
+      "word": "民企老板被错关212天申请千万国赔",
+      "onboard_time": 1752158486,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84104,
@@ -3337,6 +3409,14 @@
       "onboard_time": 1752078980,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62925,
+      "num": 199714,
+      "word": "多年后马斯克仍然会想起2025年夏天",
+      "onboard_time": 1752157946,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 60501,
@@ -3563,12 +3643,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 31953,
-      "num": 249927,
-      "word": "男子收父亲300万继母起诉判还百万",
-      "onboard_time": 1752157284,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 29591,
+      "num": 777391,
+      "word": "五个新说透102项重大工程看点",
+      "onboard_time": 1752158005,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 26602,
@@ -3576,6 +3656,14 @@
       "word": "河北一医院开设不爱上班门诊",
       "onboard_time": 1752147142,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24680,
+      "num": 167120,
+      "word": "江西赣州一河流污染源头查明",
+      "onboard_time": 1752158548,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -3727,6 +3815,9 @@
     },
     {
       "word": "#多样文明是世界的本色#"
+    },
+    {
+      "word": "#希望三晋大地的明天更美好#"
     }
   ]
 }
