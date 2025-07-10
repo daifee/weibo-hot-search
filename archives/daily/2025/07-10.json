@@ -1,6 +1,6 @@
 {
   "startTime": 1752078814060,
-  "endTime": 1752130415420,
+  "endTime": 1752132456244,
   "band_list": [
     {
       "raw_hot": 1896273,
@@ -11,19 +11,19 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1681305,
+      "num": 1681305,
+      "word": "借款20万还款2800万仍欠470万",
+      "onboard_time": 1752126802,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1599303,
       "num": 568315,
       "word": "没考上985被父母赶出家谁错了",
       "onboard_time": 1752121883,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1560316,
-      "num": 1560316,
-      "word": "借款20万还款2800万仍欠470万",
-      "onboard_time": 1752126802,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -83,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 889056,
+      "num": 889056,
+      "word": "37岁快递员因热射病去世",
+      "onboard_time": 1752130402,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 865291,
       "num": 506588,
       "word": "人和偶像一旦有了私交",
@@ -113,6 +121,14 @@
       "onboard_time": 1752075682,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 740032,
+      "num": 740032,
+      "word": "驾车致女生截瘫男子母亲发声",
+      "onboard_time": 1752129682,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 708105,
@@ -203,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 584675,
+      "num": 584675,
+      "word": "防晒面罩越戴越黑",
+      "onboard_time": 1752125363,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 578217,
       "num": 578217,
       "word": "男子理发店充430万做灌肠后遭退费难",
@@ -267,14 +291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 471797,
-      "num": 471797,
-      "word": "防晒面罩越戴越黑",
-      "onboard_time": 1752125363,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 451381,
       "num": 451381,
       "word": "金钟国尹恩惠旧照",
@@ -305,6 +321,30 @@
       "onboard_time": 1752107544,
       "rank": 8,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 400948,
+      "num": 400948,
+      "word": "孙颖莎说珍惜我俩场上配合的机会",
+      "onboard_time": 1752130282,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 391401,
+      "num": 209749,
+      "word": "印度男子出轨亲姑姑遭殴打逼婚",
+      "onboard_time": 1752131062,
+      "rank": 23,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 388469,
+      "num": 278575,
+      "word": "杨迪关注田栩宁",
+      "onboard_time": 1752130643,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 380740,
@@ -459,14 +499,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 284466,
-      "num": 284466,
-      "word": "孙颖莎说珍惜我俩场上配合的机会",
-      "onboard_time": 1752130282,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 279644,
       "num": 279644,
       "word": "公职人员被判缓刑仍领41万工资",
@@ -515,20 +547,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 262377,
+      "num": 296227,
+      "word": "黄子韬是徐艺洋的挂件",
+      "onboard_time": 1752128602,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261589,
       "num": 261589,
       "word": "肖战回应出演古装剧的心得",
       "onboard_time": 1752119783,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 255651,
-      "num": 296227,
-      "word": "黄子韬是徐艺洋的挂件",
-      "onboard_time": 1752128602,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 251781,
@@ -651,12 +683,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220045,
+      "num": 220045,
+      "word": "截瘫女生否认与多个异性维持暧昧互动",
+      "onboard_time": 1752129801,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 215093,
       "num": 272753,
       "word": "铁路部门回应高铁E座去哪儿了",
       "onboard_time": 1752125483,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213832,
+      "num": 191558,
+      "word": "关晓彤曾半夜偷吃方便面",
+      "onboard_time": 1752131662,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 210922,
@@ -673,6 +721,14 @@
       "onboard_time": 1752118222,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209498,
+      "num": 273243,
+      "word": "特朗普要求韩方承担100亿美元军费",
+      "onboard_time": 1752130882,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 208950,
@@ -699,8 +755,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 204993,
+      "num": 204993,
+      "word": "银河左岸 梓渝",
+      "onboard_time": 1752132143,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 203974,
-      "num": 184053,
+      "num": 191764,
       "word": "柳红回应片酬比五阿哥高",
       "onboard_time": 1752126321,
       "rank": 45,
@@ -721,6 +785,22 @@
       "onboard_time": 1752112581,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200026,
+      "num": 213060,
+      "word": "张翰剃了寸头",
+      "onboard_time": 1752130342,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 196628,
+      "num": 196628,
+      "word": "刘柏辛首部电视剧",
+      "onboard_time": 1752131000,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 195038,
@@ -817,6 +897,22 @@
       "onboard_time": 1752112642,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180437,
+      "num": 222639,
+      "word": "第一次见刑侦剧用树枝犯命案",
+      "onboard_time": 1752130703,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 179716,
+      "num": 179716,
+      "word": "网友偶遇韦东奕医院看牙",
+      "onboard_time": 1752131662,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176480,
@@ -947,6 +1043,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 158316,
+      "num": 158316,
+      "word": "公交车上现异味司机要乘客下车合规",
+      "onboard_time": 1752128002,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156968,
       "num": 156968,
       "word": "檀健次为狗狗庆生",
@@ -1043,6 +1147,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 149043,
+      "num": 219872,
+      "word": "宋丹丹的话放到现在杀死所有恋爱脑",
+      "onboard_time": 1752129323,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148672,
       "num": 148672,
       "word": "鹿晗演唱会深圳",
@@ -1073,14 +1185,6 @@
       "onboard_time": 1752124346,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 145866,
-      "num": 145866,
-      "word": "公交车上现异味司机要乘客下车合规",
-      "onboard_time": 1752128002,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 145494,
@@ -1129,6 +1233,14 @@
       "onboard_time": 1752123264,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142101,
+      "num": 142101,
+      "word": "李现晒和杨紫拍立得",
+      "onboard_time": 1752132321,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 141533,
@@ -1203,14 +1315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134522,
-      "num": 134522,
-      "word": "宋丹丹的话放到现在杀死所有恋爱脑",
-      "onboard_time": 1752129323,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 134296,
       "num": 134296,
       "word": "刘耀文锐评广东凉茶",
@@ -1225,6 +1329,14 @@
       "onboard_time": 1752120443,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132326,
+      "num": 190679,
+      "word": "快递员因热射病去世家属发声",
+      "onboard_time": 1752132143,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130927,
@@ -1283,6 +1395,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 127302,
+      "num": 127302,
+      "word": "GAI带着朝天门杀回来了",
+      "onboard_time": 1752131302,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125981,
       "num": 205945,
       "word": "张佳宁回应宋茜",
@@ -1339,6 +1459,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121104,
+      "num": 121104,
+      "word": "特朗普宣布对铜征50%关税",
+      "onboard_time": 1752125302,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 119906,
+      "num": 119906,
+      "word": "小朋友为什么期待爸爸妈妈去接放学",
+      "onboard_time": 1752131123,
+      "rank": 45,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 118473,
       "num": 118473,
       "word": "报道猥亵女生的男子时该不该打码",
@@ -1363,12 +1499,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116621,
+      "num": 116621,
+      "word": "钻咖",
+      "onboard_time": 1752131783,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 115336,
       "num": 284373,
       "word": "合资纯电销冠N7首推OTA",
       "onboard_time": 1752116601,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 114153,
+      "num": 216580,
+      "word": "重庆一小区女保安因暴雨遇难",
+      "onboard_time": 1752132143,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114018,
@@ -1419,20 +1571,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 110537,
+      "num": 110537,
+      "word": "怎么会有老板喜欢叫员工微信名",
+      "onboard_time": 1752132262,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 110173,
       "num": 110173,
       "word": "马斯克称Grok已比人类聪明得多",
       "onboard_time": 1752129862,
       "rank": 45,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 109827,
-      "num": 109827,
-      "word": "张翰剃了寸头",
-      "onboard_time": 1752130342,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 109308,
@@ -1449,14 +1601,6 @@
       "onboard_time": 1752075444,
       "rank": 33,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 107394,
-      "num": 107394,
-      "word": "37岁快递员因热射病去世",
-      "onboard_time": 1752130402,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106669,
@@ -1691,6 +1835,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 83366,
+      "num": 197429,
+      "word": "0元券冲击下的门店现状",
+      "onboard_time": 1752131903,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82830,
       "num": 82830,
       "word": "乒乓球旋转等级具象化了",
@@ -1777,14 +1929,6 @@
       "onboard_time": 1752077062,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 69863,
-      "num": 222318,
-      "word": "驾车致女生截瘫男子母亲发声",
-      "onboard_time": 1752129682,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 69347,
@@ -1907,14 +2051,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 42371,
-      "num": 137805,
-      "word": "截瘫女生否认与多个异性维持暧昧互动",
-      "onboard_time": 1752129801,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 41105,
       "num": 720736,
       "word": "这些成就举世瞩目",
@@ -1977,6 +2113,14 @@
       "onboard_time": 1752084976,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 33121,
+      "num": 190386,
+      "word": "营养师推荐5种高热量食物",
+      "onboard_time": 1752132382,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 23259,
