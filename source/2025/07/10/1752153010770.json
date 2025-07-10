@@ -1,0 +1,410 @@
+{
+  "runTime": 1752153010770,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1064828,
+        "num": 1170372,
+        "word": "宋佳王一博 体制内姐弟",
+        "onboard_time": 1752146963,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 500491,
+        "num": 500491,
+        "word": "英雄联盟",
+        "onboard_time": 1752150443,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 49753,
+        "num": 435985,
+        "word": "2500岁的尼山有多会唠",
+        "onboard_time": 1752140181,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 765782,
+        "num": 433613,
+        "word": "车铜优",
+        "onboard_time": 1752147203,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430305,
+        "num": 430305,
+        "word": "3岁男童肥大扁桃体切除术后脑死亡",
+        "onboard_time": 1752145163,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 397685,
+        "num": 397685,
+        "word": "新房出租1年被糟蹋成破烂",
+        "onboard_time": 1752144203,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 492882,
+        "num": 397190,
+        "word": "徐梦洁不认识林志炫",
+        "onboard_time": 1752149662,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 429348,
+        "num": 396347,
+        "word": "白鹿水灵灵地翻了",
+        "onboard_time": 1752148581,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374816,
+        "num": 374816,
+        "word": "兰州人才引进20岁女硕士",
+        "onboard_time": 1752152002,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140561,
+        "num": 374788,
+        "word": "为何上调2%的养老金比例",
+        "onboard_time": 1752146482,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1475636,
+        "num": 374769,
+        "word": "闲鱼就是一个巨大的人间世",
+        "onboard_time": 1752148642,
+        "rank": 10,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 109047,
+        "num": 374745,
+        "word": "女子强占出租车避雨被驱赶狂叫",
+        "onboard_time": 1752150562,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 959531,
+        "num": 374690,
+        "word": "101202303404",
+        "onboard_time": 1752140781,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 838239,
+        "num": 374672,
+        "word": "理发店给男子灌肠涉嫌犯罪",
+        "onboard_time": 1752143484,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 364022,
+        "num": 374650,
+        "word": "美团免单",
+        "onboard_time": 1752124101,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 518278,
+        "num": 374599,
+        "word": "退休人员基本养老金上调2%",
+        "onboard_time": 1752136103,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 509404,
+        "num": 374568,
+        "word": "迅猛龙回应考研是炒作质疑",
+        "onboard_time": 1752148882,
+        "rank": 16,
+        "category": "网红,教育"
+      },
+      {
+        "raw_hot": 458388,
+        "num": 374532,
+        "word": "怎么还真有明星坐货拉拉下班",
+        "onboard_time": 1752145822,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374532,
+        "num": 374531,
+        "word": "男童扁桃体术后脑死亡医院称已告知风险",
+        "onboard_time": 1752147743,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125235,
+        "num": 350375,
+        "word": "VOGUE来敲刘诗诗的门了",
+        "onboard_time": 1752152183,
+        "rank": 19,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 332015,
+        "num": 332015,
+        "word": "王俊凯代言英雄联盟",
+        "onboard_time": 1752152303,
+        "rank": 20,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 278796,
+        "num": 278796,
+        "word": "李兰迪怎么什么都亲得下去啊",
+        "onboard_time": 1752144682,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209159,
+        "num": 209159,
+        "word": "歌手第九期音源抢先听",
+        "onboard_time": 1752152002,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199556,
+        "num": 199556,
+        "word": "甲亢哥谈最好的国家第一个提中国",
+        "onboard_time": 1752152603,
+        "rank": 23,
+        "category": "海外新闻,网红"
+      },
+      {
+        "raw_hot": 195692,
+        "num": 195692,
+        "word": "VOGUE王一博",
+        "onboard_time": 1752152483,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195400,
+        "num": 195400,
+        "word": "金旻奎抽烟",
+        "onboard_time": 1752146781,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193094,
+        "num": 193094,
+        "word": "女子常穿洞洞鞋致足底钙化行走困难",
+        "onboard_time": 1752152242,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185707,
+        "num": 185707,
+        "word": "网传虞书欣梓渝将合作永白日海",
+        "onboard_time": 1752141143,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183947,
+        "num": 183947,
+        "word": "不建议带着饥饿感入睡",
+        "onboard_time": 1752151703,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 171247,
+        "num": 171247,
+        "word": "女子称因狐臭遭同事投诉被公司辞退",
+        "onboard_time": 1752137482,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168584,
+        "num": 168584,
+        "word": "冻荔枝",
+        "onboard_time": 1752137663,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 167145,
+        "num": 167145,
+        "word": "水果含糖量和热量排行榜",
+        "onboard_time": 1752148162,
+        "rank": 31,
+        "category": "美食,运动健身"
+      },
+      {
+        "raw_hot": 164771,
+        "num": 164771,
+        "word": "日本人礼貌但不友好",
+        "onboard_time": 1752150083,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156066,
+        "num": 156066,
+        "word": "田曦薇胡一天或演天才女友",
+        "onboard_time": 1752149840,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155725,
+        "num": 155725,
+        "word": "杨迪王俊凯曾被黄安否定没有未来",
+        "onboard_time": 1752151763,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150488,
+        "num": 150488,
+        "word": "在闲鱼倒卖乌克兰装备",
+        "onboard_time": 1752142102,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150245,
+        "num": 150245,
+        "word": "陈梦备战全员加速中",
+        "onboard_time": 1752150383,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149886,
+        "num": 149886,
+        "word": "水龙吟",
+        "onboard_time": 1752152783,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148804,
+        "num": 148804,
+        "word": "花了半辈子围猎了自家老头子",
+        "onboard_time": 1752152483,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146168,
+        "num": 146168,
+        "word": "网红律师西绿已被刑拘",
+        "onboard_time": 1752141261,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144619,
+        "num": 144619,
+        "word": "三胞胎一人抱一个大冬瓜睡觉",
+        "onboard_time": 1752150083,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 143745,
+        "num": 143745,
+        "word": "优酷连小朋友的暑假都不放过",
+        "onboard_time": 1752151883,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143485,
+        "num": 143485,
+        "word": "李昀锐不靠运气纯靠实力",
+        "onboard_time": 1752151943,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139031,
+        "num": 139031,
+        "word": "李佳薇心一跳林俊杰就开始煎熬",
+        "onboard_time": 1752152843,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138695,
+        "num": 138695,
+        "word": "梓渝没有丑衣服",
+        "onboard_time": 1752148401,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124955,
+        "num": 124955,
+        "word": "杨少华九平米房子住了一家六口",
+        "onboard_time": 1752149003,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234988,
+        "num": 124305,
+        "word": "山东通报看守所在押人员死亡",
+        "onboard_time": 1752151464,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114225,
+        "num": 114225,
+        "word": "英雄联盟手游",
+        "onboard_time": 1752150443,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108082,
+        "num": 108082,
+        "word": "120隔空指导110救回一条命",
+        "onboard_time": 1752150683,
+        "rank": 48,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 107061,
+        "num": 107061,
+        "word": "乐道L90",
+        "onboard_time": 1752149183,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#勇担民族复兴的时代大任#"
+    }
+  }
+}

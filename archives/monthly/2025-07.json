@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752152088990,
+  "endTime": 1752153010770,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -747,6 +747,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 1475636,
+      "num": 374769,
+      "word": "闲鱼就是一个巨大的人间世",
+      "onboard_time": 1752148642,
+      "rank": 10,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 1469462,
       "num": 930786,
       "word": "男童躺街上被碾压身亡司机发声",
@@ -913,14 +921,6 @@
       "onboard_time": 1751353402,
       "rank": 12,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1352199,
-      "num": 321740,
-      "word": "闲鱼就是一个巨大的人间世",
-      "onboard_time": 1752148642,
-      "rank": 10,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 1344224,
@@ -4787,6 +4787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 509404,
+      "num": 374568,
+      "word": "迅猛龙回应考研是炒作质疑",
+      "onboard_time": 1752148882,
+      "rank": 15,
+      "category": "网红,教育"
+    },
+    {
       "raw_hot": 508807,
       "num": 508807,
       "word": "上海动物园道歉",
@@ -4931,6 +4939,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 492882,
+      "num": 397190,
+      "word": "徐梦洁不认识林志炫",
+      "onboard_time": 1752149662,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 492812,
       "num": 306625,
       "word": "王安宇工作室 网盘",
@@ -4993,14 +5009,6 @@
       "onboard_time": 1751422219,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 482841,
-      "num": 275998,
-      "word": "迅猛龙回应考研是炒作质疑",
-      "onboard_time": 1752148882,
-      "rank": 15,
-      "category": "网红,教育"
     },
     {
       "raw_hot": 482800,
@@ -5168,6 +5176,14 @@
       "word": "翔霖",
       "onboard_time": 1752071964,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 458388,
+      "num": 374532,
+      "word": "怎么还真有明星坐货拉拉下班",
+      "onboard_time": 1752145822,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -5427,14 +5443,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 445029,
-      "num": 272366,
-      "word": "怎么还真有明星坐货拉拉下班",
-      "onboard_time": 1752145822,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 445015,
       "num": 445015,
       "word": "Angelababy解锁全新高定",
@@ -5633,6 +5641,14 @@
       "onboard_time": 1751434523,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 429348,
+      "num": 396347,
+      "word": "白鹿水灵灵地翻了",
+      "onboard_time": 1752148581,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 428915,
@@ -6435,12 +6451,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 374816,
+      "num": 374816,
+      "word": "兰州人才引进20岁女硕士",
+      "onboard_time": 1752152002,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 374750,
       "num": 385440,
       "word": "娜扎你也会怀念十八岁的自己吗",
       "onboard_time": 1751554584,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 374532,
+      "num": 374531,
+      "word": "男童扁桃体术后脑死亡医院称已告知风险",
+      "onboard_time": 1752147743,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 373882,
@@ -6505,14 +6537,6 @@
       "onboard_time": 1751366300,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 369734,
-      "num": 369734,
-      "word": "徐梦洁不认识林志炫",
-      "onboard_time": 1752149662,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 369438,
@@ -6841,14 +6865,6 @@
       "onboard_time": 1751718562,
       "rank": 14,
       "category": "演出"
-    },
-    {
-      "raw_hot": 355850,
-      "num": 355850,
-      "word": "白鹿水灵灵地翻了",
-      "onboard_time": 1752148581,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 355077,
@@ -7329,6 +7345,14 @@
       "onboard_time": 1751864367,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 332015,
+      "num": 332015,
+      "word": "王俊凯代言英雄联盟",
+      "onboard_time": 1752152303,
+      "rank": 20,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 332002,
@@ -9483,14 +9507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 257706,
-      "num": 257706,
-      "word": "男童扁桃体术后脑死亡医院称已告知风险",
-      "onboard_time": 1752147743,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 257289,
       "num": 257289,
       "word": "国乒男队怎么了",
@@ -10281,6 +10297,14 @@
       "onboard_time": 1751956942,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 234988,
+      "num": 151716,
+      "word": "山东通报看守所在押人员死亡",
+      "onboard_time": 1752151464,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 234845,
@@ -11723,6 +11747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209159,
+      "num": 209159,
+      "word": "歌手第九期音源抢先听",
+      "onboard_time": 1752152002,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209097,
       "num": 209097,
       "word": "王楚钦独守半区",
@@ -12587,6 +12619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199556,
+      "num": 199556,
+      "word": "甲亢哥谈最好的国家第一个提中国",
+      "onboard_time": 1752152603,
+      "rank": 23,
+      "category": "海外新闻,网红"
+    },
+    {
       "raw_hot": 199255,
       "num": 199255,
       "word": "苏超南通2比1徐州",
@@ -13051,6 +13091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195692,
+      "num": 195692,
+      "word": "VOGUE王一博",
+      "onboard_time": 1752152483,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195567,
       "num": 195567,
       "word": "罗马仕",
@@ -13305,6 +13353,14 @@
       "onboard_time": 1752074064,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 193094,
+      "num": 193094,
+      "word": "女子常穿洞洞鞋致足底钙化行走困难",
+      "onboard_time": 1752152242,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193012,
@@ -13633,14 +13689,6 @@
       "onboard_time": 1752071905,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 189833,
-      "num": 189833,
-      "word": "歌手第九期音源抢先听",
-      "onboard_time": 1752152002,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 189774,
@@ -14225,6 +14273,14 @@
       "onboard_time": 1751542401,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183947,
+      "num": 183947,
+      "word": "不建议带着饥饿感入睡",
+      "onboard_time": 1752151703,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 183809,
@@ -16019,6 +16075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167145,
+      "num": 167145,
+      "word": "水果含糖量和热量排行榜",
+      "onboard_time": 1752148162,
+      "rank": 38,
+      "category": "美食,运动健身"
+    },
+    {
       "raw_hot": 167093,
       "num": 167093,
       "word": "朝雪录",
@@ -17443,6 +17507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156066,
+      "num": 156066,
+      "word": "田曦薇胡一天或演天才女友",
+      "onboard_time": 1752149840,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156045,
       "num": 396750,
       "word": "中泰警方已对模特被骗缅甸立案",
@@ -17497,6 +17569,14 @@
       "onboard_time": 1751780121,
       "rank": 27,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 155725,
+      "num": 155725,
+      "word": "杨迪王俊凯曾被黄安否定没有未来",
+      "onboard_time": 1752151763,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 155697,
@@ -17753,14 +17833,6 @@
       "onboard_time": 1751951423,
       "rank": 37,
       "category": "数码,财经"
-    },
-    {
-      "raw_hot": 153690,
-      "num": 153690,
-      "word": "不建议带着饥饿感入睡",
-      "onboard_time": 1752151703,
-      "rank": 35,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 153678,
@@ -18131,14 +18203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 151716,
-      "num": 151716,
-      "word": "山东通报看守所在押人员死亡",
-      "onboard_time": 1752151464,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 151510,
       "num": 693796,
       "word": "谈恋爱要从朋友开始",
@@ -18379,6 +18443,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 149886,
+      "num": 149886,
+      "word": "水龙吟",
+      "onboard_time": 1752152783,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149872,
       "num": 149872,
       "word": "奶茶 咖啡因",
@@ -18505,6 +18577,14 @@
       "onboard_time": 1751775382,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 148804,
+      "num": 148804,
+      "word": "花了半辈子围猎了自家老头子",
+      "onboard_time": 1752152483,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 148774,
@@ -19219,6 +19299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144619,
+      "num": 144619,
+      "word": "三胞胎一人抱一个大冬瓜睡觉",
+      "onboard_time": 1752150083,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 144612,
       "num": 144612,
       "word": "河南一乡道因高温爆裂拱起",
@@ -19403,6 +19491,14 @@
       "category": "美食,健康医疗"
     },
     {
+      "raw_hot": 143745,
+      "num": 143745,
+      "word": "优酷连小朋友的暑假都不放过",
+      "onboard_time": 1752151883,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143728,
       "num": 143728,
       "word": "王鹤棣北漂9年后的变化",
@@ -19417,6 +19513,14 @@
       "onboard_time": 1751783482,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 143485,
+      "num": 143485,
+      "word": "李昀锐不靠运气纯靠实力",
+      "onboard_time": 1752151943,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 143399,
@@ -19468,7 +19572,7 @@
     },
     {
       "raw_hot": 143214,
-      "num": 264450,
+      "num": 374788,
       "word": "为何上调2%的养老金比例",
       "onboard_time": 1752146482,
       "rank": 31,
@@ -19785,14 +19889,6 @@
       "onboard_time": 1751983408,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 141298,
-      "num": 141298,
-      "word": "水果含糖量和热量排行榜",
-      "onboard_time": 1752148162,
-      "rank": 38,
-      "category": "美食,运动健身"
     },
     {
       "raw_hot": 141278,
@@ -20163,6 +20259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139031,
+      "num": 139031,
+      "word": "李佳薇心一跳林俊杰就开始煎熬",
+      "onboard_time": 1752152843,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 139028,
       "num": 139028,
       "word": "何炅 我被奥尼尔打过",
@@ -20225,14 +20329,6 @@
       "onboard_time": 1751426001,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 138791,
-      "num": 138791,
-      "word": "优酷连小朋友的暑假都不放过",
-      "onboard_time": 1752151883,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 138790,
@@ -20401,14 +20497,6 @@
       "onboard_time": 1751865685,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 137680,
-      "num": 137680,
-      "word": "三胞胎一人抱一个大冬瓜睡觉",
-      "onboard_time": 1752150083,
-      "rank": 40,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 137543,
@@ -20689,14 +20777,6 @@
       "onboard_time": 1751911396,
       "rank": 29,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 135868,
-      "num": 135868,
-      "word": "杨迪王俊凯曾被黄安否定没有未来",
-      "onboard_time": 1752151763,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 135863,
@@ -21788,7 +21868,7 @@
     },
     {
       "raw_hot": 130577,
-      "num": 130577,
+      "num": 374745,
       "word": "女子强占出租车避雨被驱赶狂叫",
       "onboard_time": 1752150562,
       "rank": 42,
@@ -21873,14 +21953,6 @@
       "onboard_time": 1751805684,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 130237,
-      "num": 130237,
-      "word": "李昀锐不靠运气纯靠实力",
-      "onboard_time": 1752151943,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 130135,
@@ -22193,14 +22265,6 @@
       "onboard_time": 1751947284,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 128221,
-      "num": 128221,
-      "word": "兰州人才引进20岁女硕士",
-      "onboard_time": 1752152002,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128201,
@@ -22809,6 +22873,14 @@
       "onboard_time": 1751968643,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125235,
+      "num": 350375,
+      "word": "VOGUE来敲刘诗诗的门了",
+      "onboard_time": 1752152183,
+      "rank": 19,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 125144,
@@ -23953,14 +24025,6 @@
       "onboard_time": 1751941580,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 119682,
-      "num": 119682,
-      "word": "田曦薇胡一天或演天才女友",
-      "onboard_time": 1752149840,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 119612,
@@ -25113,6 +25177,14 @@
       "onboard_time": 1751511560,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 114225,
+      "num": 114225,
+      "word": "英雄联盟手游",
+      "onboard_time": 1752150443,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 114159,
@@ -26275,6 +26347,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 108082,
+      "num": 324105,
+      "word": "120隔空指导110救回一条命",
+      "onboard_time": 1752150683,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 108072,
       "num": 108072,
       "word": "夏日清爽小短甲",
@@ -26505,6 +26585,14 @@
       "onboard_time": 1751427622,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 107061,
+      "num": 107061,
+      "word": "乐道L90",
+      "onboard_time": 1752149183,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 107007,
@@ -29009,14 +29097,6 @@
       "onboard_time": 1752031283,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 87253,
-      "num": 324105,
-      "word": "120隔空指导110救回一条命",
-      "onboard_time": 1752150683,
-      "rank": 9,
-      "category": "正能量"
     },
     {
       "raw_hot": 87130,
