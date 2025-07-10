@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1752133337871,
+  "endTime": 1752136539551,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -352,6 +352,14 @@
       "word": "蜜雪冰城被曝员工用脚关直饮水桶",
       "onboard_time": 1751904143,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1558218,
+      "num": 929975,
+      "word": "37岁快递员因热射病去世",
+      "onboard_time": 1752130402,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -939,14 +947,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 929975,
-      "num": 929975,
-      "word": "37岁快递员因热射病去世",
-      "onboard_time": 1752130402,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 921102,
       "num": 471307,
       "word": "青岛大学将积极配合开展调查",
@@ -1041,6 +1041,14 @@
       "onboard_time": 1752109822,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 864756,
+      "num": 864756,
+      "word": "截瘫女生否认与多个异性维持暧昧互动",
+      "onboard_time": 1752129801,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 850787,
@@ -1555,6 +1563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 667415,
+      "num": 308713,
+      "word": "银河左岸 梓渝",
+      "onboard_time": 1752132143,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 662508,
       "num": 662508,
       "word": "有3次犯罪前科是怎么当上局长的",
@@ -1809,14 +1825,6 @@
       "onboard_time": 1751883441,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 606528,
-      "num": 268706,
-      "word": "银河左岸 梓渝",
-      "onboard_time": 1752132143,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 605682,
@@ -2364,7 +2372,7 @@
     },
     {
       "raw_hot": 472158,
-      "num": 236659,
+      "num": 253970,
       "word": "印度男子出轨亲姑姑遭殴打逼婚",
       "onboard_time": 1752131062,
       "rank": 23,
@@ -2465,6 +2473,14 @@
       "onboard_time": 1752068664,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 448886,
+      "num": 448886,
+      "word": "中国球迷遭日本球迷袭击致重伤",
+      "onboard_time": 1752133343,
+      "rank": 6,
+      "category": "民生新闻,体育"
     },
     {
       "raw_hot": 447242,
@@ -2641,6 +2657,14 @@
       "onboard_time": 1752031763,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 419297,
+      "num": 308148,
+      "word": "关晓彤曾半夜偷吃方便面",
+      "onboard_time": 1752131662,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 419264,
@@ -3411,12 +3435,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 325126,
+      "num": 304050,
+      "word": "女子称丈夫因健身发出声响被门店拉黑",
+      "onboard_time": 1752134241,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 324975,
       "num": 324975,
       "word": "为什么洗头一梳头会掉头发",
       "onboard_time": 1751936542,
       "rank": 12,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 324475,
+      "num": 278190,
+      "word": "原来青3把邓紫棋逗笑的是梓渝",
+      "onboard_time": 1752134422,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 323401,
@@ -3515,6 +3555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 318779,
+      "num": 318779,
+      "word": "李现晒和杨紫拍立得",
+      "onboard_time": 1752132321,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 317374,
       "num": 565006,
       "word": "袭榜歌手官宣",
@@ -3537,6 +3585,14 @@
       "onboard_time": 1751933842,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 315942,
+      "num": 315942,
+      "word": "退休人员基本养老金上调2%",
+      "onboard_time": 1752136103,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 315377,
@@ -3723,6 +3779,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 295916,
+      "num": 295916,
+      "word": "谢娜回应李维嘉",
+      "onboard_time": 1752135444,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 293572,
       "num": 294981,
       "word": "尹锡悦或牢底坐穿",
@@ -3753,6 +3817,14 @@
       "onboard_time": 1751896645,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 290286,
+      "num": 290286,
+      "word": "英国教授称儒家礼可以让世界讲和",
+      "onboard_time": 1752133162,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 290218,
@@ -4579,6 +4651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 243837,
+      "num": 197542,
+      "word": "医院回应韦东奕看牙",
+      "onboard_time": 1752134122,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 243574,
       "num": 243574,
       "word": "NBA交易",
@@ -4729,14 +4809,6 @@
       "onboard_time": 1751730744,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 235945,
-      "num": 235945,
-      "word": "截瘫女生否认与多个异性维持暧昧互动",
-      "onboard_time": 1752129801,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 235883,
@@ -5227,6 +5299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 215318,
+      "num": 215318,
+      "word": "谢娜是怎么同意李维嘉坐在观察室的",
+      "onboard_time": 1752135743,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 215093,
       "num": 272753,
       "word": "铁路部门回应高铁E座去哪儿了",
@@ -5267,12 +5347,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 213832,
-      "num": 237205,
-      "word": "关晓彤曾半夜偷吃方便面",
-      "onboard_time": 1752131662,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 214068,
+      "num": 214068,
+      "word": "漫蛙",
+      "onboard_time": 1752134302,
+      "rank": 25,
+      "category": "动漫"
     },
     {
       "raw_hot": 213667,
@@ -5755,6 +5835,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 200701,
+      "num": 200701,
+      "word": "杨少华参加剪彩餐馆停业一个月",
+      "onboard_time": 1752134961,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200691,
       "num": 299690,
       "word": "蜜雪冰城用脚关水桶员工道歉",
@@ -5819,28 +5907,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 199549,
-      "num": 236600,
-      "word": "英国教授称儒家礼可以让世界讲和",
-      "onboard_time": 1752133162,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 198901,
       "num": 176015,
       "word": "到底是谁抢光了限量labubu",
       "onboard_time": 1752026723,
       "rank": 24,
       "category": "休闲,动漫"
-    },
-    {
-      "raw_hot": 198848,
-      "num": 205489,
-      "word": "李现晒和杨紫拍立得",
-      "onboard_time": 1752132321,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 198375,
@@ -6403,6 +6475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188138,
+      "num": 254991,
+      "word": "鸿星尔克熊化了",
+      "onboard_time": 1752133462,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188001,
       "num": 188001,
       "word": "脱口秀演员不能上音综",
@@ -6465,6 +6545,14 @@
       "onboard_time": 1752118703,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186877,
+      "num": 186877,
+      "word": "刺痛退役前vs退役后",
+      "onboard_time": 1752136343,
+      "rank": 33,
+      "category": "电竞,综艺"
     },
     {
       "raw_hot": 186635,
@@ -6601,6 +6689,14 @@
       "onboard_time": 1751879901,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 183624,
+      "num": 183624,
+      "word": "怎么会有老板喜欢叫员工微信名",
+      "onboard_time": 1752132262,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 183307,
@@ -7459,6 +7555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166854,
+      "num": 166854,
+      "word": "高价购买LABUBU的人现在还好吗",
+      "onboard_time": 1752135683,
+      "rank": 35,
+      "category": "民生新闻,议题讨论"
+    },
+    {
       "raw_hot": 166696,
       "num": 166696,
       "word": "孙颖莎王曼昱vs迪亚兹帕瓦德",
@@ -7497,6 +7601,14 @@
       "onboard_time": 1752112342,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166362,
+      "num": 166362,
+      "word": "专家称高温热黑比紫外线更伤皮肤",
+      "onboard_time": 1752132922,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166357,
@@ -9499,14 +9611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 138631,
-      "num": 138631,
-      "word": "怎么会有老板喜欢叫员工微信名",
-      "onboard_time": 1752132262,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 138584,
       "num": 325197,
       "word": "为何在药店刷医保买药更贵",
@@ -9777,6 +9881,14 @@
       "onboard_time": 1751725042,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 135350,
+      "num": 135350,
+      "word": "全球文明对话部长级会议",
+      "onboard_time": 1752136464,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 135329,
@@ -10147,6 +10259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 131154,
+      "num": 131154,
+      "word": "全国博物馆倒数第一之争",
+      "onboard_time": 1752134603,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 131068,
       "num": 131068,
       "word": "林俊杰演唱会",
@@ -10193,6 +10313,14 @@
       "onboard_time": 1752050242,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 130772,
+      "num": 256193,
+      "word": "上海一公园狸花猫面部被鱼镖射穿",
+      "onboard_time": 1752132743,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130749,
@@ -10296,14 +10424,6 @@
       "word": "李诞揭穿35岁焦虑真相",
       "onboard_time": 1751810005,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 129537,
-      "num": 129537,
-      "word": "专家称高温热黑比紫外线更伤皮肤",
-      "onboard_time": 1752132922,
-      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -11395,6 +11515,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 118695,
+      "num": 118695,
+      "word": "斗罗大陆剧场版观众吃得真好",
+      "onboard_time": 1752135444,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 118678,
       "num": 118678,
       "word": "王曼昱3比0卡尔伯格",
@@ -12155,6 +12283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110634,
+      "num": 110634,
+      "word": "四十七",
+      "onboard_time": 1752135082,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110571,
       "num": 110571,
       "word": "为什么大部分家长劝不动自己的孩子",
@@ -12169,6 +12305,14 @@
       "onboard_time": 1751859443,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110426,
+      "num": 110426,
+      "word": "周震南 白月光回宫",
+      "onboard_time": 1752135923,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 110408,
@@ -12280,6 +12424,14 @@
       "word": "男子走出空调房一下冷中暑",
       "onboard_time": 1751719222,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109559,
+      "num": 109559,
+      "word": "700GB的月亮照片",
+      "onboard_time": 1752135923,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -13539,6 +13691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92654,
+      "num": 108674,
+      "word": "夏天一定要注意补水",
+      "onboard_time": 1752134662,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 92606,
       "num": 92606,
       "word": "Jennie完全是震撼女人",
@@ -13664,6 +13824,14 @@
       "word": "甘肃幼儿园血铅异常幼儿家长发声",
       "onboard_time": 1751755576,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88435,
+      "num": 130922,
+      "word": "日本警方回应中国球迷遭袭击致重伤",
+      "onboard_time": 1752135562,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -14691,14 +14859,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 62494,
-      "num": 256193,
-      "word": "上海一公园狸花猫面部被鱼镖射穿",
-      "onboard_time": 1752132743,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 62177,
       "num": 313173,
       "word": "以法之名最有价值镜头",
@@ -14999,6 +15159,14 @@
       "num": 208075,
       "word": "原来酷炫的机甲要这么做",
       "onboard_time": 1751782041,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53594,
+      "num": 254405,
+      "word": "福建男子盗窃被带至德州看守所后死亡",
+      "onboard_time": 1752135683,
       "rank": 19,
       "category": "民生新闻"
     },
