@@ -1,6 +1,6 @@
 {
   "startTime": 1752078814060,
-  "endTime": 1752122314917,
+  "endTime": 1752123238630,
   "band_list": [
     {
       "raw_hot": 1477331,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 1443363,
-      "num": 656258,
+      "num": 673091,
       "word": "马思纯瘦回黎吧啦",
       "onboard_time": 1752117022,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1127983,
+      "num": 1180477,
+      "word": "警方通报男子理发店充430万灌肠",
+      "onboard_time": 1752118462,
+      "rank": 24,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1064761,
@@ -35,14 +43,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1052830,
-      "num": 1168452,
-      "word": "警方通报男子理发店充430万灌肠",
-      "onboard_time": 1752118462,
-      "rank": 24,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 986790,
       "num": 1157886,
       "word": "有史以来最短一天",
@@ -57,6 +57,14 @@
       "onboard_time": 1752109822,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 852297,
+      "num": 852297,
+      "word": "干部出轨他人妻子此前为何不处理",
+      "onboard_time": 1752119902,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 782632,
@@ -99,6 +107,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 661617,
+      "num": 450552,
+      "word": "离职原因 直属领导",
+      "onboard_time": 1752118823,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 658707,
       "num": 564170,
       "word": "以法之名删博",
@@ -115,28 +131,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 639332,
-      "num": 450552,
-      "word": "离职原因 直属领导",
-      "onboard_time": 1752118823,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 612727,
       "num": 612727,
       "word": "尹锡悦的牢房没空调也没床",
       "onboard_time": 1752118882,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 610330,
-      "num": 610330,
-      "word": "干部出轨他人妻子此前为何不处理",
-      "onboard_time": 1752119902,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 588973,
@@ -160,6 +160,14 @@
       "word": "男子理发店充430万做灌肠后遭退费难",
       "onboard_time": 1752068424,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 568315,
+      "num": 568315,
+      "word": "没考上985被父母赶出家谁错了",
+      "onboard_time": 1752121883,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -225,6 +233,14 @@
       "onboard_time": 1752107544,
       "rank": 8,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 388274,
+      "num": 388274,
+      "word": "科兴生物拟分红近540亿",
+      "onboard_time": 1752122903,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 380740,
@@ -347,6 +363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 291721,
+      "num": 291721,
+      "word": "不想再吃第二次的水果",
+      "onboard_time": 1752122963,
+      "rank": 16,
+      "category": "美食"
+    },
+    {
       "raw_hot": 286176,
       "num": 286176,
       "word": "朝雪录 敖瑞鹏",
@@ -377,6 +401,14 @@
       "onboard_time": 1752106282,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 273360,
+      "num": 273360,
+      "word": "生长痛",
+      "onboard_time": 1752118102,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 269767,
@@ -411,20 +443,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 249565,
+      "num": 249565,
+      "word": "MSI",
+      "onboard_time": 1752119963,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 236939,
       "num": 185696,
       "word": "王晶曝成龙被粉丝扇耳光",
       "onboard_time": 1752067405,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 233391,
-      "num": 233391,
-      "word": "生长痛",
-      "onboard_time": 1752118102,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 231569,
@@ -435,8 +467,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 229457,
-      "num": 229457,
+      "raw_hot": 230325,
+      "num": 230325,
       "word": "讨厌追星催氪",
       "onboard_time": 1752118582,
       "rank": 34,
@@ -476,7 +508,7 @@
     },
     {
       "raw_hot": 221704,
-      "num": 662922,
+      "num": 674082,
       "word": "全国快递业务量突破1000亿件",
       "onboard_time": 1752108504,
       "rank": 24,
@@ -564,19 +596,19 @@
     },
     {
       "raw_hot": 187023,
-      "num": 187023,
+      "num": 204768,
       "word": "张译演技",
       "onboard_time": 1752118703,
       "rank": 40,
       "category": "剧集"
     },
     {
-      "raw_hot": 186975,
-      "num": 186975,
-      "word": "MSI",
-      "onboard_time": 1752119963,
-      "rank": 34,
-      "category": "电竞"
+      "raw_hot": 185616,
+      "num": 185616,
+      "word": "汪顺独有的坚持与豁达",
+      "onboard_time": 1752122843,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 185316,
@@ -619,6 +651,14 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 174378,
+      "num": 230398,
+      "word": "五分钟夫妻情换一份抚养权",
+      "onboard_time": 1752122544,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172418,
       "num": 172418,
       "word": "特朗普再宣称对8国加征关税",
@@ -633,6 +673,14 @@
       "onboard_time": 1752121463,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170782,
+      "num": 267461,
+      "word": "石破茂说关税谈判怎能忍受被美看扁",
+      "onboard_time": 1752121283,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 169901,
@@ -731,6 +779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149757,
+      "num": 149757,
+      "word": "以为是小妈没想到是亲姐",
+      "onboard_time": 1752123083,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149265,
       "num": 149265,
       "word": "恋与制作人",
@@ -803,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140395,
+      "num": 140395,
+      "word": "国航顺丰",
+      "onboard_time": 1752123203,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139739,
       "num": 139739,
       "word": "总台精品短剧集奇迹杀青",
@@ -841,6 +905,14 @@
       "onboard_time": 1752061822,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 134938,
+      "num": 134938,
+      "word": "宋一梦南珩也是过上甜日子了",
+      "onboard_time": 1752123144,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 134296,
@@ -883,6 +955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129137,
+      "num": 129137,
+      "word": "锦绣芳华里的舞蹈之美",
+      "onboard_time": 1752122663,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128784,
       "num": 128784,
       "word": "考编成绩断崖式领先牵出跨省作弊案",
@@ -905,6 +985,14 @@
       "onboard_time": 1752103940,
       "rank": 19,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 122176,
+      "num": 122176,
+      "word": "空调26度冷27度热",
+      "onboard_time": 1752121222,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 118473,
@@ -1052,7 +1140,7 @@
     },
     {
       "raw_hot": 98549,
-      "num": 126930,
+      "num": 129402,
       "word": "东北苍蝇馆子有多顶",
       "onboard_time": 1752122002,
       "rank": 49,
@@ -1259,14 +1347,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 68693,
-      "num": 267461,
-      "word": "石破茂说关税谈判怎能忍受被美看扁",
-      "onboard_time": 1752121283,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 65029,
       "num": 123267,
       "word": "去找一个像太阳一样的搭档",
@@ -1315,6 +1395,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 54189,
+      "num": 452088,
+      "word": "美政客甩锅第一行动随缘",
+      "onboard_time": 1752121883,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 47920,
       "num": 59612,
       "word": "有没有可能这才是真实世界",
@@ -1337,14 +1425,6 @@
       "onboard_time": 1752064523,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 45596,
-      "num": 452088,
-      "word": "美政客甩锅第一行动随缘",
-      "onboard_time": 1752121883,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 43631,
@@ -1377,6 +1457,14 @@
       "onboard_time": 1752119243,
       "rank": 19,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 37258,
+      "num": 201391,
+      "word": "女子求职被索要生辰八字测五行",
+      "onboard_time": 1752122483,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37199,
@@ -1416,14 +1504,6 @@
       "word": "被指出轨打人公职人员已停职",
       "onboard_time": 1752081858,
       "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23116,
-      "num": 366135,
-      "word": "没考上985被父母赶出家谁错了",
-      "onboard_time": 1752121883,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -1497,6 +1577,9 @@
     },
     {
       "word": "#总书记勉励三晋大地#"
+    },
+    {
+      "word": "#勇担民族复兴的时代大任#"
     }
   ]
 }
