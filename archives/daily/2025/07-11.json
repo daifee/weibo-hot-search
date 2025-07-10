@@ -1,6 +1,6 @@
 {
   "startTime": 1752165274435,
-  "endTime": 1752165274435,
+  "endTime": 1752166298337,
   "band_list": [
     {
       "raw_hot": 843387,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 630925,
-      "num": 630925,
+      "num": 720792,
       "word": "七分裤怎么又火了",
       "onboard_time": 1752161604,
       "rank": 1,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 349960,
+      "num": 349960,
+      "word": "干部出轨他人妻子或被开除",
+      "onboard_time": 1752163282,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 328226,
       "num": 328226,
       "word": "不建议带着饥饿感入睡",
@@ -96,14 +104,6 @@
       "word": "同居2年分手男方索要48.8万彩礼被拒",
       "onboard_time": 1752155362,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 262150,
-      "num": 262150,
-      "word": "干部出轨他人妻子或被开除",
-      "onboard_time": 1752163282,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -137,6 +137,14 @@
       "onboard_time": 1752140781,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172769,
+      "num": 272719,
+      "word": "国足回应带较多行李入关",
+      "onboard_time": 1752160464,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 159312,
@@ -275,6 +283,14 @@
       "category": "海外新闻,网红"
     },
     {
+      "raw_hot": 85894,
+      "num": 147359,
+      "word": "蔚来乐道L90预售价27.99万起",
+      "onboard_time": 1752160824,
+      "rank": 22,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 85523,
       "num": 85523,
       "word": "白鹿水灵灵地翻了",
@@ -307,12 +323,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 81604,
-      "num": 147359,
-      "word": "蔚来乐道L90预售价27.99万起",
-      "onboard_time": 1752160824,
-      "rank": 22,
-      "category": "汽车"
+      "raw_hot": 82782,
+      "num": 94088,
+      "word": "李一桐胡一天或二搭",
+      "onboard_time": 1752165681,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 79155,
@@ -363,12 +379,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 71088,
-      "num": 272719,
-      "word": "国足回应带较多行李入关",
-      "onboard_time": 1752160464,
-      "rank": 9,
-      "category": "体育"
+      "raw_hot": 69291,
+      "num": 69291,
+      "word": "京城大师赛",
+      "onboard_time": 1752165081,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 66973,
+      "num": 66973,
+      "word": "永远别提前焦虑",
+      "onboard_time": 1752165799,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 65809,
@@ -377,6 +401,22 @@
       "onboard_time": 1752157765,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 45698,
+      "num": 174692,
+      "word": "网约车空调费之争该如何解",
+      "onboard_time": 1752165140,
+      "rank": 34,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 38091,
+      "num": 96632,
+      "word": "多方回应医院被指暴力接生",
+      "onboard_time": 1752162204,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36832,
@@ -393,19 +433,14 @@
       "onboard_time": 1752158005,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 15348,
-      "num": 100987,
-      "word": "网约车空调费之争该如何解",
-      "onboard_time": 1752165140,
-      "rank": 34,
-      "category": "议题讨论"
     }
   ],
   "hotgov_list": [
     {
       "word": "#习近平向全球文明对话部长级会议致贺信#"
+    },
+    {
+      "word": "#希望三晋大地的明天更美好#"
     }
   ]
 }
