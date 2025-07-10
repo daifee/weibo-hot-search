@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1752125380835,
+  "endTime": 1752126419537,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -1115,6 +1115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 801775,
+      "num": 479523,
+      "word": "张凌赫凌晨还在超话选美甲",
+      "onboard_time": 1752123983,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 797658,
       "num": 797658,
       "word": "医生称晚安牛奶每天喝24000瓶才有效",
@@ -1707,6 +1715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 622917,
+      "num": 622917,
+      "word": "科兴生物拟分红近540亿",
+      "onboard_time": 1752122903,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 619179,
       "num": 619179,
       "word": "G社拍的刘诗诗",
@@ -1761,14 +1777,6 @@
       "onboard_time": 1751884701,
       "rank": 30,
       "category": "美食"
-    },
-    {
-      "raw_hot": 605626,
-      "num": 605626,
-      "word": "科兴生物拟分红近540亿",
-      "onboard_time": 1752122903,
-      "rank": 13,
-      "category": "财经"
     },
     {
       "raw_hot": 602520,
@@ -1979,6 +1987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 552126,
+      "num": 322244,
+      "word": "不想再吃第二次的水果",
+      "onboard_time": 1752122963,
+      "rank": 16,
+      "category": "美食"
+    },
+    {
       "raw_hot": 548005,
       "num": 694679,
       "word": "赵本山女儿球球抑郁症复发",
@@ -2033,14 +2049,6 @@
       "onboard_time": 1752060802,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 535946,
-      "num": 322244,
-      "word": "不想再吃第二次的水果",
-      "onboard_time": 1752122963,
-      "rank": 16,
-      "category": "美食"
     },
     {
       "raw_hot": 532843,
@@ -2259,14 +2267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 479523,
-      "num": 479523,
-      "word": "张凌赫凌晨还在超话选美甲",
-      "onboard_time": 1752123983,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 478407,
       "num": 478407,
       "word": "阿坝车辆坠崖2死5失联家属急寻线索",
@@ -2377,6 +2377,14 @@
       "onboard_time": 1751886802,
       "rank": 23,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 451381,
+      "num": 451381,
+      "word": "金钟国尹恩惠旧照",
+      "onboard_time": 1752124346,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 449682,
@@ -2691,6 +2699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 407541,
+      "num": 407541,
+      "word": "美团免单",
+      "onboard_time": 1752124101,
+      "rank": 22,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 407466,
       "num": 407466,
       "word": "意大利一男子被吸入飞机引擎身亡",
@@ -2913,14 +2929,6 @@
       "onboard_time": 1752106702,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 367181,
-      "num": 314933,
-      "word": "金钟国尹恩惠旧照",
-      "onboard_time": 1752124346,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 367085,
@@ -3459,6 +3467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 314199,
+      "num": 210400,
+      "word": "原来读书真的会影响潜意识",
+      "onboard_time": 1752124582,
+      "rank": 30,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 313506,
       "num": 343788,
       "word": "马斯克回应参选时间",
@@ -3617,14 +3633,6 @@
       "onboard_time": 1752118341,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 293297,
-      "num": 210400,
-      "word": "原来读书真的会影响潜意识",
-      "onboard_time": 1752124582,
-      "rank": 30,
-      "category": "读书作家"
     },
     {
       "raw_hot": 292252,
@@ -3817,14 +3825,6 @@
       "onboard_time": 1752106282,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 276578,
-      "num": 276578,
-      "word": "美团免单",
-      "onboard_time": 1752124101,
-      "rank": 22,
-      "category": "互联网"
     },
     {
       "raw_hot": 275182,
@@ -4321,6 +4321,14 @@
       "onboard_time": 1751810064,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 251781,
+      "num": 251781,
+      "word": "GEN战胜T1",
+      "onboard_time": 1752125001,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 251523,
@@ -5299,6 +5307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207071,
+      "num": 207071,
+      "word": "国航顺丰",
+      "onboard_time": 1752123203,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 206666,
       "num": 206666,
       "word": "朱志鑫黄海",
@@ -5385,14 +5401,6 @@
       "onboard_time": 1751762239,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 204240,
-      "num": 204240,
-      "word": "GEN战胜T1",
-      "onboard_time": 1752125001,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 203935,
@@ -5883,6 +5891,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 194205,
+      "num": 194205,
+      "word": "孙颖莎王曼昱3比0迪亚兹帕瓦德",
+      "onboard_time": 1752126023,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193787,
       "num": 193787,
       "word": "以法之名万潮",
@@ -5993,6 +6009,14 @@
       "onboard_time": 1751973322,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191706,
+      "num": 191706,
+      "word": "她只是年纪小其实什么都懂",
+      "onboard_time": 1752125603,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 191535,
@@ -6579,6 +6603,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 178110,
+      "num": 178110,
+      "word": "我国科学家把二氧化碳变成了糖",
+      "onboard_time": 1752125302,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 178044,
       "num": 178044,
       "word": "19370707永不能忘",
@@ -6651,14 +6683,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 176798,
-      "num": 176798,
-      "word": "国航顺丰",
-      "onboard_time": 1752123203,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 176480,
       "num": 182953,
       "word": "最想明天就播的电视剧",
@@ -6681,14 +6705,6 @@
       "onboard_time": 1752119361,
       "rank": 36,
       "category": "综艺,电竞"
-    },
-    {
-      "raw_hot": 176129,
-      "num": 176129,
-      "word": "我国科学家把二氧化碳变成了糖",
-      "onboard_time": 1752125302,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 176073,
@@ -7017,6 +7033,14 @@
       "onboard_time": 1752046342,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 171000,
+      "num": 171000,
+      "word": "陈乔恩17年后再做便利贴女孩",
+      "onboard_time": 1752125242,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 170984,
@@ -7779,6 +7803,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 156968,
+      "num": 156968,
+      "word": "檀健次为狗狗庆生",
+      "onboard_time": 1752125722,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156865,
       "num": 156865,
       "word": "女子躲商场过夜一大早再扫货偷盗",
@@ -8083,6 +8115,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 152376,
+      "num": 210931,
+      "word": "从甄嬛传到藏海传的10年",
+      "onboard_time": 1752124821,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152286,
       "num": 152286,
       "word": "日本气象厅再发预警",
@@ -8377,6 +8417,14 @@
       "onboard_time": 1751884341,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 148396,
+      "num": 148396,
+      "word": "恋与深空",
+      "onboard_time": 1752126262,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 148360,
@@ -8875,20 +8923,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 142408,
-      "num": 210931,
-      "word": "从甄嬛传到藏海传的10年",
-      "onboard_time": 1752124821,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 142359,
       "num": 142359,
       "word": "诡秘第三集好不好看",
       "onboard_time": 1751785881,
       "rank": 26,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 142341,
+      "num": 300615,
+      "word": "想去泰国偶遇古力娜扎",
+      "onboard_time": 1752123264,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 142179,
@@ -9009,6 +9057,14 @@
       "onboard_time": 1751979564,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140358,
+      "num": 140358,
+      "word": "新娘荔枝盘发国风满满",
+      "onboard_time": 1752125845,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140302,
@@ -9497,14 +9553,6 @@
       "onboard_time": 1752043642,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 134482,
-      "num": 134482,
-      "word": "陈乔恩17年后再做便利贴女孩",
-      "onboard_time": 1752125242,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 134334,
@@ -10779,6 +10827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121077,
+      "num": 205945,
+      "word": "张佳宁回应宋茜",
+      "onboard_time": 1752125960,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120989,
       "num": 206990,
       "word": "热射病的4种高危人群",
@@ -10889,6 +10945,14 @@
       "onboard_time": 1751941580,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119623,
+      "num": 119623,
+      "word": "柳红回应片酬比五阿哥高",
+      "onboard_time": 1752126321,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 119612,
@@ -12659,14 +12723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 100046,
-      "num": 300615,
-      "word": "想去泰国偶遇古力娜扎",
-      "onboard_time": 1752123264,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 99768,
       "num": 99768,
       "word": "梓渝谁不想养一个在在这么可爱的儿子",
@@ -13051,6 +13107,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 92973,
+      "num": 308207,
+      "word": "巴黎世家高定",
+      "onboard_time": 1752124043,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 92778,
       "num": 92778,
       "word": "要不要把印度踢出群聊",
@@ -13137,6 +13201,14 @@
       "onboard_time": 1751767822,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90874,
+      "num": 193059,
+      "word": "哈工程拟采购9955台空调",
+      "onboard_time": 1752126202,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90864,
@@ -13329,14 +13401,6 @@
       "onboard_time": 1752029482,
       "rank": 24,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 85474,
-      "num": 308207,
-      "word": "巴黎世家高定",
-      "onboard_time": 1752124043,
-      "rank": 15,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 84983,
@@ -13657,6 +13721,14 @@
       "onboard_time": 1751726364,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 76367,
+      "num": 272753,
+      "word": "铁路部门回应高铁E座去哪儿了",
+      "onboard_time": 1752125483,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76242,

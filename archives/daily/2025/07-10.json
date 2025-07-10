@@ -1,6 +1,6 @@
 {
   "startTime": 1752078814060,
-  "endTime": 1752125380835,
+  "endTime": 1752126419537,
   "band_list": [
     {
       "raw_hot": 1599303,
@@ -75,6 +75,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 801775,
+      "num": 479523,
+      "word": "张凌赫凌晨还在超话选美甲",
+      "onboard_time": 1752123983,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 782632,
       "num": 782632,
       "word": "丁禹兮cos孙权",
@@ -139,20 +147,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 622917,
+      "num": 622917,
+      "word": "科兴生物拟分红近540亿",
+      "onboard_time": 1752122903,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 612727,
       "num": 612727,
       "word": "尹锡悦的牢房没空调也没床",
       "onboard_time": 1752118882,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 605626,
-      "num": 605626,
-      "word": "科兴生物拟分红近540亿",
-      "onboard_time": 1752122903,
-      "rank": 13,
-      "category": "财经"
     },
     {
       "raw_hot": 588973,
@@ -195,7 +203,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 535946,
+      "raw_hot": 552126,
       "num": 322244,
       "word": "不想再吃第二次的水果",
       "onboard_time": 1752122963,
@@ -227,11 +235,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 479523,
-      "num": 479523,
-      "word": "张凌赫凌晨还在超话选美甲",
-      "onboard_time": 1752123983,
-      "rank": 6,
+      "raw_hot": 451381,
+      "num": 451381,
+      "word": "金钟国尹恩惠旧照",
+      "onboard_time": 1752124346,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -249,6 +257,14 @@
       "onboard_time": 1752072685,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 407541,
+      "num": 407541,
+      "word": "美团免单",
+      "onboard_time": 1752124101,
+      "rank": 22,
+      "category": "互联网"
     },
     {
       "raw_hot": 401710,
@@ -273,14 +289,6 @@
       "onboard_time": 1752106702,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 367181,
-      "num": 314933,
-      "word": "金钟国尹恩惠旧照",
-      "onboard_time": 1752124346,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 363061,
@@ -355,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 314199,
+      "num": 210400,
+      "word": "原来读书真的会影响潜意识",
+      "onboard_time": 1752124582,
+      "rank": 30,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 305645,
       "num": 305645,
       "word": "金希澈谈未婚原因",
@@ -387,14 +403,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 293297,
-      "num": 210400,
-      "word": "原来读书真的会影响潜意识",
-      "onboard_time": 1752124582,
-      "rank": 30,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 286176,
       "num": 286176,
       "word": "朝雪录 敖瑞鹏",
@@ -425,14 +433,6 @@
       "onboard_time": 1752106282,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 276578,
-      "num": 276578,
-      "word": "美团免单",
-      "onboard_time": 1752124101,
-      "rank": 22,
-      "category": "互联网"
     },
     {
       "raw_hot": 275182,
@@ -473,6 +473,14 @@
       "onboard_time": 1752119783,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 251781,
+      "num": 251781,
+      "word": "GEN战胜T1",
+      "onboard_time": 1752125001,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 249565,
@@ -595,12 +603,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 204240,
-      "num": 204240,
-      "word": "GEN战胜T1",
-      "onboard_time": 1752125001,
-      "rank": 32,
-      "category": "电竞"
+      "raw_hot": 207071,
+      "num": 207071,
+      "word": "国航顺丰",
+      "onboard_time": 1752123203,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 203935,
@@ -627,12 +635,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194205,
+      "num": 194205,
+      "word": "孙颖莎王曼昱3比0迪亚兹帕瓦德",
+      "onboard_time": 1752126023,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193012,
       "num": 242834,
       "word": "威海被生母殴打致死5岁男童已入土",
       "onboard_time": 1752081318,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191706,
+      "num": 191706,
+      "word": "她只是年纪小其实什么都懂",
+      "onboard_time": 1752125603,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 191231,
@@ -691,11 +715,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 176798,
-      "num": 176798,
-      "word": "国航顺丰",
-      "onboard_time": 1752123203,
-      "rank": 40,
+      "raw_hot": 178110,
+      "num": 178110,
+      "word": "我国科学家把二氧化碳变成了糖",
+      "onboard_time": 1752125302,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -713,14 +737,6 @@
       "onboard_time": 1752119361,
       "rank": 36,
       "category": "综艺,电竞"
-    },
-    {
-      "raw_hot": 176129,
-      "num": 176129,
-      "word": "我国科学家把二氧化碳变成了糖",
-      "onboard_time": 1752125302,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 174378,
@@ -744,6 +760,14 @@
       "word": "陈乔恩辟谣用针雕美容传闻",
       "onboard_time": 1752121463,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 171000,
+      "num": 171000,
+      "word": "陈乔恩17年后再做便利贴女孩",
+      "onboard_time": 1752125242,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -819,6 +843,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 156968,
+      "num": 156968,
+      "word": "檀健次为狗狗庆生",
+      "onboard_time": 1752125722,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153871,
       "num": 153871,
       "word": "兴趣一定要有用吗",
@@ -849,6 +881,14 @@
       "onboard_time": 1752103158,
       "rank": 37,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 152376,
+      "num": 210931,
+      "word": "从甄嬛传到藏海传的10年",
+      "onboard_time": 1752124821,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 150255,
@@ -899,6 +939,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 148396,
+      "num": 148396,
+      "word": "恋与深空",
+      "onboard_time": 1752126262,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 146807,
       "num": 146807,
       "word": "冰袋能重复使用吗",
@@ -947,12 +995,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 142408,
-      "num": 210931,
-      "word": "从甄嬛传到藏海传的10年",
-      "onboard_time": 1752124821,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 142341,
+      "num": 300615,
+      "word": "想去泰国偶遇古力娜扎",
+      "onboard_time": 1752123264,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 141533,
@@ -961,6 +1009,14 @@
       "onboard_time": 1752105201,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140358,
+      "num": 140358,
+      "word": "新娘荔枝盘发国风满满",
+      "onboard_time": 1752125845,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139739,
@@ -1017,14 +1073,6 @@
       "onboard_time": 1752123144,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134482,
-      "num": 134482,
-      "word": "陈乔恩17年后再做便利贴女孩",
-      "onboard_time": 1752125242,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 134296,
@@ -1121,6 +1169,22 @@
       "onboard_time": 1752121222,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 121077,
+      "num": 205945,
+      "word": "张佳宁回应宋茜",
+      "onboard_time": 1752125960,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 119623,
+      "num": 119623,
+      "word": "柳红回应片酬比五阿哥高",
+      "onboard_time": 1752126321,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 118473,
@@ -1275,14 +1339,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 100046,
-      "num": 300615,
-      "word": "想去泰国偶遇古力娜扎",
-      "onboard_time": 1752123264,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 98549,
       "num": 129402,
       "word": "东北苍蝇馆子有多顶",
@@ -1323,6 +1379,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 92973,
+      "num": 308207,
+      "word": "巴黎世家高定",
+      "onboard_time": 1752124043,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 92903,
       "num": 92903,
       "word": "贺峻霖 法修散打",
@@ -1345,6 +1409,14 @@
       "onboard_time": 1752113722,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 90874,
+      "num": 193059,
+      "word": "哈工程拟采购9955台空调",
+      "onboard_time": 1752126202,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89916,
@@ -1411,14 +1483,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 85474,
-      "num": 308207,
-      "word": "巴黎世家高定",
-      "onboard_time": 1752124043,
-      "rank": 15,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 84104,
       "num": 84104,
       "word": "Angelababy红绿撞色高级感",
@@ -1456,6 +1520,14 @@
       "word": "父母不让远嫁的8年婚姻生活",
       "onboard_time": 1752087135,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76367,
+      "num": 272753,
+      "word": "铁路部门回应高铁E座去哪儿了",
+      "onboard_time": 1752125483,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
