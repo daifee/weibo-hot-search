@@ -1,10 +1,10 @@
 {
   "startTime": 1752165274435,
-  "endTime": 1752189969746,
+  "endTime": 1752190848841,
   "band_list": [
     {
-      "raw_hot": 1958664,
-      "num": 1958664,
+      "raw_hot": 1989173,
+      "num": 1989173,
       "word": "陈熠3比1孙颖莎",
       "onboard_time": 1752188718,
       "rank": 0,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 817543,
-      "num": 270484,
+      "num": 284559,
       "word": "田栩宁通告被取消了",
       "onboard_time": 1752157826,
       "rank": 10,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 707166,
-      "num": 266971,
+      "num": 287293,
       "word": "闲鱼就是一个巨大的人间世",
       "onboard_time": 1752148642,
       "rank": 11,
@@ -83,20 +83,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 358598,
-      "num": 264732,
-      "word": "陈乔恩谈不生孩子原因",
-      "onboard_time": 1752154283,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 357463,
-      "num": 357463,
+      "raw_hot": 406696,
+      "num": 406696,
       "word": "爱人彻夜不归去前男友小区练瑜伽",
       "onboard_time": 1752153443,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 384674,
+      "num": 288577,
+      "word": "葛荟婕回应女儿小苹果不找她",
+      "onboard_time": 1752188718,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 358598,
+      "num": 273957,
+      "word": "陈乔恩谈不生孩子原因",
+      "onboard_time": 1752154283,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 349960,
@@ -105,14 +113,6 @@
       "onboard_time": 1752163282,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 342996,
-      "num": 230263,
-      "word": "葛荟婕回应女儿小苹果不找她",
-      "onboard_time": 1752188718,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 328226,
@@ -127,6 +127,22 @@
       "num": 262986,
       "word": "蔡徐坤ins",
       "onboard_time": 1752160344,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 294800,
+      "num": 294800,
+      "word": "孙颖莎女单止步16强",
+      "onboard_time": 1752189740,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 283362,
+      "num": 283362,
+      "word": "允许关晓彤洗把脸就来走红毯",
+      "onboard_time": 1752190159,
       "rank": 13,
       "category": "艺人"
     },
@@ -161,6 +177,14 @@
       "onboard_time": 1752153984,
       "rank": 17,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 215320,
+      "num": 215320,
+      "word": "朱雨玲回应战胜王曼昱",
+      "onboard_time": 1752189438,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 204847,
@@ -203,6 +227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163731,
+      "num": 163731,
+      "word": "孙颖莎女双赛场继续加油",
+      "onboard_time": 1752189559,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159312,
       "num": 159312,
       "word": "女子拒绝3倍工作量被辞获赔12万",
@@ -219,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150686,
+      "num": 134324,
+      "word": "陈熠进8强",
+      "onboard_time": 1752189800,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148993,
       "num": 148993,
       "word": "如果允许退货退款的买家发买家秀",
@@ -227,20 +267,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 147149,
+      "num": 220782,
+      "word": "杨少华九平米房子住了一家六口",
+      "onboard_time": 1752149003,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146832,
       "num": 146832,
       "word": "兰州人才引进20岁女硕士",
       "onboard_time": 1752152002,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 143029,
-      "num": 159339,
-      "word": "孙颖莎女单止步16强",
-      "onboard_time": 1752189740,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 139519,
@@ -260,7 +300,7 @@
     },
     {
       "raw_hot": 137311,
-      "num": 218140,
+      "num": 218710,
       "word": "王一博被外国友人排队合照秒配合",
       "onboard_time": 1752163402,
       "rank": 26,
@@ -275,12 +315,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 123900,
-      "num": 123900,
-      "word": "朱雨玲回应战胜王曼昱",
-      "onboard_time": 1752189438,
-      "rank": 27,
-      "category": "体育"
+      "raw_hot": 134299,
+      "num": 134299,
+      "word": "巴西总统对美强硬表态",
+      "onboard_time": 1752187277,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 121380,
@@ -289,14 +329,6 @@
       "onboard_time": 1752146963,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 119390,
-      "num": 119390,
-      "word": "陈熠进8强",
-      "onboard_time": 1752189800,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 113782,
@@ -315,12 +347,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 106798,
-      "num": 208900,
-      "word": "杨少华九平米房子住了一家六口",
-      "onboard_time": 1752149003,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 109168,
+      "num": 109168,
+      "word": "超级三伏天",
+      "onboard_time": 1752190159,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 104788,
@@ -331,11 +363,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 103771,
-      "num": 103771,
-      "word": "巴西总统对美强硬表态",
-      "onboard_time": 1752187277,
-      "rank": 25,
+      "raw_hot": 104732,
+      "num": 236474,
+      "word": "巴西要给特朗普退信",
+      "onboard_time": 1752188778,
+      "rank": 9,
       "category": "国际时政"
     },
     {
@@ -371,12 +403,12 @@
       "category": "艺人,电竞"
     },
     {
-      "raw_hot": 96325,
-      "num": 96325,
-      "word": "孙颖莎女双赛场继续加油",
-      "onboard_time": 1752189559,
-      "rank": 35,
-      "category": "体育"
+      "raw_hot": 95653,
+      "num": 292085,
+      "word": "杭州三名游客马尔代夫回来查出登革热",
+      "onboard_time": 1752182954,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93996,
@@ -385,6 +417,22 @@
       "onboard_time": 1752156503,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 90675,
+      "num": 90675,
+      "word": "38岁天津北漂男子下班后住车里近3年",
+      "onboard_time": 1752189859,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90616,
+      "num": 90616,
+      "word": "LABUBU黄牛价格近乎腰斩",
+      "onboard_time": 1752190159,
+      "rank": 42,
+      "category": "财经,动漫"
     },
     {
       "raw_hot": 88567,
@@ -483,6 +531,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 75232,
+      "num": 75232,
+      "word": "豆腐妹妹称遭性侵曾4次自杀",
+      "onboard_time": 1752190701,
+      "rank": 45,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 74850,
       "num": 74850,
       "word": "京城大师赛",
@@ -515,6 +571,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72316,
+      "num": 72316,
+      "word": "七月的一天通告单上写着田栩宁",
+      "onboard_time": 1752190641,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 71323,
+      "num": 71323,
+      "word": "皮蛋开始在美国供不应求",
+      "onboard_time": 1752190099,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 66973,
       "num": 66973,
       "word": "永远别提前焦虑",
@@ -531,12 +603,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 61402,
-      "num": 215945,
-      "word": "杭州三名游客马尔代夫回来查出登革热",
-      "onboard_time": 1752182954,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 65570,
+      "num": 65570,
+      "word": "王艺迪蒯曼vs郑怡静李昱谆",
+      "onboard_time": 1752189981,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 63374,
+      "num": 134344,
+      "word": "杨丞琳晒照祝李荣浩生日快乐",
+      "onboard_time": 1752190641,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 57649,
@@ -545,22 +625,6 @@
       "onboard_time": 1752184815,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 56635,
-      "num": 236474,
-      "word": "巴西要给特朗普退信",
-      "onboard_time": 1752188778,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 54604,
-      "num": 54604,
-      "word": "38岁天津北漂男子下班后住车里近3年",
-      "onboard_time": 1752189859,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 50842,
@@ -715,6 +779,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 19448,
+      "num": 217039,
+      "word": "美式制裁被指是黑手党手段",
+      "onboard_time": 1752190340,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 17505,
       "num": 21919,
       "word": "JVKE金采源姜太显合作曲",
@@ -769,6 +841,14 @@
       "onboard_time": 1752173055,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 9551,
+      "num": 93661,
+      "word": "5个动作矫正不良体态",
+      "onboard_time": 1752190761,
+      "rank": 39,
+      "category": "运动健身"
     }
   ],
   "hotgov_list": [

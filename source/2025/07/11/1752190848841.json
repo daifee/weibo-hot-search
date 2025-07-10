@@ -1,0 +1,410 @@
+{
+  "runTime": 1752190848841,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1989173,
+        "num": 1989173,
+        "word": "陈熠3比1孙颖莎",
+        "onboard_time": 1752188718,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 728576,
+        "num": 728576,
+        "word": "王曼昱1比3朱雨玲",
+        "onboard_time": 1752188540,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29041,
+        "num": 593612,
+        "word": "五个新说透102项重大工程看点",
+        "onboard_time": 1752158005,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 573008,
+        "num": 573008,
+        "word": "七分裤怎么又火了",
+        "onboard_time": 1752161604,
+        "rank": 3,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 406696,
+        "num": 406696,
+        "word": "爱人彻夜不归去前男友小区练瑜伽",
+        "onboard_time": 1752153443,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322073,
+        "num": 322073,
+        "word": "女子常穿洞洞鞋致足底钙化行走困难",
+        "onboard_time": 1752152242,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316916,
+        "num": 316916,
+        "word": "内娱神女降级史",
+        "onboard_time": 1752161124,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294800,
+        "num": 294800,
+        "word": "孙颖莎女单止步16强",
+        "onboard_time": 1752189740,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268205,
+        "num": 293164,
+        "word": "钱宏明自杀",
+        "onboard_time": 1752155544,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95653,
+        "num": 292085,
+        "word": "杭州三名游客马尔代夫回来查出登革热",
+        "onboard_time": 1752182954,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 384674,
+        "num": 288577,
+        "word": "葛荟婕回应女儿小苹果不找她",
+        "onboard_time": 1752188718,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373807,
+        "num": 287293,
+        "word": "闲鱼就是一个巨大的人间世",
+        "onboard_time": 1752148642,
+        "rank": 11,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 364839,
+        "num": 284559,
+        "word": "田栩宁通告被取消了",
+        "onboard_time": 1752157826,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283362,
+        "num": 283362,
+        "word": "允许关晓彤洗把脸就来走红毯",
+        "onboard_time": 1752190159,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273957,
+        "num": 273957,
+        "word": "陈乔恩谈不生孩子原因",
+        "onboard_time": 1752154283,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224780,
+        "num": 224780,
+        "word": "不建议带着饥饿感入睡",
+        "onboard_time": 1752151703,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 149527,
+        "num": 222663,
+        "word": "梓渝取消hi6录制",
+        "onboard_time": 1752157284,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147149,
+        "num": 220782,
+        "word": "杨少华九平米房子住了一家六口",
+        "onboard_time": 1752149003,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111691,
+        "num": 218710,
+        "word": "王一博被外国友人排队合照秒配合",
+        "onboard_time": 1752163402,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19448,
+        "num": 217039,
+        "word": "美式制裁被指是黑手党手段",
+        "onboard_time": 1752190340,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 215320,
+        "num": 215320,
+        "word": "朱雨玲回应战胜王曼昱",
+        "onboard_time": 1752189438,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199749,
+        "num": 199749,
+        "word": "干部出轨他人妻子或被开除",
+        "onboard_time": 1752163282,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182988,
+        "num": 182988,
+        "word": "多方回应医院被指暴力接生",
+        "onboard_time": 1752162204,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163731,
+        "num": 163731,
+        "word": "孙颖莎女双赛场继续加油",
+        "onboard_time": 1752189559,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153342,
+        "num": 153342,
+        "word": "同居2年分手男方索要48.8万彩礼被拒",
+        "onboard_time": 1752155362,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149489,
+        "num": 149489,
+        "word": "文旅局回应西北大环线暗布扎胎器",
+        "onboard_time": 1752174975,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145470,
+        "num": 145470,
+        "word": "兰州人才引进20岁女硕士",
+        "onboard_time": 1752152002,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134993,
+        "num": 134993,
+        "word": "再亲密的情侣关系也必须回归法律责任",
+        "onboard_time": 1752154043,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95290,
+        "num": 134627,
+        "word": "胡一天对接发文",
+        "onboard_time": 1752160344,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63374,
+        "num": 134344,
+        "word": "杨丞琳晒照祝李荣浩生日快乐",
+        "onboard_time": 1752190641,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150686,
+        "num": 134324,
+        "word": "陈熠进8强",
+        "onboard_time": 1752189800,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134299,
+        "num": 134299,
+        "word": "巴西总统对美强硬表态",
+        "onboard_time": 1752187277,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127066,
+        "num": 127066,
+        "word": "中国军方未使用激光瞄准德国飞机",
+        "onboard_time": 1752159745,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 119862,
+        "num": 119862,
+        "word": "父亲酒后暴打几岁女儿致粉碎性骨折",
+        "onboard_time": 1752153984,
+        "rank": 33,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 109895,
+        "num": 109895,
+        "word": "陈熠晋级美国大满贯8强",
+        "onboard_time": 1752189139,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109168,
+        "num": 109168,
+        "word": "超级三伏天",
+        "onboard_time": 1752190159,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108354,
+        "num": 108354,
+        "word": "女子拒绝3倍工作量被辞获赔12万",
+        "onboard_time": 1752161544,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56750,
+        "num": 106506,
+        "word": "白鹿水灵灵地翻了",
+        "onboard_time": 1752148581,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104732,
+        "num": 104732,
+        "word": "巴西要给特朗普退信",
+        "onboard_time": 1752188778,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 9551,
+        "num": 93661,
+        "word": "5个动作矫正不良体态",
+        "onboard_time": 1752190761,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 92291,
+        "num": 92291,
+        "word": "国足出征东亚杯托运140件行李",
+        "onboard_time": 1752157643,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90675,
+        "num": 90675,
+        "word": "38岁天津北漂男子下班后住车里近3年",
+        "onboard_time": 1752189859,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90616,
+        "num": 90616,
+        "word": "LABUBU黄牛价格近乎腰斩",
+        "onboard_time": 1752190159,
+        "rank": 42,
+        "category": "财经,动漫"
+      },
+      {
+        "raw_hot": 81137,
+        "num": 81137,
+        "word": "国足回应带较多行李入关",
+        "onboard_time": 1752160464,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75475,
+        "num": 75475,
+        "word": "连续工作8小时后因休息3分钟遭开除",
+        "onboard_time": 1752162502,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75232,
+        "num": 75232,
+        "word": "豆腐妹妹称遭性侵曾4次自杀",
+        "onboard_time": 1752190701,
+        "rank": 45,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 72316,
+        "num": 72316,
+        "word": "七月的一天通告单上写着田栩宁",
+        "onboard_time": 1752190641,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71323,
+        "num": 71323,
+        "word": "皮蛋开始在美国供不应求",
+        "onboard_time": 1752190099,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 70068,
+        "num": 70068,
+        "word": "3岁男童肥大扁桃体切除术后脑死亡",
+        "onboard_time": 1752145163,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65570,
+        "num": 65570,
+        "word": "王艺迪蒯曼vs郑怡静李昱谆",
+        "onboard_time": 1752189981,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#希望三晋大地的明天更美好#"
+    }
+  }
+}
