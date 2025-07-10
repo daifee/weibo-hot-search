@@ -1,6 +1,6 @@
 {
   "startTime": 1752165274435,
-  "endTime": 1752182832965,
+  "endTime": 1752183707156,
   "band_list": [
     {
       "raw_hot": 843387,
@@ -427,7 +427,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 52456,
+      "raw_hot": 56662,
       "num": 96632,
       "word": "多方回应医院被指暴力接生",
       "onboard_time": 1752162204,
@@ -531,6 +531,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 23009,
+      "num": 23009,
+      "word": "文旅局回应西北大环线暗布扎胎器",
+      "onboard_time": 1752174975,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22889,
       "num": 22889,
       "word": "天才女友",
@@ -539,16 +547,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 22644,
-      "num": 22644,
-      "word": "文旅局回应西北大环线暗布扎胎器",
-      "onboard_time": 1752174975,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 21836,
-      "num": 22925,
+      "num": 23024,
       "word": "王俊凯出任电竞世界杯中国唯一大使",
       "onboard_time": 1752173234,
       "rank": 47,
@@ -561,6 +561,14 @@
       "onboard_time": 1752176174,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 18330,
+      "num": 19715,
+      "word": "杭州三名游客马尔代夫回来查出登革热",
+      "onboard_time": 1752182954,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17505,
@@ -596,7 +604,7 @@
     },
     {
       "raw_hot": 16865,
-      "num": 18482,
+      "num": 19713,
       "word": "咪咕体育",
       "onboard_time": 1752178815,
       "rank": 47,
@@ -625,6 +633,14 @@
       "onboard_time": 1752173055,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11489,
+      "num": 49146,
+      "word": "养老金水平较低的调整幅度高一些",
+      "onboard_time": 1752182954,
+      "rank": 9,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
