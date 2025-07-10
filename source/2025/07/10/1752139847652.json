@@ -1,0 +1,410 @@
+{
+  "runTime": 1752139847652,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1916286,
+        "num": 1916286,
+        "word": "退休人员基本养老金上调2%",
+        "onboard_time": 1752136103,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1090354,
+        "num": 1090354,
+        "word": "美团免单",
+        "onboard_time": 1752124101,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 36026,
+        "num": 774009,
+        "word": "全国快递业务量突破1000亿件",
+        "onboard_time": 1752108504,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 744957,
+        "num": 744957,
+        "word": "女子称因狐臭遭同事投诉被公司辞退",
+        "onboard_time": 1752137482,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 626421,
+        "num": 626421,
+        "word": "王一博回国第一天就开会",
+        "onboard_time": 1752138382,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 529343,
+        "num": 529343,
+        "word": "冻荔枝",
+        "onboard_time": 1752137663,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 527450,
+        "num": 527450,
+        "word": "截瘫女生否认与多个异性维持暧昧互动",
+        "onboard_time": 1752129801,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 479822,
+        "num": 479822,
+        "word": "借款20万还款2800万仍欠470万",
+        "onboard_time": 1752126802,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362989,
+        "num": 459693,
+        "word": "谢娜回应李维嘉",
+        "onboard_time": 1752135444,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 441631,
+        "num": 441631,
+        "word": "养老金调整重点向中低收入群体倾斜",
+        "onboard_time": 1752136942,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 648651,
+        "num": 424862,
+        "word": "杨天真 又瘦又美又有钱的自信",
+        "onboard_time": 1752136703,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 452455,
+        "num": 405120,
+        "word": "医院回应韦东奕看牙",
+        "onboard_time": 1752134122,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 363944,
+        "num": 363944,
+        "word": "李泳知买到仿冒Labubu",
+        "onboard_time": 1752137423,
+        "rank": 12,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 341427,
+        "num": 341427,
+        "word": "中国球迷遭日本球迷袭击致重伤",
+        "onboard_time": 1752133343,
+        "rank": 13,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 339875,
+        "num": 339875,
+        "word": "马思纯瘦回黎吧啦",
+        "onboard_time": 1752117022,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329054,
+        "num": 329054,
+        "word": "女子称丈夫因健身发出声响被门店拉黑",
+        "onboard_time": 1752134241,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293139,
+        "num": 293139,
+        "word": "原来青3把邓紫棋逗笑的是梓渝",
+        "onboard_time": 1752134422,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281762,
+        "num": 281762,
+        "word": "李一桐本人来了都得愣两秒",
+        "onboard_time": 1752138263,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256673,
+        "num": 256673,
+        "word": "养老金",
+        "onboard_time": 1752137183,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24238,
+        "num": 249586,
+        "word": "200万人用稳定币投资陷130亿骗局",
+        "onboard_time": 1752139282,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110789,
+        "num": 236784,
+        "word": "外交部回应特朗普加征50%铜关税",
+        "onboard_time": 1752138263,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 279298,
+        "num": 233458,
+        "word": "银河左岸 梓渝",
+        "onboard_time": 1752132143,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 265514,
+        "num": 216938,
+        "word": "印度男子出轨亲姑姑遭殴打逼婚",
+        "onboard_time": 1752131062,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 216092,
+        "num": 216092,
+        "word": "于龙向杨咩咩求婚",
+        "onboard_time": 1752138203,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211514,
+        "num": 211514,
+        "word": "雨太大了 撑伞也没有用",
+        "onboard_time": 1752136763,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204787,
+        "num": 204787,
+        "word": "驾车致女生截瘫男子母亲发声",
+        "onboard_time": 1752129682,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202549,
+        "num": 202549,
+        "word": "谢娜是怎么同意李维嘉坐在观察室的",
+        "onboard_time": 1752135743,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159049,
+        "num": 197931,
+        "word": "刘旸喜单2内投第一",
+        "onboard_time": 1752138982,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150243,
+        "num": 197666,
+        "word": "何惟芳蒋长扬洞房吻戏",
+        "onboard_time": 1752138622,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197478,
+        "num": 197478,
+        "word": "关晓彤曾半夜偷吃方便面",
+        "onboard_time": 1752131662,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179397,
+        "num": 179397,
+        "word": "哪些特产出了家乡就没听过了",
+        "onboard_time": 1752138563,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 172195,
+        "num": 172195,
+        "word": "杨少华参加剪彩餐馆停业一个月",
+        "onboard_time": 1752134961,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155692,
+        "num": 155692,
+        "word": "英国教授称儒家礼可以让世界讲和",
+        "onboard_time": 1752133162,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154238,
+        "num": 154238,
+        "word": "杨梅荔枝蛋糕",
+        "onboard_time": 1752137482,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 90185,
+        "num": 151933,
+        "word": "为什么领导们都喜欢用折叠屏",
+        "onboard_time": 1752137423,
+        "rank": 34,
+        "category": "情感,数码"
+      },
+      {
+        "raw_hot": 151308,
+        "num": 151308,
+        "word": "小猫舔毛的时候伸什么都会帮你舔",
+        "onboard_time": 1752139101,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142654,
+        "num": 142654,
+        "word": "李现晒和杨紫拍立得",
+        "onboard_time": 1752132321,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135227,
+        "num": 135227,
+        "word": "防晒面罩越戴越黑",
+        "onboard_time": 1752125363,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130509,
+        "num": 130509,
+        "word": "三门峡库区出现巨型生命树",
+        "onboard_time": 1752138323,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 54409,
+        "num": 130355,
+        "word": "智能手表可防猝预警吗",
+        "onboard_time": 1752138923,
+        "rank": 39,
+        "category": "健康医疗,数码"
+      },
+      {
+        "raw_hot": 130302,
+        "num": 130302,
+        "word": "高价购买LABUBU的人现在还好吗",
+        "onboard_time": 1752135683,
+        "rank": 40,
+        "category": "民生新闻,议题讨论"
+      },
+      {
+        "raw_hot": 128183,
+        "num": 128183,
+        "word": "没考上985被父母赶出家谁错了",
+        "onboard_time": 1752121883,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124720,
+        "num": 124720,
+        "word": "上海迪士尼发声明",
+        "onboard_time": 1752138143,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123389,
+        "num": 123389,
+        "word": "孙颖莎说珍惜我俩场上配合的机会",
+        "onboard_time": 1752130282,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114078,
+        "num": 114078,
+        "word": "漫蛙",
+        "onboard_time": 1752134302,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 113284,
+        "num": 113284,
+        "word": "白宇张凌赫 男人和男孩",
+        "onboard_time": 1752139582,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113075,
+        "num": 113075,
+        "word": "向佐金属抹胸",
+        "onboard_time": 1752116782,
+        "rank": 46,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 106444,
+        "num": 106444,
+        "word": "杨迪关注田栩宁",
+        "onboard_time": 1752130643,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104088,
+        "num": 104088,
+        "word": "被王一博这个挑眉撩到了",
+        "onboard_time": 1752137183,
+        "rank": 48,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 100822,
+        "num": 100822,
+        "word": "日本警方回应中国球迷遭袭击致重伤",
+        "onboard_time": 1752135562,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记勉励三晋大地#"
+    }
+  }
+}

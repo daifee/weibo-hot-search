@@ -1,7 +1,15 @@
 {
   "startTime": 1752078814060,
-  "endTime": 1752137407733,
+  "endTime": 1752139847652,
   "band_list": [
+    {
+      "raw_hot": 1916286,
+      "num": 1916286,
+      "word": "退休人员基本养老金上调2%",
+      "onboard_time": 1752136103,
+      "rank": 9,
+      "category": "国内时政"
+    },
     {
       "raw_hot": 1896273,
       "num": 1896273,
@@ -25,14 +33,6 @@
       "onboard_time": 1752121883,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1594082,
-      "num": 1594082,
-      "word": "退休人员基本养老金上调2%",
-      "onboard_time": 1752136103,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1558218,
@@ -147,6 +147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 744957,
+      "num": 744957,
+      "word": "女子称因狐臭遭同事投诉被公司辞退",
+      "onboard_time": 1752137482,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 708105,
       "num": 708105,
       "word": "杨少华账号删除带货视频",
@@ -203,11 +211,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 648651,
+      "num": 424862,
+      "word": "杨天真 又瘦又美又有钱的自信",
+      "onboard_time": 1752136703,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 641845,
       "num": 367846,
       "word": "包文婧产后情绪失控",
       "onboard_time": 1752104960,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 626421,
+      "num": 626421,
+      "word": "王一博回国第一天就开会",
+      "onboard_time": 1752138382,
+      "rank": 4,
       "category": "艺人"
     },
     {
@@ -291,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 529343,
+      "num": 529343,
+      "word": "冻荔枝",
+      "onboard_time": 1752137663,
+      "rank": 5,
+      "category": "美食"
+    },
+    {
       "raw_hot": 511088,
       "num": 511088,
       "word": "人民日报关注国产剧火到海外",
@@ -323,6 +355,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 452455,
+      "num": 405120,
+      "word": "医院回应韦东奕看牙",
+      "onboard_time": 1752134122,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 451381,
       "num": 451381,
       "word": "金钟国尹恩惠旧照",
@@ -337,6 +377,14 @@
       "onboard_time": 1752133343,
       "rank": 6,
       "category": "民生新闻,体育"
+    },
+    {
+      "raw_hot": 441631,
+      "num": 441631,
+      "word": "养老金调整重点向中低收入群体倾斜",
+      "onboard_time": 1752136942,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 424669,
@@ -403,12 +451,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 363944,
+      "num": 363944,
+      "word": "李泳知买到仿冒Labubu",
+      "onboard_time": 1752137423,
+      "rank": 12,
+      "category": "艺人,动漫"
+    },
+    {
       "raw_hot": 363061,
       "num": 318112,
       "word": "Angelababy 港风还得港女来",
       "onboard_time": 1752061463,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 362989,
+      "num": 459693,
+      "word": "谢娜回应李维嘉",
+      "onboard_time": 1752135444,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 361688,
@@ -436,7 +500,7 @@
     },
     {
       "raw_hot": 354988,
-      "num": 304050,
+      "num": 329054,
       "word": "女子称丈夫因健身发出声响被门店拉黑",
       "onboard_time": 1752134241,
       "rank": 12,
@@ -468,7 +532,7 @@
     },
     {
       "raw_hot": 324475,
-      "num": 278190,
+      "num": 293139,
       "word": "原来青3把邓紫棋逗笑的是梓渝",
       "onboard_time": 1752134422,
       "rank": 15,
@@ -521,14 +585,6 @@
       "onboard_time": 1752124582,
       "rank": 30,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 308808,
-      "num": 295916,
-      "word": "谢娜回应李维嘉",
-      "onboard_time": 1752135444,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 305645,
@@ -585,6 +641,14 @@
       "onboard_time": 1752121103,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 281762,
+      "num": 281762,
+      "word": "李一桐本人来了都得愣两秒",
+      "onboard_time": 1752138263,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 279644,
@@ -651,6 +715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 256673,
+      "num": 256673,
+      "word": "养老金",
+      "onboard_time": 1752137183,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 251781,
       "num": 251781,
       "word": "GEN战胜T1",
@@ -665,14 +737,6 @@
       "onboard_time": 1752119963,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 243837,
-      "num": 228530,
-      "word": "医院回应韦东奕看牙",
-      "onboard_time": 1752134122,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 238908,
@@ -705,14 +769,6 @@
       "onboard_time": 1752123444,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 233202,
-      "num": 233202,
-      "word": "杨天真 又瘦又美又有钱的自信",
-      "onboard_time": 1752136703,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 231569,
@@ -803,6 +859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216092,
+      "num": 216092,
+      "word": "于龙向杨咩咩求婚",
+      "onboard_time": 1752138203,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215093,
       "num": 272753,
       "word": "铁路部门回应高铁E座去哪儿了",
@@ -825,6 +889,14 @@
       "onboard_time": 1752132983,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 211514,
+      "num": 211514,
+      "word": "雨太大了 撑伞也没有用",
+      "onboard_time": 1752136763,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 210922,
@@ -864,14 +936,6 @@
       "word": "国航顺丰",
       "onboard_time": 1752123203,
       "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 204087,
-      "num": 204087,
-      "word": "养老金",
-      "onboard_time": 1752137183,
-      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -1059,6 +1123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179397,
+      "num": 179397,
+      "word": "哪些特产出了家乡就没听过了",
+      "onboard_time": 1752138563,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 176480,
       "num": 182953,
       "word": "最想明天就播的电视剧",
@@ -1211,12 +1283,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 160948,
-      "num": 228728,
-      "word": "养老金调整重点向中低收入群体倾斜",
-      "onboard_time": 1752136942,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 159049,
+      "num": 197931,
+      "word": "刘旸喜单2内投第一",
+      "onboard_time": 1752138982,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 158697,
@@ -1267,6 +1339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154238,
+      "num": 154238,
+      "word": "杨梅荔枝蛋糕",
+      "onboard_time": 1752137482,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 153871,
       "num": 153871,
       "word": "兴趣一定要有用吗",
@@ -1315,12 +1395,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151308,
+      "num": 151308,
+      "word": "小猫舔毛的时候伸什么都会帮你舔",
+      "onboard_time": 1752139101,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 150255,
       "num": 150255,
       "word": "敢跟谢霆锋这么说话的只有阿Sa",
       "onboard_time": 1752097876,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150243,
+      "num": 197666,
+      "word": "何惟芳蒋长扬洞房吻戏",
+      "onboard_time": 1752138622,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 149757,
@@ -1483,14 +1579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 138691,
-      "num": 138691,
-      "word": "雨太大了 撑伞也没有用",
-      "onboard_time": 1752136763,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 138087,
       "num": 138087,
       "word": "王者荣耀回应玩家吐槽新赛季",
@@ -1595,6 +1683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130509,
+      "num": 130509,
+      "word": "三门峡库区出现巨型生命树",
+      "onboard_time": 1752138323,
+      "rank": 38,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 130188,
       "num": 130188,
       "word": "歌手歌单",
@@ -1673,6 +1769,14 @@
       "onboard_time": 1752124523,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124720,
+      "num": 124720,
+      "word": "上海迪士尼发声明",
+      "onboard_time": 1752138143,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123948,
@@ -1787,6 +1891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113284,
+      "num": 113284,
+      "word": "白宇张凌赫 男人和男孩",
+      "onboard_time": 1752139582,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112846,
       "num": 112846,
       "word": "马斯克宣布Grok4发布",
@@ -1825,6 +1937,14 @@
       "onboard_time": 1752110722,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 110789,
+      "num": 236784,
+      "word": "外交部回应特朗普加征50%铜关税",
+      "onboard_time": 1752138263,
+      "rank": 20,
+      "category": "国内时政"
     },
     {
       "raw_hot": 110634,
@@ -2033,6 +2153,14 @@
       "onboard_time": 1752113722,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 90185,
+      "num": 151933,
+      "word": "为什么领导们都喜欢用折叠屏",
+      "onboard_time": 1752137423,
+      "rank": 34,
+      "category": "情感,数码"
     },
     {
       "raw_hot": 89916,
@@ -2259,6 +2387,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 54409,
+      "num": 130355,
+      "word": "智能手表可防猝预警吗",
+      "onboard_time": 1752138923,
+      "rank": 39,
+      "category": "健康医疗,数码"
+    },
+    {
       "raw_hot": 54189,
       "num": 452088,
       "word": "美政客甩锅第一行动随缘",
@@ -2393,6 +2529,14 @@
       "onboard_time": 1752132382,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 24238,
+      "num": 249586,
+      "word": "200万人用稳定币投资陷130亿骗局",
+      "onboard_time": 1752139282,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23965,
