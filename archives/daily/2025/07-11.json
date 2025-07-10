@@ -1,6 +1,6 @@
 {
   "startTime": 1752165274435,
-  "endTime": 1752175329683,
+  "endTime": 1752176284713,
   "band_list": [
     {
       "raw_hot": 843387,
@@ -523,12 +523,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 22644,
+      "num": 22644,
+      "word": "文旅局回应西北大环线暗布扎胎器",
+      "onboard_time": 1752174975,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21836,
       "num": 22323,
       "word": "王俊凯出任电竞世界杯中国唯一大使",
       "onboard_time": 1752173234,
       "rank": 47,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 19755,
+      "num": 19755,
+      "word": "超人中国首映礼",
+      "onboard_time": 1752176174,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 17505,
@@ -547,20 +563,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 17383,
-      "num": 21911,
-      "word": "文旅局回应西北大环线暗布扎胎器",
-      "onboard_time": 1752174975,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 17357,
       "num": 21905,
       "word": "无可替代",
       "onboard_time": 1752166879,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 17076,
+      "num": 18292,
+      "word": "鹿晗 抢票",
+      "onboard_time": 1752175635,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 16684,
@@ -577,6 +593,14 @@
       "onboard_time": 1752173055,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11036,
+      "num": 18293,
+      "word": "店家回应泰迪进餐厅已进行消杀",
+      "onboard_time": 1752176114,
+      "rank": 44,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
