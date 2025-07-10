@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1752161454132,
+  "endTime": 1752162332977,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -1635,6 +1635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 687686,
+      "num": 482785,
+      "word": "胡一天对接发文",
+      "onboard_time": 1752160344,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 687607,
       "num": 687607,
       "word": "喜茶偷偷调整了logo",
@@ -1689,14 +1697,6 @@
       "onboard_time": 1751962522,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 670648,
-      "num": 482785,
-      "word": "胡一天对接发文",
-      "onboard_time": 1752160344,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 669747,
@@ -2121,6 +2121,14 @@
       "onboard_time": 1752110301,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 586517,
+      "num": 333244,
+      "word": "蔡徐坤ins",
+      "onboard_time": 1752160344,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 584675,
@@ -2915,14 +2923,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 426232,
-      "num": 333244,
-      "word": "蔡徐坤ins",
-      "onboard_time": 1752160344,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 424669,
       "num": 518976,
       "word": "特朗普给14国发送关税通牒",
@@ -3145,6 +3145,14 @@
       "onboard_time": 1752130282,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 398794,
+      "num": 324222,
+      "word": "梓渝微博粉丝破500万",
+      "onboard_time": 1752160525,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 393473,
@@ -3803,14 +3811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 324222,
-      "num": 324222,
-      "word": "梓渝微博粉丝破500万",
-      "onboard_time": 1752160525,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 323401,
       "num": 323401,
       "word": "二男二女却凑出三对情侣",
@@ -3961,6 +3961,14 @@
       "onboard_time": 1752062243,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 315039,
+      "num": 263414,
+      "word": "内娱神女降级史",
+      "onboard_time": 1752161124,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 314427,
@@ -4369,6 +4377,14 @@
       "onboard_time": 1752106282,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 276801,
+      "num": 276801,
+      "word": "中国军方未使用激光瞄准德国飞机",
+      "onboard_time": 1752159745,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 275182,
@@ -5099,14 +5115,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 241342,
-      "num": 241342,
-      "word": "中国军方未使用激光瞄准德国飞机",
-      "onboard_time": 1752159745,
-      "rank": 22,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 240924,
       "num": 240924,
       "word": "台风",
@@ -5785,6 +5793,14 @@
       "onboard_time": 1752134302,
       "rank": 25,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 213712,
+      "num": 213712,
+      "word": "如果允许退货退款的买家发买家秀",
+      "onboard_time": 1752160284,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 213667,
@@ -6513,6 +6529,14 @@
       "onboard_time": 1751874561,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196421,
+      "num": 196421,
+      "word": "七分裤怎么又火了",
+      "onboard_time": 1752161604,
+      "rank": 24,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 196407,
@@ -7987,14 +8011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 171603,
-      "num": 171603,
-      "word": "内娱神女降级史",
-      "onboard_time": 1752161124,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 171575,
       "num": 186028,
       "word": "书卷一梦全员都在觉醒",
@@ -8049,14 +8065,6 @@
       "onboard_time": 1751963902,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 170892,
-      "num": 170892,
-      "word": "如果允许退货退款的买家发买家秀",
-      "onboard_time": 1752160284,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 170848,
@@ -12251,6 +12259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122734,
+      "num": 334093,
+      "word": "术后脑死亡男童家属曾多次要求转院",
+      "onboard_time": 1752159745,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122712,
       "num": 122712,
       "word": "证券板块集体拉升",
@@ -12777,6 +12793,14 @@
       "onboard_time": 1751948903,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 117864,
+      "num": 338928,
+      "word": "蔚来乐道L90预售价27.99万起",
+      "onboard_time": 1752160824,
+      "rank": 13,
+      "category": "汽车"
     },
     {
       "raw_hot": 117857,
@@ -14155,6 +14179,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 104345,
+      "num": 104345,
+      "word": "姜文电影你行你上提档",
+      "onboard_time": 1752161604,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 104329,
       "num": 104329,
       "word": "欧委会主席要求中国限制与俄合作",
@@ -14483,6 +14515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 100797,
+      "num": 100797,
+      "word": "多方回应医院被指暴力接生",
+      "onboard_time": 1752162204,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100785,
       "num": 100785,
       "word": "人活着就是为了玩",
@@ -14593,14 +14633,6 @@
       "onboard_time": 1751869105,
       "rank": 44,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 99619,
-      "num": 338928,
-      "word": "蔚来乐道L90预售价27.99万起",
-      "onboard_time": 1752160824,
-      "rank": 13,
-      "category": "汽车"
     },
     {
       "raw_hot": 99522,
@@ -15160,6 +15192,14 @@
       "word": "甘肃幼儿园血铅异常幼儿家长发声",
       "onboard_time": 1751755576,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88204,
+      "num": 310464,
+      "word": "快递包裹被写断子绝孙",
+      "onboard_time": 1752160944,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -15728,14 +15768,6 @@
       "word": "女子服装店偷裤子被试衣镜反光现形",
       "onboard_time": 1751911096,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 74365,
-      "num": 334093,
-      "word": "术后脑死亡男童家属曾多次要求转院",
-      "onboard_time": 1752159745,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -16555,14 +16587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 53653,
-      "num": 310464,
-      "word": "快递包裹被写断子绝孙",
-      "onboard_time": 1752160944,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 53616,
       "num": 208075,
       "word": "原来酷炫的机甲要这么做",
@@ -16649,6 +16673,14 @@
       "onboard_time": 1752062783,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 50203,
+      "num": 269540,
+      "word": "女子拒绝3倍工作量被辞获赔12万",
+      "onboard_time": 1752161544,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49795,
@@ -16979,6 +17011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40877,
+      "num": 777391,
+      "word": "五个新说透102项重大工程看点",
+      "onboard_time": 1752158005,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 40641,
       "num": 213964,
       "word": "表情包扑克牌被曝内容粗俗",
@@ -17043,6 +17083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40240,
+      "num": 157038,
+      "word": "海洋公园月薪过万招虎鲸搓澡师",
+      "onboard_time": 1752160944,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40177,
       "num": 74779,
       "word": "霍肯伯格生涯首次领奖台",
@@ -17099,14 +17147,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 39447,
-      "num": 777391,
-      "word": "五个新说透102项重大工程看点",
-      "onboard_time": 1752158005,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 38930,
       "num": 103843,
       "word": "厦门台风前出现魔幻朝霞",
@@ -17137,6 +17177,14 @@
       "onboard_time": 1751898625,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38005,
+      "num": 123824,
+      "word": "男子冒名顶替亲戚当教师约20年",
+      "onboard_time": 1752162143,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37908,
@@ -17339,14 +17387,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 32418,
-      "num": 157038,
-      "word": "海洋公园月薪过万招虎鲸搓澡师",
-      "onboard_time": 1752160944,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 32391,
       "num": 73051,
       "word": "山东一高校因高温暂停期末考试",
@@ -17496,6 +17536,14 @@
       "word": "摸了无期迷途骑士组",
       "onboard_time": 1752056783,
       "rank": 38,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 28370,
+      "num": 111799,
+      "word": "chiikawa作者贺图",
+      "onboard_time": 1752161544,
+      "rank": 39,
       "category": "动漫"
     },
     {
