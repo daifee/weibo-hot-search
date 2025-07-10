@@ -1,6 +1,6 @@
 {
   "startTime": 1752078814060,
-  "endTime": 1752143398365,
+  "endTime": 1752144443005,
   "band_list": [
     {
       "raw_hot": 1916286,
@@ -73,6 +73,14 @@
       "onboard_time": 1752118462,
       "rank": 24,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1199128,
+      "num": 421809,
+      "word": "101202303404",
+      "onboard_time": 1752140781,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 1078195,
@@ -275,6 +283,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 591559,
+      "num": 406936,
+      "word": "在闲鱼倒卖乌克兰装备",
+      "onboard_time": 1752142102,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 588973,
       "num": 365349,
       "word": "蔡琳回应接受前夫高梓淇再婚",
@@ -371,6 +387,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 458248,
+      "num": 458248,
+      "word": "李一桐本人来了都得愣两秒",
+      "onboard_time": 1752138263,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 452455,
       "num": 405120,
       "word": "医院回应韦东奕看牙",
@@ -443,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 406924,
+      "num": 406924,
+      "word": "朱微之葛洧吟要结婚了",
+      "onboard_time": 1752142221,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 401710,
       "num": 401710,
       "word": "Angelababy带小海绵参加巴黎时装周",
@@ -457,22 +489,6 @@
       "onboard_time": 1752130282,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 394781,
-      "num": 394781,
-      "word": "李一桐本人来了都得愣两秒",
-      "onboard_time": 1752138263,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 389254,
-      "num": 389254,
-      "word": "在闲鱼倒卖乌克兰装备",
-      "onboard_time": 1752142102,
-      "rank": 16,
-      "category": "幽默"
     },
     {
       "raw_hot": 388469,
@@ -521,14 +537,6 @@
       "onboard_time": 1752135444,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 362979,
-      "num": 362979,
-      "word": "101202303404",
-      "onboard_time": 1752140781,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 361688,
@@ -651,6 +659,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 308902,
+      "num": 451910,
+      "word": "特朗普任命真人秀演员为NASA临时局长",
+      "onboard_time": 1752140542,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 305645,
       "num": 305645,
       "word": "金希澈谈未婚原因",
@@ -673,14 +689,6 @@
       "onboard_time": 1752073284,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 296300,
-      "num": 296300,
-      "word": "朱微之葛洧吟要结婚了",
-      "onboard_time": 1752142221,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 295698,
@@ -811,14 +819,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 244348,
-      "num": 435853,
-      "word": "特朗普任命真人秀演员为NASA临时局长",
-      "onboard_time": 1752140542,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 238908,
       "num": 238908,
       "word": "谢娜是怎么同意李维嘉坐在观察室的",
@@ -905,6 +905,14 @@
       "onboard_time": 1752129923,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225520,
+      "num": 433990,
+      "word": "男子6万月租住进甲醛房",
+      "onboard_time": 1752139881,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 225453,
@@ -1051,6 +1059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198668,
+      "num": 198668,
+      "word": "杨少华长子谈离世经过",
+      "onboard_time": 1752143423,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196628,
       "num": 196628,
       "word": "刘柏辛首部电视剧",
@@ -1091,6 +1107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192188,
+      "num": 192188,
+      "word": "新疆旅游偶遇张雨绮尼格买提",
+      "onboard_time": 1752143542,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191706,
       "num": 191706,
       "word": "她只是年纪小其实什么都懂",
@@ -1107,20 +1131,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 190214,
+      "num": 190214,
+      "word": "李现夸杨紫一夸就是14年",
+      "onboard_time": 1752144142,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189314,
       "num": 189314,
       "word": "杨梅荔枝蛋糕",
       "onboard_time": 1752137482,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 189173,
-      "num": 433990,
-      "word": "男子6万月租住进甲醛房",
-      "onboard_time": 1752139881,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 188138,
@@ -1403,12 +1427,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157823,
+      "num": 183785,
+      "word": "李连杰说娱乐圈谁红谁坐C位",
+      "onboard_time": 1752143061,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156968,
       "num": 156968,
       "word": "檀健次为狗狗庆生",
       "onboard_time": 1752125722,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156947,
+      "num": 156947,
+      "word": "小米汽车交付量超30万台",
+      "onboard_time": 1752143182,
+      "rank": 32,
+      "category": "汽车"
     },
     {
       "raw_hot": 156678,
@@ -1425,14 +1465,6 @@
       "onboard_time": 1752132143,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 156291,
-      "num": 156291,
-      "word": "小米汽车交付量超30万台",
-      "onboard_time": 1752143182,
-      "rank": 32,
-      "category": "汽车"
     },
     {
       "raw_hot": 155697,
@@ -1523,6 +1555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149609,
+      "num": 149609,
+      "word": "这鬼闹得刚刚好",
+      "onboard_time": 1752144084,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 149265,
       "num": 149265,
       "word": "恋与制作人",
@@ -1571,20 +1611,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 147847,
-      "num": 183785,
-      "word": "李连杰说娱乐圈谁红谁坐C位",
-      "onboard_time": 1752143061,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 146807,
       "num": 146807,
       "word": "冰袋能重复使用吗",
       "onboard_time": 1752124346,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 146198,
+      "num": 146198,
+      "word": "新房出租1年被糟蹋成破烂",
+      "onboard_time": 1752144203,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145494,
@@ -1625,6 +1665,14 @@
       "onboard_time": 1752072744,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143911,
+      "num": 143911,
+      "word": "徐冬冬好真实的素颜",
+      "onboard_time": 1752143962,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 143857,
@@ -1705,6 +1753,14 @@
       "onboard_time": 1752128122,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 136124,
+      "num": 323057,
+      "word": "男子捞手机索酬未果扔回河被行拘",
+      "onboard_time": 1752142881,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135540,
@@ -1811,6 +1867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129465,
+      "num": 129465,
+      "word": "结婚下一步一定就是催生",
+      "onboard_time": 1752142762,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 129355,
       "num": 129355,
       "word": "北京城区降雨已达暴雨量级",
@@ -1891,6 +1955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124391,
+      "num": 124391,
+      "word": "柯基混血",
+      "onboard_time": 1752141082,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 123948,
       "num": 123948,
       "word": "文泰一被当庭收押",
@@ -1907,6 +1979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123382,
+      "num": 123382,
+      "word": "谁家坏人配这么古偶的死法",
+      "onboard_time": 1752144263,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123016,
       "num": 131759,
       "word": "郭德纲悼念杨少华",
@@ -1921,14 +2001,6 @@
       "onboard_time": 1752125242,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 122655,
-      "num": 122655,
-      "word": "结婚下一步一定就是催生",
-      "onboard_time": 1752142762,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 122176,
@@ -1995,14 +2067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 117243,
-      "num": 117243,
-      "word": "柯基混血",
-      "onboard_time": 1752141082,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 116941,
       "num": 116941,
       "word": "700GB的月亮照片",
@@ -2012,7 +2076,7 @@
     },
     {
       "raw_hot": 115390,
-      "num": 115390,
+      "num": 435572,
       "word": "时速600公里贴地飞行列车来了",
       "onboard_time": 1752142703,
       "rank": 45,
@@ -2097,6 +2161,14 @@
       "onboard_time": 1752138263,
       "rank": 20,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 110680,
+      "num": 380906,
+      "word": "理发店给男子灌肠涉嫌犯罪",
+      "onboard_time": 1752143484,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110634,
@@ -2273,6 +2345,14 @@
       "onboard_time": 1752101357,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94285,
+      "num": 226893,
+      "word": "你过不了第二关的小游戏偷偷赚上亿",
+      "onboard_time": 1752144084,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93936,
@@ -2520,14 +2600,6 @@
       "word": "男子拍到白头叶猴50米峭壁10秒速降",
       "onboard_time": 1752116421,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 67407,
-      "num": 323057,
-      "word": "男子捞手机索酬未果扔回河被行拘",
-      "onboard_time": 1752142881,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2860,6 +2932,9 @@
     },
     {
       "word": "#勇担民族复兴的时代大任#"
+    },
+    {
+      "word": "#多样文明是世界的本色#"
     }
   ]
 }

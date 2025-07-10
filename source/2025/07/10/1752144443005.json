@@ -1,0 +1,410 @@
+{
+  "runTime": 1752144443005,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1259823,
+        "num": 1259823,
+        "word": "女子称因狐臭遭同事投诉被公司辞退",
+        "onboard_time": 1752137482,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 803030,
+        "num": 803030,
+        "word": "网传虞书欣梓渝将合作永白日海",
+        "onboard_time": 1752141143,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78962,
+        "num": 770498,
+        "word": "2500岁的尼山有多会唠",
+        "onboard_time": 1752140181,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 767606,
+        "num": 767606,
+        "word": "退休人员基本养老金上调2%",
+        "onboard_time": 1752136103,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 708219,
+        "num": 708219,
+        "word": "美团免单",
+        "onboard_time": 1752124101,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 621530,
+        "num": 621530,
+        "word": "网红律师西绿已被刑拘",
+        "onboard_time": 1752141261,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 574113,
+        "num": 574113,
+        "word": "冻荔枝",
+        "onboard_time": 1752137663,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 458248,
+        "num": 458248,
+        "word": "李一桐本人来了都得愣两秒",
+        "onboard_time": 1752138263,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308902,
+        "num": 451910,
+        "word": "特朗普任命真人秀演员为NASA临时局长",
+        "onboard_time": 1752140542,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 90893,
+        "num": 435572,
+        "word": "时速600公里贴地飞行列车来了",
+        "onboard_time": 1752142703,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1199128,
+        "num": 421809,
+        "word": "101202303404",
+        "onboard_time": 1752140781,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 591559,
+        "num": 406936,
+        "word": "在闲鱼倒卖乌克兰装备",
+        "onboard_time": 1752142102,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 406924,
+        "num": 406924,
+        "word": "朱微之葛洧吟要结婚了",
+        "onboard_time": 1752142221,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403492,
+        "num": 403492,
+        "word": "王一博回国第一天就开会",
+        "onboard_time": 1752138382,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110680,
+        "num": 380906,
+        "word": "理发店给男子灌肠涉嫌犯罪",
+        "onboard_time": 1752143484,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370660,
+        "num": 370660,
+        "word": "借款20万还款2800万仍欠470万",
+        "onboard_time": 1752126802,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 343441,
+        "num": 343441,
+        "word": "关晓彤晒黑了",
+        "onboard_time": 1752140001,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336378,
+        "num": 336378,
+        "word": "杨天真 又瘦又美又有钱的自信",
+        "onboard_time": 1752136703,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312467,
+        "num": 312467,
+        "word": "于龙向杨咩咩求婚",
+        "onboard_time": 1752138203,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277105,
+        "num": 277105,
+        "word": "李泳知买到仿冒Labubu",
+        "onboard_time": 1752137423,
+        "rank": 19,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 251899,
+        "num": 251899,
+        "word": "新疆偶遇森林北",
+        "onboard_time": 1752141322,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94285,
+        "num": 226893,
+        "word": "你过不了第二关的小游戏偷偷赚上亿",
+        "onboard_time": 1752144084,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225520,
+        "num": 225520,
+        "word": "男子6万月租住进甲醛房",
+        "onboard_time": 1752139881,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214144,
+        "num": 214144,
+        "word": "截瘫女生否认与多个异性维持暧昧互动",
+        "onboard_time": 1752129801,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205561,
+        "num": 205561,
+        "word": "暴雨中两人合力救起倒地路人",
+        "onboard_time": 1752142283,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198668,
+        "num": 198668,
+        "word": "杨少华长子谈离世经过",
+        "onboard_time": 1752143423,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192188,
+        "num": 192188,
+        "word": "新疆旅游偶遇张雨绮尼格买提",
+        "onboard_time": 1752143542,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190214,
+        "num": 190214,
+        "word": "李现夸杨紫一夸就是14年",
+        "onboard_time": 1752144142,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159009,
+        "num": 159009,
+        "word": "养老金调整重点向中低收入群体倾斜",
+        "onboard_time": 1752136942,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157823,
+        "num": 157823,
+        "word": "李连杰说娱乐圈谁红谁坐C位",
+        "onboard_time": 1752143061,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156947,
+        "num": 156947,
+        "word": "小米汽车交付量超30万台",
+        "onboard_time": 1752143182,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 155577,
+        "num": 155577,
+        "word": "雨太大了 撑伞也没有用",
+        "onboard_time": 1752136763,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149609,
+        "num": 149609,
+        "word": "这鬼闹得刚刚好",
+        "onboard_time": 1752144084,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146198,
+        "num": 146198,
+        "word": "新房出租1年被糟蹋成破烂",
+        "onboard_time": 1752144203,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143911,
+        "num": 143911,
+        "word": "徐冬冬好真实的素颜",
+        "onboard_time": 1752143962,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139262,
+        "num": 139262,
+        "word": "女子称丈夫因健身发出声响被门店拉黑",
+        "onboard_time": 1752134241,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136124,
+        "num": 136124,
+        "word": "男子捞手机索酬未果扔回河被行拘",
+        "onboard_time": 1752142881,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132786,
+        "num": 132786,
+        "word": "杨少华参加剪彩餐馆停业一个月",
+        "onboard_time": 1752134961,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131979,
+        "num": 131979,
+        "word": "一见钟情被李兰迪敖瑞鹏演出来了",
+        "onboard_time": 1752142283,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68605,
+        "num": 131402,
+        "word": "外交部回应特朗普加征50%铜关税",
+        "onboard_time": 1752138263,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 131071,
+        "num": 131071,
+        "word": "杨梅荔枝蛋糕",
+        "onboard_time": 1752137482,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 130979,
+        "num": 130979,
+        "word": "马思纯瘦回黎吧啦",
+        "onboard_time": 1752117022,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129465,
+        "num": 129465,
+        "word": "结婚下一步一定就是催生",
+        "onboard_time": 1752142762,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127907,
+        "num": 127907,
+        "word": "中国球迷遭日本球迷袭击致重伤",
+        "onboard_time": 1752133343,
+        "rank": 43,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 124391,
+        "num": 124391,
+        "word": "柯基混血",
+        "onboard_time": 1752141082,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124345,
+        "num": 124345,
+        "word": "银河左岸 梓渝",
+        "onboard_time": 1752132143,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123382,
+        "num": 123382,
+        "word": "谁家坏人配这么古偶的死法",
+        "onboard_time": 1752144263,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114218,
+        "num": 114218,
+        "word": "医院回应韦东奕看牙",
+        "onboard_time": 1752134122,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112154,
+        "num": 112154,
+        "word": "英国教授称儒家礼可以让世界讲和",
+        "onboard_time": 1752133162,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111466,
+        "num": 111466,
+        "word": "小猫舔毛的时候伸什么都会帮你舔",
+        "onboard_time": 1752139101,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#多样文明是世界的本色#"
+    }
+  }
+}
