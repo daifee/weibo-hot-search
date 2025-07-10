@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752114599893,
+  "endTime": 1752118878489,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -691,6 +691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1477331,
+      "num": 540005,
+      "word": "向佐金属抹胸",
+      "onboard_time": 1752116782,
+      "rank": 3,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 1469462,
       "num": 930786,
       "word": "男童躺街上被碾压身亡司机发声",
@@ -857,6 +865,14 @@
       "onboard_time": 1751895143,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1340881,
+      "num": 539820,
+      "word": "马思纯瘦回黎吧啦",
+      "onboard_time": 1752117022,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1330068,
@@ -3635,6 +3651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 610095,
+      "num": 417345,
+      "word": "以法之名删博",
+      "onboard_time": 1752117502,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 609203,
       "num": 254649,
       "word": "秦昊又胖回去了",
@@ -4251,6 +4275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 532784,
+      "num": 279076,
+      "word": "爷爷高温天卖荔枝中暑呕吐孙子大哭",
+      "onboard_time": 1752114261,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 532749,
       "num": 696813,
       "word": "网友住酒店光脚洗澡感染HPV",
@@ -4769,6 +4801,14 @@
       "onboard_time": 1751609063,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 467527,
+      "num": 388782,
+      "word": "人民日报关注国产剧火到海外",
+      "onboard_time": 1752113482,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 466559,
@@ -5811,14 +5851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 388782,
-      "num": 388782,
-      "word": "人民日报关注国产剧火到海外",
-      "onboard_time": 1752113482,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 388000,
       "num": 388000,
       "word": "李佳琦开始学科目一",
@@ -5935,14 +5967,6 @@
       "num": 316099,
       "word": "28岁女子做取环手术致十级伤残",
       "onboard_time": 1751504063,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 377351,
-      "num": 248196,
-      "word": "爷爷高温天卖荔枝中暑呕吐孙子大哭",
-      "onboard_time": 1752114261,
       "rank": 20,
       "category": "民生新闻"
     },
@@ -6392,6 +6416,14 @@
       "word": "锦绣芳华评级",
       "onboard_time": 1751720182,
       "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 354886,
+      "num": 299872,
+      "word": "七月的一天",
+      "onboard_time": 1752114741,
+      "rank": 13,
       "category": "剧集"
     },
     {
@@ -6987,6 +7019,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 326188,
+      "num": 286189,
+      "word": "找不到暑假工的天塌了",
+      "onboard_time": 1752112761,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 325983,
       "num": 325983,
       "word": "美解除对华芯片设计软件出口管制",
@@ -7209,6 +7249,14 @@
       "onboard_time": 1751641107,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 317833,
+      "num": 317833,
+      "word": "特朗普给14国发送关税通牒",
+      "onboard_time": 1752114201,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 317374,
@@ -7961,6 +8009,14 @@
       "onboard_time": 1751376383,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 286176,
+      "num": 286176,
+      "word": "朝雪录 敖瑞鹏",
+      "onboard_time": 1752117321,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 285607,
@@ -8939,6 +8995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 254319,
+      "num": 254319,
+      "word": "00后结婚主打一个轻备婚",
+      "onboard_time": 1752118164,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 254274,
       "num": 169273,
       "word": "山东舰拍这么大以后怎么忽悠别人",
@@ -9161,14 +9225,6 @@
       "onboard_time": 1751513423,
       "rank": 24,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 247171,
-      "num": 247171,
-      "word": "找不到暑假工的天塌了",
-      "onboard_time": 1752112761,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 246544,
@@ -10915,6 +10971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210016,
+      "num": 284504,
+      "word": "第一集的回旋镖正中洪亮的眉心",
+      "onboard_time": 1752118222,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209964,
       "num": 209964,
       "word": "老祖宗有自己的labubu",
@@ -11073,6 +11137,14 @@
       "onboard_time": 1752053722,
       "rank": 24,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 207315,
+      "num": 207315,
+      "word": "丁禹兮cos孙权",
+      "onboard_time": 1752118462,
+      "rank": 26,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 207245,
@@ -14451,6 +14523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172418,
+      "num": 172418,
+      "word": "特朗普再宣称对8国加征关税",
+      "onboard_time": 1752115642,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 172365,
       "num": 172365,
       "word": "建议一个月给自己过两天节",
@@ -14809,6 +14889,14 @@
       "onboard_time": 1751973623,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168412,
+      "num": 168412,
+      "word": "考四级的我输给了骑手",
+      "onboard_time": 1752117801,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168334,
@@ -15585,6 +15673,14 @@
       "onboard_time": 1751726364,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 161387,
+      "num": 161387,
+      "word": "富人区学校毕业十五年后",
+      "onboard_time": 1752118222,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 161376,
@@ -16395,6 +16491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154507,
+      "num": 222701,
+      "word": "警方通报男子理发店充430万灌肠",
+      "onboard_time": 1752118462,
+      "rank": 24,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 154494,
       "num": 154494,
       "word": "友情脑被柯南m28硬控了",
@@ -16633,6 +16737,14 @@
       "onboard_time": 1751850201,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152979,
+      "num": 152979,
+      "word": "公安联合调查男子称充430万遭欺诈",
+      "onboard_time": 1752116482,
+      "rank": 33,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 152947,
@@ -17083,6 +17195,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 149916,
+      "num": 149916,
+      "word": "讨厌追星催氪",
+      "onboard_time": 1752118582,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149872,
       "num": 149872,
       "word": "奶茶 咖啡因",
@@ -17217,6 +17337,14 @@
       "onboard_time": 1751793202,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148663,
+      "num": 148663,
+      "word": "丝芭超1.2亿股权被冻结",
+      "onboard_time": 1752116541,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 148650,
@@ -17409,6 +17537,14 @@
       "onboard_time": 1751719282,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 147361,
+      "num": 284369,
+      "word": "郑州打人事件打人者系网络相约作案",
+      "onboard_time": 1752117741,
+      "rank": 19,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 147298,
@@ -18843,6 +18979,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 138434,
+      "num": 138434,
+      "word": "生长痛",
+      "onboard_time": 1752118102,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 138328,
       "num": 356490,
       "word": "与进口等效的国产九价定价仅499",
@@ -19009,6 +19153,14 @@
       "onboard_time": 1751724866,
       "rank": 45,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 137056,
+      "num": 137056,
+      "word": "张译演技",
+      "onboard_time": 1752118703,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 137022,
@@ -20403,6 +20555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129355,
+      "num": 129355,
+      "word": "北京城区降雨已达暴雨量级",
+      "onboard_time": 1752115881,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129275,
       "num": 129275,
       "word": "曾为守护家国浴血的身影从未被遗忘",
@@ -20465,14 +20625,6 @@
       "onboard_time": 1752049041,
       "rank": 37,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 128998,
-      "num": 128998,
-      "word": "特朗普给14国发送关税通牒",
-      "onboard_time": 1752114201,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 128989,
@@ -21499,6 +21651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123235,
+      "num": 123235,
+      "word": "离职原因 直属领导",
+      "onboard_time": 1752118823,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 123169,
       "num": 123169,
       "word": "宣璐重回现代剧赛道",
@@ -21697,6 +21857,14 @@
       "onboard_time": 1751692881,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122150,
+      "num": 122150,
+      "word": "景区NPC坐着看书月薪过万包吃包住",
+      "onboard_time": 1752118823,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122139,
@@ -21929,6 +22097,14 @@
       "onboard_time": 1751341521,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 121067,
+      "num": 121067,
+      "word": "多地明确女职工可休痛经假",
+      "onboard_time": 1752115223,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120989,
@@ -26067,6 +26243,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 96900,
+      "num": 284373,
+      "word": "合资纯电销冠N7首推OTA",
+      "onboard_time": 1752116601,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 96844,
       "num": 96844,
       "word": "不是所有情侣关系都会步入婚姻",
@@ -27457,6 +27641,14 @@
       "onboard_time": 1751928977,
       "rank": 38,
       "category": "网红"
+    },
+    {
+      "raw_hot": 81427,
+      "num": 294981,
+      "word": "尹锡悦或牢底坐穿",
+      "onboard_time": 1752118341,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 81415,
