@@ -1,6 +1,6 @@
 {
   "startTime": 1752078814060,
-  "endTime": 1752118878489,
+  "endTime": 1752119830345,
   "band_list": [
     {
       "raw_hot": 1477331,
@@ -11,7 +11,7 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 1340881,
+      "raw_hot": 1347211,
       "num": 539820,
       "word": "马思纯瘦回黎吧啦",
       "onboard_time": 1752117022,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 865291,
-      "num": 371859,
+      "num": 506588,
       "word": "人和偶像一旦有了私交",
       "onboard_time": 1752109822,
       "rank": 10,
@@ -83,20 +83,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 658707,
+      "num": 513724,
+      "word": "以法之名删博",
+      "onboard_time": 1752117502,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 641845,
       "num": 367846,
       "word": "包文婧产后情绪失控",
       "onboard_time": 1752104960,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 610095,
-      "num": 417345,
-      "word": "以法之名删博",
-      "onboard_time": 1752117502,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 588973,
@@ -147,12 +147,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 467527,
-      "num": 388782,
+      "raw_hot": 511088,
+      "num": 511088,
       "word": "人民日报关注国产剧火到海外",
       "onboard_time": 1752113482,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 475530,
+      "num": 475530,
+      "word": "丁禹兮cos孙权",
+      "onboard_time": 1752118462,
+      "rank": 26,
+      "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 424669,
+      "num": 518976,
+      "word": "特朗普给14国发送关税通牒",
+      "onboard_time": 1752114201,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 412914,
@@ -259,14 +275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 317833,
-      "num": 317833,
-      "word": "特朗普给14国发送关税通牒",
-      "onboard_time": 1752114201,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 305645,
       "num": 305645,
       "word": "金希澈谈未婚原因",
@@ -289,6 +297,14 @@
       "onboard_time": 1752073284,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 293572,
+      "num": 294981,
+      "word": "尹锡悦或牢底坐穿",
+      "onboard_time": 1752118341,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 286176,
@@ -315,6 +331,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 269767,
+      "num": 269767,
+      "word": "00后结婚主打一个轻备婚",
+      "onboard_time": 1752118164,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 266400,
+      "num": 507383,
+      "word": "警方通报男子理发店充430万灌肠",
+      "onboard_time": 1752118462,
+      "rank": 24,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 265689,
       "num": 265689,
       "word": "李一桐内娱第一个卡帧演员",
@@ -328,14 +360,6 @@
       "word": "醉汉将路过8岁孩子砸得头破血流",
       "onboard_time": 1752107002,
       "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 254319,
-      "num": 254319,
-      "word": "00后结婚主打一个轻备婚",
-      "onboard_time": 1752118164,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -419,12 +443,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 207315,
-      "num": 207315,
-      "word": "丁禹兮cos孙权",
-      "onboard_time": 1752118462,
-      "rank": 26,
-      "category": "艺人,游戏"
+      "raw_hot": 207891,
+      "num": 207891,
+      "word": "沈月 七月的一天",
+      "onboard_time": 1752119542,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 203935,
+      "num": 284369,
+      "word": "郑州打人事件打人者系网络相约作案",
+      "onboard_time": 1752117741,
+      "rank": 19,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 202321,
@@ -451,12 +483,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 191231,
+      "num": 193688,
+      "word": "易烊千玺成都演唱会报批",
+      "onboard_time": 1752118942,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 188303,
+      "num": 188303,
+      "word": "离职原因 直属领导",
+      "onboard_time": 1752118823,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 187585,
       "num": 187585,
       "word": "媒体评尖子生高考575分被赶出家门",
       "onboard_time": 1752085336,
       "rank": 30,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 187427,
+      "num": 187427,
+      "word": "讨厌追星催氪",
+      "onboard_time": 1752118582,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 187023,
+      "num": 187023,
+      "word": "张译演技",
+      "onboard_time": 1752118703,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 185316,
@@ -491,6 +555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176192,
+      "num": 176192,
+      "word": "重庆狼队老板送了刺痛一个店铺",
+      "onboard_time": 1752119361,
+      "rank": 36,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 172418,
       "num": 172418,
       "word": "特朗普再宣称对8国加征关税",
@@ -499,8 +571,16 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 168412,
-      "num": 168412,
+      "raw_hot": 170493,
+      "num": 189390,
+      "word": "尹锡悦的牢房没空调也没床",
+      "onboard_time": 1752118882,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 169901,
+      "num": 169901,
       "word": "考四级的我输给了骑手",
       "onboard_time": 1752117801,
       "rank": 29,
@@ -513,6 +593,14 @@
       "onboard_time": 1752112342,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166048,
+      "num": 166048,
+      "word": "未定事件簿",
+      "onboard_time": 1752119783,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 162770,
@@ -539,12 +627,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 154507,
-      "num": 222701,
-      "word": "警方通报男子理发店充430万灌肠",
-      "onboard_time": 1752118462,
-      "rank": 24,
-      "category": "辟谣/通报"
+      "raw_hot": 156690,
+      "num": 156690,
+      "word": "生长痛",
+      "onboard_time": 1752118102,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 152979,
@@ -579,14 +667,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 149916,
-      "num": 149916,
-      "word": "讨厌追星催氪",
-      "onboard_time": 1752118582,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 149265,
       "num": 149265,
       "word": "恋与制作人",
@@ -603,12 +683,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 147361,
-      "num": 284369,
-      "word": "郑州打人事件打人者系网络相约作案",
-      "onboard_time": 1752117741,
-      "rank": 19,
-      "category": "辟谣/通报"
+      "raw_hot": 145494,
+      "num": 145494,
+      "word": "老师最不看好你你却偏偏最争气",
+      "onboard_time": 1752119664,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 145236,
+      "num": 145236,
+      "word": "景区NPC坐着看书月薪过万包吃包住",
+      "onboard_time": 1752118823,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144354,
@@ -643,12 +731,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 138434,
-      "num": 138434,
-      "word": "生长痛",
-      "onboard_time": 1752118102,
-      "rank": 39,
-      "category": "健康医疗"
+      "raw_hot": 139739,
+      "num": 139739,
+      "word": "总台精品短剧集奇迹杀青",
+      "onboard_time": 1752119483,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 138087,
@@ -657,14 +745,6 @@
       "onboard_time": 1752068244,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 137056,
-      "num": 137056,
-      "word": "张译演技",
-      "onboard_time": 1752118703,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 135314,
@@ -681,6 +761,14 @@
       "onboard_time": 1752061822,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 134348,
+      "num": 134348,
+      "word": "肖战回应出演古装剧的心得",
+      "onboard_time": 1752119783,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 134296,
@@ -723,28 +811,12 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 123235,
-      "num": 123235,
-      "word": "离职原因 直属领导",
-      "onboard_time": 1752118823,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 123016,
       "num": 131759,
       "word": "郭德纲悼念杨少华",
       "onboard_time": 1752103940,
       "rank": 19,
       "category": "民生新闻,艺人"
-    },
-    {
-      "raw_hot": 122150,
-      "num": 122150,
-      "word": "景区NPC坐着看书月薪过万包吃包住",
-      "onboard_time": 1752118823,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 121067,
@@ -769,6 +841,14 @@
       "onboard_time": 1752068664,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 115336,
+      "num": 284373,
+      "word": "合资纯电销冠N7首推OTA",
+      "onboard_time": 1752116601,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 114018,
@@ -817,6 +897,14 @@
       "onboard_time": 1752075444,
       "rank": 33,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 106669,
+      "num": 192407,
+      "word": "GAI山城棒棒军",
+      "onboard_time": 1752119601,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 106209,
@@ -889,14 +977,6 @@
       "onboard_time": 1752080179,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 96900,
-      "num": 284373,
-      "word": "合资纯电销冠N7首推OTA",
-      "onboard_time": 1752116601,
-      "rank": 18,
-      "category": "汽车"
     },
     {
       "raw_hot": 94699,
@@ -1025,14 +1105,6 @@
       "onboard_time": 1752076102,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 81427,
-      "num": 294981,
-      "word": "尹锡悦或牢底坐穿",
-      "onboard_time": 1752118341,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 79976,
@@ -1195,6 +1267,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 37467,
+      "num": 269788,
+      "word": "选择冷门专业的人后来过得怎么样",
+      "onboard_time": 1752119243,
+      "rank": 19,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 37199,
       "num": 52390,
       "word": "尹锡悦将被押往看守所",
@@ -1302,6 +1382,9 @@
   "hotgov_list": [
     {
       "word": "#习近平总书记赴山西考察纪实#"
+    },
+    {
+      "word": "#总书记勉励三晋大地#"
     }
   ]
 }

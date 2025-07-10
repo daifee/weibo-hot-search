@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1752118878489,
+  "endTime": 1752119830345,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -467,20 +467,20 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 1347211,
+      "num": 539820,
+      "word": "马思纯瘦回黎吧啦",
+      "onboard_time": 1752117022,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1342398,
       "num": 1342398,
       "word": "爱泼斯坦去世当晚牢房区域视频公开",
       "onboard_time": 1751895143,
       "rank": 29,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1340881,
-      "num": 539820,
-      "word": "马思纯瘦回黎吧啦",
-      "onboard_time": 1752117022,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 1325945,
@@ -988,7 +988,7 @@
     },
     {
       "raw_hot": 865291,
-      "num": 371859,
+      "num": 506588,
       "word": "人和偶像一旦有了私交",
       "onboard_time": 1752109822,
       "rank": 10,
@@ -1499,6 +1499,14 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 658707,
+      "num": 513724,
+      "word": "以法之名删博",
+      "onboard_time": 1752117502,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 657396,
       "num": 657396,
       "word": "警方通报42岁男子杭州南站坠楼",
@@ -1689,14 +1697,6 @@
       "onboard_time": 1751890522,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 610095,
-      "num": 417345,
-      "word": "以法之名删博",
-      "onboard_time": 1752117502,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 608668,
@@ -2083,6 +2083,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 511088,
+      "num": 511088,
+      "word": "人民日报关注国产剧火到海外",
+      "onboard_time": 1752113482,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 509514,
       "num": 509514,
       "word": "中国人均预期寿命79岁",
@@ -2211,12 +2219,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 467527,
-      "num": 388782,
-      "word": "人民日报关注国产剧火到海外",
-      "onboard_time": 1752113482,
-      "rank": 8,
-      "category": "剧集"
+      "raw_hot": 475530,
+      "num": 475530,
+      "word": "丁禹兮cos孙权",
+      "onboard_time": 1752118462,
+      "rank": 26,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 460487,
@@ -2441,6 +2449,14 @@
       "onboard_time": 1752047603,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 424669,
+      "num": 518976,
+      "word": "特朗普给14国发送关税通牒",
+      "onboard_time": 1752114201,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 424109,
@@ -3315,14 +3331,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 317833,
-      "num": 317833,
-      "word": "特朗普给14国发送关税通牒",
-      "onboard_time": 1752114201,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 317374,
       "num": 565006,
       "word": "袭榜歌手官宣",
@@ -3521,6 +3529,14 @@
       "onboard_time": 1752032123,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 293572,
+      "num": 294981,
+      "word": "尹锡悦或牢底坐穿",
+      "onboard_time": 1752118341,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 292252,
@@ -3819,6 +3835,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 269767,
+      "num": 269767,
+      "word": "00后结婚主打一个轻备婚",
+      "onboard_time": 1752118164,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 269567,
       "num": 236366,
       "word": "三伏天每天洗几次澡最好",
@@ -3873,6 +3897,14 @@
       "onboard_time": 1751795901,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 266400,
+      "num": 507383,
+      "word": "警方通报男子理发店充430万灌肠",
+      "onboard_time": 1752118462,
+      "rank": 24,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 266307,
@@ -4136,14 +4168,6 @@
       "word": "教育局回应学生未报清北老师解散群聊",
       "onboard_time": 1751891122,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 254319,
-      "num": 254319,
-      "word": "00后结婚主打一个轻备婚",
-      "onboard_time": 1752118164,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -5099,6 +5123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207891,
+      "num": 207891,
+      "word": "沈月 七月的一天",
+      "onboard_time": 1752119542,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207660,
       "num": 207660,
       "word": "南京是真的急了",
@@ -5113,14 +5145,6 @@
       "onboard_time": 1752053722,
       "rank": 24,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 207315,
-      "num": 207315,
-      "word": "丁禹兮cos孙权",
-      "onboard_time": 1752118462,
-      "rank": 26,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 207210,
@@ -5217,6 +5241,14 @@
       "onboard_time": 1751762239,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203935,
+      "num": 284369,
+      "word": "郑州打人事件打人者系网络相约作案",
+      "onboard_time": 1752117741,
+      "rank": 19,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 203795,
@@ -5827,6 +5859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 191231,
+      "num": 193688,
+      "word": "易烊千玺成都演唱会报批",
+      "onboard_time": 1752118942,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 191146,
       "num": 191146,
       "word": "余承东张建勇发布享界新标",
@@ -5971,6 +6011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 188303,
+      "num": 188303,
+      "word": "离职原因 直属领导",
+      "onboard_time": 1752118823,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 188280,
       "num": 189922,
       "word": "原神",
@@ -6027,6 +6075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 187427,
+      "num": 187427,
+      "word": "讨厌追星催氪",
+      "onboard_time": 1752118582,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187288,
       "num": 247033,
       "word": "断眉attention万人大合唱给我唱爽了",
@@ -6041,6 +6097,14 @@
       "onboard_time": 1751771962,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 187023,
+      "num": 187023,
+      "word": "张译演技",
+      "onboard_time": 1752118703,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 186635,
@@ -6467,6 +6531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176192,
+      "num": 176192,
+      "word": "重庆狼队老板送了刺痛一个店铺",
+      "onboard_time": 1752119361,
+      "rank": 36,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 176073,
       "num": 374715,
       "word": "厦门往返鼓浪屿轮渡在海上剧烈摇摆",
@@ -6819,6 +6891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170493,
+      "num": 189390,
+      "word": "尹锡悦的牢房没空调也没床",
+      "onboard_time": 1752118882,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 170264,
       "num": 170264,
       "word": "旅客绑藏168张死亡搁浅2光盘进境",
@@ -6841,6 +6921,14 @@
       "onboard_time": 1751970081,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169901,
+      "num": 169901,
+      "word": "考四级的我输给了骑手",
+      "onboard_time": 1752117801,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169559,
@@ -6897,14 +6985,6 @@
       "onboard_time": 1751973623,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 168412,
-      "num": 168412,
-      "word": "考四级的我输给了骑手",
-      "onboard_time": 1752117801,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 168334,
@@ -7531,6 +7611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156690,
+      "num": 156690,
+      "word": "生长痛",
+      "onboard_time": 1752118102,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 156621,
       "num": 156621,
       "word": "我的二搭cp开始放粮了",
@@ -7633,14 +7721,6 @@
       "onboard_time": 1751952562,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 154507,
-      "num": 222701,
-      "word": "警方通报男子理发店充430万灌肠",
-      "onboard_time": 1752118462,
-      "rank": 24,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 154494,
@@ -7979,14 +8059,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 149916,
-      "num": 149916,
-      "word": "讨厌追星催氪",
-      "onboard_time": 1752118582,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 149802,
       "num": 405836,
       "word": "AI冒充美国国务卿接触多国官员",
@@ -8145,14 +8217,6 @@
       "onboard_time": 1751949443,
       "rank": 39,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 147361,
-      "num": 284369,
-      "word": "郑州打人事件打人者系网络相约作案",
-      "onboard_time": 1752117741,
-      "rank": 19,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 147242,
@@ -8315,6 +8379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 145494,
+      "num": 145494,
+      "word": "老师最不看好你你却偏偏最争气",
+      "onboard_time": 1752119664,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 145460,
       "num": 145460,
       "word": "草莓牛奶特别甜",
@@ -8329,6 +8401,14 @@
       "onboard_time": 1751972242,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145236,
+      "num": 145236,
+      "word": "景区NPC坐着看书月薪过万包吃包住",
+      "onboard_time": 1752118823,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145234,
@@ -8771,6 +8851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139739,
+      "num": 139739,
+      "word": "总台精品短剧集奇迹杀青",
+      "onboard_time": 1752119483,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139731,
       "num": 688949,
       "word": "日本外务省是诋毁张纯如幕后推手",
@@ -8849,14 +8937,6 @@
       "onboard_time": 1751864485,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 138434,
-      "num": 138434,
-      "word": "生长痛",
-      "onboard_time": 1752118102,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 138328,
@@ -8953,14 +9033,6 @@
       "onboard_time": 1751722646,
       "rank": 22,
       "category": "海外新闻,动漫"
-    },
-    {
-      "raw_hot": 137056,
-      "num": 137056,
-      "word": "张译演技",
-      "onboard_time": 1752118703,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 137022,
@@ -9177,6 +9249,14 @@
       "onboard_time": 1752043642,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 134348,
+      "num": 134348,
+      "word": "肖战回应出演古装剧的心得",
+      "onboard_time": 1752119783,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 134334,
@@ -10211,14 +10291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123235,
-      "num": 123235,
-      "word": "离职原因 直属领导",
-      "onboard_time": 1752118823,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 123168,
       "num": 123168,
       "word": "一诺大帅你俩不像演的",
@@ -10305,14 +10377,6 @@
       "onboard_time": 1751830514,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 122150,
-      "num": 122150,
-      "word": "景区NPC坐着看书月薪过万包吃包住",
-      "onboard_time": 1752118823,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 122114,
@@ -10945,6 +11009,14 @@
       "onboard_time": 1751898565,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115336,
+      "num": 284373,
+      "word": "合资纯电销冠N7首推OTA",
+      "onboard_time": 1752116601,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 115332,
@@ -11713,6 +11785,14 @@
       "onboard_time": 1751782281,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 106669,
+      "num": 192407,
+      "word": "GAI山城棒棒军",
+      "onboard_time": 1752119601,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 106551,
@@ -12491,14 +12571,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 96900,
-      "num": 284373,
-      "word": "合资纯电销冠N7首推OTA",
-      "onboard_time": 1752116601,
-      "rank": 18,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 96804,
       "num": 96804,
       "word": "美国大满贯混双八强出炉",
@@ -13073,14 +13145,6 @@
       "onboard_time": 1751928977,
       "rank": 38,
       "category": "网红"
-    },
-    {
-      "raw_hot": 81427,
-      "num": 294981,
-      "word": "尹锡悦或牢底坐穿",
-      "onboard_time": 1752118341,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 81066,
@@ -14643,6 +14707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37467,
+      "num": 269788,
+      "word": "选择冷门专业的人后来过得怎么样",
+      "onboard_time": 1752119243,
+      "rank": 19,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 37199,
       "num": 52390,
       "word": "尹锡悦将被押往看守所",
@@ -15597,6 +15669,9 @@
     },
     {
       "word": "#习近平总书记赴山西考察纪实#"
+    },
+    {
+      "word": "#总书记勉励三晋大地#"
     }
   ]
 }

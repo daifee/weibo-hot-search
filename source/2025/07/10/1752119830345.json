@@ -1,0 +1,410 @@
+{
+  "runTime": 1752119830345,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 667891,
+        "num": 1106862,
+        "word": "有史以来最短一天",
+        "onboard_time": 1752063323,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 525277,
+        "num": 525277,
+        "word": "母象不舍抛下小象尸体拖拽三天",
+        "onboard_time": 1752110661,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 38858,
+        "num": 522953,
+        "word": "这些成就举世瞩目",
+        "onboard_time": 1752073165,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1347211,
+        "num": 520331,
+        "word": "马思纯瘦回黎吧啦",
+        "onboard_time": 1752117022,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424669,
+        "num": 518976,
+        "word": "特朗普给14国发送关税通牒",
+        "onboard_time": 1752114201,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 818744,
+        "num": 515171,
+        "word": "刘宇宁三天没工作就会开直播",
+        "onboard_time": 1752110842,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 658707,
+        "num": 513724,
+        "word": "以法之名删博",
+        "onboard_time": 1752117502,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 511088,
+        "num": 511088,
+        "word": "人民日报关注国产剧火到海外",
+        "onboard_time": 1752113482,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 474984,
+        "num": 508326,
+        "word": "小狗遭主人2次扔弃哀嚎仍被丢",
+        "onboard_time": 1752110301,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266400,
+        "num": 507383,
+        "word": "警方通报男子理发店充430万灌肠",
+        "onboard_time": 1752118462,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1426664,
+        "num": 507316,
+        "word": "向佐金属抹胸",
+        "onboard_time": 1752116782,
+        "rank": 10,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 506588,
+        "num": 506588,
+        "word": "人和偶像一旦有了私交",
+        "onboard_time": 1752109822,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 475530,
+        "num": 475530,
+        "word": "丁禹兮cos孙权",
+        "onboard_time": 1752118462,
+        "rank": 12,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 342649,
+        "num": 342649,
+        "word": "包文婧产后情绪失控",
+        "onboard_time": 1752104960,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293572,
+        "num": 293572,
+        "word": "尹锡悦或牢底坐穿",
+        "onboard_time": 1752118341,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 295635,
+        "num": 291031,
+        "word": "七月的一天",
+        "onboard_time": 1752114741,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272868,
+        "num": 272868,
+        "word": "找不到暑假工的天塌了",
+        "onboard_time": 1752112761,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 270711,
+        "num": 270711,
+        "word": "截瘫女生说车祸时坐姿正确",
+        "onboard_time": 1752106582,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115336,
+        "num": 269983,
+        "word": "合资纯电销冠N7首推OTA",
+        "onboard_time": 1752116601,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 37467,
+        "num": 269788,
+        "word": "选择冷门专业的人后来过得怎么样",
+        "onboard_time": 1752119243,
+        "rank": 19,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 462488,
+        "num": 269778,
+        "word": "爷爷高温天卖荔枝中暑呕吐孙子大哭",
+        "onboard_time": 1752114261,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269767,
+        "num": 269767,
+        "word": "00后结婚主打一个轻备婚",
+        "onboard_time": 1752118164,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251978,
+        "num": 251978,
+        "word": "朝雪录 敖瑞鹏",
+        "onboard_time": 1752117321,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211215,
+        "num": 211215,
+        "word": "蔡琳回应接受前夫高梓淇再婚",
+        "onboard_time": 1752104840,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 207891,
+        "num": 207891,
+        "word": "沈月 七月的一天",
+        "onboard_time": 1752119542,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203935,
+        "num": 203935,
+        "word": "郑州打人事件打人者系网络相约作案",
+        "onboard_time": 1752117741,
+        "rank": 25,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 191231,
+        "num": 193688,
+        "word": "易烊千玺成都演唱会报批",
+        "onboard_time": 1752118942,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 106669,
+        "num": 192407,
+        "word": "GAI山城棒棒军",
+        "onboard_time": 1752119601,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191587,
+        "num": 191587,
+        "word": "男子理发店充430万做灌肠后遭退费难",
+        "onboard_time": 1752068424,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170493,
+        "num": 189390,
+        "word": "尹锡悦的牢房没空调也没床",
+        "onboard_time": 1752118882,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 188303,
+        "num": 188303,
+        "word": "离职原因 直属领导",
+        "onboard_time": 1752118823,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187427,
+        "num": 187427,
+        "word": "讨厌追星催氪",
+        "onboard_time": 1752118582,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187023,
+        "num": 187023,
+        "word": "张译演技",
+        "onboard_time": 1752118703,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185893,
+        "num": 185893,
+        "word": "第一集的回旋镖正中洪亮的眉心",
+        "onboard_time": 1752118222,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181150,
+        "num": 181150,
+        "word": "Angelababy带小海绵参加巴黎时装周",
+        "onboard_time": 1752107544,
+        "rank": 34,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 177204,
+        "num": 177204,
+        "word": "醉汉将路过8岁孩子砸得头破血流",
+        "onboard_time": 1752107002,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176192,
+        "num": 176192,
+        "word": "重庆狼队老板送了刺痛一个店铺",
+        "onboard_time": 1752119361,
+        "rank": 36,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 169901,
+        "num": 169901,
+        "word": "考四级的我输给了骑手",
+        "onboard_time": 1752117801,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166048,
+        "num": 166048,
+        "word": "未定事件簿",
+        "onboard_time": 1752119783,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156690,
+        "num": 156690,
+        "word": "生长痛",
+        "onboard_time": 1752118102,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 146728,
+        "num": 146728,
+        "word": "杨少华午休时安详辞世",
+        "onboard_time": 1752074243,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145713,
+        "num": 145713,
+        "word": "男友驾车致女子截瘫当事人澄清",
+        "onboard_time": 1752112581,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145494,
+        "num": 145494,
+        "word": "老师最不看好你你却偏偏最争气",
+        "onboard_time": 1752119664,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145236,
+        "num": 145236,
+        "word": "景区NPC坐着看书月薪过万包吃包住",
+        "onboard_time": 1752118823,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140573,
+        "num": 140573,
+        "word": "以法之名 烂尾",
+        "onboard_time": 1752069865,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139739,
+        "num": 139739,
+        "word": "总台精品短剧集奇迹杀青",
+        "onboard_time": 1752119483,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137528,
+        "num": 137528,
+        "word": "富人区学校毕业十五年后",
+        "onboard_time": 1752118222,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135719,
+        "num": 135719,
+        "word": "特朗普再宣称对8国加征关税",
+        "onboard_time": 1752115642,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134348,
+        "num": 134348,
+        "word": "肖战回应出演古装剧的心得",
+        "onboard_time": 1752119783,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133233,
+        "num": 133233,
+        "word": "莫雷加德止步男单32强",
+        "onboard_time": 1752109522,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记勉励三晋大地#"
+    }
+  }
+}
