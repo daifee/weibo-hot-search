@@ -1,0 +1,410 @@
+{
+  "runTime": 1752165274435,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 843387,
+        "num": 878848,
+        "word": "梓渝取消hi6录制",
+        "onboard_time": 1752157284,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 630925,
+        "num": 630925,
+        "word": "七分裤怎么又火了",
+        "onboard_time": 1752161604,
+        "rank": 1,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 36827,
+        "num": 607554,
+        "word": "五个新说透102项重大工程看点",
+        "onboard_time": 1752158005,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 592570,
+        "num": 592570,
+        "word": "内娱神女降级史",
+        "onboard_time": 1752161124,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 478463,
+        "num": 478463,
+        "word": "女子常穿洞洞鞋致足底钙化行走困难",
+        "onboard_time": 1752152242,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328226,
+        "num": 328226,
+        "word": "不建议带着饥饿感入睡",
+        "onboard_time": 1752151703,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 462050,
+        "num": 323168,
+        "word": "钱宏明自杀",
+        "onboard_time": 1752155544,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 406755,
+        "num": 313128,
+        "word": "胡一天对接发文",
+        "onboard_time": 1752160344,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274061,
+        "num": 274061,
+        "word": "同居2年分手男方索要48.8万彩礼被拒",
+        "onboard_time": 1752155362,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71088,
+        "num": 272719,
+        "word": "国足回应带较多行李入关",
+        "onboard_time": 1752160464,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 817543,
+        "num": 270484,
+        "word": "田栩宁通告被取消了",
+        "onboard_time": 1752157826,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 707166,
+        "num": 266971,
+        "word": "闲鱼就是一个巨大的人间世",
+        "onboard_time": 1752148642,
+        "rank": 11,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 358598,
+        "num": 264732,
+        "word": "陈乔恩谈不生孩子原因",
+        "onboard_time": 1752154283,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312639,
+        "num": 262986,
+        "word": "蔡徐坤ins",
+        "onboard_time": 1752160344,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262150,
+        "num": 262150,
+        "word": "干部出轨他人妻子或被开除",
+        "onboard_time": 1752163282,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259265,
+        "num": 259265,
+        "word": "中国军方未使用激光瞄准德国飞机",
+        "onboard_time": 1752159745,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 231733,
+        "num": 231733,
+        "word": "梓渝微博粉丝破500万",
+        "onboard_time": 1752160525,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225245,
+        "num": 225245,
+        "word": "父亲酒后暴打几岁女儿致粉碎性骨折",
+        "onboard_time": 1752153984,
+        "rank": 17,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 36832,
+        "num": 196883,
+        "word": "谢霆锋妹妹举办迎婴派对",
+        "onboard_time": 1752156565,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194000,
+        "num": 194000,
+        "word": "101202303404",
+        "onboard_time": 1752140781,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159312,
+        "num": 159312,
+        "word": "女子拒绝3倍工作量被辞获赔12万",
+        "onboard_time": 1752161544,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148993,
+        "num": 148993,
+        "word": "如果允许退货退款的买家发买家秀",
+        "onboard_time": 1752160284,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81604,
+        "num": 147359,
+        "word": "蔚来乐道L90预售价27.99万起",
+        "onboard_time": 1752160824,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 146832,
+        "num": 146832,
+        "word": "兰州人才引进20岁女硕士",
+        "onboard_time": 1752152002,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139519,
+        "num": 139519,
+        "word": "国足出征东亚杯托运140件行李",
+        "onboard_time": 1752157643,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137441,
+        "num": 137441,
+        "word": "连续工作8小时后因休息3分钟遭开除",
+        "onboard_time": 1752162502,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137311,
+        "num": 137311,
+        "word": "王一博被外国友人排队合照秒配合",
+        "onboard_time": 1752163402,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121380,
+        "num": 124185,
+        "word": "宋佳王一博 体制内姐弟",
+        "onboard_time": 1752146963,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103132,
+        "num": 123759,
+        "word": "车铜优",
+        "onboard_time": 1752147203,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98013,
+        "num": 123702,
+        "word": "王俊凯代言英雄联盟",
+        "onboard_time": 1752152303,
+        "rank": 29,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 123674,
+        "num": 123674,
+        "word": "再亲密的情侣关系也必须回归法律责任",
+        "onboard_time": 1752154043,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113265,
+        "num": 113265,
+        "word": "3岁男童肥大扁桃体切除术后脑死亡",
+        "onboard_time": 1752145163,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104788,
+        "num": 104788,
+        "word": "深圳3小时闪电1206次画面似大片",
+        "onboard_time": 1752162863,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88567,
+        "num": 101226,
+        "word": "金旻奎抽烟",
+        "onboard_time": 1752146781,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15348,
+        "num": 100987,
+        "word": "网约车空调费之争该如何解",
+        "onboard_time": 1752165140,
+        "rank": 34,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 100907,
+        "num": 100907,
+        "word": "理发店给男子灌肠涉嫌犯罪",
+        "onboard_time": 1752143484,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93996,
+        "num": 93996,
+        "word": "无畏契约",
+        "onboard_time": 1752156503,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 87543,
+        "num": 87543,
+        "word": "李兰迪怎么什么都亲得下去啊",
+        "onboard_time": 1752144682,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86444,
+        "num": 86444,
+        "word": "甲亢哥谈最好的国家第一个提中国",
+        "onboard_time": 1752152603,
+        "rank": 38,
+        "category": "海外新闻,网红"
+      },
+      {
+        "raw_hot": 85523,
+        "num": 85523,
+        "word": "白鹿水灵灵地翻了",
+        "onboard_time": 1752148581,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84909,
+        "num": 84909,
+        "word": "快递包裹被写断子绝孙",
+        "onboard_time": 1752160944,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84587,
+        "num": 84587,
+        "word": "英雄联盟",
+        "onboard_time": 1752150443,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 82968,
+        "num": 82968,
+        "word": "EDG无畏契约",
+        "onboard_time": 1752158664,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 79155,
+        "num": 79155,
+        "word": "黄仁俊演唱会solo舞台",
+        "onboard_time": 1752164181,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 76087,
+        "num": 76087,
+        "word": "迅猛龙回应考研是炒作质疑",
+        "onboard_time": 1752148882,
+        "rank": 44,
+        "category": "网红,教育"
+      },
+      {
+        "raw_hot": 75240,
+        "num": 75240,
+        "word": "乐道l90价格",
+        "onboard_time": 1752159745,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 73623,
+        "num": 73623,
+        "word": "多年后马斯克仍然会想起2025年夏天",
+        "onboard_time": 1752157946,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 73542,
+        "num": 73542,
+        "word": "王以太邓紫棋新书读后感",
+        "onboard_time": 1752162502,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73078,
+        "num": 73078,
+        "word": "网友质疑医生暴力接生致婴儿残疾",
+        "onboard_time": 1752159686,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65809,
+        "num": 65809,
+        "word": "张婧仪26岁好多花的一天",
+        "onboard_time": 1752157765,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全球文明对话部长级会议致贺信#"
+    }
+  }
+}
