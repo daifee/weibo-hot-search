@@ -1,6 +1,6 @@
 {
   "startTime": 1752078814060,
-  "endTime": 1752146631991,
+  "endTime": 1752147588620,
   "band_list": [
     {
       "raw_hot": 2250216,
@@ -75,8 +75,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1260424,
-      "num": 1260424,
+      "raw_hot": 1329010,
+      "num": 1329010,
       "word": "理发店给男子灌肠涉嫌犯罪",
       "onboard_time": 1752143484,
       "rank": 14,
@@ -259,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 644284,
+      "num": 644284,
+      "word": "新房出租1年被糟蹋成破烂",
+      "onboard_time": 1752144203,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 641845,
       "num": 367846,
       "word": "包文婧产后情绪失控",
@@ -363,12 +371,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 544197,
-      "num": 544197,
-      "word": "新房出租1年被糟蹋成破烂",
-      "onboard_time": 1752144203,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 544673,
+      "num": 411879,
+      "word": "宋佳王一博 体制内姐弟",
+      "onboard_time": 1752146963,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 532784,
@@ -377,6 +385,14 @@
       "onboard_time": 1752114261,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 525618,
+      "num": 414747,
+      "word": "李兰迪怎么什么都亲得下去啊",
+      "onboard_time": 1752144682,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 511088,
@@ -467,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 417754,
+      "num": 417754,
+      "word": "3岁男童肥大扁桃体切除术后脑死亡",
+      "onboard_time": 1752145163,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 412914,
       "num": 412914,
       "word": "秦峰死了",
@@ -481,14 +505,6 @@
       "onboard_time": 1752138203,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 407384,
-      "num": 407384,
-      "word": "李兰迪怎么什么都亲得下去啊",
-      "onboard_time": 1752144682,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 406924,
@@ -675,14 +691,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 317295,
-      "num": 317295,
-      "word": "3岁男童肥大扁桃体切除术后脑死亡",
-      "onboard_time": 1752145163,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 314199,
       "num": 248296,
       "word": "原来读书真的会影响潜意识",
@@ -804,7 +812,7 @@
     },
     {
       "raw_hot": 267953,
-      "num": 398325,
+      "num": 418031,
       "word": "不是每个退休人员基本养老金都上调2%",
       "onboard_time": 1752144682,
       "rank": 9,
@@ -825,6 +833,14 @@
       "onboard_time": 1752107002,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 262244,
+      "num": 266945,
+      "word": "金旻奎抽烟",
+      "onboard_time": 1752146781,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 261589,
@@ -889,6 +905,14 @@
       "onboard_time": 1752123444,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 235621,
+      "num": 235621,
+      "word": "车铜优",
+      "onboard_time": 1752147203,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 231569,
@@ -979,6 +1003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220835,
+      "num": 220835,
+      "word": "怎么还真有明星坐货拉拉下班",
+      "onboard_time": 1752145822,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220384,
       "num": 220384,
       "word": "莫雷加德止步男单32强",
@@ -1049,14 +1081,6 @@
       "onboard_time": 1752118222,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 209492,
-      "num": 209492,
-      "word": "怎么还真有明星坐货拉拉下班",
-      "onboard_time": 1752145822,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 208950,
@@ -1691,6 +1715,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 148575,
+      "num": 148575,
+      "word": "清潭国际高中2",
+      "onboard_time": 1752147203,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148396,
       "num": 148396,
       "word": "恋与深空",
@@ -2011,12 +2043,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127657,
+      "num": 127657,
+      "word": "巨有效的15天体态急救法",
+      "onboard_time": 1752145463,
+      "rank": 39,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 127302,
       "num": 127302,
       "word": "GAI带着朝天门杀回来了",
       "onboard_time": 1752131302,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126893,
+      "num": 126893,
+      "word": "起猛了看见机器人给自己用充电宝",
+      "onboard_time": 1752147262,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125981,
@@ -2195,6 +2243,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 115182,
+      "num": 115182,
+      "word": "金晨黄景瑜公路文男女主婉拒了哈",
+      "onboard_time": 1752146781,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114611,
       "num": 118947,
       "word": "周奇在看小欢喜2原著",
@@ -2323,12 +2379,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 109013,
+      "num": 109013,
+      "word": "重庆一环卫工雷雨夜倒地身亡",
+      "onboard_time": 1752146361,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109008,
       "num": 109008,
       "word": "王鹤棣LV晚宴路透",
       "onboard_time": 1752075444,
       "rank": 33,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 108896,
+      "num": 264450,
+      "word": "为何上调2%的养老金比例",
+      "onboard_time": 1752146482,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106669,
@@ -2425,14 +2497,6 @@
       "onboard_time": 1752075083,
       "rank": 35,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 100428,
-      "num": 125928,
-      "word": "巨有效的15天体态急救法",
-      "onboard_time": 1752145463,
-      "rank": 39,
-      "category": "运动健身"
     },
     {
       "raw_hot": 98549,
@@ -2723,14 +2787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 69140,
-      "num": 173162,
-      "word": "为何上调2%的养老金比例",
-      "onboard_time": 1752146482,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 65029,
       "num": 123267,
       "word": "去找一个像太阳一样的搭档",
@@ -2811,6 +2867,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 53931,
+      "num": 120638,
+      "word": "夏日运动企划",
+      "onboard_time": 1752147562,
+      "rank": 39,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 53594,
       "num": 254405,
       "word": "福建男子盗窃被带至德州看守所后死亡",
@@ -2873,6 +2937,14 @@
       "onboard_time": 1752073165,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 40372,
+      "num": 113190,
+      "word": "主人比狗还护食",
+      "onboard_time": 1752146542,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 37467,
@@ -2947,12 +3019,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 30192,
-      "num": 113190,
-      "word": "主人比狗还护食",
-      "onboard_time": 1752146542,
-      "rank": 49,
-      "category": "动漫"
+      "raw_hot": 26602,
+      "num": 404470,
+      "word": "河北一医院开设不爱上班门诊",
+      "onboard_time": 1752147142,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23965,
@@ -3025,6 +3097,14 @@
       "onboard_time": 1752143122,
       "rank": 39,
       "category": "游戏,动漫"
+    },
+    {
+      "raw_hot": 16156,
+      "num": 109067,
+      "word": "界园志异主题部分美术绘制",
+      "onboard_time": 1752147142,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 16041,
