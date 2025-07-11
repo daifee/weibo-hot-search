@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1752215958515,
+  "endTime": 1752216809177,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -964,7 +964,7 @@
     },
     {
       "raw_hot": 1074916,
-      "num": 1074916,
+      "num": 1146806,
       "word": "女子在缅北遭持枪强迫卖淫",
       "onboard_time": 1752213682,
       "rank": 3,
@@ -6033,6 +6033,14 @@
       "onboard_time": 1751948544,
       "rank": 30,
       "category": "休闲,互联网"
+    },
+    {
+      "raw_hot": 226273,
+      "num": 128777,
+      "word": "3成人存款超过50万元",
+      "onboard_time": 1752216681,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 226195,
@@ -11635,6 +11643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138368,
+      "num": 127889,
+      "word": "A股猛拉",
+      "onboard_time": 1752215661,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 138328,
       "num": 356490,
       "word": "与进口等效的国产九价定价仅499",
@@ -12651,6 +12667,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 128925,
+      "num": 128925,
+      "word": "光与夜之恋bw2025",
+      "onboard_time": 1752216563,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 128873,
       "num": 128873,
       "word": "目击者回应男子被吸入飞机引擎身亡",
@@ -12763,20 +12787,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127809,
-      "num": 127809,
-      "word": "A股猛拉",
-      "onboard_time": 1752215661,
-      "rank": 44,
-      "category": "财经"
-    },
-    {
       "raw_hot": 127793,
       "num": 127793,
       "word": "王力宏不念偶像两个字",
       "onboard_time": 1751961201,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 127756,
+      "num": 127756,
+      "word": "别把澡洗成负担",
+      "onboard_time": 1752216741,
+      "rank": 25,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 127743,
@@ -14107,6 +14131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115787,
+      "num": 115787,
+      "word": "王楚钦下轮对阵达科",
+      "onboard_time": 1752216501,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115779,
       "num": 206155,
       "word": "山河为证是一部全民回忆录",
@@ -14264,6 +14296,14 @@
       "word": "人民日报报道王楚钦",
       "onboard_time": 1751946503,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 114451,
+      "num": 114451,
+      "word": "王楚钦真成小手办了",
+      "onboard_time": 1752216501,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -14745,6 +14785,14 @@
       "onboard_time": 1752075444,
       "rank": 45,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 110293,
+      "num": 120881,
+      "word": "脱口秀是弱者的子弹具象化了",
+      "onboard_time": 1752215962,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 110241,
@@ -15251,6 +15299,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 105134,
+      "num": 105134,
+      "word": "外国人来南昌打卡地标要先学背古诗",
+      "onboard_time": 1752216563,
+      "rank": 41,
+      "category": "民生新闻,旅游"
+    },
+    {
       "raw_hot": 105086,
       "num": 105086,
       "word": "背书包的孙颖莎好可爱",
@@ -15337,6 +15393,14 @@
       "onboard_time": 1751985332,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104606,
+      "num": 105282,
+      "word": "印度准备好办2036年奥运会",
+      "onboard_time": 1752216681,
+      "rank": 39,
+      "category": "体育,海外新闻"
     },
     {
       "raw_hot": 104562,
@@ -16203,6 +16267,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 93647,
+      "num": 93647,
+      "word": "杨瀚森王楚钦互动次元壁裂了",
+      "onboard_time": 1752216622,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93454,
       "num": 93454,
       "word": "TE对战Gr",
@@ -16457,6 +16529,14 @@
       "onboard_time": 1752160944,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88199,
+      "num": 88199,
+      "word": "Labubu版糖醋酥肉饭",
+      "onboard_time": 1752216741,
+      "rank": 48,
+      "category": "美食,休闲"
     },
     {
       "raw_hot": 87565,
@@ -16833,6 +16913,14 @@
       "onboard_time": 1752164181,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 79060,
+      "num": 263522,
+      "word": "申通回应高中生卸货因流汗多被辞",
+      "onboard_time": 1752216322,
+      "rank": 9,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 78835,
@@ -18307,6 +18395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43962,
+      "num": 87826,
+      "word": "投资高手就是要在最高点入局",
+      "onboard_time": 1752216141,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 43957,
       "num": 1306201,
       "word": "尼山这个论坛要论什么",
@@ -18579,6 +18675,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 39402,
+      "num": 99809,
+      "word": "中国泳将强势出征",
+      "onboard_time": 1752216444,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 39073,
       "num": 54563,
       "word": "养老金水平较低的调整幅度高一些",
@@ -18601,6 +18705,14 @@
       "onboard_time": 1752037524,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 38832,
+      "num": 157364,
+      "word": "AI带娃强到离谱",
+      "onboard_time": 1752214102,
+      "rank": 33,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 38296,
@@ -18731,12 +18843,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 35587,
-      "num": 157364,
-      "word": "AI带娃强到离谱",
-      "onboard_time": 1752214102,
-      "rank": 33,
-      "category": "民生新闻,互联网"
+      "raw_hot": 35256,
+      "num": 118101,
+      "word": "台军汉光演习深夜又出事",
+      "onboard_time": 1752216081,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 34971,
@@ -18849,6 +18961,14 @@
       "onboard_time": 1752132382,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 33103,
+      "num": 142822,
+      "word": "715万牛郎织女雕塑",
+      "onboard_time": 1752214522,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32837,
@@ -19024,14 +19144,6 @@
       "word": "6组数据看科技创新与制造业加速升级",
       "onboard_time": 1751981845,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28719,
-      "num": 142822,
-      "word": "715万牛郎织女雕塑",
-      "onboard_time": 1752214522,
-      "rank": 38,
       "category": "民生新闻"
     },
     {

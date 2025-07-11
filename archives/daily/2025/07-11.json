@@ -1,6 +1,6 @@
 {
   "startTime": 1752165274435,
-  "endTime": 1752215958515,
+  "endTime": 1752216809177,
   "band_list": [
     {
       "raw_hot": 1989173,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1074916,
-      "num": 1074916,
+      "num": 1146806,
       "word": "女子在缅北遭持枪强迫卖淫",
       "onboard_time": 1752213682,
       "rank": 3,
@@ -641,6 +641,14 @@
       "onboard_time": 1752160525,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 226273,
+      "num": 128777,
+      "word": "3成人存款超过50万元",
+      "onboard_time": 1752216681,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 225245,
@@ -1211,6 +1219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138368,
+      "num": 127889,
+      "word": "A股猛拉",
+      "onboard_time": 1752215661,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 138048,
       "num": 418207,
       "word": "特朗普称下周一将发布涉俄重大声明",
@@ -1275,12 +1291,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 127809,
-      "num": 127809,
-      "word": "A股猛拉",
-      "onboard_time": 1752215661,
-      "rank": 44,
-      "category": "财经"
+      "raw_hot": 128925,
+      "num": 128925,
+      "word": "光与夜之恋bw2025",
+      "onboard_time": 1752216563,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 127756,
+      "num": 127756,
+      "word": "别把澡洗成负担",
+      "onboard_time": 1752216741,
+      "rank": 25,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 124773,
@@ -1307,6 +1331,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115787,
+      "num": 115787,
+      "word": "王楚钦下轮对阵达科",
+      "onboard_time": 1752216501,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 114451,
+      "num": 114451,
+      "word": "王楚钦真成小手办了",
+      "onboard_time": 1752216501,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113782,
       "num": 113782,
       "word": "梓渝生日作业有在准备交",
@@ -1328,6 +1368,14 @@
       "word": "中餐厅9粉丝二创已经nextlevel了",
       "onboard_time": 1752201681,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 110293,
+      "num": 120881,
+      "word": "脱口秀是弱者的子弹具象化了",
+      "onboard_time": 1752215962,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -1363,6 +1411,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 105134,
+      "num": 105134,
+      "word": "外国人来南昌打卡地标要先学背古诗",
+      "onboard_time": 1752216563,
+      "rank": 41,
+      "category": "民生新闻,旅游"
+    },
+    {
       "raw_hot": 105071,
       "num": 105071,
       "word": "神女爱苍生也爱一人具象化了",
@@ -1393,6 +1449,14 @@
       "onboard_time": 1752188778,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 104606,
+      "num": 105282,
+      "word": "印度准备好办2036年奥运会",
+      "onboard_time": 1752216681,
+      "rank": 39,
+      "category": "体育,海外新闻"
     },
     {
       "raw_hot": 103620,
@@ -1483,6 +1547,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 93647,
+      "num": 93647,
+      "word": "杨瀚森王楚钦互动次元壁裂了",
+      "onboard_time": 1752216622,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93017,
       "num": 93017,
       "word": "蒯曼vs郑怡静",
@@ -1521,6 +1593,14 @@
       "onboard_time": 1752146781,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 88199,
+      "num": 88199,
+      "word": "Labubu版糖醋酥肉饭",
+      "onboard_time": 1752216741,
+      "rank": 48,
+      "category": "美食,休闲"
     },
     {
       "raw_hot": 87543,
@@ -1609,6 +1689,14 @@
       "onboard_time": 1752164181,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 79060,
+      "num": 263522,
+      "word": "申通回应高中生卸货因流汗多被辞",
+      "onboard_time": 1752216322,
+      "rank": 9,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 76087,
@@ -1779,6 +1867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43962,
+      "num": 87826,
+      "word": "投资高手就是要在最高点入局",
+      "onboard_time": 1752216141,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 41914,
       "num": 140350,
       "word": "上大学让我忘了原本不富裕的家庭",
@@ -1803,12 +1899,28 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 39402,
+      "num": 99809,
+      "word": "中国泳将强势出征",
+      "onboard_time": 1752216444,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 39073,
       "num": 54563,
       "word": "养老金水平较低的调整幅度高一些",
       "onboard_time": 1752182954,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38832,
+      "num": 157364,
+      "word": "AI带娃强到离谱",
+      "onboard_time": 1752214102,
+      "rank": 33,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 37655,
@@ -1867,12 +1979,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 35587,
-      "num": 157364,
-      "word": "AI带娃强到离谱",
-      "onboard_time": 1752214102,
-      "rank": 33,
-      "category": "民生新闻,互联网"
+      "raw_hot": 35256,
+      "num": 118101,
+      "word": "台军汉光演习深夜又出事",
+      "onboard_time": 1752216081,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 33103,
+      "num": 142822,
+      "word": "715万牛郎织女雕塑",
+      "onboard_time": 1752214522,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29535,
@@ -1881,14 +2001,6 @@
       "onboard_time": 1752206483,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 28719,
-      "num": 142822,
-      "word": "715万牛郎织女雕塑",
-      "onboard_time": 1752214522,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 28562,
@@ -2051,7 +2163,7 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 5812,
+      "raw_hot": 6442,
       "num": 1194090,
       "word": "活力中国调研行",
       "onboard_time": 1752050482,

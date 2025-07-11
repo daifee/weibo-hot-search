@@ -1,0 +1,410 @@
+{
+  "runTime": 1752216809177,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 917538,
+        "num": 1146806,
+        "word": "女子在缅北遭持枪强迫卖淫",
+        "onboard_time": 1752213682,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 721222,
+        "num": 721222,
+        "word": "奶奶频繁亲吻孙子致其患亲吻病",
+        "onboard_time": 1752211042,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6442,
+        "num": 567444,
+        "word": "活力中国调研行",
+        "onboard_time": 1752050482,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 526350,
+        "num": 526350,
+        "word": "牛在在梓渝直播",
+        "onboard_time": 1752212962,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 508270,
+        "num": 508270,
+        "word": "仅退款群体画像",
+        "onboard_time": 1752207262,
+        "rank": 4,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 380581,
+        "num": 380581,
+        "word": "做美甲和不做美甲的都沉默了",
+        "onboard_time": 1752210502,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 326280,
+        "num": 326280,
+        "word": "看口型就知道Angelababy有多开心",
+        "onboard_time": 1752212362,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322731,
+        "num": 322731,
+        "word": "比伯魔童降世",
+        "onboard_time": 1752210143,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 270321,
+        "num": 270321,
+        "word": "孙悟空同款泳衣卖爆了",
+        "onboard_time": 1752208524,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79060,
+        "num": 263522,
+        "word": "申通回应高中生卸货因流汗多被辞",
+        "onboard_time": 1752216322,
+        "rank": 9,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 261325,
+        "num": 261325,
+        "word": "这个荔枝死了吗",
+        "onboard_time": 1752205943,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222979,
+        "num": 222979,
+        "word": "Bin哥骗我",
+        "onboard_time": 1752203901,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 198851,
+        "num": 198851,
+        "word": "BLACKPINK空降",
+        "onboard_time": 1752209483,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 181148,
+        "num": 181148,
+        "word": "公务员带薪服刑绝对不行",
+        "onboard_time": 1752214582,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108663,
+        "num": 177848,
+        "word": "你的隐私正在快递单上裸奔",
+        "onboard_time": 1752211761,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177266,
+        "num": 177266,
+        "word": "白家涉诈资金超106亿元",
+        "onboard_time": 1752203480,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 156961,
+        "num": 156961,
+        "word": "李宇春妈妈把李宇春易拉宝拿回家",
+        "onboard_time": 1752214703,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156271,
+        "num": 156271,
+        "word": "店员猥亵女顾客店长称其私自上班",
+        "onboard_time": 1752207682,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130152,
+        "num": 130152,
+        "word": "素人时期的李一桐",
+        "onboard_time": 1752210024,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128925,
+        "num": 128925,
+        "word": "光与夜之恋bw2025",
+        "onboard_time": 1752216563,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 226273,
+        "num": 128777,
+        "word": "3成人存款超过50万元",
+        "onboard_time": 1752216681,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166683,
+        "num": 128621,
+        "word": "店员洗头时猥亵女顾客被拘",
+        "onboard_time": 1752209123,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150495,
+        "num": 128320,
+        "word": "允许关晓彤洗把脸就来走红毯",
+        "onboard_time": 1752190159,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119400,
+        "num": 128015,
+        "word": "王越说月经应该叫领导",
+        "onboard_time": 1752213682,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138368,
+        "num": 127889,
+        "word": "A股猛拉",
+        "onboard_time": 1752215661,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 127756,
+        "num": 127756,
+        "word": "别把澡洗成负担",
+        "onboard_time": 1752216741,
+        "rank": 25,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 125916,
+        "num": 125916,
+        "word": "孙颖莎回应海产姐妹状态",
+        "onboard_time": 1752215782,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110293,
+        "num": 120881,
+        "word": "脱口秀是弱者的子弹具象化了",
+        "onboard_time": 1752215962,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98978,
+        "num": 118354,
+        "word": "樱桃琥珀定档",
+        "onboard_time": 1752204741,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35256,
+        "num": 118101,
+        "word": "台军汉光演习深夜又出事",
+        "onboard_time": 1752216081,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 117905,
+        "num": 117905,
+        "word": "父母离婚没人管小孩商场玩手机",
+        "onboard_time": 1752201021,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115787,
+        "num": 115787,
+        "word": "王楚钦下轮对阵达科",
+        "onboard_time": 1752216501,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96382,
+        "num": 114992,
+        "word": "高中生见义勇为救学姐致人死亡",
+        "onboard_time": 1752214763,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38832,
+        "num": 114570,
+        "word": "AI带娃强到离谱",
+        "onboard_time": 1752214102,
+        "rank": 33,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 114451,
+        "num": 114451,
+        "word": "王楚钦真成小手办了",
+        "onboard_time": 1752216501,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109740,
+        "num": 109740,
+        "word": "林诗栋蒯曼混双争冠",
+        "onboard_time": 1752215003,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104706,
+        "num": 109698,
+        "word": "中国的垃圾被抢疯了",
+        "onboard_time": 1752213862,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109694,
+        "num": 109694,
+        "word": "母亲给高三女儿买聪明药致成瘾吸毒",
+        "onboard_time": 1752208942,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33103,
+        "num": 105993,
+        "word": "715万牛郎织女雕塑",
+        "onboard_time": 1752214522,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104606,
+        "num": 105282,
+        "word": "印度准备好办2036年奥运会",
+        "onboard_time": 1752216681,
+        "rank": 39,
+        "category": "体育,海外新闻"
+      },
+      {
+        "raw_hot": 103344,
+        "num": 105157,
+        "word": "世界之外",
+        "onboard_time": 1752210203,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105134,
+        "num": 105134,
+        "word": "外国人来南昌打卡地标要先学背古诗",
+        "onboard_time": 1752216563,
+        "rank": 41,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 105069,
+        "num": 105069,
+        "word": "Bin首次无缘MSI决赛",
+        "onboard_time": 1752204082,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 39402,
+        "num": 99809,
+        "word": "中国泳将强势出征",
+        "onboard_time": 1752216444,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97051,
+        "num": 97051,
+        "word": "高中生快递站卸货4小时因流汗多被辞",
+        "onboard_time": 1752212722,
+        "rank": 44,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 104341,
+        "num": 96693,
+        "word": "小wei在姿态直播间刷了虎牙一号",
+        "onboard_time": 1752214222,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 96059,
+        "num": 96059,
+        "word": "曝国航一航班飞错高度触发警报",
+        "onboard_time": 1752210084,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93647,
+        "num": 93647,
+        "word": "杨瀚森王楚钦互动次元壁裂了",
+        "onboard_time": 1752216622,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88199,
+        "num": 88199,
+        "word": "Labubu版糖醋酥肉饭",
+        "onboard_time": 1752216741,
+        "rank": 48,
+        "category": "美食,休闲"
+      },
+      {
+        "raw_hot": 43962,
+        "num": 87826,
+        "word": "投资高手就是要在最高点入局",
+        "onboard_time": 1752216141,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#扎扎实实地干实现我们的中国式现代化#"
+    }
+  }
+}
