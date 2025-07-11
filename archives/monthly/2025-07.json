@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752248637811,
+  "endTime": 1752251611895,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -5425,6 +5425,14 @@
       "onboard_time": 1751421739,
       "rank": 45,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 507585,
+      "num": 507585,
+      "word": "女子发现酒店浴巾里有用过的安全套",
+      "onboard_time": 1752249682,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 507530,
@@ -14083,6 +14091,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 200898,
+      "num": 177801,
+      "word": "权顺荣伴舞",
+      "onboard_time": 1752249142,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 200828,
       "num": 200828,
       "word": "陈昊宇上海演唱会",
@@ -17656,6 +17672,14 @@
       "word": "胡一天阴湿男鬼味",
       "onboard_time": 1751447421,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 172035,
+      "num": 172035,
+      "word": "肖战寄语两岸青年",
+      "onboard_time": 1752249982,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -21283,6 +21307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 147641,
+      "num": 181242,
+      "word": "罗小黑2难度比1翻倍不止",
+      "onboard_time": 1752249383,
+      "rank": 18,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 147639,
       "num": 147639,
       "word": "RED扫楼直播",
@@ -21665,6 +21697,14 @@
       "onboard_time": 1751429843,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 145706,
+      "num": 145706,
+      "word": "Grace回应淘汰",
+      "onboard_time": 1752251060,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 145494,
@@ -26699,6 +26739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120934,
+      "num": 120934,
+      "word": "奔跑吧直播",
+      "onboard_time": 1752250763,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120851,
       "num": 157989,
       "word": "南珩不行他不能捐",
@@ -27425,6 +27473,14 @@
       "onboard_time": 1751714601,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117720,
+      "num": 117720,
+      "word": "李佳薇谭薇相互搀扶好好笑",
+      "onboard_time": 1752248902,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 117580,
@@ -30851,6 +30907,14 @@
       "category": "数码,民生新闻"
     },
     {
+      "raw_hot": 101047,
+      "num": 83616,
+      "word": "鹿晗下周一要发17张自拍",
+      "onboard_time": 1752248783,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 101029,
       "num": 101029,
       "word": "夏之光疑似被节目组做局",
@@ -31193,6 +31257,14 @@
       "onboard_time": 1751854883,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 99339,
+      "num": 138820,
+      "word": "拍视频被罚45万老板回应买蛤蟆质疑",
+      "onboard_time": 1752248483,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99338,
@@ -32867,6 +32939,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 83793,
+      "num": 83793,
+      "word": "丁禹兮开餐厅是动了脑子的",
+      "onboard_time": 1752251121,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 83644,
       "num": 83644,
       "word": "前阿森纳球员托马斯被控强奸和性侵",
@@ -33201,6 +33281,14 @@
       "onboard_time": 1751489954,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 79621,
+      "num": 79621,
+      "word": "独生女串通中介骗走父母千万房产抵押",
+      "onboard_time": 1752251181,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79479,
@@ -34595,6 +34683,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 63220,
+      "num": 149322,
+      "word": "演唱会退票为什么这么难",
+      "onboard_time": 1752236063,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63216,
       "num": 294029,
       "word": "支付宝团建来看苏超秒变散装",
@@ -35603,14 +35699,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 50510,
-      "num": 149322,
-      "word": "演唱会退票为什么这么难",
-      "onboard_time": 1752236063,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 50341,
       "num": 120162,
       "word": "PUBGxaespa",
@@ -36121,6 +36209,14 @@
       "onboard_time": 1751482096,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 44706,
+      "num": 116212,
+      "word": "女孩被拐遭养父虐待致终身伤残",
+      "onboard_time": 1752251481,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44567,
@@ -39369,14 +39465,6 @@
       "onboard_time": 1752088155,
       "rank": 15,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 12417,
-      "num": 138820,
-      "word": "拍视频被罚45万老板回应买蛤蟆质疑",
-      "onboard_time": 1752248483,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12403,
