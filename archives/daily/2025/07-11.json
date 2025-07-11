@@ -1,6 +1,6 @@
 {
   "startTime": 1752165274435,
-  "endTime": 1752227063169,
+  "endTime": 1752229758266,
   "band_list": [
     {
       "raw_hot": 1989173,
@@ -251,6 +251,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 664718,
+      "num": 423781,
+      "word": "曝杨少华儿子悲伤过度被抬出灵堂",
+      "onboard_time": 1752224064,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 651178,
       "num": 651178,
       "word": "王俊凯在沙特帅成这样",
@@ -273,14 +281,6 @@
       "onboard_time": 1752161604,
       "rank": 1,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 601358,
-      "num": 411097,
-      "word": "曝杨少华儿子悲伤过度被抬出灵堂",
-      "onboard_time": 1752224064,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 592570,
@@ -315,12 +315,36 @@
       "category": "美食"
     },
     {
+      "raw_hot": 547844,
+      "num": 298085,
+      "word": "蔡徐坤裤子",
+      "onboard_time": 1752226523,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 531784,
       "num": 531784,
       "word": "你的隐私正在快递单上裸奔",
       "onboard_time": 1752211761,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 519555,
+      "num": 519555,
+      "word": "6岁男童误吞遥控器电池获赔4000万美元",
+      "onboard_time": 1752223584,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 512038,
+      "num": 512038,
+      "word": "肖战小心翼翼地四处闯祸",
+      "onboard_time": 1752227603,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 493381,
@@ -345,6 +369,14 @@
       "onboard_time": 1752216681,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 481497,
+      "num": 292999,
+      "word": "突然明白了纪录生活的意义",
+      "onboard_time": 1752225203,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 480820,
@@ -393,6 +425,14 @@
       "onboard_time": 1752155544,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 452785,
+      "num": 452785,
+      "word": "日本首相称要赌上国运",
+      "onboard_time": 1752227003,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 441939,
@@ -523,14 +563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 362261,
-      "num": 198892,
-      "word": "6岁男童误吞遥控器电池获赔4000万美元",
-      "onboard_time": 1752223584,
-      "rank": 25,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 358598,
       "num": 273957,
       "word": "陈乔恩谈不生孩子原因",
@@ -603,6 +635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 328669,
+      "num": 328669,
+      "word": "朝雪录 提档",
+      "onboard_time": 1752228921,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 328226,
       "num": 328226,
       "word": "不建议带着饥饿感入睡",
@@ -633,6 +673,14 @@
       "onboard_time": 1752198680,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 305750,
+      "num": 305750,
+      "word": "好利来 光与夜之恋",
+      "onboard_time": 1752227662,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 304706,
@@ -699,6 +747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 281069,
+      "num": 281069,
+      "word": "以后cp共浴就按这个尺度拍",
+      "onboard_time": 1752226822,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 276585,
       "num": 255180,
       "word": "女生撬开生蚝发现小螃蟹",
@@ -745,6 +801,14 @@
       "onboard_time": 1752208942,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 263356,
+      "num": 263356,
+      "word": "肖战告黑胜诉",
+      "onboard_time": 1752227003,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 262673,
@@ -843,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227132,
+      "num": 227132,
+      "word": "杜海涛减肥失败有沈梦辰一份功劳",
+      "onboard_time": 1752228921,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225245,
       "num": 225245,
       "word": "父亲酒后暴打几岁女儿致粉碎性骨折",
@@ -867,12 +939,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 221961,
-      "num": 221961,
-      "word": "突然明白了纪录生活的意义",
-      "onboard_time": 1752225203,
-      "rank": 18,
-      "category": "情感"
+      "raw_hot": 222289,
+      "num": 222289,
+      "word": "李昀锐在跑男干上出纳了",
+      "onboard_time": 1752224663,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 217692,
@@ -931,20 +1003,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 211910,
-      "num": 211910,
-      "word": "李昀锐在跑男干上出纳了",
-      "onboard_time": 1752224663,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 211439,
       "num": 223788,
       "word": "艾福杰尼开始减肥了",
       "onboard_time": 1752215062,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210870,
+      "num": 218085,
+      "word": "医院被指暴力接生关键问题别回避",
+      "onboard_time": 1752226283,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 209500,
@@ -969,6 +1041,14 @@
       "onboard_time": 1752208644,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205932,
+      "num": 225236,
+      "word": "租房发现天花板藏摄像头女子发声",
+      "onboard_time": 1752228262,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 204847,
@@ -1017,6 +1097,14 @@
       "onboard_time": 1752226881,
       "rank": 17,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 201364,
+      "num": 201364,
+      "word": "Wei BLG",
+      "onboard_time": 1752227303,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 200470,
@@ -1307,14 +1395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 179459,
-      "num": 162223,
-      "word": "日本首相称要赌上国运",
-      "onboard_time": 1752227003,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 179092,
       "num": 179092,
       "word": "樱桃琥珀青春群像版预告",
@@ -1371,12 +1451,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 171079,
+      "num": 171079,
+      "word": "春秋航空女乘务员换平底鞋",
+      "onboard_time": 1752227065,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170952,
       "num": 170952,
       "word": "俄媒称俄将放弃唯一航母",
       "onboard_time": 1752219805,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 170751,
+      "num": 170751,
+      "word": "刘宇宁回应现实人生像大男主逆袭",
+      "onboard_time": 1752228502,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 170558,
@@ -1388,7 +1484,7 @@
     },
     {
       "raw_hot": 170072,
-      "num": 254881,
+      "num": 264053,
       "word": "2元的花种真能包邮送到雪山下吗",
       "onboard_time": 1752219324,
       "rank": 19,
@@ -1499,28 +1595,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 157925,
-      "num": 157925,
-      "word": "以后cp共浴就按这个尺度拍",
-      "onboard_time": 1752226822,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 157348,
       "num": 157348,
       "word": "豆包生图太离谱了",
       "onboard_time": 1752208885,
       "rank": 49,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 156630,
-      "num": 156630,
-      "word": "蔡徐坤裤子",
-      "onboard_time": 1752226523,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 156418,
@@ -1619,20 +1699,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 146407,
-      "num": 146407,
-      "word": "肖战告黑胜诉",
-      "onboard_time": 1752227003,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 145273,
       "num": 145273,
       "word": "BLG采访",
       "onboard_time": 1752221722,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 145175,
+      "num": 145175,
+      "word": "AHOF首个三大一位",
+      "onboard_time": 1752229222,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 144330,
@@ -1668,7 +1748,7 @@
     },
     {
       "raw_hot": 142458,
-      "num": 143618,
+      "num": 173861,
       "word": "王楚钦暴力扣球后举手示意",
       "onboard_time": 1752223523,
       "rank": 37,
@@ -1713,6 +1793,14 @@
       "onboard_time": 1752157643,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138877,
+      "num": 138877,
+      "word": "书卷一梦大结局",
+      "onboard_time": 1752229642,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 138048,
@@ -1803,6 +1891,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 129402,
+      "num": 129402,
+      "word": "展轩晒照",
+      "onboard_time": 1752229702,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128925,
       "num": 128925,
       "word": "光与夜之恋bw2025",
@@ -1844,7 +1940,7 @@
     },
     {
       "raw_hot": 126092,
-      "num": 126092,
+      "num": 136608,
       "word": "2025首次新增商保创新药目录",
       "onboard_time": 1752226582,
       "rank": 44,
@@ -1857,6 +1953,38 @@
       "onboard_time": 1752201080,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 123989,
+      "num": 123989,
+      "word": "华为苹果拍照世纪对决",
+      "onboard_time": 1752229101,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 122933,
+      "num": 122933,
+      "word": "A股迎大利好",
+      "onboard_time": 1752227662,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 122584,
+      "num": 136948,
+      "word": "赵小童十个勤天团粉头子",
+      "onboard_time": 1752228802,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 122234,
+      "num": 122234,
+      "word": "最大mcn称网红颜值不是第一位",
+      "onboard_time": 1752228441,
+      "rank": 46,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 122179,
@@ -1883,6 +2011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118037,
+      "num": 118037,
+      "word": "Bin回应BLG不敌AL",
+      "onboard_time": 1752227662,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 117277,
       "num": 117277,
       "word": "140平改成一门四户",
@@ -1897,6 +2033,14 @@
       "onboard_time": 1752216862,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115856,
+      "num": 115856,
+      "word": "一枚电池触发1.4亿元赔付",
+      "onboard_time": 1752229402,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 115787,
@@ -2459,6 +2603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 50749,
+      "num": 122242,
+      "word": "中国过境免签国家已扩大到55个",
+      "onboard_time": 1752222324,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 50692,
       "num": 343363,
       "word": "宋佳回应白玉兰奖获奖感言出圈",
@@ -2524,7 +2676,7 @@
     },
     {
       "raw_hot": 42068,
-      "num": 200859,
+      "num": 225921,
       "word": "解限机参展BW",
       "onboard_time": 1752226641,
       "rank": 18,
@@ -2699,14 +2851,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 25189,
-      "num": 218085,
-      "word": "医院被指暴力接生关键问题别回避",
-      "onboard_time": 1752226283,
-      "rank": 14,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 25101,
       "num": 26139,
       "word": "Jwei取关FPX",
@@ -2737,6 +2881,14 @@
       "onboard_time": 1752173234,
       "rank": 47,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 21563,
+      "num": 115285,
+      "word": "杨舒予杨力维说就是干",
+      "onboard_time": 1752229281,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 19755,
@@ -2887,6 +3039,9 @@
     },
     {
       "word": "#坚定文化自信扎根生活沃土#"
+    },
+    {
+      "word": "#习近平给田华等8位电影艺术家回信#"
     }
   ]
 }
