@@ -1,6 +1,6 @@
 {
   "startTime": 1752165274435,
-  "endTime": 1752233059522,
+  "endTime": 1752233984693,
   "band_list": [
     {
       "raw_hot": 1989173,
@@ -139,6 +139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 943204,
+      "num": 1150912,
+      "word": "马嘉祺 歌手复活赛",
+      "onboard_time": 1752231683,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 929021,
       "num": 1148643,
       "word": "表妹万福今天开机",
@@ -219,6 +227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 721140,
+      "num": 250078,
+      "word": "展轩晒照",
+      "onboard_time": 1752229702,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 713554,
       "num": 713554,
       "word": "公务员带薪服刑绝对不行",
@@ -241,6 +257,14 @@
       "onboard_time": 1752203480,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 671762,
+      "num": 271294,
+      "word": "歌手直播",
+      "onboard_time": 1752232582,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 670730,
@@ -289,14 +313,6 @@
       "onboard_time": 1752226523,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 607009,
-      "num": 607009,
-      "word": "马嘉祺 歌手复活赛",
-      "onboard_time": 1752231683,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 592570,
@@ -379,14 +395,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 495238,
-      "num": 250078,
-      "word": "展轩晒照",
-      "onboard_time": 1752229702,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 493381,
       "num": 493381,
       "word": "湘潭大学宿舍投毒案二审开庭",
@@ -467,11 +475,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 460143,
+      "num": 216340,
+      "word": "35岁以后真的会断崖式衰老",
+      "onboard_time": 1752231202,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 454133,
       "num": 454133,
       "word": "书卷一梦大结局",
       "onboard_time": 1752229642,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 453718,
+      "num": 235598,
+      "word": "锦绣芳华尺度",
+      "onboard_time": 1752230962,
+      "rank": 13,
       "category": "剧集"
     },
     {
@@ -481,6 +505,14 @@
       "onboard_time": 1752203301,
       "rank": 15,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 421659,
+      "num": 153488,
+      "word": "27岁在体制内在编五年辞职了",
+      "onboard_time": 1752233004,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 417671,
@@ -515,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 409668,
+      "num": 244136,
+      "word": "女脱口秀演员 血肉疯长的声音",
+      "onboard_time": 1752230242,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 406755,
       "num": 313128,
       "word": "胡一天对接发文",
@@ -536,14 +576,6 @@
       "word": "微笑一号店",
       "onboard_time": 1752207142,
       "rank": 15,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 398392,
-      "num": 253085,
-      "word": "歌手直播",
-      "onboard_time": 1752232582,
-      "rank": 7,
       "category": "综艺"
     },
     {
@@ -611,14 +643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 361688,
-      "num": 194738,
-      "word": "锦绣芳华尺度",
-      "onboard_time": 1752230962,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 358598,
       "num": 273957,
       "word": "陈乔恩谈不生孩子原因",
@@ -649,14 +673,6 @@
       "onboard_time": 1752163282,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 349104,
-      "num": 244136,
-      "word": "女脱口秀演员 血肉疯长的声音",
-      "onboard_time": 1752230242,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 346400,
@@ -707,14 +723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 330363,
-      "num": 188223,
-      "word": "35岁以后真的会断崖式衰老",
-      "onboard_time": 1752231202,
-      "rank": 17,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 328226,
       "num": 328226,
       "word": "不建议带着饥饿感入睡",
@@ -755,6 +763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 305017,
+      "num": 211047,
+      "word": "梓渝偷偷抹眼泪",
+      "onboard_time": 1752230543,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 304706,
       "num": 304706,
       "word": "BLG遗憾止步MSI",
@@ -785,14 +801,6 @@
       "onboard_time": 1752219146,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 297327,
-      "num": 204751,
-      "word": "梓渝偷偷抹眼泪",
-      "onboard_time": 1752230543,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 294800,
@@ -923,6 +931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253163,
+      "num": 253163,
+      "word": "妻子好心按摩致丈夫小脑梗死",
+      "onboard_time": 1752233063,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 249089,
       "num": 249089,
       "word": "早田希娜3比2张本美和",
@@ -953,14 +969,6 @@
       "onboard_time": 1752192381,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 237473,
-      "num": 134692,
-      "word": "27岁在体制内在编五年辞职了",
-      "onboard_time": 1752233004,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 235046,
@@ -1139,6 +1147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 204242,
+      "num": 204242,
+      "word": "Gr对战MRC",
+      "onboard_time": 1752233063,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 204152,
       "num": 204152,
       "word": "崔胜澈金珉奎将组小分队出道",
@@ -1185,6 +1201,14 @@
       "onboard_time": 1752227303,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 201233,
+      "num": 201233,
+      "word": "春秋航空女乘务员换平底鞋",
+      "onboard_time": 1752227065,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200470,
@@ -1419,14 +1443,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 184788,
-      "num": 184788,
-      "word": "春秋航空女乘务员换平底鞋",
-      "onboard_time": 1752227065,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 183575,
       "num": 208934,
       "word": "多家银行火速撤下养老贷",
@@ -1603,6 +1619,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166923,
+      "num": 166923,
+      "word": "徐梦洁一秒唱出火箭少女11个名字",
+      "onboard_time": 1752233601,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 165710,
+      "num": 165710,
+      "word": "2025IVL夏季赛",
+      "onboard_time": 1752233242,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 165374,
       "num": 191158,
       "word": "当地市监局回应随手拍被罚45万",
@@ -1747,12 +1779,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 149642,
+      "num": 149642,
+      "word": "郑朋痛失艺名",
+      "onboard_time": 1752233782,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148993,
       "num": 148993,
       "word": "如果允许退货退款的买家发买家秀",
       "onboard_time": 1752160284,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 148892,
+      "num": 148892,
+      "word": "奔跑吧",
+      "onboard_time": 1752230122,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 148596,
@@ -1828,7 +1876,7 @@
     },
     {
       "raw_hot": 144308,
-      "num": 144308,
+      "num": 155686,
       "word": "亚裔男子赌场输光积蓄",
       "onboard_time": 1752230183,
       "rank": 25,
@@ -1841,6 +1889,14 @@
       "onboard_time": 1752221844,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143484,
+      "num": 143484,
+      "word": "过度提醒会毁掉人的内驱动力",
+      "onboard_time": 1752230183,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 142956,
@@ -1873,6 +1929,14 @@
       "onboard_time": 1752219683,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141510,
+      "num": 141510,
+      "word": "秦彻coser",
+      "onboard_time": 1752233361,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 141327,
@@ -2003,14 +2067,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 133038,
-      "num": 133038,
-      "word": "奔跑吧",
-      "onboard_time": 1752230122,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 131341,
       "num": 131341,
       "word": "美国橙汁要涨价了",
@@ -2025,14 +2081,6 @@
       "onboard_time": 1752214222,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 130180,
-      "num": 130180,
-      "word": "过度提醒会毁掉人的内驱动力",
-      "onboard_time": 1752230183,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 128925,
@@ -2193,6 +2241,14 @@
       "onboard_time": 1752216862,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116193,
+      "num": 116193,
+      "word": "桃花映江山",
+      "onboard_time": 1752233481,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 115856,
@@ -2475,6 +2531,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 95984,
+      "num": 95984,
+      "word": "赛力斯上半年业绩公布",
+      "onboard_time": 1752233902,
+      "rank": 48,
+      "category": "汽车,财经"
+    },
+    {
       "raw_hot": 95653,
       "num": 292085,
       "word": "杭州三名游客马尔代夫回来查出登革热",
@@ -2723,6 +2787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 71779,
+      "num": 219286,
+      "word": "美军允许自购无人机作战",
+      "onboard_time": 1752231742,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 71323,
       "num": 71323,
       "word": "皮蛋开始在美国供不应求",
@@ -2795,6 +2867,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 59412,
+      "num": 113552,
+      "word": "岁的界园志异",
+      "onboard_time": 1752233962,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 57649,
       "num": 57649,
       "word": "马国明用2000条短信追求汤洛雯",
@@ -2827,6 +2907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 50783,
+      "num": 959078,
+      "word": "快存下这份暴雨安全指南",
+      "onboard_time": 1752224783,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 50749,
       "num": 122242,
       "word": "中国过境免签国家已扩大到55个",
@@ -2843,20 +2931,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 50506,
-      "num": 959078,
-      "word": "快存下这份暴雨安全指南",
-      "onboard_time": 1752224783,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 48418,
       "num": 192930,
       "word": "扎哈罗娃用中俄外长名字玩谐音梗",
       "onboard_time": 1752231683,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 47869,
+      "num": 214387,
+      "word": "酒店拒赔半夜被老鼠咬醒女子诊费用",
+      "onboard_time": 1752233481,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47737,
@@ -2905,6 +2993,14 @@
       "onboard_time": 1752216141,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 42568,
+      "num": 209220,
+      "word": "团伙帮37人作弊17人入职获编制",
+      "onboard_time": 1752232882,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42068,
@@ -3027,14 +3123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 35391,
-      "num": 134774,
-      "word": "团伙帮37人作弊17人入职获编制",
-      "onboard_time": 1752232882,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 35256,
       "num": 118101,
       "word": "台军汉光演习深夜又出事",
@@ -3057,6 +3145,14 @@
       "onboard_time": 1752230483,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32134,
+      "num": 106062,
+      "word": "汪东城二次元暑期工上线",
+      "onboard_time": 1752233301,
+      "rank": 43,
+      "category": "艺人,动漫"
     },
     {
       "raw_hot": 29535,

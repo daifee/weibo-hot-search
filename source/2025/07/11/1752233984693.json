@@ -1,0 +1,410 @@
+{
+  "runTime": 1752233984693,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 943204,
+        "num": 1150912,
+        "word": "马嘉祺 歌手复活赛",
+        "onboard_time": 1752231683,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 416631,
+        "num": 416631,
+        "word": "日本首相称要赌上国运",
+        "onboard_time": 1752227003,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 50783,
+        "num": 304551,
+        "word": "快存下这份暴雨安全指南",
+        "onboard_time": 1752224783,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 720156,
+        "num": 281144,
+        "word": "女子在缅北遭持枪强迫卖淫",
+        "onboard_time": 1752213682,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 671762,
+        "num": 271294,
+        "word": "歌手直播",
+        "onboard_time": 1752232582,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253163,
+        "num": 253163,
+        "word": "妻子好心按摩致丈夫小脑梗死",
+        "onboard_time": 1752233063,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 464971,
+        "num": 237133,
+        "word": "朝雪录 提档",
+        "onboard_time": 1752228921,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 453718,
+        "num": 235598,
+        "word": "锦绣芳华尺度",
+        "onboard_time": 1752230962,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219318,
+        "num": 219318,
+        "word": "临沂一饭店老板发视频遭45万罚单",
+        "onboard_time": 1752221185,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71779,
+        "num": 219286,
+        "word": "美军允许自购无人机作战",
+        "onboard_time": 1752231742,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 721140,
+        "num": 217898,
+        "word": "展轩晒照",
+        "onboard_time": 1752229702,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 493604,
+        "num": 217038,
+        "word": "肖战小心翼翼地四处闯祸",
+        "onboard_time": 1752227603,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 460143,
+        "num": 216340,
+        "word": "35岁以后真的会断崖式衰老",
+        "onboard_time": 1752231202,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 409668,
+        "num": 215151,
+        "word": "女脱口秀演员 血肉疯长的声音",
+        "onboard_time": 1752230242,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47869,
+        "num": 214387,
+        "word": "酒店拒赔半夜被老鼠咬醒女子诊费用",
+        "onboard_time": 1752233481,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328871,
+        "num": 213644,
+        "word": "书卷一梦大结局",
+        "onboard_time": 1752229642,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 319427,
+        "num": 212024,
+        "word": "杜海涛减肥失败有沈梦辰一份功劳",
+        "onboard_time": 1752228921,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305017,
+        "num": 211047,
+        "word": "梓渝偷偷抹眼泪",
+        "onboard_time": 1752230543,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262297,
+        "num": 209923,
+        "word": "6岁男童误吞遥控器电池获赔4000万美元",
+        "onboard_time": 1752223584,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 42568,
+        "num": 209220,
+        "word": "团伙帮37人作弊17人入职获编制",
+        "onboard_time": 1752232882,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 438859,
+        "num": 208920,
+        "word": "娄艺潇开始演短剧了",
+        "onboard_time": 1752222743,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 368534,
+        "num": 207147,
+        "word": "鞠婧祎摔得好重",
+        "onboard_time": 1752216023,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304054,
+        "num": 206590,
+        "word": "曝杨少华儿子悲伤过度被抬出灵堂",
+        "onboard_time": 1752224064,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230565,
+        "num": 205699,
+        "word": "蔡徐坤裤子",
+        "onboard_time": 1752226523,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227808,
+        "num": 204642,
+        "word": "以后cp共浴就按这个尺度拍",
+        "onboard_time": 1752226822,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204242,
+        "num": 204242,
+        "word": "Gr对战MRC",
+        "onboard_time": 1752233063,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 201233,
+        "num": 201233,
+        "word": "春秋航空女乘务员换平底鞋",
+        "onboard_time": 1752227065,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166923,
+        "num": 166923,
+        "word": "徐梦洁一秒唱出火箭少女11个名字",
+        "onboard_time": 1752233601,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165710,
+        "num": 165710,
+        "word": "2025IVL夏季赛",
+        "onboard_time": 1752233242,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135908,
+        "num": 155686,
+        "word": "亚裔男子赌场输光积蓄",
+        "onboard_time": 1752230183,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 421659,
+        "num": 153488,
+        "word": "27岁在体制内在编五年辞职了",
+        "onboard_time": 1752233004,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149642,
+        "num": 149642,
+        "word": "郑朋痛失艺名",
+        "onboard_time": 1752233782,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148892,
+        "num": 148892,
+        "word": "奔跑吧",
+        "onboard_time": 1752230122,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143484,
+        "num": 143484,
+        "word": "过度提醒会毁掉人的内驱动力",
+        "onboard_time": 1752230183,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141510,
+        "num": 141510,
+        "word": "秦彻coser",
+        "onboard_time": 1752233361,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136665,
+        "num": 136665,
+        "word": "单依纯扒何炅衣服",
+        "onboard_time": 1752232162,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123365,
+        "num": 123365,
+        "word": "王源杭州嘉宾 薛之谦",
+        "onboard_time": 1752229762,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117802,
+        "num": 117802,
+        "word": "手机壳选不对等于手抓毒源",
+        "onboard_time": 1752229880,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116193,
+        "num": 116193,
+        "word": "桃花映江山",
+        "onboard_time": 1752233481,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59412,
+        "num": 113552,
+        "word": "岁的界园志异",
+        "onboard_time": 1752233962,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111393,
+        "num": 111393,
+        "word": "Wei BLG",
+        "onboard_time": 1752227303,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110973,
+        "num": 110973,
+        "word": "奶奶频繁亲吻孙子致其患亲吻病",
+        "onboard_time": 1752211042,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107272,
+        "num": 107272,
+        "word": "三亚榴莲",
+        "onboard_time": 1752222084,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 32134,
+        "num": 106062,
+        "word": "汪东城二次元暑期工上线",
+        "onboard_time": 1752233301,
+        "rank": 43,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 105273,
+        "num": 105273,
+        "word": "陈熠14岁时身高已达1米74",
+        "onboard_time": 1752231622,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102868,
+        "num": 102868,
+        "word": "无名重映",
+        "onboard_time": 1752230843,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100862,
+        "num": 100862,
+        "word": "好利来 光与夜之恋",
+        "onboard_time": 1752227662,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 100362,
+        "num": 100362,
+        "word": "Bin说我是最强的上路",
+        "onboard_time": 1752221004,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 95984,
+        "num": 95984,
+        "word": "赛力斯上半年业绩公布",
+        "onboard_time": 1752233902,
+        "rank": 48,
+        "category": "汽车,财经"
+      },
+      {
+        "raw_hot": 94001,
+        "num": 94001,
+        "word": "LPL第三赛段赛程",
+        "onboard_time": 1752232943,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定文化自信扎根生活沃土#"
+    }
+  }
+}
