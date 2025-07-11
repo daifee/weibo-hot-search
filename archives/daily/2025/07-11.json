@@ -1,6 +1,6 @@
 {
   "startTime": 1752165274435,
-  "endTime": 1752223813709,
+  "endTime": 1752226185227,
   "band_list": [
     {
       "raw_hot": 1989173,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1062928,
+      "num": 1062928,
+      "word": "娄艺潇开始演短剧了",
+      "onboard_time": 1752222743,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1002628,
       "num": 1002628,
       "word": "比伯魔童降世",
@@ -177,14 +185,6 @@
       "onboard_time": 1752204862,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 758961,
-      "num": 758961,
-      "word": "娄艺潇开始演短剧了",
-      "onboard_time": 1752222743,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 735299,
@@ -275,6 +275,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 599489,
+      "num": 411097,
+      "word": "曝杨少华儿子悲伤过度被抬出灵堂",
+      "onboard_time": 1752224064,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 592570,
       "num": 592570,
       "word": "内娱神女降级史",
@@ -297,6 +305,14 @@
       "onboard_time": 1752193702,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 557094,
+      "num": 557094,
+      "word": "三亚榴莲",
+      "onboard_time": 1752222084,
+      "rank": 17,
+      "category": "美食"
     },
     {
       "raw_hot": 531784,
@@ -387,20 +403,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 431851,
-      "num": 431851,
-      "word": "三亚榴莲",
-      "onboard_time": 1752222084,
-      "rank": 17,
-      "category": "美食"
-    },
-    {
       "raw_hot": 417671,
       "num": 417671,
       "word": "世界之外",
       "onboard_time": 1752210203,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 411121,
+      "num": 411121,
+      "word": "Bin说我是最强的上路",
+      "onboard_time": 1752221004,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 410974,
+      "num": 410974,
+      "word": "临沂一饭店老板发视频遭45万罚单",
+      "onboard_time": 1752221185,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 410569,
@@ -459,14 +483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 382809,
-      "num": 382809,
-      "word": "Bin说我是最强的上路",
-      "onboard_time": 1752221004,
-      "rank": 5,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 375066,
       "num": 375066,
       "word": "AL对战BLG",
@@ -499,20 +515,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 359031,
-      "num": 359031,
-      "word": "临沂一饭店老板发视频遭45万罚单",
-      "onboard_time": 1752221185,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 358598,
       "num": 273957,
       "word": "陈乔恩谈不生孩子原因",
       "onboard_time": 1752154283,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 352682,
+      "num": 197617,
+      "word": "6岁男童误吞遥控器电池获赔4000万美元",
+      "onboard_time": 1752223584,
+      "rank": 25,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 350379,
@@ -587,6 +603,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 312937,
+      "num": 312937,
+      "word": "一诺王俊凯合影",
+      "onboard_time": 1752223883,
+      "rank": 8,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 312639,
       "num": 262986,
       "word": "蔡徐坤ins",
@@ -657,6 +681,14 @@
       "onboard_time": 1752218604,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 283304,
+      "num": 283304,
+      "word": "何惟芳蒋长扬汤泉共浴",
+      "onboard_time": 1752222863,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 276585,
@@ -875,14 +907,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 212777,
-      "num": 212777,
-      "word": "何惟芳蒋长扬汤泉共浴",
-      "onboard_time": 1752222863,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 211439,
       "num": 223788,
       "word": "艾福杰尼开始减肥了",
@@ -921,6 +945,14 @@
       "onboard_time": 1752162204,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 204152,
+      "num": 204152,
+      "word": "崔胜澈金珉奎将组小分队出道",
+      "onboard_time": 1752225023,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 204147,
@@ -995,14 +1027,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 197617,
-      "num": 197617,
-      "word": "6岁男童误吞遥控器电池获赔4000万美元",
-      "onboard_time": 1752223584,
-      "rank": 25,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 197489,
       "num": 197489,
       "word": "网曝多家银行迟迟未发放年终奖",
@@ -1075,6 +1099,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 192821,
+      "num": 192821,
+      "word": "突然明白了纪录生活的意义",
+      "onboard_time": 1752225203,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 192820,
       "num": 190789,
       "word": "高中生快递站卸货4小时因流汗多被辞",
@@ -1121,6 +1153,14 @@
       "onboard_time": 1752221185,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189685,
+      "num": 189685,
+      "word": "李昀锐在跑男干上出纳了",
+      "onboard_time": 1752224663,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 189543,
@@ -1227,12 +1267,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177918,
+      "num": 153562,
+      "word": "李昀锐猜对了时代少年团",
+      "onboard_time": 1752225442,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 174311,
+      "num": 192602,
+      "word": "BLACKPINK和TWICE新歌成绩",
+      "onboard_time": 1752222563,
+      "rank": 42,
+      "category": "音乐,艺人"
+    },
+    {
       "raw_hot": 173847,
       "num": 173847,
       "word": "利剑玫瑰顶级剧宣",
       "onboard_time": 1752217341,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173587,
+      "num": 173587,
+      "word": "低丸子头是王楚然的统治区",
+      "onboard_time": 1752223643,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 173025,
@@ -1291,14 +1355,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 169373,
-      "num": 192602,
-      "word": "BLACKPINK和TWICE新歌成绩",
-      "onboard_time": 1752222563,
-      "rank": 42,
-      "category": "音乐,艺人"
-    },
-    {
       "raw_hot": 169304,
       "num": 169304,
       "word": "一诺EWC开幕式出场",
@@ -1347,6 +1403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161965,
+      "num": 161965,
+      "word": "田曦薇从帅哥的全世界路过",
+      "onboard_time": 1752225624,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159776,
       "num": 159776,
       "word": "林诗栋蒯曼混双争冠",
@@ -1387,20 +1451,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156181,
+      "num": 156181,
+      "word": "鹿晗电子好友上线",
+      "onboard_time": 1752225323,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 155571,
       "num": 155571,
       "word": "Melon曲线",
       "onboard_time": 1752211583,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 152580,
-      "num": 152580,
-      "word": "低丸子头是王楚然的统治区",
-      "onboard_time": 1752223643,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 150686,
@@ -1435,6 +1499,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 148371,
+      "num": 148371,
+      "word": "BLG惨败Wei刷礼物",
+      "onboard_time": 1752225442,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 147149,
       "num": 220782,
       "word": "杨少华九平米房子住了一家六口",
@@ -1464,6 +1536,30 @@
       "word": "BLG采访",
       "onboard_time": 1752221722,
       "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 144534,
+      "num": 191158,
+      "word": "当地市监局回应随手拍被罚45万",
+      "onboard_time": 1752224483,
+      "rank": 19,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 144422,
+      "num": 144422,
+      "word": "张若昀还是太权威",
+      "onboard_time": 1752225082,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 144330,
+      "num": 144330,
+      "word": "BLG发文",
+      "onboard_time": 1752225802,
+      "rank": 31,
       "category": "电竞"
     },
     {
@@ -1619,6 +1715,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 131256,
+      "num": 131256,
+      "word": "9.9元冰淇淋收48元商家被罚1万",
+      "onboard_time": 1752225562,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130892,
       "num": 130892,
       "word": "小wei在姿态直播间刷了虎牙一号",
@@ -1627,12 +1731,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 130176,
+      "num": 295217,
+      "word": "司机称青甘大环线上12条轮胎被扎",
+      "onboard_time": 1752224483,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128925,
       "num": 128925,
       "word": "光与夜之恋bw2025",
       "onboard_time": 1752216563,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 128280,
+      "num": 128280,
+      "word": "灵笼2第九集封神",
+      "onboard_time": 1752225863,
+      "rank": 38,
+      "category": "动漫"
     },
     {
       "raw_hot": 127756,
@@ -1659,12 +1779,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121767,
+      "num": 121767,
+      "word": "梓渝看完许珑瀚功夫咖啡沉默了",
+      "onboard_time": 1752223944,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121380,
       "num": 124185,
       "word": "宋佳王一博 体制内姐弟",
       "onboard_time": 1752146963,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117277,
+      "num": 117277,
+      "word": "140平改成一门四户",
+      "onboard_time": 1752222684,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 116514,
@@ -1713,6 +1849,14 @@
       "onboard_time": 1752201681,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112403,
+      "num": 112403,
+      "word": "20多个高考家庭被骗320余万元",
+      "onboard_time": 1752226102,
+      "rank": 47,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 110293,
@@ -1897,6 +2041,14 @@
       "onboard_time": 1752152303,
       "rank": 29,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 97025,
+      "num": 222774,
+      "word": "随手拍视频被拟罚45万饭店老板发声",
+      "onboard_time": 1752224483,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95653,
@@ -2211,6 +2363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 54682,
+      "num": 141347,
+      "word": "第一次见这么具象化描述月经疼痛",
+      "onboard_time": 1752225562,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 53605,
       "num": 138135,
       "word": "缅北白家犯罪集团致我国6名公民死亡",
@@ -2233,6 +2393,14 @@
       "onboard_time": 1752202161,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 50506,
+      "num": 959078,
+      "word": "快存下这份暴雨安全指南",
+      "onboard_time": 1752224783,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 47737,
@@ -2401,6 +2569,14 @@
       "onboard_time": 1752214522,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30405,
+      "num": 109036,
+      "word": "付航崇拜刘旸的人格",
+      "onboard_time": 1752225744,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 29535,
@@ -2612,6 +2788,9 @@
     },
     {
       "word": "#扎扎实实地干实现我们的中国式现代化#"
+    },
+    {
+      "word": "#坚定文化自信扎根生活沃土#"
     }
   ]
 }
