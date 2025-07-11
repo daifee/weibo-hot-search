@@ -1,6 +1,6 @@
 {
   "startTime": 1752251611895,
-  "endTime": 1752273892176,
+  "endTime": 1752276388925,
   "band_list": [
     {
       "raw_hot": 1039259,
@@ -25,6 +25,14 @@
       "onboard_time": 1752246444,
       "rank": 1,
       "category": "演出"
+    },
+    {
+      "raw_hot": 474885,
+      "num": 474885,
+      "word": "陈熠4比3早田希娜",
+      "onboard_time": 1752272836,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 422725,
@@ -67,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 322977,
+      "num": 322977,
+      "word": "杨少华助理称死亡原因是肺衰竭",
+      "onboard_time": 1752243685,
+      "rank": 41,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 315611,
       "num": 315611,
       "word": "护士被同居男友杀害疑遭长期家暴",
@@ -81,14 +97,6 @@
       "onboard_time": 1752241225,
       "rank": 9,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 290680,
-      "num": 290680,
-      "word": "陈熠4比3早田希娜",
-      "onboard_time": 1752272836,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 278218,
@@ -155,12 +163,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 195788,
-      "num": 195788,
-      "word": "杨少华助理称死亡原因是肺衰竭",
-      "onboard_time": 1752243685,
-      "rank": 41,
-      "category": "艺人,民生新闻"
+      "raw_hot": 205356,
+      "num": 175151,
+      "word": "郭焱道歉",
+      "onboard_time": 1752276319,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 197911,
+      "num": 197911,
+      "word": "业主拒缴停车费致小区堵车9小时",
+      "onboard_time": 1752251362,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185283,
@@ -179,19 +195,35 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 177658,
+      "num": 177658,
+      "word": "姑娘想剪IU同款发型感觉效果差太多",
+      "onboard_time": 1752256696,
+      "rank": 5,
+      "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 174483,
+      "num": 174483,
+      "word": "王楚钦梁靖崑无缘男双决赛",
+      "onboard_time": 1752276258,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 173819,
+      "num": 173819,
+      "word": "领导让联系胡歌 胡歌真来了",
+      "onboard_time": 1752238944,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172035,
       "num": 172035,
       "word": "肖战寄语两岸青年",
       "onboard_time": 1752249982,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 171291,
-      "num": 171291,
-      "word": "领导让联系胡歌 胡歌真来了",
-      "onboard_time": 1752238944,
-      "rank": 22,
       "category": "艺人"
     },
     {
@@ -235,22 +267,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 138854,
-      "num": 138854,
-      "word": "业主拒缴停车费致小区堵车9小时",
-      "onboard_time": 1752251362,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 130909,
-      "num": 130909,
-      "word": "姑娘想剪IU同款发型感觉效果差太多",
-      "onboard_time": 1752256696,
-      "rank": 5,
-      "category": "民生新闻,艺人"
-    },
-    {
       "raw_hot": 128254,
       "num": 128254,
       "word": "吴青峰 小情歌",
@@ -265,6 +281,14 @@
       "onboard_time": 1752247642,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122379,
+      "num": 122379,
+      "word": "母亲做上百万个包子替亡子还债",
+      "onboard_time": 1752251002,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120934,
@@ -297,6 +321,14 @@
       "onboard_time": 1752230962,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114911,
+      "num": 114911,
+      "word": "朱雨玲晋级美国大满贯四强",
+      "onboard_time": 1752276258,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 114875,
@@ -363,11 +395,11 @@
       "category": "美食"
     },
     {
-      "raw_hot": 92790,
-      "num": 92790,
-      "word": "母亲做上百万个包子替亡子还债",
-      "onboard_time": 1752251002,
-      "rank": 38,
+      "raw_hot": 94504,
+      "num": 116628,
+      "word": "女孩被拐遭养父虐待致终身伤残",
+      "onboard_time": 1752251481,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -379,12 +411,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 90910,
-      "num": 116628,
-      "word": "女孩被拐遭养父虐待致终身伤残",
-      "onboard_time": 1752251481,
-      "rank": 34,
-      "category": "民生新闻"
+      "raw_hot": 91480,
+      "num": 91480,
+      "word": "日本称对美诸多让步关税不降反升",
+      "onboard_time": 1752272836,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 89076,
@@ -427,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80643,
+      "num": 80643,
+      "word": "当宝宝突然有了眉毛",
+      "onboard_time": 1752276319,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 79543,
       "num": 79543,
       "word": "侯明昊小生这厢马上没礼了",
@@ -435,11 +475,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74311,
+      "num": 74311,
+      "word": "湖人下赛季不会续约詹姆斯",
+      "onboard_time": 1752276258,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71635,
       "num": 239997,
       "word": "买2张演唱会门票只让退1张",
       "onboard_time": 1752251600,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70431,
+      "num": 70431,
+      "word": "姑姑公布疑脑死亡男童手术时间线",
+      "onboard_time": 1752237683,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -459,8 +515,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 58285,
-      "num": 58285,
+      "raw_hot": 58508,
+      "num": 58508,
       "word": "机场偶遇黄多多",
       "onboard_time": 1752254778,
       "rank": 32,
@@ -483,24 +539,40 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 46022,
-      "num": 54376,
-      "word": "姑姑公布疑脑死亡男童手术时间线",
-      "onboard_time": 1752237683,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 51634,
+      "num": 51634,
+      "word": "王艺迪蒯曼回应晋级女双四强",
+      "onboard_time": 1752262695,
+      "rank": 49,
+      "category": "体育"
     },
     {
-      "raw_hot": 37515,
-      "num": 37515,
-      "word": "日本称对美诸多让步关税不降反升",
-      "onboard_time": 1752272836,
-      "rank": 31,
+      "raw_hot": 50159,
+      "num": 50159,
+      "word": "美国关税炸弹引发各国反击战",
+      "onboard_time": 1752276258,
+      "rank": 41,
       "category": "国际时政"
     },
     {
-      "raw_hot": 32553,
-      "num": 39409,
+      "raw_hot": 47469,
+      "num": 47469,
+      "word": "法英将在乌克兰部署5万名士兵",
+      "onboard_time": 1752261795,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 42601,
+      "num": 44102,
+      "word": "时代少年团看林俊杰演唱会",
+      "onboard_time": 1752276258,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 41800,
+      "num": 44094,
       "word": "品牌方回应冰箱放办公室突然爆炸",
       "onboard_time": 1752266294,
       "rank": 13,
@@ -513,22 +585,6 @@
       "onboard_time": 1752258375,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 29647,
-      "num": 31610,
-      "word": "王艺迪蒯曼回应晋级女双四强",
-      "onboard_time": 1752262695,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 29138,
-      "num": 31606,
-      "word": "法英将在乌克兰部署5万名士兵",
-      "onboard_time": 1752261795,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 27343,
@@ -569,6 +625,14 @@
       "onboard_time": 1752259635,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 22048,
+      "num": 52441,
+      "word": "刘少奇送文件随身带火柴遇敌人就烧毁",
+      "onboard_time": 1752276319,
+      "rank": 38,
+      "category": "民生新闻,国内时政"
     },
     {
       "raw_hot": 21803,
