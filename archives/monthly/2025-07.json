@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752251611895,
+  "endTime": 1752252604047,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -1769,6 +1769,14 @@
       "onboard_time": 1751341162,
       "rank": 12,
       "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 1039259,
+      "num": 1039259,
+      "word": "女子发现酒店浴巾里有用过的安全套",
+      "onboard_time": 1752249682,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1037971,
@@ -5425,14 +5433,6 @@
       "onboard_time": 1751421739,
       "rank": 45,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 507585,
-      "num": 507585,
-      "word": "女子发现酒店浴巾里有用过的安全套",
-      "onboard_time": 1752249682,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 507530,
@@ -12859,6 +12859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214584,
+      "num": 214584,
+      "word": "权顺荣伴舞",
+      "onboard_time": 1752249142,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 214215,
       "num": 347095,
       "word": "中方回应美将限制中国公民在美买农田",
@@ -14089,14 +14097,6 @@
       "onboard_time": 1751967143,
       "rank": 22,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 200898,
-      "num": 177801,
-      "word": "权顺荣伴舞",
-      "onboard_time": 1752249142,
-      "rank": 20,
-      "category": "演出"
     },
     {
       "raw_hot": 200828,
@@ -19683,6 +19683,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 157339,
+      "num": 157339,
+      "word": "Grace回应淘汰",
+      "onboard_time": 1752251060,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157172,
       "num": 157172,
       "word": "天水幼儿园",
@@ -21697,14 +21705,6 @@
       "onboard_time": 1751429843,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 145706,
-      "num": 145706,
-      "word": "Grace回应淘汰",
-      "onboard_time": 1752251060,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 145494,
@@ -26979,6 +26979,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 119890,
+      "num": 119890,
+      "word": "独生女串通中介骗走父母千万房产抵押",
+      "onboard_time": 1752251181,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119807,
       "num": 119807,
       "word": "网友晒超速罚单现时速17052公里",
@@ -29867,6 +29875,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 106869,
+      "num": 106869,
+      "word": "鹿晗下周一要发17张自拍",
+      "onboard_time": 1752248783,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 106811,
       "num": 106811,
       "word": "郑号锡去看BLACKPINK演唱会了",
@@ -30907,14 +30923,6 @@
       "category": "数码,民生新闻"
     },
     {
-      "raw_hot": 101047,
-      "num": 83616,
-      "word": "鹿晗下周一要发17张自拍",
-      "onboard_time": 1752248783,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 101029,
       "num": 101029,
       "word": "夏之光疑似被节目组做局",
@@ -31353,6 +31361,14 @@
       "onboard_time": 1751505740,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 98636,
+      "num": 98636,
+      "word": "业主拒缴停车费致小区堵车9小时",
+      "onboard_time": 1752251362,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98558,
@@ -32027,6 +32043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92790,
+      "num": 92790,
+      "word": "母亲做上百万个包子替亡子还债",
+      "onboard_time": 1752251002,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92778,
       "num": 92778,
       "word": "要不要把印度踢出群聊",
@@ -32225,6 +32249,14 @@
       "onboard_time": 1751690544,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90910,
+      "num": 116628,
+      "word": "女孩被拐遭养父虐待致终身伤残",
+      "onboard_time": 1752251481,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90908,
@@ -33283,14 +33315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 79621,
-      "num": 79621,
-      "word": "独生女串通中介骗走父母千万房产抵押",
-      "onboard_time": 1752251181,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 79479,
       "num": 203536,
       "word": "黄霄雲 享界",
@@ -33905,6 +33929,14 @@
       "onboard_time": 1752231742,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 71635,
+      "num": 239997,
+      "word": "买2张演唱会门票只让退1张",
+      "onboard_time": 1752251600,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71622,
@@ -36209,14 +36241,6 @@
       "onboard_time": 1751482096,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 44706,
-      "num": 116212,
-      "word": "女孩被拐遭养父虐待致终身伤残",
-      "onboard_time": 1752251481,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 44567,
