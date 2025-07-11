@@ -1,0 +1,410 @@
+{
+  "runTime": 1752211796340,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1527077,
+        "num": 1527077,
+        "word": "仅退款群体画像",
+        "onboard_time": 1752207262,
+        "rank": 0,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 1165960,
+        "num": 1165960,
+        "word": "这个荔枝死了吗",
+        "onboard_time": 1752205943,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 3325,
+        "num": 950112,
+        "word": "活力中国调研行",
+        "onboard_time": 1752050482,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 919317,
+        "num": 919317,
+        "word": "比伯魔童降世",
+        "onboard_time": 1752210143,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 784826,
+        "num": 784826,
+        "word": "孙悟空同款泳衣卖爆了",
+        "onboard_time": 1752208524,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 660775,
+        "num": 660775,
+        "word": "店员猥亵女顾客店长称其私自上班",
+        "onboard_time": 1752207682,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 594664,
+        "num": 594664,
+        "word": "樱桃琥珀定档",
+        "onboard_time": 1752204741,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 501105,
+        "num": 501105,
+        "word": "父母离婚没人管小孩商场玩手机",
+        "onboard_time": 1752201021,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 473477,
+        "num": 473477,
+        "word": "twice回归",
+        "onboard_time": 1752208463,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 61359,
+        "num": 466936,
+        "word": "不让一个学生因经济困难而失学",
+        "onboard_time": 1752210383,
+        "rank": 9,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 670730,
+        "num": 466897,
+        "word": "幼儿血铅异常事件谁是罪魁祸首",
+        "onboard_time": 1752208463,
+        "rank": 10,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 466711,
+        "num": 466711,
+        "word": "BLACKPINK空降",
+        "onboard_time": 1752209483,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 455556,
+        "num": 455556,
+        "word": "湘潭大学宿舍投毒案二审开庭",
+        "onboard_time": 1752205581,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 448355,
+        "num": 448355,
+        "word": "白家涉诈资金超106亿元",
+        "onboard_time": 1752203480,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 138048,
+        "num": 418207,
+        "word": "特朗普称下周一将发布涉俄重大声明",
+        "onboard_time": 1752207804,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 417671,
+        "num": 417671,
+        "word": "世界之外",
+        "onboard_time": 1752210203,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 329775,
+        "num": 408469,
+        "word": "jump",
+        "onboard_time": 1752205702,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 369525,
+        "num": 407022,
+        "word": "中餐厅合伙人首日开门迎客状况多",
+        "onboard_time": 1752210744,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406831,
+        "num": 406831,
+        "word": "Bin哥骗我",
+        "onboard_time": 1752203901,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100345,
+        "num": 357378,
+        "word": "高二学生勤工俭学日结200元变10元",
+        "onboard_time": 1752211283,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 496708,
+        "num": 354976,
+        "word": "允许关晓彤洗把脸就来走红毯",
+        "onboard_time": 1752190159,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345602,
+        "num": 345602,
+        "word": "素人时期的李一桐",
+        "onboard_time": 1752210024,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297650,
+        "num": 297650,
+        "word": "奶奶频繁亲吻孙子致其患亲吻病",
+        "onboard_time": 1752211042,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289301,
+        "num": 289301,
+        "word": "杨瀚森王楚钦身高差",
+        "onboard_time": 1752208163,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286389,
+        "num": 286389,
+        "word": "赵丽颖中餐厅合伙人",
+        "onboard_time": 1752211761,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273618,
+        "num": 273618,
+        "word": "做美甲和不做美甲的都沉默了",
+        "onboard_time": 1752210502,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 265039,
+        "num": 265039,
+        "word": "陈奕迅凌晨去北京吃烤鸭",
+        "onboard_time": 1752204862,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263361,
+        "num": 263361,
+        "word": "母亲给高三女儿买聪明药致成瘾吸毒",
+        "onboard_time": 1752208942,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230531,
+        "num": 230531,
+        "word": "微笑一号店",
+        "onboard_time": 1752207142,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227892,
+        "num": 227892,
+        "word": "王鹤棣小兰花还有替身文学",
+        "onboard_time": 1752207923,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226314,
+        "num": 226314,
+        "word": "店员洗头时猥亵女顾客被拘",
+        "onboard_time": 1752209123,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217692,
+        "num": 217692,
+        "word": "曝国航一航班飞错高度触发警报",
+        "onboard_time": 1752210084,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214210,
+        "num": 214210,
+        "word": "TWICE空降",
+        "onboard_time": 1752211522,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 212546,
+        "num": 212546,
+        "word": "国乒女单下半区失守",
+        "onboard_time": 1752210623,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202256,
+        "num": 202256,
+        "word": "王楚钦回头望月",
+        "onboard_time": 1752210263,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201907,
+        "num": 201907,
+        "word": "王菲窦靖童合唱OST",
+        "onboard_time": 1752205281,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 191105,
+        "num": 191105,
+        "word": "缅北白家开发建设41个大型赌诈园区",
+        "onboard_time": 1752203480,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188081,
+        "num": 188081,
+        "word": "你好星期六",
+        "onboard_time": 1752210562,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186518,
+        "num": 186518,
+        "word": "王俊凯在沙特帅成这样",
+        "onboard_time": 1752199221,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72711,
+        "num": 180556,
+        "word": "无限暖暖浮光撷影",
+        "onboard_time": 1752211102,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 177173,
+        "num": 177173,
+        "word": "jump MV",
+        "onboard_time": 1752208822,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 175340,
+        "num": 175340,
+        "word": "女子买菜错付2000元大爷称只看到5元",
+        "onboard_time": 1752196940,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171460,
+        "num": 171460,
+        "word": "微笑一号店直播",
+        "onboard_time": 1752209123,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170629,
+        "num": 170629,
+        "word": "现在就出发",
+        "onboard_time": 1752210203,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163140,
+        "num": 163140,
+        "word": "房主任脱口秀版出走的决心",
+        "onboard_time": 1752211283,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160514,
+        "num": 160514,
+        "word": "Bin首次无缘MSI决赛",
+        "onboard_time": 1752204082,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 155571,
+        "num": 155571,
+        "word": "Melon曲线",
+        "onboard_time": 1752211583,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149247,
+        "num": 149247,
+        "word": "你的隐私正在快递单上裸奔",
+        "onboard_time": 1752211761,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147664,
+        "num": 147664,
+        "word": "研究生给室友投毒致死后销毁物证",
+        "onboard_time": 1752191541,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146712,
+        "num": 146712,
+        "word": "豆包生图太离谱了",
+        "onboard_time": 1752208885,
+        "rank": 49,
+        "category": "民生新闻,互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#扎扎实实地干实现我们的中国式现代化#"
+    }
+  }
+}

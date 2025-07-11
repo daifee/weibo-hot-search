@@ -1,6 +1,6 @@
 {
   "startTime": 1752165274435,
-  "endTime": 1752209772839,
+  "endTime": 1752211796340,
   "band_list": [
     {
       "raw_hot": 1989173,
@@ -19,6 +19,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1527077,
+      "num": 1527077,
+      "word": "仅退款群体画像",
+      "onboard_time": 1752207262,
+      "rank": 3,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 1453396,
       "num": 1453396,
       "word": "樱桃琥珀定档",
@@ -33,14 +41,6 @@
       "onboard_time": 1752201021,
       "rank": 15,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1201224,
-      "num": 1201224,
-      "word": "仅退款群体画像",
-      "onboard_time": 1752207262,
-      "rank": 3,
-      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 1180122,
@@ -91,6 +91,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 919317,
+      "num": 919317,
+      "word": "比伯魔童降世",
+      "onboard_time": 1752210143,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 843387,
       "num": 878848,
       "word": "梓渝取消hi6录制",
@@ -121,6 +129,14 @@
       "onboard_time": 1752204862,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 784826,
+      "num": 784826,
+      "word": "孙悟空同款泳衣卖爆了",
+      "onboard_time": 1752208524,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 735299,
@@ -155,8 +171,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 658746,
-      "num": 658746,
+      "raw_hot": 670730,
+      "num": 664448,
+      "word": "幼儿血铅异常事件谁是罪魁祸首",
+      "onboard_time": 1752208463,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 660775,
+      "num": 660775,
       "word": "店员猥亵女顾客店长称其私自上班",
       "onboard_time": 1752207682,
       "rank": 12,
@@ -195,14 +219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 545284,
-      "num": 545284,
-      "word": "孙悟空同款泳衣卖爆了",
-      "onboard_time": 1752208524,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 493381,
       "num": 493381,
       "word": "湘潭大学宿舍投毒案二审开庭",
@@ -227,6 +243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 466711,
+      "num": 466711,
+      "word": "BLACKPINK空降",
+      "onboard_time": 1752209483,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 462050,
       "num": 323168,
       "word": "钱宏明自杀",
@@ -241,6 +265,14 @@
       "onboard_time": 1752203301,
       "rank": 15,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 417671,
+      "num": 417671,
+      "word": "世界之外",
+      "onboard_time": 1752210203,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 410569,
@@ -315,6 +347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 369525,
+      "num": 407022,
+      "word": "中餐厅合伙人首日开门迎客状况多",
+      "onboard_time": 1752210744,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 358598,
       "num": 273957,
       "word": "陈乔恩谈不生孩子原因",
@@ -339,12 +379,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 340982,
-      "num": 664448,
-      "word": "幼儿血铅异常事件谁是罪魁祸首",
-      "onboard_time": 1752208463,
-      "rank": 9,
-      "category": "舆论监督"
+      "raw_hot": 345602,
+      "num": 345602,
+      "word": "素人时期的李一桐",
+      "onboard_time": 1752210024,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 337646,
@@ -419,12 +459,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 297650,
+      "num": 297650,
+      "word": "奶奶频繁亲吻孙子致其患亲吻病",
+      "onboard_time": 1752211042,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 294800,
       "num": 294800,
       "word": "孙颖莎女单止步16强",
       "onboard_time": 1752189740,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 286389,
+      "num": 286389,
+      "word": "赵丽颖中餐厅合伙人",
+      "onboard_time": 1752211761,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 276585,
@@ -451,12 +507,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 273618,
+      "num": 273618,
+      "word": "做美甲和不做美甲的都沉默了",
+      "onboard_time": 1752210502,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 273476,
       "num": 273476,
       "word": "Bin首次无缘MSI决赛",
       "onboard_time": 1752204082,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 263361,
+      "num": 356352,
+      "word": "母亲给高三女儿买聪明药致成瘾吸毒",
+      "onboard_time": 1752208942,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 262673,
@@ -515,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 226314,
+      "num": 226314,
+      "word": "店员洗头时猥亵女顾客被拘",
+      "onboard_time": 1752209123,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 225245,
       "num": 225245,
       "word": "父亲酒后暴打几岁女儿致粉碎性骨折",
@@ -523,20 +603,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 223383,
-      "num": 223383,
-      "word": "店员洗头时猥亵女顾客被拘",
-      "onboard_time": 1752209123,
-      "rank": 46,
+      "raw_hot": 217692,
+      "num": 217692,
+      "word": "曝国航一航班飞错高度触发警报",
+      "onboard_time": 1752210084,
+      "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 218893,
-      "num": 218893,
-      "word": "BLACKPINK空降",
-      "onboard_time": 1752209483,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 215501,
@@ -563,11 +635,27 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 214210,
+      "num": 214210,
+      "word": "TWICE空降",
+      "onboard_time": 1752211522,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 213437,
       "num": 213437,
       "word": "杨瀚森为王楚钦比赛挑边",
       "onboard_time": 1752205523,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 212546,
+      "num": 212546,
+      "word": "国乒女单下半区失守",
+      "onboard_time": 1752210623,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -617,6 +705,14 @@
       "onboard_time": 1752197660,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202256,
+      "num": 202256,
+      "word": "王楚钦回头望月",
+      "onboard_time": 1752210263,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 200470,
@@ -705,6 +801,14 @@
       "onboard_time": 1752189139,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188081,
+      "num": 188081,
+      "word": "你好星期六",
+      "onboard_time": 1752210562,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 188005,
@@ -811,6 +915,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 170629,
+      "num": 170629,
+      "word": "现在就出发",
+      "onboard_time": 1752210203,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170558,
       "num": 170558,
       "word": "沈腾贾冰已经不知天地为何物了",
@@ -851,6 +963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163140,
+      "num": 163140,
+      "word": "房主任脱口秀版出走的决心",
+      "onboard_time": 1752211283,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159312,
       "num": 159312,
       "word": "女子拒绝3倍工作量被辞获赔12万",
@@ -875,12 +995,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155571,
+      "num": 155571,
+      "word": "Melon曲线",
+      "onboard_time": 1752211583,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 150686,
       "num": 134324,
       "word": "陈熠进8强",
       "onboard_time": 1752189800,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149247,
+      "num": 149247,
+      "word": "你的隐私正在快递单上裸奔",
+      "onboard_time": 1752211761,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148993,
@@ -937,6 +1073,14 @@
       "onboard_time": 1752157643,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138048,
+      "num": 418207,
+      "word": "特朗普称下周一将发布涉俄重大声明",
+      "onboard_time": 1752207804,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 137441,
@@ -1123,6 +1267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100345,
+      "num": 357378,
+      "word": "高二学生勤工俭学日结200元变10元",
+      "onboard_time": 1752211283,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99416,
       "num": 99416,
       "word": "陈龙突击检查父母开空调",
@@ -1283,14 +1435,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 74996,
-      "num": 356352,
-      "word": "母亲给高三女儿买聪明药致成瘾吸毒",
-      "onboard_time": 1752208942,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 74850,
       "num": 74850,
       "word": "京城大师赛",
@@ -1321,6 +1465,14 @@
       "onboard_time": 1752159686,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72711,
+      "num": 180556,
+      "word": "无限暖暖浮光撷影",
+      "onboard_time": 1752211102,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 71323,
@@ -1361,6 +1513,14 @@
       "onboard_time": 1752208584,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 61359,
+      "num": 466936,
+      "word": "不让一个学生因经济困难而失学",
+      "onboard_time": 1752210383,
+      "rank": 9,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 57649,
