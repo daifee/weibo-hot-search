@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1752272812529,
+  "endTime": 1752273892176,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -5185,6 +5185,14 @@
       "onboard_time": 1751896645,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 290680,
+      "num": 290680,
+      "word": "陈熠4比3早田希娜",
+      "onboard_time": 1752272836,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 290286,
@@ -12995,6 +13003,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 138854,
+      "num": 138854,
+      "word": "业主拒缴停车费致小区堵车9小时",
+      "onboard_time": 1752251362,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138790,
       "num": 138790,
       "word": "航母守护灯火里的祖国看不够的美",
@@ -13825,6 +13841,14 @@
       "onboard_time": 1751963182,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130909,
+      "num": 130909,
+      "word": "姑娘想剪IU同款发型感觉效果差太多",
+      "onboard_time": 1752256696,
+      "rank": 5,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 130892,
@@ -15995,14 +16019,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 113905,
-      "num": 113905,
-      "word": "业主拒缴停车费致小区堵车9小时",
-      "onboard_time": 1752251362,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 113782,
       "num": 113782,
       "word": "梓渝生日作业有在准备交",
@@ -17001,14 +17017,6 @@
       "onboard_time": 1751747534,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105260,
-      "num": 105260,
-      "word": "姑娘想剪IU同款发型感觉效果差太多",
-      "onboard_time": 1752256696,
-      "rank": 5,
-      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 105227,
@@ -20835,6 +20843,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 37515,
+      "num": 37515,
+      "word": "日本称对美诸多让步关税不降反升",
+      "onboard_time": 1752272836,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 37467,
       "num": 269788,
       "word": "选择冷门专业的人后来过得怎么样",
@@ -21243,6 +21259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29647,
+      "num": 31610,
+      "word": "王艺迪蒯曼回应晋级女双四强",
+      "onboard_time": 1752262695,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29535,
       "num": 1185021,
       "word": "中国经济解锁这些新成就",
@@ -21275,12 +21299,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 28875,
-      "num": 28875,
-      "word": "王艺迪蒯曼回应晋级女双四强",
-      "onboard_time": 1752262695,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 29138,
+      "num": 31606,
+      "word": "法英将在乌克兰部署5万名士兵",
+      "onboard_time": 1752261795,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 28820,
@@ -21393,14 +21417,6 @@
       "onboard_time": 1751996296,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 27437,
-      "num": 27437,
-      "word": "法英将在乌克兰部署5万名士兵",
-      "onboard_time": 1752261795,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 27367,
@@ -21585,6 +21601,14 @@
       "onboard_time": 1752151281,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24352,
+      "num": 31580,
+      "word": "别家cp三搭我家cp三婚",
+      "onboard_time": 1752272056,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 23965,
@@ -21787,6 +21811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20849,
+      "num": 54091,
+      "word": "英国多地实施水管禁令",
+      "onboard_time": 1752268275,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 20494,
       "num": 22904,
       "word": "机器人cha了登陆少年新舞台",
@@ -21817,14 +21849,6 @@
       "onboard_time": 1752261375,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 20021,
-      "num": 54091,
-      "word": "英国多地实施水管禁令",
-      "onboard_time": 1752268275,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 19949,
@@ -21889,14 +21913,6 @@
       "onboard_time": 1752230962,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 18664,
-      "num": 27400,
-      "word": "别家cp三搭我家cp三婚",
-      "onboard_time": 1752272056,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 18396,
