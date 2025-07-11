@@ -1,6 +1,6 @@
 {
   "startTime": 1752165274435,
-  "endTime": 1752247766726,
+  "endTime": 1752248637811,
   "band_list": [
     {
       "raw_hot": 9144630,
@@ -145,6 +145,14 @@
       "onboard_time": 1752203480,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1137211,
+      "num": 1137211,
+      "word": "林俊杰cue田曦薇",
+      "onboard_time": 1752246444,
+      "rank": 10,
+      "category": "演出"
     },
     {
       "raw_hot": 1094365,
@@ -475,6 +483,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 538982,
+      "num": 538982,
+      "word": "西夏陵成功申遗",
+      "onboard_time": 1752246505,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 533989,
       "num": 354747,
       "word": "李佳薇守榜",
@@ -489,14 +505,6 @@
       "onboard_time": 1752211761,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 521907,
-      "num": 345606,
-      "word": "林俊杰cue田曦薇",
-      "onboard_time": 1752246444,
-      "rank": 10,
-      "category": "演出"
     },
     {
       "raw_hot": 519555,
@@ -529,14 +537,6 @@
       "onboard_time": 1752230962,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 507260,
-      "num": 507260,
-      "word": "西夏陵成功申遗",
-      "onboard_time": 1752246505,
-      "rank": 4,
-      "category": "国内时政"
     },
     {
       "raw_hot": 493381,
@@ -769,6 +769,14 @@
       "onboard_time": 1752224483,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 395918,
+      "num": 282260,
+      "word": "GAI 在我心里我是第一",
+      "onboard_time": 1752248242,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 392160,
@@ -1347,6 +1355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 226217,
+      "num": 183554,
+      "word": "鹿晗不经意间掏出一颗心",
+      "onboard_time": 1752245184,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 225245,
       "num": 225245,
       "word": "父亲酒后暴打几岁女儿致粉碎性骨折",
@@ -1907,14 +1923,6 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 183554,
-      "num": 183554,
-      "word": "鹿晗不经意间掏出一颗心",
-      "onboard_time": 1752245184,
-      "rank": 27,
-      "category": "演出"
-    },
-    {
       "raw_hot": 182997,
       "num": 182997,
       "word": "张踩玲 沈梦辰不认识难听",
@@ -2155,6 +2163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 164480,
+      "num": 141781,
+      "word": "耳帝",
+      "onboard_time": 1752247642,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164219,
       "num": 345295,
       "word": "房主任脱口秀版出走的决心",
@@ -2185,6 +2201,14 @@
       "onboard_time": 1752225562,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161339,
+      "num": 213860,
+      "word": "房主任 看哭了",
+      "onboard_time": 1752245005,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 160698,
@@ -2307,6 +2331,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 150351,
+      "num": 148650,
+      "word": "鹿晗别牵那个男伴舞了",
+      "onboard_time": 1752246205,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 149552,
       "num": 249424,
       "word": "高考生疑被骗去缅甸母亲发声求助",
@@ -2337,14 +2369,6 @@
       "onboard_time": 1752238825,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 148650,
-      "num": 148650,
-      "word": "鹿晗别牵那个男伴舞了",
-      "onboard_time": 1752246205,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 148596,
@@ -2635,14 +2659,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 133537,
-      "num": 213860,
-      "word": "房主任 看哭了",
-      "onboard_time": 1752245005,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 133214,
       "num": 121547,
       "word": "书卷一梦",
@@ -2657,14 +2673,6 @@
       "onboard_time": 1752246684,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 131614,
-      "num": 121712,
-      "word": "耳帝",
-      "onboard_time": 1752247642,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 131443,
@@ -2977,6 +2985,14 @@
       "onboard_time": 1752201681,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112511,
+      "num": 108434,
+      "word": "书卷一梦古今双he",
+      "onboard_time": 1752248124,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 110411,
@@ -3683,6 +3699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 50510,
+      "num": 149322,
+      "word": "演唱会退票为什么这么难",
+      "onboard_time": 1752236063,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48418,
       "num": 192930,
       "word": "扎哈罗娃用中俄外长名字玩谐音梗",
@@ -3755,14 +3779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 43209,
-      "num": 149322,
-      "word": "演唱会退票为什么这么难",
-      "onboard_time": 1752236063,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 42568,
       "num": 209220,
       "word": "团伙帮37人作弊17人入职获编制",
@@ -3795,6 +3811,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 40745,
+      "num": 140999,
+      "word": "西夏陵为何能申遗成功",
+      "onboard_time": 1752248483,
+      "rank": 28,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 39555,
       "num": 54577,
       "word": "用雪糕棒做西瓜扇子",
@@ -3825,6 +3849,14 @@
       "onboard_time": 1752214102,
       "rank": 33,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 37824,
+      "num": 138351,
+      "word": "发蛤蟆汤视频老板称是牛蛙",
+      "onboard_time": 1752248423,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37655,
@@ -3977,6 +4009,14 @@
       "onboard_time": 1752153263,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26577,
+      "num": 140709,
+      "word": "FBI用测谎仪调查谁对局长不忠",
+      "onboard_time": 1752248483,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 26566,
@@ -4155,12 +4195,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 13699,
+      "num": 103827,
+      "word": "夏天就馋这口干锅土豆",
+      "onboard_time": 1752247822,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 12760,
       "num": 41374,
       "word": "嫦娥七号明年前后发射",
       "onboard_time": 1752173055,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12417,
+      "num": 138820,
+      "word": "拍视频被罚45万老板回应买蛤蟆质疑",
+      "onboard_time": 1752248483,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11530,
