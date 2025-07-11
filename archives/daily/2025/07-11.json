@@ -1,6 +1,6 @@
 {
   "startTime": 1752165274435,
-  "endTime": 1752226185227,
+  "endTime": 1752227063169,
   "band_list": [
     {
       "raw_hot": 1989173,
@@ -107,8 +107,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1062928,
-      "num": 1062928,
+      "raw_hot": 1081581,
+      "num": 1081581,
       "word": "娄艺潇开始演短剧了",
       "onboard_time": 1752222743,
       "rank": 16,
@@ -275,7 +275,7 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 599489,
+      "raw_hot": 601358,
       "num": 411097,
       "word": "曝杨少华儿子悲伤过度被抬出灵堂",
       "onboard_time": 1752224064,
@@ -459,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 398012,
+      "num": 398012,
+      "word": "司机称青甘大环线上12条轮胎被扎",
+      "onboard_time": 1752224483,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 392160,
       "num": 392160,
       "word": "王菲窦靖童合唱OST",
@@ -515,20 +523,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 362261,
+      "num": 198892,
+      "word": "6岁男童误吞遥控器电池获赔4000万美元",
+      "onboard_time": 1752223584,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 358598,
       "num": 273957,
       "word": "陈乔恩谈不生孩子原因",
       "onboard_time": 1752154283,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 352682,
-      "num": 197617,
-      "word": "6岁男童误吞遥控器电池获赔4000万美元",
-      "onboard_time": 1752223584,
-      "rank": 25,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 350379,
@@ -561,6 +569,14 @@
       "onboard_time": 1752210024,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 343973,
+      "num": 343973,
+      "word": "一诺王俊凯合影",
+      "onboard_time": 1752223883,
+      "rank": 8,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 337646,
@@ -601,14 +617,6 @@
       "onboard_time": 1752216322,
       "rank": 9,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 312937,
-      "num": 312937,
-      "word": "一诺王俊凯合影",
-      "onboard_time": 1752223883,
-      "rank": 8,
-      "category": "艺人,电竞"
     },
     {
       "raw_hot": 312639,
@@ -859,12 +867,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 221961,
+      "num": 221961,
+      "word": "突然明白了纪录生活的意义",
+      "onboard_time": 1752225203,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 217692,
       "num": 217692,
       "word": "曝国航一航班飞错高度触发警报",
       "onboard_time": 1752210084,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216860,
+      "num": 216860,
+      "word": "刘畅又被逼得一米七一米八了",
+      "onboard_time": 1752226881,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 215501,
@@ -905,6 +929,14 @@
       "onboard_time": 1752205523,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211910,
+      "num": 211910,
+      "word": "李昀锐在跑男干上出纳了",
+      "onboard_time": 1752224663,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 211439,
@@ -977,6 +1009,14 @@
       "onboard_time": 1752210263,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202138,
+      "num": 202138,
+      "word": "北方人为什么不去江浙",
+      "onboard_time": 1752226881,
+      "rank": 17,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 200470,
@@ -1099,14 +1139,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 192821,
-      "num": 192821,
-      "word": "突然明白了纪录生活的意义",
-      "onboard_time": 1752225203,
-      "rank": 18,
-      "category": "情感"
-    },
-    {
       "raw_hot": 192820,
       "num": 190789,
       "word": "高中生快递站卸货4小时因流汗多被辞",
@@ -1155,14 +1187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 189685,
-      "num": 189685,
-      "word": "李昀锐在跑男干上出纳了",
-      "onboard_time": 1752224663,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 189543,
       "num": 189543,
       "word": "肖战新的口播",
@@ -1177,6 +1201,14 @@
       "onboard_time": 1752200061,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187513,
+      "num": 187513,
+      "word": "其实做一个普通人就很幸福",
+      "onboard_time": 1752226704,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 187504,
@@ -1219,6 +1251,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 181469,
+      "num": 181469,
+      "word": "田曦薇从帅哥的全世界路过",
+      "onboard_time": 1752225624,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181292,
       "num": 181292,
       "word": "网约车空调费之争该如何解",
@@ -1251,12 +1291,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180056,
+      "num": 180056,
+      "word": "低丸子头是王楚然的统治区",
+      "onboard_time": 1752223643,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179684,
       "num": 179684,
       "word": "范丞丞李昀锐有自己的伞",
       "onboard_time": 1752208822,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179459,
+      "num": 162223,
+      "word": "日本首相称要赌上国运",
+      "onboard_time": 1752227003,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 179092,
@@ -1289,14 +1345,6 @@
       "onboard_time": 1752217341,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 173587,
-      "num": 173587,
-      "word": "低丸子头是王楚然的统治区",
-      "onboard_time": 1752223643,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 173025,
@@ -1371,6 +1419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165374,
+      "num": 191158,
+      "word": "当地市监局回应随手拍被罚45万",
+      "onboard_time": 1752224483,
+      "rank": 19,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 164627,
       "num": 164627,
       "word": "就这个阴湿恶女味爽",
@@ -1403,12 +1459,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 161965,
-      "num": 161965,
-      "word": "田曦薇从帅哥的全世界路过",
-      "onboard_time": 1752225624,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 161788,
+      "num": 161788,
+      "word": "9.9元冰淇淋收48元商家被罚1万",
+      "onboard_time": 1752225562,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160698,
+      "num": 180180,
+      "word": "20多个高考家庭被骗320余万元",
+      "onboard_time": 1752226102,
+      "rank": 47,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 159776,
@@ -1435,12 +1499,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157925,
+      "num": 157925,
+      "word": "以后cp共浴就按这个尺度拍",
+      "onboard_time": 1752226822,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157348,
       "num": 157348,
       "word": "豆包生图太离谱了",
       "onboard_time": 1752208885,
       "rank": 49,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 156630,
+      "num": 156630,
+      "word": "蔡徐坤裤子",
+      "onboard_time": 1752226523,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 156418,
@@ -1465,6 +1545,14 @@
       "onboard_time": 1752211583,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 152504,
+      "num": 199419,
+      "word": "张若昀还是太权威",
+      "onboard_time": 1752225082,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 150686,
@@ -1531,28 +1619,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146407,
+      "num": 146407,
+      "word": "肖战告黑胜诉",
+      "onboard_time": 1752227003,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145273,
       "num": 145273,
       "word": "BLG采访",
       "onboard_time": 1752221722,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 144534,
-      "num": 191158,
-      "word": "当地市监局回应随手拍被罚45万",
-      "onboard_time": 1752224483,
-      "rank": 19,
-      "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 144422,
-      "num": 144422,
-      "word": "张若昀还是太权威",
-      "onboard_time": 1752225082,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 144330,
@@ -1588,7 +1668,7 @@
     },
     {
       "raw_hot": 142458,
-      "num": 142458,
+      "num": 143618,
       "word": "王楚钦暴力扣球后举手示意",
       "onboard_time": 1752223523,
       "rank": 37,
@@ -1715,28 +1795,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 131256,
-      "num": 131256,
-      "word": "9.9元冰淇淋收48元商家被罚1万",
-      "onboard_time": 1752225562,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 130892,
       "num": 130892,
       "word": "小wei在姿态直播间刷了虎牙一号",
       "onboard_time": 1752214222,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 130176,
-      "num": 295217,
-      "word": "司机称青甘大环线上12条轮胎被扎",
-      "onboard_time": 1752224483,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128925,
@@ -1748,11 +1812,19 @@
     },
     {
       "raw_hot": 128280,
-      "num": 128280,
+      "num": 134772,
       "word": "灵笼2第九集封神",
       "onboard_time": 1752225863,
       "rank": 38,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 127787,
+      "num": 222774,
+      "word": "随手拍视频被拟罚45万饭店老板发声",
+      "onboard_time": 1752224483,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127756,
@@ -1761,6 +1833,22 @@
       "onboard_time": 1752216741,
       "rank": 25,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 127302,
+      "num": 127302,
+      "word": "文俊辉坐电梯吃瓜吃到自己头上",
+      "onboard_time": 1752226523,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 126092,
+      "num": 126092,
+      "word": "2025首次新增商保创新药目录",
+      "onboard_time": 1752226582,
+      "rank": 44,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 124773,
@@ -1849,14 +1937,6 @@
       "onboard_time": 1752201681,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 112403,
-      "num": 112403,
-      "word": "20多个高考家庭被骗320余万元",
-      "onboard_time": 1752226102,
-      "rank": 47,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 110293,
@@ -2041,14 +2121,6 @@
       "onboard_time": 1752152303,
       "rank": 29,
       "category": "艺人,电竞"
-    },
-    {
-      "raw_hot": 97025,
-      "num": 222774,
-      "word": "随手拍视频被拟罚45万饭店老板发声",
-      "onboard_time": 1752224483,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 95653,
@@ -2363,8 +2435,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 54682,
-      "num": 141347,
+      "raw_hot": 56824,
+      "num": 162265,
       "word": "第一次见这么具象化描述月经疼痛",
       "onboard_time": 1752225562,
       "rank": 33,
@@ -2449,6 +2521,14 @@
       "onboard_time": 1752216141,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 42068,
+      "num": 200859,
+      "word": "解限机参展BW",
+      "onboard_time": 1752226641,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 41914,
@@ -2555,6 +2635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36626,
+      "num": 133485,
+      "word": "付航崇拜刘旸的人格",
+      "onboard_time": 1752225744,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 35256,
       "num": 118101,
       "word": "台军汉光演习深夜又出事",
@@ -2569,14 +2657,6 @@
       "onboard_time": 1752214522,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30405,
-      "num": 109036,
-      "word": "付航崇拜刘旸的人格",
-      "onboard_time": 1752225744,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 29535,
@@ -2617,6 +2697,14 @@
       "onboard_time": 1752171736,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 25189,
+      "num": 218085,
+      "word": "医院被指暴力接生关键问题别回避",
+      "onboard_time": 1752226283,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 25101,
@@ -2721,6 +2809,14 @@
       "onboard_time": 1752217283,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14173,
+      "num": 117675,
+      "word": "蒋长扬的日子也是好起来了",
+      "onboard_time": 1752226881,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 14160,
