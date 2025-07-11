@@ -1,0 +1,410 @@
+{
+  "runTime": 1752212823084,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1025591,
+        "num": 1164094,
+        "word": "奶奶频繁亲吻孙子致其患亲吻病",
+        "onboard_time": 1752211042,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1521687,
+        "num": 1110802,
+        "word": "仅退款群体画像",
+        "onboard_time": 1752207262,
+        "rank": 1,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 4023,
+        "num": 1047359,
+        "word": "活力中国调研行",
+        "onboard_time": 1752050482,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1002628,
+        "num": 1002628,
+        "word": "比伯魔童降世",
+        "onboard_time": 1752210143,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 903463,
+        "num": 903463,
+        "word": "这个荔枝死了吗",
+        "onboard_time": 1752205943,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 887668,
+        "num": 887668,
+        "word": "孙悟空同款泳衣卖爆了",
+        "onboard_time": 1752208524,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 730307,
+        "num": 730307,
+        "word": "店员猥亵女顾客店长称其私自上班",
+        "onboard_time": 1752207682,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 527025,
+        "num": 527025,
+        "word": "樱桃琥珀定档",
+        "onboard_time": 1752204741,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 480820,
+        "num": 480820,
+        "word": "BLACKPINK空降",
+        "onboard_time": 1752209483,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 410494,
+        "num": 410494,
+        "word": "父母离婚没人管小孩商场玩手机",
+        "onboard_time": 1752201021,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 666250,
+        "num": 405789,
+        "word": "幼儿血铅异常事件谁是罪魁祸首",
+        "onboard_time": 1752208463,
+        "rank": 10,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 375670,
+        "num": 375670,
+        "word": "白家涉诈资金超106亿元",
+        "onboard_time": 1752203480,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 362140,
+        "num": 362140,
+        "word": "世界之外",
+        "onboard_time": 1752210203,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 357667,
+        "num": 357667,
+        "word": "twice回归",
+        "onboard_time": 1752208463,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 87313,
+        "num": 347504,
+        "word": "没人住的房子水表21天走了122吨",
+        "onboard_time": 1752211882,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345411,
+        "num": 345411,
+        "word": "Bin哥骗我",
+        "onboard_time": 1752203901,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164219,
+        "num": 345295,
+        "word": "房主任脱口秀版出走的决心",
+        "onboard_time": 1752211283,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96556,
+        "num": 343954,
+        "word": "付航说我凉凉了",
+        "onboard_time": 1752212242,
+        "rank": 17,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 50692,
+        "num": 343363,
+        "word": "宋佳回应白玉兰奖获奖感言出圈",
+        "onboard_time": 1752202161,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15891,
+        "num": 342206,
+        "word": "一出门就知道桑拿鸡怎么做了",
+        "onboard_time": 1752212542,
+        "rank": 19,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 475201,
+        "num": 341051,
+        "word": "店员洗头时猥亵女顾客被拘",
+        "onboard_time": 1752209123,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 444931,
+        "num": 340222,
+        "word": "允许关晓彤洗把脸就来走红毯",
+        "onboard_time": 1752190159,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327649,
+        "num": 339365,
+        "word": "湘潭大学宿舍投毒案二审开庭",
+        "onboard_time": 1752205581,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40908,
+        "num": 338214,
+        "word": "A股三大股指开盘走高",
+        "onboard_time": 1752212003,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 337932,
+        "num": 337932,
+        "word": "做美甲和不做美甲的都沉默了",
+        "onboard_time": 1752210502,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 331701,
+        "num": 331701,
+        "word": "王鹤棣小兰花还有替身文学",
+        "onboard_time": 1752207923,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286605,
+        "num": 286605,
+        "word": "素人时期的李一桐",
+        "onboard_time": 1752210024,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263085,
+        "num": 263085,
+        "word": "母亲给高三女儿买聪明药致成瘾吸毒",
+        "onboard_time": 1752208942,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81726,
+        "num": 262965,
+        "word": "杨紫李现别演夫妻了我害怕",
+        "onboard_time": 1752212542,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11095,
+        "num": 262931,
+        "word": "万能道闸神器能开别人家的卷帘门",
+        "onboard_time": 1752212482,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262929,
+        "num": 262929,
+        "word": "微笑一号店",
+        "onboard_time": 1752207142,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244588,
+        "num": 244588,
+        "word": "国乒女单下半区失守",
+        "onboard_time": 1752210623,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225092,
+        "num": 225092,
+        "word": "名井南part",
+        "onboard_time": 1752212603,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 223169,
+        "num": 223169,
+        "word": "杨瀚森王楚钦身高差",
+        "onboard_time": 1752208163,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217040,
+        "num": 217040,
+        "word": "jump",
+        "onboard_time": 1752205702,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 207612,
+        "num": 207612,
+        "word": "TWICE空降",
+        "onboard_time": 1752211522,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 207540,
+        "num": 207540,
+        "word": "你的隐私正在快递单上裸奔",
+        "onboard_time": 1752211761,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195916,
+        "num": 195916,
+        "word": "王楚钦回头望月",
+        "onboard_time": 1752210263,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59763,
+        "num": 195470,
+        "word": "无限暖暖浮光撷影",
+        "onboard_time": 1752211102,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 96251,
+        "num": 195270,
+        "word": "白家拔掉底层电诈人员指甲",
+        "onboard_time": 1752212781,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195106,
+        "num": 195106,
+        "word": "看口型就知道Angelababy有多开心",
+        "onboard_time": 1752212362,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195069,
+        "num": 195069,
+        "word": "微笑一号店直播",
+        "onboard_time": 1752209123,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191164,
+        "num": 191164,
+        "word": "陈奕迅凌晨去北京吃烤鸭",
+        "onboard_time": 1752204862,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192820,
+        "num": 190789,
+        "word": "高中生快递站卸货4小时因流汗多被辞",
+        "onboard_time": 1752212722,
+        "rank": 43,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 186821,
+        "num": 186821,
+        "word": "曝国航一航班飞错高度触发警报",
+        "onboard_time": 1752210084,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183575,
+        "num": 183575,
+        "word": "多家银行火速撤下养老贷",
+        "onboard_time": 1752212302,
+        "rank": 45,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 180324,
+        "num": 180324,
+        "word": "现在就出发",
+        "onboard_time": 1752210203,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170673,
+        "num": 170673,
+        "word": "女子买菜错付2000元大爷称只看到5元",
+        "onboard_time": 1752196940,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169012,
+        "num": 169012,
+        "word": "王菲窦靖童合唱OST",
+        "onboard_time": 1752205281,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 37030,
+        "num": 160735,
+        "word": "现代父母聊天把催婚当标点符号",
+        "onboard_time": 1752212482,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#扎扎实实地干实现我们的中国式现代化#"
+    }
+  }
+}
