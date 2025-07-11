@@ -1,0 +1,410 @@
+{
+  "runTime": 1752230820274,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 821235,
+        "num": 1131397,
+        "word": "女子在缅北遭持枪强迫卖淫",
+        "onboard_time": 1752213682,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 567795,
+        "num": 567795,
+        "word": "朝雪录 提档",
+        "onboard_time": 1752228921,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41099,
+        "num": 567608,
+        "word": "快存下这份暴雨安全指南",
+        "onboard_time": 1752224783,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 567572,
+        "num": 567572,
+        "word": "肖战小心翼翼地四处闯祸",
+        "onboard_time": 1752227603,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 514426,
+        "num": 514426,
+        "word": "日本首相称要赌上国运",
+        "onboard_time": 1752227003,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 498008,
+        "num": 498008,
+        "word": "6岁男童误吞遥控器电池获赔4000万美元",
+        "onboard_time": 1752223584,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 571714,
+        "num": 481226,
+        "word": "曝杨少华儿子悲伤过度被抬出灵堂",
+        "onboard_time": 1752224064,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 454133,
+        "num": 454133,
+        "word": "书卷一梦大结局",
+        "onboard_time": 1752229642,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270503,
+        "num": 270503,
+        "word": "临沂一饭店老板发视频遭45万罚单",
+        "onboard_time": 1752221185,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61613,
+        "num": 270403,
+        "word": "王毅会见美国国务卿鲁比奥",
+        "onboard_time": 1752229880,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 625033,
+        "num": 267212,
+        "word": "蔡徐坤裤子",
+        "onboard_time": 1752226523,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 517216,
+        "num": 261656,
+        "word": "杜海涛减肥失败有沈梦辰一份功劳",
+        "onboard_time": 1752228921,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358315,
+        "num": 260694,
+        "word": "以后cp共浴就按这个尺度拍",
+        "onboard_time": 1752226822,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72499,
+        "num": 255377,
+        "word": "手机壳选不对等于手抓毒源",
+        "onboard_time": 1752229880,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30484,
+        "num": 251529,
+        "word": "2元的花种真能包邮送到雪山下吗",
+        "onboard_time": 1752219324,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273812,
+        "num": 250078,
+        "word": "展轩晒照",
+        "onboard_time": 1752229702,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247617,
+        "num": 247617,
+        "word": "三亚榴莲",
+        "onboard_time": 1752222084,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 32123,
+        "num": 246255,
+        "word": "解限机参展BW",
+        "onboard_time": 1752226641,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154243,
+        "num": 244136,
+        "word": "女脱口秀演员 血肉疯长的声音",
+        "onboard_time": 1752230242,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32783,
+        "num": 243752,
+        "word": "高温天塘主投放50块冰块给鱼降温",
+        "onboard_time": 1752230483,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1036519,
+        "num": 240411,
+        "word": "鞠婧祎摔得好重",
+        "onboard_time": 1752216023,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 632980,
+        "num": 240019,
+        "word": "娄艺潇开始演短剧了",
+        "onboard_time": 1752222743,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238299,
+        "num": 238299,
+        "word": "Bin说我是最强的上路",
+        "onboard_time": 1752221004,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 213630,
+        "num": 213630,
+        "word": "租房发现天花板藏摄像头女子发声",
+        "onboard_time": 1752228262,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208892,
+        "num": 208892,
+        "word": "王源杭州嘉宾 薛之谦",
+        "onboard_time": 1752229762,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 204751,
+        "num": 204751,
+        "word": "梓渝偷偷抹眼泪",
+        "onboard_time": 1752230543,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202225,
+        "num": 202225,
+        "word": "肖战告黑胜诉",
+        "onboard_time": 1752227003,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201164,
+        "num": 201164,
+        "word": "好利来 光与夜之恋",
+        "onboard_time": 1752227662,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198304,
+        "num": 198304,
+        "word": "一诺王俊凯合影",
+        "onboard_time": 1752223883,
+        "rank": 28,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 147800,
+        "num": 195190,
+        "word": "9.9元冰淇淋收48元商家被罚1万",
+        "onboard_time": 1752225562,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194282,
+        "num": 194282,
+        "word": "梓渝我不能健身",
+        "onboard_time": 1752229762,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189642,
+        "num": 189642,
+        "word": "Wei BLG",
+        "onboard_time": 1752227303,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 176034,
+        "num": 176034,
+        "word": "春秋航空女乘务员换平底鞋",
+        "onboard_time": 1752227065,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171602,
+        "num": 171602,
+        "word": "奶奶频繁亲吻孙子致其患亲吻病",
+        "onboard_time": 1752211042,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165894,
+        "num": 165894,
+        "word": "李昀锐在跑男干上出纳了",
+        "onboard_time": 1752224663,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150299,
+        "num": 150299,
+        "word": "医院被指暴力接生关键问题别回避",
+        "onboard_time": 1752226283,
+        "rank": 35,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 146298,
+        "num": 146298,
+        "word": "突然明白了记录生活的意义",
+        "onboard_time": 1752225203,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136374,
+        "num": 136374,
+        "word": "刘宇宁回应现实人生像大男主逆袭",
+        "onboard_time": 1752228502,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133038,
+        "num": 133038,
+        "word": "奔跑吧",
+        "onboard_time": 1752230122,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127178,
+        "num": 127178,
+        "word": "过度提醒会毁掉人的内驱动力",
+        "onboard_time": 1752230183,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123627,
+        "num": 123627,
+        "word": "北方人为什么不去江浙",
+        "onboard_time": 1752226881,
+        "rank": 40,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 123316,
+        "num": 123316,
+        "word": "银行股跳水原因",
+        "onboard_time": 1752230602,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 99009,
+        "num": 121984,
+        "word": "赵小童十个勤天团粉头子",
+        "onboard_time": 1752228802,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133214,
+        "num": 121547,
+        "word": "书卷一梦",
+        "onboard_time": 1752230602,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120960,
+        "num": 120960,
+        "word": "比伯魔童降世",
+        "onboard_time": 1752210143,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 119054,
+        "num": 119054,
+        "word": "A股迎大利好",
+        "onboard_time": 1752227662,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 116597,
+        "num": 116597,
+        "word": "中国银联发布声明",
+        "onboard_time": 1752230782,
+        "rank": 46,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 115638,
+        "num": 115638,
+        "word": "王源杭州演唱会",
+        "onboard_time": 1752230602,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115159,
+        "num": 115159,
+        "word": "王楚钦暴力扣球后举手示意",
+        "onboard_time": 1752223523,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108700,
+        "num": 108700,
+        "word": "华为苹果拍照世纪对决",
+        "onboard_time": 1752229101,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定文化自信扎根生活沃土#"
+    }
+  }
+}

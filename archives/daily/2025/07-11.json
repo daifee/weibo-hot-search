@@ -1,6 +1,6 @@
 {
   "startTime": 1752165274435,
-  "endTime": 1752229758266,
+  "endTime": 1752230820274,
   "band_list": [
     {
       "raw_hot": 1989173,
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 664718,
-      "num": 423781,
+      "num": 481226,
       "word": "曝杨少华儿子悲伤过度被抬出灵堂",
       "onboard_time": 1752224064,
       "rank": 6,
@@ -283,6 +283,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 625033,
+      "num": 298085,
+      "word": "蔡徐坤裤子",
+      "onboard_time": 1752226523,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 592570,
       "num": 592570,
       "word": "内娱神女降级史",
@@ -307,20 +315,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 567795,
+      "num": 567795,
+      "word": "朝雪录 提档",
+      "onboard_time": 1752228921,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 567572,
+      "num": 567572,
+      "word": "肖战小心翼翼地四处闯祸",
+      "onboard_time": 1752227603,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 557094,
       "num": 557094,
       "word": "三亚榴莲",
       "onboard_time": 1752222084,
       "rank": 17,
       "category": "美食"
-    },
-    {
-      "raw_hot": 547844,
-      "num": 298085,
-      "word": "蔡徐坤裤子",
-      "onboard_time": 1752226523,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 531784,
@@ -339,12 +355,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 512038,
-      "num": 512038,
-      "word": "肖战小心翼翼地四处闯祸",
-      "onboard_time": 1752227603,
-      "rank": 3,
-      "category": "剧集"
+      "raw_hot": 517216,
+      "num": 261656,
+      "word": "杜海涛减肥失败有沈梦辰一份功劳",
+      "onboard_time": 1752228921,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 514426,
+      "num": 514426,
+      "word": "日本首相称要赌上国运",
+      "onboard_time": 1752227003,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 493381,
@@ -427,12 +451,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 452785,
-      "num": 452785,
-      "word": "日本首相称要赌上国运",
-      "onboard_time": 1752227003,
-      "rank": 31,
-      "category": "国际时政"
+      "raw_hot": 454133,
+      "num": 454133,
+      "word": "书卷一梦大结局",
+      "onboard_time": 1752229642,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 441939,
@@ -571,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 358315,
+      "num": 281069,
+      "word": "以后cp共浴就按这个尺度拍",
+      "onboard_time": 1752226822,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 350379,
       "num": 350379,
       "word": "坐男友车致截瘫女生称二人网上相识",
@@ -633,14 +665,6 @@
       "onboard_time": 1752207923,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 328669,
-      "num": 328669,
-      "word": "朝雪录 提档",
-      "onboard_time": 1752228921,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 328226,
@@ -747,14 +771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 281069,
-      "num": 281069,
-      "word": "以后cp共浴就按这个尺度拍",
-      "onboard_time": 1752226822,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 276585,
       "num": 255180,
       "word": "女生撬开生蚝发现小螃蟹",
@@ -777,6 +793,14 @@
       "onboard_time": 1752155362,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 273812,
+      "num": 250078,
+      "word": "展轩晒照",
+      "onboard_time": 1752229702,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 273476,
@@ -907,14 +931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 227132,
-      "num": 227132,
-      "word": "杜海涛减肥失败有沈梦辰一份功劳",
-      "onboard_time": 1752228921,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 225245,
       "num": 225245,
       "word": "父亲酒后暴打几岁女儿致粉碎性骨折",
@@ -995,6 +1011,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 213630,
+      "num": 225236,
+      "word": "租房发现天花板藏摄像头女子发声",
+      "onboard_time": 1752228262,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213437,
       "num": 213437,
       "word": "杨瀚森为王楚钦比赛挑边",
@@ -1027,6 +1051,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 208892,
+      "num": 208892,
+      "word": "王源杭州嘉宾 薛之谦",
+      "onboard_time": 1752229762,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 208594,
       "num": 208594,
       "word": "王楚钦快速进8强",
@@ -1043,20 +1075,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 205932,
-      "num": 225236,
-      "word": "租房发现天花板藏摄像头女子发声",
-      "onboard_time": 1752228262,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 204847,
       "num": 204847,
       "word": "多方回应医院被指暴力接生",
       "onboard_time": 1752162204,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 204751,
+      "num": 204751,
+      "word": "梓渝偷偷抹眼泪",
+      "onboard_time": 1752230543,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 204152,
@@ -1209,6 +1241,14 @@
       "onboard_time": 1752190701,
       "rank": 45,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 194282,
+      "num": 194282,
+      "word": "梓渝我不能健身",
+      "onboard_time": 1752229762,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 194000,
@@ -1411,6 +1451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176034,
+      "num": 176034,
+      "word": "春秋航空女乘务员换平底鞋",
+      "onboard_time": 1752227065,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174311,
       "num": 192602,
       "word": "BLACKPINK和TWICE新歌成绩",
@@ -1449,14 +1497,6 @@
       "onboard_time": 1752196342,
       "rank": 31,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 171079,
-      "num": 171079,
-      "word": "春秋航空女乘务员换平底鞋",
-      "onboard_time": 1752227065,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 170952,
@@ -1556,7 +1596,7 @@
     },
     {
       "raw_hot": 161788,
-      "num": 161788,
+      "num": 195190,
       "word": "9.9元冰淇淋收48元商家被罚1万",
       "onboard_time": 1752225562,
       "rank": 37,
@@ -1625,6 +1665,14 @@
       "onboard_time": 1752211583,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 154243,
+      "num": 244136,
+      "word": "女脱口秀演员 血肉疯长的声音",
+      "onboard_time": 1752230242,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 152504,
@@ -1697,6 +1745,14 @@
       "onboard_time": 1752152002,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146298,
+      "num": 146298,
+      "word": "突然明白了记录生活的意义",
+      "onboard_time": 1752225203,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 145273,
@@ -1795,14 +1851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 138877,
-      "num": 138877,
-      "word": "书卷一梦大结局",
-      "onboard_time": 1752229642,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 138048,
       "num": 418207,
       "word": "特朗普称下周一将发布涉俄重大声明",
@@ -1875,6 +1923,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 133214,
+      "num": 121547,
+      "word": "书卷一梦",
+      "onboard_time": 1752230602,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 133038,
+      "num": 133038,
+      "word": "奔跑吧",
+      "onboard_time": 1752230122,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131341,
       "num": 131341,
       "word": "美国橙汁要涨价了",
@@ -1889,14 +1953,6 @@
       "onboard_time": 1752214222,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 129402,
-      "num": 129402,
-      "word": "展轩晒照",
-      "onboard_time": 1752229702,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 128925,
@@ -1939,6 +1995,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 127178,
+      "num": 127178,
+      "word": "过度提醒会毁掉人的内驱动力",
+      "onboard_time": 1752230183,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 126092,
       "num": 136608,
       "word": "2025首次新增商保创新药目录",
@@ -1961,6 +2025,14 @@
       "onboard_time": 1752229101,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 123316,
+      "num": 123316,
+      "word": "银行股跳水原因",
+      "onboard_time": 1752230602,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 122933,
@@ -2027,6 +2099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 116597,
+      "num": 116597,
+      "word": "中国银联发布声明",
+      "onboard_time": 1752230782,
+      "rank": 46,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 116514,
       "num": 216148,
       "word": "律师称投毒案改判可能性微乎其微",
@@ -2049,6 +2129,14 @@
       "onboard_time": 1752216501,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115638,
+      "num": 115638,
+      "word": "王源杭州演唱会",
+      "onboard_time": 1752230602,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 114451,
@@ -2507,6 +2595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 72499,
+      "num": 255377,
+      "word": "手机壳选不对等于手抓毒源",
+      "onboard_time": 1752229880,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71323,
       "num": 71323,
       "word": "皮蛋开始在美国供不应求",
@@ -2561,6 +2657,14 @@
       "onboard_time": 1752208584,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 61613,
+      "num": 270403,
+      "word": "王毅会见美国国务卿鲁比奥",
+      "onboard_time": 1752229880,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 61359,
@@ -2676,7 +2780,7 @@
     },
     {
       "raw_hot": 42068,
-      "num": 225921,
+      "num": 246255,
       "word": "解限机参展BW",
       "onboard_time": 1752226641,
       "rank": 18,
@@ -2808,6 +2912,14 @@
       "word": "715万牛郎织女雕塑",
       "onboard_time": 1752214522,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32783,
+      "num": 243752,
+      "word": "高温天塘主投放50块冰块给鱼降温",
+      "onboard_time": 1752230483,
+      "rank": 19,
       "category": "民生新闻"
     },
     {

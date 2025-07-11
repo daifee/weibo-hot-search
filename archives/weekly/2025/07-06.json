@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1752229758266,
+  "endTime": 1752230820274,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -1940,7 +1940,7 @@
     },
     {
       "raw_hot": 664718,
-      "num": 423781,
+      "num": 481226,
       "word": "曝杨少华儿子悲伤过度被抬出灵堂",
       "onboard_time": 1752224064,
       "rank": 6,
@@ -2192,6 +2192,14 @@
       "word": "王一博卷毛王子",
       "onboard_time": 1751966424,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 625033,
+      "num": 298085,
+      "word": "蔡徐坤裤子",
+      "onboard_time": 1752226523,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -2459,6 +2467,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 567795,
+      "num": 567795,
+      "word": "朝雪录 提档",
+      "onboard_time": 1752228921,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 567572,
+      "num": 567572,
+      "word": "肖战小心翼翼地四处闯祸",
+      "onboard_time": 1752227603,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 567554,
       "num": 567554,
       "word": "在意大利遭洗劫中国游客发声",
@@ -2576,14 +2600,6 @@
       "word": "赵本山女儿球球抑郁症复发",
       "onboard_time": 1751982507,
       "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 547844,
-      "num": 298085,
-      "word": "蔡徐坤裤子",
-      "onboard_time": 1752226523,
-      "rank": 34,
       "category": "艺人"
     },
     {
@@ -2763,12 +2779,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 512038,
-      "num": 512038,
-      "word": "肖战小心翼翼地四处闯祸",
-      "onboard_time": 1752227603,
-      "rank": 3,
-      "category": "剧集"
+      "raw_hot": 517216,
+      "num": 261656,
+      "word": "杜海涛减肥失败有沈梦辰一份功劳",
+      "onboard_time": 1752228921,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 514426,
+      "num": 514426,
+      "word": "日本首相称要赌上国运",
+      "onboard_time": 1752227003,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 511315,
@@ -3059,6 +3083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 454133,
+      "num": 454133,
+      "word": "书卷一梦大结局",
+      "onboard_time": 1752229642,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 454059,
       "num": 454059,
       "word": "费大厨 本科以下勿扰",
@@ -3081,14 +3113,6 @@
       "onboard_time": 1752069744,
       "rank": 18,
       "category": "海外新闻,网红"
-    },
-    {
-      "raw_hot": 452785,
-      "num": 452785,
-      "word": "日本首相称要赌上国运",
-      "onboard_time": 1752227003,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 452455,
@@ -3955,6 +3979,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 358315,
+      "num": 281069,
+      "word": "以后cp共浴就按这个尺度拍",
+      "onboard_time": 1752226822,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 357537,
       "num": 357537,
       "word": "骗子借一张帅哥照骗走女子50万元",
@@ -4305,14 +4337,6 @@
       "onboard_time": 1751885542,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 328669,
-      "num": 328669,
-      "word": "朝雪录 提档",
-      "onboard_time": 1752228921,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 327963,
@@ -4963,14 +4987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 281069,
-      "num": 281069,
-      "word": "以后cp共浴就按这个尺度拍",
-      "onboard_time": 1752226822,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 280034,
       "num": 220052,
       "word": "女子喝半杯隔夜水后发现蚊子卵",
@@ -5088,6 +5104,14 @@
       "word": "汪明荃尊重罗家英放弃化疗",
       "onboard_time": 1751875522,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 273812,
+      "num": 250078,
+      "word": "展轩晒照",
+      "onboard_time": 1752229702,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -6275,14 +6299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 227132,
-      "num": 227132,
-      "word": "杜海涛减肥失败有沈梦辰一份功劳",
-      "onboard_time": 1752228921,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 226899,
       "num": 226899,
       "word": "女子离家2天3箱活珠子孵出满屋小鸡",
@@ -6675,6 +6691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 213630,
+      "num": 225236,
+      "word": "租房发现天花板藏摄像头女子发声",
+      "onboard_time": 1752228262,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213552,
       "num": 213552,
       "word": "书卷一梦豆瓣开分7.0",
@@ -6875,6 +6899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208892,
+      "num": 208892,
+      "word": "王源杭州嘉宾 薛之谦",
+      "onboard_time": 1752229762,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 208845,
       "num": 208845,
       "word": "WTT欧洲大满贯首批参赛名单公布",
@@ -6987,14 +7019,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 205932,
-      "num": 225236,
-      "word": "租房发现天花板藏摄像头女子发声",
-      "onboard_time": 1752228262,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 205707,
       "num": 205707,
       "word": "给韩红一个爱豆她还你一个兵",
@@ -7049,6 +7073,14 @@
       "onboard_time": 1752162204,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 204751,
+      "num": 204751,
+      "word": "梓渝偷偷抹眼泪",
+      "onboard_time": 1752230543,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 204152,
@@ -7777,6 +7809,14 @@
       "onboard_time": 1751947105,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 194282,
+      "num": 194282,
+      "word": "梓渝我不能健身",
+      "onboard_time": 1752229762,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 194205,
@@ -8923,6 +8963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176034,
+      "num": 176034,
+      "word": "春秋航空女乘务员换平底鞋",
+      "onboard_time": 1752227065,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175996,
       "num": 175996,
       "word": "易烊千玺投出一只纸飞机",
@@ -9337,14 +9385,6 @@
       "onboard_time": 1752156745,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 171079,
-      "num": 171079,
-      "word": "春秋航空女乘务员换平底鞋",
-      "onboard_time": 1752227065,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 171016,
@@ -10004,7 +10044,7 @@
     },
     {
       "raw_hot": 161788,
-      "num": 161788,
+      "num": 195190,
       "word": "9.9元冰淇淋收48元商家被罚1万",
       "onboard_time": 1752225562,
       "rank": 37,
@@ -10625,6 +10665,14 @@
       "onboard_time": 1751799081,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 154243,
+      "num": 244136,
+      "word": "女脱口秀演员 血肉疯长的声音",
+      "onboard_time": 1752230242,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 154230,
@@ -11401,6 +11449,14 @@
       "onboard_time": 1751809464,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 146298,
+      "num": 146298,
+      "word": "突然明白了记录生活的意义",
+      "onboard_time": 1752225203,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 146270,
@@ -12187,14 +12243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 138877,
-      "num": 138877,
-      "word": "书卷一梦大结局",
-      "onboard_time": 1752229642,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 138873,
       "num": 138873,
       "word": "穷人不等于不努力",
@@ -12763,6 +12811,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 133038,
+      "num": 133038,
+      "word": "奔跑吧",
+      "onboard_time": 1752230122,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133029,
       "num": 190256,
       "word": "美国大满贯球台遭孙颖莎王楚钦吐槽",
@@ -13171,14 +13227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 129402,
-      "num": 129402,
-      "word": "展轩晒照",
-      "onboard_time": 1752229702,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 129390,
       "num": 149699,
       "word": "游本昌人民日报撰文",
@@ -13521,6 +13569,14 @@
       "onboard_time": 1751726186,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 127178,
+      "num": 127178,
+      "word": "过度提醒会毁掉人的内驱动力",
+      "onboard_time": 1752230183,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 127142,
@@ -13969,6 +14025,14 @@
       "onboard_time": 1752144263,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123316,
+      "num": 123316,
+      "word": "银行股跳水原因",
+      "onboard_time": 1752230602,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 123300,
@@ -14755,6 +14819,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 116597,
+      "num": 116597,
+      "word": "中国银联发布声明",
+      "onboard_time": 1752230782,
+      "rank": 46,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 116568,
       "num": 116568,
       "word": "柯南M28刷新系列内地票房纪录",
@@ -14865,6 +14937,14 @@
       "onboard_time": 1751886922,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 115638,
+      "num": 115638,
+      "word": "王源杭州演唱会",
+      "onboard_time": 1752230602,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 115441,
@@ -17963,6 +18043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 72499,
+      "num": 255377,
+      "word": "手机壳选不对等于手抓毒源",
+      "onboard_time": 1752229880,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72397,
       "num": 80544,
       "word": "BLACKPINK演唱会",
@@ -18497,6 +18585,14 @@
       "onboard_time": 1751785701,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61613,
+      "num": 270403,
+      "word": "王毅会见美国国务卿鲁比奥",
+      "onboard_time": 1752229880,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 61359,
@@ -19276,7 +19372,7 @@
     },
     {
       "raw_hot": 42068,
-      "num": 225921,
+      "num": 246255,
       "word": "解限机参展BW",
       "onboard_time": 1752226641,
       "rank": 18,
@@ -19793,6 +19889,14 @@
       "onboard_time": 1752037944,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 32783,
+      "num": 243752,
+      "word": "高温天塘主投放50块冰块给鱼降温",
+      "onboard_time": 1752230483,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32674,
