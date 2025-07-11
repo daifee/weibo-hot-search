@@ -1,6 +1,6 @@
 {
   "startTime": 1752251611895,
-  "endTime": 1752266632578,
+  "endTime": 1752269161439,
   "band_list": [
     {
       "raw_hot": 1039259,
@@ -275,6 +275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114153,
+      "num": 114153,
+      "word": "警方回应中国游客在泰国遭持枪绑架",
+      "onboard_time": 1752265094,
+      "rank": 9,
+      "category": "民生新闻,辟谣/通报"
+    },
+    {
       "raw_hot": 109601,
       "num": 196363,
       "word": "中方回应美要韩采取限制中国措施",
@@ -467,19 +475,19 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 52291,
-      "num": 52291,
-      "word": "警方回应中国游客在泰国遭持枪绑架",
-      "onboard_time": 1752265094,
-      "rank": 9,
-      "category": "民生新闻,辟谣/通报"
-    },
-    {
       "raw_hot": 46022,
       "num": 54376,
       "word": "姑姑公布疑脑死亡男童手术时间线",
       "onboard_time": 1752237683,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32553,
+      "num": 39409,
+      "word": "品牌方回应冰箱放办公室突然爆炸",
+      "onboard_time": 1752266294,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -539,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 21741,
+      "num": 21741,
+      "word": "张本智和3比2阿鲁纳",
+      "onboard_time": 1752268094,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 21242,
       "num": 33045,
       "word": "脱口秀有自己的出走的决心",
@@ -555,20 +571,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 20296,
+      "num": 23603,
+      "word": "法英将在乌克兰部署5万名士兵",
+      "onboard_time": 1752261795,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 18957,
       "num": 28576,
       "word": "歌手双网收视破1",
       "onboard_time": 1752260595,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 18862,
-      "num": 23603,
-      "word": "法英将在乌克兰部署5万名士兵",
-      "onboard_time": 1752261795,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 16534,
@@ -595,12 +611,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 11701,
-      "num": 39409,
-      "word": "品牌方回应冰箱放办公室突然爆炸",
-      "onboard_time": 1752266294,
-      "rank": 13,
-      "category": "民生新闻"
+      "raw_hot": 11926,
+      "num": 54091,
+      "word": "英国多地实施水管禁令",
+      "onboard_time": 1752268275,
+      "rank": 9,
+      "category": "海外新闻"
     }
   ],
   "hotgov_list": [
