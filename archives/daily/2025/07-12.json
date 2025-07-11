@@ -1,6 +1,6 @@
 {
   "startTime": 1752251611895,
-  "endTime": 1752276388925,
+  "endTime": 1752277247596,
   "band_list": [
     {
       "raw_hot": 1039259,
@@ -27,12 +27,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 603285,
+      "num": 936803,
+      "word": "王楚钦梁靖崑无缘男双决赛",
+      "onboard_time": 1752276258,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 474885,
       "num": 474885,
       "word": "陈熠4比3早田希娜",
       "onboard_time": 1752272836,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 434618,
+      "num": 434618,
+      "word": "GAI听到名次秒变脸",
+      "onboard_time": 1752276378,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 422725,
@@ -115,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 262973,
+      "num": 177642,
+      "word": "郭焱道歉",
+      "onboard_time": 1752276319,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 242142,
       "num": 242142,
       "word": "12.3%受访00后存款超30万",
@@ -163,20 +187,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 205356,
-      "num": 175151,
-      "word": "郭焱道歉",
-      "onboard_time": 1752276319,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 197911,
       "num": 197911,
       "word": "业主拒缴停车费致小区堵车9小时",
       "onboard_time": 1752251362,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192669,
+      "num": 76892,
+      "word": "婆婆一进门就去看睡觉的大孙子",
+      "onboard_time": 1752276799,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 185283,
@@ -201,14 +225,6 @@
       "onboard_time": 1752256696,
       "rank": 5,
       "category": "民生新闻,艺人"
-    },
-    {
-      "raw_hot": 174483,
-      "num": 174483,
-      "word": "王楚钦梁靖崑无缘男双决赛",
-      "onboard_time": 1752276258,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 173819,
@@ -243,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153349,
+      "num": 153349,
+      "word": "孙颖莎王曼昱3比0金娜英柳韩娜",
+      "onboard_time": 1752277098,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147641,
       "num": 181242,
       "word": "罗小黑2难度比1翻倍不止",
@@ -257,6 +281,14 @@
       "onboard_time": 1752245005,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143823,
+      "num": 143823,
+      "word": "朱雨玲晋级美国大满贯四强",
+      "onboard_time": 1752276258,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 143518,
@@ -321,14 +353,6 @@
       "onboard_time": 1752230962,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 114911,
-      "num": 114911,
-      "word": "朱雨玲晋级美国大满贯四强",
-      "onboard_time": 1752276258,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 114875,
@@ -403,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93186,
+      "num": 80643,
+      "word": "当宝宝突然有了眉毛",
+      "onboard_time": 1752276319,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 91849,
       "num": 91849,
       "word": "Grace淘汰",
@@ -451,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 82036,
+      "num": 82036,
+      "word": "湖人下赛季不会续约詹姆斯",
+      "onboard_time": 1752276258,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81206,
       "num": 81206,
       "word": "19岁高考生失联7天疑被骗去缅甸",
@@ -459,28 +499,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 80643,
-      "num": 80643,
-      "word": "当宝宝突然有了眉毛",
-      "onboard_time": 1752276319,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 79543,
       "num": 79543,
       "word": "侯明昊小生这厢马上没礼了",
       "onboard_time": 1752235581,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 74311,
-      "num": 74311,
-      "word": "湖人下赛季不会续约詹姆斯",
-      "onboard_time": 1752276258,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 71635,
@@ -499,6 +523,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69864,
+      "num": 71044,
+      "word": "单依纯说原生家庭有一些破碎",
+      "onboard_time": 1752276678,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 68486,
+      "num": 68486,
+      "word": "光遇",
+      "onboard_time": 1752276858,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 64606,
       "num": 79451,
       "word": "王楚钦WTT美国大满贯出场背景更新",
@@ -515,12 +555,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 58508,
-      "num": 58508,
+      "raw_hot": 60730,
+      "num": 60730,
+      "word": "美国关税炸弹引发各国反击战",
+      "onboard_time": 1752276258,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 59346,
+      "num": 59346,
       "word": "机场偶遇黄多多",
       "onboard_time": 1752254778,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 57196,
+      "num": 57196,
+      "word": "时代少年团看林俊杰演唱会",
+      "onboard_time": 1752276258,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 56133,
@@ -539,6 +595,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 53311,
+      "num": 53311,
+      "word": "张踩玲 沈梦辰不认识难听",
+      "onboard_time": 1752240326,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 51634,
       "num": 51634,
       "word": "王艺迪蒯曼回应晋级女双四强",
@@ -547,28 +611,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 50159,
-      "num": 50159,
-      "word": "美国关税炸弹引发各国反击战",
-      "onboard_time": 1752276258,
-      "rank": 41,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 47469,
-      "num": 47469,
+      "raw_hot": 49347,
+      "num": 49347,
       "word": "法英将在乌克兰部署5万名士兵",
       "onboard_time": 1752261795,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 42601,
-      "num": 44102,
-      "word": "时代少年团看林俊杰演唱会",
-      "onboard_time": 1752276258,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 41800,
@@ -579,12 +627,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34189,
+      "num": 94490,
+      "word": "秀晶凉鞋卡到排水洞了",
+      "onboard_time": 1752276918,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29713,
       "num": 32606,
       "word": "起早贪黑只为鹿晗这个剧中人",
       "onboard_time": 1752258375,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 29050,
+      "num": 177737,
+      "word": "刘少奇送文件随身带火柴遇敌人就烧毁",
+      "onboard_time": 1752276319,
+      "rank": 38,
+      "category": "民生新闻,国内时政"
     },
     {
       "raw_hot": 27343,
@@ -625,14 +689,6 @@
       "onboard_time": 1752259635,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 22048,
-      "num": 52441,
-      "word": "刘少奇送文件随身带火柴遇敌人就烧毁",
-      "onboard_time": 1752276319,
-      "rank": 38,
-      "category": "民生新闻,国内时政"
     },
     {
       "raw_hot": 21803,
