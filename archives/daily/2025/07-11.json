@@ -1,6 +1,6 @@
 {
   "startTime": 1752165274435,
-  "endTime": 1752244049905,
+  "endTime": 1752245130821,
   "band_list": [
     {
       "raw_hot": 9144630,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 844557,
-      "num": 295822,
+      "num": 329346,
       "word": "陈楚生在燃什么",
       "onboard_time": 1752242065,
       "rank": 11,
@@ -281,6 +281,14 @@
       "onboard_time": 1752233004,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 746773,
+      "num": 331859,
+      "word": "领导让联系胡歌 胡歌真来了",
+      "onboard_time": 1752238944,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 735299,
@@ -379,12 +387,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 646692,
-      "num": 299475,
-      "word": "领导让联系胡歌 胡歌真来了",
-      "onboard_time": 1752238944,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 646239,
+      "num": 646239,
+      "word": "护士被同居男友杀害疑遭长期家暴",
+      "onboard_time": 1752241586,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 630925,
@@ -425,6 +433,14 @@
       "onboard_time": 1752193702,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 577758,
+      "num": 252391,
+      "word": "GAI表情",
+      "onboard_time": 1752244345,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 567795,
@@ -585,14 +601,6 @@
       "onboard_time": 1752234203,
       "rank": 4,
       "category": "美食"
-    },
-    {
-      "raw_hot": 469673,
-      "num": 469673,
-      "word": "护士被同居男友杀害疑遭长期家暴",
-      "onboard_time": 1752241586,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 462050,
@@ -771,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 376625,
+      "num": 376625,
+      "word": "美团外卖红包",
+      "onboard_time": 1752241225,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 375066,
       "num": 375066,
       "word": "AL对战BLG",
@@ -864,6 +880,14 @@
       "word": "鹿晗演唱会",
       "onboard_time": 1752235402,
       "rank": 21,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 338358,
+      "num": 250782,
+      "word": "田曦薇看林俊杰演唱会",
+      "onboard_time": 1752243206,
+      "rank": 32,
       "category": "演出"
     },
     {
@@ -995,20 +1019,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 298439,
-      "num": 298439,
-      "word": "美团外卖红包",
-      "onboard_time": 1752241225,
-      "rank": 36,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 294800,
       "num": 294800,
       "word": "孙颖莎女单止步16强",
       "onboard_time": 1752189740,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 292769,
+      "num": 292769,
+      "word": "中国游客在泰国遭持枪绑架监控曝光",
+      "onboard_time": 1752241765,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 291039,
@@ -1059,6 +1083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 277943,
+      "num": 277943,
+      "word": "艾莉西亚给我干迪士尼去了",
+      "onboard_time": 1752242005,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 276585,
       "num": 255180,
       "word": "女生撬开生蚝发现小螃蟹",
@@ -1099,20 +1131,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 266540,
-      "num": 266540,
-      "word": "艾莉西亚给我干迪士尼去了",
-      "onboard_time": 1752242005,
-      "rank": 26,
+      "raw_hot": 267437,
+      "num": 248767,
+      "word": "李佳薇回应编曲做局",
+      "onboard_time": 1752243926,
+      "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 266413,
-      "num": 291031,
-      "word": "中国游客在泰国遭持枪绑架监控曝光",
-      "onboard_time": 1752241765,
-      "rank": 48,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 263361,
@@ -1217,6 +1241,14 @@
       "onboard_time": 1752210623,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 244038,
+      "num": 296320,
+      "word": "杨少华助理称死亡原因是肺衰竭",
+      "onboard_time": 1752243685,
+      "rank": 14,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 243144,
@@ -1353,14 +1385,6 @@
       "onboard_time": 1752189438,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 214854,
-      "num": 214854,
-      "word": "田曦薇看林俊杰演唱会",
-      "onboard_time": 1752243206,
-      "rank": 32,
-      "category": "演出"
     },
     {
       "raw_hot": 214727,
@@ -1523,6 +1547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202285,
+      "num": 202285,
+      "word": "周深我已经不是原来的我了",
+      "onboard_time": 1752244286,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202256,
       "num": 202256,
       "word": "王楚钦回头望月",
@@ -1577,6 +1609,14 @@
       "onboard_time": 1752213922,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 199745,
+      "num": 199745,
+      "word": "鹿晗mm巧克力豆外套",
+      "onboard_time": 1752243866,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 198858,
@@ -1843,14 +1883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 182158,
-      "num": 160517,
-      "word": "鹿晗mm巧克力豆外套",
-      "onboard_time": 1752243866,
-      "rank": 43,
-      "category": "演出"
-    },
-    {
       "raw_hot": 181469,
       "num": 181469,
       "word": "田曦薇从帅哥的全世界路过",
@@ -1900,7 +1932,7 @@
     },
     {
       "raw_hot": 179805,
-      "num": 179805,
+      "num": 249870,
       "word": "大学遗憾排行榜",
       "onboard_time": 1752240145,
       "rank": 45,
@@ -2123,14 +2155,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 160058,
-      "num": 160058,
-      "word": "李佳薇回应编曲做局",
-      "onboard_time": 1752243926,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 159776,
       "num": 159776,
       "word": "林诗栋蒯曼混双争冠",
@@ -2233,6 +2257,14 @@
       "onboard_time": 1752221004,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 149048,
+      "num": 184263,
+      "word": "历经4年多的特斯拉刹车门事件结束",
+      "onboard_time": 1752244164,
+      "rank": 40,
+      "category": "汽车,民生新闻"
     },
     {
       "raw_hot": 148993,
@@ -2497,6 +2529,14 @@
       "onboard_time": 1752220703,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 135826,
+      "num": 279831,
+      "word": "冰箱放办公室里突然爆炸",
+      "onboard_time": 1752243685,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135336,
@@ -2795,6 +2835,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 114662,
+      "num": 249607,
+      "word": "周末多做跟平时有反差的事",
+      "onboard_time": 1752244765,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 114580,
       "num": 114580,
       "word": "塑料味浓烈的手机壳有毒物质或超标",
@@ -2963,6 +3011,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 104660,
+      "num": 184845,
+      "word": "花海演我下班",
+      "onboard_time": 1752244705,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 104606,
       "num": 105282,
       "word": "印度准备好办2036年奥运会",
@@ -2977,6 +3033,14 @@
       "onboard_time": 1752199460,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 103615,
+      "num": 252241,
+      "word": "护士被同居男友杀害家属发声",
+      "onboard_time": 1752243807,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103364,
@@ -3123,6 +3187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90621,
+      "num": 129749,
+      "word": "星野崩了",
+      "onboard_time": 1752244885,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 90616,
       "num": 90616,
       "word": "LABUBU黄牛价格近乎腰斩",
@@ -3195,14 +3267,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 85826,
-      "num": 279831,
-      "word": "冰箱放办公室里突然爆炸",
-      "onboard_time": 1752243685,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 85523,
       "num": 121534,
       "word": "白鹿水灵灵地翻了",
@@ -3249,14 +3313,6 @@
       "onboard_time": 1752165681,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 82071,
-      "num": 232922,
-      "word": "护士被同居男友杀害家属发声",
-      "onboard_time": 1752243807,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 81726,
@@ -3515,6 +3571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49590,
+      "num": 249424,
+      "word": "高考生疑被骗去缅甸母亲发声求助",
+      "onboard_time": 1752245005,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48418,
       "num": 192930,
       "word": "扎哈罗娃用中俄外长名字玩谐音梗",
@@ -3769,6 +3833,14 @@
       "onboard_time": 1752233301,
       "rank": 43,
       "category": "艺人,动漫"
+    },
+    {
+      "raw_hot": 30223,
+      "num": 950044,
+      "word": "北京烟火气里的民主法治",
+      "onboard_time": 1752243266,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 29535,
@@ -4026,6 +4098,9 @@
     },
     {
       "word": "#习近平给田华等8位电影艺术家回信#"
+    },
+    {
+      "word": "#努力创作更多讴歌时代精神的精品电影#"
     }
   ]
 }
