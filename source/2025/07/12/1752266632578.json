@@ -1,0 +1,410 @@
+{
+  "runTime": 1752266632578,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 146225,
+        "num": 146225,
+        "word": "女子发现酒店浴巾里有用过的安全套",
+        "onboard_time": 1752249682,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67776,
+        "num": 67776,
+        "word": "歌手排名",
+        "onboard_time": 1752242245,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11682,
+        "num": 64589,
+        "word": "北京烟火气里的民主法治",
+        "onboard_time": 1752243266,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 71018,
+        "num": 64431,
+        "word": "难听",
+        "onboard_time": 1752240986,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63543,
+        "num": 63543,
+        "word": "电诈园区墙上满是救救我想回家",
+        "onboard_time": 1752237683,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60672,
+        "num": 60672,
+        "word": "西夏陵成功申遗",
+        "onboard_time": 1752246505,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 55744,
+        "num": 55744,
+        "word": "独生女串通中介骗走父母千万房产抵押",
+        "onboard_time": 1752251181,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52291,
+        "num": 52291,
+        "word": "警方回应中国游客在泰国遭持枪绑架",
+        "onboard_time": 1752265094,
+        "rank": 7,
+        "category": "民生新闻,辟谣/通报"
+      },
+      {
+        "raw_hot": 44804,
+        "num": 44804,
+        "word": "领导让联系胡歌 胡歌真来了",
+        "onboard_time": 1752238944,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42601,
+        "num": 42601,
+        "word": "姑娘想剪IU同款发型感觉效果差太多",
+        "onboard_time": 1752256696,
+        "rank": 9,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 42254,
+        "num": 42254,
+        "word": "业主拒缴停车费致小区堵车9小时",
+        "onboard_time": 1752251362,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42208,
+        "num": 42208,
+        "word": "林俊杰cue田曦薇",
+        "onboard_time": 1752246444,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 39773,
+        "num": 39773,
+        "word": "护士被同居男友杀害疑遭长期家暴",
+        "onboard_time": 1752241586,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11701,
+        "num": 39409,
+        "word": "品牌方回应冰箱放办公室突然爆炸",
+        "onboard_time": 1752266294,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39203,
+        "num": 39203,
+        "word": "文化中国行中国再添一处世界遗产",
+        "onboard_time": 1752245664,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 37170,
+        "num": 37170,
+        "word": "12.3%受访00后存款超30万",
+        "onboard_time": 1752234081,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36499,
+        "num": 36499,
+        "word": "女子在缅北遭持枪强迫卖淫",
+        "onboard_time": 1752213682,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 34181,
+        "num": 34181,
+        "word": "妻子好心按摩致丈夫小脑梗死",
+        "onboard_time": 1752233063,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30844,
+        "num": 33476,
+        "word": "GAI 公务员裸辞的疯感",
+        "onboard_time": 1752238706,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28591,
+        "num": 33009,
+        "word": "单依纯 舞妹娘",
+        "onboard_time": 1752239303,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32898,
+        "num": 32898,
+        "word": "全季酒店回应女子半夜被老鼠咬醒",
+        "onboard_time": 1752241886,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32770,
+        "num": 32770,
+        "word": "中国游客在泰国遭持枪绑架监控曝光",
+        "onboard_time": 1752241765,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 27966,
+        "num": 27966,
+        "word": "母亲做上百万个包子替亡子还债",
+        "onboard_time": 1752251002,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27360,
+        "num": 27360,
+        "word": "王艺迪蒯曼回应晋级女双四强",
+        "onboard_time": 1752262695,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25106,
+        "num": 25106,
+        "word": "拍视频被罚45万老板回应买蛤蟆质疑",
+        "onboard_time": 1752248483,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24945,
+        "num": 24945,
+        "word": "女孩被拐遭养父虐待致终身伤残",
+        "onboard_time": 1752251481,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23004,
+        "num": 23004,
+        "word": "杨少华助理称死亡原因是肺衰竭",
+        "onboard_time": 1752243685,
+        "rank": 26,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 22926,
+        "num": 22926,
+        "word": "歌手直播",
+        "onboard_time": 1752232582,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22909,
+        "num": 22909,
+        "word": "Grace回应淘汰",
+        "onboard_time": 1752251060,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22788,
+        "num": 22788,
+        "word": "韩安冉称老公出轨也不离婚",
+        "onboard_time": 1752238583,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 22227,
+        "num": 22227,
+        "word": "书卷一梦大结局",
+        "onboard_time": 1752229642,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21553,
+        "num": 21553,
+        "word": "19岁高考生失联7天疑被骗去缅甸",
+        "onboard_time": 1752240084,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20249,
+        "num": 20249,
+        "word": "姑姑公布疑脑死亡男童手术时间线",
+        "onboard_time": 1752237683,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19937,
+        "num": 19937,
+        "word": "美团外卖红包",
+        "onboard_time": 1752241225,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 19332,
+        "num": 19332,
+        "word": "27岁在体制内在编五年辞职了",
+        "onboard_time": 1752233004,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18862,
+        "num": 18862,
+        "word": "法英将在乌克兰部署5万名士兵",
+        "onboard_time": 1752261795,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18813,
+        "num": 18813,
+        "word": "房主任 看哭了",
+        "onboard_time": 1752245005,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18457,
+        "num": 18457,
+        "word": "中方回应美要韩采取限制中国措施",
+        "onboard_time": 1752254001,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18303,
+        "num": 18303,
+        "word": "印度网球女将遭父亲枪杀",
+        "onboard_time": 1752240207,
+        "rank": 38,
+        "category": "海外新闻,体育"
+      },
+      {
+        "raw_hot": 17372,
+        "num": 18303,
+        "word": "诀爱",
+        "onboard_time": 1752236663,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15885,
+        "num": 18302,
+        "word": "陈楚生在燃什么",
+        "onboard_time": 1752242065,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15644,
+        "num": 18302,
+        "word": "机场偶遇黄多多",
+        "onboard_time": 1752254778,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15529,
+        "num": 18302,
+        "word": "锦绣芳华尺度",
+        "onboard_time": 1752230962,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15174,
+        "num": 18302,
+        "word": "耳帝",
+        "onboard_time": 1752247642,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14937,
+        "num": 18302,
+        "word": "任何协议和谈判都不应损害第三方利益",
+        "onboard_time": 1752261135,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14810,
+        "num": 18302,
+        "word": "枯萎之花上的眼泪",
+        "onboard_time": 1752252140,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 14363,
+        "num": 18301,
+        "word": "肆意少年突围开播",
+        "onboard_time": 1752263954,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14140,
+        "num": 18301,
+        "word": "权顺荣伴舞",
+        "onboard_time": 1752249142,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13957,
+        "num": 18301,
+        "word": "GAI表情",
+        "onboard_time": 1752244345,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13680,
+        "num": 18301,
+        "word": "吴青峰 小情歌",
+        "onboard_time": 1752245184,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#努力创作更多讴歌时代精神的精品电影#"
+    }
+  }
+}
