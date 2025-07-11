@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1752212823084,
+  "endTime": 1752215958515,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -539,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1419413,
+      "num": 1419413,
+      "word": "奶奶频繁亲吻孙子致其患亲吻病",
+      "onboard_time": 1752211042,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1418599,
       "num": 507079,
       "word": "抢档",
@@ -915,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1098282,
+      "num": 1098282,
+      "word": "牛在在梓渝直播",
+      "onboard_time": 1752212962,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1094365,
       "num": 1175098,
       "word": "张家界司机用生命救下一车韩国游客",
@@ -945,6 +961,14 @@
       "onboard_time": 1752119902,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1074916,
+      "num": 1074916,
+      "word": "女子在缅北遭持枪强迫卖淫",
+      "onboard_time": 1752213682,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1064761,
@@ -1025,14 +1049,6 @@
       "onboard_time": 1752043940,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1025591,
-      "num": 1164094,
-      "word": "奶奶频繁亲吻孙子致其患亲吻病",
-      "onboard_time": 1752211042,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1022980,
@@ -1905,6 +1921,14 @@
       "onboard_time": 1752118823,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 660675,
+      "num": 660675,
+      "word": "做美甲和不做美甲的都沉默了",
+      "onboard_time": 1752210502,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 659510,
@@ -3819,6 +3843,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 351039,
+      "num": 351039,
+      "word": "看口型就知道Angelababy有多开心",
+      "onboard_time": 1752212362,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 350379,
       "num": 350379,
       "word": "坐男友车致截瘫女生称二人网上相识",
@@ -3977,14 +4009,6 @@
       "onboard_time": 1751899044,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 337932,
-      "num": 337932,
-      "word": "做美甲和不做美甲的都沉默了",
-      "onboard_time": 1752210502,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 337699,
@@ -5611,6 +5635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 240674,
+      "num": 229745,
+      "word": "公务员带薪服刑绝对不行",
+      "onboard_time": 1752214582,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239884,
       "num": 239884,
       "word": "书卷一梦是he我们有救了",
@@ -5865,6 +5897,14 @@
       "onboard_time": 1752034284,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 232615,
+      "num": 232615,
+      "word": "李宇春妈妈把李宇春易拉宝拿回家",
+      "onboard_time": 1752214703,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 231408,
@@ -6451,6 +6491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 211439,
+      "num": 211439,
+      "word": "艾福杰尼开始减肥了",
+      "onboard_time": 1752215062,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210922,
       "num": 210922,
       "word": "郑州人民公园打人事件刑拘11人",
@@ -6572,7 +6620,7 @@
     },
     {
       "raw_hot": 207540,
-      "num": 207540,
+      "num": 258787,
       "word": "你的隐私正在快递单上裸奔",
       "onboard_time": 1752211761,
       "rank": 47,
@@ -6963,6 +7011,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 200284,
+      "num": 176143,
+      "word": "中国的垃圾被抢疯了",
+      "onboard_time": 1752213862,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200237,
       "num": 175773,
       "word": "买手机你还在纠结iOS和安卓吗",
@@ -7041,6 +7097,14 @@
       "onboard_time": 1752143423,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198592,
+      "num": 380204,
+      "word": "高中生见义勇为救学姐致人死亡",
+      "onboard_time": 1752214763,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 198375,
@@ -7259,6 +7323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195936,
+      "num": 195936,
+      "word": "王越说月经应该叫领导",
+      "onboard_time": 1752213682,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195883,
       "num": 195883,
       "word": "美国政商界上演真实版权力的游戏",
@@ -7305,14 +7377,6 @@
       "onboard_time": 1752033204,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 195106,
-      "num": 195106,
-      "word": "看口型就知道Angelababy有多开心",
-      "onboard_time": 1752212362,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 195069,
@@ -8052,7 +8116,7 @@
     },
     {
       "raw_hot": 183575,
-      "num": 183575,
+      "num": 208934,
       "word": "多家银行火速撤下养老贷",
       "onboard_time": 1752212302,
       "rank": 45,
@@ -9835,6 +9899,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 156944,
+      "num": 156944,
+      "word": "林诗栋蒯曼混双争冠",
+      "onboard_time": 1752215003,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156865,
       "num": 156865,
       "word": "女子躲商场过夜一大早再扫货偷盗",
@@ -10297,6 +10369,14 @@
       "onboard_time": 1752071605,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151418,
+      "num": 151418,
+      "word": "Clearlove疑似加入JDG",
+      "onboard_time": 1752213922,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 151395,
@@ -11099,6 +11179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143482,
+      "num": 143482,
+      "word": "孙颖莎回应海产姐妹状态",
+      "onboard_time": 1752215782,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143071,
       "num": 184115,
       "word": "苏新皓分享权志龙演唱会视频",
@@ -11291,6 +11379,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 141327,
+      "num": 141327,
+      "word": "谢霆锋你让我感到陌生",
+      "onboard_time": 1752213981,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 141316,
       "num": 450216,
       "word": "进口九价HPV疫苗男女可接种且防癌",
@@ -11353,6 +11449,14 @@
       "onboard_time": 1751979564,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140538,
+      "num": 195270,
+      "word": "白家拔掉底层电诈人员指甲",
+      "onboard_time": 1752212781,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140302,
@@ -12283,6 +12387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130892,
+      "num": 130892,
+      "word": "小wei在姿态直播间刷了虎牙一号",
+      "onboard_time": 1752214222,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 130841,
       "num": 183257,
       "word": "A股",
@@ -12649,6 +12761,14 @@
       "onboard_time": 1751872643,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127809,
+      "num": 127809,
+      "word": "A股猛拉",
+      "onboard_time": 1752215661,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 127793,
@@ -13305,6 +13425,14 @@
       "onboard_time": 1751830514,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122179,
+      "num": 122179,
+      "word": "王小利谈当代人啃老",
+      "onboard_time": 1752213442,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 122176,
@@ -15107,6 +15235,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105173,
+      "num": 142384,
+      "word": "世界之外回应BW排队问题",
+      "onboard_time": 1752215242,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 105166,
+      "num": 343954,
+      "word": "付航说我凉凉了",
+      "onboard_time": 1752212242,
+      "rank": 17,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 105086,
       "num": 105086,
       "word": "背书包的孙颖莎好可爱",
@@ -15913,22 +16057,6 @@
       "onboard_time": 1751790262,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 96556,
-      "num": 343954,
-      "word": "付航说我凉凉了",
-      "onboard_time": 1752212242,
-      "rank": 17,
-      "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 96251,
-      "num": 195270,
-      "word": "白家拔掉底层电诈人员指甲",
-      "onboard_time": 1752212781,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 96085,
@@ -18603,6 +18731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35587,
+      "num": 157364,
+      "word": "AI带娃强到离谱",
+      "onboard_time": 1752214102,
+      "rank": 33,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 34971,
       "num": 37835,
       "word": "21岁机车少年意外离世父亲发文悼念",
@@ -18888,6 +19024,14 @@
       "word": "6组数据看科技创新与制造业加速升级",
       "onboard_time": 1751981845,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28719,
+      "num": 142822,
+      "word": "715万牛郎织女雕塑",
+      "onboard_time": 1752214522,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
