@@ -1,6 +1,6 @@
 {
   "startTime": 1752165274435,
-  "endTime": 1752218898924,
+  "endTime": 1752219788199,
   "band_list": [
     {
       "raw_hot": 1989173,
@@ -27,6 +27,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1587132,
+      "num": 1587132,
+      "word": "鞠婧祎摔得好重",
+      "onboard_time": 1752216023,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1527077,
       "num": 1527077,
       "word": "仅退款群体画像",
@@ -51,8 +59,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1371153,
-      "num": 1098282,
+      "raw_hot": 1410240,
+      "num": 1410240,
       "word": "牛在在梓渝直播",
       "onboard_time": 1752212962,
       "rank": 1,
@@ -65,14 +73,6 @@
       "onboard_time": 1752201021,
       "rank": 15,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1303603,
-      "num": 1303603,
-      "word": "鞠婧祎摔得好重",
-      "onboard_time": 1752216023,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 1180122,
@@ -299,12 +299,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 483573,
+      "num": 483573,
+      "word": "3成人存款超过50万元",
+      "onboard_time": 1752216681,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 480820,
       "num": 480820,
       "word": "BLACKPINK空降",
       "onboard_time": 1752209483,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 479417,
+      "num": 378164,
+      "word": "苏醒为老婆庆30岁生日",
+      "onboard_time": 1752218725,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 478463,
@@ -320,14 +336,6 @@
       "word": "店员洗头时猥亵女顾客被拘",
       "onboard_time": 1752209123,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 473082,
-      "num": 244836,
-      "word": "3成人存款超过50万元",
-      "onboard_time": 1752216681,
-      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -427,20 +435,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 373469,
+      "num": 373469,
+      "word": "中国的垃圾被抢疯了",
+      "onboard_time": 1752213862,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 369525,
       "num": 407022,
       "word": "中餐厅合伙人首日开门迎客状况多",
       "onboard_time": 1752210744,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 361781,
-      "num": 361781,
-      "word": "中国的垃圾被抢疯了",
-      "onboard_time": 1752213862,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 358598,
@@ -465,6 +473,14 @@
       "onboard_time": 1752163282,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 346400,
+      "num": 254816,
+      "word": "梓渝直接上手",
+      "onboard_time": 1752219024,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 345602,
@@ -555,6 +571,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 298745,
+      "num": 298745,
+      "word": "张杰谢娜帮马嘉祺参考歌手选曲",
+      "onboard_time": 1752219146,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 294800,
       "num": 294800,
       "word": "孙颖莎女单止步16强",
@@ -568,6 +592,14 @@
       "word": "赵丽颖中餐厅合伙人",
       "onboard_time": 1752211761,
       "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 284202,
+      "num": 254648,
+      "word": "药物化男性",
+      "onboard_time": 1752218604,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -603,6 +635,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 269661,
+      "num": 253994,
+      "word": "上班族7月就要这样请假",
+      "onboard_time": 1752217824,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 263361,
       "num": 356352,
       "word": "母亲给高三女儿买聪明药致成瘾吸毒",
@@ -633,6 +673,14 @@
       "onboard_time": 1752201021,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 254469,
+      "num": 254469,
+      "word": "你好星期六",
+      "onboard_time": 1752210562,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 249089,
@@ -667,6 +715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 235046,
+      "num": 235046,
+      "word": "关晓彤把造型师发配边疆好吗",
+      "onboard_time": 1752217341,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232615,
       "num": 232615,
       "word": "李宇春妈妈把李宇春易拉宝拿回家",
@@ -697,6 +753,14 @@
       "onboard_time": 1752212603,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 218241,
+      "num": 218241,
+      "word": "孙颖莎说我来护你",
+      "onboard_time": 1752219445,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 217692,
@@ -769,14 +833,6 @@
       "onboard_time": 1752209483,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 208367,
-      "num": 208367,
-      "word": "关晓彤把造型师发配边疆好吗",
-      "onboard_time": 1752217341,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 207326,
@@ -859,6 +915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197729,
+      "num": 197729,
+      "word": "微信账户2年被朋友扫码盗走19万",
+      "onboard_time": 1752217341,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 197489,
       "num": 197489,
       "word": "网曝多家银行迟迟未发放年终奖",
@@ -931,14 +995,6 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 192190,
-      "num": 192190,
-      "word": "上班族7月就要这样请假",
-      "onboard_time": 1752217824,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 191687,
       "num": 207809,
       "word": "缅北白所成等21人被提起公诉",
@@ -963,20 +1019,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 190211,
-      "num": 190211,
-      "word": "药物化男性",
-      "onboard_time": 1752218604,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 188081,
-      "num": 188081,
-      "word": "你好星期六",
-      "onboard_time": 1752210562,
-      "rank": 37,
-      "category": "综艺"
+      "raw_hot": 189543,
+      "num": 189543,
+      "word": "肖战新的口播",
+      "onboard_time": 1752219265,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 188005,
@@ -1035,6 +1083,22 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 181188,
+      "num": 181188,
+      "word": "兔墨大战",
+      "onboard_time": 1752218963,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 180991,
+      "num": 180991,
+      "word": "厦门暴雨",
+      "onboard_time": 1752218963,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 180430,
       "num": 192869,
       "word": "好利来 光夜",
@@ -1067,12 +1131,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 176767,
-      "num": 176767,
-      "word": "苏醒为老婆庆30岁生日",
-      "onboard_time": 1752218725,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 173847,
+      "num": 173847,
+      "word": "利剑玫瑰顶级剧宣",
+      "onboard_time": 1752217341,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 173025,
@@ -1107,6 +1171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170072,
+      "num": 254881,
+      "word": "2元的花种真能包邮送到雪山下吗",
+      "onboard_time": 1752219324,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169944,
       "num": 169944,
       "word": "张凌赫真校草演校草",
@@ -1123,12 +1195,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 167775,
-      "num": 167775,
-      "word": "微信账户2年被朋友扫码盗走19万",
-      "onboard_time": 1752217341,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 164627,
+      "num": 164627,
+      "word": "就这个阴湿恶女味爽",
+      "onboard_time": 1752218664,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 164219,
@@ -1153,14 +1225,6 @@
       "onboard_time": 1752204741,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 159837,
-      "num": 159837,
-      "word": "利剑玫瑰顶级剧宣",
-      "onboard_time": 1752217341,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 159776,
@@ -1201,14 +1265,6 @@
       "onboard_time": 1752211583,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 151168,
-      "num": 151168,
-      "word": "就这个阴湿恶女味爽",
-      "onboard_time": 1752218664,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 150686,
@@ -1329,6 +1385,14 @@
       "onboard_time": 1752154043,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135336,
+      "num": 378958,
+      "word": "尚界上场",
+      "onboard_time": 1752218363,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 135210,
@@ -1459,6 +1523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109342,
+      "num": 181396,
+      "word": "日本排外浪潮",
+      "onboard_time": 1752219265,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 109122,
       "num": 109122,
       "word": "司机用生命救下一车游客亲属发声",
@@ -1473,6 +1545,14 @@
       "onboard_time": 1752193942,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 107264,
+      "num": 245185,
+      "word": "央视曝光电诈园区系统化虐待手段",
+      "onboard_time": 1752218483,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105173,
@@ -1697,14 +1777,6 @@
       "onboard_time": 1752211882,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 86897,
-      "num": 214497,
-      "word": "尚界上场",
-      "onboard_time": 1752218363,
-      "rank": 25,
-      "category": "汽车"
     },
     {
       "raw_hot": 86444,
@@ -1963,14 +2035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 42699,
-      "num": 245185,
-      "word": "央视曝光电诈园区系统化虐待手段",
-      "onboard_time": 1752218483,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 41914,
       "num": 140350,
       "word": "上大学让我忘了原本不富裕的家庭",
@@ -1996,7 +2060,7 @@
     },
     {
       "raw_hot": 39402,
-      "num": 99809,
+      "num": 181018,
       "word": "中国泳将强势出征",
       "onboard_time": 1752216444,
       "rank": 43,
@@ -2147,6 +2211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 22110,
+      "num": 183246,
+      "word": "星穹铁道理想燃烧的地狱",
+      "onboard_time": 1752219324,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 21836,
       "num": 40129,
       "word": "王俊凯出任电竞世界杯中国唯一大使",
@@ -2219,6 +2291,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 14536,
+      "num": 181245,
+      "word": "张朝阳对话诺奖物理学家格罗斯",
+      "onboard_time": 1752217283,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14160,
       "num": 17047,
       "word": "我的母亲",
@@ -2235,20 +2315,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12840,
-      "num": 160521,
-      "word": "张朝阳对话诺奖物理学家格罗斯",
-      "onboard_time": 1752217283,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 12760,
       "num": 41374,
       "word": "嫦娥七号明年前后发射",
       "onboard_time": 1752173055,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12064,
+      "num": 199867,
+      "word": "广州一女生在出租房发现隐藏摄像头",
+      "onboard_time": 1752219683,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11095,
@@ -2268,7 +2348,7 @@
     },
     {
       "raw_hot": 8095,
-      "num": 1194090,
+      "num": 1416610,
       "word": "活力中国调研行",
       "onboard_time": 1752050482,
       "rank": 2,
