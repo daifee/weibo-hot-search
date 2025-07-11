@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752207121309,
+  "endTime": 1752209295447,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -497,6 +497,14 @@
       "onboard_time": 1752058522,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1787341,
+      "num": 1787341,
+      "word": "这个荔枝死了吗",
+      "onboard_time": 1752205943,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 1783718,
@@ -1516,7 +1524,7 @@
     },
     {
       "raw_hot": 1092484,
-      "num": 283362,
+      "num": 356071,
       "word": "允许关晓彤洗把脸就来走红毯",
       "onboard_time": 1752190159,
       "rank": 13,
@@ -1731,6 +1739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1000430,
+      "num": 1000430,
+      "word": "仅退款群体画像",
+      "onboard_time": 1752207262,
+      "rank": 3,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 998662,
       "num": 488577,
       "word": "离职半年了前领导还在使唤我",
@@ -1873,6 +1889,14 @@
       "onboard_time": 1751519542,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 950362,
+      "num": 950362,
+      "word": "jump",
+      "onboard_time": 1751733262,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 944944,
@@ -2497,14 +2521,6 @@
       "onboard_time": 1752123983,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 801657,
-      "num": 801657,
-      "word": "jump",
-      "onboard_time": 1751733262,
-      "rank": 16,
-      "category": "音乐"
     },
     {
       "raw_hot": 800706,
@@ -3179,6 +3195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 700527,
+      "num": 700527,
+      "word": "twice回归",
+      "onboard_time": 1752208463,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 700420,
       "num": 553543,
       "word": "捡到金世佳身份证当事人发声",
@@ -3745,14 +3769,6 @@
       "onboard_time": 1751374344,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 639176,
-      "num": 639176,
-      "word": "这个荔枝死了吗",
-      "onboard_time": 1752205943,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 639006,
@@ -5195,6 +5211,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 493381,
+      "num": 493381,
+      "word": "湘潭大学宿舍投毒案二审开庭",
+      "onboard_time": 1752205581,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 492812,
       "num": 306625,
       "word": "王安宇工作室 网盘",
@@ -5353,6 +5377,14 @@
       "onboard_time": 1751606302,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 471328,
+      "num": 471328,
+      "word": "店员猥亵女顾客店长称其私自上班",
+      "onboard_time": 1752207682,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 469998,
@@ -6228,7 +6260,7 @@
     },
     {
       "raw_hot": 410569,
-      "num": 257934,
+      "num": 276750,
       "word": "女子买菜错付2000元大爷称只看到5元",
       "onboard_time": 1752196940,
       "rank": 21,
@@ -6379,6 +6411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 401897,
+      "num": 401897,
+      "word": "微笑一号店",
+      "onboard_time": 1752207142,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 401710,
       "num": 401710,
       "word": "Angelababy带小海绵参加巴黎时装周",
@@ -6409,6 +6449,14 @@
       "onboard_time": 1751446524,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 397546,
+      "num": 397546,
+      "word": "孙悟空同款泳衣卖爆了",
+      "onboard_time": 1752208524,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 397250,
@@ -6643,14 +6691,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 381298,
-      "num": 381298,
-      "word": "湘潭大学宿舍投毒案二审开庭",
-      "onboard_time": 1752205581,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 380976,
       "num": 380976,
       "word": "张继科指导小孩哥一拍打了2000板",
@@ -6769,6 +6809,14 @@
       "onboard_time": 1751554584,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 374329,
+      "num": 374329,
+      "word": "王楚钦vs李尚洙",
+      "onboard_time": 1752205281,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 373882,
@@ -7355,14 +7403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 345056,
-      "num": 345056,
-      "word": "王楚钦vs李尚洙",
-      "onboard_time": 1752205281,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 345016,
       "num": 345016,
       "word": "拒绝填报清华北大遭怒骂",
@@ -7681,6 +7721,14 @@
       "onboard_time": 1751864367,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 332153,
+      "num": 332153,
+      "word": "杨瀚森王楚钦身高差",
+      "onboard_time": 1752208163,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 332002,
@@ -9235,6 +9283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 275438,
+      "num": 275438,
+      "word": "王鹤棣小兰花还有替身文学",
+      "onboard_time": 1752207923,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 275182,
       "num": 277916,
       "word": "生长痛",
@@ -10209,6 +10265,14 @@
       "onboard_time": 1751816423,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 249089,
+      "num": 249089,
+      "word": "早田希娜3比2张本美和",
+      "onboard_time": 1752207862,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 248888,
@@ -12443,6 +12507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 206333,
+      "num": 664448,
+      "word": "幼儿血铅异常事件谁是罪魁祸首",
+      "onboard_time": 1752208463,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 206118,
       "num": 206118,
       "word": "微软再裁员约9000人",
@@ -12480,6 +12552,14 @@
       "word": "田栩宁或将空降录制hi6",
       "onboard_time": 1751785821,
       "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 205982,
+      "num": 205982,
+      "word": "脱口秀和Ta的朋友们",
+      "onboard_time": 1752208644,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -12529,6 +12609,14 @@
       "onboard_time": 1751800824,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205486,
+      "num": 205486,
+      "word": "jump MV",
+      "onboard_time": 1752208822,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 205484,
@@ -13043,6 +13131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200470,
+      "num": 200470,
+      "word": "揽佬否认凭八方来财赚了1.2亿",
+      "onboard_time": 1752206663,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200467,
       "num": 200467,
       "word": "网红小黄豆力挺孙恩盛",
@@ -13201,6 +13297,14 @@
       "onboard_time": 1751715442,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198858,
+      "num": 198858,
+      "word": "王楚钦3比0李尚洙",
+      "onboard_time": 1752208104,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 198807,
@@ -14579,6 +14683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 187504,
+      "num": 187504,
+      "word": "夏日烟火游园会",
+      "onboard_time": 1752208644,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 187288,
       "num": 247033,
       "word": "断眉attention万人大合唱给我唱爽了",
@@ -15291,6 +15403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 179779,
+      "num": 179779,
+      "word": "微笑一号店直播",
+      "onboard_time": 1752209123,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179764,
       "num": 179764,
       "word": "水均益带2个孩子领身份证",
@@ -15393,6 +15513,14 @@
       "onboard_time": 1751601752,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 178673,
+      "num": 178673,
+      "word": "范丞丞李昀锐有自己的伞",
+      "onboard_time": 1752208822,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 178667,
@@ -16555,6 +16683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169944,
+      "num": 169944,
+      "word": "张凌赫真校草演校草",
+      "onboard_time": 1752208222,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169901,
       "num": 169901,
       "word": "考四级的我输给了骑手",
@@ -17177,6 +17313,14 @@
       "onboard_time": 1751533581,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164348,
+      "num": 164348,
+      "word": "店员洗头时猥亵女顾客被拘",
+      "onboard_time": 1752209123,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164227,
@@ -18043,6 +18187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157847,
+      "num": 157847,
+      "word": "朋友说昨晚进入平行世界了",
+      "onboard_time": 1752209002,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 157823,
       "num": 183785,
       "word": "李连杰说娱乐圈谁红谁坐C位",
@@ -18600,14 +18752,6 @@
       "word": "我同意金珉奎下次别穿",
       "onboard_time": 1751450661,
       "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 154030,
-      "num": 154030,
-      "word": "揽佬否认凭八方来财赚了1.2亿",
-      "onboard_time": 1752206663,
-      "rank": 43,
       "category": "艺人"
     },
     {
@@ -21201,6 +21345,14 @@
       "onboard_time": 1751552663,
       "rank": 45,
       "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 138961,
+      "num": 155355,
+      "word": "豆包生图太离谱了",
+      "onboard_time": 1752208885,
+      "rank": 49,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 138953,
@@ -26505,6 +26657,14 @@
       "onboard_time": 1751361981,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 112635,
+      "num": 249596,
+      "word": "中餐厅9粉丝二创已经nextlevel了",
+      "onboard_time": 1752201681,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 112624,
@@ -33387,6 +33547,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 47935,
+      "num": 188804,
+      "word": "秦彻天地共舞",
+      "onboard_time": 1752208584,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 47920,
       "num": 59612,
       "word": "有没有可能这才是真实世界",
@@ -36347,6 +36515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 16840,
+      "num": 356352,
+      "word": "母亲给高三女儿买聪明药致成瘾吸毒",
+      "onboard_time": 1752208942,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16775,
       "num": 33518,
       "word": "张雨霏透露可能回归200蝶",
@@ -36576,6 +36752,14 @@
       "word": "何妨把英女王像换成林则徐像",
       "onboard_time": 1751962941,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13866,
+      "num": 406706,
+      "word": "为涉黑母亲辩护的法官涉嫌洗钱罪被拘",
+      "onboard_time": 1752208283,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
