@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752190848841,
+  "endTime": 1752199686173,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -1475,12 +1475,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1094365,
+      "num": 1175098,
+      "word": "张家界司机用生命救下一车韩国游客",
+      "onboard_time": 1752192442,
+      "rank": 0,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 1092991,
       "num": 1092991,
       "word": "高考288分竟是带货剧本",
       "onboard_time": 1751440642,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1092484,
+      "num": 283362,
+      "word": "允许关晓彤洗把脸就来走红毯",
+      "onboard_time": 1752190159,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1089695,
@@ -2875,6 +2891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 724996,
+      "num": 724996,
+      "word": "小兰花自戕前的第一句话",
+      "onboard_time": 1752194722,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 724666,
       "num": 467047,
       "word": "痛经假",
@@ -4264,6 +4288,14 @@
       "word": "男童扁桃体术后脑死亡医院称已告知风险",
       "onboard_time": 1752147743,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 579143,
+      "num": 579143,
+      "word": "退休教师奶奶辅导孙子作业燃起来了",
+      "onboard_time": 1752193702,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -6115,6 +6147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 410569,
+      "num": 224489,
+      "word": "女子买菜错付2000元大爷称只看到5元",
+      "onboard_time": 1752196940,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 410537,
       "num": 410597,
       "word": "中国要像手机一样造战斗机",
@@ -6387,6 +6427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 390372,
+      "num": 390372,
+      "word": "表妹万福今天开机",
+      "onboard_time": 1752199100,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 390272,
       "num": 285581,
       "word": "何惟芳蒋长扬亲好猛",
@@ -6609,6 +6657,14 @@
       "onboard_time": 1751298142,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 375066,
+      "num": 375066,
+      "word": "AL对战BLG",
+      "onboard_time": 1752198501,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 374750,
@@ -7473,6 +7529,14 @@
       "onboard_time": 1751352742,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 333682,
+      "num": 333682,
+      "word": "研究生给室友投毒致死后销毁物证",
+      "onboard_time": 1752191541,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 333238,
@@ -8611,6 +8675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 289383,
+      "num": 289383,
+      "word": "贾斯汀比伯新专辑空降",
+      "onboard_time": 1752198680,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 289168,
       "num": 400234,
       "word": "高校招聘第二名举报第一名不符合条件",
@@ -8793,14 +8865,6 @@
       "onboard_time": 1751769082,
       "rank": 22,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 283362,
-      "num": 283362,
-      "word": "允许关晓彤洗把脸就来走红毯",
-      "onboard_time": 1752190159,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 283308,
@@ -9539,6 +9603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 262673,
+      "num": 262673,
+      "word": "超级三伏天",
+      "onboard_time": 1752190159,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 262502,
       "num": 262502,
       "word": "以法之名暑期剧档高开疯走",
@@ -9865,6 +9937,14 @@
       "onboard_time": 1751946562,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 252686,
+      "num": 361586,
+      "word": "加沙4个婴儿挤一个保温箱",
+      "onboard_time": 1752194363,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 252217,
@@ -10241,6 +10321,14 @@
       "onboard_time": 1751515162,
       "rank": 33,
       "category": "汽车,财经"
+    },
+    {
+      "raw_hot": 241688,
+      "num": 241688,
+      "word": "陈熠回应战胜孙颖莎",
+      "onboard_time": 1752192381,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 240924,
@@ -11057,6 +11145,14 @@
       "onboard_time": 1752111682,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 225445,
+      "num": 225445,
+      "word": "孙颖莎王曼昱vs申裕斌杜凯琹",
+      "onboard_time": 1752197960,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 225179,
@@ -12227,6 +12323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205751,
+      "num": 203206,
+      "word": "睡前太饿可以吃6种食物",
+      "onboard_time": 1752195262,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 205707,
       "num": 205707,
       "word": "给韩红一个爱豆她还你一个兵",
@@ -12433,6 +12537,14 @@
       "onboard_time": 1751705301,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203593,
+      "num": 203593,
+      "word": "泡张凌赫很难吗",
+      "onboard_time": 1752197660,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 203581,
@@ -12745,6 +12857,14 @@
       "onboard_time": 1751807967,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200467,
+      "num": 200467,
+      "word": "网红小黄豆力挺孙恩盛",
+      "onboard_time": 1752196761,
+      "rank": 26,
+      "category": "网红"
     },
     {
       "raw_hot": 200237,
@@ -13083,6 +13203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 197489,
+      "num": 197489,
+      "word": "网曝多家银行迟迟未发放年终奖",
+      "onboard_time": 1752196882,
+      "rank": 27,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 197402,
       "num": 197402,
       "word": "每天只睡6小时身体会怎样",
@@ -13411,6 +13539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 194625,
+      "num": 194625,
+      "word": "豆腐妹妹称遭性侵曾4次自杀",
+      "onboard_time": 1752190701,
+      "rank": 45,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 194585,
       "num": 194585,
       "word": "第二个逼疯摄影师的节目嘉宾出现了",
@@ -13521,6 +13657,14 @@
       "onboard_time": 1751642184,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 193442,
+      "num": 193442,
+      "word": "中国航海日看中国的航空母舰",
+      "onboard_time": 1752194783,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 193436,
@@ -14089,6 +14233,14 @@
       "onboard_time": 1751902223,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 188346,
+      "num": 224499,
+      "word": "王俊凯在沙特帅成这样",
+      "onboard_time": 1752199221,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 188280,
@@ -15955,6 +16107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 171747,
+      "num": 171747,
+      "word": "特朗普称对加拿大征收35%关税",
+      "onboard_time": 1752196342,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 171743,
       "num": 171743,
       "word": "A股重大突破",
@@ -16673,6 +16833,14 @@
       "onboard_time": 1751372061,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165138,
+      "num": 165138,
+      "word": "坐男友车致截瘫女生称二人网上相识",
+      "onboard_time": 1752196581,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165027,
@@ -20043,6 +20211,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 142934,
+      "num": 142934,
+      "word": "南非女船员在富豪游艇上遭割喉杀害",
+      "onboard_time": 1752192743,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 142886,
       "num": 142886,
       "word": "九江中考客观题计分出错",
@@ -21403,6 +21579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135210,
+      "num": 135210,
+      "word": "00后消防员赶考路上折返灭火",
+      "onboard_time": 1752192442,
+      "rank": 38,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 135091,
       "num": 135091,
       "word": "王影璐献鱼古装路透自带仙感",
@@ -22137,6 +22321,14 @@
       "onboard_time": 1751946082,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131341,
+      "num": 131341,
+      "word": "美国橙汁要涨价了",
+      "onboard_time": 1752196882,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 131333,
@@ -26747,20 +26939,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 109168,
-      "num": 109168,
-      "word": "超级三伏天",
-      "onboard_time": 1752190159,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 109147,
       "num": 109147,
       "word": "跑外卖3天吃了15顿",
       "onboard_time": 1751935943,
       "rank": 40,
       "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 109122,
+      "num": 109122,
+      "word": "司机用生命救下一车游客亲属发声",
+      "onboard_time": 1752199161,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109014,
@@ -26929,6 +27121,14 @@
       "onboard_time": 1751362702,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 108109,
+      "num": 108109,
+      "word": "日本艺伎文化真相",
+      "onboard_time": 1752193942,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 108082,
@@ -27515,6 +27715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 104989,
+      "num": 104989,
+      "word": "涉事单位回应落马副局长使用前身份",
+      "onboard_time": 1752195562,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104900,
       "num": 104900,
       "word": "邓紫棋睡公主好像一个小手办",
@@ -27755,6 +27963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103620,
+      "num": 103620,
+      "word": "三伏天为啥要多吃蔬果",
+      "onboard_time": 1752199460,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 103606,
       "num": 103606,
       "word": "刘学义回应跟孟子义合体",
@@ -27865,6 +28081,14 @@
       "onboard_time": 1751445261,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 102915,
+      "num": 102915,
+      "word": "七月的一天通告单上写着田栩宁",
+      "onboard_time": 1752190641,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 102910,
@@ -28441,6 +28665,14 @@
       "onboard_time": 1751614223,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 99416,
+      "num": 99416,
+      "word": "陈龙突击检查父母开空调",
+      "onboard_time": 1752198441,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 99398,
@@ -29147,6 +29379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93017,
+      "num": 93017,
+      "word": "蒯曼vs郑怡静",
+      "onboard_time": 1752199100,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92973,
       "num": 308207,
       "word": "巴黎世家高定",
@@ -29201,6 +29441,14 @@
       "onboard_time": 1752051503,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92666,
+      "num": 134344,
+      "word": "杨丞琳晒照祝李荣浩生日快乐",
+      "onboard_time": 1752190641,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 92665,
@@ -30707,14 +30955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 75232,
-      "num": 75232,
-      "word": "豆腐妹妹称遭性侵曾4次自杀",
-      "onboard_time": 1752190701,
-      "rank": 45,
-      "category": "网红,民生新闻"
-    },
-    {
       "raw_hot": 75056,
       "num": 528505,
       "word": "U16国足第三",
@@ -30897,14 +31137,6 @@
       "onboard_time": 1751535562,
       "rank": 18,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 72316,
-      "num": 72316,
-      "word": "七月的一天通告单上写着田栩宁",
-      "onboard_time": 1752190641,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 72264,
@@ -31721,14 +31953,6 @@
       "onboard_time": 1752102138,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 63374,
-      "num": 134344,
-      "word": "杨丞琳晒照祝李荣浩生日快乐",
-      "onboard_time": 1752190641,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 63359,
@@ -33057,6 +33281,14 @@
       "onboard_time": 1751844079,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 45431,
+      "num": 132685,
+      "word": "国乒今天要打12场比赛",
+      "onboard_time": 1752198621,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 45396,

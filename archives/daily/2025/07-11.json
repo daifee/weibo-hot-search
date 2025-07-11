@@ -1,6 +1,6 @@
 {
   "startTime": 1752165274435,
-  "endTime": 1752190848841,
+  "endTime": 1752199686173,
   "band_list": [
     {
       "raw_hot": 1989173,
@@ -9,6 +9,22 @@
       "onboard_time": 1752188718,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1094365,
+      "num": 1175098,
+      "word": "张家界司机用生命救下一车韩国游客",
+      "onboard_time": 1752192442,
+      "rank": 0,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 1092484,
+      "num": 283362,
+      "word": "允许关晓彤洗把脸就来走红毯",
+      "onboard_time": 1752190159,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 843387,
@@ -20,7 +36,7 @@
     },
     {
       "raw_hot": 817543,
-      "num": 284559,
+      "num": 316381,
       "word": "田栩宁通告被取消了",
       "onboard_time": 1752157826,
       "rank": 10,
@@ -35,8 +51,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 724996,
+      "num": 724996,
+      "word": "小兰花自戕前的第一句话",
+      "onboard_time": 1752194722,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 707166,
-      "num": 287293,
+      "num": 361196,
       "word": "闲鱼就是一个巨大的人间世",
       "onboard_time": 1752148642,
       "rank": 11,
@@ -59,6 +83,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 579143,
+      "num": 579143,
+      "word": "退休教师奶奶辅导孙子作业燃起来了",
+      "onboard_time": 1752193702,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 478463,
       "num": 478463,
       "word": "女子常穿洞洞鞋致足底钙化行走困难",
@@ -73,6 +105,22 @@
       "onboard_time": 1752155544,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 425983,
+      "num": 425983,
+      "word": "成都暴雨",
+      "onboard_time": 1752195322,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 410569,
+      "num": 224489,
+      "word": "女子买菜错付2000元大爷称只看到5元",
+      "onboard_time": 1752196940,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 406755,
@@ -91,12 +139,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 390372,
+      "num": 390372,
+      "word": "表妹万福今天开机",
+      "onboard_time": 1752199100,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 384674,
       "num": 288577,
       "word": "葛荟婕回应女儿小苹果不找她",
       "onboard_time": 1752188718,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 375066,
+      "num": 375066,
+      "word": "AL对战BLG",
+      "onboard_time": 1752198501,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 358598,
@@ -112,6 +176,14 @@
       "word": "干部出轨他人妻子或被开除",
       "onboard_time": 1752163282,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 333682,
+      "num": 333682,
+      "word": "研究生给室友投毒致死后销毁物证",
+      "onboard_time": 1752191541,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -139,12 +211,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 283362,
-      "num": 283362,
-      "word": "允许关晓彤洗把脸就来走红毯",
-      "onboard_time": 1752190159,
-      "rank": 13,
-      "category": "艺人"
+      "raw_hot": 289383,
+      "num": 289383,
+      "word": "贾斯汀比伯新专辑空降",
+      "onboard_time": 1752198680,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 274061,
@@ -155,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 262673,
+      "num": 262673,
+      "word": "超级三伏天",
+      "onboard_time": 1752190159,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 259265,
       "num": 259265,
       "word": "中国军方未使用激光瞄准德国飞机",
@@ -163,12 +243,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 252686,
+      "num": 361586,
+      "word": "加沙4个婴儿挤一个保温箱",
+      "onboard_time": 1752194363,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 241688,
+      "num": 241688,
+      "word": "陈熠回应战胜孙颖莎",
+      "onboard_time": 1752192381,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 231733,
       "num": 231733,
       "word": "梓渝微博粉丝破500万",
       "onboard_time": 1752160525,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 225445,
+      "num": 225445,
+      "word": "孙颖莎王曼昱vs申裕斌杜凯琹",
+      "onboard_time": 1752197960,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 225245,
@@ -187,12 +291,52 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205751,
+      "num": 203206,
+      "word": "睡前太饿可以吃6种食物",
+      "onboard_time": 1752195262,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 204847,
       "num": 204847,
       "word": "多方回应医院被指暴力接生",
       "onboard_time": 1752162204,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203593,
+      "num": 203593,
+      "word": "泡张凌赫很难吗",
+      "onboard_time": 1752197660,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 200467,
+      "num": 200467,
+      "word": "网红小黄豆力挺孙恩盛",
+      "onboard_time": 1752196761,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 197489,
+      "num": 197489,
+      "word": "网曝多家银行迟迟未发放年终奖",
+      "onboard_time": 1752196882,
+      "rank": 27,
+      "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 194625,
+      "num": 194625,
+      "word": "豆腐妹妹称遭性侵曾4次自杀",
+      "onboard_time": 1752190701,
+      "rank": 45,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 194000,
@@ -203,12 +347,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193442,
+      "num": 193442,
+      "word": "中国航海日看中国的航空母舰",
+      "onboard_time": 1752194783,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 190723,
       "num": 205804,
       "word": "陈熠晋级美国大满贯8强",
       "onboard_time": 1752189139,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188346,
+      "num": 224499,
+      "word": "王俊凯在沙特帅成这样",
+      "onboard_time": 1752199221,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 181292,
@@ -225,6 +385,22 @@
       "onboard_time": 1752160464,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171747,
+      "num": 171747,
+      "word": "特朗普称对加拿大征收35%关税",
+      "onboard_time": 1752196342,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 165138,
+      "num": 165138,
+      "word": "坐男友车致截瘫女生称二人网上相识",
+      "onboard_time": 1752196581,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 163731,
@@ -283,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142934,
+      "num": 142934,
+      "word": "南非女船员在富豪游艇上遭割喉杀害",
+      "onboard_time": 1752192743,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 139519,
       "num": 139519,
       "word": "国足出征东亚杯托运140件行李",
@@ -315,11 +499,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135210,
+      "num": 135210,
+      "word": "00后消防员赶考路上折返灭火",
+      "onboard_time": 1752192442,
+      "rank": 38,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 134299,
       "num": 134299,
       "word": "巴西总统对美强硬表态",
       "onboard_time": 1752187277,
       "rank": 25,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 131341,
+      "num": 131341,
+      "word": "美国橙汁要涨价了",
+      "onboard_time": 1752196882,
+      "rank": 40,
       "category": "国际时政"
     },
     {
@@ -347,12 +547,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 109168,
-      "num": 109168,
-      "word": "超级三伏天",
-      "onboard_time": 1752190159,
-      "rank": 35,
-      "category": "健康医疗"
+      "raw_hot": 109122,
+      "num": 109122,
+      "word": "司机用生命救下一车游客亲属发声",
+      "onboard_time": 1752199161,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108109,
+      "num": 108109,
+      "word": "日本艺伎文化真相",
+      "onboard_time": 1752193942,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 104989,
+      "num": 104989,
+      "word": "涉事单位回应落马副局长使用前身份",
+      "onboard_time": 1752195562,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104788,
@@ -371,6 +587,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 103620,
+      "num": 103620,
+      "word": "三伏天为啥要多吃蔬果",
+      "onboard_time": 1752199460,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 103364,
       "num": 67383,
       "word": "黑马做双眼皮手术",
@@ -387,12 +611,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102915,
+      "num": 102915,
+      "word": "七月的一天通告单上写着田栩宁",
+      "onboard_time": 1752190641,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100907,
       "num": 100907,
       "word": "理发店给男子灌肠涉嫌犯罪",
       "onboard_time": 1752143484,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99416,
+      "num": 99416,
+      "word": "陈龙突击检查父母开空调",
+      "onboard_time": 1752198441,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 98013,
@@ -417,6 +657,22 @@
       "onboard_time": 1752156503,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 93017,
+      "num": 93017,
+      "word": "蒯曼vs郑怡静",
+      "onboard_time": 1752199100,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 92666,
+      "num": 134344,
+      "word": "杨丞琳晒照祝李荣浩生日快乐",
+      "onboard_time": 1752190641,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 90675,
@@ -531,14 +787,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 75232,
-      "num": 75232,
-      "word": "豆腐妹妹称遭性侵曾4次自杀",
-      "onboard_time": 1752190701,
-      "rank": 45,
-      "category": "网红,民生新闻"
-    },
-    {
       "raw_hot": 74850,
       "num": 74850,
       "word": "京城大师赛",
@@ -569,14 +817,6 @@
       "onboard_time": 1752159686,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 72316,
-      "num": 72316,
-      "word": "七月的一天通告单上写着田栩宁",
-      "onboard_time": 1752190641,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 71323,
@@ -611,14 +851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 63374,
-      "num": 134344,
-      "word": "杨丞琳晒照祝李荣浩生日快乐",
-      "onboard_time": 1752190641,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 57649,
       "num": 57649,
       "word": "马国明用2000条短信追求汤洛雯",
@@ -648,6 +880,14 @@
       "word": "林昀儒郑怡静3比2松岛辉空张本美和",
       "onboard_time": 1752189859,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 45431,
+      "num": 132685,
+      "word": "国乒今天要打12场比赛",
+      "onboard_time": 1752198621,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -699,20 +939,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37036,
+      "num": 621218,
+      "word": "五个新说透102项重大工程看点",
+      "onboard_time": 1752158005,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 36832,
       "num": 196883,
       "word": "谢霆锋妹妹举办迎婴派对",
       "onboard_time": 1752156565,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 36827,
-      "num": 607554,
-      "word": "五个新说透102项重大工程看点",
-      "onboard_time": 1752158005,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 28562,
