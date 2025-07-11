@@ -1,6 +1,6 @@
 {
   "startTime": 1752165274435,
-  "endTime": 1752201203630,
+  "endTime": 1752206541710,
   "band_list": [
     {
       "raw_hot": 1989173,
@@ -9,6 +9,30 @@
       "onboard_time": 1752188718,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1309888,
+      "num": 1309888,
+      "word": "父母离婚没人管小孩商场玩手机",
+      "onboard_time": 1752201021,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1225119,
+      "num": 1225119,
+      "word": "樱桃琥珀定档",
+      "onboard_time": 1752204741,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1180122,
+      "num": 1180122,
+      "word": "白家涉诈资金超106亿元",
+      "onboard_time": 1752203480,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1094365,
@@ -25,6 +49,14 @@
       "onboard_time": 1752190159,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 970099,
+      "num": 970099,
+      "word": "Bin哥骗我",
+      "onboard_time": 1752203901,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 929021,
@@ -51,6 +83,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 758225,
+      "num": 386051,
+      "word": "陈奕迅凌晨去北京吃烤鸭",
+      "onboard_time": 1752204862,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 735299,
       "num": 735299,
       "word": "王曼昱1比3朱雨玲",
@@ -73,6 +113,14 @@
       "onboard_time": 1752148642,
       "rank": 11,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 678784,
+      "num": 678784,
+      "word": "缅北白家开发建设41个大型赌诈园区",
+      "onboard_time": 1752203480,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 651178,
@@ -132,7 +180,7 @@
     },
     {
       "raw_hot": 410569,
-      "num": 224489,
+      "num": 247195,
       "word": "女子买菜错付2000元大爷称只看到5元",
       "onboard_time": 1752196940,
       "rank": 21,
@@ -153,6 +201,14 @@
       "onboard_time": 1752153443,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 386104,
+      "num": 386104,
+      "word": "王晶评刘亦菲观众缘可媲美赵雅芝",
+      "onboard_time": 1752200839,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 384674,
@@ -179,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 350379,
+      "num": 350379,
+      "word": "坐男友车致截瘫女生称二人网上相识",
+      "onboard_time": 1752196581,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 349960,
       "num": 349960,
       "word": "干部出轨他人妻子或被开除",
@@ -195,12 +259,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 331509,
+      "num": 331509,
+      "word": "这个荔枝死了吗",
+      "onboard_time": 1752205943,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 328226,
       "num": 328226,
       "word": "不建议带着饥饿感入睡",
       "onboard_time": 1752151703,
       "rank": 5,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 319175,
+      "num": 319175,
+      "word": "缅北白家明家覆灭时间线",
+      "onboard_time": 1752203301,
+      "rank": 15,
+      "category": "国内时政"
     },
     {
       "raw_hot": 312639,
@@ -211,12 +291,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 311066,
-      "num": 311066,
-      "word": "坐男友车致截瘫女生称二人网上相识",
-      "onboard_time": 1752196581,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 311865,
+      "num": 311865,
+      "word": "jump",
+      "onboard_time": 1752205702,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 307147,
@@ -225,6 +305,14 @@
       "onboard_time": 1752198680,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 304706,
+      "num": 304706,
+      "word": "BLG遗憾止步MSI",
+      "onboard_time": 1752203601,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 301600,
@@ -251,12 +339,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 284620,
-      "num": 284620,
-      "word": "父母离婚没人管小孩商场玩手机",
+      "raw_hot": 279714,
+      "num": 279714,
+      "word": "王菲窦靖童合唱OST",
+      "onboard_time": 1752205281,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 276585,
+      "num": 247287,
+      "word": "女生撬开生蚝发现小螃蟹",
       "onboard_time": 1752201021,
-      "rank": 15,
-      "category": "情感"
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 274061,
@@ -283,6 +379,38 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 256448,
+      "num": 256448,
+      "word": "王楚钦vs李尚洙",
+      "onboard_time": 1752205281,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 255709,
+      "num": 255709,
+      "word": "朱雨玲曾是国乒世界第一",
+      "onboard_time": 1752201021,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 247837,
+      "num": 247837,
+      "word": "Bin首次无缘MSI决赛",
+      "onboard_time": 1752204082,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 246397,
+      "num": 246397,
+      "word": "杨幂欧豪生万物暑假开播",
+      "onboard_time": 1752202822,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 241688,
       "num": 241688,
       "word": "陈熠回应战胜孙颖莎",
@@ -307,12 +435,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 222247,
-      "num": 222247,
-      "word": "朱雨玲曾是国乒世界第一",
-      "onboard_time": 1752201021,
-      "rank": 22,
-      "category": "体育"
+      "raw_hot": 215501,
+      "num": 215501,
+      "word": "最好吃的荔枝排名",
+      "onboard_time": 1752204622,
+      "rank": 28,
+      "category": "美食"
     },
     {
       "raw_hot": 215320,
@@ -331,14 +459,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 206327,
-      "num": 206327,
-      "word": "王晶评刘亦菲观众缘可媲美赵雅芝",
-      "onboard_time": 1752200839,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 204847,
       "num": 204847,
       "word": "多方回应医院被指暴力接生",
@@ -355,12 +475,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202264,
+      "num": 202264,
+      "word": "AL零封BLG",
+      "onboard_time": 1752205281,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 200467,
       "num": 200467,
       "word": "网红小黄豆力挺孙恩盛",
       "onboard_time": 1752196761,
       "rank": 26,
       "category": "网红"
+    },
+    {
+      "raw_hot": 198033,
+      "num": 204370,
+      "word": "弗拉格21投5中",
+      "onboard_time": 1752205822,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 197489,
@@ -419,6 +555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190295,
+      "num": 190295,
+      "word": "四十年的蛋挞殴打三十年的周深",
+      "onboard_time": 1752205882,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188005,
       "num": 194403,
       "word": "表妹万福",
@@ -427,12 +571,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186361,
+      "num": 186361,
+      "word": "减肥黄金30天马上开始",
+      "onboard_time": 1752206002,
+      "rank": 35,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 185858,
+      "num": 185858,
+      "word": "坐车致截瘫女生称遭1分钱转账轰炸",
+      "onboard_time": 1752199999,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181292,
       "num": 181292,
       "word": "网约车空调费之争该如何解",
       "onboard_time": 1752165140,
       "rank": 34,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 179092,
+      "num": 179092,
+      "word": "樱桃琥珀青春群像版预告",
+      "onboard_time": 1752201021,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 172769,
@@ -451,11 +619,43 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 170558,
+      "num": 170558,
+      "word": "沈腾贾冰已经不知天地为何物了",
+      "onboard_time": 1752202822,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 168390,
+      "num": 168390,
+      "word": "樱桃琥珀",
+      "onboard_time": 1752204382,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 166695,
+      "num": 166695,
+      "word": "高叶一个月两部戏的含金量",
+      "onboard_time": 1752206363,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163731,
       "num": 163731,
       "word": "孙颖莎女双赛场继续加油",
       "onboard_time": 1752189559,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 163144,
+      "num": 163144,
+      "word": "国乒男单仅剩王楚钦林诗栋",
+      "onboard_time": 1752204741,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -491,6 +691,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 148596,
+      "num": 148596,
+      "word": "特朗普对非洲领导人极不耐烦",
+      "onboard_time": 1752200960,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 147149,
       "num": 220782,
       "word": "杨少华九平米房子住了一家六口",
@@ -504,6 +712,14 @@
       "word": "兰州人才引进20岁女硕士",
       "onboard_time": 1752152002,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142956,
+      "num": 142956,
+      "word": "武汉地铁黑人男子不文明行为",
+      "onboard_time": 1752206002,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -521,14 +737,6 @@
       "onboard_time": 1752157643,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 138805,
-      "num": 138805,
-      "word": "特朗普对非洲领导人极不耐烦",
-      "onboard_time": 1752200960,
-      "rank": 36,
-      "category": "国际时政"
     },
     {
       "raw_hot": 137441,
@@ -579,22 +787,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 128728,
-      "num": 128728,
-      "word": "樱桃琥珀青春群像版预告",
-      "onboard_time": 1752201021,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 127594,
-      "num": 127594,
-      "word": "坐车致截瘫女生称遭1分钱转账轰炸",
-      "onboard_time": 1752199999,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124773,
       "num": 124773,
       "word": "终于懂碰到熟人为什么能聊半天了",
@@ -611,12 +803,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 117634,
-      "num": 117634,
-      "word": "女生撬开生蚝发现小螃蟹",
-      "onboard_time": 1752201021,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 115850,
+      "num": 205350,
+      "word": "杨瀚森为王楚钦比赛挑边",
+      "onboard_time": 1752205523,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 113782,
@@ -867,6 +1059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 81064,
+      "num": 322640,
+      "word": "湘潭大学宿舍投毒案二审开庭",
+      "onboard_time": 1752205581,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79155,
       "num": 79155,
       "word": "黄仁俊演唱会solo舞台",
@@ -1059,6 +1259,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 36992,
+      "num": 174198,
+      "word": "我跟AI聊过你",
+      "onboard_time": 1752205402,
+      "rank": 39,
+      "category": "情感,互联网"
+    },
+    {
       "raw_hot": 36832,
       "num": 196883,
       "word": "谢霆锋妹妹举办迎婴派对",
@@ -1121,6 +1329,14 @@
       "onboard_time": 1752173234,
       "rank": 47,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 20117,
+      "num": 140350,
+      "word": "上大学让我忘了原本不富裕的家庭",
+      "onboard_time": 1752206483,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 19755,
@@ -1201,6 +1417,14 @@
       "onboard_time": 1752190761,
       "rank": 39,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 7110,
+      "num": 1185021,
+      "word": "中国经济解锁这些新成就",
+      "onboard_time": 1752206483,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
