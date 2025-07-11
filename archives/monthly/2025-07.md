@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/11 21:50:23
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/11 22:27:29
 </p>
 </blockquote>
 <p>
@@ -35,6 +35,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E7%BA%A2%E8%80%81%E5%A4%B4%E7%B3%BB38%E5%B2%81%E7%94%B7%E5%AD%90%23" target="weibo">
 南京红老头系38岁男子（热度：9289863）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D%23" target="weibo">
+歌手排名（热度：9144630）
 </a>
 </li>
 
@@ -261,12 +267,6 @@ GAI 公务员裸辞的疯感（热度：2940380）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D%23" target="weibo">
-歌手排名（热度：2100966）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E7%9B%B4%E6%92%AD%23" target="weibo">
 歌手直播（热度：2074844）
 </a>
@@ -275,6 +275,12 @@ GAI 公务员裸辞的疯感（热度：2940380）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E4%B8%80%E5%A4%A9%20%E9%80%80%E4%BC%91%E4%BA%86%23" target="weibo">
 胡一天 退休了（热度：2074237）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Grace%E6%B7%98%E6%B1%B0%23" target="weibo">
+Grace淘汰（热度：2072748）
 </a>
 </li>
 
@@ -329,6 +335,12 @@ GAI 公务员裸辞的疯感（热度：2940380）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%20%E5%85%B3%E6%99%93%E5%BD%A4%23" target="weibo">
 鹿晗 关晓彤（热度：1921486）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9A%BE%E5%90%AC%23" target="weibo">
+难听（热度：1920352）
 </a>
 </li>
 
@@ -557,12 +569,6 @@ GAI 公务员裸辞的疯感（热度：2940380）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%90%86%E5%8F%91%E5%BA%97%E5%85%85430%E4%B8%87%E5%81%9A%E7%81%8C%E8%82%A0%E5%90%8E%E9%81%AD%E9%80%80%E8%B4%B9%E9%9A%BE%23" target="weibo">
 男子理发店充430万做灌肠后遭退费难（热度：1577676）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9A%BE%E5%90%AC%23" target="weibo">
-难听（热度：1572855）
 </a>
 </li>
 
@@ -1815,6 +1821,12 @@ TVB演员雪妮病逝（热度：861936）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E5%9C%A8%E7%87%83%E4%BB%80%E4%B9%88%23" target="weibo">
+陈楚生在燃什么（热度：844557）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%99%AF%E5%8C%BA%E8%B9%A6%E6%9E%81%E8%A2%AB%E6%8E%A8%E4%B8%8B%E5%8F%97%E4%BC%A4%E6%BB%A1%E8%84%B8%E6%98%AF%E8%A1%80%23" target="weibo">
 女子景区蹦极被推下受伤满脸是血（热度：843976）
 </a>
@@ -2925,6 +2937,12 @@ GAI是不是又想走了（热度：658327）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A2%86%E5%AF%BC%E8%AE%A9%E8%81%94%E7%B3%BB%E8%83%A1%E6%AD%8C%20%E8%83%A1%E6%AD%8C%E7%9C%9F%E6%9D%A5%E4%BA%86%23" target="weibo">
+领导让联系胡歌 胡歌真来了（热度：646692）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%A5%B3%E5%84%BF%E5%9D%87%E6%82%A3%E7%99%8C39%E5%B2%81%E7%94%B7%E5%AD%90%E6%8E%A9%E9%9D%A2%E7%97%9B%E5%93%AD%23" target="weibo">
 父亲女儿均患癌39岁男子掩面痛哭（热度：646392）
 </a>
@@ -3323,12 +3341,6 @@ G社拍的刘诗诗（热度：619179）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A9%E7%9D%A1%E6%97%A9%E8%B5%B7%E7%9A%84%E4%BA%BA%E6%9B%B4%E6%98%93%E6%97%A9%E6%99%A8%E7%84%A6%E8%99%91%23" target="weibo">
 早睡早起的人更易早晨焦虑（热度：595993）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A2%86%E5%AF%BC%E8%AE%A9%E8%81%94%E7%B3%BB%E8%83%A1%E6%AD%8C%20%E8%83%A1%E6%AD%8C%E7%9C%9F%E6%9D%A5%E4%BA%86%23" target="weibo">
-领导让联系胡歌 胡歌真来了（热度：594521）
 </a>
 </li>
 
@@ -4317,6 +4329,12 @@ BLACKPINK空降（热度：480820）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%A4%E5%A3%AB%E8%A2%AB%E5%90%8C%E5%B1%85%E7%94%B7%E5%8F%8B%E6%9D%80%E5%AE%B3%E7%96%91%E9%81%AD%E9%95%BF%E6%9C%9F%E5%AE%B6%E6%9A%B4%23" target="weibo">
+护士被同居男友杀害疑遭长期家暴（热度：469673）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%238%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E9%82%BB%E5%B1%85%E5%B8%A6%E5%88%B0%E9%95%BF%E6%B1%9F%E6%B8%B8%E6%B3%B3%E6%BA%BA%E4%BA%A1%23" target="weibo">
 8岁女孩被邻居带到长江游泳溺亡（热度：466559）
 </a>
@@ -4805,6 +4823,12 @@ Angelababy解锁全新高定（热度：445015）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%9914%E5%9B%BD%E5%8F%91%E9%80%81%E5%85%B3%E7%A8%8E%E9%80%9A%E7%89%92%23" target="weibo">
 特朗普给14国发送关税通牒（热度：424669）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E8%AF%88%E5%9B%AD%E5%8C%BA%E5%A2%99%E4%B8%8A%E6%BB%A1%E6%98%AF%E6%95%91%E6%95%91%E6%88%91%E6%83%B3%E5%9B%9E%E5%AE%B6%23" target="weibo">
+电诈园区墙上满是救救我想回家（热度：424258）
 </a>
 </li>
 
@@ -5987,30 +6011,6 @@ Angelababy带小海绵蹦极（热度：343998）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E6%98%9F%E4%BA%8C%E4%BB%A3%E6%98%AF%E6%9C%89%E5%87%BA%E9%81%93KPI%E5%90%97%23" target="weibo">
 内娱星二代是有出道KPI吗（热度：341193）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E6%99%92%E6%B5%B7%E9%B2%9C%E5%87%8F%E8%84%82%E9%A4%90%23" target="weibo">
-关晓彤晒海鲜减脂餐（热度：340981）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%20%E6%88%91%E4%BF%A9%E7%8E%B0%E5%9C%A8%E5%A4%9A%E5%B7%A5%E4%B8%9A%E7%B3%96%E7%B2%BE%23" target="weibo">
-杨紫 我俩现在多工业糖精（热度：340496）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83671%E5%88%86%E4%B9%A1%E6%9D%91%E5%A5%B3%E5%AD%A9%E5%9B%9E%E5%BA%94%23" target="weibo">
-高考671分乡村女孩回应（热度：340476）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9F%B3%E5%87%AF%E6%99%92%E6%8B%8D%E7%AB%8B%E5%BE%97%23" target="weibo">
-石凯晒拍立得（热度：339975）
 </a>
 </li>
 

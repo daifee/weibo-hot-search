@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752241823109,
+  "endTime": 1752244049905,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -33,6 +33,14 @@
       "onboard_time": 1751932642,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9144630,
+      "num": 9144630,
+      "word": "歌手排名",
+      "onboard_time": 1751635467,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 8592534,
@@ -331,14 +339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 2100966,
-      "num": 1787156,
-      "word": "歌手排名",
-      "onboard_time": 1751635467,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 2074844,
       "num": 2074844,
       "word": "歌手直播",
@@ -353,6 +353,14 @@
       "onboard_time": 1751369842,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2072748,
+      "num": 417441,
+      "word": "Grace淘汰",
+      "onboard_time": 1752242726,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 2065313,
@@ -425,6 +433,14 @@
       "onboard_time": 1751778682,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1920352,
+      "num": 361308,
+      "word": "难听",
+      "onboard_time": 1752240986,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 1916286,
@@ -729,14 +745,6 @@
       "onboard_time": 1752068424,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1572855,
-      "num": 361308,
-      "word": "难听",
-      "onboard_time": 1752240986,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 1569004,
@@ -2403,6 +2411,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 844557,
+      "num": 295822,
+      "word": "陈楚生在燃什么",
+      "onboard_time": 1752242065,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 843976,
       "num": 843976,
       "word": "女子景区蹦极被推下受伤满脸是血",
@@ -3883,6 +3899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 646692,
+      "num": 299475,
+      "word": "领导让联系胡歌 胡歌真来了",
+      "onboard_time": 1752238944,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 646392,
       "num": 646392,
       "word": "父亲女儿均患癌39岁男子掩面痛哭",
@@ -4417,14 +4441,6 @@
       "onboard_time": 1751421681,
       "rank": 41,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 594521,
-      "num": 299475,
-      "word": "领导让联系胡歌 胡歌真来了",
-      "onboard_time": 1752238944,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 594501,
@@ -5739,6 +5755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 469673,
+      "num": 469673,
+      "word": "护士被同居男友杀害疑遭长期家暴",
+      "onboard_time": 1752241586,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 466559,
       "num": 466559,
       "word": "8岁女孩被邻居带到长江游泳溺亡",
@@ -6393,6 +6417,14 @@
       "onboard_time": 1752114201,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 424258,
+      "num": 424258,
+      "word": "电诈园区墙上满是救救我想回家",
+      "onboard_time": 1752237683,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 424172,
@@ -9131,6 +9163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 298439,
+      "num": 298439,
+      "word": "美团外卖红包",
+      "onboard_time": 1752241225,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 298102,
       "num": 298102,
       "word": "女子卖100g黄金称老公买的不心疼",
@@ -9408,6 +9448,14 @@
       "word": "警方回应男子杀害前妻儿子不予立案",
       "onboard_time": 1751372902,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 289294,
+      "num": 289294,
+      "word": "全季酒店回应女子半夜被老鼠咬醒",
+      "onboard_time": 1752241886,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -9739,6 +9787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 278896,
+      "num": 220501,
+      "word": "艾莉西亚第一",
+      "onboard_time": 1752242726,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 278851,
       "num": 278851,
       "word": "日军官因找借口挑起卢沟桥事变升职",
@@ -9889,14 +9945,6 @@
       "onboard_time": 1751875522,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 274029,
-      "num": 274029,
-      "word": "电诈园区墙上满是救救我想回家",
-      "onboard_time": 1752237683,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 273558,
@@ -10217,6 +10265,22 @@
       "onboard_time": 1751706862,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 266540,
+      "num": 266540,
+      "word": "艾莉西亚给我干迪士尼去了",
+      "onboard_time": 1752242005,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 266413,
+      "num": 291031,
+      "word": "中国游客在泰国遭持枪绑架监控曝光",
+      "onboard_time": 1752241765,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 266307,
@@ -11057,6 +11121,14 @@
       "onboard_time": 1751713940,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 244879,
+      "num": 244879,
+      "word": "GAI 所以你不用评判我了",
+      "onboard_time": 1752243088,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 244588,
@@ -12667,6 +12739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214854,
+      "num": 214854,
+      "word": "田曦薇看林俊杰演唱会",
+      "onboard_time": 1752243206,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 214811,
       "num": 214811,
       "word": "歌手歌单",
@@ -13316,7 +13396,7 @@
     },
     {
       "raw_hot": 206124,
-      "num": 193338,
+      "num": 268615,
       "word": "印度网球女将遭父亲枪杀",
       "onboard_time": 1752240207,
       "rank": 43,
@@ -15027,14 +15107,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 192276,
-      "num": 192276,
-      "word": "美团外卖红包",
-      "onboard_time": 1752241225,
-      "rank": 36,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 192188,
       "num": 192188,
       "word": "新疆旅游偶遇张雨绮尼格买提",
@@ -15539,14 +15611,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 188233,
-      "num": 188233,
-      "word": "护士被同居男友杀害疑遭长期家暴",
-      "onboard_time": 1752241586,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 188197,
       "num": 188197,
       "word": "者来女火星电台淘汰",
@@ -15947,6 +16011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185303,
+      "num": 161778,
+      "word": "张靓颖把绿色穿出了东方美",
+      "onboard_time": 1752243088,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185218,
       "num": 185218,
       "word": "刘耀文卷毛狗狗眼",
@@ -16185,6 +16257,14 @@
       "onboard_time": 1751612782,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 182158,
+      "num": 160517,
+      "word": "鹿晗mm巧克力豆外套",
+      "onboard_time": 1752243866,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 182051,
@@ -16433,6 +16513,14 @@
       "onboard_time": 1751979983,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179805,
+      "num": 179805,
+      "word": "大学遗憾排行榜",
+      "onboard_time": 1752240145,
+      "rank": 45,
+      "category": "教育,情感"
     },
     {
       "raw_hot": 179792,
@@ -17739,14 +17827,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 170418,
-      "num": 170418,
-      "word": "大学遗憾排行榜",
-      "onboard_time": 1752240145,
-      "rank": 45,
-      "category": "教育,情感"
-    },
-    {
       "raw_hot": 170402,
       "num": 198153,
       "word": "周深唱哭观众唱不哭自己",
@@ -19035,6 +19115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160058,
+      "num": 160058,
+      "word": "李佳薇回应编曲做局",
+      "onboard_time": 1752243926,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160002,
       "num": 160002,
       "word": "龙族定档预告全是名台词",
@@ -20145,14 +20233,6 @@
       "onboard_time": 1751546542,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 153043,
-      "num": 153043,
-      "word": "中国游客在泰国遭持枪绑架监控曝光",
-      "onboard_time": 1752241765,
-      "rank": 48,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 153035,
@@ -22393,6 +22473,14 @@
       "onboard_time": 1751641945,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 140582,
+      "num": 140582,
+      "word": "何惟芳莲舟约定下辈子做挚友",
+      "onboard_time": 1752242185,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 140538,
@@ -31371,6 +31459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95476,
+      "num": 131603,
+      "word": "孙杨现身浙BA球场",
+      "onboard_time": 1752242366,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95372,
       "num": 95372,
       "word": "妈妈为走失孩子留26年门",
@@ -32419,6 +32515,14 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 85826,
+      "num": 279831,
+      "word": "冰箱放办公室里突然爆炸",
+      "onboard_time": 1752243685,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85821,
       "num": 85821,
       "word": "亲密关系真谛",
@@ -32705,6 +32809,14 @@
       "onboard_time": 1751587101,
       "rank": 28,
       "category": "美食,健康医疗"
+    },
+    {
+      "raw_hot": 82071,
+      "num": 232922,
+      "word": "护士被同居男友杀害家属发声",
+      "onboard_time": 1752243807,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82059,
@@ -38499,6 +38611,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 17733,
+      "num": 162469,
+      "word": "智启津门数聚上合",
+      "onboard_time": 1752243507,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 17581,
       "num": 27860,
       "word": "中国人研究月球土特产又有成果",
@@ -38745,6 +38865,14 @@
       "onboard_time": 1752212542,
       "rank": 19,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 15861,
+      "num": 902498,
+      "word": "一组关键字解码中国热力图景",
+      "onboard_time": 1752243627,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 15857,

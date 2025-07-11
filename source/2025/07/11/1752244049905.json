@@ -1,0 +1,410 @@
+{
+  "runTime": 1752244049905,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9144630,
+        "num": 9144630,
+        "word": "歌手排名",
+        "onboard_time": 1752242245,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2466110,
+        "num": 2466110,
+        "word": "单依纯 舞妹娘",
+        "onboard_time": 1752239303,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15861,
+        "num": 902498,
+        "word": "一组关键字解码中国热力图景",
+        "onboard_time": 1752243627,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 469673,
+        "num": 469673,
+        "word": "护士被同居男友杀害疑遭长期家暴",
+        "onboard_time": 1752241586,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 438325,
+        "num": 438325,
+        "word": "女子在缅北遭持枪强迫卖淫",
+        "onboard_time": 1752213682,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 424258,
+        "num": 424258,
+        "word": "电诈园区墙上满是救救我想回家",
+        "onboard_time": 1752237683,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2297025,
+        "num": 417450,
+        "word": "GAI 公务员裸辞的疯感",
+        "onboard_time": 1752238706,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2072748,
+        "num": 417441,
+        "word": "Grace淘汰",
+        "onboard_time": 1752242726,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 393599,
+        "num": 393599,
+        "word": "12.3%受访00后存款超30万",
+        "onboard_time": 1752234081,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298439,
+        "num": 298439,
+        "word": "美团外卖红包",
+        "onboard_time": 1752241225,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1920352,
+        "num": 297138,
+        "word": "难听",
+        "onboard_time": 1752240986,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 844557,
+        "num": 295822,
+        "word": "陈楚生在燃什么",
+        "onboard_time": 1752242065,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 662530,
+        "num": 294353,
+        "word": "歌手直播",
+        "onboard_time": 1752232582,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 646692,
+        "num": 291199,
+        "word": "领导让联系胡歌 胡歌真来了",
+        "onboard_time": 1752238944,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266413,
+        "num": 291031,
+        "word": "中国游客在泰国遭持枪绑架监控曝光",
+        "onboard_time": 1752241765,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 289294,
+        "num": 289294,
+        "word": "全季酒店回应女子半夜被老鼠咬醒",
+        "onboard_time": 1752241886,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284467,
+        "num": 284467,
+        "word": "榴莲价格",
+        "onboard_time": 1752234203,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 282496,
+        "num": 282496,
+        "word": "妻子好心按摩致丈夫小脑梗死",
+        "onboard_time": 1752233063,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204275,
+        "num": 282323,
+        "word": "27岁在体制内在编五年辞职了",
+        "onboard_time": 1752233004,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 85826,
+        "num": 279831,
+        "word": "冰箱放办公室里突然爆炸",
+        "onboard_time": 1752243685,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 592790,
+        "num": 276932,
+        "word": "编曲给李佳薇做局了",
+        "onboard_time": 1752236183,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 486357,
+        "num": 275438,
+        "word": "诀爱",
+        "onboard_time": 1752236663,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 362151,
+        "num": 273568,
+        "word": "韩安冉称老公出轨也不离婚",
+        "onboard_time": 1752238583,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 340762,
+        "num": 270573,
+        "word": "陈楚生 摇滚版小情歌",
+        "onboard_time": 1752241045,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201403,
+        "num": 268615,
+        "word": "印度网球女将遭父亲枪杀",
+        "onboard_time": 1752240207,
+        "rank": 24,
+        "category": "海外新闻,体育"
+      },
+      {
+        "raw_hot": 307801,
+        "num": 268201,
+        "word": "锦绣芳华尺度",
+        "onboard_time": 1752230962,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266540,
+        "num": 266540,
+        "word": "艾莉西亚给我干迪士尼去了",
+        "onboard_time": 1752242005,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244879,
+        "num": 244879,
+        "word": "GAI 所以你不用评判我了",
+        "onboard_time": 1752243088,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82071,
+        "num": 232922,
+        "word": "护士被同居男友杀害家属发声",
+        "onboard_time": 1752243807,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227635,
+        "num": 227635,
+        "word": "老情歌",
+        "onboard_time": 1752240864,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222341,
+        "num": 222341,
+        "word": "马嘉祺 歌手复活赛",
+        "onboard_time": 1752231683,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278896,
+        "num": 220501,
+        "word": "艾莉西亚第一",
+        "onboard_time": 1752242726,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214854,
+        "num": 214854,
+        "word": "田曦薇看林俊杰演唱会",
+        "onboard_time": 1752243206,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187835,
+        "num": 187835,
+        "word": "姑姑公布疑脑死亡男童手术时间线",
+        "onboard_time": 1752237683,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179805,
+        "num": 179805,
+        "word": "大学遗憾排行榜",
+        "onboard_time": 1752240145,
+        "rank": 34,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 210372,
+        "num": 176906,
+        "word": "侯明昊小生这厢马上没礼了",
+        "onboard_time": 1752235581,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189566,
+        "num": 175300,
+        "word": "鹿晗颧骨伤痕妆",
+        "onboard_time": 1752239846,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 185619,
+        "num": 173301,
+        "word": "李惠利新男友车宇泰发ins",
+        "onboard_time": 1752240864,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170201,
+        "num": 170201,
+        "word": "19岁高考生失联7天疑被骗去缅甸",
+        "onboard_time": 1752240084,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162756,
+        "num": 162756,
+        "word": "情侣分手现场拉2年账单对账",
+        "onboard_time": 1752234261,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17733,
+        "num": 162469,
+        "word": "智启津门数聚上合",
+        "onboard_time": 1752243507,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 185303,
+        "num": 161778,
+        "word": "张靓颖把绿色穿出了东方美",
+        "onboard_time": 1752243088,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182759,
+        "num": 160893,
+        "word": "书卷一梦大结局",
+        "onboard_time": 1752229642,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182158,
+        "num": 160517,
+        "word": "鹿晗mm巧克力豆外套",
+        "onboard_time": 1752243866,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160058,
+        "num": 160058,
+        "word": "李佳薇回应编曲做局",
+        "onboard_time": 1752243926,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146851,
+        "num": 146851,
+        "word": "肖战小心翼翼地四处闯祸",
+        "onboard_time": 1752227603,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140582,
+        "num": 140582,
+        "word": "何惟芳莲舟约定下辈子做挚友",
+        "onboard_time": 1752242185,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137035,
+        "num": 137035,
+        "word": "TF运动会分组",
+        "onboard_time": 1752236482,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114043,
+        "num": 132513,
+        "word": "分手现场姐姐怒扇恋爱脑妹妹",
+        "onboard_time": 1752234261,
+        "rank": 48,
+        "category": "民生新闻,情感"
+      },
+      {
+        "raw_hot": 95476,
+        "num": 131603,
+        "word": "孙杨现身浙BA球场",
+        "onboard_time": 1752242366,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定文化自信扎根生活沃土#"
+    }
+  }
+}
