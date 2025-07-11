@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/11 21:38:32
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/11 21:50:23
 </p>
 </blockquote>
 <p>
@@ -557,6 +557,12 @@ GAI 公务员裸辞的疯感（热度：2940380）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%90%86%E5%8F%91%E5%BA%97%E5%85%85430%E4%B8%87%E5%81%9A%E7%81%8C%E8%82%A0%E5%90%8E%E9%81%AD%E9%80%80%E8%B4%B9%E9%9A%BE%23" target="weibo">
 男子理发店充430万做灌肠后遭退费难（热度：1577676）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9A%BE%E5%90%AC%23" target="weibo">
+难听（热度：1572855）
 </a>
 </li>
 
@@ -2115,6 +2121,12 @@ twice回归（热度：792592）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%20%E6%91%87%E6%BB%9A%E7%89%88%E5%B0%8F%E6%83%85%E6%AD%8C%23" target="weibo">
+陈楚生 摇滚版小情歌（热度：777077）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AA%92%E4%BD%93%E6%9B%9D%E5%85%89%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E6%99%AE%E4%BA%AC%E5%BD%95%E9%9F%B3%23" target="weibo">
 媒体曝光特朗普威胁普京录音（热度：774438）
 </a>
@@ -3315,6 +3327,12 @@ G社拍的刘诗诗（热度：619179）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A2%86%E5%AF%BC%E8%AE%A9%E8%81%94%E7%B3%BB%E8%83%A1%E6%AD%8C%20%E8%83%A1%E6%AD%8C%E7%9C%9F%E6%9D%A5%E4%BA%86%23" target="weibo">
+领导让联系胡歌 胡歌真来了（热度：594521）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E8%A2%AB%E8%B0%81%E7%94%A9%E4%BA%86%23" target="weibo">
 陈楚生被谁甩了（热度：594501）
 </a>
@@ -3731,12 +3749,6 @@ BLACKPINK新歌（热度：582215）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2326%E5%B2%81%E5%A5%B3%E5%AD%90%E6%AF%8F%E5%A4%A9%E7%86%AC%E5%A4%9C%E8%87%B4%E5%8D%B5%E5%B7%A2%E6%97%A9%E8%A1%B0%E7%BB%9D%E7%BB%8F%23" target="weibo">
 26岁女子每天熬夜致卵巢早衰绝经（热度：538232）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A2%86%E5%AF%BC%E8%AE%A9%E8%81%94%E7%B3%BB%E8%83%A1%E6%AD%8C%20%E8%83%A1%E6%AD%8C%E7%9C%9F%E6%9D%A5%E4%BA%86%23" target="weibo">
-领导让联系胡歌 胡歌真来了（热度：537893）
 </a>
 </li>
 
@@ -4335,6 +4347,12 @@ BLACKPINK高阳演唱会单人海报（热度：465478）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E6%83%85%E6%AD%8C%23" target="weibo">
+老情歌（热度：460049）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%B9%E9%BB%91%E8%83%96%E4%B8%9C%E6%9D%A5%E7%9A%84%E7%BD%91%E7%BA%A2%E8%A2%AB%E9%80%9A%E6%8A%A5%23" target="weibo">
 抹黑胖东来的网红被通报（热度：459193）
 </a>
@@ -4775,12 +4793,6 @@ Angelababy解锁全新高定（热度：445015）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB16%E5%9D%97%E9%92%B1%E7%9A%84%E7%94%B7%E8%A3%85%E6%83%8A%E5%91%86%E4%BA%86%23" target="weibo">
 被16块钱的男装惊呆了（热度：426941）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%20%E6%91%87%E6%BB%9A%E7%89%88%E5%B0%8F%E6%83%85%E6%AD%8C%23" target="weibo">
-陈楚生 摇滚版小情歌（热度：426273）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ Angelababy带小海绵蹦极（热度：343998）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%B3%E5%87%AF%E6%99%92%E6%8B%8D%E7%AB%8B%E5%BE%97%23" target="weibo">
 石凯晒拍立得（热度：339975）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%A0%E5%AD%A6%E7%94%9F%E6%9C%AA%E6%8A%A5%E6%B8%85%E5%8C%97%E8%A7%A3%E6%95%A3%E7%BE%A4%E8%81%8A%E8%80%81%E5%B8%88%E5%B7%B2%E6%A3%80%E8%AE%A8%23" target="weibo">
-因学生未报清北解散群聊老师已检讨（热度：338498）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%A4%BE%E5%B1%80%E7%A7%B0%E6%8B%9B%E6%9C%8D%E5%8A%A1%E5%91%98%E8%A6%81%E6%B1%82%E6%9C%AC%E7%A7%91%E4%B8%8D%E7%AE%97%E6%AD%A7%E8%A7%86%23" target="weibo">
-人社局称招服务员要求本科不算歧视（热度：338394）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1752165274435,
-  "endTime": 1752241112227,
+  "endTime": 1752241823109,
   "band_list": [
     {
       "raw_hot": 4626866,
@@ -73,6 +73,14 @@
       "onboard_time": 1752216023,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1572855,
+      "num": 361308,
+      "word": "难听",
+      "onboard_time": 1752240986,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 1527077,
@@ -235,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 777077,
+      "num": 300949,
+      "word": "陈楚生 摇滚版小情歌",
+      "onboard_time": 1752241045,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 750350,
       "num": 386533,
       "word": "27岁在体制内在编五年辞职了",
@@ -355,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 594521,
+      "num": 299475,
+      "word": "领导让联系胡歌 胡歌真来了",
+      "onboard_time": 1752238944,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 592570,
       "num": 592570,
       "word": "内娱神女降级史",
@@ -409,14 +433,6 @@
       "onboard_time": 1752222084,
       "rank": 17,
       "category": "美食"
-    },
-    {
-      "raw_hot": 537893,
-      "num": 292356,
-      "word": "领导让联系胡歌 胡歌真来了",
-      "onboard_time": 1752238944,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 533989,
@@ -563,6 +579,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 460049,
+      "num": 278741,
+      "word": "老情歌",
+      "onboard_time": 1752240864,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 454133,
       "num": 454133,
       "word": "书卷一梦大结局",
@@ -593,14 +617,6 @@
       "onboard_time": 1752238583,
       "rank": 14,
       "category": "网红"
-    },
-    {
-      "raw_hot": 426273,
-      "num": 289125,
-      "word": "陈楚生 摇滚版小情歌",
-      "onboard_time": 1752241045,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 417671,
@@ -843,6 +859,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 322297,
+      "num": 271462,
+      "word": "陈楚生机位",
+      "onboard_time": 1752240026,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 319901,
       "num": 319901,
       "word": "申通回应高中生卸货因流汗多被辞",
@@ -857,14 +881,6 @@
       "onboard_time": 1752233361,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 313096,
-      "num": 271462,
-      "word": "陈楚生机位",
-      "onboard_time": 1752240026,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 312639,
@@ -947,6 +963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 291039,
+      "num": 251886,
+      "word": "李惠利新男友车宇泰发ins",
+      "onboard_time": 1752240864,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 286389,
       "num": 286389,
       "word": "赵丽颖中餐厅合伙人",
@@ -995,6 +1019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 274029,
+      "num": 274029,
+      "word": "电诈园区墙上满是救救我想回家",
+      "onboard_time": 1752237683,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 273476,
       "num": 273476,
       "word": "Bin首次无缘MSI决赛",
@@ -1035,7 +1067,7 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 260955,
+      "raw_hot": 261281,
       "num": 260955,
       "word": "侯明昊小生这厢马上没礼了",
       "onboard_time": 1752235581,
@@ -1083,28 +1115,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 251886,
-      "num": 251886,
-      "word": "李惠利新男友车宇泰发ins",
-      "onboard_time": 1752240864,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 249089,
       "num": 249089,
       "word": "早田希娜3比2张本美和",
       "onboard_time": 1752207862,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 247952,
-      "num": 247952,
-      "word": "老情歌",
-      "onboard_time": 1752240864,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 246397,
@@ -1148,7 +1164,7 @@
     },
     {
       "raw_hot": 236278,
-      "num": 281436,
+      "num": 288950,
       "word": "曹骏直播",
       "onboard_time": 1752239124,
       "rank": 40,
@@ -1187,14 +1203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 229613,
-      "num": 272360,
-      "word": "电诈园区墙上满是救救我想回家",
-      "onboard_time": 1752237683,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 225245,
       "num": 225245,
       "word": "父亲酒后暴打几岁女儿致粉碎性骨折",
@@ -1225,6 +1233,14 @@
       "onboard_time": 1752224663,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 221576,
+      "num": 255360,
+      "word": "姑姑公布疑脑死亡男童手术时间线",
+      "onboard_time": 1752237683,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 217692,
@@ -1275,6 +1291,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 214118,
+      "num": 294663,
+      "word": "原词朝天门",
+      "onboard_time": 1752240746,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213630,
       "num": 225236,
       "word": "租房发现天花板藏摄像头女子发声",
@@ -1323,6 +1347,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 209025,
+      "num": 277419,
+      "word": "19岁高考生失联7天疑被骗去缅甸",
+      "onboard_time": 1752240084,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 209016,
       "num": 397744,
       "word": "45万元饭店罚单不再作出行政处罚",
@@ -1353,6 +1385,14 @@
       "onboard_time": 1752208644,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206124,
+      "num": 193338,
+      "word": "印度网球女将遭父亲枪杀",
+      "onboard_time": 1752240207,
+      "rank": 43,
+      "category": "海外新闻,体育"
     },
     {
       "raw_hot": 204847,
@@ -1579,6 +1619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192276,
+      "num": 192276,
+      "word": "美团外卖红包",
+      "onboard_time": 1752241225,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 191687,
       "num": 207809,
       "word": "缅北白所成等21人被提起公诉",
@@ -1619,14 +1667,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 189646,
-      "num": 189646,
-      "word": "难听",
-      "onboard_time": 1752240986,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 189543,
       "num": 189543,
       "word": "肖战新的口播",
@@ -1641,6 +1681,14 @@
       "onboard_time": 1752238825,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188233,
+      "num": 188233,
+      "word": "护士被同居男友杀害疑遭长期家暴",
+      "onboard_time": 1752241586,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 188005,
@@ -1705,6 +1753,14 @@
       "onboard_time": 1752212302,
       "rank": 45,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 182997,
+      "num": 182997,
+      "word": "张踩玲 沈梦辰不认识难听",
+      "onboard_time": 1752240326,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 181469,
@@ -1819,14 +1875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 172152,
-      "num": 172152,
-      "word": "原词朝天门",
-      "onboard_time": 1752240746,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 171747,
       "num": 171747,
       "word": "特朗普称对加拿大征收35%关税",
@@ -1867,6 +1915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170418,
+      "num": 170418,
+      "word": "大学遗憾排行榜",
+      "onboard_time": 1752240145,
+      "rank": 45,
+      "category": "教育,情感"
+    },
+    {
       "raw_hot": 170072,
       "num": 264053,
       "word": "2元的花种真能包邮送到雪山下吗",
@@ -1897,14 +1953,6 @@
       "onboard_time": 1752204382,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 167625,
-      "num": 167625,
-      "word": "印度网球女将遭父亲枪杀",
-      "onboard_time": 1752240207,
-      "rank": 43,
-      "category": "海外新闻,体育"
     },
     {
       "raw_hot": 166923,
@@ -1979,6 +2027,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 160531,
+      "num": 160531,
+      "word": "林俊杰演唱会",
+      "onboard_time": 1752240445,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 159776,
       "num": 159776,
       "word": "林诗栋蒯曼混双争冠",
@@ -2009,14 +2065,6 @@
       "onboard_time": 1752223462,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 157750,
-      "num": 255360,
-      "word": "姑姑公布疑脑死亡男童手术时间线",
-      "onboard_time": 1752237683,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 157348,
@@ -2057,6 +2105,14 @@
       "onboard_time": 1752238404,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153043,
+      "num": 153043,
+      "word": "中国游客在泰国遭持枪绑架监控曝光",
+      "onboard_time": 1752241765,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 152905,
@@ -2121,14 +2177,6 @@
       "onboard_time": 1752225442,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 147377,
-      "num": 147377,
-      "word": "大学遗憾排行榜",
-      "onboard_time": 1752240145,
-      "rank": 45,
-      "category": "教育,情感"
     },
     {
       "raw_hot": 147149,
@@ -2233,14 +2281,6 @@
       "onboard_time": 1752192743,
       "rank": 37,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 142791,
-      "num": 142791,
-      "word": "林俊杰演唱会",
-      "onboard_time": 1752240445,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 142458,
@@ -2628,7 +2668,7 @@
     },
     {
       "raw_hot": 115963,
-      "num": 279281,
+      "num": 286520,
       "word": "京东外卖每天送出50吨小龙虾",
       "onboard_time": 1752238706,
       "rank": 47,
@@ -2873,14 +2913,6 @@
       "onboard_time": 1752200481,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102345,
-      "num": 277419,
-      "word": "19岁高考生失联7天疑被骗去缅甸",
-      "onboard_time": 1752240084,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 100907,
@@ -3140,7 +3172,7 @@
     },
     {
       "raw_hot": 77885,
-      "num": 172512,
+      "num": 185327,
       "word": "焦虑和运动之间的关系",
       "onboard_time": 1752240925,
       "rank": 39,
@@ -3283,6 +3315,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 61611,
+      "num": 303485,
+      "word": "甘肃强调抓好校园食品安全工作",
+      "onboard_time": 1752241285,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61359,
       "num": 466936,
       "word": "不让一个学生因经济困难而失学",
@@ -3305,6 +3345,14 @@
       "onboard_time": 1752184815,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 56929,
+      "num": 298584,
+      "word": "女子黑救护车上死亡母亲最新发声",
+      "onboard_time": 1752240685,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56824,
@@ -3547,11 +3595,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 35995,
+      "num": 198316,
+      "word": "用前身份发视频落马副局长账号被封",
+      "onboard_time": 1752241285,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35256,
       "num": 118101,
       "word": "台军汉光演习深夜又出事",
       "onboard_time": 1752216081,
       "rank": 29,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 33217,
+      "num": 2100566,
+      "word": "绿色发展的中国答案",
+      "onboard_time": 1752224542,
+      "rank": 2,
       "category": "国内时政"
     },
     {
@@ -3595,14 +3659,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 29503,
-      "num": 287356,
-      "word": "女子黑救护车上死亡母亲最新发声",
-      "onboard_time": 1752240685,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 28562,
       "num": 40123,
       "word": "林昀儒3比2陈颢桦",
@@ -3617,14 +3673,6 @@
       "onboard_time": 1752153263,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27256,
-      "num": 2100566,
-      "word": "绿色发展的中国答案",
-      "onboard_time": 1752224542,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 26566,
