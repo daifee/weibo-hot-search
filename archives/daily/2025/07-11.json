@@ -1,6 +1,6 @@
 {
   "startTime": 1752165274435,
-  "endTime": 1752245130821,
+  "endTime": 1752247766726,
   "band_list": [
     {
       "raw_hot": 9144630,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 844557,
-      "num": 329346,
+      "num": 371067,
       "word": "陈楚生在燃什么",
       "onboard_time": 1752242065,
       "rank": 11,
@@ -491,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 521907,
+      "num": 345606,
+      "word": "林俊杰cue田曦薇",
+      "onboard_time": 1752246444,
+      "rank": 10,
+      "category": "演出"
+    },
+    {
       "raw_hot": 519555,
       "num": 519555,
       "word": "6岁男童误吞遥控器电池获赔4000万美元",
@@ -521,6 +529,14 @@
       "onboard_time": 1752230962,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 507260,
+      "num": 507260,
+      "word": "西夏陵成功申遗",
+      "onboard_time": 1752246505,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 493381,
@@ -833,6 +849,14 @@
       "onboard_time": 1752226822,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 355919,
+      "num": 355919,
+      "word": "文化中国行中国再添一处世界遗产",
+      "onboard_time": 1752245664,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 350379,
@@ -1225,6 +1249,14 @@
       "onboard_time": 1752202822,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 245552,
+      "num": 206316,
+      "word": "吴青峰 小情歌",
+      "onboard_time": 1752245184,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 244879,
@@ -1875,6 +1907,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 183554,
+      "num": 183554,
+      "word": "鹿晗不经意间掏出一颗心",
+      "onboard_time": 1752245184,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 182997,
       "num": 182997,
       "word": "张踩玲 沈梦辰不认识难听",
@@ -2065,6 +2105,14 @@
       "onboard_time": 1752222924,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 168601,
+      "num": 149077,
+      "word": "书卷一梦剧中剧中剧",
+      "onboard_time": 1752246324,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 168390,
@@ -2259,6 +2307,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 149552,
+      "num": 249424,
+      "word": "高考生疑被骗去缅甸母亲发声求助",
+      "onboard_time": 1752245005,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149048,
       "num": 184263,
       "word": "历经4年多的特斯拉刹车门事件结束",
@@ -2281,6 +2337,14 @@
       "onboard_time": 1752238825,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148650,
+      "num": 148650,
+      "word": "鹿晗别牵那个男伴舞了",
+      "onboard_time": 1752246205,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 148596,
@@ -2571,12 +2635,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 133537,
+      "num": 213860,
+      "word": "房主任 看哭了",
+      "onboard_time": 1752245005,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133214,
       "num": 121547,
       "word": "书卷一梦",
       "onboard_time": 1752230602,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131732,
+      "num": 131732,
+      "word": "王楚钦WTT美国大满贯出场背景更新",
+      "onboard_time": 1752246684,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 131614,
+      "num": 121712,
+      "word": "耳帝",
+      "onboard_time": 1752247642,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 131443,
@@ -3067,6 +3155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102574,
+      "num": 102574,
+      "word": "王楚钦与达科争4强席位",
+      "onboard_time": 1752247045,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102530,
       "num": 312442,
       "word": "孙颖莎王曼昱3比1申裕斌杜凯琹",
@@ -3161,6 +3257,14 @@
       "onboard_time": 1752216622,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93605,
+      "num": 93605,
+      "word": "宁德时代赠复旦大学价值超11亿元股票",
+      "onboard_time": 1752247344,
+      "rank": 49,
+      "category": "财经,教育"
     },
     {
       "raw_hot": 93017,
@@ -3515,6 +3619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 59020,
+      "num": 258633,
+      "word": "官方回应南昌网约车司机加收空调费",
+      "onboard_time": 1752246085,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57649,
       "num": 57649,
       "word": "马国明用2000条短信追求汤洛雯",
@@ -3569,14 +3681,6 @@
       "onboard_time": 1752202161,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 49590,
-      "num": 249424,
-      "word": "高考生疑被骗去缅甸母亲发声求助",
-      "onboard_time": 1752245005,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 48418,
@@ -3649,6 +3753,14 @@
       "onboard_time": 1752216141,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 43209,
+      "num": 149322,
+      "word": "演唱会退票为什么这么难",
+      "onboard_time": 1752236063,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42568,
