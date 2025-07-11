@@ -1,6 +1,6 @@
 {
   "startTime": 1752251611895,
-  "endTime": 1752255834299,
+  "endTime": 1752259030392,
   "band_list": [
     {
       "raw_hot": 1039259,
@@ -307,6 +307,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 105260,
+      "num": 105260,
+      "word": "姑娘想剪IU同款发型感觉效果差太多",
+      "onboard_time": 1752256696,
+      "rank": 5,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 99339,
       "num": 129817,
       "word": "拍视频被罚45万老板回应买蛤蟆质疑",
@@ -465,6 +473,22 @@
       "onboard_time": 1752237683,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29713,
+      "num": 32606,
+      "word": "起早贪黑只为鹿晗这个剧中人",
+      "onboard_time": 1752258375,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 27343,
+      "num": 32604,
+      "word": "奔跑吧超话竞猜谁会获胜鸭",
+      "onboard_time": 1752258675,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 25207,
