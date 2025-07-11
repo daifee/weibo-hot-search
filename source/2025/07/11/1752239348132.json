@@ -1,0 +1,410 @@
+{
+  "runTime": 1752239348132,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2467575,
+        "num": 2467575,
+        "word": "GAI 公务员裸辞的疯感",
+        "onboard_time": 1752238706,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2139826,
+        "num": 2139826,
+        "word": "编曲给李佳薇做局了",
+        "onboard_time": 1752236183,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16212,
+        "num": 2100566,
+        "word": "绿色发展的中国答案",
+        "onboard_time": 1752224542,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2074844,
+        "num": 2074844,
+        "word": "歌手直播",
+        "onboard_time": 1752232582,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 675811,
+        "num": 675811,
+        "word": "女子在缅北遭持枪强迫卖淫",
+        "onboard_time": 1752213682,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 562464,
+        "num": 562464,
+        "word": "12.3%受访00后存款超30万",
+        "onboard_time": 1752234081,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1064421,
+        "num": 560739,
+        "word": "诀爱",
+        "onboard_time": 1752236663,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 472691,
+        "num": 472691,
+        "word": "榴莲价格",
+        "onboard_time": 1752234203,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 399221,
+        "num": 399221,
+        "word": "情侣分手现场拉2年账单对账",
+        "onboard_time": 1752234261,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209016,
+        "num": 397744,
+        "word": "45万元饭店罚单不再作出行政处罚",
+        "onboard_time": 1752237863,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 710334,
+        "num": 386533,
+        "word": "27岁在体制内在编五年辞职了",
+        "onboard_time": 1752233004,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 548994,
+        "num": 384090,
+        "word": "马嘉祺 歌手复活赛",
+        "onboard_time": 1752231683,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 499310,
+        "num": 372023,
+        "word": "锦绣芳华尺度",
+        "onboard_time": 1752230962,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 404196,
+        "num": 368942,
+        "word": "妻子好心按摩致丈夫小脑梗死",
+        "onboard_time": 1752233063,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362073,
+        "num": 362073,
+        "word": "韩安冉称老公出轨也不离婚",
+        "onboard_time": 1752238583,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 354747,
+        "num": 354747,
+        "word": "李佳薇守榜",
+        "onboard_time": 1752235760,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289092,
+        "num": 289092,
+        "word": "秦彻coser",
+        "onboard_time": 1752233361,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 259219,
+        "num": 259219,
+        "word": "侯明昊小生这厢马上没礼了",
+        "onboard_time": 1752235581,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173577,
+        "num": 231530,
+        "word": "跑男本季最激烈撕名牌",
+        "onboard_time": 1752237143,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227560,
+        "num": 227560,
+        "word": "日本首相称要赌上国运",
+        "onboard_time": 1752227003,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 401206,
+        "num": 225970,
+        "word": "单依纯扒何炅衣服",
+        "onboard_time": 1752232162,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220864,
+        "num": 220864,
+        "word": "35岁以后真的会断崖式衰老",
+        "onboard_time": 1752231202,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 32364,
+        "num": 219649,
+        "word": "摊主称烧烤摊卖烤青菜被要求整改",
+        "onboard_time": 1752238885,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186091,
+        "num": 219031,
+        "word": "昆明一电梯冲顶致业主身亡调查报告",
+        "onboard_time": 1752237383,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332138,
+        "num": 217533,
+        "word": "鹿晗演唱会",
+        "onboard_time": 1752235402,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 245502,
+        "num": 216387,
+        "word": "单依纯 舞妹娘",
+        "onboard_time": 1752239303,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243144,
+        "num": 215786,
+        "word": "分手现场姐姐怒扇恋爱脑妹妹",
+        "onboard_time": 1752234261,
+        "rank": 26,
+        "category": "民生新闻,情感"
+      },
+      {
+        "raw_hot": 238259,
+        "num": 214099,
+        "word": "TF运动会分组",
+        "onboard_time": 1752236482,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233292,
+        "num": 212813,
+        "word": "歌手顺序",
+        "onboard_time": 1752236424,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235016,
+        "num": 211528,
+        "word": "周杰伦给权志龙台湾演唱会送花篮",
+        "onboard_time": 1752237983,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 223641,
+        "num": 210238,
+        "word": "肖战小心翼翼地四处闯祸",
+        "onboard_time": 1752227603,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209679,
+        "num": 209679,
+        "word": "陈楚生说歌手像马拉松比赛",
+        "onboard_time": 1752234562,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208297,
+        "num": 208297,
+        "word": "领导让联系胡歌 胡歌真来了",
+        "onboard_time": 1752238944,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163904,
+        "num": 200844,
+        "word": "上海花了一千块吃的汤泡饭",
+        "onboard_time": 1752236004,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 199431,
+        "num": 199431,
+        "word": "娄艺潇开始演短剧了",
+        "onboard_time": 1752222743,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196630,
+        "num": 196630,
+        "word": "书卷一梦大结局",
+        "onboard_time": 1752229642,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188375,
+        "num": 188375,
+        "word": "闪闪惹人爱",
+        "onboard_time": 1752238825,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176303,
+        "num": 176303,
+        "word": "展轩晒照",
+        "onboard_time": 1752229702,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66927,
+        "num": 175509,
+        "word": "快存下这份暴雨安全指南",
+        "onboard_time": 1752224783,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 89501,
+        "num": 175425,
+        "word": "京城大师赛",
+        "onboard_time": 1752238764,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175382,
+        "num": 175382,
+        "word": "曹骏直播",
+        "onboard_time": 1752239124,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154410,
+        "num": 154410,
+        "word": "郑朋痛失艺名",
+        "onboard_time": 1752233782,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153866,
+        "num": 153866,
+        "word": "白鹿熟练运用如何呢又能怎",
+        "onboard_time": 1752238404,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150778,
+        "num": 150778,
+        "word": "陈楚生第二轮守榜",
+        "onboard_time": 1752237502,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148813,
+        "num": 148813,
+        "word": "范丞丞终于对姚译添下手了",
+        "onboard_time": 1752238825,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145600,
+        "num": 145600,
+        "word": "姑姑公布疑脑死亡男童手术时间线",
+        "onboard_time": 1752237683,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149700,
+        "num": 145132,
+        "word": "朝雪录 提档",
+        "onboard_time": 1752228921,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115963,
+        "num": 141668,
+        "word": "京东外卖每天送出50吨小龙虾",
+        "onboard_time": 1752238706,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 141509,
+        "num": 141509,
+        "word": "张纪中小女儿烫伤后续",
+        "onboard_time": 1752239184,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68404,
+        "num": 140065,
+        "word": "为什么泡水车碰不得",
+        "onboard_time": 1752238944,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平给田华等8位电影艺术家回信#"
+    }
+  }
+}
