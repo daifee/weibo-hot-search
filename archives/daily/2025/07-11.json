@@ -1,6 +1,6 @@
 {
   "startTime": 1752165274435,
-  "endTime": 1752209295447,
+  "endTime": 1752209772839,
   "band_list": [
     {
       "raw_hot": 1989173,
@@ -35,6 +35,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1201224,
+      "num": 1201224,
+      "word": "仅退款群体画像",
+      "onboard_time": 1752207262,
+      "rank": 3,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 1180122,
       "num": 1180122,
       "word": "白家涉诈资金超106亿元",
@@ -57,14 +65,6 @@
       "onboard_time": 1752190159,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1000430,
-      "num": 1000430,
-      "word": "仅退款群体画像",
-      "onboard_time": 1752207262,
-      "rank": 3,
-      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 979053,
@@ -107,6 +107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 792592,
+      "num": 792592,
+      "word": "twice回归",
+      "onboard_time": 1752208463,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 789312,
       "num": 789312,
       "word": "陈奕迅凌晨去北京吃烤鸭",
@@ -139,19 +147,19 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 700527,
-      "num": 700527,
-      "word": "twice回归",
-      "onboard_time": 1752208463,
-      "rank": 7,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 678784,
       "num": 678784,
       "word": "缅北白家开发建设41个大型赌诈园区",
       "onboard_time": 1752203480,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 658746,
+      "num": 658746,
+      "word": "店员猥亵女顾客店长称其私自上班",
+      "onboard_time": 1752207682,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -187,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 545284,
+      "num": 545284,
+      "word": "孙悟空同款泳衣卖爆了",
+      "onboard_time": 1752208524,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 493381,
       "num": 493381,
       "word": "湘潭大学宿舍投毒案二审开庭",
@@ -208,14 +224,6 @@
       "word": "女子常穿洞洞鞋致足底钙化行走困难",
       "onboard_time": 1752152242,
       "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 471328,
-      "num": 471328,
-      "word": "店员猥亵女顾客店长称其私自上班",
-      "onboard_time": 1752207682,
-      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -265,14 +273,6 @@
       "onboard_time": 1752207142,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 397546,
-      "num": 397546,
-      "word": "孙悟空同款泳衣卖爆了",
-      "onboard_time": 1752208524,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 392160,
@@ -339,20 +339,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 340982,
+      "num": 664448,
+      "word": "幼儿血铅异常事件谁是罪魁祸首",
+      "onboard_time": 1752208463,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 337646,
+      "num": 337646,
+      "word": "杨瀚森王楚钦身高差",
+      "onboard_time": 1752208163,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 333682,
       "num": 333682,
       "word": "研究生给室友投毒致死后销毁物证",
       "onboard_time": 1752191541,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 332153,
-      "num": 332153,
-      "word": "杨瀚森王楚钦身高差",
-      "onboard_time": 1752208163,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 328226,
@@ -387,6 +395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 303698,
+      "num": 303698,
+      "word": "王鹤棣小兰花还有替身文学",
+      "onboard_time": 1752207923,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 301600,
       "num": 301600,
       "word": "孙颖莎王曼昱vs申裕斌杜凯琹",
@@ -419,12 +435,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 275438,
-      "num": 275438,
-      "word": "王鹤棣小兰花还有替身文学",
-      "onboard_time": 1752207923,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 276233,
+      "num": 276233,
+      "word": "jump MV",
+      "onboard_time": 1752208822,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 274061,
@@ -507,6 +523,22 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 223383,
+      "num": 223383,
+      "word": "店员洗头时猥亵女顾客被拘",
+      "onboard_time": 1752209123,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 218893,
+      "num": 218893,
+      "word": "BLACKPINK空降",
+      "onboard_time": 1752209483,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 215501,
       "num": 215501,
       "word": "最好吃的荔枝排名",
@@ -547,28 +579,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 206333,
-      "num": 664448,
-      "word": "幼儿血铅异常事件谁是罪魁祸首",
-      "onboard_time": 1752208463,
-      "rank": 9,
-      "category": "舆论监督"
+      "raw_hot": 208594,
+      "num": 208594,
+      "word": "王楚钦快速进8强",
+      "onboard_time": 1752209483,
+      "rank": 31,
+      "category": "体育"
     },
     {
-      "raw_hot": 205982,
-      "num": 205982,
+      "raw_hot": 207326,
+      "num": 207326,
       "word": "脱口秀和Ta的朋友们",
       "onboard_time": 1752208644,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205486,
-      "num": 205486,
-      "word": "jump MV",
-      "onboard_time": 1752208822,
-      "rank": 33,
-      "category": "音乐"
     },
     {
       "raw_hot": 204847,
@@ -691,6 +715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187536,
+      "num": 187536,
+      "word": "微笑一号店直播",
+      "onboard_time": 1752209123,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187504,
       "num": 187504,
       "word": "夏日烟火游园会",
@@ -739,11 +771,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 179779,
-      "num": 179779,
-      "word": "微笑一号店直播",
-      "onboard_time": 1752209123,
-      "rank": 42,
+      "raw_hot": 179684,
+      "num": 179684,
+      "word": "范丞丞李昀锐有自己的伞",
+      "onboard_time": 1752208822,
+      "rank": 43,
       "category": "综艺"
     },
     {
@@ -755,12 +787,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 178673,
-      "num": 178673,
-      "word": "范丞丞李昀锐有自己的伞",
-      "onboard_time": 1752208822,
-      "rank": 43,
-      "category": "综艺"
+      "raw_hot": 173025,
+      "num": 173025,
+      "word": "朋友说昨晚进入平行世界了",
+      "onboard_time": 1752209002,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 172769,
@@ -803,14 +835,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164348,
-      "num": 164348,
-      "word": "店员洗头时猥亵女顾客被拘",
-      "onboard_time": 1752209123,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 163731,
       "num": 163731,
       "word": "孙颖莎女双赛场继续加油",
@@ -835,12 +859,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 157847,
-      "num": 157847,
-      "word": "朋友说昨晚进入平行世界了",
-      "onboard_time": 1752209002,
-      "rank": 48,
-      "category": "情感"
+      "raw_hot": 157348,
+      "num": 157348,
+      "word": "豆包生图太离谱了",
+      "onboard_time": 1752208885,
+      "rank": 49,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 156418,
@@ -913,14 +937,6 @@
       "onboard_time": 1752157643,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 138961,
-      "num": 155355,
-      "word": "豆包生图太离谱了",
-      "onboard_time": 1752208885,
-      "rank": 49,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 137441,
@@ -1267,6 +1283,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 74996,
+      "num": 356352,
+      "word": "母亲给高三女儿买聪明药致成瘾吸毒",
+      "onboard_time": 1752208942,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74850,
       "num": 74850,
       "word": "京城大师赛",
@@ -1331,6 +1355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61998,
+      "num": 188804,
+      "word": "秦彻天地共舞",
+      "onboard_time": 1752208584,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 57649,
       "num": 57649,
       "word": "马国明用2000条短信追求汤洛雯",
@@ -1353,14 +1385,6 @@
       "onboard_time": 1752166999,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 47935,
-      "num": 188804,
-      "word": "秦彻天地共舞",
-      "onboard_time": 1752208584,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 47737,
@@ -1587,14 +1611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 16840,
-      "num": 356352,
-      "word": "母亲给高三女儿买聪明药致成瘾吸毒",
-      "onboard_time": 1752208942,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 14160,
       "num": 17047,
       "word": "我的母亲",
@@ -1627,7 +1643,7 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 3047,
+      "raw_hot": 3601,
       "num": 1194090,
       "word": "活力中国调研行",
       "onboard_time": 1752050482,
