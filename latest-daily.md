@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/12 00:33:31 ~ 2025/07/12 05:26:01
+本榜单时间：2025/07/12 00:33:31 ~ 2025/07/12 05:40:50
 </p>
 </blockquote>
 <p>
@@ -447,6 +447,12 @@ Grace淘汰（热度：91849）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%A4%9A%E5%9C%B0%E5%AE%9E%E6%96%BD%E6%B0%B4%E7%AE%A1%E7%A6%81%E4%BB%A4%23" target="weibo">
+英国多地实施水管禁令（热度：19869）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E5%8F%8C%E7%BD%91%E6%94%B6%E8%A7%86%E7%A0%B41%23" target="weibo">
 歌手双网收视破1（热度：18957）
 </a>
@@ -467,12 +473,6 @@ Grace淘汰（热度：91849）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%86%E6%84%8F%E5%B0%91%E5%B9%B4%E7%AA%81%E5%9B%B4%E5%BC%80%E6%92%AD%23" target="weibo">
 肆意少年突围开播（热度：14422）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%A4%9A%E5%9C%B0%E5%AE%9E%E6%96%BD%E6%B0%B4%E7%AE%A1%E7%A6%81%E4%BB%A4%23" target="weibo">
-英国多地实施水管禁令（热度：11926）
 </a>
 </li>
 

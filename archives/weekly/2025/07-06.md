@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/06 00:30:22 ~ 2025/07/12 05:26:01
+本榜单时间：2025/07/06 00:30:22 ~ 2025/07/12 05:40:50
 </p>
 </blockquote>
 <p>
@@ -16383,6 +16383,12 @@ Jwei取关FPX（热度：25101）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%A4%9A%E5%9C%B0%E5%AE%9E%E6%96%BD%E6%B0%B4%E7%AE%A1%E7%A6%81%E4%BB%A4%23" target="weibo">
+英国多地实施水管禁令（热度：19869）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B6%85%E4%BA%BA%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%98%A0%E7%A4%BC%23" target="weibo">
 超人中国首映礼（热度：19755）
 </a>
@@ -16685,12 +16691,6 @@ F1功勋领队三个原因导致被解雇（热度：14530）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%B9%E5%85%8B%E7%90%83%E6%88%90%E4%B8%BA%E4%B8%AD%E7%BE%8E%E9%9D%92%E5%B0%91%E5%B9%B4%E4%BA%A4%E6%B5%81%E7%9A%84%E6%96%B0%E7%BA%BD%E5%B8%A6%23" target="weibo">
 匹克球成为中美青少年交流的新纽带（热度：12126）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%A4%9A%E5%9C%B0%E5%AE%9E%E6%96%BD%E6%B0%B4%E7%AE%A1%E7%A6%81%E4%BB%A4%23" target="weibo">
-英国多地实施水管禁令（热度：11926）
 </a>
 </li>
 

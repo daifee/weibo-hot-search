@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752269161439,
+  "endTime": 1752270050951,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -38724,7 +38724,7 @@
     },
     {
       "raw_hot": 21741,
-      "num": 21741,
+      "num": 23323,
       "word": "张本智和3比2阿鲁纳",
       "onboard_time": 1752268094,
       "rank": 36,
@@ -38889,6 +38889,14 @@
       "onboard_time": 1751784081,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19869,
+      "num": 54091,
+      "word": "英国多地实施水管禁令",
+      "onboard_time": 1752268275,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 19851,
@@ -39681,14 +39689,6 @@
       "onboard_time": 1751830335,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 11926,
-      "num": 54091,
-      "word": "英国多地实施水管禁令",
-      "onboard_time": 1752268275,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 11896,
