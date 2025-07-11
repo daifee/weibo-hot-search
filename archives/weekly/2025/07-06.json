@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1752219788199,
+  "endTime": 1752222947675,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -313,6 +313,14 @@
       "onboard_time": 1751883682,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1768229,
+      "num": 288182,
+      "word": "田栩宁告了天天开心",
+      "onboard_time": 1752220465,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1764044,
@@ -2243,6 +2251,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 606535,
+      "num": 606535,
+      "word": "福建一小学生遭同学殴打老师拍裸照",
+      "onboard_time": 1752220345,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 605682,
       "num": 605682,
       "word": "挂绿荔枝",
@@ -2897,6 +2913,14 @@
       "onboard_time": 1751778022,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 478331,
+      "num": 229831,
+      "word": "宋祖儿瘦成纸片人了",
+      "onboard_time": 1752220164,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 477660,
@@ -3635,6 +3659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 378870,
+      "num": 378870,
+      "word": "Bin说我是最强的上路",
+      "onboard_time": 1752221004,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 377293,
       "num": 377293,
       "word": "隔夜水 蚊子卵",
@@ -4185,6 +4217,14 @@
       "onboard_time": 1751885542,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 328634,
+      "num": 328634,
+      "word": "临沂一饭店老板发视频遭45万罚单",
+      "onboard_time": 1752221185,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 327963,
@@ -5403,6 +5443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 256628,
+      "num": 256628,
+      "word": "孙颖莎说我来护你",
+      "onboard_time": 1752219445,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 256156,
       "num": 256156,
       "word": "巨改善脖子前倾的15天有效法",
@@ -5579,6 +5627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 248700,
+      "num": 248700,
+      "word": "娄艺潇开始演短剧了",
+      "onboard_time": 1752222743,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 248652,
       "num": 250666,
       "word": "龙树谅称日本末日预言不是她写的",
@@ -5657,6 +5713,14 @@
       "onboard_time": 1752210623,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 244107,
+      "num": 244107,
+      "word": "三亚榴莲",
+      "onboard_time": 1752222084,
+      "rank": 17,
+      "category": "美食"
     },
     {
       "raw_hot": 243992,
@@ -6313,14 +6377,6 @@
       "onboard_time": 1751967262,
       "rank": 32,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 218241,
-      "num": 218241,
-      "word": "孙颖莎说我来护你",
-      "onboard_time": 1752219445,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 217692,
@@ -7747,6 +7803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190519,
+      "num": 148999,
+      "word": "产业链上的山东好品牌",
+      "onboard_time": 1752221185,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190214,
       "num": 190214,
       "word": "李现夸杨紫一夸就是14年",
@@ -8339,8 +8403,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 180991,
-      "num": 180991,
+      "raw_hot": 181096,
+      "num": 181096,
       "word": "厦门暴雨",
       "onboard_time": 1752218963,
       "rank": 42,
@@ -9185,6 +9249,14 @@
       "onboard_time": 1751807906,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169304,
+      "num": 169304,
+      "word": "一诺EWC开幕式出场",
+      "onboard_time": 1752222924,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 169298,
@@ -10587,6 +10659,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150438,
+      "num": 150438,
+      "word": "A股市场爆发原因",
+      "onboard_time": 1752221004,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 150370,
+      "num": 150370,
+      "word": "俄媒称俄将放弃唯一航母",
+      "onboard_time": 1752219805,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 150255,
       "num": 150255,
       "word": "敢跟谢霆锋这么说话的只有阿Sa",
@@ -11107,6 +11195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145273,
+      "num": 145273,
+      "word": "BLG采访",
+      "onboard_time": 1752221722,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 145234,
       "num": 145234,
       "word": "李人骏这集挨骂没毛病",
@@ -11241,6 +11337,14 @@
       "onboard_time": 1751870664,
       "rank": 46,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 144184,
+      "num": 144184,
+      "word": "校方通报小学生遭殴打拍裸照",
+      "onboard_time": 1752221844,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144183,
@@ -11435,6 +11539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142241,
+      "num": 199867,
+      "word": "广州一女生在出租房发现隐藏摄像头",
+      "onboard_time": 1752219683,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142179,
       "num": 142179,
       "word": "杨超越硬照这块就没输过",
@@ -11555,6 +11667,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 141197,
+      "num": 145581,
+      "word": "BLACKPINK和TWICE新歌成绩",
+      "onboard_time": 1752222563,
+      "rank": 42,
+      "category": "音乐,艺人"
+    },
+    {
       "raw_hot": 141178,
       "num": 146517,
       "word": "刘宇宁的压迫感",
@@ -11627,6 +11747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 139904,
+      "num": 139904,
+      "word": "何惟芳蒋长扬汤泉共浴",
+      "onboard_time": 1752222863,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139901,
       "num": 183255,
       "word": "梓渝线下活动生图",
@@ -11656,6 +11784,14 @@
       "word": "沈阳一男子将私家车改装为警车",
       "onboard_time": 1751856084,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139805,
+      "num": 146322,
+      "word": "男孩术后脑死亡医院今年刚被处罚",
+      "onboard_time": 1752220885,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -11969,6 +12105,14 @@
       "onboard_time": 1752059483,
       "rank": 35,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 136323,
+      "num": 147575,
+      "word": "YU7爆火后谁成为了赢家",
+      "onboard_time": 1752222383,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 136315,
@@ -15107,6 +15251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108666,
+      "num": 150380,
+      "word": "715万牛郎织女雕塑调查为何没结果",
+      "onboard_time": 1752220885,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108528,
       "num": 108528,
       "word": "邻居房产遭查封执行的竟是我的房",
@@ -17355,6 +17507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 72689,
+      "num": 236489,
+      "word": "房东接错线租客交了5年公区电费",
+      "onboard_time": 1752222084,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72531,
       "num": 138279,
       "word": "明日方舟",
@@ -17633,6 +17793,14 @@
       "onboard_time": 1751791224,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67225,
+      "num": 149383,
+      "word": "无限暖暖",
+      "onboard_time": 1751910556,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 66973,
@@ -19979,14 +20147,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 15235,
-      "num": 16104,
-      "word": "无限暖暖",
-      "onboard_time": 1751910556,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 15228,
       "num": 309854,
       "word": "酒后开启智驾也是酒驾",
@@ -20113,14 +20273,6 @@
       "onboard_time": 1751830335,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 12064,
-      "num": 199867,
-      "word": "广州一女生在出租房发现隐藏摄像头",
-      "onboard_time": 1752219683,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11896,

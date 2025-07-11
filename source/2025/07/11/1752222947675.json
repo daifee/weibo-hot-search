@@ -1,0 +1,410 @@
+{
+  "runTime": 1752222947675,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1303671,
+        "num": 1303671,
+        "word": "鞠婧祎摔得好重",
+        "onboard_time": 1752216023,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1243879,
+        "num": 1243879,
+        "word": "女子在缅北遭持枪强迫卖淫",
+        "onboard_time": 1752213682,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 5339,
+        "num": 919419,
+        "word": "活力中国调研行",
+        "onboard_time": 1752050482,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 606535,
+        "num": 606535,
+        "word": "福建一小学生遭同学殴打老师拍裸照",
+        "onboard_time": 1752220345,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391785,
+        "num": 391785,
+        "word": "3成人存款超过50万元",
+        "onboard_time": 1752216681,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 378870,
+        "num": 378870,
+        "word": "Bin说我是最强的上路",
+        "onboard_time": 1752221004,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 338521,
+        "num": 338521,
+        "word": "比伯魔童降世",
+        "onboard_time": 1752210143,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 328634,
+        "num": 328634,
+        "word": "临沂一饭店老板发视频遭45万罚单",
+        "onboard_time": 1752221185,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300008,
+        "num": 300008,
+        "word": "做美甲和不做美甲的都沉默了",
+        "onboard_time": 1752210502,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 288302,
+        "num": 288302,
+        "word": "张杰谢娜帮马嘉祺参考歌手选曲",
+        "onboard_time": 1752219146,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1768229,
+        "num": 288182,
+        "word": "田栩宁告了天天开心",
+        "onboard_time": 1752220465,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287644,
+        "num": 287644,
+        "word": "奶奶频繁亲吻孙子致其患亲吻病",
+        "onboard_time": 1752211042,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280044,
+        "num": 280044,
+        "word": "素人时期的李一桐",
+        "onboard_time": 1752210024,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270473,
+        "num": 270473,
+        "word": "中国的垃圾被抢疯了",
+        "onboard_time": 1752213862,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256628,
+        "num": 256628,
+        "word": "孙颖莎说我来护你",
+        "onboard_time": 1752219445,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255428,
+        "num": 255428,
+        "word": "苏醒为老婆庆30岁生日",
+        "onboard_time": 1752218725,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248700,
+        "num": 248700,
+        "word": "娄艺潇开始演短剧了",
+        "onboard_time": 1752222743,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244107,
+        "num": 244107,
+        "word": "三亚榴莲",
+        "onboard_time": 1752222084,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 65036,
+        "num": 241313,
+        "word": "2元的花种真能包邮送到雪山下吗",
+        "onboard_time": 1752219324,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72689,
+        "num": 236489,
+        "word": "房东接错线租客交了5年公区电费",
+        "onboard_time": 1752222084,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 527341,
+        "num": 232603,
+        "word": "牛在在梓渝直播",
+        "onboard_time": 1752212962,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 478331,
+        "num": 229831,
+        "word": "宋祖儿瘦成纸片人了",
+        "onboard_time": 1752220164,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226532,
+        "num": 226532,
+        "word": "药物化男性",
+        "onboard_time": 1752218604,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200879,
+        "num": 200879,
+        "word": "Bin哥骗我",
+        "onboard_time": 1752203901,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 198173,
+        "num": 198173,
+        "word": "这个荔枝死了吗",
+        "onboard_time": 1752205943,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 253805,
+        "num": 196598,
+        "word": "梓渝直接上手",
+        "onboard_time": 1752219024,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181096,
+        "num": 181096,
+        "word": "厦门暴雨",
+        "onboard_time": 1752218963,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173856,
+        "num": 179186,
+        "word": "你好星期六",
+        "onboard_time": 1752210562,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178877,
+        "num": 178877,
+        "word": "店员洗头时猥亵女顾客被拘",
+        "onboard_time": 1752209123,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149788,
+        "num": 178670,
+        "word": "看口型就知道Angelababy有多开心",
+        "onboard_time": 1752212362,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178500,
+        "num": 178500,
+        "word": "孙悟空同款泳衣卖爆了",
+        "onboard_time": 1752208524,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172824,
+        "num": 172824,
+        "word": "公务员带薪服刑绝对不行",
+        "onboard_time": 1752214582,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169304,
+        "num": 169304,
+        "word": "一诺EWC开幕式出场",
+        "onboard_time": 1752222924,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 165037,
+        "num": 165037,
+        "word": "微信账户2年被朋友扫码盗走19万",
+        "onboard_time": 1752217341,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160281,
+        "num": 160281,
+        "word": "你的隐私正在快递单上裸奔",
+        "onboard_time": 1752211761,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150438,
+        "num": 150438,
+        "word": "A股市场爆发原因",
+        "onboard_time": 1752221004,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 108666,
+        "num": 150380,
+        "word": "715万牛郎织女雕塑调查为何没结果",
+        "onboard_time": 1752220885,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150370,
+        "num": 150370,
+        "word": "俄媒称俄将放弃唯一航母",
+        "onboard_time": 1752219805,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 67225,
+        "num": 149383,
+        "word": "无限暖暖",
+        "onboard_time": 1752222144,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190519,
+        "num": 148999,
+        "word": "产业链上的山东好品牌",
+        "onboard_time": 1752221185,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136323,
+        "num": 147575,
+        "word": "YU7爆火后谁成为了赢家",
+        "onboard_time": 1752222383,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 139805,
+        "num": 146322,
+        "word": "男孩术后脑死亡医院今年刚被处罚",
+        "onboard_time": 1752220885,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141197,
+        "num": 145581,
+        "word": "BLACKPINK和TWICE新歌成绩",
+        "onboard_time": 1752222563,
+        "rank": 42,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 145273,
+        "num": 145273,
+        "word": "BLG采访",
+        "onboard_time": 1752221722,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144184,
+        "num": 144184,
+        "word": "校方通报小学生遭殴打拍裸照",
+        "onboard_time": 1752221844,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142241,
+        "num": 142241,
+        "word": "广州一女生在出租房发现隐藏摄像头",
+        "onboard_time": 1752219683,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139904,
+        "num": 139904,
+        "word": "何惟芳蒋长扬汤泉共浴",
+        "onboard_time": 1752222863,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136888,
+        "num": 136888,
+        "word": "Clearlove疑似加入JDG",
+        "onboard_time": 1752213922,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136882,
+        "num": 136882,
+        "word": "BLACKPINK空降",
+        "onboard_time": 1752209483,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 135806,
+        "num": 135806,
+        "word": "上班族7月就要这样请假",
+        "onboard_time": 1752217824,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#扎扎实实地干实现我们的中国式现代化#"
+    }
+  }
+}

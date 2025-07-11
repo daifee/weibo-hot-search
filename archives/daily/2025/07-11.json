@@ -1,6 +1,6 @@
 {
   "startTime": 1752165274435,
-  "endTime": 1752219788199,
+  "endTime": 1752222947675,
   "band_list": [
     {
       "raw_hot": 1989173,
@@ -17,6 +17,14 @@
       "onboard_time": 1752205943,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1768229,
+      "num": 288182,
+      "word": "田栩宁告了天天开心",
+      "onboard_time": 1752220465,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1709577,
@@ -251,6 +259,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 606535,
+      "num": 606535,
+      "word": "福建一小学生遭同学殴打老师拍裸照",
+      "onboard_time": 1752220345,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 592570,
       "num": 592570,
       "word": "内娱神女降级史",
@@ -329,6 +345,14 @@
       "onboard_time": 1752152242,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 478331,
+      "num": 229831,
+      "word": "宋祖儿瘦成纸片人了",
+      "onboard_time": 1752220164,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 475201,
@@ -417,6 +441,14 @@
       "onboard_time": 1752188718,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 378870,
+      "num": 378870,
+      "word": "Bin说我是最强的上路",
+      "onboard_time": 1752221004,
+      "rank": 5,
+      "category": "电竞"
     },
     {
       "raw_hot": 375066,
@@ -513,6 +545,14 @@
       "onboard_time": 1752207923,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 328634,
+      "num": 328634,
+      "word": "临沂一饭店老板发视频遭45万罚单",
+      "onboard_time": 1752221185,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 328226,
@@ -667,6 +707,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 256628,
+      "num": 256628,
+      "word": "孙颖莎说我来护你",
+      "onboard_time": 1752219445,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 255709,
       "num": 255709,
       "word": "朱雨玲曾是国乒世界第一",
@@ -691,6 +739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 248700,
+      "num": 248700,
+      "word": "娄艺潇开始演短剧了",
+      "onboard_time": 1752222743,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 246397,
       "num": 246397,
       "word": "杨幂欧豪生万物暑假开播",
@@ -705,6 +761,14 @@
       "onboard_time": 1752210623,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 244107,
+      "num": 244107,
+      "word": "三亚榴莲",
+      "onboard_time": 1752222084,
+      "rank": 17,
+      "category": "美食"
     },
     {
       "raw_hot": 241688,
@@ -753,14 +817,6 @@
       "onboard_time": 1752212603,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 218241,
-      "num": 218241,
-      "word": "孙颖莎说我来护你",
-      "onboard_time": 1752219445,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 217692,
@@ -1019,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190519,
+      "num": 148999,
+      "word": "产业链上的山东好品牌",
+      "onboard_time": 1752221185,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189543,
       "num": 189543,
       "word": "肖战新的口播",
@@ -1091,8 +1155,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 180991,
-      "num": 180991,
+      "raw_hot": 181096,
+      "num": 181096,
       "word": "厦门暴雨",
       "onboard_time": 1752218963,
       "rank": 42,
@@ -1187,6 +1251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169304,
+      "num": 169304,
+      "word": "一诺EWC开幕式出场",
+      "onboard_time": 1752222924,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 168390,
       "num": 168390,
       "word": "樱桃琥珀",
@@ -1275,6 +1347,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150438,
+      "num": 150438,
+      "word": "A股市场爆发原因",
+      "onboard_time": 1752221004,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 150370,
+      "num": 150370,
+      "word": "俄媒称俄将放弃唯一航母",
+      "onboard_time": 1752219805,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 148993,
       "num": 148993,
       "word": "如果允许退货退款的买家发买家秀",
@@ -1315,6 +1403,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145273,
+      "num": 145273,
+      "word": "BLG采访",
+      "onboard_time": 1752221722,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 144184,
+      "num": 144184,
+      "word": "校方通报小学生遭殴打拍裸照",
+      "onboard_time": 1752221844,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142956,
       "num": 142956,
       "word": "武汉地铁黑人男子不文明行为",
@@ -1331,6 +1435,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 142241,
+      "num": 199867,
+      "word": "广州一女生在出租房发现隐藏摄像头",
+      "onboard_time": 1752219683,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141327,
       "num": 141327,
       "word": "谢霆锋你让我感到陌生",
@@ -1339,11 +1451,35 @@
       "category": "演出"
     },
     {
+      "raw_hot": 141197,
+      "num": 145581,
+      "word": "BLACKPINK和TWICE新歌成绩",
+      "onboard_time": 1752222563,
+      "rank": 42,
+      "category": "音乐,艺人"
+    },
+    {
       "raw_hot": 140538,
       "num": 195270,
       "word": "白家拔掉底层电诈人员指甲",
       "onboard_time": 1752212781,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139904,
+      "num": 139904,
+      "word": "何惟芳蒋长扬汤泉共浴",
+      "onboard_time": 1752222863,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 139805,
+      "num": 146322,
+      "word": "男孩术后脑死亡医院今年刚被处罚",
+      "onboard_time": 1752220885,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -1385,6 +1521,14 @@
       "onboard_time": 1752154043,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136323,
+      "num": 147575,
+      "word": "YU7爆火后谁成为了赢家",
+      "onboard_time": 1752222383,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 135336,
@@ -1536,6 +1680,14 @@
       "word": "司机用生命救下一车游客亲属发声",
       "onboard_time": 1752199161,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108666,
+      "num": 150380,
+      "word": "715万牛郎织女雕塑调查为何没结果",
+      "onboard_time": 1752220885,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -1907,12 +2059,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 72689,
+      "num": 236489,
+      "word": "房东接错线租客交了5年公区电费",
+      "onboard_time": 1752222084,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71323,
       "num": 71323,
       "word": "皮蛋开始在美国供不应求",
       "onboard_time": 1752190099,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 67225,
+      "num": 149383,
+      "word": "无限暖暖",
+      "onboard_time": 1752222144,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 66973,
@@ -2321,14 +2489,6 @@
       "onboard_time": 1752173055,
       "rank": 18,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 12064,
-      "num": 199867,
-      "word": "广州一女生在出租房发现隐藏摄像头",
-      "onboard_time": 1752219683,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11095,
