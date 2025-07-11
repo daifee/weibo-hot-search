@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752230820274,
+  "endTime": 1752233059522,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -4259,6 +4259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 607009,
+      "num": 607009,
+      "word": "马嘉祺 歌手复活赛",
+      "onboard_time": 1752231683,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 605682,
       "num": 605682,
       "word": "挂绿荔枝",
@@ -5385,6 +5393,14 @@
       "onboard_time": 1751451023,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 495238,
+      "num": 250078,
+      "word": "展轩晒照",
+      "onboard_time": 1752229702,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 495198,
@@ -7363,6 +7379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 361688,
+      "num": 194738,
+      "word": "锦绣芳华尺度",
+      "onboard_time": 1752230962,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 361327,
       "num": 346236,
       "word": "吴莫愁换了万年不变铁刘海",
@@ -7617,6 +7641,14 @@
       "onboard_time": 1751980284,
       "rank": 8,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 349104,
+      "num": 244136,
+      "word": "女脱口秀演员 血肉疯长的声音",
+      "onboard_time": 1752230242,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 346919,
@@ -8065,6 +8097,14 @@
       "onboard_time": 1751725344,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 330363,
+      "num": 188223,
+      "word": "35岁以后真的会断崖式衰老",
+      "onboard_time": 1752231202,
+      "rank": 17,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 330017,
@@ -8979,6 +9019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 297327,
+      "num": 204751,
+      "word": "梓渝偷偷抹眼泪",
+      "onboard_time": 1752230543,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 297159,
       "num": 268634,
       "word": "日本气象厅紧急辟谣",
@@ -9680,14 +9728,6 @@
       "word": "汪明荃尊重罗家英放弃化疗",
       "onboard_time": 1751875522,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 273812,
-      "num": 250078,
-      "word": "展轩晒照",
-      "onboard_time": 1752229702,
-      "rank": 39,
       "category": "艺人"
     },
     {
@@ -11081,6 +11121,14 @@
       "onboard_time": 1751789480,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 237473,
+      "num": 134692,
+      "word": "27岁在体制内在编五年辞职了",
+      "onboard_time": 1752233004,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 237291,
@@ -13209,14 +13257,6 @@
       "onboard_time": 1751676261,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 204751,
-      "num": 204751,
-      "word": "梓渝偷偷抹眼泪",
-      "onboard_time": 1752230543,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 204460,
@@ -15635,6 +15675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184788,
+      "num": 184788,
+      "word": "春秋航空女乘务员换平底鞋",
+      "onboard_time": 1752227065,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184666,
       "num": 184666,
       "word": "梁靖崑2比3巴德",
@@ -16480,14 +16528,6 @@
       "word": "为什么点外卖比到店就餐更便宜",
       "onboard_time": 1751463804,
       "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 176034,
-      "num": 176034,
-      "word": "春秋航空女乘务员换平底鞋",
-      "onboard_time": 1752227065,
-      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -19515,14 +19555,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 154243,
-      "num": 244136,
-      "word": "女脱口秀演员 血肉疯长的声音",
-      "onboard_time": 1752230242,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 154230,
       "num": 154230,
       "word": "周杰伦昆凌儿子8岁近照",
@@ -19681,6 +19713,14 @@
       "onboard_time": 1751346383,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153395,
+      "num": 153395,
+      "word": "单依纯扒何炅衣服",
+      "onboard_time": 1752232162,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 153359,
@@ -21291,6 +21331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144308,
+      "num": 144308,
+      "word": "亚裔男子赌场输光积蓄",
+      "onboard_time": 1752230183,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 144290,
       "num": 144290,
       "word": "北京暴雨开车如开船",
@@ -22451,6 +22499,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 137923,
+      "num": 137923,
+      "word": "桃花映江山大结局",
+      "onboard_time": 1752232703,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137853,
       "num": 137853,
       "word": "刚买超前点播盗版剧就上线了",
@@ -22937,6 +22993,14 @@
       "onboard_time": 1752030983,
       "rank": 23,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 135315,
+      "num": 255377,
+      "word": "手机壳选不对等于手抓毒源",
+      "onboard_time": 1752229880,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135314,
@@ -24019,6 +24083,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 130180,
+      "num": 130180,
+      "word": "过度提醒会毁掉人的内驱动力",
+      "onboard_time": 1752230183,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130135,
       "num": 130135,
       "word": "世界上最没用的一句话",
@@ -24633,14 +24705,6 @@
       "onboard_time": 1751449101,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 127178,
-      "num": 127178,
-      "word": "过度提醒会毁掉人的内驱动力",
-      "onboard_time": 1752230183,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 127142,
@@ -25417,6 +25481,14 @@
       "onboard_time": 1751617042,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 123443,
+      "num": 123443,
+      "word": "陈熠14岁时身高已达1米74",
+      "onboard_time": 1752231622,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 123382,
@@ -27403,6 +27475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 114580,
+      "num": 114580,
+      "word": "塑料味浓烈的手机壳有毒物质或超标",
+      "onboard_time": 1752232462,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 114478,
       "num": 114478,
       "word": "曾舜晞陈伟霆九门同框路透",
@@ -27753,6 +27833,14 @@
       "onboard_time": 1751703622,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112886,
+      "num": 112886,
+      "word": "无名重映",
+      "onboard_time": 1752230843,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 112850,
@@ -29211,6 +29299,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 105820,
+      "num": 105820,
+      "word": "LPL第三赛段赛程",
+      "onboard_time": 1752232943,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 105799,
       "num": 188249,
       "word": "杨紫李现互喂樱桃",
@@ -30163,6 +30259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100390,
+      "num": 100390,
+      "word": "周杰伦厦门演唱会",
+      "onboard_time": 1752231321,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 100345,
       "num": 357378,
       "word": "高二学生勤工俭学日结200元变10元",
@@ -30529,6 +30633,14 @@
       "onboard_time": 1751498479,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 98153,
+      "num": 98153,
+      "word": "地球online",
+      "onboard_time": 1752232101,
+      "rank": 48,
+      "category": "情感,游戏"
     },
     {
       "raw_hot": 98006,
@@ -32283,6 +32395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 80027,
+      "num": 202565,
+      "word": "我海警依法对日方船只采取必要管控",
+      "onboard_time": 1752231981,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 79987,
       "num": 190275,
       "word": "超20家中国俱乐部出征电竞世界杯",
@@ -32865,14 +32985,6 @@
       "onboard_time": 1752211102,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 72499,
-      "num": 255377,
-      "word": "手机壳选不对等于手抓毒源",
-      "onboard_time": 1752229880,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 72264,
@@ -34835,6 +34947,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 48418,
+      "num": 192930,
+      "word": "扎哈罗娃用中俄外长名字玩谐音梗",
+      "onboard_time": 1752231683,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 48358,
       "num": 48358,
       "word": "这小猫有种上辈子没忘干净的感觉",
@@ -36089,6 +36209,14 @@
       "onboard_time": 1751308155,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 35391,
+      "num": 134774,
+      "word": "团伙帮37人作弊17人入职获编制",
+      "onboard_time": 1752232882,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35256,
@@ -37721,6 +37849,14 @@
       "onboard_time": 1751479936,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 18857,
+      "num": 114500,
+      "word": "5分钟说尽苏超前世今生",
+      "onboard_time": 1752230962,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 18630,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1752233059522,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 755234,
+        "num": 1120837,
+        "word": "女子在缅北遭持枪强迫卖淫",
+        "onboard_time": 1752213682,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 607009,
+        "num": 607009,
+        "word": "马嘉祺 歌手复活赛",
+        "onboard_time": 1752231683,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39009,
+        "num": 570929,
+        "word": "快存下这份暴雨安全指南",
+        "onboard_time": 1752224783,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 566235,
+        "num": 566235,
+        "word": "肖战小心翼翼地四处闯祸",
+        "onboard_time": 1752227603,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 496715,
+        "num": 496715,
+        "word": "日本首相称要赌上国运",
+        "onboard_time": 1752227003,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 289956,
+        "num": 289956,
+        "word": "6岁男童误吞遥控器电池获赔4000万美元",
+        "onboard_time": 1752223584,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 510237,
+        "num": 288563,
+        "word": "朝雪录 提档",
+        "onboard_time": 1752228921,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 398392,
+        "num": 253085,
+        "word": "歌手直播",
+        "onboard_time": 1752232582,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202674,
+        "num": 202674,
+        "word": "临沂一饭店老板发视频遭45万罚单",
+        "onboard_time": 1752221185,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80027,
+        "num": 202565,
+        "word": "我海警依法对日方船只采取必要管控",
+        "onboard_time": 1752231981,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 496817,
+        "num": 200086,
+        "word": "杜海涛减肥失败有沈梦辰一份功劳",
+        "onboard_time": 1752228921,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 495238,
+        "num": 198081,
+        "word": "展轩晒照",
+        "onboard_time": 1752229702,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374322,
+        "num": 196390,
+        "word": "书卷一梦大结局",
+        "onboard_time": 1752229642,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 361688,
+        "num": 194738,
+        "word": "锦绣芳华尺度",
+        "onboard_time": 1752230962,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48418,
+        "num": 192930,
+        "word": "扎哈罗娃用中俄外长名字玩谐音梗",
+        "onboard_time": 1752231683,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 365037,
+        "num": 190280,
+        "word": "曝杨少华儿子悲伤过度被抬出灵堂",
+        "onboard_time": 1752224064,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349104,
+        "num": 189068,
+        "word": "女脱口秀演员 血肉疯长的声音",
+        "onboard_time": 1752230242,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330363,
+        "num": 188223,
+        "word": "35岁以后真的会断崖式衰老",
+        "onboard_time": 1752231202,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 313857,
+        "num": 184955,
+        "word": "蔡徐坤裤子",
+        "onboard_time": 1752226523,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184788,
+        "num": 184788,
+        "word": "春秋航空女乘务员换平底鞋",
+        "onboard_time": 1752227065,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 511365,
+        "num": 180770,
+        "word": "鞠婧祎摔得好重",
+        "onboard_time": 1752216023,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 503651,
+        "num": 173823,
+        "word": "娄艺潇开始演短剧了",
+        "onboard_time": 1752222743,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297327,
+        "num": 162129,
+        "word": "梓渝偷偷抹眼泪",
+        "onboard_time": 1752230543,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289056,
+        "num": 160136,
+        "word": "以后cp共浴就按这个尺度拍",
+        "onboard_time": 1752226822,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153395,
+        "num": 153395,
+        "word": "单依纯扒何炅衣服",
+        "onboard_time": 1752232162,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144308,
+        "num": 144308,
+        "word": "亚裔男子赌场输光积蓄",
+        "onboard_time": 1752230183,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 138182,
+        "num": 138182,
+        "word": "三亚榴莲",
+        "onboard_time": 1752222084,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 146974,
+        "num": 138098,
+        "word": "梓渝我不能健身",
+        "onboard_time": 1752229762,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137923,
+        "num": 137923,
+        "word": "桃花映江山大结局",
+        "onboard_time": 1752232703,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135315,
+        "num": 135315,
+        "word": "手机壳选不对等于手抓毒源",
+        "onboard_time": 1752229880,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35391,
+        "num": 134774,
+        "word": "团伙帮37人作弊17人入职获编制",
+        "onboard_time": 1752232882,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237473,
+        "num": 134692,
+        "word": "27岁在体制内在编五年辞职了",
+        "onboard_time": 1752233004,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136049,
+        "num": 134584,
+        "word": "Wei BLG",
+        "onboard_time": 1752227303,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134457,
+        "num": 134457,
+        "word": "王源杭州嘉宾 薛之谦",
+        "onboard_time": 1752229762,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130180,
+        "num": 130180,
+        "word": "过度提醒会毁掉人的内驱动力",
+        "onboard_time": 1752230183,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123443,
+        "num": 123443,
+        "word": "陈熠14岁时身高已达1米74",
+        "onboard_time": 1752231622,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121425,
+        "num": 121425,
+        "word": "Bin说我是最强的上路",
+        "onboard_time": 1752221004,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116769,
+        "num": 116769,
+        "word": "9.9元冰淇淋收48元商家被罚1万",
+        "onboard_time": 1752225562,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114580,
+        "num": 114580,
+        "word": "塑料味浓烈的手机壳有毒物质或超标",
+        "onboard_time": 1752232462,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 18857,
+        "num": 114500,
+        "word": "5分钟说尽苏超前世今生",
+        "onboard_time": 1752230962,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114466,
+        "num": 114466,
+        "word": "奶奶频繁亲吻孙子致其患亲吻病",
+        "onboard_time": 1752211042,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114424,
+        "num": 114424,
+        "word": "好利来 光与夜之恋",
+        "onboard_time": 1752227662,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 112886,
+        "num": 112886,
+        "word": "无名重映",
+        "onboard_time": 1752230843,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105820,
+        "num": 105820,
+        "word": "LPL第三赛段赛程",
+        "onboard_time": 1752232943,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103254,
+        "num": 103254,
+        "word": "奔跑吧",
+        "onboard_time": 1752230122,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102314,
+        "num": 102314,
+        "word": "一诺王俊凯合影",
+        "onboard_time": 1752223883,
+        "rank": 45,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 101100,
+        "num": 101100,
+        "word": "中国银联发布声明",
+        "onboard_time": 1752230782,
+        "rank": 46,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 100390,
+        "num": 100390,
+        "word": "周杰伦厦门演唱会",
+        "onboard_time": 1752231321,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 98153,
+        "num": 98153,
+        "word": "地球online",
+        "onboard_time": 1752232101,
+        "rank": 48,
+        "category": "情感,游戏"
+      },
+      {
+        "raw_hot": 98138,
+        "num": 98138,
+        "word": "突然明白了记录生活的意义",
+        "onboard_time": 1752225203,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定文化自信扎根生活沃土#"
+    }
+  }
+}
