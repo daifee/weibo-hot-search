@@ -1,0 +1,410 @@
+{
+  "runTime": 1752218898924,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1709577,
+        "num": 1709577,
+        "word": "女子在缅北遭持枪强迫卖淫",
+        "onboard_time": 1752213682,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1303603,
+        "num": 1303603,
+        "word": "鞠婧祎摔得好重",
+        "onboard_time": 1752216023,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 8095,
+        "num": 748285,
+        "word": "活力中国调研行",
+        "onboard_time": 1752050482,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1371153,
+        "num": 745374,
+        "word": "牛在在梓渝直播",
+        "onboard_time": 1752212962,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 735147,
+        "num": 735147,
+        "word": "做美甲和不做美甲的都沉默了",
+        "onboard_time": 1752210502,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 713554,
+        "num": 713554,
+        "word": "公务员带薪服刑绝对不行",
+        "onboard_time": 1752214582,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 581943,
+        "num": 581943,
+        "word": "看口型就知道Angelababy有多开心",
+        "onboard_time": 1752212362,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 580162,
+        "num": 580162,
+        "word": "比伯魔童降世",
+        "onboard_time": 1752210143,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 531784,
+        "num": 531784,
+        "word": "你的隐私正在快递单上裸奔",
+        "onboard_time": 1752211761,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393094,
+        "num": 393094,
+        "word": "孙悟空同款泳衣卖爆了",
+        "onboard_time": 1752208524,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 852208,
+        "num": 386316,
+        "word": "奶奶频繁亲吻孙子致其患亲吻病",
+        "onboard_time": 1752211042,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 835410,
+        "num": 384367,
+        "word": "仅退款群体画像",
+        "onboard_time": 1752207262,
+        "rank": 11,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 361781,
+        "num": 361781,
+        "word": "中国的垃圾被抢疯了",
+        "onboard_time": 1752213862,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350422,
+        "num": 350422,
+        "word": "这个荔枝死了吗",
+        "onboard_time": 1752205943,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 44750,
+        "num": 330311,
+        "word": "湘大投毒案受害方希望维持凶手死刑",
+        "onboard_time": 1752217283,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319901,
+        "num": 319901,
+        "word": "申通回应高中生卸货因流汗多被辞",
+        "onboard_time": 1752216322,
+        "rank": 15,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 289716,
+        "num": 289716,
+        "word": "BLACKPINK空降",
+        "onboard_time": 1752209483,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 251552,
+        "num": 251552,
+        "word": "素人时期的李一桐",
+        "onboard_time": 1752210024,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246417,
+        "num": 246417,
+        "word": "白家涉诈资金超106亿元",
+        "onboard_time": 1752203480,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 42699,
+        "num": 245185,
+        "word": "央视曝光电诈园区系统化虐待手段",
+        "onboard_time": 1752218483,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 473082,
+        "num": 244836,
+        "word": "3成人存款超过50万元",
+        "onboard_time": 1752216681,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247339,
+        "num": 244646,
+        "word": "店员洗头时猥亵女顾客被拘",
+        "onboard_time": 1752209123,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243989,
+        "num": 243989,
+        "word": "Bin哥骗我",
+        "onboard_time": 1752203901,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 241269,
+        "num": 241269,
+        "word": "王鹤棣小兰花还有替身文学",
+        "onboard_time": 1752207923,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116514,
+        "num": 216148,
+        "word": "律师称投毒案改判可能性微乎其微",
+        "onboard_time": 1752216862,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86897,
+        "num": 214497,
+        "word": "尚界上场",
+        "onboard_time": 1752218363,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 213198,
+        "num": 213198,
+        "word": "世界之外",
+        "onboard_time": 1752210203,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 208367,
+        "num": 208367,
+        "word": "关晓彤把造型师发配边疆好吗",
+        "onboard_time": 1752217341,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200448,
+        "num": 200448,
+        "word": "Clearlove疑似加入JDG",
+        "onboard_time": 1752213922,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 194646,
+        "num": 194646,
+        "word": "孙颖莎回应海产姐妹状态",
+        "onboard_time": 1752215782,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192190,
+        "num": 192190,
+        "word": "上班族7月就要这样请假",
+        "onboard_time": 1752217824,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190211,
+        "num": 190211,
+        "word": "药物化男性",
+        "onboard_time": 1752218604,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199405,
+        "num": 189169,
+        "word": "允许关晓彤洗把脸就来走红毯",
+        "onboard_time": 1752190159,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178454,
+        "num": 178454,
+        "word": "樱桃琥珀定档",
+        "onboard_time": 1752204741,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176767,
+        "num": 176767,
+        "word": "苏醒为老婆庆30岁生日",
+        "onboard_time": 1752218725,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171683,
+        "num": 171683,
+        "word": "母亲给高三女儿买聪明药致成瘾吸毒",
+        "onboard_time": 1752208942,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169666,
+        "num": 169666,
+        "word": "王越说月经应该叫领导",
+        "onboard_time": 1752213682,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167775,
+        "num": 167775,
+        "word": "微信账户2年被朋友扫码盗走19万",
+        "onboard_time": 1752217341,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49258,
+        "num": 160934,
+        "word": "杨瀚森王楚钦互动次元壁裂了",
+        "onboard_time": 1752216622,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12840,
+        "num": 160521,
+        "word": "张朝阳对话诺奖物理学家格罗斯",
+        "onboard_time": 1752217283,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160315,
+        "num": 160315,
+        "word": "店员猥亵女顾客店长称其私自上班",
+        "onboard_time": 1752207682,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165170,
+        "num": 160107,
+        "word": "艾福杰尼开始减肥了",
+        "onboard_time": 1752215062,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159837,
+        "num": 159837,
+        "word": "利剑玫瑰顶级剧宣",
+        "onboard_time": 1752217341,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159776,
+        "num": 159776,
+        "word": "林诗栋蒯曼混双争冠",
+        "onboard_time": 1752215003,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146907,
+        "num": 151362,
+        "word": "A股猛拉",
+        "onboard_time": 1752215661,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 151168,
+        "num": 151168,
+        "word": "就这个阴湿恶女味爽",
+        "onboard_time": 1752218664,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 31582,
+        "num": 150145,
+        "word": "AI带娃强到离谱",
+        "onboard_time": 1752214102,
+        "rank": 46,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 149403,
+        "num": 149403,
+        "word": "父母离婚没人管小孩商场玩手机",
+        "onboard_time": 1752201021,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147894,
+        "num": 147894,
+        "word": "高中生见义勇为救学姐致人死亡",
+        "onboard_time": 1752214763,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140658,
+        "num": 140658,
+        "word": "你好星期六",
+        "onboard_time": 1752210562,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#扎扎实实地干实现我们的中国式现代化#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1752216809177,
+  "endTime": 1752218898924,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -323,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1709577,
+      "num": 1709577,
+      "word": "女子在缅北遭持枪强迫卖淫",
+      "onboard_time": 1752213682,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1685930,
       "num": 534508,
       "word": "青岛大学宿管阿姨称8个月没发工资",
@@ -595,6 +603,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1371153,
+      "num": 1098282,
+      "word": "牛在在梓渝直播",
+      "onboard_time": 1752212962,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1365918,
       "num": 2119225,
       "word": "轻断食10天瘦了14.5斤",
@@ -649,6 +665,14 @@
       "onboard_time": 1751722466,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1303603,
+      "num": 1303603,
+      "word": "鞠婧祎摔得好重",
+      "onboard_time": 1752216023,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 1294555,
@@ -923,14 +947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1098282,
-      "num": 1098282,
-      "word": "牛在在梓渝直播",
-      "onboard_time": 1752212962,
-      "rank": 1,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1094365,
       "num": 1175098,
       "word": "张家界司机用生命救下一车韩国游客",
@@ -961,14 +977,6 @@
       "onboard_time": 1752119902,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1074916,
-      "num": 1146806,
-      "word": "女子在缅北遭持枪强迫卖淫",
-      "onboard_time": 1752213682,
-      "rank": 3,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1064761,
@@ -1603,6 +1611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 735147,
+      "num": 735147,
+      "word": "做美甲和不做美甲的都沉默了",
+      "onboard_time": 1752210502,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 734215,
       "num": 357442,
       "word": "妈妈一定在天上急得团团转",
@@ -1688,6 +1704,14 @@
       "word": "大学生饮料开封后喝3天现细菌感染",
       "onboard_time": 1752037285,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 713554,
+      "num": 713554,
+      "word": "公务员带薪服刑绝对不行",
+      "onboard_time": 1752214582,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -1921,14 +1945,6 @@
       "onboard_time": 1752118823,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 660675,
-      "num": 660675,
-      "word": "做美甲和不做美甲的都沉默了",
-      "onboard_time": 1752210502,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 659510,
@@ -2379,6 +2395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 581943,
+      "num": 581943,
+      "word": "看口型就知道Angelababy有多开心",
+      "onboard_time": 1752212362,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 579143,
       "num": 579143,
       "word": "退休教师奶奶辅导孙子作业燃起来了",
@@ -2601,6 +2625,14 @@
       "onboard_time": 1751939782,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 531784,
+      "num": 531784,
+      "word": "你的隐私正在快递单上裸奔",
+      "onboard_time": 1752211761,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 527139,
@@ -2880,6 +2912,14 @@
       "word": "店员洗头时猥亵女顾客被拘",
       "onboard_time": 1752209123,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 473082,
+      "num": 244836,
+      "word": "3成人存款超过50万元",
+      "onboard_time": 1752216681,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -3739,6 +3779,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 361781,
+      "num": 361781,
+      "word": "中国的垃圾被抢疯了",
+      "onboard_time": 1752213862,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 361737,
       "num": 257038,
       "word": "幼童遭碾压身亡知情人谈网上言论",
@@ -3841,14 +3889,6 @@
       "onboard_time": 1752027622,
       "rank": 31,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 351039,
-      "num": 351039,
-      "word": "看口型就知道Angelababy有多开心",
-      "onboard_time": 1752212362,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 350379,
@@ -4281,6 +4321,14 @@
       "onboard_time": 1751989828,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 319901,
+      "num": 319901,
+      "word": "申通回应高中生卸货因流汗多被辞",
+      "onboard_time": 1752216322,
+      "rank": 9,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 319643,
@@ -5635,14 +5683,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 240674,
-      "num": 229745,
-      "word": "公务员带薪服刑绝对不行",
-      "onboard_time": 1752214582,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 239884,
       "num": 239884,
       "word": "书卷一梦是he我们有救了",
@@ -6033,14 +6073,6 @@
       "onboard_time": 1751948544,
       "rank": 30,
       "category": "休闲,互联网"
-    },
-    {
-      "raw_hot": 226273,
-      "num": 128777,
-      "word": "3成人存款超过50万元",
-      "onboard_time": 1752216681,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 226195,
@@ -6603,6 +6635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208367,
+      "num": 208367,
+      "word": "关晓彤把造型师发配边疆好吗",
+      "onboard_time": 1752217341,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208024,
       "num": 252490,
       "word": "这两张脸才让人相信一眼万年",
@@ -6625,14 +6665,6 @@
       "onboard_time": 1751805325,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 207540,
-      "num": 258787,
-      "word": "你的隐私正在快递单上裸奔",
-      "onboard_time": 1752211761,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 207470,
@@ -7019,12 +7051,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 200284,
-      "num": 176143,
-      "word": "中国的垃圾被抢疯了",
-      "onboard_time": 1752213862,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 200448,
+      "num": 200448,
+      "word": "Clearlove疑似加入JDG",
+      "onboard_time": 1752213922,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 200237,
@@ -7427,6 +7459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 194646,
+      "num": 194646,
+      "word": "孙颖莎回应海产姐妹状态",
+      "onboard_time": 1752215782,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194625,
       "num": 194625,
       "word": "豆腐妹妹称遭性侵曾4次自杀",
@@ -7555,6 +7595,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 192190,
+      "num": 192190,
+      "word": "上班族7月就要这样请假",
+      "onboard_time": 1752217824,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 192188,
       "num": 192188,
       "word": "新疆旅游偶遇张雨绮尼格买提",
@@ -7657,6 +7705,14 @@
       "onboard_time": 1752144142,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190211,
+      "num": 190211,
+      "word": "药物化男性",
+      "onboard_time": 1752218604,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 190111,
@@ -8491,6 +8547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176767,
+      "num": 176767,
+      "word": "苏醒为老婆庆30岁生日",
+      "onboard_time": 1752218725,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176480,
       "num": 182953,
       "word": "最想明天就播的电视剧",
@@ -9147,6 +9211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167775,
+      "num": 167775,
+      "word": "微信账户2年被朋友扫码盗走19万",
+      "onboard_time": 1752217341,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167704,
       "num": 257649,
       "word": "宣萱获新加坡视后",
@@ -9643,12 +9715,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159837,
+      "num": 159837,
+      "word": "利剑玫瑰顶级剧宣",
+      "onboard_time": 1752217341,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159776,
       "num": 200337,
       "word": "程潇陈梦摆拍二人组",
       "onboard_time": 1751797703,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159776,
+      "num": 159776,
+      "word": "林诗栋蒯曼混双争冠",
+      "onboard_time": 1752215003,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 159757,
@@ -9905,14 +9993,6 @@
       "onboard_time": 1752143182,
       "rank": 32,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 156944,
-      "num": 156944,
-      "word": "林诗栋蒯曼混双争冠",
-      "onboard_time": 1752215003,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 156865,
@@ -10379,14 +10459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 151418,
-      "num": 151418,
-      "word": "Clearlove疑似加入JDG",
-      "onboard_time": 1752213922,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 151395,
       "num": 151395,
       "word": "任嘉伦第一次作为演唱会嘉宾",
@@ -10401,6 +10473,14 @@
       "onboard_time": 1752139101,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 151168,
+      "num": 151168,
+      "word": "就这个阴湿恶女味爽",
+      "onboard_time": 1752218664,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 151108,
@@ -10803,6 +10883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146907,
+      "num": 151362,
+      "word": "A股猛拉",
+      "onboard_time": 1752215661,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 146807,
       "num": 146807,
       "word": "冰袋能重复使用吗",
@@ -11185,14 +11273,6 @@
       "onboard_time": 1752151943,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 143482,
-      "num": 143482,
-      "word": "孙颖莎回应海产姐妹状态",
-      "onboard_time": 1752215782,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 143071,
@@ -11641,14 +11721,6 @@
       "onboard_time": 1751864485,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 138368,
-      "num": 127889,
-      "word": "A股猛拉",
-      "onboard_time": 1752215661,
-      "rank": 44,
-      "category": "财经"
     },
     {
       "raw_hot": 138328,
@@ -14067,6 +14139,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 116514,
+      "num": 216148,
+      "word": "律师称投毒案改判可能性微乎其微",
+      "onboard_time": 1752216862,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116493,
       "num": 116493,
       "word": "孙颖莎晋级32强",
@@ -16268,7 +16348,7 @@
     },
     {
       "raw_hot": 93647,
-      "num": 93647,
+      "num": 160934,
       "word": "杨瀚森王楚钦互动次元壁裂了",
       "onboard_time": 1752216622,
       "rank": 47,
@@ -16595,6 +16675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86897,
+      "num": 214497,
+      "word": "尚界上场",
+      "onboard_time": 1752218363,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 86839,
       "num": 175482,
       "word": "养了两只狗才会有的感觉",
@@ -16913,14 +17001,6 @@
       "onboard_time": 1752164181,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 79060,
-      "num": 263522,
-      "word": "申通回应高中生卸货因流汗多被辞",
-      "onboard_time": 1752216322,
-      "rank": 9,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 78835,
@@ -18355,6 +18435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44750,
+      "num": 330311,
+      "word": "湘大投毒案受害方希望维持凶手死刑",
+      "onboard_time": 1752217283,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44567,
       "num": 107115,
       "word": "王曼昱回应战胜卡尔伯格",
@@ -18424,6 +18512,14 @@
       "word": "网警提醒高考花钱改分是骗局",
       "onboard_time": 1751768481,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42699,
+      "num": 245185,
+      "word": "央视曝光电诈园区系统化虐待手段",
+      "onboard_time": 1752218483,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -19872,6 +19968,14 @@
       "word": "为涉黑母亲辩护的法官涉嫌洗钱罪被拘",
       "onboard_time": 1752208283,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12840,
+      "num": 160521,
+      "word": "张朝阳对话诺奖物理学家格罗斯",
+      "onboard_time": 1752217283,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
