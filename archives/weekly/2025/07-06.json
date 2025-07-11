@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1752239348132,
+  "endTime": 1752241112227,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 4626866,
+      "num": 4626866,
+      "word": "单依纯 舞妹娘",
+      "onboard_time": 1752239303,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 4282599,
       "num": 320471,
       "word": "青岛大学宿管",
@@ -99,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2940380,
+      "num": 2940380,
+      "word": "GAI 公务员裸辞的疯感",
+      "onboard_time": 1752238706,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2706470,
       "num": 2706470,
       "word": "杭州东站发生卧轨事件",
@@ -113,14 +129,6 @@
       "onboard_time": 1751946446,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2467575,
-      "num": 2467575,
-      "word": "GAI 公务员裸辞的疯感",
-      "onboard_time": 1752238706,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 2456708,
@@ -2707,6 +2715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 537893,
+      "num": 292356,
+      "word": "领导让联系胡歌 胡歌真来了",
+      "onboard_time": 1752238944,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 537552,
       "num": 537552,
       "word": "网友晒截图称王俊凯挂十六科",
@@ -3355,6 +3371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 440148,
+      "num": 362073,
+      "word": "韩安冉称老公出轨也不离婚",
+      "onboard_time": 1752238583,
+      "rank": 14,
+      "category": "网红"
+    },
+    {
       "raw_hot": 439308,
       "num": 439308,
       "word": "36岁沈梦辰生图状态",
@@ -3449,6 +3473,14 @@
       "onboard_time": 1752047603,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 426273,
+      "num": 289125,
+      "word": "陈楚生 摇滚版小情歌",
+      "onboard_time": 1752241045,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 424669,
@@ -3716,7 +3748,7 @@
     },
     {
       "raw_hot": 401206,
-      "num": 255333,
+      "num": 269969,
       "word": "单依纯扒何炅衣服",
       "onboard_time": 1752232162,
       "rank": 24,
@@ -4057,14 +4089,6 @@
       "onboard_time": 1751782462,
       "rank": 18,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 362073,
-      "num": 362073,
-      "word": "韩安冉称老公出轨也不离婚",
-      "onboard_time": 1752238583,
-      "rank": 14,
-      "category": "网红"
     },
     {
       "raw_hot": 361737,
@@ -4753,6 +4777,14 @@
       "onboard_time": 1752146482,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 313096,
+      "num": 271462,
+      "word": "陈楚生机位",
+      "onboard_time": 1752240026,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 313014,
@@ -5651,6 +5683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 260955,
+      "num": 260955,
+      "word": "侯明昊小生这厢马上没礼了",
+      "onboard_time": 1752235581,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 260399,
       "num": 693194,
       "word": "驾车碾压同学致死男子称出现幻听",
@@ -5681,14 +5721,6 @@
       "onboard_time": 1751876482,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 259219,
-      "num": 259219,
-      "word": "侯明昊小生这厢马上没礼了",
-      "onboard_time": 1752235581,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 258450,
@@ -5851,6 +5883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 251886,
+      "num": 251886,
+      "word": "李惠利新男友车宇泰发ins",
+      "onboard_time": 1752240864,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 251781,
       "num": 251781,
       "word": "GEN战胜T1",
@@ -5955,6 +5995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 247952,
+      "num": 247952,
+      "word": "老情歌",
+      "onboard_time": 1752240864,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 247824,
       "num": 247824,
       "word": "戴燕妮巴黎遇破窗抢劫",
@@ -6001,14 +6049,6 @@
       "onboard_time": 1751866044,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 245502,
-      "num": 216387,
-      "word": "单依纯 舞妹娘",
-      "onboard_time": 1752239303,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 245212,
@@ -6115,6 +6155,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 238993,
+      "num": 238993,
+      "word": "鹿晗颧骨伤痕妆",
+      "onboard_time": 1752239846,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 238908,
       "num": 238908,
       "word": "谢娜是怎么同意李维嘉坐在观察室的",
@@ -6201,6 +6249,14 @@
       "onboard_time": 1751980224,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 236278,
+      "num": 281436,
+      "word": "曹骏直播",
+      "onboard_time": 1752239124,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 236008,
@@ -6425,6 +6481,14 @@
       "onboard_time": 1751932041,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 229613,
+      "num": 272360,
+      "word": "电诈园区墙上满是救救我想回家",
+      "onboard_time": 1752237683,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 229580,
@@ -7129,14 +7193,6 @@
       "onboard_time": 1752209483,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 208297,
-      "num": 208297,
-      "word": "领导让联系胡歌 胡歌真来了",
-      "onboard_time": 1752238944,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 208024,
@@ -8339,6 +8395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189646,
+      "num": 189646,
+      "word": "难听",
+      "onboard_time": 1752240986,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189637,
       "num": 430861,
       "word": "侵华日军口述罪证视频曝光",
@@ -9283,14 +9347,6 @@
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 175382,
-      "num": 175382,
-      "word": "曹骏直播",
-      "onboard_time": 1752239124,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 175345,
       "num": 220948,
       "word": "毛不易火速拦截了粉丝的建议",
@@ -9563,6 +9619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 172152,
+      "num": 172152,
+      "word": "原词朝天门",
+      "onboard_time": 1752240746,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172010,
       "num": 172010,
       "word": "易烊千玺演唱会原定场馆再回应",
@@ -9641,6 +9705,14 @@
       "onboard_time": 1751968942,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171199,
+      "num": 200844,
+      "word": "上海花了一千块吃的汤泡饭",
+      "onboard_time": 1752236004,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 171117,
@@ -9923,6 +9995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167625,
+      "num": 167625,
+      "word": "印度网球女将遭父亲枪杀",
+      "onboard_time": 1752240207,
+      "rank": 43,
+      "category": "海外新闻,体育"
+    },
+    {
       "raw_hot": 167145,
       "num": 167145,
       "word": "水果含糖量和热量排行榜",
@@ -10169,14 +10249,6 @@
       "onboard_time": 1751974702,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 163904,
-      "num": 200844,
-      "word": "上海花了一千块吃的汤泡饭",
-      "onboard_time": 1752236004,
-      "rank": 42,
-      "category": "美食"
     },
     {
       "raw_hot": 163903,
@@ -10673,6 +10745,14 @@
       "onboard_time": 1751951303,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 157750,
+      "num": 255360,
+      "word": "姑姑公布疑脑死亡男童手术时间线",
+      "onboard_time": 1752237683,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157704,
@@ -11643,6 +11723,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 147377,
+      "num": 147377,
+      "word": "大学遗憾排行榜",
+      "onboard_time": 1752240145,
+      "rank": 45,
+      "category": "教育,情感"
+    },
+    {
       "raw_hot": 147242,
       "num": 147242,
       "word": "方媛带两个女儿深圳过暑假",
@@ -11833,14 +11921,6 @@
       "onboard_time": 1752058702,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 145600,
-      "num": 255360,
-      "word": "姑姑公布疑脑死亡男童手术时间线",
-      "onboard_time": 1752237683,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 145494,
@@ -12177,6 +12257,14 @@
       "onboard_time": 1752056244,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142791,
+      "num": 142791,
+      "word": "林俊杰演唱会",
+      "onboard_time": 1751808806,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 142724,
@@ -13393,14 +13481,6 @@
       "onboard_time": 1752134603,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 131068,
-      "num": 131068,
-      "word": "林俊杰演唱会",
-      "onboard_time": 1751808806,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 131029,
@@ -15308,7 +15388,7 @@
     },
     {
       "raw_hot": 115963,
-      "num": 141668,
+      "num": 279281,
       "word": "京东外卖每天送出50吨小龙虾",
       "onboard_time": 1752238706,
       "rank": 47,
@@ -15977,6 +16057,14 @@
       "onboard_time": 1752135923,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 110411,
+      "num": 295853,
+      "word": "印航空难初步调查结果出炉",
+      "onboard_time": 1752239545,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 110408,
@@ -16880,6 +16968,14 @@
       "word": "中国高铁宣传片看完自豪感满满",
       "onboard_time": 1751960782,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102345,
+      "num": 277419,
+      "word": "19岁高考生失联7天疑被骗去缅甸",
+      "onboard_time": 1752240084,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -18273,6 +18369,14 @@
       "onboard_time": 1751955442,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 77885,
+      "num": 172512,
+      "word": "焦虑和运动之间的关系",
+      "onboard_time": 1752240925,
+      "rank": 39,
+      "category": "情感,运动健身"
     },
     {
       "raw_hot": 77682,
@@ -20267,14 +20371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 36502,
-      "num": 210443,
-      "word": "电诈园区墙上满是救救我想回家",
-      "onboard_time": 1752237683,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 35662,
       "num": 128611,
       "word": "李诞说快乐不需要刻意寻找",
@@ -20579,6 +20675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 29503,
+      "num": 287356,
+      "word": "女子黑救护车上死亡母亲最新发声",
+      "onboard_time": 1752240685,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29381,
       "num": 171321,
       "word": "西洋参多种养生喝法",
@@ -20729,6 +20833,14 @@
       "onboard_time": 1751827095,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 27256,
+      "num": 2100566,
+      "word": "绿色发展的中国答案",
+      "onboard_time": 1752224542,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 26670,
@@ -21240,14 +21352,6 @@
       "word": "14岁英雄誓死不肯泄露八路军秘密",
       "onboard_time": 1751834654,
       "rank": 37,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 16212,
-      "num": 2100566,
-      "word": "绿色发展的中国答案",
-      "onboard_time": 1752224542,
-      "rank": 2,
       "category": "国内时政"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1752239348132,
+  "endTime": 1752241112227,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1715,6 +1715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 4626866,
+      "num": 4626866,
+      "word": "单依纯 舞妹娘",
+      "onboard_time": 1752239303,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 4621424,
       "num": 553169,
       "word": "bnd粉丝去世",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736597067,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 3624702,
-      "num": 3624702,
-      "word": "哪吒票房 升国旗",
-      "onboard_time": 1739281223,
-      "rank": 0,
-      "category": "电影"
     }
   ],
   "hotgov_list": [

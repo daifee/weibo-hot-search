@@ -1,10 +1,18 @@
 {
   "startTime": 1752165274435,
-  "endTime": 1752239348132,
+  "endTime": 1752241112227,
   "band_list": [
     {
-      "raw_hot": 2467575,
-      "num": 2467575,
+      "raw_hot": 4626866,
+      "num": 4626866,
+      "word": "单依纯 舞妹娘",
+      "onboard_time": 1752239303,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2940380,
+      "num": 2940380,
       "word": "GAI 公务员裸辞的疯感",
       "onboard_time": 1752238706,
       "rank": 0,
@@ -403,6 +411,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 537893,
+      "num": 292356,
+      "word": "领导让联系胡歌 胡歌真来了",
+      "onboard_time": 1752238944,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 533989,
       "num": 354747,
       "word": "李佳薇守榜",
@@ -571,6 +587,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 440148,
+      "num": 362073,
+      "word": "韩安冉称老公出轨也不离婚",
+      "onboard_time": 1752238583,
+      "rank": 14,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 426273,
+      "num": 289125,
+      "word": "陈楚生 摇滚版小情歌",
+      "onboard_time": 1752241045,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 417671,
       "num": 417671,
       "word": "世界之外",
@@ -636,7 +668,7 @@
     },
     {
       "raw_hot": 401206,
-      "num": 255333,
+      "num": 269969,
       "word": "单依纯扒何炅衣服",
       "onboard_time": 1752232162,
       "rank": 24,
@@ -713,14 +745,6 @@
       "onboard_time": 1752210744,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 362073,
-      "num": 362073,
-      "word": "韩安冉称老公出轨也不离婚",
-      "onboard_time": 1752238583,
-      "rank": 14,
-      "category": "网红"
     },
     {
       "raw_hot": 358598,
@@ -833,6 +857,14 @@
       "onboard_time": 1752233361,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 313096,
+      "num": 271462,
+      "word": "陈楚生机位",
+      "onboard_time": 1752240026,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 312639,
@@ -1003,20 +1035,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 260955,
+      "num": 260955,
+      "word": "侯明昊小生这厢马上没礼了",
+      "onboard_time": 1752235581,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 259265,
       "num": 259265,
       "word": "中国军方未使用激光瞄准德国飞机",
       "onboard_time": 1752159745,
       "rank": 15,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 259219,
-      "num": 259219,
-      "word": "侯明昊小生这厢马上没礼了",
-      "onboard_time": 1752235581,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 256628,
@@ -1051,6 +1083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 251886,
+      "num": 251886,
+      "word": "李惠利新男友车宇泰发ins",
+      "onboard_time": 1752240864,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 249089,
       "num": 249089,
       "word": "早田希娜3比2张本美和",
@@ -1059,20 +1099,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 247952,
+      "num": 247952,
+      "word": "老情歌",
+      "onboard_time": 1752240864,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246397,
       "num": 246397,
       "word": "杨幂欧豪生万物暑假开播",
       "onboard_time": 1752202822,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 245502,
-      "num": 216387,
-      "word": "单依纯 舞妹娘",
-      "onboard_time": 1752239303,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 244588,
@@ -1097,6 +1137,22 @@
       "onboard_time": 1752192381,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 238993,
+      "num": 238993,
+      "word": "鹿晗颧骨伤痕妆",
+      "onboard_time": 1752239846,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 236278,
+      "num": 281436,
+      "word": "曹骏直播",
+      "onboard_time": 1752239124,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 235046,
@@ -1129,6 +1185,14 @@
       "onboard_time": 1752160525,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229613,
+      "num": 272360,
+      "word": "电诈园区墙上满是救救我想回家",
+      "onboard_time": 1752237683,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 225245,
@@ -1281,14 +1345,6 @@
       "onboard_time": 1752209483,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 208297,
-      "num": 208297,
-      "word": "领导让联系胡歌 胡歌真来了",
-      "onboard_time": 1752238944,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 207326,
@@ -1563,6 +1619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189646,
+      "num": 189646,
+      "word": "难听",
+      "onboard_time": 1752240986,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189543,
       "num": 189543,
       "word": "肖战新的口播",
@@ -1723,14 +1787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175382,
-      "num": 175382,
-      "word": "曹骏直播",
-      "onboard_time": 1752239124,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 174311,
       "num": 192602,
       "word": "BLACKPINK和TWICE新歌成绩",
@@ -1763,12 +1819,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172152,
+      "num": 172152,
+      "word": "原词朝天门",
+      "onboard_time": 1752240746,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171747,
       "num": 171747,
       "word": "特朗普称对加拿大征收35%关税",
       "onboard_time": 1752196342,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 171199,
+      "num": 200844,
+      "word": "上海花了一千块吃的汤泡饭",
+      "onboard_time": 1752236004,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 170952,
@@ -1827,6 +1899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167625,
+      "num": 167625,
+      "word": "印度网球女将遭父亲枪杀",
+      "onboard_time": 1752240207,
+      "rank": 43,
+      "category": "海外新闻,体育"
+    },
+    {
       "raw_hot": 166923,
       "num": 166923,
       "word": "徐梦洁一秒唱出火箭少女11个名字",
@@ -1865,14 +1945,6 @@
       "onboard_time": 1752211283,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 163904,
-      "num": 200844,
-      "word": "上海花了一千块吃的汤泡饭",
-      "onboard_time": 1752236004,
-      "rank": 42,
-      "category": "美食"
     },
     {
       "raw_hot": 163731,
@@ -1937,6 +2009,14 @@
       "onboard_time": 1752223462,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157750,
+      "num": 255360,
+      "word": "姑姑公布疑脑死亡男童手术时间线",
+      "onboard_time": 1752237683,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157348,
@@ -2043,6 +2123,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 147377,
+      "num": 147377,
+      "word": "大学遗憾排行榜",
+      "onboard_time": 1752240145,
+      "rank": 45,
+      "category": "教育,情感"
+    },
+    {
       "raw_hot": 147149,
       "num": 220782,
       "word": "杨少华九平米房子住了一家六口",
@@ -2073,14 +2161,6 @@
       "onboard_time": 1752225203,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 145600,
-      "num": 255360,
-      "word": "姑姑公布疑脑死亡男童手术时间线",
-      "onboard_time": 1752237683,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 145273,
@@ -2153,6 +2233,14 @@
       "onboard_time": 1752192743,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 142791,
+      "num": 142791,
+      "word": "林俊杰演唱会",
+      "onboard_time": 1752240445,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 142458,
@@ -2540,7 +2628,7 @@
     },
     {
       "raw_hot": 115963,
-      "num": 141668,
+      "num": 279281,
       "word": "京东外卖每天送出50吨小龙虾",
       "onboard_time": 1752238706,
       "rank": 47,
@@ -2617,6 +2705,14 @@
       "onboard_time": 1752201681,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110411,
+      "num": 295853,
+      "word": "印航空难初步调查结果出炉",
+      "onboard_time": 1752239545,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 110293,
@@ -2777,6 +2873,14 @@
       "onboard_time": 1752200481,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102345,
+      "num": 277419,
+      "word": "19岁高考生失联7天疑被骗去缅甸",
+      "onboard_time": 1752240084,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100907,
@@ -3033,6 +3137,14 @@
       "onboard_time": 1752223284,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77885,
+      "num": 172512,
+      "word": "焦虑和运动之间的关系",
+      "onboard_time": 1752240925,
+      "rank": 39,
+      "category": "情感,运动健身"
     },
     {
       "raw_hot": 76087,
@@ -3435,14 +3547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 36502,
-      "num": 210443,
-      "word": "电诈园区墙上满是救救我想回家",
-      "onboard_time": 1752237683,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 35256,
       "num": 118101,
       "word": "台军汉光演习深夜又出事",
@@ -3491,6 +3595,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 29503,
+      "num": 287356,
+      "word": "女子黑救护车上死亡母亲最新发声",
+      "onboard_time": 1752240685,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28562,
       "num": 40123,
       "word": "林昀儒3比2陈颢桦",
@@ -3505,6 +3617,14 @@
       "onboard_time": 1752153263,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27256,
+      "num": 2100566,
+      "word": "绿色发展的中国答案",
+      "onboard_time": 1752224542,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 26566,
@@ -3625,14 +3745,6 @@
       "onboard_time": 1752178815,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 16212,
-      "num": 2100566,
-      "word": "绿色发展的中国答案",
-      "onboard_time": 1752224542,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 15891,
