@@ -1,6 +1,6 @@
 {
   "startTime": 1752165274435,
-  "endTime": 1752199686173,
+  "endTime": 1752201203630,
   "band_list": [
     {
       "raw_hot": 1989173,
@@ -25,6 +25,14 @@
       "onboard_time": 1752190159,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 929021,
+      "num": 1148643,
+      "word": "表妹万福今天开机",
+      "onboard_time": 1752199100,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 843387,
@@ -67,6 +75,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 651178,
+      "num": 651178,
+      "word": "王俊凯在沙特帅成这样",
+      "onboard_time": 1752199221,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 630925,
       "num": 720792,
       "word": "七分裤怎么又火了",
@@ -91,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 491643,
+      "num": 491643,
+      "word": "成都暴雨",
+      "onboard_time": 1752195322,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 478463,
       "num": 478463,
       "word": "女子常穿洞洞鞋致足底钙化行走困难",
@@ -105,14 +129,6 @@
       "onboard_time": 1752155544,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 425983,
-      "num": 425983,
-      "word": "成都暴雨",
-      "onboard_time": 1752195322,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 410569,
@@ -137,14 +153,6 @@
       "onboard_time": 1752153443,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 390372,
-      "num": 390372,
-      "word": "表妹万福今天开机",
-      "onboard_time": 1752199100,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 384674,
@@ -203,6 +211,38 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311066,
+      "num": 311066,
+      "word": "坐男友车致截瘫女生称二人网上相识",
+      "onboard_time": 1752196581,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 307147,
+      "num": 307147,
+      "word": "贾斯汀比伯新专辑空降",
+      "onboard_time": 1752198680,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 301600,
+      "num": 301600,
+      "word": "孙颖莎王曼昱vs申裕斌杜凯琹",
+      "onboard_time": 1752197960,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 301163,
+      "num": 361586,
+      "word": "加沙4个婴儿挤一个保温箱",
+      "onboard_time": 1752194363,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 294800,
       "num": 294800,
       "word": "孙颖莎女单止步16强",
@@ -211,12 +251,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 289383,
-      "num": 289383,
-      "word": "贾斯汀比伯新专辑空降",
-      "onboard_time": 1752198680,
+      "raw_hot": 284620,
+      "num": 284620,
+      "word": "父母离婚没人管小孩商场玩手机",
+      "onboard_time": 1752201021,
       "rank": 15,
-      "category": "音乐"
+      "category": "情感"
     },
     {
       "raw_hot": 274061,
@@ -243,14 +283,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 252686,
-      "num": 361586,
-      "word": "加沙4个婴儿挤一个保温箱",
-      "onboard_time": 1752194363,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 241688,
       "num": 241688,
       "word": "陈熠回应战胜孙颖莎",
@@ -267,20 +299,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 225445,
-      "num": 225445,
-      "word": "孙颖莎王曼昱vs申裕斌杜凯琹",
-      "onboard_time": 1752197960,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 225245,
       "num": 225245,
       "word": "父亲酒后暴打几岁女儿致粉碎性骨折",
       "onboard_time": 1752153984,
       "rank": 17,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 222247,
+      "num": 222247,
+      "word": "朱雨玲曾是国乒世界第一",
+      "onboard_time": 1752201021,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 215320,
@@ -291,12 +323,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 205751,
-      "num": 203206,
+      "raw_hot": 214727,
+      "num": 214727,
       "word": "睡前太饿可以吃6种食物",
       "onboard_time": 1752195262,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 206327,
+      "num": 206327,
+      "word": "王晶评刘亦菲观众缘可媲美赵雅芝",
+      "onboard_time": 1752200839,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 204847,
@@ -331,6 +371,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 196207,
+      "num": 196207,
+      "word": "余宇涵首次个人演唱会",
+      "onboard_time": 1752200061,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 194625,
       "num": 194625,
       "word": "豆腐妹妹称遭性侵曾4次自杀",
@@ -355,6 +403,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 191687,
+      "num": 207809,
+      "word": "缅北白所成等21人被提起公诉",
+      "onboard_time": 1752200422,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190723,
       "num": 205804,
       "word": "陈熠晋级美国大满贯8强",
@@ -363,12 +419,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 188346,
-      "num": 224499,
-      "word": "王俊凯在沙特帅成这样",
-      "onboard_time": 1752199221,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 188005,
+      "num": 194403,
+      "word": "表妹万福",
+      "onboard_time": 1752200061,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 181292,
@@ -393,14 +449,6 @@
       "onboard_time": 1752196342,
       "rank": 31,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 165138,
-      "num": 165138,
-      "word": "坐男友车致截瘫女生称二人网上相识",
-      "onboard_time": 1752196581,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 163731,
@@ -475,6 +523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138805,
+      "num": 138805,
+      "word": "特朗普对非洲领导人极不耐烦",
+      "onboard_time": 1752200960,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 137441,
       "num": 137441,
       "word": "连续工作8小时后因休息3分钟遭开除",
@@ -523,12 +579,44 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 128728,
+      "num": 128728,
+      "word": "樱桃琥珀青春群像版预告",
+      "onboard_time": 1752201021,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 127594,
+      "num": 127594,
+      "word": "坐车致截瘫女生称遭1分钱转账轰炸",
+      "onboard_time": 1752199999,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124773,
+      "num": 124773,
+      "word": "终于懂碰到熟人为什么能聊半天了",
+      "onboard_time": 1752201080,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121380,
       "num": 124185,
       "word": "宋佳王一博 体制内姐弟",
       "onboard_time": 1752146963,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117634,
+      "num": 117634,
+      "word": "女生撬开生蚝发现小螃蟹",
+      "onboard_time": 1752201021,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113782,
@@ -561,6 +649,14 @@
       "onboard_time": 1752193942,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 105071,
+      "num": 105071,
+      "word": "神女爱苍生也爱一人具象化了",
+      "onboard_time": 1752200960,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 104989,
@@ -617,6 +713,14 @@
       "onboard_time": 1752190641,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102530,
+      "num": 312442,
+      "word": "孙颖莎王曼昱3比1申裕斌杜凯琹",
+      "onboard_time": 1752200481,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 100907,
@@ -859,6 +963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 53605,
+      "num": 138135,
+      "word": "缅北白家犯罪集团致我国6名公民死亡",
+      "onboard_time": 1752201080,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50842,
       "num": 50842,
       "word": "车银优还没入伍车铜优就上桌了",
@@ -940,7 +1052,7 @@
     },
     {
       "raw_hot": 37036,
-      "num": 621218,
+      "num": 728783,
       "word": "五个新说透102项重大工程看点",
       "onboard_time": 1752158005,
       "rank": 2,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1752201203630,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 929021,
+        "num": 1148643,
+        "word": "表妹万福今天开机",
+        "onboard_time": 1752199100,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 829538,
+        "num": 829538,
+        "word": "张家界司机用生命救下一车韩国游客",
+        "onboard_time": 1752192442,
+        "rank": 1,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 33342,
+        "num": 728783,
+        "word": "五个新说透102项重大工程看点",
+        "onboard_time": 1752158005,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 651178,
+        "num": 651178,
+        "word": "王俊凯在沙特帅成这样",
+        "onboard_time": 1752199221,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 507378,
+        "num": 507378,
+        "word": "陈熠3比1孙颖莎",
+        "onboard_time": 1752188718,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 491643,
+        "num": 491643,
+        "word": "成都暴雨",
+        "onboard_time": 1752195322,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 601418,
+        "num": 472298,
+        "word": "小兰花自戕前的第一句话",
+        "onboard_time": 1752194722,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 413294,
+        "num": 413294,
+        "word": "退休教师奶奶辅导孙子作业燃起来了",
+        "onboard_time": 1752193702,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338356,
+        "num": 338356,
+        "word": "七分裤怎么又火了",
+        "onboard_time": 1752161604,
+        "rank": 8,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 102530,
+        "num": 312442,
+        "word": "孙颖莎王曼昱3比1申裕斌杜凯琹",
+        "onboard_time": 1752200481,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 311066,
+        "num": 311066,
+        "word": "坐男友车致截瘫女生称二人网上相识",
+        "onboard_time": 1752196581,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311230,
+        "num": 309725,
+        "word": "闲鱼就是一个巨大的人间世",
+        "onboard_time": 1752148642,
+        "rank": 11,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 307147,
+        "num": 307147,
+        "word": "贾斯汀比伯新专辑空降",
+        "onboard_time": 1752198680,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 301600,
+        "num": 301600,
+        "word": "孙颖莎王曼昱vs申裕斌杜凯琹",
+        "onboard_time": 1752197960,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 301163,
+        "num": 301163,
+        "word": "加沙4个婴儿挤一个保温箱",
+        "onboard_time": 1752194363,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 284620,
+        "num": 284620,
+        "word": "父母离婚没人管小孩商场玩手机",
+        "onboard_time": 1752201021,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 266906,
+        "num": 266906,
+        "word": "内娱神女降级史",
+        "onboard_time": 1752161124,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253445,
+        "num": 253445,
+        "word": "田栩宁通告被取消了",
+        "onboard_time": 1752157826,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230924,
+        "num": 230924,
+        "word": "AL对战BLG",
+        "onboard_time": 1752198501,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 225161,
+        "num": 225161,
+        "word": "研究生给室友投毒致死后销毁物证",
+        "onboard_time": 1752191541,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 879379,
+        "num": 223883,
+        "word": "允许关晓彤洗把脸就来走红毯",
+        "onboard_time": 1752190159,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355645,
+        "num": 223606,
+        "word": "女子买菜错付2000元大爷称只看到5元",
+        "onboard_time": 1752196940,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222247,
+        "num": 222247,
+        "word": "朱雨玲曾是国乒世界第一",
+        "onboard_time": 1752201021,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214727,
+        "num": 214727,
+        "word": "睡前太饿可以吃6种食物",
+        "onboard_time": 1752195262,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 191687,
+        "num": 207809,
+        "word": "缅北白所成等21人被提起公诉",
+        "onboard_time": 1752200422,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206327,
+        "num": 206327,
+        "word": "王晶评刘亦菲观众缘可媲美赵雅芝",
+        "onboard_time": 1752200839,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196207,
+        "num": 196207,
+        "word": "余宇涵首次个人演唱会",
+        "onboard_time": 1752200061,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195859,
+        "num": 195859,
+        "word": "网曝多家银行迟迟未发放年终奖",
+        "onboard_time": 1752196882,
+        "rank": 27,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 188005,
+        "num": 194403,
+        "word": "表妹万福",
+        "onboard_time": 1752200061,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177510,
+        "num": 194334,
+        "word": "泡张凌赫很难吗",
+        "onboard_time": 1752197660,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194333,
+        "num": 194333,
+        "word": "女子常穿洞洞鞋致足底钙化行走困难",
+        "onboard_time": 1752152242,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176747,
+        "num": 176747,
+        "word": "网红小黄豆力挺孙恩盛",
+        "onboard_time": 1752196761,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 176370,
+        "num": 176370,
+        "word": "陈熠回应战胜孙颖莎",
+        "onboard_time": 1752192381,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165536,
+        "num": 165536,
+        "word": "不建议带着饥饿感入睡",
+        "onboard_time": 1752151703,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 160765,
+        "num": 160765,
+        "word": "孙颖莎女单止步16强",
+        "onboard_time": 1752189740,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157305,
+        "num": 157305,
+        "word": "豆腐妹妹称遭性侵曾4次自杀",
+        "onboard_time": 1752190701,
+        "rank": 35,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 138805,
+        "num": 138805,
+        "word": "特朗普对非洲领导人极不耐烦",
+        "onboard_time": 1752200960,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 53605,
+        "num": 138135,
+        "word": "缅北白家犯罪集团致我国6名公民死亡",
+        "onboard_time": 1752201080,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137930,
+        "num": 137930,
+        "word": "梓渝取消hi6录制",
+        "onboard_time": 1752157284,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128728,
+        "num": 128728,
+        "word": "樱桃琥珀青春群像版预告",
+        "onboard_time": 1752201021,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127594,
+        "num": 127594,
+        "word": "坐车致截瘫女生称遭1分钱转账轰炸",
+        "onboard_time": 1752199999,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125086,
+        "num": 125086,
+        "word": "王曼昱1比3朱雨玲",
+        "onboard_time": 1752188540,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124773,
+        "num": 124773,
+        "word": "终于懂碰到熟人为什么能聊半天了",
+        "onboard_time": 1752201080,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121912,
+        "num": 123350,
+        "word": "中国航海日看中国的航空母舰",
+        "onboard_time": 1752194783,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122154,
+        "num": 122154,
+        "word": "超级三伏天",
+        "onboard_time": 1752190159,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 117967,
+        "num": 117967,
+        "word": "美国橙汁要涨价了",
+        "onboard_time": 1752196882,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117634,
+        "num": 117634,
+        "word": "女生撬开生蚝发现小螃蟹",
+        "onboard_time": 1752201021,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108744,
+        "num": 108744,
+        "word": "南非女船员在富豪游艇上遭割喉杀害",
+        "onboard_time": 1752192743,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 107671,
+        "num": 107671,
+        "word": "00后消防员赶考路上折返灭火",
+        "onboard_time": 1752192442,
+        "rank": 48,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 105071,
+        "num": 105071,
+        "word": "神女爱苍生也爱一人具象化了",
+        "onboard_time": 1752200960,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全球文明对话部长级会议致贺信#"
+    }
+  }
+}
