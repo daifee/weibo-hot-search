@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1752222947675,
+  "endTime": 1752223813709,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -316,7 +316,7 @@
     },
     {
       "raw_hot": 1768229,
-      "num": 288182,
+      "num": 294300,
       "word": "田栩宁告了天天开心",
       "onboard_time": 1752220465,
       "rank": 10,
@@ -1579,6 +1579,14 @@
       "category": "艺人,海外新闻"
     },
     {
+      "raw_hot": 758961,
+      "num": 758961,
+      "word": "娄艺潇开始演短剧了",
+      "onboard_time": 1752222743,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 758465,
       "num": 1113206,
       "word": "马斯克发文成立美国党",
@@ -2011,6 +2019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 647001,
+      "num": 647001,
+      "word": "福建一小学生遭同学殴打老师拍裸照",
+      "onboard_time": 1752220345,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 644284,
       "num": 644284,
       "word": "新房出租1年被糟蹋成破烂",
@@ -2249,14 +2265,6 @@
       "onboard_time": 1751883441,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 606535,
-      "num": 606535,
-      "word": "福建一小学生遭同学殴打老师拍裸照",
-      "onboard_time": 1752220345,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 605682,
@@ -3195,6 +3203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 431851,
+      "num": 431851,
+      "word": "三亚榴莲",
+      "onboard_time": 1752222084,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 431187,
       "num": 431187,
       "word": "李泳知买到仿冒Labubu",
@@ -3627,6 +3643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 382809,
+      "num": 382809,
+      "word": "Bin说我是最强的上路",
+      "onboard_time": 1752221004,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 381325,
       "num": 381325,
       "word": "中方对欧盟采取对等限制措施",
@@ -3657,14 +3681,6 @@
       "onboard_time": 1752051203,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 378870,
-      "num": 378870,
-      "word": "Bin说我是最强的上路",
-      "onboard_time": 1752221004,
-      "rank": 5,
-      "category": "电竞"
     },
     {
       "raw_hot": 377293,
@@ -3857,6 +3873,14 @@
       "onboard_time": 1751720663,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 359031,
+      "num": 359031,
+      "word": "临沂一饭店老板发视频遭45万罚单",
+      "onboard_time": 1752221185,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 358664,
@@ -4217,14 +4241,6 @@
       "onboard_time": 1751885542,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 328634,
-      "num": 328634,
-      "word": "临沂一饭店老板发视频遭45万罚单",
-      "onboard_time": 1752221185,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 327963,
@@ -5627,14 +5643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 248700,
-      "num": 248700,
-      "word": "娄艺潇开始演短剧了",
-      "onboard_time": 1752222743,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 248652,
       "num": 250666,
       "word": "龙树谅称日本末日预言不是她写的",
@@ -5713,14 +5721,6 @@
       "onboard_time": 1752210623,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 244107,
-      "num": 244107,
-      "word": "三亚榴莲",
-      "onboard_time": 1752222084,
-      "rank": 17,
-      "category": "美食"
     },
     {
       "raw_hot": 243992,
@@ -6299,6 +6299,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 222718,
+      "num": 236489,
+      "word": "房东接错线租客交了5年公区电费",
+      "onboard_time": 1752222084,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 222684,
       "num": 289761,
       "word": "2男子射杀邻居2猫被行拘",
@@ -6595,6 +6603,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 212777,
+      "num": 212777,
+      "word": "何惟芳蒋长扬汤泉共浴",
+      "onboard_time": 1752222863,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212754,
       "num": 212754,
       "word": "增派2名国家级专家落实天水铅中毒救治",
@@ -6644,7 +6660,7 @@
     },
     {
       "raw_hot": 211439,
-      "num": 211439,
+      "num": 223788,
       "word": "艾福杰尼开始减肥了",
       "onboard_time": 1752215062,
       "rank": 22,
@@ -7315,6 +7331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197617,
+      "num": 197617,
+      "word": "6岁男童误吞遥控器电池获赔4000万美元",
+      "onboard_time": 1752223584,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 197565,
       "num": 197565,
       "word": "鹿晗说要安排撕拉片",
@@ -7523,6 +7547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 195195,
+      "num": 195195,
+      "word": "BW",
+      "onboard_time": 1752223404,
+      "rank": 27,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 195182,
       "num": 195182,
       "word": "王楚钦晋级美国大满贯16强",
@@ -7689,6 +7721,14 @@
       "onboard_time": 1751807606,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192536,
+      "num": 192536,
+      "word": "厦门暴雨",
+      "onboard_time": 1752218963,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 192484,
@@ -8399,14 +8439,6 @@
       "num": 374745,
       "word": "女子强占出租车避雨被驱赶狂叫",
       "onboard_time": 1752150562,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 181096,
-      "num": 181096,
-      "word": "厦门暴雨",
-      "onboard_time": 1752218963,
       "rank": 42,
       "category": "民生新闻"
     },
@@ -9147,6 +9179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170952,
+      "num": 170952,
+      "word": "俄媒称俄将放弃唯一航母",
+      "onboard_time": 1752219805,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 170848,
       "num": 313587,
       "word": "零跑全新C11不用纠结直接买",
@@ -9249,6 +9289,14 @@
       "onboard_time": 1751807906,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169373,
+      "num": 192602,
+      "word": "BLACKPINK和TWICE新歌成绩",
+      "onboard_time": 1752222563,
+      "rank": 42,
+      "category": "音乐,艺人"
     },
     {
       "raw_hot": 169304,
@@ -9995,6 +10043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158235,
+      "num": 158235,
+      "word": "罗永浩称杨笠或将告别脱口秀",
+      "onboard_time": 1752223462,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158190,
       "num": 158190,
       "word": "尽量不要给手机整夜充电",
@@ -10475,6 +10531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152580,
+      "num": 152580,
+      "word": "低丸子头是王楚然的统治区",
+      "onboard_time": 1752223643,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152572,
       "num": 152572,
       "word": "一诺达成3300总击杀",
@@ -10665,14 +10729,6 @@
       "onboard_time": 1752221004,
       "rank": 35,
       "category": "财经"
-    },
-    {
-      "raw_hot": 150370,
-      "num": 150370,
-      "word": "俄媒称俄将放弃唯一航母",
-      "onboard_time": 1752219805,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 150255,
@@ -11523,6 +11579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142458,
+      "num": 142458,
+      "word": "王楚钦暴力扣球后举手示意",
+      "onboard_time": 1752223523,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142359,
       "num": 142359,
       "word": "诡秘第三集好不好看",
@@ -11667,14 +11731,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 141197,
-      "num": 145581,
-      "word": "BLACKPINK和TWICE新歌成绩",
-      "onboard_time": 1752222563,
-      "rank": 42,
-      "category": "音乐,艺人"
-    },
-    {
       "raw_hot": 141178,
       "num": 146517,
       "word": "刘宇宁的压迫感",
@@ -11745,14 +11801,6 @@
       "onboard_time": 1751883861,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 139904,
-      "num": 139904,
-      "word": "何惟芳蒋长扬汤泉共浴",
-      "onboard_time": 1752222863,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 139901,
@@ -12145,6 +12193,14 @@
       "onboard_time": 1752142881,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136062,
+      "num": 136062,
+      "word": "AL和T1争MSI决赛门票",
+      "onboard_time": 1752220703,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 136015,
@@ -16835,6 +16891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88224,
+      "num": 142027,
+      "word": "恋与深空bw婚礼现场",
+      "onboard_time": 1752223462,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 88204,
       "num": 310464,
       "word": "快递包裹被写断子绝孙",
@@ -16993,6 +17057,14 @@
       "onboard_time": 1752029482,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 85249,
+      "num": 139823,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1752223343,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 84983,
@@ -17259,6 +17331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78035,
+      "num": 192564,
+      "word": "湘潭大学宿舍投毒案二审择期宣判",
+      "onboard_time": 1752223284,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77958,
       "num": 144622,
       "word": "蒋长扬大唐嫡掌子",
@@ -17505,14 +17585,6 @@
       "onboard_time": 1752211102,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 72689,
-      "num": 236489,
-      "word": "房东接错线租客交了5年公区电费",
-      "onboard_time": 1752222084,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 72531,
@@ -18009,6 +18081,14 @@
       "onboard_time": 1752160344,
       "rank": 39,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 62500,
+      "num": 142371,
+      "word": "2000元酒店不换床单不刷马桶",
+      "onboard_time": 1752223223,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62177,
@@ -20281,6 +20361,14 @@
       "onboard_time": 1751966842,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11530,
+      "num": 131767,
+      "word": "当代商场迷惑现状",
+      "onboard_time": 1752223284,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 11095,
