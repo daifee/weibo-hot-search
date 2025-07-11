@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752233984693,
+  "endTime": 1752238403510,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -272,6 +272,14 @@
       "word": "梓渝取消hi6录制",
       "onboard_time": 1752157284,
       "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2126884,
+      "num": 2126884,
+      "word": "编曲给李佳薇做局了",
+      "onboard_time": 1752236183,
+      "rank": 0,
       "category": "综艺"
     },
     {
@@ -649,6 +657,14 @@
       "onboard_time": 1751380342,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1629189,
+      "num": 1629189,
+      "word": "歌手直播",
+      "onboard_time": 1751628923,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 1622322,
@@ -1121,14 +1137,6 @@
       "onboard_time": 1751604325,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1277960,
-      "num": 1241123,
-      "word": "歌手直播",
-      "onboard_time": 1751628923,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 1271946,
@@ -2059,6 +2067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 919674,
+      "num": 360443,
+      "word": "诀爱",
+      "onboard_time": 1752236663,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 919593,
       "num": 919593,
       "word": "广州交警通报3死3伤交通事故",
@@ -2897,6 +2913,14 @@
       "onboard_time": 1752041422,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 750350,
+      "num": 316016,
+      "word": "27岁在体制内在编五年辞职了",
+      "onboard_time": 1752233004,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 747264,
@@ -4955,6 +4979,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 533989,
+      "num": 311569,
+      "word": "李佳薇守榜",
+      "onboard_time": 1752235760,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 532843,
       "num": 577662,
       "word": "杨笠 抵制黄牛第一人",
@@ -5209,6 +5241,14 @@
       "onboard_time": 1751369662,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 514114,
+      "num": 308289,
+      "word": "锦绣芳华尺度",
+      "onboard_time": 1752230962,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 513758,
@@ -5676,7 +5716,7 @@
     },
     {
       "raw_hot": 460143,
-      "num": 216340,
+      "num": 255189,
       "word": "35岁以后真的会断崖式衰老",
       "onboard_time": 1752231202,
       "rank": 17,
@@ -5787,20 +5827,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 453718,
-      "num": 235598,
-      "word": "锦绣芳华尺度",
-      "onboard_time": 1752230962,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 453321,
       "num": 518260,
       "word": "甲亢哥欧洲行用中文对粉丝喊冷静",
       "onboard_time": 1752069744,
       "rank": 18,
       "category": "海外新闻,网红"
+    },
+    {
+      "raw_hot": 453124,
+      "num": 304718,
+      "word": "妻子好心按摩致丈夫小脑梗死",
+      "onboard_time": 1752233063,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 452866,
@@ -6331,14 +6371,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 421659,
-      "num": 153488,
-      "word": "27岁在体制内在编五年辞职了",
-      "onboard_time": 1752233004,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 421368,
       "num": 421368,
       "word": "为何这么多金店都姓周",
@@ -6785,6 +6817,14 @@
       "onboard_time": 1751439020,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 395376,
+      "num": 395376,
+      "word": "榴莲价格",
+      "onboard_time": 1752234203,
+      "rank": 4,
+      "category": "美食"
     },
     {
       "raw_hot": 393473,
@@ -7427,6 +7467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 360707,
+      "num": 360707,
+      "word": "12.3%受访00后存款超30万",
+      "onboard_time": 1752234081,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 359810,
       "num": 359810,
       "word": "山东舰航母编队又燃又帅",
@@ -7577,6 +7625,14 @@
       "onboard_time": 1751695101,
       "rank": 24,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 353379,
+      "num": 255333,
+      "word": "单依纯扒何炅衣服",
+      "onboard_time": 1752232162,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 353157,
@@ -8467,6 +8523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 319410,
+      "num": 319410,
+      "word": "秦彻coser",
+      "onboard_time": 1752233361,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 319407,
       "num": 319407,
       "word": "暴雨中两人合力救起倒地路人",
@@ -8787,6 +8851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 308331,
+      "num": 255214,
+      "word": "歌手顺序",
+      "onboard_time": 1751631383,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 307356,
       "num": 307356,
       "word": "阿吊你是自由的鸟",
@@ -8961,6 +9033,14 @@
       "onboard_time": 1751893703,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 300717,
+      "num": 300717,
+      "word": "情侣分手现场拉2年账单对账",
+      "onboard_time": 1752234261,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 299295,
@@ -10515,6 +10595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 255442,
+      "num": 255442,
+      "word": "侯明昊小生这厢马上没礼了",
+      "onboard_time": 1752235581,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 255204,
       "num": 255204,
       "word": "霍启刚郭晶晶参观山东舰",
@@ -10529,6 +10617,14 @@
       "onboard_time": 1751850081,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 255161,
+      "num": 255161,
+      "word": "TF运动会分组",
+      "onboard_time": 1752236482,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 254796,
@@ -10601,14 +10697,6 @@
       "onboard_time": 1751946562,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 253163,
-      "num": 253163,
-      "word": "妻子好心按摩致丈夫小脑梗死",
-      "onboard_time": 1752233063,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 252217,
@@ -11049,6 +11137,14 @@
       "onboard_time": 1751895624,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 239614,
+      "num": 239614,
+      "word": "分手现场姐姐怒扇恋爱脑妹妹",
+      "onboard_time": 1752234261,
+      "rank": 25,
+      "category": "民生新闻,情感"
     },
     {
       "raw_hot": 239560,
@@ -12971,14 +13067,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 207955,
-      "num": 207955,
-      "word": "歌手顺序",
-      "onboard_time": 1751631383,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 207941,
       "num": 207941,
       "word": "巴黎圣日耳曼4比0皇马",
@@ -14539,6 +14627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194259,
+      "num": 194259,
+      "word": "陈楚生第二轮守榜",
+      "onboard_time": 1752237502,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194205,
       "num": 194205,
       "word": "孙颖莎王曼昱3比0迪亚兹帕瓦德",
@@ -14985,6 +15081,14 @@
       "onboard_time": 1751380464,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190659,
+      "num": 190659,
+      "word": "郑朋痛失艺名",
+      "onboard_time": 1752233782,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 190560,
@@ -15739,6 +15843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 183778,
+      "num": 158702,
+      "word": "陈楚生说歌手像马拉松比赛",
+      "onboard_time": 1752234562,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183720,
       "num": 183720,
       "word": "YG就BLACKPINK演唱会争议道歉",
@@ -16321,6 +16433,14 @@
       "onboard_time": 1751861965,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 177937,
+      "num": 255436,
+      "word": "跑男本季最激烈撕名牌",
+      "onboard_time": 1752237143,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 177918,
@@ -16985,6 +17105,14 @@
       "onboard_time": 1752132143,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173366,
+      "num": 173366,
+      "word": "周杰伦给权志龙台湾演唱会送花篮",
+      "onboard_time": 1752237983,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 173276,
@@ -18899,6 +19027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158913,
+      "num": 158913,
+      "word": "周深暴躁版小美满",
+      "onboard_time": 1752237263,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158830,
       "num": 158830,
       "word": "Tabe发文道歉",
@@ -19747,14 +19883,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 153395,
-      "num": 153395,
-      "word": "单依纯扒何炅衣服",
-      "onboard_time": 1752232162,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 153359,
       "num": 153359,
       "word": "孟子义好适合be美学",
@@ -20401,14 +20529,6 @@
       "onboard_time": 1751346142,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 149642,
-      "num": 149642,
-      "word": "郑朋痛失艺名",
-      "onboard_time": 1752233782,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 149609,
@@ -21899,14 +22019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 141510,
-      "num": 141510,
-      "word": "秦彻coser",
-      "onboard_time": 1752233361,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 141433,
       "num": 141433,
       "word": "小偷逃跑被路过军人一招放倒",
@@ -21993,6 +22105,14 @@
       "onboard_time": 1751891183,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141124,
+      "num": 141124,
+      "word": "月薪三万的私人助理",
+      "onboard_time": 1752236122,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 140999,
@@ -22417,6 +22537,14 @@
       "onboard_time": 1751426001,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138794,
+      "num": 138794,
+      "word": "上海花了一千块吃的汤泡饭",
+      "onboard_time": 1752236004,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 138790,
@@ -23819,6 +23947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131443,
+      "num": 131443,
+      "word": "多方回应人才引进20岁硕士实际为24岁",
+      "onboard_time": 1752235281,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131390,
       "num": 182799,
       "word": "三对母女旅游车辆坠河只找到两尸体",
@@ -24456,6 +24592,14 @@
       "word": "李佳薇回应热搜爆了",
       "onboard_time": 1752054024,
       "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 128398,
+      "num": 128398,
+      "word": "歌手 脱口秀",
+      "onboard_time": 1752236962,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -26891,6 +27035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117464,
+      "num": 117464,
+      "word": "裸鼠生出人类皮肤毛发",
+      "onboard_time": 1752236004,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117404,
       "num": 117404,
       "word": "刘宇宁锯嘴葫芦型男主",
@@ -27027,6 +27179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 116861,
+      "num": 116861,
+      "word": "侯明昊古风小生表情包",
+      "onboard_time": 1752238223,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116851,
       "num": 203182,
       "word": "白鹿给张鑫送定制麦克风",
@@ -27049,6 +27209,14 @@
       "onboard_time": 1751978423,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116672,
+      "num": 116672,
+      "word": "网信部门大力整治假冒仿冒自媒体账号",
+      "onboard_time": 1752237983,
+      "rank": 48,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 116655,
@@ -31635,6 +31803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88953,
+      "num": 319242,
+      "word": "45万元饭店罚单不再作出行政处罚",
+      "onboard_time": 1752237863,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88860,
       "num": 117478,
       "word": "五十公里桃花坞",
@@ -34835,6 +35011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 50972,
+      "num": 963640,
+      "word": "快存下这份暴雨安全指南",
+      "onboard_time": 1752224783,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 50855,
       "num": 270009,
       "word": "极氪实现混动技术重大突破",
@@ -34849,14 +35033,6 @@
       "onboard_time": 1752166999,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 50783,
-      "num": 959078,
-      "word": "快存下这份暴雨安全指南",
-      "onboard_time": 1752224783,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 50749,
@@ -34897,6 +35073,14 @@
       "onboard_time": 1751546662,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 49970,
+      "num": 303556,
+      "word": "昆明一电梯冲顶致业主身亡调查报告",
+      "onboard_time": 1752237383,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49900,
@@ -35345,6 +35529,14 @@
       "onboard_time": 1751498780,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 44861,
+      "num": 115019,
+      "word": "一诺期待在世界舞台大放光彩",
+      "onboard_time": 1752237082,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 44840,
@@ -36225,6 +36417,14 @@
       "onboard_time": 1751901624,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 36502,
+      "num": 210443,
+      "word": "电诈园区墙上满是救救我想回家",
+      "onboard_time": 1752237683,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36491,
@@ -37248,6 +37448,14 @@
       "word": "有女主播被认定3年多诈骗65万男性",
       "onboard_time": 1751982085,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26073,
+      "num": 255360,
+      "word": "姑姑公布疑脑死亡男童手术时间线",
+      "onboard_time": 1752237683,
+      "rank": 19,
       "category": "民生新闻"
     },
     {

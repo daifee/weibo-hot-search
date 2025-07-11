@@ -1,0 +1,410 @@
+{
+  "runTime": 1752238403510,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2126884,
+        "num": 2126884,
+        "word": "编曲给李佳薇做局了",
+        "onboard_time": 1752236183,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1629189,
+        "num": 1629189,
+        "word": "歌手直播",
+        "onboard_time": 1752232582,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50972,
+        "num": 963640,
+        "word": "快存下这份暴雨安全指南",
+        "onboard_time": 1752224783,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 683297,
+        "num": 683297,
+        "word": "女子在缅北遭持枪强迫卖淫",
+        "onboard_time": 1752213682,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 395376,
+        "num": 395376,
+        "word": "榴莲价格",
+        "onboard_time": 1752234203,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 360707,
+        "num": 360707,
+        "word": "12.3%受访00后存款超30万",
+        "onboard_time": 1752234081,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 919674,
+        "num": 360443,
+        "word": "诀爱",
+        "onboard_time": 1752236663,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 560321,
+        "num": 359691,
+        "word": "马嘉祺 歌手复活赛",
+        "onboard_time": 1752231683,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319410,
+        "num": 319410,
+        "word": "秦彻coser",
+        "onboard_time": 1752233361,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 88953,
+        "num": 319242,
+        "word": "45万元饭店罚单不再作出行政处罚",
+        "onboard_time": 1752237863,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 750350,
+        "num": 316016,
+        "word": "27岁在体制内在编五年辞职了",
+        "onboard_time": 1752233004,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 533989,
+        "num": 311569,
+        "word": "李佳薇守榜",
+        "onboard_time": 1752235760,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 514114,
+        "num": 308289,
+        "word": "锦绣芳华尺度",
+        "onboard_time": 1752230962,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 453124,
+        "num": 304718,
+        "word": "妻子好心按摩致丈夫小脑梗死",
+        "onboard_time": 1752233063,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49970,
+        "num": 303556,
+        "word": "昆明一电梯冲顶致业主身亡调查报告",
+        "onboard_time": 1752237383,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300717,
+        "num": 300717,
+        "word": "情侣分手现场拉2年账单对账",
+        "onboard_time": 1752234261,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284192,
+        "num": 284192,
+        "word": "日本首相称要赌上国运",
+        "onboard_time": 1752227003,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 255442,
+        "num": 255442,
+        "word": "侯明昊小生这厢马上没礼了",
+        "onboard_time": 1752235581,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177937,
+        "num": 255436,
+        "word": "跑男本季最激烈撕名牌",
+        "onboard_time": 1752237143,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26073,
+        "num": 255360,
+        "word": "姑姑公布疑脑死亡男童手术时间线",
+        "onboard_time": 1752237683,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353379,
+        "num": 255333,
+        "word": "单依纯扒何炅衣服",
+        "onboard_time": 1752232162,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341826,
+        "num": 255302,
+        "word": "鹿晗演唱会",
+        "onboard_time": 1752235402,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 308331,
+        "num": 255214,
+        "word": "歌手顺序",
+        "onboard_time": 1752236424,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272669,
+        "num": 255189,
+        "word": "35岁以后真的会断崖式衰老",
+        "onboard_time": 1752231202,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 255161,
+        "num": 255161,
+        "word": "TF运动会分组",
+        "onboard_time": 1752236482,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239614,
+        "num": 239614,
+        "word": "分手现场姐姐怒扇恋爱脑妹妹",
+        "onboard_time": 1752234261,
+        "rank": 25,
+        "category": "民生新闻,情感"
+      },
+      {
+        "raw_hot": 238388,
+        "num": 238388,
+        "word": "娄艺潇开始演短剧了",
+        "onboard_time": 1752222743,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234375,
+        "num": 234375,
+        "word": "肖战小心翼翼地四处闯祸",
+        "onboard_time": 1752227603,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212410,
+        "num": 212410,
+        "word": "展轩晒照",
+        "onboard_time": 1752229702,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36502,
+        "num": 210443,
+        "word": "电诈园区墙上满是救救我想回家",
+        "onboard_time": 1752237683,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209390,
+        "num": 209390,
+        "word": "书卷一梦大结局",
+        "onboard_time": 1752229642,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194259,
+        "num": 194259,
+        "word": "陈楚生第二轮守榜",
+        "onboard_time": 1752237502,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190659,
+        "num": 190659,
+        "word": "郑朋痛失艺名",
+        "onboard_time": 1752233782,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180401,
+        "num": 180401,
+        "word": "朝雪录 提档",
+        "onboard_time": 1752228921,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173366,
+        "num": 173366,
+        "word": "周杰伦给权志龙台湾演唱会送花篮",
+        "onboard_time": 1752237983,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 158913,
+        "num": 158913,
+        "word": "周深暴躁版小美满",
+        "onboard_time": 1752237263,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183778,
+        "num": 158702,
+        "word": "陈楚生说歌手像马拉松比赛",
+        "onboard_time": 1752234562,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152905,
+        "num": 152905,
+        "word": "奔跑吧",
+        "onboard_time": 1752230122,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151631,
+        "num": 151631,
+        "word": "6岁男童误吞遥控器电池获赔4000万美元",
+        "onboard_time": 1752223584,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 145145,
+        "num": 145145,
+        "word": "蔡徐坤裤子",
+        "onboard_time": 1752226523,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143647,
+        "num": 143647,
+        "word": "温网",
+        "onboard_time": 1752237624,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141124,
+        "num": 141124,
+        "word": "月薪三万的私人助理",
+        "onboard_time": 1752236122,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138794,
+        "num": 138794,
+        "word": "上海花了一千块吃的汤泡饭",
+        "onboard_time": 1752236004,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 131443,
+        "num": 131443,
+        "word": "多方回应人才引进20岁硕士实际为24岁",
+        "onboard_time": 1752235281,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128398,
+        "num": 128398,
+        "word": "歌手 脱口秀",
+        "onboard_time": 1752236962,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125037,
+        "num": 125037,
+        "word": "鞠婧祎摔得好重",
+        "onboard_time": 1752216023,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117464,
+        "num": 117464,
+        "word": "裸鼠生出人类皮肤毛发",
+        "onboard_time": 1752236004,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116861,
+        "num": 116861,
+        "word": "侯明昊古风小生表情包",
+        "onboard_time": 1752238223,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116672,
+        "num": 116672,
+        "word": "网信部门大力整治假冒仿冒自媒体账号",
+        "onboard_time": 1752237983,
+        "rank": 48,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 44861,
+        "num": 115019,
+        "word": "一诺期待在世界舞台大放光彩",
+        "onboard_time": 1752237082,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定文化自信扎根生活沃土#"
+    }
+  }
+}
