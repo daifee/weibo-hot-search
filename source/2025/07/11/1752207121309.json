@@ -1,0 +1,410 @@
+{
+  "runTime": 1752207121309,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1453396,
+        "num": 1453396,
+        "word": "樱桃琥珀定档",
+        "onboard_time": 1752204741,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1260884,
+        "num": 1260884,
+        "word": "父母离婚没人管小孩商场玩手机",
+        "onboard_time": 1752201021,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2980,
+        "num": 1194090,
+        "word": "活力中国调研行",
+        "onboard_time": 1752050482,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1165828,
+        "num": 1165828,
+        "word": "白家涉诈资金超106亿元",
+        "onboard_time": 1752203480,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 979053,
+        "num": 979053,
+        "word": "Bin哥骗我",
+        "onboard_time": 1752203901,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 801657,
+        "num": 801657,
+        "word": "jump",
+        "onboard_time": 1752205702,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 789312,
+        "num": 789312,
+        "word": "陈奕迅凌晨去北京吃烤鸭",
+        "onboard_time": 1752204862,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 655699,
+        "num": 655699,
+        "word": "缅北白家开发建设41个大型赌诈园区",
+        "onboard_time": 1752203480,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 639176,
+        "num": 639176,
+        "word": "这个荔枝死了吗",
+        "onboard_time": 1752205943,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 535689,
+        "num": 535689,
+        "word": "王俊凯在沙特帅成这样",
+        "onboard_time": 1752199221,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 441939,
+        "num": 441939,
+        "word": "缅北白家明家覆灭时间线",
+        "onboard_time": 1752203301,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 392160,
+        "num": 392160,
+        "word": "王菲窦靖童合唱OST",
+        "onboard_time": 1752205281,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 383255,
+        "num": 383255,
+        "word": "陈熠3比1孙颖莎",
+        "onboard_time": 1752188718,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 381298,
+        "num": 381298,
+        "word": "湘潭大学宿舍投毒案二审开庭",
+        "onboard_time": 1752205581,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369551,
+        "num": 369551,
+        "word": "表妹万福今天开机",
+        "onboard_time": 1752199100,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 345056,
+        "num": 345056,
+        "word": "王楚钦vs李尚洙",
+        "onboard_time": 1752205281,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 345051,
+        "num": 345051,
+        "word": "王晶评刘亦菲观众缘可媲美赵雅芝",
+        "onboard_time": 1752200839,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316765,
+        "num": 316765,
+        "word": "坐男友车致截瘫女生称二人网上相识",
+        "onboard_time": 1752196581,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273476,
+        "num": 273476,
+        "word": "Bin首次无缘MSI决赛",
+        "onboard_time": 1752204082,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 261149,
+        "num": 261149,
+        "word": "BLG遗憾止步MSI",
+        "onboard_time": 1752203601,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 817251,
+        "num": 259145,
+        "word": "允许关晓彤洗把脸就来走红毯",
+        "onboard_time": 1752190159,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287630,
+        "num": 257934,
+        "word": "女子买菜错付2000元大爷称只看到5元",
+        "onboard_time": 1752196940,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255180,
+        "num": 255180,
+        "word": "女生撬开生蚝发现小螃蟹",
+        "onboard_time": 1752201021,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215500,
+        "num": 215500,
+        "word": "朱雨玲曾是国乒世界第一",
+        "onboard_time": 1752201021,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213652,
+        "num": 213652,
+        "word": "七分裤怎么又火了",
+        "onboard_time": 1752161604,
+        "rank": 24,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 213437,
+        "num": 213437,
+        "word": "杨瀚森为王楚钦比赛挑边",
+        "onboard_time": 1752205523,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209747,
+        "num": 209747,
+        "word": "杨幂欧豪生万物暑假开播",
+        "onboard_time": 1752202822,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209500,
+        "num": 209500,
+        "word": "AL零封BLG",
+        "onboard_time": 1752205281,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 204147,
+        "num": 204147,
+        "word": "弗拉格21投5中",
+        "onboard_time": 1752205822,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186248,
+        "num": 199326,
+        "word": "高叶一个月两部戏的含金量",
+        "onboard_time": 1752206363,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199318,
+        "num": 199318,
+        "word": "研究生给室友投毒致死后销毁物证",
+        "onboard_time": 1752191541,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198358,
+        "num": 198358,
+        "word": "最好吃的荔枝排名",
+        "onboard_time": 1752204622,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 29535,
+        "num": 194383,
+        "word": "中国经济解锁这些新成就",
+        "onboard_time": 1752206483,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 138567,
+        "num": 193183,
+        "word": "特朗普对非洲领导人极不耐烦",
+        "onboard_time": 1752200960,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 180430,
+        "num": 192869,
+        "word": "好利来 光夜",
+        "onboard_time": 1752206543,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192786,
+        "num": 192786,
+        "word": "小兰花自戕前的第一句话",
+        "onboard_time": 1752194722,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191652,
+        "num": 191652,
+        "word": "四十年的蛋挞殴打三十年的周深",
+        "onboard_time": 1752205882,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186766,
+        "num": 186766,
+        "word": "减肥黄金30天马上开始",
+        "onboard_time": 1752206002,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 180697,
+        "num": 180697,
+        "word": "坐车致截瘫女生称遭1分钱转账轰炸",
+        "onboard_time": 1752199999,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179401,
+        "num": 179401,
+        "word": "缅北白所成等21人被提起公诉",
+        "onboard_time": 1752200422,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160384,
+        "num": 160384,
+        "word": "AL对战BLG",
+        "onboard_time": 1752198501,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 155774,
+        "num": 155774,
+        "word": "成都暴雨",
+        "onboard_time": 1752195322,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154173,
+        "num": 154173,
+        "word": "樱桃琥珀青春群像版预告",
+        "onboard_time": 1752201021,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154030,
+        "num": 154030,
+        "word": "揽佬否认凭八方来财赚了1.2亿",
+        "onboard_time": 1752206663,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152261,
+        "num": 152261,
+        "word": "沈腾贾冰已经不知天地为何物了",
+        "onboard_time": 1752202822,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152240,
+        "num": 152240,
+        "word": "田栩宁通告被取消了",
+        "onboard_time": 1752157826,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150037,
+        "num": 150037,
+        "word": "加沙4个婴儿挤一个保温箱",
+        "onboard_time": 1752194363,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 139600,
+        "num": 139600,
+        "word": "国乒男单仅剩王楚钦林诗栋",
+        "onboard_time": 1752204741,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139243,
+        "num": 139243,
+        "word": "武汉地铁黑人男子不文明行为",
+        "onboard_time": 1752206002,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41914,
+        "num": 138504,
+        "word": "上大学让我忘了原本不富裕的家庭",
+        "onboard_time": 1752206483,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#扎扎实实地干实现我们的中国式现代化#"
+    }
+  }
+}

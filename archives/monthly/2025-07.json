@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752206541710,
+  "endTime": 1752207121309,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -787,6 +787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1453396,
+      "num": 1453396,
+      "word": "樱桃琥珀定档",
+      "onboard_time": 1752204741,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1446138,
       "num": 1446138,
       "word": "杨洋撕拉片",
@@ -1193,14 +1201,6 @@
       "onboard_time": 1751803764,
       "rank": 3,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 1225119,
-      "num": 1225119,
-      "word": "樱桃琥珀定档",
-      "onboard_time": 1752204741,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 1220388,
@@ -1763,20 +1763,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 979053,
+      "num": 979053,
+      "word": "Bin哥骗我",
+      "onboard_time": 1752203901,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 970476,
       "num": 317906,
       "word": "29岁身高从165厘米到171厘米",
       "onboard_time": 1751626283,
       "rank": 12,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 970099,
-      "num": 970099,
-      "word": "Bin哥骗我",
-      "onboard_time": 1752203901,
-      "rank": 4,
-      "category": "电竞"
     },
     {
       "raw_hot": 968427,
@@ -2499,6 +2499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 801657,
+      "num": 801657,
+      "word": "jump",
+      "onboard_time": 1751733262,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 800706,
       "num": 800706,
       "word": "兰州人才引进20岁女硕士",
@@ -2577,6 +2585,14 @@
       "onboard_time": 1751727684,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 789312,
+      "num": 789312,
+      "word": "陈奕迅凌晨去北京吃烤鸭",
+      "onboard_time": 1752204862,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 788579,
@@ -2777,14 +2793,6 @@
       "onboard_time": 1751757859,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 758225,
-      "num": 386051,
-      "word": "陈奕迅凌晨去北京吃烤鸭",
-      "onboard_time": 1752204862,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 757854,
@@ -3737,6 +3745,14 @@
       "onboard_time": 1751374344,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 639176,
+      "num": 639176,
+      "word": "这个荔枝死了吗",
+      "onboard_time": 1752205943,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 639006,
@@ -5731,6 +5747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 441939,
+      "num": 441939,
+      "word": "缅北白家明家覆灭时间线",
+      "onboard_time": 1752203301,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 441638,
       "num": 441638,
       "word": "印度25岁新娘为嫁55岁舅舅杀夫",
@@ -6059,14 +6083,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 418580,
-      "num": 418580,
-      "word": "jump",
-      "onboard_time": 1751733262,
-      "rank": 16,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 418277,
       "num": 327344,
       "word": "者来女马甲",
@@ -6212,7 +6228,7 @@
     },
     {
       "raw_hot": 410569,
-      "num": 247195,
+      "num": 257934,
       "word": "女子买菜错付2000元大爷称只看到5元",
       "onboard_time": 1752196940,
       "rank": 21,
@@ -6475,6 +6491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 392160,
+      "num": 392160,
+      "word": "王菲窦靖童合唱OST",
+      "onboard_time": 1752205281,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 391547,
       "num": 391547,
       "word": "差点没认出杨紫和胡歌",
@@ -6617,6 +6641,14 @@
       "onboard_time": 1751789540,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 381298,
+      "num": 381298,
+      "word": "湘潭大学宿舍投毒案二审开庭",
+      "onboard_time": 1752205581,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 380976,
@@ -7323,6 +7355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 345056,
+      "num": 345056,
+      "word": "王楚钦vs李尚洙",
+      "onboard_time": 1752205281,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 345016,
       "num": 345016,
       "word": "拒绝填报清华北大遭怒骂",
@@ -7649,14 +7689,6 @@
       "onboard_time": 1751586139,
       "rank": 11,
       "category": "健康医疗,民生新闻"
-    },
-    {
-      "raw_hot": 331509,
-      "num": 331509,
-      "word": "这个荔枝死了吗",
-      "onboard_time": 1752205943,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 331318,
@@ -8033,14 +8065,6 @@
       "onboard_time": 1751546121,
       "rank": 20,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 319175,
-      "num": 319175,
-      "word": "缅北白家明家覆灭时间线",
-      "onboard_time": 1752203301,
-      "rank": 15,
-      "category": "国内时政"
     },
     {
       "raw_hot": 318921,
@@ -9067,14 +9091,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 279714,
-      "num": 279714,
-      "word": "王菲窦靖童合唱OST",
-      "onboard_time": 1752205281,
-      "rank": 18,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 279644,
       "num": 279644,
       "word": "公职人员被判缓刑仍领41万工资",
@@ -9204,7 +9220,7 @@
     },
     {
       "raw_hot": 276585,
-      "num": 247287,
+      "num": 255180,
       "word": "女生撬开生蚝发现小螃蟹",
       "onboard_time": 1752201021,
       "rank": 46,
@@ -9257,6 +9273,14 @@
       "onboard_time": 1751524641,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 273476,
+      "num": 273476,
+      "word": "Bin首次无缘MSI决赛",
+      "onboard_time": 1752204082,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 273311,
@@ -9947,14 +9971,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 256448,
-      "num": 256448,
-      "word": "王楚钦vs李尚洙",
-      "onboard_time": 1752205281,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 256156,
       "num": 256156,
       "word": "巨改善脖子前倾的15天有效法",
@@ -10233,14 +10249,6 @@
       "onboard_time": 1751970382,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 247837,
-      "num": 247837,
-      "word": "Bin首次无缘MSI决赛",
-      "onboard_time": 1752204082,
-      "rank": 22,
-      "category": "电竞"
     },
     {
       "raw_hot": 247824,
@@ -11995,6 +12003,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 213437,
+      "num": 213437,
+      "word": "杨瀚森为王楚钦比赛挑边",
+      "onboard_time": 1752205523,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 213425,
       "num": 213425,
       "word": "台湾本岛全警戒状态",
@@ -12209,6 +12225,14 @@
       "onboard_time": 1751764942,
       "rank": 19,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 209500,
+      "num": 209500,
+      "word": "AL零封BLG",
+      "onboard_time": 1752205281,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 209175,
@@ -12627,6 +12651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 204147,
+      "num": 204370,
+      "word": "弗拉格21投5中",
+      "onboard_time": 1752205822,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203974,
       "num": 191764,
       "word": "柳红回应片酬比五阿哥高",
@@ -12849,14 +12881,6 @@
       "onboard_time": 1752112581,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 202264,
-      "num": 202264,
-      "word": "AL零封BLG",
-      "onboard_time": 1752205281,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 202005,
@@ -13297,14 +13321,6 @@
       "onboard_time": 1751434043,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 198033,
-      "num": 204370,
-      "word": "弗拉格21投5中",
-      "onboard_time": 1752205822,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 198010,
@@ -14035,6 +14051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 191652,
+      "num": 191652,
+      "word": "四十年的蛋挞殴打三十年的周深",
+      "onboard_time": 1752205882,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191587,
       "num": 191587,
       "word": "赵今麦碎冰蓝玫瑰",
@@ -14185,14 +14209,6 @@
       "onboard_time": 1751503702,
       "rank": 22,
       "category": "国内时政,民生新闻"
-    },
-    {
-      "raw_hot": 190295,
-      "num": 190295,
-      "word": "四十年的蛋挞殴打三十年的周深",
-      "onboard_time": 1752205882,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 190214,
@@ -14635,6 +14651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186766,
+      "num": 186766,
+      "word": "减肥黄金30天马上开始",
+      "onboard_time": 1752206002,
+      "rank": 35,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 186697,
       "num": 242365,
       "word": "摆摊女生称母校以影响招生要求删视频",
@@ -14675,14 +14699,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 186361,
-      "num": 186361,
-      "word": "减肥黄金30天马上开始",
-      "onboard_time": 1752206002,
-      "rank": 35,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 186308,
       "num": 186308,
       "word": "交往6年男友竟是刑满释放人员",
@@ -14705,6 +14721,14 @@
       "onboard_time": 1752045442,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 186248,
+      "num": 199326,
+      "word": "高叶一个月两部戏的含金量",
+      "onboard_time": 1752206363,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 186104,
@@ -15209,6 +15233,14 @@
       "onboard_time": 1752130703,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180430,
+      "num": 192869,
+      "word": "好利来 光夜",
+      "onboard_time": 1752206543,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 180377,
@@ -16881,14 +16913,6 @@
       "onboard_time": 1751957782,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 166695,
-      "num": 166695,
-      "word": "高叶一个月两部戏的含金量",
-      "onboard_time": 1752206363,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 166665,
@@ -18579,6 +18603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154030,
+      "num": 154030,
+      "word": "揽佬否认凭八方来财赚了1.2亿",
+      "onboard_time": 1752206663,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154012,
       "num": 263258,
       "word": "对家想和我炒cp怎么办",
@@ -19484,7 +19516,7 @@
     },
     {
       "raw_hot": 148596,
-      "num": 148596,
+      "num": 193183,
       "word": "特朗普对非洲领导人极不耐烦",
       "onboard_time": 1752200960,
       "rank": 36,
@@ -25827,14 +25859,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115850,
-      "num": 205350,
-      "word": "杨瀚森为王楚钦比赛挑边",
-      "onboard_time": 1752205523,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 115779,
       "num": 206155,
       "word": "山河为证是一部全民回忆录",
@@ -30803,14 +30827,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 81064,
-      "num": 322640,
-      "word": "湘潭大学宿舍投毒案二审开庭",
-      "onboard_time": 1752205581,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 81061,
       "num": 212122,
       "word": "王星越吃播",
@@ -33907,6 +33923,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 41914,
+      "num": 140350,
+      "word": "上大学让我忘了原本不富裕的家庭",
+      "onboard_time": 1752206483,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 41786,
       "num": 267586,
       "word": "荣耀MagicV5血条太厚了",
@@ -35003,6 +35027,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 29535,
+      "num": 1185021,
+      "word": "中国经济解锁这些新成就",
+      "onboard_time": 1752206483,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 29510,
       "num": 29510,
       "word": "李一桐分享书卷一梦reaction",
@@ -35979,14 +36011,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 20117,
-      "num": 140350,
-      "word": "上大学让我忘了原本不富裕的家庭",
-      "onboard_time": 1752206483,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 19949,
       "num": 207123,
       "word": "台风丹娜丝带来风风风雨雨雨",
@@ -36644,7 +36668,7 @@
     },
     {
       "raw_hot": 12640,
-      "num": 806146,
+      "num": 1194090,
       "word": "活力中国调研行",
       "onboard_time": 1752050482,
       "rank": 2,
@@ -36843,14 +36867,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 7110,
-      "num": 1185021,
-      "word": "中国经济解锁这些新成就",
-      "onboard_time": 1752206483,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 6974,
       "num": 640594,
       "word": "天问二号拍到地月影像图",
@@ -36971,6 +36987,9 @@
     },
     {
       "word": "#习近平向全球文明对话部长级会议致贺信#"
+    },
+    {
+      "word": "#扎扎实实地干实现我们的中国式现代化#"
     }
   ]
 }
