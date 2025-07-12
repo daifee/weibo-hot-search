@@ -1,0 +1,410 @@
+{
+  "runTime": 1752312418968,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1481498,
+        "num": 1481498,
+        "word": "免费奶茶",
+        "onboard_time": 1752296961,
+        "rank": 0,
+        "category": "互联网,美食"
+      },
+      {
+        "raw_hot": 440105,
+        "num": 440105,
+        "word": "郭艾伦 跑男",
+        "onboard_time": 1752304581,
+        "rank": 1,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 35684,
+        "num": 439995,
+        "word": "从多项第一读懂中国创新突破的必然",
+        "onboard_time": 1752309321,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 439907,
+        "num": 439907,
+        "word": "花一万把labubu做在美甲上",
+        "onboard_time": 1752304821,
+        "rank": 3,
+        "category": "美妆,休闲"
+      },
+      {
+        "raw_hot": 435813,
+        "num": 435813,
+        "word": "邢昭林弟弟被中戏录取",
+        "onboard_time": 1752303981,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 573972,
+        "num": 418471,
+        "word": "中山大学通报133人被取消录取资格",
+        "onboard_time": 1752300201,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259064,
+        "num": 259064,
+        "word": "卫生巾在新疆叫馕在上海叫贝果",
+        "onboard_time": 1752300801,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235204,
+        "num": 235204,
+        "word": "28岁胃癌前病变女生的忠告",
+        "onboard_time": 1752298221,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 211941,
+        "num": 211941,
+        "word": "公司团建5人中暑1人热射病进ICU",
+        "onboard_time": 1752299720,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75086,
+        "num": 210784,
+        "word": "央视曝光电动自行车非法改装一条龙",
+        "onboard_time": 1752311541,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1508207,
+        "num": 210044,
+        "word": "第一次感受到1w有这么多",
+        "onboard_time": 1752306502,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 808706,
+        "num": 208306,
+        "word": "薄底皮鞋 男明星最好的医美",
+        "onboard_time": 1752308120,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 777072,
+        "num": 207256,
+        "word": "田栩宁复工",
+        "onboard_time": 1752306202,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 664499,
+        "num": 206323,
+        "word": "水千丞 Boom",
+        "onboard_time": 1752311002,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75614,
+        "num": 204699,
+        "word": "脑死亡男童妈妈因过度伤心昏迷",
+        "onboard_time": 1752310941,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 611385,
+        "num": 203555,
+        "word": "五代",
+        "onboard_time": 1752309923,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458976,
+        "num": 202765,
+        "word": "相亲遛弯瘦了40斤",
+        "onboard_time": 1752306802,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201903,
+        "num": 201903,
+        "word": "所谓南海仲裁案裁决是一张废纸",
+        "onboard_time": 1752310761,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 444863,
+        "num": 199780,
+        "word": "中国不接受不承认所谓裁决",
+        "onboard_time": 1752309861,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 299720,
+        "num": 195883,
+        "word": "时代峰峻",
+        "onboard_time": 1752305602,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256497,
+        "num": 191099,
+        "word": "张檬儿子便血",
+        "onboard_time": 1752284601,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255937,
+        "num": 187076,
+        "word": "那英手链",
+        "onboard_time": 1752308422,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251500,
+        "num": 181529,
+        "word": "真胖和虚胖的区别",
+        "onboard_time": 1752307882,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 180104,
+        "num": 180104,
+        "word": "我的大观园带动文旅消费超1.2亿",
+        "onboard_time": 1752304641,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176738,
+        "num": 176738,
+        "word": "洪崖洞一游客遭陌生女子强拉拍照",
+        "onboard_time": 1752295580,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172629,
+        "num": 172629,
+        "word": "赵今麦张凌赫三搭想演对手",
+        "onboard_time": 1752307162,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166209,
+        "num": 166209,
+        "word": "姚译添回应范丞丞",
+        "onboard_time": 1752312020,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162184,
+        "num": 162184,
+        "word": "被隐匿的真相",
+        "onboard_time": 1752312202,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159683,
+        "num": 159683,
+        "word": "陈楚生连续九期收视TOP1",
+        "onboard_time": 1752311841,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159174,
+        "num": 159174,
+        "word": "朱志鑫苏新皓双MVP绕场饭撒",
+        "onboard_time": 1752311062,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169606,
+        "num": 157580,
+        "word": "左邓",
+        "onboard_time": 1752303500,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155543,
+        "num": 155543,
+        "word": "男子称赶到机场发现飞机提前5小时起飞",
+        "onboard_time": 1752311660,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149981,
+        "num": 149981,
+        "word": "宋亚轩 内娱唯一机器人塑",
+        "onboard_time": 1752308302,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139399,
+        "num": 139399,
+        "word": "鹿晗把我媚成狗了",
+        "onboard_time": 1752306921,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 41049,
+        "num": 135376,
+        "word": "45万饭店罚单谁给了先罚后查的权力",
+        "onboard_time": 1752312262,
+        "rank": 34,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 133451,
+        "num": 133451,
+        "word": "歌手后续赛程",
+        "onboard_time": 1752300680,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130948,
+        "num": 130948,
+        "word": "杨瀚森拿下首个助攻",
+        "onboard_time": 1752295221,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121777,
+        "num": 121777,
+        "word": "广西发现全身30多个发光点的昆虫",
+        "onboard_time": 1752310701,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119282,
+        "num": 119282,
+        "word": "橹穆",
+        "onboard_time": 1752310582,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115105,
+        "num": 115105,
+        "word": "王楚钦7比10落后连追5分",
+        "onboard_time": 1752306440,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114512,
+        "num": 114512,
+        "word": "择偶的尽头是初高中同学",
+        "onboard_time": 1752308302,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111830,
+        "num": 111830,
+        "word": "你顶着漂亮的脸蛋在干什么",
+        "onboard_time": 1752309321,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108899,
+        "num": 108899,
+        "word": "你不用考清华了 因为你马上要北大了",
+        "onboard_time": 1752312081,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104789,
+        "num": 104789,
+        "word": "胡先煦红发生图",
+        "onboard_time": 1752306382,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104567,
+        "num": 104567,
+        "word": "体重下降的46个小常识",
+        "onboard_time": 1752311961,
+        "rank": 44,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 103900,
+        "num": 103900,
+        "word": "走路 降内脏脂肪",
+        "onboard_time": 1752309561,
+        "rank": 45,
+        "category": "运动健身,科学科普"
+      },
+      {
+        "raw_hot": 102991,
+        "num": 102991,
+        "word": "夏天是养气血的黄金时间",
+        "onboard_time": 1752309202,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 102524,
+        "num": 102524,
+        "word": "聊斋兰若寺画皮恶心背后的余味",
+        "onboard_time": 1752312322,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 101853,
+        "num": 101853,
+        "word": "邢昭林家传减肥爆改吗",
+        "onboard_time": 1752303740,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19300,
+        "num": 99960,
+        "word": "女装版型到底是谁设计的",
+        "onboard_time": 1752312382,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#热爱与坚守#"
+    }
+  }
+}
