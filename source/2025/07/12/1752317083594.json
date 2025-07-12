@@ -1,0 +1,410 @@
+{
+  "runTime": 1752317083594,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1281792,
+        "num": 1281792,
+        "word": "免费奶茶",
+        "onboard_time": 1752296961,
+        "rank": 0,
+        "category": "互联网,美食"
+      },
+      {
+        "raw_hot": 1119347,
+        "num": 1119347,
+        "word": "第一次感受到1w有这么多",
+        "onboard_time": 1752306502,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 32031,
+        "num": 725161,
+        "word": "从多项第一读懂中国创新突破的必然",
+        "onboard_time": 1752309321,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 628981,
+        "num": 628981,
+        "word": "12306回应高铁车内比车外温度还高",
+        "onboard_time": 1752312681,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 384448,
+        "num": 384448,
+        "word": "中国不接受不承认所谓裁决",
+        "onboard_time": 1752309861,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 358214,
+        "num": 358214,
+        "word": "郭艾伦 跑男",
+        "onboard_time": 1752304581,
+        "rank": 5,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 300881,
+        "num": 300881,
+        "word": "蔡文静 装腔启示录",
+        "onboard_time": 1752315500,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276997,
+        "num": 276997,
+        "word": "中山大学通报133人被取消录取资格",
+        "onboard_time": 1752300201,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258212,
+        "num": 258212,
+        "word": "手术后脑死亡男童母亲发声",
+        "onboard_time": 1752313702,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82132,
+        "num": 257925,
+        "word": "男孩术后脑死亡母亲痛哭三问医院",
+        "onboard_time": 1752316160,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 610976,
+        "num": 257284,
+        "word": "薄底皮鞋 男明星最好的医美",
+        "onboard_time": 1752308120,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 481405,
+        "num": 256181,
+        "word": "田栩宁复工",
+        "onboard_time": 1752306202,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 466627,
+        "num": 255617,
+        "word": "水千丞 Boom",
+        "onboard_time": 1752311002,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432152,
+        "num": 254856,
+        "word": "花一万把labubu做在美甲上",
+        "onboard_time": 1752304821,
+        "rank": 13,
+        "category": "美妆,休闲"
+      },
+      {
+        "raw_hot": 364327,
+        "num": 254069,
+        "word": "LV 补差价",
+        "onboard_time": 1752312681,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 323654,
+        "num": 253092,
+        "word": "你不用考清华了 因为你马上要北大了",
+        "onboard_time": 1752312081,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187329,
+        "num": 251955,
+        "word": "卫生巾在新疆叫馕在上海叫贝果",
+        "onboard_time": 1752300801,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290747,
+        "num": 251537,
+        "word": "丁禹兮 眉骨遮眼",
+        "onboard_time": 1752314601,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146446,
+        "num": 250271,
+        "word": "种地吧杀青转场",
+        "onboard_time": 1752315802,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31113,
+        "num": 249955,
+        "word": "男童扁桃体术后脑死亡医院内部调查",
+        "onboard_time": 1752316461,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285394,
+        "num": 248904,
+        "word": "真胖和虚胖的区别",
+        "onboard_time": 1752307882,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 277946,
+        "num": 248350,
+        "word": "五代",
+        "onboard_time": 1752309923,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247544,
+        "num": 247544,
+        "word": "周深录制综艺节目遭嘉宾拖拽",
+        "onboard_time": 1752317001,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220614,
+        "num": 220614,
+        "word": "相亲遛弯瘦了40斤",
+        "onboard_time": 1752306802,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188924,
+        "num": 188924,
+        "word": "鞠婧祎抹胸飞行员造型",
+        "onboard_time": 1752317001,
+        "rank": 24,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 170312,
+        "num": 170312,
+        "word": "姚译添回应范丞丞",
+        "onboard_time": 1752312020,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156592,
+        "num": 156592,
+        "word": "邢昭林弟弟被中戏录取",
+        "onboard_time": 1752303981,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152642,
+        "num": 152642,
+        "word": "所谓南海仲裁案裁决是一张废纸",
+        "onboard_time": 1752310761,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 170654,
+        "num": 152454,
+        "word": "高温晒背2小时67岁阿姨开颅保命",
+        "onboard_time": 1752316701,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24904,
+        "num": 151852,
+        "word": "卫健局称扁桃体手术男童脑死亡未确定",
+        "onboard_time": 1752316342,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218461,
+        "num": 151347,
+        "word": "90年35岁未婚女生的真实感受",
+        "onboard_time": 1752316041,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199282,
+        "num": 150751,
+        "word": "男子称赶到机场发现飞机提前5小时起飞",
+        "onboard_time": 1752311660,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167221,
+        "num": 150299,
+        "word": "田曦薇早期姐感",
+        "onboard_time": 1752315860,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155316,
+        "num": 149952,
+        "word": "关晓彤比心氛围封神",
+        "onboard_time": 1752315740,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149584,
+        "num": 149584,
+        "word": "马柏全松弛的像来到了自家客厅",
+        "onboard_time": 1752315081,
+        "rank": 34,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 145538,
+        "num": 145538,
+        "word": "锦绣芳华",
+        "onboard_time": 1752315562,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144671,
+        "num": 144671,
+        "word": "聊斋兰若寺",
+        "onboard_time": 1752316342,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144097,
+        "num": 144097,
+        "word": "北京大雨",
+        "onboard_time": 1752313822,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133847,
+        "num": 133847,
+        "word": "那英手链",
+        "onboard_time": 1752308422,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131870,
+        "num": 131870,
+        "word": "28岁胃癌前病变女生的忠告",
+        "onboard_time": 1752298221,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 129314,
+        "num": 129314,
+        "word": "3岁男童肥大扁桃体切除术后脑死亡",
+        "onboard_time": 1752315680,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120324,
+        "num": 120324,
+        "word": "全国唯一做宝剑专业就业率百分百",
+        "onboard_time": 1752312801,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119251,
+        "num": 119251,
+        "word": "时代峰峻",
+        "onboard_time": 1752305602,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115184,
+        "num": 115184,
+        "word": "张檬儿子便血",
+        "onboard_time": 1752284601,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112452,
+        "num": 112452,
+        "word": "左邓",
+        "onboard_time": 1752303500,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111986,
+        "num": 111986,
+        "word": "在医院上厕所前一定要洗手",
+        "onboard_time": 1752316701,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 111887,
+        "num": 111887,
+        "word": "短国也有不输大剧的浴池吻",
+        "onboard_time": 1752316701,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99176,
+        "num": 107387,
+        "word": "王楚钦晋级WTT男单四强",
+        "onboard_time": 1752316822,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105054,
+        "num": 105054,
+        "word": "天津人来韩国了都要愣一下",
+        "onboard_time": 1752317062,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 33959,
+        "num": 104834,
+        "word": "脱不下去长衫但也知道里面啥都没穿",
+        "onboard_time": 1752315981,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#热爱与坚守#"
+    }
+  }
+}
