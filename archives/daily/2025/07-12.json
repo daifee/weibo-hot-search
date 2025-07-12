@@ -1,10 +1,10 @@
 {
   "startTime": 1752251611895,
-  "endTime": 1752302205519,
+  "endTime": 1752303072947,
   "band_list": [
     {
-      "raw_hot": 2301694,
-      "num": 2301694,
+      "raw_hot": 2331471,
+      "num": 2331471,
       "word": "免费奶茶",
       "onboard_time": 1752296961,
       "rank": 17,
@@ -179,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 560181,
+      "num": 560181,
+      "word": "卫生巾在新疆叫馕在上海叫贝果",
+      "onboard_time": 1752300801,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 543311,
       "num": 543311,
       "word": "AL遗憾止步MSI",
@@ -209,6 +217,14 @@
       "onboard_time": 1752290840,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 506842,
+      "num": 506842,
+      "word": "第二代居民身份证迎换证高峰",
+      "onboard_time": 1752297560,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 506826,
@@ -243,14 +259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 474087,
-      "num": 474087,
-      "word": "第二代居民身份证迎换证高峰",
-      "onboard_time": 1752297560,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 473713,
       "num": 279351,
       "word": "刘浩存双马尾",
@@ -265,6 +273,14 @@
       "onboard_time": 1752294861,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 452410,
+      "num": 452410,
+      "word": "女演员一直上桌男演员一直上炕",
+      "onboard_time": 1752299361,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 450895,
@@ -323,14 +339,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 380900,
-      "num": 415897,
-      "word": "女演员一直上桌男演员一直上炕",
-      "onboard_time": 1752299361,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 374768,
       "num": 374768,
       "word": "印度坠机驾驶舱语音记录公开",
@@ -360,14 +368,6 @@
       "word": "难听",
       "onboard_time": 1752240986,
       "rank": 10,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 355213,
-      "num": 355213,
-      "word": "卫生巾在新疆叫馕在上海叫贝果",
-      "onboard_time": 1752300801,
-      "rank": 15,
       "category": "综艺"
     },
     {
@@ -515,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 265265,
+      "num": 265265,
+      "word": "韩安冉否认与兜儿比生孩子",
+      "onboard_time": 1752301161,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 264219,
       "num": 264219,
       "word": "苏新皓朱志鑫仰卧起坐",
@@ -569,6 +577,14 @@
       "onboard_time": 1752245664,
       "rank": 15,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 228973,
+      "num": 264419,
+      "word": "杨幂不能既要我的喜欢又要我的微信",
+      "onboard_time": 1752301701,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 220395,
@@ -627,14 +643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 210217,
-      "num": 210217,
-      "word": "韩安冉否认与兜儿比生孩子",
-      "onboard_time": 1752301161,
-      "rank": 23,
-      "category": "网红"
-    },
-    {
       "raw_hot": 209285,
       "num": 209285,
       "word": "T1战胜AL",
@@ -667,6 +675,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 202687,
+      "num": 202687,
+      "word": "奇洛李维斯回信广播剧",
+      "onboard_time": 1752302661,
+      "rank": 25,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 198289,
       "num": 198289,
       "word": "没有重女轻男只是回归正常",
@@ -697,6 +713,14 @@
       "onboard_time": 1752288381,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 196661,
+      "num": 196661,
+      "word": "张凌赫赵今麦樱桃琥珀婚纱照",
+      "onboard_time": 1752302243,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 196245,
@@ -827,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180271,
+      "num": 180271,
+      "word": "张峻豪射箭29环",
+      "onboard_time": 1752302061,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179746,
       "num": 179746,
       "word": "极禹",
@@ -931,14 +963,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 168799,
-      "num": 168799,
-      "word": "杨幂不能既要我的喜欢又要我的微信",
-      "onboard_time": 1752301701,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 167245,
       "num": 167245,
       "word": "微笑一号店长沙站人头数",
@@ -1011,6 +1035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160996,
+      "num": 160996,
+      "word": "歌手后续赛程",
+      "onboard_time": 1752300680,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158533,
       "num": 149252,
       "word": "王楚钦敬礼庆祝胜利",
@@ -1033,6 +1065,14 @@
       "onboard_time": 1752286700,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155457,
+      "num": 155457,
+      "word": "一见钟情就是生理性喜欢",
+      "onboard_time": 1752302420,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 154392,
@@ -1123,14 +1163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 146527,
-      "num": 146527,
-      "word": "歌手后续赛程",
-      "onboard_time": 1752300680,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 143823,
       "num": 143823,
       "word": "朱雨玲晋级美国大满贯四强",
@@ -1171,6 +1203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138061,
+      "num": 413171,
+      "word": "被结婚8年女子称丢失过身份证",
+      "onboard_time": 1752301042,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137190,
       "num": 137190,
       "word": "范丞丞说掌中宝是鸡屁股",
@@ -1179,11 +1219,51 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136328,
+      "num": 136328,
+      "word": "余宇涵张桂源双人射箭",
+      "onboard_time": 1752302961,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 135121,
+      "num": 135121,
+      "word": "杨瀚森太像约基奇了",
+      "onboard_time": 1752302781,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 135108,
+      "num": 135108,
+      "word": "于是麦麦决定离家出走广播剧",
+      "onboard_time": 1752302420,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 135057,
+      "num": 135057,
+      "word": "金饰克价一夜涨10元",
+      "onboard_time": 1752302001,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 133652,
       "num": 133652,
       "word": "韩红大张伟一起调侃汪峰",
       "onboard_time": 1752292761,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 133484,
+      "num": 133484,
+      "word": "苏新皓 铲棒中控",
+      "onboard_time": 1752303021,
+      "rank": 47,
       "category": "综艺"
     },
     {
@@ -1224,14 +1304,6 @@
       "word": "朱苏",
       "onboard_time": 1752300680,
       "rank": 48,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 131017,
-      "num": 131017,
-      "word": "张峻豪射箭29环",
-      "onboard_time": 1752302061,
-      "rank": 49,
       "category": "综艺"
     },
     {
@@ -1699,6 +1771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 86045,
+      "num": 263302,
+      "word": "中山大学发布公告",
+      "onboard_time": 1752300560,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83793,
       "num": 83793,
       "word": "丁禹兮开餐厅是动了脑子的",
@@ -1779,14 +1859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 69139,
-      "num": 413171,
-      "word": "被结婚8年女子称丢失过身份证",
-      "onboard_time": 1752301042,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 68486,
       "num": 68486,
       "word": "光遇",
@@ -1841,6 +1913,14 @@
       "onboard_time": 1752254778,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 58277,
+      "num": 138608,
+      "word": "杨瀚森回应NBA首秀",
+      "onboard_time": 1752302600,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 57196,
@@ -1923,6 +2003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48040,
+      "num": 181194,
+      "word": "美移民局突袭加州农场抓捕200人",
+      "onboard_time": 1752301881,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 46656,
       "num": 273154,
       "word": "女子千里之外被结婚8年谁该担责",
@@ -1971,12 +2059,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 31752,
-      "num": 181194,
-      "word": "美移民局突袭加州农场抓捕200人",
-      "onboard_time": 1752301881,
-      "rank": 29,
-      "category": "国际时政"
+      "raw_hot": 32390,
+      "num": 264364,
+      "word": "冒名结婚或涉嫌诈骗罪",
+      "onboard_time": 1752301340,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29713,
@@ -2075,14 +2163,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 20730,
-      "num": 264364,
-      "word": "冒名结婚或涉嫌诈骗罪",
-      "onboard_time": 1752301340,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 20424,
       "num": 213605,
       "word": "农村高中毕业生7年诈骗3.8亿",
@@ -2105,6 +2185,14 @@
       "onboard_time": 1752260595,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 18024,
+      "num": 282899,
+      "word": "玉米大姨还原跳海救人经过",
+      "onboard_time": 1752302420,
+      "rank": 14,
+      "category": "正能量"
     },
     {
       "raw_hot": 16534,
@@ -2137,6 +2225,9 @@
     },
     {
       "word": "#这是中国式现代化的向海图强之路#"
+    },
+    {
+      "word": "#上扬的票房曲线是中国电影的双向奔赴#"
     }
   ]
 }

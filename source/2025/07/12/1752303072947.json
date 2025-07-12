@@ -1,0 +1,410 @@
+{
+  "runTime": 1752303072947,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2331471,
+        "num": 2331471,
+        "word": "免费奶茶",
+        "onboard_time": 1752296961,
+        "rank": 0,
+        "category": "互联网,美食"
+      },
+      {
+        "raw_hot": 1172952,
+        "num": 1172952,
+        "word": "买超回应新恋情",
+        "onboard_time": 1752298580,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38564,
+        "num": 960289,
+        "word": "净网2025来看1起侵犯公民个人信息案",
+        "onboard_time": 1752295941,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 872292,
+        "num": 872292,
+        "word": "中山大学通报133人被取消录取资格",
+        "onboard_time": 1752300201,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 560181,
+        "num": 560181,
+        "word": "卫生巾在新疆叫馕在上海叫贝果",
+        "onboard_time": 1752300801,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 506842,
+        "num": 506842,
+        "word": "第二代居民身份证迎换证高峰",
+        "onboard_time": 1752297560,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 452410,
+        "num": 452410,
+        "word": "女演员一直上桌男演员一直上炕",
+        "onboard_time": 1752299361,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383088,
+        "num": 383088,
+        "word": "林诗栋蒯曼夺混双冠军",
+        "onboard_time": 1752299962,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 350281,
+        "num": 350281,
+        "word": "杨瀚森首秀",
+        "onboard_time": 1752297502,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 320966,
+        "num": 320966,
+        "word": "经济舱 血栓",
+        "onboard_time": 1752294142,
+        "rank": 9,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 466154,
+        "num": 317279,
+        "word": "张檬儿子便血",
+        "onboard_time": 1752284601,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337619,
+        "num": 314102,
+        "word": "28岁胃癌前病变女生的忠告",
+        "onboard_time": 1752298221,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 301023,
+        "num": 301023,
+        "word": "洪崖洞一游客遭陌生女子强拉拍照",
+        "onboard_time": 1752295580,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286504,
+        "num": 286504,
+        "word": "杨瀚森拿下首个助攻",
+        "onboard_time": 1752295221,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18024,
+        "num": 282899,
+        "word": "玉米大姨还原跳海救人经过",
+        "onboard_time": 1752302420,
+        "rank": 14,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 281108,
+        "num": 281108,
+        "word": "姚译添默默地吐槽了一波",
+        "onboard_time": 1752295941,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265265,
+        "num": 265265,
+        "word": "韩安冉否认与兜儿比生孩子",
+        "onboard_time": 1752301161,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 199379,
+        "num": 265175,
+        "word": "骑士送免单",
+        "onboard_time": 1752300320,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 228973,
+        "num": 264419,
+        "word": "杨幂不能既要我的喜欢又要我的微信",
+        "onboard_time": 1752301701,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32390,
+        "num": 263627,
+        "word": "冒名结婚或涉嫌诈骗罪",
+        "onboard_time": 1752301340,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86045,
+        "num": 263302,
+        "word": "中山大学发布公告",
+        "onboard_time": 1752300560,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262653,
+        "num": 262653,
+        "word": "MaggieQ结婚",
+        "onboard_time": 1752290421,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231285,
+        "num": 231285,
+        "word": "梓渝超话首次登顶",
+        "onboard_time": 1752294861,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226049,
+        "num": 226049,
+        "word": "苏新皓朱志鑫仰卧起坐",
+        "onboard_time": 1752299301,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206427,
+        "num": 206427,
+        "word": "刘浩存双马尾",
+        "onboard_time": 1752295401,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202687,
+        "num": 202687,
+        "word": "奇洛李维斯回信广播剧",
+        "onboard_time": 1752302661,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 196661,
+        "num": 196661,
+        "word": "张凌赫赵今麦樱桃琥珀婚纱照",
+        "onboard_time": 1752302243,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189383,
+        "num": 189383,
+        "word": "得不到梓渝我还得不到梓渝的娃娃吗",
+        "onboard_time": 1752300980,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180271,
+        "num": 180271,
+        "word": "张峻豪射箭29环",
+        "onboard_time": 1752302061,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48040,
+        "num": 178438,
+        "word": "美移民局突袭加州农场抓捕200人",
+        "onboard_time": 1752301881,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138061,
+        "num": 177972,
+        "word": "被结婚8年女子称丢失过身份证",
+        "onboard_time": 1752301042,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177817,
+        "num": 177817,
+        "word": "奇文",
+        "onboard_time": 1752300861,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160996,
+        "num": 160996,
+        "word": "歌手后续赛程",
+        "onboard_time": 1752300680,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157359,
+        "num": 157359,
+        "word": "朱志鑫夏日运动会这个美萌",
+        "onboard_time": 1752302181,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155457,
+        "num": 155457,
+        "word": "一见钟情就是生理性喜欢",
+        "onboard_time": 1752302420,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153195,
+        "num": 153195,
+        "word": "国乒无缘包揽五冠",
+        "onboard_time": 1752285560,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145647,
+        "num": 145647,
+        "word": "沈腾龚俊好糟糕的姿势",
+        "onboard_time": 1752301760,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144754,
+        "num": 144754,
+        "word": "黄灿灿演我谈梓渝",
+        "onboard_time": 1752293721,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140447,
+        "num": 140447,
+        "word": "极禹",
+        "onboard_time": 1752300861,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58277,
+        "num": 138608,
+        "word": "杨瀚森回应NBA首秀",
+        "onboard_time": 1752302600,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137721,
+        "num": 137721,
+        "word": "AL遗憾止步MSI",
+        "onboard_time": 1752294202,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136564,
+        "num": 136564,
+        "word": "川航喂猪航班名不虚传",
+        "onboard_time": 1752298101,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136328,
+        "num": 136328,
+        "word": "余宇涵张桂源双人射箭",
+        "onboard_time": 1752302961,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135823,
+        "num": 135823,
+        "word": "专案组五赴缅北挖白骨定铁证",
+        "onboard_time": 1752298759,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135121,
+        "num": 135121,
+        "word": "杨瀚森太像约基奇了",
+        "onboard_time": 1752302781,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135108,
+        "num": 135108,
+        "word": "于是麦麦决定离家出走广播剧",
+        "onboard_time": 1752302420,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 135057,
+        "num": 135057,
+        "word": "金饰克价一夜涨10元",
+        "onboard_time": 1752302001,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 133484,
+        "num": 133484,
+        "word": "苏新皓 铲棒中控",
+        "onboard_time": 1752303021,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133291,
+        "num": 133291,
+        "word": "付航别算了",
+        "onboard_time": 1752300740,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131474,
+        "num": 131474,
+        "word": "男子灌面汤呛死妻子案最新进展",
+        "onboard_time": 1752289280,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#上扬的票房曲线是中国电影的双向奔赴#"
+    }
+  }
+}
