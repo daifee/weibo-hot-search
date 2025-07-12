@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752352088340,
+  "endTime": 1752352938489,
   "band_list": [
     {
       "raw_hot": 1250859,
@@ -523,20 +523,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17707,
+      "num": 18861,
+      "word": "学会拒绝是对自己和关系的保护",
+      "onboard_time": 1752343037,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 15873,
       "num": 18881,
       "word": "陈昊宇回眸巡演长沙站",
       "onboard_time": 1752346276,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 14416,
-      "num": 18861,
-      "word": "学会拒绝是对自己和关系的保护",
-      "onboard_time": 1752343037,
-      "rank": 48,
-      "category": "情感"
     }
   ],
   "hotgov_list": [
