@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752352938489,
+  "endTime": 1752355463888,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -42339,6 +42339,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 20495,
+      "num": 20495,
+      "word": "学会拒绝是对自己和关系的保护",
+      "onboard_time": 1752343037,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 20494,
       "num": 22904,
       "word": "机器人cha了登陆少年新舞台",
@@ -42633,14 +42641,6 @@
       "onboard_time": 1752243507,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 17707,
-      "num": 18861,
-      "word": "学会拒绝是对自己和关系的保护",
-      "onboard_time": 1752343037,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 17581,

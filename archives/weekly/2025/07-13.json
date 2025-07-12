@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752352938489,
+  "endTime": 1752355463888,
   "band_list": [
     {
       "raw_hot": 1250859,
@@ -515,20 +515,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 20495,
+      "num": 20495,
+      "word": "学会拒绝是对自己和关系的保护",
+      "onboard_time": 1752343037,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 19274,
       "num": 94405,
       "word": "10余人接力守护党的一号机密",
       "onboard_time": 1752344297,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17707,
-      "num": 18861,
-      "word": "学会拒绝是对自己和关系的保护",
-      "onboard_time": 1752343037,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 15873,
