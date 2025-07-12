@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752355463888,
+  "endTime": 1752356370531,
   "band_list": [
     {
       "raw_hot": 1250859,
@@ -515,8 +515,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 20495,
-      "num": 20495,
+      "raw_hot": 21043,
+      "num": 21043,
       "word": "学会拒绝是对自己和关系的保护",
       "onboard_time": 1752343037,
       "rank": 48,
@@ -537,6 +537,14 @@
       "onboard_time": 1752346276,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 12671,
+      "num": 17917,
+      "word": "你的爸爸好像是你房间的门",
+      "onboard_time": 1752356234,
+      "rank": 49,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
