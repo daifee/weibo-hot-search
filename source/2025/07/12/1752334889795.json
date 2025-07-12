@@ -1,0 +1,410 @@
+{
+  "runTime": 1752334889795,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1356076,
+        "num": 1356076,
+        "word": "向往的生活 回归",
+        "onboard_time": 1752326422,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1288177,
+        "num": 1288177,
+        "word": "外卖大战有骑手称要跑通宵",
+        "onboard_time": 1752330983,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32237,
+        "num": 1229607,
+        "word": "数读我国外贸发展新业态新模式",
+        "onboard_time": 1752325703,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1199140,
+        "num": 1199140,
+        "word": "前乒乓国手要求孙颖莎对手懂点事儿",
+        "onboard_time": 1752327744,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 936419,
+        "num": 936419,
+        "word": "hi6后期",
+        "onboard_time": 1752326722,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 792115,
+        "num": 792115,
+        "word": "第一次感受到1w有这么多",
+        "onboard_time": 1752306502,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 764019,
+        "num": 764019,
+        "word": "甘肃提级调查幼儿血铅异常问题",
+        "onboard_time": 1752327923,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 666868,
+        "num": 666868,
+        "word": "印度男子被嘲靠女儿吃饭枪杀女儿",
+        "onboard_time": 1752328702,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 503073,
+        "num": 503073,
+        "word": "免费奶茶",
+        "onboard_time": 1752296961,
+        "rank": 8,
+        "category": "互联网,美食"
+      },
+      {
+        "raw_hot": 418420,
+        "num": 418420,
+        "word": "外卖商战差不多就行了呗",
+        "onboard_time": 1752323962,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 449904,
+        "num": 416900,
+        "word": "素人女孩被拍网友喊话于正",
+        "onboard_time": 1752323662,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389436,
+        "num": 389436,
+        "word": "郭艾伦对周深说怕给你弄疼了",
+        "onboard_time": 1752332604,
+        "rank": 11,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 359479,
+        "num": 359479,
+        "word": "被骗至缅甸失联的高考生行程曝光",
+        "onboard_time": 1752326181,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317899,
+        "num": 317899,
+        "word": "ye 退票",
+        "onboard_time": 1752325043,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 91456,
+        "num": 311166,
+        "word": "遭养父虐待终身伤残女孩见到生父了",
+        "onboard_time": 1752329544,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309502,
+        "num": 309502,
+        "word": "国务院食安办派出工作组指导督办",
+        "onboard_time": 1752327983,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 249091,
+        "num": 309284,
+        "word": "被锦绣芳华的糖刀切换伤到了",
+        "onboard_time": 1752330504,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309156,
+        "num": 309156,
+        "word": "陈道明头发全白了",
+        "onboard_time": 1752333682,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150146,
+        "num": 305827,
+        "word": "外卖大战有骑手一天赚1000多元",
+        "onboard_time": 1752334342,
+        "rank": 18,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 216460,
+        "num": 304517,
+        "word": "宋佳马柏全拥抱",
+        "onboard_time": 1752333144,
+        "rank": 19,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 303543,
+        "num": 303543,
+        "word": "19岁男生鼻子不舒服查出罕见癌症",
+        "onboard_time": 1752330204,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283359,
+        "num": 283359,
+        "word": "拼车遭猥亵备忘录提示司机开到派出所",
+        "onboard_time": 1752328583,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248509,
+        "num": 248509,
+        "word": "F4五月天演唱会合唱流星雨",
+        "onboard_time": 1752326602,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 239735,
+        "num": 239735,
+        "word": "柯淳自曝初恋被分手",
+        "onboard_time": 1752332004,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220481,
+        "num": 220481,
+        "word": "郝蕾哭了",
+        "onboard_time": 1752333803,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217924,
+        "num": 217924,
+        "word": "王源薛之谦合唱了像风一样",
+        "onboard_time": 1752330144,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 216566,
+        "num": 216566,
+        "word": "拜托这可是EXO出道曲",
+        "onboard_time": 1752332004,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209295,
+        "num": 209295,
+        "word": "赵雅芝谈不扮白素贞造型的原因",
+        "onboard_time": 1752333982,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 231980,
+        "num": 209217,
+        "word": "李嘉格女版柯淳",
+        "onboard_time": 1752331942,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187022,
+        "num": 187022,
+        "word": "比单依纯还疯的歌手出现了",
+        "onboard_time": 1752333202,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 748050,
+        "num": 183789,
+        "word": "周深录制综艺节目遭嘉宾拖拽",
+        "onboard_time": 1752317001,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170294,
+        "num": 170294,
+        "word": "发现一个夏天披头发不热的方法",
+        "onboard_time": 1752322522,
+        "rank": 31,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 155288,
+        "num": 155288,
+        "word": "湖南一少年在游泳馆内触电身亡",
+        "onboard_time": 1752332543,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153029,
+        "num": 153029,
+        "word": "房主任",
+        "onboard_time": 1752321501,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151719,
+        "num": 151719,
+        "word": "曹格儿子Joe否认恋情",
+        "onboard_time": 1752323901,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151151,
+        "num": 151151,
+        "word": "朱茵岁月不败美人具象化了",
+        "onboard_time": 1752333742,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140286,
+        "num": 140286,
+        "word": "张凯丽女儿晋级全国12强",
+        "onboard_time": 1752331343,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138903,
+        "num": 138903,
+        "word": "王一博早期微博被做成书了",
+        "onboard_time": 1752333202,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133101,
+        "num": 133101,
+        "word": "卡琳娜cos疾风过于权威",
+        "onboard_time": 1752334161,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 132771,
+        "num": 132771,
+        "word": "90年35岁未婚女生的真实感受",
+        "onboard_time": 1752316041,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130800,
+        "num": 130800,
+        "word": "印度男子溜进学校宿舍性侵多名女童",
+        "onboard_time": 1752324021,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 126487,
+        "num": 126487,
+        "word": "商家给虾丸里加硼酸被判刑六个月",
+        "onboard_time": 1752332663,
+        "rank": 41,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 124514,
+        "num": 124514,
+        "word": "王源伴舞摔倒了",
+        "onboard_time": 1752325882,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122797,
+        "num": 122797,
+        "word": "有奶茶店提前2天备战周六外卖大战",
+        "onboard_time": 1752334523,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29403,
+        "num": 120569,
+        "word": "尹正BW开机甲",
+        "onboard_time": 1752330383,
+        "rank": 44,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 120109,
+        "num": 120109,
+        "word": "种地吧",
+        "onboard_time": 1752334281,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112620,
+        "num": 112620,
+        "word": "林俊杰王心凌合唱当你爱你",
+        "onboard_time": 1752330204,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 107129,
+        "num": 107129,
+        "word": "赵雅芝千字长文感谢新白",
+        "onboard_time": 1752334703,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 106878,
+        "num": 106878,
+        "word": "国乒非主力选手收入不高",
+        "onboard_time": 1752333682,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100382,
+        "num": 100382,
+        "word": "张碧晨演唱会哭了",
+        "onboard_time": 1752332904,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国将坚定不移走和平发展道路#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1752251611895,
-  "endTime": 1752334004801,
+  "endTime": 1752334889795,
   "band_list": [
     {
       "raw_hot": 2441299,
@@ -49,6 +49,14 @@
       "onboard_time": 1752284601,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1288177,
+      "num": 1288177,
+      "word": "外卖大战有骑手称要跑通宵",
+      "onboard_time": 1752330983,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1243989,
@@ -195,14 +203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 851885,
-      "num": 851885,
-      "word": "外卖大战有骑手称要跑通宵",
-      "onboard_time": 1752330983,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 849878,
       "num": 299965,
       "word": "薄底皮鞋 男明星最好的医美",
@@ -281,6 +281,14 @@
       "onboard_time": 1752300801,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 666868,
+      "num": 666868,
+      "word": "印度男子被嘲靠女儿吃饭枪杀女儿",
+      "onboard_time": 1752328702,
+      "rank": 25,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 652164,
@@ -369,14 +377,6 @@
       "onboard_time": 1752304581,
       "rank": 30,
       "category": "综艺,体育"
-    },
-    {
-      "raw_hot": 550270,
-      "num": 550270,
-      "word": "印度男子被嘲靠女儿吃饭枪杀女儿",
-      "onboard_time": 1752328702,
-      "rank": 25,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 543311,
@@ -643,6 +643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 389436,
+      "num": 389436,
+      "word": "郭艾伦对周深说怕给你弄疼了",
+      "onboard_time": 1752332604,
+      "rank": 14,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 386049,
       "num": 386049,
       "word": "时代峰峻",
@@ -827,12 +835,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 314150,
-      "num": 321743,
-      "word": "郭艾伦对周深说怕给你弄疼了",
-      "onboard_time": 1752332604,
-      "rank": 14,
-      "category": "综艺,体育"
+      "raw_hot": 309156,
+      "num": 309156,
+      "word": "陈道明头发全白了",
+      "onboard_time": 1752333682,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 307271,
@@ -1019,6 +1027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 239735,
+      "num": 239735,
+      "word": "柯淳自曝初恋被分手",
+      "onboard_time": 1752332004,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239201,
       "num": 239201,
       "word": "GAI表情",
@@ -1041,6 +1057,14 @@
       "onboard_time": 1752251181,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 231980,
+      "num": 209217,
+      "word": "李嘉格女版柯淳",
+      "onboard_time": 1752331942,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 231178,
@@ -1091,6 +1115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220481,
+      "num": 220481,
+      "word": "郝蕾哭了",
+      "onboard_time": 1752333803,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220395,
       "num": 213605,
       "word": "蒯曼晋级美国大满贯四强",
@@ -1123,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 216460,
+      "num": 304517,
+      "word": "宋佳马柏全拥抱",
+      "onboard_time": 1752333144,
+      "rank": 16,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 215881,
       "num": 187966,
       "word": "田曦薇早期姐感",
@@ -1137,14 +1177,6 @@
       "onboard_time": 1752312020,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 215167,
-      "num": 215167,
-      "word": "柯淳自曝初恋被分手",
-      "onboard_time": 1752332004,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 214733,
@@ -1211,6 +1243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209295,
+      "num": 209295,
+      "word": "赵雅芝谈不扮白素贞造型的原因",
+      "onboard_time": 1752333982,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 209285,
       "num": 209285,
       "word": "T1战胜AL",
@@ -1241,14 +1281,6 @@
       "onboard_time": 1752330983,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 206009,
-      "num": 293561,
-      "word": "宋佳马柏全拥抱",
-      "onboard_time": 1752333144,
-      "rank": 16,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 205818,
@@ -1523,11 +1555,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 187219,
-      "num": 177590,
-      "word": "李嘉格女版柯淳",
-      "onboard_time": 1752331942,
-      "rank": 29,
+      "raw_hot": 187022,
+      "num": 187022,
+      "word": "比单依纯还疯的歌手出现了",
+      "onboard_time": 1752333202,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -1569,14 +1601,6 @@
       "onboard_time": 1752318141,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 186029,
-      "num": 186029,
-      "word": "郝蕾哭了",
-      "onboard_time": 1752333803,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 185753,
@@ -1883,14 +1907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 166982,
-      "num": 166982,
-      "word": "比单依纯还疯的歌手出现了",
-      "onboard_time": 1752333202,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 166894,
       "num": 166894,
       "word": "王楚钦7比10落后连追5分",
@@ -1929,14 +1945,6 @@
       "onboard_time": 1752307701,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 163620,
-      "num": 163620,
-      "word": "陈道明头发全白了",
-      "onboard_time": 1752333682,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 162981,
@@ -2091,6 +2099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155288,
+      "num": 155288,
+      "word": "湖南一少年在游泳馆内触电身亡",
+      "onboard_time": 1752332543,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154392,
       "num": 154392,
       "word": "宋玉章广播剧",
@@ -2139,20 +2155,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 151262,
-      "num": 151262,
-      "word": "湖南一少年在游泳馆内触电身亡",
-      "onboard_time": 1752332543,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 150536,
       "num": 150536,
       "word": "原来荔枝变白就代表不新鲜了",
       "onboard_time": 1752284541,
       "rank": 28,
       "category": "美食"
+    },
+    {
+      "raw_hot": 150146,
+      "num": 305827,
+      "word": "外卖大战有骑手一天赚1000多元",
+      "onboard_time": 1752334342,
+      "rank": 18,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 150145,
@@ -2404,7 +2420,7 @@
     },
     {
       "raw_hot": 137039,
-      "num": 177866,
+      "num": 311166,
       "word": "遭养父虐待终身伤残女孩见到生父了",
       "onboard_time": 1752329544,
       "rank": 45,
@@ -2491,6 +2507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133101,
+      "num": 133101,
+      "word": "卡琳娜cos疾风过于权威",
+      "onboard_time": 1752334161,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 132909,
       "num": 132909,
       "word": "香奈儿镜头拉近美我一大跳",
@@ -2537,14 +2561,6 @@
       "onboard_time": 1752307522,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 131691,
-      "num": 131691,
-      "word": "赵雅芝谈不扮白素贞造型的原因",
-      "onboard_time": 1752333982,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 131528,
@@ -2643,6 +2659,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 126487,
+      "num": 277599,
+      "word": "商家给虾丸里加硼酸被判刑六个月",
+      "onboard_time": 1752332663,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 126418,
       "num": 131091,
       "word": "杨瀚森击地妙传助攻队友暴扣",
@@ -2729,6 +2753,14 @@
       "onboard_time": 1752318321,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 122797,
+      "num": 122797,
+      "word": "有奶茶店提前2天备战周六外卖大战",
+      "onboard_time": 1752334523,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122379,
@@ -2833,6 +2865,14 @@
       "onboard_time": 1752293421,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120109,
+      "num": 120109,
+      "word": "种地吧",
+      "onboard_time": 1752334281,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 119253,
@@ -3145,6 +3185,14 @@
       "onboard_time": 1752321800,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107129,
+      "num": 107129,
+      "word": "赵雅芝千字长文感谢新白",
+      "onboard_time": 1752334703,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 106869,
@@ -3659,14 +3707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 54034,
-      "num": 277599,
-      "word": "商家给虾丸里加硼酸被判刑六个月",
-      "onboard_time": 1752332663,
-      "rank": 19,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 53978,
       "num": 174879,
       "word": "监拍老鼠熟练挪开粘鼠板",
@@ -3756,7 +3796,7 @@
     },
     {
       "raw_hot": 47736,
-      "num": 1186230,
+      "num": 1229607,
       "word": "数读我国外贸发展新业态新模式",
       "onboard_time": 1752325703,
       "rank": 2,
