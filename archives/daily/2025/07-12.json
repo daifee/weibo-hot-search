@@ -1,13 +1,29 @@
 {
   "startTime": 1752251611895,
-  "endTime": 1752299086789,
+  "endTime": 1752302205519,
   "band_list": [
     {
+      "raw_hot": 2301694,
+      "num": 2301694,
+      "word": "免费奶茶",
+      "onboard_time": 1752296961,
+      "rank": 17,
+      "category": "互联网,美食"
+    },
+    {
       "raw_hot": 1306680,
-      "num": 408637,
+      "num": 413119,
       "word": "张檬儿子便血",
       "onboard_time": 1752284601,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1243989,
+      "num": 1243989,
+      "word": "买超回应新恋情",
+      "onboard_time": 1752298580,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -39,6 +55,14 @@
       "num": 1039259,
       "word": "女子发现酒店浴巾里有用过的安全套",
       "onboard_time": 1752249682,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 988153,
+      "num": 988153,
+      "word": "中山大学通报133人被取消录取资格",
+      "onboard_time": 1752300201,
       "rank": 3,
       "category": "民生新闻"
     },
@@ -123,14 +147,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 719874,
-      "num": 719874,
-      "word": "免费奶茶",
-      "onboard_time": 1752296961,
-      "rank": 17,
-      "category": "互联网,美食"
-    },
-    {
       "raw_hot": 652164,
       "num": 652164,
       "word": "姚译添默默地吐槽了一波",
@@ -211,12 +227,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 478148,
+      "num": 478148,
+      "word": "林诗栋蒯曼夺混双冠军",
+      "onboard_time": 1752299962,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 474885,
       "num": 474885,
       "word": "陈熠4比3早田希娜",
       "onboard_time": 1752272836,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 474087,
+      "num": 474087,
+      "word": "第二代居民身份证迎换证高峰",
+      "onboard_time": 1752297560,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 473713,
@@ -267,14 +299,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 411043,
-      "num": 237602,
-      "word": "买超回应新恋情",
-      "onboard_time": 1752298580,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 400744,
       "num": 400744,
       "word": "杨瀚森拿下首个助攻",
@@ -289,6 +313,22 @@
       "onboard_time": 1752292101,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 391844,
+      "num": 391844,
+      "word": "28岁胃癌前病变女生的忠告",
+      "onboard_time": 1752298221,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 380900,
+      "num": 415897,
+      "word": "女演员一直上桌男演员一直上炕",
+      "onboard_time": 1752299361,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 374768,
@@ -320,6 +360,14 @@
       "word": "难听",
       "onboard_time": 1752240986,
       "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 355213,
+      "num": 355213,
+      "word": "卫生巾在新疆叫馕在上海叫贝果",
+      "onboard_time": 1752300801,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -411,6 +459,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 292779,
+      "num": 292779,
+      "word": "骑士送免单",
+      "onboard_time": 1752300320,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 278218,
       "num": 278218,
       "word": "陈楚生在燃什么",
@@ -459,20 +515,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 264219,
+      "num": 264219,
+      "word": "苏新皓朱志鑫仰卧起坐",
+      "onboard_time": 1752299301,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262973,
       "num": 177642,
       "word": "郭焱道歉",
       "onboard_time": 1752276319,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 248889,
-      "num": 174555,
-      "word": "28岁胃癌前病变女生的忠告",
-      "onboard_time": 1752298221,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 242142,
@@ -571,6 +627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210217,
+      "num": 210217,
+      "word": "韩安冉否认与兜儿比生孩子",
+      "onboard_time": 1752301161,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 209285,
       "num": 209285,
       "word": "T1战胜AL",
@@ -587,20 +651,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203769,
+      "num": 203769,
+      "word": "得不到梓渝我还得不到梓渝的娃娃吗",
+      "onboard_time": 1752300980,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203479,
       "num": 367816,
       "word": "易烊千玺献唱电影阿勒泰主题曲",
       "onboard_time": 1752295460,
       "rank": 19,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 202482,
-      "num": 202482,
-      "word": "第二代居民身份证迎换证高峰",
-      "onboard_time": 1752297560,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 198289,
@@ -635,6 +699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 196245,
+      "num": 196245,
+      "word": "奇文",
+      "onboard_time": 1752300861,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195492,
       "num": 213873,
       "word": "朝雪录",
@@ -665,6 +737,14 @@
       "onboard_time": 1752297201,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191591,
+      "num": 191591,
+      "word": "余宇涵 抢票",
+      "onboard_time": 1752301042,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 187825,
@@ -715,11 +795,43 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 181450,
+      "num": 181450,
+      "word": "陈奕恒运动会路透",
+      "onboard_time": 1752301100,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 181033,
+      "num": 181033,
+      "word": "洄天",
+      "onboard_time": 1752300381,
+      "rank": 30,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 180770,
+      "num": 264571,
+      "word": "付航别算了",
+      "onboard_time": 1752300740,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180403,
       "num": 188288,
       "word": "白鹿李晨也离不开自助定律",
       "onboard_time": 1752295101,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 179746,
+      "num": 179746,
+      "word": "极禹",
+      "onboard_time": 1752300861,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -729,6 +841,14 @@
       "onboard_time": 1752241765,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 178706,
+      "num": 178706,
+      "word": "朱志鑫夏日运动会这个美萌",
+      "onboard_time": 1752302181,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 177658,
@@ -763,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173007,
+      "num": 211629,
+      "word": "专案组五赴缅北挖白骨定铁证",
+      "onboard_time": 1752298759,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172775,
       "num": 172775,
       "word": "LPL",
@@ -787,11 +915,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170251,
+      "num": 170251,
+      "word": "杨瀚森首秀拿下10分4篮板5助攻",
+      "onboard_time": 1752299901,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170246,
       "num": 170246,
       "word": "TF家族红队",
       "onboard_time": 1752283520,
       "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 168799,
+      "num": 168799,
+      "word": "杨幂不能既要我的喜欢又要我的微信",
+      "onboard_time": 1752301701,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -833,6 +977,14 @@
       "onboard_time": 1752236663,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162173,
+      "num": 162173,
+      "word": "林诗栋蒯曼拿下混双冠军",
+      "onboard_time": 1752301580,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 161759,
@@ -881,6 +1033,14 @@
       "onboard_time": 1752286700,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154392,
+      "num": 154392,
+      "word": "宋玉章广播剧",
+      "onboard_time": 1752301220,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 153349,
@@ -947,11 +1107,27 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 147531,
+      "num": 147531,
+      "word": "沈腾龚俊好糟糕的姿势",
+      "onboard_time": 1752301760,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147432,
       "num": 147432,
       "word": "房主任 看哭了",
       "onboard_time": 1752245005,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 146527,
+      "num": 146527,
+      "word": "歌手后续赛程",
+      "onboard_time": 1752300680,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -1041,6 +1217,22 @@
       "onboard_time": 1752295941,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 131528,
+      "num": 131528,
+      "word": "朱苏",
+      "onboard_time": 1752300680,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 131017,
+      "num": 131017,
+      "word": "张峻豪射箭29环",
+      "onboard_time": 1752302061,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 130268,
@@ -1587,6 +1779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 69139,
+      "num": 413171,
+      "word": "被结婚8年女子称丢失过身份证",
+      "onboard_time": 1752301042,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68486,
       "num": 68486,
       "word": "光遇",
@@ -1692,7 +1892,7 @@
     },
     {
       "raw_hot": 52223,
-      "num": 973611,
+      "num": 1094977,
       "word": "净网2025来看1起侵犯公民个人信息案",
       "onboard_time": 1752295941,
       "rank": 2,
@@ -1720,14 +1920,6 @@
       "word": "世博会中国馆接待各国游客近80万",
       "onboard_time": 1752291620,
       "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 46843,
-      "num": 211629,
-      "word": "专案组五赴缅北挖白骨定铁证",
-      "onboard_time": 1752298759,
-      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -1777,6 +1969,14 @@
       "onboard_time": 1752276918,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 31752,
+      "num": 181194,
+      "word": "美移民局突袭加州农场抓捕200人",
+      "onboard_time": 1752301881,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 29713,
@@ -1835,6 +2035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 22070,
+      "num": 355305,
+      "word": "说好的海外直邮发货地却在境内",
+      "onboard_time": 1752300621,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 21803,
       "num": 33045,
       "word": "单依纯回应唱舞娘",
@@ -1865,6 +2073,14 @@
       "onboard_time": 1752268275,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 20730,
+      "num": 264364,
+      "word": "冒名结婚或涉嫌诈骗罪",
+      "onboard_time": 1752301340,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20424,
