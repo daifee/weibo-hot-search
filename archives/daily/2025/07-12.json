@@ -1,6 +1,6 @@
 {
   "startTime": 1752251611895,
-  "endTime": 1752317083594,
+  "endTime": 1752319356710,
   "band_list": [
     {
       "raw_hot": 2441299,
@@ -25,6 +25,14 @@
       "onboard_time": 1752284601,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1249908,
+      "num": 247544,
+      "word": "周深录制综艺节目遭嘉宾拖拽",
+      "onboard_time": 1752317001,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 1243989,
@@ -179,8 +187,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 743344,
+      "num": 743344,
+      "word": "周心语被要求退团",
+      "onboard_time": 1752317121,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 734502,
-      "num": 255617,
+      "num": 277792,
       "word": "水千丞 Boom",
       "onboard_time": 1752311002,
       "rank": 13,
@@ -241,6 +257,14 @@
       "onboard_time": 1752278179,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 588007,
+      "num": 234969,
+      "word": "90年35岁未婚女生的真实感受",
+      "onboard_time": 1752316041,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 562566,
@@ -308,7 +332,7 @@
     },
     {
       "raw_hot": 502805,
-      "num": 254069,
+      "num": 279264,
       "word": "LV 补差价",
       "onboard_time": 1752312681,
       "rank": 44,
@@ -460,7 +484,7 @@
     },
     {
       "raw_hot": 385753,
-      "num": 253092,
+      "num": 278919,
       "word": "你不用考清华了 因为你马上要北大了",
       "onboard_time": 1752312081,
       "rank": 42,
@@ -497,6 +521,22 @@
       "onboard_time": 1752307882,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 369664,
+      "num": 369664,
+      "word": "蔡文静 装腔启示录",
+      "onboard_time": 1752315500,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 366582,
+      "num": 366582,
+      "word": "高温晒背2小时67岁阿姨开颅保命",
+      "onboard_time": 1752316701,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 366283,
@@ -603,14 +643,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 300881,
-      "num": 300881,
-      "word": "蔡文静 装腔启示录",
-      "onboard_time": 1752315500,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 297175,
       "num": 297175,
       "word": "韩安冉否认与兜儿比生孩子",
@@ -635,8 +667,16 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 291980,
+      "num": 291980,
+      "word": "手术后脑死亡男童母亲发声",
+      "onboard_time": 1752313702,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 290747,
-      "num": 251537,
+      "num": 277420,
       "word": "丁禹兮 眉骨遮眼",
       "onboard_time": 1752314601,
       "rank": 22,
@@ -715,12 +755,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 260278,
-      "num": 260278,
-      "word": "手术后脑死亡男童母亲发声",
-      "onboard_time": 1752313702,
-      "rank": 6,
-      "category": "民生新闻"
+      "raw_hot": 260280,
+      "num": 260280,
+      "word": "剑桥大学偶遇任嘉伦",
+      "onboard_time": 1752318020,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 255937,
@@ -729,14 +769,6 @@
       "onboard_time": 1752308422,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 247544,
-      "num": 247544,
-      "word": "周深录制综艺节目遭嘉宾拖拽",
-      "onboard_time": 1752317001,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 242142,
@@ -787,6 +819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 221616,
+      "num": 221616,
+      "word": "3岁男童肥大扁桃体切除术后脑死亡",
+      "onboard_time": 1752315680,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 220395,
       "num": 213605,
       "word": "蒯曼晋级美国大满贯四强",
@@ -811,16 +851,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 218461,
-      "num": 151347,
-      "word": "90年35岁未婚女生的真实感受",
-      "onboard_time": 1752316041,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 215558,
-      "num": 178175,
+      "num": 186177,
       "word": "姚译添回应范丞丞",
       "onboard_time": 1752312020,
       "rank": 26,
@@ -939,6 +971,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 201402,
+      "num": 201402,
+      "word": "王青后面有机会直播",
+      "onboard_time": 1752318080,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 200764,
+      "num": 200764,
+      "word": "张艺兴工作室称将提升造型风格",
+      "onboard_time": 1752318200,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199974,
       "num": 199974,
       "word": "马柏全松弛的像来到了自家客厅",
@@ -1027,6 +1075,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192131,
+      "num": 192131,
+      "word": "王皓我选择王楚钦作为我的解药",
+      "onboard_time": 1752318020,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 191907,
+      "num": 191907,
+      "word": "鞠婧祎抹胸飞行员造型",
+      "onboard_time": 1752317001,
+      "rank": 24,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 191808,
       "num": 191808,
       "word": "囚于永夜",
@@ -1051,12 +1115,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 188924,
-      "num": 188924,
-      "word": "鞠婧祎抹胸飞行员造型",
-      "onboard_time": 1752317001,
-      "rank": 24,
-      "category": "艺人,作品衍生"
+      "raw_hot": 187966,
+      "num": 187966,
+      "word": "田曦薇早期姐感",
+      "onboard_time": 1752315860,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 187825,
@@ -1099,6 +1163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 186170,
+      "num": 186170,
+      "word": "东亚杯",
+      "onboard_time": 1752318141,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185753,
       "num": 185753,
       "word": "被隐匿的真相",
@@ -1123,12 +1195,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184967,
+      "num": 184967,
+      "word": "无畏达成2500助攻",
+      "onboard_time": 1752319041,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 184267,
       "num": 184267,
       "word": "织音发布会",
       "onboard_time": 1752297740,
       "rank": 35,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 182660,
+      "num": 182660,
+      "word": "goodslove 光与夜之恋",
+      "onboard_time": 1752318321,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 181450,
@@ -1235,6 +1323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174362,
+      "num": 174362,
+      "word": "北京大雨",
+      "onboard_time": 1752313822,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174071,
       "num": 174071,
       "word": "徐志胜看着wakuku叫labubu",
@@ -1249,6 +1345,14 @@
       "onboard_time": 1752238944,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173544,
+      "num": 173544,
+      "word": "在医院上厕所前一定要洗手",
+      "onboard_time": 1752316701,
+      "rank": 45,
+      "category": "科学科普"
     },
     {
       "raw_hot": 173007,
@@ -1299,14 +1403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 170654,
-      "num": 152454,
-      "word": "高温晒背2小时67岁阿姨开颅保命",
-      "onboard_time": 1752316701,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 170251,
       "num": 170251,
       "word": "杨瀚森首秀拿下10分4篮板5助攻",
@@ -1347,14 +1443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 167221,
-      "num": 150299,
-      "word": "田曦薇早期姐感",
-      "onboard_time": 1752315860,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 166894,
       "num": 166894,
       "word": "王楚钦7比10落后连追5分",
@@ -1377,6 +1465,14 @@
       "onboard_time": 1752298941,
       "rank": 35,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 163927,
+      "num": 163927,
+      "word": "贵州室外温度比高铁内开空调还低",
+      "onboard_time": 1752317300,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 163712,
@@ -1587,14 +1683,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 148438,
-      "num": 148438,
-      "word": "北京大雨",
-      "onboard_time": 1752313822,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 147641,
       "num": 181242,
       "word": "罗小黑2难度比1翻倍不止",
@@ -1755,6 +1843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136081,
+      "num": 186198,
+      "word": "王源说的是谁好难猜啊",
+      "onboard_time": 1752317241,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 135846,
       "num": 135846,
       "word": "择偶的尽头是初高中同学",
@@ -1865,14 +1961,6 @@
       "onboard_time": 1752293061,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 129314,
-      "num": 129314,
-      "word": "3岁男童肥大扁桃体切除术后脑死亡",
-      "onboard_time": 1752315680,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128254,
@@ -1996,7 +2084,7 @@
     },
     {
       "raw_hot": 121777,
-      "num": 121777,
+      "num": 280630,
       "word": "广西发现全身30多个发光点的昆虫",
       "onboard_time": 1752310701,
       "rank": 37,
@@ -2195,20 +2283,20 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 112412,
+      "num": 112412,
+      "word": "日本教练庆贺胜利后被逆转",
+      "onboard_time": 1752317180,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112361,
       "num": 230562,
       "word": "男子欲起诉父母返还十几万压岁钱",
       "onboard_time": 1752305121,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 111986,
-      "num": 111986,
-      "word": "在医院上厕所前一定要洗手",
-      "onboard_time": 1752316701,
-      "rank": 45,
-      "category": "科学科普"
     },
     {
       "raw_hot": 111887,
@@ -2251,6 +2339,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 111327,
+      "num": 111327,
+      "word": "GAI去歌手了哦",
+      "onboard_time": 1752318921,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111237,
       "num": 111237,
       "word": "掌中宝 鸡屁股",
@@ -2275,6 +2371,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 110028,
+      "num": 110028,
+      "word": "02年月薪4000能存下钱的原因",
+      "onboard_time": 1752318321,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 109601,
       "num": 196363,
       "word": "中方回应美要韩采取限制中国措施",
@@ -2283,12 +2387,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 109380,
+      "num": 109380,
+      "word": "关于新疆人被老外认成老外的一生",
+      "onboard_time": 1752319160,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 108792,
       "num": 108792,
       "word": "鹿晗不经意间掏出一颗心",
       "onboard_time": 1752245184,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 108701,
+      "num": 108701,
+      "word": "韩国五元一副的墨镜",
+      "onboard_time": 1752318740,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 108647,
+      "num": 108647,
+      "word": "Shanks回应不敌T1",
+      "onboard_time": 1752317840,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 107563,
@@ -2569,6 +2697,14 @@
       "onboard_time": 1752287541,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82508,
+      "num": 278303,
+      "word": "美国务院1350人大裁员现场",
+      "onboard_time": 1752318381,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 82132,
@@ -2900,7 +3036,7 @@
     },
     {
       "raw_hot": 35684,
-      "num": 725161,
+      "num": 901972,
       "word": "从多项第一读懂中国创新突破的必然",
       "onboard_time": 1752309321,
       "rank": 2,
