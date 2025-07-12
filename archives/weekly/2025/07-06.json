@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1752286133516,
+  "endTime": 1752287582312,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -739,6 +739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1306680,
+      "num": 267739,
+      "word": "张檬儿子便血",
+      "onboard_time": 1752284601,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1294555,
       "num": 1294555,
       "word": "王晶曝成龙被粉丝扇耳光",
@@ -953,14 +961,6 @@
       "onboard_time": 1751862024,
       "rank": 4,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1144660,
-      "num": 267739,
-      "word": "张檬儿子便血",
-      "onboard_time": 1752284601,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1140102,
@@ -1425,6 +1425,14 @@
       "onboard_time": 1752147203,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 855599,
+      "num": 1136895,
+      "word": "国乒无缘包揽五冠",
+      "onboard_time": 1752285560,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 850787,
@@ -2491,14 +2499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 596916,
-      "num": 596916,
-      "word": "国乒无缘包揽五冠",
-      "onboard_time": 1752285560,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 596208,
       "num": 824994,
       "word": "妻子去世后丈夫称太痛苦2年没回家",
@@ -3291,6 +3291,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 460861,
+      "num": 238411,
+      "word": "主人称现在靠网红狗大黄过活",
+      "onboard_time": 1752285681,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 460487,
       "num": 460487,
       "word": "北京天空",
@@ -3425,6 +3433,14 @@
       "onboard_time": 1752124346,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 450895,
+      "num": 450895,
+      "word": "王楚钦vs约奇克",
+      "onboard_time": 1752284961,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 449682,
@@ -4171,6 +4187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 373411,
+      "num": 373411,
+      "word": "TF家族蓝队",
+      "onboard_time": 1752283640,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 371927,
       "num": 371927,
       "word": "肖战玲娜贝儿打招呼",
@@ -4233,6 +4257,14 @@
       "onboard_time": 1752032784,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 366283,
+      "num": 226047,
+      "word": "美团外卖",
+      "onboard_time": 1752286820,
+      "rank": 15,
+      "category": "互联网"
     },
     {
       "raw_hot": 365579,
@@ -4377,6 +4409,14 @@
       "onboard_time": 1751931020,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 351865,
+      "num": 351865,
+      "word": "警方通报未婚女子发现自己被结婚8年",
+      "onboard_time": 1752281780,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 351252,
@@ -4939,14 +4979,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 316087,
-      "num": 316087,
-      "word": "警方通报未婚女子发现自己被结婚8年",
-      "onboard_time": 1752281780,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 315377,
       "num": 385587,
       "word": "狗头萝莉建议不要搞擦边",
@@ -5145,14 +5177,6 @@
       "onboard_time": 1752027083,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 301717,
-      "num": 301717,
-      "word": "TF家族蓝队",
-      "onboard_time": 1752283640,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 301600,
@@ -7067,6 +7091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220395,
+      "num": 213605,
+      "word": "蒯曼晋级美国大满贯四强",
+      "onboard_time": 1752286700,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220384,
       "num": 220384,
       "word": "莫雷加德止步男单32强",
@@ -7179,6 +7211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 214733,
+      "num": 214733,
+      "word": "房主任脱口秀 封神",
+      "onboard_time": 1752285140,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214727,
       "num": 214727,
       "word": "睡前太饿可以吃6种食物",
@@ -7273,6 +7313,14 @@
       "onboard_time": 1752228262,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213587,
+      "num": 213587,
+      "word": "T1对战AL",
+      "onboard_time": 1752280460,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 213552,
@@ -7401,6 +7449,14 @@
       "onboard_time": 1752226283,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 210726,
+      "num": 210726,
+      "word": "王楚钦气到扇自己巴掌",
+      "onboard_time": 1752286520,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 210046,
@@ -7649,6 +7705,14 @@
       "onboard_time": 1751803643,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205438,
+      "num": 205438,
+      "word": "达科挑战王楚钦发球失败",
+      "onboard_time": 1752287421,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 205280,
@@ -8099,6 +8163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198289,
+      "num": 198289,
+      "word": "没有重女轻男只是回归正常",
+      "onboard_time": 1752285620,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 198216,
       "num": 198216,
       "word": "国足首发",
@@ -8356,7 +8428,7 @@
     },
     {
       "raw_hot": 195492,
-      "num": 195492,
+      "num": 213873,
       "word": "朝雪录",
       "onboard_time": 1751943142,
       "rank": 28,
@@ -8515,14 +8587,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 193183,
-      "num": 237435,
-      "word": "王楚钦vs约奇克",
-      "onboard_time": 1752284961,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 193158,
       "num": 689820,
       "word": "王一博从时尚秀场聊到了晚饭时间",
@@ -8572,7 +8636,7 @@
     },
     {
       "raw_hot": 192669,
-      "num": 97464,
+      "num": 103341,
       "word": "婆婆一进门就去看睡觉的大孙子",
       "onboard_time": 1752276799,
       "rank": 30,
@@ -10619,14 +10683,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164663,
-      "num": 164663,
-      "word": "主人称现在靠网红狗大黄过活",
-      "onboard_time": 1752285681,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 164627,
       "num": 164627,
       "word": "就这个阴湿恶女味爽",
@@ -10777,14 +10833,6 @@
       "onboard_time": 1752159686,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 162571,
-      "num": 162571,
-      "word": "房主任脱口秀 封神",
-      "onboard_time": 1752285140,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 162490,
@@ -10985,14 +11033,6 @@
       "onboard_time": 1751844621,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 159787,
-      "num": 159787,
-      "word": "T1对战AL",
-      "onboard_time": 1752280460,
-      "rank": 22,
-      "category": "电竞"
     },
     {
       "raw_hot": 159776,
@@ -11289,6 +11329,14 @@
       "onboard_time": 1752143182,
       "rank": 32,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 156884,
+      "num": 156884,
+      "word": "十分钟很短但这是她30年的痛苦",
+      "onboard_time": 1752286700,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 156865,
@@ -11595,6 +11643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153229,
+      "num": 153229,
+      "word": "感觉图书馆的考公人和考研特别好区分",
+      "onboard_time": 1752287421,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 153226,
       "num": 153226,
       "word": "周杰伦概念股飞涨超9成",
@@ -11771,6 +11827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151679,
+      "num": 154995,
+      "word": "龚俊人笨又勤快具象化了",
+      "onboard_time": 1752287060,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151510,
       "num": 693796,
       "word": "谈恋爱要从朋友开始",
@@ -11849,6 +11913,14 @@
       "onboard_time": 1752189800,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150536,
+      "num": 150536,
+      "word": "原来荔枝变白就代表不新鲜了",
+      "onboard_time": 1752284541,
+      "rank": 28,
+      "category": "美食"
     },
     {
       "raw_hot": 150476,
@@ -12867,14 +12939,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 141749,
-      "num": 127140,
-      "word": "没有重女轻男只是回归正常",
-      "onboard_time": 1752285620,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 141712,
       "num": 141712,
       "word": "书卷一梦用机制打败机制",
@@ -13041,6 +13105,14 @@
       "onboard_time": 1752212781,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140527,
+      "num": 140527,
+      "word": "陈幸同0比4蒯曼",
+      "onboard_time": 1752286820,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 140302,
@@ -13721,14 +13793,6 @@
       "onboard_time": 1751970861,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134014,
-      "num": 134014,
-      "word": "原来荔枝变白就代表不新鲜了",
-      "onboard_time": 1752284541,
-      "rank": 28,
-      "category": "美食"
     },
     {
       "raw_hot": 133844,
@@ -14731,6 +14795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 125777,
+      "num": 125777,
+      "word": "中国女排vs加拿大女排",
+      "onboard_time": 1752285800,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125696,
       "num": 187476,
       "word": "秀智挂了labubu",
@@ -15355,6 +15427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121026,
+      "num": 121026,
+      "word": "国乒接连爆冷是球台问题吗",
+      "onboard_time": 1752285319,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120989,
       "num": 206990,
       "word": "热射病的4种高危人群",
@@ -15553,14 +15633,6 @@
       "onboard_time": 1751952442,
       "rank": 49,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 119018,
-      "num": 119018,
-      "word": "中国女排vs加拿大女排",
-      "onboard_time": 1752285800,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 118910,
@@ -15921,6 +15993,14 @@
       "onboard_time": 1751854763,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116353,
+      "num": 116353,
+      "word": "西夏9座王陵墓主人是谁",
+      "onboard_time": 1752285920,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116337,
@@ -17155,14 +17235,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 106726,
-      "num": 106726,
-      "word": "西夏9座王陵墓主人是谁",
-      "onboard_time": 1752285920,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 106669,
       "num": 192407,
       "word": "GAI山城棒棒军",
@@ -18139,20 +18211,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97850,
+      "num": 232962,
+      "word": "你的6吨太空快递已接单",
+      "onboard_time": 1752284480,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 97604,
       "num": 216665,
       "word": "鹿晗用下巴撩人",
       "onboard_time": 1751865083,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 97559,
-      "num": 97559,
-      "word": "国乒接连爆冷是球台问题吗",
-      "onboard_time": 1752285319,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 97155,
@@ -18763,6 +18835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 86796,
+      "num": 234686,
+      "word": "印度坠机驾驶舱语音记录公开",
+      "onboard_time": 1752286641,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 86718,
       "num": 934955,
       "word": "中国制造不断冲击世界眼球",
@@ -18968,6 +19048,14 @@
       "word": "2500岁的尼山有多会唠",
       "onboard_time": 1752140181,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82652,
+      "num": 112247,
+      "word": "远嫁女称娘家是最难抵达的远方",
+      "onboard_time": 1752287541,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -20340,7 +20428,7 @@
     },
     {
       "raw_hot": 54711,
-      "num": 106901,
+      "num": 121096,
       "word": "田中佑汰3比2A勒布伦",
       "onboard_time": 1752285860,
       "rank": 39,
@@ -22208,6 +22296,14 @@
       "word": "稳定币仅个别义乌商户收取",
       "onboard_time": 1751985692,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20424,
+      "num": 213605,
+      "word": "农村高中毕业生7年诈骗3.8亿",
+      "onboard_time": 1752286941,
+      "rank": 19,
       "category": "民生新闻"
     },
     {

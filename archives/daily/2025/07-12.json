@@ -1,9 +1,9 @@
 {
   "startTime": 1752251611895,
-  "endTime": 1752286133516,
+  "endTime": 1752287582312,
   "band_list": [
     {
-      "raw_hot": 1144660,
+      "raw_hot": 1306680,
       "num": 267739,
       "word": "张檬儿子便血",
       "onboard_time": 1752284601,
@@ -43,6 +43,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 855599,
+      "num": 1136895,
+      "word": "国乒无缘包揽五冠",
+      "onboard_time": 1752285560,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 833815,
       "num": 833815,
       "word": "林俊杰cue田曦薇",
@@ -67,14 +75,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 596916,
-      "num": 596916,
-      "word": "国乒无缘包揽五冠",
-      "onboard_time": 1752285560,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 501647,
       "num": 501647,
       "word": "国乒女队三大主力爆冷出局",
@@ -88,6 +88,22 @@
       "word": "陈熠4比3早田希娜",
       "onboard_time": 1752272836,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 460861,
+      "num": 238411,
+      "word": "主人称现在靠网红狗大黄过活",
+      "onboard_time": 1752285681,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 450895,
+      "num": 450895,
+      "word": "王楚钦vs约奇克",
+      "onboard_time": 1752284961,
+      "rank": 13,
       "category": "体育"
     },
     {
@@ -107,12 +123,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 373411,
+      "num": 373411,
+      "word": "TF家族蓝队",
+      "onboard_time": 1752283640,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 366283,
+      "num": 226047,
+      "word": "美团外卖",
+      "onboard_time": 1752286820,
+      "rank": 15,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 357741,
       "num": 357741,
       "word": "难听",
       "onboard_time": 1752240986,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 351865,
+      "num": 351865,
+      "word": "警方通报未婚女子发现自己被结婚8年",
+      "onboard_time": 1752281780,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 343263,
@@ -155,28 +195,12 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 316087,
-      "num": 316087,
-      "word": "警方通报未婚女子发现自己被结婚8年",
-      "onboard_time": 1752281780,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 315611,
       "num": 315611,
       "word": "护士被同居男友杀害疑遭长期家暴",
       "onboard_time": 1752241586,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 301717,
-      "num": 301717,
-      "word": "TF家族蓝队",
-      "onboard_time": 1752283640,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 293624,
@@ -209,6 +233,14 @@
       "onboard_time": 1752281721,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 263857,
+      "num": 154551,
+      "word": "美团免单",
+      "onboard_time": 1752286761,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 262973,
@@ -251,6 +283,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 220395,
+      "num": 213605,
+      "word": "蒯曼晋级美国大满贯四强",
+      "onboard_time": 1752286700,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 214733,
+      "num": 214733,
+      "word": "房主任脱口秀 封神",
+      "onboard_time": 1752285140,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214584,
       "num": 214584,
       "word": "权顺荣伴舞",
@@ -259,12 +307,44 @@
       "category": "演出"
     },
     {
+      "raw_hot": 213587,
+      "num": 213587,
+      "word": "T1对战AL",
+      "onboard_time": 1752280460,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 211863,
       "num": 211863,
       "word": "女子在缅北遭持枪强迫卖淫",
       "onboard_time": 1752213682,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 210726,
+      "num": 210726,
+      "word": "王楚钦气到扇自己巴掌",
+      "onboard_time": 1752286520,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 205438,
+      "num": 205438,
+      "word": "达科挑战王楚钦发球失败",
+      "onboard_time": 1752287421,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 198289,
+      "num": 198289,
+      "word": "没有重女轻男只是回归正常",
+      "onboard_time": 1752285620,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 197911,
@@ -276,23 +356,15 @@
     },
     {
       "raw_hot": 195492,
-      "num": 195492,
+      "num": 213873,
       "word": "朝雪录",
       "onboard_time": 1752285560,
       "rank": 16,
       "category": "剧集"
     },
     {
-      "raw_hot": 193183,
-      "num": 237435,
-      "word": "王楚钦vs约奇克",
-      "onboard_time": 1752284961,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 192669,
-      "num": 97464,
+      "num": 103341,
       "word": "婆婆一进门就去看睡觉的大孙子",
       "onboard_time": 1752276799,
       "rank": 30,
@@ -347,27 +419,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 164663,
-      "num": 164663,
-      "word": "主人称现在靠网红狗大黄过活",
-      "onboard_time": 1752285681,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 162981,
       "num": 162981,
       "word": "黑队",
       "onboard_time": 1752282920,
       "rank": 20,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 162571,
-      "num": 162571,
-      "word": "房主任脱口秀 封神",
-      "onboard_time": 1752285140,
-      "rank": 21,
       "category": "综艺"
     },
     {
@@ -379,19 +435,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159787,
-      "num": 159787,
-      "word": "T1对战AL",
-      "onboard_time": 1752280460,
-      "rank": 22,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 157339,
       "num": 157339,
       "word": "Grace回应淘汰",
       "onboard_time": 1752251060,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 156884,
+      "num": 156884,
+      "word": "十分钟很短但这是她30年的痛苦",
+      "onboard_time": 1752286700,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -401,6 +457,30 @@
       "onboard_time": 1752277098,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153229,
+      "num": 153229,
+      "word": "感觉图书馆的考公人和考研特别好区分",
+      "onboard_time": 1752287421,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 151679,
+      "num": 154995,
+      "word": "龚俊人笨又勤快具象化了",
+      "onboard_time": 1752287060,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 150536,
+      "num": 150536,
+      "word": "原来荔枝变白就代表不新鲜了",
+      "onboard_time": 1752284541,
+      "rank": 28,
+      "category": "美食"
     },
     {
       "raw_hot": 147641,
@@ -435,12 +515,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 141749,
-      "num": 127140,
-      "word": "没有重女轻男只是回归正常",
-      "onboard_time": 1752285620,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 140527,
+      "num": 140527,
+      "word": "陈幸同0比4蒯曼",
+      "onboard_time": 1752286820,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 137190,
@@ -449,14 +529,6 @@
       "onboard_time": 1752284601,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 134014,
-      "num": 134014,
-      "word": "原来荔枝变白就代表不新鲜了",
-      "onboard_time": 1752284541,
-      "rank": 28,
-      "category": "美食"
     },
     {
       "raw_hot": 128254,
@@ -483,6 +555,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 125777,
+      "num": 125777,
+      "word": "中国女排vs加拿大女排",
+      "onboard_time": 1752285800,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122379,
       "num": 122379,
       "word": "母亲做上百万个包子替亡子还债",
@@ -497,6 +577,14 @@
       "onboard_time": 1752284480,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 121026,
+      "num": 121026,
+      "word": "国乒接连爆冷是球台问题吗",
+      "onboard_time": 1752285319,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 120934,
@@ -515,20 +603,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 119018,
-      "num": 119018,
-      "word": "中国女排vs加拿大女排",
-      "onboard_time": 1752285800,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 117720,
       "num": 117720,
       "word": "李佳薇谭薇相互搀扶好好笑",
       "onboard_time": 1752248902,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116353,
+      "num": 116353,
+      "word": "西夏9座王陵墓主人是谁",
+      "onboard_time": 1752285920,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115477,
@@ -595,14 +683,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 106726,
-      "num": 106726,
-      "word": "西夏9座王陵墓主人是谁",
-      "onboard_time": 1752285920,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 106166,
       "num": 106166,
       "word": "差不多得了是对陈熠拼搏的不尊重",
@@ -651,12 +731,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 97559,
-      "num": 97559,
-      "word": "国乒接连爆冷是球台问题吗",
-      "onboard_time": 1752285319,
-      "rank": 47,
-      "category": "体育"
+      "raw_hot": 97850,
+      "num": 232962,
+      "word": "你的6吨太空快递已接单",
+      "onboard_time": 1752284480,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 95859,
@@ -715,6 +795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86796,
+      "num": 234686,
+      "word": "印度坠机驾驶舱语音记录公开",
+      "onboard_time": 1752286641,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 83793,
       "num": 83793,
       "word": "丁禹兮开餐厅是动了脑子的",
@@ -729,6 +817,14 @@
       "onboard_time": 1752231683,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 82652,
+      "num": 112247,
+      "word": "远嫁女称娘家是最难抵达的远方",
+      "onboard_time": 1752287541,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82036,
@@ -852,7 +948,7 @@
     },
     {
       "raw_hot": 54711,
-      "num": 106901,
+      "num": 121096,
       "word": "田中佑汰3比2A勒布伦",
       "onboard_time": 1752285860,
       "rank": 39,
@@ -1001,6 +1097,14 @@
       "onboard_time": 1752268275,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 20424,
+      "num": 213605,
+      "word": "农村高中毕业生7年诈骗3.8亿",
+      "onboard_time": 1752286941,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20383,
