@@ -1,6 +1,6 @@
 {
   "startTime": 1752251611895,
-  "endTime": 1752319356710,
+  "endTime": 1752320306570,
   "band_list": [
     {
       "raw_hot": 2441299,
@@ -19,20 +19,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1515894,
+      "num": 247544,
+      "word": "周深录制综艺节目遭嘉宾拖拽",
+      "onboard_time": 1752317001,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1306680,
       "num": 413119,
       "word": "张檬儿子便血",
       "onboard_time": 1752284601,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1249908,
-      "num": 247544,
-      "word": "周深录制综艺节目遭嘉宾拖拽",
-      "onboard_time": 1752317001,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 1243989,
@@ -73,6 +73,14 @@
       "onboard_time": 1752297502,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1039389,
+      "num": 743344,
+      "word": "周心语被要求退团",
+      "onboard_time": 1752317121,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1039259,
@@ -187,14 +195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 743344,
-      "num": 743344,
-      "word": "周心语被要求退团",
-      "onboard_time": 1752317121,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 734502,
       "num": 277792,
       "word": "水千丞 Boom",
@@ -233,6 +233,14 @@
       "onboard_time": 1752293721,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 612797,
+      "num": 612797,
+      "word": "高温晒背2小时67岁阿姨开颅保命",
+      "onboard_time": 1752316701,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 611385,
@@ -531,14 +539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 366582,
-      "num": 366582,
-      "word": "高温晒背2小时67岁阿姨开颅保命",
-      "onboard_time": 1752316701,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 366283,
       "num": 257125,
       "word": "美团外卖",
@@ -771,6 +771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 255630,
+      "num": 278303,
+      "word": "美国务院1350人大裁员现场",
+      "onboard_time": 1752318381,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 242142,
       "num": 242142,
       "word": "12.3%受访00后存款超30万",
@@ -851,8 +859,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215881,
+      "num": 187966,
+      "word": "田曦薇早期姐感",
+      "onboard_time": 1752315860,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215558,
-      "num": 186177,
+      "num": 186286,
       "word": "姚译添回应范丞丞",
       "onboard_time": 1752312020,
       "rank": 26,
@@ -905,6 +921,14 @@
       "onboard_time": 1752286520,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209569,
+      "num": 202075,
+      "word": "王青后面有机会直播",
+      "onboard_time": 1752318080,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 209285,
@@ -963,6 +987,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 202505,
+      "num": 202505,
+      "word": "无畏达成2500助攻",
+      "onboard_time": 1752319041,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 201903,
       "num": 257479,
       "word": "所谓南海仲裁案裁决是一张废纸",
@@ -971,12 +1003,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 201402,
-      "num": 201402,
-      "word": "王青后面有机会直播",
-      "onboard_time": 1752318080,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 201780,
+      "num": 201780,
+      "word": "鞠婧祎抹胸飞行员造型",
+      "onboard_time": 1752317001,
+      "rank": 24,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 200764,
@@ -1009,6 +1041,14 @@
       "onboard_time": 1752251362,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197513,
+      "num": 192131,
+      "word": "王皓我选择王楚钦作为我的解药",
+      "onboard_time": 1752318020,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 197341,
@@ -1075,22 +1115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 192131,
-      "num": 192131,
-      "word": "王皓我选择王楚钦作为我的解药",
-      "onboard_time": 1752318020,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 191907,
-      "num": 191907,
-      "word": "鞠婧祎抹胸飞行员造型",
-      "onboard_time": 1752317001,
-      "rank": 24,
-      "category": "艺人,作品衍生"
-    },
-    {
       "raw_hot": 191808,
       "num": 191808,
       "word": "囚于永夜",
@@ -1107,20 +1131,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 191327,
+      "num": 191327,
+      "word": "4000年前古人就在嗦面了",
+      "onboard_time": 1752319762,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191102,
       "num": 301101,
       "word": "云南警方回应高考生疑被骗去缅甸",
       "onboard_time": 1752304160,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 187966,
-      "num": 187966,
-      "word": "田曦薇早期姐感",
-      "onboard_time": 1752315860,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 187825,
@@ -1193,14 +1217,6 @@
       "onboard_time": 1752233063,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 184967,
-      "num": 184967,
-      "word": "无畏达成2500助攻",
-      "onboard_time": 1752319041,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 184267,
@@ -1339,20 +1355,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174035,
+      "num": 174035,
+      "word": "在医院上厕所前一定要洗手",
+      "onboard_time": 1752316701,
+      "rank": 45,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 173819,
       "num": 173819,
       "word": "领导让联系胡歌 胡歌真来了",
       "onboard_time": 1752238944,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 173544,
-      "num": 173544,
-      "word": "在医院上厕所前一定要洗手",
-      "onboard_time": 1752316701,
-      "rank": 45,
-      "category": "科学科普"
     },
     {
       "raw_hot": 173007,
@@ -1467,6 +1483,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 164417,
+      "num": 202237,
+      "word": "GAI去歌手了哦",
+      "onboard_time": 1752318921,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163927,
       "num": 163927,
       "word": "贵州室外温度比高铁内开空调还低",
@@ -1537,6 +1561,14 @@
       "onboard_time": 1752298522,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160392,
+      "num": 160392,
+      "word": "JDG战胜LGDNBW",
+      "onboard_time": 1752320000,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 159174,
@@ -1747,6 +1779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144781,
+      "num": 202109,
+      "word": "岚图高管拒绝半场开香槟",
+      "onboard_time": 1752319342,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 144671,
       "num": 144671,
       "word": "聊斋兰若寺",
@@ -1955,6 +1995,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129887,
+      "num": 280630,
+      "word": "广西发现全身30多个发光点的昆虫",
+      "onboard_time": 1752310701,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129674,
+      "num": 189169,
+      "word": "好友间无声的霸凌才最恐怖",
+      "onboard_time": 1752319700,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129549,
       "num": 129549,
       "word": "王楚钦微笑三连",
@@ -2067,6 +2123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123182,
+      "num": 123182,
+      "word": "02年月薪4000能存下钱的原因",
+      "onboard_time": 1752318321,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122379,
       "num": 122379,
       "word": "母亲做上百万个包子替亡子还债",
@@ -2081,14 +2145,6 @@
       "onboard_time": 1752284480,
       "rank": 32,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 121777,
-      "num": 280630,
-      "word": "广西发现全身30多个发光点的昆虫",
-      "onboard_time": 1752310701,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 121213,
@@ -2251,6 +2307,14 @@
       "category": "民生新闻,辟谣/通报"
     },
     {
+      "raw_hot": 113811,
+      "num": 113811,
+      "word": "ACT对战MRC",
+      "onboard_time": 1752320000,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 113557,
       "num": 113557,
       "word": "主理人",
@@ -2284,7 +2348,7 @@
     },
     {
       "raw_hot": 112412,
-      "num": 112412,
+      "num": 202441,
       "word": "日本教练庆贺胜利后被逆转",
       "onboard_time": 1752317180,
       "rank": 44,
@@ -2339,14 +2403,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 111327,
-      "num": 111327,
-      "word": "GAI去歌手了哦",
-      "onboard_time": 1752318921,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 111237,
       "num": 111237,
       "word": "掌中宝 鸡屁股",
@@ -2371,14 +2427,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 110028,
-      "num": 110028,
-      "word": "02年月薪4000能存下钱的原因",
-      "onboard_time": 1752318321,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 109601,
       "num": 196363,
       "word": "中方回应美要韩采取限制中国措施",
@@ -2393,6 +2441,14 @@
       "onboard_time": 1752319160,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 109231,
+      "num": 109231,
+      "word": "斗破苍穹",
+      "onboard_time": 1752320121,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 108792,
@@ -2596,7 +2652,7 @@
     },
     {
       "raw_hot": 97170,
-      "num": 97170,
+      "num": 202006,
       "word": "男子夹脚拖藏摄像头3年偷拍21女",
       "onboard_time": 1752313282,
       "rank": 46,
@@ -2697,14 +2753,6 @@
       "onboard_time": 1752287541,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 82508,
-      "num": 278303,
-      "word": "美国务院1350人大裁员现场",
-      "onboard_time": 1752318381,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 82132,

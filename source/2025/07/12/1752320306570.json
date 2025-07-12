@@ -1,0 +1,410 @@
+{
+  "runTime": 1752320306570,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1214102,
+        "num": 1214102,
+        "word": "免费奶茶",
+        "onboard_time": 1752296961,
+        "rank": 0,
+        "category": "互联网,美食"
+      },
+      {
+        "raw_hot": 1050188,
+        "num": 1050188,
+        "word": "第一次感受到1w有这么多",
+        "onboard_time": 1752306502,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 35308,
+        "num": 824363,
+        "word": "从多项第一读懂中国创新突破的必然",
+        "onboard_time": 1752309321,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 612797,
+        "num": 612797,
+        "word": "高温晒背2小时67岁阿姨开颅保命",
+        "onboard_time": 1752316701,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 364215,
+        "num": 364215,
+        "word": "12306回应高铁车内比车外温度还高",
+        "onboard_time": 1752312681,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255630,
+        "num": 255630,
+        "word": "美国务院1350人大裁员现场",
+        "onboard_time": 1752318381,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 233951,
+        "num": 233951,
+        "word": "中国不接受不承认所谓裁决",
+        "onboard_time": 1752309861,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 221836,
+        "num": 221836,
+        "word": "手术后脑死亡男童母亲发声",
+        "onboard_time": 1752313702,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218775,
+        "num": 218775,
+        "word": "中山大学通报133人被取消录取资格",
+        "onboard_time": 1752300201,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202505,
+        "num": 202505,
+        "word": "无畏达成2500助攻",
+        "onboard_time": 1752319041,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1039389,
+        "num": 202453,
+        "word": "周心语被要求退团",
+        "onboard_time": 1752317121,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77122,
+        "num": 202441,
+        "word": "日本教练庆贺胜利后被逆转",
+        "onboard_time": 1752317180,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 501129,
+        "num": 202369,
+        "word": "薄底皮鞋 男明星最好的医美",
+        "onboard_time": 1752308120,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 420461,
+        "num": 202307,
+        "word": "田栩宁复工",
+        "onboard_time": 1752306202,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398002,
+        "num": 202260,
+        "word": "LV 补差价",
+        "onboard_time": 1752312681,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164417,
+        "num": 202237,
+        "word": "GAI去歌手了哦",
+        "onboard_time": 1752318921,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264709,
+        "num": 202183,
+        "word": "丁禹兮 眉骨遮眼",
+        "onboard_time": 1752314601,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144781,
+        "num": 202109,
+        "word": "岚图高管拒绝半场开香槟",
+        "onboard_time": 1752319342,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 209569,
+        "num": 202075,
+        "word": "王青后面有机会直播",
+        "onboard_time": 1752318080,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59411,
+        "num": 202006,
+        "word": "男子夹脚拖藏摄像头3年偷拍21女",
+        "onboard_time": 1752313282,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149315,
+        "num": 201948,
+        "word": "卫生巾在新疆叫馕在上海叫贝果",
+        "onboard_time": 1752300801,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 563404,
+        "num": 201890,
+        "word": "90年35岁未婚女生的真实感受",
+        "onboard_time": 1752316041,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 256419,
+        "num": 201849,
+        "word": "水千丞 Boom",
+        "onboard_time": 1752311002,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251735,
+        "num": 201806,
+        "word": "你不用考清华了 因为你马上要北大了",
+        "onboard_time": 1752312081,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201780,
+        "num": 201780,
+        "word": "鞠婧祎抹胸飞行员造型",
+        "onboard_time": 1752317001,
+        "rank": 24,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 191327,
+        "num": 191327,
+        "word": "4000年前古人就在嗦面了",
+        "onboard_time": 1752319762,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 324739,
+        "num": 191096,
+        "word": "蔡文静 装腔启示录",
+        "onboard_time": 1752315500,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129674,
+        "num": 189169,
+        "word": "好友间无声的霸凌才最恐怖",
+        "onboard_time": 1752319700,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117501,
+        "num": 186286,
+        "word": "姚译添回应范丞丞",
+        "onboard_time": 1752312020,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114396,
+        "num": 183863,
+        "word": "王源说的是谁好难猜啊",
+        "onboard_time": 1752317241,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 197513,
+        "num": 182627,
+        "word": "王皓我选择王楚钦作为我的解药",
+        "onboard_time": 1752318020,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1515894,
+        "num": 180954,
+        "word": "周深录制综艺节目遭嘉宾拖拽",
+        "onboard_time": 1752317001,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323940,
+        "num": 179525,
+        "word": "郭艾伦 跑男",
+        "onboard_time": 1752304581,
+        "rank": 32,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 215881,
+        "num": 176821,
+        "word": "田曦薇早期姐感",
+        "onboard_time": 1752315860,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215626,
+        "num": 175322,
+        "word": "剑桥大学偶遇任嘉伦",
+        "onboard_time": 1752318020,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174035,
+        "num": 174035,
+        "word": "在医院上厕所前一定要洗手",
+        "onboard_time": 1752316701,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 164761,
+        "num": 164761,
+        "word": "花一万把labubu做在美甲上",
+        "onboard_time": 1752304821,
+        "rank": 36,
+        "category": "美妆,休闲"
+      },
+      {
+        "raw_hot": 160392,
+        "num": 160392,
+        "word": "JDG战胜LGDNBW",
+        "onboard_time": 1752320000,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 158175,
+        "num": 158175,
+        "word": "3岁男童肥大扁桃体切除术后脑死亡",
+        "onboard_time": 1752315680,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137767,
+        "num": 137767,
+        "word": "北京大雨",
+        "onboard_time": 1752313822,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132570,
+        "num": 132570,
+        "word": "真胖和虚胖的区别",
+        "onboard_time": 1752307882,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 129887,
+        "num": 129887,
+        "word": "广西发现全身30多个发光点的昆虫",
+        "onboard_time": 1752310701,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127666,
+        "num": 127666,
+        "word": "贵州室外温度比高铁内开空调还低",
+        "onboard_time": 1752317300,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123182,
+        "num": 123182,
+        "word": "02年月薪4000能存下钱的原因",
+        "onboard_time": 1752318321,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120291,
+        "num": 120291,
+        "word": "五代",
+        "onboard_time": 1752309923,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113811,
+        "num": 113811,
+        "word": "ACT对战MRC",
+        "onboard_time": 1752320000,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109231,
+        "num": 109231,
+        "word": "斗破苍穹",
+        "onboard_time": 1752320121,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 100526,
+        "num": 106139,
+        "word": "聊斋兰若寺",
+        "onboard_time": 1752316342,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 106105,
+        "num": 106105,
+        "word": "相亲遛弯瘦了40斤",
+        "onboard_time": 1752306802,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105055,
+        "num": 105055,
+        "word": "所谓南海仲裁案裁决是一张废纸",
+        "onboard_time": 1752310761,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#热爱与坚守#"
+    }
+  }
+}
