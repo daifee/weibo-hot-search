@@ -1,6 +1,6 @@
 {
   "startTime": 1752251611895,
-  "endTime": 1752312418968,
+  "endTime": 1752313265177,
   "band_list": [
     {
       "raw_hot": 2441299,
@@ -131,6 +131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 849878,
+      "num": 299965,
+      "word": "薄底皮鞋 男明星最好的医美",
+      "onboard_time": 1752308120,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 833815,
       "num": 833815,
       "word": "林俊杰cue田曦薇",
@@ -144,14 +152,6 @@
       "word": "田栩宁复工",
       "onboard_time": 1752306202,
       "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 808706,
-      "num": 299965,
-      "word": "薄底皮鞋 男明星最好的医美",
-      "onboard_time": 1752308120,
-      "rank": 20,
       "category": "艺人"
     },
     {
@@ -179,20 +179,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 734502,
+      "num": 206323,
+      "word": "水千丞 Boom",
+      "onboard_time": 1752311002,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 679197,
       "num": 679197,
       "word": "卫生巾在新疆叫馕在上海叫贝果",
       "onboard_time": 1752300801,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 664499,
-      "num": 206323,
-      "word": "水千丞 Boom",
-      "onboard_time": 1752311002,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 652164,
@@ -233,6 +233,14 @@
       "onboard_time": 1752278179,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 562566,
+      "num": 199780,
+      "word": "中国不接受不承认所谓裁决",
+      "onboard_time": 1752309861,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 562127,
@@ -371,14 +379,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 444863,
-      "num": 199780,
-      "word": "中国不接受不承认所谓裁决",
-      "onboard_time": 1752309861,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 434618,
       "num": 434618,
       "word": "GAI听到名次秒变脸",
@@ -465,6 +465,14 @@
       "onboard_time": 1752283640,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 370500,
+      "num": 182527,
+      "word": "真胖和虚胖的区别",
+      "onboard_time": 1752307882,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 366283,
@@ -675,14 +683,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 251500,
-      "num": 182527,
-      "word": "真胖和虚胖的区别",
-      "onboard_time": 1752307882,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 242142,
       "num": 242142,
       "word": "12.3%受访00后存款超30万",
@@ -744,6 +744,14 @@
       "word": "嘻哈赢了付航",
       "onboard_time": 1752304881,
       "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 215558,
+      "num": 166209,
+      "word": "姚译添回应范丞丞",
+      "onboard_time": 1752312020,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -923,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193864,
+      "num": 157059,
+      "word": "你不用考清华了 因为你马上要北大了",
+      "onboard_time": 1752312081,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 192669,
       "num": 103341,
       "word": "婆婆一进门就去看睡觉的大孙子",
@@ -1003,6 +1019,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 185753,
+      "num": 185753,
+      "word": "被隐匿的真相",
+      "onboard_time": 1752312202,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 185593,
+      "num": 210784,
+      "word": "央视曝光电动自行车非法改装一条龙",
+      "onboard_time": 1752311541,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 185283,
       "num": 185283,
       "word": "妻子好心按摩致丈夫小脑梗死",
@@ -1017,6 +1049,14 @@
       "onboard_time": 1752297740,
       "rank": 35,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 183063,
+      "num": 155711,
+      "word": "男子称赶到机场发现飞机提前5小时起飞",
+      "onboard_time": 1752311660,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 181450,
@@ -1195,6 +1235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169794,
+      "num": 155240,
+      "word": "桂恒比心",
+      "onboard_time": 1752312561,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168128,
       "num": 263302,
       "word": "中山大学发布公告",
@@ -1227,14 +1275,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 166209,
-      "num": 166209,
-      "word": "姚译添回应范丞丞",
-      "onboard_time": 1752312020,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 166156,
       "num": 163644,
       "word": "阴湿古早味漫展",
@@ -1259,20 +1299,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162806,
+      "num": 162806,
+      "word": "陈楚生连续九期收视TOP1",
+      "onboard_time": 1752311841,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162229,
       "num": 162229,
       "word": "诀爱",
       "onboard_time": 1752236663,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 162184,
-      "num": 162184,
-      "word": "被隐匿的真相",
-      "onboard_time": 1752312202,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 162173,
@@ -1305,14 +1345,6 @@
       "onboard_time": 1752298522,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 159683,
-      "num": 159683,
-      "word": "陈楚生连续九期收视TOP1",
-      "onboard_time": 1752311841,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 159174,
@@ -1361,14 +1393,6 @@
       "onboard_time": 1752304701,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 155543,
-      "num": 155543,
-      "word": "男子称赶到机场发现飞机提前5小时起飞",
-      "onboard_time": 1752311660,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 155457,
@@ -1523,6 +1547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142020,
+      "num": 142020,
+      "word": "柯南M28细节控爽了",
+      "onboard_time": 1752313041,
+      "rank": 34,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 140527,
       "num": 140527,
       "word": "陈幸同0比4蒯曼",
@@ -1547,6 +1579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137900,
+      "num": 137900,
+      "word": "谁研究的梓渝牛在在这俩小玩意",
+      "onboard_time": 1752312681,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137190,
       "num": 137190,
       "word": "范丞丞说掌中宝是鸡屁股",
@@ -1569,6 +1609,14 @@
       "onboard_time": 1752308302,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 135583,
+      "num": 135583,
+      "word": "12306回应高铁车内比车外温度还高",
+      "onboard_time": 1752312681,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135121,
@@ -1771,6 +1819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 124160,
+      "num": 124160,
+      "word": "祝绪丹美人风骨味儿",
+      "onboard_time": 1752312502,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122379,
       "num": 122379,
       "word": "母亲做上百万个包子替亡子还债",
@@ -1835,6 +1891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 120686,
+      "num": 120686,
+      "word": "橹穆",
+      "onboard_time": 1752310582,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120643,
       "num": 120643,
       "word": "桂恒",
@@ -1859,14 +1923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119282,
-      "num": 119282,
-      "word": "橹穆",
-      "onboard_time": 1752310582,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 119253,
       "num": 119253,
       "word": "场周",
@@ -1889,6 +1945,14 @@
       "onboard_time": 1752290840,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 116754,
+      "num": 116754,
+      "word": "Shanks说不后悔不遗憾",
+      "onboard_time": 1752313041,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 116353,
@@ -1929,6 +1993,14 @@
       "onboard_time": 1752295762,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115220,
+      "num": 115220,
+      "word": "LV 补差价",
+      "onboard_time": 1752312681,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 114875,
@@ -2035,20 +2107,20 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 110805,
+      "num": 110805,
+      "word": "AnotherMan活动",
+      "onboard_time": 1752312441,
+      "rank": 46,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 109601,
       "num": 196363,
       "word": "中方回应美要韩采取限制中国措施",
       "onboard_time": 1752254001,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 108899,
-      "num": 108899,
-      "word": "你不用考清华了 因为你马上要北大了",
-      "onboard_time": 1752312081,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 108792,
@@ -2099,6 +2171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105428,
+      "num": 105428,
+      "word": "走路 降内脏脂肪",
+      "onboard_time": 1752309561,
+      "rank": 45,
+      "category": "运动健身,科学科普"
+    },
+    {
       "raw_hot": 104789,
       "num": 104789,
       "word": "胡先煦红发生图",
@@ -2113,14 +2193,6 @@
       "onboard_time": 1752311961,
       "rank": 44,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 103900,
-      "num": 103900,
-      "word": "走路 降内脏脂肪",
-      "onboard_time": 1752309561,
-      "rank": 45,
-      "category": "运动健身,科学科普"
     },
     {
       "raw_hot": 102991,
@@ -2363,14 +2435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 75086,
-      "num": 210784,
-      "word": "央视曝光电动自行车非法改装一条龙",
-      "onboard_time": 1752311541,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 73125,
       "num": 115357,
       "word": "林诗栋蒯曼采访又笑场了",
@@ -2411,6 +2475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 67769,
+      "num": 160749,
+      "word": "45万饭店罚单谁给了先罚后查的权力",
+      "onboard_time": 1752312262,
+      "rank": 34,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 66873,
       "num": 161547,
       "word": "王楚钦回应下场对阵F勒布伦",
@@ -2425,6 +2497,14 @@
       "onboard_time": 1752285381,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65405,
+      "num": 154401,
+      "word": "外国人开始流行周五下班去中国",
+      "onboard_time": 1752312681,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64606,
@@ -2515,6 +2595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 53253,
+      "num": 164247,
+      "word": "全国唯一做宝剑专业就业率百分百",
+      "onboard_time": 1752312801,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52223,
       "num": 1094977,
       "word": "净网2025来看1起侵犯公民个人信息案",
@@ -2601,14 +2689,6 @@
       "onboard_time": 1752266294,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 41049,
-      "num": 135376,
-      "word": "45万饭店罚单谁给了先罚后查的权力",
-      "onboard_time": 1752312262,
-      "rank": 34,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 36114,
@@ -2788,7 +2868,7 @@
     },
     {
       "raw_hot": 19300,
-      "num": 99960,
+      "num": 103545,
       "word": "女装版型到底是谁设计的",
       "onboard_time": 1752312382,
       "rank": 49,
