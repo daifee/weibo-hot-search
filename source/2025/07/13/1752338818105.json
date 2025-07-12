@@ -1,0 +1,410 @@
+{
+  "runTime": 1752338818105,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 718450,
+        "num": 768354,
+        "word": "向往的生活 回归",
+        "onboard_time": 1752326422,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 616968,
+        "num": 616968,
+        "word": "第一次感受到1w有这么多",
+        "onboard_time": 1752306502,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23302,
+        "num": 563817,
+        "word": "数读我国外贸发展新业态新模式",
+        "onboard_time": 1752325703,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 547135,
+        "num": 547135,
+        "word": "hi6后期",
+        "onboard_time": 1752326722,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 485826,
+        "num": 485826,
+        "word": "外卖大战有骑手一天赚1000多元",
+        "onboard_time": 1752334342,
+        "rank": 4,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 925945,
+        "num": 453116,
+        "word": "外卖大战有骑手称要跑通宵",
+        "onboard_time": 1752330983,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 578837,
+        "num": 442040,
+        "word": "前乒乓国手要求孙颖莎对手懂点事儿",
+        "onboard_time": 1752327744,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 541595,
+        "num": 393048,
+        "word": "郭艾伦对周深说怕给你弄疼了",
+        "onboard_time": 1752332604,
+        "rank": 7,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 502220,
+        "num": 356352,
+        "word": "陈道明头发全白了",
+        "onboard_time": 1752333682,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143778,
+        "num": 328974,
+        "word": "有奶茶店提前2天备战周六外卖大战",
+        "onboard_time": 1752334523,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317791,
+        "num": 317791,
+        "word": "拜托这可是EXO出道曲",
+        "onboard_time": 1752332004,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293894,
+        "num": 293894,
+        "word": "甘肃提级调查幼儿血铅异常问题",
+        "onboard_time": 1752327923,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270658,
+        "num": 270658,
+        "word": "等枝桠成繁花",
+        "onboard_time": 1752334942,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 223831,
+        "num": 223831,
+        "word": "免费奶茶",
+        "onboard_time": 1752296961,
+        "rank": 13,
+        "category": "互联网,美食"
+      },
+      {
+        "raw_hot": 219743,
+        "num": 219743,
+        "word": "素人女孩被拍网友喊话于正",
+        "onboard_time": 1752323662,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214968,
+        "num": 214968,
+        "word": "被骗至缅甸失联的高考生行程曝光",
+        "onboard_time": 1752326181,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212296,
+        "num": 212296,
+        "word": "印度男子被嘲靠女儿吃饭枪杀女儿",
+        "onboard_time": 1752328702,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 194227,
+        "num": 194227,
+        "word": "外卖商战差不多就行了呗",
+        "onboard_time": 1752323962,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 186293,
+        "num": 186293,
+        "word": "ye 退票",
+        "onboard_time": 1752325043,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184959,
+        "num": 184959,
+        "word": "十个勤天",
+        "onboard_time": 1752336262,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 174150,
+        "num": 174150,
+        "word": "赵雅芝谈不扮白素贞造型的原因",
+        "onboard_time": 1752333982,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160550,
+        "num": 160550,
+        "word": "19岁男生鼻子不舒服查出罕见癌症",
+        "onboard_time": 1752330204,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140877,
+        "num": 140877,
+        "word": "国务院食安办派出工作组指导督办",
+        "onboard_time": 1752327983,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 139143,
+        "num": 139143,
+        "word": "孙颖莎王曼昱vs王艺迪蒯曼",
+        "onboard_time": 1752335003,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125574,
+        "num": 125574,
+        "word": "孙燕姿又偷偷捐款了",
+        "onboard_time": 1752335721,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123615,
+        "num": 123615,
+        "word": "李嘉格女版柯淳",
+        "onboard_time": 1752331942,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110549,
+        "num": 110549,
+        "word": "F4五月天演唱会合唱流星雨",
+        "onboard_time": 1752326602,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 98644,
+        "num": 98644,
+        "word": "房主任",
+        "onboard_time": 1752321501,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97918,
+        "num": 97918,
+        "word": "90年35岁未婚女生的真实感受",
+        "onboard_time": 1752316041,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96797,
+        "num": 96797,
+        "word": "曹格儿子Joe否认恋情",
+        "onboard_time": 1752323901,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 453055,
+        "num": 96743,
+        "word": "周深录制综艺节目遭嘉宾拖拽",
+        "onboard_time": 1752317001,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102750,
+        "num": 96686,
+        "word": "柯淳自曝初恋被分手",
+        "onboard_time": 1752332004,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96564,
+        "num": 96564,
+        "word": "王一博早期微博被做成书了",
+        "onboard_time": 1752333202,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95446,
+        "num": 95446,
+        "word": "发现一个夏天披头发不热的方法",
+        "onboard_time": 1752322522,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 95407,
+        "num": 95407,
+        "word": "郝蕾哭了",
+        "onboard_time": 1752333803,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89446,
+        "num": 89446,
+        "word": "湖南一少年在游泳馆内触电身亡",
+        "onboard_time": 1752332543,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89179,
+        "num": 89179,
+        "word": "朱茵岁月不败美人具象化了",
+        "onboard_time": 1752333742,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89107,
+        "num": 89107,
+        "word": "印度男子溜进学校宿舍性侵多名女童",
+        "onboard_time": 1752324021,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 88572,
+        "num": 88572,
+        "word": "比单依纯还疯的歌手出现了",
+        "onboard_time": 1752333202,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88411,
+        "num": 88411,
+        "word": "张凯丽女儿晋级全国12强",
+        "onboard_time": 1752331343,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86201,
+        "num": 86201,
+        "word": "宋佳马柏全拥抱",
+        "onboard_time": 1752333144,
+        "rank": 40,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 85589,
+        "num": 85589,
+        "word": "拼车遭猥亵备忘录提示司机开到派出所",
+        "onboard_time": 1752328583,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79984,
+        "num": 79984,
+        "word": "高温晒背2小时67岁阿姨开颅保命",
+        "onboard_time": 1752316701,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79087,
+        "num": 79087,
+        "word": "王源薛之谦合唱了像风一样",
+        "onboard_time": 1752330144,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 77235,
+        "num": 77235,
+        "word": "汪苏泷兰州",
+        "onboard_time": 1752338060,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 74260,
+        "num": 74260,
+        "word": "国乒非主力选手收入不高",
+        "onboard_time": 1752333682,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71790,
+        "num": 71790,
+        "word": "网红恩克半年吃110只羊",
+        "onboard_time": 1752325043,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 69451,
+        "num": 69451,
+        "word": "被锦绣芳华的糖刀切换伤到了",
+        "onboard_time": 1752330504,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75462,
+        "num": 67894,
+        "word": "王源伴舞摔倒了",
+        "onboard_time": 1752325882,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 62525,
+        "num": 62525,
+        "word": "赵雅芝千字长文感谢新白",
+        "onboard_time": 1752334703,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国将坚定不移走和平发展道路#"
+    }
+  }
+}
