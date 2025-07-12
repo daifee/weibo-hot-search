@@ -1,6 +1,6 @@
 {
   "startTime": 1752251611895,
-  "endTime": 1752325505918,
+  "endTime": 1752327257999,
   "band_list": [
     {
       "raw_hot": 2441299,
@@ -49,6 +49,14 @@
       "onboard_time": 1752294142,
       "rank": 16,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 1122789,
+      "num": 1122789,
+      "word": "hi6",
+      "onboard_time": 1752322941,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1106037,
@@ -155,14 +163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 846702,
-      "num": 846702,
-      "word": "hi6",
-      "onboard_time": 1752322941,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 833815,
       "num": 833815,
       "word": "林俊杰cue田曦薇",
@@ -195,6 +195,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 775446,
+      "num": 323189,
+      "word": "曹格儿子Joe否认恋情",
+      "onboard_time": 1752323901,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 770413,
+      "num": 323163,
+      "word": "素人女孩被拍网友喊话于正",
+      "onboard_time": 1752323662,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 749481,
       "num": 749481,
       "word": "大妈高铁上免提狂聊在小桌板上抠脚",
@@ -208,14 +224,6 @@
       "word": "水千丞 Boom",
       "onboard_time": 1752311002,
       "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 684867,
-      "num": 250906,
-      "word": "曹格儿子Joe否认恋情",
-      "onboard_time": 1752323901,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 588007,
-      "num": 234969,
+      "num": 240008,
       "word": "90年35岁未婚女生的真实感受",
       "onboard_time": 1752316041,
       "rank": 30,
@@ -451,6 +459,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 435963,
+      "num": 435963,
+      "word": "ye 退票",
+      "onboard_time": 1752325043,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 434618,
       "num": 434618,
       "word": "GAI听到名次秒变脸",
@@ -480,6 +496,14 @@
       "word": "公司团建5人中暑1人热射病进ICU",
       "onboard_time": 1752299720,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 417511,
+      "num": 417511,
+      "word": "台湾火箭在日本发射失败",
+      "onboard_time": 1752322522,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -603,28 +627,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 348148,
-      "num": 348148,
-      "word": "台湾火箭在日本发射失败",
-      "onboard_time": 1752322522,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 343263,
       "num": 343263,
       "word": "西夏陵成功申遗",
       "onboard_time": 1752246505,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 338235,
-      "num": 249631,
-      "word": "素人女孩被拍网友喊话于正",
-      "onboard_time": 1752323662,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 337081,
@@ -641,6 +649,14 @@
       "onboard_time": 1752237683,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 332280,
+      "num": 332280,
+      "word": "向往的生活 回归",
+      "onboard_time": 1752326422,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 330303,
@@ -665,6 +681,14 @@
       "onboard_time": 1752301701,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 323110,
+      "num": 323110,
+      "word": "张杰工作室真敢一刀不剪啊",
+      "onboard_time": 1752323901,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 322977,
@@ -705,6 +729,14 @@
       "onboard_time": 1752290721,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 303369,
+      "num": 303369,
+      "word": "王源伴舞摔倒了",
+      "onboard_time": 1752325882,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 303017,
@@ -819,6 +851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 264879,
+      "num": 264879,
+      "word": "发现一个夏天披头发不热的方法",
+      "onboard_time": 1752322522,
+      "rank": 21,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 264219,
       "num": 264219,
       "word": "苏新皓朱志鑫仰卧起坐",
@@ -851,14 +891,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 246093,
-      "num": 246093,
-      "word": "张杰工作室真敢一刀不剪啊",
-      "onboard_time": 1752323901,
-      "rank": 18,
-      "category": "演出"
-    },
-    {
       "raw_hot": 242142,
       "num": 242142,
       "word": "12.3%受访00后存款超30万",
@@ -867,20 +899,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 239392,
+      "num": 239392,
+      "word": "印度男子溜进学校宿舍性侵多名女童",
+      "onboard_time": 1752324021,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 239201,
       "num": 239201,
       "word": "GAI表情",
       "onboard_time": 1752244345,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 238807,
-      "num": 172933,
-      "word": "印度男子溜进学校宿舍性侵多名女童",
-      "onboard_time": 1752324021,
-      "rank": 27,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 237442,
@@ -905,6 +937,14 @@
       "onboard_time": 1752245664,
       "rank": 15,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 224381,
+      "num": 224381,
+      "word": "hi6后期",
+      "onboard_time": 1752326722,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 224070,
@@ -1003,12 +1043,28 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 212309,
+      "num": 212309,
+      "word": "F4五月天演唱会合唱流星雨",
+      "onboard_time": 1752326602,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 211863,
       "num": 211863,
       "word": "女子在缅北遭持枪强迫卖淫",
       "onboard_time": 1752213682,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 211644,
+      "num": 211644,
+      "word": "宋亚轩cha加绒摇",
+      "onboard_time": 1752325643,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 210726,
@@ -1179,20 +1235,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195609,
-      "num": 195609,
-      "word": "发现一个夏天披头发不热的方法",
-      "onboard_time": 1752322522,
-      "rank": 21,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 195492,
       "num": 213873,
       "word": "朝雪录",
       "onboard_time": 1752285560,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195080,
+      "num": 195080,
+      "word": "韦雪拒绝与前男友同框",
+      "onboard_time": 1752324803,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 194751,
@@ -1257,6 +1313,14 @@
       "onboard_time": 1752304160,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188756,
+      "num": 188756,
+      "word": "网红恩克半年吃110只羊",
+      "onboard_time": 1752325043,
+      "rank": 34,
+      "category": "网红"
     },
     {
       "raw_hot": 187825,
@@ -1411,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179630,
+      "num": 179630,
+      "word": "外卖商战差不多就行了呗",
+      "onboard_time": 1752323962,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 179413,
       "num": 179413,
       "word": "中国游客在泰国遭持枪绑架监控曝光",
@@ -1489,6 +1561,14 @@
       "onboard_time": 1752238944,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173490,
+      "num": 323210,
+      "word": "特朗普称对欧盟征30%关税",
+      "onboard_time": 1752326123,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 173007,
@@ -1691,14 +1771,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 159534,
-      "num": 135938,
-      "word": "ye 退票",
-      "onboard_time": 1752325043,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 159174,
       "num": 159174,
       "word": "朱志鑫苏新皓双MVP绕场饭撒",
@@ -1809,6 +1881,14 @@
       "onboard_time": 1752287060,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150826,
+      "num": 150826,
+      "word": "27岁女子诬告同乡强奸被捕",
+      "onboard_time": 1752326181,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150536,
@@ -2099,14 +2179,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 134929,
-      "num": 134929,
-      "word": "韦雪拒绝与前男友同框",
-      "onboard_time": 1752324803,
-      "rank": 33,
-      "category": "网红"
-    },
-    {
       "raw_hot": 133757,
       "num": 202006,
       "word": "男子夹脚拖藏摄像头3年偷拍21女",
@@ -2185,14 +2257,6 @@
       "onboard_time": 1752290601,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 130162,
-      "num": 130162,
-      "word": "网红恩克半年吃110只羊",
-      "onboard_time": 1752325043,
-      "rank": 34,
-      "category": "网红"
     },
     {
       "raw_hot": 129887,
@@ -2387,6 +2451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 120795,
+      "num": 240162,
+      "word": "被骗至缅甸失联的高考生行程曝光",
+      "onboard_time": 1752326181,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120686,
       "num": 120686,
       "word": "橹穆",
@@ -2515,14 +2587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 114240,
-      "num": 114240,
-      "word": "外卖商战差不多就行了呗",
-      "onboard_time": 1752323962,
-      "rank": 49,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 114153,
       "num": 114153,
       "word": "警方回应中国游客在泰国遭持枪绑架",
@@ -2545,6 +2609,14 @@
       "onboard_time": 1752309802,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 113467,
+      "num": 113467,
+      "word": "左航反向饭撒",
+      "onboard_time": 1752326302,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 113335,
@@ -2747,6 +2819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105968,
+      "num": 105968,
+      "word": "鹿晗发博晒自拍",
+      "onboard_time": 1752324623,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 105600,
       "num": 105600,
       "word": "灌面汤呛死妻子案女方家属希望重判",
@@ -2905,6 +2985,14 @@
       "onboard_time": 1752324500,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 96461,
+      "num": 96461,
+      "word": "f4五月天合照",
+      "onboard_time": 1752327144,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 95859,
@@ -3283,6 +3371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48971,
+      "num": 299330,
+      "word": "律师解读3岁男孩扁桃体手术脑死亡",
+      "onboard_time": 1752326123,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48040,
       "num": 181194,
       "word": "美移民局突袭加州农场抓捕200人",
@@ -3339,6 +3435,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 42415,
+      "num": 242713,
+      "word": "刘炫廷淘汰是谁上头了",
+      "onboard_time": 1752325582,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 41800,
       "num": 44094,
       "word": "品牌方回应冰箱放办公室突然爆炸",
@@ -3377,6 +3481,14 @@
       "onboard_time": 1752301340,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32210,
+      "num": 777281,
+      "word": "数读我国外贸发展新业态新模式",
+      "onboard_time": 1752325703,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 31113,
@@ -3615,6 +3727,9 @@
     },
     {
       "word": "#热爱与坚守#"
+    },
+    {
+      "word": "#中国将坚定不移走和平发展道路#"
     }
   ]
 }

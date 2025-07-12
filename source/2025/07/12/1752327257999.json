@@ -1,0 +1,410 @@
+{
+  "runTime": 1752327257999,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1350331,
+        "num": 1350331,
+        "word": "第一次感受到1w有这么多",
+        "onboard_time": 1752306502,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1122789,
+        "num": 1122789,
+        "word": "hi6",
+        "onboard_time": 1752322941,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32210,
+        "num": 777281,
+        "word": "数读我国外贸发展新业态新模式",
+        "onboard_time": 1752325703,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 759197,
+        "num": 759197,
+        "word": "免费奶茶",
+        "onboard_time": 1752296961,
+        "rank": 3,
+        "category": "互联网,美食"
+      },
+      {
+        "raw_hot": 435963,
+        "num": 435963,
+        "word": "ye 退票",
+        "onboard_time": 1752325043,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 417511,
+        "num": 417511,
+        "word": "台湾火箭在日本发射失败",
+        "onboard_time": 1752322522,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 408239,
+        "num": 408239,
+        "word": "房主任",
+        "onboard_time": 1752321501,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332280,
+        "num": 332280,
+        "word": "向往的生活 回归",
+        "onboard_time": 1752326422,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327011,
+        "num": 327011,
+        "word": "高温晒背2小时67岁阿姨开颅保命",
+        "onboard_time": 1752316701,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173490,
+        "num": 323210,
+        "word": "特朗普称对欧盟征30%关税",
+        "onboard_time": 1752326123,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 775446,
+        "num": 323189,
+        "word": "曹格儿子Joe否认恋情",
+        "onboard_time": 1752323901,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 770413,
+        "num": 323163,
+        "word": "素人女孩被拍网友喊话于正",
+        "onboard_time": 1752323662,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323110,
+        "num": 323110,
+        "word": "张杰工作室真敢一刀不剪啊",
+        "onboard_time": 1752323901,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 303369,
+        "num": 303369,
+        "word": "王源伴舞摔倒了",
+        "onboard_time": 1752325882,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 48971,
+        "num": 299330,
+        "word": "律师解读3岁男孩扁桃体手术脑死亡",
+        "onboard_time": 1752326123,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298029,
+        "num": 298029,
+        "word": "国足0比2日本",
+        "onboard_time": 1752323662,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264879,
+        "num": 264879,
+        "word": "发现一个夏天披头发不热的方法",
+        "onboard_time": 1752322522,
+        "rank": 16,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 246956,
+        "num": 246956,
+        "word": "于正就言而无信了怎么啦",
+        "onboard_time": 1752320662,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42415,
+        "num": 242713,
+        "word": "刘炫廷淘汰是谁上头了",
+        "onboard_time": 1752325582,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120795,
+        "num": 240162,
+        "word": "被骗至缅甸失联的高考生行程曝光",
+        "onboard_time": 1752326181,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 325352,
+        "num": 240008,
+        "word": "90年35岁未婚女生的真实感受",
+        "onboard_time": 1752316041,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 239392,
+        "num": 239392,
+        "word": "印度男子溜进学校宿舍性侵多名女童",
+        "onboard_time": 1752324021,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 224381,
+        "num": 224381,
+        "word": "hi6后期",
+        "onboard_time": 1752326722,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212309,
+        "num": 212309,
+        "word": "F4五月天演唱会合唱流星雨",
+        "onboard_time": 1752326602,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 211644,
+        "num": 211644,
+        "word": "宋亚轩cha加绒摇",
+        "onboard_time": 1752325643,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195080,
+        "num": 195080,
+        "word": "韦雪拒绝与前男友同框",
+        "onboard_time": 1752324803,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 188756,
+        "num": 188756,
+        "word": "网红恩克半年吃110只羊",
+        "onboard_time": 1752325043,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 181121,
+        "num": 181121,
+        "word": "王皓我选择王楚钦作为我的解药",
+        "onboard_time": 1752318020,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179630,
+        "num": 179630,
+        "word": "外卖商战差不多就行了呗",
+        "onboard_time": 1752323962,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 150826,
+        "num": 150826,
+        "word": "27岁女子诬告同乡强奸被捕",
+        "onboard_time": 1752326181,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 694196,
+        "num": 150228,
+        "word": "周深录制综艺节目遭嘉宾拖拽",
+        "onboard_time": 1752317001,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146254,
+        "num": 146254,
+        "word": "付航脱口秀",
+        "onboard_time": 1752320901,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144304,
+        "num": 144304,
+        "word": "郭艾伦 跑男",
+        "onboard_time": 1752304581,
+        "rank": 32,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 139830,
+        "num": 139830,
+        "word": "kanye上海演唱会",
+        "onboard_time": 1752324563,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136422,
+        "num": 136422,
+        "word": "扫毒风暴",
+        "onboard_time": 1752314901,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131671,
+        "num": 131671,
+        "word": "12306回应高铁车内比车外温度还高",
+        "onboard_time": 1752312681,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129848,
+        "num": 129848,
+        "word": "美国务院1350人大裁员现场",
+        "onboard_time": 1752318381,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123118,
+        "num": 123118,
+        "word": "惠英红请张凌赫剧组喝饮料",
+        "onboard_time": 1752325161,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122293,
+        "num": 122293,
+        "word": "在医院上厕所前一定要洗手",
+        "onboard_time": 1752316701,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 118098,
+        "num": 118098,
+        "word": "王青最近在干装修师傅",
+        "onboard_time": 1752322762,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115694,
+        "num": 115694,
+        "word": "李健音乐节",
+        "onboard_time": 1752324921,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113467,
+        "num": 113467,
+        "word": "左航反向饭撒",
+        "onboard_time": 1752326302,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110885,
+        "num": 110885,
+        "word": "广东被骗至缅甸14岁男孩已回国",
+        "onboard_time": 1752322941,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105968,
+        "num": 105968,
+        "word": "鹿晗发博晒自拍",
+        "onboard_time": 1752324623,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102591,
+        "num": 102591,
+        "word": "丁禹兮 眉骨遮眼",
+        "onboard_time": 1752314601,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102378,
+        "num": 102378,
+        "word": "TF家族练习生 高铭阳",
+        "onboard_time": 1752323302,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96950,
+        "num": 96950,
+        "word": "剑桥大学偶遇任嘉伦",
+        "onboard_time": 1752318020,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96461,
+        "num": 96461,
+        "word": "f4五月天合照",
+        "onboard_time": 1752327144,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 95421,
+        "num": 95421,
+        "word": "姚译添回应范丞丞",
+        "onboard_time": 1752312020,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94998,
+        "num": 94998,
+        "word": "棍铲",
+        "onboard_time": 1752320301,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国将坚定不移走和平发展道路#"
+    }
+  }
+}
