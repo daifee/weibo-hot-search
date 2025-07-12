@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752359129822,
+  "endTime": 1752360239176,
   "band_list": [
     {
       "raw_hot": 1250859,
@@ -83,6 +83,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 343397,
+      "num": 516211,
+      "word": "被骗至缅甸失联的高考生行程曝光",
+      "onboard_time": 1752326181,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 322644,
       "num": 322644,
       "word": "印度男子被嘲靠女儿吃饭枪杀女儿",
@@ -129,14 +137,6 @@
       "onboard_time": 1752323662,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 270695,
-      "num": 405717,
-      "word": "被骗至缅甸失联的高考生行程曝光",
-      "onboard_time": 1752326181,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 237971,
@@ -267,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124199,
+      "num": 124199,
+      "word": "11年铁粉穿高定礼服看王源演唱会",
+      "onboard_time": 1752343456,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 121946,
       "num": 120918,
       "word": "宋佳马柏全拥抱",
@@ -345,14 +353,6 @@
       "onboard_time": 1752331343,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 97579,
-      "num": 97579,
-      "word": "11年铁粉穿高定礼服看王源演唱会",
-      "onboard_time": 1752343456,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 96410,
@@ -435,6 +435,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 68540,
+      "num": 88745,
+      "word": "三次判刑仍提拔的局长曾枪击村民",
+      "onboard_time": 1752341956,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62525,
       "num": 62525,
       "word": "赵雅芝千字长文感谢新白",
@@ -451,8 +459,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 53486,
-      "num": 53486,
+      "raw_hot": 57212,
+      "num": 57212,
       "word": "27岁女子诬告同乡强奸被捕",
       "onboard_time": 1752326181,
       "rank": 46,
@@ -483,20 +491,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 44704,
-      "num": 88745,
-      "word": "三次判刑仍提拔的局长曾枪击村民",
-      "onboard_time": 1752341956,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43408,
       "num": 51017,
       "word": "超人",
       "onboard_time": 1752341421,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 26177,
+      "num": 26177,
+      "word": "你的爸爸好像是你房间的门",
+      "onboard_time": 1752356234,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 25337,
@@ -515,20 +523,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 23274,
-      "num": 23274,
-      "word": "你的爸爸好像是你房间的门",
-      "onboard_time": 1752356234,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 21043,
-      "num": 21043,
+      "num": 23425,
       "word": "学会拒绝是对自己和关系的保护",
       "onboard_time": 1752343037,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 20011,
+      "num": 23429,
+      "word": "不停运动7个月的变化",
+      "onboard_time": 1752359896,
+      "rank": 46,
+      "category": "运动健身"
     },
     {
       "raw_hot": 19274,
