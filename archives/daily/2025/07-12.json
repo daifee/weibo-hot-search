@@ -1,6 +1,6 @@
 {
   "startTime": 1752251611895,
-  "endTime": 1752320306570,
+  "endTime": 1752324606326,
   "band_list": [
     {
       "raw_hot": 2441299,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1579795,
-      "num": 1119347,
+      "num": 1379284,
       "word": "第一次感受到1w有这么多",
       "onboard_time": 1752306502,
       "rank": 11,
@@ -203,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 680805,
+      "num": 680805,
+      "word": "hi6",
+      "onboard_time": 1752322941,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 679197,
       "num": 679197,
       "word": "卫生巾在新疆叫馕在上海叫贝果",
@@ -312,6 +320,14 @@
       "word": "房主任女儿",
       "onboard_time": 1752287901,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 515678,
+      "num": 515678,
+      "word": "房主任",
+      "onboard_time": 1752321501,
+      "rank": 5,
       "category": "综艺"
     },
     {
@@ -507,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 375087,
+      "num": 247499,
+      "word": "于正就言而无信了怎么啦",
+      "onboard_time": 1752320662,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 374768,
       "num": 374768,
       "word": "印度坠机驾驶舱语音记录公开",
@@ -521,6 +545,14 @@
       "onboard_time": 1752283640,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 371668,
+      "num": 243236,
+      "word": "曹格儿子Joe否认恋情",
+      "onboard_time": 1752323901,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 370500,
@@ -587,6 +619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 332152,
+      "num": 332152,
+      "word": "台湾火箭在日本发射失败",
+      "onboard_time": 1752322522,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 330303,
       "num": 330303,
       "word": "民政局回应未婚女子被结婚8年",
@@ -619,6 +659,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 317555,
+      "num": 317555,
+      "word": "付航脱口秀",
+      "onboard_time": 1752320901,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 315611,
       "num": 315611,
       "word": "护士被同居男友杀害疑遭长期家暴",
@@ -641,6 +689,14 @@
       "onboard_time": 1752290721,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 303017,
+      "num": 303017,
+      "word": "王皓我选择王楚钦作为我的解药",
+      "onboard_time": 1752318020,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 297175,
@@ -715,6 +771,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 269185,
+      "num": 260280,
+      "word": "剑桥大学偶遇任嘉伦",
+      "onboard_time": 1752318020,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 268312,
       "num": 268312,
       "word": "全季酒店回应女子半夜被老鼠咬醒",
@@ -755,14 +819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 260280,
-      "num": 260280,
-      "word": "剑桥大学偶遇任嘉伦",
-      "onboard_time": 1752318020,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 255937,
       "num": 228810,
       "word": "那英手链",
@@ -795,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238798,
+      "num": 238798,
+      "word": "素人女孩被拍网友喊话于正",
+      "onboard_time": 1752323662,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237442,
       "num": 237442,
       "word": "再见爱人节目组找过杨蒙恩",
@@ -811,12 +875,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 235174,
+      "num": 235174,
+      "word": "国足0比2日本",
+      "onboard_time": 1752323662,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 231178,
       "num": 231178,
       "word": "文化中国行中国再添一处世界遗产",
       "onboard_time": 1752245664,
       "rank": 15,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 224070,
+      "num": 224070,
+      "word": "棍铲",
+      "onboard_time": 1752320301,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 223270,
@@ -947,6 +1027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205956,
+      "num": 205956,
+      "word": "张杰工作室真敢一刀不剪啊",
+      "onboard_time": 1752323901,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 205786,
       "num": 233569,
       "word": "杨瀚森得分上双",
@@ -961,6 +1049,14 @@
       "onboard_time": 1752303861,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203983,
+      "num": 203983,
+      "word": "王青最近在干装修师傅",
+      "onboard_time": 1752322762,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 203769,
@@ -1043,14 +1139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 197513,
-      "num": 192131,
-      "word": "王皓我选择王楚钦作为我的解药",
-      "onboard_time": 1752318020,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 197341,
       "num": 188790,
       "word": "比前夫哥更疯批的人出现了",
@@ -1083,6 +1171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195609,
+      "num": 195609,
+      "word": "发现一个夏天披头发不热的方法",
+      "onboard_time": 1752322522,
+      "rank": 21,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 195492,
       "num": 213873,
       "word": "朝雪录",
@@ -1113,6 +1209,14 @@
       "onboard_time": 1752297201,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191991,
+      "num": 191991,
+      "word": "扫毒风暴",
+      "onboard_time": 1752314901,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 191808,
@@ -1235,6 +1339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 181855,
+      "num": 181855,
+      "word": "徐明浩被贴脸开大前几期去哪了",
+      "onboard_time": 1752324021,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181450,
       "num": 181450,
       "word": "陈奕恒运动会路透",
@@ -1315,12 +1427,12 @@
       "category": "民生新闻,艺人"
     },
     {
-      "raw_hot": 176903,
-      "num": 176903,
-      "word": "扫毒风暴",
-      "onboard_time": 1752314901,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 176704,
+      "num": 202237,
+      "word": "GAI去歌手了哦",
+      "onboard_time": 1752318921,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 175923,
@@ -1483,14 +1595,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 164417,
-      "num": 202237,
-      "word": "GAI去歌手了哦",
-      "onboard_time": 1752318921,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 163927,
       "num": 163927,
       "word": "贵州室外温度比高铁内开空调还低",
@@ -1643,6 +1747,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 153428,
+      "num": 153428,
+      "word": "印度男子溜进学校宿舍性侵多名女童",
+      "onboard_time": 1752324021,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 153349,
       "num": 153349,
       "word": "孙颖莎王曼昱3比0金娜英柳韩娜",
@@ -1755,6 +1867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146162,
+      "num": 146162,
+      "word": "TF家族练习生 高铭阳",
+      "onboard_time": 1752323302,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145755,
       "num": 145755,
       "word": "苏新皓 铲棒中控",
@@ -1793,6 +1913,14 @@
       "onboard_time": 1752316342,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 144233,
+      "num": 144233,
+      "word": "广东被骗至缅甸14岁男孩已回国",
+      "onboard_time": 1752322941,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143823,
@@ -1875,6 +2003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136545,
+      "num": 136545,
+      "word": "和平精英",
+      "onboard_time": 1752323541,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 136328,
       "num": 136328,
       "word": "余宇涵张桂源双人射箭",
@@ -1899,6 +2035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 135635,
+      "num": 135635,
+      "word": "朱志鑫苏新皓游戏水陆空全了",
+      "onboard_time": 1752323781,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135121,
       "num": 135121,
       "word": "杨瀚森太像约基奇了",
@@ -1921,6 +2065,14 @@
       "onboard_time": 1752302001,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 133757,
+      "num": 202006,
+      "word": "男子夹脚拖藏摄像头3年偷拍21女",
+      "onboard_time": 1752313282,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133652,
@@ -2227,6 +2379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 118652,
+      "num": 118652,
+      "word": "李洙赫现身权志龙演唱会",
+      "onboard_time": 1752323481,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 117720,
       "num": 117720,
       "word": "李佳薇谭薇相互搀扶好好笑",
@@ -2345,6 +2505,14 @@
       "onboard_time": 1752308602,
       "rank": 40,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 112938,
+      "num": 112938,
+      "word": "外卖商战下的大家belike",
+      "onboard_time": 1752319581,
+      "rank": 43,
+      "category": "互联网,幽默"
     },
     {
       "raw_hot": 112412,
@@ -2483,6 +2651,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 107465,
+      "num": 107465,
+      "word": "F1",
+      "onboard_time": 1752321800,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106869,
       "num": 106869,
       "word": "鹿晗下周一要发17张自拍",
@@ -2603,6 +2779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99218,
+      "num": 99218,
+      "word": "内娱第一部小区剧",
+      "onboard_time": 1752321381,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99176,
       "num": 107387,
       "word": "王楚钦晋级WTT男单四强",
@@ -2625,6 +2809,14 @@
       "onboard_time": 1752314662,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98492,
+      "num": 98492,
+      "word": "kanye上海演唱会",
+      "onboard_time": 1752324563,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 98056,
@@ -2651,12 +2843,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 97170,
-      "num": 202006,
-      "word": "男子夹脚拖藏摄像头3年偷拍21女",
-      "onboard_time": 1752313282,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 97415,
+      "num": 97415,
+      "word": "很多人已经习惯用疾病名称描述感受",
+      "onboard_time": 1752324500,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 97364,
+      "num": 97364,
+      "word": "外卖商战差不多就行了呗",
+      "onboard_time": 1752323962,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 95859,
@@ -2801,6 +3001,14 @@
       "onboard_time": 1752308901,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 76891,
+      "num": 254118,
+      "word": "这期奔跑吧吃的不要太好",
+      "onboard_time": 1752321861,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 75941,
@@ -3281,6 +3489,14 @@
       "onboard_time": 1752312382,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 19044,
+      "num": 757512,
+      "word": "文化中国行看新晋世界遗产西夏陵",
+      "onboard_time": 1752309142,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 18957,
