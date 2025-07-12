@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752338818105,
+  "endTime": 1752340963229,
   "band_list": [
     {
       "raw_hot": 1250859,
@@ -25,6 +25,14 @@
       "onboard_time": 1752327744,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 781905,
+      "num": 781905,
+      "word": "外卖大战有骑手一天赚1000多元",
+      "onboard_time": 1752334342,
+      "rank": 15,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 722800,
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 605488,
-      "num": 393048,
+      "num": 547941,
       "word": "郭艾伦对周深说怕给你弄疼了",
       "onboard_time": 1752332604,
       "rank": 8,
@@ -65,14 +73,6 @@
       "onboard_time": 1752317001,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 485826,
-      "num": 485826,
-      "word": "外卖大战有骑手一天赚1000多元",
-      "onboard_time": 1752334342,
-      "rank": 15,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 359786,
@@ -131,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 263906,
+      "num": 191937,
+      "word": "十个勤天",
+      "onboard_time": 1752336262,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 237971,
       "num": 237971,
       "word": "ye 退票",
@@ -161,14 +169,6 @@
       "onboard_time": 1752330204,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 200353,
-      "num": 191937,
-      "word": "十个勤天",
-      "onboard_time": 1752336262,
-      "rank": 21,
-      "category": "演出"
     },
     {
       "raw_hot": 192104,
@@ -387,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80676,
+      "num": 71010,
+      "word": "许凯田曦薇贴贴",
+      "onboard_time": 1752339859,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 77235,
       "num": 77235,
       "word": "汪苏泷兰州",
@@ -409,6 +417,54 @@
       "onboard_time": 1752334703,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 59305,
+      "num": 59305,
+      "word": "李昀锐化妆一小时三分钟入水",
+      "onboard_time": 1752339618,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 50543,
+      "num": 50543,
+      "word": "全员加速中双人搭档赛",
+      "onboard_time": 1752339319,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 49939,
+      "num": 49939,
+      "word": "耳帝买股SHarK新说唱冠军",
+      "onboard_time": 1752339739,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 49170,
+      "num": 49170,
+      "word": "27岁女子诬告同乡强奸被捕",
+      "onboard_time": 1752326181,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48806,
+      "num": 48806,
+      "word": "斯瓦泰克大满贯第六冠",
+      "onboard_time": 1752340938,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 47564,
+      "num": 47564,
+      "word": "万妮达严浩翔战队",
+      "onboard_time": 1752340938,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 45973,

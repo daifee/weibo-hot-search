@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752338818105,
+  "endTime": 1752340963229,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -3011,6 +3011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 781905,
+      "num": 781905,
+      "word": "外卖大战有骑手一天赚1000多元",
+      "onboard_time": 1752334342,
+      "rank": 18,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 781092,
       "num": 781092,
       "word": "冻荔枝",
@@ -4700,7 +4708,7 @@
     },
     {
       "raw_hot": 605488,
-      "num": 393048,
+      "num": 547941,
       "word": "郭艾伦对周深说怕给你弄疼了",
       "onboard_time": 1752332604,
       "rank": 14,
@@ -6049,14 +6057,6 @@
       "onboard_time": 1751364623,
       "rank": 9,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 485826,
-      "num": 485826,
-      "word": "外卖大战有骑手一天赚1000多元",
-      "onboard_time": 1752334342,
-      "rank": 18,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 485682,
@@ -11387,6 +11387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263906,
+      "num": 191937,
+      "word": "十个勤天",
+      "onboard_time": 1752336262,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 263661,
       "num": 263661,
       "word": "江南百景图",
@@ -15409,14 +15417,6 @@
       "onboard_time": 1752325043,
       "rank": 34,
       "category": "网红"
-    },
-    {
-      "raw_hot": 200353,
-      "num": 191937,
-      "word": "十个勤天",
-      "onboard_time": 1752336262,
-      "rank": 21,
-      "category": "演出"
     },
     {
       "raw_hot": 200237,
@@ -36291,6 +36291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 80676,
+      "num": 71010,
+      "word": "许凯田曦薇贴贴",
+      "onboard_time": 1752339859,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 80608,
       "num": 890938,
       "word": "贵州榕江洪灾救援诠释中国式团结",
@@ -38243,6 +38251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59305,
+      "num": 59305,
+      "word": "李昀锐化妆一小时三分钟入水",
+      "onboard_time": 1752339618,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 59248,
       "num": 130228,
       "word": "杨紫片场移动KTV",
@@ -38971,6 +38987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 50543,
+      "num": 50543,
+      "word": "全员加速中双人搭档赛",
+      "onboard_time": 1752339319,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 50444,
       "num": 294041,
       "word": "刘炫廷淘汰是谁上头了",
@@ -39009,6 +39033,14 @@
       "onboard_time": 1752321682,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49939,
+      "num": 49939,
+      "word": "耳帝买股SHarK新说唱冠军",
+      "onboard_time": 1752339739,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 49900,
@@ -39137,6 +39169,14 @@
       "onboard_time": 1752291620,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48806,
+      "num": 48806,
+      "word": "斯瓦泰克大满贯第六冠",
+      "onboard_time": 1752340938,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 48735,
@@ -39289,6 +39329,14 @@
       "onboard_time": 1751972723,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 47564,
+      "num": 47564,
+      "word": "万妮达严浩翔战队",
+      "onboard_time": 1752340938,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 47542,
