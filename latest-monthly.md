@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/12 17:41:05
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/12 18:27:10
 </p>
 </blockquote>
 <p>
@@ -4329,6 +4329,18 @@ AL遗憾止步MSI（热度：543311）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E9%AB%98%E9%93%81%E8%BD%A6%E5%86%85%E6%AF%94%E8%BD%A6%E5%A4%96%E6%B8%A9%E5%BA%A6%E8%BF%98%E9%AB%98%23" target="weibo">
+12306回应高铁车内比车外温度还高（热度：503101）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23LV%20%E8%A1%A5%E5%B7%AE%E4%BB%B7%23" target="weibo">
+LV 补差价（热度：502805）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2312306%E7%A7%B0%E8%B5%B0%E6%8D%A2%E4%B9%98%E5%88%B0%E5%87%BA%E5%8F%91%E5%B1%82%E5%B0%B1%E9%A4%90%E4%B8%8D%E5%8F%AF%E8%A1%8C%23" target="weibo">
 12306称走换乘到出发层就餐不可行（热度：502597）
 </a>
@@ -5667,6 +5679,12 @@ wakuku（热度：392363）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%B8%8D%E7%94%A8%E8%80%83%E6%B8%85%E5%8D%8E%E4%BA%86%20%E5%9B%A0%E4%B8%BA%E4%BD%A0%E9%A9%AC%E4%B8%8A%E8%A6%81%E5%8C%97%E5%A4%A7%E4%BA%86%23" target="weibo">
+你不用考清华了 因为你马上要北大了（热度：385753）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23CFO%E6%9A%B4%E6%89%93T1%23" target="weibo">
 CFO暴打T1（热度：384857）
 </a>
@@ -5993,24 +6011,6 @@ TF家族蓝队（热度：373411）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%A0%A9%E5%AE%81%E6%96%B0%E5%89%A7%E5%BC%80%E6%9C%BA%23" target="weibo">
 田栩宁新剧开机（热度：363567）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E4%BA%B2%E5%BC%9F%E5%86%92%E5%85%85%E5%90%B8%E6%AF%92%E7%95%9910%E5%B9%B4%E6%A1%88%E5%BA%95%23" target="weibo">
-男子被亲弟冒充吸毒留10年案底（热度：363097）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B7%98%E5%AE%9D%E9%97%AA%E8%B4%AD%E5%85%8D%E5%8D%95%23" target="weibo">
-淘宝闪购免单（热度：363031）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E5%9B%9E%E5%BA%94%E6%9D%8E%E7%BB%B4%E5%98%89%23" target="weibo">
-谢娜回应李维嘉（热度：362989）
 </a>
 </li>
 
