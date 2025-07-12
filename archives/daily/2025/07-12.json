@@ -1,6 +1,6 @@
 {
   "startTime": 1752251611895,
-  "endTime": 1752292670340,
+  "endTime": 1752293249188,
   "band_list": [
     {
       "raw_hot": 1306680,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 979820,
-      "num": 251089,
+      "num": 259178,
       "word": "MaggieQ结婚",
       "onboard_time": 1752290421,
       "rank": 10,
@@ -59,8 +59,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 901221,
-      "num": 246966,
+      "raw_hot": 909862,
+      "num": 258487,
       "word": "男子灌面汤呛死妻子案最新进展",
       "onboard_time": 1752289280,
       "rank": 12,
@@ -147,6 +147,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 413192,
+      "num": 413192,
+      "word": "T1对战AL",
+      "onboard_time": 1752280460,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 374768,
+      "num": 374768,
+      "word": "印度坠机驾驶舱语音记录公开",
+      "onboard_time": 1752286641,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 373411,
       "num": 373411,
       "word": "TF家族蓝队",
@@ -156,7 +172,7 @@
     },
     {
       "raw_hot": 366283,
-      "num": 241817,
+      "num": 257125,
       "word": "美团外卖",
       "onboard_time": 1752286820,
       "rank": 15,
@@ -169,6 +185,14 @@
       "onboard_time": 1752287901,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 359954,
+      "num": 359954,
+      "word": "一顿饭花3600元被盯着不让拍视频",
+      "onboard_time": 1752288501,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 357741,
@@ -185,14 +209,6 @@
       "onboard_time": 1752281780,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 350210,
-      "num": 350210,
-      "word": "印度坠机驾驶舱语音记录公开",
-      "onboard_time": 1752286641,
-      "rank": 13,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 343263,
@@ -241,14 +257,6 @@
       "onboard_time": 1752243685,
       "rank": 41,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 321867,
-      "num": 321867,
-      "word": "T1对战AL",
-      "onboard_time": 1752280460,
-      "rank": 22,
-      "category": "电竞"
     },
     {
       "raw_hot": 315611,
@@ -307,12 +315,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 251749,
-      "num": 251749,
-      "word": "一顿饭花3600元被盯着不让拍视频",
-      "onboard_time": 1752288501,
-      "rank": 9,
-      "category": "舆论监督"
+      "raw_hot": 256783,
+      "num": 256783,
+      "word": "有哪些姓氏一听就是南方人",
+      "onboard_time": 1752290840,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 242142,
@@ -339,14 +347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 234202,
-      "num": 234202,
-      "word": "有哪些姓氏一听就是南方人",
-      "onboard_time": 1752290840,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 231178,
       "num": 231178,
       "word": "文化中国行中国再添一处世界遗产",
@@ -355,12 +355,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 230123,
+      "num": 230123,
+      "word": "NBA",
+      "onboard_time": 1752292101,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220395,
       "num": 213605,
       "word": "蒯曼晋级美国大满贯四强",
       "onboard_time": 1752286700,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 220127,
+      "num": 256189,
+      "word": "扫毒风暴今日开播",
+      "onboard_time": 1752290721,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 219373,
@@ -388,18 +404,10 @@
     },
     {
       "raw_hot": 214381,
-      "num": 239698,
+      "num": 251651,
       "word": "书卷一梦彩蛋是那个骑腰吻",
       "onboard_time": 1752289641,
       "rank": 16,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 213068,
-      "num": 237421,
-      "word": "扫毒风暴今日开播",
-      "onboard_time": 1752290721,
-      "rank": 17,
       "category": "剧集"
     },
     {
@@ -435,6 +443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 197247,
+      "num": 197247,
+      "word": "ADHD 憋尿",
+      "onboard_time": 1752288381,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 195492,
       "num": 213873,
       "word": "朝雪录",
@@ -452,19 +468,11 @@
     },
     {
       "raw_hot": 191434,
-      "num": 191434,
+      "num": 250305,
       "word": "大妈高铁上免提狂聊在小桌板上抠脚",
       "onboard_time": 1752290661,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 189252,
-      "num": 189252,
-      "word": "NBA",
-      "onboard_time": 1752292101,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 186748,
@@ -499,12 +507,12 @@
       "category": "民生新闻,艺人"
     },
     {
-      "raw_hot": 177450,
-      "num": 177450,
-      "word": "ADHD 憋尿",
-      "onboard_time": 1752288381,
-      "rank": 27,
-      "category": "情感"
+      "raw_hot": 174071,
+      "num": 174071,
+      "word": "徐志胜看着wakuku叫labubu",
+      "onboard_time": 1752291981,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 173819,
@@ -555,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158533,
+      "num": 146474,
+      "word": "王楚钦敬礼庆祝胜利",
+      "onboard_time": 1752293061,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157339,
       "num": 157339,
       "word": "Grace回应淘汰",
@@ -587,14 +603,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 153059,
-      "num": 153059,
-      "word": "徐志胜看着wakuku叫labubu",
-      "onboard_time": 1752291981,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 151679,
       "num": 154995,
       "word": "龚俊人笨又勤快具象化了",
@@ -604,7 +612,7 @@
     },
     {
       "raw_hot": 151569,
-      "num": 151569,
+      "num": 259616,
       "word": "烂尾楼业主赢了结果是钱房两空",
       "onboard_time": 1752288861,
       "rank": 33,
@@ -651,6 +659,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 142939,
+      "num": 142939,
+      "word": "王楚钦战胜达科第二局最关键",
+      "onboard_time": 1752293061,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140527,
       "num": 140527,
       "word": "陈幸同0比4蒯曼",
@@ -667,12 +683,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133652,
+      "num": 133652,
+      "word": "韩红大张伟一起调侃汪峰",
+      "onboard_time": 1752292761,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 132872,
+      "num": 131207,
+      "word": "金旻奎泡泡",
+      "onboard_time": 1752292281,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130268,
       "num": 130268,
       "word": "坟头上的草青了又黄 黄了又青",
       "onboard_time": 1752290601,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129549,
+      "num": 129549,
+      "word": "王楚钦微笑三连",
+      "onboard_time": 1752293061,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 128254,
@@ -689,6 +729,14 @@
       "onboard_time": 1752291801,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127065,
+      "num": 127065,
+      "word": "孙悟空泳衣",
+      "onboard_time": 1752289641,
+      "rank": 38,
+      "category": "休闲"
     },
     {
       "raw_hot": 126391,
@@ -721,6 +769,14 @@
       "onboard_time": 1752290961,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124508,
+      "num": 124508,
+      "word": "闲置太久的鞋子不要穿出门",
+      "onboard_time": 1752292761,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 122379,
@@ -771,6 +827,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 120122,
+      "num": 120122,
+      "word": "体育解说可以偏向但不能丢了底线",
+      "onboard_time": 1752288681,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 119253,
+      "num": 119253,
+      "word": "场周",
+      "onboard_time": 1752292581,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 117720,
       "num": 117720,
       "word": "李佳薇谭薇相互搀扶好好笑",
@@ -803,20 +875,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115469,
-      "num": 115469,
-      "word": "金旻奎泡泡",
-      "onboard_time": 1752292281,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 114875,
       "num": 114875,
       "word": "书卷一梦大结局",
       "onboard_time": 1752229642,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114186,
+      "num": 114186,
+      "word": "MSI",
+      "onboard_time": 1752293181,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 114153,
@@ -828,11 +900,19 @@
     },
     {
       "raw_hot": 113105,
-      "num": 415736,
+      "num": 458353,
       "word": "天舟九号垂直转运",
       "onboard_time": 1752280821,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 111532,
+      "num": 111532,
+      "word": "外卖三国杀",
+      "onboard_time": 1752289700,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 111237,
@@ -897,14 +977,6 @@
       "onboard_time": 1752292101,
       "rank": 48,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 102737,
-      "num": 102737,
-      "word": "场周",
-      "onboard_time": 1752292581,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 102460,

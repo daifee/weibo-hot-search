@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752292670340,
+  "endTime": 1752293249188,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -1916,7 +1916,7 @@
     },
     {
       "raw_hot": 979820,
-      "num": 251089,
+      "num": 259178,
       "word": "MaggieQ结婚",
       "onboard_time": 1752290421,
       "rank": 10,
@@ -2195,6 +2195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 909862,
+      "num": 258487,
+      "word": "男子灌面汤呛死妻子案最新进展",
+      "onboard_time": 1752289280,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 907572,
       "num": 907572,
       "word": "日本末日预言",
@@ -2208,14 +2216,6 @@
       "word": "K1373次列车上砸窗男子并未被拘留",
       "onboard_time": 1751533282,
       "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 901221,
-      "num": 246966,
-      "word": "男子灌面汤呛死妻子案最新进展",
-      "onboard_time": 1752289280,
-      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -6771,6 +6771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 413192,
+      "num": 413192,
+      "word": "T1对战AL",
+      "onboard_time": 1752280460,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 412261,
       "num": 202963,
       "word": "李福贵自曝19岁结婚一年后分开",
@@ -7411,6 +7419,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 374768,
+      "num": 374768,
+      "word": "印度坠机驾驶舱语音记录公开",
+      "onboard_time": 1752286641,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 374750,
       "num": 385440,
       "word": "娜扎你也会怀念十八岁的自己吗",
@@ -7580,7 +7596,7 @@
     },
     {
       "raw_hot": 366283,
-      "num": 241817,
+      "num": 257125,
       "word": "美团外卖",
       "onboard_time": 1752286820,
       "rank": 15,
@@ -7753,6 +7769,14 @@
       "onboard_time": 1752057444,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 359954,
+      "num": 359954,
+      "word": "一顿饭花3600元被盯着不让拍视频",
+      "onboard_time": 1752288501,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 359810,
@@ -7977,14 +8001,6 @@
       "onboard_time": 1752196581,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 350210,
-      "num": 350210,
-      "word": "印度坠机驾驶舱语音记录公开",
-      "onboard_time": 1752286641,
-      "rank": 13,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 350132,
@@ -8737,14 +8753,6 @@
       "onboard_time": 1752240026,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 321867,
-      "num": 321867,
-      "word": "T1对战AL",
-      "onboard_time": 1752280460,
-      "rank": 22,
-      "category": "电竞"
     },
     {
       "raw_hot": 321396,
@@ -10955,6 +10963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256783,
+      "num": 256783,
+      "word": "有哪些姓氏一听就是南方人",
+      "onboard_time": 1752290840,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 256673,
       "num": 256673,
       "word": "养老金",
@@ -11137,14 +11153,6 @@
       "onboard_time": 1752125001,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 251749,
-      "num": 251749,
-      "word": "一顿饭花3600元被盯着不让拍视频",
-      "onboard_time": 1752288501,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 251523,
@@ -11883,14 +11891,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 234202,
-      "num": 234202,
-      "word": "有哪些姓氏一听就是南方人",
-      "onboard_time": 1752290840,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 234146,
       "num": 234146,
       "word": "自己做饭1年吃成了营养不良",
@@ -12089,6 +12089,14 @@
       "onboard_time": 1751809765,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 230123,
+      "num": 230123,
+      "word": "NBA",
+      "onboard_time": 1751325438,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 230075,
@@ -12739,6 +12747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220127,
+      "num": 256189,
+      "word": "扫毒风暴今日开播",
+      "onboard_time": 1752290721,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220021,
       "num": 220021,
       "word": "网信办曝光一批网络黑嘴",
@@ -13108,7 +13124,7 @@
     },
     {
       "raw_hot": 214381,
-      "num": 239698,
+      "num": 251651,
       "word": "书卷一梦彩蛋是那个骑腰吻",
       "onboard_time": 1752289641,
       "rank": 16,
@@ -13263,14 +13279,6 @@
       "num": 273207,
       "word": "董晴说李光洁有一种破碎感",
       "onboard_time": 1751969902,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 213068,
-      "num": 237421,
-      "word": "扫毒风暴今日开播",
-      "onboard_time": 1752290721,
       "rank": 17,
       "category": "剧集"
     },
@@ -14851,6 +14859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 197247,
+      "num": 197247,
+      "word": "ADHD 憋尿",
+      "onboard_time": 1752288381,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 197196,
       "num": 197196,
       "word": "卢伟冰回应小米青年公寓定价1999元",
@@ -15596,7 +15612,7 @@
     },
     {
       "raw_hot": 191434,
-      "num": 191434,
+      "num": 250305,
       "word": "大妈高铁上免提狂聊在小桌板上抠脚",
       "onboard_time": 1752290661,
       "rank": 23,
@@ -15897,14 +15913,6 @@
       "onboard_time": 1752137482,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 189252,
-      "num": 189252,
-      "word": "NBA",
-      "onboard_time": 1751325438,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 189220,
@@ -17179,14 +17187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 177450,
-      "num": 177450,
-      "word": "ADHD 憋尿",
-      "onboard_time": 1752288381,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 177448,
       "num": 312642,
       "word": "时代少年团 团体工作室",
@@ -17657,6 +17657,14 @@
       "onboard_time": 1751726244,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174071,
+      "num": 174071,
+      "word": "徐志胜看着wakuku叫labubu",
+      "onboard_time": 1752291981,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 174067,
@@ -19827,6 +19835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158533,
+      "num": 146474,
+      "word": "王楚钦敬礼庆祝胜利",
+      "onboard_time": 1752293061,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158532,
       "num": 158532,
       "word": "A股放量512亿",
@@ -20723,14 +20739,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 153059,
-      "num": 153059,
-      "word": "徐志胜看着wakuku叫labubu",
-      "onboard_time": 1752291981,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 153055,
       "num": 153055,
       "word": "任嘉伦蓝盈莹主演风与潮杀青特辑",
@@ -21012,7 +21020,7 @@
     },
     {
       "raw_hot": 151569,
-      "num": 151569,
+      "num": 259616,
       "word": "烂尾楼业主赢了结果是钱房两空",
       "onboard_time": 1752288861,
       "rank": 33,
@@ -22601,6 +22609,14 @@
       "onboard_time": 1751983649,
       "rank": 34,
       "category": "网红"
+    },
+    {
+      "raw_hot": 142939,
+      "num": 142939,
+      "word": "王楚钦战胜达科第二局最关键",
+      "onboard_time": 1752293061,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 142934,
@@ -24371,6 +24387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 133652,
+      "num": 133652,
+      "word": "韩红大张伟一起调侃汪峰",
+      "onboard_time": 1752292761,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133649,
       "num": 133649,
       "word": "买演唱会门票竟被扣近20万元",
@@ -24537,6 +24561,14 @@
       "onboard_time": 1751608764,
       "rank": 48,
       "category": "民生新闻,科学科普"
+    },
+    {
+      "raw_hot": 132872,
+      "num": 131207,
+      "word": "金旻奎泡泡",
+      "onboard_time": 1752292281,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 132830,
@@ -25243,6 +25275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129549,
+      "num": 129549,
+      "word": "王楚钦微笑三连",
+      "onboard_time": 1752293061,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129495,
       "num": 129495,
       "word": "谁把我爸的衣服拿片场了",
@@ -25851,6 +25891,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 127065,
+      "num": 127065,
+      "word": "孙悟空泳衣",
+      "onboard_time": 1752289641,
+      "rank": 38,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 127018,
       "num": 127018,
       "word": "19万做硬装业主觉得像狗咬",
@@ -26369,6 +26417,14 @@
       "onboard_time": 1752039742,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 124508,
+      "num": 124508,
+      "word": "闲置太久的鞋子不要穿出门",
+      "onboard_time": 1752292761,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 124478,
@@ -27355,6 +27411,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 120122,
+      "num": 120122,
+      "word": "体育解说可以偏向但不能丢了底线",
+      "onboard_time": 1752288681,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120098,
       "num": 120098,
       "word": "好小众的关系户",
@@ -27601,6 +27665,14 @@
       "onboard_time": 1751887222,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 119253,
+      "num": 119253,
+      "word": "场周",
+      "onboard_time": 1752292581,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 119127,
@@ -28491,14 +28563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 115469,
-      "num": 115469,
-      "word": "金旻奎泡泡",
-      "onboard_time": 1752292281,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 115441,
       "num": 181027,
       "word": "谍战剧关注度越来越高",
@@ -29076,7 +29140,7 @@
     },
     {
       "raw_hot": 113105,
-      "num": 415736,
+      "num": 458353,
       "word": "天舟九号垂直转运",
       "onboard_time": 1752280821,
       "rank": 36,
@@ -29361,6 +29425,14 @@
       "onboard_time": 1751390177,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111532,
+      "num": 111532,
+      "word": "外卖三国杀",
+      "onboard_time": 1752289700,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 111523,
@@ -31225,14 +31297,6 @@
       "onboard_time": 1751545402,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 102737,
-      "num": 102737,
-      "word": "场周",
-      "onboard_time": 1752292581,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 102678,

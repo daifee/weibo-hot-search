@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/12 11:57:50
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/12 12:07:29
 </p>
 </blockquote>
 <p>
@@ -1659,6 +1659,12 @@ jump（热度：950362）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%81%8C%E9%9D%A2%E6%B1%A4%E5%91%9B%E6%AD%BB%E5%A6%BB%E5%AD%90%E6%A1%88%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%23" target="weibo">
+男子灌面汤呛死妻子案最新进展（热度：909862）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9C%AB%E6%97%A5%E9%A2%84%E8%A8%80%23" target="weibo">
 日本末日预言（热度：907572）
 </a>
@@ -1667,12 +1673,6 @@ jump（热度：950362）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23K1373%E6%AC%A1%E5%88%97%E8%BD%A6%E4%B8%8A%E7%A0%B8%E7%AA%97%E7%94%B7%E5%AD%90%E5%B9%B6%E6%9C%AA%E8%A2%AB%E6%8B%98%E7%95%99%23" target="weibo">
 K1373次列车上砸窗男子并未被拘留（热度：901265）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%81%8C%E9%9D%A2%E6%B1%A4%E5%91%9B%E6%AD%BB%E5%A6%BB%E5%AD%90%E6%A1%88%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%23" target="weibo">
-男子灌面汤呛死妻子案最新进展（热度：901221）
 </a>
 </li>
 
@@ -5091,6 +5091,12 @@ Jennie的rap好爽（热度：415645）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23T1%E5%AF%B9%E6%88%98AL%23" target="weibo">
+T1对战AL（热度：413192）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%A6%8F%E8%B4%B5%E8%87%AA%E6%9B%9D19%E5%B2%81%E7%BB%93%E5%A9%9A%E4%B8%80%E5%B9%B4%E5%90%8E%E5%88%86%E5%BC%80%23" target="weibo">
 李福贵自曝19岁结婚一年后分开（热度：412261）
 </a>
@@ -5571,6 +5577,12 @@ AL对战BLG（热度：375066）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%9D%A0%E6%9C%BA%E9%A9%BE%E9%A9%B6%E8%88%B1%E8%AF%AD%E9%9F%B3%E8%AE%B0%E5%BD%95%E5%85%AC%E5%BC%80%23" target="weibo">
+印度坠机驾驶舱语音记录公开（热度：374768）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E4%BD%A0%E4%B9%9F%E4%BC%9A%E6%80%80%E5%BF%B5%E5%8D%81%E5%85%AB%E5%B2%81%E7%9A%84%E8%87%AA%E5%B7%B1%E5%90%97%23" target="weibo">
 娜扎你也会怀念十八岁的自己吗（热度：374750）
 </a>
@@ -5829,6 +5841,12 @@ iPhone发烫怎么办（热度：362578）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E9%A1%BF%E9%A5%AD%E8%8A%B13600%E5%85%83%E8%A2%AB%E7%9B%AF%E7%9D%80%E4%B8%8D%E8%AE%A9%E6%8B%8D%E8%A7%86%E9%A2%91%23" target="weibo">
+一顿饭花3600元被盯着不让拍视频（热度：359954）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E8%88%B0%E8%88%AA%E6%AF%8D%E7%BC%96%E9%98%9F%E5%8F%88%E7%87%83%E5%8F%88%E5%B8%85%23" target="weibo">
 山东舰航母编队又燃又帅（热度：359810）
 </a>
@@ -5993,24 +6011,6 @@ iPhone发烫怎么办（热度：362578）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9D%90%E7%94%B7%E5%8F%8B%E8%BD%A6%E8%87%B4%E6%88%AA%E7%98%AB%E5%A5%B3%E7%94%9F%E7%A7%B0%E4%BA%8C%E4%BA%BA%E7%BD%91%E4%B8%8A%E7%9B%B8%E8%AF%86%23" target="weibo">
 坐男友车致截瘫女生称二人网上相识（热度：350379）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%9D%A0%E6%9C%BA%E9%A9%BE%E9%A9%B6%E8%88%B1%E8%AF%AD%E9%9F%B3%E8%AE%B0%E5%BD%95%E5%85%AC%E5%BC%80%23" target="weibo">
-印度坠机驾驶舱语音记录公开（热度：350210）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AB%A0%E5%AD%90%E6%80%A1%E8%B5%B5%E4%B8%BD%E9%A2%96%E9%85%B1%E5%9B%AD%E5%BC%84%E4%B8%8B%E6%9C%89%E9%87%8D%E8%A6%81%E6%88%8F%E4%BB%BD%23" target="weibo">
-章子怡赵丽颖酱园弄下有重要戏份（热度：350132）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%B2%E9%83%A8%E5%87%BA%E8%BD%A8%E4%BB%96%E4%BA%BA%E5%A6%BB%E5%AD%90%E6%88%96%E8%A2%AB%E5%BC%80%E9%99%A4%23" target="weibo">
-干部出轨他人妻子或被开除（热度：349960）
 </a>
 </li>
 

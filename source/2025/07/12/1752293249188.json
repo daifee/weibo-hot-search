@@ -1,0 +1,410 @@
+{
+  "runTime": 1752293249188,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 749920,
+        "num": 1119987,
+        "word": "国乒无缘包揽五冠",
+        "onboard_time": 1752285560,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 504014,
+        "num": 504014,
+        "word": "主人称现在靠网红狗大黄过活",
+        "onboard_time": 1752285681,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29624,
+        "num": 458353,
+        "word": "天舟九号垂直转运",
+        "onboard_time": 1752280821,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 413192,
+        "num": 413192,
+        "word": "T1对战AL",
+        "onboard_time": 1752280460,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 374768,
+        "num": 374768,
+        "word": "印度坠机驾驶舱语音记录公开",
+        "onboard_time": 1752286641,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 359954,
+        "num": 359954,
+        "word": "一顿饭花3600元被盯着不让拍视频",
+        "onboard_time": 1752288501,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 341452,
+        "num": 341452,
+        "word": "房主任女儿",
+        "onboard_time": 1752287901,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311455,
+        "num": 311455,
+        "word": "达科挑战王楚钦发球失败",
+        "onboard_time": 1752287421,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259738,
+        "num": 259738,
+        "word": "单依纯得知Grace淘汰后黑脸",
+        "onboard_time": 1752278179,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142209,
+        "num": 259616,
+        "word": "烂尾楼业主赢了结果是钱房两空",
+        "onboard_time": 1752288861,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 935825,
+        "num": 259178,
+        "word": "MaggieQ结婚",
+        "onboard_time": 1752290421,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 909862,
+        "num": 258487,
+        "word": "男子灌面汤呛死妻子案最新进展",
+        "onboard_time": 1752289280,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 811143,
+        "num": 258171,
+        "word": "张檬儿子便血",
+        "onboard_time": 1752284601,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356587,
+        "num": 257869,
+        "word": "淘宝闪购",
+        "onboard_time": 1752282021,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 103095,
+        "num": 257526,
+        "word": "印度航空空难初步调查报告",
+        "onboard_time": 1752281721,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276235,
+        "num": 257125,
+        "word": "美团外卖",
+        "onboard_time": 1752286820,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 256783,
+        "num": 256783,
+        "word": "有哪些姓氏一听就是南方人",
+        "onboard_time": 1752290840,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220127,
+        "num": 256189,
+        "word": "扫毒风暴今日开播",
+        "onboard_time": 1752290721,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206303,
+        "num": 254046,
+        "word": "TF家族蓝队",
+        "onboard_time": 1752283640,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197897,
+        "num": 251651,
+        "word": "书卷一梦彩蛋是那个骑腰吻",
+        "onboard_time": 1752289641,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156626,
+        "num": 250305,
+        "word": "大妈高铁上免提狂聊在小桌板上抠脚",
+        "onboard_time": 1752290661,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249639,
+        "num": 249639,
+        "word": "警方通报青甘大环线三车12胎被扎",
+        "onboard_time": 1752289401,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230123,
+        "num": 230123,
+        "word": "NBA",
+        "onboard_time": 1752292101,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211782,
+        "num": 211782,
+        "word": "毒拖鞋",
+        "onboard_time": 1752289100,
+        "rank": 23,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 205634,
+        "num": 205634,
+        "word": "未婚女子退税发现自己被结婚8年",
+        "onboard_time": 1752280160,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197247,
+        "num": 197247,
+        "word": "ADHD 憋尿",
+        "onboard_time": 1752288381,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174071,
+        "num": 174071,
+        "word": "徐志胜看着wakuku叫labubu",
+        "onboard_time": 1752291981,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159877,
+        "num": 159877,
+        "word": "国乒女队三大主力爆冷出局",
+        "onboard_time": 1752283760,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154533,
+        "num": 154533,
+        "word": "王楚钦4比2达科",
+        "onboard_time": 1752288559,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150353,
+        "num": 150353,
+        "word": "GAI听到名次秒变脸",
+        "onboard_time": 1752276378,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 768000,
+        "num": 147441,
+        "word": "美团免单",
+        "onboard_time": 1752286761,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 158533,
+        "num": 146474,
+        "word": "王楚钦敬礼庆祝胜利",
+        "onboard_time": 1752293061,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142939,
+        "num": 142939,
+        "word": "王楚钦战胜达科第二局最关键",
+        "onboard_time": 1752293061,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139974,
+        "num": 139974,
+        "word": "王楚钦气到扇自己巴掌",
+        "onboard_time": 1752286520,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133652,
+        "num": 133652,
+        "word": "韩红大张伟一起调侃汪峰",
+        "onboard_time": 1752292761,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132593,
+        "num": 132593,
+        "word": "十分钟很短但这是她30年的痛苦",
+        "onboard_time": 1752286700,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132872,
+        "num": 131207,
+        "word": "金旻奎泡泡",
+        "onboard_time": 1752292281,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129549,
+        "num": 129549,
+        "word": "王楚钦微笑三连",
+        "onboard_time": 1752293061,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127065,
+        "num": 127065,
+        "word": "孙悟空泳衣",
+        "onboard_time": 1752289641,
+        "rank": 38,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 124508,
+        "num": 124508,
+        "word": "闲置太久的鞋子不要穿出门",
+        "onboard_time": 1752292761,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123292,
+        "num": 123292,
+        "word": "西夏陵成功申遗",
+        "onboard_time": 1752246505,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 121659,
+        "num": 121659,
+        "word": "微笑一号店长沙站人头数",
+        "onboard_time": 1752290781,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120122,
+        "num": 120122,
+        "word": "体育解说可以偏向但不能丢了底线",
+        "onboard_time": 1752288681,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119253,
+        "num": 119253,
+        "word": "场周",
+        "onboard_time": 1752292581,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116947,
+        "num": 116947,
+        "word": "杭州大莲花说王源太红了",
+        "onboard_time": 1752290840,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116573,
+        "num": 116573,
+        "word": "感觉图书馆的考公人和考研特别好区分",
+        "onboard_time": 1752287421,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114186,
+        "num": 114186,
+        "word": "MSI",
+        "onboard_time": 1752293181,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113372,
+        "num": 113372,
+        "word": "坟头上的草青了又黄 黄了又青",
+        "onboard_time": 1752290601,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111532,
+        "num": 111532,
+        "word": "外卖三国杀",
+        "onboard_time": 1752289700,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 102798,
+        "num": 110869,
+        "word": "中国女排提前晋级总决赛",
+        "onboard_time": 1752291801,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#这是中国式现代化的向海图强之路#"
+    }
+  }
+}
