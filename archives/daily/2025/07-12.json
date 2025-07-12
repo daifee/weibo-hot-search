@@ -1,6 +1,6 @@
 {
   "startTime": 1752251611895,
-  "endTime": 1752298036587,
+  "endTime": 1752299086789,
   "band_list": [
     {
       "raw_hot": 1306680,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1211385,
-      "num": 1211385,
+      "raw_hot": 1217268,
+      "num": 1217268,
       "word": "经济舱 血栓",
       "onboard_time": 1752294142,
       "rank": 16,
@@ -25,6 +25,14 @@
       "onboard_time": 1752282021,
       "rank": 11,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1072009,
+      "num": 1072009,
+      "word": "杨瀚森首秀",
+      "onboard_time": 1752297502,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1039259,
@@ -75,20 +83,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 875809,
-      "num": 875809,
+      "raw_hot": 881393,
+      "num": 881393,
       "word": "洪崖洞一游客遭陌生女子强拉拍照",
       "onboard_time": 1752295580,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 859861,
-      "num": 859861,
-      "word": "杨瀚森首秀",
-      "onboard_time": 1752297502,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 855599,
@@ -123,6 +123,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 719874,
+      "num": 719874,
+      "word": "免费奶茶",
+      "onboard_time": 1752296961,
+      "rank": 17,
+      "category": "互联网,美食"
+    },
+    {
+      "raw_hot": 652164,
+      "num": 652164,
+      "word": "姚译添默默地吐槽了一波",
+      "onboard_time": 1752295941,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 620368,
       "num": 404275,
       "word": "黄灿灿演我谈梓渝",
@@ -144,14 +160,6 @@
       "word": "单依纯得知Grace淘汰后黑脸",
       "onboard_time": 1752278179,
       "rank": 1,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 569712,
-      "num": 569712,
-      "word": "姚译添默默地吐槽了一波",
-      "onboard_time": 1752295941,
-      "rank": 4,
       "category": "综艺"
     },
     {
@@ -257,6 +265,14 @@
       "onboard_time": 1752294202,
       "rank": 20,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 411043,
+      "num": 237602,
+      "word": "买超回应新恋情",
+      "onboard_time": 1752298580,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 400744,
@@ -411,6 +427,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 271142,
+      "num": 271142,
+      "word": "贾静雯回应看权志龙演唱会争议",
+      "onboard_time": 1752297261,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 268312,
       "num": 268312,
       "word": "全季酒店回应女子半夜被老鼠咬醒",
@@ -443,12 +467,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 254869,
-      "num": 254869,
-      "word": "免费奶茶",
-      "onboard_time": 1752296961,
-      "rank": 17,
-      "category": "互联网,美食"
+      "raw_hot": 248889,
+      "num": 174555,
+      "word": "28岁胃癌前病变女生的忠告",
+      "onboard_time": 1752298221,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 242142,
@@ -464,6 +488,14 @@
       "word": "GAI表情",
       "onboard_time": 1752244345,
       "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 237442,
+      "num": 237442,
+      "word": "再见爱人节目组找过杨蒙恩",
+      "onboard_time": 1752297682,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -547,12 +579,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 205786,
+      "num": 233569,
+      "word": "杨瀚森得分上双",
+      "onboard_time": 1752298042,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203479,
       "num": 367816,
       "word": "易烊千玺献唱电影阿勒泰主题曲",
       "onboard_time": 1752295460,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 202482,
+      "num": 202482,
+      "word": "第二代居民身份证迎换证高峰",
+      "onboard_time": 1752297560,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198289,
@@ -611,12 +659,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 187932,
-      "num": 187932,
-      "word": "再见爱人节目组找过杨蒙恩",
-      "onboard_time": 1752297682,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 192650,
+      "num": 192650,
+      "word": "林昀儒vs张本智和",
+      "onboard_time": 1752297201,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 187825,
@@ -635,12 +683,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 186858,
-      "num": 186858,
-      "word": "林昀儒vs张本智和",
-      "onboard_time": 1752297201,
-      "rank": 34,
-      "category": "体育"
+      "raw_hot": 186778,
+      "num": 237036,
+      "word": "种地吧3收官",
+      "onboard_time": 1752298701,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 186748,
@@ -691,12 +739,12 @@
       "category": "民生新闻,艺人"
     },
     {
-      "raw_hot": 177278,
-      "num": 187896,
-      "word": "贾静雯回应看权志龙演唱会争议",
-      "onboard_time": 1752297261,
-      "rank": 26,
-      "category": "演出"
+      "raw_hot": 175923,
+      "num": 175923,
+      "word": "杨瀚森 惊艳",
+      "onboard_time": 1752298461,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 174071,
@@ -713,6 +761,14 @@
       "onboard_time": 1752238944,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172775,
+      "num": 172775,
+      "word": "LPL",
+      "onboard_time": 1752298101,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 172393,
@@ -755,6 +811,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 166156,
+      "num": 163644,
+      "word": "阴湿古早味漫展",
+      "onboard_time": 1752298941,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 162981,
       "num": 162981,
       "word": "黑队",
@@ -769,6 +833,30 @@
       "onboard_time": 1752236663,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161759,
+      "num": 161759,
+      "word": "猫耳直播",
+      "onboard_time": 1752297502,
+      "rank": 37,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 161541,
+      "num": 161541,
+      "word": "川航喂猪航班名不虚传",
+      "onboard_time": 1752298101,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 161302,
+      "num": 173365,
+      "word": "扫黑风暴班底4年后再拍扫毒",
+      "onboard_time": 1752298522,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 158533,
@@ -811,6 +899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 153191,
+      "num": 153191,
+      "word": "tabe BP",
+      "onboard_time": 1752298701,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 151679,
       "num": 154995,
       "word": "龚俊人笨又勤快具象化了",
@@ -835,12 +931,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 148779,
-      "num": 148779,
-      "word": "第二代居民身份证迎换证高峰",
-      "onboard_time": 1752297560,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 148743,
+      "num": 162305,
+      "word": "周杰伦用96秒让8090后集体破防",
+      "onboard_time": 1752297740,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 147641,
@@ -907,14 +1003,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 135700,
-      "num": 135700,
-      "word": "周杰伦用96秒让8090后集体破防",
-      "onboard_time": 1752297740,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 133652,
       "num": 133652,
       "word": "韩红大张伟一起调侃汪峰",
@@ -945,6 +1033,14 @@
       "onboard_time": 1752297201,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132316,
+      "num": 132316,
+      "word": "玉米 不减肥",
+      "onboard_time": 1752295941,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 130268,
@@ -1179,6 +1275,14 @@
       "category": "民生新闻,辟谣/通报"
     },
     {
+      "raw_hot": 113335,
+      "num": 187853,
+      "word": "王小利房主任 幸福的决心和意志",
+      "onboard_time": 1752297803,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113105,
       "num": 597858,
       "word": "天舟九号垂直转运",
@@ -1347,14 +1451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 93513,
-      "num": 187853,
-      "word": "王小利房主任 幸福的决心和意志",
-      "onboard_time": 1752297803,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 93186,
       "num": 80643,
       "word": "当宝宝突然有了眉毛",
@@ -1392,6 +1488,14 @@
       "word": "高考生疑被骗去缅甸母亲发声求助",
       "onboard_time": 1752245005,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88031,
+      "num": 238440,
+      "word": "重庆文旅回应游客遭陌生人强拉拍照",
+      "onboard_time": 1752297860,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -1491,6 +1595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 66873,
+      "num": 161547,
+      "word": "王楚钦回应下场对阵F勒布伦",
+      "onboard_time": 1752296482,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 65662,
       "num": 163754,
       "word": "杨瀚森开拓者首秀",
@@ -1512,14 +1624,6 @@
       "word": "演唱会退票为什么这么难",
       "onboard_time": 1752236063,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 62062,
-      "num": 187931,
-      "word": "重庆文旅回应游客遭陌生人强拉拍照",
-      "onboard_time": 1752297860,
-      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -1563,6 +1667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53978,
+      "num": 174879,
+      "word": "监拍老鼠熟练挪开粘鼠板",
+      "onboard_time": 1752298340,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53882,
       "num": 54399,
       "word": "枯萎之花上的眼泪",
@@ -1577,6 +1689,14 @@
       "onboard_time": 1752240326,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 52223,
+      "num": 973611,
+      "word": "净网2025来看1起侵犯公民个人信息案",
+      "onboard_time": 1752295941,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51634,
@@ -1603,11 +1723,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 47221,
-      "num": 867428,
-      "word": "净网2025来看1起侵犯公民个人信息案",
-      "onboard_time": 1752295941,
-      "rank": 2,
+      "raw_hot": 46843,
+      "num": 211629,
+      "word": "专案组五赴缅北挖白骨定铁证",
+      "onboard_time": 1752298759,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -1617,6 +1737,14 @@
       "onboard_time": 1752296781,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44471,
+      "num": 130042,
+      "word": "公厕扎马步已经快要我的命了",
+      "onboard_time": 1752298340,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 44239,
@@ -1632,6 +1760,14 @@
       "word": "品牌方回应冰箱放办公室突然爆炸",
       "onboard_time": 1752266294,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36114,
+      "num": 235666,
+      "word": "困在好评里的商家",
+      "onboard_time": 1752297803,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -1745,14 +1881,6 @@
       "onboard_time": 1752261375,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 19138,
-      "num": 187887,
-      "word": "困在好评里的商家",
-      "onboard_time": 1752297803,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18957,

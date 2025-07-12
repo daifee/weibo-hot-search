@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1752298036587,
+  "endTime": 1752299086789,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -835,6 +835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1217268,
+      "num": 1217268,
+      "word": "经济舱 血栓",
+      "onboard_time": 1752294142,
+      "rank": 16,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 1216933,
       "num": 1216933,
       "word": "孙菲菲说为王阳澄清是应王阳要求写的",
@@ -857,14 +865,6 @@
       "onboard_time": 1751771722,
       "rank": 0,
       "category": "艺人,剧集"
-    },
-    {
-      "raw_hot": 1211385,
-      "num": 1211385,
-      "word": "经济舱 血栓",
-      "onboard_time": 1752294142,
-      "rank": 16,
-      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 1208394,
@@ -1081,6 +1081,14 @@
       "onboard_time": 1752119902,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1072009,
+      "num": 1072009,
+      "word": "杨瀚森首秀",
+      "onboard_time": 1752297502,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1064761,
@@ -1395,8 +1403,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 875809,
-      "num": 875809,
+      "raw_hot": 881393,
+      "num": 881393,
       "word": "洪崖洞一游客遭陌生女子强拉拍照",
       "onboard_time": 1752295580,
       "rank": 9,
@@ -1457,14 +1465,6 @@
       "onboard_time": 1752147203,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 859861,
-      "num": 859861,
-      "word": "杨瀚森首秀",
-      "onboard_time": 1752297502,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 855599,
@@ -1939,6 +1939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 719874,
+      "num": 719874,
+      "word": "免费奶茶",
+      "onboard_time": 1752296961,
+      "rank": 17,
+      "category": "互联网,美食"
+    },
+    {
       "raw_hot": 713554,
       "num": 713554,
       "word": "公务员带薪服刑绝对不行",
@@ -2209,6 +2217,14 @@
       "onboard_time": 1751890103,
       "rank": 4,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 652164,
+      "num": 652164,
+      "word": "姚译添默默地吐槽了一波",
+      "onboard_time": 1752295941,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 651178,
@@ -2721,14 +2737,6 @@
       "onboard_time": 1751867544,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 569712,
-      "num": 569712,
-      "word": "姚译添默默地吐槽了一波",
-      "onboard_time": 1752295941,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 567795,
@@ -3945,6 +3953,14 @@
       "onboard_time": 1752221004,
       "rank": 5,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 411043,
+      "num": 237602,
+      "word": "买超回应新恋情",
+      "onboard_time": 1752298580,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 410974,
@@ -5835,6 +5851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 271142,
+      "num": 271142,
+      "word": "贾静雯回应看权志龙演唱会争议",
+      "onboard_time": 1752297261,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 270814,
       "num": 270814,
       "word": "男子3巴掌扇掉电梯门被判刑",
@@ -6339,14 +6363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 254869,
-      "num": 254869,
-      "word": "免费奶茶",
-      "onboard_time": 1752296961,
-      "rank": 17,
-      "category": "互联网,美食"
-    },
-    {
       "raw_hot": 254796,
       "num": 447008,
       "word": "教育局回应学生未报清北老师解散群聊",
@@ -6481,6 +6497,14 @@
       "onboard_time": 1751720663,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 248889,
+      "num": 174555,
+      "word": "28岁胃癌前病变女生的忠告",
+      "onboard_time": 1752298221,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 248652,
@@ -6713,6 +6737,14 @@
       "onboard_time": 1751789480,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 237442,
+      "num": 237442,
+      "word": "再见爱人节目组找过杨蒙恩",
+      "onboard_time": 1752297682,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 237291,
@@ -7899,6 +7931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205786,
+      "num": 233569,
+      "word": "杨瀚森得分上双",
+      "onboard_time": 1752298042,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205707,
       "num": 205707,
       "word": "给韩红一个爱豆她还你一个兵",
@@ -8113,6 +8153,14 @@
       "onboard_time": 1751808386,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202482,
+      "num": 202482,
+      "word": "第二代居民身份证迎换证高峰",
+      "onboard_time": 1752297560,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 202414,
@@ -8883,6 +8931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 192650,
+      "num": 192650,
+      "word": "林昀儒vs张本智和",
+      "onboard_time": 1752297201,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192538,
       "num": 192538,
       "word": "百事可乐直播",
@@ -9243,14 +9299,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 187932,
-      "num": 187932,
-      "word": "再见爱人节目组找过杨蒙恩",
-      "onboard_time": 1752297682,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 187825,
       "num": 187825,
       "word": "侯明昊生日会",
@@ -9355,12 +9403,12 @@
       "category": "电竞,综艺"
     },
     {
-      "raw_hot": 186858,
-      "num": 186858,
-      "word": "林昀儒vs张本智和",
-      "onboard_time": 1752297201,
-      "rank": 34,
-      "category": "体育"
+      "raw_hot": 186778,
+      "num": 237036,
+      "word": "种地吧3收官",
+      "onboard_time": 1752298701,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 186766,
@@ -9995,14 +10043,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 177278,
-      "num": 187896,
-      "word": "贾静雯回应看权志龙演唱会争议",
-      "onboard_time": 1752297261,
-      "rank": 26,
-      "category": "演出"
-    },
-    {
       "raw_hot": 177150,
       "num": 190664,
       "word": "老人被指为乘凉挤满餐厅占座",
@@ -10089,6 +10129,14 @@
       "onboard_time": 1751936062,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 175923,
+      "num": 175923,
+      "word": "杨瀚森 惊艳",
+      "onboard_time": 1752298461,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 175746,
@@ -10337,6 +10385,14 @@
       "onboard_time": 1751775683,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172775,
+      "num": 172775,
+      "word": "LPL",
+      "onboard_time": 1752298101,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 172772,
@@ -10907,6 +10963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166156,
+      "num": 163644,
+      "word": "阴湿古早味漫展",
+      "onboard_time": 1752298941,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 165969,
       "num": 165969,
       "word": "陈柏霖与女友将结婚",
@@ -11227,6 +11291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161759,
+      "num": 161759,
+      "word": "猫耳直播",
+      "onboard_time": 1752297502,
+      "rank": 37,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 161735,
       "num": 161735,
       "word": "荔枝酒酿冰奶",
@@ -11243,6 +11315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161541,
+      "num": 161541,
+      "word": "川航喂猪航班名不虚传",
+      "onboard_time": 1752298101,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 161387,
       "num": 161387,
       "word": "富人区学校毕业十五年后",
@@ -11257,6 +11337,14 @@
       "onboard_time": 1752245005,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161302,
+      "num": 173365,
+      "word": "扫黑风暴班底4年后再拍扫毒",
+      "onboard_time": 1752298522,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 161158,
@@ -11995,6 +12083,14 @@
       "category": "艺人,财经"
     },
     {
+      "raw_hot": 153191,
+      "num": 153191,
+      "word": "tabe BP",
+      "onboard_time": 1752298701,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 153143,
       "num": 203758,
       "word": "书卷一梦反转反转再反转",
@@ -12491,14 +12587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 148779,
-      "num": 148779,
-      "word": "第二代居民身份证迎换证高峰",
-      "onboard_time": 1752297560,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 148774,
       "num": 151648,
       "word": "900V对电混来说意味着什么",
@@ -12513,6 +12601,14 @@
       "onboard_time": 1751862504,
       "rank": 41,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 148743,
+      "num": 162305,
+      "word": "周杰伦用96秒让8090后集体破防",
+      "onboard_time": 1752297740,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 148672,
@@ -13987,14 +14083,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 135700,
-      "num": 135700,
-      "word": "周杰伦用96秒让8090后集体破防",
-      "onboard_time": 1752297740,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 135588,
       "num": 135588,
       "word": "张雨绮一出场哇声一片",
@@ -14369,6 +14457,14 @@
       "onboard_time": 1751816184,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 132316,
+      "num": 132316,
+      "word": "玉米 不减肥",
+      "onboard_time": 1752295941,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 132208,
@@ -16947,6 +17043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113335,
+      "num": 187853,
+      "word": "王小利房主任 幸福的决心和意志",
+      "onboard_time": 1752297803,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113256,
       "num": 113256,
       "word": "45岁警长田雨因公殉职",
@@ -19051,14 +19155,6 @@
       "category": "财经,教育"
     },
     {
-      "raw_hot": 93513,
-      "num": 187853,
-      "word": "王小利房主任 幸福的决心和意志",
-      "onboard_time": 1752297803,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 93454,
       "num": 93454,
       "word": "TE对战Gr",
@@ -19361,6 +19457,14 @@
       "onboard_time": 1752216741,
       "rank": 48,
       "category": "美食,休闲"
+    },
+    {
+      "raw_hot": 88031,
+      "num": 238440,
+      "word": "重庆文旅回应游客遭陌生人强拉拍照",
+      "onboard_time": 1752297860,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87565,
@@ -20419,6 +20523,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 66873,
+      "num": 161547,
+      "word": "王楚钦回应下场对阵F勒布伦",
+      "onboard_time": 1752296482,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66801,
       "num": 85706,
       "word": "孙颖莎懵懵比赞",
@@ -20649,14 +20761,6 @@
       "onboard_time": 1752056244,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 62062,
-      "num": 187931,
-      "word": "重庆文旅回应游客遭陌生人强拉拍照",
-      "onboard_time": 1752297860,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 61998,
@@ -21067,6 +21171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 53978,
+      "num": 174879,
+      "word": "监拍老鼠熟练挪开粘鼠板",
+      "onboard_time": 1752298340,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53931,
       "num": 120638,
       "word": "夏日运动企划",
@@ -21153,6 +21265,14 @@
       "onboard_time": 1751901624,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 52223,
+      "num": 973611,
+      "word": "净网2025来看1起侵犯公民个人信息案",
+      "onboard_time": 1752295941,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52010,
@@ -21371,11 +21491,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 47221,
-      "num": 867428,
-      "word": "净网2025来看1起侵犯公民个人信息案",
-      "onboard_time": 1752295941,
-      "rank": 2,
+      "raw_hot": 46843,
+      "num": 211629,
+      "word": "专案组五赴缅北挖白骨定铁证",
+      "onboard_time": 1752298759,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -21513,6 +21633,14 @@
       "onboard_time": 1751902645,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 44471,
+      "num": 130042,
+      "word": "公厕扎马步已经快要我的命了",
+      "onboard_time": 1752298340,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 44239,
@@ -22025,6 +22153,14 @@
       "onboard_time": 1751901624,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 36114,
+      "num": 235666,
+      "word": "困在好评里的商家",
+      "onboard_time": 1752297803,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35995,
@@ -22985,14 +23121,6 @@
       "onboard_time": 1751742016,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 19138,
-      "num": 187887,
-      "word": "困在好评里的商家",
-      "onboard_time": 1752297803,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18998,
