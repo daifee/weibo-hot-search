@@ -1,10 +1,10 @@
 {
   "startTime": 1752251611895,
-  "endTime": 1752293249188,
+  "endTime": 1752295072531,
   "band_list": [
     {
       "raw_hot": 1306680,
-      "num": 267739,
+      "num": 369280,
       "word": "张檬儿子便血",
       "onboard_time": 1752284601,
       "rank": 10,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1106037,
-      "num": 267682,
+      "num": 284747,
       "word": "淘宝闪购",
       "onboard_time": 1752282021,
       "rank": 11,
@@ -28,15 +28,23 @@
     },
     {
       "raw_hot": 979820,
-      "num": 259178,
+      "num": 359845,
       "word": "MaggieQ结婚",
       "onboard_time": 1752290421,
       "rank": 10,
       "category": "艺人"
     },
     {
+      "raw_hot": 966600,
+      "num": 374302,
+      "word": "男子灌面汤呛死妻子案最新进展",
+      "onboard_time": 1752289280,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 935175,
-      "num": 166025,
+      "num": 172701,
       "word": "美团免单",
       "onboard_time": 1752286761,
       "rank": 30,
@@ -59,14 +67,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 909862,
-      "num": 258487,
-      "word": "男子灌面汤呛死妻子案最新进展",
-      "onboard_time": 1752289280,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 855599,
       "num": 1136895,
       "word": "国乒无缘包揽五冠",
@@ -81,6 +81,14 @@
       "onboard_time": 1752246444,
       "rank": 1,
       "category": "演出"
+    },
+    {
+      "raw_hot": 778834,
+      "num": 1124613,
+      "word": "T1对战AL",
+      "onboard_time": 1752280460,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 603285,
@@ -99,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 562515,
+      "num": 357167,
+      "word": "黄灿灿演我谈梓渝",
+      "onboard_time": 1752293721,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 531054,
       "num": 531054,
       "word": "主人称现在靠网红狗大黄过活",
@@ -107,12 +123,52 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 515909,
+      "num": 515909,
+      "word": "房主任女儿",
+      "onboard_time": 1752287901,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 508272,
+      "num": 345197,
+      "word": "有哪些姓氏一听就是南方人",
+      "onboard_time": 1752290840,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 506826,
+      "num": 506826,
+      "word": "一顿饭花3600元被盯着不让拍视频",
+      "onboard_time": 1752288501,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 501647,
       "num": 501647,
       "word": "国乒女队三大主力爆冷出局",
       "onboard_time": 1752283760,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 498689,
+      "num": 498689,
+      "word": "大妈高铁上免提狂聊在小桌板上抠脚",
+      "onboard_time": 1752290661,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 480548,
+      "num": 480548,
+      "word": "AL遗憾止步MSI",
+      "onboard_time": 1752294202,
+      "rank": 6,
+      "category": "电竞"
     },
     {
       "raw_hot": 474885,
@@ -147,12 +203,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 413192,
-      "num": 413192,
-      "word": "T1对战AL",
-      "onboard_time": 1752280460,
-      "rank": 22,
-      "category": "电竞"
+      "raw_hot": 400726,
+      "num": 400726,
+      "word": "NBA",
+      "onboard_time": 1752292101,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 374768,
@@ -179,22 +235,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 362679,
-      "num": 362679,
-      "word": "房主任女儿",
-      "onboard_time": 1752287901,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 359954,
-      "num": 359954,
-      "word": "一顿饭花3600元被盯着不让拍视频",
-      "onboard_time": 1752288501,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 357741,
       "num": 357741,
       "word": "难听",
@@ -217,6 +257,14 @@
       "onboard_time": 1752246505,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 339688,
+      "num": 339688,
+      "word": "经济舱 血栓",
+      "onboard_time": 1752294142,
+      "rank": 16,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 337081,
@@ -259,12 +307,28 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 320970,
+      "num": 320969,
+      "word": "外战看AL",
+      "onboard_time": 1752294202,
+      "rank": 20,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 315611,
       "num": 315611,
       "word": "护士被同居男友杀害疑遭长期家暴",
       "onboard_time": 1752241586,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 307271,
+      "num": 321327,
+      "word": "扫毒风暴今日开播",
+      "onboard_time": 1752290721,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 293624,
@@ -283,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 274890,
+      "num": 274890,
+      "word": "烂尾楼业主赢了结果是钱房两空",
+      "onboard_time": 1752288861,
+      "rank": 33,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 268312,
       "num": 268312,
       "word": "全季酒店回应女子半夜被老鼠咬醒",
@@ -292,7 +364,7 @@
     },
     {
       "raw_hot": 267887,
-      "num": 267887,
+      "num": 347350,
       "word": "印度航空空难初步调查报告",
       "onboard_time": 1752281721,
       "rank": 9,
@@ -315,14 +387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 256783,
-      "num": 256783,
-      "word": "有哪些姓氏一听就是南方人",
-      "onboard_time": 1752290840,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 242142,
       "num": 242142,
       "word": "12.3%受访00后存款超30万",
@@ -337,6 +401,14 @@
       "onboard_time": 1752244345,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 237089,
+      "num": 237089,
+      "word": "梓渝超话首次登顶",
+      "onboard_time": 1752294861,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 235883,
@@ -355,28 +427,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 230123,
-      "num": 230123,
-      "word": "NBA",
-      "onboard_time": 1752292101,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 220395,
       "num": 213605,
       "word": "蒯曼晋级美国大满贯四强",
       "onboard_time": 1752286700,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 220127,
-      "num": 256189,
-      "word": "扫毒风暴今日开播",
-      "onboard_time": 1752290721,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 219373,
@@ -427,6 +483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209285,
+      "num": 209285,
+      "word": "T1战胜AL",
+      "onboard_time": 1752294261,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 198289,
       "num": 198289,
       "word": "没有重女轻男只是回归正常",
@@ -441,6 +505,14 @@
       "onboard_time": 1752251362,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197341,
+      "num": 174942,
+      "word": "比前夫哥更疯批的人出现了",
+      "onboard_time": 1752293481,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 197247,
@@ -465,14 +537,6 @@
       "onboard_time": 1752276799,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 191434,
-      "num": 250305,
-      "word": "大妈高铁上免提狂聊在小桌板上抠脚",
-      "onboard_time": 1752290661,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 186748,
@@ -523,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172393,
+      "num": 172393,
+      "word": "国漫终于有大女主复仇爽番了",
+      "onboard_time": 1752293541,
+      "rank": 31,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 172035,
       "num": 172035,
       "word": "肖战寄语两岸青年",
@@ -547,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166569,
+      "num": 166569,
+      "word": "MSI",
+      "onboard_time": 1752293181,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 162981,
       "num": 162981,
       "word": "黑队",
@@ -564,7 +644,7 @@
     },
     {
       "raw_hot": 158533,
-      "num": 146474,
+      "num": 149252,
       "word": "王楚钦敬礼庆祝胜利",
       "onboard_time": 1752293061,
       "rank": 31,
@@ -580,7 +660,7 @@
     },
     {
       "raw_hot": 156884,
-      "num": 156884,
+      "num": 172878,
       "word": "十分钟很短但这是她30年的痛苦",
       "onboard_time": 1752286700,
       "rank": 27,
@@ -609,14 +689,6 @@
       "onboard_time": 1752287060,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 151569,
-      "num": 259616,
-      "word": "烂尾楼业主赢了结果是钱房两空",
-      "onboard_time": 1752288861,
-      "rank": 33,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 150536,
@@ -843,6 +915,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 119037,
+      "num": 379251,
+      "word": "12306回应大妈光脚在小桌板上抠脚",
+      "onboard_time": 1752294322,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117720,
       "num": 117720,
       "word": "李佳薇谭薇相互搀扶好好笑",
@@ -857,6 +937,14 @@
       "onboard_time": 1752290840,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 116743,
+      "num": 116743,
+      "word": "子夜归",
+      "onboard_time": 1752293421,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 116353,
@@ -883,14 +971,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 114186,
-      "num": 114186,
-      "word": "MSI",
-      "onboard_time": 1752293181,
-      "rank": 46,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 114153,
       "num": 114153,
       "word": "警方回应中国游客在泰国遭持枪绑架",
@@ -900,11 +980,19 @@
     },
     {
       "raw_hot": 113105,
-      "num": 458353,
+      "num": 597858,
       "word": "天舟九号垂直转运",
       "onboard_time": 1752280821,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 111774,
+      "num": 111774,
+      "word": "艺术生0基础考上清华工科研究生",
+      "onboard_time": 1752293601,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 111532,
@@ -1017,6 +1105,14 @@
       "onboard_time": 1752234203,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 97917,
+      "num": 97917,
+      "word": "杨瀚森王楚钦同框",
+      "onboard_time": 1752294922,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 97850,
