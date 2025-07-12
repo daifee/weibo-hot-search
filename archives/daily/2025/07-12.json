@@ -1,6 +1,6 @@
 {
   "startTime": 1752251611895,
-  "endTime": 1752287582312,
+  "endTime": 1752292670340,
   "band_list": [
     {
       "raw_hot": 1306680,
@@ -27,6 +27,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 979820,
+      "num": 251089,
+      "word": "MaggieQ结婚",
+      "onboard_time": 1752290421,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 935175,
+      "num": 166025,
+      "word": "美团免单",
+      "onboard_time": 1752286761,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 930384,
       "num": 1148861,
       "word": "未婚女子退税发现自己被结婚8年",
@@ -41,6 +57,14 @@
       "onboard_time": 1752242245,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 901221,
+      "num": 246966,
+      "word": "男子灌面汤呛死妻子案最新进展",
+      "onboard_time": 1752289280,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 855599,
@@ -75,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 531054,
+      "num": 531054,
+      "word": "主人称现在靠网红狗大黄过活",
+      "onboard_time": 1752285681,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 501647,
       "num": 501647,
       "word": "国乒女队三大主力爆冷出局",
@@ -89,14 +121,6 @@
       "onboard_time": 1752272836,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 460861,
-      "num": 238411,
-      "word": "主人称现在靠网红狗大黄过活",
-      "onboard_time": 1752285681,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 450895,
@@ -132,11 +156,19 @@
     },
     {
       "raw_hot": 366283,
-      "num": 226047,
+      "num": 241817,
       "word": "美团外卖",
       "onboard_time": 1752286820,
       "rank": 15,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 362679,
+      "num": 362679,
+      "word": "房主任女儿",
+      "onboard_time": 1752287901,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 357741,
@@ -153,6 +185,14 @@
       "onboard_time": 1752281780,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 350210,
+      "num": 350210,
+      "word": "印度坠机驾驶舱语音记录公开",
+      "onboard_time": 1752286641,
+      "rank": 13,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 343263,
@@ -187,12 +227,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 330112,
+      "num": 330112,
+      "word": "达科挑战王楚钦发球失败",
+      "onboard_time": 1752287421,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 322977,
       "num": 322977,
       "word": "杨少华助理称死亡原因是肺衰竭",
       "onboard_time": 1752243685,
       "rank": 41,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 321867,
+      "num": 321867,
+      "word": "T1对战AL",
+      "onboard_time": 1752280460,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 315611,
@@ -235,12 +291,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 263857,
-      "num": 154551,
-      "word": "美团免单",
-      "onboard_time": 1752286761,
-      "rank": 30,
-      "category": "互联网"
+      "raw_hot": 266551,
+      "num": 266551,
+      "word": "警方通报青甘大环线三车12胎被扎",
+      "onboard_time": 1752289401,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 262973,
@@ -249,6 +305,14 @@
       "onboard_time": 1752276319,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 251749,
+      "num": 251749,
+      "word": "一顿饭花3600元被盯着不让拍视频",
+      "onboard_time": 1752288501,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 242142,
@@ -275,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 234202,
+      "num": 234202,
+      "word": "有哪些姓氏一听就是南方人",
+      "onboard_time": 1752290840,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 231178,
       "num": 231178,
       "word": "文化中国行中国再添一处世界遗产",
@@ -289,6 +361,14 @@
       "onboard_time": 1752286700,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 219373,
+      "num": 219373,
+      "word": "毒拖鞋",
+      "onboard_time": 1752289100,
+      "rank": 22,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 214733,
@@ -307,12 +387,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 213587,
-      "num": 213587,
-      "word": "T1对战AL",
-      "onboard_time": 1752280460,
-      "rank": 22,
-      "category": "电竞"
+      "raw_hot": 214381,
+      "num": 239698,
+      "word": "书卷一梦彩蛋是那个骑腰吻",
+      "onboard_time": 1752289641,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 213068,
+      "num": 237421,
+      "word": "扫毒风暴今日开播",
+      "onboard_time": 1752290721,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 211863,
@@ -328,14 +416,6 @@
       "word": "王楚钦气到扇自己巴掌",
       "onboard_time": 1752286520,
       "rank": 22,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 205438,
-      "num": 205438,
-      "word": "达科挑战王楚钦发球失败",
-      "onboard_time": 1752287421,
-      "rank": 24,
       "category": "体育"
     },
     {
@@ -371,6 +451,30 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 191434,
+      "num": 191434,
+      "word": "大妈高铁上免提狂聊在小桌板上抠脚",
+      "onboard_time": 1752290661,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189252,
+      "num": 189252,
+      "word": "NBA",
+      "onboard_time": 1752292101,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 186748,
+      "num": 186748,
+      "word": "王楚钦4比2达科",
+      "onboard_time": 1752288559,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185283,
       "num": 185283,
       "word": "妻子好心按摩致丈夫小脑梗死",
@@ -395,6 +499,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 177450,
+      "num": 177450,
+      "word": "ADHD 憋尿",
+      "onboard_time": 1752288381,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 173819,
       "num": 173819,
       "word": "领导让联系胡歌 胡歌真来了",
@@ -416,6 +528,14 @@
       "word": "TF家族红队",
       "onboard_time": 1752283520,
       "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 167245,
+      "num": 167245,
+      "word": "微笑一号店长沙站人头数",
+      "onboard_time": 1752290781,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -467,12 +587,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 153059,
+      "num": 153059,
+      "word": "徐志胜看着wakuku叫labubu",
+      "onboard_time": 1752291981,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151679,
       "num": 154995,
       "word": "龚俊人笨又勤快具象化了",
       "onboard_time": 1752287060,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151569,
+      "num": 151569,
+      "word": "烂尾楼业主赢了结果是钱房两空",
+      "onboard_time": 1752288861,
+      "rank": 33,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 150536,
@@ -531,12 +667,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130268,
+      "num": 130268,
+      "word": "坟头上的草青了又黄 黄了又青",
+      "onboard_time": 1752290601,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128254,
       "num": 128254,
       "word": "吴青峰 小情歌",
       "onboard_time": 1752245184,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127338,
+      "num": 127338,
+      "word": "中国女排提前晋级总决赛",
+      "onboard_time": 1752291801,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 126391,
@@ -563,6 +715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125210,
+      "num": 125210,
+      "word": "王楚钦半决赛对阵F勒布伦",
+      "onboard_time": 1752290961,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122379,
       "num": 122379,
       "word": "母亲做上百万个包子替亡子还债",
@@ -577,6 +737,14 @@
       "onboard_time": 1752284480,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 121213,
+      "num": 121213,
+      "word": "王楚钦晋级美国大满贯男单四强",
+      "onboard_time": 1752291740,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 121026,
@@ -611,6 +779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117297,
+      "num": 117297,
+      "word": "杭州大莲花说王源太红了",
+      "onboard_time": 1752290840,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 116353,
       "num": 116353,
       "word": "西夏9座王陵墓主人是谁",
@@ -625,6 +801,14 @@
       "onboard_time": 1752230962,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115469,
+      "num": 115469,
+      "word": "金旻奎泡泡",
+      "onboard_time": 1752292281,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 114875,
@@ -644,11 +828,19 @@
     },
     {
       "raw_hot": 113105,
-      "num": 113105,
+      "num": 415736,
       "word": "天舟九号垂直转运",
       "onboard_time": 1752280821,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 111237,
+      "num": 111237,
+      "word": "掌中宝 鸡屁股",
+      "onboard_time": 1752288861,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 109601,
@@ -689,6 +881,30 @@
       "onboard_time": 1752285681,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105600,
+      "num": 105600,
+      "word": "灌面汤呛死妻子案女方家属希望重判",
+      "onboard_time": 1752288080,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102811,
+      "num": 102811,
+      "word": "王一博高定亮相",
+      "onboard_time": 1752292101,
+      "rank": 48,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 102737,
+      "num": 102737,
+      "word": "场周",
+      "onboard_time": 1752292581,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 102460,
@@ -795,12 +1011,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 86796,
-      "num": 234686,
-      "word": "印度坠机驾驶舱语音记录公开",
-      "onboard_time": 1752286641,
-      "rank": 13,
-      "category": "海外新闻"
+      "raw_hot": 86515,
+      "num": 236648,
+      "word": "丁禹兮沈月cue十个勤天R1SE",
+      "onboard_time": 1752290301,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 83793,
@@ -987,6 +1203,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 49053,
+      "num": 122558,
+      "word": "世博会中国馆接待各国游客近80万",
+      "onboard_time": 1752291620,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44239,
       "num": 115248,
       "word": "英法达成联合核威慑",
@@ -1150,6 +1374,9 @@
   "hotgov_list": [
     {
       "word": "#努力创作更多讴歌时代精神的精品电影#"
+    },
+    {
+      "word": "#这是中国式现代化的向海图强之路#"
     }
   ]
 }
