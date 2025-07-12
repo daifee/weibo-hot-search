@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1752295072531,
+  "endTime": 1752295943190,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -740,7 +740,7 @@
     },
     {
       "raw_hot": 1306680,
-      "num": 369280,
+      "num": 408637,
       "word": "张檬儿子便血",
       "onboard_time": 1752284601,
       "rank": 10,
@@ -1204,7 +1204,7 @@
     },
     {
       "raw_hot": 979820,
-      "num": 359845,
+      "num": 406152,
       "word": "MaggieQ结婚",
       "onboard_time": 1752290421,
       "rank": 10,
@@ -1228,7 +1228,7 @@
     },
     {
       "raw_hot": 966600,
-      "num": 374302,
+      "num": 408226,
       "word": "男子灌面汤呛死妻子案最新进展",
       "onboard_time": 1752289280,
       "rank": 12,
@@ -1337,6 +1337,14 @@
       "onboard_time": 1751875461,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 912115,
+      "num": 1145938,
+      "word": "经济舱 血栓",
+      "onboard_time": 1752294142,
+      "rank": 16,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 898488,
@@ -1769,6 +1777,14 @@
       "onboard_time": 1752233004,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 749481,
+      "num": 749481,
+      "word": "大妈高铁上免提狂聊在小桌板上抠脚",
+      "onboard_time": 1752290661,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 747264,
@@ -2419,6 +2435,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 620368,
+      "num": 404275,
+      "word": "黄灿灿演我谈梓渝",
+      "onboard_time": 1752293721,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 619179,
       "num": 619179,
       "word": "G社拍的刘诗诗",
@@ -2715,14 +2739,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 562515,
-      "num": 357167,
-      "word": "黄灿灿演我谈梓渝",
-      "onboard_time": 1752293721,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 562464,
       "num": 562464,
       "word": "12.3%受访00后存款超30万",
@@ -2841,6 +2857,14 @@
       "onboard_time": 1752065663,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 543311,
+      "num": 543311,
+      "word": "AL遗憾止步MSI",
+      "onboard_time": 1752294202,
+      "rank": 6,
+      "category": "电竞"
     },
     {
       "raw_hot": 542685,
@@ -3108,7 +3132,7 @@
     },
     {
       "raw_hot": 508272,
-      "num": 345197,
+      "num": 401765,
       "word": "有哪些姓氏一听就是南方人",
       "onboard_time": 1752290840,
       "rank": 20,
@@ -3176,14 +3200,6 @@
       "word": "哈工程拟采购9955台空调",
       "onboard_time": 1752126202,
       "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 498689,
-      "num": 498689,
-      "word": "大妈高铁上免提狂聊在小桌板上抠脚",
-      "onboard_time": 1752290661,
-      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -3281,14 +3297,6 @@
       "onboard_time": 1752209483,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 480548,
-      "num": 480548,
-      "word": "AL遗憾止步MSI",
-      "onboard_time": 1752294202,
-      "rank": 6,
-      "category": "电竞"
     },
     {
       "raw_hot": 479417,
@@ -3859,6 +3867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 414117,
+      "num": 414117,
+      "word": "外战看AL",
+      "onboard_time": 1752294202,
+      "rank": 20,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 411893,
       "num": 693989,
       "word": "杨迪回应是不是偷偷do了",
@@ -4339,6 +4355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 367769,
+      "num": 367769,
+      "word": "梓渝超话首次登顶",
+      "onboard_time": 1752294861,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 367085,
       "num": 367085,
       "word": "鸟鸟是脱友2内容总导演",
@@ -4683,14 +4707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 339688,
-      "num": 339688,
-      "word": "经济舱 血栓",
-      "onboard_time": 1752294142,
-      "rank": 16,
-      "category": "健康医疗,民生新闻"
-    },
-    {
       "raw_hot": 338498,
       "num": 338498,
       "word": "因学生未报清北解散群聊老师已检讨",
@@ -4979,14 +4995,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 320970,
-      "num": 320969,
-      "word": "外战看AL",
-      "onboard_time": 1752294202,
-      "rank": 20,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 320395,
       "num": 320395,
       "word": "日本月薪水平",
@@ -5220,7 +5228,7 @@
     },
     {
       "raw_hot": 307271,
-      "num": 321327,
+      "num": 383195,
       "word": "扫毒风暴今日开播",
       "onboard_time": 1752290721,
       "rank": 17,
@@ -5393,6 +5401,14 @@
       "onboard_time": 1752118341,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 293090,
+      "num": 411064,
+      "word": "洪崖洞一游客遭陌生女子强拉拍照",
+      "onboard_time": 1752295580,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 292769,
@@ -5692,7 +5708,7 @@
     },
     {
       "raw_hot": 274890,
-      "num": 274890,
+      "num": 370086,
       "word": "烂尾楼业主赢了结果是钱房两空",
       "onboard_time": 1752288861,
       "rank": 33,
@@ -5876,7 +5892,7 @@
     },
     {
       "raw_hot": 267887,
-      "num": 347350,
+      "num": 403418,
       "word": "印度航空空难初步调查报告",
       "onboard_time": 1752281721,
       "rank": 9,
@@ -6665,14 +6681,6 @@
       "onboard_time": 1751945482,
       "rank": 13,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 237089,
-      "num": 237089,
-      "word": "梓渝超话首次登顶",
-      "onboard_time": 1752294861,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 237067,
@@ -7883,6 +7891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204972,
+      "num": 204972,
+      "word": "刘浩存双马尾",
+      "onboard_time": 1752295401,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204947,
       "num": 204947,
       "word": "沈梦辰锦绣芳华吻戏",
@@ -7969,6 +7985,14 @@
       "onboard_time": 1752197660,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203479,
+      "num": 367816,
+      "word": "易烊千玺献唱电影阿勒泰主题曲",
+      "onboard_time": 1752295460,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 203264,
@@ -8412,7 +8436,7 @@
     },
     {
       "raw_hot": 197341,
-      "num": 174942,
+      "num": 188790,
       "word": "比前夫哥更疯批的人出现了",
       "onboard_time": 1752293481,
       "rank": 28,
@@ -8664,6 +8688,14 @@
       "word": "朴成训道歉",
       "onboard_time": 1751899705,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 194751,
+      "num": 187147,
+      "word": "nctwish机场随舞",
+      "onboard_time": 1752295642,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -9251,6 +9283,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 186880,
+      "num": 379251,
+      "word": "12306回应大妈光脚在小桌板上抠脚",
+      "onboard_time": 1752294322,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186877,
       "num": 186877,
       "word": "刺痛退役前vs退役后",
@@ -9361,6 +9401,14 @@
       "onboard_time": 1752157765,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185793,
+      "num": 187597,
+      "word": "杨瀚森拿下首个助攻",
+      "onboard_time": 1752295221,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 185616,
@@ -9641,6 +9689,14 @@
       "onboard_time": 1752206543,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 180403,
+      "num": 188288,
+      "word": "白鹿李晨也离不开自助定律",
+      "onboard_time": 1752295101,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 180377,
@@ -13107,6 +13163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142439,
+      "num": 142439,
+      "word": "AG爱笑",
+      "onboard_time": 1752295880,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 142359,
       "num": 142359,
       "word": "诡秘第三集好不好看",
@@ -14153,6 +14217,14 @@
       "onboard_time": 1752061402,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132656,
+      "num": 132656,
+      "word": "比浏览记录更劲爆的是计算器记录",
+      "onboard_time": 1752295341,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 132577,
@@ -15795,6 +15867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120114,
+      "num": 120114,
+      "word": "子夜归",
+      "onboard_time": 1752293421,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120098,
       "num": 120098,
       "word": "aespa新歌幕后照",
@@ -15937,14 +16017,6 @@
       "onboard_time": 1751952442,
       "rank": 49,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 119037,
-      "num": 379251,
-      "word": "12306回应大妈光脚在小桌板上抠脚",
-      "onboard_time": 1752294322,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 118910,
@@ -16251,14 +16323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 116743,
-      "num": 116743,
-      "word": "子夜归",
-      "onboard_time": 1752293421,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 116735,
       "num": 116735,
       "word": "杨紫李现互谈10年前第一印象",
@@ -16345,6 +16409,14 @@
       "onboard_time": 1751963364,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 116316,
+      "num": 116316,
+      "word": "蒯曼说没想到4比0的比分",
+      "onboard_time": 1752295642,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 116270,
@@ -16505,6 +16577,14 @@
       "onboard_time": 1752065183,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115226,
+      "num": 115226,
+      "word": "贺峻霖车轮战连赢5把",
+      "onboard_time": 1752295762,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 115182,
@@ -16905,6 +16985,14 @@
       "onboard_time": 1752293601,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 111677,
+      "num": 111677,
+      "word": "伊藤美诚4比2桥本帆乃香",
+      "onboard_time": 1752295522,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 111532,
