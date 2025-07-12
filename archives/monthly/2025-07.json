@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752303072947,
+  "endTime": 1752305129318,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -243,20 +243,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2441299,
+      "num": 2441299,
+      "word": "免费奶茶",
+      "onboard_time": 1752296961,
+      "rank": 17,
+      "category": "互联网,美食"
+    },
+    {
       "raw_hot": 2431395,
       "num": 372781,
       "word": "田栩宁 孩子",
       "onboard_time": 1751767582,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2331471,
-      "num": 2331471,
-      "word": "免费奶茶",
-      "onboard_time": 1752296961,
-      "rank": 17,
-      "category": "互联网,美食"
     },
     {
       "raw_hot": 2285814,
@@ -1723,6 +1723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1075249,
+      "num": 1075249,
+      "word": "中山大学通报133人被取消录取资格",
+      "onboard_time": 1752300201,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1072009,
       "num": 1072009,
       "word": "杨瀚森首秀",
@@ -1921,14 +1929,6 @@
       "onboard_time": 1751341581,
       "rank": 10,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 988153,
-      "num": 988153,
-      "word": "中山大学通报133人被取消录取资格",
-      "onboard_time": 1752300201,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 986790,
@@ -3739,6 +3739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 679197,
+      "num": 679197,
+      "word": "卫生巾在新疆叫馕在上海叫贝果",
+      "onboard_time": 1752300801,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 678784,
       "num": 678784,
       "word": "缅北白家开发建设41个大型赌诈园区",
@@ -4931,20 +4939,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 560181,
-      "num": 560181,
-      "word": "卫生巾在新疆叫馕在上海叫贝果",
-      "onboard_time": 1752300801,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 559667,
       "num": 462918,
       "word": "电视剧花好官宣",
       "onboard_time": 1752032004,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 559564,
+      "num": 300331,
+      "word": "邢昭林弟弟被中戏录取",
+      "onboard_time": 1752303981,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 559320,
@@ -7011,6 +7019,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 409986,
+      "num": 300122,
+      "word": "左邓",
+      "onboard_time": 1752303500,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 409668,
       "num": 244136,
       "word": "女脱口秀演员 血肉疯长的声音",
@@ -7137,6 +7153,14 @@
       "onboard_time": 1751631624,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 405142,
+      "num": 391844,
+      "word": "28岁胃癌前病变女生的忠告",
+      "onboard_time": 1752298221,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 402933,
@@ -7329,14 +7353,6 @@
       "onboard_time": 1752205281,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 391844,
-      "num": 391844,
-      "word": "28岁胃癌前病变女生的忠告",
-      "onboard_time": 1752298221,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 391547,
@@ -8859,6 +8875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 324101,
+      "num": 324101,
+      "word": "杨幂不能既要我的喜欢又要我的微信",
+      "onboard_time": 1752301701,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 323730,
       "num": 323730,
       "word": "迪丽热巴金世佳携手打拐",
@@ -8961,6 +8985,14 @@
       "onboard_time": 1751946621,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 321222,
+      "num": 297248,
+      "word": "邢昭林家传减肥爆改吗",
+      "onboard_time": 1752303740,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 320413,
@@ -9641,6 +9673,14 @@
       "onboard_time": 1752041901,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 297175,
+      "num": 297175,
+      "word": "韩安冉否认与兜儿比生孩子",
+      "onboard_time": 1752301161,
+      "rank": 23,
+      "category": "网红"
     },
     {
       "raw_hot": 297159,
@@ -10833,14 +10873,6 @@
       "onboard_time": 1751603123,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 265265,
-      "num": 265265,
-      "word": "韩安冉否认与兜儿比生孩子",
-      "onboard_time": 1752301161,
-      "rank": 23,
-      "category": "网红"
     },
     {
       "raw_hot": 265196,
@@ -12123,6 +12155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 233983,
+      "num": 233983,
+      "word": "我的大观园带动文旅消费超1.2亿",
+      "onboard_time": 1752304641,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 233882,
       "num": 233882,
       "word": "马斯克准备明年参选",
@@ -12401,14 +12441,6 @@
       "onboard_time": 1751550864,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 228973,
-      "num": 264419,
-      "word": "杨幂不能既要我的喜欢又要我的微信",
-      "onboard_time": 1752301701,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 228967,
@@ -13547,6 +13579,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 212416,
+      "num": 212416,
+      "word": "独居女生的周末过得有多爽",
+      "onboard_time": 1752303922,
+      "rank": 25,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 212406,
       "num": 209900,
       "word": "蔡国庆和浙音第一吵起来了",
@@ -14115,6 +14155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205062,
+      "num": 205062,
+      "word": "主持人杨若天",
+      "onboard_time": 1752303622,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205058,
       "num": 205058,
       "word": "雷军直播称急用车推荐买小鹏G7",
@@ -14209,6 +14257,14 @@
       "onboard_time": 1752233063,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 204223,
+      "num": 204223,
+      "word": "桂瑞",
+      "onboard_time": 1752303861,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 204152,
@@ -15851,6 +15907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191808,
+      "num": 191808,
+      "word": "囚于永夜",
+      "onboard_time": 1752304160,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 191724,
       "num": 230324,
       "word": "冬去春来开机",
@@ -16473,6 +16537,14 @@
       "onboard_time": 1751815345,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 187210,
+      "num": 187210,
+      "word": "郭艾伦 跑男",
+      "onboard_time": 1752304581,
+      "rank": 30,
+      "category": "综艺,体育"
     },
     {
       "raw_hot": 187135,
@@ -17115,6 +17187,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 181187,
+      "num": 181187,
+      "word": "悬日",
+      "onboard_time": 1752303080,
+      "rank": 31,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 181162,
       "num": 374745,
       "word": "女子强占出租车避雨被驱赶狂叫",
@@ -17180,7 +17260,7 @@
     },
     {
       "raw_hot": 180770,
-      "num": 264571,
+      "num": 278520,
       "word": "付航别算了",
       "onboard_time": 1752300740,
       "rank": 18,
@@ -17785,6 +17865,14 @@
       "onboard_time": 1752298461,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175784,
+      "num": 175784,
+      "word": "歌手后续赛程",
+      "onboard_time": 1752300680,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 175746,
@@ -18619,6 +18707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170961,
+      "num": 170961,
+      "word": "豪丞",
+      "onboard_time": 1752303801,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170952,
       "num": 170952,
       "word": "俄媒称俄将放弃唯一航母",
@@ -18961,6 +19057,14 @@
       "onboard_time": 1751367982,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168128,
+      "num": 263302,
+      "word": "中山大学发布公告",
+      "onboard_time": 1752300560,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168119,
@@ -19947,14 +20051,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 160996,
-      "num": 160996,
-      "word": "歌手后续赛程",
-      "onboard_time": 1752300680,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 160991,
       "num": 160991,
       "word": "丁程鑫逐渐沈腾化",
@@ -20731,6 +20827,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 156195,
+      "num": 156195,
+      "word": "锦上添金广播剧",
+      "onboard_time": 1752304222,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 156181,
       "num": 156181,
       "word": "鹿晗电子好友上线",
@@ -21209,6 +21313,14 @@
       "onboard_time": 1751799806,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153102,
+      "num": 153102,
+      "word": "华晨宇专辑",
+      "onboard_time": 1752304701,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 153099,
@@ -22611,6 +22723,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 145755,
+      "num": 145755,
+      "word": "苏新皓 铲棒中控",
+      "onboard_time": 1752303021,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145736,
       "num": 209736,
       "word": "穿这些颜色容易招虫子",
@@ -23299,12 +23419,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141954,
+      "num": 141954,
+      "word": "花一万把labubu做在美甲上",
+      "onboard_time": 1752304821,
+      "rank": 44,
+      "category": "美妆,休闲"
+    },
+    {
       "raw_hot": 141936,
       "num": 275446,
       "word": "金泰亨裴秀智朴宝剑合照",
       "onboard_time": 1751884701,
       "rank": 19,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 141864,
+      "num": 141864,
+      "word": "嘻哈赢了付航",
+      "onboard_time": 1752304881,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 141861,
@@ -24676,7 +24812,7 @@
     },
     {
       "raw_hot": 135108,
-      "num": 135108,
+      "num": 154129,
       "word": "于是麦麦决定离家出走广播剧",
       "onboard_time": 1752302420,
       "rank": 45,
@@ -24801,6 +24937,14 @@
       "onboard_time": 1751966601,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134649,
+      "num": 301101,
+      "word": "云南警方回应高考生疑被骗去缅甸",
+      "onboard_time": 1752304160,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134642,
@@ -24977,14 +25121,6 @@
       "onboard_time": 1751891963,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 133484,
-      "num": 133484,
-      "word": "苏新皓 铲棒中控",
-      "onboard_time": 1752303021,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 133426,
@@ -25521,6 +25657,14 @@
       "onboard_time": 1751783002,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 131300,
+      "num": 131300,
+      "word": "短国也有娇夫了",
+      "onboard_time": 1752303861,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 131248,
@@ -27936,6 +28080,14 @@
       "word": "赵晓卉把你嘴借我用用",
       "onboard_time": 1751779341,
       "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 120643,
+      "num": 120643,
+      "word": "桂恒",
+      "onboard_time": 1752303500,
+      "rank": 48,
       "category": "综艺"
     },
     {
@@ -30657,6 +30809,14 @@
       "onboard_time": 1752103399,
       "rank": 42,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 109279,
+      "num": 298183,
+      "word": "公司团建5人中暑1人热射病进ICU",
+      "onboard_time": 1752299720,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109252,
@@ -34153,14 +34313,6 @@
       "onboard_time": 1752114562,
       "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 86045,
-      "num": 263302,
-      "word": "中山大学发布公告",
-      "onboard_time": 1752300560,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 86003,
