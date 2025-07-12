@@ -1,13 +1,37 @@
 {
   "startTime": 1752251611895,
-  "endTime": 1752277247596,
+  "endTime": 1752286133516,
   "band_list": [
+    {
+      "raw_hot": 1144660,
+      "num": 267739,
+      "word": "张檬儿子便血",
+      "onboard_time": 1752284601,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1106037,
+      "num": 267682,
+      "word": "淘宝闪购",
+      "onboard_time": 1752282021,
+      "rank": 11,
+      "category": "互联网"
+    },
     {
       "raw_hot": 1039259,
       "num": 1039259,
       "word": "女子发现酒店浴巾里有用过的安全套",
       "onboard_time": 1752249682,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 930384,
+      "num": 1148861,
+      "word": "未婚女子退税发现自己被结婚8年",
+      "onboard_time": 1752280160,
+      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -32,6 +56,30 @@
       "word": "王楚钦梁靖崑无缘男双决赛",
       "onboard_time": 1752276258,
       "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 600661,
+      "num": 600661,
+      "word": "单依纯得知Grace淘汰后黑脸",
+      "onboard_time": 1752278179,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 596916,
+      "num": 596916,
+      "word": "国乒无缘包揽五冠",
+      "onboard_time": 1752285560,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 501647,
+      "num": 501647,
+      "word": "国乒女队三大主力爆冷出局",
+      "onboard_time": 1752283760,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -91,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 330303,
+      "num": 330303,
+      "word": "民政局回应未婚女子被结婚8年",
+      "onboard_time": 1752280821,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 322977,
       "num": 322977,
       "word": "杨少华助理称死亡原因是肺衰竭",
@@ -99,12 +155,28 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 316087,
+      "num": 316087,
+      "word": "警方通报未婚女子发现自己被结婚8年",
+      "onboard_time": 1752281780,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 315611,
       "num": 315611,
       "word": "护士被同居男友杀害疑遭长期家暴",
       "onboard_time": 1752241586,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 301717,
+      "num": 301717,
+      "word": "TF家族蓝队",
+      "onboard_time": 1752283640,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 293624,
@@ -128,6 +200,14 @@
       "word": "全季酒店回应女子半夜被老鼠咬醒",
       "onboard_time": 1752241886,
       "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 267887,
+      "num": 267887,
+      "word": "印度航空空难初步调查报告",
+      "onboard_time": 1752281721,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -195,8 +275,24 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 195492,
+      "num": 195492,
+      "word": "朝雪录",
+      "onboard_time": 1752285560,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 193183,
+      "num": 237435,
+      "word": "王楚钦vs约奇克",
+      "onboard_time": 1752284961,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192669,
-      "num": 76892,
+      "num": 97464,
       "word": "婆婆一进门就去看睡觉的大孙子",
       "onboard_time": 1752276799,
       "rank": 30,
@@ -243,12 +339,52 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170246,
+      "num": 170246,
+      "word": "TF家族红队",
+      "onboard_time": 1752283520,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 164663,
+      "num": 164663,
+      "word": "主人称现在靠网红狗大黄过活",
+      "onboard_time": 1752285681,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 162981,
+      "num": 162981,
+      "word": "黑队",
+      "onboard_time": 1752282920,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 162571,
+      "num": 162571,
+      "word": "房主任脱口秀 封神",
+      "onboard_time": 1752285140,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162229,
       "num": 162229,
       "word": "诀爱",
       "onboard_time": 1752236663,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159787,
+      "num": 159787,
+      "word": "T1对战AL",
+      "onboard_time": 1752280460,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 157339,
@@ -299,6 +435,30 @@
       "category": "网红"
     },
     {
+      "raw_hot": 141749,
+      "num": 127140,
+      "word": "没有重女轻男只是回归正常",
+      "onboard_time": 1752285620,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 137190,
+      "num": 137190,
+      "word": "范丞丞说掌中宝是鸡屁股",
+      "onboard_time": 1752284601,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 134014,
+      "num": 134014,
+      "word": "原来荔枝变白就代表不新鲜了",
+      "onboard_time": 1752284541,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 128254,
       "num": 128254,
       "word": "吴青峰 小情歌",
@@ -315,12 +475,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126120,
+      "num": 126120,
+      "word": "已经没有容貌焦虑了",
+      "onboard_time": 1752281840,
+      "rank": 31,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 122379,
       "num": 122379,
       "word": "母亲做上百万个包子替亡子还债",
       "onboard_time": 1752251002,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121992,
+      "num": 121992,
+      "word": "印客机坠机前发动机燃料供应中断",
+      "onboard_time": 1752284480,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 120934,
@@ -337,6 +513,14 @@
       "onboard_time": 1752233004,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 119018,
+      "num": 119018,
+      "word": "中国女排vs加拿大女排",
+      "onboard_time": 1752285800,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 117720,
@@ -371,6 +555,14 @@
       "category": "民生新闻,辟谣/通报"
     },
     {
+      "raw_hot": 113105,
+      "num": 113105,
+      "word": "天舟九号垂直转运",
+      "onboard_time": 1752280821,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 109601,
       "num": 196363,
       "word": "中方回应美要韩采取限制中国措施",
@@ -387,12 +579,52 @@
       "category": "演出"
     },
     {
+      "raw_hot": 107563,
+      "num": 107563,
+      "word": "李斌暗怼YU7续航创纪录",
+      "onboard_time": 1752281780,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 106869,
       "num": 106869,
       "word": "鹿晗下周一要发17张自拍",
       "onboard_time": 1752248783,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 106726,
+      "num": 106726,
+      "word": "西夏9座王陵墓主人是谁",
+      "onboard_time": 1752285920,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106166,
+      "num": 106166,
+      "word": "差不多得了是对陈熠拼搏的不尊重",
+      "onboard_time": 1752285681,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 102460,
+      "num": 102460,
+      "word": "何炅cue了小兰花东方青苍",
+      "onboard_time": 1752281418,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 99664,
+      "num": 99664,
+      "word": "房主任 重生",
+      "onboard_time": 1752285081,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 99339,
@@ -417,6 +649,22 @@
       "onboard_time": 1752234203,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 97559,
+      "num": 97559,
+      "word": "国乒接连爆冷是球台问题吗",
+      "onboard_time": 1752285319,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 95859,
+      "num": 95859,
+      "word": "跑男这期被碳水做局了",
+      "onboard_time": 1752283400,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 94504,
@@ -507,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78489,
+      "num": 106799,
+      "word": "曹骏让粉丝帮选演讲服装",
+      "onboard_time": 1752284721,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 71635,
       "num": 239997,
       "word": "买2张演唱会门票只让退1张",
@@ -537,6 +793,14 @@
       "onboard_time": 1752276858,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 65662,
+      "num": 163754,
+      "word": "杨瀚森开拓者首秀",
+      "onboard_time": 1752285381,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 64606,
@@ -587,6 +851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 54711,
+      "num": 106901,
+      "word": "田中佑汰3比2A勒布伦",
+      "onboard_time": 1752285860,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 53882,
       "num": 54399,
       "word": "枯萎之花上的眼泪",
@@ -616,6 +888,14 @@
       "word": "法英将在乌克兰部署5万名士兵",
       "onboard_time": 1752261795,
       "rank": 43,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 44239,
+      "num": 115248,
+      "word": "英法达成联合核威慑",
+      "onboard_time": 1752286100,
+      "rank": 34,
       "category": "国际时政"
     },
     {
