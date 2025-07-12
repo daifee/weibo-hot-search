@@ -1,0 +1,410 @@
+{
+  "runTime": 1752331369485,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2171626,
+        "num": 2171626,
+        "word": "向往的生活 回归",
+        "onboard_time": 1752326422,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1325726,
+        "num": 1325726,
+        "word": "前乒乓国手要求孙颖莎对手懂点事儿",
+        "onboard_time": 1752327744,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40463,
+        "num": 1186230,
+        "word": "数读我国外贸发展新业态新模式",
+        "onboard_time": 1752325703,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1149463,
+        "num": 1149463,
+        "word": "第一次感受到1w有这么多",
+        "onboard_time": 1752306502,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 988000,
+        "num": 988000,
+        "word": "hi6后期",
+        "onboard_time": 1752326722,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 886095,
+        "num": 886095,
+        "word": "甘肃提级调查幼儿血铅异常问题",
+        "onboard_time": 1752327923,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 790635,
+        "num": 790635,
+        "word": "被骗至缅甸失联的高考生行程曝光",
+        "onboard_time": 1752326181,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 656875,
+        "num": 656875,
+        "word": "免费奶茶",
+        "onboard_time": 1752296961,
+        "rank": 7,
+        "category": "互联网,美食"
+      },
+      {
+        "raw_hot": 631303,
+        "num": 631303,
+        "word": "hi6",
+        "onboard_time": 1752322941,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215578,
+        "num": 547873,
+        "word": "拼车遭猥亵备忘录提示司机开到派出所",
+        "onboard_time": 1752328583,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 740551,
+        "num": 543679,
+        "word": "素人女孩被拍网友喊话于正",
+        "onboard_time": 1752323662,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 536842,
+        "num": 536842,
+        "word": "ye 退票",
+        "onboard_time": 1752325043,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 531592,
+        "num": 531592,
+        "word": "国务院食安办派出工作组指导督办",
+        "onboard_time": 1752327983,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 401001,
+        "num": 401001,
+        "word": "F4五月天演唱会合唱流星雨",
+        "onboard_time": 1752326602,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 62016,
+        "num": 398845,
+        "word": "景区称洪崖洞强拉拍照女子是商拍",
+        "onboard_time": 1752330023,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51870,
+        "num": 397036,
+        "word": "尹正BW开机甲",
+        "onboard_time": 1752330383,
+        "rank": 15,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 60036,
+        "num": 393129,
+        "word": "听自己的紫定行",
+        "onboard_time": 1752327323,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 127197,
+        "num": 390735,
+        "word": "韦雪拒绝与前男友同框",
+        "onboard_time": 1752324803,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 279353,
+        "num": 387327,
+        "word": "被锦绣芳华的糖刀切换伤到了",
+        "onboard_time": 1752330504,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27514,
+        "num": 385076,
+        "word": "外卖大战有骑手称要跑通宵",
+        "onboard_time": 1752330983,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383355,
+        "num": 383355,
+        "word": "外卖商战差不多就行了呗",
+        "onboard_time": 1752323962,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 391820,
+        "num": 378810,
+        "word": "19岁男生鼻子不舒服查出罕见癌症",
+        "onboard_time": 1752330204,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 355239,
+        "num": 355239,
+        "word": "王源伴舞摔倒了",
+        "onboard_time": 1752325882,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 283377,
+        "num": 283377,
+        "word": "曹格儿子Joe否认恋情",
+        "onboard_time": 1752323901,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280514,
+        "num": 280514,
+        "word": "发现一个夏天披头发不热的方法",
+        "onboard_time": 1752322522,
+        "rank": 24,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 253229,
+        "num": 253229,
+        "word": "印度男子被嘲靠女儿吃饭枪杀女儿",
+        "onboard_time": 1752328702,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 238562,
+        "num": 238562,
+        "word": "房主任",
+        "onboard_time": 1752321501,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294316,
+        "num": 234052,
+        "word": "王源薛之谦合唱了像风一样",
+        "onboard_time": 1752330144,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 223576,
+        "num": 223576,
+        "word": "林俊杰王心凌合唱当你爱你",
+        "onboard_time": 1752330204,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 206344,
+        "num": 206344,
+        "word": "KSG战胜TTG",
+        "onboard_time": 1752330983,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 650857,
+        "num": 206239,
+        "word": "周深录制综艺节目遭嘉宾拖拽",
+        "onboard_time": 1752317001,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205818,
+        "num": 205818,
+        "word": "27岁女子诬告同乡强奸被捕",
+        "onboard_time": 1752326181,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200429,
+        "num": 200429,
+        "word": "网红恩克半年吃110只羊",
+        "onboard_time": 1752325043,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 197597,
+        "num": 197597,
+        "word": "扫毒风暴第1集反派被大树穿胸",
+        "onboard_time": 1752328283,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195338,
+        "num": 195338,
+        "word": "翔霖",
+        "onboard_time": 1752327323,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190330,
+        "num": 190330,
+        "word": "张杰工作室真敢一刀不剪啊",
+        "onboard_time": 1752323901,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184472,
+        "num": 184472,
+        "word": "印度男子溜进学校宿舍性侵多名女童",
+        "onboard_time": 1752324021,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 172250,
+        "num": 172250,
+        "word": "90年35岁未婚女生的真实感受",
+        "onboard_time": 1752316041,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171737,
+        "num": 171737,
+        "word": "宋亚轩被泼刘耀文瞳孔地震",
+        "onboard_time": 1752327623,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33542,
+        "num": 171554,
+        "word": "王紫莹夺温网轮椅组女单冠军",
+        "onboard_time": 1752330563,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171463,
+        "num": 171463,
+        "word": "高温晒背2小时67岁阿姨开颅保命",
+        "onboard_time": 1752316701,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157195,
+        "num": 157195,
+        "word": "向往的生活",
+        "onboard_time": 1752330983,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143919,
+        "num": 143919,
+        "word": "台湾火箭在日本发射失败",
+        "onboard_time": 1752322522,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142468,
+        "num": 142468,
+        "word": "林忆莲把裤子当衣服穿",
+        "onboard_time": 1752327383,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141617,
+        "num": 141617,
+        "word": "张凯丽女儿晋级全国12强",
+        "onboard_time": 1752331343,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137555,
+        "num": 137555,
+        "word": "出租屋发现隐蔽摄像头当事女子发声",
+        "onboard_time": 1752328943,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137039,
+        "num": 137039,
+        "word": "遭养父虐待终身伤残女孩见到生父了",
+        "onboard_time": 1752329544,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133517,
+        "num": 133517,
+        "word": "f4五月天合照",
+        "onboard_time": 1752327144,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132909,
+        "num": 132909,
+        "word": "香奈儿镜头拉近美我一大跳",
+        "onboard_time": 1752330864,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120312,
+        "num": 120312,
+        "word": "五个词让生理期的女性感到绝望",
+        "onboard_time": 1752330563,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国将坚定不移走和平发展道路#"
+    }
+  }
+}
