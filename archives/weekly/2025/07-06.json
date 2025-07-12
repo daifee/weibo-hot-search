@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1752305129318,
+  "endTime": 1752306045192,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -1627,6 +1627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 796709,
+      "num": 796709,
+      "word": "邢昭林弟弟被中戏录取",
+      "onboard_time": 1752303981,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 796085,
       "num": 244857,
       "word": "3名初中生凌晨偷奔驰致严重车祸",
@@ -2811,14 +2819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 559564,
-      "num": 300331,
-      "word": "邢昭林弟弟被中戏录取",
-      "onboard_time": 1752303981,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 559320,
       "num": 559320,
       "word": "教体局通报15岁男孩考试后离世",
@@ -3643,6 +3643,14 @@
       "category": "民生新闻,体育"
     },
     {
+      "raw_hot": 447319,
+      "num": 391844,
+      "word": "28岁胃癌前病变女生的忠告",
+      "onboard_time": 1752298221,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 447242,
       "num": 447242,
       "word": "五星级酒店摆地摊日入3万",
@@ -3851,6 +3859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 424143,
+      "num": 300122,
+      "word": "左邓",
+      "onboard_time": 1752303500,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 424109,
       "num": 388029,
       "word": "黄子弘凡扶电梯摔倒女生",
@@ -4043,14 +4059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 409986,
-      "num": 300122,
-      "word": "左邓",
-      "onboard_time": 1752303500,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 409668,
       "num": 244136,
       "word": "女脱口秀演员 血肉疯长的声音",
@@ -4105,14 +4113,6 @@
       "onboard_time": 1751862686,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 405142,
-      "num": 391844,
-      "word": "28岁胃癌前病变女生的忠告",
-      "onboard_time": 1752298221,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 401897,
@@ -4305,6 +4305,14 @@
       "onboard_time": 1751789480,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 382173,
+      "num": 297248,
+      "word": "邢昭林家传减肥爆改吗",
+      "onboard_time": 1752303740,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 381325,
@@ -5123,14 +5131,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 321222,
-      "num": 297248,
-      "word": "邢昭林家传减肥爆改吗",
-      "onboard_time": 1752303740,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 320395,
       "num": 320395,
       "word": "日本月薪水平",
@@ -5723,6 +5723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 283134,
+      "num": 283134,
+      "word": "我的大观园带动文旅消费超1.2亿",
+      "onboard_time": 1752304641,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 281625,
       "num": 281625,
       "word": "恋与深空去中化",
@@ -6104,6 +6112,14 @@
       "word": "警方通报青甘大环线三车12胎被扎",
       "onboard_time": 1752289401,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 266484,
+      "num": 298183,
+      "word": "公司团建5人中暑1人热射病进ICU",
+      "onboard_time": 1752299720,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -7019,14 +7035,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 233983,
-      "num": 233983,
-      "word": "我的大观园带动文旅消费超1.2亿",
-      "onboard_time": 1752304641,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 233882,
       "num": 233882,
       "word": "马斯克准备明年参选",
@@ -7315,6 +7323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223977,
+      "num": 223977,
+      "word": "郭艾伦 跑男",
+      "onboard_time": 1752304581,
+      "rank": 30,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 223518,
       "num": 223518,
       "word": "七七事变",
@@ -7451,12 +7467,28 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 218924,
+      "num": 231695,
+      "word": "嘻哈赢了付航",
+      "onboard_time": 1752304881,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218442,
       "num": 218442,
       "word": "空腹爬楼一个月瘦10斤",
       "onboard_time": 1751967262,
       "rank": 32,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 218115,
+      "num": 218115,
+      "word": "花一万把labubu做在美甲上",
+      "onboard_time": 1752304821,
+      "rank": 44,
+      "category": "美妆,休闲"
     },
     {
       "raw_hot": 217692,
@@ -7883,6 +7915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209064,
+      "num": 209064,
+      "word": "主持人杨若天",
+      "onboard_time": 1752303622,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209059,
       "num": 209059,
       "word": "周深双语歌曲归来致敬先烈",
@@ -8089,14 +8129,6 @@
       "onboard_time": 1752047661,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 205062,
-      "num": 205062,
-      "word": "主持人杨若天",
-      "onboard_time": 1752303622,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 204947,
@@ -9027,6 +9059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193336,
+      "num": 152122,
+      "word": "时代峰峻",
+      "onboard_time": 1752305602,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193158,
       "num": 689820,
       "word": "王一博从时尚秀场聊到了晚饭时间",
@@ -9217,6 +9257,14 @@
       "onboard_time": 1751979383,
       "rank": 23,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 191102,
+      "num": 301101,
+      "word": "云南警方回应高考生疑被骗去缅甸",
+      "onboard_time": 1752304160,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190873,
@@ -9529,14 +9577,6 @@
       "onboard_time": 1751815345,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 187210,
-      "num": 187210,
-      "word": "郭艾伦 跑男",
-      "onboard_time": 1752304581,
-      "rank": 30,
-      "category": "综艺,体育"
     },
     {
       "raw_hot": 187135,
@@ -12187,6 +12227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155585,
+      "num": 191157,
+      "word": "华晨宇专辑",
+      "onboard_time": 1752304701,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 155571,
       "num": 155571,
       "word": "Melon曲线",
@@ -12401,14 +12449,6 @@
       "onboard_time": 1751799806,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 153102,
-      "num": 153102,
-      "word": "华晨宇专辑",
-      "onboard_time": 1752304701,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 153099,
@@ -13707,28 +13747,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 141954,
-      "num": 141954,
-      "word": "花一万把labubu做在美甲上",
-      "onboard_time": 1752304821,
-      "rank": 44,
-      "category": "美妆,休闲"
-    },
-    {
       "raw_hot": 141936,
       "num": 275446,
       "word": "金泰亨裴秀智朴宝剑合照",
       "onboard_time": 1751884701,
       "rank": 19,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 141864,
-      "num": 141864,
-      "word": "嘻哈赢了付航",
-      "onboard_time": 1752304881,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 141861,
@@ -14585,14 +14609,6 @@
       "onboard_time": 1751966601,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134649,
-      "num": 301101,
-      "word": "云南警方回应高考生疑被骗去缅甸",
-      "onboard_time": 1752304160,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134642,
@@ -15611,6 +15627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126902,
+      "num": 129620,
+      "word": "上海130万买的43平老破小",
+      "onboard_time": 1752305483,
+      "rank": 40,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 126893,
       "num": 126893,
       "word": "起猛了看见机器人给自己用充电宝",
@@ -15809,6 +15833,14 @@
       "onboard_time": 1752158786,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 125273,
+      "num": 125273,
+      "word": "因为姥爷 我恨了一罐八宝粥十七年",
+      "onboard_time": 1752305900,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 125244,
@@ -17051,6 +17083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116296,
+      "num": 116296,
+      "word": "情侣送外卖",
+      "onboard_time": 1752305840,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 116270,
       "num": 116270,
       "word": "暑假工招聘",
@@ -17129,6 +17169,14 @@
       "onboard_time": 1751857705,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 115747,
+      "num": 115747,
+      "word": "方媛怀三胎状态",
+      "onboard_time": 1752305962,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 115710,
@@ -18033,14 +18081,6 @@
       "onboard_time": 1752103399,
       "rank": 42,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 109279,
-      "num": 298183,
-      "word": "公司团建5人中暑1人热射病进ICU",
-      "onboard_time": 1752299720,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 109147,
@@ -20475,12 +20515,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75941,
+      "num": 129678,
+      "word": "反差广播剧",
+      "onboard_time": 1752305602,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 75725,
       "num": 151188,
       "word": "狗头萝莉回应精致摆摊被骂作秀",
       "onboard_time": 1751731884,
       "rank": 19,
       "category": "网红"
+    },
+    {
+      "raw_hot": 75681,
+      "num": 230562,
+      "word": "男子欲起诉父母返还十几万压岁钱",
+      "onboard_time": 1752305121,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75668,
@@ -21977,6 +22033,14 @@
       "onboard_time": 1751907738,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46148,
+      "num": 292656,
+      "word": "王皓傲娇表情包上线",
+      "onboard_time": 1752305540,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 45917,

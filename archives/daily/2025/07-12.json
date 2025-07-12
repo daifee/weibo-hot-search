@@ -1,6 +1,6 @@
 {
   "startTime": 1752251611895,
-  "endTime": 1752305129318,
+  "endTime": 1752306045192,
   "band_list": [
     {
       "raw_hot": 2441299,
@@ -131,6 +131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 796709,
+      "num": 796709,
+      "word": "邢昭林弟弟被中戏录取",
+      "onboard_time": 1752303981,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 778834,
       "num": 1124613,
       "word": "T1对战AL",
@@ -185,14 +193,6 @@
       "onboard_time": 1752278179,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 559564,
-      "num": 300331,
-      "word": "邢昭林弟弟被中戏录取",
-      "onboard_time": 1752303981,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 543311,
@@ -299,11 +299,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 447319,
+      "num": 391844,
+      "word": "28岁胃癌前病变女生的忠告",
+      "onboard_time": 1752298221,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 434618,
       "num": 434618,
       "word": "GAI听到名次秒变脸",
       "onboard_time": 1752276378,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 424143,
+      "num": 300122,
+      "word": "左邓",
+      "onboard_time": 1752303500,
+      "rank": 11,
       "category": "综艺"
     },
     {
@@ -323,22 +339,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 409986,
-      "num": 300122,
-      "word": "左邓",
-      "onboard_time": 1752303500,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 405142,
-      "num": 391844,
-      "word": "28岁胃癌前病变女生的忠告",
-      "onboard_time": 1752298221,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 400744,
       "num": 400744,
       "word": "杨瀚森拿下首个助攻",
@@ -353,6 +353,14 @@
       "onboard_time": 1752292101,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 382173,
+      "num": 297248,
+      "word": "邢昭林家传减肥爆改吗",
+      "onboard_time": 1752303740,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 374768,
@@ -451,14 +459,6 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 321222,
-      "num": 297248,
-      "word": "邢昭林家传减肥爆改吗",
-      "onboard_time": 1752303740,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 315611,
       "num": 315611,
       "word": "护士被同居男友杀害疑遭长期家暴",
@@ -507,6 +507,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 283134,
+      "num": 283134,
+      "word": "我的大观园带动文旅消费超1.2亿",
+      "onboard_time": 1752304641,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 278218,
       "num": 278218,
       "word": "陈楚生在燃什么",
@@ -552,6 +560,14 @@
       "word": "警方通报青甘大环线三车12胎被扎",
       "onboard_time": 1752289401,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 266484,
+      "num": 298183,
+      "word": "公司团建5人中暑1人热射病进ICU",
+      "onboard_time": 1752299720,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -603,20 +619,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 233983,
-      "num": 233983,
-      "word": "我的大观园带动文旅消费超1.2亿",
-      "onboard_time": 1752304641,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 231178,
       "num": 231178,
       "word": "文化中国行中国再添一处世界遗产",
       "onboard_time": 1752245664,
       "rank": 15,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 223977,
+      "num": 223977,
+      "word": "郭艾伦 跑男",
+      "onboard_time": 1752304581,
+      "rank": 30,
+      "category": "综艺,体育"
     },
     {
       "raw_hot": 220395,
@@ -633,6 +649,22 @@
       "onboard_time": 1752289100,
       "rank": 22,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 218924,
+      "num": 231695,
+      "word": "嘻哈赢了付航",
+      "onboard_time": 1752304881,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 218115,
+      "num": 218115,
+      "word": "花一万把labubu做在美甲上",
+      "onboard_time": 1752304821,
+      "rank": 44,
+      "category": "美妆,休闲"
     },
     {
       "raw_hot": 214733,
@@ -691,20 +723,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 209064,
+      "num": 209064,
+      "word": "主持人杨若天",
+      "onboard_time": 1752303622,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205786,
       "num": 233569,
       "word": "杨瀚森得分上双",
       "onboard_time": 1752298042,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 205062,
-      "num": 205062,
-      "word": "主持人杨若天",
-      "onboard_time": 1752303622,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 204223,
@@ -803,6 +835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193336,
+      "num": 152122,
+      "word": "时代峰峻",
+      "onboard_time": 1752305602,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192669,
       "num": 103341,
       "word": "婆婆一进门就去看睡觉的大孙子",
@@ -835,20 +875,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 191102,
+      "num": 301101,
+      "word": "云南警方回应高考生疑被骗去缅甸",
+      "onboard_time": 1752304160,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187825,
       "num": 187825,
       "word": "侯明昊生日会",
       "onboard_time": 1752297740,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 187210,
-      "num": 187210,
-      "word": "郭艾伦 跑男",
-      "onboard_time": 1752304581,
-      "rank": 30,
-      "category": "综艺,体育"
     },
     {
       "raw_hot": 186880,
@@ -1171,6 +1211,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 155585,
+      "num": 191157,
+      "word": "华晨宇专辑",
+      "onboard_time": 1752304701,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 155457,
       "num": 155457,
       "word": "一见钟情就是生理性喜欢",
@@ -1209,14 +1257,6 @@
       "onboard_time": 1752298701,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 153102,
-      "num": 153102,
-      "word": "华晨宇专辑",
-      "onboard_time": 1752304701,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 151679,
@@ -1307,22 +1347,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 141954,
-      "num": 141954,
-      "word": "花一万把labubu做在美甲上",
-      "onboard_time": 1752304821,
-      "rank": 44,
-      "category": "美妆,休闲"
-    },
-    {
-      "raw_hot": 141864,
-      "num": 141864,
-      "word": "嘻哈赢了付航",
-      "onboard_time": 1752304881,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 140527,
       "num": 140527,
       "word": "陈幸同0比4蒯曼",
@@ -1385,14 +1409,6 @@
       "onboard_time": 1752302001,
       "rank": 46,
       "category": "财经"
-    },
-    {
-      "raw_hot": 134649,
-      "num": 301101,
-      "word": "云南警方回应高考生疑被骗去缅甸",
-      "onboard_time": 1752304160,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 133652,
@@ -1499,6 +1515,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 126902,
+      "num": 129620,
+      "word": "上海130万买的43平老破小",
+      "onboard_time": 1752305483,
+      "rank": 40,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 126418,
       "num": 131091,
       "word": "杨瀚森击地妙传助攻队友暴扣",
@@ -1529,6 +1553,14 @@
       "onboard_time": 1752285800,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125273,
+      "num": 125273,
+      "word": "因为姥爷 我恨了一罐八宝粥十七年",
+      "onboard_time": 1752305900,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 125210,
@@ -1659,6 +1691,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116296,
+      "num": 116296,
+      "word": "情侣送外卖",
+      "onboard_time": 1752305840,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 115747,
+      "num": 115747,
+      "word": "方媛怀三胎状态",
+      "onboard_time": 1752305962,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115477,
       "num": 115477,
       "word": "锦绣芳华尺度",
@@ -1745,14 +1793,6 @@
       "onboard_time": 1752254001,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 109279,
-      "num": 298183,
-      "word": "公司团建5人中暑1人热射病进ICU",
-      "onboard_time": 1752299720,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 108792,
@@ -1987,6 +2027,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75941,
+      "num": 129678,
+      "word": "反差广播剧",
+      "onboard_time": 1752305602,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 75681,
+      "num": 230562,
+      "word": "男子欲起诉父母返还十几万压岁钱",
+      "onboard_time": 1752305121,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71635,
       "num": 239997,
       "word": "买2张演唱会门票只让退1张",
@@ -2169,6 +2225,14 @@
       "onboard_time": 1752296781,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46148,
+      "num": 292656,
+      "word": "王皓傲娇表情包上线",
+      "onboard_time": 1752305540,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 44471,
