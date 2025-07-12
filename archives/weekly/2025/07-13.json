@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752345294454,
+  "endTime": 1752346123859,
   "band_list": [
     {
       "raw_hot": 1250859,
@@ -427,6 +427,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 65068,
+      "num": 65068,
+      "word": "11年铁粉穿高定礼服看王源演唱会",
+      "onboard_time": 1752343456,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 62525,
       "num": 62525,
       "word": "赵雅芝千字长文感谢新白",
@@ -475,14 +483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43545,
-      "num": 43545,
-      "word": "11年铁粉穿高定礼服看王源演唱会",
-      "onboard_time": 1752343456,
-      "rank": 27,
-      "category": "演出"
-    },
-    {
       "raw_hot": 43408,
       "num": 51017,
       "word": "超人",
@@ -497,6 +497,14 @@
       "onboard_time": 1752341956,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24880,
+      "num": 24880,
+      "word": "房主任脱口秀",
+      "onboard_time": 1752345975,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 24348,
