@@ -1,6 +1,6 @@
 {
   "startTime": 1751733022416,
-  "endTime": 1752306045192,
+  "endTime": 1752309138362,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -665,6 +665,14 @@
       "onboard_time": 1751969123,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1398643,
+      "num": 407370,
+      "word": "第一次感受到1w有这么多",
+      "onboard_time": 1752306502,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 1397772,
@@ -1561,6 +1569,14 @@
       "onboard_time": 1751932221,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 826987,
+      "num": 399524,
+      "word": "田栩宁复工",
+      "onboard_time": 1752306202,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 821125,
@@ -2955,6 +2971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 539705,
+      "num": 539705,
+      "word": "郭艾伦 跑男",
+      "onboard_time": 1752304581,
+      "rank": 30,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 538982,
       "num": 538982,
       "word": "西夏陵成功申遗",
@@ -3644,7 +3668,7 @@
     },
     {
       "raw_hot": 447319,
-      "num": 391844,
+      "num": 417818,
       "word": "28岁胃癌前病变女生的忠告",
       "onboard_time": 1752298221,
       "rank": 30,
@@ -3891,6 +3915,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 420114,
+      "num": 420114,
+      "word": "公司团建5人中暑1人热射病进ICU",
+      "onboard_time": 1752299720,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 419904,
       "num": 430623,
       "word": "王楚钦3比1高承睿",
@@ -4001,6 +4033,14 @@
       "onboard_time": 1751986232,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 411693,
+      "num": 411693,
+      "word": "花一万把labubu做在美甲上",
+      "onboard_time": 1752304821,
+      "rank": 44,
+      "category": "美妆,休闲"
     },
     {
       "raw_hot": 411339,
@@ -4281,6 +4321,14 @@
       "onboard_time": 1752200839,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 386049,
+      "num": 386049,
+      "word": "时代峰峻",
+      "onboard_time": 1752305602,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 384674,
@@ -5275,6 +5323,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 313695,
+      "num": 313695,
+      "word": "相亲遛弯瘦了40斤",
+      "onboard_time": 1752306802,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 313506,
       "num": 343788,
       "word": "马斯克回应参选时间",
@@ -5724,7 +5780,7 @@
     },
     {
       "raw_hot": 283134,
-      "num": 283134,
+      "num": 412258,
       "word": "我的大观园带动文旅消费超1.2亿",
       "onboard_time": 1752304641,
       "rank": 23,
@@ -6112,14 +6168,6 @@
       "word": "警方通报青甘大环线三车12胎被扎",
       "onboard_time": 1752289401,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 266484,
-      "num": 298183,
-      "word": "公司团建5人中暑1人热射病进ICU",
-      "onboard_time": 1752299720,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -7323,14 +7371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 223977,
-      "num": 223977,
-      "word": "郭艾伦 跑男",
-      "onboard_time": 1752304581,
-      "rank": 30,
-      "category": "综艺,体育"
-    },
-    {
       "raw_hot": 223518,
       "num": 223518,
       "word": "七七事变",
@@ -7481,14 +7521,6 @@
       "onboard_time": 1751967262,
       "rank": 32,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 218115,
-      "num": 218115,
-      "word": "花一万把labubu做在美甲上",
-      "onboard_time": 1752304821,
-      "rank": 44,
-      "category": "美妆,休闲"
     },
     {
       "raw_hot": 217692,
@@ -8699,6 +8731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197322,
+      "num": 197322,
+      "word": "薄底皮鞋 男明星最好的医美",
+      "onboard_time": 1752308120,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197305,
       "num": 163490,
       "word": "律师称幼童躺街上被碾司机不会免责",
@@ -9057,14 +9097,6 @@
       "onboard_time": 1752045083,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 193336,
-      "num": 152122,
-      "word": "时代峰峻",
-      "onboard_time": 1752305602,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 193158,
@@ -9643,6 +9675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186690,
+      "num": 186690,
+      "word": "鹿晗把我媚成狗了",
+      "onboard_time": 1752306921,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 186635,
       "num": 531151,
       "word": "任重举着张译就上来了",
@@ -9953,6 +9993,14 @@
       "onboard_time": 1751963242,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181311,
+      "num": 134827,
+      "word": "真胖和虚胖的区别",
+      "onboard_time": 1752307882,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 181300,
@@ -10747,6 +10795,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 172377,
+      "num": 133643,
+      "word": "那英手链",
+      "onboard_time": 1752308422,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172365,
       "num": 172365,
       "word": "建议一个月给自己过两天节",
@@ -11203,6 +11259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166894,
+      "num": 166894,
+      "word": "王楚钦7比10落后连追5分",
+      "onboard_time": 1752306440,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166854,
       "num": 170173,
       "word": "高价购买LABUBU的人现在还好吗",
@@ -11457,6 +11521,22 @@
       "onboard_time": 1752189559,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163718,
+      "num": 158252,
+      "word": "赵今麦张凌赫三搭想演对手",
+      "onboard_time": 1752307162,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 163712,
+      "num": 163712,
+      "word": "被外卖留言笑哭了",
+      "onboard_time": 1752307701,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 163685,
@@ -12787,6 +12867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 150111,
+      "num": 150111,
+      "word": "宋亚轩 内娱唯一机器人塑",
+      "onboard_time": 1752308302,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150002,
       "num": 150002,
       "word": "当你不停运动2个月后",
@@ -13225,6 +13313,14 @@
       "onboard_time": 1751809464,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 146440,
+      "num": 146440,
+      "word": "方媛怀三胎状态",
+      "onboard_time": 1752305962,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 146298,
@@ -14891,6 +14987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132112,
+      "num": 132112,
+      "word": "越来越多本科生涌入蓝领行业",
+      "onboard_time": 1752307522,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132088,
       "num": 132088,
       "word": "李斌称蔚来资产负债表非常干净",
@@ -14905,6 +15009,14 @@
       "onboard_time": 1751950402,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 131919,
+      "num": 131919,
+      "word": "择偶的尽头是初高中同学",
+      "onboard_time": 1752308302,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 131893,
@@ -17171,14 +17283,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 115747,
-      "num": 115747,
-      "word": "方媛怀三胎状态",
-      "onboard_time": 1752305962,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 115710,
       "num": 115710,
       "word": "中方回应莫迪向达赖喇嘛致生日祝福",
@@ -17563,6 +17667,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 113089,
+      "num": 113089,
+      "word": "爱马仕 小猪佩奇",
+      "onboard_time": 1752308602,
+      "rank": 40,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 112920,
       "num": 112920,
       "word": "小狗回到家自己放水洗脚",
@@ -17625,6 +17737,14 @@
       "onboard_time": 1751894364,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112361,
+      "num": 230562,
+      "word": "男子欲起诉父母返还十几万压岁钱",
+      "onboard_time": 1752305121,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112034,
@@ -18395,6 +18515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106255,
+      "num": 106255,
+      "word": "金饰克价涨至1008元",
+      "onboard_time": 1752307941,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 106209,
       "num": 106209,
       "word": "BLACKPINK预告图",
@@ -18529,6 +18657,14 @@
       "onboard_time": 1751786542,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105072,
+      "num": 105072,
+      "word": "建议小基数不要再生活化减脂了",
+      "onboard_time": 1752308961,
+      "rank": 47,
+      "category": "运动健身"
     },
     {
       "raw_hot": 105071,
@@ -18824,6 +18960,14 @@
       "word": "罗马仕突然停工有员工还在外地出差",
       "onboard_time": 1751801485,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102875,
+      "num": 106478,
+      "word": "白发婆婆手搓代码惊呆大学生",
+      "onboard_time": 1752308781,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -20531,14 +20675,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 75681,
-      "num": 230562,
-      "word": "男子欲起诉父母返还十几万压岁钱",
-      "onboard_time": 1752305121,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 75668,
       "num": 162557,
       "word": "成毅禹司凤打戏混剪",
@@ -20659,6 +20795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 73125,
+      "num": 115357,
+      "word": "林诗栋蒯曼采访又笑场了",
+      "onboard_time": 1752307162,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72711,
       "num": 195470,
       "word": "无限暖暖浮光撷影",
@@ -20689,6 +20833,14 @@
       "onboard_time": 1751721023,
       "rank": 49,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 72102,
+      "num": 104315,
+      "word": "奥恰洛夫赞王楚钦发球很好",
+      "onboard_time": 1752308901,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 72074,
@@ -22883,6 +23035,14 @@
       "category": "艺人,动漫"
     },
     {
+      "raw_hot": 32097,
+      "num": 120696,
+      "word": "健走团占道车主被迫龟速开半小时",
+      "onboard_time": 1752309021,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31865,
       "num": 121096,
       "word": "久尔杰维奇谈国足状态",
@@ -23257,6 +23417,14 @@
       "onboard_time": 1752262695,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25730,
+      "num": 113550,
+      "word": "iG成立三角洲分部",
+      "onboard_time": 1752307761,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 25554,

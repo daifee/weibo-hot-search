@@ -1,0 +1,410 @@
+{
+  "runTime": 1752309138362,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1725068,
+        "num": 1725068,
+        "word": "免费奶茶",
+        "onboard_time": 1752296961,
+        "rank": 0,
+        "category": "互联网,美食"
+      },
+      {
+        "raw_hot": 696497,
+        "num": 696497,
+        "word": "邢昭林弟弟被中戏录取",
+        "onboard_time": 1752303981,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33238,
+        "num": 561568,
+        "word": "净网2025来看1起侵犯公民个人信息案",
+        "onboard_time": 1752295941,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 806573,
+        "num": 553838,
+        "word": "中山大学通报133人被取消录取资格",
+        "onboard_time": 1752300201,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 539705,
+        "num": 539705,
+        "word": "郭艾伦 跑男",
+        "onboard_time": 1752304581,
+        "rank": 4,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 420114,
+        "num": 420114,
+        "word": "公司团建5人中暑1人热射病进ICU",
+        "onboard_time": 1752299720,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 498891,
+        "num": 419534,
+        "word": "买超回应新恋情",
+        "onboard_time": 1752298580,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 434788,
+        "num": 418920,
+        "word": "卫生巾在新疆叫馕在上海叫贝果",
+        "onboard_time": 1752300801,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 417818,
+        "num": 417818,
+        "word": "28岁胃癌前病变女生的忠告",
+        "onboard_time": 1752298221,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 260054,
+        "num": 412258,
+        "word": "我的大观园带动文旅消费超1.2亿",
+        "onboard_time": 1752304641,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 411693,
+        "num": 411693,
+        "word": "花一万把labubu做在美甲上",
+        "onboard_time": 1752304821,
+        "rank": 10,
+        "category": "美妆,休闲"
+      },
+      {
+        "raw_hot": 1398643,
+        "num": 407370,
+        "word": "第一次感受到1w有这么多",
+        "onboard_time": 1752306502,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 826987,
+        "num": 399524,
+        "word": "田栩宁复工",
+        "onboard_time": 1752306202,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386049,
+        "num": 386049,
+        "word": "时代峰峻",
+        "onboard_time": 1752305602,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325485,
+        "num": 325485,
+        "word": "张檬儿子便血",
+        "onboard_time": 1752284601,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313695,
+        "num": 313695,
+        "word": "相亲遛弯瘦了40斤",
+        "onboard_time": 1752306802,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 297473,
+        "num": 297473,
+        "word": "左邓",
+        "onboard_time": 1752303500,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247649,
+        "num": 247649,
+        "word": "邢昭林家传减肥爆改吗",
+        "onboard_time": 1752303740,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213463,
+        "num": 213463,
+        "word": "洪崖洞一游客遭陌生女子强拉拍照",
+        "onboard_time": 1752295580,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202857,
+        "num": 202857,
+        "word": "杨瀚森拿下首个助攻",
+        "onboard_time": 1752295221,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197322,
+        "num": 197322,
+        "word": "薄底皮鞋 男明星最好的医美",
+        "onboard_time": 1752308120,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186690,
+        "num": 186690,
+        "word": "鹿晗把我媚成狗了",
+        "onboard_time": 1752306921,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 173268,
+        "num": 173268,
+        "word": "第二代居民身份证迎换证高峰",
+        "onboard_time": 1752297560,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172935,
+        "num": 172935,
+        "word": "女演员一直上桌男演员一直上炕",
+        "onboard_time": 1752299361,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166894,
+        "num": 166894,
+        "word": "王楚钦7比10落后连追5分",
+        "onboard_time": 1752306440,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163712,
+        "num": 163712,
+        "word": "被外卖留言笑哭了",
+        "onboard_time": 1752307701,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163718,
+        "num": 158252,
+        "word": "赵今麦张凌赫三搭想演对手",
+        "onboard_time": 1752307162,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150111,
+        "num": 150111,
+        "word": "宋亚轩 内娱唯一机器人塑",
+        "onboard_time": 1752308302,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146440,
+        "num": 146440,
+        "word": "方媛怀三胎状态",
+        "onboard_time": 1752305962,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135463,
+        "num": 135463,
+        "word": "杨幂不能既要我的喜欢又要我的微信",
+        "onboard_time": 1752301701,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181311,
+        "num": 134827,
+        "word": "真胖和虚胖的区别",
+        "onboard_time": 1752307882,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 172377,
+        "num": 133643,
+        "word": "那英手链",
+        "onboard_time": 1752308422,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132112,
+        "num": 132112,
+        "word": "越来越多本科生涌入蓝领行业",
+        "onboard_time": 1752307522,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131919,
+        "num": 131919,
+        "word": "择偶的尽头是初高中同学",
+        "onboard_time": 1752308302,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121852,
+        "num": 121852,
+        "word": "歌手后续赛程",
+        "onboard_time": 1752300680,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32097,
+        "num": 120696,
+        "word": "健走团占道车主被迫龟速开半小时",
+        "onboard_time": 1752309021,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120031,
+        "num": 120031,
+        "word": "得不到梓渝我还得不到梓渝的娃娃吗",
+        "onboard_time": 1752300980,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119367,
+        "num": 119367,
+        "word": "MaggieQ结婚",
+        "onboard_time": 1752290421,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73125,
+        "num": 115357,
+        "word": "林诗栋蒯曼采访又笑场了",
+        "onboard_time": 1752307162,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25730,
+        "num": 113550,
+        "word": "iG成立三角洲分部",
+        "onboard_time": 1752307761,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113089,
+        "num": 113089,
+        "word": "爱马仕 小猪佩奇",
+        "onboard_time": 1752308602,
+        "rank": 40,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 112361,
+        "num": 112361,
+        "word": "男子欲起诉父母返还十几万压岁钱",
+        "onboard_time": 1752305121,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110993,
+        "num": 110993,
+        "word": "经济舱 血栓",
+        "onboard_time": 1752294142,
+        "rank": 42,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 108342,
+        "num": 108342,
+        "word": "韩安冉否认与兜儿比生孩子",
+        "onboard_time": 1752301161,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 107207,
+        "num": 107207,
+        "word": "上海130万买的43平老破小",
+        "onboard_time": 1752305483,
+        "rank": 44,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 102875,
+        "num": 106478,
+        "word": "白发婆婆手搓代码惊呆大学生",
+        "onboard_time": 1752308781,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106255,
+        "num": 106255,
+        "word": "金饰克价涨至1008元",
+        "onboard_time": 1752307941,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 105072,
+        "num": 105072,
+        "word": "建议小基数不要再生活化减脂了",
+        "onboard_time": 1752308961,
+        "rank": 47,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 72102,
+        "num": 104315,
+        "word": "奥恰洛夫赞王楚钦发球很好",
+        "onboard_time": 1752308901,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103906,
+        "num": 103906,
+        "word": "独居女生的周末过得有多爽",
+        "onboard_time": 1752303922,
+        "rank": 49,
+        "category": "休闲"
+      }
+    ],
+    "hotgov": {
+      "word": "#这是中国式现代化的向海图强之路#"
+    }
+  }
+}
