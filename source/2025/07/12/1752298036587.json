@@ -1,0 +1,410 @@
+{
+  "runTime": 1752298036587,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1211385,
+        "num": 1211385,
+        "word": "经济舱 血栓",
+        "onboard_time": 1752294142,
+        "rank": 0,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 875809,
+        "num": 875809,
+        "word": "洪崖洞一游客遭陌生女子强拉拍照",
+        "onboard_time": 1752295580,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47221,
+        "num": 867428,
+        "word": "净网2025来看1起侵犯公民个人信息案",
+        "onboard_time": 1752295941,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 859861,
+        "num": 859861,
+        "word": "杨瀚森首秀",
+        "onboard_time": 1752297502,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 569712,
+        "num": 569712,
+        "word": "姚译添默默地吐槽了一波",
+        "onboard_time": 1752295941,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 433360,
+        "num": 433360,
+        "word": "国乒无缘包揽五冠",
+        "onboard_time": 1752285560,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 400744,
+        "num": 400744,
+        "word": "杨瀚森拿下首个助攻",
+        "onboard_time": 1752295221,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 372260,
+        "num": 372260,
+        "word": "AL遗憾止步MSI",
+        "onboard_time": 1752294202,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 315250,
+        "num": 315250,
+        "word": "AG爱笑",
+        "onboard_time": 1752295880,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 220874,
+        "num": 312021,
+        "word": "房主任女儿",
+        "onboard_time": 1752287901,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 724744,
+        "num": 305940,
+        "word": "张檬儿子便血",
+        "onboard_time": 1752284601,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483900,
+        "num": 293715,
+        "word": "MaggieQ结婚",
+        "onboard_time": 1752290421,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 474575,
+        "num": 286254,
+        "word": "男子灌面汤呛死妻子案最新进展",
+        "onboard_time": 1752289280,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 473713,
+        "num": 279351,
+        "word": "刘浩存双马尾",
+        "onboard_time": 1752295401,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46656,
+        "num": 273154,
+        "word": "女子千里之外被结婚8年谁该担责",
+        "onboard_time": 1752296781,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 473124,
+        "num": 267807,
+        "word": "黄灿灿演我谈梓渝",
+        "onboard_time": 1752293721,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 454099,
+        "num": 256514,
+        "word": "梓渝超话首次登顶",
+        "onboard_time": 1752294861,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254869,
+        "num": 254869,
+        "word": "免费奶茶",
+        "onboard_time": 1752296961,
+        "rank": 17,
+        "category": "互联网,美食"
+      },
+      {
+        "raw_hot": 228876,
+        "num": 228876,
+        "word": "一顿饭花3600元被盯着不让拍视频",
+        "onboard_time": 1752288501,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 222662,
+        "num": 222662,
+        "word": "有哪些姓氏一听就是南方人",
+        "onboard_time": 1752290840,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 395319,
+        "num": 221061,
+        "word": "大妈高铁上免提狂聊在小桌板上抠脚",
+        "onboard_time": 1752290661,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210582,
+        "num": 210582,
+        "word": "烂尾楼业主赢了结果是钱房两空",
+        "onboard_time": 1752288861,
+        "rank": 21,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 181899,
+        "num": 193211,
+        "word": "主人称现在靠网红狗大黄过活",
+        "onboard_time": 1752285681,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187932,
+        "num": 187932,
+        "word": "再见爱人节目组找过杨蒙恩",
+        "onboard_time": 1752297682,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62062,
+        "num": 187931,
+        "word": "重庆文旅回应游客遭陌生人强拉拍照",
+        "onboard_time": 1752297860,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179935,
+        "num": 187908,
+        "word": "比前夫哥更疯批的人出现了",
+        "onboard_time": 1752293481,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177278,
+        "num": 187896,
+        "word": "贾静雯回应看权志龙演唱会争议",
+        "onboard_time": 1752297261,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19138,
+        "num": 187887,
+        "word": "困在好评里的商家",
+        "onboard_time": 1752297803,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150145,
+        "num": 187880,
+        "word": "樱桃琥珀终于舍得放吻戏了",
+        "onboard_time": 1752296301,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145560,
+        "num": 187864,
+        "word": "白鹿李晨也离不开自助定律",
+        "onboard_time": 1752295101,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93513,
+        "num": 187853,
+        "word": "王小利房主任 幸福的决心和意志",
+        "onboard_time": 1752297803,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196621,
+        "num": 187841,
+        "word": "外战看AL",
+        "onboard_time": 1752294202,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 261040,
+        "num": 187836,
+        "word": "美团免单",
+        "onboard_time": 1752286761,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 187825,
+        "num": 187825,
+        "word": "侯明昊生日会",
+        "onboard_time": 1752297740,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186858,
+        "num": 186858,
+        "word": "林昀儒vs张本智和",
+        "onboard_time": 1752297201,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184267,
+        "num": 184267,
+        "word": "织音发布会",
+        "onboard_time": 1752297740,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 155766,
+        "num": 155766,
+        "word": "T1对战AL",
+        "onboard_time": 1752280460,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 148779,
+        "num": 148779,
+        "word": "第二代居民身份证迎换证高峰",
+        "onboard_time": 1752297560,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141557,
+        "num": 141557,
+        "word": "NBA",
+        "onboard_time": 1752292101,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141279,
+        "num": 141279,
+        "word": "印度坠机驾驶舱语音记录公开",
+        "onboard_time": 1752286641,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 139682,
+        "num": 139682,
+        "word": "谁有这样的妈都会有底气",
+        "onboard_time": 1752297082,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135999,
+        "num": 135999,
+        "word": "12306回应大妈光脚在小桌板上抠脚",
+        "onboard_time": 1752294322,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135700,
+        "num": 135700,
+        "word": "周杰伦用96秒让8090后集体破防",
+        "onboard_time": 1752297740,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132656,
+        "num": 132656,
+        "word": "喻言演我蛐蛐领导",
+        "onboard_time": 1752297201,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126418,
+        "num": 131091,
+        "word": "杨瀚森击地妙传助攻队友暴扣",
+        "onboard_time": 1752296781,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130595,
+        "num": 130595,
+        "word": "淘宝闪购",
+        "onboard_time": 1752282021,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 127258,
+        "num": 127258,
+        "word": "TF家族蓝队",
+        "onboard_time": 1752283640,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126999,
+        "num": 126999,
+        "word": "T1晋级MSI决赛",
+        "onboard_time": 1752296781,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 78298,
+        "num": 125827,
+        "word": "蒯曼说没想到4比0的比分",
+        "onboard_time": 1752295642,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125591,
+        "num": 125591,
+        "word": "比浏览记录更劲爆的是计算器记录",
+        "onboard_time": 1752295341,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#这是中国式现代化的向海图强之路#"
+    }
+  }
+}
