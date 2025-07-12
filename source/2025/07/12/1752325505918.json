@@ -1,0 +1,410 @@
+{
+  "runTime": 1752325505918,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1308554,
+        "num": 1308554,
+        "word": "第一次感受到1w有这么多",
+        "onboard_time": 1752306502,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 859952,
+        "num": 859952,
+        "word": "免费奶茶",
+        "onboard_time": 1752296961,
+        "rank": 1,
+        "category": "互联网,美食"
+      },
+      {
+        "raw_hot": 20892,
+        "num": 850427,
+        "word": "文化中国行看新晋世界遗产西夏陵",
+        "onboard_time": 1752309142,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 846702,
+        "num": 846702,
+        "word": "hi6",
+        "onboard_time": 1752322941,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 523491,
+        "num": 523491,
+        "word": "房主任",
+        "onboard_time": 1752321501,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 414649,
+        "num": 414649,
+        "word": "高温晒背2小时67岁阿姨开颅保命",
+        "onboard_time": 1752316701,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 399764,
+        "num": 399764,
+        "word": "国足0比2日本",
+        "onboard_time": 1752323662,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 348148,
+        "num": 348148,
+        "word": "台湾火箭在日本发射失败",
+        "onboard_time": 1752322522,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262298,
+        "num": 262298,
+        "word": "付航脱口秀",
+        "onboard_time": 1752320901,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254159,
+        "num": 254159,
+        "word": "王皓我选择王楚钦作为我的解药",
+        "onboard_time": 1752318020,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118095,
+        "num": 253263,
+        "word": "这期奔跑吧吃的不要太好",
+        "onboard_time": 1752321861,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 684867,
+        "num": 250906,
+        "word": "曹格儿子Joe否认恋情",
+        "onboard_time": 1752323901,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338235,
+        "num": 249631,
+        "word": "素人女孩被拍网友喊话于正",
+        "onboard_time": 1752323662,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334295,
+        "num": 247826,
+        "word": "于正就言而无信了怎么啦",
+        "onboard_time": 1752320662,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246093,
+        "num": 246093,
+        "word": "张杰工作室真敢一刀不剪啊",
+        "onboard_time": 1752323901,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 200854,
+        "num": 200854,
+        "word": "美国务院1350人大裁员现场",
+        "onboard_time": 1752318381,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 189627,
+        "num": 189627,
+        "word": "剑桥大学偶遇任嘉伦",
+        "onboard_time": 1752318020,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184502,
+        "num": 184502,
+        "word": "12306回应高铁车内比车外温度还高",
+        "onboard_time": 1752312681,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181721,
+        "num": 181721,
+        "word": "王青最近在干装修师傅",
+        "onboard_time": 1752322762,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176072,
+        "num": 176072,
+        "word": "棍铲",
+        "onboard_time": 1752320301,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 436584,
+        "num": 174708,
+        "word": "90年35岁未婚女生的真实感受",
+        "onboard_time": 1752316041,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 238807,
+        "num": 172933,
+        "word": "印度男子溜进学校宿舍性侵多名女童",
+        "onboard_time": 1752324021,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 169599,
+        "num": 169599,
+        "word": "惠英红请张凌赫剧组喝饮料",
+        "onboard_time": 1752325161,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167745,
+        "num": 167745,
+        "word": "发现一个夏天披头发不热的方法",
+        "onboard_time": 1752322522,
+        "rank": 23,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 159497,
+        "num": 159497,
+        "word": "扫毒风暴",
+        "onboard_time": 1752314901,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156313,
+        "num": 156313,
+        "word": "kanye上海演唱会",
+        "onboard_time": 1752324563,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 146688,
+        "num": 146688,
+        "word": "李健音乐节",
+        "onboard_time": 1752324921,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 49993,
+        "num": 144641,
+        "word": "这是XXXL版萤火虫吧",
+        "onboard_time": 1752321682,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143017,
+        "num": 143017,
+        "word": "GAI去歌手了哦",
+        "onboard_time": 1752318921,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137631,
+        "num": 137631,
+        "word": "广东被骗至缅甸14岁男孩已回国",
+        "onboard_time": 1752322941,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 895402,
+        "num": 137051,
+        "word": "周深录制综艺节目遭嘉宾拖拽",
+        "onboard_time": 1752317001,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176234,
+        "num": 136637,
+        "word": "郭艾伦 跑男",
+        "onboard_time": 1752304581,
+        "rank": 31,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 159534,
+        "num": 135938,
+        "word": "ye 退票",
+        "onboard_time": 1752325043,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134929,
+        "num": 134929,
+        "word": "韦雪拒绝与前男友同框",
+        "onboard_time": 1752324803,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 130162,
+        "num": 130162,
+        "word": "网红恩克半年吃110只羊",
+        "onboard_time": 1752325043,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 128521,
+        "num": 128521,
+        "word": "丁禹兮 眉骨遮眼",
+        "onboard_time": 1752314601,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128072,
+        "num": 128072,
+        "word": "徐明浩被贴脸开大前几期去哪了",
+        "onboard_time": 1752324021,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119293,
+        "num": 119293,
+        "word": "TF家族练习生 高铭阳",
+        "onboard_time": 1752323302,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117988,
+        "num": 117988,
+        "word": "鞠婧祎抹胸飞行员造型",
+        "onboard_time": 1752317001,
+        "rank": 38,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 84573,
+        "num": 117679,
+        "word": "新说唱21强来了",
+        "onboard_time": 1752325462,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45422,
+        "num": 117600,
+        "word": "国足上次战胜日本队是1998年",
+        "onboard_time": 1752321083,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117564,
+        "num": 117564,
+        "word": "在医院上厕所前一定要洗手",
+        "onboard_time": 1752316701,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 115882,
+        "num": 115882,
+        "word": "LV 补差价",
+        "onboard_time": 1752312681,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115580,
+        "num": 115580,
+        "word": "姚译添回应范丞丞",
+        "onboard_time": 1752312020,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114240,
+        "num": 114240,
+        "word": "外卖商战差不多就行了呗",
+        "onboard_time": 1752323962,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 110043,
+        "num": 110043,
+        "word": "外卖商战下的大家belike",
+        "onboard_time": 1752319581,
+        "rank": 45,
+        "category": "互联网,幽默"
+      },
+      {
+        "raw_hot": 107412,
+        "num": 107412,
+        "word": "男子夹脚拖藏摄像头3年偷拍21女",
+        "onboard_time": 1752313282,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104889,
+        "num": 104889,
+        "word": "和平精英",
+        "onboard_time": 1752323541,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 106687,
+        "num": 103719,
+        "word": "中山大学通报133人被取消录取资格",
+        "onboard_time": 1752300201,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101456,
+        "num": 101456,
+        "word": "真胖和虚胖的区别",
+        "onboard_time": 1752307882,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#热爱与坚守#"
+    }
+  }
+}

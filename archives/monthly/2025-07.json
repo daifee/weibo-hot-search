@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752324606326,
+  "endTime": 1752325505918,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -2547,6 +2547,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 846702,
+      "num": 1115752,
+      "word": "hi6",
+      "onboard_time": 1751780242,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 845772,
       "num": 297961,
       "word": "天水调查组通报一幼儿园幼儿血铅异常",
@@ -3041,14 +3049,6 @@
       "onboard_time": 1751468243,
       "rank": 10,
       "category": "网红"
-    },
-    {
-      "raw_hot": 770185,
-      "num": 1115752,
-      "word": "hi6",
-      "onboard_time": 1751780242,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 767360,
@@ -3745,6 +3745,14 @@
       "onboard_time": 1751858003,
       "rank": 13,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 684867,
+      "num": 250906,
+      "word": "曹格儿子Joe否认恋情",
+      "onboard_time": 1752323901,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 682130,
@@ -5483,6 +5491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 523491,
+      "num": 523491,
+      "word": "房主任",
+      "onboard_time": 1752321501,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 523191,
       "num": 523191,
       "word": "奔跑吧",
@@ -5584,14 +5600,6 @@
       "word": "房主任女儿",
       "onboard_time": 1752287901,
       "rank": 3,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 515678,
-      "num": 515678,
-      "word": "房主任",
-      "onboard_time": 1752321501,
-      "rank": 5,
       "category": "综艺"
     },
     {
@@ -7363,6 +7371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 399764,
+      "num": 399764,
+      "word": "国足0比2日本",
+      "onboard_time": 1752323662,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 399221,
       "num": 399221,
       "word": "情侣分手现场拉2年账单对账",
@@ -7764,7 +7780,7 @@
     },
     {
       "raw_hot": 375087,
-      "num": 247499,
+      "num": 247826,
       "word": "于正就言而无信了怎么啦",
       "onboard_time": 1752320662,
       "rank": 11,
@@ -7879,14 +7895,6 @@
       "num": 302990,
       "word": "孙菲菲王阳剧组暴力事件始末",
       "onboard_time": 1751961441,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 371668,
-      "num": 243236,
-      "word": "曹格儿子Joe否认恋情",
-      "onboard_time": 1752323901,
       "rank": 12,
       "category": "艺人"
     },
@@ -8411,6 +8419,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 348148,
+      "num": 348148,
+      "word": "台湾火箭在日本发射失败",
+      "onboard_time": 1752322522,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 346919,
       "num": 346919,
       "word": "杨紫说锦绣芳华是国色芳华第二部",
@@ -8651,6 +8667,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 338235,
+      "num": 249631,
+      "word": "素人女孩被拍网友喊话于正",
+      "onboard_time": 1752323662,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 337980,
       "num": 337980,
       "word": "舒肤佳 李昀锐",
@@ -8832,14 +8856,6 @@
       "word": "频繁刷手机可能导致脑腐",
       "onboard_time": 1751864367,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 332152,
-      "num": 332152,
-      "word": "台湾火箭在日本发射失败",
-      "onboard_time": 1752322522,
-      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -11851,6 +11867,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 246093,
+      "num": 246093,
+      "word": "张杰工作室真敢一刀不剪啊",
+      "onboard_time": 1752323901,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 245682,
       "num": 690164,
       "word": "广汽菲克宣告破产",
@@ -12123,12 +12147,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 238798,
-      "num": 238798,
-      "word": "素人女孩被拍网友喊话于正",
-      "onboard_time": 1752323662,
-      "rank": 14,
-      "category": "艺人"
+      "raw_hot": 238807,
+      "num": 172933,
+      "word": "印度男子溜进学校宿舍性侵多名女童",
+      "onboard_time": 1752324021,
+      "rank": 27,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 238744,
@@ -12336,14 +12360,6 @@
       "word": "南京0比0苏州",
       "onboard_time": 1751724866,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 235174,
-      "num": 235174,
-      "word": "国足0比2日本",
-      "onboard_time": 1752323662,
-      "rank": 16,
       "category": "体育"
     },
     {
@@ -14385,14 +14401,6 @@
       "onboard_time": 1751785821,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205956,
-      "num": 205956,
-      "word": "张杰工作室真敢一刀不剪啊",
-      "onboard_time": 1752323901,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 205922,
@@ -19331,6 +19339,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 169599,
+      "num": 169599,
+      "word": "惠英红请张凌赫剧组喝饮料",
+      "onboard_time": 1752325161,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 169559,
       "num": 169559,
       "word": "于正闲鱼收到了四万份简历",
@@ -20755,6 +20771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159534,
+      "num": 135938,
+      "word": "ye 退票",
+      "onboard_time": 1752325043,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 159523,
       "num": 159523,
       "word": "AG首个锁定第三轮S组",
@@ -21315,6 +21339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156313,
+      "num": 156313,
+      "word": "kanye上海演唱会",
+      "onboard_time": 1752324563,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 156269,
       "num": 156269,
       "word": "女校长诈骗5000万花3000万游戏充值",
@@ -21785,14 +21817,6 @@
       "onboard_time": 1751346383,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 153428,
-      "num": 153428,
-      "word": "印度男子溜进学校宿舍性侵多名女童",
-      "onboard_time": 1752324021,
-      "rank": 27,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 153359,
@@ -23097,6 +23121,14 @@
       "onboard_time": 1751432484,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146688,
+      "num": 146688,
+      "word": "李健音乐节",
+      "onboard_time": 1752324921,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 146591,
@@ -25499,6 +25531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134929,
+      "num": 134929,
+      "word": "韦雪拒绝与前男友同框",
+      "onboard_time": 1752324803,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 134909,
       "num": 164822,
       "word": "广东空调安装师傅赶赴哈尔滨支援",
@@ -26601,6 +26641,14 @@
       "onboard_time": 1751805684,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 130162,
+      "num": 130162,
+      "word": "网红恩克半年吃110只羊",
+      "onboard_time": 1752325043,
+      "rank": 34,
+      "category": "网红"
     },
     {
       "raw_hot": 130135,
@@ -29451,6 +29499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118095,
+      "num": 254118,
+      "word": "这期奔跑吧吃的不要太好",
+      "onboard_time": 1752321861,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118082,
       "num": 118082,
       "word": "金旻奎 清潭国际高中2",
@@ -30393,6 +30449,14 @@
       "onboard_time": 1751434043,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114240,
+      "num": 114240,
+      "word": "外卖商战差不多就行了呗",
+      "onboard_time": 1752323962,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 114232,
@@ -33795,14 +33859,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 98492,
-      "num": 98492,
-      "word": "kanye上海演唱会",
-      "onboard_time": 1752324563,
-      "rank": 47,
-      "category": "演出"
-    },
-    {
       "raw_hot": 98442,
       "num": 168693,
       "word": "Jennie舞台",
@@ -33921,14 +33977,6 @@
       "onboard_time": 1752324500,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 97364,
-      "num": 97364,
-      "word": "外卖商战差不多就行了呗",
-      "onboard_time": 1752323962,
-      "rank": 49,
-      "category": "互联网"
     },
     {
       "raw_hot": 97314,
@@ -35411,6 +35459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84573,
+      "num": 117679,
+      "word": "新说唱21强来了",
+      "onboard_time": 1752325462,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 84561,
       "num": 84561,
       "word": "公积金结息能领几千元",
@@ -36041,14 +36097,6 @@
       "onboard_time": 1752060082,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 76891,
-      "num": 254118,
-      "word": "这期奔跑吧吃的不要太好",
-      "onboard_time": 1752321861,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 76887,
@@ -38427,6 +38475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 49993,
+      "num": 144641,
+      "word": "这是XXXL版萤火虫吧",
+      "onboard_time": 1752321682,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49900,
       "num": 122215,
       "word": "知了猴面包",
@@ -38880,6 +38936,14 @@
       "word": "国乒今天要打12场比赛",
       "onboard_time": 1752198621,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 45422,
+      "num": 117600,
+      "word": "国足上次战胜日本队是1998年",
+      "onboard_time": 1752321083,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -41603,6 +41667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20892,
+      "num": 850427,
+      "word": "文化中国行看新晋世界遗产西夏陵",
+      "onboard_time": 1752309142,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 20869,
       "num": 25492,
       "word": "主人称没想到金毛李墩墩会开门",
@@ -41777,14 +41849,6 @@
       "onboard_time": 1751742016,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 19044,
-      "num": 757512,
-      "word": "文化中国行看新晋世界遗产西夏陵",
-      "onboard_time": 1752309142,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 18998,

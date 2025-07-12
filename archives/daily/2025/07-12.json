@@ -1,6 +1,6 @@
 {
   "startTime": 1752251611895,
-  "endTime": 1752324606326,
+  "endTime": 1752325505918,
   "band_list": [
     {
       "raw_hot": 2441299,
@@ -155,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 846702,
+      "num": 846702,
+      "word": "hi6",
+      "onboard_time": 1752322941,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 833815,
       "num": 833815,
       "word": "林俊杰cue田曦薇",
@@ -203,12 +211,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 680805,
-      "num": 680805,
-      "word": "hi6",
-      "onboard_time": 1752322941,
-      "rank": 3,
-      "category": "综艺"
+      "raw_hot": 684867,
+      "num": 250906,
+      "word": "曹格儿子Joe否认恋情",
+      "onboard_time": 1752323901,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 679197,
@@ -315,19 +323,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 523491,
+      "num": 523491,
+      "word": "房主任",
+      "onboard_time": 1752321501,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 515909,
       "num": 515909,
       "word": "房主任女儿",
       "onboard_time": 1752287901,
       "rank": 3,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 515678,
-      "num": 515678,
-      "word": "房主任",
-      "onboard_time": 1752321501,
-      "rank": 5,
       "category": "综艺"
     },
     {
@@ -499,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 399764,
+      "num": 399764,
+      "word": "国足0比2日本",
+      "onboard_time": 1752323662,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 386049,
       "num": 386049,
       "word": "时代峰峻",
@@ -524,7 +540,7 @@
     },
     {
       "raw_hot": 375087,
-      "num": 247499,
+      "num": 247826,
       "word": "于正就言而无信了怎么啦",
       "onboard_time": 1752320662,
       "rank": 11,
@@ -545,14 +561,6 @@
       "onboard_time": 1752283640,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 371668,
-      "num": 243236,
-      "word": "曹格儿子Joe否认恋情",
-      "onboard_time": 1752323901,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 370500,
@@ -595,12 +603,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 348148,
+      "num": 348148,
+      "word": "台湾火箭在日本发射失败",
+      "onboard_time": 1752322522,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 343263,
       "num": 343263,
       "word": "西夏陵成功申遗",
       "onboard_time": 1752246505,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 338235,
+      "num": 249631,
+      "word": "素人女孩被拍网友喊话于正",
+      "onboard_time": 1752323662,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 337081,
@@ -616,14 +640,6 @@
       "word": "电诈园区墙上满是救救我想回家",
       "onboard_time": 1752237683,
       "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 332152,
-      "num": 332152,
-      "word": "台湾火箭在日本发射失败",
-      "onboard_time": 1752322522,
-      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -835,6 +851,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 246093,
+      "num": 246093,
+      "word": "张杰工作室真敢一刀不剪啊",
+      "onboard_time": 1752323901,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 242142,
       "num": 242142,
       "word": "12.3%受访00后存款超30万",
@@ -851,12 +875,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 238798,
-      "num": 238798,
-      "word": "素人女孩被拍网友喊话于正",
-      "onboard_time": 1752323662,
-      "rank": 14,
-      "category": "艺人"
+      "raw_hot": 238807,
+      "num": 172933,
+      "word": "印度男子溜进学校宿舍性侵多名女童",
+      "onboard_time": 1752324021,
+      "rank": 27,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 237442,
@@ -873,14 +897,6 @@
       "onboard_time": 1752251181,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 235174,
-      "num": 235174,
-      "word": "国足0比2日本",
-      "onboard_time": 1752323662,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 231178,
@@ -1025,14 +1041,6 @@
       "onboard_time": 1752303622,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205956,
-      "num": 205956,
-      "word": "张杰工作室真敢一刀不剪啊",
-      "onboard_time": 1752323901,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 205786,
@@ -1555,6 +1563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169599,
+      "num": 169599,
+      "word": "惠英红请张凌赫剧组喝饮料",
+      "onboard_time": 1752325161,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 168128,
       "num": 263302,
       "word": "中山大学发布公告",
@@ -1675,6 +1691,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 159534,
+      "num": 135938,
+      "word": "ye 退票",
+      "onboard_time": 1752325043,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 159174,
       "num": 159174,
       "word": "朱志鑫苏新皓双MVP绕场饭撒",
@@ -1705,6 +1729,14 @@
       "onboard_time": 1752286700,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156313,
+      "num": 156313,
+      "word": "kanye上海演唱会",
+      "onboard_time": 1752324563,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 156195,
@@ -1745,14 +1777,6 @@
       "onboard_time": 1752301220,
       "rank": 39,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 153428,
-      "num": 153428,
-      "word": "印度男子溜进学校宿舍性侵多名女童",
-      "onboard_time": 1752324021,
-      "rank": 27,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 153349,
@@ -1849,6 +1873,14 @@
       "onboard_time": 1752245005,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146688,
+      "num": 146688,
+      "word": "李健音乐节",
+      "onboard_time": 1752324921,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 146446,
@@ -2067,6 +2099,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 134929,
+      "num": 134929,
+      "word": "韦雪拒绝与前男友同框",
+      "onboard_time": 1752324803,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 133757,
       "num": 202006,
       "word": "男子夹脚拖藏摄像头3年偷拍21女",
@@ -2145,6 +2185,14 @@
       "onboard_time": 1752290601,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130162,
+      "num": 130162,
+      "word": "网红恩克半年吃110只羊",
+      "onboard_time": 1752325043,
+      "rank": 34,
+      "category": "网红"
     },
     {
       "raw_hot": 129887,
@@ -2387,6 +2435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 118095,
+      "num": 254118,
+      "word": "这期奔跑吧吃的不要太好",
+      "onboard_time": 1752321861,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117720,
       "num": 117720,
       "word": "李佳薇谭薇相互搀扶好好笑",
@@ -2457,6 +2513,14 @@
       "onboard_time": 1752229642,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114240,
+      "num": 114240,
+      "word": "外卖商战差不多就行了呗",
+      "onboard_time": 1752323962,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 114153,
@@ -2811,14 +2875,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 98492,
-      "num": 98492,
-      "word": "kanye上海演唱会",
-      "onboard_time": 1752324563,
-      "rank": 47,
-      "category": "演出"
-    },
-    {
       "raw_hot": 98056,
       "num": 128499,
       "word": "榴莲价格",
@@ -2849,14 +2905,6 @@
       "onboard_time": 1752324500,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 97364,
-      "num": 97364,
-      "word": "外卖商战差不多就行了呗",
-      "onboard_time": 1752323962,
-      "rank": 49,
-      "category": "互联网"
     },
     {
       "raw_hot": 95859,
@@ -2931,6 +2979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 84573,
+      "num": 117679,
+      "word": "新说唱21强来了",
+      "onboard_time": 1752325462,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 83793,
       "num": 83793,
       "word": "丁禹兮开餐厅是动了脑子的",
@@ -3001,14 +3057,6 @@
       "onboard_time": 1752308901,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 76891,
-      "num": 254118,
-      "word": "这期奔跑吧吃的不要太好",
-      "onboard_time": 1752321861,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 75941,
@@ -3211,6 +3259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49993,
+      "num": 144641,
+      "word": "这是XXXL版萤火虫吧",
+      "onboard_time": 1752321682,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49347,
       "num": 49347,
       "word": "法英将在乌克兰部署5万名士兵",
@@ -3256,6 +3312,14 @@
       "word": "王皓傲娇表情包上线",
       "onboard_time": 1752305540,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 45422,
+      "num": 117600,
+      "word": "国足上次战胜日本队是1998年",
+      "onboard_time": 1752321083,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -3459,6 +3523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 20892,
+      "num": 850427,
+      "word": "文化中国行看新晋世界遗产西夏陵",
+      "onboard_time": 1752309142,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 20849,
       "num": 54091,
       "word": "英国多地实施水管禁令",
@@ -3489,14 +3561,6 @@
       "onboard_time": 1752312382,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 19044,
-      "num": 757512,
-      "word": "文化中国行看新晋世界遗产西夏陵",
-      "onboard_time": 1752309142,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 18957,
