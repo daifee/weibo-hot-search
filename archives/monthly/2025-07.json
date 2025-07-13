@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752389546223,
+  "endTime": 1752391593921,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -801,6 +801,14 @@
       "onboard_time": 1751708421,
       "rank": 10,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 1559829,
+      "num": 1559829,
+      "word": "高考604分女生被一所高职录取",
+      "onboard_time": 1752388403,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1558218,
@@ -2723,14 +2731,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 846392,
-      "num": 846392,
-      "word": "高考604分女生被一所高职录取",
-      "onboard_time": 1752388403,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 845815,
       "num": 845815,
       "word": "言承旭说F4合体像做梦一样",
@@ -3081,6 +3081,14 @@
       "onboard_time": 1751641107,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 795763,
+      "num": 795763,
+      "word": "郑恺苗苗带三个孩子出行",
+      "onboard_time": 1752388941,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 794778,
@@ -3987,6 +3995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 682073,
+      "num": 682073,
+      "word": "哥哥隐瞒父亲死讯埋葬地被妹起诉",
+      "onboard_time": 1752386422,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 681781,
       "num": 681781,
       "word": "美国瑞幸价格",
@@ -4404,7 +4420,7 @@
     },
     {
       "raw_hot": 644622,
-      "num": 369325,
+      "num": 414360,
       "word": "烤鱼盘下蛆虫乱爬老板称没入嘴没事",
       "onboard_time": 1752385461,
       "rank": 46,
@@ -4833,14 +4849,6 @@
       "onboard_time": 1751515882,
       "rank": 5,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 611178,
-      "num": 611178,
-      "word": "哥哥隐瞒父亲死讯埋葬地被妹起诉",
-      "onboard_time": 1752386422,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 610719,
@@ -6104,6 +6112,14 @@
       "word": "雪糕刺客开始倒闭了",
       "onboard_time": 1752034284,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 504558,
+      "num": 504558,
+      "word": "0元奶茶能喝多久",
+      "onboard_time": 1752385581,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -7971,14 +7987,6 @@
       "category": "美妆,网红"
     },
     {
-      "raw_hot": 387688,
-      "num": 360583,
-      "word": "郑恺苗苗带三个孩子出行",
-      "onboard_time": 1752388941,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 387213,
       "num": 387213,
       "word": "扫毒风暴",
@@ -8233,6 +8241,14 @@
       "onboard_time": 1751554584,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 374733,
+      "num": 374733,
+      "word": "港大男用老师同学照片AI生成色情照",
+      "onboard_time": 1752389002,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 374329,
@@ -8592,14 +8608,6 @@
       "word": "再婚男给前妻儿子转300万被起诉",
       "onboard_time": 1752057444,
       "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 360083,
-      "num": 360083,
-      "word": "0元奶茶能喝多久",
-      "onboard_time": 1752385581,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -9465,6 +9473,14 @@
       "onboard_time": 1752021263,
       "rank": 22,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 327398,
+      "num": 327398,
+      "word": "TFBOYS疑似被音综做局",
+      "onboard_time": 1752389602,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 327122,
@@ -11452,7 +11468,7 @@
     },
     {
       "raw_hot": 270588,
-      "num": 290087,
+      "num": 317482,
       "word": "央妈镜头下的章子怡吴京",
       "onboard_time": 1752385040,
       "rank": 18,
@@ -14811,6 +14827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210039,
+      "num": 210039,
+      "word": "港大回应男生AI做700多张不雅照",
+      "onboard_time": 1752390321,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 210016,
       "num": 284504,
       "word": "第一集的回旋镖正中洪亮的眉心",
@@ -15353,6 +15377,14 @@
       "onboard_time": 1751632464,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204341,
+      "num": 420125,
+      "word": "实测11款捏捏乐100%检出甲醛",
+      "onboard_time": 1752390083,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 204302,
@@ -15969,6 +16001,14 @@
       "onboard_time": 1752026542,
       "rank": 23,
       "category": "数码"
+    },
+    {
+      "raw_hot": 200129,
+      "num": 200129,
+      "word": "撕名牌",
+      "onboard_time": 1752391221,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 200036,
@@ -17859,6 +17899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 187086,
+      "num": 187086,
+      "word": "日本殡仪馆因死者姓氏相同烧错遗体",
+      "onboard_time": 1752390143,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 187023,
       "num": 204768,
       "word": "张译演技",
@@ -18339,6 +18387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183172,
+      "num": 183172,
+      "word": "9.9包邮的手机壳铅含量超标30倍",
+      "onboard_time": 1752389422,
+      "rank": 49,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 183152,
       "num": 183152,
       "word": "赵今麦张凌赫为学手势双双抽筋",
@@ -18393,6 +18449,14 @@
       "onboard_time": 1751514982,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 182579,
+      "num": 182579,
+      "word": "央视曝光劣质捏捏毒玩具",
+      "onboard_time": 1752389902,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182556,
@@ -19705,6 +19769,14 @@
       "onboard_time": 1752045801,
       "rank": 43,
       "category": "网红"
+    },
+    {
+      "raw_hot": 173732,
+      "num": 173732,
+      "word": "朝雪录热度",
+      "onboard_time": 1752389302,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 173709,
@@ -22699,6 +22771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155311,
+      "num": 155311,
+      "word": "Faker回应输给GEN",
+      "onboard_time": 1752390201,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 155294,
       "num": 279253,
       "word": "2人就餐点茶后还被收11元白开水费",
@@ -22841,14 +22921,6 @@
       "onboard_time": 1752372920,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 154167,
-      "num": 154167,
-      "word": "港大男用老师同学照片AI生成色情照",
-      "onboard_time": 1752389002,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 154165,
@@ -23377,6 +23449,22 @@
       "onboard_time": 1752287060,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151641,
+      "num": 161552,
+      "word": "沈腾把裤子都气掉了",
+      "onboard_time": 1752390321,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 151543,
+      "num": 151543,
+      "word": "扎双马尾的陈梦",
+      "onboard_time": 1752391281,
+      "rank": 37,
+      "category": "体育,综艺"
     },
     {
       "raw_hot": 151510,
@@ -25889,6 +25977,14 @@
       "onboard_time": 1752386062,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139623,
+      "num": 139623,
+      "word": "胃病转变为胃癌的5个征兆",
+      "onboard_time": 1752390382,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 139609,
@@ -28411,6 +28507,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 128678,
+      "num": 128678,
+      "word": "长期的朋友",
+      "onboard_time": 1752391401,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 128669,
       "num": 128669,
       "word": "叶罗丽定档0724",
@@ -29416,6 +29520,14 @@
       "word": "柯基混血",
       "onboard_time": 1752141082,
       "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 124379,
+      "num": 124379,
+      "word": "狗狗在叫醒和踩醒之间选择热醒主人",
+      "onboard_time": 1752389842,
+      "rank": 45,
       "category": "幽默"
     },
     {
@@ -33091,14 +33203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 110395,
-      "num": 110395,
-      "word": "朝雪录热度",
-      "onboard_time": 1752389302,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 110342,
       "num": 110342,
       "word": "鼻青脸肿的小猫",
@@ -34003,6 +34107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106333,
+      "num": 106333,
+      "word": "宋江三开门",
+      "onboard_time": 1752391521,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106262,
       "num": 112999,
       "word": "洪亮版楚门的世界",
@@ -34561,6 +34673,14 @@
       "onboard_time": 1752366861,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103816,
+      "num": 103816,
+      "word": "小基数减肥最快方法",
+      "onboard_time": 1752389782,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 103739,
@@ -35779,14 +35899,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 96808,
-      "num": 96808,
-      "word": "9.9包邮的手机壳铅含量超标30倍",
-      "onboard_time": 1752389422,
-      "rank": 49,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 96804,
       "num": 96804,
       "word": "美国大满贯混双八强出炉",
@@ -35841,6 +35953,14 @@
       "onboard_time": 1752336921,
       "rank": 44,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 96359,
+      "num": 307234,
+      "word": "罗小黑从自制TV到新闻联播",
+      "onboard_time": 1752390441,
+      "rank": 18,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 96208,
@@ -42131,6 +42251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 33641,
+      "num": 334859,
+      "word": "花715万修雕塑仍有四大疑问",
+      "onboard_time": 1752390083,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33575,
       "num": 130594,
       "word": "放弃继承遗产死者生前借款还用还吗",
@@ -44505,6 +44633,14 @@
       "onboard_time": 1751454743,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13537,
+      "num": 307191,
+      "word": "招足球教练要博士是不是萝卜招聘",
+      "onboard_time": 1752391342,
+      "rank": 19,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 13299,
