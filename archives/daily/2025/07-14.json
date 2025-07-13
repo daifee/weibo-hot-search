@@ -1,6 +1,6 @@
 {
   "startTime": 1752424285355,
-  "endTime": 1752442772579,
+  "endTime": 1752445560412,
   "band_list": [
     {
       "raw_hot": 5991584,
@@ -115,20 +115,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 250798,
+      "num": 150812,
+      "word": "网红张三嫂儿子确诊ADHD",
+      "onboard_time": 1752423922,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 230789,
       "num": 278273,
       "word": "马斯克特朗普决裂的洗牌",
       "onboard_time": 1752423442,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 221656,
-      "num": 150812,
-      "word": "网红张三嫂儿子确诊ADHD",
-      "onboard_time": 1752423922,
-      "rank": 36,
-      "category": "网红"
     },
     {
       "raw_hot": 218225,
@@ -217,6 +217,14 @@
       "onboard_time": 1752412583,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129816,
+      "num": 129816,
+      "word": "Apex",
+      "onboard_time": 1752444555,
+      "rank": 6,
+      "category": "音乐,艺人"
     },
     {
       "raw_hot": 128267,
@@ -411,8 +419,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 51188,
-      "num": 51188,
+      "raw_hot": 59615,
+      "num": 59615,
       "word": "2025世俱杯",
       "onboard_time": 1752432555,
       "rank": 42,
@@ -443,7 +451,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 30605,
+      "raw_hot": 32799,
       "num": 77231,
       "word": "俄外长拉夫罗夫已抵达中国",
       "onboard_time": 1752418645,
@@ -467,6 +475,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 25988,
+      "num": 25988,
+      "word": "认知水平决定相处模式",
+      "onboard_time": 1752441974,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 22720,
       "num": 22720,
       "word": "邓为晒库存照",
@@ -483,12 +499,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 15845,
-      "num": 19147,
-      "word": "认知水平决定相处模式",
-      "onboard_time": 1752441974,
-      "rank": 44,
-      "category": "情感"
+      "raw_hot": 17831,
+      "num": 25409,
+      "word": "故宫御猫出来当导游了",
+      "onboard_time": 1752445396,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 13351,
