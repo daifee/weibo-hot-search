@@ -1,0 +1,410 @@
+{
+  "runTime": 1752382527994,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2712581,
+        "num": 2712581,
+        "word": "出轨Zeus女生被学校开除",
+        "onboard_time": 1752372741,
+        "rank": 0,
+        "category": "民生新闻,电竞"
+      },
+      {
+        "raw_hot": 876575,
+        "num": 876575,
+        "word": "蔡国庆怼19岁选手怼了4分钟",
+        "onboard_time": 1752376221,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74998,
+        "num": 872384,
+        "word": "中国60项世界遗产全名单",
+        "onboard_time": 1752380181,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1337264,
+        "num": 872382,
+        "word": "李欣莳 Zeus",
+        "onboard_time": 1752371781,
+        "rank": 3,
+        "category": "民生新闻,电竞"
+      },
+      {
+        "raw_hot": 872367,
+        "num": 872367,
+        "word": "奶茶店人人人人外卖小哥被吓退",
+        "onboard_time": 1752375682,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 711113,
+        "num": 711113,
+        "word": "帮爷爷查话费时看到的短信",
+        "onboard_time": 1752375501,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 681590,
+        "num": 681590,
+        "word": "女生被男孩尿衣服上家长还口出恶言",
+        "onboard_time": 1752377781,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 375663,
+        "num": 538662,
+        "word": "侃爷上海演唱会嫌雨太大提前退场",
+        "onboard_time": 1752365479,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184236,
+        "num": 494187,
+        "word": "王楚钦决赛迎战张本智和",
+        "onboard_time": 1752378140,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 343798,
+        "num": 468122,
+        "word": "王艺迪蒯曼女双冠军",
+        "onboard_time": 1752381261,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 459542,
+        "num": 459542,
+        "word": "林诗栋3比4张本智和",
+        "onboard_time": 1752377541,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 434459,
+        "num": 434459,
+        "word": "发现梓渝兔子塑的一定是天才",
+        "onboard_time": 1752376340,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426703,
+        "num": 426703,
+        "word": "孙颖莎王曼昱vs王艺迪蒯曼",
+        "onboard_time": 1752379760,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 416688,
+        "num": 416688,
+        "word": "国乒女双开局就爆分",
+        "onboard_time": 1752380901,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 391660,
+        "num": 391660,
+        "word": "结婚1年离婚40万陪嫁被判为共同财产",
+        "onboard_time": 1752381381,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 344901,
+        "num": 344901,
+        "word": "孙颖莎王曼昱女双亚军",
+        "onboard_time": 1752381441,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243551,
+        "num": 340260,
+        "word": "魏哲鸣顶级阴湿男鬼",
+        "onboard_time": 1752379880,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242596,
+        "num": 324300,
+        "word": "五月天密谋两年促成F4合体",
+        "onboard_time": 1752380901,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 234829,
+        "num": 316226,
+        "word": "虞书欣王安宇一念江南招商信息",
+        "onboard_time": 1752376760,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184201,
+        "num": 301285,
+        "word": "奔跑吧",
+        "onboard_time": 1752370519,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291358,
+        "num": 291358,
+        "word": "张本智和决胜局手受伤",
+        "onboard_time": 1752378921,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273399,
+        "num": 273399,
+        "word": "误删微信聊天记录可以撤销了",
+        "onboard_time": 1752377841,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 251383,
+        "num": 251383,
+        "word": "妻子5年向道士转账94万丈夫崩溃",
+        "onboard_time": 1752367761,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248675,
+        "num": 248675,
+        "word": "孙颖莎松弛等待女双决赛",
+        "onboard_time": 1752379401,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232897,
+        "num": 232897,
+        "word": "清朝状元的名字毫无网红感",
+        "onboard_time": 1752375441,
+        "rank": 24,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 198916,
+        "num": 232531,
+        "word": "国产剧终于又拍仵作探案戏了",
+        "onboard_time": 1752381261,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182884,
+        "num": 227535,
+        "word": "五哈",
+        "onboard_time": 1752382222,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182623,
+        "num": 220705,
+        "word": "言承旭说F4合体像做梦一样",
+        "onboard_time": 1752370400,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148118,
+        "num": 217825,
+        "word": "女双决赛有多精彩",
+        "onboard_time": 1752381381,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29282,
+        "num": 215971,
+        "word": "维修工中暑昏迷被挂5米多高电线",
+        "onboard_time": 1752381682,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212414,
+        "num": 212414,
+        "word": "GEN冠军",
+        "onboard_time": 1752381921,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 185565,
+        "num": 185565,
+        "word": "陈芋汐将与15岁新人一同出战10米台",
+        "onboard_time": 1752373761,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168627,
+        "num": 168627,
+        "word": "无缘外卖大战奶茶店员称很羡慕",
+        "onboard_time": 1752379159,
+        "rank": 32,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 165959,
+        "num": 165959,
+        "word": "梓渝爱豆时期",
+        "onboard_time": 1752375861,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165635,
+        "num": 165635,
+        "word": "王楚钦获胜后将球打给观众",
+        "onboard_time": 1752375441,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160244,
+        "num": 160244,
+        "word": "陈熠再次证明乒乓球没有应该",
+        "onboard_time": 1752377241,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154828,
+        "num": 154828,
+        "word": "杨瀚森主动出击",
+        "onboard_time": 1752380361,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149912,
+        "num": 149912,
+        "word": "GEN对战T1",
+        "onboard_time": 1752364938,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149232,
+        "num": 149232,
+        "word": "杨瀚森生涯首次背靠背",
+        "onboard_time": 1752379101,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36676,
+        "num": 148940,
+        "word": "迈阿密国际2比1纳什维尔",
+        "onboard_time": 1752381682,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148870,
+        "num": 148870,
+        "word": "打麻将瘦十斤",
+        "onboard_time": 1752377001,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142594,
+        "num": 142594,
+        "word": "宋亚轩旁边的居然是陈果",
+        "onboard_time": 1752382342,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141931,
+        "num": 141931,
+        "word": "工作超8小时闭眼3分钟被开除",
+        "onboard_time": 1752379282,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141087,
+        "num": 141087,
+        "word": "张本智和回应决赛对阵王楚钦",
+        "onboard_time": 1752380240,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139533,
+        "num": 139533,
+        "word": "能听懂这段的起码20年工龄",
+        "onboard_time": 1752381921,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130135,
+        "num": 130135,
+        "word": "内娱爱豆听不得恋爱两个字",
+        "onboard_time": 1752381982,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125110,
+        "num": 125110,
+        "word": "李欣莳与外国人不正当交往被开除",
+        "onboard_time": 1752377601,
+        "rank": 46,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 124526,
+        "num": 124526,
+        "word": "王楚钦打到了第7局的11比9",
+        "onboard_time": 1752378921,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123685,
+        "num": 123685,
+        "word": "杨瀚森单手劈扣",
+        "onboard_time": 1752381202,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119138,
+        "num": 119138,
+        "word": "女职工们为何没休过痛经假",
+        "onboard_time": 1752380482,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平高度重视城市工作#"
+    }
+  }
+}
