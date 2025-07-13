@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752384524178,
+  "endTime": 1752385511416,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -1187,6 +1187,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 1310974,
+      "num": 713562,
+      "word": "哇哈哈 宗庆后",
+      "onboard_time": 1752384021,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1309888,
       "num": 1309888,
       "word": "父母离婚没人管小孩商场玩手机",
@@ -2355,6 +2363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 913967,
+      "num": 913967,
+      "word": "结婚1年离婚40万陪嫁被判为共同财产",
+      "onboard_time": 1752381381,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 913286,
       "num": 913286,
       "word": "张靓颖 九万字",
@@ -2480,14 +2496,6 @@
       "word": "甘肃提级调查幼儿血铅异常问题",
       "onboard_time": 1752327923,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 884844,
-      "num": 884844,
-      "word": "结婚1年离婚40万陪嫁被判为共同财产",
-      "onboard_time": 1752381381,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -3681,6 +3689,14 @@
       "onboard_time": 1752076762,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 707461,
+      "num": 412609,
+      "word": "曾经的跑男都是实打实撕名牌",
+      "onboard_time": 1752383182,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 707337,
@@ -6419,14 +6435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 469188,
-      "num": 412609,
-      "word": "曾经的跑男都是实打实撕名牌",
-      "onboard_time": 1752383182,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 466559,
       "num": 466559,
       "word": "8岁女孩被邻居带到长江游泳溺亡",
@@ -6441,6 +6449,14 @@
       "onboard_time": 1751692822,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 464954,
+      "num": 464954,
+      "word": "word删除空白页",
+      "onboard_time": 1752383781,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 463843,
@@ -7763,14 +7779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 395564,
-      "num": 395564,
-      "word": "哇哈哈 宗庆后",
-      "onboard_time": 1752384021,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 393473,
       "num": 269856,
       "word": "朱珠 妈咪不会营业",
@@ -8299,6 +8307,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 369293,
+      "num": 369293,
+      "word": "甜馨去看侃爷演唱会",
+      "onboard_time": 1752383122,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 369202,
       "num": 369202,
       "word": "梓渝说是嘛谢谢你呀青春制作人",
@@ -8585,6 +8601,14 @@
       "onboard_time": 1751610023,
       "rank": 23,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 358048,
+      "num": 358048,
+      "word": "朝雪录",
+      "onboard_time": 1751943142,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 357591,
@@ -10083,14 +10107,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 305881,
-      "num": 305881,
-      "word": "朝雪录",
-      "onboard_time": 1751943142,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 305750,
       "num": 305750,
       "word": "好利来 光与夜之恋",
@@ -10299,14 +10315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 297697,
-      "num": 297697,
-      "word": "甜馨去看侃爷演唱会",
-      "onboard_time": 1752383122,
-      "rank": 20,
-      "category": "演出"
-    },
-    {
       "raw_hot": 297691,
       "num": 243776,
       "word": "单依纯歌手竞演前直播",
@@ -10401,6 +10409,14 @@
       "onboard_time": 1751469682,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 296200,
+      "num": 296200,
+      "word": "田栩宁路透",
+      "onboard_time": 1752384862,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 296130,
@@ -11777,14 +11793,6 @@
       "onboard_time": 1752276319,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 262807,
-      "num": 262807,
-      "word": "word删除空白页",
-      "onboard_time": 1752383781,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 262673,
@@ -13801,6 +13809,14 @@
       "onboard_time": 1752377001,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 221849,
+      "num": 221849,
+      "word": "偶遇鹿晗高瀚宇逛商场",
+      "onboard_time": 1752384502,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 221704,
@@ -17459,6 +17475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189054,
+      "num": 189054,
+      "word": "外卖商战别只盯着免费奶茶了",
+      "onboard_time": 1752384561,
+      "rank": 30,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 189001,
       "num": 189001,
       "word": "男子幼儿园门口1天虐杀4只猫",
@@ -18529,6 +18553,22 @@
       "onboard_time": 1752068244,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 180686,
+      "num": 290087,
+      "word": "央妈镜头下的章子怡吴京",
+      "onboard_time": 1752385040,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 180609,
+      "num": 180609,
+      "word": "王艺迪蒯曼冠军自拍",
+      "onboard_time": 1752384442,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 180579,
@@ -19907,6 +19947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 171790,
+      "num": 171790,
+      "word": "Chovy获得FMVP",
+      "onboard_time": 1752384202,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 171747,
       "num": 171747,
       "word": "特朗普称对加拿大征收35%关税",
@@ -20041,14 +20089,6 @@
       "onboard_time": 1752219805,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 170849,
-      "num": 170849,
-      "word": "Chovy获得FMVP",
-      "onboard_time": 1752384202,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 170848,
@@ -20489,6 +20529,14 @@
       "onboard_time": 1751757198,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167464,
+      "num": 167464,
+      "word": "魏哲鸣刘畅她竟然咬我",
+      "onboard_time": 1752384862,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 167245,
@@ -21915,6 +21963,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 158384,
+      "num": 158384,
+      "word": "张本智和回应决赛对阵王楚钦",
+      "onboard_time": 1752380240,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158316,
       "num": 158316,
       "word": "公交车上现异味司机要乘客下车合规",
@@ -22163,6 +22219,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 156893,
+      "num": 289655,
+      "word": "蒯曼夺冠采访边说边乐",
+      "onboard_time": 1752385040,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156884,
       "num": 172878,
       "word": "十分钟很短但这是她30年的痛苦",
@@ -22225,14 +22289,6 @@
       "onboard_time": 1751722646,
       "rank": 39,
       "category": "海外新闻,动漫"
-    },
-    {
-      "raw_hot": 156631,
-      "num": 156631,
-      "word": "张本智和回应决赛对阵王楚钦",
-      "onboard_time": 1752380240,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 156621,
@@ -22923,14 +22979,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 152932,
-      "num": 152932,
-      "word": "王艺迪蒯曼冠军自拍",
-      "onboard_time": 1752384442,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 152682,
       "num": 152682,
       "word": "控糖瓜 没熟",
@@ -23585,6 +23633,14 @@
       "onboard_time": 1752245005,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149435,
+      "num": 149435,
+      "word": "杨瀚森面对的是怎样的防守",
+      "onboard_time": 1752385221,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 149367,
@@ -25987,6 +26043,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 137945,
+      "num": 137945,
+      "word": "沈月黑色套装反差感",
+      "onboard_time": 1752384681,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137929,
       "num": 268871,
       "word": "上汽奥迪A5L开启预售",
@@ -26233,14 +26297,6 @@
       "onboard_time": 1752128122,
       "rank": 39,
       "category": "数码"
-    },
-    {
-      "raw_hot": 136624,
-      "num": 136624,
-      "word": "偶遇鹿晗高瀚宇逛商场",
-      "onboard_time": 1752384502,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 136622,
@@ -27841,6 +27897,14 @@
       "onboard_time": 1752381982,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130125,
+      "num": 130125,
+      "word": "烤鱼盘下蛆虫乱爬老板称没入嘴没事",
+      "onboard_time": 1752385461,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130031,
@@ -33907,6 +33971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105256,
+      "num": 151372,
+      "word": "张本智和回应医疗暂停",
+      "onboard_time": 1752385401,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105227,
       "num": 205537,
       "word": "歌手2025袭榜赛直播见面会",
@@ -35361,6 +35433,14 @@
       "onboard_time": 1751865083,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 97521,
+      "num": 298582,
+      "word": "女顾客遭店员猥亵获赔2万",
+      "onboard_time": 1752384082,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97440,
@@ -36913,6 +36993,14 @@
       "onboard_time": 1752061162,
       "rank": 49,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 84218,
+      "num": 121048,
+      "word": "孙颖莎海底捞月",
+      "onboard_time": 1752384802,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 84206,
@@ -39587,14 +39675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 55883,
-      "num": 298582,
-      "word": "女顾客遭店员猥亵获赔2万",
-      "onboard_time": 1752384082,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 55765,
       "num": 72952,
       "word": "张杰演唱会都不白来",
@@ -40225,6 +40305,14 @@
       "onboard_time": 1751560818,
       "rank": 40,
       "category": "军事"
+    },
+    {
+      "raw_hot": 47980,
+      "num": 353977,
+      "word": "失联高考生电话被自称缅甸人接听",
+      "onboard_time": 1752384741,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47920,
@@ -42921,6 +43009,14 @@
       "onboard_time": 1751394855,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23903,
+      "num": 189167,
+      "word": "北京260头生猪热中暑",
+      "onboard_time": 1752385282,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23878,

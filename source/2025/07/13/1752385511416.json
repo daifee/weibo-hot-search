@@ -1,0 +1,410 @@
+{
+  "runTime": 1752385511416,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2724356,
+        "num": 2724356,
+        "word": "出轨Zeus女生被学校开除",
+        "onboard_time": 1752372741,
+        "rank": 0,
+        "category": "民生新闻,电竞"
+      },
+      {
+        "raw_hot": 913967,
+        "num": 913967,
+        "word": "结婚1年离婚40万陪嫁被判为共同财产",
+        "onboard_time": 1752381381,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63591,
+        "num": 751567,
+        "word": "中国60项世界遗产全名单",
+        "onboard_time": 1752380181,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1310974,
+        "num": 713562,
+        "word": "哇哈哈 宗庆后",
+        "onboard_time": 1752384021,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1194645,
+        "num": 708443,
+        "word": "李欣莳 Zeus",
+        "onboard_time": 1752371781,
+        "rank": 4,
+        "category": "民生新闻,电竞"
+      },
+      {
+        "raw_hot": 660551,
+        "num": 660551,
+        "word": "孙颖莎王曼昱女双亚军",
+        "onboard_time": 1752381441,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 614499,
+        "num": 614499,
+        "word": "蔡国庆怼19岁选手怼了4分钟",
+        "onboard_time": 1752376221,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 555566,
+        "num": 555566,
+        "word": "奶茶店人人人人外卖小哥被吓退",
+        "onboard_time": 1752375682,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 464954,
+        "num": 464954,
+        "word": "word删除空白页",
+        "onboard_time": 1752383781,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 369293,
+        "num": 369293,
+        "word": "甜馨去看侃爷演唱会",
+        "onboard_time": 1752383122,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 707461,
+        "num": 368750,
+        "word": "曾经的跑男都是实打实撕名牌",
+        "onboard_time": 1752383182,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 493644,
+        "num": 364463,
+        "word": "女生被男孩尿衣服上家长还口出恶言",
+        "onboard_time": 1752377781,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 358048,
+        "num": 358048,
+        "word": "朝雪录",
+        "onboard_time": 1752383601,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 357732,
+        "num": 357732,
+        "word": "帮爷爷查话费时看到的短信",
+        "onboard_time": 1752375501,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 47980,
+        "num": 353977,
+        "word": "失联高考生电话被自称缅甸人接听",
+        "onboard_time": 1752384741,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351830,
+        "num": 351830,
+        "word": "侃爷上海演唱会嫌雨太大提前退场",
+        "onboard_time": 1752365479,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 296200,
+        "num": 296200,
+        "word": "田栩宁路透",
+        "onboard_time": 1752384862,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45619,
+        "num": 290587,
+        "word": "岚图FREE+掀翻20万级牌桌",
+        "onboard_time": 1752383481,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 180686,
+        "num": 290087,
+        "word": "央妈镜头下的章子怡吴京",
+        "onboard_time": 1752385040,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156893,
+        "num": 289655,
+        "word": "蒯曼夺冠采访边说边乐",
+        "onboard_time": 1752385040,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289609,
+        "num": 289609,
+        "word": "五月天密谋两年促成F4合体",
+        "onboard_time": 1752380901,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 282187,
+        "num": 282187,
+        "word": "王楚钦决赛迎战张本智和",
+        "onboard_time": 1752378140,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244947,
+        "num": 244947,
+        "word": "发现梓渝兔子塑的一定是天才",
+        "onboard_time": 1752376340,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243974,
+        "num": 243974,
+        "word": "魏哲鸣顶级阴湿男鬼",
+        "onboard_time": 1752379880,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221849,
+        "num": 221849,
+        "word": "偶遇鹿晗高瀚宇逛商场",
+        "onboard_time": 1752384502,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217661,
+        "num": 217661,
+        "word": "清朝状元的名字毫无网红感",
+        "onboard_time": 1752375441,
+        "rank": 25,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 207016,
+        "num": 207016,
+        "word": "误删微信聊天记录可以撤销了",
+        "onboard_time": 1752377841,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 193459,
+        "num": 193459,
+        "word": "宁艺卓费加罗七月刊封面预告",
+        "onboard_time": 1752383301,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 189978,
+        "num": 189978,
+        "word": "侃爷迟到早退观众可要求退款",
+        "onboard_time": 1752382882,
+        "rank": 28,
+        "category": "演出,民生新闻"
+      },
+      {
+        "raw_hot": 23903,
+        "num": 189167,
+        "word": "北京260头生猪热中暑",
+        "onboard_time": 1752385282,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189054,
+        "num": 189054,
+        "word": "外卖商战别只盯着免费奶茶了",
+        "onboard_time": 1752384561,
+        "rank": 30,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 180609,
+        "num": 180609,
+        "word": "王艺迪蒯曼冠军自拍",
+        "onboard_time": 1752384442,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180101,
+        "num": 180101,
+        "word": "GEN冠军",
+        "onboard_time": 1752381921,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 171790,
+        "num": 171790,
+        "word": "Chovy获得FMVP",
+        "onboard_time": 1752384202,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 171201,
+        "num": 171201,
+        "word": "沈腾对马丽两口子贴脸开大",
+        "onboard_time": 1752383422,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167464,
+        "num": 167464,
+        "word": "魏哲鸣刘畅她竟然咬我",
+        "onboard_time": 1752384862,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164776,
+        "num": 164776,
+        "word": "杨瀚森生涯首次背靠背",
+        "onboard_time": 1752379101,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158384,
+        "num": 158384,
+        "word": "张本智和回应决赛对阵王楚钦",
+        "onboard_time": 1752380240,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152391,
+        "num": 152391,
+        "word": "妻子5年向道士转账94万丈夫崩溃",
+        "onboard_time": 1752367761,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105256,
+        "num": 151372,
+        "word": "张本智和回应医疗暂停",
+        "onboard_time": 1752385401,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151308,
+        "num": 151308,
+        "word": "无缘外卖大战奶茶店员称很羡慕",
+        "onboard_time": 1752379159,
+        "rank": 40,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 97521,
+        "num": 149922,
+        "word": "女顾客遭店员猥亵获赔2万",
+        "onboard_time": 1752384082,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149670,
+        "num": 149670,
+        "word": "林诗栋3比4张本智和",
+        "onboard_time": 1752377541,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149435,
+        "num": 149435,
+        "word": "杨瀚森面对的是怎样的防守",
+        "onboard_time": 1752385221,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137945,
+        "num": 137945,
+        "word": "沈月黑色套装反差感",
+        "onboard_time": 1752384681,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137574,
+        "num": 137574,
+        "word": "杨瀚森主动出击",
+        "onboard_time": 1752380361,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130125,
+        "num": 130125,
+        "word": "烤鱼盘下蛆虫乱爬老板称没入嘴没事",
+        "onboard_time": 1752385461,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129674,
+        "num": 129674,
+        "word": "王楚钦打到了第7局的11比9",
+        "onboard_time": 1752378921,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122504,
+        "num": 122504,
+        "word": "张本智和决胜局手受伤",
+        "onboard_time": 1752378921,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84218,
+        "num": 121048,
+        "word": "孙颖莎海底捞月",
+        "onboard_time": 1752384802,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平高度重视城市工作#"
+    }
+  }
+}
