@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752446654694,
+  "endTime": 1752449208901,
   "band_list": [
     {
       "raw_hot": 14050966,
@@ -83,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1433511,
+      "num": 1433511,
+      "word": "被女子强搂亲吻男孩妈妈愤怒回应",
+      "onboard_time": 1752423024,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1388894,
       "num": 1388894,
       "word": "鹿晗布洛芬",
@@ -153,14 +161,6 @@
       "onboard_time": 1752376221,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1174087,
-      "num": 1174087,
-      "word": "被女子强搂亲吻男孩妈妈愤怒回应",
-      "onboard_time": 1752423024,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1150599,
@@ -611,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 476228,
+      "num": 184282,
+      "word": "网红张三嫂儿子确诊ADHD",
+      "onboard_time": 1752423922,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 459715,
       "num": 459715,
       "word": "德国男子连做2次断骨增高至1米9",
@@ -683,6 +691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 411671,
+      "num": 411671,
+      "word": "网友称因发黄杨钿甜相关视频被起诉",
+      "onboard_time": 1752422304,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 410858,
       "num": 494187,
       "word": "王楚钦决赛迎战张本智和",
@@ -745,14 +761,6 @@
       "onboard_time": 1752412703,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 369768,
-      "num": 150812,
-      "word": "网红张三嫂儿子确诊ADHD",
-      "onboard_time": 1752423922,
-      "rank": 36,
-      "category": "网红"
     },
     {
       "raw_hot": 369293,
@@ -1067,14 +1075,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 276575,
-      "num": 276575,
-      "word": "网友称因发黄杨钿甜相关视频被起诉",
-      "onboard_time": 1752422304,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 274682,
       "num": 274682,
       "word": "河南一炒米粉店竟有庆大霉素药品",
@@ -1089,6 +1089,14 @@
       "onboard_time": 1752343456,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 273691,
+      "num": 326281,
+      "word": "留几手谈大连工业被开除女生",
+      "onboard_time": 1752411804,
+      "rank": 35,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 273399,
@@ -1145,14 +1153,6 @@
       "onboard_time": 1752412104,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 255527,
-      "num": 326281,
-      "word": "留几手谈大连工业被开除女生",
-      "onboard_time": 1752411804,
-      "rank": 35,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 255150,
@@ -1227,6 +1227,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 235781,
+      "num": 278273,
+      "word": "马斯克特朗普决裂的洗牌",
+      "onboard_time": 1752423442,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 235428,
       "num": 235428,
       "word": "无忧渡收视率",
@@ -1249,14 +1257,6 @@
       "onboard_time": 1752367999,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 230789,
-      "num": 278273,
-      "word": "马斯克特朗普决裂的洗牌",
-      "onboard_time": 1752423442,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 226731,
@@ -1603,12 +1603,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 187757,
+      "num": 187757,
+      "word": "巴黎圣日耳曼世俱杯亚军",
+      "onboard_time": 1752447557,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186552,
       "num": 186552,
       "word": "朝雪录节奏",
       "onboard_time": 1752387500,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186239,
+      "num": 186239,
+      "word": "林俊杰",
+      "onboard_time": 1752448460,
+      "rank": 9,
+      "category": "演出"
     },
     {
       "raw_hot": 186053,
@@ -1809,6 +1825,14 @@
       "onboard_time": 1752389302,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173329,
+      "num": 173329,
+      "word": "印度女大学生疑遭性骚扰举报未果自焚",
+      "onboard_time": 1752422663,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 172401,
@@ -2219,14 +2243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 149008,
-      "num": 149008,
-      "word": "印度女大学生疑遭性骚扰举报未果自焚",
-      "onboard_time": 1752422663,
-      "rank": 28,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 148118,
       "num": 414050,
       "word": "女双决赛有多精彩",
@@ -2297,6 +2313,14 @@
       "onboard_time": 1752387622,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145142,
+      "num": 145142,
+      "word": "福州两男子拖400万现金坐动车",
+      "onboard_time": 1752420205,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144694,
@@ -3011,6 +3035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111651,
+      "num": 238205,
+      "word": "两医院HPV结果相反男子花万元治疗",
+      "onboard_time": 1752420085,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111369,
       "num": 111369,
       "word": "A股13家公司净利最高预增超800%",
@@ -3073,14 +3105,6 @@
       "onboard_time": 1752406041,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 106821,
-      "num": 106821,
-      "word": "福州两男子拖400万现金坐动车",
-      "onboard_time": 1752420205,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106759,
@@ -3411,14 +3435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 83793,
-      "num": 238205,
-      "word": "两医院HPV结果相反男子花万元治疗",
-      "onboard_time": 1752420085,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 83766,
       "num": 83766,
       "word": "能把家打扫得很干净的人都不简单",
@@ -3579,6 +3595,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72145,
+      "num": 101895,
+      "word": "辛纳首夺温网冠军",
+      "onboard_time": 1752448940,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 72071,
+      "num": 72071,
+      "word": "王诗龄咖啡馆旧照",
+      "onboard_time": 1752447619,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 71726,
       "num": 71726,
       "word": "2025世俱杯",
@@ -3592,6 +3624,14 @@
       "word": "张子宇统治力",
       "onboard_time": 1752415947,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 65321,
+      "num": 65321,
+      "word": "帕尔默梅开二度",
+      "onboard_time": 1752448520,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -3673,6 +3713,14 @@
       "onboard_time": 1752397281,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50478,
+      "num": 50478,
+      "word": "认知水平决定相处模式",
+      "onboard_time": 1752441974,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 49939,
@@ -3777,14 +3825,6 @@
       "onboard_time": 1752426319,
       "rank": 9,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 36358,
-      "num": 36358,
-      "word": "认知水平决定相处模式",
-      "onboard_time": 1752441974,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 33800,
