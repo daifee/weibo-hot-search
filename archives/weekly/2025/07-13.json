@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752421241792,
+  "endTime": 1752424285355,
   "band_list": [
     {
       "raw_hot": 14050966,
@@ -40,6 +40,14 @@
       "word": "私密视频被恶意传播男方岂能逍遥法外",
       "onboard_time": 1752401181,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1716694,
+      "num": 589604,
+      "word": "受处分女生不必被拉出来游街",
+      "onboard_time": 1752419665,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 1150599,
-      "num": 567125,
+      "num": 712922,
       "word": "鹿晗我输了",
       "onboard_time": 1752417268,
       "rank": 33,
@@ -185,6 +193,14 @@
       "onboard_time": 1752411865,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 974981,
+      "num": 974981,
+      "word": "被女子强搂亲吻男孩妈妈愤怒回应",
+      "onboard_time": 1752423024,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 971130,
@@ -467,6 +483,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 597154,
+      "num": 597154,
+      "word": "让环卫工翻8吨垃圾找手表有必要吗",
+      "onboard_time": 1752420684,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 592870,
       "num": 592870,
       "word": "王楚钦4比3F勒布伦",
@@ -489,14 +513,6 @@
       "onboard_time": 1752317001,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 555298,
-      "num": 555298,
-      "word": "受处分女生不必被拉出来游街",
-      "onboard_time": 1752419665,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 548287,
@@ -1091,6 +1107,14 @@
       "category": "演出,民生新闻"
     },
     {
+      "raw_hot": 259994,
+      "num": 259994,
+      "word": "夏以昼coser哭了",
+      "onboard_time": 1752419965,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 256545,
       "num": 350788,
       "word": "20250001号通知书排面拉满",
@@ -1153,6 +1177,14 @@
       "onboard_time": 1752409884,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 243520,
+      "num": 243520,
+      "word": "Angelababy85花首个钻超",
+      "onboard_time": 1752423562,
+      "rank": 13,
+      "category": "作品衍生,综艺"
     },
     {
       "raw_hot": 243411,
@@ -1249,14 +1281,6 @@
       "onboard_time": 1752384502,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 221544,
-      "num": 221544,
-      "word": "夏以昼coser哭了",
-      "onboard_time": 1752419965,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 220640,
@@ -2107,6 +2131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 152024,
+      "num": 276163,
+      "word": "网友称因发黄杨钿甜相关视频被起诉",
+      "onboard_time": 1752422304,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151641,
       "num": 161552,
       "word": "沈腾把裤子都气掉了",
@@ -2209,6 +2241,14 @@
       "onboard_time": 1752406641,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146954,
+      "num": 146954,
+      "word": "刘宇宁折腰实绩图",
+      "onboard_time": 1752423262,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 146834,
@@ -2611,6 +2651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124221,
+      "num": 124221,
+      "word": "印度女大学生疑遭性骚扰举报未果自焚",
+      "onboard_time": 1752422663,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 123685,
       "num": 123685,
       "word": "杨瀚森单手劈扣",
@@ -3003,6 +3051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106821,
+      "num": 106821,
+      "word": "福州两男子拖400万现金坐动车",
+      "onboard_time": 1752420205,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106759,
       "num": 263019,
       "word": "颜丹晨近期状态",
@@ -3107,6 +3163,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 103618,
+      "num": 103618,
+      "word": "马斯克特朗普决裂的洗牌",
+      "onboard_time": 1752423442,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 103173,
+      "num": 103173,
+      "word": "网红张三嫂儿子确诊ADHD",
+      "onboard_time": 1752423922,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 102726,
       "num": 313538,
       "word": "孙菲菲感谢霍思燕曾为自己发声",
@@ -3135,14 +3207,6 @@
       "num": 101514,
       "word": "男子顺风车猥亵同座女子被拘",
       "onboard_time": 1752370939,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 100958,
-      "num": 100958,
-      "word": "福州两男子拖400万现金坐动车",
-      "onboard_time": 1752420205,
       "rank": 48,
       "category": "民生新闻"
     },
@@ -3331,6 +3395,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83793,
+      "num": 238205,
+      "word": "两医院HPV结果相反男子花万元治疗",
+      "onboard_time": 1752420085,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83766,
+      "num": 83766,
+      "word": "能把家打扫得很干净的人都不简单",
+      "onboard_time": 1752422063,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 83553,
       "num": 83553,
       "word": "天气预报会不会刻意压低数值",
@@ -3379,12 +3459,12 @@
       "category": "幽默,健康医疗"
     },
     {
-      "raw_hot": 79504,
-      "num": 238205,
-      "word": "两医院HPV结果相反男子花万元治疗",
-      "onboard_time": 1752420085,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 79897,
+      "num": 221892,
+      "word": "考编专用校分数远超一线985",
+      "onboard_time": 1752421823,
+      "rank": 14,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 79391,
@@ -3529,14 +3609,6 @@
       "onboard_time": 1752399082,
       "rank": 14,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 58278,
-      "num": 301856,
-      "word": "让环卫工翻8吨垃圾找手表有必要吗",
-      "onboard_time": 1752420684,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 52786,
