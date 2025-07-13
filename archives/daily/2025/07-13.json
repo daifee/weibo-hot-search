@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752403563580,
+  "endTime": 1752405729207,
   "band_list": [
     {
       "raw_hot": 2900025,
@@ -9,6 +9,14 @@
       "onboard_time": 1752372741,
       "rank": 8,
       "category": "民生新闻,电竞"
+    },
+    {
+      "raw_hot": 2549402,
+      "num": 2549402,
+      "word": "女生出轨Zeus是私德瑕疵被放大",
+      "onboard_time": 1752401661,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1945570,
@@ -40,14 +48,6 @@
       "word": "娃哈哈 宗庆后",
       "onboard_time": 1752384021,
       "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1433628,
-      "num": 1433628,
-      "word": "女生出轨Zeus是私德瑕疵被放大",
-      "onboard_time": 1752401661,
-      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -251,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 787284,
+      "num": 787284,
+      "word": "大连工业大学李同学全名可不被公告",
+      "onboard_time": 1752403340,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 781905,
       "num": 781905,
       "word": "外卖大战有骑手一天赚1000多元",
@@ -281,6 +289,22 @@
       "onboard_time": 1752385701,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 736383,
+      "num": 584301,
+      "word": "女子买泳衣走光后被告知不能游泳",
+      "onboard_time": 1752404361,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 727856,
+      "num": 727856,
+      "word": "胡锡进不支持开除出轨Zeus女生",
+      "onboard_time": 1752402021,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 722800,
@@ -363,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 591773,
+      "num": 591773,
+      "word": "锦绣芳华大结局",
+      "onboard_time": 1752403461,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 567169,
       "num": 125971,
       "word": "周深录制综艺节目遭嘉宾拖拽",
@@ -395,6 +427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 507151,
+      "num": 507151,
+      "word": "高校对出轨Zeus女生处罚是否过重",
+      "onboard_time": 1752402741,
+      "rank": 11,
+      "category": "民生新闻,电竞"
+    },
+    {
       "raw_hot": 504558,
       "num": 504558,
       "word": "0元奶茶能喝多久",
@@ -419,12 +459,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 445783,
-      "num": 445783,
-      "word": "胡锡进不支持开除出轨Zeus女生",
-      "onboard_time": 1752402021,
-      "rank": 20,
-      "category": "民生新闻"
+      "raw_hot": 459715,
+      "num": 459715,
+      "word": "德国男子连做2次断骨增高至1米9",
+      "onboard_time": 1752400401,
+      "rank": 12,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 426703,
@@ -515,14 +555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 380002,
-      "num": 317724,
-      "word": "德国男子连做2次断骨增高至1米9",
-      "onboard_time": 1752400401,
-      "rank": 12,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 372075,
       "num": 380798,
       "word": "杭州一奶茶店忙到现场点单有啥给啥",
@@ -561,14 +593,6 @@
       "onboard_time": 1752383601,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 353967,
-      "num": 353967,
-      "word": "高校对出轨Zeus女生处罚是否过重",
-      "onboard_time": 1752402741,
-      "rank": 11,
-      "category": "民生新闻,电竞"
     },
     {
       "raw_hot": 345279,
@@ -651,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 313438,
+      "num": 313438,
+      "word": "仙逆",
+      "onboard_time": 1752402441,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 307903,
       "num": 307903,
       "word": "免费奶茶",
@@ -723,6 +755,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 283250,
+      "num": 283250,
+      "word": "何惟芳蒋长扬人鬼情未了",
+      "onboard_time": 1752403101,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 281025,
       "num": 316226,
       "word": "虞书欣王安宇一念江南招商信息",
@@ -763,20 +803,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 272077,
+      "num": 272077,
+      "word": "王橹杰心率",
+      "onboard_time": 1752401480,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 270588,
       "num": 317482,
       "word": "央妈镜头下的章子怡吴京",
       "onboard_time": 1752385040,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 256196,
-      "num": 256196,
-      "word": "王橹杰心率",
-      "onboard_time": 1752401480,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 255150,
@@ -801,14 +841,6 @@
       "onboard_time": 1752381921,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 246407,
-      "num": 246407,
-      "word": "仙逆",
-      "onboard_time": 1752402441,
-      "rank": 42,
-      "category": "动漫"
     },
     {
       "raw_hot": 244815,
@@ -857,6 +889,14 @@
       "onboard_time": 1752367999,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 227772,
+      "num": 227772,
+      "word": "林俊杰演唱会",
+      "onboard_time": 1752404361,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 225630,
@@ -995,6 +1035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200177,
+      "num": 200177,
+      "word": "邢昭林卢洋洋还在一起",
+      "onboard_time": 1752405321,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199178,
       "num": 199178,
       "word": "田栩宁帅的好权威",
@@ -1081,14 +1129,6 @@
       "onboard_time": 1752393981,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 190281,
-      "num": 190281,
-      "word": "何惟芳蒋长扬人鬼情未了",
-      "onboard_time": 1752403101,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 189746,
@@ -1651,6 +1691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145591,
+      "num": 145591,
+      "word": "男子因妻子总抱怨长期生闷气患肺癌",
+      "onboard_time": 1752404721,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145539,
       "num": 153153,
       "word": "李兰迪古早名门贵女",
@@ -1779,6 +1827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137000,
+      "num": 137000,
+      "word": "女子昏厥男子跪地心肺复苏被指袭胸",
+      "onboard_time": 1752404901,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135853,
       "num": 135853,
       "word": "Wei疑似加入iG",
@@ -1859,20 +1915,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 131051,
-      "num": 131051,
-      "word": "锦绣芳华大结局",
-      "onboard_time": 1752403461,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 130135,
       "num": 130135,
       "word": "内娱爱豆听不得恋爱两个字",
       "onboard_time": 1752381982,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129172,
+      "num": 129172,
+      "word": "仙逆 摸脸",
+      "onboard_time": 1752405321,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 129087,
@@ -1899,6 +1955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127279,
+      "num": 127279,
+      "word": "RW荣都首鸡",
+      "onboard_time": 1752405022,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 126060,
       "num": 126060,
       "word": "王一博早期微博被做成书了",
@@ -1913,6 +1977,14 @@
       "onboard_time": 1752398721,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 125651,
+      "num": 125651,
+      "word": "娃哈哈 宗馥莉",
+      "onboard_time": 1752405022,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124732,
@@ -2131,6 +2203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 114179,
+      "num": 356213,
+      "word": "乘客疑因机场摆渡车不通风晕倒",
+      "onboard_time": 1752402741,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113815,
       "num": 113815,
       "word": "鹿晗发博晒自拍",
@@ -2195,6 +2275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110591,
+      "num": 127717,
+      "word": "山东一村靠知了猴营收430万元",
+      "onboard_time": 1752402262,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109431,
       "num": 109431,
       "word": "T1无缘MSI第三冠",
@@ -2219,6 +2307,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106930,
+      "num": 106930,
+      "word": "正当防卫",
+      "onboard_time": 1752405560,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 106759,
+      "num": 106759,
+      "word": "颜丹晨近期状态",
+      "onboard_time": 1752404242,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106242,
       "num": 106242,
       "word": "印度男子溜进学校宿舍性侵多名女童",
@@ -2227,20 +2331,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 105753,
-      "num": 105753,
-      "word": "山东一村靠知了猴营收430万元",
-      "onboard_time": 1752402262,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 105606,
       "num": 105606,
       "word": "从未见过这样的何老师",
       "onboard_time": 1752398782,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105021,
+      "num": 105021,
+      "word": "敖瑞鹏 只为她袖手天下",
+      "onboard_time": 1752403821,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 104787,
@@ -2289,6 +2393,14 @@
       "onboard_time": 1752389782,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 103312,
+      "num": 104970,
+      "word": "蒋长扬来人护驾哥重生啦",
+      "onboard_time": 1752405502,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 101604,
@@ -2539,6 +2651,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 62468,
+      "num": 1019145,
+      "word": "旋律一响梦回2008北京奥运",
+      "onboard_time": 1752401780,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 59305,
       "num": 59305,
       "word": "李昀锐化妆一小时三分钟入水",
@@ -2579,28 +2699,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 49946,
-      "num": 1019145,
-      "word": "旋律一响梦回2008北京奥运",
-      "onboard_time": 1752401780,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 49939,
       "num": 49939,
       "word": "耳帝买股SHarK新说唱冠军",
       "onboard_time": 1752339739,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 49420,
-      "num": 356213,
-      "word": "乘客疑因机场摆渡车不通风晕倒",
-      "onboard_time": 1752402741,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 48438,
@@ -2691,6 +2795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31663,
+      "num": 588480,
+      "word": "又有航司推行值勤期间不用穿高跟鞋",
+      "onboard_time": 1752404481,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30302,
       "num": 152540,
       "word": "在漫展挂到了牧神记专家号",
@@ -2704,14 +2816,6 @@
       "word": "维修工中暑昏迷被挂5米多高电线",
       "onboard_time": 1752381682,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26987,
-      "num": 202101,
-      "word": "大连工业大学李同学全名可不被公告",
-      "onboard_time": 1752403340,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -2761,6 +2865,14 @@
       "onboard_time": 1752402981,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21517,
+      "num": 87087,
+      "word": "杨舒予太帅了",
+      "onboard_time": 1752405441,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 21043,
