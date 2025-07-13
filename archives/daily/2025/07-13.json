@@ -1,7 +1,23 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752363719749,
+  "endTime": 1752373393881,
   "band_list": [
+    {
+      "raw_hot": 1334611,
+      "num": 821306,
+      "word": "骑手发现跑单收入反超餐费",
+      "onboard_time": 1752365659,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1271020,
+      "num": 1271020,
+      "word": "妻子5年向道士转账94万丈夫崩溃",
+      "onboard_time": 1752367761,
+      "rank": 0,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1250859,
       "num": 453116,
@@ -9,6 +25,14 @@
       "onboard_time": 1752330983,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1039757,
+      "num": 1039757,
+      "word": "侃爷上海演唱会嫌雨太大提前退场",
+      "onboard_time": 1752365479,
+      "rank": 1,
+      "category": "演出"
     },
     {
       "raw_hot": 942563,
@@ -19,12 +43,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 938804,
+      "num": 938804,
+      "word": "王楚钦vsF勒布伦",
+      "onboard_time": 1752368479,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 906933,
       "num": 993043,
       "word": "陈熠4比3蒯曼",
       "onboard_time": 1752362177,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 845815,
+      "num": 845815,
+      "word": "言承旭说F4合体像做梦一样",
+      "onboard_time": 1752370400,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 807925,
@@ -59,6 +99,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 718838,
+      "num": 718838,
+      "word": "李欣莳 Zeus",
+      "onboard_time": 1752371781,
+      "rank": 6,
+      "category": "民生新闻,电竞"
+    },
+    {
       "raw_hot": 688885,
       "num": 688885,
       "word": "hi6后期",
@@ -91,12 +139,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 548287,
+      "num": 548287,
+      "word": "奔跑吧",
+      "onboard_time": 1752370519,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 409265,
+      "num": 409265,
+      "word": "出轨Zeus女生被学校开除",
+      "onboard_time": 1752372741,
+      "rank": 8,
+      "category": "民生新闻,电竞"
+    },
+    {
+      "raw_hot": 380502,
+      "num": 380502,
+      "word": "一代人有一代人的鸡蛋要领",
+      "onboard_time": 1752368538,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 359786,
       "num": 317791,
       "word": "拜托这可是EXO出道曲",
       "onboard_time": 1752332004,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 345279,
+      "num": 345279,
+      "word": "父亲死亡80万赔偿金打给姑父",
+      "onboard_time": 1752365418,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 322644,
@@ -163,6 +243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 271263,
+      "num": 380798,
+      "word": "杭州一奶茶店忙到现场点单有啥给啥",
+      "onboard_time": 1752371300,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 237971,
       "num": 237971,
       "word": "ye 退票",
@@ -179,6 +267,30 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 231903,
+      "num": 231903,
+      "word": "大同大学拟解聘10名长期旷工教师",
+      "onboard_time": 1752367999,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 224221,
+      "num": 224221,
+      "word": "北京申奥成功24周年了",
+      "onboard_time": 1752367160,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 220640,
+      "num": 220640,
+      "word": "越南游客遭日本店员掌掴",
+      "onboard_time": 1752368479,
+      "rank": 23,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 214618,
       "num": 214618,
       "word": "赵雅芝谈不扮白素贞造型的原因",
@@ -187,11 +299,43 @@
       "category": "演出"
     },
     {
+      "raw_hot": 212761,
+      "num": 231524,
+      "word": "薛之谦说认识王源一个世纪才25岁",
+      "onboard_time": 1752363138,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 210244,
+      "num": 226298,
+      "word": "王楚钦4比3F勒布伦",
+      "onboard_time": 1752372623,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 203184,
+      "num": 119942,
+      "word": "外卖大战有人0元喝了8杯奶茶",
+      "onboard_time": 1752366861,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 202151,
       "num": 192027,
       "word": "19岁男生鼻子不舒服查出罕见癌症",
       "onboard_time": 1752330204,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194578,
+      "num": 194578,
+      "word": "外卖员日入千元奶茶店员累到哭喊",
+      "onboard_time": 1752366079,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -227,12 +371,68 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175695,
+      "num": 228973,
+      "word": "彭昱畅刚瘦回日系花美男",
+      "onboard_time": 1752363138,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 174419,
+      "num": 174419,
+      "word": "梅西梅开二度",
+      "onboard_time": 1752372140,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 170181,
+      "num": 170181,
+      "word": "重庆渝中区文旅委致歉",
+      "onboard_time": 1752371300,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167122,
+      "num": 167122,
+      "word": "多地未来7天高温全勤",
+      "onboard_time": 1752372559,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166319,
       "num": 166319,
       "word": "孙燕姿又偷偷捐款了",
       "onboard_time": 1752335721,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164753,
+      "num": 172276,
+      "word": "韩安冉支持女儿整容",
+      "onboard_time": 1752369200,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 159332,
+      "num": 159332,
+      "word": "台风百合已生成",
+      "onboard_time": 1752369381,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153830,
+      "num": 153830,
+      "word": "下周日就入伏了",
+      "onboard_time": 1752371721,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150386,
@@ -275,12 +475,60 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145191,
+      "num": 145191,
+      "word": "超10块的饭不点超5块的奶茶不喝",
+      "onboard_time": 1752372559,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144265,
+      "num": 170646,
+      "word": "杨丽萍看完了藏海传",
+      "onboard_time": 1752370700,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 138490,
+      "num": 138490,
+      "word": "外卖大战有茶饮店称亏本",
+      "onboard_time": 1752372199,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137085,
+      "num": 137085,
+      "word": "欠租8天行李被打包万元押金也没了",
+      "onboard_time": 1752370221,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134879,
+      "num": 170383,
+      "word": "宋祖儿甄嘉芙造型路透",
+      "onboard_time": 1752371781,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131421,
       "num": 131421,
       "word": "高温晒背2小时67岁阿姨开颅保命",
       "onboard_time": 1752316701,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128099,
+      "num": 128099,
+      "word": "克莱有女朋友了",
+      "onboard_time": 1752371120,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 126060,
@@ -307,12 +555,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122708,
+      "num": 122708,
+      "word": "美国人因关税大量采购打折商品",
+      "onboard_time": 1752368479,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 121946,
       "num": 120918,
       "word": "宋佳马柏全拥抱",
       "onboard_time": 1752333144,
       "rank": 34,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 121046,
+      "num": 121046,
+      "word": "洗完衣服一定要马上晾的原因",
+      "onboard_time": 1752363076,
+      "rank": 25,
+      "category": "科学科普"
     },
     {
       "raw_hot": 120994,
@@ -387,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111949,
+      "num": 111949,
+      "word": "陈熠说赢蒯曼是运气稍微好了一点",
+      "onboard_time": 1752367100,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106242,
       "num": 106242,
       "word": "印度男子溜进学校宿舍性侵多名女童",
@@ -403,6 +675,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103838,
+      "num": 103838,
+      "word": "韩红回应孙燕姿偷偷捐款",
+      "onboard_time": 1752366861,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 101514,
+      "num": 101514,
+      "word": "男子顺风车猥亵同座女子被拘",
+      "onboard_time": 1752370939,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96410,
       "num": 96410,
       "word": "马柏全黑色美甲",
@@ -417,14 +705,6 @@
       "onboard_time": 1752330504,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 94410,
-      "num": 94410,
-      "word": "洗完衣服一定要马上晾的原因",
-      "onboard_time": 1752363076,
-      "rank": 25,
-      "category": "科学科普"
     },
     {
       "raw_hot": 91895,
@@ -515,14 +795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 68432,
-      "num": 68432,
-      "word": "薛之谦说认识王源一个世纪才25岁",
-      "onboard_time": 1752363138,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 62525,
       "num": 62525,
       "word": "赵雅芝千字长文感谢新白",
@@ -539,12 +811,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 58063,
-      "num": 58063,
-      "word": "彭昱畅刚瘦回日系花美男",
-      "onboard_time": 1752363138,
-      "rank": 37,
-      "category": "艺人"
+      "raw_hot": 52933,
+      "num": 265983,
+      "word": "林诗栋vs张本智和",
+      "onboard_time": 1752372920,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 52786,
@@ -620,7 +892,7 @@
     },
     {
       "raw_hot": 24348,
-      "num": 701183,
+      "num": 953552,
       "word": "数读我国外贸发展新业态新模式",
       "onboard_time": 1752325703,
       "rank": 2,
@@ -649,6 +921,14 @@
       "onboard_time": 1752344297,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16784,
+      "num": 228535,
+      "word": "陈熠过五关斩六将",
+      "onboard_time": 1752372861,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 15873,
