@@ -1,6 +1,6 @@
 {
   "startTime": 1752424285355,
-  "endTime": 1752432527351,
+  "endTime": 1752434504764,
   "band_list": [
     {
       "raw_hot": 5991584,
@@ -465,6 +465,14 @@
       "onboard_time": 1752427518,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18905,
+      "num": 22546,
+      "word": "2025世俱杯",
+      "onboard_time": 1752432555,
+      "rank": 42,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
