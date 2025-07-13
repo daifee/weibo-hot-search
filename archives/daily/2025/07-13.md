@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/13 00:31:18 ~ 2025/07/13 10:23:13
+本榜单时间：2025/07/13 00:31:18 ~ 2025/07/13 10:42:00
 </p>
 </blockquote>
 <p>
@@ -13,6 +13,12 @@
 热榜
 </h2>
 <ol>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%87%BA%E8%BD%A8Zeus%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%AD%A6%E6%A0%A1%E5%BC%80%E9%99%A4%23" target="weibo">
+出轨Zeus女生被学校开除（热度：2019469）
+</a>
+</li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AA%91%E6%89%8B%E5%8F%91%E7%8E%B0%E8%B7%91%E5%8D%95%E6%94%B6%E5%85%A5%E5%8F%8D%E8%B6%85%E9%A4%90%E8%B4%B9%23" target="weibo">
@@ -33,8 +39,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%AC%A3%E8%8E%B3%20Zeus%23" target="weibo">
+李欣莳 Zeus（热度：1223629）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BE%83%E7%88%B7%E4%B8%8A%E6%B5%B7%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AB%8C%E9%9B%A8%E5%A4%AA%E5%A4%A7%E6%8F%90%E5%89%8D%E9%80%80%E5%9C%BA%23" target="weibo">
 侃爷上海演唱会嫌雨太大提前退场（热度：1039757）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%BF%9E%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6%E6%8B%9F%E5%BC%80%E9%99%A4%E6%9D%8E%E6%AC%A3%E8%8E%B3%23" target="weibo">
+大连工业大学拟开除李欣莳（热度：956075）
 </a>
 </li>
 
@@ -87,12 +105,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%AC%A3%E8%8E%B3%20Zeus%23" target="weibo">
-李欣莳 Zeus（热度：718838）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23hi6%E5%90%8E%E6%9C%9F%23" target="weibo">
 hi6后期（热度：688885）
 </a>
@@ -111,6 +123,12 @@ hi6后期（热度：688885）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A64%E6%AF%943F%E5%8B%92%E5%B8%83%E4%BC%A6%23" target="weibo">
+王楚钦4比3F勒布伦（热度：592870）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%BD%95%E5%88%B6%E7%BB%BC%E8%89%BA%E8%8A%82%E7%9B%AE%E9%81%AD%E5%98%89%E5%AE%BE%E6%8B%96%E6%8B%BD%23" target="weibo">
 周深录制综艺节目遭嘉宾拖拽（热度：567169）
 </a>
@@ -119,12 +137,6 @@ hi6后期（热度：688885）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%23" target="weibo">
 奔跑吧（热度：548287）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%87%BA%E8%BD%A8Zeus%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%AD%A6%E6%A0%A1%E5%BC%80%E9%99%A4%23" target="weibo">
-出轨Zeus女生被学校开除（热度：409265）
 </a>
 </li>
 
@@ -143,6 +155,12 @@ hi6后期（热度：688885）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E6%AD%BB%E4%BA%A180%E4%B8%87%E8%B5%94%E5%81%BF%E9%87%91%E6%89%93%E7%BB%99%E5%A7%91%E7%88%B6%23" target="weibo">
 父亲死亡80万赔偿金打给姑父（热度：345279）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%B8%80%E5%A5%B6%E8%8C%B6%E5%BA%97%E5%BF%99%E5%88%B0%E7%8E%B0%E5%9C%BA%E7%82%B9%E5%8D%95%E6%9C%89%E5%95%A5%E7%BB%99%E5%95%A5%23" target="weibo">
+杭州一奶茶店忙到现场点单有啥给啥（热度：338755）
 </a>
 </li>
 
@@ -195,8 +213,14 @@ hi6后期（热度：688885）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%B8%80%E5%A5%B6%E8%8C%B6%E5%BA%97%E5%BF%99%E5%88%B0%E7%8E%B0%E5%9C%BA%E7%82%B9%E5%8D%95%E6%9C%89%E5%95%A5%E7%BB%99%E5%95%A5%23" target="weibo">
-杭州一奶茶店忙到现场点单有啥给啥（热度：271263）
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%8A%8B%E6%B1%90%E5%B0%86%E4%B8%8E15%E5%B2%81%E6%96%B0%E4%BA%BA%E4%B8%80%E5%90%8C%E5%87%BA%E6%88%9810%E7%B1%B3%E5%8F%B0%23" target="weibo">
+陈芋汐将与15岁新人一同出战10米台（热度：264049）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8A%B1%E5%8B%A4%E8%A7%82%E6%88%98%E7%8E%8B%E6%A5%9A%E9%92%A6%23" target="weibo">
+王励勤观战王楚钦（热度：244815）
 </a>
 </li>
 
@@ -243,12 +267,6 @@ ye 退票（热度：237971）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A64%E6%AF%943F%E5%8B%92%E5%B8%83%E4%BC%A6%23" target="weibo">
-王楚钦4比3F勒布伦（热度：210244）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E5%A4%A7%E6%88%98%E6%9C%89%E4%BA%BA0%E5%85%83%E5%96%9D%E4%BA%868%E6%9D%AF%E5%A5%B6%E8%8C%B6%23" target="weibo">
 外卖大战有人0元喝了8杯奶茶（热度：203184）
 </a>
@@ -275,6 +293,18 @@ ye 退票（热度：237971）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E6%9B%BC%E6%98%B1vs%E7%8E%8B%E8%89%BA%E8%BF%AA%E8%92%AF%E6%9B%BC%23" target="weibo">
 孙颖莎王曼昱vs王艺迪蒯曼（热度：191737）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B6%8510%E5%9D%97%E7%9A%84%E9%A5%AD%E4%B8%8D%E7%82%B9%E8%B6%855%E5%9D%97%E7%9A%84%E5%A5%B6%E8%8C%B6%E4%B8%8D%E5%96%9D%23" target="weibo">
+超10块的饭不点超5块的奶茶不喝（热度：189746）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%99%8B%E7%BA%A7%E7%BE%8E%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%86%B3%E8%B5%9B%23" target="weibo">
+王楚钦晋级美国大满贯决赛（热度：185841）
 </a>
 </li>
 
@@ -327,6 +357,12 @@ ye 退票（热度：237971）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23WTT%23" target="weibo">
+WTT（热度：162907）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E7%99%BE%E5%90%88%E5%B7%B2%E7%94%9F%E6%88%90%23" target="weibo">
 台风百合已生成（热度：159332）
 </a>
@@ -369,14 +405,14 @@ F4五月天演唱会合唱流星雨（热度：149534）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B6%8510%E5%9D%97%E7%9A%84%E9%A5%AD%E4%B8%8D%E7%82%B9%E8%B6%855%E5%9D%97%E7%9A%84%E5%A5%B6%E8%8C%B6%E4%B8%8D%E5%96%9D%23" target="weibo">
-超10块的饭不点超5块的奶茶不喝（热度：145191）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E4%B8%BD%E8%90%8D%E7%9C%8B%E5%AE%8C%E4%BA%86%E8%97%8F%E6%B5%B7%E4%BC%A0%23" target="weibo">
+杨丽萍看完了藏海传（热度：144265）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E4%B8%BD%E8%90%8D%E7%9C%8B%E5%AE%8C%E4%BA%86%E8%97%8F%E6%B5%B7%E4%BC%A0%23" target="weibo">
-杨丽萍看完了藏海传（热度：144265）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%A5%96%E5%84%BF%E7%94%84%E5%98%89%E8%8A%99%E9%80%A0%E5%9E%8B%E8%B7%AF%E9%80%8F%23" target="weibo">
+宋祖儿甄嘉芙造型路透（热度：138957）
 </a>
 </li>
 
@@ -389,12 +425,6 @@ F4五月天演唱会合唱流星雨（热度：149534）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AC%A0%E7%A7%9F8%E5%A4%A9%E8%A1%8C%E6%9D%8E%E8%A2%AB%E6%89%93%E5%8C%85%E4%B8%87%E5%85%83%E6%8A%BC%E9%87%91%E4%B9%9F%E6%B2%A1%E4%BA%86%23" target="weibo">
 欠租8天行李被打包万元押金也没了（热度：137085）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%A5%96%E5%84%BF%E7%94%84%E5%98%89%E8%8A%99%E9%80%A0%E5%9E%8B%E8%B7%AF%E9%80%8F%23" target="weibo">
-宋祖儿甄嘉芙造型路透（热度：134879）
 </a>
 </li>
 
@@ -431,6 +461,12 @@ F4五月天演唱会合唱流星雨（热度：149534）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BA%BA%E5%9B%A0%E5%85%B3%E7%A8%8E%E5%A4%A7%E9%87%8F%E9%87%87%E8%B4%AD%E6%89%93%E6%8A%98%E5%95%86%E5%93%81%23" target="weibo">
 美国人因关税大量采购打折商品（热度：122708）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%BF%9BWTT%E7%94%B7%E5%8D%95%E5%86%B3%E8%B5%9B%23" target="weibo">
+王楚钦进WTT男单决赛（热度：122001）
 </a>
 </li>
 
@@ -495,6 +531,12 @@ F4五月天演唱会合唱流星雨（热度：149534）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%87%91%E6%AF%9B%E5%9C%A8%E5%96%9D%E5%A5%B6%E6%97%B6%E7%9D%A1%E7%9D%80%E4%BA%86%23" target="weibo">
+小金毛在喝奶时睡着了（热度：112917）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%B9%E6%A0%BC%E5%84%BF%E5%AD%90Joe%E5%90%A6%E8%AE%A4%E6%81%8B%E6%83%85%23" target="weibo">
 曹格儿子Joe否认恋情（热度：112330）
 </a>
@@ -515,6 +557,12 @@ F4五月天演唱会合唱流星雨（热度：149534）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%AF%E4%B8%BD%E5%A5%B3%E5%84%BF%E6%99%8B%E7%BA%A7%E5%85%A8%E5%9B%BD12%E5%BC%BA%23" target="weibo">
 张凯丽女儿晋级全国12强（热度：104787）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23T1%E6%9E%81%E8%87%B4%E6%8B%89%E6%89%AFGEN%23" target="weibo">
+T1极致拉扯GEN（热度：104351）
 </a>
 </li>
 
@@ -597,6 +645,12 @@ F4五月天演唱会合唱流星雨（热度：149534）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E7%86%A0%E8%BF%87%E4%BA%94%E5%85%B3%E6%96%A9%E5%85%AD%E5%B0%86%23" target="weibo">
+陈熠过五关斩六将（热度：78813）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%85%B0%E5%B7%9E%23" target="weibo">
 汪苏泷兰州（热度：77235）
 </a>
@@ -609,6 +663,12 @@ F4五月天演唱会合唱流星雨（热度：149534）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8Bvs%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%23" target="weibo">
+林诗栋vs张本智和（热度：76236）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9B%85%E8%8A%9D%E5%8D%83%E5%AD%97%E9%95%BF%E6%96%87%E6%84%9F%E8%B0%A2%E6%96%B0%E7%99%BD%23" target="weibo">
 赵雅芝千字长文感谢新白（热度：62525）
 </a>
@@ -617,12 +677,6 @@ F4五月天演唱会合唱流星雨（热度：149534）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%80%E9%94%90%E5%8C%96%E5%A6%86%E4%B8%80%E5%B0%8F%E6%97%B6%E4%B8%89%E5%88%86%E9%92%9F%E5%85%A5%E6%B0%B4%23" target="weibo">
 李昀锐化妆一小时三分钟入水（热度：59305）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8Bvs%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%23" target="weibo">
-林诗栋vs张本智和（热度：52933）
 </a>
 </li>
 
@@ -701,12 +755,6 @@ F4五月天演唱会合唱流星雨（热度：149534）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2310%E4%BD%99%E4%BA%BA%E6%8E%A5%E5%8A%9B%E5%AE%88%E6%8A%A4%E5%85%9A%E7%9A%84%E4%B8%80%E5%8F%B7%E6%9C%BA%E5%AF%86%23" target="weibo">
 10余人接力守护党的一号机密（热度：19274）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E7%86%A0%E8%BF%87%E4%BA%94%E5%85%B3%E6%96%A9%E5%85%AD%E5%B0%86%23" target="weibo">
-陈熠过五关斩六将（热度：16784）
 </a>
 </li>
 

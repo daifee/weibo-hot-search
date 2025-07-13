@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752373393881,
+  "endTime": 1752374520103,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -393,6 +393,14 @@
       "onboard_time": 1751462302,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2019469,
+      "num": 2019469,
+      "word": "出轨Zeus女生被学校开除",
+      "onboard_time": 1752372741,
+      "rank": 8,
+      "category": "民生新闻,电竞"
     },
     {
       "raw_hot": 2017058,
@@ -1379,6 +1387,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 1223629,
+      "num": 944694,
+      "word": "李欣莳 Zeus",
+      "onboard_time": 1752371781,
+      "rank": 6,
+      "category": "民生新闻,电竞"
+    },
+    {
       "raw_hot": 1220388,
       "num": 1118056,
       "word": "魏晨回应结婚证是在潍坊领的",
@@ -2161,6 +2177,14 @@
       "onboard_time": 1751621542,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 956075,
+      "num": 956075,
+      "word": "大连工业大学拟开除李欣莳",
+      "onboard_time": 1752373404,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 950759,
@@ -3531,14 +3555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 718838,
-      "num": 718838,
-      "word": "李欣莳 Zeus",
-      "onboard_time": 1752371781,
-      "rank": 6,
-      "category": "民生新闻,电竞"
-    },
-    {
       "raw_hot": 716876,
       "num": 716876,
       "word": "警方回应横店女演员拍戏身亡传闻",
@@ -4873,6 +4889,14 @@
       "onboard_time": 1752065543,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 592870,
+      "num": 592870,
+      "word": "王楚钦4比3F勒布伦",
+      "onboard_time": 1752372623,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 592583,
@@ -7387,14 +7411,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 409265,
-      "num": 409265,
-      "word": "出轨Zeus女生被学校开除",
-      "onboard_time": 1752372741,
-      "rank": 8,
-      "category": "民生新闻,电竞"
-    },
-    {
       "raw_hot": 409024,
       "num": 409024,
       "word": "北京 回南天",
@@ -8873,6 +8889,14 @@
       "onboard_time": 1751814204,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 338755,
+      "num": 380798,
+      "word": "杭州一奶茶店忙到现场点单有啥给啥",
+      "onboard_time": 1752371300,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 338498,
@@ -11099,14 +11123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 271263,
-      "num": 380798,
-      "word": "杭州一奶茶店忙到现场点单有啥给啥",
-      "onboard_time": 1752371300,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 271142,
       "num": 271142,
       "word": "贾静雯回应看权志龙演唱会争议",
@@ -11497,6 +11513,14 @@
       "onboard_time": 1752064703,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 264049,
+      "num": 264049,
+      "word": "陈芋汐将与15岁新人一同出战10米台",
+      "onboard_time": 1752373761,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 263661,
@@ -12241,6 +12265,14 @@
       "onboard_time": 1752243088,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 244815,
+      "num": 244815,
+      "word": "王励勤观战王楚钦",
+      "onboard_time": 1752373521,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 244588,
@@ -14393,14 +14425,6 @@
       "onboard_time": 1751296942,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 210244,
-      "num": 226298,
-      "word": "王楚钦4比3F勒布伦",
-      "onboard_time": 1752372623,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 210218,
@@ -17067,6 +17091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189746,
+      "num": 464387,
+      "word": "超10块的饭不点超5块的奶茶不喝",
+      "onboard_time": 1752372559,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189730,
       "num": 526152,
       "word": "以法之名最大秘密浮出水面",
@@ -17657,6 +17689,14 @@
       "onboard_time": 1752157765,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185841,
+      "num": 185841,
+      "word": "王楚钦晋级美国大满贯决赛",
+      "onboard_time": 1752373461,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 185809,
@@ -20777,6 +20817,14 @@
       "onboard_time": 1751855483,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162907,
+      "num": 162907,
+      "word": "WTT",
+      "onboard_time": 1751858424,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 162906,
@@ -24027,14 +24075,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 145191,
-      "num": 145191,
-      "word": "超10块的饭不点超5块的奶茶不喝",
-      "onboard_time": 1752372559,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 145175,
       "num": 145175,
       "word": "AHOF首个三大一位",
@@ -25331,6 +25371,14 @@
       "category": "国际时政,财经"
     },
     {
+      "raw_hot": 138957,
+      "num": 170383,
+      "word": "宋祖儿甄嘉芙造型路透",
+      "onboard_time": 1752371781,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138953,
       "num": 188579,
       "word": "成都持续暴雨东站变水帘洞",
@@ -26233,14 +26281,6 @@
       "onboard_time": 1751348781,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 134879,
-      "num": 170383,
-      "word": "宋祖儿甄嘉芙造型路透",
-      "onboard_time": 1752371781,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 134867,
@@ -29267,6 +29307,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 122001,
+      "num": 122001,
+      "word": "王楚钦进WTT男单决赛",
+      "onboard_time": 1752373521,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121992,
       "num": 121992,
       "word": "印客机坠机前发动机燃料供应中断",
@@ -31555,6 +31603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 112917,
+      "num": 112917,
+      "word": "小金毛在喝奶时睡着了",
+      "onboard_time": 1752373761,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 112899,
       "num": 325230,
       "word": "美飞虎队老兵再来中国表情都一样",
@@ -32329,14 +32385,6 @@
       "onboard_time": 1751427141,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 109766,
-      "num": 109766,
-      "word": "WTT",
-      "onboard_time": 1751858424,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 109758,
@@ -33521,6 +33569,14 @@
       "onboard_time": 1751584519,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 104351,
+      "num": 104351,
+      "word": "T1极致拉扯GEN",
+      "onboard_time": 1752373821,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 104345,
@@ -36803,6 +36859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78813,
+      "num": 228535,
+      "word": "陈熠过五关斩六将",
+      "onboard_time": 1752372861,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78774,
       "num": 78774,
       "word": "我好像真的不会谈恋爱",
@@ -37033,6 +37097,14 @@
       "onboard_time": 1752076942,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76236,
+      "num": 265983,
+      "word": "林诗栋vs张本智和",
+      "onboard_time": 1752372920,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 75965,
@@ -39201,14 +39273,6 @@
       "onboard_time": 1751871504,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 52933,
-      "num": 265983,
-      "word": "林诗栋vs张本智和",
-      "onboard_time": 1752372920,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 52928,
@@ -43128,14 +43192,6 @@
       "word": "咪咕体育",
       "onboard_time": 1752178815,
       "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 16784,
-      "num": 228535,
-      "word": "陈熠过五关斩六将",
-      "onboard_time": 1752372861,
-      "rank": 19,
       "category": "体育"
     },
     {

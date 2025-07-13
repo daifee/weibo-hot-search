@@ -1,0 +1,410 @@
+{
+  "runTime": 1752374520103,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2019469,
+        "num": 2019469,
+        "word": "出轨Zeus女生被学校开除",
+        "onboard_time": 1752372741,
+        "rank": 0,
+        "category": "民生新闻,电竞"
+      },
+      {
+        "raw_hot": 956075,
+        "num": 956075,
+        "word": "大连工业大学拟开除李欣莳",
+        "onboard_time": 1752373404,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16901,
+        "num": 944929,
+        "word": "数读我国外贸发展新业态新模式",
+        "onboard_time": 1752325703,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1223629,
+        "num": 944694,
+        "word": "李欣莳 Zeus",
+        "onboard_time": 1752371781,
+        "rank": 3,
+        "category": "民生新闻,电竞"
+      },
+      {
+        "raw_hot": 942918,
+        "num": 942918,
+        "word": "妻子5年向道士转账94万丈夫崩溃",
+        "onboard_time": 1752367761,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 811483,
+        "num": 811483,
+        "word": "侃爷上海演唱会嫌雨太大提前退场",
+        "onboard_time": 1752365479,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 654523,
+        "num": 654523,
+        "word": "言承旭说F4合体像做梦一样",
+        "onboard_time": 1752370400,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 592870,
+        "num": 592870,
+        "word": "王楚钦4比3F勒布伦",
+        "onboard_time": 1752372623,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 506154,
+        "num": 506154,
+        "word": "王楚钦vsF勒布伦",
+        "onboard_time": 1752368479,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189746,
+        "num": 464387,
+        "word": "超10块的饭不点超5块的奶茶不喝",
+        "onboard_time": 1752372559,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 460597,
+        "num": 460597,
+        "word": "奔跑吧",
+        "onboard_time": 1752370519,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338755,
+        "num": 338755,
+        "word": "杭州一奶茶店忙到现场点单有啥给啥",
+        "onboard_time": 1752371300,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331658,
+        "num": 331658,
+        "word": "一代人有一代人的鸡蛋要领",
+        "onboard_time": 1752368538,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264049,
+        "num": 264049,
+        "word": "陈芋汐将与15岁新人一同出战10米台",
+        "onboard_time": 1752373761,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263913,
+        "num": 263913,
+        "word": "陈熠4比3蒯曼",
+        "onboard_time": 1752362177,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246210,
+        "num": 246210,
+        "word": "父亲死亡80万赔偿金打给姑父",
+        "onboard_time": 1752365418,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244815,
+        "num": 244815,
+        "word": "王励勤观战王楚钦",
+        "onboard_time": 1752373521,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219831,
+        "num": 219831,
+        "word": "向往的生活 回归",
+        "onboard_time": 1752326422,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201254,
+        "num": 201254,
+        "word": "薛之谦说认识王源一个世纪才25岁",
+        "onboard_time": 1752363138,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 159074,
+        "num": 191225,
+        "word": "彭昱畅刚瘦回日系花美男",
+        "onboard_time": 1752363138,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76236,
+        "num": 186802,
+        "word": "林诗栋vs张本智和",
+        "onboard_time": 1752372920,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185841,
+        "num": 185841,
+        "word": "王楚钦晋级美国大满贯决赛",
+        "onboard_time": 1752373461,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78813,
+        "num": 184128,
+        "word": "陈熠过五关斩六将",
+        "onboard_time": 1752372861,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182961,
+        "num": 182961,
+        "word": "第一次感受到1w有这么多",
+        "onboard_time": 1752306502,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174667,
+        "num": 174667,
+        "word": "郭艾伦对周深说怕给你弄疼了",
+        "onboard_time": 1752332604,
+        "rank": 24,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 171349,
+        "num": 171349,
+        "word": "越南游客遭日本店员掌掴",
+        "onboard_time": 1752368479,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 162907,
+        "num": 162907,
+        "word": "WTT",
+        "onboard_time": 1752374299,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149746,
+        "num": 149746,
+        "word": "大同大学拟解聘10名长期旷工教师",
+        "onboard_time": 1752367999,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138957,
+        "num": 146356,
+        "word": "宋祖儿甄嘉芙造型路透",
+        "onboard_time": 1752371781,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138257,
+        "num": 144685,
+        "word": "韩安冉支持女儿整容",
+        "onboard_time": 1752369200,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 144606,
+        "num": 144606,
+        "word": "北京申奥成功24周年了",
+        "onboard_time": 1752367160,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142854,
+        "num": 142854,
+        "word": "重庆渝中区文旅委致歉",
+        "onboard_time": 1752371300,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139998,
+        "num": 139998,
+        "word": "甘肃提级调查幼儿血铅异常问题",
+        "onboard_time": 1752327923,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136331,
+        "num": 136331,
+        "word": "台风百合已生成",
+        "onboard_time": 1752369381,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1074060,
+        "num": 135513,
+        "word": "骑手发现跑单收入反超餐费",
+        "onboard_time": 1752365659,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133877,
+        "num": 133877,
+        "word": "外卖大战有茶饮店称亏本",
+        "onboard_time": 1752372199,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127645,
+        "num": 127645,
+        "word": "欠租8天行李被打包万元押金也没了",
+        "onboard_time": 1752370221,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125191,
+        "num": 125191,
+        "word": "外卖员日入千元奶茶店员累到哭喊",
+        "onboard_time": 1752366079,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123115,
+        "num": 123115,
+        "word": "下周日就入伏了",
+        "onboard_time": 1752371721,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119847,
+        "num": 122516,
+        "word": "杨丽萍看完了藏海传",
+        "onboard_time": 1752370700,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122001,
+        "num": 122001,
+        "word": "王楚钦进WTT男单决赛",
+        "onboard_time": 1752373521,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119874,
+        "num": 119874,
+        "word": "多地未来7天高温全勤",
+        "onboard_time": 1752372559,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112917,
+        "num": 112917,
+        "word": "小金毛在喝奶时睡着了",
+        "onboard_time": 1752373761,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112742,
+        "num": 112742,
+        "word": "陈道明头发全白了",
+        "onboard_time": 1752333682,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109473,
+        "num": 109473,
+        "word": "比单依纯还疯的歌手出现了",
+        "onboard_time": 1752333202,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109096,
+        "num": 109096,
+        "word": "美国人因关税大量采购打折商品",
+        "onboard_time": 1752368479,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 105855,
+        "num": 105855,
+        "word": "克莱有女朋友了",
+        "onboard_time": 1752371120,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105252,
+        "num": 105252,
+        "word": "11年铁粉穿高定礼服看王源演唱会",
+        "onboard_time": 1752343456,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104351,
+        "num": 104351,
+        "word": "T1极致拉扯GEN",
+        "onboard_time": 1752373821,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103826,
+        "num": 103826,
+        "word": "19岁男生鼻子不舒服查出罕见癌症",
+        "onboard_time": 1752330204,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国将坚定不移走和平发展道路#"
+    }
+  }
+}
