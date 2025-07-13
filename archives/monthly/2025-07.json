@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752427375790,
+  "endTime": 1752428519095,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -43691,6 +43691,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 36404,
+      "num": 153668,
+      "word": "重庆2患者使用临床研究抗癌药",
+      "onboard_time": 1752426319,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 36217,
       "num": 693894,
       "word": "守护的瞬间",
@@ -44097,14 +44105,6 @@
       "onboard_time": 1751481016,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 32555,
-      "num": 153668,
-      "word": "重庆2患者使用临床研究抗癌药",
-      "onboard_time": 1752426319,
-      "rank": 9,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 32490,
@@ -45465,6 +45465,14 @@
       "onboard_time": 1751880142,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 21673,
+      "num": 51990,
+      "word": "老人捐棺木帮红军架浮桥",
+      "onboard_time": 1752427518,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21567,

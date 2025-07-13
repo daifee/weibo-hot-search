@@ -1,6 +1,6 @@
 {
   "startTime": 1752424285355,
-  "endTime": 1752427375790,
+  "endTime": 1752428519095,
   "band_list": [
     {
       "raw_hot": 5991584,
@@ -419,12 +419,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 32555,
+      "raw_hot": 36404,
       "num": 153668,
       "word": "重庆2患者使用临床研究抗癌药",
       "onboard_time": 1752426319,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 35370,
+      "num": 51971,
+      "word": "王晶说刘亦菲不是天赋型演员",
+      "onboard_time": 1752412823,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 30605,
+      "num": 77231,
+      "word": "俄外长拉夫罗夫已抵达中国",
+      "onboard_time": 1752418645,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 21673,
+      "num": 51990,
+      "word": "老人捐棺木帮红军架浮桥",
+      "onboard_time": 1752427518,
+      "rank": 34,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
