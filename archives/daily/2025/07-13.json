@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752413708263,
+  "endTime": 1752414372550,
   "band_list": [
     {
       "raw_hot": 2900025,
@@ -43,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1493636,
+      "num": 348768,
+      "word": "小杨嫂近照曝光",
+      "onboard_time": 1752411983,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1483192,
       "num": 1122374,
       "word": "大连工业大学李同学全名可不被公告",
@@ -57,14 +65,6 @@
       "onboard_time": 1752384021,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1444477,
-      "num": 297290,
-      "word": "小杨嫂近照曝光",
-      "onboard_time": 1752411983,
-      "rank": 10,
-      "category": "网红"
     },
     {
       "raw_hot": 1388894,
@@ -155,6 +155,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1021631,
+      "num": 1163461,
+      "word": "76元一吨饮料外卖订单",
+      "onboard_time": 1752411983,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 998606,
       "num": 209922,
       "word": "赵丽颖 纪梵希",
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 914092,
-      "num": 312605,
+      "num": 341993,
       "word": "邢昭林卢洋洋还在一起",
       "onboard_time": 1752405321,
       "rank": 20,
@@ -248,14 +256,6 @@
       "word": "娃哈哈",
       "onboard_time": 1752396082,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 881119,
-      "num": 881119,
-      "word": "76元一吨饮料外卖订单",
-      "onboard_time": 1752411983,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -372,7 +372,7 @@
     },
     {
       "raw_hot": 719257,
-      "num": 301436,
+      "num": 329982,
       "word": "梓渝500w粉丝福利",
       "onboard_time": 1752405920,
       "rank": 22,
@@ -393,6 +393,14 @@
       "onboard_time": 1752326722,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 688401,
+      "num": 688401,
+      "word": "梓渝配音",
+      "onboard_time": 1752412823,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 682073,
@@ -417,14 +425,6 @@
       "onboard_time": 1752381441,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 660947,
-      "num": 660947,
-      "word": "梓渝配音",
-      "onboard_time": 1752412823,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 648450,
@@ -547,20 +547,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 433782,
-      "num": 284288,
-      "word": "肖战素人时期的工作谁能干",
-      "onboard_time": 1752411865,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 432670,
-      "num": 432670,
+      "raw_hot": 453411,
+      "num": 453411,
       "word": "樱桃琥珀",
       "onboard_time": 1752411983,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 433782,
+      "num": 333615,
+      "word": "肖战素人时期的工作谁能干",
+      "onboard_time": 1752411865,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 426703,
@@ -660,7 +660,7 @@
     },
     {
       "raw_hot": 370041,
-      "num": 275850,
+      "num": 305841,
       "word": "50岁女子意外怀孕诱发罕见癌症",
       "onboard_time": 1752412703,
       "rank": 21,
@@ -697,6 +697,14 @@
       "onboard_time": 1752383601,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 356159,
+      "num": 330326,
+      "word": "林俊杰嘉宾是孙燕姿",
+      "onboard_time": 1752413904,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 352097,
@@ -771,6 +779,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 325394,
+      "num": 325394,
+      "word": "女子昏厥男子跪地心肺复苏被指袭胸",
+      "onboard_time": 1752404901,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 322644,
       "num": 322644,
       "word": "印度男子被嘲靠女儿吃饭枪杀女儿",
@@ -825,14 +841,6 @@
       "onboard_time": 1752336262,
       "rank": 21,
       "category": "演出"
-    },
-    {
-      "raw_hot": 298695,
-      "num": 298695,
-      "word": "女子昏厥男子跪地心肺复苏被指袭胸",
-      "onboard_time": 1752404901,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 297103,
@@ -971,6 +979,14 @@
       "category": "演出,民生新闻"
     },
     {
+      "raw_hot": 255527,
+      "num": 326281,
+      "word": "留几手谈大连工业被开除女生",
+      "onboard_time": 1752411804,
+      "rank": 35,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 255150,
       "num": 255150,
       "word": "商家收差评辱骂顾客舔得比狗干净",
@@ -1091,6 +1107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222617,
+      "num": 222617,
+      "word": "刺痛Gemini直播",
+      "onboard_time": 1752413724,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 221944,
       "num": 189636,
       "word": "我那50岁还在唱跳的老爱豆",
@@ -1155,6 +1179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 214472,
+      "num": 196080,
+      "word": "AG 一诺",
+      "onboard_time": 1752411923,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 212761,
       "num": 231524,
       "word": "薛之谦说认识王源一个世纪才25岁",
@@ -1169,6 +1201,14 @@
       "onboard_time": 1752377601,
       "rank": 17,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 204899,
+      "num": 204899,
+      "word": "周翊然直播",
+      "onboard_time": 1752413183,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 204103,
@@ -1267,6 +1307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 193266,
+      "num": 193266,
+      "word": "男子加拿大考公上岸月薪2万",
+      "onboard_time": 1752413964,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192575,
       "num": 192575,
       "word": "苏新皓被红海整微醺了",
@@ -1323,12 +1371,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190022,
-      "num": 284937,
-      "word": "留几手谈大连工业被开除女生",
-      "onboard_time": 1752411804,
-      "rank": 35,
-      "category": "民生新闻,网红"
+      "raw_hot": 190167,
+      "num": 190167,
+      "word": "女子不堪家暴给丈夫投毒获刑3年半",
+      "onboard_time": 1752412583,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189746,
@@ -1411,6 +1459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184218,
+      "num": 203807,
+      "word": "网友一天点20单外卖17单0元购",
+      "onboard_time": 1752410783,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182884,
       "num": 227535,
       "word": "五哈",
@@ -1427,11 +1483,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 182104,
-      "num": 182104,
-      "word": "女子不堪家暴给丈夫投毒获刑3年半",
-      "onboard_time": 1752412583,
-      "rank": 29,
+      "raw_hot": 182494,
+      "num": 182494,
+      "word": "王晶说刘亦菲不是天赋型演员",
+      "onboard_time": 1752412823,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 182208,
+      "num": 182208,
+      "word": "大连工业大学校规",
+      "onboard_time": 1752414024,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -1483,14 +1547,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 178739,
-      "num": 203807,
-      "word": "网友一天点20单外卖17单0元购",
-      "onboard_time": 1752410783,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 178506,
       "num": 178506,
       "word": "杨瀚森生涯首次背靠背",
@@ -1513,14 +1569,6 @@
       "onboard_time": 1752393021,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 176520,
-      "num": 176520,
-      "word": "周翊然直播",
-      "onboard_time": 1752413183,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 175695,
@@ -1643,6 +1691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168945,
+      "num": 280900,
+      "word": "何惟芳猛女",
+      "onboard_time": 1752412823,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168446,
       "num": 168446,
       "word": "月薪6000的助理要做多少事",
@@ -1763,14 +1819,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 161899,
-      "num": 161899,
-      "word": "王晶说刘亦菲不是天赋型演员",
-      "onboard_time": 1752412823,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 160244,
       "num": 160244,
       "word": "陈熠再次证明乒乓球没有应该",
@@ -1833,6 +1881,14 @@
       "onboard_time": 1752372920,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153938,
+      "num": 153938,
+      "word": "河南历史级高温",
+      "onboard_time": 1752412224,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153830,
@@ -1929,14 +1985,6 @@
       "onboard_time": 1752388643,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 148801,
-      "num": 148801,
-      "word": "河南历史级高温",
-      "onboard_time": 1752412224,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 148118,
@@ -2043,6 +2091,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 140563,
+      "num": 140563,
+      "word": "周日给人一种很亏的感觉",
+      "onboard_time": 1752413844,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 140451,
       "num": 140451,
       "word": "减肥不提倡戒掉任何东西",
@@ -2137,6 +2193,14 @@
       "onboard_time": 1752370221,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136238,
+      "num": 136238,
+      "word": "汉莎航空CEO夫人在意大利撞死路人",
+      "onboard_time": 1752413243,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 135853,
@@ -2267,20 +2331,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 126275,
+      "num": 350788,
+      "word": "20250001号通知书排面拉满",
+      "onboard_time": 1752412104,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126060,
       "num": 126060,
       "word": "王一博早期微博被做成书了",
       "onboard_time": 1752333202,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 125829,
-      "num": 280900,
-      "word": "何惟芳猛女",
-      "onboard_time": 1752412823,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 125785,
@@ -2433,14 +2497,6 @@
       "onboard_time": 1752409223,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 118378,
-      "num": 176048,
-      "word": "20250001号通知书排面拉满",
-      "onboard_time": 1752412104,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 118351,
@@ -2979,12 +3035,12 @@
       "category": "幽默,健康医疗"
     },
     {
-      "raw_hot": 79884,
-      "num": 79884,
-      "word": "AG 一诺",
-      "onboard_time": 1752411923,
-      "rank": 47,
-      "category": "电竞"
+      "raw_hot": 79391,
+      "num": 167648,
+      "word": "中国女篮51分大胜印尼女篮",
+      "onboard_time": 1752413483,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 78813,
@@ -3123,6 +3179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 52669,
+      "num": 280055,
+      "word": "瑜伽馆会员免费拍照最终花了8100",
+      "onboard_time": 1752412942,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51831,
       "num": 51831,
       "word": "光与夜之恋",
@@ -3145,6 +3209,14 @@
       "onboard_time": 1752339739,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 49780,
+      "num": 339791,
+      "word": "外卖0元狂欢谁是真正的赢家",
+      "onboard_time": 1752413544,
+      "rank": 35,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 48438,
@@ -3203,14 +3275,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 41462,
-      "num": 280055,
-      "word": "瑜伽馆会员免费拍照最终花了8100",
-      "onboard_time": 1752412942,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 39825,
       "num": 244191,
       "word": "侃爷演唱会迟到早退谁给的傲慢",
@@ -3267,22 +3331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 31115,
-      "num": 167648,
-      "word": "中国女篮51分大胜印尼女篮",
-      "onboard_time": 1752413483,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 31079,
-      "num": 175726,
-      "word": "外卖0元狂欢谁是真正的赢家",
-      "onboard_time": 1752413544,
-      "rank": 35,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 30302,
       "num": 152540,
       "word": "在漫展挂到了牧神记专家号",
@@ -3295,6 +3343,14 @@
       "num": 215971,
       "word": "维修工中暑昏迷被挂5米多高电线",
       "onboard_time": 1752381682,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28476,
+      "num": 196572,
+      "word": "310斤男子做切胃手术11天减重18斤",
+      "onboard_time": 1752414083,
       "rank": 29,
       "category": "民生新闻"
     },
