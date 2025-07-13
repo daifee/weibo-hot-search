@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752406802157,
+  "endTime": 1752411046633,
   "band_list": [
     {
       "raw_hot": 2900025,
@@ -48,6 +48,14 @@
       "word": "娃哈哈 宗庆后",
       "onboard_time": 1752384021,
       "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1438981,
+      "num": 1122374,
+      "word": "大连工业大学李同学全名可不被公告",
+      "onboard_time": 1752403340,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -163,6 +171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 914092,
+      "num": 312605,
+      "word": "邢昭林卢洋洋还在一起",
+      "onboard_time": 1752405321,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 913967,
       "num": 913967,
       "word": "结婚1年离婚40万陪嫁被判为共同财产",
@@ -251,14 +267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 787284,
-      "num": 1122374,
-      "word": "大连工业大学李同学全名可不被公告",
-      "onboard_time": 1752403340,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 781905,
       "num": 781905,
       "word": "外卖大战有骑手一天赚1000多元",
@@ -315,11 +323,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 717246,
-      "num": 301459,
-      "word": "邢昭林卢洋洋还在一起",
-      "onboard_time": 1752405321,
-      "rank": 20,
+      "raw_hot": 721403,
+      "num": 1115424,
+      "word": "锦绣芳华大结局",
+      "onboard_time": 1752403461,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 719257,
+      "num": 301436,
+      "word": "梓渝500w粉丝福利",
+      "onboard_time": 1752405920,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -355,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 679904,
+      "num": 679904,
+      "word": "翻垃圾找儿童手表被质疑浪费人力",
+      "onboard_time": 1752405742,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 675384,
       "num": 675384,
       "word": "孙颖莎王曼昱女双亚军",
@@ -387,20 +411,20 @@
       "category": "综艺,体育"
     },
     {
-      "raw_hot": 594484,
-      "num": 594484,
-      "word": "锦绣芳华大结局",
-      "onboard_time": 1752403461,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 592870,
       "num": 592870,
       "word": "王楚钦4比3F勒布伦",
       "onboard_time": 1752372623,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 575404,
+      "num": 575404,
+      "word": "仙逆 摸脸",
+      "onboard_time": 1752405321,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 567169,
@@ -611,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 352097,
+      "num": 352097,
+      "word": "包贝尔10岁女儿身高",
+      "onboard_time": 1752406401,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 345279,
       "num": 345279,
       "word": "父亲死亡80万赔偿金打给姑父",
@@ -659,6 +691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 331930,
+      "num": 331930,
+      "word": "林俊杰演唱会",
+      "onboard_time": 1752404361,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 326781,
       "num": 232897,
       "word": "清朝状元的名字毫无网红感",
@@ -681,14 +721,6 @@
       "onboard_time": 1752327923,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 315970,
-      "num": 259010,
-      "word": "梓渝500w粉丝福利",
-      "onboard_time": 1752405920,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 315646,
@@ -787,12 +819,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 283012,
+      "num": 283012,
+      "word": "女子昏厥男子跪地心肺复苏被指袭胸",
+      "onboard_time": 1752404901,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 281025,
       "num": 316226,
       "word": "虞书欣王安宇一念江南招商信息",
       "onboard_time": 1752376760,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 280680,
+      "num": 280680,
+      "word": "李现在洛杉矶给杨天真拍照",
+      "onboard_time": 1752407182,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 280552,
@@ -859,6 +907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 249458,
+      "num": 249458,
+      "word": "田栩宁帅的好权威",
+      "onboard_time": 1752394342,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248029,
       "num": 248029,
       "word": "GEN冠军",
@@ -899,14 +955,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 237562,
-      "num": 237562,
-      "word": "仙逆 摸脸",
-      "onboard_time": 1752405321,
-      "rank": 28,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 234540,
       "num": 234540,
       "word": "外卖商战差不多就行了呗",
@@ -921,14 +969,6 @@
       "onboard_time": 1752367999,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 227772,
-      "num": 271694,
-      "word": "林俊杰演唱会",
-      "onboard_time": 1752404361,
-      "rank": 19,
-      "category": "演出"
     },
     {
       "raw_hot": 225630,
@@ -1067,12 +1107,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 199178,
-      "num": 199178,
-      "word": "田栩宁帅的好权威",
-      "onboard_time": 1752394342,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 199952,
+      "num": 199952,
+      "word": "男子因妻子总抱怨长期生闷气患肺癌",
+      "onboard_time": 1752404721,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198916,
@@ -1376,14 +1416,6 @@
       "word": "重庆渝中区文旅委致歉",
       "onboard_time": 1752371300,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 170166,
-      "num": 170166,
-      "word": "女子昏厥男子跪地心肺复苏被指袭胸",
-      "onboard_time": 1752404901,
-      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -1731,14 +1763,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 145591,
-      "num": 145591,
-      "word": "男子因妻子总抱怨长期生闷气患肺癌",
-      "onboard_time": 1752404721,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 145539,
       "num": 153153,
       "word": "李兰迪古早名门贵女",
@@ -1875,14 +1899,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 136057,
-      "num": 136057,
-      "word": "包贝尔10岁女儿身高",
-      "onboard_time": 1752406401,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 135853,
       "num": 135853,
       "word": "Wei疑似加入iG",
@@ -1979,6 +1995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129872,
+      "num": 129872,
+      "word": "12345回应侃爷上海演唱会提前退场",
+      "onboard_time": 1752408142,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 129087,
       "num": 129087,
       "word": "赛后笑眯眯的孙颖莎",
@@ -2003,14 +2027,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 128061,
-      "num": 269553,
-      "word": "翻垃圾找儿童手表被质疑浪费人力",
-      "onboard_time": 1752405742,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 127279,
       "num": 127279,
       "word": "RW荣都首鸡",
@@ -2027,12 +2043,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125977,
+      "num": 125977,
+      "word": "河南一炒米粉店竟有庆大霉素药品",
+      "onboard_time": 1752408922,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125658,
       "num": 125658,
       "word": "薛之谦回应王源",
       "onboard_time": 1752398721,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 125423,
+      "num": 125423,
+      "word": "刘宇宁专业对口南珩的抽象",
+      "onboard_time": 1752409942,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 124732,
@@ -2153,6 +2185,14 @@
       "onboard_time": 1752333742,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118409,
+      "num": 151553,
+      "word": "女篮亚洲杯",
+      "onboard_time": 1752409223,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 118351,
@@ -2291,6 +2331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 112669,
+      "num": 112669,
+      "word": "写高考作文感动全网的山西大爷找到了",
+      "onboard_time": 1752408082,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112330,
       "num": 112330,
       "word": "曹格儿子Joe否认恋情",
@@ -2372,7 +2420,7 @@
     },
     {
       "raw_hot": 106759,
-      "num": 106759,
+      "num": 263019,
       "word": "颜丹晨近期状态",
       "onboard_time": 1752404242,
       "rank": 39,
@@ -2475,6 +2523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100305,
+      "num": 100305,
+      "word": "周末外卖大战再度升级",
+      "onboard_time": 1752407541,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 99094,
       "num": 99094,
       "word": "把我的医保卡给蒋长扬",
@@ -2531,6 +2587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95186,
+      "num": 331111,
+      "word": "律师谈校方开除出轨Zeus女生是否合理",
+      "onboard_time": 1752409884,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94812,
       "num": 400263,
       "word": "我国最大750千伏超高压环网工程合龙",
@@ -2579,11 +2643,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 87922,
+      "num": 87922,
+      "word": "许红豆许红米又聚会了",
+      "onboard_time": 1752407602,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87076,
       "num": 87076,
       "word": "遭养父虐待终身伤残女孩见到生父了",
       "onboard_time": 1752329544,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86457,
+      "num": 86457,
+      "word": "网友一天点20单外卖17单0元购",
+      "onboard_time": 1752410783,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -2609,6 +2689,14 @@
       "onboard_time": 1752339859,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 84438,
+      "num": 84438,
+      "word": "超市女老板带孩子看演出被气哭",
+      "onboard_time": 1752407781,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84218,
@@ -2667,12 +2755,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77831,
+      "num": 286163,
+      "word": "央视调查学步鞋营销乱象",
+      "onboard_time": 1752406341,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77235,
       "num": 77235,
       "word": "汪苏泷兰州",
       "onboard_time": 1752338060,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 77133,
+      "num": 1019145,
+      "word": "旋律一响梦回2008北京奥运",
+      "onboard_time": 1752401780,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 76521,
@@ -2691,12 +2795,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74217,
+      "num": 87087,
+      "word": "杨舒予太帅了",
+      "onboard_time": 1752405441,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 73890,
       "num": 133101,
       "word": "骑手称有些奶茶店爆单到没法送",
       "onboard_time": 1752386542,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73263,
+      "num": 73263,
+      "word": "鹭卓种地吧3收官plog",
+      "onboard_time": 1752410723,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 73103,
@@ -2731,12 +2851,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 62468,
-      "num": 1019145,
-      "word": "旋律一响梦回2008北京奥运",
-      "onboard_time": 1752401780,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 61550,
+      "num": 286255,
+      "word": "侃爷上海演唱会主办方应赔偿消费者",
+      "onboard_time": 1752409942,
+      "rank": 14,
+      "category": "演出,民生新闻"
     },
     {
       "raw_hot": 59305,
@@ -2811,20 +2931,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45634,
+      "num": 125443,
+      "word": "48岁男子搭顺风车猥亵被行拘",
+      "onboard_time": 1752410482,
+      "rank": 29,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 45495,
       "num": 45495,
       "word": "别被体重欺骗了减肥是有滞后性的",
       "onboard_time": 1752361936,
       "rank": 37,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 45230,
-      "num": 286163,
-      "word": "央视调查学步鞋营销乱象",
-      "onboard_time": 1752406341,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 45138,
@@ -2955,14 +3075,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21517,
-      "num": 87087,
-      "word": "杨舒予太帅了",
-      "onboard_time": 1752405441,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 21043,
       "num": 23425,
       "word": "学会拒绝是对自己和关系的保护",
@@ -2985,6 +3097,14 @@
       "onboard_time": 1752396141,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19379,
+      "num": 244191,
+      "word": "侃爷演唱会迟到早退谁给的傲慢",
+      "onboard_time": 1752410543,
+      "rank": 19,
+      "category": "演出,民生新闻"
     },
     {
       "raw_hot": 19274,
