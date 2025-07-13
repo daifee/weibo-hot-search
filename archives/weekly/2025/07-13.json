@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752395532505,
+  "endTime": 1752396423834,
   "band_list": [
     {
       "raw_hot": 2900025,
@@ -91,6 +91,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1031884,
+      "num": 877988,
+      "word": "律师谈出轨Zeus女生被学校开除",
+      "onboard_time": 1752392061,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 956075,
       "num": 956075,
       "word": "大连工业大学拟开除李欣莳",
@@ -137,14 +145,6 @@
       "onboard_time": 1752392302,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 877988,
-      "num": 877988,
-      "word": "律师谈出轨Zeus女生被学校开除",
-      "onboard_time": 1752392061,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 872367,
@@ -355,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 435138,
+      "num": 319796,
+      "word": "鹿晗布洛芬",
+      "onboard_time": 1752395482,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 426703,
       "num": 426703,
       "word": "孙颖莎王曼昱vs王艺迪蒯曼",
@@ -395,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 399947,
+      "num": 399947,
+      "word": "高考604分女生放弃本科选择从军梦",
+      "onboard_time": 1752388403,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 393881,
       "num": 393881,
       "word": "李雪琴 没有一顿饭是白饿的",
@@ -433,6 +449,14 @@
       "onboard_time": 1752389422,
       "rank": 49,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 360315,
+      "num": 360315,
+      "word": "合肥一家海底捞店员佩戴打赏码",
+      "onboard_time": 1752391942,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 359786,
@@ -505,14 +529,6 @@
       "onboard_time": 1752328702,
       "rank": 4,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 319297,
-      "num": 319297,
-      "word": "合肥一家海底捞店员佩戴打赏码",
-      "onboard_time": 1752391942,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 317171,
@@ -601,6 +617,14 @@
       "onboard_time": 1752376760,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 278752,
+      "num": 278752,
+      "word": "林栋哲向鹏飞售后",
+      "onboard_time": 1752394641,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 274399,
@@ -804,7 +828,7 @@
     },
     {
       "raw_hot": 211575,
-      "num": 211575,
+      "num": 323363,
       "word": "日本殡仪馆因死者姓氏相同烧错遗体",
       "onboard_time": 1752390143,
       "rank": 27,
@@ -859,6 +883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194917,
+      "num": 154086,
+      "word": "唐香玉晒三姨的信",
+      "onboard_time": 1752395302,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194578,
       "num": 194578,
       "word": "外卖员日入千元奶茶店员累到哭喊",
@@ -873,14 +905,6 @@
       "onboard_time": 1752389902,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 194278,
-      "num": 187179,
-      "word": "林栋哲向鹏飞售后",
-      "onboard_time": 1752394641,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 192575,
@@ -899,12 +923,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192116,
+      "num": 179600,
+      "word": "王俊凯一出国就给周杰伦做数据",
+      "onboard_time": 1752394701,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192104,
       "num": 192104,
       "word": "国务院食安办派出工作组指导督办",
       "onboard_time": 1752327983,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 191160,
+      "num": 191160,
+      "word": "娃哈哈",
+      "onboard_time": 1752396082,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190953,
@@ -987,6 +1027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 183193,
+      "num": 153446,
+      "word": "白敬亭拍难哄时被千人围观快碎了",
+      "onboard_time": 1752395361,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182884,
       "num": 227535,
       "word": "五哈",
@@ -1025,14 +1073,6 @@
       "onboard_time": 1752395002,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 179600,
-      "num": 179600,
-      "word": "王俊凯一出国就给周杰伦做数据",
-      "onboard_time": 1752394701,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 179246,
@@ -1147,12 +1187,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169281,
+      "num": 208075,
+      "word": "淄博一景区凌晨数十人蒙眼列队行走",
+      "onboard_time": 1752394882,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168446,
       "num": 168446,
       "word": "月薪6000的助理要做多少事",
       "onboard_time": 1752386002,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 167938,
+      "num": 152851,
+      "word": "毕业多年后同寝三人命运唏嘘",
+      "onboard_time": 1752395961,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 167922,
@@ -1193,6 +1249,14 @@
       "onboard_time": 1752380361,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164827,
+      "num": 152518,
+      "word": "陈思罕受伤",
+      "onboard_time": 1752395722,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 164753,
@@ -1412,7 +1476,7 @@
     },
     {
       "raw_hot": 145539,
-      "num": 145539,
+      "num": 153153,
       "word": "李兰迪古早名门贵女",
       "onboard_time": 1752387622,
       "rank": 31,
@@ -1571,14 +1635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130534,
-      "num": 130534,
-      "word": "白敬亭拍难哄时被千人围观快碎了",
-      "onboard_time": 1752395361,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 130135,
       "num": 130135,
       "word": "内娱爱豆听不得恋爱两个字",
@@ -1643,12 +1699,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123284,
-      "num": 123284,
-      "word": "鹿晗布洛芬",
-      "onboard_time": 1752395482,
-      "rank": 47,
-      "category": "演出"
+      "raw_hot": 123004,
+      "num": 134624,
+      "word": "苹果6s ccd神器",
+      "onboard_time": 1752393502,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 122708,
@@ -1875,6 +1931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110374,
+      "num": 161954,
+      "word": "王玉雯偶遇郑钦文",
+      "onboard_time": 1752396201,
+      "rank": 23,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 109431,
       "num": 109431,
       "word": "T1无缘MSI第三冠",
@@ -2027,6 +2091,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 87100,
+      "num": 280030,
+      "word": "茶饮店回应将做好的饮品倒掉",
+      "onboard_time": 1752395541,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87076,
       "num": 87076,
       "word": "遭养父虐待终身伤残女孩见到生父了",
@@ -2112,14 +2184,6 @@
       "word": "中国60项世界遗产全名单",
       "onboard_time": 1752380181,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 74741,
-      "num": 208075,
-      "word": "淄博一景区凌晨数十人蒙眼列队行走",
-      "onboard_time": 1752394882,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2307,7 +2371,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21800,
+      "raw_hot": 23540,
       "num": 157271,
       "word": "库尔德工人党焚烧枪支",
       "onboard_time": 1752395361,
@@ -2329,6 +2393,14 @@
       "onboard_time": 1752363317,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 19555,
+      "num": 153895,
+      "word": "别墅漏水2年开发商称是因浙江雨多",
+      "onboard_time": 1752396141,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19274,
