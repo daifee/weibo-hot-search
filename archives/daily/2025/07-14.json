@@ -1,6 +1,6 @@
 {
   "startTime": 1752424285355,
-  "endTime": 1752425225527,
+  "endTime": 1752427375790,
   "band_list": [
     {
       "raw_hot": 5991584,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 307044,
-      "num": 243520,
+      "num": 253976,
       "word": "Angelababy85花首个钻超",
       "onboard_time": 1752423562,
       "rank": 13,
@@ -91,6 +91,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 276575,
+      "num": 276575,
+      "word": "网友称因发黄杨钿甜相关视频被起诉",
+      "onboard_time": 1752422304,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276102,
       "num": 276102,
       "word": "邢昭林卢洋洋还在一起",
@@ -107,12 +115,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 235305,
-      "num": 276163,
-      "word": "网友称因发黄杨钿甜相关视频被起诉",
-      "onboard_time": 1752422304,
-      "rank": 9,
-      "category": "艺人"
+      "raw_hot": 230789,
+      "num": 278273,
+      "word": "马斯克特朗普决裂的洗牌",
+      "onboard_time": 1752423442,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 221656,
+      "num": 150812,
+      "word": "网红张三嫂儿子确诊ADHD",
+      "onboard_time": 1752423922,
+      "rank": 36,
+      "category": "网红"
     },
     {
       "raw_hot": 218225,
@@ -169,14 +185,6 @@
       "onboard_time": 1752416546,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 147726,
-      "num": 147726,
-      "word": "网红张三嫂儿子确诊ADHD",
-      "onboard_time": 1752423922,
-      "rank": 36,
-      "category": "网红"
     },
     {
       "raw_hot": 146954,
@@ -249,14 +257,6 @@
       "onboard_time": 1752403461,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121706,
-      "num": 220663,
-      "word": "马斯克特朗普决裂的洗牌",
-      "onboard_time": 1752423442,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 120697,
@@ -409,6 +409,22 @@
       "onboard_time": 1752418466,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46581,
+      "num": 65176,
+      "word": "时代少年团 王牌对王牌",
+      "onboard_time": 1752411865,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 32555,
+      "num": 153668,
+      "word": "重庆2患者使用临床研究抗癌药",
+      "onboard_time": 1752426319,
+      "rank": 9,
+      "category": "辟谣/通报"
     }
   ],
   "hotgov_list": [

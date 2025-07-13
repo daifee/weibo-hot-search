@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752425225527,
+  "endTime": 1752427375790,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -10620,7 +10620,7 @@
     },
     {
       "raw_hot": 307044,
-      "num": 243520,
+      "num": 253976,
       "word": "Angelababy85花首个钻超",
       "onboard_time": 1752423562,
       "rank": 13,
@@ -11737,6 +11737,14 @@
       "onboard_time": 1752201021,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 276575,
+      "num": 276575,
+      "word": "网友称因发黄杨钿甜相关视频被起诉",
+      "onboard_time": 1752422304,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 276359,
@@ -13595,14 +13603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 235305,
-      "num": 276163,
-      "word": "网友称因发黄杨钿甜相关视频被起诉",
-      "onboard_time": 1752422304,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 235178,
       "num": 235178,
       "word": "南京0比0苏州",
@@ -13857,6 +13857,14 @@
       "onboard_time": 1751385203,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 230789,
+      "num": 278273,
+      "word": "马斯克特朗普决裂的洗牌",
+      "onboard_time": 1752423442,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 230760,
@@ -14537,6 +14545,14 @@
       "onboard_time": 1752108504,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 221656,
+      "num": 150812,
+      "word": "网红张三嫂儿子确诊ADHD",
+      "onboard_time": 1752423922,
+      "rank": 36,
+      "category": "网红"
     },
     {
       "raw_hot": 221576,
@@ -25219,14 +25235,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 147726,
-      "num": 147726,
-      "word": "网红张三嫂儿子确诊ADHD",
-      "onboard_time": 1752423922,
-      "rank": 36,
-      "category": "网红"
-    },
-    {
       "raw_hot": 147641,
       "num": 181242,
       "word": "罗小黑2难度比1翻倍不止",
@@ -31449,14 +31457,6 @@
       "onboard_time": 1751629943,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 121706,
-      "num": 220663,
-      "word": "马斯克特朗普决裂的洗牌",
-      "onboard_time": 1752423442,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 121691,
@@ -44097,6 +44097,14 @@
       "onboard_time": 1751481016,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 32555,
+      "num": 153668,
+      "word": "重庆2患者使用临床研究抗癌药",
+      "onboard_time": 1752426319,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 32490,
