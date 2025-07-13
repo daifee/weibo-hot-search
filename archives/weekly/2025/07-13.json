@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752402518730,
+  "endTime": 1752403563580,
   "band_list": [
     {
       "raw_hot": 2900025,
@@ -19,6 +19,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1798323,
+      "num": 1798323,
+      "word": "私密视频被恶意传播男方岂能逍遥法外",
+      "onboard_time": 1752401181,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1612333,
       "num": 1612333,
       "word": "高考604分女生被一所高职录取",
@@ -32,6 +40,14 @@
       "word": "娃哈哈 宗庆后",
       "onboard_time": 1752384021,
       "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1433628,
+      "num": 1433628,
+      "word": "女生出轨Zeus是私德瑕疵被放大",
+      "onboard_time": 1752401661,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -84,7 +100,7 @@
     },
     {
       "raw_hot": 1232182,
-      "num": 303295,
+      "num": 340153,
       "word": "周深奔跑吧被拖行",
       "onboard_time": 1752401122,
       "rank": 10,
@@ -113,14 +129,6 @@
       "onboard_time": 1752365479,
       "rank": 1,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1016611,
-      "num": 1016611,
-      "word": "私密视频被恶意传播男方岂能逍遥法外",
-      "onboard_time": 1752401181,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 971130,
@@ -411,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 445783,
+      "num": 445783,
+      "word": "胡锡进不支持开除出轨Zeus女生",
+      "onboard_time": 1752402021,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 426703,
       "num": 426703,
       "word": "孙颖莎王曼昱vs王艺迪蒯曼",
@@ -491,14 +507,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 392599,
-      "num": 392599,
-      "word": "女生出轨Zeus是私德瑕疵被放大",
-      "onboard_time": 1752401661,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 380502,
       "num": 380502,
       "word": "一代人有一代人的鸡蛋要领",
@@ -508,7 +516,7 @@
     },
     {
       "raw_hot": 380002,
-      "num": 300104,
+      "num": 317724,
       "word": "德国男子连做2次断骨增高至1米9",
       "onboard_time": 1752400401,
       "rank": 12,
@@ -531,6 +539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 365693,
+      "num": 365693,
+      "word": "林俊杰点歌",
+      "onboard_time": 1752401541,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 359786,
       "num": 317791,
       "word": "拜托这可是EXO出道曲",
@@ -545,6 +561,14 @@
       "onboard_time": 1752383601,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 353967,
+      "num": 353967,
+      "word": "高校对出轨Zeus女生处罚是否过重",
+      "onboard_time": 1752402741,
+      "rank": 11,
+      "category": "民生新闻,电竞"
     },
     {
       "raw_hot": 345279,
@@ -747,6 +771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256196,
+      "num": 256196,
+      "word": "王橹杰心率",
+      "onboard_time": 1752401480,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 255150,
       "num": 255150,
       "word": "商家收差评辱骂顾客舔得比狗干净",
@@ -769,6 +801,14 @@
       "onboard_time": 1752381921,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 246407,
+      "num": 246407,
+      "word": "仙逆",
+      "onboard_time": 1752402441,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 244815,
@@ -817,14 +857,6 @@
       "onboard_time": 1752367999,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 230898,
-      "num": 230898,
-      "word": "林俊杰点歌",
-      "onboard_time": 1752401541,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 225630,
@@ -979,22 +1011,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198439,
-      "num": 198439,
-      "word": "胡锡进不支持开除出轨Zeus女生",
-      "onboard_time": 1752402021,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 195292,
-      "num": 195292,
-      "word": "王橹杰心率",
-      "onboard_time": 1752401480,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 194917,
       "num": 154086,
       "word": "唐香玉晒三姨的信",
@@ -1065,6 +1081,14 @@
       "onboard_time": 1752393981,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190281,
+      "num": 190281,
+      "word": "何惟芳蒋长扬人鬼情未了",
+      "onboard_time": 1752403101,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 189746,
@@ -1835,6 +1859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131051,
+      "num": 131051,
+      "word": "锦绣芳华大结局",
+      "onboard_time": 1752403461,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130135,
       "num": 130135,
       "word": "内娱爱豆听不得恋爱两个字",
@@ -1979,14 +2011,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 120186,
-      "num": 120186,
-      "word": "仙逆",
-      "onboard_time": 1752402441,
-      "rank": 42,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 120084,
       "num": 120084,
       "word": "龚俊形容夫妻是沈腾马丽演过",
@@ -2009,6 +2033,14 @@
       "onboard_time": 1752333742,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118351,
+      "num": 289573,
+      "word": "山姆会员称身份证被别人绑了卡",
+      "onboard_time": 1752400941,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118196,
@@ -2089,14 +2121,6 @@
       "onboard_time": 1752392122,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115822,
-      "num": 289573,
-      "word": "山姆会员称身份证被别人绑了卡",
-      "onboard_time": 1752400941,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115560,
@@ -2187,8 +2211,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106463,
-      "num": 96623,
+      "raw_hot": 108063,
+      "num": 108063,
       "word": "这是真砍恋爱脑了",
       "onboard_time": 1752402321,
       "rank": 48,
@@ -2201,6 +2225,14 @@
       "onboard_time": 1752324021,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 105753,
+      "num": 105753,
+      "word": "山东一村靠知了猴营收430万元",
+      "onboard_time": 1752402262,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105606,
@@ -2547,12 +2579,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49946,
+      "num": 1019145,
+      "word": "旋律一响梦回2008北京奥运",
+      "onboard_time": 1752401780,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 49939,
       "num": 49939,
       "word": "耳帝买股SHarK新说唱冠军",
       "onboard_time": 1752339739,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 49420,
+      "num": 356213,
+      "word": "乘客疑因机场摆渡车不通风晕倒",
+      "onboard_time": 1752402741,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48438,
@@ -2603,6 +2651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 39283,
+      "num": 198528,
+      "word": "距开车不到3分钟男童掉下高铁站台",
+      "onboard_time": 1752402081,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38699,
       "num": 112594,
       "word": "美国50%铜关税消息引发偷铜潮",
@@ -2635,14 +2691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 32193,
-      "num": 198528,
-      "word": "距开车不到3分钟男童掉下高铁站台",
-      "onboard_time": 1752402081,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 30302,
       "num": 152540,
       "word": "在漫展挂到了牧神记专家号",
@@ -2659,12 +2707,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 26981,
-      "num": 992200,
-      "word": "旋律一响梦回2008北京奥运",
-      "onboard_time": 1752401780,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 26987,
+      "num": 202101,
+      "word": "大连工业大学李同学全名可不被公告",
+      "onboard_time": 1752403340,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25337,
@@ -2705,6 +2753,14 @@
       "onboard_time": 1752395361,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 21783,
+      "num": 300195,
+      "word": "多方回应乘客疑困摆渡车缺氧晕倒砸窗",
+      "onboard_time": 1752402981,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21043,
@@ -2753,6 +2809,14 @@
       "onboard_time": 1752346276,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 13773,
+      "num": 131054,
+      "word": "女子下车扔垃圾高铁开走了",
+      "onboard_time": 1752403280,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11329,
