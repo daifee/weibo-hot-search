@@ -1,0 +1,410 @@
+{
+  "runTime": 1752395532505,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1478966,
+        "num": 1478966,
+        "word": "高考604分女生被一所高职录取",
+        "onboard_time": 1752388403,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1143865,
+        "num": 1143865,
+        "word": "曹格儿子宣布恋情",
+        "onboard_time": 1752386662,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55469,
+        "num": 966953,
+        "word": "中国60项世界遗产全名单",
+        "onboard_time": 1752380181,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 902041,
+        "num": 902041,
+        "word": "点外卖配送员是胡一天",
+        "onboard_time": 1752392302,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 877988,
+        "num": 877988,
+        "word": "律师谈出轨Zeus女生被学校开除",
+        "onboard_time": 1752392061,
+        "rank": 4,
+        "category": "民生新闻,电竞"
+      },
+      {
+        "raw_hot": 364699,
+        "num": 794636,
+        "word": "9.9包邮的手机壳铅含量超标30倍",
+        "onboard_time": 1752389422,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 740483,
+        "num": 740483,
+        "word": "杨丽萍吃菌中毒看到仙鹤",
+        "onboard_time": 1752393561,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1770407,
+        "num": 688075,
+        "word": "出轨Zeus女生被学校开除",
+        "onboard_time": 1752372741,
+        "rank": 7,
+        "category": "民生新闻,电竞"
+      },
+      {
+        "raw_hot": 903029,
+        "num": 640056,
+        "word": "李欣莳 Zeus",
+        "onboard_time": 1752371781,
+        "rank": 8,
+        "category": "民生新闻,电竞"
+      },
+      {
+        "raw_hot": 587779,
+        "num": 587779,
+        "word": "郑恺苗苗带三个孩子出行",
+        "onboard_time": 1752388941,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 484045,
+        "num": 484045,
+        "word": "TFBOYS疑似被音综做局",
+        "onboard_time": 1752389602,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 393881,
+        "num": 393881,
+        "word": "李雪琴 没有一顿饭是白饿的",
+        "onboard_time": 1752393561,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352132,
+        "num": 352132,
+        "word": "港大男用老师同学照片AI生成色情照",
+        "onboard_time": 1752389002,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323458,
+        "num": 323458,
+        "word": "宋江别举铁了",
+        "onboard_time": 1752385701,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319297,
+        "num": 319297,
+        "word": "合肥一家海底捞店员佩戴打赏码",
+        "onboard_time": 1752391942,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234765,
+        "num": 234765,
+        "word": "0元奶茶能喝多久",
+        "onboard_time": 1752385581,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218834,
+        "num": 218834,
+        "word": "钎九",
+        "onboard_time": 1752388281,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 210997,
+        "num": 210997,
+        "word": "日本殡仪馆因死者姓氏相同烧错遗体",
+        "onboard_time": 1752390143,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 100473,
+        "num": 208763,
+        "word": "敖瑞鹏怎么这么会演心动",
+        "onboard_time": 1752394821,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74741,
+        "num": 208075,
+        "word": "淄博一景区凌晨数十人蒙眼列队行走",
+        "onboard_time": 1752394882,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294719,
+        "num": 205508,
+        "word": "撕名牌",
+        "onboard_time": 1752391221,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245524,
+        "num": 201590,
+        "word": "田栩宁路透",
+        "onboard_time": 1752384862,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201017,
+        "num": 201017,
+        "word": "哥哥隐瞒父亲死讯埋葬地被妹起诉",
+        "onboard_time": 1752386422,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224288,
+        "num": 200917,
+        "word": "TF随舞",
+        "onboard_time": 1752394102,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215304,
+        "num": 200276,
+        "word": "秦是她的姓美是她的命",
+        "onboard_time": 1752393682,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203786,
+        "num": 199748,
+        "word": "胃病转变为胃癌的5个征兆",
+        "onboard_time": 1752390382,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 199178,
+        "num": 199178,
+        "word": "田栩宁帅的好权威",
+        "onboard_time": 1752394342,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190942,
+        "num": 190942,
+        "word": "张本智和坦言对阵王楚钦胜算低",
+        "onboard_time": 1752393981,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194278,
+        "num": 187179,
+        "word": "林栋哲向鹏飞售后",
+        "onboard_time": 1752394641,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129143,
+        "num": 183503,
+        "word": "央视曝光劣质捏捏毒玩具",
+        "onboard_time": 1752389902,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182535,
+        "num": 182535,
+        "word": "蔡国庆萧亚轩郝蕾直播吵起来了",
+        "onboard_time": 1752393922,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179644,
+        "num": 179644,
+        "word": "Hero坦然三连MVP",
+        "onboard_time": 1752395002,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 179600,
+        "num": 179600,
+        "word": "王俊凯一出国就给周杰伦做数据",
+        "onboard_time": 1752394701,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177905,
+        "num": 177905,
+        "word": "孙颖莎王曼昱女双亚军",
+        "onboard_time": 1752381441,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176622,
+        "num": 176622,
+        "word": "好了知道你在炫耀你有杨幂微信了",
+        "onboard_time": 1752393021,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172749,
+        "num": 172749,
+        "word": "烤鱼盘下蛆虫乱爬老板称没入嘴没事",
+        "onboard_time": 1752385461,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171213,
+        "num": 171213,
+        "word": "空乘紧急撤离 先脱丝袜",
+        "onboard_time": 1752394162,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167922,
+        "num": 167922,
+        "word": "c83宠爱",
+        "onboard_time": 1752395063,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21800,
+        "num": 157271,
+        "word": "库尔德工人党焚烧枪支",
+        "onboard_time": 1752395361,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 155973,
+        "num": 155973,
+        "word": "朝雪录热度",
+        "onboard_time": 1752389302,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152622,
+        "num": 152622,
+        "word": "曾经的跑男都是实打实撕名牌",
+        "onboard_time": 1752383182,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152592,
+        "num": 152592,
+        "word": "钎九拥抱",
+        "onboard_time": 1752394821,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149100,
+        "num": 149100,
+        "word": "结婚1年离婚40万陪嫁被判为共同财产",
+        "onboard_time": 1752381381,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137823,
+        "num": 137823,
+        "word": "王楚钦决赛迎战张本智和",
+        "onboard_time": 1752378140,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134517,
+        "num": 134517,
+        "word": "港大回应男生AI做700多张不雅照",
+        "onboard_time": 1752390321,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131192,
+        "num": 131192,
+        "word": "word删除空白页",
+        "onboard_time": 1752383781,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130534,
+        "num": 130534,
+        "word": "白敬亭拍难哄时被千人围观快碎了",
+        "onboard_time": 1752395361,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123284,
+        "num": 123284,
+        "word": "鹿晗布洛芬",
+        "onboard_time": 1752395482,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123058,
+        "num": 123058,
+        "word": "Faker回应输给GEN",
+        "onboard_time": 1752390201,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118196,
+        "num": 118196,
+        "word": "朱志鑫苏新皓又撕名牌了",
+        "onboard_time": 1752394402,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平高度重视城市工作#"
+    }
+  }
+}

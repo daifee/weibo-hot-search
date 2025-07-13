@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752392474106,
+  "endTime": 1752395532505,
   "band_list": [
     {
       "raw_hot": 2900025,
@@ -131,6 +131,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 902041,
+      "num": 902041,
+      "word": "点外卖配送员是胡一天",
+      "onboard_time": 1752392302,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 877988,
+      "num": 877988,
+      "word": "律师谈出轨Zeus女生被学校开除",
+      "onboard_time": 1752392061,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 872367,
       "num": 872367,
       "word": "奶茶店人人人人外卖小哥被吓退",
@@ -193,6 +209,14 @@
       "onboard_time": 1752326181,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 740483,
+      "num": 740483,
+      "word": "杨丽萍吃菌中毒看到仙鹤",
+      "onboard_time": 1752393561,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 737623,
@@ -323,8 +347,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 439433,
-      "num": 439433,
+      "raw_hot": 484045,
+      "num": 484045,
       "word": "TFBOYS疑似被音综做局",
       "onboard_time": 1752389602,
       "rank": 15,
@@ -371,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 393881,
+      "num": 393881,
+      "word": "李雪琴 没有一顿饭是白饿的",
+      "onboard_time": 1752393561,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 380502,
       "num": 380502,
       "word": "一代人有一代人的鸡蛋要领",
@@ -393,6 +425,14 @@
       "onboard_time": 1752383122,
       "rank": 20,
       "category": "演出"
+    },
+    {
+      "raw_hot": 364699,
+      "num": 794636,
+      "word": "9.9包邮的手机壳铅含量超标30倍",
+      "onboard_time": 1752389422,
+      "rank": 49,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 359786,
@@ -467,6 +507,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 319297,
+      "num": 319297,
+      "word": "合肥一家海底捞店员佩戴打赏码",
+      "onboard_time": 1752391942,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 317171,
       "num": 317171,
       "word": "甘肃提级调查幼儿血铅异常问题",
@@ -507,20 +555,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 294719,
+      "num": 294163,
+      "word": "撕名牌",
+      "onboard_time": 1752391221,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 294605,
       "num": 294605,
       "word": "等枝桠成繁花",
       "onboard_time": 1752334942,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 294163,
-      "num": 294163,
-      "word": "撕名牌",
-      "onboard_time": 1752391221,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 293132,
@@ -659,6 +707,14 @@
       "category": "演出,民生新闻"
     },
     {
+      "raw_hot": 224288,
+      "num": 200917,
+      "word": "TF随舞",
+      "onboard_time": 1752394102,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224221,
       "num": 224221,
       "word": "北京申奥成功24周年了",
@@ -715,6 +771,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 215304,
+      "num": 200276,
+      "word": "秦是她的姓美是她的命",
+      "onboard_time": 1752393682,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214618,
       "num": 214618,
       "word": "赵雅芝谈不扮白素贞造型的原因",
@@ -729,14 +793,6 @@
       "onboard_time": 1752363138,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 212442,
-      "num": 212442,
-      "word": "9.9包邮的手机壳铅含量超标30倍",
-      "onboard_time": 1752389422,
-      "rank": 49,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 212374,
@@ -755,12 +811,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 203677,
-      "num": 203677,
-      "word": "律师谈出轨Zeus女生被学校开除",
-      "onboard_time": 1752392061,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 203786,
+      "num": 199748,
+      "word": "胃病转变为胃癌的5个征兆",
+      "onboard_time": 1752390382,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 203184,
@@ -787,6 +843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 199178,
+      "num": 199178,
+      "word": "田栩宁帅的好权威",
+      "onboard_time": 1752394342,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198916,
       "num": 232531,
       "word": "国产剧终于又拍仵作探案戏了",
@@ -809,6 +873,14 @@
       "onboard_time": 1752389902,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194278,
+      "num": 187179,
+      "word": "林栋哲向鹏飞售后",
+      "onboard_time": 1752394641,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 192575,
@@ -841,6 +913,14 @@
       "onboard_time": 1752387740,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190942,
+      "num": 190942,
+      "word": "张本智和坦言对阵王楚钦胜算低",
+      "onboard_time": 1752393981,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 189746,
@@ -915,6 +995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182535,
+      "num": 182535,
+      "word": "蔡国庆萧亚轩郝蕾直播吵起来了",
+      "onboard_time": 1752393922,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180906,
       "num": 180906,
       "word": "李嘉格女版柯淳",
@@ -931,12 +1019,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 179736,
-      "num": 179736,
-      "word": "胃病转变为胃癌的5个征兆",
-      "onboard_time": 1752390382,
-      "rank": 39,
-      "category": "健康医疗"
+      "raw_hot": 179644,
+      "num": 179644,
+      "word": "Hero坦然三连MVP",
+      "onboard_time": 1752395002,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 179600,
+      "num": 179600,
+      "word": "王俊凯一出国就给周杰伦做数据",
+      "onboard_time": 1752394701,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 179246,
@@ -961,6 +1057,14 @@
       "onboard_time": 1752391821,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176622,
+      "num": 176622,
+      "word": "好了知道你在炫耀你有杨幂微信了",
+      "onboard_time": 1752393021,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 175695,
@@ -1019,6 +1123,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 171213,
+      "num": 171213,
+      "word": "空乘紧急撤离 先脱丝袜",
+      "onboard_time": 1752394162,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170453,
       "num": 170453,
       "word": "扎双马尾的陈梦",
@@ -1041,6 +1153,14 @@
       "onboard_time": 1752386002,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 167922,
+      "num": 167922,
+      "word": "c83宠爱",
+      "onboard_time": 1752395063,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 167464,
@@ -1179,6 +1299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152592,
+      "num": 152592,
+      "word": "钎九拥抱",
+      "onboard_time": 1752394821,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 152485,
       "num": 152485,
       "word": "孙颖莎跷二郎腿好萌",
@@ -1265,14 +1393,6 @@
       "onboard_time": 1752385401,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 147142,
-      "num": 147142,
-      "word": "点外卖配送员是胡一天",
-      "onboard_time": 1752392302,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 146834,
@@ -1451,6 +1571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130534,
+      "num": 130534,
+      "word": "白敬亭拍难哄时被千人围观快碎了",
+      "onboard_time": 1752395361,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130135,
       "num": 130135,
       "word": "内娱爱豆听不得恋爱两个字",
@@ -1513,6 +1641,14 @@
       "onboard_time": 1752381202,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123284,
+      "num": 123284,
+      "word": "鹿晗布洛芬",
+      "onboard_time": 1752395482,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 122708,
@@ -1601,6 +1737,14 @@
       "onboard_time": 1752333742,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118196,
+      "num": 118196,
+      "word": "朱志鑫苏新皓又撕名牌了",
+      "onboard_time": 1752394402,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 117744,
@@ -1803,6 +1947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100473,
+      "num": 208763,
+      "word": "敖瑞鹏怎么这么会演心动",
+      "onboard_time": 1752394821,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97521,
       "num": 298582,
       "word": "女顾客遭店员猥亵获赔2万",
@@ -1947,14 +2099,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 76856,
-      "num": 303832,
-      "word": "合肥一家海底捞店员佩戴打赏码",
-      "onboard_time": 1752391942,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 76521,
       "num": 89609,
       "word": "宁静致远 那英致富",
@@ -1968,6 +2112,14 @@
       "word": "中国60项世界遗产全名单",
       "onboard_time": 1752380181,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74741,
+      "num": 208075,
+      "word": "淄博一景区凌晨数十人蒙眼列队行走",
+      "onboard_time": 1752394882,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2153,6 +2305,14 @@
       "onboard_time": 1752385282,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21800,
+      "num": 157271,
+      "word": "库尔德工人党焚烧枪支",
+      "onboard_time": 1752395361,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 21043,
