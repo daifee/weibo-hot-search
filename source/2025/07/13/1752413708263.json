@@ -1,0 +1,410 @@
+{
+  "runTime": 1752413708263,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1066175,
+        "num": 1170588,
+        "word": "李幼贞出家",
+        "onboard_time": 1752412703,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 881119,
+        "num": 881119,
+        "word": "76元一吨饮料外卖订单",
+        "onboard_time": 1752411983,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62076,
+        "num": 796069,
+        "word": "旋律一响梦回2008北京奥运",
+        "onboard_time": 1752401780,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 783714,
+        "num": 783714,
+        "word": "翻垃圾找儿童手表被质疑浪费人力",
+        "onboard_time": 1752405742,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 660947,
+        "num": 660947,
+        "word": "梓渝配音",
+        "onboard_time": 1752412823,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427347,
+        "num": 492347,
+        "word": "侧睡的危害",
+        "onboard_time": 1752399742,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 432670,
+        "num": 432670,
+        "word": "樱桃琥珀",
+        "onboard_time": 1752411983,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 431951,
+        "num": 431951,
+        "word": "锦绣芳华大结局",
+        "onboard_time": 1752403461,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 360008,
+        "num": 360008,
+        "word": "仙逆 摸脸",
+        "onboard_time": 1752405321,
+        "rank": 8,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 298695,
+        "num": 298695,
+        "word": "女子昏厥男子跪地心肺复苏被指袭胸",
+        "onboard_time": 1752404901,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1444477,
+        "num": 297290,
+        "word": "小杨嫂近照曝光",
+        "onboard_time": 1752411983,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1242392,
+        "num": 294858,
+        "word": "大连工业大学李同学全名可不被公告",
+        "onboard_time": 1752403340,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1049309,
+        "num": 293614,
+        "word": "女生出轨Zeus是私德瑕疵被放大",
+        "onboard_time": 1752401661,
+        "rank": 12,
+        "category": "民生新闻,电竞"
+      },
+      {
+        "raw_hot": 706130,
+        "num": 291423,
+        "word": "邢昭林卢洋洋还在一起",
+        "onboard_time": 1752405321,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 539326,
+        "num": 289728,
+        "word": "女子买泳衣走光后被告知不能游泳",
+        "onboard_time": 1752404361,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 436947,
+        "num": 288635,
+        "word": "梓渝500w粉丝福利",
+        "onboard_time": 1752405920,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190022,
+        "num": 284937,
+        "word": "留几手谈大连工业被开除女生",
+        "onboard_time": 1752411804,
+        "rank": 16,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 433782,
+        "num": 284288,
+        "word": "肖战素人时期的工作谁能干",
+        "onboard_time": 1752411865,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125829,
+        "num": 280900,
+        "word": "何惟芳猛女",
+        "onboard_time": 1752412823,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41462,
+        "num": 280055,
+        "word": "瑜伽馆会员免费拍照最终花了8100",
+        "onboard_time": 1752412942,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1070878,
+        "num": 277061,
+        "word": "私密视频被恶意传播男方岂能逍遥法外",
+        "onboard_time": 1752401181,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370041,
+        "num": 275850,
+        "word": "50岁女子意外怀孕诱发罕见癌症",
+        "onboard_time": 1752412703,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274682,
+        "num": 274682,
+        "word": "河南一炒米粉店竟有庆大霉素药品",
+        "onboard_time": 1752408922,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274509,
+        "num": 274509,
+        "word": "林俊杰演唱会",
+        "onboard_time": 1752404361,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 247531,
+        "num": 247531,
+        "word": "侃爷上海演唱会主办方应赔偿消费者",
+        "onboard_time": 1752409942,
+        "rank": 24,
+        "category": "演出,民生新闻"
+      },
+      {
+        "raw_hot": 235428,
+        "num": 235428,
+        "word": "无忧渡收视率",
+        "onboard_time": 1752412281,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204103,
+        "num": 204103,
+        "word": "王一博说每一次夕阳都很美",
+        "onboard_time": 1752412942,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196650,
+        "num": 196650,
+        "word": "包贝尔10岁女儿身高",
+        "onboard_time": 1752406401,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118078,
+        "num": 186360,
+        "word": "男子因妻子总抱怨长期生闷气患肺癌",
+        "onboard_time": 1752404721,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182104,
+        "num": 182104,
+        "word": "女子不堪家暴给丈夫投毒获刑3年半",
+        "onboard_time": 1752412583,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178739,
+        "num": 182025,
+        "word": "网友一天点20单外卖17单0元购",
+        "onboard_time": 1752410783,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182019,
+        "num": 182019,
+        "word": "王晶说梅艳芳被任性害死了",
+        "onboard_time": 1752412884,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179718,
+        "num": 179718,
+        "word": "广东人表达难吃",
+        "onboard_time": 1752412644,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176520,
+        "num": 176520,
+        "word": "周翊然直播",
+        "onboard_time": 1752413183,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118378,
+        "num": 176048,
+        "word": "20250001号通知书排面拉满",
+        "onboard_time": 1752412104,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31079,
+        "num": 175726,
+        "word": "外卖0元狂欢谁是真正的赢家",
+        "onboard_time": 1752413544,
+        "rank": 35,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 998606,
+        "num": 175682,
+        "word": "赵丽颖 纪梵希",
+        "onboard_time": 1752411865,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175577,
+        "num": 175577,
+        "word": "林俊杰演唱会偶遇杨洋",
+        "onboard_time": 1752411923,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170649,
+        "num": 170649,
+        "word": "律师谈校方开除出轨Zeus女生是否合理",
+        "onboard_time": 1752409884,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31115,
+        "num": 167648,
+        "word": "中国女篮51分大胜印尼女篮",
+        "onboard_time": 1752413483,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165243,
+        "num": 165243,
+        "word": "白鹿范丞丞贴脸开吃",
+        "onboard_time": 1752412823,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162757,
+        "num": 162757,
+        "word": "李现在洛杉矶给杨天真拍照",
+        "onboard_time": 1752407182,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162067,
+        "num": 162067,
+        "word": "成本9毛做了13个菜",
+        "onboard_time": 1752413305,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 161899,
+        "num": 161899,
+        "word": "王晶说刘亦菲不是天赋型演员",
+        "onboard_time": 1752412823,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159124,
+        "num": 159124,
+        "word": "时代少年团 王牌对王牌",
+        "onboard_time": 1752411865,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148801,
+        "num": 148801,
+        "word": "河南历史级高温",
+        "onboard_time": 1752412224,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146537,
+        "num": 146537,
+        "word": "仙逆",
+        "onboard_time": 1752402441,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 144168,
+        "num": 144168,
+        "word": "马嘉祺 歌手突围赛",
+        "onboard_time": 1752411804,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59538,
+        "num": 142254,
+        "word": "村民不满景区收费发帖指引游客逃票",
+        "onboard_time": 1752412281,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141379,
+        "num": 141379,
+        "word": "AG剧透",
+        "onboard_time": 1752411865,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#持之以恒纠治四风#"
+    }
+  }
+}

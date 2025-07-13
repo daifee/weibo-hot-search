@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752411950522,
+  "endTime": 1752413708263,
   "band_list": [
     {
       "raw_hot": 2900025,
@@ -57,6 +57,14 @@
       "onboard_time": 1752384021,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1444477,
+      "num": 297290,
+      "word": "小杨嫂近照曝光",
+      "onboard_time": 1752411983,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 1388894,
@@ -131,12 +139,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1066175,
+      "num": 1170588,
+      "word": "李幼贞出家",
+      "onboard_time": 1752412703,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1039757,
       "num": 1039757,
       "word": "侃爷上海演唱会嫌雨太大提前退场",
       "onboard_time": 1752365479,
       "rank": 1,
       "category": "演出"
+    },
+    {
+      "raw_hot": 998606,
+      "num": 209922,
+      "word": "赵丽颖 纪梵希",
+      "onboard_time": 1752411865,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 971130,
@@ -224,6 +248,14 @@
       "word": "娃哈哈",
       "onboard_time": 1752396082,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 881119,
+      "num": 881119,
+      "word": "76元一吨饮料外卖订单",
+      "onboard_time": 1752411983,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -387,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 660947,
+      "num": 660947,
+      "word": "梓渝配音",
+      "onboard_time": 1752412823,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 648450,
       "num": 356352,
       "word": "陈道明头发全白了",
@@ -507,6 +547,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 433782,
+      "num": 284288,
+      "word": "肖战素人时期的工作谁能干",
+      "onboard_time": 1752411865,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 432670,
+      "num": 432670,
+      "word": "樱桃琥珀",
+      "onboard_time": 1752411983,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 426703,
       "num": 426703,
       "word": "孙颖莎王曼昱vs王艺迪蒯曼",
@@ -603,6 +659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 370041,
+      "num": 275850,
+      "word": "50岁女子意外怀孕诱发罕见癌症",
+      "onboard_time": 1752412703,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 369293,
       "num": 369293,
       "word": "甜馨去看侃爷演唱会",
@@ -617,14 +681,6 @@
       "onboard_time": 1752401541,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 360287,
-      "num": 222541,
-      "word": "肖战素人时期的工作谁能干",
-      "onboard_time": 1752411865,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 359786,
@@ -771,6 +827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 298695,
+      "num": 298695,
+      "word": "女子昏厥男子跪地心肺复苏被指袭胸",
+      "onboard_time": 1752404901,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 297103,
       "num": 324300,
       "word": "五月天密谋两年促成F4合体",
@@ -827,14 +891,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 283012,
-      "num": 283012,
-      "word": "女子昏厥男子跪地心肺复苏被指袭胸",
-      "onboard_time": 1752404901,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 281025,
       "num": 316226,
       "word": "虞书欣王安宇一念江南招商信息",
@@ -865,6 +921,14 @@
       "onboard_time": 1752394641,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 274682,
+      "num": 274682,
+      "word": "河南一炒米粉店竟有庆大霉素药品",
+      "onboard_time": 1752408922,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 274399,
@@ -977,6 +1041,14 @@
       "onboard_time": 1752325043,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 235428,
+      "num": 235428,
+      "word": "无忧渡收视率",
+      "onboard_time": 1752412281,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 234540,
@@ -1099,11 +1171,11 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 209922,
-      "num": 209922,
-      "word": "赵丽颖 纪梵希",
-      "onboard_time": 1752411865,
-      "rank": 19,
+      "raw_hot": 204103,
+      "num": 204103,
+      "word": "王一博说每一次夕阳都很美",
+      "onboard_time": 1752412942,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -1251,6 +1323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190022,
+      "num": 284937,
+      "word": "留几手谈大连工业被开除女生",
+      "onboard_time": 1752411804,
+      "rank": 35,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 189746,
       "num": 464387,
       "word": "超10块的饭不点超5块的奶茶不喝",
@@ -1347,6 +1427,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182104,
+      "num": 182104,
+      "word": "女子不堪家暴给丈夫投毒获刑3年半",
+      "onboard_time": 1752412583,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 182019,
+      "num": 182019,
+      "word": "王晶说梅艳芳被任性害死了",
+      "onboard_time": 1752412884,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180906,
       "num": 180906,
       "word": "李嘉格女版柯淳",
@@ -1363,6 +1459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179718,
+      "num": 179718,
+      "word": "广东人表达难吃",
+      "onboard_time": 1752412644,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 179644,
       "num": 179644,
       "word": "Hero坦然三连MVP",
@@ -1377,6 +1481,14 @@
       "onboard_time": 1752377001,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 178739,
+      "num": 203807,
+      "word": "网友一天点20单外卖17单0元购",
+      "onboard_time": 1752410783,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 178506,
@@ -1401,6 +1513,14 @@
       "onboard_time": 1752393021,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176520,
+      "num": 176520,
+      "word": "周翊然直播",
+      "onboard_time": 1752413183,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 175695,
@@ -1579,6 +1699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165243,
+      "num": 165243,
+      "word": "白鹿范丞丞贴脸开吃",
+      "onboard_time": 1752412823,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164943,
       "num": 164943,
       "word": "杨瀚森主动出击",
@@ -1625,6 +1753,22 @@
       "onboard_time": 1752378921,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162067,
+      "num": 162067,
+      "word": "成本9毛做了13个菜",
+      "onboard_time": 1752413305,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 161899,
+      "num": 161899,
+      "word": "王晶说刘亦菲不是天赋型演员",
+      "onboard_time": 1752412823,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 160244,
@@ -1787,6 +1931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148801,
+      "num": 148801,
+      "word": "河南历史级高温",
+      "onboard_time": 1752412224,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148118,
       "num": 414050,
       "word": "女双决赛有多精彩",
@@ -1881,6 +2033,14 @@
       "onboard_time": 1752379282,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141379,
+      "num": 141379,
+      "word": "AG剧透",
+      "onboard_time": 1752411865,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 140451,
@@ -2115,12 +2275,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 125977,
-      "num": 227500,
-      "word": "河南一炒米粉店竟有庆大霉素药品",
-      "onboard_time": 1752408922,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 125829,
+      "num": 280900,
+      "word": "何惟芳猛女",
+      "onboard_time": 1752412823,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 125785,
@@ -2273,6 +2433,14 @@
       "onboard_time": 1752409223,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118378,
+      "num": 176048,
+      "word": "20250001号通知书排面拉满",
+      "onboard_time": 1752412104,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118351,
@@ -2481,14 +2649,6 @@
       "onboard_time": 1752379880,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 108491,
-      "num": 108491,
-      "word": "留几手谈大连工业被开除女生",
-      "onboard_time": 1752411804,
-      "rank": 35,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 108063,
@@ -2747,22 +2907,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 86457,
-      "num": 203807,
-      "word": "网友一天点20单外卖17单0元购",
-      "onboard_time": 1752410783,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 85471,
-      "num": 85471,
-      "word": "AG剧透",
-      "onboard_time": 1752411865,
-      "rank": 43,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 85113,
       "num": 72519,
       "word": "万妮达严浩翔战队",
@@ -2947,6 +3091,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 59538,
+      "num": 142254,
+      "word": "村民不满景区收费发帖指引游客逃票",
+      "onboard_time": 1752412281,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59305,
       "num": 59305,
       "word": "李昀锐化妆一小时三分钟入水",
@@ -3051,6 +3203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 41462,
+      "num": 280055,
+      "word": "瑜伽馆会员免费拍照最终花了8100",
+      "onboard_time": 1752412942,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39825,
       "num": 244191,
       "word": "侃爷演唱会迟到早退谁给的傲慢",
@@ -3105,6 +3265,22 @@
       "onboard_time": 1752404481,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31115,
+      "num": 167648,
+      "word": "中国女篮51分大胜印尼女篮",
+      "onboard_time": 1752413483,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 31079,
+      "num": 175726,
+      "word": "外卖0元狂欢谁是真正的赢家",
+      "onboard_time": 1752413544,
+      "rank": 35,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 30302,
@@ -3244,6 +3420,9 @@
     },
     {
       "word": "#西夏陵藏着中华文明珍贵密码#"
+    },
+    {
+      "word": "#持之以恒纠治四风#"
     }
   ]
 }
