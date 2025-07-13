@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752435483300,
+  "endTime": 1752438476971,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -42059,6 +42059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51188,
+      "num": 51188,
+      "word": "2025世俱杯",
+      "onboard_time": 1752003194,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51038,
       "num": 123638,
       "word": "明日方舟中图网",
@@ -45281,14 +45289,6 @@
       "onboard_time": 1752094933,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 23039,
-      "num": 38572,
-      "word": "2025世俱杯",
-      "onboard_time": 1752003194,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 22978,

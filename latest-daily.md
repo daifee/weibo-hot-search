@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/14 00:31:25 ~ 2025/07/14 03:38:03
+本榜单时间：2025/07/14 00:31:25 ~ 2025/07/14 04:27:56
 </p>
 </blockquote>
 <p>
@@ -321,6 +321,12 @@ AG 一诺（热度：95402）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232025%E4%B8%96%E4%BF%B1%E6%9D%AF%23" target="weibo">
+2025世俱杯（热度：51188）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%20%E7%8E%8B%E7%89%8C%E5%AF%B9%E7%8E%8B%E7%89%8C%23" target="weibo">
 时代少年团 王牌对王牌（热度：46581）
 </a>
@@ -365,12 +371,6 @@ AG 一诺（热度：95402）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E6%8D%90%E6%A3%BA%E6%9C%A8%E5%B8%AE%E7%BA%A2%E5%86%9B%E6%9E%B6%E6%B5%AE%E6%A1%A5%23" target="weibo">
 老人捐棺木帮红军架浮桥（热度：21673）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232025%E4%B8%96%E4%BF%B1%E6%9D%AF%23" target="weibo">
-2025世俱杯（热度：20204）
 </a>
 </li>
 

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/13 00:31:18 ~ 2025/07/14 03:38:03
+本榜单时间：2025/07/13 00:31:18 ~ 2025/07/14 04:27:56
 </p>
 </blockquote>
 <p>
@@ -2745,6 +2745,12 @@ T1极致拉扯GEN（热度：104351）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232025%E4%B8%96%E4%BF%B1%E6%9D%AF%23" target="weibo">
+2025世俱杯（热度：51188）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%AD%E8%8F%9C%E8%8A%B1%E4%B8%8A%E9%AB%98%E9%80%9F%E6%98%AF%E5%90%A6%E8%AF%A5%E6%94%B6%E9%80%9A%E8%A1%8C%E8%B4%B9%23" target="weibo">
 韭菜花上高速是否该收通行费（热度：50505）
 </a>
@@ -2927,12 +2933,6 @@ T1极致拉扯GEN（热度：104351）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E4%BC%9A%E6%8B%92%E7%BB%9D%E6%98%AF%E5%AF%B9%E8%87%AA%E5%B7%B1%E5%92%8C%E5%85%B3%E7%B3%BB%E7%9A%84%E4%BF%9D%E6%8A%A4%23" target="weibo">
 学会拒绝是对自己和关系的保护（热度：21043）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232025%E4%B8%96%E4%BF%B1%E6%9D%AF%23" target="weibo">
-2025世俱杯（热度：20204）
 </a>
 </li>
 

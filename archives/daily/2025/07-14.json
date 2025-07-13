@@ -1,6 +1,6 @@
 {
   "startTime": 1752424285355,
-  "endTime": 1752435483300,
+  "endTime": 1752438476971,
   "band_list": [
     {
       "raw_hot": 5991584,
@@ -411,6 +411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51188,
+      "num": 51188,
+      "word": "2025世俱杯",
+      "onboard_time": 1752432555,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 46581,
       "num": 65176,
       "word": "时代少年团 王牌对王牌",
@@ -473,14 +481,6 @@
       "onboard_time": 1752427518,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20204,
-      "num": 22546,
-      "word": "2025世俱杯",
-      "onboard_time": 1752432555,
-      "rank": 42,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
