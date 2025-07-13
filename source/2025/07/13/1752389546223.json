@@ -1,0 +1,410 @@
+{
+  "runTime": 1752389546223,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2681553,
+        "num": 2681553,
+        "word": "出轨Zeus女生被学校开除",
+        "onboard_time": 1752372741,
+        "rank": 0,
+        "category": "民生新闻,电竞"
+      },
+      {
+        "raw_hot": 1945570,
+        "num": 1945570,
+        "word": "曹格儿子宣布恋情",
+        "onboard_time": 1752386662,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63321,
+        "num": 1269574,
+        "word": "中国60项世界遗产全名单",
+        "onboard_time": 1752380181,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 846392,
+        "num": 846392,
+        "word": "高考604分女生被一所高职录取",
+        "onboard_time": 1752388403,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 751686,
+        "num": 751686,
+        "word": "李欣莳 Zeus",
+        "onboard_time": 1752371781,
+        "rank": 4,
+        "category": "民生新闻,电竞"
+      },
+      {
+        "raw_hot": 710628,
+        "num": 710628,
+        "word": "宋江别举铁了",
+        "onboard_time": 1752385701,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 611178,
+        "num": 611178,
+        "word": "哥哥隐瞒父亲死讯埋葬地被妹起诉",
+        "onboard_time": 1752386422,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 518814,
+        "num": 518814,
+        "word": "word删除空白页",
+        "onboard_time": 1752383781,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 374757,
+        "num": 374757,
+        "word": "孙颖莎王曼昱女双亚军",
+        "onboard_time": 1752381441,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143983,
+        "num": 373459,
+        "word": "有沪上阿姨门店爆单到中午就闭店",
+        "onboard_time": 1752387383,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 644622,
+        "num": 369325,
+        "word": "烤鱼盘下蛆虫乱爬老板称没入嘴没事",
+        "onboard_time": 1752385461,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 548316,
+        "num": 366681,
+        "word": "曾经的跑男都是实打实撕名牌",
+        "onboard_time": 1752383182,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 413894,
+        "num": 364163,
+        "word": "田栩宁路透",
+        "onboard_time": 1752384862,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 387688,
+        "num": 360583,
+        "word": "郑恺苗苗带三个孩子出行",
+        "onboard_time": 1752388941,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360083,
+        "num": 360083,
+        "word": "0元奶茶能喝多久",
+        "onboard_time": 1752385581,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332189,
+        "num": 332189,
+        "word": "结婚1年离婚40万陪嫁被判为共同财产",
+        "onboard_time": 1752381381,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265675,
+        "num": 265675,
+        "word": "央妈镜头下的章子怡吴京",
+        "onboard_time": 1752385040,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255150,
+        "num": 255150,
+        "word": "商家收差评辱骂顾客舔得比狗干净",
+        "onboard_time": 1752387740,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252441,
+        "num": 252441,
+        "word": "朝雪录",
+        "onboard_time": 1752383601,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249040,
+        "num": 249040,
+        "word": "蔡国庆怼19岁选手怼了4分钟",
+        "onboard_time": 1752376221,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238704,
+        "num": 238704,
+        "word": "钎九",
+        "onboard_time": 1752388281,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 201769,
+        "num": 201769,
+        "word": "偶遇鹿晗高瀚宇逛商场",
+        "onboard_time": 1752384502,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199904,
+        "num": 199904,
+        "word": "清朝状元的名字毫无网红感",
+        "onboard_time": 1752375441,
+        "rank": 22,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 192575,
+        "num": 192575,
+        "word": "苏新皓被红海整微醺了",
+        "onboard_time": 1752388403,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192157,
+        "num": 192157,
+        "word": "慕容云海你爸摊上大事了",
+        "onboard_time": 1752388882,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190953,
+        "num": 190953,
+        "word": "李一桐观众缘",
+        "onboard_time": 1752387740,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186053,
+        "num": 186053,
+        "word": "五旬大佬给95后歌手灌了1小时中药",
+        "onboard_time": 1752388223,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182331,
+        "num": 182331,
+        "word": "甜馨去看侃爷演唱会",
+        "onboard_time": 1752383122,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 94812,
+        "num": 169167,
+        "word": "我国最大750千伏超高压环网工程合龙",
+        "onboard_time": 1752387263,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168446,
+        "num": 168446,
+        "word": "月薪6000的助理要做多少事",
+        "onboard_time": 1752386002,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158175,
+        "num": 158175,
+        "word": "王楚钦决赛迎战张本智和",
+        "onboard_time": 1752378140,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154167,
+        "num": 154167,
+        "word": "港大男用老师同学照片AI生成色情照",
+        "onboard_time": 1752389002,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149309,
+        "num": 149309,
+        "word": "王一博的关键词是享受生活",
+        "onboard_time": 1752388643,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144205,
+        "num": 144205,
+        "word": "李兰迪古早名门贵女",
+        "onboard_time": 1752387622,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137006,
+        "num": 137006,
+        "word": "误删微信聊天记录可以撤销了",
+        "onboard_time": 1752377841,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 134977,
+        "num": 134977,
+        "word": "让万茜穿长衫的天才是万茜本人",
+        "onboard_time": 1752385823,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133270,
+        "num": 133270,
+        "word": "幼犬被严重虐待后扔在厕所伤重死亡",
+        "onboard_time": 1752386062,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132380,
+        "num": 132380,
+        "word": "张本智和回应医疗暂停",
+        "onboard_time": 1752385401,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131121,
+        "num": 131121,
+        "word": "女生被男孩尿衣服上家长还口出恶言",
+        "onboard_time": 1752377781,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127182,
+        "num": 127182,
+        "word": "拟解聘10名大学教师疑问多多",
+        "onboard_time": 1752387982,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120903,
+        "num": 120903,
+        "word": "崂山道士隐喻越品越有",
+        "onboard_time": 1752387921,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118301,
+        "num": 118301,
+        "word": "侃爷上海演唱会嫌雨太大提前退场",
+        "onboard_time": 1752365479,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117744,
+        "num": 117744,
+        "word": "王嘉尔你啥都敢说",
+        "onboard_time": 1752389061,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116100,
+        "num": 116100,
+        "word": "朝雪录节奏",
+        "onboard_time": 1752387500,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115309,
+        "num": 115309,
+        "word": "向佐回应穿抹胸争议",
+        "onboard_time": 1752386962,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110395,
+        "num": 110395,
+        "word": "朝雪录热度",
+        "onboard_time": 1752389302,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109431,
+        "num": 109431,
+        "word": "T1无缘MSI第三冠",
+        "onboard_time": 1752388882,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100315,
+        "num": 100315,
+        "word": "周笔畅捡粉丝扔的荔枝吃",
+        "onboard_time": 1752386480,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 97863,
+        "num": 97863,
+        "word": "帮爷爷查话费时看到的短信",
+        "onboard_time": 1752375501,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96808,
+        "num": 96808,
+        "word": "9.9包邮的手机壳铅含量超标30倍",
+        "onboard_time": 1752389422,
+        "rank": 49,
+        "category": "舆论监督"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平高度重视城市工作#"
+    }
+  }
+}
