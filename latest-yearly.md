@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/07/13 21:46:12
+本榜单时间：2025/01/01 00:26:38 ~ 2025/07/13 22:23:50
 </p>
 </blockquote>
 <p>
@@ -1569,6 +1569,12 @@ GAI第一（热度：4228592）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%BF%83%E8%84%8F%23" target="weibo">
+林俊杰心脏（热度：4022269）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B0%91%E5%8D%8E%E5%8E%BB%E4%B8%96%23" target="weibo">
 杨少华去世（热度：3968193）
 </a>
@@ -1805,12 +1811,6 @@ GAI第一（热度：4228592）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E7%A7%80%E8%B4%A4%E6%96%B9%E8%AF%B4%E7%BB%9D%E4%B8%8D%E8%AE%A9%E6%AD%A5%23" target="weibo">
 金秀贤方说绝不让步（热度：3653448）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E5%81%B7%E5%90%83%E9%A5%BC%E5%B9%B2%23" target="weibo">
-沈腾偷吃饼干（热度：3638223）
 </a>
 </li>
 

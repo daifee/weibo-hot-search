@@ -1,7 +1,15 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752414372550,
+  "endTime": 1752416630414,
   "band_list": [
+    {
+      "raw_hot": 4022269,
+      "num": 4022269,
+      "word": "林俊杰心脏",
+      "onboard_time": 1752415406,
+      "rank": 0,
+      "category": "演出"
+    },
     {
       "raw_hot": 2900025,
       "num": 2900025,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 1493636,
-      "num": 348768,
+      "num": 367826,
       "word": "小杨嫂近照曝光",
       "onboard_time": 1752411983,
       "rank": 10,
@@ -107,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1261914,
+      "num": 1261914,
+      "word": "76元一吨饮料外卖订单",
+      "onboard_time": 1752411983,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1250859,
       "num": 453116,
       "word": "外卖大战有骑手称要跑通宵",
@@ -153,14 +169,6 @@
       "onboard_time": 1752365479,
       "rank": 1,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1021631,
-      "num": 1163461,
-      "word": "76元一吨饮料外卖订单",
-      "onboard_time": 1752411983,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 998606,
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 914092,
-      "num": 341993,
+      "num": 368622,
       "word": "邢昭林卢洋洋还在一起",
       "onboard_time": 1752405321,
       "rank": 20,
@@ -539,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 462850,
+      "num": 462850,
+      "word": "男子加拿大考公上岸月薪2万",
+      "onboard_time": 1752413964,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 459715,
       "num": 459715,
       "word": "德国男子连做2次断骨增高至1米9",
@@ -555,8 +571,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 447211,
+      "num": 420305,
+      "word": "林俊杰嘉宾是孙燕姿",
+      "onboard_time": 1752413904,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 433782,
-      "num": 333615,
+      "num": 367927,
       "word": "肖战素人时期的工作谁能干",
       "onboard_time": 1752411865,
       "rank": 17,
@@ -675,6 +699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 369024,
+      "num": 369024,
+      "word": "大连工业大学校规",
+      "onboard_time": 1752414024,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 365693,
       "num": 365693,
       "word": "林俊杰点歌",
@@ -697,14 +729,6 @@
       "onboard_time": 1752383601,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 356159,
-      "num": 330326,
-      "word": "林俊杰嘉宾是孙燕姿",
-      "onboard_time": 1752413904,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 352097,
@@ -737,6 +761,14 @@
       "onboard_time": 1752375441,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 335875,
+      "num": 246926,
+      "word": "艾米生日发了469张图",
+      "onboard_time": 1752414804,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 333571,
@@ -891,6 +923,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 285732,
+      "num": 232251,
+      "word": "王晶说刘亦菲不是天赋型演员",
+      "onboard_time": 1752412823,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 283250,
       "num": 283250,
       "word": "何惟芳蒋长扬人鬼情未了",
@@ -977,6 +1017,14 @@
       "onboard_time": 1752409942,
       "rank": 14,
       "category": "演出,民生新闻"
+    },
+    {
+      "raw_hot": 256545,
+      "num": 350788,
+      "word": "20250001号通知书排面拉满",
+      "onboard_time": 1752412104,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 255527,
@@ -1083,6 +1131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 226731,
+      "num": 226731,
+      "word": "刺痛Gemini直播",
+      "onboard_time": 1752413724,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 225630,
       "num": 334496,
       "word": "侃爷迟到早退观众可要求退款",
@@ -1105,14 +1161,6 @@
       "onboard_time": 1752367160,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 222617,
-      "num": 222617,
-      "word": "刺痛Gemini直播",
-      "onboard_time": 1752413724,
-      "rank": 26,
-      "category": "电竞"
     },
     {
       "raw_hot": 221944,
@@ -1275,6 +1323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 199614,
+      "num": 227049,
+      "word": "张艺兴飞天舞台是教科书级别的",
+      "onboard_time": 1752415884,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 198916,
       "num": 232531,
       "word": "国产剧终于又拍仵作探案戏了",
@@ -1307,12 +1363,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 193266,
-      "num": 193266,
-      "word": "男子加拿大考公上岸月薪2万",
-      "onboard_time": 1752413964,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 193768,
+      "num": 226795,
+      "word": "李现好恐怖的面部肌肉控制力",
+      "onboard_time": 1752416546,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 192575,
@@ -1372,7 +1428,7 @@
     },
     {
       "raw_hot": 190167,
-      "num": 190167,
+      "num": 240489,
       "word": "女子不堪家暴给丈夫投毒获刑3年半",
       "onboard_time": 1752412583,
       "rank": 29,
@@ -1435,6 +1491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185631,
+      "num": 185631,
+      "word": "鹿晗被男粉喊老公的反应",
+      "onboard_time": 1752415046,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 185629,
       "num": 199881,
       "word": "古装剧拍出真正的死亡视角",
@@ -1483,28 +1547,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 182494,
-      "num": 182494,
-      "word": "王晶说刘亦菲不是天赋型演员",
-      "onboard_time": 1752412823,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 182208,
-      "num": 182208,
-      "word": "大连工业大学校规",
-      "onboard_time": 1752414024,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 182019,
-      "num": 182019,
+      "num": 253173,
       "word": "王晶说梅艳芳被任性害死了",
       "onboard_time": 1752412884,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181676,
+      "num": 181676,
+      "word": "赛里木湖",
+      "onboard_time": 1752416304,
+      "rank": 36,
+      "category": "旅游"
     },
     {
       "raw_hot": 180906,
@@ -1755,6 +1811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165316,
+      "num": 165316,
+      "word": "25岁确诊癌症晚期后的忠告",
+      "onboard_time": 1752416546,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 165243,
       "num": 165243,
       "word": "白鹿范丞丞贴脸开吃",
@@ -1827,6 +1891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159369,
+      "num": 244495,
+      "word": "河南历史级高温",
+      "onboard_time": 1752412224,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159332,
       "num": 159332,
       "word": "台风百合已生成",
@@ -1867,6 +1939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156344,
+      "num": 339791,
+      "word": "外卖0元狂欢谁是真正的赢家",
+      "onboard_time": 1752413544,
+      "rank": 35,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 155311,
       "num": 155311,
       "word": "Faker回应输给GEN",
@@ -1881,14 +1961,6 @@
       "onboard_time": 1752372920,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 153938,
-      "num": 153938,
-      "word": "河南历史级高温",
-      "onboard_time": 1752412224,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 153830,
@@ -2001,6 +2073,14 @@
       "onboard_time": 1752385401,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147265,
+      "num": 147265,
+      "word": "杨少华儿子回应争议",
+      "onboard_time": 1752415164,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 147120,
@@ -2163,6 +2243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138442,
+      "num": 138442,
+      "word": "闫妮蒋欣因为罗小黑消失团建",
+      "onboard_time": 1752414444,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138407,
       "num": 138407,
       "word": "长期的朋友",
@@ -2233,6 +2321,14 @@
       "onboard_time": 1752385823,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134807,
+      "num": 902477,
+      "word": "未来一周大范围高温来袭",
+      "onboard_time": 1752414624,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 133956,
@@ -2331,14 +2427,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 126275,
-      "num": 350788,
-      "word": "20250001号通知书排面拉满",
-      "onboard_time": 1752412104,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 126060,
       "num": 126060,
       "word": "王一博早期微博被做成书了",
@@ -2401,6 +2489,14 @@
       "onboard_time": 1752381202,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123638,
+      "num": 123638,
+      "word": "古装剧男女主终于炒出新菜了",
+      "onboard_time": 1752416546,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 122708,
@@ -2747,6 +2843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105049,
+      "num": 157611,
+      "word": "中国女篮7人得分上双",
+      "onboard_time": 1752415947,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105021,
       "num": 105021,
       "word": "敖瑞鹏 只为她袖手天下",
@@ -3027,6 +3131,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 82062,
+      "num": 213098,
+      "word": "维也纳酒店回应浴巾里掉出情趣用品",
+      "onboard_time": 1752416483,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81565,
       "num": 81565,
       "word": "给国外的心理医生一些小小的震撼",
@@ -3083,6 +3195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 76395,
+      "num": 368074,
+      "word": "港大要求制作AI不雅照男生道歉",
+      "onboard_time": 1752415343,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74998,
       "num": 1269574,
       "word": "中国60项世界遗产全名单",
@@ -3121,6 +3241,14 @@
       "onboard_time": 1752397341,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69741,
+      "num": 116205,
+      "word": "张子宇统治力",
+      "onboard_time": 1752415947,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 62793,
@@ -3209,14 +3337,6 @@
       "onboard_time": 1752339739,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 49780,
-      "num": 339791,
-      "word": "外卖0元狂欢谁是真正的赢家",
-      "onboard_time": 1752413544,
-      "rank": 35,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 48438,

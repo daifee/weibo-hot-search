@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1752414372550,
+  "endTime": 1752416630414,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -2075,6 +2075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 4022269,
+      "num": 4022269,
+      "word": "林俊杰心脏",
+      "onboard_time": 1752415406,
+      "rank": 0,
+      "category": "演出"
+    },
+    {
       "raw_hot": 3968193,
       "num": 3968193,
       "word": "杨少华去世",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1741700184,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3638223,
-      "num": 3638223,
-      "word": "沈腾偷吃饼干",
-      "onboard_time": 1736597067,
-      "rank": 3,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
