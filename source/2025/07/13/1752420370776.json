@@ -1,0 +1,410 @@
+{
+  "runTime": 1752420370776,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11018610,
+        "num": 11018610,
+        "word": "林俊杰心脏",
+        "onboard_time": 1752415406,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1013692,
+        "num": 1013692,
+        "word": "76元一吨饮料外卖订单",
+        "onboard_time": 1752411983,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174518,
+        "num": 516341,
+        "word": "未来一周大范围高温来袭",
+        "onboard_time": 1752414624,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1115036,
+        "num": 497943,
+        "word": "鹿晗我输了",
+        "onboard_time": 1752417268,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 466910,
+        "num": 466910,
+        "word": "赛里木湖",
+        "onboard_time": 1752416304,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 420369,
+        "num": 420369,
+        "word": "大连工业大学校规",
+        "onboard_time": 1752414024,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 513412,
+        "num": 418614,
+        "word": "梓渝配音",
+        "onboard_time": 1752412823,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403960,
+        "num": 403960,
+        "word": "男子加拿大考公上岸月薪2万",
+        "onboard_time": 1752413964,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 346311,
+        "num": 346311,
+        "word": "侧睡的危害",
+        "onboard_time": 1752399742,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 197530,
+        "num": 346096,
+        "word": "大连工业大学法律援引条款有误",
+        "onboard_time": 1752418886,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 511632,
+        "num": 344313,
+        "word": "女子买泳衣走光后被告知不能游泳",
+        "onboard_time": 1752404361,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 418079,
+        "num": 341643,
+        "word": "邢昭林卢洋洋还在一起",
+        "onboard_time": 1752405321,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352129,
+        "num": 339989,
+        "word": "鹿晗拍我发朋友圈",
+        "onboard_time": 1752418346,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 339945,
+        "num": 339945,
+        "word": "李现好恐怖的面部肌肉控制力",
+        "onboard_time": 1752416546,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289772,
+        "num": 289772,
+        "word": "狼队战胜AG",
+        "onboard_time": 1752418526,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 310442,
+        "num": 289056,
+        "word": "李幼贞出家",
+        "onboard_time": 1752412703,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278949,
+        "num": 278949,
+        "word": "林俊杰嘉宾是孙燕姿",
+        "onboard_time": 1752413904,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 257659,
+        "num": 257659,
+        "word": "受处分女生不必被拉出来游街",
+        "onboard_time": 1752419665,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250364,
+        "num": 250364,
+        "word": "女子不堪家暴给丈夫投毒获刑3年半",
+        "onboard_time": 1752412583,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31735,
+        "num": 238205,
+        "word": "两医院HPV结果相反男子花万元治疗",
+        "onboard_time": 1752420085,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 547913,
+        "num": 237881,
+        "word": "25岁确诊癌症晚期后的忠告",
+        "onboard_time": 1752416546,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 236148,
+        "num": 236148,
+        "word": "艾米生日发了469张图",
+        "onboard_time": 1752414804,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234383,
+        "num": 234383,
+        "word": "李昀锐在跑男一天吃15顿",
+        "onboard_time": 1752418708,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226005,
+        "num": 226005,
+        "word": "肖战素人时期的工作谁能干",
+        "onboard_time": 1752411865,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220493,
+        "num": 220493,
+        "word": "翻垃圾找儿童手表被质疑浪费人力",
+        "onboard_time": 1752405742,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212065,
+        "num": 212065,
+        "word": "50岁女子意外怀孕诱发罕见癌症",
+        "onboard_time": 1752412703,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208162,
+        "num": 208162,
+        "word": "锦绣芳华大结局",
+        "onboard_time": 1752403461,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167638,
+        "num": 167638,
+        "word": "古装剧男女主终于炒出新菜了",
+        "onboard_time": 1752416546,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159761,
+        "num": 159761,
+        "word": "仙逆 摸脸",
+        "onboard_time": 1752405321,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 158174,
+        "num": 158174,
+        "word": "AG 一诺",
+        "onboard_time": 1752411923,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 155254,
+        "num": 155254,
+        "word": "狼队进入第三轮S组",
+        "onboard_time": 1752419067,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152473,
+        "num": 152473,
+        "word": "黄子弘凡演唱会",
+        "onboard_time": 1752419545,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150604,
+        "num": 150604,
+        "word": "留几手谈大连工业被开除女生",
+        "onboard_time": 1752411804,
+        "rank": 32,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 145917,
+        "num": 145917,
+        "word": "樱桃琥珀",
+        "onboard_time": 1752411983,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145016,
+        "num": 145016,
+        "word": "狼队对战AG",
+        "onboard_time": 1752411804,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137068,
+        "num": 137068,
+        "word": "夏以昼coser哭了",
+        "onboard_time": 1752419965,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127531,
+        "num": 127531,
+        "word": "女子昏厥男子跪地心肺复苏被指袭胸",
+        "onboard_time": 1752404901,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122923,
+        "num": 122923,
+        "word": "李宇春音乐节",
+        "onboard_time": 1752420024,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121608,
+        "num": 121608,
+        "word": "云南这个派出所连续36年长出鸡枞",
+        "onboard_time": 1752418466,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118023,
+        "num": 118023,
+        "word": "唐香玉和杨笠",
+        "onboard_time": 1752419606,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116957,
+        "num": 116957,
+        "word": "庄达菲这发型在我小学课本上见过",
+        "onboard_time": 1752417449,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113305,
+        "num": 113305,
+        "word": "想减肥首先要吃够碳水",
+        "onboard_time": 1752418167,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 105345,
+        "num": 105345,
+        "word": "建议周翊然黑框眼镜半永久",
+        "onboard_time": 1752420205,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104831,
+        "num": 104831,
+        "word": "钟意状态",
+        "onboard_time": 1752420325,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103834,
+        "num": 103834,
+        "word": "俄外长拉夫罗夫已抵达中国",
+        "onboard_time": 1752418645,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102737,
+        "num": 102737,
+        "word": "仙逆",
+        "onboard_time": 1752402441,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 102631,
+        "num": 102631,
+        "word": "王晶说梅艳芳被任性害死了",
+        "onboard_time": 1752412884,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101872,
+        "num": 101872,
+        "word": "写我的母亲大爷住10元1晚地下室",
+        "onboard_time": 1752419366,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100958,
+        "num": 100958,
+        "word": "福州两男子拖400万现金坐动车",
+        "onboard_time": 1752420205,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99512,
+        "num": 99512,
+        "word": "时代少年团 王牌对王牌",
+        "onboard_time": 1752411865,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#持之以恒纠治四风#"
+    }
+  }
+}

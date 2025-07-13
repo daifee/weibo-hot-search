@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/13 22:42:30
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/13 23:26:10
 </p>
 </blockquote>
 <p>
@@ -1361,6 +1361,12 @@ TVB演员周聪去世（热度：1170482）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%E8%AF%B4%E9%BE%9A%E4%BF%8A%E7%BB%8F%E7%BA%AA%E4%BA%BA%E5%A4%9F%E5%B7%AE%E5%8A%B2%E7%9A%84%23" target="weibo">
 那英说龚俊经纪人够差劲的（热度：1124936）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%88%91%E8%BE%93%E4%BA%86%23" target="weibo">
+鹿晗我输了（热度：1115036）
 </a>
 </li>
 
@@ -4299,6 +4305,12 @@ GAI表情（热度：577758）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2325%E5%B2%81%E7%A1%AE%E8%AF%8A%E7%99%8C%E7%97%87%E6%99%9A%E6%9C%9F%E5%90%8E%E7%9A%84%E5%BF%A0%E5%91%8A%23" target="weibo">
+25岁确诊癌症晚期后的忠告（热度：547913）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E5%9B%A2%E7%9B%B4%E6%92%AD%E4%B8%BB%E6%8C%81%E4%B8%8D%E6%98%AF%E6%9D%A8%E8%8B%A5%E5%A4%A9%23" target="weibo">
 时团直播主持不是杨若天（热度：546039）
 </a>
@@ -4379,12 +4391,6 @@ AL遗憾止步MSI（热度：543311）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2326%E5%B2%81%E5%A5%B3%E5%AD%90%E6%AF%8F%E5%A4%A9%E7%86%AC%E5%A4%9C%E8%87%B4%E5%8D%B5%E5%B7%A2%E6%97%A9%E8%A1%B0%E7%BB%9D%E7%BB%8F%23" target="weibo">
 26岁女子每天熬夜致卵巢早衰绝经（热度：538232）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2325%E5%B2%81%E7%A1%AE%E8%AF%8A%E7%99%8C%E7%97%87%E6%99%9A%E6%9C%9F%E5%90%8E%E7%9A%84%E5%BF%A0%E5%91%8A%23" target="weibo">
-25岁确诊癌症晚期后的忠告（热度：538023）
 </a>
 </li>
 
@@ -5075,6 +5081,12 @@ BLACKPINK空降（热度：480820）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%A0%A9%E5%AE%81%20%E8%8B%A5%E8%8B%A5%23" target="weibo">
 田栩宁 若若（热度：469923）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%9B%E9%87%8C%E6%9C%A8%E6%B9%96%23" target="weibo">
+赛里木湖（热度：466910）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ Bin说我是最强的上路（热度：411121）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BF%83%E7%96%BC%E6%A0%BC%E6%A0%BC%23" target="weibo">
 心疼格格（热度：405223）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%81%AB%E8%BD%A6%E7%AA%81%E5%8F%91%E5%81%9C%E8%BD%A6%E4%B9%98%E5%AE%A2%E7%A0%B8%E7%AA%97%E9%80%9A%E9%A3%8E%23" target="weibo">
-官方回应火车突发停车乘客砸窗通风（热度：402933）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9F%B3%E6%99%BA%E6%95%8F%E6%B0%B4%E5%BC%B9%23" target="weibo">
-柳智敏水弹（热度：402779）
 </a>
 </li>
 

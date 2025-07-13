@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752417750417,
+  "endTime": 1752420370776,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -1801,6 +1801,14 @@
       "onboard_time": 1751357840,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1115036,
+      "num": 497943,
+      "word": "鹿晗我输了",
+      "onboard_time": 1752417268,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 1110085,
@@ -5715,6 +5723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 547913,
+      "num": 305595,
+      "word": "25岁确诊癌症晚期后的忠告",
+      "onboard_time": 1752416546,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 546039,
       "num": 403999,
       "word": "时团直播主持不是杨若天",
@@ -5825,14 +5841,6 @@
       "onboard_time": 1751345184,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 538023,
-      "num": 305595,
-      "word": "25岁确诊癌症晚期后的忠告",
-      "onboard_time": 1752416546,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 537552,
@@ -6753,6 +6761,14 @@
       "onboard_time": 1751609063,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 466910,
+      "num": 466910,
+      "word": "赛里木湖",
+      "onboard_time": 1751846301,
+      "rank": 14,
+      "category": "旅游"
     },
     {
       "raw_hot": 466559,
@@ -8179,14 +8195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 393184,
-      "num": 393184,
-      "word": "赛里木湖",
-      "onboard_time": 1751846301,
-      "rank": 14,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 392941,
       "num": 392941,
       "word": "田栩宁古装路透",
@@ -9139,6 +9147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 352129,
+      "num": 339989,
+      "word": "鹿晗拍我发朋友圈",
+      "onboard_time": 1752418346,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 352097,
       "num": 352097,
       "word": "包贝尔10岁女儿身高",
@@ -9457,6 +9473,14 @@
       "onboard_time": 1751814204,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 339945,
+      "num": 339945,
+      "word": "李现好恐怖的面部肌肉控制力",
+      "onboard_time": 1752416546,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 338498,
@@ -10209,14 +10233,6 @@
       "onboard_time": 1751641107,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 318441,
-      "num": 318441,
-      "word": "李现好恐怖的面部肌肉控制力",
-      "onboard_time": 1752416546,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 317555,
@@ -11145,6 +11161,14 @@
       "onboard_time": 1751372902,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 289772,
+      "num": 289772,
+      "word": "狼队战胜AG",
+      "onboard_time": 1752418526,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 289294,
@@ -12531,6 +12555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 257659,
+      "num": 257659,
+      "word": "受处分女生不必被拉出来游街",
+      "onboard_time": 1752419665,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 257289,
       "num": 257289,
       "word": "国乒男队怎么了",
@@ -13593,6 +13625,14 @@
       "onboard_time": 1751943081,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 234383,
+      "num": 234383,
+      "word": "李昀锐在跑男一天吃15顿",
+      "onboard_time": 1752418708,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 234243,
@@ -15923,14 +15963,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 204481,
-      "num": 204481,
-      "word": "鹿晗我输了",
-      "onboard_time": 1752417268,
-      "rank": 33,
-      "category": "演出"
-    },
-    {
       "raw_hot": 204460,
       "num": 204460,
       "word": "者来女唱玉盘",
@@ -16985,6 +17017,14 @@
       "onboard_time": 1751812404,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 197530,
+      "num": 346096,
+      "word": "大连工业大学法律援引条款有误",
+      "onboard_time": 1752418886,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 197529,
@@ -20259,6 +20299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174518,
+      "num": 912765,
+      "word": "未来一周大范围高温来袭",
+      "onboard_time": 1752414624,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 174516,
       "num": 342913,
       "word": "应采儿分享Jasper庆生照",
@@ -23267,14 +23315,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 156943,
-      "num": 912765,
-      "word": "未来一周大范围高温来袭",
-      "onboard_time": 1752414624,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 156893,
       "num": 289655,
       "word": "蒯曼夺冠采访边说边乐",
@@ -23649,6 +23689,14 @@
       "onboard_time": 1752332543,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155254,
+      "num": 155254,
+      "word": "狼队进入第三轮S组",
+      "onboard_time": 1752419067,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 155236,
@@ -24161,6 +24209,14 @@
       "onboard_time": 1752383481,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152473,
+      "num": 152473,
+      "word": "黄子弘凡演唱会",
+      "onboard_time": 1752419545,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 152448,
@@ -27489,6 +27545,14 @@
       "onboard_time": 1752370221,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137068,
+      "num": 137068,
+      "word": "夏以昼coser哭了",
+      "onboard_time": 1752419965,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 137039,
@@ -30939,6 +31003,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 122923,
+      "num": 122923,
+      "word": "李宇春音乐节",
+      "onboard_time": 1752420024,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 122864,
       "num": 122864,
       "word": "英菲尼迪车祸案当事人王辉的15年",
@@ -31337,6 +31409,14 @@
       "onboard_time": 1751704281,
       "rank": 40,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 121608,
+      "num": 121608,
+      "word": "云南这个派出所连续36年长出鸡枞",
+      "onboard_time": 1752418466,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121602,
@@ -32297,6 +32377,14 @@
       "onboard_time": 1752227662,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 118023,
+      "num": 118023,
+      "word": "唐香玉和杨笠",
+      "onboard_time": 1752419606,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 118022,
@@ -33545,6 +33633,14 @@
       "onboard_time": 1751539161,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 113305,
+      "num": 113305,
+      "word": "想减肥首先要吃够碳水",
+      "onboard_time": 1752418167,
+      "rank": 41,
+      "category": "运动健身"
     },
     {
       "raw_hot": 113256,
@@ -35475,6 +35571,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 105345,
+      "num": 105345,
+      "word": "建议周翊然黑框眼镜半永久",
+      "onboard_time": 1752420205,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105300,
       "num": 105300,
       "word": "陈哲远是真的把自己养得很好",
@@ -35617,6 +35721,14 @@
       "onboard_time": 1751599584,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104831,
+      "num": 104831,
+      "word": "钟意状态",
+      "onboard_time": 1752420325,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 104827,
@@ -35873,6 +35985,14 @@
       "onboard_time": 1752366861,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103834,
+      "num": 103834,
+      "word": "俄外长拉夫罗夫已抵达中国",
+      "onboard_time": 1752418645,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 103816,
@@ -36283,6 +36403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 101872,
+      "num": 101872,
+      "word": "写我的母亲大爷住10元1晚地下室",
+      "onboard_time": 1752419366,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101832,
       "num": 406422,
       "word": "大国粮仓的科技范儿",
@@ -36433,6 +36561,14 @@
       "onboard_time": 1752075083,
       "rank": 35,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 100958,
+      "num": 100958,
+      "word": "福州两男子拖400万现金坐动车",
+      "onboard_time": 1752420205,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100851,
@@ -43921,6 +44057,14 @@
       "onboard_time": 1751879963,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31735,
+      "num": 238205,
+      "word": "两医院HPV结果相反男子花万元治疗",
+      "onboard_time": 1752420085,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31663,
