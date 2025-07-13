@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752449208901,
+  "endTime": 1752450147022,
   "band_list": [
     {
       "raw_hot": 14050966,
@@ -83,8 +83,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1433511,
-      "num": 1433511,
+      "raw_hot": 1461569,
+      "num": 1461569,
       "word": "被女子强搂亲吻男孩妈妈愤怒回应",
       "onboard_time": 1752423024,
       "rank": 1,
@@ -603,20 +603,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 494695,
+      "num": 204143,
+      "word": "网红张三嫂儿子确诊ADHD",
+      "onboard_time": 1752423922,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 484045,
       "num": 484045,
       "word": "TFBOYS疑似被音综做局",
       "onboard_time": 1752389602,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 476228,
-      "num": 184282,
-      "word": "网红张三嫂儿子确诊ADHD",
-      "onboard_time": 1752423922,
-      "rank": 36,
-      "category": "网红"
     },
     {
       "raw_hot": 459715,
@@ -883,6 +883,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 329604,
+      "num": 329604,
+      "word": "留几手谈大连工业被开除女生",
+      "onboard_time": 1752411804,
+      "rank": 35,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 326781,
       "num": 232897,
       "word": "清朝状元的名字毫无网红感",
@@ -1091,14 +1099,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 273691,
-      "num": 326281,
-      "word": "留几手谈大连工业被开除女生",
-      "onboard_time": 1752411804,
-      "rank": 35,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 273399,
       "num": 273399,
       "word": "误删微信聊天记录可以撤销了",
@@ -1195,6 +1195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 244732,
+      "num": 278273,
+      "word": "马斯克特朗普决裂的洗牌",
+      "onboard_time": 1752423442,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 243960,
       "num": 331111,
       "word": "律师谈校方开除出轨Zeus女生是否合理",
@@ -1225,14 +1233,6 @@
       "onboard_time": 1752325043,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 235781,
-      "num": 278273,
-      "word": "马斯克特朗普决裂的洗牌",
-      "onboard_time": 1752423442,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 235428,
@@ -1289,6 +1289,14 @@
       "onboard_time": 1752367160,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 223160,
+      "num": 238205,
+      "word": "两医院HPV结果相反男子花万元治疗",
+      "onboard_time": 1752420085,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 221944,
@@ -1361,6 +1369,14 @@
       "onboard_time": 1752411923,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 213888,
+      "num": 213888,
+      "word": "巴黎圣日耳曼世俱杯亚军",
+      "onboard_time": 1752447557,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 212761,
@@ -1603,14 +1619,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 187757,
-      "num": 187757,
-      "word": "巴黎圣日耳曼世俱杯亚军",
-      "onboard_time": 1752447557,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 186552,
       "num": 186552,
       "word": "朝雪录节奏",
@@ -1752,6 +1760,14 @@
       "word": "杨瀚森生涯首次背靠背",
       "onboard_time": 1752379101,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 176936,
+      "num": 176936,
+      "word": "切尔西足球俱乐部",
+      "onboard_time": 1752449900,
+      "rank": 15,
       "category": "体育"
     },
     {
@@ -1960,6 +1976,14 @@
       "word": "多地未来7天高温全勤",
       "onboard_time": 1752372559,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166655,
+      "num": 166655,
+      "word": "福州两男子拖400万现金坐动车",
+      "onboard_time": 1752420205,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -2187,6 +2211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150418,
+      "num": 83374,
+      "word": "鹿晗分享撕拉片",
+      "onboard_time": 1752449600,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 150386,
       "num": 150386,
       "word": "斯瓦泰克大满贯第六冠",
@@ -2248,6 +2280,14 @@
       "word": "女双决赛有多精彩",
       "onboard_time": 1752381381,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 148022,
+      "num": 176974,
+      "word": "辛纳首夺温网冠军",
+      "onboard_time": 1752448940,
+      "rank": 21,
       "category": "体育"
     },
     {
@@ -2313,14 +2353,6 @@
       "onboard_time": 1752387622,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 145142,
-      "num": 145142,
-      "word": "福州两男子拖400万现金坐动车",
-      "onboard_time": 1752420205,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 144694,
@@ -3035,14 +3067,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 111651,
-      "num": 238205,
-      "word": "两医院HPV结果相反男子花万元治疗",
-      "onboard_time": 1752420085,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 111369,
       "num": 111369,
       "word": "A股13家公司净利最高预增超800%",
@@ -3347,6 +3371,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89904,
+      "num": 89904,
+      "word": "王诗龄咖啡馆旧照",
+      "onboard_time": 1752447619,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 89706,
+      "num": 89706,
+      "word": "vkg夺冠",
+      "onboard_time": 1752449359,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 89665,
       "num": 89665,
       "word": "温网男单决赛",
@@ -3595,22 +3635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 72145,
-      "num": 101895,
-      "word": "辛纳首夺温网冠军",
-      "onboard_time": 1752448940,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 72071,
-      "num": 72071,
-      "word": "王诗龄咖啡馆旧照",
-      "onboard_time": 1752447619,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 71726,
       "num": 71726,
       "word": "2025世俱杯",
@@ -3681,6 +3705,22 @@
       "onboard_time": 1752399082,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 58270,
+      "num": 58270,
+      "word": "7月的阿勒泰草原有多美",
+      "onboard_time": 1752449840,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 54425,
+      "num": 54425,
+      "word": "撕拉片",
+      "onboard_time": 1752449900,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 52786,
