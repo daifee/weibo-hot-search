@@ -1,0 +1,410 @@
+{
+  "runTime": 1752399768321,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1388894,
+        "num": 1388894,
+        "word": "鹿晗布洛芬",
+        "onboard_time": 1752395482,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 458790,
+        "num": 458790,
+        "word": "合肥一家海底捞店员佩戴打赏码",
+        "onboard_time": 1752391942,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25638,
+        "num": 400263,
+        "word": "我国最大750千伏超高压环网工程合龙",
+        "onboard_time": 1752387263,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 841602,
+        "num": 385897,
+        "word": "曹格儿子宣布恋情",
+        "onboard_time": 1752386662,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366450,
+        "num": 366450,
+        "word": "9.9包邮的手机壳铅含量超标30倍",
+        "onboard_time": 1752389422,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 334818,
+        "num": 334818,
+        "word": "日本殡仪馆因死者姓氏相同烧错遗体",
+        "onboard_time": 1752390143,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 602420,
+        "num": 296199,
+        "word": "点外卖配送员是胡一天",
+        "onboard_time": 1752392302,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418940,
+        "num": 269550,
+        "word": "白敬亭拍难哄时被千人围观快碎了",
+        "onboard_time": 1752395361,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219790,
+        "num": 219790,
+        "word": "高考604分女生回应报考高职",
+        "onboard_time": 1752398902,
+        "rank": 8,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 62793,
+        "num": 219630,
+        "word": "海底捞客服回应店员佩戴打赏码",
+        "onboard_time": 1752396800,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318395,
+        "num": 218102,
+        "word": "郑恺苗苗带三个孩子出行",
+        "onboard_time": 1752388941,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1100109,
+        "num": 217264,
+        "word": "律师谈出轨Zeus女生被学校开除",
+        "onboard_time": 1752392061,
+        "rank": 11,
+        "category": "民生新闻,电竞"
+      },
+      {
+        "raw_hot": 270701,
+        "num": 215831,
+        "word": "李雪琴 没有一顿饭是白饿的",
+        "onboard_time": 1752393561,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215122,
+        "num": 215122,
+        "word": "0元奶茶能喝多久",
+        "onboard_time": 1752385581,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58621,
+        "num": 194210,
+        "word": "美公民在约旦河西岸被殴打致死",
+        "onboard_time": 1752399082,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 246233,
+        "num": 194170,
+        "word": "朱志鑫腹肌",
+        "onboard_time": 1752396502,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236913,
+        "num": 193772,
+        "word": "杨丽萍吃菌中毒看到仙鹤",
+        "onboard_time": 1752393561,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193131,
+        "num": 193131,
+        "word": "结婚1年离婚40万陪嫁被判为共同财产",
+        "onboard_time": 1752381381,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189919,
+        "num": 189919,
+        "word": "word删除空白页",
+        "onboard_time": 1752383781,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144937,
+        "num": 188663,
+        "word": "烤鱼盘下蛆虫乱爬老板称没入嘴没事",
+        "onboard_time": 1752385461,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 898871,
+        "num": 187548,
+        "word": "娃哈哈",
+        "onboard_time": 1752396082,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227546,
+        "num": 183504,
+        "word": "王玉雯偶遇郑钦文",
+        "onboard_time": 1752396201,
+        "rank": 21,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 223405,
+        "num": 181962,
+        "word": "林栋哲向鹏飞售后",
+        "onboard_time": 1752394641,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202103,
+        "num": 178393,
+        "word": "TFBOYS疑似被音综做局",
+        "onboard_time": 1752389602,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97896,
+        "num": 176417,
+        "word": "领奖台上的孙颖莎",
+        "onboard_time": 1752399442,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124069,
+        "num": 175924,
+        "word": "四万五买空调装一半对方失联",
+        "onboard_time": 1752398540,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195548,
+        "num": 173185,
+        "word": "田栩宁路透",
+        "onboard_time": 1752384862,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190157,
+        "num": 169526,
+        "word": "宋江别举铁了",
+        "onboard_time": 1752385701,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169019,
+        "num": 169019,
+        "word": "唐香玉三姨",
+        "onboard_time": 1752397522,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150952,
+        "num": 150952,
+        "word": "王俊凯一出国就给周杰伦做数据",
+        "onboard_time": 1752394701,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140451,
+        "num": 140451,
+        "word": "减肥不提倡戒掉任何东西",
+        "onboard_time": 1752394402,
+        "rank": 30,
+        "category": "运动健身,健康医疗"
+      },
+      {
+        "raw_hot": 67384,
+        "num": 137371,
+        "word": "中国60项世界遗产全名单",
+        "onboard_time": 1752380181,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164131,
+        "num": 136969,
+        "word": "田栩宁帅的好权威",
+        "onboard_time": 1752394342,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136314,
+        "num": 136314,
+        "word": "孙颖莎王曼昱女双亚军",
+        "onboard_time": 1752381441,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129123,
+        "num": 129123,
+        "word": "曾经的跑男都是实打实撕名牌",
+        "onboard_time": 1752383182,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18616,
+        "num": 123146,
+        "word": "日官员用幸运描述发生地震",
+        "onboard_time": 1752399681,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 119219,
+        "num": 119219,
+        "word": "陈思罕受伤",
+        "onboard_time": 1752395722,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118177,
+        "num": 118177,
+        "word": "苹果6s ccd神器",
+        "onboard_time": 1752393502,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 117303,
+        "num": 117303,
+        "word": "朝雪录",
+        "onboard_time": 1752383601,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113616,
+        "num": 113616,
+        "word": "钎九拥抱",
+        "onboard_time": 1752394821,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112580,
+        "num": 112580,
+        "word": "ACT对战Wolves",
+        "onboard_time": 1752398481,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112075,
+        "num": 112075,
+        "word": "郭焱道歉",
+        "onboard_time": 1752398540,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111794,
+        "num": 111794,
+        "word": "毕业多年后同寝三人命运唏嘘",
+        "onboard_time": 1752395961,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111610,
+        "num": 111610,
+        "word": "高温天为什么越来越多",
+        "onboard_time": 1752398362,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106998,
+        "num": 106998,
+        "word": "张本智和坦言对阵王楚钦胜算低",
+        "onboard_time": 1752393981,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103875,
+        "num": 103875,
+        "word": "扫毒风暴4线并行看爽了",
+        "onboard_time": 1752399623,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103464,
+        "num": 103464,
+        "word": "从未见过这样的何老师",
+        "onboard_time": 1752398782,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101782,
+        "num": 101782,
+        "word": "TF随舞",
+        "onboard_time": 1752394102,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101460,
+        "num": 101460,
+        "word": "侧睡的危害",
+        "onboard_time": 1752399742,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 99094,
+        "num": 99094,
+        "word": "把我的医保卡给蒋长扬",
+        "onboard_time": 1752399501,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平高度重视城市工作#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752398958978,
+  "endTime": 1752399768321,
   "band_list": [
     {
       "raw_hot": 2900025,
@@ -35,6 +35,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1388894,
+      "num": 1388894,
+      "word": "鹿晗布洛芬",
+      "onboard_time": 1752395482,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1337264,
       "num": 1125869,
       "word": "李欣莳 Zeus",
@@ -57,14 +65,6 @@
       "onboard_time": 1752384021,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1291425,
-      "num": 1291425,
-      "word": "鹿晗布洛芬",
-      "onboard_time": 1752395482,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 1271020,
@@ -153,6 +153,14 @@
       "onboard_time": 1752392302,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 898871,
+      "num": 429323,
+      "word": "娃哈哈",
+      "onboard_time": 1752396082,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 872367,
@@ -249,14 +257,6 @@
       "onboard_time": 1752383182,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 694218,
-      "num": 429323,
-      "word": "娃哈哈",
-      "onboard_time": 1752396082,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 688885,
@@ -387,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 418940,
+      "num": 392274,
+      "word": "白敬亭拍难哄时被千人围观快碎了",
+      "onboard_time": 1752395361,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 416688,
       "num": 416688,
       "word": "国乒女双开局就爆分",
@@ -449,14 +457,6 @@
       "onboard_time": 1752390143,
       "rank": 27,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 392274,
-      "num": 392274,
-      "word": "白敬亭拍难哄时被千人围观快碎了",
-      "onboard_time": 1752395361,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 380502,
@@ -652,7 +652,7 @@
     },
     {
       "raw_hot": 280552,
-      "num": 166743,
+      "num": 183504,
       "word": "王玉雯偶遇郑钦文",
       "onboard_time": 1752396201,
       "rank": 23,
@@ -809,6 +809,14 @@
       "onboard_time": 1752368479,
       "rank": 23,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 219790,
+      "num": 219790,
+      "word": "高考604分女生回应报考高职",
+      "onboard_time": 1752398902,
+      "rank": 41,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 216821,
@@ -1235,6 +1243,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 169019,
+      "num": 169019,
+      "word": "唐香玉三姨",
+      "onboard_time": 1752397522,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168446,
       "num": 168446,
       "word": "月薪6000的助理要做多少事",
@@ -1555,14 +1571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 142957,
-      "num": 142957,
-      "word": "唐香玉三姨",
-      "onboard_time": 1752397522,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 142594,
       "num": 142594,
       "word": "宋亚轩旁边的居然是陈果",
@@ -1577,6 +1585,14 @@
       "onboard_time": 1752379282,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140451,
+      "num": 140451,
+      "word": "减肥不提倡戒掉任何东西",
+      "onboard_time": 1752394402,
+      "rank": 36,
+      "category": "运动健身,健康医疗"
     },
     {
       "raw_hot": 140289,
@@ -1723,14 +1739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127159,
-      "num": 127159,
-      "word": "减肥不提倡戒掉任何东西",
-      "onboard_time": 1752394402,
-      "rank": 36,
-      "category": "运动健身,健康医疗"
-    },
-    {
       "raw_hot": 126060,
       "num": 126060,
       "word": "王一博早期微博被做成书了",
@@ -1769,6 +1777,14 @@
       "onboard_time": 1752333803,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124069,
+      "num": 175924,
+      "word": "四万五买空调装一半对方失联",
+      "onboard_time": 1752398540,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123685,
@@ -1849,14 +1865,6 @@
       "onboard_time": 1752375921,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 119521,
-      "num": 119521,
-      "word": "高考604分女生回应报考高职",
-      "onboard_time": 1752398902,
-      "rank": 41,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 119138,
@@ -2003,6 +2011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111610,
+      "num": 111610,
+      "word": "高温天为什么越来越多",
+      "onboard_time": 1752398362,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111369,
       "num": 111369,
       "word": "A股13家公司净利最高预增超800%",
@@ -2075,6 +2091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103875,
+      "num": 103875,
+      "word": "扫毒风暴4线并行看爽了",
+      "onboard_time": 1752399623,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103838,
       "num": 103838,
       "word": "韩红回应孙燕姿偷偷捐款",
@@ -2107,12 +2131,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101460,
+      "num": 101460,
+      "word": "侧睡的危害",
+      "onboard_time": 1752399742,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 100473,
       "num": 208763,
       "word": "敖瑞鹏怎么这么会演心动",
       "onboard_time": 1752394821,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 99094,
+      "num": 99094,
+      "word": "把我的医保卡给蒋长扬",
+      "onboard_time": 1752399501,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 97896,
+      "num": 176417,
+      "word": "领奖台上的孙颖莎",
+      "onboard_time": 1752399442,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 97521,
@@ -2148,7 +2196,7 @@
     },
     {
       "raw_hot": 94812,
-      "num": 169167,
+      "num": 400263,
       "word": "我国最大750千伏超高压环网工程合龙",
       "onboard_time": 1752387263,
       "rank": 28,
@@ -2291,11 +2339,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 70764,
-      "num": 153132,
-      "word": "四万五买空调装一半对方失联",
-      "onboard_time": 1752398540,
-      "rank": 25,
+      "raw_hot": 62793,
+      "num": 219630,
+      "word": "海底捞客服回应店员佩戴打赏码",
+      "onboard_time": 1752396800,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -2321,6 +2369,14 @@
       "onboard_time": 1752339618,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 58621,
+      "num": 194210,
+      "word": "美公民在约旦河西岸被殴打致死",
+      "onboard_time": 1752399082,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 52786,
@@ -2521,6 +2577,14 @@
       "onboard_time": 1752344297,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18616,
+      "num": 123146,
+      "word": "日官员用幸运描述发生地震",
+      "onboard_time": 1752399681,
+      "rank": 35,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 15873,
