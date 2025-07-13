@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752441867610,
+  "endTime": 1752442772579,
   "band_list": [
     {
       "raw_hot": 14050966,
@@ -3939,11 +3939,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 15845,
+      "num": 19147,
+      "word": "认知水平决定相处模式",
+      "onboard_time": 1752441974,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 13773,
       "num": 131054,
       "word": "女子下车扔垃圾高铁开走了",
       "onboard_time": 1752403280,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13351,
+      "num": 47290,
+      "word": "谁懂镜头捕捉到空中飞人的震撼",
+      "onboard_time": 1752441314,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -3953,14 +3969,6 @@
       "onboard_time": 1752363317,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 10292,
-      "num": 47290,
-      "word": "谁懂镜头捕捉到空中飞人的震撼",
-      "onboard_time": 1752441314,
-      "rank": 9,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
