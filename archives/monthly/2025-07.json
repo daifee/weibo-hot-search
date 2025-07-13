@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752420370776,
+  "endTime": 1752421241792,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -1715,6 +1715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1150599,
+      "num": 567125,
+      "word": "鹿晗我输了",
+      "onboard_time": 1752417268,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1140102,
       "num": 1182416,
       "word": "一公务员称孕期把工作分给合同工",
@@ -1801,14 +1809,6 @@
       "onboard_time": 1751357840,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1115036,
-      "num": 497943,
-      "word": "鹿晗我输了",
-      "onboard_time": 1752417268,
-      "rank": 33,
-      "category": "演出"
     },
     {
       "raw_hot": 1110085,
@@ -2500,7 +2500,7 @@
     },
     {
       "raw_hot": 914092,
-      "num": 368622,
+      "num": 386987,
       "word": "邢昭林卢洋洋还在一起",
       "onboard_time": 1752405321,
       "rank": 20,
@@ -5643,6 +5643,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 555298,
+      "num": 555298,
+      "word": "受处分女生不必被拉出来游街",
+      "onboard_time": 1752419665,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 555027,
       "num": 688805,
       "word": "方媛三胎孕肚",
@@ -6137,6 +6145,14 @@
       "onboard_time": 1751615602,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 516655,
+      "num": 516655,
+      "word": "赛里木湖",
+      "onboard_time": 1751846301,
+      "rank": 14,
+      "category": "旅游"
     },
     {
       "raw_hot": 515909,
@@ -6761,14 +6777,6 @@
       "onboard_time": 1751609063,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 466910,
-      "num": 466910,
-      "word": "赛里木湖",
-      "onboard_time": 1751846301,
-      "rank": 14,
-      "category": "旅游"
     },
     {
       "raw_hot": 466559,
@@ -9148,7 +9156,7 @@
     },
     {
       "raw_hot": 352129,
-      "num": 339989,
+      "num": 345363,
       "word": "鹿晗拍我发朋友圈",
       "onboard_time": 1752418346,
       "rank": 12,
@@ -10745,6 +10753,14 @@
       "onboard_time": 1752194363,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 301117,
+      "num": 475514,
+      "word": "李昀锐在跑男一天吃15顿",
+      "onboard_time": 1752418708,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 300777,
@@ -12555,14 +12571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 257659,
-      "num": 257659,
-      "word": "受处分女生不必被拉出来游街",
-      "onboard_time": 1752419665,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 257289,
       "num": 257289,
       "word": "国乒男队怎么了",
@@ -13627,14 +13635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 234383,
-      "num": 234383,
-      "word": "李昀锐在跑男一天吃15顿",
-      "onboard_time": 1752418708,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 234243,
       "num": 234243,
       "word": "这条小鱼在乎谁唱谁哭",
@@ -14505,6 +14505,14 @@
       "onboard_time": 1752237683,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 221544,
+      "num": 221544,
+      "word": "夏以昼coser哭了",
+      "onboard_time": 1752419965,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 221131,
@@ -25252,7 +25260,7 @@
     },
     {
       "raw_hot": 147265,
-      "num": 147265,
+      "num": 236345,
       "word": "杨少华儿子回应争议",
       "onboard_time": 1752415164,
       "rank": 42,
@@ -25825,6 +25833,14 @@
       "onboard_time": 1751985871,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 144694,
+      "num": 144694,
+      "word": "什么体质容易长甲状腺结节",
+      "onboard_time": 1752421165,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 144678,
@@ -27545,14 +27561,6 @@
       "onboard_time": 1752370221,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 137068,
-      "num": 137068,
-      "word": "夏以昼coser哭了",
-      "onboard_time": 1752419965,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 137039,
@@ -29643,6 +29651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128534,
+      "num": 128534,
+      "word": "李宇春音乐节",
+      "onboard_time": 1752420024,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 128398,
       "num": 128398,
       "word": "歌手 脱口秀",
@@ -30939,6 +30955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123266,
+      "num": 123266,
+      "word": "建议周翊然黑框眼镜半永久",
+      "onboard_time": 1752420205,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123182,
       "num": 123182,
       "word": "02年月薪4000能存下钱的原因",
@@ -31001,14 +31025,6 @@
       "onboard_time": 1752227662,
       "rank": 44,
       "category": "财经"
-    },
-    {
-      "raw_hot": 122923,
-      "num": 122923,
-      "word": "李宇春音乐节",
-      "onboard_time": 1752420024,
-      "rank": 37,
-      "category": "演出"
     },
     {
       "raw_hot": 122864,
@@ -31857,6 +31873,14 @@
       "onboard_time": 1751366722,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 119988,
+      "num": 119988,
+      "word": "钟意状态",
+      "onboard_time": 1752420325,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 119958,
@@ -33193,6 +33217,14 @@
       "onboard_time": 1752057323,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115054,
+      "num": 115054,
+      "word": "黄朔新歌",
+      "onboard_time": 1752420805,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 115038,
@@ -34867,6 +34899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108319,
+      "num": 108319,
+      "word": "辛纳vs阿尔卡拉斯",
+      "onboard_time": 1752418167,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108309,
       "num": 108309,
       "word": "正在做雾化治疗的小狗",
@@ -35571,14 +35611,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 105345,
-      "num": 105345,
-      "word": "建议周翊然黑框眼镜半永久",
-      "onboard_time": 1752420205,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 105300,
       "num": 105300,
       "word": "陈哲远是真的把自己养得很好",
@@ -35721,14 +35753,6 @@
       "onboard_time": 1751599584,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 104831,
-      "num": 104831,
-      "word": "钟意状态",
-      "onboard_time": 1752420325,
-      "rank": 43,
-      "category": "电竞"
     },
     {
       "raw_hot": 104827,
@@ -37209,6 +37233,14 @@
       "onboard_time": 1751333600,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 97264,
+      "num": 472947,
+      "word": "被深圳不动声色地温柔了一下",
+      "onboard_time": 1752420444,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97210,
@@ -39225,6 +39257,14 @@
       "onboard_time": 1751489954,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 79504,
+      "num": 238205,
+      "word": "两医院HPV结果相反男子花万元治疗",
+      "onboard_time": 1752420085,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79479,
@@ -41321,6 +41361,14 @@
       "onboard_time": 1751358262,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 58278,
+      "num": 301856,
+      "word": "让环卫工翻8吨垃圾找手表有必要吗",
+      "onboard_time": 1752420684,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58277,
@@ -44057,14 +44105,6 @@
       "onboard_time": 1751879963,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 31735,
-      "num": 238205,
-      "word": "两医院HPV结果相反男子花万元治疗",
-      "onboard_time": 1752420085,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 31663,

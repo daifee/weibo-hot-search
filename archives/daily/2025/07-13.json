@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752420370776,
+  "endTime": 1752421241792,
   "band_list": [
     {
       "raw_hot": 14050966,
@@ -147,20 +147,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1150599,
+      "num": 567125,
+      "word": "鹿晗我输了",
+      "onboard_time": 1752417268,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1125939,
       "num": 877988,
       "word": "律师谈出轨Zeus女生被学校开除",
       "onboard_time": 1752392061,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1115036,
-      "num": 497943,
-      "word": "鹿晗我输了",
-      "onboard_time": 1752417268,
-      "rank": 33,
-      "category": "演出"
     },
     {
       "raw_hot": 1066175,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 914092,
-      "num": 368622,
+      "num": 386987,
       "word": "邢昭林卢洋洋还在一起",
       "onboard_time": 1752405321,
       "rank": 20,
@@ -491,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 555298,
+      "num": 555298,
+      "word": "受处分女生不必被拉出来游街",
+      "onboard_time": 1752419665,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 548287,
       "num": 548287,
       "word": "奔跑吧",
@@ -529,6 +537,14 @@
       "onboard_time": 1752383781,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 516655,
+      "num": 516655,
+      "word": "赛里木湖",
+      "onboard_time": 1752416304,
+      "rank": 36,
+      "category": "旅游"
     },
     {
       "raw_hot": 514919,
@@ -577,14 +593,6 @@
       "onboard_time": 1752389602,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 466910,
-      "num": 466910,
-      "word": "赛里木湖",
-      "onboard_time": 1752416304,
-      "rank": 36,
-      "category": "旅游"
     },
     {
       "raw_hot": 459715,
@@ -756,7 +764,7 @@
     },
     {
       "raw_hot": 352129,
-      "num": 339989,
+      "num": 345363,
       "word": "鹿晗拍我发朋友圈",
       "onboard_time": 1752418346,
       "rank": 12,
@@ -904,6 +912,14 @@
       "word": "朱志鑫腹肌",
       "onboard_time": 1752396502,
       "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 301117,
+      "num": 475514,
+      "word": "李昀锐在跑男一天吃15顿",
+      "onboard_time": 1752418708,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -1075,14 +1091,6 @@
       "category": "演出,民生新闻"
     },
     {
-      "raw_hot": 257659,
-      "num": 257659,
-      "word": "受处分女生不必被拉出来游街",
-      "onboard_time": 1752419665,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 256545,
       "num": 350788,
       "word": "20250001号通知书排面拉满",
@@ -1187,14 +1195,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 234383,
-      "num": 234383,
-      "word": "李昀锐在跑男一天吃15顿",
-      "onboard_time": 1752418708,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 231903,
       "num": 231903,
       "word": "大同大学拟解聘10名长期旷工教师",
@@ -1249,6 +1249,14 @@
       "onboard_time": 1752384502,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221544,
+      "num": 221544,
+      "word": "夏以昼coser哭了",
+      "onboard_time": 1752419965,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 220640,
@@ -2180,7 +2188,7 @@
     },
     {
       "raw_hot": 147265,
-      "num": 147265,
+      "num": 236345,
       "word": "杨少华儿子回应争议",
       "onboard_time": 1752415164,
       "rank": 42,
@@ -2225,6 +2233,14 @@
       "onboard_time": 1752387622,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144694,
+      "num": 144694,
+      "word": "什么体质容易长甲状腺结节",
+      "onboard_time": 1752421165,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 144265,
@@ -2387,14 +2403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 137068,
-      "num": 137068,
-      "word": "夏以昼coser哭了",
-      "onboard_time": 1752419965,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 136238,
       "num": 136238,
       "word": "汉莎航空CEO夫人在意大利撞死路人",
@@ -2523,6 +2531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128534,
+      "num": 128534,
+      "word": "李宇春音乐节",
+      "onboard_time": 1752420024,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 128099,
       "num": 128099,
       "word": "克莱有女朋友了",
@@ -2603,12 +2619,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122923,
-      "num": 122923,
-      "word": "李宇春音乐节",
-      "onboard_time": 1752420024,
-      "rank": 37,
-      "category": "演出"
+      "raw_hot": 123266,
+      "num": 123266,
+      "word": "建议周翊然黑框眼镜半永久",
+      "onboard_time": 1752420205,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 122708,
@@ -2697,6 +2713,14 @@
       "onboard_time": 1752375921,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119988,
+      "num": 119988,
+      "word": "钟意状态",
+      "onboard_time": 1752420325,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 119138,
@@ -2835,6 +2859,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 115054,
+      "num": 115054,
+      "word": "黄朔新歌",
+      "onboard_time": 1752420805,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 114179,
       "num": 356213,
       "word": "乘客疑因机场摆渡车不通风晕倒",
@@ -2947,6 +2979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108319,
+      "num": 108319,
+      "word": "辛纳vs阿尔卡拉斯",
+      "onboard_time": 1752418167,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108063,
       "num": 108063,
       "word": "这是真砍恋爱脑了",
@@ -2987,14 +3027,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 105345,
-      "num": 105345,
-      "word": "建议周翊然黑框眼镜半永久",
-      "onboard_time": 1752420205,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 105049,
       "num": 157611,
       "word": "中国女篮7人得分上双",
@@ -3009,14 +3041,6 @@
       "onboard_time": 1752403821,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 104831,
-      "num": 104831,
-      "word": "钟意状态",
-      "onboard_time": 1752420325,
-      "rank": 43,
-      "category": "电竞"
     },
     {
       "raw_hot": 104827,
@@ -3160,6 +3184,14 @@
       "word": "女顾客遭店员猥亵获赔2万",
       "onboard_time": 1752384082,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97264,
+      "num": 472947,
+      "word": "被深圳不动声色地温柔了一下",
+      "onboard_time": 1752420444,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -3347,6 +3379,14 @@
       "category": "幽默,健康医疗"
     },
     {
+      "raw_hot": 79504,
+      "num": 238205,
+      "word": "两医院HPV结果相反男子花万元治疗",
+      "onboard_time": 1752420085,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79391,
       "num": 167648,
       "word": "中国女篮51分大胜印尼女篮",
@@ -3491,6 +3531,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 58278,
+      "num": 301856,
+      "word": "让环卫工翻8吨垃圾找手表有必要吗",
+      "onboard_time": 1752420684,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52786,
       "num": 52786,
       "word": "全员加速中双人搭档赛",
@@ -3632,14 +3680,6 @@
       "word": "花715万修雕塑仍有四大疑问",
       "onboard_time": 1752390083,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 31735,
-      "num": 238205,
-      "word": "两医院HPV结果相反男子花万元治疗",
-      "onboard_time": 1752420085,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
