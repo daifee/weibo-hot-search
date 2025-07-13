@@ -1,0 +1,410 @@
+{
+  "runTime": 1752392474106,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1612333,
+        "num": 1612333,
+        "word": "高考604分女生被一所高职录取",
+        "onboard_time": 1752388403,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1453845,
+        "num": 1453845,
+        "word": "曹格儿子宣布恋情",
+        "onboard_time": 1752386662,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54426,
+        "num": 1012502,
+        "word": "中国60项世界遗产全名单",
+        "onboard_time": 1752380181,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 774884,
+        "num": 774884,
+        "word": "郑恺苗苗带三个孩子出行",
+        "onboard_time": 1752388941,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 549456,
+        "num": 549456,
+        "word": "哥哥隐瞒父亲死讯埋葬地被妹起诉",
+        "onboard_time": 1752386422,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2048878,
+        "num": 546753,
+        "word": "出轨Zeus女生被学校开除",
+        "onboard_time": 1752372741,
+        "rank": 5,
+        "category": "民生新闻,电竞"
+      },
+      {
+        "raw_hot": 802389,
+        "num": 535196,
+        "word": "李欣莳 Zeus",
+        "onboard_time": 1752371781,
+        "rank": 6,
+        "category": "民生新闻,电竞"
+      },
+      {
+        "raw_hot": 493233,
+        "num": 493233,
+        "word": "宋江别举铁了",
+        "onboard_time": 1752385701,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 439433,
+        "num": 439433,
+        "word": "TFBOYS疑似被音综做局",
+        "onboard_time": 1752389602,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394672,
+        "num": 419023,
+        "word": "0元奶茶能喝多久",
+        "onboard_time": 1752385581,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 414176,
+        "num": 414176,
+        "word": "港大男用老师同学照片AI生成色情照",
+        "onboard_time": 1752389002,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 396289,
+        "num": 396289,
+        "word": "烤鱼盘下蛆虫乱爬老板称没入嘴没事",
+        "onboard_time": 1752385461,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319670,
+        "num": 319670,
+        "word": "田栩宁路透",
+        "onboard_time": 1752384862,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 318115,
+        "num": 318115,
+        "word": "曾经的跑男都是实打实撕名牌",
+        "onboard_time": 1752383182,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76856,
+        "num": 303832,
+        "word": "合肥一家海底捞店员佩戴打赏码",
+        "onboard_time": 1752391942,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294163,
+        "num": 294163,
+        "word": "撕名牌",
+        "onboard_time": 1752391221,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262723,
+        "num": 262723,
+        "word": "孙颖莎王曼昱女双亚军",
+        "onboard_time": 1752381441,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254638,
+        "num": 254638,
+        "word": "港大回应男生AI做700多张不雅照",
+        "onboard_time": 1752390321,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250147,
+        "num": 250147,
+        "word": "word删除空白页",
+        "onboard_time": 1752383781,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 24706,
+        "num": 231392,
+        "word": "招足球教练要博士是不是萝卜招聘",
+        "onboard_time": 1752391342,
+        "rank": 19,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 215633,
+        "num": 215633,
+        "word": "实测11款捏捏乐100%检出甲醛",
+        "onboard_time": 1752390083,
+        "rank": 20,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 212442,
+        "num": 212442,
+        "word": "9.9包邮的手机壳铅含量超标30倍",
+        "onboard_time": 1752389422,
+        "rank": 21,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 211575,
+        "num": 211575,
+        "word": "日本殡仪馆因死者姓氏相同烧错遗体",
+        "onboard_time": 1752390143,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 93605,
+        "num": 210393,
+        "word": "喜欢朱一龙这种把观众当回事的",
+        "onboard_time": 1752389961,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172401,
+        "num": 209626,
+        "word": "夏之光喊姐夫",
+        "onboard_time": 1752392061,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176823,
+        "num": 206227,
+        "word": "何惟芳迷晕刘畅脱困",
+        "onboard_time": 1752391821,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168282,
+        "num": 204605,
+        "word": "朝雪录",
+        "onboard_time": 1752383601,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204238,
+        "num": 204238,
+        "word": "结婚1年离婚40万陪嫁被判为共同财产",
+        "onboard_time": 1752381381,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162234,
+        "num": 203958,
+        "word": "蔡国庆怼19岁选手怼了4分钟",
+        "onboard_time": 1752376221,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160363,
+        "num": 203731,
+        "word": "央妈镜头下的章子怡吴京",
+        "onboard_time": 1752385040,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203677,
+        "num": 203677,
+        "word": "律师谈出轨Zeus女生被学校开除",
+        "onboard_time": 1752392061,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194564,
+        "num": 194564,
+        "word": "央视曝光劣质捏捏毒玩具",
+        "onboard_time": 1752389902,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179736,
+        "num": 179736,
+        "word": "胃病转变为胃癌的5个征兆",
+        "onboard_time": 1752390382,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 170453,
+        "num": 170453,
+        "word": "扎双马尾的陈梦",
+        "onboard_time": 1752391281,
+        "rank": 33,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 157644,
+        "num": 157644,
+        "word": "李一桐观众缘",
+        "onboard_time": 1752387740,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150237,
+        "num": 150237,
+        "word": "宋江三开门",
+        "onboard_time": 1752391521,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147142,
+        "num": 147142,
+        "word": "点外卖配送员是胡一天",
+        "onboard_time": 1752392302,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144447,
+        "num": 144447,
+        "word": "Faker回应输给GEN",
+        "onboard_time": 1752390201,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141625,
+        "num": 141625,
+        "word": "清朝状元的名字毫无网红感",
+        "onboard_time": 1752375441,
+        "rank": 38,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 141163,
+        "num": 141163,
+        "word": "商家收差评辱骂顾客舔得比狗干净",
+        "onboard_time": 1752387740,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138407,
+        "num": 138407,
+        "word": "长期的朋友",
+        "onboard_time": 1752391401,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132728,
+        "num": 132728,
+        "word": "国产剧阴湿赛道的纯元回宫",
+        "onboard_time": 1752391762,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129695,
+        "num": 129695,
+        "word": "朝雪录热度",
+        "onboard_time": 1752389302,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131297,
+        "num": 129536,
+        "word": "慕容云海你爸摊上大事了",
+        "onboard_time": 1752388882,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129087,
+        "num": 129087,
+        "word": "赛后笑眯眯的孙颖莎",
+        "onboard_time": 1752392241,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117415,
+        "num": 117415,
+        "word": "王楚钦决赛迎战张本智和",
+        "onboard_time": 1752378140,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115916,
+        "num": 115916,
+        "word": "杨瀚森这球无效太可惜了",
+        "onboard_time": 1752392122,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111609,
+        "num": 111609,
+        "word": "钎九",
+        "onboard_time": 1752388281,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110189,
+        "num": 110189,
+        "word": "甜馨去看侃爷演唱会",
+        "onboard_time": 1752383122,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104555,
+        "num": 104555,
+        "word": "月薪6000的助理要做多少事",
+        "onboard_time": 1752386002,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平高度重视城市工作#"
+    }
+  }
+}
