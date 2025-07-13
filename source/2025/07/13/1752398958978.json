@@ -1,0 +1,410 @@
+{
+  "runTime": 1752398958978,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1291425,
+        "num": 1291425,
+        "word": "鹿晗布洛芬",
+        "onboard_time": 1752395482,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 538600,
+        "num": 538600,
+        "word": "合肥一家海底捞店员佩戴打赏码",
+        "onboard_time": 1752391942,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54392,
+        "num": 443296,
+        "word": "中国60项世界遗产全名单",
+        "onboard_time": 1752380181,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 900603,
+        "num": 433090,
+        "word": "曹格儿子宣布恋情",
+        "onboard_time": 1752386662,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 694218,
+        "num": 429323,
+        "word": "娃哈哈",
+        "onboard_time": 1752396082,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 395570,
+        "num": 395570,
+        "word": "9.9包邮的手机壳铅含量超标30倍",
+        "onboard_time": 1752389422,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 643445,
+        "num": 394901,
+        "word": "点外卖配送员是胡一天",
+        "onboard_time": 1752392302,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393683,
+        "num": 393683,
+        "word": "日本殡仪馆因死者姓氏相同烧错遗体",
+        "onboard_time": 1752390143,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 392274,
+        "num": 392274,
+        "word": "白敬亭拍难哄时被千人围观快碎了",
+        "onboard_time": 1752395361,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73103,
+        "num": 383318,
+        "word": "未来100天或都有疯狂星期六",
+        "onboard_time": 1752397341,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1125939,
+        "num": 383145,
+        "word": "律师谈出轨Zeus女生被学校开除",
+        "onboard_time": 1752392061,
+        "rank": 10,
+        "category": "民生新闻,电竞"
+      },
+      {
+        "raw_hot": 380947,
+        "num": 380947,
+        "word": "郑恺苗苗带三个孩子出行",
+        "onboard_time": 1752388941,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308252,
+        "num": 308252,
+        "word": "杨丽萍吃菌中毒看到仙鹤",
+        "onboard_time": 1752393561,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304994,
+        "num": 304994,
+        "word": "朱志鑫腹肌",
+        "onboard_time": 1752396502,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50505,
+        "num": 295155,
+        "word": "韭菜花上高速是否该收通行费",
+        "onboard_time": 1752397281,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294617,
+        "num": 294617,
+        "word": "李雪琴 没有一顿饭是白饿的",
+        "onboard_time": 1752393561,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184387,
+        "num": 184387,
+        "word": "0元奶茶能喝多久",
+        "onboard_time": 1752385581,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180962,
+        "num": 180962,
+        "word": "结婚1年离婚40万陪嫁被判为共同财产",
+        "onboard_time": 1752381381,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169673,
+        "num": 169673,
+        "word": "word删除空白页",
+        "onboard_time": 1752383781,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169155,
+        "num": 169155,
+        "word": "ACT对战Wolves",
+        "onboard_time": 1752398481,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 280552,
+        "num": 166743,
+        "word": "王玉雯偶遇郑钦文",
+        "onboard_time": 1752396201,
+        "rank": 20,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 233490,
+        "num": 165133,
+        "word": "TFBOYS疑似被音综做局",
+        "onboard_time": 1752389602,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231831,
+        "num": 157441,
+        "word": "林栋哲向鹏飞售后",
+        "onboard_time": 1752394641,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209656,
+        "num": 156099,
+        "word": "宋江别举铁了",
+        "onboard_time": 1752385701,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153182,
+        "num": 153182,
+        "word": "孙颖莎王曼昱女双亚军",
+        "onboard_time": 1752381441,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70764,
+        "num": 153132,
+        "word": "四万五买空调装一半对方失联",
+        "onboard_time": 1752398540,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192463,
+        "num": 153086,
+        "word": "田栩宁路透",
+        "onboard_time": 1752384862,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163260,
+        "num": 152986,
+        "word": "王俊凯一出国就给周杰伦做数据",
+        "onboard_time": 1752394701,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185629,
+        "num": 152940,
+        "word": "古装剧拍出真正的死亡视角",
+        "onboard_time": 1752397941,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169208,
+        "num": 152828,
+        "word": "电影长安的荔枝提档",
+        "onboard_time": 1752397642,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168361,
+        "num": 152732,
+        "word": "檀健次营业照被粉丝P出花了",
+        "onboard_time": 1752397701,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171082,
+        "num": 152687,
+        "word": "田栩宁帅的好权威",
+        "onboard_time": 1752394342,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152630,
+        "num": 152630,
+        "word": "苹果6s ccd神器",
+        "onboard_time": 1752393502,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 151215,
+        "num": 151215,
+        "word": "曾经的跑男都是实打实撕名牌",
+        "onboard_time": 1752383182,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143758,
+        "num": 143758,
+        "word": "烤鱼盘下蛆虫乱爬老板称没入嘴没事",
+        "onboard_time": 1752385461,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142957,
+        "num": 142957,
+        "word": "唐香玉三姨",
+        "onboard_time": 1752397522,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127159,
+        "num": 127159,
+        "word": "减肥不提倡戒掉任何东西",
+        "onboard_time": 1752394402,
+        "rank": 36,
+        "category": "运动健身,健康医疗"
+      },
+      {
+        "raw_hot": 125658,
+        "num": 125658,
+        "word": "薛之谦回应王源",
+        "onboard_time": 1752398721,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121134,
+        "num": 121134,
+        "word": "张本智和坦言对阵王楚钦胜算低",
+        "onboard_time": 1752393981,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120613,
+        "num": 120613,
+        "word": "钎九拥抱",
+        "onboard_time": 1752394821,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119960,
+        "num": 119960,
+        "word": "陈思罕受伤",
+        "onboard_time": 1752395722,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119521,
+        "num": 119521,
+        "word": "高考604分女生回应报考高职",
+        "onboard_time": 1752398902,
+        "rank": 41,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 117686,
+        "num": 117686,
+        "word": "郭焱道歉",
+        "onboard_time": 1752398540,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116631,
+        "num": 116631,
+        "word": "毕业多年后同寝三人命运唏嘘",
+        "onboard_time": 1752395961,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109770,
+        "num": 109770,
+        "word": "唐香玉晒三姨的信",
+        "onboard_time": 1752395302,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106663,
+        "num": 106663,
+        "word": "TF随舞",
+        "onboard_time": 1752394102,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106026,
+        "num": 106026,
+        "word": "朝雪录",
+        "onboard_time": 1752383601,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105606,
+        "num": 105606,
+        "word": "从未见过这样的何老师",
+        "onboard_time": 1752398782,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103890,
+        "num": 103890,
+        "word": "茶饮店回应将做好的饮品倒掉",
+        "onboard_time": 1752395541,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101228,
+        "num": 103382,
+        "word": "胃病转变为胃癌的5个征兆",
+        "onboard_time": 1752390382,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平高度重视城市工作#"
+    }
+  }
+}
