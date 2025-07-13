@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752385511416,
+  "endTime": 1752388645631,
   "band_list": [
     {
       "raw_hot": 2900025,
@@ -9,6 +9,22 @@
       "onboard_time": 1752372741,
       "rank": 8,
       "category": "民生新闻,电竞"
+    },
+    {
+      "raw_hot": 1771722,
+      "num": 1771722,
+      "word": "曹格儿子宣布恋情",
+      "onboard_time": 1752386662,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1473975,
+      "num": 272166,
+      "word": "娃哈哈 宗庆后",
+      "onboard_time": 1752384021,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1337264,
@@ -163,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 737623,
+      "num": 737623,
+      "word": "宋江别举铁了",
+      "onboard_time": 1752385701,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 722800,
       "num": 722800,
       "word": "第一次感受到1w有这么多",
@@ -235,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 565071,
+      "num": 273283,
+      "word": "烤鱼盘下蛆虫乱爬老板称没入嘴没事",
+      "onboard_time": 1752385461,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 548287,
       "num": 548287,
       "word": "奔跑吧",
@@ -243,20 +275,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 526882,
+      "num": 526882,
+      "word": "word删除空白页",
+      "onboard_time": 1752383781,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 496061,
       "num": 434459,
       "word": "发现梓渝兔子塑的一定是天才",
       "onboard_time": 1752376340,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 464954,
-      "num": 464954,
-      "word": "word删除空白页",
-      "onboard_time": 1752383781,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 426703,
@@ -283,6 +315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 394666,
+      "num": 296200,
+      "word": "田栩宁路透",
+      "onboard_time": 1752384862,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 380502,
       "num": 380502,
       "word": "一代人有一代人的鸡蛋要领",
@@ -305,6 +345,14 @@
       "onboard_time": 1752383122,
       "rank": 20,
       "category": "演出"
+    },
+    {
+      "raw_hot": 365746,
+      "num": 365746,
+      "word": "哥哥隐瞒父亲死讯埋葬地被妹起诉",
+      "onboard_time": 1752386422,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 359786,
@@ -419,14 +467,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 296200,
-      "num": 296200,
-      "word": "田栩宁路透",
-      "onboard_time": 1752384862,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 294605,
       "num": 294605,
       "word": "等枝桠成繁花",
@@ -475,12 +515,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 274221,
+      "num": 274221,
+      "word": "0元奶茶能喝多久",
+      "onboard_time": 1752385581,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 273399,
       "num": 273399,
       "word": "误删微信聊天记录可以撤销了",
       "onboard_time": 1752377841,
       "rank": 21,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 270588,
+      "num": 290087,
+      "word": "央妈镜头下的章子怡吴京",
+      "onboard_time": 1752385040,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 248029,
@@ -595,6 +651,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 213420,
+      "num": 213420,
+      "word": "钎九",
+      "onboard_time": 1752388281,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 212761,
       "num": 231524,
       "word": "薛之谦说认识王源一个世纪才25岁",
@@ -683,6 +747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186552,
+      "num": 186552,
+      "word": "朝雪录节奏",
+      "onboard_time": 1752387500,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185841,
       "num": 185841,
       "word": "王楚钦晋级美国大满贯决赛",
@@ -721,14 +793,6 @@
       "onboard_time": 1752331942,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 180686,
-      "num": 290087,
-      "word": "央妈镜头下的章子怡吴京",
-      "onboard_time": 1752385040,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 180609,
@@ -771,6 +835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175037,
+      "num": 175037,
+      "word": "五旬大佬给95后歌手灌了1小时中药",
+      "onboard_time": 1752388223,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174858,
       "num": 174858,
       "word": "无缘外卖大战奶茶店员称很羡慕",
@@ -811,6 +883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167262,
+      "num": 167262,
+      "word": "高考604分女生被一所高职录取",
+      "onboard_time": 1752388403,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167122,
       "num": 167122,
       "word": "多地未来7天高温全勤",
@@ -841,6 +921,22 @@
       "onboard_time": 1752369200,
       "rank": 26,
       "category": "网红"
+    },
+    {
+      "raw_hot": 164644,
+      "num": 164644,
+      "word": "李一桐观众缘",
+      "onboard_time": 1752387740,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 163587,
+      "num": 163587,
+      "word": "崂山道士隐喻越品越有",
+      "onboard_time": 1752387921,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 162907,
@@ -979,6 +1075,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147641,
+      "num": 151372,
+      "word": "张本智和回应医疗暂停",
+      "onboard_time": 1752385401,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 147176,
+      "num": 147176,
+      "word": "月薪6000的助理要做多少事",
+      "onboard_time": 1752386002,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 146834,
       "num": 127314,
       "word": "柯淳自曝初恋被分手",
@@ -993,6 +1105,14 @@
       "onboard_time": 1752341956,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145539,
+      "num": 145539,
+      "word": "李兰迪古早名门贵女",
+      "onboard_time": 1752387622,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 144265,
@@ -1016,6 +1136,22 @@
       "word": "工作超8小时闭眼3分钟被开除",
       "onboard_time": 1752379282,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140289,
+      "num": 140289,
+      "word": "拟解聘10名大学教师疑问多多",
+      "onboard_time": 1752387982,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139625,
+      "num": 139625,
+      "word": "幼犬被严重虐待后扔在厕所伤重死亡",
+      "onboard_time": 1752386062,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -1059,12 +1195,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135035,
+      "num": 135035,
+      "word": "有沪上阿姨门店爆单到中午就闭店",
+      "onboard_time": 1752387383,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134993,
       "num": 137061,
       "word": "全圆佑旅行照",
       "onboard_time": 1752383061,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134548,
+      "num": 134548,
+      "word": "让万茜穿长衫的天才是万茜本人",
+      "onboard_time": 1752385823,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 133956,
@@ -1083,6 +1235,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132789,
+      "num": 132789,
+      "word": "苏新皓被红海整微醺了",
+      "onboard_time": 1752388403,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 132082,
+      "num": 132082,
+      "word": "向佐回应穿抹胸争议",
+      "onboard_time": 1752386962,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131421,
       "num": 131421,
       "word": "高温晒背2小时67岁阿姨开颅保命",
@@ -1097,14 +1265,6 @@
       "onboard_time": 1752381982,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 130125,
-      "num": 130125,
-      "word": "烤鱼盘下蛆虫乱爬老板称没入嘴没事",
-      "onboard_time": 1752385461,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128099,
@@ -1299,6 +1459,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 113085,
+      "num": 204679,
+      "word": "商家收差评辱骂顾客舔得比狗干净",
+      "onboard_time": 1752387740,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112917,
       "num": 112917,
       "word": "小金毛在喝奶时睡着了",
@@ -1315,12 +1483,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112030,
+      "num": 112030,
+      "word": "周笔畅捡粉丝扔的荔枝吃",
+      "onboard_time": 1752386480,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 111949,
       "num": 111949,
       "word": "陈熠说赢蒯曼是运气稍微好了一点",
       "onboard_time": 1752367100,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111369,
+      "num": 111369,
+      "word": "A股13家公司净利最高预增超800%",
+      "onboard_time": 1752388582,
+      "rank": 46,
+      "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 110607,
+      "num": 109600,
+      "word": "鞠婧祎甩双马尾这一下",
+      "onboard_time": 1752386962,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 108974,
@@ -1337,14 +1529,6 @@
       "onboard_time": 1752324021,
       "rank": 42,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 105256,
-      "num": 151372,
-      "word": "张本智和回应医疗暂停",
-      "onboard_time": 1752385401,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 104787,
@@ -1369,6 +1553,14 @@
       "onboard_time": 1752366861,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101604,
+      "num": 109596,
+      "word": "锦绣芳华有自己的处处吻",
+      "onboard_time": 1752387681,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 101514,
@@ -1512,6 +1704,14 @@
       "word": "中国60项世界遗产全名单",
       "onboard_time": 1752380181,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73890,
+      "num": 133101,
+      "word": "骑手称有些奶茶店爆单到没法送",
+      "onboard_time": 1752386542,
+      "rank": 40,
       "category": "民生新闻"
     },
     {

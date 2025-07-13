@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752385511416,
+  "endTime": 1752388645631,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -595,6 +595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1771722,
+      "num": 1771722,
+      "word": "曹格儿子宣布恋情",
+      "onboard_time": 1752386662,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1768229,
       "num": 294300,
       "word": "田栩宁告了天天开心",
@@ -897,6 +905,14 @@
       "onboard_time": 1752116782,
       "rank": 3,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 1473975,
+      "num": 272166,
+      "word": "娃哈哈 宗庆后",
+      "onboard_time": 1752384021,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1469462,
@@ -3379,6 +3395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 737623,
+      "num": 737623,
+      "word": "宋江别举铁了",
+      "onboard_time": 1752385701,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 737332,
       "num": 622893,
       "word": "成都东站",
@@ -5251,6 +5275,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 565071,
+      "num": 273283,
+      "word": "烤鱼盘下蛆虫乱爬老板称没入嘴没事",
+      "onboard_time": 1752385461,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 562566,
       "num": 384448,
       "word": "中国不接受不承认所谓裁决",
@@ -5713,6 +5745,14 @@
       "onboard_time": 1751806946,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 526882,
+      "num": 526882,
+      "word": "word删除空白页",
+      "onboard_time": 1752383781,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 526376,
@@ -6449,14 +6489,6 @@
       "onboard_time": 1751692822,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 464954,
-      "num": 464954,
-      "word": "word删除空白页",
-      "onboard_time": 1752383781,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 463843,
@@ -7779,6 +7811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 394666,
+      "num": 296200,
+      "word": "田栩宁路透",
+      "onboard_time": 1752384862,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 393473,
       "num": 269856,
       "word": "朱珠 妈咪不会营业",
@@ -8392,6 +8432,14 @@
       "word": "知情人称5层楼房垮塌前已倾斜",
       "onboard_time": 1751505263,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 365746,
+      "num": 365746,
+      "word": "哥哥隐瞒父亲死讯埋葬地被妹起诉",
+      "onboard_time": 1752386422,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -10411,14 +10459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 296200,
-      "num": 296200,
-      "word": "田栩宁路透",
-      "onboard_time": 1752384862,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 296130,
       "num": 296130,
       "word": "以法之名 剧情拖沓",
@@ -11219,6 +11259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 274221,
+      "num": 274221,
+      "word": "0元奶茶能喝多久",
+      "onboard_time": 1752385581,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 273558,
       "num": 226734,
       "word": "李一桐曝女推在土耳其一起洗澡",
@@ -11385,6 +11433,14 @@
       "onboard_time": 1751862264,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 270588,
+      "num": 290087,
+      "word": "央妈镜头下的章子怡吴京",
+      "onboard_time": 1752385040,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 270123,
@@ -14489,6 +14545,14 @@
       "onboard_time": 1751863285,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213420,
+      "num": 213420,
+      "word": "钎九",
+      "onboard_time": 1752388281,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 213112,
@@ -17875,6 +17939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 186552,
+      "num": 186552,
+      "word": "朝雪录节奏",
+      "onboard_time": 1752387500,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186424,
       "num": 186424,
       "word": "女孩捡手机险被浪冲走大姨跳海救人",
@@ -18553,14 +18625,6 @@
       "onboard_time": 1752068244,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 180686,
-      "num": 290087,
-      "word": "央妈镜头下的章子怡吴京",
-      "onboard_time": 1752385040,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 180609,
@@ -19321,6 +19385,14 @@
       "onboard_time": 1751976923,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175037,
+      "num": 175037,
+      "word": "五旬大佬给95后歌手灌了1小时中药",
+      "onboard_time": 1752388223,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 174990,
@@ -20539,6 +20611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167262,
+      "num": 167262,
+      "word": "高考604分女生被一所高职录取",
+      "onboard_time": 1752388403,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167245,
       "num": 167245,
       "word": "微笑一号店长沙站人头数",
@@ -20939,6 +21019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164644,
+      "num": 164644,
+      "word": "李一桐观众缘",
+      "onboard_time": 1752387740,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164627,
       "num": 164627,
       "word": "就这个阴湿恶女味爽",
@@ -21081,6 +21169,14 @@
       "onboard_time": 1751883562,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 163587,
+      "num": 163587,
+      "word": "崂山道士隐喻越品越有",
+      "onboard_time": 1752387921,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 163477,
@@ -24019,6 +24115,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 147641,
+      "num": 151372,
+      "word": "张本智和回应医疗暂停",
+      "onboard_time": 1752385401,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147639,
       "num": 147639,
       "word": "RED扫楼直播",
@@ -24097,6 +24201,14 @@
       "onboard_time": 1751462482,
       "rank": 40,
       "category": "数码"
+    },
+    {
+      "raw_hot": 147176,
+      "num": 147176,
+      "word": "月薪6000的助理要做多少事",
+      "onboard_time": 1752386002,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 147149,
@@ -24465,6 +24577,14 @@
       "onboard_time": 1751429843,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 145539,
+      "num": 145539,
+      "word": "李兰迪古早名门贵女",
+      "onboard_time": 1752387622,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 145494,
@@ -25539,6 +25659,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 140289,
+      "num": 140289,
+      "word": "拟解聘10名大学教师疑问多多",
+      "onboard_time": 1752387982,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140243,
       "num": 140243,
       "word": "书卷一梦开虐",
@@ -25697,6 +25825,14 @@
       "onboard_time": 1751438841,
       "rank": 37,
       "category": "民生新闻,休闲"
+    },
+    {
+      "raw_hot": 139625,
+      "num": 139625,
+      "word": "幼犬被严重虐待后扔在厕所伤重死亡",
+      "onboard_time": 1752386062,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139609,
@@ -26715,6 +26851,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 135035,
+      "num": 135035,
+      "word": "有沪上阿姨门店爆单到中午就闭店",
+      "onboard_time": 1752387383,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135026,
       "num": 195057,
       "word": "哈萨克斯坦公共场所禁止蒙面",
@@ -26864,6 +27008,14 @@
       "word": "杨紫何惟芳在大火前淡定弹琵琶",
       "onboard_time": 1751523202,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 134548,
+      "num": 134548,
+      "word": "让万茜穿长衫的天才是万茜本人",
+      "onboard_time": 1752385823,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -27219,6 +27371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132789,
+      "num": 132789,
+      "word": "苏新皓被红海整微醺了",
+      "onboard_time": 1752388403,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132779,
       "num": 132779,
       "word": "00后好像被分成了三批",
@@ -27393,6 +27553,14 @@
       "onboard_time": 1751341822,
       "rank": 44,
       "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 132082,
+      "num": 132082,
+      "word": "向佐回应穿抹胸争议",
+      "onboard_time": 1752386962,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 132050,
@@ -27897,14 +28065,6 @@
       "onboard_time": 1752381982,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 130125,
-      "num": 130125,
-      "word": "烤鱼盘下蛆虫乱爬老板称没入嘴没事",
-      "onboard_time": 1752385461,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 130031,
@@ -32171,6 +32331,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 113085,
+      "num": 204679,
+      "word": "商家收差评辱骂顾客舔得比狗干净",
+      "onboard_time": 1752387740,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113040,
       "num": 113040,
       "word": "虞书欣wakuku塑",
@@ -32403,6 +32571,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 112030,
+      "num": 112030,
+      "word": "周笔畅捡粉丝扔的荔枝吃",
+      "onboard_time": 1752386480,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 112029,
       "num": 112029,
       "word": "北京启动全市防汛应急响应",
@@ -32593,6 +32769,14 @@
       "onboard_time": 1752047123,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111369,
+      "num": 111369,
+      "word": "A股13家公司净利最高预增超800%",
+      "onboard_time": 1752388582,
+      "rank": 46,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 111361,
@@ -32793,6 +32977,14 @@
       "onboard_time": 1751465185,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110607,
+      "num": 109600,
+      "word": "鞠婧祎甩双马尾这一下",
+      "onboard_time": 1752386962,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 110571,
@@ -33971,14 +34163,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 105256,
-      "num": 151372,
-      "word": "张本智和回应医疗暂停",
-      "onboard_time": 1752385401,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 105227,
       "num": 205537,
       "word": "歌手2025袭榜赛直播见面会",
@@ -34761,6 +34945,14 @@
       "onboard_time": 1751429962,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101604,
+      "num": 109596,
+      "word": "锦绣芳华有自己的处处吻",
+      "onboard_time": 1752387681,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 101565,
@@ -37921,6 +38113,14 @@
       "onboard_time": 1751322856,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 73890,
+      "num": 133101,
+      "word": "骑手称有些奶茶店爆单到没法送",
+      "onboard_time": 1752386542,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73823,
