@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1752416630414,
+  "endTime": 1752417750417,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -401,6 +401,14 @@
       "onboard_time": 1751984131,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 14050966,
+      "num": 14050966,
+      "word": "林俊杰心脏",
+      "onboard_time": 1752415406,
+      "rank": 0,
+      "category": "演出"
     },
     {
       "raw_hot": 14015030,
@@ -2073,14 +2081,6 @@
       "onboard_time": 1736237304,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 4022269,
-      "num": 4022269,
-      "word": "林俊杰心脏",
-      "onboard_time": 1752415406,
-      "rank": 0,
-      "category": "演出"
     },
     {
       "raw_hot": 3968193,

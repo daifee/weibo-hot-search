@@ -1,10 +1,10 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752416630414,
+  "endTime": 1752417750417,
   "band_list": [
     {
-      "raw_hot": 4022269,
-      "num": 4022269,
+      "raw_hot": 14050966,
+      "num": 14050966,
       "word": "林俊杰心脏",
       "onboard_time": 1752415406,
       "rank": 0,
@@ -107,19 +107,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1278750,
+      "num": 1278750,
+      "word": "76元一吨饮料外卖订单",
+      "onboard_time": 1752411983,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1271020,
       "num": 1271020,
       "word": "妻子5年向道士转账94万丈夫崩溃",
       "onboard_time": 1752367761,
       "rank": 0,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1261914,
-      "num": 1261914,
-      "word": "76元一吨饮料外卖订单",
-      "onboard_time": 1752411983,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -499,12 +499,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 538023,
+      "num": 305595,
+      "word": "25岁确诊癌症晚期后的忠告",
+      "onboard_time": 1752416546,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 533556,
+      "num": 533556,
+      "word": "男子加拿大考公上岸月薪2万",
+      "onboard_time": 1752413964,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 526882,
       "num": 526882,
       "word": "word删除空白页",
       "onboard_time": 1752383781,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 514919,
+      "num": 514919,
+      "word": "大连工业大学校规",
+      "onboard_time": 1752414024,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 507151,
@@ -547,14 +571,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 462850,
-      "num": 462850,
-      "word": "男子加拿大考公上岸月薪2万",
-      "onboard_time": 1752413964,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 459715,
       "num": 459715,
       "word": "德国男子连做2次断骨增高至1米9",
@@ -571,8 +587,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 447211,
-      "num": 420305,
+      "raw_hot": 452511,
+      "num": 452511,
       "word": "林俊杰嘉宾是孙燕姿",
       "onboard_time": 1752413904,
       "rank": 17,
@@ -667,6 +683,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 393184,
+      "num": 393184,
+      "word": "赛里木湖",
+      "onboard_time": 1752416304,
+      "rank": 36,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 380502,
       "num": 380502,
       "word": "一代人有一代人的鸡蛋要领",
@@ -697,14 +721,6 @@
       "onboard_time": 1752383122,
       "rank": 20,
       "category": "演出"
-    },
-    {
-      "raw_hot": 369024,
-      "num": 369024,
-      "word": "大连工业大学校规",
-      "onboard_time": 1752414024,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 365693,
@@ -764,7 +780,7 @@
     },
     {
       "raw_hot": 335875,
-      "num": 246926,
+      "num": 313393,
       "word": "艾米生日发了469张图",
       "onboard_time": 1752414804,
       "rank": 21,
@@ -825,6 +841,14 @@
       "onboard_time": 1752328702,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 318441,
+      "num": 318441,
+      "word": "李现好恐怖的面部肌肉控制力",
+      "onboard_time": 1752416546,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 317171,
@@ -924,7 +948,7 @@
     },
     {
       "raw_hot": 285732,
-      "num": 232251,
+      "num": 235675,
       "word": "王晶说刘亦菲不是天赋型演员",
       "onboard_time": 1752412823,
       "rank": 43,
@@ -1009,6 +1033,14 @@
       "onboard_time": 1752385040,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 268791,
+      "num": 366884,
+      "word": "女子不堪家暴给丈夫投毒获刑3年半",
+      "onboard_time": 1752412583,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 262440,
@@ -1251,12 +1283,28 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 212366,
+      "num": 212366,
+      "word": "古装剧男女主终于炒出新菜了",
+      "onboard_time": 1752416546,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204899,
       "num": 204899,
       "word": "周翊然直播",
       "onboard_time": 1752413183,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204481,
+      "num": 204481,
+      "word": "鹿晗我输了",
+      "onboard_time": 1752417268,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 204103,
@@ -1347,6 +1395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194701,
+      "num": 194701,
+      "word": "刘畅甚至不能原谅曾经的自己",
+      "onboard_time": 1752416786,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194578,
       "num": 194578,
       "word": "外卖员日入千元奶茶店员累到哭喊",
@@ -1361,14 +1417,6 @@
       "onboard_time": 1752389902,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 193768,
-      "num": 226795,
-      "word": "李现好恐怖的面部肌肉控制力",
-      "onboard_time": 1752416546,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 192575,
@@ -1425,14 +1473,6 @@
       "onboard_time": 1752411804,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 190167,
-      "num": 240489,
-      "word": "女子不堪家暴给丈夫投毒获刑3年半",
-      "onboard_time": 1752412583,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 189746,
@@ -1553,14 +1593,6 @@
       "onboard_time": 1752412884,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 181676,
-      "num": 181676,
-      "word": "赛里木湖",
-      "onboard_time": 1752416304,
-      "rank": 36,
-      "category": "旅游"
     },
     {
       "raw_hot": 180906,
@@ -1811,14 +1843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 165316,
-      "num": 165316,
-      "word": "25岁确诊癌症晚期后的忠告",
-      "onboard_time": 1752416546,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 165243,
       "num": 165243,
       "word": "白鹿范丞丞贴脸开吃",
@@ -1883,6 +1907,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 161685,
+      "num": 161685,
+      "word": "庄达菲这发型在我小学课本上见过",
+      "onboard_time": 1752417449,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 161095,
+      "num": 161095,
+      "word": "诚C联赛2500淘汰",
+      "onboard_time": 1752417449,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 160244,
       "num": 160244,
       "word": "陈熠再次证明乒乓球没有应该",
@@ -1929,6 +1969,14 @@
       "onboard_time": 1752371781,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156943,
+      "num": 912765,
+      "word": "未来一周大范围高温来袭",
+      "onboard_time": 1752414624,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 156893,
@@ -2171,6 +2219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 140708,
+      "num": 140708,
+      "word": "闫妮蒋欣因为罗小黑消失团建",
+      "onboard_time": 1752414444,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140563,
       "num": 140563,
       "word": "周日给人一种很亏的感觉",
@@ -2243,14 +2299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 138442,
-      "num": 138442,
-      "word": "闫妮蒋欣因为罗小黑消失团建",
-      "onboard_time": 1752414444,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 138407,
       "num": 138407,
       "word": "长期的朋友",
@@ -2321,14 +2369,6 @@
       "onboard_time": 1752385823,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134807,
-      "num": 902477,
-      "word": "未来一周大范围高温来袭",
-      "onboard_time": 1752414624,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 133956,
@@ -2411,6 +2451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 128620,
+      "num": 368074,
+      "word": "港大要求制作AI不雅照男生道歉",
+      "onboard_time": 1752415343,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128099,
       "num": 128099,
       "word": "克莱有女朋友了",
@@ -2491,20 +2539,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123638,
-      "num": 123638,
-      "word": "古装剧男女主终于炒出新菜了",
-      "onboard_time": 1752416546,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 122708,
       "num": 122708,
       "word": "美国人因关税大量采购打折商品",
       "onboard_time": 1752368479,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 122642,
+      "num": 304945,
+      "word": "KBG周决吃鸡",
+      "onboard_time": 1752417507,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 122168,
@@ -2915,6 +2963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 102726,
+      "num": 313538,
+      "word": "孙菲菲感谢霍思燕曾为自己发声",
+      "onboard_time": 1752416845,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101604,
       "num": 109596,
       "word": "锦绣芳华有自己的处处吻",
@@ -3059,6 +3115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86590,
+      "num": 162494,
+      "word": "杨舒予太强了",
+      "onboard_time": 1752414864,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86490,
       "num": 86490,
       "word": "超市女老板带孩子看演出被气哭",
@@ -3132,7 +3196,7 @@
     },
     {
       "raw_hot": 82062,
-      "num": 213098,
+      "num": 305540,
       "word": "维也纳酒店回应浴巾里掉出情趣用品",
       "onboard_time": 1752416483,
       "rank": 31,
@@ -3193,14 +3257,6 @@
       "onboard_time": 1752360915,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 76395,
-      "num": 368074,
-      "word": "港大要求制作AI不雅照男生道歉",
-      "onboard_time": 1752415343,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 74998,
