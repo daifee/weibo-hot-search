@@ -1,6 +1,6 @@
 {
   "startTime": 1752424285355,
-  "endTime": 1752424285355,
+  "endTime": 1752425225527,
   "band_list": [
     {
       "raw_hot": 5991584,
@@ -19,8 +19,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 974981,
-      "num": 974981,
+      "raw_hot": 1174087,
+      "num": 1174087,
       "word": "被女子强搂亲吻男孩妈妈愤怒回应",
       "onboard_time": 1752423024,
       "rank": 1,
@@ -67,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 307044,
+      "num": 243520,
+      "word": "Angelababy85花首个钻超",
+      "onboard_time": 1752423562,
+      "rank": 13,
+      "category": "作品衍生,综艺"
+    },
+    {
       "raw_hot": 303462,
       "num": 194742,
       "word": "25岁确诊癌症晚期后的忠告",
@@ -99,12 +107,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 243520,
-      "num": 243520,
-      "word": "Angelababy85花首个钻超",
-      "onboard_time": 1752423562,
-      "rank": 13,
-      "category": "作品衍生,综艺"
+      "raw_hot": 235305,
+      "num": 276163,
+      "word": "网友称因发黄杨钿甜相关视频被起诉",
+      "onboard_time": 1752422304,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 218225,
@@ -155,20 +163,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 152024,
-      "num": 276163,
-      "word": "网友称因发黄杨钿甜相关视频被起诉",
-      "onboard_time": 1752422304,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 148152,
       "num": 148152,
       "word": "李现好恐怖的面部肌肉控制力",
       "onboard_time": 1752416546,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147726,
+      "num": 147726,
+      "word": "网红张三嫂儿子确诊ADHD",
+      "onboard_time": 1752423922,
+      "rank": 36,
+      "category": "网红"
     },
     {
       "raw_hot": 146954,
@@ -243,6 +251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121706,
+      "num": 220663,
+      "word": "马斯克特朗普决裂的洗牌",
+      "onboard_time": 1752423442,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 120697,
       "num": 120697,
       "word": "留几手谈大连工业被开除女生",
@@ -252,7 +268,7 @@
     },
     {
       "raw_hot": 115030,
-      "num": 810478,
+      "num": 865906,
       "word": "未来一周大范围高温来袭",
       "onboard_time": 1752414624,
       "rank": 2,
@@ -273,22 +289,6 @@
       "onboard_time": 1752420205,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 103618,
-      "num": 103618,
-      "word": "马斯克特朗普决裂的洗牌",
-      "onboard_time": 1752423442,
-      "rank": 35,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 103173,
-      "num": 103173,
-      "word": "网红张三嫂儿子确诊ADHD",
-      "onboard_time": 1752423922,
-      "rank": 36,
-      "category": "网红"
     },
     {
       "raw_hot": 95843,
@@ -353,6 +353,14 @@
       "onboard_time": 1752422063,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 82409,
+      "num": 82409,
+      "word": "温网男单决赛",
+      "onboard_time": 1752425000,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 82106,
