@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752411046633,
+  "endTime": 1752411950522,
   "band_list": [
     {
       "raw_hot": 2900025,
@@ -43,19 +43,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1483192,
+      "num": 1122374,
+      "word": "大连工业大学李同学全名可不被公告",
+      "onboard_time": 1752403340,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1473975,
       "num": 272166,
       "word": "娃哈哈 宗庆后",
       "onboard_time": 1752384021,
       "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1438981,
-      "num": 1122374,
-      "word": "大连工业大学李同学全名可不被公告",
-      "onboard_time": 1752403340,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -169,6 +169,14 @@
       "onboard_time": 1752368479,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 936105,
+      "num": 1149776,
+      "word": "翻垃圾找儿童手表被质疑浪费人力",
+      "onboard_time": 1752405742,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 914092,
@@ -368,14 +376,6 @@
       "word": "女生被男孩尿衣服上家长还口出恶言",
       "onboard_time": 1752377781,
       "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 679904,
-      "num": 679904,
-      "word": "翻垃圾找儿童手表被质疑浪费人力",
-      "onboard_time": 1752405742,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -617,6 +617,14 @@
       "onboard_time": 1752401541,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 360287,
+      "num": 222541,
+      "word": "肖战素人时期的工作谁能干",
+      "onboard_time": 1752411865,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 359786,
@@ -891,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 262440,
+      "num": 286255,
+      "word": "侃爷上海演唱会主办方应赔偿消费者",
+      "onboard_time": 1752409942,
+      "rank": 14,
+      "category": "演出,民生新闻"
+    },
+    {
       "raw_hot": 255150,
       "num": 255150,
       "word": "商家收差评辱骂顾客舔得比狗干净",
@@ -929,6 +945,14 @@
       "onboard_time": 1752373521,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 243960,
+      "num": 331111,
+      "word": "律师谈校方开除出轨Zeus女生是否合理",
+      "onboard_time": 1752409884,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 243411,
@@ -1075,6 +1099,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 209922,
+      "num": 209922,
+      "word": "赵丽颖 纪梵希",
+      "onboard_time": 1752411865,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203786,
       "num": 199748,
       "word": "胃病转变为胃癌的5个征兆",
@@ -1107,12 +1139,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200123,
+      "num": 200123,
+      "word": "时代少年团 王牌对王牌",
+      "onboard_time": 1752411865,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199952,
       "num": 199952,
       "word": "男子因妻子总抱怨长期生闷气患肺癌",
       "onboard_time": 1752404721,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199662,
+      "num": 199662,
+      "word": "狼队对战AG",
+      "onboard_time": 1752411804,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 198916,
@@ -1195,6 +1243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190914,
+      "num": 190914,
+      "word": "马嘉祺 歌手突围赛",
+      "onboard_time": 1752411804,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189746,
       "num": 464387,
       "word": "超10块的饭不点超5块的奶茶不喝",
@@ -1217,6 +1273,14 @@
       "onboard_time": 1752378501,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188459,
+      "num": 184282,
+      "word": "林俊杰演唱会偶遇杨洋",
+      "onboard_time": 1752411923,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 186552,
@@ -1369,6 +1433,14 @@
       "onboard_time": 1752372140,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174191,
+      "num": 174191,
+      "word": "我们生活在南京 吴京王一博",
+      "onboard_time": 1752411804,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 173732,
@@ -1859,6 +1931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138583,
+      "num": 138583,
+      "word": "12345回应侃爷上海演唱会提前退场",
+      "onboard_time": 1752408142,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 138490,
       "num": 138490,
       "word": "外卖大战有茶饮店称亏本",
@@ -1995,14 +2075,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129872,
-      "num": 129872,
-      "word": "12345回应侃爷上海演唱会提前退场",
-      "onboard_time": 1752408142,
-      "rank": 26,
-      "category": "演出"
-    },
-    {
       "raw_hot": 129087,
       "num": 129087,
       "word": "赛后笑眯眯的孙颖莎",
@@ -2044,10 +2116,18 @@
     },
     {
       "raw_hot": 125977,
-      "num": 125977,
+      "num": 227500,
       "word": "河南一炒米粉店竟有庆大霉素药品",
       "onboard_time": 1752408922,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125785,
+      "num": 125785,
+      "word": "68岁男子患巨人症手脚二次发育",
+      "onboard_time": 1752411382,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -2403,6 +2483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108491,
+      "num": 108491,
+      "word": "留几手谈大连工业被开除女生",
+      "onboard_time": 1752411804,
+      "rank": 35,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 108063,
       "num": 108063,
       "word": "这是真砍恋爱脑了",
@@ -2449,6 +2537,14 @@
       "onboard_time": 1752403821,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104827,
+      "num": 104827,
+      "word": "周末外卖大战再度升级",
+      "onboard_time": 1752407541,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 104787,
@@ -2523,14 +2619,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 100305,
-      "num": 100305,
-      "word": "周末外卖大战再度升级",
-      "onboard_time": 1752407541,
-      "rank": 33,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 99094,
       "num": 99094,
       "word": "把我的医保卡给蒋长扬",
@@ -2585,14 +2673,6 @@
       "onboard_time": 1752330504,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 95186,
-      "num": 331111,
-      "word": "律师谈校方开除出轨Zeus女生是否合理",
-      "onboard_time": 1752409884,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 94812,
@@ -2659,12 +2739,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86490,
+      "num": 86490,
+      "word": "超市女老板带孩子看演出被气哭",
+      "onboard_time": 1752407781,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86457,
-      "num": 86457,
+      "num": 203807,
       "word": "网友一天点20单外卖17单0元购",
       "onboard_time": 1752410783,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85471,
+      "num": 85471,
+      "word": "AG剧透",
+      "onboard_time": 1752411865,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 85113,
@@ -2689,14 +2785,6 @@
       "onboard_time": 1752339859,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 84438,
-      "num": 84438,
-      "word": "超市女老板带孩子看演出被气哭",
-      "onboard_time": 1752407781,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 84218,
@@ -2745,6 +2833,14 @@
       "onboard_time": 1752406760,
       "rank": 49,
       "category": "幽默,健康医疗"
+    },
+    {
+      "raw_hot": 79884,
+      "num": 79884,
+      "word": "AG 一诺",
+      "onboard_time": 1752411923,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 78813,
@@ -2812,7 +2908,7 @@
     },
     {
       "raw_hot": 73263,
-      "num": 73263,
+      "num": 75507,
       "word": "鹭卓种地吧3收官plog",
       "onboard_time": 1752410723,
       "rank": 46,
@@ -2849,14 +2945,6 @@
       "onboard_time": 1752334703,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 61550,
-      "num": 286255,
-      "word": "侃爷上海演唱会主办方应赔偿消费者",
-      "onboard_time": 1752409942,
-      "rank": 14,
-      "category": "演出,民生新闻"
     },
     {
       "raw_hot": 59305,
@@ -2961,6 +3049,14 @@
       "onboard_time": 1752341421,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 39825,
+      "num": 244191,
+      "word": "侃爷演唱会迟到早退谁给的傲慢",
+      "onboard_time": 1752410543,
+      "rank": 19,
+      "category": "演出,民生新闻"
     },
     {
       "raw_hot": 39283,
@@ -3097,14 +3193,6 @@
       "onboard_time": 1752396141,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19379,
-      "num": 244191,
-      "word": "侃爷演唱会迟到早退谁给的傲慢",
-      "onboard_time": 1752410543,
-      "rank": 19,
-      "category": "演出,民生新闻"
     },
     {
       "raw_hot": 19274,
