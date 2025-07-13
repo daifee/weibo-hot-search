@@ -1,6 +1,6 @@
 {
   "startTime": 1752424285355,
-  "endTime": 1752434504764,
+  "endTime": 1752435483300,
   "band_list": [
     {
       "raw_hot": 5991584,
@@ -459,6 +459,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 22720,
+      "num": 22720,
+      "word": "邓为晒库存照",
+      "onboard_time": 1752434895,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 21673,
       "num": 51990,
       "word": "老人捐棺木帮红军架浮桥",
@@ -467,7 +475,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 18905,
+      "raw_hot": 20204,
       "num": 22546,
       "word": "2025世俱杯",
       "onboard_time": 1752432555,
