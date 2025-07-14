@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/15 06:26:59
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/15 06:46:36
 </p>
 </blockquote>
 <p>
@@ -4029,6 +4029,12 @@ G社拍的刘诗诗（热度：619179）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%A4%9A%E4%BA%BA%E6%9A%B4%E9%9B%A8%E4%B8%AD%E6%8E%92%E9%98%9F%E5%96%9D%E9%9B%B6%E4%B8%8B80%E5%BA%A6%E5%92%96%E5%95%A1%23" target="weibo">
+上海多人暴雨中排队喝零下80度咖啡（热度：615049）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%93%E6%B8%9D%E6%91%87%23" target="weibo">
 梓渝摇（热度：614111）
 </a>
@@ -6005,12 +6011,6 @@ GAI听到名次秒变脸（热度：434618）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B3%B3%E7%9F%A5%E4%B9%B0%E5%88%B0%E4%BB%BF%E5%86%92Labubu%23" target="weibo">
 李泳知买到仿冒Labubu（热度：431187）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%233%E5%B2%81%E7%94%B7%E7%AB%A5%E8%82%A5%E5%A4%A7%E6%89%81%E6%A1%83%E4%BD%93%E5%88%87%E9%99%A4%E6%9C%AF%E5%90%8E%E8%84%91%E6%AD%BB%E4%BA%A1%23" target="weibo">
-3岁男童肥大扁桃体切除术后脑死亡（热度：430410）
 </a>
 </li>
 
