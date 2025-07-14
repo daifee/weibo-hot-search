@@ -1,6 +1,6 @@
 {
   "startTime": 1752510927124,
-  "endTime": 1752525040574,
+  "endTime": 1752525903429,
   "band_list": [
     {
       "raw_hot": 873195,
@@ -171,6 +171,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 144802,
+      "num": 33323,
+      "word": "上海多人暴雨中排队喝零下80度咖啡",
+      "onboard_time": 1752522554,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137823,
       "num": 137895,
       "word": "朝雪录第一案凶手道歉",
@@ -201,14 +209,6 @@
       "onboard_time": 1752500304,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 107126,
-      "num": 33323,
-      "word": "上海多人暴雨中排队喝零下80度咖啡",
-      "onboard_time": 1752522554,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102496,
@@ -499,12 +499,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 13589,
+      "raw_hot": 15191,
       "num": 17230,
       "word": "关晓彤你这是饭前吃还是饭后吃",
       "onboard_time": 1752523694,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 12281,
+      "num": 17221,
+      "word": "正当防卫",
+      "onboard_time": 1752524714,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 12144,
@@ -521,14 +529,6 @@
       "onboard_time": 1752519973,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 11355,
-      "num": 17221,
-      "word": "正当防卫",
-      "onboard_time": 1752524714,
-      "rank": 49,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
