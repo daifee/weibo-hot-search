@@ -1,6 +1,6 @@
 {
   "startTime": 1752424285355,
-  "endTime": 1752483286828,
+  "endTime": 1752485748294,
   "band_list": [
     {
       "raw_hot": 5991584,
@@ -35,11 +35,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1310080,
+      "num": 319435,
+      "word": "出片了 是鬼片",
+      "onboard_time": 1752481823,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1250318,
       "num": 1250318,
       "word": "西安地震",
       "onboard_time": 1752466282,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1245035,
+      "num": 1245035,
+      "word": "奶茶店一女员工偷换店内收款二维码",
+      "onboard_time": 1752478882,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -89,14 +105,6 @@
       "onboard_time": 1752463103,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1109896,
-      "num": 1177583,
-      "word": "奶茶店一女员工偷换店内收款二维码",
-      "onboard_time": 1752478882,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1087832,
@@ -291,6 +299,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 532829,
+      "num": 532829,
+      "word": "女子替前夫还贷40万被指自作多情",
+      "onboard_time": 1752480622,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 504849,
+      "num": 281254,
+      "word": "田栩宁没开车门直接从跑车上跨下了",
+      "onboard_time": 1752481281,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 503202,
       "num": 373687,
       "word": "林俊杰",
@@ -307,12 +331,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 487584,
-      "num": 319435,
-      "word": "出片了 是鬼片",
-      "onboard_time": 1752481823,
-      "rank": 49,
-      "category": "幽默"
+      "raw_hot": 492708,
+      "num": 492708,
+      "word": "曝王牌对王牌9阵容",
+      "onboard_time": 1752479481,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 483636,
@@ -387,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 415253,
+      "num": 415253,
+      "word": "韩国女演员姜瑞夏胃癌去世",
+      "onboard_time": 1752485002,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 411671,
       "num": 411671,
       "word": "网友称因发黄杨钿甜相关视频被起诉",
@@ -451,14 +483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 357167,
-      "num": 357167,
-      "word": "女子替前夫还贷40万被指自作多情",
-      "onboard_time": 1752480622,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 351458,
       "num": 276157,
       "word": "女子买泳衣走光后被告知不能游泳",
@@ -507,14 +531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 309742,
-      "num": 309742,
-      "word": "曝王牌对王牌9阵容",
-      "onboard_time": 1752479481,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 307044,
       "num": 253976,
       "word": "Angelababy85花首个钻超",
@@ -547,6 +563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 300223,
+      "num": 300223,
+      "word": "中国男子谈在加拿大考公上岸经验",
+      "onboard_time": 1752483742,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 295423,
       "num": 295423,
       "word": "中国女排vs美国女排",
@@ -569,14 +593,6 @@
       "onboard_time": 1752459501,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 281254,
-      "num": 281254,
-      "word": "田栩宁没开车门直接从跑车上跨下了",
-      "onboard_time": 1752481281,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 280791,
@@ -755,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 216232,
+      "num": 216232,
+      "word": "梓渝跳了粟米摇",
+      "onboard_time": 1752482662,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215624,
       "num": 215624,
       "word": "李一桐被喊妈妈的反应",
@@ -915,6 +939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 199221,
+      "num": 223039,
+      "word": "aespa确定九月回归",
+      "onboard_time": 1752484641,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 198613,
       "num": 198613,
       "word": "张本智和哎哎哎哎制止闪光灯",
@@ -961,6 +993,14 @@
       "onboard_time": 1752456022,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 193422,
+      "num": 193422,
+      "word": "超级暂停",
+      "onboard_time": 1752485122,
+      "rank": 23,
+      "category": "互联网,作品衍生"
     },
     {
       "raw_hot": 191672,
@@ -1195,14 +1235,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 164200,
-      "num": 159158,
-      "word": "梓渝跳了粟米摇",
-      "onboard_time": 1752482662,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 163569,
       "num": 165093,
       "word": "刘国正说王楚钦拧拉太潇洒了",
@@ -1233,6 +1265,14 @@
       "onboard_time": 1752482122,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160239,
+      "num": 160239,
+      "word": "朱雨玲WTT夺冠后发文",
+      "onboard_time": 1752484701,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 158885,
@@ -1289,6 +1329,14 @@
       "onboard_time": 1752480022,
       "rank": 28,
       "category": "数码,财经"
+    },
+    {
+      "raw_hot": 154376,
+      "num": 154376,
+      "word": "5岁娃误食蚕豆后全身变黄进ICU",
+      "onboard_time": 1752483143,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152890,
@@ -1356,7 +1404,7 @@
     },
     {
       "raw_hot": 144503,
-      "num": 215913,
+      "num": 218534,
       "word": "REDMI首部短剧",
       "onboard_time": 1752481942,
       "rank": 32,
@@ -1483,6 +1531,14 @@
       "category": "民生新闻,休闲"
     },
     {
+      "raw_hot": 133173,
+      "num": 133173,
+      "word": "王楚钦排队时好谨慎",
+      "onboard_time": 1752485062,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133165,
       "num": 133165,
       "word": "我要有刘德华联系方式也庄达菲这样",
@@ -1497,6 +1553,14 @@
       "onboard_time": 1752483023,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131577,
+      "num": 131577,
+      "word": "鹿晗8天极速售后",
+      "onboard_time": 1752483922,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 129816,
@@ -1521,6 +1585,14 @@
       "onboard_time": 1752481342,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 127462,
+      "num": 127462,
+      "word": "by2要林俊杰好好照顾心脏",
+      "onboard_time": 1752484220,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 127144,
@@ -1571,6 +1643,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 125586,
+      "num": 125586,
+      "word": "车管所选错车牌了怎么办",
+      "onboard_time": 1752484523,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 125189,
+      "num": 150124,
+      "word": "支教老师24岁进山一待就是13年",
+      "onboard_time": 1752484162,
+      "rank": 26,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 124603,
       "num": 124603,
       "word": "鹿晗降窗和粉丝比耶合照",
@@ -1585,6 +1673,14 @@
       "onboard_time": 1752456500,
       "rank": 32,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 124072,
+      "num": 124072,
+      "word": "请让空姐告别没苦硬吃",
+      "onboard_time": 1752484581,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 123959,
@@ -1659,6 +1755,22 @@
       "category": "汽车,财经"
     },
     {
+      "raw_hot": 120529,
+      "num": 120529,
+      "word": "谁来懂一下李一桐这双手",
+      "onboard_time": 1752485122,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 120072,
+      "num": 120072,
+      "word": "王鹤棣蓝色狼尾look",
+      "onboard_time": 1752483261,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118041,
       "num": 118041,
       "word": "邓亚萍祝贺朱雨玲WTT夺冠",
@@ -1681,6 +1793,14 @@
       "onboard_time": 1752414624,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 116503,
+      "num": 116503,
+      "word": "六旬老外被辣条哄成胚胎",
+      "onboard_time": 1752485602,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 115892,
@@ -1737,14 +1857,6 @@
       "onboard_time": 1752470962,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 114069,
-      "num": 114069,
-      "word": "5岁娃误食蚕豆后全身变黄进ICU",
-      "onboard_time": 1752483143,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113508,
@@ -1827,6 +1939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104068,
+      "num": 104068,
+      "word": "肖战见证梦想战放点亮技能之光",
+      "onboard_time": 1752484461,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104004,
       "num": 104004,
       "word": "蒯曼憋笑失败",
@@ -1835,20 +1955,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102788,
+      "num": 124447,
+      "word": "2025年中国外贸半年报出炉",
+      "onboard_time": 1752484220,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 100522,
       "num": 100522,
       "word": "明日方舟 朝陇山",
       "onboard_time": 1752483261,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 97716,
-      "num": 97716,
-      "word": "王鹤棣蓝色狼尾look",
-      "onboard_time": 1752483261,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 97592,
@@ -1929,6 +2049,14 @@
       "onboard_time": 1752462922,
       "rank": 16,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 93689,
+      "num": 120116,
+      "word": "吴磊Burberry",
+      "onboard_time": 1752485662,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 92444,
@@ -2091,6 +2219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 52191,
+      "num": 221403,
+      "word": "解限机全球评分",
+      "onboard_time": 1752483982,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 50478,
       "num": 50478,
       "word": "认知水平决定相处模式",
@@ -2099,12 +2235,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 49979,
+      "num": 120185,
+      "word": "小男孩在地铁门口冲刺",
+      "onboard_time": 1752483501,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46581,
       "num": 65176,
       "word": "时代少年团 王牌对王牌",
       "onboard_time": 1752411865,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 39439,
+      "num": 217344,
+      "word": "19岁疑被骗缅甸男生刚复读高考完",
+      "onboard_time": 1752482542,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37243,
@@ -2129,6 +2281,14 @@
       "onboard_time": 1752477321,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 31118,
+      "num": 493275,
+      "word": "上半年我国进出口同比增长2.9%",
+      "onboard_time": 1752485423,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 27185,
@@ -2185,6 +2345,14 @@
       "onboard_time": 1752427518,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21476,
+      "num": 104392,
+      "word": "四片面膜VS一次光子",
+      "onboard_time": 1752483501,
+      "rank": 45,
+      "category": "美妆"
     },
     {
       "raw_hot": 17831,
