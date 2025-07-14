@@ -1,6 +1,6 @@
 {
   "startTime": 1752424285355,
-  "endTime": 1752501273168,
+  "endTime": 1752503327213,
   "band_list": [
     {
       "raw_hot": 5991584,
@@ -275,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 665140,
+      "num": 665140,
+      "word": "韩国发生热通胀",
+      "onboard_time": 1752501022,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 663136,
       "num": 663136,
       "word": "年轻人为何都不愿结婚",
@@ -315,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 627737,
+      "num": 627737,
+      "word": "外卖大战有人65元搞定一周伙食",
+      "onboard_time": 1752497183,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 617838,
       "num": 617838,
       "word": "潘婷三分钟奇迹是商标",
@@ -340,7 +356,7 @@
     },
     {
       "raw_hot": 602000,
-      "num": 381530,
+      "num": 411815,
       "word": "田栩宁说了第六句话",
       "onboard_time": 1752493403,
       "rank": 12,
@@ -419,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 547880,
+      "num": 440162,
+      "word": "蒋欣吃关晓彤同款彩椒碗",
+      "onboard_time": 1752500304,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 547308,
       "num": 240219,
       "word": "金子涵近照瘦了好多",
@@ -433,6 +457,14 @@
       "onboard_time": 1752480622,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 517587,
+      "num": 439203,
+      "word": "Angelababy小海绵巴黎背影照",
+      "onboard_time": 1752499583,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 508123,
@@ -555,6 +587,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 443329,
+      "num": 443329,
+      "word": "VOGUE金九不是85花群封",
+      "onboard_time": 1752500964,
+      "rank": 30,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 436089,
       "num": 436089,
       "word": "偶遇蔡徐坤",
@@ -587,14 +627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 412454,
-      "num": 319354,
-      "word": "Angelababy小海绵巴黎背影照",
-      "onboard_time": 1752499583,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 411671,
       "num": 411671,
       "word": "网友称因发黄杨钿甜相关视频被起诉",
@@ -609,14 +641,6 @@
       "onboard_time": 1752469882,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 380603,
-      "num": 161965,
-      "word": "VOGUE金九不是85花群封",
-      "onboard_time": 1752500964,
-      "rank": 30,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 376105,
@@ -745,14 +769,6 @@
       "onboard_time": 1752456441,
       "rank": 8,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 304664,
-      "num": 304664,
-      "word": "蒋欣吃关晓彤同款彩椒碗",
-      "onboard_time": 1752500304,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 304620,
@@ -1025,6 +1041,14 @@
       "onboard_time": 1752464002,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 229195,
+      "num": 229195,
+      "word": "男子被控因孕期拒绝同房杀妻",
+      "onboard_time": 1752499463,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 224873,
@@ -1339,20 +1363,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 195779,
+      "num": 195779,
+      "word": "左手田栩宁右手敖瑞鹏",
+      "onboard_time": 1752502824,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194881,
       "num": 194881,
       "word": "当医生问年龄时千万别说虚岁",
       "onboard_time": 1752456022,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 194269,
-      "num": 381559,
-      "word": "外卖大战有人65元搞定一周伙食",
-      "onboard_time": 1752497183,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 191672,
@@ -1393,6 +1417,14 @@
       "onboard_time": 1752484701,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189434,
+      "num": 747228,
+      "word": "医生支招高温天吃什么更解暑",
+      "onboard_time": 1752499343,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 189349,
@@ -1547,20 +1579,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 177312,
-      "num": 747228,
-      "word": "医生支招高温天吃什么更解暑",
-      "onboard_time": 1752499343,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 177289,
       "num": 177289,
       "word": "王晶说梅艳芳被任性害死了",
       "onboard_time": 1752412884,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177100,
+      "num": 177100,
+      "word": "徐祥",
+      "onboard_time": 1752501925,
+      "rank": 25,
+      "category": "网红"
     },
     {
       "raw_hot": 176936,
@@ -1577,14 +1609,6 @@
       "onboard_time": 1752492503,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 176284,
-      "num": 176284,
-      "word": "男子被控因孕期拒绝同房杀妻",
-      "onboard_time": 1752499463,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 173329,
@@ -1617,6 +1641,14 @@
       "onboard_time": 1752478164,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172372,
+      "num": 172372,
+      "word": "孙颖莎拍立得快到我手里来",
+      "onboard_time": 1752502284,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 172005,
@@ -1859,14 +1891,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 153342,
-      "num": 153342,
-      "word": "韩国发生热通胀",
-      "onboard_time": 1752501022,
-      "rank": 34,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 153327,
       "num": 153327,
       "word": "乌克兰人凑钱请俄军炸毁征兵办",
@@ -1915,6 +1939,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 150566,
+      "num": 148260,
+      "word": "郑秀晶现身温网",
+      "onboard_time": 1752500603,
+      "rank": 47,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 150095,
       "num": 150095,
       "word": "下午还没起床的妹妹被妈妈缝床上了",
@@ -1945,6 +1977,14 @@
       "onboard_time": 1752416546,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148032,
+      "num": 351410,
+      "word": "家长曝学费上万幼儿园孩子牙刷发霉",
+      "onboard_time": 1752499944,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148022,
@@ -2340,7 +2380,7 @@
     },
     {
       "raw_hot": 125898,
-      "num": 125898,
+      "num": 148375,
       "word": "印航空难56岁机长成调查焦点",
       "onboard_time": 1752499343,
       "rank": 41,
@@ -2683,14 +2723,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 110303,
-      "num": 110303,
-      "word": "郑秀晶现身温网",
-      "onboard_time": 1752500603,
-      "rank": 47,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 109631,
       "num": 227744,
       "word": "王曼昱背后击球失败逗笑众人",
@@ -2745,6 +2777,14 @@
       "onboard_time": 1752460581,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 105358,
+      "num": 105358,
+      "word": "梓渝18岁确实甜心",
+      "onboard_time": 1752503302,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 105261,
@@ -3075,12 +3115,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 73120,
-      "num": 351410,
-      "word": "家长曝学费上万幼儿园孩子牙刷发霉",
-      "onboard_time": 1752499944,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 72702,
+      "num": 441774,
+      "word": "美国党logo或来自粉丝",
+      "onboard_time": 1752502405,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 71726,
@@ -3401,6 +3441,14 @@
       "onboard_time": 1752489322,
       "rank": 49,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 11740,
+      "num": 216911,
+      "word": "患者称领到过期八个月注射性药品",
+      "onboard_time": 1752502884,
+      "rank": 19,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
