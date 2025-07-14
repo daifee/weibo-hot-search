@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752475288783,
+  "endTime": 1752476157834,
   "band_list": [
     {
       "raw_hot": 14050966,
@@ -171,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1228953,
+      "num": 1228953,
+      "word": "韩国一个西瓜涨到156元",
+      "onboard_time": 1752471140,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1212169,
       "num": 1016883,
       "word": "新疆的小孩一出生就带全妆",
@@ -249,6 +257,14 @@
       "onboard_time": 1752412703,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1041649,
+      "num": 1041649,
+      "word": "女子被造黄谣维权3年造谣者拒赔偿",
+      "onboard_time": 1752470782,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1039757,
@@ -347,14 +363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 911732,
-      "num": 911732,
-      "word": "韩国一个西瓜涨到156元",
-      "onboard_time": 1752471140,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 906933,
       "num": 993043,
       "word": "陈熠4比3蒯曼",
@@ -417,6 +425,14 @@
       "onboard_time": 1752370400,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 830704,
+      "num": 377417,
+      "word": "儿子去世后母亲客厅停尸5个月",
+      "onboard_time": 1752475102,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 828746,
@@ -585,14 +601,6 @@
       "onboard_time": 1752381441,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 667099,
-      "num": 667099,
-      "word": "女子被造黄谣维权3年造谣者拒赔偿",
-      "onboard_time": 1752470782,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 663136,
@@ -811,14 +819,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 490494,
-      "num": 377417,
-      "word": "儿子去世后母亲客厅停尸5个月",
-      "onboard_time": 1752475102,
-      "rank": 10,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 484045,
       "num": 484045,
       "word": "TFBOYS疑似被音综做局",
@@ -1003,6 +1003,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 385572,
+      "num": 385572,
+      "word": "吴彤从朋友圈摇到微博了",
+      "onboard_time": 1752469882,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 380502,
       "num": 380502,
       "word": "一代人有一代人的鸡蛋要领",
@@ -1057,14 +1065,6 @@
       "onboard_time": 1752383122,
       "rank": 20,
       "category": "演出"
-    },
-    {
-      "raw_hot": 366198,
-      "num": 366198,
-      "word": "吴彤从朋友圈摇到微博了",
-      "onboard_time": 1752469882,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 365693,
@@ -1403,6 +1403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 280791,
+      "num": 280791,
+      "word": "王楚钦说终于可以休息了",
+      "onboard_time": 1752472641,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 280680,
       "num": 280680,
       "word": "李现在洛杉矶给杨天真拍照",
@@ -1643,8 +1651,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 236008,
-      "num": 236008,
+      "raw_hot": 237572,
+      "num": 237572,
       "word": "陈熠挽着王曼昱的手复盘",
       "onboard_time": 1752474681,
       "rank": 21,
@@ -1667,6 +1675,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 233562,
+      "num": 382118,
+      "word": "乌军称俄士兵向机器人部队投降",
+      "onboard_time": 1752473782,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 231903,
       "num": 231903,
       "word": "大同大学拟解聘10名长期旷工教师",
@@ -1681,6 +1697,14 @@
       "onboard_time": 1752464002,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 227778,
+      "num": 248900,
+      "word": "王牌对王牌9摇人",
+      "onboard_time": 1752474980,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 226731,
@@ -1761,6 +1785,14 @@
       "onboard_time": 1752375861,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215876,
+      "num": 238427,
+      "word": "扫毒风暴明星私下真面目",
+      "onboard_time": 1752475341,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 215753,
@@ -1891,6 +1923,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 207329,
+      "num": 207329,
+      "word": "魏晨被大侦探腌入味了",
+      "onboard_time": 1752475282,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207325,
       "num": 268415,
       "word": "电视剧樱桃琥珀开播",
@@ -1971,14 +2011,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 201329,
-      "num": 201329,
-      "word": "王牌对王牌9摇人",
-      "onboard_time": 1752474980,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 200123,
       "num": 200123,
       "word": "时代少年团 王牌对王牌",
@@ -2025,14 +2057,6 @@
       "onboard_time": 1752468743,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 197664,
-      "num": 382118,
-      "word": "乌军称俄士兵向机器人部队投降",
-      "onboard_time": 1752473782,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 197530,
@@ -2219,12 +2243,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186918,
+      "num": 186918,
+      "word": "张雅钦在be赛道强得可怕",
+      "onboard_time": 1752475162,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186552,
       "num": 186552,
       "word": "朝雪录节奏",
       "onboard_time": 1752387500,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186197,
+      "num": 186197,
+      "word": "内娱男星撕拉片新四大TOP",
+      "onboard_time": 1752474922,
+      "rank": 31,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 186053,
@@ -2460,7 +2500,7 @@
     },
     {
       "raw_hot": 174518,
-      "num": 1017021,
+      "num": 1037555,
       "word": "未来一周大范围高温来袭",
       "onboard_time": 1752414624,
       "rank": 2,
@@ -2931,14 +2971,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 151738,
-      "num": 151738,
-      "word": "内娱男星撕拉片新四大TOP",
-      "onboard_time": 1752474922,
-      "rank": 31,
-      "category": "艺人,作品衍生"
-    },
-    {
       "raw_hot": 151641,
       "num": 161552,
       "word": "沈腾把裤子都气掉了",
@@ -3027,6 +3059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147597,
+      "num": 147597,
+      "word": "女子找大师逆天改命被骗80万",
+      "onboard_time": 1752473782,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147265,
       "num": 236345,
       "word": "杨少华儿子回应争议",
@@ -3075,12 +3115,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 145837,
-      "num": 145837,
-      "word": "王楚钦说终于可以休息了",
-      "onboard_time": 1752472641,
-      "rank": 32,
-      "category": "体育"
+      "raw_hot": 146312,
+      "num": 146312,
+      "word": "每天4小时久坐或诱发致命血栓",
+      "onboard_time": 1752473961,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 145539,
@@ -3419,14 +3459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 131172,
-      "num": 131172,
-      "word": "女子找大师逆天改命被骗80万",
-      "onboard_time": 1752473782,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 130135,
       "num": 130135,
       "word": "内娱爱豆听不得恋爱两个字",
@@ -3505,6 +3537,14 @@
       "onboard_time": 1752459623,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127015,
+      "num": 249222,
+      "word": "我的非凡夏日时刻",
+      "onboard_time": 1752474980,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 126858,
@@ -4027,14 +4067,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 109603,
-      "num": 109603,
-      "word": "张雅钦在be赛道强得可怕",
-      "onboard_time": 1752475162,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 109431,
       "num": 109431,
       "word": "T1无缘MSI第三冠",
@@ -4065,6 +4097,14 @@
       "onboard_time": 1752458300,
       "rank": 41,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 108710,
+      "num": 108710,
+      "word": "李艾谈5000多米海拔上厕所经历",
+      "onboard_time": 1752475701,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 108319,
@@ -4227,14 +4267,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 103306,
-      "num": 211215,
-      "word": "我的非凡夏日时刻",
-      "onboard_time": 1752474980,
-      "rank": 22,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 102726,
       "num": 313538,
       "word": "孙菲菲感谢霍思燕曾为自己发声",
@@ -4364,7 +4396,7 @@
     },
     {
       "raw_hot": 95381,
-      "num": 95381,
+      "num": 234594,
       "word": "小朋友看到卢沟桥和高铁同框",
       "onboard_time": 1752473842,
       "rank": 47,
@@ -4395,12 +4427,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 92315,
-      "num": 92315,
-      "word": "每天4小时久坐或诱发致命血栓",
-      "onboard_time": 1752473961,
-      "rank": 48,
-      "category": "健康医疗"
+      "raw_hot": 92839,
+      "num": 92839,
+      "word": "陈哲远假发掉了",
+      "onboard_time": 1752476061,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 91895,
@@ -4497,6 +4529,14 @@
       "onboard_time": 1752407781,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85371,
+      "num": 151221,
+      "word": "海关总署教你识别真假labubu",
+      "onboard_time": 1752474261,
+      "rank": 37,
+      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 85113,
@@ -4897,6 +4937,14 @@
       "onboard_time": 1752341421,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 41178,
+      "num": 186203,
+      "word": "律师称强吻男孩致水痘或涉故意伤害",
+      "onboard_time": 1752475282,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39825,
