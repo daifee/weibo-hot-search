@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752469161440,
+  "endTime": 1752471145923,
   "band_list": [
     {
       "raw_hot": 14050966,
@@ -257,6 +257,14 @@
       "onboard_time": 1752457760,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1013495,
+      "num": 1162159,
+      "word": "西安地震",
+      "onboard_time": 1752466282,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 998606,
@@ -547,14 +555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 677389,
-      "num": 677389,
-      "word": "西安地震",
-      "onboard_time": 1752466282,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 675384,
       "num": 675384,
       "word": "孙颖莎王曼昱女双亚军",
@@ -592,6 +592,14 @@
       "word": "烤鱼盘下蛆虫乱爬老板称没入嘴没事",
       "onboard_time": 1752385461,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 637158,
+      "num": 637158,
+      "word": "分手孩子改姓男方拒付抚养费",
+      "onboard_time": 1752468683,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -907,6 +915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 402600,
+      "num": 402600,
+      "word": "梓渝你好这里不让撕名牌",
+      "onboard_time": 1752469882,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 399947,
       "num": 399947,
       "word": "高考604分女生放弃本科选择从军梦",
@@ -1041,6 +1057,14 @@
       "onboard_time": 1752365418,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 344582,
+      "num": 344582,
+      "word": "潘婷三分钟奇迹是商标",
+      "onboard_time": 1752468204,
+      "rank": 40,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 343798,
@@ -1523,6 +1547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 241381,
+      "num": 409120,
+      "word": "官方回应环卫工翻垃圾找手表引质疑",
+      "onboard_time": 1752469462,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239449,
       "num": 239449,
       "word": "国乒参加纪念中美乒乓外交活动",
@@ -1675,6 +1707,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 215624,
+      "num": 215624,
+      "word": "李一桐被喊妈妈的反应",
+      "onboard_time": 1752469523,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215304,
       "num": 200276,
       "word": "秦是她的姓美是她的命",
@@ -1771,12 +1811,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 207660,
+      "num": 207660,
+      "word": "闪耀暖暖",
+      "onboard_time": 1752469224,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 206693,
+      "num": 206693,
+      "word": "樱桃琥珀香港1米2小床",
+      "onboard_time": 1752468743,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204899,
       "num": 204899,
       "word": "周翊然直播",
       "onboard_time": 1752413183,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204851,
+      "num": 204851,
+      "word": "减肥黄金30天马上开始",
+      "onboard_time": 1752462142,
+      "rank": 35,
+      "category": "运动健身"
     },
     {
       "raw_hot": 204103,
@@ -1793,6 +1857,14 @@
       "onboard_time": 1752390382,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 203545,
+      "num": 203545,
+      "word": "向往的生活",
+      "onboard_time": 1752470062,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 203184,
@@ -1867,12 +1939,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198613,
+      "num": 198613,
+      "word": "张本智和哎哎哎哎制止闪光灯",
+      "onboard_time": 1752468743,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 197877,
+      "num": 197877,
+      "word": "吴彤从朋友圈摇到微博了",
+      "onboard_time": 1752469882,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197530,
       "num": 346096,
       "word": "大连工业大学法律援引条款有误",
       "onboard_time": 1752418886,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197122,
+      "num": 197122,
+      "word": "朴彩英火星哥演唱会彩排",
+      "onboard_time": 1752469224,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 194917,
@@ -1913,14 +2009,6 @@
       "onboard_time": 1752389902,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 194040,
-      "num": 194040,
-      "word": "减肥黄金30天马上开始",
-      "onboard_time": 1752462142,
-      "rank": 35,
-      "category": "运动健身"
     },
     {
       "raw_hot": 192575,
@@ -2009,6 +2097,14 @@
       "onboard_time": 1752460522,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 189346,
+      "num": 189346,
+      "word": "张凌赫王楚然身材",
+      "onboard_time": 1752470182,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 189054,
@@ -2211,14 +2307,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 178555,
-      "num": 178555,
-      "word": "分手孩子改姓男方拒付抚养费",
-      "onboard_time": 1752468683,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 178506,
       "num": 178506,
       "word": "杨瀚森生涯首次背靠背",
@@ -2313,14 +2401,6 @@
       "onboard_time": 1752389302,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 173459,
-      "num": 173459,
-      "word": "张本智和哎哎哎哎制止闪光灯",
-      "onboard_time": 1752468743,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 173329,
@@ -2563,6 +2643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162773,
+      "num": 162773,
+      "word": "正当防卫 女性在审判桌上掀桌",
+      "onboard_time": 1752470601,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162390,
       "num": 162390,
       "word": "王楚钦打到了第7局的11比9",
@@ -2683,14 +2771,6 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 156277,
-      "num": 156277,
-      "word": "樱桃琥珀香港1米2小床",
-      "onboard_time": 1752468743,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 155311,
       "num": 155311,
       "word": "Faker回应输给GEN",
@@ -2721,14 +2801,6 @@
       "onboard_time": 1752371721,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 153753,
-      "num": 153753,
-      "word": "潘婷三分钟奇迹是商标",
-      "onboard_time": 1752468204,
-      "rank": 40,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 152630,
@@ -2809,6 +2881,14 @@
       "onboard_time": 1752326602,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 149446,
+      "num": 149446,
+      "word": "女子被造黄谣维权3年造谣者拒赔偿",
+      "onboard_time": 1752470782,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149435,
@@ -3267,6 +3347,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 128703,
+      "num": 128703,
+      "word": "一天中心脏最脆弱的3个时段",
+      "onboard_time": 1752467904,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 128620,
       "num": 368074,
       "word": "港大要求制作AI不雅照男生道歉",
@@ -3377,6 +3465,14 @@
       "onboard_time": 1752456500,
       "rank": 32,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 123959,
+      "num": 208318,
+      "word": "罗小黑跟着师父的生活美滋滋",
+      "onboard_time": 1752470124,
+      "rank": 18,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 123685,
@@ -3689,6 +3785,14 @@
       "onboard_time": 1752402741,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114105,
+      "num": 114105,
+      "word": "樱桃琥珀开局8广",
+      "onboard_time": 1752470962,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 113815,
@@ -4857,6 +4961,14 @@
       "onboard_time": 1752346276,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 14808,
+      "num": 124776,
+      "word": "影视级的文生成语音模型",
+      "onboard_time": 1752470124,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 13773,
