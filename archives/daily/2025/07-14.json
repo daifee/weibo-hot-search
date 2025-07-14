@@ -1,6 +1,6 @@
 {
   "startTime": 1752424285355,
-  "endTime": 1752498672613,
+  "endTime": 1752500514564,
   "band_list": [
     {
       "raw_hot": 5991584,
@@ -19,6 +19,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2088871,
+      "num": 2088871,
+      "word": "关晓彤李昀锐海边吻",
+      "onboard_time": 1752497122,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1716694,
       "num": 589604,
       "word": "受处分女生不必被拉出来游街",
@@ -33,14 +41,6 @@
       "onboard_time": 1752423024,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1381268,
-      "num": 1381268,
-      "word": "关晓彤李昀锐海边吻",
-      "onboard_time": 1752497122,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 1310080,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 1148094,
-      "num": 616370,
+      "num": 746691,
       "word": "连体人姐姐要结婚妹妹要单身",
       "onboard_time": 1752492382,
       "rank": 30,
@@ -217,6 +217,14 @@
       "onboard_time": 1752475102,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 785233,
+      "num": 785233,
+      "word": "救女子被质疑袭胸男子称感到寒心",
+      "onboard_time": 1752495742,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 723976,
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 602000,
-      "num": 368211,
+      "num": 381530,
       "word": "田栩宁说了第六句话",
       "onboard_time": 1752493403,
       "rank": 12,
@@ -401,6 +409,14 @@
       "onboard_time": 1752488722,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 547960,
+      "num": 547960,
+      "word": "对翻垃圾找儿童手表环卫工给予奖励",
+      "onboard_time": 1752495442,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 547308,
@@ -523,6 +539,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 447435,
+      "num": 447435,
+      "word": "实付9.9元米粉店家到手不足1元",
+      "onboard_time": 1752496042,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 436089,
       "num": 436089,
       "word": "偶遇蔡徐坤",
@@ -547,14 +571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 418640,
-      "num": 418640,
-      "word": "对翻垃圾找儿童手表环卫工给予奖励",
-      "onboard_time": 1752495442,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 418033,
       "num": 418033,
       "word": "迪丽热巴方否认二搭开启",
@@ -571,20 +587,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 408091,
-      "num": 408091,
-      "word": "救女子被质疑袭胸男子称感到寒心",
-      "onboard_time": 1752495742,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 385572,
       "num": 385572,
       "word": "吴彤从朋友圈摇到微博了",
       "onboard_time": 1752469882,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 384754,
+      "num": 384754,
+      "word": "王鹤棣 LV",
+      "onboard_time": 1752499163,
+      "rank": 8,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 376105,
@@ -763,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 288749,
+      "num": 288749,
+      "word": "童禹坤考上武汉生物工程学院",
+      "onboard_time": 1752497723,
+      "rank": 46,
+      "category": "艺人,教育"
+    },
+    {
       "raw_hot": 284829,
       "num": 385501,
       "word": "戴比尔斯品牌大使白鹿",
@@ -785,6 +809,14 @@
       "onboard_time": 1752472641,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 277656,
+      "num": 356711,
+      "word": "城管局称丢儿童表游客打的投诉电话",
+      "onboard_time": 1752493881,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 277241,
@@ -817,14 +849,6 @@
       "onboard_time": 1752463643,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 273373,
-      "num": 273373,
-      "word": "实付9.9元米粉店家到手不足1元",
-      "onboard_time": 1752496042,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 270572,
@@ -891,6 +915,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 250261,
+      "num": 250261,
+      "word": "男鼓手吸毒去世竟是亲妈害的",
+      "onboard_time": 1752498745,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 249766,
       "num": 249766,
       "word": "成毅allblack造型路透",
@@ -921,6 +953,14 @@
       "onboard_time": 1752423442,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 241127,
+      "num": 241127,
+      "word": "李昀锐报平安",
+      "onboard_time": 1752498502,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 239449,
@@ -961,14 +1001,6 @@
       "onboard_time": 1752464002,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 226061,
-      "num": 356711,
-      "word": "城管局称丢儿童表游客打的投诉电话",
-      "onboard_time": 1752493881,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 224873,
@@ -1227,6 +1259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 199496,
+      "num": 233474,
+      "word": "朝雪录暑期档黑马",
+      "onboard_time": 1752498202,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199221,
       "num": 223039,
       "word": "aespa确定九月回归",
@@ -1259,14 +1299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 197587,
-      "num": 197587,
-      "word": "李昀锐报平安",
-      "onboard_time": 1752498502,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 196623,
       "num": 212973,
       "word": "肖战藏海传明天登陆暑假下午档",
@@ -1289,6 +1321,14 @@
       "onboard_time": 1752456022,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 193790,
+      "num": 295851,
+      "word": "Angelababy小海绵巴黎背影照",
+      "onboard_time": 1752499583,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 191672,
@@ -1427,6 +1467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182783,
+      "num": 182783,
+      "word": "孙颖莎夺12个冠军王楚钦9个冠军",
+      "onboard_time": 1752499823,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182731,
       "num": 182731,
       "word": "什么综艺还没播但群像味已经出来了",
@@ -1491,6 +1539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176663,
+      "num": 176663,
+      "word": "蒋欣吃关晓彤同款彩椒碗",
+      "onboard_time": 1752500304,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176389,
       "num": 176389,
       "word": "时代少年团手握荆棘大片",
@@ -1499,12 +1555,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 176284,
+      "num": 176284,
+      "word": "男子被控因孕期拒绝同房杀妻",
+      "onboard_time": 1752499463,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 173329,
       "num": 173329,
       "word": "印度女大学生疑遭性骚扰举报未果自焚",
       "onboard_time": 1752422663,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 172633,
+      "num": 172633,
+      "word": "朝雪录深宅井底挖出13具少女尸骸",
+      "onboard_time": 1752499343,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 172627,
@@ -1529,6 +1601,14 @@
       "onboard_time": 1752465023,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 171959,
+      "num": 176312,
+      "word": "林俊杰JJ20演唱会收官文",
+      "onboard_time": 1752499223,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 170915,
@@ -1707,6 +1787,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155500,
+      "num": 309294,
+      "word": "救人被质疑袭胸男子称非常注意动作",
+      "onboard_time": 1752496882,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155290,
+      "num": 155290,
+      "word": "键盘中毒了刘星知道吗",
+      "onboard_time": 1752499583,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155107,
       "num": 155107,
       "word": "黄仁勋与雷军合影",
@@ -1739,6 +1835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152609,
+      "num": 152609,
+      "word": "手机里这两个软件会盗取你的存款",
+      "onboard_time": 1752494542,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152508,
       "num": 150564,
       "word": "50岁女子意外怀孕诱发罕见癌症",
@@ -1761,6 +1865,22 @@
       "onboard_time": 1752487882,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 151092,
+      "num": 747228,
+      "word": "医生支招高温天吃什么更解暑",
+      "onboard_time": 1752499343,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 150095,
+      "num": 150095,
+      "word": "下午还没起床的妹妹被妈妈缝床上了",
+      "onboard_time": 1752497004,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 149719,
@@ -1809,14 +1929,6 @@
       "onboard_time": 1752473782,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 147100,
-      "num": 231862,
-      "word": "童禹坤考上武汉生物工程学院",
-      "onboard_time": 1752497723,
-      "rank": 46,
-      "category": "艺人,教育"
     },
     {
       "raw_hot": 146954,
@@ -1979,14 +2091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 139048,
-      "num": 139048,
-      "word": "手机里这两个软件会盗取你的存款",
-      "onboard_time": 1752494542,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 138119,
       "num": 138119,
       "word": "杨幂早期完全是姐幂",
@@ -2025,6 +2129,14 @@
       "onboard_time": 1752459141,
       "rank": 49,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 134535,
+      "num": 243128,
+      "word": "央行将开展14000亿买断式逆回购操作",
+      "onboard_time": 1752495742,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 134054,
@@ -2073,14 +2185,6 @@
       "onboard_time": 1752483023,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 131618,
-      "num": 309294,
-      "word": "救人被质疑袭胸男子称非常注意动作",
-      "onboard_time": 1752496882,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131577,
@@ -2379,14 +2483,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 118984,
-      "num": 118984,
-      "word": "央行将开展14000亿买断式逆回购操作",
-      "onboard_time": 1752495742,
-      "rank": 40,
-      "category": "财经"
-    },
-    {
       "raw_hot": 118656,
       "num": 118656,
       "word": "正当防卫12集白敬亭做局",
@@ -2443,20 +2539,20 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 115618,
+      "num": 381559,
+      "word": "外卖大战有人65元搞定一周伙食",
+      "onboard_time": 1752497183,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115563,
       "num": 115563,
       "word": "陈熠朱雨玲登场",
       "onboard_time": 1752459022,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 114745,
-      "num": 114745,
-      "word": "外卖大战有人65元搞定一周伙食",
-      "onboard_time": 1752497183,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 114621,
@@ -2513,14 +2609,6 @@
       "onboard_time": 1752481221,
       "rank": 45,
       "category": "教育"
-    },
-    {
-      "raw_hot": 112718,
-      "num": 233474,
-      "word": "朝雪录暑期档黑马",
-      "onboard_time": 1752498202,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 112253,
@@ -2681,6 +2769,14 @@
       "onboard_time": 1752491962,
       "rank": 44,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 98590,
+      "num": 111924,
+      "word": "尤尼克斯羽毛球涨价",
+      "onboard_time": 1752500363,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 97988,
@@ -2979,6 +3075,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 60230,
+      "num": 176297,
+      "word": "网友称顺风车司机违约致小猫被闷死",
+      "onboard_time": 1752499283,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58270,
       "num": 58270,
       "word": "7月的阿勒泰草原有多美",
@@ -3059,6 +3163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 40821,
+      "num": 351410,
+      "word": "家长曝学费上万幼儿园孩子牙刷发霉",
+      "onboard_time": 1752499944,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39439,
       "num": 217344,
       "word": "19岁疑被骗缅甸男生刚复读高考完",
@@ -3105,6 +3217,14 @@
       "onboard_time": 1752431535,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 27110,
+      "num": 291219,
+      "word": "校门口石墩装护栏被指多此一举",
+      "onboard_time": 1752499343,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27092,
