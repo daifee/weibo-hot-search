@@ -1,6 +1,6 @@
 {
   "startTime": 1752510927124,
-  "endTime": 1752529204937,
+  "endTime": 1752532019021,
   "band_list": [
     {
       "raw_hot": 873195,
@@ -33,6 +33,14 @@
       "onboard_time": 1752492382,
       "rank": 3,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 429672,
+      "num": 438817,
+      "word": "上海多人暴雨中排队喝零下80度咖啡",
+      "onboard_time": 1752522554,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 353096,
@@ -120,14 +128,6 @@
       "word": "官方回应孕妇遭2男子殴打住院",
       "onboard_time": 1752507084,
       "rank": 15,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 193970,
-      "num": 42273,
-      "word": "上海多人暴雨中排队喝零下80度咖啡",
-      "onboard_time": 1752522554,
-      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -411,6 +411,22 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 68357,
+      "num": 68357,
+      "word": "男鼓手吸毒去世竟是亲妈害的",
+      "onboard_time": 1752498745,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 63719,
+      "num": 82299,
+      "word": "孕妇遭男子殴打住院已转刑事案件",
+      "onboard_time": 1752512238,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62208,
       "num": 62208,
       "word": "韩安冉否认虐狗",
@@ -443,20 +459,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 41156,
-      "num": 82299,
-      "word": "孕妇遭男子殴打住院已转刑事案件",
-      "onboard_time": 1752512238,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 39038,
       "num": 88807,
       "word": "8战世锦赛的汪顺说非常期待",
       "onboard_time": 1752513557,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 33385,
+      "num": 33385,
+      "word": "17岁女孩团建时遇车祸昏迷4个月",
+      "onboard_time": 1752531375,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30182,
@@ -467,12 +483,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 29248,
-      "num": 36871,
-      "word": "男鼓手吸毒去世竟是亲妈害的",
-      "onboard_time": 1752498745,
-      "rank": 33,
-      "category": "剧集"
+      "raw_hot": 29431,
+      "num": 29431,
+      "word": "李乃文晒跟孙红雷欧阳娣娣合照",
+      "onboard_time": 1752528194,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 24556,
+      "num": 25462,
+      "word": "关晓彤你这是饭前吃还是饭后吃",
+      "onboard_time": 1752523694,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 22572,
@@ -483,28 +507,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 20224,
-      "num": 20224,
-      "word": "关晓彤你这是饭前吃还是饭后吃",
-      "onboard_time": 1752523694,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 17780,
       "num": 32050,
       "word": "古装剧托举型男友",
       "onboard_time": 1752517695,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 16348,
-      "num": 16790,
-      "word": "李乃文晒跟孙红雷欧阳娣娣合照",
-      "onboard_time": 1752528194,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 16021,
