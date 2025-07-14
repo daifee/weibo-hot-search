@@ -1,0 +1,410 @@
+{
+  "runTime": 1752501273168,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1996831,
+        "num": 1996831,
+        "word": "关晓彤李昀锐海边吻",
+        "onboard_time": 1752497122,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 843410,
+        "num": 843410,
+        "word": "救女子被质疑袭胸男子称感到寒心",
+        "onboard_time": 1752495742,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177312,
+        "num": 659679,
+        "word": "医生支招高温天吃什么更解暑",
+        "onboard_time": 1752499343,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 906781,
+        "num": 655339,
+        "word": "连体人姐姐要结婚妹妹要单身",
+        "onboard_time": 1752492382,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 636639,
+        "num": 636639,
+        "word": "对翻垃圾找儿童手表环卫工给予奖励",
+        "onboard_time": 1752495442,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 636590,
+        "num": 636590,
+        "word": "尾号77777777手机号320万元拍出",
+        "onboard_time": 1752488241,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 508123,
+        "num": 508123,
+        "word": "王鹤棣 LV",
+        "onboard_time": 1752499163,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 453550,
+        "num": 453550,
+        "word": "实付9.9元米粉店家到手不足1元",
+        "onboard_time": 1752496042,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 385757,
+        "num": 385757,
+        "word": "偶像剧不准用折叠伞",
+        "onboard_time": 1752488722,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326550,
+        "num": 326550,
+        "word": "唐悠悠去找林宛瑜了吗",
+        "onboard_time": 1752494663,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 465755,
+        "num": 323860,
+        "word": "田栩宁说了第六句话",
+        "onboard_time": 1752493403,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412454,
+        "num": 319354,
+        "word": "Angelababy小海绵巴黎背影照",
+        "onboard_time": 1752499583,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194269,
+        "num": 317590,
+        "word": "外卖大战有人65元搞定一周伙食",
+        "onboard_time": 1752497183,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383510,
+        "num": 310646,
+        "word": "鹿晗发了二十张自拍",
+        "onboard_time": 1752487822,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 73120,
+        "num": 307175,
+        "word": "家长曝学费上万幼儿园孩子牙刷发霉",
+        "onboard_time": 1752499944,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304664,
+        "num": 304664,
+        "word": "蒋欣吃关晓彤同款彩椒碗",
+        "onboard_time": 1752500304,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288892,
+        "num": 288892,
+        "word": "网友怀疑气象部门刻意不报40度",
+        "onboard_time": 1752487942,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281539,
+        "num": 281539,
+        "word": "Angelababy和爱马仕总监老友合照再加一",
+        "onboard_time": 1752491423,
+        "rank": 17,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 278436,
+        "num": 278436,
+        "word": "小海绵干嘛呢",
+        "onboard_time": 1752485962,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42265,
+        "num": 261033,
+        "word": "官方通报一医院被曝用过期注射液",
+        "onboard_time": 1752500544,
+        "rank": 19,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 246986,
+        "num": 246986,
+        "word": "男子杀新婚妻子后镇定办丧事",
+        "onboard_time": 1752493943,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 235975,
+        "num": 235975,
+        "word": "童禹坤考上武汉生物工程学院",
+        "onboard_time": 1752497723,
+        "rank": 21,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 204570,
+        "num": 204570,
+        "word": "城管局称丢儿童表游客打的投诉电话",
+        "onboard_time": 1752493881,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193906,
+        "num": 193906,
+        "word": "樱桃琥珀",
+        "onboard_time": 1752496762,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189498,
+        "num": 189498,
+        "word": "男鼓手吸毒去世竟是亲妈害的",
+        "onboard_time": 1752498745,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184083,
+        "num": 184083,
+        "word": "李昀锐报平安",
+        "onboard_time": 1752498502,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180653,
+        "num": 180653,
+        "word": "给翻垃圾环卫工的红包是谁拒收的",
+        "onboard_time": 1752489144,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170122,
+        "num": 170122,
+        "word": "孙颖莎夺12个冠军王楚钦9个冠军",
+        "onboard_time": 1752499823,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168051,
+        "num": 168051,
+        "word": "朝雪录暑期档黑马",
+        "onboard_time": 1752498202,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161983,
+        "num": 161983,
+        "word": "42度高温来了",
+        "onboard_time": 1752491543,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380603,
+        "num": 161965,
+        "word": "VOGUE金九不是85花群封",
+        "onboard_time": 1752500964,
+        "rank": 30,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 161901,
+        "num": 161901,
+        "word": "李兰迪又在输出高级东方美学",
+        "onboard_time": 1752500783,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157567,
+        "num": 157567,
+        "word": "男子被控因孕期拒绝同房杀妻",
+        "onboard_time": 1752499463,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154620,
+        "num": 154620,
+        "word": "央行将开展14000亿买断式逆回购操作",
+        "onboard_time": 1752495742,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 153342,
+        "num": 153342,
+        "word": "韩国发生热通胀",
+        "onboard_time": 1752501022,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 143167,
+        "num": 143167,
+        "word": "金世佳增肥了吗",
+        "onboard_time": 1752486263,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141552,
+        "num": 141552,
+        "word": "什么综艺还没播但群像味已经出来了",
+        "onboard_time": 1752497842,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139985,
+        "num": 139985,
+        "word": "手机里这两个软件会盗取你的存款",
+        "onboard_time": 1752494542,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131500,
+        "num": 131500,
+        "word": "Clearlove加入JDG",
+        "onboard_time": 1752492803,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130051,
+        "num": 130051,
+        "word": "下午还没起床的妹妹被妈妈缝床上了",
+        "onboard_time": 1752497004,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129317,
+        "num": 129317,
+        "word": "曝周杰伦权志龙将合作",
+        "onboard_time": 1752498563,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125898,
+        "num": 125898,
+        "word": "印航空难56岁机长成调查焦点",
+        "onboard_time": 1752499343,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 122542,
+        "num": 122542,
+        "word": "救人被质疑袭胸男子称非常注意动作",
+        "onboard_time": 1752496882,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113971,
+        "num": 113971,
+        "word": "出片了 是鬼片",
+        "onboard_time": 1752481823,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113519,
+        "num": 113519,
+        "word": "田栩宁男大感",
+        "onboard_time": 1752501204,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110882,
+        "num": 110882,
+        "word": "林俊杰JJ20演唱会收官文",
+        "onboard_time": 1752499223,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 543111,
+        "num": 110726,
+        "word": "金子涵退圈后首个活动",
+        "onboard_time": 1752490042,
+        "rank": 46,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 110303,
+        "num": 110303,
+        "word": "郑秀晶现身温网",
+        "onboard_time": 1752500603,
+        "rank": 47,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 110286,
+        "num": 110286,
+        "word": "杭州一小学有家长称多名孩子流鼻血",
+        "onboard_time": 1752492203,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109370,
+        "num": 109370,
+        "word": "朝雪录深宅井底挖出13具少女尸骸",
+        "onboard_time": 1752499343,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#城市要有高度更要有温度#"
+    }
+  }
+}
