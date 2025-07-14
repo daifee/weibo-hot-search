@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752459159332,
+  "endTime": 1752460680384,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -1739,6 +1739,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1147739,
+      "num": 1147739,
+      "word": "朱雨玲美国大满贯夺冠",
+      "onboard_time": 1752459141,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1140129,
+      "num": 269637,
+      "word": "娃哈哈回应宗庆后遗产纠纷",
+      "onboard_time": 1752456080,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1140102,
       "num": 1182416,
       "word": "一公务员称孕期把工作分给合同工",
@@ -2785,14 +2801,6 @@
       "onboard_time": 1751853502,
       "rank": 16,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 868654,
-      "num": 269637,
-      "word": "娃哈哈回应宗庆后遗产纠纷",
-      "onboard_time": 1752456080,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 866891,
@@ -5179,6 +5187,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 601972,
+      "num": 442191,
+      "word": "张凌赫王楚然落水公主抱",
+      "onboard_time": 1752454401,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 600661,
       "num": 600661,
       "word": "单依纯得知Grace淘汰后黑脸",
@@ -5689,14 +5705,6 @@
       "onboard_time": 1751721633,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 556192,
-      "num": 356174,
-      "word": "张凌赫王楚然落水公主抱",
-      "onboard_time": 1752454401,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 555509,
@@ -6460,7 +6468,7 @@
     },
     {
       "raw_hot": 503202,
-      "num": 339797,
+      "num": 373687,
       "word": "林俊杰",
       "onboard_time": 1752448460,
       "rank": 9,
@@ -6876,7 +6884,7 @@
     },
     {
       "raw_hot": 463783,
-      "num": 267423,
+      "num": 373835,
       "word": "苏醒真实人品",
       "onboard_time": 1752453563,
       "rank": 13,
@@ -7203,6 +7211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 448242,
+      "num": 448242,
+      "word": "登机时看到另一架飞机坠毁变火球",
+      "onboard_time": 1752457101,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 448191,
       "num": 395156,
       "word": "曾经的李钟硕回来了",
@@ -7387,12 +7403,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 436211,
-      "num": 436211,
-      "word": "登机时看到另一架飞机坠毁变火球",
-      "onboard_time": 1752457101,
-      "rank": 4,
-      "category": "海外新闻"
+      "raw_hot": 436089,
+      "num": 436089,
+      "word": "偶遇蔡徐坤",
+      "onboard_time": 1752456141,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 435187,
@@ -7417,14 +7433,6 @@
       "onboard_time": 1751629643,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 433856,
-      "num": 262761,
-      "word": "偶遇蔡徐坤",
-      "onboard_time": 1752456141,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 433782,
@@ -8691,6 +8699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 374515,
+      "num": 374515,
+      "word": "网友在新疆拍到超大圆月",
+      "onboard_time": 1752456500,
+      "rank": 9,
+      "category": "旅游,民生新闻"
+    },
+    {
       "raw_hot": 374329,
       "num": 374329,
       "word": "王楚钦vs李尚洙",
@@ -8712,6 +8728,14 @@
       "word": "多地音乐节可在现场领证结婚",
       "onboard_time": 1751959882,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 373568,
+      "num": 373568,
+      "word": "这一轮高温天有几个明显特点",
+      "onboard_time": 1752456381,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -8737,14 +8761,6 @@
       "onboard_time": 1751384841,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 372311,
-      "num": 372311,
-      "word": "这一轮高温天有几个明显特点",
-      "onboard_time": 1752456381,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 372075,
@@ -11091,6 +11107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 295423,
+      "num": 295423,
+      "word": "中国女排vs美国女排",
+      "onboard_time": 1752458241,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 294800,
       "num": 294800,
       "word": "孙颖莎女单止步16强",
@@ -12099,14 +12123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 270610,
-      "num": 270610,
-      "word": "网友在新疆拍到超大圆月",
-      "onboard_time": 1752456500,
-      "rank": 9,
-      "category": "旅游,民生新闻"
-    },
-    {
       "raw_hot": 270588,
       "num": 317482,
       "word": "央妈镜头下的章子怡吴京",
@@ -12369,6 +12385,14 @@
       "onboard_time": 1751945063,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 265782,
+      "num": 265782,
+      "word": "王楚钦vs张本智和",
+      "onboard_time": 1752460042,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 265762,
@@ -13195,6 +13219,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 245835,
+      "num": 231876,
+      "word": "网红刘琳琳说小鱼海棠见钱眼开",
+      "onboard_time": 1752458300,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 245682,
       "num": 690164,
       "word": "广汽菲克宣告破产",
@@ -13307,14 +13339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 243838,
-      "num": 202187,
-      "word": "网红刘琳琳说小鱼海棠见钱眼开",
-      "onboard_time": 1752458300,
-      "rank": 21,
-      "category": "网红"
-    },
-    {
       "raw_hot": 243712,
       "num": 243712,
       "word": "员工曝罗马仕已通知全面停工停产",
@@ -13361,6 +13385,14 @@
       "onboard_time": 1751790382,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 243069,
+      "num": 243069,
+      "word": "戴比尔斯品牌大使白鹿",
+      "onboard_time": 1752459501,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 243065,
@@ -13947,6 +13979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 231672,
+      "num": 231672,
+      "word": "山东淄博一群人凌晨蒙眼拉绳行走",
+      "onboard_time": 1752458060,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 231634,
       "num": 231634,
       "word": "男子钓鱼甩竿碰高压线全身80%烧伤",
@@ -14081,6 +14121,14 @@
       "onboard_time": 1751850623,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229556,
+      "num": 178081,
+      "word": "新疆的小孩一出生就带全妆",
+      "onboard_time": 1752460461,
+      "rank": 30,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 229377,
@@ -14225,6 +14273,14 @@
       "onboard_time": 1751431404,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 227424,
+      "num": 224248,
+      "word": "迅猛龙晒复旦大学录取通知书",
+      "onboard_time": 1752460640,
+      "rank": 24,
+      "category": "网红,教育"
     },
     {
       "raw_hot": 227217,
@@ -14425,6 +14481,14 @@
       "onboard_time": 1751466443,
       "rank": 27,
       "category": "网红"
+    },
+    {
+      "raw_hot": 224873,
+      "num": 374448,
+      "word": "台湾超级电池工厂爆炸",
+      "onboard_time": 1752458782,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 224832,
@@ -18467,6 +18531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189349,
+      "num": 189349,
+      "word": "早餐比自己先到工位有多幸福",
+      "onboard_time": 1752460522,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 189320,
       "num": 225531,
       "word": "三伏天如何增强保护力",
@@ -18593,6 +18665,14 @@
       "onboard_time": 1752411923,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 188436,
+      "num": 188436,
+      "word": "陈熠WTT美国大满贯女单亚军",
+      "onboard_time": 1752460222,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 188375,
@@ -20225,14 +20305,6 @@
       "onboard_time": 1752113121,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 176434,
-      "num": 266777,
-      "word": "中国女排vs美国女排",
-      "onboard_time": 1752458241,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 176342,
@@ -27307,6 +27379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139294,
+      "num": 139294,
+      "word": "国新办新闻发布会",
+      "onboard_time": 1752460401,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 139194,
       "num": 139194,
       "word": "张杰说身体只是一个躯壳而已",
@@ -27361,6 +27441,14 @@
       "onboard_time": 1751552482,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 139076,
+      "num": 139076,
+      "word": "外卖大战会补贴一停感情归零吗",
+      "onboard_time": 1752458360,
+      "rank": 30,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 139072,
@@ -28233,6 +28321,14 @@
       "onboard_time": 1752218363,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 135334,
+      "num": 135334,
+      "word": "RV 檀健次",
+      "onboard_time": 1752459141,
+      "rank": 49,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 135329,
@@ -29467,14 +29563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130456,
-      "num": 130456,
-      "word": "外卖大战会补贴一停感情归零吗",
-      "onboard_time": 1752458360,
-      "rank": 30,
-      "category": "互联网,民生新闻"
-    },
-    {
       "raw_hot": 130384,
       "num": 130384,
       "word": "六郎玩的都是何惟芳剩下的",
@@ -29931,14 +30019,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 128419,
-      "num": 128419,
-      "word": "山东淄博一群人凌晨蒙眼拉绳行走",
-      "onboard_time": 1752458060,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 128398,
       "num": 128398,
       "word": "歌手 脱口秀",
@@ -30265,6 +30345,14 @@
       "onboard_time": 1751449101,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127144,
+      "num": 127144,
+      "word": "辅警为醉驾男子替换送检血样获刑",
+      "onboard_time": 1752459623,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127142,
@@ -33923,6 +34011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 113400,
+      "num": 113400,
+      "word": "医学生的暑假被全村老人约满了",
+      "onboard_time": 1752460522,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113355,
       "num": 113355,
       "word": "学校通报学生未报清北老师解散群聊",
@@ -34529,14 +34625,6 @@
       "onboard_time": 1751351901,
       "rank": 39,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 111267,
-      "num": 111267,
-      "word": "台湾超级电池工厂爆炸",
-      "onboard_time": 1752458782,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111237,
@@ -35793,6 +35881,14 @@
       "onboard_time": 1751444903,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106138,
+      "num": 106138,
+      "word": "张天峰被开除党籍",
+      "onboard_time": 1752460581,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 106123,
@@ -37675,6 +37771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96713,
+      "num": 96713,
+      "word": "四个脊柱最喜欢的动作",
+      "onboard_time": 1752452123,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 96614,
       "num": 275222,
       "word": "新疆那拉提景区一游客驾车驶入草场",
@@ -37825,14 +37929,6 @@
       "onboard_time": 1751875043,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 95721,
-      "num": 95721,
-      "word": "四个脊柱最喜欢的动作",
-      "onboard_time": 1752452123,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 95653,
@@ -38000,14 +38096,6 @@
       "word": "孙颖莎张向晶合影",
       "onboard_time": 1751778622,
       "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 94178,
-      "num": 109897,
-      "word": "朱雨玲美国大满贯夺冠",
-      "onboard_time": 1752459141,
-      "rank": 40,
       "category": "体育"
     },
     {
@@ -38513,14 +38601,6 @@
       "onboard_time": 1751432604,
       "rank": 44,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 90451,
-      "num": 90451,
-      "word": "RV 檀健次",
-      "onboard_time": 1752459141,
-      "rank": 49,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 90312,
@@ -44931,6 +45011,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 28374,
+      "num": 180992,
+      "word": "律师称Zeus公开私密视频涉嫌侵权",
+      "onboard_time": 1752460341,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28370,
       "num": 111799,
       "word": "chiikawa作者贺图",
@@ -45569,6 +45657,14 @@
       "onboard_time": 1751959702,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 23729,
+      "num": 231917,
+      "word": "19岁高中生找暑假工失联警方介入",
+      "onboard_time": 1752460281,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23620,

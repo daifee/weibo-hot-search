@@ -1,6 +1,6 @@
 {
   "startTime": 1752424285355,
-  "endTime": 1752459159332,
+  "endTime": 1752460680384,
   "band_list": [
     {
       "raw_hot": 5991584,
@@ -24,6 +24,22 @@
       "word": "被女子强搂亲吻男孩妈妈愤怒回应",
       "onboard_time": 1752423024,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1147739,
+      "num": 1147739,
+      "word": "朱雨玲美国大满贯夺冠",
+      "onboard_time": 1752459141,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1140129,
+      "num": 269637,
+      "word": "娃哈哈回应宗庆后遗产纠纷",
+      "onboard_time": 1752456080,
+      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -51,20 +67,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 868654,
-      "num": 269637,
-      "word": "娃哈哈回应宗庆后遗产纠纷",
-      "onboard_time": 1752456080,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 712922,
       "num": 712922,
       "word": "鹿晗我输了",
       "onboard_time": 1752417268,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 601972,
+      "num": 442191,
+      "word": "张凌赫王楚然落水公主抱",
+      "onboard_time": 1752454401,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 597154,
@@ -75,16 +91,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 556192,
-      "num": 356174,
-      "word": "张凌赫王楚然落水公主抱",
-      "onboard_time": 1752454401,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 503202,
-      "num": 339797,
+      "num": 373687,
       "word": "林俊杰",
       "onboard_time": 1752448460,
       "rank": 9,
@@ -100,23 +108,23 @@
     },
     {
       "raw_hot": 463783,
-      "num": 267423,
+      "num": 373835,
       "word": "苏醒真实人品",
       "onboard_time": 1752453563,
       "rank": 13,
       "category": "综艺"
     },
     {
-      "raw_hot": 436211,
-      "num": 436211,
+      "raw_hot": 448242,
+      "num": 448242,
       "word": "登机时看到另一架飞机坠毁变火球",
       "onboard_time": 1752457101,
       "rank": 4,
       "category": "海外新闻"
     },
     {
-      "raw_hot": 433856,
-      "num": 262761,
+      "raw_hot": 436089,
+      "num": 436089,
       "word": "偶遇蔡徐坤",
       "onboard_time": 1752456141,
       "rank": 16,
@@ -131,8 +139,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 372311,
-      "num": 372311,
+      "raw_hot": 374515,
+      "num": 374515,
+      "word": "网友在新疆拍到超大圆月",
+      "onboard_time": 1752456500,
+      "rank": 9,
+      "category": "旅游,民生新闻"
+    },
+    {
+      "raw_hot": 373568,
+      "num": 373568,
       "word": "这一轮高温天有几个明显特点",
       "onboard_time": 1752456381,
       "rank": 5,
@@ -195,6 +211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 295423,
+      "num": 295423,
+      "word": "中国女排vs美国女排",
+      "onboard_time": 1752458241,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 277241,
       "num": 277241,
       "word": "侧睡的危害",
@@ -211,20 +235,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 270610,
-      "num": 270610,
-      "word": "网友在新疆拍到超大圆月",
-      "onboard_time": 1752456500,
-      "rank": 9,
-      "category": "旅游,民生新闻"
-    },
-    {
       "raw_hot": 266165,
       "num": 266165,
       "word": "两医院HPV结果相反男子花万元治疗",
       "onboard_time": 1752420085,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 265782,
+      "num": 265782,
+      "word": "王楚钦vs张本智和",
+      "onboard_time": 1752460042,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 259994,
@@ -235,6 +259,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 245835,
+      "num": 231876,
+      "word": "网红刘琳琳说小鱼海棠见钱眼开",
+      "onboard_time": 1752458300,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 244732,
       "num": 278273,
       "word": "马斯克特朗普决裂的洗牌",
@@ -243,12 +275,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 243838,
-      "num": 202187,
-      "word": "网红刘琳琳说小鱼海棠见钱眼开",
-      "onboard_time": 1752458300,
-      "rank": 21,
-      "category": "网红"
+      "raw_hot": 243069,
+      "num": 243069,
+      "word": "戴比尔斯品牌大使白鹿",
+      "onboard_time": 1752459501,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 239449,
@@ -257,6 +289,38 @@
       "onboard_time": 1752458060,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 231672,
+      "num": 231672,
+      "word": "山东淄博一群人凌晨蒙眼拉绳行走",
+      "onboard_time": 1752458060,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 229556,
+      "num": 178081,
+      "word": "新疆的小孩一出生就带全妆",
+      "onboard_time": 1752460461,
+      "rank": 30,
+      "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 227424,
+      "num": 224248,
+      "word": "迅猛龙晒复旦大学录取通知书",
+      "onboard_time": 1752460640,
+      "rank": 24,
+      "category": "网红,教育"
+    },
+    {
+      "raw_hot": 224873,
+      "num": 374448,
+      "word": "台湾超级电池工厂爆炸",
+      "onboard_time": 1752458782,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 218225,
@@ -331,6 +395,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 189349,
+      "num": 189349,
+      "word": "早餐比自己先到工位有多幸福",
+      "onboard_time": 1752460522,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 188436,
+      "num": 188436,
+      "word": "陈熠WTT美国大满贯女单亚军",
+      "onboard_time": 1752460222,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183689,
       "num": 183689,
       "word": "女子昏厥男子跪地心肺复苏被指袭胸",
@@ -352,14 +432,6 @@
       "word": "切尔西足球俱乐部",
       "onboard_time": 1752449900,
       "rank": 15,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 176434,
-      "num": 266777,
-      "word": "中国女排vs美国女排",
-      "onboard_time": 1752458241,
-      "rank": 14,
       "category": "体育"
     },
     {
@@ -435,6 +507,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139294,
+      "num": 139294,
+      "word": "国新办新闻发布会",
+      "onboard_time": 1752460401,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 139076,
+      "num": 139076,
+      "word": "外卖大战会补贴一停感情归零吗",
+      "onboard_time": 1752458360,
+      "rank": 30,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 137686,
       "num": 137686,
       "word": "什么体质容易长甲状腺结节",
@@ -451,12 +539,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 130456,
-      "num": 130456,
-      "word": "外卖大战会补贴一停感情归零吗",
-      "onboard_time": 1752458360,
-      "rank": 30,
-      "category": "互联网,民生新闻"
+      "raw_hot": 135334,
+      "num": 135334,
+      "word": "RV 檀健次",
+      "onboard_time": 1752459141,
+      "rank": 49,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 129816,
@@ -467,11 +555,11 @@
       "category": "音乐,艺人"
     },
     {
-      "raw_hot": 128419,
-      "num": 128419,
-      "word": "山东淄博一群人凌晨蒙眼拉绳行走",
-      "onboard_time": 1752458060,
-      "rank": 31,
+      "raw_hot": 127144,
+      "num": 127144,
+      "word": "辅警为醉驾男子替换送检血样获刑",
+      "onboard_time": 1752459623,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -563,11 +651,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 111267,
-      "num": 111267,
-      "word": "台湾超级电池工厂爆炸",
-      "onboard_time": 1752458782,
-      "rank": 39,
+      "raw_hot": 113400,
+      "num": 113400,
+      "word": "医学生的暑假被全村老人约满了",
+      "onboard_time": 1752460522,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -577,6 +665,14 @@
       "onboard_time": 1752458300,
       "rank": 41,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 106138,
+      "num": 106138,
+      "word": "张天峰被开除党籍",
+      "onboard_time": 1752460581,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 104444,
@@ -603,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96713,
+      "num": 96713,
+      "word": "四个脊柱最喜欢的动作",
+      "onboard_time": 1752452123,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 96126,
       "num": 115440,
       "word": "包贝尔10岁女儿身高",
@@ -627,14 +731,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 95721,
-      "num": 95721,
-      "word": "四个脊柱最喜欢的动作",
-      "onboard_time": 1752452123,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 95402,
       "num": 95402,
       "word": "AG 一诺",
@@ -643,28 +739,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 94178,
-      "num": 109897,
-      "word": "朱雨玲美国大满贯夺冠",
-      "onboard_time": 1752459141,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 92444,
       "num": 92444,
       "word": "狼队战胜AG",
       "onboard_time": 1752418526,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 90451,
-      "num": 90451,
-      "word": "RV 檀健次",
-      "onboard_time": 1752459141,
-      "rank": 49,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 89904,
@@ -827,6 +907,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 28374,
+      "num": 180992,
+      "word": "律师称Zeus公开私密视频涉嫌侵权",
+      "onboard_time": 1752460341,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27185,
       "num": 27185,
       "word": "汪苏泷唱了不甜情歌",
@@ -841,6 +929,14 @@
       "onboard_time": 1752431176,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 23729,
+      "num": 231917,
+      "word": "19岁高中生找暑假工失联警方介入",
+      "onboard_time": 1752460281,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22720,

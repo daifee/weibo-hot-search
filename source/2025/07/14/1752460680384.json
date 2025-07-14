@@ -1,0 +1,410 @@
+{
+  "runTime": 1752460680384,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1248706,
+        "num": 1248706,
+        "word": "林俊杰心脏",
+        "onboard_time": 1752415406,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1147739,
+        "num": 1147739,
+        "word": "朱雨玲美国大满贯夺冠",
+        "onboard_time": 1752459141,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88170,
+        "num": 790018,
+        "word": "未来一周大范围高温来袭",
+        "onboard_time": 1752414624,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 782724,
+        "num": 782724,
+        "word": "鹿晗分享撕拉片",
+        "onboard_time": 1752449600,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 713623,
+        "num": 713623,
+        "word": "wtt美国大满贯",
+        "onboard_time": 1752457760,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 448242,
+        "num": 448242,
+        "word": "登机时看到另一架飞机坠毁变火球",
+        "onboard_time": 1752457101,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 601972,
+        "num": 442191,
+        "word": "张凌赫王楚然落水公主抱",
+        "onboard_time": 1752454401,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 436089,
+        "num": 436089,
+        "word": "偶遇蔡徐坤",
+        "onboard_time": 1752456141,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374515,
+        "num": 374515,
+        "word": "网友在新疆拍到超大圆月",
+        "onboard_time": 1752456500,
+        "rank": 8,
+        "category": "旅游,民生新闻"
+      },
+      {
+        "raw_hot": 224873,
+        "num": 374448,
+        "word": "台湾超级电池工厂爆炸",
+        "onboard_time": 1752458782,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 413556,
+        "num": 374105,
+        "word": "让环卫工翻8吨垃圾找手表有必要吗",
+        "onboard_time": 1752420684,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 397125,
+        "num": 373835,
+        "word": "苏醒真实人品",
+        "onboard_time": 1752453563,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 387295,
+        "num": 373687,
+        "word": "林俊杰",
+        "onboard_time": 1752448460,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 373568,
+        "num": 373568,
+        "word": "这一轮高温天有几个明显特点",
+        "onboard_time": 1752456381,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295423,
+        "num": 295423,
+        "word": "中国女排vs美国女排",
+        "onboard_time": 1752458241,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265782,
+        "num": 265782,
+        "word": "王楚钦vs张本智和",
+        "onboard_time": 1752460042,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243069,
+        "num": 243069,
+        "word": "戴比尔斯品牌大使白鹿",
+        "onboard_time": 1752459501,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 763334,
+        "num": 238791,
+        "word": "Zeus希望能尽快结束此事",
+        "onboard_time": 1752454822,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 232310,
+        "num": 232310,
+        "word": "鹿晗我输了",
+        "onboard_time": 1752417268,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 23729,
+        "num": 231917,
+        "word": "19岁高中生找暑假工失联警方介入",
+        "onboard_time": 1752460281,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245835,
+        "num": 231876,
+        "word": "网红刘琳琳说小鱼海棠见钱眼开",
+        "onboard_time": 1752458300,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1140129,
+        "num": 231814,
+        "word": "娃哈哈回应宗庆后遗产纠纷",
+        "onboard_time": 1752456080,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231672,
+        "num": 231672,
+        "word": "山东淄博一群人凌晨蒙眼拉绳行走",
+        "onboard_time": 1752458060,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224315,
+        "num": 224315,
+        "word": "马斯克发帖催特朗普",
+        "onboard_time": 1752456441,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 227424,
+        "num": 224248,
+        "word": "迅猛龙晒复旦大学录取通知书",
+        "onboard_time": 1752460640,
+        "rank": 24,
+        "category": "网红,教育"
+      },
+      {
+        "raw_hot": 220000,
+        "num": 220000,
+        "word": "被女子强搂亲吻男孩妈妈愤怒回应",
+        "onboard_time": 1752423024,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212151,
+        "num": 212151,
+        "word": "两医院HPV结果相反男子花万元治疗",
+        "onboard_time": 1752420085,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189349,
+        "num": 189349,
+        "word": "早餐比自己先到工位有多幸福",
+        "onboard_time": 1752460522,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 188436,
+        "num": 188436,
+        "word": "陈熠WTT美国大满贯女单亚军",
+        "onboard_time": 1752460222,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28374,
+        "num": 180992,
+        "word": "律师称Zeus公开私密视频涉嫌侵权",
+        "onboard_time": 1752460341,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229556,
+        "num": 178081,
+        "word": "新疆的小孩一出生就带全妆",
+        "onboard_time": 1752460461,
+        "rank": 30,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 174983,
+        "num": 174983,
+        "word": "女子晒被子抖飞2万元现金",
+        "onboard_time": 1752451942,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162193,
+        "num": 162193,
+        "word": "国乒参加纪念中美乒乓外交活动",
+        "onboard_time": 1752458060,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152362,
+        "num": 152362,
+        "word": "女子买泳衣走光后被告知不能游泳",
+        "onboard_time": 1752404361,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139652,
+        "num": 139652,
+        "word": "25岁确诊癌症晚期后的忠告",
+        "onboard_time": 1752416546,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139294,
+        "num": 139294,
+        "word": "国新办新闻发布会",
+        "onboard_time": 1752460401,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 139076,
+        "num": 139076,
+        "word": "外卖大战会补贴一停感情归零吗",
+        "onboard_time": 1752458360,
+        "rank": 36,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 135334,
+        "num": 135334,
+        "word": "RV 檀健次",
+        "onboard_time": 1752459141,
+        "rank": 37,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 134435,
+        "num": 134435,
+        "word": "当医生问年龄时千万别说虚岁",
+        "onboard_time": 1752456022,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127144,
+        "num": 127144,
+        "word": "辅警为醉驾男子替换送检血样获刑",
+        "onboard_time": 1752459623,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113400,
+        "num": 113400,
+        "word": "医学生的暑假被全村老人约满了",
+        "onboard_time": 1752460522,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112101,
+        "num": 112101,
+        "word": "赛里木湖",
+        "onboard_time": 1752416304,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 110148,
+        "num": 110148,
+        "word": "女子不堪家暴给丈夫投毒获刑3年半",
+        "onboard_time": 1752412583,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108330,
+        "num": 108330,
+        "word": "Angelababy85花首个钻超",
+        "onboard_time": 1752423562,
+        "rank": 43,
+        "category": "作品衍生,综艺"
+      },
+      {
+        "raw_hot": 106138,
+        "num": 106138,
+        "word": "张天峰被开除党籍",
+        "onboard_time": 1752460581,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100618,
+        "num": 100618,
+        "word": "鱼咬莲花步步生花",
+        "onboard_time": 1752457520,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96918,
+        "num": 96918,
+        "word": "陈熠朱雨玲登场",
+        "onboard_time": 1752459022,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96713,
+        "num": 96713,
+        "word": "四个脊柱最喜欢的动作",
+        "onboard_time": 1752452123,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 96389,
+        "num": 96389,
+        "word": "陈奕迅摔倒",
+        "onboard_time": 1752450803,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 91702,
+        "num": 95430,
+        "word": "李昀锐在跑男一天吃15顿",
+        "onboard_time": 1752418708,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#持之以恒纠治四风#"
+    }
+  }
+}
