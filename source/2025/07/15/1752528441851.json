@@ -1,0 +1,410 @@
+{
+  "runTime": 1752528441851,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 88714,
+        "num": 142597,
+        "word": "关晓彤李昀锐海边吻",
+        "onboard_time": 1752497122,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79033,
+        "num": 79033,
+        "word": "美战机被曝撞上UFO",
+        "onboard_time": 1752505164,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18428,
+        "num": 67539,
+        "word": "医生支招高温天吃什么更解暑",
+        "onboard_time": 1752499343,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 63922,
+        "num": 63922,
+        "word": "国防部回应菲律宾要求中国弃核",
+        "onboard_time": 1752508042,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 56578,
+        "num": 56578,
+        "word": "特朗普称对俄罗斯征收100%关税",
+        "onboard_time": 1752507143,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 46015,
+        "num": 46015,
+        "word": "连体人姐姐要结婚妹妹要单身",
+        "onboard_time": 1752492382,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 41022,
+        "num": 41022,
+        "word": "会员称山姆与超市相比越来越同质化",
+        "onboard_time": 1752504142,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40292,
+        "num": 40292,
+        "word": "韩国发生热通胀",
+        "onboard_time": 1752501022,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 37083,
+        "num": 37083,
+        "word": "印度男子婚宴上多要一块鸡肉被刺死",
+        "onboard_time": 1752505344,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 28691,
+        "num": 36871,
+        "word": "男鼓手吸毒去世竟是亲妈害的",
+        "onboard_time": 1752498745,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171305,
+        "num": 36871,
+        "word": "上海多人暴雨中排队喝零下80度咖啡",
+        "onboard_time": 1752522554,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58916,
+        "num": 36869,
+        "word": "小海绵被妈妈养的很好",
+        "onboard_time": 1752504324,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36867,
+        "num": 36867,
+        "word": "官方回应孕妇遭2男子殴打住院",
+        "onboard_time": 1752507084,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58369,
+        "num": 36192,
+        "word": "女孩因撞脸张柏芝全网走红",
+        "onboard_time": 1752506242,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32313,
+        "num": 32313,
+        "word": "孕妇遭男子殴打住院已转刑事案件",
+        "onboard_time": 1752512238,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30569,
+        "num": 30569,
+        "word": "法国国庆阅兵接连发生马匹失控",
+        "onboard_time": 1752508642,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 27453,
+        "num": 27453,
+        "word": "张凌赫赵今麦回应三搭",
+        "onboard_time": 1752510200,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22364,
+        "num": 25623,
+        "word": "偶像剧不准用折叠伞",
+        "onboard_time": 1752488722,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21920,
+        "num": 25622,
+        "word": "樱桃琥珀",
+        "onboard_time": 1752496762,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21525,
+        "num": 25622,
+        "word": "樱桃琥珀 张开宙",
+        "onboard_time": 1752504923,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25622,
+        "num": 25621,
+        "word": "格陵兰居民一觉醒来冰山漂到家门口",
+        "onboard_time": 1752505764,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 25008,
+        "num": 25008,
+        "word": "黄仁勋称中国军方不会使用美国技术",
+        "onboard_time": 1752504142,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24223,
+        "num": 24223,
+        "word": "奶茶店称外卖大战1天利润仅400",
+        "onboard_time": 1752506422,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23024,
+        "num": 23024,
+        "word": "网友怀疑气象部门刻意不报40度",
+        "onboard_time": 1752487942,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21148,
+        "num": 21148,
+        "word": "实付9.9元米粉店家到手不足1元",
+        "onboard_time": 1752496042,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20697,
+        "num": 20697,
+        "word": "中方坚定支持建立东南亚无核武器区",
+        "onboard_time": 1752509061,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20177,
+        "num": 20177,
+        "word": "尾号77777777手机号320万元拍出",
+        "onboard_time": 1752488241,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18757,
+        "num": 18757,
+        "word": "房主任 生命的意义就是体验",
+        "onboard_time": 1752504623,
+        "rank": 27,
+        "category": "情感,综艺"
+      },
+      {
+        "raw_hot": 18308,
+        "num": 18308,
+        "word": "什么综艺还没播但群像味已经出来了",
+        "onboard_time": 1752497842,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17212,
+        "num": 18240,
+        "word": "周杰伦晒与权志龙合影",
+        "onboard_time": 1752503423,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18179,
+        "num": 18179,
+        "word": "男子被控因孕期拒绝同房杀妻",
+        "onboard_time": 1752499463,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17928,
+        "num": 17928,
+        "word": "对翻垃圾找儿童手表环卫工给予奖励",
+        "onboard_time": 1752495442,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17383,
+        "num": 17383,
+        "word": "42度高温来了",
+        "onboard_time": 1752491543,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17145,
+        "num": 17145,
+        "word": "关晓彤你这是饭前吃还是饭后吃",
+        "onboard_time": 1752523694,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17097,
+        "num": 17097,
+        "word": "外卖大战有人65元搞定一周伙食",
+        "onboard_time": 1752497183,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16849,
+        "num": 16849,
+        "word": "恋爱久了才能get到的撒娇方式",
+        "onboard_time": 1752511638,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15963,
+        "num": 16846,
+        "word": "这种胃癌偏爱年轻人",
+        "onboard_time": 1752509481,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 15043,
+        "num": 16842,
+        "word": "侃爷上海演唱会主办方致歉",
+        "onboard_time": 1752513077,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 14827,
+        "num": 16837,
+        "word": "中医建议喝美式要去冰",
+        "onboard_time": 1752512059,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 14096,
+        "num": 16825,
+        "word": "王鹤棣 LV",
+        "onboard_time": 1752499163,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 14042,
+        "num": 16823,
+        "word": "郑秀晶现身温网",
+        "onboard_time": 1752500603,
+        "rank": 40,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 13530,
+        "num": 16819,
+        "word": "徐祥",
+        "onboard_time": 1752501925,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 13320,
+        "num": 16812,
+        "word": "VOGUE金九不是85花群封",
+        "onboard_time": 1752500964,
+        "rank": 42,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 13224,
+        "num": 16807,
+        "word": "左手田栩宁右手敖瑞鹏",
+        "onboard_time": 1752502824,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12844,
+        "num": 16800,
+        "word": "8战世锦赛的汪顺说非常期待",
+        "onboard_time": 1752513557,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12801,
+        "num": 16790,
+        "word": "李乃文晒跟孙红雷欧阳娣娣合照",
+        "onboard_time": 1752528194,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12602,
+        "num": 16790,
+        "word": "金裕贞短发",
+        "onboard_time": 1752503484,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 12140,
+        "num": 16778,
+        "word": "韩安冉否认虐狗",
+        "onboard_time": 1752511279,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12629,
+        "num": 16772,
+        "word": "田栩宁说了第六句话",
+        "onboard_time": 1752493403,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12062,
+        "num": 16771,
+        "word": "易烊千玺说要让角色留下痕迹",
+        "onboard_time": 1752512777,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#城市要有高度更要有温度#"
+    }
+  }
+}

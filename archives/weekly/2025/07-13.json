@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752525903429,
+  "endTime": 1752528441851,
   "band_list": [
     {
       "raw_hot": 14050966,
@@ -3403,6 +3403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 171305,
+      "num": 36871,
+      "word": "上海多人暴雨中排队喝零下80度咖啡",
+      "onboard_time": 1752522554,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171213,
       "num": 171213,
       "word": "空乘紧急撤离 先脱丝袜",
@@ -4217,14 +4225,6 @@
       "onboard_time": 1752480500,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 144802,
-      "num": 33323,
-      "word": "上海多人暴雨中排队喝零下80度咖啡",
-      "onboard_time": 1752522554,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 144694,
@@ -7219,6 +7219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 17145,
+      "num": 17230,
+      "word": "关晓彤你这是饭前吃还是饭后吃",
+      "onboard_time": 1752523694,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 16021,
       "num": 25633,
       "word": "朝雪录首播成绩",
@@ -7233,14 +7241,6 @@
       "onboard_time": 1752346276,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 15191,
-      "num": 17230,
-      "word": "关晓彤你这是饭前吃还是饭后吃",
-      "onboard_time": 1752523694,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 14808,
@@ -7273,6 +7273,14 @@
       "onboard_time": 1752489322,
       "rank": 49,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 12801,
+      "num": 16790,
+      "word": "李乃文晒跟孙红雷欧阳娣娣合照",
+      "onboard_time": 1752528194,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 12144,

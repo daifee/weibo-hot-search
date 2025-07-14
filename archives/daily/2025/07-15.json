@@ -1,6 +1,6 @@
 {
   "startTime": 1752510927124,
-  "endTime": 1752525903429,
+  "endTime": 1752528441851,
   "band_list": [
     {
       "raw_hot": 873195,
@@ -147,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171305,
+      "num": 36871,
+      "word": "上海多人暴雨中排队喝零下80度咖啡",
+      "onboard_time": 1752522554,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169560,
       "num": 244459,
       "word": "印度男子婚宴上多要一块鸡肉被刺死",
@@ -169,14 +177,6 @@
       "onboard_time": 1752512777,
       "rank": 12,
       "category": "电影"
-    },
-    {
-      "raw_hot": 144802,
-      "num": 33323,
-      "word": "上海多人暴雨中排队喝零下80度咖啡",
-      "onboard_time": 1752522554,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 137823,
@@ -467,20 +467,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 28691,
+      "num": 36871,
+      "word": "男鼓手吸毒去世竟是亲妈害的",
+      "onboard_time": 1752498745,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 22572,
       "num": 32129,
       "word": "TF家族四代心动MV预告",
       "onboard_time": 1752517155,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 22340,
-      "num": 32165,
-      "word": "男鼓手吸毒去世竟是亲妈害的",
-      "onboard_time": 1752498745,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 17780,
@@ -491,6 +491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 17145,
+      "num": 17230,
+      "word": "关晓彤你这是饭前吃还是饭后吃",
+      "onboard_time": 1752523694,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 16021,
       "num": 25633,
       "word": "朝雪录首播成绩",
@@ -499,12 +507,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 15191,
-      "num": 17230,
-      "word": "关晓彤你这是饭前吃还是饭后吃",
-      "onboard_time": 1752523694,
-      "rank": 42,
-      "category": "艺人"
+      "raw_hot": 12801,
+      "num": 16790,
+      "word": "李乃文晒跟孙红雷欧阳娣娣合照",
+      "onboard_time": 1752528194,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 12281,
