@@ -1,0 +1,410 @@
+{
+  "runTime": 1752478235312,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1128712,
+        "num": 1180594,
+        "word": "韩国一个西瓜涨到156元",
+        "onboard_time": 1752471140,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 755838,
+        "num": 755838,
+        "word": "西安地震",
+        "onboard_time": 1752466282,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51349,
+        "num": 730899,
+        "word": "未来一周大范围高温来袭",
+        "onboard_time": 1752414624,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 720946,
+        "num": 720946,
+        "word": "女子被造黄谣维权3年造谣者拒赔偿",
+        "onboard_time": 1752470782,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 515359,
+        "num": 515359,
+        "word": "林俊杰心脏",
+        "onboard_time": 1752415406,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 373199,
+        "num": 373199,
+        "word": "扫毒风暴明星私下真面目",
+        "onboard_time": 1752475341,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 371048,
+        "num": 371048,
+        "word": "Oakley 王楚钦",
+        "onboard_time": 1752471442,
+        "rank": 6,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 350723,
+        "num": 350723,
+        "word": "向往的生活",
+        "onboard_time": 1752470062,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349035,
+        "num": 349035,
+        "word": "王牌对王牌9摇人",
+        "onboard_time": 1752474980,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293662,
+        "num": 293662,
+        "word": "官方回应环卫工翻垃圾找手表引质疑",
+        "onboard_time": 1752469462,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336620,
+        "num": 279650,
+        "word": "田栩宁沈月同框拍戏",
+        "onboard_time": 1752477142,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 327874,
+        "num": 276727,
+        "word": "梓渝你好这里不让撕名牌",
+        "onboard_time": 1752469882,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253869,
+        "num": 253869,
+        "word": "下班回家发现屋里全是小偷",
+        "onboard_time": 1752464722,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 249754,
+        "num": 249754,
+        "word": "吴彤从朋友圈摇到微博了",
+        "onboard_time": 1752469882,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134054,
+        "num": 248420,
+        "word": "朱雨玲说我想做人生的主人",
+        "onboard_time": 1752477021,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247236,
+        "num": 247236,
+        "word": "新疆的小孩一出生就带全妆",
+        "onboard_time": 1752460461,
+        "rank": 15,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 293682,
+        "num": 247172,
+        "word": "真的梓渝捡手机",
+        "onboard_time": 1752476540,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106758,
+        "num": 242532,
+        "word": "我的非凡夏日时刻",
+        "onboard_time": 1752474980,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 239243,
+        "num": 239243,
+        "word": "分手孩子改姓男方拒付抚养费",
+        "onboard_time": 1752468683,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214523,
+        "num": 214523,
+        "word": "每天4小时久坐或诱发致命血栓",
+        "onboard_time": 1752473961,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 738741,
+        "num": 213822,
+        "word": "儿子去世后母亲客厅停尸5个月",
+        "onboard_time": 1752475102,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196623,
+        "num": 212973,
+        "word": "肖战藏海传明天登陆暑假下午档",
+        "onboard_time": 1752477262,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228248,
+        "num": 212937,
+        "word": "张凌赫王楚然身材",
+        "onboard_time": 1752470182,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212703,
+        "num": 212703,
+        "word": "国乒美国大满贯合影",
+        "onboard_time": 1752477201,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211779,
+        "num": 211779,
+        "word": "樱桃琥珀",
+        "onboard_time": 1752467425,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190142,
+        "num": 190142,
+        "word": "田栩宁超话空降",
+        "onboard_time": 1752467063,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187206,
+        "num": 187206,
+        "word": "王楚钦说终于可以休息了",
+        "onboard_time": 1752472641,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204790,
+        "num": 187007,
+        "word": "赵今麦是王子张凌赫是公主",
+        "onboard_time": 1752477262,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185582,
+        "num": 185582,
+        "word": "潘婷三分钟奇迹是商标",
+        "onboard_time": 1752468204,
+        "rank": 28,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 172654,
+        "num": 172654,
+        "word": "陈熠挽着王曼昱的手复盘",
+        "onboard_time": 1752474681,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170915,
+        "num": 170915,
+        "word": "周一的苏醒是灵魂被现实硬拽起来的",
+        "onboard_time": 1752477142,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168730,
+        "num": 168730,
+        "word": "乌军称俄士兵向机器人部队投降",
+        "onboard_time": 1752473782,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 166922,
+        "num": 166922,
+        "word": "10cm玩偶娃衣",
+        "onboard_time": 1752476901,
+        "rank": 32,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 158442,
+        "num": 158442,
+        "word": "陈哲远假发掉了",
+        "onboard_time": 1752476061,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156376,
+        "num": 156376,
+        "word": "李艾谈5000多米海拔上厕所经历",
+        "onboard_time": 1752475701,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144824,
+        "num": 144824,
+        "word": "魏晨被大侦探腌入味了",
+        "onboard_time": 1752475282,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140505,
+        "num": 140505,
+        "word": "杨肸子香奈儿竟然是好朋友",
+        "onboard_time": 1752465682,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139065,
+        "num": 139065,
+        "word": "内娱男星撕拉片新四大TOP",
+        "onboard_time": 1752474922,
+        "rank": 37,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 137612,
+        "num": 137612,
+        "word": "纪梵希美妆 赵丽颖",
+        "onboard_time": 1752465803,
+        "rank": 38,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 34526,
+        "num": 135770,
+        "word": "神级风景插画合集",
+        "onboard_time": 1752477321,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 134572,
+        "num": 134572,
+        "word": "减肥黄金30天马上开始",
+        "onboard_time": 1752462142,
+        "rank": 40,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 133340,
+        "num": 133340,
+        "word": "海关总署教你识别真假labubu",
+        "onboard_time": 1752474261,
+        "rank": 41,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 129360,
+        "num": 129360,
+        "word": "被女子强搂亲吻男孩妈妈最新发声",
+        "onboard_time": 1752476482,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128978,
+        "num": 128978,
+        "word": "研究称全球水坝压歪地球两极",
+        "onboard_time": 1752476482,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128387,
+        "num": 128387,
+        "word": "迅猛龙晒复旦大学录取通知书",
+        "onboard_time": 1752460640,
+        "rank": 44,
+        "category": "网红,教育"
+      },
+      {
+        "raw_hot": 123716,
+        "num": 123716,
+        "word": "王楚钦美国大满贯夺冠",
+        "onboard_time": 1752462981,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120011,
+        "num": 120011,
+        "word": "律师称强吻男孩致水痘或涉故意伤害",
+        "onboard_time": 1752475282,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116568,
+        "num": 116568,
+        "word": "单依纯许馨一凡竟然是室友",
+        "onboard_time": 1752478164,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114772,
+        "num": 114772,
+        "word": "朴彩英火星哥演唱会彩排",
+        "onboard_time": 1752469224,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113427,
+        "num": 113427,
+        "word": "樱桃琥珀热度",
+        "onboard_time": 1752478164,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#持之以恒纠治四风#"
+    }
+  }
+}

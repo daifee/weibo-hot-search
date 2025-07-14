@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752476157834,
+  "endTime": 1752478235312,
   "band_list": [
     {
       "raw_hot": 14050966,
@@ -1035,6 +1035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 373199,
+      "num": 373199,
+      "word": "扫毒风暴明星私下真面目",
+      "onboard_time": 1752475341,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 373123,
       "num": 373123,
       "word": "国乒美国大满贯三冠收官",
@@ -1115,6 +1123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 349035,
+      "num": 349035,
+      "word": "王牌对王牌9摇人",
+      "onboard_time": 1752474980,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 345279,
       "num": 345279,
       "word": "父亲死亡80万赔偿金打给姑父",
@@ -1136,6 +1152,14 @@
       "word": "李现好恐怖的面部肌肉控制力",
       "onboard_time": 1752416546,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 336620,
+      "num": 279650,
+      "word": "田栩宁沈月同框拍戏",
+      "onboard_time": 1752477142,
+      "rank": 10,
       "category": "剧集"
     },
     {
@@ -1337,6 +1361,14 @@
       "onboard_time": 1752334942,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 293682,
+      "num": 247172,
+      "word": "真的梓渝捡手机",
+      "onboard_time": 1752476540,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 293132,
@@ -1699,14 +1731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 227778,
-      "num": 248900,
-      "word": "王牌对王牌9摇人",
-      "onboard_time": 1752474980,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 226731,
       "num": 226731,
       "word": "刺痛Gemini直播",
@@ -1787,14 +1811,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 215876,
-      "num": 238427,
-      "word": "扫毒风暴明星私下真面目",
-      "onboard_time": 1752475341,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 215753,
       "num": 215753,
       "word": "宁艺卓费加罗七月刊封面预告",
@@ -1843,6 +1859,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 214523,
+      "num": 214523,
+      "word": "每天4小时久坐或诱发致命血栓",
+      "onboard_time": 1752473961,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 214472,
       "num": 196080,
       "word": "AG 一诺",
@@ -1873,6 +1897,14 @@
       "onboard_time": 1752363138,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 212703,
+      "num": 212703,
+      "word": "国乒美国大满贯合影",
+      "onboard_time": 1752477201,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 212374,
@@ -1961,6 +1993,14 @@
       "onboard_time": 1752462142,
       "rank": 35,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 204790,
+      "num": 187007,
+      "word": "赵今麦是王子张凌赫是公主",
+      "onboard_time": 1752477262,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 204103,
@@ -2065,6 +2105,14 @@
       "onboard_time": 1752418886,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196623,
+      "num": 212973,
+      "word": "肖战藏海传明天登陆暑假下午档",
+      "onboard_time": 1752477262,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 194917,
@@ -2571,6 +2619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170915,
+      "num": 170915,
+      "word": "周一的苏醒是灵魂被现实硬拽起来的",
+      "onboard_time": 1752477142,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 170453,
       "num": 170453,
       "word": "扎双马尾的陈梦",
@@ -2673,6 +2729,14 @@
       "onboard_time": 1752372559,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166922,
+      "num": 166922,
+      "word": "10cm玩偶娃衣",
+      "onboard_time": 1752476901,
+      "rank": 32,
+      "category": "休闲"
     },
     {
       "raw_hot": 166692,
@@ -2859,6 +2923,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 158442,
+      "num": 158442,
+      "word": "陈哲远假发掉了",
+      "onboard_time": 1752476061,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158384,
       "num": 158384,
       "word": "张本智和回应决赛对阵王楚钦",
@@ -2889,6 +2961,14 @@
       "onboard_time": 1752464063,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156376,
+      "num": 156376,
+      "word": "李艾谈5000多米海拔上厕所经历",
+      "onboard_time": 1752475701,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 156344,
@@ -3113,14 +3193,6 @@
       "onboard_time": 1752341956,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 146312,
-      "num": 146312,
-      "word": "每天4小时久坐或诱发致命血栓",
-      "onboard_time": 1752473961,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 145539,
@@ -3403,6 +3475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134054,
+      "num": 248420,
+      "word": "朱雨玲说我想做人生的主人",
+      "onboard_time": 1752477021,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133956,
       "num": 133956,
       "word": "国乒女双争美国大满贯冠亚军",
@@ -3417,6 +3497,14 @@
       "onboard_time": 1752466882,
       "rank": 45,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 133340,
+      "num": 151221,
+      "word": "海关总署教你识别真假labubu",
+      "onboard_time": 1752474261,
+      "rank": 37,
+      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 132941,
@@ -3483,6 +3571,14 @@
       "category": "音乐,艺人"
     },
     {
+      "raw_hot": 129360,
+      "num": 129360,
+      "word": "被女子强搂亲吻男孩妈妈最新发声",
+      "onboard_time": 1752476482,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129087,
       "num": 129087,
       "word": "赛后笑眯眯的孙颖莎",
@@ -3497,6 +3593,14 @@
       "onboard_time": 1752402262,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 128978,
+      "num": 128978,
+      "word": "研究称全球水坝压歪地球两极",
+      "onboard_time": 1752476482,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128620,
@@ -3763,6 +3867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120011,
+      "num": 186203,
+      "word": "律师称强吻男孩致水痘或涉故意伤害",
+      "onboard_time": 1752475282,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119988,
       "num": 119988,
       "word": "钟意状态",
@@ -3899,6 +4011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116568,
+      "num": 116568,
+      "word": "单依纯许馨一凡竟然是室友",
+      "onboard_time": 1752478164,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116086,
       "num": 169983,
       "word": "F4合体言承旭当场红了眼眶",
@@ -3985,6 +4105,14 @@
       "onboard_time": 1752330144,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 113427,
+      "num": 113427,
+      "word": "樱桃琥珀热度",
+      "onboard_time": 1752478164,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 113400,
@@ -4097,14 +4225,6 @@
       "onboard_time": 1752458300,
       "rank": 41,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 108710,
-      "num": 108710,
-      "word": "李艾谈5000多米海拔上厕所经历",
-      "onboard_time": 1752475701,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 108319,
@@ -4427,14 +4547,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 92839,
-      "num": 92839,
-      "word": "陈哲远假发掉了",
-      "onboard_time": 1752476061,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 91895,
       "num": 91895,
       "word": "韦雪拒绝与前男友同框",
@@ -4529,14 +4641,6 @@
       "onboard_time": 1752407781,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 85371,
-      "num": 151221,
-      "word": "海关总署教你识别真假labubu",
-      "onboard_time": 1752474261,
-      "rank": 37,
-      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 85113,
@@ -4939,14 +5043,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 41178,
-      "num": 186203,
-      "word": "律师称强吻男孩致水痘或涉故意伤害",
-      "onboard_time": 1752475282,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 39825,
       "num": 244191,
       "word": "侃爷演唱会迟到早退谁给的傲慢",
@@ -4993,6 +5089,14 @@
       "onboard_time": 1752426319,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 34526,
+      "num": 135770,
+      "word": "神级风景插画合集",
+      "onboard_time": 1752477321,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 33800,
