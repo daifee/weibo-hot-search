@@ -1,0 +1,410 @@
+{
+  "runTime": 1752482359804,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 796057,
+        "num": 1127369,
+        "word": "西安地震",
+        "onboard_time": 1752466282,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 598076,
+        "num": 598076,
+        "word": "奶茶店一女员工偷换店内收款二维码",
+        "onboard_time": 1752478882,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33989,
+        "num": 565961,
+        "word": "未来一周大范围高温来袭",
+        "onboard_time": 1752414624,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 559321,
+        "num": 559321,
+        "word": "侃爷发文感谢中国粉丝",
+        "onboard_time": 1752478941,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 483121,
+        "num": 483121,
+        "word": "迪丽热巴龚俊或二搭",
+        "onboard_time": 1752479603,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 401620,
+        "num": 401620,
+        "word": "环卫工翻垃圾找手表为何暖心变闹心",
+        "onboard_time": 1752480083,
+        "rank": 5,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 376801,
+        "num": 376801,
+        "word": "林俊杰心脏",
+        "onboard_time": 1752415406,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 346490,
+        "num": 346490,
+        "word": "田栩宁沈月同框拍戏",
+        "onboard_time": 1752477142,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 344650,
+        "num": 344650,
+        "word": "韩国一个西瓜涨到156元",
+        "onboard_time": 1752471140,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 81128,
+        "num": 335267,
+        "word": "国防部敦促日方深刻反省",
+        "onboard_time": 1752481342,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 681702,
+        "num": 327626,
+        "word": "女子坐月子一天吃五十个鸡蛋",
+        "onboard_time": 1752480022,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 554301,
+        "num": 307783,
+        "word": "被女子强搂亲吻男孩妈妈最新发声",
+        "onboard_time": 1752476482,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 398953,
+        "num": 298641,
+        "word": "刘轩丞 太难了我尽力了",
+        "onboard_time": 1752479961,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290087,
+        "num": 290087,
+        "word": "女子被造黄谣维权3年造谣者拒赔偿",
+        "onboard_time": 1752470782,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263386,
+        "num": 263386,
+        "word": "官方回应环卫工翻垃圾找手表引质疑",
+        "onboard_time": 1752469462,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256495,
+        "num": 256495,
+        "word": "女子替前夫还贷40万被指自作多情",
+        "onboard_time": 1752480622,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254138,
+        "num": 254138,
+        "word": "赵今麦是王子张凌赫是公主",
+        "onboard_time": 1752477262,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252812,
+        "num": 252812,
+        "word": "孙燕姿南京演唱会抢票",
+        "onboard_time": 1752478401,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 249766,
+        "num": 249766,
+        "word": "成毅allblack造型路透",
+        "onboard_time": 1752479243,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 66831,
+        "num": 228490,
+        "word": "台湾超级电池工厂爆炸原因",
+        "onboard_time": 1752481281,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225454,
+        "num": 225454,
+        "word": "真的梓渝捡手机",
+        "onboard_time": 1752476540,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224990,
+        "num": 224990,
+        "word": "曝王牌对王牌9阵容",
+        "onboard_time": 1752479481,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197084,
+        "num": 197084,
+        "word": "新疆的小孩一出生就带全妆",
+        "onboard_time": 1752460461,
+        "rank": 22,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 187753,
+        "num": 187753,
+        "word": "向往的生活",
+        "onboard_time": 1752470062,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172627,
+        "num": 172627,
+        "word": "今夕赫夕",
+        "onboard_time": 1752481042,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172254,
+        "num": 172254,
+        "word": "英伟达回应黄仁勋雷军合照",
+        "onboard_time": 1752481582,
+        "rank": 25,
+        "category": "数码,财经"
+      },
+      {
+        "raw_hot": 161582,
+        "num": 161582,
+        "word": "田栩宁没开车门直接从跑车上跨下了",
+        "onboard_time": 1752481281,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157447,
+        "num": 157447,
+        "word": "樱桃琥珀热度",
+        "onboard_time": 1752478164,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155107,
+        "num": 155107,
+        "word": "黄仁勋与雷军合影",
+        "onboard_time": 1752480022,
+        "rank": 28,
+        "category": "数码,财经"
+      },
+      {
+        "raw_hot": 147825,
+        "num": 147825,
+        "word": "儿子去世后母亲客厅停尸5个月",
+        "onboard_time": 1752475102,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152770,
+        "num": 146692,
+        "word": "小狗伤心时会哞的一声哭出来",
+        "onboard_time": 1752481642,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145226,
+        "num": 145226,
+        "word": "帮儿子做饼干奚梦瑶有的是力气",
+        "onboard_time": 1752480500,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144503,
+        "num": 144503,
+        "word": "REDMI首部短剧",
+        "onboard_time": 1752481942,
+        "rank": 32,
+        "category": "数码,剧集"
+      },
+      {
+        "raw_hot": 140630,
+        "num": 140630,
+        "word": "全国机动车驾驶人数量5.5亿人",
+        "onboard_time": 1752480141,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128002,
+        "num": 128002,
+        "word": "Oakley 王楚钦",
+        "onboard_time": 1752471442,
+        "rank": 34,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 127546,
+        "num": 127546,
+        "word": "苏新皓你把铲丝当备忘录啊",
+        "onboard_time": 1752482122,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124015,
+        "num": 124015,
+        "word": "关晓彤在海边拍戏热迷糊了",
+        "onboard_time": 1752479000,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122564,
+        "num": 122564,
+        "word": "真的会被台湾人的谐音梗笑死",
+        "onboard_time": 1752478703,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120361,
+        "num": 120361,
+        "word": "鹿晗降窗和粉丝比耶合照",
+        "onboard_time": 1752482061,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117295,
+        "num": 117295,
+        "word": "下班回家发现屋里全是小偷",
+        "onboard_time": 1752464722,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116957,
+        "num": 116957,
+        "word": "张凌赫王楚然身材",
+        "onboard_time": 1752470182,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115846,
+        "num": 115846,
+        "word": "朴彩英VOGUE韩版周年刊",
+        "onboard_time": 1752480141,
+        "rank": 41,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 114780,
+        "num": 114780,
+        "word": "扫毒风暴明星私下真面目",
+        "onboard_time": 1752475341,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113805,
+        "num": 113805,
+        "word": "我要有刘德华联系方式也庄达菲这样",
+        "onboard_time": 1752478882,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113182,
+        "num": 113182,
+        "word": "单依纯许馨一凡竟然是室友",
+        "onboard_time": 1752478164,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112918,
+        "num": 112918,
+        "word": "北大中文系毕业生建议学理工科",
+        "onboard_time": 1752481221,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 112119,
+        "num": 112119,
+        "word": "樱桃琥珀开播口碑",
+        "onboard_time": 1752482181,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111496,
+        "num": 111496,
+        "word": "孟子义有万人迷那味儿了",
+        "onboard_time": 1752480202,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110444,
+        "num": 110444,
+        "word": "梓渝你好这里不让撕名牌",
+        "onboard_time": 1752469882,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107521,
+        "num": 107521,
+        "word": "出片了 是鬼片",
+        "onboard_time": 1752481823,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#持之以恒纠治四风#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1752424285355,
-  "endTime": 1752479069703,
+  "endTime": 1752482359804,
   "band_list": [
     {
       "raw_hot": 5991584,
@@ -179,6 +179,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 681702,
+      "num": 327626,
+      "word": "女子坐月子一天吃五十个鸡蛋",
+      "onboard_time": 1752480022,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 663136,
       "num": 663136,
       "word": "年轻人为何都不愿结婚",
@@ -227,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 598076,
+      "num": 598076,
+      "word": "奶茶店一女员工偷换店内收款二维码",
+      "onboard_time": 1752478882,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 597154,
       "num": 597154,
       "word": "让环卫工翻8吨垃圾找手表有必要吗",
@@ -241,6 +257,22 @@
       "onboard_time": 1752465803,
       "rank": 30,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 559321,
+      "num": 559321,
+      "word": "侃爷发文感谢中国粉丝",
+      "onboard_time": 1752478941,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 554301,
+      "num": 307783,
+      "word": "被女子强搂亲吻男孩妈妈最新发声",
+      "onboard_time": 1752476482,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 503202,
@@ -265,6 +297,14 @@
       "onboard_time": 1752465203,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 483121,
+      "num": 483121,
+      "word": "迪丽热巴龚俊或二搭",
+      "onboard_time": 1752479603,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 463783,
@@ -328,6 +368,22 @@
       "word": "网友称因发黄杨钿甜相关视频被起诉",
       "onboard_time": 1752422304,
       "rank": 9,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 401620,
+      "num": 401620,
+      "word": "环卫工翻垃圾找手表为何暖心变闹心",
+      "onboard_time": 1752480083,
+      "rank": 5,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 398953,
+      "num": 298641,
+      "word": "刘轩丞 太难了我尽力了",
+      "onboard_time": 1752479961,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -411,8 +467,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 336620,
-      "num": 332813,
+      "raw_hot": 346490,
+      "num": 346490,
       "word": "田栩宁沈月同框拍戏",
       "onboard_time": 1752477142,
       "rank": 10,
@@ -555,6 +611,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 256495,
+      "num": 256495,
+      "word": "女子替前夫还贷40万被指自作多情",
+      "onboard_time": 1752480622,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 256216,
       "num": 256216,
       "word": "沈腾说马丽老公上秤至少半吨",
@@ -563,12 +627,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 254138,
+      "num": 254138,
+      "word": "赵今麦是王子张凌赫是公主",
+      "onboard_time": 1752477262,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 253057,
       "num": 253057,
       "word": "孙燕姿南京演唱会抢票",
       "onboard_time": 1752478401,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 249766,
+      "num": 249766,
+      "word": "成毅allblack造型路透",
+      "onboard_time": 1752479243,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 245835,
@@ -627,6 +707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224990,
+      "num": 224990,
+      "word": "曝王牌对王牌9阵容",
+      "onboard_time": 1752479481,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224873,
       "num": 374448,
       "word": "台湾超级电池工厂爆炸",
@@ -641,14 +729,6 @@
       "onboard_time": 1752468863,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 222124,
-      "num": 222124,
-      "word": "侃爷发文感谢中国粉丝",
-      "onboard_time": 1752478941,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 218225,
@@ -793,14 +873,6 @@
       "onboard_time": 1752462142,
       "rank": 35,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 204790,
-      "num": 198670,
-      "word": "赵今麦是王子张凌赫是公主",
-      "onboard_time": 1752477262,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 201797,
@@ -963,14 +1035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 183038,
-      "num": 227261,
-      "word": "被女子强搂亲吻男孩妈妈最新发声",
-      "onboard_time": 1752476482,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 182063,
       "num": 182063,
       "word": "时代少年团新歌",
@@ -1017,6 +1081,22 @@
       "onboard_time": 1752422663,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 172627,
+      "num": 172627,
+      "word": "今夕赫夕",
+      "onboard_time": 1752481042,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 172254,
+      "num": 172254,
+      "word": "英伟达回应黄仁勋雷军合照",
+      "onboard_time": 1752481582,
+      "rank": 25,
+      "category": "数码,财经"
     },
     {
       "raw_hot": 172005,
@@ -1107,6 +1187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161582,
+      "num": 161582,
+      "word": "田栩宁没开车门直接从跑车上跨下了",
+      "onboard_time": 1752481281,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161457,
       "num": 161457,
       "word": "樱桃琥珀热度",
@@ -1153,6 +1241,22 @@
       "onboard_time": 1752475701,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155107,
+      "num": 155107,
+      "word": "黄仁勋与雷军合影",
+      "onboard_time": 1752480022,
+      "rank": 28,
+      "category": "数码,财经"
+    },
+    {
+      "raw_hot": 152770,
+      "num": 146692,
+      "word": "小狗伤心时会哞的一声哭出来",
+      "onboard_time": 1752481642,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 152508,
@@ -1203,6 +1307,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145226,
+      "num": 145226,
+      "word": "帮儿子做饼干奚梦瑶有的是力气",
+      "onboard_time": 1752480500,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 144503,
+      "num": 144503,
+      "word": "REDMI首部短剧",
+      "onboard_time": 1752481942,
+      "rank": 32,
+      "category": "数码,剧集"
+    },
+    {
       "raw_hot": 143419,
       "num": 177346,
       "word": "张小斐粉丝画的血泪名场面",
@@ -1225,6 +1345,14 @@
       "onboard_time": 1752468922,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 140630,
+      "num": 140630,
+      "word": "全国机动车驾驶人数量5.5亿人",
+      "onboard_time": 1752480141,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140499,
@@ -1331,6 +1459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127546,
+      "num": 127546,
+      "word": "苏新皓你把铲丝当备忘录啊",
+      "onboard_time": 1752482122,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127144,
       "num": 453621,
       "word": "辅警为醉驾男子替换送检血样获刑",
@@ -1435,6 +1571,14 @@
       "category": "财经,互联网"
     },
     {
+      "raw_hot": 122564,
+      "num": 122564,
+      "word": "真的会被台湾人的谐音梗笑死",
+      "onboard_time": 1752478703,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122308,
       "num": 122308,
       "word": "律师称李同学隐私被泄露是受害者",
@@ -1459,12 +1603,12 @@
       "category": "汽车,财经"
     },
     {
-      "raw_hot": 120485,
-      "num": 120485,
-      "word": "真的会被台湾人的谐音梗笑死",
-      "onboard_time": 1752478703,
-      "rank": 46,
-      "category": "幽默"
+      "raw_hot": 120361,
+      "num": 120361,
+      "word": "鹿晗降窗和粉丝比耶合照",
+      "onboard_time": 1752482061,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 118041,
@@ -1497,6 +1641,14 @@
       "onboard_time": 1752472641,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115846,
+      "num": 115846,
+      "word": "朴彩英VOGUE韩版周年刊",
+      "onboard_time": 1752480141,
+      "rank": 41,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 115563,
@@ -1547,6 +1699,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112918,
+      "num": 112918,
+      "word": "北大中文系毕业生建议学理工科",
+      "onboard_time": 1752481221,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 112119,
+      "num": 112119,
+      "word": "樱桃琥珀开播口碑",
+      "onboard_time": 1752482181,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 111496,
+      "num": 111496,
+      "word": "孟子义有万人迷那味儿了",
+      "onboard_time": 1752480202,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109029,
       "num": 109029,
       "word": "KPOP混音卷王出现了",
@@ -1561,6 +1737,14 @@
       "onboard_time": 1752458300,
       "rank": 41,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 107521,
+      "num": 107521,
+      "word": "出片了 是鬼片",
+      "onboard_time": 1752481823,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 106138,
@@ -1731,6 +1915,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 81128,
+      "num": 335267,
+      "word": "国防部敦促日方深刻反省",
+      "onboard_time": 1752481342,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 80496,
       "num": 80496,
       "word": "辛纳vs阿尔卡拉斯",
@@ -1769,6 +1961,14 @@
       "onboard_time": 1752432555,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66831,
+      "num": 228490,
+      "word": "台湾超级电池工厂爆炸原因",
+      "onboard_time": 1752481281,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65321,
@@ -1857,14 +2057,6 @@
       "onboard_time": 1752477321,
       "rank": 39,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 28303,
-      "num": 161725,
-      "word": "奶茶店一女员工偷换店内收款二维码",
-      "onboard_time": 1752478882,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27185,
