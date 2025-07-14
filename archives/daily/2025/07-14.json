@@ -1,6 +1,6 @@
 {
   "startTime": 1752424285355,
-  "endTime": 1752482359804,
+  "endTime": 1752483286828,
   "band_list": [
     {
       "raw_hot": 5991584,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1109896,
+      "num": 1177583,
+      "word": "奶茶店一女员工偷换店内收款二维码",
+      "onboard_time": 1752478882,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1087832,
       "num": 1087832,
       "word": "迅猛龙晒复旦大学录取通知书",
@@ -139,12 +147,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 839717,
+      "num": 839717,
+      "word": "环卫工翻垃圾找手表为何暖心变闹心",
+      "onboard_time": 1752480083,
+      "rank": 5,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 830704,
       "num": 377417,
       "word": "儿子去世后母亲客厅停尸5个月",
       "onboard_time": 1752475102,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 723976,
+      "num": 342910,
+      "word": "女子坐月子一天吃五十个鸡蛋",
+      "onboard_time": 1752480022,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 712922,
@@ -179,14 +203,6 @@
       "category": "体育,时尚"
     },
     {
-      "raw_hot": 681702,
-      "num": 327626,
-      "word": "女子坐月子一天吃五十个鸡蛋",
-      "onboard_time": 1752480022,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 663136,
       "num": 663136,
       "word": "年轻人为何都不愿结婚",
@@ -219,6 +235,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 616290,
+      "num": 616290,
+      "word": "侃爷发文感谢中国粉丝",
+      "onboard_time": 1752478941,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 615531,
       "num": 615531,
       "word": "向往的生活",
@@ -233,14 +257,6 @@
       "onboard_time": 1752454401,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 598076,
-      "num": 598076,
-      "word": "奶茶店一女员工偷换店内收款二维码",
-      "onboard_time": 1752478882,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 597154,
@@ -259,16 +275,16 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 559321,
-      "num": 559321,
-      "word": "侃爷发文感谢中国粉丝",
-      "onboard_time": 1752478941,
-      "rank": 16,
-      "category": "演出"
+      "raw_hot": 556020,
+      "num": 329949,
+      "word": "刘轩丞 太难了我尽力了",
+      "onboard_time": 1752479961,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 554301,
-      "num": 307783,
+      "num": 313786,
       "word": "被女子强搂亲吻男孩妈妈最新发声",
       "onboard_time": 1752476482,
       "rank": 42,
@@ -289,6 +305,14 @@
       "onboard_time": 1752423922,
       "rank": 36,
       "category": "网红"
+    },
+    {
+      "raw_hot": 487584,
+      "num": 319435,
+      "word": "出片了 是鬼片",
+      "onboard_time": 1752481823,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 483636,
@@ -371,22 +395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 401620,
-      "num": 401620,
-      "word": "环卫工翻垃圾找手表为何暖心变闹心",
-      "onboard_time": 1752480083,
-      "rank": 5,
-      "category": "议题讨论"
-    },
-    {
-      "raw_hot": 398953,
-      "num": 298641,
-      "word": "刘轩丞 太难了我尽力了",
-      "onboard_time": 1752479961,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 385572,
       "num": 385572,
       "word": "吴彤从朋友圈摇到微博了",
@@ -443,6 +451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 357167,
+      "num": 357167,
+      "word": "女子替前夫还贷40万被指自作多情",
+      "onboard_time": 1752480622,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 351458,
       "num": 276157,
       "word": "女子买泳衣走光后被告知不能游泳",
@@ -489,6 +505,14 @@
       "onboard_time": 1752462142,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 309742,
+      "num": 309742,
+      "word": "曝王牌对王牌9阵容",
+      "onboard_time": 1752479481,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 307044,
@@ -545,6 +569,14 @@
       "onboard_time": 1752459501,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 281254,
+      "num": 281254,
+      "word": "田栩宁没开车门直接从跑车上跨下了",
+      "onboard_time": 1752481281,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 280791,
@@ -609,14 +641,6 @@
       "onboard_time": 1752419965,
       "rank": 12,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 256495,
-      "num": 256495,
-      "word": "女子替前夫还贷40万被指自作多情",
-      "onboard_time": 1752480622,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 256216,
@@ -707,14 +731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 224990,
-      "num": 224990,
-      "word": "曝王牌对王牌9阵容",
-      "onboard_time": 1752479481,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 224873,
       "num": 374448,
       "word": "台湾超级电池工厂爆炸",
@@ -795,6 +811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211873,
+      "num": 211873,
+      "word": "英伟达回应黄仁勋雷军合照",
+      "onboard_time": 1752481582,
+      "rank": 25,
+      "category": "数码,财经"
+    },
+    {
       "raw_hot": 211736,
       "num": 211736,
       "word": "赛里木湖",
@@ -873,6 +897,14 @@
       "onboard_time": 1752462142,
       "rank": 35,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 203996,
+      "num": 203996,
+      "word": "陈果回应和宋亚轩旧照被考古",
+      "onboard_time": 1752482662,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 201797,
@@ -1091,12 +1123,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 172254,
-      "num": 172254,
-      "word": "英伟达回应黄仁勋雷军合照",
-      "onboard_time": 1752481582,
-      "rank": 25,
-      "category": "数码,财经"
+      "raw_hot": 172604,
+      "num": 172604,
+      "word": "樱桃琥珀热度",
+      "onboard_time": 1752478164,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 172005,
@@ -1163,6 +1195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 164200,
+      "num": 159158,
+      "word": "梓渝跳了粟米摇",
+      "onboard_time": 1752482662,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163569,
       "num": 165093,
       "word": "刘国正说王楚钦拧拉太潇洒了",
@@ -1187,20 +1227,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 161582,
-      "num": 161582,
-      "word": "田栩宁没开车门直接从跑车上跨下了",
-      "onboard_time": 1752481281,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 161457,
-      "num": 161457,
-      "word": "樱桃琥珀热度",
-      "onboard_time": 1752478164,
-      "rank": 49,
-      "category": "剧集"
+      "raw_hot": 160522,
+      "num": 160522,
+      "word": "苏新皓你把铲丝当备忘录啊",
+      "onboard_time": 1752482122,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 158885,
@@ -1227,6 +1259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157944,
+      "num": 157944,
+      "word": "小狗伤心时会哞的一声哭出来",
+      "onboard_time": 1752481642,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 156568,
       "num": 156568,
       "word": "王楚钦一声声好球夺冠",
@@ -1251,12 +1291,12 @@
       "category": "数码,财经"
     },
     {
-      "raw_hot": 152770,
-      "num": 146692,
-      "word": "小狗伤心时会哞的一声哭出来",
-      "onboard_time": 1752481642,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 152890,
+      "num": 152890,
+      "word": "全国机动车驾驶人数量5.5亿人",
+      "onboard_time": 1752480141,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152508,
@@ -1316,7 +1356,7 @@
     },
     {
       "raw_hot": 144503,
-      "num": 144503,
+      "num": 215913,
       "word": "REDMI首部短剧",
       "onboard_time": 1752481942,
       "rank": 32,
@@ -1339,20 +1379,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 142874,
+      "num": 228490,
+      "word": "台湾超级电池工厂爆炸原因",
+      "onboard_time": 1752481281,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142459,
       "num": 142459,
       "word": "鹿晗洒水差点把自己摔倒",
       "onboard_time": 1752468922,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 140630,
-      "num": 140630,
-      "word": "全国机动车驾驶人数量5.5亿人",
-      "onboard_time": 1752480141,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 140499,
@@ -1403,6 +1443,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 136498,
+      "num": 136498,
+      "word": "关晓彤在海边拍戏热迷糊了",
+      "onboard_time": 1752479000,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135334,
       "num": 135334,
       "word": "RV 檀健次",
@@ -1443,6 +1491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 132649,
+      "num": 132649,
+      "word": "黄子弘凡对马佳贴脸开大",
+      "onboard_time": 1752483023,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129816,
       "num": 129816,
       "word": "Apex",
@@ -1459,12 +1515,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 127546,
-      "num": 127546,
-      "word": "苏新皓你把铲丝当备忘录啊",
-      "onboard_time": 1752482122,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 128933,
+      "num": 335267,
+      "word": "国防部敦促日方深刻反省",
+      "onboard_time": 1752481342,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 127144,
@@ -1515,12 +1571,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 125479,
-      "num": 125479,
-      "word": "关晓彤在海边拍戏热迷糊了",
-      "onboard_time": 1752479000,
-      "rank": 42,
-      "category": "剧集"
+      "raw_hot": 124603,
+      "num": 124603,
+      "word": "鹿晗降窗和粉丝比耶合照",
+      "onboard_time": 1752482061,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 124115,
@@ -1603,14 +1659,6 @@
       "category": "汽车,财经"
     },
     {
-      "raw_hot": 120361,
-      "num": 120361,
-      "word": "鹿晗降窗和粉丝比耶合照",
-      "onboard_time": 1752482061,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 118041,
       "num": 118041,
       "word": "邓亚萍祝贺朱雨玲WTT夺冠",
@@ -1659,6 +1707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114621,
+      "num": 114621,
+      "word": "孟子义有万人迷那味儿了",
+      "onboard_time": 1752480202,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114459,
       "num": 114459,
       "word": "云南这个派出所连续36年长出鸡枞",
@@ -1681,6 +1737,14 @@
       "onboard_time": 1752470962,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114069,
+      "num": 114069,
+      "word": "5岁娃误食蚕豆后全身变黄进ICU",
+      "onboard_time": 1752483143,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113508,
@@ -1715,14 +1779,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 111496,
-      "num": 111496,
-      "word": "孟子义有万人迷那味儿了",
-      "onboard_time": 1752480202,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 109029,
       "num": 109029,
       "word": "KPOP混音卷王出现了",
@@ -1739,12 +1795,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 107521,
-      "num": 107521,
-      "word": "出片了 是鬼片",
-      "onboard_time": 1752481823,
-      "rank": 49,
-      "category": "幽默"
+      "raw_hot": 107051,
+      "num": 107051,
+      "word": "建议不要边吃饭边看朝雪录",
+      "onboard_time": 1752483082,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 106138,
@@ -1777,6 +1833,38 @@
       "onboard_time": 1752454222,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100522,
+      "num": 100522,
+      "word": "明日方舟 朝陇山",
+      "onboard_time": 1752483261,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 97716,
+      "num": 97716,
+      "word": "王鹤棣蓝色狼尾look",
+      "onboard_time": 1752483261,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 97592,
+      "num": 97592,
+      "word": "谢娜今天我就给你们七个一起挂",
+      "onboard_time": 1752482662,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 97372,
+      "num": 160232,
+      "word": "天津一大厦抓拍顾客公开标男神女神",
+      "onboard_time": 1752482481,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97128,
@@ -1915,14 +2003,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 81128,
-      "num": 335267,
-      "word": "国防部敦促日方深刻反省",
-      "onboard_time": 1752481342,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 80496,
       "num": 80496,
       "word": "辛纳vs阿尔卡拉斯",
@@ -1961,14 +2041,6 @@
       "onboard_time": 1752432555,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 66831,
-      "num": 228490,
-      "word": "台湾超级电池工厂爆炸原因",
-      "onboard_time": 1752481281,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 65321,

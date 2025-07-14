@@ -1,0 +1,410 @@
+{
+  "runTime": 1752483286828,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1109896,
+        "num": 1177583,
+        "word": "奶茶店一女员工偷换店内收款二维码",
+        "onboard_time": 1752478882,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 839717,
+        "num": 839717,
+        "word": "环卫工翻垃圾找手表为何暖心变闹心",
+        "onboard_time": 1752480083,
+        "rank": 1,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 34912,
+        "num": 707331,
+        "word": "未来一周大范围高温来袭",
+        "onboard_time": 1752414624,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 694410,
+        "num": 694410,
+        "word": "西安地震",
+        "onboard_time": 1752466282,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 616290,
+        "num": 616290,
+        "word": "侃爷发文感谢中国粉丝",
+        "onboard_time": 1752478941,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 470693,
+        "num": 470693,
+        "word": "迪丽热巴龚俊或二搭",
+        "onboard_time": 1752479603,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 397623,
+        "num": 397623,
+        "word": "韩国一个西瓜涨到156元",
+        "onboard_time": 1752471140,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 365678,
+        "num": 365678,
+        "word": "林俊杰心脏",
+        "onboard_time": 1752415406,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 357167,
+        "num": 357167,
+        "word": "女子替前夫还贷40万被指自作多情",
+        "onboard_time": 1752480622,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 343845,
+        "num": 343845,
+        "word": "田栩宁沈月同框拍戏",
+        "onboard_time": 1752477142,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 723976,
+        "num": 342910,
+        "word": "女子坐月子一天吃五十个鸡蛋",
+        "onboard_time": 1752480022,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 556020,
+        "num": 329949,
+        "word": "刘轩丞 太难了我尽力了",
+        "onboard_time": 1752479961,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 487584,
+        "num": 319435,
+        "word": "出片了 是鬼片",
+        "onboard_time": 1752481823,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 487207,
+        "num": 313786,
+        "word": "被女子强搂亲吻男孩妈妈最新发声",
+        "onboard_time": 1752476482,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309742,
+        "num": 309742,
+        "word": "曝王牌对王牌9阵容",
+        "onboard_time": 1752479481,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281254,
+        "num": 281254,
+        "word": "田栩宁没开车门直接从跑车上跨下了",
+        "onboard_time": 1752481281,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274537,
+        "num": 274537,
+        "word": "官方回应环卫工翻垃圾找手表引质疑",
+        "onboard_time": 1752469462,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229477,
+        "num": 229477,
+        "word": "女子被造黄谣维权3年造谣者拒赔偿",
+        "onboard_time": 1752470782,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221035,
+        "num": 221035,
+        "word": "孙燕姿南京演唱会抢票",
+        "onboard_time": 1752478401,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141852,
+        "num": 215913,
+        "word": "REDMI首部短剧",
+        "onboard_time": 1752481942,
+        "rank": 19,
+        "category": "数码,剧集"
+      },
+      {
+        "raw_hot": 211873,
+        "num": 211873,
+        "word": "英伟达回应黄仁勋雷军合照",
+        "onboard_time": 1752481582,
+        "rank": 20,
+        "category": "数码,财经"
+      },
+      {
+        "raw_hot": 209662,
+        "num": 209662,
+        "word": "赵今麦是王子张凌赫是公主",
+        "onboard_time": 1752477262,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204142,
+        "num": 204142,
+        "word": "成毅allblack造型路透",
+        "onboard_time": 1752479243,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203996,
+        "num": 203996,
+        "word": "陈果回应和宋亚轩旧照被考古",
+        "onboard_time": 1752482662,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201793,
+        "num": 201793,
+        "word": "新疆的小孩一出生就带全妆",
+        "onboard_time": 1752460461,
+        "rank": 24,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 200325,
+        "num": 200325,
+        "word": "向往的生活",
+        "onboard_time": 1752470062,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179849,
+        "num": 179849,
+        "word": "真的梓渝捡手机",
+        "onboard_time": 1752476540,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172604,
+        "num": 172604,
+        "word": "樱桃琥珀热度",
+        "onboard_time": 1752478164,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160522,
+        "num": 160522,
+        "word": "苏新皓你把铲丝当备忘录啊",
+        "onboard_time": 1752482122,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97372,
+        "num": 160232,
+        "word": "天津一大厦抓拍顾客公开标男神女神",
+        "onboard_time": 1752482481,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160012,
+        "num": 160012,
+        "word": "儿子去世后母亲客厅停尸5个月",
+        "onboard_time": 1752475102,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164200,
+        "num": 159158,
+        "word": "梓渝跳了粟米摇",
+        "onboard_time": 1752482662,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157944,
+        "num": 157944,
+        "word": "小狗伤心时会哞的一声哭出来",
+        "onboard_time": 1752481642,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152890,
+        "num": 152890,
+        "word": "全国机动车驾驶人数量5.5亿人",
+        "onboard_time": 1752480141,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142874,
+        "num": 142874,
+        "word": "台湾超级电池工厂爆炸原因",
+        "onboard_time": 1752481281,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136498,
+        "num": 136498,
+        "word": "关晓彤在海边拍戏热迷糊了",
+        "onboard_time": 1752479000,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132649,
+        "num": 132649,
+        "word": "黄子弘凡对马佳贴脸开大",
+        "onboard_time": 1752483023,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129990,
+        "num": 129990,
+        "word": "黄仁勋与雷军合影",
+        "onboard_time": 1752480022,
+        "rank": 37,
+        "category": "数码,财经"
+      },
+      {
+        "raw_hot": 128933,
+        "num": 128933,
+        "word": "国防部敦促日方深刻反省",
+        "onboard_time": 1752481342,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124603,
+        "num": 124603,
+        "word": "鹿晗降窗和粉丝比耶合照",
+        "onboard_time": 1752482061,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115400,
+        "num": 115400,
+        "word": "张凌赫王楚然身材",
+        "onboard_time": 1752470182,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114651,
+        "num": 114651,
+        "word": "朴彩英VOGUE韩版周年刊",
+        "onboard_time": 1752480141,
+        "rank": 41,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 114621,
+        "num": 114621,
+        "word": "孟子义有万人迷那味儿了",
+        "onboard_time": 1752480202,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114069,
+        "num": 114069,
+        "word": "5岁娃误食蚕豆后全身变黄进ICU",
+        "onboard_time": 1752483143,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111582,
+        "num": 111582,
+        "word": "Oakley 王楚钦",
+        "onboard_time": 1752471442,
+        "rank": 44,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 107051,
+        "num": 107051,
+        "word": "建议不要边吃饭边看朝雪录",
+        "onboard_time": 1752483082,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100522,
+        "num": 100522,
+        "word": "明日方舟 朝陇山",
+        "onboard_time": 1752483261,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 99329,
+        "num": 99329,
+        "word": "帮儿子做饼干奚梦瑶有的是力气",
+        "onboard_time": 1752480500,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97716,
+        "num": 97716,
+        "word": "王鹤棣蓝色狼尾look",
+        "onboard_time": 1752483261,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97592,
+        "num": 97592,
+        "word": "谢娜今天我就给你们七个一起挂",
+        "onboard_time": 1752482662,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#持之以恒纠治四风#"
+    }
+  }
+}
