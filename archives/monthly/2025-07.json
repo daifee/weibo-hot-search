@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752518420448,
+  "endTime": 1752519303213,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -49403,6 +49403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 16021,
+      "num": 25633,
+      "word": "朝雪录首播成绩",
+      "onboard_time": 1752517514,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 16016,
       "num": 19416,
       "word": "李现蒋长扬盔甲新皮肤",
@@ -49785,6 +49793,14 @@
       "onboard_time": 1751927897,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12144,
+      "num": 45822,
+      "word": "山东舰与彩虹同框",
+      "onboard_time": 1752518656,
+      "rank": 9,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 12126,

@@ -1,6 +1,6 @@
 {
   "startTime": 1752510927124,
-  "endTime": 1752518420448,
+  "endTime": 1752519303213,
   "band_list": [
     {
       "raw_hot": 873195,
@@ -481,6 +481,22 @@
       "onboard_time": 1752517695,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 16021,
+      "num": 25633,
+      "word": "朝雪录首播成绩",
+      "onboard_time": 1752517514,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 12144,
+      "num": 45822,
+      "word": "山东舰与彩虹同框",
+      "onboard_time": 1752518656,
+      "rank": 9,
+      "category": "国内时政,军事"
     }
   ],
   "hotgov_list": [
