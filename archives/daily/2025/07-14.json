@@ -1,6 +1,6 @@
 {
   "startTime": 1752424285355,
-  "endTime": 1752503327213,
+  "endTime": 1752504444663,
   "band_list": [
     {
       "raw_hot": 5991584,
@@ -115,8 +115,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1189722,
+      "num": 1189722,
+      "word": "韩国发生热通胀",
+      "onboard_time": 1752501022,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1148094,
-      "num": 746691,
+      "num": 798232,
       "word": "连体人姐姐要结婚妹妹要单身",
       "onboard_time": 1752492382,
       "rank": 30,
@@ -275,14 +283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 665140,
-      "num": 665140,
-      "word": "韩国发生热通胀",
-      "onboard_time": 1752501022,
-      "rank": 34,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 663136,
       "num": 663136,
       "word": "年轻人为何都不愿结婚",
@@ -353,6 +353,14 @@
       "onboard_time": 1752470062,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 605399,
+      "num": 440162,
+      "word": "蒋欣吃关晓彤同款彩椒碗",
+      "onboard_time": 1752500304,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 602000,
@@ -433,14 +441,6 @@
       "onboard_time": 1752488722,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 547880,
-      "num": 440162,
-      "word": "蒋欣吃关晓彤同款彩椒碗",
-      "onboard_time": 1752500304,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 547308,
@@ -731,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 341724,
+      "num": 341724,
+      "word": "男子被控因孕期拒绝同房杀妻",
+      "onboard_time": 1752499463,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 329604,
       "num": 329604,
       "word": "留几手谈大连工业被开除女生",
@@ -891,6 +899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 273493,
+      "num": 327596,
+      "word": "左手田栩宁右手敖瑞鹏",
+      "onboard_time": 1752502824,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 270572,
       "num": 270572,
       "word": "12306回应乘客高铁上用小型电煮锅",
@@ -929,6 +945,14 @@
       "onboard_time": 1752464483,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 256124,
+      "num": 256124,
+      "word": "金裕贞短发",
+      "onboard_time": 1752503484,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 254138,
@@ -1043,14 +1067,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 229195,
-      "num": 229195,
-      "word": "男子被控因孕期拒绝同房杀妻",
-      "onboard_time": 1752499463,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 224873,
       "num": 374448,
       "word": "台湾超级电池工厂爆炸",
@@ -1067,6 +1083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224682,
+      "num": 329050,
+      "word": "周杰伦晒与权志龙合影",
+      "onboard_time": 1752503423,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220765,
       "num": 220765,
       "word": "田栩宁厦门飞杭州路透",
@@ -1080,6 +1104,14 @@
       "word": "李昀锐在跑男一天吃15顿",
       "onboard_time": 1752418708,
       "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 218169,
+      "num": 218169,
+      "word": "什么综艺还没播但群像味已经出来了",
+      "onboard_time": 1752497842,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -1129,6 +1161,14 @@
       "onboard_time": 1752473961,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 214162,
+      "num": 878218,
+      "word": "医生支招高温天吃什么更解暑",
+      "onboard_time": 1752499343,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 213888,
@@ -1363,14 +1403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 195779,
-      "num": 195779,
-      "word": "左手田栩宁右手敖瑞鹏",
-      "onboard_time": 1752502824,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 194881,
       "num": 194881,
       "word": "当医生问年龄时千万别说虚岁",
@@ -1417,14 +1449,6 @@
       "onboard_time": 1752484701,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 189434,
-      "num": 747228,
-      "word": "医生支招高温天吃什么更解暑",
-      "onboard_time": 1752499343,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 189349,
@@ -1531,14 +1555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 182731,
-      "num": 182731,
-      "word": "什么综艺还没播但群像味已经出来了",
-      "onboard_time": 1752497842,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 182701,
       "num": 182701,
       "word": "朝雪录",
@@ -1553,6 +1569,14 @@
       "onboard_time": 1752465143,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 181238,
+      "num": 181238,
+      "word": "徐祥",
+      "onboard_time": 1752501925,
+      "rank": 25,
+      "category": "网红"
     },
     {
       "raw_hot": 179350,
@@ -1585,14 +1609,6 @@
       "onboard_time": 1752412884,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 177100,
-      "num": 177100,
-      "word": "徐祥",
-      "onboard_time": 1752501925,
-      "rank": 25,
-      "category": "网红"
     },
     {
       "raw_hot": 176936,
@@ -1721,6 +1737,14 @@
       "onboard_time": 1752420205,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166200,
+      "num": 154403,
+      "word": "郑秀晶现身温网",
+      "onboard_time": 1752500603,
+      "rank": 47,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 165136,
@@ -1939,14 +1963,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 150566,
-      "num": 148260,
-      "word": "郑秀晶现身温网",
-      "onboard_time": 1752500603,
-      "rank": 47,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 150095,
       "num": 150095,
       "word": "下午还没起床的妹妹被妈妈缝床上了",
@@ -2009,6 +2025,14 @@
       "onboard_time": 1752473782,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147138,
+      "num": 147138,
+      "word": "梓渝18岁确实甜心",
+      "onboard_time": 1752503302,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 146954,
@@ -2203,6 +2227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135968,
+      "num": 148375,
+      "word": "印航空难56岁机长成调查焦点",
+      "onboard_time": 1752499343,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 135334,
       "num": 135334,
       "word": "RV 檀健次",
@@ -2243,6 +2275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 133019,
+      "num": 126538,
+      "word": "李兰迪妲己幼年体",
+      "onboard_time": 1752503844,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132895,
       "num": 116099,
       "word": "梓渝不语只是一味干饭",
@@ -2273,6 +2313,14 @@
       "onboard_time": 1752498023,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130072,
+      "num": 130072,
+      "word": "长安的荔枝",
+      "onboard_time": 1752503543,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 129816,
@@ -2339,6 +2387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127061,
+      "num": 127061,
+      "word": "小海绵被妈妈养的很好",
+      "onboard_time": 1752504324,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127015,
       "num": 249222,
       "word": "我的非凡夏日时刻",
@@ -2377,14 +2433,6 @@
       "onboard_time": 1752413904,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 125898,
-      "num": 148375,
-      "word": "印航空难56岁机长成调查焦点",
-      "onboard_time": 1752499343,
-      "rank": 41,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 125586,
@@ -2603,6 +2651,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 116224,
+      "num": 116224,
+      "word": "发现身边人一攒点钱就去旅游了",
+      "onboard_time": 1752504023,
+      "rank": 46,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 115892,
       "num": 115892,
       "word": "艾福杰尼又又又来参加新疆婚礼",
@@ -2625,6 +2681,14 @@
       "onboard_time": 1752459022,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114654,
+      "num": 441774,
+      "word": "美国党logo或来自粉丝",
+      "onboard_time": 1752502405,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 114621,
@@ -2777,14 +2841,6 @@
       "onboard_time": 1752460581,
       "rank": 44,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 105358,
-      "num": 105358,
-      "word": "梓渝18岁确实甜心",
-      "onboard_time": 1752503302,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 105261,
@@ -3043,6 +3099,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 88648,
+      "num": 343382,
+      "word": "特朗普称美国上月通过关税赚了250亿",
+      "onboard_time": 1752503484,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 83766,
       "num": 83766,
       "word": "能把家打扫得很干净的人都不简单",
@@ -3115,14 +3179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 72702,
-      "num": 441774,
-      "word": "美国党logo或来自粉丝",
-      "onboard_time": 1752502405,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 71726,
       "num": 71726,
       "word": "2025世俱杯",
@@ -3137,6 +3193,14 @@
       "onboard_time": 1752488002,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 67437,
+      "num": 364559,
+      "word": "救人被质疑袭胸男子称再遇到还会救",
+      "onboard_time": 1752503663,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65321,
@@ -3267,11 +3331,27 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 39826,
+      "num": 164238,
+      "word": "黄仁勋称中国军方不会使用美国技术",
+      "onboard_time": 1752504142,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 39439,
       "num": 217344,
       "word": "19岁疑被骗缅甸男生刚复读高考完",
       "onboard_time": 1752482542,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38326,
+      "num": 155077,
+      "word": "会员称山姆与超市相比越来越同质化",
+      "onboard_time": 1752504142,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -3305,6 +3385,14 @@
       "onboard_time": 1752496703,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 30983,
+      "num": 216911,
+      "word": "患者称领到过期八个月注射性药品",
+      "onboard_time": 1752502884,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27185,
@@ -3441,14 +3529,6 @@
       "onboard_time": 1752489322,
       "rank": 49,
       "category": "情感,教育"
-    },
-    {
-      "raw_hot": 11740,
-      "num": 216911,
-      "word": "患者称领到过期八个月注射性药品",
-      "onboard_time": 1752502884,
-      "rank": 19,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
