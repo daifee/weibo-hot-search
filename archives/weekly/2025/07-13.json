@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752492283637,
+  "endTime": 1752493215571,
   "band_list": [
     {
       "raw_hot": 14050966,
@@ -155,6 +155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1269162,
+      "num": 1269162,
+      "word": "尾号77777777手机号320万元拍出",
+      "onboard_time": 1752488241,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1254726,
       "num": 274924,
       "word": "小海绵干嘛呢",
@@ -192,14 +200,6 @@
       "word": "奶茶店一女员工偷换店内收款二维码",
       "onboard_time": 1752478882,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1241579,
-      "num": 1241579,
-      "word": "尾号77777777手机号320万元拍出",
-      "onboard_time": 1752488241,
-      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -321,6 +321,14 @@
       "onboard_time": 1752457760,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1016015,
+      "num": 824846,
+      "word": "金子涵退圈后首个活动",
+      "onboard_time": 1752490042,
+      "rank": 38,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 998606,
@@ -489,14 +497,6 @@
       "onboard_time": 1752377541,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 824846,
-      "num": 824846,
-      "word": "金子涵退圈后首个活动",
-      "onboard_time": 1752490042,
-      "rank": 38,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 807925,
@@ -1243,6 +1243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 370827,
+      "num": 370827,
+      "word": "给翻垃圾环卫工的红包是谁拒收的",
+      "onboard_time": 1752489144,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 370041,
       "num": 305841,
       "word": "50岁女子意外怀孕诱发罕见癌症",
@@ -1419,14 +1427,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 326468,
-      "num": 326468,
-      "word": "给翻垃圾环卫工的红包是谁拒收的",
-      "onboard_time": 1752489144,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 325394,
       "num": 325394,
       "word": "女子昏厥男子跪地心肺复苏被指袭胸",
@@ -1441,6 +1441,14 @@
       "onboard_time": 1752328702,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 320535,
+      "num": 320535,
+      "word": "吃出半只蟑螂又从喉咙抠出另外半只",
+      "onboard_time": 1752489501,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 317171,
@@ -1505,6 +1513,14 @@
       "onboard_time": 1752458360,
       "rank": 30,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 304303,
+      "num": 128118,
+      "word": "连体人姐姐要结婚妹妹要单身",
+      "onboard_time": 1752492382,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 301117,
@@ -1721,6 +1737,14 @@
       "onboard_time": 1752385040,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270572,
+      "num": 270572,
+      "word": "12306回应乘客高铁上用小型电煮锅",
+      "onboard_time": 1752489021,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 268791,
@@ -1979,14 +2003,6 @@
       "category": "演出,民生新闻"
     },
     {
-      "raw_hot": 224953,
-      "num": 224953,
-      "word": "12306回应乘客高铁上用小型电煮锅",
-      "onboard_time": 1752489021,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 224873,
       "num": 374448,
       "word": "台湾超级电池工厂爆炸",
@@ -2225,6 +2241,14 @@
       "onboard_time": 1752466462,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 208332,
+      "num": 208332,
+      "word": "央视网评嘻哈为空乘群体发声",
+      "onboard_time": 1752491183,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 207660,
@@ -2505,6 +2529,22 @@
       "onboard_time": 1752466163,
       "rank": 32,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 191654,
+      "num": 191654,
+      "word": "Clearlove加入JDG",
+      "onboard_time": 1752492803,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 191512,
+      "num": 191512,
+      "word": "一到晚上就想吃夜宵是什么病",
+      "onboard_time": 1752492382,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 190953,
@@ -2851,12 +2891,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175736,
-      "num": 175736,
-      "word": "吃出半只蟑螂又从喉咙抠出另外半只",
-      "onboard_time": 1752489501,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 176389,
+      "num": 176389,
+      "word": "时代少年团手握荆棘大片",
+      "onboard_time": 1752492503,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 175695,
@@ -3216,6 +3256,14 @@
       "word": "WTT",
       "onboard_time": 1752374299,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 162839,
+      "num": 162839,
+      "word": "赵立坚恭喜王楚钦",
+      "onboard_time": 1752492503,
+      "rank": 22,
       "category": "体育"
     },
     {
@@ -3795,6 +3843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140590,
+      "num": 140590,
+      "word": "赵今麦双马尾梦回李诗情",
+      "onboard_time": 1752492023,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140563,
       "num": 140563,
       "word": "周日给人一种很亏的感觉",
@@ -3971,6 +4027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136794,
+      "num": 191385,
+      "word": "Angelababy和爱马仕总监老友合照再加一",
+      "onboard_time": 1752491423,
+      "rank": 34,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 136498,
       "num": 136498,
       "word": "关晓彤在海边拍戏热迷糊了",
@@ -4076,7 +4140,7 @@
     },
     {
       "raw_hot": 132895,
-      "num": 111453,
+      "num": 116099,
       "word": "梓渝不语只是一味干饭",
       "onboard_time": 1752490882,
       "rank": 30,
@@ -4209,14 +4273,6 @@
       "onboard_time": 1752490103,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 128484,
-      "num": 178428,
-      "word": "央视网评嘻哈为空乘群体发声",
-      "onboard_time": 1752491183,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 128425,
@@ -4611,6 +4667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118656,
+      "num": 118656,
+      "word": "正当防卫12集白敬亭做局",
+      "onboard_time": 1752492622,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118409,
       "num": 151553,
       "word": "女篮亚洲杯",
@@ -4713,6 +4777,14 @@
       "onboard_time": 1752363076,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116747,
+      "num": 116747,
+      "word": "杭州一小学有家长称多名孩子流鼻血",
+      "onboard_time": 1752492203,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116655,
@@ -4884,7 +4956,7 @@
     },
     {
       "raw_hot": 112253,
-      "num": 112253,
+      "num": 191390,
       "word": "李兰迪人生妆造加一",
       "onboard_time": 1752487281,
       "rank": 43,
@@ -4955,14 +5027,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 110183,
-      "num": 110183,
-      "word": "Angelababy和爱马仕总监老友合照再加一",
-      "onboard_time": 1752491423,
-      "rank": 34,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 109631,
       "num": 227744,
       "word": "王曼昱背后击球失败逗笑众人",
@@ -5027,14 +5091,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 107814,
-      "num": 107814,
-      "word": "赵今麦双马尾梦回李诗情",
-      "onboard_time": 1752492023,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 107577,
       "num": 107577,
       "word": "正当防卫江婷无罪释放",
@@ -5089,6 +5145,14 @@
       "onboard_time": 1752398782,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105261,
+      "num": 105261,
+      "word": "张康乐白衣学长既视感",
+      "onboard_time": 1752491962,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 105049,
@@ -5267,20 +5331,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 99894,
-      "num": 99894,
-      "word": "张康乐白衣学长既视感",
-      "onboard_time": 1752491962,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 99094,
       "num": 99094,
       "word": "把我的医保卡给蒋长扬",
       "onboard_time": 1752399501,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98619,
+      "num": 98619,
+      "word": "打工人很需要冰可乐",
+      "onboard_time": 1752491962,
+      "rank": 44,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 98333,
@@ -5363,14 +5427,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 96401,
-      "num": 96401,
-      "word": "杭州一小学有家长称多名孩子流鼻血",
-      "onboard_time": 1752492203,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 96359,
       "num": 307234,
       "word": "罗小黑从自制TV到新闻联播",
@@ -5448,6 +5504,14 @@
       "word": "美国小选手与孙颖莎合影",
       "onboard_time": 1752475224,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 90926,
+      "num": 90926,
+      "word": "莫雷加德美国大满贯plog",
+      "onboard_time": 1752493101,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -5649,6 +5713,14 @@
       "onboard_time": 1752372861,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78159,
+      "num": 106595,
+      "word": "42度高温来了",
+      "onboard_time": 1752491543,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77831,
@@ -5916,7 +5988,7 @@
     },
     {
       "raw_hot": 49723,
-      "num": 101191,
+      "num": 116226,
       "word": "海关总署教你鉴别山寨Labubu",
       "onboard_time": 1752492262,
       "rank": 41,
@@ -5968,14 +6040,6 @@
       "word": "不少人站在店门口点外卖",
       "onboard_time": 1752377541,
       "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44677,
-      "num": 104683,
-      "word": "42度高温来了",
-      "onboard_time": 1752491543,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
