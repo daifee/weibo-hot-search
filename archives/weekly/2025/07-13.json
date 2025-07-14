@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752490131790,
+  "endTime": 1752492283637,
   "band_list": [
     {
       "raw_hot": 14050966,
@@ -192,6 +192,14 @@
       "word": "奶茶店一女员工偷换店内收款二维码",
       "onboard_time": 1752478882,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1241579,
+      "num": 1241579,
+      "word": "尾号77777777手机号320万元拍出",
+      "onboard_time": 1752488241,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -483,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 824846,
+      "num": 824846,
+      "word": "金子涵退圈后首个活动",
+      "onboard_time": 1752490042,
+      "rank": 38,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 807925,
       "num": 442040,
       "word": "前乒乓国手要求孙颖莎对手懂点事儿",
@@ -632,6 +648,14 @@
       "word": "哥哥隐瞒父亲死讯埋葬地被妹起诉",
       "onboard_time": 1752386422,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 681987,
+      "num": 681987,
+      "word": "网友怀疑气象部门刻意不报40度",
+      "onboard_time": 1752487942,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -795,14 +819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 566178,
-      "num": 566178,
-      "word": "网友怀疑气象部门刻意不报40度",
-      "onboard_time": 1752487942,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 556020,
       "num": 329949,
       "word": "刘轩丞 太难了我尽力了",
@@ -817,6 +833,14 @@
       "onboard_time": 1752476482,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 548646,
+      "num": 548646,
+      "word": "偶像剧不准用折叠伞",
+      "onboard_time": 1752488722,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 548287,
@@ -979,22 +1003,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 476542,
-      "num": 476542,
-      "word": "偶像剧不准用折叠伞",
-      "onboard_time": 1752488722,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 472436,
-      "num": 472436,
-      "word": "尾号77777777手机号320万元拍出",
-      "onboard_time": 1752488241,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 463783,
       "num": 373835,
       "word": "苏醒真实人品",
@@ -1097,6 +1105,14 @@
       "onboard_time": 1752395361,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 418033,
+      "num": 418033,
+      "word": "迪丽热巴方否认二搭开启",
+      "onboard_time": 1752489322,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 416688,
@@ -1401,6 +1417,14 @@
       "onboard_time": 1752375441,
       "rank": 20,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 326468,
+      "num": 326468,
+      "word": "给翻垃圾环卫工的红包是谁拒收的",
+      "onboard_time": 1752489144,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 325394,
@@ -1939,14 +1963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 228600,
-      "num": 228600,
-      "word": "迪丽热巴方否认二搭开启",
-      "onboard_time": 1752489322,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 226731,
       "num": 226731,
       "word": "刺痛Gemini直播",
@@ -1961,6 +1977,14 @@
       "onboard_time": 1752382882,
       "rank": 14,
       "category": "演出,民生新闻"
+    },
+    {
+      "raw_hot": 224953,
+      "num": 224953,
+      "word": "12306回应乘客高铁上用小型电煮锅",
+      "onboard_time": 1752489021,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 224873,
@@ -2827,6 +2851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175736,
+      "num": 175736,
+      "word": "吃出半只蟑螂又从喉咙抠出另外半只",
+      "onboard_time": 1752489501,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175695,
       "num": 228973,
       "word": "彭昱畅刚瘦回日系花美男",
@@ -2913,14 +2945,6 @@
       "onboard_time": 1752392061,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 172355,
-      "num": 241599,
-      "word": "给翻垃圾环卫工的红包是谁拒收的",
-      "onboard_time": 1752489144,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 172005,
@@ -3081,6 +3105,14 @@
       "onboard_time": 1752476901,
       "rank": 32,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 166757,
+      "num": 166757,
+      "word": "金晨真记住了宋亚轩的狗叫鼠标",
+      "onboard_time": 1752491242,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 166692,
@@ -3475,14 +3507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 151294,
-      "num": 151294,
-      "word": "12306回应乘客高铁上用小型电煮锅",
-      "onboard_time": 1752489021,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 150386,
       "num": 150386,
       "word": "斯瓦泰克大满贯第六冠",
@@ -3617,14 +3641,6 @@
       "onboard_time": 1752423262,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 146931,
-      "num": 146931,
-      "word": "吃出半只蟑螂又从喉咙抠出另外半只",
-      "onboard_time": 1752489501,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 146834,
@@ -4059,6 +4075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132895,
+      "num": 111453,
+      "word": "梓渝不语只是一味干饭",
+      "onboard_time": 1752490882,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132728,
       "num": 132728,
       "word": "国产剧阴湿赛道的纯元回宫",
@@ -4105,14 +4129,6 @@
       "onboard_time": 1752316701,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 130494,
-      "num": 130494,
-      "word": "金子涵退圈后首个活动",
-      "onboard_time": 1752490042,
-      "rank": 38,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 130135,
@@ -4193,6 +4209,14 @@
       "onboard_time": 1752490103,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 128484,
+      "num": 178428,
+      "word": "央视网评嘻哈为空乘群体发声",
+      "onboard_time": 1752491183,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 128425,
@@ -4667,6 +4691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117462,
+      "num": 117462,
+      "word": "张雅钦神性与慈悲具像化了",
+      "onboard_time": 1752490581,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117396,
       "num": 126247,
       "word": "外卖大战平台到底在打什么",
@@ -4883,6 +4915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111370,
+      "num": 161440,
+      "word": "母亲曝儿子缅甸失联后通话内容",
+      "onboard_time": 1752489742,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111369,
       "num": 111369,
       "word": "A股13家公司净利最高预增超800%",
@@ -4907,8 +4947,24 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110547,
+      "num": 230519,
+      "word": "环卫劳动尊严比8吨垃圾更值得关注",
+      "onboard_time": 1752489082,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110183,
+      "num": 110183,
+      "word": "Angelababy和爱马仕总监老友合照再加一",
+      "onboard_time": 1752491423,
+      "rank": 34,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 109631,
-      "num": 109631,
+      "num": 227744,
       "word": "王曼昱背后击球失败逗笑众人",
       "onboard_time": 1752487701,
       "rank": 45,
@@ -4968,6 +5024,14 @@
       "word": "这是真砍恋爱脑了",
       "onboard_time": 1752402321,
       "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 107814,
+      "num": 107814,
+      "word": "赵今麦双马尾梦回李诗情",
+      "onboard_time": 1752492023,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -5203,6 +5267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 99894,
+      "num": 99894,
+      "word": "张康乐白衣学长既视感",
+      "onboard_time": 1752491962,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99094,
       "num": 99094,
       "word": "把我的医保卡给蒋长扬",
@@ -5217,6 +5289,14 @@
       "onboard_time": 1752400221,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97988,
+      "num": 97988,
+      "word": "东莞对酒吧娱乐场所驻唱应批尽批",
+      "onboard_time": 1752492203,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97896,
@@ -5281,6 +5361,14 @@
       "onboard_time": 1752336921,
       "rank": 44,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 96401,
+      "num": 96401,
+      "word": "杭州一小学有家长称多名孩子流鼻血",
+      "onboard_time": 1752492203,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96359,
@@ -5708,7 +5796,7 @@
     },
     {
       "raw_hot": 60290,
-      "num": 549595,
+      "num": 707375,
       "word": "上半年我国进出口同比增长2.9%",
       "onboard_time": 1752485423,
       "rank": 2,
@@ -5795,14 +5883,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 50869,
-      "num": 230519,
-      "word": "环卫劳动尊严比8吨垃圾更值得关注",
-      "onboard_time": 1752489082,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 50505,
       "num": 295155,
       "word": "韭菜花上高速是否该收通行费",
@@ -5833,6 +5913,14 @@
       "onboard_time": 1752339739,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 49723,
+      "num": 101191,
+      "word": "海关总署教你鉴别山寨Labubu",
+      "onboard_time": 1752492262,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48438,
@@ -5883,20 +5971,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44677,
+      "num": 104683,
+      "word": "42度高温来了",
+      "onboard_time": 1752491543,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43408,
       "num": 51017,
       "word": "超人",
       "onboard_time": 1752341421,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 43353,
-      "num": 161440,
-      "word": "母亲曝儿子缅甸失联后通话内容",
-      "onboard_time": 1752489742,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39825,
@@ -6025,6 +6113,14 @@
       "onboard_time": 1752465682,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26690,
+      "num": 94642,
+      "word": "连云港就是最美的港口城市",
+      "onboard_time": 1752491842,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 26142,

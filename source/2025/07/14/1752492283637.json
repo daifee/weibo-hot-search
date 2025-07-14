@@ -1,0 +1,410 @@
+{
+  "runTime": 1752492283637,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1241579,
+        "num": 1241579,
+        "word": "尾号77777777手机号320万元拍出",
+        "onboard_time": 1752488241,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 824846,
+        "num": 824846,
+        "word": "金子涵退圈后首个活动",
+        "onboard_time": 1752490042,
+        "rank": 1,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 45287,
+        "num": 707375,
+        "word": "上半年我国进出口同比增长2.9%",
+        "onboard_time": 1752485423,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 681987,
+        "num": 681987,
+        "word": "网友怀疑气象部门刻意不报40度",
+        "onboard_time": 1752487942,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 548646,
+        "num": 548646,
+        "word": "偶像剧不准用折叠伞",
+        "onboard_time": 1752488722,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1144520,
+        "num": 529996,
+        "word": "外卖大战已经进阶到负4元购了",
+        "onboard_time": 1752486925,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 508141,
+        "num": 508141,
+        "word": "鹿晗发了二十张自拍",
+        "onboard_time": 1752487822,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 418033,
+        "num": 418033,
+        "word": "迪丽热巴方否认二搭开启",
+        "onboard_time": 1752489322,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326468,
+        "num": 326468,
+        "word": "给翻垃圾环卫工的红包是谁拒收的",
+        "onboard_time": 1752489144,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247245,
+        "num": 247245,
+        "word": "奶茶店一女员工偷换店内收款二维码",
+        "onboard_time": 1752478882,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 909174,
+        "num": 244269,
+        "word": "小海绵干嘛呢",
+        "onboard_time": 1752485962,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345879,
+        "num": 240515,
+        "word": "金世佳增肥了吗",
+        "onboard_time": 1752486263,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312521,
+        "num": 237447,
+        "word": "出片了 是鬼片",
+        "onboard_time": 1752481823,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 265057,
+        "num": 232653,
+        "word": "超级暂停",
+        "onboard_time": 1752485122,
+        "rank": 13,
+        "category": "互联网,作品衍生"
+      },
+      {
+        "raw_hot": 255622,
+        "num": 231911,
+        "word": "金子涵近照瘦了好多",
+        "onboard_time": 1752487882,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91716,
+        "num": 227744,
+        "word": "王曼昱背后击球失败逗笑众人",
+        "onboard_time": 1752487701,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224953,
+        "num": 224953,
+        "word": "12306回应乘客高铁上用小型电煮锅",
+        "onboard_time": 1752489021,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202073,
+        "num": 202073,
+        "word": "中共中央关于加强新时代审判工作的意见",
+        "onboard_time": 1752486861,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 128484,
+        "num": 178428,
+        "word": "央视网评嘻哈为空乘群体发声",
+        "onboard_time": 1752491183,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178234,
+        "num": 178234,
+        "word": "环卫工翻垃圾找手表为何暖心变闹心",
+        "onboard_time": 1752480083,
+        "rank": 19,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 347982,
+        "num": 177701,
+        "word": "韩国女演员姜瑞夏胃癌去世",
+        "onboard_time": 1752485002,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175736,
+        "num": 175736,
+        "word": "吃出半只蟑螂又从喉咙抠出另外半只",
+        "onboard_time": 1752489501,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168291,
+        "num": 168291,
+        "word": "田栩宁没开车门直接从跑车上跨下了",
+        "onboard_time": 1752481281,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166757,
+        "num": 166757,
+        "word": "金晨真记住了宋亚轩的狗叫鼠标",
+        "onboard_time": 1752491242,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150791,
+        "num": 150791,
+        "word": "梓渝你的丑衣服来了",
+        "onboard_time": 1752488542,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132869,
+        "num": 132869,
+        "word": "女子坐月子一天吃五十个鸡蛋",
+        "onboard_time": 1752480022,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132309,
+        "num": 132309,
+        "word": "西安地震",
+        "onboard_time": 1752466282,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125570,
+        "num": 125570,
+        "word": "乌克兰人凑钱请俄军炸毁征兵办",
+        "onboard_time": 1752488603,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117462,
+        "num": 117462,
+        "word": "张雅钦神性与慈悲具像化了",
+        "onboard_time": 1752490581,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111461,
+        "num": 111461,
+        "word": "朝雪录",
+        "onboard_time": 1752488361,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132895,
+        "num": 111453,
+        "word": "梓渝不语只是一味干饭",
+        "onboard_time": 1752490882,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120635,
+        "num": 111437,
+        "word": "朱雨玲父亲发声",
+        "onboard_time": 1752487642,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111370,
+        "num": 111370,
+        "word": "母亲曝儿子缅甸失联后通话内容",
+        "onboard_time": 1752489742,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110547,
+        "num": 110547,
+        "word": "环卫劳动尊严比8吨垃圾更值得关注",
+        "onboard_time": 1752489082,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110183,
+        "num": 110183,
+        "word": "Angelababy和爱马仕总监老友合照再加一",
+        "onboard_time": 1752491423,
+        "rank": 34,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 107814,
+        "num": 107814,
+        "word": "赵今麦双马尾梦回李诗情",
+        "onboard_time": 1752492023,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106509,
+        "num": 106509,
+        "word": "by2回复林俊杰",
+        "onboard_time": 1752489681,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105890,
+        "num": 105890,
+        "word": "33这么瘦还这么自律",
+        "onboard_time": 1752487701,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 44677,
+        "num": 104683,
+        "word": "42度高温来了",
+        "onboard_time": 1752491543,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103494,
+        "num": 103494,
+        "word": "孙俪陪2个孩子在海里呆2小时找海龟",
+        "onboard_time": 1752489622,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101744,
+        "num": 101744,
+        "word": "别人夸你漂亮优秀怎么办",
+        "onboard_time": 1752490103,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 49723,
+        "num": 101191,
+        "word": "海关总署教你鉴别山寨Labubu",
+        "onboard_time": 1752492262,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100850,
+        "num": 100850,
+        "word": "家里最没用的耽误了最有用的人一天",
+        "onboard_time": 1752489201,
+        "rank": 42,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 99894,
+        "num": 99894,
+        "word": "张康乐白衣学长既视感",
+        "onboard_time": 1752491962,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98527,
+        "num": 98527,
+        "word": "女子替前夫还贷40万被指自作多情",
+        "onboard_time": 1752480622,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98167,
+        "num": 98167,
+        "word": "也没人告诉我民宿进化成这样了",
+        "onboard_time": 1752487761,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97988,
+        "num": 97988,
+        "word": "东莞对酒吧娱乐场所驻唱应批尽批",
+        "onboard_time": 1752492203,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96424,
+        "num": 96424,
+        "word": "手机充电一整夜会更伤电池吗",
+        "onboard_time": 1752485840,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 96401,
+        "num": 96401,
+        "word": "杭州一小学有家长称多名孩子流鼻血",
+        "onboard_time": 1752492203,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26690,
+        "num": 94642,
+        "word": "连云港就是最美的港口城市",
+        "onboard_time": 1752491842,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#城市发展不仅要见物更要见人#"
+    }
+  }
+}
