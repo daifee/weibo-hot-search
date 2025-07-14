@@ -1,0 +1,410 @@
+{
+  "runTime": 1752466032617,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2299420,
+        "num": 2299420,
+        "word": "王楚钦美国大满贯夺冠",
+        "onboard_time": 1752462981,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1087832,
+        "num": 1087832,
+        "word": "迅猛龙晒复旦大学录取通知书",
+        "onboard_time": 1752460640,
+        "rank": 1,
+        "category": "网红,教育"
+      },
+      {
+        "raw_hot": 90211,
+        "num": 988102,
+        "word": "未来一周大范围高温来袭",
+        "onboard_time": 1752414624,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1212169,
+        "num": 980061,
+        "word": "新疆的小孩一出生就带全妆",
+        "onboard_time": 1752460461,
+        "rank": 3,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 968519,
+        "num": 968519,
+        "word": "林俊杰心脏",
+        "onboard_time": 1752415406,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 711442,
+        "num": 711442,
+        "word": "律师称Zeus公开私密视频涉嫌侵权",
+        "onboard_time": 1752460341,
+        "rank": 5,
+        "category": "民生新闻,电竞"
+      },
+      {
+        "raw_hot": 663136,
+        "num": 663136,
+        "word": "年轻人为何都不愿结婚",
+        "onboard_time": 1752462922,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 608079,
+        "num": 608079,
+        "word": "鹿晗分享撕拉片",
+        "onboard_time": 1752449600,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 458600,
+        "num": 458600,
+        "word": "王楚钦vs张本智和",
+        "onboard_time": 1752460042,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100396,
+        "num": 453621,
+        "word": "辅警为醉驾男子替换送检血样获刑",
+        "onboard_time": 1752459623,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1111808,
+        "num": 453537,
+        "word": "田栩宁更新视频营业",
+        "onboard_time": 1752463103,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 581760,
+        "num": 453490,
+        "word": "下班回家发现屋里全是小偷",
+        "onboard_time": 1752464722,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 453279,
+        "num": 453279,
+        "word": "山东淄博一群人凌晨蒙眼拉绳行走",
+        "onboard_time": 1752458060,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 386062,
+        "num": 386062,
+        "word": "朱雨玲美国大满贯夺冠",
+        "onboard_time": 1752459141,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284829,
+        "num": 385501,
+        "word": "戴比尔斯品牌大使白鹿",
+        "onboard_time": 1752459501,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274961,
+        "num": 381577,
+        "word": "于正玉茗茶骨爆到你们无法想象",
+        "onboard_time": 1752463643,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94926,
+        "num": 378776,
+        "word": "尚界H5后排仨人不贴肩",
+        "onboard_time": 1752462922,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 15777,
+        "num": 377670,
+        "word": "花钱降论文AI率却被改得一塌糊涂",
+        "onboard_time": 1752465682,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201797,
+        "num": 374105,
+        "word": "电影南京照相馆提档725上映",
+        "onboard_time": 1752465442,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 373123,
+        "num": 373123,
+        "word": "国乒美国大满贯三冠收官",
+        "onboard_time": 1752463522,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 323683,
+        "num": 323683,
+        "word": "落石砸车致司机死亡案家属提百万赔偿",
+        "onboard_time": 1752462142,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304620,
+        "num": 304620,
+        "word": "外卖大战会补贴一停感情归零吗",
+        "onboard_time": 1752458360,
+        "rank": 21,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 263960,
+        "num": 263960,
+        "word": "张凌赫王楚然落水公主抱",
+        "onboard_time": 1752454401,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262742,
+        "num": 262742,
+        "word": "樱桃琥珀云包场",
+        "onboard_time": 1752465442,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256216,
+        "num": 256216,
+        "word": "沈腾说马丽老公上秤至少半吨",
+        "onboard_time": 1752464483,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253179,
+        "num": 253179,
+        "word": "偶遇蔡徐坤",
+        "onboard_time": 1752456141,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245036,
+        "num": 245036,
+        "word": "被女子强搂亲吻男孩妈妈愤怒回应",
+        "onboard_time": 1752423024,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244255,
+        "num": 244255,
+        "word": "杨肸子香奈儿竟然是好朋友",
+        "onboard_time": 1752465682,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218237,
+        "num": 218237,
+        "word": "秦彻登亚洲第一巨幕",
+        "onboard_time": 1752465023,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 210734,
+        "num": 217403,
+        "word": "朝雪录也是昭雪路",
+        "onboard_time": 1752465682,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217237,
+        "num": 217237,
+        "word": "纪梵希美妆 赵丽颖",
+        "onboard_time": 1752465803,
+        "rank": 30,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 215177,
+        "num": 215177,
+        "word": "王楚钦11比3张本智和",
+        "onboard_time": 1752462021,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213891,
+        "num": 213891,
+        "word": "王楚钦4比0张本智和",
+        "onboard_time": 1752464002,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212070,
+        "num": 212070,
+        "word": "60岁大爷开人均550元餐厅爆火",
+        "onboard_time": 1752465203,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190815,
+        "num": 190815,
+        "word": "王楚钦第3次WTT大满贯男单冠军",
+        "onboard_time": 1752464363,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187050,
+        "num": 187050,
+        "word": "减肥黄金30天马上开始",
+        "onboard_time": 1752462142,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 185016,
+        "num": 185016,
+        "word": "马丽说贾冰瘦了还怎么演喜剧",
+        "onboard_time": 1752463702,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182063,
+        "num": 182063,
+        "word": "时代少年团新歌",
+        "onboard_time": 1752465143,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 61444,
+        "num": 179800,
+        "word": "国补vs苹果返校优惠哪个更划算",
+        "onboard_time": 1752463582,
+        "rank": 38,
+        "category": "数码,民生新闻"
+      },
+      {
+        "raw_hot": 16124,
+        "num": 179442,
+        "word": "美团骑手之家落地武汉全行业开放",
+        "onboard_time": 1752465682,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 179350,
+        "num": 179350,
+        "word": "王楚钦观战女单决赛",
+        "onboard_time": 1752462382,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175881,
+        "num": 175881,
+        "word": "A股半日缩量439亿元",
+        "onboard_time": 1752465862,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 175466,
+        "num": 175466,
+        "word": "于正说等着你们集体破防",
+        "onboard_time": 1752465742,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170047,
+        "num": 170047,
+        "word": "登机时看到另一架飞机坠毁变火球",
+        "onboard_time": 1752457101,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 166692,
+        "num": 166692,
+        "word": "打工人早上彻底苏醒分几步",
+        "onboard_time": 1752464903,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165136,
+        "num": 165136,
+        "word": "美国大满贯女单冠军自拍",
+        "onboard_time": 1752464903,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163569,
+        "num": 165093,
+        "word": "刘国正说王楚钦拧拉太潇洒了",
+        "onboard_time": 1752463762,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165054,
+        "num": 165054,
+        "word": "剑网3",
+        "onboard_time": 1752463944,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156568,
+        "num": 156568,
+        "word": "王楚钦一声声好球夺冠",
+        "onboard_time": 1752464063,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156279,
+        "num": 156279,
+        "word": "频繁换工作的原因是服从性太差",
+        "onboard_time": 1752465023,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#持之以恒纠治四风#"
+    }
+  }
+}
