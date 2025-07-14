@@ -1,6 +1,6 @@
 {
   "startTime": 1752424285355,
-  "endTime": 1752466032617,
+  "endTime": 1752466580770,
   "band_list": [
     {
       "raw_hot": 5991584,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1212169,
-      "num": 980061,
+      "num": 1016883,
       "word": "新疆的小孩一出生就带全妆",
       "onboard_time": 1752460461,
       "rank": 30,
@@ -91,6 +91,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 920391,
+      "num": 453490,
+      "word": "下班回家发现屋里全是小偷",
+      "onboard_time": 1752464722,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 872556,
       "num": 872556,
       "word": "鹿晗分享撕拉片",
@@ -139,12 +147,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 581760,
-      "num": 453490,
-      "word": "下班回家发现屋里全是小偷",
-      "onboard_time": 1752464722,
-      "rank": 11,
-      "category": "幽默"
+      "raw_hot": 506319,
+      "num": 343319,
+      "word": "杨肸子香奈儿竟然是好朋友",
+      "onboard_time": 1752465682,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 503202,
@@ -267,12 +275,20 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 323683,
-      "num": 323683,
+      "raw_hot": 327078,
+      "num": 327078,
       "word": "落石砸车致司机死亡案家属提百万赔偿",
       "onboard_time": 1752462142,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 325499,
+      "num": 325499,
+      "word": "纪梵希美妆 赵丽颖",
+      "onboard_time": 1752465803,
+      "rank": 30,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 307044,
@@ -281,6 +297,14 @@
       "onboard_time": 1752423562,
       "rank": 13,
       "category": "作品衍生,综艺"
+    },
+    {
+      "raw_hot": 306680,
+      "num": 306680,
+      "word": "樱桃琥珀云包场",
+      "onboard_time": 1752465442,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 305219,
@@ -331,6 +355,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 276487,
+      "num": 276487,
+      "word": "秦彻登亚洲第一巨幕",
+      "onboard_time": 1752465023,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 276102,
       "num": 276102,
       "word": "邢昭林卢洋洋还在一起",
@@ -353,14 +385,6 @@
       "onboard_time": 1752420085,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 262742,
-      "num": 262742,
-      "word": "樱桃琥珀云包场",
-      "onboard_time": 1752465442,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 259994,
@@ -395,19 +419,19 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 244255,
-      "num": 244255,
-      "word": "杨肸子香奈儿竟然是好朋友",
-      "onboard_time": 1752465682,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 239449,
       "num": 239449,
       "word": "国乒参加纪念中美乒乓外交活动",
       "onboard_time": 1752458060,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 230449,
+      "num": 230449,
+      "word": "王楚钦4比0张本智和",
+      "onboard_time": 1752464002,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -419,12 +443,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 218237,
-      "num": 218237,
-      "word": "秦彻登亚洲第一巨幕",
-      "onboard_time": 1752465023,
-      "rank": 28,
-      "category": "游戏"
+      "raw_hot": 219091,
+      "num": 219091,
+      "word": "60岁大爷开人均550元餐厅爆火",
+      "onboard_time": 1752465203,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 218225,
@@ -435,27 +459,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 217237,
-      "num": 217237,
-      "word": "纪梵希美妆 赵丽颖",
-      "onboard_time": 1752465803,
-      "rank": 30,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 215177,
       "num": 215177,
       "word": "王楚钦11比3张本智和",
       "onboard_time": 1752462021,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 213891,
-      "num": 213891,
-      "word": "王楚钦4比0张本智和",
-      "onboard_time": 1752464002,
-      "rank": 32,
       "category": "体育"
     },
     {
@@ -467,20 +475,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213769,
+      "num": 213769,
+      "word": "于正说等着你们集体破防",
+      "onboard_time": 1752465742,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212891,
       "num": 212891,
       "word": "李幼贞出家",
       "onboard_time": 1752412703,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 212070,
-      "num": 212070,
-      "word": "60岁大爷开人均550元餐厅爆火",
-      "onboard_time": 1752465203,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 211736,
@@ -547,6 +555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 191672,
+      "num": 191672,
+      "word": "尚界H5正式亮相",
+      "onboard_time": 1752466163,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 190815,
       "num": 190815,
       "word": "王楚钦第3次WTT大满贯男单冠军",
@@ -587,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184223,
+      "num": 184223,
+      "word": "西安地震",
+      "onboard_time": 1752466282,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183689,
       "num": 183689,
       "word": "女子昏厥男子跪地心肺复苏被指袭胸",
@@ -611,6 +635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177996,
+      "num": 177996,
+      "word": "A股半日缩量439亿元",
+      "onboard_time": 1752465862,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 177289,
       "num": 177289,
       "word": "王晶说梅艳芳被任性害死了",
@@ -627,28 +659,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 175881,
-      "num": 175881,
-      "word": "A股半日缩量439亿元",
-      "onboard_time": 1752465862,
-      "rank": 41,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 175466,
-      "num": 175466,
-      "word": "于正说等着你们集体破防",
-      "onboard_time": 1752465742,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 173329,
       "num": 173329,
       "word": "印度女大学生疑遭性骚扰举报未果自焚",
       "onboard_time": 1752422663,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 171437,
+      "num": 171437,
+      "word": "频繁换工作的原因是服从性太差",
+      "onboard_time": 1752465023,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 166692,
@@ -715,14 +739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 156279,
-      "num": 156279,
-      "word": "频繁换工作的原因是服从性太差",
-      "onboard_time": 1752465023,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 152508,
       "num": 150564,
       "word": "50岁女子意外怀孕诱发罕见癌症",
@@ -753,6 +769,22 @@
       "onboard_time": 1752423262,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143419,
+      "num": 177346,
+      "word": "张小斐粉丝画的血泪名场面",
+      "onboard_time": 1752466462,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 142877,
+      "num": 142877,
+      "word": "这四个疑似拼好饭吃多了",
+      "onboard_time": 1752463342,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 140194,
@@ -868,7 +900,7 @@
     },
     {
       "raw_hot": 117175,
-      "num": 988102,
+      "num": 1017021,
       "word": "未来一周大范围高温来袭",
       "onboard_time": 1752414624,
       "rank": 2,
@@ -1163,6 +1195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 38994,
+      "num": 182304,
+      "word": "特朗普枪击案报告发布",
+      "onboard_time": 1752466462,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 36404,
       "num": 153668,
       "word": "重庆2患者使用临床研究抗癌药",
@@ -1177,6 +1217,14 @@
       "onboard_time": 1752431535,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 27092,
+      "num": 377670,
+      "word": "花钱降论文AI率却被改得一塌糊涂",
+      "onboard_time": 1752465682,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26142,
@@ -1203,6 +1251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 22366,
+      "num": 179442,
+      "word": "美团骑手之家落地武汉全行业开放",
+      "onboard_time": 1752465682,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 21812,
       "num": 30398,
       "word": "世界义乌vs中国横店",
@@ -1225,22 +1281,6 @@
       "onboard_time": 1752445396,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 16124,
-      "num": 179442,
-      "word": "美团骑手之家落地武汉全行业开放",
-      "onboard_time": 1752465682,
-      "rank": 39,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 15777,
-      "num": 377670,
-      "word": "花钱降论文AI率却被改得一塌糊涂",
-      "onboard_time": 1752465682,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13351,
