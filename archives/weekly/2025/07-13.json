@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752513998393,
+  "endTime": 1752515118940,
   "band_list": [
     {
       "raw_hot": 14050966,
@@ -6275,6 +6275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 88765,
+      "num": 88765,
+      "word": "恋爱久了才能get到的撒娇方式",
+      "onboard_time": 1752511638,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 88119,
       "num": 88119,
       "word": "王源伴舞摔倒了",
@@ -6449,14 +6457,6 @@
       "onboard_time": 1752372861,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 78139,
-      "num": 78139,
-      "word": "恋爱久了才能get到的撒娇方式",
-      "onboard_time": 1752511638,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 77831,
@@ -6876,7 +6876,7 @@
     },
     {
       "raw_hot": 39038,
-      "num": 45016,
+      "num": 88807,
       "word": "8战世锦赛的汪顺说非常期待",
       "onboard_time": 1752513557,
       "rank": 46,
