@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752466580770,
+  "endTime": 1752469161440,
   "band_list": [
     {
       "raw_hot": 14050966,
@@ -171,6 +171,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 1194013,
+      "num": 896086,
+      "word": "下班回家发现屋里全是小偷",
+      "onboard_time": 1752464722,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1179743,
       "num": 1179743,
       "word": "蔡国庆怼19岁选手怼了4分钟",
@@ -305,14 +313,6 @@
       "onboard_time": 1752454822,
       "rank": 10,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 920391,
-      "num": 453490,
-      "word": "下班回家发现屋里全是小偷",
-      "onboard_time": 1752464722,
-      "rank": 11,
-      "category": "幽默"
     },
     {
       "raw_hot": 914092,
@@ -507,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 701381,
+      "num": 701381,
+      "word": "杨肸子香奈儿竟然是好朋友",
+      "onboard_time": 1752465682,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 688885,
       "num": 688885,
       "word": "hi6后期",
@@ -539,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 677389,
+      "num": 677389,
+      "word": "西安地震",
+      "onboard_time": 1752466282,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 675384,
       "num": 675384,
       "word": "孙颖莎王曼昱女双亚军",
@@ -553,6 +569,14 @@
       "onboard_time": 1752462922,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 655861,
+      "num": 475206,
+      "word": "田栩宁超话空降",
+      "onboard_time": 1752467063,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 648450,
@@ -601,6 +625,14 @@
       "onboard_time": 1752372623,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 580753,
+      "num": 580753,
+      "word": "纪梵希美妆 赵丽颖",
+      "onboard_time": 1752465803,
+      "rank": 30,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 575404,
@@ -683,14 +715,6 @@
       "category": "民生新闻,电竞"
     },
     {
-      "raw_hot": 506319,
-      "num": 343319,
-      "word": "杨肸子香奈儿竟然是好朋友",
-      "onboard_time": 1752465682,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 504558,
       "num": 504558,
       "word": "0元奶茶能喝多久",
@@ -739,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 483636,
+      "num": 483636,
+      "word": "60岁大爷开人均550元餐厅爆火",
+      "onboard_time": 1752465203,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 463783,
       "num": 373835,
       "word": "苏醒真实人品",
@@ -761,6 +793,14 @@
       "onboard_time": 1752460042,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 456079,
+      "num": 456079,
+      "word": "樱桃琥珀云包场",
+      "onboard_time": 1752465442,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 453411,
@@ -1091,14 +1131,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 325499,
-      "num": 325499,
-      "word": "纪梵希美妆 赵丽颖",
-      "onboard_time": 1752465803,
-      "rank": 30,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 325394,
       "num": 325394,
       "word": "女子昏厥男子跪地心肺复苏被指袭胸",
@@ -1153,14 +1185,6 @@
       "onboard_time": 1752423562,
       "rank": 13,
       "category": "作品衍生,综艺"
-    },
-    {
-      "raw_hot": 306680,
-      "num": 306680,
-      "word": "樱桃琥珀云包场",
-      "onboard_time": 1752465442,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 305219,
@@ -1579,6 +1603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 224783,
+      "num": 207302,
+      "word": "向往的生活首发阵容",
+      "onboard_time": 1752468863,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224288,
       "num": 200917,
       "word": "TF随舞",
@@ -1617,14 +1649,6 @@
       "onboard_time": 1752368479,
       "rank": 23,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 219091,
-      "num": 219091,
-      "word": "60岁大爷开人均550元餐厅爆火",
-      "onboard_time": 1752465203,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 216821,
@@ -1737,6 +1761,14 @@
       "onboard_time": 1752451942,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 208974,
+      "num": 208974,
+      "word": "特朗普枪击案报告发布",
+      "onboard_time": 1752466462,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 204899,
@@ -1883,6 +1915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194040,
+      "num": 194040,
+      "word": "减肥黄金30天马上开始",
+      "onboard_time": 1752462142,
+      "rank": 35,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 192575,
       "num": 192575,
       "word": "苏新皓被红海整微醺了",
@@ -2003,14 +2043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 187050,
-      "num": 187050,
-      "word": "减肥黄金30天马上开始",
-      "onboard_time": 1752462142,
-      "rank": 35,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 186552,
       "num": 186552,
       "word": "朝雪录节奏",
@@ -2059,6 +2091,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 185274,
+      "num": 185274,
+      "word": "未定事件簿",
+      "onboard_time": 1752468502,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 185016,
       "num": 185016,
       "word": "马丽说贾冰瘦了还怎么演喜剧",
@@ -2067,19 +2107,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184908,
+      "num": 184908,
+      "word": "书卷一梦原来是剧中剧中剧",
+      "onboard_time": 1752467963,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184304,
       "num": 184304,
       "word": "拼车遭猥亵备忘录提示司机开到派出所",
       "onboard_time": 1752328583,
       "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 184223,
-      "num": 184223,
-      "word": "西安地震",
-      "onboard_time": 1752466282,
-      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -2169,6 +2209,14 @@
       "onboard_time": 1752377001,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 178555,
+      "num": 178555,
+      "word": "分手孩子改姓男方拒付抚养费",
+      "onboard_time": 1752468683,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 178506,
@@ -2267,6 +2315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173459,
+      "num": 173459,
+      "word": "张本智和哎哎哎哎制止闪光灯",
+      "onboard_time": 1752468743,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173329,
       "num": 173329,
       "word": "印度女大学生疑遭性骚扰举报未果自焚",
@@ -2283,20 +2339,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172005,
+      "num": 172005,
+      "word": "频繁换工作的原因是服从性太差",
+      "onboard_time": 1752465023,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 171790,
       "num": 171790,
       "word": "Chovy获得FMVP",
       "onboard_time": 1752384202,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 171437,
-      "num": 171437,
-      "word": "频繁换工作的原因是服从性太差",
-      "onboard_time": 1752465023,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 171213,
@@ -2571,6 +2627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158885,
+      "num": 158885,
+      "word": "刘轩丞第一个百万粉丝福利",
+      "onboard_time": 1752467244,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158577,
       "num": 158577,
       "word": "陈奕迅摔倒",
@@ -2619,6 +2683,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 156277,
+      "num": 156277,
+      "word": "樱桃琥珀香港1米2小床",
+      "onboard_time": 1752468743,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155311,
       "num": 155311,
       "word": "Faker回应输给GEN",
@@ -2649,6 +2721,14 @@
       "onboard_time": 1752371721,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153753,
+      "num": 153753,
+      "word": "潘婷三分钟奇迹是商标",
+      "onboard_time": 1752468204,
+      "rank": 40,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 152630,
@@ -2883,6 +2963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142459,
+      "num": 142459,
+      "word": "鹿晗洒水差点把自己摔倒",
+      "onboard_time": 1752468922,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 141931,
       "num": 283113,
       "word": "工作超8小时闭眼3分钟被开除",
@@ -2969,6 +3057,14 @@
       "onboard_time": 1752381921,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139505,
+      "num": 139505,
+      "word": "你莎真的困咯",
+      "onboard_time": 1752467004,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 139294,
@@ -3081,6 +3177,14 @@
       "onboard_time": 1752379760,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133804,
+      "num": 133804,
+      "word": "高考生疑被骗缅甸拼车者发声",
+      "onboard_time": 1752466882,
+      "rank": 45,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 132941,
@@ -3203,6 +3307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126858,
+      "num": 126858,
+      "word": "我也想在工作群这么回复",
+      "onboard_time": 1752468863,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126060,
       "num": 126060,
       "word": "王一博早期微博被做成书了",
@@ -3275,6 +3387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123341,
+      "num": 123341,
+      "word": "王牌复工第一天就摇人",
+      "onboard_time": 1752469103,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123266,
       "num": 123266,
       "word": "建议周翊然黑框眼镜半永久",
@@ -3289,6 +3409,14 @@
       "onboard_time": 1752368479,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 122664,
+      "num": 122664,
+      "word": "比特币突破12万美元关口",
+      "onboard_time": 1752468743,
+      "rank": 49,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 122642,
@@ -4203,6 +4331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77673,
+      "num": 153767,
+      "word": "中国奥委会祝贺王楚钦加冕",
+      "onboard_time": 1752468624,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77235,
       "num": 77235,
       "word": "汪苏泷兰州",
@@ -4483,20 +4619,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 38994,
-      "num": 182304,
-      "word": "特朗普枪击案报告发布",
-      "onboard_time": 1752466462,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 38699,
       "num": 112594,
       "word": "美国50%铜关税消息引发偷铜潮",
       "onboard_time": 1752378081,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 37243,
+      "num": 179442,
+      "word": "美团骑手之家落地武汉全行业开放",
+      "onboard_time": 1752465682,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 36676,
@@ -4641,14 +4777,6 @@
       "onboard_time": 1752434895,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 22366,
-      "num": 179442,
-      "word": "美团骑手之家落地武汉全行业开放",
-      "onboard_time": 1752465682,
-      "rank": 39,
-      "category": "互联网"
     },
     {
       "raw_hot": 21812,

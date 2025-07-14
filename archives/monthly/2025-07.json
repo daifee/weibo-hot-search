@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752466580770,
+  "endTime": 1752469161440,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -1627,6 +1627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1194013,
+      "num": 896086,
+      "word": "下班回家发现屋里全是小偷",
+      "onboard_time": 1752464722,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1192980,
       "num": 1192980,
       "word": "黄牛为什么能抢走演唱会门票",
@@ -2553,14 +2561,6 @@
       "onboard_time": 1751360603,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 920391,
-      "num": 453490,
-      "word": "下班回家发现屋里全是小偷",
-      "onboard_time": 1752464722,
-      "rank": 11,
-      "category": "幽默"
     },
     {
       "raw_hot": 919593,
@@ -4099,6 +4099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 701381,
+      "num": 701381,
+      "word": "杨肸子香奈儿竟然是好朋友",
+      "onboard_time": 1752465682,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 700420,
       "num": 553543,
       "word": "捡到金世佳身份证当事人发声",
@@ -4379,6 +4387,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 677389,
+      "num": 677389,
+      "word": "西安地震",
+      "onboard_time": 1752466282,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 676446,
       "num": 1108231,
       "word": "父亲称为儿子买房骗其在白纸上签字",
@@ -4601,6 +4617,14 @@
       "onboard_time": 1751345184,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 655861,
+      "num": 475206,
+      "word": "田栩宁超话空降",
+      "onboard_time": 1752467063,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 652164,
@@ -5505,6 +5529,14 @@
       "onboard_time": 1752212362,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 580753,
+      "num": 580753,
+      "word": "纪梵希美妆 赵丽颖",
+      "onboard_time": 1752465803,
+      "rank": 30,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 579143,
@@ -6467,14 +6499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 506319,
-      "num": 343319,
-      "word": "杨肸子香奈儿竟然是好朋友",
-      "onboard_time": 1752465682,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 506176,
       "num": 365500,
       "word": "锦绣芳华",
@@ -6713,6 +6737,14 @@
       "onboard_time": 1752389602,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 483636,
+      "num": 483636,
+      "word": "60岁大爷开人均550元餐厅爆火",
+      "onboard_time": 1752465203,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 483573,
@@ -7041,6 +7073,14 @@
       "onboard_time": 1751280561,
       "rank": 6,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 456079,
+      "num": 456079,
+      "word": "樱桃琥珀云包场",
+      "onboard_time": 1752465442,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 455893,
@@ -10195,14 +10235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 325499,
-      "num": 325499,
-      "word": "纪梵希美妆 赵丽颖",
-      "onboard_time": 1752465803,
-      "rank": 30,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 325394,
       "num": 325394,
       "word": "女子昏厥男子跪地心肺复苏被指袭胸",
@@ -10849,14 +10881,6 @@
       "onboard_time": 1752423562,
       "rank": 13,
       "category": "作品衍生,综艺"
-    },
-    {
-      "raw_hot": 306680,
-      "num": 306680,
-      "word": "樱桃琥珀云包场",
-      "onboard_time": 1752465442,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 305750,
@@ -14619,6 +14643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 224783,
+      "num": 207302,
+      "word": "向往的生活首发阵容",
+      "onboard_time": 1752468863,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224689,
       "num": 224689,
       "word": "李一桐回复素人",
@@ -15001,14 +15033,6 @@
       "onboard_time": 1752289100,
       "rank": 22,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 219091,
-      "num": 219091,
-      "word": "60岁大爷开人均550元餐厅爆火",
-      "onboard_time": 1752465203,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 219035,
@@ -15945,6 +15969,14 @@
       "onboard_time": 1752237863,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 208974,
+      "num": 208974,
+      "word": "特朗普枪击案报告发布",
+      "onboard_time": 1752466462,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 208950,
@@ -17995,6 +18027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194040,
+      "num": 194040,
+      "word": "减肥黄金30天马上开始",
+      "onboard_time": 1752206002,
+      "rank": 35,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 193988,
       "num": 212954,
       "word": "无畏契约新地图首登VCTCN",
@@ -19043,14 +19083,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 187050,
-      "num": 187050,
-      "word": "减肥黄金30天马上开始",
-      "onboard_time": 1752206002,
-      "rank": 35,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 187023,
       "num": 204768,
       "word": "张译演技",
@@ -19403,6 +19435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185274,
+      "num": 185274,
+      "word": "未定事件簿",
+      "onboard_time": 1751953402,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 185218,
       "num": 185218,
       "word": "刘耀文卷毛狗狗眼",
@@ -19433,6 +19473,14 @@
       "onboard_time": 1751894844,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184908,
+      "num": 184908,
+      "word": "书卷一梦原来是剧中剧中剧",
+      "onboard_time": 1752467963,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 184867,
@@ -19481,14 +19529,6 @@
       "onboard_time": 1752297740,
       "rank": 35,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 184223,
-      "num": 184223,
-      "word": "西安地震",
-      "onboard_time": 1752466282,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 184218,
@@ -20241,6 +20281,14 @@
       "onboard_time": 1751867245,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178555,
+      "num": 178555,
+      "word": "分手孩子改姓男方拒付抚养费",
+      "onboard_time": 1752468683,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 178506,
@@ -21083,6 +21131,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 173459,
+      "num": 173459,
+      "word": "张本智和哎哎哎哎制止闪光灯",
+      "onboard_time": 1752468743,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173404,
       "num": 236000,
       "word": "重庆一小区女保安因暴雨遇难",
@@ -21363,6 +21419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172005,
+      "num": 172005,
+      "word": "频繁换工作的原因是服从性太差",
+      "onboard_time": 1752465023,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 171976,
       "num": 171976,
       "word": "格格好听",
@@ -21457,14 +21521,6 @@
       "onboard_time": 1752142461,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 171437,
-      "num": 171437,
-      "word": "频繁换工作的原因是服从性太差",
-      "onboard_time": 1752465023,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 171265,
@@ -22313,14 +22369,6 @@
       "onboard_time": 1752335721,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 166305,
-      "num": 170496,
-      "word": "未定事件簿",
-      "onboard_time": 1751953402,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 166218,
@@ -23539,6 +23587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158885,
+      "num": 158885,
+      "word": "刘轩丞第一个百万粉丝福利",
+      "onboard_time": 1752467244,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158830,
       "num": 158830,
       "word": "Tabe发文道歉",
@@ -24051,6 +24107,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 156277,
+      "num": 156277,
+      "word": "樱桃琥珀香港1米2小床",
+      "onboard_time": 1752468743,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156269,
       "num": 156269,
       "word": "女校长诈骗5000万花3000万游戏充值",
@@ -24513,6 +24577,14 @@
       "onboard_time": 1752371721,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153753,
+      "num": 153753,
+      "word": "潘婷三分钟奇迹是商标",
+      "onboard_time": 1752468204,
+      "rank": 40,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 153678,
@@ -26955,6 +27027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142459,
+      "num": 142459,
+      "word": "鹿晗洒水差点把自己摔倒",
+      "onboard_time": 1752468922,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 142458,
       "num": 173861,
       "word": "王楚钦暴力扣球后举手示意",
@@ -27633,6 +27713,14 @@
       "onboard_time": 1752381921,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139505,
+      "num": 139505,
+      "word": "你莎真的困咯",
+      "onboard_time": 1752467004,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 139437,
@@ -28937,6 +29025,14 @@
       "onboard_time": 1752063323,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133804,
+      "num": 133804,
+      "word": "高考生疑被骗缅甸拼车者发声",
+      "onboard_time": 1752466882,
+      "rank": 45,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 133757,
@@ -30731,6 +30827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126858,
+      "num": 126858,
+      "word": "我也想在工作群这么回复",
+      "onboard_time": 1752468863,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126842,
       "num": 126842,
       "word": "MKOI发文道歉",
@@ -31563,6 +31667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123341,
+      "num": 123341,
+      "word": "王牌复工第一天就摇人",
+      "onboard_time": 1752469103,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123332,
       "num": 132985,
       "word": "被结婚8年女子婚姻登记还未撤销",
@@ -31753,6 +31865,14 @@
       "onboard_time": 1752368479,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 122664,
+      "num": 122664,
+      "word": "比特币突破12万美元关口",
+      "onboard_time": 1752468743,
+      "rank": 49,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 122642,
@@ -40227,6 +40347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77673,
+      "num": 153767,
+      "word": "中国奥委会祝贺王楚钦加冕",
+      "onboard_time": 1752468624,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77637,
       "num": 230277,
       "word": "解限机硬核机甲爽翻了",
@@ -44131,14 +44259,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 38994,
-      "num": 182304,
-      "word": "特朗普枪击案报告发布",
-      "onboard_time": 1752466462,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 38979,
       "num": 38979,
       "word": "许凯田曦薇新剧已过审",
@@ -44329,6 +44449,14 @@
       "onboard_time": 1752168436,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37243,
+      "num": 179442,
+      "word": "美团骑手之家落地武汉全行业开放",
+      "onboard_time": 1752465682,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 37220,
@@ -46145,14 +46273,6 @@
       "onboard_time": 1751978483,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22366,
-      "num": 179442,
-      "word": "美团骑手之家落地武汉全行业开放",
-      "onboard_time": 1752465682,
-      "rank": 39,
-      "category": "互联网"
     },
     {
       "raw_hot": 22271,
