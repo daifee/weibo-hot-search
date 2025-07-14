@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752504444663,
+  "endTime": 1752507055017,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -4707,6 +4707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 660500,
+      "num": 329569,
+      "word": "小海绵被妈妈养的很好",
+      "onboard_time": 1752504324,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 660143,
       "num": 324287,
       "word": "小沈阳发文力挺女儿",
@@ -5041,6 +5049,14 @@
       "onboard_time": 1751590462,
       "rank": 1,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 634522,
+      "num": 634522,
+      "word": "美战机被曝撞上UFO",
+      "onboard_time": 1752505164,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 634502,
@@ -6987,6 +7003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 491711,
+      "num": 491711,
+      "word": "周杰伦晒与权志龙合影",
+      "onboard_time": 1752503423,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 490478,
       "num": 691012,
       "word": "王一博神图",
@@ -8777,6 +8801,14 @@
       "onboard_time": 1752389422,
       "rank": 49,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 395530,
+      "num": 395530,
+      "word": "樱桃琥珀 张开宙",
+      "onboard_time": 1752504923,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 393881,
@@ -12139,6 +12171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 284514,
+      "num": 284514,
+      "word": "会员称山姆与超市相比越来越同质化",
+      "onboard_time": 1752504142,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 284347,
       "num": 284347,
       "word": "淮安0比0常州",
@@ -14163,6 +14203,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 242328,
+      "num": 242328,
+      "word": "朝雪录第一案凶手道歉",
+      "onboard_time": 1752504564,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 242230,
       "num": 200495,
       "word": "Celine大秀",
@@ -15257,14 +15305,6 @@
       "onboard_time": 1751346863,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 224682,
-      "num": 329050,
-      "word": "周杰伦晒与权志龙合影",
-      "onboard_time": 1752503423,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 224677,
@@ -16745,6 +16785,14 @@
       "onboard_time": 1751464584,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208425,
+      "num": 208425,
+      "word": "印度男子婚宴上多要一块鸡肉被刺死",
+      "onboard_time": 1752505344,
+      "rank": 23,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 208367,
@@ -21379,6 +21427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176883,
+      "num": 176883,
+      "word": "房主任 生命的意义就是体验",
+      "onboard_time": 1752504623,
+      "rank": 28,
+      "category": "情感,综艺"
+    },
+    {
       "raw_hot": 176882,
       "num": 176882,
       "word": "温网",
@@ -22248,6 +22304,14 @@
       "word": "婚前协议这段看的窒息了",
       "onboard_time": 1751446460,
       "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 172459,
+      "num": 172459,
+      "word": "李兰迪妲己幼年体",
+      "onboard_time": 1752503844,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -25187,6 +25251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156077,
+      "num": 164238,
+      "word": "黄仁勋称中国军方不会使用美国技术",
+      "onboard_time": 1752504142,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 156045,
       "num": 396750,
       "word": "中泰警方已对模特被骗缅甸立案",
@@ -25793,6 +25865,14 @@
       "onboard_time": 1751546542,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153054,
+      "num": 153054,
+      "word": "女孩因撞脸张柏芝全网走红",
+      "onboard_time": 1752506242,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 153035,
@@ -29171,6 +29251,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 138788,
+      "num": 138788,
+      "word": "奶茶店称外卖大战1天利润仅400",
+      "onboard_time": 1752506422,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138724,
       "num": 138724,
       "word": "Bin分享和Faker合照",
@@ -30371,6 +30459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 133562,
+      "num": 133562,
+      "word": "格陵兰居民一觉醒来冰山漂到家门口",
+      "onboard_time": 1752505764,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 133533,
       "num": 133533,
       "word": "王楚钦32分钟完整版采访",
@@ -30521,14 +30617,6 @@
       "onboard_time": 1751963422,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 133019,
-      "num": 126538,
-      "word": "李兰迪妲己幼年体",
-      "onboard_time": 1752503844,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 132995,
@@ -32169,14 +32257,6 @@
       "onboard_time": 1752289641,
       "rank": 38,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 127061,
-      "num": 127061,
-      "word": "小海绵被妈妈养的很好",
-      "onboard_time": 1752504324,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 127018,
@@ -35187,6 +35267,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 116559,
+      "num": 116559,
+      "word": "救女子被质疑袭胸男子是医学院老师",
+      "onboard_time": 1752505103,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116514,
       "num": 216148,
       "word": "律师称投毒案改判可能性微乎其微",
@@ -36017,6 +36105,14 @@
       "onboard_time": 1752326302,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113452,
+      "num": 113452,
+      "word": "林俊杰发文感谢孙燕姿",
+      "onboard_time": 1752506364,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 113444,
@@ -37811,6 +37907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106940,
+      "num": 106940,
+      "word": "孙颖莎一骑绝尘领跑冠军榜",
+      "onboard_time": 1752506662,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106875,
       "num": 106875,
       "word": "BLG战胜Fly",
@@ -37905,6 +38009,14 @@
       "onboard_time": 1751870484,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106457,
+      "num": 343382,
+      "word": "特朗普称美国上月通过关税赚了250亿",
+      "onboard_time": 1752503484,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 106426,
@@ -38225,6 +38337,14 @@
       "onboard_time": 1752100997,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105059,
+      "num": 105059,
+      "word": "两斤肉22块钱做了37个烤肠",
+      "onboard_time": 1752505583,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 105054,
@@ -39667,6 +39787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98586,
+      "num": 266218,
+      "word": "桂林一政府官方文件被指原文抄袭",
+      "onboard_time": 1752506483,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98558,
       "num": 108807,
       "word": "游本昌谈自己最大的幸福所在",
@@ -40001,6 +40129,14 @@
       "onboard_time": 1751336479,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96459,
+      "num": 96459,
+      "word": "明凯回应加入JDG",
+      "onboard_time": 1752505583,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 96410,
@@ -40539,6 +40675,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 92729,
+      "num": 287864,
+      "word": "河南71地气温高于40℃",
+      "onboard_time": 1752505284,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92715,
       "num": 92715,
       "word": "AL中单Shanks面露复杂神情",
@@ -40705,6 +40849,14 @@
       "onboard_time": 1752475224,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91522,
+      "num": 269509,
+      "word": "刘涛依旧很权威",
+      "onboard_time": 1752506124,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 91520,
@@ -41009,14 +41161,6 @@
       "onboard_time": 1751755576,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 88648,
-      "num": 343382,
-      "word": "特朗普称美国上月通过关税赚了250亿",
-      "onboard_time": 1752503484,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 88558,
@@ -46155,14 +46299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 39826,
-      "num": 164238,
-      "word": "黄仁勋称中国军方不会使用美国技术",
-      "onboard_time": 1752504142,
-      "rank": 27,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 39825,
       "num": 244191,
       "word": "侃爷演唱会迟到早退谁给的傲慢",
@@ -46297,14 +46433,6 @@
       "onboard_time": 1751390417,
       "rank": 44,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 38326,
-      "num": 155077,
-      "word": "会员称山姆与超市相比越来越同质化",
-      "onboard_time": 1752504142,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 38296,
