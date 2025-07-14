@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752485748294,
+  "endTime": 1752486589038,
   "band_list": [
     {
       "raw_hot": 14050966,
@@ -651,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 653974,
+      "num": 468811,
+      "word": "韩国女演员姜瑞夏胃癌去世",
+      "onboard_time": 1752485002,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 648450,
       "num": 356352,
       "word": "陈道明头发全白了",
@@ -712,6 +720,14 @@
       "word": "张凌赫王楚然落水公主抱",
       "onboard_time": 1752454401,
       "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 599417,
+      "num": 281254,
+      "word": "田栩宁没开车门直接从跑车上跨下了",
+      "onboard_time": 1752481281,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -795,19 +811,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 537059,
+      "num": 537059,
+      "word": "女子替前夫还贷40万被指自作多情",
+      "onboard_time": 1752480622,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 533556,
       "num": 533556,
       "word": "男子加拿大考公上岸月薪2万",
       "onboard_time": 1752413964,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 532829,
-      "num": 532829,
-      "word": "女子替前夫还贷40万被指自作多情",
-      "onboard_time": 1752480622,
-      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -841,14 +857,6 @@
       "onboard_time": 1752402741,
       "rank": 11,
       "category": "民生新闻,电竞"
-    },
-    {
-      "raw_hot": 504849,
-      "num": 281254,
-      "word": "田栩宁没开车门直接从跑车上跨下了",
-      "onboard_time": 1752481281,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 504558,
@@ -921,6 +929,14 @@
       "onboard_time": 1752479603,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 463839,
+      "num": 274924,
+      "word": "小海绵干嘛呢",
+      "onboard_time": 1752485962,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 463783,
@@ -1025,14 +1041,6 @@
       "onboard_time": 1752380901,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 415253,
-      "num": 415253,
-      "word": "韩国女演员姜瑞夏胃癌去世",
-      "onboard_time": 1752485002,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 414176,
@@ -1923,12 +1931,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220765,
+      "num": 220765,
+      "word": "田栩宁厦门飞杭州路透",
+      "onboard_time": 1752485840,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220640,
       "num": 220640,
       "word": "越南游客遭日本店员掌掴",
       "onboard_time": 1752368479,
       "rank": 23,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 220630,
+      "num": 220630,
+      "word": "超级暂停",
+      "onboard_time": 1752485122,
+      "rank": 23,
+      "category": "互联网,作品衍生"
     },
     {
       "raw_hot": 216821,
@@ -1985,6 +2009,14 @@
       "onboard_time": 1752462021,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 214980,
+      "num": 214980,
+      "word": "吴磊Burberry",
+      "onboard_time": 1752485662,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 214618,
@@ -2195,6 +2227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 200697,
+      "num": 200697,
+      "word": "六旬老外被辣条哄成胚胎",
+      "onboard_time": 1752485602,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 200123,
       "num": 200123,
       "word": "时代少年团 王牌对王牌",
@@ -2315,14 +2355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 193422,
-      "num": 193422,
-      "word": "超级暂停",
-      "onboard_time": 1752485122,
-      "rank": 23,
-      "category": "互联网,作品衍生"
-    },
-    {
       "raw_hot": 192575,
       "num": 192575,
       "word": "苏新皓被红海整微醺了",
@@ -2403,6 +2435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190621,
+      "num": 190621,
+      "word": "朱雨玲WTT夺冠后发文",
+      "onboard_time": 1752484701,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189746,
       "num": 464387,
       "word": "超10块的饭不点超5块的奶茶不喝",
@@ -2457,6 +2497,14 @@
       "onboard_time": 1752460222,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187896,
+      "num": 187896,
+      "word": "金世佳增肥了吗",
+      "onboard_time": 1752486263,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 186918,
@@ -3083,14 +3131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 160239,
-      "num": 160239,
-      "word": "朱雨玲WTT夺冠后发文",
-      "onboard_time": 1752484701,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 159369,
       "num": 244495,
       "word": "河南历史级高温",
@@ -3195,6 +3235,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 155978,
+      "num": 286862,
+      "word": "5岁娃误食蚕豆后全身变黄进ICU",
+      "onboard_time": 1752483143,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155311,
       "num": 155311,
       "word": "Faker回应输给GEN",
@@ -3217,14 +3265,6 @@
       "onboard_time": 1752480022,
       "rank": 28,
       "category": "数码,财经"
-    },
-    {
-      "raw_hot": 154376,
-      "num": 154376,
-      "word": "5岁娃误食蚕豆后全身变黄进ICU",
-      "onboard_time": 1752483143,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 154210,
@@ -3331,6 +3371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 149719,
+      "num": 149719,
+      "word": "骆玉林受贿超2.2亿元",
+      "onboard_time": 1752485781,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149534,
       "num": 149534,
       "word": "F4五月天演唱会合唱流星雨",
@@ -3377,6 +3425,14 @@
       "onboard_time": 1752385401,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147607,
+      "num": 190451,
+      "word": "by2要林俊杰好好照顾心脏",
+      "onboard_time": 1752484220,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 147597,
@@ -3531,6 +3587,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 142061,
+      "num": 142061,
+      "word": "王楚钦排队时好谨慎",
+      "onboard_time": 1752485062,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141931,
       "num": 283113,
       "word": "工作超8小时闭眼3分钟被开除",
@@ -3569,6 +3633,14 @@
       "onboard_time": 1752471682,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140494,
+      "num": 188937,
+      "word": "谁来懂一下李一桐这双手",
+      "onboard_time": 1752485122,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 140451,
@@ -3779,14 +3851,6 @@
       "category": "民生新闻,休闲"
     },
     {
-      "raw_hot": 133173,
-      "num": 133173,
-      "word": "王楚钦排队时好谨慎",
-      "onboard_time": 1752485062,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 133165,
       "num": 133165,
       "word": "我要有刘德华联系方式也庄达菲这样",
@@ -3931,12 +3995,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127462,
-      "num": 127462,
-      "word": "by2要林俊杰好好照顾心脏",
-      "onboard_time": 1752484220,
-      "rank": 33,
-      "category": "演出"
+      "raw_hot": 127879,
+      "num": 127879,
+      "word": "QQ美莓",
+      "onboard_time": 1752486381,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 127279,
@@ -4051,6 +4115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124603,
+      "num": 124603,
+      "word": "请让空姐告别没苦硬吃",
+      "onboard_time": 1752484581,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124379,
       "num": 124379,
       "word": "狗狗在叫醒和踩醒之间选择热醒主人",
@@ -4073,14 +4145,6 @@
       "onboard_time": 1752456500,
       "rank": 32,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 124072,
-      "num": 124072,
-      "word": "请让空姐告别没苦硬吃",
-      "onboard_time": 1752484581,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 123959,
@@ -4235,14 +4299,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 120529,
-      "num": 120529,
-      "word": "谁来懂一下李一桐这双手",
-      "onboard_time": 1752485122,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 120084,
       "num": 120084,
       "word": "龚俊形容夫妻是沈腾马丽演过",
@@ -4395,14 +4451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 116503,
-      "num": 116503,
-      "word": "六旬老外被辣条哄成胚胎",
-      "onboard_time": 1752485602,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 116086,
       "num": 169983,
       "word": "F4合体言承旭当场红了眼眶",
@@ -4524,7 +4572,7 @@
     },
     {
       "raw_hot": 112918,
-      "num": 112918,
+      "num": 188318,
       "word": "北大中文系毕业生建议学理工科",
       "onboard_time": 1752481221,
       "rank": 45,
@@ -4585,6 +4633,14 @@
       "onboard_time": 1752388582,
       "rank": 46,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 110930,
+      "num": 110930,
+      "word": "手机充电一整夜会更伤电池吗",
+      "onboard_time": 1752485840,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 110607,
@@ -4673,6 +4729,14 @@
       "onboard_time": 1752404242,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106412,
+      "num": 124447,
+      "word": "2025年中国外贸半年报出炉",
+      "onboard_time": 1752484220,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 106242,
@@ -4811,12 +4875,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 102788,
-      "num": 124447,
-      "word": "2025年中国外贸半年报出炉",
-      "onboard_time": 1752484220,
-      "rank": 35,
-      "category": "国内时政"
+      "raw_hot": 102912,
+      "num": 102912,
+      "word": "徐枫灿的学弟拿下空军招飞全国第一",
+      "onboard_time": 1752486381,
+      "rank": 47,
+      "category": "正能量"
     },
     {
       "raw_hot": 102726,
@@ -4865,6 +4929,14 @@
       "onboard_time": 1752394821,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100148,
+      "num": 100148,
+      "word": "边伯贤抢票",
+      "onboard_time": 1752486502,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 99094,
@@ -4993,14 +5065,6 @@
       "onboard_time": 1752387263,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93689,
-      "num": 120116,
-      "word": "吴磊Burberry",
-      "onboard_time": 1752485662,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 93605,
@@ -5363,6 +5427,14 @@
       "category": "数码,民生新闻"
     },
     {
+      "raw_hot": 60290,
+      "num": 493275,
+      "word": "上半年我国进出口同比增长2.9%",
+      "onboard_time": 1752485423,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 59538,
       "num": 142254,
       "word": "村民不满景区收费发帖指引游客逃票",
@@ -5411,20 +5483,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 52778,
+      "num": 221403,
+      "word": "解限机全球评分",
+      "onboard_time": 1752483982,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 52669,
       "num": 280055,
       "word": "瑜伽馆会员免费拍照最终花了8100",
       "onboard_time": 1752412942,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 52191,
-      "num": 221403,
-      "word": "解限机全球评分",
-      "onboard_time": 1752483982,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 51831,
@@ -5609,14 +5681,6 @@
       "onboard_time": 1752404481,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 31118,
-      "num": 493275,
-      "word": "上半年我国进出口同比增长2.9%",
-      "onboard_time": 1752485423,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 30302,
@@ -5855,6 +5919,9 @@
     },
     {
       "word": "#持之以恒纠治四风#"
+    },
+    {
+      "word": "#城市发展不仅要见物更要见人#"
     }
   ]
 }
