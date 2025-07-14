@@ -1,0 +1,410 @@
+{
+  "runTime": 1752475288783,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1041231,
+        "num": 1166597,
+        "word": "西安地震",
+        "onboard_time": 1752466282,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 911732,
+        "num": 911732,
+        "word": "韩国一个西瓜涨到156元",
+        "onboard_time": 1752471140,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 51936,
+        "num": 735150,
+        "word": "未来一周大范围高温来袭",
+        "onboard_time": 1752414624,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 694014,
+        "num": 694014,
+        "word": "Oakley 王楚钦",
+        "onboard_time": 1752471442,
+        "rank": 3,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 667099,
+        "num": 667099,
+        "word": "女子被造黄谣维权3年造谣者拒赔偿",
+        "onboard_time": 1752470782,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 628632,
+        "num": 628632,
+        "word": "分手孩子改姓男方拒付抚养费",
+        "onboard_time": 1752468683,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 615531,
+        "num": 615531,
+        "word": "向往的生活",
+        "onboard_time": 1752470062,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 551618,
+        "num": 551618,
+        "word": "林俊杰心脏",
+        "onboard_time": 1752415406,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 429886,
+        "num": 429886,
+        "word": "潘婷三分钟奇迹是商标",
+        "onboard_time": 1752468204,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 197664,
+        "num": 382118,
+        "word": "乌军称俄士兵向机器人部队投降",
+        "onboard_time": 1752473782,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 490494,
+        "num": 377417,
+        "word": "儿子去世后母亲客厅停尸5个月",
+        "onboard_time": 1752475102,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 459033,
+        "num": 372445,
+        "word": "梓渝你好这里不让撕名牌",
+        "onboard_time": 1752469882,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366198,
+        "num": 366198,
+        "word": "吴彤从朋友圈摇到微博了",
+        "onboard_time": 1752469882,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349387,
+        "num": 349387,
+        "word": "官方回应环卫工翻垃圾找手表引质疑",
+        "onboard_time": 1752469462,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331387,
+        "num": 331387,
+        "word": "下班回家发现屋里全是小偷",
+        "onboard_time": 1752464722,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 286783,
+        "num": 286783,
+        "word": "田栩宁超话空降",
+        "onboard_time": 1752467063,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207221,
+        "num": 269667,
+        "word": "纪梵希美妆 赵丽颖",
+        "onboard_time": 1752465803,
+        "rank": 16,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 207325,
+        "num": 268415,
+        "word": "电视剧樱桃琥珀开播",
+        "onboard_time": 1752472822,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267394,
+        "num": 267394,
+        "word": "新疆的小孩一出生就带全妆",
+        "onboard_time": 1752460461,
+        "rank": 18,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 256102,
+        "num": 256102,
+        "word": "王楚钦美国大满贯夺冠",
+        "onboard_time": 1752462981,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267611,
+        "num": 252293,
+        "word": "张凌赫王楚然身材",
+        "onboard_time": 1752470182,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236008,
+        "num": 236008,
+        "word": "陈熠挽着王曼昱的手复盘",
+        "onboard_time": 1752474681,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103306,
+        "num": 211215,
+        "word": "我的非凡夏日时刻",
+        "onboard_time": 1752474980,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 207143,
+        "num": 207143,
+        "word": "樱桃琥珀",
+        "onboard_time": 1752467425,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201329,
+        "num": 201329,
+        "word": "王牌对王牌9摇人",
+        "onboard_time": 1752474980,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191568,
+        "num": 191568,
+        "word": "朴彩英火星哥演唱会彩排",
+        "onboard_time": 1752469224,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189115,
+        "num": 189115,
+        "word": "口头告知后2000万投资项目遭强拆",
+        "onboard_time": 1752472942,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186112,
+        "num": 186112,
+        "word": "杨肸子香奈儿竟然是好朋友",
+        "onboard_time": 1752465682,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184779,
+        "num": 184779,
+        "word": "嘻哈辞职",
+        "onboard_time": 1752472342,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171516,
+        "num": 171516,
+        "word": "迅猛龙晒复旦大学录取通知书",
+        "onboard_time": 1752460640,
+        "rank": 29,
+        "category": "网红,教育"
+      },
+      {
+        "raw_hot": 165797,
+        "num": 165797,
+        "word": "减肥黄金30天马上开始",
+        "onboard_time": 1752462142,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 151738,
+        "num": 151738,
+        "word": "内娱男星撕拉片新四大TOP",
+        "onboard_time": 1752474922,
+        "rank": 31,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 145837,
+        "num": 145837,
+        "word": "王楚钦说终于可以休息了",
+        "onboard_time": 1752472641,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140499,
+        "num": 140499,
+        "word": "男生疑被骗缅甸母亲称收到很多私信",
+        "onboard_time": 1752471682,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131172,
+        "num": 131172,
+        "word": "女子找大师逆天改命被骗80万",
+        "onboard_time": 1752473782,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128602,
+        "num": 128602,
+        "word": "60岁大爷开人均550元餐厅爆火",
+        "onboard_time": 1752465203,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126257,
+        "num": 126257,
+        "word": "一天中心脏最脆弱的3个时段",
+        "onboard_time": 1752467904,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 115892,
+        "num": 115892,
+        "word": "艾福杰尼又又又来参加新疆婚礼",
+        "onboard_time": 1752472641,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114352,
+        "num": 114352,
+        "word": "王楚钦拍摄城市冠军照",
+        "onboard_time": 1752474321,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113003,
+        "num": 113003,
+        "word": "偶遇蔡徐坤",
+        "onboard_time": 1752456141,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109603,
+        "num": 109603,
+        "word": "张雅钦在be赛道强得可怕",
+        "onboard_time": 1752475162,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105749,
+        "num": 105749,
+        "word": "樱桃琥珀云包场",
+        "onboard_time": 1752465442,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104385,
+        "num": 104385,
+        "word": "和杨紫李现沉浸式体验非遗盛宴",
+        "onboard_time": 1752474202,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99297,
+        "num": 99297,
+        "word": "张凌赫王楚然落水公主抱",
+        "onboard_time": 1752454401,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97165,
+        "num": 97165,
+        "word": "樱桃琥珀香港1米2小床",
+        "onboard_time": 1752468743,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96879,
+        "num": 96879,
+        "word": "闪耀暖暖",
+        "onboard_time": 1752469224,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 96161,
+        "num": 96161,
+        "word": "鹿晗分享撕拉片",
+        "onboard_time": 1752449600,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 95381,
+        "num": 95381,
+        "word": "小朋友看到卢沟桥和高铁同框",
+        "onboard_time": 1752473842,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92315,
+        "num": 92315,
+        "word": "每天4小时久坐或诱发致命血栓",
+        "onboard_time": 1752473961,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 91846,
+        "num": 91846,
+        "word": "美国小选手与孙颖莎合影",
+        "onboard_time": 1752475224,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#持之以恒纠治四风#"
+    }
+  }
+}

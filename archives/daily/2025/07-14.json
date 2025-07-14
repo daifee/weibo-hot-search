@@ -1,6 +1,6 @@
 {
   "startTime": 1752424285355,
-  "endTime": 1752472176137,
+  "endTime": 1752475288783,
   "band_list": [
     {
       "raw_hot": 5991584,
@@ -115,6 +115,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 911732,
+      "num": 911732,
+      "word": "韩国一个西瓜涨到156元",
+      "onboard_time": 1752471140,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 872556,
       "num": 872556,
       "word": "鹿晗分享撕拉片",
@@ -147,6 +155,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 694014,
+      "num": 694014,
+      "word": "Oakley 王楚钦",
+      "onboard_time": 1752471442,
+      "rank": 17,
+      "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 667099,
+      "num": 667099,
+      "word": "女子被造黄谣维权3年造谣者拒赔偿",
+      "onboard_time": 1752470782,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 663136,
       "num": 663136,
       "word": "年轻人为何都不愿结婚",
@@ -177,6 +201,14 @@
       "onboard_time": 1752468204,
       "rank": 40,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 615531,
+      "num": 615531,
+      "word": "向往的生活",
+      "onboard_time": 1752470062,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 601972,
@@ -217,6 +249,14 @@
       "onboard_time": 1752423922,
       "rank": 36,
       "category": "网红"
+    },
+    {
+      "raw_hot": 490494,
+      "num": 377417,
+      "word": "儿子去世后母亲客厅停尸5个月",
+      "onboard_time": 1752475102,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 483636,
@@ -265,14 +305,6 @@
       "onboard_time": 1752457101,
       "rank": 4,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 439420,
-      "num": 439420,
-      "word": "向往的生活",
-      "onboard_time": 1752470062,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 436089,
@@ -339,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 366198,
+      "num": 366198,
+      "word": "吴彤从朋友圈摇到微博了",
+      "onboard_time": 1752469882,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 351458,
       "num": 276157,
       "word": "女子买泳衣走光后被告知不能游泳",
@@ -347,7 +387,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 346342,
+      "raw_hot": 349387,
       "num": 409120,
       "word": "官方回应环卫工翻垃圾找手表引质疑",
       "onboard_time": 1752469462,
@@ -411,14 +451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 289031,
-      "num": 289031,
-      "word": "Oakley 王楚钦",
-      "onboard_time": 1752471442,
-      "rank": 17,
-      "category": "体育,时尚"
-    },
-    {
       "raw_hot": 284829,
       "num": 385501,
       "word": "戴比尔斯品牌大使白鹿",
@@ -459,20 +491,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 267611,
+      "num": 252293,
+      "word": "张凌赫王楚然身材",
+      "onboard_time": 1752470182,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 266165,
       "num": 266165,
       "word": "两医院HPV结果相反男子花万元治疗",
       "onboard_time": 1752420085,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 265346,
-      "num": 386875,
-      "word": "韩国一个西瓜涨到156元",
-      "onboard_time": 1752471140,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 259994,
@@ -489,14 +521,6 @@
       "onboard_time": 1752464483,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 248947,
-      "num": 230154,
-      "word": "张凌赫王楚然身材",
-      "onboard_time": 1752470182,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 245835,
@@ -529,6 +553,14 @@
       "onboard_time": 1752469224,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 236008,
+      "num": 236008,
+      "word": "陈熠挽着王曼昱的手复盘",
+      "onboard_time": 1752474681,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 230449,
@@ -619,14 +651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 210134,
-      "num": 210134,
-      "word": "吴彤从朋友圈摇到微博了",
-      "onboard_time": 1752469882,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 210042,
       "num": 210042,
       "word": "鹿晗拍我发朋友圈",
@@ -659,6 +683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 207325,
+      "num": 268415,
+      "word": "电视剧樱桃琥珀开播",
+      "onboard_time": 1752472822,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206693,
       "num": 206693,
       "word": "樱桃琥珀香港1米2小床",
@@ -683,6 +715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 201329,
+      "num": 201329,
+      "word": "王牌对王牌9摇人",
+      "onboard_time": 1752474980,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198613,
       "num": 198613,
       "word": "张本智和哎哎哎哎制止闪光灯",
@@ -697,6 +737,14 @@
       "onboard_time": 1752405742,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197664,
+      "num": 382118,
+      "word": "乌军称俄士兵向机器人部队投降",
+      "onboard_time": 1752473782,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 195910,
@@ -747,6 +795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 189115,
+      "num": 189115,
+      "word": "口头告知后2000万投资项目遭强拆",
+      "onboard_time": 1752472942,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188436,
       "num": 188436,
       "word": "陈熠WTT美国大满贯女单亚军",
@@ -779,6 +835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184779,
+      "num": 184779,
+      "word": "嘻哈辞职",
+      "onboard_time": 1752472342,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183689,
       "num": 183689,
       "word": "女子昏厥男子跪地心肺复苏被指袭胸",
@@ -793,14 +857,6 @@
       "onboard_time": 1752465143,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 181899,
-      "num": 181899,
-      "word": "女子被造黄谣维权3年造谣者拒赔偿",
-      "onboard_time": 1752470782,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 179350,
@@ -947,6 +1003,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 151738,
+      "num": 151738,
+      "word": "内娱男星撕拉片新四大TOP",
+      "onboard_time": 1752474922,
+      "rank": 31,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 148152,
       "num": 148152,
       "word": "李现好恐怖的面部肌肉控制力",
@@ -971,6 +1035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145837,
+      "num": 145837,
+      "word": "王楚钦说终于可以休息了",
+      "onboard_time": 1752472641,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143419,
       "num": 177346,
       "word": "张小斐粉丝画的血泪名场面",
@@ -993,6 +1065,14 @@
       "onboard_time": 1752468922,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 140499,
+      "num": 166167,
+      "word": "男生疑被骗缅甸母亲称收到很多私信",
+      "onboard_time": 1752471682,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140194,
@@ -1049,6 +1129,14 @@
       "onboard_time": 1752466882,
       "rank": 45,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 131172,
+      "num": 131172,
+      "word": "女子找大师逆天改命被骗80万",
+      "onboard_time": 1752473782,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129816,
@@ -1171,6 +1259,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 115892,
+      "num": 115892,
+      "word": "艾福杰尼又又又来参加新疆婚礼",
+      "onboard_time": 1752472641,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115563,
       "num": 115563,
       "word": "陈熠朱雨玲登场",
@@ -1185,6 +1281,14 @@
       "onboard_time": 1752418466,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114352,
+      "num": 114352,
+      "word": "王楚钦拍摄城市冠军照",
+      "onboard_time": 1752474321,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 114105,
@@ -1209,6 +1313,14 @@
       "onboard_time": 1752460522,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109603,
+      "num": 109603,
+      "word": "张雅钦在be赛道强得可怕",
+      "onboard_time": 1752475162,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 109029,
@@ -1243,12 +1355,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 104385,
+      "num": 104385,
+      "word": "和杨紫李现沉浸式体验非遗盛宴",
+      "onboard_time": 1752474202,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104004,
       "num": 104004,
       "word": "蒯曼憋笑失败",
       "onboard_time": 1752454222,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103306,
+      "num": 211215,
+      "word": "我的非凡夏日时刻",
+      "onboard_time": 1752474980,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 97128,
@@ -1299,6 +1427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 95381,
+      "num": 95381,
+      "word": "小朋友看到卢沟桥和高铁同框",
+      "onboard_time": 1752473842,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94926,
       "num": 378776,
       "word": "尚界H5后排仨人不贴肩",
@@ -1313,6 +1449,22 @@
       "onboard_time": 1752418526,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 92315,
+      "num": 92315,
+      "word": "每天4小时久坐或诱发致命血栓",
+      "onboard_time": 1752473961,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 91846,
+      "num": 91846,
+      "word": "美国小选手与孙颖莎合影",
+      "onboard_time": 1752475224,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 89904,
@@ -1425,14 +1577,6 @@
       "onboard_time": 1752412823,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 61994,
-      "num": 166167,
-      "word": "男生疑被骗缅甸母亲称收到很多私信",
-      "onboard_time": 1752471682,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 61444,
