@@ -1,0 +1,410 @@
+{
+  "runTime": 1752472176137,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1250318,
+        "num": 1250318,
+        "word": "西安地震",
+        "onboard_time": 1752466282,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 962933,
+        "num": 962933,
+        "word": "分手孩子改姓男方拒付抚养费",
+        "onboard_time": 1752468683,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71781,
+        "num": 829928,
+        "word": "未来一周大范围高温来袭",
+        "onboard_time": 1752414624,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 761520,
+        "num": 761520,
+        "word": "林俊杰心脏",
+        "onboard_time": 1752415406,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 635348,
+        "num": 635348,
+        "word": "王楚钦美国大满贯夺冠",
+        "onboard_time": 1752462981,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 634193,
+        "num": 634193,
+        "word": "下班回家发现屋里全是小偷",
+        "onboard_time": 1752464722,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 617838,
+        "num": 617838,
+        "word": "潘婷三分钟奇迹是商标",
+        "onboard_time": 1752468204,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 481608,
+        "num": 481608,
+        "word": "新疆的小孩一出生就带全妆",
+        "onboard_time": 1752460461,
+        "rank": 7,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 439420,
+        "num": 439420,
+        "word": "向往的生活",
+        "onboard_time": 1752470062,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265346,
+        "num": 386875,
+        "word": "韩国一个西瓜涨到156元",
+        "onboard_time": 1752471140,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 643993,
+        "num": 378882,
+        "word": "梓渝你好这里不让撕名牌",
+        "onboard_time": 1752469882,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 455007,
+        "num": 376206,
+        "word": "田栩宁超话空降",
+        "onboard_time": 1752467063,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369880,
+        "num": 369880,
+        "word": "纪梵希美妆 赵丽颖",
+        "onboard_time": 1752465803,
+        "rank": 12,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 355479,
+        "num": 355479,
+        "word": "杨肸子香奈儿竟然是好朋友",
+        "onboard_time": 1752465682,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346342,
+        "num": 346342,
+        "word": "官方回应环卫工翻垃圾找手表引质疑",
+        "onboard_time": 1752469462,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311032,
+        "num": 311032,
+        "word": "樱桃琥珀",
+        "onboard_time": 1752467425,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294412,
+        "num": 294412,
+        "word": "60岁大爷开人均550元餐厅爆火",
+        "onboard_time": 1752465203,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289031,
+        "num": 289031,
+        "word": "Oakley 王楚钦",
+        "onboard_time": 1752471442,
+        "rank": 17,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 257383,
+        "num": 257383,
+        "word": "迅猛龙晒复旦大学录取通知书",
+        "onboard_time": 1752460640,
+        "rank": 18,
+        "category": "网红,教育"
+      },
+      {
+        "raw_hot": 238788,
+        "num": 238788,
+        "word": "朴彩英火星哥演唱会彩排",
+        "onboard_time": 1752469224,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 248947,
+        "num": 230154,
+        "word": "张凌赫王楚然身材",
+        "onboard_time": 1752470182,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210134,
+        "num": 210134,
+        "word": "吴彤从朋友圈摇到微博了",
+        "onboard_time": 1752469882,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200771,
+        "num": 200771,
+        "word": "樱桃琥珀云包场",
+        "onboard_time": 1752465442,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194639,
+        "num": 194639,
+        "word": "张本智和哎哎哎哎制止闪光灯",
+        "onboard_time": 1752468743,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190941,
+        "num": 190941,
+        "word": "明日方舟",
+        "onboard_time": 1752471623,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 49637,
+        "num": 185786,
+        "word": "A股半日缩量439亿元",
+        "onboard_time": 1752465862,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 181899,
+        "num": 181899,
+        "word": "女子被造黄谣维权3年造谣者拒赔偿",
+        "onboard_time": 1752470782,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177794,
+        "num": 177794,
+        "word": "鹿晗分享撕拉片",
+        "onboard_time": 1752449600,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 176622,
+        "num": 176622,
+        "word": "樱桃琥珀香港1米2小床",
+        "onboard_time": 1752468743,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61994,
+        "num": 166167,
+        "word": "男生疑被骗缅甸母亲称收到很多私信",
+        "onboard_time": 1752471682,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164724,
+        "num": 164724,
+        "word": "偶遇蔡徐坤",
+        "onboard_time": 1752456141,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157976,
+        "num": 157976,
+        "word": "减肥黄金30天马上开始",
+        "onboard_time": 1752462142,
+        "rank": 31,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 151817,
+        "num": 151817,
+        "word": "一天中心脏最脆弱的3个时段",
+        "onboard_time": 1752467904,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 143396,
+        "num": 143396,
+        "word": "正当防卫 女性在审判桌上掀桌",
+        "onboard_time": 1752470601,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136914,
+        "num": 136914,
+        "word": "李一桐被喊妈妈的反应",
+        "onboard_time": 1752469523,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131664,
+        "num": 131664,
+        "word": "张凌赫王楚然落水公主抱",
+        "onboard_time": 1752454401,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125647,
+        "num": 125647,
+        "word": "被女子强搂亲吻男孩妈妈愤怒回应",
+        "onboard_time": 1752423024,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118041,
+        "num": 118041,
+        "word": "邓亚萍祝贺朱雨玲WTT夺冠",
+        "onboard_time": 1752471563,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110506,
+        "num": 110506,
+        "word": "闪耀暖暖",
+        "onboard_time": 1752469224,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109029,
+        "num": 109029,
+        "word": "KPOP混音卷王出现了",
+        "onboard_time": 1752471383,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 106585,
+        "num": 106585,
+        "word": "田栩宁更新视频营业",
+        "onboard_time": 1752463103,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103813,
+        "num": 103813,
+        "word": "戴比尔斯品牌大使白鹿",
+        "onboard_time": 1752459501,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101223,
+        "num": 101223,
+        "word": "书卷一梦原来是剧中剧中剧",
+        "onboard_time": 1752467963,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100698,
+        "num": 100698,
+        "word": "鹿晗洒水差点把自己摔倒",
+        "onboard_time": 1752468922,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 100537,
+        "num": 100537,
+        "word": "王楚钦第3次WTT大满贯男单冠军",
+        "onboard_time": 1752464363,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99755,
+        "num": 99755,
+        "word": "落石砸车致司机死亡案家属提百万赔偿",
+        "onboard_time": 1752462142,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99327,
+        "num": 99327,
+        "word": "朱雨玲美国大满贯夺冠",
+        "onboard_time": 1752459141,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99299,
+        "num": 99299,
+        "word": "频繁换工作的原因是服从性太差",
+        "onboard_time": 1752465023,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96494,
+        "num": 96494,
+        "word": "尚界H5正式亮相",
+        "onboard_time": 1752466163,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 94456,
+        "num": 94456,
+        "word": "沈腾说马丽老公上秤至少半吨",
+        "onboard_time": 1752464483,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#持之以恒纠治四风#"
+    }
+  }
+}
