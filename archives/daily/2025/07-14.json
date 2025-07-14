@@ -1,6 +1,6 @@
 {
   "startTime": 1752424285355,
-  "endTime": 1752478235312,
+  "endTime": 1752479069703,
   "band_list": [
     {
       "raw_hot": 5991584,
@@ -412,7 +412,7 @@
     },
     {
       "raw_hot": 336620,
-      "num": 279650,
+      "num": 332813,
       "word": "田栩宁沈月同框拍戏",
       "onboard_time": 1752477142,
       "rank": 10,
@@ -563,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253057,
+      "num": 253057,
+      "word": "孙燕姿南京演唱会抢票",
+      "onboard_time": 1752478401,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 245835,
       "num": 231876,
       "word": "网红刘琳琳说小鱼海棠见钱眼开",
@@ -633,6 +641,14 @@
       "onboard_time": 1752468863,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 222124,
+      "num": 222124,
+      "word": "侃爷发文感谢中国粉丝",
+      "onboard_time": 1752478941,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 218225,
@@ -780,7 +796,7 @@
     },
     {
       "raw_hot": 204790,
-      "num": 187007,
+      "num": 198670,
       "word": "赵今麦是王子张凌赫是公主",
       "onboard_time": 1752477262,
       "rank": 27,
@@ -809,6 +825,14 @@
       "onboard_time": 1752405742,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197629,
+      "num": 197629,
+      "word": "单依纯许馨一凡竟然是室友",
+      "onboard_time": 1752478164,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 196623,
@@ -939,6 +963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 183038,
+      "num": 227261,
+      "word": "被女子强搂亲吻男孩妈妈最新发声",
+      "onboard_time": 1752476482,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182063,
       "num": 182063,
       "word": "时代少年团新歌",
@@ -1003,6 +1035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 166997,
+      "num": 166997,
+      "word": "白敬亭对朋友表达感情的方式",
+      "onboard_time": 1752478522,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166922,
       "num": 166922,
       "word": "10cm玩偶娃衣",
@@ -1065,6 +1105,14 @@
       "onboard_time": 1752411865,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161457,
+      "num": 161457,
+      "word": "樱桃琥珀热度",
+      "onboard_time": 1752478164,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 158885,
@@ -1259,20 +1307,20 @@
       "category": "民生新闻,休闲"
     },
     {
+      "raw_hot": 133165,
+      "num": 133165,
+      "word": "我要有刘德华联系方式也庄达菲这样",
+      "onboard_time": 1752478882,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 129816,
       "num": 129816,
       "word": "Apex",
       "onboard_time": 1752444555,
       "rank": 6,
       "category": "音乐,艺人"
-    },
-    {
-      "raw_hot": 129360,
-      "num": 129360,
-      "word": "被女子强搂亲吻男孩妈妈最新发声",
-      "onboard_time": 1752476482,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128978,
@@ -1299,6 +1347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 126966,
+      "num": 186203,
+      "word": "律师称强吻男孩致水痘或涉故意伤害",
+      "onboard_time": 1752475282,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126858,
       "num": 126858,
       "word": "我也想在工作群这么回复",
@@ -1307,12 +1363,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 126356,
+      "num": 154699,
+      "word": "在新闻发布会上学到鉴假货知识",
+      "onboard_time": 1752478761,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126018,
       "num": 126018,
       "word": "林俊杰嘉宾是孙燕姿",
       "onboard_time": 1752413904,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 125479,
+      "num": 125479,
+      "word": "关晓彤在海边拍戏热迷糊了",
+      "onboard_time": 1752479000,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 124115,
@@ -1379,12 +1451,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 120011,
-      "num": 186203,
-      "word": "律师称强吻男孩致水痘或涉故意伤害",
-      "onboard_time": 1752475282,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 121109,
+      "num": 121109,
+      "word": "蔚来大涨10%",
+      "onboard_time": 1752479000,
+      "rank": 45,
+      "category": "汽车,财经"
+    },
+    {
+      "raw_hot": 120485,
+      "num": 120485,
+      "word": "真的会被台湾人的谐音梗笑死",
+      "onboard_time": 1752478703,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 118041,
@@ -1409,14 +1489,6 @@
       "onboard_time": 1752414624,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 116568,
-      "num": 116568,
-      "word": "单依纯许馨一凡竟然是室友",
-      "onboard_time": 1752478164,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 115892,
@@ -1465,14 +1537,6 @@
       "onboard_time": 1752419606,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 113427,
-      "num": 113427,
-      "word": "樱桃琥珀热度",
-      "onboard_time": 1752478164,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 113400,
@@ -1793,6 +1857,14 @@
       "onboard_time": 1752477321,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 28303,
+      "num": 161725,
+      "word": "奶茶店一女员工偷换店内收款二维码",
+      "onboard_time": 1752478882,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27185,
