@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752489037054,
+  "endTime": 1752490131790,
   "band_list": [
     {
       "raw_hot": 14050966,
@@ -155,6 +155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1254726,
+      "num": 274924,
+      "word": "小海绵干嘛呢",
+      "onboard_time": 1752485962,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1250859,
       "num": 453116,
       "word": "外卖大战有骑手称要跑通宵",
@@ -171,20 +179,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1247420,
+      "num": 1247420,
+      "word": "外卖大战已经进阶到负4元购了",
+      "onboard_time": 1752486925,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1245035,
       "num": 1245035,
       "word": "奶茶店一女员工偷换店内收款二维码",
       "onboard_time": 1752478882,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1233447,
-      "num": 274924,
-      "word": "小海绵干嘛呢",
-      "onboard_time": 1752485962,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 1232182,
@@ -416,14 +424,6 @@
       "word": "娃哈哈",
       "onboard_time": 1752396082,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 885401,
-      "num": 1141664,
-      "word": "外卖大战已经进阶到负4元购了",
-      "onboard_time": 1752486925,
-      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -763,6 +763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 586371,
+      "num": 537853,
+      "word": "鹿晗发了二十张自拍",
+      "onboard_time": 1752487822,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 580753,
       "num": 580753,
       "word": "纪梵希美妆 赵丽颖",
@@ -785,6 +793,14 @@
       "onboard_time": 1752317001,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 566178,
+      "num": 566178,
+      "word": "网友怀疑气象部门刻意不报40度",
+      "onboard_time": 1752487942,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 556020,
@@ -817,6 +833,14 @@
       "onboard_time": 1752416546,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 547308,
+      "num": 240219,
+      "word": "金子涵近照瘦了好多",
+      "onboard_time": 1752487882,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 538600,
@@ -899,12 +923,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 497538,
-      "num": 497538,
-      "word": "鹿晗发了二十张自拍",
-      "onboard_time": 1752487822,
-      "rank": 3,
-      "category": "演出"
+      "raw_hot": 498924,
+      "num": 247252,
+      "word": "金世佳增肥了吗",
+      "onboard_time": 1752486263,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 496061,
@@ -921,14 +945,6 @@
       "onboard_time": 1752423922,
       "rank": 36,
       "category": "网红"
-    },
-    {
-      "raw_hot": 493159,
-      "num": 247252,
-      "word": "金世佳增肥了吗",
-      "onboard_time": 1752486263,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 492708,
@@ -961,6 +977,22 @@
       "onboard_time": 1752479603,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 476542,
+      "num": 476542,
+      "word": "偶像剧不准用折叠伞",
+      "onboard_time": 1752488722,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 472436,
+      "num": 472436,
+      "word": "尾号77777777手机号320万元拍出",
+      "onboard_time": 1752488241,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 463783,
@@ -1017,6 +1049,14 @@
       "onboard_time": 1752413904,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 449275,
+      "num": 245588,
+      "word": "超级暂停",
+      "onboard_time": 1752485122,
+      "rank": 23,
+      "category": "互联网,作品衍生"
     },
     {
       "raw_hot": 448242,
@@ -1131,14 +1171,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 393449,
-      "num": 245588,
-      "word": "超级暂停",
-      "onboard_time": 1752485122,
-      "rank": 23,
-      "category": "互联网,作品衍生"
-    },
-    {
       "raw_hot": 385572,
       "num": 385572,
       "word": "吴彤从朋友圈摇到微博了",
@@ -1217,14 +1249,6 @@
       "onboard_time": 1752401541,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 363881,
-      "num": 218653,
-      "word": "金子涵近照瘦了好多",
-      "onboard_time": 1752487882,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 359786,
@@ -1571,14 +1595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 283275,
-      "num": 283275,
-      "word": "网友怀疑气象部门刻意不报40度",
-      "onboard_time": 1752487942,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 283250,
       "num": 283250,
       "word": "何惟芳蒋长扬人鬼情未了",
@@ -1681,14 +1697,6 @@
       "onboard_time": 1752385040,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 269641,
-      "num": 269641,
-      "word": "尾号77777777手机号320万元拍出",
-      "onboard_time": 1752488241,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 268791,
@@ -1931,6 +1939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 228600,
+      "num": 228600,
+      "word": "迪丽热巴方否认二搭开启",
+      "onboard_time": 1752489322,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 226731,
       "num": 226731,
       "word": "刺痛Gemini直播",
@@ -2027,6 +2043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216045,
+      "num": 216045,
+      "word": "梓渝你的丑衣服来了",
+      "onboard_time": 1752488542,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215753,
       "num": 215753,
       "word": "宁艺卓费加罗七月刊封面预告",
@@ -2068,7 +2092,7 @@
     },
     {
       "raw_hot": 214980,
-      "num": 214980,
+      "num": 218209,
       "word": "吴磊Burberry",
       "onboard_time": 1752485662,
       "rank": 39,
@@ -2417,14 +2441,6 @@
       "onboard_time": 1752389902,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 193713,
-      "num": 193713,
-      "word": "梓渝你的丑衣服来了",
-      "onboard_time": 1752488542,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 192575,
@@ -2899,6 +2915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172355,
+      "num": 241599,
+      "word": "给翻垃圾环卫工的红包是谁拒收的",
+      "onboard_time": 1752489144,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172005,
       "num": 172005,
       "word": "频繁换工作的原因是服从性太差",
@@ -3331,14 +3355,6 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 156231,
-      "num": 156231,
-      "word": "偶像剧不准用折叠伞",
-      "onboard_time": 1752488722,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 155978,
       "num": 286862,
       "word": "5岁娃误食蚕豆后全身变黄进ICU",
@@ -3385,6 +3401,14 @@
       "onboard_time": 1752371721,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153327,
+      "num": 153327,
+      "word": "乌克兰人凑钱请俄军炸毁征兵办",
+      "onboard_time": 1752488603,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 152890,
@@ -3449,6 +3473,14 @@
       "onboard_time": 1752390321,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151294,
+      "num": 151294,
+      "word": "12306回应乘客高铁上用小型电煮锅",
+      "onboard_time": 1752489021,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150386,
@@ -3587,6 +3619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146931,
+      "num": 146931,
+      "word": "吃出半只蟑螂又从喉咙抠出另外半只",
+      "onboard_time": 1752489501,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146834,
       "num": 127314,
       "word": "柯淳自曝初恋被分手",
@@ -3657,6 +3697,14 @@
       "onboard_time": 1752387383,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143616,
+      "num": 143616,
+      "word": "家里最没用的耽误了最有用的人一天",
+      "onboard_time": 1752489201,
+      "rank": 34,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 143419,
@@ -3787,6 +3835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139908,
+      "num": 224433,
+      "word": "孙俪陪2个孩子在海里呆2小时找海龟",
+      "onboard_time": 1752489622,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139634,
       "num": 175924,
       "word": "四万五买空调装一半对方失联",
@@ -3843,6 +3899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139151,
+      "num": 139151,
+      "word": "王昶说全力冲击认真备战",
+      "onboard_time": 1752488904,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138583,
       "num": 138583,
       "word": "12345回应侃爷上海演唱会提前退场",
@@ -3889,14 +3953,6 @@
       "onboard_time": 1752370221,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 137013,
-      "num": 126894,
-      "word": "王昶说全力冲击认真备战",
-      "onboard_time": 1752488904,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 136498,
@@ -4051,6 +4107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130494,
+      "num": 130494,
+      "word": "金子涵退圈后首个活动",
+      "onboard_time": 1752490042,
+      "rank": 38,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 130135,
       "num": 130135,
       "word": "内娱爱豆听不得恋爱两个字",
@@ -4123,12 +4187,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 128523,
+      "num": 128523,
+      "word": "别人夸你漂亮优秀怎么办",
+      "onboard_time": 1752490103,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 128425,
       "num": 128425,
       "word": "女主事业脑男主恋爱脑",
       "onboard_time": 1752488183,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128144,
+      "num": 130038,
+      "word": "手机充电一整夜会更伤电池吗",
+      "onboard_time": 1752485840,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 128099,
@@ -4185,14 +4265,6 @@
       "onboard_time": 1752468863,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 126520,
-      "num": 126520,
-      "word": "乌克兰人凑钱请俄军炸毁征兵办",
-      "onboard_time": 1752488603,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 126356,
@@ -4273,6 +4345,14 @@
       "onboard_time": 1752484581,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124454,
+      "num": 124454,
+      "word": "by2回复林俊杰",
+      "onboard_time": 1752489681,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 124379,
@@ -4457,6 +4537,14 @@
       "onboard_time": 1752322522,
       "rank": 35,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 120657,
+      "num": 120657,
+      "word": "国产剧不搞雌竞搞雌敬",
+      "onboard_time": 1752489981,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 120084,
@@ -4803,14 +4891,6 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 110930,
-      "num": 110930,
-      "word": "手机充电一整夜会更伤电池吗",
-      "onboard_time": 1752485840,
-      "rank": 43,
-      "category": "数码"
-    },
-    {
       "raw_hot": 110607,
       "num": 109600,
       "word": "鞠婧祎甩双马尾这一下",
@@ -4937,14 +5017,6 @@
       "onboard_time": 1752460581,
       "rank": 44,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 106107,
-      "num": 106107,
-      "word": "12306回应乘客高铁上用小型电煮锅",
-      "onboard_time": 1752489021,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 105606,
@@ -5675,6 +5747,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 56283,
+      "num": 226725,
+      "word": "张凌赫一个眼神拍出了窒息感",
+      "onboard_time": 1752489742,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 54425,
       "num": 54425,
       "word": "撕拉片",
@@ -5713,6 +5793,14 @@
       "onboard_time": 1752363138,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 50869,
+      "num": 230519,
+      "word": "环卫劳动尊严比8吨垃圾更值得关注",
+      "onboard_time": 1752489082,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50505,
@@ -5801,6 +5889,14 @@
       "onboard_time": 1752341421,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 43353,
+      "num": 161440,
+      "word": "母亲曝儿子缅甸失联后通话内容",
+      "onboard_time": 1752489742,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39825,
@@ -6113,6 +6209,14 @@
       "onboard_time": 1752441314,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12812,
+      "num": 113861,
+      "word": "攻击性是一个人的生命力",
+      "onboard_time": 1752489322,
+      "rank": 49,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 11329,

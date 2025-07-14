@@ -1,0 +1,410 @@
+{
+  "runTime": 1752490131790,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1247420,
+        "num": 1247420,
+        "word": "外卖大战已经进阶到负4元购了",
+        "onboard_time": 1752486925,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 566178,
+        "num": 566178,
+        "word": "网友怀疑气象部门刻意不报40度",
+        "onboard_time": 1752487942,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49177,
+        "num": 541559,
+        "word": "上半年我国进出口同比增长2.9%",
+        "onboard_time": 1752485423,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 586371,
+        "num": 537853,
+        "word": "鹿晗发了二十张自拍",
+        "onboard_time": 1752487822,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 527096,
+        "num": 527096,
+        "word": "奶茶店一女员工偷换店内收款二维码",
+        "onboard_time": 1752478882,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 476542,
+        "num": 476542,
+        "word": "偶像剧不准用折叠伞",
+        "onboard_time": 1752488722,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 472436,
+        "num": 472436,
+        "word": "尾号77777777手机号320万元拍出",
+        "onboard_time": 1752488241,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246229,
+        "num": 246229,
+        "word": "中国男子谈在加拿大考公上岸经验",
+        "onboard_time": 1752483742,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242314,
+        "num": 242314,
+        "word": "女子替前夫还贷40万被指自作多情",
+        "onboard_time": 1752480622,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172355,
+        "num": 241599,
+        "word": "给翻垃圾环卫工的红包是谁拒收的",
+        "onboard_time": 1752489144,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1254726,
+        "num": 241050,
+        "word": "小海绵干嘛呢",
+        "onboard_time": 1752485962,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 547308,
+        "num": 240219,
+        "word": "金子涵近照瘦了好多",
+        "onboard_time": 1752487882,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 498924,
+        "num": 239835,
+        "word": "金世佳增肥了吗",
+        "onboard_time": 1752486263,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239153,
+        "num": 239153,
+        "word": "西安地震",
+        "onboard_time": 1752466282,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50869,
+        "num": 230519,
+        "word": "环卫劳动尊严比8吨垃圾更值得关注",
+        "onboard_time": 1752489082,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 496085,
+        "num": 230411,
+        "word": "韩国女演员姜瑞夏胃癌去世",
+        "onboard_time": 1752485002,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228600,
+        "num": 228600,
+        "word": "迪丽热巴方否认二搭开启",
+        "onboard_time": 1752489322,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237355,
+        "num": 228479,
+        "word": "中共中央关于加强新时代审判工作的意见",
+        "onboard_time": 1752486861,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 56283,
+        "num": 226725,
+        "word": "张凌赫一个眼神拍出了窒息感",
+        "onboard_time": 1752489742,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139908,
+        "num": 224433,
+        "word": "孙俪陪2个孩子在海里呆2小时找海龟",
+        "onboard_time": 1752489622,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 466905,
+        "num": 223153,
+        "word": "出片了 是鬼片",
+        "onboard_time": 1752481823,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 449275,
+        "num": 221543,
+        "word": "超级暂停",
+        "onboard_time": 1752485122,
+        "rank": 21,
+        "category": "互联网,作品衍生"
+      },
+      {
+        "raw_hot": 335291,
+        "num": 219281,
+        "word": "环卫工翻垃圾找手表为何暖心变闹心",
+        "onboard_time": 1752480083,
+        "rank": 22,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 110643,
+        "num": 218209,
+        "word": "吴磊Burberry",
+        "onboard_time": 1752485662,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277501,
+        "num": 216536,
+        "word": "田栩宁没开车门直接从跑车上跨下了",
+        "onboard_time": 1752481281,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216045,
+        "num": 216045,
+        "word": "梓渝你的丑衣服来了",
+        "onboard_time": 1752488542,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183296,
+        "num": 183296,
+        "word": "曝王牌对王牌9阵容",
+        "onboard_time": 1752479481,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148184,
+        "num": 169996,
+        "word": "朝雪录",
+        "onboard_time": 1752488361,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138203,
+        "num": 163978,
+        "word": "迪丽热巴龚俊或二搭",
+        "onboard_time": 1752479603,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43353,
+        "num": 161440,
+        "word": "母亲曝儿子缅甸失联后通话内容",
+        "onboard_time": 1752489742,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161031,
+        "num": 161031,
+        "word": "女子坐月子一天吃五十个鸡蛋",
+        "onboard_time": 1752480022,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153327,
+        "num": 153327,
+        "word": "乌克兰人凑钱请俄军炸毁征兵办",
+        "onboard_time": 1752488603,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151294,
+        "num": 151294,
+        "word": "12306回应乘客高铁上用小型电煮锅",
+        "onboard_time": 1752489021,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146931,
+        "num": 146931,
+        "word": "吃出半只蟑螂又从喉咙抠出另外半只",
+        "onboard_time": 1752489501,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143616,
+        "num": 143616,
+        "word": "家里最没用的耽误了最有用的人一天",
+        "onboard_time": 1752489201,
+        "rank": 34,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 139151,
+        "num": 139151,
+        "word": "王昶说全力冲击认真备战",
+        "onboard_time": 1752488904,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136851,
+        "num": 136851,
+        "word": "33这么瘦还这么自律",
+        "onboard_time": 1752487701,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134560,
+        "num": 134560,
+        "word": "朱雨玲父亲发声",
+        "onboard_time": 1752487642,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130494,
+        "num": 130494,
+        "word": "金子涵退圈后首个活动",
+        "onboard_time": 1752490042,
+        "rank": 38,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 128144,
+        "num": 130038,
+        "word": "手机充电一整夜会更伤电池吗",
+        "onboard_time": 1752485840,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 129668,
+        "num": 129668,
+        "word": "邓超比孙俪更怕在海里游泳",
+        "onboard_time": 1752487102,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103990,
+        "num": 128936,
+        "word": "樱桃琥珀剧宣直播",
+        "onboard_time": 1752488122,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128523,
+        "num": 128523,
+        "word": "别人夸你漂亮优秀怎么办",
+        "onboard_time": 1752490103,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124454,
+        "num": 124454,
+        "word": "by2回复林俊杰",
+        "onboard_time": 1752489681,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122366,
+        "num": 122366,
+        "word": "乒超",
+        "onboard_time": 1752487582,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120970,
+        "num": 120970,
+        "word": "韩国一个西瓜涨到156元",
+        "onboard_time": 1752471140,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 120657,
+        "num": 120657,
+        "word": "国产剧不搞雌竞搞雌敬",
+        "onboard_time": 1752489981,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119916,
+        "num": 119916,
+        "word": "朱雨玲爸爸说打完比赛回来上班",
+        "onboard_time": 1752487163,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116270,
+        "num": 116270,
+        "word": "也没人告诉我民宿进化成这样了",
+        "onboard_time": 1752487761,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 12812,
+        "num": 113861,
+        "word": "攻击性是一个人的生命力",
+        "onboard_time": 1752489322,
+        "rank": 49,
+        "category": "情感,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#城市发展不仅要见物更要见人#"
+    }
+  }
+}
