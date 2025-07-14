@@ -1,0 +1,410 @@
+{
+  "runTime": 1752489037054,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 885401,
+        "num": 1141664,
+        "word": "外卖大战已经进阶到负4元购了",
+        "onboard_time": 1752486925,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 636446,
+        "num": 636446,
+        "word": "奶茶店一女员工偷换店内收款二维码",
+        "onboard_time": 1752478882,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46168,
+        "num": 549595,
+        "word": "上半年我国进出口同比增长2.9%",
+        "onboard_time": 1752485423,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 497538,
+        "num": 497538,
+        "word": "鹿晗发了二十张自拍",
+        "onboard_time": 1752487822,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 292007,
+        "num": 292007,
+        "word": "女子替前夫还贷40万被指自作多情",
+        "onboard_time": 1752480622,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283275,
+        "num": 283275,
+        "word": "网友怀疑气象部门刻意不报40度",
+        "onboard_time": 1752487942,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276516,
+        "num": 276516,
+        "word": "中国男子谈在加拿大考公上岸经验",
+        "onboard_time": 1752483742,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269641,
+        "num": 269641,
+        "word": "尾号77777777手机号320万元拍出",
+        "onboard_time": 1752488241,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209022,
+        "num": 255336,
+        "word": "曝王牌对王牌9阵容",
+        "onboard_time": 1752479481,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250746,
+        "num": 250746,
+        "word": "中共中央关于加强新时代审判工作的意见",
+        "onboard_time": 1752486861,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1233447,
+        "num": 250043,
+        "word": "小海绵干嘛呢",
+        "onboard_time": 1752485962,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 543072,
+        "num": 249176,
+        "word": "韩国女演员姜瑞夏胃癌去世",
+        "onboard_time": 1752485002,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 505840,
+        "num": 248705,
+        "word": "出片了 是鬼片",
+        "onboard_time": 1752481823,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 493159,
+        "num": 247252,
+        "word": "金世佳增肥了吗",
+        "onboard_time": 1752486263,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79157,
+        "num": 246363,
+        "word": "周一才是最需要外卖大战的",
+        "onboard_time": 1752487281,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393449,
+        "num": 245588,
+        "word": "超级暂停",
+        "onboard_time": 1752485122,
+        "rank": 15,
+        "category": "互联网,作品衍生"
+      },
+      {
+        "raw_hot": 376296,
+        "num": 244861,
+        "word": "环卫工翻垃圾找手表为何暖心变闹心",
+        "onboard_time": 1752480083,
+        "rank": 16,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 243960,
+        "num": 243960,
+        "word": "西安地震",
+        "onboard_time": 1752466282,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139258,
+        "num": 240338,
+        "word": "樱桃琥珀剧宣直播",
+        "onboard_time": 1752488122,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20998,
+        "num": 228428,
+        "word": "一医院厨房被指用拖把洗灶台",
+        "onboard_time": 1752488482,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 363881,
+        "num": 218653,
+        "word": "金子涵近照瘦了好多",
+        "onboard_time": 1752487882,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120735,
+        "num": 205633,
+        "word": "吴磊Burberry",
+        "onboard_time": 1752485662,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318113,
+        "num": 197501,
+        "word": "田栩宁没开车门直接从跑车上跨下了",
+        "onboard_time": 1752481281,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193713,
+        "num": 193713,
+        "word": "梓渝你的丑衣服来了",
+        "onboard_time": 1752488542,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190152,
+        "num": 190152,
+        "word": "女子坐月子一天吃五十个鸡蛋",
+        "onboard_time": 1752480022,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88992,
+        "num": 183079,
+        "word": "徐枫灿的学弟拿下空军招飞全国第一",
+        "onboard_time": 1752486381,
+        "rank": 25,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 182701,
+        "num": 182701,
+        "word": "朝雪录",
+        "onboard_time": 1752488361,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203020,
+        "num": 180176,
+        "word": "田栩宁出发杭州",
+        "onboard_time": 1752488302,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175139,
+        "num": 175139,
+        "word": "迪丽热巴龚俊或二搭",
+        "onboard_time": 1752479603,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151665,
+        "num": 171000,
+        "word": "nctdream新歌音源",
+        "onboard_time": 1752487882,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 177897,
+        "num": 170889,
+        "word": "33这么瘦还这么自律",
+        "onboard_time": 1752487701,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 169533,
+        "num": 169533,
+        "word": "朱雨玲父亲发声",
+        "onboard_time": 1752487642,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164899,
+        "num": 164899,
+        "word": "邓超比孙俪更怕在海里游泳",
+        "onboard_time": 1752487102,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161484,
+        "num": 161484,
+        "word": "朱雨玲爸爸说打完比赛回来上班",
+        "onboard_time": 1752487163,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156231,
+        "num": 156231,
+        "word": "偶像剧不准用折叠伞",
+        "onboard_time": 1752488722,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139800,
+        "num": 139800,
+        "word": "韩国一个西瓜涨到156元",
+        "onboard_time": 1752471140,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 139397,
+        "num": 139397,
+        "word": "乒超",
+        "onboard_time": 1752487582,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139200,
+        "num": 139200,
+        "word": "刘轩丞 太难了我尽力了",
+        "onboard_time": 1752479961,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128425,
+        "num": 128425,
+        "word": "女主事业脑男主恋爱脑",
+        "onboard_time": 1752488183,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68847,
+        "num": 127062,
+        "word": "鬼灭之刃上映倒计时",
+        "onboard_time": 1752488002,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 137013,
+        "num": 126894,
+        "word": "王昶说全力冲击认真备战",
+        "onboard_time": 1752488904,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126520,
+        "num": 126520,
+        "word": "乌克兰人凑钱请俄军炸毁征兵办",
+        "onboard_time": 1752488603,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121862,
+        "num": 121862,
+        "word": "也没人告诉我民宿进化成这样了",
+        "onboard_time": 1752487761,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112253,
+        "num": 112253,
+        "word": "李兰迪人生妆造加一",
+        "onboard_time": 1752487281,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111854,
+        "num": 111854,
+        "word": "侃爷发文感谢中国粉丝",
+        "onboard_time": 1752478941,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109631,
+        "num": 109631,
+        "word": "王曼昱背后击球失败逗笑众人",
+        "onboard_time": 1752487701,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109294,
+        "num": 109294,
+        "word": "黄仁勋称中国已具备足够的计算能力",
+        "onboard_time": 1752486803,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 106107,
+        "num": 106107,
+        "word": "12306回应乘客高铁上用小型电煮锅",
+        "onboard_time": 1752489021,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104668,
+        "num": 104668,
+        "word": "手机充电一整夜会更伤电池吗",
+        "onboard_time": 1752485840,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 103123,
+        "num": 103123,
+        "word": "被女子强搂亲吻男孩妈妈最新发声",
+        "onboard_time": 1752476482,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#城市发展不仅要见物更要见人#"
+    }
+  }
+}
