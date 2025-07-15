@@ -1,6 +1,6 @@
 {
   "startTime": 1752597340557,
-  "endTime": 1752614812406,
+  "endTime": 1752615685389,
   "band_list": [
     {
       "raw_hot": 1169013,
@@ -467,11 +467,27 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 30303,
+      "num": 30303,
+      "word": "坐后备箱男孩亲妈称被要求赔偿30万",
+      "onboard_time": 1752613094,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29510,
       "num": 31704,
       "word": "火星哥感谢Rose",
       "onboard_time": 1752603556,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 29048,
+      "num": 23383,
+      "word": "演员房子斌杨雨婷回应女儿高考成绩",
+      "onboard_time": 1752613153,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -483,20 +499,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 25249,
-      "num": 25249,
-      "word": "坐后备箱男孩亲妈称被要求赔偿30万",
-      "onboard_time": 1752613094,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24195,
-      "num": 20652,
-      "word": "演员房子斌杨雨婷回应女儿高考成绩",
+      "raw_hot": 28099,
+      "num": 37390,
+      "word": "黄仁勋回应大热天穿皮夹克",
       "onboard_time": 1752613153,
-      "rank": 30,
-      "category": "艺人"
+      "rank": 10,
+      "category": "国内时政"
     },
     {
       "raw_hot": 22479,
@@ -515,14 +523,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20508,
-      "num": 37390,
-      "word": "黄仁勋回应大热天穿皮夹克",
-      "onboard_time": 1752613153,
-      "rank": 10,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 18916,
       "num": 31012,
       "word": "建设现代化人民城市有6个关键词",
@@ -531,7 +531,7 @@
       "category": "国内时政,民生新闻"
     },
     {
-      "raw_hot": 17583,
+      "raw_hot": 18597,
       "num": 20682,
       "word": "关晓彤减肥秘诀是断糖少吃多运动",
       "onboard_time": 1752610094,
