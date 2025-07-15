@@ -1,6 +1,6 @@
 {
   "startTime": 1752597340557,
-  "endTime": 1752600333003,
+  "endTime": 1752601481367,
   "band_list": [
     {
       "raw_hot": 1169013,
@@ -43,20 +43,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 545962,
+      "num": 545962,
+      "word": "雪糕刺客真的凉凉了",
+      "onboard_time": 1752597379,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 425132,
       "num": 233923,
       "word": "陆毅鲍蕾太会养女儿了",
       "onboard_time": 1752591143,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 391922,
-      "num": 391922,
-      "word": "雪糕刺客真的凉凉了",
-      "onboard_time": 1752597379,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 343746,
@@ -171,8 +171,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 151637,
-      "num": 151637,
+      "raw_hot": 152342,
+      "num": 152342,
       "word": "打砸记者摄像机被列为刑事案件",
       "onboard_time": 1752596061,
       "rank": 24,
@@ -275,6 +275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 91984,
+      "num": 133674,
+      "word": "人民日报评餐馆发视频拟被罚45万事件",
+      "onboard_time": 1752599898,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89505,
       "num": 89505,
       "word": "范丞丞直播",
@@ -305,6 +313,14 @@
       "onboard_time": 1752593963,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 77426,
+      "num": 77426,
+      "word": "到底谁给赵今麦做的妆造",
+      "onboard_time": 1752598818,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 76224,
@@ -363,14 +379,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 67043,
-      "num": 67043,
-      "word": "到底谁给赵今麦做的妆造",
-      "onboard_time": 1752598818,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 65409,
       "num": 65409,
       "word": "洛杉矶奥运会首金是美国队强项",
@@ -427,20 +435,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 49431,
-      "num": 133674,
-      "word": "人民日报评餐馆发视频拟被罚45万事件",
-      "onboard_time": 1752599898,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 42764,
       "num": 47164,
       "word": "梓渝内娱唯一线面塑",
       "onboard_time": 1752598399,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 33488,
+      "num": 36435,
+      "word": "阴阳师",
+      "onboard_time": 1752593903,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 28701,
@@ -451,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25984,
+      "num": 49236,
+      "word": "澳男子42米高悬崖跳水多处骨折昏迷",
+      "onboard_time": 1752601218,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 22479,
       "num": 169683,
       "word": "骗子恐吓老人是全国二号重犯",
@@ -459,7 +475,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 8583,
+      "raw_hot": 22030,
       "num": 55387,
       "word": "女子称丈夫搭救朋友被砍伤致死",
       "onboard_time": 1752600197,
