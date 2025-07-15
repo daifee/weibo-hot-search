@@ -1,6 +1,6 @@
 {
   "startTime": 1752510927124,
-  "endTime": 1752587704578,
+  "endTime": 1752589617418,
   "band_list": [
     {
       "raw_hot": 5131686,
@@ -51,20 +51,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1639783,
+      "num": 1639783,
+      "word": "山姆线上已下架好丽友",
+      "onboard_time": 1752583342,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1612247,
       "num": 850032,
       "word": "剧本",
       "onboard_time": 1752553642,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1566668,
-      "num": 1566668,
-      "word": "山姆线上已下架好丽友",
-      "onboard_time": 1752583342,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1505027,
@@ -227,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 695165,
+      "num": 695165,
+      "word": "赵露思直播",
+      "onboard_time": 1752586762,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 690743,
       "num": 690743,
       "word": "美战机被曝撞上UFO",
@@ -307,6 +315,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 567722,
+      "num": 567722,
+      "word": "工行高管实名举报妻子出轨健身教练",
+      "onboard_time": 1752584302,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 519106,
       "num": 519106,
       "word": "山姆拿什么留住百万会员",
@@ -379,14 +395,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 470981,
-      "num": 470981,
-      "word": "工行高管实名举报妻子出轨健身教练",
-      "onboard_time": 1752584302,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 467805,
       "num": 467805,
       "word": "顾客称吃苏州糖水发现餐具内增高",
@@ -417,6 +425,14 @@
       "onboard_time": 1752545421,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 450670,
+      "num": 450670,
+      "word": "杭州多学生流鼻血事件家长发声",
+      "onboard_time": 1752583281,
+      "rank": 33,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 447060,
@@ -675,6 +691,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 280907,
+      "num": 280907,
+      "word": "刘轩丞cha了Woohoo",
+      "onboard_time": 1752586282,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 278892,
       "num": 278892,
       "word": "光与夜之恋",
@@ -771,14 +795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 249615,
-      "num": 183223,
-      "word": "赵露思直播",
-      "onboard_time": 1752586762,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 248910,
       "num": 248910,
       "word": "韩国发生热通胀",
@@ -860,11 +876,27 @@
     },
     {
       "raw_hot": 230216,
-      "num": 197958,
+      "num": 218483,
       "word": "中医说一天中4个时段不建议洗头",
       "onboard_time": 1752582682,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 230059,
+      "num": 230059,
+      "word": "Alin开放点歌",
+      "onboard_time": 1752587543,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 227836,
+      "num": 227836,
+      "word": "荣耀X70是犯天条了吗",
+      "onboard_time": 1752583162,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 224398,
@@ -889,6 +921,22 @@
       "onboard_time": 1752505344,
       "rank": 13,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 217426,
+      "num": 217426,
+      "word": "王楚钦帅得好权威",
+      "onboard_time": 1752589224,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 216773,
+      "num": 218397,
+      "word": "TVB演员吴博君去世",
+      "onboard_time": 1752586943,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 215916,
@@ -977,22 +1025,6 @@
       "onboard_time": 1752548481,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 201222,
-      "num": 201222,
-      "word": "刘轩丞cha了Woohoo",
-      "onboard_time": 1752586282,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 199121,
-      "num": 199121,
-      "word": "TVB演员吴博君去世",
-      "onboard_time": 1752586943,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 198430,
@@ -1195,14 +1227,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 177648,
-      "num": 216654,
-      "word": "荣耀X70是犯天条了吗",
-      "onboard_time": 1752583162,
-      "rank": 30,
-      "category": "数码"
-    },
-    {
       "raw_hot": 177523,
       "num": 177523,
       "word": "格陵兰居民一觉醒来冰山漂到家门口",
@@ -1251,20 +1275,20 @@
       "category": "游戏,动漫"
     },
     {
+      "raw_hot": 172904,
+      "num": 172904,
+      "word": "洛杉矶奥运会首金是美国队强项",
+      "onboard_time": 1752587121,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172681,
       "num": 172681,
       "word": "蛤蟆汤",
       "onboard_time": 1752559402,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 172364,
-      "num": 172364,
-      "word": "杭州多学生流鼻血事件家长发声",
-      "onboard_time": 1752583281,
-      "rank": 33,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 171285,
@@ -1289,6 +1313,14 @@
       "onboard_time": 1752553763,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168224,
+      "num": 218251,
+      "word": "特朗普曾问泽连斯基能否打击莫斯科",
+      "onboard_time": 1752585503,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 168057,
@@ -1579,6 +1611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141686,
+      "num": 141686,
+      "word": "林俊杰王心凌西瓜牛奶再合体",
+      "onboard_time": 1752586943,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 141390,
       "num": 141390,
       "word": "王一博为上合电视节发来祝贺",
@@ -1715,6 +1755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136506,
+      "num": 320692,
+      "word": "工行回应高管实名举报妻子出轨",
+      "onboard_time": 1752586463,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136280,
       "num": 216237,
       "word": "赵今麦这段独白给我看爽了",
@@ -1771,14 +1819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134357,
-      "num": 134357,
-      "word": "特朗普曾问泽连斯基能否打击莫斯科",
-      "onboard_time": 1752585503,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 134166,
       "num": 134166,
       "word": "深圳晚霞",
@@ -1793,6 +1833,14 @@
       "onboard_time": 1752497183,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132790,
+      "num": 132790,
+      "word": "宋佳咏梅导协年度女演员",
+      "onboard_time": 1752587904,
+      "rank": 34,
+      "category": "艺人,电影"
     },
     {
       "raw_hot": 132102,
@@ -1899,28 +1947,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126091,
-      "num": 126091,
-      "word": "洛杉矶奥运会首金是美国队强项",
-      "onboard_time": 1752587121,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 125955,
       "num": 125955,
       "word": "为了人民而改革改革才有意义",
       "onboard_time": 1752556101,
       "rank": 49,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 125151,
-      "num": 125151,
-      "word": "林俊杰王心凌西瓜牛奶再合体",
-      "onboard_time": 1752586943,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 124524,
@@ -2147,14 +2179,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 115718,
-      "num": 115718,
-      "word": "Alin开放点歌",
-      "onboard_time": 1752587543,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 115689,
       "num": 115689,
       "word": "蒋欣吃关晓彤同款彩椒碗",
@@ -2363,14 +2387,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 101380,
-      "num": 320692,
-      "word": "工行回应高管实名举报妻子出轨",
-      "onboard_time": 1752586463,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 101165,
       "num": 101165,
       "word": "其实大家真的没什么好焦虑的",
@@ -2563,6 +2579,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 87776,
+      "num": 87776,
+      "word": "仁川机场宣布终止与newjeans合约",
+      "onboard_time": 1752588143,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87727,
       "num": 87727,
       "word": "什么综艺还没播但群像味已经出来了",
@@ -2667,6 +2691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 80851,
+      "num": 80851,
+      "word": "王以纶千字收官长文",
+      "onboard_time": 1752588263,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 80501,
       "num": 82299,
       "word": "孕妇遭男子殴打住院已转刑事案件",
@@ -2707,12 +2739,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 77656,
+      "num": 77656,
+      "word": "韩国0比1日本",
+      "onboard_time": 1752589224,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77149,
       "num": 77149,
       "word": "李兰迪妲己幼年体",
       "onboard_time": 1752503844,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 76074,
+      "num": 76074,
+      "word": "EWC英雄联盟赛程",
+      "onboard_time": 1752587303,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 76053,

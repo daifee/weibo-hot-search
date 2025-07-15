@@ -1,0 +1,410 @@
+{
+  "runTime": 1752589617418,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1639783,
+        "num": 1639783,
+        "word": "山姆线上已下架好丽友",
+        "onboard_time": 1752583342,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 695165,
+        "num": 695165,
+        "word": "赵露思直播",
+        "onboard_time": 1752586762,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21029,
+        "num": 635893,
+        "word": "上海与优质内容创作的双向奔赴",
+        "onboard_time": 1752584062,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 631327,
+        "num": 631327,
+        "word": "奶奶不舍得开空调孙女一招瞒天过海",
+        "onboard_time": 1752580582,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 567722,
+        "num": 567722,
+        "word": "工行高管实名举报妻子出轨健身教练",
+        "onboard_time": 1752584302,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 450670,
+        "num": 450670,
+        "word": "杭州多学生流鼻血事件家长发声",
+        "onboard_time": 1752583281,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 446964,
+        "num": 446964,
+        "word": "佛山顺德区确诊478例基孔肯雅热",
+        "onboard_time": 1752574042,
+        "rank": 6,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 343415,
+        "num": 343415,
+        "word": "南开大学教授因个人简介实诚走红",
+        "onboard_time": 1752578482,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286478,
+        "num": 286478,
+        "word": "易烊千玺导协年度男演员",
+        "onboard_time": 1752586163,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141092,
+        "num": 283040,
+        "word": "女子垃圾堆捡22个金镯价值近40万",
+        "onboard_time": 1752565641,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2281931,
+        "num": 282927,
+        "word": "泰国女子与高僧发生关系后拍5600段视频",
+        "onboard_time": 1752578842,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 280907,
+        "num": 280907,
+        "word": "刘轩丞cha了Woohoo",
+        "onboard_time": 1752586282,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264994,
+        "num": 264994,
+        "word": "梓渝 漂亮的孩子站中间",
+        "onboard_time": 1752575723,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230059,
+        "num": 230059,
+        "word": "Alin开放点歌",
+        "onboard_time": 1752587543,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227836,
+        "num": 227836,
+        "word": "荣耀X70是犯天条了吗",
+        "onboard_time": 1752583162,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 218483,
+        "num": 218483,
+        "word": "中医说一天中4个时段不建议洗头",
+        "onboard_time": 1752582682,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 216773,
+        "num": 218397,
+        "word": "TVB演员吴博君去世",
+        "onboard_time": 1752586943,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174705,
+        "num": 218374,
+        "word": "成毅直播",
+        "onboard_time": 1752580162,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218364,
+        "num": 218364,
+        "word": "吉利与极氪合并",
+        "onboard_time": 1752580582,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 168224,
+        "num": 218251,
+        "word": "特朗普曾问泽连斯基能否打击莫斯科",
+        "onboard_time": 1752585503,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 696872,
+        "num": 218129,
+        "word": "董璇再婚",
+        "onboard_time": 1752566721,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 496773,
+        "num": 217897,
+        "word": "赵立坚发了迪丽热巴",
+        "onboard_time": 1752571463,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339471,
+        "num": 217633,
+        "word": "向佐被曝欠赌债未还",
+        "onboard_time": 1752571703,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260569,
+        "num": 217445,
+        "word": "国足中国香港冲突",
+        "onboard_time": 1752574762,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217426,
+        "num": 217426,
+        "word": "王楚钦帅得好权威",
+        "onboard_time": 1752589224,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191854,
+        "num": 191854,
+        "word": "意外怀孕诱发罕见癌症女子发声",
+        "onboard_time": 1752579501,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191789,
+        "num": 191789,
+        "word": "秦昊新剧尺度",
+        "onboard_time": 1752584422,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175483,
+        "num": 175483,
+        "word": "朝雪录第9集13分31秒",
+        "onboard_time": 1752584422,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172904,
+        "num": 172904,
+        "word": "洛杉矶奥运会首金是美国队强项",
+        "onboard_time": 1752587121,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160160,
+        "num": 160160,
+        "word": "朝雪录热度破9000了",
+        "onboard_time": 1752584302,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148919,
+        "num": 148919,
+        "word": "侯佩岑这才是撑得起大场面的美",
+        "onboard_time": 1752579501,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141859,
+        "num": 141859,
+        "word": "山姆让会员破防的岂止性价比",
+        "onboard_time": 1752577282,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141686,
+        "num": 141686,
+        "word": "林俊杰王心凌西瓜牛奶再合体",
+        "onboard_time": 1752586943,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136506,
+        "num": 136506,
+        "word": "工行回应高管实名举报妻子出轨",
+        "onboard_time": 1752586463,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132790,
+        "num": 132790,
+        "word": "宋佳咏梅导协年度女演员",
+        "onboard_time": 1752587904,
+        "rank": 34,
+        "category": "艺人,电影"
+      },
+      {
+        "raw_hot": 131213,
+        "num": 131213,
+        "word": "基孔肯雅热和花斑蚊是什么关系",
+        "onboard_time": 1752582083,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 125326,
+        "num": 125326,
+        "word": "每周喝奶茶建议不要超过2杯",
+        "onboard_time": 1752576262,
+        "rank": 36,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 119297,
+        "num": 119297,
+        "word": "顾客称吃苏州糖水发现餐具内增高",
+        "onboard_time": 1752572603,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107055,
+        "num": 107055,
+        "word": "银行2.5亿存款丢失案将开庭",
+        "onboard_time": 1752575303,
+        "rank": 38,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 104813,
+        "num": 104813,
+        "word": "丧偶儿媳欲以第一顺位继承公公遗产",
+        "onboard_time": 1752579682,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93110,
+        "num": 93110,
+        "word": "喜人奇妙夜2录制",
+        "onboard_time": 1752582142,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90384,
+        "num": 90384,
+        "word": "靠出卖兄弟换来的40万",
+        "onboard_time": 1752585983,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90316,
+        "num": 90316,
+        "word": "这是55岁的咏梅",
+        "onboard_time": 1752585261,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87776,
+        "num": 87776,
+        "word": "仁川机场宣布终止与newjeans合约",
+        "onboard_time": 1752588143,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84847,
+        "num": 84847,
+        "word": "江苏一高校招聘被质疑设萝卜岗",
+        "onboard_time": 1752584542,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82874,
+        "num": 82874,
+        "word": "内娱第一对这么强婚后感的cp",
+        "onboard_time": 1752583641,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81323,
+        "num": 81323,
+        "word": "深圳晚霞",
+        "onboard_time": 1752580582,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80851,
+        "num": 80851,
+        "word": "王以纶千字收官长文",
+        "onboard_time": 1752588263,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77656,
+        "num": 77656,
+        "word": "韩国0比1日本",
+        "onboard_time": 1752589224,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76074,
+        "num": 76074,
+        "word": "EWC英雄联盟赛程",
+        "onboard_time": 1752587303,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央城市工作会议在北京举行#"
+    }
+  }
+}
