@@ -1,0 +1,410 @@
+{
+  "runTime": 1752621971797,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 858069,
+        "num": 866891,
+        "word": "雪糕刺客真的凉凉了",
+        "onboard_time": 1752597379,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 470525,
+        "num": 470525,
+        "word": "日本地震",
+        "onboard_time": 1752591924,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 28781,
+        "num": 447739,
+        "word": "亮出你的AI角色",
+        "onboard_time": 1752590904,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 447657,
+        "num": 447657,
+        "word": "魏笑 赵露思",
+        "onboard_time": 1752593423,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334234,
+        "num": 334234,
+        "word": "山姆线上已下架好丽友",
+        "onboard_time": 1752583342,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258701,
+        "num": 258701,
+        "word": "坐后备箱数小时男孩抚养权已变更",
+        "onboard_time": 1752593423,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241264,
+        "num": 241264,
+        "word": "工行高管实名举报妻子出轨健身教练",
+        "onboard_time": 1752584302,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185681,
+        "num": 185681,
+        "word": "打砸记者摄像机被列为刑事案件",
+        "onboard_time": 1752596061,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175942,
+        "num": 175942,
+        "word": "朱正廷家里着火了",
+        "onboard_time": 1752590484,
+        "rank": 8,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 171909,
+        "num": 171909,
+        "word": "人民日报评餐馆发视频拟被罚45万事件",
+        "onboard_time": 1752599898,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1003409,
+        "num": 171044,
+        "word": "泰国女子与高僧发生关系后拍5600段视频",
+        "onboard_time": 1752578842,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 655385,
+        "num": 169395,
+        "word": "分尸华人妻子的美富二代狱中自杀",
+        "onboard_time": 1752620599,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 225391,
+        "num": 167520,
+        "word": "演员房子斌杨雨婷回应女儿高考成绩",
+        "onboard_time": 1752613153,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183930,
+        "num": 164725,
+        "word": "陆毅鲍蕾太会养女儿了",
+        "onboard_time": 1752591143,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164580,
+        "num": 164580,
+        "word": "溜溜梅客服称山姆定制款无任何添加",
+        "onboard_time": 1752593963,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154696,
+        "num": 154696,
+        "word": "山姆回应一女子脚踩取冰机内取冰",
+        "onboard_time": 1752590004,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153102,
+        "num": 153102,
+        "word": "特朗普向克宫发出戏剧化最后通牒",
+        "onboard_time": 1752606134,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109442,
+        "num": 141697,
+        "word": "到底谁给赵今麦做的妆造",
+        "onboard_time": 1752598818,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84384,
+        "num": 138925,
+        "word": "刘宇宁在开直播 我在看刘宇宁",
+        "onboard_time": 1752590784,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63093,
+        "num": 137437,
+        "word": "关晓彤减肥秘诀是断糖少吃多运动",
+        "onboard_time": 1752610094,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136267,
+        "num": 136267,
+        "word": "坐后备箱男孩亲妈称被要求赔偿30万",
+        "onboard_time": 1752613094,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120721,
+        "num": 120721,
+        "word": "南开大学教授因个人简介实诚走红",
+        "onboard_time": 1752578482,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110268,
+        "num": 110268,
+        "word": "打一针返老还童的童颜针卖了30亿",
+        "onboard_time": 1752593723,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109182,
+        "num": 109182,
+        "word": "中医说一天中4个时段不建议洗头",
+        "onboard_time": 1752582682,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 100232,
+        "num": 100232,
+        "word": "下周就要生发现月子中心没了",
+        "onboard_time": 1752589703,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91598,
+        "num": 91598,
+        "word": "普通人买房后的真实感受",
+        "onboard_time": 1752591682,
+        "rank": 25,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 88297,
+        "num": 88297,
+        "word": "黄仁勋回应大热天穿皮夹克",
+        "onboard_time": 1752613153,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 86996,
+        "num": 86996,
+        "word": "素人镜头下的七七",
+        "onboard_time": 1752590064,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 60629,
+        "num": 81552,
+        "word": "肖战藏海传集均播放量破5000万",
+        "onboard_time": 1752599297,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52227,
+        "num": 80912,
+        "word": "朝雪录第9集13分31秒",
+        "onboard_time": 1752584422,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135339,
+        "num": 80883,
+        "word": "赛琳娜将于9月结婚",
+        "onboard_time": 1752621378,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80500,
+        "num": 80500,
+        "word": "警方通报记者设备被砸",
+        "onboard_time": 1752596061,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77155,
+        "num": 77155,
+        "word": "杭州多学生流鼻血事件家长发声",
+        "onboard_time": 1752583281,
+        "rank": 32,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 70247,
+        "num": 70247,
+        "word": "3岁男童扁桃体术后脑死亡已近20天",
+        "onboard_time": 1752594082,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68762,
+        "num": 68762,
+        "word": "日本一地20余天震了超2000次",
+        "onboard_time": 1752596839,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 65800,
+        "num": 65800,
+        "word": "佛山顺德区确诊478例基孔肯雅热",
+        "onboard_time": 1752574042,
+        "rank": 35,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 65793,
+        "num": 65793,
+        "word": "奶奶不舍得开空调孙女一招瞒天过海",
+        "onboard_time": 1752580582,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61295,
+        "num": 61295,
+        "word": "未定事件簿",
+        "onboard_time": 1752621199,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 59444,
+        "num": 59444,
+        "word": "董璇再婚",
+        "onboard_time": 1752566721,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55945,
+        "num": 55945,
+        "word": "洛杉矶奥运会首金是美国队强项",
+        "onboard_time": 1752587121,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54661,
+        "num": 54661,
+        "word": "一杯羽衣甘蓝含糖量或超40克",
+        "onboard_time": 1752595701,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54171,
+        "num": 54171,
+        "word": "男子被未拴绳狗咬伤主人拒赔医药费",
+        "onboard_time": 1752597678,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52176,
+        "num": 52176,
+        "word": "相亲相到了个老式男友是什么体验",
+        "onboard_time": 1752589945,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 49916,
+        "num": 49916,
+        "word": "赵立坚发了迪丽热巴",
+        "onboard_time": 1752571463,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48695,
+        "num": 48695,
+        "word": "真的不敢和一个人发展长期关系",
+        "onboard_time": 1752621859,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 48086,
+        "num": 48086,
+        "word": "赵露思直播",
+        "onboard_time": 1752586762,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47420,
+        "num": 47420,
+        "word": "70岁女子骗老汉70万宁愿坐牢不退钱",
+        "onboard_time": 1752595162,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43486,
+        "num": 47415,
+        "word": "梓渝 漂亮的孩子站中间",
+        "onboard_time": 1752575723,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43163,
+        "num": 47412,
+        "word": "向佐被曝欠赌债未还",
+        "onboard_time": 1752571703,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41429,
+        "num": 47406,
+        "word": "特朗普曾问泽连斯基能否打击莫斯科",
+        "onboard_time": 1752585503,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央城市工作会议在北京举行#"
+    }
+  }
+}
