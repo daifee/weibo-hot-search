@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/15 15:29:13
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/15 15:44:05
 </p>
 </blockquote>
 <p>
@@ -2709,6 +2709,12 @@ TVB演员雪妮病逝（热度：861936）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%9D%80%E5%85%BB%E7%88%B6%E5%90%8E%E7%9C%8B%E5%8A%A8%E6%BC%AB%E5%90%AC%E9%9F%B3%E4%B9%90%E5%B9%B3%E5%A4%8D%E5%BF%83%E6%83%85%23" target="weibo">
+女子杀养父后看动漫听音乐平复心情（热度：793909）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23twice%E5%9B%9E%E5%BD%92%23" target="weibo">
 twice回归（热度：792592）
 </a>
@@ -2783,12 +2789,6 @@ twice回归（热度：792592）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23T1%E5%AF%B9%E6%88%98AL%23" target="weibo">
 T1对战AL（热度：778834）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%9D%80%E5%85%BB%E7%88%B6%E5%90%8E%E7%9C%8B%E5%8A%A8%E6%BC%AB%E5%90%AC%E9%9F%B3%E4%B9%90%E5%B9%B3%E5%A4%8D%E5%BF%83%E6%83%85%23" target="weibo">
-女子杀养父后看动漫听音乐平复心情（热度：778828）
 </a>
 </li>
 
