@@ -1,0 +1,410 @@
+{
+  "runTime": 1752562497101,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1637726,
+        "num": 1637726,
+        "word": "外卖0元购大量奶茶无人认领",
+        "onboard_time": 1752557243,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 971577,
+        "num": 971577,
+        "word": "8岁女童被撞身亡46岁司机被刑拘",
+        "onboard_time": 1752557483,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31610,
+        "num": 723100,
+        "word": "中国外贸成绩凝聚了无数人的奋力开拓",
+        "onboard_time": 1752553342,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 972965,
+        "num": 722573,
+        "word": "他甚至连求婚戒指都准备了四枚",
+        "onboard_time": 1752550582,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 720590,
+        "num": 720590,
+        "word": "女子杀养父后看动漫听音乐平复心情",
+        "onboard_time": 1752558082,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 407219,
+        "num": 407219,
+        "word": "于正联络上七七了",
+        "onboard_time": 1752552562,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386388,
+        "num": 386388,
+        "word": "山姆下架多款口碑商品上新好丽友",
+        "onboard_time": 1752541700,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318346,
+        "num": 318346,
+        "word": "旺仔牛奶出国后变火辣小孩了",
+        "onboard_time": 1752547461,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 256606,
+        "num": 256606,
+        "word": "热热热我热热热",
+        "onboard_time": 1752552442,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248397,
+        "num": 256499,
+        "word": "王安宇为王星越接古装戏",
+        "onboard_time": 1752556523,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 687083,
+        "num": 256333,
+        "word": "七七",
+        "onboard_time": 1752554303,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 616973,
+        "num": 256112,
+        "word": "25岁女生痛经十几年决定停经",
+        "onboard_time": 1752560242,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 566691,
+        "num": 255919,
+        "word": "蛤蟆汤被罚45万事件5人停职",
+        "onboard_time": 1752552025,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239340,
+        "num": 255722,
+        "word": "光与夜之恋",
+        "onboard_time": 1752560722,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 30078,
+        "num": 255610,
+        "word": "山姆低糖好丽友派被指脂肪含量增加",
+        "onboard_time": 1752561141,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 455520,
+        "num": 255523,
+        "word": "这是41岁的唐嫣",
+        "onboard_time": 1752559223,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 436628,
+        "num": 255230,
+        "word": "李敏镐发了全智贤",
+        "onboard_time": 1752554543,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426861,
+        "num": 255140,
+        "word": "江浙沪 沪苏浙",
+        "onboard_time": 1752546441,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 305073,
+        "num": 254870,
+        "word": "BoA确诊为急性骨坏死",
+        "onboard_time": 1752555743,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278445,
+        "num": 254654,
+        "word": "梓渝23岁正是藏不住事的年纪",
+        "onboard_time": 1752558143,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254640,
+        "num": 254640,
+        "word": "张凯毅怀孕",
+        "onboard_time": 1752554182,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 250958,
+        "num": 250958,
+        "word": "21岁女子因痛经去医院结果生了个娃",
+        "onboard_time": 1752534258,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243603,
+        "num": 243603,
+        "word": "王安宇不吃水里的所以只吃鸭头",
+        "onboard_time": 1752561261,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213268,
+        "num": 213268,
+        "word": "贵州遵义通报8岁女童被撞身亡",
+        "onboard_time": 1752555443,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168057,
+        "num": 213187,
+        "word": "程潇演技",
+        "onboard_time": 1752561861,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155782,
+        "num": 211160,
+        "word": "警方通报高中生到西双版纳后失联",
+        "onboard_time": 1752559701,
+        "rank": 25,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 148710,
+        "num": 209620,
+        "word": "赵丽颖代言纪梵希",
+        "onboard_time": 1752545121,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147224,
+        "num": 209021,
+        "word": "肖战藏海再开新篇",
+        "onboard_time": 1752558562,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141610,
+        "num": 207139,
+        "word": "龚俊把票房高的全选走了",
+        "onboard_time": 1752558143,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67593,
+        "num": 206407,
+        "word": "电梯安装工休息时坠入151米深井身亡",
+        "onboard_time": 1752561742,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205693,
+        "num": 205693,
+        "word": "王星越对白鹿又爱又恨",
+        "onboard_time": 1752561383,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197660,
+        "num": 197660,
+        "word": "县委书记搞文旅项目投5.4亿烂尾",
+        "onboard_time": 1752558202,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172681,
+        "num": 172681,
+        "word": "蛤蟆汤",
+        "onboard_time": 1752559402,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160968,
+        "num": 160968,
+        "word": "未定事件簿婚礼",
+        "onboard_time": 1752560482,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142515,
+        "num": 142515,
+        "word": "骑手说过上1晚挣1千元的好日子了",
+        "onboard_time": 1752548181,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138548,
+        "num": 138548,
+        "word": "木木 卿卿",
+        "onboard_time": 1752561982,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135810,
+        "num": 135810,
+        "word": "西班牙1180人因高温死亡",
+        "onboard_time": 1752553583,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 87632,
+        "num": 130230,
+        "word": "马嘉祺努力发育等我输出",
+        "onboard_time": 1752561861,
+        "rank": 37,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 125650,
+        "num": 125650,
+        "word": "理想i8内饰",
+        "onboard_time": 1752558441,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 59969,
+        "num": 124757,
+        "word": "汪顺从小爱吃竹笋",
+        "onboard_time": 1752561801,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124177,
+        "num": 124177,
+        "word": "王者荣耀",
+        "onboard_time": 1752558862,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123867,
+        "num": 123867,
+        "word": "2025上半年GDP同比增长5.3%",
+        "onboard_time": 1752546081,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119407,
+        "num": 119407,
+        "word": "伊朗警告以色列",
+        "onboard_time": 1752561922,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 118575,
+        "num": 118575,
+        "word": "樱桃琥珀直播",
+        "onboard_time": 1752549142,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112841,
+        "num": 112841,
+        "word": "山姆门店称暂无会员要求退卡",
+        "onboard_time": 1752558202,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110871,
+        "num": 110871,
+        "word": "8岁女童被撞亡不存在二次碾压情况",
+        "onboard_time": 1752559522,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109620,
+        "num": 109620,
+        "word": "薛小婉任权备孕",
+        "onboard_time": 1752561680,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109249,
+        "num": 109249,
+        "word": "梓渝 求佛",
+        "onboard_time": 1752545421,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106260,
+        "num": 106260,
+        "word": "广东人被高温硬控",
+        "onboard_time": 1752561801,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104050,
+        "num": 104050,
+        "word": "一直躺着玩手机真的会得血栓",
+        "onboard_time": 1752554663,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#城市要有高度更要有温度#"
+    }
+  }
+}
