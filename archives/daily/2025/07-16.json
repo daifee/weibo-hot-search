@@ -1,6 +1,6 @@
 {
   "startTime": 1752597340557,
-  "endTime": 1752605652038,
+  "endTime": 1752607417873,
   "band_list": [
     {
       "raw_hot": 1169013,
@@ -459,6 +459,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 29510,
+      "num": 31704,
+      "word": "火星哥感谢Rose",
+      "onboard_time": 1752603556,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 28701,
       "num": 456685,
       "word": "亮出你的AI角色",
@@ -467,12 +475,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 28131,
-      "num": 31704,
-      "word": "火星哥感谢Rose",
-      "onboard_time": 1752603556,
-      "rank": 40,
-      "category": "艺人"
+      "raw_hot": 23671,
+      "num": 29721,
+      "word": "特朗普向克宫发出戏剧化最后通牒",
+      "onboard_time": 1752606134,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 22479,
@@ -497,6 +505,14 @@
       "onboard_time": 1752602956,
       "rank": 29,
       "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 11112,
+      "num": 23205,
+      "word": "四川雅江县3.2级地震",
+      "onboard_time": 1752607335,
+      "rank": 30,
+      "category": "突发/灾害"
     }
   ],
   "hotgov_list": [
