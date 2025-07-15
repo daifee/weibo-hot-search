@@ -1,6 +1,6 @@
 {
   "startTime": 1752510927124,
-  "endTime": 1752545546102,
+  "endTime": 1752547020212,
   "band_list": [
     {
       "raw_hot": 1714863,
@@ -17,6 +17,14 @@
       "onboard_time": 1752534258,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1026481,
+      "num": 1026481,
+      "word": "赵丽颖代言纪梵希",
+      "onboard_time": 1752545121,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1015365,
@@ -67,7 +75,7 @@
       "category": "剧集,艺人"
     },
     {
-      "raw_hot": 475972,
+      "raw_hot": 503794,
       "num": 312526,
       "word": "租房看见这空调我扭头就走",
       "onboard_time": 1752537140,
@@ -81,6 +89,14 @@
       "onboard_time": 1752540501,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 451865,
+      "num": 291673,
+      "word": "梓渝 求佛",
+      "onboard_time": 1752545421,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 438728,
@@ -145,6 +161,14 @@
       "onboard_time": 1752541881,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 294082,
+      "num": 294082,
+      "word": "林诗栋美国大满贯后发文",
+      "onboard_time": 1752544221,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 291562,
@@ -219,14 +243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 218679,
-      "num": 218679,
-      "word": "林诗栋美国大满贯后发文",
-      "onboard_time": 1752544221,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 218670,
       "num": 244459,
       "word": "印度男子婚宴上多要一块鸡肉被刺死",
@@ -235,12 +251,68 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 215875,
+      "num": 215875,
+      "word": "战至巅峰4三大常驻战队官宣",
+      "onboard_time": 1752546980,
+      "rank": 16,
+      "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 213636,
+      "num": 213636,
+      "word": "河南人早餐除了胡辣汤还吃啥",
+      "onboard_time": 1752546980,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 205301,
+      "num": 205301,
+      "word": "雀骨",
+      "onboard_time": 1752545840,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 204852,
+      "num": 204852,
+      "word": "肖战世赛推广大使",
+      "onboard_time": 1752546860,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204814,
       "num": 204814,
       "word": "官方回应孕妇遭2男子殴打住院",
       "onboard_time": 1752507084,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203264,
+      "num": 293430,
+      "word": "2025上半年GDP同比增长5.3%",
+      "onboard_time": 1752546081,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198426,
+      "num": 198426,
+      "word": "江浙沪 沪苏浙",
+      "onboard_time": 1752546441,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 198208,
+      "num": 198208,
+      "word": "王楚钦 Oakley",
+      "onboard_time": 1752546620,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 187110,
@@ -275,16 +347,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 176712,
-      "num": 176712,
-      "word": "赵丽颖代言纪梵希",
-      "onboard_time": 1752545121,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 174153,
-      "num": 174153,
+      "num": 201810,
       "word": "问界M8纯电版8月上市",
       "onboard_time": 1752544999,
       "rank": 21,
@@ -297,6 +361,14 @@
       "onboard_time": 1752535218,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155905,
+      "num": 155905,
+      "word": "高层住户经期往楼下扔带血卫生巾",
+      "onboard_time": 1752545239,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153077,
@@ -331,12 +403,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 143421,
+      "num": 143421,
+      "word": "锦绣芳华仿妆里年龄最小的出现了",
+      "onboard_time": 1752545601,
+      "rank": 33,
+      "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 142430,
+      "num": 142430,
+      "word": "孙颖莎世排第一11250分",
+      "onboard_time": 1752542541,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141143,
       "num": 141143,
       "word": "网友怀疑气象部门刻意不报40度",
       "onboard_time": 1752487942,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139718,
+      "num": 139718,
+      "word": "早餐你爱甜豆花还是咸豆花",
+      "onboard_time": 1752546980,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 137823,
@@ -347,6 +443,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136599,
+      "num": 136599,
+      "word": "南开大学教师简介",
+      "onboard_time": 1752540501,
+      "rank": 33,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 135583,
+      "num": 135583,
+      "word": "猫咪突然逃跑下一秒电视墙塌了",
+      "onboard_time": 1752544940,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135562,
+      "num": 135562,
+      "word": "整治借谷子周边等名义欺凌未成年",
+      "onboard_time": 1752546259,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132989,
       "num": 132989,
       "word": "外卖大战有人65元搞定一周伙食",
@@ -355,12 +475,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 127443,
-      "num": 127443,
-      "word": "孙颖莎世排第一11250分",
-      "onboard_time": 1752542541,
-      "rank": 27,
-      "category": "体育"
+      "raw_hot": 130285,
+      "num": 130285,
+      "word": "AHC",
+      "onboard_time": 1752546681,
+      "rank": 42,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 129149,
+      "num": 129149,
+      "word": "航天员在太空吃上了国民菜",
+      "onboard_time": 1752545661,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126762,
@@ -403,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117736,
+      "num": 117736,
+      "word": "战至巅峰",
+      "onboard_time": 1752546980,
+      "rank": 45,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 116153,
       "num": 145098,
       "word": "男鼓手吸毒去世竟是亲妈害的",
@@ -417,6 +553,14 @@
       "onboard_time": 1752499163,
       "rank": 37,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 115738,
+      "num": 115738,
+      "word": "宋佳晒了跟好多人的合照",
+      "onboard_time": 1752546741,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 115689,
@@ -435,12 +579,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 114787,
-      "num": 114787,
-      "word": "南开大学教师简介",
-      "onboard_time": 1752540501,
-      "rank": 33,
-      "category": "民生新闻,教育"
+      "raw_hot": 111014,
+      "num": 113656,
+      "word": "特朗普所谓重大声明揭晓",
+      "onboard_time": 1752543261,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 108646,
@@ -449,14 +593,6 @@
       "onboard_time": 1752535580,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 108602,
-      "num": 108602,
-      "word": "猫咪突然逃跑下一秒电视墙塌了",
-      "onboard_time": 1752544940,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102496,
@@ -497,14 +633,6 @@
       "onboard_time": 1752508642,
       "rank": 26,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 97991,
-      "num": 97991,
-      "word": "高层住户经期往楼下扔带血卫生巾",
-      "onboard_time": 1752545239,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 97925,
@@ -563,14 +691,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 89793,
-      "num": 89793,
-      "word": "梓渝 求佛",
-      "onboard_time": 1752545421,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 87727,
       "num": 87727,
       "word": "什么综艺还没播但群像味已经出来了",
@@ -609,14 +729,6 @@
       "onboard_time": 1752541881,
       "rank": 44,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 83450,
-      "num": 83450,
-      "word": "特朗普所谓重大声明揭晓",
-      "onboard_time": 1752543261,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 83305,
@@ -763,6 +875,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 52591,
+      "num": 205008,
+      "word": "孕妇遭殴打当地处理为何迟缓",
+      "onboard_time": 1752546081,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52121,
       "num": 75427,
       "word": "中医建议喝美式要去冰",
@@ -779,6 +899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 46536,
+      "num": 204865,
+      "word": "山姆越来越像沃尔玛了",
+      "onboard_time": 1752546681,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45204,
       "num": 75539,
       "word": "李乃文晒跟孙红雷欧阳娣娣合照",
@@ -793,6 +921,14 @@
       "onboard_time": 1752513557,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35529,
+      "num": 202293,
+      "word": "万科A预计上半年净利润亏损100至120亿",
+      "onboard_time": 1752538341,
+      "rank": 23,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 32209,
@@ -812,7 +948,7 @@
     },
     {
       "raw_hot": 24786,
-      "num": 552744,
+      "num": 823146,
       "word": "护网2025严守视频会议安全门",
       "onboard_time": 1752540562,
       "rank": 2,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1752547020212,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1559573,
+        "num": 1559573,
+        "word": "山姆下架多款口碑商品上新好丽友",
+        "onboard_time": 1752541700,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1026481,
+        "num": 1026481,
+        "word": "赵丽颖代言纪梵希",
+        "onboard_time": 1752545121,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21907,
+        "num": 823146,
+        "word": "护网2025严守视频会议安全门",
+        "onboard_time": 1752540562,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 621652,
+        "num": 621652,
+        "word": "上海多人暴雨中排队喝零下80度咖啡",
+        "onboard_time": 1752522554,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 452252,
+        "num": 452252,
+        "word": "关晓彤回复蒋欣",
+        "onboard_time": 1752535218,
+        "rank": 4,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 419633,
+        "num": 419633,
+        "word": "山姆回应被质疑选品质量下滑",
+        "onboard_time": 1752541640,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393139,
+        "num": 393139,
+        "word": "女孩街拍走红家长已拒绝多家MCN",
+        "onboard_time": 1752540501,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326748,
+        "num": 326748,
+        "word": "女子洗车9天方向盘长出3cm霉菌",
+        "onboard_time": 1752539123,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294082,
+        "num": 294082,
+        "word": "林诗栋美国大满贯后发文",
+        "onboard_time": 1752544221,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203264,
+        "num": 293430,
+        "word": "2025上半年GDP同比增长5.3%",
+        "onboard_time": 1752546081,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1168033,
+        "num": 292813,
+        "word": "21岁女子因痛经去医院结果生了个娃",
+        "onboard_time": 1752534258,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 503794,
+        "num": 292221,
+        "word": "租房看见这空调我扭头就走",
+        "onboard_time": 1752537140,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 451865,
+        "num": 291673,
+        "word": "梓渝 求佛",
+        "onboard_time": 1752545421,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290903,
+        "num": 290903,
+        "word": "杭州地铁一男子爬进车厢吓跑乘客",
+        "onboard_time": 1752538400,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 450686,
+        "num": 276678,
+        "word": "关晓彤李昀锐海边吻",
+        "onboard_time": 1752497122,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240472,
+        "num": 240472,
+        "word": "Jennie舞台",
+        "onboard_time": 1752542421,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 215875,
+        "num": 215875,
+        "word": "战至巅峰4三大常驻战队官宣",
+        "onboard_time": 1752546980,
+        "rank": 16,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 213636,
+        "num": 213636,
+        "word": "河南人早餐除了胡辣汤还吃啥",
+        "onboard_time": 1752546980,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 205301,
+        "num": 205301,
+        "word": "雀骨",
+        "onboard_time": 1752545840,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52591,
+        "num": 205008,
+        "word": "孕妇遭殴打当地处理为何迟缓",
+        "onboard_time": 1752546081,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46536,
+        "num": 204865,
+        "word": "山姆越来越像沃尔玛了",
+        "onboard_time": 1752546681,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213558,
+        "num": 204859,
+        "word": "超市回应女子将婴儿放绿豆框里玩耍",
+        "onboard_time": 1752538640,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204852,
+        "num": 204852,
+        "word": "肖战世赛推广大使",
+        "onboard_time": 1752546860,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35529,
+        "num": 202293,
+        "word": "万科A预计上半年净利润亏损100至120亿",
+        "onboard_time": 1752538341,
+        "rank": 23,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 197226,
+        "num": 201924,
+        "word": "龚俊 花儿与少年",
+        "onboard_time": 1752539182,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148609,
+        "num": 201810,
+        "word": "问界M8纯电版8月上市",
+        "onboard_time": 1752544999,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 201756,
+        "num": 201756,
+        "word": "天舟九号与空间站成功对接",
+        "onboard_time": 1752541881,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 198426,
+        "num": 198426,
+        "word": "江浙沪 沪苏浙",
+        "onboard_time": 1752546441,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198208,
+        "num": 198208,
+        "word": "王楚钦 Oakley",
+        "onboard_time": 1752546620,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173956,
+        "num": 173956,
+        "word": "女孩因撞脸张柏芝全网走红",
+        "onboard_time": 1752506242,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155905,
+        "num": 155905,
+        "word": "高层住户经期往楼下扔带血卫生巾",
+        "onboard_time": 1752545239,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153708,
+        "num": 153708,
+        "word": "小海绵被妈妈养的很好",
+        "onboard_time": 1752504324,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148958,
+        "num": 148958,
+        "word": "太空快递寄了点啥",
+        "onboard_time": 1752540982,
+        "rank": 32,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 143421,
+        "num": 143421,
+        "word": "锦绣芳华仿妆里年龄最小的出现了",
+        "onboard_time": 1752545601,
+        "rank": 33,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 143254,
+        "num": 143254,
+        "word": "凡人修仙传",
+        "onboard_time": 1752535218,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142430,
+        "num": 142430,
+        "word": "孙颖莎世排第一11250分",
+        "onboard_time": 1752542541,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139718,
+        "num": 139718,
+        "word": "早餐你爱甜豆花还是咸豆花",
+        "onboard_time": 1752546980,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 136599,
+        "num": 136599,
+        "word": "南开大学教师简介",
+        "onboard_time": 1752540501,
+        "rank": 37,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 135583,
+        "num": 135583,
+        "word": "猫咪突然逃跑下一秒电视墙塌了",
+        "onboard_time": 1752544940,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135562,
+        "num": 135562,
+        "word": "整治借谷子周边等名义欺凌未成年",
+        "onboard_time": 1752546259,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131784,
+        "num": 131784,
+        "word": "美战机被曝撞上UFO",
+        "onboard_time": 1752505164,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130523,
+        "num": 130523,
+        "word": "特朗普称对俄罗斯征收100%关税",
+        "onboard_time": 1752507143,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 130285,
+        "num": 130285,
+        "word": "AHC",
+        "onboard_time": 1752546681,
+        "rank": 42,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 129149,
+        "num": 129149,
+        "word": "航天员在太空吃上了国民菜",
+        "onboard_time": 1752545661,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123261,
+        "num": 123261,
+        "word": "国防部回应菲律宾要求中国弃核",
+        "onboard_time": 1752508042,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117736,
+        "num": 117736,
+        "word": "战至巅峰",
+        "onboard_time": 1752546980,
+        "rank": 45,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 115738,
+        "num": 115738,
+        "word": "宋佳晒了跟好多人的合照",
+        "onboard_time": 1752546741,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114811,
+        "num": 114811,
+        "word": "这种胃癌偏爱年轻人",
+        "onboard_time": 1752509481,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 104478,
+        "num": 113826,
+        "word": "王鹤棣 LV",
+        "onboard_time": 1752499163,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 111014,
+        "num": 113656,
+        "word": "特朗普所谓重大声明揭晓",
+        "onboard_time": 1752543261,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#城市要有高度更要有温度#"
+    }
+  }
+}
