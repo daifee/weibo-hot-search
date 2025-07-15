@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752565445732,
+  "endTime": 1752568607247,
   "band_list": [
     {
       "raw_hot": 14050966,
@@ -9,6 +9,14 @@
       "onboard_time": 1752415406,
       "rank": 0,
       "category": "演出"
+    },
+    {
+      "raw_hot": 3604517,
+      "num": 3604517,
+      "word": "董璇再婚",
+      "onboard_time": 1752566721,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 2900025,
@@ -1139,6 +1147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 527191,
+      "num": 527191,
+      "word": "男孩与亲爸后妈远行坐后备箱数小时",
+      "onboard_time": 1752565342,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 526882,
       "num": 526882,
       "word": "word删除空白页",
@@ -1288,6 +1304,14 @@
       "word": "王安宇为王星越接古装戏",
       "onboard_time": 1752556523,
       "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 484817,
+      "num": 1053437,
+      "word": "王安宇不吃水里的所以只吃鸭头",
+      "onboard_time": 1752561261,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -1555,6 +1579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 400311,
+      "num": 233602,
+      "word": "李兰迪瘦了好多",
+      "onboard_time": 1752563542,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 399947,
       "num": 399947,
       "word": "高考604分女生放弃本科选择从军梦",
@@ -1593,6 +1625,14 @@
       "onboard_time": 1752390143,
       "rank": 27,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 387049,
+      "num": 387049,
+      "word": "女子垃圾堆捡22个金镯价值近40万",
+      "onboard_time": 1752565641,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 385572,
@@ -1707,8 +1747,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 357002,
+      "num": 357002,
+      "word": "山姆拿什么留住百万会员",
+      "onboard_time": 1752565162,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 356474,
-      "num": 356474,
+      "num": 502880,
       "word": "2025上半年GDP同比增长5.3%",
       "onboard_time": 1752546081,
       "rank": 9,
@@ -1843,14 +1891,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 333986,
-      "num": 1053437,
-      "word": "王安宇不吃水里的所以只吃鸭头",
-      "onboard_time": 1752561261,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 333571,
       "num": 316033,
       "word": "孙颖莎松弛等待女双决赛",
@@ -1969,6 +2009,14 @@
       "onboard_time": 1752402441,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 312574,
+      "num": 312574,
+      "word": "艾米 美炸了",
+      "onboard_time": 1752568103,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 307903,
@@ -2169,14 +2217,6 @@
       "onboard_time": 1752497723,
       "rank": 46,
       "category": "艺人,教育"
-    },
-    {
-      "raw_hot": 288067,
-      "num": 233602,
-      "word": "李兰迪瘦了好多",
-      "onboard_time": 1752563542,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 286134,
@@ -2651,6 +2691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 237330,
+      "num": 237330,
+      "word": "法国庆阅兵士兵自己刀自己",
+      "onboard_time": 1752565162,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 235868,
       "num": 235868,
       "word": "县委书记搞文旅项目投5.4亿烂尾",
@@ -2737,6 +2785,14 @@
       "onboard_time": 1752468863,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 224398,
+      "num": 224398,
+      "word": "卖儿父母获刑出狱后又要抚养权",
+      "onboard_time": 1752566481,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 224288,
@@ -3545,6 +3601,14 @@
       "onboard_time": 1752475162,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186821,
+      "num": 186821,
+      "word": "白百何带二胎儿子现身机场",
+      "onboard_time": 1752566002,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 186760,
@@ -4491,6 +4555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 157415,
+      "num": 229883,
+      "word": "餐饮商会喊话外卖平台停止内卷式补贴",
+      "onboard_time": 1752567383,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157133,
       "num": 164238,
       "word": "黄仁勋称中国军方不会使用美国技术",
@@ -4763,6 +4835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151594,
+      "num": 151594,
+      "word": "新加坡女子杀养父后看动漫听音乐",
+      "onboard_time": 1752558082,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 150386,
       "num": 150386,
       "word": "斯瓦泰克大满贯第六冠",
@@ -4785,6 +4865,14 @@
       "onboard_time": 1752334523,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150103,
+      "num": 150103,
+      "word": "国足1比0领先中国香港",
+      "onboard_time": 1752566662,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 150095,
@@ -5715,6 +5803,14 @@
       "category": "音乐,艺人"
     },
     {
+      "raw_hot": 129516,
+      "num": 129516,
+      "word": "雨后冲出一张鬼脸竟是国宝",
+      "onboard_time": 1752567743,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129246,
       "num": 129246,
       "word": "宋佳晒了跟好多人的合照",
@@ -5867,12 +5963,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 126822,
+      "num": 128062,
+      "word": "女生减肥2周只吃蔬菜和泻药险丧命",
+      "onboard_time": 1752565342,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126356,
       "num": 154699,
       "word": "在新闻发布会上学到鉴假货知识",
       "onboard_time": 1752478761,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126148,
+      "num": 126148,
+      "word": "刘轩丞高中旧照",
+      "onboard_time": 1752567502,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 126060,
@@ -6091,14 +6203,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 122216,
-      "num": 122216,
-      "word": "男孩与亲爸后妈远行坐后备箱数小时",
-      "onboard_time": 1752565342,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 122168,
       "num": 122168,
       "word": "IVE柏林音乐节舞台",
@@ -6113,6 +6217,14 @@
       "onboard_time": 1752373521,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122001,
+      "num": 122001,
+      "word": "秦彻daddy架狙",
+      "onboard_time": 1752568103,
+      "rank": 37,
+      "category": "游戏,动漫"
     },
     {
       "raw_hot": 121946,
@@ -6555,6 +6667,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 114780,
+      "num": 127122,
+      "word": "王铮亮工作室",
+      "onboard_time": 1752567862,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114764,
       "num": 242808,
       "word": "当事人回应造黄谣男子拒赔偿被拘",
@@ -6617,6 +6737,14 @@
       "onboard_time": 1752507442,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113892,
+      "num": 210484,
+      "word": "罗马仕最新声明",
+      "onboard_time": 1752568342,
+      "rank": 21,
+      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 113815,
@@ -6769,6 +6897,14 @@
       "onboard_time": 1752543261,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 110982,
+      "num": 132042,
+      "word": "张凌赫工作室剧宣",
+      "onboard_time": 1752565820,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 110607,
@@ -6937,6 +7073,14 @@
       "onboard_time": 1752484220,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 106281,
+      "num": 106281,
+      "word": "小儿子吐槽白百何挡自己镜头",
+      "onboard_time": 1752567502,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 106260,
@@ -7211,14 +7355,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 99115,
-      "num": 99115,
-      "word": "法国庆阅兵士兵自己刀自己",
-      "onboard_time": 1752565162,
-      "rank": 47,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 99094,
       "num": 99094,
       "word": "把我的医保卡给蒋长扬",
@@ -7401,6 +7537,14 @@
       "onboard_time": 1752497662,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 94817,
+      "num": 94817,
+      "word": "英伟达股票涨3.2%",
+      "onboard_time": 1752567923,
+      "rank": 45,
+      "category": "财经,数码"
     },
     {
       "raw_hot": 94812,
@@ -7627,6 +7771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84166,
+      "num": 219111,
+      "word": "翻垃圾找失物不应是环卫工本职工作",
+      "onboard_time": 1752564742,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83766,
       "num": 83766,
       "word": "能把家打扫得很干净的人都不简单",
@@ -7705,14 +7857,6 @@
       "onboard_time": 1752496103,
       "rank": 49,
       "category": "健康医疗,科学科普"
-    },
-    {
-      "raw_hot": 80987,
-      "num": 106891,
-      "word": "山姆拿什么留住百万会员",
-      "onboard_time": 1752565162,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 80501,
@@ -7833,6 +7977,14 @@
       "onboard_time": 1752533117,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 75275,
+      "num": 213705,
+      "word": "张凌赫接了我送的花",
+      "onboard_time": 1752567923,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 74998,
@@ -8339,6 +8491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36517,
+      "num": 198036,
+      "word": "蛤蟆汤事件当事人满意处理结果",
+      "onboard_time": 1752568342,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36404,
       "num": 153668,
       "word": "重庆2患者使用临床研究抗癌药",
@@ -8361,6 +8521,14 @@
       "onboard_time": 1752538341,
       "rank": 23,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 35317,
+      "num": 138013,
+      "word": "0元购外卖无序价格战没有赢家",
+      "onboard_time": 1752567683,
+      "rank": 29,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 35227,
@@ -8475,14 +8643,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 27361,
-      "num": 219111,
-      "word": "翻垃圾找失物不应是环卫工本职工作",
-      "onboard_time": 1752564742,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 27185,
       "num": 27185,
       "word": "汪苏泷唱了不甜情歌",
@@ -8504,14 +8664,6 @@
       "word": "花钱降论文AI率却被改得一塌糊涂",
       "onboard_time": 1752465682,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26914,
-      "num": 128062,
-      "word": "女生减肥2周只吃蔬菜和泻药险丧命",
-      "onboard_time": 1752565342,
-      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -8665,6 +8817,14 @@
       "onboard_time": 1752494842,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 20197,
+      "num": 212499,
+      "word": "户口未迁出前妻打官司赢回征地款",
+      "onboard_time": 1752567743,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19743,
