@@ -1,10 +1,10 @@
 {
   "startTime": 1752510927124,
-  "endTime": 1752552810258,
+  "endTime": 1752555466845,
   "band_list": [
     {
-      "raw_hot": 1824509,
-      "num": 773744,
+      "raw_hot": 1979558,
+      "num": 864572,
       "word": "他甚至连求婚戒指都准备了四枚",
       "onboard_time": 1752550582,
       "rank": 3,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1779008,
-      "num": 353152,
+      "num": 462304,
       "word": "江浙沪 沪苏浙",
       "onboard_time": 1752546441,
       "rank": 27,
@@ -28,10 +28,18 @@
     },
     {
       "raw_hot": 1505027,
-      "num": 353086,
+      "num": 410132,
       "word": "21岁女子因痛经去医院结果生了个娃",
       "onboard_time": 1752534258,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1157421,
+      "num": 1185187,
+      "word": "骑手说过上1晚挣1千元的好日子了",
+      "onboard_time": 1752548181,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -59,12 +67,52 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 919972,
+      "num": 446074,
+      "word": "张凯毅怀孕",
+      "onboard_time": 1752554182,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 904277,
+      "num": 904277,
+      "word": "蛤蟆汤被罚45万事件5人停职",
+      "onboard_time": 1752552025,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 873195,
       "num": 876447,
       "word": "关晓彤李昀锐海边吻",
       "onboard_time": 1752497122,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 873173,
+      "num": 420497,
+      "word": "李敏镐发了全智贤",
+      "onboard_time": 1752554543,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 850032,
+      "num": 850032,
+      "word": "剧本",
+      "onboard_time": 1752553642,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 759576,
+      "num": 759576,
+      "word": "于正联络上七七了",
+      "onboard_time": 1752552562,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 690743,
@@ -99,14 +147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 594612,
-      "num": 594612,
-      "word": "骑手说过上1晚挣1千元的好日子了",
-      "onboard_time": 1752548181,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 569763,
       "num": 569763,
       "word": "连体人姐姐要结婚妹妹要单身",
@@ -129,6 +169,14 @@
       "onboard_time": 1752537140,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 483497,
+      "num": 483497,
+      "word": "热热热我热热热",
+      "onboard_time": 1752552442,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 465017,
@@ -155,20 +203,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 425707,
-      "num": 425707,
-      "word": "于正联络上七七了",
-      "onboard_time": 1752552562,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 402726,
       "num": 402726,
       "word": "杭州地铁一男子爬进车厢吓跑乘客",
       "onboard_time": 1752538400,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 356896,
+      "num": 437067,
+      "word": "西班牙1180人因高温死亡",
+      "onboard_time": 1752553583,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 356474,
@@ -227,12 +275,28 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 311746,
+      "num": 311746,
+      "word": "七七",
+      "onboard_time": 1752554303,
+      "rank": 22,
+      "category": "网红"
+    },
+    {
       "raw_hot": 301141,
       "num": 301141,
       "word": "天舟九号与空间站成功对接",
       "onboard_time": 1752541881,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 300589,
+      "num": 300589,
+      "word": "贵州遵义通报8岁女童被撞身亡",
+      "onboard_time": 1752555443,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 294082,
@@ -283,6 +347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 267998,
+      "num": 267998,
+      "word": "爱奇艺直播官宣",
+      "onboard_time": 1752548301,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 260002,
       "num": 260002,
       "word": "超市回应女子将婴儿放绿豆框里玩耍",
@@ -331,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 241435,
+      "num": 468350,
+      "word": "大厂程序员被裁和兄弟联手制毒",
+      "onboard_time": 1752552562,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 237887,
       "num": 237887,
       "word": "张凌赫赵今麦回应三搭",
@@ -347,11 +427,11 @@
       "category": "综艺,电竞"
     },
     {
-      "raw_hot": 229702,
-      "num": 276030,
-      "word": "蛤蟆汤被罚45万事件5人停职",
-      "onboard_time": 1752552025,
-      "rank": 36,
+      "raw_hot": 222423,
+      "num": 222423,
+      "word": "山姆",
+      "onboard_time": 1752551842,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -361,14 +441,6 @@
       "onboard_time": 1752505344,
       "rank": 13,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 218630,
-      "num": 218630,
-      "word": "爱奇艺直播官宣",
-      "onboard_time": 1752548301,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 213636,
@@ -419,11 +491,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 195971,
-      "num": 195971,
-      "word": "山姆",
-      "onboard_time": 1752551842,
-      "rank": 26,
+      "raw_hot": 189353,
+      "num": 189353,
+      "word": "山姆年初变更负责人",
+      "onboard_time": 1752550522,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -448,6 +520,14 @@
       "word": "偶像剧不准用折叠伞",
       "onboard_time": 1752488722,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 184727,
+      "num": 225779,
+      "word": "成毅邓为侯明昊丞磊官宣海报",
+      "onboard_time": 1752554782,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -499,6 +579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168657,
+      "num": 168657,
+      "word": "第二届上海合作组织国家电视节",
+      "onboard_time": 1752553763,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165756,
       "num": 165756,
       "word": "H20",
@@ -507,8 +595,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 158860,
-      "num": 158860,
+      "raw_hot": 159290,
+      "num": 159290,
       "word": "敖瑞鹏自己化的战损妆",
       "onboard_time": 1752551723,
       "rank": 31,
@@ -523,20 +611,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 155009,
-      "num": 155009,
-      "word": "热热热我热热热",
-      "onboard_time": 1752552442,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 154908,
       "num": 154908,
       "word": "秦彻预言",
       "onboard_time": 1752551601,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 154596,
+      "num": 154596,
+      "word": "坚持踮脚10分钟",
+      "onboard_time": 1752555325,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 153077,
@@ -547,12 +635,36 @@
       "category": "国内时政,科学科普"
     },
     {
+      "raw_hot": 152579,
+      "num": 152579,
+      "word": "一直躺着玩手机真的会得血栓",
+      "onboard_time": 1752554663,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 152549,
+      "num": 152549,
+      "word": "石破茂被发现手背写满小抄",
+      "onboard_time": 1752549801,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 150770,
       "num": 150770,
       "word": "田栩宁说了第六句话",
       "onboard_time": 1752493403,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148239,
+      "num": 148239,
+      "word": "10万块装修300平房子的效果",
+      "onboard_time": 1752550762,
+      "rank": 46,
+      "category": "休闲"
     },
     {
       "raw_hot": 147595,
@@ -585,14 +697,6 @@
       "onboard_time": 1752542541,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 142100,
-      "num": 142100,
-      "word": "10万块装修300平房子的效果",
-      "onboard_time": 1752550762,
-      "rank": 46,
-      "category": "休闲"
     },
     {
       "raw_hot": 141143,
@@ -633,14 +737,6 @@
       "onboard_time": 1752546980,
       "rank": 36,
       "category": "美食"
-    },
-    {
-      "raw_hot": 139624,
-      "num": 139624,
-      "word": "大厂程序员被裁和兄弟联手制毒",
-      "onboard_time": 1752552562,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 139527,
@@ -747,20 +843,28 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 126484,
-      "num": 126484,
-      "word": "石破茂被发现手背写满小抄",
-      "onboard_time": 1752549801,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 124017,
       "num": 605939,
       "word": "医生支招高温天吃什么更解暑",
       "onboard_time": 1752499343,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 122925,
+      "num": 122925,
+      "word": "西班牙许多老人没扛过高温天",
+      "onboard_time": 1752553042,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 122875,
+      "num": 122875,
+      "word": "起猛了看到小时候的县主了",
+      "onboard_time": 1752554064,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 121225,
@@ -852,7 +956,7 @@
     },
     {
       "raw_hot": 109038,
-      "num": 292025,
+      "num": 450344,
       "word": "和李昀锐舒舒服服度个小假",
       "onboard_time": 1752552262,
       "rank": 15,
@@ -1012,7 +1116,7 @@
     },
     {
       "raw_hot": 83632,
-      "num": 278608,
+      "num": 456048,
       "word": "赵丽颖先锋感妆容气场全开",
       "onboard_time": 1752552262,
       "rank": 17,
@@ -1048,6 +1152,14 @@
       "word": "孕妇遭男子殴打住院已转刑事案件",
       "onboard_time": 1752512238,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79424,
+      "num": 328068,
+      "word": "蛤蟆汤饭店老板发声想把店开下去",
+      "onboard_time": 1752554543,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1140,7 +1252,7 @@
     },
     {
       "raw_hot": 69671,
-      "num": 149238,
+      "num": 153422,
       "word": "这会员谁不想当啊",
       "onboard_time": 1752552083,
       "rank": 39,
@@ -1193,6 +1305,14 @@
       "onboard_time": 1752512059,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 49982,
+      "num": 865640,
+      "word": "中国外贸成绩凝聚了无数人的奋力开拓",
+      "onboard_time": 1752553342,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47111,
