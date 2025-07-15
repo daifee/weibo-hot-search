@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752547020212,
+  "endTime": 1752552233192,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -641,6 +641,14 @@
       "onboard_time": 1751883682,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1779008,
+      "num": 318145,
+      "word": "江浙沪 沪苏浙",
+      "onboard_time": 1752546441,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 1768229,
@@ -2387,6 +2395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 986773,
+      "num": 682832,
+      "word": "他甚至连求婚戒指都准备了四枚",
+      "onboard_time": 1752550582,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 985220,
       "num": 1157635,
       "word": "猫眼 偷偷放票",
@@ -3385,6 +3401,14 @@
       "onboard_time": 1751336540,
       "rank": 6,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 806417,
+      "num": 806417,
+      "word": "山姆越来越像沃尔玛了",
+      "onboard_time": 1752546681,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 801998,
@@ -5683,6 +5707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 590371,
+      "num": 590371,
+      "word": "旺仔牛奶出国后变火辣小孩了",
+      "onboard_time": 1752547461,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 588973,
       "num": 365349,
       "word": "蔡琳回应接受前夫高梓淇再婚",
@@ -6275,6 +6307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 540525,
+      "num": 540525,
+      "word": "骑手说过上1晚挣1千元的好日子了",
+      "onboard_time": 1752548181,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 539850,
       "num": 229092,
       "word": "25岁杀夫新娘和舅舅有15年非法关系",
@@ -6529,6 +6569,14 @@
       "onboard_time": 1751964682,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 524142,
+      "num": 524142,
+      "word": "闵熙珍无罪",
+      "onboard_time": 1752549322,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 523491,
@@ -7668,7 +7716,7 @@
     },
     {
       "raw_hot": 451865,
-      "num": 291673,
+      "num": 310050,
       "word": "梓渝 求佛",
       "onboard_time": 1752545421,
       "rank": 43,
@@ -11355,6 +11403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 310574,
+      "num": 310574,
+      "word": "2025上半年GDP同比增长5.3%",
+      "onboard_time": 1752546081,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 310245,
       "num": 310245,
       "word": "精心设计的婚礼布景竟变成短剧素材",
@@ -11465,6 +11521,14 @@
       "onboard_time": 1752423562,
       "rank": 13,
       "category": "作品衍生,综艺"
+    },
+    {
+      "raw_hot": 306677,
+      "num": 306677,
+      "word": "临沂通报餐馆发菜品视频被拟罚45万",
+      "onboard_time": 1752550341,
+      "rank": 15,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 305750,
@@ -11987,6 +12051,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 292415,
+      "num": 292415,
+      "word": "上半年全国居民人均可支配收入21840元",
+      "onboard_time": 1752547041,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 292367,
       "num": 292367,
       "word": "胡先煦说我不是什么星",
@@ -12025,6 +12097,14 @@
       "onboard_time": 1751549783,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 291601,
+      "num": 293139,
+      "word": "樱桃琥珀直播",
+      "onboard_time": 1752549142,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 291562,
@@ -12273,6 +12353,14 @@
       "onboard_time": 1752117321,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 286134,
+      "num": 286134,
+      "word": "王楚钦 Oakley",
+      "onboard_time": 1752546620,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 285732,
@@ -14995,6 +15083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230976,
+      "num": 230976,
+      "word": "战至巅峰4三大常驻战队官宣",
+      "onboard_time": 1752546980,
+      "rank": 16,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 230940,
       "num": 230940,
       "word": "首个宠物本科专业来了",
@@ -16097,14 +16193,6 @@
       "onboard_time": 1752315860,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 215875,
-      "num": 215875,
-      "word": "战至巅峰4三大常驻战队官宣",
-      "onboard_time": 1752546980,
-      "rank": 16,
-      "category": "综艺,电竞"
     },
     {
       "raw_hot": 215815,
@@ -17619,14 +17707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 203264,
-      "num": 293430,
-      "word": "2025上半年GDP同比增长5.3%",
-      "onboard_time": 1752546081,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 203201,
       "num": 203201,
       "word": "张碧晨演唱会哭了",
@@ -18251,6 +18331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199480,
+      "num": 199480,
+      "word": "大同再回应环卫工翻垃圾找手表宠客",
+      "onboard_time": 1752548481,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199255,
       "num": 199255,
       "word": "苏超南通2比1徐州",
@@ -18411,14 +18499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 198426,
-      "num": 198426,
-      "word": "江浙沪 沪苏浙",
-      "onboard_time": 1752546441,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 198375,
       "num": 198375,
       "word": "易烊千玺舒淇 孔雀东南飞",
@@ -18440,14 +18520,6 @@
       "word": "国足首发",
       "onboard_time": 1751883022,
       "rank": 27,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 198208,
-      "num": 198208,
-      "word": "王楚钦 Oakley",
-      "onboard_time": 1752546620,
-      "rank": 28,
       "category": "体育"
     },
     {
@@ -18521,6 +18593,14 @@
       "onboard_time": 1752251362,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197893,
+      "num": 197893,
+      "word": "爱奇艺直播官宣",
+      "onboard_time": 1752548301,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 197743,
@@ -19881,6 +19961,14 @@
       "onboard_time": 1752137482,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 189243,
+      "num": 318989,
+      "word": "整治借谷子周边等名义欺凌未成年",
+      "onboard_time": 1752546259,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189220,
@@ -22299,6 +22387,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 173606,
+      "num": 173606,
+      "word": "山姆",
+      "onboard_time": 1752551842,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 173603,
       "num": 173603,
       "word": "北京月薪30000一天要花多少钱",
@@ -22433,6 +22529,14 @@
       "onboard_time": 1752298101,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 172773,
+      "num": 172773,
+      "word": "一只患有侏儒症的可爱小猫咪",
+      "onboard_time": 1752548663,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 172772,
@@ -24587,6 +24691,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 160686,
+      "num": 160686,
+      "word": "男子和病妻西班牙自驾整辆房车被偷",
+      "onboard_time": 1752549740,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160670,
       "num": 276003,
       "word": "鼠头鸭脖涉事公司将决议解散",
@@ -24931,6 +25043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158860,
+      "num": 158860,
+      "word": "敖瑞鹏自己化的战损妆",
+      "onboard_time": 1752551723,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158830,
       "num": 158830,
       "word": "Tabe发文道歉",
@@ -25121,6 +25241,14 @@
       "onboard_time": 1752042082,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157840,
+      "num": 157840,
+      "word": "H20",
+      "onboard_time": 1752549501,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 157823,
@@ -28979,6 +29107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140730,
+      "num": 140730,
+      "word": "秦彻预言",
+      "onboard_time": 1752551601,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 140708,
       "num": 140708,
       "word": "闫妮蒋欣因为罗小黑消失团建",
@@ -29001,6 +29137,14 @@
       "onboard_time": 1751710221,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140645,
+      "num": 140645,
+      "word": "TMA阵容",
+      "onboard_time": 1752548663,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 140619,
@@ -29129,6 +29273,14 @@
       "onboard_time": 1751810845,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 140163,
+      "num": 140163,
+      "word": "蛤蟆汤被罚45万事件5人停职",
+      "onboard_time": 1752552025,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140140,
@@ -29339,6 +29491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139527,
+      "num": 139527,
+      "word": "于正再谈孙菲菲事件",
+      "onboard_time": 1752551241,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139505,
       "num": 139505,
       "word": "你莎真的困咯",
@@ -29377,6 +29537,14 @@
       "onboard_time": 1751443822,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139310,
+      "num": 139310,
+      "word": "苏新皓加速王",
+      "onboard_time": 1752549861,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 139294,
@@ -29609,6 +29777,14 @@
       "onboard_time": 1752408142,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 138574,
+      "num": 138574,
+      "word": "下半年价格将低位温和回升",
+      "onboard_time": 1752551662,
+      "rank": 42,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 138508,
@@ -30307,14 +30483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 135562,
-      "num": 135562,
-      "word": "整治借谷子周边等名义欺凌未成年",
-      "onboard_time": 1752546259,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 135540,
       "num": 135540,
       "word": "张晚意比我会过日子",
@@ -30515,6 +30683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134966,
+      "num": 134966,
+      "word": "他甚至连戒指都准备了四枚",
+      "onboard_time": 1752552083,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 134938,
       "num": 134938,
       "word": "宋一梦南珩也是过上甜日子了",
@@ -30553,6 +30729,14 @@
       "onboard_time": 1751721873,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134845,
+      "num": 134845,
+      "word": "10万块装修300平房子的效果",
+      "onboard_time": 1752550762,
+      "rank": 46,
+      "category": "休闲"
     },
     {
       "raw_hot": 134788,
@@ -31057,6 +31241,14 @@
       "onboard_time": 1752061402,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132704,
+      "num": 138903,
+      "word": "英伟达将恢复H20在中国的销售",
+      "onboard_time": 1752549322,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 132682,
@@ -33347,6 +33539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124148,
+      "num": 124148,
+      "word": "石破茂被发现手背写满小抄",
+      "onboard_time": 1752549801,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 124136,
       "num": 160862,
       "word": "无名之辈",
@@ -34275,6 +34475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121166,
+      "num": 121166,
+      "word": "终于知道请假理由怎么写了",
+      "onboard_time": 1752550701,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 121160,
       "num": 149762,
       "word": "二重赋格定档",
@@ -34521,6 +34729,14 @@
       "onboard_time": 1752288681,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120114,
+      "num": 120114,
+      "word": "侯明昊艾米开机应援",
+      "onboard_time": 1752550101,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 120109,
@@ -36673,6 +36889,14 @@
       "onboard_time": 1751555063,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113015,
+      "num": 683529,
+      "word": "深入整治网上危害未成年人身心健康乱象",
+      "onboard_time": 1752549682,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112938,
@@ -39841,6 +40065,14 @@
       "onboard_time": 1752231321,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 100384,
+      "num": 292687,
+      "word": "挖的不是枯骨是苦主",
+      "onboard_time": 1752550582,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 100345,
@@ -43291,6 +43523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 73355,
+      "num": 135871,
+      "word": "空调省电模式",
+      "onboard_time": 1752550461,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 73345,
       "num": 73345,
       "word": "伏天是祛湿的最佳时间",
@@ -45243,6 +45483,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 54587,
+      "num": 139313,
+      "word": "这会员谁不想当啊",
+      "onboard_time": 1752552083,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 54425,
       "num": 54425,
       "word": "撕拉片",
@@ -46035,14 +46283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 46536,
-      "num": 204865,
-      "word": "山姆越来越像沃尔玛了",
-      "onboard_time": 1752546681,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 46419,
       "num": 123706,
       "word": "王楚钦说把副板也变成主板",
@@ -46425,6 +46665,14 @@
       "onboard_time": 1751350942,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42957,
+      "num": 135333,
+      "word": "柠檬涨价蜜雪冰城柠檬水会涨价吗",
+      "onboard_time": 1752550883,
+      "rank": 44,
+      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 42933,
@@ -47521,6 +47769,14 @@
       "onboard_time": 1752356234,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 33736,
+      "num": 139321,
+      "word": "蒋敦豪晒照庆出道九周年",
+      "onboard_time": 1752551361,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 33641,

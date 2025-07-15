@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752547020212,
+  "endTime": 1752552233192,
   "band_list": [
     {
       "raw_hot": 14050966,
@@ -57,6 +57,14 @@
       "onboard_time": 1752401181,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1779008,
+      "num": 318145,
+      "word": "江浙沪 沪苏浙",
+      "onboard_time": 1752546441,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 1716694,
@@ -395,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 986773,
+      "num": 682832,
+      "word": "他甚至连求婚戒指都准备了四枚",
+      "onboard_time": 1752550582,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 971130,
       "num": 971130,
       "word": "侧睡的危害",
@@ -569,6 +585,14 @@
       "onboard_time": 1752327744,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 806417,
+      "num": 806417,
+      "word": "山姆越来越像沃尔玛了",
+      "onboard_time": 1752546681,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 795763,
@@ -899,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 590371,
+      "num": 590371,
+      "word": "旺仔牛奶出国后变火辣小孩了",
+      "onboard_time": 1752547461,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 586371,
       "num": 537853,
       "word": "鹿晗发了二十张自拍",
@@ -987,6 +1019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 540525,
+      "num": 540525,
+      "word": "骑手说过上1晚挣1千元的好日子了",
+      "onboard_time": 1752548181,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 538600,
       "num": 538600,
       "word": "合肥一家海底捞店员佩戴打赏码",
@@ -1017,6 +1057,14 @@
       "onboard_time": 1752383781,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 524142,
+      "num": 524142,
+      "word": "闵熙珍无罪",
+      "onboard_time": 1752549322,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 517587,
@@ -1244,7 +1292,7 @@
     },
     {
       "raw_hot": 451865,
-      "num": 291673,
+      "num": 310050,
       "word": "梓渝 求佛",
       "onboard_time": 1752545421,
       "rank": 43,
@@ -1755,6 +1803,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 310574,
+      "num": 310574,
+      "word": "2025上半年GDP同比增长5.3%",
+      "onboard_time": 1752546081,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 307903,
       "num": 307903,
       "word": "免费奶茶",
@@ -1769,6 +1825,14 @@
       "onboard_time": 1752423562,
       "rank": 13,
       "category": "作品衍生,综艺"
+    },
+    {
+      "raw_hot": 306677,
+      "num": 306677,
+      "word": "临沂通报餐馆发菜品视频被拟罚45万",
+      "onboard_time": 1752550341,
+      "rank": 15,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 305219,
@@ -1891,6 +1955,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 292415,
+      "num": 292415,
+      "word": "上半年全国居民人均可支配收入21840元",
+      "onboard_time": 1752547041,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 291601,
+      "num": 293139,
+      "word": "樱桃琥珀直播",
+      "onboard_time": 1752549142,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 291562,
       "num": 291562,
       "word": "奶茶店称外卖大战1天利润仅400",
@@ -1929,6 +2009,14 @@
       "onboard_time": 1752497723,
       "rank": 46,
       "category": "艺人,教育"
+    },
+    {
+      "raw_hot": 286134,
+      "num": 286134,
+      "word": "王楚钦 Oakley",
+      "onboard_time": 1752546620,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 285732,
@@ -2395,6 +2483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 230976,
+      "num": 230976,
+      "word": "战至巅峰4三大常驻战队官宣",
+      "onboard_time": 1752546980,
+      "rank": 16,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 230449,
       "num": 230449,
       "word": "王楚钦4比0张本智和",
@@ -2521,14 +2617,6 @@
       "onboard_time": 1752488542,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 215875,
-      "num": 215875,
-      "word": "战至巅峰4三大常驻战队官宣",
-      "onboard_time": 1752546980,
-      "rank": 16,
-      "category": "综艺,电竞"
     },
     {
       "raw_hot": 215753,
@@ -2819,14 +2907,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 203264,
-      "num": 293430,
-      "word": "2025上半年GDP同比增长5.3%",
-      "onboard_time": 1752546081,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 203184,
       "num": 119942,
       "word": "外卖大战有人0元喝了8杯奶茶",
@@ -2915,6 +2995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199480,
+      "num": 199480,
+      "word": "大同再回应环卫工翻垃圾找手表宠客",
+      "onboard_time": 1752548481,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199221,
       "num": 223039,
       "word": "aespa确定九月回归",
@@ -2939,20 +3027,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 198426,
-      "num": 198426,
-      "word": "江浙沪 沪苏浙",
-      "onboard_time": 1752546441,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 198208,
-      "num": 198208,
-      "word": "王楚钦 Oakley",
-      "onboard_time": 1752546620,
-      "rank": 28,
-      "category": "体育"
+      "raw_hot": 197893,
+      "num": 197893,
+      "word": "爱奇艺直播官宣",
+      "onboard_time": 1752548301,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 197629,
@@ -3131,6 +3211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 189243,
+      "num": 318989,
+      "word": "整治借谷子周边等名义欺凌未成年",
+      "onboard_time": 1752546259,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189115,
       "num": 189115,
       "word": "口头告知后2000万投资项目遭强拆",
@@ -3297,6 +3385,14 @@
       "onboard_time": 1752410783,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183972,
+      "num": 183972,
+      "word": "A股",
+      "onboard_time": 1752549682,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 182884,
@@ -3523,12 +3619,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173606,
+      "num": 173606,
+      "word": "山姆",
+      "onboard_time": 1752551842,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 173329,
       "num": 173329,
       "word": "印度女大学生疑遭性骚扰举报未果自焚",
       "onboard_time": 1752422663,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 172773,
+      "num": 172773,
+      "word": "一只患有侏儒症的可爱小猫咪",
+      "onboard_time": 1752548663,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 172633,
@@ -3931,6 +4043,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 160686,
+      "num": 160686,
+      "word": "男子和病妻西班牙自驾整辆房车被偷",
+      "onboard_time": 1752549740,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160522,
       "num": 160522,
       "word": "苏新皓你把铲丝当备忘录啊",
@@ -3979,6 +4099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158860,
+      "num": 158860,
+      "word": "敖瑞鹏自己化的战损妆",
+      "onboard_time": 1752551723,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158577,
       "num": 158577,
       "word": "陈奕迅摔倒",
@@ -4009,6 +4137,14 @@
       "onboard_time": 1752481642,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 157840,
+      "num": 157840,
+      "word": "H20",
+      "onboard_time": 1752549501,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 157133,
@@ -4587,12 +4723,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 140730,
+      "num": 140730,
+      "word": "秦彻预言",
+      "onboard_time": 1752551601,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 140708,
       "num": 140708,
       "word": "闫妮蒋欣因为罗小黑消失团建",
       "onboard_time": 1752414444,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140645,
+      "num": 140645,
+      "word": "TMA阵容",
+      "onboard_time": 1752548663,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 140590,
@@ -4651,6 +4803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140163,
+      "num": 140163,
+      "word": "蛤蟆汤被罚45万事件5人停职",
+      "onboard_time": 1752552025,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140140,
       "num": 263497,
       "word": "高温天为什么越来越多",
@@ -4699,6 +4859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139527,
+      "num": 139527,
+      "word": "于正再谈孙菲菲事件",
+      "onboard_time": 1752551241,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139505,
       "num": 139505,
       "word": "你莎真的困咯",
@@ -4713,6 +4881,14 @@
       "onboard_time": 1752487582,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139310,
+      "num": 139310,
+      "word": "苏新皓加速王",
+      "onboard_time": 1752549861,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 139294,
@@ -4745,6 +4921,14 @@
       "onboard_time": 1752408142,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 138574,
+      "num": 138574,
+      "word": "下半年价格将低位温和回升",
+      "onboard_time": 1752551662,
+      "rank": 42,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 138490,
@@ -4843,14 +5027,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 135562,
-      "num": 135562,
-      "word": "整治借谷子周边等名义欺凌未成年",
-      "onboard_time": 1752546259,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 135424,
       "num": 135424,
       "word": "何惟芳肝肠寸断具象化",
@@ -4889,6 +5065,22 @@
       "onboard_time": 1752385823,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134966,
+      "num": 134966,
+      "word": "他甚至连戒指都准备了四枚",
+      "onboard_time": 1752552083,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 134845,
+      "num": 134845,
+      "word": "10万块装修300平房子的效果",
+      "onboard_time": 1752550762,
+      "rank": 46,
+      "category": "休闲"
     },
     {
       "raw_hot": 134054,
@@ -4953,6 +5145,14 @@
       "onboard_time": 1752391762,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132704,
+      "num": 138903,
+      "word": "英伟达将恢复H20在中国的销售",
+      "onboard_time": 1752549322,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 132649,
@@ -5283,6 +5483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124148,
+      "num": 124148,
+      "word": "石破茂被发现手背写满小抄",
+      "onboard_time": 1752549801,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 124115,
       "num": 124115,
       "word": "621分女孩和支教老师13年的师生情",
@@ -5435,6 +5643,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 121166,
+      "num": 121166,
+      "word": "终于知道请假理由怎么写了",
+      "onboard_time": 1752550701,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 121109,
       "num": 121109,
       "word": "蔚来大涨10%",
@@ -5497,6 +5713,14 @@
       "onboard_time": 1752496882,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120114,
+      "num": 120114,
+      "word": "侯明昊艾米开机应援",
+      "onboard_time": 1752550101,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 120084,
@@ -5881,6 +6105,14 @@
       "onboard_time": 1752418167,
       "rank": 41,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 113015,
+      "num": 683529,
+      "word": "深入整治网上危害未成年人身心健康乱象",
+      "onboard_time": 1752549682,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112918,
@@ -6343,6 +6575,14 @@
       "num": 208763,
       "word": "敖瑞鹏怎么这么会演心动",
       "onboard_time": 1752394821,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 100384,
+      "num": 292687,
+      "word": "挖的不是枯骨是苦主",
+      "onboard_time": 1752550582,
       "rank": 18,
       "category": "剧集"
     },
@@ -6971,6 +7211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73355,
+      "num": 135871,
+      "word": "空调省电模式",
+      "onboard_time": 1752550461,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 73263,
       "num": 75507,
       "word": "鹭卓种地吧3收官plog",
@@ -7131,6 +7379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 54587,
+      "num": 139313,
+      "word": "这会员谁不想当啊",
+      "onboard_time": 1752552083,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 54425,
       "num": 54425,
       "word": "撕拉片",
@@ -7251,14 +7507,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 46536,
-      "num": 204865,
-      "word": "山姆越来越像沃尔玛了",
-      "onboard_time": 1752546681,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 45973,
       "num": 112382,
       "word": "高考生疑被骗缅甸家属称救人要20万",
@@ -7305,6 +7553,14 @@
       "onboard_time": 1752341421,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 42957,
+      "num": 135333,
+      "word": "柠檬涨价蜜雪冰城柠檬水会涨价吗",
+      "onboard_time": 1752550883,
+      "rank": 44,
+      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 42265,
@@ -7409,6 +7665,14 @@
       "onboard_time": 1752356234,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 33736,
+      "num": 139321,
+      "word": "蒋敦豪晒照庆出道九周年",
+      "onboard_time": 1752551361,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 33641,
