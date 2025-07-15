@@ -1,6 +1,6 @@
 {
   "startTime": 1752597340557,
-  "endTime": 1752618477176,
+  "endTime": 1752619564122,
   "band_list": [
     {
       "raw_hot": 1169013,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 545962,
-      "num": 545962,
+      "num": 553471,
       "word": "雪糕刺客真的凉凉了",
       "onboard_time": 1752597379,
       "rank": 26,
@@ -203,20 +203,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132180,
+      "num": 133674,
+      "word": "人民日报评餐馆发视频拟被罚45万事件",
+      "onboard_time": 1752599898,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131916,
       "num": 179444,
       "word": "张云龙背后好大一夹子",
       "onboard_time": 1752590484,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 125684,
-      "num": 133674,
-      "word": "人民日报评餐馆发视频拟被罚45万事件",
-      "onboard_time": 1752599898,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 118191,
@@ -259,12 +259,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104232,
+      "num": 104232,
+      "word": "坐后备箱男孩亲妈称被要求赔偿30万",
+      "onboard_time": 1752613094,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103582,
       "num": 103582,
       "word": "下周就要生发现月子中心没了",
       "onboard_time": 1752589703,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101895,
+      "num": 101895,
+      "word": "特朗普向克宫发出戏剧化最后通牒",
+      "onboard_time": 1752606134,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 101215,
@@ -296,6 +312,14 @@
       "word": "范丞丞直播",
       "onboard_time": 1752597678,
       "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 88357,
+      "num": 88357,
+      "word": "演员房子斌杨雨婷回应女儿高考成绩",
+      "onboard_time": 1752613153,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -339,14 +363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 74836,
-      "num": 74836,
-      "word": "坐后备箱男孩亲妈称被要求赔偿30万",
-      "onboard_time": 1752613094,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 72973,
       "num": 72973,
       "word": "70岁女子骗老汉70万宁愿坐牢不退钱",
@@ -363,14 +379,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 71813,
-      "num": 71813,
-      "word": "特朗普向克宫发出戏剧化最后通牒",
-      "onboard_time": 1752606134,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 70001,
       "num": 70001,
       "word": "内娱第一对这么强婚后感的cp",
@@ -385,6 +393,14 @@
       "onboard_time": 1752585503,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 69018,
+      "num": 69018,
+      "word": "黄仁勋回应大热天穿皮夹克",
+      "onboard_time": 1752613153,
+      "rank": 10,
+      "category": "国内时政"
     },
     {
       "raw_hot": 67519,
@@ -404,7 +420,7 @@
     },
     {
       "raw_hot": 65329,
-      "num": 65329,
+      "num": 70979,
       "word": "肖战藏海传集均播放量破5000万",
       "onboard_time": 1752599297,
       "rank": 28,
@@ -451,22 +467,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 52421,
-      "num": 52421,
-      "word": "黄仁勋回应大热天穿皮夹克",
-      "onboard_time": 1752613153,
-      "rank": 10,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 50168,
-      "num": 59554,
-      "word": "演员房子斌杨雨婷回应女儿高考成绩",
-      "onboard_time": 1752613153,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 42764,
       "num": 47164,
       "word": "梓渝内娱唯一线面塑",
@@ -491,11 +491,27 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 29623,
+      "num": 29623,
+      "word": "美国将通过北约向乌提供军事援助",
+      "onboard_time": 1752616034,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 29510,
       "num": 31704,
       "word": "火星哥感谢Rose",
       "onboard_time": 1752603556,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 29247,
+      "num": 29247,
+      "word": "关晓彤减肥秘诀是断糖少吃多运动",
+      "onboard_time": 1752610094,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -505,22 +521,6 @@
       "onboard_time": 1752590904,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26512,
-      "num": 26512,
-      "word": "关晓彤减肥秘诀是断糖少吃多运动",
-      "onboard_time": 1752610094,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 24246,
-      "num": 26490,
-      "word": "美国将通过北约向乌提供军事援助",
-      "onboard_time": 1752616034,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 22479,
