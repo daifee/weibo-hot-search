@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752536453460,
+  "endTime": 1752545546102,
   "band_list": [
     {
       "raw_hot": 14050966,
@@ -67,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1714863,
+      "num": 1714863,
+      "word": "山姆下架多款口碑商品上新好丽友",
+      "onboard_time": 1752541700,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1612333,
       "num": 1612333,
       "word": "高考604分女生被一所高职录取",
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 1505027,
-      "num": 214307,
+      "num": 320288,
       "word": "21岁女子因痛经去医院结果生了个娃",
       "onboard_time": 1752534258,
       "rank": 10,
@@ -1027,6 +1035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 514446,
+      "num": 514446,
+      "word": "关晓彤回复蒋欣",
+      "onboard_time": 1752535218,
+      "rank": 16,
+      "category": "剧集,艺人"
+    },
+    {
       "raw_hot": 508123,
       "num": 508123,
       "word": "王鹤棣 LV",
@@ -1139,6 +1155,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 475972,
+      "num": 312526,
+      "word": "租房看见这空调我扭头就走",
+      "onboard_time": 1752537140,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 465017,
+      "num": 465017,
+      "word": "女孩街拍走红家长已拒绝多家MCN",
+      "onboard_time": 1752540501,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 463783,
       "num": 373835,
       "word": "苏醒真实人品",
@@ -1225,6 +1257,14 @@
       "onboard_time": 1752500964,
       "rank": 30,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 438728,
+      "num": 438728,
+      "word": "山姆回应被质疑选品质量下滑",
+      "onboard_time": 1752541640,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 436089,
@@ -1315,6 +1355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 402726,
+      "num": 402726,
+      "word": "杭州地铁一男子爬进车厢吓跑乘客",
+      "onboard_time": 1752538400,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 399947,
       "num": 399947,
       "word": "高考604分女生放弃本科选择从军梦",
@@ -1369,14 +1417,6 @@
       "onboard_time": 1752368538,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 377132,
-      "num": 210487,
-      "word": "关晓彤回复蒋欣",
-      "onboard_time": 1752535218,
-      "rank": 16,
-      "category": "剧集,艺人"
     },
     {
       "raw_hot": 376105,
@@ -1489,6 +1529,14 @@
       "onboard_time": 1752406401,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 351448,
+      "num": 351448,
+      "word": "女子洗车9天方向盘长出3cm霉菌",
+      "onboard_time": 1752539123,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 349387,
@@ -1737,6 +1785,14 @@
       "onboard_time": 1752491543,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 301141,
+      "num": 301141,
+      "word": "天舟九号与空间站成功对接",
+      "onboard_time": 1752541881,
+      "rank": 12,
+      "category": "国内时政"
     },
     {
       "raw_hot": 301117,
@@ -2035,6 +2091,14 @@
       "category": "演出,民生新闻"
     },
     {
+      "raw_hot": 260002,
+      "num": 260002,
+      "word": "超市回应女子将婴儿放绿豆框里玩耍",
+      "onboard_time": 1752538640,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 259994,
       "num": 259994,
       "word": "夏以昼coser哭了",
@@ -2139,6 +2203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 248068,
+      "num": 248068,
+      "word": "Jennie舞台",
+      "onboard_time": 1752542421,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 248029,
       "num": 248029,
       "word": "GEN冠军",
@@ -2161,6 +2233,14 @@
       "onboard_time": 1752504623,
       "rank": 28,
       "category": "情感,综艺"
+    },
+    {
+      "raw_hot": 245168,
+      "num": 245168,
+      "word": "龚俊 花儿与少年",
+      "onboard_time": 1752539182,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 244815,
@@ -2377,6 +2457,14 @@
       "onboard_time": 1752368479,
       "rank": 23,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 218679,
+      "num": 218679,
+      "word": "林诗栋美国大满贯后发文",
+      "onboard_time": 1752544221,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 218670,
@@ -3283,6 +3371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176712,
+      "num": 176712,
+      "word": "赵丽颖代言纪梵希",
+      "onboard_time": 1752545121,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176622,
       "num": 176622,
       "word": "好了知道你在炫耀你有杨幂微信了",
@@ -3345,6 +3441,14 @@
       "onboard_time": 1752411804,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174153,
+      "num": 174153,
+      "word": "问界M8纯电版8月上市",
+      "onboard_time": 1752544999,
+      "rank": 21,
+      "category": "汽车"
     },
     {
       "raw_hot": 173732,
@@ -3433,6 +3537,14 @@
       "onboard_time": 1752384202,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 171285,
+      "num": 171285,
+      "word": "凡人修仙传",
+      "onboard_time": 1752535218,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 171213,
@@ -3971,6 +4083,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 153077,
+      "num": 329712,
+      "word": "太空快递寄了点啥",
+      "onboard_time": 1752540982,
+      "rank": 9,
+      "category": "国内时政,科学科普"
+    },
+    {
       "raw_hot": 152890,
       "num": 152890,
       "word": "全国机动车驾驶人数量5.5亿人",
@@ -4249,6 +4369,14 @@
       "onboard_time": 1752480500,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145057,
+      "num": 145057,
+      "word": "本月你的公积金账户多了1笔钱",
+      "onboard_time": 1752539482,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 144694,
@@ -4875,6 +5003,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 127443,
+      "num": 127443,
+      "word": "孙颖莎世排第一11250分",
+      "onboard_time": 1752542541,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127279,
       "num": 127279,
       "word": "RW荣都首鸡",
@@ -5163,6 +5299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 121225,
+      "num": 121225,
+      "word": "天舟九号发射",
+      "onboard_time": 1752537861,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 121109,
       "num": 121109,
       "word": "蔚来大涨10%",
@@ -5281,6 +5425,14 @@
       "onboard_time": 1752333742,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118811,
+      "num": 118811,
+      "word": "女性脱口秀",
+      "onboard_time": 1752540322,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 118656,
@@ -5459,6 +5611,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 115587,
+      "num": 115587,
+      "word": "这种胃癌偏爱年轻人",
+      "onboard_time": 1752509481,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 115563,
       "num": 115563,
       "word": "陈熠朱雨玲登场",
@@ -5481,6 +5641,14 @@
       "onboard_time": 1752420805,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 114787,
+      "num": 114787,
+      "word": "南开大学教师简介",
+      "onboard_time": 1752540501,
+      "rank": 33,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 114654,
@@ -5553,14 +5721,6 @@
       "onboard_time": 1752501204,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 113459,
-      "num": 142314,
-      "word": "凡人修仙传",
-      "onboard_time": 1752535218,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 113452,
@@ -5745,6 +5905,14 @@
       "onboard_time": 1752535580,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108602,
+      "num": 108602,
+      "word": "猫咪突然逃跑下一秒电视墙塌了",
+      "onboard_time": 1752544940,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108319,
@@ -6011,6 +6179,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101165,
+      "num": 101165,
+      "word": "其实大家真的没什么好焦虑的",
+      "onboard_time": 1752539061,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 100718,
+      "num": 100718,
+      "word": "春秋航空空姐可全程穿平底鞋执勤",
+      "onboard_time": 1752540442,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100522,
       "num": 100522,
       "word": "明日方舟 朝陇山",
@@ -6073,6 +6257,14 @@
       "onboard_time": 1752400221,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97991,
+      "num": 97991,
+      "word": "高层住户经期往楼下扔带血卫生巾",
+      "onboard_time": 1752545239,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97988,
@@ -6187,6 +6379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95827,
+      "num": 95827,
+      "word": "全员加速中任务从天而降",
+      "onboard_time": 1752543980,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95810,
       "num": 95810,
       "word": "VKG2025电竞世界杯CN首冠",
@@ -6225,6 +6425,22 @@
       "onboard_time": 1752387263,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94787,
+      "num": 94787,
+      "word": "时代少年团回应谢娜",
+      "onboard_time": 1752542421,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 94043,
+      "num": 94043,
+      "word": "我国送一颗迷你大脑上太空",
+      "onboard_time": 1752545061,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 93605,
@@ -6299,19 +6515,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 90230,
-      "num": 87567,
-      "word": "这种胃癌偏爱年轻人",
-      "onboard_time": 1752509481,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 89904,
       "num": 89904,
       "word": "王诗龄咖啡馆旧照",
       "onboard_time": 1752447619,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 89793,
+      "num": 89793,
+      "word": "梓渝 求佛",
+      "onboard_time": 1752545421,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -6387,6 +6603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 84717,
+      "num": 84717,
+      "word": "韩国明年最低时薪",
+      "onboard_time": 1752541881,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 84560,
       "num": 84560,
       "word": "救下11名韩国人的司机已下葬",
@@ -6425,6 +6649,30 @@
       "onboard_time": 1752406582,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83450,
+      "num": 83450,
+      "word": "特朗普所谓重大声明揭晓",
+      "onboard_time": 1752543261,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 83305,
+      "num": 83305,
+      "word": "官方辟谣丢儿童表女游客为法院干部",
+      "onboard_time": 1752538701,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83238,
+      "num": 83238,
+      "word": "洛杉矶奥运会官方赛程公布",
+      "onboard_time": 1752538581,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 82734,
@@ -6523,6 +6771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78638,
+      "num": 78638,
+      "word": "家长让幼儿坐超市绿豆中玩耍",
+      "onboard_time": 1752536660,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77831,
       "num": 286163,
       "word": "央视调查学步鞋营销乱象",
@@ -6561,6 +6817,14 @@
       "onboard_time": 1752360915,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 76053,
+      "num": 76053,
+      "word": "房主任播客",
+      "onboard_time": 1752542901,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 75838,
@@ -7121,6 +7385,14 @@
       "onboard_time": 1752345975,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 24786,
+      "num": 552744,
+      "word": "护网2025严守视频会议安全门",
+      "onboard_time": 1752540562,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24706,

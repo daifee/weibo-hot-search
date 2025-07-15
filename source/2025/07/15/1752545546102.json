@@ -1,0 +1,410 @@
+{
+  "runTime": 1752545546102,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1714863,
+        "num": 1714863,
+        "word": "山姆下架多款口碑商品上新好丽友",
+        "onboard_time": 1752541700,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 627404,
+        "num": 627404,
+        "word": "上海多人暴雨中排队喝零下80度咖啡",
+        "onboard_time": 1752522554,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24786,
+        "num": 552744,
+        "word": "护网2025严守视频会议安全门",
+        "onboard_time": 1752540562,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 514446,
+        "num": 514446,
+        "word": "关晓彤回复蒋欣",
+        "onboard_time": 1752535218,
+        "rank": 3,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 465017,
+        "num": 465017,
+        "word": "女孩街拍走红家长已拒绝多家MCN",
+        "onboard_time": 1752540501,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 438728,
+        "num": 438728,
+        "word": "山姆回应被质疑选品质量下滑",
+        "onboard_time": 1752541640,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 402726,
+        "num": 402726,
+        "word": "杭州地铁一男子爬进车厢吓跑乘客",
+        "onboard_time": 1752538400,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351448,
+        "num": 351448,
+        "word": "女子洗车9天方向盘长出3cm霉菌",
+        "onboard_time": 1752539123,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 494131,
+        "num": 351105,
+        "word": "关晓彤李昀锐海边吻",
+        "onboard_time": 1752497122,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153077,
+        "num": 329712,
+        "word": "太空快递寄了点啥",
+        "onboard_time": 1752540982,
+        "rank": 9,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 1122464,
+        "num": 320288,
+        "word": "21岁女子因痛经去医院结果生了个娃",
+        "onboard_time": 1752534258,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 475972,
+        "num": 312526,
+        "word": "租房看见这空调我扭头就走",
+        "onboard_time": 1752537140,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 301141,
+        "num": 301141,
+        "word": "天舟九号与空间站成功对接",
+        "onboard_time": 1752541881,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 260002,
+        "num": 260002,
+        "word": "超市回应女子将婴儿放绿豆框里玩耍",
+        "onboard_time": 1752538640,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248068,
+        "num": 248068,
+        "word": "Jennie舞台",
+        "onboard_time": 1752542421,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 245168,
+        "num": 245168,
+        "word": "龚俊 花儿与少年",
+        "onboard_time": 1752539182,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223508,
+        "num": 223508,
+        "word": "小海绵被妈妈养的很好",
+        "onboard_time": 1752504324,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218679,
+        "num": 218679,
+        "word": "林诗栋美国大满贯后发文",
+        "onboard_time": 1752544221,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197448,
+        "num": 197448,
+        "word": "美战机被曝撞上UFO",
+        "onboard_time": 1752505164,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 179868,
+        "num": 179868,
+        "word": "女孩因撞脸张柏芝全网走红",
+        "onboard_time": 1752506242,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176712,
+        "num": 176712,
+        "word": "赵丽颖代言纪梵希",
+        "onboard_time": 1752545121,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174153,
+        "num": 174153,
+        "word": "问界M8纯电版8月上市",
+        "onboard_time": 1752544999,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 171285,
+        "num": 171285,
+        "word": "凡人修仙传",
+        "onboard_time": 1752535218,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164214,
+        "num": 164214,
+        "word": "国防部回应菲律宾要求中国弃核",
+        "onboard_time": 1752508042,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 145057,
+        "num": 145057,
+        "word": "本月你的公积金账户多了1笔钱",
+        "onboard_time": 1752539482,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 142156,
+        "num": 142156,
+        "word": "特朗普称对俄罗斯征收100%关税",
+        "onboard_time": 1752507143,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 128554,
+        "num": 128554,
+        "word": "印度男子婚宴上多要一块鸡肉被刺死",
+        "onboard_time": 1752505344,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 127443,
+        "num": 127443,
+        "word": "孙颖莎世排第一11250分",
+        "onboard_time": 1752542541,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116136,
+        "num": 122407,
+        "word": "王鹤棣 LV",
+        "onboard_time": 1752499163,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 97154,
+        "num": 121366,
+        "word": "张凌赫赵今麦回应三搭",
+        "onboard_time": 1752510200,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121225,
+        "num": 121225,
+        "word": "天舟九号发射",
+        "onboard_time": 1752537861,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 118811,
+        "num": 118811,
+        "word": "女性脱口秀",
+        "onboard_time": 1752540322,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115587,
+        "num": 115587,
+        "word": "这种胃癌偏爱年轻人",
+        "onboard_time": 1752509481,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 114787,
+        "num": 114787,
+        "word": "南开大学教师简介",
+        "onboard_time": 1752540501,
+        "rank": 33,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 108602,
+        "num": 108602,
+        "word": "猫咪突然逃跑下一秒电视墙塌了",
+        "onboard_time": 1752544940,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101165,
+        "num": 101165,
+        "word": "其实大家真的没什么好焦虑的",
+        "onboard_time": 1752539061,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100718,
+        "num": 100718,
+        "word": "春秋航空空姐可全程穿平底鞋执勤",
+        "onboard_time": 1752540442,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100638,
+        "num": 100638,
+        "word": "会员称山姆与超市相比越来越同质化",
+        "onboard_time": 1752504142,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98857,
+        "num": 98857,
+        "word": "连体人姐姐要结婚妹妹要单身",
+        "onboard_time": 1752492382,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 97991,
+        "num": 97991,
+        "word": "高层住户经期往楼下扔带血卫生巾",
+        "onboard_time": 1752545239,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95827,
+        "num": 95827,
+        "word": "全员加速中任务从天而降",
+        "onboard_time": 1752543980,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94787,
+        "num": 94787,
+        "word": "时代少年团回应谢娜",
+        "onboard_time": 1752542421,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94043,
+        "num": 94043,
+        "word": "我国送一颗迷你大脑上太空",
+        "onboard_time": 1752545061,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 89793,
+        "num": 89793,
+        "word": "梓渝 求佛",
+        "onboard_time": 1752545421,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84717,
+        "num": 84717,
+        "word": "韩国明年最低时薪",
+        "onboard_time": 1752541881,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 83450,
+        "num": 83450,
+        "word": "特朗普所谓重大声明揭晓",
+        "onboard_time": 1752543261,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 83305,
+        "num": 83305,
+        "word": "官方辟谣丢儿童表女游客为法院干部",
+        "onboard_time": 1752538701,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83238,
+        "num": 83238,
+        "word": "洛杉矶奥运会官方赛程公布",
+        "onboard_time": 1752538581,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78638,
+        "num": 78638,
+        "word": "家长让幼儿坐超市绿豆中玩耍",
+        "onboard_time": 1752536660,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76053,
+        "num": 76053,
+        "word": "房主任播客",
+        "onboard_time": 1752542901,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#城市要有高度更要有温度#"
+    }
+  }
+}
