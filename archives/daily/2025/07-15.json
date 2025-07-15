@@ -1,10 +1,18 @@
 {
   "startTime": 1752510927124,
-  "endTime": 1752552233192,
+  "endTime": 1752552810258,
   "band_list": [
     {
+      "raw_hot": 1824509,
+      "num": 773744,
+      "word": "他甚至连求婚戒指都准备了四枚",
+      "onboard_time": 1752550582,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1779008,
-      "num": 318145,
+      "num": 353152,
       "word": "江浙沪 沪苏浙",
       "onboard_time": 1752546441,
       "rank": 27,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 1505027,
-      "num": 320288,
+      "num": 353086,
       "word": "21岁女子因痛经去医院结果生了个娃",
       "onboard_time": 1752534258,
       "rank": 10,
@@ -43,12 +51,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 986773,
-      "num": 682832,
-      "word": "他甚至连求婚戒指都准备了四枚",
-      "onboard_time": 1752550582,
-      "rank": 3,
-      "category": "情感"
+      "raw_hot": 927328,
+      "num": 927328,
+      "word": "山姆越来越像沃尔玛了",
+      "onboard_time": 1752546681,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 873195,
@@ -59,20 +67,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 806417,
-      "num": 806417,
-      "word": "山姆越来越像沃尔玛了",
-      "onboard_time": 1752546681,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 690743,
       "num": 690743,
       "word": "美战机被曝撞上UFO",
       "onboard_time": 1752505164,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 661954,
+      "num": 661954,
+      "word": "旺仔牛奶出国后变火辣小孩了",
+      "onboard_time": 1752547461,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 642317,
@@ -83,12 +91,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 590371,
-      "num": 590371,
-      "word": "旺仔牛奶出国后变火辣小孩了",
-      "onboard_time": 1752547461,
-      "rank": 5,
-      "category": "幽默"
+      "raw_hot": 605637,
+      "num": 605637,
+      "word": "闵熙珍无罪",
+      "onboard_time": 1752549322,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 594612,
+      "num": 594612,
+      "word": "骑手说过上1晚挣1千元的好日子了",
+      "onboard_time": 1752548181,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 569763,
@@ -97,22 +113,6 @@
       "onboard_time": 1752492382,
       "rank": 3,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 540525,
-      "num": 540525,
-      "word": "骑手说过上1晚挣1千元的好日子了",
-      "onboard_time": 1752548181,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 524142,
-      "num": 524142,
-      "word": "闵熙珍无罪",
-      "onboard_time": 1752549322,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 514446,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 451865,
-      "num": 310050,
+      "num": 343418,
       "word": "梓渝 求佛",
       "onboard_time": 1752545421,
       "rank": 43,
@@ -155,11 +155,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 425707,
+      "num": 425707,
+      "word": "于正联络上七七了",
+      "onboard_time": 1752552562,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 402726,
       "num": 402726,
       "word": "杭州地铁一男子爬进车厢吓跑乘客",
       "onboard_time": 1752538400,
       "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 356474,
+      "num": 356474,
+      "word": "2025上半年GDP同比增长5.3%",
+      "onboard_time": 1752546081,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -203,16 +219,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 310574,
-      "num": 310574,
-      "word": "2025上半年GDP同比增长5.3%",
-      "onboard_time": 1752546081,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 306677,
-      "num": 306677,
+      "raw_hot": 316657,
+      "num": 316657,
       "word": "临沂通报餐馆发菜品视频被拟罚45万",
       "onboard_time": 1752550341,
       "rank": 15,
@@ -339,12 +347,28 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 229702,
+      "num": 276030,
+      "word": "蛤蟆汤被罚45万事件5人停职",
+      "onboard_time": 1752552025,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 218670,
       "num": 244459,
       "word": "印度男子婚宴上多要一块鸡肉被刺死",
       "onboard_time": 1752505344,
       "rank": 13,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 218630,
+      "num": 218630,
+      "word": "爱奇艺直播官宣",
+      "onboard_time": 1752548301,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 213636,
@@ -379,7 +403,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 199480,
+      "raw_hot": 202975,
       "num": 199480,
       "word": "大同再回应环卫工翻垃圾找手表宠客",
       "onboard_time": 1752548481,
@@ -387,20 +411,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 197893,
-      "num": 197893,
-      "word": "爱奇艺直播官宣",
-      "onboard_time": 1752548301,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 189243,
+      "raw_hot": 198430,
       "num": 318989,
       "word": "整治借谷子周边等名义欺凌未成年",
       "onboard_time": 1752546259,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195971,
+      "num": 195971,
+      "word": "山姆",
+      "onboard_time": 1752551842,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188643,
+      "num": 188643,
+      "word": "A股",
+      "onboard_time": 1752549682,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 187110,
@@ -419,12 +451,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 183972,
-      "num": 183972,
-      "word": "A股",
-      "onboard_time": 1752549682,
-      "rank": 25,
-      "category": "财经"
+      "raw_hot": 179647,
+      "num": 179647,
+      "word": "一只患有侏儒症的可爱小猫咪",
+      "onboard_time": 1752548663,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 177523,
@@ -443,28 +475,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176483,
+      "num": 176483,
+      "word": "男子和病妻西班牙自驾整辆房车被偷",
+      "onboard_time": 1752549740,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174153,
       "num": 201810,
       "word": "问界M8纯电版8月上市",
       "onboard_time": 1752544999,
       "rank": 21,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 173606,
-      "num": 173606,
-      "word": "山姆",
-      "onboard_time": 1752551842,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 172773,
-      "num": 172773,
-      "word": "一只患有侏儒症的可爱小猫咪",
-      "onboard_time": 1752548663,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 171285,
@@ -475,12 +499,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 160686,
-      "num": 160686,
-      "word": "男子和病妻西班牙自驾整辆房车被偷",
-      "onboard_time": 1752549740,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 165756,
+      "num": 165756,
+      "word": "H20",
+      "onboard_time": 1752549501,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 158860,
@@ -491,20 +515,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 157840,
-      "num": 157840,
-      "word": "H20",
-      "onboard_time": 1752549501,
-      "rank": 32,
-      "category": "数码"
-    },
-    {
       "raw_hot": 155905,
       "num": 155905,
       "word": "高层住户经期往楼下扔带血卫生巾",
       "onboard_time": 1752545239,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155009,
+      "num": 155009,
+      "word": "热热热我热热热",
+      "onboard_time": 1752552442,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154908,
+      "num": 154908,
+      "word": "秦彻预言",
+      "onboard_time": 1752551601,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 153077,
@@ -555,6 +587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142100,
+      "num": 142100,
+      "word": "10万块装修300平房子的效果",
+      "onboard_time": 1752550762,
+      "rank": 46,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 141143,
       "num": 141143,
       "word": "网友怀疑气象部门刻意不报40度",
@@ -563,12 +603,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 140730,
-      "num": 140730,
-      "word": "秦彻预言",
-      "onboard_time": 1752551601,
-      "rank": 34,
-      "category": "游戏"
+      "raw_hot": 141124,
+      "num": 141124,
+      "word": "金靖戴龚俊面具跳舞",
+      "onboard_time": 1752552623,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 140645,
@@ -579,12 +619,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 140163,
-      "num": 140163,
-      "word": "蛤蟆汤被罚45万事件5人停职",
-      "onboard_time": 1752552025,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 140543,
+      "num": 150676,
+      "word": "英伟达将恢复H20在中国的销售",
+      "onboard_time": 1752549322,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 139718,
@@ -593,6 +633,14 @@
       "onboard_time": 1752546980,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 139624,
+      "num": 139624,
+      "word": "大厂程序员被裁和兄弟联手制毒",
+      "onboard_time": 1752552562,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139527,
@@ -619,6 +667,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 138368,
+      "num": 138368,
+      "word": "他甚至连戒指都准备了四枚",
+      "onboard_time": 1752552083,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 137823,
       "num": 137895,
       "word": "朝雪录第一案凶手道歉",
@@ -643,22 +699,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 134966,
-      "num": 134966,
-      "word": "他甚至连戒指都准备了四枚",
-      "onboard_time": 1752552083,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 134845,
-      "num": 134845,
-      "word": "10万块装修300平房子的效果",
-      "onboard_time": 1752550762,
-      "rank": 46,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 132989,
       "num": 132989,
       "word": "外卖大战有人65元搞定一周伙食",
@@ -667,20 +707,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 132704,
-      "num": 138903,
-      "word": "英伟达将恢复H20在中国的销售",
-      "onboard_time": 1752549322,
-      "rank": 41,
-      "category": "数码"
-    },
-    {
       "raw_hot": 130285,
       "num": 130285,
       "word": "AHC",
       "onboard_time": 1752546681,
       "rank": 42,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 130143,
+      "num": 130143,
+      "word": "终于知道请假理由怎么写了",
+      "onboard_time": 1752550701,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 129246,
+      "num": 129246,
+      "word": "宋佳晒了跟好多人的合照",
+      "onboard_time": 1752546741,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 129149,
@@ -699,8 +747,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 124148,
-      "num": 124148,
+      "raw_hot": 126484,
+      "num": 126484,
       "word": "石破茂被发现手背写满小抄",
       "onboard_time": 1752549801,
       "rank": 47,
@@ -721,14 +769,6 @@
       "onboard_time": 1752537861,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 121166,
-      "num": 121166,
-      "word": "终于知道请假理由怎么写了",
-      "onboard_time": 1752550701,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 120114,
@@ -779,14 +819,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 115738,
-      "num": 115738,
-      "word": "宋佳晒了跟好多人的合照",
-      "onboard_time": 1752546741,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 115689,
       "num": 115689,
       "word": "蒋欣吃关晓彤同款彩椒碗",
@@ -803,8 +835,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 113015,
-      "num": 683529,
+      "raw_hot": 113290,
+      "num": 783670,
       "word": "深入整治网上危害未成年人身心健康乱象",
       "onboard_time": 1752549682,
       "rank": 2,
@@ -817,6 +849,14 @@
       "onboard_time": 1752543261,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 109038,
+      "num": 292025,
+      "word": "和李昀锐舒舒服服度个小假",
+      "onboard_time": 1752552262,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 108646,
@@ -971,6 +1011,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 83632,
+      "num": 278608,
+      "word": "赵丽颖先锋感妆容气场全开",
+      "onboard_time": 1752552262,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 83305,
       "num": 83305,
       "word": "官方辟谣丢儿童表女游客为法院干部",
@@ -1051,8 +1099,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 73355,
-      "num": 135871,
+      "raw_hot": 74186,
+      "num": 138892,
       "word": "空调省电模式",
       "onboard_time": 1752550461,
       "rank": 43,
@@ -1091,6 +1139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69671,
+      "num": 149238,
+      "word": "这会员谁不想当啊",
+      "onboard_time": 1752552083,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 68529,
       "num": 68529,
       "word": "张永博 咱们来日方长",
@@ -1121,14 +1177,6 @@
       "onboard_time": 1752499583,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 54587,
-      "num": 139313,
-      "word": "这会员谁不想当啊",
-      "onboard_time": 1752552083,
-      "rank": 39,
-      "category": "互联网"
     },
     {
       "raw_hot": 52591,
@@ -1187,8 +1235,8 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 33736,
-      "num": 139321,
+      "raw_hot": 35227,
+      "num": 276078,
       "word": "蒋敦豪晒照庆出道九周年",
       "onboard_time": 1752551361,
       "rank": 38,

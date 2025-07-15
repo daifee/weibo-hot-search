@@ -1,0 +1,410 @@
+{
+  "runTime": 1752552810258,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1076411,
+        "num": 1172225,
+        "word": "山姆下架多款口碑商品上新好丽友",
+        "onboard_time": 1752541700,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 927328,
+        "num": 927328,
+        "word": "山姆越来越像沃尔玛了",
+        "onboard_time": 1752546681,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113290,
+        "num": 783670,
+        "word": "深入整治网上危害未成年人身心健康乱象",
+        "onboard_time": 1752549682,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1824509,
+        "num": 773744,
+        "word": "他甚至连求婚戒指都准备了四枚",
+        "onboard_time": 1752550582,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 661954,
+        "num": 661954,
+        "word": "旺仔牛奶出国后变火辣小孩了",
+        "onboard_time": 1752547461,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 605637,
+        "num": 605637,
+        "word": "闵熙珍无罪",
+        "onboard_time": 1752549322,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 594612,
+        "num": 594612,
+        "word": "骑手说过上1晚挣1千元的好日子了",
+        "onboard_time": 1752548181,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 590906,
+        "num": 590906,
+        "word": "赵丽颖代言纪梵希",
+        "onboard_time": 1752545121,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 425707,
+        "num": 425707,
+        "word": "于正联络上七七了",
+        "onboard_time": 1752552562,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356474,
+        "num": 356474,
+        "word": "2025上半年GDP同比增长5.3%",
+        "onboard_time": 1752546081,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1723840,
+        "num": 353152,
+        "word": "江浙沪 沪苏浙",
+        "onboard_time": 1752546441,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 801291,
+        "num": 353086,
+        "word": "21岁女子因痛经去医院结果生了个娃",
+        "onboard_time": 1752534258,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 343418,
+        "num": 343418,
+        "word": "梓渝 求佛",
+        "onboard_time": 1752545421,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340637,
+        "num": 340637,
+        "word": "上海多人暴雨中排队喝零下80度咖啡",
+        "onboard_time": 1752522554,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316657,
+        "num": 316657,
+        "word": "临沂通报餐馆发菜品视频被拟罚45万",
+        "onboard_time": 1752550341,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 109038,
+        "num": 292025,
+        "word": "和李昀锐舒舒服服度个小假",
+        "onboard_time": 1752552262,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281961,
+        "num": 281961,
+        "word": "关晓彤回复蒋欣",
+        "onboard_time": 1752535218,
+        "rank": 16,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 83632,
+        "num": 278608,
+        "word": "赵丽颖先锋感妆容气场全开",
+        "onboard_time": 1752552262,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35227,
+        "num": 276078,
+        "word": "蒋敦豪晒照庆出道九周年",
+        "onboard_time": 1752551361,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229702,
+        "num": 276030,
+        "word": "蛤蟆汤被罚45万事件5人停职",
+        "onboard_time": 1752552025,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275995,
+        "num": 275995,
+        "word": "樱桃琥珀直播",
+        "onboard_time": 1752549142,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289369,
+        "num": 274769,
+        "word": "关晓彤李昀锐海边吻",
+        "onboard_time": 1752497122,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272616,
+        "num": 272616,
+        "word": "上半年全国居民人均可支配收入21840元",
+        "onboard_time": 1752547041,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240222,
+        "num": 240222,
+        "word": "王楚钦 Oakley",
+        "onboard_time": 1752546620,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218630,
+        "num": 218630,
+        "word": "爱奇艺直播官宣",
+        "onboard_time": 1752548301,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213357,
+        "num": 213357,
+        "word": "租房看见这空调我扭头就走",
+        "onboard_time": 1752537140,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211343,
+        "num": 211343,
+        "word": "战至巅峰4三大常驻战队官宣",
+        "onboard_time": 1752546980,
+        "rank": 26,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 198430,
+        "num": 198430,
+        "word": "整治借谷子周边等名义欺凌未成年",
+        "onboard_time": 1752546259,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202975,
+        "num": 197219,
+        "word": "大同再回应环卫工翻垃圾找手表宠客",
+        "onboard_time": 1752548481,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195971,
+        "num": 195971,
+        "word": "山姆",
+        "onboard_time": 1752551842,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188643,
+        "num": 188643,
+        "word": "A股",
+        "onboard_time": 1752549682,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 179647,
+        "num": 179647,
+        "word": "一只患有侏儒症的可爱小猫咪",
+        "onboard_time": 1752548663,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176483,
+        "num": 176483,
+        "word": "男子和病妻西班牙自驾整辆房车被偷",
+        "onboard_time": 1752549740,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165756,
+        "num": 165756,
+        "word": "H20",
+        "onboard_time": 1752549501,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 160112,
+        "num": 160112,
+        "word": "山姆回应被质疑选品质量下滑",
+        "onboard_time": 1752541640,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156944,
+        "num": 156944,
+        "word": "敖瑞鹏自己化的战损妆",
+        "onboard_time": 1752551723,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155009,
+        "num": 155009,
+        "word": "热热热我热热热",
+        "onboard_time": 1752552442,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154908,
+        "num": 154908,
+        "word": "秦彻预言",
+        "onboard_time": 1752551601,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140543,
+        "num": 150676,
+        "word": "英伟达将恢复H20在中国的销售",
+        "onboard_time": 1752549322,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 69671,
+        "num": 149238,
+        "word": "这会员谁不想当啊",
+        "onboard_time": 1752552083,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 148021,
+        "num": 148021,
+        "word": "雀骨",
+        "onboard_time": 1752545840,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142100,
+        "num": 142100,
+        "word": "10万块装修300平房子的效果",
+        "onboard_time": 1752550762,
+        "rank": 41,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 141124,
+        "num": 141124,
+        "word": "金靖戴龚俊面具跳舞",
+        "onboard_time": 1752552623,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139624,
+        "num": 139624,
+        "word": "大厂程序员被裁和兄弟联手制毒",
+        "onboard_time": 1752552562,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74186,
+        "num": 138892,
+        "word": "空调省电模式",
+        "onboard_time": 1752550461,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 138368,
+        "num": 138368,
+        "word": "他甚至连戒指都准备了四枚",
+        "onboard_time": 1752552083,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130143,
+        "num": 130143,
+        "word": "终于知道请假理由怎么写了",
+        "onboard_time": 1752550701,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129246,
+        "num": 129246,
+        "word": "宋佳晒了跟好多人的合照",
+        "onboard_time": 1752546741,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129039,
+        "num": 129039,
+        "word": "TMA阵容",
+        "onboard_time": 1752548663,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 126484,
+        "num": 126484,
+        "word": "石破茂被发现手背写满小抄",
+        "onboard_time": 1752549801,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#城市要有高度更要有温度#"
+    }
+  }
+}
