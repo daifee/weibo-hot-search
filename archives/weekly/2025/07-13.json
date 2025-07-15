@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752569520522,
+  "endTime": 1752572140835,
   "band_list": [
     {
       "raw_hot": 14050966,
@@ -227,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1262314,
+      "num": 1262314,
+      "word": "赵立坚发了迪丽热巴",
+      "onboard_time": 1752571463,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1254726,
       "num": 353707,
       "word": "小海绵干嘛呢",
@@ -444,7 +452,7 @@
     },
     {
       "raw_hot": 1002528,
-      "num": 339000,
+      "num": 367571,
       "word": "25岁女生痛经十几年决定停经",
       "onboard_time": 1752560242,
       "rank": 16,
@@ -569,6 +577,14 @@
       "onboard_time": 1752381381,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 908611,
+      "num": 485052,
+      "word": "向佐被曝欠赌债未还",
+      "onboard_time": 1752571703,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 906933,
@@ -1531,6 +1547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 429449,
+      "num": 429449,
+      "word": "罗马仕最新声明",
+      "onboard_time": 1752568342,
+      "rank": 21,
+      "category": "民生新闻,数码"
+    },
+    {
       "raw_hot": 426703,
       "num": 426703,
       "word": "孙颖莎王曼昱vs王艺迪蒯曼",
@@ -1561,6 +1585,14 @@
       "onboard_time": 1752380901,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 414504,
+      "num": 414504,
+      "word": "网友曝山姆将品牌盼盼改为PANPAN",
+      "onboard_time": 1752568943,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 414176,
@@ -2163,14 +2195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 292713,
-      "num": 292713,
-      "word": "罗马仕最新声明",
-      "onboard_time": 1752568342,
-      "rank": 21,
-      "category": "民生新闻,数码"
-    },
-    {
       "raw_hot": 292415,
       "num": 292415,
       "word": "上半年全国居民人均可支配收入21840元",
@@ -2233,6 +2257,14 @@
       "onboard_time": 1752546620,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 285930,
+      "num": 285930,
+      "word": "赵今麦造型师审美",
+      "onboard_time": 1752568823,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 285732,
@@ -2337,6 +2369,14 @@
       "onboard_time": 1752465023,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 275075,
+      "num": 367880,
+      "word": "中国记协回应记者采访时设备被砸碎",
+      "onboard_time": 1752569963,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 274961,
@@ -2491,6 +2531,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 255673,
+      "num": 255673,
+      "word": "关晓彤说今天不是绿化带",
+      "onboard_time": 1752571041,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 255150,
       "num": 255150,
       "word": "商家收差评辱骂顾客舔得比狗干净",
@@ -2601,6 +2649,14 @@
       "onboard_time": 1752504623,
       "rank": 28,
       "category": "情感,综艺"
+    },
+    {
+      "raw_hot": 245400,
+      "num": 245400,
+      "word": "小儿子吐槽白百何挡自己镜头",
+      "onboard_time": 1752567502,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 245168,
@@ -2851,14 +2907,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 219024,
-      "num": 219024,
-      "word": "赵今麦造型师审美",
-      "onboard_time": 1752568823,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 218670,
       "num": 244459,
       "word": "印度男子婚宴上多要一块鸡肉被刺死",
@@ -2897,6 +2945,14 @@
       "onboard_time": 1752488542,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215764,
+      "num": 191678,
+      "word": "夏天开车真的不要没苦硬吃",
+      "onboard_time": 1752570083,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 215753,
@@ -3723,6 +3779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184901,
+      "num": 184901,
+      "word": "利剑玫瑰",
+      "onboard_time": 1752570923,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184779,
       "num": 184779,
       "word": "嘻哈辞职",
@@ -4163,6 +4227,14 @@
       "category": "体育,综艺"
     },
     {
+      "raw_hot": 170290,
+      "num": 170290,
+      "word": "Angelababy带小海绵回香港",
+      "onboard_time": 1752571224,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170181,
       "num": 170181,
       "word": "重庆渝中区文旅委致歉",
@@ -4419,6 +4491,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 164004,
+      "num": 164004,
+      "word": "赵今麦张凌赫家属感好强",
+      "onboard_time": 1752569484,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163587,
       "num": 163587,
       "word": "崂山道士隐喻越品越有",
@@ -4649,6 +4729,14 @@
       "onboard_time": 1752545239,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155511,
+      "num": 155511,
+      "word": "国足1比0中国香港",
+      "onboard_time": 1752570203,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 155500,
@@ -5067,14 +5155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 146508,
-      "num": 146508,
-      "word": "小儿子吐槽白百何挡自己镜头",
-      "onboard_time": 1752567502,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 146394,
       "num": 146394,
       "word": "三次判刑仍提拔的局长曾枪击村民",
@@ -5489,6 +5569,14 @@
       "onboard_time": 1752391401,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 138405,
+      "num": 138405,
+      "word": "中方回应特朗普称对俄征100%关税",
+      "onboard_time": 1752570502,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 138368,
@@ -5987,12 +6075,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126947,
+      "num": 126947,
+      "word": "河北小伙花九年逆袭成千万网红",
+      "onboard_time": 1752570802,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 126858,
       "num": 126858,
       "word": "我也想在工作群这么回复",
       "onboard_time": 1752468863,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 126661,
+      "num": 126661,
+      "word": "歌手本期补位预告",
+      "onboard_time": 1752571522,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 126356,
@@ -6009,6 +6113,14 @@
       "onboard_time": 1752567502,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126101,
+      "num": 126101,
+      "word": "河南烧烤模式热死了水塘里5只大鹅",
+      "onboard_time": 1752570743,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126060,
@@ -6155,6 +6267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123671,
+      "num": 237436,
+      "word": "蛤蟆汤事件当事人满意处理结果",
+      "onboard_time": 1752568342,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123341,
       "num": 123341,
       "word": "王牌复工第一天就摇人",
@@ -6225,6 +6345,14 @@
       "onboard_time": 1752478703,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 122418,
+      "num": 122418,
+      "word": "多名孩子流鼻血小学附近有工厂",
+      "onboard_time": 1752570144,
+      "rank": 40,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 122308,
@@ -6611,14 +6739,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 116239,
-      "num": 179226,
-      "word": "网友曝山姆将品牌盼盼改为PANPAN",
-      "onboard_time": 1752568943,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 116224,
       "num": 116224,
       "word": "发现身边人一攒点钱就去旅游了",
@@ -6987,6 +7107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109556,
+      "num": 109556,
+      "word": "汪苏泷私下给李雪琴李嘉琦晒腹肌",
+      "onboard_time": 1752569304,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 109431,
       "num": 109431,
       "word": "T1无缘MSI第三冠",
@@ -7153,14 +7281,6 @@
       "onboard_time": 1752398782,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 105343,
-      "num": 105343,
-      "word": "赵今麦张凌赫家属感好强",
-      "onboard_time": 1752569484,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 105261,
@@ -7387,6 +7507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 99882,
+      "num": 122827,
+      "word": "原神胡桃",
+      "onboard_time": 1752571763,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 99447,
       "num": 109661,
       "word": "法国国庆阅兵接连发生马匹失控",
@@ -7499,6 +7627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96926,
+      "num": 96926,
+      "word": "秦昊新剧高压锅制毒",
+      "onboard_time": 1752572062,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 96713,
       "num": 96713,
       "word": "四个脊柱最喜欢的动作",
@@ -7571,14 +7707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 94943,
-      "num": 94943,
-      "word": "汪苏泷私下给李雪琴李嘉琦晒腹肌",
-      "onboard_time": 1752569304,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 94926,
       "num": 378776,
       "word": "尚界H5后排仨人不贴肩",
@@ -7617,6 +7745,14 @@
       "onboard_time": 1752542421,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 94117,
+      "num": 94117,
+      "word": "蒋欣被小狗缠上了",
+      "onboard_time": 1752569543,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 94043,
@@ -8091,6 +8227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71957,
+      "num": 83304,
+      "word": "扫毒风暴富婆为美容犯罪",
+      "onboard_time": 1752571283,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 71726,
       "num": 71726,
       "word": "2025世俱杯",
@@ -8144,14 +8288,6 @@
       "word": "救人被质疑袭胸男子称再遇到还会救",
       "onboard_time": 1752503663,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 65679,
-      "num": 237436,
-      "word": "蛤蟆汤事件当事人满意处理结果",
-      "onboard_time": 1752568342,
-      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -8273,6 +8409,14 @@
       "onboard_time": 1752449840,
       "rank": 42,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 57941,
+      "num": 167901,
+      "word": "打砸记者摄像机负责人称冲动了",
+      "onboard_time": 1752571883,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57882,
@@ -8603,6 +8747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 34836,
+      "num": 191762,
+      "word": "男子为爱放弃房产又为学区房告父母",
+      "onboard_time": 1752571283,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34526,
       "num": 135770,
       "word": "神级风景插画合集",
@@ -8640,6 +8792,14 @@
       "word": "花715万修雕塑仍有四大疑问",
       "onboard_time": 1752390083,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33284,
+      "num": 157793,
+      "word": "蛤蟆汤老板怀疑罚款与拆迁有关",
+      "onboard_time": 1752570444,
+      "rank": 29,
       "category": "民生新闻"
     },
     {

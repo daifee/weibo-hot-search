@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/15 16:52:00
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/15 17:35:40
 </p>
 </blockquote>
 <p>
@@ -1125,6 +1125,12 @@ BLACKPINK演唱会（热度：1267228）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%AB%8B%E5%9D%9A%E5%8F%91%E4%BA%86%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23" target="weibo">
+赵立坚发了迪丽热巴（热度：1262314）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E5%A5%B3%E8%A3%85%E5%A4%A7%E5%8F%94%E7%BD%91%E4%BC%A0%E4%BF%A1%E6%81%AF%E6%9C%89%E5%A4%B8%E5%A4%A7%E6%88%90%E5%88%86%23" target="weibo">
 南京女装大叔网传信息有夸大成分（热度：1261058）
 </a>
@@ -2159,6 +2165,12 @@ Zeus希望能尽快结束此事（热度：933414）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2312%E5%B2%81%E5%B9%BC%E5%A5%B3%E5%AE%B6%E4%B8%AD%E9%81%AD%E5%BC%BA%E5%A5%B8%E5%A6%88%E5%A6%88%E7%AC%AC%E4%BA%8C%E5%A4%A9%E6%89%8D%E5%8F%91%E7%8E%B0%23" target="weibo">
 12岁幼女家中遭强奸妈妈第二天才发现（热度：910231）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E8%A2%AB%E6%9B%9D%E6%AC%A0%E8%B5%8C%E5%80%BA%E6%9C%AA%E8%BF%98%23" target="weibo">
+向佐被曝欠赌债未还（热度：908611）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ TES与WBG互换辅助（热度：452866）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BB%E6%9C%BA%E6%97%B6%E7%9C%8B%E5%88%B0%E5%8F%A6%E4%B8%80%E6%9E%B6%E9%A3%9E%E6%9C%BA%E5%9D%A0%E6%AF%81%E5%8F%98%E7%81%AB%E7%90%83%23" target="weibo">
 登机时看到另一架飞机坠毁变火球（热度：448242）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E7%BB%8F%E7%9A%84%E6%9D%8E%E9%92%9F%E7%A1%95%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
-曾经的李钟硕回来了（热度：448191）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%A0%A9%E5%AE%81%E8%BF%9B%E7%BB%84%E6%96%B0%E5%89%A7%23" target="weibo">
-田栩宁进组新剧（热度：448081）
 </a>
 </li>
 
