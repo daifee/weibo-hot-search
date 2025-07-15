@@ -1,6 +1,6 @@
 {
   "startTime": 1752510927124,
-  "endTime": 1752555466845,
+  "endTime": 1752557477468,
   "band_list": [
     {
       "raw_hot": 1979558,
@@ -27,6 +27,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1612247,
+      "num": 850032,
+      "word": "剧本",
+      "onboard_time": 1752553642,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1505027,
       "num": 410132,
       "word": "21岁女子因痛经去医院结果生了个娃",
@@ -41,6 +49,14 @@
       "onboard_time": 1752548181,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1059669,
+      "num": 436207,
+      "word": "李敏镐发了全智贤",
+      "onboard_time": 1752554543,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1026481,
@@ -76,11 +92,19 @@
     },
     {
       "raw_hot": 904277,
-      "num": 904277,
+      "num": 1138026,
       "word": "蛤蟆汤被罚45万事件5人停职",
       "onboard_time": 1752552025,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 896868,
+      "num": 426145,
+      "word": "七七",
+      "onboard_time": 1752554303,
+      "rank": 22,
+      "category": "网红"
     },
     {
       "raw_hot": 873195,
@@ -89,22 +113,6 @@
       "onboard_time": 1752497122,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 873173,
-      "num": 420497,
-      "word": "李敏镐发了全智贤",
-      "onboard_time": 1752554543,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 850032,
-      "num": 850032,
-      "word": "剧本",
-      "onboard_time": 1752553642,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 759576,
@@ -163,6 +171,14 @@
       "category": "剧集,艺人"
     },
     {
+      "raw_hot": 509957,
+      "num": 509957,
+      "word": "贵州遵义通报8岁女童被撞身亡",
+      "onboard_time": 1752555443,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 503794,
       "num": 312526,
       "word": "租房看见这空调我扭头就走",
@@ -177,6 +193,22 @@
       "onboard_time": 1752552442,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 472524,
+      "num": 472524,
+      "word": "山姆",
+      "onboard_time": 1752551842,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 468858,
+      "num": 393101,
+      "word": "BoA确诊为急性骨坏死",
+      "onboard_time": 1752555743,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 465017,
@@ -211,7 +243,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 356896,
+      "raw_hot": 376758,
       "num": 437067,
       "word": "西班牙1180人因高温死亡",
       "onboard_time": 1752553583,
@@ -275,12 +307,20 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 311746,
-      "num": 311746,
-      "word": "七七",
-      "onboard_time": 1752554303,
+      "raw_hot": 311358,
+      "num": 416686,
+      "word": "王安宇为王星越接古装戏",
+      "onboard_time": 1752556523,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 305357,
+      "num": 305357,
+      "word": "李幼贞在现代重生的样子",
+      "onboard_time": 1752556223,
       "rank": 22,
-      "category": "网红"
+      "category": "作品衍生"
     },
     {
       "raw_hot": 301141,
@@ -289,14 +329,6 @@
       "onboard_time": 1752541881,
       "rank": 12,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 300589,
-      "num": 300589,
-      "word": "贵州遵义通报8岁女童被撞身亡",
-      "onboard_time": 1752555443,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 294082,
@@ -427,14 +459,6 @@
       "category": "综艺,电竞"
     },
     {
-      "raw_hot": 222423,
-      "num": 222423,
-      "word": "山姆",
-      "onboard_time": 1752551842,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 218670,
       "num": 244459,
       "word": "印度男子婚宴上多要一块鸡肉被刺死",
@@ -449,6 +473,14 @@
       "onboard_time": 1752546980,
       "rank": 17,
       "category": "美食"
+    },
+    {
+      "raw_hot": 206846,
+      "num": 206846,
+      "word": "秦彻烬渊",
+      "onboard_time": 1752556882,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 205301,
@@ -491,6 +523,38 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196932,
+      "num": 412952,
+      "word": "山姆采购负责人曾谈选品策略",
+      "onboard_time": 1752555804,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194715,
+      "num": 207499,
+      "word": "杨紫李现锦绣芳华开分7.2",
+      "onboard_time": 1752556882,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 194383,
+      "num": 207362,
+      "word": "电影长安的荔枝",
+      "onboard_time": 1752555563,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 192436,
+      "num": 437003,
+      "word": "客服回应山姆被质疑便利店化",
+      "onboard_time": 1752555683,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189353,
       "num": 189353,
       "word": "山姆年初变更负责人",
@@ -523,12 +587,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186760,
+      "num": 186760,
+      "word": "赵今麦演我人设崩塌",
+      "onboard_time": 1752556702,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184727,
       "num": 225779,
       "word": "成毅邓为侯明昊丞磊官宣海报",
       "onboard_time": 1752554782,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183956,
+      "num": 183956,
+      "word": "为什么品牌都在换logo",
+      "onboard_time": 1752555683,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 183097,
+      "num": 183097,
+      "word": "外卖0元购大量奶茶无人认领",
+      "onboard_time": 1752557243,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 182299,
+      "num": 182299,
+      "word": "未定事件簿兑换码",
+      "onboard_time": 1752556523,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 179647,
@@ -603,6 +699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157123,
+      "num": 157123,
+      "word": "一直躺着玩手机真的会得血栓",
+      "onboard_time": 1752554663,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 155905,
       "num": 155905,
       "word": "高层住户经期往楼下扔带血卫生巾",
@@ -633,14 +737,6 @@
       "onboard_time": 1752540982,
       "rank": 9,
       "category": "国内时政,科学科普"
-    },
-    {
-      "raw_hot": 152579,
-      "num": 152579,
-      "word": "一直躺着玩手机真的会得血栓",
-      "onboard_time": 1752554663,
-      "rank": 40,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 152549,
@@ -697,6 +793,14 @@
       "onboard_time": 1752542541,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141390,
+      "num": 141390,
+      "word": "王一博为上合电视节发来祝贺",
+      "onboard_time": 1752556163,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 141143,
@@ -787,6 +891,30 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 136534,
+      "num": 136534,
+      "word": "独库公路堵车源头",
+      "onboard_time": 1752555503,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136280,
+      "num": 136280,
+      "word": "赵今麦这段独白给我看爽了",
+      "onboard_time": 1752557122,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 135658,
+      "num": 135658,
+      "word": "雌雄同体的三花猫",
+      "onboard_time": 1752555503,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135583,
       "num": 135583,
       "word": "猫咪突然逃跑下一秒电视墙塌了",
@@ -835,12 +963,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128462,
+      "num": 456048,
+      "word": "赵丽颖先锋感妆容气场全开",
+      "onboard_time": 1752552262,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126762,
       "num": 126762,
       "word": "黄仁勋称中国军方不会使用美国技术",
       "onboard_time": 1752504142,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 125955,
+      "num": 125955,
+      "word": "为了人民而改革改革才有意义",
+      "onboard_time": 1752556101,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 124017,
@@ -945,6 +1089,14 @@
       "onboard_time": 1752549682,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112783,
+      "num": 170131,
+      "word": "这就是龙族龙里Dance吗",
+      "onboard_time": 1752556761,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 111014,
@@ -1113,14 +1265,6 @@
       "onboard_time": 1752541881,
       "rank": 44,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 83632,
-      "num": 456048,
-      "word": "赵丽颖先锋感妆容气场全开",
-      "onboard_time": 1752552262,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 83305,
@@ -1345,6 +1489,14 @@
       "onboard_time": 1752513557,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 37642,
+      "num": 207157,
+      "word": "官方通报政府官方文件涉嫌抄袭",
+      "onboard_time": 1752556944,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35529,
