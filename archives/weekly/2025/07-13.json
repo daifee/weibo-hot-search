@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752576495442,
+  "endTime": 1752578703886,
   "band_list": [
     {
       "raw_hot": 14050966,
@@ -179,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1337367,
+      "num": 1337367,
+      "word": "佛山顺德区确诊478例基孔肯雅热",
+      "onboard_time": 1752574042,
+      "rank": 4,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 1337264,
       "num": 1125869,
       "word": "李欣莳 Zeus",
@@ -337,14 +345,6 @@
       "onboard_time": 1752548181,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1155775,
-      "num": 1184924,
-      "word": "佛山顺德区确诊478例基孔肯雅热",
-      "onboard_time": 1752574042,
-      "rank": 4,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 1150599,
@@ -1115,6 +1115,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 574260,
+      "num": 574260,
+      "word": "银行2.5亿存款丢失案将开庭",
+      "onboard_time": 1752575303,
+      "rank": 31,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 567169,
       "num": 125971,
       "word": "周深录制综艺节目遭嘉宾拖拽",
@@ -1323,6 +1331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 494963,
+      "num": 257515,
+      "word": "梓渝 漂亮的孩子站中间",
+      "onboard_time": 1752575723,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 494695,
       "num": 204143,
       "word": "网红张三嫂儿子确诊ADHD",
@@ -1408,6 +1424,14 @@
       "word": "山姆",
       "onboard_time": 1752551842,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 467805,
+      "num": 467805,
+      "word": "顾客称吃苏州糖水发现餐具内增高",
+      "onboard_time": 1752572603,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -1616,14 +1640,6 @@
       "word": "港大男用老师同学照片AI生成色情照",
       "onboard_time": 1752389002,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 414085,
-      "num": 414085,
-      "word": "顾客称吃苏州糖水发现餐具内增高",
-      "onboard_time": 1752572603,
-      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -1897,6 +1913,14 @@
       "onboard_time": 1752477142,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 345362,
+      "num": 345362,
+      "word": "Alin官宣补位",
+      "onboard_time": 1752575303,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 345279,
@@ -2291,14 +2315,6 @@
       "category": "艺人,教育"
     },
     {
-      "raw_hot": 287772,
-      "num": 287772,
-      "word": "Alin官宣补位",
-      "onboard_time": 1752575303,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 286134,
       "num": 286134,
       "word": "王楚钦 Oakley",
@@ -2491,6 +2507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 269364,
+      "num": 289716,
+      "word": "中方回应英伟达将向中国销售H20芯片",
+      "onboard_time": 1752574042,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 268791,
       "num": 366884,
       "word": "女子不堪家暴给丈夫投毒获刑3年半",
@@ -2545,14 +2569,6 @@
       "onboard_time": 1752419965,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 259672,
-      "num": 259672,
-      "word": "银行2.5亿存款丢失案将开庭",
-      "onboard_time": 1752575303,
-      "rank": 31,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 256545,
@@ -3547,6 +3563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 193684,
+      "num": 150588,
+      "word": "无畏躺平猫",
+      "onboard_time": 1752578602,
+      "rank": 30,
+      "category": "电竞,幽默"
+    },
+    {
       "raw_hot": 192575,
       "num": 192575,
       "word": "苏新皓被红海整微醺了",
@@ -3705,6 +3729,14 @@
       "onboard_time": 1752411923,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 188456,
+      "num": 188456,
+      "word": "江西辣度",
+      "onboard_time": 1752574941,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 188442,
@@ -4036,7 +4068,7 @@
     },
     {
       "raw_hot": 178258,
-      "num": 137913,
+      "num": 173157,
       "word": "联合国核查韩国申遗项目",
       "onboard_time": 1752574762,
       "rank": 30,
@@ -4081,14 +4113,6 @@
       "onboard_time": 1752391821,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 176754,
-      "num": 161141,
-      "word": "梓渝 漂亮的孩子站中间",
-      "onboard_time": 1752575723,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 176622,
@@ -4145,6 +4169,14 @@
       "onboard_time": 1752379159,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174838,
+      "num": 167112,
+      "word": "每周喝奶茶建议不要超过2杯",
+      "onboard_time": 1752576262,
+      "rank": 33,
+      "category": "健康医疗,美食"
     },
     {
       "raw_hot": 174518,
@@ -4305,14 +4337,6 @@
       "onboard_time": 1752477142,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 170842,
-      "num": 289716,
-      "word": "中方回应英伟达将向中国销售H20芯片",
-      "onboard_time": 1752574042,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 170453,
@@ -5004,7 +5028,7 @@
     },
     {
       "raw_hot": 152366,
-      "num": 152366,
+      "num": 156885,
       "word": "爱奇艺Q3预排",
       "onboard_time": 1752573441,
       "rank": 25,
@@ -5891,6 +5915,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 133678,
+      "num": 133678,
+      "word": "南开大学教授因个人简介实诚走红",
+      "onboard_time": 1752578482,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133340,
       "num": 151221,
       "word": "海关总署教你识别真假labubu",
@@ -6025,14 +6057,6 @@
       "onboard_time": 1752381982,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 130104,
-      "num": 130104,
-      "word": "每周喝奶茶建议不要超过2杯",
-      "onboard_time": 1752576262,
-      "rank": 33,
-      "category": "健康医疗,美食"
     },
     {
       "raw_hot": 130100,
@@ -6395,6 +6419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123492,
+      "num": 257641,
+      "word": "山姆让会员破防的岂止性价比",
+      "onboard_time": 1752577282,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123480,
       "num": 123480,
       "word": "汪苏泷私下给李雪琴李嘉琦晒腹肌",
@@ -6609,6 +6641,14 @@
       "onboard_time": 1752333202,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120871,
+      "num": 170964,
+      "word": "中国电影导演之夜",
+      "onboard_time": 1752577821,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 120863,
@@ -6947,12 +6987,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115066,
-      "num": 115066,
-      "word": "江西辣度",
-      "onboard_time": 1752574941,
-      "rank": 46,
-      "category": "美食"
+      "raw_hot": 115107,
+      "num": 115107,
+      "word": "切尔西P掉特朗普",
+      "onboard_time": 1752577282,
+      "rank": 35,
+      "category": "体育,海外新闻"
     },
     {
       "raw_hot": 115064,
@@ -6969,6 +7009,22 @@
       "onboard_time": 1752420805,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 114960,
+      "num": 170023,
+      "word": "加油站称44升油箱加58升油属正常",
+      "onboard_time": 1752577642,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114817,
+      "num": 114817,
+      "word": "这些文物都长着明星脸",
+      "onboard_time": 1752577461,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 114780,
@@ -7299,6 +7355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108822,
+      "num": 108822,
+      "word": "京城大师赛",
+      "onboard_time": 1752577821,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 108809,
       "num": 108809,
       "word": "李想称雷军建议为及时雨",
@@ -7617,6 +7681,14 @@
       "onboard_time": 1752575602,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100853,
+      "num": 100853,
+      "word": "王者英雄池变男友池了",
+      "onboard_time": 1752576383,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 100718,
@@ -7955,6 +8027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92559,
+      "num": 92559,
+      "word": "白敬亭黑化进度条百分之99",
+      "onboard_time": 1752577701,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92134,
       "num": 92134,
       "word": "何惟芳手刃前夫哥",
@@ -8203,6 +8283,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 82287,
+      "num": 82287,
+      "word": "余承恩出国不忘给侄女买礼物",
+      "onboard_time": 1752576921,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82113,
       "num": 82113,
       "word": "价值20万的世界最大嘴唇",
@@ -8281,14 +8369,6 @@
       "onboard_time": 1752487281,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 79117,
-      "num": 94647,
-      "word": "王者英雄池变男友池了",
-      "onboard_time": 1752576383,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 78813,
@@ -8643,6 +8723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 53234,
+      "num": 201826,
+      "word": "长春空调卖场人挤人部分机型售罄",
+      "onboard_time": 1752577282,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52786,
       "num": 52786,
       "word": "全员加速中双人搭档赛",
@@ -8833,6 +8921,14 @@
       "onboard_time": 1752500544,
       "rank": 19,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 41765,
+      "num": 152428,
+      "word": "基孔肯雅热通过蚊子传播",
+      "onboard_time": 1752578242,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41172,
@@ -9369,6 +9465,14 @@
       "onboard_time": 1752470124,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 14798,
+      "num": 101018,
+      "word": "等舟开门的我就这样",
+      "onboard_time": 1752578062,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 13773,

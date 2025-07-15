@@ -1,0 +1,410 @@
+{
+  "runTime": 1752578703886,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1337367,
+        "num": 1337367,
+        "word": "佛山顺德区确诊478例基孔肯雅热",
+        "onboard_time": 1752574042,
+        "rank": 0,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 589789,
+        "num": 589789,
+        "word": "国足中国香港冲突",
+        "onboard_time": 1752574762,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34241,
+        "num": 579887,
+        "word": "2025上半年GDP同比增长5.3%",
+        "onboard_time": 1752546081,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 574260,
+        "num": 574260,
+        "word": "银行2.5亿存款丢失案将开庭",
+        "onboard_time": 1752575303,
+        "rank": 3,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 473183,
+        "num": 473183,
+        "word": "赵立坚发了迪丽热巴",
+        "onboard_time": 1752571463,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 982907,
+        "num": 471715,
+        "word": "向佐被曝欠赌债未还",
+        "onboard_time": 1752571703,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 467805,
+        "num": 467805,
+        "word": "顾客称吃苏州糖水发现餐具内增高",
+        "onboard_time": 1752572603,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345362,
+        "num": 345362,
+        "word": "Alin官宣补位",
+        "onboard_time": 1752575303,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269364,
+        "num": 269364,
+        "word": "中方回应英伟达将向中国销售H20芯片",
+        "onboard_time": 1752574042,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 123492,
+        "num": 257641,
+        "word": "山姆让会员破防的岂止性价比",
+        "onboard_time": 1752577282,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 494963,
+        "num": 257515,
+        "word": "梓渝 漂亮的孩子站中间",
+        "onboard_time": 1752575723,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255304,
+        "num": 255304,
+        "word": "25岁女生痛经十几年决定停经",
+        "onboard_time": 1752560242,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217842,
+        "num": 217842,
+        "word": "关晓彤说今天不是绿化带",
+        "onboard_time": 1752571041,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216284,
+        "num": 216284,
+        "word": "男孩与亲爸后妈远行坐后备箱数小时",
+        "onboard_time": 1752565342,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53234,
+        "num": 201826,
+        "word": "长春空调卖场人挤人部分机型售罄",
+        "onboard_time": 1752577282,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188456,
+        "num": 188456,
+        "word": "江西辣度",
+        "onboard_time": 1752574941,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 179057,
+        "num": 179057,
+        "word": "女子垃圾堆捡22个金镯价值近40万",
+        "onboard_time": 1752565641,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173157,
+        "num": 173157,
+        "word": "联合国核查韩国申遗项目",
+        "onboard_time": 1752574762,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 156951,
+        "num": 172501,
+        "word": "网传徐祥去世消息不实",
+        "onboard_time": 1752573983,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120871,
+        "num": 170964,
+        "word": "中国电影导演之夜",
+        "onboard_time": 1752577821,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114960,
+        "num": 170023,
+        "word": "加油站称44升油箱加58升油属正常",
+        "onboard_time": 1752577642,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1254216,
+        "num": 169570,
+        "word": "董璇再婚",
+        "onboard_time": 1752566721,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198948,
+        "num": 167720,
+        "word": "艾米 美炸了",
+        "onboard_time": 1752568103,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174838,
+        "num": 167112,
+        "word": "每周喝奶茶建议不要超过2杯",
+        "onboard_time": 1752576262,
+        "rank": 23,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 166389,
+        "num": 166389,
+        "word": "夏天开车真的不要没苦硬吃",
+        "onboard_time": 1752570083,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158031,
+        "num": 158031,
+        "word": "热热热我热热热",
+        "onboard_time": 1752552442,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106921,
+        "num": 156885,
+        "word": "爱奇艺Q3预排",
+        "onboard_time": 1752573441,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105492,
+        "num": 155486,
+        "word": "Angelababy带小海绵回香港",
+        "onboard_time": 1752571224,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94087,
+        "num": 154523,
+        "word": "歌手本期补位预告",
+        "onboard_time": 1752571522,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41765,
+        "num": 152428,
+        "word": "基孔肯雅热通过蚊子传播",
+        "onboard_time": 1752578242,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193684,
+        "num": 150588,
+        "word": "无畏躺平猫",
+        "onboard_time": 1752578602,
+        "rank": 30,
+        "category": "电竞,幽默"
+      },
+      {
+        "raw_hot": 149408,
+        "num": 149408,
+        "word": "网友曝山姆将品牌盼盼改为PANPAN",
+        "onboard_time": 1752568943,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133678,
+        "num": 133678,
+        "word": "南开大学教授因个人简介实诚走红",
+        "onboard_time": 1752578482,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132162,
+        "num": 132162,
+        "word": "打砸记者摄像机负责人称冲动了",
+        "onboard_time": 1752571883,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115577,
+        "num": 115577,
+        "word": "山姆拿什么留住百万会员",
+        "onboard_time": 1752565162,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115107,
+        "num": 115107,
+        "word": "切尔西P掉特朗普",
+        "onboard_time": 1752577282,
+        "rank": 35,
+        "category": "体育,海外新闻"
+      },
+      {
+        "raw_hot": 114817,
+        "num": 114817,
+        "word": "这些文物都长着明星脸",
+        "onboard_time": 1752577461,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108822,
+        "num": 108822,
+        "word": "京城大师赛",
+        "onboard_time": 1752577821,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104381,
+        "num": 104381,
+        "word": "罗马仕最新声明",
+        "onboard_time": 1752568342,
+        "rank": 38,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 14798,
+        "num": 101018,
+        "word": "等舟开门的我就这样",
+        "onboard_time": 1752578062,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 100853,
+        "num": 100853,
+        "word": "王者英雄池变男友池了",
+        "onboard_time": 1752576383,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 99872,
+        "num": 99872,
+        "word": "中国记协回应记者采访时设备被砸碎",
+        "onboard_time": 1752569963,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93794,
+        "num": 93794,
+        "word": "河南烧烤模式热死了水塘里5只大鹅",
+        "onboard_time": 1752570743,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92559,
+        "num": 92559,
+        "word": "白敬亭黑化进度条百分之99",
+        "onboard_time": 1752577701,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89668,
+        "num": 89668,
+        "word": "那年单依纯齐刘海",
+        "onboard_time": 1752572902,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88248,
+        "num": 88248,
+        "word": "李兰迪瘦了好多",
+        "onboard_time": 1752563542,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86814,
+        "num": 86814,
+        "word": "国足连续4届东亚杯季军",
+        "onboard_time": 1752575602,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85124,
+        "num": 85124,
+        "word": "赵今麦造型师审美",
+        "onboard_time": 1752568823,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83375,
+        "num": 83375,
+        "word": "樊振东乒超参赛目标",
+        "onboard_time": 1752576082,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82287,
+        "num": 82287,
+        "word": "余承恩出国不忘给侄女买礼物",
+        "onboard_time": 1752576921,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央城市工作会议在北京举行#"
+    }
+  }
+}
