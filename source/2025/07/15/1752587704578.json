@@ -1,0 +1,410 @@
+{
+  "runTime": 1752587704578,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1566668,
+        "num": 1566668,
+        "word": "山姆线上已下架好丽友",
+        "onboard_time": 1752583342,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1003721,
+        "num": 1003721,
+        "word": "奶奶不舍得开空调孙女一招瞒天过海",
+        "onboard_time": 1752580582,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21443,
+        "num": 612802,
+        "word": "上海与优质内容创作的双向奔赴",
+        "onboard_time": 1752584062,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 516975,
+        "num": 516975,
+        "word": "佛山顺德区确诊478例基孔肯雅热",
+        "onboard_time": 1752574042,
+        "rank": 3,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 470981,
+        "num": 470981,
+        "word": "工行高管实名举报妻子出轨健身教练",
+        "onboard_time": 1752584302,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341808,
+        "num": 341808,
+        "word": "意外怀孕诱发罕见癌症女子发声",
+        "onboard_time": 1752579501,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341053,
+        "num": 341053,
+        "word": "南开大学教授因个人简介实诚走红",
+        "onboard_time": 1752578482,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323975,
+        "num": 323975,
+        "word": "易烊千玺导协年度男演员",
+        "onboard_time": 1752586163,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254044,
+        "num": 321139,
+        "word": "成毅直播",
+        "onboard_time": 1752580162,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101380,
+        "num": 320692,
+        "word": "工行回应高管实名举报妻子出轨",
+        "onboard_time": 1752586463,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2329433,
+        "num": 320675,
+        "word": "泰国女子与高僧发生关系后拍5600段视频",
+        "onboard_time": 1752578842,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 320634,
+        "num": 320634,
+        "word": "梓渝 漂亮的孩子站中间",
+        "onboard_time": 1752575723,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275607,
+        "num": 275607,
+        "word": "吉利与极氪合并",
+        "onboard_time": 1752580582,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 286303,
+        "num": 272627,
+        "word": "国足中国香港冲突",
+        "onboard_time": 1752574762,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252877,
+        "num": 252877,
+        "word": "朝雪录热度破9000了",
+        "onboard_time": 1752584302,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207217,
+        "num": 207217,
+        "word": "山姆让会员破防的岂止性价比",
+        "onboard_time": 1752577282,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201222,
+        "num": 201222,
+        "word": "刘轩丞cha了Woohoo",
+        "onboard_time": 1752586282,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199121,
+        "num": 199121,
+        "word": "TVB演员吴博君去世",
+        "onboard_time": 1752586943,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198363,
+        "num": 198363,
+        "word": "侯佩岑这才是撑得起大场面的美",
+        "onboard_time": 1752579501,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 166520,
+        "num": 196665,
+        "word": "荣耀X70是犯天条了吗",
+        "onboard_time": 1752583162,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 714832,
+        "num": 193277,
+        "word": "董璇再婚",
+        "onboard_time": 1752566721,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 542191,
+        "num": 190926,
+        "word": "赵立坚发了迪丽热巴",
+        "onboard_time": 1752571463,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319834,
+        "num": 186322,
+        "word": "向佐被曝欠赌债未还",
+        "onboard_time": 1752571703,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249615,
+        "num": 183223,
+        "word": "赵露思直播",
+        "onboard_time": 1752586762,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238543,
+        "num": 180123,
+        "word": "秦昊新剧尺度",
+        "onboard_time": 1752584422,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230216,
+        "num": 176622,
+        "word": "中医说一天中4个时段不建议洗头",
+        "onboard_time": 1752582682,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 215053,
+        "num": 172516,
+        "word": "朝雪录第9集13分31秒",
+        "onboard_time": 1752584422,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172364,
+        "num": 172364,
+        "word": "杭州多学生流鼻血事件家长发声",
+        "onboard_time": 1752583281,
+        "rank": 27,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 165159,
+        "num": 165159,
+        "word": "丧偶儿媳欲以第一顺位继承公公遗产",
+        "onboard_time": 1752579682,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141965,
+        "num": 141965,
+        "word": "每周喝奶茶建议不要超过2杯",
+        "onboard_time": 1752576262,
+        "rank": 29,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 136893,
+        "num": 136893,
+        "word": "基孔肯雅热和花斑蚊是什么关系",
+        "onboard_time": 1752582083,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 135903,
+        "num": 135903,
+        "word": "喜人奇妙夜2录制",
+        "onboard_time": 1752582142,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133529,
+        "num": 133529,
+        "word": "江苏一高校招聘被质疑设萝卜岗",
+        "onboard_time": 1752584542,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126091,
+        "num": 126091,
+        "word": "洛杉矶奥运会首金是美国队强项",
+        "onboard_time": 1752587121,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125151,
+        "num": 125151,
+        "word": "林俊杰王心凌西瓜牛奶再合体",
+        "onboard_time": 1752586943,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123406,
+        "num": 123406,
+        "word": "银行2.5亿存款丢失案将开庭",
+        "onboard_time": 1752575303,
+        "rank": 35,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 121376,
+        "num": 121376,
+        "word": "中国女篮vs韩国女篮",
+        "onboard_time": 1752584241,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120641,
+        "num": 120641,
+        "word": "内娱第一对这么强婚后感的cp",
+        "onboard_time": 1752583641,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118466,
+        "num": 118466,
+        "word": "特朗普曾问泽连斯基能否打击莫斯科",
+        "onboard_time": 1752585503,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 45116,
+        "num": 116709,
+        "word": "2028年7月18日产生洛奥乒乓首金",
+        "onboard_time": 1752586342,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116593,
+        "num": 116593,
+        "word": "靠出卖兄弟换来的40万",
+        "onboard_time": 1752585983,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115718,
+        "num": 115718,
+        "word": "Alin开放点歌",
+        "onboard_time": 1752587543,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115173,
+        "num": 115173,
+        "word": "CPI",
+        "onboard_time": 1752586522,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 113842,
+        "num": 113842,
+        "word": "这是55岁的咏梅",
+        "onboard_time": 1752585261,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109264,
+        "num": 109264,
+        "word": "张凌赫之前赵今麦不是教过你吗",
+        "onboard_time": 1752579922,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108580,
+        "num": 108580,
+        "word": "顾客称吃苏州糖水发现餐具内增高",
+        "onboard_time": 1752572603,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103772,
+        "num": 103772,
+        "word": "李一桐书卷一梦收官",
+        "onboard_time": 1752587183,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93170,
+        "num": 93170,
+        "word": "深圳晚霞",
+        "onboard_time": 1752580582,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106501,
+        "num": 92790,
+        "word": "咏梅顶级地母系美人",
+        "onboard_time": 1752582622,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92240,
+        "num": 92240,
+        "word": "周杰伦陪昆凌工作",
+        "onboard_time": 1752581481,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央城市工作会议在北京举行#"
+    }
+  }
+}

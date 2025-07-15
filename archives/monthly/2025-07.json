@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752586955762,
+  "endTime": 1752587704578,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -291,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2329433,
+      "num": 338203,
+      "word": "泰国女子与高僧发生关系后拍5600段视频",
+      "onboard_time": 1752578842,
+      "rank": 11,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 2299420,
       "num": 2299420,
       "word": "王楚钦美国大满贯夺冠",
@@ -305,14 +313,6 @@
       "onboard_time": 1751442801,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2276150,
-      "num": 338203,
-      "word": "泰国女子与高僧发生关系后拍5600段视频",
-      "onboard_time": 1752578842,
-      "rank": 11,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 2250216,
@@ -904,6 +904,14 @@
       "word": "蜜雪冰城被曝员工用脚关直饮水桶",
       "onboard_time": 1751904143,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1566668,
+      "num": 1566668,
+      "word": "山姆线上已下架好丽友",
+      "onboard_time": 1752583342,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -2017,14 +2025,6 @@
       "onboard_time": 1751954782,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1126377,
-      "num": 1180220,
-      "word": "山姆线上已下架好丽友",
-      "onboard_time": 1752583342,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1125939,
@@ -7635,6 +7635,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 470981,
+      "num": 470981,
+      "word": "工行高管实名举报妻子出轨健身教练",
+      "onboard_time": 1752584302,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 469998,
       "num": 469998,
       "word": "李佳薇 真天后",
@@ -11259,6 +11267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 323975,
+      "num": 323975,
+      "word": "易烊千玺导协年度男演员",
+      "onboard_time": 1752586163,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 323730,
       "num": 323730,
       "word": "迪丽热巴金世佳携手打拐",
@@ -11825,14 +11841,6 @@
       "onboard_time": 1751757798,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 308392,
-      "num": 308392,
-      "word": "工行高管实名举报妻子出轨健身教练",
-      "onboard_time": 1752584302,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 308384,
@@ -14347,6 +14355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 254044,
+      "num": 343663,
+      "word": "成毅直播",
+      "onboard_time": 1752580162,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 253850,
       "num": 253850,
       "word": "下半年正式开启",
@@ -14547,6 +14563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 249615,
+      "num": 183223,
+      "word": "赵露思直播",
+      "onboard_time": 1752586762,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 249602,
       "num": 235324,
       "word": "藏族人挖虫草1个月挣30万",
@@ -14665,14 +14689,6 @@
       "onboard_time": 1751513423,
       "rank": 24,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 246570,
-      "num": 343663,
-      "word": "成毅直播",
-      "onboard_time": 1752580162,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 246544,
@@ -15649,6 +15665,14 @@
       "onboard_time": 1751810544,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 230216,
+      "num": 197958,
+      "word": "中医说一天中4个时段不建议洗头",
+      "onboard_time": 1752582682,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 230133,
@@ -17379,14 +17403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 210687,
-      "num": 217786,
-      "word": "易烊千玺导协年度男演员",
-      "onboard_time": 1752586163,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 210676,
       "num": 210676,
       "word": "敖瑞鹏晒与李兰迪合照",
@@ -17689,14 +17705,6 @@
       "onboard_time": 1752100878,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 207915,
-      "num": 197958,
-      "word": "中医说一天中4个时段不建议洗头",
-      "onboard_time": 1752582682,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 207782,
@@ -18643,20 +18651,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 201222,
+      "num": 201222,
+      "word": "刘轩丞cha了Woohoo",
+      "onboard_time": 1752586282,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201143,
       "num": 201143,
       "word": "锦绣芳华宣发",
       "onboard_time": 1751458222,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 201126,
-      "num": 201126,
-      "word": "刘轩丞cha了Woohoo",
-      "onboard_time": 1752586282,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 201067,
@@ -18953,6 +18961,14 @@
       "onboard_time": 1751433261,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199121,
+      "num": 199121,
+      "word": "TVB演员吴博君去世",
+      "onboard_time": 1752586943,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 198925,
@@ -23475,6 +23491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 172364,
+      "num": 172364,
+      "word": "杭州多学生流鼻血事件家长发声",
+      "onboard_time": 1752583281,
+      "rank": 33,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 172296,
       "num": 207383,
       "word": "乌克兰称首都遭俄军大规模袭击",
@@ -25465,14 +25489,6 @@
       "onboard_time": 1752417449,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 160998,
-      "num": 160998,
-      "word": "赵露思直播",
-      "onboard_time": 1752586762,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 160991,
@@ -33595,14 +33611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 128116,
-      "num": 155707,
-      "word": "杭州多学生流鼻血事件家长发声",
-      "onboard_time": 1752583281,
-      "rank": 33,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 128099,
       "num": 128099,
       "word": "克莱有女朋友了",
@@ -34187,6 +34195,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 126091,
+      "num": 126091,
+      "word": "洛杉矶奥运会首金是美国队强项",
+      "onboard_time": 1752587121,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126088,
       "num": 126088,
       "word": "李幼贞人设",
@@ -34441,6 +34457,14 @@
       "onboard_time": 1752484162,
       "rank": 26,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 125151,
+      "num": 125151,
+      "word": "林俊杰王心凌西瓜牛奶再合体",
+      "onboard_time": 1752586943,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 125144,
@@ -35649,6 +35673,14 @@
       "onboard_time": 1751726726,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 121376,
+      "num": 342242,
+      "word": "中国女篮vs韩国女篮",
+      "onboard_time": 1752584241,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 121364,
@@ -37401,6 +37433,14 @@
       "onboard_time": 1751857705,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 115718,
+      "num": 115718,
+      "word": "Alin开放点歌",
+      "onboard_time": 1752587543,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 115710,
@@ -40355,14 +40395,6 @@
       "category": "民生新闻,旅游"
     },
     {
-      "raw_hot": 105117,
-      "num": 342242,
-      "word": "中国女篮vs韩国女篮",
-      "onboard_time": 1752584241,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 105086,
       "num": 105086,
       "word": "背书包的孙颖莎好可爱",
@@ -40769,6 +40801,14 @@
       "onboard_time": 1752389782,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 103772,
+      "num": 103772,
+      "word": "李一桐书卷一梦收官",
+      "onboard_time": 1752587183,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 103739,
@@ -41313,6 +41353,14 @@
       "onboard_time": 1751887282,
       "rank": 33,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 101380,
+      "num": 320692,
+      "word": "工行回应高管实名举报妻子出轨",
+      "onboard_time": 1752586463,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101288,
@@ -44217,14 +44265,6 @@
       "onboard_time": 1751412438,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 82039,
-      "num": 216923,
-      "word": "工行回应高管实名举报妻子出轨",
-      "onboard_time": 1752586463,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 82036,
