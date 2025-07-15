@@ -1,6 +1,6 @@
 {
   "startTime": 1752510927124,
-  "endTime": 1752585108807,
+  "endTime": 1752586955762,
   "band_list": [
     {
       "raw_hot": 5131686,
@@ -9,6 +9,14 @@
       "onboard_time": 1752566721,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2276150,
+      "num": 338203,
+      "word": "泰国女子与高僧发生关系后拍5600段视频",
+      "onboard_time": 1752578842,
+      "rank": 11,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1979558,
@@ -33,14 +41,6 @@
       "onboard_time": 1752541700,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1661349,
-      "num": 338203,
-      "word": "泰国女子与高僧发生关系后拍5600段视频",
-      "onboard_time": 1752578842,
-      "rank": 11,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1656140,
@@ -96,6 +96,22 @@
       "word": "骑手说过上1晚挣1千元的好日子了",
       "onboard_time": 1752548181,
       "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1126377,
+      "num": 1180220,
+      "word": "山姆线上已下架好丽友",
+      "onboard_time": 1752583342,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1088278,
+      "num": 1128870,
+      "word": "奶奶不舍得开空调孙女一招瞒天过海",
+      "onboard_time": 1752580582,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -177,14 +193,6 @@
       "onboard_time": 1752497122,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 805438,
-      "num": 1128870,
-      "word": "奶奶不舍得开空调孙女一招瞒天过海",
-      "onboard_time": 1752580582,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 793909,
@@ -419,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 437880,
+      "num": 437880,
+      "word": "意外怀孕诱发罕见癌症女子发声",
+      "onboard_time": 1752579501,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 433192,
       "num": 433192,
       "word": "网友曝山姆将品牌盼盼改为PANPAN",
@@ -449,14 +465,6 @@
       "onboard_time": 1752563542,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 378613,
-      "num": 378613,
-      "word": "意外怀孕诱发罕见癌症女子发声",
-      "onboard_time": 1752579501,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 376758,
@@ -563,11 +571,11 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 315271,
-      "num": 315271,
-      "word": "山姆线上已下架好丽友",
-      "onboard_time": 1752583342,
-      "rank": 28,
+      "raw_hot": 308392,
+      "num": 308392,
+      "word": "工行高管实名举报妻子出轨健身教练",
+      "onboard_time": 1752584302,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -683,11 +691,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 272804,
+      "num": 214956,
+      "word": "朝雪录第9集13分31秒",
+      "onboard_time": 1752584422,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 267998,
       "num": 267998,
       "word": "爱奇艺直播官宣",
       "onboard_time": 1752548301,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 260188,
+      "num": 306541,
+      "word": "朝雪录热度破9000了",
+      "onboard_time": 1752584302,
+      "rank": 17,
       "category": "剧集"
     },
     {
@@ -723,6 +747,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 249690,
+      "num": 214809,
+      "word": "秦昊新剧尺度",
+      "onboard_time": 1752584422,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 248910,
       "num": 248910,
       "word": "韩国发生热通胀",
@@ -739,16 +771,16 @@
       "category": "演出"
     },
     {
-      "raw_hot": 246384,
-      "num": 199839,
-      "word": "工行高管实名举报妻子出轨健身教练",
-      "onboard_time": 1752584302,
-      "rank": 23,
-      "category": "民生新闻"
+      "raw_hot": 246570,
+      "num": 343663,
+      "word": "成毅直播",
+      "onboard_time": 1752580162,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 246140,
-      "num": 197831,
+      "num": 199219,
       "word": "每周喝奶茶建议不要超过2杯",
       "onboard_time": 1752576262,
       "rank": 33,
@@ -784,14 +816,6 @@
       "word": "周杰伦晒与权志龙合影",
       "onboard_time": 1752503423,
       "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 239442,
-      "num": 343663,
-      "word": "成毅直播",
-      "onboard_time": 1752580162,
-      "rank": 8,
       "category": "艺人"
     },
     {
@@ -844,7 +868,7 @@
     },
     {
       "raw_hot": 215916,
-      "num": 215916,
+      "num": 217104,
       "word": "张凌赫之前赵今麦不是教过你吗",
       "onboard_time": 1752579922,
       "rank": 13,
@@ -875,6 +899,14 @@
       "category": "电竞,幽默"
     },
     {
+      "raw_hot": 210687,
+      "num": 217786,
+      "word": "易烊千玺导协年度男演员",
+      "onboard_time": 1752586163,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210147,
       "num": 210147,
       "word": "秦彻烬渊",
@@ -891,12 +923,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 209993,
-      "num": 209993,
-      "word": "朝雪录热度破9000了",
-      "onboard_time": 1752584302,
-      "rank": 17,
-      "category": "剧集"
+      "raw_hot": 207915,
+      "num": 197958,
+      "word": "中医说一天中4个时段不建议洗头",
+      "onboard_time": 1752582682,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 205301,
@@ -939,12 +971,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 201126,
+      "num": 201126,
+      "word": "刘轩丞cha了Woohoo",
+      "onboard_time": 1752586282,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198430,
       "num": 318989,
       "word": "整治借谷子周边等名义欺凌未成年",
       "onboard_time": 1752546259,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197582,
+      "num": 197582,
+      "word": "靠出卖兄弟换来的40万",
+      "onboard_time": 1752585983,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 197561,
@@ -961,14 +1009,6 @@
       "onboard_time": 1752555804,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 195336,
-      "num": 152965,
-      "word": "中医说一天中4个时段不建议洗头",
-      "onboard_time": 1752582682,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 195335,
@@ -993,14 +1033,6 @@
       "onboard_time": 1752555563,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 194314,
-      "num": 194314,
-      "word": "朝雪录第9集13分31秒",
-      "onboard_time": 1752584422,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 189353,
@@ -1123,6 +1155,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 179741,
+      "num": 217501,
+      "word": "喜人奇妙夜2录制",
+      "onboard_time": 1752582142,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179647,
       "num": 179647,
       "word": "一只患有侏儒症的可爱小猫咪",
@@ -1140,7 +1180,7 @@
     },
     {
       "raw_hot": 177648,
-      "num": 208014,
+      "num": 216654,
       "word": "荣耀X70是犯天条了吗",
       "onboard_time": 1752583162,
       "rank": 30,
@@ -1203,14 +1243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 171962,
-      "num": 208323,
-      "word": "喜人奇妙夜2录制",
-      "onboard_time": 1752582142,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 171285,
       "num": 171285,
       "word": "凡人修仙传",
@@ -1265,6 +1297,22 @@
       "onboard_time": 1752554663,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 160998,
+      "num": 160998,
+      "word": "赵露思直播",
+      "onboard_time": 1752586762,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 160239,
+      "num": 279274,
+      "word": "江苏一高校招聘被质疑设萝卜岗",
+      "onboard_time": 1752584542,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159649,
@@ -1435,6 +1483,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 147922,
+      "num": 159518,
+      "word": "咏梅顶级地母系美人",
+      "onboard_time": 1752582622,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147595,
       "num": 110978,
       "word": "易烊千玺说要让角色留下痕迹",
@@ -1499,6 +1555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142391,
+      "num": 133521,
+      "word": "这是55岁的咏梅",
+      "onboard_time": 1752585261,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141390,
       "num": 141390,
       "word": "王一博为上合电视节发来祝贺",
@@ -1553,6 +1617,14 @@
       "onboard_time": 1752551241,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139329,
+      "num": 139329,
+      "word": "贺峻霖柯淳将录制一路繁花2",
+      "onboard_time": 1752585983,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 139310,
@@ -1643,12 +1715,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 135718,
-      "num": 159518,
-      "word": "咏梅顶级地母系美人",
-      "onboard_time": 1752582622,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 136023,
+      "num": 136023,
+      "word": "CPI",
+      "onboard_time": 1752586522,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 135658,
@@ -1681,6 +1753,14 @@
       "onboard_time": 1752560182,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134357,
+      "num": 134357,
+      "word": "特朗普曾问泽连斯基能否打击莫斯科",
+      "onboard_time": 1752585503,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 134166,
@@ -1763,20 +1843,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 129035,
-      "num": 153128,
-      "word": "秦昊新剧尺度",
-      "onboard_time": 1752584422,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 128462,
       "num": 456048,
       "word": "赵丽颖先锋感妆容气场全开",
       "onboard_time": 1752552262,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128116,
+      "num": 155707,
+      "word": "杭州多学生流鼻血事件家长发声",
+      "onboard_time": 1752583281,
+      "rank": 33,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 128088,
@@ -1971,6 +2051,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 119685,
+      "num": 146237,
+      "word": "周杰伦陪昆凌工作",
+      "onboard_time": 1752581481,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119407,
       "num": 119407,
       "word": "伊朗警告以色列",
@@ -1985,14 +2073,6 @@
       "onboard_time": 1752540322,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 117923,
-      "num": 146237,
-      "word": "周杰伦陪昆凌工作",
-      "onboard_time": 1752581481,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 117736,
@@ -2195,6 +2275,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105656,
+      "num": 105656,
+      "word": "张维伊是谁",
+      "onboard_time": 1752585022,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 105117,
+      "num": 342242,
+      "word": "中国女篮vs韩国女篮",
+      "onboard_time": 1752584241,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103113,
       "num": 103113,
       "word": "汪苏泷大娱乐家新年限定演唱会",
@@ -2233,14 +2329,6 @@
       "onboard_time": 1752539061,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 101087,
-      "num": 101087,
-      "word": "张维伊是谁",
-      "onboard_time": 1752585022,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 101054,
@@ -2403,14 +2491,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 93151,
-      "num": 342242,
-      "word": "中国女篮vs韩国女篮",
-      "onboard_time": 1752584241,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 92938,
       "num": 92938,
       "word": "金裕贞短发",
@@ -2539,6 +2619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82039,
+      "num": 216923,
+      "word": "工行回应高管实名举报妻子出轨",
+      "onboard_time": 1752586463,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80501,
       "num": 82299,
       "word": "孕妇遭男子殴打住院已转刑事案件",
@@ -2585,14 +2673,6 @@
       "onboard_time": 1752503844,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 77088,
-      "num": 279274,
-      "word": "江苏一高校招聘被质疑设萝卜岗",
-      "onboard_time": 1752584542,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 76053,
@@ -2649,14 +2729,6 @@
       "onboard_time": 1752503302,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 71993,
-      "num": 155707,
-      "word": "杭州多学生流鼻血事件家长发声",
-      "onboard_time": 1752583281,
-      "rank": 33,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 71957,
@@ -2735,6 +2807,14 @@
       "num": 119732,
       "word": "2025女篮亚洲杯",
       "onboard_time": 1752579082,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 64881,
+      "num": 135117,
+      "word": "2028年7月18日产生洛奥乒乓首金",
+      "onboard_time": 1752586342,
       "rank": 39,
       "category": "体育"
     },
@@ -2891,6 +2971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39263,
+      "num": 215221,
+      "word": "蛤蟆汤事件撤销处罚不是句号",
+      "onboard_time": 1752585684,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39038,
       "num": 88807,
       "word": "8战世锦赛的汪顺说非常期待",
@@ -2900,7 +2988,7 @@
     },
     {
       "raw_hot": 38590,
-      "num": 595809,
+      "num": 716164,
       "word": "上海与优质内容创作的双向奔赴",
       "onboard_time": 1752584062,
       "rank": 2,
@@ -3025,6 +3113,14 @@
       "onboard_time": 1752575662,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 25548,
+      "num": 198228,
+      "word": "河南一公交被指收取婴儿车车位费",
+      "onboard_time": 1752585742,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24786,
