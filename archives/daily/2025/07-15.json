@@ -1,6 +1,6 @@
 {
   "startTime": 1752510927124,
-  "endTime": 1752562497101,
+  "endTime": 1752564553184,
   "band_list": [
     {
       "raw_hot": 1979558,
@@ -83,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1002528,
+      "num": 339000,
+      "word": "25岁女生痛经十几年决定停经",
+      "onboard_time": 1752560242,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 971577,
       "num": 971577,
       "word": "8岁女童被撞身亡46岁司机被刑拘",
@@ -131,20 +139,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 778828,
+      "num": 1124612,
+      "word": "女子杀养父后看动漫听音乐平复心情",
+      "onboard_time": 1752558082,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 759576,
       "num": 1089727,
       "word": "于正联络上七七了",
       "onboard_time": 1752552562,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 720590,
-      "num": 720590,
-      "word": "女子杀养父后看动漫听音乐平复心情",
-      "onboard_time": 1752558082,
-      "rank": 34,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 690743,
@@ -169,14 +177,6 @@
       "onboard_time": 1752504324,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 616973,
-      "num": 339000,
-      "word": "25岁女生痛经十几年决定停经",
-      "onboard_time": 1752560242,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 605637,
@@ -259,7 +259,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 455520,
+      "raw_hot": 462523,
       "num": 337612,
       "word": "这是41岁的唐嫣",
       "onboard_time": 1752559223,
@@ -427,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 285186,
+      "num": 287768,
+      "word": "王安宇不吃水里的所以只吃鸭头",
+      "onboard_time": 1752561261,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 278892,
       "num": 278892,
       "word": "光与夜之恋",
@@ -449,6 +457,14 @@
       "onboard_time": 1752538640,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 256316,
+      "num": 282218,
+      "word": "王星越对白鹿又爱又恨",
+      "onboard_time": 1752561383,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 252103,
@@ -499,14 +515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 243603,
-      "num": 287768,
-      "word": "王安宇不吃水里的所以只吃鸭头",
-      "onboard_time": 1752561261,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 237887,
       "num": 237887,
       "word": "张凌赫赵今麦回应三搭",
@@ -515,12 +523,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 231115,
-      "num": 231115,
+      "raw_hot": 235868,
+      "num": 235868,
       "word": "县委书记搞文旅项目投5.4亿烂尾",
       "onboard_time": 1752558202,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 233602,
+      "num": 233602,
+      "word": "李兰迪瘦了好多",
+      "onboard_time": 1752563542,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 230976,
@@ -561,14 +577,6 @@
       "onboard_time": 1752558562,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 205693,
-      "num": 282218,
-      "word": "王星越对白鹿又爱又恨",
-      "onboard_time": 1752561383,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 205301,
@@ -755,6 +763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175403,
+      "num": 175403,
+      "word": "华晨宇给粉丝凑了一套五金",
+      "onboard_time": 1752563721,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 174153,
       "num": 201810,
       "word": "问界M8纯电版8月上市",
@@ -819,6 +835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158112,
+      "num": 158112,
+      "word": "光与夜之恋 三丽鸥",
+      "onboard_time": 1752563362,
+      "rank": 26,
+      "category": "游戏,动漫"
+    },
+    {
       "raw_hot": 155905,
       "num": 155905,
       "word": "高层住户经期往楼下扔带血卫生巾",
@@ -849,6 +873,14 @@
       "onboard_time": 1752540982,
       "rank": 9,
       "category": "国内时政,科学科普"
+    },
+    {
+      "raw_hot": 152838,
+      "num": 152838,
+      "word": "国足vs中国香港",
+      "onboard_time": 1752563842,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 152549,
@@ -1180,7 +1212,7 @@
     },
     {
       "raw_hot": 122725,
-      "num": 122725,
+      "num": 173210,
       "word": "一诺学车天赋异禀",
       "onboard_time": 1752560961,
       "rank": 43,
@@ -1275,12 +1307,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 115337,
+      "num": 152998,
+      "word": "马秋元这下成长剧常驻嘉宾了",
+      "onboard_time": 1752563661,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115064,
       "num": 418040,
       "word": "我花钱办卡你卖我家门口能买的东西",
       "onboard_time": 1752557483,
       "rank": 14,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 114764,
+      "num": 242808,
+      "word": "当事人回应造黄谣男子拒赔偿被拘",
+      "onboard_time": 1752562942,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114640,
+      "num": 152912,
+      "word": "郑秀晶许昕姚彦合照",
+      "onboard_time": 1752562762,
+      "rank": 29,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 113290,
@@ -1299,12 +1355,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 112759,
+      "num": 112759,
+      "word": "陈都灵周翊然荡秋千路透",
+      "onboard_time": 1752564383,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111014,
       "num": 113656,
       "word": "特朗普所谓重大声明揭晓",
       "onboard_time": 1752543261,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 109816,
+      "num": 109816,
+      "word": "减肥和减脂大有不同",
+      "onboard_time": 1752562641,
+      "rank": 44,
+      "category": "科学科普"
     },
     {
       "raw_hot": 109620,
@@ -1337,6 +1409,22 @@
       "onboard_time": 1752561801,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105988,
+      "num": 105988,
+      "word": "许昕给王楚钦竖起大拇指",
+      "onboard_time": 1752563061,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 105470,
+      "num": 105470,
+      "word": "田柾国直播",
+      "onboard_time": 1752564501,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 102496,
@@ -1441,6 +1529,14 @@
       "onboard_time": 1752503484,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 88731,
+      "num": 104351,
+      "word": "中方致力于把上合组织做实做强",
+      "onboard_time": 1752564441,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 87727,
@@ -1627,6 +1723,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 69439,
+      "num": 113320,
+      "word": "外卖骑手上线一秒跳出来几十个订单",
+      "onboard_time": 1752562522,
+      "rank": 41,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 68529,
       "num": 68529,
       "word": "张永博 咱们来日方长",
@@ -1665,6 +1769,22 @@
       "onboard_time": 1752561801,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 59396,
+      "num": 114561,
+      "word": "峰哥不登山改闯索马里了",
+      "onboard_time": 1752563481,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 58297,
+      "num": 235888,
+      "word": "张凌赫被cue在超话选美甲",
+      "onboard_time": 1752563842,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 56155,
@@ -1753,6 +1873,14 @@
       "onboard_time": 1752556944,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36093,
+      "num": 114069,
+      "word": "鸿星尔克熊猫大片",
+      "onboard_time": 1752562881,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 35529,
