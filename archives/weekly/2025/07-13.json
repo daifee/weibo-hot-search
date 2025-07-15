@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752598319716,
+  "endTime": 1752600333003,
   "band_list": [
     {
       "raw_hot": 14050966,
@@ -1841,6 +1841,14 @@
       "onboard_time": 1752390143,
       "rank": 27,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 391922,
+      "num": 391922,
+      "word": "雪糕刺客真的凉凉了",
+      "onboard_time": 1752597379,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 385572,
@@ -3899,6 +3907,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 193995,
+      "num": 193995,
+      "word": "警方通报记者设备被砸",
+      "onboard_time": 1752596061,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192575,
       "num": 192575,
       "word": "苏新皓被红海整微醺了",
@@ -4761,14 +4777,6 @@
       "onboard_time": 1752398481,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 169153,
-      "num": 169153,
-      "word": "警方通报记者设备被砸",
-      "onboard_time": 1752596061,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 169019,
@@ -5961,14 +5969,6 @@
       "onboard_time": 1752586943,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 141542,
-      "num": 141542,
-      "word": "雪糕刺客真的凉凉了",
-      "onboard_time": 1752597379,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 141390,
@@ -9363,12 +9363,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67043,
+      "num": 67043,
+      "word": "到底谁给赵今麦做的妆造",
+      "onboard_time": 1752598818,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 65329,
+      "num": 65329,
+      "word": "肖战藏海传集均播放量破5000万",
+      "onboard_time": 1752599297,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 65321,
       "num": 65321,
       "word": "帕尔默梅开二度",
       "onboard_time": 1752448520,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65127,
+      "num": 167555,
+      "word": "男子被未拴绳狗咬伤主人拒赔医药费",
+      "onboard_time": 1752597678,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64881,
@@ -9659,6 +9683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49431,
+      "num": 133674,
+      "word": "人民日报评餐馆发视频拟被罚45万事件",
+      "onboard_time": 1752599898,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48438,
       "num": 105014,
       "word": "宋茜一眼妈妈再看是妹妹",
@@ -9753,6 +9785,14 @@
       "onboard_time": 1752550883,
       "rank": 44,
       "category": "民生新闻,美食"
+    },
+    {
+      "raw_hot": 42764,
+      "num": 47164,
+      "word": "梓渝内娱唯一线面塑",
+      "onboard_time": 1752598399,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 42265,
@@ -9992,14 +10032,6 @@
       "word": "山姆低糖好丽友派被指脂肪含量增加",
       "onboard_time": 1752561141,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29549,
-      "num": 167555,
-      "word": "男子被未拴绳狗咬伤主人拒赔医药费",
-      "onboard_time": 1752597678,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -10409,6 +10441,14 @@
       "onboard_time": 1752363317,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 8583,
+      "num": 55387,
+      "word": "女子称丈夫搭救朋友被砍伤致死",
+      "onboard_time": 1752600197,
+      "rank": 35,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
