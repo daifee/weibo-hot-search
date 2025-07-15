@@ -1,6 +1,6 @@
 {
   "startTime": 1752510927124,
-  "endTime": 1752579619946,
+  "endTime": 1752584170619,
   "band_list": [
     {
       "raw_hot": 5131686,
@@ -235,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 635751,
+      "num": 635751,
+      "word": "奶奶不舍得开空调孙女一招瞒天过海",
+      "onboard_time": 1752580582,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 624317,
       "num": 624317,
       "word": "艾米 美炸了",
@@ -265,6 +273,22 @@
       "onboard_time": 1752575303,
       "rank": 31,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 576977,
+      "num": 576977,
+      "word": "山姆让会员破防的岂止性价比",
+      "onboard_time": 1752577282,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 571949,
+      "num": 571949,
+      "word": "南开大学教授因个人简介实诚走红",
+      "onboard_time": 1752578482,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 569763,
@@ -443,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 366354,
+      "num": 366354,
+      "word": "吉利与极氪合并",
+      "onboard_time": 1752580582,
+      "rank": 5,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 361351,
       "num": 361351,
       "word": "关晓彤说今天不是绿化带",
@@ -587,14 +619,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 287161,
-      "num": 287161,
-      "word": "山姆让会员破防的岂止性价比",
-      "onboard_time": 1752577282,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 286134,
       "num": 286134,
       "word": "王楚钦 Oakley",
@@ -635,6 +659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 268558,
+      "num": 268558,
+      "word": "丧偶儿媳欲以第一顺位继承公公遗产",
+      "onboard_time": 1752579682,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 267998,
       "num": 267998,
       "word": "爱奇艺直播官宣",
@@ -665,6 +697,14 @@
       "onboard_time": 1752552562,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 251904,
+      "num": 251904,
+      "word": "侯佩岑这才是撑得起大场面的美",
+      "onboard_time": 1752579501,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 248910,
@@ -723,6 +763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 239442,
+      "num": 239442,
+      "word": "成毅直播",
+      "onboard_time": 1752580162,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237887,
       "num": 237887,
       "word": "张凌赫赵今麦回应三搭",
@@ -769,14 +817,6 @@
       "onboard_time": 1752505344,
       "rank": 13,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 216131,
-      "num": 216131,
-      "word": "南开大学教授因个人简介实诚走红",
-      "onboard_time": 1752578482,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 215764,
@@ -859,6 +899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 198596,
+      "num": 198596,
+      "word": "意外怀孕诱发罕见癌症女子发声",
+      "onboard_time": 1752579501,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198430,
       "num": 318989,
       "word": "整治借谷子周边等名义欺凌未成年",
@@ -883,11 +931,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 195336,
+      "num": 152965,
+      "word": "中医说一天中4个时段不建议洗头",
+      "onboard_time": 1752582682,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 194715,
       "num": 207499,
       "word": "杨紫李现锦绣芳华开分7.2",
       "onboard_time": 1752556882,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 194692,
+      "num": 194692,
+      "word": "张凌赫之前赵今麦不是教过你吗",
+      "onboard_time": 1752579922,
+      "rank": 13,
       "category": "剧集"
     },
     {
@@ -897,6 +961,14 @@
       "onboard_time": 1752555563,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 192546,
+      "num": 154311,
+      "word": "基孔肯雅热和花斑蚊是什么关系",
+      "onboard_time": 1752582083,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 189353,
@@ -960,6 +1032,14 @@
       "word": "餐饮商会喊话外卖平台停止内卷式补贴",
       "onboard_time": 1752567383,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184980,
+      "num": 151680,
+      "word": "山姆线上已下架好丽友",
+      "onboard_time": 1752583342,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -1179,6 +1259,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155416,
+      "num": 155416,
+      "word": "喜人奇妙夜2录制",
+      "onboard_time": 1752582142,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 155186,
+      "num": 155186,
+      "word": "王源你也这么难戒断吗",
+      "onboard_time": 1752582803,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 154908,
       "num": 154908,
       "word": "秦彻预言",
@@ -1259,12 +1355,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 151079,
+      "num": 151079,
+      "word": "梁伟铿球包上全是labubu",
+      "onboard_time": 1752579622,
+      "rank": 31,
+      "category": "体育,动漫"
+    },
+    {
       "raw_hot": 150770,
       "num": 150770,
       "word": "田栩宁说了第六句话",
       "onboard_time": 1752493403,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150488,
+      "num": 150488,
+      "word": "8岁女童殒命斑马线家属发声",
+      "onboard_time": 1752580942,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150103,
@@ -1291,12 +1403,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 146352,
+      "num": 152575,
+      "word": "敖瑞鹏又发红包了",
+      "onboard_time": 1752583401,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146137,
       "num": 146137,
       "word": "二手平台7元一斤卖充电宝",
       "onboard_time": 1752573143,
       "rank": 26,
       "category": "民生新闻,数码"
+    },
+    {
+      "raw_hot": 145359,
+      "num": 151273,
+      "word": "荣耀X70是犯天条了吗",
+      "onboard_time": 1752583162,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 145057,
@@ -1307,20 +1435,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 145022,
-      "num": 189908,
-      "word": "侯佩岑这才是撑得起大场面的美",
-      "onboard_time": 1752579501,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 144637,
       "num": 283535,
       "word": "龚俊把票房高的全选走了",
       "onboard_time": 1752558143,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144506,
+      "num": 144506,
+      "word": "祖玛珑直播",
+      "onboard_time": 1752582803,
+      "rank": 35,
+      "category": "时尚"
     },
     {
       "raw_hot": 143421,
@@ -1444,7 +1572,7 @@
     },
     {
       "raw_hot": 137766,
-      "num": 137766,
+      "num": 145601,
       "word": "河南烧烤模式热死了水塘里5只大鹅",
       "onboard_time": 1752570743,
       "rank": 35,
@@ -1483,6 +1611,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 135718,
+      "num": 152493,
+      "word": "咏梅顶级地母系美人",
+      "onboard_time": 1752582622,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135658,
       "num": 135658,
       "word": "雌雄同体的三花猫",
@@ -1505,6 +1641,14 @@
       "onboard_time": 1752560182,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134166,
+      "num": 134166,
+      "word": "深圳晚霞",
+      "onboard_time": 1752580582,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132989,
@@ -1587,6 +1731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128088,
+      "num": 128088,
+      "word": "李耕耘叔是不喜欢我们吗",
+      "onboard_time": 1752581901,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126947,
       "num": 126947,
       "word": "河北小伙花九年逆袭成千万网红",
@@ -1617,14 +1769,6 @@
       "onboard_time": 1752556101,
       "rank": 49,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 124968,
-      "num": 124968,
-      "word": "意外怀孕诱发罕见癌症女子发声",
-      "onboard_time": 1752579501,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 124524,
@@ -1811,6 +1955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 116327,
+      "num": 116327,
+      "word": "就吃梓渝这一套",
+      "onboard_time": 1752580162,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116153,
       "num": 145098,
       "word": "男鼓手吸毒去世竟是亲妈害的",
@@ -1907,6 +2059,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 112245,
+      "num": 112245,
+      "word": "周杰伦陪昆凌工作",
+      "onboard_time": 1752581481,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111014,
       "num": 113656,
       "word": "特朗普所谓重大声明揭晓",
@@ -1987,6 +2147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103786,
+      "num": 103786,
+      "word": "内娱第一对这么强婚后感的cp",
+      "onboard_time": 1752583641,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102814,
       "num": 185682,
       "word": "正当防卫大结局",
@@ -2001,6 +2169,14 @@
       "onboard_time": 1752509061,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 102025,
+      "num": 102025,
+      "word": "曹骏往那一站就是兵",
+      "onboard_time": 1752580343,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 101165,
@@ -2073,6 +2249,14 @@
       "onboard_time": 1752531375,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96199,
+      "num": 96199,
+      "word": "爱具有唯一性和排他性",
+      "onboard_time": 1752581122,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 95827,
@@ -2284,7 +2468,7 @@
     },
     {
       "raw_hot": 82287,
-      "num": 82287,
+      "num": 154721,
       "word": "余承恩出国不忘给侄女买礼物",
       "onboard_time": 1752576921,
       "rank": 49,
@@ -2377,6 +2561,14 @@
       "onboard_time": 1752567923,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 74659,
+      "num": 156690,
+      "word": "被砸摄像机记者发声",
+      "onboard_time": 1752582682,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74186,
@@ -2579,12 +2771,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47730,
+      "num": 146799,
+      "word": "杭州多学生流鼻血事件家长发声",
+      "onboard_time": 1752583281,
+      "rank": 33,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 47111,
       "num": 53951,
       "word": "侃爷上海演唱会主办方致歉",
       "onboard_time": 1752513077,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 46659,
+      "num": 151383,
+      "word": "昆虫学博士谈到底要不要灭绝蚊子",
+      "onboard_time": 1752583881,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45204,
@@ -2721,6 +2929,14 @@
       "onboard_time": 1752561202,
       "rank": 49,
       "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 27400,
+      "num": 595809,
+      "word": "上海与优质内容创作的双向奔赴",
+      "onboard_time": 1752584062,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26409,
