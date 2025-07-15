@@ -1,6 +1,6 @@
 {
   "startTime": 1752510927124,
-  "endTime": 1752590801123,
+  "endTime": 1752593344372,
   "band_list": [
     {
       "raw_hot": 5131686,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2329433,
-      "num": 338203,
+      "num": 344296,
       "word": "泰国女子与高僧发生关系后拍5600段视频",
       "onboard_time": 1752578842,
       "rank": 11,
@@ -73,6 +73,14 @@
       "onboard_time": 1752534258,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1383791,
+      "num": 499867,
+      "word": "朱正廷家里着火了",
+      "onboard_time": 1752590484,
+      "rank": 14,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 1365898,
@@ -209,6 +217,14 @@
       "onboard_time": 1752558082,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 774983,
+      "num": 344128,
+      "word": "陆毅鲍蕾太会养女儿了",
+      "onboard_time": 1752591143,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 759576,
@@ -379,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 486826,
+      "num": 486826,
+      "word": "日本地震",
+      "onboard_time": 1752591924,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 484817,
       "num": 1053437,
       "word": "王安宇不吃水里的所以只吃鸭头",
@@ -475,6 +499,14 @@
       "category": "民生新闻,数码"
     },
     {
+      "raw_hot": 406914,
+      "num": 343722,
+      "word": "相亲相到了个老式男友是什么体验",
+      "onboard_time": 1752589945,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 402726,
       "num": 402726,
       "word": "杭州地铁一男子爬进车厢吓跑乘客",
@@ -555,12 +587,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 344569,
+      "num": 344569,
+      "word": "刘宇宁在开直播 我在看刘宇宁",
+      "onboard_time": 1752590784,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 344013,
       "num": 247578,
       "word": "女孩因撞脸张柏芝全网走红",
       "onboard_time": 1752506242,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 343708,
+      "num": 343708,
+      "word": "山姆回应一女子脚踩取冰机内取冰",
+      "onboard_time": 1752590004,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 335117,
@@ -604,7 +652,7 @@
     },
     {
       "raw_hot": 305479,
-      "num": 305479,
+      "num": 325817,
       "word": "Alin开放点歌",
       "onboard_time": 1752587543,
       "rank": 41,
@@ -923,14 +971,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 219948,
-      "num": 219948,
-      "word": "朱正廷家里着火了",
-      "onboard_time": 1752590484,
-      "rank": 14,
-      "category": "艺人,民生新闻"
-    },
-    {
       "raw_hot": 218670,
       "num": 244459,
       "word": "印度男子婚宴上多要一块鸡肉被刺死",
@@ -948,7 +988,7 @@
     },
     {
       "raw_hot": 216268,
-      "num": 188586,
+      "num": 203405,
       "word": "素人镜头下的七七",
       "onboard_time": 1752590064,
       "rank": 23,
@@ -971,20 +1011,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 213799,
+      "num": 324741,
+      "word": "张云龙背后好大一夹子",
+      "onboard_time": 1752590484,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213636,
       "num": 213636,
       "word": "河南人早餐除了胡辣汤还吃啥",
       "onboard_time": 1752546980,
       "rank": 17,
       "category": "美食"
-    },
-    {
-      "raw_hot": 213010,
-      "num": 154701,
-      "word": "相亲相到了个老式男友是什么体验",
-      "onboard_time": 1752589945,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 212233,
@@ -1188,7 +1228,7 @@
     },
     {
       "raw_hot": 185571,
-      "num": 185571,
+      "num": 344433,
       "word": "下周就要生发现月子中心没了",
       "onboard_time": 1752589703,
       "rank": 25,
@@ -1273,6 +1313,14 @@
       "onboard_time": 1752548663,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 178733,
+      "num": 281821,
+      "word": "祝绪丹直播穿搭幻视朱迪",
+      "onboard_time": 1752592702,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 178258,
@@ -1393,6 +1441,14 @@
       "onboard_time": 1752554663,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 163933,
+      "num": 135726,
+      "word": "普通人买房后的真实感受",
+      "onboard_time": 1752591682,
+      "rank": 30,
+      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 160239,
@@ -1915,6 +1971,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 130380,
+      "num": 130380,
+      "word": "雅江地震",
+      "onboard_time": 1752592342,
+      "rank": 34,
+      "category": "突发/灾害,旅游"
+    },
+    {
       "raw_hot": 130285,
       "num": 130285,
       "word": "AHC",
@@ -2011,6 +2075,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 124541,
+      "num": 124541,
+      "word": "赵今麦新剧一生气就会变得毛茸茸",
+      "onboard_time": 1752591323,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124524,
       "num": 124524,
       "word": "秦彻daddy架狙",
@@ -2049,14 +2121,6 @@
       "onboard_time": 1752569304,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 123208,
-      "num": 123208,
-      "word": "刘宇宁在开直播 我在看刘宇宁",
-      "onboard_time": 1752590784,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 123188,
@@ -2195,14 +2259,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 119240,
-      "num": 119240,
-      "word": "张云龙背后好大一夹子",
-      "onboard_time": 1752590484,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 118811,
       "num": 118811,
       "word": "女性脱口秀",
@@ -2273,14 +2329,6 @@
       "onboard_time": 1752509481,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 115508,
-      "num": 126945,
-      "word": "山姆回应一女子脚踩取冰机内取冰",
-      "onboard_time": 1752590004,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115337,
@@ -2467,12 +2515,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102536,
+      "num": 102536,
+      "word": "胡先煦听不懂哥的梗但是听哥的话",
+      "onboard_time": 1752592403,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 102508,
+      "num": 102508,
+      "word": "秀动 乒超",
+      "onboard_time": 1752592702,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102496,
       "num": 102496,
       "word": "中方坚定支持建立东南亚无核武器区",
       "onboard_time": 1752509061,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 102326,
+      "num": 102326,
+      "word": "长大后才懂了大人开会的意义",
+      "onboard_time": 1752590064,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 102025,
@@ -2553,6 +2625,22 @@
       "onboard_time": 1752531375,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96963,
+      "num": 96963,
+      "word": "蒋敦豪出道九周年",
+      "onboard_time": 1752593302,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 96505,
+      "num": 96505,
+      "word": "焯水并不是简单的煮一下",
+      "onboard_time": 1752591682,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 96199,
@@ -2665,6 +2753,14 @@
       "onboard_time": 1752577701,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 89715,
+      "num": 333512,
+      "word": "殡仪馆回应招聘戏剧播音表演专业",
+      "onboard_time": 1752591863,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88731,
@@ -3163,6 +3259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40749,
+      "num": 273888,
+      "word": "律师称企业负责人摔记者摄像机已违法",
+      "onboard_time": 1752592883,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39263,
       "num": 215221,
       "word": "蛤蟆汤事件撤销处罚不是句号",
@@ -3243,6 +3347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32936,
+      "num": 509312,
+      "word": "亮出你的AI角色",
+      "onboard_time": 1752590904,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32209,
       "num": 32933,
       "word": "关晓彤你这是饭前吃还是饭后吃",
@@ -3312,6 +3424,14 @@
       "word": "河南一公交被指收取婴儿车车位费",
       "onboard_time": 1752585742,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25182,
+      "num": 121829,
+      "word": "高温误会",
+      "onboard_time": 1752591563,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
