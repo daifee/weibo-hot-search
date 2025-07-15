@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752608386093,
+  "endTime": 1752611452168,
   "band_list": [
     {
       "raw_hot": 14050966,
@@ -9691,6 +9691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49199,
+      "num": 49199,
+      "word": "特朗普向克宫发出戏剧化最后通牒",
+      "onboard_time": 1752606134,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 48438,
       "num": 105014,
       "word": "宋茜一眼妈妈再看是妹妹",
@@ -9937,14 +9945,6 @@
       "onboard_time": 1752477321,
       "rank": 39,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 34496,
-      "num": 34496,
-      "word": "特朗普向克宫发出戏剧化最后通牒",
-      "onboard_time": 1752606134,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 33881,
@@ -10401,6 +10401,14 @@
       "onboard_time": 1752517695,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 16423,
+      "num": 19939,
+      "word": "关晓彤减肥秘诀是断糖少吃多运动",
+      "onboard_time": 1752610094,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 16021,

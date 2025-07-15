@@ -1,6 +1,6 @@
 {
   "startTime": 1752597340557,
-  "endTime": 1752608386093,
+  "endTime": 1752611452168,
   "band_list": [
     {
       "raw_hot": 1169013,
@@ -435,20 +435,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 49199,
+      "num": 49199,
+      "word": "特朗普向克宫发出戏剧化最后通牒",
+      "onboard_time": 1752606134,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 42764,
       "num": 47164,
       "word": "梓渝内娱唯一线面塑",
       "onboard_time": 1752598399,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 34496,
-      "num": 34496,
-      "word": "特朗普向克宫发出戏剧化最后通牒",
-      "onboard_time": 1752606134,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 33488,
@@ -505,6 +505,14 @@
       "onboard_time": 1752602956,
       "rank": 29,
       "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 16423,
+      "num": 19939,
+      "word": "关晓彤减肥秘诀是断糖少吃多运动",
+      "onboard_time": 1752610094,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 12422,
