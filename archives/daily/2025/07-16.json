@@ -1,6 +1,6 @@
 {
   "startTime": 1752597340557,
-  "endTime": 1752615685389,
+  "endTime": 1752618477176,
   "band_list": [
     {
       "raw_hot": 1169013,
@@ -339,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 74836,
+      "num": 74836,
+      "word": "坐后备箱男孩亲妈称被要求赔偿30万",
+      "onboard_time": 1752613094,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72973,
       "num": 72973,
       "word": "70岁女子骗老汉70万宁愿坐牢不退钱",
@@ -353,6 +361,14 @@
       "onboard_time": 1752590123,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 71813,
+      "num": 71813,
+      "word": "特朗普向克宫发出戏剧化最后通牒",
+      "onboard_time": 1752606134,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 70001,
@@ -435,12 +451,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 49199,
-      "num": 49199,
-      "word": "特朗普向克宫发出戏剧化最后通牒",
-      "onboard_time": 1752606134,
-      "rank": 18,
-      "category": "国际时政"
+      "raw_hot": 52421,
+      "num": 52421,
+      "word": "黄仁勋回应大热天穿皮夹克",
+      "onboard_time": 1752613153,
+      "rank": 10,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 50168,
+      "num": 59554,
+      "word": "演员房子斌杨雨婷回应女儿高考成绩",
+      "onboard_time": 1752613153,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 42764,
@@ -467,27 +491,11 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 30303,
-      "num": 30303,
-      "word": "坐后备箱男孩亲妈称被要求赔偿30万",
-      "onboard_time": 1752613094,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 29510,
       "num": 31704,
       "word": "火星哥感谢Rose",
       "onboard_time": 1752603556,
       "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 29048,
-      "num": 23383,
-      "word": "演员房子斌杨雨婷回应女儿高考成绩",
-      "onboard_time": 1752613153,
-      "rank": 30,
       "category": "艺人"
     },
     {
@@ -499,12 +507,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 28099,
-      "num": 37390,
-      "word": "黄仁勋回应大热天穿皮夹克",
-      "onboard_time": 1752613153,
-      "rank": 10,
-      "category": "国内时政"
+      "raw_hot": 26512,
+      "num": 26512,
+      "word": "关晓彤减肥秘诀是断糖少吃多运动",
+      "onboard_time": 1752610094,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 24246,
+      "num": 26490,
+      "word": "美国将通过北约向乌提供军事援助",
+      "onboard_time": 1752616034,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 22479,
@@ -529,14 +545,6 @@
       "onboard_time": 1752602956,
       "rank": 29,
       "category": "国内时政,民生新闻"
-    },
-    {
-      "raw_hot": 18597,
-      "num": 20682,
-      "word": "关晓彤减肥秘诀是断糖少吃多运动",
-      "onboard_time": 1752610094,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 12422,
