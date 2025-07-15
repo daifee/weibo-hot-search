@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752589617418,
+  "endTime": 1752590801123,
   "band_list": [
     {
       "raw_hot": 14050966,
@@ -651,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 876328,
+      "num": 876328,
+      "word": "赵露思直播",
+      "onboard_time": 1752586762,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 872556,
       "num": 872556,
       "word": "鹿晗分享撕拉片",
@@ -873,14 +881,6 @@
       "onboard_time": 1752465682,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 695165,
-      "num": 695165,
-      "word": "赵露思直播",
-      "onboard_time": 1752586762,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 694014,
@@ -1379,6 +1379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 499090,
+      "num": 499090,
+      "word": "杭州多学生流鼻血事件家长发声",
+      "onboard_time": 1752583281,
+      "rank": 33,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 498924,
       "num": 247252,
       "word": "金世佳增肥了吗",
@@ -1577,14 +1585,6 @@
       "onboard_time": 1752545421,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 450670,
-      "num": 450670,
-      "word": "杭州多学生流鼻血事件家长发声",
-      "onboard_time": 1752583281,
-      "rank": 33,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 449275,
@@ -2219,6 +2219,14 @@
       "category": "作品衍生,综艺"
     },
     {
+      "raw_hot": 305479,
+      "num": 305479,
+      "word": "Alin开放点歌",
+      "onboard_time": 1752587543,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 305357,
       "num": 305357,
       "word": "李幼贞在现代重生的样子",
@@ -2289,6 +2297,14 @@
       "onboard_time": 1752483742,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 299196,
+      "num": 299196,
+      "word": "王楚钦帅得好权威",
+      "onboard_time": 1752589224,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 298173,
@@ -2931,6 +2947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 239536,
+      "num": 239536,
+      "word": "中医说一天中4个时段不建议洗头",
+      "onboard_time": 1752582682,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 239449,
       "num": 239449,
       "word": "国乒参加纪念中美乒乓外交活动",
@@ -3033,22 +3057,6 @@
       "onboard_time": 1752464002,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 230216,
-      "num": 218483,
-      "word": "中医说一天中4个时段不建议洗头",
-      "onboard_time": 1752582682,
-      "rank": 24,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 230059,
-      "num": 230059,
-      "word": "Alin开放点歌",
-      "onboard_time": 1752587543,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 227836,
@@ -3155,6 +3163,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 219948,
+      "num": 219948,
+      "word": "朱正廷家里着火了",
+      "onboard_time": 1752590484,
+      "rank": 14,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 218670,
       "num": 244459,
       "word": "印度男子婚宴上多要一块鸡肉被刺死",
@@ -3171,14 +3187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 217426,
-      "num": 217426,
-      "word": "王楚钦帅得好权威",
-      "onboard_time": 1752589224,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 216821,
       "num": 216821,
       "word": "梓渝爱豆时期",
@@ -3193,6 +3201,14 @@
       "onboard_time": 1752586943,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 216268,
+      "num": 188586,
+      "word": "素人镜头下的七七",
+      "onboard_time": 1752590064,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 216232,
@@ -3331,6 +3347,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 213010,
+      "num": 154701,
+      "word": "相亲相到了个老式男友是什么体验",
+      "onboard_time": 1752589945,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 212961,
       "num": 212961,
       "word": "杭州一小学有家长称多名孩子流鼻血",
@@ -3441,6 +3465,14 @@
       "onboard_time": 1752491183,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208205,
+      "num": 218251,
+      "word": "特朗普曾问泽连斯基能否打击莫斯科",
+      "onboard_time": 1752585503,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 207660,
@@ -3939,6 +3971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188481,
+      "num": 188481,
+      "word": "smtr25",
+      "onboard_time": 1752589644,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188459,
       "num": 184282,
       "word": "林俊杰演唱会偶遇杨洋",
@@ -4051,6 +4091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185571,
+      "num": 185571,
+      "word": "下周就要生发现月子中心没了",
+      "onboard_time": 1752589703,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 185477,
       "num": 185477,
       "word": "GEN战胜T1",
@@ -4129,6 +4177,14 @@
       "onboard_time": 1752410783,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184163,
+      "num": 184163,
+      "word": "洛杉矶奥运会首金是美国队强项",
+      "onboard_time": 1752587121,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 183956,
@@ -4451,14 +4507,6 @@
       "category": "游戏,动漫"
     },
     {
-      "raw_hot": 172904,
-      "num": 172904,
-      "word": "洛杉矶奥运会首金是美国队强项",
-      "onboard_time": 1752587121,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 172681,
       "num": 172681,
       "word": "蛤蟆汤",
@@ -4657,14 +4705,6 @@
       "onboard_time": 1752397701,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 168224,
-      "num": 218251,
-      "word": "特朗普曾问泽连斯基能否打击莫斯科",
-      "onboard_time": 1752585503,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 168057,
@@ -5635,6 +5675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144632,
+      "num": 144632,
+      "word": "拼命减肥的人看这个视频两眼一黑",
+      "onboard_time": 1752590123,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 144506,
       "num": 144506,
       "word": "祖玛珑直播",
@@ -5945,6 +5993,14 @@
       "onboard_time": 1752467004,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139431,
+      "num": 139431,
+      "word": "密室逃脱玩家被撞倒致十级伤残",
+      "onboard_time": 1752590544,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139397,
@@ -6811,6 +6867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123208,
+      "num": 123208,
+      "word": "刘宇宁在开直播 我在看刘宇宁",
+      "onboard_time": 1752590784,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123188,
       "num": 191762,
       "word": "男子为爱放弃房产又为学区房告父母",
@@ -7139,6 +7203,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 119240,
+      "num": 119240,
+      "word": "张云龙背后好大一夹子",
+      "onboard_time": 1752590484,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119138,
       "num": 119138,
       "word": "女职工们为何没休过痛经假",
@@ -7363,6 +7435,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 115687,
+      "num": 115687,
+      "word": "CP2025SP",
+      "onboard_time": 1752590724,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 115587,
       "num": 115587,
       "word": "这种胃癌偏爱年轻人",
@@ -7385,6 +7465,14 @@
       "onboard_time": 1752316041,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 115508,
+      "num": 126945,
+      "word": "山姆回应一女子脚踩取冰机内取冰",
+      "onboard_time": 1752590004,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115337,
@@ -7777,6 +7865,14 @@
       "onboard_time": 1752402321,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107803,
+      "num": 107803,
+      "word": "钎城进入KPL击杀榜前五",
+      "onboard_time": 1752590064,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 107577,
@@ -9081,6 +9177,14 @@
       "onboard_time": 1752396800,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62771,
+      "num": 195133,
+      "word": "一人一句话祝福中国航天",
+      "onboard_time": 1752590184,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 62623,
