@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752604795677,
+  "endTime": 1752605652038,
   "band_list": [
     {
       "raw_hot": 14050966,
@@ -10083,6 +10083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28131,
+      "num": 31704,
+      "word": "火星哥感谢Rose",
+      "onboard_time": 1752603556,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27185,
       "num": 27185,
       "word": "汪苏泷唱了不甜情歌",
@@ -10105,14 +10113,6 @@
       "onboard_time": 1752465682,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27014,
-      "num": 27014,
-      "word": "火星哥感谢Rose",
-      "onboard_time": 1752603556,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 26690,
@@ -10353,6 +10353,14 @@
       "onboard_time": 1752344297,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18916,
+      "num": 31012,
+      "word": "建设现代化人民城市有6个关键词",
+      "onboard_time": 1752602956,
+      "rank": 29,
+      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 18616,
