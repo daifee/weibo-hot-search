@@ -1,6 +1,6 @@
 {
   "startTime": 1752510927124,
-  "endTime": 1752572140835,
+  "endTime": 1752573026312,
   "band_list": [
     {
       "raw_hot": 5131686,
@@ -57,6 +57,14 @@
       "onboard_time": 1752534258,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1365898,
+      "num": 1365898,
+      "word": "向佐被曝欠赌债未还",
+      "onboard_time": 1752571703,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1262314,
@@ -145,14 +153,6 @@
       "onboard_time": 1752554182,
       "rank": 13,
       "category": "网红"
-    },
-    {
-      "raw_hot": 908611,
-      "num": 485052,
-      "word": "向佐被曝欠赌债未还",
-      "onboard_time": 1752571703,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 873195,
@@ -563,20 +563,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 256382,
+      "num": 256382,
+      "word": "关晓彤说今天不是绿化带",
+      "onboard_time": 1752571041,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 256316,
       "num": 282218,
       "word": "王星越对白鹿又爱又恨",
       "onboard_time": 1752561383,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 255673,
-      "num": 255673,
-      "word": "关晓彤说今天不是绿化带",
-      "onboard_time": 1752571041,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 252103,
@@ -867,6 +867,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 182508,
+      "num": 182508,
+      "word": "赵今麦张凌赫家属感好强",
+      "onboard_time": 1752569484,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182299,
       "num": 182299,
       "word": "未定事件簿兑换码",
@@ -1003,14 +1011,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 164004,
-      "num": 164004,
-      "word": "赵今麦张凌赫家属感好强",
-      "onboard_time": 1752569484,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 159290,
       "num": 159290,
       "word": "敖瑞鹏自己化的战损妆",
@@ -1115,6 +1115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149851,
+      "num": 149851,
+      "word": "顾客称吃苏州糖水发现餐具内增高",
+      "onboard_time": 1752572603,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148239,
       "num": 148239,
       "word": "10万块装修300平房子的效果",
@@ -1129,6 +1137,14 @@
       "onboard_time": 1752512777,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 145675,
+      "num": 200922,
+      "word": "歌手本期补位预告",
+      "onboard_time": 1752571522,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 145057,
@@ -1331,6 +1347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132102,
+      "num": 132102,
+      "word": "秦昊新剧高压锅制毒",
+      "onboard_time": 1752572062,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131057,
       "num": 131057,
       "word": "减肥和减脂大有不同",
@@ -1411,14 +1435,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 126661,
-      "num": 126661,
-      "word": "歌手本期补位预告",
-      "onboard_time": 1752571522,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 126148,
       "num": 126148,
       "word": "刘轩丞高中旧照",
@@ -1472,6 +1488,22 @@
       "word": "蛤蟆汤事件当事人满意处理结果",
       "onboard_time": 1752568342,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123480,
+      "num": 123480,
+      "word": "汪苏泷私下给李雪琴李嘉琦晒腹肌",
+      "onboard_time": 1752569304,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 123188,
+      "num": 191762,
+      "word": "男子为爱放弃房产又为学区房告父母",
+      "onboard_time": 1752571283,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1699,14 +1731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 109556,
-      "num": 109556,
-      "word": "汪苏泷私下给李雪琴李嘉琦晒腹肌",
-      "onboard_time": 1752569304,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 109038,
       "num": 450344,
       "word": "和李昀锐舒舒服服度个小假",
@@ -1819,20 +1843,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 96926,
-      "num": 96926,
-      "word": "秦昊新剧高压锅制毒",
-      "onboard_time": 1752572062,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 95827,
       "num": 95827,
       "word": "全员加速中任务从天而降",
       "onboard_time": 1752543980,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 95253,
+      "num": 95253,
+      "word": "迪士尼没骗我 真的有动画小狗",
+      "onboard_time": 1752572302,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 94957,
@@ -1889,6 +1913,22 @@
       "onboard_time": 1752503484,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 90930,
+      "num": 90930,
+      "word": "那年单依纯齐刘海",
+      "onboard_time": 1752572902,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 89148,
+      "num": 256397,
+      "word": "打砸记者摄像机负责人称冲动了",
+      "onboard_time": 1752571883,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88731,
@@ -2171,19 +2211,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 57941,
-      "num": 167901,
-      "word": "打砸记者摄像机负责人称冲动了",
-      "onboard_time": 1752571883,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 56155,
       "num": 210430,
       "word": "职校入学须知上写自费买床和据子",
       "onboard_time": 1752558143,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56075,
+      "num": 285511,
+      "word": "山姆小程序被质疑去除商品标识",
+      "onboard_time": 1752572483,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -2307,14 +2347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 34836,
-      "num": 191762,
-      "word": "男子为爱放弃房产又为学区房告父母",
-      "onboard_time": 1752571283,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 33881,
       "num": 146596,
       "word": "湖北再婚与初婚同享15天婚假",
@@ -2363,6 +2395,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 27389,
+      "num": 136945,
+      "word": "前员工称在山姆工作跟干苦力一样",
+      "onboard_time": 1752572483,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26221,
       "num": 105730,
       "word": "扬声器吹灭蜡烛的原理",
@@ -2391,6 +2431,14 @@
       "num": 212499,
       "word": "户口未迁出前妻打官司赢回征地款",
       "onboard_time": 1752567743,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20167,
+      "num": 197931,
+      "word": "记者机器被砸价值超4万元",
+      "onboard_time": 1752572483,
       "rank": 19,
       "category": "民生新闻"
     },
