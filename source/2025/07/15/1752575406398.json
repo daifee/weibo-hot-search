@@ -1,0 +1,410 @@
+{
+  "runTime": 1752575406398,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1269765,
+        "num": 1269765,
+        "word": "向佐被曝欠赌债未还",
+        "onboard_time": 1752571703,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 737656,
+        "num": 737656,
+        "word": "国足中国香港冲突",
+        "onboard_time": 1752574762,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39929,
+        "num": 725716,
+        "word": "2025上半年GDP同比增长5.3%",
+        "onboard_time": 1752546081,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 715628,
+        "num": 715628,
+        "word": "赵立坚发了迪丽热巴",
+        "onboard_time": 1752571463,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 685175,
+        "num": 685175,
+        "word": "佛山顺德区确诊478例基孔肯雅热",
+        "onboard_time": 1752574042,
+        "rank": 4,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 433192,
+        "num": 433192,
+        "word": "网友曝山姆将品牌盼盼改为PANPAN",
+        "onboard_time": 1752568943,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 387720,
+        "num": 387720,
+        "word": "顾客称吃苏州糖水发现餐具内增高",
+        "onboard_time": 1752572603,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 385316,
+        "num": 385316,
+        "word": "男孩与亲爸后妈远行坐后备箱数小时",
+        "onboard_time": 1752565342,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369142,
+        "num": 369142,
+        "word": "歌手本期补位预告",
+        "onboard_time": 1752571522,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361351,
+        "num": 361351,
+        "word": "关晓彤说今天不是绿化带",
+        "onboard_time": 1752571041,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331785,
+        "num": 331785,
+        "word": "25岁女生痛经十几年决定停经",
+        "onboard_time": 1752560242,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236228,
+        "num": 236228,
+        "word": "艾米 美炸了",
+        "onboard_time": 1752568103,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231722,
+        "num": 231722,
+        "word": "女子垃圾堆捡22个金镯价值近40万",
+        "onboard_time": 1752565641,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217718,
+        "num": 217718,
+        "word": "罗马仕最新声明",
+        "onboard_time": 1752568342,
+        "rank": 13,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 44949,
+        "num": 206703,
+        "word": "有会员说山姆选品调整后决定不续卡",
+        "onboard_time": 1752573742,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206182,
+        "num": 206182,
+        "word": "打砸记者摄像机负责人称冲动了",
+        "onboard_time": 1752571883,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201136,
+        "num": 201136,
+        "word": "中国记协回应记者采访时设备被砸碎",
+        "onboard_time": 1752569963,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64673,
+        "num": 197153,
+        "word": "山姆小程序被质疑去除商品标识",
+        "onboard_time": 1752572483,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149838,
+        "num": 195463,
+        "word": "网传徐祥去世消息不实",
+        "onboard_time": 1752573983,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26409,
+        "num": 184902,
+        "word": "山姆客服回应口碑商品会再上架吗",
+        "onboard_time": 1752570325,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1460679,
+        "num": 181504,
+        "word": "董璇再婚",
+        "onboard_time": 1752566721,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212387,
+        "num": 178602,
+        "word": "夏天开车真的不要没苦硬吃",
+        "onboard_time": 1752570083,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173251,
+        "num": 173251,
+        "word": "山姆拿什么留住百万会员",
+        "onboard_time": 1752565162,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160716,
+        "num": 160716,
+        "word": "赵今麦造型师审美",
+        "onboard_time": 1752568823,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155336,
+        "num": 155336,
+        "word": "热热热我热热热",
+        "onboard_time": 1752552442,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152366,
+        "num": 152366,
+        "word": "爱奇艺Q3预排",
+        "onboard_time": 1752573441,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146137,
+        "num": 146137,
+        "word": "二手平台7元一斤卖充电宝",
+        "onboard_time": 1752573143,
+        "rank": 26,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 139986,
+        "num": 139986,
+        "word": "Angelababy带小海绵回香港",
+        "onboard_time": 1752571224,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125375,
+        "num": 125375,
+        "word": "河南烧烤模式热死了水塘里5只大鹅",
+        "onboard_time": 1752570743,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119332,
+        "num": 119332,
+        "word": "中方回应英伟达将向中国销售H20芯片",
+        "onboard_time": 1752574042,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 178258,
+        "num": 118910,
+        "word": "联合国核查韩国申遗项目",
+        "onboard_time": 1752574762,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 148977,
+        "num": 117522,
+        "word": "银行2.5亿存款丢失案将开庭",
+        "onboard_time": 1752575303,
+        "rank": 31,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 114789,
+        "num": 114789,
+        "word": "李兰迪瘦了好多",
+        "onboard_time": 1752563542,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110956,
+        "num": 110956,
+        "word": "多名孩子流鼻血小学附近有工厂",
+        "onboard_time": 1752570144,
+        "rank": 33,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 105708,
+        "num": 105708,
+        "word": "中方回应特朗普称对俄征100%关税",
+        "onboard_time": 1752570502,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 105238,
+        "num": 105238,
+        "word": "小儿子吐槽白百何挡自己镜头",
+        "onboard_time": 1752567502,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83494,
+        "num": 104827,
+        "word": "以为宋佳染黄毛了",
+        "onboard_time": 1752573022,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104617,
+        "num": 104617,
+        "word": "赵今麦张凌赫家属感好强",
+        "onboard_time": 1752569484,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102639,
+        "num": 102639,
+        "word": "Alin官宣补位",
+        "onboard_time": 1752575303,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97601,
+        "num": 97601,
+        "word": "这是41岁的唐嫣",
+        "onboard_time": 1752559223,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95272,
+        "num": 95272,
+        "word": "那年单依纯齐刘海",
+        "onboard_time": 1752572902,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 506541,
+        "num": 94757,
+        "word": "他甚至连求婚戒指都准备了四枚",
+        "onboard_time": 1752550582,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94093,
+        "num": 94093,
+        "word": "七七",
+        "onboard_time": 1752554303,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 91179,
+        "num": 91179,
+        "word": "江浙沪 沪苏浙",
+        "onboard_time": 1752546441,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87215,
+        "num": 87215,
+        "word": "李敏镐发了全智贤",
+        "onboard_time": 1752554543,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86565,
+        "num": 86565,
+        "word": "迪士尼没骗我 真的有动画小狗",
+        "onboard_time": 1752572302,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82984,
+        "num": 82984,
+        "word": "江西辣度",
+        "onboard_time": 1752574941,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 82941,
+        "num": 82941,
+        "word": "王安宇不吃水里的所以只吃鸭头",
+        "onboard_time": 1752561261,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79850,
+        "num": 79850,
+        "word": "法国庆阅兵士兵自己刀自己",
+        "onboard_time": 1752565162,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 77107,
+        "num": 78799,
+        "word": "王者荣耀",
+        "onboard_time": 1752558862,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央城市工作会议在北京举行#"
+    }
+  }
+}

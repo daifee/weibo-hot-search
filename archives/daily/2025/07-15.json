@@ -1,6 +1,6 @@
 {
   "startTime": 1752510927124,
-  "endTime": 1752573026312,
+  "endTime": 1752575406398,
   "band_list": [
     {
       "raw_hot": 5131686,
@@ -179,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 737656,
+      "num": 737656,
+      "word": "国足中国香港冲突",
+      "onboard_time": 1752574762,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 720844,
       "num": 720844,
       "word": "男孩与亲爸后妈远行坐后备箱数小时",
@@ -193,6 +201,14 @@
       "onboard_time": 1752505164,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 685175,
+      "num": 685175,
+      "word": "佛山顺德区确诊478例基孔肯雅热",
+      "onboard_time": 1752574042,
+      "rank": 4,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 661954,
@@ -347,20 +363,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 433192,
+      "num": 433192,
+      "word": "网友曝山姆将品牌盼盼改为PANPAN",
+      "onboard_time": 1752568943,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 429449,
       "num": 429449,
       "word": "罗马仕最新声明",
       "onboard_time": 1752568342,
       "rank": 21,
       "category": "民生新闻,数码"
-    },
-    {
-      "raw_hot": 414504,
-      "num": 414504,
-      "word": "网友曝山姆将品牌盼盼改为PANPAN",
-      "onboard_time": 1752568943,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 402726,
@@ -379,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 387720,
+      "num": 387720,
+      "word": "顾客称吃苏州糖水发现餐具内增高",
+      "onboard_time": 1752572603,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 376758,
       "num": 437067,
       "word": "西班牙1180人因高温死亡",
@@ -387,8 +411,24 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 369142,
+      "num": 369142,
+      "word": "歌手本期补位预告",
+      "onboard_time": 1752571522,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 361351,
+      "num": 361351,
+      "word": "关晓彤说今天不是绿化带",
+      "onboard_time": 1752571041,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 356474,
-      "num": 699952,
+      "num": 725716,
       "word": "2025上半年GDP同比增长5.3%",
       "onboard_time": 1752546081,
       "rank": 9,
@@ -563,14 +603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 256382,
-      "num": 256382,
-      "word": "关晓彤说今天不是绿化带",
-      "onboard_time": 1752571041,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 256316,
       "num": 282218,
       "word": "王星越对白鹿又爱又恨",
@@ -705,6 +737,14 @@
       "onboard_time": 1752558562,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206182,
+      "num": 256397,
+      "word": "打砸记者摄像机负责人称冲动了",
+      "onboard_time": 1752571883,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 205301,
@@ -899,6 +939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 178258,
+      "num": 118910,
+      "word": "联合国核查韩国申遗项目",
+      "onboard_time": 1752574762,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 177523,
       "num": 177523,
       "word": "格陵兰居民一觉醒来冰山漂到家门口",
@@ -1075,6 +1123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 152366,
+      "num": 152366,
+      "word": "爱奇艺Q3预排",
+      "onboard_time": 1752573441,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152136,
       "num": 335306,
       "word": "山姆门店称暂无会员要求退卡",
@@ -1115,12 +1171,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 149851,
-      "num": 149851,
-      "word": "顾客称吃苏州糖水发现餐具内增高",
-      "onboard_time": 1752572603,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 149838,
+      "num": 195463,
+      "word": "网传徐祥去世消息不实",
+      "onboard_time": 1752573983,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 148977,
+      "num": 117522,
+      "word": "银行2.5亿存款丢失案将开庭",
+      "onboard_time": 1752575303,
+      "rank": 31,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 148239,
@@ -1139,12 +1203,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 145675,
-      "num": 200922,
-      "word": "歌手本期补位预告",
-      "onboard_time": 1752571522,
-      "rank": 34,
-      "category": "综艺"
+      "raw_hot": 146137,
+      "num": 146137,
+      "word": "二手平台7元一斤卖充电宝",
+      "onboard_time": 1752573143,
+      "rank": 26,
+      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 145057,
@@ -1595,6 +1659,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 119332,
+      "num": 119332,
+      "word": "中方回应英伟达将向中国销售H20芯片",
+      "onboard_time": 1752574042,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 118811,
       "num": 118811,
       "word": "女性脱口秀",
@@ -1771,6 +1843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102639,
+      "num": 102639,
+      "word": "Alin官宣补位",
+      "onboard_time": 1752575303,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102496,
       "num": 102496,
       "word": "中方坚定支持建立东南亚无核武器区",
@@ -1851,6 +1931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95272,
+      "num": 95272,
+      "word": "那年单依纯齐刘海",
+      "onboard_time": 1752572902,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95253,
       "num": 95253,
       "word": "迪士尼没骗我 真的有动画小狗",
@@ -1913,22 +2001,6 @@
       "onboard_time": 1752503484,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 90930,
-      "num": 90930,
-      "word": "那年单依纯齐刘海",
-      "onboard_time": 1752572902,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 89148,
-      "num": 256397,
-      "word": "打砸记者摄像机负责人称冲动了",
-      "onboard_time": 1752571883,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88731,
@@ -1995,6 +2067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83494,
+      "num": 104827,
+      "word": "以为宋佳染黄毛了",
+      "onboard_time": 1752573022,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 83305,
       "num": 83305,
       "word": "官方辟谣丢儿童表女游客为法院干部",
@@ -2017,6 +2097,14 @@
       "onboard_time": 1752538581,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82984,
+      "num": 82984,
+      "word": "江西辣度",
+      "onboard_time": 1752574941,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 80501,
@@ -2179,6 +2267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64673,
+      "num": 285511,
+      "word": "山姆小程序被质疑去除商品标识",
+      "onboard_time": 1752572483,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62208,
       "num": 62208,
       "word": "韩安冉否认虐狗",
@@ -2216,14 +2312,6 @@
       "word": "职校入学须知上写自费买床和据子",
       "onboard_time": 1752558143,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 56075,
-      "num": 285511,
-      "word": "山姆小程序被质疑去除商品标识",
-      "onboard_time": 1752572483,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -2281,6 +2369,14 @@
       "onboard_time": 1752528194,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 44949,
+      "num": 206703,
+      "word": "有会员说山姆选品调整后决定不续卡",
+      "onboard_time": 1752573742,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42957,
@@ -2400,6 +2496,14 @@
       "word": "前员工称在山姆工作跟干苦力一样",
       "onboard_time": 1752572483,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26409,
+      "num": 184902,
+      "word": "山姆客服回应口碑商品会再上架吗",
+      "onboard_time": 1752570325,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
