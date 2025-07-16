@@ -1,0 +1,410 @@
+{
+  "runTime": 1752673399194,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7827895,
+        "num": 7827895,
+        "word": "黄杨某甜有关问题最新通报",
+        "onboard_time": 1752666082,
+        "rank": 0,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 648423,
+        "num": 648423,
+        "word": "小时候常吃的水果消失了",
+        "onboard_time": 1752661462,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 2288,
+        "num": 364266,
+        "word": "建设现代化人民城市有6个关键词",
+        "onboard_time": 1752602956,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330223,
+        "num": 330223,
+        "word": "外卖大战一茶饮店3成订单成废单",
+        "onboard_time": 1752666443,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1746888,
+        "num": 308067,
+        "word": "黄杨钿甜母亲发声",
+        "onboard_time": 1752670343,
+        "rank": 4,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 546333,
+        "num": 306880,
+        "word": "警方通报3名高中生赴西双版纳后失联",
+        "onboard_time": 1752660680,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 457764,
+        "num": 295672,
+        "word": "阿娇打电话质问吴京",
+        "onboard_time": 1752665902,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279444,
+        "num": 279444,
+        "word": "生父回应让男孩坐后备箱称不会道歉",
+        "onboard_time": 1752656242,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165320,
+        "num": 274948,
+        "word": "印度大规模猥亵事件478人被捕",
+        "onboard_time": 1752672923,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 596254,
+        "num": 271810,
+        "word": "黄杨钿甜父亲故意隐瞒违法生二孩",
+        "onboard_time": 1752672562,
+        "rank": 9,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 72514,
+        "num": 269157,
+        "word": "吴英杰受贿3.43亿余元被判死缓",
+        "onboard_time": 1752663561,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 515514,
+        "num": 260074,
+        "word": "田栩宁ins更新了",
+        "onboard_time": 1752667764,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402452,
+        "num": 254921,
+        "word": "边牧手术失败被医院开车撞死",
+        "onboard_time": 1752661401,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290301,
+        "num": 251450,
+        "word": "歌手歌单",
+        "onboard_time": 1752668903,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161883,
+        "num": 245017,
+        "word": "中方回应北约威胁对中国等二级制裁",
+        "onboard_time": 1752668064,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 243991,
+        "num": 243991,
+        "word": "杨紫当年的梗现在还能笑",
+        "onboard_time": 1752671061,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222448,
+        "num": 222448,
+        "word": "特斯拉ModelYL预估售价40万",
+        "onboard_time": 1752673223,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 204625,
+        "num": 204625,
+        "word": "新丽开机率",
+        "onboard_time": 1752667646,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203775,
+        "num": 203775,
+        "word": "钟美美说爸爸不喜欢我总打我",
+        "onboard_time": 1752670883,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 159790,
+        "num": 159790,
+        "word": "男子在泰遭撕票抛尸遇害前身影曝光",
+        "onboard_time": 1752658161,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226716,
+        "num": 159598,
+        "word": "梓渝一个月涨粉500w",
+        "onboard_time": 1752667824,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196969,
+        "num": 159048,
+        "word": "田栩宁美拉德穿搭",
+        "onboard_time": 1752672743,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178764,
+        "num": 158841,
+        "word": "庆余年老金头你糊涂啊",
+        "onboard_time": 1752670883,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158160,
+        "num": 158160,
+        "word": "华东理工突袭宿舍收缴学生充电宝",
+        "onboard_time": 1752666502,
+        "rank": 23,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 151538,
+        "num": 151538,
+        "word": "孙颖莎抵达北京德华陪在身后",
+        "onboard_time": 1752668183,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150513,
+        "num": 150513,
+        "word": "张小婉浪姐毕业后咋美成这样了",
+        "onboard_time": 1752662961,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142177,
+        "num": 142177,
+        "word": "迪丽热巴枭起青壤剧宣",
+        "onboard_time": 1752663741,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138224,
+        "num": 138224,
+        "word": "西安 玻璃热爆",
+        "onboard_time": 1752659542,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137167,
+        "num": 137167,
+        "word": "中国女篮vs新西兰女篮",
+        "onboard_time": 1752671603,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28511,
+        "num": 136102,
+        "word": "商家称遭买家衣服里藏针讹1000元",
+        "onboard_time": 1752672142,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141813,
+        "num": 135968,
+        "word": "西瓜意外摔碎一家三口就地开吃",
+        "onboard_time": 1752673343,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135585,
+        "num": 135585,
+        "word": "白鹿短裙高跟鞋",
+        "onboard_time": 1752669864,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131046,
+        "num": 131046,
+        "word": "金价",
+        "onboard_time": 1752637882,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 322595,
+        "num": 130536,
+        "word": "黄杨钿甜230万耳环实际不超300元",
+        "onboard_time": 1752671662,
+        "rank": 33,
+        "category": "艺人,舆论监督"
+      },
+      {
+        "raw_hot": 129364,
+        "num": 129364,
+        "word": "官方呼吁不要对16岁产妇二次伤害",
+        "onboard_time": 1752673042,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26101,
+        "num": 123307,
+        "word": "320万拍尾号8个7靓号只有使用权",
+        "onboard_time": 1752673284,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123044,
+        "num": 123044,
+        "word": "李雪琴瘦身后主持首秀",
+        "onboard_time": 1752664761,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112577,
+        "num": 112577,
+        "word": "于正签的上一个未成年素人是宋威龙",
+        "onboard_time": 1752651441,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109759,
+        "num": 109759,
+        "word": "柴高潮被逮捕",
+        "onboard_time": 1752671843,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109750,
+        "num": 109750,
+        "word": "长期开空调易导致空调病",
+        "onboard_time": 1752659182,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 99812,
+        "num": 99812,
+        "word": "鸡蛋羹 拌饭",
+        "onboard_time": 1752651682,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96465,
+        "num": 96465,
+        "word": "朝雪录",
+        "onboard_time": 1752657981,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46759,
+        "num": 92281,
+        "word": "关税战没有赢家胁迫施压解决不了问题",
+        "onboard_time": 1752663202,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 17078,
+        "num": 92138,
+        "word": "女子用餐后放蚂蚁要求店家免单",
+        "onboard_time": 1752673343,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92087,
+        "num": 92087,
+        "word": "梓渝i人是你们e人的玩具吧",
+        "onboard_time": 1752668004,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88893,
+        "num": 88893,
+        "word": "山姆母公司回应选品问题",
+        "onboard_time": 1752656841,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88425,
+        "num": 88425,
+        "word": "董璇对张凌赫钱包余额般的耐心",
+        "onboard_time": 1752669984,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87574,
+        "num": 87574,
+        "word": "男子被骗缅甸有民警称能18万捞人",
+        "onboard_time": 1752670522,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86984,
+        "num": 86984,
+        "word": "高温天请避开这些误区",
+        "onboard_time": 1752673103,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86469,
+        "num": 86469,
+        "word": "黄仁勋称华为AI芯片将取代英伟达",
+        "onboard_time": 1752673343,
+        "rank": 49,
+        "category": "互联网,数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#青年学生习近平的一次农村调研#"
+    }
+  }
+}
