@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1752666035289,
+  "endTime": 1752670606147,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -865,6 +865,14 @@
       "onboard_time": 1737391036,
       "rank": 0,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 10128223,
+      "num": 10128223,
+      "word": "黄杨某甜有关问题最新通报",
+      "onboard_time": 1752666082,
+      "rank": 0,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 10121552,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1751963062,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3657589,
-      "num": 3657589,
-      "word": "林孝埈摔倒",
-      "onboard_time": 1738981821,
-      "rank": 1,
-      "category": "体育"
     }
   ],
   "hotgov_list": [

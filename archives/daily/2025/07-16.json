@@ -1,7 +1,23 @@
 {
   "startTime": 1752597340557,
-  "endTime": 1752666035289,
+  "endTime": 1752670606147,
   "band_list": [
+    {
+      "raw_hot": 10128223,
+      "num": 10128223,
+      "word": "黄杨某甜有关问题最新通报",
+      "onboard_time": 1752666082,
+      "rank": 0,
+      "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 2010192,
+      "num": 484025,
+      "word": "黄杨钿甜母亲发声",
+      "onboard_time": 1752670343,
+      "rank": 3,
+      "category": "艺人,民生新闻"
+    },
     {
       "raw_hot": 1759372,
       "num": 1759372,
@@ -299,6 +315,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 594306,
+      "num": 234081,
+      "word": "当地通报黄杨钿甜耳环为仿制大牌",
+      "onboard_time": 1752667046,
+      "rank": 9,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 585164,
       "num": 585164,
       "word": "山姆母公司回应选品问题",
@@ -307,12 +331,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 567709,
+      "num": 263679,
+      "word": "阿娇打电话质问吴京",
+      "onboard_time": 1752665902,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 549250,
       "num": 549250,
       "word": "小芳出嫁官宣",
       "onboard_time": 1752634760,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 542421,
+      "num": 116153,
+      "word": "特斯拉",
+      "onboard_time": 1752667164,
+      "rank": 27,
+      "category": "汽车"
     },
     {
       "raw_hot": 541219,
@@ -361,6 +401,14 @@
       "onboard_time": 1752659542,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 438428,
+      "num": 438428,
+      "word": "小时候常吃的水果消失了",
+      "onboard_time": 1752661462,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 438422,
@@ -443,14 +491,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 387742,
-      "num": 387742,
-      "word": "小时候常吃的水果消失了",
-      "onboard_time": 1752661462,
-      "rank": 40,
-      "category": "美食"
-    },
-    {
       "raw_hot": 385523,
       "num": 350902,
       "word": "赵露思胳膊怎么了",
@@ -476,7 +516,7 @@
     },
     {
       "raw_hot": 373768,
-      "num": 436799,
+      "num": 492866,
       "word": "未来一周热热热热热热热",
       "onboard_time": 1752632540,
       "rank": 9,
@@ -529,6 +569,14 @@
       "onboard_time": 1752589945,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 342721,
+      "num": 151842,
+      "word": "田栩宁ins更新了",
+      "onboard_time": 1752667764,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 338781,
@@ -731,6 +779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 249753,
+      "num": 226454,
+      "word": "新丽开机率",
+      "onboard_time": 1752667646,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 249183,
       "num": 348799,
       "word": "央视曝App小程序成隐私刺客",
@@ -748,7 +804,7 @@
     },
     {
       "raw_hot": 243996,
-      "num": 161389,
+      "num": 163802,
       "word": "张小婉浪姐毕业后咋美成这样了",
       "onboard_time": 1752662961,
       "rank": 20,
@@ -769,6 +825,14 @@
       "onboard_time": 1752593963,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 239792,
+      "num": 239792,
+      "word": "华东理工突袭宿舍收缴学生充电宝",
+      "onboard_time": 1752666502,
+      "rank": 7,
+      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 239490,
@@ -793,6 +857,22 @@
       "onboard_time": 1752636801,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225081,
+      "num": 225081,
+      "word": "外卖大战一茶饮店3成订单成废单",
+      "onboard_time": 1752666443,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 224295,
+      "num": 149583,
+      "word": "梓渝一个月涨粉500w",
+      "onboard_time": 1752667824,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 220065,
@@ -987,12 +1067,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196660,
+      "num": 196660,
+      "word": "歌手歌单",
+      "onboard_time": 1752668903,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196377,
       "num": 196377,
       "word": "你不说西周我还以为是上周的",
       "onboard_time": 1752639623,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 195807,
+      "num": 144958,
+      "word": "孙颖莎抵达北京德华陪在身后",
+      "onboard_time": 1752668183,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 195010,
@@ -1483,6 +1579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138635,
+      "num": 138635,
+      "word": "董璇对张凌赫钱包余额般的耐心",
+      "onboard_time": 1752669984,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137357,
       "num": 137357,
       "word": "AMD宣布将重启对华出口AI芯片",
@@ -1707,6 +1811,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 123094,
+      "num": 239560,
+      "word": "中方回应北约威胁对中国等二级制裁",
+      "onboard_time": 1752668064,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 122986,
       "num": 166112,
       "word": "梓渝长沙vlog",
@@ -1873,6 +1985,14 @@
       "onboard_time": 1752651802,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 116481,
+      "num": 116481,
+      "word": "山姆称会员意见已纳入选品考量",
+      "onboard_time": 1752668484,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116265,
@@ -2219,6 +2339,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 100990,
+      "num": 100990,
+      "word": "吴英杰受贿3.43亿余元被判死缓",
+      "onboard_time": 1752663561,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100785,
       "num": 209252,
       "word": "家里最易滋生霉菌的5个地方",
@@ -2235,6 +2363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99418,
+      "num": 99418,
+      "word": "白鹿短裙高跟鞋",
+      "onboard_time": 1752669864,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99344,
       "num": 103358,
       "word": "马斯克推出二次元AI女友",
@@ -2243,20 +2379,20 @@
       "category": "互联网,动漫"
     },
     {
+      "raw_hot": 99191,
+      "num": 99191,
+      "word": "小伙称犯低血糖靠烈士墓边奶糖救命",
+      "onboard_time": 1752666143,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99077,
       "num": 128960,
       "word": "美财长称英伟达销售H20芯片不存在问题",
       "onboard_time": 1752638121,
       "rank": 49,
       "category": "国际时政,数码"
-    },
-    {
-      "raw_hot": 98196,
-      "num": 98196,
-      "word": "阿娇打电话质问吴京",
-      "onboard_time": 1752665902,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 98008,
@@ -2371,6 +2507,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89179,
+      "num": 89179,
+      "word": "战至巅峰4",
+      "onboard_time": 1752669564,
+      "rank": 36,
+      "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 87997,
+      "num": 87997,
+      "word": "梓渝i人是你们e人的玩具吧",
+      "onboard_time": 1752668004,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87559,
       "num": 87559,
       "word": "王楚钦帅得好权威",
@@ -2411,6 +2563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 84869,
+      "num": 84869,
+      "word": "2025是敖瑞鹏的作品年",
+      "onboard_time": 1752668544,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 84776,
       "num": 176476,
       "word": "聊城市人民医院招菲律宾博士引质疑",
@@ -2419,12 +2579,44 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 84234,
+      "num": 197507,
+      "word": "白象一日厂长撒贝宁在线查岗",
+      "onboard_time": 1752667646,
+      "rank": 15,
+      "category": "美食,民生新闻"
+    },
+    {
       "raw_hot": 82235,
       "num": 101940,
       "word": "特朗普说与普京通话很愉快却无意义",
       "onboard_time": 1752593963,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 78124,
+      "num": 78124,
+      "word": "谁懂时团少年感的含金量",
+      "onboard_time": 1752667764,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 77025,
+      "num": 77025,
+      "word": "VOGUE拍出了朱珠北京大妞的局气",
+      "onboard_time": 1752670164,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 76922,
+      "num": 76922,
+      "word": "男子被骗缅甸有民警称能18万捞人",
+      "onboard_time": 1752670522,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76224,
@@ -2547,6 +2739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64656,
+      "num": 76366,
+      "word": "向上管理需要天赋",
+      "onboard_time": 1752670164,
+      "rank": 49,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 62618,
       "num": 62618,
       "word": "侯佩岑这才是撑得起大场面的美",
@@ -2569,6 +2769,14 @@
       "onboard_time": 1752582083,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 61211,
+      "num": 198735,
+      "word": "村民因与被告同名遭查封冻结600万",
+      "onboard_time": 1752669201,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60776,
@@ -2793,6 +3001,14 @@
       "onboard_time": 1752640882,
       "rank": 29,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 24637,
+      "num": 86525,
+      "word": "国乒平安抵达北京",
+      "onboard_time": 1752669802,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 24350,
