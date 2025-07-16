@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752648892738,
+  "endTime": 1752650916887,
   "band_list": [
     {
       "raw_hot": 14050966,
@@ -281,6 +281,14 @@
       "onboard_time": 1752481823,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1292324,
+      "num": 1292324,
+      "word": "不要怀疑任何一张能进娱乐圈的脸",
+      "onboard_time": 1752646042,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1278750,
@@ -883,12 +891,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 794634,
-      "num": 794634,
-      "word": "不要怀疑任何一张能进娱乐圈的脸",
-      "onboard_time": 1752646042,
-      "rank": 4,
-      "category": "艺人"
+      "raw_hot": 795759,
+      "num": 547658,
+      "word": "黄子韬因为抢厕所要和徐艺洋分手",
+      "onboard_time": 1752644601,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 793909,
@@ -1193,6 +1201,14 @@
       "onboard_time": 1752495442,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 633022,
+      "num": 229278,
+      "word": "这居然是3unshine组合队长",
+      "onboard_time": 1752648441,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 627737,
@@ -1915,6 +1931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 430123,
+      "num": 435064,
+      "word": "山姆丢了差异化也就丢了会员",
+      "onboard_time": 1752644001,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 429449,
       "num": 429449,
       "word": "罗马仕最新声明",
@@ -2155,14 +2179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 373721,
-      "num": 350846,
-      "word": "黄子韬因为抢厕所要和徐艺洋分手",
-      "onboard_time": 1752644601,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 373568,
       "num": 373568,
       "word": "这一轮高温天有几个明显特点",
@@ -2393,14 +2409,6 @@
       "onboard_time": 1752381261,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 341890,
-      "num": 435064,
-      "word": "山姆丢了差异化也就丢了会员",
-      "onboard_time": 1752644001,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 341724,
@@ -3163,6 +3171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 264321,
+      "num": 286138,
+      "word": "刘轩丞大学生简历有啥写啥",
+      "onboard_time": 1752647661,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 262592,
       "num": 262592,
       "word": "36岁男子因病去世23岁妻子说不会改嫁",
@@ -3451,14 +3467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 241680,
-      "num": 286138,
-      "word": "刘轩丞大学生简历有啥写啥",
-      "onboard_time": 1752647661,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 241127,
       "num": 241127,
       "word": "李昀锐报平安",
@@ -3481,6 +3489,14 @@
       "onboard_time": 1752582682,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 239490,
+      "num": 239490,
+      "word": "曝光菲方高速穿航中国海警船尾证据",
+      "onboard_time": 1752649281,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 239449,
@@ -3713,6 +3729,14 @@
       "onboard_time": 1752497842,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 217183,
+      "num": 172715,
+      "word": "李一桐曾被大冰写进书里",
+      "onboard_time": 1752648202,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 216821,
@@ -4001,14 +4025,6 @@
       "onboard_time": 1752558562,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 209823,
-      "num": 170540,
-      "word": "这居然是3unshine组合队长",
-      "onboard_time": 1752648441,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 209810,
@@ -5307,14 +5323,6 @@
       "category": "游戏,动漫"
     },
     {
-      "raw_hot": 172715,
-      "num": 172715,
-      "word": "李一桐曾被大冰写进书里",
-      "onboard_time": 1752648202,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 172681,
       "num": 172681,
       "word": "蛤蟆汤",
@@ -6595,6 +6603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145874,
+      "num": 145874,
+      "word": "刘浩存跳舞",
+      "onboard_time": 1752650420,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145539,
       "num": 153153,
       "word": "李兰迪古早名门贵女",
@@ -6609,6 +6625,14 @@
       "onboard_time": 1752480500,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145096,
+      "num": 354472,
+      "word": "日本防卫白皮书粗暴干涉中国内政",
+      "onboard_time": 1752646343,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 145057,
@@ -7683,6 +7707,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 127219,
+      "num": 167465,
+      "word": "桃花坞五周年牧野联欢会",
+      "onboard_time": 1752648861,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127144,
       "num": 453621,
       "word": "辅警为醉驾男子替换送检血样获刑",
@@ -7801,6 +7833,14 @@
       "onboard_time": 1752409942,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125316,
+      "num": 125316,
+      "word": "外国人的视角看中国式排队",
+      "onboard_time": 1752648623,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125189,
@@ -8083,6 +8123,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 121886,
+      "num": 121886,
+      "word": "农村狗狗一天的流水账",
+      "onboard_time": 1752648921,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 121862,
       "num": 121862,
       "word": "也没人告诉我民宿进化成这样了",
@@ -8113,14 +8161,6 @@
       "onboard_time": 1752495262,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 121615,
-      "num": 354472,
-      "word": "日本防卫白皮书粗暴干涉中国内政",
-      "onboard_time": 1752646343,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 121608,
@@ -8331,6 +8371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 119260,
+      "num": 119260,
+      "word": "邪修做饭 省时间",
+      "onboard_time": 1752650002,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 119138,
       "num": 119138,
       "word": "女职工们为何没休过痛经假",
@@ -8377,6 +8425,14 @@
       "onboard_time": 1752492622,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118511,
+      "num": 118511,
+      "word": "张馨予西双版纳每天暴走一万步",
+      "onboard_time": 1752649462,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 118409,
@@ -8593,14 +8649,6 @@
       "onboard_time": 1752590724,
       "rank": 44,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 115675,
-      "num": 115675,
-      "word": "外国人的视角看中国式排队",
-      "onboard_time": 1752648623,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115587,
@@ -8851,6 +8899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112347,
+      "num": 112347,
+      "word": "扫毒风暴台词",
+      "onboard_time": 1752649883,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112330,
       "num": 112330,
       "word": "曹格儿子Joe否认恋情",
@@ -9048,14 +9104,6 @@
       "word": "全员加速中",
       "onboard_time": 1752535580,
       "rank": 19,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 108383,
-      "num": 108383,
-      "word": "桃花坞五周年牧野联欢会",
-      "onboard_time": 1752648861,
-      "rank": 43,
       "category": "综艺"
     },
     {
@@ -9265,6 +9313,14 @@
       "onboard_time": 1752648623,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104898,
+      "num": 104898,
+      "word": "朝雪录最令人心痛的4分钟",
+      "onboard_time": 1752650241,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 104827,
@@ -9907,6 +9963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94333,
+      "num": 94333,
+      "word": "外出不到1小时别关空调",
+      "onboard_time": 1752650782,
+      "rank": 47,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 94117,
       "num": 94117,
       "word": "蒋欣被小狗缠上了",
@@ -10035,6 +10099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90847,
+      "num": 90847,
+      "word": "冰淇淋含量最高的成分是空气",
+      "onboard_time": 1752649820,
+      "rank": 49,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 90049,
       "num": 90049,
       "word": "易烊千玺林晓杰售后",
@@ -10089,6 +10161,14 @@
       "onboard_time": 1752564441,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 88485,
+      "num": 169157,
+      "word": "奶茶店加500补贴员工还是累跑了",
+      "onboard_time": 1752649281,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88119,
@@ -10859,6 +10939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57302,
+      "num": 168745,
+      "word": "国防部回应日本近日公布防卫白皮书",
+      "onboard_time": 1752650482,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 56283,
       "num": 226725,
       "word": "张凌赫一个眼神拍出了窒息感",
@@ -10937,6 +11025,14 @@
       "onboard_time": 1752512059,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 51618,
+      "num": 166376,
+      "word": "外卖大战商家钱赚多了却高兴不起来",
+      "onboard_time": 1752650482,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50519,
@@ -11545,6 +11641,14 @@
       "onboard_time": 1752391342,
       "rank": 19,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 24350,
+      "num": 119696,
+      "word": "熊去看演唱会",
+      "onboard_time": 1752650601,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 24348,
