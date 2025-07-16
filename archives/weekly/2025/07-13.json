@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752683766393,
+  "endTime": 1752684769463,
   "band_list": [
     {
       "raw_hot": 14050966,
@@ -5731,6 +5731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179343,
+      "num": 179343,
+      "word": "朝雪录热度",
+      "onboard_time": 1752389302,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179246,
       "num": 179246,
       "word": "打麻将瘦十斤",
@@ -5929,14 +5937,6 @@
       "onboard_time": 1752668064,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 173732,
-      "num": 173732,
-      "word": "朝雪录热度",
-      "onboard_time": 1752389302,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 173329,
@@ -6419,6 +6419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 164266,
+      "num": 147136,
+      "word": "歌手第十期歌单",
+      "onboard_time": 1752679942,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164060,
       "num": 206228,
       "word": "藏海传跻身上半年电视剧三榜单",
@@ -6833,14 +6841,6 @@
       "onboard_time": 1752551601,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 154886,
-      "num": 147136,
-      "word": "歌手第十期歌单",
-      "onboard_time": 1752679942,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 154620,
@@ -8732,7 +8732,7 @@
     },
     {
       "raw_hot": 125464,
-      "num": 80103,
+      "num": 106149,
       "word": "33岁最近3年没有体检",
       "onboard_time": 1752682640,
       "rank": 30,
@@ -8841,6 +8841,14 @@
       "onboard_time": 1752456500,
       "rank": 32,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 124093,
+      "num": 124093,
+      "word": "浙江一地可穿汉服拍身份证照片",
+      "onboard_time": 1752681681,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123990,
@@ -9651,14 +9659,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 115665,
-      "num": 115665,
-      "word": "浙江一地可穿汉服拍身份证照片",
-      "onboard_time": 1752681681,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 115661,
       "num": 147831,
       "word": "日本向小学分发敌视他国读物",
@@ -10097,6 +10097,14 @@
       "onboard_time": 1752576082,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109751,
+      "num": 89767,
+      "word": "杨幂长安的荔枝人生镜头",
+      "onboard_time": 1752682462,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 109631,
@@ -10771,6 +10779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101450,
+      "num": 101450,
+      "word": "王皓替大鹏领奖",
+      "onboard_time": 1752681200,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 101416,
       "num": 101416,
       "word": "原神5.8",
@@ -11403,14 +11419,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 90720,
-      "num": 84729,
-      "word": "王皓替大鹏领奖",
-      "onboard_time": 1752681200,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 90049,
       "num": 90049,
       "word": "易烊千玺林晓杰售后",
@@ -11425,14 +11433,6 @@
       "onboard_time": 1752447619,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 89811,
-      "num": 79905,
-      "word": "杨幂长安的荔枝人生镜头",
-      "onboard_time": 1752682462,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 89706,
@@ -11721,6 +11721,14 @@
       "onboard_time": 1752538581,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82855,
+      "num": 82855,
+      "word": "丁禹兮30岁生日应援",
+      "onboard_time": 1752683300,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 82734,
@@ -12049,14 +12057,6 @@
       "onboard_time": 1752432555,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 71556,
-      "num": 71556,
-      "word": "丁禹兮30岁生日应援",
-      "onboard_time": 1752683300,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 71301,
@@ -12587,12 +12587,28 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 48133,
+      "num": 48133,
+      "word": "中国女足收获东亚杯亚军",
+      "onboard_time": 1752681200,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 47980,
       "num": 353977,
       "word": "失联高考生电话被自称缅甸人接听",
       "onboard_time": 1752384741,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47456,
+      "num": 47456,
+      "word": "中国女篮3战全胜晋级半决赛",
+      "onboard_time": 1752684378,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 47406,
@@ -13299,7 +13315,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22146,
+      "raw_hot": 22165,
       "num": 800591,
       "word": "微观链博会",
       "onboard_time": 1752677902,

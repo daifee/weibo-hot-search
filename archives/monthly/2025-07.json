@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752683766393,
+  "endTime": 1752684769463,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -23675,6 +23675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179343,
+      "num": 179343,
+      "word": "朝雪录热度",
+      "onboard_time": 1752389302,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179324,
       "num": 179324,
       "word": "郑雅萍审程子健杀人诛心",
@@ -24657,14 +24665,6 @@
       "onboard_time": 1752045801,
       "rank": 43,
       "category": "网红"
-    },
-    {
-      "raw_hot": 173732,
-      "num": 173732,
-      "word": "朝雪录热度",
-      "onboard_time": 1752389302,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 173709,
@@ -26473,6 +26473,14 @@
       "onboard_time": 1751533581,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164266,
+      "num": 147136,
+      "word": "歌手第十期歌单",
+      "onboard_time": 1752679942,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 164227,
@@ -28433,14 +28441,6 @@
       "onboard_time": 1752551601,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 154886,
-      "num": 147136,
-      "word": "歌手第十期歌单",
-      "onboard_time": 1752679942,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 154813,
@@ -36428,7 +36428,7 @@
     },
     {
       "raw_hot": 125464,
-      "num": 80103,
+      "num": 106149,
       "word": "33岁最近3年没有体检",
       "onboard_time": 1752682640,
       "rank": 30,
@@ -36849,6 +36849,14 @@
       "onboard_time": 1752456500,
       "rank": 32,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 124093,
+      "num": 124093,
+      "word": "浙江一地可穿汉服拍身份证照片",
+      "onboard_time": 1752681681,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124010,
@@ -39731,14 +39739,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 115665,
-      "num": 115665,
-      "word": "浙江一地可穿汉服拍身份证照片",
-      "onboard_time": 1752681681,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 115661,
       "num": 147831,
       "word": "日本向小学分发敌视他国读物",
@@ -41593,6 +41593,14 @@
       "onboard_time": 1751794461,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109751,
+      "num": 89767,
+      "word": "杨幂长安的荔枝人生镜头",
+      "onboard_time": 1752682462,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 109738,
@@ -43987,6 +43995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101450,
+      "num": 101450,
+      "word": "王皓替大鹏领奖",
+      "onboard_time": 1752681200,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 101434,
       "num": 101434,
       "word": "不是蟑螂是令郎",
@@ -46067,14 +46083,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 90720,
-      "num": 84729,
-      "word": "王皓替大鹏领奖",
-      "onboard_time": 1752681200,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 90675,
       "num": 90675,
       "word": "38岁天津北漂男子下班后住车里近3年",
@@ -46169,14 +46177,6 @@
       "onboard_time": 1751625739,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 89811,
-      "num": 79905,
-      "word": "杨幂长安的荔枝人生镜头",
-      "onboard_time": 1752682462,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 89706,
@@ -47089,6 +47089,14 @@
       "onboard_time": 1752538581,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82855,
+      "num": 82855,
+      "word": "丁禹兮30岁生日应援",
+      "onboard_time": 1752683300,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 82830,
@@ -48409,14 +48417,6 @@
       "onboard_time": 1752017060,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 71556,
-      "num": 71556,
-      "word": "丁禹兮30岁生日应援",
-      "onboard_time": 1752683300,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 71531,
@@ -51083,6 +51083,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 48133,
+      "num": 48133,
+      "word": "中国女足收获东亚杯亚军",
+      "onboard_time": 1752681200,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48113,
       "num": 302213,
       "word": "血铅异常患儿家长称目前是自费治疗",
@@ -51217,6 +51225,14 @@
       "onboard_time": 1751499439,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 47456,
+      "num": 47456,
+      "word": "中国女篮3战全胜晋级半决赛",
+      "onboard_time": 1752684378,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 47406,
@@ -54643,7 +54659,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 22146,
+      "raw_hot": 22165,
       "num": 800591,
       "word": "微观链博会",
       "onboard_time": 1752677902,
