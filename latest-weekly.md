@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/13 00:31:18 ~ 2025/07/17 04:45:14
+本榜单时间：2025/07/13 00:31:18 ~ 2025/07/17 05:27:32
 </p>
 </blockquote>
 <p>
@@ -9063,6 +9063,12 @@ BW恋与深空（热度：75706）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%86%92%E9%86%92%E7%8E%B0%E5%9C%A8%E6%98%AF2006%E5%B9%B4%23" target="weibo">
+醒醒现在是2006年（热度：72354）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%AB%E6%AF%92%E9%A3%8E%E6%9A%B4%E5%AF%8C%E5%A9%86%E4%B8%BA%E7%BE%8E%E5%AE%B9%E7%8A%AF%E7%BD%AA%23" target="weibo">
 扫毒风暴富婆为美容犯罪（热度：71957）
 </a>
@@ -10071,12 +10077,6 @@ TF家族四代心动MV预告（热度：22572）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%86%92%E9%86%92%E7%8E%B0%E5%9C%A8%E6%98%AF2006%E5%B9%B4%23" target="weibo">
-醒醒现在是2006年（热度：21433）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E8%AE%B0%E8%80%85%E9%87%87%E8%AE%BF%E6%97%B6%E6%91%84%E5%83%8F%E6%9C%BA%E8%A2%AB%E7%A0%B8%23" target="weibo">
 警方回应记者采访时摄像机被砸（热度：21273）
 </a>
@@ -10239,6 +10239,12 @@ RW战胜Hero（热度：18365）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%AE%B6%E9%95%BF%E4%B8%BA%E5%86%85%E6%8E%A8%E5%90%8D%E6%A0%A1%E7%BB%84%E9%98%9F%E5%81%B7%E8%AF%95%E5%8D%B7%E8%A2%AB%E6%8B%98%23" target="weibo">
+韩国家长为内推名校组队偷试卷被拘（热度：14627）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%8B%E8%BD%A6%E6%89%94%E5%9E%83%E5%9C%BE%E9%AB%98%E9%93%81%E5%BC%80%E8%B5%B0%E4%BA%86%23" target="weibo">
 女子下车扔垃圾高铁开走了（热度：13773）
 </a>
@@ -10300,7 +10306,7 @@ RW战胜Hero（热度：18365）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%89%E7%85%8C60%E8%BD%BD%E9%AD%85%E5%8A%9B%E6%96%B0%E8%A5%BF%E8%97%8F%23" target="weibo">
-辉煌60载魅力新西藏（热度：9149）
+辉煌60载魅力新西藏（热度：10080）
 </a>
 </li>
 
